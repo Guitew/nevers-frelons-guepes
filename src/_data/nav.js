@@ -25,6 +25,7 @@ module.exports = {
     institutionnel: [
       { url: "/mentions-legales/", titre: "Mentions légales" },
       { url: "/accessibilite/", titre: "Accessibilité" },
+      { url: "/credits/", titre: "Crédits photographiques" },
       { url: "/plan-du-site/", titre: "Plan du site" },
     ],
   },

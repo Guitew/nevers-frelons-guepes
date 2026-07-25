@@ -1,0 +1,48 @@
+---
+layout: layouts/page.njk
+title: "Crédits photographiques"
+permalink: "/credits/"
+description: "Crédits et licences des photographies illustrant les fiches espèces de l'Observatoire de la biodiversité du Nord et du Pas-de-Calais."
+chapo: "Les photographies illustrant les fiches proviennent de contributeurs et contributrices dont le travail est ici crédité."
+fil:
+  - titre: "Crédits photographiques"
+---
+
+{% set avecPhoto = [] %}
+{% for e in collections.especes %}
+  {% if e.data.image and e.data.credit %}{% set avecPhoto = (avecPhoto.push(e), avecPhoto) %}{% endif %}
+{% endfor %}
+
+{% if avecPhoto.length %}
+<p>Chaque photographie reste la propriété de son auteur ou autrice et est réutilisée selon les
+conditions de sa licence (généralement une licence Creative Commons). Cliquez sur un crédit pour
+consulter la licence et la source d'origine.</p>
+
+<table>
+  <thead>
+    <tr><th>Espèce</th><th>Crédit et licence</th></tr>
+  </thead>
+  <tbody>
+    {% for e in avecPhoto %}
+    <tr>
+      <td><a href="{{ e.url }}">{{ e.data.nom_commun }}</a> <em>({{ e.data.nom_scientifique }})</em></td>
+      <td>{% if e.data.credit_url %}<a href="{{ e.data.credit_url }}" rel="noopener nofollow">{{ e.data.credit }}</a>{% else %}{{ e.data.credit }}{% endif %}</td>
+    </tr>
+    {% endfor %}
+  </tbody>
+</table>
+{% else %}
+<div class="encadre encadre--info">
+  <p class="encadre__titre">Illustrations en cours d'ajout</p>
+  <p>Les fiches sont actuellement illustrées par des pictogrammes. Les photographies sous licence
+  libre sont en cours d'intégration ; leurs crédits apparaîtront ici au fur et à mesure.</p>
+  <p>Les responsables du site peuvent lancer l'ajout automatisé des photographies avec la commande
+  <code>npm run photos</code> (voir le fichier <code>outils/README.md</code>).</p>
+</div>
+{% endif %}
+
+## Vous êtes l'auteur d'une photographie ?
+
+Si vous souhaitez qu'une de vos photographies illustre une fiche, ou si un crédit doit être corrigé,
+écrivez-nous à <a href="mailto:contact@observatoire-biodiversite-npdc.fr">contact@observatoire-biodiversite-npdc.fr</a>.
+Nous veillons au respect des droits d'auteur et des conditions de licence.

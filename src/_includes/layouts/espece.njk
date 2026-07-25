@@ -47,7 +47,7 @@ layout: layouts/base.njk
           <span class="infobox__filigrane" aria-hidden="true"><em>{{ nom_scientifique }}</em></span>
           {% endif %}
         </div>
-        {% if image and credit %}<p class="infobox__credit">© {{ credit }}</p>{% endif %}
+        {% if image and credit %}<p class="infobox__credit">{% if credit_url %}<a href="{{ credit_url }}" rel="noopener nofollow">© {{ credit }}</a>{% else %}© {{ credit }}{% endif %}</p>{% endif %}
 
         <h2 class="infobox__titre">Fiche d'identité</h2>
         <dl class="infobox__liste">

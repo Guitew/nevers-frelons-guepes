@@ -103,10 +103,18 @@ La fiche apparaît alors **automatiquement** dans les listes (Espèces, Faune ou
 `regne`), dans la recherche, le plan du site et le sitemap. Le principe est identique pour les
 milieux (`src/habitats/`) et les dossiers (`src/dossiers/`).
 
-### Ajouter une vraie photo
+### Ajouter les photos des espèces
 
-Déposez l'image dans `src/assets/img/` puis renseignez le champ `image:` de la fiche (et
-`credit:` pour le crédit photo). En l'absence de photo, un visuel illustré avec emoji est utilisé.
+Deux possibilités :
+
+- **Automatique** : `npm run photos` télécharge une photo sous licence libre depuis Wikimedia
+  Commons pour chaque fiche et renseigne l'image et son crédit (voir
+  [`outils/README.md`](./outils/README.md)). Nécessite un accès Internet.
+- **Manuelle** : déposez une image dans `src/assets/img/especes/` puis renseignez les champs
+  `image:`, `image_alt:`, `credit:` et `credit_url:` de la fiche.
+
+En l'absence de photo, un visuel illustré (pictogramme) est utilisé. Les crédits des photos
+apparaissent sur chaque fiche et sur la page **/credits/**.
 
 ## Déploiement
 
