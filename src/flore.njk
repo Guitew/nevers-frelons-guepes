@@ -1,0 +1,30 @@
+---
+layout: layouts/base.njk
+title: "Flore"
+permalink: "/flore/"
+description: "La flore du Nord et du Pas-de-Calais : plantes des dunes, des marais, des tourbières et des prairies, dont plusieurs espèces protégées et orchidées rares."
+---
+{% set flore = collections.flore %}
+{% set groupes = flore | groupePar("categorie") %}
+
+<div class="liste-entete">
+  <div class="conteneur">
+    <nav class="fil-ariane" aria-label="Fil d'Ariane">
+      <ol><li><a href="/">Accueil</a></li><li><span aria-current="page">Flore</span></li></ol>
+    </nav>
+    <h1>La flore régionale</h1>
+    <p class="chapo">L'oyat des dunes, les orchidées des marais, les plantes carnivores des tourbières :
+      la flore des Hauts-de-France s'adapte à des milieux souvent contraignants et fragiles.</p>
+  </div>
+</div>
+
+<div class="conteneur section">
+  {% for g in groupes %}
+  <section class="groupe-taxo" aria-label="{{ g.nom }}">
+    <h2 class="groupe-taxo__titre">{{ g.nom }}</h2>
+    <div class="cartes-especes">
+      {% for e in g.items %}{% include "partials/carte-espece.njk" %}{% endfor %}
+    </div>
+  </section>
+  {% endfor %}
+</div>

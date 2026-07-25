@@ -1,0 +1,7 @@
+{
+  "layout": "layouts/espece.njk",
+  "tags": "espece",
+  "eleventyComputed": {
+    "title": "{{ nom_commun or title }}"
+  }
+}

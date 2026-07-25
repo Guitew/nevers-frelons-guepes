@@ -1,0 +1,30 @@
+---
+layout: layouts/base.njk
+title: "Faune"
+permalink: "/faune/"
+description: "La faune du Nord et du Pas-de-Calais : mammifères, oiseaux, amphibiens, reptiles et insectes du littoral, des zones humides, des forêts et des terrils."
+---
+{% set faune = collections.faune %}
+{% set groupes = faune | groupePar("categorie") %}
+
+<div class="liste-entete">
+  <div class="conteneur">
+    <nav class="fil-ariane" aria-label="Fil d'Ariane">
+      <ol><li><a href="/">Accueil</a></li><li><span aria-current="page">Faune</span></li></ol>
+    </nav>
+    <h1>La faune régionale</h1>
+    <p class="chapo">Des phoques des baies de la Côte d'Opale aux chauves-souris des cavités,
+      la faune du Nord et du Pas-de-Calais reflète la diversité des milieux du territoire.</p>
+  </div>
+</div>
+
+<div class="conteneur section">
+  {% for g in groupes %}
+  <section class="groupe-taxo" aria-label="{{ g.nom }}">
+    <h2 class="groupe-taxo__titre">{{ g.nom }}</h2>
+    <div class="cartes-especes">
+      {% for e in g.items %}{% include "partials/carte-espece.njk" %}{% endfor %}
+    </div>
+  </section>
+  {% endfor %}
+</div>

@@ -1,0 +1,424 @@
+/* =====================================================================
+   Observatoire de la biodiversité du Nord et du Pas-de-Calais
+   Feuille de style — design institutionnel
+   ===================================================================== */
+
+/* ---------- Jetons de conception (tokens) ---------- */
+:root {
+  /* Couleurs de marque */
+  --vert-fonce: #123a2b;
+  --vert: #1d5c43;
+  --vert-clair: #e7f0ea;
+  --vert-vif: #2e7d5b;
+  --marine: #1b3a5b;
+  --marine-clair: #e8eef4;
+  --sable: #b9843d;
+  --sable-clair: #f6efe3;
+
+  /* Neutres */
+  --blanc: #ffffff;
+  --fond: #ffffff;
+  --fond-alt: #f4f7f4;
+  --fond-alt2: #eef2ee;
+  --texte: #17211c;
+  --texte-doux: #4c5751;
+  --bordure: #dbe2dc;
+  --bordure-forte: #c3ccc5;
+
+  /* Statuts UICN */
+  --st-re: #211d1c;
+  --st-cr: #d81e05;
+  --st-en: #fc7f3f;
+  --st-vu: #f2e30a;
+  --st-nt: #a7cf2e;
+  --st-lc: #4faa4a;
+  --st-dd: #b9bcb3;
+  --st-na: #d7dad2;
+
+  /* Typographie */
+  --serif: "Iowan Old Style", "Palatino Linotype", Palatino, "Book Antiqua", Georgia, "Times New Roman", serif;
+  --sans: system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+
+  /* Mesures */
+  --largeur-max: 1180px;
+  --largeur-texte: 760px;
+  --rayon: 6px;
+  --rayon-lg: 12px;
+  --ombre: 0 1px 2px rgba(18, 58, 43, .06), 0 6px 20px rgba(18, 58, 43, .06);
+  --ombre-forte: 0 10px 40px rgba(18, 58, 43, .14);
+  --transition: .18s ease;
+}
+
+/* ---------- Base ---------- */
+*, *::before, *::after { box-sizing: border-box; }
+
+html { -webkit-text-size-adjust: 100%; scroll-behavior: smooth; }
+
+body {
+  margin: 0;
+  font-family: var(--sans);
+  font-size: 1.0625rem;
+  line-height: 1.65;
+  color: var(--texte);
+  background: var(--fond);
+  -webkit-font-smoothing: antialiased;
+  text-rendering: optimizeLegibility;
+}
+
+h1, h2, h3, h4 { font-family: var(--serif); line-height: 1.2; color: var(--vert-fonce); font-weight: 700; }
+h1 { font-size: clamp(1.9rem, 1.3rem + 2.6vw, 2.9rem); letter-spacing: -.01em; }
+h2 { font-size: clamp(1.45rem, 1.1rem + 1.4vw, 1.9rem); }
+h3 { font-size: 1.28rem; }
+h4 { font-size: 1.08rem; }
+
+a { color: var(--vert); text-decoration-color: rgba(29, 92, 67, .35); text-underline-offset: 3px; }
+a:hover { text-decoration-color: currentColor; }
+
+img { max-width: 100%; height: auto; display: block; }
+
+/* ---------- Utilitaires ---------- */
+.conteneur { width: 100%; max-width: var(--largeur-max); margin-inline: auto; padding-inline: clamp(1rem, 3vw, 2rem); }
+.conteneur--texte { max-width: calc(var(--largeur-texte) + 4rem); }
+.sr-only, .lien-evitement {
+  position: absolute; width: 1px; height: 1px; padding: 0; margin: -1px;
+  overflow: hidden; clip: rect(0 0 0 0); white-space: nowrap; border: 0;
+}
+.lien-evitement:focus {
+  position: fixed; top: .5rem; left: .5rem; width: auto; height: auto; z-index: 200;
+  margin: 0; clip: auto; padding: .6rem 1rem; background: var(--vert-fonce); color: #fff;
+  border-radius: var(--rayon); box-shadow: var(--ombre-forte);
+}
+
+:where(a, button, input, [tabindex]):focus-visible {
+  outline: 3px solid var(--sable);
+  outline-offset: 2px;
+  border-radius: 3px;
+}
+
+/* ---------- Bandeau officiel ---------- */
+.bandeau-officiel {
+  background: var(--vert-fonce);
+  color: #dfeee6;
+  font-size: .82rem;
+}
+.bandeau-officiel__inner { display: flex; align-items: center; gap: .55rem; padding-block: .45rem; }
+.bandeau-officiel__pastille {
+  width: .7rem; height: .7rem; border-radius: 50%; flex: none;
+  background: linear-gradient(135deg, #2e7d5b, #a7cf2e);
+  box-shadow: 0 0 0 3px rgba(167, 207, 46, .18);
+}
+
+/* ---------- En-tête ---------- */
+.site-header { position: sticky; top: 0; z-index: 100; background: var(--blanc); border-bottom: 1px solid var(--bordure); }
+.site-header__inner { display: flex; align-items: center; justify-content: space-between; gap: 1rem; padding-block: .85rem; }
+
+.marque { display: flex; align-items: center; gap: .8rem; text-decoration: none; color: inherit; }
+.marque__embleme { flex: none; display: grid; place-items: center; }
+.marque__embleme img { width: 56px; height: 56px; }
+.marque__texte { display: flex; flex-direction: column; line-height: 1.1; }
+.marque__titre { font-family: var(--serif); font-weight: 700; font-size: 1.22rem; color: var(--vert-fonce); }
+.marque__sous-titre { font-size: .82rem; letter-spacing: .14em; text-transform: uppercase; color: var(--sable); font-weight: 600; }
+
+.site-header__actions { display: flex; align-items: center; gap: .75rem; }
+
+.recherche-mini { display: flex; align-items: center; background: var(--fond-alt); border: 1px solid var(--bordure); border-radius: 999px; overflow: hidden; }
+.recherche-mini input { border: 0; background: transparent; padding: .55rem .3rem .55rem .95rem; font: inherit; font-size: .92rem; width: 15rem; max-width: 42vw; color: var(--texte); }
+.recherche-mini input:focus { outline: none; }
+.recherche-mini button { border: 0; background: transparent; color: var(--vert); padding: .45rem .75rem; cursor: pointer; display: grid; place-items: center; }
+.recherche-mini:focus-within { border-color: var(--vert); box-shadow: 0 0 0 3px rgba(29,92,67,.12); }
+
+.menu-bascule { display: none; align-items: center; gap: .5rem; background: var(--vert-fonce); color: #fff; border: 0; border-radius: var(--rayon); padding: .55rem .8rem; font: inherit; font-weight: 600; cursor: pointer; }
+.menu-bascule__barres, .menu-bascule__barres::before, .menu-bascule__barres::after { display: block; width: 18px; height: 2px; background: #fff; position: relative; }
+.menu-bascule__barres::before, .menu-bascule__barres::after { content: ""; position: absolute; left: 0; }
+.menu-bascule__barres::before { top: -6px; } .menu-bascule__barres::after { top: 6px; }
+
+/* ---------- Navigation principale ---------- */
+.nav-principale { background: var(--vert); }
+.nav-principale__liste { list-style: none; margin: 0; padding: 0; display: flex; flex-wrap: wrap; }
+.nav-principale a {
+  display: block; color: #eaf3ee; text-decoration: none; font-weight: 600; font-size: .96rem;
+  padding: .85rem 1.05rem; border-bottom: 3px solid transparent; transition: var(--transition);
+}
+.nav-principale a:hover { background: rgba(255,255,255,.10); }
+.nav-principale a[aria-current="page"] { border-bottom-color: var(--st-nt); background: rgba(0,0,0,.12); }
+
+/* ---------- Pied de page ---------- */
+.site-footer { background: var(--vert-fonce); color: #d3e3da; margin-top: 4rem; padding-block: 3rem 1.5rem; }
+.site-footer__grille { display: grid; grid-template-columns: 1.6fr 1fr 1fr 1fr; gap: 2rem; padding-bottom: 2rem; border-bottom: 1px solid rgba(255,255,255,.14); }
+.site-footer__marque .marque__embleme { width: 56px; height: 56px; background: #fff; border-radius: 50%; box-shadow: 0 0 0 2px rgba(255,255,255,.25); }
+.site-footer__marque .marque__embleme img { width: 48px; height: 48px; }
+.site-footer__nom { font-family: var(--serif); font-size: 1.1rem; color: #fff; margin: .6rem 0 .3rem; }
+.site-footer__desc { font-size: .9rem; color: #b7ccc0; margin: 0; max-width: 30ch; }
+.site-footer__titre { font-family: var(--sans); font-size: .78rem; letter-spacing: .12em; text-transform: uppercase; color: var(--st-nt); margin: 0 0 .8rem; }
+.site-footer nav ul { list-style: none; margin: 0; padding: 0; display: grid; gap: .5rem; }
+.site-footer nav a { color: #d3e3da; text-decoration: none; font-size: .92rem; }
+.site-footer nav a:hover { color: #fff; text-decoration: underline; }
+.site-footer__bas { padding-top: 1.4rem; font-size: .82rem; color: #9fb8ab; display: grid; gap: .4rem; }
+.site-footer__mention { max-width: 90ch; }
+
+/* ---------- Fil d'Ariane ---------- */
+.fil-ariane { padding-block: 1.1rem .2rem; }
+.fil-ariane ol { list-style: none; display: flex; flex-wrap: wrap; gap: .4rem; margin: 0; padding: 0; font-size: .86rem; color: var(--texte-doux); }
+.fil-ariane li + li::before { content: "›"; margin-right: .4rem; color: var(--bordure-forte); }
+.fil-ariane a { color: var(--texte-doux); text-decoration: none; }
+.fil-ariane a:hover { color: var(--vert); text-decoration: underline; }
+.fil-ariane [aria-current="page"] { color: var(--texte); font-weight: 600; }
+
+/* ---------- Pages standard & prose ---------- */
+.page-standard { padding-bottom: 2rem; }
+.page-standard__entete { padding-block: .6rem 1.4rem; border-bottom: 2px solid var(--vert-clair); margin-bottom: 1.8rem; }
+.chapo { font-size: 1.2rem; line-height: 1.55; color: var(--texte-doux); margin: .8rem 0 0; max-width: 65ch; }
+
+.prose { max-width: var(--largeur-texte); }
+.prose > * + * { margin-top: 1.15rem; }
+.prose h2 { margin-top: 2.4rem; padding-bottom: .35rem; border-bottom: 1px solid var(--bordure); }
+.prose h3 { margin-top: 1.8rem; color: var(--vert); }
+.prose p, .prose li { max-width: 68ch; }
+.prose ul, .prose ol { padding-left: 1.3rem; }
+.prose li + li { margin-top: .35rem; }
+.prose a { font-weight: 500; }
+.prose blockquote {
+  margin: 1.6rem 0; padding: .8rem 1.3rem; border-left: 4px solid var(--vert-vif);
+  background: var(--fond-alt); border-radius: 0 var(--rayon) var(--rayon) 0; color: var(--texte-doux); font-style: italic;
+}
+.prose img { border-radius: var(--rayon); margin-block: 1.4rem; }
+.prose figure { margin: 1.6rem 0; }
+.prose figcaption { font-size: .85rem; color: var(--texte-doux); margin-top: .5rem; }
+.prose code { background: var(--fond-alt2); padding: .1em .4em; border-radius: 4px; font-size: .9em; }
+.prose table { width: 100%; border-collapse: collapse; margin: 1.6rem 0; font-size: .95rem; }
+.prose th, .prose td { text-align: left; padding: .6rem .8rem; border-bottom: 1px solid var(--bordure); }
+.prose thead th { background: var(--vert-clair); color: var(--vert-fonce); }
+
+/* Encadré (callout) */
+.encadre {
+  border: 1px solid var(--bordure); border-left: 4px solid var(--sable);
+  background: var(--sable-clair); border-radius: var(--rayon); padding: 1rem 1.2rem; margin: 1.6rem 0;
+}
+.encadre--info { border-left-color: var(--marine); background: var(--marine-clair); }
+.encadre--nature { border-left-color: var(--vert-vif); background: var(--vert-clair); }
+.encadre__titre { font-family: var(--sans); font-weight: 700; margin: 0 0 .3rem; color: var(--vert-fonce); font-size: 1rem; }
+.encadre p:last-child { margin-bottom: 0; }
+
+/* ---------- Accueil : hero ---------- */
+.hero {
+  position: relative; color: #fff; overflow: hidden;
+  background:
+    radial-gradient(120% 120% at 85% -10%, rgba(46,125,91,.55), transparent 55%),
+    linear-gradient(160deg, #123a2b 0%, #1d5c43 55%, #1b3a5b 100%);
+}
+.hero__inner { padding-block: clamp(3rem, 6vw, 5.5rem); display: grid; gap: 2.4rem; grid-template-columns: 1.35fr 1fr; align-items: center; }
+.hero__eyebrow { display: inline-flex; align-items: center; gap: .5rem; font-size: .82rem; letter-spacing: .1em; text-transform: uppercase; font-weight: 600; color: #bfe6d1; margin: 0 0 1rem; }
+.hero__eyebrow::before { content: ""; width: 26px; height: 2px; background: var(--st-nt); }
+.hero h1 { color: #fff; max-width: 16ch; }
+.hero__lede { font-size: 1.18rem; color: #dcece4; max-width: 46ch; margin: 1.1rem 0 1.8rem; }
+.hero__actions { display: flex; flex-wrap: wrap; gap: .8rem; }
+.hero__chiffres { display: grid; grid-template-columns: repeat(3, 1fr); gap: 1rem; }
+.chiffre { background: rgba(255,255,255,.08); border: 1px solid rgba(255,255,255,.16); border-radius: var(--rayon-lg); padding: 1.2rem 1rem; backdrop-filter: blur(2px); }
+.chiffre__nombre { font-family: var(--serif); font-size: 2.1rem; line-height: 1; color: #fff; display: block; }
+.chiffre__label { font-size: .82rem; color: #c8ddd2; margin-top: .35rem; display: block; }
+
+/* Boutons */
+.btn { display: inline-flex; align-items: center; gap: .5rem; font: inherit; font-weight: 600; text-decoration: none; padding: .75rem 1.3rem; border-radius: var(--rayon); border: 2px solid transparent; cursor: pointer; transition: var(--transition); }
+.btn--primaire { background: #fff; color: var(--vert-fonce); }
+.btn--primaire:hover { background: var(--st-nt); color: var(--vert-fonce); transform: translateY(-1px); }
+.btn--fantome { border-color: rgba(255,255,255,.5); color: #fff; }
+.btn--fantome:hover { background: rgba(255,255,255,.12); border-color: #fff; }
+.btn--vert { background: var(--vert); color: #fff; }
+.btn--vert:hover { background: var(--vert-fonce); transform: translateY(-1px); }
+
+/* ---------- Sections d'accueil ---------- */
+.section { padding-block: clamp(2.5rem, 5vw, 4rem); }
+.section--alt { background: var(--fond-alt); }
+.section__entete { max-width: 60ch; margin-bottom: 2rem; }
+.section__surtitre { font-size: .82rem; letter-spacing: .12em; text-transform: uppercase; font-weight: 700; color: var(--sable); margin: 0 0 .5rem; }
+.section__titre { margin: 0; }
+.section__intro { color: var(--texte-doux); margin-top: .7rem; font-size: 1.08rem; }
+.section__lien { display: inline-flex; align-items: center; gap: .4rem; font-weight: 600; text-decoration: none; margin-top: 1.4rem; }
+.section__lien::after { content: "→"; transition: var(--transition); }
+.section__lien:hover::after { transform: translateX(4px); }
+
+/* Grille de rubriques / accès */
+.acces-grille { display: grid; grid-template-columns: repeat(auto-fit, minmax(240px, 1fr)); gap: 1.2rem; }
+.acces {
+  display: flex; flex-direction: column; gap: .6rem; padding: 1.5rem; text-decoration: none; color: inherit;
+  background: var(--blanc); border: 1px solid var(--bordure); border-radius: var(--rayon-lg); transition: var(--transition);
+}
+.acces:hover { border-color: var(--vert-vif); box-shadow: var(--ombre); transform: translateY(-3px); }
+.acces__icone { width: 48px; height: 48px; border-radius: var(--rayon); display: grid; place-items: center; font-size: 1.6rem; background: var(--vert-clair); }
+.acces__titre { font-family: var(--serif); font-size: 1.2rem; color: var(--vert-fonce); margin: 0; }
+.acces__desc { font-size: .94rem; color: var(--texte-doux); margin: 0; }
+.acces__lien { margin-top: auto; font-weight: 600; color: var(--vert); font-size: .92rem; }
+
+/* ---------- Cartes espèces ---------- */
+.cartes-especes { display: grid; grid-template-columns: repeat(auto-fill, minmax(230px, 1fr)); gap: 1.2rem; }
+.carte-espece {
+  display: flex; flex-direction: column; text-decoration: none; color: inherit; background: var(--blanc);
+  border: 1px solid var(--bordure); border-radius: var(--rayon-lg); overflow: hidden; transition: var(--transition);
+}
+.carte-espece:hover { border-color: var(--vert-vif); box-shadow: var(--ombre); transform: translateY(-3px); }
+.carte-espece__visuel { position: relative; aspect-ratio: 16 / 10; display: grid; place-items: center; overflow: hidden; }
+.carte-espece__visuel img { width: 100%; height: 100%; object-fit: cover; }
+.carte-espece__embleme { font-size: 3.2rem; filter: drop-shadow(0 2px 3px rgba(0,0,0,.15)); }
+.carte-espece__statut { position: absolute; top: .6rem; right: .6rem; }
+.carte-espece__corps { padding: 1rem 1.1rem 1.15rem; display: flex; flex-direction: column; gap: .15rem; }
+.carte-espece__categorie { font-size: .74rem; letter-spacing: .08em; text-transform: uppercase; color: var(--sable); font-weight: 700; }
+.carte-espece__nom { font-family: var(--serif); font-size: 1.18rem; color: var(--vert-fonce); font-weight: 700; }
+.carte-espece__sci { font-size: .88rem; color: var(--texte-doux); }
+
+/* Visuels thématiques (dégradés par milieu) */
+.infobox__visuel--nature   { background: linear-gradient(150deg, #cfe6d6, #2e7d5b); }
+.infobox__visuel--littoral { background: linear-gradient(150deg, #d5e6f2, #2f6f9e); }
+.infobox__visuel--zone-humide { background: linear-gradient(150deg, #cfe8e4, #2b8a86); }
+.infobox__visuel--foret    { background: linear-gradient(150deg, #cfe3c8, #3c7a34); }
+.infobox__visuel--terril   { background: linear-gradient(150deg, #e4ddd2, #7a5a3a); }
+.infobox__visuel--bocage   { background: linear-gradient(150deg, #dbe9c9, #5f8b3a); }
+.infobox__visuel--ciel     { background: linear-gradient(150deg, #dbe7f4, #4a6fa5); }
+
+/* ---------- Fiche espèce ---------- */
+.fiche { padding-bottom: 1rem; }
+.fiche__grille { display: grid; grid-template-columns: 1fr 340px; gap: 2.6rem; align-items: start; margin-top: .5rem; }
+.fiche__entete { border-bottom: 2px solid var(--vert-clair); padding-bottom: 1.2rem; margin-bottom: 1.6rem; }
+.fiche__categorie { font-size: .8rem; letter-spacing: .1em; text-transform: uppercase; font-weight: 700; color: var(--sable); margin: 0 0 .4rem; }
+.fiche__scientifique { font-size: 1.15rem; color: var(--texte-doux); margin: .3rem 0 0; }
+.fiche__auteur { font-size: .9rem; color: var(--bordure-forte); }
+.fiche__sources { margin-top: 2.5rem; padding-top: 1.4rem; border-top: 1px solid var(--bordure); }
+.fiche__sources h2 { font-size: 1.15rem; }
+.fiche__sources ul { padding-left: 1.2rem; font-size: .92rem; color: var(--texte-doux); }
+.fiche__sources li + li { margin-top: .5rem; }
+.fiche__maj { margin-top: 2rem; font-size: .84rem; color: var(--texte-doux); font-style: italic; }
+.fiche__voisines { margin-top: 3rem; padding-top: 2rem; border-top: 2px solid var(--vert-clair); }
+.fiche__voisines h2 { font-size: 1.4rem; margin-bottom: 1.2rem; }
+
+/* Infobox */
+.infobox { position: sticky; top: 6.5rem; border: 1px solid var(--bordure); border-radius: var(--rayon-lg); overflow: hidden; background: var(--blanc); box-shadow: var(--ombre); }
+.infobox__visuel { position: relative; aspect-ratio: 4 / 3; display: grid; place-items: center; }
+.infobox__visuel img { width: 100%; height: 100%; object-fit: cover; }
+.infobox__silhouette { font-size: 4.6rem; filter: drop-shadow(0 3px 5px rgba(0,0,0,.18)); }
+.infobox__filigrane { position: absolute; bottom: .5rem; left: 0; right: 0; text-align: center; color: rgba(255,255,255,.85); font-size: .82rem; text-shadow: 0 1px 3px rgba(0,0,0,.4); }
+.infobox__credit { font-size: .74rem; color: var(--texte-doux); margin: .4rem .9rem; text-align: right; }
+.infobox__titre { font-family: var(--sans); font-size: .78rem; letter-spacing: .1em; text-transform: uppercase; color: #fff; background: var(--vert); margin: 0; padding: .55rem .9rem; }
+.infobox__liste { margin: 0; }
+.infobox__liste > div { display: grid; grid-template-columns: 40% 60%; gap: .5rem; padding: .55rem .9rem; border-bottom: 1px solid var(--fond-alt2); font-size: .9rem; }
+.infobox__liste dt { color: var(--texte-doux); font-weight: 600; margin: 0; }
+.infobox__liste dd { margin: 0; }
+.infobox__statuts { padding: .9rem; display: grid; gap: .8rem; }
+.statut-ligne { display: flex; align-items: center; gap: .7rem; }
+.statut-texte { font-size: .86rem; line-height: 1.3; }
+.statut-portee { color: var(--texte-doux); font-size: .78rem; }
+.infobox__protections, .infobox__departements { list-style: none; margin: 0; padding: .8rem .9rem; display: grid; gap: .5rem; font-size: .88rem; }
+.infobox__protections li { display: flex; gap: .5rem; align-items: flex-start; }
+.puce-bouclier { flex: none; width: 16px; height: 16px; margin-top: .18rem; border-radius: 3px 3px 5px 5px; background: var(--vert-vif); clip-path: polygon(50% 0, 100% 22%, 100% 62%, 50% 100%, 0 62%, 0 22%); }
+.infobox__departements li { padding-left: 1.1rem; position: relative; }
+.infobox__departements li::before { content: "📍"; position: absolute; left: 0; font-size: .8rem; }
+
+/* Badges de statut UICN */
+.statut-badge {
+  display: inline-grid; place-items: center; min-width: 2.1rem; height: 1.7rem; padding: 0 .45rem;
+  font-weight: 800; font-size: .82rem; border-radius: 4px; color: #fff; letter-spacing: .02em; flex: none;
+}
+.st-re { background: var(--st-re); }
+.st-cr { background: var(--st-cr); }
+.st-en { background: var(--st-en); }
+.st-vu { background: var(--st-vu); color: #4a4300; }
+.st-nt { background: var(--st-nt); color: #33420a; }
+.st-lc { background: var(--st-lc); }
+.st-dd { background: var(--st-dd); color: #3a3d34; }
+.st-na { background: var(--st-na); color: #40433b; }
+
+/* ---------- Milieu (habitat) ---------- */
+.fiche--habitat .fiche__grille { margin-top: 2rem; }
+.habitat-hero { color: #fff; padding-block: clamp(2.4rem, 5vw, 4rem); margin-top: 1rem; border-radius: var(--rayon-lg); }
+.habitat-hero__inner { padding-inline: 0; }
+.habitat-hero__surtitre { font-size: .82rem; letter-spacing: .12em; text-transform: uppercase; font-weight: 700; color: rgba(255,255,255,.85); margin: 0 0 .5rem; }
+.habitat-hero h1 { color: #fff; }
+.habitat-hero .chapo { color: rgba(255,255,255,.92); }
+.habitat-especes { margin-top: 2.5rem; }
+.habitat-especes h2 { font-size: 1.4rem; margin-bottom: 1.2rem; }
+
+/* ---------- Index / listes ---------- */
+.liste-entete { background: var(--fond-alt); border-bottom: 1px solid var(--bordure); padding-block: 2.4rem; }
+.liste-entete h1 { margin: 0; }
+.liste-entete .chapo { margin-top: .7rem; }
+
+.filtres { display: flex; flex-wrap: wrap; gap: .55rem; margin: 1.6rem 0 .5rem; }
+.filtre-btn {
+  font: inherit; font-size: .9rem; font-weight: 600; cursor: pointer; padding: .45rem 1rem; border-radius: 999px;
+  border: 1px solid var(--bordure-forte); background: var(--blanc); color: var(--texte-doux); transition: var(--transition);
+}
+.filtre-btn:hover { border-color: var(--vert); color: var(--vert); }
+.filtre-btn[aria-pressed="true"] { background: var(--vert); border-color: var(--vert); color: #fff; }
+
+.groupe-taxo { margin-top: 2.5rem; }
+.groupe-taxo__titre { font-family: var(--serif); font-size: 1.4rem; color: var(--vert-fonce); padding-bottom: .4rem; border-bottom: 2px solid var(--vert-clair); margin-bottom: 1.2rem; }
+
+/* Compteur de résultats */
+.resultats-compteur { color: var(--texte-doux); font-size: .92rem; margin-top: 1rem; }
+
+/* ---------- Recherche ---------- */
+.recherche-page { max-width: 780px; margin-inline: auto; }
+.recherche-grande { display: flex; gap: .6rem; margin: 1.5rem 0; }
+.recherche-grande input { flex: 1; font: inherit; font-size: 1.1rem; padding: .85rem 1.1rem; border: 2px solid var(--bordure-forte); border-radius: var(--rayon); }
+.recherche-grande input:focus { outline: none; border-color: var(--vert); box-shadow: 0 0 0 3px rgba(29,92,67,.12); }
+#resultats-recherche { display: grid; gap: .8rem; margin-top: 1.5rem; }
+.resultat {
+  display: block; padding: 1rem 1.2rem; border: 1px solid var(--bordure); border-radius: var(--rayon); text-decoration: none;
+  color: inherit; background: var(--blanc); transition: var(--transition);
+}
+.resultat:hover { border-color: var(--vert-vif); box-shadow: var(--ombre); }
+.resultat__type { font-size: .74rem; text-transform: uppercase; letter-spacing: .08em; font-weight: 700; color: var(--sable); }
+.resultat__titre { font-family: var(--serif); font-size: 1.2rem; color: var(--vert-fonce); margin: .1rem 0; }
+.resultat__sci { font-size: .9rem; color: var(--texte-doux); }
+.recherche-vide { color: var(--texte-doux); padding: 1.5rem 0; }
+
+/* ---------- Légende des statuts ---------- */
+.legende-statuts { display: grid; gap: .5rem; margin: 1.4rem 0; }
+.legende-statuts li { display: flex; align-items: center; gap: .7rem; list-style: none; font-size: .92rem; }
+.legende-statuts { padding: 0; }
+
+/* Dossier meta */
+.dossier__meta { color: var(--texte-doux); font-size: .9rem; margin-top: .8rem; }
+
+/* Liste des dossiers */
+.dossiers-liste { display: grid; gap: 1.2rem; }
+.dossier-carte { display: grid; grid-template-columns: auto 1fr; gap: 1.3rem; align-items: center; padding: 1.4rem; background: var(--blanc); border: 1px solid var(--bordure); border-radius: var(--rayon-lg); text-decoration: none; color: inherit; transition: var(--transition); }
+.dossier-carte:hover { border-color: var(--vert-vif); box-shadow: var(--ombre); transform: translateY(-2px); }
+.dossier-carte__vignette { width: 72px; height: 72px; border-radius: var(--rayon); display: grid; place-items: center; font-size: 2rem; background: var(--vert-clair); flex: none; }
+.dossier-carte__rubrique { font-size: .76rem; text-transform: uppercase; letter-spacing: .08em; font-weight: 700; color: var(--sable); }
+.dossier-carte__titre { font-family: var(--serif); font-size: 1.25rem; color: var(--vert-fonce); margin: .15rem 0 .3rem; }
+.dossier-carte__chapo { font-size: .94rem; color: var(--texte-doux); margin: 0; }
+
+/* ---------- Responsive ---------- */
+@media (max-width: 960px) {
+  .fiche__grille { grid-template-columns: 1fr; }
+  .infobox { position: static; max-width: 460px; }
+  .hero__inner { grid-template-columns: 1fr; }
+  .site-footer__grille { grid-template-columns: 1fr 1fr; }
+}
+
+@media (max-width: 780px) {
+  .menu-bascule { display: inline-flex; }
+  .recherche-mini { display: none; }
+  .nav-principale { display: none; }
+  .nav-principale.est-ouvert { display: block; }
+  .nav-principale__liste { flex-direction: column; }
+  .nav-principale a { padding: .9rem 1rem; border-bottom: 1px solid rgba(255,255,255,.12); }
+  .nav-principale a[aria-current="page"] { border-bottom-color: rgba(255,255,255,.12); }
+}
+
+@media (max-width: 560px) {
+  body { font-size: 1rem; }
+  .hero__chiffres { grid-template-columns: 1fr; }
+  .site-footer__grille { grid-template-columns: 1fr; }
+  .dossier-carte { grid-template-columns: 1fr; }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  * { scroll-behavior: auto !important; transition: none !important; }
+}
+
+/* Impression */
+@media print {
+  .site-header, .site-footer, .bandeau-officiel, .fiche__voisines, .menu-bascule { display: none; }
+  body { font-size: 11pt; }
+  .fiche__grille { grid-template-columns: 1fr; }
+}

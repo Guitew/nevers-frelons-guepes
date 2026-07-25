@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" role="img" aria-label="Emblème de l'Observatoire de la biodiversité">
+  <defs>
+    <linearGradient id="ciel" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#dff0e6"/>
+      <stop offset="1" stop-color="#eef6f0"/>
+    </linearGradient>
+  </defs>
+  <!-- Sceau circulaire institutionnel -->
+  <circle cx="50" cy="50" r="48" fill="#123a2b"/>
+  <circle cx="50" cy="50" r="43" fill="url(#ciel)"/>
+  <circle cx="50" cy="50" r="43" fill="none" stroke="#123a2b" stroke-width="1.2"/>
+  <circle cx="50" cy="50" r="39" fill="none" stroke="#b9843d" stroke-width="0.8"/>
+  <!-- Vague littorale (Côte d'Opale) -->
+  <path d="M11 66 q9 -6 19 0 t19 0 t19 0 t19 0 v22 h-76 z" fill="#1b3a5b" opacity="0.9"/>
+  <path d="M11 70 q9 -5 19 0 t19 0 t19 0 t19 0 v18 h-76 z" fill="#2f6f9e" opacity="0.55"/>
+  <!-- Colline / terril -->
+  <path d="M20 68 q18 -30 34 -2 z" fill="#1d5c43"/>
+  <!-- Feuille centrale -->
+  <path d="M50 24 C63 34 63 54 50 64 C37 54 37 34 50 24 Z" fill="#2e7d5b"/>
+  <path d="M50 26 L50 62" stroke="#0f3324" stroke-width="1.4" fill="none"/>
+  <path d="M50 36 L58 32 M50 44 L59 41 M50 52 L57 50 M50 36 L42 32 M50 44 L41 41 M50 52 L43 50" stroke="#0f3324" stroke-width="1" fill="none" opacity="0.7"/>
+  <!-- Oiseau (vol) -->
+  <path d="M62 30 q4 -3 8 0 q-4 -1 -4 3 q-4 -4 -4 -3 q0 -1 -4 3 q0 -4 -4 -3 q4 -3 8 0" fill="#123a2b" transform="translate(4,-4) scale(0.8)"/>
+</svg>

@@ -1,0 +1,47 @@
+<div class="bandeau-officiel" role="complementary">
+  <div class="conteneur bandeau-officiel__inner">
+    <span class="bandeau-officiel__pastille" aria-hidden="true"></span>
+    <span>Ressource encyclopédique sur la biodiversité des départements du Nord (59) et du Pas-de-Calais (62)</span>
+  </div>
+</div>
+
+<header class="site-header" role="banner">
+  <div class="conteneur site-header__inner">
+    <a class="marque" href="/">
+      <span class="marque__embleme" aria-hidden="true">
+        <img src="/assets/img/logo.svg" alt="" width="56" height="56">
+      </span>
+      <span class="marque__texte">
+        <span class="marque__titre">Observatoire de la biodiversité</span>
+        <span class="marque__sous-titre">Nord &amp; Pas-de-Calais</span>
+      </span>
+    </a>
+
+    <div class="site-header__actions">
+      <form class="recherche-mini" action="/recherche/" method="get" role="search">
+        <label class="sr-only" for="q-header">Rechercher une espèce ou un milieu</label>
+        <input type="search" id="q-header" name="q" placeholder="Rechercher une espèce, un milieu…" autocomplete="off">
+        <button type="submit" aria-label="Lancer la recherche">
+          <svg viewBox="0 0 24 24" width="20" height="20" aria-hidden="true" focusable="false"><path fill="currentColor" d="M15.5 14h-.79l-.28-.27a6.5 6.5 0 1 0-.7.7l.27.28v.79l5 4.99L20.49 19l-4.99-5zm-6 0A4.5 4.5 0 1 1 14 9.5 4.5 4.5 0 0 1 9.5 14z"/></svg>
+        </button>
+      </form>
+
+      <button class="menu-bascule" type="button" aria-expanded="false" aria-controls="nav-principale" aria-label="Ouvrir le menu de navigation">
+        <span class="menu-bascule__barres" aria-hidden="true"></span>
+        <span>Menu</span>
+      </button>
+    </div>
+  </div>
+
+  <nav class="nav-principale" id="nav-principale" aria-label="Navigation principale">
+    <div class="conteneur">
+      <ul class="nav-principale__liste">
+        {% for lien in nav.principale %}
+        <li>
+          <a href="{{ lien.url }}"{% if page.url == lien.url or (lien.url != "/" and page.url.startsWith(lien.url)) %} aria-current="page"{% endif %}>{{ lien.titre }}</a>
+        </li>
+        {% endfor %}
+      </ul>
+    </div>
+  </nav>
+</header>

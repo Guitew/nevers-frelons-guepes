@@ -1,0 +1,58 @@
+name: Construire et déployer sur o2switch
+
+# Déploiement automatique du site sur l'hébergement o2switch via FTP.
+#
+# Pré-requis : définir 3 secrets dans les réglages du dépôt GitHub
+#   (Settings → Secrets and variables → Actions → New repository secret) :
+#     FTP_SERVER    : l'hôte FTP o2switch (ex. ftp.votre-domaine.fr ou monserveur.o2switch.net)
+#     FTP_USERNAME  : votre identifiant FTP (compte cPanel ou compte FTP dédié)
+#     FTP_PASSWORD  : le mot de passe associé
+#
+# Le déploiement se déclenche à chaque push sur la branche principale,
+# ou manuellement depuis l'onglet « Actions » (workflow_dispatch).
+
+on:
+  push:
+    branches: [main]
+  workflow_dispatch:
+
+concurrency:
+  group: deploy-o2switch
+  cancel-in-progress: true
+
+jobs:
+  build-deploy:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Récupérer le code
+        uses: actions/checkout@v4
+
+      - name: Installer Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: "22"
+          cache: "npm"
+
+      - name: Installer les dépendances
+        run: npm ci
+
+      - name: Compiler le site (Eleventy)
+        run: npm run build
+
+      - name: Déployer sur o2switch par FTP
+        uses: SamKirkland/FTP-Deploy-Action@v4.3.5
+        with:
+          server: ${{ secrets.FTP_SERVER }}
+          username: ${{ secrets.FTP_USERNAME }}
+          password: ${{ secrets.FTP_PASSWORD }}
+          protocol: ftps
+          # Contenu à envoyer : le dossier compilé
+          local-dir: ./_site/
+          # Cible sur o2switch : la racine web du domaine.
+          # Adaptez si le site est dans un sous-dossier (ex. ./public_html/mon-site/).
+          server-dir: ./public_html/
+          # Fichiers à ne jamais transférer
+          exclude: |
+            **/.git*
+            **/.git*/**
+            **/node_modules/**

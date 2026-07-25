@@ -1,0 +1,67 @@
+---
+layout: layouts/base.njk
+---
+<article class="fiche fiche--habitat">
+  <div class="conteneur">
+    <nav class="fil-ariane" aria-label="Fil d'Ariane">
+      <ol>
+        <li><a href="/">Accueil</a></li>
+        <li><a href="/habitats/">Milieux naturels</a></li>
+        <li><span aria-current="page">{{ title }}</span></li>
+      </ol>
+    </nav>
+
+    <header class="habitat-hero infobox__visuel--{{ theme or 'nature' }}">
+      <div class="conteneur conteneur--texte habitat-hero__inner">
+        <p class="habitat-hero__surtitre">Milieu naturel</p>
+        <h1>{{ title }}</h1>
+        {% if chapo %}<p class="chapo">{{ chapo }}</p>{% endif %}
+      </div>
+    </header>
+
+    <div class="fiche__grille">
+      <div class="fiche__corps">
+        <div class="prose">
+          {{ content | safe }}
+        </div>
+
+        {% if especes_liees %}
+        <section class="habitat-especes" aria-labelledby="he-titre">
+          <h2 id="he-titre">Espèces caractéristiques de ce milieu</h2>
+          <div class="cartes-especes">
+            {% for slug in especes_liees %}
+              {% for e in collections.especes %}
+                {% if e.fileSlug == slug %}{% include "partials/carte-espece.njk" %}{% endif %}
+              {% endfor %}
+            {% endfor %}
+          </div>
+        </section>
+        {% endif %}
+
+        {% if sources %}
+        <section class="fiche__sources" aria-labelledby="sources-titre">
+          <h2 id="sources-titre">Sources et pour aller plus loin</h2>
+          <ul>{% for s in sources %}<li>{{ s | safe }}</li>{% endfor %}</ul>
+        </section>
+        {% endif %}
+      </div>
+
+      <aside class="infobox" aria-label="Informations sur le milieu">
+        <h2 class="infobox__titre">En bref</h2>
+        <dl class="infobox__liste">
+          {% if localisation %}<div><dt>Localisation</dt><dd>{{ localisation }}</dd></div>{% endif %}
+          {% if superficie %}<div><dt>Superficie</dt><dd>{{ superficie }}</dd></div>{% endif %}
+          {% if type_milieu %}<div><dt>Type de milieu</dt><dd>{{ type_milieu }}</dd></div>{% endif %}
+          {% if protection_statut %}<div><dt>Statut</dt><dd>{{ protection_statut }}</dd></div>{% endif %}
+        </dl>
+
+        {% if enjeux %}
+        <h2 class="infobox__titre">Enjeux de conservation</h2>
+        <ul class="infobox__protections">
+          {% for j in enjeux %}<li><span class="puce-bouclier" aria-hidden="true"></span>{{ j }}</li>{% endfor %}
+        </ul>
+        {% endif %}
+      </aside>
+    </div>
+  </div>
+</article>

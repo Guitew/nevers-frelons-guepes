@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>{% if title %}{{ title }} — {{ site.nomCourt }}{% else %}{{ site.nom }}{% endif %}</title>
+  <meta name="description" content="{{ description or site.description }}">
+  <link rel="canonical" href="{{ site.url }}{{ page.url }}">
+
+  <!-- Open Graph -->
+  <meta property="og:type" content="website">
+  <meta property="og:site_name" content="{{ site.nomCourt }}">
+  <meta property="og:locale" content="fr_FR">
+  <meta property="og:title" content="{% if title %}{{ title }}{% else %}{{ site.nom }}{% endif %}">
+  <meta property="og:description" content="{{ description or site.description }}">
+  <meta property="og:url" content="{{ site.url }}{{ page.url }}">
+  <meta name="twitter:card" content="summary">
+
+  <link rel="icon" href="/assets/img/favicon.svg" type="image/svg+xml">
+  <link rel="preload" href="/assets/css/style.css" as="style">
+  <link rel="stylesheet" href="/assets/css/style.css">
+  {% if schema %}<script type="application/ld+json">{{ schema | jsonify | safe }}</script>{% endif %}
+</head>
+<body>
+  <a class="lien-evitement" href="#contenu">Aller au contenu principal</a>
+
+  {% include "partials/header.njk" %}
+
+  <main id="contenu" role="main">
+    {{ content | safe }}
+  </main>
+
+  {% include "partials/footer.njk" %}
+
+  <script src="/assets/js/main.js" defer></script>
+</body>
+</html>

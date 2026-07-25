@@ -1,0 +1,40 @@
+<footer class="site-footer" role="contentinfo">
+  <div class="conteneur">
+    <div class="site-footer__grille">
+      <div class="site-footer__marque">
+        <span class="marque__embleme" aria-hidden="true">
+          <img src="/assets/img/logo.svg" alt="" width="48" height="48">
+        </span>
+        <p class="site-footer__nom">{{ site.nom }}</p>
+        <p class="site-footer__desc">{{ site.baseline }}.</p>
+      </div>
+
+      <nav aria-label="Découvrir">
+        <h2 class="site-footer__titre">Découvrir</h2>
+        <ul>
+          {% for lien in nav.pied.decouvrir %}<li><a href="{{ lien.url }}">{{ lien.titre }}</a></li>{% endfor %}
+        </ul>
+      </nav>
+
+      <nav aria-label="L'observatoire">
+        <h2 class="site-footer__titre">L'observatoire</h2>
+        <ul>
+          {% for lien in nav.pied.observatoire %}<li><a href="{{ lien.url }}">{{ lien.titre }}</a></li>{% endfor %}
+        </ul>
+      </nav>
+
+      <nav aria-label="Informations">
+        <h2 class="site-footer__titre">Informations</h2>
+        <ul>
+          {% for lien in nav.pied.institutionnel %}<li><a href="{{ lien.url }}">{{ lien.titre }}</a></li>{% endfor %}
+          <li><a href="/flux.xml">Flux de syndication</a></li>
+        </ul>
+      </nav>
+    </div>
+
+    <div class="site-footer__bas">
+      <p>© {{ "" | annee }} {{ site.organisme }}. Contenus encyclopédiques diffusés à des fins pédagogiques et d'information.</p>
+      <p class="site-footer__mention">Ce site est une ressource documentaire indépendante. Il ne se substitue pas aux organismes officiels de gestion et de protection de la nature.</p>
+    </div>
+  </div>
+</footer>

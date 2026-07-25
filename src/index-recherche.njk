@@ -1,0 +1,36 @@
+---
+permalink: "/index-recherche.json"
+eleventyExcludeFromCollections: true
+---
+{%- set entrees = [] -%}
+{%- for e in collections.especes -%}
+  {%- set entrees = (entrees.push({
+    "url": e.url,
+    "titre": e.data.nom_commun or e.data.title,
+    "sci": e.data.nom_scientifique,
+    "categorie": e.data.categorie,
+    "type": "Espèce",
+    "mots": (e.data.synonymes or []) | join(" ")
+  }), entrees) -%}
+{%- endfor -%}
+{%- for h in collections.habitats -%}
+  {%- set entrees = (entrees.push({
+    "url": h.url,
+    "titre": h.data.title,
+    "sci": h.data.localisation or "",
+    "categorie": h.data.type_milieu or "Milieu naturel",
+    "type": "Milieu",
+    "mots": ""
+  }), entrees) -%}
+{%- endfor -%}
+{%- for d in collections.dossiers -%}
+  {%- set entrees = (entrees.push({
+    "url": d.url,
+    "titre": d.data.title,
+    "sci": "",
+    "categorie": d.data.rubrique or "Dossier",
+    "type": "Dossier",
+    "mots": d.data.chapo or ""
+  }), entrees) -%}
+{%- endfor -%}
+{{ entrees | jsonify | safe }}

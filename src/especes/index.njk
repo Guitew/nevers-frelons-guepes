@@ -1,0 +1,41 @@
+---
+layout: layouts/base.njk
+title: "Toutes les espèces"
+description: "Catalogue des espèces de faune et de flore documentées dans le Nord et le Pas-de-Calais : mammifères, oiseaux, amphibiens, reptiles, insectes et plantes."
+---
+{% set especes = collections.especes | triNom %}
+{% set groupes = especes | groupePar("categorie") %}
+
+<div class="liste-entete">
+  <div class="conteneur">
+    <nav class="fil-ariane" aria-label="Fil d'Ariane">
+      <ol><li><a href="/">Accueil</a></li><li><span aria-current="page">Espèces</span></li></ol>
+    </nav>
+    <h1>Espèces du Nord et du Pas-de-Calais</h1>
+    <p class="chapo">Parcourez les fiches de la faune et de la flore régionales. Chaque fiche présente
+      l'espèce, son habitat, son statut de conservation et ses mesures de protection.</p>
+
+    <div class="filtres" role="group" aria-label="Filtrer par groupe">
+      <button class="filtre-btn" type="button" data-filtre="tout" aria-pressed="true">Tout</button>
+      {% for g in groupes %}
+      <button class="filtre-btn" type="button" data-filtre="{{ g.nom | slug }}" aria-pressed="false">{{ g.nom }}</button>
+      {% endfor %}
+    </div>
+    <p class="resultats-compteur" data-compteur>{{ especes.length }} fiches affichées</p>
+  </div>
+</div>
+
+<div class="conteneur section">
+  {% for g in groupes %}
+  <section class="groupe-taxo" aria-label="{{ g.nom }}">
+    <h2 class="groupe-taxo__titre">{{ g.nom }}</h2>
+    <div class="cartes-especes">
+      {% for e in g.items %}
+      <div data-categorie="{{ g.nom | slug }}">
+        {% include "partials/carte-espece.njk" %}
+      </div>
+      {% endfor %}
+    </div>
+  </section>
+  {% endfor %}
+</div>

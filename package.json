@@ -1,0 +1,17 @@
+{
+  "name": "observatoire-biodiversite-npdc",
+  "version": "1.0.0",
+  "description": "Observatoire de la biodiversité du Nord et du Pas-de-Calais — encyclopédie de la faune, de la flore et des milieux naturels des Hauts-de-France.",
+  "license": "MIT",
+  "scripts": {
+    "start": "eleventy --serve --quiet",
+    "dev": "eleventy --serve",
+    "build": "eleventy",
+    "clean": "rm -rf _site"
+  },
+  "devDependencies": {
+    "@11ty/eleventy": "^3.1.0",
+    "@11ty/eleventy-plugin-rss": "^3.0.0",
+    "luxon": "^3.4.4"
+  }
+}

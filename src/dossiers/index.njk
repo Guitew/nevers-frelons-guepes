@@ -1,0 +1,30 @@
+---
+layout: layouts/base.njk
+title: "Dossiers"
+description: "Dossiers thématiques sur la biodiversité du Nord et du Pas-de-Calais : migrations, espèces menacées, renaturation, cohabitation avec la faune sauvage."
+---
+<div class="liste-entete">
+  <div class="conteneur">
+    <nav class="fil-ariane" aria-label="Fil d'Ariane">
+      <ol><li><a href="/">Accueil</a></li><li><span aria-current="page">Dossiers</span></li></ol>
+    </nav>
+    <h1>Dossiers thématiques</h1>
+    <p class="chapo">Des synthèses pour comprendre les grands enjeux de la biodiversité régionale,
+      au-delà des fiches espèces.</p>
+  </div>
+</div>
+
+<div class="conteneur section">
+  <div class="dossiers-liste">
+    {% for d in collections.dossiers %}
+    <a class="dossier-carte" href="{{ d.url }}">
+      <span class="dossier-carte__vignette" aria-hidden="true">{{ d.data.embleme or '📄' }}</span>
+      <span>
+        <span class="dossier-carte__rubrique">{{ d.data.rubrique or "Dossier" }}</span>
+        <span class="dossier-carte__titre">{{ d.data.title }}</span>
+        <span class="dossier-carte__chapo">{{ d.data.chapo | truncate(150) }}</span>
+      </span>
+    </a>
+    {% endfor %}
+  </div>
+</div>
