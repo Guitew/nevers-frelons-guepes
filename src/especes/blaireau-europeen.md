@@ -1,6 +1,10 @@
 ---
 nom_commun: "Blaireau européen"
 nom_scientifique: "Meles meles"
+credit_url: "https://creativecommons.org/licenses/by/2.0"
+credit: "Peter Trimming / Wikimedia Commons — CC BY 2.0"
+image_alt: "Blaireau européen (Meles meles)"
+image: "/assets/img/especes/blaireau-europeen.jpg"
 auteur_taxon: "(Linnaeus, 1758)"
 regne: "Animalia"
 classe: "Mammifères"

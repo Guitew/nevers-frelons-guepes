@@ -1,6 +1,10 @@
 ---
 nom_commun: "Gorgebleue à miroir"
 nom_scientifique: "Luscinia svecica"
+credit_url: "https://creativecommons.org/licenses/by-sa/4.0"
+credit: "Charles J. Sharp / Wikimedia Commons — CC BY-SA 4.0"
+image_alt: "Gorgebleue à miroir (Luscinia svecica)"
+image: "/assets/img/especes/gorgebleue-a-miroir.jpg"
 auteur_taxon: "(Linnaeus, 1758)"
 regne: "Animalia"
 classe: "Oiseaux"

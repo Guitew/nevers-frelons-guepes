@@ -1,6 +1,10 @@
 ---
 nom_commun: "Grand Rhinolophe"
 nom_scientifique: "Rhinolophus ferrumequinum"
+credit_url: "https://creativecommons.org/licenses/by/3.0"
+credit: "Prof. emeritus Hans Schneider (Geyersberg) / Wikimedia Commons — CC BY 3.0"
+image_alt: "Grand Rhinolophe (Rhinolophus ferrumequinum)"
+image: "/assets/img/especes/grand-rhinolophe.jpg"
 auteur_taxon: "(Schreber, 1774)"
 regne: "Animalia"
 classe: "Mammifères"

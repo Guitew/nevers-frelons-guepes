@@ -1,6 +1,10 @@
 ---
 nom_commun: "Busard des roseaux"
 nom_scientifique: "Circus aeruginosus"
+credit_url: "https://creativecommons.org/licenses/by/4.0"
+credit: "Stephan Sprinz / Wikimedia Commons — CC BY 4.0"
+image_alt: "Busard des roseaux (Circus aeruginosus)"
+image: "/assets/img/especes/busard-des-roseaux.jpg"
 auteur_taxon: "(Linnaeus, 1758)"
 regne: "Animalia"
 classe: "Oiseaux"

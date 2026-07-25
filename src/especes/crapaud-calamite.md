@@ -1,6 +1,10 @@
 ---
 nom_commun: "Crapaud calamite"
 nom_scientifique: "Epidalea calamita"
+credit_url: "http://creativecommons.org/licenses/by-sa/3.0/"
+credit: "Auteur inconnu / Wikimedia Commons — CC BY-SA 3.0"
+image_alt: "Crapaud calamite (Epidalea calamita)"
+image: "/assets/img/especes/crapaud-calamite.jpg"
 auteur_taxon: "(Laurenti, 1768)"
 regne: "Animalia"
 classe: "Amphibiens"

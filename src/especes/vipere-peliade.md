@@ -1,6 +1,10 @@
 ---
 nom_commun: "Vipère péliade"
 nom_scientifique: "Vipera berus"
+credit_url: "http://creativecommons.org/licenses/by-sa/3.0/"
+credit: "Auteur inconnu / Wikimedia Commons — CC BY-SA 3.0"
+image_alt: "Vipère péliade (Vipera berus)"
+image: "/assets/img/especes/vipere-peliade.jpg"
 auteur_taxon: "(Linnaeus, 1758)"
 regne: "Animalia"
 classe: "Reptiles"

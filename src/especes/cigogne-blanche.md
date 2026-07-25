@@ -1,6 +1,10 @@
 ---
 nom_commun: "Cigogne blanche"
 nom_scientifique: "Ciconia ciconia"
+credit_url: "https://creativecommons.org/licenses/by-sa/3.0"
+credit: "Dcabrilo / Wikimedia Commons — CC BY-SA 3.0"
+image_alt: "Cigogne blanche (Ciconia ciconia)"
+image: "/assets/img/especes/cigogne-blanche.jpg"
 auteur_taxon: "(Linnaeus, 1758)"
 regne: "Animalia"
 classe: "Oiseaux"

@@ -1,6 +1,10 @@
 ---
 nom_commun: "Avocette élégante"
 nom_scientifique: "Recurvirostra avosetta"
+credit_url: "https://creativecommons.org/licenses/by/2.0"
+credit: "Derek Keats from Johannesburg, South Africa / Wikimedia Commons — CC BY 2.0"
+image_alt: "Avocette élégante (Recurvirostra avosetta)"
+image: "/assets/img/especes/avocette-elegante.jpg"
 auteur_taxon: "Linnaeus, 1758"
 regne: "Animalia"
 classe: "Oiseaux"

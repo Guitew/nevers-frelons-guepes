@@ -1,6 +1,10 @@
 ---
 nom_commun: "Liparis de Loesel"
 nom_scientifique: "Liparis loeselii"
+credit_url: "https://creativecommons.org/licenses/by-sa/3.0"
+credit: "Hans Stieglitz / Wikimedia Commons — CC BY-SA 3.0"
+image_alt: "Liparis de Loesel (Liparis loeselii)"
+image: "/assets/img/especes/liparis-de-loesel.jpg"
 auteur_taxon: "(L.) Rich."
 regne: "Plantae"
 classe: "Monocotylédones"

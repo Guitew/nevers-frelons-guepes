@@ -1,6 +1,10 @@
 ---
 nom_commun: "Agrion de Mercure"
 nom_scientifique: "Coenagrion mercuriale"
+credit_url: "https://creativecommons.org/licenses/by-sa/2.0"
+credit: "Gilles San Martin / Wikimedia Commons — CC BY-SA 2.0"
+image_alt: "Agrion de Mercure (Coenagrion mercuriale)"
+image: "/assets/img/especes/agrion-de-mercure.jpg"
 auteur_taxon: "(Charpentier, 1840)"
 regne: "Animalia"
 classe: "Insectes"

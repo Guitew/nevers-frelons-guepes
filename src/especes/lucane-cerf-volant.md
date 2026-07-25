@@ -1,6 +1,10 @@
 ---
 nom_commun: "Lucane cerf-volant"
 nom_scientifique: "Lucanus cervus"
+credit_url: "https://creativecommons.org/licenses/by-sa/4.0"
+credit: "Didier Descouens / Wikimedia Commons — CC BY-SA 4.0"
+image_alt: "Lucane cerf-volant (Lucanus cervus)"
+image: "/assets/img/especes/lucane-cerf-volant.jpg"
 auteur_taxon: "(Linnaeus, 1758)"
 regne: "Animalia"
 classe: "Insectes"
