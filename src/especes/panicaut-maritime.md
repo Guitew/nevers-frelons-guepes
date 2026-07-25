@@ -1,6 +1,10 @@
 ---
 nom_commun: "Panicaut maritime"
 nom_scientifique: "Eryngium maritimum"
+credit_url: "https://commons.wikimedia.org/wiki/File:Illustration_Eryngium_maritimum0.jpg"
+credit: "Auteur inconnu / Wikimedia Commons — Public domain"
+image_alt: "Panicaut maritime (Eryngium maritimum)"
+image: "/assets/img/especes/panicaut-maritime.jpg"
 auteur_taxon: "L."
 regne: "Plantae"
 classe: "Dicotylédones"

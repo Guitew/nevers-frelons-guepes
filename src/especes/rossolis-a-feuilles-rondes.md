@@ -1,6 +1,10 @@
 ---
 nom_commun: "Rossolis à feuilles rondes"
 nom_scientifique: "Drosera rotundifolia"
+credit_url: "http://creativecommons.org/licenses/by-sa/3.0/"
+credit: "Auteur inconnu / Wikimedia Commons — CC BY-SA 3.0"
+image_alt: "Rossolis à feuilles rondes (Drosera rotundifolia)"
+image: "/assets/img/especes/rossolis-a-feuilles-rondes.jpg"
 auteur_taxon: "L."
 regne: "Plantae"
 classe: "Dicotylédones"

@@ -1,6 +1,10 @@
 ---
 nom_commun: "Oyat"
 nom_scientifique: "Ammophila arenaria"
+credit_url: "http://creativecommons.org/licenses/by-sa/3.0/"
+credit: "Lin linao / Wikimedia Commons — CC BY-SA 3.0"
+image_alt: "Oyat (Ammophila arenaria)"
+image: "/assets/img/especes/oyat.jpg"
 auteur_taxon: "(L.) Link"
 regne: "Plantae"
 classe: "Monocotylédones"

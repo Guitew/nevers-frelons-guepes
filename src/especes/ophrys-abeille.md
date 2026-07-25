@@ -1,6 +1,10 @@
 ---
 nom_commun: "Ophrys abeille"
 nom_scientifique: "Ophrys apifera"
+credit_url: "https://creativecommons.org/licenses/by-sa/4.0"
+credit: "Joachim Lutz / Wikimedia Commons — CC BY-SA 4.0"
+image_alt: "Ophrys abeille (Ophrys apifera)"
+image: "/assets/img/especes/ophrys-abeille.jpg"
 auteur_taxon: "Huds."
 regne: "Plantae"
 classe: "Monocotylédones"

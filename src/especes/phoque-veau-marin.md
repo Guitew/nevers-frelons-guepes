@@ -1,6 +1,10 @@
 ---
 nom_commun: "Phoque veau-marin"
 nom_scientifique: "Phoca vitulina"
+credit_url: "https://creativecommons.org/licenses/by-sa/2.5"
+credit: "Andreas Trepte / Wikimedia Commons — CC BY-SA 2.5"
+image_alt: "Phoque veau-marin (Phoca vitulina)"
+image: "/assets/img/especes/phoque-veau-marin.jpg"
 auteur_taxon: "Linnaeus, 1758"
 regne: "Animalia"
 classe: "Mammifères"

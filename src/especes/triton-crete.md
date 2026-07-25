@@ -1,6 +1,10 @@
 ---
 nom_commun: "Triton crêté"
 nom_scientifique: "Triturus cristatus"
+credit_url: "https://commons.wikimedia.org/wiki/File:Kammmolchmaennchen.jpg"
+credit: "Rainer Theuer. / Wikimedia Commons — Public domain"
+image_alt: "Triton crêté (Triturus cristatus)"
+image: "/assets/img/especes/triton-crete.jpg"
 auteur_taxon: "(Laurenti, 1768)"
 regne: "Animalia"
 classe: "Amphibiens"

@@ -1,6 +1,10 @@
 ---
 nom_commun: "Parnassie des marais"
 nom_scientifique: "Parnassia palustris"
+credit_url: "https://creativecommons.org/licenses/by-sa/3.0"
+credit: "Hans Hillewaert / Wikimedia Commons — CC BY-SA 3.0"
+image_alt: "Parnassie des marais (Parnassia palustris)"
+image: "/assets/img/especes/parnassie-des-marais.jpg"
 auteur_taxon: "L."
 regne: "Plantae"
 classe: "Dicotylédones"
