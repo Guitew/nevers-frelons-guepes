@@ -45,25 +45,57 @@ async function api(url) {
   return r.json();
 }
 
-/** Recherche l'image de tête d'un article et son nom de fichier Commons. */
-async function trouverFichier(nomScientifique) {
+const EXT_IMAGE = /\.(jpe?g|png)$/i;
+
+/** Image de tête d'un article Wikipédia (fr puis en) via une recherche par terme. */
+async function imageArticle(terme) {
   for (const lang of ["fr", "en"]) {
     const url =
       `https://${lang}.wikipedia.org/w/api.php?action=query&format=json&origin=*` +
-      `&generator=search&gsrsearch=${encodeURIComponent(nomScientifique)}&gsrlimit=1` +
+      `&generator=search&gsrsearch=${encodeURIComponent(terme)}&gsrlimit=1` +
       `&prop=pageimages&piprop=name&pilicense=any`;
     try {
       const data = await api(url);
       const pages = data?.query?.pages || {};
       for (const k of Object.keys(pages)) {
-        const nom = pages[k]?.pageimage;
-        if (nom) return nom;
+        if (pages[k]?.pageimage && EXT_IMAGE.test(pages[k].pageimage)) return pages[k].pageimage;
       }
     } catch (e) {
-      /* on tente la langue suivante */
+      /* langue suivante */
     }
   }
   return null;
+}
+
+/** Recherche directe d'un fichier image sur Wikimedia Commons (repli). */
+async function fichierCommons(terme) {
+  const url =
+    `https://commons.wikimedia.org/w/api.php?action=query&format=json&origin=*` +
+    `&generator=search&gsrnamespace=6&gsrsearch=${encodeURIComponent(terme)}&gsrlimit=15` +
+    `&prop=imageinfo&iiprop=mime`;
+  try {
+    const data = await api(url);
+    const pages = Object.values(data?.query?.pages || {});
+    // On privilégie les vraies photos (jpg/png), en écartant cartes, dessins et sons.
+    const candidats = pages
+      .filter((p) => EXT_IMAGE.test(p.title || ""))
+      .filter((p) => !/(map|carte|distribution|range|locator|diagram|drawing|illustration|sound|.svg)/i.test(p.title))
+      .sort((a, b) => (a.index || 0) - (b.index || 0));
+    if (candidats.length) return candidats[0].title.replace(/^File:/i, "");
+  } catch (e) {
+    /* rien */
+  }
+  return null;
+}
+
+/** Trouve un nom de fichier Commons pour une espèce (article, puis recherche Commons). */
+async function trouverFichier(nomScientifique, nomCommun) {
+  return (
+    (await imageArticle(nomScientifique)) ||
+    (await imageArticle(nomCommun)) ||
+    (await fichierCommons(nomScientifique)) ||
+    null
+  );
 }
 
 /** Récupère l'URL téléchargeable et les métadonnées de licence d'un fichier Commons. */
@@ -164,7 +196,7 @@ async function main() {
 
     try {
       process.stdout.write(`→  ${slug} (${sci}) … `);
-      const nomFichier = await trouverFichier(sci);
+      const nomFichier = await trouverFichier(sci, nomCommun);
       if (!nomFichier) {
         console.log("aucune image trouvée");
         echecs.push(slug);
