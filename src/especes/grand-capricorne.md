@@ -1,6 +1,10 @@
 ---
 nom_commun: "Grand Capricorne"
 nom_scientifique: "Cerambyx cerdo"
+credit_url: "https://creativecommons.org/licenses/by-sa/3.0"
+credit: "Didier Descouens / Wikimedia Commons — CC BY-SA 3.0"
+image_alt: "Grand Capricorne (Cerambyx cerdo)"
+image: "/assets/img/especes/grand-capricorne.jpg"
 auteur_taxon: "Linnaeus, 1758"
 regne: "Animalia"
 classe: "Insectes"

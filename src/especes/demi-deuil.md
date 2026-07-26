@@ -1,6 +1,10 @@
 ---
 nom_commun: "Demi-deuil"
 nom_scientifique: "Melanargia galathea"
+credit_url: "https://creativecommons.org/licenses/by-sa/2.5"
+credit: "Michael Apel / Wikimedia Commons — CC BY-SA 2.5"
+image_alt: "Demi-deuil (Melanargia galathea)"
+image: "/assets/img/especes/demi-deuil.jpg"
 auteur_taxon: "(Linnaeus, 1758)"
 regne: "Animalia"
 classe: "Insectes"

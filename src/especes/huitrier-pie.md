@@ -1,6 +1,10 @@
 ---
 nom_commun: "Huîtrier pie"
 nom_scientifique: "Haematopus ostralegus"
+credit_url: "https://creativecommons.org/licenses/by-sa/3.0"
+credit: "Richard Bartz / Wikimedia Commons — CC BY-SA 3.0"
+image_alt: "Huîtrier pie (Haematopus ostralegus)"
+image: "/assets/img/especes/huitrier-pie.jpg"
 auteur_taxon: "Linnaeus, 1758"
 regne: "Animalia"
 classe: "Oiseaux"

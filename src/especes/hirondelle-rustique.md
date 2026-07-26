@@ -1,6 +1,10 @@
 ---
 nom_commun: "Hirondelle rustique"
 nom_scientifique: "Hirundo rustica"
+credit_url: "https://creativecommons.org/licenses/by-sa/4.0"
+credit: "Dion Art / Wikimedia Commons — CC BY-SA 4.0"
+image_alt: "Hirondelle rustique (Hirundo rustica)"
+image: "/assets/img/especes/hirondelle-rustique.jpg"
 auteur_taxon: "Linnaeus, 1758"
 regne: "Animalia"
 classe: "Oiseaux"

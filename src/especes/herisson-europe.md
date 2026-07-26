@@ -1,6 +1,10 @@
 ---
 nom_commun: "Hérisson d'Europe"
 nom_scientifique: "Erinaceus europaeus"
+credit_url: "https://creativecommons.org/licenses/by-sa/2.0/de/deed.en"
+credit: "Jörg Hempel / Wikimedia Commons — CC BY-SA 2.0 de"
+image_alt: "Hérisson d'Europe (Erinaceus europaeus)"
+image: "/assets/img/especes/herisson-europe.jpg"
 auteur_taxon: "Linnaeus, 1758"
 regne: "Animalia"
 classe: "Mammifères"

@@ -1,6 +1,10 @@
 ---
 nom_commun: "Lézard des murailles"
 nom_scientifique: "Podarcis muralis"
+credit_url: "https://creativecommons.org/licenses/by-sa/3.0"
+credit: "Lucarelli / Wikimedia Commons — CC BY-SA 3.0"
+image_alt: "Lézard des murailles (Podarcis muralis)"
+image: "/assets/img/especes/lezard-des-murailles.jpg"
 auteur_taxon: "(Laurenti, 1768)"
 regne: "Animalia"
 classe: "Reptiles"

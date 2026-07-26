@@ -1,6 +1,10 @@
 ---
 nom_commun: "Jacinthe des bois"
 nom_scientifique: "Hyacinthoides non-scripta"
+credit_url: "https://creativecommons.org/licenses/by-sa/3.0"
+credit: "MichaelMaggs / Wikimedia Commons — CC BY-SA 3.0"
+image_alt: "Jacinthe des bois (Hyacinthoides non-scripta)"
+image: "/assets/img/especes/jacinthe-des-bois.jpg"
 auteur_taxon: "(L.) Chouard ex Rothm."
 regne: "Plantae"
 classe: "Monocotylédones"

@@ -1,6 +1,10 @@
 ---
 nom_commun: "Héron cendré"
 nom_scientifique: "Ardea cinerea"
+credit_url: "https://creativecommons.org/licenses/by-sa/3.0"
+credit: "Laitche / Wikimedia Commons — CC BY-SA 3.0"
+image_alt: "Héron cendré (Ardea cinerea)"
+image: "/assets/img/especes/heron-cendre.jpg"
 auteur_taxon: "Linnaeus, 1758"
 regne: "Animalia"
 classe: "Oiseaux"

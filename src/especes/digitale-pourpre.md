@@ -1,6 +1,10 @@
 ---
 nom_commun: "Digitale pourpre"
 nom_scientifique: "Digitalis purpurea"
+credit_url: "https://commons.wikimedia.org/wiki/File:Digitalis_purpurea_Koehler_drawing.jpg"
+credit: "Walther Otto Müller / Wikimedia Commons — Public domain"
+image_alt: "Digitale pourpre (Digitalis purpurea)"
+image: "/assets/img/especes/digitale-pourpre.jpg"
 auteur_taxon: "L."
 regne: "Plantae"
 classe: "Dicotylédones"

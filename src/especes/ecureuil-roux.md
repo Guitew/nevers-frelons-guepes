@@ -1,6 +1,10 @@
 ---
 nom_commun: "Écureuil roux"
 nom_scientifique: "Sciurus vulgaris"
+credit_url: "https://creativecommons.org/licenses/by-sa/2.0/de/deed.en"
+credit: "Ray eye / Wikimedia Commons — CC BY-SA 2.0 de"
+image_alt: "Écureuil roux (Sciurus vulgaris)"
+image: "/assets/img/especes/ecureuil-roux.jpg"
 auteur_taxon: "Linnaeus, 1758"
 regne: "Animalia"
 classe: "Mammifères"

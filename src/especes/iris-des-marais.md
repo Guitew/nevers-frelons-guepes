@@ -1,6 +1,10 @@
 ---
 nom_commun: "Iris des marais"
 nom_scientifique: "Iris pseudacorus"
+credit_url: "https://commons.wikimedia.org/wiki/File:Illustration_Iris_pseudacorus0.jpg"
+credit: "Auteur inconnu / Wikimedia Commons — Public domain"
+image_alt: "Iris des marais (Iris pseudacorus)"
+image: "/assets/img/especes/iris-des-marais.jpg"
 auteur_taxon: "L."
 regne: "Plantae"
 classe: "Monocotylédones"

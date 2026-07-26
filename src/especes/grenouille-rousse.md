@@ -1,6 +1,10 @@
 ---
 nom_commun: "Grenouille rousse"
 nom_scientifique: "Rana temporaria"
+credit_url: "https://creativecommons.org/licenses/by/3.0"
+credit: "Holger Krisp / Wikimedia Commons — CC BY 3.0"
+image_alt: "Grenouille rousse (Rana temporaria)"
+image: "/assets/img/especes/grenouille-rousse.jpg"
 auteur_taxon: "(Linnaeus, 1758)"
 regne: "Animalia"
 classe: "Amphibiens"

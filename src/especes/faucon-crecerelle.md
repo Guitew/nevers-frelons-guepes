@@ -1,6 +1,10 @@
 ---
 nom_commun: "Faucon crécerelle"
 nom_scientifique: "Falco tinnunculus"
+credit_url: "https://creativecommons.org/licenses/by-sa/2.5"
+credit: "Andreas Trepte / Wikimedia Commons — CC BY-SA 2.5"
+image_alt: "Faucon crécerelle (Falco tinnunculus)"
+image: "/assets/img/especes/faucon-crecerelle.jpg"
 auteur_taxon: "Linnaeus, 1758"
 regne: "Animalia"
 classe: "Oiseaux"
