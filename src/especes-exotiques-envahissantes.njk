@@ -93,13 +93,20 @@ description: "Les espèces exotiques envahissantes du Nord et du Pas-de-Calais :
     <div class="nap" itemscope itemtype="https://schema.org/LocalBusiness">
       <p class="nap__nom" itemprop="name">{{ partenaire.nap.raison }}</p>
       <dl>
-        {% if partenaire.nap.adresse or partenaire.nap.codePostalVille %}
+        {% if partenaire.nap.adresse %}
         <div itemprop="address" itemscope itemtype="https://schema.org/PostalAddress">
           <dt>Adresse</dt>
           <dd>
-            {% if partenaire.nap.adresse %}<span itemprop="streetAddress">{{ partenaire.nap.adresse }}</span>{% endif %}
-            {% if partenaire.nap.codePostalVille %}<br><span itemprop="addressLocality">{{ partenaire.nap.codePostalVille }}</span>{% endif %}
+            <span itemprop="streetAddress">{{ partenaire.nap.adresse }}</span><br>
+            <span itemprop="postalCode">{{ partenaire.nap.codePostal }}</span> <span itemprop="addressLocality">{{ partenaire.nap.ville }}</span>
+            <meta itemprop="addressCountry" content="FR">
           </dd>
+        </div>
+        {% endif %}
+        {% if partenaire.geo %}
+        <div itemprop="geo" itemscope itemtype="https://schema.org/GeoCoordinates" hidden>
+          <meta itemprop="latitude" content="{{ partenaire.geo.latitude }}">
+          <meta itemprop="longitude" content="{{ partenaire.geo.longitude }}">
         </div>
         {% endif %}
         {% if partenaire.nap.telephone %}

@@ -15,19 +15,23 @@ module.exports = {
     nids62: "https://allo-frelons.fr/nids-de-guepes-et-frelons-dans-le-pas-de-calais-62",
   },
 
-  // NAP (Name / Address / Phone) — À COMPLÉTER avec les valeurs exactes du profil Google.
+  // NAP (Name / Address / Phone) — coordonnées exactes du profil Google.
   nap: {
     raison: "ALLO FRELONS 59",
-    adresse: "", // ex. "12 rue de l'Exemple, 59000 Lille"
-    codePostalVille: "", // ex. "59000 Lille"
-    telephone: "", // ex. "06 XX XX XX XX"
-    telephoneLien: "", // ex. "+336XXXXXXXX"
-    horaires: "", // ex. "7j/7 · 8h – 20h"
+    adresse: "1 rue Bonte Pollet",
+    codePostal: "59000",
+    ville: "Lille",
+    codePostalVille: "59000 Lille",
+    telephone: "06 75 36 24 05",
+    telephoneLien: "+33675362405",
+    horaires: "",
     zone: "Nord (59) et alentours",
   },
+  // Coordonnées géographiques (extraites de l'intégration Google Maps)
+  geo: { latitude: 50.62428637162589, longitude: 3.032163475707874 },
 
-  // Carte Google — remplacez par l'URL du bloc « Intégrer une carte » (Partager → Intégrer une carte)
-  // Valeur par défaut : recherche par nom (à affiner avec l'iframe exact de votre établissement).
-  carteEmbed: "https://www.google.com/maps?q=ALLO%20FRELONS%2059&output=embed",
+  // Carte Google — URL du bloc « Intégrer une carte » de la fiche d'établissement.
+  carteEmbed:
+    "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2531.1523611237526!2d3.032163475707874!3d50.62428637162589!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47c2d50067686133%3A0xcd01b4fe43315fdb!2sALLO%20FRELONS%2059!5e0!3m2!1sfr!2sfr!4v1785057903092!5m2!1sfr!2sfr",
   carteLien: "https://maps.app.goo.gl/9jcx3ybpfosL1rrQ9",
 };
