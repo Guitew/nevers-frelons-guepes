@@ -35,36 +35,75 @@ sources:
 
 ## Une espèce exotique envahissante
 
-Le Frelon asiatique est **originaire d'Asie du Sud-Est**. Introduit accidentellement en France au
-début des années 2000, il s'est propagé sur l'ensemble du territoire, **Hauts-de-France comprises**.
-Classé **espèce exotique envahissante**, il fait l'objet d'une surveillance et d'une lutte
-organisée. Voir aussi notre page [Espèces exotiques envahissantes](/especes-exotiques-envahissantes/).
-Pour un guide pratique complet, consultez la ressource dédiée au [frelon asiatique](https://allo-frelons.fr/frelon-asiatique).
+Le frelon asiatique (*Vespa velutina nigrithorax*), aussi appelé **frelon à pattes jaunes**, est un
+**insecte originaire d'Asie du Sud-Est**. Introduit accidentellement en France au début des années
+2000 — vraisemblablement via du matériel importé dans le sud-ouest —, il a colonisé en une vingtaine
+d'années la quasi-totalité du pays, **Hauts-de-France comprises**, jusqu'à la Côte d'Opale. Classé
+**espèce exotique envahissante**, il fait l'objet d'une surveillance et d'une lutte organisée. Voir
+aussi notre page [Espèces exotiques envahissantes](/especes-exotiques-envahissantes/). Pour un guide
+pratique complet, consultez la ressource dédiée au [frelon asiatique](https://allo-frelons.fr/frelon-asiatique).
 
-## Le reconnaître
+## Comment identifier le frelon asiatique ?
 
-Plus **sombre** que le [frelon européen](/especes/frelon-europeen/), le frelon asiatique présente :
+C'est un frelon de **taille moyenne** — les ouvrières mesurent environ 2 à 2,5 cm, la reine jusqu'à
+3 cm — donc légèrement plus **petit** que le frelon européen. Sa livrée est nettement **sombre** :
 
-- un **thorax entièrement noir** et un abdomen sombre marqué d'un seul large anneau orangé ;
-- des **pattes jaunes** aux extrémités (d'où son autre nom, « frelon à pattes jaunes ») ;
-- une taille légèrement inférieure à celle du frelon européen.
+- un **thorax entièrement noir** et un abdomen brun-noir marqué d'un **seul large anneau orange** vers
+  l'extrémité ;
+- des **pattes jaunes** à leur extrémité — le critère le plus fiable, à l'origine de son surnom ;
+- une tête noire vue de dessus, orangée de face.
 
-Bien distinguer les deux espèces est essentiel : le frelon européen, indigène et utile, ne doit pas
-être détruit par confusion.
+À l'inverse, le [frelon européen](/especes/frelon-europeen/) (*Vespa crabro*) est plus grand, **roux
+et jaune**, avec un abdomen majoritairement jaune rayé de noir. Bien distinguer les deux espèces est
+essentiel : le frelon européen est **indigène et utile**, il ne doit pas être détruit par confusion.
+Retrouvez tous les critères dans notre dossier
+[frelon asiatique ou européen : comment les reconnaître](/dossiers/frelon-asiatique-ou-europeen-reconnaitre/).
 
-## Impacts
+## Où le trouve-t-on en France ?
 
-Le frelon asiatique est un **prédateur d'insectes**, et notamment des **abeilles domestiques**,
-qu'il chasse en vol stationnaire devant les ruches. Une forte pression de prédation peut affaiblir
-les colonies d'abeilles et perturber la pollinisation. Il exerce aussi une prédation sur d'autres
-insectes, avec des effets encore étudiés sur la biodiversité locale.
+Après son point d'entrée dans le **sud-ouest de la France**, le frelon asiatique a progressé vers le
+nord et l'est au rythme de plusieurs dizaines de kilomètres par an. Il est aujourd'hui présent dans
+la **grande majorité des départements français**, y compris dans le Nord et le Pas-de-Calais, où il
+s'observe aussi bien en ville qu'à la campagne. L'espèce affectionne les paysages variés associant
+zones bâties, jardins, vergers et lisières, où elle trouve à la fois des proies et des supports pour
+nidifier.
 
-## Ses nids
+## Quel est le cycle de vie du frelon asiatique ?
 
-La colonie construit d'abord un **nid primaire** (près du sol, sous un abri) au printemps, puis
-souvent un **nid secondaire** volumineux, fréquemment **haut dans les arbres** ou sous une toiture.
-Ces nids, parfois découverts seulement à la chute des feuilles, peuvent atteindre une grande taille.
-Comme chez nos autres Vespidés, la colonie est **annuelle** et le nid n'est pas réutilisé.
+Comme chez tous nos Vespidés, la **colonie est strictement annuelle** ; seules de jeunes reines
+fécondées passent l'hiver. Au **printemps**, une **reine fondatrice** sort d'hivernage et bâtit un
+petit **nid primaire**, de la taille d'une orange, dans un endroit abrité et souvent proche du sol.
+À mesure que la colonie grandit, elle déménage fréquemment vers un **nid secondaire** beaucoup plus
+volumineux, fréquemment installé **haut dans un arbre** ou sous une toiture. Fait de fibres de bois
+mâchées, ce nid peut devenir imposant et n'est **découvert qu'à l'automne**, à la chute des feuilles.
+Le nid n'est **jamais réutilisé** l'année suivante. Nous détaillons ces étapes dans le dossier
+[le nid de frelon asiatique et son cycle](/dossiers/nid-frelon-asiatique-reconnaitre-cycle/).
+
+## Quels sont les dangers du frelon asiatique ?
+
+Contrairement à sa réputation, le frelon asiatique n'est **pas agressif loin de son nid** : isolé, il
+ne présente pas plus de risque qu'une guêpe. Le **danger sanitaire** apparaît **à proximité immédiate
+du nid**, que la colonie défend collectivement : une vibration ou un passage trop près peut déclencher
+des **piqûres multiples**, réellement dangereuses, surtout pour les personnes allergiques. C'est
+pourquoi un nid ne doit jamais être approché ni traité soi-même. Le point complet dans notre dossier
+[le frelon asiatique est-il dangereux ?](/dossiers/frelon-asiatique-danger-piqure/).
+
+## Son impact sur les abeilles
+
+Le frelon asiatique est avant tout un **prédateur d'insectes**, et notamment des
+[abeilles domestiques](/especes/abeille-domestique/) qu'il chasse en **vol stationnaire devant les
+ruches**. Une forte pression de prédation **affaiblit les colonies** d'abeilles, réduit le butinage
+et perturbe la **pollinisation** — un enjeu qui dépasse l'apiculture et touche la biodiversité locale.
+Nous y consacrons un dossier : [frelon asiatique et abeilles](/dossiers/frelon-asiatique-abeilles-menace/).
+
+## Comment lutter contre le frelon asiatique ?
+
+La lutte repose d'abord sur la **détection précoce** et le **signalement** des nids et des individus,
+qui alimentent le suivi de l'espèce. La **destruction des nids** relève ensuite d'un **professionnel
+équipé** : les traitements « maison » sont dangereux et souvent inefficaces, et les pièges non
+sélectifs tuent quantité d'insectes utiles. La marche à suivre complète — sécuriser, confirmer
+l'espèce, signaler, faire intervenir — est décrite dans notre dossier
+[que faire face à un nid de frelon asiatique](/dossiers/que-faire-nid-frelon-asiatique-signalement/).
 
 <div class="encadre encadre--info">
   <p class="encadre__titre">Que faire face à un nid ?</p>
@@ -72,12 +111,6 @@ Comme chez nos autres Vespidés, la colonie est **annuelle** et le nid n'est pas
   risque de piqûres multiples est réel. Signalez-le et faites intervenir un professionnel équipé.
   Un signalement des observations aide aussi au suivi de l'espèce.</p>
 </div>
-
-## Signalement
-
-La détection précoce des nids et des individus est importante pour limiter la progression de
-l'espèce. Les observations peuvent être transmises aux dispositifs de signalement du frelon
-asiatique et aux structures compétentes de votre commune ou de votre département.
 
 ## Le frelon asiatique en détail
 
