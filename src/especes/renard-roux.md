@@ -1,6 +1,10 @@
 ---
 nom_commun: "Renard roux"
 nom_scientifique: "Vulpes vulpes"
+credit_url: "https://creativecommons.org/licenses/by-sa/4.0"
+credit: "ClaudiaTen / Wikimedia Commons — CC BY-SA 4.0"
+image_alt: "Renard roux (Vulpes vulpes)"
+image: "/assets/img/especes/renard-roux.jpg"
 auteur_taxon: "Linnaeus, 1758"
 regne: "Animalia"
 classe: "Mammifères"
