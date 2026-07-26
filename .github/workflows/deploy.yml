@@ -48,9 +48,10 @@ jobs:
           protocol: ftps
           # Contenu à envoyer : le dossier compilé
           local-dir: ./_site/
-          # Cible sur o2switch : la racine web du domaine.
-          # Adaptez si le site est dans un sous-dossier (ex. ./public_html/mon-site/).
-          server-dir: ./public_html/
+          # Cible sur o2switch : le dossier racine (Document Root) du domaine.
+          # observatoire-biodiversite-npdc.fr est un domaine ajouté dont la racine
+          # est le dossier du même nom, à la racine du compte (et non public_html).
+          server-dir: ./observatoire-biodiversite-npdc.fr/
           # Fichiers à ne jamais transférer
           exclude: |
             **/.git*
