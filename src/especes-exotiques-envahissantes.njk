@@ -1,0 +1,125 @@
+---
+layout: layouts/base.njk
+title: "Espèces exotiques envahissantes"
+permalink: "/especes-exotiques-envahissantes/"
+description: "Les espèces exotiques envahissantes du Nord et du Pas-de-Calais : frelon asiatique, renouée du Japon, berce du Caucase… enjeux, reconnaissance et intervention."
+---
+<div class="conteneur">
+  <nav class="fil-ariane" aria-label="Fil d'Ariane">
+    <ol><li><a href="/">Accueil</a></li><li><span aria-current="page">Espèces exotiques envahissantes</span></li></ol>
+  </nav>
+
+  <header class="eee-hero">
+    <div class="conteneur conteneur--texte" style="padding-inline:0;">
+      <p class="eee-hero__surtitre">Dossier · Biodiversité menacée</p>
+      <h1>Les espèces exotiques envahissantes</h1>
+      <p class="chapo">Introduites par l'homme hors de leur aire d'origine, certaines espèces
+        prolifèrent au détriment de la faune et de la flore locales. Tour d'horizon dans le Nord et
+        le Pas-de-Calais, et conduite à tenir.</p>
+    </div>
+  </header>
+</div>
+
+<div class="conteneur conteneur--texte section">
+  <div class="prose">
+    <h2>Qu'est-ce qu'une espèce exotique envahissante ?</h2>
+    <p>Une <strong>espèce exotique envahissante</strong> (EEE) est une espèce introduite,
+    volontairement ou non, en dehors de son aire de répartition naturelle, et dont la prolifération
+    porte atteinte aux écosystèmes, aux espèces indigènes, et parfois aux activités humaines ou à la
+    santé. Les EEE sont considérées comme l'une des <strong>principales causes d'érosion de la
+    biodiversité</strong> à l'échelle mondiale.</p>
+    <p>Le Nord et le Pas-de-Calais, territoires de plaine densément peuplés et traversés d'axes de
+    circulation, n'échappent pas au phénomène — sur terre comme dans les milieux aquatiques.</p>
+
+    <h2>Quelques espèces concernées dans la région</h2>
+  </div>
+
+  <div class="eee-liste">
+    <div class="eee-item">
+      <h3><a href="/especes/frelon-asiatique/">Frelon asiatique</a></h3>
+      <p><em>Vespa velutina</em> — prédateur d'abeilles, en expansion.</p>
+    </div>
+    <div class="eee-item">
+      <h3>Renouée du Japon</h3>
+      <p><em>Reynoutria japonica</em> — plante qui étouffe la flore des berges.</p>
+    </div>
+    <div class="eee-item">
+      <h3>Berce du Caucase</h3>
+      <p><em>Heracleum mantegazzianum</em> — grande ombellifère à sève brûlante.</p>
+    </div>
+    <div class="eee-item">
+      <h3>Balsamine de l'Himalaya</h3>
+      <p><em>Impatiens glandulifera</em> — colonise les bords de cours d'eau.</p>
+    </div>
+    <div class="eee-item">
+      <h3>Ragondin</h3>
+      <p><em>Myocastor coypus</em> — rongeur qui fragilise les berges.</p>
+    </div>
+    <div class="eee-item">
+      <h3>Écrevisse de Louisiane</h3>
+      <p><em>Procambarus clarkii</em> — concurrence les espèces aquatiques locales.</p>
+    </div>
+  </div>
+
+  <div class="prose">
+    <h2>Le frelon asiatique, cas emblématique</h2>
+    <p>Parmi ces espèces, le <a href="/especes/frelon-asiatique/">frelon asiatique</a>
+    (<em>Vespa velutina nigrithorax</em>) illustre bien les enjeux : introduit accidentellement,
+    il s'est répandu dans toute la France, exerce une <strong>prédation sur les abeilles</strong> et
+    construit des nids parfois volumineux et haut perchés. Il ne faut pas le confondre avec le
+    <a href="/especes/frelon-europeen/">frelon européen</a>, indigène et utile, ni chercher à traiter
+    un nid soi-même.</p>
+
+    <div class="encadre encadre--info">
+      <p class="encadre__titre">Face à un nid : sécurité avant tout</p>
+      <p>N'approchez jamais un nid de frelons ou de guêpes et ne tentez pas de le détruire vous-même.
+      Une intervention doit être réalisée par un <strong>professionnel équipé</strong>, qui agit en
+      sécurité et au bon moment.</p>
+    </div>
+
+    <h2>Signalement et intervention</h2>
+    <p>Signaler la présence d'une EEE contribue à son suivi et à la protection de la biodiversité
+    régionale. Pour la destruction d'un nid de frelons ou de guêpes, ou une problématique de
+    nuisibles, il est recommandé de s'adresser à un professionnel de proximité.</p>
+  </div>
+
+  <div class="liens-pro">
+    <a class="btn btn--vert" href="{{ partenaire.liens.nuisibles59 }}" rel="noopener">Entreprise anti-nuisibles dans le Nord (59)</a>
+    <a class="btn btn--vert" href="{{ partenaire.liens.nids62 }}" rel="noopener">Nids de guêpes et frelons dans le Pas-de-Calais (62)</a>
+  </div>
+
+  <h2 class="section__titre" style="margin-top:2.5rem;">Intervention frelons &amp; guêpes — {{ partenaire.entite59 }}</h2>
+  <div class="intervention">
+    <div class="nap" itemscope itemtype="https://schema.org/LocalBusiness">
+      <p class="nap__nom" itemprop="name">{{ partenaire.nap.raison }}</p>
+      <dl>
+        {% if partenaire.nap.adresse or partenaire.nap.codePostalVille %}
+        <div itemprop="address" itemscope itemtype="https://schema.org/PostalAddress">
+          <dt>Adresse</dt>
+          <dd>
+            {% if partenaire.nap.adresse %}<span itemprop="streetAddress">{{ partenaire.nap.adresse }}</span>{% endif %}
+            {% if partenaire.nap.codePostalVille %}<br><span itemprop="addressLocality">{{ partenaire.nap.codePostalVille }}</span>{% endif %}
+          </dd>
+        </div>
+        {% endif %}
+        {% if partenaire.nap.telephone %}
+        <div><dt>Téléphone</dt><dd><a href="tel:{{ partenaire.nap.telephoneLien or partenaire.nap.telephone }}" itemprop="telephone">{{ partenaire.nap.telephone }}</a></dd></div>
+        {% endif %}
+        {% if partenaire.nap.horaires %}
+        <div><dt>Horaires</dt><dd itemprop="openingHours">{{ partenaire.nap.horaires }}</dd></div>
+        {% endif %}
+        <div><dt>Zone d'intervention</dt><dd itemprop="areaServed">{{ partenaire.nap.zone }}</dd></div>
+        <div><dt>Site</dt><dd><a href="{{ partenaire.site }}" itemprop="url" rel="noopener">{{ partenaire.site | replace("https://", "") }}</a></dd></div>
+      </dl>
+      <div class="nap__cta">
+        <a class="btn btn--vert" href="{{ partenaire.liens.nuisibles59 }}" rel="noopener">Demander une intervention</a>
+      </div>
+    </div>
+
+    <div class="carte-embed">
+      <iframe src="{{ partenaire.carteEmbed }}" title="Localisation de {{ partenaire.entite59 }} sur Google Maps" loading="lazy" referrerpolicy="no-referrer-when-downgrade" allowfullscreen></iframe>
+    </div>
+  </div>
+
+  <p style="margin-top:1rem;"><a href="{{ partenaire.carteLien }}" rel="noopener">Ouvrir dans Google Maps →</a></p>
+</div>

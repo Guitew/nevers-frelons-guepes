@@ -416,6 +416,61 @@ img { max-width: 100%; height: auto; display: block; }
   * { scroll-behavior: auto !important; transition: none !important; }
 }
 
+/* ---------- Espèce exotique envahissante ---------- */
+.tag-eee { color: var(--st-cr); font-weight: 800; }
+.badge-eee {
+  display: inline-flex; align-items: center; gap: .4rem; font-size: .78rem; font-weight: 700;
+  text-transform: uppercase; letter-spacing: .04em; color: #fff; background: var(--st-cr);
+  padding: .25rem .6rem; border-radius: 999px;
+}
+.badge-eee::before { content: "⚠"; }
+
+/* ---------- Encart ressource pratique (partenaire) ---------- */
+.ressource-pro {
+  margin: 2rem 0 0; padding: 1.2rem 1.3rem; border: 1px solid var(--bordure);
+  border-left: 4px solid var(--sable); background: var(--sable-clair); border-radius: var(--rayon);
+}
+.ressource-pro__titre { font-weight: 700; color: var(--vert-fonce); margin: 0 0 .4rem; }
+.ressource-pro p { margin: 0 0 .6rem; max-width: 68ch; }
+.ressource-pro__lien {
+  display: inline-flex; align-items: center; gap: .4rem; font-weight: 600; text-decoration: none;
+  color: #fff; background: var(--vert); padding: .5rem 1rem; border-radius: var(--rayon);
+}
+.ressource-pro__lien::after { content: "→"; }
+.ressource-pro__lien:hover { background: var(--vert-fonce); }
+
+/* ---------- Page Espèces exotiques envahissantes ---------- */
+.eee-hero {
+  color: #fff; border-radius: var(--rayon-lg); margin-top: 1rem; padding: clamp(2.4rem, 5vw, 4rem);
+  background: radial-gradient(120% 120% at 85% -10%, rgba(216,30,5,.5), transparent 55%),
+              linear-gradient(160deg, #7a1d12 0%, #a8321f 60%, #123a2b 100%);
+}
+.eee-hero__surtitre { text-transform: uppercase; letter-spacing: .12em; font-weight: 700; font-size: .82rem; color: rgba(255,255,255,.85); margin: 0 0 .5rem; }
+.eee-hero h1 { color: #fff; }
+.eee-hero .chapo { color: rgba(255,255,255,.92); }
+.eee-liste { display: grid; grid-template-columns: repeat(auto-fill, minmax(230px, 1fr)); gap: 1rem; margin: 1.4rem 0; }
+.eee-item { padding: 1rem 1.1rem; border: 1px solid var(--bordure); border-radius: var(--rayon); background: var(--blanc); }
+.eee-item h3 { margin: 0 0 .3rem; font-size: 1.05rem; }
+.eee-item p { margin: 0; font-size: .9rem; color: var(--texte-doux); }
+.eee-item em { color: var(--texte-doux); }
+
+/* Bloc intervention / NAP / carte */
+.intervention { display: grid; grid-template-columns: 1fr 1fr; gap: 1.5rem; align-items: stretch; margin: 1.5rem 0; }
+.nap {
+  border: 1px solid var(--bordure); border-radius: var(--rayon-lg); background: var(--vert-clair);
+  padding: 1.4rem; display: flex; flex-direction: column; gap: .6rem;
+}
+.nap__nom { font-family: var(--serif); font-size: 1.3rem; color: var(--vert-fonce); margin: 0; }
+.nap dl { margin: 0; display: grid; gap: .5rem; }
+.nap dt { font-size: .75rem; text-transform: uppercase; letter-spacing: .06em; color: var(--texte-doux); font-weight: 700; }
+.nap dd { margin: 0 0 .4rem; }
+.nap a { font-weight: 600; }
+.nap__cta { margin-top: auto; }
+.carte-embed { border: 1px solid var(--bordure); border-radius: var(--rayon-lg); overflow: hidden; min-height: 320px; }
+.carte-embed iframe { width: 100%; height: 100%; min-height: 320px; border: 0; display: block; }
+.liens-pro { display: flex; flex-wrap: wrap; gap: .8rem; margin: 1.2rem 0; }
+@media (max-width: 760px) { .intervention { grid-template-columns: 1fr; } }
+
 /* Impression */
 @media print {
   .site-header, .site-footer, .bandeau-officiel, .fiche__voisines, .menu-bascule { display: none; }

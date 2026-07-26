@@ -5,6 +5,7 @@ module.exports = {
     { url: "/faune/", titre: "Faune" },
     { url: "/flore/", titre: "Flore" },
     { url: "/habitats/", titre: "Milieux naturels" },
+    { url: "/especes-exotiques-envahissantes/", titre: "Espèces envahissantes" },
     { url: "/dossiers/", titre: "Dossiers" },
     { url: "/a-propos/", titre: "L'observatoire" },
   ],
@@ -14,6 +15,7 @@ module.exports = {
       { url: "/faune/", titre: "Faune" },
       { url: "/flore/", titre: "Flore" },
       { url: "/habitats/", titre: "Milieux naturels" },
+      { url: "/especes-exotiques-envahissantes/", titre: "Espèces envahissantes" },
       { url: "/dossiers/", titre: "Dossiers thématiques" },
     ],
     observatoire: [

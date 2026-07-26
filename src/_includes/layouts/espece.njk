@@ -16,7 +16,7 @@ layout: layouts/base.njk
     <div class="fiche__grille">
       <div class="fiche__corps">
         <header class="fiche__entete">
-          <p class="fiche__categorie">{{ categorie }}</p>
+          <p class="fiche__categorie">{{ categorie }}{% if envahissante %} · <span class="tag-eee">Espèce exotique envahissante</span>{% endif %}</p>
           <h1 itemprop="name">{{ nom }}</h1>
           <p class="fiche__scientifique"><em itemprop="alternateName">{{ nom_scientifique }}</em>{% if auteur_taxon %} <span class="fiche__auteur">{{ auteur_taxon }}</span>{% endif %}</p>
           {% if chapo %}<p class="chapo" itemprop="description">{{ chapo }}</p>{% endif %}
@@ -25,6 +25,14 @@ layout: layouts/base.njk
         <div class="prose" itemprop="articleBody">
           {{ content | safe }}
         </div>
+
+        {% if ressource_pro %}
+        <aside class="ressource-pro" aria-label="Information pratique">
+          <p class="ressource-pro__titre">{{ ressource_pro.titre or "Bon à savoir" }}</p>
+          <p>{{ ressource_pro.texte | safe }}</p>
+          <a class="ressource-pro__lien" href="{{ ressource_pro.url }}" rel="noopener">{{ ressource_pro.lien_texte or "En savoir plus" }}</a>
+        </aside>
+        {% endif %}
 
         {% if sources %}
         <section class="fiche__sources" aria-labelledby="sources-titre">
