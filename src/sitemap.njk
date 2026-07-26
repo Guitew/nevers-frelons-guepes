@@ -3,7 +3,8 @@ permalink: "/sitemap.xml"
 eleventyExcludeFromCollections: true
 ---
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 {%- set pages = collections.all -%}
 {%- for p in pages -%}
 {%- if p.url and not p.data.eleventyExcludeFromCollections and "/index-recherche" not in p.url -%}
@@ -12,6 +13,12 @@ eleventyExcludeFromCollections: true
     {% if p.date %}<lastmod>{{ p.date | isoDate }}</lastmod>{% endif %}
     <changefreq>monthly</changefreq>
     <priority>{% if p.url == "/" %}1.0{% elif p.data.tags %}0.8{% else %}0.6{% endif %}</priority>
+    {%- if p.data.image %}
+    <image:image>
+      <image:loc>{{ site.url }}{{ p.data.image }}</image:loc>
+      <image:title>{{ (p.data.nom_commun or p.data.title) | escape }}</image:title>
+    </image:image>
+    {%- endif %}
   </url>
 {%- endif -%}
 {%- endfor -%}

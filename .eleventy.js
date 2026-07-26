@@ -41,6 +41,15 @@ module.exports = function (eleventyConfig) {
     (arr || []).filter((e) => e.url !== url).slice(0, n)
   );
 
+  // Retourne n fiches de la MÊME catégorie (maillage interne thématique),
+  // complétées par d'autres si nécessaire.
+  eleventyConfig.addFilter("memeCategorie", (arr, categorie, url, n) => {
+    const list = (arr || []).filter((e) => e.url !== url);
+    const meme = list.filter((e) => e.data.categorie === categorie);
+    const autres = list.filter((e) => e.data.categorie !== categorie);
+    return meme.concat(autres).slice(0, n);
+  });
+
   eleventyConfig.addFilter("triNom", (arr) =>
     [...(arr || [])].sort((a, b) =>
       (a.data.nom_commun || a.data.title || "").localeCompare(

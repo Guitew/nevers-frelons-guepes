@@ -4,17 +4,27 @@
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <title>{% if title %}{{ title }} — {{ site.nomCourt }}{% else %}{{ site.nom }}{% endif %}</title>
-  <meta name="description" content="{{ description or site.description }}">
+  {% set metaDesc = description or chapo or site.description %}
+  {% set ogImage = (site.url + image) if image else (site.url + "/assets/img/og-defaut.png") %}
+  <meta name="description" content="{{ metaDesc }}">
+  <meta name="author" content="{{ site.organisme }}">
+  <meta name="theme-color" content="#123a2b">
+  {% if noindex %}<meta name="robots" content="noindex, follow">{% endif %}
   <link rel="canonical" href="{{ site.url }}{{ page.url }}">
 
   <!-- Open Graph -->
-  <meta property="og:type" content="website">
+  <meta property="og:type" content="{{ 'article' if image else 'website' }}">
   <meta property="og:site_name" content="{{ site.nomCourt }}">
   <meta property="og:locale" content="fr_FR">
   <meta property="og:title" content="{% if title %}{{ title }}{% else %}{{ site.nom }}{% endif %}">
-  <meta property="og:description" content="{{ description or site.description }}">
+  <meta property="og:description" content="{{ metaDesc }}">
   <meta property="og:url" content="{{ site.url }}{{ page.url }}">
-  <meta name="twitter:card" content="summary">
+  <meta property="og:image" content="{{ ogImage }}">
+  <meta property="og:image:alt" content="{{ image_alt or title or site.nom }}">
+  <meta name="twitter:card" content="{{ 'summary_large_image' if image else 'summary' }}">
+  <meta name="twitter:title" content="{% if title %}{{ title }}{% else %}{{ site.nom }}{% endif %}">
+  <meta name="twitter:description" content="{{ metaDesc }}">
+  <meta name="twitter:image" content="{{ ogImage }}">
 
   <link rel="icon" href="/assets/img/favicon.svg" type="image/svg+xml">
   <link rel="preload" href="/assets/css/style.css" as="style">

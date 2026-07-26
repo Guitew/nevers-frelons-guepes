@@ -3,7 +3,7 @@
 <a class="carte-espece" href="{{ e.url }}">
   <span class="carte-espece__visuel infobox__visuel--{{ e.data.theme or 'nature' }}">
     {% if e.data.image %}
-    <img src="{{ e.data.image }}" alt="" loading="lazy">
+    <img src="{{ e.data.image }}" alt="{{ nomAff }}{% if e.data.nom_scientifique %} ({{ e.data.nom_scientifique }}){% endif %}" loading="lazy" width="460" height="288">
     {% else %}
     <span class="carte-espece__embleme" aria-hidden="true">{{ e.data.embleme or '🌿' }}</span>
     {% endif %}

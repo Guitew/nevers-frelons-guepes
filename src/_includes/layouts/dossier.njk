@@ -30,3 +30,28 @@ layout: layouts/base.njk
     {% endif %}
   </div>
 </article>
+
+{% set ldDossier = {
+  "@context": "https://schema.org",
+  "@type": "BreadcrumbList",
+  "itemListElement": [
+    { "@type": "ListItem", "position": 1, "name": "Accueil", "item": site.url + "/" },
+    { "@type": "ListItem", "position": 2, "name": "Dossiers", "item": site.url + "/dossiers/" },
+    { "@type": "ListItem", "position": 3, "name": title, "item": site.url + page.url }
+  ]
+} %}
+<script type="application/ld+json">{{ ldDossier | jsonify | safe }}</script>
+
+{% if rubrique %}
+{% set ldArticle = {
+  "@context": "https://schema.org",
+  "@type": "Article",
+  "headline": title,
+  "description": chapo,
+  "datePublished": page.date | isoDate,
+  "author": { "@type": "Organization", "name": site.organisme },
+  "publisher": { "@type": "Organization", "name": site.organisme, "url": site.url },
+  "mainEntityOfPage": site.url + page.url
+} %}
+<script type="application/ld+json">{{ ldArticle | jsonify | safe }}</script>
+{% endif %}
