@@ -1,0 +1,60 @@
+# =====================================================================
+#  Observatoire de la biodiversité du Nord et du Pas-de-Calais
+#  Configuration Apache pour hébergement o2switch (cPanel / Apache)
+# =====================================================================
+
+# ----- Page d'accueil et documents par défaut -----
+DirectoryIndex index.html
+
+# ----- Forcer HTTPS et le domaine canonique (sans www) -----
+<IfModule mod_rewrite.c>
+  RewriteEngine On
+
+  # HTTP -> HTTPS
+  RewriteCond %{HTTPS} off
+  RewriteRule ^ https://%{HTTP_HOST}%{REQUEST_URI} [L,R=301]
+
+  # www -> sans www
+  RewriteCond %{HTTP_HOST} ^www\.(.+)$ [NC]
+  RewriteRule ^ https://%1%{REQUEST_URI} [L,R=301]
+
+  # URLs « propres » : /especes/phoque-veau-marin -> le fichier index.html du dossier
+  # (Eleventy génère déjà des dossiers avec index.html, donc rien à réécrire ;
+  #  on autorise juste l'accès sans extension le cas échéant.)
+  RewriteCond %{REQUEST_FILENAME} !-f
+  RewriteCond %{REQUEST_FILENAME} !-d
+  RewriteCond %{REQUEST_FILENAME}\.html -f
+  RewriteRule ^(.+?)/?$ $1.html [L]
+</IfModule>
+
+# ----- Pages d'erreur personnalisées -----
+ErrorDocument 404 /404.html
+
+# ----- Compression -----
+<IfModule mod_deflate.c>
+  AddOutputFilterByType DEFLATE text/html text/css text/javascript application/javascript application/json image/svg+xml application/xml
+</IfModule>
+
+# ----- Cache navigateur -----
+<IfModule mod_expires.c>
+  ExpiresActive On
+  ExpiresByType text/css "access plus 1 month"
+  ExpiresByType application/javascript "access plus 1 month"
+  ExpiresByType image/svg+xml "access plus 6 months"
+  ExpiresByType image/jpeg "access plus 6 months"
+  ExpiresByType image/png "access plus 6 months"
+  ExpiresByType image/webp "access plus 6 months"
+  ExpiresByType application/json "access plus 1 day"
+  ExpiresByType text/html "access plus 1 hour"
+</IfModule>
+
+# ----- En-têtes de sécurité -----
+<IfModule mod_headers.c>
+  Header set X-Content-Type-Options "nosniff"
+  Header set Referrer-Policy "strict-origin-when-cross-origin"
+  Header set X-Frame-Options "SAMEORIGIN"
+  Header set Permissions-Policy "geolocation=(), microphone=(), camera=()"
+</IfModule>
+
+# ----- Encodage par défaut -----
+AddDefaultCharset UTF-8

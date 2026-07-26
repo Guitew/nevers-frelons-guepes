@@ -1,0 +1,32 @@
+---
+layout: layouts/base.njk
+---
+<article class="page-standard">
+  <div class="conteneur conteneur--texte">
+    <nav class="fil-ariane" aria-label="Fil d'Ariane">
+      <ol>
+        <li><a href="/">Accueil</a></li>
+        <li><a href="/dossiers/">Dossiers</a></li>
+        <li><span aria-current="page">{{ title }}</span></li>
+      </ol>
+    </nav>
+
+    <header class="page-standard__entete">
+      <p class="fiche__categorie">{{ rubrique or "Dossier" }}</p>
+      <h1>{{ title }}</h1>
+      {% if chapo %}<p class="chapo">{{ chapo }}</p>{% endif %}
+      <p class="dossier__meta">Publié le <time datetime="{{ page.date | isoDate }}">{{ page.date | dateFr }}</time></p>
+    </header>
+
+    <div class="prose">
+      {{ content | safe }}
+    </div>
+
+    {% if sources %}
+    <section class="fiche__sources" aria-labelledby="sources-titre">
+      <h2 id="sources-titre">Sources et pour aller plus loin</h2>
+      <ul>{% for s in sources %}<li>{{ s | safe }}</li>{% endfor %}</ul>
+    </section>
+    {% endif %}
+  </div>
+</article>

@@ -1,0 +1,45 @@
+name: Ajouter les photos des espèces
+
+# Télécharge une photographie sous licence libre (Wikimedia Commons) pour chaque
+# fiche espèce, renseigne les crédits, puis committe le résultat.
+#
+# À déclencher manuellement depuis l'onglet « Actions » de GitHub
+# (bouton « Run workflow »). Les runners GitHub disposent d'un accès Internet,
+# ce qui permet au script de contacter Wikimedia.
+
+on:
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  photos:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Récupérer le code
+        uses: actions/checkout@v4
+
+      - name: Installer Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: "22"
+          cache: "npm"
+
+      - name: Installer les dépendances
+        run: npm ci
+
+      - name: Télécharger les photos
+        run: npm run photos
+
+      - name: Committer les photos et les crédits
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          if [ -n "$(git status --porcelain)" ]; then
+            git add src/assets/img/especes src/especes
+            git commit -m "Ajouter les photographies des fiches espèces (Wikimedia Commons)"
+            git push
+          else
+            echo "Aucune nouvelle photo à committer."
+          fi

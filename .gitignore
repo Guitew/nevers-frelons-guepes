@@ -1,0 +1,12 @@
+# Dépendances
+node_modules/
+
+# Sortie de compilation Eleventy
+_site/
+
+# Journaux et divers
+npm-debug.log*
+.DS_Store
+*.log
+.cache/
+.eleventy-cache/

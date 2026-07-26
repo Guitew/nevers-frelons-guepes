@@ -1,0 +1,52 @@
+---
+layout: layouts/page.njk
+title: "Plan du site"
+permalink: "/plan-du-site/"
+description: "Plan du site : toutes les pages, fiches espèces, milieux naturels et dossiers de l'encyclopédie de la biodiversité du Nord et du Pas-de-Calais."
+chapo: "Retrouvez l'ensemble des contenus de l'observatoire."
+fil:
+  - titre: "Plan du site"
+---
+
+## Pages principales
+
+- [Accueil](/)
+- [Toutes les espèces](/especes/)
+- [Faune](/faune/)
+- [Flore](/flore/)
+- [Milieux naturels](/habitats/)
+- [Dossiers](/dossiers/)
+- [Rechercher](/recherche/)
+
+## Espèces
+
+<ul>
+{% for e in collections.especes | triNom %}
+  <li><a href="{{ e.url }}">{{ e.data.nom_commun }}</a> — <em>{{ e.data.nom_scientifique }}</em></li>
+{% endfor %}
+</ul>
+
+## Milieux naturels
+
+<ul>
+{% for h in collections.habitats %}
+  <li><a href="{{ h.url }}">{{ h.data.title }}</a></li>
+{% endfor %}
+</ul>
+
+## Dossiers
+
+<ul>
+{% for d in collections.dossiers %}
+  <li><a href="{{ d.url }}">{{ d.data.title }}</a></li>
+{% endfor %}
+</ul>
+
+## L'observatoire
+
+- [Présentation](/a-propos/)
+- [Contribuer](/contribuer/)
+- [Sources et méthodes](/sources/)
+- [Mentions légales](/mentions-legales/)
+- [Accessibilité](/accessibilite/)
+- [Crédits photographiques](/credits/)

@@ -1,0 +1,17 @@
+{% set nomAff = e.data.nom_commun or e.data.title %}
+{% set st = statuts[e.data.statut_regional] %}
+<a class="carte-espece" href="{{ e.url }}">
+  <span class="carte-espece__visuel infobox__visuel--{{ e.data.theme or 'nature' }}">
+    {% if e.data.image %}
+    <img src="{{ e.data.image }}" alt="" loading="lazy">
+    {% else %}
+    <span class="carte-espece__embleme" aria-hidden="true">{{ e.data.embleme or '🌿' }}</span>
+    {% endif %}
+    {% if st %}<span class="carte-espece__statut statut-badge {{ st.classe }}" title="{{ st.label }}">{{ e.data.statut_regional }}</span>{% endif %}
+  </span>
+  <span class="carte-espece__corps">
+    <span class="carte-espece__categorie">{{ e.data.categorie }}</span>
+    <span class="carte-espece__nom">{{ nomAff }}</span>
+    <span class="carte-espece__sci"><em>{{ e.data.nom_scientifique }}</em></span>
+  </span>
+</a>

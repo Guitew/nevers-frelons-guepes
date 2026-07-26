@@ -1,0 +1,32 @@
+---
+layout: layouts/base.njk
+title: "Milieux naturels"
+description: "Les grands milieux naturels du Nord et du Pas-de-Calais : dunes du littoral, marais et zones humides, terrils du bassin minier, forêts et bocages."
+---
+<div class="liste-entete">
+  <div class="conteneur">
+    <nav class="fil-ariane" aria-label="Fil d'Ariane">
+      <ol><li><a href="/">Accueil</a></li><li><span aria-current="page">Milieux naturels</span></li></ol>
+    </nav>
+    <h1>Les milieux naturels</h1>
+    <p class="chapo">Le relief, l'eau et l'histoire industrielle ont façonné une mosaïque de milieux.
+      Chacun abrite des communautés d'espèces adaptées à ses conditions particulières.</p>
+  </div>
+</div>
+
+<div class="conteneur section">
+  <div class="cartes-especes">
+    {% for h in collections.habitats %}
+    <a class="carte-espece" href="{{ h.url }}">
+      <span class="carte-espece__visuel infobox__visuel--{{ h.data.theme or 'nature' }}">
+        <span class="carte-espece__embleme" aria-hidden="true">{{ h.data.embleme or '🏞️' }}</span>
+      </span>
+      <span class="carte-espece__corps">
+        <span class="carte-espece__categorie">{{ h.data.type_milieu or "Milieu naturel" }}</span>
+        <span class="carte-espece__nom">{{ h.data.title }}</span>
+        <span class="carte-espece__sci">{{ h.data.localisation }}</span>
+      </span>
+    </a>
+    {% endfor %}
+  </div>
+</div>

@@ -1,0 +1,26 @@
+---
+layout: layouts/base.njk
+---
+<article class="page-standard">
+  <div class="conteneur conteneur--texte">
+    {% if fil %}
+    <nav class="fil-ariane" aria-label="Fil d'Ariane">
+      <ol>
+        <li><a href="/">Accueil</a></li>
+        {% for item in fil %}
+        <li>{% if item.url %}<a href="{{ item.url }}">{{ item.titre }}</a>{% else %}<span aria-current="page">{{ item.titre }}</span>{% endif %}</li>
+        {% endfor %}
+      </ol>
+    </nav>
+    {% endif %}
+
+    <header class="page-standard__entete">
+      <h1>{{ title }}</h1>
+      {% if chapo %}<p class="chapo">{{ chapo }}</p>{% endif %}
+    </header>
+
+    <div class="prose">
+      {{ content | safe }}
+    </div>
+  </div>
+</article>

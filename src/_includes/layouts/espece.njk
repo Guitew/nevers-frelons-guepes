@@ -1,0 +1,112 @@
+---
+layout: layouts/base.njk
+---
+{% set nom = nom_commun or title %}
+<article class="fiche" itemscope itemtype="https://schema.org/Article">
+  <div class="conteneur">
+    <nav class="fil-ariane" aria-label="Fil d'Ariane">
+      <ol>
+        <li><a href="/">Accueil</a></li>
+        <li><a href="/especes/">Espèces</a></li>
+        {% if regne == "Plantae" %}<li><a href="/flore/">Flore</a></li>{% else %}<li><a href="/faune/">Faune</a></li>{% endif %}
+        <li><span aria-current="page">{{ nom }}</span></li>
+      </ol>
+    </nav>
+
+    <div class="fiche__grille">
+      <div class="fiche__corps">
+        <header class="fiche__entete">
+          <p class="fiche__categorie">{{ categorie }}</p>
+          <h1 itemprop="name">{{ nom }}</h1>
+          <p class="fiche__scientifique"><em itemprop="alternateName">{{ nom_scientifique }}</em>{% if auteur_taxon %} <span class="fiche__auteur">{{ auteur_taxon }}</span>{% endif %}</p>
+          {% if chapo %}<p class="chapo" itemprop="description">{{ chapo }}</p>{% endif %}
+        </header>
+
+        <div class="prose" itemprop="articleBody">
+          {{ content | safe }}
+        </div>
+
+        {% if sources %}
+        <section class="fiche__sources" aria-labelledby="sources-titre">
+          <h2 id="sources-titre">Sources et pour aller plus loin</h2>
+          <ul>
+            {% for s in sources %}<li>{{ s | safe }}</li>{% endfor %}
+          </ul>
+        </section>
+        {% endif %}
+
+        <p class="fiche__maj">Fiche mise à jour le {{ (date or page.date) | dateFr }}.</p>
+      </div>
+
+      <aside class="infobox" aria-label="Fiche d'identité de l'espèce">
+        <div class="infobox__visuel infobox__visuel--{{ theme or 'nature' }}">
+          {% if image %}
+          <img src="{{ image }}" alt="{{ image_alt or nom }}" loading="lazy">
+          {% else %}
+          <span class="infobox__silhouette" aria-hidden="true">{{ embleme or '🌿' }}</span>
+          <span class="infobox__filigrane" aria-hidden="true"><em>{{ nom_scientifique }}</em></span>
+          {% endif %}
+        </div>
+        {% if image and credit %}<p class="infobox__credit">{% if credit_url %}<a href="{{ credit_url }}" rel="noopener nofollow">© {{ credit }}</a>{% else %}© {{ credit }}{% endif %}</p>{% endif %}
+
+        <h2 class="infobox__titre">Fiche d'identité</h2>
+        <dl class="infobox__liste">
+          <div><dt>Nom scientifique</dt><dd><em>{{ nom_scientifique }}</em></dd></div>
+          {% if regne %}<div><dt>Règne</dt><dd>{{ "Animal" if regne == "Animalia" else "Végétal" }}</dd></div>{% endif %}
+          {% if classe %}<div><dt>Classe</dt><dd>{{ classe }}</dd></div>{% endif %}
+          {% if ordre %}<div><dt>Ordre</dt><dd>{{ ordre }}</dd></div>{% endif %}
+          {% if famille %}<div><dt>Famille</dt><dd>{{ famille }}</dd></div>{% endif %}
+          {% if taille %}<div><dt>Taille</dt><dd>{{ taille }}</dd></div>{% endif %}
+          {% if longevite %}<div><dt>Longevité</dt><dd>{{ longevite }}</dd></div>{% endif %}
+          {% if periode %}<div><dt>À observer</dt><dd>{{ periode }}</dd></div>{% endif %}
+        </dl>
+
+        {% if statut_national or statut_regional %}
+        <h2 class="infobox__titre">État de conservation</h2>
+        <div class="infobox__statuts">
+          {% if statut_regional %}
+          {% set s = statuts[statut_regional] %}
+          <div class="statut-ligne">
+            <span class="statut-badge {{ s.classe }}">{{ statut_regional }}</span>
+            <span class="statut-texte"><strong>{{ s.label }}</strong><br><span class="statut-portee">Liste rouge régionale (Hauts-de-France)</span></span>
+          </div>
+          {% endif %}
+          {% if statut_national %}
+          {% set sn = statuts[statut_national] %}
+          <div class="statut-ligne">
+            <span class="statut-badge {{ sn.classe }}">{{ statut_national }}</span>
+            <span class="statut-texte"><strong>{{ sn.label }}</strong><br><span class="statut-portee">Liste rouge nationale (France)</span></span>
+          </div>
+          {% endif %}
+        </div>
+        {% endif %}
+
+        {% if protections %}
+        <h2 class="infobox__titre">Protection</h2>
+        <ul class="infobox__protections">
+          {% for p in protections %}<li><span class="puce-bouclier" aria-hidden="true"></span>{{ p }}</li>{% endfor %}
+        </ul>
+        {% endif %}
+
+        {% if departements %}
+        <h2 class="infobox__titre">Présence</h2>
+        <ul class="infobox__departements">
+          {% for d in departements %}<li>{{ d }}</li>{% endfor %}
+        </ul>
+        {% endif %}
+      </aside>
+    </div>
+
+    {% set voisines = collections.especes | autresQue(page.url, 3) %}
+    {% if voisines.length %}
+    <section class="fiche__voisines" aria-labelledby="voisines-titre">
+      <h2 id="voisines-titre">Autres fiches à découvrir</h2>
+      <div class="cartes-especes">
+        {% for e in voisines %}
+          {% include "partials/carte-espece.njk" %}
+        {% endfor %}
+      </div>
+    </section>
+    {% endif %}
+  </div>
+</article>

@@ -1,0 +1,153 @@
+---
+layout: layouts/base.njk
+title: false
+description: "Encyclopédie de la biodiversité du Nord (59) et du Pas-de-Calais (62) : fiches espèces de la faune et de la flore, milieux naturels, statuts de protection et enjeux de conservation des Hauts-de-France."
+---
+
+<section class="hero">
+  <div class="conteneur hero__inner">
+    <div class="hero__contenu">
+      <p class="hero__eyebrow">Nord (59) &amp; Pas-de-Calais (62)</p>
+      <h1>L'encyclopédie vivante de la biodiversité régionale</h1>
+      <p class="hero__lede">
+        Des estuaires de la Côte d'Opale aux terrils du bassin minier, découvrez la faune,
+        la flore et les milieux naturels du Nord et du Pas-de-Calais : des fiches documentées,
+        les statuts de protection et les enjeux de conservation.
+      </p>
+      <div class="hero__actions">
+        <a class="btn btn--primaire" href="/especes/">Explorer les espèces</a>
+        <a class="btn btn--fantome" href="/habitats/">Découvrir les milieux</a>
+      </div>
+    </div>
+    <div class="hero__chiffres" role="list" aria-label="Le territoire en chiffres">
+      <div class="chiffre" role="listitem">
+        <span class="chiffre__nombre">2</span>
+        <span class="chiffre__label">départements couverts : Nord et Pas-de-Calais</span>
+      </div>
+      <div class="chiffre" role="listitem">
+        <span class="chiffre__nombre">140&nbsp;km</span>
+        <span class="chiffre__label">de littoral, de la baie de Somme à la frontière belge</span>
+      </div>
+      <div class="chiffre" role="listitem">
+        <span class="chiffre__nombre">{{ collections.especes.length + collections.habitats.length }}+</span>
+        <span class="chiffre__label">fiches espèces &amp; milieux déjà documentées</span>
+      </div>
+    </div>
+  </div>
+</section>
+
+<section class="section">
+  <div class="conteneur">
+    <div class="section__entete">
+      <p class="section__surtitre">Par où commencer</p>
+      <h2 class="section__titre">Explorer la biodiversité régionale</h2>
+      <p class="section__intro">Quatre portes d'entrée pour parcourir le patrimoine naturel des deux départements.</p>
+    </div>
+    <div class="acces-grille">
+      <a class="acces" href="/faune/">
+        <span class="acces__icone" aria-hidden="true">🦡</span>
+        <h3 class="acces__titre">Faune</h3>
+        <p class="acces__desc">Mammifères, oiseaux, amphibiens, reptiles et insectes des Hauts-de-France.</p>
+        <span class="acces__lien">Voir la faune →</span>
+      </a>
+      <a class="acces" href="/flore/">
+        <span class="acces__icone" aria-hidden="true">🌾</span>
+        <h3 class="acces__titre">Flore</h3>
+        <p class="acces__desc">Plantes des dunes, des marais, des tourbières et des prairies régionales.</p>
+        <span class="acces__lien">Voir la flore →</span>
+      </a>
+      <a class="acces" href="/habitats/">
+        <span class="acces__icone" aria-hidden="true">🏞️</span>
+        <h3 class="acces__titre">Milieux naturels</h3>
+        <p class="acces__desc">Dunes, marais, terrils, forêts : les grands écosystèmes du territoire.</p>
+        <span class="acces__lien">Voir les milieux →</span>
+      </a>
+      <a class="acces" href="/dossiers/">
+        <span class="acces__icone" aria-hidden="true">📚</span>
+        <h3 class="acces__titre">Dossiers</h3>
+        <p class="acces__desc">Analyses thématiques : migrations, espèces menacées, renaturation.</p>
+        <span class="acces__lien">Lire les dossiers →</span>
+      </a>
+    </div>
+  </div>
+</section>
+
+<section class="section section--alt">
+  <div class="conteneur">
+    <div class="section__entete">
+      <p class="section__surtitre">Fiches à la une</p>
+      <h2 class="section__titre">Espèces emblématiques</h2>
+      <p class="section__intro">Une sélection d'espèces représentatives de la richesse naturelle du Nord et du Pas-de-Calais.</p>
+    </div>
+    <div class="cartes-especes">
+      {% for e in collections.especes | limite(4) %}
+        {% include "partials/carte-espece.njk" %}
+      {% endfor %}
+    </div>
+    <a class="section__lien" href="/especes/">Voir toutes les fiches espèces</a>
+  </div>
+</section>
+
+<section class="section">
+  <div class="conteneur">
+    <div class="section__entete">
+      <p class="section__surtitre">Grands paysages</p>
+      <h2 class="section__titre">Les milieux qui façonnent le territoire</h2>
+    </div>
+    <div class="acces-grille">
+      {% for h in collections.habitats | limite(3) %}
+      <a class="acces" href="{{ h.url }}">
+        <span class="acces__icone infobox__visuel--{{ h.data.theme or 'nature' }}" aria-hidden="true">{{ h.data.embleme or '🌿' }}</span>
+        <h3 class="acces__titre">{{ h.data.title }}</h3>
+        <p class="acces__desc">{{ h.data.chapo | truncate(120) }}</p>
+        <span class="acces__lien">Découvrir →</span>
+      </a>
+      {% endfor %}
+    </div>
+    <a class="section__lien" href="/habitats/">Tous les milieux naturels</a>
+  </div>
+</section>
+
+<section class="section section--alt">
+  <div class="conteneur conteneur--texte">
+    <div class="section__entete">
+      <p class="section__surtitre">Comprendre</p>
+      <h2 class="section__titre">Lire les statuts de conservation</h2>
+      <p class="section__intro">
+        Chaque fiche indique le statut de l'espèce selon la méthodologie de la Liste rouge de l'UICN,
+        du plus préoccupant au moins menacé. Ces catégories permettent d'évaluer le risque de disparition.
+      </p>
+    </div>
+    <ul class="legende-statuts">
+      <li><span class="statut-badge st-cr">CR</span> <span><strong>En danger critique</strong> — risque extrêmement élevé de disparition.</span></li>
+      <li><span class="statut-badge st-en">EN</span> <span><strong>En danger</strong> — risque très élevé de disparition.</span></li>
+      <li><span class="statut-badge st-vu">VU</span> <span><strong>Vulnérable</strong> — risque élevé de disparition.</span></li>
+      <li><span class="statut-badge st-nt">NT</span> <span><strong>Quasi menacée</strong> — proche du seuil des espèces menacées.</span></li>
+      <li><span class="statut-badge st-lc">LC</span> <span><strong>Préoccupation mineure</strong> — faible risque à l'échelle évaluée.</span></li>
+      <li><span class="statut-badge st-dd">DD</span> <span><strong>Données insuffisantes</strong> — connaissances trop limitées pour statuer.</span></li>
+    </ul>
+    <a class="btn btn--vert" href="/sources/">Notre méthode et nos sources</a>
+  </div>
+</section>
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "WebSite",
+  "name": "{{ site.nom }}",
+  "alternateName": "{{ site.nomCourt }}",
+  "url": "{{ site.url }}",
+  "description": "{{ site.description }}",
+  "inLanguage": "fr-FR",
+  "potentialAction": {
+    "@type": "SearchAction",
+    "target": "{{ site.url }}/recherche/?q={search_term_string}",
+    "query-input": "required name=search_term_string"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "{{ site.organisme }}",
+    "url": "{{ site.url }}"
+  }
+}
+</script>

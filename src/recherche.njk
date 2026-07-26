@@ -1,0 +1,24 @@
+---
+layout: layouts/base.njk
+title: "Rechercher"
+description: "Rechercher une espèce, un milieu naturel ou un dossier dans l'encyclopédie de la biodiversité du Nord et du Pas-de-Calais."
+---
+<div class="conteneur section">
+  <div class="recherche-page">
+    <nav class="fil-ariane" aria-label="Fil d'Ariane">
+      <ol><li><a href="/">Accueil</a></li><li><span aria-current="page">Recherche</span></li></ol>
+    </nav>
+    <h1>Rechercher</h1>
+    <p class="chapo">Trouvez une espèce, un milieu naturel ou un dossier par son nom commun,
+      son nom scientifique ou son groupe.</p>
+
+    <div class="recherche-grande" role="search">
+      <label class="sr-only" for="q-recherche">Terme de recherche</label>
+      <input type="search" id="q-recherche" placeholder="Ex. : phoque, orchidée, terril, chauve-souris…" autocomplete="off" autofocus>
+    </div>
+    <p id="recherche-info" aria-live="polite" class="resultats-compteur"></p>
+    <div id="resultats-recherche"></div>
+  </div>
+</div>
+
+<script src="/assets/js/search.js" defer></script>
