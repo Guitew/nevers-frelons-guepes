@@ -1,10 +1,6 @@
 ---
 nom_commun: "Reine-des-prés"
 nom_scientifique: "Filipendula ulmaria"
-credit_url: "https://commons.wikimedia.org/wiki/File:Filipendula_ulmaria_Sturm12.jpg"
-credit: "Johann Georg Sturm (Painter: Jacob Sturm) / Wikimedia Commons — Public domain"
-image_alt: "Reine-des-prés (Filipendula ulmaria)"
-image: "/assets/img/especes/reine-des-pres.jpg"
 auteur_taxon: "(L.) Maxim."
 regne: "Plantae"
 classe: "Dicotylédones"

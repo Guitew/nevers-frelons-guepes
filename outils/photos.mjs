@@ -88,11 +88,15 @@ async function fichierCommons(terme) {
   return null;
 }
 
-/** Trouve un nom de fichier Commons pour une espèce (article, puis recherche Commons). */
+/** Trouve un nom de fichier Commons pour une espèce.
+ *  On interroge d'abord l'article au NOM COMMUN français (souvent l'article
+ *  d'espèce, avec une photo de taxobox correcte), puis le nom scientifique
+ *  (qui peut renvoyer une page de genre illustrée par un montage), puis Commons. */
 async function trouverFichier(nomScientifique, nomCommun) {
   return (
-    (await imageArticle(nomScientifique)) ||
     (await imageArticle(nomCommun)) ||
+    (await imageArticle(nomScientifique)) ||
+    (await fichierCommons(nomCommun)) ||
     (await fichierCommons(nomScientifique)) ||
     null
   );
