@@ -49,7 +49,7 @@ layout: layouts/base.njk
       <aside class="infobox" aria-label="Fiche d'identité de l'espèce">
         <div class="infobox__visuel infobox__visuel--{{ theme or 'nature' }}">
           {% if image %}
-          <img src="{{ image }}" alt="{{ image_alt or nom }}" loading="lazy">
+          <img src="{{ image }}" alt="{{ image_alt or nom }}" class="infobox__img" loading="lazy" decoding="async" sizes="(max-width: 960px) 100vw, 340px">
           {% else %}
           <span class="infobox__silhouette" aria-hidden="true">{{ embleme or '🌿' }}</span>
           <span class="infobox__filigrane" aria-hidden="true"><em>{{ nom_scientifique }}</em></span>

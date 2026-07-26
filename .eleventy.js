@@ -1,7 +1,21 @@
 const { DateTime } = require("luxon");
 const { feedPlugin } = require("@11ty/eleventy-plugin-rss");
+const { eleventyImageTransformPlugin } = require("@11ty/eleventy-img");
 
 module.exports = function (eleventyConfig) {
+  // ------- Images responsives optimisées (WebP + JPEG) -------
+  // Transforme automatiquement toutes les <img> locales du HTML de sortie
+  // en <picture> responsives (fonctionne aussi dans les partials/boucles).
+  eleventyConfig.addPlugin(eleventyImageTransformPlugin, {
+    extensions: "html",
+    formats: ["webp", "jpeg"],
+    widths: [320, 480, 800, 1200],
+    outputDir: "./_site/img/",
+    urlPath: "/img/",
+    sharpJpegOptions: { quality: 78, progressive: true },
+    sharpWebpOptions: { quality: 72 },
+    defaultAttributes: { loading: "lazy", decoding: "async" },
+  });
   // Copie des assets statiques tels quels
   eleventyConfig.addPassthroughCopy({ "src/assets": "assets" });
   eleventyConfig.addPassthroughCopy({ "src/static": "." });

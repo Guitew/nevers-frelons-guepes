@@ -416,6 +416,12 @@ img { max-width: 100%; height: auto; display: block; }
   * { scroll-behavior: auto !important; transition: none !important; }
 }
 
+/* ---------- Images responsives (picture) ---------- */
+.infobox__visuel picture,
+.carte-espece__visuel picture { display: block; width: 100%; height: 100%; }
+.infobox__img,
+.carte-espece__img { width: 100%; height: 100%; object-fit: cover; display: block; }
+
 /* ---------- Espèce exotique envahissante ---------- */
 .tag-eee { color: var(--st-cr); font-weight: 800; }
 .badge-eee {
