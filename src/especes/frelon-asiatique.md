@@ -78,3 +78,13 @@ Comme chez nos autres Vespidés, la colonie est **annuelle** et le nid n'est pas
 La détection précoce des nids et des individus est importante pour limiter la progression de
 l'espèce. Les observations peuvent être transmises aux dispositifs de signalement du frelon
 asiatique et aux structures compétentes de votre commune ou de votre département.
+
+## Le frelon asiatique en détail
+
+Pour approfondir chaque aspect de cette espèce, nos dossiers dédiés :
+
+- [Frelon asiatique ou européen : comment les reconnaître](/dossiers/frelon-asiatique-ou-europeen-reconnaitre/) — les critères pour ne pas confondre les deux espèces.
+- [Le frelon asiatique est-il dangereux ?](/dossiers/frelon-asiatique-danger-piqure/) — piqûre, risques et bons réflexes.
+- [Le nid de frelon asiatique et son cycle](/dossiers/nid-frelon-asiatique-reconnaitre-cycle/) — le reconnaître et le repérer tôt.
+- [Frelon asiatique et abeilles](/dossiers/frelon-asiatique-abeilles-menace/) — pourquoi il menace les pollinisateurs.
+- [Que faire face à un nid ?](/dossiers/que-faire-nid-frelon-asiatique-signalement/) — conduite à tenir, signalement et intervention.
