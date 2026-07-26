@@ -1,6 +1,10 @@
 ---
 nom_commun: "Vanneau huppé"
 nom_scientifique: "Vanellus vanellus"
+credit_url: "https://creativecommons.org/licenses/by-sa/2.5"
+credit: "Original: Andreas Trepte (User:Merops); this edit: MPF / Wikimedia Commons — CC BY-SA 2.5"
+image_alt: "Vanneau huppé (Vanellus vanellus)"
+image: "/assets/img/especes/vanneau-huppe.jpg"
 auteur_taxon: "(Linnaeus, 1758)"
 regne: "Animalia"
 classe: "Oiseaux"

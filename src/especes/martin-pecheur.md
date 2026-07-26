@@ -1,6 +1,10 @@
 ---
 nom_commun: "Martin-pêcheur d'Europe"
 nom_scientifique: "Alcedo atthis"
+credit_url: "https://creativecommons.org/licenses/by-sa/2.5"
+credit: "Andreas Trepte / Wikimedia Commons — CC BY-SA 2.5"
+image_alt: "Martin-pêcheur d'Europe (Alcedo atthis)"
+image: "/assets/img/especes/martin-pecheur.jpg"
 auteur_taxon: "(Linnaeus, 1758)"
 regne: "Animalia"
 classe: "Oiseaux"

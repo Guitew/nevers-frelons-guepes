@@ -1,6 +1,10 @@
 ---
 nom_commun: "Libellule déprimée"
 nom_scientifique: "Libellula depressa"
+credit_url: "https://commons.wikimedia.org/wiki/File:Libellula_depressa.jpg"
+credit: "Tim Bekaert / Wikimedia Commons — Public domain"
+image_alt: "Libellule déprimée (Libellula depressa)"
+image: "/assets/img/especes/libellule-deprimee.jpg"
 auteur_taxon: "Linnaeus, 1758"
 regne: "Animalia"
 classe: "Insectes"

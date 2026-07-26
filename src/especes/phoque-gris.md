@@ -1,6 +1,10 @@
 ---
 nom_commun: "Phoque gris"
 nom_scientifique: "Halichoerus grypus"
+credit_url: "https://creativecommons.org/licenses/by-sa/2.5"
+credit: "Andreas Trepte / Wikimedia Commons — CC BY-SA 2.5"
+image_alt: "Phoque gris (Halichoerus grypus)"
+image: "/assets/img/especes/phoque-gris.jpg"
 auteur_taxon: "Fabricius, 1791"
 regne: "Animalia"
 classe: "Mammifères"

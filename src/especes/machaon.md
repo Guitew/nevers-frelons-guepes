@@ -1,6 +1,10 @@
 ---
 nom_commun: "Machaon"
 nom_scientifique: "Papilio machaon"
+credit_url: "https://creativecommons.org/licenses/by-sa/4.0"
+credit: "Andreas Schoellhorn / Wikimedia Commons — CC BY-SA 4.0"
+image_alt: "Machaon (Papilio machaon)"
+image: "/assets/img/especes/machaon.jpg"
 auteur_taxon: "Linnaeus, 1758"
 regne: "Animalia"
 classe: "Insectes"

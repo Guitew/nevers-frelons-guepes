@@ -1,6 +1,10 @@
 ---
 nom_commun: "Salicorne d'Europe"
 nom_scientifique: "Salicornia europaea"
+credit_url: "http://creativecommons.org/licenses/by-sa/3.0/"
+credit: "M.Buschmann / Wikimedia Commons — CC BY-SA 3.0"
+image_alt: "Salicorne d'Europe (Salicornia europaea)"
+image: "/assets/img/especes/salicorne-europe.jpg"
 auteur_taxon: "L."
 regne: "Plantae"
 classe: "Dicotylédones"

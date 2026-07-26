@@ -1,6 +1,10 @@
 ---
 nom_commun: "Pipistrelle commune"
 nom_scientifique: "Pipistrellus pipistrellus"
+credit_url: "https://creativecommons.org/licenses/by-sa/2.0"
+credit: "Gilles San Martin from Namur, Belgium / Wikimedia Commons — CC BY-SA 2.0"
+image_alt: "Pipistrelle commune (Pipistrellus pipistrellus)"
+image: "/assets/img/especes/pipistrelle-commune.jpg"
 auteur_taxon: "Schreber, 1774"
 regne: "Animalia"
 classe: "Mammifères"

@@ -1,6 +1,10 @@
 ---
 nom_commun: "Triton palmé"
 nom_scientifique: "Lissotriton helveticus"
+credit_url: "https://creativecommons.org/licenses/by-sa/2.0"
+credit: "Gilles San Martin from Namur, Belgium / Wikimedia Commons — CC BY-SA 2.0"
+image_alt: "Triton palmé (Lissotriton helveticus)"
+image: "/assets/img/especes/triton-palme.jpg"
 auteur_taxon: "(Razoumowsky, 1789)"
 regne: "Animalia"
 classe: "Amphibiens"

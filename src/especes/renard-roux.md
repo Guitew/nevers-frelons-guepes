@@ -1,6 +1,10 @@
 ---
 nom_commun: "Renard roux"
 nom_scientifique: "Vulpes vulpes"
+credit_url: "https://creativecommons.org/licenses/by/2.0"
+credit: "菅野温泉（かんのおんせん）玄関のキタキツネP6270365.jpg: Snake Head 1995 Rüppell's_fox.jpg: HelmutBoehm Vulpes corsac 2010.JPG: 4028mdk09 Arcticfox_(Alopex_lagopus)_at_Svalbard.jpg: Billy Lindblom Bengal Fox - Shreeram M V - Rajasthan, India.jpg: Mvshreeram Blandford's_fox_1.jpg: Eyal Bartov Vulpes chama (Etosha).jpg: Yathin S Krishnappa Fennec_Fox_Vulpes_zerda.jpg: Drew Avery derivative work: Mariomassone and Sittaco / Wikimedia Commons — CC BY 2.0"
+image_alt: "Renard roux (Vulpes vulpes)"
+image: "/assets/img/especes/renard-roux.jpg"
 auteur_taxon: "Linnaeus, 1758"
 regne: "Animalia"
 classe: "Mammifères"

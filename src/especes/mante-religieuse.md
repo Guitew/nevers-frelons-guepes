@@ -1,6 +1,10 @@
 ---
 nom_commun: "Mante religieuse"
 nom_scientifique: "Mantis religiosa"
+credit_url: "https://creativecommons.org/licenses/by-sa/3.0"
+credit: "Alvesgaspar / Wikimedia Commons — CC BY-SA 3.0"
+image_alt: "Mante religieuse (Mantis religiosa)"
+image: "/assets/img/especes/mante-religieuse.jpg"
 auteur_taxon: "(Linnaeus, 1758)"
 regne: "Animalia"
 classe: "Insectes"
