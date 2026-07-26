@@ -67,5 +67,6 @@ fleurs, participant à la pollinisation.
 
 On confond souvent « les guêpes » en un seul groupe. La poliste, élancée et débonnaire, se
 distingue des **guêpes communes** (plus trapues, attirées par les aliments sucrés et la charcuterie
-en fin d'été) et des [frelons](/especes/frelon-europeen/). Reconnaître l'espèce permet de réagir de
-façon adaptée — et souvent de cohabiter sans problème.
+en fin d'été) et des frelons — le [frelon européen](/especes/frelon-europeen/), indigène, et surtout
+le [frelon asiatique](/especes/frelon-asiatique/), espèce exotique envahissante. Reconnaître l'espèce
+permet de réagir de façon adaptée — et souvent de cohabiter sans problème.

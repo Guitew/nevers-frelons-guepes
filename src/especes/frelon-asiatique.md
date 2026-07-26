@@ -39,6 +39,7 @@ Le Frelon asiatique est **originaire d'Asie du Sud-Est**. Introduit accidentelle
 début des années 2000, il s'est propagé sur l'ensemble du territoire, **Hauts-de-France comprises**.
 Classé **espèce exotique envahissante**, il fait l'objet d'une surveillance et d'une lutte
 organisée. Voir aussi notre page [Espèces exotiques envahissantes](/especes-exotiques-envahissantes/).
+Pour un guide pratique complet, consultez la ressource dédiée au [frelon asiatique](https://allo-frelons.fr/frelon-asiatique).
 
 ## Le reconnaître
 
