@@ -9,6 +9,7 @@
   <meta name="description" content="{{ metaDesc }}">
   <meta name="author" content="{{ site.organisme }}">
   <meta name="theme-color" content="#123a2b">
+  {% if site.verifGoogle %}<meta name="google-site-verification" content="{{ site.verifGoogle }}">{% endif %}
   {% if noindex %}<meta name="robots" content="noindex, follow">{% endif %}
   <link rel="canonical" href="{{ site.url }}{{ page.url }}">
 
