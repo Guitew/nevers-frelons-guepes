@@ -1,6 +1,10 @@
 ---
 nom_commun: "Chardonneret élégant"
 nom_scientifique: "Carduelis carduelis"
+credit_url: "https://creativecommons.org/licenses/by-sa/3.0"
+credit: "Pierre Dalous / Wikimedia Commons — CC BY-SA 3.0"
+image_alt: "Chardonneret élégant (Carduelis carduelis)"
+image: "/assets/img/especes/chardonneret-elegant.jpg"
 auteur_taxon: "(Linnaeus, 1758)"
 regne: "Animalia"
 classe: "Oiseaux"

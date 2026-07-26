@@ -1,6 +1,10 @@
 ---
 nom_commun: "Martinet noir"
 nom_scientifique: "Apus apus"
+credit_url: "https://creativecommons.org/licenses/by/4.0"
+credit: "Alexis Lours / Wikimedia Commons — CC BY 4.0"
+image_alt: "Martinet noir (Apus apus)"
+image: "/assets/img/especes/martinet-noir.jpg"
 auteur_taxon: "(Linnaeus, 1758)"
 regne: "Animalia"
 classe: "Oiseaux"

@@ -1,6 +1,10 @@
 ---
 nom_commun: "Coccinelle à sept points"
 nom_scientifique: "Coccinella septempunctata"
+credit_url: "https://creativecommons.org/licenses/by/3.0"
+credit: "Darius Baužys / Wikimedia Commons — CC BY 3.0"
+image_alt: "Coccinelle à sept points (Coccinella septempunctata)"
+image: "/assets/img/especes/coccinelle-a-sept-points.jpg"
 auteur_taxon: "Linnaeus, 1758"
 regne: "Animalia"
 classe: "Insectes"

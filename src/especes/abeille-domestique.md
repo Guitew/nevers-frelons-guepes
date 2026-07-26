@@ -1,6 +1,10 @@
 ---
 nom_commun: "Abeille domestique"
 nom_scientifique: "Apis mellifera"
+credit_url: "https://creativecommons.org/licenses/by-sa/4.0"
+credit: "Didier Descouens / Wikimedia Commons — CC BY-SA 4.0"
+image_alt: "Abeille domestique (Apis mellifera)"
+image: "/assets/img/especes/abeille-domestique.jpg"
 auteur_taxon: "Linnaeus, 1758"
 regne: "Animalia"
 classe: "Insectes"

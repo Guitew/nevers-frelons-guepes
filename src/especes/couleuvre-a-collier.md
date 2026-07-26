@@ -1,6 +1,10 @@
 ---
 nom_commun: "Couleuvre à collier"
 nom_scientifique: "Natrix helvetica"
+credit_url: "https://creativecommons.org/licenses/by-sa/4.0"
+credit: "Benny Trapp / Wikimedia Commons — CC BY-SA 4.0"
+image_alt: "Couleuvre à collier (Natrix helvetica)"
+image: "/assets/img/especes/couleuvre-a-collier.jpg"
 auteur_taxon: "(Lacépède, 1789)"
 regne: "Animalia"
 classe: "Reptiles"

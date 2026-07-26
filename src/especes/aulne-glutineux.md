@@ -1,6 +1,10 @@
 ---
 nom_commun: "Aulne glutineux"
 nom_scientifique: "Alnus glutinosa"
+credit_url: "https://commons.wikimedia.org/wiki/File:Klibbal2.jpg"
+credit: "Carl Axel Magnus Lindman / Wikimedia Commons — Public domain"
+image_alt: "Aulne glutineux (Alnus glutinosa)"
+image: "/assets/img/especes/aulne-glutineux.jpg"
 auteur_taxon: "(L.) Gaertn."
 regne: "Plantae"
 classe: "Dicotylédones"

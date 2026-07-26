@@ -1,6 +1,10 @@
 ---
 nom_commun: "Crapaud commun"
 nom_scientifique: "Bufo bufo"
+credit_url: "https://creativecommons.org/licenses/by-sa/2.5"
+credit: "Iric / Wikimedia Commons — CC BY-SA 2.5"
+image_alt: "Crapaud commun (Bufo bufo)"
+image: "/assets/img/especes/crapaud-commun.jpg"
 auteur_taxon: "(Linnaeus, 1758)"
 regne: "Animalia"
 classe: "Amphibiens"

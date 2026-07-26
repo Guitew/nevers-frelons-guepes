@@ -1,6 +1,10 @@
 ---
 nom_commun: "Argousier"
 nom_scientifique: "Hippophae rhamnoides"
+credit_url: "https://creativecommons.org/licenses/by-sa/4.0"
+credit: "Vmenkov / Wikimedia Commons — CC BY-SA 4.0"
+image_alt: "Argousier (Hippophae rhamnoides)"
+image: "/assets/img/especes/argousier.jpg"
 auteur_taxon: "L."
 regne: "Plantae"
 classe: "Dicotylédones"

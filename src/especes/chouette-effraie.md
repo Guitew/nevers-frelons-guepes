@@ -1,6 +1,10 @@
 ---
 nom_commun: "Chouette effraie"
 nom_scientifique: "Tyto alba"
+credit_url: "https://creativecommons.org/licenses/by-sa/4.0"
+credit: "Rolf Tuinstra / Wikimedia Commons — CC BY-SA 4.0"
+image_alt: "Chouette effraie (Tyto alba)"
+image: "/assets/img/especes/chouette-effraie.jpg"
 auteur_taxon: "(Scopoli, 1769)"
 regne: "Animalia"
 classe: "Oiseaux"

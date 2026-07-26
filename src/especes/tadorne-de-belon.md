@@ -1,6 +1,10 @@
 ---
 nom_commun: "Tadorne de Belon"
 nom_scientifique: "Tadorna tadorna"
+credit_url: "https://creativecommons.org/licenses/by-sa/2.0"
+credit: "Ludovic Hirlimann / Wikimedia Commons — CC BY-SA 2.0"
+image_alt: "Tadorne de Belon (Tadorna tadorna)"
+image: "/assets/img/especes/tadorne-de-belon.jpg"
 auteur_taxon: "(Linnaeus, 1758)"
 regne: "Animalia"
 classe: "Oiseaux"

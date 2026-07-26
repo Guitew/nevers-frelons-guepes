@@ -1,6 +1,10 @@
 ---
 nom_commun: "Chevreuil européen"
 nom_scientifique: "Capreolus capreolus"
+credit_url: "https://creativecommons.org/licenses/by-sa/4.0"
+credit: "Karbohut / Wikimedia Commons — CC BY-SA 4.0"
+image_alt: "Chevreuil européen (Capreolus capreolus)"
+image: "/assets/img/especes/chevreuil-europeen.jpg"
 auteur_taxon: "Linnaeus, 1758"
 regne: "Animalia"
 classe: "Mammifères"

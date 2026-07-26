@@ -1,6 +1,10 @@
 ---
 nom_commun: "Aigrette garzette"
 nom_scientifique: "Egretta garzetta"
+credit_url: "https://creativecommons.org/licenses/by-sa/4.0"
+credit: "El Golli Mohamed / Wikimedia Commons — CC BY-SA 4.0"
+image_alt: "Aigrette garzette (Egretta garzetta)"
+image: "/assets/img/especes/aigrette-garzette.jpg"
 auteur_taxon: "(Linnaeus, 1766)"
 regne: "Animalia"
 classe: "Oiseaux"

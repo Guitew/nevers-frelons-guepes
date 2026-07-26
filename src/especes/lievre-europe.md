@@ -1,6 +1,10 @@
 ---
 nom_commun: "Lièvre d'Europe"
 nom_scientifique: "Lepus europaeus"
+credit_url: "https://creativecommons.org/licenses/by-sa/2.0"
+credit: "Jean-Jacques Boujot from Paris, France / Wikimedia Commons — CC BY-SA 2.0"
+image_alt: "Lièvre d'Europe (Lepus europaeus)"
+image: "/assets/img/especes/lievre-europe.jpg"
 auteur_taxon: "Pallas, 1778"
 regne: "Animalia"
 classe: "Mammifères"

@@ -1,6 +1,10 @@
 ---
 nom_commun: "Coquelicot"
 nom_scientifique: "Papaver rhoeas"
+credit_url: "https://creativecommons.org/licenses/by-sa/4.0"
+credit: "JackyM59 / Wikimedia Commons — CC BY-SA 4.0"
+image_alt: "Coquelicot (Papaver rhoeas)"
+image: "/assets/img/especes/coquelicot.jpg"
 auteur_taxon: "L."
 regne: "Plantae"
 classe: "Dicotylédones"

@@ -1,6 +1,10 @@
 ---
 nom_commun: "Belette d'Europe"
 nom_scientifique: "Mustela nivalis"
+credit_url: "https://creativecommons.org/licenses/by-sa/2.0"
+credit: "Keven Law / Wikimedia Commons — CC BY-SA 2.0"
+image_alt: "Belette d'Europe (Mustela nivalis)"
+image: "/assets/img/especes/belette-europe.jpg"
 auteur_taxon: "Linnaeus, 1766"
 regne: "Animalia"
 classe: "Mammifères"

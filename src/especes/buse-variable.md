@@ -1,6 +1,10 @@
 ---
 nom_commun: "Buse variable"
 nom_scientifique: "Buteo buteo"
+credit_url: "https://creativecommons.org/licenses/by/2.0"
+credit: "caroline legg / Wikimedia Commons — CC BY 2.0"
+image_alt: "Buse variable (Buteo buteo)"
+image: "/assets/img/especes/buse-variable.jpg"
 auteur_taxon: "(Linnaeus, 1758)"
 regne: "Animalia"
 classe: "Oiseaux"

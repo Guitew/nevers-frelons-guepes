@@ -1,6 +1,10 @@
 ---
 nom_commun: "Chêne pédonculé"
 nom_scientifique: "Quercus robur"
+credit_url: "https://creativecommons.org/licenses/by-sa/3.0"
+credit: "Jean-Pol GRANDMONT / Wikimedia Commons — CC BY-SA 3.0"
+image_alt: "Chêne pédonculé (Quercus robur)"
+image: "/assets/img/especes/chene-pedoncule.jpg"
 auteur_taxon: "L."
 regne: "Plantae"
 classe: "Dicotylédones"

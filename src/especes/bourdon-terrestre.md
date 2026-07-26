@@ -1,6 +1,10 @@
 ---
 nom_commun: "Bourdon terrestre"
 nom_scientifique: "Bombus terrestris"
+credit_url: "https://creativecommons.org/licenses/by-sa/3.0"
+credit: "Alvesgaspar / Wikimedia Commons — CC BY-SA 3.0"
+image_alt: "Bourdon terrestre (Bombus terrestris)"
+image: "/assets/img/especes/bourdon-terrestre.jpg"
 auteur_taxon: "(Linnaeus, 1758)"
 regne: "Animalia"
 classe: "Insectes"

@@ -1,6 +1,10 @@
 ---
 nom_commun: "Ail des ours"
 nom_scientifique: "Allium ursinum"
+credit_url: "https://commons.wikimedia.org/wiki/File:Illustration_Allium_ursinum1.jpg"
+credit: "Auteur inconnu / Wikimedia Commons — Public domain"
+image_alt: "Ail des ours (Allium ursinum)"
+image: "/assets/img/especes/ail-des-ours.jpg"
 auteur_taxon: "L."
 regne: "Plantae"
 classe: "Monocotylédones"

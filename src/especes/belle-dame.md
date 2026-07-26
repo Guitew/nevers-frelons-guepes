@@ -1,6 +1,10 @@
 ---
 nom_commun: "Belle-Dame"
 nom_scientifique: "Vanessa cardui"
+credit_url: "https://creativecommons.org/licenses/by-sa/4.0"
+credit: "Didier Descouens / Wikimedia Commons — CC BY-SA 4.0"
+image_alt: "Belle-Dame (Vanessa cardui)"
+image: "/assets/img/especes/belle-dame.jpg"
 auteur_taxon: "(Linnaeus, 1758)"
 regne: "Animalia"
 classe: "Insectes"
