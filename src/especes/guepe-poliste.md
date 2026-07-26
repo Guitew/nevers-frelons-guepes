@@ -1,6 +1,10 @@
 ---
 nom_commun: "Guêpe poliste"
 nom_scientifique: "Polistes dominula"
+credit_url: "https://creativecommons.org/licenses/by-sa/4.0"
+credit: "Didier Descouens / Wikimedia Commons — CC BY-SA 4.0"
+image_alt: "Guêpe poliste (Polistes dominula)"
+image: "/assets/img/especes/guepe-poliste.jpg"
 auteur_taxon: "(Christ, 1791)"
 regne: "Animalia"
 classe: "Insectes"

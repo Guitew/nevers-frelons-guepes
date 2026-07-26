@@ -1,6 +1,10 @@
 ---
 nom_commun: "Frelon asiatique"
 nom_scientifique: "Vespa velutina nigrithorax"
+credit_url: "https://creativecommons.org/licenses/by-sa/3.0"
+credit: "Didier Descouens / Wikimedia Commons — CC BY-SA 3.0"
+image_alt: "Frelon asiatique (Vespa velutina nigrithorax)"
+image: "/assets/img/especes/frelon-asiatique.jpg"
 auteur_taxon: "Lepeletier, 1836"
 regne: "Animalia"
 classe: "Insectes"

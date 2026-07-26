@@ -1,6 +1,10 @@
 ---
 nom_commun: "Xylocope violet"
 nom_scientifique: "Xylocopa violacea"
+credit_url: "https://creativecommons.org/licenses/by-sa/4.0"
+credit: "X kate xoxo / Wikimedia Commons — CC BY-SA 4.0"
+image_alt: "Xylocope violet (Xylocopa violacea)"
+image: "/assets/img/especes/xylocope-violet.jpg"
 auteur_taxon: "(Linnaeus, 1758)"
 regne: "Animalia"
 classe: "Insectes"

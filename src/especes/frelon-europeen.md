@@ -1,6 +1,10 @@
 ---
 nom_commun: "Frelon européen"
 nom_scientifique: "Vespa crabro"
+credit_url: "https://creativecommons.org/licenses/by-sa/4.0"
+credit: "Didier Descouens / Wikimedia Commons — CC BY-SA 4.0"
+image_alt: "Frelon européen (Vespa crabro)"
+image: "/assets/img/especes/frelon-europeen.jpg"
 auteur_taxon: "Linnaeus, 1758"
 regne: "Animalia"
 classe: "Insectes"
