@@ -22,6 +22,8 @@ layout: layouts/base.njk
           {% if chapo %}<p class="chapo" itemprop="description">{{ chapo }}</p>{% endif %}
         </header>
 
+        {% include "partials/cta-partenaire.njk" %}
+
         <div class="prose" itemprop="articleBody">
           {{ content | safe }}
         </div>

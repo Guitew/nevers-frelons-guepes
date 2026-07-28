@@ -2,18 +2,18 @@
 layout: layouts/page.njk
 title: "Mentions légales"
 permalink: "/mentions-legales/"
-description: "Mentions légales du site observatoire-biodiversite-npdc.fr : éditeur, hébergement, propriété intellectuelle et données personnelles."
-chapo: "Informations légales relatives au site observatoire-biodiversite-npdc.fr."
+description: "Mentions légales du site allo-frelons.com : éditeur, hébergement, propriété intellectuelle et données personnelles."
+chapo: "Informations légales relatives au site allo-frelons.com."
 fil:
   - titre: "Mentions légales"
 ---
 
 ## Éditeur du site
 
-Le site **observatoire-biodiversite-npdc.fr** est édité par l'Observatoire de la biodiversité
+Le site **allo-frelons.com** est édité par l'Observatoire de la biodiversité
 du Nord et du Pas-de-Calais.
 
-Contact : <a href="mailto:contact@observatoire-biodiversite-npdc.fr">contact@observatoire-biodiversite-npdc.fr</a>
+Contact : <a href="mailto:allofrelons@gmail.com">allofrelons@gmail.com</a>
 
 > **À compléter par l'éditeur** : dénomination sociale ou nom de l'éditeur, statut juridique,
 > adresse, numéro de téléphone, et le cas échéant numéro d'immatriculation (SIRET/RCS) et
@@ -24,9 +24,9 @@ Contact : <a href="mailto:contact@observatoire-biodiversite-npdc.fr">contact@obs
 
 Le site est hébergé par :
 
-**o2switch**
-SAS o2switch — Chem. des Pardiaux, 63000 Clermont-Ferrand, France
-Téléphone : 04 44 44 60 40 — <a href="https://www.o2switch.fr" rel="noopener">www.o2switch.fr</a>
+**IONOS**
+IONOS SARL — 7 place de la Gare, BP 70109, 57201 Sarreguemines Cedex, France
+Téléphone : 09 70 80 89 11 — <a href="https://www.ionos.fr" rel="noopener">www.ionos.fr</a>
 
 ## Propriété intellectuelle
 

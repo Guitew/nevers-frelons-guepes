@@ -1,0 +1,36 @@
+{# Bloc CTA SMS + NAP locales ALLO FRELONS, affiché au-dessus de la ligne de
+   flottaison sur les pages qui pointent vers une page locale d'allo-frelons.fr.
+   Activation : front matter `cta_partenaire: ["59"]`, `["62"]` ou `["59", "62"]`. #}
+{% if cta_partenaire %}
+<aside class="cta-partenaire" aria-label="Intervention frelons et guêpes — {{ partenaire.nom }}">
+  <div class="cta-partenaire__action">
+    <p class="cta-partenaire__accroche">Un nid de frelons ou de guêpes chez vous&nbsp;? {{ partenaire.nom }} intervient rapidement près de chez vous.</p>
+    <a class="cta-sms" href="{{ partenaire.sms.lien }}">Envoyez un SMS au {{ partenaire.sms.numero }}</a>
+    <p class="cta-partenaire__alt">Envoyez une photo du nid par SMS pour un devis immédiat, ou appelez le
+      <a href="{{ partenaire.sms.telLien }}">{{ partenaire.sms.numero }}</a>.</p>
+  </div>
+  <div class="cta-partenaire__naps">
+    {% for code in cta_partenaire %}
+    {% set n = partenaire.naps[code] %}
+    {% if n %}
+    <div class="cta-nap" data-nap-dept="{{ code }}" itemscope itemtype="https://schema.org/LocalBusiness">
+      <p class="cta-nap__nom" itemprop="name">{{ n.raison }}</p>
+      {# L'adresse est toujours présente dans le HTML (masquée si vide) pour que
+         nap-locales.js puisse la renseigner depuis /donnees/nap.json. #}
+      <p itemprop="address" itemscope itemtype="https://schema.org/PostalAddress"{% if not n.adresse %} hidden{% endif %}>
+        <span itemprop="streetAddress">{{ n.adresse }}</span>,
+        <span itemprop="postalCode">{{ n.codePostal }}</span> <span itemprop="addressLocality">{{ n.ville }}</span>
+        <meta itemprop="addressCountry" content="FR">
+      </p>
+      <p><a href="{{ partenaire.sms.telLien }}" itemprop="telephone">{{ n.telephone }}</a> · <span itemprop="areaServed">{{ n.zone }}</span></p>
+      <p><a href="{{ n.lienLocal }}" itemprop="url" rel="noopener">{{ n.lienLocalTexte }}</a></p>
+    </div>
+    {% endif %}
+    {% endfor %}
+  </div>
+</aside>
+{# Barre SMS fixe (mobile uniquement) : le CTA reste visible dès l'arrivée sur la page. #}
+<a class="cta-sms cta-sms--fixe" href="{{ partenaire.sms.lien }}">SMS au {{ partenaire.sms.numero }}</a>
+{# Coordonnées mises à jour via /admin-nap.php, sans reconstruction du site. #}
+<script src="/assets/js/nap-locales.js" defer></script>
+{% endif %}

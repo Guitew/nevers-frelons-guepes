@@ -30,7 +30,7 @@ const RACINE = path.resolve(path.dirname(fileURLToPath(import.meta.url)), "..");
 const DOSSIER_ESPECES = path.join(RACINE, "src", "especes");
 const DOSSIER_IMAGES = path.join(RACINE, "src", "assets", "img", "especes");
 const LARGEUR = 1200; // largeur cible des images téléchargées
-const UA = "ObservatoireBiodiversiteNPDC/1.0 (site encyclopedique; contact@observatoire-biodiversite-npdc.fr)";
+const UA = "ObservatoireBiodiversiteNPDC/1.0 (site encyclopedique; allofrelons@gmail.com)";
 
 const args = process.argv.slice(2);
 const FORCE = args.includes("--force");

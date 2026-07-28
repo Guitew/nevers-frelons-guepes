@@ -1,4 +1,6 @@
 User-agent: *
 Allow: /
+Disallow: /admin-nap.php
+Disallow: /donnees/
 
-Sitemap: https://observatoire-biodiversite-npdc.fr/sitemap.xml
+Sitemap: https://allo-frelons.com/sitemap.xml

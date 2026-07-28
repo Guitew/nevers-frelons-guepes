@@ -2,7 +2,7 @@
 layout: layouts/page.njk
 title: "Accessibilité"
 permalink: "/accessibilite/"
-description: "Déclaration d'accessibilité du site observatoire-biodiversite-npdc.fr et engagements pour un accès à l'information pour toutes et tous."
+description: "Déclaration d'accessibilité du site allo-frelons.com et engagements pour un accès à l'information pour toutes et tous."
 chapo: "Nous souhaitons rendre l'encyclopédie accessible au plus grand nombre."
 fil:
   - titre: "Accessibilité"
@@ -29,5 +29,5 @@ le JavaScript est désactivé.
 ## Amélioration continue
 
 L'accessibilité est un travail permanent. Si vous rencontrez une difficulté pour accéder à un
-contenu, signalez-la à <a href="mailto:contact@observatoire-biodiversite-npdc.fr">contact@observatoire-biodiversite-npdc.fr</a> :
+contenu, signalez-la à <a href="mailto:allofrelons@gmail.com">allofrelons@gmail.com</a> :
 nous nous efforçons de corriger les problèmes signalés et de proposer une alternative d'accès à l'information.
