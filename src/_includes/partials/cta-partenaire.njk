@@ -13,15 +13,15 @@
     {% for code in cta_partenaire %}
     {% set n = partenaire.naps[code] %}
     {% if n %}
-    <div class="cta-nap" itemscope itemtype="https://schema.org/LocalBusiness">
+    <div class="cta-nap" data-nap-dept="{{ code }}" itemscope itemtype="https://schema.org/LocalBusiness">
       <p class="cta-nap__nom" itemprop="name">{{ n.raison }}</p>
-      {% if n.adresse %}
-      <p itemprop="address" itemscope itemtype="https://schema.org/PostalAddress">
+      {# L'adresse est toujours présente dans le HTML (masquée si vide) pour que
+         nap-locales.js puisse la renseigner depuis /donnees/nap.json. #}
+      <p itemprop="address" itemscope itemtype="https://schema.org/PostalAddress"{% if not n.adresse %} hidden{% endif %}>
         <span itemprop="streetAddress">{{ n.adresse }}</span>,
         <span itemprop="postalCode">{{ n.codePostal }}</span> <span itemprop="addressLocality">{{ n.ville }}</span>
         <meta itemprop="addressCountry" content="FR">
       </p>
-      {% endif %}
       <p><a href="{{ partenaire.sms.telLien }}" itemprop="telephone">{{ n.telephone }}</a> · <span itemprop="areaServed">{{ n.zone }}</span></p>
       <p><a href="{{ n.lienLocal }}" itemprop="url" rel="noopener">{{ n.lienLocalTexte }}</a></p>
     </div>
@@ -31,4 +31,6 @@
 </aside>
 {# Barre SMS fixe (mobile uniquement) : le CTA reste visible dès l'arrivée sur la page. #}
 <a class="cta-sms cta-sms--fixe" href="{{ partenaire.sms.lien }}">SMS au {{ partenaire.sms.numero }}</a>
+{# Coordonnées mises à jour via /admin-nap.php, sans reconstruction du site. #}
+<script src="/assets/js/nap-locales.js" defer></script>
 {% endif %}

@@ -119,10 +119,21 @@ apparaissent sur chaque fiche et sur la page **/credits/**.
 ## Coordonnées locales ALLO FRELONS (NAP)
 
 Les coordonnées affichées dans les blocs CTA / NAP (fiches liées aux pages locales
-d'allo-frelons.fr) se renseignent dans **[`src/_data/napLocales.json`](./src/_data/napLocales.json)**,
-un simple fichier JSON par département (59, 62). Il peut être modifié **directement depuis
-l'interface web de GitHub** (bouton crayon sur le fichier) : utilisez les valeurs **exactes** de la
-fiche d'établissement Google ; un champ laissé vide (`""`) n'est pas affiché sur le site.
+d'allo-frelons.fr) se gèrent de deux façons :
+
+1. **Administration en ligne (recommandé)** : rendez-vous sur **`/admin-nap.php`** du site en
+   ligne. À la première visite, créez un mot de passe ; ensuite, modifiez les champs par
+   département (59, 62) et enregistrez — les changements sont **visibles immédiatement**, sans
+   reconstruction du site ni passage par GitHub. Les valeurs sont stockées sur le serveur dans
+   `donnees/nap.json` (non écrasé par les déploiements) et appliquées aux pages par
+   `assets/js/nap-locales.js`. Mot de passe oublié : supprimez `donnees/nap-admin.php` par FTP
+   puis retournez sur la page.
+2. **Dans le code** : le fichier [`src/_data/napLocales.json`](./src/_data/napLocales.json)
+   contient les valeurs compilées dans le site (utilisées en secours, notamment sans JavaScript).
+   Il peut être modifié depuis l'interface web de GitHub.
+
+Dans les deux cas : utilisez les valeurs **exactes** de la fiche d'établissement Google
+(cohérence NAP indispensable au SEO local) ; un champ laissé vide n'est pas affiché.
 
 ## Déploiement
 
