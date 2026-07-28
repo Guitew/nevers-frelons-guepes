@@ -136,7 +136,7 @@ module.exports = function (eleventyConfig) {
       language: "fr",
       title: "Observatoire de la biodiversité du Nord et du Pas-de-Calais",
       subtitle: "Dossiers et actualités des milieux naturels des Hauts-de-France.",
-      base: "https://observatoire-biodiversite-npdc.fr/",
+      base: "https://allo-frelons.com/",
       author: { name: "Observatoire de la biodiversité du Nord et du Pas-de-Calais" },
     },
   });

@@ -80,8 +80,8 @@ function ecrire_atomique(string $fichier, string $contenu): bool {
 function lien_telephone(string $tel): string {
   $chiffres = preg_replace('/\D+/', '', $tel) ?? '';
   if ($chiffres === '') return '';
-  if (str_starts_with($chiffres, '33')) return '+' . $chiffres;
-  if (str_starts_with($chiffres, '0'))  return '+33' . substr($chiffres, 1);
+  if (strncmp($chiffres, '33', 2) === 0) return '+' . $chiffres;
+  if ($chiffres[0] === '0') return '+33' . substr($chiffres, 1);
   return '+' . $chiffres;
 }
 

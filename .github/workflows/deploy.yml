@@ -1,11 +1,12 @@
-name: Construire et déployer sur o2switch
+name: Construire et déployer sur IONOS
 
-# Déploiement automatique du site sur l'hébergement o2switch via FTP.
+# Déploiement automatique du site (allo-frelons.com) sur l'hébergement IONOS via FTP.
 #
 # Pré-requis : définir 3 secrets dans les réglages du dépôt GitHub
 #   (Settings → Secrets and variables → Actions → New repository secret) :
-#     FTP_SERVER    : l'hôte FTP o2switch (ex. ftp.votre-domaine.fr ou monserveur.o2switch.net)
-#     FTP_USERNAME  : votre identifiant FTP (compte cPanel ou compte FTP dédié)
+#     FTP_SERVER    : l'hôte FTP IONOS (du type access-XXXXXXXXX.webspace-host.com,
+#                     visible dans l'espace client IONOS → Hébergement → Accès SFTP & FTP)
+#     FTP_USERNAME  : l'identifiant d'accès associé (du type u12345678 ou a123456789)
 #     FTP_PASSWORD  : le mot de passe associé
 #
 # Le déploiement se déclenche à chaque push sur la branche principale,
@@ -17,7 +18,7 @@ on:
   workflow_dispatch:
 
 concurrency:
-  group: deploy-o2switch
+  group: deploy-ionos
   cancel-in-progress: true
 
 jobs:
@@ -39,20 +40,25 @@ jobs:
       - name: Compiler le site (Eleventy)
         run: npm run build
 
-      - name: Déployer sur o2switch par FTP
+      - name: Déployer sur IONOS par FTP
         uses: SamKirkland/FTP-Deploy-Action@v4.3.5
         with:
           server: ${{ secrets.FTP_SERVER }}
           username: ${{ secrets.FTP_USERNAME }}
           password: ${{ secrets.FTP_PASSWORD }}
+          # IONOS accepte le FTP chiffré (FTPS explicite). Si la connexion échoue,
+          # remplacer par « protocol: ftp ».
           protocol: ftps
           # Contenu à envoyer : le dossier compilé
           local-dir: ./_site/
-          # Cible sur o2switch : le dossier racine (Document Root) du domaine.
-          # observatoire-biodiversite-npdc.fr est un domaine ajouté dont la racine
-          # est le dossier du même nom, à la racine du compte (et non public_html).
-          server-dir: ./observatoire-biodiversite-npdc.fr/
-          # Fichiers à ne jamais transférer
+          # Cible sur IONOS : le dossier du webspace vers lequel pointe le domaine
+          # allo-frelons.com (espace client IONOS → Domaines & SSL → allo-frelons.com
+          # → destination/dossier cible). « ./ » = racine du webspace ; remplacer par
+          # « ./allo-frelons.com/ » si le domaine pointe vers un sous-dossier.
+          server-dir: ./
+          # Fichiers à ne jamais transférer. Le dossier donnees/ (créé sur le serveur
+          # par admin-nap.php) n'est pas touché : l'action ne supprime que les fichiers
+          # qu'elle a elle-même déployés.
           exclude: |
             **/.git*
             **/.git*/**

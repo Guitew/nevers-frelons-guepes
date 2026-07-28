@@ -25,7 +25,7 @@ le cas échéant, la fiche est corrigée et sa date de mise à jour actualisée.
 
 <div class="encadre encadre--info">
   <p class="encadre__titre">Nous écrire</p>
-  <p>Écrivez à <a href="mailto:contact@observatoire-biodiversite-npdc.fr">contact@observatoire-biodiversite-npdc.fr</a>
+  <p>Écrivez à <a href="mailto:allofrelons@gmail.com">allofrelons@gmail.com</a>
   en précisant la fiche concernée et, si possible, vos sources.</p>
 </div>
 
