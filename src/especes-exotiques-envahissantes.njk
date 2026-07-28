@@ -3,6 +3,9 @@ layout: layouts/base.njk
 title: "Espèces exotiques envahissantes"
 permalink: "/especes-exotiques-envahissantes/"
 description: "Les espèces exotiques envahissantes du Nord et du Pas-de-Calais : frelon asiatique, renouée du Japon, berce du Caucase… enjeux, reconnaissance et intervention."
+cta_partenaire:
+  - "59"
+  - "62"
 ---
 <div class="conteneur">
   <nav class="fil-ariane" aria-label="Fil d'Ariane">
@@ -21,6 +24,8 @@ description: "Les espèces exotiques envahissantes du Nord et du Pas-de-Calais :
 </div>
 
 <div class="conteneur conteneur--texte section">
+  {% include "partials/cta-partenaire.njk" %}
+
   <div class="prose">
     <h2>Qu'est-ce qu'une espèce exotique envahissante ?</h2>
     <p>Une <strong>espèce exotique envahissante</strong> (EEE) est une espèce introduite,
