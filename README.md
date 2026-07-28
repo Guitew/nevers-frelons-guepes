@@ -116,6 +116,14 @@ Deux possibilités :
 En l'absence de photo, un visuel illustré (pictogramme) est utilisé. Les crédits des photos
 apparaissent sur chaque fiche et sur la page **/credits/**.
 
+## Coordonnées locales ALLO FRELONS (NAP)
+
+Les coordonnées affichées dans les blocs CTA / NAP (fiches liées aux pages locales
+d'allo-frelons.fr) se renseignent dans **[`src/_data/napLocales.json`](./src/_data/napLocales.json)**,
+un simple fichier JSON par département (59, 62). Il peut être modifié **directement depuis
+l'interface web de GitHub** (bouton crayon sur le fichier) : utilisez les valeurs **exactes** de la
+fiche d'établissement Google ; un champ laissé vide (`""`) n'est pas affiché sur le site.
+
 ## Déploiement
 
 Voir le guide détaillé : **[DEPLOIEMENT-O2SWITCH.md](./DEPLOIEMENT-O2SWITCH.md)**.

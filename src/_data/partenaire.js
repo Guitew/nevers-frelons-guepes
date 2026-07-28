@@ -1,36 +1,12 @@
 // Informations sur le partenaire ALLO FRELONS (liens, coordonnées, carte).
-// -> Complétez les champs NAP et l'intégration Google Maps avec les valeurs
-//    EXACTES de la fiche d'établissement Google (cohérence indispensable au SEO local).
-
-// NAP 59 (Nord) — coordonnées exactes du profil Google.
-const nap59 = {
-  raison: "ALLO FRELONS 59",
-  adresse: "1 rue Bonte Pollet",
-  codePostal: "59000",
-  ville: "Lille",
-  codePostalVille: "59000 Lille",
-  telephone: "06 75 36 24 05",
-  telephoneLien: "+33675362405",
-  horaires: "",
-  zone: "Nord (59) et alentours",
-};
-
-// NAP 62 (Pas-de-Calais).
-// ⚠ À COMPLÉTER avec les valeurs EXACTES de la fiche d'établissement Google du
-//   Pas-de-Calais (raison sociale, adresse, code postal, ville) dès qu'elles sont
-//   connues — ne rien inventer : tant que `adresse` est vide, le bloc NAP
-//   s'affiche sans adresse postale.
-const nap62 = {
-  raison: "ALLO FRELONS",
-  adresse: "",
-  codePostal: "",
-  ville: "",
-  codePostalVille: "",
-  telephone: "06 75 36 24 05",
-  telephoneLien: "+33675362405",
-  horaires: "",
-  zone: "Pas-de-Calais (62) et alentours",
-};
+// -> Les coordonnées NAP locales (par département) se renseignent dans le
+//    fichier `napLocales.json` de ce même dossier, éditable directement depuis
+//    l'interface web de GitHub, sans toucher au code. Utilisez les valeurs
+//    EXACTES de la fiche d'établissement Google (cohérence indispensable au
+//    SEO local) ; un champ vide n'est pas affiché.
+const napLocales = require("./napLocales.json");
+const nap59 = napLocales["59"];
+const nap62 = napLocales["62"];
 
 module.exports = {
   nom: "ALLO FRELONS",
