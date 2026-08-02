@@ -116,6 +116,13 @@ Deux possibilités :
 En l'absence de photo, un visuel illustré (pictogramme) est utilisé. Les crédits des photos
 apparaissent sur chaque fiche et sur la page **/credits/**.
 
+## Veille marque INPI
+
+`npm run veille-inpi` interroge la base Marques de l'INPI et envoie un courriel dès qu'un nouveau
+dépôt contenant « Allo Frelons » y apparaît (casse, accents, tirets et pluriel indifférents). Le
+workflow `.github/workflows/veille-inpi.yml` l'exécute tous les jours. Configuration (SMTP, compte
+API INPI, premier passage) : voir [`outils/README.md`](./outils/README.md).
+
 ## Déploiement
 
 Voir le guide détaillé : **[DEPLOIEMENT-O2SWITCH.md](./DEPLOIEMENT-O2SWITCH.md)**.
