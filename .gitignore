@@ -4,6 +4,9 @@ node_modules/
 # Sortie de compilation Eleventy
 _site/
 
+# Veille INPI : réponses brutes écrites par `--debug`
+outils/.veille-inpi-debug.json
+
 # Journaux et divers
 npm-debug.log*
 .DS_Store

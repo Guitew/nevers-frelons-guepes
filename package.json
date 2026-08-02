@@ -8,6 +8,8 @@
     "dev": "eleventy --serve",
     "build": "eleventy",
     "photos": "node outils/photos.mjs",
+    "veille-inpi": "node outils/veille-inpi.mjs",
+    "test": "node --test \"outils/*.test.mjs\"",
     "clean": "rm -rf _site"
   },
   "devDependencies": {
