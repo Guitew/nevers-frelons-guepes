@@ -1,0 +1,191 @@
+{
+  "id": "demo-012",
+  "slug": "cave-des-trois-ponts",
+  "nom": "Cave des Trois Ponts",
+  "categorie": "commerces-alimentation",
+  "categorie_gmb": "Caviste",
+  "type_principal": "liquor_store",
+  "types": [],
+  "ville": "Nevers",
+  "ville_slug": "nevers",
+  "adresse": {
+    "rue": "7 rue du Pont Cizeau",
+    "code_postal": "58000",
+    "departement": "58",
+    "region": "",
+    "pays": "France",
+    "complete": "7 rue du Pont Cizeau, 58000 Nevers"
+  },
+  "telephone": "+33386573912",
+  "geo": {
+    "latitude": 46.9934,
+    "longitude": 3.1551
+  },
+  "note": 4.7,
+  "avis": 58,
+  "horaires": [
+    {
+      "jour": 0,
+      "ferme": true,
+      "creneaux": []
+    },
+    {
+      "jour": 1,
+      "ferme": false,
+      "creneaux": [
+        [
+          "09:30",
+          "12:30"
+        ],
+        [
+          "15:00",
+          "19:30"
+        ]
+      ]
+    },
+    {
+      "jour": 2,
+      "ferme": false,
+      "creneaux": [
+        [
+          "09:30",
+          "12:30"
+        ],
+        [
+          "15:00",
+          "19:30"
+        ]
+      ]
+    },
+    {
+      "jour": 3,
+      "ferme": false,
+      "creneaux": [
+        [
+          "09:30",
+          "12:30"
+        ],
+        [
+          "15:00",
+          "19:30"
+        ]
+      ]
+    },
+    {
+      "jour": 4,
+      "ferme": false,
+      "creneaux": [
+        [
+          "09:30",
+          "12:30"
+        ],
+        [
+          "15:00",
+          "20:00"
+        ]
+      ]
+    },
+    {
+      "jour": 5,
+      "ferme": false,
+      "creneaux": [
+        [
+          "09:30",
+          "19:30"
+        ]
+      ]
+    },
+    {
+      "jour": 6,
+      "ferme": false,
+      "creneaux": [
+        [
+          "10:00",
+          "12:30"
+        ]
+      ]
+    }
+  ],
+  "attributs": [
+    "Paiement sans contact"
+  ],
+  "lien_google": "https://maps.google.com/?cid=demo012",
+  "site_web_gmb": null,
+  "exemple": true,
+  "statut": "publiee",
+  "backlink": {
+    "etat": "en-attente",
+    "premiere_detection": null,
+    "derniere_detection": null,
+    "derniere_verification": null,
+    "echecs": 0,
+    "url_detectee": null
+  },
+  "retrait": null,
+  "dates": {
+    "collecte": "2026-08-18",
+    "publication": "2026-08-18",
+    "maj": "2026-08-18"
+  },
+  "source": "csv",
+  "redaction": {
+    "titre": "Cave des Trois Ponts — Commerce d'alimentation à Nevers",
+    "meta_titre": "Cave des Trois Ponts, commerce d'alimentation à Nevers",
+    "meta_description": "Cave des Trois Ponts, commerce d'alimentation à Nevers (7 rue du Pont Cizeau) : adresse, horaires, téléphone et informations pratiques.",
+    "chapo": "Cave des Trois Ponts exerce l'activité de commerce d'alimentation au 7 rue du Pont Cizeau, à Nevers. Faute de site internet déclaré sur sa fiche Google, l'entreprise reste difficile à trouver en dehors des cartes. Cette page comble ce manque avec des données factuelles et datées.",
+    "sections": [
+      {
+        "id": "presentation",
+        "titre": "Cave des Trois Ponts en quelques mots",
+        "paragraphes": [
+          "Commerces et alimentation font partie des activités les plus consultées localement sur mobile.",
+          "Le commerce alimentaire de proximité redevient un réflexe, mais son information circule mal : jours de marché, produits de saison, vente directe. Cette fiche rassemble ce que le consommateur cherche avant de se déplacer.",
+          "D'après le relevé du 18 août 2026, l'établissement est ouvert tous les jours sauf le lundi. Le détail jour par jour figure plus bas."
+        ]
+      },
+      {
+        "id": "acces",
+        "titre": "Adresse et accès",
+        "paragraphes": [
+          "L'établissement est situé au 7 rue du Pont Cizeau, 58000 Nevers.",
+          "Coordonnées géographiques : 46.99340, 3.15510. Le lien d'itinéraire ci-dessous ouvre directement la navigation."
+        ]
+      },
+      {
+        "id": "contact",
+        "titre": "Contacter Cave des Trois Ponts",
+        "paragraphes": [
+          "Le contact se fait par téléphone au 03 86 57 39 12. C'est le seul moyen de communication déclaré sur la fiche Google de l'entreprise, avec la visite sur place.",
+          "Si vous dirigez cette entreprise, vous pouvez demander la correction ou le retrait de cette page à tout moment, sans justification."
+        ]
+      },
+      {
+        "id": "avis",
+        "titre": "La réputation de Cave des Trois Ponts",
+        "paragraphes": [
+          "Au relevé du 18 août 2026, l'établissement affichait une note de 4,7 sur 5 sur Google, calculée à partir de 58 avis. Cette note évolue en permanence : elle est indiquée ici à titre d'information et n'est pas retraitée.",
+          "Les avis appartiennent à Google et se consultent sur la fiche d'origine, dont le lien figure sur cette page."
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "q": "Quels sont les horaires de Cave des Trois Ponts ?",
+        "r": "Au relevé du 18 août 2026, Cave des Trois Ponts était ouvert tous les jours sauf le lundi. Dans le détail — lundi : fermé ; mardi : de 9 h 30 à 12 h 30 et de 15 h à 19 h 30 ; mercredi : de 9 h 30 à 12 h 30 et de 15 h à 19 h 30 ; jeudi : de 9 h 30 à 12 h 30 et de 15 h à 19 h 30 ; vendredi : de 9 h 30 à 12 h 30 et de 15 h à 20 h ; samedi : de 9 h 30 à 19 h 30 ; dimanche : de 10 h à 12 h 30. Ces horaires peuvent changer : un appel préalable reste conseillé."
+      },
+      {
+        "q": "Où se trouve Cave des Trois Ponts ?",
+        "r": "Cave des Trois Ponts se trouve 7 rue du Pont Cizeau, 58000 Nevers. Un lien d'itinéraire est disponible sur cette page."
+      },
+      {
+        "q": "Comment contacter Cave des Trois Ponts ?",
+        "r": "Par téléphone au 03 86 57 39 12, ou directement sur place aux heures d'ouverture."
+      },
+      {
+        "q": "Cave des Trois Ponts a-t-il un site internet ?",
+        "r": "Non : aucune adresse de site web n'est déclarée sur la fiche Google de Cave des Trois Ponts au 18 août 2026. Cette page tient lieu de référence publique en attendant, le cas échéant, la création d'un site propre à l'entreprise."
+      }
+    ],
+    "genere_le": "2026-08-18"
+  }
+}
