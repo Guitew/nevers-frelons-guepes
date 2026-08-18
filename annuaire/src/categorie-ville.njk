@@ -9,12 +9,11 @@ eleventyComputed:
   titre: "{{ p.categorie.pluriel }} à {{ p.ville.nom }}{% if p.numero > 1 %} — page {{ p.numero }}{% endif %}"
   meta_titre: "{{ p.categorie.nom }} à {{ p.ville.nom }} : {{ p.fiches.length }} adresses | {{ site.nomCourt }}"
   meta_description: "{{ p.categorie.pluriel }} à {{ p.ville.nom }} ({{ p.ville.code_postal }}) sans site internet : coordonnées, horaires d'ouverture et itinéraire."
-  ariane:
-    - titre: "{{ p.categorie.pluriel }}"
-      url: "/{{ p.categorie.slug }}/"
-    - titre: "{{ p.ville.nom }}"
-      url: "{{ p.urlBase }}"
 ---
+{% set ariane = [
+  { titre: p.categorie.pluriel, url: "/" + p.categorie.slug + "/" },
+  { titre: p.ville.nom, url: p.urlBase }
+] %}
 {% include "partials/ariane.njk" %}
 
 <div class="conteneur" style="padding-block:1.5rem 3rem;">

@@ -44,6 +44,9 @@ jobs:
           CHEMIN_HTPASSWD: ${{ secrets.CHEMIN_HTPASSWD }}
         run: npm run build
 
+      - name: Contrôler le site compilé
+        run: npm run verifier
+
       - name: Déployer par FTP
         uses: SamKirkland/FTP-Deploy-Action@v4.3.5
         with:

@@ -10,12 +10,11 @@ eleventyComputed:
   meta_titre: "{{ p.categorie.pluriel }} sans site web{% if p.numero > 1 %} (page {{ p.numero }}){% endif %} | {{ site.nomCourt }}"
   meta_description: "{{ p.categorie.nombre }} {{ p.categorie.pluriel | lower }} recensés sans site internet : adresse, horaires et contact, commune par commune."
   noindex: "{% if p.categorie.vide %}oui{% endif %}"
-  ariane:
-    - titre: "Catégories"
-      url: "/categories/"
-    - titre: "{{ p.categorie.pluriel }}"
-      url: "{{ p.urlBase }}"
 ---
+{% set ariane = [
+  { titre: "Catégories", url: "/categories/" },
+  { titre: p.categorie.pluriel, url: p.urlBase }
+] %}
 {% include "partials/ariane.njk" %}
 
 <div class="conteneur" style="padding-block:1.5rem 3rem;">

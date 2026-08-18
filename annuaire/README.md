@@ -54,6 +54,7 @@ avant la mise en service réelle.
 | `npm run retraits` | applique les 301 / 410 (option `--essai` pour simuler) |
 | `npm run build` | régénère le site **et le `.htaccess`** (redirections comprises) |
 | `npm run indexation` | soumet les URLs modifiées à IndexNow |
+| `npm run verifier` | contrôle le site compilé (liens, titres, canoniques, règles 301/410) |
 | `npm run etat` | résumé console de l'état de l'annuaire |
 | `npm run quotidien` | enchaîne collecte + backlinks + retraits |
 
@@ -63,6 +64,19 @@ déploiement.
 
 **Les fiches sont versionnées dans Git.** Chaque publication, perte de lien ou retrait se lit en
 diff : c'est la mémoire de l'annuaire, et le moyen de revenir en arrière sur une décision.
+
+## Contrôle avant mise en ligne
+
+```bash
+npm run controle       # compile puis vérifie
+```
+
+`outils/verifier.mjs` inspecte le **résultat** de la compilation, pas le code : liens internes
+morts, `<title>` dupliqués, canoniques incohérentes, fichiers indispensables manquants, fils
+d'Ariane identiques d'une fiche à l'autre, et cohérence entre les fiches retirées et les règles du
+`.htaccess`. Sur un site généré, une erreur de gabarit se duplique sur des milliers de pages : ce
+contrôle est la seule barrière qui la voie. Il tourne automatiquement avant chaque déploiement et
+bloque la mise en ligne en cas d'anomalie.
 
 ## Configuration
 

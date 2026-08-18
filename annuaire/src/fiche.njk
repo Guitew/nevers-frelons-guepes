@@ -11,14 +11,15 @@ eleventyComputed:
   meta_titre: "{{ f.redaction.meta_titre }} | {{ site.nomCourt }}"
   meta_description: "{{ f.redaction.meta_description }}"
   noindex: "{% if f.exemple %}oui{% endif %}"
-  ariane:
-    - titre: "{{ f.categorie_nom }}"
-      url: "/{{ f.categorie }}/"
-    - titre: "{{ f.ville }}"
-      url: "/{{ f.categorie }}/{{ f.ville_slug }}/"
-    - titre: "{{ f.nom }}"
-      url: "{{ f.url }}"
 ---
+{#- Le fil d'Ariane est construit ici, et non dans « eleventyComputed » :
+    Eleventy n'y réévalue pas les structures imbriquées pour chaque page
+    d'une pagination, ce qui donnait le même fil à toutes les fiches. -#}
+{% set ariane = [
+  { titre: f.categorie_nom, url: "/" + f.categorie + "/" },
+  { titre: f.ville, url: "/" + f.categorie + "/" + f.ville_slug + "/" },
+  { titre: f.nom, url: f.url }
+] %}
 {% include "partials/ariane.njk" %}
 
 <div class="conteneur">

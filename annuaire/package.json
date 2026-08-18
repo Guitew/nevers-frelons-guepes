@@ -15,7 +15,9 @@
     "retraits": "node outils/retraits.mjs",
     "indexation": "node outils/indexation.mjs",
     "etat": "node outils/etat.mjs",
-    "quotidien": "npm run collecte && npm run backlinks && npm run retraits"
+    "quotidien": "npm run collecte && npm run backlinks && npm run retraits",
+    "verifier": "node outils/verifier.mjs",
+    "controle": "npm run build && npm run verifier"
   },
   "devDependencies": {
     "@11ty/eleventy": "^3.1.0"

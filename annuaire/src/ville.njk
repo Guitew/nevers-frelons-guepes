@@ -9,12 +9,11 @@ eleventyComputed:
   titre: "Entreprises de {{ p.ville.nom }}{% if p.numero > 1 %} — page {{ p.numero }}{% endif %}"
   meta_titre: "Entreprises sans site web à {{ p.ville.nom }} ({{ p.ville.code_postal }}) | {{ site.nomCourt }}"
   meta_description: "{{ p.ville.nombre }} entreprises de {{ p.ville.nom }} sans site internet, classées par activité : coordonnées, horaires et contact direct."
-  ariane:
-    - titre: "Communes"
-      url: "/villes/"
-    - titre: "{{ p.ville.nom }}"
-      url: "{{ p.urlBase }}"
 ---
+{% set ariane = [
+  { titre: "Communes", url: "/villes/" },
+  { titre: p.ville.nom, url: p.urlBase }
+] %}
 {% include "partials/ariane.njk" %}
 
 <div class="conteneur" style="padding-block:1.5rem 3rem;">
