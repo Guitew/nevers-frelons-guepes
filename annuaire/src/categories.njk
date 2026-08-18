@@ -1,0 +1,31 @@
+---
+layout: layouts/base.njk
+titre: "Toutes les catégories"
+meta_titre: "Catégories d'entreprises sans site web | Vitrine Locale"
+meta_description: "Les 26 secteurs d'activité de l'annuaire, calqués sur les catégories Google Business Profile : restaurants, artisans, santé, commerces, services."
+ariane:
+  - titre: "Catégories"
+    url: "/categories/"
+---
+{% include "partials/ariane.njk" %}
+<div class="conteneur" style="padding-block:1.5rem 3rem;">
+  <header class="contenu-texte">
+    <h1>Toutes les catégories</h1>
+    <p class="fiche__chapo">L'annuaire reprend les grands secteurs de la nomenclature Google Business
+    Profile, regroupés en {{ annuaire.categories.length }} catégories lisibles.</p>
+    <p>Une entreprise est rattachée à une catégorie à partir du type déclaré sur sa fiche Google.
+    Lorsqu'aucun rattachement n'est possible, la fiche n'est pas publiée : mieux vaut une catégorie
+    vide qu'une page mal classée.</p>
+  </header>
+
+  <div class="grille" style="margin-top:2rem;">
+    {% for c in annuaire.categories %}
+    <article class="carte carte-categorie">
+      <span class="carte-categorie__emoji" aria-hidden="true">{{ c.emoji }}</span>
+      <h2 class="carte__titre" style="font-size:1.05rem;"><a href="/{{ c.slug }}/">{{ c.pluriel }}</a></h2>
+      <p class="carte__meta">{{ c.resume }}</p>
+      <p class="carte-categorie__nombre carte__pied">{{ c.nombre | nombreFr }} fiche{% if c.nombre > 1 %}s{% endif %} · {{ c.villes.length }} commune{% if c.villes.length > 1 %}s{% endif %}</p>
+    </article>
+    {% endfor %}
+  </div>
+</div>

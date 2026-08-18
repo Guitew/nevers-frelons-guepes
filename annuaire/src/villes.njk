@@ -1,0 +1,26 @@
+---
+layout: layouts/base.njk
+titre: "Toutes les communes"
+meta_titre: "Communes couvertes par l'annuaire | Vitrine Locale"
+meta_description: "Les communes où l'annuaire recense des entreprises sans site internet, avec le nombre de fiches publiées pour chacune."
+ariane:
+  - titre: "Communes"
+    url: "/villes/"
+---
+{% include "partials/ariane.njk" %}
+<div class="conteneur" style="padding-block:1.5rem 3rem;">
+  <header class="contenu-texte">
+    <h1>Toutes les communes</h1>
+    <p class="fiche__chapo">{{ annuaire.stats.villes }} commune{% if annuaire.stats.villes > 1 %}s{% endif %}
+    couverte{% if annuaire.stats.villes > 1 %}s{% endif %}, {{ annuaire.stats.fiches | nombreFr }} entreprises recensées.</p>
+  </header>
+  <div class="grille" style="margin-top:2rem;">
+    {% for v in annuaire.villes %}
+    <article class="carte">
+      <h2 class="carte__titre" style="font-size:1.05rem;"><a href="/villes/{{ v.slug }}/">{{ v.nom }}</a></h2>
+      <p class="carte__meta">{{ v.code_postal }}{% if v.departement %} · département {{ v.departement }}{% endif %}</p>
+      <p class="carte__meta carte__pied">{{ v.nombre | nombreFr }} fiche{% if v.nombre > 1 %}s{% endif %} · {{ v.categories.length }} activité{% if v.categories.length > 1 %}s{% endif %}</p>
+    </article>
+    {% endfor %}
+  </div>
+</div>

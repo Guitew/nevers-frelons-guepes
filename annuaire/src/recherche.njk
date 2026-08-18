@@ -1,0 +1,29 @@
+---
+layout: layouts/base.njk
+titre: "Rechercher dans l'annuaire"
+meta_titre: "Rechercher une entreprise | Vitrine Locale"
+meta_description: "Recherchez parmi toutes les entreprises de l'annuaire par nom, activité ou commune. Recherche instantanée, sans traceur."
+noindex: true
+ariane:
+  - titre: "Recherche"
+    url: "/recherche/"
+---
+{% include "partials/ariane.njk" %}
+<div class="conteneur" style="padding-block:1.5rem 4rem;">
+  <div class="contenu-texte">
+    <h1>Rechercher</h1>
+    <p class="doux">Nom d'entreprise, activité ou commune. La recherche s'effectue dans votre navigateur :
+    aucune requête n'est envoyée, aucun traceur n'est déposé.</p>
+
+    <form class="recherche" role="search" onsubmit="return false;" style="max-width:100%;">
+      <label class="visuellement-cache" for="recherche">Votre recherche</label>
+      <input type="search" id="recherche" name="q" placeholder="Boulangerie, plombier, Nevers…" autocomplete="off" autofocus>
+    </form>
+
+    <p id="resume-recherche" class="doux" style="margin-top:1rem;" aria-live="polite"></p>
+    <ul class="resultats" id="resultats"></ul>
+    <noscript><p>La recherche instantanée nécessite JavaScript. Vous pouvez parcourir l'annuaire
+    par <a href="/categories/">catégorie</a> ou par <a href="/villes/">commune</a>.</p></noscript>
+  </div>
+</div>
+<script src="/assets/js/recherche.js" defer></script>

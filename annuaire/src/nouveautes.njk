@@ -1,0 +1,26 @@
+---
+layout: layouts/base.njk
+titre: "Les dernières fiches publiées"
+meta_titre: "Nouvelles fiches du jour | Vitrine Locale"
+meta_description: "Les entreprises sans site web ajoutées le plus récemment à l'annuaire, jour par jour."
+ariane:
+  - titre: "Nouveautés"
+    url: "/nouveautes/"
+---
+{% include "partials/ariane.njk" %}
+<div class="conteneur" style="padding-block:1.5rem 3rem;">
+  <header class="contenu-texte">
+    <h1>Les dernières fiches publiées</h1>
+    <p class="fiche__chapo">{{ site.fichesParJour }} entreprises sans site internet rejoignent l'annuaire
+    chaque jour. Cette page — et le <a href="/flux.xml">flux Atom</a> — donnent l'état le plus frais du site.</p>
+  </header>
+
+  {% for jour in annuaire.nouveautesParJour %}
+  <section>
+    <h2>{{ jour.date | dateFr }}</h2>
+    <div class="grille">
+      {% for f in jour.fiches %}{% include "partials/carte-fiche.njk" %}{% endfor %}
+    </div>
+  </section>
+  {% endfor %}
+</div>

@@ -1,0 +1,26 @@
+---
+permalink: "{{ site.cheminPrive }}.htaccess"
+eleventyExcludeFromCollections: true
+---
+# Zone privée — tableau de bord des backlinks.
+#
+# Deux protections superposées :
+#   1. authentification HTTP : un robot reçoit un 401 et n'indexe donc rien ;
+#   2. en-tête X-Robots-Tag, au cas où l'authentification serait désactivée.
+#
+# Volontairement ABSENT de robots.txt : y interdire ce chemin reviendrait à en
+# publier l'adresse. Un 401 protège mieux qu'une ligne « Disallow ».
+#
+# Créer le fichier de mots de passe sur le serveur (o2switch / cPanel) :
+#   htpasswd -c ~/.htpasswd-pilotage pilote
+# puis renseigner son chemin ABSOLU dans la variable CHEMIN_HTPASSWD au build.
+
+AuthType Basic
+AuthName "Pilotage de l'annuaire"
+AuthUserFile {{ env.cheminHtpasswd | safe }}
+Require valid-user
+
+<IfModule mod_headers.c>
+  Header set X-Robots-Tag "noindex, nofollow, noarchive, nosnippet"
+  Header set Cache-Control "no-store"
+</IfModule>

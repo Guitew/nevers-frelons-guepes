@@ -1,0 +1,173 @@
+---
+pagination:
+  data: annuaire.fiches
+  size: 1
+  alias: f
+permalink: "{{ f.url }}index.html"
+layout: layouts/base.njk
+miroirMarkdown: true
+eleventyComputed:
+  titre: "{{ f.redaction.titre }}"
+  meta_titre: "{{ f.redaction.meta_titre }} | {{ site.nomCourt }}"
+  meta_description: "{{ f.redaction.meta_description }}"
+  noindex: "{% if f.exemple %}oui{% endif %}"
+  ariane:
+    - titre: "{{ f.categorie_nom }}"
+      url: "/{{ f.categorie }}/"
+    - titre: "{{ f.ville }}"
+      url: "/{{ f.categorie }}/{{ f.ville_slug }}/"
+    - titre: "{{ f.nom }}"
+      url: "{{ f.url }}"
+---
+{% include "partials/ariane.njk" %}
+
+<div class="conteneur">
+  {% if f.exemple %}
+  <div class="encadre encadre--alerte" style="margin-top:1rem;">
+    <p><strong>Fiche de démonstration.</strong> Cette entreprise est fictive : elle sert à illustrer
+    le rendu du site avant la mise en service de la collecte réelle. La page est exclue de
+    l'indexation et du sitemap.</p>
+  </div>
+  {% endif %}
+
+  <div class="fiche">
+    <div>
+      <header class="fiche__entete">
+        <h1>{{ f.nom }}</h1>
+        <p class="fiche__sous-titre">{{ f.categorie_emoji }} {{ f.categorie_nom }} à {{ f.ville }}{% if f.adresse.code_postal %} ({{ f.adresse.code_postal }}){% endif %}</p>
+        <div class="fiche__etiquettes">
+          <a class="etiquette etiquette--accent" href="/{{ f.categorie }}/">{{ f.categorie_nom }}</a>
+          <a class="etiquette" href="/{{ f.categorie }}/{{ f.ville_slug }}/">{{ f.categorie_nom }} à {{ f.ville }}</a>
+          {% if f.note %}<span class="etiquette etiquette--note">★ {{ f.note | noteFr }} / 5 — {{ f.avis | nombreFr }} avis Google</span>{% endif %}
+          {% set resume = f.horaires | resumeHoraires %}
+          {% if resume %}<span class="etiquette">{{ resume | capitalize }}</span>{% endif %}
+        </div>
+      </header>
+
+      <p class="fiche__chapo">{{ f.redaction.chapo }}</p>
+
+      {% for s in f.redaction.sections %}
+      <section id="{{ s.id }}">
+        <h2>{{ s.titre }}</h2>
+        {% for p in s.paragraphes %}<p>{{ p }}</p>{% endfor %}
+      </section>
+      {% endfor %}
+
+      {% if f.horaires %}
+      <section id="horaires">
+        <h2>Horaires d'ouverture</h2>
+        <table class="tableau-horaires" data-horaires>
+          <caption class="visuellement-cache">Horaires d'ouverture de {{ f.nom }}</caption>
+          <tbody>
+            {% for j in f.horaires %}
+            <tr data-jour="{{ j.jour }}">
+              <th scope="row">{{ j.jour | nomJour | capitalize }}</th>
+              <td{% if j.ferme %} class="ferme"{% endif %}>{{ j | journee | capitalize }}</td>
+            </tr>
+            {% endfor %}
+          </tbody>
+        </table>
+        <p class="doux" style="margin-top:.8rem;font-size:.9rem;">
+          Horaires relevés sur la fiche Google de l'établissement le {{ f.dates.maj | dateFr }}.
+          Ils peuvent changer sans préavis, notamment les jours fériés.
+        </p>
+      </section>
+      {% endif %}
+
+      {% if f.attributs.length %}
+      <section id="informations">
+        <h2>Informations pratiques</h2>
+        <ul class="liste-attributs">
+          {% for a in f.attributs %}<li class="etiquette etiquette--vert">{{ a }}</li>{% endfor %}
+        </ul>
+        <p class="doux" style="margin-top:.9rem;font-size:.9rem;">
+          Ces informations sont déclarées par l'établissement sur sa fiche Google.
+        </p>
+      </section>
+      {% endif %}
+
+      {% if f.redaction.faq.length %}
+      <section id="questions" class="faq">
+        <h2>Questions fréquentes sur {{ f.nom }}</h2>
+        {% for q in f.redaction.faq %}
+        <details{% if loop.first %} open{% endif %}>
+          <summary>{{ q.q }}</summary>
+          <p>{{ q.r }}</p>
+        </details>
+        {% endfor %}
+      </section>
+      {% endif %}
+
+      <div class="encadre" id="proprietaire">
+        <h2 style="margin-top:0;">Vous dirigez {{ f.nom }} ?</h2>
+        <p>Cette page vous appartient dans les faits : elle a été créée parce que votre fiche Google
+        ne renvoyait vers aucun site internet. Vous pouvez en demander la correction, l'enrichissement
+        ou le retrait pur et simple, sans avoir à vous justifier et sans frais.</p>
+        <p>Pour l'utiliser comme site : ajoutez l'adresse
+        <code>{{ site.url }}{{ f.url }}</code> dans le champ « Site Web » de votre fiche Google.
+        Vos clients trouveront alors ces informations directement depuis la recherche et depuis Maps.</p>
+        <p style="margin-bottom:0;"><a class="bouton" href="/signaler/?fiche={{ f.url | urlencode }}">Corriger ou retirer cette fiche</a></p>
+      </div>
+
+      {% set proches = annuaire.fiches | voisines(f, 6) %}
+      {% if proches.length %}
+      <section id="a-proximite">
+        <h2>À proximité, à {{ f.ville }}</h2>
+        <div class="grille">
+          {% for f in proches %}{% include "partials/carte-fiche.njk" %}{% endfor %}
+        </div>
+      </section>
+      {% endif %}
+    </div>
+
+    <aside class="panneau" aria-label="Coordonnées">
+      <h2>Coordonnées</h2>
+      <dl>
+        {% if f.adresse.complete %}
+        <div>
+          <dt>Adresse</dt>
+          <dd>{{ f.adresse.rue }}<br>{{ f.adresse.code_postal }} {{ f.ville }}</dd>
+        </div>
+        {% endif %}
+        {% if f.telephone %}
+        <div>
+          <dt>Téléphone</dt>
+          <dd><a href="tel:{{ f.telephone | telLien }}">{{ f.telephone | telLisible }}</a></dd>
+        </div>
+        {% endif %}
+        <div>
+          <dt>Site web</dt>
+          <dd class="doux">Aucun site déclaré sur la fiche Google</dd>
+        </div>
+        {% if f.note %}
+        <div>
+          <dt>Note Google</dt>
+          <dd>★ {{ f.note | noteFr }} / 5 <span class="doux">({{ f.avis | nombreFr }} avis)</span></dd>
+        </div>
+        {% endif %}
+        <div>
+          <dt>Mise à jour</dt>
+          <dd>{{ f.dates.maj | dateFr }}</dd>
+        </div>
+      </dl>
+
+      {% if f.telephone %}
+      <a class="bouton" href="tel:{{ f.telephone | telLien }}">Appeler {{ f.nom | tronquer(22) }}</a>
+      {% endif %}
+      {% if f.geo %}
+      <a class="bouton bouton--secondaire" rel="nofollow noopener" target="_blank"
+         href="https://www.google.com/maps/dir/?api=1&destination={{ f.geo.latitude }},{{ f.geo.longitude }}">
+        Itinéraire
+      </a>
+      {% endif %}
+      {% if f.lien_google %}
+      <a class="bouton bouton--secondaire" rel="nofollow noopener" target="_blank" href="{{ f.lien_google }}">Fiche Google</a>
+      {% endif %}
+    </aside>
+  </div>
+</div>
+
+<script type="application/ld+json">{{ f | schemaFiche | jsonify | safe }}</script>
+<script type="application/ld+json">{{ ariane | schemaFil | jsonify | safe }}</script>
+{% set faq = f.redaction.faq | schemaFaq %}
+{% if faq %}<script type="application/ld+json">{{ faq | jsonify | safe }}</script>{% endif %}

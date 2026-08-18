@@ -1,5 +1,41 @@
 [
   {
+    "date": "2026-08-18T13:40:27.545Z",
+    "type": "publication",
+    "id": "demo-013",
+    "nom": "Pizzeria La Nivernaise",
+    "url": "/restaurants/nevers/pizzeria-la-nivernaise/",
+    "categorie": "restaurants",
+    "source": "csv"
+  },
+  {
+    "date": "2026-08-18T13:40:27.546Z",
+    "type": "publication",
+    "id": "demo-014",
+    "nom": "Pharmacie Centrale de Nevers",
+    "url": "/pharmacies-opticiens/nevers/pharmacie-centrale-de-nevers/",
+    "categorie": "pharmacies-opticiens",
+    "source": "csv"
+  },
+  {
+    "date": "2026-08-18T13:39:22.451Z",
+    "type": "retrait-410",
+    "id": "demo-007",
+    "nom": "Pharmacie du Banlay",
+    "url": "/pharmacies-opticiens/nevers/pharmacie-du-banlay/",
+    "motif": "demande du dirigeant",
+    "cible": null
+  },
+  {
+    "date": "2026-08-18T13:39:22.369Z",
+    "type": "retrait-301",
+    "id": "demo-003",
+    "nom": "Le Comptoir des Halles",
+    "url": "/restaurants/nevers/le-comptoir-des-halles/",
+    "motif": "test 301",
+    "cible": "/restaurants/"
+  },
+  {
     "date": "2026-08-18T13:25:18.099Z",
     "type": "publication",
     "id": "demo-001",

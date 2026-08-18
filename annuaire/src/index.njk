@@ -1,0 +1,100 @@
+---
+layout: layouts/base.njk
+titre: "L'annuaire des entreprises qui n'ont pas de site web"
+meta_titre: "Vitrine Locale — l'annuaire des entreprises sans site internet"
+meta_description: "Des milliers d'entreprises locales n'ont pas de site web. Vitrine Locale leur donne une page publique : adresse, horaires, téléphone, itinéraire — vérifiés et datés."
+---
+<section class="heros">
+  <div class="conteneur">
+    <h1>Chaque entreprise mérite une page. Même sans site web.</h1>
+    <p class="heros__chapo">
+      Un commerce sur deux n'a pas de site internet. Sur la carte, il n'est qu'un nom et un numéro.
+      {{ site.nomCourt }} lui consacre une vraie page : coordonnées, horaires, accès, informations
+      pratiques — publiées, datées et lisibles par les moteurs de recherche comme par les
+      assistants conversationnels.
+    </p>
+
+    <form class="recherche" action="/recherche/" method="get" role="search">
+      <label class="visuellement-cache" for="q">Rechercher une entreprise, une activité ou une commune</label>
+      <input type="search" id="q" name="q" placeholder="Boulangerie, plombier, Nevers…" autocomplete="off">
+      <button class="bouton" type="submit">Rechercher</button>
+    </form>
+
+    <div class="heros__compteurs">
+      <div><span class="compteur__valeur">{{ annuaire.stats.fiches | nombreFr }}</span><span class="compteur__libelle">fiches publiées</span></div>
+      <div><span class="compteur__valeur">{{ annuaire.stats.categories }}</span><span class="compteur__libelle">catégories</span></div>
+      <div><span class="compteur__valeur">{{ annuaire.stats.villes }}</span><span class="compteur__libelle">communes</span></div>
+      <div><span class="compteur__valeur">{{ site.fichesParJour }}</span><span class="compteur__libelle">nouvelles par jour</span></div>
+    </div>
+  </div>
+</section>
+
+<section class="section">
+  <div class="conteneur">
+    <h2>Explorer par activité</h2>
+    <div class="grille">
+      {% for c in annuaire.categories %}
+      <article class="carte carte-categorie">
+        <span class="carte-categorie__emoji" aria-hidden="true">{{ c.emoji }}</span>
+        <h3 class="carte__titre"><a href="/{{ c.slug }}/">{{ c.pluriel }}</a></h3>
+        <p class="carte__meta">{{ c.resume }}</p>
+        <p class="carte-categorie__nombre carte__pied">{{ c.nombre | nombreFr }} fiche{% if c.nombre > 1 %}s{% endif %}</p>
+      </article>
+      {% endfor %}
+    </div>
+    <p style="margin-top:1.5rem;"><a class="bouton bouton--secondaire" href="/categories/">Toutes les catégories</a></p>
+  </div>
+</section>
+
+<section class="section section--doux">
+  <div class="conteneur">
+    <h2>Dernières fiches publiées</h2>
+    <p class="doux">Chaque jour, {{ site.fichesParJour }} entreprises sans site web rejoignent l'annuaire.</p>
+    <div class="grille" style="margin-top:1.5rem;">
+      {% for f in annuaire.nouveautes | limite(6) %}{% include "partials/carte-fiche.njk" %}{% endfor %}
+    </div>
+    <p style="margin-top:1.5rem;"><a class="bouton bouton--secondaire" href="/nouveautes/">Voir les nouveautés</a></p>
+  </div>
+</section>
+
+<section class="section">
+  <div class="conteneur">
+    <h2>Comment ça marche</h2>
+    <div class="grille grille--large">
+      <article class="carte">
+        <h3 class="carte__titre">1. Un repérage quotidien</h3>
+        <p class="carte__meta">Chaque jour, l'annuaire identifie {{ site.fichesParJour }} établissements dont la fiche
+        Google ne déclare aucun site internet, dans les communes couvertes.</p>
+      </article>
+      <article class="carte">
+        <h3 class="carte__titre">2. Une page, pas une ligne</h3>
+        <p class="carte__meta">Chaque entreprise reçoit une page complète et structurée — pas une ligne
+        dans une liste. Les données affichées proviennent de sa fiche publique et sont datées.</p>
+      </article>
+      <article class="carte">
+        <h3 class="carte__titre">3. Un lien depuis la fiche Google</h3>
+        <p class="carte__meta">L'entreprise peut déclarer cette page comme site web sur sa fiche Google.
+        Sa présence en ligne s'en trouve complétée, sans frais et sans engagement.</p>
+      </article>
+      <article class="carte">
+        <h3 class="carte__titre">4. Un retrait sans condition</h3>
+        <p class="carte__meta">Le lien disparaît de la fiche Google, ou le dirigeant le demande ?
+        La page est retirée — redirigée vers sa catégorie, ou supprimée définitivement.</p>
+      </article>
+    </div>
+    <p style="margin-top:1.5rem;"><a class="bouton" href="/a-propos/">Le projet en détail</a></p>
+  </div>
+</section>
+
+<section class="section section--doux">
+  <div class="conteneur">
+    <h2>Explorer par commune</h2>
+    <div class="fiche__etiquettes">
+      {% for v in annuaire.villes %}
+      <a class="etiquette" href="/villes/{{ v.slug }}/">{{ v.nom }} <span class="doux">{{ v.nombre }}</span></a>
+      {% endfor %}
+    </div>
+  </div>
+</section>
+
+<script type="application/ld+json">{{ "" | schemaSite | jsonify | safe }}</script>

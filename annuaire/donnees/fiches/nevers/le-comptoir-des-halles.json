@@ -113,7 +113,7 @@
   "lien_google": "https://maps.google.com/?cid=demo003",
   "site_web_gmb": null,
   "exemple": true,
-  "statut": "publiee",
+  "statut": "retiree",
   "backlink": {
     "etat": "en-attente",
     "premiere_detection": null,
@@ -122,7 +122,12 @@
     "echecs": 0,
     "url_detectee": null
   },
-  "retrait": null,
+  "retrait": {
+    "mode": "301",
+    "cible": "/restaurants/",
+    "date": "2026-08-18",
+    "motif": "test 301"
+  },
   "dates": {
     "collecte": "2026-08-18",
     "publication": "2026-08-18",

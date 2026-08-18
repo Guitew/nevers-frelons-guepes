@@ -1,0 +1,47 @@
+---
+layout: layouts/base.njk
+titre: "Plan du site"
+meta_titre: "Plan du site | Vitrine Locale"
+meta_description: "Toutes les rubriques de l'annuaire : catégories, communes, couples activité-commune et pages du projet."
+ariane:
+  - titre: "Plan du site"
+    url: "/plan-du-site/"
+---
+{% include "partials/ariane.njk" %}
+<div class="conteneur" style="padding-block:1.5rem 3rem;">
+  <h1>Plan du site</h1>
+  <p class="doux">{{ annuaire.stats.fiches | nombreFr }} fiches, {{ annuaire.categories.length }} catégories,
+  {{ annuaire.villes.length }} communes. Mise à jour du {{ annuaire.stats.derniereMaj | dateFr }}.</p>
+
+  <h2>Le projet</h2>
+  <ul class="liste-liens">
+    <li><a href="/">Accueil</a></li>
+    <li><a href="/a-propos/">Comment ça marche</a></li>
+    <li><a href="/entreprises/">Vous dirigez une entreprise</a></li>
+    <li><a href="/signaler/">Corriger ou retirer une fiche</a></li>
+    <li><a href="/mentions-legales/">Mentions légales</a></li>
+    <li><a href="/nouveautes/">Nouveautés</a></li>
+    <li><a href="/recherche/">Recherche</a></li>
+  </ul>
+
+  <h2>Catégories</h2>
+  <ul class="liste-liens">
+    {% for c in annuaire.categories %}
+    <li><a href="/{{ c.slug }}/">{{ c.pluriel }}</a> <span class="doux">({{ c.nombre }})</span></li>
+    {% endfor %}
+  </ul>
+
+  <h2>Communes</h2>
+  <ul class="liste-liens">
+    {% for v in annuaire.villes %}
+    <li><a href="/villes/{{ v.slug }}/">{{ v.nom }}</a> <span class="doux">({{ v.nombre }})</span></li>
+    {% endfor %}
+  </ul>
+
+  <h2>Activités par commune</h2>
+  <ul class="liste-liens">
+    {% for c in annuaire.couples %}
+    <li><a href="{{ c.url }}">{{ c.categorie.nom }} à {{ c.ville.nom }}</a> <span class="doux">({{ c.nombre }})</span></li>
+    {% endfor %}
+  </ul>
+</div>

@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="{{ site.langue }}">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+  {% set metaTitre = meta_titre or (titre + " — " + site.nomCourt) if titre else site.nom %}
+  {% set metaDesc = meta_description or chapo or site.description %}
+  <title>{{ metaTitre }}</title>
+  <meta name="description" content="{{ metaDesc }}">
+  <meta name="theme-color" content="#2f4bd6">
+  {% if site.verifGoogle %}<meta name="google-site-verification" content="{{ site.verifGoogle }}">{% endif %}
+  {% if noindex %}<meta name="robots" content="noindex, follow">{% else %}<meta name="robots" content="index, follow, max-snippet:-1, max-image-preview:large">{% endif %}
+  <link rel="canonical" href="{{ site.url }}{{ canonical or page.url }}">
+
+  <meta property="og:type" content="{{ ogType or 'website' }}">
+  <meta property="og:site_name" content="{{ site.nomCourt }}">
+  <meta property="og:locale" content="fr_FR">
+  <meta property="og:title" content="{{ titre or site.nom }}">
+  <meta property="og:description" content="{{ metaDesc }}">
+  <meta property="og:url" content="{{ site.url }}{{ page.url }}">
+  <meta name="twitter:card" content="summary">
+
+  {# Miroir Markdown : les agents conversationnels et les robots de LLM
+     préfèrent une version texte propre à l'analyse du HTML. #}
+  {% if miroirMarkdown %}<link rel="alternate" type="text/markdown" href="{{ page.url }}index.md">{% endif %}
+  <link rel="alternate" type="application/atom+xml" title="Nouvelles fiches" href="/flux.xml">
+
+  <link rel="icon" href="/assets/img/favicon.svg" type="image/svg+xml">
+  <link rel="stylesheet" href="/assets/css/style.css">
+  {% if schema %}<script type="application/ld+json">{{ schema | jsonify | safe }}</script>{% endif %}
+</head>
+<body>
+  <a class="lien-evitement" href="#contenu">Aller au contenu principal</a>
+  {% include "partials/entete.njk" %}
+  <main id="contenu">
+    {{ content | safe }}
+  </main>
+  {% include "partials/pied.njk" %}
+  <script src="/assets/js/main.js" defer></script>
+</body>
+</html>

@@ -1,0 +1,18 @@
+<header class="entete">
+  <div class="conteneur entete__barre">
+    <a class="marque" href="/">
+      <span class="marque__pastille" aria-hidden="true">VL</span>
+      <span class="marque__nom">{{ site.nomCourt }}</span>
+    </a>
+    <button class="entete__bouton" type="button" aria-expanded="false" aria-controls="navigation" data-menu>
+      Menu
+    </button>
+    <nav class="nav" id="navigation" aria-label="Navigation principale">
+      <ul>
+        {% for lien in nav %}
+        <li><a href="{{ lien.url }}"{% if page.url == lien.url %} aria-current="page"{% endif %}>{{ lien.titre }}</a></li>
+        {% endfor %}
+      </ul>
+    </nav>
+  </div>
+</header>

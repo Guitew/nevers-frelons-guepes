@@ -1,0 +1,58 @@
+---
+pagination:
+  data: annuaire.fiches
+  size: 1
+  alias: f
+permalink: "{{ f.url | safe }}index.md"
+eleventyExcludeFromCollections: true
+---
+# {{ f.nom | safe }}
+
+> {{ f.redaction.meta_description | safe }}
+
+- **Catégorie** : {{ f.categorie_nom | safe }}
+- **Commune** : {{ f.ville | safe }}{% if f.adresse.code_postal %} ({{ f.adresse.code_postal | safe }}){% endif %}
+- **Adresse** : {{ f.adresse.complete | safe }}
+{%- if f.telephone %}
+- **Téléphone** : {{ f.telephone | telLisible | safe }}
+{%- endif %}
+{%- if f.geo %}
+- **Coordonnées** : {{ f.geo.latitude | safe }}, {{ f.geo.longitude | safe }}
+{%- endif %}
+{%- if f.note %}
+- **Note Google** : {{ f.note | noteFr | safe }}/5 ({{ f.avis | safe }} avis, relevé du {{ f.dates.maj | dateFr | safe }})
+{%- endif %}
+- **Site web déclaré sur la fiche Google** : aucun
+- **Page de référence** : {{ site.url | safe }}{{ f.url | safe }}
+- **Dernier relevé** : {{ f.dates.maj | dateFr | safe }}
+
+{{ f.redaction.chapo | safe }}
+{% for s in f.redaction.sections %}
+## {{ s.titre | safe }}
+{% for p in s.paragraphes %}
+{{ p | safe }}
+{% endfor %}{% endfor %}
+{%- if f.horaires %}
+## Horaires d'ouverture
+{% for j in f.horaires %}
+- **{{ j.jour | nomJour | capitalize | safe }}** : {{ j | journee | safe }}
+{%- endfor %}
+{%- endif %}
+{%- if f.attributs.length %}
+
+## Informations pratiques
+{% for a in f.attributs %}
+- {{ a | safe }}
+{%- endfor %}
+{%- endif %}
+
+## Questions fréquentes
+{% for q in f.redaction.faq %}
+### {{ q.q | safe }}
+
+{{ q.r | safe }}
+{% endfor %}
+---
+
+Source des données : fiche publique Google Business Profile, relevée le {{ f.dates.maj | dateFr | safe }}.
+Correction ou retrait : {{ site.url | safe }}/signaler/

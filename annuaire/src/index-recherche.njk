@@ -1,0 +1,15 @@
+---
+permalink: /index-recherche.json
+eleventyExcludeFromCollections: true
+---
+{%- set entrees = [] -%}
+{%- for f in annuaire.fiches -%}
+  {%- set _ = entrees.push({
+    n: f.nom,
+    c: f.categorie_nom,
+    v: f.ville,
+    a: f.adresse.rue,
+    u: f.url
+  }) -%}
+{%- endfor -%}
+{{ entrees | jsonify | safe }}

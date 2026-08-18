@@ -1,0 +1,72 @@
+---
+layout: layouts/base.njk
+titre: "Corriger ou retirer une fiche"
+meta_titre: "Signaler une erreur ou demander un retrait"
+meta_description: "Formulaire de signalement : correction d'une information, changement de catégorie ou retrait complet d'une fiche de l'annuaire."
+ariane:
+  - titre: "Signaler une fiche"
+    url: "/signaler/"
+---
+{% include "partials/ariane.njk" %}
+<div class="conteneur" style="padding-block:1.5rem 4rem;">
+  <div class="contenu-texte">
+    <h1>Corriger ou retirer une fiche</h1>
+    <p class="fiche__chapo">Toute demande émanant du dirigeant de l'entreprise est traitée, sans
+    condition et sans frais. Les demandes de retrait sont prioritaires.</p>
+
+    <form id="formulaire-signalement">
+      <p>
+        <label for="url"><strong>Adresse de la fiche concernée</strong></label><br>
+        <input class="recherche" style="width:100%;display:block;padding:.7rem .9rem;" type="url" id="url" name="url"
+               placeholder="{{ site.url }}/categorie/commune/entreprise/" required>
+      </p>
+      <p>
+        <label for="motif"><strong>Votre demande</strong></label><br>
+        <select id="motif" name="motif" style="width:100%;padding:.7rem .9rem;border-radius:var(--rayon-petit);border:1px solid var(--bordure-forte);background:var(--fond-carte);color:var(--encre);font:inherit;">
+          <option value="Retrait complet de la fiche">Retrait complet de la fiche</option>
+          <option value="Correction d'une information">Correction d'une information</option>
+          <option value="Erreur de catégorie">Erreur de catégorie</option>
+          <option value="Entreprise fermée">L'entreprise est fermée</option>
+          <option value="Autre demande">Autre demande</option>
+        </select>
+      </p>
+      <p>
+        <label for="details"><strong>Précisions</strong> (facultatif)</label><br>
+        <textarea id="details" name="details" rows="5" style="width:100%;padding:.7rem .9rem;border-radius:var(--rayon-petit);border:1px solid var(--bordure-forte);background:var(--fond-carte);color:var(--encre);font:inherit;"></textarea>
+      </p>
+      <p><button class="bouton" type="submit">Préparer le message</button></p>
+      <p class="doux" style="font-size:.9rem;">
+        Ce formulaire n'envoie rien tout seul : il ouvre votre logiciel de messagerie avec un message
+        prérempli, que vous relisez avant de l'envoyer. Aucune donnée n'est transmise à ce site,
+        qui ne dispose d'aucun serveur applicatif.
+      </p>
+    </form>
+
+    <div class="encadre">
+      <h2>Par courriel direct</h2>
+      <p>Si vous préférez écrire vous-même : <a href="mailto:{{ site.email }}">{{ site.email }}</a>.
+      Indiquez l'adresse de la page concernée ; c'est le seul élément indispensable.</p>
+      <p style="margin-bottom:0;">Délai de traitement constaté : quelques jours ouvrés. Les retraits
+      prennent effet à la mise en ligne suivante, quotidienne.</p>
+    </div>
+  </div>
+</div>
+<script>
+  document.getElementById("formulaire-signalement").addEventListener("submit", function (e) {
+    e.preventDefault();
+    var url = document.getElementById("url").value;
+    var motif = document.getElementById("motif").value;
+    var details = document.getElementById("details").value;
+    var corps =
+      "Fiche concernée : " + url + "\n" +
+      "Demande : " + motif + "\n\n" +
+      (details ? "Précisions :\n" + details + "\n\n" : "") +
+      "— message préparé depuis {{ site.url }}/signaler/";
+    window.location.href =
+      "mailto:{{ site.email }}?subject=" + encodeURIComponent("[Annuaire] " + motif) +
+      "&body=" + encodeURIComponent(corps);
+  });
+  // Préremplit l'adresse quand on arrive depuis une fiche (?fiche=/…/).
+  var depuis = new URLSearchParams(location.search).get("fiche");
+  if (depuis) document.getElementById("url").value = "{{ site.url }}" + depuis;
+</script>
