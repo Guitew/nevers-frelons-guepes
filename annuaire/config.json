@@ -10,6 +10,8 @@
       { "libelle": "Fourchambault", "latitude": 47.0161, "longitude": 3.0836, "rayonMetres": 6000 }
     ],
     "categoriesCiblees": [],
+    "mailleMetres": 800,
+    "appelsMaxParJour": 60,
     "noteMinimale": 0,
     "avisMinimum": 0,
     "exclureFermes": true

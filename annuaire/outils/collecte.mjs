@@ -9,13 +9,21 @@
  *   node outils/collecte.mjs --fournisseur=csv
  *   node outils/collecte.mjs --essai         n'écrit rien, affiche le résultat
  *
- * La rotation des catégories dépend du jour de l'année : deux exécutions
- * successives n'attaquent pas le même segment du territoire, ce qui évite
- * d'épuiser une catégorie avant les autres et lisse la consommation d'API.
+ * L'exploration suit un maillage : chaque zone est découpée en cellules de
+ * quelques centaines de mètres, parcourues du centre vers la périphérie, et un
+ * curseur persistant retient où la collecte précédente s'est arrêtée. Sans
+ * cela, « searchNearby » — plafonné à 20 résultats par appel et sans
+ * pagination — renverrait chaque jour les mêmes établissements, et la collecte
+ * se tarirait au bout de quelques jours (voir outils/lib/maillage.mjs).
+ *
+ * La consommation d'API est bornée par « appelsMaxParJour » : la collecte
+ * s'arrête dès qu'elle a son quota de fiches ou son budget d'appels.
  */
 
 import config from "./lib/config.mjs";
 import { categories, classer } from "./lib/categories.mjs";
+import { cellules, lotsDeTypes, planifier } from "./lib/maillage.mjs";
+import { lireProgression, ecrireProgression } from "./lib/progression.mjs";
 import { fournisseur } from "./lib/fournisseurs/index.mjs";
 import { ecrireFiche, indexExistant, lireFiches, slugDisponible, urlFiche, ETATS } from "./lib/fiches.mjs";
 import { rediger } from "./lib/redaction.mjs";
@@ -33,18 +41,10 @@ const essai = args.has("essai") || args.has("dry-run");
 const quota = Number(args.get("max") || config.collecte.fichesParJour);
 const nomFournisseur = args.get("fournisseur") || config.collecte.fournisseur;
 
-/** Décalage de rotation basé sur le quantième du jour. */
-function rotation() {
-  const debut = new Date(new Date().getFullYear(), 0, 0);
-  return Math.floor((Date.now() - debut) / 86400000);
-}
-
-/** Catégories à interroger aujourd'hui, dans l'ordre de rotation. */
-function categoriesDuJour() {
+/** Catégories retenues pour la collecte (toutes, sauf restriction explicite). */
+function categoriesRetenues() {
   const ciblees = config.collecte.categoriesCiblees;
-  const liste = ciblees?.length ? categories.filter((c) => ciblees.includes(c.slug)) : categories;
-  const d = rotation() % liste.length;
-  return [...liste.slice(d), ...liste.slice(0, d)];
+  return ciblees?.length ? categories.filter((c) => ciblees.includes(c.slug)) : categories;
 }
 
 function estRecevable(lieu, existant) {
@@ -82,21 +82,38 @@ async function principal() {
       retenus.push(lieu);
     }
   } else {
+    const progression = lireProgression();
+    const lots = lotsDeTypes(categoriesRetenues());
+    let appels = 0;
+    const budget = config.collecte.appelsMaxParJour;
+
     boucle: for (const zone of config.collecte.zones) {
-      for (const categorie of categoriesDuJour()) {
+      if (retenus.length >= quota || appels >= budget) break;
+
+      const grille = cellules(zone, config.collecte.mailleMetres);
+      const depart = progression[zone.libelle] || { cellule: 0, lot: 0, tour: 0 };
+      const { etapes } = planifier(grille, lots, depart, budget - appels);
+
+      for (const etape of etapes) {
         if (retenus.length >= quota) break boucle;
+        appels++;
         let lieux = [];
         try {
           lieux = await source.rechercher({
-            types: categorie.gmb.slice(0, 50),
-            latitude: zone.latitude,
-            longitude: zone.longitude,
-            rayonMetres: zone.rayonMetres,
+            types: etape.types,
+            latitude: etape.cellule.latitude,
+            longitude: etape.cellule.longitude,
+            rayonMetres: etape.cellule.rayonMetres,
           });
         } catch (erreur) {
-          console.warn(`  ⚠︎ ${zone.libelle} / ${categorie.slug} : ${erreur.message}`);
+          console.warn(`  ⚠︎ ${zone.libelle} cellule ${etape.indexCellule} : ${erreur.message}`);
+          // Le curseur avance quand même : une cellule en échec ne doit pas
+          // bloquer indéfiniment la progression sur la zone.
+          progression[zone.libelle] = etape.suivant;
           continue;
         }
+        progression[zone.libelle] = etape.suivant;
+
         for (const brut of lieux) {
           if (retenus.length >= quota) break;
           const lieu = source.normaliser(brut);
@@ -106,6 +123,14 @@ async function principal() {
         }
       }
     }
+
+    if (!essai) ecrireProgression(progression);
+    console.log(
+      `  ${appels} appel(s) API sur ${budget} autorisés — ` +
+        Object.entries(progression)
+          .map(([z, c]) => `${z} : cellule ${c.cellule} (tour ${c.tour})`)
+          .join(", ")
+    );
   }
 
   if (!retenus.length) {

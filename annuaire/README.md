@@ -97,6 +97,8 @@ la seule barrière qui la voie.
 | `collecte.fournisseur` | `google-places` (API officielle) ou `csv` (import manuel) |
 | `collecte.fichesParJour` | quota quotidien (20 par défaut) |
 | `collecte.zones` | points et rayons de recherche |
+| `collecte.mailleMetres` | rayon d'une cellule d'exploration (800 m) — voir ci-dessous |
+| `collecte.appelsMaxParJour` | plafond d'appels à l'API par exécution (60) |
 | `collecte.categoriesCiblees` | restreint la collecte à certaines catégories (vide = toutes) |
 | `backlinks.delaiDeGraceJours` | délai avant retrait d'une fiche jamais liée (45 j) |
 | `backlinks.echecsAvantRetrait` | vérifications négatives consécutives avant retrait (2) |
@@ -122,12 +124,42 @@ mal classée.
 Voir [`.env.exemple`](./.env.exemple) : `GOOGLE_PLACES_API_KEY`, `INDEXNOW_KEY`,
 `CHEMIN_HTPASSWD`, `GOOGLE_INDEXING_SERVICE_ACCOUNT`.
 
+## Comment la collecte explore le territoire
+
+`places:searchNearby` plafonne à **20 résultats par appel**, classés par popularité, sans
+pagination. Interrogée chaque jour sur la même zone de 12 km, l'API renverrait donc éternellement
+les mêmes 20 établissements : la collecte se tarirait au bout de quelques jours alors que la zone
+serait loin d'être épuisée.
+
+Chaque zone est donc découpée en **cellules de 800 m de rayon**, en quinconce et se recouvrant
+légèrement pour ne laisser aucun angle mort — soit environ 350 cellules pour une zone de 12 km.
+Elles sont parcourues **du centre vers la périphérie**, puisque la densité d'établissements décroît
+avec l'éloignement du centre-ville : la collecte donne ainsi ses meilleurs résultats en premier.
+
+Deuxième contrainte : `includedTypes` n'accepte pas plus de 50 types, alors que la taxonomie en
+compte environ 150. Ils sont répartis en trois lots, eux aussi parcourus par le curseur ; une
+cellule est entièrement couverte quand ses trois lots ont été interrogés.
+
+Un **curseur persistant** (`donnees/progression.json`, versionné) retient la position exacte où
+chaque exécution s'est arrêtée — y compris lorsqu'elle s'interrompt en cours de cellule parce que
+le quota de fiches est atteint. La zone entièrement parcourue, le curseur repart du centre pour un
+nouveau tour, qui ramasse les établissements ouverts depuis le passage précédent.
+
+Enfin, chaque appel étant facturé, la consommation est bornée par `appelsMaxParJour` : la collecte
+s'arrête dès qu'elle a son quota de fiches **ou** son budget d'appels.
+
+```bash
+# Éprouver toute la chaîne sans dépenser un centime d'API
+node outils/collecte.mjs --fournisseur=simulation --max=20
+```
+
 ## Sources de données
 
 | Fournisseur | Usage |
 |---|---|
 | `google-places` | **API Google Places (New)**, voie officielle. Le masque de champs demande `websiteUri`, ce qui permet de ne retenir que les fiches sans site. Seule cette voie permet de re-vérifier un backlink. |
 | `csv` | import manuel (`donnees/import.csv`), sans clé d'API. Utile pour démarrer, tester ou reprendre une fiche à la main. Format documenté dans [`outils/lib/fournisseurs/csv.mjs`](./outils/lib/fournisseurs/csv.mjs). |
+| `simulation` | établissements fictifs déterministes, hors ligne et gratuits. Sert à éprouver toute la chaîne — maillage, curseur, budget, classification, rédaction, publication — avant d'engager le moindre appel facturé. |
 
 Ajouter un fournisseur tiers revient à déposer dans `outils/lib/fournisseurs/` un module exposant
 `rechercher`, `detailler` et `normaliser`, puis à le déclarer dans `index.mjs`.
@@ -246,12 +278,14 @@ annuaire/
 │   ├── categories.json      26 catégories ↔ types GMB
 │   ├── fiches/<ville>/*.json  une fiche = un fichier (source de vérité)
 │   ├── journal.json         historique des événements
+│   ├── progression.json     curseur d'exploration par zone
 │   └── import.exemple.csv   modèle d'import manuel
 ├── outils/
 │   ├── collecte.mjs · backlinks.mjs · retraits.mjs · indexation.mjs
 │   ├── etat.mjs · verifier.mjs
 │   ├── lib/                 briques partagées outils ↔ Eleventy
-│   │   ├── fournisseurs/    google-places.mjs, csv.mjs
+│   │   ├── fournisseurs/    google-places.mjs, csv.mjs, simulation.mjs
+│   │   ├── maillage.mjs     découpe des zones en cellules + curseur
 │   │   ├── redaction.mjs    génération éditoriale
 │   │   ├── politique.mjs    règles de retrait / archivage / republication
 │   │   ├── schema.mjs       données structurées

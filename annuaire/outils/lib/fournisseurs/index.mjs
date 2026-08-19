@@ -1,7 +1,8 @@
 import * as googlePlaces from "./google-places.mjs";
 import * as csv from "./csv.mjs";
+import * as simulation from "./simulation.mjs";
 
-const FOURNISSEURS = { "google-places": googlePlaces, csv };
+const FOURNISSEURS = { "google-places": googlePlaces, csv, simulation };
 
 /**
  * Renvoie le fournisseur de données demandé.
