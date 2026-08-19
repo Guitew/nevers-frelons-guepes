@@ -38,6 +38,9 @@ jobs:
 
       - run: npm ci
 
+      - name: Tests des règles métier
+        run: npm test
+
       - name: Compiler le site
         env:
           INDEXNOW_KEY: ${{ secrets.INDEXNOW_KEY }}

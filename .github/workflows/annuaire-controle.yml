@@ -1,0 +1,40 @@
+name: Annuaire — tests et contrôle
+
+# Barrière de qualité de l'annuaire, exécutée sur chaque proposition de
+# modification : règles métier (tests unitaires) puis site compilé (liens,
+# métadonnées, sitemaps, cohérence des règles 301 / 410).
+
+on:
+  push:
+    branches: [main]
+    paths: ["annuaire/**", ".github/workflows/annuaire-controle.yml"]
+  pull_request:
+    paths: ["annuaire/**", ".github/workflows/annuaire-controle.yml"]
+  workflow_dispatch:
+
+defaults:
+  run:
+    working-directory: annuaire
+
+jobs:
+  controle:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: "22"
+          cache: npm
+          cache-dependency-path: annuaire/package-lock.json
+
+      - run: npm ci
+
+      - name: Tests des règles métier
+        run: npm test
+
+      - name: Compiler le site
+        run: npm run build
+
+      - name: Contrôler le site compilé
+        run: npm run verifier

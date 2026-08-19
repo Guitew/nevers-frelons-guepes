@@ -20,6 +20,14 @@
  * Si le lien réapparaît, la page est republiée automatiquement — la
  * redirection est retirée du .htaccess au build suivant.
  *
+ * PURGE. Une règle de redirection n'a pas vocation à vivre éternellement :
+ * Apache évalue chaque RedirectMatch à chaque requête, et sur un annuaire qui
+ * publie 20 fiches par jour, les règles s'accumuleraient par milliers. Passé
+ * le délai de conservation (180 jours pour un 410, un an pour un 301 — la
+ * durée après laquelle Google considère une redirection comme définitivement
+ * assimilée), la fiche passe en « archivee » : la règle disparaît, l'URL
+ * retombe en 404 naturel, et la fiche reste sur le disque pour mémoire.
+ *
  * Usage :
  *   node outils/retraits.mjs                          applique la politique
  *   node outils/retraits.mjs --essai                   simulation
@@ -28,7 +36,8 @@
 
 import config from "./lib/config.mjs";
 import { lireFiches, ecrireFiche, urlFiche, urlCategorie, ETATS } from "./lib/fiches.mjs";
-import { aujourdhui, joursDepuis } from "./lib/texte.mjs";
+import { aujourdhui } from "./lib/texte.mjs";
+import { deciderRetrait, deciderArchivage, deciderRepublication } from "./lib/politique.mjs";
 import { consigner, evenement } from "./lib/journal.mjs";
 
 const args = new Map(
@@ -52,41 +61,21 @@ function retirer(fiche, mode, motif) {
   return evenement(`retrait-${mode}`, fiche, { motif, cible: fiche.retrait.cible });
 }
 
+function archiver(fiche, age) {
+  fiche.statut = ETATS.ARCHIVEE;
+  fiche.dates.maj = date;
+  fiche.retrait = { ...fiche.retrait, archive_le: date };
+  return evenement("archivage", fiche, {
+    motif: `règle ${fiche.retrait.mode} conservée ${age} jours, purgée`,
+  });
+}
+
 function republier(fiche) {
   fiche.statut = ETATS.PUBLIEE;
   fiche.retrait = null;
   fiche.dates.maj = date;
   fiche.dates.publication = fiche.dates.publication || date;
   return evenement("republication", fiche, { motif: "backlink GMB retrouvé" });
-}
-
-/** Décide du sort d'une fiche publiée. @returns {[mode, motif]|null} */
-function decider(fiche) {
-  const bl = fiche.backlink || {};
-  const seuil = config.backlinks.echecsAvantRetrait;
-
-  if (bl.etat === "introuvable" && (bl.echecs || 0) >= seuil) {
-    return ["410", "fiche Google introuvable (établissement fermé ou supprimé)"];
-  }
-  if (!["absent", "externe"].includes(bl.etat)) return null;
-  if ((bl.echecs || 0) < seuil) return null;
-
-  if (bl.premiere_detection) {
-    const motif =
-      bl.etat === "externe"
-        ? `backlink remplacé par un site propre (${bl.url_detectee})`
-        : "backlink GMB retiré";
-    return [config.backlinks.modeRetraitParDefaut, motif];
-  }
-
-  const age = joursDepuis(fiche.dates?.publication);
-  if (age !== null && age >= config.backlinks.delaiDeGraceJours) {
-    return [
-      config.backlinks.modeRetraitSiJamaisLie,
-      `backlink jamais posé après ${age} jours de délai de grâce`,
-    ];
-  }
-  return null;
 }
 
 function manuel(fiches) {
@@ -110,8 +99,21 @@ function principal() {
 
   const evenements = [];
   for (const fiche of fiches) {
+    if (fiche.statut === ETATS.ARCHIVEE) continue;
+
     if (fiche.statut === ETATS.RETIREE) {
-      if (fiche.backlink?.etat === "present" && fiche.retrait?.motif !== "retrait manuel") {
+      // Purge des règles arrivées à expiration.
+      const expiration = deciderArchivage(fiche, config.backlinks);
+      if (expiration) {
+        evenements.push(archiver(fiche, expiration.age));
+        if (!essai) ecrireFiche(fiche);
+        console.log(
+          `  ⌫ archivage : ${urlFiche(fiche)} (règle ${fiche.retrait.mode} de ${expiration.age} jours)`
+        );
+        continue;
+      }
+
+      if (deciderRepublication(fiche)) {
         evenements.push(republier(fiche));
         if (!essai) ecrireFiche(fiche);
         console.log(`  ↻ republication : ${urlFiche(fiche)}`);
@@ -120,9 +122,9 @@ function principal() {
     }
     if (fiche.statut !== ETATS.PUBLIEE) continue;
 
-    const decision = decider(fiche);
+    const decision = deciderRetrait(fiche, config.backlinks);
     if (!decision) continue;
-    const [mode, motif] = decision;
+    const { mode, motif } = decision;
     evenements.push(retirer(fiche, mode, motif));
     if (!essai) ecrireFiche(fiche);
     console.log(

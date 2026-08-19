@@ -54,7 +54,8 @@ avant la mise en service réelle.
 | `npm run retraits` | applique les 301 / 410 (option `--essai` pour simuler) |
 | `npm run build` | régénère le site **et le `.htaccess`** (redirections comprises) |
 | `npm run indexation` | soumet les URLs modifiées à IndexNow |
-| `npm run verifier` | contrôle le site compilé (liens, titres, canoniques, règles 301/410) |
+| `npm test` | tests des règles métier (cycle de vie, classification, rédaction, balisage) |
+| `npm run verifier` | contrôle le site compilé (liens, titres, canoniques, sitemaps, règles 301/410) |
 | `npm run etat` | résumé console de l'état de l'annuaire |
 | `npm run quotidien` | enchaîne collecte + backlinks + retraits |
 
@@ -68,15 +69,24 @@ diff : c'est la mémoire de l'annuaire, et le moyen de revenir en arrière sur u
 ## Contrôle avant mise en ligne
 
 ```bash
-npm run controle       # compile puis vérifie
+npm run controle       # tests + compilation + vérification
 ```
 
-`outils/verifier.mjs` inspecte le **résultat** de la compilation, pas le code : liens internes
+Deux barrières complémentaires, toutes deux exécutées en intégration continue sur chaque
+proposition de modification ([`annuaire-controle.yml`](../.github/workflows/annuaire-controle.yml))
+et avant chaque déploiement.
+
+**`npm test`** — 37 tests sans dépendance (`node --test`) sur les règles qui engagent le site :
+décision de retrait 301/410, délai de grâce, purge des règles, republication, classification des
+catégories, lecture des horaires Google et CSV, comparaison des backlinks, déterminisme de la
+rédaction, absence de fait inventé, et absence d'`aggregateRating` dans le balisage.
+
+**`npm run verifier`** — inspecte le **résultat** de la compilation, pas le code : liens internes
 morts, `<title>` dupliqués, canoniques incohérentes, fichiers indispensables manquants, fils
-d'Ariane identiques d'une fiche à l'autre, et cohérence entre les fiches retirées et les règles du
-`.htaccess`. Sur un site généré, une erreur de gabarit se duplique sur des milliers de pages : ce
-contrôle est la seule barrière qui la voie. Il tourne automatiquement avant chaque déploiement et
-bloque la mise en ligne en cas d'anomalie.
+d'Ariane identiques d'une fiche à l'autre, cohérence de l'index de sitemaps (fichiers présents,
+URLs compilées et indexables) et cohérence entre les fiches retirées et les règles du `.htaccess`.
+Sur un site généré, une erreur de gabarit se duplique sur des milliers de pages : ce contrôle est
+la seule barrière qui la voie.
 
 ## Configuration
 
@@ -92,6 +102,8 @@ bloque la mise en ligne en cas d'anomalie.
 | `backlinks.echecsAvantRetrait` | vérifications négatives consécutives avant retrait (2) |
 | `backlinks.modeRetraitParDefaut` | `301` — lien perdu, l'entreprise existe toujours |
 | `backlinks.modeRetraitSiJamaisLie` | `410` — lien jamais posé après le délai de grâce |
+| `backlinks.joursConservation410` | durée de vie d'une règle 410 avant purge (180 j) |
+| `backlinks.joursConservation301` | durée de vie d'une règle 301 avant purge (365 j) |
 
 ### `donnees/site.json` — l'identité du site
 
@@ -180,6 +192,22 @@ htpasswd -c ~/.htpasswd-pilotage pilote
 
 puis renseigner son chemin absolu dans le secret `CHEMIN_HTPASSWD`.
 
+## Tenue à l'échelle
+
+Le projet a été éprouvé sur un jeu synthétique de **3 000 fiches** (cinq mois de collecte à
+20 par jour), qui a servi à dimensionner trois choix :
+
+| Point mesuré | Résultat |
+|---|---|
+| Compilation complète | 26 s pour 6 400 fichiers |
+| Tableau de bord | rendu par tranches de 100 lignes depuis un JSON compact — 28 Ko de HTML au lieu de 3,1 Mo |
+| Index de recherche | 470 Ko bruts, **31 Ko compressés** : chargé une fois, sur la seule page de recherche |
+| Sitemaps | un index + un fichier par catégorie, pour suivre l'indexation catégorie par catégorie dans la Search Console |
+| Règles `.htaccess` | purgées à expiration (voir ci-dessous) — Apache évalue chaque `RedirectMatch` à chaque requête |
+
+La compression (`mod_deflate`) est configurée dans le `.htaccess` généré et couvre HTML, CSS, JS,
+JSON, XML et Markdown : c'est elle qui rend acceptables l'index de recherche et les sitemaps.
+
 ## Retraits : 301 ou 410 ?
 
 | Situation | Code | Raison |
@@ -191,7 +219,14 @@ puis renseigner son chemin absolu dans le secret `CHEMIN_HTPASSWD`.
 | Lien jamais posé après le délai de grâce | **410** | la page n'a jamais été reconnue par l'entreprise |
 
 Les règles sont écrites dans le `.htaccess` **à chaque compilation**, à partir de l'état des
-fiches. Une fiche republiée voit sa règle disparaître automatiquement. Une catégorie vidée de
+fiches. Une fiche republiée voit sa règle disparaître automatiquement.
+
+**Les règles ont une durée de vie.** Une redirection n'a pas vocation à être évaluée éternellement
+à chaque requête. Passé `joursConservation410` (180 j) ou `joursConservation301` (365 j — la durée
+au-delà de laquelle Google considère une redirection comme assimilée), la fiche passe à l'état
+`archivee` : la règle disparaît du `.htaccess`, l'URL retombe en 404 naturel, et la fiche reste sur
+le disque pour mémoire. Sans ce mécanisme, un annuaire publiant 20 fiches par jour accumulerait
+des milliers de règles. Une catégorie vidée de
 toutes ses fiches **n'est pas supprimée** : elle reste en ligne, en `noindex`, pour ne pas
 transformer les 301 qui la visent en 404.
 
@@ -213,12 +248,15 @@ annuaire/
 │   ├── journal.json         historique des événements
 │   └── import.exemple.csv   modèle d'import manuel
 ├── outils/
-│   ├── collecte.mjs · backlinks.mjs · retraits.mjs · indexation.mjs · etat.mjs
-│   └── lib/                 briques partagées outils ↔ Eleventy
-│       ├── fournisseurs/    google-places.mjs, csv.mjs
-│       ├── redaction.mjs    génération éditoriale
-│       ├── schema.mjs       données structurées
-│       └── pilotage.mjs     agrégats du tableau de bord
+│   ├── collecte.mjs · backlinks.mjs · retraits.mjs · indexation.mjs
+│   ├── etat.mjs · verifier.mjs
+│   ├── lib/                 briques partagées outils ↔ Eleventy
+│   │   ├── fournisseurs/    google-places.mjs, csv.mjs
+│   │   ├── redaction.mjs    génération éditoriale
+│   │   ├── politique.mjs    règles de retrait / archivage / republication
+│   │   ├── schema.mjs       données structurées
+│   │   └── pilotage.mjs     agrégats du tableau de bord
+│   └── tests/               tests des règles métier (node --test)
 └── src/
     ├── _data/               site, annuaire (fiches → pages), nav, env
     ├── _includes/           gabarits et partials
@@ -227,6 +265,7 @@ annuaire/
     ├── categorie.njk        page catégorie     → /categorie/
     ├── categorie-ville.njk  activité × commune → /categorie/commune/
     ├── ville.njk            page commune       → /villes/commune/
+    ├── sitemap.njk          index de sitemaps (+ un fichier par catégorie)
     ├── htaccess.njk         .htaccess généré (301 / 410 compris)
     └── prive/               tableau de bord + protection Apache
 ```

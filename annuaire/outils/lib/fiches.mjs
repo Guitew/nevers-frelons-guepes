@@ -3,10 +3,20 @@ import path from "node:path";
 import { FICHES } from "./chemins.mjs";
 import { slugifier } from "./texte.mjs";
 
-/** États possibles d'une fiche. */
+/**
+ * États possibles d'une fiche.
+ *
+ * publiee  → une page est compilée pour elle.
+ * retiree  → pas de page, mais une règle 301 ou 410 dans le .htaccess.
+ * archivee → la règle a fait son office et a été purgée ; l'URL retombe en
+ *            404 naturel. La fiche reste sur le disque pour mémoire, mais
+ *            ne produit plus ni page ni règle.
+ * brouillon→ collectée, non publiée.
+ */
 export const ETATS = {
   PUBLIEE: "publiee",
   RETIREE: "retiree",
+  ARCHIVEE: "archivee",
   BROUILLON: "brouillon",
 };
 

@@ -47,7 +47,10 @@ function enrichir(fiche) {
 export default function () {
   const toutes = lireFiches().map(enrichir);
   const publiees = toutes.filter((f) => f.statut === ETATS.PUBLIEE);
+  // Seules les fiches « retiree » produisent une règle dans le .htaccess.
+  // Les « archivee » ont vu leur règle purgée : elles ne génèrent plus rien.
   const retirees = toutes.filter((f) => f.statut === ETATS.RETIREE);
+  const archivees = toutes.filter((f) => f.statut === ETATS.ARCHIVEE);
 
   // --- Catégories.
   //     Une catégorie est publiée dès qu'elle a hébergé au moins une fiche,
@@ -59,7 +62,9 @@ export default function () {
   const categories = taxonomie
     .map((c) => {
       const fiches = publiees.filter((f) => f.categorie === c.slug);
-      const anciennes = retirees.filter((f) => f.categorie === c.slug);
+      // Les archivées comptent aussi : leur page catégorie a pu être indexée,
+      // et la faire disparaître transformerait une URL connue en 404.
+      const anciennes = [...retirees, ...archivees].filter((f) => f.categorie === c.slug);
       const villes = [...new Set(fiches.map((f) => f.ville_slug))];
       return {
         ...c,
@@ -144,6 +149,7 @@ export default function () {
     fiches: publiees,
     toutes,
     retirees,
+    archivees,
     categories,
     villes,
     couples,
@@ -156,6 +162,7 @@ export default function () {
     stats: {
       fiches: publiees.length,
       retirees: retirees.length,
+      archivees: archivees.length,
       categories: categories.length,
       villes: villes.length,
       avecBacklink: publiees.filter((f) => f.backlink?.etat === "present").length,

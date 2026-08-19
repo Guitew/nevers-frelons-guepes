@@ -29,14 +29,17 @@ eleventyExcludeFromCollections: true
 
   {% if p.aRelancer.length %}
   <section>
-    <h2>Fin de délai de grâce ({{ p.aRelancer.length }})</h2>
+    <h2>Fin de délai de grâce ({{ p.aRelancer.length | nombreFr }})</h2>
     <p class="doux">Publiées depuis longtemps sans que le lien ait jamais été posé. Sans réaction,
-    elles basculeront en retrait automatique.</p>
+    elles basculeront en retrait automatique. Les {{ 50 if p.aRelancer.length > 50 else p.aRelancer.length }}
+    plus anciennes sont listées ici{% if p.aRelancer.length > 50 %} ; les
+    {{ (p.aRelancer.length - 50) | nombreFr }} autres se retrouvent dans le tableau ci-dessous en
+    filtrant sur « en attente »{% endif %}.</p>
     <div class="defilement">
       <table class="tableau">
         <thead><tr><th>Entreprise</th><th>Publiée le</th><th>Jours</th><th>URL à déclarer sur la fiche Google</th></tr></thead>
         <tbody>
-          {% for f in p.aRelancer %}
+          {% for f in p.aRelancer | limite(50) %}
           <tr>
             <td>{{ f.nom }}<br><span class="doux">{{ f.ville }}</span></td>
             <td>{{ f.dates.publication | dateFr }}</td>
@@ -58,8 +61,9 @@ eleventyExcludeFromCollections: true
       <label class="visuellement-cache" for="filtre-statut">Statut</label>
       <select id="filtre-statut">
         <option value="">Tous les statuts</option>
-        <option value="publiee">Publiées</option>
-        <option value="retiree">Retirées</option>
+        <option value="publiee">En ligne</option>
+        <option value="retiree">Retirées (règle active)</option>
+        <option value="archivee">Archivées (règle purgée)</option>
       </select>
       <label class="visuellement-cache" for="filtre-backlink">Backlink</label>
       <select id="filtre-backlink">
@@ -70,8 +74,8 @@ eleventyExcludeFromCollections: true
         <option value="externe">Externe</option>
         <option value="introuvable">Introuvable</option>
       </select>
-      <span class="doux" id="compte-lignes"></span>
-      <button class="bouton bouton--secondaire" type="button" id="copier-urls">Copier les URLs visibles</button>
+      <span class="doux" id="compte-lignes">chargement…</span>
+      <button class="bouton bouton--secondaire" type="button" id="copier-urls">Copier les URLs filtrées</button>
       <button class="bouton bouton--secondaire" type="button" id="exporter-csv">Exporter en CSV</button>
     </div>
 
@@ -83,36 +87,12 @@ eleventyExcludeFromCollections: true
             <th>Backlink</th><th>Échecs</th><th>1re détection</th><th>Dernière vérif.</th><th>URL</th>
           </tr>
         </thead>
-        <tbody>
-          {% for f in p.lignes %}
-          <tr data-statut="{{ f.statut }}" data-backlink="{{ f.etat }}"
-              data-texte="{{ f.nom | lower }} {{ f.ville | lower }} {{ f.categorie_nom | lower }}"
-              data-url="{{ site.url }}{{ f.url }}">
-            <td>{{ f.nom }}{% if f.exemple %} <span class="etiquette">démo</span>{% endif %}</td>
-            <td>{{ f.categorie_nom }}</td>
-            <td>{{ f.ville }}</td>
-            <td>
-              {% if f.statut == "retiree" %}
-                <span class="etiquette etiquette--rouge">{{ f.retrait.mode }}</span>
-                <span class="doux">{{ f.retrait.motif }}</span>
-              {% else %}
-                <span class="etiquette etiquette--vert">en ligne</span>
-              {% endif %}
-            </td>
-            <td>
-              {% if f.etat == "present" %}<span class="etiquette etiquette--vert">présent</span>
-              {% elif f.etat == "en-attente" %}<span class="etiquette">en attente</span>
-              {% else %}<span class="etiquette etiquette--rouge">{{ f.etat }}</span>{% endif %}
-            </td>
-            <td>{{ f.backlink.echecs or 0 }}</td>
-            <td>{{ f.backlink.premiere_detection | dateFr or "—" }}</td>
-            <td>{{ f.backlink.derniere_verification | dateFr or "jamais" }}</td>
-            <td><a href="{{ f.url }}">{{ f.url }}</a></td>
-          </tr>
-          {% endfor %}
-        </tbody>
+        <tbody><tr><td colspan="9" class="doux">Chargement des données…</td></tr></tbody>
       </table>
     </div>
+    <nav class="pagination" id="pagination-fiches" aria-label="Pagination du tableau"></nav>
+    <noscript><p class="doux">Le tableau nécessite JavaScript. Les données brutes restent
+    consultables sur <code>donnees.json</code>, dans ce même dossier protégé.</p></noscript>
   </section>
 
   <section>

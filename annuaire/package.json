@@ -17,7 +17,8 @@
     "etat": "node outils/etat.mjs",
     "quotidien": "npm run collecte && npm run backlinks && npm run retraits",
     "verifier": "node outils/verifier.mjs",
-    "controle": "npm run build && npm run verifier"
+    "controle": "npm test && npm run build && npm run verifier",
+    "test": "node --test \"outils/tests/*.test.mjs\""
   },
   "devDependencies": {
     "@11ty/eleventy": "^3.1.0"

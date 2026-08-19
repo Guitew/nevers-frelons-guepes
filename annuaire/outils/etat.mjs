@@ -13,6 +13,7 @@ import { dateLisible, joursDepuis } from "./lib/texte.mjs";
 const fiches = lireFiches();
 const publiees = fiches.filter((f) => f.statut === ETATS.PUBLIEE);
 const retirees = fiches.filter((f) => f.statut === ETATS.RETIREE);
+const archivees = fiches.filter((f) => f.statut === ETATS.ARCHIVEE);
 
 const parEtat = {};
 for (const f of publiees) {
@@ -31,6 +32,8 @@ for (const [mode, n] of Object.entries(
 )) {
   console.log(`     dont ${mode} ........ ${n}`);
 }
+
+console.log(`  Archivées ........... ${archivees.length}  (règle purgée, 404 naturel)`);
 
 console.log(`\n  BACKLINKS GMB`);
 for (const [etat, n] of Object.entries(parEtat).sort((a, b) => b[1] - a[1])) {

@@ -13,6 +13,7 @@ export function pilotage(fiches) {
   const lignes = liste.map((f) => ({ ...f, etat: f.backlink?.etat || "en-attente" }));
   const publiees = lignes.filter((f) => f.statut === ETATS.PUBLIEE);
   const retirees = lignes.filter((f) => f.statut === ETATS.RETIREE);
+  const archivees = lignes.filter((f) => f.statut === ETATS.ARCHIVEE);
 
   const present = publiees.filter((f) => f.etat === "present").length;
   const enAttente = publiees.filter((f) => !f.backlink?.premiere_detection).length;
@@ -40,6 +41,7 @@ export function pilotage(fiches) {
     menacees,
     retirees301: retirees.filter((f) => f.retrait?.mode === "301").length,
     retirees410: retirees.filter((f) => f.retrait?.mode === "410").length,
+    archivees: archivees.length,
     jamaisVerifiees: lignes.filter((f) => !f.backlink?.derniere_verification).length,
     tauxConversion,
     aRelancer,

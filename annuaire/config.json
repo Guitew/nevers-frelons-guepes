@@ -20,7 +20,9 @@
     "delaiDeGraceJours": 45,
     "echecsAvantRetrait": 2,
     "modeRetraitParDefaut": "301",
-    "modeRetraitSiJamaisLie": "410"
+    "modeRetraitSiJamaisLie": "410",
+    "joursConservation410": 180,
+    "joursConservation301": 365
   },
 
   "indexation": {

@@ -13,7 +13,9 @@
  *   • les canoniques manquantes ou incohérentes ;
  *   • les fils d'Ariane identiques d'une fiche à l'autre ;
  *   • la présence des fichiers indispensables (.htaccess, sitemap, robots…) ;
- *   • la cohérence entre les fiches retirées et les règles du .htaccess.
+ *   • la cohérence entre les fiches retirées et les règles du .htaccess ;
+ *   • la cohérence de l'index de sitemaps (fichiers listés présents, URLs
+ *     déclarées réellement compilées et indexables).
  *
  * Usage : npm run verifier   (code de sortie non nul si anomalie bloquante)
  */
@@ -53,7 +55,7 @@ const pages = parcourir(SORTIE, ".html");
 const urlDe = (p) => "/" + path.relative(SORTIE, p).replace(/index\.html$/, "");
 
 // --- Fichiers indispensables
-for (const attendu of [".htaccess", "sitemap.xml", "robots.txt", "llms.txt", "404.html", "410.html", "flux.xml"]) {
+for (const attendu of [".htaccess", "sitemap.xml", "sitemaps/pages.xml", "robots.txt", "llms.txt", "404.html", "410.html", "flux.xml"]) {
   if (!fs.existsSync(path.join(SORTIE, attendu))) anomalies.push(`Fichier manquant : /${attendu}`);
 }
 
@@ -61,7 +63,9 @@ const titres = new Map();
 const descriptions = new Map();
 const fils = new Map();
 const liensCasses = new Map();
-const retireesUrl = new Set(lireFiches().filter((f) => f.statut === ETATS.RETIREE).map(urlFiche));
+// Les fiches qui ne sont plus publiées (retirées ou archivées) n'ont pas de
+// page : les liens qui les visent depuis le tableau de bord sont volontaires.
+const horsLigne = new Set(lireFiches().filter((f) => f.statut !== ETATS.PUBLIEE).map(urlFiche));
 
 for (const p of pages) {
   const html = fs.readFileSync(p, "utf8");
@@ -92,7 +96,7 @@ for (const p of pages) {
 
   for (const m of html.matchAll(/href="(\/[^"#?]*)"/g)) {
     const cible = m[1];
-    if (cible.startsWith("/assets/") || retireesUrl.has(cible)) continue;
+    if (cible.startsWith("/assets/") || horsLigne.has(cible)) continue;
     const existe = [
       path.join(SORTIE, cible),
       path.join(SORTIE, cible, "index.html"),
@@ -116,6 +120,34 @@ for (const [cible, sources] of liensCasses) {
   anomalies.push(`Lien interne cassé : ${cible} ← ${[...sources].slice(0, 3).join(", ")}`);
 }
 
+// --- Cohérence de l'index de sitemaps
+//     Une URL déclarée dans un sitemap mais absente du site, ou déclarée alors
+//     qu'elle porte un noindex, est un signal contradictoire envoyé à Google.
+const sitemapIndex = fs.readFileSync(path.join(SORTIE, "sitemap.xml"), "utf8");
+const declares = [...sitemapIndex.matchAll(/<loc>([^<]+)<\/loc>/g)].map((m) => m[1]);
+if (!declares.length) anomalies.push("L'index de sitemaps ne référence aucun sitemap.");
+
+let urlsDeclarees = 0;
+for (const url of declares) {
+  const relatif = url.replace(site.url, "");
+  const fichier = path.join(SORTIE, relatif);
+  if (!fs.existsSync(fichier)) {
+    anomalies.push(`Sitemap déclaré mais absent : ${relatif}`);
+    continue;
+  }
+  const contenu = fs.readFileSync(fichier, "utf8");
+  for (const m of contenu.matchAll(/<loc>([^<]+)<\/loc>/g)) {
+    urlsDeclarees++;
+    const chemin = m[1].replace(site.url, "");
+    const page = path.join(SORTIE, chemin, "index.html");
+    if (!fs.existsSync(page)) {
+      anomalies.push(`URL au sitemap sans page compilée : ${chemin} (${relatif})`);
+    } else if (/name="robots" content="noindex/.test(fs.readFileSync(page, "utf8"))) {
+      anomalies.push(`URL au sitemap marquée noindex : ${chemin} (${relatif})`);
+    }
+  }
+}
+
 // --- Cohérence des retraits avec le .htaccess
 const htaccess = fs.readFileSync(path.join(SORTIE, ".htaccess"), "utf8");
 for (const fiche of lireFiches().filter((f) => f.statut === ETATS.RETIREE)) {
@@ -130,7 +162,10 @@ for (const fiche of lireFiches().filter((f) => f.statut === ETATS.RETIREE)) {
   }
 }
 
-console.log(`\n  CONTRÔLE DU SITE COMPILÉ — ${pages.length} pages HTML\n  ${"─".repeat(50)}`);
+console.log(
+  `\n  CONTRÔLE DU SITE COMPILÉ — ${pages.length} pages HTML, ` +
+    `${urlsDeclarees} URLs au sitemap\n  ${"─".repeat(50)}`
+);
 if (avertissements.length) {
   console.log(`\n  ${avertissements.length} avertissement(s) :`);
   for (const a of avertissements) console.log(`  ~ ${a}`);

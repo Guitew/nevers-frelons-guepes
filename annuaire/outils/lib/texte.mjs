@@ -83,33 +83,55 @@ export function echapperHtml(str) {
     .replace(/"/g, "&quot;");
 }
 
+// Les formateurs Intl sont coûteux à construire : sur une compilation de
+// plusieurs milliers de fiches, les recréer à chaque appel représentait 10 %
+// du temps de build. Ils sont donc instanciés une fois pour toutes.
+const FORMAT_ISO = new Intl.DateTimeFormat("fr-CA", {
+  timeZone: "Europe/Paris",
+  year: "numeric",
+  month: "2-digit",
+  day: "2-digit",
+});
+const FORMAT_LISIBLE = new Intl.DateTimeFormat("fr-FR", {
+  timeZone: "Europe/Paris",
+  day: "numeric",
+  month: "long",
+  year: "numeric",
+});
+
 /** Date du jour au format ISO court (AAAA-MM-JJ), fuseau Europe/Paris. */
 export function aujourdhui(date = new Date()) {
-  return new Intl.DateTimeFormat("fr-CA", {
-    timeZone: "Europe/Paris",
-    year: "numeric",
-    month: "2-digit",
-    day: "2-digit",
-  }).format(date);
+  return FORMAT_ISO.format(date);
 }
 
-/** « 2026-08-18 » → « 18 août 2026 ». */
+const cacheDates = new Map();
+
+/** « 2026-08-18 » → « 18 août 2026 ». Mémoïsé : les mêmes dates reviennent
+ *  des milliers de fois dans un annuaire à publication quotidienne. */
 export function dateLisible(iso) {
   if (!iso) return "";
+  const cache = cacheDates.get(iso);
+  if (cache !== undefined) return cache;
   const d = new Date(iso.length === 10 ? iso + "T12:00:00Z" : iso);
-  if (Number.isNaN(d.getTime())) return "";
-  return new Intl.DateTimeFormat("fr-FR", {
-    timeZone: "Europe/Paris",
-    day: "numeric",
-    month: "long",
-    year: "numeric",
-  }).format(d);
+  const valeur = Number.isNaN(d.getTime()) ? "" : FORMAT_LISIBLE.format(d);
+  cacheDates.set(iso, valeur);
+  return valeur;
 }
 
-/** Nombre de jours entiers écoulés depuis une date ISO. */
+/**
+ * Nombre de jours CALENDAIRES écoulés depuis une date ISO.
+ *
+ * Les deux bornes sont ramenées à midi UTC du jour concerné (fuseau
+ * Europe/Paris pour « maintenant »). Sans cette normalisation, le résultat
+ * dépendait de l'heure d'exécution : la même fiche comptait 44 ou 45 jours
+ * selon que la tâche planifiée tournait le matin ou le soir — un délai de
+ * grâce qui décide de la suppression d'une URL ne peut pas dépendre de ça.
+ * Ancrer à midi met aussi à l'abri des changements d'heure.
+ */
 export function joursDepuis(iso, maintenant = new Date()) {
   if (!iso) return null;
-  const d = new Date(iso.length === 10 ? iso + "T12:00:00Z" : iso);
-  if (Number.isNaN(d.getTime())) return null;
-  return Math.floor((maintenant - d) / 86400000);
+  const debut = Date.parse(String(iso).slice(0, 10) + "T12:00:00Z");
+  if (Number.isNaN(debut)) return null;
+  const fin = Date.parse(aujourdhui(maintenant) + "T12:00:00Z");
+  return Math.round((fin - debut) / 86400000);
 }

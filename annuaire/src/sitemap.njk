@@ -3,29 +3,21 @@ permalink: /sitemap.xml
 eleventyExcludeFromCollections: true
 ---
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="http://www.sitemap.org/schemas/sitemap/0.9">
-  {%- set aujourd = "" | aujourdhui -%}
-  <url><loc>{{ site.url }}/</loc><lastmod>{{ annuaire.stats.derniereMaj | isoDate }}</lastmod><changefreq>daily</changefreq><priority>1.0</priority></url>
-  <url><loc>{{ site.url }}/categories/</loc><lastmod>{{ annuaire.stats.derniereMaj | isoDate }}</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url>
-  <url><loc>{{ site.url }}/villes/</loc><lastmod>{{ annuaire.stats.derniereMaj | isoDate }}</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url>
-  <url><loc>{{ site.url }}/nouveautes/</loc><lastmod>{{ annuaire.stats.derniereMaj | isoDate }}</lastmod><changefreq>daily</changefreq><priority>0.8</priority></url>
-  <url><loc>{{ site.url }}/a-propos/</loc><changefreq>monthly</changefreq><priority>0.4</priority></url>
-  <url><loc>{{ site.url }}/entreprises/</loc><changefreq>monthly</changefreq><priority>0.5</priority></url>
-  <url><loc>{{ site.url }}/plan-du-site/</loc><changefreq>weekly</changefreq><priority>0.3</priority></url>
-  {%- for p in annuaire.pagesCategorie %}
-  {%- if not p.categorie.vide %}
-  <url><loc>{{ site.url }}{{ p.url }}</loc><lastmod>{{ annuaire.stats.derniereMaj | isoDate }}</lastmod><changefreq>weekly</changefreq><priority>0.7</priority></url>
+{#- Index de sitemaps plutôt qu'un fichier unique : la Search Console rend
+    ses statistiques d'indexation par sitemap, ce qui permet de voir quelle
+    catégorie Google accepte et laquelle il ignore — l'information la plus
+    utile au pilotage d'un annuaire. -#}
+<sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <sitemap>
+    <loc>{{ site.url }}/sitemaps/pages.xml</loc>
+    <lastmod>{{ annuaire.stats.derniereMaj | isoDate }}</lastmod>
+  </sitemap>
+  {%- for c in annuaire.categories %}
+  {%- if not c.vide %}
+  <sitemap>
+    <loc>{{ site.url }}/sitemaps/{{ c.slug }}.xml</loc>
+    <lastmod>{{ annuaire.stats.derniereMaj | isoDate }}</lastmod>
+  </sitemap>
   {%- endif %}
   {%- endfor %}
-  {%- for p in annuaire.pagesCouple %}
-  <url><loc>{{ site.url }}{{ p.url }}</loc><lastmod>{{ annuaire.stats.derniereMaj | isoDate }}</lastmod><changefreq>weekly</changefreq><priority>0.7</priority></url>
-  {%- endfor %}
-  {%- for p in annuaire.pagesVille %}
-  <url><loc>{{ site.url }}{{ p.url }}</loc><lastmod>{{ annuaire.stats.derniereMaj | isoDate }}</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
-  {%- endfor %}
-  {%- for f in annuaire.fiches %}
-  {%- if f.indexable %}
-  <url><loc>{{ site.url }}{{ f.url }}</loc><lastmod>{{ f.dates.maj | isoDate }}</lastmod><changefreq>monthly</changefreq><priority>0.9</priority></url>
-  {%- endif %}
-  {%- endfor %}
-</urlset>
+</sitemapindex>
