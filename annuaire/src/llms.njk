@@ -14,7 +14,7 @@ d'origine est absente de la page.
 ## Conventions utiles
 
 - Chaque fiche est disponible en Markdown en ajoutant `index.md` à son adresse.
-  Exemple : `{{ site.url | safe }}/boulangeries-patisseries/nevers/exemple/index.md`
+  Exemple : `{{ site.base | safe }}/boulangeries-patisseries/nevers/exemple/index.md`
 - Adresse d'une fiche : `/{catégorie}/{commune}/{entreprise}/`
 - Adresse d'une catégorie : `/{catégorie}/` — d'une catégorie dans une commune : `/{catégorie}/{commune}/`
 - Chaque page porte des données structurées schema.org (LocalBusiness, BreadcrumbList, FAQPage).
@@ -23,24 +23,24 @@ d'origine est absente de la page.
 
 ## Pages principales
 
-- [Accueil]({{ site.url | safe }}/) : présentation et chiffres du jour
-- [Le projet]({{ site.url | safe }}/a-propos/) : méthode, sources, règles de retrait
-- [Catégories]({{ site.url | safe }}/categories/) : les {{ annuaire.categories.length | safe }} secteurs couverts
-- [Communes]({{ site.url | safe }}/villes/) : les {{ annuaire.villes.length | safe }} communes couvertes
-- [Nouveautés]({{ site.url | safe }}/nouveautes/) : les dernières fiches publiées
-- [Plan du site]({{ site.url | safe }}/plan-du-site/) : toutes les rubriques
-- [Sitemap XML]({{ site.url | safe }}/sitemap.xml) : {{ annuaire.stats.fiches | safe }} fiches
+- [Accueil]({{ site.base | safe }}/) : présentation et chiffres du jour
+- [Le projet]({{ site.base | safe }}/a-propos/) : méthode, sources, règles de retrait
+- [Catégories]({{ site.base | safe }}/categories/) : les {{ annuaire.categories.length | safe }} secteurs couverts
+- [Communes]({{ site.base | safe }}/villes/) : les {{ annuaire.villes.length | safe }} communes couvertes
+- [Nouveautés]({{ site.base | safe }}/nouveautes/) : les dernières fiches publiées
+- [Plan du site]({{ site.base | safe }}/plan-du-site/) : toutes les rubriques
+- [Sitemap XML]({{ site.base | safe }}/sitemap.xml) : {{ annuaire.stats.fiches | safe }} fiches
 
 ## Catégories
 {% for c in annuaire.categories %}
-- [{{ c.pluriel | safe }}]({{ site.url | safe }}/{{ c.slug | safe }}/) : {{ c.resume | safe }} ({{ c.nombre | safe }} fiches)
+- [{{ c.pluriel | safe }}]({{ site.base | safe }}/{{ c.slug | safe }}/) : {{ c.resume | safe }} ({{ c.nombre | safe }} fiches)
 {%- endfor %}
 
 ## Communes
 {% for v in annuaire.villes %}
-- [{{ v.nom | safe }}]({{ site.url | safe }}/villes/{{ v.slug | safe }}/) ({{ v.code_postal | safe }}) : {{ v.nombre | safe }} fiches
+- [{{ v.nom | safe }}]({{ site.base | safe }}/villes/{{ v.slug | safe }}/) ({{ v.code_postal | safe }}) : {{ v.nombre | safe }} fiches
 {%- endfor %}
 
 ## Contact
 
-Correction ou retrait d'une fiche : {{ site.email | safe }} — {{ site.url | safe }}/signaler/
+Correction ou retrait d'une fiche : {{ site.email | safe }} — {{ site.base | safe }}/signaler/

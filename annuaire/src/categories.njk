@@ -22,7 +22,7 @@ ariane:
     {% for c in annuaire.categories %}
     <article class="carte carte-categorie">
       <span class="carte-categorie__emoji" aria-hidden="true">{{ c.emoji }}</span>
-      <h2 class="carte__titre" style="font-size:1.05rem;"><a href="/{{ c.slug }}/">{{ c.pluriel }}</a></h2>
+      <h2 class="carte__titre" style="font-size:1.05rem;"><a href="{{ ("/" + (c.slug) + "/") | url }}">{{ c.pluriel }}</a></h2>
       <p class="carte__meta">{{ c.resume }}</p>
       <p class="carte-categorie__nombre carte__pied">{{ c.nombre | nombreFr }} fiche{% if c.nombre > 1 %}s{% endif %} · {{ c.villes.length }} commune{% if c.villes.length > 1 %}s{% endif %}</p>
     </article>

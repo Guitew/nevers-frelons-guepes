@@ -43,7 +43,7 @@ eleventyComputed:
     <div class="fiche__etiquettes">
       {% for v in annuaire.villes %}
         {% if v.slug in p.categorie.villes %}
-        <a class="etiquette" href="/{{ p.categorie.slug }}/{{ v.slug }}/">{{ p.categorie.nom }} à {{ v.nom }}</a>
+        <a class="etiquette" href="{{ ("/" + (p.categorie.slug) + "/" + (v.slug) + "/") | url }}">{{ p.categorie.nom }} à {{ v.nom }}</a>
         {% endif %}
       {% endfor %}
     </div>
@@ -61,7 +61,7 @@ eleventyComputed:
     <ul class="liste-liens">
       {% for c in annuaire.categories %}
         {% if c.slug != p.categorie.slug %}
-        <li><a href="/{{ c.slug }}/">{{ c.pluriel }}</a> <span class="doux">({{ c.nombre }})</span></li>
+        <li><a href="{{ ("/" + (c.slug) + "/") | url }}">{{ c.pluriel }}</a> <span class="doux">({{ c.nombre }})</span></li>
         {% endif %}
       {% endfor %}
     </ul>

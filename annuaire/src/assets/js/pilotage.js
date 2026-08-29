@@ -79,7 +79,7 @@
               "</td><td>" + f.e +
               "</td><td>" + (f.p || "—") +
               "</td><td>" + (f.d || "jamais") +
-              '</td><td><a href="' + echapper(f.u) + '">' + echapper(f.u) + "</a></td></tr>"
+              '</td><td><a href="' + echapper(base + f.u) + '">' + echapper(f.u) + "</a></td></tr>"
             );
           })
           .join("")

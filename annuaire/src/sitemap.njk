@@ -9,13 +9,13 @@ eleventyExcludeFromCollections: true
     utile au pilotage d'un annuaire. -#}
 <sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <sitemap>
-    <loc>{{ site.url }}/sitemaps/pages.xml</loc>
+    <loc>{{ site.base }}/sitemaps/pages.xml</loc>
     <lastmod>{{ annuaire.stats.derniereMaj | isoDate }}</lastmod>
   </sitemap>
   {%- for c in annuaire.categories %}
   {%- if not c.vide %}
   <sitemap>
-    <loc>{{ site.url }}/sitemaps/{{ c.slug }}.xml</loc>
+    <loc>{{ site.base }}/sitemaps/{{ c.slug }}.xml</loc>
     <lastmod>{{ annuaire.stats.derniereMaj | isoDate }}</lastmod>
   </sitemap>
   {%- endif %}

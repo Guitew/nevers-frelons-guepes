@@ -4,9 +4,9 @@
 <div class="conteneur">
   <nav class="ariane" aria-label="Fil d'Ariane">
     <ol>
-      <li><a href="/">Accueil</a></li>
+      <li><a href="{{ "/" | url }}">Accueil</a></li>
       {% for etape in ariane %}
-      <li>{% if not loop.last %}<a href="{{ etape.url }}">{{ etape.titre }}</a>{% else %}<span aria-current="page">{{ etape.titre }}</span>{% endif %}</li>
+      <li>{% if not loop.last %}<a href="{{ etape.url | url }}">{{ etape.titre }}</a>{% else %}<span aria-current="page">{{ etape.titre }}</span>{% endif %}</li>
       {% endfor %}
     </ol>
   </nav>

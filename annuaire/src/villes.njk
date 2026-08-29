@@ -17,7 +17,7 @@ ariane:
   <div class="grille" style="margin-top:2rem;">
     {% for v in annuaire.villes %}
     <article class="carte">
-      <h2 class="carte__titre" style="font-size:1.05rem;"><a href="/villes/{{ v.slug }}/">{{ v.nom }}</a></h2>
+      <h2 class="carte__titre" style="font-size:1.05rem;"><a href="{{ ("/villes/" + (v.slug) + "/") | url }}">{{ v.nom }}</a></h2>
       <p class="carte__meta">{{ v.code_postal }}{% if v.departement %} · département {{ v.departement }}{% endif %}</p>
       <p class="carte__meta carte__pied">{{ v.nombre | nombreFr }} fiche{% if v.nombre > 1 %}s{% endif %} · {{ v.categories.length }} activité{% if v.categories.length > 1 %}s{% endif %}</p>
     </article>

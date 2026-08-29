@@ -36,7 +36,7 @@ marques de Google LLC ; ce site n'est ni édité ni approuvé par Google.
 
 Le dirigeant d'une entreprise référencée peut, à tout moment et sans avoir à motiver sa demande,
 obtenir la **rectification** ou le **retrait** de la page concernée, par
-[le formulaire de signalement](/signaler/) ou par courriel. Les demandes de retrait sont traitées
+[le formulaire de signalement]({{ "/signaler/" | url }}) ou par courriel. Les demandes de retrait sont traitées
 en priorité et prennent effet à la mise en ligne quotidienne suivante.
 
 Lorsqu'une fiche mentionne le nom d'une personne physique (entreprise individuelle, profession

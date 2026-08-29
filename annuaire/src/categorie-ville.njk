@@ -42,11 +42,11 @@ eleventyComputed:
     <ul class="liste-liens">
       {% for c in annuaire.couples %}
         {% if c.ville.slug == p.ville.slug and c.categorie.slug != p.categorie.slug %}
-        <li><a href="{{ c.url }}">{{ c.categorie.nom }} à {{ p.ville.nom }}</a> <span class="doux">({{ c.nombre }})</span></li>
+        <li><a href="{{ c.url | url }}">{{ c.categorie.nom }} à {{ p.ville.nom }}</a> <span class="doux">({{ c.nombre }})</span></li>
         {% endif %}
       {% endfor %}
     </ul>
-    <p style="margin-top:1rem;"><a href="/villes/{{ p.ville.slug }}/">Toutes les entreprises de {{ p.ville.nom }}</a></p>
+    <p style="margin-top:1rem;"><a href="{{ ("/villes/" + (p.ville.slug) + "/") | url }}">Toutes les entreprises de {{ p.ville.nom }}</a></p>
   </section>
 </div>
 

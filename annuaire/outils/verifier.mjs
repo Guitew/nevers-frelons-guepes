@@ -54,6 +54,18 @@ function ajouter(map, cle, valeur) {
 const pages = parcourir(SORTIE, ".html");
 const urlDe = (p) => "/" + path.relative(SORTIE, p).replace(/index\.html$/, "");
 
+/**
+ * Retire le préfixe du sous-dossier d'un lien.
+ * Les fichiers sont compilés sans préfixe dans _site ; les liens des pages,
+ * eux, le portent, puisqu'ils doivent fonctionner une fois déposés dans
+ * {{site.base}}. C'est la traduction entre les deux.
+ */
+function sansPrefixe(lien) {
+  if (!site.chemin) return lien;
+  if (lien === site.chemin) return "/";
+  return lien.startsWith(site.chemin + "/") ? lien.slice(site.chemin.length) : lien;
+}
+
 // --- Fichiers indispensables
 for (const attendu of [".htaccess", "sitemap.xml", "sitemaps/pages.xml", "robots.txt", "llms.txt", "404.html", "410.html", "flux.xml"]) {
   if (!fs.existsSync(path.join(SORTIE, attendu))) anomalies.push(`Fichier manquant : /${attendu}`);
@@ -81,7 +93,7 @@ for (const p of pages) {
   if (indexable) {
     if (titre) ajouter(titres, titre, url);
     if (desc) ajouter(descriptions, desc, url);
-    if (canonique !== site.url + url) {
+    if (canonique !== site.base + url) {
       anomalies.push(`Canonique incohérente : ${url} → ${canonique || "absente"}`);
     }
   }
@@ -95,7 +107,13 @@ for (const p of pages) {
   }
 
   for (const m of html.matchAll(/href="(\/[^"#?]*)"/g)) {
-    const cible = m[1];
+    // Un lien qui ne porte pas le préfixe pointerait hors du site une fois
+    // en ligne : c'est une anomalie, pas un chemin à résoudre.
+    if (site.chemin && !m[1].startsWith(site.chemin + "/") && m[1] !== site.chemin) {
+      anomalies.push(`Lien sans le préfixe « ${site.chemin} » : ${m[1]} ← ${url}`);
+      continue;
+    }
+    const cible = sansPrefixe(m[1]);
     if (cible.startsWith("/assets/") || horsLigne.has(cible)) continue;
     const existe = [
       path.join(SORTIE, cible),
@@ -129,7 +147,7 @@ if (!declares.length) anomalies.push("L'index de sitemaps ne référence aucun s
 
 let urlsDeclarees = 0;
 for (const url of declares) {
-  const relatif = url.replace(site.url, "");
+  const relatif = sansPrefixe(url.replace(site.base, ""));
   const fichier = path.join(SORTIE, relatif);
   if (!fs.existsSync(fichier)) {
     anomalies.push(`Sitemap déclaré mais absent : ${relatif}`);
@@ -138,7 +156,7 @@ for (const url of declares) {
   const contenu = fs.readFileSync(fichier, "utf8");
   for (const m of contenu.matchAll(/<loc>([^<]+)<\/loc>/g)) {
     urlsDeclarees++;
-    const chemin = m[1].replace(site.url, "");
+    const chemin = sansPrefixe(m[1].replace(site.base, ""));
     const page = path.join(SORTIE, chemin, "index.html");
     if (!fs.existsSync(page)) {
       anomalies.push(`URL au sitemap sans page compilée : ${chemin} (${relatif})`);
@@ -152,7 +170,7 @@ for (const url of declares) {
 const htaccess = fs.readFileSync(path.join(SORTIE, ".htaccess"), "utf8");
 for (const fiche of lireFiches().filter((f) => f.statut === ETATS.RETIREE)) {
   const url = urlFiche(fiche);
-  const attendu = `RedirectMatch ${fiche.retrait.mode} ^${url}`;
+  const attendu = `RedirectMatch ${fiche.retrait.mode} ^${site.chemin}${url}`;
   if (!htaccess.includes(attendu)) anomalies.push(`Règle ${fiche.retrait.mode} absente du .htaccess : ${url}`);
   if (fs.existsSync(path.join(SORTIE, url, "index.html"))) {
     anomalies.push(`Fiche retirée encore compilée : ${url}`);

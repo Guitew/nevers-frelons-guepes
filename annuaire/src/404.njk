@@ -14,9 +14,9 @@ eleventyExcludeFromCollections: true
     <p>L'adresse demandée est peut-être erronée, ou la fiche a changé d'adresse.
     Vous pouvez repartir de l'accueil ou chercher directement l'entreprise.</p>
     <p style="display:flex;gap:.6rem;justify-content:center;flex-wrap:wrap;">
-      <a class="bouton" href="/">Accueil</a>
-      <a class="bouton bouton--secondaire" href="/recherche/">Rechercher</a>
-      <a class="bouton bouton--secondaire" href="/categories/">Catégories</a>
+      <a class="bouton" href="{{ "/" | url }}">Accueil</a>
+      <a class="bouton bouton--secondaire" href="{{ "/recherche/" | url }}">Rechercher</a>
+      <a class="bouton bouton--secondaire" href="{{ "/categories/" | url }}">Catégories</a>
     </p>
   </div>
 </div>

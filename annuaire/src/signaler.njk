@@ -18,7 +18,7 @@ ariane:
       <p>
         <label for="url"><strong>Adresse de la fiche concernée</strong></label><br>
         <input class="recherche" style="width:100%;display:block;padding:.7rem .9rem;" type="url" id="url" name="url"
-               placeholder="{{ site.url }}/categorie/commune/entreprise/" required>
+               placeholder="{{ site.base }}/categorie/commune/entreprise/" required>
       </p>
       <p>
         <label for="motif"><strong>Votre demande</strong></label><br>
@@ -61,12 +61,12 @@ ariane:
       "Fiche concernée : " + url + "\n" +
       "Demande : " + motif + "\n\n" +
       (details ? "Précisions :\n" + details + "\n\n" : "") +
-      "— message préparé depuis {{ site.url }}/signaler/";
+      "— message préparé depuis {{ site.base }}/signaler/";
     window.location.href =
       "mailto:{{ site.email }}?subject=" + encodeURIComponent("[Annuaire] " + motif) +
       "&body=" + encodeURIComponent(corps);
   });
   // Préremplit l'adresse quand on arrive depuis une fiche (?fiche=/…/).
   var depuis = new URLSearchParams(location.search).get("fiche");
-  if (depuis) document.getElementById("url").value = "{{ site.url }}" + depuis;
+  if (depuis) document.getElementById("url").value = "{{ site.base }}" + depuis;
 </script>

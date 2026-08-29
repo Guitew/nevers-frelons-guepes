@@ -15,33 +15,33 @@ ariane:
 
   <h2>Le projet</h2>
   <ul class="liste-liens">
-    <li><a href="/">Accueil</a></li>
-    <li><a href="/a-propos/">Comment ça marche</a></li>
-    <li><a href="/entreprises/">Vous dirigez une entreprise</a></li>
-    <li><a href="/signaler/">Corriger ou retirer une fiche</a></li>
-    <li><a href="/mentions-legales/">Mentions légales</a></li>
-    <li><a href="/nouveautes/">Nouveautés</a></li>
-    <li><a href="/recherche/">Recherche</a></li>
+    <li><a href="{{ "/" | url }}">Accueil</a></li>
+    <li><a href="{{ "/a-propos/" | url }}">Comment ça marche</a></li>
+    <li><a href="{{ "/entreprises/" | url }}">Vous dirigez une entreprise</a></li>
+    <li><a href="{{ "/signaler/" | url }}">Corriger ou retirer une fiche</a></li>
+    <li><a href="{{ "/mentions-legales/" | url }}">Mentions légales</a></li>
+    <li><a href="{{ "/nouveautes/" | url }}">Nouveautés</a></li>
+    <li><a href="{{ "/recherche/" | url }}">Recherche</a></li>
   </ul>
 
   <h2>Catégories</h2>
   <ul class="liste-liens">
     {% for c in annuaire.categories %}
-    <li><a href="/{{ c.slug }}/">{{ c.pluriel }}</a> <span class="doux">({{ c.nombre }})</span></li>
+    <li><a href="{{ ("/" + (c.slug) + "/") | url }}">{{ c.pluriel }}</a> <span class="doux">({{ c.nombre }})</span></li>
     {% endfor %}
   </ul>
 
   <h2>Communes</h2>
   <ul class="liste-liens">
     {% for v in annuaire.villes %}
-    <li><a href="/villes/{{ v.slug }}/">{{ v.nom }}</a> <span class="doux">({{ v.nombre }})</span></li>
+    <li><a href="{{ ("/villes/" + (v.slug) + "/") | url }}">{{ v.nom }}</a> <span class="doux">({{ v.nombre }})</span></li>
     {% endfor %}
   </ul>
 
   <h2>Activités par commune</h2>
   <ul class="liste-liens">
     {% for c in annuaire.couples %}
-    <li><a href="{{ c.url }}">{{ c.categorie.nom }} à {{ c.ville.nom }}</a> <span class="doux">({{ c.nombre }})</span></li>
+    <li><a href="{{ c.url | url }}">{{ c.categorie.nom }} à {{ c.ville.nom }}</a> <span class="doux">({{ c.nombre }})</span></li>
     {% endfor %}
   </ul>
 </div>

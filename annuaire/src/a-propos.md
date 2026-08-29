@@ -68,12 +68,12 @@ Le site est entièrement statique : du HTML, du CSS, quelques kilooctets de Java
 Pas de rendu côté client, pas de mur de cookies, pas de traceur. Chaque page fournit :
 
 - des données structurées [schema.org](https://schema.org/LocalBusiness) (entreprise, fil d'Ariane, questions fréquentes) ;
-- un [fichier `llms.txt`](/llms.txt) décrivant le site aux robots des modèles de langage ;
+- un [fichier `llms.txt`]({{ "/llms.txt" | url }}) décrivant le site aux robots des modèles de langage ;
 - une **version Markdown** de chaque fiche, accessible en ajoutant `index.md` à son adresse ;
-- un [sitemap](/sitemap.xml) et un [flux Atom](/flux.xml) tenus à jour à chaque publication.
+- un [sitemap]({{ "/sitemap.xml" | url }}) et un [flux Atom]({{ "/flux.xml" | url }}) tenus à jour à chaque publication.
 
 ## Vous dirigez une entreprise référencée
 
 Vous restez maître de votre fiche. Consultez la page
-[« Vous dirigez une entreprise »](/entreprises/) ou demandez directement une
-[correction ou un retrait](/signaler/).
+[« Vous dirigez une entreprise »]({{ "/entreprises/" | url }}) ou demandez directement une
+[correction ou un retrait]({{ "/signaler/" | url }}).

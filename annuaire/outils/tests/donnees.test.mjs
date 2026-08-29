@@ -10,7 +10,7 @@ import { analyser, analyserHoraires, normaliser as normaliserCsv } from "../lib/
 import { normaliser as normaliserPlaces } from "../lib/fournisseurs/google-places.mjs";
 import { slugifier, telephoneLisible, telephoneLien, tronquer } from "../lib/texte.mjs";
 import { slugDisponible } from "../lib/fiches.mjs";
-import { estNotreUrl, estNotreDomaine } from "../lib/site.mjs";
+import site, { estNotreUrl, estNotreDomaine } from "../lib/site.mjs";
 
 test("le type principal Google prime sur tout", () => {
   assert.equal(classer({ typePrincipal: "bakery", libelle: "Garage" }), "boulangeries-patisseries");
@@ -113,9 +113,9 @@ test("le CSV marque les fiches de démonstration", () => {
 test("la comparaison de backlink ignore protocole, www et barre finale", () => {
   const chemin = "/boulangeries-patisseries/nevers/le-fournil/";
   for (const variante of [
-    "https://vitrine-locale.fr/boulangeries-patisseries/nevers/le-fournil/",
-    "http://www.vitrine-locale.fr/boulangeries-patisseries/nevers/le-fournil",
-    "https://vitrine-locale.fr/boulangeries-patisseries/nevers/le-fournil/?utm_source=gmb",
+    `${site.base}/boulangeries-patisseries/nevers/le-fournil/`,
+    `${site.base.replace("https://", "http://www.")}/boulangeries-patisseries/nevers/le-fournil`,
+    `${site.base}/boulangeries-patisseries/nevers/le-fournil/?utm_source=gmb`,
   ]) {
     assert.equal(estNotreUrl(variante, chemin), true, variante);
   }
@@ -123,10 +123,20 @@ test("la comparaison de backlink ignore protocole, www et barre finale", () => {
   assert.equal(estNotreUrl("", chemin), false);
 });
 
-test("une autre page de notre domaine n'est pas le bon backlink", () => {
+test("une autre page de notre site n'est pas le bon backlink", () => {
   const chemin = "/boulangeries-patisseries/nevers/le-fournil/";
-  const autre = "https://vitrine-locale.fr/restaurants/nevers/le-bistrot/";
+  const autre = `${site.base}/restaurants/nevers/le-bistrot/`;
   assert.equal(estNotreUrl(autre, chemin), false);
   assert.equal(estNotreDomaine(autre), true);
-  assert.equal(estNotreDomaine("https://vitrine-locale.fr.exemple.com/"), false);
+  assert.equal(estNotreDomaine(`${site.base}.exemple.com/`), false);
+});
+
+test("le site vit dans un sous-dossier : le domaine seul ne suffit pas", () => {
+  // Un lien vers la racine du domaine, ou vers un autre dossier du même
+  // domaine, n'est pas un backlink vers notre annuaire.
+  const chemin = "/restaurants/nevers/le-bistrot/";
+  assert.equal(estNotreUrl(`${site.url}${chemin}`, chemin), site.chemin === "");
+  assert.equal(estNotreDomaine(`${site.url}/`), site.chemin === "");
+  assert.equal(estNotreDomaine(`${site.url}/un-autre-projet/`), false);
+  assert.equal(estNotreDomaine(`${site.base}/categories/`), true);
 });

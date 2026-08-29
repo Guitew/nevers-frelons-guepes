@@ -21,7 +21,7 @@ export default class {
     const jour = (v) => (v ? String(v).slice(0, 10) : null);
     return JSON.stringify({
       genere_le: new Date().toISOString().slice(0, 10),
-      base: site.url,
+      base: site.base,
       fiches: annuaire.toutes.map((f) => ({
         n: f.nom,
         c: f.categorie_nom,

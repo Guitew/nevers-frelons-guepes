@@ -1,6 +1,7 @@
 import { slugifier, dateLisible, telephoneLisible, telephoneLien, tronquer, aujourdhui } from "./outils/lib/texte.mjs";
 import { heureLisible, journeeLisible, resumeHoraires, JOURS } from "./outils/lib/redaction.mjs";
 import { pilotage } from "./outils/lib/pilotage.mjs";
+import site from "./outils/lib/site.mjs";
 import { schemaFiche, schemaFil, schemaFaq, schemaListe, schemaSite } from "./outils/lib/schema.mjs";
 
 export default function (eleventyConfig) {
@@ -66,6 +67,11 @@ export default function (eleventyConfig) {
   );
 
   return {
+    // Le site est publié dans un sous-dossier du domaine. « pathPrefix »
+    // préfixe tous les liens passés au filtre « url » ; les fichiers, eux,
+    // restent écrits sans préfixe dans _site, qui est déposé tel quel dans
+    // le dossier cible de l'hébergement.
+    pathPrefix: site.prefixe,
     dir: { input: "src", output: "_site", includes: "_includes", data: "_data" },
     markdownTemplateEngine: "njk",
     htmlTemplateEngine: "njk",

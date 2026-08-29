@@ -31,7 +31,7 @@ gratuite et sans condition. Deux voies possibles :
 
 - **Corrigez votre fiche Google.** C'est la source : la correction sera reprise ici lors du prochain
   relevé, sans démarche supplémentaire de votre part.
-- **Écrivez-nous** via le [formulaire de signalement](/signaler/) pour tout ce qui ne dépend pas de
+- **Écrivez-nous** via le [formulaire de signalement]({{ "/signaler/" | url }}) pour tout ce qui ne dépend pas de
   Google — texte de présentation, mention particulière, erreur de catégorie.
 
 ## En demander le retrait
@@ -40,7 +40,7 @@ Vous pouvez demander la suppression de votre page **sans avoir à vous justifier
 sous quelques jours ouvrés. L'adresse renvoie alors un code « 410 Gone », qui demande explicitement
 aux moteurs de recherche de la retirer de leur index.
 
-**[Demander une correction ou un retrait](/signaler/)**
+**[Demander une correction ou un retrait]({{ "/signaler/" | url }})**
 
 ## Ce que cette page ne fait pas
 

@@ -13,35 +13,35 @@
       <div>
         <h2>Explorer</h2>
         <ul>
-          <li><a href="/categories/">Toutes les catégories</a></li>
-          <li><a href="/villes/">Toutes les communes</a></li>
-          <li><a href="/nouveautes/">Fiches du jour</a></li>
-          <li><a href="/recherche/">Rechercher</a></li>
-          <li><a href="/plan-du-site/">Plan du site</a></li>
+          <li><a href="{{ "/categories/" | url }}">Toutes les catégories</a></li>
+          <li><a href="{{ "/villes/" | url }}">Toutes les communes</a></li>
+          <li><a href="{{ "/nouveautes/" | url }}">Fiches du jour</a></li>
+          <li><a href="{{ "/recherche/" | url }}">Rechercher</a></li>
+          <li><a href="{{ "/plan-du-site/" | url }}">Plan du site</a></li>
         </ul>
       </div>
       <div>
         <h2>Catégories principales</h2>
         <ul>
           {% for c in annuaire.categories | limite(6) %}
-          <li><a href="/{{ c.slug }}/">{{ c.pluriel }}</a></li>
+          <li><a href="{{ ("/" + (c.slug) + "/") | url }}">{{ c.pluriel }}</a></li>
           {% endfor %}
         </ul>
       </div>
       <div>
         <h2>Le projet</h2>
         <ul>
-          <li><a href="/a-propos/">Comment ça marche</a></li>
-          <li><a href="/entreprises/">Vous dirigez une entreprise</a></li>
-          <li><a href="/signaler/">Corriger ou retirer une fiche</a></li>
-          <li><a href="/mentions-legales/">Mentions légales</a></li>
-          <li><a href="/llms.txt">llms.txt</a></li>
+          <li><a href="{{ "/a-propos/" | url }}">Comment ça marche</a></li>
+          <li><a href="{{ "/entreprises/" | url }}">Vous dirigez une entreprise</a></li>
+          <li><a href="{{ "/signaler/" | url }}">Corriger ou retirer une fiche</a></li>
+          <li><a href="{{ "/mentions-legales/" | url }}">Mentions légales</a></li>
+          <li><a href="{{ "/llms.txt" | url }}">llms.txt</a></li>
         </ul>
       </div>
     </div>
     <div class="pied__bas">
       <p style="margin:0;">© {{ "" | annee }} {{ site.organisme }}. Données issues des fiches publiques Google Business Profile, datées de leur relevé.</p>
-      <p style="margin:0;"><a href="/flux.xml">Flux Atom</a></p>
+      <p style="margin:0;"><a href="{{ "/flux.xml" | url }}">Flux Atom</a></p>
     </div>
   </div>
 </footer>

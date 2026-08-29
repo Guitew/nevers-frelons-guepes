@@ -107,11 +107,21 @@ la seule barrière qui la voie.
 | `backlinks.joursConservation410` | durée de vie d'une règle 410 avant purge (180 j) |
 | `backlinks.joursConservation301` | durée de vie d'une règle 301 avant purge (365 j) |
 
-### `donnees/site.json` — l'identité du site
+### `donnees/site.json` — l'identité et l'adresse du site
 
-Nom, domaine, adresse de contact, chemin de la zone privée (`cheminPrive`). **À renseigner avant
-la mise en ligne** : le domaine sert aux URL canoniques, au sitemap et à la comparaison des
-backlinks.
+```json
+"url":    "https://andpro.fr",      ← le domaine
+"chemin": "/vitrine-locale",        ← le sous-dossier ; "" pour la racine
+```
+
+Le site est publié dans un **sous-dossier** : `https://andpro.fr/vitrine-locale/`. Ces deux clés
+gouvernent tout — liens internes, URL canoniques, données structurées, sitemaps, règles du
+`.htaccess` et comparaison des backlinks. Les changer suffit à déménager le site ; rien d'autre
+n'est à toucher.
+
+Une conséquence à connaître : un `robots.txt` déposé dans un sous-dossier **n'est pas lu** par les
+robots. Le fichier produit sert de source à recopier dans `andpro.fr/robots.txt` — voir
+[DEPLOIEMENT.md](./DEPLOIEMENT.md).
 
 ### `donnees/categories.json` — la taxonomie
 
@@ -310,12 +320,14 @@ Voir [DEPLOIEMENT.md](./DEPLOIEMENT.md).
 
 ## Avant la mise en service
 
-- [ ] renseigner `donnees/site.json` (nom, domaine, courriel) ;
+- [ ] vérifier `donnees/site.json` (`url` + `chemin` = https://andpro.fr/vitrine-locale, courriel) ;
+- [ ] reporter les lignes de `_site/robots.txt` dans le `robots.txt` à la racine d'andpro.fr ;
 - [ ] compléter l'éditeur et l'hébergeur dans `src/mentions-legales.md` ;
 - [ ] définir les zones de collecte dans `config.json` ;
 - [ ] créer la clé Google Places et le secret `GOOGLE_PLACES_API_KEY` ;
 - [ ] générer une clé IndexNow (32 caractères hexadécimaux) et le secret `INDEXNOW_KEY` ;
 - [ ] créer le `.htpasswd` de la zone privée et le secret `CHEMIN_HTPASSWD` ;
 - [ ] vider `donnees/fiches/` des fiches de démonstration ;
-- [ ] déclarer le site dans la Search Console et y coller le code de vérification
+- [ ] déclarer le site dans la Search Console en propriété **« préfixe d'URL »** sur
+      `https://andpro.fr/vitrine-locale/`, et coller le code de vérification
       (`site.json` → `verifGoogle`).

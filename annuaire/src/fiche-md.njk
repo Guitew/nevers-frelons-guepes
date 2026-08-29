@@ -23,7 +23,7 @@ eleventyExcludeFromCollections: true
 - **Note Google** : {{ f.note | noteFr | safe }}/5 ({{ f.avis | safe }} avis, relevé du {{ f.dates.maj | dateFr | safe }})
 {%- endif %}
 - **Site web déclaré sur la fiche Google** : aucun
-- **Page de référence** : {{ site.url | safe }}{{ f.url | safe }}
+- **Page de référence** : {{ site.base | safe }}{{ f.url | safe }}
 - **Dernier relevé** : {{ f.dates.maj | dateFr | safe }}
 
 {{ f.redaction.chapo | safe }}
@@ -55,4 +55,4 @@ eleventyExcludeFromCollections: true
 ---
 
 Source des données : fiche publique Google Business Profile, relevée le {{ f.dates.maj | dateFr | safe }}.
-Correction ou retrait : {{ site.url | safe }}/signaler/
+Correction ou retrait : {{ site.base | safe }}/signaler/

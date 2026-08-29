@@ -2,41 +2,49 @@
 permalink: /robots.txt
 eleventyExcludeFromCollections: true
 ---
+{%- set p = site.chemin | safe -%}
 # {{ site.nom | safe }}
+#
+# ATTENTION — ce fichier est déposé dans {{ site.base | safe }}/robots.txt,
+# où les robots ne le lisent PAS : seul {{ site.url | safe }}/robots.txt fait foi.
+# Les lignes ci-dessous sont donc à REPORTER dans le robots.txt à la racine
+# du domaine. Elles sont déjà écrites avec le préfixe « {{ p }} » et
+# peuvent être ajoutées telles quelles à côté des règles existantes.
+#
 # Ce site a vocation à être exploré : par les moteurs de recherche comme par
 # les robots des modèles de langage. L'accès est donc ouvert par défaut.
 
 User-agent: *
-Allow: /
-Disallow: /recherche/
-Disallow: /index-recherche.json
+Allow: {{ p }}/
+Disallow: {{ p }}/recherche/
+Disallow: {{ p }}/index-recherche.json
 
 # --- Robots de modèles de langage : accès explicitement autorisé ---
 User-agent: GPTBot
-Allow: /
+Allow: {{ p }}/
 
 User-agent: OAI-SearchBot
-Allow: /
+Allow: {{ p }}/
 
 User-agent: ChatGPT-User
-Allow: /
+Allow: {{ p }}/
 
 User-agent: ClaudeBot
-Allow: /
+Allow: {{ p }}/
 
 User-agent: Claude-SearchBot
-Allow: /
+Allow: {{ p }}/
 
 User-agent: PerplexityBot
-Allow: /
+Allow: {{ p }}/
 
 User-agent: Google-Extended
-Allow: /
+Allow: {{ p }}/
 
 User-agent: Applebot-Extended
-Allow: /
+Allow: {{ p }}/
 
 User-agent: CCBot
-Allow: /
+Allow: {{ p }}/
 
-Sitemap: {{ site.url | safe }}/sitemap.xml
+Sitemap: {{ site.base | safe }}/sitemap.xml

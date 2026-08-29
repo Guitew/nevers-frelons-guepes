@@ -58,7 +58,7 @@ function selectionner(seuil) {
   const aSupprimer = [];
   for (const f of fiches) {
     if (f.exemple) continue; // les fiches de démonstration ne sont pas indexables
-    const url = site.url + urlFiche(f);
+    const url = site.base + urlFiche(f);
     if (f.statut === ETATS.PUBLIEE && (f.dates?.maj || "") >= seuil) aIndexer.push(url);
     else if (f.statut === ETATS.RETIREE && (f.retrait?.date || "") >= seuil) aSupprimer.push(url);
   }
@@ -72,6 +72,7 @@ async function indexnow(urls) {
     console.warn("  ⚠︎ INDEXNOW_KEY absente : envoi IndexNow ignoré.");
     return 0;
   }
+  // « host » est le domaine nu : IndexNow n'accepte pas de chemin ici.
   const hote = site.url.replace(/^https?:\/\//, "").replace(/\/$/, "");
   let envoyees = 0;
   for (let i = 0; i < urls.length; i += config.indexation.urlsParEnvoi) {
@@ -79,7 +80,7 @@ async function indexnow(urls) {
     const corps = {
       host: hote,
       key: cle,
-      keyLocation: `${site.url}/${cle}.txt`,
+      keyLocation: `${site.base}/${cle}.txt`,
       urlList: lot,
     };
     if (essai) {
@@ -190,7 +191,7 @@ async function principal() {
 
   console.log(`\n${total} soumission(s)${essai ? " simulée(s)" : ""}.`);
   console.log(
-    `Rappel : le sitemap ${site.url}/sitemap.xml et la page ${site.url}/nouveautes/ ` +
+    `Rappel : le sitemap ${site.base}/sitemap.xml et la page ${site.base}/nouveautes/ ` +
       "restent les principaux vecteurs de découverte pour Google."
   );
   console.log(

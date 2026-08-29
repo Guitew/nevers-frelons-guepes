@@ -9,6 +9,7 @@
   var resume = document.getElementById("resume-recherche");
   if (!champ || !sortie) return;
 
+  var racine = window.RACINE || "/";
   var index = [];
   var MAXIMUM = 60;
 
@@ -46,7 +47,7 @@
     sortie.innerHTML = resultats
       .map(function (e) {
         return (
-          '<li class="resultat"><a href="' + e.u + '">' + echapper(e.n) + "</a>" +
+          '<li class="resultat"><a href="' + racine.replace(/\/$/, "") + e.u + '">' + echapper(e.n) + "</a>" +
           "<p>" + echapper(e.c) + " — " + echapper(e.a ? e.a + ", " + e.v : e.v) + "</p></li>"
         );
       })
@@ -64,7 +65,7 @@
     }, 120);
   }
 
-  fetch("/index-recherche.json")
+  fetch(racine + "index-recherche.json")
     .then(function (r) { return r.json(); })
     .then(function (donnees) {
       index = donnees.map(function (e) {

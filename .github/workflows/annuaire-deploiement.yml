@@ -58,7 +58,9 @@ jobs:
           password: ${{ secrets.FTP_PASSWORD_ANNUAIRE }}
           protocol: ftps
           local-dir: ./annuaire/_site/
-          server-dir: ./vitrine-locale.fr/
+          # Le site occupe un SOUS-DOSSIER du domaine : le contenu de _site
+          # est déposé dans andpro.fr/vitrine-locale/, pas à la racine.
+          server-dir: ./andpro.fr/vitrine-locale/
           dangerous-clean-slate: false
           exclude: |
             **/.git*

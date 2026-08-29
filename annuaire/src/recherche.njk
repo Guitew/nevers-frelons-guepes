@@ -23,7 +23,7 @@ ariane:
     <p id="resume-recherche" class="doux" style="margin-top:1rem;" aria-live="polite"></p>
     <ul class="resultats" id="resultats"></ul>
     <noscript><p>La recherche instantanée nécessite JavaScript. Vous pouvez parcourir l'annuaire
-    par <a href="/categories/">catégorie</a> ou par <a href="/villes/">commune</a>.</p></noscript>
+    par <a href="{{ "/categories/" | url }}">catégorie</a> ou par <a href="{{ "/villes/" | url }}">commune</a>.</p></noscript>
   </div>
 </div>
-<script src="/assets/js/recherche.js" defer></script>
+<script src="{{ "/assets/js/recherche.js" | url }}" defer></script>

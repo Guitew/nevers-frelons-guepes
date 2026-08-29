@@ -12,7 +12,7 @@ ariane:
   <header class="contenu-texte">
     <h1>Les dernières fiches publiées</h1>
     <p class="fiche__chapo">{{ site.fichesParJour }} entreprises sans site internet rejoignent l'annuaire
-    chaque jour. Cette page — et le <a href="/flux.xml">flux Atom</a> — donnent l'état le plus frais du site.</p>
+    chaque jour. Cette page — et le <a href="{{ "/flux.xml" | url }}">flux Atom</a> — donnent l'état le plus frais du site.</p>
   </header>
 
   {% for jour in annuaire.nouveautesParJour %}

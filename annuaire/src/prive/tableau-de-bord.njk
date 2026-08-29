@@ -44,7 +44,7 @@ eleventyExcludeFromCollections: true
             <td>{{ f.nom }}<br><span class="doux">{{ f.ville }}</span></td>
             <td>{{ f.dates.publication | dateFr }}</td>
             <td>{{ f.age }}</td>
-            <td><code>{{ site.url }}{{ f.url }}</code></td>
+            <td><code>{{ site.base }}{{ f.url }}</code></td>
           </tr>
           {% endfor %}
         </tbody>
@@ -105,7 +105,7 @@ eleventyExcludeFromCollections: true
           <tr>
             <td>{{ e.date | dateFr }}</td>
             <td>{{ e.type }}</td>
-            <td>{% if e.url %}<a href="{{ e.url }}">{{ e.nom }}</a>{% else %}—{% endif %}</td>
+            <td>{% if e.url %}<a href="{{ e.url | url }}">{{ e.nom }}</a>{% else %}—{% endif %}</td>
             <td class="doux">{{ e.motif or e.precedent or e.categorie or "" }}</td>
           </tr>
           {% endfor %}
@@ -127,4 +127,4 @@ node outils/retraits.mjs --fiche=/categorie/commune/entreprise/ --mode=410 --mot
   </section>
 </div>
 
-<script src="/assets/js/pilotage.js" defer></script>
+<script src="{{ "/assets/js/pilotage.js" | url }}" defer></script>

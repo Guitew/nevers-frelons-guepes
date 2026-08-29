@@ -1,13 +1,13 @@
 {% if p.total > 1 %}
 <nav class="pagination" aria-label="Pagination">
-  {% if p.precedente %}<a href="{{ p.precedente }}" rel="prev">← Précédent</a>{% endif %}
+  {% if p.precedente %}<a href="{{ p.precedente | url }}" rel="prev">← Précédent</a>{% endif %}
   {% for n in range(1, p.total + 1) %}
     {% if n == p.numero %}
       <span aria-current="page">{{ n }}</span>
     {% else %}
-      <a href="{% if n == 1 %}{{ p.urlBase }}{% else %}{{ p.urlBase }}page-{{ n }}/{% endif %}">{{ n }}</a>
+      <a href="{% if n == 1 %}{{ p.urlBase | url }}{% else %}{{ (p.urlBase + "page-" + n + "/") | url }}{% endif %}">{{ n }}</a>
     {% endif %}
   {% endfor %}
-  {% if p.suivante %}<a href="{{ p.suivante }}" rel="next">Suivant →</a>{% endif %}
+  {% if p.suivante %}<a href="{{ p.suivante | url }}" rel="next">Suivant →</a>{% endif %}
 </nav>
 {% endif %}

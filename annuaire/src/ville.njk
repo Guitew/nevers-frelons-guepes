@@ -33,7 +33,7 @@ eleventyComputed:
     <div class="fiche__etiquettes">
       {% for c in annuaire.couples %}
         {% if c.ville.slug == p.ville.slug %}
-        <a class="etiquette" href="{{ c.url }}">{{ c.categorie.emoji }} {{ c.categorie.nom }} <span class="doux">{{ c.nombre }}</span></a>
+        <a class="etiquette" href="{{ c.url | url }}">{{ c.categorie.emoji }} {{ c.categorie.nom }} <span class="doux">{{ c.nombre }}</span></a>
         {% endif %}
       {% endfor %}
     </div>

@@ -37,8 +37,8 @@ eleventyComputed:
         <h1>{{ f.nom }}</h1>
         <p class="fiche__sous-titre">{{ f.categorie_emoji }} {{ f.categorie_nom }} à {{ f.ville }}{% if f.adresse.code_postal %} ({{ f.adresse.code_postal }}){% endif %}</p>
         <div class="fiche__etiquettes">
-          <a class="etiquette etiquette--accent" href="/{{ f.categorie }}/">{{ f.categorie_nom }}</a>
-          <a class="etiquette" href="/{{ f.categorie }}/{{ f.ville_slug }}/">{{ f.categorie_nom }} à {{ f.ville }}</a>
+          <a class="etiquette etiquette--accent" href="{{ ("/" + (f.categorie) + "/") | url }}">{{ f.categorie_nom }}</a>
+          <a class="etiquette" href="{{ ("/" + (f.categorie) + "/" + (f.ville_slug) + "/") | url }}">{{ f.categorie_nom }} à {{ f.ville }}</a>
           {% if f.note %}<span class="etiquette etiquette--note">★ {{ f.note | noteFr }} / 5 — {{ f.avis | nombreFr }} avis Google</span>{% endif %}
           {% set resume = f.horaires | resumeHoraires %}
           {% if resume %}<span class="etiquette">{{ resume | capitalize }}</span>{% endif %}
@@ -105,9 +105,9 @@ eleventyComputed:
         ne renvoyait vers aucun site internet. Vous pouvez en demander la correction, l'enrichissement
         ou le retrait pur et simple, sans avoir à vous justifier et sans frais.</p>
         <p>Pour l'utiliser comme site : ajoutez l'adresse
-        <code>{{ site.url }}{{ f.url }}</code> dans le champ « Site Web » de votre fiche Google.
+        <code>{{ site.base }}{{ f.url }}</code> dans le champ « Site Web » de votre fiche Google.
         Vos clients trouveront alors ces informations directement depuis la recherche et depuis Maps.</p>
-        <p style="margin-bottom:0;"><a class="bouton" href="/signaler/?fiche={{ f.url | urlencode }}">Corriger ou retirer cette fiche</a></p>
+        <p style="margin-bottom:0;"><a class="bouton" href="{{ "/signaler/?fiche=" + (f.url | urlencode) | url }}">Corriger ou retirer cette fiche</a></p>
       </div>
 
       {% set proches = annuaire.fiches | voisines(f, 6) %}

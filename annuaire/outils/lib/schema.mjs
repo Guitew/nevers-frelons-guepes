@@ -47,7 +47,7 @@ const TYPES = {
 
 /** Fiche entreprise → LocalBusiness. */
 export function schemaFiche(fiche) {
-  const url = site.url + fiche.url;
+  const url = site.base + fiche.url;
   const noeud = {
     "@context": "https://schema.org",
     "@type": TYPES[fiche.categorie] || "LocalBusiness",
@@ -102,7 +102,7 @@ export function schemaFil(ariane) {
       "@type": "ListItem",
       position: i + 1,
       name: e.titre,
-      item: site.url + e.url,
+      item: site.base + e.url,
     })),
   };
 }
@@ -126,10 +126,10 @@ export function schemaListe({ url, titre, description, fiches }) {
   return {
     "@context": "https://schema.org",
     "@type": "CollectionPage",
-    "@id": site.url + url,
+    "@id": site.base + url,
     name: titre,
     description,
-    isPartOf: { "@type": "WebSite", name: site.nomCourt, url: site.url },
+    isPartOf: { "@type": "WebSite", name: site.nomCourt, url: site.base },
     mainEntity: {
       "@type": "ItemList",
       numberOfItems: fiches.length,
@@ -137,7 +137,7 @@ export function schemaListe({ url, titre, description, fiches }) {
         "@type": "ListItem",
         position: i + 1,
         name: f.nom,
-        url: site.url + f.url,
+        url: site.base + f.url,
       })),
     },
   };
@@ -148,15 +148,15 @@ export function schemaSite() {
   return {
     "@context": "https://schema.org",
     "@type": "WebSite",
-    "@id": site.url + "/#site",
+    "@id": site.base + "/#site",
     name: site.nom,
     alternateName: site.nomCourt,
-    url: site.url,
+    url: site.base,
     description: site.description,
     inLanguage: "fr-FR",
     potentialAction: {
       "@type": "SearchAction",
-      target: { "@type": "EntryPoint", urlTemplate: `${site.url}/recherche/?q={search_term_string}` },
+      target: { "@type": "EntryPoint", urlTemplate: `${site.base}/recherche/?q={search_term_string}` },
       "query-input": "required name=search_term_string",
     },
   };
