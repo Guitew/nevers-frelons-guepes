@@ -1,0 +1,130 @@
+---
+permalink: "{{ site.cheminPrive }}index.html"
+layout: layouts/base.njk
+titre: "Pilotage de l'annuaire"
+meta_description: "Suivi interne des backlinks Google Business Profile et du cycle de vie des fiches."
+noindex: true
+eleventyExcludeFromCollections: true
+---
+{% set p = annuaire.toutes | pilotage %}
+<div class="conteneur" style="padding-block:2rem 4rem;">
+  <p class="etiquette etiquette--rouge">Zone privée — ne pas diffuser cette adresse</p>
+  <h1>Pilotage de l'annuaire</h1>
+  <p class="doux">Compilé le {{ "" | aujourdhui | dateFr }} · {{ annuaire.toutes.length | nombreFr }} fiches suivies.
+  Page protégée par mot de passe, exclue de l'indexation et absente du sitemap.</p>
+
+  <section>
+    <h2>Vue d'ensemble</h2>
+    <div class="tdb-mesures">
+      <div class="mesure"><div class="mesure__valeur">{{ p.publiees | nombreFr }}</div><div class="mesure__libelle">Fiches en ligne</div></div>
+      <div class="mesure"><div class="mesure__valeur">{{ p.present | nombreFr }}</div><div class="mesure__libelle">Backlinks actifs</div></div>
+      <div class="mesure"><div class="mesure__valeur">{{ p.tauxConversion }} %</div><div class="mesure__libelle">Taux de pose du lien</div></div>
+      <div class="mesure"><div class="mesure__valeur">{{ p.enAttente | nombreFr }}</div><div class="mesure__libelle">En attente de lien</div></div>
+      <div class="mesure"><div class="mesure__valeur">{{ p.menacees | nombreFr }}</div><div class="mesure__libelle">Lien perdu (sursis)</div></div>
+      <div class="mesure"><div class="mesure__valeur">{{ p.retirees301 | nombreFr }}</div><div class="mesure__libelle">Retraits 301</div></div>
+      <div class="mesure"><div class="mesure__valeur">{{ p.retirees410 | nombreFr }}</div><div class="mesure__libelle">Retraits 410</div></div>
+      <div class="mesure"><div class="mesure__valeur">{{ p.jamaisVerifiees | nombreFr }}</div><div class="mesure__libelle">Jamais vérifiées</div></div>
+    </div>
+  </section>
+
+  {% if p.aRelancer.length %}
+  <section>
+    <h2>Fin de délai de grâce ({{ p.aRelancer.length | nombreFr }})</h2>
+    <p class="doux">Publiées depuis longtemps sans que le lien ait jamais été posé. Sans réaction,
+    elles basculeront en retrait automatique. Les {{ 50 if p.aRelancer.length > 50 else p.aRelancer.length }}
+    plus anciennes sont listées ici{% if p.aRelancer.length > 50 %} ; les
+    {{ (p.aRelancer.length - 50) | nombreFr }} autres se retrouvent dans le tableau ci-dessous en
+    filtrant sur « en attente »{% endif %}.</p>
+    <div class="defilement">
+      <table class="tableau">
+        <thead><tr><th>Entreprise</th><th>Publiée le</th><th>Jours</th><th>URL à déclarer sur la fiche Google</th></tr></thead>
+        <tbody>
+          {% for f in p.aRelancer | limite(50) %}
+          <tr>
+            <td>{{ f.nom }}<br><span class="doux">{{ f.ville }}</span></td>
+            <td>{{ f.dates.publication | dateFr }}</td>
+            <td>{{ f.age }}</td>
+            <td><code>{{ site.base }}{{ f.url }}</code></td>
+          </tr>
+          {% endfor %}
+        </tbody>
+      </table>
+    </div>
+  </section>
+  {% endif %}
+
+  <section>
+    <h2>Toutes les fiches</h2>
+    <div class="filtres">
+      <label class="visuellement-cache" for="filtre-texte">Filtrer</label>
+      <input type="search" id="filtre-texte" placeholder="Nom, ville, catégorie…">
+      <label class="visuellement-cache" for="filtre-statut">Statut</label>
+      <select id="filtre-statut">
+        <option value="">Tous les statuts</option>
+        <option value="publiee">En ligne</option>
+        <option value="retiree">Retirées (règle active)</option>
+        <option value="archivee">Archivées (règle purgée)</option>
+      </select>
+      <label class="visuellement-cache" for="filtre-backlink">Backlink</label>
+      <select id="filtre-backlink">
+        <option value="">Tous les backlinks</option>
+        <option value="present">Présent</option>
+        <option value="en-attente">En attente</option>
+        <option value="absent">Absent</option>
+        <option value="externe">Externe</option>
+        <option value="introuvable">Introuvable</option>
+      </select>
+      <span class="doux" id="compte-lignes">chargement…</span>
+      <button class="bouton bouton--secondaire" type="button" id="copier-urls">Copier les URLs filtrées</button>
+      <button class="bouton bouton--secondaire" type="button" id="exporter-csv">Exporter en CSV</button>
+    </div>
+
+    <div class="defilement">
+      <table class="tableau" id="tableau-fiches">
+        <thead>
+          <tr>
+            <th>Entreprise</th><th>Catégorie</th><th>Commune</th><th>Statut</th>
+            <th>Backlink</th><th>Échecs</th><th>1re détection</th><th>Dernière vérif.</th><th>URL</th>
+          </tr>
+        </thead>
+        <tbody><tr><td colspan="9" class="doux">Chargement des données…</td></tr></tbody>
+      </table>
+    </div>
+    <nav class="pagination" id="pagination-fiches" aria-label="Pagination du tableau"></nav>
+    <noscript><p class="doux">Le tableau nécessite JavaScript. Les données brutes restent
+    consultables sur <code>donnees.json</code>, dans ce même dossier protégé.</p></noscript>
+  </section>
+
+  <section>
+    <h2>Journal ({{ annuaire.journal.length | nombreFr }} événements)</h2>
+    <div class="defilement">
+      <table class="tableau">
+        <thead><tr><th>Date</th><th>Événement</th><th>Fiche</th><th>Détail</th></tr></thead>
+        <tbody>
+          {% for e in annuaire.journal | limite(120) %}
+          <tr>
+            <td>{{ e.date | dateFr }}</td>
+            <td>{{ e.type }}</td>
+            <td>{% if e.url %}<a href="{{ e.url | url }}">{{ e.nom }}</a>{% else %}—{% endif %}</td>
+            <td class="doux">{{ e.motif or e.precedent or e.categorie or "" }}</td>
+          </tr>
+          {% endfor %}
+        </tbody>
+      </table>
+    </div>
+  </section>
+
+  <section>
+    <h2>Rappel des commandes</h2>
+    <pre style="overflow-x:auto;background:var(--fond-doux);padding:1rem;border-radius:var(--rayon);border:1px solid var(--bordure);"><code>npm run collecte      # {{ site.fichesParJour }} nouvelles entreprises sans site web
+npm run backlinks     # relit les fiches Google et met à jour l'état des liens
+npm run retraits      # applique les 301 / 410 (ajouter --essai pour simuler)
+npm run build         # régénère le site et le .htaccess
+npm run indexation    # soumet les URLs modifiées
+
+# retrait manuel immédiat (demande d'un dirigeant)
+node outils/retraits.mjs --fiche=/categorie/commune/entreprise/ --mode=410 --motif="demande du dirigeant"</code></pre>
+  </section>
+</div>
+
+<script src="{{ "/assets/js/pilotage.js" | url }}" defer></script>

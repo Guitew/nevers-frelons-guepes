@@ -1,0 +1,16 @@
+---
+pagination:
+  data: annuaire.categories
+  size: 1
+  alias: c
+permalink: "{% if c.vide %}false{% else %}/sitemaps/{{ c.slug }}.xml{% endif %}"
+eleventyExcludeFromCollections: true
+---
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  {%- for f in c.fiches %}
+  {%- if f.indexable %}
+  <url><loc>{{ site.base }}{{ f.url }}</loc><lastmod>{{ f.dates.maj | isoDate }}</lastmod><changefreq>monthly</changefreq><priority>0.9</priority></url>
+  {%- endif %}
+  {%- endfor %}
+</urlset>

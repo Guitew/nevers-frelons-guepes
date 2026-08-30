@@ -1,0 +1,28 @@
+---
+permalink: /sitemaps/pages.xml
+eleventyExcludeFromCollections: true
+---
+<?xml version="1.0" encoding="UTF-8"?>
+{#- Rubriques et pages de navigation. Les fiches sont réparties dans un
+    sitemap par catégorie (voir sitemap-categorie.njk). -#}
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  {%- set maj = annuaire.stats.derniereMaj | isoDate %}
+  <url><loc>{{ site.base }}/</loc><lastmod>{{ maj }}</lastmod><changefreq>daily</changefreq><priority>1.0</priority></url>
+  <url><loc>{{ site.base }}/categories/</loc><lastmod>{{ maj }}</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <url><loc>{{ site.base }}/villes/</loc><lastmod>{{ maj }}</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <url><loc>{{ site.base }}/nouveautes/</loc><lastmod>{{ maj }}</lastmod><changefreq>daily</changefreq><priority>0.8</priority></url>
+  <url><loc>{{ site.base }}/plan-du-site/</loc><lastmod>{{ maj }}</lastmod><changefreq>weekly</changefreq><priority>0.3</priority></url>
+  <url><loc>{{ site.base }}/a-propos/</loc><changefreq>monthly</changefreq><priority>0.4</priority></url>
+  <url><loc>{{ site.base }}/entreprises/</loc><changefreq>monthly</changefreq><priority>0.5</priority></url>
+  {%- for p in annuaire.pagesCategorie %}
+  {%- if not p.categorie.vide %}
+  <url><loc>{{ site.base }}{{ p.url }}</loc><lastmod>{{ maj }}</lastmod><changefreq>weekly</changefreq><priority>0.7</priority></url>
+  {%- endif %}
+  {%- endfor %}
+  {%- for p in annuaire.pagesCouple %}
+  <url><loc>{{ site.base }}{{ p.url }}</loc><lastmod>{{ maj }}</lastmod><changefreq>weekly</changefreq><priority>0.7</priority></url>
+  {%- endfor %}
+  {%- for p in annuaire.pagesVille %}
+  <url><loc>{{ site.base }}{{ p.url }}</loc><lastmod>{{ maj }}</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
+  {%- endfor %}
+</urlset>

@@ -1,0 +1,35 @@
+{
+  "_lisezmoi": "Configuration métier de l'annuaire. Les clés d'API ne sont JAMAIS stockées ici : elles arrivent par variables d'environnement (voir .env.exemple).",
+
+  "collecte": {
+    "fournisseur": "google-places",
+    "fichesParJour": 20,
+    "zones": [
+      { "libelle": "Nevers", "latitude": 46.9896, "longitude": 3.1572, "rayonMetres": 12000 },
+      { "libelle": "Varennes-Vauzelles", "latitude": 47.0233, "longitude": 3.1364, "rayonMetres": 6000 },
+      { "libelle": "Fourchambault", "latitude": 47.0161, "longitude": 3.0836, "rayonMetres": 6000 }
+    ],
+    "categoriesCiblees": [],
+    "mailleMetres": 800,
+    "appelsMaxParJour": 60,
+    "noteMinimale": 0,
+    "avisMinimum": 0,
+    "exclureFermes": true
+  },
+
+  "backlinks": {
+    "verificationsParJour": 200,
+    "delaiDeGraceJours": 45,
+    "echecsAvantRetrait": 2,
+    "modeRetraitParDefaut": "301",
+    "modeRetraitSiJamaisLie": "410",
+    "joursConservation410": 180,
+    "joursConservation301": 365
+  },
+
+  "indexation": {
+    "indexnow": true,
+    "googleIndexingApi": false,
+    "urlsParEnvoi": 100
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "name": "annuaire-sans-site",
+  "version": "1.0.0",
+  "type": "module",
+  "private": true,
+  "description": "Annuaire nouvelle génération des entreprises locales sans site web déclaré sur leur fiche Google Business Profile.",
+  "license": "MIT",
+  "scripts": {
+    "start": "eleventy --serve --quiet",
+    "dev": "eleventy --serve",
+    "build": "eleventy",
+    "clean": "rm -rf _site",
+    "collecte": "node outils/collecte.mjs",
+    "backlinks": "node outils/backlinks.mjs",
+    "retraits": "node outils/retraits.mjs",
+    "indexation": "node outils/indexation.mjs",
+    "etat": "node outils/etat.mjs",
+    "quotidien": "npm run collecte && npm run backlinks && npm run retraits",
+    "verifier": "node outils/verifier.mjs",
+    "controle": "npm test && npm run build && npm run verifier",
+    "test": "node --test \"outils/tests/*.test.mjs\""
+  },
+  "devDependencies": {
+    "@11ty/eleventy": "^3.1.0"
+  }
+}

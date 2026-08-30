@@ -1,0 +1,11 @@
+---
+layout: layouts/base.njk
+---
+{% include "partials/ariane.njk" %}
+<div class="conteneur">
+  <article class="contenu-texte" style="padding-block: 1.5rem 3rem;">
+    <h1>{{ titre }}</h1>
+    {% if chapo %}<p class="fiche__chapo">{{ chapo }}</p>{% endif %}
+    {{ content | safe }}
+  </article>
+</div>

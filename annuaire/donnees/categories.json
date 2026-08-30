@@ -1,0 +1,265 @@
+{
+  "_lisezmoi": "Catégories du site et correspondance avec les types de catégories Google Business Profile. Le champ « gmb » liste les identifiants de types renvoyés par l'API Places ; « motscles » sert de repêchage sur le libellé de catégorie principale de la fiche GMB.",
+  "categories": [
+    {
+      "slug": "restaurants",
+      "nom": "Restaurant",
+      "pluriel": "Restaurants",
+      "emoji": "🍽️",
+      "resume": "Tables, brasseries, pizzerias et restauration à emporter du territoire.",
+      "description": "Les restaurants figurent parmi les commerces les plus recherchés en ligne, et pourtant beaucoup n'exposent qu'une fiche Google sans site. Retrouver ici leur carte d'identité complète — adresse, horaires, téléphone, spécialités — aide les clients à réserver et aide l'établissement à exister ailleurs que sur une plateforme d'avis.",
+      "gmb": ["restaurant", "meal_takeaway", "meal_delivery", "fast_food_restaurant", "pizza_restaurant", "french_restaurant", "italian_restaurant", "asian_restaurant", "hamburger_restaurant", "sandwich_shop"],
+      "motscles": ["restaurant", "brasserie", "pizzeria", "traiteur", "creperie", "kebab", "bistrot"]
+    },
+    {
+      "slug": "boulangeries-patisseries",
+      "nom": "Boulangerie-pâtisserie",
+      "pluriel": "Boulangeries et pâtisseries",
+      "emoji": "🥖",
+      "resume": "Artisans boulangers, pâtissiers et chocolatiers de proximité.",
+      "description": "L'artisanat de bouche vit du passage et du bouche-à-oreille : le site web passe souvent après le fournil. Les informations pratiques — jour de fermeture, heure de sortie du pain, spécialités — sont pourtant ce que les habitants cherchent le plus souvent depuis leur téléphone.",
+      "gmb": ["bakery", "pastry_shop", "chocolate_shop", "candy_store", "donut_shop"],
+      "motscles": ["boulangerie", "patisserie", "chocolaterie", "viennoiserie", "fournil"]
+    },
+    {
+      "slug": "cafes-bars",
+      "nom": "Café ou bar",
+      "pluriel": "Cafés et bars",
+      "emoji": "☕",
+      "resume": "Cafés, bars, salons de thé et pubs de quartier.",
+      "description": "Les cafés et bars sont des repères de vie locale rarement dotés d'un site. Horaires réels, terrasse, retransmissions sportives, concerts : autant de détails qui décident d'une sortie et qui n'apparaissent nulle part ailleurs de façon lisible.",
+      "gmb": ["cafe", "bar", "coffee_shop", "pub", "tea_house", "wine_bar"],
+      "motscles": ["cafe", "bar", "salon de the", "pub", "brasserie de quartier"]
+    },
+    {
+      "slug": "hebergement",
+      "nom": "Hébergement",
+      "pluriel": "Hébergements",
+      "emoji": "🛏️",
+      "resume": "Hôtels, chambres d'hôtes, gîtes et campings.",
+      "description": "Un hébergement sans site web dépend entièrement des plateformes de réservation et de leurs commissions. Une page publique, stable et indexable rétablit un point de contact direct : téléphone, adresse exacte, capacité et conditions d'accueil.",
+      "gmb": ["lodging", "hotel", "bed_and_breakfast", "guest_house", "campground", "cottage", "motel"],
+      "motscles": ["hotel", "chambre d'hotes", "gite", "camping", "auberge"]
+    },
+    {
+      "slug": "coiffure-beaute",
+      "nom": "Coiffure et beauté",
+      "pluriel": "Coiffure, beauté et bien-être",
+      "emoji": "💇",
+      "resume": "Salons de coiffure, barbiers, instituts de beauté, onglerie et spa.",
+      "description": "Le secteur de la beauté fonctionne au rendez-vous et à la recommandation. Sans site, un salon reste invisible sur les recherches détaillées — coupe homme, balayage, prothésiste ongulaire — que les moteurs traitent aujourd'hui comme des requêtes à part entière.",
+      "gmb": ["hair_care", "hair_salon", "barber_shop", "beauty_salon", "nail_salon", "spa", "makeup_artist", "skin_care_clinic"],
+      "motscles": ["coiffeur", "coiffure", "barbier", "institut de beaute", "onglerie", "spa", "esthetique"]
+    },
+    {
+      "slug": "sante-bien-etre",
+      "nom": "Santé et bien-être",
+      "pluriel": "Santé et bien-être",
+      "emoji": "🧘",
+      "resume": "Kinésithérapie, ostéopathie, massage, sophrologie et thérapies.",
+      "description": "Les praticiens du soin exercent souvent seuls, sans temps ni budget pour un site. Or leurs patients cherchent d'abord une adresse, un créneau et une spécialité précise ; une page claire évite les appels inutiles et les rendez-vous manqués.",
+      "gmb": ["physiotherapist", "chiropractor", "massage", "wellness_center", "yoga_studio", "psychologist"],
+      "motscles": ["kine", "kinesitherapeute", "osteopathe", "massage", "sophrologue", "naturopathe", "psychologue"]
+    },
+    {
+      "slug": "medecins-dentistes",
+      "nom": "Médecin ou dentiste",
+      "pluriel": "Médecins et dentistes",
+      "emoji": "🩺",
+      "resume": "Cabinets médicaux, dentaires et paramédicaux.",
+      "description": "Les cabinets de santé publient rarement autre chose qu'une fiche Google. Les informations réellement utiles — secteur de conventionnement, accès aux personnes à mobilité réduite, mode de prise de rendez-vous — méritent une page stable et lisible, sans publicité ni intermédiaire.",
+      "gmb": ["doctor", "dentist", "medical_clinic", "dental_clinic", "podiatrist", "speech_therapist"],
+      "motscles": ["medecin", "generaliste", "dentiste", "cabinet medical", "orthophoniste", "podologue", "infirmier"]
+    },
+    {
+      "slug": "pharmacies-opticiens",
+      "nom": "Pharmacie ou opticien",
+      "pluriel": "Pharmacies et opticiens",
+      "emoji": "💊",
+      "resume": "Officines, opticiens, audioprothésistes et matériel médical.",
+      "description": "Pharmacies et opticiens sont des commerces de première nécessité dont on cherche surtout l'horaire et la garde. Une fiche complète et à jour sert autant l'habitant pressé que le professionnel qui n'a pas vocation à gérer un site.",
+      "gmb": ["pharmacy", "drugstore", "optician", "hearing_aid_store", "medical_supply_store"],
+      "motscles": ["pharmacie", "opticien", "audioprothesiste", "orthopedie", "materiel medical"]
+    },
+    {
+      "slug": "veterinaires-animaux",
+      "nom": "Vétérinaire et animaux",
+      "pluriel": "Vétérinaires et services animaliers",
+      "emoji": "🐾",
+      "resume": "Cliniques vétérinaires, toilettage, animaleries et pensions.",
+      "description": "Urgence, vaccination, toilettage ou garde : les propriétaires d'animaux cherchent vite et près de chez eux. Ces établissements, souvent de très petite taille, gagnent à disposer d'une page d'information indépendante des annuaires payants.",
+      "gmb": ["veterinary_care", "pet_store", "pet_groomer", "pet_boarding", "animal_shelter"],
+      "motscles": ["veterinaire", "toilettage", "animalerie", "pension animaliere", "eleveur"]
+    },
+    {
+      "slug": "plomberie-chauffage",
+      "nom": "Plomberie et chauffage",
+      "pluriel": "Plombiers et chauffagistes",
+      "emoji": "🔧",
+      "resume": "Plombiers, chauffagistes, dépannage sanitaire et climatisation.",
+      "description": "Le dépannage se cherche dans l'urgence, presque toujours depuis un téléphone. Une page nette avec le numéro, la zone d'intervention et les horaires réels évite au particulier de tomber sur des plateformes nationales qui revendent l'appel.",
+      "gmb": ["plumber", "hvac_contractor", "heating_contractor", "air_conditioning_contractor"],
+      "motscles": ["plombier", "plomberie", "chauffagiste", "sanitaire", "climatisation", "depannage"]
+    },
+    {
+      "slug": "electricite",
+      "nom": "Électricité",
+      "pluriel": "Électriciens",
+      "emoji": "⚡",
+      "resume": "Électriciens, domotique, mise aux normes et bornes de recharge.",
+      "description": "L'installation électrique engage la sécurité du logement : le choix d'un artisan repose sur la proximité, les qualifications et la réputation. Ces trois éléments sont rassemblés ici pour des entreprises qui ne communiquent qu'à travers leur fiche Google.",
+      "gmb": ["electrician", "electrical_supply_store"],
+      "motscles": ["electricien", "electricite generale", "domotique", "borne de recharge", "mise aux normes"]
+    },
+    {
+      "slug": "maconnerie-renovation",
+      "nom": "Maçonnerie et rénovation",
+      "pluriel": "Maçonnerie, couverture et rénovation",
+      "emoji": "🧱",
+      "resume": "Maçons, couvreurs, plaquistes, peintres et entreprises générales.",
+      "description": "Le bâtiment concentre le plus grand nombre d'entreprises sans site web : le travail vient du bouche-à-oreille et le carnet de commandes se remplit sans marketing. Une fiche descriptive documente durablement le savoir-faire, la zone d'intervention et les références.",
+      "gmb": ["general_contractor", "roofing_contractor", "painter", "masonry_contractor", "flooring_contractor", "insulation_contractor"],
+      "motscles": ["macon", "maconnerie", "couvreur", "toiture", "platrier", "plaquiste", "peintre", "renovation", "isolation", "ravalement"]
+    },
+    {
+      "slug": "menuiserie-serrurerie",
+      "nom": "Menuiserie et serrurerie",
+      "pluriel": "Menuisiers et serruriers",
+      "emoji": "🚪",
+      "resume": "Menuisiers, ébénistes, serruriers, fenêtres et fermetures.",
+      "description": "Menuiserie sur mesure, remplacement de fenêtres, ouverture de porte : des métiers de précision où la confiance prime. La fiche détaille les matériaux travaillés, les prestations et les moyens de contact directs.",
+      "gmb": ["carpenter", "locksmith", "window_installation_service", "cabinet_maker"],
+      "motscles": ["menuisier", "menuiserie", "ebeniste", "serrurier", "fenetre", "volet", "portail"]
+    },
+    {
+      "slug": "jardinage-paysage",
+      "nom": "Jardinage et paysage",
+      "pluriel": "Paysagistes et jardiniers",
+      "emoji": "🌳",
+      "resume": "Paysagistes, élagueurs, entretien d'espaces verts et pépinières.",
+      "description": "L'entretien d'un jardin est saisonnier et local par nature. Les entreprises de ce secteur, souvent unipersonnelles, gagnent en visibilité avec une page qui précise les prestations, la zone desservie et la période d'intervention.",
+      "gmb": ["landscaper", "gardener", "tree_service", "garden_center", "lawn_care_service"],
+      "motscles": ["paysagiste", "jardinier", "espaces verts", "elagage", "elagueur", "pepiniere", "tonte"]
+    },
+    {
+      "slug": "nettoyage-hygiene",
+      "nom": "Nettoyage et hygiène",
+      "pluriel": "Nettoyage et hygiène",
+      "emoji": "🧽",
+      "resume": "Entreprises de nettoyage, pressings, laveries et désinfection.",
+      "description": "Nettoyage de locaux, remise en état, pressing ou traitement des nuisibles : des services régulièrement recherchés par les particuliers comme par les entreprises, et pourtant très peu représentés en ligne à l'échelle d'une commune.",
+      "gmb": ["laundry", "dry_cleaner", "house_cleaning_service", "commercial_cleaning_service", "pest_control_service"],
+      "motscles": ["nettoyage", "pressing", "laverie", "blanchisserie", "desinfection", "nuisibles", "deratisation"]
+    },
+    {
+      "slug": "garages-automobile",
+      "nom": "Garage et automobile",
+      "pluriel": "Garages et services automobiles",
+      "emoji": "🚗",
+      "resume": "Garages, carrosseries, contrôle technique, pneus et lavage.",
+      "description": "Entretien, réparation, contrôle technique : l'automobiliste choisit d'abord un garage proche et disponible. Ces entreprises travaillent à flux tendu et délaissent presque toujours la création d'un site, malgré une demande de recherche locale considérable.",
+      "gmb": ["car_repair", "car_wash", "car_dealer", "auto_parts_store", "tire_shop", "vehicle_inspection"],
+      "motscles": ["garage", "carrosserie", "controle technique", "pneus", "mecanique", "concession", "lavage auto"]
+    },
+    {
+      "slug": "deux-roues-cycles",
+      "nom": "Deux-roues et cycles",
+      "pluriel": "Deux-roues et cycles",
+      "emoji": "🚲",
+      "resume": "Vélocistes, réparateurs, motos, scooters et location.",
+      "description": "Réparation de vélo, révision de scooter, location à la journée : un secteur en croissance porté par la mobilité douce, encore largement absent du web local en dehors des grandes enseignes.",
+      "gmb": ["bicycle_store", "motorcycle_dealer", "bicycle_repair_shop", "scooter_rental"],
+      "motscles": ["velo", "velociste", "cycles", "moto", "scooter", "reparation velo"]
+    },
+    {
+      "slug": "transport-demenagement",
+      "nom": "Transport et déménagement",
+      "pluriel": "Transport, déménagement et stockage",
+      "emoji": "🚚",
+      "resume": "Déménageurs, taxis, VTC, coursiers et garde-meubles.",
+      "description": "Déménagement, course urgente, transport de personnes : des services décidés rapidement et comparés sur la disponibilité. La fiche rassemble la zone couverte, les moyens et le contact direct, sans passer par une place de marché.",
+      "gmb": ["moving_company", "taxi_service", "courier_service", "storage", "truck_rental", "transportation_service"],
+      "motscles": ["demenagement", "demenageur", "taxi", "vtc", "coursier", "garde-meuble", "transport"]
+    },
+    {
+      "slug": "immobilier",
+      "nom": "Immobilier",
+      "pluriel": "Immobilier",
+      "emoji": "🏠",
+      "resume": "Agences immobilières, syndics, diagnostiqueurs et gestion locative.",
+      "description": "Le marché immobilier est hyperlocal : une agence de quartier se juge à son ancrage et à sa connaissance du terrain. Cette page documente l'implantation, les services et les coordonnées d'acteurs qui délèguent souvent leur visibilité aux portails d'annonces.",
+      "gmb": ["real_estate_agency", "property_management_company", "real_estate_appraiser"],
+      "motscles": ["agence immobiliere", "immobilier", "syndic", "gestion locative", "diagnostic immobilier"]
+    },
+    {
+      "slug": "assurance-banque-finance",
+      "nom": "Assurance et finance",
+      "pluriel": "Assurance, banque et finance",
+      "emoji": "🛡️",
+      "resume": "Agents d'assurance, courtiers, conseillers et agences bancaires.",
+      "description": "Derrière les grandes marques, ce sont des agents indépendants qui reçoivent en agence, souvent sans site propre. Horaires, interlocuteur, spécialités : la fiche facilite un premier contact que les sites nationaux rendent difficile.",
+      "gmb": ["insurance_agency", "bank", "atm", "finance", "financial_consultant"],
+      "motscles": ["assurance", "assureur", "courtier", "banque", "credit", "mutuelle"]
+    },
+    {
+      "slug": "avocats-notaires-juridique",
+      "nom": "Avocat, notaire et juridique",
+      "pluriel": "Professions juridiques",
+      "emoji": "⚖️",
+      "resume": "Avocats, notaires, huissiers et conseils juridiques.",
+      "description": "La déontologie des professions juridiques encadre strictement la communication, ce qui explique la rareté des sites. Une fiche factuelle — domaine d'intervention, adresse du cabinet, moyen de prise de rendez-vous — reste utile et conforme à cet esprit de sobriété.",
+      "gmb": ["lawyer", "notary_public", "legal_services", "bailiff"],
+      "motscles": ["avocat", "notaire", "huissier", "commissaire de justice", "juriste", "conseil juridique"]
+    },
+    {
+      "slug": "comptabilite-conseil",
+      "nom": "Comptabilité et conseil",
+      "pluriel": "Comptabilité, conseil et services aux entreprises",
+      "emoji": "📊",
+      "resume": "Experts-comptables, conseils, formation et services aux entreprises.",
+      "description": "Cabinets comptables, consultants et organismes de formation vivent de la recommandation professionnelle. Une page indexable les rend accessibles aux dirigeants qui cherchent un prestataire dans leur bassin d'emploi plutôt qu'un cabinet national.",
+      "gmb": ["accounting", "consultant", "corporate_office", "employment_agency", "school"],
+      "motscles": ["comptable", "expert-comptable", "conseil", "formation", "recrutement", "interim"]
+    },
+    {
+      "slug": "commerces-alimentation",
+      "nom": "Commerce d'alimentation",
+      "pluriel": "Commerces et alimentation",
+      "emoji": "🧺",
+      "resume": "Épiceries, boucheries, primeurs, cavistes et vente à la ferme.",
+      "description": "Le commerce alimentaire de proximité redevient un réflexe, mais son information circule mal : jours de marché, produits de saison, vente directe. Cette fiche rassemble ce que le consommateur cherche avant de se déplacer.",
+      "gmb": ["grocery_store", "butcher_shop", "supermarket", "convenience_store", "liquor_store", "farm", "fish_market", "cheese_shop", "greengrocer"],
+      "motscles": ["epicerie", "boucherie", "charcuterie", "primeur", "caviste", "fromagerie", "poissonnerie", "vente a la ferme", "superette"]
+    },
+    {
+      "slug": "mode-equipement-maison",
+      "nom": "Mode et équipement de la maison",
+      "pluriel": "Mode, décoration et équipement",
+      "emoji": "🛍️",
+      "resume": "Prêt-à-porter, chaussures, bijouterie, meubles, déco et bricolage.",
+      "description": "Les boutiques indépendantes affrontent la concurrence du commerce en ligne sans en avoir les armes. Une page bien structurée les replace dans les résultats de recherche locaux, là où se décide encore une part importante des achats.",
+      "gmb": ["clothing_store", "shoe_store", "jewelry_store", "furniture_store", "home_goods_store", "hardware_store", "florist", "gift_shop"],
+      "motscles": ["pret-a-porter", "vetements", "chaussures", "bijouterie", "meubles", "decoration", "bricolage", "fleuriste"]
+    },
+    {
+      "slug": "loisirs-sport-culture",
+      "nom": "Loisirs, sport et culture",
+      "pluriel": "Loisirs, sport et culture",
+      "emoji": "🎯",
+      "resume": "Salles de sport, clubs, librairies, galeries et lieux de loisirs.",
+      "description": "Activités sportives, culturelles et de loisirs se choisissent sur des critères pratiques : horaires, tarifs, public accueilli. Ces structures, souvent associatives ou familiales, n'ont ni le temps ni les moyens d'entretenir un site.",
+      "gmb": ["gym", "fitness_center", "book_store", "sports_club", "art_gallery", "bowling_alley", "movie_theater", "amusement_center"],
+      "motscles": ["salle de sport", "fitness", "club", "librairie", "galerie", "bowling", "loisirs", "escalade", "danse"]
+    },
+    {
+      "slug": "services-aux-particuliers",
+      "nom": "Service aux particuliers",
+      "pluriel": "Services aux particuliers",
+      "emoji": "🤝",
+      "resume": "Auto-écoles, pompes funèbres, retouches, photographes et agences de voyage.",
+      "description": "Une catégorie hétérogène qui rassemble les services du quotidien : apprendre à conduire, faire retoucher un vêtement, organiser des obsèques, préparer un voyage. Des besoins ponctuels, cherchés localement, presque toujours sans site pour y répondre.",
+      "gmb": ["driving_school", "funeral_home", "tailor", "travel_agency", "child_care_agency", "photographer", "print_shop", "shoe_repair"],
+      "motscles": ["auto-ecole", "pompes funebres", "retouche", "couturiere", "agence de voyage", "creche", "photographe", "imprimerie", "cordonnerie"]
+    }
+  ]
+}

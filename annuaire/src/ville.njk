@@ -1,0 +1,51 @@
+---
+pagination:
+  data: annuaire.pagesVille
+  size: 1
+  alias: p
+permalink: "{{ p.url }}index.html"
+layout: layouts/base.njk
+eleventyComputed:
+  titre: "Entreprises de {{ p.ville.nom }}{% if p.numero > 1 %} — page {{ p.numero }}{% endif %}"
+  meta_titre: "Entreprises sans site web à {{ p.ville.nom }} ({{ p.ville.code_postal }}) | {{ site.nomCourt }}"
+  meta_description: "{{ p.ville.nombre }} entreprises de {{ p.ville.nom }} sans site internet, classées par activité : coordonnées, horaires et contact direct."
+---
+{% set ariane = [
+  { titre: "Communes", url: "/villes/" },
+  { titre: p.ville.nom, url: p.urlBase }
+] %}
+{% include "partials/ariane.njk" %}
+
+<div class="conteneur" style="padding-block:1.5rem 3rem;">
+  <header class="contenu-texte">
+    <h1>{{ p.ville.nom }}{% if p.ville.code_postal %} <span class="doux" style="font-size:.6em;">{{ p.ville.code_postal }}</span>{% endif %}</h1>
+    {% if p.numero == 1 %}
+    <p class="fiche__chapo">{{ p.ville.nombre | nombreFr }} entreprise{% if p.ville.nombre > 1 %}s{% endif %}
+    de {{ p.ville.nom }} recensée{% if p.ville.nombre > 1 %}s{% endif %} sans site internet, réparties
+    sur {{ p.ville.categories.length }} secteur{% if p.ville.categories.length > 1 %}s{% endif %} d'activité.</p>
+    <p>Commerces, artisans et services de proximité de {{ p.ville.nom }} qui n'apparaissent aujourd'hui
+    que sur les cartes. Chacun dispose ici d'une page publique et indexable, à jour de son dernier relevé.</p>
+    {% endif %}
+  </header>
+
+  {% if p.numero == 1 %}
+  <nav aria-label="Activités" style="margin:1.5rem 0;">
+    <div class="fiche__etiquettes">
+      {% for c in annuaire.couples %}
+        {% if c.ville.slug == p.ville.slug %}
+        <a class="etiquette" href="{{ c.url | url }}">{{ c.categorie.emoji }} {{ c.categorie.nom }} <span class="doux">{{ c.nombre }}</span></a>
+        {% endif %}
+      {% endfor %}
+    </div>
+  </nav>
+  {% endif %}
+
+  <div class="grille">
+    {% for f in p.fiches %}{% include "partials/carte-fiche.njk" %}{% endfor %}
+  </div>
+
+  {% include "partials/pagination.njk" %}
+</div>
+
+<script type="application/ld+json">{{ { url: p.url, titre: titre, description: meta_description, fiches: p.fiches } | schemaListe | jsonify | safe }}</script>
+<script type="application/ld+json">{{ ariane | schemaFil | jsonify | safe }}</script>

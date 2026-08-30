@@ -1,0 +1,72 @@
+---
+pagination:
+  data: annuaire.pagesCategorie
+  size: 1
+  alias: p
+permalink: "{{ p.url }}index.html"
+layout: layouts/base.njk
+eleventyComputed:
+  titre: "{{ p.categorie.pluriel }}{% if p.numero > 1 %} — page {{ p.numero }}{% endif %}"
+  meta_titre: "{{ p.categorie.pluriel }} sans site web{% if p.numero > 1 %} (page {{ p.numero }}){% endif %} | {{ site.nomCourt }}"
+  meta_description: "{{ p.categorie.nombre }} {{ p.categorie.pluriel | lower }} recensés sans site internet : adresse, horaires et contact, commune par commune."
+  noindex: "{% if p.categorie.vide %}oui{% endif %}"
+---
+{% set ariane = [
+  { titre: "Catégories", url: "/categories/" },
+  { titre: p.categorie.pluriel, url: p.urlBase }
+] %}
+{% include "partials/ariane.njk" %}
+
+<div class="conteneur" style="padding-block:1.5rem 3rem;">
+  <header class="contenu-texte">
+    <h1>{{ p.categorie.emoji }} {{ p.categorie.pluriel }}</h1>
+    <p class="fiche__chapo">{{ p.categorie.resume }}</p>
+    {% if p.categorie.vide %}
+    <div class="encadre">
+      <p style="margin:0;">Aucune fiche n'est publiée dans cette catégorie actuellement. Les
+      entreprises qui y figuraient ont retrouvé un site web, ont fermé, ou ont demandé le retrait
+      de leur page. De nouvelles fiches y seront ajoutées au fil des collectes quotidiennes.</p>
+    </div>
+    <p>{{ p.categorie.description }}</p>
+    {% elif p.numero == 1 %}
+    <p>{{ p.categorie.description }}</p>
+    <p>Cette rubrique rassemble <strong>{{ p.categorie.nombre | nombreFr }}
+    {{ p.categorie.pluriel | lower }}</strong> dont la fiche Google ne renvoie vers aucun site
+    internet, répartis sur {{ p.categorie.villes.length }} commune{% if p.categorie.villes.length > 1 %}s{% endif %}.
+    Chaque entreprise dispose d'une page dédiée avec ses coordonnées, ses horaires relevés et son itinéraire.</p>
+    {% endif %}
+  </header>
+
+  {% if p.categorie.villes.length > 1 and p.numero == 1 %}
+  <nav aria-label="Filtrer par commune" style="margin:1.5rem 0;">
+    <h2 style="font-size:1rem;font-family:var(--police);">Par commune</h2>
+    <div class="fiche__etiquettes">
+      {% for v in annuaire.villes %}
+        {% if v.slug in p.categorie.villes %}
+        <a class="etiquette" href="{{ ("/" + (p.categorie.slug) + "/" + (v.slug) + "/") | url }}">{{ p.categorie.nom }} à {{ v.nom }}</a>
+        {% endif %}
+      {% endfor %}
+    </div>
+  </nav>
+  {% endif %}
+
+  <div class="grille" style="margin-top:1.5rem;">
+    {% for f in p.fiches %}{% include "partials/carte-fiche.njk" %}{% endfor %}
+  </div>
+
+  {% include "partials/pagination.njk" %}
+
+  <section class="contenu-texte" style="margin-top:3rem;">
+    <h2>Autres catégories</h2>
+    <ul class="liste-liens">
+      {% for c in annuaire.categories %}
+        {% if c.slug != p.categorie.slug %}
+        <li><a href="{{ ("/" + (c.slug) + "/") | url }}">{{ c.pluriel }}</a> <span class="doux">({{ c.nombre }})</span></li>
+        {% endif %}
+      {% endfor %}
+    </ul>
+  </section>
+</div>
+
+<script type="application/ld+json">{{ { url: p.url, titre: titre, description: meta_description, fiches: p.fiches } | schemaListe | jsonify | safe }}</script>
+<script type="application/ld+json">{{ ariane | schemaFil | jsonify | safe }}</script>

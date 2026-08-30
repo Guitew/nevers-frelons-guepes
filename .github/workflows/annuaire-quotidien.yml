@@ -1,0 +1,76 @@
+name: Annuaire — collecte quotidienne
+
+# Cycle de vie quotidien de l'annuaire :
+#   1. collecte  : N nouvelles entreprises sans site web déclaré sur leur GMB ;
+#   2. backlinks : relecture des fiches Google et mise à jour de l'état des liens ;
+#   3. retraits  : application des 301 / 410 aux fiches dont le lien a disparu.
+#
+# Les fiches sont committées : le dépôt Git est la mémoire de l'annuaire, et
+# chaque changement (publication, perte de lien, retrait) est relisible en diff.
+# Le push déclenche ensuite le workflow de déploiement.
+#
+# Secrets attendus :
+#   GOOGLE_PLACES_API_KEY  clé de l'API Google Places (New)
+
+on:
+  schedule:
+    - cron: "15 5 * * *" # 05 h 15 UTC, soit 07 h 15 à Paris en été
+  workflow_dispatch:
+    inputs:
+      fournisseur:
+        description: "Fournisseur de données (google-places ou csv)"
+        required: false
+        default: "google-places"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: annuaire-quotidien
+  cancel-in-progress: false
+
+defaults:
+  run:
+    working-directory: annuaire
+
+jobs:
+  cycle:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: "22"
+          cache: npm
+          cache-dependency-path: annuaire/package-lock.json
+
+      - run: npm ci
+
+      - name: Collecter les nouvelles entreprises
+        env:
+          GOOGLE_PLACES_API_KEY: ${{ secrets.GOOGLE_PLACES_API_KEY }}
+        run: node outils/collecte.mjs --fournisseur=${{ inputs.fournisseur || 'google-places' }}
+
+      - name: Vérifier les backlinks Google Business Profile
+        env:
+          GOOGLE_PLACES_API_KEY: ${{ secrets.GOOGLE_PLACES_API_KEY }}
+        run: node outils/backlinks.mjs
+
+      - name: Appliquer les retraits (301 / 410)
+        run: node outils/retraits.mjs
+
+      - name: Résumé
+        run: node outils/etat.mjs
+
+      - name: Committer l'état de l'annuaire
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          if [ -n "$(git status --porcelain donnees)" ]; then
+            git add donnees
+            git commit -m "Annuaire : cycle quotidien du $(date -u +%F)"
+            git push
+          else
+            echo "Aucun changement à committer."
+          fi

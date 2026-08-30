@@ -1,0 +1,54 @@
+---
+pagination:
+  data: annuaire.pagesCouple
+  size: 1
+  alias: p
+permalink: "{{ p.url }}index.html"
+layout: layouts/base.njk
+eleventyComputed:
+  titre: "{{ p.categorie.pluriel }} à {{ p.ville.nom }}{% if p.numero > 1 %} — page {{ p.numero }}{% endif %}"
+  meta_titre: "{{ p.categorie.nom }} à {{ p.ville.nom }} : {{ p.fiches.length }} adresses | {{ site.nomCourt }}"
+  meta_description: "{{ p.categorie.pluriel }} à {{ p.ville.nom }} ({{ p.ville.code_postal }}) sans site internet : coordonnées, horaires d'ouverture et itinéraire."
+---
+{% set ariane = [
+  { titre: p.categorie.pluriel, url: "/" + p.categorie.slug + "/" },
+  { titre: p.ville.nom, url: p.urlBase }
+] %}
+{% include "partials/ariane.njk" %}
+
+<div class="conteneur" style="padding-block:1.5rem 3rem;">
+  <header class="contenu-texte">
+    <h1>{{ p.categorie.nom }} à {{ p.ville.nom }}</h1>
+    {% if p.numero == 1 %}
+    <p class="fiche__chapo">
+      {{ p.fiches.length | nombreFr }} établissement{% if p.fiches.length > 1 %}s{% endif %} de la catégorie
+      « {{ p.categorie.nom }} » à {{ p.ville.nom }}{% if p.ville.code_postal %} ({{ p.ville.code_postal }}){% endif %}
+      dont la fiche Google ne déclare aucun site internet.
+    </p>
+    <p>{{ p.categorie.resume }} Pour chacun, cette page renvoie vers une fiche détaillée : adresse
+    exacte, téléphone, horaires relevés sur Google et lien d'itinéraire. Les informations sont datées :
+    vous savez toujours de quand elles proviennent.</p>
+    {% endif %}
+  </header>
+
+  <div class="grille" style="margin-top:1.5rem;">
+    {% for f in p.fiches %}{% include "partials/carte-fiche.njk" %}{% endfor %}
+  </div>
+
+  {% include "partials/pagination.njk" %}
+
+  <section class="contenu-texte" style="margin-top:3rem;">
+    <h2>Autres activités à {{ p.ville.nom }}</h2>
+    <ul class="liste-liens">
+      {% for c in annuaire.couples %}
+        {% if c.ville.slug == p.ville.slug and c.categorie.slug != p.categorie.slug %}
+        <li><a href="{{ c.url | url }}">{{ c.categorie.nom }} à {{ p.ville.nom }}</a> <span class="doux">({{ c.nombre }})</span></li>
+        {% endif %}
+      {% endfor %}
+    </ul>
+    <p style="margin-top:1rem;"><a href="{{ ("/villes/" + (p.ville.slug) + "/") | url }}">Toutes les entreprises de {{ p.ville.nom }}</a></p>
+  </section>
+</div>
+
+<script type="application/ld+json">{{ { url: p.url, titre: titre, description: meta_description, fiches: p.fiches } | schemaListe | jsonify | safe }}</script>
+<script type="application/ld+json">{{ ariane | schemaFil | jsonify | safe }}</script>

@@ -1,0 +1,23 @@
+---
+permalink: /sitemap.xml
+eleventyExcludeFromCollections: true
+---
+<?xml version="1.0" encoding="UTF-8"?>
+{#- Index de sitemaps plutôt qu'un fichier unique : la Search Console rend
+    ses statistiques d'indexation par sitemap, ce qui permet de voir quelle
+    catégorie Google accepte et laquelle il ignore — l'information la plus
+    utile au pilotage d'un annuaire. -#}
+<sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <sitemap>
+    <loc>{{ site.base }}/sitemaps/pages.xml</loc>
+    <lastmod>{{ annuaire.stats.derniereMaj | isoDate }}</lastmod>
+  </sitemap>
+  {%- for c in annuaire.categories %}
+  {%- if not c.vide %}
+  <sitemap>
+    <loc>{{ site.base }}/sitemaps/{{ c.slug }}.xml</loc>
+    <lastmod>{{ annuaire.stats.derniereMaj | isoDate }}</lastmod>
+  </sitemap>
+  {%- endif %}
+  {%- endfor %}
+</sitemapindex>

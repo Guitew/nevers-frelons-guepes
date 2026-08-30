@@ -1,0 +1,98 @@
+---
+permalink: /.htaccess
+eleventyExcludeFromCollections: true
+---
+{%- set p = site.chemin -%}
+# =====================================================================
+#  {{ site.nom }}
+#  Fichier GÉNÉRÉ à chaque compilation — ne pas modifier à la main.
+#  Source : src/htaccess.njk + l'état des fiches (donnees/fiches/*.json).
+#
+#  CE FICHIER VIT DANS UN SOUS-DOSSIER : {{ site.base }}/
+#  Il ne contient donc PAS la redirection HTTPS ni la canonicalisation du
+#  domaine (www / sans www) : celles-ci relèvent du .htaccess à la racine
+#  de {{ site.url }}, et les dupliquer ici risquerait de les contredire.
+# =====================================================================
+
+DirectoryIndex index.html
+AddDefaultCharset UTF-8
+
+# ----- Type MIME des miroirs Markdown destinés aux robots de LLM -----
+<IfModule mod_mime.c>
+  AddType text/markdown .md
+  AddCharset UTF-8 .md
+</IfModule>
+
+# ---------------------------------------------------------------------
+#  Fiches retirées
+#  410 : la page n'existe plus et ne reviendra pas (entreprise fermée,
+#        fiche Google supprimée, retrait demandé par le dirigeant).
+#        Google la désindexe nettement plus vite qu'un 404.
+#  301 : le backlink GMB a disparu mais l'établissement existe toujours ;
+#        l'autorité de l'URL est transmise à sa page catégorie.
+#  Les motifs incluent le préfixe du sous-dossier : RedirectMatch compare
+#  au chemin complet de l'URL, pas au chemin relatif au dossier.
+#  Ces règles sont régénérées à chaque compilation : une fiche republiée
+#  voit sa règle disparaître automatiquement, et une règle arrivée à
+#  expiration est purgée (voir « npm run retraits »).
+# ---------------------------------------------------------------------
+<IfModule mod_alias.c>
+{%- set gone = [] -%}
+{%- set moved = [] -%}
+{%- for f in annuaire.retirees -%}
+  {%- if f.retrait.mode == "410" -%}{%- set _ = gone.push(f) -%}
+  {%- else -%}{%- set _ = moved.push(f) -%}{%- endif -%}
+{%- endfor %}
+  # {{ gone.length }} fiche(s) supprimée(s) définitivement
+{%- for f in gone %}
+  RedirectMatch 410 ^{{ p }}{{ f.url }}.*$
+{%- endfor %}
+
+  # {{ moved.length }} fiche(s) redirigée(s) vers leur catégorie
+{%- for f in moved %}
+  RedirectMatch 301 ^{{ p }}{{ f.url }}.*$ {{ p }}{{ f.retrait.cible }}
+{%- endfor %}
+</IfModule>
+
+# ----- Adresse sans barre finale : renvoi vers la version canonique -----
+<IfModule mod_rewrite.c>
+  RewriteEngine On
+  RewriteBase {{ p }}/
+
+  RewriteCond %{REQUEST_FILENAME} !-f
+  RewriteCond %{REQUEST_FILENAME} !-d
+  RewriteCond %{REQUEST_FILENAME}/index.html -f
+  RewriteRule ^(.+[^/])$ {{ p }}/$1/ [L,R=301]
+</IfModule>
+
+# ----- Pages d'erreur (chemins absolus depuis la racine du domaine) -----
+ErrorDocument 404 {{ p }}/404.html
+ErrorDocument 410 {{ p }}/410.html
+
+# ----- Compression -----
+<IfModule mod_deflate.c>
+  AddOutputFilterByType DEFLATE text/html text/css text/javascript application/javascript application/json application/xml text/plain text/markdown image/svg+xml
+</IfModule>
+
+# ----- Cache navigateur -----
+<IfModule mod_expires.c>
+  ExpiresActive On
+  ExpiresByType text/css "access plus 1 month"
+  ExpiresByType application/javascript "access plus 1 month"
+  ExpiresByType image/svg+xml "access plus 6 months"
+  ExpiresByType application/json "access plus 1 day"
+  ExpiresByType text/html "access plus 1 hour"
+</IfModule>
+
+# ----- En-têtes de sécurité -----
+<IfModule mod_headers.c>
+  Header set X-Content-Type-Options "nosniff"
+  Header set Referrer-Policy "strict-origin-when-cross-origin"
+  Header set X-Frame-Options "SAMEORIGIN"
+  Header set Permissions-Policy "geolocation=(), microphone=(), camera=(), interest-cohort=()"
+</IfModule>
+
+# ----- Protection des fichiers internes -----
+<FilesMatch "^\.(env|git)">
+  Require all denied
+</FilesMatch>

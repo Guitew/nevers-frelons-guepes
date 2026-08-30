@@ -1,0 +1,25 @@
+---
+permalink: /flux.xml
+eleventyExcludeFromCollections: true
+---
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>{{ site.nom }}</title>
+  <subtitle>Les dernières entreprises sans site web ajoutées à l'annuaire.</subtitle>
+  <link href="{{ site.base }}/flux.xml" rel="self"/>
+  <link href="{{ site.base }}/"/>
+  <updated>{{ annuaire.stats.derniereMaj | isoDate }}T06:00:00Z</updated>
+  <id>{{ site.base }}/</id>
+  <author><name>{{ site.organisme }}</name></author>
+  {%- for f in annuaire.nouveautes | limite(40) %}
+  {%- if f.indexable %}
+  <entry>
+    <title>{{ f.nom }} — {{ f.categorie_nom }} à {{ f.ville }}</title>
+    <link href="{{ site.base }}{{ f.url }}"/>
+    <updated>{{ f.dates.publication | isoDate }}T06:00:00Z</updated>
+    <id>{{ site.base }}{{ f.url }}</id>
+    <summary>{{ f.redaction.meta_description }}</summary>
+  </entry>
+  {%- endif %}
+  {%- endfor %}
+</feed>

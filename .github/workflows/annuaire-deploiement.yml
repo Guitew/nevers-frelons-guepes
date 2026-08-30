@@ -1,0 +1,73 @@
+name: Annuaire — compilation et déploiement
+
+# Compile le site et l'envoie sur l'hébergement, puis soumet aux moteurs les
+# URLs modifiées. Se déclenche sur toute modification du dossier « annuaire ».
+#
+# Secrets attendus :
+#   FTP_SERVER_ANNUAIRE / FTP_USERNAME_ANNUAIRE / FTP_PASSWORD_ANNUAIRE
+#   INDEXNOW_KEY        clé IndexNow (32 caractères hexadécimaux)
+#   CHEMIN_HTPASSWD     chemin absolu du .htpasswd protégeant /pilotage/
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - "annuaire/**"
+      - ".github/workflows/annuaire-deploiement.yml"
+  workflow_dispatch:
+
+concurrency:
+  group: annuaire-deploiement
+  cancel-in-progress: true
+
+defaults:
+  run:
+    working-directory: annuaire
+
+jobs:
+  deployer:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: "22"
+          cache: npm
+          cache-dependency-path: annuaire/package-lock.json
+
+      - run: npm ci
+
+      - name: Tests des règles métier
+        run: npm test
+
+      - name: Compiler le site
+        env:
+          INDEXNOW_KEY: ${{ secrets.INDEXNOW_KEY }}
+          CHEMIN_HTPASSWD: ${{ secrets.CHEMIN_HTPASSWD }}
+        run: npm run build
+
+      - name: Contrôler le site compilé
+        run: npm run verifier
+
+      - name: Déployer par FTP
+        uses: SamKirkland/FTP-Deploy-Action@v4.3.5
+        with:
+          server: ${{ secrets.FTP_SERVER_ANNUAIRE }}
+          username: ${{ secrets.FTP_USERNAME_ANNUAIRE }}
+          password: ${{ secrets.FTP_PASSWORD_ANNUAIRE }}
+          protocol: ftps
+          local-dir: ./annuaire/_site/
+          # Le site occupe un SOUS-DOSSIER du domaine : le contenu de _site
+          # est déposé dans andpro.fr/vitrine-locale/, pas à la racine.
+          server-dir: ./andpro.fr/vitrine-locale/
+          dangerous-clean-slate: false
+          exclude: |
+            **/.git*
+            **/.git*/**
+            **/node_modules/**
+
+      - name: Soumettre les URLs modifiées
+        env:
+          INDEXNOW_KEY: ${{ secrets.INDEXNOW_KEY }}
+        run: node outils/indexation.mjs

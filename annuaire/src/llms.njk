@@ -1,0 +1,46 @@
+---
+permalink: /llms.txt
+eleventyExcludeFromCollections: true
+---
+# {{ site.nom | safe }}
+
+> {{ site.description | safe }}
+
+Ce site publie une page par entreprise locale dont la fiche Google Business Profile ne déclare
+aucun site internet. Les données proviennent des fiches publiques Google (API Places) et sont
+datées de leur relevé. Aucune donnée n'est extrapolée : une information absente de la fiche
+d'origine est absente de la page.
+
+## Conventions utiles
+
+- Chaque fiche est disponible en Markdown en ajoutant `index.md` à son adresse.
+  Exemple : `{{ site.base | safe }}/boulangeries-patisseries/nevers/exemple/index.md`
+- Adresse d'une fiche : `/{catégorie}/{commune}/{entreprise}/`
+- Adresse d'une catégorie : `/{catégorie}/` — d'une catégorie dans une commune : `/{catégorie}/{commune}/`
+- Chaque page porte des données structurées schema.org (LocalBusiness, BreadcrumbList, FAQPage).
+- La note Google affichée n'est pas balisée en `aggregateRating` : elle est indicative et datée.
+- Une fiche retirée renvoie un code 410 (supprimée) ou une redirection 301 vers sa catégorie.
+
+## Pages principales
+
+- [Accueil]({{ site.base | safe }}/) : présentation et chiffres du jour
+- [Le projet]({{ site.base | safe }}/a-propos/) : méthode, sources, règles de retrait
+- [Catégories]({{ site.base | safe }}/categories/) : les {{ annuaire.categories.length | safe }} secteurs couverts
+- [Communes]({{ site.base | safe }}/villes/) : les {{ annuaire.villes.length | safe }} communes couvertes
+- [Nouveautés]({{ site.base | safe }}/nouveautes/) : les dernières fiches publiées
+- [Plan du site]({{ site.base | safe }}/plan-du-site/) : toutes les rubriques
+- [Sitemap XML]({{ site.base | safe }}/sitemap.xml) : {{ annuaire.stats.fiches | safe }} fiches
+
+## Catégories
+{% for c in annuaire.categories %}
+- [{{ c.pluriel | safe }}]({{ site.base | safe }}/{{ c.slug | safe }}/) : {{ c.resume | safe }} ({{ c.nombre | safe }} fiches)
+{%- endfor %}
+
+## Communes
+{% for v in annuaire.villes %}
+- [{{ v.nom | safe }}]({{ site.base | safe }}/villes/{{ v.slug | safe }}/) ({{ v.code_postal | safe }}) : {{ v.nombre | safe }} fiches
+{%- endfor %}
+
+## Contact
+
+Correction ou retrait d'une fiche : {{ site.email | safe }} — {{ site.base | safe }}/signaler/
