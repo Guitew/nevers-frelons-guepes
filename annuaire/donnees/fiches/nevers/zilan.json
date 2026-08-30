@@ -1,0 +1,205 @@
+{
+  "id": "ChIJedGFoIlF8EcRHt0BPboC2kk",
+  "slug": "zilan",
+  "nom": "Zilan",
+  "categorie": "restaurants",
+  "categorie_gmb": "Restaurant",
+  "type_principal": "restaurant",
+  "types": [
+    "restaurant",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "ville": "Nevers",
+  "ville_slug": "nevers",
+  "adresse": {
+    "rue": "14 Rue de Charleville",
+    "code_postal": "58000",
+    "departement": "58",
+    "region": "Bourgogne-Franche-Comté",
+    "pays": "France",
+    "complete": "14 Rue de Charleville, 58000 Nevers"
+  },
+  "telephone": "+33 9 51 77 05 76",
+  "geo": {
+    "latitude": 46.9892729,
+    "longitude": 3.1507101
+  },
+  "note": 4.6,
+  "avis": 572,
+  "horaires": [
+    {
+      "jour": 0,
+      "ferme": true,
+      "creneaux": []
+    },
+    {
+      "jour": 1,
+      "ferme": true,
+      "creneaux": []
+    },
+    {
+      "jour": 2,
+      "ferme": false,
+      "creneaux": [
+        [
+          "10:00",
+          "14:30"
+        ],
+        [
+          "17:30",
+          "01:00"
+        ]
+      ]
+    },
+    {
+      "jour": 3,
+      "ferme": false,
+      "creneaux": [
+        [
+          "10:00",
+          "14:30"
+        ],
+        [
+          "17:30",
+          "01:00"
+        ]
+      ]
+    },
+    {
+      "jour": 4,
+      "ferme": false,
+      "creneaux": [
+        [
+          "10:00",
+          "14:30"
+        ],
+        [
+          "17:30",
+          "02:00"
+        ]
+      ]
+    },
+    {
+      "jour": 5,
+      "ferme": false,
+      "creneaux": [
+        [
+          "10:00",
+          "14:30"
+        ],
+        [
+          "17:30",
+          "02:00"
+        ]
+      ]
+    },
+    {
+      "jour": 6,
+      "ferme": false,
+      "creneaux": [
+        [
+          "10:00",
+          "14:30"
+        ],
+        [
+          "17:30",
+          "02:00"
+        ]
+      ]
+    }
+  ],
+  "attributs": [
+    "Entrée accessible en fauteuil roulant",
+    "Toilettes accessibles en fauteuil roulant",
+    "Places assises accessibles en fauteuil roulant"
+  ],
+  "lien_google": "https://maps.google.com/?cid=5321568908602367262&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
+  "site_web_gmb": null,
+  "statut": "publiee",
+  "backlink": {
+    "etat": "en-attente",
+    "premiere_detection": null,
+    "derniere_detection": null,
+    "derniere_verification": null,
+    "echecs": 0,
+    "url_detectee": null
+  },
+  "retrait": null,
+  "dates": {
+    "collecte": "2026-08-30",
+    "publication": "2026-08-30",
+    "maj": "2026-08-30"
+  },
+  "source": "google-places",
+  "redaction": {
+    "titre": "Zilan — Restaurant à Nevers",
+    "meta_titre": "Zilan, restaurant à Nevers",
+    "meta_description": "Zilan, restaurant à Nevers (14 Rue de Charleville) : adresse, horaires, téléphone et informations pratiques.",
+    "chapo": "Zilan figure parmi les établissements de la catégorie « Restaurant » recensés à Nevers. L'entreprise n'a pas de site web référencé sur sa fiche Google. Les éléments présentés ici — adresse, horaires, contact — proviennent de cette fiche et sont datés de leur relevé.",
+    "sections": [
+      {
+        "id": "presentation",
+        "titre": "Zilan en quelques mots",
+        "paragraphes": [
+          "Restaurants font partie des activités les plus consultées localement sur mobile.",
+          "Les restaurants figurent parmi les commerces les plus recherchés en ligne, et pourtant beaucoup n'exposent qu'une fiche Google sans site. Retrouver ici leur carte d'identité complète — adresse, horaires, téléphone, spécialités — aide les clients à réserver et aide l'établissement à exister ailleurs que sur une plateforme d'avis.",
+          "D'après le relevé du 30 août 2026, l'établissement est fermé le lundi et le mardi. Le détail jour par jour figure plus bas."
+        ]
+      },
+      {
+        "id": "acces",
+        "titre": "Adresse et accès",
+        "paragraphes": [
+          "L'établissement est situé au 14 Rue de Charleville, 58000 Nevers.",
+          "Coordonnées géographiques : 46.98927, 3.15071. Le lien d'itinéraire ci-dessous ouvre directement la navigation."
+        ]
+      },
+      {
+        "id": "contact",
+        "titre": "Contacter Zilan",
+        "paragraphes": [
+          "Le contact se fait par téléphone au 09 51 77 05 76. C'est le seul moyen de communication déclaré sur la fiche Google de l'entreprise, avec la visite sur place.",
+          "Si vous dirigez cette entreprise, vous pouvez demander la correction ou le retrait de cette page à tout moment, sans justification."
+        ]
+      },
+      {
+        "id": "avis",
+        "titre": "La réputation de Zilan",
+        "paragraphes": [
+          "Au relevé du 30 août 2026, l'établissement affichait une note de 4,6 sur 5 sur Google, calculée à partir de 572 avis. Cette note évolue en permanence : elle est indiquée ici à titre d'information et n'est pas retraitée.",
+          "Les avis appartiennent à Google et se consultent sur la fiche d'origine, dont le lien figure sur cette page."
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "q": "Quels sont les horaires de Zilan ?",
+        "r": "Au relevé du 30 août 2026, Zilan était fermé le lundi et le mardi. Dans le détail — lundi : fermé ; mardi : fermé ; mercredi : de 10 h à 14 h 30 et de 17 h 30 à 1 h ; jeudi : de 10 h à 14 h 30 et de 17 h 30 à 1 h ; vendredi : de 10 h à 14 h 30 et de 17 h 30 à 2 h ; samedi : de 10 h à 14 h 30 et de 17 h 30 à 2 h ; dimanche : de 10 h à 14 h 30 et de 17 h 30 à 2 h. Ces horaires peuvent changer : un appel préalable reste conseillé."
+      },
+      {
+        "q": "Où se trouve Zilan ?",
+        "r": "Zilan se trouve 14 Rue de Charleville, 58000 Nevers. Un lien d'itinéraire est disponible sur cette page."
+      },
+      {
+        "q": "Comment contacter Zilan ?",
+        "r": "Par téléphone au 09 51 77 05 76, ou directement sur place aux heures d'ouverture."
+      },
+      {
+        "q": "Zilan a-t-il un site internet ?",
+        "r": "Non : aucune adresse de site web n'est déclarée sur la fiche Google de Zilan au 30 août 2026. Cette page tient lieu de référence publique en attendant, le cas échéant, la création d'un site propre à l'entreprise."
+      },
+      {
+        "q": "Zilan est-il accessible aux personnes à mobilité réduite ?",
+        "r": "La fiche Google de l'établissement mentionne : « Entrée accessible en fauteuil roulant ». Cette information est déclarative ; en cas de doute, vérifiez par téléphone."
+      }
+    ],
+    "genere_le": "2026-08-30"
+  },
+  "suggestion": {
+    "etat": "en-attente",
+    "date_soumission": null,
+    "tentatives": 0
+  }
+}

@@ -1,0 +1,195 @@
+{
+  "id": "ChIJDy1cNF1P8EcRobq59WTyGmU",
+  "slug": "garage-des-charmilles",
+  "nom": "Garage des Charmilles",
+  "categorie": "garages-automobile",
+  "categorie_gmb": "Garage automobile",
+  "type_principal": "car_repair",
+  "types": [
+    "car_repair",
+    "service",
+    "point_of_interest",
+    "establishment"
+  ],
+  "ville": "Nevers",
+  "ville_slug": "nevers",
+  "adresse": {
+    "rue": "19 Place Chaméane",
+    "code_postal": "58000",
+    "departement": "58",
+    "region": "Bourgogne-Franche-Comté",
+    "pays": "France",
+    "complete": "19 Pl. Chaméane, 58000 Nevers"
+  },
+  "telephone": "+33 3 86 61 08 20",
+  "geo": {
+    "latitude": 46.9937908,
+    "longitude": 3.1660684999999997
+  },
+  "note": 4.9,
+  "avis": 106,
+  "horaires": [
+    {
+      "jour": 0,
+      "ferme": false,
+      "creneaux": [
+        [
+          "08:30",
+          "12:00"
+        ],
+        [
+          "14:00",
+          "17:30"
+        ]
+      ]
+    },
+    {
+      "jour": 1,
+      "ferme": false,
+      "creneaux": [
+        [
+          "08:30",
+          "12:00"
+        ],
+        [
+          "14:00",
+          "17:30"
+        ]
+      ]
+    },
+    {
+      "jour": 2,
+      "ferme": true,
+      "creneaux": []
+    },
+    {
+      "jour": 3,
+      "ferme": false,
+      "creneaux": [
+        [
+          "08:30",
+          "12:00"
+        ],
+        [
+          "14:00",
+          "17:30"
+        ]
+      ]
+    },
+    {
+      "jour": 4,
+      "ferme": false,
+      "creneaux": [
+        [
+          "08:30",
+          "12:00"
+        ],
+        [
+          "14:00",
+          "17:00"
+        ]
+      ]
+    },
+    {
+      "jour": 5,
+      "ferme": true,
+      "creneaux": []
+    },
+    {
+      "jour": 6,
+      "ferme": true,
+      "creneaux": []
+    }
+  ],
+  "attributs": [
+    "Entrée accessible en fauteuil roulant",
+    "Parking accessible en fauteuil roulant"
+  ],
+  "lien_google": "https://maps.google.com/?cid=7285401862658439841&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
+  "site_web_gmb": null,
+  "statut": "publiee",
+  "backlink": {
+    "etat": "en-attente",
+    "premiere_detection": null,
+    "derniere_detection": null,
+    "derniere_verification": null,
+    "echecs": 0,
+    "url_detectee": null
+  },
+  "retrait": null,
+  "dates": {
+    "collecte": "2026-08-30",
+    "publication": "2026-08-30",
+    "maj": "2026-08-30"
+  },
+  "source": "google-places",
+  "redaction": {
+    "titre": "Garage des Charmilles — Garage et automobile à Nevers",
+    "meta_titre": "Garage des Charmilles, garage et automobile à Nevers",
+    "meta_description": "Garage des Charmilles, garage et automobile à Nevers (19 Place Chaméane) : adresse, horaires, téléphone et informations pratiques.",
+    "chapo": "Garage des Charmilles exerce l'activité de garage et automobile au 19 Place Chaméane, à Nevers. Faute de site internet déclaré sur sa fiche Google, l'entreprise reste difficile à trouver en dehors des cartes. Cette page comble ce manque avec des données factuelles et datées.",
+    "sections": [
+      {
+        "id": "presentation",
+        "titre": "Garage des Charmilles en quelques mots",
+        "paragraphes": [
+          "Garages et services automobiles font partie des activités les plus consultées localement sur mobile.",
+          "Entretien, réparation, contrôle technique : l'automobiliste choisit d'abord un garage proche et disponible. Ces entreprises travaillent à flux tendu et délaissent presque toujours la création d'un site, malgré une demande de recherche locale considérable.",
+          "D'après le relevé du 30 août 2026, l'établissement est fermé le mercredi et le samedi et le dimanche. Le détail jour par jour figure plus bas."
+        ]
+      },
+      {
+        "id": "acces",
+        "titre": "Adresse et accès",
+        "paragraphes": [
+          "L'établissement est situé au 19 Place Chaméane, 58000 Nevers.",
+          "Coordonnées géographiques : 46.99379, 3.16607. Le lien d'itinéraire ci-dessous ouvre directement la navigation."
+        ]
+      },
+      {
+        "id": "contact",
+        "titre": "Contacter Garage des Charmilles",
+        "paragraphes": [
+          "Le contact se fait par téléphone au 03 86 61 08 20. C'est le seul moyen de communication déclaré sur la fiche Google de l'entreprise, avec la visite sur place.",
+          "Si vous dirigez cette entreprise, vous pouvez demander la correction ou le retrait de cette page à tout moment, sans justification."
+        ]
+      },
+      {
+        "id": "avis",
+        "titre": "La réputation de Garage des Charmilles",
+        "paragraphes": [
+          "Au relevé du 30 août 2026, l'établissement affichait une note de 4,9 sur 5 sur Google, calculée à partir de 106 avis. Cette note évolue en permanence : elle est indiquée ici à titre d'information et n'est pas retraitée.",
+          "Les avis appartiennent à Google et se consultent sur la fiche d'origine, dont le lien figure sur cette page."
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "q": "Quels sont les horaires de Garage des Charmilles ?",
+        "r": "Au relevé du 30 août 2026, Garage des Charmilles était fermé le mercredi et le samedi et le dimanche. Dans le détail — lundi : de 8 h 30 à 12 h et de 14 h à 17 h 30 ; mardi : de 8 h 30 à 12 h et de 14 h à 17 h 30 ; mercredi : fermé ; jeudi : de 8 h 30 à 12 h et de 14 h à 17 h 30 ; vendredi : de 8 h 30 à 12 h et de 14 h à 17 h ; samedi : fermé ; dimanche : fermé. Ces horaires peuvent changer : un appel préalable reste conseillé."
+      },
+      {
+        "q": "Où se trouve Garage des Charmilles ?",
+        "r": "Garage des Charmilles se trouve 19 Pl. Chaméane, 58000 Nevers. Un lien d'itinéraire est disponible sur cette page."
+      },
+      {
+        "q": "Comment contacter Garage des Charmilles ?",
+        "r": "Par téléphone au 03 86 61 08 20, ou directement sur place aux heures d'ouverture."
+      },
+      {
+        "q": "Garage des Charmilles a-t-il un site internet ?",
+        "r": "Non : aucune adresse de site web n'est déclarée sur la fiche Google de Garage des Charmilles au 30 août 2026. Cette page tient lieu de référence publique en attendant, le cas échéant, la création d'un site propre à l'entreprise."
+      },
+      {
+        "q": "Garage des Charmilles est-il accessible aux personnes à mobilité réduite ?",
+        "r": "La fiche Google de l'établissement mentionne : « Entrée accessible en fauteuil roulant ». Cette information est déclarative ; en cas de doute, vérifiez par téléphone."
+      }
+    ],
+    "genere_le": "2026-08-30"
+  },
+  "suggestion": {
+    "etat": "en-attente",
+    "date_soumission": null,
+    "tentatives": 0
+  }
+}

@@ -1,0 +1,207 @@
+{
+  "id": "ChIJG6OXajVP8EcRSMuRsnXGVRg",
+  "slug": "goo-pizza",
+  "nom": "Goo Pizza",
+  "categorie": "restaurants",
+  "categorie_gmb": "Pizzeria",
+  "type_principal": "pizza_restaurant",
+  "types": [
+    "pizza_restaurant",
+    "restaurant",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "ville": "Nevers",
+  "ville_slug": "nevers",
+  "adresse": {
+    "rue": "19 Rue François Mitterrand",
+    "code_postal": "58000",
+    "departement": "58",
+    "region": "Bourgogne-Franche-Comté",
+    "pays": "France",
+    "complete": "19 Rue François Mitterrand, 58000 Nevers"
+  },
+  "telephone": "+33 9 87 57 12 33",
+  "geo": {
+    "latitude": 46.988566,
+    "longitude": 3.1617216
+  },
+  "note": 4.8,
+  "avis": 86,
+  "horaires": [
+    {
+      "jour": 0,
+      "ferme": true,
+      "creneaux": []
+    },
+    {
+      "jour": 1,
+      "ferme": false,
+      "creneaux": [
+        [
+          "11:30",
+          "14:00"
+        ],
+        [
+          "17:30",
+          "23:00"
+        ]
+      ]
+    },
+    {
+      "jour": 2,
+      "ferme": false,
+      "creneaux": [
+        [
+          "11:30",
+          "14:00"
+        ],
+        [
+          "17:30",
+          "23:00"
+        ]
+      ]
+    },
+    {
+      "jour": 3,
+      "ferme": false,
+      "creneaux": [
+        [
+          "11:30",
+          "14:00"
+        ],
+        [
+          "17:30",
+          "23:00"
+        ]
+      ]
+    },
+    {
+      "jour": 4,
+      "ferme": false,
+      "creneaux": [
+        [
+          "11:30",
+          "14:00"
+        ],
+        [
+          "17:30",
+          "23:00"
+        ]
+      ]
+    },
+    {
+      "jour": 5,
+      "ferme": false,
+      "creneaux": [
+        [
+          "11:30",
+          "14:00"
+        ],
+        [
+          "17:30",
+          "23:00"
+        ]
+      ]
+    },
+    {
+      "jour": 6,
+      "ferme": false,
+      "creneaux": [
+        [
+          "11:30",
+          "14:00"
+        ],
+        [
+          "17:30",
+          "23:00"
+        ]
+      ]
+    }
+  ],
+  "attributs": [],
+  "lien_google": "https://maps.google.com/?cid=1753525838740048712&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
+  "site_web_gmb": null,
+  "statut": "publiee",
+  "backlink": {
+    "etat": "en-attente",
+    "premiere_detection": null,
+    "derniere_detection": null,
+    "derniere_verification": null,
+    "echecs": 0,
+    "url_detectee": null
+  },
+  "retrait": null,
+  "dates": {
+    "collecte": "2026-08-30",
+    "publication": "2026-08-30",
+    "maj": "2026-08-30"
+  },
+  "source": "google-places",
+  "redaction": {
+    "titre": "Goo Pizza — Restaurant à Nevers",
+    "meta_titre": "Goo Pizza, restaurant à Nevers",
+    "meta_description": "Goo Pizza, restaurant à Nevers (19 Rue François Mitterrand) : adresse, horaires, téléphone et informations pratiques.",
+    "chapo": "Goo Pizza exerce l'activité de restaurant au 19 Rue François Mitterrand, à Nevers. Faute de site internet déclaré sur sa fiche Google, l'entreprise reste difficile à trouver en dehors des cartes. Cette page comble ce manque avec des données factuelles et datées.",
+    "sections": [
+      {
+        "id": "presentation",
+        "titre": "Goo Pizza en quelques mots",
+        "paragraphes": [
+          "À Nevers, les recherches du type « restaurant près de chez moi » se concluent le plus souvent par un appel ou une visite directe.",
+          "Les restaurants figurent parmi les commerces les plus recherchés en ligne, et pourtant beaucoup n'exposent qu'une fiche Google sans site. Retrouver ici leur carte d'identité complète — adresse, horaires, téléphone, spécialités — aide les clients à réserver et aide l'établissement à exister ailleurs que sur une plateforme d'avis.",
+          "D'après le relevé du 30 août 2026, l'établissement est ouvert tous les jours sauf le lundi. Le détail jour par jour figure plus bas."
+        ]
+      },
+      {
+        "id": "acces",
+        "titre": "Adresse et accès",
+        "paragraphes": [
+          "L'établissement est situé au 19 Rue François Mitterrand, 58000 Nevers.",
+          "Coordonnées géographiques : 46.98857, 3.16172. Le lien d'itinéraire ci-dessous ouvre directement la navigation."
+        ]
+      },
+      {
+        "id": "contact",
+        "titre": "Contacter Goo Pizza",
+        "paragraphes": [
+          "Le contact se fait par téléphone au 09 87 57 12 33. C'est le seul moyen de communication déclaré sur la fiche Google de l'entreprise, avec la visite sur place.",
+          "Si vous dirigez cette entreprise, vous pouvez demander la correction ou le retrait de cette page à tout moment, sans justification."
+        ]
+      },
+      {
+        "id": "avis",
+        "titre": "La réputation de Goo Pizza",
+        "paragraphes": [
+          "Au relevé du 30 août 2026, l'établissement affichait une note de 4,8 sur 5 sur Google, calculée à partir de 86 avis. Cette note évolue en permanence : elle est indiquée ici à titre d'information et n'est pas retraitée.",
+          "Les avis appartiennent à Google et se consultent sur la fiche d'origine, dont le lien figure sur cette page."
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "q": "Quels sont les horaires de Goo Pizza ?",
+        "r": "Au relevé du 30 août 2026, Goo Pizza était ouvert tous les jours sauf le lundi. Dans le détail — lundi : fermé ; mardi : de 11 h 30 à 14 h et de 17 h 30 à 23 h ; mercredi : de 11 h 30 à 14 h et de 17 h 30 à 23 h ; jeudi : de 11 h 30 à 14 h et de 17 h 30 à 23 h ; vendredi : de 11 h 30 à 14 h et de 17 h 30 à 23 h ; samedi : de 11 h 30 à 14 h et de 17 h 30 à 23 h ; dimanche : de 11 h 30 à 14 h et de 17 h 30 à 23 h. Ces horaires peuvent changer : un appel préalable reste conseillé."
+      },
+      {
+        "q": "Où se trouve Goo Pizza ?",
+        "r": "Goo Pizza se trouve 19 Rue François Mitterrand, 58000 Nevers. Un lien d'itinéraire est disponible sur cette page."
+      },
+      {
+        "q": "Comment contacter Goo Pizza ?",
+        "r": "Par téléphone au 09 87 57 12 33, ou directement sur place aux heures d'ouverture."
+      },
+      {
+        "q": "Goo Pizza a-t-il un site internet ?",
+        "r": "Non : aucune adresse de site web n'est déclarée sur la fiche Google de Goo Pizza au 30 août 2026. Cette page tient lieu de référence publique en attendant, le cas échéant, la création d'un site propre à l'entreprise."
+      }
+    ],
+    "genere_le": "2026-08-30"
+  },
+  "suggestion": {
+    "etat": "en-attente",
+    "date_soumission": null,
+    "tentatives": 0
+  }
+}

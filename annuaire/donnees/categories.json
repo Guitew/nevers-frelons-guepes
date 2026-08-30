@@ -178,7 +178,7 @@
       "emoji": "🚚",
       "resume": "Déménageurs, taxis, VTC, coursiers et garde-meubles.",
       "description": "Déménagement, course urgente, transport de personnes : des services décidés rapidement et comparés sur la disponibilité. La fiche rassemble la zone couverte, les moyens et le contact direct, sans passer par une place de marché.",
-      "gmb": ["moving_company", "taxi_service", "courier_service", "storage", "truck_rental", "transportation_service"],
+      "gmb": ["moving_company", "taxi_service", "courier_service", "storage"],
       "motscles": ["demenagement", "demenageur", "taxi", "vtc", "coursier", "garde-meuble", "transport"]
     },
     {
@@ -198,7 +198,7 @@
       "emoji": "🛡️",
       "resume": "Agents d'assurance, courtiers, conseillers et agences bancaires.",
       "description": "Derrière les grandes marques, ce sont des agents indépendants qui reçoivent en agence, souvent sans site propre. Horaires, interlocuteur, spécialités : la fiche facilite un premier contact que les sites nationaux rendent difficile.",
-      "gmb": ["insurance_agency", "bank", "atm", "finance", "financial_consultant"],
+      "gmb": ["insurance_agency", "bank"],
       "motscles": ["assurance", "assureur", "courtier", "banque", "credit", "mutuelle"]
     },
     {

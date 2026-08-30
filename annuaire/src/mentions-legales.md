@@ -11,15 +11,16 @@ ariane:
 
 ## Éditeur
 
-*À compléter avant la mise en ligne : dénomination, forme juridique, adresse du siège, numéro
-d'immatriculation (RCS ou répertoire des métiers), numéro de TVA le cas échéant, et nom du
-directeur de la publication.*
+Guillaume Castagné — entrepreneur individuel.
+Directeur de la publication : Guillaume Castagné.
 
 Contact : [{{ site.email }}](mailto:{{ site.email }}).
 
 ## Hébergement
 
-*À compléter : dénomination et adresse de l'hébergeur.*
+o2switch — SARL au capital de 100 000 €.
+222 Boulevard Gustave Flaubert, 63000 Clermont-Ferrand, France.
+Téléphone : 04 44 44 60 40.
 
 ## Origine et nature des données
 

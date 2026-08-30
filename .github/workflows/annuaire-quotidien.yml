@@ -11,6 +11,7 @@ name: Annuaire — collecte quotidienne
 #
 # Secrets attendus :
 #   GOOGLE_PLACES_API_KEY  clé de l'API Google Places (New)
+#   BREVO_API_KEY          clé Brevo pour l'envoi des emails de suggestion GMB
 
 on:
   schedule:
@@ -59,6 +60,14 @@ jobs:
 
       - name: Appliquer les retraits (301 / 410)
         run: node outils/retraits.mjs
+
+      - name: Synchroniser les suggestions marquées depuis le serveur
+        run: node outils/suggestions.mjs --sync
+
+      - name: Envoyer les emails de suggestion GMB
+        env:
+          BREVO_API_KEY: ${{ secrets.BREVO_API_KEY }}
+        run: node outils/email-suggestions.mjs
 
       - name: Résumé
         run: node outils/etat.mjs

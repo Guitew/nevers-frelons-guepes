@@ -61,6 +61,14 @@ if (attente.length) {
   );
 }
 
+const suggAttente = publiees.filter((f) => f.suggestion?.etat === "en-attente" && !f.exemple);
+const suggSoumises = publiees.filter((f) => f.suggestion?.etat === "soumise");
+if (suggAttente.length || suggSoumises.length) {
+  console.log(`\n  SUGGESTIONS GMB`);
+  console.log(`  En attente .......... ${suggAttente.length}`);
+  console.log(`  Soumises ............ ${suggSoumises.length}`);
+}
+
 console.log(`\n  TOP CATÉGORIES`);
 for (const [slug, n] of Object.entries(parCategorie).sort((a, b) => b[1] - a[1]).slice(0, 8)) {
   console.log(`  ${(categorieParSlug(slug)?.nom || slug).padEnd(34, ".")} ${n}`);

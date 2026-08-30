@@ -1,0 +1,203 @@
+{
+  "id": "ChIJgdaKOZNF8EcRiuIcenEoldA",
+  "slug": "igol-centre",
+  "nom": "Igol Centre",
+  "categorie": "garages-automobile",
+  "categorie_gmb": "Concessionnaire automobile",
+  "type_principal": "car_dealer",
+  "types": [
+    "car_dealer",
+    "store",
+    "point_of_interest",
+    "establishment"
+  ],
+  "ville": "Nevers",
+  "ville_slug": "nevers",
+  "adresse": {
+    "rue": "72 Rue d'Alsace Lorraine",
+    "code_postal": "58000",
+    "departement": "58",
+    "region": "Bourgogne-Franche-Comté",
+    "pays": "France",
+    "complete": "72 Rue d'Alsace Lorraine, 58000 Nevers"
+  },
+  "telephone": "+33 3 86 59 78 80",
+  "geo": {
+    "latitude": 46.995487399999995,
+    "longitude": 3.1393028
+  },
+  "note": 4.2,
+  "avis": 30,
+  "horaires": [
+    {
+      "jour": 0,
+      "ferme": false,
+      "creneaux": [
+        [
+          "08:00",
+          "12:00"
+        ],
+        [
+          "13:30",
+          "17:30"
+        ]
+      ]
+    },
+    {
+      "jour": 1,
+      "ferme": false,
+      "creneaux": [
+        [
+          "08:00",
+          "12:00"
+        ],
+        [
+          "13:30",
+          "17:30"
+        ]
+      ]
+    },
+    {
+      "jour": 2,
+      "ferme": false,
+      "creneaux": [
+        [
+          "08:00",
+          "12:00"
+        ],
+        [
+          "13:30",
+          "17:30"
+        ]
+      ]
+    },
+    {
+      "jour": 3,
+      "ferme": false,
+      "creneaux": [
+        [
+          "08:00",
+          "12:00"
+        ],
+        [
+          "13:30",
+          "17:30"
+        ]
+      ]
+    },
+    {
+      "jour": 4,
+      "ferme": false,
+      "creneaux": [
+        [
+          "08:00",
+          "12:00"
+        ],
+        [
+          "13:30",
+          "16:30"
+        ]
+      ]
+    },
+    {
+      "jour": 5,
+      "ferme": true,
+      "creneaux": []
+    },
+    {
+      "jour": 6,
+      "ferme": true,
+      "creneaux": []
+    }
+  ],
+  "attributs": [
+    "Parking accessible en fauteuil roulant"
+  ],
+  "lien_google": "https://maps.google.com/?cid=15029963799264027274&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
+  "site_web_gmb": null,
+  "statut": "publiee",
+  "backlink": {
+    "etat": "en-attente",
+    "premiere_detection": null,
+    "derniere_detection": null,
+    "derniere_verification": null,
+    "echecs": 0,
+    "url_detectee": null
+  },
+  "retrait": null,
+  "dates": {
+    "collecte": "2026-08-30",
+    "publication": "2026-08-30",
+    "maj": "2026-08-30"
+  },
+  "source": "google-places",
+  "redaction": {
+    "titre": "Igol Centre — Garage et automobile à Nevers",
+    "meta_titre": "Igol Centre, garage et automobile à Nevers",
+    "meta_description": "Igol Centre, garage et automobile à Nevers (72 Rue d'Alsace Lorraine) : adresse, horaires, téléphone et informations pratiques.",
+    "chapo": "Igol Centre est un garage et automobile au 72 Rue d'Alsace Lorraine, à Nevers. Aucune adresse web n'est renseignée sur sa fiche Google. Cette page rassemble donc, en un seul endroit stable, les informations que les clients recherchent avant de se déplacer.",
+    "sections": [
+      {
+        "id": "presentation",
+        "titre": "Igol Centre en quelques mots",
+        "paragraphes": [
+          "À Nevers, les recherches du type « garage et automobile près de chez moi » se concluent le plus souvent par un appel ou une visite directe.",
+          "Entretien, réparation, contrôle technique : l'automobiliste choisit d'abord un garage proche et disponible. Ces entreprises travaillent à flux tendu et délaissent presque toujours la création d'un site, malgré une demande de recherche locale considérable.",
+          "D'après le relevé du 30 août 2026, l'établissement est fermé le samedi et le dimanche. Le détail jour par jour figure plus bas."
+        ]
+      },
+      {
+        "id": "acces",
+        "titre": "Adresse et accès",
+        "paragraphes": [
+          "L'établissement est situé au 72 Rue d'Alsace Lorraine, 58000 Nevers.",
+          "Coordonnées géographiques : 46.99549, 3.13930. Le lien d'itinéraire ci-dessous ouvre directement la navigation."
+        ]
+      },
+      {
+        "id": "contact",
+        "titre": "Contacter Igol Centre",
+        "paragraphes": [
+          "Le contact se fait par téléphone au 03 86 59 78 80. C'est le seul moyen de communication déclaré sur la fiche Google de l'entreprise, avec la visite sur place.",
+          "Si vous dirigez cette entreprise, vous pouvez demander la correction ou le retrait de cette page à tout moment, sans justification."
+        ]
+      },
+      {
+        "id": "avis",
+        "titre": "La réputation de Igol Centre",
+        "paragraphes": [
+          "Au relevé du 30 août 2026, l'établissement affichait une note de 4,2 sur 5 sur Google, calculée à partir de 30 avis. Cette note évolue en permanence : elle est indiquée ici à titre d'information et n'est pas retraitée.",
+          "Les avis appartiennent à Google et se consultent sur la fiche d'origine, dont le lien figure sur cette page."
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "q": "Quels sont les horaires de Igol Centre ?",
+        "r": "Au relevé du 30 août 2026, Igol Centre était fermé le samedi et le dimanche. Dans le détail — lundi : de 8 h à 12 h et de 13 h 30 à 17 h 30 ; mardi : de 8 h à 12 h et de 13 h 30 à 17 h 30 ; mercredi : de 8 h à 12 h et de 13 h 30 à 17 h 30 ; jeudi : de 8 h à 12 h et de 13 h 30 à 17 h 30 ; vendredi : de 8 h à 12 h et de 13 h 30 à 16 h 30 ; samedi : fermé ; dimanche : fermé. Ces horaires peuvent changer : un appel préalable reste conseillé."
+      },
+      {
+        "q": "Où se trouve Igol Centre ?",
+        "r": "Igol Centre se trouve 72 Rue d'Alsace Lorraine, 58000 Nevers. Un lien d'itinéraire est disponible sur cette page."
+      },
+      {
+        "q": "Comment contacter Igol Centre ?",
+        "r": "Par téléphone au 03 86 59 78 80, ou directement sur place aux heures d'ouverture."
+      },
+      {
+        "q": "Igol Centre a-t-il un site internet ?",
+        "r": "Non : aucune adresse de site web n'est déclarée sur la fiche Google de Igol Centre au 30 août 2026. Cette page tient lieu de référence publique en attendant, le cas échéant, la création d'un site propre à l'entreprise."
+      },
+      {
+        "q": "Igol Centre est-il accessible aux personnes à mobilité réduite ?",
+        "r": "La fiche Google de l'établissement mentionne : « Parking accessible en fauteuil roulant ». Cette information est déclarative ; en cas de doute, vérifiez par téléphone."
+      }
+    ],
+    "genere_le": "2026-08-30"
+  },
+  "suggestion": {
+    "etat": "en-attente",
+    "date_soumission": null,
+    "tentatives": 0
+  }
+}
