@@ -19,6 +19,9 @@
 
 const RACINE_API = "https://places.googleapis.com/v1";
 
+// Types rejetés par searchNearby (Table B uniquement) — cache auto-alimenté.
+const typesNonSupportes = new Set();
+
 const CHAMPS_RECHERCHE = [
   "places.id",
   "places.displayName",
@@ -75,18 +78,35 @@ async function appeler(url, options = {}) {
   });
   if (!reponse.ok) {
     const detail = await reponse.text();
-    throw new Error(`API Places ${reponse.status} : ${detail.slice(0, 400)}`);
+    const erreur = new Error(`API Places ${reponse.status} : ${detail.slice(0, 400)}`);
+    erreur.status = reponse.status;
+    erreur.detail = detail;
+    throw erreur;
   }
   return reponse.json();
 }
 
+function filtrerTypes(types) {
+  return types.filter((t) => !typesNonSupportes.has(t));
+}
+
+function extraireTypesRejetes(detail) {
+  const m = detail.match(/Unsupported types?:\s*([^."]+)/i);
+  if (!m) return [];
+  return m[1].split(",").map((t) => t.trim()).filter(Boolean);
+}
+
 /**
  * Recherche les établissements d'un type donné autour d'un point.
+ * Filtre automatiquement les types non supportés par searchNearby (Table B).
  * @returns {Promise<object[]>} lieux bruts renvoyés par l'API.
  */
 export async function rechercher({ types, latitude, longitude, rayonMetres, maximum = 20 }) {
-  const corps = {
-    includedTypes: types,
+  let typesFiltres = filtrerTypes(types);
+  if (!typesFiltres.length) return [];
+
+  const construireCorps = (t) => ({
+    includedTypes: t,
     maxResultCount: Math.min(maximum, 20),
     languageCode: "fr",
     regionCode: "FR",
@@ -97,13 +117,29 @@ export async function rechercher({ types, latitude, longitude, rayonMetres, maxi
         radius: Math.min(rayonMetres, 50000),
       },
     },
-  };
-  const data = await appeler(`${RACINE_API}/places:searchNearby`, {
-    method: "POST",
-    body: JSON.stringify(corps),
-    champs: CHAMPS_RECHERCHE,
   });
-  return data.places || [];
+
+  try {
+    const data = await appeler(`${RACINE_API}/places:searchNearby`, {
+      method: "POST",
+      body: JSON.stringify(construireCorps(typesFiltres)),
+      champs: CHAMPS_RECHERCHE,
+    });
+    return data.places || [];
+  } catch (erreur) {
+    if (erreur.status !== 400 || !erreur.detail) throw erreur;
+    const rejetes = extraireTypesRejetes(erreur.detail);
+    if (!rejetes.length) throw erreur;
+    for (const t of rejetes) typesNonSupportes.add(t);
+    typesFiltres = filtrerTypes(typesFiltres);
+    if (!typesFiltres.length) return [];
+    const data = await appeler(`${RACINE_API}/places:searchNearby`, {
+      method: "POST",
+      body: JSON.stringify(construireCorps(typesFiltres)),
+      champs: CHAMPS_RECHERCHE,
+    });
+    return data.places || [];
+  }
 }
 
 /** Relit une fiche Google par son identifiant (suivi du backlink). */

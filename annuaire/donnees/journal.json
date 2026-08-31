@@ -1,154 +1,266 @@
 [
   {
-    "date": "2026-08-19T04:12:23.482Z",
-    "type": "archivage",
-    "id": "demo-007",
-    "nom": "Pharmacie du Banlay",
-    "url": "/pharmacies-opticiens/nevers/pharmacie-du-banlay/",
-    "motif": "règle 410 conservée 215 jours, purgée"
+    "date": "2026-08-30T13:05:49.529Z",
+    "type": "suggestion-soumise",
+    "id": "ChIJyTsBjvZF8EcRlfGemxs9hkg",
+    "nom": "AUGER Daniel ENERGIES",
+    "url": "/electricite/nevers/auger-daniel-energies/"
   },
   {
-    "date": "2026-08-18T13:40:27.545Z",
+    "date": "2026-08-30T13:03:03.071Z",
+    "type": "suggestion-soumise",
+    "id": "ChIJI4Ik82VP8EcRzUYaBfo2bXw",
+    "nom": "Artisan Boulanger \"Le Fournil St Arigle\"",
+    "url": "/boulangeries-patisseries/nevers/artisan-boulanger-le-fournil-st-arigle/"
+  },
+  {
+    "date": "2026-08-30T12:59:28.664Z",
+    "type": "suggestion-soumise",
+    "id": "ChIJj8GgnIhF8EcR1xapkYvurJQ",
+    "nom": "Le Gaspard",
+    "url": "/cafes-bars/nevers/le-gaspard/"
+  },
+  {
+    "date": "2026-08-30T12:12:04.412Z",
     "type": "publication",
-    "id": "demo-013",
-    "nom": "Pizzeria La Nivernaise",
-    "url": "/restaurants/nevers/pizzeria-la-nivernaise/",
-    "categorie": "restaurants",
-    "source": "csv"
-  },
-  {
-    "date": "2026-08-18T13:40:27.546Z",
-    "type": "publication",
-    "id": "demo-014",
-    "nom": "Pharmacie Centrale de Nevers",
-    "url": "/pharmacies-opticiens/nevers/pharmacie-centrale-de-nevers/",
-    "categorie": "pharmacies-opticiens",
-    "source": "csv"
-  },
-  {
-    "date": "2026-08-18T13:39:22.451Z",
-    "type": "retrait-410",
-    "id": "demo-007",
-    "nom": "Pharmacie du Banlay",
-    "url": "/pharmacies-opticiens/nevers/pharmacie-du-banlay/",
-    "motif": "demande du dirigeant",
-    "cible": null
-  },
-  {
-    "date": "2026-08-18T13:39:22.369Z",
-    "type": "retrait-301",
-    "id": "demo-003",
-    "nom": "Le Comptoir des Halles",
-    "url": "/restaurants/nevers/le-comptoir-des-halles/",
-    "motif": "test 301",
-    "cible": "/restaurants/"
-  },
-  {
-    "date": "2026-08-18T13:25:18.099Z",
-    "type": "publication",
-    "id": "demo-001",
-    "nom": "Boulangerie du Croux",
-    "url": "/boulangeries-patisseries/nevers/boulangerie-du-croux/",
-    "categorie": "boulangeries-patisseries",
-    "source": "csv"
-  },
-  {
-    "date": "2026-08-18T13:25:18.101Z",
-    "type": "publication",
-    "id": "demo-002",
-    "nom": "Garage Loire Automobiles",
-    "url": "/garages-automobile/nevers/garage-loire-automobiles/",
-    "categorie": "garages-automobile",
-    "source": "csv"
-  },
-  {
-    "date": "2026-08-18T13:25:18.102Z",
-    "type": "publication",
-    "id": "demo-003",
-    "nom": "Le Comptoir des Halles",
-    "url": "/restaurants/nevers/le-comptoir-des-halles/",
-    "categorie": "restaurants",
-    "source": "csv"
-  },
-  {
-    "date": "2026-08-18T13:25:18.102Z",
-    "type": "publication",
-    "id": "demo-004",
-    "nom": "Coiffure Séverine",
-    "url": "/coiffure-beaute/nevers/coiffure-severine/",
-    "categorie": "coiffure-beaute",
-    "source": "csv"
-  },
-  {
-    "date": "2026-08-18T13:25:18.104Z",
-    "type": "publication",
-    "id": "demo-005",
-    "nom": "Plomberie Berthier",
-    "url": "/plomberie-chauffage/nevers/plomberie-berthier/",
-    "categorie": "plomberie-chauffage",
-    "source": "csv"
-  },
-  {
-    "date": "2026-08-18T13:25:18.105Z",
-    "type": "publication",
-    "id": "demo-006",
-    "nom": "Élec 58 Installations",
-    "url": "/electricite/nevers/elec-58-installations/",
-    "categorie": "electricite",
-    "source": "csv"
-  },
-  {
-    "date": "2026-08-18T13:25:18.105Z",
-    "type": "publication",
-    "id": "demo-007",
-    "nom": "Pharmacie du Banlay",
-    "url": "/pharmacies-opticiens/nevers/pharmacie-du-banlay/",
-    "categorie": "pharmacies-opticiens",
-    "source": "csv"
-  },
-  {
-    "date": "2026-08-18T13:25:18.106Z",
-    "type": "publication",
-    "id": "demo-008",
-    "nom": "Menuiserie Charnay",
-    "url": "/menuiserie-serrurerie/varennes-vauzelles/menuiserie-charnay/",
-    "categorie": "menuiserie-serrurerie",
-    "source": "csv"
-  },
-  {
-    "date": "2026-08-18T13:25:18.107Z",
-    "type": "publication",
-    "id": "demo-009",
-    "nom": "Vétérinaire des Bords de Loire",
-    "url": "/veterinaires-animaux/nevers/veterinaire-des-bords-de-loire/",
-    "categorie": "veterinaires-animaux",
-    "source": "csv"
-  },
-  {
-    "date": "2026-08-18T13:25:18.107Z",
-    "type": "publication",
-    "id": "demo-010",
-    "nom": "Jardins de la Nièvre",
-    "url": "/jardinage-paysage/fourchambault/jardins-de-la-nievre/",
-    "categorie": "jardinage-paysage",
-    "source": "csv"
-  },
-  {
-    "date": "2026-08-18T13:25:18.107Z",
-    "type": "publication",
-    "id": "demo-011",
-    "nom": "Auto-école Saint-Étienne",
-    "url": "/services-aux-particuliers/nevers/auto-ecole-saint-etienne/",
-    "categorie": "services-aux-particuliers",
-    "source": "csv"
-  },
-  {
-    "date": "2026-08-18T13:25:18.108Z",
-    "type": "publication",
-    "id": "demo-012",
-    "nom": "Cave des Trois Ponts",
-    "url": "/commerces-alimentation/nevers/cave-des-trois-ponts/",
+    "id": "ChIJhfdM3JVF8EcRkkJXTReOxpE",
+    "nom": "SUPERMARCHÉ DU COLONEL",
+    "url": "/commerces-alimentation/nevers/supermarche-du-colonel/",
     "categorie": "commerces-alimentation",
-    "source": "csv"
+    "source": "google-places"
+  },
+  {
+    "date": "2026-08-30T12:12:04.415Z",
+    "type": "publication",
+    "id": "ChIJz0wDh4hF8EcROnNHqlfx4iw",
+    "nom": "Epicerie Du Gaspard",
+    "url": "/commerces-alimentation/nevers/epicerie-du-gaspard/",
+    "categorie": "commerces-alimentation",
+    "source": "google-places"
+  },
+  {
+    "date": "2026-08-30T12:12:04.416Z",
+    "type": "publication",
+    "id": "ChIJKUt8xZZF8EcRIhQMzg0OSCQ",
+    "nom": "École primaire Jules Ferry",
+    "url": "/comptabilite-conseil/nevers/ecole-primaire-jules-ferry/",
+    "categorie": "comptabilite-conseil",
+    "source": "google-places"
+  },
+  {
+    "date": "2026-08-30T12:12:04.418Z",
+    "type": "publication",
+    "id": "ChIJ7QW7hg9F8EcR1SnFeV2XZ-Q",
+    "nom": "Superette General de Gaulle",
+    "url": "/commerces-alimentation/nevers/superette-general-de-gaulle/",
+    "categorie": "commerces-alimentation",
+    "source": "google-places"
+  },
+  {
+    "date": "2026-08-30T12:12:04.419Z",
+    "type": "publication",
+    "id": "ChIJ7V_5qJZF8EcR7w7ckpQTlI4",
+    "nom": "Crèche Souricette",
+    "url": "/services-aux-particuliers/nevers/creche-souricette/",
+    "categorie": "services-aux-particuliers",
+    "source": "google-places"
+  },
+  {
+    "date": "2026-08-30T12:12:04.420Z",
+    "type": "publication",
+    "id": "ChIJI4Ik82VP8EcRzUYaBfo2bXw",
+    "nom": "Artisan Boulanger \"Le Fournil St Arigle\"",
+    "url": "/boulangeries-patisseries/nevers/artisan-boulanger-le-fournil-st-arigle/",
+    "categorie": "boulangeries-patisseries",
+    "source": "google-places"
+  },
+  {
+    "date": "2026-08-30T12:12:04.422Z",
+    "type": "publication",
+    "id": "ChIJG6OXajVP8EcRSMuRsnXGVRg",
+    "nom": "Goo Pizza",
+    "url": "/restaurants/nevers/goo-pizza/",
+    "categorie": "restaurants",
+    "source": "google-places"
+  },
+  {
+    "date": "2026-08-30T12:12:04.423Z",
+    "type": "publication",
+    "id": "ChIJlSR_gGxP8EcR5dKRGLs7URs",
+    "nom": "AUTO PROPRE",
+    "url": "/garages-automobile/nevers/auto-propre/",
+    "categorie": "garages-automobile",
+    "source": "google-places"
+  },
+  {
+    "date": "2026-08-30T12:12:04.424Z",
+    "type": "publication",
+    "id": "ChIJDy1cNF1P8EcRobq59WTyGmU",
+    "nom": "Garage des Charmilles",
+    "url": "/garages-automobile/nevers/garage-des-charmilles/",
+    "categorie": "garages-automobile",
+    "source": "google-places"
+  },
+  {
+    "date": "2026-08-30T12:12:04.429Z",
+    "type": "publication",
+    "id": "ChIJS8aq6m1P8EcRFQDnTz0F4XM",
+    "nom": "Nièvre Habitat",
+    "url": "/immobilier/nevers/nievre-habitat/",
+    "categorie": "immobilier",
+    "source": "google-places"
+  },
+  {
+    "date": "2026-08-30T12:12:04.430Z",
+    "type": "publication",
+    "id": "ChIJuSIHVGpP8EcRMjs_mkWywdk",
+    "nom": "Produit Fraicheur/ Alimentation Générale",
+    "url": "/commerces-alimentation/nevers/produit-fraicheur-alimentation-generale/",
+    "categorie": "commerces-alimentation",
+    "source": "google-places"
+  },
+  {
+    "date": "2026-08-30T12:12:04.431Z",
+    "type": "publication",
+    "id": "ChIJf6Sw4oZF8EcR5zv13QNqomg",
+    "nom": "Guinguette On Loire",
+    "url": "/restaurants/nevers/guinguette-on-loire/",
+    "categorie": "restaurants",
+    "source": "google-places"
+  },
+  {
+    "date": "2026-08-30T12:12:04.432Z",
+    "type": "publication",
+    "id": "ChIJzZoynHhP8EcRvMA4Y_pYrRI",
+    "nom": "Le Pré Fleuri",
+    "url": "/cafes-bars/sermoise-sur-loire/le-pre-fleuri/",
+    "categorie": "cafes-bars",
+    "source": "google-places"
+  },
+  {
+    "date": "2026-08-30T12:12:04.433Z",
+    "type": "publication",
+    "id": "ChIJ89SEe4hF8EcRAkJxBHW7c10",
+    "nom": "Styl Hom Coiffure",
+    "url": "/coiffure-beaute/nevers/styl-hom-coiffure/",
+    "categorie": "coiffure-beaute",
+    "source": "google-places"
+  },
+  {
+    "date": "2026-08-30T12:12:04.434Z",
+    "type": "publication",
+    "id": "ChIJR0Z-qX9F8EcR6OSmQXJ-yq0",
+    "nom": "Joubert Dominique",
+    "url": "/medecins-dentistes/challuy/joubert-dominique/",
+    "categorie": "medecins-dentistes",
+    "source": "google-places"
+  },
+  {
+    "date": "2026-08-30T12:12:04.435Z",
+    "type": "publication",
+    "id": "ChIJV88zMQBP8EcR3ZkN_md0B30",
+    "nom": "Domicile",
+    "url": "/medecins-dentistes/nevers/domicile/",
+    "categorie": "medecins-dentistes",
+    "source": "google-places"
+  },
+  {
+    "date": "2026-08-30T12:12:04.435Z",
+    "type": "publication",
+    "id": "ChIJKUgFj4RF8EcRvhf_mvygNkY",
+    "nom": "L'Epicurienne, idéale pour courts et longs séjours avec jardin arboré et piscine",
+    "url": "/hebergement/nevers/l-epicurienne-ideale-pour-courts-et-longs-sejours-avec-jardin-arbore-et-piscine/",
+    "categorie": "hebergement",
+    "source": "google-places"
+  },
+  {
+    "date": "2026-08-30T12:12:04.436Z",
+    "type": "publication",
+    "id": "ChIJlTb1CwBF8EcR1tfL7Xsv-2M",
+    "nom": "DSL",
+    "url": "/transport-demenagement/nevers/dsl/",
+    "categorie": "transport-demenagement",
+    "source": "google-places"
+  },
+  {
+    "date": "2026-08-30T12:12:04.437Z",
+    "type": "publication",
+    "id": "ChIJL4LT8RdP8EcRZy5lWVoynJw",
+    "nom": "Diamond Clean 58",
+    "url": "/garages-automobile/nevers/diamond-clean-58/",
+    "categorie": "garages-automobile",
+    "source": "google-places"
+  },
+  {
+    "date": "2026-08-30T12:12:04.438Z",
+    "type": "publication",
+    "id": "ChIJyTsBjvZF8EcRlfGemxs9hkg",
+    "nom": "AUGER Daniel ENERGIES",
+    "url": "/electricite/nevers/auger-daniel-energies/",
+    "categorie": "electricite",
+    "source": "google-places"
+  },
+  {
+    "date": "2026-08-30T12:08:33.690Z",
+    "type": "publication",
+    "id": "ChIJj8GgnIhF8EcR1xapkYvurJQ",
+    "nom": "Le Gaspard",
+    "url": "/cafes-bars/nevers/le-gaspard/",
+    "categorie": "cafes-bars",
+    "source": "google-places"
+  },
+  {
+    "date": "2026-08-30T12:08:33.707Z",
+    "type": "publication",
+    "id": "ChIJ76Dz8pRF8EcRxvkAZ3CkJKA",
+    "nom": "Le Chiquito",
+    "url": "/mode-equipement-maison/nevers/le-chiquito/",
+    "categorie": "mode-equipement-maison",
+    "source": "google-places"
+  },
+  {
+    "date": "2026-08-30T12:08:33.708Z",
+    "type": "publication",
+    "id": "ChIJ00l4ZotF8EcRxo78DTF4SFY",
+    "nom": "Berat market",
+    "url": "/commerces-alimentation/nevers/berat-market/",
+    "categorie": "commerces-alimentation",
+    "source": "google-places"
+  },
+  {
+    "date": "2026-08-30T12:08:33.709Z",
+    "type": "publication",
+    "id": "ChIJ--C8RohF8EcR70Zphgwi29Q",
+    "nom": "Le Bosphore",
+    "url": "/restaurants/nevers/le-bosphore/",
+    "categorie": "restaurants",
+    "source": "google-places"
+  },
+  {
+    "date": "2026-08-30T12:08:33.710Z",
+    "type": "publication",
+    "id": "ChIJedGFoIlF8EcRHt0BPboC2kk",
+    "nom": "Zilan",
+    "url": "/restaurants/nevers/zilan/",
+    "categorie": "restaurants",
+    "source": "google-places"
+  },
+  {
+    "date": "2026-08-30T12:08:33.711Z",
+    "type": "publication",
+    "id": "ChIJgdaKOZNF8EcRiuIcenEoldA",
+    "nom": "Igol Centre",
+    "url": "/garages-automobile/nevers/igol-centre/",
+    "categorie": "garages-automobile",
+    "source": "google-places"
+  },
+  {
+    "date": "2026-08-30T12:08:33.713Z",
+    "type": "publication",
+    "id": "ChIJx_apHgBF8EcRj95omolWhgY",
+    "nom": "Clinique vétérinaire Alain Audeval",
+    "url": "/veterinaires-animaux/nevers/clinique-veterinaire-alain-audeval/",
+    "categorie": "veterinaires-animaux",
+    "source": "google-places"
   }
 ]

@@ -52,7 +52,7 @@ function ajouter(map, cle, valeur) {
 }
 
 const pages = parcourir(SORTIE, ".html");
-const urlDe = (p) => "/" + path.relative(SORTIE, p).replace(/index\.html$/, "");
+const urlDe = (p) => "/" + path.relative(SORTIE, p).replace(/\\/g, "/").replace(/index\.html$/, "");
 
 /**
  * Retire le préfixe du sous-dossier d'un lien.
