@@ -16,6 +16,7 @@ name: Annuaire — collecte quotidienne
 on:
   schedule:
     - cron: "15 5 * * *" # 05 h 15 UTC, soit 07 h 15 à Paris en été
+    - cron: "15 10 * * *" # 10 h 15 UTC (12 h 15 Paris) — rattrapage si le premier run a échoué
   workflow_dispatch:
     inputs:
       fournisseur:

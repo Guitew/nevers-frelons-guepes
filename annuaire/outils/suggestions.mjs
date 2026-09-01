@@ -44,6 +44,7 @@ function enAttente(fiche) {
     fiche.statut === ETATS.PUBLIEE &&
     !fiche.site_web_gmb &&
     fiche.suggestion?.etat === "en-attente" &&
+    !fiche.suggestion?.date_email &&
     !fiche.exemple
   );
 }
@@ -52,14 +53,26 @@ function soumise(fiche) {
   return fiche.suggestion?.etat === "soumise";
 }
 
+function mailEnvoye(fiche) {
+  return (
+    fiche.statut === ETATS.PUBLIEE &&
+    !fiche.site_web_gmb &&
+    fiche.suggestion?.etat === "en-attente" &&
+    !!fiche.suggestion?.date_email &&
+    !fiche.exemple
+  );
+}
+
 async function lister() {
   const fiches = lireFiches();
   const attente = fiches.filter(enAttente);
+  const mailees = fiches.filter(mailEnvoye);
   const soumises = fiches.filter(soumise);
 
   console.log(`\n  SUGGESTIONS GMB — ${fiches.length} fiche(s)\n  ${"─".repeat(46)}`);
-  console.log(`  En attente .......... ${attente.length}`);
-  console.log(`  Soumises ............ ${soumises.length}`);
+  console.log(`  En attente (pas encore mailées) .. ${attente.length}`);
+  console.log(`  Mail envoyé (à suggérer) ......... ${mailees.length}`);
+  console.log(`  Soumises ......................... ${soumises.length}`);
 
   if (attente.length) {
     console.log(`\n  EN ATTENTE DE SOUMISSION :`);

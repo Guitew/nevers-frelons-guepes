@@ -1,8 +1,11 @@
 #!/usr/bin/env node
 /**
- * Envoie un email par fiche GMB en attente de suggestion.
+ * Envoie un email par fiche GMB jamais encore mailée.
  * Chaque email contient un lien vers la page d'aide (suggerer.php)
  * qui permet de copier l'URL, ouvrir Maps, et marquer la fiche.
+ *
+ * Après envoi, la fiche est marquée (suggestion.date_email) pour ne
+ * pas être renvoyée les jours suivants ni par le cron de rattrapage.
  *
  * Usage :
  *   node outils/email-suggestions.mjs               envoie les emails
@@ -12,12 +15,9 @@
  * Variable d'environnement requise : BREVO_API_KEY
  */
 
-import { execSync } from "node:child_process";
-import { dirname, join } from "node:path";
-import { fileURLToPath } from "node:url";
-
-const __dirname = dirname(fileURLToPath(import.meta.url));
-const RACINE = join(__dirname, "..");
+import { lireFiches, ecrireFiche, urlFiche, ETATS } from "./lib/fiches.mjs";
+import { site } from "./lib/site.mjs";
+import { aujourdhui } from "./lib/texte.mjs";
 
 const args = new Map(
   process.argv.slice(2).map((a) => {
@@ -38,12 +38,22 @@ function pause(ms) {
   return new Promise((r) => setTimeout(r, ms));
 }
 
+function aMailer(fiche) {
+  return (
+    fiche.statut === ETATS.PUBLIEE &&
+    !fiche.site_web_gmb &&
+    fiche.suggestion?.etat === "en-attente" &&
+    !fiche.suggestion?.date_email &&
+    !fiche.exemple
+  );
+}
+
 function urlSuggerer(fiche) {
   const params = new URLSearchParams({
     id: fiche.id,
     t: SUGGERER_TOKEN,
     nom: fiche.nom,
-    url: fiche.url_page,
+    url: site.base + urlFiche(fiche),
   });
   return `${SUGGERER_BASE}?${params}`;
 }
@@ -95,25 +105,18 @@ async function principal() {
     return;
   }
 
-  let lot;
-  try {
-    const json = execSync("node outils/suggestions.mjs --lot", { cwd: RACINE, encoding: "utf-8" });
-    lot = JSON.parse(json);
-  } catch (e) {
-    console.error(`Erreur chargement lot : ${e.message}`);
-    process.exitCode = 1;
+  const fiches = lireFiches();
+  const aTraiter = fiches.filter(aMailer).slice(0, maxFiches);
+
+  if (!aTraiter.length) {
+    console.log("Aucune nouvelle fiche à mailer.");
     return;
   }
 
-  if (!lot.length) {
-    console.log("Aucune fiche en attente.");
-    return;
-  }
-
-  const aTraiter = lot.slice(0, maxFiches);
   console.log(`${aTraiter.length} fiche(s) à traiter.`);
   if (essai) console.log("Mode essai — aucun email ne sera envoyé.\n");
 
+  const date = aujourdhui();
   let envoyes = 0;
   for (let i = 0; i < aTraiter.length; i++) {
     const fiche = aTraiter[i];
@@ -128,6 +131,10 @@ async function principal() {
       await envoyerEmail(fiche);
       envoyes++;
       console.log(`    ✓ email envoyé`);
+
+      fiche.suggestion = fiche.suggestion || {};
+      fiche.suggestion.date_email = date;
+      ecrireFiche(fiche);
     } catch (e) {
       console.error(`    ✗ ${e.message}`);
     }
