@@ -1,0 +1,120 @@
+{
+  "id": "ChIJyzaox9sR6kcRXq53OzeSJa0",
+  "slug": "transports-archereau",
+  "nom": "Transports Archereau",
+  "categorie": "transport-demenagement",
+  "categorie_gmb": "Entreprise de déménagement",
+  "type_principal": "moving_company",
+  "types": [
+    "moving_company",
+    "shipping_service",
+    "transportation_service",
+    "service",
+    "point_of_interest",
+    "establishment"
+  ],
+  "ville": "Prix-lès-Mézières",
+  "ville_slug": "prix-les-mezieres",
+  "adresse": {
+    "rue": "9 Chemin de la Haie-Arrel",
+    "code_postal": "08000",
+    "departement": "08",
+    "region": "Grand Est",
+    "pays": "France",
+    "complete": "9 Chem. de la Haie-Arrel, 08000 Prix-lès-Mézières"
+  },
+  "telephone": "03 24 57 19 20",
+  "geo": {
+    "latitude": 49.7534607,
+    "longitude": 4.6939734
+  },
+  "note": 3.6,
+  "avis": 42,
+  "horaires": null,
+  "attributs": [
+    "Parking accessible en fauteuil roulant"
+  ],
+  "lien_google": "https://maps.google.com/?cid=12476539108618382942&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
+  "site_web_gmb": null,
+  "statut": "publiee",
+  "backlink": {
+    "etat": "absent",
+    "premiere_detection": null,
+    "derniere_detection": null,
+    "derniere_verification": "2026-09-01T05:36:17.683Z",
+    "echecs": 1,
+    "url_detectee": null
+  },
+  "suggestion": {
+    "etat": "en-attente",
+    "date_soumission": null,
+    "tentatives": 0
+  },
+  "retrait": null,
+  "dates": {
+    "collecte": "2026-09-01",
+    "publication": "2026-09-01",
+    "maj": "2026-09-01"
+  },
+  "source": "google-places",
+  "redaction": {
+    "titre": "Transports Archereau — Transport et déménagement à Prix-lès-Mézières",
+    "meta_titre": "Transports Archereau, transport et déménagement à…",
+    "meta_description": "Transports Archereau, transport et déménagement à Prix-lès-Mézières (9 Chemin de la Haie-Arrel) : adresse, horaires, téléphone et informations pratiques.",
+    "chapo": "Transports Archereau est un transport et déménagement au 9 Chemin de la Haie-Arrel, à Prix-lès-Mézières. Aucune adresse web n'est renseignée sur sa fiche Google. Cette page rassemble donc, en un seul endroit stable, les informations que les clients recherchent avant de se déplacer.",
+    "sections": [
+      {
+        "id": "presentation",
+        "titre": "Transports Archereau en quelques mots",
+        "paragraphes": [
+          "Transport, déménagement et stockage font partie des activités les plus consultées localement sur mobile.",
+          "Déménagement, course urgente, transport de personnes : des services décidés rapidement et comparés sur la disponibilité. La fiche rassemble la zone couverte, les moyens et le contact direct, sans passer par une place de marché."
+        ]
+      },
+      {
+        "id": "acces",
+        "titre": "Adresse et accès",
+        "paragraphes": [
+          "L'établissement est situé au 9 Chemin de la Haie-Arrel, 08000 Prix-lès-Mézières.",
+          "Coordonnées géographiques : 49.75346, 4.69397. Le lien d'itinéraire ci-dessous ouvre directement la navigation."
+        ]
+      },
+      {
+        "id": "contact",
+        "titre": "Contacter Transports Archereau",
+        "paragraphes": [
+          "Le contact se fait par téléphone au 03 24 57 19 20. C'est le seul moyen de communication déclaré sur la fiche Google de l'entreprise, avec la visite sur place.",
+          "Si vous dirigez cette entreprise, vous pouvez demander la correction ou le retrait de cette page à tout moment, sans justification."
+        ]
+      },
+      {
+        "id": "avis",
+        "titre": "La réputation de Transports Archereau",
+        "paragraphes": [
+          "Au relevé du 1 septembre 2026, l'établissement affichait une note de 3,6 sur 5 sur Google, calculée à partir de 42 avis. Cette note évolue en permanence : elle est indiquée ici à titre d'information et n'est pas retraitée.",
+          "Les avis appartiennent à Google et se consultent sur la fiche d'origine, dont le lien figure sur cette page."
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "q": "Où se trouve Transports Archereau ?",
+        "r": "Transports Archereau se trouve 9 Chem. de la Haie-Arrel, 08000 Prix-lès-Mézières. Un lien d'itinéraire est disponible sur cette page."
+      },
+      {
+        "q": "Comment contacter Transports Archereau ?",
+        "r": "Par téléphone au 03 24 57 19 20, ou directement sur place aux heures d'ouverture."
+      },
+      {
+        "q": "Transports Archereau a-t-il un site internet ?",
+        "r": "Non : aucune adresse de site web n'est déclarée sur la fiche Google de Transports Archereau au 1 septembre 2026. Cette page tient lieu de référence publique en attendant, le cas échéant, la création d'un site propre à l'entreprise."
+      },
+      {
+        "q": "Transports Archereau est-il accessible aux personnes à mobilité réduite ?",
+        "r": "La fiche Google de l'établissement mentionne : « Parking accessible en fauteuil roulant ». Cette information est déclarative ; en cas de doute, vérifiez par téléphone."
+      }
+    ],
+    "genere_le": "2026-09-01"
+  },
+  "statut_google": "OPERATIONAL"
+}

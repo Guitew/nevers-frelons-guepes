@@ -1,0 +1,120 @@
+{
+  "id": "ChIJubSbh8XXjEcRTenboloTFWw",
+  "slug": "perrenot-jura-services",
+  "nom": "Perrenot Jura Services",
+  "categorie": "garages-automobile",
+  "categorie_gmb": "Garage automobile",
+  "type_principal": "car_repair",
+  "types": [
+    "car_repair",
+    "service",
+    "point_of_interest",
+    "establishment"
+  ],
+  "ville": "Montmorot",
+  "ville_slug": "montmorot",
+  "adresse": {
+    "rue": "12 Chemin des Crochères",
+    "code_postal": "39570",
+    "departement": "39",
+    "region": "Bourgogne-Franche-Comté",
+    "pays": "France",
+    "complete": "12 Chem. des Crochères, 39570 Montmorot"
+  },
+  "telephone": "03 84 87 38 10",
+  "geo": {
+    "latitude": 46.677162900000006,
+    "longitude": 5.5356276
+  },
+  "note": 4.2,
+  "avis": 64,
+  "horaires": null,
+  "attributs": [
+    "Entrée accessible en fauteuil roulant",
+    "Parking accessible en fauteuil roulant",
+    "Toilettes accessibles en fauteuil roulant"
+  ],
+  "lien_google": "https://maps.google.com/?cid=7788152410607446349&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
+  "site_web_gmb": null,
+  "statut": "publiee",
+  "backlink": {
+    "etat": "absent",
+    "premiere_detection": null,
+    "derniere_detection": null,
+    "derniere_verification": "2026-09-01T05:36:17.683Z",
+    "echecs": 1,
+    "url_detectee": null
+  },
+  "suggestion": {
+    "etat": "en-attente",
+    "date_soumission": null,
+    "tentatives": 0
+  },
+  "retrait": null,
+  "dates": {
+    "collecte": "2026-09-01",
+    "publication": "2026-09-01",
+    "maj": "2026-09-01"
+  },
+  "source": "google-places",
+  "redaction": {
+    "titre": "Perrenot Jura Services — Garage et automobile à Montmorot",
+    "meta_titre": "Perrenot Jura Services, garage et automobile à Montmorot",
+    "meta_description": "Perrenot Jura Services, garage et automobile à Montmorot (12 Chemin des Crochères) : adresse, horaires, téléphone et informations pratiques.",
+    "chapo": "Perrenot Jura Services exerce l'activité de garage et automobile au 12 Chemin des Crochères, à Montmorot. Faute de site internet déclaré sur sa fiche Google, l'entreprise reste difficile à trouver en dehors des cartes. Cette page comble ce manque avec des données factuelles et datées.",
+    "sections": [
+      {
+        "id": "presentation",
+        "titre": "Perrenot Jura Services en quelques mots",
+        "paragraphes": [
+          "Le choix d'un garage et automobile se joue sur trois critères : la proximité, les horaires et la facilité de contact.",
+          "Entretien, réparation, contrôle technique : l'automobiliste choisit d'abord un garage proche et disponible. Ces entreprises travaillent à flux tendu et délaissent presque toujours la création d'un site, malgré une demande de recherche locale considérable."
+        ]
+      },
+      {
+        "id": "acces",
+        "titre": "Adresse et accès",
+        "paragraphes": [
+          "L'établissement est situé au 12 Chemin des Crochères, 39570 Montmorot.",
+          "Coordonnées géographiques : 46.67716, 5.53563. Le lien d'itinéraire ci-dessous ouvre directement la navigation."
+        ]
+      },
+      {
+        "id": "contact",
+        "titre": "Contacter Perrenot Jura Services",
+        "paragraphes": [
+          "Le contact se fait par téléphone au 03 84 87 38 10. C'est le seul moyen de communication déclaré sur la fiche Google de l'entreprise, avec la visite sur place.",
+          "Si vous dirigez cette entreprise, vous pouvez demander la correction ou le retrait de cette page à tout moment, sans justification."
+        ]
+      },
+      {
+        "id": "avis",
+        "titre": "La réputation de Perrenot Jura Services",
+        "paragraphes": [
+          "Au relevé du 1 septembre 2026, l'établissement affichait une note de 4,2 sur 5 sur Google, calculée à partir de 64 avis. Cette note évolue en permanence : elle est indiquée ici à titre d'information et n'est pas retraitée.",
+          "Les avis appartiennent à Google et se consultent sur la fiche d'origine, dont le lien figure sur cette page."
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "q": "Où se trouve Perrenot Jura Services ?",
+        "r": "Perrenot Jura Services se trouve 12 Chem. des Crochères, 39570 Montmorot. Un lien d'itinéraire est disponible sur cette page."
+      },
+      {
+        "q": "Comment contacter Perrenot Jura Services ?",
+        "r": "Par téléphone au 03 84 87 38 10, ou directement sur place aux heures d'ouverture."
+      },
+      {
+        "q": "Perrenot Jura Services a-t-il un site internet ?",
+        "r": "Non : aucune adresse de site web n'est déclarée sur la fiche Google de Perrenot Jura Services au 1 septembre 2026. Cette page tient lieu de référence publique en attendant, le cas échéant, la création d'un site propre à l'entreprise."
+      },
+      {
+        "q": "Perrenot Jura Services est-il accessible aux personnes à mobilité réduite ?",
+        "r": "La fiche Google de l'établissement mentionne : « Entrée accessible en fauteuil roulant ». Cette information est déclarative ; en cas de doute, vérifiez par téléphone."
+      }
+    ],
+    "genere_le": "2026-09-01"
+  },
+  "statut_google": "OPERATIONAL"
+}

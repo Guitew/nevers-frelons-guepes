@@ -1,0 +1,218 @@
+{
+  "id": "ChIJk3ZCiZubyxIR6r8LI8lDz-Q",
+  "slug": "l-italiano",
+  "nom": "L'italiano",
+  "categorie": "restaurants",
+  "categorie_gmb": "Restaurant",
+  "type_principal": "restaurant",
+  "types": [
+    "restaurant",
+    "pizza_restaurant",
+    "italian_restaurant",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "ville": "Digne-les-Bains",
+  "ville_slug": "digne-les-bains",
+  "adresse": {
+    "rue": "Place de la Barlette",
+    "code_postal": "04000",
+    "departement": "04",
+    "region": "Provence-Alpes-Côte d'Azur",
+    "pays": "France",
+    "complete": "Pl. de la Barlette, 04000 Digne-les-Bains"
+  },
+  "telephone": "07 88 95 96 20",
+  "geo": {
+    "latitude": 44.0913416,
+    "longitude": 6.2340615
+  },
+  "note": 4.7,
+  "avis": 613,
+  "horaires": [
+    {
+      "jour": 0,
+      "ferme": false,
+      "creneaux": [
+        [
+          "12:00",
+          "14:00"
+        ],
+        [
+          "19:00",
+          "21:45"
+        ]
+      ]
+    },
+    {
+      "jour": 1,
+      "ferme": false,
+      "creneaux": [
+        [
+          "12:00",
+          "14:00"
+        ],
+        [
+          "19:00",
+          "21:45"
+        ]
+      ]
+    },
+    {
+      "jour": 2,
+      "ferme": false,
+      "creneaux": [
+        [
+          "12:00",
+          "14:00"
+        ],
+        [
+          "19:00",
+          "21:45"
+        ]
+      ]
+    },
+    {
+      "jour": 3,
+      "ferme": false,
+      "creneaux": [
+        [
+          "12:00",
+          "14:00"
+        ],
+        [
+          "19:00",
+          "21:45"
+        ]
+      ]
+    },
+    {
+      "jour": 4,
+      "ferme": false,
+      "creneaux": [
+        [
+          "12:00",
+          "14:00"
+        ],
+        [
+          "19:00",
+          "22:00"
+        ]
+      ]
+    },
+    {
+      "jour": 5,
+      "ferme": false,
+      "creneaux": [
+        [
+          "12:00",
+          "14:00"
+        ],
+        [
+          "19:00",
+          "22:00"
+        ]
+      ]
+    },
+    {
+      "jour": 6,
+      "ferme": true,
+      "creneaux": []
+    }
+  ],
+  "attributs": [
+    "Entrée accessible en fauteuil roulant",
+    "Parking accessible en fauteuil roulant",
+    "Toilettes accessibles en fauteuil roulant",
+    "Places assises accessibles en fauteuil roulant"
+  ],
+  "lien_google": "https://maps.google.com/?cid=16487471291982135274&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
+  "site_web_gmb": null,
+  "statut": "publiee",
+  "backlink": {
+    "etat": "absent",
+    "premiere_detection": null,
+    "derniere_detection": null,
+    "derniere_verification": "2026-09-01T05:36:17.683Z",
+    "echecs": 1,
+    "url_detectee": null
+  },
+  "suggestion": {
+    "etat": "en-attente",
+    "date_soumission": null,
+    "tentatives": 0
+  },
+  "retrait": null,
+  "dates": {
+    "collecte": "2026-09-01",
+    "publication": "2026-09-01",
+    "maj": "2026-09-01"
+  },
+  "source": "google-places",
+  "redaction": {
+    "titre": "L'italiano — Restaurant à Digne-les-Bains",
+    "meta_titre": "L'italiano, restaurant à Digne-les-Bains",
+    "meta_description": "L'italiano, restaurant à Digne-les-Bains (Place de la Barlette) : adresse, horaires, téléphone et informations pratiques.",
+    "chapo": "L'italiano figure parmi les établissements de la catégorie « Restaurant » recensés à Digne-les-Bains. L'entreprise n'a pas de site web référencé sur sa fiche Google. Les éléments présentés ici — adresse, horaires, contact — proviennent de cette fiche et sont datés de leur relevé.",
+    "sections": [
+      {
+        "id": "presentation",
+        "titre": "L'italiano en quelques mots",
+        "paragraphes": [
+          "Restaurants font partie des activités les plus consultées localement sur mobile.",
+          "Les restaurants figurent parmi les commerces les plus recherchés en ligne, et pourtant beaucoup n'exposent qu'une fiche Google sans site. Retrouver ici leur carte d'identité complète — adresse, horaires, téléphone, spécialités — aide les clients à réserver et aide l'établissement à exister ailleurs que sur une plateforme d'avis.",
+          "D'après le relevé du 1 septembre 2026, l'établissement est ouvert tous les jours sauf le dimanche. Le détail jour par jour figure plus bas."
+        ]
+      },
+      {
+        "id": "acces",
+        "titre": "Adresse et accès",
+        "paragraphes": [
+          "L'établissement est situé au Place de la Barlette, 04000 Digne-les-Bains.",
+          "Coordonnées géographiques : 44.09134, 6.23406. Le lien d'itinéraire ci-dessous ouvre directement la navigation."
+        ]
+      },
+      {
+        "id": "contact",
+        "titre": "Contacter L'italiano",
+        "paragraphes": [
+          "Le contact se fait par téléphone au 07 88 95 96 20. C'est le seul moyen de communication déclaré sur la fiche Google de l'entreprise, avec la visite sur place.",
+          "Si vous dirigez cette entreprise, vous pouvez demander la correction ou le retrait de cette page à tout moment, sans justification."
+        ]
+      },
+      {
+        "id": "avis",
+        "titre": "La réputation de L'italiano",
+        "paragraphes": [
+          "Au relevé du 1 septembre 2026, l'établissement affichait une note de 4,7 sur 5 sur Google, calculée à partir de 613 avis. Cette note évolue en permanence : elle est indiquée ici à titre d'information et n'est pas retraitée.",
+          "Les avis appartiennent à Google et se consultent sur la fiche d'origine, dont le lien figure sur cette page."
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "q": "Quels sont les horaires de L'italiano ?",
+        "r": "Au relevé du 1 septembre 2026, L'italiano était ouvert tous les jours sauf le dimanche. Dans le détail — lundi : de 12 h à 14 h et de 19 h à 21 h 45 ; mardi : de 12 h à 14 h et de 19 h à 21 h 45 ; mercredi : de 12 h à 14 h et de 19 h à 21 h 45 ; jeudi : de 12 h à 14 h et de 19 h à 21 h 45 ; vendredi : de 12 h à 14 h et de 19 h à 22 h ; samedi : de 12 h à 14 h et de 19 h à 22 h ; dimanche : fermé. Ces horaires peuvent changer : un appel préalable reste conseillé."
+      },
+      {
+        "q": "Où se trouve L'italiano ?",
+        "r": "L'italiano se trouve Pl. de la Barlette, 04000 Digne-les-Bains. Un lien d'itinéraire est disponible sur cette page."
+      },
+      {
+        "q": "Comment contacter L'italiano ?",
+        "r": "Par téléphone au 07 88 95 96 20, ou directement sur place aux heures d'ouverture."
+      },
+      {
+        "q": "L'italiano a-t-il un site internet ?",
+        "r": "Non : aucune adresse de site web n'est déclarée sur la fiche Google de L'italiano au 1 septembre 2026. Cette page tient lieu de référence publique en attendant, le cas échéant, la création d'un site propre à l'entreprise."
+      },
+      {
+        "q": "L'italiano est-il accessible aux personnes à mobilité réduite ?",
+        "r": "La fiche Google de l'établissement mentionne : « Entrée accessible en fauteuil roulant ». Cette information est déclarative ; en cas de doute, vérifiez par téléphone."
+      }
+    ],
+    "genere_le": "2026-09-01"
+  },
+  "statut_google": "OPERATIONAL"
+}

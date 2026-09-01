@@ -23,7 +23,7 @@
     "pays": "France",
     "complete": "49 Av. Général de Gaulle, 58000 Nevers"
   },
-  "telephone": "+33 3 86 57 66 15",
+  "telephone": "03 86 57 66 15",
   "geo": {
     "latitude": 46.987559999999995,
     "longitude": 3.152161
@@ -107,18 +107,18 @@
   "site_web_gmb": null,
   "statut": "publiee",
   "backlink": {
-    "etat": "en-attente",
+    "etat": "absent",
     "premiere_detection": null,
     "derniere_detection": null,
-    "derniere_verification": null,
-    "echecs": 0,
+    "derniere_verification": "2026-09-01T05:36:17.683Z",
+    "echecs": 1,
     "url_detectee": null
   },
   "retrait": null,
   "dates": {
     "collecte": "2026-08-30",
     "publication": "2026-08-30",
-    "maj": "2026-08-30"
+    "maj": "2026-09-01"
   },
   "source": "google-places",
   "redaction": {
@@ -185,5 +185,6 @@
     "etat": "en-attente",
     "date_soumission": null,
     "tentatives": 0
-  }
+  },
+  "statut_google": "OPERATIONAL"
 }

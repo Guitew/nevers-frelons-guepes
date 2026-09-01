@@ -106,21 +106,21 @@
     "Places assises accessibles en fauteuil roulant"
   ],
   "lien_google": "https://maps.google.com/?cid=10713199896819209943&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
-  "site_web_gmb": null,
+  "site_web_gmb": "https://andpro.fr/vitrine-locale/cafes-bars/nevers/le-gaspard/",
   "statut": "publiee",
   "backlink": {
-    "etat": "en-attente",
-    "premiere_detection": null,
-    "derniere_detection": null,
-    "derniere_verification": null,
+    "etat": "present",
+    "premiere_detection": "2026-09-01T05:36:17.683Z",
+    "derniere_detection": "2026-09-01T05:36:17.683Z",
+    "derniere_verification": "2026-09-01T05:36:17.683Z",
     "echecs": 0,
-    "url_detectee": null
+    "url_detectee": "https://andpro.fr/vitrine-locale/cafes-bars/nevers/le-gaspard/"
   },
   "retrait": null,
   "dates": {
     "collecte": "2026-08-30",
     "publication": "2026-08-30",
-    "maj": "2026-08-30"
+    "maj": "2026-09-01"
   },
   "source": "google-places",
   "redaction": {
@@ -187,5 +187,6 @@
     "etat": "soumise",
     "date_soumission": "2026-08-30",
     "tentatives": 1
-  }
+  },
+  "statut_google": "OPERATIONAL"
 }

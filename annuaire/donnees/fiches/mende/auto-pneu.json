@@ -1,0 +1,211 @@
+{
+  "id": "ChIJGeYHNkNusxIRv7TF1YPFzBQ",
+  "slug": "auto-pneu",
+  "nom": "Auto Pneu",
+  "categorie": "garages-automobile",
+  "categorie_gmb": "Garage automobile",
+  "type_principal": "car_repair",
+  "types": [
+    "car_repair",
+    "service",
+    "point_of_interest",
+    "establishment"
+  ],
+  "ville": "Mende",
+  "ville_slug": "mende",
+  "adresse": {
+    "rue": "25 Rue des Entreprises",
+    "code_postal": "48000",
+    "departement": "48",
+    "region": "Occitanie",
+    "pays": "France",
+    "complete": "25 Rue des Entreprises, 48000 Mende"
+  },
+  "telephone": "04 66 44 27 23",
+  "geo": {
+    "latitude": 44.5237073,
+    "longitude": 3.5227649999999997
+  },
+  "note": 4.6,
+  "avis": 291,
+  "horaires": [
+    {
+      "jour": 0,
+      "ferme": false,
+      "creneaux": [
+        [
+          "08:30",
+          "12:00"
+        ],
+        [
+          "14:00",
+          "19:00"
+        ]
+      ]
+    },
+    {
+      "jour": 1,
+      "ferme": false,
+      "creneaux": [
+        [
+          "08:30",
+          "12:00"
+        ],
+        [
+          "14:00",
+          "19:00"
+        ]
+      ]
+    },
+    {
+      "jour": 2,
+      "ferme": false,
+      "creneaux": [
+        [
+          "08:30",
+          "12:00"
+        ],
+        [
+          "14:00",
+          "19:00"
+        ]
+      ]
+    },
+    {
+      "jour": 3,
+      "ferme": false,
+      "creneaux": [
+        [
+          "08:30",
+          "12:00"
+        ],
+        [
+          "14:00",
+          "19:00"
+        ]
+      ]
+    },
+    {
+      "jour": 4,
+      "ferme": false,
+      "creneaux": [
+        [
+          "08:30",
+          "12:00"
+        ],
+        [
+          "14:00",
+          "19:00"
+        ]
+      ]
+    },
+    {
+      "jour": 5,
+      "ferme": false,
+      "creneaux": [
+        [
+          "08:30",
+          "12:00"
+        ]
+      ]
+    },
+    {
+      "jour": 6,
+      "ferme": true,
+      "creneaux": []
+    }
+  ],
+  "attributs": [
+    "Entrée accessible en fauteuil roulant",
+    "Parking accessible en fauteuil roulant",
+    "Toilettes accessibles en fauteuil roulant"
+  ],
+  "lien_google": "https://maps.google.com/?cid=1498789946025424063&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
+  "site_web_gmb": null,
+  "statut": "publiee",
+  "backlink": {
+    "etat": "absent",
+    "premiere_detection": null,
+    "derniere_detection": null,
+    "derniere_verification": "2026-09-01T05:36:17.683Z",
+    "echecs": 1,
+    "url_detectee": null
+  },
+  "suggestion": {
+    "etat": "en-attente",
+    "date_soumission": null,
+    "tentatives": 0
+  },
+  "retrait": null,
+  "dates": {
+    "collecte": "2026-09-01",
+    "publication": "2026-09-01",
+    "maj": "2026-09-01"
+  },
+  "source": "google-places",
+  "redaction": {
+    "titre": "Auto Pneu — Garage et automobile à Mende",
+    "meta_titre": "Auto Pneu, garage et automobile à Mende",
+    "meta_description": "Auto Pneu, garage et automobile à Mende (25 Rue des Entreprises) : adresse, horaires, téléphone et informations pratiques.",
+    "chapo": "Cette fiche présente Auto Pneu, un garage et automobile au 25 Rue des Entreprises, à Mende. Son établissement ne déclare aucun site internet sur sa fiche Google : les informations ci-dessous en tiennent lieu de référence publique, vérifiable et accessible à tous.",
+    "sections": [
+      {
+        "id": "presentation",
+        "titre": "Auto Pneu en quelques mots",
+        "paragraphes": [
+          "Le choix d'un garage et automobile se joue sur trois critères : la proximité, les horaires et la facilité de contact.",
+          "Entretien, réparation, contrôle technique : l'automobiliste choisit d'abord un garage proche et disponible. Ces entreprises travaillent à flux tendu et délaissent presque toujours la création d'un site, malgré une demande de recherche locale considérable.",
+          "D'après le relevé du 1 septembre 2026, l'établissement est ouvert tous les jours sauf le dimanche. Le détail jour par jour figure plus bas."
+        ]
+      },
+      {
+        "id": "acces",
+        "titre": "Adresse et accès",
+        "paragraphes": [
+          "L'établissement est situé au 25 Rue des Entreprises, 48000 Mende.",
+          "Coordonnées géographiques : 44.52371, 3.52276. Le lien d'itinéraire ci-dessous ouvre directement la navigation."
+        ]
+      },
+      {
+        "id": "contact",
+        "titre": "Contacter Auto Pneu",
+        "paragraphes": [
+          "Le contact se fait par téléphone au 04 66 44 27 23. C'est le seul moyen de communication déclaré sur la fiche Google de l'entreprise, avec la visite sur place.",
+          "Si vous dirigez cette entreprise, vous pouvez demander la correction ou le retrait de cette page à tout moment, sans justification."
+        ]
+      },
+      {
+        "id": "avis",
+        "titre": "La réputation de Auto Pneu",
+        "paragraphes": [
+          "Au relevé du 1 septembre 2026, l'établissement affichait une note de 4,6 sur 5 sur Google, calculée à partir de 291 avis. Cette note évolue en permanence : elle est indiquée ici à titre d'information et n'est pas retraitée.",
+          "Les avis appartiennent à Google et se consultent sur la fiche d'origine, dont le lien figure sur cette page."
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "q": "Quels sont les horaires de Auto Pneu ?",
+        "r": "Au relevé du 1 septembre 2026, Auto Pneu était ouvert tous les jours sauf le dimanche. Dans le détail — lundi : de 8 h 30 à 12 h et de 14 h à 19 h ; mardi : de 8 h 30 à 12 h et de 14 h à 19 h ; mercredi : de 8 h 30 à 12 h et de 14 h à 19 h ; jeudi : de 8 h 30 à 12 h et de 14 h à 19 h ; vendredi : de 8 h 30 à 12 h et de 14 h à 19 h ; samedi : de 8 h 30 à 12 h ; dimanche : fermé. Ces horaires peuvent changer : un appel préalable reste conseillé."
+      },
+      {
+        "q": "Où se trouve Auto Pneu ?",
+        "r": "Auto Pneu se trouve 25 Rue des Entreprises, 48000 Mende. Un lien d'itinéraire est disponible sur cette page."
+      },
+      {
+        "q": "Comment contacter Auto Pneu ?",
+        "r": "Par téléphone au 04 66 44 27 23, ou directement sur place aux heures d'ouverture."
+      },
+      {
+        "q": "Auto Pneu a-t-il un site internet ?",
+        "r": "Non : aucune adresse de site web n'est déclarée sur la fiche Google de Auto Pneu au 1 septembre 2026. Cette page tient lieu de référence publique en attendant, le cas échéant, la création d'un site propre à l'entreprise."
+      },
+      {
+        "q": "Auto Pneu est-il accessible aux personnes à mobilité réduite ?",
+        "r": "La fiche Google de l'établissement mentionne : « Entrée accessible en fauteuil roulant ». Cette information est déclarative ; en cas de doute, vérifiez par téléphone."
+      }
+    ],
+    "genere_le": "2026-09-01"
+  },
+  "statut_google": "OPERATIONAL"
+}

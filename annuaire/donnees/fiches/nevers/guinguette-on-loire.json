@@ -21,13 +21,13 @@
     "pays": "France",
     "complete": "2 Rte des Saulaies, 58000 Nevers"
   },
-  "telephone": "+33 6 49 58 24 46",
+  "telephone": "06 49 58 24 46",
   "geo": {
     "latitude": 46.982985299999996,
     "longitude": 3.1498215999999997
   },
   "note": 3.8,
-  "avis": 831,
+  "avis": 833,
   "horaires": [
     {
       "jour": 0,
@@ -105,18 +105,18 @@
   "site_web_gmb": null,
   "statut": "publiee",
   "backlink": {
-    "etat": "en-attente",
+    "etat": "absent",
     "premiere_detection": null,
     "derniere_detection": null,
-    "derniere_verification": null,
-    "echecs": 0,
+    "derniere_verification": "2026-09-01T05:36:17.683Z",
+    "echecs": 1,
     "url_detectee": null
   },
   "retrait": null,
   "dates": {
     "collecte": "2026-08-30",
     "publication": "2026-08-30",
-    "maj": "2026-08-30"
+    "maj": "2026-09-01"
   },
   "source": "google-places",
   "redaction": {
@@ -187,5 +187,6 @@
     "etat": "en-attente",
     "date_soumission": null,
     "tentatives": 0
-  }
+  },
+  "statut_google": "OPERATIONAL"
 }

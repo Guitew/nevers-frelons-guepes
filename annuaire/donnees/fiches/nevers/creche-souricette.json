@@ -21,7 +21,7 @@
     "pays": "France",
     "complete": "Crèche Collective Souricette, 6 Rue Filliato, 58000 Nevers"
   },
-  "telephone": "+33 3 58 58 33 10",
+  "telephone": "03 58 58 33 10",
   "geo": {
     "latitude": 46.9901328,
     "longitude": 3.1362208999999996
@@ -95,21 +95,21 @@
     "Parking accessible en fauteuil roulant"
   ],
   "lien_google": "https://maps.google.com/?cid=10273858178778926831&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
-  "site_web_gmb": null,
+  "site_web_gmb": "https://andpro.fr/vitrine-locale/services-aux-particuliers/nevers/creche-souricette/",
   "statut": "publiee",
   "backlink": {
-    "etat": "en-attente",
-    "premiere_detection": null,
-    "derniere_detection": null,
-    "derniere_verification": null,
+    "etat": "present",
+    "premiere_detection": "2026-09-01T05:36:17.683Z",
+    "derniere_detection": "2026-09-01T05:36:17.683Z",
+    "derniere_verification": "2026-09-01T05:36:17.683Z",
     "echecs": 0,
-    "url_detectee": null
+    "url_detectee": "https://andpro.fr/vitrine-locale/services-aux-particuliers/nevers/creche-souricette/"
   },
   "retrait": null,
   "dates": {
     "collecte": "2026-08-30",
     "publication": "2026-08-30",
-    "maj": "2026-08-30"
+    "maj": "2026-09-01"
   },
   "source": "google-places",
   "redaction": {
@@ -180,5 +180,6 @@
     "etat": "en-attente",
     "date_soumission": null,
     "tentatives": 0
-  }
+  },
+  "statut_google": "OPERATIONAL"
 }

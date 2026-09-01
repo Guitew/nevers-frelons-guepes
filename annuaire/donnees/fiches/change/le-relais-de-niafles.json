@@ -1,0 +1,197 @@
+{
+  "id": "ChIJwWi2II4BCUgReJAy4xE5jok",
+  "slug": "le-relais-de-niafles",
+  "nom": "Le Relais de Niafles",
+  "categorie": "restaurants",
+  "categorie_gmb": "Restaurant français",
+  "type_principal": "french_restaurant",
+  "types": [
+    "french_restaurant",
+    "breakfast_restaurant",
+    "bar",
+    "restaurant",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "ville": "Changé",
+  "ville_slug": "change",
+  "adresse": {
+    "rue": "25 Rue des Tisserands",
+    "code_postal": "53810",
+    "departement": "53",
+    "region": "Pays de la Loire",
+    "pays": "France",
+    "complete": "25 Rue des Tisserands, 53810 Changé"
+  },
+  "telephone": "02 43 53 76 15",
+  "geo": {
+    "latitude": 48.1047654,
+    "longitude": -0.7441112
+  },
+  "note": 4.5,
+  "avis": 1411,
+  "horaires": [
+    {
+      "jour": 0,
+      "ferme": false,
+      "creneaux": [
+        [
+          "09:00",
+          "14:30"
+        ],
+        [
+          "18:00",
+          "23:00"
+        ]
+      ]
+    },
+    {
+      "jour": 1,
+      "ferme": false,
+      "creneaux": [
+        [
+          "04:30",
+          "14:30"
+        ],
+        [
+          "18:00",
+          "23:00"
+        ]
+      ]
+    },
+    {
+      "jour": 2,
+      "ferme": false,
+      "creneaux": [
+        [
+          "04:30",
+          "14:30"
+        ],
+        [
+          "18:00",
+          "23:00"
+        ]
+      ]
+    },
+    {
+      "jour": 3,
+      "ferme": false,
+      "creneaux": [
+        [
+          "04:30",
+          "14:30"
+        ],
+        [
+          "18:00",
+          "23:00"
+        ]
+      ]
+    },
+    {
+      "jour": 4,
+      "ferme": false,
+      "creneaux": [
+        [
+          "04:30",
+          "14:30"
+        ]
+      ]
+    },
+    {
+      "jour": 5,
+      "ferme": true,
+      "creneaux": []
+    },
+    {
+      "jour": 6,
+      "ferme": true,
+      "creneaux": []
+    }
+  ],
+  "attributs": [],
+  "lien_google": "https://maps.google.com/?cid=9911922578878009464&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
+  "site_web_gmb": null,
+  "statut": "publiee",
+  "backlink": {
+    "etat": "absent",
+    "premiere_detection": null,
+    "derniere_detection": null,
+    "derniere_verification": "2026-09-01T05:36:17.683Z",
+    "echecs": 1,
+    "url_detectee": null
+  },
+  "suggestion": {
+    "etat": "en-attente",
+    "date_soumission": null,
+    "tentatives": 0
+  },
+  "retrait": null,
+  "dates": {
+    "collecte": "2026-09-01",
+    "publication": "2026-09-01",
+    "maj": "2026-09-01"
+  },
+  "source": "google-places",
+  "redaction": {
+    "titre": "Le Relais de Niafles — Restaurant à Changé",
+    "meta_titre": "Le Relais de Niafles, restaurant à Changé",
+    "meta_description": "Le Relais de Niafles, restaurant à Changé (25 Rue des Tisserands) : adresse, horaires, téléphone et informations pratiques.",
+    "chapo": "Cette fiche présente Le Relais de Niafles, un restaurant au 25 Rue des Tisserands, à Changé. Son établissement ne déclare aucun site internet sur sa fiche Google : les informations ci-dessous en tiennent lieu de référence publique, vérifiable et accessible à tous.",
+    "sections": [
+      {
+        "id": "presentation",
+        "titre": "Le Relais de Niafles en quelques mots",
+        "paragraphes": [
+          "Restaurants font partie des activités les plus consultées localement sur mobile.",
+          "Les restaurants figurent parmi les commerces les plus recherchés en ligne, et pourtant beaucoup n'exposent qu'une fiche Google sans site. Retrouver ici leur carte d'identité complète — adresse, horaires, téléphone, spécialités — aide les clients à réserver et aide l'établissement à exister ailleurs que sur une plateforme d'avis.",
+          "D'après le relevé du 1 septembre 2026, l'établissement est fermé le samedi et le dimanche. Le détail jour par jour figure plus bas."
+        ]
+      },
+      {
+        "id": "acces",
+        "titre": "Adresse et accès",
+        "paragraphes": [
+          "L'établissement est situé au 25 Rue des Tisserands, 53810 Changé.",
+          "Coordonnées géographiques : 48.10477, -0.74411. Le lien d'itinéraire ci-dessous ouvre directement la navigation."
+        ]
+      },
+      {
+        "id": "contact",
+        "titre": "Contacter Le Relais de Niafles",
+        "paragraphes": [
+          "Le contact se fait par téléphone au 02 43 53 76 15. C'est le seul moyen de communication déclaré sur la fiche Google de l'entreprise, avec la visite sur place.",
+          "Si vous dirigez cette entreprise, vous pouvez demander la correction ou le retrait de cette page à tout moment, sans justification."
+        ]
+      },
+      {
+        "id": "avis",
+        "titre": "La réputation de Le Relais de Niafles",
+        "paragraphes": [
+          "Au relevé du 1 septembre 2026, l'établissement affichait une note de 4,5 sur 5 sur Google, calculée à partir de 1411 avis. Cette note évolue en permanence : elle est indiquée ici à titre d'information et n'est pas retraitée.",
+          "Les avis appartiennent à Google et se consultent sur la fiche d'origine, dont le lien figure sur cette page."
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "q": "Quels sont les horaires de Le Relais de Niafles ?",
+        "r": "Au relevé du 1 septembre 2026, Le Relais de Niafles était fermé le samedi et le dimanche. Dans le détail — lundi : de 9 h à 14 h 30 et de 18 h à 23 h ; mardi : de 4 h 30 à 14 h 30 et de 18 h à 23 h ; mercredi : de 4 h 30 à 14 h 30 et de 18 h à 23 h ; jeudi : de 4 h 30 à 14 h 30 et de 18 h à 23 h ; vendredi : de 4 h 30 à 14 h 30 ; samedi : fermé ; dimanche : fermé. Ces horaires peuvent changer : un appel préalable reste conseillé."
+      },
+      {
+        "q": "Où se trouve Le Relais de Niafles ?",
+        "r": "Le Relais de Niafles se trouve 25 Rue des Tisserands, 53810 Changé. Un lien d'itinéraire est disponible sur cette page."
+      },
+      {
+        "q": "Comment contacter Le Relais de Niafles ?",
+        "r": "Par téléphone au 02 43 53 76 15, ou directement sur place aux heures d'ouverture."
+      },
+      {
+        "q": "Le Relais de Niafles a-t-il un site internet ?",
+        "r": "Non : aucune adresse de site web n'est déclarée sur la fiche Google de Le Relais de Niafles au 1 septembre 2026. Cette page tient lieu de référence publique en attendant, le cas échéant, la création d'un site propre à l'entreprise."
+      }
+    ],
+    "genere_le": "2026-09-01"
+  },
+  "statut_google": "OPERATIONAL"
+}

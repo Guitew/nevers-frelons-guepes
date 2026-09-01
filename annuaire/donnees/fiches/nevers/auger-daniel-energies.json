@@ -21,7 +21,7 @@
     "pays": "France",
     "complete": "Rue Emile Martin, 58000 Nevers"
   },
-  "telephone": "+33 7 82 73 59 50",
+  "telephone": "07 82 73 59 50",
   "geo": {
     "latitude": 46.9849877,
     "longitude": 3.1510773
@@ -34,18 +34,18 @@
   "site_web_gmb": null,
   "statut": "publiee",
   "backlink": {
-    "etat": "en-attente",
+    "etat": "absent",
     "premiere_detection": null,
     "derniere_detection": null,
-    "derniere_verification": null,
-    "echecs": 0,
+    "derniere_verification": "2026-09-01T05:36:17.683Z",
+    "echecs": 1,
     "url_detectee": null
   },
   "retrait": null,
   "dates": {
     "collecte": "2026-08-30",
     "publication": "2026-08-30",
-    "maj": "2026-08-30"
+    "maj": "2026-09-01"
   },
   "source": "google-places",
   "redaction": {
@@ -99,5 +99,6 @@
     "etat": "soumise",
     "date_soumission": "2026-08-30",
     "tentatives": 1
-  }
+  },
+  "statut_google": "OPERATIONAL"
 }

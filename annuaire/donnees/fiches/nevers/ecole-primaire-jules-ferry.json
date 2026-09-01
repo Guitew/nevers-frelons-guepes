@@ -22,7 +22,7 @@
     "pays": "France",
     "complete": "du, 53 Rue Commandant Paul Pierre Clerc, 58000 Nevers"
   },
-  "telephone": "+33 3 86 68 43 73",
+  "telephone": "03 86 68 43 73",
   "geo": {
     "latitude": 46.989689299999995,
     "longitude": 3.1347831999999998
@@ -94,18 +94,18 @@
   "site_web_gmb": null,
   "statut": "publiee",
   "backlink": {
-    "etat": "en-attente",
+    "etat": "absent",
     "premiere_detection": null,
     "derniere_detection": null,
-    "derniere_verification": null,
-    "echecs": 0,
+    "derniere_verification": "2026-09-01T05:36:17.683Z",
+    "echecs": 1,
     "url_detectee": null
   },
   "retrait": null,
   "dates": {
     "collecte": "2026-08-30",
     "publication": "2026-08-30",
-    "maj": "2026-08-30"
+    "maj": "2026-09-01"
   },
   "source": "google-places",
   "redaction": {
@@ -165,8 +165,9 @@
     "genere_le": "2026-08-30"
   },
   "suggestion": {
-    "etat": "en-attente",
-    "date_soumission": null,
-    "tentatives": 0
-  }
+    "etat": "soumise",
+    "date_soumission": "2026-09-01",
+    "tentatives": 1
+  },
+  "statut_google": "OPERATIONAL"
 }

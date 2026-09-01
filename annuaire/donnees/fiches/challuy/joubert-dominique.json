@@ -21,7 +21,7 @@
     "pays": "France",
     "complete": "149 Av. du Stand, 58000 Challuy"
   },
-  "telephone": "+33 3 86 90 34 37",
+  "telephone": "03 86 90 34 37",
   "geo": {
     "latitude": 46.9739408,
     "longitude": 3.1492774
@@ -97,18 +97,18 @@
   "site_web_gmb": null,
   "statut": "publiee",
   "backlink": {
-    "etat": "en-attente",
+    "etat": "absent",
     "premiere_detection": null,
     "derniere_detection": null,
-    "derniere_verification": null,
-    "echecs": 0,
+    "derniere_verification": "2026-09-01T05:36:17.683Z",
+    "echecs": 1,
     "url_detectee": null
   },
   "retrait": null,
   "dates": {
     "collecte": "2026-08-30",
     "publication": "2026-08-30",
-    "maj": "2026-08-30"
+    "maj": "2026-09-01"
   },
   "source": "google-places",
   "redaction": {
@@ -171,5 +171,6 @@
     "etat": "en-attente",
     "date_soumission": null,
     "tentatives": 0
-  }
+  },
+  "statut_google": "OPERATIONAL"
 }
