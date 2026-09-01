@@ -1,0 +1,191 @@
+{
+  "id": "ChIJ81CIrc8xB0gR4K73HvqKwHE",
+  "slug": "magic-flonflon",
+  "nom": "Magic Flonflon",
+  "categorie": "cafes-bars",
+  "categorie_gmb": "Bar",
+  "type_principal": "bar",
+  "types": [
+    "bar",
+    "point_of_interest",
+    "establishment"
+  ],
+  "ville": "Niort",
+  "ville_slug": "niort",
+  "adresse": {
+    "rue": "3 Rue de la Chamoiserie",
+    "code_postal": "79000",
+    "departement": "79",
+    "region": "Nouvelle-Aquitaine",
+    "pays": "France",
+    "complete": "Port Boinot, 3 Rue de la Chamoiserie, 79000 Niort"
+  },
+  "telephone": "05 49 24 24 72",
+  "geo": {
+    "latitude": 46.3242937,
+    "longitude": -0.46943930000000006
+  },
+  "note": 4.2,
+  "avis": 564,
+  "horaires": [
+    {
+      "jour": 0,
+      "ferme": true,
+      "creneaux": []
+    },
+    {
+      "jour": 1,
+      "ferme": false,
+      "creneaux": [
+        [
+          "16:00",
+          "00:00"
+        ]
+      ]
+    },
+    {
+      "jour": 2,
+      "ferme": false,
+      "creneaux": [
+        [
+          "10:00",
+          "00:00"
+        ]
+      ]
+    },
+    {
+      "jour": 3,
+      "ferme": false,
+      "creneaux": [
+        [
+          "10:00",
+          "00:00"
+        ]
+      ]
+    },
+    {
+      "jour": 4,
+      "ferme": false,
+      "creneaux": [
+        [
+          "10:00",
+          "01:00"
+        ]
+      ]
+    },
+    {
+      "jour": 5,
+      "ferme": false,
+      "creneaux": [
+        [
+          "10:00",
+          "01:00"
+        ]
+      ]
+    },
+    {
+      "jour": 6,
+      "ferme": false,
+      "creneaux": [
+        [
+          "10:00",
+          "21:00"
+        ]
+      ]
+    }
+  ],
+  "attributs": [
+    "Entrée accessible en fauteuil roulant",
+    "Parking accessible en fauteuil roulant",
+    "Toilettes accessibles en fauteuil roulant"
+  ],
+  "lien_google": "https://maps.google.com/?cid=8196704128680308448&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
+  "site_web_gmb": null,
+  "statut": "publiee",
+  "backlink": {
+    "etat": "absent",
+    "premiere_detection": null,
+    "derniere_detection": null,
+    "derniere_verification": "2026-09-01T14:51:31.344Z",
+    "echecs": 1,
+    "url_detectee": null
+  },
+  "suggestion": {
+    "etat": "en-attente",
+    "date_soumission": null,
+    "tentatives": 0,
+    "date_email": "2026-09-01"
+  },
+  "retrait": null,
+  "dates": {
+    "collecte": "2026-09-01",
+    "publication": "2026-09-01",
+    "maj": "2026-09-01"
+  },
+  "source": "google-places",
+  "redaction": {
+    "titre": "Magic Flonflon — Café ou bar à Niort",
+    "meta_titre": "Magic Flonflon, café ou bar à Niort",
+    "meta_description": "Magic Flonflon, café ou bar à Niort (3 Rue de la Chamoiserie) : adresse, horaires, téléphone et informations pratiques.",
+    "chapo": "Magic Flonflon est un café ou bar au 3 Rue de la Chamoiserie, à Niort. Aucune adresse web n'est renseignée sur sa fiche Google. Cette page rassemble donc, en un seul endroit stable, les informations que les clients recherchent avant de se déplacer.",
+    "sections": [
+      {
+        "id": "presentation",
+        "titre": "Magic Flonflon en quelques mots",
+        "paragraphes": [
+          "À Niort, les recherches du type « café ou bar près de chez moi » se concluent le plus souvent par un appel ou une visite directe.",
+          "Les cafés et bars sont des repères de vie locale rarement dotés d'un site. Horaires réels, terrasse, retransmissions sportives, concerts : autant de détails qui décident d'une sortie et qui n'apparaissent nulle part ailleurs de façon lisible.",
+          "D'après le relevé du 1 septembre 2026, l'établissement est ouvert tous les jours sauf le lundi. Le détail jour par jour figure plus bas."
+        ]
+      },
+      {
+        "id": "acces",
+        "titre": "Adresse et accès",
+        "paragraphes": [
+          "L'établissement est situé au 3 Rue de la Chamoiserie, 79000 Niort.",
+          "Coordonnées géographiques : 46.32429, -0.46944. Le lien d'itinéraire ci-dessous ouvre directement la navigation."
+        ]
+      },
+      {
+        "id": "contact",
+        "titre": "Contacter Magic Flonflon",
+        "paragraphes": [
+          "Le contact se fait par téléphone au 05 49 24 24 72. C'est le seul moyen de communication déclaré sur la fiche Google de l'entreprise, avec la visite sur place.",
+          "Si vous dirigez cette entreprise, vous pouvez demander la correction ou le retrait de cette page à tout moment, sans justification."
+        ]
+      },
+      {
+        "id": "avis",
+        "titre": "La réputation de Magic Flonflon",
+        "paragraphes": [
+          "Au relevé du 1 septembre 2026, l'établissement affichait une note de 4,2 sur 5 sur Google, calculée à partir de 564 avis. Cette note évolue en permanence : elle est indiquée ici à titre d'information et n'est pas retraitée.",
+          "Les avis appartiennent à Google et se consultent sur la fiche d'origine, dont le lien figure sur cette page."
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "q": "Quels sont les horaires de Magic Flonflon ?",
+        "r": "Au relevé du 1 septembre 2026, Magic Flonflon était ouvert tous les jours sauf le lundi. Dans le détail — lundi : fermé ; mardi : de 16 h à 0 h ; mercredi : de 10 h à 0 h ; jeudi : de 10 h à 0 h ; vendredi : de 10 h à 1 h ; samedi : de 10 h à 1 h ; dimanche : de 10 h à 21 h. Ces horaires peuvent changer : un appel préalable reste conseillé."
+      },
+      {
+        "q": "Où se trouve Magic Flonflon ?",
+        "r": "Magic Flonflon se trouve Port Boinot, 3 Rue de la Chamoiserie, 79000 Niort. Un lien d'itinéraire est disponible sur cette page."
+      },
+      {
+        "q": "Comment contacter Magic Flonflon ?",
+        "r": "Par téléphone au 05 49 24 24 72, ou directement sur place aux heures d'ouverture."
+      },
+      {
+        "q": "Magic Flonflon a-t-il un site internet ?",
+        "r": "Non : aucune adresse de site web n'est déclarée sur la fiche Google de Magic Flonflon au 1 septembre 2026. Cette page tient lieu de référence publique en attendant, le cas échéant, la création d'un site propre à l'entreprise."
+      },
+      {
+        "q": "Magic Flonflon est-il accessible aux personnes à mobilité réduite ?",
+        "r": "La fiche Google de l'établissement mentionne : « Entrée accessible en fauteuil roulant ». Cette information est déclarative ; en cas de doute, vérifiez par téléphone."
+      }
+    ],
+    "genere_le": "2026-09-01"
+  },
+  "statut_google": "OPERATIONAL"
+}

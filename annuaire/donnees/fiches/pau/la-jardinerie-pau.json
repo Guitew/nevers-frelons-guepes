@@ -1,0 +1,228 @@
+{
+  "id": "ChIJm0EsgmdIVg0RNN_-dTfiomw",
+  "slug": "la-jardinerie-pau",
+  "nom": "La Jardinerie Pau",
+  "categorie": "jardinage-paysage",
+  "categorie_gmb": "Jardinerie",
+  "type_principal": "garden_center",
+  "types": [
+    "garden_center",
+    "farm",
+    "home_goods_store",
+    "supplier",
+    "wholesaler",
+    "pet_store",
+    "pet_care",
+    "service",
+    "store",
+    "point_of_interest",
+    "food",
+    "establishment"
+  ],
+  "ville": "Pau",
+  "ville_slug": "pau",
+  "adresse": {
+    "rue": "2 Rue René Char",
+    "code_postal": "64000",
+    "departement": "64",
+    "region": "Nouvelle-Aquitaine",
+    "pays": "France",
+    "complete": "2 Rue René Char, 64000 Pau"
+  },
+  "telephone": "05 59 84 55 25",
+  "geo": {
+    "latitude": 43.308267,
+    "longitude": -0.328296
+  },
+  "note": 4.1,
+  "avis": 1125,
+  "horaires": [
+    {
+      "jour": 0,
+      "ferme": false,
+      "creneaux": [
+        [
+          "09:30",
+          "12:30"
+        ],
+        [
+          "14:00",
+          "19:00"
+        ]
+      ]
+    },
+    {
+      "jour": 1,
+      "ferme": false,
+      "creneaux": [
+        [
+          "09:30",
+          "12:30"
+        ],
+        [
+          "14:00",
+          "19:00"
+        ]
+      ]
+    },
+    {
+      "jour": 2,
+      "ferme": false,
+      "creneaux": [
+        [
+          "09:30",
+          "12:30"
+        ],
+        [
+          "14:00",
+          "19:00"
+        ]
+      ]
+    },
+    {
+      "jour": 3,
+      "ferme": false,
+      "creneaux": [
+        [
+          "09:30",
+          "12:30"
+        ],
+        [
+          "14:00",
+          "19:00"
+        ]
+      ]
+    },
+    {
+      "jour": 4,
+      "ferme": false,
+      "creneaux": [
+        [
+          "09:30",
+          "12:30"
+        ],
+        [
+          "14:00",
+          "19:00"
+        ]
+      ]
+    },
+    {
+      "jour": 5,
+      "ferme": false,
+      "creneaux": [
+        [
+          "09:30",
+          "19:00"
+        ]
+      ]
+    },
+    {
+      "jour": 6,
+      "ferme": false,
+      "creneaux": [
+        [
+          "10:00",
+          "12:30"
+        ],
+        [
+          "14:00",
+          "18:30"
+        ]
+      ]
+    }
+  ],
+  "attributs": [
+    "Entrée accessible en fauteuil roulant",
+    "Parking accessible en fauteuil roulant"
+  ],
+  "lien_google": "https://maps.google.com/?cid=7828067830154059572&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
+  "site_web_gmb": null,
+  "statut": "publiee",
+  "backlink": {
+    "etat": "absent",
+    "premiere_detection": null,
+    "derniere_detection": null,
+    "derniere_verification": "2026-09-01T14:51:31.344Z",
+    "echecs": 1,
+    "url_detectee": null
+  },
+  "suggestion": {
+    "etat": "en-attente",
+    "date_soumission": null,
+    "tentatives": 0,
+    "date_email": "2026-09-01"
+  },
+  "retrait": null,
+  "dates": {
+    "collecte": "2026-09-01",
+    "publication": "2026-09-01",
+    "maj": "2026-09-01"
+  },
+  "source": "google-places",
+  "redaction": {
+    "titre": "La Jardinerie Pau — Jardinage et paysage à Pau",
+    "meta_titre": "La Jardinerie Pau, jardinage et paysage à Pau",
+    "meta_description": "La Jardinerie Pau, jardinage et paysage à Pau (2 Rue René Char) : adresse, horaires, téléphone et informations pratiques.",
+    "chapo": "La Jardinerie Pau exerce l'activité de jardinage et paysage au 2 Rue René Char, à Pau. Faute de site internet déclaré sur sa fiche Google, l'entreprise reste difficile à trouver en dehors des cartes. Cette page comble ce manque avec des données factuelles et datées.",
+    "sections": [
+      {
+        "id": "presentation",
+        "titre": "La Jardinerie Pau en quelques mots",
+        "paragraphes": [
+          "Paysagistes et jardiniers font partie des activités les plus consultées localement sur mobile.",
+          "L'entretien d'un jardin est saisonnier et local par nature. Les entreprises de ce secteur, souvent unipersonnelles, gagnent en visibilité avec une page qui précise les prestations, la zone desservie et la période d'intervention.",
+          "D'après le relevé du 1 septembre 2026, l'établissement est ouvert sept jours sur sept. Le détail jour par jour figure plus bas."
+        ]
+      },
+      {
+        "id": "acces",
+        "titre": "Adresse et accès",
+        "paragraphes": [
+          "L'établissement est situé au 2 Rue René Char, 64000 Pau.",
+          "Coordonnées géographiques : 43.30827, -0.32830. Le lien d'itinéraire ci-dessous ouvre directement la navigation."
+        ]
+      },
+      {
+        "id": "contact",
+        "titre": "Contacter La Jardinerie Pau",
+        "paragraphes": [
+          "Le contact se fait par téléphone au 05 59 84 55 25. C'est le seul moyen de communication déclaré sur la fiche Google de l'entreprise, avec la visite sur place.",
+          "Si vous dirigez cette entreprise, vous pouvez demander la correction ou le retrait de cette page à tout moment, sans justification."
+        ]
+      },
+      {
+        "id": "avis",
+        "titre": "La réputation de La Jardinerie Pau",
+        "paragraphes": [
+          "Au relevé du 1 septembre 2026, l'établissement affichait une note de 4,1 sur 5 sur Google, calculée à partir de 1125 avis. Cette note évolue en permanence : elle est indiquée ici à titre d'information et n'est pas retraitée.",
+          "Les avis appartiennent à Google et se consultent sur la fiche d'origine, dont le lien figure sur cette page."
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "q": "Quels sont les horaires de La Jardinerie Pau ?",
+        "r": "Au relevé du 1 septembre 2026, La Jardinerie Pau était ouvert sept jours sur sept. Dans le détail — lundi : de 9 h 30 à 12 h 30 et de 14 h à 19 h ; mardi : de 9 h 30 à 12 h 30 et de 14 h à 19 h ; mercredi : de 9 h 30 à 12 h 30 et de 14 h à 19 h ; jeudi : de 9 h 30 à 12 h 30 et de 14 h à 19 h ; vendredi : de 9 h 30 à 12 h 30 et de 14 h à 19 h ; samedi : de 9 h 30 à 19 h ; dimanche : de 10 h à 12 h 30 et de 14 h à 18 h 30. Ces horaires peuvent changer : un appel préalable reste conseillé."
+      },
+      {
+        "q": "Où se trouve La Jardinerie Pau ?",
+        "r": "La Jardinerie Pau se trouve 2 Rue René Char, 64000 Pau. Un lien d'itinéraire est disponible sur cette page."
+      },
+      {
+        "q": "Comment contacter La Jardinerie Pau ?",
+        "r": "Par téléphone au 05 59 84 55 25, ou directement sur place aux heures d'ouverture."
+      },
+      {
+        "q": "La Jardinerie Pau a-t-il un site internet ?",
+        "r": "Non : aucune adresse de site web n'est déclarée sur la fiche Google de La Jardinerie Pau au 1 septembre 2026. Cette page tient lieu de référence publique en attendant, le cas échéant, la création d'un site propre à l'entreprise."
+      },
+      {
+        "q": "La Jardinerie Pau est-il accessible aux personnes à mobilité réduite ?",
+        "r": "La fiche Google de l'établissement mentionne : « Entrée accessible en fauteuil roulant ». Cette information est déclarative ; en cas de doute, vérifiez par téléphone."
+      }
+    ],
+    "genere_le": "2026-09-01"
+  },
+  "statut_google": "OPERATIONAL"
+}
