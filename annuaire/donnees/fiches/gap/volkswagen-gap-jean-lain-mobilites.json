@@ -126,20 +126,20 @@
     "Parking accessible en fauteuil roulant"
   ],
   "lien_google": "https://maps.google.com/?cid=13344509636946250005&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
-  "site_web_gmb": null,
+  "site_web_gmb": "https://mobilite.jeanlain.com/volkswagen/concessions/volkswagen-gap/",
   "statut": "publiee",
   "backlink": {
-    "etat": "absent",
+    "etat": "externe",
     "premiere_detection": null,
     "derniere_detection": null,
-    "derniere_verification": "2026-09-01T05:36:17.683Z",
-    "echecs": 1,
-    "url_detectee": null
+    "derniere_verification": "2026-09-01T10:02:23.263Z",
+    "echecs": 2,
+    "url_detectee": "https://mobilite.jeanlain.com/volkswagen/concessions/volkswagen-gap/"
   },
   "suggestion": {
-    "etat": "en-attente",
-    "date_soumission": null,
-    "tentatives": 0
+    "etat": "soumise",
+    "date_soumission": "2026-09-01",
+    "tentatives": 1
   },
   "retrait": null,
   "dates": {

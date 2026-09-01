@@ -1,0 +1,196 @@
+{
+  "id": "ChIJdSuyPmbq9EcRtn_CpiE5ioU",
+  "slug": "station-service-avia",
+  "nom": "Station Service Avia",
+  "categorie": "garages-automobile",
+  "categorie_gmb": "Station-service",
+  "type_principal": "gas_station",
+  "types": [
+    "gas_station",
+    "car_wash",
+    "point_of_interest",
+    "service",
+    "establishment"
+  ],
+  "ville": "Lyon",
+  "ville_slug": "lyon",
+  "adresse": {
+    "rue": "258 Rue Garibaldi",
+    "code_postal": "69003",
+    "departement": "69",
+    "region": "Auvergne-Rhône-Alpes",
+    "pays": "France",
+    "complete": "258 Rue Garibaldi, 69003 Lyon"
+  },
+  "telephone": "04 78 62 02 43",
+  "geo": {
+    "latitude": 45.7544538,
+    "longitude": 4.8528329
+  },
+  "note": 3.6,
+  "avis": 487,
+  "horaires": [
+    {
+      "jour": 0,
+      "ferme": false,
+      "creneaux": [
+        [
+          "06:00",
+          "22:00"
+        ]
+      ]
+    },
+    {
+      "jour": 1,
+      "ferme": false,
+      "creneaux": [
+        [
+          "06:00",
+          "22:00"
+        ]
+      ]
+    },
+    {
+      "jour": 2,
+      "ferme": false,
+      "creneaux": [
+        [
+          "06:00",
+          "22:00"
+        ]
+      ]
+    },
+    {
+      "jour": 3,
+      "ferme": false,
+      "creneaux": [
+        [
+          "06:00",
+          "22:00"
+        ]
+      ]
+    },
+    {
+      "jour": 4,
+      "ferme": false,
+      "creneaux": [
+        [
+          "06:00",
+          "22:00"
+        ]
+      ]
+    },
+    {
+      "jour": 5,
+      "ferme": false,
+      "creneaux": [
+        [
+          "06:00",
+          "22:00"
+        ]
+      ]
+    },
+    {
+      "jour": 6,
+      "ferme": false,
+      "creneaux": [
+        [
+          "06:00",
+          "22:00"
+        ]
+      ]
+    }
+  ],
+  "attributs": [
+    "Toilettes accessibles en fauteuil roulant"
+  ],
+  "lien_google": "https://maps.google.com/?cid=9622566370524954550&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
+  "site_web_gmb": null,
+  "statut": "publiee",
+  "backlink": {
+    "etat": "absent",
+    "premiere_detection": null,
+    "derniere_detection": null,
+    "derniere_verification": "2026-09-01T10:02:23.263Z",
+    "echecs": 1,
+    "url_detectee": null
+  },
+  "suggestion": {
+    "etat": "en-attente",
+    "date_soumission": null,
+    "tentatives": 0,
+    "date_email": "2026-09-01"
+  },
+  "retrait": null,
+  "dates": {
+    "collecte": "2026-09-01",
+    "publication": "2026-09-01",
+    "maj": "2026-09-01"
+  },
+  "source": "google-places",
+  "redaction": {
+    "titre": "Station Service Avia — Garage et automobile à Lyon",
+    "meta_titre": "Station Service Avia, garage et automobile à Lyon",
+    "meta_description": "Station Service Avia, garage et automobile à Lyon (258 Rue Garibaldi) : adresse, horaires, téléphone et informations pratiques.",
+    "chapo": "Station Service Avia figure parmi les établissements de la catégorie « Garage et automobile » recensés à Lyon. L'entreprise n'a pas de site web référencé sur sa fiche Google. Les éléments présentés ici — adresse, horaires, contact — proviennent de cette fiche et sont datés de leur relevé.",
+    "sections": [
+      {
+        "id": "presentation",
+        "titre": "Station Service Avia en quelques mots",
+        "paragraphes": [
+          "À Lyon, les recherches du type « garage et automobile près de chez moi » se concluent le plus souvent par un appel ou une visite directe.",
+          "Entretien, réparation, contrôle technique : l'automobiliste choisit d'abord un garage proche et disponible. Ces entreprises travaillent à flux tendu et délaissent presque toujours la création d'un site, malgré une demande de recherche locale considérable.",
+          "D'après le relevé du 1 septembre 2026, l'établissement est ouvert sept jours sur sept. Le détail jour par jour figure plus bas."
+        ]
+      },
+      {
+        "id": "acces",
+        "titre": "Adresse et accès",
+        "paragraphes": [
+          "L'établissement est situé au 258 Rue Garibaldi, 69003 Lyon.",
+          "Coordonnées géographiques : 45.75445, 4.85283. Le lien d'itinéraire ci-dessous ouvre directement la navigation."
+        ]
+      },
+      {
+        "id": "contact",
+        "titre": "Contacter Station Service Avia",
+        "paragraphes": [
+          "Le contact se fait par téléphone au 04 78 62 02 43. C'est le seul moyen de communication déclaré sur la fiche Google de l'entreprise, avec la visite sur place.",
+          "Si vous dirigez cette entreprise, vous pouvez demander la correction ou le retrait de cette page à tout moment, sans justification."
+        ]
+      },
+      {
+        "id": "avis",
+        "titre": "La réputation de Station Service Avia",
+        "paragraphes": [
+          "Au relevé du 1 septembre 2026, l'établissement affichait une note de 3,6 sur 5 sur Google, calculée à partir de 487 avis. Cette note évolue en permanence : elle est indiquée ici à titre d'information et n'est pas retraitée.",
+          "Les avis appartiennent à Google et se consultent sur la fiche d'origine, dont le lien figure sur cette page."
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "q": "Quels sont les horaires de Station Service Avia ?",
+        "r": "Au relevé du 1 septembre 2026, Station Service Avia était ouvert sept jours sur sept. Dans le détail — lundi : de 6 h à 22 h ; mardi : de 6 h à 22 h ; mercredi : de 6 h à 22 h ; jeudi : de 6 h à 22 h ; vendredi : de 6 h à 22 h ; samedi : de 6 h à 22 h ; dimanche : de 6 h à 22 h. Ces horaires peuvent changer : un appel préalable reste conseillé."
+      },
+      {
+        "q": "Où se trouve Station Service Avia ?",
+        "r": "Station Service Avia se trouve 258 Rue Garibaldi, 69003 Lyon. Un lien d'itinéraire est disponible sur cette page."
+      },
+      {
+        "q": "Comment contacter Station Service Avia ?",
+        "r": "Par téléphone au 04 78 62 02 43, ou directement sur place aux heures d'ouverture."
+      },
+      {
+        "q": "Station Service Avia a-t-il un site internet ?",
+        "r": "Non : aucune adresse de site web n'est déclarée sur la fiche Google de Station Service Avia au 1 septembre 2026. Cette page tient lieu de référence publique en attendant, le cas échéant, la création d'un site propre à l'entreprise."
+      },
+      {
+        "q": "Station Service Avia est-il accessible aux personnes à mobilité réduite ?",
+        "r": "La fiche Google de l'établissement mentionne : « Toilettes accessibles en fauteuil roulant ». Cette information est déclarative ; en cas de doute, vérifiez par téléphone."
+      }
+    ],
+    "genere_le": "2026-09-01"
+  },
+  "statut_google": "OPERATIONAL"
+}
