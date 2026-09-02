@@ -1,0 +1,215 @@
+{
+  "id": "ChIJKyGTK4AIk0cR9aOnGLarEKk",
+  "slug": "bougel-transactions",
+  "nom": "Bougel Transactions",
+  "categorie": "garages-automobile",
+  "categorie_gmb": "Concessionnaire automobile",
+  "type_principal": "car_dealer",
+  "types": [
+    "car_dealer",
+    "store",
+    "point_of_interest",
+    "establishment"
+  ],
+  "ville": "Xertigny",
+  "ville_slug": "xertigny",
+  "adresse": {
+    "rue": "329 Rue de l'École Moyenpal",
+    "code_postal": "88220",
+    "departement": "88",
+    "region": "Grand Est",
+    "pays": "France",
+    "complete": "329 Rue de l'École Moyenpal, 88220 Xertigny"
+  },
+  "telephone": "03 29 36 01 72",
+  "geo": {
+    "latitude": 48.0631588,
+    "longitude": 6.3625397999999995
+  },
+  "note": 4,
+  "avis": 501,
+  "horaires": [
+    {
+      "jour": 0,
+      "ferme": false,
+      "creneaux": [
+        [
+          "09:00",
+          "12:00"
+        ],
+        [
+          "14:00",
+          "19:00"
+        ]
+      ]
+    },
+    {
+      "jour": 1,
+      "ferme": false,
+      "creneaux": [
+        [
+          "09:00",
+          "12:00"
+        ],
+        [
+          "14:00",
+          "19:00"
+        ]
+      ]
+    },
+    {
+      "jour": 2,
+      "ferme": false,
+      "creneaux": [
+        [
+          "09:00",
+          "12:00"
+        ],
+        [
+          "14:00",
+          "19:00"
+        ]
+      ]
+    },
+    {
+      "jour": 3,
+      "ferme": false,
+      "creneaux": [
+        [
+          "09:00",
+          "12:00"
+        ],
+        [
+          "14:00",
+          "19:00"
+        ]
+      ]
+    },
+    {
+      "jour": 4,
+      "ferme": false,
+      "creneaux": [
+        [
+          "09:00",
+          "12:00"
+        ],
+        [
+          "14:00",
+          "19:00"
+        ]
+      ]
+    },
+    {
+      "jour": 5,
+      "ferme": false,
+      "creneaux": [
+        [
+          "09:00",
+          "12:00"
+        ],
+        [
+          "14:00",
+          "19:00"
+        ]
+      ]
+    },
+    {
+      "jour": 6,
+      "ferme": true,
+      "creneaux": []
+    }
+  ],
+  "attributs": [
+    "Entrée accessible en fauteuil roulant",
+    "Parking accessible en fauteuil roulant"
+  ],
+  "lien_google": "https://maps.google.com/?cid=12182425790623228917&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
+  "site_web_gmb": null,
+  "statut": "publiee",
+  "backlink": {
+    "etat": "absent",
+    "premiere_detection": null,
+    "derniere_detection": null,
+    "derniere_verification": "2026-09-02T14:27:20.105Z",
+    "echecs": 1,
+    "url_detectee": null
+  },
+  "suggestion": {
+    "etat": "en-attente",
+    "date_soumission": null,
+    "tentatives": 0,
+    "date_email": "2026-09-02"
+  },
+  "retrait": null,
+  "dates": {
+    "collecte": "2026-09-02",
+    "publication": "2026-09-02",
+    "maj": "2026-09-02"
+  },
+  "source": "google-places",
+  "redaction": {
+    "titre": "Bougel Transactions — Garage et automobile à Xertigny",
+    "meta_titre": "Bougel Transactions, garage et automobile à Xertigny",
+    "meta_description": "Bougel Transactions, garage et automobile à Xertigny (329 Rue de l'École Moyenpal) : adresse, horaires, téléphone et informations pratiques.",
+    "chapo": "Bougel Transactions est un garage et automobile au 329 Rue de l'École Moyenpal, à Xertigny. Aucune adresse web n'est renseignée sur sa fiche Google. Cette page rassemble donc, en un seul endroit stable, les informations que les clients recherchent avant de se déplacer.",
+    "sections": [
+      {
+        "id": "presentation",
+        "titre": "Bougel Transactions en quelques mots",
+        "paragraphes": [
+          "À Xertigny, les recherches du type « garage et automobile près de chez moi » se concluent le plus souvent par un appel ou une visite directe.",
+          "Entretien, réparation, contrôle technique : l'automobiliste choisit d'abord un garage proche et disponible. Ces entreprises travaillent à flux tendu et délaissent presque toujours la création d'un site, malgré une demande de recherche locale considérable.",
+          "D'après le relevé du 2 septembre 2026, l'établissement est ouvert tous les jours sauf le dimanche. Le détail jour par jour figure plus bas."
+        ]
+      },
+      {
+        "id": "acces",
+        "titre": "Adresse et accès",
+        "paragraphes": [
+          "L'établissement est situé au 329 Rue de l'École Moyenpal, 88220 Xertigny.",
+          "Coordonnées géographiques : 48.06316, 6.36254. Le lien d'itinéraire ci-dessous ouvre directement la navigation."
+        ]
+      },
+      {
+        "id": "contact",
+        "titre": "Contacter Bougel Transactions",
+        "paragraphes": [
+          "Le contact se fait par téléphone au 03 29 36 01 72. C'est le seul moyen de communication déclaré sur la fiche Google de l'entreprise, avec la visite sur place.",
+          "Si vous dirigez cette entreprise, vous pouvez demander la correction ou le retrait de cette page à tout moment, sans justification."
+        ]
+      },
+      {
+        "id": "avis",
+        "titre": "La réputation de Bougel Transactions",
+        "paragraphes": [
+          "Au relevé du 2 septembre 2026, l'établissement affichait une note de 4 sur 5 sur Google, calculée à partir de 501 avis. Cette note évolue en permanence : elle est indiquée ici à titre d'information et n'est pas retraitée.",
+          "Les avis appartiennent à Google et se consultent sur la fiche d'origine, dont le lien figure sur cette page."
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "q": "Quels sont les horaires de Bougel Transactions ?",
+        "r": "Au relevé du 2 septembre 2026, Bougel Transactions était ouvert tous les jours sauf le dimanche. Dans le détail — lundi : de 9 h à 12 h et de 14 h à 19 h ; mardi : de 9 h à 12 h et de 14 h à 19 h ; mercredi : de 9 h à 12 h et de 14 h à 19 h ; jeudi : de 9 h à 12 h et de 14 h à 19 h ; vendredi : de 9 h à 12 h et de 14 h à 19 h ; samedi : de 9 h à 12 h et de 14 h à 19 h ; dimanche : fermé. Ces horaires peuvent changer : un appel préalable reste conseillé."
+      },
+      {
+        "q": "Où se trouve Bougel Transactions ?",
+        "r": "Bougel Transactions se trouve 329 Rue de l'École Moyenpal, 88220 Xertigny. Un lien d'itinéraire est disponible sur cette page."
+      },
+      {
+        "q": "Comment contacter Bougel Transactions ?",
+        "r": "Par téléphone au 03 29 36 01 72, ou directement sur place aux heures d'ouverture."
+      },
+      {
+        "q": "Bougel Transactions a-t-il un site internet ?",
+        "r": "Non : aucune adresse de site web n'est déclarée sur la fiche Google de Bougel Transactions au 2 septembre 2026. Cette page tient lieu de référence publique en attendant, le cas échéant, la création d'un site propre à l'entreprise."
+      },
+      {
+        "q": "Bougel Transactions est-il accessible aux personnes à mobilité réduite ?",
+        "r": "La fiche Google de l'établissement mentionne : « Entrée accessible en fauteuil roulant ». Cette information est déclarative ; en cas de doute, vérifiez par téléphone."
+      }
+    ],
+    "genere_le": "2026-09-02"
+  },
+  "statut_google": "OPERATIONAL"
+}
