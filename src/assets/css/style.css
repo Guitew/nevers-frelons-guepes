@@ -199,6 +199,12 @@ img { max-width: 100%; height: auto; display: block; }
 .encadre__titre { font-family: var(--sans); font-weight: 700; margin: 0 0 .3rem; color: var(--vert-fonce); font-size: 1rem; }
 .encadre p:last-child { margin-bottom: 0; }
 
+/* Lecteur vidéo (page vidéo) */
+.lecteur-video { position: relative; width: 100%; aspect-ratio: var(--ratio, 16 / 9); background: var(--vert-fonce); border-radius: var(--rayon); overflow: hidden; margin-top: 1.6rem; }
+.lecteur-video--portrait { max-width: 420px; margin-inline: auto; }
+.lecteur-video video, .lecteur-video iframe { position: absolute; inset: 0; width: 100%; height: 100%; border: 0; display: block; background: #000; }
+.lecteur-video__repli { font-size: .85rem; color: var(--texte-doux); text-align: center; margin: .6rem 0 1.8rem; }
+
 /* ---------- Accueil : hero ---------- */
 .hero {
   position: relative; color: #fff; overflow: hidden;

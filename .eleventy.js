@@ -50,6 +50,14 @@ module.exports = function (eleventyConfig) {
 
   eleventyConfig.addFilter("limite", (arr, n) => (arr || []).slice(0, n));
 
+  // Construit les URL Google Drive à partir d'un identifiant de fichier.
+  eleventyConfig.addFilter("driveLecture", (id) =>
+    id ? `https://drive.google.com/file/d/${id}/preview` : ""
+  );
+  eleventyConfig.addFilter("driveFiche", (id) =>
+    id ? `https://drive.google.com/file/d/${id}/view` : ""
+  );
+
   // Retourne n éléments d'une collection en excluant la page courante (par url)
   eleventyConfig.addFilter("autresQue", (arr, url, n) =>
     (arr || []).filter((e) => e.url !== url).slice(0, n)
