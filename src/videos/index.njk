@@ -1,0 +1,31 @@
+---
+layout: layouts/base.njk
+title: "Vidéos"
+description: "Vidéos courtes de l'Observatoire de la biodiversité du Nord et du Pas-de-Calais."
+noindex: true
+eleventyExcludeFromCollections: true
+---
+<div class="liste-entete">
+  <div class="conteneur">
+    <nav class="fil-ariane" aria-label="Fil d'Ariane">
+      <ol><li><a href="/">Accueil</a></li><li><span aria-current="page">Vidéos</span></li></ol>
+    </nav>
+    <h1>Vidéos</h1>
+    <p class="chapo">Les vidéos courtes publiées par l'observatoire.</p>
+  </div>
+</div>
+
+<div class="conteneur section">
+  <div class="dossiers-liste">
+    {% for v in collections.video | reverse %}
+    <a class="dossier-carte" href="{{ v.url }}">
+      <span class="dossier-carte__vignette" aria-hidden="true">{{ v.data.embleme or '🎬' }}</span>
+      <span>
+        <span class="dossier-carte__rubrique">{{ v.data.rubrique or "Vidéo" }}</span>
+        <span class="dossier-carte__titre">{{ v.data.title }}</span>
+        <span class="dossier-carte__chapo">{{ v.data.chapo | truncate(150) }}</span>
+      </span>
+    </a>
+    {% endfor %}
+  </div>
+</div>

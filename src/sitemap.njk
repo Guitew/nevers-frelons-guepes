@@ -7,7 +7,7 @@ eleventyExcludeFromCollections: true
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 {%- set pages = collections.all -%}
 {%- for p in pages -%}
-{%- if p.url and not p.data.eleventyExcludeFromCollections and "/index-recherche" not in p.url -%}
+{%- if p.url and not p.data.eleventyExcludeFromCollections and not p.data.noindex and "/index-recherche" not in p.url -%}
   <url>
     <loc>{{ site.url }}{{ p.url }}</loc>
     {% if p.date %}<lastmod>{{ p.date | isoDate }}</lastmod>{% endif %}

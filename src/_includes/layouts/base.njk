@@ -14,7 +14,7 @@
   <link rel="canonical" href="{{ site.url }}{{ page.url }}">
 
   <!-- Open Graph -->
-  <meta property="og:type" content="{{ 'article' if image else 'website' }}">
+  <meta property="og:type" content="{% if video %}video.other{% elif image %}article{% else %}website{% endif %}">
   <meta property="og:site_name" content="{{ site.nomCourt }}">
   <meta property="og:locale" content="fr_FR">
   <meta property="og:title" content="{% if title %}{{ title }}{% else %}{{ site.nom }}{% endif %}">
@@ -22,10 +22,26 @@
   <meta property="og:url" content="{{ site.url }}{{ page.url }}">
   <meta property="og:image" content="{{ ogImage }}">
   <meta property="og:image:alt" content="{{ image_alt or title or site.nom }}">
-  <meta name="twitter:card" content="{{ 'summary_large_image' if image else 'summary' }}">
+  <meta property="og:image:width" content="{{ image_largeur or 1200 }}">
+  <meta property="og:image:height" content="{{ image_hauteur or 630 }}">
+  {% if not video %}<meta name="twitter:card" content="{{ 'summary_large_image' if image else 'summary' }}">{% endif %}
   <meta name="twitter:title" content="{% if title %}{{ title }}{% else %}{{ site.nom }}{% endif %}">
   <meta name="twitter:description" content="{{ metaDesc }}">
   <meta name="twitter:image" content="{{ ogImage }}">
+
+  {% if video %}
+  {% set videoLecture = (site.url + video.fichier) if video.fichier else (video.lecture or (video.driveId | driveLecture)) %}
+  <!-- Open Graph vidéo (aperçu enrichi lors des partages) -->
+  <meta property="og:video" content="{{ videoLecture }}">
+  <meta property="og:video:secure_url" content="{{ videoLecture }}">
+  <meta property="og:video:type" content="{{ 'video/mp4' if video.fichier else 'text/html' }}">
+  <meta property="og:video:width" content="{{ video.largeur or 1280 }}">
+  <meta property="og:video:height" content="{{ video.hauteur or 720 }}">
+  <meta name="twitter:card" content="player">
+  <meta name="twitter:player" content="{{ videoLecture }}">
+  <meta name="twitter:player:width" content="{{ video.largeur or 1280 }}">
+  <meta name="twitter:player:height" content="{{ video.hauteur or 720 }}">
+  {% endif %}
 
   <link rel="icon" href="/assets/img/favicon.svg" type="image/svg+xml">
   <link rel="preload" href="/assets/css/style.css" as="style">
