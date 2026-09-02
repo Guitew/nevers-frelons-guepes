@@ -1,0 +1,109 @@
+{
+  "id": "ChIJR8tXSwBJ3UcRTCIENDaBwxQ",
+  "slug": "guidez",
+  "nom": "Guidez",
+  "categorie": "transport-demenagement",
+  "categorie_gmb": "Stockage",
+  "type_principal": "storage",
+  "types": [
+    "storage",
+    "service",
+    "point_of_interest",
+    "establishment"
+  ],
+  "ville": "Monchy-le-Preux",
+  "ville_slug": "monchy-le-preux",
+  "adresse": {
+    "rue": "Allée de Grande Bretagne",
+    "code_postal": "62118",
+    "departement": "62",
+    "region": "Hauts-de-France",
+    "pays": "France",
+    "complete": "All. de Grande Bretagne, 62118 Monchy-le-Preux"
+  },
+  "telephone": "",
+  "geo": {
+    "latitude": 50.2719707,
+    "longitude": 2.8601209
+  },
+  "note": 4.3,
+  "avis": 6,
+  "horaires": null,
+  "attributs": [],
+  "lien_google": "https://maps.google.com/?cid=1496181571018039884&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
+  "site_web_gmb": null,
+  "statut": "publiee",
+  "backlink": {
+    "etat": "absent",
+    "premiere_detection": null,
+    "derniere_detection": null,
+    "derniere_verification": "2026-09-02T09:33:17.910Z",
+    "echecs": 1,
+    "url_detectee": null
+  },
+  "suggestion": {
+    "etat": "en-attente",
+    "date_soumission": null,
+    "tentatives": 0,
+    "date_email": "2026-09-02"
+  },
+  "retrait": null,
+  "dates": {
+    "collecte": "2026-09-02",
+    "publication": "2026-09-02",
+    "maj": "2026-09-02"
+  },
+  "source": "google-places",
+  "redaction": {
+    "titre": "Guidez — Transport et déménagement à Monchy-le-Preux",
+    "meta_titre": "Guidez, transport et déménagement à Monchy-le-Preux",
+    "meta_description": "Guidez, transport et déménagement à Monchy-le-Preux (Allée de Grande Bretagne) : adresse, horaires et informations pratiques.",
+    "chapo": "Guidez exerce l'activité de transport et déménagement au Allée de Grande Bretagne, à Monchy-le-Preux. Faute de site internet déclaré sur sa fiche Google, l'entreprise reste difficile à trouver en dehors des cartes. Cette page comble ce manque avec des données factuelles et datées.",
+    "sections": [
+      {
+        "id": "presentation",
+        "titre": "Guidez en quelques mots",
+        "paragraphes": [
+          "À Monchy-le-Preux, les recherches du type « transport et déménagement près de chez moi » se concluent le plus souvent par un appel ou une visite directe.",
+          "Déménagement, course urgente, transport de personnes : des services décidés rapidement et comparés sur la disponibilité. La fiche rassemble la zone couverte, les moyens et le contact direct, sans passer par une place de marché."
+        ]
+      },
+      {
+        "id": "acces",
+        "titre": "Adresse et accès",
+        "paragraphes": [
+          "L'établissement est situé au Allée de Grande Bretagne, 62118 Monchy-le-Preux.",
+          "Coordonnées géographiques : 50.27197, 2.86012. Le lien d'itinéraire ci-dessous ouvre directement la navigation."
+        ]
+      },
+      {
+        "id": "contact",
+        "titre": "Contacter Guidez",
+        "paragraphes": [
+          "Aucun numéro de téléphone n'est déclaré sur la fiche Google de l'établissement : le contact se fait sur place, aux horaires indiqués.",
+          "Si vous dirigez cette entreprise, vous pouvez demander la correction ou le retrait de cette page à tout moment, sans justification."
+        ]
+      },
+      {
+        "id": "avis",
+        "titre": "La réputation de Guidez",
+        "paragraphes": [
+          "Au relevé du 2 septembre 2026, l'établissement affichait une note de 4,3 sur 5 sur Google, calculée à partir de 6 avis. Cette note évolue en permanence : elle est indiquée ici à titre d'information et n'est pas retraitée.",
+          "Les avis appartiennent à Google et se consultent sur la fiche d'origine, dont le lien figure sur cette page."
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "q": "Où se trouve Guidez ?",
+        "r": "Guidez se trouve All. de Grande Bretagne, 62118 Monchy-le-Preux. Un lien d'itinéraire est disponible sur cette page."
+      },
+      {
+        "q": "Guidez a-t-il un site internet ?",
+        "r": "Non : aucune adresse de site web n'est déclarée sur la fiche Google de Guidez au 2 septembre 2026. Cette page tient lieu de référence publique en attendant, le cas échéant, la création d'un site propre à l'entreprise."
+      }
+    ],
+    "genere_le": "2026-09-02"
+  },
+  "statut_google": "OPERATIONAL"
+}

@@ -1,0 +1,184 @@
+{
+  "id": "ChIJZaJogm1t5kcR3KFd4AfxLKY",
+  "slug": "la-cite-fertile",
+  "nom": "La Cité Fertile",
+  "categorie": "cafes-bars",
+  "categorie_gmb": "Bar",
+  "type_principal": "bar",
+  "types": [
+    "bar",
+    "cultural_center",
+    "garden",
+    "point_of_interest",
+    "establishment"
+  ],
+  "ville": "Pantin",
+  "ville_slug": "pantin",
+  "adresse": {
+    "rue": "14 Avenue Edouard Vaillant",
+    "code_postal": "93500",
+    "departement": "93",
+    "region": "Île-de-France",
+    "pays": "France",
+    "complete": "14 Av. Edouard Vaillant, 93500 Pantin"
+  },
+  "telephone": "01 48 43 04 60",
+  "geo": {
+    "latitude": 48.898464,
+    "longitude": 2.398827
+  },
+  "note": 4.4,
+  "avis": 2387,
+  "horaires": [
+    {
+      "jour": 0,
+      "ferme": true,
+      "creneaux": []
+    },
+    {
+      "jour": 1,
+      "ferme": true,
+      "creneaux": []
+    },
+    {
+      "jour": 2,
+      "ferme": true,
+      "creneaux": []
+    },
+    {
+      "jour": 3,
+      "ferme": false,
+      "creneaux": [
+        [
+          "18:00",
+          "00:00"
+        ]
+      ]
+    },
+    {
+      "jour": 4,
+      "ferme": false,
+      "creneaux": [
+        [
+          "18:00",
+          "00:00"
+        ]
+      ]
+    },
+    {
+      "jour": 5,
+      "ferme": false,
+      "creneaux": [
+        [
+          "12:00",
+          "00:00"
+        ]
+      ]
+    },
+    {
+      "jour": 6,
+      "ferme": false,
+      "creneaux": [
+        [
+          "12:00",
+          "22:00"
+        ]
+      ]
+    }
+  ],
+  "attributs": [
+    "Entrée accessible en fauteuil roulant",
+    "Parking accessible en fauteuil roulant",
+    "Toilettes accessibles en fauteuil roulant",
+    "Places assises accessibles en fauteuil roulant"
+  ],
+  "lien_google": "https://maps.google.com/?cid=11974210525402603996&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
+  "site_web_gmb": null,
+  "statut": "publiee",
+  "backlink": {
+    "etat": "absent",
+    "premiere_detection": null,
+    "derniere_detection": null,
+    "derniere_verification": "2026-09-02T09:33:17.910Z",
+    "echecs": 1,
+    "url_detectee": null
+  },
+  "suggestion": {
+    "etat": "en-attente",
+    "date_soumission": null,
+    "tentatives": 0,
+    "date_email": "2026-09-02"
+  },
+  "retrait": null,
+  "dates": {
+    "collecte": "2026-09-02",
+    "publication": "2026-09-02",
+    "maj": "2026-09-02"
+  },
+  "source": "google-places",
+  "redaction": {
+    "titre": "La Cité Fertile — Café ou bar à Pantin",
+    "meta_titre": "La Cité Fertile, café ou bar à Pantin",
+    "meta_description": "La Cité Fertile, café ou bar à Pantin (14 Avenue Edouard Vaillant) : adresse, horaires, téléphone et informations pratiques.",
+    "chapo": "Cette fiche présente La Cité Fertile, un café ou bar au 14 Avenue Edouard Vaillant, à Pantin. Son établissement ne déclare aucun site internet sur sa fiche Google : les informations ci-dessous en tiennent lieu de référence publique, vérifiable et accessible à tous.",
+    "sections": [
+      {
+        "id": "presentation",
+        "titre": "La Cité Fertile en quelques mots",
+        "paragraphes": [
+          "Cafés et bars font partie des activités les plus consultées localement sur mobile.",
+          "Les cafés et bars sont des repères de vie locale rarement dotés d'un site. Horaires réels, terrasse, retransmissions sportives, concerts : autant de détails qui décident d'une sortie et qui n'apparaissent nulle part ailleurs de façon lisible.",
+          "D'après le relevé du 2 septembre 2026, l'établissement est fermé le lundi et le mardi et le mercredi. Le détail jour par jour figure plus bas."
+        ]
+      },
+      {
+        "id": "acces",
+        "titre": "Adresse et accès",
+        "paragraphes": [
+          "L'établissement est situé au 14 Avenue Edouard Vaillant, 93500 Pantin.",
+          "Coordonnées géographiques : 48.89846, 2.39883. Le lien d'itinéraire ci-dessous ouvre directement la navigation."
+        ]
+      },
+      {
+        "id": "contact",
+        "titre": "Contacter La Cité Fertile",
+        "paragraphes": [
+          "Le contact se fait par téléphone au 01 48 43 04 60. C'est le seul moyen de communication déclaré sur la fiche Google de l'entreprise, avec la visite sur place.",
+          "Si vous dirigez cette entreprise, vous pouvez demander la correction ou le retrait de cette page à tout moment, sans justification."
+        ]
+      },
+      {
+        "id": "avis",
+        "titre": "La réputation de La Cité Fertile",
+        "paragraphes": [
+          "Au relevé du 2 septembre 2026, l'établissement affichait une note de 4,4 sur 5 sur Google, calculée à partir de 2387 avis. Cette note évolue en permanence : elle est indiquée ici à titre d'information et n'est pas retraitée.",
+          "Les avis appartiennent à Google et se consultent sur la fiche d'origine, dont le lien figure sur cette page."
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "q": "Quels sont les horaires de La Cité Fertile ?",
+        "r": "Au relevé du 2 septembre 2026, La Cité Fertile était fermé le lundi et le mardi et le mercredi. Dans le détail — lundi : fermé ; mardi : fermé ; mercredi : fermé ; jeudi : de 18 h à 0 h ; vendredi : de 18 h à 0 h ; samedi : de 12 h à 0 h ; dimanche : de 12 h à 22 h. Ces horaires peuvent changer : un appel préalable reste conseillé."
+      },
+      {
+        "q": "Où se trouve La Cité Fertile ?",
+        "r": "La Cité Fertile se trouve 14 Av. Edouard Vaillant, 93500 Pantin. Un lien d'itinéraire est disponible sur cette page."
+      },
+      {
+        "q": "Comment contacter La Cité Fertile ?",
+        "r": "Par téléphone au 01 48 43 04 60, ou directement sur place aux heures d'ouverture."
+      },
+      {
+        "q": "La Cité Fertile a-t-il un site internet ?",
+        "r": "Non : aucune adresse de site web n'est déclarée sur la fiche Google de La Cité Fertile au 2 septembre 2026. Cette page tient lieu de référence publique en attendant, le cas échéant, la création d'un site propre à l'entreprise."
+      },
+      {
+        "q": "La Cité Fertile est-il accessible aux personnes à mobilité réduite ?",
+        "r": "La fiche Google de l'établissement mentionne : « Entrée accessible en fauteuil roulant ». Cette information est déclarative ; en cas de doute, vérifiez par téléphone."
+      }
+    ],
+    "genere_le": "2026-09-02"
+  },
+  "statut_google": "OPERATIONAL"
+}
