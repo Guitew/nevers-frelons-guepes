@@ -1,0 +1,191 @@
+{
+  "id": "ChIJYTpqLmbh5EcRQP6W_LE9rmQ",
+  "slug": "prelocentre",
+  "nom": "Prelocentre",
+  "categorie": "transport-demenagement",
+  "categorie_gmb": "Stockage",
+  "type_principal": "storage",
+  "types": [
+    "storage",
+    "service",
+    "point_of_interest",
+    "establishment"
+  ],
+  "ville": "Saint-Cyr-en-Val",
+  "ville_slug": "saint-cyr-en-val",
+  "adresse": {
+    "rue": "1 Rue des Douglas",
+    "code_postal": "45590",
+    "departement": "45",
+    "region": "Centre-Val de Loire",
+    "pays": "France",
+    "complete": "1 Rue des Douglas, 45590 Saint-Cyr-en-Val"
+  },
+  "telephone": "02 18 69 84 90",
+  "geo": {
+    "latitude": 47.814941999999995,
+    "longitude": 1.9576356999999998
+  },
+  "note": 4.1,
+  "avis": 241,
+  "horaires": [
+    {
+      "jour": 0,
+      "ferme": false,
+      "creneaux": [
+        [
+          "09:00",
+          "17:00"
+        ]
+      ]
+    },
+    {
+      "jour": 1,
+      "ferme": false,
+      "creneaux": [
+        [
+          "09:00",
+          "17:00"
+        ]
+      ]
+    },
+    {
+      "jour": 2,
+      "ferme": false,
+      "creneaux": [
+        [
+          "09:00",
+          "17:00"
+        ]
+      ]
+    },
+    {
+      "jour": 3,
+      "ferme": false,
+      "creneaux": [
+        [
+          "09:00",
+          "17:00"
+        ]
+      ]
+    },
+    {
+      "jour": 4,
+      "ferme": false,
+      "creneaux": [
+        [
+          "09:00",
+          "17:00"
+        ]
+      ]
+    },
+    {
+      "jour": 5,
+      "ferme": false,
+      "creneaux": [
+        [
+          "09:00",
+          "17:00"
+        ]
+      ]
+    },
+    {
+      "jour": 6,
+      "ferme": true,
+      "creneaux": []
+    }
+  ],
+  "attributs": [
+    "Entrée accessible en fauteuil roulant",
+    "Parking accessible en fauteuil roulant"
+  ],
+  "lien_google": "https://maps.google.com/?cid=7254803884396707392&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
+  "site_web_gmb": null,
+  "statut": "publiee",
+  "backlink": {
+    "etat": "absent",
+    "premiere_detection": null,
+    "derniere_detection": null,
+    "derniere_verification": "2026-09-03T09:42:38.719Z",
+    "echecs": 1,
+    "url_detectee": null
+  },
+  "suggestion": {
+    "etat": "en-attente",
+    "date_soumission": null,
+    "tentatives": 0,
+    "date_email": "2026-09-03"
+  },
+  "retrait": null,
+  "dates": {
+    "collecte": "2026-09-03",
+    "publication": "2026-09-03",
+    "maj": "2026-09-03"
+  },
+  "source": "google-places",
+  "redaction": {
+    "titre": "Prelocentre — Transport et déménagement à Saint-Cyr-en-Val",
+    "meta_titre": "Prelocentre, transport et déménagement à Saint-Cyr-en-Val",
+    "meta_description": "Prelocentre, transport et déménagement à Saint-Cyr-en-Val (1 Rue des Douglas) : adresse, horaires, téléphone et informations pratiques.",
+    "chapo": "Cette fiche présente Prelocentre, un transport et déménagement au 1 Rue des Douglas, à Saint-Cyr-en-Val. Son établissement ne déclare aucun site internet sur sa fiche Google : les informations ci-dessous en tiennent lieu de référence publique, vérifiable et accessible à tous.",
+    "sections": [
+      {
+        "id": "presentation",
+        "titre": "Prelocentre en quelques mots",
+        "paragraphes": [
+          "Le choix d'un transport et déménagement se joue sur trois critères : la proximité, les horaires et la facilité de contact.",
+          "Déménagement, course urgente, transport de personnes : des services décidés rapidement et comparés sur la disponibilité. La fiche rassemble la zone couverte, les moyens et le contact direct, sans passer par une place de marché.",
+          "D'après le relevé du 3 septembre 2026, l'établissement est ouvert tous les jours sauf le dimanche. Le détail jour par jour figure plus bas."
+        ]
+      },
+      {
+        "id": "acces",
+        "titre": "Adresse et accès",
+        "paragraphes": [
+          "L'établissement est situé au 1 Rue des Douglas, 45590 Saint-Cyr-en-Val.",
+          "Coordonnées géographiques : 47.81494, 1.95764. Le lien d'itinéraire ci-dessous ouvre directement la navigation."
+        ]
+      },
+      {
+        "id": "contact",
+        "titre": "Contacter Prelocentre",
+        "paragraphes": [
+          "Le contact se fait par téléphone au 02 18 69 84 90. C'est le seul moyen de communication déclaré sur la fiche Google de l'entreprise, avec la visite sur place.",
+          "Si vous dirigez cette entreprise, vous pouvez demander la correction ou le retrait de cette page à tout moment, sans justification."
+        ]
+      },
+      {
+        "id": "avis",
+        "titre": "La réputation de Prelocentre",
+        "paragraphes": [
+          "Au relevé du 3 septembre 2026, l'établissement affichait une note de 4,1 sur 5 sur Google, calculée à partir de 241 avis. Cette note évolue en permanence : elle est indiquée ici à titre d'information et n'est pas retraitée.",
+          "Les avis appartiennent à Google et se consultent sur la fiche d'origine, dont le lien figure sur cette page."
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "q": "Quels sont les horaires de Prelocentre ?",
+        "r": "Au relevé du 3 septembre 2026, Prelocentre était ouvert tous les jours sauf le dimanche. Dans le détail — lundi : de 9 h à 17 h ; mardi : de 9 h à 17 h ; mercredi : de 9 h à 17 h ; jeudi : de 9 h à 17 h ; vendredi : de 9 h à 17 h ; samedi : de 9 h à 17 h ; dimanche : fermé. Ces horaires peuvent changer : un appel préalable reste conseillé."
+      },
+      {
+        "q": "Où se trouve Prelocentre ?",
+        "r": "Prelocentre se trouve 1 Rue des Douglas, 45590 Saint-Cyr-en-Val. Un lien d'itinéraire est disponible sur cette page."
+      },
+      {
+        "q": "Comment contacter Prelocentre ?",
+        "r": "Par téléphone au 02 18 69 84 90, ou directement sur place aux heures d'ouverture."
+      },
+      {
+        "q": "Prelocentre a-t-il un site internet ?",
+        "r": "Non : aucune adresse de site web n'est déclarée sur la fiche Google de Prelocentre au 3 septembre 2026. Cette page tient lieu de référence publique en attendant, le cas échéant, la création d'un site propre à l'entreprise."
+      },
+      {
+        "q": "Prelocentre est-il accessible aux personnes à mobilité réduite ?",
+        "r": "La fiche Google de l'établissement mentionne : « Entrée accessible en fauteuil roulant ». Cette information est déclarative ; en cas de doute, vérifiez par téléphone."
+      }
+    ],
+    "genere_le": "2026-09-03"
+  },
+  "statut_google": "OPERATIONAL"
+}

@@ -1,0 +1,121 @@
+{
+  "id": "ChIJW1o8b2W_C0gRvbdboRuJN1s",
+  "slug": "primever-normandie",
+  "nom": "Primever Normandie",
+  "categorie": "transport-demenagement",
+  "categorie_gmb": "Entreprise de déménagement",
+  "type_principal": "moving_company",
+  "types": [
+    "shipping_service",
+    "moving_company",
+    "transportation_service",
+    "point_of_interest",
+    "service",
+    "establishment"
+  ],
+  "ville": "Saint-Amand-Villages",
+  "ville_slug": "saint-amand-villages",
+  "adresse": {
+    "rue": "717 La Détourbe",
+    "code_postal": "50160",
+    "departement": "50",
+    "region": "Normandie",
+    "pays": "France",
+    "complete": "717 La Détourbe, 50160 Saint-Amand-Villages"
+  },
+  "telephone": "02 33 77 46 46",
+  "geo": {
+    "latitude": 49.046766399999996,
+    "longitude": -0.9862586
+  },
+  "note": 4.2,
+  "avis": 69,
+  "horaires": null,
+  "attributs": [
+    "Parking accessible en fauteuil roulant"
+  ],
+  "lien_google": "https://maps.google.com/?cid=6572872932934793149&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
+  "site_web_gmb": null,
+  "statut": "publiee",
+  "backlink": {
+    "etat": "absent",
+    "premiere_detection": null,
+    "derniere_detection": null,
+    "derniere_verification": "2026-09-03T09:42:38.719Z",
+    "echecs": 1,
+    "url_detectee": null
+  },
+  "suggestion": {
+    "etat": "en-attente",
+    "date_soumission": null,
+    "tentatives": 0,
+    "date_email": "2026-09-03"
+  },
+  "retrait": null,
+  "dates": {
+    "collecte": "2026-09-03",
+    "publication": "2026-09-03",
+    "maj": "2026-09-03"
+  },
+  "source": "google-places",
+  "redaction": {
+    "titre": "Primever Normandie — Transport et déménagement à Saint-Amand-Villages",
+    "meta_titre": "Primever Normandie, transport et déménagement à…",
+    "meta_description": "Primever Normandie, transport et déménagement à Saint-Amand-Villages (717 La Détourbe) : adresse, horaires, téléphone et informations pratiques.",
+    "chapo": "Primever Normandie exerce l'activité de transport et déménagement au 717 La Détourbe, à Saint-Amand-Villages. Faute de site internet déclaré sur sa fiche Google, l'entreprise reste difficile à trouver en dehors des cartes. Cette page comble ce manque avec des données factuelles et datées.",
+    "sections": [
+      {
+        "id": "presentation",
+        "titre": "Primever Normandie en quelques mots",
+        "paragraphes": [
+          "Le choix d'un transport et déménagement se joue sur trois critères : la proximité, les horaires et la facilité de contact.",
+          "Déménagement, course urgente, transport de personnes : des services décidés rapidement et comparés sur la disponibilité. La fiche rassemble la zone couverte, les moyens et le contact direct, sans passer par une place de marché."
+        ]
+      },
+      {
+        "id": "acces",
+        "titre": "Adresse et accès",
+        "paragraphes": [
+          "L'établissement est situé au 717 La Détourbe, 50160 Saint-Amand-Villages.",
+          "Coordonnées géographiques : 49.04677, -0.98626. Le lien d'itinéraire ci-dessous ouvre directement la navigation."
+        ]
+      },
+      {
+        "id": "contact",
+        "titre": "Contacter Primever Normandie",
+        "paragraphes": [
+          "Le contact se fait par téléphone au 02 33 77 46 46. C'est le seul moyen de communication déclaré sur la fiche Google de l'entreprise, avec la visite sur place.",
+          "Si vous dirigez cette entreprise, vous pouvez demander la correction ou le retrait de cette page à tout moment, sans justification."
+        ]
+      },
+      {
+        "id": "avis",
+        "titre": "La réputation de Primever Normandie",
+        "paragraphes": [
+          "Au relevé du 3 septembre 2026, l'établissement affichait une note de 4,2 sur 5 sur Google, calculée à partir de 69 avis. Cette note évolue en permanence : elle est indiquée ici à titre d'information et n'est pas retraitée.",
+          "Les avis appartiennent à Google et se consultent sur la fiche d'origine, dont le lien figure sur cette page."
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "q": "Où se trouve Primever Normandie ?",
+        "r": "Primever Normandie se trouve 717 La Détourbe, 50160 Saint-Amand-Villages. Un lien d'itinéraire est disponible sur cette page."
+      },
+      {
+        "q": "Comment contacter Primever Normandie ?",
+        "r": "Par téléphone au 02 33 77 46 46, ou directement sur place aux heures d'ouverture."
+      },
+      {
+        "q": "Primever Normandie a-t-il un site internet ?",
+        "r": "Non : aucune adresse de site web n'est déclarée sur la fiche Google de Primever Normandie au 3 septembre 2026. Cette page tient lieu de référence publique en attendant, le cas échéant, la création d'un site propre à l'entreprise."
+      },
+      {
+        "q": "Primever Normandie est-il accessible aux personnes à mobilité réduite ?",
+        "r": "La fiche Google de l'établissement mentionne : « Parking accessible en fauteuil roulant ». Cette information est déclarative ; en cas de doute, vérifiez par téléphone."
+      }
+    ],
+    "genere_le": "2026-09-03"
+  },
+  "statut_google": "OPERATIONAL"
+}

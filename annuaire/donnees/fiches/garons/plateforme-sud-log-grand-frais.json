@@ -1,0 +1,162 @@
+{
+  "id": "ChIJE_Fo4PPVtRIREKtlHTASpis",
+  "slug": "plateforme-sud-log-grand-frais",
+  "nom": "Plateforme SUD LOG - Grand Frais",
+  "categorie": "transport-demenagement",
+  "categorie_gmb": "Stockage",
+  "type_principal": "storage",
+  "types": [
+    "storage",
+    "point_of_interest",
+    "service",
+    "establishment"
+  ],
+  "ville": "Garons",
+  "ville_slug": "garons",
+  "adresse": {
+    "rue": "",
+    "code_postal": "30128",
+    "departement": "30",
+    "region": "Occitanie",
+    "pays": "France",
+    "complete": "1195 Avenue de la Courbade ZAC Mitra, 30128 Garons"
+  },
+  "telephone": "",
+  "geo": {
+    "latitude": 43.7562018,
+    "longitude": 4.4312346
+  },
+  "note": 4.5,
+  "avis": 122,
+  "horaires": [
+    {
+      "jour": 0,
+      "ferme": true,
+      "creneaux": []
+    },
+    {
+      "jour": 1,
+      "ferme": true,
+      "creneaux": []
+    },
+    {
+      "jour": 2,
+      "ferme": true,
+      "creneaux": []
+    },
+    {
+      "jour": 3,
+      "ferme": true,
+      "creneaux": []
+    },
+    {
+      "jour": 4,
+      "ferme": true,
+      "creneaux": []
+    },
+    {
+      "jour": 5,
+      "ferme": true,
+      "creneaux": []
+    },
+    {
+      "jour": 6,
+      "ferme": false,
+      "creneaux": [
+        [
+          "00:00",
+          "23:59"
+        ]
+      ]
+    }
+  ],
+  "attributs": [
+    "Entrée accessible en fauteuil roulant",
+    "Parking accessible en fauteuil roulant"
+  ],
+  "lien_google": "https://maps.google.com/?cid=3145221387625802512&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
+  "site_web_gmb": null,
+  "statut": "publiee",
+  "backlink": {
+    "etat": "absent",
+    "premiere_detection": null,
+    "derniere_detection": null,
+    "derniere_verification": "2026-09-03T09:42:38.719Z",
+    "echecs": 1,
+    "url_detectee": null
+  },
+  "suggestion": {
+    "etat": "en-attente",
+    "date_soumission": null,
+    "tentatives": 0,
+    "date_email": "2026-09-03"
+  },
+  "retrait": null,
+  "dates": {
+    "collecte": "2026-09-03",
+    "publication": "2026-09-03",
+    "maj": "2026-09-03"
+  },
+  "source": "google-places",
+  "redaction": {
+    "titre": "Plateforme SUD LOG - Grand Frais — Transport et déménagement à Garons",
+    "meta_titre": "Plateforme SUD LOG - Grand Frais, transport et…",
+    "meta_description": "Plateforme SUD LOG - Grand Frais, transport et déménagement à Garons : adresse, horaires et informations pratiques.",
+    "chapo": "Plateforme SUD LOG - Grand Frais est un transport et déménagement à Garons. Aucune adresse web n'est renseignée sur sa fiche Google. Cette page rassemble donc, en un seul endroit stable, les informations que les clients recherchent avant de se déplacer.",
+    "sections": [
+      {
+        "id": "presentation",
+        "titre": "Plateforme SUD LOG - Grand Frais en quelques mots",
+        "paragraphes": [
+          "Transport, déménagement et stockage font partie des activités les plus consultées localement sur mobile.",
+          "Déménagement, course urgente, transport de personnes : des services décidés rapidement et comparés sur la disponibilité. La fiche rassemble la zone couverte, les moyens et le contact direct, sans passer par une place de marché.",
+          "D'après le relevé du 3 septembre 2026, l'établissement est ouvert le dimanche. Le détail jour par jour figure plus bas."
+        ]
+      },
+      {
+        "id": "acces",
+        "titre": "Adresse et accès",
+        "paragraphes": [
+          "L'établissement est situé, 30128 Garons.",
+          "Coordonnées géographiques : 43.75620, 4.43123. Le lien d'itinéraire ci-dessous ouvre directement la navigation."
+        ]
+      },
+      {
+        "id": "contact",
+        "titre": "Contacter Plateforme SUD LOG - Grand Frais",
+        "paragraphes": [
+          "Aucun numéro de téléphone n'est déclaré sur la fiche Google de l'établissement : le contact se fait sur place, aux horaires indiqués.",
+          "Si vous dirigez cette entreprise, vous pouvez demander la correction ou le retrait de cette page à tout moment, sans justification."
+        ]
+      },
+      {
+        "id": "avis",
+        "titre": "La réputation de Plateforme SUD LOG - Grand Frais",
+        "paragraphes": [
+          "Au relevé du 3 septembre 2026, l'établissement affichait une note de 4,5 sur 5 sur Google, calculée à partir de 122 avis. Cette note évolue en permanence : elle est indiquée ici à titre d'information et n'est pas retraitée.",
+          "Les avis appartiennent à Google et se consultent sur la fiche d'origine, dont le lien figure sur cette page."
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "q": "Quels sont les horaires de Plateforme SUD LOG - Grand Frais ?",
+        "r": "Au relevé du 3 septembre 2026, Plateforme SUD LOG - Grand Frais était ouvert le dimanche. Dans le détail — lundi : fermé ; mardi : fermé ; mercredi : fermé ; jeudi : fermé ; vendredi : fermé ; samedi : fermé ; dimanche : de 0 h à 23 h 59. Ces horaires peuvent changer : un appel préalable reste conseillé."
+      },
+      {
+        "q": "Où se trouve Plateforme SUD LOG - Grand Frais ?",
+        "r": "Plateforme SUD LOG - Grand Frais se trouve 1195 Avenue de la Courbade ZAC Mitra, 30128 Garons. Un lien d'itinéraire est disponible sur cette page."
+      },
+      {
+        "q": "Plateforme SUD LOG - Grand Frais a-t-il un site internet ?",
+        "r": "Non : aucune adresse de site web n'est déclarée sur la fiche Google de Plateforme SUD LOG - Grand Frais au 3 septembre 2026. Cette page tient lieu de référence publique en attendant, le cas échéant, la création d'un site propre à l'entreprise."
+      },
+      {
+        "q": "Plateforme SUD LOG - Grand Frais est-il accessible aux personnes à mobilité réduite ?",
+        "r": "La fiche Google de l'établissement mentionne : « Entrée accessible en fauteuil roulant ». Cette information est déclarative ; en cas de doute, vérifiez par téléphone."
+      }
+    ],
+    "genere_le": "2026-09-03"
+  },
+  "statut_google": "OPERATIONAL"
+}

@@ -1,0 +1,115 @@
+{
+  "id": "ChIJqXBMacdt5kcRdRwLo0mMTYs",
+  "slug": "porte-de-bagnolet",
+  "nom": "Porte de Bagnolet",
+  "categorie": "transport-demenagement",
+  "categorie_gmb": "Stockage",
+  "type_principal": "storage",
+  "types": [
+    "storage",
+    "point_of_interest",
+    "service",
+    "establishment"
+  ],
+  "ville": "Paris",
+  "ville_slug": "paris",
+  "adresse": {
+    "rue": "5 Rue de la Py",
+    "code_postal": "75020",
+    "departement": "75",
+    "region": "Île-de-France",
+    "pays": "France",
+    "complete": "5 Rue de la Py, 75020 Paris"
+  },
+  "telephone": "",
+  "geo": {
+    "latitude": 48.8640286,
+    "longitude": 2.4068218999999997
+  },
+  "note": 4,
+  "avis": 75,
+  "horaires": null,
+  "attributs": [
+    "Parking accessible en fauteuil roulant"
+  ],
+  "lien_google": "https://maps.google.com/?cid=10037833392374619253&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
+  "site_web_gmb": null,
+  "statut": "publiee",
+  "backlink": {
+    "etat": "absent",
+    "premiere_detection": null,
+    "derniere_detection": null,
+    "derniere_verification": "2026-09-03T09:42:38.719Z",
+    "echecs": 1,
+    "url_detectee": null
+  },
+  "suggestion": {
+    "etat": "en-attente",
+    "date_soumission": null,
+    "tentatives": 0,
+    "date_email": "2026-09-03"
+  },
+  "retrait": null,
+  "dates": {
+    "collecte": "2026-09-03",
+    "publication": "2026-09-03",
+    "maj": "2026-09-03"
+  },
+  "source": "google-places",
+  "redaction": {
+    "titre": "Porte de Bagnolet — Transport et déménagement à Paris",
+    "meta_titre": "Porte de Bagnolet, transport et déménagement à Paris",
+    "meta_description": "Porte de Bagnolet, transport et déménagement à Paris (5 Rue de la Py) : adresse, horaires et informations pratiques.",
+    "chapo": "Porte de Bagnolet exerce l'activité de transport et déménagement au 5 Rue de la Py, à Paris. Faute de site internet déclaré sur sa fiche Google, l'entreprise reste difficile à trouver en dehors des cartes. Cette page comble ce manque avec des données factuelles et datées.",
+    "sections": [
+      {
+        "id": "presentation",
+        "titre": "Porte de Bagnolet en quelques mots",
+        "paragraphes": [
+          "Le choix d'un transport et déménagement se joue sur trois critères : la proximité, les horaires et la facilité de contact.",
+          "Déménagement, course urgente, transport de personnes : des services décidés rapidement et comparés sur la disponibilité. La fiche rassemble la zone couverte, les moyens et le contact direct, sans passer par une place de marché."
+        ]
+      },
+      {
+        "id": "acces",
+        "titre": "Adresse et accès",
+        "paragraphes": [
+          "L'établissement est situé au 5 Rue de la Py, 75020 Paris.",
+          "Coordonnées géographiques : 48.86403, 2.40682. Le lien d'itinéraire ci-dessous ouvre directement la navigation."
+        ]
+      },
+      {
+        "id": "contact",
+        "titre": "Contacter Porte de Bagnolet",
+        "paragraphes": [
+          "Aucun numéro de téléphone n'est déclaré sur la fiche Google de l'établissement : le contact se fait sur place, aux horaires indiqués.",
+          "Si vous dirigez cette entreprise, vous pouvez demander la correction ou le retrait de cette page à tout moment, sans justification."
+        ]
+      },
+      {
+        "id": "avis",
+        "titre": "La réputation de Porte de Bagnolet",
+        "paragraphes": [
+          "Au relevé du 3 septembre 2026, l'établissement affichait une note de 4 sur 5 sur Google, calculée à partir de 75 avis. Cette note évolue en permanence : elle est indiquée ici à titre d'information et n'est pas retraitée.",
+          "Les avis appartiennent à Google et se consultent sur la fiche d'origine, dont le lien figure sur cette page."
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "q": "Où se trouve Porte de Bagnolet ?",
+        "r": "Porte de Bagnolet se trouve 5 Rue de la Py, 75020 Paris. Un lien d'itinéraire est disponible sur cette page."
+      },
+      {
+        "q": "Porte de Bagnolet a-t-il un site internet ?",
+        "r": "Non : aucune adresse de site web n'est déclarée sur la fiche Google de Porte de Bagnolet au 3 septembre 2026. Cette page tient lieu de référence publique en attendant, le cas échéant, la création d'un site propre à l'entreprise."
+      },
+      {
+        "q": "Porte de Bagnolet est-il accessible aux personnes à mobilité réduite ?",
+        "r": "La fiche Google de l'établissement mentionne : « Parking accessible en fauteuil roulant ». Cette information est déclarative ; en cas de doute, vérifiez par téléphone."
+      }
+    ],
+    "genere_le": "2026-09-03"
+  },
+  "statut_google": "OPERATIONAL"
+}

@@ -1,0 +1,118 @@
+{
+  "id": "ChIJCf0vZfm1qxIR_h877ii3MpM",
+  "slug": "arret-flixbus-agen",
+  "nom": "Arrêt Flixbus Agen",
+  "categorie": "transport-demenagement",
+  "categorie_gmb": "Entreprise de déménagement",
+  "type_principal": "moving_company",
+  "types": [
+    "moving_company",
+    "shipping_service",
+    "transportation_service",
+    "service",
+    "point_of_interest",
+    "establishment"
+  ],
+  "ville": "Le Passage",
+  "ville_slug": "le-passage",
+  "adresse": {
+    "rue": "",
+    "code_postal": "47520",
+    "departement": "47",
+    "region": "Nouvelle-Aquitaine",
+    "pays": "France",
+    "complete": "Unnamed Road, 47520 Le Passage"
+  },
+  "telephone": "",
+  "geo": {
+    "latitude": 44.166604799999995,
+    "longitude": 0.6060732999999999
+  },
+  "note": 3.5,
+  "avis": 30,
+  "horaires": null,
+  "attributs": [
+    "Entrée accessible en fauteuil roulant",
+    "Parking accessible en fauteuil roulant"
+  ],
+  "lien_google": "https://maps.google.com/?cid=10606741458834366462&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
+  "site_web_gmb": null,
+  "statut": "publiee",
+  "backlink": {
+    "etat": "absent",
+    "premiere_detection": null,
+    "derniere_detection": null,
+    "derniere_verification": "2026-09-03T09:42:38.719Z",
+    "echecs": 1,
+    "url_detectee": null
+  },
+  "suggestion": {
+    "etat": "en-attente",
+    "date_soumission": null,
+    "tentatives": 0,
+    "date_email": "2026-09-03"
+  },
+  "retrait": null,
+  "dates": {
+    "collecte": "2026-09-03",
+    "publication": "2026-09-03",
+    "maj": "2026-09-03"
+  },
+  "source": "google-places",
+  "redaction": {
+    "titre": "Arrêt Flixbus Agen — Transport et déménagement à Le Passage",
+    "meta_titre": "Arrêt Flixbus Agen, transport et déménagement à Le Passage",
+    "meta_description": "Arrêt Flixbus Agen, transport et déménagement à Le Passage : adresse, horaires et informations pratiques.",
+    "chapo": "Arrêt Flixbus Agen exerce l'activité de transport et déménagement à Le Passage. Faute de site internet déclaré sur sa fiche Google, l'entreprise reste difficile à trouver en dehors des cartes. Cette page comble ce manque avec des données factuelles et datées.",
+    "sections": [
+      {
+        "id": "presentation",
+        "titre": "Arrêt Flixbus Agen en quelques mots",
+        "paragraphes": [
+          "À Le Passage, les recherches du type « transport et déménagement près de chez moi » se concluent le plus souvent par un appel ou une visite directe.",
+          "Déménagement, course urgente, transport de personnes : des services décidés rapidement et comparés sur la disponibilité. La fiche rassemble la zone couverte, les moyens et le contact direct, sans passer par une place de marché."
+        ]
+      },
+      {
+        "id": "acces",
+        "titre": "Adresse et accès",
+        "paragraphes": [
+          "L'établissement est situé, 47520 Le Passage.",
+          "Coordonnées géographiques : 44.16660, 0.60607. Le lien d'itinéraire ci-dessous ouvre directement la navigation."
+        ]
+      },
+      {
+        "id": "contact",
+        "titre": "Contacter Arrêt Flixbus Agen",
+        "paragraphes": [
+          "Aucun numéro de téléphone n'est déclaré sur la fiche Google de l'établissement : le contact se fait sur place, aux horaires indiqués.",
+          "Si vous dirigez cette entreprise, vous pouvez demander la correction ou le retrait de cette page à tout moment, sans justification."
+        ]
+      },
+      {
+        "id": "avis",
+        "titre": "La réputation de Arrêt Flixbus Agen",
+        "paragraphes": [
+          "Au relevé du 3 septembre 2026, l'établissement affichait une note de 3,5 sur 5 sur Google, calculée à partir de 30 avis. Cette note évolue en permanence : elle est indiquée ici à titre d'information et n'est pas retraitée.",
+          "Les avis appartiennent à Google et se consultent sur la fiche d'origine, dont le lien figure sur cette page."
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "q": "Où se trouve Arrêt Flixbus Agen ?",
+        "r": "Arrêt Flixbus Agen se trouve Unnamed Road, 47520 Le Passage. Un lien d'itinéraire est disponible sur cette page."
+      },
+      {
+        "q": "Arrêt Flixbus Agen a-t-il un site internet ?",
+        "r": "Non : aucune adresse de site web n'est déclarée sur la fiche Google de Arrêt Flixbus Agen au 3 septembre 2026. Cette page tient lieu de référence publique en attendant, le cas échéant, la création d'un site propre à l'entreprise."
+      },
+      {
+        "q": "Arrêt Flixbus Agen est-il accessible aux personnes à mobilité réduite ?",
+        "r": "La fiche Google de l'établissement mentionne : « Entrée accessible en fauteuil roulant ». Cette information est déclarative ; en cas de doute, vérifiez par téléphone."
+      }
+    ],
+    "genere_le": "2026-09-03"
+  },
+  "statut_google": "OPERATIONAL"
+}
