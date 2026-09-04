@@ -1,0 +1,196 @@
+{
+  "id": "ChIJhSTV03sB50cRixbJWqD6YGc",
+  "slug": "gare-sncf-de-beauvais",
+  "nom": "Gare SNCF de Beauvais",
+  "categorie": "services-aux-particuliers",
+  "categorie_gmb": "Guichet de gare",
+  "type_principal": "train_ticket_office",
+  "types": [
+    "train_ticket_office",
+    "tour_agency",
+    "travel_agency",
+    "transportation_service",
+    "service",
+    "point_of_interest",
+    "establishment"
+  ],
+  "ville": "Beauvais",
+  "ville_slug": "beauvais",
+  "adresse": {
+    "rue": "Avenue de la République",
+    "code_postal": "60000",
+    "departement": "60",
+    "region": "Hauts-de-France",
+    "pays": "France",
+    "complete": "Av. de la République, 60000 Beauvais"
+  },
+  "telephone": "",
+  "geo": {
+    "latitude": 49.426494600000005,
+    "longitude": 2.0886318
+  },
+  "note": 4,
+  "avis": 445,
+  "horaires": [
+    {
+      "jour": 0,
+      "ferme": false,
+      "creneaux": [
+        [
+          "05:00",
+          "20:05"
+        ]
+      ]
+    },
+    {
+      "jour": 1,
+      "ferme": false,
+      "creneaux": [
+        [
+          "05:00",
+          "20:05"
+        ]
+      ]
+    },
+    {
+      "jour": 2,
+      "ferme": false,
+      "creneaux": [
+        [
+          "05:00",
+          "20:05"
+        ]
+      ]
+    },
+    {
+      "jour": 3,
+      "ferme": false,
+      "creneaux": [
+        [
+          "05:00",
+          "20:05"
+        ]
+      ]
+    },
+    {
+      "jour": 4,
+      "ferme": false,
+      "creneaux": [
+        [
+          "05:00",
+          "20:05"
+        ]
+      ]
+    },
+    {
+      "jour": 5,
+      "ferme": false,
+      "creneaux": [
+        [
+          "07:00",
+          "18:25"
+        ]
+      ]
+    },
+    {
+      "jour": 6,
+      "ferme": false,
+      "creneaux": [
+        [
+          "09:00",
+          "18:05"
+        ]
+      ]
+    }
+  ],
+  "attributs": [
+    "Entrée accessible en fauteuil roulant",
+    "Parking accessible en fauteuil roulant",
+    "Toilettes accessibles en fauteuil roulant"
+  ],
+  "lien_google": "https://maps.google.com/?cid=7449229350295639691&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
+  "site_web_gmb": null,
+  "statut": "publiee",
+  "backlink": {
+    "etat": "absent",
+    "premiere_detection": null,
+    "derniere_detection": null,
+    "derniere_verification": "2026-09-04T09:35:31.369Z",
+    "echecs": 1,
+    "url_detectee": null
+  },
+  "suggestion": {
+    "etat": "en-attente",
+    "date_soumission": null,
+    "tentatives": 0,
+    "date_email": "2026-09-04"
+  },
+  "retrait": null,
+  "dates": {
+    "collecte": "2026-09-04",
+    "publication": "2026-09-04",
+    "maj": "2026-09-04"
+  },
+  "source": "google-places",
+  "redaction": {
+    "titre": "Gare SNCF de Beauvais — Service aux particuliers à Beauvais",
+    "meta_titre": "Gare SNCF de Beauvais, service aux particuliers à Beauvais",
+    "meta_description": "Gare SNCF de Beauvais, service aux particuliers à Beauvais (Avenue de la République) : adresse, horaires et informations pratiques.",
+    "chapo": "Cette fiche présente Gare SNCF de Beauvais, un service aux particuliers au Avenue de la République, à Beauvais. Son établissement ne déclare aucun site internet sur sa fiche Google : les informations ci-dessous en tiennent lieu de référence publique, vérifiable et accessible à tous.",
+    "sections": [
+      {
+        "id": "presentation",
+        "titre": "Gare SNCF de Beauvais en quelques mots",
+        "paragraphes": [
+          "À Beauvais, les recherches du type « service aux particuliers près de chez moi » se concluent le plus souvent par un appel ou une visite directe.",
+          "Une catégorie hétérogène qui rassemble les services du quotidien : apprendre à conduire, faire retoucher un vêtement, organiser des obsèques, préparer un voyage. Des besoins ponctuels, cherchés localement, presque toujours sans site pour y répondre.",
+          "D'après le relevé du 4 septembre 2026, l'établissement est ouvert sept jours sur sept. Le détail jour par jour figure plus bas."
+        ]
+      },
+      {
+        "id": "acces",
+        "titre": "Adresse et accès",
+        "paragraphes": [
+          "L'établissement est situé au Avenue de la République, 60000 Beauvais.",
+          "Coordonnées géographiques : 49.42649, 2.08863. Le lien d'itinéraire ci-dessous ouvre directement la navigation."
+        ]
+      },
+      {
+        "id": "contact",
+        "titre": "Contacter Gare SNCF de Beauvais",
+        "paragraphes": [
+          "Aucun numéro de téléphone n'est déclaré sur la fiche Google de l'établissement : le contact se fait sur place, aux horaires indiqués.",
+          "Si vous dirigez cette entreprise, vous pouvez demander la correction ou le retrait de cette page à tout moment, sans justification."
+        ]
+      },
+      {
+        "id": "avis",
+        "titre": "La réputation de Gare SNCF de Beauvais",
+        "paragraphes": [
+          "Au relevé du 4 septembre 2026, l'établissement affichait une note de 4 sur 5 sur Google, calculée à partir de 445 avis. Cette note évolue en permanence : elle est indiquée ici à titre d'information et n'est pas retraitée.",
+          "Les avis appartiennent à Google et se consultent sur la fiche d'origine, dont le lien figure sur cette page."
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "q": "Quels sont les horaires de Gare SNCF de Beauvais ?",
+        "r": "Au relevé du 4 septembre 2026, Gare SNCF de Beauvais était ouvert sept jours sur sept. Dans le détail — lundi : de 5 h à 20 h 05 ; mardi : de 5 h à 20 h 05 ; mercredi : de 5 h à 20 h 05 ; jeudi : de 5 h à 20 h 05 ; vendredi : de 5 h à 20 h 05 ; samedi : de 7 h à 18 h 25 ; dimanche : de 9 h à 18 h 05. Ces horaires peuvent changer : un appel préalable reste conseillé."
+      },
+      {
+        "q": "Où se trouve Gare SNCF de Beauvais ?",
+        "r": "Gare SNCF de Beauvais se trouve Av. de la République, 60000 Beauvais. Un lien d'itinéraire est disponible sur cette page."
+      },
+      {
+        "q": "Gare SNCF de Beauvais a-t-il un site internet ?",
+        "r": "Non : aucune adresse de site web n'est déclarée sur la fiche Google de Gare SNCF de Beauvais au 4 septembre 2026. Cette page tient lieu de référence publique en attendant, le cas échéant, la création d'un site propre à l'entreprise."
+      },
+      {
+        "q": "Gare SNCF de Beauvais est-il accessible aux personnes à mobilité réduite ?",
+        "r": "La fiche Google de l'établissement mentionne : « Entrée accessible en fauteuil roulant ». Cette information est déclarative ; en cas de doute, vérifiez par téléphone."
+      }
+    ],
+    "genere_le": "2026-09-04"
+  },
+  "statut_google": "OPERATIONAL"
+}

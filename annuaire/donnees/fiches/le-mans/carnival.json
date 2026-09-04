@@ -1,0 +1,227 @@
+{
+  "id": "ChIJS9zeKwCJ4kcR3GFuWE0v_uY",
+  "slug": "carnival",
+  "nom": "CARNIVAL",
+  "categorie": "restaurants",
+  "categorie_gmb": "Restaurant de type buffet",
+  "type_principal": "buffet_restaurant",
+  "types": [
+    "buffet_restaurant",
+    "restaurant",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "ville": "Le Mans",
+  "ville_slug": "le-mans",
+  "adresse": {
+    "rue": "Route d'Alençon",
+    "code_postal": "72000",
+    "departement": "72",
+    "region": "Pays de la Loire",
+    "pays": "France",
+    "complete": "Centre Commercial Beauregard, Rte d'Alençon, 72000 Le Mans"
+  },
+  "telephone": "02 43 80 19 79",
+  "geo": {
+    "latitude": 48.0284725,
+    "longitude": 0.18225539999999998
+  },
+  "note": 4.7,
+  "avis": 8198,
+  "horaires": [
+    {
+      "jour": 0,
+      "ferme": false,
+      "creneaux": [
+        [
+          "12:00",
+          "14:30"
+        ],
+        [
+          "19:00",
+          "22:30"
+        ]
+      ]
+    },
+    {
+      "jour": 1,
+      "ferme": false,
+      "creneaux": [
+        [
+          "12:00",
+          "14:30"
+        ],
+        [
+          "19:00",
+          "22:30"
+        ]
+      ]
+    },
+    {
+      "jour": 2,
+      "ferme": false,
+      "creneaux": [
+        [
+          "12:00",
+          "14:30"
+        ],
+        [
+          "19:00",
+          "22:30"
+        ]
+      ]
+    },
+    {
+      "jour": 3,
+      "ferme": false,
+      "creneaux": [
+        [
+          "12:00",
+          "14:30"
+        ],
+        [
+          "19:00",
+          "22:30"
+        ]
+      ]
+    },
+    {
+      "jour": 4,
+      "ferme": false,
+      "creneaux": [
+        [
+          "12:00",
+          "14:30"
+        ],
+        [
+          "18:45",
+          "23:00"
+        ]
+      ]
+    },
+    {
+      "jour": 5,
+      "ferme": false,
+      "creneaux": [
+        [
+          "12:00",
+          "15:00"
+        ],
+        [
+          "18:45",
+          "23:00"
+        ]
+      ]
+    },
+    {
+      "jour": 6,
+      "ferme": false,
+      "creneaux": [
+        [
+          "12:00",
+          "15:00"
+        ],
+        [
+          "19:00",
+          "22:30"
+        ]
+      ]
+    }
+  ],
+  "attributs": [
+    "Entrée accessible en fauteuil roulant",
+    "Parking accessible en fauteuil roulant",
+    "Toilettes accessibles en fauteuil roulant",
+    "Places assises accessibles en fauteuil roulant"
+  ],
+  "lien_google": "https://maps.google.com/?cid=16644793282050548188&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
+  "site_web_gmb": null,
+  "statut": "publiee",
+  "backlink": {
+    "etat": "absent",
+    "premiere_detection": null,
+    "derniere_detection": null,
+    "derniere_verification": "2026-09-04T09:35:31.369Z",
+    "echecs": 1,
+    "url_detectee": null
+  },
+  "suggestion": {
+    "etat": "en-attente",
+    "date_soumission": null,
+    "tentatives": 0,
+    "date_email": "2026-09-04"
+  },
+  "retrait": null,
+  "dates": {
+    "collecte": "2026-09-04",
+    "publication": "2026-09-04",
+    "maj": "2026-09-04"
+  },
+  "source": "google-places",
+  "redaction": {
+    "titre": "CARNIVAL — Restaurant à Le Mans",
+    "meta_titre": "CARNIVAL, restaurant à Le Mans",
+    "meta_description": "CARNIVAL, restaurant à Le Mans (Route d'Alençon) : adresse, horaires, téléphone et informations pratiques.",
+    "chapo": "CARNIVAL figure parmi les établissements de la catégorie « Restaurant » recensés à Le Mans. L'entreprise n'a pas de site web référencé sur sa fiche Google. Les éléments présentés ici — adresse, horaires, contact — proviennent de cette fiche et sont datés de leur relevé.",
+    "sections": [
+      {
+        "id": "presentation",
+        "titre": "CARNIVAL en quelques mots",
+        "paragraphes": [
+          "À Le Mans, les recherches du type « restaurant près de chez moi » se concluent le plus souvent par un appel ou une visite directe.",
+          "Les restaurants figurent parmi les commerces les plus recherchés en ligne, et pourtant beaucoup n'exposent qu'une fiche Google sans site. Retrouver ici leur carte d'identité complète — adresse, horaires, téléphone, spécialités — aide les clients à réserver et aide l'établissement à exister ailleurs que sur une plateforme d'avis.",
+          "D'après le relevé du 4 septembre 2026, l'établissement est ouvert sept jours sur sept. Le détail jour par jour figure plus bas."
+        ]
+      },
+      {
+        "id": "acces",
+        "titre": "Adresse et accès",
+        "paragraphes": [
+          "L'établissement est situé au Route d'Alençon, 72000 Le Mans.",
+          "Coordonnées géographiques : 48.02847, 0.18226. Le lien d'itinéraire ci-dessous ouvre directement la navigation."
+        ]
+      },
+      {
+        "id": "contact",
+        "titre": "Contacter CARNIVAL",
+        "paragraphes": [
+          "Le contact se fait par téléphone au 02 43 80 19 79. C'est le seul moyen de communication déclaré sur la fiche Google de l'entreprise, avec la visite sur place.",
+          "Si vous dirigez cette entreprise, vous pouvez demander la correction ou le retrait de cette page à tout moment, sans justification."
+        ]
+      },
+      {
+        "id": "avis",
+        "titre": "La réputation de CARNIVAL",
+        "paragraphes": [
+          "Au relevé du 4 septembre 2026, l'établissement affichait une note de 4,7 sur 5 sur Google, calculée à partir de 8198 avis. Cette note évolue en permanence : elle est indiquée ici à titre d'information et n'est pas retraitée.",
+          "Les avis appartiennent à Google et se consultent sur la fiche d'origine, dont le lien figure sur cette page."
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "q": "Quels sont les horaires de CARNIVAL ?",
+        "r": "Au relevé du 4 septembre 2026, CARNIVAL était ouvert sept jours sur sept. Dans le détail — lundi : de 12 h à 14 h 30 et de 19 h à 22 h 30 ; mardi : de 12 h à 14 h 30 et de 19 h à 22 h 30 ; mercredi : de 12 h à 14 h 30 et de 19 h à 22 h 30 ; jeudi : de 12 h à 14 h 30 et de 19 h à 22 h 30 ; vendredi : de 12 h à 14 h 30 et de 18 h 45 à 23 h ; samedi : de 12 h à 15 h et de 18 h 45 à 23 h ; dimanche : de 12 h à 15 h et de 19 h à 22 h 30. Ces horaires peuvent changer : un appel préalable reste conseillé."
+      },
+      {
+        "q": "Où se trouve CARNIVAL ?",
+        "r": "CARNIVAL se trouve Centre Commercial Beauregard, Rte d'Alençon, 72000 Le Mans. Un lien d'itinéraire est disponible sur cette page."
+      },
+      {
+        "q": "Comment contacter CARNIVAL ?",
+        "r": "Par téléphone au 02 43 80 19 79, ou directement sur place aux heures d'ouverture."
+      },
+      {
+        "q": "CARNIVAL a-t-il un site internet ?",
+        "r": "Non : aucune adresse de site web n'est déclarée sur la fiche Google de CARNIVAL au 4 septembre 2026. Cette page tient lieu de référence publique en attendant, le cas échéant, la création d'un site propre à l'entreprise."
+      },
+      {
+        "q": "CARNIVAL est-il accessible aux personnes à mobilité réduite ?",
+        "r": "La fiche Google de l'établissement mentionne : « Entrée accessible en fauteuil roulant ». Cette information est déclarative ; en cas de doute, vérifiez par téléphone."
+      }
+    ],
+    "genere_le": "2026-09-04"
+  },
+  "statut_google": "OPERATIONAL"
+}
