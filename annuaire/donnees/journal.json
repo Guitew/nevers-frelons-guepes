@@ -1,5 +1,98 @@
 [
   {
+    "date": "2026-09-05T09:00:18.604Z",
+    "type": "backlink-absent",
+    "id": "ChIJPTiX1AA33UcR_VB42JdDsbc",
+    "nom": "Atoutime",
+    "url": null,
+    "precedent": "en-attente"
+  },
+  {
+    "date": "2026-09-05T09:00:18.680Z",
+    "type": "backlink-absent",
+    "id": "ChIJ7RSBsQc7kkcRcohFnUxkFms",
+    "nom": "Belfort",
+    "url": null,
+    "precedent": "en-attente"
+  },
+  {
+    "date": "2026-09-05T09:00:18.749Z",
+    "type": "backlink-absent",
+    "id": "ChIJ45eT6p5JVg0RPt4G4IUYDaQ",
+    "nom": "Clinique aressy",
+    "url": null,
+    "precedent": "en-attente"
+  },
+  {
+    "date": "2026-09-05T09:00:18.827Z",
+    "type": "backlink-absent",
+    "id": "ChIJvU0CSwowBEgRkX8KJvuQeoc",
+    "nom": "Garage De La Boutinière",
+    "url": null,
+    "precedent": "en-attente"
+  },
+  {
+    "date": "2026-09-05T09:00:18.889Z",
+    "type": "backlink-absent",
+    "id": "ChIJYwX9Vs7f60cRHFC5-GBN8Pk",
+    "nom": "Perrenot Champagne",
+    "url": null,
+    "precedent": "en-attente"
+  },
+  {
+    "date": "2026-09-05T09:00:19.833Z",
+    "type": "backlink-externe",
+    "id": "ChIJ9V6kiWuErBIRaIs8jiO7a8U",
+    "nom": "BOUTIQUE DU CHATEAU DE CAYX",
+    "url": "https://www.chateau-de-cayx.com/boutique/",
+    "precedent": "absent"
+  },
+  {
+    "date": "2026-09-05T09:00:18.390Z",
+    "type": "publication",
+    "id": "ChIJYwX9Vs7f60cRHFC5-GBN8Pk",
+    "nom": "Perrenot Champagne",
+    "url": "/transport-demenagement/saint-martin-sur-le-pre/perrenot-champagne/",
+    "categorie": "transport-demenagement",
+    "source": "google-places"
+  },
+  {
+    "date": "2026-09-05T09:00:18.391Z",
+    "type": "publication",
+    "id": "ChIJPTiX1AA33UcR_VB42JdDsbc",
+    "nom": "Atoutime",
+    "url": "/transport-demenagement/athies/atoutime/",
+    "categorie": "transport-demenagement",
+    "source": "google-places"
+  },
+  {
+    "date": "2026-09-05T09:00:18.391Z",
+    "type": "publication",
+    "id": "ChIJ45eT6p5JVg0RPt4G4IUYDaQ",
+    "nom": "Clinique aressy",
+    "url": "/medecins-dentistes/aressy/clinique-aressy/",
+    "categorie": "medecins-dentistes",
+    "source": "google-places"
+  },
+  {
+    "date": "2026-09-05T09:00:18.392Z",
+    "type": "publication",
+    "id": "ChIJvU0CSwowBEgRkX8KJvuQeoc",
+    "nom": "Garage De La Boutinière",
+    "url": "/garages-automobile/la-roche-sur-yon/garage-de-la-boutiniere/",
+    "categorie": "garages-automobile",
+    "source": "google-places"
+  },
+  {
+    "date": "2026-09-05T09:00:18.392Z",
+    "type": "publication",
+    "id": "ChIJ7RSBsQc7kkcRcohFnUxkFms",
+    "nom": "Belfort",
+    "url": "/medecins-dentistes/belfort/belfort/",
+    "categorie": "medecins-dentistes",
+    "source": "google-places"
+  },
+  {
     "date": "2026-09-04T14:19:46.945Z",
     "type": "backlink-absent",
     "id": "ChIJsQxwQUUsrhIRXwVBNqTNnmM",

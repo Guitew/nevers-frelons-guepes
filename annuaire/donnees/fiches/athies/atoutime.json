@@ -1,0 +1,120 @@
+{
+  "id": "ChIJPTiX1AA33UcR_VB42JdDsbc",
+  "slug": "atoutime",
+  "nom": "Atoutime",
+  "categorie": "transport-demenagement",
+  "categorie_gmb": "Stockage",
+  "type_principal": "storage",
+  "types": [
+    "storage",
+    "point_of_interest",
+    "service",
+    "establishment"
+  ],
+  "ville": "Athies",
+  "ville_slug": "athies",
+  "adresse": {
+    "rue": "1260 Allée des Atrebates",
+    "code_postal": "62223",
+    "departement": "62",
+    "region": "Hauts-de-France",
+    "pays": "France",
+    "complete": "1260 All. des Atrebates, 62223 Athies"
+  },
+  "telephone": "07 58 61 38 37",
+  "geo": {
+    "latitude": 50.319472100000006,
+    "longitude": 2.8425853
+  },
+  "note": 4.5,
+  "avis": 71,
+  "horaires": null,
+  "attributs": [
+    "Entrée accessible en fauteuil roulant",
+    "Parking accessible en fauteuil roulant"
+  ],
+  "lien_google": "https://maps.google.com/?cid=13236435099269484797&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
+  "site_web_gmb": null,
+  "statut": "publiee",
+  "backlink": {
+    "etat": "absent",
+    "premiere_detection": null,
+    "derniere_detection": null,
+    "derniere_verification": "2026-09-05T09:00:18.476Z",
+    "echecs": 1,
+    "url_detectee": null
+  },
+  "suggestion": {
+    "etat": "en-attente",
+    "date_soumission": null,
+    "tentatives": 0,
+    "date_email": "2026-09-05"
+  },
+  "retrait": null,
+  "dates": {
+    "collecte": "2026-09-05",
+    "publication": "2026-09-05",
+    "maj": "2026-09-05"
+  },
+  "source": "google-places",
+  "redaction": {
+    "titre": "Atoutime — Transport et déménagement à Athies",
+    "meta_titre": "Atoutime, transport et déménagement à Athies",
+    "meta_description": "Atoutime, transport et déménagement à Athies (1260 Allée des Atrebates) : adresse, horaires, téléphone et informations pratiques.",
+    "chapo": "Cette fiche présente Atoutime, un transport et déménagement au 1260 Allée des Atrebates, à Athies. Son établissement ne déclare aucun site internet sur sa fiche Google : les informations ci-dessous en tiennent lieu de référence publique, vérifiable et accessible à tous.",
+    "sections": [
+      {
+        "id": "presentation",
+        "titre": "Atoutime en quelques mots",
+        "paragraphes": [
+          "Le choix d'un transport et déménagement se joue sur trois critères : la proximité, les horaires et la facilité de contact.",
+          "Déménagement, course urgente, transport de personnes : des services décidés rapidement et comparés sur la disponibilité. La fiche rassemble la zone couverte, les moyens et le contact direct, sans passer par une place de marché."
+        ]
+      },
+      {
+        "id": "acces",
+        "titre": "Adresse et accès",
+        "paragraphes": [
+          "L'établissement est situé au 1260 Allée des Atrebates, 62223 Athies.",
+          "Coordonnées géographiques : 50.31947, 2.84259. Le lien d'itinéraire ci-dessous ouvre directement la navigation."
+        ]
+      },
+      {
+        "id": "contact",
+        "titre": "Contacter Atoutime",
+        "paragraphes": [
+          "Le contact se fait par téléphone au 07 58 61 38 37. C'est le seul moyen de communication déclaré sur la fiche Google de l'entreprise, avec la visite sur place.",
+          "Si vous dirigez cette entreprise, vous pouvez demander la correction ou le retrait de cette page à tout moment, sans justification."
+        ]
+      },
+      {
+        "id": "avis",
+        "titre": "La réputation de Atoutime",
+        "paragraphes": [
+          "Au relevé du 5 septembre 2026, l'établissement affichait une note de 4,5 sur 5 sur Google, calculée à partir de 71 avis. Cette note évolue en permanence : elle est indiquée ici à titre d'information et n'est pas retraitée.",
+          "Les avis appartiennent à Google et se consultent sur la fiche d'origine, dont le lien figure sur cette page."
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "q": "Où se trouve Atoutime ?",
+        "r": "Atoutime se trouve 1260 All. des Atrebates, 62223 Athies. Un lien d'itinéraire est disponible sur cette page."
+      },
+      {
+        "q": "Comment contacter Atoutime ?",
+        "r": "Par téléphone au 07 58 61 38 37, ou directement sur place aux heures d'ouverture."
+      },
+      {
+        "q": "Atoutime a-t-il un site internet ?",
+        "r": "Non : aucune adresse de site web n'est déclarée sur la fiche Google de Atoutime au 5 septembre 2026. Cette page tient lieu de référence publique en attendant, le cas échéant, la création d'un site propre à l'entreprise."
+      },
+      {
+        "q": "Atoutime est-il accessible aux personnes à mobilité réduite ?",
+        "r": "La fiche Google de l'établissement mentionne : « Entrée accessible en fauteuil roulant ». Cette information est déclarative ; en cas de doute, vérifiez par téléphone."
+      }
+    ],
+    "genere_le": "2026-09-05"
+  },
+  "statut_google": "OPERATIONAL"
+}

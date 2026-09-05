@@ -1,0 +1,117 @@
+{
+  "id": "ChIJ45eT6p5JVg0RPt4G4IUYDaQ",
+  "slug": "clinique-aressy",
+  "nom": "Clinique aressy",
+  "categorie": "medecins-dentistes",
+  "categorie_gmb": "Clinique",
+  "type_principal": "medical_clinic",
+  "types": [
+    "medical_clinic",
+    "health",
+    "point_of_interest",
+    "establishment"
+  ],
+  "ville": "Aressy",
+  "ville_slug": "aressy",
+  "adresse": {
+    "rue": "",
+    "code_postal": "64320",
+    "departement": "64",
+    "region": "Nouvelle-Aquitaine",
+    "pays": "France",
+    "complete": "64320 Aressy"
+  },
+  "telephone": "",
+  "geo": {
+    "latitude": 43.2784378,
+    "longitude": -0.326412
+  },
+  "note": 3.8,
+  "avis": 22,
+  "horaires": null,
+  "attributs": [
+    "Entrée accessible en fauteuil roulant",
+    "Parking accessible en fauteuil roulant",
+    "Toilettes accessibles en fauteuil roulant"
+  ],
+  "lien_google": "https://maps.google.com/?cid=11821131560185683518&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
+  "site_web_gmb": null,
+  "statut": "publiee",
+  "backlink": {
+    "etat": "absent",
+    "premiere_detection": null,
+    "derniere_detection": null,
+    "derniere_verification": "2026-09-05T09:00:18.476Z",
+    "echecs": 1,
+    "url_detectee": null
+  },
+  "suggestion": {
+    "etat": "en-attente",
+    "date_soumission": null,
+    "tentatives": 0,
+    "date_email": "2026-09-05"
+  },
+  "retrait": null,
+  "dates": {
+    "collecte": "2026-09-05",
+    "publication": "2026-09-05",
+    "maj": "2026-09-05"
+  },
+  "source": "google-places",
+  "redaction": {
+    "titre": "Clinique aressy — Médecin ou dentiste à Aressy",
+    "meta_titre": "Clinique aressy, médecin ou dentiste à Aressy",
+    "meta_description": "Clinique aressy, médecin ou dentiste à Aressy : adresse, horaires et informations pratiques.",
+    "chapo": "Clinique aressy est un médecin ou dentiste à Aressy. Aucune adresse web n'est renseignée sur sa fiche Google. Cette page rassemble donc, en un seul endroit stable, les informations que les clients recherchent avant de se déplacer.",
+    "sections": [
+      {
+        "id": "presentation",
+        "titre": "Clinique aressy en quelques mots",
+        "paragraphes": [
+          "Médecins et dentistes font partie des activités les plus consultées localement sur mobile.",
+          "Les cabinets de santé publient rarement autre chose qu'une fiche Google. Les informations réellement utiles — secteur de conventionnement, accès aux personnes à mobilité réduite, mode de prise de rendez-vous — méritent une page stable et lisible, sans publicité ni intermédiaire."
+        ]
+      },
+      {
+        "id": "acces",
+        "titre": "Adresse et accès",
+        "paragraphes": [
+          "L'établissement est situé, 64320 Aressy.",
+          "Coordonnées géographiques : 43.27844, -0.32641. Le lien d'itinéraire ci-dessous ouvre directement la navigation."
+        ]
+      },
+      {
+        "id": "contact",
+        "titre": "Contacter Clinique aressy",
+        "paragraphes": [
+          "Aucun numéro de téléphone n'est déclaré sur la fiche Google de l'établissement : le contact se fait sur place, aux horaires indiqués.",
+          "Si vous dirigez cette entreprise, vous pouvez demander la correction ou le retrait de cette page à tout moment, sans justification."
+        ]
+      },
+      {
+        "id": "avis",
+        "titre": "La réputation de Clinique aressy",
+        "paragraphes": [
+          "Au relevé du 5 septembre 2026, l'établissement affichait une note de 3,8 sur 5 sur Google, calculée à partir de 22 avis. Cette note évolue en permanence : elle est indiquée ici à titre d'information et n'est pas retraitée.",
+          "Les avis appartiennent à Google et se consultent sur la fiche d'origine, dont le lien figure sur cette page."
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "q": "Où se trouve Clinique aressy ?",
+        "r": "Clinique aressy se trouve 64320 Aressy. Un lien d'itinéraire est disponible sur cette page."
+      },
+      {
+        "q": "Clinique aressy a-t-il un site internet ?",
+        "r": "Non : aucune adresse de site web n'est déclarée sur la fiche Google de Clinique aressy au 5 septembre 2026. Cette page tient lieu de référence publique en attendant, le cas échéant, la création d'un site propre à l'entreprise."
+      },
+      {
+        "q": "Clinique aressy est-il accessible aux personnes à mobilité réduite ?",
+        "r": "La fiche Google de l'établissement mentionne : « Entrée accessible en fauteuil roulant ». Cette information est déclarative ; en cas de doute, vérifiez par téléphone."
+      }
+    ],
+    "genere_le": "2026-09-05"
+  },
+  "statut_google": "OPERATIONAL"
+}

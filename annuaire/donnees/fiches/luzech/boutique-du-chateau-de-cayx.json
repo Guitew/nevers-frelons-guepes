@@ -117,15 +117,15 @@
     "Places assises accessibles en fauteuil roulant"
   ],
   "lien_google": "https://maps.google.com/?cid=14225669609364425576&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
-  "site_web_gmb": null,
+  "site_web_gmb": "https://www.chateau-de-cayx.com/boutique/",
   "statut": "publiee",
   "backlink": {
-    "etat": "absent",
+    "etat": "externe",
     "premiere_detection": null,
     "derniere_detection": null,
-    "derniere_verification": "2026-09-04T14:19:46.822Z",
-    "echecs": 2,
-    "url_detectee": null
+    "derniere_verification": "2026-09-05T09:00:18.476Z",
+    "echecs": 3,
+    "url_detectee": "https://www.chateau-de-cayx.com/boutique/"
   },
   "suggestion": {
     "etat": "en-attente",
@@ -137,7 +137,7 @@
   "dates": {
     "collecte": "2026-09-04",
     "publication": "2026-09-04",
-    "maj": "2026-09-04"
+    "maj": "2026-09-05"
   },
   "source": "google-places",
   "redaction": {

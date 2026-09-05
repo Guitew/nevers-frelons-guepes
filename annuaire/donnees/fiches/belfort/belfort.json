@@ -1,0 +1,117 @@
+{
+  "id": "ChIJ7RSBsQc7kkcRcohFnUxkFms",
+  "slug": "belfort",
+  "nom": "Belfort",
+  "categorie": "medecins-dentistes",
+  "categorie_gmb": "Clinique",
+  "type_principal": "medical_clinic",
+  "types": [
+    "medical_clinic",
+    "health",
+    "point_of_interest",
+    "establishment"
+  ],
+  "ville": "Belfort",
+  "ville_slug": "belfort",
+  "adresse": {
+    "rue": "18 Rue Georges Monin",
+    "code_postal": "90000",
+    "departement": "90",
+    "region": "Bourgogne-Franche-Comté",
+    "pays": "France",
+    "complete": "18 Rue Georges Monin, 90000 Belfort"
+  },
+  "telephone": "",
+  "geo": {
+    "latitude": 47.643752,
+    "longitude": 6.8436591
+  },
+  "note": 4.6,
+  "avis": 41,
+  "horaires": null,
+  "attributs": [
+    "Entrée accessible en fauteuil roulant",
+    "Parking accessible en fauteuil roulant",
+    "Toilettes accessibles en fauteuil roulant"
+  ],
+  "lien_google": "https://maps.google.com/?cid=7716465291764795506&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
+  "site_web_gmb": null,
+  "statut": "publiee",
+  "backlink": {
+    "etat": "absent",
+    "premiere_detection": null,
+    "derniere_detection": null,
+    "derniere_verification": "2026-09-05T09:00:18.476Z",
+    "echecs": 1,
+    "url_detectee": null
+  },
+  "suggestion": {
+    "etat": "en-attente",
+    "date_soumission": null,
+    "tentatives": 0,
+    "date_email": "2026-09-05"
+  },
+  "retrait": null,
+  "dates": {
+    "collecte": "2026-09-05",
+    "publication": "2026-09-05",
+    "maj": "2026-09-05"
+  },
+  "source": "google-places",
+  "redaction": {
+    "titre": "Belfort — Médecin ou dentiste à Belfort",
+    "meta_titre": "Belfort, médecin ou dentiste à Belfort",
+    "meta_description": "Belfort, médecin ou dentiste à Belfort (18 Rue Georges Monin) : adresse, horaires et informations pratiques.",
+    "chapo": "Cette fiche présente Belfort, un médecin ou dentiste au 18 Rue Georges Monin, à Belfort. Son établissement ne déclare aucun site internet sur sa fiche Google : les informations ci-dessous en tiennent lieu de référence publique, vérifiable et accessible à tous.",
+    "sections": [
+      {
+        "id": "presentation",
+        "titre": "Belfort en quelques mots",
+        "paragraphes": [
+          "À Belfort, les recherches du type « médecin ou dentiste près de chez moi » se concluent le plus souvent par un appel ou une visite directe.",
+          "Les cabinets de santé publient rarement autre chose qu'une fiche Google. Les informations réellement utiles — secteur de conventionnement, accès aux personnes à mobilité réduite, mode de prise de rendez-vous — méritent une page stable et lisible, sans publicité ni intermédiaire."
+        ]
+      },
+      {
+        "id": "acces",
+        "titre": "Adresse et accès",
+        "paragraphes": [
+          "L'établissement est situé au 18 Rue Georges Monin, 90000 Belfort.",
+          "Coordonnées géographiques : 47.64375, 6.84366. Le lien d'itinéraire ci-dessous ouvre directement la navigation."
+        ]
+      },
+      {
+        "id": "contact",
+        "titre": "Contacter Belfort",
+        "paragraphes": [
+          "Aucun numéro de téléphone n'est déclaré sur la fiche Google de l'établissement : le contact se fait sur place, aux horaires indiqués.",
+          "Si vous dirigez cette entreprise, vous pouvez demander la correction ou le retrait de cette page à tout moment, sans justification."
+        ]
+      },
+      {
+        "id": "avis",
+        "titre": "La réputation de Belfort",
+        "paragraphes": [
+          "Au relevé du 5 septembre 2026, l'établissement affichait une note de 4,6 sur 5 sur Google, calculée à partir de 41 avis. Cette note évolue en permanence : elle est indiquée ici à titre d'information et n'est pas retraitée.",
+          "Les avis appartiennent à Google et se consultent sur la fiche d'origine, dont le lien figure sur cette page."
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "q": "Où se trouve Belfort ?",
+        "r": "Belfort se trouve 18 Rue Georges Monin, 90000 Belfort. Un lien d'itinéraire est disponible sur cette page."
+      },
+      {
+        "q": "Belfort a-t-il un site internet ?",
+        "r": "Non : aucune adresse de site web n'est déclarée sur la fiche Google de Belfort au 5 septembre 2026. Cette page tient lieu de référence publique en attendant, le cas échéant, la création d'un site propre à l'entreprise."
+      },
+      {
+        "q": "Belfort est-il accessible aux personnes à mobilité réduite ?",
+        "r": "La fiche Google de l'établissement mentionne : « Entrée accessible en fauteuil roulant ». Cette information est déclarative ; en cas de doute, vérifiez par téléphone."
+      }
+    ],
+    "genere_le": "2026-09-05"
+  },
+  "statut_google": "OPERATIONAL"
+}

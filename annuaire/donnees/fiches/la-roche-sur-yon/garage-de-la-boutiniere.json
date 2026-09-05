@@ -1,0 +1,204 @@
+{
+  "id": "ChIJvU0CSwowBEgRkX8KJvuQeoc",
+  "slug": "garage-de-la-boutiniere",
+  "nom": "Garage De La Boutinière",
+  "categorie": "garages-automobile",
+  "categorie_gmb": "Concessionnaire automobile",
+  "type_principal": "car_dealer",
+  "types": [
+    "car_dealer",
+    "car_repair",
+    "store",
+    "point_of_interest",
+    "service",
+    "establishment"
+  ],
+  "ville": "La Roche-sur-Yon",
+  "ville_slug": "la-roche-sur-yon",
+  "adresse": {
+    "rue": "182 Route des Sables",
+    "code_postal": "85000",
+    "departement": "85",
+    "region": "Pays de la Loire",
+    "pays": "France",
+    "complete": "182 Rte des Sables, 85000 La Roche-sur-Yon"
+  },
+  "telephone": "02 51 36 31 47",
+  "geo": {
+    "latitude": 46.66115200000001,
+    "longitude": -1.4660609999999998
+  },
+  "note": 4.3,
+  "avis": 84,
+  "horaires": [
+    {
+      "jour": 0,
+      "ferme": false,
+      "creneaux": [
+        [
+          "14:00",
+          "18:30"
+        ]
+      ]
+    },
+    {
+      "jour": 1,
+      "ferme": false,
+      "creneaux": [
+        [
+          "08:30",
+          "12:30"
+        ],
+        [
+          "14:00",
+          "18:30"
+        ]
+      ]
+    },
+    {
+      "jour": 2,
+      "ferme": false,
+      "creneaux": [
+        [
+          "08:30",
+          "12:30"
+        ],
+        [
+          "14:00",
+          "18:30"
+        ]
+      ]
+    },
+    {
+      "jour": 3,
+      "ferme": false,
+      "creneaux": [
+        [
+          "08:30",
+          "12:30"
+        ],
+        [
+          "14:00",
+          "18:30"
+        ]
+      ]
+    },
+    {
+      "jour": 4,
+      "ferme": false,
+      "creneaux": [
+        [
+          "08:30",
+          "12:30"
+        ],
+        [
+          "14:00",
+          "18:30"
+        ]
+      ]
+    },
+    {
+      "jour": 5,
+      "ferme": true,
+      "creneaux": []
+    },
+    {
+      "jour": 6,
+      "ferme": true,
+      "creneaux": []
+    }
+  ],
+  "attributs": [
+    "Entrée accessible en fauteuil roulant",
+    "Parking accessible en fauteuil roulant"
+  ],
+  "lien_google": "https://maps.google.com/?cid=9762274550628384657&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
+  "site_web_gmb": null,
+  "statut": "publiee",
+  "backlink": {
+    "etat": "absent",
+    "premiere_detection": null,
+    "derniere_detection": null,
+    "derniere_verification": "2026-09-05T09:00:18.476Z",
+    "echecs": 1,
+    "url_detectee": null
+  },
+  "suggestion": {
+    "etat": "en-attente",
+    "date_soumission": null,
+    "tentatives": 0,
+    "date_email": "2026-09-05"
+  },
+  "retrait": null,
+  "dates": {
+    "collecte": "2026-09-05",
+    "publication": "2026-09-05",
+    "maj": "2026-09-05"
+  },
+  "source": "google-places",
+  "redaction": {
+    "titre": "Garage De La Boutinière — Garage et automobile à La Roche-sur-Yon",
+    "meta_titre": "Garage De La Boutinière, garage et automobile à La…",
+    "meta_description": "Garage De La Boutinière, garage et automobile à La Roche-sur-Yon (182 Route des Sables) : adresse, horaires, téléphone et informations pratiques.",
+    "chapo": "Cette fiche présente Garage De La Boutinière, un garage et automobile au 182 Route des Sables, à La Roche-sur-Yon. Son établissement ne déclare aucun site internet sur sa fiche Google : les informations ci-dessous en tiennent lieu de référence publique, vérifiable et accessible à tous.",
+    "sections": [
+      {
+        "id": "presentation",
+        "titre": "Garage De La Boutinière en quelques mots",
+        "paragraphes": [
+          "À La Roche-sur-Yon, les recherches du type « garage et automobile près de chez moi » se concluent le plus souvent par un appel ou une visite directe.",
+          "Entretien, réparation, contrôle technique : l'automobiliste choisit d'abord un garage proche et disponible. Ces entreprises travaillent à flux tendu et délaissent presque toujours la création d'un site, malgré une demande de recherche locale considérable.",
+          "D'après le relevé du 5 septembre 2026, l'établissement est fermé le samedi et le dimanche. Le détail jour par jour figure plus bas."
+        ]
+      },
+      {
+        "id": "acces",
+        "titre": "Adresse et accès",
+        "paragraphes": [
+          "L'établissement est situé au 182 Route des Sables, 85000 La Roche-sur-Yon.",
+          "Coordonnées géographiques : 46.66115, -1.46606. Le lien d'itinéraire ci-dessous ouvre directement la navigation."
+        ]
+      },
+      {
+        "id": "contact",
+        "titre": "Contacter Garage De La Boutinière",
+        "paragraphes": [
+          "Le contact se fait par téléphone au 02 51 36 31 47. C'est le seul moyen de communication déclaré sur la fiche Google de l'entreprise, avec la visite sur place.",
+          "Si vous dirigez cette entreprise, vous pouvez demander la correction ou le retrait de cette page à tout moment, sans justification."
+        ]
+      },
+      {
+        "id": "avis",
+        "titre": "La réputation de Garage De La Boutinière",
+        "paragraphes": [
+          "Au relevé du 5 septembre 2026, l'établissement affichait une note de 4,3 sur 5 sur Google, calculée à partir de 84 avis. Cette note évolue en permanence : elle est indiquée ici à titre d'information et n'est pas retraitée.",
+          "Les avis appartiennent à Google et se consultent sur la fiche d'origine, dont le lien figure sur cette page."
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "q": "Quels sont les horaires de Garage De La Boutinière ?",
+        "r": "Au relevé du 5 septembre 2026, Garage De La Boutinière était fermé le samedi et le dimanche. Dans le détail — lundi : de 14 h à 18 h 30 ; mardi : de 8 h 30 à 12 h 30 et de 14 h à 18 h 30 ; mercredi : de 8 h 30 à 12 h 30 et de 14 h à 18 h 30 ; jeudi : de 8 h 30 à 12 h 30 et de 14 h à 18 h 30 ; vendredi : de 8 h 30 à 12 h 30 et de 14 h à 18 h 30 ; samedi : fermé ; dimanche : fermé. Ces horaires peuvent changer : un appel préalable reste conseillé."
+      },
+      {
+        "q": "Où se trouve Garage De La Boutinière ?",
+        "r": "Garage De La Boutinière se trouve 182 Rte des Sables, 85000 La Roche-sur-Yon. Un lien d'itinéraire est disponible sur cette page."
+      },
+      {
+        "q": "Comment contacter Garage De La Boutinière ?",
+        "r": "Par téléphone au 02 51 36 31 47, ou directement sur place aux heures d'ouverture."
+      },
+      {
+        "q": "Garage De La Boutinière a-t-il un site internet ?",
+        "r": "Non : aucune adresse de site web n'est déclarée sur la fiche Google de Garage De La Boutinière au 5 septembre 2026. Cette page tient lieu de référence publique en attendant, le cas échéant, la création d'un site propre à l'entreprise."
+      },
+      {
+        "q": "Garage De La Boutinière est-il accessible aux personnes à mobilité réduite ?",
+        "r": "La fiche Google de l'établissement mentionne : « Entrée accessible en fauteuil roulant ». Cette information est déclarative ; en cas de doute, vérifiez par téléphone."
+      }
+    ],
+    "genere_le": "2026-09-05"
+  },
+  "statut_google": "OPERATIONAL"
+}
