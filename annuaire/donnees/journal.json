@@ -1,5 +1,84 @@
 [
   {
+    "date": "2026-09-06T09:23:23.076Z",
+    "type": "suggestion-soumise",
+    "id": "ChIJPTiX1AA33UcR_VB42JdDsbc",
+    "nom": "Atoutime",
+    "url": "/transport-demenagement/athies/atoutime/"
+  },
+  {
+    "date": "2026-09-06T09:23:23.066Z",
+    "type": "suggestion-soumise",
+    "id": "ChIJ28FIgDhjjUcRwLEUVdK7Ntc",
+    "nom": "Au Tour Du Monde",
+    "url": "/restaurants/besancon/au-tour-du-monde/"
+  },
+  {
+    "date": "2026-09-06T09:23:23.055Z",
+    "type": "suggestion-soumise",
+    "id": "ChIJYwX9Vs7f60cRHFC5-GBN8Pk",
+    "nom": "Perrenot Champagne",
+    "url": "/transport-demenagement/saint-martin-sur-le-pre/perrenot-champagne/"
+  },
+  {
+    "date": "2026-09-06T09:23:23.045Z",
+    "type": "suggestion-soumise",
+    "id": "ChIJ45eT6p5JVg0RPt4G4IUYDaQ",
+    "nom": "Clinique aressy",
+    "url": "/medecins-dentistes/aressy/clinique-aressy/"
+  },
+  {
+    "date": "2026-09-06T09:23:15.632Z",
+    "type": "backlink-absent",
+    "id": "ChIJX5k8BwBn5kcRCa55e6VLyLs",
+    "nom": "Paradis Taverny",
+    "url": null,
+    "precedent": "en-attente"
+  },
+  {
+    "date": "2026-09-06T09:23:15.695Z",
+    "type": "backlink-absent",
+    "id": "ChIJ_e9YVDRr5kcRsXUIrk5xZtE",
+    "nom": "SAMADA Garonor / Groupe Monoprix-Naturalia",
+    "url": null,
+    "precedent": "en-attente"
+  },
+  {
+    "date": "2026-09-06T09:23:15.769Z",
+    "type": "backlink-absent",
+    "id": "ChIJTwRQ8S2rjEcRzkwUwPS9Esg",
+    "nom": "T.D.F Transports Detraz Filloux",
+    "url": null,
+    "precedent": "en-attente"
+  },
+  {
+    "date": "2026-09-06T09:23:15.328Z",
+    "type": "publication",
+    "id": "ChIJ_e9YVDRr5kcRsXUIrk5xZtE",
+    "nom": "SAMADA Garonor / Groupe Monoprix-Naturalia",
+    "url": "/transport-demenagement/aulnay-sous-bois/samada-garonor-groupe-monoprix-naturalia/",
+    "categorie": "transport-demenagement",
+    "source": "google-places"
+  },
+  {
+    "date": "2026-09-06T09:23:15.329Z",
+    "type": "publication",
+    "id": "ChIJX5k8BwBn5kcRCa55e6VLyLs",
+    "nom": "Paradis Taverny",
+    "url": "/restaurants/taverny/paradis-taverny/",
+    "categorie": "restaurants",
+    "source": "google-places"
+  },
+  {
+    "date": "2026-09-06T09:23:15.330Z",
+    "type": "publication",
+    "id": "ChIJTwRQ8S2rjEcRzkwUwPS9Esg",
+    "nom": "T.D.F Transports Detraz Filloux",
+    "url": "/transport-demenagement/tossiat/t-d-f-transports-detraz-filloux/",
+    "categorie": "transport-demenagement",
+    "source": "google-places"
+  },
+  {
     "date": "2026-09-05T09:00:18.604Z",
     "type": "backlink-absent",
     "id": "ChIJPTiX1AA33UcR_VB42JdDsbc",
