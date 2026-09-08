@@ -1,0 +1,218 @@
+{
+  "id": "ChIJYywfDW45tRIR8-xZOayuPx8",
+  "slug": "pharmacie-de-chomerac",
+  "nom": "Pharmacie de Chomerac",
+  "categorie": "pharmacies-opticiens",
+  "categorie_gmb": "Pharmacie",
+  "type_principal": "pharmacy",
+  "types": [
+    "pharmacy",
+    "pet_care",
+    "veterinary_care",
+    "store",
+    "point_of_interest",
+    "health",
+    "establishment"
+  ],
+  "ville": "Chomérac",
+  "ville_slug": "chomerac",
+  "adresse": {
+    "rue": "155 Rue de l'Europe",
+    "code_postal": "07210",
+    "departement": "07",
+    "region": "Auvergne-Rhône-Alpes",
+    "pays": "France",
+    "complete": "155 Rue de l'Europe, 07210 Chomérac"
+  },
+  "telephone": "04 75 65 12 53",
+  "geo": {
+    "latitude": 44.7080784,
+    "longitude": 4.657833
+  },
+  "note": 4.8,
+  "avis": 57,
+  "horaires": [
+    {
+      "jour": 0,
+      "ferme": false,
+      "creneaux": [
+        [
+          "08:45",
+          "12:15"
+        ],
+        [
+          "14:00",
+          "19:00"
+        ]
+      ]
+    },
+    {
+      "jour": 1,
+      "ferme": false,
+      "creneaux": [
+        [
+          "08:45",
+          "12:15"
+        ],
+        [
+          "14:00",
+          "19:00"
+        ]
+      ]
+    },
+    {
+      "jour": 2,
+      "ferme": false,
+      "creneaux": [
+        [
+          "08:45",
+          "12:15"
+        ],
+        [
+          "14:00",
+          "19:00"
+        ]
+      ]
+    },
+    {
+      "jour": 3,
+      "ferme": false,
+      "creneaux": [
+        [
+          "08:45",
+          "12:15"
+        ],
+        [
+          "14:00",
+          "19:00"
+        ]
+      ]
+    },
+    {
+      "jour": 4,
+      "ferme": false,
+      "creneaux": [
+        [
+          "08:45",
+          "12:15"
+        ],
+        [
+          "14:00",
+          "19:00"
+        ]
+      ]
+    },
+    {
+      "jour": 5,
+      "ferme": false,
+      "creneaux": [
+        [
+          "08:45",
+          "12:15"
+        ],
+        [
+          "14:00",
+          "17:00"
+        ]
+      ]
+    },
+    {
+      "jour": 6,
+      "ferme": true,
+      "creneaux": []
+    }
+  ],
+  "attributs": [
+    "Entrée accessible en fauteuil roulant",
+    "Parking accessible en fauteuil roulant"
+  ],
+  "lien_google": "https://maps.google.com/?cid=2251710393428339955&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
+  "site_web_gmb": null,
+  "statut": "publiee",
+  "backlink": {
+    "etat": "absent",
+    "premiere_detection": null,
+    "derniere_detection": null,
+    "derniere_verification": "2026-09-08T09:36:26.505Z",
+    "echecs": 1,
+    "url_detectee": null
+  },
+  "suggestion": {
+    "etat": "en-attente",
+    "date_soumission": null,
+    "tentatives": 0,
+    "date_email": "2026-09-08"
+  },
+  "retrait": null,
+  "dates": {
+    "collecte": "2026-09-08",
+    "publication": "2026-09-08",
+    "maj": "2026-09-08"
+  },
+  "source": "google-places",
+  "redaction": {
+    "titre": "Pharmacie de Chomerac — Pharmacie ou opticien à Chomérac",
+    "meta_titre": "Pharmacie de Chomerac, pharmacie ou opticien à Chomérac",
+    "meta_description": "Pharmacie de Chomerac, pharmacie ou opticien à Chomérac (155 Rue de l'Europe) : adresse, horaires, téléphone et informations pratiques.",
+    "chapo": "Cette fiche présente Pharmacie de Chomerac, une pharmacie ou opticien au 155 Rue de l'Europe, à Chomérac. Son établissement ne déclare aucun site internet sur sa fiche Google : les informations ci-dessous en tiennent lieu de référence publique, vérifiable et accessible à tous.",
+    "sections": [
+      {
+        "id": "presentation",
+        "titre": "Pharmacie de Chomerac en quelques mots",
+        "paragraphes": [
+          "À Chomérac, les recherches du type « pharmacie ou opticien près de chez moi » se concluent le plus souvent par un appel ou une visite directe.",
+          "Pharmacies et opticiens sont des commerces de première nécessité dont on cherche surtout l'horaire et la garde. Une fiche complète et à jour sert autant l'habitant pressé que le professionnel qui n'a pas vocation à gérer un site.",
+          "D'après le relevé du 8 septembre 2026, l'établissement est ouvert tous les jours sauf le dimanche. Le détail jour par jour figure plus bas."
+        ]
+      },
+      {
+        "id": "acces",
+        "titre": "Adresse et accès",
+        "paragraphes": [
+          "L'établissement est situé au 155 Rue de l'Europe, 07210 Chomérac.",
+          "Coordonnées géographiques : 44.70808, 4.65783. Le lien d'itinéraire ci-dessous ouvre directement la navigation."
+        ]
+      },
+      {
+        "id": "contact",
+        "titre": "Contacter Pharmacie de Chomerac",
+        "paragraphes": [
+          "Le contact se fait par téléphone au 04 75 65 12 53. C'est le seul moyen de communication déclaré sur la fiche Google de l'entreprise, avec la visite sur place.",
+          "Si vous dirigez cette entreprise, vous pouvez demander la correction ou le retrait de cette page à tout moment, sans justification."
+        ]
+      },
+      {
+        "id": "avis",
+        "titre": "La réputation de Pharmacie de Chomerac",
+        "paragraphes": [
+          "Au relevé du 8 septembre 2026, l'établissement affichait une note de 4,8 sur 5 sur Google, calculée à partir de 57 avis. Cette note évolue en permanence : elle est indiquée ici à titre d'information et n'est pas retraitée.",
+          "Les avis appartiennent à Google et se consultent sur la fiche d'origine, dont le lien figure sur cette page."
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "q": "Quels sont les horaires de Pharmacie de Chomerac ?",
+        "r": "Au relevé du 8 septembre 2026, Pharmacie de Chomerac était ouvert tous les jours sauf le dimanche. Dans le détail — lundi : de 8 h 45 à 12 h 15 et de 14 h à 19 h ; mardi : de 8 h 45 à 12 h 15 et de 14 h à 19 h ; mercredi : de 8 h 45 à 12 h 15 et de 14 h à 19 h ; jeudi : de 8 h 45 à 12 h 15 et de 14 h à 19 h ; vendredi : de 8 h 45 à 12 h 15 et de 14 h à 19 h ; samedi : de 8 h 45 à 12 h 15 et de 14 h à 17 h ; dimanche : fermé. Ces horaires peuvent changer : un appel préalable reste conseillé."
+      },
+      {
+        "q": "Où se trouve Pharmacie de Chomerac ?",
+        "r": "Pharmacie de Chomerac se trouve 155 Rue de l'Europe, 07210 Chomérac. Un lien d'itinéraire est disponible sur cette page."
+      },
+      {
+        "q": "Comment contacter Pharmacie de Chomerac ?",
+        "r": "Par téléphone au 04 75 65 12 53, ou directement sur place aux heures d'ouverture."
+      },
+      {
+        "q": "Pharmacie de Chomerac a-t-il un site internet ?",
+        "r": "Non : aucune adresse de site web n'est déclarée sur la fiche Google de Pharmacie de Chomerac au 8 septembre 2026. Cette page tient lieu de référence publique en attendant, le cas échéant, la création d'un site propre à l'entreprise."
+      },
+      {
+        "q": "Pharmacie de Chomerac est-il accessible aux personnes à mobilité réduite ?",
+        "r": "La fiche Google de l'établissement mentionne : « Entrée accessible en fauteuil roulant ». Cette information est déclarative ; en cas de doute, vérifiez par téléphone."
+      }
+    ],
+    "genere_le": "2026-09-08"
+  },
+  "statut_google": "OPERATIONAL"
+}

@@ -1,0 +1,116 @@
+{
+  "id": "ChIJ4098LACHrRIRGdFaWxL9CbQ",
+  "slug": "baraqueville",
+  "nom": "baraqueville",
+  "categorie": "garages-automobile",
+  "categorie_gmb": "Garage automobile",
+  "type_principal": "car_repair",
+  "types": [
+    "car_repair",
+    "service",
+    "point_of_interest",
+    "establishment"
+  ],
+  "ville": "Baraqueville",
+  "ville_slug": "baraqueville",
+  "adresse": {
+    "rue": "101 Rue du Val de l'Enne",
+    "code_postal": "12160",
+    "departement": "12",
+    "region": "Occitanie",
+    "pays": "France",
+    "complete": "101 Rue du Val de l'Enne, 12160 Baraqueville"
+  },
+  "telephone": "",
+  "geo": {
+    "latitude": 44.2787479,
+    "longitude": 2.4344025000000005
+  },
+  "note": 4.8,
+  "avis": 8,
+  "horaires": null,
+  "attributs": [
+    "Entrée accessible en fauteuil roulant",
+    "Parking accessible en fauteuil roulant"
+  ],
+  "lien_google": "https://maps.google.com/?cid=12973178456901341465&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
+  "site_web_gmb": null,
+  "statut": "publiee",
+  "backlink": {
+    "etat": "absent",
+    "premiere_detection": null,
+    "derniere_detection": null,
+    "derniere_verification": "2026-09-08T09:36:26.505Z",
+    "echecs": 1,
+    "url_detectee": null
+  },
+  "suggestion": {
+    "etat": "en-attente",
+    "date_soumission": null,
+    "tentatives": 0,
+    "date_email": "2026-09-08"
+  },
+  "retrait": null,
+  "dates": {
+    "collecte": "2026-09-08",
+    "publication": "2026-09-08",
+    "maj": "2026-09-08"
+  },
+  "source": "google-places",
+  "redaction": {
+    "titre": "baraqueville — Garage et automobile à Baraqueville",
+    "meta_titre": "baraqueville, garage et automobile à Baraqueville",
+    "meta_description": "baraqueville, garage et automobile à Baraqueville (101 Rue du Val de l'Enne) : adresse, horaires et informations pratiques.",
+    "chapo": "baraqueville est un garage et automobile au 101 Rue du Val de l'Enne, à Baraqueville. Aucune adresse web n'est renseignée sur sa fiche Google. Cette page rassemble donc, en un seul endroit stable, les informations que les clients recherchent avant de se déplacer.",
+    "sections": [
+      {
+        "id": "presentation",
+        "titre": "baraqueville en quelques mots",
+        "paragraphes": [
+          "Garages et services automobiles font partie des activités les plus consultées localement sur mobile.",
+          "Entretien, réparation, contrôle technique : l'automobiliste choisit d'abord un garage proche et disponible. Ces entreprises travaillent à flux tendu et délaissent presque toujours la création d'un site, malgré une demande de recherche locale considérable."
+        ]
+      },
+      {
+        "id": "acces",
+        "titre": "Adresse et accès",
+        "paragraphes": [
+          "L'établissement est situé au 101 Rue du Val de l'Enne, 12160 Baraqueville.",
+          "Coordonnées géographiques : 44.27875, 2.43440. Le lien d'itinéraire ci-dessous ouvre directement la navigation."
+        ]
+      },
+      {
+        "id": "contact",
+        "titre": "Contacter baraqueville",
+        "paragraphes": [
+          "Aucun numéro de téléphone n'est déclaré sur la fiche Google de l'établissement : le contact se fait sur place, aux horaires indiqués.",
+          "Si vous dirigez cette entreprise, vous pouvez demander la correction ou le retrait de cette page à tout moment, sans justification."
+        ]
+      },
+      {
+        "id": "avis",
+        "titre": "La réputation de baraqueville",
+        "paragraphes": [
+          "Au relevé du 8 septembre 2026, l'établissement affichait une note de 4,8 sur 5 sur Google, calculée à partir de 8 avis. Cette note évolue en permanence : elle est indiquée ici à titre d'information et n'est pas retraitée.",
+          "Les avis appartiennent à Google et se consultent sur la fiche d'origine, dont le lien figure sur cette page."
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "q": "Où se trouve baraqueville ?",
+        "r": "baraqueville se trouve 101 Rue du Val de l'Enne, 12160 Baraqueville. Un lien d'itinéraire est disponible sur cette page."
+      },
+      {
+        "q": "baraqueville a-t-il un site internet ?",
+        "r": "Non : aucune adresse de site web n'est déclarée sur la fiche Google de baraqueville au 8 septembre 2026. Cette page tient lieu de référence publique en attendant, le cas échéant, la création d'un site propre à l'entreprise."
+      },
+      {
+        "q": "baraqueville est-il accessible aux personnes à mobilité réduite ?",
+        "r": "La fiche Google de l'établissement mentionne : « Entrée accessible en fauteuil roulant ». Cette information est déclarative ; en cas de doute, vérifiez par téléphone."
+      }
+    ],
+    "genere_le": "2026-09-08"
+  },
+  "statut_google": "OPERATIONAL"
+}
