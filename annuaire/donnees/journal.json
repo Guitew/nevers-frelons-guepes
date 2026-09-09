@@ -1,5 +1,84 @@
 [
   {
+    "date": "2026-09-09T09:40:01.128Z",
+    "type": "suggestion-soumise",
+    "id": "ChIJ_wP9EW1AyxIRiT5rSEuv834",
+    "nom": "Ô Café",
+    "url": "/cafes-bars/gap/o-cafe/"
+  },
+  {
+    "date": "2026-09-09T09:40:01.118Z",
+    "type": "suggestion-soumise",
+    "id": "ChIJ4098LACHrRIRGdFaWxL9CbQ",
+    "nom": "baraqueville",
+    "url": "/garages-automobile/baraqueville/baraqueville/"
+  },
+  {
+    "date": "2026-09-09T09:40:01.106Z",
+    "type": "suggestion-soumise",
+    "id": "ChIJYywfDW45tRIR8-xZOayuPx8",
+    "nom": "Pharmacie de Chomerac",
+    "url": "/pharmacies-opticiens/chomerac/pharmacie-de-chomerac/"
+  },
+  {
+    "date": "2026-09-09T09:40:01.093Z",
+    "type": "suggestion-soumise",
+    "id": "ChIJ1_Eq60WL-EcRgI-vxhexOCA",
+    "nom": "Chasteloux Rémy / Chevalier Sébastien",
+    "url": "/veterinaires-animaux/tulle/chasteloux-remy-chevalier-sebastien/"
+  },
+  {
+    "date": "2026-09-09T09:39:48.874Z",
+    "type": "backlink-absent",
+    "id": "ChIJg8HA7kcL5kcRfHzSUFHrWjo",
+    "nom": "Côté Wok",
+    "url": null,
+    "precedent": "en-attente"
+  },
+  {
+    "date": "2026-09-09T09:39:49.003Z",
+    "type": "backlink-absent",
+    "id": "ChIJPavexurStRIR6nR0Il1Isuc",
+    "nom": "LANGUEDOC LAVAGE",
+    "url": null,
+    "precedent": "en-attente"
+  },
+  {
+    "date": "2026-09-09T09:39:49.111Z",
+    "type": "backlink-absent",
+    "id": "ChIJ5b2BcXeW-kcRK6vSR6Yd4DA",
+    "nom": "XPO Logistics",
+    "url": null,
+    "precedent": "en-attente"
+  },
+  {
+    "date": "2026-09-09T09:39:48.652Z",
+    "type": "publication",
+    "id": "ChIJg8HA7kcL5kcRfHzSUFHrWjo",
+    "nom": "Côté Wok",
+    "url": "/restaurants/bonneuil-sur-marne/cote-wok/",
+    "categorie": "restaurants",
+    "source": "google-places"
+  },
+  {
+    "date": "2026-09-09T09:39:48.653Z",
+    "type": "publication",
+    "id": "ChIJ5b2BcXeW-kcRK6vSR6Yd4DA",
+    "nom": "XPO Logistics",
+    "url": "/transport-demenagement/bourges/xpo-logistics/",
+    "categorie": "transport-demenagement",
+    "source": "google-places"
+  },
+  {
+    "date": "2026-09-09T09:39:48.653Z",
+    "type": "publication",
+    "id": "ChIJPavexurStRIR6nR0Il1Isuc",
+    "nom": "LANGUEDOC LAVAGE",
+    "url": "/garages-automobile/nimes/languedoc-lavage/",
+    "categorie": "garages-automobile",
+    "source": "google-places"
+  },
+  {
     "date": "2026-09-08T14:31:00.230Z",
     "type": "backlink-absent",
     "id": "ChIJ1_Eq60WL-EcRgI-vxhexOCA",
