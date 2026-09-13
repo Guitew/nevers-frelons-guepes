@@ -1,0 +1,114 @@
+name: Images SEO — production quotidienne
+
+# Produit chaque jour 2 images optimisées pour le référencement image des pages
+# d'allo-frelons.fr (voir images-seo/README.md) :
+#   1. planifier  : choix des 2 pages/angles du jour et rédaction des prompts ;
+#   2. generer    : image maître — sur GitHub, via l'API OpenAI si OPENAI_API_KEY est
+#                   défini, sinon mode « dépôt » (les prompts sont écrits, l'image est
+#                   déposée à la main ou générée sur un poste avec ChatGPT gratuit) ;
+#   3. optimiser  : déclinaisons par surface (Google Images, Discover, Pinterest) ;
+#   4. publier    : export dans images-seo/sortie/ (+ WordPress si les secrets existent) ;
+#   5. commit du résultat, puis téléversement FTP du dossier d'images (si secrets FTP).
+#
+# Le fournisseur « chatgpt-navigateur » (ChatGPT gratuit piloté par navigateur) ne tourne
+# PAS ici : il a besoin d'une session ChatGPT persistante sur un poste (voir README).
+#
+# Secrets facultatifs :
+#   OPENAI_API_KEY                                  génération par API (payante)
+#   WP_UTILISATEUR / WP_MOT_DE_PASSE_APPLICATION    publication WordPress
+#   FTP_SERVER_ALLO_FRELONS / FTP_USERNAME_ALLO_FRELONS / FTP_PASSWORD_ALLO_FRELONS
+#                                                   téléversement du dossier sortie/images/
+
+on:
+  schedule:
+    - cron: "30 5 * * *" # 05 h 30 UTC (07 h 30 Paris en été)
+  workflow_dispatch:
+    inputs:
+      fournisseur:
+        description: "Fournisseur d'images (openai-api, depot, simulation)"
+        required: false
+        default: ""
+
+permissions:
+  contents: write
+
+concurrency:
+  group: images-quotidien
+  cancel-in-progress: false
+
+defaults:
+  run:
+    working-directory: images-seo
+
+jobs:
+  cycle:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: "22"
+          cache: npm
+          cache-dependency-path: images-seo/package-lock.json
+
+      - run: npm ci --omit=optional
+
+      - name: Choisir le fournisseur
+        id: fournisseur
+        env:
+          OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
+          CHOIX: ${{ inputs.fournisseur }}
+        run: |
+          if [ -n "$CHOIX" ]; then f="$CHOIX"; elif [ -n "$OPENAI_API_KEY" ]; then f="openai-api"; else f="depot"; fi
+          echo "nom=$f" >> "$GITHUB_OUTPUT"
+          echo "Fournisseur : $f"
+
+      - name: Choisir les modes de publication
+        id: publication
+        env:
+          WP_UTILISATEUR: ${{ secrets.WP_UTILISATEUR }}
+        run: |
+          if [ -n "$WP_UTILISATEUR" ]; then m="export,wordpress"; else m="export"; fi
+          echo "modes=$m" >> "$GITHUB_OUTPUT"
+
+      - name: Cycle du jour
+        env:
+          OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
+          WP_UTILISATEUR: ${{ secrets.WP_UTILISATEUR }}
+          WP_MOT_DE_PASSE_APPLICATION: ${{ secrets.WP_MOT_DE_PASSE_APPLICATION }}
+        run: node outils/quotidien.mjs --fournisseur=${{ steps.fournisseur.outputs.nom }} --publication=${{ steps.publication.outputs.modes }}
+
+      - name: Résumé
+        run: node outils/etat.mjs
+
+      - name: Committer la file d'attente, le journal et les images produites
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          if [ -n "$(git status --porcelain donnees sortie)" ]; then
+            git add donnees sortie
+            git commit -m "Images SEO : cycle quotidien du $(date -u +%F)"
+            git push
+          else
+            echo "Aucun changement à committer."
+          fi
+
+      - name: Détecter les secrets FTP
+        id: ftp
+        env:
+          FTP_SERVER: ${{ secrets.FTP_SERVER_ALLO_FRELONS }}
+        run: echo "present=$([ -n "$FTP_SERVER" ] && echo true || echo false)" >> "$GITHUB_OUTPUT"
+
+      - name: Téléverser les images sur l'hébergement (si secrets FTP)
+        if: ${{ steps.ftp.outputs.present == 'true' }}
+        uses: SamKirkland/FTP-Deploy-Action@v4.3.5
+        with:
+          server: ${{ secrets.FTP_SERVER_ALLO_FRELONS }}
+          username: ${{ secrets.FTP_USERNAME_ALLO_FRELONS }}
+          password: ${{ secrets.FTP_PASSWORD_ALLO_FRELONS }}
+          protocol: ftps
+          local-dir: ./images-seo/sortie/images/
+          # Doit correspondre à donnees/site.json → cheminImages
+          server-dir: ./allo-frelons.fr/wp-content/uploads/images-seo/
+          dangerous-clean-slate: false

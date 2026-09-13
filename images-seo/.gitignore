@@ -1,0 +1,7 @@
+node_modules/
+.env
+travail/
+profil-chatgpt/
+donnees/depot/*
+!donnees/depot/.gitkeep
+!donnees/depot/A-GENERER.md

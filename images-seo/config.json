@@ -1,0 +1,58 @@
+{
+  "_lisezmoi": "Règles métier de la production d'images. Les secrets (clé API, mot de passe WordPress) n'y figurent JAMAIS : ils arrivent par variables d'environnement (voir .env.exemple).",
+
+  "cadence": {
+    "imagesParJour": 2,
+    "pagesDistinctesParJour": true,
+    "joursMinimumEntreDeuxImagesMemePage": 7,
+    "fuseau": "Europe/Paris"
+  },
+
+  "generation": {
+    "fournisseur": "chatgpt-navigateur",
+    "tentativesParImage": 2,
+    "chatgpt": {
+      "url": "https://chatgpt.com/",
+      "profil": "./profil-chatgpt",
+      "headless": true,
+      "delaiGenerationMs": 300000,
+      "pauseEntreImagesMs": 20000,
+      "selecteurs": {
+        "composeur": "#prompt-textarea",
+        "envoyer": "button[data-testid=\"send-button\"]",
+        "stop": "button[data-testid=\"stop-button\"]",
+        "messagesAssistant": "[data-message-author-role=\"assistant\"]",
+        "image": "[data-message-author-role=\"assistant\"] img",
+        "telecharger": "button[aria-label*=\"élécharger\"], button[aria-label*=\"ownload\"]"
+      },
+      "motifsQuotaEpuise": ["limite", "limit", "réessayez", "try again", "plus tard", "later"]
+    },
+    "openai": {
+      "modele": "gpt-image-1",
+      "qualite": "medium"
+    }
+  },
+
+  "charte": {
+    "marque": "ALLO FRELONS",
+    "signature": "allo-frelons.fr",
+    "couleurs": {
+      "accent": "#F5B700",
+      "sombre": "#1C1C1C",
+      "clair": "#FFFFFF"
+    },
+    "police": "DejaVu Sans, Arial, Helvetica, sans-serif",
+    "style": "photographie réaliste, lumière naturelle, netteté sur le sujet, arrière-plan simple et contrasté, aucun texte incrusté",
+    "interdits": "aucun texte, aucun logo, aucun filigrane, aucune marque, aucun visage reconnaissable, aucune image de stock, pas de style dessin animé"
+  },
+
+  "publication": {
+    "modes": ["export"],
+    "sitemapImages": true,
+    "wordpress": {
+      "definirImageMiseEnAvant": "si-absente",
+      "insererDansContenu": false,
+      "typesContenu": ["posts", "pages"]
+    }
+  }
+}

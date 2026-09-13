@@ -1,0 +1,26 @@
+{
+  "name": "allo-frelons-images-seo",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Production quotidienne d'images optimisées pour le référencement image (Google Images, Discover, Pinterest) des pages et articles d'ALLO FRELONS.",
+  "type": "module",
+  "license": "MIT",
+  "engines": { "node": ">=18" },
+  "scripts": {
+    "planifier": "node outils/planifier.mjs",
+    "generer": "node outils/generer.mjs",
+    "optimiser": "node outils/optimiser.mjs",
+    "publier": "node outils/publier.mjs",
+    "quotidien": "node outils/quotidien.mjs",
+    "importer": "node outils/importer-sitemap.mjs",
+    "etat": "node outils/etat.mjs",
+    "test": "node --test \"outils/tests/*.test.mjs\"",
+    "controle": "npm test && node outils/controle.mjs"
+  },
+  "dependencies": {
+    "sharp": "^0.34.3"
+  },
+  "optionalDependencies": {
+    "playwright": "^1.55.0"
+  }
+}

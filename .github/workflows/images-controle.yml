@@ -1,0 +1,30 @@
+name: Images SEO — contrôle
+
+# Tests + cycle simulé en bac à sable sur chaque proposition de modification du dossier images-seo.
+
+on:
+  pull_request:
+    paths:
+      - "images-seo/**"
+      - ".github/workflows/images-controle.yml"
+  push:
+    branches: [main]
+    paths:
+      - "images-seo/**"
+
+defaults:
+  run:
+    working-directory: images-seo
+
+jobs:
+  controle:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: "22"
+          cache: npm
+          cache-dependency-path: images-seo/package-lock.json
+      - run: npm ci --omit=optional
+      - run: npm run controle
