@@ -1,0 +1,206 @@
+[
+  {
+    "id": "frelon-asiatique",
+    "url": "https://allo-frelons.fr/frelon-asiatique",
+    "titre": "Frelon asiatique (Vespa velutina)",
+    "type": "page",
+    "mot_cle": "frelon asiatique",
+    "mots_cles_secondaires": ["vespa velutina", "frelon à pattes jaunes", "frelon asiatique photo"],
+    "serps": ["google-images", "discover"],
+    "priorite": 1,
+    "saison": [4, 5, 6, 7, 8, 9, 10, 11],
+    "visuels": [
+      { "angle": "gros plan de profil d'un frelon asiatique posé sur une branche, thorax entièrement noir, abdomen sombre avec un seul large anneau orange, extrémité des pattes jaune vif", "requete": "frelon asiatique", "surcouche": "Frelon asiatique" },
+      { "angle": "frelon asiatique en vol stationnaire devant l'entrée d'une ruche, ailes floues, abeilles en arrière-plan", "requete": "frelon asiatique abeilles", "surcouche": "Frelon asiatique" },
+      { "angle": "frelon asiatique vu de dessus sur une feuille verte, échelle de taille suggérée par la feuille, environ 2,5 cm", "requete": "frelon asiatique taille", "surcouche": "2,5 cm" },
+      { "angle": "frelon asiatique posé sur une pomme tombée en verger, lumière d'automne rasante", "requete": "frelon asiatique automne", "surcouche": "" }
+    ]
+  },
+  {
+    "id": "frelon-europeen",
+    "url": "",
+    "a_completer": true,
+    "titre": "Frelon européen (Vespa crabro)",
+    "type": "page",
+    "mot_cle": "frelon européen",
+    "mots_cles_secondaires": ["vespa crabro", "frelon européen photo", "frelon commun"],
+    "serps": ["google-images"],
+    "priorite": 2,
+    "saison": [5, 6, 7, 8, 9, 10],
+    "visuels": [
+      { "angle": "gros plan de profil d'un frelon européen, thorax roux et noir, abdomen jaune rayé de noir, pattes brun-roux, posé sur une écorce de chêne", "requete": "frelon européen", "surcouche": "Frelon européen" },
+      { "angle": "frelon européen entrant dans une cavité d'arbre creux, lumière de sous-bois", "requete": "nid frelon européen arbre", "surcouche": "" },
+      { "angle": "frelon européen vu de dessus sur une planche de bois, couleurs rousses bien visibles", "requete": "frelon européen photo", "surcouche": "" }
+    ]
+  },
+  {
+    "id": "frelon-asiatique-ou-europeen",
+    "url": "",
+    "a_completer": true,
+    "titre": "Frelon asiatique ou européen : comment les différencier",
+    "type": "article",
+    "mot_cle": "différence frelon asiatique et européen",
+    "mots_cles_secondaires": ["frelon asiatique ou européen", "reconnaître frelon asiatique", "frelon asiatique vs européen"],
+    "serps": ["google-images", "pinterest"],
+    "priorite": 1,
+    "saison": [4, 5, 6, 7, 8, 9, 10],
+    "visuels": [
+      { "angle": "deux frelons côte à côte sur fond uni clair, même échelle : à gauche un frelon asiatique (thorax noir, abdomen sombre à anneau orange, pattes à extrémités jaunes), à droite un frelon européen (thorax roux, abdomen jaune rayé, pattes rousses), vus de profil", "requete": "frelon asiatique ou européen", "surcouche": "Asiatique ou européen ?", "format": "paysage" },
+      { "angle": "comparaison verticale de deux frelons vus de dessus sur fond blanc, asiatique en haut et européen en bas, détails des pattes bien visibles", "requete": "différence frelon asiatique européen", "surcouche": "Le bon critère : les pattes", "format": "portrait" },
+      { "angle": "macro extrême des pattes d'un frelon asiatique montrant les tarses jaune vif, sur fond sombre", "requete": "frelon pattes jaunes", "surcouche": "Pattes jaunes = asiatique" }
+    ]
+  },
+  {
+    "id": "nid-frelon-asiatique",
+    "url": "",
+    "a_completer": true,
+    "titre": "Nid de frelon asiatique : le reconnaître",
+    "type": "article",
+    "mot_cle": "nid de frelon asiatique",
+    "mots_cles_secondaires": ["nid frelon asiatique photo", "nid de frelons", "nid frelon asiatique arbre"],
+    "serps": ["google-images", "discover", "pinterest"],
+    "priorite": 1,
+    "saison": [6, 7, 8, 9, 10, 11],
+    "visuels": [
+      { "angle": "gros nid sphérique de frelon asiatique, beige à stries brunes, entrée latérale, suspendu haut dans un arbre dénudé, ciel d'automne", "requete": "nid frelon asiatique", "surcouche": "Nid de frelon asiatique" },
+      { "angle": "petit nid primaire de frelon asiatique de la taille d'une orange, entrée par le dessous, accroché sous un avant-toit au printemps", "requete": "nid primaire frelon asiatique", "surcouche": "Nid primaire (printemps)" },
+      { "angle": "nid de frelon asiatique dans une haie de jardin, quelques frelons à l'entrée latérale, vu de près", "requete": "nid frelon asiatique haie", "surcouche": "" },
+      { "angle": "silhouette d'un nid de frelon asiatique dans les hautes branches d'un platane, contre-jour de fin d'été", "requete": "nid frelon asiatique arbre", "surcouche": "" }
+    ]
+  },
+  {
+    "id": "nid-de-guepes",
+    "url": "",
+    "a_completer": true,
+    "titre": "Nid de guêpes : reconnaître et faire détruire",
+    "type": "page",
+    "mot_cle": "nid de guêpes",
+    "mots_cles_secondaires": ["nid de guêpe photo", "nid de guêpes mur", "nid de guêpes toiture", "guêpe germanique"],
+    "serps": ["google-images", "discover"],
+    "priorite": 1,
+    "saison": [5, 6, 7, 8, 9],
+    "visuels": [
+      { "angle": "nid de guêpes gris papier en forme de boule, alvéoles visibles à l'ouverture, accroché sous un rebord de toit, guêpes jaunes et noires à l'entrée", "requete": "nid de guêpes", "surcouche": "Nid de guêpes" },
+      { "angle": "guêpes entrant et sortant d'un trou entre deux tuiles d'un toit, vue rapprochée", "requete": "nid de guêpes toiture", "surcouche": "Nid sous les tuiles" },
+      { "angle": "nid de guêpes dans un volet roulant ouvert, vu de l'intérieur du coffre", "requete": "nid de guêpes volet roulant", "surcouche": "" },
+      { "angle": "guêpes autour d'un trou dans un mur de brique rouge typique du Nord, lumière d'été", "requete": "nid de guêpes mur", "surcouche": "" }
+    ]
+  },
+  {
+    "id": "piqure-frelon",
+    "url": "",
+    "a_completer": true,
+    "titre": "Piqûre de frelon : symptômes et que faire",
+    "type": "article",
+    "mot_cle": "piqûre de frelon",
+    "mots_cles_secondaires": ["piqûre frelon asiatique", "piqûre de frelon photo", "piqûre frelon gonflement"],
+    "serps": ["google-images"],
+    "priorite": 2,
+    "saison": [6, 7, 8, 9, 10],
+    "visuels": [
+      { "angle": "avant-bras avec une piqûre de frelon : zone rouge et gonflée de quelques centimètres autour d'un point central, peau propre, fond neutre", "requete": "piqûre de frelon", "surcouche": "Piqûre de frelon" },
+      { "angle": "frelon asiatique posé sur le dos d'une main gantée de jardinage, dard non visible, sans blessure", "requete": "piqûre frelon asiatique", "surcouche": "" },
+      { "angle": "poche de froid posée sur un bras, table de cuisine, geste de premier secours", "requete": "que faire piqûre frelon", "surcouche": "Premiers gestes" }
+    ]
+  },
+  {
+    "id": "destruction-nid-frelons",
+    "url": "",
+    "a_completer": true,
+    "titre": "Destruction de nid de frelons : intervention professionnelle",
+    "type": "page",
+    "mot_cle": "destruction nid de frelons",
+    "mots_cles_secondaires": ["destruction nid frelon asiatique", "enlever nid de frelons", "professionnel nid de frelons"],
+    "serps": ["google-images", "discover"],
+    "priorite": 1,
+    "saison": [5, 6, 7, 8, 9, 10, 11],
+    "visuels": [
+      { "angle": "technicien en combinaison de protection blanche intégrale avec voile, vu de dos, tenant une perche télescopique vers un nid de frelon asiatique dans un arbre", "requete": "destruction nid frelon asiatique", "surcouche": "Destruction de nid" },
+      { "angle": "technicien en combinaison de protection sur une échelle sous un avant-toit, traitant un nid de frelons, maison de brique", "requete": "destruction nid de frelons", "surcouche": "Intervention pro" },
+      { "angle": "nid de frelon asiatique décroché posé dans une bâche au sol, ouvert montrant les alvéoles en étages, après intervention", "requete": "nid de frelons après destruction", "surcouche": "" },
+      { "angle": "perche télescopique de traitement pointée vers la cime d'un arbre au petit matin, brume légère, technicien en contrebas", "requete": "nid frelon en hauteur", "surcouche": "" }
+    ]
+  },
+  {
+    "id": "intervention-nord-59",
+    "url": "",
+    "a_completer": true,
+    "titre": "Destruction de nids de frelons et guêpes dans le Nord (59)",
+    "type": "page",
+    "mot_cle": "destruction nid de frelons Nord",
+    "mots_cles_secondaires": ["nid de frelons Lille", "destruction nid guêpes 59", "frelon asiatique Nord"],
+    "serps": ["google-images"],
+    "priorite": 2,
+    "saison": [5, 6, 7, 8, 9, 10],
+    "visuels": [
+      { "angle": "technicien en combinaison de protection devant une maison de briques rouges typique du Nord, nid de guêpes sous la gouttière, ciel clair", "requete": "destruction nid frelons Nord", "surcouche": "Nord (59)" },
+      { "angle": "nid de frelon asiatique dans un arbre le long d'un canal bordé de peupliers, paysage plat des Flandres", "requete": "frelon asiatique Nord", "surcouche": "" }
+    ]
+  },
+  {
+    "id": "intervention-pas-de-calais-62",
+    "url": "",
+    "a_completer": true,
+    "titre": "Destruction de nids de frelons et guêpes dans le Pas-de-Calais (62)",
+    "type": "page",
+    "mot_cle": "destruction nid de frelons Pas-de-Calais",
+    "mots_cles_secondaires": ["nid de frelons Arras", "destruction nid guêpes 62", "frelon asiatique Pas-de-Calais"],
+    "serps": ["google-images"],
+    "priorite": 2,
+    "saison": [5, 6, 7, 8, 9, 10],
+    "visuels": [
+      { "angle": "technicien en combinaison de protection au pied d'une longère en briques et tuiles, perche levée vers un nid, campagne artésienne", "requete": "destruction nid frelons Pas-de-Calais", "surcouche": "Pas-de-Calais (62)" },
+      { "angle": "nid de frelon asiatique dans un pin maritime près d'une dune, lumière côtière", "requete": "frelon asiatique Pas-de-Calais", "surcouche": "" }
+    ]
+  },
+  {
+    "id": "cycle-nid-frelon-asiatique",
+    "url": "",
+    "a_completer": true,
+    "titre": "Cycle de vie du frelon asiatique et de son nid",
+    "type": "article",
+    "mot_cle": "cycle de vie frelon asiatique",
+    "mots_cles_secondaires": ["reine frelon asiatique", "fondatrice frelon asiatique", "nid primaire nid secondaire"],
+    "serps": ["pinterest", "google-images"],
+    "priorite": 2,
+    "saison": [2, 3, 4, 5, 6],
+    "visuels": [
+      { "angle": "reine fondatrice de frelon asiatique seule, construisant les premières alvéoles d'un nid primaire de la taille d'une balle de golf sous un abri de jardin, début de printemps", "requete": "reine frelon asiatique", "surcouche": "Reine fondatrice", "format": "portrait" },
+      { "angle": "quatre nids de frelon asiatique alignés de gauche à droite de tailles croissantes, du nid primaire au gros nid d'automne, fond uni", "requete": "cycle nid frelon asiatique", "surcouche": "Le nid au fil de l'année", "format": "paysage" },
+      { "angle": "nid de frelon asiatique abandonné en hiver dans un arbre nu, partiellement déchiré par le vent, neige légère", "requete": "nid frelon asiatique hiver", "surcouche": "En hiver, le nid est vide" }
+    ]
+  },
+  {
+    "id": "guepe-abeille-frelon-difference",
+    "url": "",
+    "a_completer": true,
+    "titre": "Guêpe, abeille ou frelon : comment les reconnaître",
+    "type": "article",
+    "mot_cle": "différence guêpe abeille frelon",
+    "mots_cles_secondaires": ["guêpe ou abeille", "reconnaître une guêpe", "guêpe frelon abeille"],
+    "serps": ["google-images", "pinterest"],
+    "priorite": 2,
+    "saison": [4, 5, 6, 7, 8, 9],
+    "visuels": [
+      { "angle": "trois insectes alignés à la même échelle sur fond blanc, vus de profil : une abeille domestique (brun doré, velue), une guêpe germanique (jaune et noir, lisse, taille fine), un frelon européen (plus grand, roux et jaune)", "requete": "guêpe abeille frelon différence", "surcouche": "Abeille, guêpe ou frelon ?", "format": "paysage" },
+      { "angle": "guêpe germanique en gros plan sur une tranche de melon, taille fine et rayures nettes bien visibles", "requete": "guêpe germanique", "surcouche": "" },
+      { "angle": "abeille domestique couverte de pollen sur une fleur de lavande, corps velu, gros plan", "requete": "abeille ou guêpe", "surcouche": "" }
+    ]
+  },
+  {
+    "id": "que-faire-nid-frelons",
+    "url": "",
+    "a_completer": true,
+    "titre": "Nid de frelons : que faire et qui appeler",
+    "type": "article",
+    "mot_cle": "que faire nid de frelons",
+    "mots_cles_secondaires": ["qui appeler nid de frelons", "nid de frelons pompiers", "nid de frelons chez moi"],
+    "serps": ["discover", "google-images"],
+    "priorite": 2,
+    "saison": [5, 6, 7, 8, 9, 10],
+    "visuels": [
+      { "angle": "personne vue de dos à distance respectueuse observant un nid de frelons sous son avant-toit, téléphone à la main, jardin d'été", "requete": "nid de frelons que faire", "surcouche": "Que faire ?" },
+      { "angle": "ruban de balisage tendu autour d'un arbre abritant un nid de frelon asiatique, jardin, mise en sécurité", "requete": "nid de frelons sécurité", "surcouche": "Ne pas approcher" }
+    ]
+  }
+]

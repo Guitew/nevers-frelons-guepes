@@ -116,6 +116,12 @@ Deux possibilités :
 En l'absence de photo, un visuel illustré (pictogramme) est utilisé. Les crédits des photos
 apparaissent sur chaque fiche et sur la page **/credits/**.
 
+## Autres projets du dépôt
+
+- **`annuaire/`** — annuaire des entreprises sans site web (projet autonome, voir `annuaire/README.md`).
+- **`images-seo/`** — production quotidienne d'images optimisées pour le référencement image des
+  pages d'ALLO FRELONS (projet autonome, voir `images-seo/README.md`).
+
 ## Déploiement
 
 Voir le guide détaillé : **[DEPLOIEMENT-O2SWITCH.md](./DEPLOIEMENT-O2SWITCH.md)**.
