@@ -52,8 +52,11 @@ annuaire/
 ```
 
 Workflows à la racine du dépôt : `annuaire-controle.yml` (tests+build+verifier sur chaque PR),
-`annuaire-quotidien.yml` (cron : collecte+backlinks+retraits, commit), `annuaire-deploiement.yml`
-(déploiement FTPS depuis `main` uniquement).
+`annuaire-quotidien.yml` (cron : collecte+backlinks+retraits, commit, puis `gh workflow run` du
+déploiement), `annuaire-deploiement.yml` (déploiement FTPS depuis `main` uniquement, sur push
+humain ou `workflow_dispatch`). **Un push signé par le `GITHUB_TOKEN` ne déclenche jamais
+`on: push`** : le cycle quotidien doit toujours lancer le déploiement explicitement, sinon les
+fiches collectées ne sont jamais mises en ligne (404 sur toutes les URLs suggérées).
 
 ## Invariants — ne jamais casser
 
@@ -83,6 +86,9 @@ Workflows à la racine du dépôt : `annuaire-controle.yml` (tests+build+verifie
    (`progression.json`) et un budget `appelsMaxParJour`. Ne jamais revenir à une requête unique
    par zone : la collecte se tarirait en quelques jours.
 8. **Pas de grattage de Google Maps** — API officielle uniquement, ou fournisseurs csv/simulation.
+9. **Un slug de catégorie ne se renomme pas sans alias.** `categories.json` accepte une clé `alias`
+   (anciennes ou fausses orthographes) : chaque alias produit une règle 301 dans le `.htaccess`
+   (test + verifier). La page 404 redirige aussi vers la fiche dont l'identifiant correspond.
 
 ## Commandes
 

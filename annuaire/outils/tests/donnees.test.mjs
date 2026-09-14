@@ -5,7 +5,7 @@
  */
 import test from "node:test";
 import assert from "node:assert/strict";
-import { classer } from "../lib/categories.mjs";
+import { classer, categories } from "../lib/categories.mjs";
 import { analyser, analyserHoraires, normaliser as normaliserCsv } from "../lib/fournisseurs/csv.mjs";
 import { normaliser as normaliserPlaces } from "../lib/fournisseurs/google-places.mjs";
 import { slugifier, telephoneLisible, telephoneLien, tronquer } from "../lib/texte.mjs";
@@ -139,4 +139,23 @@ test("le site vit dans un sous-dossier : le domaine seul ne suffit pas", () => {
   assert.equal(estNotreDomaine(`${site.url}/`), site.chemin === "");
   assert.equal(estNotreDomaine(`${site.url}/un-autre-projet/`), false);
   assert.equal(estNotreDomaine(`${site.base}/categories/`), true);
+});
+
+
+test("les alias de catégorie sont des slugs propres qui n'entrent en collision avec rien", () => {
+  const slugs = new Set(categories.map((c) => c.slug));
+  const vus = new Set();
+  for (const c of categories) {
+    for (const alias of c.alias || []) {
+      assert.match(alias, /^[a-z0-9]+(?:-[a-z0-9]+)*$/, `alias mal formé : ${alias}`);
+      assert.ok(!slugs.has(alias), `l'alias « ${alias} » est déjà un slug de catégorie`);
+      assert.ok(!vus.has(alias), `l'alias « ${alias} » est déclaré deux fois`);
+      vus.add(alias);
+    }
+  }
+});
+
+test("l'URL erronée « loisirs-sports » est un alias de « loisirs-sport-culture »", () => {
+  const c = categories.find((c) => c.slug === "loisirs-sport-culture");
+  assert.ok(c.alias.includes("loisirs-sports"));
 });

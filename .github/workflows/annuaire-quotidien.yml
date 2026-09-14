@@ -7,7 +7,11 @@ name: Annuaire — collecte quotidienne
 #
 # Les fiches sont committées : le dépôt Git est la mémoire de l'annuaire, et
 # chaque changement (publication, perte de lien, retrait) est relisible en diff.
-# Le push déclenche ensuite le workflow de déploiement.
+#
+# Le déploiement est ensuite déclenché EXPLICITEMENT (workflow_dispatch) :
+# un push effectué avec le GITHUB_TOKEN ne déclenche jamais les workflows
+# « on: push » (règle GitHub anti-boucle). Sans cet appel, les fiches
+# collectées ne sont jamais mises en ligne et leurs URLs répondent 404.
 #
 # Secrets attendus :
 #   GOOGLE_PLACES_API_KEY  clé de l'API Google Places (New)
@@ -26,6 +30,7 @@ on:
 
 permissions:
   contents: write
+  actions: write # nécessaire pour déclencher le workflow de déploiement
 
 concurrency:
   group: annuaire-quotidien
@@ -74,6 +79,7 @@ jobs:
         run: node outils/etat.mjs
 
       - name: Committer l'état de l'annuaire
+        id: commit
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
@@ -81,6 +87,17 @@ jobs:
             git add donnees
             git commit -m "Annuaire : cycle quotidien du $(date -u +%F)"
             git push
+            echo "modifie=oui" >> "$GITHUB_OUTPUT"
           else
             echo "Aucun changement à committer."
+            echo "modifie=non" >> "$GITHUB_OUTPUT"
           fi
+
+      # Un push signé par le GITHUB_TOKEN ne déclenche pas « on: push » ;
+      # seuls workflow_dispatch et repository_dispatch échappent à cette règle.
+      # On lance donc le déploiement à la main, uniquement si l'état a changé.
+      - name: Déclencher le déploiement
+        if: steps.commit.outputs.modifie == 'oui'
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: gh workflow run annuaire-deploiement.yml --repo "$GITHUB_REPOSITORY" --ref main

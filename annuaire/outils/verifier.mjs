@@ -24,6 +24,7 @@ import fs from "node:fs";
 import path from "node:path";
 import site from "./lib/site.mjs";
 import { lireFiches, urlFiche, ETATS } from "./lib/fiches.mjs";
+import { categories } from "./lib/categories.mjs";
 import { RACINE } from "./lib/chemins.mjs";
 
 const SORTIE = path.join(RACINE, "_site");
@@ -168,6 +169,14 @@ for (const url of declares) {
 
 // --- Cohérence des retraits avec le .htaccess
 const htaccess = fs.readFileSync(path.join(SORTIE, ".htaccess"), "utf8");
+
+// --- Chaque alias de catégorie doit produire sa règle 301
+for (const c of categories) {
+  for (const alias of c.alias || []) {
+    const attendu = `RedirectMatch 301 ^${site.chemin}/${alias}(/.*)?$ ${site.chemin}/${c.slug}$1`;
+    if (!htaccess.includes(attendu)) anomalies.push(`Règle 301 absente du .htaccess pour l'alias : ${alias}`);
+  }
+}
 for (const fiche of lireFiches().filter((f) => f.statut === ETATS.RETIREE)) {
   const url = urlFiche(fiche);
   const attendu = `RedirectMatch ${fiche.retrait.mode} ^${site.chemin}${url}`;

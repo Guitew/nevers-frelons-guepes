@@ -18,5 +18,53 @@ eleventyExcludeFromCollections: true
       <a class="bouton bouton--secondaire" href="{{ "/recherche/" | url }}">Rechercher</a>
       <a class="bouton bouton--secondaire" href="{{ "/categories/" | url }}">Catégories</a>
     </p>
+    <div id="fiche-proche" hidden style="margin-top:2rem;">
+      <p><strong>Vous cherchiez peut-être :</strong></p>
+      <ul id="fiche-proche-liste" style="list-style:none;padding:0;"></ul>
+    </div>
   </div>
 </div>
+
+{#- Repli automatique : l'adresse demandée porte souvent le bon identifiant
+    d'entreprise sous une mauvaise catégorie ou une commune mal orthographiée
+    (URL recopiée à la main dans Google Maps). On cherche l'identifiant dans
+    l'index de recherche : une seule fiche correspond → redirection immédiate ;
+    plusieurs → liste de liens. Sans JavaScript, la page 404 reste utilisable. -#}
+<script>
+(function () {
+  "use strict";
+  var racine = window.RACINE || "/";
+  var chemin = window.location.pathname;
+  if (chemin.indexOf(racine) === 0) chemin = chemin.slice(racine.length);
+  var segments = chemin.split("/").filter(Boolean).map(function (s) {
+    try { return decodeURIComponent(s).toLowerCase(); } catch (e) { return s.toLowerCase(); }
+  });
+  if (segments.length < 2 || !window.fetch) return;
+  var slug = segments[segments.length - 1];
+  var ville = segments[segments.length - 2];
+  fetch(racine + "index-recherche.json").then(function (r) { return r.json(); }).then(function (index) {
+    var candidats = index.filter(function (e) {
+      var parts = e.u.split("/").filter(Boolean);
+      return parts[parts.length - 1] === slug;
+    });
+    if (!candidats.length) return;
+    var memeVille = candidats.filter(function (e) { return e.u.split("/").filter(Boolean)[1] === ville; });
+    if (memeVille.length) candidats = memeVille;
+    if (candidats.length === 1) {
+      window.location.replace(racine + candidats[0].u.replace(/^\//, ""));
+      return;
+    }
+    var bloc = document.getElementById("fiche-proche");
+    var liste = document.getElementById("fiche-proche-liste");
+    candidats.slice(0, 8).forEach(function (e) {
+      var li = document.createElement("li");
+      var a = document.createElement("a");
+      a.href = racine + e.u.replace(/^\//, "");
+      a.textContent = e.n + " — " + e.c + " à " + e.v;
+      li.appendChild(a);
+      liste.appendChild(li);
+    });
+    bloc.hidden = false;
+  }).catch(function () {});
+})();
+</script>
