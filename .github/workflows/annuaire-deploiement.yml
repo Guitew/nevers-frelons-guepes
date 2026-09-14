@@ -1,7 +1,10 @@
 name: Annuaire — compilation et déploiement
 
 # Compile le site et l'envoie sur l'hébergement, puis soumet aux moteurs les
-# URLs modifiées. Se déclenche sur toute modification du dossier « annuaire ».
+# URLs modifiées. Se déclenche sur toute modification du dossier « annuaire »
+# poussée par un humain, et sur demande (workflow_dispatch) : c'est ainsi que
+# le cycle quotidien le lance, car un push signé par le GITHUB_TOKEN ne
+# déclenche jamais « on: push ».
 #
 # Secrets attendus :
 #   FTP_SERVER_ANNUAIRE / FTP_USERNAME_ANNUAIRE / FTP_PASSWORD_ANNUAIRE
@@ -18,7 +21,9 @@ on:
 
 concurrency:
   group: annuaire-deploiement
-  cancel-in-progress: true
+  # Ne jamais interrompre un transfert FTP en cours : un déploiement annulé à
+  # mi-chemin laisse le site incohérent. Les demandes suivantes attendent.
+  cancel-in-progress: false
 
 defaults:
   run:
@@ -50,16 +55,42 @@ jobs:
       - name: Contrôler le site compilé
         run: npm run verifier
 
+      # Le transfert est différentiel (état conservé sur le serveur dans
+      # .ftp-deploy-sync-state.json) : seuls les fichiers nouveaux ou modifiés
+      # partent. Le serveur FTP mutualisé marque parfois des pauses de plus de
+      # 30 s sur le canal de contrôle (« Timeout (control socket) » le
+      # 1er septembre 2026) : le délai est porté à 2 min et, en cas d'échec,
+      # une seconde tentative reprend là où la première s'est arrêtée.
       - name: Déployer par FTP
+        id: ftp
+        continue-on-error: true
         uses: SamKirkland/FTP-Deploy-Action@v4.3.5
         with:
           server: ${{ secrets.FTP_SERVER_ANNUAIRE }}
           username: ${{ secrets.FTP_USERNAME_ANNUAIRE }}
           password: ${{ secrets.FTP_PASSWORD_ANNUAIRE }}
           protocol: ftps
+          timeout: 120000
           local-dir: ./annuaire/_site/
           # Le site occupe un SOUS-DOSSIER du domaine : le contenu de _site
           # est déposé dans andpro.fr/vitrine-locale/, pas à la racine.
+          server-dir: ./andpro.fr/vitrine-locale/
+          dangerous-clean-slate: false
+          exclude: |
+            **/.git*
+            **/.git*/**
+            **/node_modules/**
+
+      - name: Déployer par FTP (seconde tentative)
+        if: steps.ftp.outcome == 'failure'
+        uses: SamKirkland/FTP-Deploy-Action@v4.3.5
+        with:
+          server: ${{ secrets.FTP_SERVER_ANNUAIRE }}
+          username: ${{ secrets.FTP_USERNAME_ANNUAIRE }}
+          password: ${{ secrets.FTP_PASSWORD_ANNUAIRE }}
+          protocol: ftps
+          timeout: 120000
+          local-dir: ./annuaire/_site/
           server-dir: ./andpro.fr/vitrine-locale/
           dangerous-clean-slate: false
           exclude: |

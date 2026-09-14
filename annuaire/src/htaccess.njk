@@ -54,6 +54,20 @@ AddDefaultCharset UTF-8
 {%- endfor %}
 </IfModule>
 
+# ---------------------------------------------------------------------
+#  Alias de catégorie
+#  Un slug mal orthographié ou ancien (« loisirs-sports ») est renvoyé en
+#  301 vers la catégorie réelle, en conservant le reste du chemin :
+#  /loisirs-sports/ville/entreprise/ → /loisirs-sport-culture/ville/entreprise/
+#  Déclarés dans donnees/categories.json (clé « alias »).
+# ---------------------------------------------------------------------
+<IfModule mod_alias.c>
+  # {{ annuaire.aliasCategories.length }} alias de catégorie
+{%- for a in annuaire.aliasCategories %}
+  RedirectMatch 301 ^{{ p }}/{{ a.alias }}(/.*)?$ {{ p }}/{{ a.slug }}$1
+{%- endfor %}
+</IfModule>
+
 # ----- Adresse sans barre finale : renvoi vers la version canonique -----
 <IfModule mod_rewrite.c>
   RewriteEngine On

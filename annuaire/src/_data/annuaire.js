@@ -145,7 +145,17 @@ export default function () {
 
   const journal = lireJournal();
 
+  // --- Alias de catégorie : anciennes ou fausses orthographes d'un slug
+  //     (« loisirs-sports » pour « loisirs-sport-culture »), rencontrées
+  //     dans des URLs saisies à la main sur Google Maps. Chacune produit une
+  //     règle 301 dans le .htaccess vers le slug réel, sous-chemin conservé.
+  //     Toute la taxonomie est parcourue, même les catégories sans fiche.
+  const aliasCategories = taxonomie.flatMap((c) =>
+    (c.alias || []).map((alias) => ({ alias, slug: c.slug }))
+  );
+
   return {
+    aliasCategories,
     fiches: publiees,
     toutes,
     retirees,

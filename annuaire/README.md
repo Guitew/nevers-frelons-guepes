@@ -60,8 +60,11 @@ avant la mise en service réelle.
 | `npm run quotidien` | enchaîne collecte + backlinks + retraits |
 
 En production, le workflow [`annuaire-quotidien.yml`](../.github/workflows/annuaire-quotidien.yml)
-exécute ce cycle chaque matin et committe le résultat ; le push déclenche la compilation et le
-déploiement.
+exécute ce cycle chaque matin, committe le résultat puis **déclenche explicitement** le workflow de
+déploiement (`workflow_dispatch`). Ce déclenchement explicite est indispensable : un push effectué
+avec le `GITHUB_TOKEN` d'un workflow ne déclenche jamais les workflows `on: push` (règle GitHub
+anti-boucle). Sans lui, les fiches collectées restaient dans Git sans jamais être mises en ligne, et
+leurs URLs répondaient 404.
 
 **Les fiches sont versionnées dans Git.** Chaque publication, perte de lien ou retrait se lit en
 diff : c'est la mémoire de l'annuaire, et le moyen de revenir en arrière sur une décision.
@@ -128,6 +131,12 @@ robots. Le fichier produit sert de source à recopier dans `andpro.fr/robots.txt
 26 catégories, chacune reliée aux types de l'API Places (`gmb`) et à des mots-clés de repêchage.
 Une fiche non rattachable n'est **pas** publiée : mieux vaut une catégorie manquante qu'une page
 mal classée.
+
+Une catégorie peut déclarer des `alias` : d'anciennes ou fausses orthographes de son slug
+(`loisirs-sports` pour `loisirs-sport-culture`), rencontrées dans des URLs recopiées à la main sur
+Google Maps. Chaque alias produit une règle 301 dans le `.htaccess` vers le slug réel, sous-chemin
+conservé. En complément, la page 404 cherche l'identifiant d'entreprise de l'adresse demandée dans
+l'index de recherche et redirige vers la fiche quand elle est unique.
 
 ### Variables d'environnement (jamais committées)
 
