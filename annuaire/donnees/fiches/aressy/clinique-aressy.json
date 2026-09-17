@@ -35,15 +35,15 @@
     "Toilettes accessibles en fauteuil roulant"
   ],
   "lien_google": "https://maps.google.com/?cid=11821131560185683518&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
-  "site_web_gmb": null,
+  "site_web_gmb": "https://andpro.fr/vitrine-locale/medecins-dentistes/aressy/clinique-aressy/",
   "statut": "publiee",
   "backlink": {
-    "etat": "absent",
-    "premiere_detection": null,
-    "derniere_detection": null,
-    "derniere_verification": "2026-09-16T14:57:03.134Z",
-    "echecs": 24,
-    "url_detectee": null
+    "etat": "present",
+    "premiere_detection": "2026-09-17T09:57:24.171Z",
+    "derniere_detection": "2026-09-17T09:57:24.171Z",
+    "derniere_verification": "2026-09-17T09:57:24.171Z",
+    "echecs": 0,
+    "url_detectee": "https://andpro.fr/vitrine-locale/medecins-dentistes/aressy/clinique-aressy/"
   },
   "suggestion": {
     "etat": "soumise",
@@ -55,7 +55,7 @@
   "dates": {
     "collecte": "2026-09-05",
     "publication": "2026-09-05",
-    "maj": "2026-09-16"
+    "maj": "2026-09-17"
   },
   "source": "google-places",
   "redaction": {
