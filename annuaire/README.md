@@ -98,7 +98,11 @@ la seule barrière qui la voie.
 | Clé | Effet |
 |---|---|
 | `collecte.fournisseur` | `google-places` (API officielle) ou `csv` (import manuel) |
-| `collecte.fichesParJour` | quota quotidien (20 par défaut) |
+| `collecte.fichesParJour` | quota quotidien (5 par défaut) |
+| `collecte.mode` | `national` (un maillage par département, voir ci-dessous) ou `local` (zones de `collecte.zones`) |
+| `collecte.rayonNational` | rayon exploré autour de chaque chef-lieu en mode national (15 km) |
+| `collecte.mailleNationaleMetres` | rayon d'une cellule d'exploration nationale (2 500 m) |
+| `collecte.cellulesParDepartement` | cellules interrogées par département et par jour (1) |
 | `collecte.zones` | points et rayons de recherche |
 | `collecte.mailleMetres` | rayon d'une cellule d'exploration (800 m) — voir ci-dessous |
 | `collecte.appelsMaxParJour` | plafond d'appels à l'API par exécution (60) |
@@ -171,6 +175,21 @@ s'arrête dès qu'elle a son quota de fiches **ou** son budget d'appels.
 # Éprouver toute la chaîne sans dépenser un centime d'API
 node outils/collecte.mjs --fournisseur=simulation --max=20
 ```
+
+### Le mode national : un maillage par département
+
+Le mode national vise **au plus une fiche par département et par jour**, en commençant par les
+départements les moins couverts puis, à couverture égale, les moins récemment explorés. Il obéit à
+la même contrainte que le mode local : interroger chaque jour le centre du chef-lieu avec un rayon
+de 15 km rendait toujours les 20 mêmes établissements populaires, et la collecte s'est tarie en dix
+jours (zéro fiche du 12 au 18 septembre 2026, 60 appels par jour pour rien).
+
+Chaque chef-lieu est donc découpé en cellules de 2 500 m parcourues du centre vers la périphérie,
+et **chaque département garde son propre curseur** dans `progression.json` (clé
+`departement-<code>`). Un département avance d'une cellule par passage, qu'il ait rendu une fiche
+ou non ; la date de son dernier passage le fait céder la place aux autres le lendemain. Avec 60
+appels par jour, une soixantaine de départements progressent chaque jour ; les fiches arrivent au
+rythme du quota, réparties sur tout le territoire.
 
 ## Sources de données
 

@@ -4,8 +4,11 @@
  * leur fiche Google Business Profile, rédige leur page et les publie.
  *
  * Deux modes :
- *   • national (défaut) : 1 fiche par département, en commençant par les
- *     départements les moins couverts. 20 départements différents par jour.
+ *   • national (défaut) : au plus 1 fiche par département et par jour, en
+ *     commençant par les départements les moins couverts. Chaque département
+ *     est exploré par cellules autour de son chef-lieu, avec son propre
+ *     curseur (voir outils/lib/national.mjs) : le point interrogé change à
+ *     chaque passage, sans quoi l'API rendrait toujours les mêmes 20 lieux.
  *   • local : exploration fine par cellules (maillage 800 m) autour de zones
  *     définies dans config.json. Utile pour saturer un territoire ciblé.
  *
@@ -32,6 +35,7 @@ import config from "./lib/config.mjs";
 import { categories, classer } from "./lib/categories.mjs";
 import { cellules, lotsDeTypes, planifier } from "./lib/maillage.mjs";
 import { lireProgression, ecrireProgression } from "./lib/progression.mjs";
+import { cleProgression, grilleDepartement, compterParDepartement, normaliserCode, ordonnerDepartements } from "./lib/national.mjs";
 import { fournisseur } from "./lib/fournisseurs/index.mjs";
 import { ecrireFiche, indexExistant, lireFiches, slugDisponible, urlFiche, ETATS } from "./lib/fiches.mjs";
 import { rediger } from "./lib/redaction.mjs";
@@ -80,26 +84,15 @@ function estRecevable(lieu, existant) {
 }
 
 // ---------------------------------------------------------------------------
-//  Mode national : 1 fiche par département, rotation par couverture
+//  Mode national : maillage par département, au plus 1 fiche par département
+//  et par jour, les moins couverts d'abord
 // ---------------------------------------------------------------------------
-
-function compterParDepartement(fiches) {
-  const compteur = {};
-  for (const f of fiches) {
-    if (f.statut !== ETATS.PUBLIEE) continue;
-    const dept = f.adresse?.departement || "";
-    if (dept) compteur[dept] = (compteur[dept] || 0) + 1;
-  }
-  return compteur;
-}
 
 async function collecteNationale(source, existant, date) {
   const departements = JSON.parse(fs.readFileSync(DEPARTEMENTS_JSON, "utf8"));
-  const fiches = lireFiches();
-  const compteur = compterParDepartement(fiches);
-
-  // Trier par nombre de fiches croissant (départements les moins couverts d'abord)
-  departements.sort((a, b) => (compteur[a.code] || 0) - (compteur[b.code] || 0));
+  const progression = lireProgression();
+  const compteur = compterParDepartement(lireFiches());
+  const ordre = ordonnerDepartements(departements, compteur, progression);
 
   const lots = lotsDeTypes(categoriesRetenues());
   if (!lots.length) {
@@ -107,62 +100,64 @@ async function collecteNationale(source, existant, date) {
     return [];
   }
 
-  // Indice de lot basé sur le jour (rotation automatique des types)
-  const jourIndex = Math.floor(Date.now() / 86400000);
-
   const retenus = [];
   const vus = new Set();
-  const departementsVus = new Set();
+  const explores = [];
   let appels = 0;
   const budget = config.collecte.appelsMaxParJour;
-  const rayonRecherche = config.collecte.rayonNational || 15000;
+  // Cellules interrogées par département et par jour (1 : on avance d'un cran).
+  const pas = Math.max(1, Number(config.collecte.cellulesParDepartement) || 1);
 
-  // Candidats : plus de départements que le quota (certains peuvent ne rien donner)
-  const candidats = departements.slice(0, Math.min(quota * 3, departements.length));
-
-  for (const dept of candidats) {
+  for (const dept of ordre) {
     if (retenus.length >= quota || appels >= budget) break;
-    if (departementsVus.has(dept.code)) continue;
 
-    const lotIndex = (jourIndex + departementsVus.size) % lots.length;
-    const types = lots[lotIndex];
+    const cle = cleProgression(dept);
+    const grille = grilleDepartement(dept, config.collecte);
+    const depart = progression[cle] || { cellule: 0, lot: 0, tour: 0 };
+    const { etapes } = planifier(grille, lots, depart, Math.min(pas, budget - appels));
+    const codeCible = normaliserCode(dept.code);
+    let trouve = false;
 
-    appels++;
-    let lieux = [];
-    try {
-      lieux = await source.rechercher({
-        types,
-        latitude: dept.lat,
-        longitude: dept.lng,
-        rayonMetres: rayonRecherche,
-      });
-    } catch (erreur) {
-      console.warn(`  ⚠ ${dept.nom} (${dept.code}) : ${erreur.message}`);
-      continue;
+    for (const etape of etapes) {
+      appels++;
+      let lieux = [];
+      try {
+        lieux = await source.rechercher({
+          types: etape.types,
+          latitude: etape.cellule.latitude,
+          longitude: etape.cellule.longitude,
+          rayonMetres: etape.cellule.rayonMetres,
+        });
+      } catch (erreur) {
+        console.warn(`  ⚠ ${dept.nom} (${dept.code}) cellule ${etape.indexCellule} : ${erreur.message}`);
+      }
+      // Le curseur avance même sans résultat ou sur erreur : rester sur une
+      // cellule qui ne rend rien ferait tourner la collecte à vide.
+      progression[cle] = { ...etape.suivant, date };
+
+      for (const brut of lieux) {
+        const lieu = source.normaliser(brut);
+        if (vus.has(lieu.id) || !estRecevable(lieu, existant)) continue;
+        // Une cellule en bordure peut déborder sur le département voisin :
+        // on ne retient que ce qui relève du département visé.
+        if (normaliserCode(lieu.adresse?.departement) !== codeCible) continue;
+        vus.add(lieu.id);
+        retenus.push(lieu);
+        trouve = true;
+        console.log(`  + ${dept.nom} (${dept.code}) : ${lieu.nom} — ${lieu.ville}`);
+        break;
+      }
+      if (trouve) break;
     }
-
-    departementsVus.add(dept.code);
-
-    for (const brut of lieux) {
-      const lieu = source.normaliser(brut);
-      if (vus.has(lieu.id) || !estRecevable(lieu, existant)) continue;
-
-      // Vérifier que le résultat est bien dans le bon département
-      const deptLieu = (lieu.adresse?.departement || "").replace(/^0/, "");
-      const deptCible = dept.code.replace(/^0/, "");
-      if (deptLieu !== deptCible) continue;
-
-      vus.add(lieu.id);
-      retenus.push(lieu);
-      console.log(`  + ${dept.nom} (${dept.code}) : ${lieu.nom} — ${lieu.ville}`);
-      break;
-    }
+    explores.push(`${dept.code}:${progression[cle].cellule}.${progression[cle].lot}${trouve ? "✓" : ""}`);
   }
 
+  if (!essai) ecrireProgression(progression);
   console.log(
     `  ${appels} appel(s) API sur ${budget} autorisés — ` +
-      `${retenus.length} fiche(s) retenue(s) sur ${departementsVus.size} département(s) exploré(s).`
+      `${retenus.length} fiche(s) retenue(s) sur ${explores.length} département(s) exploré(s).`
   );
+  console.log(`  Curseurs (département:cellule.lot, ✓ = fiche retenue) : ${explores.join(" ")}`);
   return retenus;
 }
 

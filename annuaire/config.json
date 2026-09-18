@@ -3,9 +3,11 @@
 
   "collecte": {
     "fournisseur": "google-places",
-    "fichesParJour": 20,
+    "fichesParJour": 5,
     "mode": "national",
     "rayonNational": 15000,
+    "mailleNationaleMetres": 2500,
+    "cellulesParDepartement": 1,
     "zones": [
       { "libelle": "Nevers", "latitude": 46.9896, "longitude": 3.1572, "rayonMetres": 12000 },
       { "libelle": "Varennes-Vauzelles", "latitude": 47.0233, "longitude": 3.1364, "rayonMetres": 6000 },
