@@ -1,0 +1,198 @@
+{
+  "id": "ChIJKbsVKU5usBIRSs-ZVnJswNM",
+  "slug": "boulangerie-le-levain-d-helios",
+  "nom": "Boulangerie Le Levain d'Hélios",
+  "categorie": "boulangeries-patisseries",
+  "categorie_gmb": "Boulangerie",
+  "type_principal": "bakery",
+  "types": [
+    "bakery",
+    "food_store",
+    "store",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "ville": "Perpignan",
+  "ville_slug": "perpignan",
+  "adresse": {
+    "rue": "21 Boulevard Georges Clemenceau",
+    "code_postal": "66000",
+    "departement": "66",
+    "region": "Occitanie",
+    "pays": "France",
+    "complete": "Bis, 21 Bd Georges Clemenceau, 66000 Perpignan"
+  },
+  "telephone": "04 68 34 75 54",
+  "geo": {
+    "latitude": 42.700351,
+    "longitude": 2.8905409
+  },
+  "note": 4.3,
+  "avis": 761,
+  "horaires": [
+    {
+      "jour": 0,
+      "ferme": false,
+      "creneaux": [
+        [
+          "07:00",
+          "19:30"
+        ]
+      ]
+    },
+    {
+      "jour": 1,
+      "ferme": false,
+      "creneaux": [
+        [
+          "07:00",
+          "19:30"
+        ]
+      ]
+    },
+    {
+      "jour": 2,
+      "ferme": false,
+      "creneaux": [
+        [
+          "07:00",
+          "19:30"
+        ]
+      ]
+    },
+    {
+      "jour": 3,
+      "ferme": false,
+      "creneaux": [
+        [
+          "07:00",
+          "19:30"
+        ]
+      ]
+    },
+    {
+      "jour": 4,
+      "ferme": false,
+      "creneaux": [
+        [
+          "07:00",
+          "19:30"
+        ]
+      ]
+    },
+    {
+      "jour": 5,
+      "ferme": false,
+      "creneaux": [
+        [
+          "07:00",
+          "19:30"
+        ]
+      ]
+    },
+    {
+      "jour": 6,
+      "ferme": false,
+      "creneaux": [
+        [
+          "07:00",
+          "13:00"
+        ]
+      ]
+    }
+  ],
+  "attributs": [
+    "Entrée accessible en fauteuil roulant",
+    "Parking accessible en fauteuil roulant"
+  ],
+  "lien_google": "https://maps.google.com/?cid=15258314775866232650&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
+  "site_web_gmb": null,
+  "statut": "publiee",
+  "backlink": {
+    "etat": "absent",
+    "premiere_detection": null,
+    "derniere_detection": null,
+    "derniere_verification": "2026-09-18T19:30:41.776Z",
+    "echecs": 1,
+    "url_detectee": null
+  },
+  "suggestion": {
+    "etat": "en-attente",
+    "date_soumission": null,
+    "tentatives": 0,
+    "date_email": "2026-09-18"
+  },
+  "retrait": null,
+  "dates": {
+    "collecte": "2026-09-18",
+    "publication": "2026-09-18",
+    "maj": "2026-09-18"
+  },
+  "source": "google-places",
+  "redaction": {
+    "titre": "Boulangerie Le Levain d'Hélios — Boulangerie-pâtisserie à Perpignan",
+    "meta_titre": "Boulangerie Le Levain d'Hélios, boulangerie-pâtisserie à…",
+    "meta_description": "Boulangerie Le Levain d'Hélios, boulangerie-pâtisserie à Perpignan (21 Boulevard Georges Clemenceau) : adresse, horaires, téléphone et informations…",
+    "chapo": "Boulangerie Le Levain d'Hélios figure parmi les établissements de la catégorie « Boulangerie-pâtisserie » recensés à Perpignan. L'entreprise n'a pas de site web référencé sur sa fiche Google. Les éléments présentés ici — adresse, horaires, contact — proviennent de cette fiche et sont datés de leur relevé.",
+    "sections": [
+      {
+        "id": "presentation",
+        "titre": "Boulangerie Le Levain d'Hélios en quelques mots",
+        "paragraphes": [
+          "Le choix d'une boulangerie-pâtisserie se joue sur trois critères : la proximité, les horaires et la facilité de contact.",
+          "L'artisanat de bouche vit du passage et du bouche-à-oreille : le site web passe souvent après le fournil. Les informations pratiques — jour de fermeture, heure de sortie du pain, spécialités — sont pourtant ce que les habitants cherchent le plus souvent depuis leur téléphone.",
+          "D'après le relevé du 18 septembre 2026, l'établissement est ouvert sept jours sur sept. Le détail jour par jour figure plus bas."
+        ]
+      },
+      {
+        "id": "acces",
+        "titre": "Adresse et accès",
+        "paragraphes": [
+          "L'établissement est situé au 21 Boulevard Georges Clemenceau, 66000 Perpignan.",
+          "Coordonnées géographiques : 42.70035, 2.89054. Le lien d'itinéraire ci-dessous ouvre directement la navigation."
+        ]
+      },
+      {
+        "id": "contact",
+        "titre": "Contacter Boulangerie Le Levain d'Hélios",
+        "paragraphes": [
+          "Le contact se fait par téléphone au 04 68 34 75 54. C'est le seul moyen de communication déclaré sur la fiche Google de l'entreprise, avec la visite sur place.",
+          "Si vous dirigez cette entreprise, vous pouvez demander la correction ou le retrait de cette page à tout moment, sans justification."
+        ]
+      },
+      {
+        "id": "avis",
+        "titre": "La réputation de Boulangerie Le Levain d'Hélios",
+        "paragraphes": [
+          "Au relevé du 18 septembre 2026, l'établissement affichait une note de 4,3 sur 5 sur Google, calculée à partir de 761 avis. Cette note évolue en permanence : elle est indiquée ici à titre d'information et n'est pas retraitée.",
+          "Les avis appartiennent à Google et se consultent sur la fiche d'origine, dont le lien figure sur cette page."
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "q": "Quels sont les horaires de Boulangerie Le Levain d'Hélios ?",
+        "r": "Au relevé du 18 septembre 2026, Boulangerie Le Levain d'Hélios était ouvert sept jours sur sept. Dans le détail — lundi : de 7 h à 19 h 30 ; mardi : de 7 h à 19 h 30 ; mercredi : de 7 h à 19 h 30 ; jeudi : de 7 h à 19 h 30 ; vendredi : de 7 h à 19 h 30 ; samedi : de 7 h à 19 h 30 ; dimanche : de 7 h à 13 h. Ces horaires peuvent changer : un appel préalable reste conseillé."
+      },
+      {
+        "q": "Où se trouve Boulangerie Le Levain d'Hélios ?",
+        "r": "Boulangerie Le Levain d'Hélios se trouve Bis, 21 Bd Georges Clemenceau, 66000 Perpignan. Un lien d'itinéraire est disponible sur cette page."
+      },
+      {
+        "q": "Comment contacter Boulangerie Le Levain d'Hélios ?",
+        "r": "Par téléphone au 04 68 34 75 54, ou directement sur place aux heures d'ouverture."
+      },
+      {
+        "q": "Boulangerie Le Levain d'Hélios a-t-il un site internet ?",
+        "r": "Non : aucune adresse de site web n'est déclarée sur la fiche Google de Boulangerie Le Levain d'Hélios au 18 septembre 2026. Cette page tient lieu de référence publique en attendant, le cas échéant, la création d'un site propre à l'entreprise."
+      },
+      {
+        "q": "Boulangerie Le Levain d'Hélios est-il accessible aux personnes à mobilité réduite ?",
+        "r": "La fiche Google de l'établissement mentionne : « Entrée accessible en fauteuil roulant ». Cette information est déclarative ; en cas de doute, vérifiez par téléphone."
+      }
+    ],
+    "genere_le": "2026-09-18"
+  },
+  "statut_google": "OPERATIONAL"
+}

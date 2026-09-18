@@ -1,0 +1,201 @@
+{
+  "id": "ChIJ1S_ghHF95kcRKw13xgbWago",
+  "slug": "le-montbauron",
+  "nom": "Le Montbauron",
+  "categorie": "cafes-bars",
+  "categorie_gmb": "Bar",
+  "type_principal": "bar",
+  "types": [
+    "bar",
+    "pub",
+    "cafe",
+    "event_venue",
+    "sports_complex",
+    "sports_activity_location",
+    "restaurant",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "ville": "Versailles",
+  "ville_slug": "versailles",
+  "adresse": {
+    "rue": "23 Rue Jouvencel",
+    "code_postal": "78000",
+    "departement": "78",
+    "region": "Île-de-France",
+    "pays": "France",
+    "complete": "23 Rue Jouvencel, 78000 Versailles"
+  },
+  "telephone": "01 39 02 15 21",
+  "geo": {
+    "latitude": 48.802893,
+    "longitude": 2.1345083
+  },
+  "note": 4.4,
+  "avis": 2163,
+  "horaires": [
+    {
+      "jour": 0,
+      "ferme": false,
+      "creneaux": [
+        [
+          "11:00",
+          "02:00"
+        ]
+      ]
+    },
+    {
+      "jour": 1,
+      "ferme": false,
+      "creneaux": [
+        [
+          "11:00",
+          "02:00"
+        ]
+      ]
+    },
+    {
+      "jour": 2,
+      "ferme": false,
+      "creneaux": [
+        [
+          "11:00",
+          "02:00"
+        ]
+      ]
+    },
+    {
+      "jour": 3,
+      "ferme": false,
+      "creneaux": [
+        [
+          "11:00",
+          "02:00"
+        ]
+      ]
+    },
+    {
+      "jour": 4,
+      "ferme": false,
+      "creneaux": [
+        [
+          "11:00",
+          "02:00"
+        ]
+      ]
+    },
+    {
+      "jour": 5,
+      "ferme": false,
+      "creneaux": [
+        [
+          "14:00",
+          "02:00"
+        ]
+      ]
+    },
+    {
+      "jour": 6,
+      "ferme": false,
+      "creneaux": [
+        [
+          "14:00",
+          "02:00"
+        ]
+      ]
+    }
+  ],
+  "attributs": [
+    "Toilettes accessibles en fauteuil roulant"
+  ],
+  "lien_google": "https://maps.google.com/?cid=750647612498447659&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
+  "site_web_gmb": null,
+  "statut": "publiee",
+  "backlink": {
+    "etat": "absent",
+    "premiere_detection": null,
+    "derniere_detection": null,
+    "derniere_verification": "2026-09-18T19:30:41.776Z",
+    "echecs": 1,
+    "url_detectee": null
+  },
+  "suggestion": {
+    "etat": "en-attente",
+    "date_soumission": null,
+    "tentatives": 0,
+    "date_email": "2026-09-18"
+  },
+  "retrait": null,
+  "dates": {
+    "collecte": "2026-09-18",
+    "publication": "2026-09-18",
+    "maj": "2026-09-18"
+  },
+  "source": "google-places",
+  "redaction": {
+    "titre": "Le Montbauron — Café ou bar à Versailles",
+    "meta_titre": "Le Montbauron, café ou bar à Versailles",
+    "meta_description": "Le Montbauron, café ou bar à Versailles (23 Rue Jouvencel) : adresse, horaires, téléphone et informations pratiques.",
+    "chapo": "Le Montbauron exerce l'activité de café ou bar au 23 Rue Jouvencel, à Versailles. Faute de site internet déclaré sur sa fiche Google, l'entreprise reste difficile à trouver en dehors des cartes. Cette page comble ce manque avec des données factuelles et datées.",
+    "sections": [
+      {
+        "id": "presentation",
+        "titre": "Le Montbauron en quelques mots",
+        "paragraphes": [
+          "À Versailles, les recherches du type « café ou bar près de chez moi » se concluent le plus souvent par un appel ou une visite directe.",
+          "Les cafés et bars sont des repères de vie locale rarement dotés d'un site. Horaires réels, terrasse, retransmissions sportives, concerts : autant de détails qui décident d'une sortie et qui n'apparaissent nulle part ailleurs de façon lisible.",
+          "D'après le relevé du 18 septembre 2026, l'établissement est ouvert sept jours sur sept. Le détail jour par jour figure plus bas."
+        ]
+      },
+      {
+        "id": "acces",
+        "titre": "Adresse et accès",
+        "paragraphes": [
+          "L'établissement est situé au 23 Rue Jouvencel, 78000 Versailles.",
+          "Coordonnées géographiques : 48.80289, 2.13451. Le lien d'itinéraire ci-dessous ouvre directement la navigation."
+        ]
+      },
+      {
+        "id": "contact",
+        "titre": "Contacter Le Montbauron",
+        "paragraphes": [
+          "Le contact se fait par téléphone au 01 39 02 15 21. C'est le seul moyen de communication déclaré sur la fiche Google de l'entreprise, avec la visite sur place.",
+          "Si vous dirigez cette entreprise, vous pouvez demander la correction ou le retrait de cette page à tout moment, sans justification."
+        ]
+      },
+      {
+        "id": "avis",
+        "titre": "La réputation de Le Montbauron",
+        "paragraphes": [
+          "Au relevé du 18 septembre 2026, l'établissement affichait une note de 4,4 sur 5 sur Google, calculée à partir de 2163 avis. Cette note évolue en permanence : elle est indiquée ici à titre d'information et n'est pas retraitée.",
+          "Les avis appartiennent à Google et se consultent sur la fiche d'origine, dont le lien figure sur cette page."
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "q": "Quels sont les horaires de Le Montbauron ?",
+        "r": "Au relevé du 18 septembre 2026, Le Montbauron était ouvert sept jours sur sept. Dans le détail — lundi : de 11 h à 2 h ; mardi : de 11 h à 2 h ; mercredi : de 11 h à 2 h ; jeudi : de 11 h à 2 h ; vendredi : de 11 h à 2 h ; samedi : de 14 h à 2 h ; dimanche : de 14 h à 2 h. Ces horaires peuvent changer : un appel préalable reste conseillé."
+      },
+      {
+        "q": "Où se trouve Le Montbauron ?",
+        "r": "Le Montbauron se trouve 23 Rue Jouvencel, 78000 Versailles. Un lien d'itinéraire est disponible sur cette page."
+      },
+      {
+        "q": "Comment contacter Le Montbauron ?",
+        "r": "Par téléphone au 01 39 02 15 21, ou directement sur place aux heures d'ouverture."
+      },
+      {
+        "q": "Le Montbauron a-t-il un site internet ?",
+        "r": "Non : aucune adresse de site web n'est déclarée sur la fiche Google de Le Montbauron au 18 septembre 2026. Cette page tient lieu de référence publique en attendant, le cas échéant, la création d'un site propre à l'entreprise."
+      },
+      {
+        "q": "Le Montbauron est-il accessible aux personnes à mobilité réduite ?",
+        "r": "La fiche Google de l'établissement mentionne : « Toilettes accessibles en fauteuil roulant ». Cette information est déclarative ; en cas de doute, vérifiez par téléphone."
+      }
+    ],
+    "genere_le": "2026-09-18"
+  },
+  "statut_google": "OPERATIONAL"
+}

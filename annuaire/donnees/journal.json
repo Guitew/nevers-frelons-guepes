@@ -1,5 +1,90 @@
 [
   {
+    "date": "2026-09-18T19:30:41.909Z",
+    "type": "backlink-absent",
+    "id": "ChIJw7PHc3vprRIRLw3W6Z6rYm8",
+    "nom": "Boulangerie Feuillette",
+    "url": null,
+    "precedent": "en-attente"
+  },
+  {
+    "date": "2026-09-18T19:30:42.021Z",
+    "type": "backlink-absent",
+    "id": "ChIJKbsVKU5usBIRSs-ZVnJswNM",
+    "nom": "Boulangerie Le Levain d'Hélios",
+    "url": null,
+    "precedent": "en-attente"
+  },
+  {
+    "date": "2026-09-18T19:30:42.144Z",
+    "type": "backlink-absent",
+    "id": "ChIJBd9mxSgRrxIRJHyJXLKShZU",
+    "nom": "Boulangerie Massat",
+    "url": null,
+    "precedent": "en-attente"
+  },
+  {
+    "date": "2026-09-18T19:30:42.226Z",
+    "type": "backlink-absent",
+    "id": "ChIJnzo5XWNVrRIR5xT8cVl05qQ",
+    "nom": "La Vacherie",
+    "url": null,
+    "precedent": "en-attente"
+  },
+  {
+    "date": "2026-09-18T19:30:42.337Z",
+    "type": "backlink-absent",
+    "id": "ChIJ1S_ghHF95kcRKw13xgbWago",
+    "nom": "Le Montbauron",
+    "url": null,
+    "precedent": "en-attente"
+  },
+  {
+    "date": "2026-09-18T19:30:41.700Z",
+    "type": "publication",
+    "id": "ChIJBd9mxSgRrxIRJHyJXLKShZU",
+    "nom": "Boulangerie Massat",
+    "url": "/boulangeries-patisseries/foix/boulangerie-massat/",
+    "categorie": "boulangeries-patisseries",
+    "source": "google-places"
+  },
+  {
+    "date": "2026-09-18T19:30:41.701Z",
+    "type": "publication",
+    "id": "ChIJKbsVKU5usBIRSs-ZVnJswNM",
+    "nom": "Boulangerie Le Levain d'Hélios",
+    "url": "/boulangeries-patisseries/perpignan/boulangerie-le-levain-d-helios/",
+    "categorie": "boulangeries-patisseries",
+    "source": "google-places"
+  },
+  {
+    "date": "2026-09-18T19:30:41.701Z",
+    "type": "publication",
+    "id": "ChIJ1S_ghHF95kcRKw13xgbWago",
+    "nom": "Le Montbauron",
+    "url": "/cafes-bars/versailles/le-montbauron/",
+    "categorie": "cafes-bars",
+    "source": "google-places"
+  },
+  {
+    "date": "2026-09-18T19:30:41.701Z",
+    "type": "publication",
+    "id": "ChIJw7PHc3vprRIRLw3W6Z6rYm8",
+    "nom": "Boulangerie Feuillette",
+    "url": "/boulangeries-patisseries/albi/boulangerie-feuillette/",
+    "categorie": "boulangeries-patisseries",
+    "source": "google-places"
+  },
+  {
+    "date": "2026-09-18T19:30:41.702Z",
+    "type": "publication",
+    "id": "ChIJnzo5XWNVrRIR5xT8cVl05qQ",
+    "nom": "La Vacherie",
+    "url": "/restaurants/aurillac/la-vacherie/",
+    "categorie": "restaurants",
+    "source": "google-places"
+  },
+  {
     "date": "2026-09-18T09:41:26.808Z",
     "type": "backlink-present",
     "id": "ChIJbVYj4rV_-UcRizSfM-_tlgg",
