@@ -81,10 +81,13 @@ fiches collectées ne sont jamais mises en ligne (404 sur toutes les URLs suggé
 6. **Le robots.txt généré n'est PAS lu en sous-dossier** : ses lignes (déjà préfixées) sont à
    reporter dans andpro.fr/robots.txt. Le .htaccess généré ne contient ni redirection HTTPS ni
    canonicalisation www (elles relèvent du .htaccess racine du domaine).
-7. **searchNearby plafonne à 20 résultats, sans pagination** : la collecte explore par cellules de
-   800 m (quinconce, centre → périphérie, `maillage.mjs`) avec un curseur persistant
-   (`progression.json`) et un budget `appelsMaxParJour`. Ne jamais revenir à une requête unique
-   par zone : la collecte se tarirait en quelques jours.
+7. **searchNearby plafonne à 20 résultats, sans pagination** : la collecte explore par cellules
+   (quinconce, centre → périphérie, `maillage.mjs`) avec un curseur persistant
+   (`progression.json`) et un budget `appelsMaxParJour`. En mode local : cellules de 800 m par
+   zone. En mode national (`national.mjs`) : cellules de 2 500 m autour de chaque chef-lieu, un
+   curseur par département, au plus une fiche par département et par jour, les moins couverts et
+   les moins récemment explorés d'abord. Ne jamais revenir à une requête unique par zone ou par
+   département : la collecte s'est tarie ainsi en dix jours (0 fiche du 12 au 18 septembre 2026).
 8. **Pas de grattage de Google Maps** — API officielle uniquement, ou fournisseurs csv/simulation.
 9. **Un slug de catégorie ne se renomme pas sans alias.** `categories.json` accepte une clé `alias`
    (anciennes ou fausses orthographes) : chaque alias produit une règle 301 dans le `.htaccess`
