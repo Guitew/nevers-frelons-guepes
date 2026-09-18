@@ -136,15 +136,15 @@
     "Places assises accessibles en fauteuil roulant"
   ],
   "lien_google": "https://maps.google.com/?cid=618943610429060235&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
-  "site_web_gmb": null,
+  "site_web_gmb": "https://andpro.fr/vitrine-locale/restaurants/gueret/royal-wok/",
   "statut": "publiee",
   "backlink": {
-    "etat": "absent",
-    "premiere_detection": null,
-    "derniere_detection": null,
-    "derniere_verification": "2026-09-17T14:58:50.926Z",
-    "echecs": 35,
-    "url_detectee": null
+    "etat": "present",
+    "premiere_detection": "2026-09-18T09:41:14.841Z",
+    "derniere_detection": "2026-09-18T09:41:14.841Z",
+    "derniere_verification": "2026-09-18T09:41:14.841Z",
+    "echecs": 0,
+    "url_detectee": "https://andpro.fr/vitrine-locale/restaurants/gueret/royal-wok/"
   },
   "suggestion": {
     "etat": "soumise",
@@ -155,7 +155,7 @@
   "dates": {
     "collecte": "2026-09-01",
     "publication": "2026-09-01",
-    "maj": "2026-09-17"
+    "maj": "2026-09-18"
   },
   "source": "google-places",
   "redaction": {
