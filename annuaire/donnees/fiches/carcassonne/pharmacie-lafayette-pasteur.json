@@ -106,15 +106,15 @@
     "Places assises accessibles en fauteuil roulant"
   ],
   "lien_google": "https://maps.google.com/?cid=2327436241435838541&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
-  "site_web_gmb": null,
+  "site_web_gmb": "https://andpro.fr/vitrine-locale/pharmacies-opticiens/carcassonne/pharmacie-lafayette-pasteur/",
   "statut": "publiee",
   "backlink": {
-    "etat": "absent",
-    "premiere_detection": null,
-    "derniere_detection": null,
-    "derniere_verification": "2026-09-18T19:30:41.776Z",
-    "echecs": 38,
-    "url_detectee": null
+    "etat": "present",
+    "premiere_detection": "2026-09-19T09:26:17.939Z",
+    "derniere_detection": "2026-09-19T09:26:17.939Z",
+    "derniere_verification": "2026-09-19T09:26:17.939Z",
+    "echecs": 0,
+    "url_detectee": "https://andpro.fr/vitrine-locale/pharmacies-opticiens/carcassonne/pharmacie-lafayette-pasteur/"
   },
   "suggestion": {
     "etat": "soumise",
@@ -125,7 +125,7 @@
   "dates": {
     "collecte": "2026-09-01",
     "publication": "2026-09-01",
-    "maj": "2026-09-18"
+    "maj": "2026-09-19"
   },
   "source": "google-places",
   "redaction": {

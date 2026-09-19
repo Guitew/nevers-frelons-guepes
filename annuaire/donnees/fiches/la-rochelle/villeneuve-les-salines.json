@@ -1,0 +1,116 @@
+{
+  "id": "ChIJ9XEnXwlTAUgR9YqFqtisUfs",
+  "slug": "villeneuve-les-salines",
+  "nom": "Villeneuve les salines",
+  "categorie": "garages-automobile",
+  "categorie_gmb": "Garage automobile",
+  "type_principal": "car_repair",
+  "types": [
+    "car_repair",
+    "service",
+    "point_of_interest",
+    "establishment"
+  ],
+  "ville": "La Rochelle",
+  "ville_slug": "la-rochelle",
+  "adresse": {
+    "rue": "47 Avenue Proudhon",
+    "code_postal": "17000",
+    "departement": "17",
+    "region": "Nouvelle-Aquitaine",
+    "pays": "France",
+    "complete": "47 Av. Proudhon, 17000 La Rochelle"
+  },
+  "telephone": "",
+  "geo": {
+    "latitude": 46.153650299999995,
+    "longitude": -1.1310392
+  },
+  "note": 4,
+  "avis": 6,
+  "horaires": null,
+  "attributs": [
+    "Entrée accessible en fauteuil roulant",
+    "Parking accessible en fauteuil roulant"
+  ],
+  "lien_google": "https://maps.google.com/?cid=18109445623207267061&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
+  "site_web_gmb": null,
+  "statut": "publiee",
+  "backlink": {
+    "etat": "absent",
+    "premiere_detection": null,
+    "derniere_detection": null,
+    "derniere_verification": "2026-09-19T09:26:17.939Z",
+    "echecs": 1,
+    "url_detectee": null
+  },
+  "suggestion": {
+    "etat": "en-attente",
+    "date_soumission": null,
+    "tentatives": 0,
+    "date_email": "2026-09-19"
+  },
+  "retrait": null,
+  "dates": {
+    "collecte": "2026-09-19",
+    "publication": "2026-09-19",
+    "maj": "2026-09-19"
+  },
+  "source": "google-places",
+  "redaction": {
+    "titre": "Villeneuve les salines — Garage et automobile à La Rochelle",
+    "meta_titre": "Villeneuve les salines, garage et automobile à La Rochelle",
+    "meta_description": "Villeneuve les salines, garage et automobile à La Rochelle (47 Avenue Proudhon) : adresse, horaires et informations pratiques.",
+    "chapo": "Villeneuve les salines est un garage et automobile au 47 Avenue Proudhon, à La Rochelle. Aucune adresse web n'est renseignée sur sa fiche Google. Cette page rassemble donc, en un seul endroit stable, les informations que les clients recherchent avant de se déplacer.",
+    "sections": [
+      {
+        "id": "presentation",
+        "titre": "Villeneuve les salines en quelques mots",
+        "paragraphes": [
+          "Garages et services automobiles font partie des activités les plus consultées localement sur mobile.",
+          "Entretien, réparation, contrôle technique : l'automobiliste choisit d'abord un garage proche et disponible. Ces entreprises travaillent à flux tendu et délaissent presque toujours la création d'un site, malgré une demande de recherche locale considérable."
+        ]
+      },
+      {
+        "id": "acces",
+        "titre": "Adresse et accès",
+        "paragraphes": [
+          "L'établissement est situé au 47 Avenue Proudhon, 17000 La Rochelle.",
+          "Coordonnées géographiques : 46.15365, -1.13104. Le lien d'itinéraire ci-dessous ouvre directement la navigation."
+        ]
+      },
+      {
+        "id": "contact",
+        "titre": "Contacter Villeneuve les salines",
+        "paragraphes": [
+          "Aucun numéro de téléphone n'est déclaré sur la fiche Google de l'établissement : le contact se fait sur place, aux horaires indiqués.",
+          "Si vous dirigez cette entreprise, vous pouvez demander la correction ou le retrait de cette page à tout moment, sans justification."
+        ]
+      },
+      {
+        "id": "avis",
+        "titre": "La réputation de Villeneuve les salines",
+        "paragraphes": [
+          "Au relevé du 19 septembre 2026, l'établissement affichait une note de 4 sur 5 sur Google, calculée à partir de 6 avis. Cette note évolue en permanence : elle est indiquée ici à titre d'information et n'est pas retraitée.",
+          "Les avis appartiennent à Google et se consultent sur la fiche d'origine, dont le lien figure sur cette page."
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "q": "Où se trouve Villeneuve les salines ?",
+        "r": "Villeneuve les salines se trouve 47 Av. Proudhon, 17000 La Rochelle. Un lien d'itinéraire est disponible sur cette page."
+      },
+      {
+        "q": "Villeneuve les salines a-t-il un site internet ?",
+        "r": "Non : aucune adresse de site web n'est déclarée sur la fiche Google de Villeneuve les salines au 19 septembre 2026. Cette page tient lieu de référence publique en attendant, le cas échéant, la création d'un site propre à l'entreprise."
+      },
+      {
+        "q": "Villeneuve les salines est-il accessible aux personnes à mobilité réduite ?",
+        "r": "La fiche Google de l'établissement mentionne : « Entrée accessible en fauteuil roulant ». Cette information est déclarative ; en cas de doute, vérifiez par téléphone."
+      }
+    ],
+    "genere_le": "2026-09-19"
+  },
+  "statut_google": "OPERATIONAL"
+}

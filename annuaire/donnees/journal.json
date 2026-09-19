@@ -1,5 +1,149 @@
 [
   {
+    "date": "2026-09-19T09:26:32.324Z",
+    "type": "suggestion-soumise",
+    "id": "ChIJ1S_ghHF95kcRKw13xgbWago",
+    "nom": "Le Montbauron",
+    "url": "/cafes-bars/versailles/le-montbauron/"
+  },
+  {
+    "date": "2026-09-19T09:26:32.289Z",
+    "type": "suggestion-soumise",
+    "id": "ChIJnzo5XWNVrRIR5xT8cVl05qQ",
+    "nom": "La Vacherie",
+    "url": "/restaurants/aurillac/la-vacherie/"
+  },
+  {
+    "date": "2026-09-19T09:26:32.243Z",
+    "type": "suggestion-soumise",
+    "id": "ChIJBd9mxSgRrxIRJHyJXLKShZU",
+    "nom": "Boulangerie Massat",
+    "url": "/boulangeries-patisseries/foix/boulangerie-massat/"
+  },
+  {
+    "date": "2026-09-19T09:26:32.229Z",
+    "type": "suggestion-soumise",
+    "id": "ChIJKbsVKU5usBIRSs-ZVnJswNM",
+    "nom": "Boulangerie Le Levain d'Hélios",
+    "url": "/boulangeries-patisseries/perpignan/boulangerie-le-levain-d-helios/"
+  },
+  {
+    "date": "2026-09-19T09:26:32.182Z",
+    "type": "suggestion-soumise",
+    "id": "ChIJw7PHc3vprRIRLw3W6Z6rYm8",
+    "nom": "Boulangerie Feuillette",
+    "url": "/boulangeries-patisseries/albi/boulangerie-feuillette/"
+  },
+  {
+    "date": "2026-09-19T09:26:18.166Z",
+    "type": "backlink-absent",
+    "id": "ChIJGUralbZx_0cRTGaNKhoZDBE",
+    "nom": "Garage de Guglielmi-AD-Quad et SSV Can Am Brp Cf moto",
+    "url": null,
+    "precedent": "en-attente"
+  },
+  {
+    "date": "2026-09-19T09:26:18.254Z",
+    "type": "backlink-absent",
+    "id": "ChIJsczY8mcy_kcRqGuWZObbiOY",
+    "nom": "Pressing Victor Hugo",
+    "url": null,
+    "precedent": "en-attente"
+  },
+  {
+    "date": "2026-09-19T09:26:18.351Z",
+    "type": "backlink-absent",
+    "id": "ChIJxwX-xTKc8kcRT3vfn-kMBos",
+    "nom": "Raffineries du Midi",
+    "url": null,
+    "precedent": "en-attente"
+  },
+  {
+    "date": "2026-09-19T09:26:18.439Z",
+    "type": "backlink-absent",
+    "id": "ChIJISeKqYPV_EcRbfZvTdPoJ0o",
+    "nom": "Saint-Pierre lavage",
+    "url": null,
+    "precedent": "en-attente"
+  },
+  {
+    "date": "2026-09-19T09:26:18.617Z",
+    "type": "backlink-absent",
+    "id": "ChIJ9XEnXwlTAUgR9YqFqtisUfs",
+    "nom": "Villeneuve les salines",
+    "url": null,
+    "precedent": "en-attente"
+  },
+  {
+    "date": "2026-09-19T09:26:24.402Z",
+    "type": "backlink-externe",
+    "id": "ChIJf6Sw4oZF8EcR5zv13QNqomg",
+    "nom": "Guinguette On Loire",
+    "url": "https://www.guinguetteonloire.fr/contact",
+    "precedent": "absent"
+  },
+  {
+    "date": "2026-09-19T09:26:27.242Z",
+    "type": "backlink-externe",
+    "id": "ChIJq7eSh1FoCkgRQ94Y4dxHaAU",
+    "nom": "NOYON Solutions Logistiques Caen",
+    "url": "https://www.noyon.eu/",
+    "precedent": "absent"
+  },
+  {
+    "date": "2026-09-19T09:26:27.925Z",
+    "type": "backlink-present",
+    "id": "ChIJcWqeJd4trhIRTUgnKO62TCA",
+    "nom": "Pharmacie Lafayette Pasteur",
+    "url": "https://andpro.fr/vitrine-locale/pharmacies-opticiens/carcassonne/pharmacie-lafayette-pasteur/",
+    "precedent": "absent"
+  },
+  {
+    "date": "2026-09-19T09:26:17.852Z",
+    "type": "publication",
+    "id": "ChIJsczY8mcy_kcRqGuWZObbiOY",
+    "nom": "Pressing Victor Hugo",
+    "url": "/nettoyage-hygiene/angouleme/pressing-victor-hugo/",
+    "categorie": "nettoyage-hygiene",
+    "source": "google-places"
+  },
+  {
+    "date": "2026-09-19T09:26:17.852Z",
+    "type": "publication",
+    "id": "ChIJ9XEnXwlTAUgR9YqFqtisUfs",
+    "nom": "Villeneuve les salines",
+    "url": "/garages-automobile/la-rochelle/villeneuve-les-salines/",
+    "categorie": "garages-automobile",
+    "source": "google-places"
+  },
+  {
+    "date": "2026-09-19T09:26:17.853Z",
+    "type": "publication",
+    "id": "ChIJxwX-xTKc8kcRT3vfn-kMBos",
+    "nom": "Raffineries du Midi",
+    "url": "/transport-demenagement/dijon/raffineries-du-midi/",
+    "categorie": "transport-demenagement",
+    "source": "google-places"
+  },
+  {
+    "date": "2026-09-19T09:26:17.853Z",
+    "type": "publication",
+    "id": "ChIJGUralbZx_0cRTGaNKhoZDBE",
+    "nom": "Garage de Guglielmi-AD-Quad et SSV Can Am Brp Cf moto",
+    "url": "/garages-automobile/trelissac/garage-de-guglielmi-ad-quad-et-ssv-can-am-brp-cf-moto/",
+    "categorie": "garages-automobile",
+    "source": "google-places"
+  },
+  {
+    "date": "2026-09-19T09:26:17.854Z",
+    "type": "publication",
+    "id": "ChIJISeKqYPV_EcRbfZvTdPoJ0o",
+    "nom": "Saint-Pierre lavage",
+    "url": "/garages-automobile/saint-pierre-des-corps/saint-pierre-lavage/",
+    "categorie": "garages-automobile",
+    "source": "google-places"
+  },
+  {
     "date": "2026-09-18T19:30:41.909Z",
     "type": "backlink-absent",
     "id": "ChIJw7PHc3vprRIRLw3W6Z6rYm8",

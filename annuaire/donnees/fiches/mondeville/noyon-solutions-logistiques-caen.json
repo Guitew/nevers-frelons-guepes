@@ -118,15 +118,15 @@
     "Parking accessible en fauteuil roulant"
   ],
   "lien_google": "https://maps.google.com/?cid=389640381762428483&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
-  "site_web_gmb": null,
+  "site_web_gmb": "https://www.noyon.eu/",
   "statut": "publiee",
   "backlink": {
-    "etat": "absent",
+    "etat": "externe",
     "premiere_detection": null,
     "derniere_detection": null,
-    "derniere_verification": "2026-09-18T19:30:41.776Z",
-    "echecs": 38,
-    "url_detectee": null
+    "derniere_verification": "2026-09-19T09:26:17.939Z",
+    "echecs": 39,
+    "url_detectee": "https://www.noyon.eu/"
   },
   "suggestion": {
     "etat": "soumise",
@@ -137,7 +137,7 @@
   "dates": {
     "collecte": "2026-09-01",
     "publication": "2026-09-01",
-    "maj": "2026-09-18"
+    "maj": "2026-09-19"
   },
   "source": "google-places",
   "redaction": {

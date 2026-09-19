@@ -102,21 +102,21 @@
     "Places assises accessibles en fauteuil roulant"
   ],
   "lien_google": "https://maps.google.com/?cid=7539705291012914151&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
-  "site_web_gmb": null,
+  "site_web_gmb": "https://www.guinguetteonloire.fr/contact",
   "statut": "publiee",
   "backlink": {
-    "etat": "absent",
+    "etat": "externe",
     "premiere_detection": null,
     "derniere_detection": null,
-    "derniere_verification": "2026-09-18T19:30:41.776Z",
-    "echecs": 38,
-    "url_detectee": null
+    "derniere_verification": "2026-09-19T09:26:17.939Z",
+    "echecs": 39,
+    "url_detectee": "https://www.guinguetteonloire.fr/contact"
   },
   "retrait": null,
   "dates": {
     "collecte": "2026-08-30",
     "publication": "2026-08-30",
-    "maj": "2026-09-18"
+    "maj": "2026-09-19"
   },
   "source": "google-places",
   "redaction": {
