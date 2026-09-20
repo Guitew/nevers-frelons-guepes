@@ -30,7 +30,7 @@
     "longitude": 2.4440470999999997
   },
   "note": 3.7,
-  "avis": 292,
+  "avis": 293,
   "horaires": [
     {
       "jour": 0,
@@ -114,8 +114,8 @@
     "etat": "externe",
     "premiere_detection": null,
     "derniere_detection": null,
-    "derniere_verification": "2026-09-19T13:54:57.712Z",
-    "echecs": 40,
+    "derniere_verification": "2026-09-20T09:45:51.678Z",
+    "echecs": 41,
     "url_detectee": "https://www.magasins-u.com/magasin/uexpress-aurillac.m95196"
   },
   "suggestion": {
@@ -127,7 +127,7 @@
   "dates": {
     "collecte": "2026-09-01",
     "publication": "2026-09-01",
-    "maj": "2026-09-19"
+    "maj": "2026-09-20"
   },
   "source": "google-places",
   "redaction": {

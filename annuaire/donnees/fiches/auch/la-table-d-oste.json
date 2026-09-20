@@ -1,0 +1,210 @@
+{
+  "id": "ChIJ7zRGubmCqRIRHfgFII3UbNg",
+  "slug": "la-table-d-oste",
+  "nom": "La table D'OSTE",
+  "categorie": "restaurants",
+  "categorie_gmb": "Restaurant français",
+  "type_principal": "french_restaurant",
+  "types": [
+    "french_restaurant",
+    "european_restaurant",
+    "restaurant",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "ville": "Auch",
+  "ville_slug": "auch",
+  "adresse": {
+    "rue": "7 Rue Lamartine",
+    "code_postal": "32000",
+    "departement": "32",
+    "region": "Occitanie",
+    "pays": "France",
+    "complete": "7 Rue Lamartine, 32000 Auch"
+  },
+  "telephone": "05 62 05 55 62",
+  "geo": {
+    "latitude": 43.6470718,
+    "longitude": 0.5857294
+  },
+  "note": 4.6,
+  "avis": 833,
+  "horaires": [
+    {
+      "jour": 0,
+      "ferme": false,
+      "creneaux": [
+        [
+          "19:00",
+          "22:30"
+        ]
+      ]
+    },
+    {
+      "jour": 1,
+      "ferme": false,
+      "creneaux": [
+        [
+          "12:00",
+          "14:00"
+        ],
+        [
+          "19:30",
+          "22:00"
+        ]
+      ]
+    },
+    {
+      "jour": 2,
+      "ferme": true,
+      "creneaux": []
+    },
+    {
+      "jour": 3,
+      "ferme": false,
+      "creneaux": [
+        [
+          "12:00",
+          "14:00"
+        ],
+        [
+          "19:30",
+          "22:00"
+        ]
+      ]
+    },
+    {
+      "jour": 4,
+      "ferme": false,
+      "creneaux": [
+        [
+          "12:00",
+          "14:00"
+        ],
+        [
+          "19:30",
+          "22:00"
+        ]
+      ]
+    },
+    {
+      "jour": 5,
+      "ferme": false,
+      "creneaux": [
+        [
+          "12:00",
+          "14:00"
+        ],
+        [
+          "19:30",
+          "22:00"
+        ]
+      ]
+    },
+    {
+      "jour": 6,
+      "ferme": false,
+      "creneaux": [
+        [
+          "12:00",
+          "14:00"
+        ]
+      ]
+    }
+  ],
+  "attributs": [
+    "Entrée accessible en fauteuil roulant",
+    "Parking accessible en fauteuil roulant",
+    "Places assises accessibles en fauteuil roulant"
+  ],
+  "lien_google": "https://maps.google.com/?cid=15595073312269924381&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
+  "site_web_gmb": null,
+  "statut": "publiee",
+  "backlink": {
+    "etat": "absent",
+    "premiere_detection": null,
+    "derniere_detection": null,
+    "derniere_verification": "2026-09-20T09:45:51.678Z",
+    "echecs": 1,
+    "url_detectee": null
+  },
+  "suggestion": {
+    "etat": "en-attente",
+    "date_soumission": null,
+    "tentatives": 0,
+    "date_email": "2026-09-20"
+  },
+  "retrait": null,
+  "dates": {
+    "collecte": "2026-09-20",
+    "publication": "2026-09-20",
+    "maj": "2026-09-20"
+  },
+  "source": "google-places",
+  "redaction": {
+    "titre": "La table D'OSTE — Restaurant à Auch",
+    "meta_titre": "La table D'OSTE, restaurant à Auch",
+    "meta_description": "La table D'OSTE, restaurant à Auch (7 Rue Lamartine) : adresse, horaires, téléphone et informations pratiques.",
+    "chapo": "Cette fiche présente La table D'OSTE, un restaurant au 7 Rue Lamartine, à Auch. Son établissement ne déclare aucun site internet sur sa fiche Google : les informations ci-dessous en tiennent lieu de référence publique, vérifiable et accessible à tous.",
+    "sections": [
+      {
+        "id": "presentation",
+        "titre": "La table D'OSTE en quelques mots",
+        "paragraphes": [
+          "Le choix d'un restaurant se joue sur trois critères : la proximité, les horaires et la facilité de contact.",
+          "Les restaurants figurent parmi les commerces les plus recherchés en ligne, et pourtant beaucoup n'exposent qu'une fiche Google sans site. Retrouver ici leur carte d'identité complète — adresse, horaires, téléphone, spécialités — aide les clients à réserver et aide l'établissement à exister ailleurs que sur une plateforme d'avis.",
+          "D'après le relevé du 20 septembre 2026, l'établissement est ouvert tous les jours sauf le mercredi. Le détail jour par jour figure plus bas."
+        ]
+      },
+      {
+        "id": "acces",
+        "titre": "Adresse et accès",
+        "paragraphes": [
+          "L'établissement est situé au 7 Rue Lamartine, 32000 Auch.",
+          "Coordonnées géographiques : 43.64707, 0.58573. Le lien d'itinéraire ci-dessous ouvre directement la navigation."
+        ]
+      },
+      {
+        "id": "contact",
+        "titre": "Contacter La table D'OSTE",
+        "paragraphes": [
+          "Le contact se fait par téléphone au 05 62 05 55 62. C'est le seul moyen de communication déclaré sur la fiche Google de l'entreprise, avec la visite sur place.",
+          "Si vous dirigez cette entreprise, vous pouvez demander la correction ou le retrait de cette page à tout moment, sans justification."
+        ]
+      },
+      {
+        "id": "avis",
+        "titre": "La réputation de La table D'OSTE",
+        "paragraphes": [
+          "Au relevé du 20 septembre 2026, l'établissement affichait une note de 4,6 sur 5 sur Google, calculée à partir de 833 avis. Cette note évolue en permanence : elle est indiquée ici à titre d'information et n'est pas retraitée.",
+          "Les avis appartiennent à Google et se consultent sur la fiche d'origine, dont le lien figure sur cette page."
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "q": "Quels sont les horaires de La table D'OSTE ?",
+        "r": "Au relevé du 20 septembre 2026, La table D'OSTE était ouvert tous les jours sauf le mercredi. Dans le détail — lundi : de 19 h à 22 h 30 ; mardi : de 12 h à 14 h et de 19 h 30 à 22 h ; mercredi : fermé ; jeudi : de 12 h à 14 h et de 19 h 30 à 22 h ; vendredi : de 12 h à 14 h et de 19 h 30 à 22 h ; samedi : de 12 h à 14 h et de 19 h 30 à 22 h ; dimanche : de 12 h à 14 h. Ces horaires peuvent changer : un appel préalable reste conseillé."
+      },
+      {
+        "q": "Où se trouve La table D'OSTE ?",
+        "r": "La table D'OSTE se trouve 7 Rue Lamartine, 32000 Auch. Un lien d'itinéraire est disponible sur cette page."
+      },
+      {
+        "q": "Comment contacter La table D'OSTE ?",
+        "r": "Par téléphone au 05 62 05 55 62, ou directement sur place aux heures d'ouverture."
+      },
+      {
+        "q": "La table D'OSTE a-t-il un site internet ?",
+        "r": "Non : aucune adresse de site web n'est déclarée sur la fiche Google de La table D'OSTE au 20 septembre 2026. Cette page tient lieu de référence publique en attendant, le cas échéant, la création d'un site propre à l'entreprise."
+      },
+      {
+        "q": "La table D'OSTE est-il accessible aux personnes à mobilité réduite ?",
+        "r": "La fiche Google de l'établissement mentionne : « Entrée accessible en fauteuil roulant ». Cette information est déclarative ; en cas de doute, vérifiez par téléphone."
+      }
+    ],
+    "genere_le": "2026-09-20"
+  },
+  "statut_google": "OPERATIONAL"
+}

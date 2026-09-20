@@ -1,5 +1,125 @@
 [
   {
+    "date": "2026-09-20T09:46:03.663Z",
+    "type": "suggestion-soumise",
+    "id": "ChIJDZdyeRTVwkcRFLiUuiqXlcY",
+    "nom": "LA BUANDERIE LAVERIE AUTOMATIQUE LIBRE SERVICE",
+    "url": "/nettoyage-hygiene/lille/la-buanderie-laverie-automatique-libre-service/"
+  },
+  {
+    "date": "2026-09-20T09:46:03.656Z",
+    "type": "suggestion-soumise",
+    "id": "ChIJnZEM16PvBUgR8nTcjucarUs",
+    "nom": "Laverie Speed Queen Nantes",
+    "url": "/nettoyage-hygiene/nantes/laverie-speed-queen-nantes/"
+  },
+  {
+    "date": "2026-09-20T09:46:03.649Z",
+    "type": "suggestion-soumise",
+    "id": "ChIJC6hHH5XrtRIRrcLPxzOdel4",
+    "nom": "Novatrans AVIGNON",
+    "url": "/transport-demenagement/avignon/novatrans-avignon/"
+  },
+  {
+    "date": "2026-09-20T09:46:03.642Z",
+    "type": "suggestion-soumise",
+    "id": "ChIJr_TZTgCpi0cR8A_f5VYImq8",
+    "nom": "FYSOL SAS",
+    "url": "/transport-demenagement/chambery/fysol-sas/"
+  },
+  {
+    "date": "2026-09-20T09:46:03.633Z",
+    "type": "suggestion-soumise",
+    "id": "ChIJl3PwBJvd5UcRf0nGkITnBQA",
+    "nom": "Station de lavage Kärcher",
+    "url": "/garages-automobile/lisses/station-de-lavage-karcher/"
+  },
+  {
+    "date": "2026-09-20T09:45:51.902Z",
+    "type": "backlink-absent",
+    "id": "ChIJCwIsfYn0ikcRT91Fp6FLi0A",
+    "nom": "BHV Grenoble",
+    "url": null,
+    "precedent": "en-attente"
+  },
+  {
+    "date": "2026-09-20T09:45:51.979Z",
+    "type": "backlink-absent",
+    "id": "ChIJ97ZTqzTeDkgRpnEkcsqOIcQ",
+    "nom": "La Criée marché central",
+    "url": null,
+    "precedent": "en-attente"
+  },
+  {
+    "date": "2026-09-20T09:45:52.052Z",
+    "type": "backlink-absent",
+    "id": "ChIJmSb52_TVEEgRJn1k57jIRLc",
+    "nom": "La Grange",
+    "url": null,
+    "precedent": "en-attente"
+  },
+  {
+    "date": "2026-09-20T09:45:52.124Z",
+    "type": "backlink-absent",
+    "id": "ChIJ7zRGubmCqRIRHfgFII3UbNg",
+    "nom": "La table D'OSTE",
+    "url": null,
+    "precedent": "en-attente"
+  },
+  {
+    "date": "2026-09-20T09:45:52.196Z",
+    "type": "backlink-absent",
+    "id": "ChIJ76dXWKig-0cRYCU0aIResHE",
+    "nom": "Les Jardins d'Italie",
+    "url": null,
+    "precedent": "en-attente"
+  },
+  {
+    "date": "2026-09-20T09:45:51.615Z",
+    "type": "publication",
+    "id": "ChIJ97ZTqzTeDkgRpnEkcsqOIcQ",
+    "nom": "La Criée marché central",
+    "url": "/commerces-alimentation/rennes/la-criee-marche-central/",
+    "categorie": "commerces-alimentation",
+    "source": "google-places"
+  },
+  {
+    "date": "2026-09-20T09:45:51.616Z",
+    "type": "publication",
+    "id": "ChIJCwIsfYn0ikcRT91Fp6FLi0A",
+    "nom": "BHV Grenoble",
+    "url": "/mode-equipement-maison/grenoble/bhv-grenoble/",
+    "categorie": "mode-equipement-maison",
+    "source": "google-places"
+  },
+  {
+    "date": "2026-09-20T09:45:51.616Z",
+    "type": "publication",
+    "id": "ChIJmSb52_TVEEgRJn1k57jIRLc",
+    "nom": "La Grange",
+    "url": "/restaurants/quimper/la-grange/",
+    "categorie": "restaurants",
+    "source": "google-places"
+  },
+  {
+    "date": "2026-09-20T09:45:51.616Z",
+    "type": "publication",
+    "id": "ChIJ7zRGubmCqRIRHfgFII3UbNg",
+    "nom": "La table D'OSTE",
+    "url": "/restaurants/auch/la-table-d-oste/",
+    "categorie": "restaurants",
+    "source": "google-places"
+  },
+  {
+    "date": "2026-09-20T09:45:51.617Z",
+    "type": "publication",
+    "id": "ChIJ76dXWKig-0cRYCU0aIResHE",
+    "nom": "Les Jardins d'Italie",
+    "url": "/restaurants/chateauroux/les-jardins-d-italie/",
+    "categorie": "restaurants",
+    "source": "google-places"
+  },
+  {
     "date": "2026-09-19T13:55:11.222Z",
     "type": "suggestion-soumise",
     "id": "ChIJxwX-xTKc8kcRT3vfn-kMBos",
