@@ -1,0 +1,194 @@
+{
+  "id": "ChIJHSkTbETTqRIR4UtJWjE083g",
+  "slug": "la-petite-bertha",
+  "nom": "La Petite Bertha",
+  "categorie": "cafes-bars",
+  "categorie_gmb": "Bar",
+  "type_principal": "bar",
+  "types": [
+    "bar",
+    "wine_bar",
+    "spanish_restaurant",
+    "european_restaurant",
+    "restaurant",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "ville": "Tarbes",
+  "ville_slug": "tarbes",
+  "adresse": {
+    "rue": "3 Avenue des Tilleuls",
+    "code_postal": "65000",
+    "departement": "65",
+    "region": "Occitanie",
+    "pays": "France",
+    "complete": "3 Av. des Tilleuls, 65000 Tarbes"
+  },
+  "telephone": "",
+  "geo": {
+    "latitude": 43.241863699999996,
+    "longitude": 0.0787995
+  },
+  "note": 3.9,
+  "avis": 211,
+  "horaires": [
+    {
+      "jour": 0,
+      "ferme": true,
+      "creneaux": []
+    },
+    {
+      "jour": 1,
+      "ferme": true,
+      "creneaux": []
+    },
+    {
+      "jour": 2,
+      "ferme": false,
+      "creneaux": [
+        [
+          "11:00",
+          "15:00"
+        ],
+        [
+          "17:00",
+          "02:00"
+        ]
+      ]
+    },
+    {
+      "jour": 3,
+      "ferme": false,
+      "creneaux": [
+        [
+          "11:00",
+          "15:00"
+        ],
+        [
+          "17:00",
+          "02:00"
+        ]
+      ]
+    },
+    {
+      "jour": 4,
+      "ferme": false,
+      "creneaux": [
+        [
+          "11:00",
+          "15:00"
+        ],
+        [
+          "17:00",
+          "02:00"
+        ]
+      ]
+    },
+    {
+      "jour": 5,
+      "ferme": false,
+      "creneaux": [
+        [
+          "17:00",
+          "02:00"
+        ]
+      ]
+    },
+    {
+      "jour": 6,
+      "ferme": true,
+      "creneaux": []
+    }
+  ],
+  "attributs": [
+    "Entrée accessible en fauteuil roulant",
+    "Toilettes accessibles en fauteuil roulant",
+    "Places assises accessibles en fauteuil roulant"
+  ],
+  "lien_google": "https://maps.google.com/?cid=8715367090464836577&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
+  "site_web_gmb": null,
+  "statut": "publiee",
+  "backlink": {
+    "etat": "absent",
+    "premiere_detection": null,
+    "derniere_detection": null,
+    "derniere_verification": "2026-09-20T14:12:21.784Z",
+    "echecs": 1,
+    "url_detectee": null
+  },
+  "suggestion": {
+    "etat": "en-attente",
+    "date_soumission": null,
+    "tentatives": 0,
+    "date_email": "2026-09-20"
+  },
+  "retrait": null,
+  "dates": {
+    "collecte": "2026-09-20",
+    "publication": "2026-09-20",
+    "maj": "2026-09-20"
+  },
+  "source": "google-places",
+  "redaction": {
+    "titre": "La Petite Bertha — Café ou bar à Tarbes",
+    "meta_titre": "La Petite Bertha, café ou bar à Tarbes",
+    "meta_description": "La Petite Bertha, café ou bar à Tarbes (3 Avenue des Tilleuls) : adresse, horaires et informations pratiques.",
+    "chapo": "La Petite Bertha est un café ou bar au 3 Avenue des Tilleuls, à Tarbes. Aucune adresse web n'est renseignée sur sa fiche Google. Cette page rassemble donc, en un seul endroit stable, les informations que les clients recherchent avant de se déplacer.",
+    "sections": [
+      {
+        "id": "presentation",
+        "titre": "La Petite Bertha en quelques mots",
+        "paragraphes": [
+          "Cafés et bars font partie des activités les plus consultées localement sur mobile.",
+          "Les cafés et bars sont des repères de vie locale rarement dotés d'un site. Horaires réels, terrasse, retransmissions sportives, concerts : autant de détails qui décident d'une sortie et qui n'apparaissent nulle part ailleurs de façon lisible.",
+          "D'après le relevé du 20 septembre 2026, l'établissement est fermé le lundi et le mardi et le dimanche. Le détail jour par jour figure plus bas."
+        ]
+      },
+      {
+        "id": "acces",
+        "titre": "Adresse et accès",
+        "paragraphes": [
+          "L'établissement est situé au 3 Avenue des Tilleuls, 65000 Tarbes.",
+          "Coordonnées géographiques : 43.24186, 0.07880. Le lien d'itinéraire ci-dessous ouvre directement la navigation."
+        ]
+      },
+      {
+        "id": "contact",
+        "titre": "Contacter La Petite Bertha",
+        "paragraphes": [
+          "Aucun numéro de téléphone n'est déclaré sur la fiche Google de l'établissement : le contact se fait sur place, aux horaires indiqués.",
+          "Si vous dirigez cette entreprise, vous pouvez demander la correction ou le retrait de cette page à tout moment, sans justification."
+        ]
+      },
+      {
+        "id": "avis",
+        "titre": "La réputation de La Petite Bertha",
+        "paragraphes": [
+          "Au relevé du 20 septembre 2026, l'établissement affichait une note de 3,9 sur 5 sur Google, calculée à partir de 211 avis. Cette note évolue en permanence : elle est indiquée ici à titre d'information et n'est pas retraitée.",
+          "Les avis appartiennent à Google et se consultent sur la fiche d'origine, dont le lien figure sur cette page."
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "q": "Quels sont les horaires de La Petite Bertha ?",
+        "r": "Au relevé du 20 septembre 2026, La Petite Bertha était fermé le lundi et le mardi et le dimanche. Dans le détail — lundi : fermé ; mardi : fermé ; mercredi : de 11 h à 15 h et de 17 h à 2 h ; jeudi : de 11 h à 15 h et de 17 h à 2 h ; vendredi : de 11 h à 15 h et de 17 h à 2 h ; samedi : de 17 h à 2 h ; dimanche : fermé. Ces horaires peuvent changer : un appel préalable reste conseillé."
+      },
+      {
+        "q": "Où se trouve La Petite Bertha ?",
+        "r": "La Petite Bertha se trouve 3 Av. des Tilleuls, 65000 Tarbes. Un lien d'itinéraire est disponible sur cette page."
+      },
+      {
+        "q": "La Petite Bertha a-t-il un site internet ?",
+        "r": "Non : aucune adresse de site web n'est déclarée sur la fiche Google de La Petite Bertha au 20 septembre 2026. Cette page tient lieu de référence publique en attendant, le cas échéant, la création d'un site propre à l'entreprise."
+      },
+      {
+        "q": "La Petite Bertha est-il accessible aux personnes à mobilité réduite ?",
+        "r": "La fiche Google de l'établissement mentionne : « Entrée accessible en fauteuil roulant ». Cette information est déclarative ; en cas de doute, vérifiez par téléphone."
+      }
+    ],
+    "genere_le": "2026-09-20"
+  },
+  "statut_google": "OPERATIONAL"
+}
