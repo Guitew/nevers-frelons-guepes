@@ -51,6 +51,7 @@ avant la mise en service réelle.
 |---|---|
 | `npm run collecte` | repère `fichesParJour` entreprises sans site web et rédige leur page |
 | `npm run backlinks` | relit les fiches Google et met à jour l'état du lien |
+| `npm run audience` | relève clics et impressions Search Console par page (ignoré sans compte de service) |
 | `npm run retraits` | applique les 301 / 410 (option `--essai` pour simuler) |
 | `npm run build` | régénère le site **et le `.htaccess`** (redirections comprises) |
 | `npm run indexation` | soumet les URLs modifiées à IndexNow |
@@ -113,6 +114,11 @@ la seule barrière qui la voie.
 | `backlinks.modeRetraitSiJamaisLie` | `410` — lien jamais posé après le délai de grâce |
 | `backlinks.joursConservation410` | durée de vie d'une règle 410 avant purge (180 j) |
 | `backlinks.joursConservation301` | durée de vie d'une règle 301 avant purge (365 j) |
+| `audience.fenetreJours` | fenêtre du relevé Search Console (90 j) |
+| `audience.clicsProtection` | à partir de ce nombre de clics sur la fenêtre, la page n'est jamais retirée automatiquement (1) |
+| `audience.impressionsProlongation` | à partir de ce nombre d'impressions, le délai de grâce est prolongé (100) |
+| `audience.prolongationJours` | durée de cette prolongation (45 j) |
+| `audience.fraicheurJours` | au-delà, un relevé d'audience ne compte plus (7 j) |
 
 ### `donnees/site.json` — l'identité et l'adresse du site
 
@@ -277,6 +283,26 @@ Le projet a été éprouvé sur un jeu synthétique de **3 000 fiches** (cinq mo
 
 La compression (`mod_deflate`) est configurée dans le `.htaccess` généré et couvre HTML, CSS, JS,
 JSON, XML et Markdown : c'est elle qui rend acceptables l'index de recherche et les sitemaps.
+
+## L'audience Search Console tempère les retraits
+
+Le contrat de base est simple : pas de lien GMB, pas de page. Mais une page que Google envoie
+déjà à des visiteurs remplit sa mission, lien ou non, et la retirer détruirait ce trafic. Le relevé
+quotidien `outils/audience.mjs` interroge donc l'API Search Console de la propriété du site et
+inscrit sur chaque fiche ses clics, impressions et position des 90 derniers jours.
+
+- **Des clics** (au moins `audience.clicsProtection`) : la page n'est jamais retirée
+  automatiquement, ni en 301 ni en 410. Seule exception : la fiche Google a disparu
+  (établissement fermé), auquel cas la page serait trompeuse.
+- **Des impressions sans clic** (au moins `audience.impressionsProlongation`) : Google juge la
+  page pertinente mais elle ne convainc pas encore. Le délai de grâce est prolongé de
+  `audience.prolongationJours`, pas annulé : garder indéfiniment des pages vues mais jamais
+  cliquées accumulerait du contenu faible, ce qui pèse sur la réputation de tout le site.
+- Un relevé plus vieux que `audience.fraicheurJours` ne compte plus : si l'étape Search Console
+  tombe en panne, la protection s'éteint d'elle-même au lieu de figer le site.
+
+Sans compte de service, l'étape est ignorée et la politique de backlink s'applique seule. Mise en
+place : voir [DEPLOIEMENT.md](./DEPLOIEMENT.md), section Search Console.
 
 ## Retraits : 301 ou 410 ?
 

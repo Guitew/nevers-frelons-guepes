@@ -15,6 +15,42 @@ import { joursDepuis } from "./texte.mjs";
 const PERDUS = ["absent", "externe", "introuvable"];
 
 /**
+ * Le relevé d'audience de la fiche est-il exploitable ?
+ * Un relevé absent ou trop ancien (étape Search Console en panne, secret
+ * retiré) ne doit pas protéger une page indéfiniment.
+ */
+function audienceValide(fiche, audience, maintenant) {
+  if (!audience || !fiche.audience?.date) return false;
+  const age = joursDepuis(fiche.audience.date, maintenant);
+  return age !== null && age <= (audience.fraicheurJours ?? 7);
+}
+
+/**
+ * La page reçoit-elle des clics depuis Google ? Une page qui amène des
+ * visiteurs remplit sa mission, lien GMB ou non : on ne la retire pas.
+ * @returns {{clics: number}|null}
+ */
+export function estProtegee(fiche, audience, maintenant = new Date()) {
+  if (!audienceValide(fiche, audience, maintenant)) return null;
+  const seuil = audience.clicsProtection ?? 1;
+  const clics = fiche.audience.clics || 0;
+  return seuil > 0 && clics >= seuil ? { clics } : null;
+}
+
+/**
+ * Délai de grâce effectif d'une fiche jamais liée : le délai de base, prolongé
+ * si Google montre déjà la page dans ses résultats (impressions).
+ */
+export function delaiDeGrace(fiche, reglages, maintenant = new Date()) {
+  const base = reglages.delaiDeGraceJours;
+  const audience = reglages.audience;
+  if (!audienceValide(fiche, audience, maintenant)) return base;
+  const seuil = audience.impressionsProlongation ?? 0;
+  const impressions = fiche.audience.impressions || 0;
+  return seuil > 0 && impressions >= seuil ? base + (audience.prolongationJours || 0) : base;
+}
+
+/**
  * Faut-il retirer cette fiche publiée ?
  * @returns {{mode: "301"|"410", motif: string}|null}
  */
@@ -30,6 +66,9 @@ export function deciderRetrait(fiche, reglages, maintenant = new Date()) {
   if (!PERDUS.includes(bl.etat)) return null;
   if (echecs < reglages.echecsAvantRetrait) return null;
 
+  // La page amène des visiteurs depuis Google : elle reste en ligne.
+  if (estProtegee(fiche, reglages.audience, maintenant)) return null;
+
   // Le lien a existé : l'URL a de la valeur, on la redirige.
   if (bl.premiere_detection) {
     return {
@@ -41,9 +80,10 @@ export function deciderRetrait(fiche, reglages, maintenant = new Date()) {
     };
   }
 
-  // Le lien n'a jamais été posé : délai de grâce, puis retrait sec.
+  // Le lien n'a jamais été posé : délai de grâce (prolongé si Google montre
+  // déjà la page dans ses résultats), puis retrait sec.
   const age = joursDepuis(fiche.dates?.publication, maintenant);
-  if (age !== null && age >= reglages.delaiDeGraceJours) {
+  if (age !== null && age >= delaiDeGrace(fiche, reglages, maintenant)) {
     return {
       mode: reglages.modeRetraitSiJamaisLie,
       motif: `backlink jamais posé après ${age} jours de délai de grâce`,

@@ -16,6 +16,8 @@ name: Annuaire — collecte quotidienne
 # Secrets attendus :
 #   GOOGLE_PLACES_API_KEY  clé de l'API Google Places (New)
 #   BREVO_API_KEY          clé Brevo pour l'envoi des emails de suggestion GMB
+#   GOOGLE_SEARCH_CONSOLE_SERVICE_ACCOUNT  compte de service (JSON base64) lecteur
+#                          de la propriété Search Console — optionnel
 
 on:
   schedule:
@@ -63,6 +65,13 @@ jobs:
         env:
           GOOGLE_PLACES_API_KEY: ${{ secrets.GOOGLE_PLACES_API_KEY }}
         run: node outils/backlinks.mjs
+
+      # Relevé Search Console : clics et impressions des 90 derniers jours par
+      # page. Ignoré sans erreur si le secret est absent.
+      - name: Relever l'audience Search Console
+        env:
+          GOOGLE_SEARCH_CONSOLE_SERVICE_ACCOUNT: ${{ secrets.GOOGLE_SEARCH_CONSOLE_SERVICE_ACCOUNT }}
+        run: node outils/audience.mjs
 
       - name: Appliquer les retraits (301 / 410)
         run: node outils/retraits.mjs

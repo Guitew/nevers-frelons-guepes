@@ -13,9 +13,10 @@
     "collecte": "node outils/collecte.mjs",
     "backlinks": "node outils/backlinks.mjs",
     "retraits": "node outils/retraits.mjs",
+    "audience": "node outils/audience.mjs",
     "indexation": "node outils/indexation.mjs",
     "etat": "node outils/etat.mjs",
-    "quotidien": "npm run collecte && npm run backlinks && npm run retraits",
+    "quotidien": "npm run collecte && npm run backlinks && npm run audience && npm run retraits",
     "verifier": "node outils/verifier.mjs",
     "controle": "npm test && npm run build && npm run verifier",
     "test": "node --test \"outils/tests/*.test.mjs\""
