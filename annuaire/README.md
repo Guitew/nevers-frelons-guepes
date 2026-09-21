@@ -53,6 +53,7 @@ avant la mise en service réelle.
 | `npm run backlinks` | relit les fiches Google et met à jour l'état du lien |
 | `npm run search-console` | met en place l'accès Search Console (vérification, propriété, copropriétaires) |
 | `npm run audience` | relève clics et impressions Search Console par page (ignoré sans compte de service) |
+| `npm run couverture` | inspecte l'indexation des pages assez âgées (API d'inspection d'URL) |
 | `npm run retraits` | applique les 301 / 410 (option `--essai` pour simuler) |
 | `npm run build` | régénère le site **et le `.htaccess`** (redirections comprises) |
 | `npm run indexation` | soumet les URLs modifiées à IndexNow |
@@ -120,6 +121,10 @@ la seule barrière qui la voie.
 | `audience.impressionsProlongation` | à partir de ce nombre d'impressions, le délai de grâce est prolongé (100) |
 | `audience.prolongationJours` | durée de cette prolongation (45 j) |
 | `audience.fraicheurJours` | au-delà, un relevé d'audience ne compte plus (7 j) |
+| `couverture.retraitSiNonIndexeeJours` | âge à partir duquel une page non indexée est retirée (45 j) |
+| `couverture.ageMinimumInspectionJours` | on n'inspecte pas une page plus jeune (38 j) |
+| `couverture.inspectionsParJour` | inspections d'URL par jour, sous le quota Google de 2 000 (200) |
+| `couverture.fraicheurJours` | au-delà, un verdict d'indexation ne fonde plus un retrait (7 j) |
 
 ### `donnees/site.json` — l'identité et l'adresse du site
 
@@ -305,6 +310,27 @@ inscrit sur chaque fiche ses clics, impressions et position des 90 derniers jour
 Sans compte de service, l'étape est ignorée et la politique de backlink s'applique seule. Avec un
 compte de service en secret, `outils/search-console.mjs` vérifie le site, déclare la propriété et
 ajoute les copropriétaires humains tout seul : voir [DEPLOIEMENT.md](./DEPLOIEMENT.md).
+
+## Les pages que Google n'indexe pas sont retirées
+
+Une page que Google refuse toujours d'indexer 45 jours après sa mise en ligne ne rapportera rien,
+et les pages « explorées, actuellement non indexées » qui s'accumulent sont un signal de faible
+qualité pour tout le site. Le cycle quotidien (`outils/couverture.mjs`) établit donc la couverture
+réelle : une page avec des impressions récentes est indexée par définition, sans appel ; les autres
+pages assez âgées sont soumises à l'API d'inspection d'URL de la Search Console (verdict `PASS` =
+indexée), les jamais inspectées d'abord, dans la limite de `couverture.inspectionsParJour`.
+
+Le retrait qui en découle est le plus propre possible pour les moteurs :
+
+- **410 Gone** si aucun lien GMB n'a jamais existé : la page disparaît du sitemap, du maillage
+  interne et des flux à la compilation suivante, l'URL répond 410 (page d'erreur dédiée), et elle
+  est soumise en suppression à IndexNow ;
+- **301 vers la page catégorie** si un lien GMB a existé : les visiteurs venus de la fiche Google
+  atterrissent sur une liste utile plutôt que sur une porte fermée ;
+- la page **n'est pas republiée** si le lien revient : Google la refuserait à nouveau ;
+- un verdict de plus de `couverture.fraicheurJours` ne fonde jamais un retrait : si l'inspection
+  tombe en panne, la règle s'éteint au lieu de retirer à l'aveugle ;
+- une page avec des clics reste en ligne (elle est indexée par définition).
 
 ## Retraits : 301 ou 410 ?
 

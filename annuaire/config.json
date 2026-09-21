@@ -41,6 +41,14 @@
     "prolongationJours": 45
   },
 
+  "couverture": {
+    "_lisezmoi": "Inspection d'indexation (outils/couverture.mjs). Une page publiée depuis retraitSiNonIndexeeJours que Google n'indexe pas (verdict récent, fraicheurJours) est retirée : 410, ou 301 vers la catégorie si un lien GMB a existé. Les pages avec impressions sont réputées indexées sans appel ; les autres sont inspectées à partir de ageMinimumInspectionJours, inspectionsParJour au plus.",
+    "retraitSiNonIndexeeJours": 45,
+    "ageMinimumInspectionJours": 38,
+    "inspectionsParJour": 200,
+    "fraicheurJours": 7
+  },
+
   "indexation": {
     "indexnow": true,
     "googleIndexingApi": false,

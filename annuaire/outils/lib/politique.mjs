@@ -11,6 +11,7 @@
  */
 
 import { joursDepuis } from "./texte.mjs";
+import { estNonIndexee } from "./couverture.mjs";
 
 const PERDUS = ["absent", "externe", "introuvable"];
 
@@ -63,11 +64,24 @@ export function deciderRetrait(fiche, reglages, maintenant = new Date()) {
     return { mode: "410", motif: "fiche Google introuvable (établissement fermé ou supprimé)" };
   }
 
-  if (!PERDUS.includes(bl.etat)) return null;
-  if (echecs < reglages.echecsAvantRetrait) return null;
-
   // La page amène des visiteurs depuis Google : elle reste en ligne.
   if (estProtegee(fiche, reglages.audience, maintenant)) return null;
+
+  // Google refuse d'indexer la page depuis assez longtemps : elle ne rapportera
+  // rien et alourdit le site. Retrait quel que soit l'état du lien GMB — mais
+  // si un lien a existé, des visiteurs peuvent encore arriver par la fiche
+  // Google : on les redirige vers la catégorie plutôt que de leur fermer la porte.
+  if (reglages.couverture && estNonIndexee(fiche, reglages.couverture, maintenant)) {
+    const lie = !!bl.premiere_detection;
+    return {
+      mode: lie ? reglages.modeRetraitParDefaut : "410",
+      cause: "non-indexee",
+      motif: `page non indexée par Google ${joursDepuis(fiche.dates?.publication, maintenant)} jours après sa mise en ligne (${fiche.indexation?.couverture || fiche.indexation?.verdict || "verdict"})`,
+    };
+  }
+
+  if (!PERDUS.includes(bl.etat)) return null;
+  if (echecs < reglages.echecsAvantRetrait) return null;
 
   // Le lien a existé : l'URL a de la valeur, on la redirige.
   if (bl.premiere_detection) {
@@ -111,8 +125,14 @@ export function deciderArchivage(fiche, reglages, maintenant = new Date()) {
 
 /**
  * Une fiche retirée dont le lien réapparaît revient en ligne — sauf si son
- * retrait résultait d'une demande explicite du dirigeant, qui prime sur tout.
+ * retrait résultait d'une demande explicite du dirigeant, qui prime sur tout,
+ * ou d'un défaut d'indexation : le lien n'y changeait rien avant le retrait,
+ * republier la même page reproduirait le même refus de Google.
  */
 export function deciderRepublication(fiche) {
-  return fiche.backlink?.etat === "present" && fiche.retrait?.motif !== "retrait manuel";
+  return (
+    fiche.backlink?.etat === "present" &&
+    fiche.retrait?.motif !== "retrait manuel" &&
+    fiche.retrait?.cause !== "non-indexee"
+  );
 }

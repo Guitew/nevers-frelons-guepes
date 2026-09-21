@@ -15,9 +15,10 @@
     "retraits": "node outils/retraits.mjs",
     "search-console": "node outils/search-console.mjs",
     "audience": "node outils/audience.mjs",
+    "couverture": "node outils/couverture.mjs",
     "indexation": "node outils/indexation.mjs",
     "etat": "node outils/etat.mjs",
-    "quotidien": "npm run collecte && npm run backlinks && npm run audience && npm run retraits",
+    "quotidien": "npm run collecte && npm run backlinks && npm run audience && npm run couverture && npm run retraits",
     "verifier": "node outils/verifier.mjs",
     "controle": "npm test && npm run build && npm run verifier",
     "test": "node --test \"outils/tests/*.test.mjs\""

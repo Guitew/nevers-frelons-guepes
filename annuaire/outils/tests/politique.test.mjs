@@ -176,3 +176,50 @@ test("sans relevé d'audience, la politique de backlink s'applique telle quelle"
   const f = fiche({ etat: "absent", echecs: 30 }, { publication: "2026-06-01" });
   assert.equal(deciderRetrait(f, AVEC_AUDIENCE, MAINTENANT).mode, "410");
 });
+
+// ---------------------------------------------------------------------------
+//  Couverture : une page que Google n'indexe pas est retirée proprement
+// ---------------------------------------------------------------------------
+const COUVERTURE = { retraitSiNonIndexeeJours: 45, fraicheurJours: 7 };
+const AVEC_COUVERTURE = { ...REGLAGES, audience: AUDIENCE, couverture: COUVERTURE };
+const NON_INDEXEE = { etat: "non-indexee", couverture: "Crawled - currently not indexed", date: RELEVE };
+
+test("une page jamais liée et non indexée à 45 jours part en 410", () => {
+  const f = fiche({ etat: "absent", echecs: 30 }, { publication: "2026-06-20" }, { indexation: NON_INDEXEE });
+  const d = deciderRetrait(f, AVEC_COUVERTURE, MAINTENANT);
+  assert.equal(d.mode, "410");
+  assert.equal(d.cause, "non-indexee");
+  assert.match(d.motif, /non indexée par Google 60 jours/);
+});
+
+test("une page non indexée mais dont le lien GMB existe est redirigée en 301, pas supprimée", () => {
+  const f = fiche({ etat: "present", echecs: 0, premiere_detection: "2026-07-01" }, { publication: "2026-06-20" }, { indexation: NON_INDEXEE });
+  assert.equal(deciderRetrait(f, REGLAGES, MAINTENANT), null, "sans la règle : un lien présent protège");
+  const d = deciderRetrait(f, AVEC_COUVERTURE, MAINTENANT);
+  assert.equal(d.mode, "301");
+  assert.equal(d.cause, "non-indexee");
+});
+
+test("les clics protègent aussi d'un retrait pour défaut d'indexation", () => {
+  const f = fiche({ etat: "absent", echecs: 30 }, { publication: "2026-06-20" }, {
+    indexation: NON_INDEXEE,
+    audience: { clics: 3, impressions: 40, date: RELEVE },
+  });
+  assert.equal(deciderRetrait(f, AVEC_COUVERTURE, MAINTENANT), null);
+});
+
+test("une page indexée, liée, reste en ligne ; non inspectée, la règle ne s'applique pas", () => {
+  const liee = fiche({ etat: "present", premiere_detection: "2026-07-01" }, { publication: "2026-06-20" }, {
+    indexation: { etat: "indexee", date: RELEVE },
+  });
+  assert.equal(deciderRetrait(liee, AVEC_COUVERTURE, MAINTENANT), null);
+  const inconnue = fiche({ etat: "present", premiere_detection: "2026-07-01" }, { publication: "2026-06-20" });
+  assert.equal(deciderRetrait(inconnue, AVEC_COUVERTURE, MAINTENANT), null);
+});
+
+test("une page retirée pour défaut d'indexation n'est pas republiée quand le lien revient", () => {
+  const f = fiche({ etat: "present" }, {}, { retrait: { mode: "301", cause: "non-indexee", motif: "page non indexée…" } });
+  assert.equal(deciderRepublication(f), false);
+  const g = fiche({ etat: "present" }, {}, { retrait: { mode: "301", motif: "backlink GMB retiré" } });
+  assert.equal(deciderRepublication(g), true);
+});
