@@ -92,8 +92,11 @@ fiches collectées ne sont jamais mises en ligne (404 sur toutes les URLs suggé
 8. **Pas de grattage de Google Maps** — API officielle uniquement, ou fournisseurs csv/simulation.
 10. **Une page avec des clics Google ne se retire pas automatiquement** (`politique.mjs`,
     `estProtegee`), sauf fiche Google disparue ; des impressions prolongent seulement le délai de
-    grâce. Le relevé (`audience.mjs`, secret `GOOGLE_SEARCH_CONSOLE_SERVICE_ACCOUNT`) doit rester
-    optionnel et périmer (`fraicheurJours`) : une panne ne doit jamais figer les retraits.
+    grâce. Le relevé (`audience.mjs`) doit rester optionnel et périmer (`fraicheurJours`) : une
+    panne ne doit jamais figer les retraits. Authentification Google SANS clé : Workload Identity
+    (`google-github-actions/auth` → `GOOGLE_ACCESS_TOKEN`), valeurs dans le bloc `env:` du workflow
+    quotidien, produites par `outils/installer-google.sh` (Cloud Shell). L'organisation Google
+    Cloud interdit les clés de compte de service : ne jamais en redemander une.
 9. **Un slug de catégorie ne se renomme pas sans alias.** `categories.json` accepte une clé `alias`
    (anciennes ou fausses orthographes) : chaque alias produit une règle 301 dans le `.htaccess`
    (test + verifier). La page 404 redirige aussi vers la fiche dont l'identifiant correspond.

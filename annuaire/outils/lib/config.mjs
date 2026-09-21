@@ -13,6 +13,9 @@ export const config = {
     // Le même compte de service peut servir aux deux API : repli sur l'autre.
     googleSearchConsole:
       process.env.GOOGLE_SEARCH_CONSOLE_SERVICE_ACCOUNT || process.env.GOOGLE_INDEXING_SERVICE_ACCOUNT || "",
+    // Jeton d'accès émis par Workload Identity Federation (GitHub Actions) :
+    // pas de clé à stocker. Prioritaire sur les comptes de service ci-dessus.
+    googleAccessToken: process.env.GOOGLE_ACCESS_TOKEN || "",
   },
 };
 
