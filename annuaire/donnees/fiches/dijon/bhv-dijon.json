@@ -1,0 +1,193 @@
+{
+  "id": "ChIJZZpF2-ud8kcRFQb_psiEx9k",
+  "slug": "bhv-dijon",
+  "nom": "BHV Dijon",
+  "categorie": "mode-equipement-maison",
+  "categorie_gmb": "Grand magasin",
+  "type_principal": "department_store",
+  "types": [
+    "department_store",
+    "womens_clothing_store",
+    "shoe_store",
+    "clothing_store",
+    "store",
+    "point_of_interest",
+    "establishment"
+  ],
+  "ville": "Dijon",
+  "ville_slug": "dijon",
+  "adresse": {
+    "rue": "41-49 Rue de la Liberté",
+    "code_postal": "21000",
+    "departement": "21",
+    "region": "Bourgogne-Franche-Comté",
+    "pays": "France",
+    "complete": "41-49 Rue de la Liberté, 21000 Dijon"
+  },
+  "telephone": "03 80 44 82 12",
+  "geo": {
+    "latitude": 47.322520700000005,
+    "longitude": 5.0371733
+  },
+  "note": 4.2,
+  "avis": 4495,
+  "horaires": [
+    {
+      "jour": 0,
+      "ferme": false,
+      "creneaux": [
+        [
+          "10:00",
+          "19:00"
+        ]
+      ]
+    },
+    {
+      "jour": 1,
+      "ferme": false,
+      "creneaux": [
+        [
+          "10:00",
+          "19:00"
+        ]
+      ]
+    },
+    {
+      "jour": 2,
+      "ferme": false,
+      "creneaux": [
+        [
+          "10:00",
+          "19:00"
+        ]
+      ]
+    },
+    {
+      "jour": 3,
+      "ferme": false,
+      "creneaux": [
+        [
+          "10:00",
+          "19:00"
+        ]
+      ]
+    },
+    {
+      "jour": 4,
+      "ferme": false,
+      "creneaux": [
+        [
+          "10:00",
+          "19:00"
+        ]
+      ]
+    },
+    {
+      "jour": 5,
+      "ferme": false,
+      "creneaux": [
+        [
+          "10:00",
+          "19:30"
+        ]
+      ]
+    },
+    {
+      "jour": 6,
+      "ferme": true,
+      "creneaux": []
+    }
+  ],
+  "attributs": [
+    "Entrée accessible en fauteuil roulant"
+  ],
+  "lien_google": "https://maps.google.com/?cid=15692657423925839381&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
+  "site_web_gmb": null,
+  "statut": "publiee",
+  "backlink": {
+    "etat": "absent",
+    "premiere_detection": null,
+    "derniere_detection": null,
+    "derniere_verification": "2026-09-21T16:27:39.109Z",
+    "echecs": 1,
+    "url_detectee": null
+  },
+  "suggestion": {
+    "etat": "en-attente",
+    "date_soumission": null,
+    "tentatives": 0,
+    "date_email": "2026-09-21"
+  },
+  "retrait": null,
+  "dates": {
+    "collecte": "2026-09-21",
+    "publication": "2026-09-21",
+    "maj": "2026-09-21"
+  },
+  "source": "google-places",
+  "redaction": {
+    "titre": "BHV Dijon — Mode et équipement de la maison à Dijon",
+    "meta_titre": "BHV Dijon, mode et équipement de la maison à Dijon",
+    "meta_description": "BHV Dijon, mode et équipement de la maison à Dijon (41-49 Rue de la Liberté) : adresse, horaires, téléphone et informations pratiques.",
+    "chapo": "Cette fiche présente BHV Dijon, une mode et équipement de la maison au 41-49 Rue de la Liberté, à Dijon. Son établissement ne déclare aucun site internet sur sa fiche Google : les informations ci-dessous en tiennent lieu de référence publique, vérifiable et accessible à tous.",
+    "sections": [
+      {
+        "id": "presentation",
+        "titre": "BHV Dijon en quelques mots",
+        "paragraphes": [
+          "À Dijon, les recherches du type « mode et équipement de la maison près de chez moi » se concluent le plus souvent par un appel ou une visite directe.",
+          "Les boutiques indépendantes affrontent la concurrence du commerce en ligne sans en avoir les armes. Une page bien structurée les replace dans les résultats de recherche locaux, là où se décide encore une part importante des achats.",
+          "D'après le relevé du 21 septembre 2026, l'établissement est ouvert tous les jours sauf le dimanche. Le détail jour par jour figure plus bas."
+        ]
+      },
+      {
+        "id": "acces",
+        "titre": "Adresse et accès",
+        "paragraphes": [
+          "L'établissement est situé au 41-49 Rue de la Liberté, 21000 Dijon.",
+          "Coordonnées géographiques : 47.32252, 5.03717. Le lien d'itinéraire ci-dessous ouvre directement la navigation."
+        ]
+      },
+      {
+        "id": "contact",
+        "titre": "Contacter BHV Dijon",
+        "paragraphes": [
+          "Le contact se fait par téléphone au 03 80 44 82 12. C'est le seul moyen de communication déclaré sur la fiche Google de l'entreprise, avec la visite sur place.",
+          "Si vous dirigez cette entreprise, vous pouvez demander la correction ou le retrait de cette page à tout moment, sans justification."
+        ]
+      },
+      {
+        "id": "avis",
+        "titre": "La réputation de BHV Dijon",
+        "paragraphes": [
+          "Au relevé du 21 septembre 2026, l'établissement affichait une note de 4,2 sur 5 sur Google, calculée à partir de 4495 avis. Cette note évolue en permanence : elle est indiquée ici à titre d'information et n'est pas retraitée.",
+          "Les avis appartiennent à Google et se consultent sur la fiche d'origine, dont le lien figure sur cette page."
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "q": "Quels sont les horaires de BHV Dijon ?",
+        "r": "Au relevé du 21 septembre 2026, BHV Dijon était ouvert tous les jours sauf le dimanche. Dans le détail — lundi : de 10 h à 19 h ; mardi : de 10 h à 19 h ; mercredi : de 10 h à 19 h ; jeudi : de 10 h à 19 h ; vendredi : de 10 h à 19 h ; samedi : de 10 h à 19 h 30 ; dimanche : fermé. Ces horaires peuvent changer : un appel préalable reste conseillé."
+      },
+      {
+        "q": "Où se trouve BHV Dijon ?",
+        "r": "BHV Dijon se trouve 41-49 Rue de la Liberté, 21000 Dijon. Un lien d'itinéraire est disponible sur cette page."
+      },
+      {
+        "q": "Comment contacter BHV Dijon ?",
+        "r": "Par téléphone au 03 80 44 82 12, ou directement sur place aux heures d'ouverture."
+      },
+      {
+        "q": "BHV Dijon a-t-il un site internet ?",
+        "r": "Non : aucune adresse de site web n'est déclarée sur la fiche Google de BHV Dijon au 21 septembre 2026. Cette page tient lieu de référence publique en attendant, le cas échéant, la création d'un site propre à l'entreprise."
+      },
+      {
+        "q": "BHV Dijon est-il accessible aux personnes à mobilité réduite ?",
+        "r": "La fiche Google de l'établissement mentionne : « Entrée accessible en fauteuil roulant ». Cette information est déclarative ; en cas de doute, vérifiez par téléphone."
+      }
+    ],
+    "genere_le": "2026-09-21"
+  },
+  "statut_google": "OPERATIONAL"
+}
