@@ -68,6 +68,13 @@ jobs:
 
       # Relevé Search Console : clics et impressions des 90 derniers jours par
       # page. Ignoré sans erreur si le secret est absent.
+      # Mise en place automatique de l'accès Search Console (vérification du
+      # site, déclaration de la propriété, copropriétaires). Idempotent.
+      - name: Préparer l'accès Search Console
+        env:
+          GOOGLE_SEARCH_CONSOLE_SERVICE_ACCOUNT: ${{ secrets.GOOGLE_SEARCH_CONSOLE_SERVICE_ACCOUNT }}
+        run: node outils/search-console.mjs
+
       - name: Relever l'audience Search Console
         env:
           GOOGLE_SEARCH_CONSOLE_SERVICE_ACCOUNT: ${{ secrets.GOOGLE_SEARCH_CONSOLE_SERVICE_ACCOUNT }}

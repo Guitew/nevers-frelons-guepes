@@ -44,7 +44,7 @@ annuaire/
 │   ├── progression.json      curseur d'exploration par zone
 │   └── journal.json          historique des événements
 ├── outils/
-│   ├── collecte.mjs · backlinks.mjs · audience.mjs · retraits.mjs · indexation.mjs · etat.mjs · verifier.mjs
+│   ├── collecte.mjs · backlinks.mjs · search-console.mjs · audience.mjs · retraits.mjs · indexation.mjs · etat.mjs · verifier.mjs
 │   ├── lib/                  politique.mjs, maillage.mjs, national.mjs, google-auth.mjs, redaction.mjs, site.mjs, schema.mjs,
 │   │                         pilotage.mjs, fiches.mjs, categories.mjs, texte.mjs, journal.mjs
 │   ├── lib/fournisseurs/     google-places.mjs, csv.mjs, simulation.mjs

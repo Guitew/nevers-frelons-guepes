@@ -142,30 +142,38 @@ données à sauvegarder, aucun état hors du dépôt.
 
 ## Search Console : protéger du retrait les pages qui reçoivent des clics
 
-Le cycle quotidien peut relever, pour chaque page, ses clics et impressions Google des 90 derniers
-jours (`outils/audience.mjs`). Une page qui reçoit des clics n'est alors jamais retirée
-automatiquement. Trois étapes, une seule fois :
+Le cycle quotidien relève, pour chaque page, ses clics et impressions Google des 90 derniers jours
+(`outils/audience.mjs`). Une page qui reçoit des clics n'est alors jamais retirée automatiquement.
 
-1. **Créer la propriété Search Console** sur <https://search.google.com/search-console> : type
-   « Préfixe d'URL », valeur exacte `https://andpro.fr/vitrine-locale/` (avec la barre finale).
-   Valider par la balise HTML : coller le code dans `donnees/site.json` → `verifGoogle`, déployer,
-   puis cliquer « Valider ».
-2. **Créer un compte de service** dans Google Cloud (<https://console.cloud.google.com/> → IAM et
-   administration → Comptes de service → Créer), sans rôle particulier, puis « Clés » → « Ajouter
-   une clé » → JSON. Activer l'API « Google Search Console API » dans le même projet.
-   Dans la Search Console, Paramètres → Utilisateurs et autorisations → Ajouter un utilisateur :
-   l'adresse du compte de service (`…@….iam.gserviceaccount.com`), autorisation « Complète » ou
-   « Restreinte » (la lecture suffit).
-3. **Créer le secret GitHub** `GOOGLE_SEARCH_CONSOLE_SERVICE_ACCOUNT` (Settings → Secrets and
-   variables → Actions) avec le fichier JSON encodé en base64 sur une seule ligne :
+**Tout est automatique sauf la création du compte de service**, qui exige une connexion à votre
+compte Google. Une fois son JSON en secret, le cycle quotidien (`outils/search-console.mjs`)
+obtient un jeton de vérification, l'inscrit dans `site.json`, le déploie, vérifie le site, déclare
+la propriété `https://andpro.fr/vitrine-locale/` dans la Search Console et ajoute les adresses de
+`config.audience.proprietaires` comme copropriétaires, pour que la propriété apparaisse dans
+votre propre Search Console. Comptez deux cycles (un jour) entre le secret et le premier relevé.
+
+### Les deux gestes à faire une fois
+
+1. **Créer le compte de service et sa clé**, dans le projet Google Cloud qui héberge déjà la clé
+   Places : <https://console.cloud.google.com/iam-admin/serviceaccounts/create> — un nom
+   (« vitrine-locale »), « Créer et continuer », pas de rôle, « OK ». Ouvrir le compte créé →
+   onglet « Clés » → « Ajouter une clé » → « Créer une clé » → JSON : un fichier se télécharge.
+   Puis activer deux API dans le même projet, bouton « Activer » sur chacune :
+   <https://console.cloud.google.com/apis/library/searchconsole.googleapis.com> et
+   <https://console.cloud.google.com/apis/library/siteverification.googleapis.com>.
+2. **Créer le secret GitHub** `GOOGLE_SEARCH_CONSOLE_SERVICE_ACCOUNT` :
+   <https://github.com/Guitew/nevers-frelons-guepes/settings/secrets/actions/new>, avec pour
+   valeur le fichier JSON encodé en base64 sur une seule ligne :
 
    ```bash
-   base64 -w0 compte-de-service.json
+   base64 -w0 le-fichier-telecharge.json      # Linux
+   base64 -i le-fichier-telecharge.json | tr -d '\n'   # macOS
    ```
 
-   Si `GOOGLE_INDEXING_SERVICE_ACCOUNT` existe déjà avec le même compte, il est réutilisé.
+   Sous Windows, dans PowerShell :
+   `[Convert]::ToBase64String([IO.File]::ReadAllBytes("le-fichier-telecharge.json"))`.
 
-Vérification : au cycle suivant, l'étape « Relever l'audience Search Console » affiche le nombre de
-pages avec impressions et les quinze premières par clics. Les données Search Console ont deux à
-trois jours de retard, le relevé s'arrête donc à J-3. Tant que le secret est absent, l'étape est
-ignorée sans erreur et seule la règle de backlink s'applique.
+Vérification : au cycle suivant, l'étape « Préparer l'accès Search Console » affiche « jeton-ecrit »,
+puis « verifiee » le lendemain, et « Relever l'audience Search Console » liste les pages avec
+impressions. Les données Search Console ont deux à trois jours de retard, le relevé s'arrête donc
+à J-3. Tant que le secret est absent, ces deux étapes sont ignorées sans erreur.

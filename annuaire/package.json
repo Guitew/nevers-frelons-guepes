@@ -13,6 +13,7 @@
     "collecte": "node outils/collecte.mjs",
     "backlinks": "node outils/backlinks.mjs",
     "retraits": "node outils/retraits.mjs",
+    "search-console": "node outils/search-console.mjs",
     "audience": "node outils/audience.mjs",
     "indexation": "node outils/indexation.mjs",
     "etat": "node outils/etat.mjs",
