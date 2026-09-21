@@ -28,12 +28,12 @@
  *   node outils/indexation.mjs --essai
  */
 
-import crypto from "node:crypto";
 import config from "./lib/config.mjs";
 import site from "./lib/site.mjs";
 import { lireFiches, urlFiche, ETATS } from "./lib/fiches.mjs";
 import { aujourdhui } from "./lib/texte.mjs";
 import { consigner, evenement } from "./lib/journal.mjs";
+import { compteDeService, jetonGoogle } from "./lib/google-auth.mjs";
 
 const args = new Map(
   process.argv.slice(2).map((a) => {
@@ -103,37 +103,6 @@ async function indexnow(urls) {
   return envoyees;
 }
 
-/** Jeton OAuth2 obtenu par assertion JWT signée avec le compte de service. */
-async function jetonGoogle(compte) {
-  const entete = Buffer.from(JSON.stringify({ alg: "RS256", typ: "JWT" })).toString("base64url");
-  const maintenant = Math.floor(Date.now() / 1000);
-  const charge = Buffer.from(
-    JSON.stringify({
-      iss: compte.client_email,
-      scope: "https://www.googleapis.com/auth/indexing",
-      aud: "https://oauth2.googleapis.com/token",
-      iat: maintenant,
-      exp: maintenant + 3600,
-    })
-  ).toString("base64url");
-  const signature = crypto
-    .createSign("RSA-SHA256")
-    .update(`${entete}.${charge}`)
-    .sign(compte.private_key)
-    .toString("base64url");
-
-  const reponse = await fetch("https://oauth2.googleapis.com/token", {
-    method: "POST",
-    headers: { "Content-Type": "application/x-www-form-urlencoded" },
-    body: new URLSearchParams({
-      grant_type: "urn:ietf:params:oauth:grant-type:jwt-bearer",
-      assertion: `${entete}.${charge}.${signature}`,
-    }),
-  });
-  if (!reponse.ok) throw new Error(`OAuth2 ${reponse.status} : ${await reponse.text()}`);
-  return (await reponse.json()).access_token;
-}
-
 async function indexingApi(urls, type) {
   if (!config.indexation.googleIndexingApi) return 0;
   const brut = config.secrets.googleIndexing;
@@ -141,8 +110,8 @@ async function indexingApi(urls, type) {
     console.warn("  ⚠︎ GOOGLE_INDEXING_SERVICE_ACCOUNT absent : Indexing API ignorée.");
     return 0;
   }
-  const compte = JSON.parse(Buffer.from(brut, "base64").toString("utf8"));
-  const jeton = essai ? "essai" : await jetonGoogle(compte);
+  const compte = compteDeService(brut);
+  const jeton = essai ? "essai" : await jetonGoogle(compte, "https://www.googleapis.com/auth/indexing");
   let envoyees = 0;
   for (const url of urls) {
     if (essai) {

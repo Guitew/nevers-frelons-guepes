@@ -17,6 +17,11 @@
  * l'entreprise n'a jamais posé le lien, on ne retire rien avant N jours
  * (config.backlinks.delaiDeGraceJours), le temps que la demande soit traitée.
  *
+ * AUDIENCE. Le relevé Search Console (outils/audience.mjs) tempère la règle :
+ * une page qui reçoit des clics depuis Google n'est jamais retirée
+ * automatiquement (sauf fiche Google disparue), et une page que Google montre
+ * déjà (impressions) obtient un délai de grâce prolongé. Voir config.audience.
+ *
  * Si le lien réapparaît, la page est republiée automatiquement — la
  * redirection est retirée du .htaccess au build suivant.
  *
@@ -37,7 +42,7 @@
 import config from "./lib/config.mjs";
 import { lireFiches, ecrireFiche, urlFiche, urlCategorie, ETATS } from "./lib/fiches.mjs";
 import { aujourdhui } from "./lib/texte.mjs";
-import { deciderRetrait, deciderArchivage, deciderRepublication } from "./lib/politique.mjs";
+import { deciderRetrait, deciderArchivage, deciderRepublication, estProtegee } from "./lib/politique.mjs";
 import { consigner, evenement } from "./lib/journal.mjs";
 
 const args = new Map(
@@ -48,6 +53,8 @@ const args = new Map(
 );
 const essai = args.has("essai") || args.has("dry-run");
 const date = aujourdhui();
+/** Règles de retrait, complétées par les seuils d'audience Search Console. */
+const REGLAGES = { ...config.backlinks, audience: config.audience };
 
 function retirer(fiche, mode, motif) {
   fiche.statut = ETATS.RETIREE;
@@ -98,12 +105,13 @@ function principal() {
   if (args.has("fiche")) return manuel(fiches);
 
   const evenements = [];
+  const protegees = [];
   for (const fiche of fiches) {
     if (fiche.statut === ETATS.ARCHIVEE) continue;
 
     if (fiche.statut === ETATS.RETIREE) {
       // Purge des règles arrivées à expiration.
-      const expiration = deciderArchivage(fiche, config.backlinks);
+      const expiration = deciderArchivage(fiche, REGLAGES);
       if (expiration) {
         evenements.push(archiver(fiche, expiration.age));
         if (!essai) ecrireFiche(fiche);
@@ -122,8 +130,14 @@ function principal() {
     }
     if (fiche.statut !== ETATS.PUBLIEE) continue;
 
-    const decision = deciderRetrait(fiche, config.backlinks);
-    if (!decision) continue;
+    const decision = deciderRetrait(fiche, REGLAGES);
+    if (!decision) {
+      const protection = estProtegee(fiche, REGLAGES.audience);
+      if (protection && ["absent", "externe"].includes(fiche.backlink?.etat)) {
+        protegees.push(`${urlFiche(fiche)} (${protection.clics} clic(s))`);
+      }
+      continue;
+    }
     const { mode, motif } = decision;
     evenements.push(retirer(fiche, mode, motif));
     if (!essai) ecrireFiche(fiche);
@@ -132,6 +146,11 @@ function principal() {
         (mode === "301" ? ` vers ${urlCategorie(fiche.categorie)}` : "") +
         ` (${motif})`
     );
+  }
+
+  if (protegees.length) {
+    console.log(`  ${protegees.length} fiche(s) sans lien mais gardée(s) pour leurs clics Google :`);
+    for (const p of protegees) console.log(`    ◇ ${p}`);
   }
 
   if (!essai) consigner(evenements);

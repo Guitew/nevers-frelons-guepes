@@ -31,6 +31,15 @@
     "joursConservation301": 365
   },
 
+  "audience": {
+    "_lisezmoi": "Relevé Search Console (outils/audience.mjs). Une fiche avec au moins clicsProtection clics sur la fenêtre n'est jamais retirée automatiquement (sauf fiche Google disparue) ; une fiche avec au moins impressionsProlongation impressions voit son délai de grâce prolongé de prolongationJours. Un relevé plus vieux que fraicheurJours ne compte plus.",
+    "fenetreJours": 90,
+    "fraicheurJours": 7,
+    "clicsProtection": 1,
+    "impressionsProlongation": 100,
+    "prolongationJours": 45
+  },
+
   "indexation": {
     "indexnow": true,
     "googleIndexingApi": false,

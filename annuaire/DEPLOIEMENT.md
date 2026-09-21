@@ -139,3 +139,33 @@ est désactivé sur l'hébergement.
 Toute la mémoire de l'annuaire tient dans `annuaire/donnees/` (fiches + journal), versionnée dans
 Git. Le site peut être reconstruit à l'identique à partir de ce seul dossier : aucune base de
 données à sauvegarder, aucun état hors du dépôt.
+
+## Search Console : protéger du retrait les pages qui reçoivent des clics
+
+Le cycle quotidien peut relever, pour chaque page, ses clics et impressions Google des 90 derniers
+jours (`outils/audience.mjs`). Une page qui reçoit des clics n'est alors jamais retirée
+automatiquement. Trois étapes, une seule fois :
+
+1. **Créer la propriété Search Console** sur <https://search.google.com/search-console> : type
+   « Préfixe d'URL », valeur exacte `https://andpro.fr/vitrine-locale/` (avec la barre finale).
+   Valider par la balise HTML : coller le code dans `donnees/site.json` → `verifGoogle`, déployer,
+   puis cliquer « Valider ».
+2. **Créer un compte de service** dans Google Cloud (<https://console.cloud.google.com/> → IAM et
+   administration → Comptes de service → Créer), sans rôle particulier, puis « Clés » → « Ajouter
+   une clé » → JSON. Activer l'API « Google Search Console API » dans le même projet.
+   Dans la Search Console, Paramètres → Utilisateurs et autorisations → Ajouter un utilisateur :
+   l'adresse du compte de service (`…@….iam.gserviceaccount.com`), autorisation « Complète » ou
+   « Restreinte » (la lecture suffit).
+3. **Créer le secret GitHub** `GOOGLE_SEARCH_CONSOLE_SERVICE_ACCOUNT` (Settings → Secrets and
+   variables → Actions) avec le fichier JSON encodé en base64 sur une seule ligne :
+
+   ```bash
+   base64 -w0 compte-de-service.json
+   ```
+
+   Si `GOOGLE_INDEXING_SERVICE_ACCOUNT` existe déjà avec le même compte, il est réutilisé.
+
+Vérification : au cycle suivant, l'étape « Relever l'audience Search Console » affiche le nombre de
+pages avec impressions et les quinze premières par clics. Les données Search Console ont deux à
+trois jours de retard, le relevé s'arrête donc à J-3. Tant que le secret est absent, l'étape est
+ignorée sans erreur et seule la règle de backlink s'applique.

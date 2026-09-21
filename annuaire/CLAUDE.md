@@ -15,7 +15,8 @@ Business Profile ne déclare **aucun site internet**. Le modèle repose sur un �
 2. chaque entreprise reçoit une page SEO publiée et soumise aux moteurs (IndexNow) ;
 3. l'entreprise déclare l'URL de sa page comme « site web » sur sa fiche Google (= le backlink GMB) ;
 4. un contrôle quotidien relit chaque fiche Google : tant que le lien est là, la page vit ;
-5. si le lien disparaît → retrait : **301 vers la page catégorie** (le lien a existé, l'autorité se
+5. si le lien disparaît → retrait, sauf si la page reçoit des clics Google (relevé Search Console,
+   `audience.mjs`, seuils dans `config.audience`) : **301 vers la page catégorie** (le lien a existé, l'autorité se
    transmet) ou **410 Gone** (fiche Google disparue, retrait demandé, ou lien jamais posé après le
    délai de grâce de 45 jours) ;
 6. les règles 301/410 sont **purgées à expiration** (180 j pour une 410, 365 j pour une 301) : la
@@ -43,8 +44,8 @@ annuaire/
 │   ├── progression.json      curseur d'exploration par zone
 │   └── journal.json          historique des événements
 ├── outils/
-│   ├── collecte.mjs · backlinks.mjs · retraits.mjs · indexation.mjs · etat.mjs · verifier.mjs
-│   ├── lib/                  politique.mjs, maillage.mjs, redaction.mjs, site.mjs, schema.mjs,
+│   ├── collecte.mjs · backlinks.mjs · audience.mjs · retraits.mjs · indexation.mjs · etat.mjs · verifier.mjs
+│   ├── lib/                  politique.mjs, maillage.mjs, national.mjs, google-auth.mjs, redaction.mjs, site.mjs, schema.mjs,
 │   │                         pilotage.mjs, fiches.mjs, categories.mjs, texte.mjs, journal.mjs
 │   ├── lib/fournisseurs/     google-places.mjs, csv.mjs, simulation.mjs
 │   └── tests/                48 tests node --test
@@ -89,6 +90,10 @@ fiches collectées ne sont jamais mises en ligne (404 sur toutes les URLs suggé
    les moins récemment explorés d'abord. Ne jamais revenir à une requête unique par zone ou par
    département : la collecte s'est tarie ainsi en dix jours (0 fiche du 12 au 18 septembre 2026).
 8. **Pas de grattage de Google Maps** — API officielle uniquement, ou fournisseurs csv/simulation.
+10. **Une page avec des clics Google ne se retire pas automatiquement** (`politique.mjs`,
+    `estProtegee`), sauf fiche Google disparue ; des impressions prolongent seulement le délai de
+    grâce. Le relevé (`audience.mjs`, secret `GOOGLE_SEARCH_CONSOLE_SERVICE_ACCOUNT`) doit rester
+    optionnel et périmer (`fraicheurJours`) : une panne ne doit jamais figer les retraits.
 9. **Un slug de catégorie ne se renomme pas sans alias.** `categories.json` accepte une clé `alias`
    (anciennes ou fausses orthographes) : chaque alias produit une règle 301 dans le `.htaccess`
    (test + verifier). La page 404 redirige aussi vers la fiche dont l'identifiant correspond.

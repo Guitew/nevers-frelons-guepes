@@ -10,6 +10,9 @@ export const config = {
     googlePlaces: process.env.GOOGLE_PLACES_API_KEY || "",
     indexnow: process.env.INDEXNOW_KEY || "",
     googleIndexing: process.env.GOOGLE_INDEXING_SERVICE_ACCOUNT || "",
+    // Le même compte de service peut servir aux deux API : repli sur l'autre.
+    googleSearchConsole:
+      process.env.GOOGLE_SEARCH_CONSOLE_SERVICE_ACCOUNT || process.env.GOOGLE_INDEXING_SERVICE_ACCOUNT || "",
   },
 };
 

@@ -103,3 +103,76 @@ test("le lien revenu republie la fiche, sauf après un retrait demandé", () => 
   assert.equal(deciderRepublication({ backlink: { etat: "present" }, retrait: { motif: "retrait manuel" } }), false);
   assert.equal(deciderRepublication({ backlink: { etat: "absent" }, retrait: {} }), false);
 });
+
+// ---------------------------------------------------------------------------
+//  Audience Search Console : une page qui amène des visiteurs reste en ligne
+// ---------------------------------------------------------------------------
+import { estProtegee, delaiDeGrace } from "../lib/politique.mjs";
+
+const AUDIENCE = {
+  fenetreJours: 90,
+  fraicheurJours: 7,
+  clicsProtection: 1,
+  impressionsProlongation: 100,
+  prolongationJours: 45,
+};
+const AVEC_AUDIENCE = { ...REGLAGES, audience: AUDIENCE };
+const RELEVE = "2026-08-18"; // la veille de MAINTENANT
+
+test("une page avec des clics Google n'est pas retirée, même sans lien après le délai de grâce", () => {
+  const f = fiche({ etat: "absent", echecs: 30 }, { publication: "2026-06-01" }, {
+    audience: { clics: 2, impressions: 40, date: RELEVE },
+  });
+  assert.equal(deciderRetrait(f, REGLAGES, MAINTENANT).mode, "410");
+  assert.equal(deciderRetrait(f, AVEC_AUDIENCE, MAINTENANT), null);
+  assert.deepEqual(estProtegee(f, AUDIENCE, MAINTENANT), { clics: 2 });
+});
+
+test("une page avec des clics n'est pas redirigée quand son lien disparaît", () => {
+  const f = fiche({ etat: "absent", echecs: 2, premiere_detection: "2026-06-01" }, {}, {
+    audience: { clics: 1, impressions: 10, date: RELEVE },
+  });
+  assert.equal(deciderRetrait(f, REGLAGES, MAINTENANT).mode, "301");
+  assert.equal(deciderRetrait(f, AVEC_AUDIENCE, MAINTENANT), null);
+});
+
+test("les clics ne sauvent pas une fiche Google disparue", () => {
+  const f = fiche({ etat: "introuvable", echecs: 2 }, {}, {
+    audience: { clics: 9, impressions: 500, date: RELEVE },
+  });
+  assert.equal(deciderRetrait(f, AVEC_AUDIENCE, MAINTENANT).mode, "410");
+});
+
+test("des impressions sans clic prolongent le délai de grâce, sans l'annuler", () => {
+  const f = fiche({ etat: "absent", echecs: 30 }, { publication: "2026-06-20" }, {
+    audience: { clics: 0, impressions: 250, date: RELEVE },
+  });
+  // 59 jours après publication : au-delà des 45 jours, mais sous 45 + 45.
+  assert.equal(delaiDeGrace(f, AVEC_AUDIENCE, MAINTENANT), 90);
+  assert.equal(deciderRetrait(f, REGLAGES, MAINTENANT).mode, "410");
+  assert.equal(deciderRetrait(f, AVEC_AUDIENCE, MAINTENANT), null);
+  f.dates.publication = "2026-05-01"; // 110 jours : le délai prolongé est dépassé
+  assert.equal(deciderRetrait(f, AVEC_AUDIENCE, MAINTENANT).mode, "410");
+});
+
+test("trop peu d'impressions ne prolongent rien", () => {
+  const f = fiche({ etat: "absent", echecs: 30 }, { publication: "2026-06-20" }, {
+    audience: { clics: 0, impressions: 12, date: RELEVE },
+  });
+  assert.equal(delaiDeGrace(f, AVEC_AUDIENCE, MAINTENANT), 45);
+  assert.equal(deciderRetrait(f, AVEC_AUDIENCE, MAINTENANT).mode, "410");
+});
+
+test("un relevé d'audience trop ancien ne protège plus", () => {
+  const f = fiche({ etat: "absent", echecs: 30 }, { publication: "2026-06-01" }, {
+    audience: { clics: 5, impressions: 300, date: "2026-07-01" },
+  });
+  assert.equal(estProtegee(f, AUDIENCE, MAINTENANT), null);
+  assert.equal(delaiDeGrace(f, AVEC_AUDIENCE, MAINTENANT), 45);
+  assert.equal(deciderRetrait(f, AVEC_AUDIENCE, MAINTENANT).mode, "410");
+});
+
+test("sans relevé d'audience, la politique de backlink s'applique telle quelle", () => {
+  const f = fiche({ etat: "absent", echecs: 30 }, { publication: "2026-06-01" });
+  assert.equal(deciderRetrait(f, AVEC_AUDIENCE, MAINTENANT).mode, "410");
+});
