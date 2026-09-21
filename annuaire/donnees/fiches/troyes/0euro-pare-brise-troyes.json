@@ -1,0 +1,202 @@
+{
+  "id": "ChIJ1x9GMF6Y7kcRSRgDiKB3uME",
+  "slug": "0euro-pare-brise-troyes",
+  "nom": "0Euro Pare Brise + Troyes",
+  "categorie": "garages-automobile",
+  "categorie_gmb": "Garage automobile",
+  "type_principal": "car_repair",
+  "types": [
+    "car_repair",
+    "service",
+    "point_of_interest",
+    "establishment"
+  ],
+  "ville": "Troyes",
+  "ville_slug": "troyes",
+  "adresse": {
+    "rue": "66 Avenue Chomedey de Maisonneuve",
+    "code_postal": "10000",
+    "departement": "10",
+    "region": "Grand Est",
+    "pays": "France",
+    "complete": "66 Av. Chomedey de Maisonneuve, 10000 Troyes"
+  },
+  "telephone": "03 25 80 86 60",
+  "geo": {
+    "latitude": 48.3062567,
+    "longitude": 4.0712763999999995
+  },
+  "note": 4.5,
+  "avis": 185,
+  "horaires": [
+    {
+      "jour": 0,
+      "ferme": true,
+      "creneaux": []
+    },
+    {
+      "jour": 1,
+      "ferme": false,
+      "creneaux": [
+        [
+          "08:30",
+          "12:30"
+        ],
+        [
+          "14:00",
+          "18:00"
+        ]
+      ]
+    },
+    {
+      "jour": 2,
+      "ferme": false,
+      "creneaux": [
+        [
+          "08:30",
+          "12:30"
+        ],
+        [
+          "14:00",
+          "18:00"
+        ]
+      ]
+    },
+    {
+      "jour": 3,
+      "ferme": false,
+      "creneaux": [
+        [
+          "08:30",
+          "12:30"
+        ],
+        [
+          "14:00",
+          "18:00"
+        ]
+      ]
+    },
+    {
+      "jour": 4,
+      "ferme": false,
+      "creneaux": [
+        [
+          "08:30",
+          "12:30"
+        ],
+        [
+          "14:00",
+          "18:00"
+        ]
+      ]
+    },
+    {
+      "jour": 5,
+      "ferme": false,
+      "creneaux": [
+        [
+          "09:00",
+          "14:00"
+        ]
+      ]
+    },
+    {
+      "jour": 6,
+      "ferme": true,
+      "creneaux": []
+    }
+  ],
+  "attributs": [
+    "Entrée accessible en fauteuil roulant",
+    "Parking accessible en fauteuil roulant"
+  ],
+  "lien_google": "https://maps.google.com/?cid=13959038576395229257&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
+  "site_web_gmb": null,
+  "statut": "publiee",
+  "backlink": {
+    "etat": "absent",
+    "premiere_detection": null,
+    "derniere_detection": null,
+    "derniere_verification": "2026-09-21T10:38:44.759Z",
+    "echecs": 1,
+    "url_detectee": null
+  },
+  "suggestion": {
+    "etat": "en-attente",
+    "date_soumission": null,
+    "tentatives": 0,
+    "date_email": "2026-09-21"
+  },
+  "retrait": null,
+  "dates": {
+    "collecte": "2026-09-21",
+    "publication": "2026-09-21",
+    "maj": "2026-09-21"
+  },
+  "source": "google-places",
+  "redaction": {
+    "titre": "0Euro Pare Brise + Troyes — Garage et automobile à Troyes",
+    "meta_titre": "0Euro Pare Brise + Troyes, garage et automobile à Troyes",
+    "meta_description": "0Euro Pare Brise + Troyes, garage et automobile à Troyes (66 Avenue Chomedey de Maisonneuve) : adresse, horaires, téléphone et informations pratiques.",
+    "chapo": "0Euro Pare Brise + Troyes figure parmi les établissements de la catégorie « Garage et automobile » recensés à Troyes. L'entreprise n'a pas de site web référencé sur sa fiche Google. Les éléments présentés ici — adresse, horaires, contact — proviennent de cette fiche et sont datés de leur relevé.",
+    "sections": [
+      {
+        "id": "presentation",
+        "titre": "0Euro Pare Brise + Troyes en quelques mots",
+        "paragraphes": [
+          "Garages et services automobiles font partie des activités les plus consultées localement sur mobile.",
+          "Entretien, réparation, contrôle technique : l'automobiliste choisit d'abord un garage proche et disponible. Ces entreprises travaillent à flux tendu et délaissent presque toujours la création d'un site, malgré une demande de recherche locale considérable.",
+          "D'après le relevé du 21 septembre 2026, l'établissement est fermé le lundi et le dimanche. Le détail jour par jour figure plus bas."
+        ]
+      },
+      {
+        "id": "acces",
+        "titre": "Adresse et accès",
+        "paragraphes": [
+          "L'établissement est situé au 66 Avenue Chomedey de Maisonneuve, 10000 Troyes.",
+          "Coordonnées géographiques : 48.30626, 4.07128. Le lien d'itinéraire ci-dessous ouvre directement la navigation."
+        ]
+      },
+      {
+        "id": "contact",
+        "titre": "Contacter 0Euro Pare Brise + Troyes",
+        "paragraphes": [
+          "Le contact se fait par téléphone au 03 25 80 86 60. C'est le seul moyen de communication déclaré sur la fiche Google de l'entreprise, avec la visite sur place.",
+          "Si vous dirigez cette entreprise, vous pouvez demander la correction ou le retrait de cette page à tout moment, sans justification."
+        ]
+      },
+      {
+        "id": "avis",
+        "titre": "La réputation de 0Euro Pare Brise + Troyes",
+        "paragraphes": [
+          "Au relevé du 21 septembre 2026, l'établissement affichait une note de 4,5 sur 5 sur Google, calculée à partir de 185 avis. Cette note évolue en permanence : elle est indiquée ici à titre d'information et n'est pas retraitée.",
+          "Les avis appartiennent à Google et se consultent sur la fiche d'origine, dont le lien figure sur cette page."
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "q": "Quels sont les horaires de 0Euro Pare Brise + Troyes ?",
+        "r": "Au relevé du 21 septembre 2026, 0Euro Pare Brise + Troyes était fermé le lundi et le dimanche. Dans le détail — lundi : fermé ; mardi : de 8 h 30 à 12 h 30 et de 14 h à 18 h ; mercredi : de 8 h 30 à 12 h 30 et de 14 h à 18 h ; jeudi : de 8 h 30 à 12 h 30 et de 14 h à 18 h ; vendredi : de 8 h 30 à 12 h 30 et de 14 h à 18 h ; samedi : de 9 h à 14 h ; dimanche : fermé. Ces horaires peuvent changer : un appel préalable reste conseillé."
+      },
+      {
+        "q": "Où se trouve 0Euro Pare Brise + Troyes ?",
+        "r": "0Euro Pare Brise + Troyes se trouve 66 Av. Chomedey de Maisonneuve, 10000 Troyes. Un lien d'itinéraire est disponible sur cette page."
+      },
+      {
+        "q": "Comment contacter 0Euro Pare Brise + Troyes ?",
+        "r": "Par téléphone au 03 25 80 86 60, ou directement sur place aux heures d'ouverture."
+      },
+      {
+        "q": "0Euro Pare Brise + Troyes a-t-il un site internet ?",
+        "r": "Non : aucune adresse de site web n'est déclarée sur la fiche Google de 0Euro Pare Brise + Troyes au 21 septembre 2026. Cette page tient lieu de référence publique en attendant, le cas échéant, la création d'un site propre à l'entreprise."
+      },
+      {
+        "q": "0Euro Pare Brise + Troyes est-il accessible aux personnes à mobilité réduite ?",
+        "r": "La fiche Google de l'établissement mentionne : « Entrée accessible en fauteuil roulant ». Cette information est déclarative ; en cas de doute, vérifiez par téléphone."
+      }
+    ],
+    "genere_le": "2026-09-21"
+  },
+  "statut_google": "OPERATIONAL"
+}

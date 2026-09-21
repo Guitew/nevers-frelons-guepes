@@ -1,5 +1,125 @@
 [
   {
+    "date": "2026-09-21T10:39:02.278Z",
+    "type": "suggestion-soumise",
+    "id": "ChIJb3kn7Bqo5EcRuB5vzxBJ7dE",
+    "nom": "Au Coin D'Table",
+    "url": "/restaurants/blois/au-coin-d-table/"
+  },
+  {
+    "date": "2026-09-21T10:39:02.228Z",
+    "type": "suggestion-soumise",
+    "id": "ChIJHSkTbETTqRIR4UtJWjE083g",
+    "nom": "La Petite Bertha",
+    "url": "/cafes-bars/tarbes/la-petite-bertha/"
+  },
+  {
+    "date": "2026-09-21T10:39:02.115Z",
+    "type": "suggestion-soumise",
+    "id": "ChIJ60wPh-ZlkUcRczhgh79yXWo",
+    "nom": "Restaurant Au Koïfhus",
+    "url": "/restaurants/colmar/restaurant-au-koifhus/"
+  },
+  {
+    "date": "2026-09-21T10:39:02.005Z",
+    "type": "suggestion-soumise",
+    "id": "ChIJRQ3A4kOzqxIR1L979duuwIk",
+    "nom": "Royal Agen",
+    "url": "/restaurants/agen/royal-agen/"
+  },
+  {
+    "date": "2026-09-21T10:39:01.878Z",
+    "type": "suggestion-soumise",
+    "id": "ChIJqSNLau2uthIRGODTHELSxlM",
+    "nom": "Tabac Fdj Bar Pmu",
+    "url": "/cafes-bars/montpellier/tabac-fdj-bar-pmu/"
+  },
+  {
+    "date": "2026-09-21T10:38:45.086Z",
+    "type": "backlink-absent",
+    "id": "ChIJ1x9GMF6Y7kcRSRgDiKB3uME",
+    "nom": "0Euro Pare Brise + Troyes",
+    "url": null,
+    "precedent": "en-attente"
+  },
+  {
+    "date": "2026-09-21T10:38:45.172Z",
+    "type": "backlink-absent",
+    "id": "ChIJLdUwcb9vsBIRPAA3JDcx0B8",
+    "nom": "Grande Pharmacie Lafayette de Catalogne",
+    "url": null,
+    "precedent": "en-attente"
+  },
+  {
+    "date": "2026-09-21T10:38:45.327Z",
+    "type": "backlink-absent",
+    "id": "ChIJK_EzRbYRrxIRDF6Q0ajfO90",
+    "nom": "Laverie du château",
+    "url": null,
+    "precedent": "en-attente"
+  },
+  {
+    "date": "2026-09-21T10:38:45.412Z",
+    "type": "backlink-absent",
+    "id": "ChIJ8fN0xrDg4EcR3bQ4-auvwnQ",
+    "nom": "Normandie Solutions Services",
+    "url": null,
+    "precedent": "en-attente"
+  },
+  {
+    "date": "2026-09-21T10:38:45.567Z",
+    "type": "backlink-absent",
+    "id": "ChIJpcMDCDpv80cRO5NDzaldHsU",
+    "nom": "SOS 71- Cabinet médical",
+    "url": null,
+    "precedent": "en-attente"
+  },
+  {
+    "date": "2026-09-21T10:38:44.681Z",
+    "type": "publication",
+    "id": "ChIJ8fN0xrDg4EcR3bQ4-auvwnQ",
+    "nom": "Normandie Solutions Services",
+    "url": "/transport-demenagement/rouen/normandie-solutions-services/",
+    "categorie": "transport-demenagement",
+    "source": "google-places"
+  },
+  {
+    "date": "2026-09-21T10:38:44.682Z",
+    "type": "publication",
+    "id": "ChIJpcMDCDpv80cRO5NDzaldHsU",
+    "nom": "SOS 71- Cabinet médical",
+    "url": "/medecins-dentistes/charnay-les-macon/sos-71-cabinet-medical/",
+    "categorie": "medecins-dentistes",
+    "source": "google-places"
+  },
+  {
+    "date": "2026-09-21T10:38:44.682Z",
+    "type": "publication",
+    "id": "ChIJK_EzRbYRrxIRDF6Q0ajfO90",
+    "nom": "Laverie du château",
+    "url": "/nettoyage-hygiene/foix/laverie-du-chateau/",
+    "categorie": "nettoyage-hygiene",
+    "source": "google-places"
+  },
+  {
+    "date": "2026-09-21T10:38:44.683Z",
+    "type": "publication",
+    "id": "ChIJ1x9GMF6Y7kcRSRgDiKB3uME",
+    "nom": "0Euro Pare Brise + Troyes",
+    "url": "/garages-automobile/troyes/0euro-pare-brise-troyes/",
+    "categorie": "garages-automobile",
+    "source": "google-places"
+  },
+  {
+    "date": "2026-09-21T10:38:44.683Z",
+    "type": "publication",
+    "id": "ChIJLdUwcb9vsBIRPAA3JDcx0B8",
+    "nom": "Grande Pharmacie Lafayette de Catalogne",
+    "url": "/pharmacies-opticiens/perpignan/grande-pharmacie-lafayette-de-catalogne/",
+    "categorie": "pharmacies-opticiens",
+    "source": "google-places"
+  },
+  {
     "date": "2026-09-20T14:12:34.739Z",
     "type": "suggestion-soumise",
     "id": "ChIJ76dXWKig-0cRYCU0aIResHE",
