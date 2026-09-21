@@ -33,6 +33,7 @@
 
   "audience": {
     "_lisezmoi": "Relevé Search Console (outils/audience.mjs). Une fiche avec au moins clicsProtection clics sur la fenêtre n'est jamais retirée automatiquement (sauf fiche Google disparue) ; une fiche avec au moins impressionsProlongation impressions voit son délai de grâce prolongé de prolongationJours. Un relevé plus vieux que fraicheurJours ne compte plus.",
+    "proprietaires": ["allofrelons@gmail.com"],
     "fenetreJours": 90,
     "fraicheurJours": 7,
     "clicsProtection": 1,

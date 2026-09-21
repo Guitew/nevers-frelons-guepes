@@ -51,6 +51,7 @@ avant la mise en service réelle.
 |---|---|
 | `npm run collecte` | repère `fichesParJour` entreprises sans site web et rédige leur page |
 | `npm run backlinks` | relit les fiches Google et met à jour l'état du lien |
+| `npm run search-console` | met en place l'accès Search Console (vérification, propriété, copropriétaires) |
 | `npm run audience` | relève clics et impressions Search Console par page (ignoré sans compte de service) |
 | `npm run retraits` | applique les 301 / 410 (option `--essai` pour simuler) |
 | `npm run build` | régénère le site **et le `.htaccess`** (redirections comprises) |
@@ -301,8 +302,9 @@ inscrit sur chaque fiche ses clics, impressions et position des 90 derniers jour
 - Un relevé plus vieux que `audience.fraicheurJours` ne compte plus : si l'étape Search Console
   tombe en panne, la protection s'éteint d'elle-même au lieu de figer le site.
 
-Sans compte de service, l'étape est ignorée et la politique de backlink s'applique seule. Mise en
-place : voir [DEPLOIEMENT.md](./DEPLOIEMENT.md), section Search Console.
+Sans compte de service, l'étape est ignorée et la politique de backlink s'applique seule. Avec un
+compte de service en secret, `outils/search-console.mjs` vérifie le site, déclare la propriété et
+ajoute les copropriétaires humains tout seul : voir [DEPLOIEMENT.md](./DEPLOIEMENT.md).
 
 ## Retraits : 301 ou 410 ?
 
