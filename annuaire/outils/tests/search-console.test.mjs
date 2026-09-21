@@ -92,3 +92,20 @@ test("le client remonte le message d'erreur de Google avec son code", async () =
   const appeler = clientGoogle("jeton", faussefetch);
   await assert.rejects(appeler("GET", "https://www.googleapis.com/webmasters/v3/sites"), (e) => e.status === 403 && /has not been used/.test(e.message));
 });
+
+// ---------------------------------------------------------------------------
+//  Choix de la source d'authentification Google
+// ---------------------------------------------------------------------------
+import { choisirJeton } from "../lib/google-auth.mjs";
+
+test("un jeton Workload Identity prime sur le compte de service", async () => {
+  const r = await choisirJeton({ accessToken: "ya29.abc", compteBase64: "xxx" }, "scope", () => assert.fail("JWT inutile"));
+  assert.deepEqual(r, { jeton: "ya29.abc", source: "workload-identity" });
+});
+
+test("à défaut, le compte de service produit un jeton ; sans rien, null", async () => {
+  const compte = Buffer.from(JSON.stringify({ client_email: "sa@x", private_key: "k" })).toString("base64");
+  const r = await choisirJeton({ accessToken: "", compteBase64: compte }, "scope", async (c, s) => `jwt:${c.client_email}:${s}`);
+  assert.deepEqual(r, { jeton: "jwt:sa@x:scope", source: "compte-de-service" });
+  assert.equal(await choisirJeton({ accessToken: "", compteBase64: "" }, "scope"), null);
+});

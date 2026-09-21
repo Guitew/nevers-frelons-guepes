@@ -16,8 +16,8 @@ name: Annuaire — collecte quotidienne
 # Secrets attendus :
 #   GOOGLE_PLACES_API_KEY  clé de l'API Google Places (New)
 #   BREVO_API_KEY          clé Brevo pour l'envoi des emails de suggestion GMB
-#   GOOGLE_SEARCH_CONSOLE_SERVICE_ACCOUNT  compte de service (JSON base64) lecteur
-#                          de la propriété Search Console — optionnel
+#   GOOGLE_SEARCH_CONSOLE_SERVICE_ACCOUNT  compte de service (JSON base64) — optionnel,
+#                          seulement si Workload Identity (env ci-dessous) n'est pas utilisé
 
 on:
   schedule:
@@ -33,6 +33,15 @@ on:
 permissions:
   contents: write
   actions: write # nécessaire pour déclencher le workflow de déploiement
+  id-token: write # jeton OIDC pour s'authentifier auprès de Google sans clé
+
+# Authentification Google sans clé (Workload Identity Federation). Les deux
+# valeurs ci-dessous sont produites par annuaire/outils/installer-google.sh
+# (à coller dans Cloud Shell) ; elles ne sont pas secrètes. Tant qu'elles sont
+# vides, les étapes Search Console sont ignorées sans erreur.
+env:
+  GOOGLE_WORKLOAD_IDENTITY_PROVIDER: ""
+  GOOGLE_SERVICE_ACCOUNT: ""
 
 concurrency:
   group: annuaire-quotidien
@@ -66,17 +75,32 @@ jobs:
           GOOGLE_PLACES_API_KEY: ${{ secrets.GOOGLE_PLACES_API_KEY }}
         run: node outils/backlinks.mjs
 
-      # Relevé Search Console : clics et impressions des 90 derniers jours par
-      # page. Ignoré sans erreur si le secret est absent.
+      # Jeton d'accès Google obtenu par échange du jeton OIDC de GitHub : aucune
+      # clé n'est stockée nulle part. Portées : Search Console + vérification de site.
+      - name: S'authentifier auprès de Google (Workload Identity)
+        id: google
+        if: env.GOOGLE_WORKLOAD_IDENTITY_PROVIDER != ''
+        uses: google-github-actions/auth@v2
+        with:
+          workload_identity_provider: ${{ env.GOOGLE_WORKLOAD_IDENTITY_PROVIDER }}
+          service_account: ${{ env.GOOGLE_SERVICE_ACCOUNT }}
+          token_format: access_token
+          access_token_scopes: https://www.googleapis.com/auth/webmasters,https://www.googleapis.com/auth/siteverification
+          create_credentials_file: false
+
       # Mise en place automatique de l'accès Search Console (vérification du
       # site, déclaration de la propriété, copropriétaires). Idempotent.
       - name: Préparer l'accès Search Console
         env:
+          GOOGLE_ACCESS_TOKEN: ${{ steps.google.outputs.access_token }}
           GOOGLE_SEARCH_CONSOLE_SERVICE_ACCOUNT: ${{ secrets.GOOGLE_SEARCH_CONSOLE_SERVICE_ACCOUNT }}
         run: node outils/search-console.mjs
 
+      # Relevé Search Console : clics et impressions des 90 derniers jours par
+      # page. Ignoré sans erreur si aucune authentification n'est disponible.
       - name: Relever l'audience Search Console
         env:
+          GOOGLE_ACCESS_TOKEN: ${{ steps.google.outputs.access_token }}
           GOOGLE_SEARCH_CONSOLE_SERVICE_ACCOUNT: ${{ secrets.GOOGLE_SEARCH_CONSOLE_SERVICE_ACCOUNT }}
         run: node outils/audience.mjs
 

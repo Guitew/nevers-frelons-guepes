@@ -2,8 +2,8 @@
 /**
  * Mise en place automatique de l'accès Search Console (voir lib/search-console.mjs).
  *
- * À exécuter chaque jour avant le relevé d'audience. Sans secret, ne fait
- * rien. Avec un compte de service :
+ * À exécuter chaque jour avant le relevé d'audience. Sans authentification
+ * Google (jeton Workload Identity ou compte de service), ne fait rien. Sinon :
  *   1er passage  → obtient le jeton de vérification, l'inscrit dans site.json
  *                  (committé puis déployé par le cycle : balise meta en ligne) ;
  *   2e passage   → vérifie le site, ajoute les copropriétaires humains
@@ -18,7 +18,7 @@ import path from "node:path";
 import config from "./lib/config.mjs";
 import site from "./lib/site.mjs";
 import { DONNEES } from "./lib/chemins.mjs";
-import { compteDeService, jetonGoogle } from "./lib/google-auth.mjs";
+import { choisirJeton } from "./lib/google-auth.mjs";
 import { PORTEES, clientGoogle, proprieteDe, assurerAcces } from "./lib/search-console.mjs";
 
 const essai = process.argv.includes("--essai") || process.argv.includes("--dry-run");
@@ -32,14 +32,16 @@ function ecrireJeton(valeur) {
 }
 
 async function principal() {
-  const brut = config.secrets.googleSearchConsole;
-  if (!brut) {
-    console.log("GOOGLE_SEARCH_CONSOLE_SERVICE_ACCOUNT absent : mise en place Search Console ignorée.");
+  const acces = await choisirJeton(
+    { accessToken: config.secrets.googleAccessToken, compteBase64: config.secrets.googleSearchConsole },
+    PORTEES
+  );
+  if (!acces) {
+    console.log("Aucune authentification Google (GOOGLE_ACCESS_TOKEN ou compte de service) : mise en place Search Console ignorée.");
     return;
   }
-  const compte = compteDeService(brut);
-  const jeton = await jetonGoogle(compte, PORTEES);
-  const appeler = clientGoogle(jeton);
+  console.log(`  Authentification : ${acces.source}.`);
+  const appeler = clientGoogle(acces.jeton);
   const resultat = await assurerAcces({
     appeler,
     propriete: proprieteDe(site),

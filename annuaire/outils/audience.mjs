@@ -13,7 +13,8 @@
  * une page qui reçoit des clics n'est pas retirée automatiquement, et une
  * page qui reçoit des impressions obtient un délai de grâce prolongé.
  *
- * Sans compte de service (GOOGLE_SEARCH_CONSOLE_SERVICE_ACCOUNT), l'étape est
+ * Sans authentification Google (jeton Workload Identity GOOGLE_ACCESS_TOKEN,
+ * ou compte de service GOOGLE_SEARCH_CONSOLE_SERVICE_ACCOUNT), l'étape est
  * ignorée sans erreur : la politique se rabat alors sur les seules règles de
  * backlink. Les données Search Console ont deux à trois jours de retard : la
  * fenêtre s'arrête donc à J-3.
@@ -31,7 +32,7 @@ import config from "./lib/config.mjs";
 import site from "./lib/site.mjs";
 import { lireFiches, ecrireFiche, urlFiche } from "./lib/fiches.mjs";
 import { aujourdhui } from "./lib/texte.mjs";
-import { compteDeService, jetonGoogle } from "./lib/google-auth.mjs";
+import { choisirJeton } from "./lib/google-auth.mjs";
 
 const args = new Map(
   process.argv.slice(2).map((a) => {
@@ -83,9 +84,12 @@ function cle(url) {
 }
 
 async function principal() {
-  const brut = config.secrets.googleSearchConsole;
-  if (!brut) {
-    console.log("GOOGLE_SEARCH_CONSOLE_SERVICE_ACCOUNT absent : relevé d'audience ignoré.");
+  const acces = await choisirJeton(
+    { accessToken: config.secrets.googleAccessToken, compteBase64: config.secrets.googleSearchConsole },
+    PORTEE
+  );
+  if (!acces) {
+    console.log("Aucune authentification Google (GOOGLE_ACCESS_TOKEN ou compte de service) : relevé d'audience ignoré.");
     return;
   }
   const reglages = config.audience || {};
@@ -93,8 +97,7 @@ async function principal() {
   const fin = dateMoins(RETARD_JOURS);
   const debut = dateMoins(RETARD_JOURS + fenetre - 1);
 
-  const jeton = await jetonGoogle(compteDeService(brut), PORTEE);
-  const lignes = await relever(jeton, debut, fin);
+  const lignes = await relever(acces.jeton, debut, fin);
   console.log(`Search Console du ${debut} au ${fin} : ${lignes.length} page(s) avec au moins une impression.`);
 
   const parPage = new Map(lignes.map((l) => [cle(l.keys[0]), l]));

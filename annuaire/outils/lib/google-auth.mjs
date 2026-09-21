@@ -1,9 +1,13 @@
 /**
- * Authentification Google par compte de service (sans dépendance).
+ * Authentification Google (sans dépendance).
  *
- * Le compte de service est fourni en variable d'environnement sous forme de
- * JSON encodé en base64. Un jeton OAuth2 est obtenu par assertion JWT signée
- * avec sa clé privée, pour la portée demandée (Indexing API, Search Console…).
+ * Deux sources, par ordre de préférence :
+ *   1. un jeton d'accès déjà émis (GOOGLE_ACCESS_TOKEN) — c'est ce que fournit
+ *      GitHub Actions via Workload Identity Federation, sans aucune clé à
+ *      stocker ; les organisations Google Cloud interdisent d'ailleurs souvent
+ *      la création de clés de compte de service (iam.disableServiceAccountKeyCreation) ;
+ *   2. un compte de service en JSON encodé en base64 : un jeton OAuth2 est
+ *      obtenu par assertion JWT signée avec sa clé privée.
  */
 
 import crypto from "node:crypto";
@@ -42,4 +46,20 @@ export async function jetonGoogle(compte, scope) {
   });
   if (!reponse.ok) throw new Error(`OAuth2 ${reponse.status} : ${await reponse.text()}`);
   return (await reponse.json()).access_token;
+}
+
+/**
+ * Choisit la source d'authentification. Renvoie null si aucune n'est
+ * disponible : l'appelant ignore alors l'étape sans erreur.
+ *
+ * @param {{accessToken?: string, compteBase64?: string}} sources
+ * @param {string} scope       portée(s) OAuth2 demandée(s)
+ * @param {Function} viaCompte fonction (compte, scope) → jeton, injectable pour les tests
+ */
+export async function choisirJeton(sources, scope, viaCompte = jetonGoogle) {
+  if (sources.accessToken) return { jeton: sources.accessToken, source: "workload-identity" };
+  if (sources.compteBase64) {
+    return { jeton: await viaCompte(compteDeService(sources.compteBase64), scope), source: "compte-de-service" };
+  }
+  return null;
 }

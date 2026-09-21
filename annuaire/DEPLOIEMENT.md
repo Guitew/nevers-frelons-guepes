@@ -154,26 +154,32 @@ votre propre Search Console. Comptez deux cycles (un jour) entre le secret et le
 
 ### Les deux gestes à faire une fois
 
-1. **Créer le compte de service et sa clé**, dans le projet Google Cloud qui héberge déjà la clé
-   Places : <https://console.cloud.google.com/iam-admin/serviceaccounts/create> — un nom
-   (« vitrine-locale »), « Créer et continuer », pas de rôle, « OK ». Ouvrir le compte créé →
-   onglet « Clés » → « Ajouter une clé » → « Créer une clé » → JSON : un fichier se télécharge.
-   Puis activer deux API dans le même projet, bouton « Activer » sur chacune :
-   <https://console.cloud.google.com/apis/library/searchconsole.googleapis.com> et
-   <https://console.cloud.google.com/apis/library/siteverification.googleapis.com>.
-2. **Créer le secret GitHub** `GOOGLE_SEARCH_CONSOLE_SERVICE_ACCOUNT` :
-   <https://github.com/Guitew/nevers-frelons-guepes/settings/secrets/actions/new>, avec pour
-   valeur le fichier JSON encodé en base64 sur une seule ligne :
+Aucune clé n'est créée ni stockée : GitHub Actions s'authentifie auprès de Google par
+**Workload Identity Federation** (échange du jeton OIDC de GitHub contre un jeton Google). C'est
+la méthode recommandée par Google, et la seule possible quand l'organisation interdit les clés de
+compte de service (règle `iam.disableServiceAccountKeyCreation`, appliquée par défaut).
+
+1. **Lancer le script d'installation dans Cloud Shell**, le terminal en ligne de Google Cloud :
+   ouvrir <https://shell.cloud.google.com>, attendre l'invite, coller cette ligne et valider :
 
    ```bash
-   base64 -w0 le-fichier-telecharge.json      # Linux
-   base64 -i le-fichier-telecharge.json | tr -d '\n'   # macOS
+   bash <(curl -sS https://raw.githubusercontent.com/Guitew/nevers-frelons-guepes/main/annuaire/outils/installer-google.sh)
    ```
 
-   Sous Windows, dans PowerShell :
-   `[Convert]::ToBase64String([IO.File]::ReadAllBytes("le-fichier-telecharge.json"))`.
+   Le script ([`outils/installer-google.sh`](./outils/installer-google.sh)) demande le projet si
+   besoin (celui de la clé Places), active les API, crée le compte de service `vitrine-locale`,
+   le pool et le fournisseur Workload Identity restreints au dépôt GitHub, puis affiche deux lignes
+   `GOOGLE_WORKLOAD_IDENTITY_PROVIDER=…` et `GOOGLE_SERVICE_ACCOUNT=…`. Il est relançable sans
+   risque. Si l'autorisation finale est refusée par la règle « partage restreint au domaine »,
+   il affiche le lien et la valeur exacte à ajouter, puis se relance.
+2. **Recopier ces deux lignes** dans le bloc `env:` en tête de
+   [`annuaire-quotidien.yml`](../.github/workflows/annuaire-quotidien.yml) (ou les transmettre à
+   Claude, qui le fera). Ces valeurs ne sont pas secrètes : elles n'autorisent que ce dépôt, sur
+   ce compte de service, pour ces API.
 
 Vérification : au cycle suivant, l'étape « Préparer l'accès Search Console » affiche « jeton-ecrit »,
 puis « verifiee » le lendemain, et « Relever l'audience Search Console » liste les pages avec
 impressions. Les données Search Console ont deux à trois jours de retard, le relevé s'arrête donc
-à J-3. Tant que le secret est absent, ces deux étapes sont ignorées sans erreur.
+à J-3. Tant que le bloc `env:` est vide, ces étapes sont ignorées sans erreur. Un compte de service en
+JSON base64 dans le secret `GOOGLE_SEARCH_CONSOLE_SERVICE_ACCOUNT` reste accepté en repli, pour
+une organisation qui autoriserait encore les clés.
