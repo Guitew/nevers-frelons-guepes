@@ -44,7 +44,7 @@ annuaire/
 │   ├── progression.json      curseur d'exploration par zone
 │   └── journal.json          historique des événements
 ├── outils/
-│   ├── collecte.mjs · backlinks.mjs · search-console.mjs · audience.mjs · retraits.mjs · indexation.mjs · etat.mjs · verifier.mjs
+│   ├── collecte.mjs · backlinks.mjs · search-console.mjs · audience.mjs · couverture.mjs · retraits.mjs · indexation.mjs · etat.mjs · verifier.mjs
 │   ├── lib/                  politique.mjs, maillage.mjs, national.mjs, google-auth.mjs, redaction.mjs, site.mjs, schema.mjs,
 │   │                         pilotage.mjs, fiches.mjs, categories.mjs, texte.mjs, journal.mjs
 │   ├── lib/fournisseurs/     google-places.mjs, csv.mjs, simulation.mjs
@@ -97,6 +97,10 @@ fiches collectées ne sont jamais mises en ligne (404 sur toutes les URLs suggé
     (`google-github-actions/auth` → `GOOGLE_ACCESS_TOKEN`), valeurs dans le bloc `env:` du workflow
     quotidien, produites par `outils/installer-google.sh` (Cloud Shell). L'organisation Google
     Cloud interdit les clés de compte de service : ne jamais en redemander une.
+11. **Une page non indexée 45 jours après sa mise en ligne est retirée** (`couverture.mjs` →
+    `politique.mjs` / `estNonIndexee`) : 410 si jamais liée, 301 vers la catégorie si un lien GMB
+    a existé, jamais republiée (`retrait.cause = "non-indexee"`). Verdict périmé = pas de
+    retrait. Les pages avec impressions sont réputées indexées sans appel d'API (quota 2 000/j).
 9. **Un slug de catégorie ne se renomme pas sans alias.** `categories.json` accepte une clé `alias`
    (anciennes ou fausses orthographes) : chaque alias produit une règle 301 dans le `.htaccess`
    (test + verifier). La page 404 redirige aussi vers la fiche dont l'identifiant correspond.

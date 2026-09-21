@@ -17,6 +17,12 @@
  * l'entreprise n'a jamais posé le lien, on ne retire rien avant N jours
  * (config.backlinks.delaiDeGraceJours), le temps que la demande soit traitée.
  *
+ * COUVERTURE. Une page que Google n'a toujours pas indexée 45 jours après sa
+ * mise en ligne (outils/couverture.mjs) est retirée, lien GMB ou non : 410 si
+ * aucun lien n'a jamais existé, 301 vers la catégorie sinon, pour que les
+ * visiteurs venus de la fiche Google atterrissent sur une liste utile. Elle
+ * n'est pas republiée si le lien revient : Google la refuserait à nouveau.
+ *
  * AUDIENCE. Le relevé Search Console (outils/audience.mjs) tempère la règle :
  * une page qui reçoit des clics depuis Google n'est jamais retirée
  * automatiquement (sauf fiche Google disparue), et une page que Google montre
@@ -54,18 +60,19 @@ const args = new Map(
 const essai = args.has("essai") || args.has("dry-run");
 const date = aujourdhui();
 /** Règles de retrait, complétées par les seuils d'audience Search Console. */
-const REGLAGES = { ...config.backlinks, audience: config.audience };
+const REGLAGES = { ...config.backlinks, audience: config.audience, couverture: config.couverture };
 
-function retirer(fiche, mode, motif) {
+function retirer(fiche, mode, motif, cause = null) {
   fiche.statut = ETATS.RETIREE;
   fiche.retrait = {
     mode,
     cible: mode === "301" ? urlCategorie(fiche.categorie) : null,
     date,
     motif,
+    ...(cause ? { cause } : {}),
   };
   fiche.dates.maj = date;
-  return evenement(`retrait-${mode}`, fiche, { motif, cible: fiche.retrait.cible });
+  return evenement(`retrait-${mode}`, fiche, { motif, cible: fiche.retrait.cible, ...(cause ? { cause } : {}) });
 }
 
 function archiver(fiche, age) {
@@ -138,8 +145,8 @@ function principal() {
       }
       continue;
     }
-    const { mode, motif } = decision;
-    evenements.push(retirer(fiche, mode, motif));
+    const { mode, motif, cause } = decision;
+    evenements.push(retirer(fiche, mode, motif, cause));
     if (!essai) ecrireFiche(fiche);
     console.log(
       `  ${mode === "410" ? "⊘" : "→"} ${urlFiche(fiche)} : ${mode}` +
