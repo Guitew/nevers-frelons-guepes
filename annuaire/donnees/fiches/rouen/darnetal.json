@@ -1,0 +1,115 @@
+{
+  "id": "ChIJQTTRvunf4EcRFSMYYUNTEuY",
+  "slug": "darnetal",
+  "nom": "DARNETAL",
+  "categorie": "hebergement",
+  "categorie_gmb": "Hôtel",
+  "type_principal": "hotel",
+  "types": [
+    "hotel",
+    "lodging",
+    "point_of_interest",
+    "establishment"
+  ],
+  "ville": "Rouen",
+  "ville_slug": "rouen",
+  "adresse": {
+    "rue": "76000 Route de Darnétal",
+    "code_postal": "76000",
+    "departement": "76",
+    "region": "Normandie",
+    "pays": "France",
+    "complete": "76000 Rte de Darnétal, 76000 Rouen"
+  },
+  "telephone": "",
+  "geo": {
+    "latitude": 49.440777,
+    "longitude": 1.125184
+  },
+  "note": 4.5,
+  "avis": 19,
+  "horaires": null,
+  "attributs": [
+    "Parking accessible en fauteuil roulant"
+  ],
+  "lien_google": "https://maps.google.com/?cid=16578404727161103125&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
+  "site_web_gmb": null,
+  "statut": "publiee",
+  "backlink": {
+    "etat": "absent",
+    "premiere_detection": null,
+    "derniere_detection": null,
+    "derniere_verification": "2026-09-23T14:59:47.597Z",
+    "echecs": 1,
+    "url_detectee": null
+  },
+  "suggestion": {
+    "etat": "en-attente",
+    "date_soumission": null,
+    "tentatives": 0,
+    "date_email": "2026-09-23"
+  },
+  "retrait": null,
+  "dates": {
+    "collecte": "2026-09-23",
+    "publication": "2026-09-23",
+    "maj": "2026-09-23"
+  },
+  "source": "google-places",
+  "redaction": {
+    "titre": "DARNETAL — Hébergement à Rouen",
+    "meta_titre": "DARNETAL, hébergement à Rouen",
+    "meta_description": "DARNETAL, hébergement à Rouen (76000 Route de Darnétal) : adresse, horaires et informations pratiques.",
+    "chapo": "DARNETAL figure parmi les établissements de la catégorie « Hébergement » recensés à Rouen. L'entreprise n'a pas de site web référencé sur sa fiche Google. Les éléments présentés ici — adresse, horaires, contact — proviennent de cette fiche et sont datés de leur relevé.",
+    "sections": [
+      {
+        "id": "presentation",
+        "titre": "DARNETAL en quelques mots",
+        "paragraphes": [
+          "À Rouen, les recherches du type « hébergement près de chez moi » se concluent le plus souvent par un appel ou une visite directe.",
+          "Un hébergement sans site web dépend entièrement des plateformes de réservation et de leurs commissions. Une page publique, stable et indexable rétablit un point de contact direct : téléphone, adresse exacte, capacité et conditions d'accueil."
+        ]
+      },
+      {
+        "id": "acces",
+        "titre": "Adresse et accès",
+        "paragraphes": [
+          "L'établissement est situé au 76000 Route de Darnétal, 76000 Rouen.",
+          "Coordonnées géographiques : 49.44078, 1.12518. Le lien d'itinéraire ci-dessous ouvre directement la navigation."
+        ]
+      },
+      {
+        "id": "contact",
+        "titre": "Contacter DARNETAL",
+        "paragraphes": [
+          "Aucun numéro de téléphone n'est déclaré sur la fiche Google de l'établissement : le contact se fait sur place, aux horaires indiqués.",
+          "Si vous dirigez cette entreprise, vous pouvez demander la correction ou le retrait de cette page à tout moment, sans justification."
+        ]
+      },
+      {
+        "id": "avis",
+        "titre": "La réputation de DARNETAL",
+        "paragraphes": [
+          "Au relevé du 23 septembre 2026, l'établissement affichait une note de 4,5 sur 5 sur Google, calculée à partir de 19 avis. Cette note évolue en permanence : elle est indiquée ici à titre d'information et n'est pas retraitée.",
+          "Les avis appartiennent à Google et se consultent sur la fiche d'origine, dont le lien figure sur cette page."
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "q": "Où se trouve DARNETAL ?",
+        "r": "DARNETAL se trouve 76000 Rte de Darnétal, 76000 Rouen. Un lien d'itinéraire est disponible sur cette page."
+      },
+      {
+        "q": "DARNETAL a-t-il un site internet ?",
+        "r": "Non : aucune adresse de site web n'est déclarée sur la fiche Google de DARNETAL au 23 septembre 2026. Cette page tient lieu de référence publique en attendant, le cas échéant, la création d'un site propre à l'entreprise."
+      },
+      {
+        "q": "DARNETAL est-il accessible aux personnes à mobilité réduite ?",
+        "r": "La fiche Google de l'établissement mentionne : « Parking accessible en fauteuil roulant ». Cette information est déclarative ; en cas de doute, vérifiez par téléphone."
+      }
+    ],
+    "genere_le": "2026-09-23"
+  },
+  "statut_google": "OPERATIONAL"
+}
