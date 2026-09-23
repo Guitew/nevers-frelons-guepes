@@ -1,0 +1,189 @@
+{
+  "id": "ChIJ2e7Y0neFi0cR9eZ3qOvrLT8",
+  "slug": "la-pince-a-linge",
+  "nom": "La Pince à Linge",
+  "categorie": "nettoyage-hygiene",
+  "categorie_gmb": "Blanchisserie",
+  "type_principal": "laundry",
+  "types": [
+    "laundry",
+    "point_of_interest",
+    "service",
+    "establishment"
+  ],
+  "ville": "Annecy",
+  "ville_slug": "annecy",
+  "adresse": {
+    "rue": "22 Avenue de Bouvard",
+    "code_postal": "74000",
+    "departement": "74",
+    "region": "Auvergne-Rhône-Alpes",
+    "pays": "France",
+    "complete": "22 Av. de Bouvard, 74000 Annecy"
+  },
+  "telephone": "06 98 78 73 33",
+  "geo": {
+    "latitude": 45.903008799999995,
+    "longitude": 6.1189189
+  },
+  "note": 4.6,
+  "avis": 64,
+  "horaires": [
+    {
+      "jour": 0,
+      "ferme": false,
+      "creneaux": [
+        [
+          "07:00",
+          "21:00"
+        ]
+      ]
+    },
+    {
+      "jour": 1,
+      "ferme": false,
+      "creneaux": [
+        [
+          "07:00",
+          "21:00"
+        ]
+      ]
+    },
+    {
+      "jour": 2,
+      "ferme": false,
+      "creneaux": [
+        [
+          "07:00",
+          "21:00"
+        ]
+      ]
+    },
+    {
+      "jour": 3,
+      "ferme": false,
+      "creneaux": [
+        [
+          "07:00",
+          "21:00"
+        ]
+      ]
+    },
+    {
+      "jour": 4,
+      "ferme": false,
+      "creneaux": [
+        [
+          "07:00",
+          "21:00"
+        ]
+      ]
+    },
+    {
+      "jour": 5,
+      "ferme": false,
+      "creneaux": [
+        [
+          "07:00",
+          "21:00"
+        ]
+      ]
+    },
+    {
+      "jour": 6,
+      "ferme": false,
+      "creneaux": [
+        [
+          "07:00",
+          "21:00"
+        ]
+      ]
+    }
+  ],
+  "attributs": [],
+  "lien_google": "https://maps.google.com/?cid=4552554195717711605&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
+  "site_web_gmb": null,
+  "statut": "publiee",
+  "backlink": {
+    "etat": "absent",
+    "premiere_detection": null,
+    "derniere_detection": null,
+    "derniere_verification": "2026-09-23T09:55:47.342Z",
+    "echecs": 1,
+    "url_detectee": null
+  },
+  "suggestion": {
+    "etat": "en-attente",
+    "date_soumission": null,
+    "tentatives": 0,
+    "date_email": "2026-09-23"
+  },
+  "retrait": null,
+  "dates": {
+    "collecte": "2026-09-23",
+    "publication": "2026-09-23",
+    "maj": "2026-09-23"
+  },
+  "source": "google-places",
+  "redaction": {
+    "titre": "La Pince à Linge — Nettoyage et hygiène à Annecy",
+    "meta_titre": "La Pince à Linge, nettoyage et hygiène à Annecy",
+    "meta_description": "La Pince à Linge, nettoyage et hygiène à Annecy (22 Avenue de Bouvard) : adresse, horaires, téléphone et informations pratiques.",
+    "chapo": "La Pince à Linge exerce l'activité de nettoyage et hygiène au 22 Avenue de Bouvard, à Annecy. Faute de site internet déclaré sur sa fiche Google, l'entreprise reste difficile à trouver en dehors des cartes. Cette page comble ce manque avec des données factuelles et datées.",
+    "sections": [
+      {
+        "id": "presentation",
+        "titre": "La Pince à Linge en quelques mots",
+        "paragraphes": [
+          "À Annecy, les recherches du type « nettoyage et hygiène près de chez moi » se concluent le plus souvent par un appel ou une visite directe.",
+          "Nettoyage de locaux, remise en état, pressing ou traitement des nuisibles : des services régulièrement recherchés par les particuliers comme par les entreprises, et pourtant très peu représentés en ligne à l'échelle d'une commune.",
+          "D'après le relevé du 23 septembre 2026, l'établissement est ouvert sept jours sur sept. Le détail jour par jour figure plus bas."
+        ]
+      },
+      {
+        "id": "acces",
+        "titre": "Adresse et accès",
+        "paragraphes": [
+          "L'établissement est situé au 22 Avenue de Bouvard, 74000 Annecy.",
+          "Coordonnées géographiques : 45.90301, 6.11892. Le lien d'itinéraire ci-dessous ouvre directement la navigation."
+        ]
+      },
+      {
+        "id": "contact",
+        "titre": "Contacter La Pince à Linge",
+        "paragraphes": [
+          "Le contact se fait par téléphone au 06 98 78 73 33. C'est le seul moyen de communication déclaré sur la fiche Google de l'entreprise, avec la visite sur place.",
+          "Si vous dirigez cette entreprise, vous pouvez demander la correction ou le retrait de cette page à tout moment, sans justification."
+        ]
+      },
+      {
+        "id": "avis",
+        "titre": "La réputation de La Pince à Linge",
+        "paragraphes": [
+          "Au relevé du 23 septembre 2026, l'établissement affichait une note de 4,6 sur 5 sur Google, calculée à partir de 64 avis. Cette note évolue en permanence : elle est indiquée ici à titre d'information et n'est pas retraitée.",
+          "Les avis appartiennent à Google et se consultent sur la fiche d'origine, dont le lien figure sur cette page."
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "q": "Quels sont les horaires de La Pince à Linge ?",
+        "r": "Au relevé du 23 septembre 2026, La Pince à Linge était ouvert sept jours sur sept. Dans le détail — lundi : de 7 h à 21 h ; mardi : de 7 h à 21 h ; mercredi : de 7 h à 21 h ; jeudi : de 7 h à 21 h ; vendredi : de 7 h à 21 h ; samedi : de 7 h à 21 h ; dimanche : de 7 h à 21 h. Ces horaires peuvent changer : un appel préalable reste conseillé."
+      },
+      {
+        "q": "Où se trouve La Pince à Linge ?",
+        "r": "La Pince à Linge se trouve 22 Av. de Bouvard, 74000 Annecy. Un lien d'itinéraire est disponible sur cette page."
+      },
+      {
+        "q": "Comment contacter La Pince à Linge ?",
+        "r": "Par téléphone au 06 98 78 73 33, ou directement sur place aux heures d'ouverture."
+      },
+      {
+        "q": "La Pince à Linge a-t-il un site internet ?",
+        "r": "Non : aucune adresse de site web n'est déclarée sur la fiche Google de La Pince à Linge au 23 septembre 2026. Cette page tient lieu de référence publique en attendant, le cas échéant, la création d'un site propre à l'entreprise."
+      }
+    ],
+    "genere_le": "2026-09-23"
+  },
+  "statut_google": "OPERATIONAL"
+}

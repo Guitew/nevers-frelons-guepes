@@ -1,5 +1,105 @@
 [
   {
+    "date": "2026-09-23T09:56:02.326Z",
+    "type": "suggestion-soumise",
+    "id": "ChIJuWfiVGceEEgR4-LabpgewJk",
+    "nom": "Frimor",
+    "url": "/transport-demenagement/saint-ave/frimor/"
+  },
+  {
+    "date": "2026-09-23T09:55:47.503Z",
+    "type": "backlink-absent",
+    "id": "ChIJ_36cY7wbyRIRIZEkyr6EQ-8",
+    "nom": "Car Wash Toulon",
+    "url": null,
+    "precedent": "en-attente"
+  },
+  {
+    "date": "2026-09-23T09:55:47.636Z",
+    "type": "backlink-absent",
+    "id": "ChIJx34Goqsqw0cR6gg_44jutIw",
+    "nom": "Délices Wok",
+    "url": null,
+    "precedent": "en-attente"
+  },
+  {
+    "date": "2026-09-23T09:55:47.737Z",
+    "type": "backlink-absent",
+    "id": "ChIJNVp7qiKoi0cRmtSiCjOFoks",
+    "nom": "L'EVIDENCE Boulangerie-Pâtisserie",
+    "url": null,
+    "precedent": "en-attente"
+  },
+  {
+    "date": "2026-09-23T09:55:47.889Z",
+    "type": "backlink-absent",
+    "id": "ChIJ2e7Y0neFi0cR9eZ3qOvrLT8",
+    "nom": "La Pince à Linge",
+    "url": null,
+    "precedent": "en-attente"
+  },
+  {
+    "date": "2026-09-23T09:55:47.965Z",
+    "type": "backlink-absent",
+    "id": "ChIJA-L_4DaF50cRlMNtffbflXY",
+    "nom": "Laverie de la Cathédrale Amiens",
+    "url": null,
+    "precedent": "en-attente"
+  },
+  {
+    "date": "2026-09-23T09:55:57.949Z",
+    "type": "backlink-absent",
+    "id": "ChIJcWqeJd4trhIRTUgnKO62TCA",
+    "nom": "Pharmacie Lafayette Pasteur",
+    "url": null,
+    "precedent": "present"
+  },
+  {
+    "date": "2026-09-23T09:55:47.257Z",
+    "type": "publication",
+    "id": "ChIJx34Goqsqw0cR6gg_44jutIw",
+    "nom": "Délices Wok",
+    "url": "/restaurants/lille/delices-wok/",
+    "categorie": "restaurants",
+    "source": "google-places"
+  },
+  {
+    "date": "2026-09-23T09:55:47.258Z",
+    "type": "publication",
+    "id": "ChIJNVp7qiKoi0cRmtSiCjOFoks",
+    "nom": "L'EVIDENCE Boulangerie-Pâtisserie",
+    "url": "/boulangeries-patisseries/chambery/l-evidence-boulangerie-patisserie/",
+    "categorie": "boulangeries-patisseries",
+    "source": "google-places"
+  },
+  {
+    "date": "2026-09-23T09:55:47.258Z",
+    "type": "publication",
+    "id": "ChIJ2e7Y0neFi0cR9eZ3qOvrLT8",
+    "nom": "La Pince à Linge",
+    "url": "/nettoyage-hygiene/annecy/la-pince-a-linge/",
+    "categorie": "nettoyage-hygiene",
+    "source": "google-places"
+  },
+  {
+    "date": "2026-09-23T09:55:47.259Z",
+    "type": "publication",
+    "id": "ChIJA-L_4DaF50cRlMNtffbflXY",
+    "nom": "Laverie de la Cathédrale Amiens",
+    "url": "/nettoyage-hygiene/amiens/laverie-de-la-cathedrale-amiens/",
+    "categorie": "nettoyage-hygiene",
+    "source": "google-places"
+  },
+  {
+    "date": "2026-09-23T09:55:47.259Z",
+    "type": "publication",
+    "id": "ChIJ_36cY7wbyRIRIZEkyr6EQ-8",
+    "nom": "Car Wash Toulon",
+    "url": "/garages-automobile/toulon/car-wash-toulon/",
+    "categorie": "garages-automobile",
+    "source": "google-places"
+  },
+  {
     "date": "2026-09-22T14:50:03.797Z",
     "type": "suggestion-soumise",
     "id": "ChIJbxiTWHXzikcRPsP2C2REzW0",

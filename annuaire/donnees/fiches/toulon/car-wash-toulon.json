@@ -1,0 +1,109 @@
+{
+  "id": "ChIJ_36cY7wbyRIRIZEkyr6EQ-8",
+  "slug": "car-wash-toulon",
+  "nom": "Car Wash Toulon",
+  "categorie": "garages-automobile",
+  "categorie_gmb": "Station de lavage automobile",
+  "type_principal": "car_wash",
+  "types": [
+    "car_wash",
+    "service",
+    "point_of_interest",
+    "establishment"
+  ],
+  "ville": "Toulon",
+  "ville_slug": "toulon",
+  "adresse": {
+    "rue": "377 Avenue du Général Pruneau",
+    "code_postal": "83000",
+    "departement": "83",
+    "region": "Provence-Alpes-Côte d'Azur",
+    "pays": "France",
+    "complete": "377 Av. du Général Pruneau, 83000 Toulon"
+  },
+  "telephone": "",
+  "geo": {
+    "latitude": 43.12079,
+    "longitude": 5.95444
+  },
+  "note": 4.5,
+  "avis": 578,
+  "horaires": null,
+  "attributs": [],
+  "lien_google": "https://maps.google.com/?cid=17240769753474437409&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
+  "site_web_gmb": null,
+  "statut": "publiee",
+  "backlink": {
+    "etat": "absent",
+    "premiere_detection": null,
+    "derniere_detection": null,
+    "derniere_verification": "2026-09-23T09:55:47.342Z",
+    "echecs": 1,
+    "url_detectee": null
+  },
+  "suggestion": {
+    "etat": "en-attente",
+    "date_soumission": null,
+    "tentatives": 0,
+    "date_email": "2026-09-23"
+  },
+  "retrait": null,
+  "dates": {
+    "collecte": "2026-09-23",
+    "publication": "2026-09-23",
+    "maj": "2026-09-23"
+  },
+  "source": "google-places",
+  "redaction": {
+    "titre": "Car Wash Toulon — Garage et automobile à Toulon",
+    "meta_titre": "Car Wash Toulon, garage et automobile à Toulon",
+    "meta_description": "Car Wash Toulon, garage et automobile à Toulon (377 Avenue du Général Pruneau) : adresse, horaires et informations pratiques.",
+    "chapo": "Cette fiche présente Car Wash Toulon, un garage et automobile au 377 Avenue du Général Pruneau, à Toulon. Son établissement ne déclare aucun site internet sur sa fiche Google : les informations ci-dessous en tiennent lieu de référence publique, vérifiable et accessible à tous.",
+    "sections": [
+      {
+        "id": "presentation",
+        "titre": "Car Wash Toulon en quelques mots",
+        "paragraphes": [
+          "Garages et services automobiles font partie des activités les plus consultées localement sur mobile.",
+          "Entretien, réparation, contrôle technique : l'automobiliste choisit d'abord un garage proche et disponible. Ces entreprises travaillent à flux tendu et délaissent presque toujours la création d'un site, malgré une demande de recherche locale considérable."
+        ]
+      },
+      {
+        "id": "acces",
+        "titre": "Adresse et accès",
+        "paragraphes": [
+          "L'établissement est situé au 377 Avenue du Général Pruneau, 83000 Toulon.",
+          "Coordonnées géographiques : 43.12079, 5.95444. Le lien d'itinéraire ci-dessous ouvre directement la navigation."
+        ]
+      },
+      {
+        "id": "contact",
+        "titre": "Contacter Car Wash Toulon",
+        "paragraphes": [
+          "Aucun numéro de téléphone n'est déclaré sur la fiche Google de l'établissement : le contact se fait sur place, aux horaires indiqués.",
+          "Si vous dirigez cette entreprise, vous pouvez demander la correction ou le retrait de cette page à tout moment, sans justification."
+        ]
+      },
+      {
+        "id": "avis",
+        "titre": "La réputation de Car Wash Toulon",
+        "paragraphes": [
+          "Au relevé du 23 septembre 2026, l'établissement affichait une note de 4,5 sur 5 sur Google, calculée à partir de 578 avis. Cette note évolue en permanence : elle est indiquée ici à titre d'information et n'est pas retraitée.",
+          "Les avis appartiennent à Google et se consultent sur la fiche d'origine, dont le lien figure sur cette page."
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "q": "Où se trouve Car Wash Toulon ?",
+        "r": "Car Wash Toulon se trouve 377 Av. du Général Pruneau, 83000 Toulon. Un lien d'itinéraire est disponible sur cette page."
+      },
+      {
+        "q": "Car Wash Toulon a-t-il un site internet ?",
+        "r": "Non : aucune adresse de site web n'est déclarée sur la fiche Google de Car Wash Toulon au 23 septembre 2026. Cette page tient lieu de référence publique en attendant, le cas échéant, la création d'un site propre à l'entreprise."
+      }
+    ],
+    "genere_le": "2026-09-23"
+  },
+  "statut_google": "OPERATIONAL"
+}
