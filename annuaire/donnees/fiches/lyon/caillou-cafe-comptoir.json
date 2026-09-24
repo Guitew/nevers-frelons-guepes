@@ -1,0 +1,195 @@
+{
+  "id": "ChIJwcaISNDr9EcR9-90jkukHXU",
+  "slug": "caillou-cafe-comptoir",
+  "nom": "Caillou Café Comptoir",
+  "categorie": "cafes-bars",
+  "categorie_gmb": "Café",
+  "type_principal": "coffee_shop",
+  "types": [
+    "coffee_shop",
+    "cafe",
+    "food_store",
+    "store",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "ville": "Lyon",
+  "ville_slug": "lyon",
+  "adresse": {
+    "rue": "60 Quai de Pierre-Scize",
+    "code_postal": "69005",
+    "departement": "69",
+    "region": "Auvergne-Rhône-Alpes",
+    "pays": "France",
+    "complete": "60 Quai de Pierre-Scize, 69005 Lyon"
+  },
+  "telephone": "",
+  "geo": {
+    "latitude": 45.766713499999994,
+    "longitude": 4.8209186
+  },
+  "note": 4.4,
+  "avis": 373,
+  "horaires": [
+    {
+      "jour": 0,
+      "ferme": false,
+      "creneaux": [
+        [
+          "08:00",
+          "18:00"
+        ]
+      ]
+    },
+    {
+      "jour": 1,
+      "ferme": false,
+      "creneaux": [
+        [
+          "08:00",
+          "18:00"
+        ]
+      ]
+    },
+    {
+      "jour": 2,
+      "ferme": false,
+      "creneaux": [
+        [
+          "08:00",
+          "18:00"
+        ]
+      ]
+    },
+    {
+      "jour": 3,
+      "ferme": false,
+      "creneaux": [
+        [
+          "08:00",
+          "18:00"
+        ]
+      ]
+    },
+    {
+      "jour": 4,
+      "ferme": false,
+      "creneaux": [
+        [
+          "08:00",
+          "18:00"
+        ]
+      ]
+    },
+    {
+      "jour": 5,
+      "ferme": false,
+      "creneaux": [
+        [
+          "09:00",
+          "19:00"
+        ]
+      ]
+    },
+    {
+      "jour": 6,
+      "ferme": false,
+      "creneaux": [
+        [
+          "10:00",
+          "18:00"
+        ]
+      ]
+    }
+  ],
+  "attributs": [
+    "Entrée accessible en fauteuil roulant",
+    "Places assises accessibles en fauteuil roulant"
+  ],
+  "lien_google": "https://maps.google.com/?cid=8439081921181708279&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
+  "site_web_gmb": null,
+  "statut": "publiee",
+  "backlink": {
+    "etat": "absent",
+    "premiere_detection": null,
+    "derniere_detection": null,
+    "derniere_verification": "2026-09-24T15:02:15.541Z",
+    "echecs": 1,
+    "url_detectee": null
+  },
+  "suggestion": {
+    "etat": "en-attente",
+    "date_soumission": null,
+    "tentatives": 0,
+    "date_email": "2026-09-24"
+  },
+  "retrait": null,
+  "dates": {
+    "collecte": "2026-09-24",
+    "publication": "2026-09-24",
+    "maj": "2026-09-24"
+  },
+  "source": "google-places",
+  "redaction": {
+    "titre": "Caillou Café Comptoir — Café ou bar à Lyon",
+    "meta_titre": "Caillou Café Comptoir, café ou bar à Lyon",
+    "meta_description": "Caillou Café Comptoir, café ou bar à Lyon (60 Quai de Pierre-Scize) : adresse, horaires et informations pratiques.",
+    "chapo": "Caillou Café Comptoir exerce l'activité de café ou bar au 60 Quai de Pierre-Scize, à Lyon. Faute de site internet déclaré sur sa fiche Google, l'entreprise reste difficile à trouver en dehors des cartes. Cette page comble ce manque avec des données factuelles et datées.",
+    "sections": [
+      {
+        "id": "presentation",
+        "titre": "Caillou Café Comptoir en quelques mots",
+        "paragraphes": [
+          "Le choix d'un café ou bar se joue sur trois critères : la proximité, les horaires et la facilité de contact.",
+          "Les cafés et bars sont des repères de vie locale rarement dotés d'un site. Horaires réels, terrasse, retransmissions sportives, concerts : autant de détails qui décident d'une sortie et qui n'apparaissent nulle part ailleurs de façon lisible.",
+          "D'après le relevé du 24 septembre 2026, l'établissement est ouvert sept jours sur sept. Le détail jour par jour figure plus bas."
+        ]
+      },
+      {
+        "id": "acces",
+        "titre": "Adresse et accès",
+        "paragraphes": [
+          "L'établissement est situé au 60 Quai de Pierre-Scize, 69005 Lyon.",
+          "Coordonnées géographiques : 45.76671, 4.82092. Le lien d'itinéraire ci-dessous ouvre directement la navigation."
+        ]
+      },
+      {
+        "id": "contact",
+        "titre": "Contacter Caillou Café Comptoir",
+        "paragraphes": [
+          "Aucun numéro de téléphone n'est déclaré sur la fiche Google de l'établissement : le contact se fait sur place, aux horaires indiqués.",
+          "Si vous dirigez cette entreprise, vous pouvez demander la correction ou le retrait de cette page à tout moment, sans justification."
+        ]
+      },
+      {
+        "id": "avis",
+        "titre": "La réputation de Caillou Café Comptoir",
+        "paragraphes": [
+          "Au relevé du 24 septembre 2026, l'établissement affichait une note de 4,4 sur 5 sur Google, calculée à partir de 373 avis. Cette note évolue en permanence : elle est indiquée ici à titre d'information et n'est pas retraitée.",
+          "Les avis appartiennent à Google et se consultent sur la fiche d'origine, dont le lien figure sur cette page."
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "q": "Quels sont les horaires de Caillou Café Comptoir ?",
+        "r": "Au relevé du 24 septembre 2026, Caillou Café Comptoir était ouvert sept jours sur sept. Dans le détail — lundi : de 8 h à 18 h ; mardi : de 8 h à 18 h ; mercredi : de 8 h à 18 h ; jeudi : de 8 h à 18 h ; vendredi : de 8 h à 18 h ; samedi : de 9 h à 19 h ; dimanche : de 10 h à 18 h. Ces horaires peuvent changer : un appel préalable reste conseillé."
+      },
+      {
+        "q": "Où se trouve Caillou Café Comptoir ?",
+        "r": "Caillou Café Comptoir se trouve 60 Quai de Pierre-Scize, 69005 Lyon. Un lien d'itinéraire est disponible sur cette page."
+      },
+      {
+        "q": "Caillou Café Comptoir a-t-il un site internet ?",
+        "r": "Non : aucune adresse de site web n'est déclarée sur la fiche Google de Caillou Café Comptoir au 24 septembre 2026. Cette page tient lieu de référence publique en attendant, le cas échéant, la création d'un site propre à l'entreprise."
+      },
+      {
+        "q": "Caillou Café Comptoir est-il accessible aux personnes à mobilité réduite ?",
+        "r": "La fiche Google de l'établissement mentionne : « Entrée accessible en fauteuil roulant ». Cette information est déclarative ; en cas de doute, vérifiez par téléphone."
+      }
+    ],
+    "genere_le": "2026-09-24"
+  },
+  "statut_google": "OPERATIONAL"
+}

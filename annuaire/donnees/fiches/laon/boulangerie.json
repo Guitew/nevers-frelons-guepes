@@ -1,0 +1,193 @@
+{
+  "id": "ChIJo0e4xUhL6EcRay_aKE7Rjz4",
+  "slug": "boulangerie",
+  "nom": "Boulangerie",
+  "categorie": "boulangeries-patisseries",
+  "categorie_gmb": "Boulangerie",
+  "type_principal": "bakery",
+  "types": [
+    "bakery",
+    "food_store",
+    "store",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "ville": "Laon",
+  "ville_slug": "laon",
+  "adresse": {
+    "rue": "31 Rue Eugène Leduc",
+    "code_postal": "02000",
+    "departement": "02",
+    "region": "Hauts-de-France",
+    "pays": "France",
+    "complete": "31 Rue Eugène Leduc, 02000 Laon"
+  },
+  "telephone": "09 83 71 83 46",
+  "geo": {
+    "latitude": 49.5688527,
+    "longitude": 3.6318246999999997
+  },
+  "note": 4,
+  "avis": 290,
+  "horaires": [
+    {
+      "jour": 0,
+      "ferme": false,
+      "creneaux": [
+        [
+          "06:00",
+          "20:00"
+        ]
+      ]
+    },
+    {
+      "jour": 1,
+      "ferme": true,
+      "creneaux": []
+    },
+    {
+      "jour": 2,
+      "ferme": false,
+      "creneaux": [
+        [
+          "06:00",
+          "20:00"
+        ]
+      ]
+    },
+    {
+      "jour": 3,
+      "ferme": false,
+      "creneaux": [
+        [
+          "06:00",
+          "20:00"
+        ]
+      ]
+    },
+    {
+      "jour": 4,
+      "ferme": false,
+      "creneaux": [
+        [
+          "06:00",
+          "20:00"
+        ]
+      ]
+    },
+    {
+      "jour": 5,
+      "ferme": false,
+      "creneaux": [
+        [
+          "06:00",
+          "20:00"
+        ]
+      ]
+    },
+    {
+      "jour": 6,
+      "ferme": false,
+      "creneaux": [
+        [
+          "06:00",
+          "20:00"
+        ]
+      ]
+    }
+  ],
+  "attributs": [
+    "Entrée accessible en fauteuil roulant",
+    "Parking accessible en fauteuil roulant"
+  ],
+  "lien_google": "https://maps.google.com/?cid=4508051885644197739&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
+  "site_web_gmb": null,
+  "statut": "publiee",
+  "backlink": {
+    "etat": "absent",
+    "premiere_detection": null,
+    "derniere_detection": null,
+    "derniere_verification": "2026-09-24T15:02:15.541Z",
+    "echecs": 1,
+    "url_detectee": null
+  },
+  "suggestion": {
+    "etat": "en-attente",
+    "date_soumission": null,
+    "tentatives": 0,
+    "date_email": "2026-09-24"
+  },
+  "retrait": null,
+  "dates": {
+    "collecte": "2026-09-24",
+    "publication": "2026-09-24",
+    "maj": "2026-09-24"
+  },
+  "source": "google-places",
+  "redaction": {
+    "titre": "Boulangerie — Boulangerie-pâtisserie à Laon",
+    "meta_titre": "Boulangerie, boulangerie-pâtisserie à Laon",
+    "meta_description": "Boulangerie, boulangerie-pâtisserie à Laon (31 Rue Eugène Leduc) : adresse, horaires, téléphone et informations pratiques.",
+    "chapo": "Boulangerie figure parmi les établissements de la catégorie « Boulangerie-pâtisserie » recensés à Laon. L'entreprise n'a pas de site web référencé sur sa fiche Google. Les éléments présentés ici — adresse, horaires, contact — proviennent de cette fiche et sont datés de leur relevé.",
+    "sections": [
+      {
+        "id": "presentation",
+        "titre": "Boulangerie en quelques mots",
+        "paragraphes": [
+          "Boulangeries et pâtisseries font partie des activités les plus consultées localement sur mobile.",
+          "L'artisanat de bouche vit du passage et du bouche-à-oreille : le site web passe souvent après le fournil. Les informations pratiques — jour de fermeture, heure de sortie du pain, spécialités — sont pourtant ce que les habitants cherchent le plus souvent depuis leur téléphone.",
+          "D'après le relevé du 24 septembre 2026, l'établissement est ouvert tous les jours sauf le mardi. Le détail jour par jour figure plus bas."
+        ]
+      },
+      {
+        "id": "acces",
+        "titre": "Adresse et accès",
+        "paragraphes": [
+          "L'établissement est situé au 31 Rue Eugène Leduc, 02000 Laon.",
+          "Coordonnées géographiques : 49.56885, 3.63182. Le lien d'itinéraire ci-dessous ouvre directement la navigation."
+        ]
+      },
+      {
+        "id": "contact",
+        "titre": "Contacter Boulangerie",
+        "paragraphes": [
+          "Le contact se fait par téléphone au 09 83 71 83 46. C'est le seul moyen de communication déclaré sur la fiche Google de l'entreprise, avec la visite sur place.",
+          "Si vous dirigez cette entreprise, vous pouvez demander la correction ou le retrait de cette page à tout moment, sans justification."
+        ]
+      },
+      {
+        "id": "avis",
+        "titre": "La réputation de Boulangerie",
+        "paragraphes": [
+          "Au relevé du 24 septembre 2026, l'établissement affichait une note de 4 sur 5 sur Google, calculée à partir de 290 avis. Cette note évolue en permanence : elle est indiquée ici à titre d'information et n'est pas retraitée.",
+          "Les avis appartiennent à Google et se consultent sur la fiche d'origine, dont le lien figure sur cette page."
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "q": "Quels sont les horaires de Boulangerie ?",
+        "r": "Au relevé du 24 septembre 2026, Boulangerie était ouvert tous les jours sauf le mardi. Dans le détail — lundi : de 6 h à 20 h ; mardi : fermé ; mercredi : de 6 h à 20 h ; jeudi : de 6 h à 20 h ; vendredi : de 6 h à 20 h ; samedi : de 6 h à 20 h ; dimanche : de 6 h à 20 h. Ces horaires peuvent changer : un appel préalable reste conseillé."
+      },
+      {
+        "q": "Où se trouve Boulangerie ?",
+        "r": "Boulangerie se trouve 31 Rue Eugène Leduc, 02000 Laon. Un lien d'itinéraire est disponible sur cette page."
+      },
+      {
+        "q": "Comment contacter Boulangerie ?",
+        "r": "Par téléphone au 09 83 71 83 46, ou directement sur place aux heures d'ouverture."
+      },
+      {
+        "q": "Boulangerie a-t-il un site internet ?",
+        "r": "Non : aucune adresse de site web n'est déclarée sur la fiche Google de Boulangerie au 24 septembre 2026. Cette page tient lieu de référence publique en attendant, le cas échéant, la création d'un site propre à l'entreprise."
+      },
+      {
+        "q": "Boulangerie est-il accessible aux personnes à mobilité réduite ?",
+        "r": "La fiche Google de l'établissement mentionne : « Entrée accessible en fauteuil roulant ». Cette information est déclarative ; en cas de doute, vérifiez par téléphone."
+      }
+    ],
+    "genere_le": "2026-09-24"
+  },
+  "statut_google": "OPERATIONAL"
+}

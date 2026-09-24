@@ -1,5 +1,105 @@
 [
   {
+    "date": "2026-09-24T15:02:32.359Z",
+    "type": "suggestion-soumise",
+    "id": "ChIJISeNJSsa90cRABoGGSLWxXI",
+    "nom": "Pharmacie des 4 Routes",
+    "url": "/pharmacies-opticiens/chamalieres/pharmacie-des-4-routes/"
+  },
+  {
+    "date": "2026-09-24T15:02:15.696Z",
+    "type": "backlink-absent",
+    "id": "ChIJo0e4xUhL6EcRay_aKE7Rjz4",
+    "nom": "Boulangerie",
+    "url": null,
+    "precedent": "en-attente"
+  },
+  {
+    "date": "2026-09-24T15:02:15.855Z",
+    "type": "backlink-absent",
+    "id": "ChIJwcaISNDr9EcR9-90jkukHXU",
+    "nom": "Caillou Café Comptoir",
+    "url": null,
+    "precedent": "en-attente"
+  },
+  {
+    "date": "2026-09-24T15:02:15.940Z",
+    "type": "backlink-absent",
+    "id": "ChIJAbQV5AVw5kcR3as-MQ8GJCI",
+    "nom": "Centre Commercial Beaugrenelle",
+    "url": null,
+    "precedent": "en-attente"
+  },
+  {
+    "date": "2026-09-24T15:02:16.109Z",
+    "type": "backlink-absent",
+    "id": "ChIJD_LvFzF_CEgRrKvtOJlY-UI",
+    "nom": "Pharmacie Montesquieu",
+    "url": null,
+    "precedent": "en-attente"
+  },
+  {
+    "date": "2026-09-24T15:02:16.190Z",
+    "type": "backlink-absent",
+    "id": "ChIJE8QeDyIsrhIRSPCIAjJeFOY",
+    "nom": "SCP vétérinaire Peyrot Sahun (OFFICIEL)",
+    "url": null,
+    "precedent": "en-attente"
+  },
+  {
+    "date": "2026-09-24T15:02:28.104Z",
+    "type": "backlink-present",
+    "id": "ChIJu4Y7gBPiEUgRDqrGJgtsKl8",
+    "nom": "Logidis Comptoirs Modernes base carrefour",
+    "url": "https://andpro.fr/vitrine-locale/transport-demenagement/ploufragan/logidis-comptoirs-modernes-base-carrefour/",
+    "precedent": "absent"
+  },
+  {
+    "date": "2026-09-24T15:02:15.444Z",
+    "type": "publication",
+    "id": "ChIJwcaISNDr9EcR9-90jkukHXU",
+    "nom": "Caillou Café Comptoir",
+    "url": "/cafes-bars/lyon/caillou-cafe-comptoir/",
+    "categorie": "cafes-bars",
+    "source": "google-places"
+  },
+  {
+    "date": "2026-09-24T15:02:15.445Z",
+    "type": "publication",
+    "id": "ChIJAbQV5AVw5kcR3as-MQ8GJCI",
+    "nom": "Centre Commercial Beaugrenelle",
+    "url": "/pharmacies-opticiens/paris/centre-commercial-beaugrenelle/",
+    "categorie": "pharmacies-opticiens",
+    "source": "google-places"
+  },
+  {
+    "date": "2026-09-24T15:02:15.446Z",
+    "type": "publication",
+    "id": "ChIJE8QeDyIsrhIRSPCIAjJeFOY",
+    "nom": "SCP vétérinaire Peyrot Sahun (OFFICIEL)",
+    "url": "/veterinaires-animaux/carcassonne/scp-veterinaire-peyrot-sahun-officiel/",
+    "categorie": "veterinaires-animaux",
+    "source": "google-places"
+  },
+  {
+    "date": "2026-09-24T15:02:15.446Z",
+    "type": "publication",
+    "id": "ChIJD_LvFzF_CEgRrKvtOJlY-UI",
+    "nom": "Pharmacie Montesquieu",
+    "url": "/pharmacies-opticiens/angers/pharmacie-montesquieu/",
+    "categorie": "pharmacies-opticiens",
+    "source": "google-places"
+  },
+  {
+    "date": "2026-09-24T15:02:15.446Z",
+    "type": "publication",
+    "id": "ChIJo0e4xUhL6EcRay_aKE7Rjz4",
+    "nom": "Boulangerie",
+    "url": "/boulangeries-patisseries/laon/boulangerie/",
+    "categorie": "boulangeries-patisseries",
+    "source": "google-places"
+  },
+  {
     "date": "2026-09-24T09:56:40.038Z",
     "type": "suggestion-soumise",
     "id": "ChIJAUykfqMt_kcRMIT85cQHVjU",
