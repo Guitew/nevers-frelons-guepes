@@ -1,0 +1,198 @@
+{
+  "id": "ChIJH2NusxEcEEgRxf7CP9Us75c",
+  "slug": "le-fournil-du-golfe",
+  "nom": "Le Fournil Du Golfe",
+  "categorie": "boulangeries-patisseries",
+  "categorie_gmb": "Boulangerie",
+  "type_principal": "bakery",
+  "types": [
+    "bakery",
+    "pastry_shop",
+    "dessert_shop",
+    "home_goods_store",
+    "confectionery",
+    "food_store",
+    "store",
+    "food",
+    "point_of_interest",
+    "service",
+    "establishment"
+  ],
+  "ville": "Vannes",
+  "ville_slug": "vannes",
+  "adresse": {
+    "rue": "24 Place de Faréham",
+    "code_postal": "56000",
+    "departement": "56",
+    "region": "Bretagne",
+    "pays": "France",
+    "complete": "24 Pl. de Faréham, 56000 Vannes"
+  },
+  "telephone": "02 97 40 86 24",
+  "geo": {
+    "latitude": 47.6393871,
+    "longitude": -2.7752774
+  },
+  "note": 4.3,
+  "avis": 442,
+  "horaires": [
+    {
+      "jour": 0,
+      "ferme": false,
+      "creneaux": [
+        [
+          "06:30",
+          "19:30"
+        ]
+      ]
+    },
+    {
+      "jour": 1,
+      "ferme": false,
+      "creneaux": [
+        [
+          "06:30",
+          "19:30"
+        ]
+      ]
+    },
+    {
+      "jour": 2,
+      "ferme": true,
+      "creneaux": []
+    },
+    {
+      "jour": 3,
+      "ferme": false,
+      "creneaux": [
+        [
+          "06:30",
+          "19:30"
+        ]
+      ]
+    },
+    {
+      "jour": 4,
+      "ferme": false,
+      "creneaux": [
+        [
+          "06:30",
+          "19:30"
+        ]
+      ]
+    },
+    {
+      "jour": 5,
+      "ferme": false,
+      "creneaux": [
+        [
+          "06:30",
+          "19:30"
+        ]
+      ]
+    },
+    {
+      "jour": 6,
+      "ferme": false,
+      "creneaux": [
+        [
+          "07:00",
+          "13:00"
+        ]
+      ]
+    }
+  ],
+  "attributs": [
+    "Entrée accessible en fauteuil roulant",
+    "Parking accessible en fauteuil roulant"
+  ],
+  "lien_google": "https://maps.google.com/?cid=10948018513570365125&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
+  "site_web_gmb": null,
+  "statut": "publiee",
+  "backlink": {
+    "etat": "absent",
+    "premiere_detection": null,
+    "derniere_detection": null,
+    "derniere_verification": "2026-09-24T09:56:23.029Z",
+    "echecs": 1,
+    "url_detectee": null
+  },
+  "suggestion": {
+    "etat": "en-attente",
+    "date_soumission": null,
+    "tentatives": 0,
+    "date_email": "2026-09-24"
+  },
+  "retrait": null,
+  "dates": {
+    "collecte": "2026-09-24",
+    "publication": "2026-09-24",
+    "maj": "2026-09-24"
+  },
+  "source": "google-places",
+  "redaction": {
+    "titre": "Le Fournil Du Golfe — Boulangerie-pâtisserie à Vannes",
+    "meta_titre": "Le Fournil Du Golfe, boulangerie-pâtisserie à Vannes",
+    "meta_description": "Le Fournil Du Golfe, boulangerie-pâtisserie à Vannes (24 Place de Faréham) : adresse, horaires, téléphone et informations pratiques.",
+    "chapo": "Cette fiche présente Le Fournil Du Golfe, une boulangerie-pâtisserie au 24 Place de Faréham, à Vannes. Son établissement ne déclare aucun site internet sur sa fiche Google : les informations ci-dessous en tiennent lieu de référence publique, vérifiable et accessible à tous.",
+    "sections": [
+      {
+        "id": "presentation",
+        "titre": "Le Fournil Du Golfe en quelques mots",
+        "paragraphes": [
+          "Boulangeries et pâtisseries font partie des activités les plus consultées localement sur mobile.",
+          "L'artisanat de bouche vit du passage et du bouche-à-oreille : le site web passe souvent après le fournil. Les informations pratiques — jour de fermeture, heure de sortie du pain, spécialités — sont pourtant ce que les habitants cherchent le plus souvent depuis leur téléphone.",
+          "D'après le relevé du 24 septembre 2026, l'établissement est ouvert tous les jours sauf le mercredi. Le détail jour par jour figure plus bas."
+        ]
+      },
+      {
+        "id": "acces",
+        "titre": "Adresse et accès",
+        "paragraphes": [
+          "L'établissement est situé au 24 Place de Faréham, 56000 Vannes.",
+          "Coordonnées géographiques : 47.63939, -2.77528. Le lien d'itinéraire ci-dessous ouvre directement la navigation."
+        ]
+      },
+      {
+        "id": "contact",
+        "titre": "Contacter Le Fournil Du Golfe",
+        "paragraphes": [
+          "Le contact se fait par téléphone au 02 97 40 86 24. C'est le seul moyen de communication déclaré sur la fiche Google de l'entreprise, avec la visite sur place.",
+          "Si vous dirigez cette entreprise, vous pouvez demander la correction ou le retrait de cette page à tout moment, sans justification."
+        ]
+      },
+      {
+        "id": "avis",
+        "titre": "La réputation de Le Fournil Du Golfe",
+        "paragraphes": [
+          "Au relevé du 24 septembre 2026, l'établissement affichait une note de 4,3 sur 5 sur Google, calculée à partir de 442 avis. Cette note évolue en permanence : elle est indiquée ici à titre d'information et n'est pas retraitée.",
+          "Les avis appartiennent à Google et se consultent sur la fiche d'origine, dont le lien figure sur cette page."
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "q": "Quels sont les horaires de Le Fournil Du Golfe ?",
+        "r": "Au relevé du 24 septembre 2026, Le Fournil Du Golfe était ouvert tous les jours sauf le mercredi. Dans le détail — lundi : de 6 h 30 à 19 h 30 ; mardi : de 6 h 30 à 19 h 30 ; mercredi : fermé ; jeudi : de 6 h 30 à 19 h 30 ; vendredi : de 6 h 30 à 19 h 30 ; samedi : de 6 h 30 à 19 h 30 ; dimanche : de 7 h à 13 h. Ces horaires peuvent changer : un appel préalable reste conseillé."
+      },
+      {
+        "q": "Où se trouve Le Fournil Du Golfe ?",
+        "r": "Le Fournil Du Golfe se trouve 24 Pl. de Faréham, 56000 Vannes. Un lien d'itinéraire est disponible sur cette page."
+      },
+      {
+        "q": "Comment contacter Le Fournil Du Golfe ?",
+        "r": "Par téléphone au 02 97 40 86 24, ou directement sur place aux heures d'ouverture."
+      },
+      {
+        "q": "Le Fournil Du Golfe a-t-il un site internet ?",
+        "r": "Non : aucune adresse de site web n'est déclarée sur la fiche Google de Le Fournil Du Golfe au 24 septembre 2026. Cette page tient lieu de référence publique en attendant, le cas échéant, la création d'un site propre à l'entreprise."
+      },
+      {
+        "q": "Le Fournil Du Golfe est-il accessible aux personnes à mobilité réduite ?",
+        "r": "La fiche Google de l'établissement mentionne : « Entrée accessible en fauteuil roulant ». Cette information est déclarative ; en cas de doute, vérifiez par téléphone."
+      }
+    ],
+    "genere_le": "2026-09-24"
+  },
+  "statut_google": "OPERATIONAL"
+}
