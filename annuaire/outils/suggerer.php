@@ -62,14 +62,13 @@ $marquer_url = 'suggerer.php?' . http_build_query([
     'id' => $id, 't' => TOKEN, 'nom' => $nom, 'url' => $url_page, 'tel' => $tel, 'action' => 'marquer'
 ]);
 // Mêmes textes que outils/lib/sms.mjs : le dirigeant ajoute le lien lui-même.
-$chemin = "Google Maps > votre établissement > Modifier le profil > Site Web > collez > Enregistrer";
-$sms_texte = "Bonjour, " . SIGNATURE_SMS . ". Sur Google, les clients choisissent les fiches qui ont un site web : "
-  . "sans lien, $nom perd des appels face aux concurrents. Votre page gratuite est en ligne. "
-  . "Pour l'activer, 1 min : $chemin. Sans engagement. Une question ? Répondez ici.\n"
-  . "Lien :\n$url_page";
-$sms_relance = "Bonjour, petit rappel : sans site web sur votre fiche Google, des clients partent chez un concurrent qui en a un. "
-  . "La page gratuite de $nom est en ligne, 1 min pour l'activer : $chemin. "
-  . "Si vous préférez que je la retire, un mot suffit.\n$url_page";
+$chemin = "Google Maps > votre établissement > Modifier le profil > Site Web > coller ce lien";
+$sms_texte = "Bonjour, " . SIGNATURE_SMS . ". Votre fiche Google ($nom) n'a pas de bouton Site Web. "
+  . "J'ai mis en ligne une page avec vos horaires, adresse et téléphone : elle peut servir de site web sur votre fiche.\n"
+  . "Pour l'ajouter : $chemin.\n"
+  . "C'est gratuit. Pour la retirer, répondez STOP.\n$url_page";
+$sms_relance = "Bonjour, suite à mon SMS : la page de $nom est toujours en ligne et votre fiche Google n'a toujours pas de site web. "
+  . "L'ajouter prend une minute : $chemin. Pour la retirer, répondez STOP.\n$url_page";
 $sms_lien = $tel ? 'sms:' . $tel . '?body=' . rawurlencode($sms_texte) : '';
 ?>
 <!doctype html>

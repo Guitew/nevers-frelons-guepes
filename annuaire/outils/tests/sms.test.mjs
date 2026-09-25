@@ -16,20 +16,21 @@ test("seuls les mobiles français (06/07) reçoivent un SMS, au format internati
   assert.equal(numeroSms(undefined), null);
 });
 
-test("le SMS fait agir le dirigeant lui-même : chemin exact, lien copiable en dernière ligne, objections levées", () => {
+test("le SMS est direct et factuel : constat, chemin exact, gratuité, sortie STOP, lien en dernière ligne", () => {
   const url = "https://andpro.fr/vitrine-locale/loisirs-sport-culture/chastel-nouvel/lozer-kids/";
   const texte = smsInitial({ nom: "Lozer' kids", url, signature: "Guillaume de Vitrine Locale" });
   assert.ok(texte.endsWith("\n" + url), "le lien est seul en dernière ligne, pour un appui long");
   assert.ok(texte.includes("Lozer' kids"));
+  assert.match(texte, /n'a pas de bouton Site Web/, "le constat factuel");
   assert.match(texte, /Google Maps > votre établissement > Modifier le profil > Site Web/);
-  assert.match(texte, /perd des appels face aux concurrents/, "l'argument d'acquisition est présent");
-  assert.match(texte, /gratuite/);
-  assert.match(texte, /Sans engagement/);
-  assert.match(texte, /Répondez ici/);
+  assert.match(texte, /C'est gratuit/);
+  assert.match(texte, /répondez STOP/, "une sortie claire");
+  assert.doesNotMatch(texte, /!|offre|exceptionnel|profitez|concurrent/i, "aucune formule commerciale");
   assert.ok(segments(texte) <= 3, `trop long : ${texte.length} caractères, ${segments(texte)} segments`);
   const relance = smsRelance({ nom: "Lozer' kids", url });
   assert.ok(relance.endsWith("\n" + url));
-  assert.match(relance, /rappel/);
+  assert.match(relance, /suite à mon SMS/);
+  assert.match(relance, /répondez STOP/);
 });
 
 test("le lien sms: pré-remplit destinataire et texte", () => {
