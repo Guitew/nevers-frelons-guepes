@@ -29,7 +29,7 @@
     "longitude": 6.100344
   },
   "note": 4.3,
-  "avis": 598,
+  "avis": 600,
   "horaires": [
     {
       "jour": 0,
@@ -132,8 +132,8 @@
     "etat": "externe",
     "premiere_detection": null,
     "derniere_detection": null,
-    "derniere_verification": "2026-09-24T15:02:15.541Z",
-    "echecs": 48,
+    "derniere_verification": "2026-09-25T15:13:47.031Z",
+    "echecs": 49,
     "url_detectee": "https://mobilite.jeanlain.com/volkswagen/concessions/volkswagen-gap/"
   },
   "suggestion": {
@@ -145,7 +145,7 @@
   "dates": {
     "collecte": "2026-09-01",
     "publication": "2026-09-01",
-    "maj": "2026-09-24"
+    "maj": "2026-09-25"
   },
   "source": "google-places",
   "redaction": {

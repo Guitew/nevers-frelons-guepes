@@ -1,0 +1,191 @@
+{
+  "id": "ChIJBU8qeXVusxIRojxBYFTRJJE",
+  "slug": "boulangerie-d-angiran",
+  "nom": "Boulangerie d’Angiran",
+  "categorie": "boulangeries-patisseries",
+  "categorie_gmb": "Boulangerie",
+  "type_principal": "bakery",
+  "types": [
+    "bakery",
+    "pastry_shop",
+    "dessert_shop",
+    "sandwich_shop",
+    "confectionery",
+    "food_store",
+    "store",
+    "restaurant",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "ville": "Mende",
+  "ville_slug": "mende",
+  "adresse": {
+    "rue": "8 Rue d'Angiran",
+    "code_postal": "48000",
+    "departement": "48",
+    "region": "Occitanie",
+    "pays": "France",
+    "complete": "8 Rue d'Angiran, 48000 Mende"
+  },
+  "telephone": "04 66 47 10 84",
+  "geo": {
+    "latitude": 44.517761,
+    "longitude": 3.5006915
+  },
+  "note": 4.6,
+  "avis": 133,
+  "horaires": [
+    {
+      "jour": 0,
+      "ferme": true,
+      "creneaux": []
+    },
+    {
+      "jour": 1,
+      "ferme": false,
+      "creneaux": [
+        [
+          "06:30",
+          "19:00"
+        ]
+      ]
+    },
+    {
+      "jour": 2,
+      "ferme": false,
+      "creneaux": [
+        [
+          "06:30",
+          "19:00"
+        ]
+      ]
+    },
+    {
+      "jour": 3,
+      "ferme": false,
+      "creneaux": [
+        [
+          "06:30",
+          "19:00"
+        ]
+      ]
+    },
+    {
+      "jour": 4,
+      "ferme": false,
+      "creneaux": [
+        [
+          "06:30",
+          "19:00"
+        ]
+      ]
+    },
+    {
+      "jour": 5,
+      "ferme": false,
+      "creneaux": [
+        [
+          "06:30",
+          "19:00"
+        ]
+      ]
+    },
+    {
+      "jour": 6,
+      "ferme": false,
+      "creneaux": [
+        [
+          "06:30",
+          "12:15"
+        ]
+      ]
+    }
+  ],
+  "attributs": [],
+  "lien_google": "https://maps.google.com/?cid=10458714394983480482&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
+  "site_web_gmb": null,
+  "statut": "publiee",
+  "backlink": {
+    "etat": "absent",
+    "premiere_detection": null,
+    "derniere_detection": null,
+    "derniere_verification": "2026-09-25T15:13:47.031Z",
+    "echecs": 1,
+    "url_detectee": null
+  },
+  "suggestion": {
+    "etat": "en-attente",
+    "date_soumission": null,
+    "tentatives": 0,
+    "date_email": "2026-09-25"
+  },
+  "retrait": null,
+  "dates": {
+    "collecte": "2026-09-25",
+    "publication": "2026-09-25",
+    "maj": "2026-09-25"
+  },
+  "source": "google-places",
+  "redaction": {
+    "titre": "Boulangerie d’Angiran — Boulangerie-pâtisserie à Mende",
+    "meta_titre": "Boulangerie d’Angiran, boulangerie-pâtisserie à Mende",
+    "meta_description": "Boulangerie d’Angiran, boulangerie-pâtisserie à Mende (8 Rue d'Angiran) : adresse, horaires, téléphone et informations pratiques.",
+    "chapo": "Boulangerie d’Angiran exerce l'activité de boulangerie-pâtisserie au 8 Rue d'Angiran, à Mende. Faute de site internet déclaré sur sa fiche Google, l'entreprise reste difficile à trouver en dehors des cartes. Cette page comble ce manque avec des données factuelles et datées.",
+    "sections": [
+      {
+        "id": "presentation",
+        "titre": "Boulangerie d’Angiran en quelques mots",
+        "paragraphes": [
+          "Le choix d'une boulangerie-pâtisserie se joue sur trois critères : la proximité, les horaires et la facilité de contact.",
+          "L'artisanat de bouche vit du passage et du bouche-à-oreille : le site web passe souvent après le fournil. Les informations pratiques — jour de fermeture, heure de sortie du pain, spécialités — sont pourtant ce que les habitants cherchent le plus souvent depuis leur téléphone.",
+          "D'après le relevé du 25 septembre 2026, l'établissement est ouvert tous les jours sauf le lundi. Le détail jour par jour figure plus bas."
+        ]
+      },
+      {
+        "id": "acces",
+        "titre": "Adresse et accès",
+        "paragraphes": [
+          "L'établissement est situé au 8 Rue d'Angiran, 48000 Mende.",
+          "Coordonnées géographiques : 44.51776, 3.50069. Le lien d'itinéraire ci-dessous ouvre directement la navigation."
+        ]
+      },
+      {
+        "id": "contact",
+        "titre": "Contacter Boulangerie d’Angiran",
+        "paragraphes": [
+          "Le contact se fait par téléphone au 04 66 47 10 84. C'est le seul moyen de communication déclaré sur la fiche Google de l'entreprise, avec la visite sur place.",
+          "Si vous dirigez cette entreprise, vous pouvez demander la correction ou le retrait de cette page à tout moment, sans justification."
+        ]
+      },
+      {
+        "id": "avis",
+        "titre": "La réputation de Boulangerie d’Angiran",
+        "paragraphes": [
+          "Au relevé du 25 septembre 2026, l'établissement affichait une note de 4,6 sur 5 sur Google, calculée à partir de 133 avis. Cette note évolue en permanence : elle est indiquée ici à titre d'information et n'est pas retraitée.",
+          "Les avis appartiennent à Google et se consultent sur la fiche d'origine, dont le lien figure sur cette page."
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "q": "Quels sont les horaires de Boulangerie d’Angiran ?",
+        "r": "Au relevé du 25 septembre 2026, Boulangerie d’Angiran était ouvert tous les jours sauf le lundi. Dans le détail — lundi : fermé ; mardi : de 6 h 30 à 19 h ; mercredi : de 6 h 30 à 19 h ; jeudi : de 6 h 30 à 19 h ; vendredi : de 6 h 30 à 19 h ; samedi : de 6 h 30 à 19 h ; dimanche : de 6 h 30 à 12 h 15. Ces horaires peuvent changer : un appel préalable reste conseillé."
+      },
+      {
+        "q": "Où se trouve Boulangerie d’Angiran ?",
+        "r": "Boulangerie d’Angiran se trouve 8 Rue d'Angiran, 48000 Mende. Un lien d'itinéraire est disponible sur cette page."
+      },
+      {
+        "q": "Comment contacter Boulangerie d’Angiran ?",
+        "r": "Par téléphone au 04 66 47 10 84, ou directement sur place aux heures d'ouverture."
+      },
+      {
+        "q": "Boulangerie d’Angiran a-t-il un site internet ?",
+        "r": "Non : aucune adresse de site web n'est déclarée sur la fiche Google de Boulangerie d’Angiran au 25 septembre 2026. Cette page tient lieu de référence publique en attendant, le cas échéant, la création d'un site propre à l'entreprise."
+      }
+    ],
+    "genere_le": "2026-09-25"
+  },
+  "statut_google": "OPERATIONAL"
+}
