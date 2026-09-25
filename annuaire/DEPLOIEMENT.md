@@ -159,19 +159,19 @@ Aucune clé n'est créée ni stockée : GitHub Actions s'authentifie auprès de 
 la méthode recommandée par Google, et la seule possible quand l'organisation interdit les clés de
 compte de service (règle `iam.disableServiceAccountKeyCreation`, appliquée par défaut).
 
-1. **Lancer le script d'installation dans Cloud Shell**, le terminal en ligne de Google Cloud :
-   ouvrir <https://shell.cloud.google.com>, attendre l'invite, coller cette ligne et valider :
+1. **Ouvrir le guide Cloud Shell en un clic** (Cloud Shell est le terminal en ligne de Google,
+   rien à installer) :
 
-   ```bash
-   bash <(curl -sS https://raw.githubusercontent.com/Guitew/nevers-frelons-guepes/main/annuaire/outils/installer-google.sh)
-   ```
+   <https://shell.cloud.google.com/cloudshell/editor?cloudshell_git_repo=https://github.com/Guitew/nevers-frelons-guepes&cloudshell_git_branch=main&cloudshell_tutorial=annuaire/outils/cloudshell.md&show=terminal>
 
-   Le script ([`outils/installer-google.sh`](./outils/installer-google.sh)) demande le projet si
-   besoin (celui de la clé Places), active les API, crée le compte de service `vitrine-locale`,
-   le pool et le fournisseur Workload Identity restreints au dépôt GitHub, puis affiche deux lignes
-   `GOOGLE_WORKLOAD_IDENTITY_PROVIDER=…` et `GOOGLE_SERVICE_ACCOUNT=…`. Il est relançable sans
-   risque. Si l'autorisation finale est refusée par la règle « partage restreint au domaine »,
-   il affiche le lien et la valeur exacte à ajouter, puis se relance.
+   Le guide s'affiche à droite : choisir le projet (celui de la clé Places), cliquer sur l'icône du
+   bloc de commande pour la coller dans le terminal, appuyer sur Entrée. Le script
+   ([`outils/installer-google.sh`](./outils/installer-google.sh)) active les API, crée le compte de
+   service `vitrine-locale`, le pool et le fournisseur Workload Identity restreints au dépôt GitHub,
+   puis affiche deux lignes `GOOGLE_WORKLOAD_IDENTITY_PROVIDER=…` et `GOOGLE_SERVICE_ACCOUNT=…`
+   (aussi enregistrées dans `~/vitrine-locale-resultat.txt`). Il est relançable sans risque. Si
+   l'autorisation finale est refusée par la règle « partage restreint au domaine », il affiche le
+   lien et la valeur exacte à ajouter, puis se relance.
 2. **Recopier ces deux lignes** dans le bloc `env:` en tête de
    [`annuaire-quotidien.yml`](../.github/workflows/annuaire-quotidien.yml) (ou les transmettre à
    Claude, qui le fera). Ces valeurs ne sont pas secrètes : elles n'autorisent que ce dépôt, sur

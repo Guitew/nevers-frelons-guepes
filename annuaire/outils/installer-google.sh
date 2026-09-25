@@ -2,8 +2,9 @@
 # =====================================================================
 #  Vitrine Locale — accès Google sans clé pour GitHub Actions
 #
-#  À coller tel quel dans Google Cloud Shell (https://shell.cloud.google.com),
-#  ou à lancer d'une ligne :
+#  Le plus simple : le guide Cloud Shell en un clic (voir DEPLOIEMENT.md),
+#  qui charge le dépôt, fait choisir le projet et colle la commande.
+#  Sinon, à lancer d'une ligne dans Cloud Shell (https://shell.cloud.google.com) :
 #    bash <(curl -sS https://raw.githubusercontent.com/Guitew/nevers-frelons-guepes/main/annuaire/outils/installer-google.sh)
 #
 #  Ce qu'il fait, sans jamais créer de clé (interdit par la règle
@@ -23,8 +24,11 @@ COMPTE="vitrine-locale"
 POOL="github"
 FOURNISSEUR="github"
 
-PROJET="${1:-$(gcloud config get-value project 2>/dev/null || true)}"
-if [ -z "$PROJET" ]; then
+PROJET="${1:-}"
+# Le guide Cloud Shell remplace {{project-id}} par le projet choisi ; si le
+# remplacement n'a pas eu lieu, on retombe sur le projet courant ou on demande.
+case "$PROJET" in ""|"{{project-id}}"|"{{"*) PROJET="$(gcloud config get-value project 2>/dev/null || true)";; esac
+if [ -z "$PROJET" ] || [ "$PROJET" = "(unset)" ]; then
   echo "Projets disponibles :"
   gcloud projects list --format="table(projectId,name)"
   read -r -p "ID du projet à utiliser (celui de la clé Places) : " PROJET
@@ -75,3 +79,10 @@ echo "=============== À copier-coller à Claude (rien de secret) ==============
 echo "GOOGLE_WORKLOAD_IDENTITY_PROVIDER=projects/$NUMERO/locations/global/workloadIdentityPools/$POOL/providers/$FOURNISSEUR"
 echo "GOOGLE_SERVICE_ACCOUNT=$SA"
 echo "=========================================================================="
+# Le résultat est aussi gardé dans le dossier personnel de Cloud Shell, au cas
+# où le terminal serait fermé avant la copie.
+{
+  echo "GOOGLE_WORKLOAD_IDENTITY_PROVIDER=projects/$NUMERO/locations/global/workloadIdentityPools/$POOL/providers/$FOURNISSEUR"
+  echo "GOOGLE_SERVICE_ACCOUNT=$SA"
+} > "$HOME/vitrine-locale-resultat.txt"
+echo "(Copie enregistrée dans ~/vitrine-locale-resultat.txt : cat ~/vitrine-locale-resultat.txt)"
