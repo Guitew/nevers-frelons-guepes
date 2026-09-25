@@ -43,12 +43,13 @@ export const CHEMIN_GMB = "Google Maps > votre établissement > Modifier le prof
  */
 export function smsInitial({ nom, url, signature }) {
   return (
-    `Bonjour, ${signature}. Votre fiche Google (${nom}) n'a pas de bouton Site Web. ` +
+    `Bonjour, je suis ${signature}. Votre fiche Google (${nom}) n'a pas de bouton Site Web. ` +
     `J'ai mis en ligne une page avec vos horaires, adresse et téléphone.\n` +
     `Ajoutée à votre fiche, elle active le bouton Site Web et ressort sur Google à votre nom : ` +
     `c'est là que vos clients vérifient vos horaires avant d'appeler ou de passer.\n` +
     `Pour l'ajouter : ${CHEMIN_GMB}.\n` +
-    `C'est gratuit. Pour la retirer, répondez STOP.\n${url}`
+    `C'est gratuit.\n` +
+    `Voici le lien à ajouter sur maps.\n${url}`
   );
 }
 

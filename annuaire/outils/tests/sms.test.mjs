@@ -16,7 +16,7 @@ test("seuls les mobiles français (06/07) reçoivent un SMS, au format internati
   assert.equal(numeroSms(undefined), null);
 });
 
-test("le SMS est direct et factuel : constat, chemin exact, gratuité, sortie STOP, lien en dernière ligne", () => {
+test("le SMS est direct et factuel : constat, résultat, chemin exact, gratuité, lien annoncé en dernière ligne", () => {
   const url = "https://andpro.fr/vitrine-locale/loisirs-sport-culture/chastel-nouvel/lozer-kids/";
   const texte = smsInitial({ nom: "Lozer' kids", url, signature: "Guillaume de Vitrine Locale" });
   assert.ok(texte.endsWith("\n" + url), "le lien est seul en dernière ligne, pour un appui long");
@@ -24,8 +24,9 @@ test("le SMS est direct et factuel : constat, chemin exact, gratuité, sortie ST
   assert.match(texte, /n'a pas de bouton Site Web/, "le constat factuel");
   assert.match(texte, /active le bouton Site Web et ressort sur Google/, "le résultat concret");
   assert.match(texte, /Google Maps > votre établissement > Modifier le profil > Site Web/);
-  assert.match(texte, /C'est gratuit/);
-  assert.match(texte, /répondez STOP/, "une sortie claire");
+  assert.match(texte, /C'est gratuit\./);
+  assert.match(texte, /Voici le lien à ajouter sur maps\.\n/, "le lien est annoncé juste avant");
+  assert.match(texte, /^Bonjour, je suis /);
   assert.doesNotMatch(texte, /!|offre|exceptionnel|profitez|concurrent/i, "aucune formule commerciale");
   assert.ok(segments(texte) <= 4, `trop long : ${texte.length} caractères, ${segments(texte)} segments`);
   const relance = smsRelance({ nom: "Lozer' kids", url });
