@@ -26,7 +26,7 @@ test("le SMS fait agir le dirigeant lui-même : chemin exact, lien copiable en d
   assert.match(texte, /gratuite/);
   assert.match(texte, /Sans engagement/);
   assert.match(texte, /Répondez ici/);
-  assert.ok(texte.length <= 360 + url.length, `trop long : ${texte.length}`);
+  assert.ok(segments(texte) <= 3, `trop long : ${texte.length} caractères, ${segments(texte)} segments`);
   const relance = smsRelance({ nom: "Lozer' kids", url });
   assert.ok(relance.endsWith("\n" + url));
   assert.match(relance, /rappel/);
