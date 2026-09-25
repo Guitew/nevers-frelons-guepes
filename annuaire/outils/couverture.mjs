@@ -25,6 +25,8 @@ import { aujourdhui } from "./lib/texte.mjs";
 import { choisirJeton } from "./lib/google-auth.mjs";
 import { clientGoogle, proprieteDe } from "./lib/search-console.mjs";
 import { selectionner, interpreter, reglagesCouverture } from "./lib/couverture.mjs";
+import { releverVisites, agreger } from "./lib/visites.mjs";
+import { joursDepuis } from "./lib/texte.mjs";
 
 const args = new Map(
   process.argv.slice(2).map((a) => {
@@ -45,11 +47,11 @@ async function principal() {
     { accessToken: config.secrets.googleAccessToken, compteBase64: config.secrets.googleSearchConsole },
     PORTEE
   );
-  if (!acces) {
-    console.log("Aucune authentification Google (GOOGLE_ACCESS_TOKEN ou compte de service) : inspection d'indexation ignorée.");
-    return;
-  }
   const reglages = reglagesCouverture(config.couverture);
+  if (!acces) {
+    console.log("Pas de Search Console : couverture estimée par la mesure propre du site (visites.php).");
+    return principalVisites(reglages);
+  }
   if (args.has("max")) reglages.inspectionsParJour = Number(args.get("max"));
   const date = aujourdhui();
   const propriete = proprieteDe(site);
@@ -99,6 +101,55 @@ async function principal() {
   for (const f of nonIndexees.slice(0, 30)) {
     console.log(`  ✗ ${urlFiche(f)} — ${f.indexation.couverture || f.indexation.verdict}`);
   }
+}
+
+/**
+ * Repli sans Search Console. Faute de verdict d'indexation, le critère devient
+ * « Google envoie-t-il des visiteurs ? » : une page sans aucune visite venue
+ * de Google sur les N derniers jours est traitée comme non indexée, une page
+ * qui en reçoit comme indexée. Aucun verdict tant que la mesure n'a pas N
+ * jours d'ancienneté : on ne juge pas sur une période tronquée.
+ */
+async function principalVisites(reglages) {
+  const releve = await releverVisites(site.base);
+  if (!releve) {
+    console.log("  Relevé des visites indisponible (visites.php absent ou injoignable) : couverture ignorée.");
+    return;
+  }
+  const N = reglages.retraitSiNonIndexeeJours;
+  const { depuis, joursMesure, pages } = agreger(releve, N);
+  if (joursMesure === null || joursMesure < N) {
+    console.log(`  Mesure active depuis ${joursMesure ?? 0} jour(s) sur ${N} requis : aucun verdict aujourd'hui.`);
+    return;
+  }
+  const date = aujourdhui();
+  const compteurs = { indexee: 0, "non-indexee": 0 };
+  const nonIndexees = [];
+  for (const fiche of lireFiches()) {
+    if (fiche.statut !== "publiee" || fiche.exemple) continue;
+    const age = joursDepuis(fiche.dates?.publication);
+    if (age === null || age < reglages.ageMinimumInspectionJours) continue;
+    const g = pages.get(urlFiche(fiche))?.google || 0;
+    fiche.indexation = {
+      etat: g > 0 ? "indexee" : "non-indexee",
+      verdict: null,
+      couverture: g > 0
+        ? `${g} visite(s) venue(s) de Google en ${N} jours (mesure propre)`
+        : `aucune visite venue de Google en ${N} jours (mesure propre depuis le ${depuis})`,
+      derniere_exploration: null,
+      canonique_google: null,
+      source: "visites",
+      date,
+    };
+    compteurs[fiche.indexation.etat]++;
+    if (g === 0) nonIndexees.push(fiche);
+    if (!essai) ecrireFiche(fiche);
+  }
+  console.log(
+    `Couverture (mesure propre, ${N} jours) : ${compteurs.indexee} page(s) visitée(s) depuis Google, ` +
+      `${compteurs["non-indexee"]} sans aucune visite${essai ? " (essai, rien d'écrit)" : ""}.`
+  );
+  for (const f of nonIndexees.slice(0, 30)) console.log(`  ✗ ${urlFiche(f)}`);
 }
 
 principal().catch((erreur) => {

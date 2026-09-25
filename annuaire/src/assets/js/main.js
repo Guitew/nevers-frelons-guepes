@@ -13,6 +13,22 @@
     });
   }
 
+  // --- Mesure d'audience propre, anonyme : sur une page d'entreprise, on
+  //     signale la visite et le site d'origine (visites.php). Pas de cookie,
+  //     pas d'identifiant, pas d'adresse conservée. Sert à garder en ligne les
+  //     pages que Google envoie réellement, et à retirer les autres.
+  if (document.querySelector(".fiche") && !navigator.webdriver) {
+    var racine = window.RACINE || "/";
+    var chemin = window.location.pathname;
+    if (chemin.indexOf(racine) === 0) chemin = "/" + chemin.slice(racine.length);
+    var url =
+      racine + "visites.php?p=" + encodeURIComponent(chemin) + "&r=" + encodeURIComponent(document.referrer || "");
+    try {
+      if (navigator.sendBeacon) navigator.sendBeacon(url);
+      else fetch(url, { method: "GET", keepalive: true, credentials: "omit", cache: "no-store" });
+    } catch (e) {}
+  }
+
   // --- Mise en évidence du jour courant dans le tableau des horaires.
   //     Fait côté navigateur volontairement : le calculer au build figerait
   //     le « jour courant » à la date de compilation.

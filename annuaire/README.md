@@ -290,6 +290,22 @@ Le projet a été éprouvé sur un jeu synthétique de **3 000 fiches** (cinq mo
 La compression (`mod_deflate`) est configurée dans le `.htaccess` généré et couvre HTML, CSS, JS,
 JSON, XML et Markdown : c'est elle qui rend acceptables l'index de recherche et les sitemaps.
 
+## La mesure d'audience propre : sans rien configurer
+
+Les pages d'entreprise envoient une balise anonyme à `visites.php` (déployé avec le site) : chemin de
+la page, jour, et site d'origine, rien d'autre. Ni cookie, ni adresse IP, ni identifiant ; robots
+écartés ; compteurs purgés après 120 jours. Le cycle quotidien lit ces compteurs et s'en sert dès
+que la Search Console n'est pas branchée :
+
+- **Audience** : les visites venues de Google (recherche, Maps, bouton Site Web de la fiche)
+  tiennent lieu de clics. Une page qui en reçoit n'est jamais retirée automatiquement.
+- **Couverture** : une page sans aucune visite venue de Google sur 45 jours est traitée comme non
+  indexée et retirée (410, ou 301 vers la catégorie si un lien GMB a existé). Aucun verdict tant
+  que la mesure n'a pas 45 jours d'ancienneté.
+
+La Search Console reste la source la plus précise (impressions, verdict d'indexation réel) : si
+elle est branchée un jour, elle prend le relais sans autre changement.
+
 ## L'audience Search Console tempère les retraits
 
 Le contrat de base est simple : pas de lien GMB, pas de page. Mais une page que Google envoie

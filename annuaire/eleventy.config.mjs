@@ -12,6 +12,7 @@ export default function (eleventyConfig) {
   // doit être en ligne à la racine du site : copiée à chaque compilation, elle
   // suit le déploiement au lieu d'être déposée à la main.
   eleventyConfig.addPassthroughCopy({ "outils/suggerer.php": "suggerer.php" });
+  eleventyConfig.addPassthroughCopy({ "outils/visites.php": "visites.php" });
   eleventyConfig.addWatchTarget("src/assets/");
   eleventyConfig.addWatchTarget("donnees/");
 

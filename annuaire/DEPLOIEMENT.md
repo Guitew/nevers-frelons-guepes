@@ -140,7 +140,17 @@ Toute la mémoire de l'annuaire tient dans `annuaire/donnees/` (fiches + journal
 Git. Le site peut être reconstruit à l'identique à partir de ce seul dossier : aucune base de
 données à sauvegarder, aucun état hors du dépôt.
 
-## Search Console : protéger du retrait les pages qui reçoivent des clics
+## Search Console : facultatif
+
+**Rien à configurer par défaut.** Le site mesure lui-même ses visites (voir README, « La mesure
+d'audience propre ») et le cycle quotidien s'en sert pour protéger les pages visitées depuis Google
+et retirer celles que Google n'envoie jamais. Le fichier `.visites.json` vit à côté de
+`visites.php` sur le serveur ; le déploiement ne le touche pas.
+
+Brancher la Search Console apporte en plus les impressions et le verdict d'indexation réel de
+Google. C'est une option, à faire quand vous voulez, jamais une obligation.
+
+### Brancher la Search Console (option)
 
 Le cycle quotidien relève, pour chaque page, ses clics et impressions Google des 90 derniers jours
 (`outils/audience.mjs`). Une page qui reçoit des clics n'est alors jamais retirée automatiquement.
