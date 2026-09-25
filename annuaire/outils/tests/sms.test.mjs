@@ -22,11 +22,12 @@ test("le SMS est direct et factuel : constat, chemin exact, gratuité, sortie ST
   assert.ok(texte.endsWith("\n" + url), "le lien est seul en dernière ligne, pour un appui long");
   assert.ok(texte.includes("Lozer' kids"));
   assert.match(texte, /n'a pas de bouton Site Web/, "le constat factuel");
+  assert.match(texte, /active le bouton Site Web et ressort sur Google/, "le résultat concret");
   assert.match(texte, /Google Maps > votre établissement > Modifier le profil > Site Web/);
   assert.match(texte, /C'est gratuit/);
   assert.match(texte, /répondez STOP/, "une sortie claire");
   assert.doesNotMatch(texte, /!|offre|exceptionnel|profitez|concurrent/i, "aucune formule commerciale");
-  assert.ok(segments(texte) <= 3, `trop long : ${texte.length} caractères, ${segments(texte)} segments`);
+  assert.ok(segments(texte) <= 4, `trop long : ${texte.length} caractères, ${segments(texte)} segments`);
   const relance = smsRelance({ nom: "Lozer' kids", url });
   assert.ok(relance.endsWith("\n" + url));
   assert.match(relance, /suite à mon SMS/);
@@ -48,15 +49,15 @@ test("preparerSms distingue mobile et ligne fixe", () => {
   assert.ok(fixe.texte.includes("https://x.fr/b/"));
 });
 
-test("les SMS restent dans l'alphabet GSM et tiennent en trois segments au plus", () => {
+test("les SMS restent dans l'alphabet GSM : quatre segments pour l'initial, trois pour la relance", () => {
   const url = "https://andpro.fr/vitrine-locale/loisirs-sport-culture/chastel-nouvel/lozer-kids/";
-  for (const texte of [
-    smsInitial({ nom: "Lozer' kids", url, signature: "Guillaume de Vitrine Locale" }),
-    smsRelance({ nom: "Lozer' kids", url }),
-  ]) {
+  const initial = smsInitial({ nom: "Lozer' kids", url, signature: "Guillaume de Vitrine Locale" });
+  const relance = smsRelance({ nom: "Lozer' kids", url });
+  for (const texte of [initial, relance]) {
     assert.deepEqual(horsGsm(texte), [], `caractères hors GSM : ${horsGsm(texte).join(" ")}`);
-    assert.ok(segments(texte) <= 3, `${segments(texte)} segments`);
   }
+  assert.ok(segments(initial) <= 4, `${segments(initial)} segments`);
+  assert.ok(segments(relance) <= 3, `${segments(relance)} segments`);
   assert.deepEqual(horsGsm("attend d'être"), ["ê"]);
   assert.equal(segments("a".repeat(160)), 1);
   assert.equal(segments("a".repeat(161)), 2);
