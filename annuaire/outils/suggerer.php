@@ -64,7 +64,9 @@ $marquer_url = 'suggerer.php?' . http_build_query([
 // Mêmes textes que outils/lib/sms.mjs : le dirigeant ajoute le lien lui-même.
 $chemin = "Google Maps > votre établissement > Modifier le profil > Site Web > coller ce lien";
 $sms_texte = "Bonjour, " . SIGNATURE_SMS . ". Votre fiche Google ($nom) n'a pas de bouton Site Web. "
-  . "J'ai mis en ligne une page avec vos horaires, adresse et téléphone : elle peut servir de site web sur votre fiche.\n"
+  . "J'ai mis en ligne une page avec vos horaires, adresse et téléphone.\n"
+  . "Ajoutée à votre fiche, elle active le bouton Site Web et ressort sur Google à votre nom : "
+  . "c'est là que vos clients vérifient vos horaires avant d'appeler ou de passer.\n"
   . "Pour l'ajouter : $chemin.\n"
   . "C'est gratuit. Pour la retirer, répondez STOP.\n$url_page";
 $sms_relance = "Bonjour, suite à mon SMS : la page de $nom est toujours en ligne et votre fiche Google n'a toujours pas de site web. "

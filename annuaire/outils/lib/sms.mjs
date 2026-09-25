@@ -32,14 +32,21 @@ export const CHEMIN_GMB = "Google Maps > votre établissement > Modifier le prof
 /**
  * Texte du SMS initial. Ton direct et factuel, sans formule commerciale :
  * le constat (la fiche n'a pas de bouton Site Web), ce qui a été fait (une
- * page avec les informations pratiques), ce que ça change (le bouton
- * apparaît sur la fiche), comment faire, le prix (rien), et la sortie
- * (répondre STOP). Le lien seul en dernière ligne, copiable d'un appui long.
+ * page avec les informations pratiques), ce que ça apporte concrètement (le
+ * bouton Site Web sur la fiche, et une page à son nom dans les résultats
+ * Google, là où les clients vérifient les horaires avant d'appeler), comment
+ * faire, le prix (rien), et la sortie (répondre STOP). Le lien seul en
+ * dernière ligne, copiable d'un appui long.
+ *
+ * Quatre segments SMS : la phrase de résultat vaut le segment de plus, et le
+ * SMS est envoyé à la main, cinq fois par jour au plus.
  */
 export function smsInitial({ nom, url, signature }) {
   return (
     `Bonjour, ${signature}. Votre fiche Google (${nom}) n'a pas de bouton Site Web. ` +
-    `J'ai mis en ligne une page avec vos horaires, adresse et téléphone : elle peut servir de site web sur votre fiche.\n` +
+    `J'ai mis en ligne une page avec vos horaires, adresse et téléphone.\n` +
+    `Ajoutée à votre fiche, elle active le bouton Site Web et ressort sur Google à votre nom : ` +
+    `c'est là que vos clients vérifient vos horaires avant d'appeler ou de passer.\n` +
     `Pour l'ajouter : ${CHEMIN_GMB}.\n` +
     `C'est gratuit. Pour la retirer, répondez STOP.\n${url}`
   );
