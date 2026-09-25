@@ -26,21 +26,29 @@ export function numeroSms(telephone) {
   return "+33" + national.slice(1);
 }
 
-/** Texte du SMS initial : le dirigeant ajoute le lien lui-même, en une minute. */
+/** Chemin exact sur téléphone, dans l'ordre des écrans de Google Maps. */
+export const CHEMIN_GMB = "Google Maps > votre établissement > Modifier le profil > Site Web > collez > Enregistrer";
+
+/**
+ * Texte du SMS initial. L'argument d'acquisition d'abord, en mots simples :
+ * sur Google, les clients choisissent les fiches qui ont un site web ; sans
+ * lien, l'entreprise perd des appels face aux concurrents. Puis le chemin, les
+ * objections levées, la porte de sortie, et le lien seul en dernière ligne.
+ */
 export function smsInitial({ nom, url, signature }) {
   return (
-    `Bonjour, ${signature}. Votre page web gratuite pour ${nom} est en ligne (horaires, adresse, téléphone). ` +
-    `Pour l'afficher sur votre fiche Google, 1 min : Google Maps > votre établissement > Modifier le profil > Site Web > collez le lien > Enregistrer. ` +
-    `Gratuit, sans engagement. Une question ? Répondez ici.\n` +
-    `Votre lien à coller :\n${url}`
+    `Bonjour, ${signature}. Sur Google, les clients choisissent les fiches qui ont un site web : ` +
+    `sans lien, ${nom} perd des appels face aux concurrents. Votre page gratuite est en ligne. ` +
+    `Pour l'activer, 1 min : ${CHEMIN_GMB}. Sans engagement. Une question ? Répondez ici.\n` +
+    `Lien :\n${url}`
   );
 }
 
 /** Relance, quelques jours plus tard, si le lien n'est toujours pas sur la fiche. */
 export function smsRelance({ nom, url }) {
   return (
-    `Bonjour, petit rappel : la page web gratuite de ${nom} est en ligne mais pas encore sur votre fiche Google ` +
-    `(Google Maps > votre établissement > Modifier le profil > Site Web > coller > Enregistrer). ` +
+    `Bonjour, petit rappel : sans site web sur votre fiche Google, des clients partent chez un concurrent qui en a un. ` +
+    `La page gratuite de ${nom} est en ligne, 1 min pour l'activer : ${CHEMIN_GMB}. ` +
     `Si vous préférez que je la retire, un mot suffit.\n${url}`
   );
 }

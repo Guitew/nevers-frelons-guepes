@@ -22,9 +22,11 @@ test("le SMS fait agir le dirigeant lui-même : chemin exact, lien copiable en d
   assert.ok(texte.endsWith("\n" + url), "le lien est seul en dernière ligne, pour un appui long");
   assert.ok(texte.includes("Lozer' kids"));
   assert.match(texte, /Google Maps > votre établissement > Modifier le profil > Site Web/);
-  assert.match(texte, /Gratuit, sans engagement/);
+  assert.match(texte, /perd des appels face aux concurrents/, "l'argument d'acquisition est présent");
+  assert.match(texte, /gratuite/);
+  assert.match(texte, /Sans engagement/);
   assert.match(texte, /Répondez ici/);
-  assert.ok(texte.length <= 360 + url.length, `trop long : ${texte.length}`);
+  assert.ok(segments(texte) <= 3, `trop long : ${texte.length} caractères, ${segments(texte)} segments`);
   const relance = smsRelance({ nom: "Lozer' kids", url });
   assert.ok(relance.endsWith("\n" + url));
   assert.match(relance, /rappel/);
