@@ -62,12 +62,13 @@ $marquer_url = 'suggerer.php?' . http_build_query([
     'id' => $id, 't' => TOKEN, 'nom' => $nom, 'url' => $url_page, 'tel' => $tel, 'action' => 'marquer'
 ]);
 // Mêmes textes que outils/lib/sms.mjs : le dirigeant ajoute le lien lui-même.
-$sms_texte = "Bonjour, " . SIGNATURE_SMS . ". Votre page web gratuite pour $nom est en ligne (horaires, adresse, téléphone). "
-  . "Pour l'afficher sur votre fiche Google, 1 min : Google Maps > votre établissement > Modifier le profil > Site Web > collez le lien > Enregistrer. "
-  . "Gratuit, sans engagement. Une question ? Répondez ici.\n"
-  . "Votre lien à coller :\n$url_page";
-$sms_relance = "Bonjour, petit rappel : la page web gratuite de $nom est en ligne mais pas encore sur votre fiche Google "
-  . "(Google Maps > votre établissement > Modifier le profil > Site Web > coller > Enregistrer). "
+$chemin = "Google Maps > votre établissement > Modifier le profil > Site Web > collez > Enregistrer";
+$sms_texte = "Bonjour, " . SIGNATURE_SMS . ". Sur Google, les clients choisissent les fiches qui ont un site web : "
+  . "sans lien, $nom perd des appels face aux concurrents. Votre page gratuite est en ligne. "
+  . "Pour l'activer, 1 min : $chemin. Sans engagement. Une question ? Répondez ici.\n"
+  . "Lien :\n$url_page";
+$sms_relance = "Bonjour, petit rappel : sans site web sur votre fiche Google, des clients partent chez un concurrent qui en a un. "
+  . "La page gratuite de $nom est en ligne, 1 min pour l'activer : $chemin. "
   . "Si vous préférez que je la retire, un mot suffit.\n$url_page";
 $sms_lien = $tel ? 'sms:' . $tel . '?body=' . rawurlencode($sms_texte) : '';
 ?>
