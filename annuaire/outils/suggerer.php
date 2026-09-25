@@ -61,13 +61,14 @@ $maps_url = 'https://www.google.com/maps/search/?' . http_build_query([
 $marquer_url = 'suggerer.php?' . http_build_query([
     'id' => $id, 't' => TOKEN, 'nom' => $nom, 'url' => $url_page, 'tel' => $tel, 'action' => 'marquer'
 ]);
-// Même texte que outils/lib/sms.mjs : une action (répondre OUI), objections levées.
-$sms_texte = "Bonjour, " . SIGNATURE_SMS . ". Votre page web gratuite pour $nom est en ligne : $url_page\n"
-  . "Répondez OUI et je l'ajoute comme site web sur votre fiche Google Maps, vous n'avez rien à faire. "
-  . "Gratuit, sans engagement, retirable à tout moment.";
-$sms_relance = "Merci ! C'est fait : la page est proposée comme site web de votre fiche Google. "
-  . "Si Google vous envoie une notification ou un mail « modification suggérée », validez-la : "
-  . "le lien s'affichera sous 24 à 48 h. Bonne journée !";
+// Mêmes textes que outils/lib/sms.mjs : le dirigeant ajoute le lien lui-même.
+$sms_texte = "Bonjour, " . SIGNATURE_SMS . ". Votre page web gratuite pour $nom est en ligne (horaires, adresse, téléphone). "
+  . "Pour l'afficher sur votre fiche Google, 1 min : Google Maps > votre établissement > Modifier le profil > Site Web > collez le lien > Enregistrer. "
+  . "Gratuit, sans engagement. Une question ? Répondez ici.\n"
+  . "Votre lien à coller :\n$url_page";
+$sms_relance = "Bonjour, petit rappel : la page web gratuite de $nom est en ligne mais pas encore sur votre fiche Google "
+  . "(Google Maps > votre établissement > Modifier le profil > Site Web > coller > Enregistrer). "
+  . "Si vous préférez que je la retire, un mot suffit.\n$url_page";
 $sms_lien = $tel ? 'sms:' . $tel . '?body=' . rawurlencode($sms_texte) : '';
 ?>
 <!doctype html>
@@ -142,12 +143,12 @@ h1{font-size:22px;color:#1a1a1a;margin-bottom:24px;line-height:1.3}
       <a href="<?= htmlspecialchars($sms_lien, ENT_QUOTES, 'UTF-8') ?>" class="envoyer">Envoyer le SMS →</a>
 <?php endif; ?>
     </div>
-    <p class="note"><b>S'il répond OUI</b> : suggérez la page sur Maps (bouton bleu), puis renvoyez :</p>
+    <p class="note"><b>Relance</b>, quelques jours plus tard si le lien n'apparaît pas sur la fiche :</p>
     <textarea id="relance" class="relance" readonly onclick="this.select()"><?= htmlspecialchars($sms_relance, ENT_QUOTES, 'UTF-8') ?></textarea>
     <div class="rangee">
-      <button type="button" class="copier" onclick="copierTexte('relance', this)">Copier la réponse</button>
+      <button type="button" class="copier" onclick="copierTexte('relance', this)">Copier la relance</button>
 <?php if ($tel): ?>
-      <a href="<?= htmlspecialchars('sms:' . $tel . '?body=' . rawurlencode($sms_relance), ENT_QUOTES, 'UTF-8') ?>" class="envoyer">Envoyer la réponse →</a>
+      <a href="<?= htmlspecialchars('sms:' . $tel . '?body=' . rawurlencode($sms_relance), ENT_QUOTES, 'UTF-8') ?>" class="envoyer">Envoyer la relance →</a>
 <?php endif; ?>
     </div>
   </div>

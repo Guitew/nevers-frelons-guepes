@@ -4,7 +4,8 @@
  * Chaque email contient un lien vers la page d'aide (suggerer.php)
  * qui permet de copier l'URL, ouvrir Maps, et marquer la fiche — et, quand
  * le numéro de l'entreprise est un mobile, un SMS prêt à envoyer d'un tap
- * (lien sms: pré-rempli) pour pousser le dirigeant à déclarer sa page.
+ * (lien sms: pré-rempli) pour que le dirigeant ajoute lui-même sa page
+ * comme site web sur sa fiche Google — seul lui peut le faire sans examen.
  *
  * Après envoi, la fiche est marquée (suggestion.date_email) pour ne
  * pas être renvoyée les jours suivants ni par le cron de rattrapage.
@@ -91,7 +92,7 @@ function blocSms(fiche) {
     ${entete}
     <div style="background:#f0f6ff;border:1px dashed #90caf9;border-radius:8px;padding:12px 14px;
                 font-size:14px;line-height:1.5;color:#1a1a1a;white-space:pre-wrap;">${texte}</div>
-    <p style="margin:16px 0 6px;font-size:13px;color:#666;"><strong>S'il répond OUI</strong>, suggérez la page sur Maps (bouton bleu) puis renvoyez :</p>
+    <p style="margin:16px 0 6px;font-size:13px;color:#666;"><strong>Relance</strong>, quelques jours plus tard si le lien n'apparaît toujours pas sur la fiche :</p>
     <div style="background:#f8f9fa;border:1px dashed #ccc;border-radius:8px;padding:12px 14px;
                 font-size:13px;line-height:1.5;color:#333;white-space:pre-wrap;">${relance}</div>
   </div>`;
