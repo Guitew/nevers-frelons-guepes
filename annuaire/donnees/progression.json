@@ -36,15 +36,15 @@
   },
   "departement-2A": {
     "cellule": 4,
-    "lot": 0,
+    "lot": 1,
     "tour": 0,
-    "date": "2026-09-24"
+    "date": "2026-09-25"
   },
   "departement-2B": {
     "cellule": 4,
-    "lot": 0,
+    "lot": 1,
     "tour": 0,
-    "date": "2026-09-24"
+    "date": "2026-09-25"
   },
   "departement-34": {
     "cellule": 1,
@@ -114,15 +114,15 @@
   },
   "departement-81": {
     "cellule": 1,
-    "lot": 1,
-    "tour": 0,
-    "date": "2026-09-24"
-  },
-  "departement-84": {
-    "cellule": 1,
     "lot": 2,
     "tour": 0,
-    "date": "2026-09-24"
+    "date": "2026-09-25"
+  },
+  "departement-84": {
+    "cellule": 2,
+    "lot": 0,
+    "tour": 0,
+    "date": "2026-09-25"
   },
   "departement-91": {
     "cellule": 1,
@@ -252,9 +252,9 @@
   },
   "departement-67": {
     "cellule": 1,
-    "lot": 1,
+    "lot": 2,
     "tour": 0,
-    "date": "2026-09-24"
+    "date": "2026-09-25"
   },
   "departement-68": {
     "cellule": 0,
@@ -300,15 +300,15 @@
   },
   "departement-89": {
     "cellule": 1,
-    "lot": 0,
+    "lot": 1,
     "tour": 0,
-    "date": "2026-09-24"
+    "date": "2026-09-25"
   },
   "departement-92": {
     "cellule": 1,
-    "lot": 0,
+    "lot": 1,
     "tour": 0,
-    "date": "2026-09-24"
+    "date": "2026-09-25"
   },
   "departement-11": {
     "cellule": 0,
@@ -321,5 +321,47 @@
     "lot": 1,
     "tour": 0,
     "date": "2026-09-24"
+  },
+  "departement-08": {
+    "cellule": 0,
+    "lot": 1,
+    "tour": 0,
+    "date": "2026-09-25"
+  },
+  "departement-13": {
+    "cellule": 0,
+    "lot": 1,
+    "tour": 0,
+    "date": "2026-09-25"
+  },
+  "departement-22": {
+    "cellule": 0,
+    "lot": 1,
+    "tour": 0,
+    "date": "2026-09-25"
+  },
+  "departement-23": {
+    "cellule": 0,
+    "lot": 1,
+    "tour": 0,
+    "date": "2026-09-25"
+  },
+  "departement-43": {
+    "cellule": 0,
+    "lot": 1,
+    "tour": 0,
+    "date": "2026-09-25"
+  },
+  "departement-45": {
+    "cellule": 0,
+    "lot": 1,
+    "tour": 0,
+    "date": "2026-09-25"
+  },
+  "departement-46": {
+    "cellule": 0,
+    "lot": 1,
+    "tour": 0,
+    "date": "2026-09-25"
   }
 }
