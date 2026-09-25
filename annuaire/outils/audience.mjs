@@ -33,6 +33,7 @@ import site from "./lib/site.mjs";
 import { lireFiches, ecrireFiche, urlFiche } from "./lib/fiches.mjs";
 import { aujourdhui } from "./lib/texte.mjs";
 import { choisirJeton } from "./lib/google-auth.mjs";
+import { releverVisites, agreger } from "./lib/visites.mjs";
 
 const args = new Map(
   process.argv.slice(2).map((a) => {
@@ -88,12 +89,12 @@ async function principal() {
     { accessToken: config.secrets.googleAccessToken, compteBase64: config.secrets.googleSearchConsole },
     PORTEE
   );
-  if (!acces) {
-    console.log("Aucune authentification Google (GOOGLE_ACCESS_TOKEN ou compte de service) : relevé d'audience ignoré.");
-    return;
-  }
   const reglages = config.audience || {};
   const fenetre = Number(reglages.fenetreJours) || 90;
+  if (!acces) {
+    console.log("Pas de Search Console : relevé d'audience par la mesure propre du site (visites.php).");
+    return principalVisites(fenetre);
+  }
   const fin = dateMoins(RETARD_JOURS);
   const debut = dateMoins(RETARD_JOURS + fenetre - 1);
 
@@ -132,6 +133,47 @@ async function principal() {
   }
   console.log(
     `\n${fiches.length} fiche(s) : ${avecClics} avec des clics, ${avecImpressions} avec des impressions` +
+      `${essai ? " (essai, rien d'écrit)" : ""}.`
+  );
+}
+
+/**
+ * Repli sans Search Console : les visites venues de Google, comptées par le
+ * site lui-même, tiennent lieu de clics. Pas d'impressions (inconnues).
+ */
+async function principalVisites(fenetre) {
+  const releve = await releverVisites(site.base);
+  if (!releve) {
+    console.log("  Relevé des visites indisponible (visites.php absent ou injoignable) : audience ignorée.");
+    return;
+  }
+  const { depuis, joursMesure, pages } = agreger(releve, fenetre);
+  const date = aujourdhui();
+  const fiches = lireFiches();
+  let avecClics = 0;
+  const top = [];
+  for (const fiche of fiches) {
+    const v = pages.get(urlFiche(fiche)) || { total: 0, google: 0 };
+    fiche.audience = {
+      clics: v.google,
+      impressions: null,
+      position: null,
+      visites: v.total,
+      fenetreJours: fenetre,
+      source: "visites",
+      date,
+    };
+    if (v.google) avecClics++;
+    if (v.total) top.push({ fiche, v });
+    if (!essai) ecrireFiche(fiche);
+  }
+  top.sort((a, b) => b.v.google - a.v.google || b.v.total - a.v.total);
+  for (const { fiche, v } of top.slice(0, 15)) {
+    console.log(`  ${String(v.google).padStart(4)} via Google  ${String(v.total).padStart(5)} visites  ${urlFiche(fiche)}`);
+  }
+  console.log(
+    `\nMesure propre depuis le ${depuis || "?"} (${joursMesure ?? "?"} jour(s)) : ` +
+      `${fiches.length} fiche(s), ${avecClics} avec des visites venues de Google sur ${fenetre} jours` +
       `${essai ? " (essai, rien d'écrit)" : ""}.`
   );
 }

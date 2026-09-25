@@ -46,7 +46,10 @@ données : accès, rectification, effacement, limitation et opposition, exerçab
 
 ## Traceurs et mesure d'audience
 
-Ce site ne dépose **aucun cookie** et n'utilise **aucun traceur**. La recherche interne s'exécute
+Ce site ne dépose **aucun cookie** et n'utilise **aucun traceur**. Les pages d'entreprise
+comptent leurs visites de façon strictement anonyme : seuls le chemin de la page, le jour et le
+site d'origine (par exemple Google) sont comptabilisés, sans adresse IP, sans identifiant et sans
+cookie ; ces compteurs sont effacés après 120 jours. La recherche interne s'exécute
 entièrement dans le navigateur : aucune requête n'est envoyée lors d'une saisie. Aucune donnée
 personnelle de visiteur n'est collectée, ce qui dispense le site de bandeau de consentement.
 

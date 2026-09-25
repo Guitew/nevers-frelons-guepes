@@ -97,7 +97,12 @@ fiches collectées ne sont jamais mises en ligne (404 sur toutes les URLs suggé
     (`google-github-actions/auth` → `GOOGLE_ACCESS_TOKEN`), valeurs dans le bloc `env:` du workflow
     quotidien, produites par `outils/installer-google.sh` (Cloud Shell). L'organisation Google
     Cloud interdit les clés de compte de service : ne jamais en redemander une.
-11. **Une page non indexée 45 jours après sa mise en ligne est retirée** (`couverture.mjs` →
+11. **Mesure d'audience propre** (`visites.php` + balise dans `main.js`, `lib/visites.mjs`) :
+    anonyme, sans cookie ni IP. Repli automatique de `audience.mjs` (visites Google = clics) et
+    de `couverture.mjs` (0 visite Google en 45 jours = non indexée, verdict seulement quand la
+    mesure a 45 jours) quand la Search Console n'est pas branchée. Ne jamais y ajouter de donnée
+    personnelle : les mentions légales promettent l'absence de traceur.
+12. **Une page non indexée 45 jours après sa mise en ligne est retirée** (`couverture.mjs` →
     `politique.mjs` / `estNonIndexee`) : 410 si jamais liée, 301 vers la catégorie si un lien GMB
     a existé, jamais republiée (`retrait.cause = "non-indexee"`). Verdict périmé = pas de
     retrait. Les pages avec impressions sont réputées indexées sans appel d'API (quota 2 000/j).
