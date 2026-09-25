@@ -8,6 +8,10 @@ export default function (eleventyConfig) {
   // ------- Assets copiés tels quels -------
   eleventyConfig.addPassthroughCopy({ "src/assets": "assets" });
   eleventyConfig.addPassthroughCopy({ "src/static": "." });
+  // La page d'aide à la suggestion vit dans outils/ (PHP, hors gabarits) mais
+  // doit être en ligne à la racine du site : copiée à chaque compilation, elle
+  // suit le déploiement au lieu d'être déposée à la main.
+  eleventyConfig.addPassthroughCopy({ "outils/suggerer.php": "suggerer.php" });
   eleventyConfig.addWatchTarget("src/assets/");
   eleventyConfig.addWatchTarget("donnees/");
 

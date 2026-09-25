@@ -35,6 +35,8 @@ if ($action === 'vider') {
 $id       = $_GET['id'] ?? '';
 $nom      = $_GET['nom'] ?? '';
 $url_page = $_GET['url'] ?? '';
+$tel      = preg_replace('/[^0-9+]/', '', $_GET['tel'] ?? '');
+define('SIGNATURE_SMS', 'Guillaume de Vitrine Locale');
 if (!$id) { http_response_code(400); die('id manquant.'); }
 
 if ($action === 'marquer') {
@@ -45,7 +47,7 @@ if ($action === 'marquer') {
         $data[] = ['id' => $id, 'nom' => $nom, 'date' => date('c')];
         file_put_contents(DATA_FILE, json_encode($data, JSON_PRETTY_PRINT | JSON_UNESCAPED_UNICODE), LOCK_EX);
     }
-    $back = http_build_query(['id' => $id, 't' => TOKEN, 'nom' => $nom, 'url' => $url_page, 'ok' => 1]);
+    $back = http_build_query(['id' => $id, 't' => TOKEN, 'nom' => $nom, 'url' => $url_page, 'tel' => $tel, 'ok' => 1]);
     header("Location: suggerer.php?$back", true, 302);
     exit;
 }
@@ -57,8 +59,16 @@ $maps_url = 'https://www.google.com/maps/search/?' . http_build_query([
     'api' => '1', 'query' => $nom ?: $id, 'query_place_id' => $id
 ]);
 $marquer_url = 'suggerer.php?' . http_build_query([
-    'id' => $id, 't' => TOKEN, 'nom' => $nom, 'url' => $url_page, 'action' => 'marquer'
+    'id' => $id, 't' => TOKEN, 'nom' => $nom, 'url' => $url_page, 'tel' => $tel, 'action' => 'marquer'
 ]);
+// Même texte que outils/lib/sms.mjs : une action (répondre OUI), objections levées.
+$sms_texte = "Bonjour, " . SIGNATURE_SMS . ". Votre page web gratuite pour $nom est en ligne : $url_page\n"
+  . "Répondez OUI et je l'ajoute comme site web sur votre fiche Google Maps, vous n'avez rien à faire. "
+  . "Gratuit, sans engagement, retirable à tout moment.";
+$sms_relance = "Merci ! C'est fait : la page est proposée comme site web de votre fiche Google. "
+  . "Si Google vous envoie une notification ou un mail « modification suggérée », validez-la : "
+  . "le lien s'affichera sous 24 à 48 h. Bonne journée !";
+$sms_lien = $tel ? 'sms:' . $tel . '?body=' . rawurlencode($sms_texte) : '';
 ?>
 <!doctype html>
 <html lang="fr"><head>
@@ -93,6 +103,16 @@ h1{font-size:22px;color:#1a1a1a;margin-bottom:24px;line-height:1.3}
 .banner{padding:16px;border-radius:10px;text-align:center;font-weight:700;
         font-size:16px;margin-bottom:20px}
 .banner-ok{background:#e8f5e9;color:#2e7d32}
+.sms{margin-top:24px;padding-top:20px;border-top:1px solid #eee}
+.sms textarea{width:100%;min-height:150px;padding:12px;border:2px dashed #a5d6a7;border-radius:8px;
+              font:inherit;font-size:14px;line-height:1.5;color:#1a1a1a;background:#f1f8f4;resize:vertical}
+.sms textarea.relance{min-height:110px;border-color:#ccc;background:#f8f9fa;color:#333}
+.sms .rangee{display:flex;gap:8px;margin-top:8px}
+.sms .rangee button,.sms .rangee a{flex:1;text-align:center;padding:12px;border-radius:8px;border:none;
+              font-weight:700;font-size:14px;cursor:pointer;text-decoration:none}
+.sms .copier{background:#eee;color:#333}
+.sms .envoyer{background:#0d8a4a;color:#fff}
+.sms .note{font-size:13px;color:#666;margin:14px 0 6px}
 </style>
 </head><body>
 <div class="card">
@@ -113,6 +133,24 @@ h1{font-size:22px;color:#1a1a1a;margin-bottom:24px;line-height:1.3}
     ✓ J'ai soumis la suggestion
   </a>
 <?php endif; ?>
+  <div class="sms">
+    <p class="label">SMS au dirigeant<?= $tel ? ' (' . htmlspecialchars($tel) . ')' : ' — pas de mobile connu : copiez le texte' ?> :</p>
+    <textarea id="sms" readonly onclick="this.select()"><?= htmlspecialchars($sms_texte, ENT_QUOTES, 'UTF-8') ?></textarea>
+    <div class="rangee">
+      <button type="button" class="copier" onclick="copierTexte('sms', this)">Copier le SMS</button>
+<?php if ($sms_lien): ?>
+      <a href="<?= htmlspecialchars($sms_lien, ENT_QUOTES, 'UTF-8') ?>" class="envoyer">Envoyer le SMS →</a>
+<?php endif; ?>
+    </div>
+    <p class="note"><b>S'il répond OUI</b> : suggérez la page sur Maps (bouton bleu), puis renvoyez :</p>
+    <textarea id="relance" class="relance" readonly onclick="this.select()"><?= htmlspecialchars($sms_relance, ENT_QUOTES, 'UTF-8') ?></textarea>
+    <div class="rangee">
+      <button type="button" class="copier" onclick="copierTexte('relance', this)">Copier la réponse</button>
+<?php if ($tel): ?>
+      <a href="<?= htmlspecialchars('sms:' . $tel . '?body=' . rawurlencode($sms_relance), ENT_QUOTES, 'UTF-8') ?>" class="envoyer">Envoyer la réponse →</a>
+<?php endif; ?>
+    </div>
+  </div>
   <div class="steps">
     <b>Étapes :</b><br>
     1. <b>Copie</b> l'URL (bouton ci-dessus)<br>
@@ -123,6 +161,13 @@ h1{font-size:22px;color:#1a1a1a;margin-bottom:24px;line-height:1.3}
   </div>
 </div>
 <script>
+function copierTexte(id, bouton){
+  var t=document.getElementById(id);t.select();
+  navigator.clipboard.writeText(t.value).then(function(){
+    var avant=bouton.textContent;bouton.textContent='✓ Copié';
+    setTimeout(function(){bouton.textContent=avant},2000);
+  });
+}
 function copier(){
   var f=document.getElementById('u');f.select();
   navigator.clipboard.writeText(f.value).then(function(){

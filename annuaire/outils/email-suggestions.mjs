@@ -2,7 +2,9 @@
 /**
  * Envoie un email par fiche GMB jamais encore mailée.
  * Chaque email contient un lien vers la page d'aide (suggerer.php)
- * qui permet de copier l'URL, ouvrir Maps, et marquer la fiche.
+ * qui permet de copier l'URL, ouvrir Maps, et marquer la fiche — et, quand
+ * le numéro de l'entreprise est un mobile, un SMS prêt à envoyer d'un tap
+ * (lien sms: pré-rempli) pour pousser le dirigeant à déclarer sa page.
  *
  * Après envoi, la fiche est marquée (suggestion.date_email) pour ne
  * pas être renvoyée les jours suivants ni par le cron de rattrapage.
@@ -15,9 +17,11 @@
  * Variable d'environnement requise : BREVO_API_KEY
  */
 
+import config from "./lib/config.mjs";
 import { lireFiches, ecrireFiche, urlFiche, ETATS } from "./lib/fiches.mjs";
 import { site } from "./lib/site.mjs";
 import { aujourdhui } from "./lib/texte.mjs";
+import { preparerSms } from "./lib/sms.mjs";
 
 const args = new Map(
   process.argv.slice(2).map((a) => {
@@ -48,14 +52,49 @@ function aMailer(fiche) {
   );
 }
 
+const SIGNATURE_SMS = config.suggestions?.signatureSms || "Vitrine Locale";
+
 function urlSuggerer(fiche) {
+  const sms = preparerSms(fiche, site.base + urlFiche(fiche), SIGNATURE_SMS);
   const params = new URLSearchParams({
     id: fiche.id,
     t: SUGGERER_TOKEN,
     nom: fiche.nom,
     url: site.base + urlFiche(fiche),
   });
+  if (sms.numero) params.set("tel", sms.numero);
   return `${SUGGERER_BASE}?${params}`;
+}
+
+function echapper(texte) {
+  return String(texte).replace(/&/g, "&amp;").replace(/</g, "&lt;").replace(/>/g, "&gt;").replace(/"/g, "&quot;");
+}
+
+/** Bloc SMS de l'email : bouton d'envoi d'un tap si mobile, texte à copier sinon. */
+function blocSms(fiche) {
+  const sms = preparerSms(fiche, site.base + urlFiche(fiche), SIGNATURE_SMS);
+  const texte = echapper(sms.texte).replace(/\n/g, "<br>");
+  const relance = echapper(sms.relance);
+  const entete = sms.mobile
+    ? `<p style="margin:0 0 10px;font-size:14px;color:#444;"><strong>SMS au dirigeant</strong> (${echapper(sms.telephone)}) :</p>
+    <p style="text-align:center;margin:0 0 14px;">
+      <a href="${echapper(sms.lien)}"
+         style="display:inline-block;background:#0d8a4a;color:#fff;padding:14px 32px;
+                border-radius:10px;text-decoration:none;font-size:15px;font-weight:bold;">
+        Envoyer le SMS &rarr;
+      </a>
+    </p>`
+    : `<p style="margin:0 0 10px;font-size:14px;color:#444;"><strong>SMS au dirigeant</strong> :
+       ${sms.telephone ? `le numéro (${echapper(sms.telephone)}) est une ligne fixe, pas de SMS possible — à lire au téléphone ou à envoyer si vous obtenez un mobile.` : "aucun numéro sur la fiche Google — texte à utiliser si vous en obtenez un."}</p>`;
+  return `
+  <div style="background:#fff;border-radius:12px;padding:22px 24px;margin-top:16px;box-shadow:0 1px 4px rgba(0,0,0,.08);">
+    ${entete}
+    <div style="background:#f0f6ff;border:1px dashed #90caf9;border-radius:8px;padding:12px 14px;
+                font-size:14px;line-height:1.5;color:#1a1a1a;white-space:pre-wrap;">${texte}</div>
+    <p style="margin:16px 0 6px;font-size:13px;color:#666;"><strong>S'il répond OUI</strong>, suggérez la page sur Maps (bouton bleu) puis renvoyez :</p>
+    <div style="background:#f8f9fa;border:1px dashed #ccc;border-radius:8px;padding:12px 14px;
+                font-size:13px;line-height:1.5;color:#333;white-space:pre-wrap;">${relance}</div>
+  </div>`;
 }
 
 function emailHtml(fiche) {
@@ -73,6 +112,7 @@ function emailHtml(fiche) {
       </a>
     </p>
   </div>
+  ${blocSms(fiche)}
 </div>
 </body></html>`;
 }
@@ -124,6 +164,8 @@ async function principal() {
 
     if (essai) {
       console.log(`    ${urlSuggerer(fiche)}`);
+      const sms = preparerSms(fiche, site.base + urlFiche(fiche), SIGNATURE_SMS);
+      console.log(`    SMS ${sms.mobile ? sms.numero : "(pas de mobile)"} : ${sms.texte.replace(/\n/g, " ")}`);
       continue;
     }
 
