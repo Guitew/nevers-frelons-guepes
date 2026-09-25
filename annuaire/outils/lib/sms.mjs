@@ -27,29 +27,29 @@ export function numeroSms(telephone) {
 }
 
 /** Chemin exact sur téléphone, dans l'ordre des écrans de Google Maps. */
-export const CHEMIN_GMB = "Google Maps > votre établissement > Modifier le profil > Site Web > collez > Enregistrer";
+export const CHEMIN_GMB = "Google Maps > votre établissement > Modifier le profil > Site Web > coller ce lien";
 
 /**
- * Texte du SMS initial. L'argument d'acquisition d'abord, en mots simples :
- * sur Google, les clients choisissent les fiches qui ont un site web ; sans
- * lien, l'entreprise perd des appels face aux concurrents. Puis le chemin, les
- * objections levées, la porte de sortie, et le lien seul en dernière ligne.
+ * Texte du SMS initial. Ton direct et factuel, sans formule commerciale :
+ * le constat (la fiche n'a pas de bouton Site Web), ce qui a été fait (une
+ * page avec les informations pratiques), ce que ça change (le bouton
+ * apparaît sur la fiche), comment faire, le prix (rien), et la sortie
+ * (répondre STOP). Le lien seul en dernière ligne, copiable d'un appui long.
  */
 export function smsInitial({ nom, url, signature }) {
   return (
-    `Bonjour, ${signature}. Sur Google, les clients choisissent les fiches qui ont un site web : ` +
-    `sans lien, ${nom} perd des appels face aux concurrents. Votre page gratuite est en ligne. ` +
-    `Pour l'activer, 1 min : ${CHEMIN_GMB}. Sans engagement. Une question ? Répondez ici.\n` +
-    `Lien :\n${url}`
+    `Bonjour, ${signature}. Votre fiche Google (${nom}) n'a pas de bouton Site Web. ` +
+    `J'ai mis en ligne une page avec vos horaires, adresse et téléphone : elle peut servir de site web sur votre fiche.\n` +
+    `Pour l'ajouter : ${CHEMIN_GMB}.\n` +
+    `C'est gratuit. Pour la retirer, répondez STOP.\n${url}`
   );
 }
 
 /** Relance, quelques jours plus tard, si le lien n'est toujours pas sur la fiche. */
 export function smsRelance({ nom, url }) {
   return (
-    `Bonjour, petit rappel : sans site web sur votre fiche Google, des clients partent chez un concurrent qui en a un. ` +
-    `La page gratuite de ${nom} est en ligne, 1 min pour l'activer : ${CHEMIN_GMB}. ` +
-    `Si vous préférez que je la retire, un mot suffit.\n${url}`
+    `Bonjour, suite à mon SMS : la page de ${nom} est toujours en ligne et votre fiche Google n'a toujours pas de site web. ` +
+    `L'ajouter prend une minute : ${CHEMIN_GMB}. Pour la retirer, répondez STOP.\n${url}`
   );
 }
 
