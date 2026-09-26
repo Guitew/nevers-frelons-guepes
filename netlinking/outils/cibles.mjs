@@ -8,7 +8,8 @@
  *
  * Usage :
  *   node outils/cibles.mjs                              lit le sitemap du site et met à jour les pages
- *   node outils/cibles.mjs --titres                     idem, en lisant aussi le <title> de chaque page
+ *   node outils/cibles.mjs --titres                     idem, en lisant le <title> des pages qui n'en ont pas encore
+ *   node outils/cibles.mjs --titres=tout                relit le <title> de toutes les pages
  *   node outils/cibles.mjs --relais=https://…           déclare une page relais (répétable, virgules acceptées)
  *   node outils/cibles.mjs --csv=export.csv             importe des URLs ou domaines (1re colonne) d'un export
  *                                                       Search Console « Sites les plus liés » : les domaines
@@ -43,16 +44,22 @@ export async function mettreAJourPages({ config, dossier, telechargeur, titres =
   }
   if (!urls.length) journal("Aucun sitemap lisible : la page d'accueil reste la seule cible connue.");
   ajouterPage(cibles, config.site.url, { titre: config.site.nom, principale: true });
+  let titresLus = 0;
   for (const u of urls) {
     if (!appartientA(u, config.site.domaines)) continue;
     const page = ajouterPage(cibles, u);
-    if (titres && page) {
+    // Les titres ne sont lus que pour les pages qui n'en ont pas encore (ou pour toutes avec --titres=tout) :
+    // inutile de relire chaque semaine des centaines de pages du site.
+    if (titres && page && (!page.titre || titres === "tout")) {
       const rep = await telechargeur.recuperer(u);
-      if (rep.statut === 200 && rep.corps) ajouterPage(cibles, u, { titre: analyserHtml(rep.corps, u).titre });
+      if (rep.statut === 200 && rep.corps) {
+        ajouterPage(cibles, u, { titre: analyserHtml(rep.corps, u).titre });
+        titresLus++;
+      }
     }
   }
   ecrireCibles(chemins.cibles, cibles);
-  journal(`${cibles.pages.length} page(s) cible(s) enregistrée(s).`);
+  journal(`${cibles.pages.length} page(s) cible(s) enregistrée(s)${titres ? ` (${titresLus} titre(s) lu(s))` : ""}.`);
   return cibles;
 }
 
@@ -132,7 +139,7 @@ async function principal() {
   }
 
   if (!args.has("relais") && !args.has("csv") && !args.has("verifier")) {
-    await mettreAJourPages({ config, telechargeur, titres: args.has("titres") });
+    await mettreAJourPages({ config, telechargeur, titres: args.has("titres") ? args.get("titres") === "tout" ? "tout" : true : false });
   }
 }
 
