@@ -151,5 +151,14 @@
     ],
     "genere_le": "2026-09-01"
   },
-  "statut_google": "OPERATIONAL"
+  "statut_google": "OPERATIONAL",
+  "audience": {
+    "clics": 1,
+    "impressions": null,
+    "position": null,
+    "visites": 1,
+    "fenetreJours": 90,
+    "source": "visites",
+    "date": "2026-09-26"
+  }
 }

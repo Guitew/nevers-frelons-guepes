@@ -187,5 +187,14 @@
     "tentatives": 1,
     "date_email": "2026-09-01"
   },
-  "statut_google": "OPERATIONAL"
+  "statut_google": "OPERATIONAL",
+  "audience": {
+    "clics": 0,
+    "impressions": null,
+    "position": null,
+    "visites": 0,
+    "fenetreJours": 90,
+    "source": "visites",
+    "date": "2026-09-26"
+  }
 }

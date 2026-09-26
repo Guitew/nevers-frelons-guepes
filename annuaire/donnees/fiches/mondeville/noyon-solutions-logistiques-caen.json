@@ -29,8 +29,8 @@
     "latitude": 49.1670916,
     "longitude": -0.31062619999999996
   },
-  "note": 3.8,
-  "avis": 413,
+  "note": 3.7,
+  "avis": 414,
   "horaires": [
     {
       "jour": 0,
@@ -124,8 +124,8 @@
     "etat": "externe",
     "premiere_detection": null,
     "derniere_detection": null,
-    "derniere_verification": "2026-09-25T15:13:47.031Z",
-    "echecs": 52,
+    "derniere_verification": "2026-09-26T09:49:53.000Z",
+    "echecs": 53,
     "url_detectee": "https://www.noyon.eu/"
   },
   "suggestion": {
@@ -137,7 +137,7 @@
   "dates": {
     "collecte": "2026-09-01",
     "publication": "2026-09-01",
-    "maj": "2026-09-25"
+    "maj": "2026-09-26"
   },
   "source": "google-places",
   "redaction": {
@@ -204,5 +204,14 @@
     ],
     "genere_le": "2026-09-01"
   },
-  "statut_google": "OPERATIONAL"
+  "statut_google": "OPERATIONAL",
+  "audience": {
+    "clics": 0,
+    "impressions": null,
+    "position": null,
+    "visites": 0,
+    "fenetreJours": 90,
+    "source": "visites",
+    "date": "2026-09-26"
+  }
 }

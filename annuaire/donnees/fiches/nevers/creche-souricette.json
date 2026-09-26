@@ -100,8 +100,8 @@
   "backlink": {
     "etat": "present",
     "premiere_detection": "2026-09-01T05:36:17.683Z",
-    "derniere_detection": "2026-09-25T15:13:47.031Z",
-    "derniere_verification": "2026-09-25T15:13:47.031Z",
+    "derniere_detection": "2026-09-26T09:49:53.000Z",
+    "derniere_verification": "2026-09-26T09:49:53.000Z",
     "echecs": 0,
     "url_detectee": "https://andpro.fr/vitrine-locale/services-aux-particuliers/nevers/creche-souricette/"
   },
@@ -109,7 +109,7 @@
   "dates": {
     "collecte": "2026-08-30",
     "publication": "2026-08-30",
-    "maj": "2026-09-25"
+    "maj": "2026-09-26"
   },
   "source": "google-places",
   "redaction": {
@@ -181,5 +181,14 @@
     "date_soumission": null,
     "tentatives": 0
   },
-  "statut_google": "OPERATIONAL"
+  "statut_google": "OPERATIONAL",
+  "audience": {
+    "clics": 0,
+    "impressions": null,
+    "position": null,
+    "visites": 0,
+    "fenetreJours": 90,
+    "source": "visites",
+    "date": "2026-09-26"
+  }
 }
