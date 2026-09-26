@@ -20,7 +20,7 @@ test("extraction des <loc>, index de sitemaps, lecture récursive", async () => 
 });
 
 test("cibles : mots-clés de page, relais présents / absents", () => {
-  assert.deepEqual(motsClesPage("https://allo-frelons.fr/nids-de-guepes-et-frelons-dans-le-pas-de-calais-62", "Nids de guêpes"), ["nids", "guepes", "frelons", "calais"]);
+  assert.deepEqual(motsClesPage("https://allo-frelons.fr/nids-de-guepes-et-frelons-dans-le-pas-de-calais-62", "Nids de guêpes"), ["nids", "guepes", "frelons", "calais", "dep62"]);
   const c = creerCibles({ site: { url: "https://allo-frelons.fr/" } });
   ajouterPage(c, "https://allo-frelons.fr/frelon-asiatique", { titre: "Frelon asiatique" });
   ajouterPage(c, "https://allo-frelons.fr/frelon-asiatique#x", { titre: "Frelon asiatique (bis)" });

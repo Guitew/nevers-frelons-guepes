@@ -35,7 +35,7 @@ import { ajouterFrontiere, ecrireExploration, elaguer, lireExploration, marquerV
 import { qualifierPage } from "./lib/qualification.mjs";
 import { ecrireSpots, fusionner, indexer, lireSpots, libelleType } from "./lib/spots.mjs";
 import { creerTelechargeur } from "./lib/telechargeur.mjs";
-import { estBinaire, hoteDe, memeSite, normaliserUrl } from "./lib/url.mjs";
+import { appartientA, estBinaire, hoteDe, memeSite, normaliserUrl } from "./lib/url.mjs";
 import { expressionsPresentes } from "./lib/texte.mjs";
 
 /** Lit un fichier de graines (URLs, une par ligne, « # » pour commenter). */
@@ -164,9 +164,11 @@ export async function explorer(options) {
       if (!estExclue(u.href, exclusions, config)) ajouterFrontiere(etat, { url: u.href, origine: "utile", detail: u.motif, profondeur: profondeur + 1, pertinent: true }, config);
     }
     if (profondeur >= exp.profondeurMax) return;
+    const siteConcurrent = appartientA(urlFinale, config.concurrents?.domaines || []);
     for (const l of page.liens) {
       if (!l.href || estBinaire(l.href) || estExclue(l.href, exclusions, config)) continue;
       if (memeSite(l.href, urlFinale)) {
+        if (siteConcurrent) continue; // on ne parcourt pas un concurrent, on note seulement qui il cite
         ajouterFrontiere(etat, { url: l.href, texte: l.texte, origine: "lien-interne", detail: hoteDe(urlFinale), profondeur: profondeur + 1, pertinent: pagePertinente }, config);
       } else if (suivreExternes && externesAjoutes < exp.externesParPage && !l.contexte.includes("navigation") && !l.contexte.includes("pied")) {
         const lienPertinent = expressionsPresentes(l.texte + " " + l.href.replace(/[-_/.]+/g, " "), themes).length > 0;

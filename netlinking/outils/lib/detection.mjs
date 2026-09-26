@@ -190,7 +190,6 @@ const PHRASES = {
     "add your business",
     "suggest a site",
     "referencement gratuit",
-    "inscription gratuite",
   ],
   livreDor: ["livre d'or", "livre d or", "livredor", "guestbook", "guest book", "signer le livre"],
   question: [
@@ -480,9 +479,13 @@ export function detecter({ url, page, html, config, cibles }) {
   const widget = detecterWidget(htmlMin);
   const formulaires = analyserFormulaires(page);
   const texteNormalise = normaliser(page.texte);
+  // Texte hors habillage (menus, pied, colonne) : les appels génériques « poser une question »,
+  // « laisser un avis », « inscription gratuite » des menus ne font pas un spot.
+  const texteContenu = normaliser(page.texteContenu || page.texte);
   const titreEtEntetes = normaliser([page.titre, page.h1, ...page.entetes.map((e) => e.texte)].join(" "));
   const textesLiens = normaliser(page.liens.map((l) => l.texte).join(" | "));
   const tout = titreEtEntetes + " " + texteNormalise + " " + textesLiens;
+  const contenu = titreEtEntetes + " " + texteContenu;
   const urlMin = url.toLowerCase();
   const signaux = [];
   const types = new Set();
@@ -490,9 +493,9 @@ export function detecter({ url, page, html, config, cibles }) {
     liensUtiles: [],
     commentairesExistants: page.compteurs.commentaires,
     captcha: RE_CAPTCHA.test(htmlMin),
-    connexionRequise: expressionsPresentes(texteNormalise, PHRASES.connexion).length > 0,
-    moderation: expressionsPresentes(texteNormalise, PHRASES.moderation).length > 0,
-    commentairesFermes: expressionsPresentes(texteNormalise, PHRASES.fermes).length > 0,
+    connexionRequise: expressionsPresentes(texteContenu, PHRASES.connexion).length > 0,
+    moderation: expressionsPresentes(texteContenu, PHRASES.moderation).length > 0,
+    commentairesFermes: expressionsPresentes(texteContenu, PHRASES.fermes).length > 0,
     champSiteWeb: false,
     widget,
     contact: formulaires.contact ? formulaires.contact.action : null,
@@ -583,7 +586,7 @@ export function detecter({ url, page, html, config, cibles }) {
   const liensCompte = page.liens.filter((l) => memeSite(l.href, url) && RE_URL_INSCRIPTION.test(l.href) && !/logout|deconnexion/i.test(l.href));
   // Une vraie page d'inscription d'abord ; à défaut la page de connexion (qui mène souvent à l'inscription).
   const lienInscription = liensCompte.find((l) => !/\/login|connexion|mode=login/i.test(l.href)) || liensCompte[0];
-  const vocabulaireForum = expressionsPresentes(tout, ["nouveau sujet", "repondre au sujet", "dernier message", "derniers messages", "messages non lus", "sujets recents", "poster un message", "nouveau message", "liste des membres", "s'inscrire", "inscrivez-vous", "creer un compte", "topics", "threads", "new topic", "post reply"]).length;
+  const vocabulaireForum = expressionsPresentes(contenu + " " + textesLiens, ["nouveau sujet", "repondre au sujet", "dernier message", "derniers messages", "messages non lus", "sujets recents", "poster un message", "nouveau message", "liste des membres", "s'inscrire", "inscrivez-vous", "creer un compte", "topics", "threads", "new topic", "post reply"]).length;
   if (plateforme.famille === "forum" || (liensForum >= 3 && (lienInscription || vocabulaireForum >= 2)) || (RE_URL_FORUM.test(urlMin) && vocabulaireForum >= 2)) {
     types.add("forum");
     signaux.push(plateforme.famille === "forum" ? `forum ${plateforme.nom}` : "structure de forum (sujets, inscription)");
@@ -604,7 +607,7 @@ export function detecter({ url, page, html, config, cibles }) {
   }
 
   // --- Questions / réponses ----------------------------------------------------------------
-  const phrasesQuestion = expressionsPresentes(tout, PHRASES.question);
+  const phrasesQuestion = expressionsPresentes(contenu, PHRASES.question);
   if (plateforme.famille === "qr" || formulaires.question || (phrasesQuestion.length && (/question|reponse|answer|\/q\//i.test(urlMin) || page.formulaires.some((f) => f.champs.some((c) => c.type === "textarea"))))) {
     if (!types.has("forum")) {
       types.add("question-reponse");
@@ -628,14 +631,14 @@ export function detecter({ url, page, html, config, cibles }) {
   for (const l of liensAjout.slice(0, 5)) details.liensUtiles.push({ href: l.href, motif: "ajout-annuaire" });
 
   // --- Avis / témoignages ------------------------------------------------------------------
-  const phrasesAvis = expressionsPresentes(titreEtEntetes + " " + textesLiens, PHRASES.avis);
+  const phrasesAvis = expressionsPresentes(contenu, PHRASES.avis);
   if (formulaires.avis || (phrasesAvis.length && page.formulaires.some((f) => f.champs.some((c) => c.type === "textarea")) && !types.has("commentaire"))) {
     types.add("avis");
     signaux.push(formulaires.avis ? "formulaire d'avis / témoignage" : `avis : « ${phrasesAvis[0]} »`);
   }
 
   // --- Article invité / communiqué ---------------------------------------------------------
-  const phrasesInvite = expressionsPresentes(titreEtEntetes + " " + textesLiens, PHRASES.invite);
+  const phrasesInvite = expressionsPresentes(contenu + " " + textesLiens, PHRASES.invite);
   if (phrasesInvite.length) {
     types.add("article-invite");
     signaux.push(`contribution proposée : « ${phrasesInvite[0]} »`);
@@ -663,8 +666,8 @@ export function detecter({ url, page, html, config, cibles }) {
   const liensConcurrents = concurrents.length ? externes.filter((l) => appartientA(l.href, concurrents)) : [];
   const liensMetier = externes.filter((l) => RE_LIEN_PRESTATAIRE.test(l.texte + " " + l.href) && !l.contexte.includes("navigation") && !l.contexte.includes("pied") && !l.contexte.includes("lateral"));
   const phrasesListeTitre = expressionsPresentes(titreEtEntetes, PHRASES.listePrestataires);
-  const phrasesListeTexte = expressionsPresentes(texteNormalise, PHRASES.listePrestataires);
-  const themeListe = expressionsPresentes(titreEtEntetes + " " + texteNormalise, PHRASES.themeListe);
+  const phrasesListeTexte = expressionsPresentes(texteContenu, PHRASES.listePrestataires);
+  const themeListe = expressionsPresentes(contenu, PHRASES.themeListe);
   const ugc = types.has("forum") || types.has("commentaire") || types.has("question-reponse");
   if (liensConcurrents.length) {
     details.concurrentsCites = [...new Set(liensConcurrents.map((l) => hoteDe(l.href)))];

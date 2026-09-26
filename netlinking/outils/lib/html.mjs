@@ -76,10 +76,12 @@ export function analyserHtml(html, urlBase = "") {
     balises: {},
     compteurs: { commentaires: 0, commentairesCorps: 0, commentairesItems: 0, textareasHorsFormulaire: 0 },
     texte: "",
+    texteContenu: "",
     nbMots: 0,
   };
   const pile = [];
   const morceauxTexte = [];
+  const morceauxContenu = [];
   let tailleTexte = 0;
   let ancre = null;
   let formulaire = null;
@@ -106,7 +108,14 @@ export function analyserHtml(html, urlBase = "") {
     if (tailleTexte < LIMITE_TEXTE) {
       morceauxTexte.push(t);
       tailleTexte += t.length;
+      if (!dansHabillage()) morceauxContenu.push(t);
     }
+  }
+
+  /** Le texte courant est-il dans l'habillage (menus, pied de page, colonne latérale) ? */
+  function dansHabillage() {
+    for (const el of pile) for (const e of el.etiquettes) if (e === "navigation" || e === "pied" || e === "lateral") return true;
+    return false;
   }
 
   function resoudre(href) {
@@ -437,6 +446,7 @@ export function analyserHtml(html, urlBase = "") {
   res.signaturesScripts = signatures.join("\n");
   res.compteurs.commentaires = Math.max(res.compteurs.commentairesCorps, res.compteurs.commentairesItems);
   res.texte = morceauxTexte.join("").replace(/[ \s]+/g, " ").trim();
+  res.texteContenu = morceauxContenu.join("").replace(/[ \s]+/g, " ").trim();
   res.nbMots = res.texte ? res.texte.split(" ").filter((m) => m.length > 1).length : 0;
   res.titre = res.titre.replace(/\s+/g, " ").trim().slice(0, 300);
   res.h1 = (res.entetes.find((e) => e.niveau === 1) || {}).texte || "";
