@@ -1,0 +1,21 @@
+{
+  "name": "netlinking-allo-frelons",
+  "version": "1.0.0",
+  "type": "module",
+  "private": true,
+  "description": "Prospection de spots de netlinking (commentaires, forums, annuaires, livres d'or, mentions, listes de prestataires) pour pousser allo-frelons.fr et les pages qui pointent vers lui.",
+  "license": "MIT",
+  "engines": {
+    "node": ">=18"
+  },
+  "scripts": {
+    "explorer": "node outils/explorer.mjs",
+    "chercher": "node outils/chercher.mjs",
+    "cibles": "node outils/cibles.mjs",
+    "indexation": "node outils/indexation.mjs",
+    "rapport": "node outils/rapport.mjs",
+    "marquer": "node outils/marquer.mjs",
+    "cycle": "node outils/chercher.mjs --si-possible && node outils/explorer.mjs && node outils/rapport.mjs",
+    "test": "node --test \"outils/tests/*.test.mjs\""
+  }
+}

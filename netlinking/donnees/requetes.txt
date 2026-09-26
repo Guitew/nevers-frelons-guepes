@@ -1,0 +1,4 @@
+# Requêtes d'empreinte lancées par « npm run chercher » (une par ligne, « # » pour commenter).
+# Fichier vide (comme ici) = requêtes générées automatiquement à partir de config.json
+# (thèmes × zones × empreintes). Pour les voir : node outils/chercher.mjs --generer
+# Pour les figer et les retoucher : node outils/chercher.mjs --generer --ecrire

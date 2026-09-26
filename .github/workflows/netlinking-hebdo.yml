@@ -1,0 +1,87 @@
+name: Netlinking — prospection hebdomadaire
+
+# Cycle hebdomadaire de prospection de spots de netlinking pour allo-frelons.fr :
+#   1. cibles    : pages d'allo-frelons.fr (sitemap) et vérification des relais ;
+#   2. chercher  : requêtes d'empreinte sur un moteur (seulement si une clé est définie) ;
+#   3. explorer  : visite polie de la frontière (robots.txt, un accès à la fois par hôte) ;
+#   4. rapport   : donnees/rapport.csv et donnees/rapport.md ;
+#   5. commit de donnees/ : le dépôt est la mémoire de la prospection, chaque
+#      nouveau spot est lisible en diff et le rapport Markdown directement sur GitHub.
+#
+# Rien n'est jamais publié sur les sites visités : l'outil repère et qualifie,
+# un humain agit.
+#
+# Secrets optionnels : SERPER_API_KEY, BRAVE_API_KEY, GOOGLE_CSE_KEY + GOOGLE_CSE_CX.
+
+on:
+  schedule:
+    - cron: "17 5 * * 1" # lundi 05 h 17 UTC (07 h 17 à Paris en été)
+  workflow_dispatch:
+    inputs:
+      pages:
+        description: "Nombre maximal de pages à visiter"
+        required: false
+        default: "300"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: netlinking-hebdo
+  cancel-in-progress: false
+
+defaults:
+  run:
+    working-directory: netlinking
+
+jobs:
+  prospection:
+    runs-on: ubuntu-latest
+    timeout-minutes: 90
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: "22"
+
+      # Pages cibles : relecture du sitemap d'allo-frelons.fr (titres inclus), puis
+      # contrôle que les pages relais pointent toujours vers le site.
+      - name: Mettre à jour les pages cibles et vérifier les relais
+        run: |
+          node outils/cibles.mjs --titres
+          node outils/cibles.mjs --verifier
+
+      - name: Requêtes d'empreinte (si un moteur est configuré)
+        env:
+          SERPER_API_KEY: ${{ secrets.SERPER_API_KEY }}
+          BRAVE_API_KEY: ${{ secrets.BRAVE_API_KEY }}
+          GOOGLE_CSE_KEY: ${{ secrets.GOOGLE_CSE_KEY }}
+          GOOGLE_CSE_CX: ${{ secrets.GOOGLE_CSE_CX }}
+        run: node outils/chercher.mjs --si-possible
+
+      - name: Exploration
+        run: node outils/explorer.mjs --max=${{ inputs.pages || '300' }} --duree=60 --silencieux
+
+      - name: Vérification d'indexation des meilleurs spots (si un moteur est configuré)
+        env:
+          SERPER_API_KEY: ${{ secrets.SERPER_API_KEY }}
+          BRAVE_API_KEY: ${{ secrets.BRAVE_API_KEY }}
+          GOOGLE_CSE_KEY: ${{ secrets.GOOGLE_CSE_KEY }}
+          GOOGLE_CSE_CX: ${{ secrets.GOOGLE_CSE_CX }}
+        run: node outils/indexation.mjs --max=20
+
+      - name: Rapport
+        run: node outils/rapport.mjs
+
+      - name: Committer l'état de la prospection
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          if [ -n "$(git status --porcelain donnees)" ]; then
+            git add donnees
+            git commit -m "Netlinking : prospection du $(date -u +%F)"
+            git push
+          else
+            echo "Aucun changement à committer."
+          fi
