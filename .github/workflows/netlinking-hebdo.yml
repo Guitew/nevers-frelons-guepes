@@ -1,10 +1,11 @@
 name: Netlinking — prospection hebdomadaire
 
 # Cycle hebdomadaire de prospection de spots de netlinking pour allo-frelons.fr :
-#   1. chercher  : requêtes d'empreinte sur un moteur (seulement si une clé est définie) ;
-#   2. explorer  : visite polie de la frontière (robots.txt, un accès à la fois par hôte) ;
-#   3. rapport   : donnees/rapport.csv et donnees/rapport.md ;
-#   4. commit de donnees/ : le dépôt est la mémoire de la prospection, chaque
+#   1. cibles    : pages d'allo-frelons.fr (sitemap) et vérification des relais ;
+#   2. chercher  : requêtes d'empreinte sur un moteur (seulement si une clé est définie) ;
+#   3. explorer  : visite polie de la frontière (robots.txt, un accès à la fois par hôte) ;
+#   4. rapport   : donnees/rapport.csv et donnees/rapport.md ;
+#   5. commit de donnees/ : le dépôt est la mémoire de la prospection, chaque
 #      nouveau spot est lisible en diff et le rapport Markdown directement sur GitHub.
 #
 # Rien n'est jamais publié sur les sites visités : l'outil repère et qualifie,
@@ -43,6 +44,13 @@ jobs:
       - uses: actions/setup-node@v4
         with:
           node-version: "22"
+
+      # Pages cibles : relecture du sitemap d'allo-frelons.fr (titres inclus), puis
+      # contrôle que les pages relais pointent toujours vers le site.
+      - name: Mettre à jour les pages cibles et vérifier les relais
+        run: |
+          node outils/cibles.mjs --titres
+          node outils/cibles.mjs --verifier
 
       - name: Requêtes d'empreinte (si un moteur est configuré)
         env:

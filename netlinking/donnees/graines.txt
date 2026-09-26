@@ -1,14 +1,121 @@
 # URLs de départ de l'exploration (une par ligne, « # » pour commenter).
-# Mettez ici les sites où un lien ou une citation d'ALLO FRELONS serait naturel :
-# blogs jardin / nature / apiculture, forums, annuaires locaux, sites de mairies,
-# associations d'apiculteurs, pages « frelon asiatique » de collectivités…
-# L'outil suit ensuite les liens internes de ces sites, puis (si suivreExternes)
-# les liens externes thématiques (blogrolls, partenaires) pour découvrir d'autres sites.
-#
-# Exemples (à remplacer par vos propres découvertes) :
-# https://www.jardiner-malin.fr/
-# https://www.aujardin.info/
-# https://www.gerbeaud.com/
-# https://www.rustica.fr/
-# https://www.apiculture.net/
-# https://www.frelonasiatique.fr/
+# Sites relevés par recherche le 26/09/2026 : l'outil suit leurs liens internes
+# (25 pages par site au plus), puis les liens externes thématiques (blogrolls,
+# partenaires) pour découvrir d'autres sites. Les pages précises trouvées par
+# les requêtes sont déjà dans donnees/exploration.json (frontière).
+
+# --- Forums où l'on peut répondre (inscription) : citations reprises par les IA
+https://guepes-frelons.forumgratuit.org/
+https://forum-apiculture.forumactif.org/
+https://www.apiculture-france.com/
+https://www.ruche-apiculture.com/forum/
+https://www.ruches-apiculture.com/forums/
+https://www.aujardin.org/
+https://forums.futura-sciences.com/jardinage/
+https://www.aquajardin.net/forum/
+https://arrosoirs-secateurs.com/forum/
+https://www.econologie.com/forums/
+https://www.salamandre.org/forum/
+
+# --- Blogs jardin / nature / apiculture avec commentaires
+https://apiculturepassion.com/
+https://www.apiculture.net/blog/
+https://blog.icko-apiculture.com/
+https://www.naturapi.com/naturapicafe/
+https://www.un-jardin-bio.com/
+https://www.jardindecamille.com/
+https://terre-et-jardin.com/
+https://www.lemondedujardin.com/
+https://secretdujardin.fr/
+https://mon-balcon-jardin.com/
+https://odilecoachjardin.com/
+https://blogs.futura-sciences.com/maison-jardin/
+https://www.mesdepanneurs.fr/blog/
+https://leocare.eu/fr/blog/
+https://frelons.be/
+https://pseudo-ecologie.fr/blog/
+https://www.unevillepourtous.fr/
+
+# --- Plateformes et réseaux « frelon asiatique » (listes de référents / d'entreprises)
+https://lefrelon.com/
+https://www.frelonsasiatiques.fr/
+https://frelonasiatique.bzh/
+https://cartefrelon.fr/
+https://freelons.fr/
+https://signalnids.fr/pros/
+https://www.frelonasiatique61.fr/entreprises/
+https://www.frelonasiatique76.fr/entreprises/
+https://fredon.fr/idf/frelon-asiatique
+https://www.frgds-occitanie.fr/
+https://www.fdgdon50.com/
+https://santeabeille26.fr/
+http://www.gdsa77.fr/
+https://www.syndicatapicolesudaisne.com/
+https://www.coopapiloire.fr/
+https://mon-abeille.fr/
+https://www.atlantique-apiculture.com/
+https://anti-frelon-asiatique.com/
+
+# --- Annuaires spécialisés guêpes / frelons / nuisibles (fiche à créer)
+https://destruction-frelon.fr/
+https://guepes.fr/
+https://frelon-serice.fr/
+https://frelons-asiatiques.fr/
+https://frelon-urgence.fr/
+https://frelon-info.fr/
+https://frelon-invasion.fr/
+https://destruction-nid-de-frelon.com/
+https://www.annuairenuisible.com/
+https://www.prosdesnuisibles.com/
+https://www.annuaire-nuisible.com/
+https://france-nuisibles.fr/
+https://pco-academy.info/annuaire-professionnel-deratisation-desinsectisation/
+https://mon-presta.fr/
+https://www.vite-un-depanneur.fr/
+
+# --- Annuaires généralistes et d'artisans (référencement gratuit)
+https://www.referencement-annuaire-web.fr/
+https://www.coodoeil.fr/
+https://www.baoo.fr/
+https://www.zeleur.com/
+https://annuaire-ecologie.info/
+http://www.afleurdepau.com/annuaire2/
+https://astuceswp.fr/annuaire/
+https://www.toutpourvostravaux.fr/
+https://www.mestravaux.com/
+https://www.meilleur-artisan.com/
+https://levraiartisan.fr/
+https://www.2az.fr/
+https://heewotravaux.com/
+https://www.annuaire-artisan.com/
+https://www.annuaireartisan.fr/
+
+# --- Livres d'or et avis
+https://www.lerucherarpeli.fr/livre-d-or-avis/
+https://www.shop-apiculture.com/livredor.php
+https://www.donnersonavis.com/listing/allo-frelons-lille/
+https://fr.trustpilot.com/review/allo-frelons.fr
+
+# --- Collectivités et services de l'État : pages « frelon asiatique » avec listes d'entreprises
+https://www.pyrenees-atlantiques.gouv.fr/Actions-de-l-Etat/Securite/Protection-civile/Le-frelon-asiatique-generalites/Destruction-des-nids/liste-des-societes-de-desinsectisation
+https://www.seine-maritime.gouv.fr/Actions-de-l-Etat/Environnement-et-prevention-des-risques/Lutte-contre-le-frelon-asiatique-en-Seine-Maritime
+https://www.somme.gouv.fr/Actions-de-l-Etat/Securite-et-protection-de-la-population/Securite-civile/Le-frelon-a-pattes-jaunes
+https://www.somme.fr/services/environnement/les-aides/aide-aux-particuliers-pour-la-destruction-de-nids-de-frelons-asiatiques/
+https://www.departement06.fr/lutte-contre-le-frelon-asiatique
+https://www.haute-garonne.fr/service/lutter-contre-le-frelon-asiatique
+https://www.aisne.com/actualites/lutte-contre-frelon-asiatique-departement-mobilise
+https://www.villeneuvedascq.fr/frelons-asiatiques-comment-agir
+https://www.ville-wormhout.fr/page/referent-communal-frelon-asiatique
+https://www.bacouel-sur-selle.fr/liste-des-entreprises-de-destruction-de-nids-de-frelons-asiatiques/
+https://www.saintbrice95.fr/cadre-de-vie/environnement/frelons-asiatiques-1137.html
+https://www.lambesc.fr/ma-ville/developpement-durable/lutte-frelon-asiatique/
+https://www.lavalette83.fr/frelons-asiatiques/
+https://www.mairie-saint-contest.fr/destruction_nids_de_guepes_et_frelons.html
+https://www.parisestmarnebois.fr/fr/frelons-asiatiques
+https://www.ville-lepecq.fr/actualite/charte-regionale-des-bonnes-pratiques-de-destruction-des-nids-de-frelon-asiatique-en-ile-de-france/
+https://cc-hautvaldoise.fr/fr/rb/1856194/traitement-des-nids-de-frelons
+https://www.ccvalleedugaron.com/devenez-referent-frelon-asiatique/
+https://www.vienne-condrieu-agglomeration.fr/valoriser-et-preserver/biodiversite/la-lutte-contre-les-especes-invasives/le-frelon-asiatique
+https://www.wallonie.be/fr/actualites/frelon-asiatique-que-faire-en-cas-de-decouverte-dun-nid
+https://www.bruxelles.be/frelons-asiatiques
+https://www.lpo.fr/decouvrir-la-nature/conseils-biodiversite/conseils-biodiversite/accueillir-la-faune-sauvage/cohabiter-avec-les-guepes-et-les-frelons
