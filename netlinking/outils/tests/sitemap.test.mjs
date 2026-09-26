@@ -58,5 +58,12 @@ test("mettreAJourPages : sitemap lu, titres lus une seule fois (sauf --titres=to
   assert.equal(demandes.length - avant, 1 + 1 + 2, "--titres=tout relit les deux pages");
   cibles = lireCibles(fichiers(dossier).cibles, config);
   assert.equal(cibles.pages.length, 3);
+  // Plafond par exécution : les titres manquants se complètent au fil des passages.
+  for (const p of cibles.pages.slice(1)) p.titre = "";
+  fs.writeFileSync(fichiers(dossier).cibles, JSON.stringify(cibles));
+  const avant2 = demandes.length;
+  await mettreAJourPages({ config, dossier, telechargeur, titres: true, maxTitres: 1, journal: () => {} });
+  assert.equal(demandes.length - avant2, 2, "sitemap + un seul titre");
+  assert.equal(lireCibles(fichiers(dossier).cibles, config).pages.filter((p) => p.titre).length, 2);
   fs.rmSync(dossier, { recursive: true, force: true });
 });

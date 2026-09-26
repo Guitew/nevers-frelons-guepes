@@ -37,7 +37,7 @@ defaults:
 jobs:
   prospection:
     runs-on: ubuntu-latest
-    timeout-minutes: 90
+    timeout-minutes: 80
     steps:
       - uses: actions/checkout@v4
 
@@ -45,8 +45,9 @@ jobs:
         with:
           node-version: "22"
 
-      # Pages cibles : relecture du sitemap d'allo-frelons.fr (titres inclus), puis
-      # contrôle que les pages relais pointent toujours vers le site.
+      # Pages cibles : relecture du sitemap d'allo-frelons.fr (au plus 100 titres
+      # manquants par passage), puis contrôle que les pages relais pointent toujours
+      # vers le site.
       - name: Mettre à jour les pages cibles et vérifier les relais
         run: |
           node outils/cibles.mjs --titres
@@ -61,7 +62,7 @@ jobs:
         run: node outils/chercher.mjs --si-possible
 
       - name: Exploration
-        run: node outils/explorer.mjs --max=${{ inputs.pages || '300' }} --duree=60 --silencieux
+        run: node outils/explorer.mjs --max=${{ inputs.pages || '300' }} --duree=45 --silencieux
 
       - name: Vérification d'indexation des meilleurs spots (si un moteur est configuré)
         env:

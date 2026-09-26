@@ -10,6 +10,7 @@
  *   node outils/cibles.mjs                              lit le sitemap du site et met à jour les pages
  *   node outils/cibles.mjs --titres                     idem, en lisant le <title> des pages qui n'en ont pas encore
  *   node outils/cibles.mjs --titres=tout                relit le <title> de toutes les pages
+ *   node outils/cibles.mjs --titres --max-titres=500    au plus 500 titres par exécution (100 par défaut)
  *   node outils/cibles.mjs --relais=https://…           déclare une page relais (répétable, virgules acceptées)
  *   node outils/cibles.mjs --csv=export.csv             importe des URLs ou domaines (1re colonne) d'un export
  *                                                       Search Console « Sites les plus liés » : les domaines
@@ -29,7 +30,7 @@ import { lireSitemap } from "./lib/sitemap.mjs";
 import { creerTelechargeur } from "./lib/telechargeur.mjs";
 import { appartientA, normaliserUrl } from "./lib/url.mjs";
 
-export async function mettreAJourPages({ config, dossier, telechargeur, titres = false, journal = console.log }) {
+export async function mettreAJourPages({ config, dossier, telechargeur, titres = false, maxTitres = 100, journal = console.log }) {
   const chemins = fichiers(dossier);
   const cibles = lireCibles(chemins.cibles, config);
   const base = new URL(config.site.url);
@@ -48,9 +49,10 @@ export async function mettreAJourPages({ config, dossier, telechargeur, titres =
   for (const u of urls) {
     if (!appartientA(u, config.site.domaines)) continue;
     const page = ajouterPage(cibles, u);
-    // Les titres ne sont lus que pour les pages qui n'en ont pas encore (ou pour toutes avec --titres=tout) :
-    // inutile de relire chaque semaine des centaines de pages du site.
-    if (titres && page && (!page.titre || titres === "tout")) {
+    // Les titres ne sont lus que pour les pages qui n'en ont pas encore (ou pour toutes avec --titres=tout),
+    // et au plus maxTitres par exécution : un site de plusieurs centaines de pages se complète en quelques
+    // semaines sans jamais bloquer le cycle (le premier passage a duré plus de dix minutes sur allo-frelons.fr).
+    if (titres && page && (!page.titre || titres === "tout") && titresLus < maxTitres) {
       const rep = await telechargeur.recuperer(u);
       if (rep.statut === 200 && rep.corps) {
         ajouterPage(cibles, u, { titre: analyserHtml(rep.corps, u).titre });
@@ -59,7 +61,8 @@ export async function mettreAJourPages({ config, dossier, telechargeur, titres =
     }
   }
   ecrireCibles(chemins.cibles, cibles);
-  journal(`${cibles.pages.length} page(s) cible(s) enregistrée(s)${titres ? ` (${titresLus} titre(s) lu(s))` : ""}.`);
+  const restants = cibles.pages.filter((p) => !p.titre).length;
+  journal(`${cibles.pages.length} page(s) cible(s) enregistrée(s)${titres ? ` (${titresLus} titre(s) lu(s), ${restants} restant(s))` : ""}.`);
   return cibles;
 }
 
@@ -139,7 +142,7 @@ async function principal() {
   }
 
   if (!args.has("relais") && !args.has("csv") && !args.has("verifier")) {
-    await mettreAJourPages({ config, telechargeur, titres: args.has("titres") ? args.get("titres") === "tout" ? "tout" : true : false });
+    await mettreAJourPages({ config, telechargeur, titres: args.has("titres") ? args.get("titres") === "tout" ? "tout" : true : false, maxTitres: args.nombre("max-titres", 100) });
   }
 }
 
