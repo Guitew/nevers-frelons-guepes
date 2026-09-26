@@ -96,6 +96,15 @@ function frequencesMots(cibles, pages) {
   return frequences;
 }
 
+/** Nombre de segments du slug d'une URL (« /nid-de-guepes » → 3). */
+function segmentsSlug(u) {
+  try {
+    return new URL(u).pathname.split(/[-_/.]+/).filter(Boolean).length;
+  } catch {
+    return 0;
+  }
+}
+
 function normaliserUrlSimple(u) {
   return String(u || "").replace(/^https?:\/\/(www\.)?/, "").replace(/\/+$/, "");
 }
@@ -342,6 +351,7 @@ export function choisirCible({ spot, page, cibles, config }) {
       for (const p of pages) {
         const jetons = (p.motsCles || []).map(radical);
         if (!jetons.length || !jetons.every((j) => themesConfig.has(j) && motsTitre.has(j))) continue;
+        if (segmentsSlug(p.url) !== jetons.length) continue; // « dd-frelon » n'est pas la page « frelon »
         if (!pilier || jetons.length < pilier.motsCles.length) pilier = p;
       }
       meilleure = pilier || pages.find((p) => p.principale) || pages.find((p) => normaliserUrlSimple(p.url) === normaliserUrlSimple(config.site.url)) || null;

@@ -107,6 +107,7 @@ test("cible localisée : un spot sur le Var (83) vise la page locale du site, pa
       { url: "https://allo-frelons.fr/entreprise-frelons-guepes-frelon-asiatique-var-83", titre: "", motsCles: ["entreprise", "frelons", "guepes", "frelon", "asiatique", "var", "dep83"] },
       { url: "https://allo-frelons.fr/vespai-detection-precoce-frelon-asiatique-vespa-velutina-intelligence-artificielle", titre: "", motsCles: ["vespai", "detection", "precoce", "frelon", "asiatique", "vespa", "velutina", "intelligence", "artificielle"] },
       { url: "https://allo-frelons.fr/abeille-frelon-asiatique", titre: "", motsCles: ["abeille", "frelon", "asiatique"] },
+      { url: "https://allo-frelons.fr/dd-frelon", titre: "", motsCles: ["frelon"] },
     ],
     relais: [],
   };
