@@ -336,15 +336,13 @@ export function choisirCible({ spot, page, cibles, config }) {
       // Repli : la page pilier du thème (slug fait uniquement de mots de thème, tous cités par le
       // titre du spot ou trouvés dans son texte : « frelon-asiatique », « guepes »…), sinon l'accueil.
       const motsTitre = new Set([...motsSignificatifs(titreEtH1, 60), ...(spot.themes || []).flatMap((t) => motsSignificatifs(t, 5))].map(radical));
+      // Entre plusieurs piliers possibles (« frelon-asiatique », « abeille-frelon-asiatique »), le
+      // slug le plus court est la page la plus générale : c'est elle que l'on pousse.
       let pilier = null;
-      let couverture = 0;
       for (const p of pages) {
         const jetons = (p.motsCles || []).map(radical);
         if (!jetons.length || !jetons.every((j) => themesConfig.has(j) && motsTitre.has(j))) continue;
-        if (jetons.length > couverture) {
-          couverture = jetons.length;
-          pilier = p;
-        }
+        if (!pilier || jetons.length < pilier.motsCles.length) pilier = p;
       }
       meilleure = pilier || pages.find((p) => p.principale) || pages.find((p) => normaliserUrlSimple(p.url) === normaliserUrlSimple(config.site.url)) || null;
     }
