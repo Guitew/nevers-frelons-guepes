@@ -145,3 +145,23 @@ test("analyserFormulaires distingue commentaire, annuaire minimal, inscription a
   assert.equal(r.annuaire?.forme, "url+titre");
   assert.equal(r.commentaire, null);
 });
+
+test("un appel « poser une question » dans le menu ne fait pas une page de questions/réponses", () => {
+  const html = `<html lang="fr"><head><title>Frelons asiatiques - Ville de Test</title></head><body>
+<nav class="menu"><a href="/contact">Poser une question</a><a href="/avis">Laisser un avis</a></nav>
+<main><h1>Frelons asiatiques</h1><p>La ville vous informe sur le frelon asiatique.</p>
+<form action="/newsletter" class="newsletter"><input type="email" name="email"><textarea name="message"></textarea></form></main>
+<footer>Inscription gratuite à la lettre d'information</footer></body></html>`;
+  const d = analyser(html, "https://ville-test.fr/frelons-asiatiques/");
+  assert.equal(d.type, null);
+});
+
+test("departements : noms composés, numéros entre parenthèses, noms ambigus seulement avec leur numéro", async () => {
+  const { departementsCites, jetonsNumeros, jetonsDepartement } = await import("../lib/departements.mjs");
+  assert.deepEqual(departementsCites("Destruction de nids dans les Pyrénées-Atlantiques et le Var (83)").map((d) => d.numero), ["64", "83"]);
+  assert.deepEqual(departementsCites("Le nord de la France").map((d) => d.numero), [], "« nord » seul est ambigu");
+  assert.deepEqual(departementsCites("Intervention dans le Nord 59 et à Lille").map((d) => d.numero), ["59"]);
+  assert.deepEqual(jetonsNumeros("entreprise-frelons-guepes-var-83"), ["dep83"]);
+  assert.deepEqual(jetonsNumeros("top-2024-des-pieges"), []);
+  assert.deepEqual(jetonsDepartement(departementsCites("Pyrénées-Atlantiques")[0]), ["pyrenees", "atlantiques", "dep64"]);
+});

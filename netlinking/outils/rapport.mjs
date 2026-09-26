@@ -23,8 +23,8 @@ import { lireCibles } from "./lib/cibles.mjs";
 import { versCsv } from "./lib/csv.mjs";
 import { lireExclusions } from "./lib/exclusions.mjs";
 import { lireExploration, statistiques } from "./lib/exploration.mjs";
-import { ETATS, libelleType, lireSpots, resumer } from "./lib/spots.mjs";
-import { ORDRE_FACILITE } from "./lib/score.mjs";
+import { ecrireSpots, ETATS, libelleType, lireSpots, resumer } from "./lib/spots.mjs";
+import { choisirCible, ORDRE_FACILITE } from "./lib/score.mjs";
 import { appartientA } from "./lib/url.mjs";
 
 const FACILITES = { immediate: "Immédiat (formulaire)", inscription: "Inscription requise", contact: "Contact à prendre" };
@@ -104,9 +104,15 @@ async function principal() {
   const chemins = fichiers();
   const tous = lireSpots(chemins.spots);
   const exclusions = lireExclusions(chemins.exclusions);
+  const cibles = lireCibles(chemins.cibles, config);
+  // Les cibles suggérées sont recalculées à chaque rapport : les pages du site et les relais
+  // évoluent d'une semaine à l'autre, et un spot n'est revisité qu'après revisiteJours.
+  for (const s of tous) {
+    if ((s.etat || ETATS.A_TRAITER) === ETATS.A_TRAITER) s.cible = choisirCible({ spot: s, page: { titre: s.titre || "", h1: "" }, cibles, config });
+  }
+  ecrireSpots(chemins.spots, tous);
   const selection = selectionner(tous, { min: args.nombre("min", config.score.minimumRapport), type: args.get("type"), etat: args.get("etat", ETATS.A_TRAITER), exclusions, config });
   const resume = resumer(tous);
-  const cibles = lireCibles(chemins.cibles, config);
   const exploration = statistiques(lireExploration(chemins.exploration));
 
   fs.writeFileSync(chemins.rapportCsv, versCsv(selection, COLONNES), "utf8");

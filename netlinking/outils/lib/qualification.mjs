@@ -11,7 +11,7 @@ import { detecter } from "./detection.mjs";
 import { evaluerIa, evaluerIndexabilite } from "./indexabilite.mjs";
 import { choisirCible, noter, pertinence } from "./score.mjs";
 import { ROBOTS_VIDE } from "./robots.mjs";
-import { domaineDe, hoteDe } from "./url.mjs";
+import { appartientA, domaineDe, hoteDe } from "./url.mjs";
 import { aujourdhui, tronquer } from "./texte.mjs";
 
 export function qualifierPage({ url, statut = 200, entetes = {}, corps, robots = ROBOTS_VIDE, config, cibles, origine = null }) {
@@ -21,9 +21,11 @@ export function qualifierPage({ url, statut = 200, entetes = {}, corps, robots =
   const ia = evaluerIa(robots, url);
   const p = pertinence(page, url, config);
 
-  // Une page qui pointe déjà vers le site est un relais (à renforcer), pas un spot à conquérir.
+  // Une page qui pointe déjà vers le site est un relais (à renforcer), pas un spot à conquérir ;
+  // et l'on ne publie pas chez un concurrent.
   let spot = null;
-  if (detection.type && !detection.relais) {
+  const concurrent = appartientA(url, config.concurrents?.domaines || []);
+  if (detection.type && !detection.relais && !concurrent) {
     const scores = noter({ detection, indexabilite, ia, pertinence: p, page, statutHttp: statut });
     spot = {
       url,

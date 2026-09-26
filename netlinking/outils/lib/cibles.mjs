@@ -10,6 +10,7 @@
 import fs from "node:fs";
 import path from "node:path";
 import { motsSignificatifs } from "./texte.mjs";
+import { jetonsNumeros } from "./departements.mjs";
 import { domaineDe, normaliserUrl } from "./url.mjs";
 
 export function creerCibles(config) {
@@ -45,7 +46,11 @@ export function motsClesPage(url, titre = "") {
   } catch {
     slug = "";
   }
-  return motsSignificatifs(slug + " " + titre, 40);
+  // Mots du slug seulement (le titre, plus bavard, diluerait la correspondance) ; les numéros de
+  // département deviennent des jetons « dep59 » : c'est ce qui rapproche un spot local de la page
+  // locale du site. Une page sans slug (accueil) garde les mots de son titre.
+  const base = slug.trim() ? slug : titre;
+  return [...new Set([...motsSignificatifs(base, 40), ...jetonsNumeros(base)])];
 }
 
 /** Ajoute ou met à jour une page cible. */

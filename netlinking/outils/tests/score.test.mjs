@@ -11,7 +11,22 @@ import * as F from "./fixtures/site.mjs";
 
 const config = completerConfig(JSON.parse(fs.readFileSync(CONFIG_JSON, "utf8")));
 config.concurrents.domaines = ["desinsectisation-nord.fr"];
-const cibles = JSON.parse(fs.readFileSync(new URL("../../donnees/cibles.json", import.meta.url), "utf8"));
+// Cibles figées : le fichier donnees/cibles.json évolue à chaque cycle hebdomadaire.
+const cibles = {
+  principal: "https://allo-frelons.fr/",
+  pages: [
+    { url: "https://allo-frelons.fr/", titre: "ALLO FRELONS", motsCles: ["allo", "frelons"], principale: true },
+    { url: "https://allo-frelons.fr/frelon-asiatique", titre: "Frelon asiatique", motsCles: ["frelon", "asiatique"] },
+    { url: "https://allo-frelons.fr/guepes", titre: "Les guêpes", motsCles: ["guepes"] },
+    { url: "https://allo-frelons.fr/entreprise-anti-nuisibles-nord-59", titre: "Entreprise anti-nuisibles dans le Nord (59)", motsCles: ["entreprise", "anti", "nuisibles", "nord", "dep59"] },
+    { url: "https://allo-frelons.fr/nids-de-guepes-et-frelons-dans-le-pas-de-calais-62", titre: "Nids de guêpes et frelons dans le Pas-de-Calais (62)", motsCles: ["nids", "guepes", "frelons", "calais", "dep62"] },
+    { url: "https://allo-frelons.fr/entreprise-frelons-guepes-frelon-asiatique-pyrenees-atlantiques-64", titre: "", motsCles: ["entreprise", "frelons", "guepes", "frelon", "asiatique", "pyrenees", "atlantiques", "dep64"] },
+  ],
+  relais: [
+    { url: "https://observatoire-biodiversite-npdc.fr/especes/frelon-asiatique/", domaine: "observatoire-biodiversite-npdc.fr", titre: "Frelon asiatique (Vespa velutina) — Observatoire de la biodiversité", motsCles: ["especes", "frelon", "asiatique", "vespa", "velutina"], etat: "present" },
+    { url: "https://observatoire-biodiversite-npdc.fr/dossiers/que-faire-nid-frelon-asiatique-signalement/", domaine: "observatoire-biodiversite-npdc.fr", titre: "Que faire face à un nid de frelon asiatique : signalement et intervention", motsCles: ["dossiers", "faire", "nid", "frelon", "asiatique", "signalement"], etat: "present" },
+  ],
+};
 const robots = analyserRobots(F.ROBOTS);
 
 const qualifier = (html, url, extra = {}) => qualifierPage({ url, corps: html.replace(/https:\/\/SITE/g, "https://site.fr"), robots, config, cibles, ...extra });
@@ -83,4 +98,39 @@ test("un spot déjà lié au site (relais) n'est pas un spot", () => {
   const r = qualifier(F.RELAIS, "https://site.fr/relais/");
   assert.equal(r.spot, null);
   assert.ok(r.relais);
+});
+
+test("cible localisée : un spot sur le Var (83) vise la page locale du site, pas la page la plus bavarde", () => {
+  const ciblesLocales = {
+    pages: [
+      ...cibles.pages,
+      { url: "https://allo-frelons.fr/entreprise-frelons-guepes-frelon-asiatique-var-83", titre: "", motsCles: ["entreprise", "frelons", "guepes", "frelon", "asiatique", "var", "dep83"] },
+      { url: "https://allo-frelons.fr/vespai-detection-precoce-frelon-asiatique-vespa-velutina-intelligence-artificielle", titre: "", motsCles: ["vespai", "detection", "precoce", "frelon", "asiatique", "vespa", "velutina", "intelligence", "artificielle"] },
+      { url: "https://allo-frelons.fr/abeille-frelon-asiatique", titre: "", motsCles: ["abeille", "frelon", "asiatique"] },
+      { url: "https://allo-frelons.fr/dd-frelon", titre: "", motsCles: ["frelon"] },
+    ],
+    relais: [],
+  };
+  const spot = { url: "https://frelons-asiatiques.fr/societe/83-Var", domaine: "frelons-asiatiques.fr", type: "liste-prestataires", scores: { seo: 90 }, liens: { contenu: "dofollow" }, indexabilite: { indexable: true }, themes: ["frelon"], zonesTrouvees: ["Var"] };
+  const c = choisirCible({ spot, page: { titre: "Var (83) - Sociétés de destruction de nids de frelons asiatiques", h1: "" }, cibles: ciblesLocales, config });
+  assert.equal(c.url, "https://allo-frelons.fr/entreprise-frelons-guepes-frelon-asiatique-var-83");
+  // Sans lieu reconnu, la page pilier du thème l'emporte sur les pages locales.
+  const generique = choisirCible({ spot: { ...spot, url: "https://blog.fr/reconnaitre-le-frelon-asiatique/", zonesTrouvees: [] }, page: { titre: "Reconnaître le frelon asiatique", h1: "" }, cibles: ciblesLocales, config });
+  assert.equal(generique.url, "https://allo-frelons.fr/frelon-asiatique");
+  // Un mot ordinaire seul (« ville ») ne suffit pas : repli sur la page pilier du thème cité.
+  const faible = choisirCible({ spot: { ...spot, url: "https://ville.be/frelons/", zonesTrouvees: [] }, page: { titre: "Frelons asiatiques | Ville de Bruxelles", h1: "" }, cibles: ciblesLocales, config });
+  assert.equal(faible.url, "https://allo-frelons.fr/frelon-asiatique");
+  // Titre muet mais thème « guêpes » trouvé dans le texte : page pilier des guêpes.
+  const parTheme = choisirCible({ spot: { ...spot, url: "https://site.fr/partenaires/", zonesTrouvees: [], themes: ["guêpes"] }, page: { titre: "Site Partenaires", h1: "" }, cibles: ciblesLocales, config });
+  assert.equal(parTheme.url, "https://allo-frelons.fr/guepes");
+  // Sans mot de thème ni lieu : page d'accueil.
+  const rien = choisirCible({ spot: { ...spot, url: "https://site.fr/partenaires/", zonesTrouvees: [], themes: [] }, page: { titre: "Site Partenaires", h1: "" }, cibles: ciblesLocales, config });
+  assert.equal(rien.url, "https://allo-frelons.fr/");
+});
+
+test("pas de spot sur le site d'un concurrent", () => {
+  const html = F.ARTICLE.replace(/https:\/\/SITE/g, "https://www.desinsectisation-nord.fr");
+  const r = qualifierPage({ url: "https://www.desinsectisation-nord.fr/blog/nid-de-frelons/", corps: html, robots, config, cibles });
+  assert.equal(r.detection.type, "commentaire");
+  assert.equal(r.spot, null);
 });
