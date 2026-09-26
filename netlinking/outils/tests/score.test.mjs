@@ -118,8 +118,11 @@ test("cible localisée : un spot sur le Var (83) vise la page locale du site, pa
   // Un mot ordinaire seul (« ville ») ne suffit pas : repli sur la page pilier du thème cité.
   const faible = choisirCible({ spot: { ...spot, url: "https://ville.be/frelons/", zonesTrouvees: [] }, page: { titre: "Frelons asiatiques | Ville de Bruxelles", h1: "" }, cibles: ciblesLocales, config });
   assert.equal(faible.url, "https://allo-frelons.fr/frelon-asiatique");
+  // Titre muet mais thème « guêpes » trouvé dans le texte : page pilier des guêpes.
+  const parTheme = choisirCible({ spot: { ...spot, url: "https://site.fr/partenaires/", zonesTrouvees: [], themes: ["guêpes"] }, page: { titre: "Site Partenaires", h1: "" }, cibles: ciblesLocales, config });
+  assert.equal(parTheme.url, "https://allo-frelons.fr/guepes");
   // Sans mot de thème ni lieu : page d'accueil.
-  const rien = choisirCible({ spot: { ...spot, url: "https://site.fr/partenaires/", zonesTrouvees: [] }, page: { titre: "Site Partenaires", h1: "" }, cibles: ciblesLocales, config });
+  const rien = choisirCible({ spot: { ...spot, url: "https://site.fr/partenaires/", zonesTrouvees: [], themes: [] }, page: { titre: "Site Partenaires", h1: "" }, cibles: ciblesLocales, config });
   assert.equal(rien.url, "https://allo-frelons.fr/");
 });
 

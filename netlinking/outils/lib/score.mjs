@@ -334,8 +334,8 @@ export function choisirCible({ spot, page, cibles, config }) {
     }
     if (!meilleure || !acceptable(meilleur)) {
       // Repli : la page pilier du thème (slug fait uniquement de mots de thème, tous cités par le
-      // spot : « frelon-asiatique », « guepes »…), sinon la page d'accueil.
-      const motsTitre = new Set(motsSignificatifs(titreEtH1, 60).map(radical));
+      // titre du spot ou trouvés dans son texte : « frelon-asiatique », « guepes »…), sinon l'accueil.
+      const motsTitre = new Set([...motsSignificatifs(titreEtH1, 60), ...(spot.themes || []).flatMap((t) => motsSignificatifs(t, 5))].map(radical));
       let pilier = null;
       let couverture = 0;
       for (const p of pages) {
