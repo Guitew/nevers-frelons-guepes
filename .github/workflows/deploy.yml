@@ -19,6 +19,8 @@ on:
     # seul l'annuaire change.
     paths-ignore:
       - "annuaire/**"
+      # Idem pour l'outil de prospection de netlinking (aucune page du site).
+      - "netlinking/**"
   workflow_dispatch:
 
 concurrency:

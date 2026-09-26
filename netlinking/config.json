@@ -1,0 +1,84 @@
+{
+  "_lisezmoi": "Paramètres de la prospection de netlinking. Les clés d'API ne sont JAMAIS stockées ici : elles arrivent par variables d'environnement (voir .env.exemple). Tout est modifiable ; les valeurs par défaut restent polies (un site n'est jamais sollicité plus d'une fois toutes les 2,5 secondes).",
+
+  "site": {
+    "nom": "ALLO FRELONS",
+    "url": "https://allo-frelons.fr/",
+    "domaines": ["allo-frelons.fr"],
+    "mentions": ["allo frelons", "allo-frelons", "allofrelons"]
+  },
+
+  "themes": {
+    "_lisezmoi": "Mots-clés qui rendent une page pertinente. « principaux » pèsent double ; « connexes » élargissent aux blogs jardin / nature / apiculture / maison, où un commentaire est naturel.",
+    "principaux": ["frelon", "frelons", "frelon asiatique", "frelon européen", "guêpe", "guêpes", "nid de frelons", "nid de guêpes", "désinsectisation", "nuisibles", "anti-nuisibles", "destruction de nid", "vespa velutina"],
+    "connexes": ["abeille", "abeilles", "apiculture", "apiculteur", "ruche", "insecte", "insectes", "piqûre", "jardin", "jardinage", "potager", "nature", "biodiversité", "maison", "bricolage", "animaux", "hyménoptères", "pollinisateurs", "extermination", "dératisation"]
+  },
+
+  "zones": {
+    "_lisezmoi": "Localités de la zone d'intervention : une page qui les cite vaut plus (citation locale), et elles servent à générer les requêtes d'empreinte.",
+    "liste": ["Lille", "Nord", "Pas-de-Calais", "Hauts-de-France", "Valenciennes", "Douai", "Lens", "Arras", "Dunkerque", "Roubaix", "Tourcoing", "Béthune", "Nevers", "Nièvre", "Bourgogne"]
+  },
+
+  "concurrents": {
+    "_lisezmoi": "Domaines de concurrents directs (sans www). Une page qui fait un lien vers l'un d'eux est une liste de prestataires où ALLO FRELONS a sa place : elle remonte automatiquement en tête du rapport. À compléter.",
+    "domaines": []
+  },
+
+  "exploration": {
+    "userAgent": "Mozilla/5.0 (compatible; AlloFrelonsBot/1.0; +https://allo-frelons.fr/) prospection-netlinking",
+    "agentRobots": "AlloFrelonsBot",
+    "pagesParExecution": 300,
+    "pagesParHote": 25,
+    "profondeurMax": 3,
+    "delaiParHoteMs": 2500,
+    "delaiMaxRobotsS": 15,
+    "concurrence": 4,
+    "timeoutMs": 15000,
+    "tailleMaxOctets": 2000000,
+    "suivreExternes": true,
+    "externesParPage": 12,
+    "revisiteJours": 90,
+    "frontiereMax": 6000,
+    "langues": ["fr"],
+    "domainesIgnores": [
+      "facebook.com", "twitter.com", "x.com", "instagram.com", "youtube.com", "youtu.be", "linkedin.com",
+      "google.com", "google.fr", "googleapis.com", "gstatic.com", "amazon.fr", "amazon.com", "wikipedia.org",
+      "wikimedia.org", "pinterest.com", "pinterest.fr", "tiktok.com", "apple.com", "microsoft.com",
+      "wordpress.org", "wordpress.com", "gravatar.com", "w3.org", "creativecommons.org", "leboncoin.fr",
+      "twitch.tv", "vimeo.com", "flickr.com", "bit.ly", "t.co", "goo.gl", "whatsapp.com", "messenger.com",
+      "cloudflare.com", "jquery.com", "bootstrapcdn.com", "fontawesome.com", "adobe.com", "mozilla.org",
+      "github.com", "paypal.com", "doubleclick.net", "addtoany.com", "sharethis.com", "reddit.com",
+      "spotify.com", "deezer.com", "netflix.com", "booking.com", "tripadvisor.fr", "tripadvisor.com",
+      "legifrance.gouv.fr", "service-public.fr", "impots.gouv.fr"
+    ]
+  },
+
+  "moteurs": {
+    "_lisezmoi": "Moteur utilisé par « chercher » : brave, serper ou google-cse (la clé correspondante doit exister). « auto » prend le premier disponible. Les API Bing Search ont été fermées par Microsoft en août 2025 : Serper (résultats Google) et Brave sont les remplaçants économiques.",
+    "prefere": "auto",
+    "resultatsParRequete": 20,
+    "requetesParExecution": 25,
+    "fraicheurJours": 30,
+    "pays": "fr",
+    "langue": "fr"
+  },
+
+  "empreintes": {
+    "_lisezmoi": "Morceaux de requêtes combinés aux thèmes et aux zones par outils/lib/requetes.mjs (voir « npm run chercher -- --generer »). donnees/requetes.txt, s'il n'est pas vide, remplace la génération.",
+    "commentaires": ["\"laisser un commentaire\"", "\"ajouter un commentaire\"", "\"poster un commentaire\"", "\"votre commentaire\" \"site web\""],
+    "forums": ["forum", "\"nouveau sujet\"", "\"répondre\" \"sujet\" forum"],
+    "annuaires": ["annuaire \"ajouter un site\"", "annuaire \"proposer un site\"", "annuaire \"inscription gratuite\"", "annuaire entreprises \"ajouter votre entreprise\""],
+    "livresDor": ["\"livre d'or\""],
+    "questions": ["\"poser une question\"", "\"posez votre question\""],
+    "avis": ["\"laisser un avis\"", "\"donner votre avis\""],
+    "invites": ["\"article invité\"", "\"écrire pour nous\"", "\"proposer un article\"", "\"devenir contributeur\""],
+    "listes": ["liste \"désinsectiseurs\"", "\"référent frelon asiatique\"", "\"destruction de nids\" liste professionnels", "\"entreprises agréées\" frelons", "apiculteurs \"frelon asiatique\" \"qui contacter\""],
+    "marque": ["\"allo frelons\"", "\"allo-frelons.fr\"", "\"allo-frelons\""]
+  },
+
+  "score": {
+    "_lisezmoi": "seuilNiveau1 : score SEO à partir duquel le lien peut viser allo-frelons.fr directement ; en dessous, la cible suggérée est une page relais (qui pointe déjà vers allo-frelons.fr, niveau 2). minimumRapport : priorité minimale pour figurer dans le rapport.",
+    "seuilNiveau1": 60,
+    "minimumRapport": 20
+  }
+}

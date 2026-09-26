@@ -1,0 +1,2 @@
+# Domaines à ne jamais explorer ni proposer (un par ligne, sans www). Commentaires après « # ».
+# Alimenté aussi par : node outils/marquer.mjs --domaine=exemple.fr --etat=rejete

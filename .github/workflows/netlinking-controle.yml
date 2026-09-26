@@ -1,0 +1,31 @@
+name: Netlinking — tests
+
+# Barrière de qualité de l'outil de prospection de netlinking : tests
+# unitaires et test de bout en bout sur un serveur HTTP local (aucun accès
+# réseau externe n'est nécessaire).
+
+on:
+  push:
+    branches: [main]
+    paths: ["netlinking/**", ".github/workflows/netlinking-controle.yml"]
+  pull_request:
+    paths: ["netlinking/**", ".github/workflows/netlinking-controle.yml"]
+  workflow_dispatch:
+
+defaults:
+  run:
+    working-directory: netlinking
+
+jobs:
+  tests:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: "22"
+
+      # Aucune dépendance à installer : l'outil n'utilise que Node.
+      - name: Tests
+        run: npm test

@@ -1,0 +1,32 @@
+{
+  "principal": "https://allo-frelons.fr/",
+  "pages": [
+    { "url": "https://allo-frelons.fr/", "titre": "ALLO FRELONS", "motsCles": ["allo", "frelons"], "principale": true },
+    { "url": "https://allo-frelons.fr/frelon-asiatique", "titre": "Frelon asiatique", "motsCles": ["frelon", "asiatique"] },
+    { "url": "https://allo-frelons.fr/frelons-europeens", "titre": "Frelons européens", "motsCles": ["frelons", "europeens"] },
+    { "url": "https://allo-frelons.fr/guepe-poliste", "titre": "Guêpe poliste", "motsCles": ["guepe", "poliste"] },
+    { "url": "https://allo-frelons.fr/abeille-charpentiere", "titre": "Abeille charpentière", "motsCles": ["abeille", "charpentiere"] },
+    { "url": "https://allo-frelons.fr/entreprise-anti-nuisibles-nord-59", "titre": "Entreprise anti-nuisibles dans le Nord (59)", "motsCles": ["entreprise", "anti", "nuisibles", "nord"] },
+    { "url": "https://allo-frelons.fr/nids-de-guepes-et-frelons-dans-le-pas-de-calais-62", "titre": "Nids de guêpes et frelons dans le Pas-de-Calais (62)", "motsCles": ["nids", "guepes", "frelons", "calais"] }
+  ],
+  "relais": [
+    {
+      "url": "https://observatoire-biodiversite-npdc.fr/especes/frelon-asiatique/",
+      "domaine": "observatoire-biodiversite-npdc.fr",
+      "titre": "Frelon asiatique (Vespa velutina) — Observatoire de la biodiversité",
+      "motsCles": ["especes", "frelon", "asiatique", "vespa", "velutina", "observatoire", "biodiversite"],
+      "decouverte": "2026-09-26",
+      "source": "manuel",
+      "etat": "a-verifier"
+    },
+    {
+      "url": "https://observatoire-biodiversite-npdc.fr/dossiers/que-faire-nid-frelon-asiatique-signalement/",
+      "domaine": "observatoire-biodiversite-npdc.fr",
+      "titre": "Que faire face à un nid de frelon asiatique : signalement et intervention",
+      "motsCles": ["dossiers", "que", "faire", "nid", "frelon", "asiatique", "signalement", "intervention"],
+      "decouverte": "2026-09-26",
+      "source": "manuel",
+      "etat": "a-verifier"
+    }
+  ]
+}

@@ -62,6 +62,15 @@ src/
 └── *.njk / *.md      Pages (accueil, faune, flore, recherche, mentions légales…)
 ```
 
+## Autres projets du dépôt
+
+- **`annuaire/`** : annuaire des entreprises sans site web (projet autonome, voir
+  [annuaire/README.md](./annuaire/README.md)).
+- **`netlinking/`** : outil de prospection de spots de netlinking pour ALLO FRELONS —
+  explore le Web, repère commentaires, forums, annuaires, livres d'or, listes de prestataires
+  et mentions sans lien, vérifie l'indexabilité (Google / Bing) et l'accès des robots IA, et
+  suggère la page à pousser (voir [netlinking/README.md](./netlinking/README.md)).
+
 ## Ajouter une fiche espèce
 
 Créez un nouveau fichier `.md` dans `src/especes/`. Exemple minimal :
