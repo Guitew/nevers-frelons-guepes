@@ -1,0 +1,221 @@
+{
+  "id": "ChIJzT6izeizqxIRjD1CZJ5NnzQ",
+  "slug": "clinique-veterinaire-du-dr-viana",
+  "nom": "Clinique vétérinaire du Dr Viana",
+  "categorie": "veterinaires-animaux",
+  "categorie_gmb": "Soins vétérinaires",
+  "type_principal": "veterinary_care",
+  "types": [
+    "pet_care",
+    "veterinary_care",
+    "point_of_interest",
+    "establishment"
+  ],
+  "ville": "Bon-Encontre",
+  "ville_slug": "bon-encontre",
+  "adresse": {
+    "rue": "400 Rue Armand Fallières",
+    "code_postal": "47240",
+    "departement": "47",
+    "region": "Nouvelle-Aquitaine",
+    "pays": "France",
+    "complete": "400 Rue Armand Fallières, 47240 Bon-Encontre"
+  },
+  "telephone": "05 53 98 28 70",
+  "geo": {
+    "latitude": 44.201603,
+    "longitude": 0.6436799
+  },
+  "note": 4.8,
+  "avis": 335,
+  "horaires": [
+    {
+      "jour": 0,
+      "ferme": false,
+      "creneaux": [
+        [
+          "08:30",
+          "12:00"
+        ],
+        [
+          "14:00",
+          "19:00"
+        ]
+      ]
+    },
+    {
+      "jour": 1,
+      "ferme": false,
+      "creneaux": [
+        [
+          "08:30",
+          "12:00"
+        ],
+        [
+          "14:00",
+          "19:00"
+        ]
+      ]
+    },
+    {
+      "jour": 2,
+      "ferme": false,
+      "creneaux": [
+        [
+          "08:30",
+          "12:00"
+        ],
+        [
+          "14:00",
+          "19:00"
+        ]
+      ]
+    },
+    {
+      "jour": 3,
+      "ferme": false,
+      "creneaux": [
+        [
+          "08:30",
+          "12:00"
+        ],
+        [
+          "14:00",
+          "19:00"
+        ]
+      ]
+    },
+    {
+      "jour": 4,
+      "ferme": false,
+      "creneaux": [
+        [
+          "08:30",
+          "12:00"
+        ],
+        [
+          "14:00",
+          "19:00"
+        ]
+      ]
+    },
+    {
+      "jour": 5,
+      "ferme": false,
+      "creneaux": [
+        [
+          "09:00",
+          "12:00"
+        ]
+      ]
+    },
+    {
+      "jour": 6,
+      "ferme": true,
+      "creneaux": []
+    }
+  ],
+  "attributs": [
+    "Entrée accessible en fauteuil roulant",
+    "Parking accessible en fauteuil roulant",
+    "Toilettes accessibles en fauteuil roulant"
+  ],
+  "lien_google": "https://maps.google.com/?cid=3791834753951481228&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
+  "site_web_gmb": null,
+  "statut": "publiee",
+  "backlink": {
+    "etat": "absent",
+    "premiere_detection": null,
+    "derniere_detection": null,
+    "derniere_verification": "2026-09-27T10:31:34.042Z",
+    "echecs": 1,
+    "url_detectee": null
+  },
+  "suggestion": {
+    "etat": "en-attente",
+    "date_soumission": null,
+    "tentatives": 0,
+    "date_email": "2026-09-27"
+  },
+  "retrait": null,
+  "dates": {
+    "collecte": "2026-09-27",
+    "publication": "2026-09-27",
+    "maj": "2026-09-27"
+  },
+  "source": "google-places",
+  "redaction": {
+    "titre": "Clinique vétérinaire du Dr Viana — Vétérinaire et animaux à Bon-Encontre",
+    "meta_titre": "Clinique vétérinaire du Dr Viana, vétérinaire et animaux à…",
+    "meta_description": "Clinique vétérinaire du Dr Viana, vétérinaire et animaux à Bon-Encontre (400 Rue Armand Fallières) : adresse, horaires, téléphone et informations…",
+    "chapo": "Cette fiche présente Clinique vétérinaire du Dr Viana, un vétérinaire et animaux au 400 Rue Armand Fallières, à Bon-Encontre. Son établissement ne déclare aucun site internet sur sa fiche Google : les informations ci-dessous en tiennent lieu de référence publique, vérifiable et accessible à tous.",
+    "sections": [
+      {
+        "id": "presentation",
+        "titre": "Clinique vétérinaire du Dr Viana en quelques mots",
+        "paragraphes": [
+          "Le choix d'un vétérinaire et animaux se joue sur trois critères : la proximité, les horaires et la facilité de contact.",
+          "Urgence, vaccination, toilettage ou garde : les propriétaires d'animaux cherchent vite et près de chez eux. Ces établissements, souvent de très petite taille, gagnent à disposer d'une page d'information indépendante des annuaires payants.",
+          "D'après le relevé du 27 septembre 2026, l'établissement est ouvert tous les jours sauf le dimanche. Le détail jour par jour figure plus bas."
+        ]
+      },
+      {
+        "id": "acces",
+        "titre": "Adresse et accès",
+        "paragraphes": [
+          "L'établissement est situé au 400 Rue Armand Fallières, 47240 Bon-Encontre.",
+          "Coordonnées géographiques : 44.20160, 0.64368. Le lien d'itinéraire ci-dessous ouvre directement la navigation."
+        ]
+      },
+      {
+        "id": "contact",
+        "titre": "Contacter Clinique vétérinaire du Dr Viana",
+        "paragraphes": [
+          "Le contact se fait par téléphone au 05 53 98 28 70. C'est le seul moyen de communication déclaré sur la fiche Google de l'entreprise, avec la visite sur place.",
+          "Si vous dirigez cette entreprise, vous pouvez demander la correction ou le retrait de cette page à tout moment, sans justification."
+        ]
+      },
+      {
+        "id": "avis",
+        "titre": "La réputation de Clinique vétérinaire du Dr Viana",
+        "paragraphes": [
+          "Au relevé du 27 septembre 2026, l'établissement affichait une note de 4,8 sur 5 sur Google, calculée à partir de 335 avis. Cette note évolue en permanence : elle est indiquée ici à titre d'information et n'est pas retraitée.",
+          "Les avis appartiennent à Google et se consultent sur la fiche d'origine, dont le lien figure sur cette page."
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "q": "Quels sont les horaires de Clinique vétérinaire du Dr Viana ?",
+        "r": "Au relevé du 27 septembre 2026, Clinique vétérinaire du Dr Viana était ouvert tous les jours sauf le dimanche. Dans le détail — lundi : de 8 h 30 à 12 h et de 14 h à 19 h ; mardi : de 8 h 30 à 12 h et de 14 h à 19 h ; mercredi : de 8 h 30 à 12 h et de 14 h à 19 h ; jeudi : de 8 h 30 à 12 h et de 14 h à 19 h ; vendredi : de 8 h 30 à 12 h et de 14 h à 19 h ; samedi : de 9 h à 12 h ; dimanche : fermé. Ces horaires peuvent changer : un appel préalable reste conseillé."
+      },
+      {
+        "q": "Où se trouve Clinique vétérinaire du Dr Viana ?",
+        "r": "Clinique vétérinaire du Dr Viana se trouve 400 Rue Armand Fallières, 47240 Bon-Encontre. Un lien d'itinéraire est disponible sur cette page."
+      },
+      {
+        "q": "Comment contacter Clinique vétérinaire du Dr Viana ?",
+        "r": "Par téléphone au 05 53 98 28 70, ou directement sur place aux heures d'ouverture."
+      },
+      {
+        "q": "Clinique vétérinaire du Dr Viana a-t-il un site internet ?",
+        "r": "Non : aucune adresse de site web n'est déclarée sur la fiche Google de Clinique vétérinaire du Dr Viana au 27 septembre 2026. Cette page tient lieu de référence publique en attendant, le cas échéant, la création d'un site propre à l'entreprise."
+      },
+      {
+        "q": "Clinique vétérinaire du Dr Viana est-il accessible aux personnes à mobilité réduite ?",
+        "r": "La fiche Google de l'établissement mentionne : « Entrée accessible en fauteuil roulant ». Cette information est déclarative ; en cas de doute, vérifiez par téléphone."
+      }
+    ],
+    "genere_le": "2026-09-27"
+  },
+  "statut_google": "OPERATIONAL",
+  "audience": {
+    "clics": 0,
+    "impressions": null,
+    "position": null,
+    "visites": 0,
+    "fenetreJours": 90,
+    "source": "visites",
+    "date": "2026-09-27"
+  }
+}
