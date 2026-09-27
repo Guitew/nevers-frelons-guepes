@@ -1,0 +1,206 @@
+{
+  "id": "ChIJYcDH32vtBUgRFK68XPzSnXw",
+  "slug": "garage-kadans-pneus",
+  "nom": "Garage Kadans Pneus",
+  "categorie": "garages-automobile",
+  "categorie_gmb": "Garage automobile",
+  "type_principal": "car_repair",
+  "types": [
+    "car_repair",
+    "market",
+    "point_of_interest",
+    "service",
+    "establishment"
+  ],
+  "ville": "Nantes",
+  "ville_slug": "nantes",
+  "adresse": {
+    "rue": "15 ter Boulevard Jean Moulin",
+    "code_postal": "44100",
+    "departement": "44",
+    "region": "Pays de la Loire",
+    "pays": "France",
+    "complete": "15 ter Bd Jean Moulin, 44100 Nantes"
+  },
+  "telephone": "02 59 15 33 16",
+  "geo": {
+    "latitude": 47.2054336,
+    "longitude": -1.6034126
+  },
+  "note": 4.9,
+  "avis": 294,
+  "horaires": [
+    {
+      "jour": 0,
+      "ferme": false,
+      "creneaux": [
+        [
+          "09:00",
+          "19:00"
+        ]
+      ]
+    },
+    {
+      "jour": 1,
+      "ferme": false,
+      "creneaux": [
+        [
+          "09:00",
+          "19:00"
+        ]
+      ]
+    },
+    {
+      "jour": 2,
+      "ferme": false,
+      "creneaux": [
+        [
+          "09:00",
+          "19:00"
+        ]
+      ]
+    },
+    {
+      "jour": 3,
+      "ferme": false,
+      "creneaux": [
+        [
+          "09:00",
+          "19:00"
+        ]
+      ]
+    },
+    {
+      "jour": 4,
+      "ferme": false,
+      "creneaux": [
+        [
+          "09:00",
+          "12:00"
+        ],
+        [
+          "14:00",
+          "19:00"
+        ]
+      ]
+    },
+    {
+      "jour": 5,
+      "ferme": false,
+      "creneaux": [
+        [
+          "09:00",
+          "19:00"
+        ]
+      ]
+    },
+    {
+      "jour": 6,
+      "ferme": true,
+      "creneaux": []
+    }
+  ],
+  "attributs": [
+    "Entrée accessible en fauteuil roulant",
+    "Parking accessible en fauteuil roulant",
+    "Places assises accessibles en fauteuil roulant"
+  ],
+  "lien_google": "https://maps.google.com/?cid=8979565213376097812&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
+  "site_web_gmb": null,
+  "statut": "publiee",
+  "backlink": {
+    "etat": "absent",
+    "premiere_detection": null,
+    "derniere_detection": null,
+    "derniere_verification": "2026-09-27T15:08:55.510Z",
+    "echecs": 1,
+    "url_detectee": null
+  },
+  "suggestion": {
+    "etat": "en-attente",
+    "date_soumission": null,
+    "tentatives": 0,
+    "date_email": "2026-09-27"
+  },
+  "retrait": null,
+  "dates": {
+    "collecte": "2026-09-27",
+    "publication": "2026-09-27",
+    "maj": "2026-09-27"
+  },
+  "source": "google-places",
+  "redaction": {
+    "titre": "Garage Kadans Pneus — Garage et automobile à Nantes",
+    "meta_titre": "Garage Kadans Pneus, garage et automobile à Nantes",
+    "meta_description": "Garage Kadans Pneus, garage et automobile à Nantes (15 ter Boulevard Jean Moulin) : adresse, horaires, téléphone et informations pratiques.",
+    "chapo": "Garage Kadans Pneus est un garage et automobile au 15 ter Boulevard Jean Moulin, à Nantes. Aucune adresse web n'est renseignée sur sa fiche Google. Cette page rassemble donc, en un seul endroit stable, les informations que les clients recherchent avant de se déplacer.",
+    "sections": [
+      {
+        "id": "presentation",
+        "titre": "Garage Kadans Pneus en quelques mots",
+        "paragraphes": [
+          "À Nantes, les recherches du type « garage et automobile près de chez moi » se concluent le plus souvent par un appel ou une visite directe.",
+          "Entretien, réparation, contrôle technique : l'automobiliste choisit d'abord un garage proche et disponible. Ces entreprises travaillent à flux tendu et délaissent presque toujours la création d'un site, malgré une demande de recherche locale considérable.",
+          "D'après le relevé du 27 septembre 2026, l'établissement est ouvert tous les jours sauf le dimanche. Le détail jour par jour figure plus bas."
+        ]
+      },
+      {
+        "id": "acces",
+        "titre": "Adresse et accès",
+        "paragraphes": [
+          "L'établissement est situé au 15 ter Boulevard Jean Moulin, 44100 Nantes.",
+          "Coordonnées géographiques : 47.20543, -1.60341. Le lien d'itinéraire ci-dessous ouvre directement la navigation."
+        ]
+      },
+      {
+        "id": "contact",
+        "titre": "Contacter Garage Kadans Pneus",
+        "paragraphes": [
+          "Le contact se fait par téléphone au 02 59 15 33 16. C'est le seul moyen de communication déclaré sur la fiche Google de l'entreprise, avec la visite sur place.",
+          "Si vous dirigez cette entreprise, vous pouvez demander la correction ou le retrait de cette page à tout moment, sans justification."
+        ]
+      },
+      {
+        "id": "avis",
+        "titre": "La réputation de Garage Kadans Pneus",
+        "paragraphes": [
+          "Au relevé du 27 septembre 2026, l'établissement affichait une note de 4,9 sur 5 sur Google, calculée à partir de 294 avis. Cette note évolue en permanence : elle est indiquée ici à titre d'information et n'est pas retraitée.",
+          "Les avis appartiennent à Google et se consultent sur la fiche d'origine, dont le lien figure sur cette page."
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "q": "Quels sont les horaires de Garage Kadans Pneus ?",
+        "r": "Au relevé du 27 septembre 2026, Garage Kadans Pneus était ouvert tous les jours sauf le dimanche. Dans le détail — lundi : de 9 h à 19 h ; mardi : de 9 h à 19 h ; mercredi : de 9 h à 19 h ; jeudi : de 9 h à 19 h ; vendredi : de 9 h à 12 h et de 14 h à 19 h ; samedi : de 9 h à 19 h ; dimanche : fermé. Ces horaires peuvent changer : un appel préalable reste conseillé."
+      },
+      {
+        "q": "Où se trouve Garage Kadans Pneus ?",
+        "r": "Garage Kadans Pneus se trouve 15 ter Bd Jean Moulin, 44100 Nantes. Un lien d'itinéraire est disponible sur cette page."
+      },
+      {
+        "q": "Comment contacter Garage Kadans Pneus ?",
+        "r": "Par téléphone au 02 59 15 33 16, ou directement sur place aux heures d'ouverture."
+      },
+      {
+        "q": "Garage Kadans Pneus a-t-il un site internet ?",
+        "r": "Non : aucune adresse de site web n'est déclarée sur la fiche Google de Garage Kadans Pneus au 27 septembre 2026. Cette page tient lieu de référence publique en attendant, le cas échéant, la création d'un site propre à l'entreprise."
+      },
+      {
+        "q": "Garage Kadans Pneus est-il accessible aux personnes à mobilité réduite ?",
+        "r": "La fiche Google de l'établissement mentionne : « Entrée accessible en fauteuil roulant ». Cette information est déclarative ; en cas de doute, vérifiez par téléphone."
+      }
+    ],
+    "genere_le": "2026-09-27"
+  },
+  "statut_google": "OPERATIONAL",
+  "audience": {
+    "clics": 0,
+    "impressions": null,
+    "position": null,
+    "visites": 0,
+    "fenetreJours": 90,
+    "source": "visites",
+    "date": "2026-09-27"
+  }
+}
