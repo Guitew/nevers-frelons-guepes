@@ -36,13 +36,13 @@
   ],
   "lien_google": "https://maps.google.com/?cid=11821131560185683518&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
   "site_web_gmb": "https://andpro.fr/vitrine-locale/medecins-dentistes/aressy/clinique-aressy/",
-  "statut": "publiee",
+  "statut": "retiree",
   "backlink": {
     "etat": "introuvable",
     "premiere_detection": "2026-09-17T09:57:24.171Z",
     "derniere_detection": "2026-09-27T15:08:55.510Z",
-    "derniere_verification": "2026-09-28T11:38:57.651Z",
-    "echecs": 1,
+    "derniere_verification": "2026-09-28T18:09:13.845Z",
+    "echecs": 2,
     "url_detectee": "https://andpro.fr/vitrine-locale/medecins-dentistes/aressy/clinique-aressy/"
   },
   "suggestion": {
@@ -51,7 +51,12 @@
     "tentatives": 1,
     "date_email": "2026-09-05"
   },
-  "retrait": null,
+  "retrait": {
+    "mode": "410",
+    "cible": null,
+    "date": "2026-09-28",
+    "motif": "fiche Google introuvable (établissement fermé ou supprimé)"
+  },
   "dates": {
     "collecte": "2026-09-05",
     "publication": "2026-09-05",

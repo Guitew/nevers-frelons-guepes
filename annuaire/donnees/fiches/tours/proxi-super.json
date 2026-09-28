@@ -119,9 +119,9 @@
     "url_detectee": null
   },
   "suggestion": {
-    "etat": "en-attente",
-    "date_soumission": null,
-    "tentatives": 0,
+    "etat": "soumise",
+    "date_soumission": "2026-09-28",
+    "tentatives": 1,
     "date_email": "2026-09-28"
   },
   "retrait": null,
@@ -200,7 +200,7 @@
     "clics": 0,
     "impressions": null,
     "position": null,
-    "visites": 0,
+    "visites": 2,
     "fenetreJours": 90,
     "source": "visites",
     "date": "2026-09-28"

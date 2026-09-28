@@ -1,5 +1,120 @@
 [
   {
+    "date": "2026-09-28T18:09:24.747Z",
+    "type": "suggestion-soumise",
+    "id": "ChIJgYwjeJXV_EcRthrDQV0bESE",
+    "nom": "Proxi Super",
+    "url": "/commerces-alimentation/tours/proxi-super/"
+  },
+  {
+    "date": "2026-09-28T18:09:24.727Z",
+    "type": "suggestion-soumise",
+    "id": "ChIJm3cwiUioi0cRGxtO3ZcoQMM",
+    "nom": "Garage Biguet",
+    "url": "/garages-automobile/cognin/garage-biguet/"
+  },
+  {
+    "date": "2026-09-28T18:09:24.705Z",
+    "type": "suggestion-soumise",
+    "id": "ChIJI0NPQadVAUgRzTPBfqSaVCM",
+    "nom": "Socomac Agréage",
+    "url": "/comptabilite-conseil/la-rochelle/socomac-agreage/"
+  },
+  {
+    "date": "2026-09-28T18:09:23.869Z",
+    "type": "retrait-410",
+    "id": "ChIJ45eT6p5JVg0RPt4G4IUYDaQ",
+    "nom": "Clinique aressy",
+    "url": "/medecins-dentistes/aressy/clinique-aressy/",
+    "motif": "fiche Google introuvable (établissement fermé ou supprimé)",
+    "cible": null
+  },
+  {
+    "date": "2026-09-28T18:09:13.973Z",
+    "type": "backlink-absent",
+    "id": "ChIJq64PQLJA4UcRIfl_kFrmh1M",
+    "nom": "Bel'O Jet Evreux",
+    "url": null,
+    "precedent": "en-attente"
+  },
+  {
+    "date": "2026-09-28T18:09:14.044Z",
+    "type": "backlink-absent",
+    "id": "ChIJI5H6CMwd90cRvAmOhPwVKUA",
+    "nom": "j'ai trouvé mon auto une agence automobile",
+    "url": null,
+    "precedent": "en-attente"
+  },
+  {
+    "date": "2026-09-28T18:09:14.107Z",
+    "type": "backlink-absent",
+    "id": "ChIJqYbxohocEEgRXKl681omJgo",
+    "nom": "KER WASH",
+    "url": null,
+    "precedent": "en-attente"
+  },
+  {
+    "date": "2026-09-28T18:09:14.158Z",
+    "type": "backlink-absent",
+    "id": "ChIJcbOLnVvZlEcRCbC-x-i-bgQ",
+    "nom": "Pharmacie du Saint Quentin",
+    "url": null,
+    "precedent": "en-attente"
+  },
+  {
+    "date": "2026-09-28T18:09:14.209Z",
+    "type": "backlink-absent",
+    "id": "ChIJ6RjU0AfYVA0Rsbx2HoJTR8E",
+    "nom": "Pressing Eclair",
+    "url": null,
+    "precedent": "en-attente"
+  },
+  {
+    "date": "2026-09-28T18:09:13.747Z",
+    "type": "publication",
+    "id": "ChIJq64PQLJA4UcRIfl_kFrmh1M",
+    "nom": "Bel'O Jet Evreux",
+    "url": "/garages-automobile/evreux/bel-o-jet-evreux/",
+    "categorie": "garages-automobile",
+    "source": "google-places"
+  },
+  {
+    "date": "2026-09-28T18:09:13.748Z",
+    "type": "publication",
+    "id": "ChIJ6RjU0AfYVA0Rsbx2HoJTR8E",
+    "nom": "Pressing Eclair",
+    "url": "/nettoyage-hygiene/bordeaux/pressing-eclair/",
+    "categorie": "nettoyage-hygiene",
+    "source": "google-places"
+  },
+  {
+    "date": "2026-09-28T18:09:13.749Z",
+    "type": "publication",
+    "id": "ChIJqYbxohocEEgRXKl681omJgo",
+    "nom": "KER WASH",
+    "url": "/garages-automobile/vannes/ker-wash/",
+    "categorie": "garages-automobile",
+    "source": "google-places"
+  },
+  {
+    "date": "2026-09-28T18:09:13.749Z",
+    "type": "publication",
+    "id": "ChIJcbOLnVvZlEcRCbC-x-i-bgQ",
+    "nom": "Pharmacie du Saint Quentin",
+    "url": "/pharmacies-opticiens/le-ban-saint-martin/pharmacie-du-saint-quentin/",
+    "categorie": "pharmacies-opticiens",
+    "source": "google-places"
+  },
+  {
+    "date": "2026-09-28T18:09:13.750Z",
+    "type": "publication",
+    "id": "ChIJI5H6CMwd90cRvAmOhPwVKUA",
+    "nom": "j'ai trouvé mon auto une agence automobile",
+    "url": "/garages-automobile/chamalieres/j-ai-trouve-mon-auto-une-agence-automobile/",
+    "categorie": "garages-automobile",
+    "source": "google-places"
+  },
+  {
     "date": "2026-09-28T11:38:58.025Z",
     "type": "backlink-absent",
     "id": "ChIJg9uXsabe4EcRhdsiofxpuAo",

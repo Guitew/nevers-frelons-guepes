@@ -1,0 +1,227 @@
+{
+  "id": "ChIJcbOLnVvZlEcRCbC-x-i-bgQ",
+  "slug": "pharmacie-du-saint-quentin",
+  "nom": "Pharmacie du Saint Quentin",
+  "categorie": "pharmacies-opticiens",
+  "categorie_gmb": "Pharmacie",
+  "type_principal": "pharmacy",
+  "types": [
+    "pharmacy",
+    "real_estate_agency",
+    "health",
+    "store",
+    "service",
+    "point_of_interest",
+    "establishment"
+  ],
+  "ville": "Le Ban-Saint-Martin",
+  "ville_slug": "le-ban-saint-martin",
+  "adresse": {
+    "rue": "84 Route de Plappeville",
+    "code_postal": "57050",
+    "departement": "57",
+    "region": "Grand Est",
+    "pays": "France",
+    "complete": "84 Rte de Plappeville, 57050 Le Ban-Saint-Martin"
+  },
+  "telephone": "03 87 30 45 37",
+  "geo": {
+    "latitude": 49.128302999999995,
+    "longitude": 6.148610199999999
+  },
+  "note": 3.8,
+  "avis": 53,
+  "horaires": [
+    {
+      "jour": 0,
+      "ferme": false,
+      "creneaux": [
+        [
+          "08:00",
+          "12:30"
+        ],
+        [
+          "13:30",
+          "20:00"
+        ]
+      ]
+    },
+    {
+      "jour": 1,
+      "ferme": false,
+      "creneaux": [
+        [
+          "08:00",
+          "12:30"
+        ],
+        [
+          "13:30",
+          "20:00"
+        ]
+      ]
+    },
+    {
+      "jour": 2,
+      "ferme": false,
+      "creneaux": [
+        [
+          "08:00",
+          "12:30"
+        ],
+        [
+          "13:30",
+          "20:00"
+        ]
+      ]
+    },
+    {
+      "jour": 3,
+      "ferme": false,
+      "creneaux": [
+        [
+          "08:00",
+          "12:30"
+        ],
+        [
+          "13:30",
+          "20:00"
+        ]
+      ]
+    },
+    {
+      "jour": 4,
+      "ferme": false,
+      "creneaux": [
+        [
+          "08:00",
+          "12:30"
+        ],
+        [
+          "13:30",
+          "20:00"
+        ]
+      ]
+    },
+    {
+      "jour": 5,
+      "ferme": false,
+      "creneaux": [
+        [
+          "08:00",
+          "12:30"
+        ],
+        [
+          "13:30",
+          "18:30"
+        ]
+      ]
+    },
+    {
+      "jour": 6,
+      "ferme": true,
+      "creneaux": []
+    }
+  ],
+  "attributs": [
+    "Entrée accessible en fauteuil roulant",
+    "Parking accessible en fauteuil roulant"
+  ],
+  "lien_google": "https://maps.google.com/?cid=319402530582736905&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
+  "site_web_gmb": null,
+  "statut": "publiee",
+  "backlink": {
+    "etat": "absent",
+    "premiere_detection": null,
+    "derniere_detection": null,
+    "derniere_verification": "2026-09-28T18:09:13.845Z",
+    "echecs": 1,
+    "url_detectee": null
+  },
+  "suggestion": {
+    "etat": "en-attente",
+    "date_soumission": null,
+    "tentatives": 0,
+    "date_email": "2026-09-28"
+  },
+  "retrait": null,
+  "dates": {
+    "collecte": "2026-09-28",
+    "publication": "2026-09-28",
+    "maj": "2026-09-28"
+  },
+  "source": "google-places",
+  "redaction": {
+    "titre": "Pharmacie du Saint Quentin — Pharmacie ou opticien à Le Ban-Saint-Martin",
+    "meta_titre": "Pharmacie du Saint Quentin, pharmacie ou opticien à Le…",
+    "meta_description": "Pharmacie du Saint Quentin, pharmacie ou opticien à Le Ban-Saint-Martin (84 Route de Plappeville) : adresse, horaires, téléphone et informations pratiques.",
+    "chapo": "Pharmacie du Saint Quentin figure parmi les établissements de la catégorie « Pharmacie ou opticien » recensés à Le Ban-Saint-Martin. L'entreprise n'a pas de site web référencé sur sa fiche Google. Les éléments présentés ici — adresse, horaires, contact — proviennent de cette fiche et sont datés de leur relevé.",
+    "sections": [
+      {
+        "id": "presentation",
+        "titre": "Pharmacie du Saint Quentin en quelques mots",
+        "paragraphes": [
+          "À Le Ban-Saint-Martin, les recherches du type « pharmacie ou opticien près de chez moi » se concluent le plus souvent par un appel ou une visite directe.",
+          "Pharmacies et opticiens sont des commerces de première nécessité dont on cherche surtout l'horaire et la garde. Une fiche complète et à jour sert autant l'habitant pressé que le professionnel qui n'a pas vocation à gérer un site.",
+          "D'après le relevé du 28 septembre 2026, l'établissement est ouvert tous les jours sauf le dimanche. Le détail jour par jour figure plus bas."
+        ]
+      },
+      {
+        "id": "acces",
+        "titre": "Adresse et accès",
+        "paragraphes": [
+          "L'établissement est situé au 84 Route de Plappeville, 57050 Le Ban-Saint-Martin.",
+          "Coordonnées géographiques : 49.12830, 6.14861. Le lien d'itinéraire ci-dessous ouvre directement la navigation."
+        ]
+      },
+      {
+        "id": "contact",
+        "titre": "Contacter Pharmacie du Saint Quentin",
+        "paragraphes": [
+          "Le contact se fait par téléphone au 03 87 30 45 37. C'est le seul moyen de communication déclaré sur la fiche Google de l'entreprise, avec la visite sur place.",
+          "Si vous dirigez cette entreprise, vous pouvez demander la correction ou le retrait de cette page à tout moment, sans justification."
+        ]
+      },
+      {
+        "id": "avis",
+        "titre": "La réputation de Pharmacie du Saint Quentin",
+        "paragraphes": [
+          "Au relevé du 28 septembre 2026, l'établissement affichait une note de 3,8 sur 5 sur Google, calculée à partir de 53 avis. Cette note évolue en permanence : elle est indiquée ici à titre d'information et n'est pas retraitée.",
+          "Les avis appartiennent à Google et se consultent sur la fiche d'origine, dont le lien figure sur cette page."
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "q": "Quels sont les horaires de Pharmacie du Saint Quentin ?",
+        "r": "Au relevé du 28 septembre 2026, Pharmacie du Saint Quentin était ouvert tous les jours sauf le dimanche. Dans le détail — lundi : de 8 h à 12 h 30 et de 13 h 30 à 20 h ; mardi : de 8 h à 12 h 30 et de 13 h 30 à 20 h ; mercredi : de 8 h à 12 h 30 et de 13 h 30 à 20 h ; jeudi : de 8 h à 12 h 30 et de 13 h 30 à 20 h ; vendredi : de 8 h à 12 h 30 et de 13 h 30 à 20 h ; samedi : de 8 h à 12 h 30 et de 13 h 30 à 18 h 30 ; dimanche : fermé. Ces horaires peuvent changer : un appel préalable reste conseillé."
+      },
+      {
+        "q": "Où se trouve Pharmacie du Saint Quentin ?",
+        "r": "Pharmacie du Saint Quentin se trouve 84 Rte de Plappeville, 57050 Le Ban-Saint-Martin. Un lien d'itinéraire est disponible sur cette page."
+      },
+      {
+        "q": "Comment contacter Pharmacie du Saint Quentin ?",
+        "r": "Par téléphone au 03 87 30 45 37, ou directement sur place aux heures d'ouverture."
+      },
+      {
+        "q": "Pharmacie du Saint Quentin a-t-il un site internet ?",
+        "r": "Non : aucune adresse de site web n'est déclarée sur la fiche Google de Pharmacie du Saint Quentin au 28 septembre 2026. Cette page tient lieu de référence publique en attendant, le cas échéant, la création d'un site propre à l'entreprise."
+      },
+      {
+        "q": "Pharmacie du Saint Quentin est-il accessible aux personnes à mobilité réduite ?",
+        "r": "La fiche Google de l'établissement mentionne : « Entrée accessible en fauteuil roulant ». Cette information est déclarative ; en cas de doute, vérifiez par téléphone."
+      }
+    ],
+    "genere_le": "2026-09-28"
+  },
+  "statut_google": "OPERATIONAL",
+  "audience": {
+    "clics": 0,
+    "impressions": null,
+    "position": null,
+    "visites": 0,
+    "fenetreJours": 90,
+    "source": "visites",
+    "date": "2026-09-28"
+  }
+}
