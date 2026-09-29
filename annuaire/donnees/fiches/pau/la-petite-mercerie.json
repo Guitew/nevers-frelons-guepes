@@ -1,0 +1,216 @@
+{
+  "id": "ChIJeeg2D9JIVg0RR7FiRSKAzhU",
+  "slug": "la-petite-mercerie",
+  "nom": "La Petite Mercerie",
+  "categorie": "mode-equipement-maison",
+  "categorie_gmb": "Magasin d'ameublement et de décoration",
+  "type_principal": "home_goods_store",
+  "types": [
+    "laundry",
+    "home_goods_store",
+    "store",
+    "point_of_interest",
+    "service",
+    "establishment"
+  ],
+  "ville": "Pau",
+  "ville_slug": "pau",
+  "adresse": {
+    "rue": "2 Rue Nogué",
+    "code_postal": "64000",
+    "departement": "64",
+    "region": "Nouvelle-Aquitaine",
+    "pays": "France",
+    "complete": "2 Rue Nogué, 64000 Pau"
+  },
+  "telephone": "05 59 27 98 55",
+  "geo": {
+    "latitude": 43.3000791,
+    "longitude": -0.3700173
+  },
+  "note": 4.5,
+  "avis": 115,
+  "horaires": [
+    {
+      "jour": 0,
+      "ferme": true,
+      "creneaux": []
+    },
+    {
+      "jour": 1,
+      "ferme": false,
+      "creneaux": [
+        [
+          "09:30",
+          "12:00"
+        ],
+        [
+          "14:00",
+          "18:30"
+        ]
+      ]
+    },
+    {
+      "jour": 2,
+      "ferme": false,
+      "creneaux": [
+        [
+          "09:30",
+          "12:00"
+        ],
+        [
+          "14:00",
+          "18:30"
+        ]
+      ]
+    },
+    {
+      "jour": 3,
+      "ferme": false,
+      "creneaux": [
+        [
+          "09:30",
+          "12:00"
+        ],
+        [
+          "14:00",
+          "18:30"
+        ]
+      ]
+    },
+    {
+      "jour": 4,
+      "ferme": false,
+      "creneaux": [
+        [
+          "09:30",
+          "12:00"
+        ],
+        [
+          "14:00",
+          "18:30"
+        ]
+      ]
+    },
+    {
+      "jour": 5,
+      "ferme": false,
+      "creneaux": [
+        [
+          "09:30",
+          "12:30"
+        ],
+        [
+          "14:30",
+          "18:00"
+        ]
+      ]
+    },
+    {
+      "jour": 6,
+      "ferme": true,
+      "creneaux": []
+    }
+  ],
+  "attributs": [
+    "Entrée accessible en fauteuil roulant"
+  ],
+  "lien_google": "https://maps.google.com/?cid=1571334204680220999&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
+  "site_web_gmb": null,
+  "statut": "publiee",
+  "backlink": {
+    "etat": "absent",
+    "premiere_detection": null,
+    "derniere_detection": null,
+    "derniere_verification": "2026-09-29T11:20:09.485Z",
+    "echecs": 1,
+    "url_detectee": null
+  },
+  "suggestion": {
+    "etat": "en-attente",
+    "date_soumission": null,
+    "tentatives": 0,
+    "date_email": "2026-09-29"
+  },
+  "retrait": null,
+  "dates": {
+    "collecte": "2026-09-29",
+    "publication": "2026-09-29",
+    "maj": "2026-09-29"
+  },
+  "source": "google-places",
+  "redaction": {
+    "titre": "La Petite Mercerie — Mode et équipement de la maison à Pau",
+    "meta_titre": "La Petite Mercerie, mode et équipement de la maison à Pau",
+    "meta_description": "La Petite Mercerie, mode et équipement de la maison à Pau (2 Rue Nogué) : adresse, horaires, téléphone et informations pratiques.",
+    "chapo": "La Petite Mercerie figure parmi les établissements de la catégorie « Mode et équipement de la maison » recensés à Pau. L'entreprise n'a pas de site web référencé sur sa fiche Google. Les éléments présentés ici — adresse, horaires, contact — proviennent de cette fiche et sont datés de leur relevé.",
+    "sections": [
+      {
+        "id": "presentation",
+        "titre": "La Petite Mercerie en quelques mots",
+        "paragraphes": [
+          "Mode, décoration et équipement font partie des activités les plus consultées localement sur mobile.",
+          "Les boutiques indépendantes affrontent la concurrence du commerce en ligne sans en avoir les armes. Une page bien structurée les replace dans les résultats de recherche locaux, là où se décide encore une part importante des achats.",
+          "D'après le relevé du 29 septembre 2026, l'établissement est fermé le lundi et le dimanche. Le détail jour par jour figure plus bas."
+        ]
+      },
+      {
+        "id": "acces",
+        "titre": "Adresse et accès",
+        "paragraphes": [
+          "L'établissement est situé au 2 Rue Nogué, 64000 Pau.",
+          "Coordonnées géographiques : 43.30008, -0.37002. Le lien d'itinéraire ci-dessous ouvre directement la navigation."
+        ]
+      },
+      {
+        "id": "contact",
+        "titre": "Contacter La Petite Mercerie",
+        "paragraphes": [
+          "Le contact se fait par téléphone au 05 59 27 98 55. C'est le seul moyen de communication déclaré sur la fiche Google de l'entreprise, avec la visite sur place.",
+          "Si vous dirigez cette entreprise, vous pouvez demander la correction ou le retrait de cette page à tout moment, sans justification."
+        ]
+      },
+      {
+        "id": "avis",
+        "titre": "La réputation de La Petite Mercerie",
+        "paragraphes": [
+          "Au relevé du 29 septembre 2026, l'établissement affichait une note de 4,5 sur 5 sur Google, calculée à partir de 115 avis. Cette note évolue en permanence : elle est indiquée ici à titre d'information et n'est pas retraitée.",
+          "Les avis appartiennent à Google et se consultent sur la fiche d'origine, dont le lien figure sur cette page."
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "q": "Quels sont les horaires de La Petite Mercerie ?",
+        "r": "Au relevé du 29 septembre 2026, La Petite Mercerie était fermé le lundi et le dimanche. Dans le détail — lundi : fermé ; mardi : de 9 h 30 à 12 h et de 14 h à 18 h 30 ; mercredi : de 9 h 30 à 12 h et de 14 h à 18 h 30 ; jeudi : de 9 h 30 à 12 h et de 14 h à 18 h 30 ; vendredi : de 9 h 30 à 12 h et de 14 h à 18 h 30 ; samedi : de 9 h 30 à 12 h 30 et de 14 h 30 à 18 h ; dimanche : fermé. Ces horaires peuvent changer : un appel préalable reste conseillé."
+      },
+      {
+        "q": "Où se trouve La Petite Mercerie ?",
+        "r": "La Petite Mercerie se trouve 2 Rue Nogué, 64000 Pau. Un lien d'itinéraire est disponible sur cette page."
+      },
+      {
+        "q": "Comment contacter La Petite Mercerie ?",
+        "r": "Par téléphone au 05 59 27 98 55, ou directement sur place aux heures d'ouverture."
+      },
+      {
+        "q": "La Petite Mercerie a-t-il un site internet ?",
+        "r": "Non : aucune adresse de site web n'est déclarée sur la fiche Google de La Petite Mercerie au 29 septembre 2026. Cette page tient lieu de référence publique en attendant, le cas échéant, la création d'un site propre à l'entreprise."
+      },
+      {
+        "q": "La Petite Mercerie est-il accessible aux personnes à mobilité réduite ?",
+        "r": "La fiche Google de l'établissement mentionne : « Entrée accessible en fauteuil roulant ». Cette information est déclarative ; en cas de doute, vérifiez par téléphone."
+      }
+    ],
+    "genere_le": "2026-09-29"
+  },
+  "statut_google": "OPERATIONAL",
+  "audience": {
+    "clics": 0,
+    "impressions": null,
+    "position": null,
+    "visites": 0,
+    "fenetreJours": 90,
+    "source": "visites",
+    "date": "2026-09-29"
+  }
+}
