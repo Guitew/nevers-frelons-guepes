@@ -1,0 +1,197 @@
+{
+  "id": "ChIJxV60PElI3UcRQaCNsaF8kuc",
+  "slug": "delisle-antoine-ouest",
+  "nom": "Delisle - ANTOINE OUEST",
+  "categorie": "transport-demenagement",
+  "categorie_gmb": "Entreprise de déménagement",
+  "type_principal": "moving_company",
+  "types": [
+    "shipping_service",
+    "moving_company",
+    "transportation_service",
+    "point_of_interest",
+    "service",
+    "establishment"
+  ],
+  "ville": "Tilloy-lès-Mofflaines",
+  "ville_slug": "tilloy-les-mofflaines",
+  "adresse": {
+    "rue": "17 Rue de Niépce",
+    "code_postal": "62217",
+    "departement": "62",
+    "region": "Hauts-de-France",
+    "pays": "France",
+    "complete": "17 Rue de Niépce, 62217 Tilloy-lès-Mofflaines"
+  },
+  "telephone": "03 21 22 75 70",
+  "geo": {
+    "latitude": 50.2875825,
+    "longitude": 2.8124453999999997
+  },
+  "note": 4.1,
+  "avis": 32,
+  "horaires": [
+    {
+      "jour": 0,
+      "ferme": false,
+      "creneaux": [
+        [
+          "06:00",
+          "20:00"
+        ]
+      ]
+    },
+    {
+      "jour": 1,
+      "ferme": false,
+      "creneaux": [
+        [
+          "06:00",
+          "20:00"
+        ]
+      ]
+    },
+    {
+      "jour": 2,
+      "ferme": false,
+      "creneaux": [
+        [
+          "06:00",
+          "20:00"
+        ]
+      ]
+    },
+    {
+      "jour": 3,
+      "ferme": false,
+      "creneaux": [
+        [
+          "06:00",
+          "20:00"
+        ]
+      ]
+    },
+    {
+      "jour": 4,
+      "ferme": false,
+      "creneaux": [
+        [
+          "06:00",
+          "20:00"
+        ]
+      ]
+    },
+    {
+      "jour": 5,
+      "ferme": true,
+      "creneaux": []
+    },
+    {
+      "jour": 6,
+      "ferme": true,
+      "creneaux": []
+    }
+  ],
+  "attributs": [
+    "Entrée accessible en fauteuil roulant",
+    "Parking accessible en fauteuil roulant"
+  ],
+  "lien_google": "https://maps.google.com/?cid=16686536603271536705&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
+  "site_web_gmb": null,
+  "statut": "publiee",
+  "backlink": {
+    "etat": "absent",
+    "premiere_detection": null,
+    "derniere_detection": null,
+    "derniere_verification": "2026-09-29T16:29:38.973Z",
+    "echecs": 1,
+    "url_detectee": null
+  },
+  "suggestion": {
+    "etat": "en-attente",
+    "date_soumission": null,
+    "tentatives": 0,
+    "date_email": "2026-09-29"
+  },
+  "retrait": null,
+  "dates": {
+    "collecte": "2026-09-29",
+    "publication": "2026-09-29",
+    "maj": "2026-09-29"
+  },
+  "source": "google-places",
+  "redaction": {
+    "titre": "Delisle - ANTOINE OUEST — Transport et déménagement à Tilloy-lès-Mofflaines",
+    "meta_titre": "Delisle - ANTOINE OUEST, transport et déménagement à…",
+    "meta_description": "Delisle - ANTOINE OUEST, transport et déménagement à Tilloy-lès-Mofflaines (17 Rue de Niépce) : adresse, horaires, téléphone et informations pratiques.",
+    "chapo": "Cette fiche présente Delisle - ANTOINE OUEST, un transport et déménagement au 17 Rue de Niépce, à Tilloy-lès-Mofflaines. Son établissement ne déclare aucun site internet sur sa fiche Google : les informations ci-dessous en tiennent lieu de référence publique, vérifiable et accessible à tous.",
+    "sections": [
+      {
+        "id": "presentation",
+        "titre": "Delisle - ANTOINE OUEST en quelques mots",
+        "paragraphes": [
+          "Le choix d'un transport et déménagement se joue sur trois critères : la proximité, les horaires et la facilité de contact.",
+          "Déménagement, course urgente, transport de personnes : des services décidés rapidement et comparés sur la disponibilité. La fiche rassemble la zone couverte, les moyens et le contact direct, sans passer par une place de marché.",
+          "D'après le relevé du 29 septembre 2026, l'établissement est fermé le samedi et le dimanche. Le détail jour par jour figure plus bas."
+        ]
+      },
+      {
+        "id": "acces",
+        "titre": "Adresse et accès",
+        "paragraphes": [
+          "L'établissement est situé au 17 Rue de Niépce, 62217 Tilloy-lès-Mofflaines.",
+          "Coordonnées géographiques : 50.28758, 2.81245. Le lien d'itinéraire ci-dessous ouvre directement la navigation."
+        ]
+      },
+      {
+        "id": "contact",
+        "titre": "Contacter Delisle - ANTOINE OUEST",
+        "paragraphes": [
+          "Le contact se fait par téléphone au 03 21 22 75 70. C'est le seul moyen de communication déclaré sur la fiche Google de l'entreprise, avec la visite sur place.",
+          "Si vous dirigez cette entreprise, vous pouvez demander la correction ou le retrait de cette page à tout moment, sans justification."
+        ]
+      },
+      {
+        "id": "avis",
+        "titre": "La réputation de Delisle - ANTOINE OUEST",
+        "paragraphes": [
+          "Au relevé du 29 septembre 2026, l'établissement affichait une note de 4,1 sur 5 sur Google, calculée à partir de 32 avis. Cette note évolue en permanence : elle est indiquée ici à titre d'information et n'est pas retraitée.",
+          "Les avis appartiennent à Google et se consultent sur la fiche d'origine, dont le lien figure sur cette page."
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "q": "Quels sont les horaires de Delisle - ANTOINE OUEST ?",
+        "r": "Au relevé du 29 septembre 2026, Delisle - ANTOINE OUEST était fermé le samedi et le dimanche. Dans le détail — lundi : de 6 h à 20 h ; mardi : de 6 h à 20 h ; mercredi : de 6 h à 20 h ; jeudi : de 6 h à 20 h ; vendredi : de 6 h à 20 h ; samedi : fermé ; dimanche : fermé. Ces horaires peuvent changer : un appel préalable reste conseillé."
+      },
+      {
+        "q": "Où se trouve Delisle - ANTOINE OUEST ?",
+        "r": "Delisle - ANTOINE OUEST se trouve 17 Rue de Niépce, 62217 Tilloy-lès-Mofflaines. Un lien d'itinéraire est disponible sur cette page."
+      },
+      {
+        "q": "Comment contacter Delisle - ANTOINE OUEST ?",
+        "r": "Par téléphone au 03 21 22 75 70, ou directement sur place aux heures d'ouverture."
+      },
+      {
+        "q": "Delisle - ANTOINE OUEST a-t-il un site internet ?",
+        "r": "Non : aucune adresse de site web n'est déclarée sur la fiche Google de Delisle - ANTOINE OUEST au 29 septembre 2026. Cette page tient lieu de référence publique en attendant, le cas échéant, la création d'un site propre à l'entreprise."
+      },
+      {
+        "q": "Delisle - ANTOINE OUEST est-il accessible aux personnes à mobilité réduite ?",
+        "r": "La fiche Google de l'établissement mentionne : « Entrée accessible en fauteuil roulant ». Cette information est déclarative ; en cas de doute, vérifiez par téléphone."
+      }
+    ],
+    "genere_le": "2026-09-29"
+  },
+  "statut_google": "OPERATIONAL",
+  "audience": {
+    "clics": 0,
+    "impressions": null,
+    "position": null,
+    "visites": 0,
+    "fenetreJours": 90,
+    "source": "visites",
+    "date": "2026-09-29"
+  }
+}
