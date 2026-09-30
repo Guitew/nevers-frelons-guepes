@@ -132,8 +132,8 @@
   "backlink": {
     "etat": "present",
     "premiere_detection": "2026-09-17T09:57:24.171Z",
-    "derniere_detection": "2026-09-29T16:29:38.973Z",
-    "derniere_verification": "2026-09-29T16:29:38.973Z",
+    "derniere_detection": "2026-09-30T16:23:53.313Z",
+    "derniere_verification": "2026-09-30T16:23:53.313Z",
     "echecs": 0,
     "url_detectee": "https://andpro.fr/vitrine-locale/pharmacies-opticiens/chomerac/pharmacie-de-chomerac/"
   },
@@ -147,7 +147,7 @@
   "dates": {
     "collecte": "2026-09-08",
     "publication": "2026-09-08",
-    "maj": "2026-09-29"
+    "maj": "2026-09-30"
   },
   "source": "google-places",
   "redaction": {
@@ -216,10 +216,10 @@
   },
   "statut_google": "OPERATIONAL",
   "audience": {
-    "clics": 3,
+    "clics": 4,
     "impressions": null,
     "position": null,
-    "visites": 7,
+    "visites": 8,
     "fenetreJours": 90,
     "source": "visites",
     "date": "2026-09-30"
