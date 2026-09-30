@@ -1,0 +1,205 @@
+{
+  "id": "ChIJuXbq4wwM5EcRZRjccqHTFOo",
+  "slug": "le-triangle",
+  "nom": "Le Triangle",
+  "categorie": "cafes-bars",
+  "categorie_gmb": "Bar",
+  "type_principal": "bar",
+  "types": [
+    "bar",
+    "coffee_shop",
+    "cafe",
+    "food_store",
+    "store",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "ville": "Mainvilliers",
+  "ville_slug": "mainvilliers",
+  "adresse": {
+    "rue": "2 Rue du Marché",
+    "code_postal": "28300",
+    "departement": "28",
+    "region": "Centre-Val de Loire",
+    "pays": "France",
+    "complete": "2 Rue du Marché, 28300 Mainvilliers"
+  },
+  "telephone": "02 37 83 72 90",
+  "geo": {
+    "latitude": 48.4511545,
+    "longitude": 1.4627164
+  },
+  "note": 4,
+  "avis": 211,
+  "horaires": [
+    {
+      "jour": 0,
+      "ferme": false,
+      "creneaux": [
+        [
+          "07:00",
+          "21:00"
+        ]
+      ]
+    },
+    {
+      "jour": 1,
+      "ferme": false,
+      "creneaux": [
+        [
+          "07:00",
+          "21:00"
+        ]
+      ]
+    },
+    {
+      "jour": 2,
+      "ferme": true,
+      "creneaux": []
+    },
+    {
+      "jour": 3,
+      "ferme": false,
+      "creneaux": [
+        [
+          "07:00",
+          "21:00"
+        ]
+      ]
+    },
+    {
+      "jour": 4,
+      "ferme": false,
+      "creneaux": [
+        [
+          "07:00",
+          "22:00"
+        ]
+      ]
+    },
+    {
+      "jour": 5,
+      "ferme": false,
+      "creneaux": [
+        [
+          "08:00",
+          "22:00"
+        ]
+      ]
+    },
+    {
+      "jour": 6,
+      "ferme": false,
+      "creneaux": [
+        [
+          "08:00",
+          "21:00"
+        ]
+      ]
+    }
+  ],
+  "attributs": [
+    "Entrée accessible en fauteuil roulant",
+    "Parking accessible en fauteuil roulant",
+    "Toilettes accessibles en fauteuil roulant"
+  ],
+  "lien_google": "https://maps.google.com/?cid=16867339194779572325&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
+  "site_web_gmb": null,
+  "statut": "publiee",
+  "backlink": {
+    "etat": "absent",
+    "premiere_detection": null,
+    "derniere_detection": null,
+    "derniere_verification": "2026-09-30T11:08:10.554Z",
+    "echecs": 1,
+    "url_detectee": null
+  },
+  "suggestion": {
+    "etat": "en-attente",
+    "date_soumission": null,
+    "tentatives": 0,
+    "date_email": "2026-09-30"
+  },
+  "retrait": null,
+  "dates": {
+    "collecte": "2026-09-30",
+    "publication": "2026-09-30",
+    "maj": "2026-09-30"
+  },
+  "source": "google-places",
+  "redaction": {
+    "titre": "Le Triangle — Café ou bar à Mainvilliers",
+    "meta_titre": "Le Triangle, café ou bar à Mainvilliers",
+    "meta_description": "Le Triangle, café ou bar à Mainvilliers (2 Rue du Marché) : adresse, horaires, téléphone et informations pratiques.",
+    "chapo": "Le Triangle exerce l'activité de café ou bar au 2 Rue du Marché, à Mainvilliers. Faute de site internet déclaré sur sa fiche Google, l'entreprise reste difficile à trouver en dehors des cartes. Cette page comble ce manque avec des données factuelles et datées.",
+    "sections": [
+      {
+        "id": "presentation",
+        "titre": "Le Triangle en quelques mots",
+        "paragraphes": [
+          "Cafés et bars font partie des activités les plus consultées localement sur mobile.",
+          "Les cafés et bars sont des repères de vie locale rarement dotés d'un site. Horaires réels, terrasse, retransmissions sportives, concerts : autant de détails qui décident d'une sortie et qui n'apparaissent nulle part ailleurs de façon lisible.",
+          "D'après le relevé du 30 septembre 2026, l'établissement est ouvert tous les jours sauf le mercredi. Le détail jour par jour figure plus bas."
+        ]
+      },
+      {
+        "id": "acces",
+        "titre": "Adresse et accès",
+        "paragraphes": [
+          "L'établissement est situé au 2 Rue du Marché, 28300 Mainvilliers.",
+          "Coordonnées géographiques : 48.45115, 1.46272. Le lien d'itinéraire ci-dessous ouvre directement la navigation."
+        ]
+      },
+      {
+        "id": "contact",
+        "titre": "Contacter Le Triangle",
+        "paragraphes": [
+          "Le contact se fait par téléphone au 02 37 83 72 90. C'est le seul moyen de communication déclaré sur la fiche Google de l'entreprise, avec la visite sur place.",
+          "Si vous dirigez cette entreprise, vous pouvez demander la correction ou le retrait de cette page à tout moment, sans justification."
+        ]
+      },
+      {
+        "id": "avis",
+        "titre": "La réputation de Le Triangle",
+        "paragraphes": [
+          "Au relevé du 30 septembre 2026, l'établissement affichait une note de 4 sur 5 sur Google, calculée à partir de 211 avis. Cette note évolue en permanence : elle est indiquée ici à titre d'information et n'est pas retraitée.",
+          "Les avis appartiennent à Google et se consultent sur la fiche d'origine, dont le lien figure sur cette page."
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "q": "Quels sont les horaires de Le Triangle ?",
+        "r": "Au relevé du 30 septembre 2026, Le Triangle était ouvert tous les jours sauf le mercredi. Dans le détail — lundi : de 7 h à 21 h ; mardi : de 7 h à 21 h ; mercredi : fermé ; jeudi : de 7 h à 21 h ; vendredi : de 7 h à 22 h ; samedi : de 8 h à 22 h ; dimanche : de 8 h à 21 h. Ces horaires peuvent changer : un appel préalable reste conseillé."
+      },
+      {
+        "q": "Où se trouve Le Triangle ?",
+        "r": "Le Triangle se trouve 2 Rue du Marché, 28300 Mainvilliers. Un lien d'itinéraire est disponible sur cette page."
+      },
+      {
+        "q": "Comment contacter Le Triangle ?",
+        "r": "Par téléphone au 02 37 83 72 90, ou directement sur place aux heures d'ouverture."
+      },
+      {
+        "q": "Le Triangle a-t-il un site internet ?",
+        "r": "Non : aucune adresse de site web n'est déclarée sur la fiche Google de Le Triangle au 30 septembre 2026. Cette page tient lieu de référence publique en attendant, le cas échéant, la création d'un site propre à l'entreprise."
+      },
+      {
+        "q": "Le Triangle est-il accessible aux personnes à mobilité réduite ?",
+        "r": "La fiche Google de l'établissement mentionne : « Entrée accessible en fauteuil roulant ». Cette information est déclarative ; en cas de doute, vérifiez par téléphone."
+      }
+    ],
+    "genere_le": "2026-09-30"
+  },
+  "statut_google": "OPERATIONAL",
+  "audience": {
+    "clics": 0,
+    "impressions": null,
+    "position": null,
+    "visites": 0,
+    "fenetreJours": 90,
+    "source": "visites",
+    "date": "2026-09-30"
+  }
+}

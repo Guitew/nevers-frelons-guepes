@@ -26,8 +26,8 @@
     "latitude": 47.3862533,
     "longitude": 0.7163814
   },
-  "note": 3.8,
-  "avis": 86,
+  "note": 3.9,
+  "avis": 87,
   "horaires": [
     {
       "jour": 0,
@@ -78,8 +78,8 @@
     "etat": "absent",
     "premiere_detection": null,
     "derniere_detection": null,
-    "derniere_verification": "2026-09-29T11:20:09.485Z",
-    "echecs": 16,
+    "derniere_verification": "2026-09-30T11:08:10.554Z",
+    "echecs": 17,
     "url_detectee": null
   },
   "suggestion": {
@@ -92,7 +92,7 @@
   "dates": {
     "collecte": "2026-09-19",
     "publication": "2026-09-19",
-    "maj": "2026-09-29"
+    "maj": "2026-09-30"
   },
   "source": "google-places",
   "redaction": {
@@ -163,6 +163,6 @@
     "visites": 0,
     "fenetreJours": 90,
     "source": "visites",
-    "date": "2026-09-29"
+    "date": "2026-09-30"
   }
 }

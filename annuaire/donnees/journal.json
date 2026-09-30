@@ -1,5 +1,90 @@
 [
   {
+    "date": "2026-09-30T11:08:10.727Z",
+    "type": "backlink-absent",
+    "id": "ChIJ9cAVfhsU70cRKKIdAiKcXFY",
+    "nom": "Boulangerie Villeflose",
+    "url": null,
+    "precedent": "en-attente"
+  },
+  {
+    "date": "2026-09-30T11:08:10.804Z",
+    "type": "backlink-absent",
+    "id": "ChIJGQLS4JJjjUcREkspdawJNi4",
+    "nom": "Jacky Perrenot",
+    "url": null,
+    "precedent": "en-attente"
+  },
+  {
+    "date": "2026-09-30T11:08:10.883Z",
+    "type": "backlink-absent",
+    "id": "ChIJuXbq4wwM5EcRZRjccqHTFOo",
+    "nom": "Le Triangle",
+    "url": null,
+    "precedent": "en-attente"
+  },
+  {
+    "date": "2026-09-30T11:08:10.959Z",
+    "type": "backlink-absent",
+    "id": "ChIJ44mXPLs0-UcReIWE4DidmyU",
+    "nom": "Pharmacie Lafayette Bernardaud",
+    "url": null,
+    "precedent": "en-attente"
+  },
+  {
+    "date": "2026-09-30T11:08:11.033Z",
+    "type": "backlink-absent",
+    "id": "ChIJAYsG2XG-_UcRii5PtEC_2BU",
+    "nom": "Pharmacie Lafayette Principale",
+    "url": null,
+    "precedent": "en-attente"
+  },
+  {
+    "date": "2026-09-30T11:08:10.460Z",
+    "type": "publication",
+    "id": "ChIJAYsG2XG-_UcRii5PtEC_2BU",
+    "nom": "Pharmacie Lafayette Principale",
+    "url": "/pharmacies-opticiens/poitiers/pharmacie-lafayette-principale/",
+    "categorie": "pharmacies-opticiens",
+    "source": "google-places"
+  },
+  {
+    "date": "2026-09-30T11:08:10.461Z",
+    "type": "publication",
+    "id": "ChIJ44mXPLs0-UcReIWE4DidmyU",
+    "nom": "Pharmacie Lafayette Bernardaud",
+    "url": "/pharmacies-opticiens/limoges/pharmacie-lafayette-bernardaud/",
+    "categorie": "pharmacies-opticiens",
+    "source": "google-places"
+  },
+  {
+    "date": "2026-09-30T11:08:10.461Z",
+    "type": "publication",
+    "id": "ChIJ9cAVfhsU70cRKKIdAiKcXFY",
+    "nom": "Boulangerie Villeflose",
+    "url": "/boulangeries-patisseries/sainte-savine/boulangerie-villeflose/",
+    "categorie": "boulangeries-patisseries",
+    "source": "google-places"
+  },
+  {
+    "date": "2026-09-30T11:08:10.462Z",
+    "type": "publication",
+    "id": "ChIJGQLS4JJjjUcREkspdawJNi4",
+    "nom": "Jacky Perrenot",
+    "url": "/transport-demenagement/besancon/jacky-perrenot/",
+    "categorie": "transport-demenagement",
+    "source": "google-places"
+  },
+  {
+    "date": "2026-09-30T11:08:10.462Z",
+    "type": "publication",
+    "id": "ChIJuXbq4wwM5EcRZRjccqHTFOo",
+    "nom": "Le Triangle",
+    "url": "/cafes-bars/mainvilliers/le-triangle/",
+    "categorie": "cafes-bars",
+    "source": "google-places"
+  },
+  {
     "date": "2026-09-29T16:29:57.558Z",
     "type": "suggestion-soumise",
     "id": "ChIJrVcnxpXByRIR-8umt3t2D_E",

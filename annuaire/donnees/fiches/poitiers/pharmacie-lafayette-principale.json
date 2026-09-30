@@ -1,0 +1,230 @@
+{
+  "id": "ChIJAYsG2XG-_UcRii5PtEC_2BU",
+  "slug": "pharmacie-lafayette-principale",
+  "nom": "Pharmacie Lafayette Principale",
+  "categorie": "pharmacies-opticiens",
+  "categorie_gmb": "Pharmacie",
+  "type_principal": "pharmacy",
+  "types": [
+    "pharmacy",
+    "veterinary_care",
+    "consultant",
+    "health",
+    "store",
+    "service",
+    "point_of_interest",
+    "establishment"
+  ],
+  "ville": "Poitiers",
+  "ville_slug": "poitiers",
+  "adresse": {
+    "rue": "28 Rue de la Regratterie",
+    "code_postal": "86000",
+    "departement": "86",
+    "region": "Nouvelle-Aquitaine",
+    "pays": "France",
+    "complete": "28 Rue de la Regratterie, 86000 Poitiers"
+  },
+  "telephone": "05 49 41 00 77",
+  "geo": {
+    "latitude": 46.5833546,
+    "longitude": 0.343037
+  },
+  "note": 4.3,
+  "avis": 71,
+  "horaires": [
+    {
+      "jour": 0,
+      "ferme": false,
+      "creneaux": [
+        [
+          "08:45",
+          "13:30"
+        ],
+        [
+          "14:30",
+          "19:15"
+        ]
+      ]
+    },
+    {
+      "jour": 1,
+      "ferme": false,
+      "creneaux": [
+        [
+          "08:45",
+          "13:30"
+        ],
+        [
+          "14:30",
+          "19:15"
+        ]
+      ]
+    },
+    {
+      "jour": 2,
+      "ferme": false,
+      "creneaux": [
+        [
+          "08:45",
+          "13:30"
+        ],
+        [
+          "14:30",
+          "19:15"
+        ]
+      ]
+    },
+    {
+      "jour": 3,
+      "ferme": false,
+      "creneaux": [
+        [
+          "08:45",
+          "13:30"
+        ],
+        [
+          "14:30",
+          "19:15"
+        ]
+      ]
+    },
+    {
+      "jour": 4,
+      "ferme": false,
+      "creneaux": [
+        [
+          "08:45",
+          "13:30"
+        ],
+        [
+          "14:30",
+          "19:15"
+        ]
+      ]
+    },
+    {
+      "jour": 5,
+      "ferme": false,
+      "creneaux": [
+        [
+          "08:45",
+          "13:30"
+        ],
+        [
+          "14:30",
+          "19:15"
+        ]
+      ]
+    },
+    {
+      "jour": 6,
+      "ferme": true,
+      "creneaux": []
+    }
+  ],
+  "attributs": [
+    "Entrée accessible en fauteuil roulant",
+    "Parking accessible en fauteuil roulant",
+    "Toilettes accessibles en fauteuil roulant",
+    "Places assises accessibles en fauteuil roulant"
+  ],
+  "lien_google": "https://maps.google.com/?cid=1574218354389888650&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
+  "site_web_gmb": null,
+  "statut": "publiee",
+  "backlink": {
+    "etat": "absent",
+    "premiere_detection": null,
+    "derniere_detection": null,
+    "derniere_verification": "2026-09-30T11:08:10.554Z",
+    "echecs": 1,
+    "url_detectee": null
+  },
+  "suggestion": {
+    "etat": "en-attente",
+    "date_soumission": null,
+    "tentatives": 0,
+    "date_email": "2026-09-30"
+  },
+  "retrait": null,
+  "dates": {
+    "collecte": "2026-09-30",
+    "publication": "2026-09-30",
+    "maj": "2026-09-30"
+  },
+  "source": "google-places",
+  "redaction": {
+    "titre": "Pharmacie Lafayette Principale — Pharmacie ou opticien à Poitiers",
+    "meta_titre": "Pharmacie Lafayette Principale, pharmacie ou opticien à…",
+    "meta_description": "Pharmacie Lafayette Principale, pharmacie ou opticien à Poitiers (28 Rue de la Regratterie) : adresse, horaires, téléphone et informations pratiques.",
+    "chapo": "Pharmacie Lafayette Principale est une pharmacie ou opticien au 28 Rue de la Regratterie, à Poitiers. Aucune adresse web n'est renseignée sur sa fiche Google. Cette page rassemble donc, en un seul endroit stable, les informations que les clients recherchent avant de se déplacer.",
+    "sections": [
+      {
+        "id": "presentation",
+        "titre": "Pharmacie Lafayette Principale en quelques mots",
+        "paragraphes": [
+          "Pharmacies et opticiens font partie des activités les plus consultées localement sur mobile.",
+          "Pharmacies et opticiens sont des commerces de première nécessité dont on cherche surtout l'horaire et la garde. Une fiche complète et à jour sert autant l'habitant pressé que le professionnel qui n'a pas vocation à gérer un site.",
+          "D'après le relevé du 30 septembre 2026, l'établissement est ouvert tous les jours sauf le dimanche. Le détail jour par jour figure plus bas."
+        ]
+      },
+      {
+        "id": "acces",
+        "titre": "Adresse et accès",
+        "paragraphes": [
+          "L'établissement est situé au 28 Rue de la Regratterie, 86000 Poitiers.",
+          "Coordonnées géographiques : 46.58335, 0.34304. Le lien d'itinéraire ci-dessous ouvre directement la navigation."
+        ]
+      },
+      {
+        "id": "contact",
+        "titre": "Contacter Pharmacie Lafayette Principale",
+        "paragraphes": [
+          "Le contact se fait par téléphone au 05 49 41 00 77. C'est le seul moyen de communication déclaré sur la fiche Google de l'entreprise, avec la visite sur place.",
+          "Si vous dirigez cette entreprise, vous pouvez demander la correction ou le retrait de cette page à tout moment, sans justification."
+        ]
+      },
+      {
+        "id": "avis",
+        "titre": "La réputation de Pharmacie Lafayette Principale",
+        "paragraphes": [
+          "Au relevé du 30 septembre 2026, l'établissement affichait une note de 4,3 sur 5 sur Google, calculée à partir de 71 avis. Cette note évolue en permanence : elle est indiquée ici à titre d'information et n'est pas retraitée.",
+          "Les avis appartiennent à Google et se consultent sur la fiche d'origine, dont le lien figure sur cette page."
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "q": "Quels sont les horaires de Pharmacie Lafayette Principale ?",
+        "r": "Au relevé du 30 septembre 2026, Pharmacie Lafayette Principale était ouvert tous les jours sauf le dimanche. Dans le détail — lundi : de 8 h 45 à 13 h 30 et de 14 h 30 à 19 h 15 ; mardi : de 8 h 45 à 13 h 30 et de 14 h 30 à 19 h 15 ; mercredi : de 8 h 45 à 13 h 30 et de 14 h 30 à 19 h 15 ; jeudi : de 8 h 45 à 13 h 30 et de 14 h 30 à 19 h 15 ; vendredi : de 8 h 45 à 13 h 30 et de 14 h 30 à 19 h 15 ; samedi : de 8 h 45 à 13 h 30 et de 14 h 30 à 19 h 15 ; dimanche : fermé. Ces horaires peuvent changer : un appel préalable reste conseillé."
+      },
+      {
+        "q": "Où se trouve Pharmacie Lafayette Principale ?",
+        "r": "Pharmacie Lafayette Principale se trouve 28 Rue de la Regratterie, 86000 Poitiers. Un lien d'itinéraire est disponible sur cette page."
+      },
+      {
+        "q": "Comment contacter Pharmacie Lafayette Principale ?",
+        "r": "Par téléphone au 05 49 41 00 77, ou directement sur place aux heures d'ouverture."
+      },
+      {
+        "q": "Pharmacie Lafayette Principale a-t-il un site internet ?",
+        "r": "Non : aucune adresse de site web n'est déclarée sur la fiche Google de Pharmacie Lafayette Principale au 30 septembre 2026. Cette page tient lieu de référence publique en attendant, le cas échéant, la création d'un site propre à l'entreprise."
+      },
+      {
+        "q": "Pharmacie Lafayette Principale est-il accessible aux personnes à mobilité réduite ?",
+        "r": "La fiche Google de l'établissement mentionne : « Entrée accessible en fauteuil roulant ». Cette information est déclarative ; en cas de doute, vérifiez par téléphone."
+      }
+    ],
+    "genere_le": "2026-09-30"
+  },
+  "statut_google": "OPERATIONAL",
+  "audience": {
+    "clics": 0,
+    "impressions": null,
+    "position": null,
+    "visites": 0,
+    "fenetreJours": 90,
+    "source": "visites",
+    "date": "2026-09-30"
+  }
+}

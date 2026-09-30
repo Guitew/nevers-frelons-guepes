@@ -105,8 +105,8 @@
   "backlink": {
     "etat": "present",
     "premiere_detection": "2026-09-24T15:02:15.541Z",
-    "derniere_detection": "2026-09-29T11:20:09.485Z",
-    "derniere_verification": "2026-09-29T11:20:09.485Z",
+    "derniere_detection": "2026-09-30T11:08:10.554Z",
+    "derniere_verification": "2026-09-30T11:08:10.554Z",
     "echecs": 0,
     "url_detectee": "https://andpro.fr/vitrine-locale/transport-demenagement/ploufragan/logidis-comptoirs-modernes-base-carrefour/"
   },
@@ -120,7 +120,7 @@
   "dates": {
     "collecte": "2026-09-03",
     "publication": "2026-09-03",
-    "maj": "2026-09-29"
+    "maj": "2026-09-30"
   },
   "source": "google-places",
   "redaction": {
@@ -189,12 +189,12 @@
   },
   "statut_google": "OPERATIONAL",
   "audience": {
-    "clics": 0,
+    "clics": 1,
     "impressions": null,
     "position": null,
-    "visites": 0,
+    "visites": 1,
     "fenetreJours": 90,
     "source": "visites",
-    "date": "2026-09-29"
+    "date": "2026-09-30"
   }
 }
