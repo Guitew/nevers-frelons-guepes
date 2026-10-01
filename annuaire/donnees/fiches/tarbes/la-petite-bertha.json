@@ -31,7 +31,7 @@
     "longitude": 0.0787995
   },
   "note": 3.9,
-  "avis": 212,
+  "avis": 213,
   "horaires": [
     {
       "jour": 0,
@@ -112,8 +112,8 @@
   "backlink": {
     "etat": "present",
     "premiere_detection": "2026-09-27T15:08:55.510Z",
-    "derniere_detection": "2026-09-30T16:23:53.313Z",
-    "derniere_verification": "2026-09-30T16:23:53.313Z",
+    "derniere_detection": "2026-10-01T17:00:55.445Z",
+    "derniere_verification": "2026-10-01T17:00:55.445Z",
     "echecs": 0,
     "url_detectee": "https://andpro.fr/vitrine-locale/cafes-bars/tarbes/la-petite-bertha/"
   },
@@ -127,7 +127,7 @@
   "dates": {
     "collecte": "2026-09-20",
     "publication": "2026-09-20",
-    "maj": "2026-09-30"
+    "maj": "2026-10-01"
   },
   "source": "google-places",
   "redaction": {
@@ -192,10 +192,10 @@
   },
   "statut_google": "OPERATIONAL",
   "audience": {
-    "clics": 73,
+    "clics": 80,
     "impressions": null,
     "position": null,
-    "visites": 90,
+    "visites": 97,
     "fenetreJours": 90,
     "source": "visites",
     "date": "2026-10-01"

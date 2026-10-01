@@ -1,0 +1,205 @@
+{
+  "id": "ChIJLT5LDJa6rhIRDVK7OrvCg_0",
+  "slug": "pharmacie-lafayette-pradel-toulouse",
+  "nom": "Pharmacie Lafayette Pradel Toulouse",
+  "categorie": "pharmacies-opticiens",
+  "categorie_gmb": "Pharmacie",
+  "type_principal": "pharmacy",
+  "types": [
+    "pharmacy",
+    "drugstore",
+    "veterinary_care",
+    "consultant",
+    "store",
+    "health",
+    "point_of_interest",
+    "service",
+    "establishment"
+  ],
+  "ville": "Toulouse",
+  "ville_slug": "toulouse",
+  "adresse": {
+    "rue": "166 Route de Bayonne",
+    "code_postal": "31300",
+    "departement": "31",
+    "region": "Occitanie",
+    "pays": "France",
+    "complete": "166 Rte de Bayonne, 31300 Toulouse"
+  },
+  "telephone": "05 61 49 18 22",
+  "geo": {
+    "latitude": 43.609185499999995,
+    "longitude": 1.3802944
+  },
+  "note": 4.4,
+  "avis": 1053,
+  "horaires": [
+    {
+      "jour": 0,
+      "ferme": false,
+      "creneaux": [
+        [
+          "08:30",
+          "20:00"
+        ]
+      ]
+    },
+    {
+      "jour": 1,
+      "ferme": false,
+      "creneaux": [
+        [
+          "08:30",
+          "20:00"
+        ]
+      ]
+    },
+    {
+      "jour": 2,
+      "ferme": false,
+      "creneaux": [
+        [
+          "08:30",
+          "20:00"
+        ]
+      ]
+    },
+    {
+      "jour": 3,
+      "ferme": false,
+      "creneaux": [
+        [
+          "08:30",
+          "20:00"
+        ]
+      ]
+    },
+    {
+      "jour": 4,
+      "ferme": false,
+      "creneaux": [
+        [
+          "08:30",
+          "20:00"
+        ]
+      ]
+    },
+    {
+      "jour": 5,
+      "ferme": false,
+      "creneaux": [
+        [
+          "09:00",
+          "20:00"
+        ]
+      ]
+    },
+    {
+      "jour": 6,
+      "ferme": true,
+      "creneaux": []
+    }
+  ],
+  "attributs": [
+    "Entrée accessible en fauteuil roulant",
+    "Parking accessible en fauteuil roulant"
+  ],
+  "lien_google": "https://maps.google.com/?cid=18267658622944891405&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
+  "site_web_gmb": null,
+  "statut": "publiee",
+  "backlink": {
+    "etat": "absent",
+    "premiere_detection": null,
+    "derniere_detection": null,
+    "derniere_verification": "2026-10-01T17:00:55.445Z",
+    "echecs": 1,
+    "url_detectee": null
+  },
+  "suggestion": {
+    "etat": "en-attente",
+    "date_soumission": null,
+    "tentatives": 0,
+    "date_email": "2026-10-01"
+  },
+  "retrait": null,
+  "dates": {
+    "collecte": "2026-10-01",
+    "publication": "2026-10-01",
+    "maj": "2026-10-01"
+  },
+  "source": "google-places",
+  "redaction": {
+    "titre": "Pharmacie Lafayette Pradel Toulouse — Pharmacie ou opticien à Toulouse",
+    "meta_titre": "Pharmacie Lafayette Pradel Toulouse, pharmacie ou opticien…",
+    "meta_description": "Pharmacie Lafayette Pradel Toulouse, pharmacie ou opticien à Toulouse (166 Route de Bayonne) : adresse, horaires, téléphone et informations pratiques.",
+    "chapo": "Pharmacie Lafayette Pradel Toulouse exerce l'activité de pharmacie ou opticien au 166 Route de Bayonne, à Toulouse. Faute de site internet déclaré sur sa fiche Google, l'entreprise reste difficile à trouver en dehors des cartes. Cette page comble ce manque avec des données factuelles et datées.",
+    "sections": [
+      {
+        "id": "presentation",
+        "titre": "Pharmacie Lafayette Pradel Toulouse en quelques mots",
+        "paragraphes": [
+          "Pharmacies et opticiens font partie des activités les plus consultées localement sur mobile.",
+          "Pharmacies et opticiens sont des commerces de première nécessité dont on cherche surtout l'horaire et la garde. Une fiche complète et à jour sert autant l'habitant pressé que le professionnel qui n'a pas vocation à gérer un site.",
+          "D'après le relevé du 1 octobre 2026, l'établissement est ouvert tous les jours sauf le dimanche. Le détail jour par jour figure plus bas."
+        ]
+      },
+      {
+        "id": "acces",
+        "titre": "Adresse et accès",
+        "paragraphes": [
+          "L'établissement est situé au 166 Route de Bayonne, 31300 Toulouse.",
+          "Coordonnées géographiques : 43.60919, 1.38029. Le lien d'itinéraire ci-dessous ouvre directement la navigation."
+        ]
+      },
+      {
+        "id": "contact",
+        "titre": "Contacter Pharmacie Lafayette Pradel Toulouse",
+        "paragraphes": [
+          "Le contact se fait par téléphone au 05 61 49 18 22. C'est le seul moyen de communication déclaré sur la fiche Google de l'entreprise, avec la visite sur place.",
+          "Si vous dirigez cette entreprise, vous pouvez demander la correction ou le retrait de cette page à tout moment, sans justification."
+        ]
+      },
+      {
+        "id": "avis",
+        "titre": "La réputation de Pharmacie Lafayette Pradel Toulouse",
+        "paragraphes": [
+          "Au relevé du 1 octobre 2026, l'établissement affichait une note de 4,4 sur 5 sur Google, calculée à partir de 1053 avis. Cette note évolue en permanence : elle est indiquée ici à titre d'information et n'est pas retraitée.",
+          "Les avis appartiennent à Google et se consultent sur la fiche d'origine, dont le lien figure sur cette page."
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "q": "Quels sont les horaires de Pharmacie Lafayette Pradel Toulouse ?",
+        "r": "Au relevé du 1 octobre 2026, Pharmacie Lafayette Pradel Toulouse était ouvert tous les jours sauf le dimanche. Dans le détail — lundi : de 8 h 30 à 20 h ; mardi : de 8 h 30 à 20 h ; mercredi : de 8 h 30 à 20 h ; jeudi : de 8 h 30 à 20 h ; vendredi : de 8 h 30 à 20 h ; samedi : de 9 h à 20 h ; dimanche : fermé. Ces horaires peuvent changer : un appel préalable reste conseillé."
+      },
+      {
+        "q": "Où se trouve Pharmacie Lafayette Pradel Toulouse ?",
+        "r": "Pharmacie Lafayette Pradel Toulouse se trouve 166 Rte de Bayonne, 31300 Toulouse. Un lien d'itinéraire est disponible sur cette page."
+      },
+      {
+        "q": "Comment contacter Pharmacie Lafayette Pradel Toulouse ?",
+        "r": "Par téléphone au 05 61 49 18 22, ou directement sur place aux heures d'ouverture."
+      },
+      {
+        "q": "Pharmacie Lafayette Pradel Toulouse a-t-il un site internet ?",
+        "r": "Non : aucune adresse de site web n'est déclarée sur la fiche Google de Pharmacie Lafayette Pradel Toulouse au 1 octobre 2026. Cette page tient lieu de référence publique en attendant, le cas échéant, la création d'un site propre à l'entreprise."
+      },
+      {
+        "q": "Pharmacie Lafayette Pradel Toulouse est-il accessible aux personnes à mobilité réduite ?",
+        "r": "La fiche Google de l'établissement mentionne : « Entrée accessible en fauteuil roulant ». Cette information est déclarative ; en cas de doute, vérifiez par téléphone."
+      }
+    ],
+    "genere_le": "2026-10-01"
+  },
+  "statut_google": "OPERATIONAL",
+  "audience": {
+    "clics": 0,
+    "impressions": null,
+    "position": null,
+    "visites": 0,
+    "fenetreJours": 90,
+    "source": "visites",
+    "date": "2026-10-01"
+  }
+}

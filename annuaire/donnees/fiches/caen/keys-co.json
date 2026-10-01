@@ -1,0 +1,202 @@
+{
+  "id": "ChIJKUvCOJlCCkgRnGZmX1PgOo0",
+  "slug": "keys-co",
+  "nom": "Keys & Co.",
+  "categorie": "cafes-bars",
+  "categorie_gmb": "Café",
+  "type_principal": "coffee_shop",
+  "types": [
+    "coffee_shop",
+    "breakfast_restaurant",
+    "brunch_restaurant",
+    "cafe",
+    "food_store",
+    "store",
+    "restaurant",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "ville": "Caen",
+  "ville_slug": "caen",
+  "adresse": {
+    "rue": "45 Avenue du Six Juin",
+    "code_postal": "14000",
+    "departement": "14",
+    "region": "Normandie",
+    "pays": "France",
+    "complete": "45 Av. du Six Juin, 14000 Caen"
+  },
+  "telephone": "02 31 34 60 83",
+  "geo": {
+    "latitude": 49.17857,
+    "longitude": -0.35319259999999997
+  },
+  "note": 4.6,
+  "avis": 1288,
+  "horaires": [
+    {
+      "jour": 0,
+      "ferme": true,
+      "creneaux": []
+    },
+    {
+      "jour": 1,
+      "ferme": true,
+      "creneaux": []
+    },
+    {
+      "jour": 2,
+      "ferme": false,
+      "creneaux": [
+        [
+          "09:00",
+          "18:00"
+        ]
+      ]
+    },
+    {
+      "jour": 3,
+      "ferme": false,
+      "creneaux": [
+        [
+          "09:00",
+          "18:00"
+        ]
+      ]
+    },
+    {
+      "jour": 4,
+      "ferme": false,
+      "creneaux": [
+        [
+          "09:00",
+          "18:00"
+        ]
+      ]
+    },
+    {
+      "jour": 5,
+      "ferme": false,
+      "creneaux": [
+        [
+          "09:00",
+          "18:00"
+        ]
+      ]
+    },
+    {
+      "jour": 6,
+      "ferme": false,
+      "creneaux": [
+        [
+          "09:00",
+          "18:00"
+        ]
+      ]
+    }
+  ],
+  "attributs": [
+    "Entrée accessible en fauteuil roulant",
+    "Parking accessible en fauteuil roulant",
+    "Places assises accessibles en fauteuil roulant"
+  ],
+  "lien_google": "https://maps.google.com/?cid=10176692956684510876&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
+  "site_web_gmb": null,
+  "statut": "publiee",
+  "backlink": {
+    "etat": "absent",
+    "premiere_detection": null,
+    "derniere_detection": null,
+    "derniere_verification": "2026-10-01T17:00:55.445Z",
+    "echecs": 1,
+    "url_detectee": null
+  },
+  "suggestion": {
+    "etat": "en-attente",
+    "date_soumission": null,
+    "tentatives": 0,
+    "date_email": "2026-10-01"
+  },
+  "retrait": null,
+  "dates": {
+    "collecte": "2026-10-01",
+    "publication": "2026-10-01",
+    "maj": "2026-10-01"
+  },
+  "source": "google-places",
+  "redaction": {
+    "titre": "Keys & Co. — Café ou bar à Caen",
+    "meta_titre": "Keys & Co., café ou bar à Caen",
+    "meta_description": "Keys & Co., café ou bar à Caen (45 Avenue du Six Juin) : adresse, horaires, téléphone et informations pratiques.",
+    "chapo": "Keys & Co. figure parmi les établissements de la catégorie « Café ou bar » recensés à Caen. L'entreprise n'a pas de site web référencé sur sa fiche Google. Les éléments présentés ici — adresse, horaires, contact — proviennent de cette fiche et sont datés de leur relevé.",
+    "sections": [
+      {
+        "id": "presentation",
+        "titre": "Keys & Co. en quelques mots",
+        "paragraphes": [
+          "Le choix d'un café ou bar se joue sur trois critères : la proximité, les horaires et la facilité de contact.",
+          "Les cafés et bars sont des repères de vie locale rarement dotés d'un site. Horaires réels, terrasse, retransmissions sportives, concerts : autant de détails qui décident d'une sortie et qui n'apparaissent nulle part ailleurs de façon lisible.",
+          "D'après le relevé du 1 octobre 2026, l'établissement est fermé le lundi et le mardi. Le détail jour par jour figure plus bas."
+        ]
+      },
+      {
+        "id": "acces",
+        "titre": "Adresse et accès",
+        "paragraphes": [
+          "L'établissement est situé au 45 Avenue du Six Juin, 14000 Caen.",
+          "Coordonnées géographiques : 49.17857, -0.35319. Le lien d'itinéraire ci-dessous ouvre directement la navigation."
+        ]
+      },
+      {
+        "id": "contact",
+        "titre": "Contacter Keys & Co.",
+        "paragraphes": [
+          "Le contact se fait par téléphone au 02 31 34 60 83. C'est le seul moyen de communication déclaré sur la fiche Google de l'entreprise, avec la visite sur place.",
+          "Si vous dirigez cette entreprise, vous pouvez demander la correction ou le retrait de cette page à tout moment, sans justification."
+        ]
+      },
+      {
+        "id": "avis",
+        "titre": "La réputation de Keys & Co.",
+        "paragraphes": [
+          "Au relevé du 1 octobre 2026, l'établissement affichait une note de 4,6 sur 5 sur Google, calculée à partir de 1288 avis. Cette note évolue en permanence : elle est indiquée ici à titre d'information et n'est pas retraitée.",
+          "Les avis appartiennent à Google et se consultent sur la fiche d'origine, dont le lien figure sur cette page."
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "q": "Quels sont les horaires de Keys & Co. ?",
+        "r": "Au relevé du 1 octobre 2026, Keys & Co. était fermé le lundi et le mardi. Dans le détail — lundi : fermé ; mardi : fermé ; mercredi : de 9 h à 18 h ; jeudi : de 9 h à 18 h ; vendredi : de 9 h à 18 h ; samedi : de 9 h à 18 h ; dimanche : de 9 h à 18 h. Ces horaires peuvent changer : un appel préalable reste conseillé."
+      },
+      {
+        "q": "Où se trouve Keys & Co. ?",
+        "r": "Keys & Co. se trouve 45 Av. du Six Juin, 14000 Caen. Un lien d'itinéraire est disponible sur cette page."
+      },
+      {
+        "q": "Comment contacter Keys & Co. ?",
+        "r": "Par téléphone au 02 31 34 60 83, ou directement sur place aux heures d'ouverture."
+      },
+      {
+        "q": "Keys & Co. a-t-il un site internet ?",
+        "r": "Non : aucune adresse de site web n'est déclarée sur la fiche Google de Keys & Co. au 1 octobre 2026. Cette page tient lieu de référence publique en attendant, le cas échéant, la création d'un site propre à l'entreprise."
+      },
+      {
+        "q": "Keys & Co. est-il accessible aux personnes à mobilité réduite ?",
+        "r": "La fiche Google de l'établissement mentionne : « Entrée accessible en fauteuil roulant ». Cette information est déclarative ; en cas de doute, vérifiez par téléphone."
+      }
+    ],
+    "genere_le": "2026-10-01"
+  },
+  "statut_google": "OPERATIONAL",
+  "audience": {
+    "clics": 0,
+    "impressions": null,
+    "position": null,
+    "visites": 0,
+    "fenetreJours": 90,
+    "source": "visites",
+    "date": "2026-10-01"
+  }
+}

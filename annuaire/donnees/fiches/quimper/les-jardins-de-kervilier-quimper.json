@@ -26,7 +26,7 @@
     "pays": "France",
     "complete": "4 rue charlotte guillard, 29000 Quimper"
   },
-  "telephone": "02 98 10 21 01",
+  "telephone": "02 59 58 93 67",
   "geo": {
     "latitude": 47.978013999999995,
     "longitude": -4.078997
@@ -121,8 +121,8 @@
     "etat": "absent",
     "premiere_detection": null,
     "derniere_detection": null,
-    "derniere_verification": "2026-09-30T16:23:53.313Z",
-    "echecs": 57,
+    "derniere_verification": "2026-10-01T17:00:55.445Z",
+    "echecs": 58,
     "url_detectee": null
   },
   "suggestion": {
@@ -135,7 +135,7 @@
   "dates": {
     "collecte": "2026-09-01",
     "publication": "2026-09-01",
-    "maj": "2026-09-30"
+    "maj": "2026-10-01"
   },
   "source": "google-places",
   "redaction": {

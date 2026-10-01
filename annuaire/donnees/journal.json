@@ -1,5 +1,90 @@
 [
   {
+    "date": "2026-10-01T17:00:55.667Z",
+    "type": "backlink-absent",
+    "id": "ChIJgeVNRQKDqRIRQgYLGGTJhWA",
+    "nom": "Ben Saad Nadir",
+    "url": null,
+    "precedent": "en-attente"
+  },
+  {
+    "date": "2026-10-01T17:00:55.774Z",
+    "type": "backlink-absent",
+    "id": "ChIJKUvCOJlCCkgRnGZmX1PgOo0",
+    "nom": "Keys & Co.",
+    "url": null,
+    "precedent": "en-attente"
+  },
+  {
+    "date": "2026-10-01T17:00:55.961Z",
+    "type": "backlink-absent",
+    "id": "ChIJvy6JdjdUrRIR8dDbokB0ATA",
+    "nom": "Le Belbexois",
+    "url": null,
+    "precedent": "en-attente"
+  },
+  {
+    "date": "2026-10-01T17:00:56.055Z",
+    "type": "backlink-absent",
+    "id": "ChIJj72fL3PVEEgRbMVotbq-Zcs",
+    "nom": "Pharmacie de Kermoysan",
+    "url": null,
+    "precedent": "en-attente"
+  },
+  {
+    "date": "2026-10-01T17:00:56.189Z",
+    "type": "backlink-absent",
+    "id": "ChIJLT5LDJa6rhIRDVK7OrvCg_0",
+    "nom": "Pharmacie Lafayette Pradel Toulouse",
+    "url": null,
+    "precedent": "en-attente"
+  },
+  {
+    "date": "2026-10-01T17:00:55.164Z",
+    "type": "publication",
+    "id": "ChIJKUvCOJlCCkgRnGZmX1PgOo0",
+    "nom": "Keys & Co.",
+    "url": "/cafes-bars/caen/keys-co/",
+    "categorie": "cafes-bars",
+    "source": "google-places"
+  },
+  {
+    "date": "2026-10-01T17:00:55.165Z",
+    "type": "publication",
+    "id": "ChIJvy6JdjdUrRIR8dDbokB0ATA",
+    "nom": "Le Belbexois",
+    "url": "/restaurants/aurillac/le-belbexois/",
+    "categorie": "restaurants",
+    "source": "google-places"
+  },
+  {
+    "date": "2026-10-01T17:00:55.165Z",
+    "type": "publication",
+    "id": "ChIJj72fL3PVEEgRbMVotbq-Zcs",
+    "nom": "Pharmacie de Kermoysan",
+    "url": "/pharmacies-opticiens/quimper/pharmacie-de-kermoysan/",
+    "categorie": "pharmacies-opticiens",
+    "source": "google-places"
+  },
+  {
+    "date": "2026-10-01T17:00:55.166Z",
+    "type": "publication",
+    "id": "ChIJLT5LDJa6rhIRDVK7OrvCg_0",
+    "nom": "Pharmacie Lafayette Pradel Toulouse",
+    "url": "/pharmacies-opticiens/toulouse/pharmacie-lafayette-pradel-toulouse/",
+    "categorie": "pharmacies-opticiens",
+    "source": "google-places"
+  },
+  {
+    "date": "2026-10-01T17:00:55.166Z",
+    "type": "publication",
+    "id": "ChIJgeVNRQKDqRIRQgYLGGTJhWA",
+    "nom": "Ben Saad Nadir",
+    "url": "/sante-bien-etre/duran/ben-saad-nadir/",
+    "categorie": "sante-bien-etre",
+    "source": "google-places"
+  },
+  {
     "date": "2026-10-01T11:35:17.535Z",
     "type": "suggestion-soumise",
     "id": "ChIJUUG2x-WilEcRN_YfnHcusGg",
