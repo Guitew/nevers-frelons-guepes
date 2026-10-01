@@ -1,0 +1,202 @@
+{
+  "id": "ChIJtbbSKM9_-UcRUT-y5Jdd3_g",
+  "slug": "bio-creuse",
+  "nom": "Bio Creuse",
+  "categorie": "commerces-alimentation",
+  "categorie_gmb": "Épicerie",
+  "type_principal": "grocery_store",
+  "types": [
+    "grocery_store",
+    "food_store",
+    "store",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "ville": "Guéret",
+  "ville_slug": "gueret",
+  "adresse": {
+    "rue": "Avenue de l'Europe",
+    "code_postal": "23000",
+    "departement": "23",
+    "region": "Nouvelle-Aquitaine",
+    "pays": "France",
+    "complete": "Av. de l'Europe, 23000 Guéret"
+  },
+  "telephone": "05 55 52 50 50",
+  "geo": {
+    "latitude": 46.18029800000001,
+    "longitude": 1.877741
+  },
+  "note": 4.3,
+  "avis": 151,
+  "horaires": [
+    {
+      "jour": 0,
+      "ferme": false,
+      "creneaux": [
+        [
+          "09:00",
+          "19:00"
+        ]
+      ]
+    },
+    {
+      "jour": 1,
+      "ferme": false,
+      "creneaux": [
+        [
+          "09:00",
+          "19:00"
+        ]
+      ]
+    },
+    {
+      "jour": 2,
+      "ferme": false,
+      "creneaux": [
+        [
+          "09:00",
+          "19:00"
+        ]
+      ]
+    },
+    {
+      "jour": 3,
+      "ferme": false,
+      "creneaux": [
+        [
+          "09:00",
+          "19:00"
+        ]
+      ]
+    },
+    {
+      "jour": 4,
+      "ferme": false,
+      "creneaux": [
+        [
+          "09:00",
+          "19:00"
+        ]
+      ]
+    },
+    {
+      "jour": 5,
+      "ferme": false,
+      "creneaux": [
+        [
+          "09:00",
+          "19:00"
+        ]
+      ]
+    },
+    {
+      "jour": 6,
+      "ferme": true,
+      "creneaux": []
+    }
+  ],
+  "attributs": [
+    "Entrée accessible en fauteuil roulant",
+    "Parking accessible en fauteuil roulant"
+  ],
+  "lien_google": "https://maps.google.com/?cid=17933155148170936145&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
+  "site_web_gmb": null,
+  "statut": "publiee",
+  "backlink": {
+    "etat": "absent",
+    "premiere_detection": null,
+    "derniere_detection": null,
+    "derniere_verification": "2026-10-01T11:35:00.696Z",
+    "echecs": 1,
+    "url_detectee": null
+  },
+  "suggestion": {
+    "etat": "en-attente",
+    "date_soumission": null,
+    "tentatives": 0,
+    "date_email": "2026-10-01"
+  },
+  "retrait": null,
+  "dates": {
+    "collecte": "2026-10-01",
+    "publication": "2026-10-01",
+    "maj": "2026-10-01"
+  },
+  "source": "google-places",
+  "redaction": {
+    "titre": "Bio Creuse — Commerce d'alimentation à Guéret",
+    "meta_titre": "Bio Creuse, commerce d'alimentation à Guéret",
+    "meta_description": "Bio Creuse, commerce d'alimentation à Guéret (Avenue de l'Europe) : adresse, horaires, téléphone et informations pratiques.",
+    "chapo": "Cette fiche présente Bio Creuse, un commerce d'alimentation au Avenue de l'Europe, à Guéret. Son établissement ne déclare aucun site internet sur sa fiche Google : les informations ci-dessous en tiennent lieu de référence publique, vérifiable et accessible à tous.",
+    "sections": [
+      {
+        "id": "presentation",
+        "titre": "Bio Creuse en quelques mots",
+        "paragraphes": [
+          "Commerces et alimentation font partie des activités les plus consultées localement sur mobile.",
+          "Le commerce alimentaire de proximité redevient un réflexe, mais son information circule mal : jours de marché, produits de saison, vente directe. Cette fiche rassemble ce que le consommateur cherche avant de se déplacer.",
+          "D'après le relevé du 1 octobre 2026, l'établissement est ouvert tous les jours sauf le dimanche. Le détail jour par jour figure plus bas."
+        ]
+      },
+      {
+        "id": "acces",
+        "titre": "Adresse et accès",
+        "paragraphes": [
+          "L'établissement est situé au Avenue de l'Europe, 23000 Guéret.",
+          "Coordonnées géographiques : 46.18030, 1.87774. Le lien d'itinéraire ci-dessous ouvre directement la navigation."
+        ]
+      },
+      {
+        "id": "contact",
+        "titre": "Contacter Bio Creuse",
+        "paragraphes": [
+          "Le contact se fait par téléphone au 05 55 52 50 50. C'est le seul moyen de communication déclaré sur la fiche Google de l'entreprise, avec la visite sur place.",
+          "Si vous dirigez cette entreprise, vous pouvez demander la correction ou le retrait de cette page à tout moment, sans justification."
+        ]
+      },
+      {
+        "id": "avis",
+        "titre": "La réputation de Bio Creuse",
+        "paragraphes": [
+          "Au relevé du 1 octobre 2026, l'établissement affichait une note de 4,3 sur 5 sur Google, calculée à partir de 151 avis. Cette note évolue en permanence : elle est indiquée ici à titre d'information et n'est pas retraitée.",
+          "Les avis appartiennent à Google et se consultent sur la fiche d'origine, dont le lien figure sur cette page."
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "q": "Quels sont les horaires de Bio Creuse ?",
+        "r": "Au relevé du 1 octobre 2026, Bio Creuse était ouvert tous les jours sauf le dimanche. Dans le détail — lundi : de 9 h à 19 h ; mardi : de 9 h à 19 h ; mercredi : de 9 h à 19 h ; jeudi : de 9 h à 19 h ; vendredi : de 9 h à 19 h ; samedi : de 9 h à 19 h ; dimanche : fermé. Ces horaires peuvent changer : un appel préalable reste conseillé."
+      },
+      {
+        "q": "Où se trouve Bio Creuse ?",
+        "r": "Bio Creuse se trouve Av. de l'Europe, 23000 Guéret. Un lien d'itinéraire est disponible sur cette page."
+      },
+      {
+        "q": "Comment contacter Bio Creuse ?",
+        "r": "Par téléphone au 05 55 52 50 50, ou directement sur place aux heures d'ouverture."
+      },
+      {
+        "q": "Bio Creuse a-t-il un site internet ?",
+        "r": "Non : aucune adresse de site web n'est déclarée sur la fiche Google de Bio Creuse au 1 octobre 2026. Cette page tient lieu de référence publique en attendant, le cas échéant, la création d'un site propre à l'entreprise."
+      },
+      {
+        "q": "Bio Creuse est-il accessible aux personnes à mobilité réduite ?",
+        "r": "La fiche Google de l'établissement mentionne : « Entrée accessible en fauteuil roulant ». Cette information est déclarative ; en cas de doute, vérifiez par téléphone."
+      }
+    ],
+    "genere_le": "2026-10-01"
+  },
+  "statut_google": "OPERATIONAL",
+  "audience": {
+    "clics": 0,
+    "impressions": null,
+    "position": null,
+    "visites": 0,
+    "fenetreJours": 90,
+    "source": "visites",
+    "date": "2026-10-01"
+  }
+}
