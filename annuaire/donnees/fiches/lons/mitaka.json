@@ -1,0 +1,227 @@
+{
+  "id": "ChIJG2IEpF9PVg0RTnv8NzfZ4jw",
+  "slug": "mitaka",
+  "nom": "Mitaka",
+  "categorie": "restaurants",
+  "categorie_gmb": "Restaurant de type buffet",
+  "type_principal": "buffet_restaurant",
+  "types": [
+    "buffet_restaurant",
+    "restaurant",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "ville": "Lons",
+  "ville_slug": "lons",
+  "adresse": {
+    "rue": "2 Boulevard Charles de Gaulle",
+    "code_postal": "64140",
+    "departement": "64",
+    "region": "Nouvelle-Aquitaine",
+    "pays": "France",
+    "complete": "2 Bd Charles de Gaulle, 64140 Lons"
+  },
+  "telephone": "05 59 05 19 59",
+  "geo": {
+    "latitude": 43.306601099999995,
+    "longitude": -0.4034078
+  },
+  "note": 4.4,
+  "avis": 1266,
+  "horaires": [
+    {
+      "jour": 0,
+      "ferme": true,
+      "creneaux": []
+    },
+    {
+      "jour": 1,
+      "ferme": false,
+      "creneaux": [
+        [
+          "12:00",
+          "14:00"
+        ],
+        [
+          "19:00",
+          "22:00"
+        ]
+      ]
+    },
+    {
+      "jour": 2,
+      "ferme": false,
+      "creneaux": [
+        [
+          "12:00",
+          "14:00"
+        ],
+        [
+          "19:00",
+          "22:00"
+        ]
+      ]
+    },
+    {
+      "jour": 3,
+      "ferme": false,
+      "creneaux": [
+        [
+          "12:00",
+          "14:00"
+        ],
+        [
+          "19:00",
+          "22:00"
+        ]
+      ]
+    },
+    {
+      "jour": 4,
+      "ferme": false,
+      "creneaux": [
+        [
+          "12:00",
+          "14:00"
+        ],
+        [
+          "19:00",
+          "22:00"
+        ]
+      ]
+    },
+    {
+      "jour": 5,
+      "ferme": false,
+      "creneaux": [
+        [
+          "12:00",
+          "14:00"
+        ],
+        [
+          "19:00",
+          "22:00"
+        ]
+      ]
+    },
+    {
+      "jour": 6,
+      "ferme": false,
+      "creneaux": [
+        [
+          "12:00",
+          "14:00"
+        ],
+        [
+          "19:00",
+          "22:00"
+        ]
+      ]
+    }
+  ],
+  "attributs": [
+    "Entrée accessible en fauteuil roulant",
+    "Parking accessible en fauteuil roulant",
+    "Toilettes accessibles en fauteuil roulant",
+    "Places assises accessibles en fauteuil roulant"
+  ],
+  "lien_google": "https://maps.google.com/?cid=4387307818198006606&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
+  "site_web_gmb": null,
+  "statut": "publiee",
+  "backlink": {
+    "etat": "absent",
+    "premiere_detection": null,
+    "derniere_detection": null,
+    "derniere_verification": "2026-10-02T16:15:21.808Z",
+    "echecs": 1,
+    "url_detectee": null
+  },
+  "suggestion": {
+    "etat": "en-attente",
+    "date_soumission": null,
+    "tentatives": 0,
+    "date_email": "2026-10-02"
+  },
+  "retrait": null,
+  "dates": {
+    "collecte": "2026-10-02",
+    "publication": "2026-10-02",
+    "maj": "2026-10-02"
+  },
+  "source": "google-places",
+  "redaction": {
+    "titre": "Mitaka — Restaurant à Lons",
+    "meta_titre": "Mitaka, restaurant à Lons",
+    "meta_description": "Mitaka, restaurant à Lons (2 Boulevard Charles de Gaulle) : adresse, horaires, téléphone et informations pratiques.",
+    "chapo": "Mitaka est un restaurant au 2 Boulevard Charles de Gaulle, à Lons. Aucune adresse web n'est renseignée sur sa fiche Google. Cette page rassemble donc, en un seul endroit stable, les informations que les clients recherchent avant de se déplacer.",
+    "sections": [
+      {
+        "id": "presentation",
+        "titre": "Mitaka en quelques mots",
+        "paragraphes": [
+          "À Lons, les recherches du type « restaurant près de chez moi » se concluent le plus souvent par un appel ou une visite directe.",
+          "Les restaurants figurent parmi les commerces les plus recherchés en ligne, et pourtant beaucoup n'exposent qu'une fiche Google sans site. Retrouver ici leur carte d'identité complète — adresse, horaires, téléphone, spécialités — aide les clients à réserver et aide l'établissement à exister ailleurs que sur une plateforme d'avis.",
+          "D'après le relevé du 2 octobre 2026, l'établissement est ouvert tous les jours sauf le lundi. Le détail jour par jour figure plus bas."
+        ]
+      },
+      {
+        "id": "acces",
+        "titre": "Adresse et accès",
+        "paragraphes": [
+          "L'établissement est situé au 2 Boulevard Charles de Gaulle, 64140 Lons.",
+          "Coordonnées géographiques : 43.30660, -0.40341. Le lien d'itinéraire ci-dessous ouvre directement la navigation."
+        ]
+      },
+      {
+        "id": "contact",
+        "titre": "Contacter Mitaka",
+        "paragraphes": [
+          "Le contact se fait par téléphone au 05 59 05 19 59. C'est le seul moyen de communication déclaré sur la fiche Google de l'entreprise, avec la visite sur place.",
+          "Si vous dirigez cette entreprise, vous pouvez demander la correction ou le retrait de cette page à tout moment, sans justification."
+        ]
+      },
+      {
+        "id": "avis",
+        "titre": "La réputation de Mitaka",
+        "paragraphes": [
+          "Au relevé du 2 octobre 2026, l'établissement affichait une note de 4,4 sur 5 sur Google, calculée à partir de 1266 avis. Cette note évolue en permanence : elle est indiquée ici à titre d'information et n'est pas retraitée.",
+          "Les avis appartiennent à Google et se consultent sur la fiche d'origine, dont le lien figure sur cette page."
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "q": "Quels sont les horaires de Mitaka ?",
+        "r": "Au relevé du 2 octobre 2026, Mitaka était ouvert tous les jours sauf le lundi. Dans le détail — lundi : fermé ; mardi : de 12 h à 14 h et de 19 h à 22 h ; mercredi : de 12 h à 14 h et de 19 h à 22 h ; jeudi : de 12 h à 14 h et de 19 h à 22 h ; vendredi : de 12 h à 14 h et de 19 h à 22 h ; samedi : de 12 h à 14 h et de 19 h à 22 h ; dimanche : de 12 h à 14 h et de 19 h à 22 h. Ces horaires peuvent changer : un appel préalable reste conseillé."
+      },
+      {
+        "q": "Où se trouve Mitaka ?",
+        "r": "Mitaka se trouve 2 Bd Charles de Gaulle, 64140 Lons. Un lien d'itinéraire est disponible sur cette page."
+      },
+      {
+        "q": "Comment contacter Mitaka ?",
+        "r": "Par téléphone au 05 59 05 19 59, ou directement sur place aux heures d'ouverture."
+      },
+      {
+        "q": "Mitaka a-t-il un site internet ?",
+        "r": "Non : aucune adresse de site web n'est déclarée sur la fiche Google de Mitaka au 2 octobre 2026. Cette page tient lieu de référence publique en attendant, le cas échéant, la création d'un site propre à l'entreprise."
+      },
+      {
+        "q": "Mitaka est-il accessible aux personnes à mobilité réduite ?",
+        "r": "La fiche Google de l'établissement mentionne : « Entrée accessible en fauteuil roulant ». Cette information est déclarative ; en cas de doute, vérifiez par téléphone."
+      }
+    ],
+    "genere_le": "2026-10-02"
+  },
+  "statut_google": "OPERATIONAL",
+  "audience": {
+    "clics": 0,
+    "impressions": null,
+    "position": null,
+    "visites": 0,
+    "fenetreJours": 90,
+    "source": "visites",
+    "date": "2026-10-02"
+  }
+}

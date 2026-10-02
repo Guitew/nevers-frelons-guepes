@@ -1,5 +1,98 @@
 [
   {
+    "date": "2026-10-02T16:15:22.000Z",
+    "type": "backlink-absent",
+    "id": "ChIJDbFsKl9t5kcRcPfNCrBOC_w",
+    "nom": "Fresh House",
+    "url": null,
+    "precedent": "en-attente"
+  },
+  {
+    "date": "2026-10-02T16:15:22.096Z",
+    "type": "backlink-absent",
+    "id": "ChIJG2IEpF9PVg0RTnv8NzfZ4jw",
+    "nom": "Mitaka",
+    "url": null,
+    "precedent": "en-attente"
+  },
+  {
+    "date": "2026-10-02T16:15:22.186Z",
+    "type": "backlink-absent",
+    "id": "ChIJI9CcDW4L4kcRPIYvLLdM8ag",
+    "nom": "Steak House",
+    "url": null,
+    "precedent": "en-attente"
+  },
+  {
+    "date": "2026-10-02T16:15:22.276Z",
+    "type": "backlink-absent",
+    "id": "ChIJpRn539dlkUcRq_pwSqmP6jg",
+    "nom": "Tabac Bar Le Cobra",
+    "url": null,
+    "precedent": "en-attente"
+  },
+  {
+    "date": "2026-10-02T16:15:22.375Z",
+    "type": "backlink-absent",
+    "id": "ChIJb_ftmv4NrBIRwJpXkVZzMzA",
+    "nom": "Villa de cammas",
+    "url": null,
+    "precedent": "en-attente"
+  },
+  {
+    "date": "2026-10-02T16:15:25.289Z",
+    "type": "backlink-present",
+    "id": "ChIJN_G2UMyVC0gRwgfsrCJOwhg",
+    "nom": "Le Spot",
+    "url": "https://andpro.fr/vitrine-locale/cafes-bars/saint-lo/le-spot/",
+    "precedent": "absent"
+  },
+  {
+    "date": "2026-10-02T16:15:21.701Z",
+    "type": "publication",
+    "id": "ChIJI9CcDW4L4kcRPIYvLLdM8ag",
+    "nom": "Steak House",
+    "url": "/restaurants/alencon/steak-house/",
+    "categorie": "restaurants",
+    "source": "google-places"
+  },
+  {
+    "date": "2026-10-02T16:15:21.702Z",
+    "type": "publication",
+    "id": "ChIJG2IEpF9PVg0RTnv8NzfZ4jw",
+    "nom": "Mitaka",
+    "url": "/restaurants/lons/mitaka/",
+    "categorie": "restaurants",
+    "source": "google-places"
+  },
+  {
+    "date": "2026-10-02T16:15:21.703Z",
+    "type": "publication",
+    "id": "ChIJpRn539dlkUcRq_pwSqmP6jg",
+    "nom": "Tabac Bar Le Cobra",
+    "url": "/cafes-bars/colmar/tabac-bar-le-cobra/",
+    "categorie": "cafes-bars",
+    "source": "google-places"
+  },
+  {
+    "date": "2026-10-02T16:15:21.703Z",
+    "type": "publication",
+    "id": "ChIJDbFsKl9t5kcRcPfNCrBOC_w",
+    "nom": "Fresh House",
+    "url": "/restaurants/paris/fresh-house/",
+    "categorie": "restaurants",
+    "source": "google-places"
+  },
+  {
+    "date": "2026-10-02T16:15:21.703Z",
+    "type": "publication",
+    "id": "ChIJb_ftmv4NrBIRwJpXkVZzMzA",
+    "nom": "Villa de cammas",
+    "url": "/hebergement/montauban/villa-de-cammas/",
+    "categorie": "hebergement",
+    "source": "google-places"
+  },
+  {
     "date": "2026-10-02T11:04:25.592Z",
     "type": "backlink-absent",
     "id": "ChIJ1eT0mQsyrhIRUYW0kmYXXso",
