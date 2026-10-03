@@ -1,5 +1,111 @@
 [
   {
+    "date": "2026-10-03T14:42:58.281Z",
+    "type": "suggestion-soumise",
+    "id": "ChIJU347HvbV_EcRiTDbleyMkZw",
+    "nom": "Cricam",
+    "url": "/garages-automobile/la-riche/cricam/"
+  },
+  {
+    "date": "2026-10-03T14:42:58.256Z",
+    "type": "suggestion-soumise",
+    "id": "ChIJP4QyD0Ec8UcRM7kiOCUX3UY",
+    "nom": "Au Goût du Jour",
+    "url": "/restaurants/moulins/au-gout-du-jour/"
+  },
+  {
+    "date": "2026-10-03T14:42:58.234Z",
+    "type": "suggestion-soumise",
+    "id": "ChIJe75R1MKvthIR-VbuyWGo_Zc",
+    "nom": "WOK D'ASIE",
+    "url": "/restaurants/montpellier/wok-d-asie/"
+  },
+  {
+    "date": "2026-10-03T14:42:41.794Z",
+    "type": "backlink-absent",
+    "id": "ChIJ-XMGJ_4fD0gRa8pT4wuEDd8",
+    "nom": "Bar Restaurant Le Vallon",
+    "url": null,
+    "precedent": "en-attente"
+  },
+  {
+    "date": "2026-10-03T14:42:41.868Z",
+    "type": "backlink-absent",
+    "id": "ChIJI9XlJvGV-kcR_d35mDc6M4I",
+    "nom": "Bourges",
+    "url": null,
+    "precedent": "en-attente"
+  },
+  {
+    "date": "2026-10-03T14:42:42.027Z",
+    "type": "backlink-absent",
+    "id": "ChIJ13D_-7OayxIROJvh4szhkwo",
+    "nom": "Digne d'un Pain",
+    "url": null,
+    "precedent": "en-attente"
+  },
+  {
+    "date": "2026-10-03T14:42:42.099Z",
+    "type": "backlink-absent",
+    "id": "ChIJNXkbVD46tRIRYUUwJUo_tWI",
+    "nom": "Le Poivre d'Ane",
+    "url": null,
+    "precedent": "en-attente"
+  },
+  {
+    "date": "2026-10-03T14:42:42.262Z",
+    "type": "backlink-absent",
+    "id": "ChIJC47uEw1AyxIRbJ_01cpEloo",
+    "nom": "Mon Hôtel à Gap",
+    "url": null,
+    "precedent": "en-attente"
+  },
+  {
+    "date": "2026-10-03T14:42:41.394Z",
+    "type": "publication",
+    "id": "ChIJ-XMGJ_4fD0gRa8pT4wuEDd8",
+    "nom": "Bar Restaurant Le Vallon",
+    "url": "/restaurants/noyal-chatillon-sur-seiche/bar-restaurant-le-vallon/",
+    "categorie": "restaurants",
+    "source": "google-places"
+  },
+  {
+    "date": "2026-10-03T14:42:41.395Z",
+    "type": "publication",
+    "id": "ChIJ13D_-7OayxIROJvh4szhkwo",
+    "nom": "Digne d'un Pain",
+    "url": "/boulangeries-patisseries/digne-les-bains/digne-d-un-pain/",
+    "categorie": "boulangeries-patisseries",
+    "source": "google-places"
+  },
+  {
+    "date": "2026-10-03T14:42:41.396Z",
+    "type": "publication",
+    "id": "ChIJC47uEw1AyxIRbJ_01cpEloo",
+    "nom": "Mon Hôtel à Gap",
+    "url": "/hebergement/gap/mon-hotel-a-gap/",
+    "categorie": "hebergement",
+    "source": "google-places"
+  },
+  {
+    "date": "2026-10-03T14:42:41.396Z",
+    "type": "publication",
+    "id": "ChIJNXkbVD46tRIRYUUwJUo_tWI",
+    "nom": "Le Poivre d'Ane",
+    "url": "/restaurants/coux/le-poivre-d-ane/",
+    "categorie": "restaurants",
+    "source": "google-places"
+  },
+  {
+    "date": "2026-10-03T14:42:41.396Z",
+    "type": "publication",
+    "id": "ChIJI9XlJvGV-kcR_d35mDc6M4I",
+    "nom": "Bourges",
+    "url": "/hebergement/bourges/bourges/",
+    "categorie": "hebergement",
+    "source": "google-places"
+  },
+  {
     "date": "2026-10-03T10:23:26.235Z",
     "type": "suggestion-soumise",
     "id": "ChIJb_ftmv4NrBIRwJpXkVZzMzA",
