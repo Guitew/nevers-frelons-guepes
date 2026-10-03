@@ -1,5 +1,112 @@
 [
   {
+    "date": "2026-10-03T10:23:26.235Z",
+    "type": "suggestion-soumise",
+    "id": "ChIJb_ftmv4NrBIRwJpXkVZzMzA",
+    "nom": "Villa de cammas",
+    "url": "/hebergement/montauban/villa-de-cammas/"
+  },
+  {
+    "date": "2026-10-03T10:23:26.213Z",
+    "type": "suggestion-soumise",
+    "id": "ChIJI9CcDW4L4kcRPIYvLLdM8ag",
+    "nom": "Steak House",
+    "url": "/restaurants/alencon/steak-house/"
+  },
+  {
+    "date": "2026-10-03T10:22:29.258Z",
+    "type": "backlink-absent",
+    "id": "ChIJNbgMnFF4CEgRZtgqCKBBLE4",
+    "nom": "Asia Market",
+    "url": null,
+    "precedent": "en-attente"
+  },
+  {
+    "date": "2026-10-03T10:22:29.349Z",
+    "type": "backlink-absent",
+    "id": "ChIJP4QyD0Ec8UcRM7kiOCUX3UY",
+    "nom": "Au Goût du Jour",
+    "url": null,
+    "precedent": "en-attente"
+  },
+  {
+    "date": "2026-10-03T10:22:29.484Z",
+    "type": "backlink-absent",
+    "id": "ChIJGWBpBHlX9UcRpamMdND0Cnc",
+    "nom": "La Santa Maria",
+    "url": null,
+    "precedent": "en-attente"
+  },
+  {
+    "date": "2026-10-03T10:22:29.578Z",
+    "type": "backlink-absent",
+    "id": "ChIJwc4i41aFi0cRoY3Co9ZKS3Y",
+    "nom": "Supermarché Le Rhône",
+    "url": null,
+    "precedent": "en-attente"
+  },
+  {
+    "date": "2026-10-03T10:22:29.715Z",
+    "type": "backlink-absent",
+    "id": "ChIJe75R1MKvthIR-VbuyWGo_Zc",
+    "nom": "WOK D'ASIE",
+    "url": null,
+    "precedent": "en-attente"
+  },
+  {
+    "date": "2026-10-03T10:22:37.533Z",
+    "type": "backlink-present",
+    "id": "ChIJ1x9GMF6Y7kcRSRgDiKB3uME",
+    "nom": "0Euro Pare Brise + Troyes",
+    "url": "https://andpro.fr/vitrine-locale/garages-automobile/troyes/0euro-pare-brise-troyes/",
+    "precedent": "absent"
+  },
+  {
+    "date": "2026-10-03T10:22:28.840Z",
+    "type": "publication",
+    "id": "ChIJGWBpBHlX9UcRpamMdND0Cnc",
+    "nom": "La Santa Maria",
+    "url": "/restaurants/valence/la-santa-maria/",
+    "categorie": "restaurants",
+    "source": "google-places"
+  },
+  {
+    "date": "2026-10-03T10:22:28.841Z",
+    "type": "publication",
+    "id": "ChIJe75R1MKvthIR-VbuyWGo_Zc",
+    "nom": "WOK D'ASIE",
+    "url": "/restaurants/montpellier/wok-d-asie/",
+    "categorie": "restaurants",
+    "source": "google-places"
+  },
+  {
+    "date": "2026-10-03T10:22:28.841Z",
+    "type": "publication",
+    "id": "ChIJNbgMnFF4CEgRZtgqCKBBLE4",
+    "nom": "Asia Market",
+    "url": "/commerces-alimentation/angers/asia-market/",
+    "categorie": "commerces-alimentation",
+    "source": "google-places"
+  },
+  {
+    "date": "2026-10-03T10:22:28.842Z",
+    "type": "publication",
+    "id": "ChIJwc4i41aFi0cRoY3Co9ZKS3Y",
+    "nom": "Supermarché Le Rhône",
+    "url": "/commerces-alimentation/annecy/supermarche-le-rhone/",
+    "categorie": "commerces-alimentation",
+    "source": "google-places"
+  },
+  {
+    "date": "2026-10-03T10:22:28.842Z",
+    "type": "publication",
+    "id": "ChIJP4QyD0Ec8UcRM7kiOCUX3UY",
+    "nom": "Au Goût du Jour",
+    "url": "/restaurants/moulins/au-gout-du-jour/",
+    "categorie": "restaurants",
+    "source": "google-places"
+  },
+  {
     "date": "2026-10-02T16:15:22.000Z",
     "type": "backlink-absent",
     "id": "ChIJDbFsKl9t5kcRcPfNCrBOC_w",

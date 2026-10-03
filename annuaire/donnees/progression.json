@@ -36,27 +36,27 @@
   },
   "departement-2A": {
     "cellule": 9,
-    "lot": 1,
+    "lot": 2,
     "tour": 0,
-    "date": "2026-10-02"
+    "date": "2026-10-03"
   },
   "departement-2B": {
     "cellule": 9,
-    "lot": 1,
+    "lot": 2,
     "tour": 0,
-    "date": "2026-10-02"
+    "date": "2026-10-03"
   },
   "departement-34": {
     "cellule": 3,
-    "lot": 0,
+    "lot": 1,
     "tour": 0,
-    "date": "2026-10-02"
+    "date": "2026-10-03"
   },
   "departement-35": {
-    "cellule": 2,
-    "lot": 2,
+    "cellule": 3,
+    "lot": 0,
     "tour": 0,
-    "date": "2026-10-02"
+    "date": "2026-10-03"
   },
   "departement-37": {
     "cellule": 2,
@@ -84,9 +84,9 @@
   },
   "departement-59": {
     "cellule": 2,
-    "lot": 1,
+    "lot": 2,
     "tour": 0,
-    "date": "2026-10-02"
+    "date": "2026-10-03"
   },
   "departement-66": {
     "cellule": 1,
@@ -156,9 +156,9 @@
   },
   "departement-26": {
     "cellule": 2,
-    "lot": 0,
+    "lot": 1,
     "tour": 0,
-    "date": "2026-10-02"
+    "date": "2026-10-03"
   },
   "departement-27": {
     "cellule": 1,
@@ -221,10 +221,10 @@
     "date": "2026-09-27"
   },
   "departement-49": {
-    "cellule": 2,
-    "lot": 2,
+    "cellule": 3,
+    "lot": 0,
     "tour": 0,
-    "date": "2026-10-02"
+    "date": "2026-10-03"
   },
   "departement-54": {
     "cellule": 1,
@@ -275,10 +275,10 @@
     "date": "2026-10-01"
   },
   "departement-74": {
-    "cellule": 1,
-    "lot": 2,
+    "cellule": 2,
+    "lot": 0,
     "tour": 0,
-    "date": "2026-10-02"
+    "date": "2026-10-03"
   },
   "departement-75": {
     "cellule": 2,
@@ -501,5 +501,17 @@
     "lot": 1,
     "tour": 0,
     "date": "2026-09-27"
+  },
+  "departement-01": {
+    "cellule": 0,
+    "lot": 1,
+    "tour": 0,
+    "date": "2026-10-03"
+  },
+  "departement-03": {
+    "cellule": 0,
+    "lot": 1,
+    "tour": 0,
+    "date": "2026-10-03"
   }
 }
