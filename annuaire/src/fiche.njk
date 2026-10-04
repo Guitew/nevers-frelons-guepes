@@ -107,7 +107,7 @@ eleventyComputed:
         <p>Pour l'utiliser comme site : ajoutez l'adresse
         <code>{{ site.base }}{{ f.url }}</code> dans le champ « Site Web » de votre fiche Google.
         Vos clients trouveront alors ces informations directement depuis la recherche et depuis Maps.</p>
-        <p style="margin-bottom:0;"><a class="bouton" href="{{ "/signaler/?fiche=" + (f.url | urlencode) | url }}">Corriger ou retirer cette fiche</a></p>
+        <p style="margin-bottom:0;"><a class="bouton" href="{{ ("/signaler/?fiche=" + (f.url | urlencode)) | url }}">Corriger ou retirer cette fiche</a></p>
       </div>
 
       {% set proches = annuaire.fiches | voisines(f, 6) %}

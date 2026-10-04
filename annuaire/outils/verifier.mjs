@@ -107,14 +107,17 @@ for (const p of pages) {
     ajouter(fils, etapes, url);
   }
 
-  for (const m of html.matchAll(/href="(\/[^"#?]*)"/g)) {
+  for (const m of html.matchAll(/href="(\/[^"]*)"/g)) {
+    // Le contrôle porte sur le chemin seul : la requête (?fiche=…) et
+    // l'ancre (#…) ne changent pas la page servie.
+    const lien = m[1].replace(/[?#].*$/, "");
     // Un lien qui ne porte pas le préfixe pointerait hors du site une fois
     // en ligne : c'est une anomalie, pas un chemin à résoudre.
-    if (site.chemin && !m[1].startsWith(site.chemin + "/") && m[1] !== site.chemin) {
+    if (site.chemin && !lien.startsWith(site.chemin + "/") && lien !== site.chemin) {
       anomalies.push(`Lien sans le préfixe « ${site.chemin} » : ${m[1]} ← ${url}`);
       continue;
     }
-    const cible = sansPrefixe(m[1]);
+    const cible = sansPrefixe(lien);
     if (cible.startsWith("/assets/") || horsLigne.has(cible)) continue;
     const existe = [
       path.join(SORTIE, cible),
