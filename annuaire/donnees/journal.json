@@ -1,5 +1,98 @@
 [
   {
+    "date": "2026-10-05T19:16:50.340Z",
+    "type": "backlink-absent",
+    "id": "ChIJH5KebfgWrxIRH9BDCAD5NiM",
+    "nom": "Boulangerie Megardon Jean Marc Jean Marc",
+    "url": null,
+    "precedent": "en-attente"
+  },
+  {
+    "date": "2026-10-05T19:16:50.387Z",
+    "type": "backlink-absent",
+    "id": "ChIJG6E2W7Jt5kcRmMm0Vl_ZoNs",
+    "nom": "Hermès Logistique",
+    "url": null,
+    "precedent": "en-attente"
+  },
+  {
+    "date": "2026-10-05T19:16:50.436Z",
+    "type": "backlink-absent",
+    "id": "ChIJx8U2F4egk0cR2gx-FEoZADQ",
+    "nom": "Pharmacie Lafayette des 4 Nations",
+    "url": null,
+    "precedent": "en-attente"
+  },
+  {
+    "date": "2026-10-05T19:16:50.486Z",
+    "type": "backlink-absent",
+    "id": "ChIJxzVqJ9ExB0gRKyIR05VVuxk",
+    "nom": "Pharmacie Saint Florent",
+    "url": null,
+    "precedent": "en-attente"
+  },
+  {
+    "date": "2026-10-05T19:16:50.536Z",
+    "type": "backlink-absent",
+    "id": "ChIJgcMauUlz5kcRj_RJCBAdJUI",
+    "nom": "Tabac Montaigut",
+    "url": null,
+    "precedent": "en-attente"
+  },
+  {
+    "date": "2026-10-05T19:16:51.681Z",
+    "type": "backlink-present",
+    "id": "ChIJ8yPrEzRtsxIReLOidaQGZkY",
+    "nom": "GGA 48 CONCESSION FIAT ALFA JEEP ABARTH",
+    "url": "https://andpro.fr/vitrine-locale/garages-automobile/mende/gga-48-concession-fiat-alfa-jeep-abarth/",
+    "precedent": "absent"
+  },
+  {
+    "date": "2026-10-05T19:16:50.105Z",
+    "type": "publication",
+    "id": "ChIJxzVqJ9ExB0gRKyIR05VVuxk",
+    "nom": "Pharmacie Saint Florent",
+    "url": "/pharmacies-opticiens/niort/pharmacie-saint-florent/",
+    "categorie": "pharmacies-opticiens",
+    "source": "google-places"
+  },
+  {
+    "date": "2026-10-05T19:16:50.105Z",
+    "type": "publication",
+    "id": "ChIJx8U2F4egk0cR2gx-FEoZADQ",
+    "nom": "Pharmacie Lafayette des 4 Nations",
+    "url": "/pharmacies-opticiens/epinal/pharmacie-lafayette-des-4-nations/",
+    "categorie": "pharmacies-opticiens",
+    "source": "google-places"
+  },
+  {
+    "date": "2026-10-05T19:16:50.106Z",
+    "type": "publication",
+    "id": "ChIJG6E2W7Jt5kcRmMm0Vl_ZoNs",
+    "nom": "Hermès Logistique",
+    "url": "/transport-demenagement/bobigny/hermes-logistique/",
+    "categorie": "transport-demenagement",
+    "source": "google-places"
+  },
+  {
+    "date": "2026-10-05T19:16:50.106Z",
+    "type": "publication",
+    "id": "ChIJgcMauUlz5kcRj_RJCBAdJUI",
+    "nom": "Tabac Montaigut",
+    "url": "/transport-demenagement/creteil/tabac-montaigut/",
+    "categorie": "transport-demenagement",
+    "source": "google-places"
+  },
+  {
+    "date": "2026-10-05T19:16:50.106Z",
+    "type": "publication",
+    "id": "ChIJH5KebfgWrxIRH9BDCAD5NiM",
+    "nom": "Boulangerie Megardon Jean Marc Jean Marc",
+    "url": "/boulangeries-patisseries/saint-pierre-de-riviere/boulangerie-megardon-jean-marc-jean-marc/",
+    "categorie": "boulangeries-patisseries",
+    "source": "google-places"
+  },
+  {
     "date": "2026-10-05T12:13:44.454Z",
     "type": "suggestion-soumise",
     "id": "ChIJu8FLkUyL-EcRQzDLlW7Ta-c",

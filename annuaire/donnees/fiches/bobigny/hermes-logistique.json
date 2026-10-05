@@ -1,0 +1,125 @@
+{
+  "id": "ChIJG6E2W7Jt5kcRmMm0Vl_ZoNs",
+  "slug": "hermes-logistique",
+  "nom": "Hermès Logistique",
+  "categorie": "transport-demenagement",
+  "categorie_gmb": "Stockage",
+  "type_principal": "storage",
+  "types": [
+    "storage",
+    "point_of_interest",
+    "service",
+    "establishment"
+  ],
+  "ville": "Bobigny",
+  "ville_slug": "bobigny",
+  "adresse": {
+    "rue": "7 Rue de la Convention",
+    "code_postal": "93000",
+    "departement": "93",
+    "region": "Île-de-France",
+    "pays": "France",
+    "complete": "1 a, 7 Rue de la Convention, 93000 Bobigny"
+  },
+  "telephone": "",
+  "geo": {
+    "latitude": 48.9160919,
+    "longitude": 2.4196674
+  },
+  "note": 4.2,
+  "avis": 64,
+  "horaires": null,
+  "attributs": [
+    "Entrée accessible en fauteuil roulant",
+    "Parking accessible en fauteuil roulant"
+  ],
+  "lien_google": "https://maps.google.com/?cid=15825888094079732120&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
+  "site_web_gmb": null,
+  "statut": "publiee",
+  "backlink": {
+    "etat": "absent",
+    "premiere_detection": null,
+    "derniere_detection": null,
+    "derniere_verification": "2026-10-05T19:16:50.211Z",
+    "echecs": 1,
+    "url_detectee": null
+  },
+  "suggestion": {
+    "etat": "en-attente",
+    "date_soumission": null,
+    "tentatives": 0,
+    "date_email": "2026-10-05"
+  },
+  "retrait": null,
+  "dates": {
+    "collecte": "2026-10-05",
+    "publication": "2026-10-05",
+    "maj": "2026-10-05"
+  },
+  "source": "google-places",
+  "redaction": {
+    "titre": "Hermès Logistique — Transport et déménagement à Bobigny",
+    "meta_titre": "Hermès Logistique, transport et déménagement à Bobigny",
+    "meta_description": "Hermès Logistique, transport et déménagement à Bobigny (7 Rue de la Convention) : adresse, horaires et informations pratiques.",
+    "chapo": "Hermès Logistique exerce l'activité de transport et déménagement au 7 Rue de la Convention, à Bobigny. Faute de site internet déclaré sur sa fiche Google, l'entreprise reste difficile à trouver en dehors des cartes. Cette page comble ce manque avec des données factuelles et datées.",
+    "sections": [
+      {
+        "id": "presentation",
+        "titre": "Hermès Logistique en quelques mots",
+        "paragraphes": [
+          "À Bobigny, les recherches du type « transport et déménagement près de chez moi » se concluent le plus souvent par un appel ou une visite directe.",
+          "Déménagement, course urgente, transport de personnes : des services décidés rapidement et comparés sur la disponibilité. La fiche rassemble la zone couverte, les moyens et le contact direct, sans passer par une place de marché."
+        ]
+      },
+      {
+        "id": "acces",
+        "titre": "Adresse et accès",
+        "paragraphes": [
+          "L'établissement est situé au 7 Rue de la Convention, 93000 Bobigny.",
+          "Coordonnées géographiques : 48.91609, 2.41967. Le lien d'itinéraire ci-dessous ouvre directement la navigation."
+        ]
+      },
+      {
+        "id": "contact",
+        "titre": "Contacter Hermès Logistique",
+        "paragraphes": [
+          "Aucun numéro de téléphone n'est déclaré sur la fiche Google de l'établissement : le contact se fait sur place, aux horaires indiqués.",
+          "Si vous dirigez cette entreprise, vous pouvez demander la correction ou le retrait de cette page à tout moment, sans justification."
+        ]
+      },
+      {
+        "id": "avis",
+        "titre": "La réputation de Hermès Logistique",
+        "paragraphes": [
+          "Au relevé du 5 octobre 2026, l'établissement affichait une note de 4,2 sur 5 sur Google, calculée à partir de 64 avis. Cette note évolue en permanence : elle est indiquée ici à titre d'information et n'est pas retraitée.",
+          "Les avis appartiennent à Google et se consultent sur la fiche d'origine, dont le lien figure sur cette page."
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "q": "Où se trouve Hermès Logistique ?",
+        "r": "Hermès Logistique se trouve 1 a, 7 Rue de la Convention, 93000 Bobigny. Un lien d'itinéraire est disponible sur cette page."
+      },
+      {
+        "q": "Hermès Logistique a-t-il un site internet ?",
+        "r": "Non : aucune adresse de site web n'est déclarée sur la fiche Google de Hermès Logistique au 5 octobre 2026. Cette page tient lieu de référence publique en attendant, le cas échéant, la création d'un site propre à l'entreprise."
+      },
+      {
+        "q": "Hermès Logistique est-il accessible aux personnes à mobilité réduite ?",
+        "r": "La fiche Google de l'établissement mentionne : « Entrée accessible en fauteuil roulant ». Cette information est déclarative ; en cas de doute, vérifiez par téléphone."
+      }
+    ],
+    "genere_le": "2026-10-05"
+  },
+  "statut_google": "OPERATIONAL",
+  "audience": {
+    "clics": 0,
+    "impressions": null,
+    "position": null,
+    "visites": 0,
+    "fenetreJours": 90,
+    "source": "visites",
+    "date": "2026-10-05"
+  }
+}
