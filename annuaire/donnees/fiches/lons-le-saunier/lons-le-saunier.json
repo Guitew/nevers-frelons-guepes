@@ -28,7 +28,7 @@
     "longitude": 5.550796
   },
   "note": 4.4,
-  "avis": 90,
+  "avis": 91,
   "horaires": null,
   "attributs": [
     "Entrée accessible en fauteuil roulant",
@@ -41,8 +41,8 @@
     "etat": "absent",
     "premiere_detection": null,
     "derniere_detection": null,
-    "derniere_verification": "2026-10-04T11:05:02.987Z",
-    "echecs": 44,
+    "derniere_verification": "2026-10-05T12:13:26.037Z",
+    "echecs": 45,
     "url_detectee": null
   },
   "suggestion": {
@@ -55,7 +55,7 @@
   "dates": {
     "collecte": "2026-09-09",
     "publication": "2026-09-09",
-    "maj": "2026-10-04"
+    "maj": "2026-10-05"
   },
   "source": "google-places",
   "redaction": {
@@ -121,6 +121,6 @@
     "visites": 0,
     "fenetreJours": 90,
     "source": "visites",
-    "date": "2026-10-04"
+    "date": "2026-10-05"
   }
 }

@@ -1,5 +1,104 @@
 [
   {
+    "date": "2026-10-05T12:13:44.454Z",
+    "type": "suggestion-soumise",
+    "id": "ChIJu8FLkUyL-EcRQzDLlW7Ta-c",
+    "nom": "Salle de l'Auzelou",
+    "url": "/hebergement/tulle/salle-de-l-auzelou/"
+  },
+  {
+    "date": "2026-10-05T12:13:44.432Z",
+    "type": "suggestion-soumise",
+    "id": "ChIJ8yPrEzRtsxIReLOidaQGZkY",
+    "nom": "GGA 48 CONCESSION FIAT ALFA JEEP ABARTH",
+    "url": "/garages-automobile/mende/gga-48-concession-fiat-alfa-jeep-abarth/"
+  },
+  {
+    "date": "2026-10-05T12:13:26.161Z",
+    "type": "backlink-absent",
+    "id": "ChIJrTJHxnN660cROarn0DRBCYg",
+    "nom": "Clinique Vétérinaire AniCura De La Saulx - la Chênaie",
+    "url": null,
+    "precedent": "en-attente"
+  },
+  {
+    "date": "2026-10-05T12:13:26.265Z",
+    "type": "backlink-absent",
+    "id": "ChIJjQQ0B23l7EcRAeQ-TVFzbpk",
+    "nom": "De Backer Damien et Desbarax Vincent",
+    "url": null,
+    "precedent": "en-attente"
+  },
+  {
+    "date": "2026-10-05T12:13:26.347Z",
+    "type": "backlink-absent",
+    "id": "ChIJDeSRjKsG50cRgyGwdJTZNVs",
+    "nom": "Eco pneus",
+    "url": null,
+    "precedent": "en-attente"
+  },
+  {
+    "date": "2026-10-05T12:13:26.428Z",
+    "type": "backlink-absent",
+    "id": "ChIJScQwUNyP4kcRyyqgtr3sQvM",
+    "nom": "Gare le Mans Taxis",
+    "url": null,
+    "precedent": "en-attente"
+  },
+  {
+    "date": "2026-10-05T12:13:26.501Z",
+    "type": "backlink-absent",
+    "id": "ChIJc8neiDff60cR-maGUB3ZkW4",
+    "nom": "Geodis walbaum",
+    "url": null,
+    "precedent": "en-attente"
+  },
+  {
+    "date": "2026-10-05T12:13:25.947Z",
+    "type": "publication",
+    "id": "ChIJc8neiDff60cR-maGUB3ZkW4",
+    "nom": "Geodis walbaum",
+    "url": "/transport-demenagement/chalons-en-champagne/geodis-walbaum/",
+    "categorie": "transport-demenagement",
+    "source": "google-places"
+  },
+  {
+    "date": "2026-10-05T12:13:25.948Z",
+    "type": "publication",
+    "id": "ChIJjQQ0B23l7EcRAeQ-TVFzbpk",
+    "nom": "De Backer Damien et Desbarax Vincent",
+    "url": "/veterinaires-animaux/chaumont/de-backer-damien-et-desbarax-vincent/",
+    "categorie": "veterinaires-animaux",
+    "source": "google-places"
+  },
+  {
+    "date": "2026-10-05T12:13:25.948Z",
+    "type": "publication",
+    "id": "ChIJrTJHxnN660cROarn0DRBCYg",
+    "nom": "Clinique Vétérinaire AniCura De La Saulx - la Chênaie",
+    "url": "/veterinaires-animaux/bar-le-duc/clinique-veterinaire-anicura-de-la-saulx-la-chenaie/",
+    "categorie": "veterinaires-animaux",
+    "source": "google-places"
+  },
+  {
+    "date": "2026-10-05T12:13:25.949Z",
+    "type": "publication",
+    "id": "ChIJDeSRjKsG50cRgyGwdJTZNVs",
+    "nom": "Eco pneus",
+    "url": "/garages-automobile/beauvais/eco-pneus/",
+    "categorie": "garages-automobile",
+    "source": "google-places"
+  },
+  {
+    "date": "2026-10-05T12:13:25.949Z",
+    "type": "publication",
+    "id": "ChIJScQwUNyP4kcRyyqgtr3sQvM",
+    "nom": "Gare le Mans Taxis",
+    "url": "/transport-demenagement/le-mans/gare-le-mans-taxis/",
+    "categorie": "transport-demenagement",
+    "source": "google-places"
+  },
+  {
     "date": "2026-10-04T15:20:08.616Z",
     "type": "backlink-absent",
     "id": "ChIJD1136puWC0gR5qan0GNay-w",
