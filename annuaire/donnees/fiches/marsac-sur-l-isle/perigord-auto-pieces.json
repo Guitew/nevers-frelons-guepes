@@ -1,0 +1,222 @@
+{
+  "id": "ChIJveA2Td12_0cRFedfN9dzZbM",
+  "slug": "perigord-auto-pieces",
+  "nom": "PERIGORD AUTO PIECES",
+  "categorie": "garages-automobile",
+  "categorie_gmb": "Magasin de pièces de rechange automobiles",
+  "type_principal": "auto_parts_store",
+  "types": [
+    "auto_parts_store",
+    "car_repair",
+    "store",
+    "point_of_interest",
+    "service",
+    "establishment"
+  ],
+  "ville": "Marsac-sur-l'Isle",
+  "ville_slug": "marsac-sur-l-isle",
+  "adresse": {
+    "rue": "4 Avenue du Château",
+    "code_postal": "24430",
+    "departement": "24",
+    "region": "Nouvelle-Aquitaine",
+    "pays": "France",
+    "complete": "4 Av. du Château, 24430 Marsac-sur-l'Isle"
+  },
+  "telephone": "05 53 02 45 90",
+  "geo": {
+    "latitude": 45.194097799999994,
+    "longitude": 0.6634812
+  },
+  "note": 4.2,
+  "avis": 135,
+  "horaires": [
+    {
+      "jour": 0,
+      "ferme": false,
+      "creneaux": [
+        [
+          "08:00",
+          "12:00"
+        ],
+        [
+          "14:00",
+          "19:00"
+        ]
+      ]
+    },
+    {
+      "jour": 1,
+      "ferme": false,
+      "creneaux": [
+        [
+          "08:00",
+          "12:00"
+        ],
+        [
+          "14:00",
+          "19:00"
+        ]
+      ]
+    },
+    {
+      "jour": 2,
+      "ferme": false,
+      "creneaux": [
+        [
+          "08:00",
+          "12:00"
+        ],
+        [
+          "14:00",
+          "19:00"
+        ]
+      ]
+    },
+    {
+      "jour": 3,
+      "ferme": false,
+      "creneaux": [
+        [
+          "08:00",
+          "12:00"
+        ],
+        [
+          "14:00",
+          "19:00"
+        ]
+      ]
+    },
+    {
+      "jour": 4,
+      "ferme": false,
+      "creneaux": [
+        [
+          "08:00",
+          "12:00"
+        ],
+        [
+          "14:00",
+          "19:00"
+        ]
+      ]
+    },
+    {
+      "jour": 5,
+      "ferme": false,
+      "creneaux": [
+        [
+          "08:00",
+          "13:00"
+        ]
+      ]
+    },
+    {
+      "jour": 6,
+      "ferme": true,
+      "creneaux": []
+    }
+  ],
+  "attributs": [
+    "Entrée accessible en fauteuil roulant",
+    "Parking accessible en fauteuil roulant"
+  ],
+  "lien_google": "https://maps.google.com/?cid=12926865673621071637&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
+  "site_web_gmb": null,
+  "statut": "publiee",
+  "backlink": {
+    "etat": "absent",
+    "premiere_detection": null,
+    "derniere_detection": null,
+    "derniere_verification": "2026-10-06T11:59:42.590Z",
+    "echecs": 1,
+    "url_detectee": null
+  },
+  "suggestion": {
+    "etat": "en-attente",
+    "date_soumission": null,
+    "tentatives": 0,
+    "date_email": "2026-10-06"
+  },
+  "retrait": null,
+  "dates": {
+    "collecte": "2026-10-06",
+    "publication": "2026-10-06",
+    "maj": "2026-10-06"
+  },
+  "source": "google-places",
+  "redaction": {
+    "titre": "PERIGORD AUTO PIECES — Garage et automobile à Marsac-sur-l'Isle",
+    "meta_titre": "PERIGORD AUTO PIECES, garage et automobile à…",
+    "meta_description": "PERIGORD AUTO PIECES, garage et automobile à Marsac-sur-l'Isle (4 Avenue du Château) : adresse, horaires, téléphone et informations pratiques.",
+    "chapo": "PERIGORD AUTO PIECES figure parmi les établissements de la catégorie « Garage et automobile » recensés à Marsac-sur-l'Isle. L'entreprise n'a pas de site web référencé sur sa fiche Google. Les éléments présentés ici — adresse, horaires, contact — proviennent de cette fiche et sont datés de leur relevé.",
+    "sections": [
+      {
+        "id": "presentation",
+        "titre": "PERIGORD AUTO PIECES en quelques mots",
+        "paragraphes": [
+          "À Marsac-sur-l'Isle, les recherches du type « garage et automobile près de chez moi » se concluent le plus souvent par un appel ou une visite directe.",
+          "Entretien, réparation, contrôle technique : l'automobiliste choisit d'abord un garage proche et disponible. Ces entreprises travaillent à flux tendu et délaissent presque toujours la création d'un site, malgré une demande de recherche locale considérable.",
+          "D'après le relevé du 6 octobre 2026, l'établissement est ouvert tous les jours sauf le dimanche. Le détail jour par jour figure plus bas."
+        ]
+      },
+      {
+        "id": "acces",
+        "titre": "Adresse et accès",
+        "paragraphes": [
+          "L'établissement est situé au 4 Avenue du Château, 24430 Marsac-sur-l'Isle.",
+          "Coordonnées géographiques : 45.19410, 0.66348. Le lien d'itinéraire ci-dessous ouvre directement la navigation."
+        ]
+      },
+      {
+        "id": "contact",
+        "titre": "Contacter PERIGORD AUTO PIECES",
+        "paragraphes": [
+          "Le contact se fait par téléphone au 05 53 02 45 90. C'est le seul moyen de communication déclaré sur la fiche Google de l'entreprise, avec la visite sur place.",
+          "Si vous dirigez cette entreprise, vous pouvez demander la correction ou le retrait de cette page à tout moment, sans justification."
+        ]
+      },
+      {
+        "id": "avis",
+        "titre": "La réputation de PERIGORD AUTO PIECES",
+        "paragraphes": [
+          "Au relevé du 6 octobre 2026, l'établissement affichait une note de 4,2 sur 5 sur Google, calculée à partir de 135 avis. Cette note évolue en permanence : elle est indiquée ici à titre d'information et n'est pas retraitée.",
+          "Les avis appartiennent à Google et se consultent sur la fiche d'origine, dont le lien figure sur cette page."
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "q": "Quels sont les horaires de PERIGORD AUTO PIECES ?",
+        "r": "Au relevé du 6 octobre 2026, PERIGORD AUTO PIECES était ouvert tous les jours sauf le dimanche. Dans le détail — lundi : de 8 h à 12 h et de 14 h à 19 h ; mardi : de 8 h à 12 h et de 14 h à 19 h ; mercredi : de 8 h à 12 h et de 14 h à 19 h ; jeudi : de 8 h à 12 h et de 14 h à 19 h ; vendredi : de 8 h à 12 h et de 14 h à 19 h ; samedi : de 8 h à 13 h ; dimanche : fermé. Ces horaires peuvent changer : un appel préalable reste conseillé."
+      },
+      {
+        "q": "Où se trouve PERIGORD AUTO PIECES ?",
+        "r": "PERIGORD AUTO PIECES se trouve 4 Av. du Château, 24430 Marsac-sur-l'Isle. Un lien d'itinéraire est disponible sur cette page."
+      },
+      {
+        "q": "Comment contacter PERIGORD AUTO PIECES ?",
+        "r": "Par téléphone au 05 53 02 45 90, ou directement sur place aux heures d'ouverture."
+      },
+      {
+        "q": "PERIGORD AUTO PIECES a-t-il un site internet ?",
+        "r": "Non : aucune adresse de site web n'est déclarée sur la fiche Google de PERIGORD AUTO PIECES au 6 octobre 2026. Cette page tient lieu de référence publique en attendant, le cas échéant, la création d'un site propre à l'entreprise."
+      },
+      {
+        "q": "PERIGORD AUTO PIECES est-il accessible aux personnes à mobilité réduite ?",
+        "r": "La fiche Google de l'établissement mentionne : « Entrée accessible en fauteuil roulant ». Cette information est déclarative ; en cas de doute, vérifiez par téléphone."
+      }
+    ],
+    "genere_le": "2026-10-06"
+  },
+  "statut_google": "OPERATIONAL",
+  "audience": {
+    "clics": 0,
+    "impressions": null,
+    "position": null,
+    "visites": 0,
+    "fenetreJours": 90,
+    "source": "visites",
+    "date": "2026-10-06"
+  }
+}

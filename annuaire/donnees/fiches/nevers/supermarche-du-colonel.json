@@ -114,15 +114,15 @@
     "etat": "absent",
     "premiere_detection": null,
     "derniere_detection": null,
-    "derniere_verification": "2026-10-05T12:13:26.037Z",
-    "echecs": 59,
+    "derniere_verification": "2026-10-06T11:59:42.590Z",
+    "echecs": 60,
     "url_detectee": null
   },
   "retrait": null,
   "dates": {
     "collecte": "2026-08-30",
     "publication": "2026-08-30",
-    "maj": "2026-10-05"
+    "maj": "2026-10-06"
   },
   "source": "google-places",
   "redaction": {
@@ -202,6 +202,6 @@
     "visites": 2,
     "fenetreJours": 90,
     "source": "visites",
-    "date": "2026-10-05"
+    "date": "2026-10-06"
   }
 }
