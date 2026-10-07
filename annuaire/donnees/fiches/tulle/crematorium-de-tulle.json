@@ -121,15 +121,15 @@
     "Places assises accessibles en fauteuil roulant"
   ],
   "lien_google": "https://maps.google.com/?cid=6806001400621006983&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
-  "site_web_gmb": null,
+  "site_web_gmb": "https://tulle.groupe-crematoriums.fr/",
   "statut": "publiee",
   "backlink": {
-    "etat": "absent",
+    "etat": "externe",
     "premiere_detection": null,
     "derniere_detection": null,
-    "derniere_verification": "2026-10-06T16:46:21.962Z",
-    "echecs": 67,
-    "url_detectee": null
+    "derniere_verification": "2026-10-07T17:24:37.093Z",
+    "echecs": 68,
+    "url_detectee": "https://tulle.groupe-crematoriums.fr/"
   },
   "suggestion": {
     "etat": "en-attente",
@@ -141,7 +141,7 @@
   "dates": {
     "collecte": "2026-09-02",
     "publication": "2026-09-02",
-    "maj": "2026-10-06"
+    "maj": "2026-10-07"
   },
   "source": "google-places",
   "redaction": {

@@ -1,0 +1,131 @@
+{
+  "id": "ChIJNWnocgSY7kcRuj1YaNFVRBI",
+  "slug": "rubino-transports",
+  "nom": "Rubino Transports",
+  "categorie": "transport-demenagement",
+  "categorie_gmb": "Entreprise de déménagement",
+  "type_principal": "moving_company",
+  "types": [
+    "shipping_service",
+    "moving_company",
+    "transportation_service",
+    "service",
+    "point_of_interest",
+    "establishment"
+  ],
+  "ville": "Sainte-Savine",
+  "ville_slug": "sainte-savine",
+  "adresse": {
+    "rue": "50 Rue de Stockholm",
+    "code_postal": "10300",
+    "departement": "10",
+    "region": "Grand Est",
+    "pays": "France",
+    "complete": "50 Rue de Stockholm, 10300 Sainte-Savine"
+  },
+  "telephone": "03 25 72 33 36",
+  "geo": {
+    "latitude": 48.297909999999995,
+    "longitude": 4.002199
+  },
+  "note": 4.4,
+  "avis": 32,
+  "horaires": null,
+  "attributs": [
+    "Entrée accessible en fauteuil roulant",
+    "Parking accessible en fauteuil roulant"
+  ],
+  "lien_google": "https://maps.google.com/?cid=1316271348986166714&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
+  "site_web_gmb": null,
+  "statut": "publiee",
+  "backlink": {
+    "etat": "absent",
+    "premiere_detection": null,
+    "derniere_detection": null,
+    "derniere_verification": "2026-10-07T17:24:37.093Z",
+    "echecs": 1,
+    "url_detectee": null
+  },
+  "suggestion": {
+    "etat": "en-attente",
+    "date_soumission": null,
+    "tentatives": 0,
+    "date_email": "2026-10-07"
+  },
+  "retrait": null,
+  "dates": {
+    "collecte": "2026-10-07",
+    "publication": "2026-10-07",
+    "maj": "2026-10-07"
+  },
+  "source": "google-places",
+  "redaction": {
+    "titre": "Rubino Transports — Transport et déménagement à Sainte-Savine",
+    "meta_titre": "Rubino Transports, transport et déménagement à Sainte-Savine",
+    "meta_description": "Rubino Transports, transport et déménagement à Sainte-Savine (50 Rue de Stockholm) : adresse, horaires, téléphone et informations pratiques.",
+    "chapo": "Rubino Transports figure parmi les établissements de la catégorie « Transport et déménagement » recensés à Sainte-Savine. L'entreprise n'a pas de site web référencé sur sa fiche Google. Les éléments présentés ici — adresse, horaires, contact — proviennent de cette fiche et sont datés de leur relevé.",
+    "sections": [
+      {
+        "id": "presentation",
+        "titre": "Rubino Transports en quelques mots",
+        "paragraphes": [
+          "Le choix d'un transport et déménagement se joue sur trois critères : la proximité, les horaires et la facilité de contact.",
+          "Déménagement, course urgente, transport de personnes : des services décidés rapidement et comparés sur la disponibilité. La fiche rassemble la zone couverte, les moyens et le contact direct, sans passer par une place de marché."
+        ]
+      },
+      {
+        "id": "acces",
+        "titre": "Adresse et accès",
+        "paragraphes": [
+          "L'établissement est situé au 50 Rue de Stockholm, 10300 Sainte-Savine.",
+          "Coordonnées géographiques : 48.29791, 4.00220. Le lien d'itinéraire ci-dessous ouvre directement la navigation."
+        ]
+      },
+      {
+        "id": "contact",
+        "titre": "Contacter Rubino Transports",
+        "paragraphes": [
+          "Le contact se fait par téléphone au 03 25 72 33 36. C'est le seul moyen de communication déclaré sur la fiche Google de l'entreprise, avec la visite sur place.",
+          "Si vous dirigez cette entreprise, vous pouvez demander la correction ou le retrait de cette page à tout moment, sans justification."
+        ]
+      },
+      {
+        "id": "avis",
+        "titre": "La réputation de Rubino Transports",
+        "paragraphes": [
+          "Au relevé du 7 octobre 2026, l'établissement affichait une note de 4,4 sur 5 sur Google, calculée à partir de 32 avis. Cette note évolue en permanence : elle est indiquée ici à titre d'information et n'est pas retraitée.",
+          "Les avis appartiennent à Google et se consultent sur la fiche d'origine, dont le lien figure sur cette page."
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "q": "Où se trouve Rubino Transports ?",
+        "r": "Rubino Transports se trouve 50 Rue de Stockholm, 10300 Sainte-Savine. Un lien d'itinéraire est disponible sur cette page."
+      },
+      {
+        "q": "Comment contacter Rubino Transports ?",
+        "r": "Par téléphone au 03 25 72 33 36, ou directement sur place aux heures d'ouverture."
+      },
+      {
+        "q": "Rubino Transports a-t-il un site internet ?",
+        "r": "Non : aucune adresse de site web n'est déclarée sur la fiche Google de Rubino Transports au 7 octobre 2026. Cette page tient lieu de référence publique en attendant, le cas échéant, la création d'un site propre à l'entreprise."
+      },
+      {
+        "q": "Rubino Transports est-il accessible aux personnes à mobilité réduite ?",
+        "r": "La fiche Google de l'établissement mentionne : « Entrée accessible en fauteuil roulant ». Cette information est déclarative ; en cas de doute, vérifiez par téléphone."
+      }
+    ],
+    "genere_le": "2026-10-07"
+  },
+  "statut_google": "OPERATIONAL",
+  "audience": {
+    "clics": 0,
+    "impressions": null,
+    "position": null,
+    "visites": 0,
+    "fenetreJours": 90,
+    "source": "visites",
+    "date": "2026-10-07"
+  }
+}
