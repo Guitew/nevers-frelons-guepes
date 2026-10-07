@@ -1,5 +1,112 @@
 [
   {
+    "date": "2026-10-07T11:45:07.799Z",
+    "type": "suggestion-soumise",
+    "id": "ChIJlcgxGKEdEEgR4lsR6XG5h40",
+    "nom": "Embarcadère île d’arz",
+    "url": "/services-aux-particuliers/vannes/embarcadere-ile-d-arz/"
+  },
+  {
+    "date": "2026-10-07T11:45:07.774Z",
+    "type": "suggestion-soumise",
+    "id": "ChIJmZemOMdA4UcRh3wJhMbYMCE",
+    "nom": "Ferme de Navarre",
+    "url": "/commerces-alimentation/evreux/ferme-de-navarre/"
+  },
+  {
+    "date": "2026-10-07T11:44:50.623Z",
+    "type": "backlink-absent",
+    "id": "ChIJBT41-jzc4EcRHz5rkA0hLfI",
+    "nom": "Cocci Market",
+    "url": null,
+    "precedent": "en-attente"
+  },
+  {
+    "date": "2026-10-07T11:44:50.704Z",
+    "type": "backlink-absent",
+    "id": "ChIJNbyfcdBO7kcRWLv-DmjyaII",
+    "nom": "Hal'prim iaad",
+    "url": null,
+    "precedent": "en-attente"
+  },
+  {
+    "date": "2026-10-07T11:44:50.869Z",
+    "type": "backlink-absent",
+    "id": "ChIJ_aWIoYkEyRIRZqVW7XCBEzk",
+    "nom": "Le Palais D'or",
+    "url": null,
+    "precedent": "en-attente"
+  },
+  {
+    "date": "2026-10-07T11:44:50.949Z",
+    "type": "backlink-absent",
+    "id": "ChIJc4cTn-7ttRIRumGhmYm8p0E",
+    "nom": "Le pontet",
+    "url": null,
+    "precedent": "en-attente"
+  },
+  {
+    "date": "2026-10-07T11:44:51.109Z",
+    "type": "backlink-absent",
+    "id": "ChIJv-zWlT_x5UcRKHuQKnWIP44",
+    "nom": "MarkaMarket Dammarie-Les-Lys",
+    "url": null,
+    "precedent": "en-attente"
+  },
+  {
+    "date": "2026-10-07T11:44:52.296Z",
+    "type": "backlink-externe",
+    "id": "ChIJOU9wqUws_kcRl7RDVhtkZMk",
+    "nom": "Crématorium d'Angoulême",
+    "url": "https://angouleme.groupe-crematoriums.fr/",
+    "precedent": "absent"
+  },
+  {
+    "date": "2026-10-07T11:44:50.213Z",
+    "type": "publication",
+    "id": "ChIJBT41-jzc4EcRHz5rkA0hLfI",
+    "nom": "Cocci Market",
+    "url": "/commerces-alimentation/bihorel/cocci-market/",
+    "categorie": "commerces-alimentation",
+    "source": "google-places"
+  },
+  {
+    "date": "2026-10-07T11:44:50.214Z",
+    "type": "publication",
+    "id": "ChIJ_aWIoYkEyRIRZqVW7XCBEzk",
+    "nom": "Le Palais D'or",
+    "url": "/restaurants/la-seyne-sur-mer/le-palais-d-or/",
+    "categorie": "restaurants",
+    "source": "google-places"
+  },
+  {
+    "date": "2026-10-07T11:44:50.214Z",
+    "type": "publication",
+    "id": "ChIJv-zWlT_x5UcRKHuQKnWIP44",
+    "nom": "MarkaMarket Dammarie-Les-Lys",
+    "url": "/commerces-alimentation/dammarie-les-lys/markamarket-dammarie-les-lys/",
+    "categorie": "commerces-alimentation",
+    "source": "google-places"
+  },
+  {
+    "date": "2026-10-07T11:44:50.214Z",
+    "type": "publication",
+    "id": "ChIJc4cTn-7ttRIRumGhmYm8p0E",
+    "nom": "Le pontet",
+    "url": "/commerces-alimentation/avignon/le-pontet/",
+    "categorie": "commerces-alimentation",
+    "source": "google-places"
+  },
+  {
+    "date": "2026-10-07T11:44:50.215Z",
+    "type": "publication",
+    "id": "ChIJNbyfcdBO7kcRWLv-DmjyaII",
+    "nom": "Hal'prim iaad",
+    "url": "/commerces-alimentation/auxerre/hal-prim-iaad/",
+    "categorie": "commerces-alimentation",
+    "source": "google-places"
+  },
+  {
     "date": "2026-10-06T16:46:32.346Z",
     "type": "suggestion-soumise",
     "id": "ChIJvcCWluNtsBIRYScZxAbEtxQ",

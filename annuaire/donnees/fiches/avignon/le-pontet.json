@@ -1,0 +1,129 @@
+{
+  "id": "ChIJc4cTn-7ttRIRumGhmYm8p0E",
+  "slug": "le-pontet",
+  "nom": "Le pontet",
+  "categorie": "commerces-alimentation",
+  "categorie_gmb": "Boucherie",
+  "type_principal": "butcher_shop",
+  "types": [
+    "butcher_shop",
+    "food_store",
+    "manufacturer",
+    "store",
+    "service",
+    "point_of_interest",
+    "food",
+    "establishment"
+  ],
+  "ville": "Avignon",
+  "ville_slug": "avignon",
+  "adresse": {
+    "rue": "Route de Morières",
+    "code_postal": "84130",
+    "departement": "84",
+    "region": "Provence-Alpes-Côte d'Azur",
+    "pays": "France",
+    "complete": "Rte de Morières, 84130 Avignon"
+  },
+  "telephone": "",
+  "geo": {
+    "latitude": 43.9510235,
+    "longitude": 4.8588293
+  },
+  "note": 4,
+  "avis": 24,
+  "horaires": null,
+  "attributs": [
+    "Entrée accessible en fauteuil roulant",
+    "Parking accessible en fauteuil roulant"
+  ],
+  "lien_google": "https://maps.google.com/?cid=4730957232750027194&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
+  "site_web_gmb": null,
+  "statut": "publiee",
+  "backlink": {
+    "etat": "absent",
+    "premiere_detection": null,
+    "derniere_detection": null,
+    "derniere_verification": "2026-10-07T11:44:50.320Z",
+    "echecs": 1,
+    "url_detectee": null
+  },
+  "suggestion": {
+    "etat": "en-attente",
+    "date_soumission": null,
+    "tentatives": 0,
+    "date_email": "2026-10-07"
+  },
+  "retrait": null,
+  "dates": {
+    "collecte": "2026-10-07",
+    "publication": "2026-10-07",
+    "maj": "2026-10-07"
+  },
+  "source": "google-places",
+  "redaction": {
+    "titre": "Le pontet — Commerce d'alimentation à Avignon",
+    "meta_titre": "Le pontet, commerce d'alimentation à Avignon",
+    "meta_description": "Le pontet, commerce d'alimentation à Avignon (Route de Morières) : adresse, horaires et informations pratiques.",
+    "chapo": "Le pontet est un commerce d'alimentation au Route de Morières, à Avignon. Aucune adresse web n'est renseignée sur sa fiche Google. Cette page rassemble donc, en un seul endroit stable, les informations que les clients recherchent avant de se déplacer.",
+    "sections": [
+      {
+        "id": "presentation",
+        "titre": "Le pontet en quelques mots",
+        "paragraphes": [
+          "Commerces et alimentation font partie des activités les plus consultées localement sur mobile.",
+          "Le commerce alimentaire de proximité redevient un réflexe, mais son information circule mal : jours de marché, produits de saison, vente directe. Cette fiche rassemble ce que le consommateur cherche avant de se déplacer."
+        ]
+      },
+      {
+        "id": "acces",
+        "titre": "Adresse et accès",
+        "paragraphes": [
+          "L'établissement est situé au Route de Morières, 84130 Avignon.",
+          "Coordonnées géographiques : 43.95102, 4.85883. Le lien d'itinéraire ci-dessous ouvre directement la navigation."
+        ]
+      },
+      {
+        "id": "contact",
+        "titre": "Contacter Le pontet",
+        "paragraphes": [
+          "Aucun numéro de téléphone n'est déclaré sur la fiche Google de l'établissement : le contact se fait sur place, aux horaires indiqués.",
+          "Si vous dirigez cette entreprise, vous pouvez demander la correction ou le retrait de cette page à tout moment, sans justification."
+        ]
+      },
+      {
+        "id": "avis",
+        "titre": "La réputation de Le pontet",
+        "paragraphes": [
+          "Au relevé du 7 octobre 2026, l'établissement affichait une note de 4 sur 5 sur Google, calculée à partir de 24 avis. Cette note évolue en permanence : elle est indiquée ici à titre d'information et n'est pas retraitée.",
+          "Les avis appartiennent à Google et se consultent sur la fiche d'origine, dont le lien figure sur cette page."
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "q": "Où se trouve Le pontet ?",
+        "r": "Le pontet se trouve Rte de Morières, 84130 Avignon. Un lien d'itinéraire est disponible sur cette page."
+      },
+      {
+        "q": "Le pontet a-t-il un site internet ?",
+        "r": "Non : aucune adresse de site web n'est déclarée sur la fiche Google de Le pontet au 7 octobre 2026. Cette page tient lieu de référence publique en attendant, le cas échéant, la création d'un site propre à l'entreprise."
+      },
+      {
+        "q": "Le pontet est-il accessible aux personnes à mobilité réduite ?",
+        "r": "La fiche Google de l'établissement mentionne : « Entrée accessible en fauteuil roulant ». Cette information est déclarative ; en cas de doute, vérifiez par téléphone."
+      }
+    ],
+    "genere_le": "2026-10-07"
+  },
+  "statut_google": "OPERATIONAL",
+  "audience": {
+    "clics": 0,
+    "impressions": null,
+    "position": null,
+    "visites": 0,
+    "fenetreJours": 90,
+    "source": "visites",
+    "date": "2026-10-07"
+  }
+}

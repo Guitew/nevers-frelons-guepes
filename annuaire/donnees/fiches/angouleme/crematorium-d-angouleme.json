@@ -116,15 +116,15 @@
     "Places assises accessibles en fauteuil roulant"
   ],
   "lien_google": "https://maps.google.com/?cid=14511833967868753047&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
-  "site_web_gmb": null,
+  "site_web_gmb": "https://angouleme.groupe-crematoriums.fr/",
   "statut": "publiee",
   "backlink": {
-    "etat": "absent",
+    "etat": "externe",
     "premiere_detection": null,
     "derniere_detection": null,
-    "derniere_verification": "2026-10-06T11:59:42.590Z",
-    "echecs": 16,
-    "url_detectee": null
+    "derniere_verification": "2026-10-07T11:44:50.320Z",
+    "echecs": 17,
+    "url_detectee": "https://angouleme.groupe-crematoriums.fr/"
   },
   "suggestion": {
     "etat": "en-attente",
@@ -136,7 +136,7 @@
   "dates": {
     "collecte": "2026-09-27",
     "publication": "2026-09-27",
-    "maj": "2026-10-06"
+    "maj": "2026-10-07"
   },
   "source": "google-places",
   "redaction": {
@@ -211,6 +211,6 @@
     "visites": 0,
     "fenetreJours": 90,
     "source": "visites",
-    "date": "2026-10-06"
+    "date": "2026-10-07"
   }
 }

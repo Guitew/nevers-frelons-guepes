@@ -1,0 +1,230 @@
+{
+  "id": "ChIJ_aWIoYkEyRIRZqVW7XCBEzk",
+  "slug": "le-palais-d-or",
+  "nom": "Le Palais D'or",
+  "categorie": "restaurants",
+  "categorie_gmb": "Restaurant chinois",
+  "type_principal": "chinese_restaurant",
+  "types": [
+    "chinese_restaurant",
+    "sushi_restaurant",
+    "buffet_restaurant",
+    "japanese_restaurant",
+    "restaurant",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "ville": "La Seyne-sur-Mer",
+  "ville_slug": "la-seyne-sur-mer",
+  "adresse": {
+    "rue": "Chemin du Floréal",
+    "code_postal": "83500",
+    "departement": "83",
+    "region": "Provence-Alpes-Côte d'Azur",
+    "pays": "France",
+    "complete": "Chem. du Floréal, 83500 La Seyne-sur-Mer"
+  },
+  "telephone": "04 98 07 88 88",
+  "geo": {
+    "latitude": 43.1155652,
+    "longitude": 5.8591771999999995
+  },
+  "note": 4.2,
+  "avis": 1827,
+  "horaires": [
+    {
+      "jour": 0,
+      "ferme": true,
+      "creneaux": []
+    },
+    {
+      "jour": 1,
+      "ferme": false,
+      "creneaux": [
+        [
+          "12:00",
+          "14:30"
+        ],
+        [
+          "19:00",
+          "22:30"
+        ]
+      ]
+    },
+    {
+      "jour": 2,
+      "ferme": false,
+      "creneaux": [
+        [
+          "12:00",
+          "14:30"
+        ],
+        [
+          "19:00",
+          "22:30"
+        ]
+      ]
+    },
+    {
+      "jour": 3,
+      "ferme": false,
+      "creneaux": [
+        [
+          "12:00",
+          "14:30"
+        ],
+        [
+          "19:00",
+          "22:30"
+        ]
+      ]
+    },
+    {
+      "jour": 4,
+      "ferme": false,
+      "creneaux": [
+        [
+          "12:00",
+          "14:30"
+        ],
+        [
+          "19:00",
+          "22:30"
+        ]
+      ]
+    },
+    {
+      "jour": 5,
+      "ferme": false,
+      "creneaux": [
+        [
+          "12:00",
+          "14:30"
+        ],
+        [
+          "19:00",
+          "22:30"
+        ]
+      ]
+    },
+    {
+      "jour": 6,
+      "ferme": false,
+      "creneaux": [
+        [
+          "12:00",
+          "14:30"
+        ],
+        [
+          "19:00",
+          "22:30"
+        ]
+      ]
+    }
+  ],
+  "attributs": [
+    "Entrée accessible en fauteuil roulant",
+    "Parking accessible en fauteuil roulant",
+    "Toilettes accessibles en fauteuil roulant",
+    "Places assises accessibles en fauteuil roulant"
+  ],
+  "lien_google": "https://maps.google.com/?cid=4112773206737593702&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
+  "site_web_gmb": null,
+  "statut": "publiee",
+  "backlink": {
+    "etat": "absent",
+    "premiere_detection": null,
+    "derniere_detection": null,
+    "derniere_verification": "2026-10-07T11:44:50.320Z",
+    "echecs": 1,
+    "url_detectee": null
+  },
+  "suggestion": {
+    "etat": "en-attente",
+    "date_soumission": null,
+    "tentatives": 0,
+    "date_email": "2026-10-07"
+  },
+  "retrait": null,
+  "dates": {
+    "collecte": "2026-10-07",
+    "publication": "2026-10-07",
+    "maj": "2026-10-07"
+  },
+  "source": "google-places",
+  "redaction": {
+    "titre": "Le Palais D'or — Restaurant à La Seyne-sur-Mer",
+    "meta_titre": "Le Palais D'or, restaurant à La Seyne-sur-Mer",
+    "meta_description": "Le Palais D'or, restaurant à La Seyne-sur-Mer (Chemin du Floréal) : adresse, horaires, téléphone et informations pratiques.",
+    "chapo": "Le Palais D'or est un restaurant au Chemin du Floréal, à La Seyne-sur-Mer. Aucune adresse web n'est renseignée sur sa fiche Google. Cette page rassemble donc, en un seul endroit stable, les informations que les clients recherchent avant de se déplacer.",
+    "sections": [
+      {
+        "id": "presentation",
+        "titre": "Le Palais D'or en quelques mots",
+        "paragraphes": [
+          "À La Seyne-sur-Mer, les recherches du type « restaurant près de chez moi » se concluent le plus souvent par un appel ou une visite directe.",
+          "Les restaurants figurent parmi les commerces les plus recherchés en ligne, et pourtant beaucoup n'exposent qu'une fiche Google sans site. Retrouver ici leur carte d'identité complète — adresse, horaires, téléphone, spécialités — aide les clients à réserver et aide l'établissement à exister ailleurs que sur une plateforme d'avis.",
+          "D'après le relevé du 7 octobre 2026, l'établissement est ouvert tous les jours sauf le lundi. Le détail jour par jour figure plus bas."
+        ]
+      },
+      {
+        "id": "acces",
+        "titre": "Adresse et accès",
+        "paragraphes": [
+          "L'établissement est situé au Chemin du Floréal, 83500 La Seyne-sur-Mer.",
+          "Coordonnées géographiques : 43.11557, 5.85918. Le lien d'itinéraire ci-dessous ouvre directement la navigation."
+        ]
+      },
+      {
+        "id": "contact",
+        "titre": "Contacter Le Palais D'or",
+        "paragraphes": [
+          "Le contact se fait par téléphone au 04 98 07 88 88. C'est le seul moyen de communication déclaré sur la fiche Google de l'entreprise, avec la visite sur place.",
+          "Si vous dirigez cette entreprise, vous pouvez demander la correction ou le retrait de cette page à tout moment, sans justification."
+        ]
+      },
+      {
+        "id": "avis",
+        "titre": "La réputation de Le Palais D'or",
+        "paragraphes": [
+          "Au relevé du 7 octobre 2026, l'établissement affichait une note de 4,2 sur 5 sur Google, calculée à partir de 1827 avis. Cette note évolue en permanence : elle est indiquée ici à titre d'information et n'est pas retraitée.",
+          "Les avis appartiennent à Google et se consultent sur la fiche d'origine, dont le lien figure sur cette page."
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "q": "Quels sont les horaires de Le Palais D'or ?",
+        "r": "Au relevé du 7 octobre 2026, Le Palais D'or était ouvert tous les jours sauf le lundi. Dans le détail — lundi : fermé ; mardi : de 12 h à 14 h 30 et de 19 h à 22 h 30 ; mercredi : de 12 h à 14 h 30 et de 19 h à 22 h 30 ; jeudi : de 12 h à 14 h 30 et de 19 h à 22 h 30 ; vendredi : de 12 h à 14 h 30 et de 19 h à 22 h 30 ; samedi : de 12 h à 14 h 30 et de 19 h à 22 h 30 ; dimanche : de 12 h à 14 h 30 et de 19 h à 22 h 30. Ces horaires peuvent changer : un appel préalable reste conseillé."
+      },
+      {
+        "q": "Où se trouve Le Palais D'or ?",
+        "r": "Le Palais D'or se trouve Chem. du Floréal, 83500 La Seyne-sur-Mer. Un lien d'itinéraire est disponible sur cette page."
+      },
+      {
+        "q": "Comment contacter Le Palais D'or ?",
+        "r": "Par téléphone au 04 98 07 88 88, ou directement sur place aux heures d'ouverture."
+      },
+      {
+        "q": "Le Palais D'or a-t-il un site internet ?",
+        "r": "Non : aucune adresse de site web n'est déclarée sur la fiche Google de Le Palais D'or au 7 octobre 2026. Cette page tient lieu de référence publique en attendant, le cas échéant, la création d'un site propre à l'entreprise."
+      },
+      {
+        "q": "Le Palais D'or est-il accessible aux personnes à mobilité réduite ?",
+        "r": "La fiche Google de l'établissement mentionne : « Entrée accessible en fauteuil roulant ». Cette information est déclarative ; en cas de doute, vérifiez par téléphone."
+      }
+    ],
+    "genere_le": "2026-10-07"
+  },
+  "statut_google": "OPERATIONAL",
+  "audience": {
+    "clics": 0,
+    "impressions": null,
+    "position": null,
+    "visites": 0,
+    "fenetreJours": 90,
+    "source": "visites",
+    "date": "2026-10-07"
+  }
+}
