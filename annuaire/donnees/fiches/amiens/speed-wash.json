@@ -1,0 +1,118 @@
+{
+  "id": "ChIJg7tpNYCD50cR02IN6XN6eNs",
+  "slug": "speed-wash",
+  "nom": "Speed Wash",
+  "categorie": "garages-automobile",
+  "categorie_gmb": "Station de lavage automobile",
+  "type_principal": "car_wash",
+  "types": [
+    "car_wash",
+    "service",
+    "point_of_interest",
+    "establishment"
+  ],
+  "ville": "Amiens",
+  "ville_slug": "amiens",
+  "adresse": {
+    "rue": "",
+    "code_postal": "80000",
+    "departement": "80",
+    "region": "Hauts-de-France",
+    "pays": "France",
+    "complete": "80000 Amiens, France"
+  },
+  "telephone": "",
+  "geo": {
+    "latitude": 49.8748995,
+    "longitude": 2.2646650999999998
+  },
+  "note": 3.8,
+  "avis": 98,
+  "horaires": null,
+  "attributs": [],
+  "lien_google": "https://maps.google.com/?cid=15814524729761293011&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
+  "site_web_gmb": null,
+  "statut": "publiee",
+  "backlink": {
+    "etat": "absent",
+    "premiere_detection": null,
+    "derniere_detection": null,
+    "derniere_verification": "2026-10-08T17:23:11.234Z",
+    "echecs": 1,
+    "url_detectee": null
+  },
+  "suggestion": {
+    "etat": "en-attente",
+    "date_soumission": null,
+    "tentatives": 0,
+    "date_email": "2026-10-08"
+  },
+  "retrait": null,
+  "dates": {
+    "collecte": "2026-10-08",
+    "publication": "2026-10-08",
+    "maj": "2026-10-08"
+  },
+  "source": "google-places",
+  "redaction": {
+    "titre": "Speed Wash — Garage et automobile à Amiens",
+    "meta_titre": "Speed Wash, garage et automobile à Amiens",
+    "meta_description": "Speed Wash, garage et automobile à Amiens : adresse, horaires et informations pratiques.",
+    "chapo": "Cette fiche présente Speed Wash, un garage et automobile à Amiens. Son établissement ne déclare aucun site internet sur sa fiche Google : les informations ci-dessous en tiennent lieu de référence publique, vérifiable et accessible à tous.",
+    "sections": [
+      {
+        "id": "presentation",
+        "titre": "Speed Wash en quelques mots",
+        "paragraphes": [
+          "Garages et services automobiles font partie des activités les plus consultées localement sur mobile.",
+          "Entretien, réparation, contrôle technique : l'automobiliste choisit d'abord un garage proche et disponible. Ces entreprises travaillent à flux tendu et délaissent presque toujours la création d'un site, malgré une demande de recherche locale considérable."
+        ]
+      },
+      {
+        "id": "acces",
+        "titre": "Adresse et accès",
+        "paragraphes": [
+          "L'établissement est situé, 80000 Amiens.",
+          "Coordonnées géographiques : 49.87490, 2.26467. Le lien d'itinéraire ci-dessous ouvre directement la navigation."
+        ]
+      },
+      {
+        "id": "contact",
+        "titre": "Contacter Speed Wash",
+        "paragraphes": [
+          "Aucun numéro de téléphone n'est déclaré sur la fiche Google de l'établissement : le contact se fait sur place, aux horaires indiqués.",
+          "Si vous dirigez cette entreprise, vous pouvez demander la correction ou le retrait de cette page à tout moment, sans justification."
+        ]
+      },
+      {
+        "id": "avis",
+        "titre": "La réputation de Speed Wash",
+        "paragraphes": [
+          "Au relevé du 8 octobre 2026, l'établissement affichait une note de 3,8 sur 5 sur Google, calculée à partir de 98 avis. Cette note évolue en permanence : elle est indiquée ici à titre d'information et n'est pas retraitée.",
+          "Les avis appartiennent à Google et se consultent sur la fiche d'origine, dont le lien figure sur cette page."
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "q": "Où se trouve Speed Wash ?",
+        "r": "Speed Wash se trouve 80000 Amiens, France. Un lien d'itinéraire est disponible sur cette page."
+      },
+      {
+        "q": "Speed Wash a-t-il un site internet ?",
+        "r": "Non : aucune adresse de site web n'est déclarée sur la fiche Google de Speed Wash au 8 octobre 2026. Cette page tient lieu de référence publique en attendant, le cas échéant, la création d'un site propre à l'entreprise."
+      }
+    ],
+    "genere_le": "2026-10-08"
+  },
+  "statut_google": "OPERATIONAL",
+  "audience": {
+    "clics": 0,
+    "impressions": null,
+    "position": null,
+    "visites": 0,
+    "fenetreJours": 90,
+    "source": "visites",
+    "date": "2026-10-08"
+  }
+}

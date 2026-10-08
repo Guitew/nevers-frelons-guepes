@@ -1,0 +1,131 @@
+{
+  "id": "ChIJgUMFJ4LorRIR0czPlFQASAM",
+  "slug": "transports-bernadou",
+  "nom": "Transports Bernadou",
+  "categorie": "transport-demenagement",
+  "categorie_gmb": "Entreprise de déménagement",
+  "type_principal": "moving_company",
+  "types": [
+    "moving_company",
+    "shipping_service",
+    "transportation_service",
+    "point_of_interest",
+    "service",
+    "establishment"
+  ],
+  "ville": "Albi",
+  "ville_slug": "albi",
+  "adresse": {
+    "rue": "47 Rue Philippe Lebon",
+    "code_postal": "81000",
+    "departement": "81",
+    "region": "Occitanie",
+    "pays": "France",
+    "complete": "47 Rue Philippe Lebon, 81000 Albi"
+  },
+  "telephone": "05 63 60 32 08",
+  "geo": {
+    "latitude": 43.9254342,
+    "longitude": 2.1889475
+  },
+  "note": 3.9,
+  "avis": 27,
+  "horaires": null,
+  "attributs": [
+    "Entrée accessible en fauteuil roulant",
+    "Parking accessible en fauteuil roulant"
+  ],
+  "lien_google": "https://maps.google.com/?cid=236439343710850257&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
+  "site_web_gmb": null,
+  "statut": "publiee",
+  "backlink": {
+    "etat": "absent",
+    "premiere_detection": null,
+    "derniere_detection": null,
+    "derniere_verification": "2026-10-08T17:23:11.234Z",
+    "echecs": 1,
+    "url_detectee": null
+  },
+  "suggestion": {
+    "etat": "en-attente",
+    "date_soumission": null,
+    "tentatives": 0,
+    "date_email": "2026-10-08"
+  },
+  "retrait": null,
+  "dates": {
+    "collecte": "2026-10-08",
+    "publication": "2026-10-08",
+    "maj": "2026-10-08"
+  },
+  "source": "google-places",
+  "redaction": {
+    "titre": "Transports Bernadou — Transport et déménagement à Albi",
+    "meta_titre": "Transports Bernadou, transport et déménagement à Albi",
+    "meta_description": "Transports Bernadou, transport et déménagement à Albi (47 Rue Philippe Lebon) : adresse, horaires, téléphone et informations pratiques.",
+    "chapo": "Transports Bernadou exerce l'activité de transport et déménagement au 47 Rue Philippe Lebon, à Albi. Faute de site internet déclaré sur sa fiche Google, l'entreprise reste difficile à trouver en dehors des cartes. Cette page comble ce manque avec des données factuelles et datées.",
+    "sections": [
+      {
+        "id": "presentation",
+        "titre": "Transports Bernadou en quelques mots",
+        "paragraphes": [
+          "Transport, déménagement et stockage font partie des activités les plus consultées localement sur mobile.",
+          "Déménagement, course urgente, transport de personnes : des services décidés rapidement et comparés sur la disponibilité. La fiche rassemble la zone couverte, les moyens et le contact direct, sans passer par une place de marché."
+        ]
+      },
+      {
+        "id": "acces",
+        "titre": "Adresse et accès",
+        "paragraphes": [
+          "L'établissement est situé au 47 Rue Philippe Lebon, 81000 Albi.",
+          "Coordonnées géographiques : 43.92543, 2.18895. Le lien d'itinéraire ci-dessous ouvre directement la navigation."
+        ]
+      },
+      {
+        "id": "contact",
+        "titre": "Contacter Transports Bernadou",
+        "paragraphes": [
+          "Le contact se fait par téléphone au 05 63 60 32 08. C'est le seul moyen de communication déclaré sur la fiche Google de l'entreprise, avec la visite sur place.",
+          "Si vous dirigez cette entreprise, vous pouvez demander la correction ou le retrait de cette page à tout moment, sans justification."
+        ]
+      },
+      {
+        "id": "avis",
+        "titre": "La réputation de Transports Bernadou",
+        "paragraphes": [
+          "Au relevé du 8 octobre 2026, l'établissement affichait une note de 3,9 sur 5 sur Google, calculée à partir de 27 avis. Cette note évolue en permanence : elle est indiquée ici à titre d'information et n'est pas retraitée.",
+          "Les avis appartiennent à Google et se consultent sur la fiche d'origine, dont le lien figure sur cette page."
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "q": "Où se trouve Transports Bernadou ?",
+        "r": "Transports Bernadou se trouve 47 Rue Philippe Lebon, 81000 Albi. Un lien d'itinéraire est disponible sur cette page."
+      },
+      {
+        "q": "Comment contacter Transports Bernadou ?",
+        "r": "Par téléphone au 05 63 60 32 08, ou directement sur place aux heures d'ouverture."
+      },
+      {
+        "q": "Transports Bernadou a-t-il un site internet ?",
+        "r": "Non : aucune adresse de site web n'est déclarée sur la fiche Google de Transports Bernadou au 8 octobre 2026. Cette page tient lieu de référence publique en attendant, le cas échéant, la création d'un site propre à l'entreprise."
+      },
+      {
+        "q": "Transports Bernadou est-il accessible aux personnes à mobilité réduite ?",
+        "r": "La fiche Google de l'établissement mentionne : « Entrée accessible en fauteuil roulant ». Cette information est déclarative ; en cas de doute, vérifiez par téléphone."
+      }
+    ],
+    "genere_le": "2026-10-08"
+  },
+  "statut_google": "OPERATIONAL",
+  "audience": {
+    "clics": 0,
+    "impressions": null,
+    "position": null,
+    "visites": 0,
+    "fenetreJours": 90,
+    "source": "visites",
+    "date": "2026-10-08"
+  }
+}
