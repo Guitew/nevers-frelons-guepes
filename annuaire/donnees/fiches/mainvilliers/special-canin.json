@@ -111,16 +111,16 @@
     "url_detectee": null
   },
   "suggestion": {
-    "etat": "en-attente",
-    "date_soumission": null,
-    "tentatives": 0,
+    "etat": "soumise",
+    "date_soumission": "2026-10-08",
+    "tentatives": 1,
     "date_email": "2026-10-07"
   },
   "retrait": null,
   "dates": {
     "collecte": "2026-10-07",
     "publication": "2026-10-07",
-    "maj": "2026-10-07"
+    "maj": "2026-10-08"
   },
   "source": "google-places",
   "redaction": {
@@ -195,6 +195,6 @@
     "visites": 0,
     "fenetreJours": 90,
     "source": "visites",
-    "date": "2026-10-07"
+    "date": "2026-10-08"
   }
 }

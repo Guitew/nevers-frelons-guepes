@@ -1,5 +1,119 @@
 [
   {
+    "date": "2026-10-08T11:59:55.743Z",
+    "type": "suggestion-soumise",
+    "id": "ChIJ8QngvnUM5EcR-3rvAR2wLYQ",
+    "nom": "Special Canin",
+    "url": "/veterinaires-animaux/mainvilliers/special-canin/"
+  },
+  {
+    "date": "2026-10-08T11:59:55.717Z",
+    "type": "suggestion-soumise",
+    "id": "ChIJNWnocgSY7kcRuj1YaNFVRBI",
+    "nom": "Rubino Transports",
+    "url": "/transport-demenagement/sainte-savine/rubino-transports/"
+  },
+  {
+    "date": "2026-10-08T11:59:55.688Z",
+    "type": "suggestion-soumise",
+    "id": "ChIJORzGovJX40cRXRHbFXhSX7E",
+    "nom": "Pharmacie de l'Europe",
+    "url": "/pharmacies-opticiens/blois/pharmacie-de-l-europe/"
+  },
+  {
+    "date": "2026-10-08T11:59:38.477Z",
+    "type": "backlink-absent",
+    "id": "ChIJoXiFBpg0-UcRg1VyH9k-ULA",
+    "nom": "BHV Limoges",
+    "url": null,
+    "precedent": "en-attente"
+  },
+  {
+    "date": "2026-10-08T11:59:38.610Z",
+    "type": "backlink-absent",
+    "id": "ChIJt9lEiVVUrRIR1NuC83028Dk",
+    "nom": "ETS GRENIER",
+    "url": null,
+    "precedent": "en-attente"
+  },
+  {
+    "date": "2026-10-08T11:59:38.708Z",
+    "type": "backlink-absent",
+    "id": "ChIJB4TWup7VEEgRfN8Rh73_Om4",
+    "nom": "laverie automatique",
+    "url": null,
+    "precedent": "en-attente"
+  },
+  {
+    "date": "2026-10-08T11:59:38.852Z",
+    "type": "backlink-absent",
+    "id": "ChIJb1QwCxd--UcRu1CPnPbRY3U",
+    "nom": "RESTAURATION DES MONTS DE GUERET",
+    "url": null,
+    "precedent": "en-attente"
+  },
+  {
+    "date": "2026-10-08T11:59:38.946Z",
+    "type": "backlink-absent",
+    "id": "ChIJYenPIt6CqRIRw8Y1_QaBL1M",
+    "nom": "Sama",
+    "url": null,
+    "precedent": "en-attente"
+  },
+  {
+    "date": "2026-10-08T11:59:42.640Z",
+    "type": "backlink-present",
+    "id": "ChIJNbyfcdBO7kcRWLv-DmjyaII",
+    "nom": "Hal'prim iaad",
+    "url": "https://andpro.fr/vitrine-locale/commerces-alimentation/auxerre/hal-prim-iaad/",
+    "precedent": "absent"
+  },
+  {
+    "date": "2026-10-08T11:59:38.204Z",
+    "type": "publication",
+    "id": "ChIJoXiFBpg0-UcRg1VyH9k-ULA",
+    "nom": "BHV Limoges",
+    "url": "/mode-equipement-maison/limoges/bhv-limoges/",
+    "categorie": "mode-equipement-maison",
+    "source": "google-places"
+  },
+  {
+    "date": "2026-10-08T11:59:38.205Z",
+    "type": "publication",
+    "id": "ChIJt9lEiVVUrRIR1NuC83028Dk",
+    "nom": "ETS GRENIER",
+    "url": "/mode-equipement-maison/aurillac/ets-grenier/",
+    "categorie": "mode-equipement-maison",
+    "source": "google-places"
+  },
+  {
+    "date": "2026-10-08T11:59:38.206Z",
+    "type": "publication",
+    "id": "ChIJb1QwCxd--UcRu1CPnPbRY3U",
+    "nom": "RESTAURATION DES MONTS DE GUERET",
+    "url": "/restaurants/saint-sulpice-le-gueretois/restauration-des-monts-de-gueret/",
+    "categorie": "restaurants",
+    "source": "google-places"
+  },
+  {
+    "date": "2026-10-08T11:59:38.206Z",
+    "type": "publication",
+    "id": "ChIJB4TWup7VEEgRfN8Rh73_Om4",
+    "nom": "laverie automatique",
+    "url": "/nettoyage-hygiene/quimper/laverie-automatique/",
+    "categorie": "nettoyage-hygiene",
+    "source": "google-places"
+  },
+  {
+    "date": "2026-10-08T11:59:38.207Z",
+    "type": "publication",
+    "id": "ChIJYenPIt6CqRIRw8Y1_QaBL1M",
+    "nom": "Sama",
+    "url": "/garages-automobile/auch/sama/",
+    "categorie": "garages-automobile",
+    "source": "google-places"
+  },
+  {
     "date": "2026-10-07T17:24:52.641Z",
     "type": "suggestion-soumise",
     "id": "ChIJNbyfcdBO7kcRWLv-DmjyaII",

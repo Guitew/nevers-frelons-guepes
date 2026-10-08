@@ -32,7 +32,7 @@
     "longitude": 3.5455053999999997
   },
   "note": 4,
-  "avis": 139,
+  "avis": 140,
   "horaires": [
     {
       "jour": 0,
@@ -110,15 +110,15 @@
     "Parking accessible en fauteuil roulant"
   ],
   "lien_google": "https://maps.google.com/?cid=9397027151250635608&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
-  "site_web_gmb": null,
+  "site_web_gmb": "https://andpro.fr/vitrine-locale/commerces-alimentation/auxerre/hal-prim-iaad/",
   "statut": "publiee",
   "backlink": {
-    "etat": "absent",
-    "premiere_detection": null,
-    "derniere_detection": null,
-    "derniere_verification": "2026-10-07T11:44:50.320Z",
-    "echecs": 1,
-    "url_detectee": null
+    "etat": "present",
+    "premiere_detection": "2026-10-08T11:59:38.314Z",
+    "derniere_detection": "2026-10-08T11:59:38.314Z",
+    "derniere_verification": "2026-10-08T11:59:38.314Z",
+    "echecs": 0,
+    "url_detectee": "https://andpro.fr/vitrine-locale/commerces-alimentation/auxerre/hal-prim-iaad/"
   },
   "suggestion": {
     "etat": "soumise",
@@ -130,7 +130,7 @@
   "dates": {
     "collecte": "2026-10-07",
     "publication": "2026-10-07",
-    "maj": "2026-10-07"
+    "maj": "2026-10-08"
   },
   "source": "google-places",
   "redaction": {
@@ -199,12 +199,12 @@
   },
   "statut_google": "OPERATIONAL",
   "audience": {
-    "clics": 0,
+    "clics": 1,
     "impressions": null,
     "position": null,
-    "visites": 0,
+    "visites": 3,
     "fenetreJours": 90,
     "source": "visites",
-    "date": "2026-10-07"
+    "date": "2026-10-08"
   }
 }

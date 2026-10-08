@@ -27,8 +27,8 @@
     "latitude": 47.9957843,
     "longitude": 0.19211779999999998
   },
-  "note": 4.7,
-  "avis": 15,
+  "note": 4.6,
+  "avis": 16,
   "horaires": null,
   "attributs": [],
   "lien_google": "https://maps.google.com/?cid=17528832999236315851&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
@@ -38,8 +38,8 @@
     "etat": "absent",
     "premiere_detection": null,
     "derniere_detection": null,
-    "derniere_verification": "2026-10-07T11:44:50.320Z",
-    "echecs": 3,
+    "derniere_verification": "2026-10-08T11:59:38.314Z",
+    "echecs": 4,
     "url_detectee": null
   },
   "suggestion": {
@@ -52,7 +52,7 @@
   "dates": {
     "collecte": "2026-10-05",
     "publication": "2026-10-05",
-    "maj": "2026-10-07"
+    "maj": "2026-10-08"
   },
   "source": "google-places",
   "redaction": {
@@ -118,6 +118,6 @@
     "visites": 0,
     "fenetreJours": 90,
     "source": "visites",
-    "date": "2026-10-07"
+    "date": "2026-10-08"
   }
 }
