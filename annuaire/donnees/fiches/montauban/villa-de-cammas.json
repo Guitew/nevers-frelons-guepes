@@ -31,15 +31,15 @@
   "horaires": null,
   "attributs": [],
   "lien_google": "https://maps.google.com/?cid=3473246553275603648&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
-  "site_web_gmb": null,
+  "site_web_gmb": "https://andpro.fr/vitrine-locale/hebergement/montauban/villa-de-cammas/",
   "statut": "publiee",
   "backlink": {
-    "etat": "absent",
-    "premiere_detection": null,
-    "derniere_detection": null,
-    "derniere_verification": "2026-10-08T17:23:11.234Z",
-    "echecs": 7,
-    "url_detectee": null
+    "etat": "present",
+    "premiere_detection": "2026-10-09T16:58:32.124Z",
+    "derniere_detection": "2026-10-09T16:58:32.124Z",
+    "derniere_verification": "2026-10-09T16:58:32.124Z",
+    "echecs": 0,
+    "url_detectee": "https://andpro.fr/vitrine-locale/hebergement/montauban/villa-de-cammas/"
   },
   "suggestion": {
     "etat": "soumise",
@@ -51,7 +51,7 @@
   "dates": {
     "collecte": "2026-10-02",
     "publication": "2026-10-02",
-    "maj": "2026-10-08"
+    "maj": "2026-10-09"
   },
   "source": "google-places",
   "redaction": {

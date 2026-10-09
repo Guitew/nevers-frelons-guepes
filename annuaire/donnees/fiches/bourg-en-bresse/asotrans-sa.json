@@ -1,0 +1,207 @@
+{
+  "id": "ChIJAXnFwiNS80cRA2X38DMEbOs",
+  "slug": "asotrans-sa",
+  "nom": "Asotrans SA",
+  "categorie": "transport-demenagement",
+  "categorie_gmb": "Entreprise de déménagement",
+  "type_principal": "moving_company",
+  "types": [
+    "moving_company",
+    "shipping_service",
+    "transportation_service",
+    "point_of_interest",
+    "service",
+    "establishment"
+  ],
+  "ville": "Bourg-en-Bresse",
+  "ville_slug": "bourg-en-bresse",
+  "adresse": {
+    "rue": "25 Avenue Arsène d'Arsonval",
+    "code_postal": "01000",
+    "departement": "01",
+    "region": "Auvergne-Rhône-Alpes",
+    "pays": "France",
+    "complete": "25 Av. Arsène d'Arsonval, 01000 Bourg-en-Bresse"
+  },
+  "telephone": "04 74 45 23 65",
+  "geo": {
+    "latitude": 46.221123999999996,
+    "longitude": 5.2188418
+  },
+  "note": 4.4,
+  "avis": 70,
+  "horaires": [
+    {
+      "jour": 0,
+      "ferme": false,
+      "creneaux": [
+        [
+          "09:00",
+          "19:00"
+        ]
+      ]
+    },
+    {
+      "jour": 1,
+      "ferme": false,
+      "creneaux": [
+        [
+          "09:00",
+          "19:00"
+        ]
+      ]
+    },
+    {
+      "jour": 2,
+      "ferme": false,
+      "creneaux": [
+        [
+          "09:00",
+          "19:00"
+        ]
+      ]
+    },
+    {
+      "jour": 3,
+      "ferme": false,
+      "creneaux": [
+        [
+          "09:00",
+          "19:00"
+        ]
+      ]
+    },
+    {
+      "jour": 4,
+      "ferme": false,
+      "creneaux": [
+        [
+          "09:00",
+          "19:00"
+        ]
+      ]
+    },
+    {
+      "jour": 5,
+      "ferme": false,
+      "creneaux": [
+        [
+          "09:00",
+          "19:00"
+        ]
+      ]
+    },
+    {
+      "jour": 6,
+      "ferme": false,
+      "creneaux": [
+        [
+          "09:00",
+          "19:00"
+        ]
+      ]
+    }
+  ],
+  "attributs": [
+    "Entrée accessible en fauteuil roulant",
+    "Parking accessible en fauteuil roulant"
+  ],
+  "lien_google": "https://maps.google.com/?cid=16963938517530404099&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
+  "site_web_gmb": null,
+  "statut": "publiee",
+  "backlink": {
+    "etat": "absent",
+    "premiere_detection": null,
+    "derniere_detection": null,
+    "derniere_verification": "2026-10-09T16:58:32.124Z",
+    "echecs": 1,
+    "url_detectee": null
+  },
+  "suggestion": {
+    "etat": "en-attente",
+    "date_soumission": null,
+    "tentatives": 0,
+    "date_email": "2026-10-09"
+  },
+  "retrait": null,
+  "dates": {
+    "collecte": "2026-10-09",
+    "publication": "2026-10-09",
+    "maj": "2026-10-09"
+  },
+  "source": "google-places",
+  "redaction": {
+    "titre": "Asotrans SA — Transport et déménagement à Bourg-en-Bresse",
+    "meta_titre": "Asotrans SA, transport et déménagement à Bourg-en-Bresse",
+    "meta_description": "Asotrans SA, transport et déménagement à Bourg-en-Bresse (25 Avenue Arsène d'Arsonval) : adresse, horaires, téléphone et informations pratiques.",
+    "chapo": "Cette fiche présente Asotrans SA, un transport et déménagement au 25 Avenue Arsène d'Arsonval, à Bourg-en-Bresse. Son établissement ne déclare aucun site internet sur sa fiche Google : les informations ci-dessous en tiennent lieu de référence publique, vérifiable et accessible à tous.",
+    "sections": [
+      {
+        "id": "presentation",
+        "titre": "Asotrans SA en quelques mots",
+        "paragraphes": [
+          "Le choix d'un transport et déménagement se joue sur trois critères : la proximité, les horaires et la facilité de contact.",
+          "Déménagement, course urgente, transport de personnes : des services décidés rapidement et comparés sur la disponibilité. La fiche rassemble la zone couverte, les moyens et le contact direct, sans passer par une place de marché.",
+          "D'après le relevé du 9 octobre 2026, l'établissement est ouvert sept jours sur sept. Le détail jour par jour figure plus bas."
+        ]
+      },
+      {
+        "id": "acces",
+        "titre": "Adresse et accès",
+        "paragraphes": [
+          "L'établissement est situé au 25 Avenue Arsène d'Arsonval, 01000 Bourg-en-Bresse.",
+          "Coordonnées géographiques : 46.22112, 5.21884. Le lien d'itinéraire ci-dessous ouvre directement la navigation."
+        ]
+      },
+      {
+        "id": "contact",
+        "titre": "Contacter Asotrans SA",
+        "paragraphes": [
+          "Le contact se fait par téléphone au 04 74 45 23 65. C'est le seul moyen de communication déclaré sur la fiche Google de l'entreprise, avec la visite sur place.",
+          "Si vous dirigez cette entreprise, vous pouvez demander la correction ou le retrait de cette page à tout moment, sans justification."
+        ]
+      },
+      {
+        "id": "avis",
+        "titre": "La réputation de Asotrans SA",
+        "paragraphes": [
+          "Au relevé du 9 octobre 2026, l'établissement affichait une note de 4,4 sur 5 sur Google, calculée à partir de 70 avis. Cette note évolue en permanence : elle est indiquée ici à titre d'information et n'est pas retraitée.",
+          "Les avis appartiennent à Google et se consultent sur la fiche d'origine, dont le lien figure sur cette page."
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "q": "Quels sont les horaires de Asotrans SA ?",
+        "r": "Au relevé du 9 octobre 2026, Asotrans SA était ouvert sept jours sur sept. Dans le détail — lundi : de 9 h à 19 h ; mardi : de 9 h à 19 h ; mercredi : de 9 h à 19 h ; jeudi : de 9 h à 19 h ; vendredi : de 9 h à 19 h ; samedi : de 9 h à 19 h ; dimanche : de 9 h à 19 h. Ces horaires peuvent changer : un appel préalable reste conseillé."
+      },
+      {
+        "q": "Où se trouve Asotrans SA ?",
+        "r": "Asotrans SA se trouve 25 Av. Arsène d'Arsonval, 01000 Bourg-en-Bresse. Un lien d'itinéraire est disponible sur cette page."
+      },
+      {
+        "q": "Comment contacter Asotrans SA ?",
+        "r": "Par téléphone au 04 74 45 23 65, ou directement sur place aux heures d'ouverture."
+      },
+      {
+        "q": "Asotrans SA a-t-il un site internet ?",
+        "r": "Non : aucune adresse de site web n'est déclarée sur la fiche Google de Asotrans SA au 9 octobre 2026. Cette page tient lieu de référence publique en attendant, le cas échéant, la création d'un site propre à l'entreprise."
+      },
+      {
+        "q": "Asotrans SA est-il accessible aux personnes à mobilité réduite ?",
+        "r": "La fiche Google de l'établissement mentionne : « Entrée accessible en fauteuil roulant ». Cette information est déclarative ; en cas de doute, vérifiez par téléphone."
+      }
+    ],
+    "genere_le": "2026-10-09"
+  },
+  "statut_google": "OPERATIONAL",
+  "audience": {
+    "clics": 0,
+    "impressions": null,
+    "position": null,
+    "visites": 0,
+    "fenetreJours": 90,
+    "source": "visites",
+    "date": "2026-10-09"
+  }
+}

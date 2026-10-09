@@ -110,15 +110,15 @@
     "Toilettes accessibles en fauteuil roulant"
   ],
   "lien_google": "https://maps.google.com/?cid=9749245490980169342&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
-  "site_web_gmb": null,
+  "site_web_gmb": "https://halle-brauhauban.vercel.app/",
   "statut": "publiee",
   "backlink": {
-    "etat": "absent",
+    "etat": "externe",
     "premiere_detection": null,
     "derniere_detection": null,
-    "derniere_verification": "2026-10-08T17:23:11.234Z",
-    "echecs": 9,
-    "url_detectee": null
+    "derniere_verification": "2026-10-09T16:58:32.124Z",
+    "echecs": 10,
+    "url_detectee": "https://halle-brauhauban.vercel.app/"
   },
   "suggestion": {
     "etat": "en-attente",
@@ -130,7 +130,7 @@
   "dates": {
     "collecte": "2026-09-30",
     "publication": "2026-09-30",
-    "maj": "2026-10-08"
+    "maj": "2026-10-09"
   },
   "source": "google-places",
   "redaction": {

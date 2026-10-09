@@ -1,5 +1,135 @@
 [
   {
+    "date": "2026-10-09T16:58:47.881Z",
+    "type": "suggestion-soumise",
+    "id": "ChIJ3cjEnIxlkUcRCv8OvH9zLrw",
+    "nom": "Alsace Pièces Performance APP®",
+    "url": "/garages-automobile/colmar/alsace-pieces-performance-app/"
+  },
+  {
+    "date": "2026-10-09T16:58:47.856Z",
+    "type": "suggestion-soumise",
+    "id": "ChIJL-YPnA2g-0cRCbw4iciSYzU",
+    "nom": "Le Relais Saint-Maurois",
+    "url": "/menuiserie-serrurerie/saint-maur/le-relais-saint-maurois/"
+  },
+  {
+    "date": "2026-10-09T16:58:47.829Z",
+    "type": "suggestion-soumise",
+    "id": "ChIJKWDsxrHiEUgRpm3epewpXBI",
+    "nom": "Carrosserie et Garage OLLIVIER",
+    "url": "/garages-automobile/saint-brieuc/carrosserie-et-garage-ollivier/"
+  },
+  {
+    "date": "2026-10-09T16:58:32.260Z",
+    "type": "backlink-absent",
+    "id": "ChIJAXnFwiNS80cRA2X38DMEbOs",
+    "nom": "Asotrans SA",
+    "url": null,
+    "precedent": "en-attente"
+  },
+  {
+    "date": "2026-10-09T16:58:32.410Z",
+    "type": "backlink-absent",
+    "id": "ChIJpSx-bSQvBEgRZHtl-Bnn9vI",
+    "nom": "Dr Gougeon Ambal Sandrine",
+    "url": null,
+    "precedent": "en-attente"
+  },
+  {
+    "date": "2026-10-09T16:58:32.500Z",
+    "type": "backlink-absent",
+    "id": "ChIJp0CWCiwNrBIRYG_PwS5aUwA",
+    "nom": "Gaec de Nivelle",
+    "url": null,
+    "precedent": "en-attente"
+  },
+  {
+    "date": "2026-10-09T16:58:32.657Z",
+    "type": "backlink-absent",
+    "id": "ChIJV4bWIerRzRIRvlhX4ozMdFI",
+    "nom": "Leroy Merlin Salle de bains Nice",
+    "url": null,
+    "precedent": "en-attente"
+  },
+  {
+    "date": "2026-10-09T16:58:32.751Z",
+    "type": "backlink-absent",
+    "id": "ChIJATeH2bpX9UcREJq1WZLSaHc",
+    "nom": "Sodikap",
+    "url": null,
+    "precedent": "en-attente"
+  },
+  {
+    "date": "2026-10-09T16:58:37.789Z",
+    "type": "backlink-externe",
+    "id": "ChIJIfR-nIrTqRIRfqbzzR5HTIc",
+    "nom": "La Halle Brauhauban",
+    "url": "https://halle-brauhauban.vercel.app/",
+    "precedent": "absent"
+  },
+  {
+    "date": "2026-10-09T16:58:39.240Z",
+    "type": "backlink-externe",
+    "id": "ChIJpfEevNfVEEgRczwDa4kaylo",
+    "nom": "Les Jardins de Kervilier - Quimper",
+    "url": "https://www.monmagasinvert.fr/magasin-jardinage-magasin-vert-quimper-qmp",
+    "precedent": "absent"
+  },
+  {
+    "date": "2026-10-09T16:58:43.680Z",
+    "type": "backlink-present",
+    "id": "ChIJb_ftmv4NrBIRwJpXkVZzMzA",
+    "nom": "Villa de cammas",
+    "url": "https://andpro.fr/vitrine-locale/hebergement/montauban/villa-de-cammas/",
+    "precedent": "absent"
+  },
+  {
+    "date": "2026-10-09T16:58:32.020Z",
+    "type": "publication",
+    "id": "ChIJp0CWCiwNrBIRYG_PwS5aUwA",
+    "nom": "Gaec de Nivelle",
+    "url": "/transport-demenagement/montauban/gaec-de-nivelle/",
+    "categorie": "transport-demenagement",
+    "source": "google-places"
+  },
+  {
+    "date": "2026-10-09T16:58:32.021Z",
+    "type": "publication",
+    "id": "ChIJpSx-bSQvBEgRZHtl-Bnn9vI",
+    "nom": "Dr Gougeon Ambal Sandrine",
+    "url": "/medecins-dentistes/la-roche-sur-yon/dr-gougeon-ambal-sandrine/",
+    "categorie": "medecins-dentistes",
+    "source": "google-places"
+  },
+  {
+    "date": "2026-10-09T16:58:32.021Z",
+    "type": "publication",
+    "id": "ChIJAXnFwiNS80cRA2X38DMEbOs",
+    "nom": "Asotrans SA",
+    "url": "/transport-demenagement/bourg-en-bresse/asotrans-sa/",
+    "categorie": "transport-demenagement",
+    "source": "google-places"
+  },
+  {
+    "date": "2026-10-09T16:58:32.022Z",
+    "type": "publication",
+    "id": "ChIJV4bWIerRzRIRvlhX4ozMdFI",
+    "nom": "Leroy Merlin Salle de bains Nice",
+    "url": "/mode-equipement-maison/nice/leroy-merlin-salle-de-bains-nice/",
+    "categorie": "mode-equipement-maison",
+    "source": "google-places"
+  },
+  {
+    "date": "2026-10-09T16:58:32.022Z",
+    "type": "publication",
+    "id": "ChIJATeH2bpX9UcREJq1WZLSaHc",
+    "nom": "Sodikap",
+    "url": "/transport-demenagement/valence/sodikap/",
+    "categorie": "transport-demenagement",
+    "source": "google-places"
+  },
+  {
     "date": "2026-10-09T11:52:02.209Z",
     "type": "backlink-absent",
     "id": "ChIJ3cjEnIxlkUcRCv8OvH9zLrw",
