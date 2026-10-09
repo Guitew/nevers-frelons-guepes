@@ -109,3 +109,16 @@ test("à défaut, le compte de service produit un jeton ; sans rien, null", asyn
   assert.deepEqual(r, { jeton: "jwt:sa@x:scope", source: "compte-de-service" });
   assert.equal(await choisirJeton({ accessToken: "", compteBase64: "" }, "scope"), null);
 });
+
+test("un jeton OAuth utilisateur passe avant le compte de service, après Workload Identity", async () => {
+  const oauth = Buffer.from(JSON.stringify({ client_id: "id", client_secret: "s", refresh_token: "r" })).toString("base64");
+  const r = await choisirJeton(
+    { accessToken: "", oauthBase64: oauth, compteBase64: "xxx" },
+    "scope",
+    () => assert.fail("JWT inutile"),
+    async (c) => `oauth:${c.client_id}:${c.refresh_token}`
+  );
+  assert.deepEqual(r, { jeton: "oauth:id:r", source: "oauth-utilisateur" });
+  const w = await choisirJeton({ accessToken: "ya29.x", oauthBase64: oauth }, "scope", null, () => assert.fail("OAuth inutile"));
+  assert.equal(w.source, "workload-identity");
+});

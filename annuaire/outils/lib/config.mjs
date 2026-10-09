@@ -16,6 +16,9 @@ export const config = {
     // Jeton d'accès émis par Workload Identity Federation (GitHub Actions) :
     // pas de clé à stocker. Prioritaire sur les comptes de service ci-dessus.
     googleAccessToken: process.env.GOOGLE_ACCESS_TOKEN || "",
+    // Jeton OAuth utilisateur (JSON base64 client_id/client_secret/refresh_token),
+    // utilisé quand Workload Identity n'est pas configuré.
+    googleOAuth: process.env.GOOGLE_OAUTH_USER || "",
   },
 };
 

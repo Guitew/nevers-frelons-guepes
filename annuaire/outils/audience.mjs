@@ -86,7 +86,11 @@ function cle(url) {
 
 async function principal() {
   const acces = await choisirJeton(
-    { accessToken: config.secrets.googleAccessToken, compteBase64: config.secrets.googleSearchConsole },
+    {
+      accessToken: config.secrets.googleAccessToken,
+      oauthBase64: config.secrets.googleOAuth,
+      compteBase64: config.secrets.googleSearchConsole,
+    },
     PORTEE
   );
   const reglages = config.audience || {};
