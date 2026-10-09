@@ -1,0 +1,203 @@
+{
+  "id": "ChIJ3cjEnIxlkUcRCv8OvH9zLrw",
+  "slug": "alsace-pieces-performance-app",
+  "nom": "Alsace Pièces Performance APP®",
+  "categorie": "garages-automobile",
+  "categorie_gmb": "Garage automobile",
+  "type_principal": "car_repair",
+  "types": [
+    "market",
+    "car_repair",
+    "point_of_interest",
+    "service",
+    "establishment"
+  ],
+  "ville": "Colmar",
+  "ville_slug": "colmar",
+  "adresse": {
+    "rue": "124 Rue du Logelbach",
+    "code_postal": "68000",
+    "departement": "68",
+    "region": "Grand Est",
+    "pays": "France",
+    "complete": "124 Rue du Logelbach, 68000 Colmar"
+  },
+  "telephone": "03 89 47 72 02",
+  "geo": {
+    "latitude": 48.0839328,
+    "longitude": 7.3334216
+  },
+  "note": 4.3,
+  "avis": 32,
+  "horaires": [
+    {
+      "jour": 0,
+      "ferme": false,
+      "creneaux": [
+        [
+          "07:45",
+          "18:30"
+        ]
+      ]
+    },
+    {
+      "jour": 1,
+      "ferme": false,
+      "creneaux": [
+        [
+          "07:45",
+          "18:30"
+        ]
+      ]
+    },
+    {
+      "jour": 2,
+      "ferme": false,
+      "creneaux": [
+        [
+          "07:45",
+          "18:30"
+        ]
+      ]
+    },
+    {
+      "jour": 3,
+      "ferme": false,
+      "creneaux": [
+        [
+          "07:45",
+          "18:30"
+        ]
+      ]
+    },
+    {
+      "jour": 4,
+      "ferme": false,
+      "creneaux": [
+        [
+          "07:45",
+          "18:30"
+        ]
+      ]
+    },
+    {
+      "jour": 5,
+      "ferme": false,
+      "creneaux": [
+        [
+          "08:30",
+          "13:00"
+        ]
+      ]
+    },
+    {
+      "jour": 6,
+      "ferme": true,
+      "creneaux": []
+    }
+  ],
+  "attributs": [
+    "Entrée accessible en fauteuil roulant",
+    "Parking accessible en fauteuil roulant",
+    "Toilettes accessibles en fauteuil roulant",
+    "Places assises accessibles en fauteuil roulant"
+  ],
+  "lien_google": "https://maps.google.com/?cid=13559902520512282378&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
+  "site_web_gmb": null,
+  "statut": "publiee",
+  "backlink": {
+    "etat": "absent",
+    "premiere_detection": null,
+    "derniere_detection": null,
+    "derniere_verification": "2026-10-09T11:52:02.074Z",
+    "echecs": 1,
+    "url_detectee": null
+  },
+  "suggestion": {
+    "etat": "en-attente",
+    "date_soumission": null,
+    "tentatives": 0,
+    "date_email": "2026-10-09"
+  },
+  "retrait": null,
+  "dates": {
+    "collecte": "2026-10-09",
+    "publication": "2026-10-09",
+    "maj": "2026-10-09"
+  },
+  "source": "google-places",
+  "redaction": {
+    "titre": "Alsace Pièces Performance APP® — Garage et automobile à Colmar",
+    "meta_titre": "Alsace Pièces Performance APP®, garage et automobile à…",
+    "meta_description": "Alsace Pièces Performance APP®, garage et automobile à Colmar (124 Rue du Logelbach) : adresse, horaires, téléphone et informations pratiques.",
+    "chapo": "Cette fiche présente Alsace Pièces Performance APP®, un garage et automobile au 124 Rue du Logelbach, à Colmar. Son établissement ne déclare aucun site internet sur sa fiche Google : les informations ci-dessous en tiennent lieu de référence publique, vérifiable et accessible à tous.",
+    "sections": [
+      {
+        "id": "presentation",
+        "titre": "Alsace Pièces Performance APP® en quelques mots",
+        "paragraphes": [
+          "Garages et services automobiles font partie des activités les plus consultées localement sur mobile.",
+          "Entretien, réparation, contrôle technique : l'automobiliste choisit d'abord un garage proche et disponible. Ces entreprises travaillent à flux tendu et délaissent presque toujours la création d'un site, malgré une demande de recherche locale considérable.",
+          "D'après le relevé du 9 octobre 2026, l'établissement est ouvert tous les jours sauf le dimanche. Le détail jour par jour figure plus bas."
+        ]
+      },
+      {
+        "id": "acces",
+        "titre": "Adresse et accès",
+        "paragraphes": [
+          "L'établissement est situé au 124 Rue du Logelbach, 68000 Colmar.",
+          "Coordonnées géographiques : 48.08393, 7.33342. Le lien d'itinéraire ci-dessous ouvre directement la navigation."
+        ]
+      },
+      {
+        "id": "contact",
+        "titre": "Contacter Alsace Pièces Performance APP®",
+        "paragraphes": [
+          "Le contact se fait par téléphone au 03 89 47 72 02. C'est le seul moyen de communication déclaré sur la fiche Google de l'entreprise, avec la visite sur place.",
+          "Si vous dirigez cette entreprise, vous pouvez demander la correction ou le retrait de cette page à tout moment, sans justification."
+        ]
+      },
+      {
+        "id": "avis",
+        "titre": "La réputation de Alsace Pièces Performance APP®",
+        "paragraphes": [
+          "Au relevé du 9 octobre 2026, l'établissement affichait une note de 4,3 sur 5 sur Google, calculée à partir de 32 avis. Cette note évolue en permanence : elle est indiquée ici à titre d'information et n'est pas retraitée.",
+          "Les avis appartiennent à Google et se consultent sur la fiche d'origine, dont le lien figure sur cette page."
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "q": "Quels sont les horaires de Alsace Pièces Performance APP® ?",
+        "r": "Au relevé du 9 octobre 2026, Alsace Pièces Performance APP® était ouvert tous les jours sauf le dimanche. Dans le détail — lundi : de 7 h 45 à 18 h 30 ; mardi : de 7 h 45 à 18 h 30 ; mercredi : de 7 h 45 à 18 h 30 ; jeudi : de 7 h 45 à 18 h 30 ; vendredi : de 7 h 45 à 18 h 30 ; samedi : de 8 h 30 à 13 h ; dimanche : fermé. Ces horaires peuvent changer : un appel préalable reste conseillé."
+      },
+      {
+        "q": "Où se trouve Alsace Pièces Performance APP® ?",
+        "r": "Alsace Pièces Performance APP® se trouve 124 Rue du Logelbach, 68000 Colmar. Un lien d'itinéraire est disponible sur cette page."
+      },
+      {
+        "q": "Comment contacter Alsace Pièces Performance APP® ?",
+        "r": "Par téléphone au 03 89 47 72 02, ou directement sur place aux heures d'ouverture."
+      },
+      {
+        "q": "Alsace Pièces Performance APP® a-t-il un site internet ?",
+        "r": "Non : aucune adresse de site web n'est déclarée sur la fiche Google de Alsace Pièces Performance APP® au 9 octobre 2026. Cette page tient lieu de référence publique en attendant, le cas échéant, la création d'un site propre à l'entreprise."
+      },
+      {
+        "q": "Alsace Pièces Performance APP® est-il accessible aux personnes à mobilité réduite ?",
+        "r": "La fiche Google de l'établissement mentionne : « Entrée accessible en fauteuil roulant ». Cette information est déclarative ; en cas de doute, vérifiez par téléphone."
+      }
+    ],
+    "genere_le": "2026-10-09"
+  },
+  "statut_google": "OPERATIONAL",
+  "audience": {
+    "clics": 0,
+    "impressions": null,
+    "position": null,
+    "visites": 0,
+    "fenetreJours": 90,
+    "source": "visites",
+    "date": "2026-10-09"
+  }
+}

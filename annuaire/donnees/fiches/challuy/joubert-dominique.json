@@ -100,15 +100,15 @@
     "etat": "absent",
     "premiere_detection": null,
     "derniere_detection": null,
-    "derniere_verification": "2026-10-08T11:59:38.314Z",
-    "echecs": 69,
+    "derniere_verification": "2026-10-09T11:52:02.074Z",
+    "echecs": 70,
     "url_detectee": null
   },
   "retrait": null,
   "dates": {
     "collecte": "2026-08-30",
     "publication": "2026-08-30",
-    "maj": "2026-10-08"
+    "maj": "2026-10-09"
   },
   "source": "google-places",
   "redaction": {
@@ -180,6 +180,6 @@
     "visites": 0,
     "fenetreJours": 90,
     "source": "visites",
-    "date": "2026-10-08"
+    "date": "2026-10-09"
   }
 }

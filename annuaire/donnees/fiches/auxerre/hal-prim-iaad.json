@@ -32,7 +32,7 @@
     "longitude": 3.5455053999999997
   },
   "note": 4,
-  "avis": 140,
+  "avis": 141,
   "horaires": [
     {
       "jour": 0,
@@ -115,8 +115,8 @@
   "backlink": {
     "etat": "present",
     "premiere_detection": "2026-10-08T11:59:38.314Z",
-    "derniere_detection": "2026-10-08T11:59:38.314Z",
-    "derniere_verification": "2026-10-08T11:59:38.314Z",
+    "derniere_detection": "2026-10-09T11:52:02.074Z",
+    "derniere_verification": "2026-10-09T11:52:02.074Z",
     "echecs": 0,
     "url_detectee": "https://andpro.fr/vitrine-locale/commerces-alimentation/auxerre/hal-prim-iaad/"
   },
@@ -130,7 +130,7 @@
   "dates": {
     "collecte": "2026-10-07",
     "publication": "2026-10-07",
-    "maj": "2026-10-08"
+    "maj": "2026-10-09"
   },
   "source": "google-places",
   "redaction": {
@@ -202,9 +202,9 @@
     "clics": 1,
     "impressions": null,
     "position": null,
-    "visites": 3,
+    "visites": 5,
     "fenetreJours": 90,
     "source": "visites",
-    "date": "2026-10-08"
+    "date": "2026-10-09"
   }
 }

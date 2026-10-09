@@ -1,0 +1,215 @@
+{
+  "id": "ChIJmwVAs59PVg0RGCwSLl1_NYs",
+  "slug": "elec-auto",
+  "nom": "Elec Auto",
+  "categorie": "garages-automobile",
+  "categorie_gmb": "Garage automobile",
+  "type_principal": "car_repair",
+  "types": [
+    "car_repair",
+    "service",
+    "point_of_interest",
+    "establishment"
+  ],
+  "ville": "Lons",
+  "ville_slug": "lons",
+  "adresse": {
+    "rue": "85 Boulevard Charles de Gaulle",
+    "code_postal": "64140",
+    "departement": "64",
+    "region": "Nouvelle-Aquitaine",
+    "pays": "France",
+    "complete": "85 Bd Charles de Gaulle, 64140 Lons"
+  },
+  "telephone": "05 59 62 83 90",
+  "geo": {
+    "latitude": 43.3117581,
+    "longitude": -0.4141321
+  },
+  "note": 4.6,
+  "avis": 89,
+  "horaires": [
+    {
+      "jour": 0,
+      "ferme": false,
+      "creneaux": [
+        [
+          "08:00",
+          "12:00"
+        ],
+        [
+          "14:00",
+          "18:00"
+        ]
+      ]
+    },
+    {
+      "jour": 1,
+      "ferme": false,
+      "creneaux": [
+        [
+          "08:00",
+          "12:00"
+        ],
+        [
+          "14:00",
+          "18:00"
+        ]
+      ]
+    },
+    {
+      "jour": 2,
+      "ferme": false,
+      "creneaux": [
+        [
+          "08:00",
+          "12:00"
+        ],
+        [
+          "14:00",
+          "18:00"
+        ]
+      ]
+    },
+    {
+      "jour": 3,
+      "ferme": false,
+      "creneaux": [
+        [
+          "08:00",
+          "12:00"
+        ],
+        [
+          "14:00",
+          "18:00"
+        ]
+      ]
+    },
+    {
+      "jour": 4,
+      "ferme": false,
+      "creneaux": [
+        [
+          "08:00",
+          "12:00"
+        ],
+        [
+          "14:00",
+          "17:30"
+        ]
+      ]
+    },
+    {
+      "jour": 5,
+      "ferme": true,
+      "creneaux": []
+    },
+    {
+      "jour": 6,
+      "ferme": true,
+      "creneaux": []
+    }
+  ],
+  "attributs": [
+    "Entrée accessible en fauteuil roulant",
+    "Parking accessible en fauteuil roulant"
+  ],
+  "lien_google": "https://maps.google.com/?cid=10031063783219276824&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
+  "site_web_gmb": null,
+  "statut": "publiee",
+  "backlink": {
+    "etat": "absent",
+    "premiere_detection": null,
+    "derniere_detection": null,
+    "derniere_verification": "2026-10-09T11:52:02.074Z",
+    "echecs": 1,
+    "url_detectee": null
+  },
+  "suggestion": {
+    "etat": "en-attente",
+    "date_soumission": null,
+    "tentatives": 0,
+    "date_email": "2026-10-09"
+  },
+  "retrait": null,
+  "dates": {
+    "collecte": "2026-10-09",
+    "publication": "2026-10-09",
+    "maj": "2026-10-09"
+  },
+  "source": "google-places",
+  "redaction": {
+    "titre": "Elec Auto — Garage et automobile à Lons",
+    "meta_titre": "Elec Auto, garage et automobile à Lons",
+    "meta_description": "Elec Auto, garage et automobile à Lons (85 Boulevard Charles de Gaulle) : adresse, horaires, téléphone et informations pratiques.",
+    "chapo": "Cette fiche présente Elec Auto, un garage et automobile au 85 Boulevard Charles de Gaulle, à Lons. Son établissement ne déclare aucun site internet sur sa fiche Google : les informations ci-dessous en tiennent lieu de référence publique, vérifiable et accessible à tous.",
+    "sections": [
+      {
+        "id": "presentation",
+        "titre": "Elec Auto en quelques mots",
+        "paragraphes": [
+          "Garages et services automobiles font partie des activités les plus consultées localement sur mobile.",
+          "Entretien, réparation, contrôle technique : l'automobiliste choisit d'abord un garage proche et disponible. Ces entreprises travaillent à flux tendu et délaissent presque toujours la création d'un site, malgré une demande de recherche locale considérable.",
+          "D'après le relevé du 9 octobre 2026, l'établissement est fermé le samedi et le dimanche. Le détail jour par jour figure plus bas."
+        ]
+      },
+      {
+        "id": "acces",
+        "titre": "Adresse et accès",
+        "paragraphes": [
+          "L'établissement est situé au 85 Boulevard Charles de Gaulle, 64140 Lons.",
+          "Coordonnées géographiques : 43.31176, -0.41413. Le lien d'itinéraire ci-dessous ouvre directement la navigation."
+        ]
+      },
+      {
+        "id": "contact",
+        "titre": "Contacter Elec Auto",
+        "paragraphes": [
+          "Le contact se fait par téléphone au 05 59 62 83 90. C'est le seul moyen de communication déclaré sur la fiche Google de l'entreprise, avec la visite sur place.",
+          "Si vous dirigez cette entreprise, vous pouvez demander la correction ou le retrait de cette page à tout moment, sans justification."
+        ]
+      },
+      {
+        "id": "avis",
+        "titre": "La réputation de Elec Auto",
+        "paragraphes": [
+          "Au relevé du 9 octobre 2026, l'établissement affichait une note de 4,6 sur 5 sur Google, calculée à partir de 89 avis. Cette note évolue en permanence : elle est indiquée ici à titre d'information et n'est pas retraitée.",
+          "Les avis appartiennent à Google et se consultent sur la fiche d'origine, dont le lien figure sur cette page."
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "q": "Quels sont les horaires de Elec Auto ?",
+        "r": "Au relevé du 9 octobre 2026, Elec Auto était fermé le samedi et le dimanche. Dans le détail — lundi : de 8 h à 12 h et de 14 h à 18 h ; mardi : de 8 h à 12 h et de 14 h à 18 h ; mercredi : de 8 h à 12 h et de 14 h à 18 h ; jeudi : de 8 h à 12 h et de 14 h à 18 h ; vendredi : de 8 h à 12 h et de 14 h à 17 h 30 ; samedi : fermé ; dimanche : fermé. Ces horaires peuvent changer : un appel préalable reste conseillé."
+      },
+      {
+        "q": "Où se trouve Elec Auto ?",
+        "r": "Elec Auto se trouve 85 Bd Charles de Gaulle, 64140 Lons. Un lien d'itinéraire est disponible sur cette page."
+      },
+      {
+        "q": "Comment contacter Elec Auto ?",
+        "r": "Par téléphone au 05 59 62 83 90, ou directement sur place aux heures d'ouverture."
+      },
+      {
+        "q": "Elec Auto a-t-il un site internet ?",
+        "r": "Non : aucune adresse de site web n'est déclarée sur la fiche Google de Elec Auto au 9 octobre 2026. Cette page tient lieu de référence publique en attendant, le cas échéant, la création d'un site propre à l'entreprise."
+      },
+      {
+        "q": "Elec Auto est-il accessible aux personnes à mobilité réduite ?",
+        "r": "La fiche Google de l'établissement mentionne : « Entrée accessible en fauteuil roulant ». Cette information est déclarative ; en cas de doute, vérifiez par téléphone."
+      }
+    ],
+    "genere_le": "2026-10-09"
+  },
+  "statut_google": "OPERATIONAL",
+  "audience": {
+    "clics": 0,
+    "impressions": null,
+    "position": null,
+    "visites": 0,
+    "fenetreJours": 90,
+    "source": "visites",
+    "date": "2026-10-09"
+  }
+}
