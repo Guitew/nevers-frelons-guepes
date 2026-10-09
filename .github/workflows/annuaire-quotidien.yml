@@ -55,7 +55,31 @@ defaults:
     working-directory: annuaire
 
 jobs:
+  # Le passage de 10 h 15 UTC n'est qu'un rattrapage : il ne fait rien si un
+  # cycle a déjà réussi aujourd'hui. Sinon l'annuaire tournerait deux fois par
+  # jour et doublerait les appels payants à Google Places.
+  garde:
+    runs-on: ubuntu-latest
+    outputs:
+      deja: ${{ steps.verif.outputs.deja }}
+    steps:
+      - id: verif
+        working-directory: .
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          deja=false
+          if [ "${{ github.event.schedule }}" = "15 10 * * *" ]; then
+            n=$(gh run list -R "${{ github.repository }}" --workflow annuaire-quotidien.yml \
+                  --status success --created ">=$(date -u +%F)" --json databaseId -q 'length')
+            [ "${n:-0}" -gt 0 ] && deja=true
+          fi
+          echo "deja=$deja" >> "$GITHUB_OUTPUT"
+          echo "Cycle déjà réussi aujourd'hui : $deja"
+
   cycle:
+    needs: garde
+    if: needs.garde.outputs.deja != 'true'
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
