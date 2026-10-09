@@ -100,8 +100,12 @@ async function principal() {
 
   const lignes = await relever(acces.jeton, debut, fin);
   console.log(`Search Console du ${debut} au ${fin} : ${lignes.length} page(s) avec au moins une impression.`);
+  // Fenêtre récente : sert à la règle « une page qui performe ne disparaît pas ».
+  const recente = Number(reglages.fenetreRecenteJours) || 28;
+  const lignesRecentes = await relever(acces.jeton, dateMoins(RETARD_JOURS + recente - 1), fin);
 
   const parPage = new Map(lignes.map((l) => [cle(l.keys[0]), l]));
+  const parPageRecente = new Map(lignesRecentes.map((l) => [cle(l.keys[0]), l]));
   const date = aujourdhui();
   const fiches = lireFiches();
   let avecClics = 0;
@@ -109,12 +113,17 @@ async function principal() {
   const top = [];
 
   for (const fiche of fiches) {
-    const ligne = parPage.get(cle(site.base + urlFiche(fiche)));
+    const url = cle(site.base + urlFiche(fiche));
+    const ligne = parPage.get(url);
+    const ligneRecente = parPageRecente.get(url);
     const audience = {
       clics: ligne ? Math.round(ligne.clicks) : 0,
       impressions: ligne ? Math.round(ligne.impressions) : 0,
       position: ligne ? Math.round(ligne.position * 10) / 10 : null,
       fenetreJours: fenetre,
+      clicsRecents: ligneRecente ? Math.round(ligneRecente.clicks) : 0,
+      fenetreRecenteJours: recente,
+      source: "search-console",
       date,
     };
     if (audience.clics) avecClics++;
@@ -148,18 +157,23 @@ async function principalVisites(fenetre) {
     return;
   }
   const { depuis, joursMesure, pages } = agreger(releve, fenetre);
+  const recente = Number(config.audience?.fenetreRecenteJours) || 28;
+  const { pages: pagesRecentes } = agreger(releve, recente);
   const date = aujourdhui();
   const fiches = lireFiches();
   let avecClics = 0;
   const top = [];
   for (const fiche of fiches) {
     const v = pages.get(urlFiche(fiche)) || { total: 0, google: 0 };
+    const r = pagesRecentes.get(urlFiche(fiche)) || { total: 0, google: 0 };
     fiche.audience = {
       clics: v.google,
       impressions: null,
       position: null,
       visites: v.total,
       fenetreJours: fenetre,
+      clicsRecents: r.google,
+      fenetreRecenteJours: recente,
       source: "visites",
       date,
     };

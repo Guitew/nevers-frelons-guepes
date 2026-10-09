@@ -28,6 +28,15 @@
  * automatiquement (sauf fiche Google disparue), et une page que Google montre
  * déjà (impressions) obtient un délai de grâce prolongé. Voir config.audience.
  *
+ * PERFORMANCE. Une page qui performe (≥ clicsParSemaineMaintien clic Google
+ * par semaine sur les 28 derniers jours) ne disparaît JAMAIS automatiquement,
+ * même si la fiche Google est introuvable, et une page retirée qui performe
+ * encore est republiée. Seul un retrait manuel prime.
+ *
+ * MAINTIEN MANUEL. `--republier=/cat/ville/slug/` remet une fiche en ligne et
+ * la soustrait aux retraits automatiques (champ `maintien`). Un retrait
+ * manuel ultérieur lève le maintien.
+ *
  * Si le lien réapparaît, la page est republiée automatiquement — la
  * redirection est retirée du .htaccess au build suivant.
  *
@@ -43,12 +52,13 @@
  *   node outils/retraits.mjs                          applique la politique
  *   node outils/retraits.mjs --essai                   simulation
  *   node outils/retraits.mjs --fiche=/cat/ville/slug/ --mode=410 --motif="demande du dirigeant"
+ *   node outils/retraits.mjs --republier=/cat/ville/slug/ --motif="page qui performe"
  */
 
 import config from "./lib/config.mjs";
 import { lireFiches, ecrireFiche, urlFiche, urlCategorie, ETATS } from "./lib/fiches.mjs";
 import { aujourdhui } from "./lib/texte.mjs";
-import { deciderRetrait, deciderArchivage, deciderRepublication, estProtegee } from "./lib/politique.mjs";
+import { deciderRetrait, deciderArchivage, deciderRepublication, estProtegee, estPerformante } from "./lib/politique.mjs";
 import { consigner, evenement } from "./lib/journal.mjs";
 
 const args = new Map(
@@ -84,22 +94,28 @@ function archiver(fiche, age) {
   });
 }
 
-function republier(fiche) {
+function republier(fiche, motif) {
   fiche.statut = ETATS.PUBLIEE;
   fiche.retrait = null;
   fiche.dates.maj = date;
   fiche.dates.publication = fiche.dates.publication || date;
-  return evenement("republication", fiche, { motif: "backlink GMB retrouvé" });
+  return evenement("republication", fiche, { motif });
+}
+
+function trouver(fiches, cible) {
+  const fiche = fiches.find((f) => urlFiche(f) === cible || f.slug === cible || f.id === cible);
+  if (!fiche) throw new Error(`Fiche introuvable : ${cible}`);
+  return fiche;
 }
 
 function manuel(fiches) {
-  const cible = String(args.get("fiche"));
+  const fiche = trouver(fiches, String(args.get("fiche")));
   const mode = String(args.get("mode") || "410");
   const motif = String(args.get("motif") || "retrait manuel");
-  const fiche = fiches.find((f) => urlFiche(f) === cible || f.slug === cible || f.id === cible);
-  if (!fiche) throw new Error(`Fiche introuvable : ${cible}`);
   if (!["301", "410"].includes(mode)) throw new Error("Le mode doit valoir 301 ou 410.");
   const ev = retirer(fiche, mode, motif);
+  fiche.retrait.manuel = true;
+  delete fiche.maintien;
   if (!essai) {
     ecrireFiche(fiche);
     consigner([ev]);
@@ -107,9 +123,25 @@ function manuel(fiches) {
   console.log(`${essai ? "[essai] " : ""}${urlFiche(fiche)} → ${mode} (${motif}).`);
 }
 
+/** Remet une fiche en ligne et la soustrait aux retraits automatiques. */
+function maintenir(fiches) {
+  const fiche = trouver(fiches, String(args.get("republier")));
+  const motif = String(args.get("motif") || "maintien manuel");
+  const evs = [];
+  if (fiche.statut === ETATS.RETIREE || fiche.statut === ETATS.ARCHIVEE) evs.push(republier(fiche, motif));
+  fiche.maintien = { date, motif };
+  fiche.dates.maj = date;
+  if (!essai) {
+    ecrireFiche(fiche);
+    consigner(evs);
+  }
+  console.log(`${essai ? "[essai] " : ""}${urlFiche(fiche)} : en ligne et maintenue (${motif}).`);
+}
+
 function principal() {
   const fiches = lireFiches();
   if (args.has("fiche")) return manuel(fiches);
+  if (args.has("republier")) return maintenir(fiches);
 
   const evenements = [];
   const protegees = [];
@@ -128,10 +160,11 @@ function principal() {
         continue;
       }
 
-      if (deciderRepublication(fiche)) {
-        evenements.push(republier(fiche));
+      const raison = deciderRepublication(fiche, REGLAGES.audience);
+      if (raison) {
+        evenements.push(republier(fiche, raison));
         if (!essai) ecrireFiche(fiche);
-        console.log(`  ↻ republication : ${urlFiche(fiche)}`);
+        console.log(`  ↻ republication : ${urlFiche(fiche)} (${raison})`);
       }
       continue;
     }
@@ -139,9 +172,12 @@ function principal() {
 
     const decision = deciderRetrait(fiche, REGLAGES);
     if (!decision) {
-      const protection = estProtegee(fiche, REGLAGES.audience);
-      if (protection && ["absent", "externe"].includes(fiche.backlink?.etat)) {
-        protegees.push(`${urlFiche(fiche)} (${protection.clics} clic(s))`);
+      if (["absent", "externe", "introuvable"].includes(fiche.backlink?.etat)) {
+        const perf = estPerformante(fiche, REGLAGES.audience);
+        const protection = estProtegee(fiche, REGLAGES.audience);
+        if (fiche.maintien) protegees.push(`${urlFiche(fiche)} (maintien manuel)`);
+        else if (perf) protegees.push(`${urlFiche(fiche)} (${perf.clics} clic(s) sur ${perf.jours} j)`);
+        else if (protection) protegees.push(`${urlFiche(fiche)} (${protection.clics} clic(s))`);
       }
       continue;
     }

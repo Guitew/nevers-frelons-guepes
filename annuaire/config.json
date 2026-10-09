@@ -37,8 +37,10 @@
   },
 
   "audience": {
-    "_lisezmoi": "Relevé Search Console (outils/audience.mjs). Une fiche avec au moins clicsProtection clics sur la fenêtre n'est jamais retirée automatiquement (sauf fiche Google disparue) ; une fiche avec au moins impressionsProlongation impressions voit son délai de grâce prolongé de prolongationJours. Un relevé plus vieux que fraicheurJours ne compte plus.",
+    "_lisezmoi": "Relevé Search Console (outils/audience.mjs). Une fiche qui performe (au moins clicsParSemaineMaintien clic(s) Google par semaine en moyenne sur fenetreRecenteJours) ne disparaît JAMAIS automatiquement, même si sa fiche Google est introuvable, et une fiche retirée qui performe encore est republiée (seul un retrait manuel prime). Une fiche avec au moins clicsProtection clics sur fenetreJours n'est pas retirée pour un backlink perdu ou une non-indexation ; une fiche avec au moins impressionsProlongation impressions voit son délai de grâce prolongé de prolongationJours. Un relevé plus vieux que fraicheurJours ne compte plus.",
     "proprietaires": ["allofrelons@gmail.com"],
+    "clicsParSemaineMaintien": 1,
+    "fenetreRecenteJours": 28,
     "fenetreJours": 90,
     "fraicheurJours": 7,
     "clicsProtection": 1,

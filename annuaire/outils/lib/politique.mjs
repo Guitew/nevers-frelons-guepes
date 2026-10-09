@@ -39,6 +39,34 @@ export function estProtegee(fiche, audience, maintenant = new Date()) {
 }
 
 /**
+ * La page performe-t-elle ? Au moins `clicsParSemaineMaintien` clic(s) Google
+ * par semaine en moyenne sur la fenêtre récente (28 jours par défaut). Une
+ * page qui performe ne disparaît jamais automatiquement, QUELLE QUE SOIT la
+ * cause — y compris une fiche Google introuvable — et une page retirée qui
+ * performe encore est republiée : on exploite le potentiel du site avant de
+ * faire le ménage. Seul un retrait manuel (demande du dirigeant) prime.
+ * @returns {{clics: number, jours: number}|null}
+ */
+export function estPerformante(fiche, audience, maintenant = new Date()) {
+  if (!audienceValide(fiche, audience, maintenant)) return null;
+  const parSemaine = audience.clicsParSemaineMaintien ?? 1;
+  const jours = fiche.audience.fenetreRecenteJours || audience.fenetreRecenteJours || 28;
+  const clics = fiche.audience.clicsRecents;
+  if (!(parSemaine > 0) || typeof clics !== "number") return null;
+  return clics >= (parSemaine * jours) / 7 ? { clics, jours } : null;
+}
+
+/** Maintien manuel (outils/retraits.mjs --republier) : la fiche ne se retire plus automatiquement. */
+export function estMaintenue(fiche) {
+  return !!fiche.maintien;
+}
+
+/** Un retrait décidé à la main (demande du dirigeant…) prime sur toute règle automatique. */
+function retraitManuel(fiche) {
+  return !!fiche.retrait?.manuel || fiche.retrait?.motif === "retrait manuel";
+}
+
+/**
  * Délai de grâce effectif d'une fiche jamais liée : le délai de base, prolongé
  * si Google montre déjà la page dans ses résultats (impressions).
  */
@@ -58,6 +86,10 @@ export function delaiDeGrace(fiche, reglages, maintenant = new Date()) {
 export function deciderRetrait(fiche, reglages, maintenant = new Date()) {
   const bl = fiche.backlink || {};
   const echecs = bl.echecs || 0;
+
+  // Page maintenue à la main ou qui performe (≥ 1 clic Google par semaine) :
+  // elle reste en ligne, même si la fiche Google a disparu.
+  if (estMaintenue(fiche) || estPerformante(fiche, reglages.audience, maintenant)) return null;
 
   // Fiche Google disparue : rien à transmettre, l'établissement n'existe plus.
   if (bl.etat === "introuvable" && echecs >= reglages.echecsAvantRetrait) {
@@ -114,6 +146,7 @@ export function deciderRetrait(fiche, reglages, maintenant = new Date()) {
 export function deciderArchivage(fiche, reglages, maintenant = new Date()) {
   if (!fiche.retrait) return null;
   if (fiche.backlink?.etat === "present") return null; // republication en vue
+  if (!retraitManuel(fiche) && estPerformante(fiche, reglages.audience, maintenant)) return null; // idem
   const age = joursDepuis(fiche.retrait.date, maintenant);
   if (age === null) return null;
   const plafond =
@@ -128,11 +161,18 @@ export function deciderArchivage(fiche, reglages, maintenant = new Date()) {
  * retrait résultait d'une demande explicite du dirigeant, qui prime sur tout,
  * ou d'un défaut d'indexation : le lien n'y changeait rien avant le retrait,
  * republier la même page reproduirait le même refus de Google.
+ *
+ * Une fiche retirée qui performe encore (≥ 1 clic Google par semaine) revient
+ * aussi en ligne, quelle que soit la cause du retrait (hors retrait manuel) :
+ * des clics prouvent que Google l'indexe et que des internautes la cherchent.
+ * @returns {string|null} le motif de la republication, ou null
  */
-export function deciderRepublication(fiche) {
-  return (
-    fiche.backlink?.etat === "present" &&
-    fiche.retrait?.motif !== "retrait manuel" &&
-    fiche.retrait?.cause !== "non-indexee"
-  );
+export function deciderRepublication(fiche, audience = null, maintenant = new Date()) {
+  if (retraitManuel(fiche)) return null;
+  const perf = estPerformante(fiche, audience, maintenant);
+  if (perf) return `la page performe encore (${perf.clics} clic(s) Google sur ${perf.jours} jours)`;
+  if (fiche.backlink?.etat === "present" && fiche.retrait?.cause !== "non-indexee") {
+    return "backlink GMB retrouvé";
+  }
+  return null;
 }

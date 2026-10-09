@@ -99,9 +99,9 @@ test("une fiche dont le lien est revenu n'est jamais archivée", () => {
 });
 
 test("le lien revenu republie la fiche, sauf après un retrait demandé", () => {
-  assert.equal(deciderRepublication({ backlink: { etat: "present" }, retrait: { motif: "backlink GMB retiré" } }), true);
-  assert.equal(deciderRepublication({ backlink: { etat: "present" }, retrait: { motif: "retrait manuel" } }), false);
-  assert.equal(deciderRepublication({ backlink: { etat: "absent" }, retrait: {} }), false);
+  assert.equal(deciderRepublication({ backlink: { etat: "present" }, retrait: { motif: "backlink GMB retiré" } }), "backlink GMB retrouvé");
+  assert.equal(deciderRepublication({ backlink: { etat: "present" }, retrait: { motif: "retrait manuel" } }), null);
+  assert.equal(deciderRepublication({ backlink: { etat: "absent" }, retrait: {} }), null);
 });
 
 // ---------------------------------------------------------------------------
@@ -136,7 +136,7 @@ test("une page avec des clics n'est pas redirigée quand son lien disparaît", (
   assert.equal(deciderRetrait(f, AVEC_AUDIENCE, MAINTENANT), null);
 });
 
-test("les clics ne sauvent pas une fiche Google disparue", () => {
+test("des clics anciens (sans rythme hebdomadaire) ne sauvent pas une fiche Google disparue", () => {
   const f = fiche({ etat: "introuvable", echecs: 2 }, {}, {
     audience: { clics: 9, impressions: 500, date: RELEVE },
   });
@@ -219,7 +219,66 @@ test("une page indexée, liée, reste en ligne ; non inspectée, la règle ne s'
 
 test("une page retirée pour défaut d'indexation n'est pas republiée quand le lien revient", () => {
   const f = fiche({ etat: "present" }, {}, { retrait: { mode: "301", cause: "non-indexee", motif: "page non indexée…" } });
-  assert.equal(deciderRepublication(f), false);
+  assert.equal(deciderRepublication(f), null);
   const g = fiche({ etat: "present" }, {}, { retrait: { mode: "301", motif: "backlink GMB retiré" } });
-  assert.equal(deciderRepublication(g), true);
+  assert.equal(deciderRepublication(g), "backlink GMB retrouvé");
+});
+
+// ---------------------------------------------------------------------------
+//  Performance : une page qui amène ≥ 1 clic Google par semaine ne disparaît pas
+// ---------------------------------------------------------------------------
+import { estPerformante } from "../lib/politique.mjs";
+
+const PERF = { ...AUDIENCE, clicsParSemaineMaintien: 1, fenetreRecenteJours: 28 };
+const AVEC_PERF = { ...REGLAGES, audience: PERF, couverture: COUVERTURE };
+
+test("une page qui performe reste en ligne même si sa fiche Google est introuvable", () => {
+  const f = fiche({ etat: "introuvable", echecs: 19, premiere_detection: "2026-07-01" }, {}, {
+    audience: { clics: 83, clicsRecents: 40, fenetreRecenteJours: 28, date: RELEVE },
+  });
+  assert.equal(deciderRetrait(f, REGLAGES, MAINTENANT).mode, "410", "sans relevé d'audience : 410");
+  assert.equal(deciderRetrait(f, AVEC_PERF, MAINTENANT), null);
+  assert.deepEqual(estPerformante(f, PERF, MAINTENANT), { clics: 40, jours: 28 });
+});
+
+test("le seuil est d'un clic par semaine en moyenne sur la fenêtre récente", () => {
+  const f = fiche({ etat: "introuvable", echecs: 5 }, {}, {
+    audience: { clics: 3, clicsRecents: 3, fenetreRecenteJours: 28, date: RELEVE },
+  });
+  assert.equal(estPerformante(f, PERF, MAINTENANT), null, "3 clics en 4 semaines : sous le seuil");
+  assert.equal(deciderRetrait(f, AVEC_PERF, MAINTENANT).mode, "410");
+  f.audience.clicsRecents = 4;
+  assert.equal(deciderRetrait(f, AVEC_PERF, MAINTENANT), null, "4 clics en 4 semaines : maintenue");
+});
+
+test("une page qui performe n'est retirée ni pour lien perdu ni pour non-indexation", () => {
+  const f = fiche({ etat: "absent", echecs: 30, premiere_detection: "2026-07-01" }, { publication: "2026-06-20" }, {
+    indexation: NON_INDEXEE,
+    audience: { clics: 0, clicsRecents: 10, fenetreRecenteJours: 28, date: RELEVE },
+  });
+  assert.equal(deciderRetrait(f, AVEC_PERF, MAINTENANT), null);
+});
+
+test("une fiche retirée qui performe encore est republiée, sauf retrait manuel", () => {
+  const audience = { clics: 31, clicsRecents: 31, fenetreRecenteJours: 28, date: RELEVE };
+  const f = fiche({ etat: "absent", echecs: 20 }, {}, { audience, retrait: { mode: "301", motif: "backlink GMB retiré" } });
+  assert.match(deciderRepublication(f, PERF, MAINTENANT), /performe encore \(31 clic/);
+  const g = fiche({ etat: "introuvable" }, {}, { audience, retrait: { mode: "410", cause: "non-indexee", motif: "…" } });
+  assert.ok(deciderRepublication(g, PERF, MAINTENANT), "même après une 410");
+  const h = fiche({ etat: "present" }, {}, { audience, retrait: { mode: "410", motif: "demande du dirigeant", manuel: true } });
+  assert.equal(deciderRepublication(h, PERF, MAINTENANT), null);
+  assert.equal(deciderArchivage(f, { ...AVEC_PERF, joursConservation301: 0 }, MAINTENANT), null, "pas d'archivage non plus");
+});
+
+test("un maintien manuel empêche tout retrait automatique", () => {
+  const f = fiche({ etat: "introuvable", echecs: 30 }, {}, { maintien: { date: RELEVE, motif: "page qui performe" } });
+  assert.equal(deciderRetrait(f, AVEC_PERF, MAINTENANT), null);
+});
+
+test("un relevé périmé ne rend pas une page performante", () => {
+  const f = fiche({ etat: "introuvable", echecs: 5 }, {}, {
+    audience: { clics: 50, clicsRecents: 50, fenetreRecenteJours: 28, date: "2026-07-01" },
+  });
+  assert.equal(estPerformante(f, PERF, MAINTENANT), null);
+  assert.equal(deciderRetrait(f, AVEC_PERF, MAINTENANT).mode, "410");
 });

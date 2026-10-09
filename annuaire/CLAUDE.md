@@ -21,7 +21,13 @@ Business Profile ne déclare **aucun site internet**. Le modèle repose sur un �
    délai de grâce de 45 jours) ;
 6. les règles 301/410 sont **purgées à expiration** (180 j pour une 410, 365 j pour une 301) : la
    fiche passe à l'état `archivee` et l'URL retombe en 404 naturel ;
-7. si le lien réapparaît, la page est republiée automatiquement (sauf retrait manuel, qui prime).
+7. si le lien réapparaît, la page est republiée automatiquement (sauf retrait manuel, qui prime) ;
+8. **une page qui performe ne disparaît jamais** (décision de Guillaume, 09/10/2026) : au moins
+   `config.audience.clicsParSemaineMaintien` clic Google par semaine en moyenne sur
+   `fenetreRecenteJours` (28 j) → aucun retrait automatique, MÊME si la fiche Google est
+   introuvable, et une fiche retirée qui performe encore est republiée (`estPerformante`). Maintien
+   manuel : `node outils/retraits.mjs --republier=/cat/ville/slug/ --motif="…"` (champ `maintien`,
+   levé par un retrait manuel). Seul un retrait manuel (`retrait.manuel`) prime.
 
 Le site est organisé en 26 catégories calquées sur les types GMB. URLs :
 `/{categorie}/{commune}/{entreprise}/`, plus pages catégorie, catégorie×commune et commune.
@@ -91,7 +97,8 @@ fiches collectées ne sont jamais mises en ligne (404 sur toutes les URLs suggé
    département : la collecte s'est tarie ainsi en dix jours (0 fiche du 12 au 18 septembre 2026).
 8. **Pas de grattage de Google Maps** — API officielle uniquement, ou fournisseurs csv/simulation.
 10. **Une page avec des clics Google ne se retire pas automatiquement** (`politique.mjs`,
-    `estProtegee`), sauf fiche Google disparue ; des impressions prolongent seulement le délai de
+    `estProtegee`), sauf fiche Google disparue — et même dans ce cas si elle performe
+    (≥ 1 clic/semaine, `estPerformante`, voir point 8 plus haut) ; des impressions prolongent seulement le délai de
     grâce. Le relevé (`audience.mjs`) doit rester optionnel et périmer (`fraicheurJours`) : une
     panne ne doit jamais figer les retraits. Authentification Google SANS clé : Workload Identity
     (`google-github-actions/auth` → `GOOGLE_ACCESS_TOKEN`), valeurs dans le bloc `env:` du workflow
