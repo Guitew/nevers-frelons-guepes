@@ -18,6 +18,8 @@ layout: layouts/base.njk
       <p class="dossier__meta">Publié le <time datetime="{{ page.date | isoDate }}">{{ page.date | dateFr }}</time></p>
     </header>
 
+    {% include "partials/cta-partenaire.njk" %}
+
     <div class="prose">
       {{ content | safe }}
     </div>

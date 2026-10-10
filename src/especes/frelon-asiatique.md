@@ -22,6 +22,8 @@ embleme: "🐝"
 chapo: "Introduit accidentellement, ce frelon exotique s'est répandu dans toute la France, y compris les Hauts-de-France. Prédateur d'abeilles, il fait l'objet d'une lutte comme espèce exotique envahissante."
 synonymes:
   - "Frelon à pattes jaunes"
+cta_partenaire:
+  - "62"
 ressource_pro:
   titre: "Un nid de frelon asiatique repéré ?"
   texte: "Les nids de frelon asiatique, souvent haut perchés et volumineux, ne doivent jamais être approchés ni traités soi-même : l'espèce peut défendre son nid collectivement. Faites appel à un professionnel équipé, qui interviendra en sécurité."

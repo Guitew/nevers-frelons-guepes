@@ -445,6 +445,53 @@ img { max-width: 100%; height: auto; display: block; }
 .ressource-pro__lien::after { content: "→"; }
 .ressource-pro__lien:hover { background: var(--vert-fonce); }
 
+/* ---------- CTA SMS + NAP locales partenaire (au-dessus de la ligne de flottaison) ---------- */
+.cta-partenaire {
+  margin: 1.4rem 0 1.8rem; padding: 1.2rem 1.3rem; border-radius: var(--rayon-lg);
+  border: 1px solid #f0c39c; border-left: 5px solid #e4570f;
+  background: linear-gradient(135deg, #fff8f1, #ffedd9);
+  display: grid; gap: 1rem;
+}
+.cta-partenaire__accroche {
+  margin: 0 0 .75rem; font-weight: 700; font-size: 1.08rem; color: var(--vert-fonce); max-width: 60ch;
+}
+.cta-sms {
+  display: inline-flex; align-items: center; gap: .55rem; text-decoration: none;
+  background: #e4570f; color: #fff; font-weight: 800; font-size: 1.12rem; line-height: 1.2;
+  padding: .85rem 1.5rem; border-radius: 999px;
+  box-shadow: 0 0 0 0 rgba(228, 87, 15, .55);
+  animation: cta-pulse 2s ease-out infinite;
+}
+.cta-sms::before { content: "💬"; font-size: 1.25em; }
+.cta-sms:hover, .cta-sms:focus-visible { background: #c74a0b; color: #fff; }
+@keyframes cta-pulse {
+  0% { box-shadow: 0 0 0 0 rgba(228, 87, 15, .55); }
+  70% { box-shadow: 0 0 0 14px rgba(228, 87, 15, 0); }
+  100% { box-shadow: 0 0 0 0 rgba(228, 87, 15, 0); }
+}
+.cta-partenaire__alt { margin: .75rem 0 0; font-size: .92rem; color: var(--texte-doux); }
+.cta-partenaire__naps { display: grid; grid-template-columns: repeat(auto-fit, minmax(240px, 1fr)); gap: .8rem; }
+.cta-nap {
+  background: var(--blanc); border: 1px solid var(--bordure); border-radius: var(--rayon);
+  padding: .85rem 1rem; font-size: .92rem;
+}
+.cta-nap__nom { font-weight: 700; color: var(--vert-fonce); margin: 0 0 .3rem; }
+.cta-nap p { margin: 0 0 .3rem; }
+.cta-nap p:last-child { margin-bottom: 0; }
+.cta-nap a { font-weight: 600; }
+.cta-sms--fixe { display: none; }
+@media (max-width: 760px) {
+  .cta-sms { width: 100%; justify-content: center; }
+  .cta-sms--fixe {
+    display: flex; position: fixed; left: .75rem; right: .75rem; bottom: .75rem; z-index: 60;
+    width: auto; box-shadow: 0 4px 16px rgba(23, 33, 28, .25), 0 0 0 0 rgba(228, 87, 15, .55);
+  }
+  body:has(.cta-sms--fixe) { padding-bottom: 4.5rem; }
+}
+@media (prefers-reduced-motion: reduce) {
+  .cta-sms { animation: none !important; }
+}
+
 /* ---------- Page Espèces exotiques envahissantes ---------- */
 .eee-hero {
   color: #fff; border-radius: var(--rayon-lg); margin-top: 1rem; padding: clamp(2.4rem, 5vw, 4rem);
