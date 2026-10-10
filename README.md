@@ -5,9 +5,9 @@ flore et aux milieux naturels des départements du **Nord (59)** et du **Pas-de-
 
 Le site est un **site statique** (aucune base de données) généré avec
 [Eleventy](https://www.11ty.dev/). Il est donc rapide, robuste, économe et se déploie sur
-n'importe quel hébergement mutualisé — notamment **IONOS**, où le domaine
-`allo-frelons.com` est hébergé. Seule la page d'administration des coordonnées
-(`admin-nap.php`) utilise PHP.
+n'importe quel hébergement mutualisé — notamment **o2switch**, où le domaine
+`observatoire-biodiversite-npdc.fr` est hébergé. Seule la page d'administration des
+coordonnées (`admin-nap.php`) utilise PHP.
 
 ---
 
@@ -42,7 +42,7 @@ npm run build
 ```
 
 Le site compilé est écrit dans le dossier **`_site/`**. C'est **le contenu de ce dossier** qui
-doit être mis en ligne (voir [DEPLOIEMENT-IONOS.md](./DEPLOIEMENT-IONOS.md)).
+doit être mis en ligne (voir [DEPLOIEMENT-O2SWITCH.md](./DEPLOIEMENT-O2SWITCH.md)).
 
 ## Structure du projet
 
@@ -138,7 +138,7 @@ Dans les deux cas : utilisez les valeurs **exactes** de la fiche d'établissemen
 
 ## Déploiement
 
-Voir le guide détaillé : **[DEPLOIEMENT-IONOS.md](./DEPLOIEMENT-IONOS.md)**.
+Voir le guide détaillé : **[DEPLOIEMENT-O2SWITCH.md](./DEPLOIEMENT-O2SWITCH.md)**.
 Deux méthodes : mise en ligne manuelle par FTP, ou déploiement automatique via GitHub Actions.
 
 ## Licence
