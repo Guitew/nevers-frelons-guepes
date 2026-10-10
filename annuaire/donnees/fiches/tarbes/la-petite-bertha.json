@@ -192,12 +192,13 @@
   },
   "statut_google": "OPERATIONAL",
   "audience": {
-    "clics": 319,
-    "impressions": null,
-    "position": null,
-    "visites": 370,
+    "clics": 199,
+    "impressions": 1275,
+    "position": 3.2,
     "fenetreJours": 90,
-    "source": "visites",
-    "date": "2026-10-09"
+    "clicsRecents": 199,
+    "fenetreRecenteJours": 28,
+    "source": "search-console",
+    "date": "2026-10-10"
   }
 }

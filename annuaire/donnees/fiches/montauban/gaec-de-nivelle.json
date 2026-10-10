@@ -123,16 +123,16 @@
     "url_detectee": null
   },
   "suggestion": {
-    "etat": "en-attente",
-    "date_soumission": null,
-    "tentatives": 0,
+    "etat": "soumise",
+    "date_soumission": "2026-10-10",
+    "tentatives": 1,
     "date_email": "2026-10-09"
   },
   "retrait": null,
   "dates": {
     "collecte": "2026-10-09",
     "publication": "2026-10-09",
-    "maj": "2026-10-09"
+    "maj": "2026-10-10"
   },
   "source": "google-places",
   "redaction": {
@@ -198,11 +198,12 @@
   "statut_google": "OPERATIONAL",
   "audience": {
     "clics": 0,
-    "impressions": null,
+    "impressions": 0,
     "position": null,
-    "visites": 0,
     "fenetreJours": 90,
-    "source": "visites",
-    "date": "2026-10-09"
+    "clicsRecents": 0,
+    "fenetreRecenteJours": 28,
+    "source": "search-console",
+    "date": "2026-10-10"
   }
 }

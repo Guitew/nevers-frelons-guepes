@@ -194,16 +194,26 @@
   },
   "statut_google": "OPERATIONAL",
   "audience": {
-    "clics": 0,
-    "impressions": null,
-    "position": null,
-    "visites": 0,
+    "clics": 31,
+    "impressions": 1542,
+    "position": 2.6,
     "fenetreJours": 90,
-    "source": "visites",
-    "date": "2026-10-09"
+    "clicsRecents": 31,
+    "fenetreRecenteJours": 28,
+    "source": "search-console",
+    "date": "2026-10-10"
   },
   "maintien": {
     "date": "2026-10-09",
     "motif": "page qui performe (31 clics Google, position 3, releve GSC du 09/10/2026)"
+  },
+  "indexation": {
+    "etat": "indexee",
+    "verdict": null,
+    "couverture": "impressions dans la Search Console",
+    "derniere_exploration": null,
+    "canonique_google": null,
+    "source": "impressions",
+    "date": "2026-10-10"
   }
 }

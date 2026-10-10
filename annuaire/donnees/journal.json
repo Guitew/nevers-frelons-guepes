@@ -1,5 +1,97 @@
 [
   {
+    "date": "2026-10-10T11:18:48.372Z",
+    "type": "suggestion-soumise",
+    "id": "ChIJp0CWCiwNrBIRYG_PwS5aUwA",
+    "nom": "Gaec de Nivelle",
+    "url": "/transport-demenagement/montauban/gaec-de-nivelle/"
+  },
+  {
+    "date": "2026-10-10T11:08:55.796Z",
+    "type": "backlink-absent",
+    "id": "ChIJm4k4otDT_EcRFgzLGxpub-0",
+    "nom": "Auchan Retail Logistique ST Pierre des Corps",
+    "url": null,
+    "precedent": "en-attente"
+  },
+  {
+    "date": "2026-10-10T11:08:55.871Z",
+    "type": "backlink-absent",
+    "id": "ChIJ9UjvVifgDkgRN7ni4jYVDlU",
+    "nom": "Crédit Agricole Ille-et-Vilaine - Siège social",
+    "url": null,
+    "precedent": "en-attente"
+  },
+  {
+    "date": "2026-10-10T11:08:55.965Z",
+    "type": "backlink-absent",
+    "id": "ChIJjyDrjQE9kkcRXq2bvqFZlr4",
+    "nom": "Destock'Land Belfort",
+    "url": null,
+    "precedent": "en-attente"
+  },
+  {
+    "date": "2026-10-10T11:08:56.044Z",
+    "type": "backlink-absent",
+    "id": "ChIJ0W_2TD-0qxIRZ_tNAaJPbKg",
+    "nom": "La Boulangerie En Vie de Pain",
+    "url": null,
+    "precedent": "en-attente"
+  },
+  {
+    "date": "2026-10-10T11:08:56.129Z",
+    "type": "backlink-absent",
+    "id": "ChIJ3c2LQgfWB0gRPyO8MKqq17k",
+    "nom": "Restaurant Le Rétro",
+    "url": null,
+    "precedent": "en-attente"
+  },
+  {
+    "date": "2026-10-10T11:08:55.437Z",
+    "type": "publication",
+    "id": "ChIJ9UjvVifgDkgRN7ni4jYVDlU",
+    "nom": "Crédit Agricole Ille-et-Vilaine - Siège social",
+    "url": "/assurance-banque-finance/saint-jacques-de-la-lande/credit-agricole-ille-et-vilaine-siege-social/",
+    "categorie": "assurance-banque-finance",
+    "source": "google-places"
+  },
+  {
+    "date": "2026-10-10T11:08:55.438Z",
+    "type": "publication",
+    "id": "ChIJ3c2LQgfWB0gRPyO8MKqq17k",
+    "nom": "Restaurant Le Rétro",
+    "url": "/restaurants/angers/restaurant-le-retro/",
+    "categorie": "restaurants",
+    "source": "google-places"
+  },
+  {
+    "date": "2026-10-10T11:08:55.438Z",
+    "type": "publication",
+    "id": "ChIJjyDrjQE9kkcRXq2bvqFZlr4",
+    "nom": "Destock'Land Belfort",
+    "url": "/commerces-alimentation/belfort/destock-land-belfort/",
+    "categorie": "commerces-alimentation",
+    "source": "google-places"
+  },
+  {
+    "date": "2026-10-10T11:08:55.439Z",
+    "type": "publication",
+    "id": "ChIJm4k4otDT_EcRFgzLGxpub-0",
+    "nom": "Auchan Retail Logistique ST Pierre des Corps",
+    "url": "/transport-demenagement/saint-pierre-des-corps/auchan-retail-logistique-st-pierre-des-corps/",
+    "categorie": "transport-demenagement",
+    "source": "google-places"
+  },
+  {
+    "date": "2026-10-10T11:08:55.439Z",
+    "type": "publication",
+    "id": "ChIJ0W_2TD-0qxIRZ_tNAaJPbKg",
+    "nom": "La Boulangerie En Vie de Pain",
+    "url": "/boulangeries-patisseries/le-passage/la-boulangerie-en-vie-de-pain/",
+    "categorie": "boulangeries-patisseries",
+    "source": "google-places"
+  },
+  {
     "date": "2026-10-09T17:15:13.487Z",
     "type": "republication",
     "id": "ChIJcWqeJd4trhIRTUgnKO62TCA",
