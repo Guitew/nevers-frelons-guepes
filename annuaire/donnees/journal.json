@@ -1,5 +1,118 @@
 [
   {
+    "date": "2026-10-11T11:33:44.944Z",
+    "type": "suggestion-soumise",
+    "id": "ChIJ3c2LQgfWB0gRPyO8MKqq17k",
+    "nom": "Restaurant Le Rétro",
+    "url": "/restaurants/angers/restaurant-le-retro/"
+  },
+  {
+    "date": "2026-10-11T11:33:44.930Z",
+    "type": "suggestion-soumise",
+    "id": "ChIJjyDrjQE9kkcRXq2bvqFZlr4",
+    "nom": "Destock'Land Belfort",
+    "url": "/commerces-alimentation/belfort/destock-land-belfort/"
+  },
+  {
+    "date": "2026-10-11T11:33:44.913Z",
+    "type": "suggestion-soumise",
+    "id": "ChIJ0W_2TD-0qxIRZ_tNAaJPbKg",
+    "nom": "La Boulangerie En Vie de Pain",
+    "url": "/boulangeries-patisseries/le-passage/la-boulangerie-en-vie-de-pain/"
+  },
+  {
+    "date": "2026-10-11T11:33:44.895Z",
+    "type": "suggestion-soumise",
+    "id": "ChIJm4k4otDT_EcRFgzLGxpub-0",
+    "nom": "Auchan Retail Logistique ST Pierre des Corps",
+    "url": "/transport-demenagement/saint-pierre-des-corps/auchan-retail-logistique-st-pierre-des-corps/"
+  },
+  {
+    "date": "2026-10-11T11:22:19.708Z",
+    "type": "backlink-absent",
+    "id": "ChIJ1QvHqaD79UcR7DrZsBK0DrE",
+    "nom": "Bar Du Rocher",
+    "url": null,
+    "precedent": "en-attente"
+  },
+  {
+    "date": "2026-10-11T11:22:19.766Z",
+    "type": "backlink-absent",
+    "id": "ChIJaWRYwHTtkkcRtnv9O4yitUk",
+    "nom": "Camperplaats Vaivre-et-Montoille",
+    "url": null,
+    "precedent": "en-attente"
+  },
+  {
+    "date": "2026-10-11T11:22:19.817Z",
+    "type": "backlink-absent",
+    "id": "ChIJfRvDXt3dlEcR-Cqtu2l0-5A",
+    "nom": "La fontaine du bonheur",
+    "url": null,
+    "precedent": "en-attente"
+  },
+  {
+    "date": "2026-10-11T11:22:19.874Z",
+    "type": "backlink-absent",
+    "id": "ChIJAdE4vpG8rhIRE3Qyd3igyZQ",
+    "nom": "Le Seventies",
+    "url": null,
+    "precedent": "en-attente"
+  },
+  {
+    "date": "2026-10-11T11:22:19.939Z",
+    "type": "backlink-absent",
+    "id": "ChIJLWnjfdrAyRIRwLmwavVTw5A",
+    "nom": "Ô Cercle",
+    "url": null,
+    "precedent": "en-attente"
+  },
+  {
+    "date": "2026-10-11T11:22:19.468Z",
+    "type": "publication",
+    "id": "ChIJfRvDXt3dlEcR-Cqtu2l0-5A",
+    "nom": "La fontaine du bonheur",
+    "url": "/restaurants/metz/la-fontaine-du-bonheur/",
+    "categorie": "restaurants",
+    "source": "google-places"
+  },
+  {
+    "date": "2026-10-11T11:22:19.469Z",
+    "type": "publication",
+    "id": "ChIJLWnjfdrAyRIRwLmwavVTw5A",
+    "nom": "Ô Cercle",
+    "url": "/restaurants/marseille/o-cercle/",
+    "categorie": "restaurants",
+    "source": "google-places"
+  },
+  {
+    "date": "2026-10-11T11:22:19.469Z",
+    "type": "publication",
+    "id": "ChIJ1QvHqaD79UcR7DrZsBK0DrE",
+    "nom": "Bar Du Rocher",
+    "url": "/cafes-bars/espaly-saint-marcel/bar-du-rocher/",
+    "categorie": "cafes-bars",
+    "source": "google-places"
+  },
+  {
+    "date": "2026-10-11T11:22:19.469Z",
+    "type": "publication",
+    "id": "ChIJaWRYwHTtkkcRtnv9O4yitUk",
+    "nom": "Camperplaats Vaivre-et-Montoille",
+    "url": "/hebergement/vaivre-et-montoille/camperplaats-vaivre-et-montoille/",
+    "categorie": "hebergement",
+    "source": "google-places"
+  },
+  {
+    "date": "2026-10-11T11:22:19.469Z",
+    "type": "publication",
+    "id": "ChIJAdE4vpG8rhIRE3Qyd3igyZQ",
+    "nom": "Le Seventies",
+    "url": "/cafes-bars/toulouse/le-seventies/",
+    "categorie": "cafes-bars",
+    "source": "google-places"
+  },
+  {
     "date": "2026-10-10T11:18:48.372Z",
     "type": "suggestion-soumise",
     "id": "ChIJp0CWCiwNrBIRYG_PwS5aUwA",

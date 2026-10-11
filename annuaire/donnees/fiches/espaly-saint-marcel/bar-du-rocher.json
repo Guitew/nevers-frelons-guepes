@@ -1,0 +1,206 @@
+{
+  "id": "ChIJ1QvHqaD79UcR7DrZsBK0DrE",
+  "slug": "bar-du-rocher",
+  "nom": "Bar Du Rocher",
+  "categorie": "cafes-bars",
+  "categorie_gmb": "Bar",
+  "type_principal": "bar",
+  "types": [
+    "bar",
+    "store",
+    "point_of_interest",
+    "establishment"
+  ],
+  "ville": "Espaly-Saint-Marcel",
+  "ville_slug": "espaly-saint-marcel",
+  "adresse": {
+    "rue": "10 Avenue de la Mairie",
+    "code_postal": "43000",
+    "departement": "43",
+    "region": "Auvergne-Rhône-Alpes",
+    "pays": "France",
+    "complete": "10 Av. de la Mairie, 43000 Espaly-Saint-Marcel"
+  },
+  "telephone": "04 71 09 03 62",
+  "geo": {
+    "latitude": 45.046502800000006,
+    "longitude": 3.865279
+  },
+  "note": 4.5,
+  "avis": 128,
+  "horaires": [
+    {
+      "jour": 0,
+      "ferme": false,
+      "creneaux": [
+        [
+          "06:00",
+          "20:00"
+        ]
+      ]
+    },
+    {
+      "jour": 1,
+      "ferme": false,
+      "creneaux": [
+        [
+          "06:00",
+          "20:00"
+        ]
+      ]
+    },
+    {
+      "jour": 2,
+      "ferme": false,
+      "creneaux": [
+        [
+          "06:00",
+          "20:00"
+        ]
+      ]
+    },
+    {
+      "jour": 3,
+      "ferme": false,
+      "creneaux": [
+        [
+          "06:00",
+          "20:00"
+        ]
+      ]
+    },
+    {
+      "jour": 4,
+      "ferme": false,
+      "creneaux": [
+        [
+          "06:00",
+          "20:00"
+        ]
+      ]
+    },
+    {
+      "jour": 5,
+      "ferme": false,
+      "creneaux": [
+        [
+          "07:00",
+          "20:00"
+        ]
+      ]
+    },
+    {
+      "jour": 6,
+      "ferme": false,
+      "creneaux": [
+        [
+          "07:00",
+          "13:00"
+        ]
+      ]
+    }
+  ],
+  "attributs": [
+    "Entrée accessible en fauteuil roulant",
+    "Parking accessible en fauteuil roulant"
+  ],
+  "lien_google": "https://maps.google.com/?cid=12758332786756631276&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
+  "site_web_gmb": null,
+  "statut": "publiee",
+  "backlink": {
+    "etat": "absent",
+    "premiere_detection": null,
+    "derniere_detection": null,
+    "derniere_verification": "2026-10-11T11:22:19.539Z",
+    "echecs": 1,
+    "url_detectee": null
+  },
+  "suggestion": {
+    "etat": "en-attente",
+    "date_soumission": null,
+    "tentatives": 0,
+    "date_email": "2026-10-11"
+  },
+  "retrait": null,
+  "dates": {
+    "collecte": "2026-10-11",
+    "publication": "2026-10-11",
+    "maj": "2026-10-11"
+  },
+  "source": "google-places",
+  "redaction": {
+    "titre": "Bar Du Rocher — Café ou bar à Espaly-Saint-Marcel",
+    "meta_titre": "Bar Du Rocher, café ou bar à Espaly-Saint-Marcel",
+    "meta_description": "Bar Du Rocher, café ou bar à Espaly-Saint-Marcel (10 Avenue de la Mairie) : adresse, horaires, téléphone et informations pratiques.",
+    "chapo": "Bar Du Rocher figure parmi les établissements de la catégorie « Café ou bar » recensés à Espaly-Saint-Marcel. L'entreprise n'a pas de site web référencé sur sa fiche Google. Les éléments présentés ici — adresse, horaires, contact — proviennent de cette fiche et sont datés de leur relevé.",
+    "sections": [
+      {
+        "id": "presentation",
+        "titre": "Bar Du Rocher en quelques mots",
+        "paragraphes": [
+          "Le choix d'un café ou bar se joue sur trois critères : la proximité, les horaires et la facilité de contact.",
+          "Les cafés et bars sont des repères de vie locale rarement dotés d'un site. Horaires réels, terrasse, retransmissions sportives, concerts : autant de détails qui décident d'une sortie et qui n'apparaissent nulle part ailleurs de façon lisible.",
+          "D'après le relevé du 11 octobre 2026, l'établissement est ouvert sept jours sur sept. Le détail jour par jour figure plus bas."
+        ]
+      },
+      {
+        "id": "acces",
+        "titre": "Adresse et accès",
+        "paragraphes": [
+          "L'établissement est situé au 10 Avenue de la Mairie, 43000 Espaly-Saint-Marcel.",
+          "Coordonnées géographiques : 45.04650, 3.86528. Le lien d'itinéraire ci-dessous ouvre directement la navigation."
+        ]
+      },
+      {
+        "id": "contact",
+        "titre": "Contacter Bar Du Rocher",
+        "paragraphes": [
+          "Le contact se fait par téléphone au 04 71 09 03 62. C'est le seul moyen de communication déclaré sur la fiche Google de l'entreprise, avec la visite sur place.",
+          "Si vous dirigez cette entreprise, vous pouvez demander la correction ou le retrait de cette page à tout moment, sans justification."
+        ]
+      },
+      {
+        "id": "avis",
+        "titre": "La réputation de Bar Du Rocher",
+        "paragraphes": [
+          "Au relevé du 11 octobre 2026, l'établissement affichait une note de 4,5 sur 5 sur Google, calculée à partir de 128 avis. Cette note évolue en permanence : elle est indiquée ici à titre d'information et n'est pas retraitée.",
+          "Les avis appartiennent à Google et se consultent sur la fiche d'origine, dont le lien figure sur cette page."
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "q": "Quels sont les horaires de Bar Du Rocher ?",
+        "r": "Au relevé du 11 octobre 2026, Bar Du Rocher était ouvert sept jours sur sept. Dans le détail — lundi : de 6 h à 20 h ; mardi : de 6 h à 20 h ; mercredi : de 6 h à 20 h ; jeudi : de 6 h à 20 h ; vendredi : de 6 h à 20 h ; samedi : de 7 h à 20 h ; dimanche : de 7 h à 13 h. Ces horaires peuvent changer : un appel préalable reste conseillé."
+      },
+      {
+        "q": "Où se trouve Bar Du Rocher ?",
+        "r": "Bar Du Rocher se trouve 10 Av. de la Mairie, 43000 Espaly-Saint-Marcel. Un lien d'itinéraire est disponible sur cette page."
+      },
+      {
+        "q": "Comment contacter Bar Du Rocher ?",
+        "r": "Par téléphone au 04 71 09 03 62, ou directement sur place aux heures d'ouverture."
+      },
+      {
+        "q": "Bar Du Rocher a-t-il un site internet ?",
+        "r": "Non : aucune adresse de site web n'est déclarée sur la fiche Google de Bar Du Rocher au 11 octobre 2026. Cette page tient lieu de référence publique en attendant, le cas échéant, la création d'un site propre à l'entreprise."
+      },
+      {
+        "q": "Bar Du Rocher est-il accessible aux personnes à mobilité réduite ?",
+        "r": "La fiche Google de l'établissement mentionne : « Entrée accessible en fauteuil roulant ». Cette information est déclarative ; en cas de doute, vérifiez par téléphone."
+      }
+    ],
+    "genere_le": "2026-10-11"
+  },
+  "statut_google": "OPERATIONAL",
+  "audience": {
+    "clics": 0,
+    "impressions": 0,
+    "position": null,
+    "fenetreJours": 90,
+    "clicsRecents": 0,
+    "fenetreRecenteJours": 28,
+    "source": "search-console",
+    "date": "2026-10-11"
+  }
+}

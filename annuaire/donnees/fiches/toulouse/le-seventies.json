@@ -1,0 +1,213 @@
+{
+  "id": "ChIJAdE4vpG8rhIRE3Qyd3igyZQ",
+  "slug": "le-seventies",
+  "nom": "Le Seventies",
+  "categorie": "cafes-bars",
+  "categorie_gmb": "Pub",
+  "type_principal": "pub",
+  "types": [
+    "pub",
+    "brewery",
+    "sports_complex",
+    "bar",
+    "event_venue",
+    "manufacturer",
+    "sports_activity_location",
+    "food",
+    "point_of_interest",
+    "service",
+    "establishment"
+  ],
+  "ville": "Toulouse",
+  "ville_slug": "toulouse",
+  "adresse": {
+    "rue": "42 Port Saint-Étienne",
+    "code_postal": "31000",
+    "departement": "31",
+    "region": "Occitanie",
+    "pays": "France",
+    "complete": "42 Port Saint-Étienne, 31000 Toulouse"
+  },
+  "telephone": "05 61 80 72 17",
+  "geo": {
+    "latitude": 43.6008114,
+    "longitude": 1.4568284999999999
+  },
+  "note": 4,
+  "avis": 514,
+  "horaires": [
+    {
+      "jour": 0,
+      "ferme": false,
+      "creneaux": [
+        [
+          "18:00",
+          "00:00"
+        ]
+      ]
+    },
+    {
+      "jour": 1,
+      "ferme": false,
+      "creneaux": [
+        [
+          "18:00",
+          "00:00"
+        ]
+      ]
+    },
+    {
+      "jour": 2,
+      "ferme": false,
+      "creneaux": [
+        [
+          "18:00",
+          "01:00"
+        ]
+      ]
+    },
+    {
+      "jour": 3,
+      "ferme": false,
+      "creneaux": [
+        [
+          "17:30",
+          "02:00"
+        ]
+      ]
+    },
+    {
+      "jour": 4,
+      "ferme": false,
+      "creneaux": [
+        [
+          "18:00",
+          "02:00"
+        ]
+      ]
+    },
+    {
+      "jour": 5,
+      "ferme": false,
+      "creneaux": [
+        [
+          "15:30",
+          "03:00"
+        ]
+      ]
+    },
+    {
+      "jour": 6,
+      "ferme": false,
+      "creneaux": [
+        [
+          "16:00",
+          "00:00"
+        ]
+      ]
+    }
+  ],
+  "attributs": [
+    "Toilettes accessibles en fauteuil roulant",
+    "Places assises accessibles en fauteuil roulant"
+  ],
+  "lien_google": "https://maps.google.com/?cid=10721276827188491283&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
+  "site_web_gmb": null,
+  "statut": "publiee",
+  "backlink": {
+    "etat": "absent",
+    "premiere_detection": null,
+    "derniere_detection": null,
+    "derniere_verification": "2026-10-11T11:22:19.539Z",
+    "echecs": 1,
+    "url_detectee": null
+  },
+  "suggestion": {
+    "etat": "en-attente",
+    "date_soumission": null,
+    "tentatives": 0,
+    "date_email": "2026-10-11"
+  },
+  "retrait": null,
+  "dates": {
+    "collecte": "2026-10-11",
+    "publication": "2026-10-11",
+    "maj": "2026-10-11"
+  },
+  "source": "google-places",
+  "redaction": {
+    "titre": "Le Seventies — Café ou bar à Toulouse",
+    "meta_titre": "Le Seventies, café ou bar à Toulouse",
+    "meta_description": "Le Seventies, café ou bar à Toulouse (42 Port Saint-Étienne) : adresse, horaires, téléphone et informations pratiques.",
+    "chapo": "Le Seventies exerce l'activité de café ou bar au 42 Port Saint-Étienne, à Toulouse. Faute de site internet déclaré sur sa fiche Google, l'entreprise reste difficile à trouver en dehors des cartes. Cette page comble ce manque avec des données factuelles et datées.",
+    "sections": [
+      {
+        "id": "presentation",
+        "titre": "Le Seventies en quelques mots",
+        "paragraphes": [
+          "Le choix d'un café ou bar se joue sur trois critères : la proximité, les horaires et la facilité de contact.",
+          "Les cafés et bars sont des repères de vie locale rarement dotés d'un site. Horaires réels, terrasse, retransmissions sportives, concerts : autant de détails qui décident d'une sortie et qui n'apparaissent nulle part ailleurs de façon lisible.",
+          "D'après le relevé du 11 octobre 2026, l'établissement est ouvert sept jours sur sept. Le détail jour par jour figure plus bas."
+        ]
+      },
+      {
+        "id": "acces",
+        "titre": "Adresse et accès",
+        "paragraphes": [
+          "L'établissement est situé au 42 Port Saint-Étienne, 31000 Toulouse.",
+          "Coordonnées géographiques : 43.60081, 1.45683. Le lien d'itinéraire ci-dessous ouvre directement la navigation."
+        ]
+      },
+      {
+        "id": "contact",
+        "titre": "Contacter Le Seventies",
+        "paragraphes": [
+          "Le contact se fait par téléphone au 05 61 80 72 17. C'est le seul moyen de communication déclaré sur la fiche Google de l'entreprise, avec la visite sur place.",
+          "Si vous dirigez cette entreprise, vous pouvez demander la correction ou le retrait de cette page à tout moment, sans justification."
+        ]
+      },
+      {
+        "id": "avis",
+        "titre": "La réputation de Le Seventies",
+        "paragraphes": [
+          "Au relevé du 11 octobre 2026, l'établissement affichait une note de 4 sur 5 sur Google, calculée à partir de 514 avis. Cette note évolue en permanence : elle est indiquée ici à titre d'information et n'est pas retraitée.",
+          "Les avis appartiennent à Google et se consultent sur la fiche d'origine, dont le lien figure sur cette page."
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "q": "Quels sont les horaires de Le Seventies ?",
+        "r": "Au relevé du 11 octobre 2026, Le Seventies était ouvert sept jours sur sept. Dans le détail — lundi : de 18 h à 0 h ; mardi : de 18 h à 0 h ; mercredi : de 18 h à 1 h ; jeudi : de 17 h 30 à 2 h ; vendredi : de 18 h à 2 h ; samedi : de 15 h 30 à 3 h ; dimanche : de 16 h à 0 h. Ces horaires peuvent changer : un appel préalable reste conseillé."
+      },
+      {
+        "q": "Où se trouve Le Seventies ?",
+        "r": "Le Seventies se trouve 42 Port Saint-Étienne, 31000 Toulouse. Un lien d'itinéraire est disponible sur cette page."
+      },
+      {
+        "q": "Comment contacter Le Seventies ?",
+        "r": "Par téléphone au 05 61 80 72 17, ou directement sur place aux heures d'ouverture."
+      },
+      {
+        "q": "Le Seventies a-t-il un site internet ?",
+        "r": "Non : aucune adresse de site web n'est déclarée sur la fiche Google de Le Seventies au 11 octobre 2026. Cette page tient lieu de référence publique en attendant, le cas échéant, la création d'un site propre à l'entreprise."
+      },
+      {
+        "q": "Le Seventies est-il accessible aux personnes à mobilité réduite ?",
+        "r": "La fiche Google de l'établissement mentionne : « Toilettes accessibles en fauteuil roulant ». Cette information est déclarative ; en cas de doute, vérifiez par téléphone."
+      }
+    ],
+    "genere_le": "2026-10-11"
+  },
+  "statut_google": "OPERATIONAL",
+  "audience": {
+    "clics": 0,
+    "impressions": 0,
+    "position": null,
+    "fenetreJours": 90,
+    "clicsRecents": 0,
+    "fenetreRecenteJours": 28,
+    "source": "search-console",
+    "date": "2026-10-11"
+  }
+}
