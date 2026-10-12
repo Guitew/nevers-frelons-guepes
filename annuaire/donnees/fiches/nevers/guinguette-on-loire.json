@@ -108,15 +108,15 @@
     "etat": "externe",
     "premiere_detection": null,
     "derniere_detection": null,
-    "derniere_verification": "2026-10-09T11:52:02.074Z",
-    "echecs": 71,
+    "derniere_verification": "2026-10-12T19:47:22.869Z",
+    "echecs": 72,
     "url_detectee": "https://www.guinguetteonloire.fr/contact"
   },
   "retrait": null,
   "dates": {
     "collecte": "2026-08-30",
     "publication": "2026-08-30",
-    "maj": "2026-10-09"
+    "maj": "2026-10-12"
   },
   "source": "google-places",
   "redaction": {
@@ -198,7 +198,7 @@
     "clicsRecents": 0,
     "fenetreRecenteJours": 28,
     "source": "search-console",
-    "date": "2026-10-11"
+    "date": "2026-10-12"
   },
   "indexation": {
     "etat": "non-indexee",
@@ -207,6 +207,6 @@
     "derniere_exploration": null,
     "canonique_google": null,
     "source": "inspection",
-    "date": "2026-10-11"
+    "date": "2026-10-12"
   }
 }
