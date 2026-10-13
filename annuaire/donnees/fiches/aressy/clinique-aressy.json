@@ -122,10 +122,19 @@
     "clicsRecents": 83,
     "fenetreRecenteJours": 28,
     "source": "search-console",
-    "date": "2026-10-12"
+    "date": "2026-10-13"
   },
   "maintien": {
     "date": "2026-10-09",
     "motif": "page qui performe (83 clics Google, position 2, releve GSC du 09/10/2026)"
+  },
+  "indexation": {
+    "etat": "indexee",
+    "verdict": null,
+    "couverture": "impressions dans la Search Console",
+    "derniere_exploration": null,
+    "canonique_google": null,
+    "source": "impressions",
+    "date": "2026-10-13"
   }
 }

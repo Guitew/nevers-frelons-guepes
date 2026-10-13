@@ -110,15 +110,15 @@
     "etat": "absent",
     "premiere_detection": null,
     "derniere_detection": null,
-    "derniere_verification": "2026-10-09T11:52:02.074Z",
-    "echecs": 68,
+    "derniere_verification": "2026-10-13T12:40:03.315Z",
+    "echecs": 69,
     "url_detectee": null
   },
   "retrait": null,
   "dates": {
     "collecte": "2026-08-30",
     "publication": "2026-08-30",
-    "maj": "2026-10-09"
+    "maj": "2026-10-13"
   },
   "source": "google-places",
   "redaction": {
@@ -193,13 +193,13 @@
   "statut_google": "OPERATIONAL",
   "audience": {
     "clics": 1,
-    "impressions": 7,
-    "position": 3.7,
+    "impressions": 8,
+    "position": 3.9,
     "fenetreJours": 90,
     "clicsRecents": 1,
     "fenetreRecenteJours": 28,
     "source": "search-console",
-    "date": "2026-10-12"
+    "date": "2026-10-13"
   },
   "indexation": {
     "etat": "indexee",
@@ -208,6 +208,6 @@
     "derniere_exploration": null,
     "canonique_google": null,
     "source": "impressions",
-    "date": "2026-10-12"
+    "date": "2026-10-13"
   }
 }

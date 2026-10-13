@@ -1,0 +1,196 @@
+{
+  "id": "ChIJPQ6pLeqlikcRXIRokkY8paE",
+  "slug": "dsp-team",
+  "nom": "DSP Team",
+  "categorie": "garages-automobile",
+  "categorie_gmb": "Garage automobile",
+  "type_principal": "car_repair",
+  "types": [
+    "car_repair",
+    "service",
+    "point_of_interest",
+    "establishment"
+  ],
+  "ville": "Veyrier-du-Lac",
+  "ville_slug": "veyrier-du-lac",
+  "adresse": {
+    "rue": "12 Route des Pérouzes",
+    "code_postal": "74290",
+    "departement": "74",
+    "region": "Auvergne-Rhône-Alpes",
+    "pays": "France",
+    "complete": "12 Rte des Pérouzes, 74290 Veyrier-du-Lac"
+  },
+  "telephone": "06 99 52 89 13",
+  "geo": {
+    "latitude": 45.8870626,
+    "longitude": 6.175662699999999
+  },
+  "note": 4.5,
+  "avis": 11,
+  "horaires": [
+    {
+      "jour": 0,
+      "ferme": false,
+      "creneaux": [
+        [
+          "08:00",
+          "18:00"
+        ]
+      ]
+    },
+    {
+      "jour": 1,
+      "ferme": false,
+      "creneaux": [
+        [
+          "08:00",
+          "18:00"
+        ]
+      ]
+    },
+    {
+      "jour": 2,
+      "ferme": false,
+      "creneaux": [
+        [
+          "08:00",
+          "18:00"
+        ]
+      ]
+    },
+    {
+      "jour": 3,
+      "ferme": false,
+      "creneaux": [
+        [
+          "08:00",
+          "18:00"
+        ]
+      ]
+    },
+    {
+      "jour": 4,
+      "ferme": false,
+      "creneaux": [
+        [
+          "08:00",
+          "18:00"
+        ]
+      ]
+    },
+    {
+      "jour": 5,
+      "ferme": true,
+      "creneaux": []
+    },
+    {
+      "jour": 6,
+      "ferme": true,
+      "creneaux": []
+    }
+  ],
+  "attributs": [
+    "Entrée accessible en fauteuil roulant",
+    "Parking accessible en fauteuil roulant"
+  ],
+  "lien_google": "https://maps.google.com/?cid=11647782285065356380&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
+  "site_web_gmb": null,
+  "statut": "publiee",
+  "backlink": {
+    "etat": "absent",
+    "premiere_detection": null,
+    "derniere_detection": null,
+    "derniere_verification": "2026-10-13T12:40:03.315Z",
+    "echecs": 1,
+    "url_detectee": null
+  },
+  "suggestion": {
+    "etat": "en-attente",
+    "date_soumission": null,
+    "tentatives": 0,
+    "date_email": "2026-10-13"
+  },
+  "retrait": null,
+  "dates": {
+    "collecte": "2026-10-13",
+    "publication": "2026-10-13",
+    "maj": "2026-10-13"
+  },
+  "source": "google-places",
+  "redaction": {
+    "titre": "DSP Team — Garage et automobile à Veyrier-du-Lac",
+    "meta_titre": "DSP Team, garage et automobile à Veyrier-du-Lac",
+    "meta_description": "DSP Team, garage et automobile à Veyrier-du-Lac (12 Route des Pérouzes) : adresse, horaires, téléphone et informations pratiques.",
+    "chapo": "Cette fiche présente DSP Team, un garage et automobile au 12 Route des Pérouzes, à Veyrier-du-Lac. Son établissement ne déclare aucun site internet sur sa fiche Google : les informations ci-dessous en tiennent lieu de référence publique, vérifiable et accessible à tous.",
+    "sections": [
+      {
+        "id": "presentation",
+        "titre": "DSP Team en quelques mots",
+        "paragraphes": [
+          "Garages et services automobiles font partie des activités les plus consultées localement sur mobile.",
+          "Entretien, réparation, contrôle technique : l'automobiliste choisit d'abord un garage proche et disponible. Ces entreprises travaillent à flux tendu et délaissent presque toujours la création d'un site, malgré une demande de recherche locale considérable.",
+          "D'après le relevé du 13 octobre 2026, l'établissement est fermé le samedi et le dimanche. Le détail jour par jour figure plus bas."
+        ]
+      },
+      {
+        "id": "acces",
+        "titre": "Adresse et accès",
+        "paragraphes": [
+          "L'établissement est situé au 12 Route des Pérouzes, 74290 Veyrier-du-Lac.",
+          "Coordonnées géographiques : 45.88706, 6.17566. Le lien d'itinéraire ci-dessous ouvre directement la navigation."
+        ]
+      },
+      {
+        "id": "contact",
+        "titre": "Contacter DSP Team",
+        "paragraphes": [
+          "Le contact se fait par téléphone au 06 99 52 89 13. C'est le seul moyen de communication déclaré sur la fiche Google de l'entreprise, avec la visite sur place.",
+          "Si vous dirigez cette entreprise, vous pouvez demander la correction ou le retrait de cette page à tout moment, sans justification."
+        ]
+      },
+      {
+        "id": "avis",
+        "titre": "La réputation de DSP Team",
+        "paragraphes": [
+          "Au relevé du 13 octobre 2026, l'établissement affichait une note de 4,5 sur 5 sur Google, calculée à partir de 11 avis. Cette note évolue en permanence : elle est indiquée ici à titre d'information et n'est pas retraitée.",
+          "Les avis appartiennent à Google et se consultent sur la fiche d'origine, dont le lien figure sur cette page."
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "q": "Quels sont les horaires de DSP Team ?",
+        "r": "Au relevé du 13 octobre 2026, DSP Team était fermé le samedi et le dimanche. Dans le détail — lundi : de 8 h à 18 h ; mardi : de 8 h à 18 h ; mercredi : de 8 h à 18 h ; jeudi : de 8 h à 18 h ; vendredi : de 8 h à 18 h ; samedi : fermé ; dimanche : fermé. Ces horaires peuvent changer : un appel préalable reste conseillé."
+      },
+      {
+        "q": "Où se trouve DSP Team ?",
+        "r": "DSP Team se trouve 12 Rte des Pérouzes, 74290 Veyrier-du-Lac. Un lien d'itinéraire est disponible sur cette page."
+      },
+      {
+        "q": "Comment contacter DSP Team ?",
+        "r": "Par téléphone au 06 99 52 89 13, ou directement sur place aux heures d'ouverture."
+      },
+      {
+        "q": "DSP Team a-t-il un site internet ?",
+        "r": "Non : aucune adresse de site web n'est déclarée sur la fiche Google de DSP Team au 13 octobre 2026. Cette page tient lieu de référence publique en attendant, le cas échéant, la création d'un site propre à l'entreprise."
+      },
+      {
+        "q": "DSP Team est-il accessible aux personnes à mobilité réduite ?",
+        "r": "La fiche Google de l'établissement mentionne : « Entrée accessible en fauteuil roulant ». Cette information est déclarative ; en cas de doute, vérifiez par téléphone."
+      }
+    ],
+    "genere_le": "2026-10-13"
+  },
+  "statut_google": "OPERATIONAL",
+  "audience": {
+    "clics": 0,
+    "impressions": 0,
+    "position": null,
+    "fenetreJours": 90,
+    "clicsRecents": 0,
+    "fenetreRecenteJours": 28,
+    "source": "search-console",
+    "date": "2026-10-13"
+  }
+}

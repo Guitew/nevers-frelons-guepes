@@ -1,5 +1,111 @@
 [
   {
+    "date": "2026-10-13T12:53:06.191Z",
+    "type": "suggestion-soumise",
+    "id": "ChIJHwsOU7m__UcR8z4mSX7fF6E",
+    "nom": "Le Chauve Souriant",
+    "url": "/cafes-bars/poitiers/le-chauve-souriant/"
+  },
+  {
+    "date": "2026-10-13T12:53:06.164Z",
+    "type": "suggestion-soumise",
+    "id": "ChIJxZ3pZQ9y5kcR5gM1lDfZsXc",
+    "nom": "Le marché couvert Beauvau",
+    "url": "/commerces-alimentation/paris/le-marche-couvert-beauvau/"
+  },
+  {
+    "date": "2026-10-13T12:53:06.138Z",
+    "type": "suggestion-soumise",
+    "id": "ChIJby4zAABl5kcRSSgXf-pstZo",
+    "nom": "Suresnes Mont Valérien",
+    "url": "/restaurants/suresnes/suresnes-mont-valerien/"
+  },
+  {
+    "date": "2026-10-13T12:40:03.456Z",
+    "type": "backlink-absent",
+    "id": "ChIJ0-qHbinA9EcRUjlZMmtUdb0",
+    "nom": "Cordonnerie des gratte ciel",
+    "url": null,
+    "precedent": "en-attente"
+  },
+  {
+    "date": "2026-10-13T12:40:03.623Z",
+    "type": "backlink-absent",
+    "id": "ChIJPQ6pLeqlikcRXIRokkY8paE",
+    "nom": "DSP Team",
+    "url": null,
+    "precedent": "en-attente"
+  },
+  {
+    "date": "2026-10-13T12:40:03.718Z",
+    "type": "backlink-absent",
+    "id": "ChIJQ8LkaVZG3UcRZN3xGICLEA4",
+    "nom": "Samada Arras ( XPO )",
+    "url": null,
+    "precedent": "en-attente"
+  },
+  {
+    "date": "2026-10-13T12:40:03.865Z",
+    "type": "backlink-absent",
+    "id": "ChIJybZxk5RDCkgRnIwe2yrxRfw",
+    "nom": "Tabouleh",
+    "url": null,
+    "precedent": "en-attente"
+  },
+  {
+    "date": "2026-10-13T12:40:03.957Z",
+    "type": "backlink-absent",
+    "id": "ChIJi0vQ7wv9CEgRmqTbJob3arY",
+    "nom": "TRANSPORTS BUFFET Ambroise Bouvier Froid",
+    "url": null,
+    "precedent": "en-attente"
+  },
+  {
+    "date": "2026-10-13T12:40:03.221Z",
+    "type": "publication",
+    "id": "ChIJPQ6pLeqlikcRXIRokkY8paE",
+    "nom": "DSP Team",
+    "url": "/garages-automobile/veyrier-du-lac/dsp-team/",
+    "categorie": "garages-automobile",
+    "source": "google-places"
+  },
+  {
+    "date": "2026-10-13T12:40:03.222Z",
+    "type": "publication",
+    "id": "ChIJybZxk5RDCkgRnIwe2yrxRfw",
+    "nom": "Tabouleh",
+    "url": "/restaurants/fleury-sur-orne/tabouleh/",
+    "categorie": "restaurants",
+    "source": "google-places"
+  },
+  {
+    "date": "2026-10-13T12:40:03.222Z",
+    "type": "publication",
+    "id": "ChIJi0vQ7wv9CEgRmqTbJob3arY",
+    "nom": "TRANSPORTS BUFFET Ambroise Bouvier Froid",
+    "url": "/transport-demenagement/saint-berthevin/transports-buffet-ambroise-bouvier-froid/",
+    "categorie": "transport-demenagement",
+    "source": "google-places"
+  },
+  {
+    "date": "2026-10-13T12:40:03.223Z",
+    "type": "publication",
+    "id": "ChIJQ8LkaVZG3UcRZN3xGICLEA4",
+    "nom": "Samada Arras ( XPO )",
+    "url": "/transport-demenagement/dainville/samada-arras-xpo/",
+    "categorie": "transport-demenagement",
+    "source": "google-places"
+  },
+  {
+    "date": "2026-10-13T12:40:03.223Z",
+    "type": "publication",
+    "id": "ChIJ0-qHbinA9EcRUjlZMmtUdb0",
+    "nom": "Cordonnerie des gratte ciel",
+    "url": "/menuiserie-serrurerie/villeurbanne/cordonnerie-des-gratte-ciel/",
+    "categorie": "menuiserie-serrurerie",
+    "source": "google-places"
+  },
+  {
     "date": "2026-10-12T19:47:23.038Z",
     "type": "backlink-absent",
     "id": "ChIJOUtyUk7vBUgRoCcQtwcSgw8",
