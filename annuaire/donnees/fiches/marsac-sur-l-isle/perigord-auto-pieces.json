@@ -122,15 +122,15 @@
     "Parking accessible en fauteuil roulant"
   ],
   "lien_google": "https://maps.google.com/?cid=12926865673621071637&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
-  "site_web_gmb": null,
+  "site_web_gmb": "https://andpro.fr/vitrine-locale/garages-automobile/marsac-sur-l-isle/perigord-auto-pieces/",
   "statut": "publiee",
   "backlink": {
-    "etat": "absent",
-    "premiere_detection": null,
-    "derniere_detection": null,
-    "derniere_verification": "2026-10-09T11:52:02.074Z",
-    "echecs": 4,
-    "url_detectee": null
+    "etat": "present",
+    "premiere_detection": "2026-10-14T10:07:28.770Z",
+    "derniere_detection": "2026-10-14T10:07:28.770Z",
+    "derniere_verification": "2026-10-14T10:07:28.770Z",
+    "echecs": 0,
+    "url_detectee": "https://andpro.fr/vitrine-locale/garages-automobile/marsac-sur-l-isle/perigord-auto-pieces/"
   },
   "suggestion": {
     "etat": "soumise",
@@ -142,7 +142,7 @@
   "dates": {
     "collecte": "2026-10-06",
     "publication": "2026-10-06",
-    "maj": "2026-10-09"
+    "maj": "2026-10-14"
   },
   "source": "google-places",
   "redaction": {
@@ -218,6 +218,6 @@
     "clicsRecents": 0,
     "fenetreRecenteJours": 28,
     "source": "search-console",
-    "date": "2026-10-13"
+    "date": "2026-10-14"
   }
 }

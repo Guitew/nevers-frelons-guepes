@@ -97,7 +97,7 @@
   ],
   "lien_google": "https://maps.google.com/?cid=8965882880619857613&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
   "site_web_gmb": null,
-  "statut": "publiee",
+  "statut": "retiree",
   "backlink": {
     "etat": "absent",
     "premiere_detection": null,
@@ -106,11 +106,17 @@
     "echecs": 79,
     "url_detectee": null
   },
-  "retrait": null,
+  "retrait": {
+    "mode": "410",
+    "cible": null,
+    "date": "2026-10-14",
+    "motif": "page non indexée par Google 45 jours après sa mise en ligne (Détectée, actuellement non indexée)",
+    "cause": "non-indexee"
+  },
   "dates": {
     "collecte": "2026-08-30",
     "publication": "2026-08-30",
-    "maj": "2026-10-09"
+    "maj": "2026-10-14"
   },
   "source": "google-places",
   "redaction": {
@@ -191,15 +197,15 @@
     "clicsRecents": 0,
     "fenetreRecenteJours": 28,
     "source": "search-console",
-    "date": "2026-10-13"
+    "date": "2026-10-14"
   },
   "indexation": {
     "etat": "non-indexee",
     "verdict": "NEUTRAL",
-    "couverture": "Google ne reconnaît pas cette URL",
+    "couverture": "Détectée, actuellement non indexée",
     "derniere_exploration": null,
     "canonique_google": null,
     "source": "inspection",
-    "date": "2026-10-13"
+    "date": "2026-10-14"
   }
 }
