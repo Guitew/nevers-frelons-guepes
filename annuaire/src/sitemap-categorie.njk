@@ -1,9 +1,5 @@
 ---
-pagination:
-  data: annuaire.categories
-  size: 1
-  alias: c
-permalink: "{% if c.vide %}false{% else %}/sitemaps/{{ c.slug }}.xml{% endif %}"
+permalink: "/sitemaps/{{ c.slug }}.xml"
 eleventyExcludeFromCollections: true
 ---
 <?xml version="1.0" encoding="UTF-8"?>
