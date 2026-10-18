@@ -32,7 +32,7 @@
     "longitude": 6.012016699999999
   },
   "note": 3.9,
-  "avis": 692,
+  "avis": 695,
   "horaires": [
     {
       "jour": 0,
@@ -111,8 +111,8 @@
     "etat": "absent",
     "premiere_detection": null,
     "derniere_detection": null,
-    "derniere_verification": "2026-10-09T11:52:02.074Z",
-    "echecs": 18,
+    "derniere_verification": "2026-10-18T10:09:04.999Z",
+    "echecs": 19,
     "url_detectee": null
   },
   "suggestion": {
@@ -125,7 +125,7 @@
   "dates": {
     "collecte": "2026-09-22",
     "publication": "2026-09-22",
-    "maj": "2026-10-09"
+    "maj": "2026-10-18"
   },
   "source": "google-places",
   "redaction": {
@@ -198,5 +198,55 @@
     "fenetreRecenteJours": 28,
     "source": "search-console",
     "date": "2026-10-18"
+  },
+  "avis_detail": {
+    "releve": "2026-10-18",
+    "liste": [
+      {
+        "note": 5,
+        "texte": "Amazing. Love this place, I can find what I need",
+        "langue": "en",
+        "date": "2026-03-19",
+        "auteur": "Victoria Nguyen",
+        "auteur_lien": "https://www.google.com/maps/contrib/100364281737838756957/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2taUlpWVnhMVXRsZUZOVGVuTkpZalJCV0VKc2JXYxAB!2m1!1s0x478d6312fd72efd1:0x56e9b89d7e3766b"
+      },
+      {
+        "note": 3,
+        "texte": "Variety of Asian and African food. The traditional ingredients you won't find at your everyday grocery store, you'll find here.",
+        "langue": "en",
+        "date": "2022-07-20",
+        "auteur": "Eyram Heymann",
+        "auteur_lien": "https://www.google.com/maps/contrib/100607987122610861579/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUN1LUxmRkN3EAE!2m1!1s0x478d6312fd72efd1:0x56e9b89d7e3766b"
+      },
+      {
+        "note": 4,
+        "texte": "Variety of items to purchase in this store but not very organized. I purchased hair products and seasonings for my fish.",
+        "langue": "en",
+        "date": "2019-09-15",
+        "auteur": "JanisElaine",
+        "auteur_lien": "https://www.google.com/maps/contrib/111776645754705263428/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUMwNUphR1lnEAE!2m1!1s0x478d6312fd72efd1:0x56e9b89d7e3766b"
+      },
+      {
+        "note": 3,
+        "texte": "This is the only shop in Besançon which has few Indian grocery options. Shop owner is not flexible enough to accommodate with the customer needs.",
+        "langue": "en",
+        "date": "2018-06-23",
+        "auteur": "Ramya Shylesh",
+        "auteur_lien": "https://www.google.com/maps/contrib/110845929904228105713/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUNReFBlWm13RRAB!2m1!1s0x478d6312fd72efd1:0x56e9b89d7e3766b"
+      },
+      {
+        "note": 5,
+        "texte": "Omg lot of asian stuffs out there...but be careful of the expiry date sometime they even put stuffs that's gonna expire the next day!",
+        "langue": "en",
+        "date": "2017-07-02",
+        "auteur": "alok pokharel",
+        "auteur_lien": "https://www.google.com/maps/contrib/102148253005632071140/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUNRMWVXeVV3EAE!2m1!1s0x478d6312fd72efd1:0x56e9b89d7e3766b"
+      }
+    ]
   }
 }

@@ -27,7 +27,7 @@
     "longitude": 3.1507101
   },
   "note": 4.6,
-  "avis": 570,
+  "avis": 573,
   "horaires": [
     {
       "jour": 0,
@@ -122,8 +122,8 @@
     "etat": "absent",
     "premiere_detection": null,
     "derniere_detection": null,
-    "derniere_verification": "2026-10-09T11:52:02.074Z",
-    "echecs": 62,
+    "derniere_verification": "2026-10-18T10:09:04.999Z",
+    "echecs": 63,
     "url_detectee": null
   },
   "retrait": {
@@ -136,7 +136,7 @@
   "dates": {
     "collecte": "2026-08-30",
     "publication": "2026-08-30",
-    "maj": "2026-10-14"
+    "maj": "2026-10-18"
   },
   "source": "google-places",
   "redaction": {
@@ -227,5 +227,55 @@
     "canonique_google": null,
     "source": "inspection",
     "date": "2026-10-14"
+  },
+  "avis_detail": {
+    "releve": "2026-10-18",
+    "liste": [
+      {
+        "note": 5,
+        "texte": "Nickel 👌",
+        "langue": "en",
+        "date": "2025-02-03",
+        "auteur": "Pierre",
+        "auteur_lien": "https://www.google.com/maps/contrib/103651667177942017404/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnTUNBdzh5LTRRRRAB!2m1!1s0x47f04589a085d179:0x49da02ba3d01dd1e"
+      },
+      {
+        "note": 4,
+        "texte": "this is a good kebab , taco , panini , burger place ... reasonable price ... good service ... recommended 👍🙂 ...",
+        "langue": "en",
+        "date": "2023-06-10",
+        "auteur": "Glen Dragon",
+        "auteur_lien": "https://www.google.com/maps/contrib/102193813754083186104/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUR4c2JDbWlBRRAB!2m1!1s0x47f04589a085d179:0x49da02ba3d01dd1e"
+      },
+      {
+        "note": 5,
+        "texte": "Here we get tasty kebab....without much salt. And the staff are so gentle, kind and soft spoken.",
+        "langue": "en",
+        "date": "2021-10-13",
+        "auteur": "Jigme Wangchuk",
+        "auteur_lien": "https://www.google.com/maps/contrib/112150267825661770681/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUQ2bDdPcC1nRRAB!2m1!1s0x47f04589a085d179:0x49da02ba3d01dd1e"
+      },
+      {
+        "note": 4,
+        "texte": "But he takes so much of time to delivery. Rest all is fine.",
+        "langue": "en",
+        "date": "2018-11-03",
+        "auteur": "Shivaprasad Goudru Vamadeva",
+        "auteur_lien": "https://www.google.com/maps/contrib/107855969715569156444/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUNJd3R2MzJ3RRAB!2m1!1s0x47f04589a085d179:0x49da02ba3d01dd1e"
+      },
+      {
+        "note": 5,
+        "texte": "Bn service",
+        "langue": "en",
+        "date": "2018-10-25",
+        "auteur": "Ayoub BOULHAZ",
+        "auteur_lien": "https://www.google.com/maps/contrib/106369539066130713097/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUR3ekpYMVRnEAE!2m1!1s0x47f04589a085d179:0x49da02ba3d01dd1e"
+      }
+    ]
   }
 }

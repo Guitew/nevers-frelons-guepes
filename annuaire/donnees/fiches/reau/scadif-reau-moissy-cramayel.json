@@ -27,7 +27,7 @@
     "longitude": 2.5998642
   },
   "note": 3.7,
-  "avis": 239,
+  "avis": 241,
   "horaires": [
     {
       "jour": 0,
@@ -81,8 +81,8 @@
     "etat": "absent",
     "premiere_detection": null,
     "derniere_detection": null,
-    "derniere_verification": "2026-10-09T11:52:02.074Z",
-    "echecs": 56,
+    "derniere_verification": "2026-10-18T10:09:04.999Z",
+    "echecs": 57,
     "url_detectee": null
   },
   "suggestion": {
@@ -95,7 +95,7 @@
   "dates": {
     "collecte": "2026-09-04",
     "publication": "2026-09-04",
-    "maj": "2026-10-09"
+    "maj": "2026-10-18"
   },
   "source": "google-places",
   "redaction": {
@@ -177,5 +177,55 @@
     "canonique_google": null,
     "source": "inspection",
     "date": "2026-10-18"
+  },
+  "avis_detail": {
+    "releve": "2026-10-18",
+    "liste": [
+      {
+        "note": 1,
+        "texte": "Chegada 8:50, agendamento 11:00, chamada para o cais 11:47, 13:40 e ainda nem começou! Um dos piores lugares",
+        "langue": "pt",
+        "date": "2026-07-01",
+        "auteur": "Diego Alves",
+        "auteur_lien": "https://www.google.com/maps/contrib/108550445836656857157/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2twaWFVNXdabFJ3WkVwNGQzSnlkVzVoV1RoVGJFRRAB!2m1!1s0x47e5e3ac7d317d5b:0xfe4c20d94ad1f3de"
+      },
+      {
+        "note": 2,
+        "texte": "Register at a kiosk. If you don't know your reference number,\n\nyou can ask at reception.\n\nThere's no point in arriving 30 minutes early for your appointment; that's good, but absolutely do not be late. You might end up being the last one seen. What time is it, or you can refuse?",
+        "langue": "en-US",
+        "date": "2026-06-30",
+        "auteur": "oliver Duc",
+        "auteur_lien": "https://www.google.com/maps/contrib/101701266424855616687/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25jemJrOUxjek5QUzJSaWRGbzJWMnBUVWpWSE5sRRAB!2m1!1s0x47e5e3ac7d317d5b:0xfe4c20d94ad1f3de"
+      },
+      {
+        "note": 4,
+        "texte": "48.614159, 2.596867 enter.\nIn the parking lot and into the office, register on the computer.\nHand over the documents to the employee and wait for a text message.\nGo up to the ramp, put a wheel chock under the wheel. Lock the chock with a special button (photo).\nGo inside the warehouse, hand over the documents, and back to the car, wait for a text message.\nUnloaded quickly, back inside the warehouse, pick up the documents from the slot with the ramp number.\nPallet exchange is at the end of the warehouse, on the platform.\nExit.\nThere is a restroom in the warehouse. Parking is available, you can take a break.",
+        "langue": "en-US",
+        "date": "2026-01-15",
+        "auteur": "Al Zu",
+        "auteur_lien": "https://www.google.com/maps/contrib/102657829444558079496/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2t0TWFuaEdWVkF6WWpGRGRqTk1NV1F6UjFoNVpYYxAB!2m1!1s0x47e5e3ac7d317d5b:0xfe4c20d94ad1f3de"
+      },
+      {
+        "note": 4,
+        "texte": "Entrance coordinates: 48.614047, 2.597050. I arrived on Saturday at 4 PM and found a spot. The barrier opened. There's a shower, toilet, and security, and it's quiet and peaceful. Unloading was scheduled for 6 AM Monday. Registration is on the computer, as in the photo. You need a ref (found on the document), starting with 782..., enter the number of pallets, etc., and your phone number. You give the documents to the security guard, who returns them and says an SMS will arrive with the ramp. It arrived in a minute. Well, my fix was 6 AM, I registered at 5:50 AM, and at 5:51 AM I received an SMS with ramp 17. You set them to roll back, and the traffic light blinks quickly; if it's set correctly, the traffic light starts blinking slowly. You go to the office (there's a photo), hand over the documents, open the roller shutter, and pull out the ramp (if the ramp isn't installed correctly, the roller shutter won't lift; you wait in the car), and they unload them themselves. Then you go to the office to pick up the documents. I waited over an hour while they started unloading them.",
+        "langue": "en-US",
+        "date": "2025-11-10",
+        "auteur": "Евгений Соколов",
+        "auteur_lien": "https://www.google.com/maps/contrib/115957717816584058434/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2s1dk1FODBTMnN6WkZkNVVHcElTbXBZY1haWFIzYxAB!2m1!1s0x47e5e3ac7d317d5b:0xfe4c20d94ad1f3de"
+      },
+      {
+        "note": 5,
+        "texte": "Cool",
+        "langue": "en",
+        "date": "2023-04-13",
+        "auteur": "Axel Dalvie Massengo Mobombi",
+        "auteur_lien": "https://www.google.com/maps/contrib/100515870347854257266/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUNSei1QbllnEAE!2m1!1s0x47e5e3ac7d317d5b:0xfe4c20d94ad1f3de"
+      }
+    ]
   }
 }

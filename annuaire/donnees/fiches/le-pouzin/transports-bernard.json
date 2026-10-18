@@ -102,8 +102,8 @@
     "etat": "absent",
     "premiere_detection": null,
     "derniere_detection": null,
-    "derniere_verification": "2026-10-09T11:52:02.074Z",
-    "echecs": 58,
+    "derniere_verification": "2026-10-18T10:09:04.999Z",
+    "echecs": 59,
     "url_detectee": null
   },
   "suggestion": {
@@ -208,5 +208,55 @@
     "canonique_google": null,
     "source": "inspection",
     "date": "2026-10-18"
+  },
+  "avis_detail": {
+    "releve": "2026-10-18",
+    "liste": [
+      {
+        "note": 4,
+        "texte": "Reliable transport service and a friendly whole team",
+        "langue": "en-US",
+        "date": "2026-07-05",
+        "auteur": "D Cvr",
+        "auteur_lien": "https://www.google.com/maps/contrib/103096709343844847704/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xrMWIxWmFRemhWVjBsT2NXWnhPWFZ0WWpSZmNVRRAB!2m1!1s0x12b548754d4e37bb:0x792142f906466cf"
+      },
+      {
+        "note": 1,
+        "texte": "Your drivers are not being honest.\nA driver with the HF 792 semi-trailer, LA, cut in front of everyone even though I'd been waiting for 30 minutes. He was behind me and just walked right past to unload first.\nThis is disrespectful behavior towards his colleagues, and even those from other companies.",
+        "langue": "en-US",
+        "date": "2026-02-20",
+        "auteur": "julien S",
+        "auteur_lien": "https://www.google.com/maps/contrib/108801934605821107566/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2tNM1kyUldlVGhMZUhScFVrWkRjR3h3V0ZWc1NYYxAB!2m1!1s0x12b548754d4e37bb:0x792142f906466cf"
+      },
+      {
+        "note": 5,
+        "texte": "Great company, fast download, friendly office staff, easy arrival at the company, everything was OK, I'll be back with pleasure",
+        "langue": "en-US",
+        "date": "2025-09-15",
+        "auteur": "Bennacur Ed Dabouze",
+        "auteur_lien": "https://www.google.com/maps/contrib/103092552018065453983/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2paaVYxOU5URm8xUVhGM09GUjFaWGxaWVdkM1ZtYxAB!2m1!1s0x12b548754d4e37bb:0x792142f906466cf"
+      },
+      {
+        "note": 1,
+        "texte": "Explain to your driver that pulling out and cutting across on the highway not only means he doesn't have the right of way, but it's also dangerous. I had to slam on the brakes to avoid hitting him.",
+        "langue": "en-US",
+        "date": "2025-05-06",
+        "auteur": "Guy Rocher",
+        "auteur_lien": "https://www.google.com/maps/contrib/107189213231462992537/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VKZUR6dG14ek5Hd3BnRRAB!2m1!1s0x12b548754d4e37bb:0x792142f906466cf"
+      },
+      {
+        "note": 5,
+        "texte": "Excellent company, 32 years in business",
+        "langue": "en-US",
+        "date": "2020-07-27",
+        "auteur": "Gilles Bouvat",
+        "auteur_lien": "https://www.google.com/maps/contrib/115592487939565037554/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUQ4ZzdEbGhnRRAB!2m1!1s0x12b548754d4e37bb:0x792142f906466cf"
+      }
+    ]
   }
 }

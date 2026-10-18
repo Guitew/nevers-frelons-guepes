@@ -111,8 +111,8 @@
     "etat": "absent",
     "premiere_detection": null,
     "derniere_detection": null,
-    "derniere_verification": "2026-10-09T11:52:02.074Z",
-    "echecs": 61,
+    "derniere_verification": "2026-10-18T10:09:04.999Z",
+    "echecs": 62,
     "url_detectee": null
   },
   "suggestion": {
@@ -217,5 +217,55 @@
     "canonique_google": null,
     "source": "inspection",
     "date": "2026-10-18"
+  },
+  "avis_detail": {
+    "releve": "2026-10-18",
+    "liste": [
+      {
+        "note": 5,
+        "texte": "Clear and precise information, occasionally a slight delay but never any problems",
+        "langue": "en-US",
+        "date": "2026-07-23",
+        "auteur": "elsasser skull",
+        "auteur_lien": "https://www.google.com/maps/contrib/105172817540085769945/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2pKb2ExbHRSMm94UzA1cGFVcHdOVVp3ZFVkRFVIYxAB!2m1!1s0x47917187d120e6f3:0x6db5ccc3e9a9f3c8"
+      },
+      {
+        "note": 5,
+        "texte": "There is a shower, very clean bathrooms, and a coffee machine. Thank you.",
+        "langue": "en-US",
+        "date": "2026-06-24",
+        "auteur": "Amir",
+        "auteur_lien": "https://www.google.com/maps/contrib/102304533790317176538/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xOdU5UUTNNV0ZyUnpsQlNFTTVNMkpvTjNCaE4xRRAB!2m1!1s0x47917187d120e6f3:0x6db5ccc3e9a9f3c8"
+      },
+      {
+        "note": 5,
+        "texte": "It is unloaded according to the scheduled time, otherwise the unloading is fast, professional and friendly staff, on the second floor there is a shower, toilet, coffee, microwave.",
+        "langue": "en-US",
+        "date": "2024-10-07",
+        "auteur": "Veaceslav Ciobanu",
+        "auteur_lien": "https://www.google.com/maps/contrib/117219111308780894495/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSURueWNXc2d3RRAB!2m1!1s0x47917187d120e6f3:0x6db5ccc3e9a9f3c8"
+      },
+      {
+        "note": 4,
+        "texte": "Over 1h for 33 pallets. Gotta turn over the keys.\nI hear many people saying it can take way longer than that so beware.\n\nClean facilities for drivers upstairs is nice.",
+        "langue": "en",
+        "date": "2024-09-07",
+        "auteur": "Autobahnraser",
+        "auteur_lien": "https://www.google.com/maps/contrib/105859563762235145306/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUM3MWI2V0NBEAE!2m1!1s0x47917187d120e6f3:0x6db5ccc3e9a9f3c8"
+      },
+      {
+        "note": 1,
+        "texte": "Comma always requests precise appointment times. Once we're on time, it takes us 3 hours to unload a truck. On top of that, we waste even more time searching for pallets in Colmar. You lose an average of 4 hours. Perhaps you should review your procedures. 4 hours in the transport sector is enormous!",
+        "langue": "en-US",
+        "date": "2024-08-07",
+        "auteur": "Logan Llg",
+        "auteur_lien": "https://www.google.com/maps/contrib/112382649157011293733/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSURiaGZqbFh3EAE!2m1!1s0x47917187d120e6f3:0x6db5ccc3e9a9f3c8"
+      }
+    ]
   }
 }

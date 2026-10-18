@@ -77,15 +77,15 @@
     "Parking accessible en fauteuil roulant"
   ],
   "lien_google": "https://maps.google.com/?cid=18163773142861251908&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
-  "site_web_gmb": null,
-  "statut": "retiree",
+  "site_web_gmb": "https://andpro.fr/vitrine-locale/transport-demenagement/verrieres-en-anjou/xpo-logistics-distribution/",
+  "statut": "publiee",
   "backlink": {
-    "etat": "absent",
-    "premiere_detection": null,
-    "derniere_detection": null,
-    "derniere_verification": "2026-10-09T11:52:02.074Z",
-    "echecs": 60,
-    "url_detectee": null
+    "etat": "present",
+    "premiere_detection": "2026-10-18T10:09:04.999Z",
+    "derniere_detection": "2026-10-18T10:09:04.999Z",
+    "derniere_verification": "2026-10-18T10:09:04.999Z",
+    "echecs": 0,
+    "url_detectee": "https://andpro.fr/vitrine-locale/transport-demenagement/verrieres-en-anjou/xpo-logistics-distribution/"
   },
   "suggestion": {
     "etat": "soumise",
@@ -93,12 +93,7 @@
     "tentatives": 1,
     "date_email": "2026-09-01"
   },
-  "retrait": {
-    "mode": "410",
-    "cible": null,
-    "date": "2026-10-18",
-    "motif": "backlink jamais posé après 47 jours de délai de grâce"
-  },
+  "retrait": null,
   "dates": {
     "collecte": "2026-09-01",
     "publication": "2026-09-01",
@@ -188,5 +183,55 @@
     "canonique_google": null,
     "source": "impressions",
     "date": "2026-10-18"
+  },
+  "avis_detail": {
+    "releve": "2026-10-18",
+    "liste": [
+      {
+        "note": 5,
+        "texte": "I arrived for unloading at 6:00 PM. They said unloading was at 9:30 PM. The shift was until 8:30 PM. They let me stay overnight on the premises. I left the trailer in the parking lot; they moved it onto the ramp themselves. In the morning, after a break, the documents were in the office.\nNot far from the entrance, there's a small building with good showers and restrooms.",
+        "langue": "en-US",
+        "date": "2026-05-22",
+        "auteur": "NikitA Ts",
+        "auteur_lien": "https://www.google.com/maps/contrib/106868047060002555643/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25sYVgzTjRVRzV1YkVVeU5qVm5MVVZNVVdsUGMyYxAB!2m1!1s0x480878fccfe3289f:0xfc12af7009068544"
+      },
+      {
+        "note": 4,
+        "texte": "Unloading was excellent. A little tip for the showers and toilets: go inside the warehouse near the stairs, they are much cleaner than those reserved for outside drivers.",
+        "langue": "en-US",
+        "date": "2026-04-22",
+        "auteur": "Raguideau Alexis",
+        "auteur_lien": "https://www.google.com/maps/contrib/115828161455106467420/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2s1dVdtZFpTV05XVDNJdGFHVjFTV0ZLWVcwMVRGRRAB!2m1!1s0x480878fccfe3289f:0xfc12af7009068544"
+      },
+      {
+        "note": 5,
+        "texte": "Fastest unloading of my life! 5 minutes for 27 pallets!!! Kudos to the dock team!!!!",
+        "langue": "en-US",
+        "date": "2025-11-13",
+        "auteur": "Driss Chentob",
+        "auteur_lien": "https://www.google.com/maps/contrib/102949461864246267476/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2w5ME4xSkdVVnB5Tm1reFh5MVpRbEJMYzJaNlUxRRAB!2m1!1s0x480878fccfe3289f:0xfc12af7009068544"
+      },
+      {
+        "note": 5,
+        "texte": "Ok",
+        "langue": "en",
+        "date": "2024-08-19",
+        "auteur": "Sds Srl",
+        "auteur_lien": "https://www.google.com/maps/contrib/102468095698241594181/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUM3bjZDR2lnRRAB!2m1!1s0x480878fccfe3289f:0xfc12af7009068544"
+      },
+      {
+        "note": 3,
+        "texte": "Correct",
+        "langue": "en",
+        "date": "2018-02-01",
+        "auteur": "william gegu",
+        "auteur_lien": "https://www.google.com/maps/contrib/108091329554071055441/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSURRN196UEJBEAE!2m1!1s0x480878fccfe3289f:0xfc12af7009068544"
+      }
+    ]
   }
 }

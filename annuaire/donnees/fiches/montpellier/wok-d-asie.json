@@ -32,7 +32,7 @@
     "longitude": 3.8834687
   },
   "note": 3.9,
-  "avis": 3377,
+  "avis": 3483,
   "horaires": [
     {
       "jour": 0,
@@ -146,8 +146,8 @@
     "etat": "absent",
     "premiere_detection": null,
     "derniere_detection": null,
-    "derniere_verification": "2026-10-09T11:52:02.074Z",
-    "echecs": 7,
+    "derniere_verification": "2026-10-18T10:09:04.999Z",
+    "echecs": 8,
     "url_detectee": null
   },
   "suggestion": {
@@ -160,7 +160,7 @@
   "dates": {
     "collecte": "2026-10-03",
     "publication": "2026-10-03",
-    "maj": "2026-10-09"
+    "maj": "2026-10-18"
   },
   "source": "google-places",
   "redaction": {
@@ -237,5 +237,55 @@
     "fenetreRecenteJours": 28,
     "source": "search-console",
     "date": "2026-10-18"
+  },
+  "avis_detail": {
+    "releve": "2026-10-18",
+    "liste": [
+      {
+        "note": 5,
+        "texte": "Top",
+        "langue": "en",
+        "date": "2026-09-01",
+        "auteur": "leila BOUSSAK",
+        "auteur_lien": "https://www.google.com/maps/contrib/102839120162531763160/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2pCMVZEUlJiakZJWlVKdFR6VmhjbEk0V1VKbE9VRRAB!2m1!1s0x12b6afc2d451be7b:0x97fda861c9ee56f9"
+      },
+      {
+        "note": 5,
+        "texte": "Best asian food, that you can meet around Montpellier.. it's all you can eat resto, and I'm Indonesian..\nSo it's precious in our 16 days of euro-switz. trips haha",
+        "langue": "en",
+        "date": "2024-05-01",
+        "auteur": "MF Worker Guide Sam (Febri)",
+        "auteur_lien": "https://www.google.com/maps/contrib/102933916200045772085/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSURWaGYtNXhRRRAB!2m1!1s0x12b6afc2d451be7b:0x97fda861c9ee56f9"
+      },
+      {
+        "note": 4,
+        "texte": "Not bad , food was tasty , very big choice of everything  just the stuff could be more kind))",
+        "langue": "en",
+        "date": "2022-11-06",
+        "auteur": "Pa Gu",
+        "auteur_lien": "https://www.google.com/maps/contrib/102473800822292264894/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUMtMFlTQTZBRRAB!2m1!1s0x12b6afc2d451be7b:0x97fda861c9ee56f9"
+      },
+      {
+        "note": 2,
+        "texte": "Everything was barely warm, the room felt cold as well. Disappointed as we  have been there 2 years ago and it was better than now.",
+        "langue": "en",
+        "date": "2021-11-19",
+        "auteur": "Hong C.",
+        "auteur_lien": "https://www.google.com/maps/contrib/107920605423769172162/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSURHOUx5UTF3RRAB!2m1!1s0x12b6afc2d451be7b:0x97fda861c9ee56f9"
+      },
+      {
+        "note": 4,
+        "texte": "It is a nice place to go to eat. You can eat everything you one just for 20 euros and if you bring foot take way you will pay just 10. It is a clean places, you have a lot of tables and many choice of foot.",
+        "langue": "en",
+        "date": "2018-01-30",
+        "auteur": "Angel Moore Morales",
+        "auteur_lien": "https://www.google.com/maps/contrib/106133404792308639482/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSURRbGE2a213RRAB!2m1!1s0x12b6afc2d451be7b:0x97fda861c9ee56f9"
+      }
+    ]
   }
 }

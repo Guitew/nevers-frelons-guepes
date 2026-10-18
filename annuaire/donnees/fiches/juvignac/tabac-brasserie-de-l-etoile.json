@@ -32,7 +32,7 @@
     "longitude": 3.8093421999999997
   },
   "note": 3.7,
-  "avis": 98,
+  "avis": 99,
   "horaires": [
     {
       "jour": 0,
@@ -144,8 +144,8 @@
     "etat": "absent",
     "premiere_detection": null,
     "derniere_detection": null,
-    "derniere_verification": "2026-10-09T11:52:02.074Z",
-    "echecs": 19,
+    "derniere_verification": "2026-10-18T10:09:04.999Z",
+    "echecs": 20,
     "url_detectee": null
   },
   "suggestion": {
@@ -158,7 +158,7 @@
   "dates": {
     "collecte": "2026-09-22",
     "publication": "2026-09-22",
-    "maj": "2026-10-09"
+    "maj": "2026-10-18"
   },
   "source": "google-places",
   "redaction": {
@@ -235,5 +235,55 @@
     "fenetreRecenteJours": 28,
     "source": "search-console",
     "date": "2026-10-18"
+  },
+  "avis_detail": {
+    "releve": "2026-10-18",
+    "liste": [
+      {
+        "note": 2,
+        "texte": "They're very friendly, but they never have the right tobacco. Their display case for cigarettes is often empty.\nThey never respect their opening and closing times.\nI'll be going elsewhere from now on...",
+        "langue": "en-US",
+        "date": "2026-08-17",
+        "auteur": "Fanie Meil",
+        "auteur_lien": "https://www.google.com/maps/contrib/118131019260361735981/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2tSZlRsTjJUa3hWVG5kSU1UQlFYemxaZGpCQ2VsRRAB!2m1!1s0x12b6ac315a9463d1:0x74e216c8d131aca"
+      },
+      {
+        "note": 1,
+        "texte": "Never open on time, always having to go out of their way to find the gate closed... at 7:45 am",
+        "langue": "en-US",
+        "date": "2026-03-09",
+        "auteur": "Aude Izaure",
+        "auteur_lien": "https://www.google.com/maps/contrib/115839747432062216623/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25CWmRXdFBSSE5KY2s5M0xXcFlTVlZTVWtKT1pVRRAB!2m1!1s0x12b6ac315a9463d1:0x74e216c8d131aca"
+      },
+      {
+        "note": 4,
+        "texte": "Nickel",
+        "langue": "en",
+        "date": "2025-10-16",
+        "auteur": "Adil Chbani",
+        "auteur_lien": "https://www.google.com/maps/contrib/115817968560920025009/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT21KRU1taG9YM1pQT1ZFNFlYQmxRUzFNV0dWSVZFRRAB!2m1!1s0x12b6ac315a9463d1:0x74e216c8d131aca"
+      },
+      {
+        "note": 1,
+        "texte": "If you pay in cash, check your change; they never give the full amount. He ripped me off once. My friend went there. I gave him 50 euros for two packs of goods at 12.50 euros each, so 25 euros in total. My friend just came back and he gave him 24 euros in change. He told him he was 1 euro short. The cashier said, \"No, no, it's fine.\" He ripped me off once, and he just ripped my friend off for 1 euro and refused to give it to him, even though we went there all the time. That's it. They're thieves.",
+        "langue": "en-US",
+        "date": "2025-09-17",
+        "auteur": "bea t",
+        "auteur_lien": "https://www.google.com/maps/contrib/115995393642406835041/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25JelMyMXhiaTFDTjBWRWIwODVOMVZ1Ym5sUFpIYxAB!2m1!1s0x12b6ac315a9463d1:0x74e216c8d131aca"
+      },
+      {
+        "note": 5,
+        "texte": "Really great! Friendly staff, very reasonable prices.\nIn summer, on the shaded terrace; in winter, inside—perfect.\nNew and clean.\nTobacco, lottery tickets, horse racing bets, Midi Libre newspaper available...\nRight next door is a new laundromat. Across the street is a fantastic bakery... I highly recommend it; it's a lovely place to spend some time on Place Constellation in Juvignac, with its many trees, benches, and fountains. Perfect!",
+        "langue": "en-US",
+        "date": "2023-11-20",
+        "auteur": "Frederic Galtier",
+        "auteur_lien": "https://www.google.com/maps/contrib/114644090476343331752/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUNsNXVqd2xBRRAB!2m1!1s0x12b6ac315a9463d1:0x74e216c8d131aca"
+      }
+    ]
   }
 }

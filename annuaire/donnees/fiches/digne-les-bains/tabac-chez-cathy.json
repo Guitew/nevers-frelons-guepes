@@ -113,8 +113,8 @@
     "etat": "absent",
     "premiere_detection": null,
     "derniere_detection": null,
-    "derniere_verification": "2026-10-09T11:52:02.074Z",
-    "echecs": 60,
+    "derniere_verification": "2026-10-18T10:09:04.999Z",
+    "echecs": 61,
     "url_detectee": null
   },
   "suggestion": {
@@ -219,5 +219,55 @@
     "canonique_google": null,
     "source": "inspection",
     "date": "2026-10-18"
+  },
+  "avis_detail": {
+    "releve": "2026-10-18",
+    "liste": [
+      {
+        "note": 5,
+        "texte": "Cathy always gives a wonderful welcome. Whether you're picking up a package (which they take great care of!) or making a purchase, they always have a smile and remember you... it's heartwarming to be recognized in a world where everything is becoming so impersonal...",
+        "langue": "en-US",
+        "date": "2026-03-06",
+        "auteur": "Frambie L",
+        "auteur_lien": "https://www.google.com/maps/contrib/111396695011983161324/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25NM1R6Qk9NVGx0YW1VNVZXMVZWR0pwZVVGb1FYYxAB!2m1!1s0x12cb9bcce61ae811:0x2d1958586001a8a6"
+      },
+      {
+        "note": 1,
+        "texte": "Absolutely no friendliness. Cathy is very friendly, but the young girl (her daughter, I think) was really unpleasant. I had to report it to the delivery company.",
+        "langue": "en-US",
+        "date": "2026-03-04",
+        "auteur": "Bleridta Ridi",
+        "auteur_lien": "https://www.google.com/maps/contrib/109150203429796431479/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25wTllYZ3lWVGR5VDA5TVIySkdZelZTTUd0clVHYxAB!2m1!1s0x12cb9bcce61ae811:0x2d1958586001a8a6"
+      },
+      {
+        "note": 5,
+        "texte": "I stopped by this tobacconist at the beginning of the month to send a Mondial Relay parcel. The young woman there is very friendly and helpful! The welcome was very warm, thank you very much!",
+        "langue": "en-US",
+        "date": "2026-02-27",
+        "auteur": "Jeanne Pallier",
+        "auteur_lien": "https://www.google.com/maps/contrib/113618326652716943392/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2pJM1ZGbHhlak0wV0ZoM1pVaFFVMWhLZVROQlZXYxAB!2m1!1s0x12cb9bcce61ae811:0x2d1958586001a8a6"
+      },
+      {
+        "note": 5,
+        "texte": "Open 7 days a week. We sell everything from tobacco to e-cigarettes. We also have groceries, basic stationery and phone supplies, and a parcel collection point. A warm welcome awaits you.",
+        "langue": "en-US",
+        "date": "2025-11-20",
+        "auteur": "Magali Girard",
+        "auteur_lien": "https://www.google.com/maps/contrib/104387272799605524843/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2tOclVGTk9WRmxqTjB0d1YxSkRTM0JsTXpRMFlXYxAB!2m1!1s0x12cb9bcce61ae811:0x2d1958586001a8a6"
+      },
+      {
+        "note": 5,
+        "texte": "Thank you, Cathy, for your kindness and always a smile. I was able to find this grocery store open on Sundays and holidays, which is convenient for picking up packages or having a coffee. Your politeness adds to the friendly atmosphere of this shop!",
+        "langue": "en-US",
+        "date": "2025-08-15",
+        "auteur": "Yan Latil",
+        "auteur_lien": "https://www.google.com/maps/contrib/113991065932440895418/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2pseWNFWjBXRVpoU2pCZlZFNU9kRk42VDJSSWVXYxAB!2m1!1s0x12cb9bcce61ae811:0x2d1958586001a8a6"
+      }
+    ]
   }
 }

@@ -30,7 +30,7 @@
     "longitude": 4.8247263
   },
   "note": 4.6,
-  "avis": 119,
+  "avis": 120,
   "horaires": [
     {
       "jour": 0,
@@ -114,8 +114,8 @@
     "etat": "absent",
     "premiere_detection": null,
     "derniere_detection": null,
-    "derniere_verification": "2026-10-09T11:52:02.074Z",
-    "echecs": 9,
+    "derniere_verification": "2026-10-18T10:09:04.999Z",
+    "echecs": 10,
     "url_detectee": null
   },
   "suggestion": {
@@ -128,7 +128,7 @@
   "dates": {
     "collecte": "2026-10-01",
     "publication": "2026-10-01",
-    "maj": "2026-10-09"
+    "maj": "2026-10-18"
   },
   "source": "google-places",
   "redaction": {
@@ -205,5 +205,55 @@
     "fenetreRecenteJours": 28,
     "source": "search-console",
     "date": "2026-10-18"
+  },
+  "avis_detail": {
+    "releve": "2026-10-18",
+    "liste": [
+      {
+        "note": 2,
+        "texte": "Aside from the opening hours and strategic location in the center of Mâcon, the welcome was mediocre, not very inviting or customer-oriented, even rather cold (like the air conditioning inside). Otherwise, the store, prices, and presentation were acceptable.",
+        "langue": "en-US",
+        "date": "2026-07-19",
+        "auteur": "Jean Claude Gauthier",
+        "auteur_lien": "https://www.google.com/maps/contrib/101596892890656143009/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2sxTlVtRTJlVEZ3VTJaNVRqQlVaM2R2ZDI1ZlZGRRAB!2m1!1s0x47f36f5ca6e6ec2b:0x3d3031bb6061f45c"
+      },
+      {
+        "note": 5,
+        "texte": "Your opinion:\n\nThis is the second time I've shopped at this butcher shop, on my children's recommendation, and it's always a real pleasure! The quality of the meat is excellent, the welcome is very pleasant, and the service is impeccable. Honestly, I recommend it to everyone.",
+        "langue": "en-US",
+        "date": "2026-07-05",
+        "auteur": "Tidi Tidi",
+        "auteur_lien": "https://www.google.com/maps/contrib/101831568401050303757/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2tkQ1ltOTVPVTFaZGtwZllsOU5kemN4YW5WT1IxRRAB!2m1!1s0x47f36f5ca6e6ec2b:0x3d3031bb6061f45c"
+      },
+      {
+        "note": 2,
+        "texte": "The good and the bad.\nThe bad: buying chicken for a barbecue and having to throw it all away because the smell of spoiled meat (even when cooked) was very unpleasant and worrying.\nThe barbecue turned into a salad 🫣😆\nThe good: the prices",
+        "langue": "en-US",
+        "date": "2026-06-20",
+        "auteur": "Virginie Buffet Dias",
+        "auteur_lien": "https://www.google.com/maps/contrib/100348697206262466510/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2tOcVJsSlJNMmxhT0RjdE9YWllXVVZGTWxWRU1HYxAB!2m1!1s0x47f36f5ca6e6ec2b:0x3d3031bb6061f45c"
+      },
+      {
+        "note": 4,
+        "texte": "The staff were very welcoming and helpful.\n\nThe meat was excellent value for money.\n\nWe were disappointed with the fruit and vegetables; it's a shame, because otherwise the other products were on par with those from other shops.",
+        "langue": "en-US",
+        "date": "2026-06-09",
+        "auteur": "Pépite71",
+        "auteur_lien": "https://www.google.com/maps/contrib/108338472831344085529/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2paWmNXNVdTM2hzTmxGRWNHTnNSMmhtUjBJM2JrRRAB!2m1!1s0x47f36f5ca6e6ec2b:0x3d3031bb6061f45c"
+      },
+      {
+        "note": 1,
+        "texte": "Avoid this place! I waited half an hour for 5kg of ribs at €17.99/kg. He gave me a price of €17, but at the register, that was the original price. For €5, he lost a regular customer. Mr. Adil, I don't appreciate being taken for a fool.",
+        "langue": "en-US",
+        "date": "2026-05-23",
+        "auteur": "Pseudo NYME",
+        "auteur_lien": "https://www.google.com/maps/contrib/109630530835424359480/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2w5U1VqTnBZVmhRY25wS1EwZEZTRGRaV1U1VlJYYxAB!2m1!1s0x47f36f5ca6e6ec2b:0x3d3031bb6061f45c"
+      }
+    ]
   }
 }

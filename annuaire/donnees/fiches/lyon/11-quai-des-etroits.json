@@ -40,8 +40,8 @@
     "etat": "absent",
     "premiere_detection": null,
     "derniere_detection": null,
-    "derniere_verification": "2026-10-09T16:58:32.124Z",
-    "echecs": 22,
+    "derniere_verification": "2026-10-18T10:09:04.999Z",
+    "echecs": 23,
     "url_detectee": null
   },
   "suggestion": {
@@ -54,7 +54,7 @@
   "dates": {
     "collecte": "2026-09-29",
     "publication": "2026-09-29",
-    "maj": "2026-10-09"
+    "maj": "2026-10-18"
   },
   "source": "google-places",
   "redaction": {
@@ -126,5 +126,55 @@
     "fenetreRecenteJours": 28,
     "source": "search-console",
     "date": "2026-10-18"
+  },
+  "avis_detail": {
+    "releve": "2026-10-18",
+    "liste": [
+      {
+        "note": 3,
+        "texte": "",
+        "langue": "",
+        "date": "2026-03-16",
+        "auteur": "Isabelle Fratarcangeli",
+        "auteur_lien": "https://www.google.com/maps/contrib/104082551234234036673/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT21vd1NXZDJWM0ZrVDBRd1JUQndaVmhYTFZkR2RVRRAB!2m1!1s0x47f4ebb733df795b:0x6f87dd0d2bfe84e8"
+      },
+      {
+        "note": 4,
+        "texte": "The Saône riverbank is very pleasant!",
+        "langue": "en-US",
+        "date": "2022-04-15",
+        "auteur": "Laetitia Nicolau",
+        "auteur_lien": "https://www.google.com/maps/contrib/110124531985349860613/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUMybkxIMWRREAE!2m1!1s0x47f4ebb733df795b:0x6f87dd0d2bfe84e8"
+      },
+      {
+        "note": 5,
+        "texte": "",
+        "langue": "",
+        "date": "2021-09-24",
+        "auteur": "Resher",
+        "auteur_lien": "https://www.google.com/maps/contrib/102250134206459412569/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUQ2a3BMaVpREAE!2m1!1s0x47f4ebb733df795b:0x6f87dd0d2bfe84e8"
+      },
+      {
+        "note": 5,
+        "texte": "",
+        "langue": "",
+        "date": "2020-09-29",
+        "auteur": "Lionel RAKOTOMALALA",
+        "auteur_lien": "https://www.google.com/maps/contrib/115631261775689596986/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSURDX3ZMdU13EAE!2m1!1s0x47f4ebb733df795b:0x6f87dd0d2bfe84e8"
+      },
+      {
+        "note": 2,
+        "texte": "Traffic jams are very common.",
+        "langue": "en-US",
+        "date": "2019-09-19",
+        "auteur": "Stella",
+        "auteur_lien": "https://www.google.com/maps/contrib/106689696072893209393/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSURVOHVUMGhBRRAB!2m1!1s0x47f4ebb733df795b:0x6f87dd0d2bfe84e8"
+      }
+    ]
   }
 }

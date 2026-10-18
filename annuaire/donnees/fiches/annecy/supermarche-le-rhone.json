@@ -30,7 +30,7 @@
     "longitude": 6.116280199999999
   },
   "note": 4,
-  "avis": 536,
+  "avis": 537,
   "horaires": [
     {
       "jour": 0,
@@ -109,8 +109,8 @@
     "etat": "absent",
     "premiere_detection": null,
     "derniere_detection": null,
-    "derniere_verification": "2026-10-09T11:52:02.074Z",
-    "echecs": 7,
+    "derniere_verification": "2026-10-18T10:09:04.999Z",
+    "echecs": 8,
     "url_detectee": null
   },
   "suggestion": {
@@ -123,7 +123,7 @@
   "dates": {
     "collecte": "2026-10-03",
     "publication": "2026-10-03",
-    "maj": "2026-10-09"
+    "maj": "2026-10-18"
   },
   "source": "google-places",
   "redaction": {
@@ -200,5 +200,55 @@
     "fenetreRecenteJours": 28,
     "source": "search-console",
     "date": "2026-10-18"
+  },
+  "avis_detail": {
+    "releve": "2026-10-18",
+    "liste": [
+      {
+        "note": 5,
+        "texte": "Always open and they have everything you need. All is halal.",
+        "langue": "en",
+        "date": "2026-03-21",
+        "auteur": "Ismaïl NGUYEN",
+        "auteur_lien": "https://www.google.com/maps/contrib/116187537593937719217/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT21kdlZrWlpOazFuVkdKNU0wVmFkamxhU2xaUmVGRRAB!2m1!1s0x478b8556e322cec1:0x764b4ad6a3c28da1"
+      },
+      {
+        "note": 5,
+        "texte": "Halal butcher inside this halal supermarket",
+        "langue": "en",
+        "date": "2026-01-26",
+        "auteur": "Saiful Safuan Md Sani",
+        "auteur_lien": "https://www.google.com/maps/contrib/109984801195016495504/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xBeWVXdG9lVlpOYzJaMVFteGpSMGt0VUVVdFpGRRAB!2m1!1s0x478b8556e322cec1:0x764b4ad6a3c28da1"
+      },
+      {
+        "note": 2,
+        "texte": "Nice, clean and big supermarket. Good selection of stuff. However, one of the drinks was expired and the burek was super dry, barely edible 😓",
+        "langue": "en",
+        "date": "2025-04-25",
+        "auteur": "Vasco Elbrecht",
+        "auteur_lien": "https://www.google.com/maps/contrib/112027056699194784798/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnTURvZ2UycnlBRRAB!2m1!1s0x478b8556e322cec1:0x764b4ad6a3c28da1"
+      },
+      {
+        "note": 1,
+        "texte": "Not sure how this place gets good reviews as a grocery store. No milk or dairy. Very strangely organized. Very little produce, most of which is not very fresh. Tons of candy and junk food with labels in Arabic. They only had eggs in huge crates. I could not even find real orange juice. Only orange flavored drinks. This should be listed as a specialty store.",
+        "langue": "en",
+        "date": "2024-08-26",
+        "auteur": "Steven Balusik",
+        "auteur_lien": "https://www.google.com/maps/contrib/103409854573530884810/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUQ3aFpxTkNREAE!2m1!1s0x478b8556e322cec1:0x764b4ad6a3c28da1"
+      },
+      {
+        "note": 5,
+        "texte": "I haven’t got anything bad to say about the shop, they are always friendly and helpful, I use to go there almost the time to buy meet, the butcher's got nice and fresh stuffs",
+        "langue": "en",
+        "date": "2024-07-04",
+        "auteur": "Giovanka Marra",
+        "auteur_lien": "https://www.google.com/maps/contrib/110941373023034397968/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUNydEt2RUl3EAE!2m1!1s0x478b8556e322cec1:0x764b4ad6a3c28da1"
+      }
+    ]
   }
 }

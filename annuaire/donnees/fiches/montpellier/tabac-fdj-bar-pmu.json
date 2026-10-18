@@ -113,8 +113,8 @@
     "etat": "absent",
     "premiere_detection": null,
     "derniere_detection": null,
-    "derniere_verification": "2026-10-09T11:52:02.074Z",
-    "echecs": 22,
+    "derniere_verification": "2026-10-18T10:09:04.999Z",
+    "echecs": 23,
     "url_detectee": null
   },
   "suggestion": {
@@ -127,7 +127,7 @@
   "dates": {
     "collecte": "2026-09-20",
     "publication": "2026-09-20",
-    "maj": "2026-10-09"
+    "maj": "2026-10-18"
   },
   "source": "google-places",
   "redaction": {
@@ -204,5 +204,55 @@
     "fenetreRecenteJours": 28,
     "source": "search-console",
     "date": "2026-10-18"
+  },
+  "avis_detail": {
+    "releve": "2026-10-18",
+    "liste": [
+      {
+        "note": 5,
+        "texte": "Honestly, they're incredible!!!! Always open, no matter what!! They don't know about office hours, holidays, or even May Day!\n\nPlus, they're all friendly, polite, and smiling; I absolutely love them!\n\nAnd the best part is, when you call them, they send you a text message with their opening hours!!! Amazing, if only all businesses did the same!\nThank you all, you definitely deserve 5 stars!! Keep up the great work!",
+        "langue": "en-US",
+        "date": "2026-05-01",
+        "auteur": "martine gulon",
+        "auteur_lien": "https://www.google.com/maps/contrib/104825865113924214235/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xOM1RqTkdibGRuWDBFNU5FVlFTR2h0UkVSTk9WRRAB!2m1!1s0x12b6aeed6a4b23a9:0x53c6d2421cd3e018"
+      },
+      {
+        "note": 5,
+        "texte": "Good",
+        "langue": "en",
+        "date": "2025-01-11",
+        "auteur": "DB",
+        "auteur_lien": "https://www.google.com/maps/contrib/104780273846380022609/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSURmZ3ZpSzl3RRAB!2m1!1s0x12b6aeed6a4b23a9:0x53c6d2421cd3e018"
+      },
+      {
+        "note": 5,
+        "texte": "good",
+        "langue": "en",
+        "date": "2024-01-28",
+        "auteur": "Jinpeng Cao",
+        "auteur_lien": "https://www.google.com/maps/contrib/115456391686873768223/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUN0Mk1PN2JBEAE!2m1!1s0x12b6aeed6a4b23a9:0x53c6d2421cd3e018"
+      },
+      {
+        "note": 5,
+        "texte": "Super service client",
+        "langue": "en",
+        "date": "2022-11-05",
+        "auteur": "Socho Svz",
+        "auteur_lien": "https://www.google.com/maps/contrib/102338644365527097383/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUMtZ2E2UlZ3EAE!2m1!1s0x12b6aeed6a4b23a9:0x53c6d2421cd3e018"
+      },
+      {
+        "note": 5,
+        "texte": "Top top",
+        "langue": "en",
+        "date": "2022-03-06",
+        "auteur": "Nono Doud",
+        "auteur_lien": "https://www.google.com/maps/contrib/113878405928440166259/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUNXaTRpSzVBRRAB!2m1!1s0x12b6aeed6a4b23a9:0x53c6d2421cd3e018"
+      }
+    ]
   }
 }

@@ -38,8 +38,8 @@
     "etat": "absent",
     "premiere_detection": null,
     "derniere_detection": null,
-    "derniere_verification": "2026-10-09T11:52:02.074Z",
-    "echecs": 14,
+    "derniere_verification": "2026-10-18T10:09:04.999Z",
+    "echecs": 15,
     "url_detectee": null
   },
   "suggestion": {
@@ -52,7 +52,7 @@
   "dates": {
     "collecte": "2026-09-26",
     "publication": "2026-09-26",
-    "maj": "2026-10-09"
+    "maj": "2026-10-18"
   },
   "source": "google-places",
   "redaction": {
@@ -124,5 +124,55 @@
     "fenetreRecenteJours": 28,
     "source": "search-console",
     "date": "2026-10-18"
+  },
+  "avis_detail": {
+    "releve": "2026-10-18",
+    "liste": [
+      {
+        "note": 5,
+        "texte": "👍",
+        "langue": "en-US",
+        "date": "2026-06-24",
+        "auteur": "Youcef Daoudi",
+        "auteur_lien": "https://www.google.com/maps/contrib/118360108539573720315/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT210b1dXNDVaa3hNVW5KWlUwRXhhVTF5TmxaUWNHYxAB!2m1!1s0x47e6636229479113:0x906deb0d37a7663a"
+      },
+      {
+        "note": 5,
+        "texte": "The place to be !!",
+        "langue": "en",
+        "date": "2024-12-10",
+        "auteur": "Cyril AMARÙ",
+        "auteur_lien": "https://www.google.com/maps/contrib/102518286410634633884/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUN2bW9XdUxBEAE!2m1!1s0x47e6636229479113:0x906deb0d37a7663a"
+      },
+      {
+        "note": 1,
+        "texte": "One of TotalEnergies' many buildings. But absolutely nothing for sale. (I'm adding a star to check if I get a rejection email for entering the name of a private company. Just to test one of the AI ​​settings).",
+        "langue": "en-US",
+        "date": "2023-03-04",
+        "auteur": "Babulin Barraca",
+        "auteur_lien": "https://www.google.com/maps/contrib/107956448276609663180/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSURob3FhVE5BEAE!2m1!1s0x47e6636229479113:0x906deb0d37a7663a"
+      },
+      {
+        "note": 4,
+        "texte": "Great!",
+        "langue": "en-US",
+        "date": "2021-11-26",
+        "auteur": "KOUYATE LAYSON",
+        "auteur_lien": "https://www.google.com/maps/contrib/104092320296347610552/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSURHcHBXd3FRRRAB!2m1!1s0x47e6636229479113:0x906deb0d37a7663a"
+      },
+      {
+        "note": 1,
+        "texte": "What can be said about Total, a multinational corporation serving whom?",
+        "langue": "en-US",
+        "date": "2021-02-12",
+        "auteur": "jaicruvoir senior",
+        "auteur_lien": "https://www.google.com/maps/contrib/101407452529020998934/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUN5czV5VnR3RRAB!2m1!1s0x47e6636229479113:0x906deb0d37a7663a"
+      }
+    ]
   }
 }

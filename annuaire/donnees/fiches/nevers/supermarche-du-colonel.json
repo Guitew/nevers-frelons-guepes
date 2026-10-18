@@ -114,8 +114,8 @@
     "etat": "absent",
     "premiere_detection": null,
     "derniere_detection": null,
-    "derniere_verification": "2026-10-09T11:52:02.074Z",
-    "echecs": 63,
+    "derniere_verification": "2026-10-18T10:09:04.999Z",
+    "echecs": 64,
     "url_detectee": null
   },
   "retrait": {
@@ -128,7 +128,7 @@
   "dates": {
     "collecte": "2026-08-30",
     "publication": "2026-08-30",
-    "maj": "2026-10-14"
+    "maj": "2026-10-18"
   },
   "source": "google-places",
   "redaction": {
@@ -219,5 +219,55 @@
     "canonique_google": null,
     "source": "inspection",
     "date": "2026-10-14"
+  },
+  "avis_detail": {
+    "releve": "2026-10-18",
+    "liste": [
+      {
+        "note": 1,
+        "texte": "Sorry to have bothered you! A knack for business isn't for everyone, but to lack it to this extent warrants a visit... Go in knowing what you're getting into; you'll leave either laughing or... horrified 😉",
+        "langue": "en-US",
+        "date": "2026-05-30",
+        "auteur": "Keyser Söze",
+        "auteur_lien": "https://www.google.com/maps/contrib/104659771713918157851/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xGQ2N6Tk5kRXMwYnpKSGRsRm1XVlpVYVRGSU5GRRAB!2m1!1s0x47f04595dc4cf785:0x91c68e174d574292"
+      },
+      {
+        "note": 1,
+        "texte": "The staff was extremely unpleasant. I asked a question about dropping off a Mondial Relay parcel, and the man walked right past me and went into the back room without answering. Thinking he hadn't heard me, I waited patiently for him to come out and politely asked him the same question again. Still no answer; I was talking to a brick wall. Unacceptable. It wasn't like this before; has there been a change of ownership?",
+        "langue": "en-US",
+        "date": "2026-05-16",
+        "auteur": "Jeanne Rouby",
+        "auteur_lien": "https://www.google.com/maps/contrib/118402092902240240511/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25kaGRuSjRhSFE0WjBoWU1tZzRNMUZvV2s1U2FHYxAB!2m1!1s0x47f04595dc4cf785:0x91c68e174d574292"
+      },
+      {
+        "note": 1,
+        "texte": "I went to pick up a package because this shop acts as a parcel collection point. After 20 minutes, I left empty-handed, even though the package had been delivered to the shop. The shopkeeper spoke little to no French. I'm not sure he could even read the names on the packages…\nI don't recommend it. I certainly won't be going back to this shop.",
+        "langue": "en-US",
+        "date": "2025-01-17",
+        "auteur": "Corine HUREL.LAURENT",
+        "auteur_lien": "https://www.google.com/maps/contrib/102837718181363723044/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUNfdWZDSy1nRRAB!2m1!1s0x47f04595dc4cf785:0x91c68e174d574292"
+      },
+      {
+        "note": 5,
+        "texte": "Great, full of products you can't find anywhere else, and very polite and pleasant people! A lovely atmosphere",
+        "langue": "en-US",
+        "date": "2024-10-21",
+        "auteur": "Derior lyon",
+        "auteur_lien": "https://www.google.com/maps/contrib/101722259803338072708/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUNYMTVMLTF3RRAB!2m1!1s0x47f04595dc4cf785:0x91c68e174d574292"
+      },
+      {
+        "note": 5,
+        "texte": "I really like it; there's a bit of everything at very reasonable prices. Open until late afternoon with friendly service, this local shop has quickly become indispensable.",
+        "langue": "en-US",
+        "date": "2023-04-30",
+        "auteur": "Thérèse DOINARD",
+        "auteur_lien": "https://www.google.com/maps/contrib/109400959075143480652/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSURSbGFYU2pBRRAB!2m1!1s0x47f04595dc4cf785:0x91c68e174d574292"
+      }
+    ]
   }
 }

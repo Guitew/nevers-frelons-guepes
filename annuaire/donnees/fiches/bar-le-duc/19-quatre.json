@@ -114,8 +114,8 @@
     "etat": "absent",
     "premiere_detection": null,
     "derniere_detection": null,
-    "derniere_verification": "2026-10-09T16:58:32.124Z",
-    "echecs": 28,
+    "derniere_verification": "2026-10-18T10:09:04.999Z",
+    "echecs": 29,
     "url_detectee": null
   },
   "suggestion": {
@@ -128,7 +128,7 @@
   "dates": {
     "collecte": "2026-09-26",
     "publication": "2026-09-26",
-    "maj": "2026-10-09"
+    "maj": "2026-10-18"
   },
   "source": "google-places",
   "redaction": {
@@ -205,5 +205,55 @@
     "fenetreRecenteJours": 28,
     "source": "search-console",
     "date": "2026-10-18"
+  },
+  "avis_detail": {
+    "releve": "2026-10-18",
+    "liste": [
+      {
+        "note": 5,
+        "texte": "My husband and I came to the restaurant. We were pleasantly surprised by the quality of the food, the cuisine, and the service. The andouillette was excellent, as was the bavette steak with shallots.\nThe ingredients are of excellent quality. Kudos to the chef and the waitress for her warm smile. I highly recommend it.",
+        "langue": "en-US",
+        "date": "2026-05-31",
+        "auteur": "LYDIE HENTZIEN",
+        "auteur_lien": "https://www.google.com/maps/contrib/100462258018184820123/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25oSVVVRTVaVWcxWkhob2QyRXhlbGxyYzBRMVdGRRAB!2m1!1s0x47eb7bea8cefce31:0xd5d8067136d22c72"
+      },
+      {
+        "note": 5,
+        "texte": "State",
+        "langue": "en",
+        "date": "2026-05-29",
+        "auteur": "Sajid Ali",
+        "auteur_lien": "https://www.google.com/maps/contrib/102288816608364872131/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2pnNE1ERnlWVXd5VjI1T2MxWmFSM0kxZW1GdWNrRRAB!2m1!1s0x47eb7bea8cefce31:0xd5d8067136d22c72"
+      },
+      {
+        "note": 5,
+        "texte": "Super",
+        "langue": "en",
+        "date": "2023-07-05",
+        "auteur": "martine petit",
+        "auteur_lien": "https://www.google.com/maps/contrib/104520438105207153032/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUNKcTV6eWJREAE!2m1!1s0x47eb7bea8cefce31:0xd5d8067136d22c72"
+      },
+      {
+        "note": 3,
+        "texte": "Cool",
+        "langue": "en",
+        "date": "2023-04-23",
+        "auteur": "Matthieu Rousselot",
+        "auteur_lien": "https://www.google.com/maps/contrib/101170290917764944632/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSURSMnJ2RFRnEAE!2m1!1s0x47eb7bea8cefce31:0xd5d8067136d22c72"
+      },
+      {
+        "note": 4,
+        "texte": "Awesome place. For the family...yes love it.",
+        "langue": "en",
+        "date": "2020-02-11",
+        "auteur": "jon blu",
+        "auteur_lien": "https://www.google.com/maps/contrib/115728947483549345411/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUNzdmNfaVV3EAE!2m1!1s0x47eb7bea8cefce31:0xd5d8067136d22c72"
+      }
+    ]
   }
 }

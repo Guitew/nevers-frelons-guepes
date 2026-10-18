@@ -1,5 +1,114 @@
 [
   {
+    "date": "2026-10-18T10:11:59.773Z",
+    "type": "republication",
+    "id": "ChIJnyjjz_x4CEgRRIUGCXCvEvw",
+    "nom": "XPO Logistics Distribution",
+    "url": "/transport-demenagement/verrieres-en-anjou/xpo-logistics-distribution/",
+    "motif": "backlink GMB retrouvé"
+  },
+  {
+    "date": "2026-10-18T10:09:05.120Z",
+    "type": "backlink-absent",
+    "id": "ChIJyc8VzfSM-EcRD9oc7Mxe6Po",
+    "nom": "Clinique vétérinaire de cueille",
+    "url": null,
+    "precedent": "en-attente"
+  },
+  {
+    "date": "2026-10-18T10:09:05.173Z",
+    "type": "backlink-absent",
+    "id": "ChIJk_y_h5lw60cRQTS6yxLSCIg",
+    "nom": "Proxi",
+    "url": null,
+    "precedent": "en-attente"
+  },
+  {
+    "date": "2026-10-18T10:09:05.230Z",
+    "type": "backlink-absent",
+    "id": "ChIJYc0DJ2_ZjEcRyM6LYkd_fJE",
+    "nom": "Transakauto Lons-le-Saunier",
+    "url": null,
+    "precedent": "en-attente"
+  },
+  {
+    "date": "2026-10-18T10:09:05.313Z",
+    "type": "backlink-absent",
+    "id": "ChIJT50eF-eV-kcRRP8cYodxA58",
+    "nom": "Transports Houdray",
+    "url": null,
+    "precedent": "en-attente"
+  },
+  {
+    "date": "2026-10-18T10:09:05.376Z",
+    "type": "backlink-absent",
+    "id": "ChIJy-il_AE7tRIRGO2Q-QryOAg",
+    "nom": "VillaVerde",
+    "url": null,
+    "precedent": "en-attente"
+  },
+  {
+    "date": "2026-10-18T10:09:06.672Z",
+    "type": "backlink-present",
+    "id": "ChIJmXwSLwAz_kcRvs_ouAbuXiU",
+    "nom": "Tartines & macarons",
+    "url": "https://andpro.fr/vitrine-locale/boulangeries-patisseries/l-isle-d-espagnac/tartines-macarons/",
+    "precedent": "absent"
+  },
+  {
+    "date": "2026-10-18T10:09:07.319Z",
+    "type": "backlink-present",
+    "id": "ChIJnyjjz_x4CEgRRIUGCXCvEvw",
+    "nom": "XPO Logistics Distribution",
+    "url": "https://andpro.fr/vitrine-locale/transport-demenagement/verrieres-en-anjou/xpo-logistics-distribution/",
+    "precedent": "absent"
+  },
+  {
+    "date": "2026-10-18T10:09:04.457Z",
+    "type": "publication",
+    "id": "ChIJy-il_AE7tRIRGO2Q-QryOAg",
+    "nom": "VillaVerde",
+    "url": "/jardinage-paysage/privas/villaverde/",
+    "categorie": "jardinage-paysage",
+    "source": "google-places"
+  },
+  {
+    "date": "2026-10-18T10:09:04.550Z",
+    "type": "publication",
+    "id": "ChIJT50eF-eV-kcRRP8cYodxA58",
+    "nom": "Transports Houdray",
+    "url": "/transport-demenagement/saint-doulchard/transports-houdray/",
+    "categorie": "transport-demenagement",
+    "source": "google-places"
+  },
+  {
+    "date": "2026-10-18T10:09:04.648Z",
+    "type": "publication",
+    "id": "ChIJyc8VzfSM-EcRD9oc7Mxe6Po",
+    "nom": "Clinique vétérinaire de cueille",
+    "url": "/veterinaires-animaux/tulle/clinique-veterinaire-de-cueille/",
+    "categorie": "veterinaires-animaux",
+    "source": "google-places"
+  },
+  {
+    "date": "2026-10-18T10:09:04.757Z",
+    "type": "publication",
+    "id": "ChIJYc0DJ2_ZjEcRyM6LYkd_fJE",
+    "nom": "Transakauto Lons-le-Saunier",
+    "url": "/garages-automobile/lons-le-saunier/transakauto-lons-le-saunier/",
+    "categorie": "garages-automobile",
+    "source": "google-places"
+  },
+  {
+    "date": "2026-10-18T10:09:04.887Z",
+    "type": "publication",
+    "id": "ChIJk_y_h5lw60cRQTS6yxLSCIg",
+    "nom": "Proxi",
+    "url": "/commerces-alimentation/bar-le-duc/proxi/",
+    "categorie": "commerces-alimentation",
+    "source": "google-places"
+  },
+  {
     "date": "2026-10-18T10:06:47.687Z",
     "type": "suggestion-soumise",
     "id": "ChIJ-fgESCIttBIRGpbeTWRA0x4",

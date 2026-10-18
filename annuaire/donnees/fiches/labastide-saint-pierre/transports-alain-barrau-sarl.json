@@ -132,8 +132,8 @@
     "etat": "absent",
     "premiere_detection": null,
     "derniere_detection": null,
-    "derniere_verification": "2026-10-09T11:52:02.074Z",
-    "echecs": 55,
+    "derniere_verification": "2026-10-18T10:09:04.999Z",
+    "echecs": 56,
     "url_detectee": null
   },
   "suggestion": {
@@ -146,7 +146,7 @@
   "dates": {
     "collecte": "2026-09-04",
     "publication": "2026-09-04",
-    "maj": "2026-10-09"
+    "maj": "2026-10-18"
   },
   "source": "google-places",
   "redaction": {
@@ -232,5 +232,55 @@
     "canonique_google": null,
     "source": "inspection",
     "date": "2026-10-18"
+  },
+  "avis_detail": {
+    "releve": "2026-10-18",
+    "liste": [
+      {
+        "note": 5,
+        "texte": "A driver who gets annoyed during a traffic alternating direction in a construction zone and doesn't respect safe following distances or speed limits... Tell your drivers to take the motorway and not the secondary roads leading to Vierzon if they want to drive like maniacs!!!\n\nIn short, yet another reckless driver who gives a fine image of our profession!!!\n5 stars so as not to penalize the company...",
+        "langue": "en-US",
+        "date": "2026-06-25",
+        "auteur": "Djak PLN",
+        "auteur_lien": "https://www.google.com/maps/contrib/106838885353273699644/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT201RFVtdE5ZMUF6VVY5eWFGbDNRekpLWm00dFZsRRAB!2m1!1s0x12ac1f9e229b43a3:0x7b066d7f35c391d0"
+      },
+      {
+        "note": 5,
+        "texte": "A serious, professional, and family-run company that is always attentive",
+        "langue": "en-US",
+        "date": "2026-06-15",
+        "auteur": "Rehal Rudy",
+        "auteur_lien": "https://www.google.com/maps/contrib/106232044918097652148/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2w5amRETlBXbE5ZVHpWcFQxVmpTV2swVEd4Mk5HYxAB!2m1!1s0x12ac1f9e229b43a3:0x7b066d7f35c391d0"
+      },
+      {
+        "note": 5,
+        "texte": "Excellent boss\nRighteous\nHappy birthday, Mr. Barrau\nA former driver from the north\nWe were still in Villematier\nWhen I drove for you\nI will always cherish the memory\nA top-notch team",
+        "langue": "en-US",
+        "date": "2024-09-09",
+        "auteur": "Joel Place",
+        "auteur_lien": "https://www.google.com/maps/contrib/104761691578931845947/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUNIdV9IQUhREAE!2m1!1s0x12ac1f9e229b43a3:0x7b066d7f35c391d0"
+      },
+      {
+        "note": 1,
+        "texte": "The comments are nothing but lies, lol. Lots of overtime violations, with shifts lasting 15 hours every day. Many rules aren't being followed. If there's an inspection at this company like there already was, they've already been fined, and it'll happen again!",
+        "langue": "en-US",
+        "date": "2023-12-11",
+        "auteur": "L if ykxkt J-f",
+        "auteur_lien": "https://www.google.com/maps/contrib/104226852897123194558/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSURWaktDa0xnEAE!2m1!1s0x12ac1f9e229b43a3:0x7b066d7f35c391d0"
+      },
+      {
+        "note": 4,
+        "texte": "A respectful and attentive boss who is fair and firm when necessary, yet open to dialogue. The office staff do a thorough job. The equipment is very well maintained and monitored. A very good company for people who love their work; I highly recommend it.",
+        "langue": "en-US",
+        "date": "2023-10-30",
+        "auteur": "Kiiotsu",
+        "auteur_lien": "https://www.google.com/maps/contrib/108261491010357868947/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUNGMWZhZXd3RRAB!2m1!1s0x12ac1f9e229b43a3:0x7b066d7f35c391d0"
+      }
+    ]
   }
 }

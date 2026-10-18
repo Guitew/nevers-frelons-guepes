@@ -100,8 +100,8 @@
     "etat": "absent",
     "premiere_detection": null,
     "derniere_detection": null,
-    "derniere_verification": "2026-10-09T11:52:02.074Z",
-    "echecs": 63,
+    "derniere_verification": "2026-10-18T10:09:04.999Z",
+    "echecs": 64,
     "url_detectee": null
   },
   "suggestion": {
@@ -200,5 +200,55 @@
     "canonique_google": null,
     "source": "impressions",
     "date": "2026-10-18"
+  },
+  "avis_detail": {
+    "releve": "2026-10-18",
+    "liste": [
+      {
+        "note": 5,
+        "texte": "Very good company, when you arrive and take the CMR to the office, you will be given the ramp number at the same time, the vehicle will be loaded within 25 minutes.helpful staf super",
+        "langue": "en",
+        "date": "2026-07-31",
+        "auteur": "Ch Jamshaid jutt",
+        "auteur_lien": "https://www.google.com/maps/contrib/103089806598276764305/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25SVVUwZDFURzQwV0hSSlptVlJjVGRIUmxNMFJVRRAB!2m1!1s0x47fb0987b22e27cd:0xab134416712919a3"
+      },
+      {
+        "note": 4,
+        "texte": "Office, ramp, loading, documents, departure. The entire operation takes 1 hour.",
+        "langue": "en-US",
+        "date": "2026-03-29",
+        "auteur": "Mateusz Wieniakowski",
+        "auteur_lien": "https://www.google.com/maps/contrib/104848569475962004709/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2w5b1RsWjFjMmg0Y0hWM1VqRlFkR2h4TTJKd2QzYxAB!2m1!1s0x47fb0987b22e27cd:0xab134416712919a3"
+      },
+      {
+        "note": 5,
+        "texte": "I brought empty flights to this company!! Everything is fast and clear!! The ladies working in the office are lovely, they let me go to the store for groceries 👍👍👍👍 Lidl is 500 meters away",
+        "langue": "en-US",
+        "date": "2026-01-30",
+        "auteur": "Дмитрий Ковалев",
+        "auteur_lien": "https://www.google.com/maps/contrib/102410642571832616296/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xORlVtczNlR2hPU0Vaa1F5MUZWR2R3TXpkT2VtYxAB!2m1!1s0x47fb0987b22e27cd:0xab134416712919a3"
+      },
+      {
+        "note": 1,
+        "texte": "Please keep your dogs on the road. Eb154by overtook me in Parthenay at a roundabout and forced me onto the sidewalk to avoid a collision. He didn't even have the courtesy to apologize, even though he was completely in the wrong. The report was filed on January 29, 2026. For your information, I work for Garnier Transport.",
+        "langue": "en-US",
+        "date": "2026-01-29",
+        "auteur": "Franck Julien",
+        "auteur_lien": "https://www.google.com/maps/contrib/112726469197832096689/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2w5MlptbEpOa2RMY1VvMk5ra3pNVVJHWDI1TVVrRRAB!2m1!1s0x47fb0987b22e27cd:0xab134416712919a3"
+      },
+      {
+        "note": 5,
+        "texte": "Nice",
+        "langue": "en",
+        "date": "2025-08-09",
+        "auteur": "Victor Petre",
+        "auteur_lien": "https://www.google.com/maps/contrib/109853949690740055305/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT21ab1ZWcGlkMnB1UkY5dFIxTjVZbVpPTkRZek1sRRAB!2m1!1s0x47fb0987b22e27cd:0xab134416712919a3"
+      }
+    ]
   }
 }

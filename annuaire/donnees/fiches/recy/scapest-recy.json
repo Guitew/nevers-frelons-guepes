@@ -40,8 +40,8 @@
     "etat": "absent",
     "premiere_detection": null,
     "derniere_detection": null,
-    "derniere_verification": "2026-10-09T11:52:02.074Z",
-    "echecs": 64,
+    "derniere_verification": "2026-10-18T10:09:04.999Z",
+    "echecs": 65,
     "url_detectee": null
   },
   "suggestion": {
@@ -140,5 +140,55 @@
     "canonique_google": null,
     "source": "inspection",
     "date": "2026-10-18"
+  },
+  "avis_detail": {
+    "releve": "2026-10-18",
+    "liste": [
+      {
+        "note": 5,
+        "texte": "Nice Company, have a shower and toilet, we can park and take a break every kind,",
+        "langue": "en",
+        "date": "2026-04-30",
+        "auteur": "Tahir Gujjar",
+        "auteur_lien": "https://www.google.com/maps/contrib/114845717620521594655/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xkd01uQTFVamxHZEhwM1p6RkNTM2c0WVRKeFZFRRAB!2m1!1s0x47ebdf852974e0fd:0x2efc1359d7b7e460"
+      },
+      {
+        "note": 5,
+        "texte": "good company, good staf, lot parking for spend night, shower available",
+        "langue": "en",
+        "date": "2025-11-18",
+        "auteur": "Naveed ch",
+        "auteur_lien": "https://www.google.com/maps/contrib/117026817146445303703/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2tjMk5XTjNhWGRHVmpWclRDMDFXVmRUZEhodmJYYxAB!2m1!1s0x47ebdf852974e0fd:0x2efc1359d7b7e460"
+      },
+      {
+        "note": 5,
+        "texte": "Enter the parking and office\n48.986807,4.330885",
+        "langue": "en",
+        "date": "2025-11-05",
+        "auteur": "Ch Khurram",
+        "auteur_lien": "https://www.google.com/maps/contrib/104867269050543564443/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT21WNE1YZFhWWEJzY3paaGRWUkdNR0pSVUVKQlFrRRAB!2m1!1s0x47ebdf852974e0fd:0x2efc1359d7b7e460"
+      },
+      {
+        "note": 3,
+        "texte": "Friendly staff who are able to communicate in English",
+        "langue": "en",
+        "date": "2022-11-02",
+        "auteur": "Sebastian Chiripus",
+        "auteur_lien": "https://www.google.com/maps/contrib/113366883161515807163/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUMtcHVqMC1RRRAB!2m1!1s0x47ebdf852974e0fd:0x2efc1359d7b7e460"
+      },
+      {
+        "note": 1,
+        "texte": "The worst company. The staff doesn't have a hint of culture.  International freight forwarders do not know to speak any other language.  Disaster.  It's easier to agree with the killer than with these people.",
+        "langue": "en",
+        "date": "2020-04-21",
+        "auteur": "Srđan Gemović",
+        "auteur_lien": "https://www.google.com/maps/contrib/114112100506016889702/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUNjeDR2Z0pREAE!2m1!1s0x47ebdf852974e0fd:0x2efc1359d7b7e460"
+      }
+    ]
   }
 }

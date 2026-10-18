@@ -41,8 +41,8 @@
     "etat": "absent",
     "premiere_detection": null,
     "derniere_detection": null,
-    "derniere_verification": "2026-10-09T11:52:02.074Z",
-    "echecs": 63,
+    "derniere_verification": "2026-10-18T10:09:04.999Z",
+    "echecs": 64,
     "url_detectee": null
   },
   "suggestion": {
@@ -141,5 +141,55 @@
     "canonique_google": null,
     "source": "inspection",
     "date": "2026-10-18"
+  },
+  "avis_detail": {
+    "releve": "2026-10-18",
+    "liste": [
+      {
+        "note": 1,
+        "texte": "When you pass drivers at home and see them with their phones in hand, then find them on TikTok filming anything and everything, even watching TV on a tablet, bravo, what a lovely image. Of course, there's proof... and above all, it's really dangerous ⚠️",
+        "langue": "en-US",
+        "date": "2025-12-11",
+        "auteur": "Anthony FRD",
+        "auteur_lien": "https://www.google.com/maps/contrib/112873148125159926471/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xKSFdtNUdWVUZZTm1wSE55MXNSV3RzTm1wNU1FRRAB!2m1!1s0x47ea11dbc7a836cb:0xad2592373b77ae5e"
+      },
+      {
+        "note": 1,
+        "texte": "Hey...we're going to have to invest in trucks with engines other than the one in a Twingo...unbearably slow...and forces you to drive at a high speed that guzzles fuel...A real pain! RN44, June 3rd, evening",
+        "langue": "en-US",
+        "date": "2024-06-04",
+        "auteur": "djadja Glenn",
+        "auteur_lien": "https://www.google.com/maps/contrib/117322049105315680477/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUN6azR5ZXFRRRAB!2m1!1s0x47ea11dbc7a836cb:0xad2592373b77ae5e"
+      },
+      {
+        "note": 4,
+        "texte": "The employee who was handling my paperwork was a qualified worker, which can't be said about the manager in the office. The man with glasses should watch his nerves. I pointed out that the information on the paperwork was incomplete (and the driver would be fined for that by the transport control department) and asked him to complete it. This caused a lot of negative emotions in the office employee, who dismissively tossed the paperwork at him.\nThe other employees, outside the office, were very friendly.",
+        "langue": "en-US",
+        "date": "2023-10-20",
+        "auteur": "Александр Адамович",
+        "auteur_lien": "https://www.google.com/maps/contrib/109272997254375438119/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUQ1ak5ybWJREAE!2m1!1s0x47ea11dbc7a836cb:0xad2592373b77ae5e"
+      },
+      {
+        "note": 5,
+        "texte": "5 stars, to reward the courteous driving of one of your chauffeurs on the road; there are very few drivers like that left, a pleasure! A77 near Nevers, July 1st at 11:00 AM",
+        "langue": "en-US",
+        "date": "2022-07-01",
+        "auteur": "Kevin Castilla",
+        "auteur_lien": "https://www.google.com/maps/contrib/104009412740425108417/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSURPNHAzeEZBEAE!2m1!1s0x47ea11dbc7a836cb:0xad2592373b77ae5e"
+      },
+      {
+        "note": 1,
+        "texte": "A driver cuts in front of everyone on a ring road at 110 km/h to overtake another truck. The entire lane is slammed on the brakes, and the car slows to 80 km/h. A real danger.",
+        "langue": "en-US",
+        "date": "2022-04-06",
+        "auteur": "Laetitia Saget",
+        "auteur_lien": "https://www.google.com/maps/contrib/107928897153151672302/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSURXbC1udVBBEAE!2m1!1s0x47ea11dbc7a836cb:0xad2592373b77ae5e"
+      }
+    ]
   }
 }

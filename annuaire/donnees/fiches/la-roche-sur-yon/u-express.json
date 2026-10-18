@@ -33,7 +33,7 @@
     "longitude": -1.4237034000000002
   },
   "note": 3.7,
-  "avis": 482,
+  "avis": 481,
   "horaires": [
     {
       "jour": 0,
@@ -117,8 +117,8 @@
     "etat": "absent",
     "premiere_detection": null,
     "derniere_detection": null,
-    "derniere_verification": "2026-10-09T11:52:02.074Z",
-    "echecs": 8,
+    "derniere_verification": "2026-10-18T10:09:04.999Z",
+    "echecs": 9,
     "url_detectee": null
   },
   "suggestion": {
@@ -131,7 +131,7 @@
   "dates": {
     "collecte": "2026-10-02",
     "publication": "2026-10-02",
-    "maj": "2026-10-09"
+    "maj": "2026-10-18"
   },
   "source": "google-places",
   "redaction": {
@@ -208,5 +208,55 @@
     "fenetreRecenteJours": 28,
     "source": "search-console",
     "date": "2026-10-18"
+  },
+  "avis_detail": {
+    "releve": "2026-10-18",
+    "liste": [
+      {
+        "note": 5,
+        "texte": "A good neighbourhood shop",
+        "langue": "en",
+        "date": "2026-06-03",
+        "auteur": "Emmanuel Eshiet",
+        "auteur_lien": "https://www.google.com/maps/contrib/113251858329648471756/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2sxNmNXeEJRMUI0TFd4MGVHeFdPRWhCTkVkT1MwRRAB!2m1!1s0x48042f8db0e79635:0x9e1db461498e4dba"
+      },
+      {
+        "note": 5,
+        "texte": "One of my favorite stores, it has the most affordable prices and excellent products.  I really recommend",
+        "langue": "en",
+        "date": "2024-08-27",
+        "auteur": "Sasha",
+        "auteur_lien": "https://www.google.com/maps/contrib/107506307271903811570/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUQ3X2FENXl3RRAB!2m1!1s0x48042f8db0e79635:0x9e1db461498e4dba"
+      },
+      {
+        "note": 5,
+        "texte": "Super",
+        "langue": "en",
+        "date": "2022-12-19",
+        "auteur": "kenancan salyanli",
+        "auteur_lien": "https://www.google.com/maps/contrib/108990743649184106974/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUNCN0xmMFZREAE!2m1!1s0x48042f8db0e79635:0x9e1db461498e4dba"
+      },
+      {
+        "note": 5,
+        "texte": "Nickel",
+        "langue": "en",
+        "date": "2022-11-26",
+        "auteur": "Philippe Lebreton",
+        "auteur_lien": "https://www.google.com/maps/contrib/111976129125287136983/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUQtOHNQLVdBEAE!2m1!1s0x48042f8db0e79635:0x9e1db461498e4dba"
+      },
+      {
+        "note": 4,
+        "texte": "Nice shopping store with good selection",
+        "langue": "en",
+        "date": "2020-01-23",
+        "auteur": "Michael Young",
+        "auteur_lien": "https://www.google.com/maps/contrib/100283436740050019498/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUNzdEtyNHNBRRAB!2m1!1s0x48042f8db0e79635:0x9e1db461498e4dba"
+      }
+    ]
   }
 }

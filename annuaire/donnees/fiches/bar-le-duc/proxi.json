@@ -1,0 +1,272 @@
+{
+  "id": "ChIJk_y_h5lw60cRQTS6yxLSCIg",
+  "slug": "proxi",
+  "nom": "Proxi",
+  "categorie": "commerces-alimentation",
+  "categorie_gmb": "Épicerie",
+  "type_principal": "grocery_store",
+  "types": [
+    "grocery_store",
+    "food_store",
+    "store",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "ville": "Bar-le-Duc",
+  "ville_slug": "bar-le-duc",
+  "adresse": {
+    "rue": "29 Rue Jean Jacques Rousseau",
+    "code_postal": "55000",
+    "departement": "55",
+    "region": "Grand Est",
+    "pays": "France",
+    "complete": "29 Rue Jean Jacques Rousseau, 55000 Bar-le-Duc"
+  },
+  "telephone": "03 29 70 11 63",
+  "geo": {
+    "latitude": 48.7728344,
+    "longitude": 5.1595445
+  },
+  "note": 4.8,
+  "avis": 20,
+  "horaires": [
+    {
+      "jour": 0,
+      "ferme": true,
+      "creneaux": []
+    },
+    {
+      "jour": 1,
+      "ferme": false,
+      "creneaux": [
+        [
+          "08:00",
+          "12:30"
+        ],
+        [
+          "15:00",
+          "00:00"
+        ]
+      ]
+    },
+    {
+      "jour": 2,
+      "ferme": false,
+      "creneaux": [
+        [
+          "08:00",
+          "12:30"
+        ],
+        [
+          "15:00",
+          "00:00"
+        ]
+      ]
+    },
+    {
+      "jour": 3,
+      "ferme": false,
+      "creneaux": [
+        [
+          "08:00",
+          "12:30"
+        ],
+        [
+          "15:00",
+          "00:00"
+        ]
+      ]
+    },
+    {
+      "jour": 4,
+      "ferme": false,
+      "creneaux": [
+        [
+          "08:00",
+          "12:30"
+        ],
+        [
+          "15:00",
+          "00:30"
+        ]
+      ]
+    },
+    {
+      "jour": 5,
+      "ferme": false,
+      "creneaux": [
+        [
+          "08:00",
+          "12:30"
+        ],
+        [
+          "15:00",
+          "00:30"
+        ]
+      ]
+    },
+    {
+      "jour": 6,
+      "ferme": false,
+      "creneaux": [
+        [
+          "08:00",
+          "23:00"
+        ]
+      ]
+    }
+  ],
+  "attributs": [
+    "Parking accessible en fauteuil roulant"
+  ],
+  "lien_google": "https://maps.google.com/?cid=9802315567141106753&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
+  "site_web_gmb": null,
+  "statut": "publiee",
+  "backlink": {
+    "etat": "absent",
+    "premiere_detection": null,
+    "derniere_detection": null,
+    "derniere_verification": "2026-10-18T10:09:04.999Z",
+    "echecs": 1,
+    "url_detectee": null
+  },
+  "suggestion": {
+    "etat": "en-attente",
+    "date_soumission": null,
+    "tentatives": 0,
+    "date_email": "2026-10-18"
+  },
+  "retrait": null,
+  "dates": {
+    "collecte": "2026-10-18",
+    "publication": "2026-10-18",
+    "maj": "2026-10-18"
+  },
+  "source": "google-places",
+  "redaction": {
+    "titre": "Proxi — Commerce d'alimentation à Bar-le-Duc",
+    "meta_titre": "Proxi, commerce d'alimentation à Bar-le-Duc",
+    "meta_description": "Proxi, commerce d'alimentation à Bar-le-Duc (29 Rue Jean Jacques Rousseau) : adresse, horaires, téléphone et informations pratiques.",
+    "chapo": "Proxi est un commerce d'alimentation au 29 Rue Jean Jacques Rousseau, à Bar-le-Duc. Aucune adresse web n'est renseignée sur sa fiche Google. Cette page rassemble donc, en un seul endroit stable, les informations que les clients recherchent avant de se déplacer.",
+    "sections": [
+      {
+        "id": "presentation",
+        "titre": "Proxi en quelques mots",
+        "paragraphes": [
+          "Commerces et alimentation font partie des activités les plus consultées localement sur mobile.",
+          "Le commerce alimentaire de proximité redevient un réflexe, mais son information circule mal : jours de marché, produits de saison, vente directe. Cette fiche rassemble ce que le consommateur cherche avant de se déplacer.",
+          "D'après le relevé du 18 octobre 2026, l'établissement est ouvert tous les jours sauf le lundi. Le détail jour par jour figure plus bas."
+        ]
+      },
+      {
+        "id": "acces",
+        "titre": "Adresse et accès",
+        "paragraphes": [
+          "L'établissement est situé au 29 Rue Jean Jacques Rousseau, 55000 Bar-le-Duc.",
+          "Coordonnées géographiques : 48.77283, 5.15954. Le lien d'itinéraire ci-dessous ouvre directement la navigation."
+        ]
+      },
+      {
+        "id": "contact",
+        "titre": "Contacter Proxi",
+        "paragraphes": [
+          "Le contact se fait par téléphone au 03 29 70 11 63. C'est le seul moyen de communication déclaré sur la fiche Google de l'entreprise, avec la visite sur place.",
+          "Si vous dirigez cette entreprise, vous pouvez demander la correction ou le retrait de cette page à tout moment, sans justification."
+        ]
+      },
+      {
+        "id": "avis",
+        "titre": "La réputation de Proxi",
+        "paragraphes": [
+          "Au relevé du 18 octobre 2026, l'établissement affichait une note de 4,8 sur 5 sur Google, calculée à partir de 20 avis. Cette note évolue en permanence : elle est indiquée ici à titre d'information et n'est pas retraitée.",
+          "Les avis appartiennent à Google et se consultent sur la fiche d'origine, dont le lien figure sur cette page."
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "q": "Quels sont les horaires de Proxi ?",
+        "r": "Au relevé du 18 octobre 2026, Proxi était ouvert tous les jours sauf le lundi. Dans le détail — lundi : fermé ; mardi : de 8 h à 12 h 30 et de 15 h à 0 h ; mercredi : de 8 h à 12 h 30 et de 15 h à 0 h ; jeudi : de 8 h à 12 h 30 et de 15 h à 0 h ; vendredi : de 8 h à 12 h 30 et de 15 h à 0 h 30 ; samedi : de 8 h à 12 h 30 et de 15 h à 0 h 30 ; dimanche : de 8 h à 23 h. Ces horaires peuvent changer : un appel préalable reste conseillé."
+      },
+      {
+        "q": "Où se trouve Proxi ?",
+        "r": "Proxi se trouve 29 Rue Jean Jacques Rousseau, 55000 Bar-le-Duc. Un lien d'itinéraire est disponible sur cette page."
+      },
+      {
+        "q": "Comment contacter Proxi ?",
+        "r": "Par téléphone au 03 29 70 11 63, ou directement sur place aux heures d'ouverture."
+      },
+      {
+        "q": "Proxi a-t-il un site internet ?",
+        "r": "Non : aucune adresse de site web n'est déclarée sur la fiche Google de Proxi au 18 octobre 2026. Cette page tient lieu de référence publique en attendant, le cas échéant, la création d'un site propre à l'entreprise."
+      },
+      {
+        "q": "Proxi est-il accessible aux personnes à mobilité réduite ?",
+        "r": "La fiche Google de l'établissement mentionne : « Parking accessible en fauteuil roulant ». Cette information est déclarative ; en cas de doute, vérifiez par téléphone."
+      }
+    ],
+    "genere_le": "2026-10-18"
+  },
+  "avis_detail": {
+    "releve": "2026-10-18",
+    "liste": [
+      {
+        "note": 5,
+        "texte": "Nothing to complain about, you can find almost everything, especially good fruits and vegetables. Perfect.",
+        "langue": "en-US",
+        "date": "2025-09-07",
+        "auteur": "LETT Jérôme",
+        "auteur_lien": "https://www.google.com/maps/contrib/112746935159139954742/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT21GelVtMUNRbEpLYlRBelEwdFZkamN3ZUZCc1RuYxAB!2m1!1s0x47eb709987bffc93:0x8808d212cbba3441"
+      },
+      {
+        "note": 5,
+        "texte": "Excellent fruits and vegetables. The vendor is friendly. I recommend it 👍",
+        "langue": "en-US",
+        "date": "2025-06-07",
+        "auteur": "Marie PERMINGEAT",
+        "auteur_lien": "https://www.google.com/maps/contrib/118386908624945318000/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJcmlpS3IybHJ6a1BREAE!2m1!1s0x47eb709987bffc93:0x8808d212cbba3441"
+      },
+      {
+        "note": 4,
+        "texte": "Living nearby, I often need small ingredients for recipes.\n\nSo I head to this local shop. Honestly, it's great; you can find everything you need.\n\nThe only downside might be that the manager could be a bit more friendly.\n\nPS: This shop carries all the flavors of Bret's chips. Yum! 😍",
+        "langue": "en-US",
+        "date": "2024-11-27",
+        "auteur": "Jean-Baptiste Klein",
+        "auteur_lien": "https://www.google.com/maps/contrib/103363890414628845451/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUNQX2F5aWhnRRAB!2m1!1s0x47eb709987bffc93:0x8808d212cbba3441"
+      },
+      {
+        "note": 5,
+        "texte": "Practical and efficient, plus it's run by young people, which is revitalizing the business.\nThe fruits and vegetables are good.",
+        "langue": "en-US",
+        "date": "2024-10-23",
+        "auteur": "Anaïs",
+        "auteur_lien": "https://www.google.com/maps/contrib/100157394960820058400/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSURYNkt2bFdnEAE!2m1!1s0x47eb709987bffc93:0x8808d212cbba3441"
+      },
+      {
+        "note": 4,
+        "texte": "Shop located in Place Reggio with sale of fresh produce, bread depot, preserved goods, alcoholic and non-alcoholic drinks, very good quality fresh fruits and vegetables, I recommend it.",
+        "langue": "en-US",
+        "date": "2021-08-16",
+        "auteur": "Sarah Delestre",
+        "auteur_lien": "https://www.google.com/maps/contrib/114089465715001072825/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSURhMU5DbmlBRRAB!2m1!1s0x47eb709987bffc93:0x8808d212cbba3441"
+      }
+    ]
+  },
+  "statut_google": "OPERATIONAL",
+  "audience": {
+    "clics": 0,
+    "impressions": 0,
+    "position": null,
+    "fenetreJours": 90,
+    "clicsRecents": 0,
+    "fenetreRecenteJours": 28,
+    "source": "search-console",
+    "date": "2026-10-18"
+  }
+}
