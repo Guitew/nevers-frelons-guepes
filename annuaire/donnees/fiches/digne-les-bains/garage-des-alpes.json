@@ -1,0 +1,221 @@
+{
+  "id": "ChIJjWspjLaayxIRTWLI-K2pU7k",
+  "slug": "garage-des-alpes",
+  "nom": "Garage Des Alpes",
+  "categorie": "garages-automobile",
+  "categorie_gmb": "Garage automobile",
+  "type_principal": "car_repair",
+  "types": [
+    "car_repair",
+    "point_of_interest",
+    "service",
+    "establishment"
+  ],
+  "ville": "Digne-les-Bains",
+  "ville_slug": "digne-les-bains",
+  "adresse": {
+    "rue": "17 Avenue des Charrois",
+    "code_postal": "04000",
+    "departement": "04",
+    "region": "Provence-Alpes-Côte d'Azur",
+    "pays": "France",
+    "complete": "17 Av. des Charrois, 04000 Digne-les-Bains"
+  },
+  "telephone": "04 87 33 35 73",
+  "geo": {
+    "latitude": 44.094373499999996,
+    "longitude": 6.2312753999999995
+  },
+  "note": 4.8,
+  "avis": 102,
+  "horaires": [
+    {
+      "jour": 0,
+      "ferme": false,
+      "creneaux": [
+        [
+          "08:00",
+          "12:00"
+        ],
+        [
+          "13:30",
+          "17:30"
+        ]
+      ]
+    },
+    {
+      "jour": 1,
+      "ferme": false,
+      "creneaux": [
+        [
+          "08:00",
+          "12:00"
+        ],
+        [
+          "13:30",
+          "17:30"
+        ]
+      ]
+    },
+    {
+      "jour": 2,
+      "ferme": false,
+      "creneaux": [
+        [
+          "08:00",
+          "12:00"
+        ],
+        [
+          "13:30",
+          "17:30"
+        ]
+      ]
+    },
+    {
+      "jour": 3,
+      "ferme": false,
+      "creneaux": [
+        [
+          "08:00",
+          "12:00"
+        ],
+        [
+          "13:30",
+          "17:30"
+        ]
+      ]
+    },
+    {
+      "jour": 4,
+      "ferme": false,
+      "creneaux": [
+        [
+          "08:00",
+          "12:00"
+        ],
+        [
+          "13:30",
+          "17:00"
+        ]
+      ]
+    },
+    {
+      "jour": 5,
+      "ferme": false,
+      "creneaux": [
+        [
+          "08:00",
+          "12:00"
+        ]
+      ]
+    },
+    {
+      "jour": 6,
+      "ferme": true,
+      "creneaux": []
+    }
+  ],
+  "attributs": [
+    "Entrée accessible en fauteuil roulant",
+    "Parking accessible en fauteuil roulant"
+  ],
+  "lien_google": "https://maps.google.com/?cid=13354203884751970893&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
+  "site_web_gmb": null,
+  "statut": "publiee",
+  "backlink": {
+    "etat": "absent",
+    "premiere_detection": null,
+    "derniere_detection": null,
+    "derniere_verification": "2026-10-18T09:54:50.642Z",
+    "echecs": 1,
+    "url_detectee": null
+  },
+  "suggestion": {
+    "etat": "en-attente",
+    "date_soumission": null,
+    "tentatives": 0,
+    "date_email": "2026-10-18"
+  },
+  "retrait": null,
+  "dates": {
+    "collecte": "2026-10-18",
+    "publication": "2026-10-18",
+    "maj": "2026-10-18"
+  },
+  "source": "google-places",
+  "redaction": {
+    "titre": "Garage Des Alpes — Garage et automobile à Digne-les-Bains",
+    "meta_titre": "Garage Des Alpes, garage et automobile à Digne-les-Bains",
+    "meta_description": "Garage Des Alpes, garage et automobile à Digne-les-Bains (17 Avenue des Charrois) : adresse, horaires, téléphone et informations pratiques.",
+    "chapo": "Garage Des Alpes exerce l'activité de garage et automobile au 17 Avenue des Charrois, à Digne-les-Bains. Faute de site internet déclaré sur sa fiche Google, l'entreprise reste difficile à trouver en dehors des cartes. Cette page comble ce manque avec des données factuelles et datées.",
+    "sections": [
+      {
+        "id": "presentation",
+        "titre": "Garage Des Alpes en quelques mots",
+        "paragraphes": [
+          "À Digne-les-Bains, les recherches du type « garage et automobile près de chez moi » se concluent le plus souvent par un appel ou une visite directe.",
+          "Entretien, réparation, contrôle technique : l'automobiliste choisit d'abord un garage proche et disponible. Ces entreprises travaillent à flux tendu et délaissent presque toujours la création d'un site, malgré une demande de recherche locale considérable.",
+          "D'après le relevé du 18 octobre 2026, l'établissement est ouvert tous les jours sauf le dimanche. Le détail jour par jour figure plus bas."
+        ]
+      },
+      {
+        "id": "acces",
+        "titre": "Adresse et accès",
+        "paragraphes": [
+          "L'établissement est situé au 17 Avenue des Charrois, 04000 Digne-les-Bains.",
+          "Coordonnées géographiques : 44.09437, 6.23128. Le lien d'itinéraire ci-dessous ouvre directement la navigation."
+        ]
+      },
+      {
+        "id": "contact",
+        "titre": "Contacter Garage Des Alpes",
+        "paragraphes": [
+          "Le contact se fait par téléphone au 04 87 33 35 73. C'est le seul moyen de communication déclaré sur la fiche Google de l'entreprise, avec la visite sur place.",
+          "Si vous dirigez cette entreprise, vous pouvez demander la correction ou le retrait de cette page à tout moment, sans justification."
+        ]
+      },
+      {
+        "id": "avis",
+        "titre": "La réputation de Garage Des Alpes",
+        "paragraphes": [
+          "Au relevé du 18 octobre 2026, l'établissement affichait une note de 4,8 sur 5 sur Google, calculée à partir de 102 avis. Cette note évolue en permanence : elle est indiquée ici à titre d'information et n'est pas retraitée.",
+          "Les avis appartiennent à Google et se consultent sur la fiche d'origine, dont le lien figure sur cette page."
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "q": "Quels sont les horaires de Garage Des Alpes ?",
+        "r": "Au relevé du 18 octobre 2026, Garage Des Alpes était ouvert tous les jours sauf le dimanche. Dans le détail — lundi : de 8 h à 12 h et de 13 h 30 à 17 h 30 ; mardi : de 8 h à 12 h et de 13 h 30 à 17 h 30 ; mercredi : de 8 h à 12 h et de 13 h 30 à 17 h 30 ; jeudi : de 8 h à 12 h et de 13 h 30 à 17 h 30 ; vendredi : de 8 h à 12 h et de 13 h 30 à 17 h ; samedi : de 8 h à 12 h ; dimanche : fermé. Ces horaires peuvent changer : un appel préalable reste conseillé."
+      },
+      {
+        "q": "Où se trouve Garage Des Alpes ?",
+        "r": "Garage Des Alpes se trouve 17 Av. des Charrois, 04000 Digne-les-Bains. Un lien d'itinéraire est disponible sur cette page."
+      },
+      {
+        "q": "Comment contacter Garage Des Alpes ?",
+        "r": "Par téléphone au 04 87 33 35 73, ou directement sur place aux heures d'ouverture."
+      },
+      {
+        "q": "Garage Des Alpes a-t-il un site internet ?",
+        "r": "Non : aucune adresse de site web n'est déclarée sur la fiche Google de Garage Des Alpes au 18 octobre 2026. Cette page tient lieu de référence publique en attendant, le cas échéant, la création d'un site propre à l'entreprise."
+      },
+      {
+        "q": "Garage Des Alpes est-il accessible aux personnes à mobilité réduite ?",
+        "r": "La fiche Google de l'établissement mentionne : « Entrée accessible en fauteuil roulant ». Cette information est déclarative ; en cas de doute, vérifiez par téléphone."
+      }
+    ],
+    "genere_le": "2026-10-18"
+  },
+  "statut_google": "OPERATIONAL",
+  "audience": {
+    "clics": 0,
+    "impressions": 0,
+    "position": null,
+    "fenetreJours": 90,
+    "clicsRecents": 0,
+    "fenetreRecenteJours": 28,
+    "source": "search-console",
+    "date": "2026-10-18"
+  }
+}

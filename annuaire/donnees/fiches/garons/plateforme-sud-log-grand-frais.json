@@ -27,7 +27,7 @@
     "longitude": 4.4312346
   },
   "note": 4.5,
-  "avis": 125,
+  "avis": 126,
   "horaires": [
     {
       "jour": 0,
@@ -76,13 +76,13 @@
   ],
   "lien_google": "https://maps.google.com/?cid=3145221387625802512&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
   "site_web_gmb": null,
-  "statut": "publiee",
+  "statut": "retiree",
   "backlink": {
     "etat": "absent",
     "premiere_detection": null,
     "derniere_detection": null,
-    "derniere_verification": "2026-10-09T11:52:02.074Z",
-    "echecs": 60,
+    "derniere_verification": "2026-10-18T09:54:50.642Z",
+    "echecs": 61,
     "url_detectee": null
   },
   "suggestion": {
@@ -91,11 +91,17 @@
     "tentatives": 0,
     "date_email": "2026-09-03"
   },
-  "retrait": null,
+  "retrait": {
+    "mode": "410",
+    "cible": null,
+    "date": "2026-10-18",
+    "motif": "page non indexée par Google 45 jours après sa mise en ligne (Google ne reconnaît pas cette URL)",
+    "cause": "non-indexee"
+  },
   "dates": {
     "collecte": "2026-09-03",
     "publication": "2026-09-03",
-    "maj": "2026-10-09"
+    "maj": "2026-10-18"
   },
   "source": "google-places",
   "redaction": {
@@ -167,15 +173,15 @@
     "clicsRecents": 0,
     "fenetreRecenteJours": 28,
     "source": "search-console",
-    "date": "2026-10-14"
+    "date": "2026-10-18"
   },
   "indexation": {
     "etat": "non-indexee",
     "verdict": "NEUTRAL",
-    "couverture": "Détectée, actuellement non indexée",
+    "couverture": "Google ne reconnaît pas cette URL",
     "derniere_exploration": null,
     "canonique_google": null,
     "source": "inspection",
-    "date": "2026-10-14"
+    "date": "2026-10-18"
   }
 }

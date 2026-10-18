@@ -196,22 +196,22 @@
   },
   "statut_google": "OPERATIONAL",
   "audience": {
-    "clics": 0,
-    "impressions": 0,
-    "position": null,
+    "clics": 4,
+    "impressions": 233,
+    "position": 3.4,
     "fenetreJours": 90,
-    "clicsRecents": 0,
+    "clicsRecents": 4,
     "fenetreRecenteJours": 28,
     "source": "search-console",
-    "date": "2026-10-14"
+    "date": "2026-10-18"
   },
   "indexation": {
-    "etat": "non-indexee",
-    "verdict": "NEUTRAL",
-    "couverture": "Détectée, actuellement non indexée",
+    "etat": "indexee",
+    "verdict": null,
+    "couverture": "impressions dans la Search Console",
     "derniere_exploration": null,
     "canonique_google": null,
-    "source": "inspection",
-    "date": "2026-10-14"
+    "source": "impressions",
+    "date": "2026-10-18"
   }
 }

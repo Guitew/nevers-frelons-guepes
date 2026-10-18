@@ -108,7 +108,7 @@
   ],
   "lien_google": "https://maps.google.com/?cid=3249725742715611302&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
   "site_web_gmb": null,
-  "statut": "publiee",
+  "statut": "retiree",
   "backlink": {
     "etat": "absent",
     "premiere_detection": null,
@@ -123,11 +123,17 @@
     "tentatives": 1,
     "date_email": "2026-09-02"
   },
-  "retrait": null,
+  "retrait": {
+    "mode": "410",
+    "cible": null,
+    "date": "2026-10-18",
+    "motif": "page non indexée par Google 46 jours après sa mise en ligne (Explorée, actuellement non indexée)",
+    "cause": "non-indexee"
+  },
   "dates": {
     "collecte": "2026-09-02",
     "publication": "2026-09-02",
-    "maj": "2026-10-09"
+    "maj": "2026-10-18"
   },
   "source": "google-places",
   "redaction": {
@@ -203,7 +209,7 @@
     "clicsRecents": 0,
     "fenetreRecenteJours": 28,
     "source": "search-console",
-    "date": "2026-10-14"
+    "date": "2026-10-18"
   },
   "indexation": {
     "etat": "non-indexee",
@@ -212,6 +218,6 @@
     "derniere_exploration": "2026-09-15T11:14:11Z",
     "canonique_google": null,
     "source": "inspection",
-    "date": "2026-10-14"
+    "date": "2026-10-18"
   }
 }

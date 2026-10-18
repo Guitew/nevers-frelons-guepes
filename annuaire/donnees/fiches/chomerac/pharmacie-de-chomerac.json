@@ -216,13 +216,22 @@
   },
   "statut_google": "OPERATIONAL",
   "audience": {
-    "clics": 12,
-    "impressions": 1193,
+    "clics": 14,
+    "impressions": 1361,
     "position": 2.7,
     "fenetreJours": 90,
-    "clicsRecents": 12,
+    "clicsRecents": 13,
     "fenetreRecenteJours": 28,
     "source": "search-console",
-    "date": "2026-10-14"
+    "date": "2026-10-18"
+  },
+  "indexation": {
+    "etat": "indexee",
+    "verdict": null,
+    "couverture": "impressions dans la Search Console",
+    "derniere_exploration": null,
+    "canonique_google": null,
+    "source": "impressions",
+    "date": "2026-10-18"
   }
 }

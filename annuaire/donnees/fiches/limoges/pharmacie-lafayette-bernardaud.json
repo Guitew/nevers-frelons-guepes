@@ -32,7 +32,7 @@
     "longitude": 1.2612481
   },
   "note": 4.1,
-  "avis": 294,
+  "avis": 295,
   "horaires": [
     {
       "jour": 0,
@@ -112,8 +112,8 @@
     "etat": "absent",
     "premiere_detection": null,
     "derniere_detection": null,
-    "derniere_verification": "2026-10-09T11:52:02.074Z",
-    "echecs": 10,
+    "derniere_verification": "2026-10-18T09:54:50.642Z",
+    "echecs": 11,
     "url_detectee": null
   },
   "suggestion": {
@@ -126,7 +126,7 @@
   "dates": {
     "collecte": "2026-09-30",
     "publication": "2026-09-30",
-    "maj": "2026-10-09"
+    "maj": "2026-10-18"
   },
   "source": "google-places",
   "redaction": {
@@ -202,6 +202,6 @@
     "clicsRecents": 0,
     "fenetreRecenteJours": 28,
     "source": "search-console",
-    "date": "2026-10-14"
+    "date": "2026-10-18"
   }
 }

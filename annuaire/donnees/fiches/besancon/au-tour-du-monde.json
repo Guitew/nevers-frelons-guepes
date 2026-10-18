@@ -137,7 +137,7 @@
   ],
   "lien_google": "https://maps.google.com/?cid=15507788878941827520&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
   "site_web_gmb": null,
-  "statut": "publiee",
+  "statut": "retiree",
   "backlink": {
     "etat": "absent",
     "premiere_detection": null,
@@ -152,11 +152,16 @@
     "tentatives": 1,
     "date_email": "2026-09-02"
   },
-  "retrait": null,
+  "retrait": {
+    "mode": "410",
+    "cible": null,
+    "date": "2026-10-18",
+    "motif": "backlink jamais posé après 46 jours de délai de grâce"
+  },
   "dates": {
     "collecte": "2026-09-02",
     "publication": "2026-09-02",
-    "maj": "2026-10-09"
+    "maj": "2026-10-18"
   },
   "source": "google-places",
   "redaction": {
@@ -232,15 +237,15 @@
     "clicsRecents": 0,
     "fenetreRecenteJours": 28,
     "source": "search-console",
-    "date": "2026-10-14"
+    "date": "2026-10-18"
   },
   "indexation": {
-    "etat": "non-indexee",
-    "verdict": "NEUTRAL",
-    "couverture": "Détectée, actuellement non indexée",
-    "derniere_exploration": null,
-    "canonique_google": null,
+    "etat": "indexee",
+    "verdict": "PASS",
+    "couverture": "Envoyée et indexée",
+    "derniere_exploration": "2026-10-17T05:40:38Z",
+    "canonique_google": "https://andpro.fr/vitrine-locale/restaurants/besancon/au-tour-du-monde/",
     "source": "inspection",
-    "date": "2026-10-14"
+    "date": "2026-10-18"
   }
 }

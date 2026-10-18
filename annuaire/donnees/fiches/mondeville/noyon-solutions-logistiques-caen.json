@@ -119,7 +119,7 @@
   ],
   "lien_google": "https://maps.google.com/?cid=389640381762428483&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
   "site_web_gmb": "https://www.noyon.eu/",
-  "statut": "publiee",
+  "statut": "retiree",
   "backlink": {
     "etat": "externe",
     "premiere_detection": null,
@@ -133,11 +133,17 @@
     "date_soumission": "2026-09-01",
     "tentatives": 1
   },
-  "retrait": null,
+  "retrait": {
+    "mode": "410",
+    "cible": null,
+    "date": "2026-10-18",
+    "motif": "page non indexée par Google 47 jours après sa mise en ligne (Détectée, actuellement non indexée)",
+    "cause": "non-indexee"
+  },
   "dates": {
     "collecte": "2026-09-01",
     "publication": "2026-09-01",
-    "maj": "2026-10-14"
+    "maj": "2026-10-18"
   },
   "source": "google-places",
   "redaction": {
@@ -213,7 +219,7 @@
     "clicsRecents": 0,
     "fenetreRecenteJours": 28,
     "source": "search-console",
-    "date": "2026-10-14"
+    "date": "2026-10-18"
   },
   "indexation": {
     "etat": "non-indexee",
@@ -222,6 +228,6 @@
     "derniere_exploration": null,
     "canonique_google": null,
     "source": "inspection",
-    "date": "2026-10-14"
+    "date": "2026-10-18"
   }
 }
