@@ -37,10 +37,11 @@ export const REGLAGES_SELECTION_PAR_DEFAUT = {
  */
 export function motifHorsCible(lieu, reglages = {}) {
   const r = { ...REGLAGES_SELECTION_PAR_DEFAUT, ...(reglages || {}) };
+  // Type PRINCIPAL seulement : Google accroche des types secondaires
+  // fantaisistes (une pharmacie « consultant », une épicerie
+  // « moving_company ») qui ne disent rien de l'activité.
   const typesExclus = new Set(r.typesExclus || []);
-  const types = [lieu.type_principal, ...(lieu.types || [])].filter(Boolean);
-  const exclu = types.find((t) => typesExclus.has(t));
-  if (exclu) return `type Google exclu (${exclu})`;
+  if (lieu.type_principal && typesExclus.has(lieu.type_principal)) return `type Google exclu (${lieu.type_principal})`;
   const categorie = classer({ typePrincipal: lieu.type_principal, types: lieu.types || [], libelle: lieu.categorie_gmb });
   if (categorie && (r.categoriesExclues || []).includes(categorie)) return `rubrique exclue (${categorie})`;
   if (r.noteMinimale && (lieu.note || 0) < r.noteMinimale) return `note ${lieu.note ?? "absente"} < ${r.noteMinimale}`;

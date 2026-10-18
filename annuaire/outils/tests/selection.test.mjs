@@ -18,9 +18,10 @@ test("un restaurant bien noté et commenté est une cible", () => {
   assert.equal(motifHorsCible(lieu(), R), null);
 });
 
-test("les types Google exclus sont rejetés, même en type secondaire", () => {
+test("les types Google exclus sont rejetés sur le type principal seulement", () => {
   assert.match(motifHorsCible(lieu({ type_principal: "storage", types: ["storage"] }), R), /type Google exclu \(storage\)/);
-  assert.match(motifHorsCible(lieu({ types: ["restaurant", "corporate_office"] }), R), /corporate_office/);
+  // Une pharmacie étiquetée « consultant » en type secondaire reste une pharmacie.
+  assert.equal(motifHorsCible(lieu({ type_principal: "pharmacy", types: ["pharmacy", "consultant"], categorie_gmb: "Pharmacie" }), R), null);
 });
 
 test("les rubriques exclues sont rejetées après classification", () => {

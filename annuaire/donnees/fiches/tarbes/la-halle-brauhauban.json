@@ -111,7 +111,7 @@
   ],
   "lien_google": "https://maps.google.com/?cid=9749245490980169342&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
   "site_web_gmb": "https://halle-brauhauban.vercel.app/",
-  "statut": "retiree",
+  "statut": "publiee",
   "backlink": {
     "etat": "externe",
     "premiere_detection": null,
@@ -126,14 +126,7 @@
     "tentatives": 0,
     "date_email": "2026-09-30"
   },
-  "retrait": {
-    "mode": "410",
-    "cible": null,
-    "date": "2026-10-18",
-    "motif": "hors cible : type Google exclu (shopping_mall) (sélection du 18/10/2026), aucune impression Google",
-    "cause": "hors-cible",
-    "manuel": true
-  },
+  "retrait": null,
   "dates": {
     "collecte": "2026-09-30",
     "publication": "2026-09-30",
