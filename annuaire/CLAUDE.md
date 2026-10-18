@@ -54,7 +54,7 @@ annuaire/
 │   ├── lib/                  politique.mjs, maillage.mjs, national.mjs, google-auth.mjs, redaction.mjs, site.mjs, schema.mjs,
 │   │                         pilotage.mjs, fiches.mjs, categories.mjs, texte.mjs, journal.mjs
 │   ├── lib/fournisseurs/     google-places.mjs, csv.mjs, simulation.mjs
-│   └── tests/                111 tests node --test
+│   └── tests/                116 tests node --test
 └── src/                      gabarits Eleventy (fiche.njk, categorie.njk, htaccess.njk…)
 ```
 
@@ -138,6 +138,12 @@ fiches collectées ne sont jamais mises en ligne (404 sur toutes les URLs suggé
 16. **Pages catégorie × ville** : établissements triés par nombre d'avis (les plus cherchés d'abord),
     chapô avec les sous-types Google (« 2 restaurants chinois, 1 pizzeria »), « les mieux notés » (≥ 10 avis)
     et une FAQ balisée. Titre « Pluriel à Ville : N adresses, horaires et avis ».
+17. **Sélection à la collecte** (`outils/lib/selection.mjs`, 18/10/2026) : on ne publie que des pages que
+    quelqu'un cherchera par le nom du commerce. `config.collecte.categoriesExclues` (transport-déménagement,
+    comptabilité-conseil : 6 % et 0 % de pages avec impressions) retire aussi ces rubriques des recherches
+    Nearby ; `typesExclus` (storage, moving_company, corporate_office…) refuse des types Google partout ;
+    `avisMinimum` 20. Le nombre d'avis seul ne prédit pas l'indexation : ne pas le monter à l'aveugle.
+    Les fiches déjà publiées dans ces rubriques ne sont pas retirées automatiquement.
 9. **Un slug de catégorie ne se renomme pas sans alias.** `categories.json` accepte une clé `alias`
    (anciennes ou fausses orthographes) : chaque alias produit une règle 301 dans le `.htaccess`
    (test + verifier). La page 404 redirige aussi vers la fiche dont l'identifiant correspond.
@@ -145,7 +151,7 @@ fiches collectées ne sont jamais mises en ligne (404 sur toutes les URLs suggé
 ## Commandes
 
 ```bash
-npm run controle     # LA barrière : 111 tests + build + vérification du site produit — à passer avant tout push
+npm run controle     # LA barrière : 116 tests + build + vérification du site produit — à passer avant tout push
 npm test             # tests seuls
 npm run verifier     # inspecte _site : liens morts, préfixe manquant, canoniques, sitemaps, cohérence 301/410
 npm start            # serveur local http://localhost:8080

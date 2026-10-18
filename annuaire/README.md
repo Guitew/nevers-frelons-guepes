@@ -219,6 +219,15 @@ Ajouter un fournisseur tiers revient à déposer dans `outils/lib/fournisseurs/`
 > sont donc datés sur chaque page et rafraîchis par `npm run backlinks`. Le grattage des pages Maps
 > n'est volontairement pas implémenté : il est fragile et contraire aux conditions d'utilisation.
 
+### Sélection à la collecte (18/10/2026)
+
+Une page n'est indexée que si quelqu'un cherche le commerce par son nom. Les rubriques sans
+demande (transport-déménagement : garde-meubles, déménageurs, entrepôts ; comptabilité-conseil) et
+certains types Google (`storage`, `moving_company`, `corporate_office`…) ne sont plus collectés —
+réglages `categoriesExclues`, `typesExclus`, `avisMinimum` dans `config.json`, règles dans
+[`outils/lib/selection.mjs`](./outils/lib/selection.mjs). Les rubriques exclues sortent aussi des
+recherches Nearby, ce qui réduit les appels payants.
+
 ### Ce que dit le texte d'une fiche (rédaction v2, 18/10/2026)
 
 Les pages indexées sont celles que des gens cherchent par le nom du commerce, pour une question

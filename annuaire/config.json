@@ -30,8 +30,26 @@
     "categoriesCiblees": [],
     "mailleMetres": 800,
     "appelsMaxParJour": 60,
+    "_selection": "Ne collecter que des pages que quelqu'un cherchera (outils/lib/selection.mjs). Constat du 18/10/2026 : 6 % des fiches transport-déménagement (garde-meubles, déménageurs, entrepôts) et 0 % des fiches comptabilité-conseil reçoivent des impressions Google, contre 28 à 50 % pour restaurants, bars, garages, pharmacies, boulangeries. categoriesExclues retire aussi ces rubriques des recherches Nearby (moins d'appels payants) ; typesExclus refuse des types Google même dans une rubrique admise ; avisMinimum est un proxy faible de la demande (20 : rien de perdu sur les fiches indexées).",
+    "categoriesExclues": [
+      "transport-demenagement",
+      "comptabilite-conseil"
+    ],
+    "typesExclus": [
+      "storage",
+      "moving_company",
+      "courier_service",
+      "corporate_office",
+      "consultant",
+      "employment_agency",
+      "commercial_cleaning_service",
+      "warehouse",
+      "distribution_service",
+      "rv_park",
+      "shopping_mall"
+    ],
     "noteMinimale": 3.5,
-    "avisMinimum": 5,
+    "avisMinimum": 20,
     "exclureFermes": true
   },
   "backlinks": {

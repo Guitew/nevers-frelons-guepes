@@ -44,6 +44,7 @@ import { consigner, evenement } from "./lib/journal.mjs";
 import { DEPARTEMENTS_JSON } from "./lib/chemins.mjs";
 import { depuisApiGoogle, blocAvis } from "./lib/avis.mjs";
 import { extraireServices } from "./lib/services.mjs";
+import { motifHorsCible, categoriesACollecter } from "./lib/selection.mjs";
 
 const args = new Map(
   process.argv.slice(2).map((a) => {
@@ -57,10 +58,9 @@ const quota = Number(args.get("max") || config.collecte.fichesParJour);
 const nomFournisseur = args.get("fournisseur") || config.collecte.fournisseur;
 const mode = args.get("mode") || config.collecte.mode || "national";
 
-/** Catégories retenues pour la collecte (toutes, sauf restriction explicite). */
+/** Catégories retenues pour la collecte : toutes, moins les exclues (config.collecte.categoriesExclues), ou la liste ciblée. */
 function categoriesRetenues() {
-  const ciblees = config.collecte.categoriesCiblees;
-  return ciblees?.length ? categories.filter((c) => ciblees.includes(c.slug)) : categories;
+  return categoriesACollecter(categories, config.collecte);
 }
 
 const TYPES_INFRASTRUCTURE = new Set([
@@ -80,10 +80,18 @@ function estRecevable(lieu, existant) {
   if (existant.parId.has(lieu.id)) return false;
   if (TYPES_INFRASTRUCTURE.has(lieu.type_principal)) return false;
   if (config.collecte.exclureFermes && lieu.statut_google !== "OPERATIONAL") return false;
-  if (config.collecte.noteMinimale && (lieu.note || 0) < config.collecte.noteMinimale) return false;
-  if (config.collecte.avisMinimum && (lieu.avis || 0) < config.collecte.avisMinimum) return false;
+  // Sélection par la demande : rubriques et types Google que personne ne
+  // cherche par leur nom, seuils de note et d'avis (lib/selection.mjs).
+  const motif = motifHorsCible(lieu, config.collecte);
+  if (motif) {
+    rejets.set(motif.replace(/ \(.*\)$/, ""), (rejets.get(motif.replace(/ \(.*\)$/, "")) || 0) + 1);
+    return false;
+  }
   return true;
 }
+
+/** Décompte des rejets par motif, affiché en fin de collecte. */
+const rejets = new Map();
 
 // ---------------------------------------------------------------------------
 //  Mode national : maillage par département, au plus 1 fiche par département
@@ -279,6 +287,9 @@ async function principal() {
     retenus = await collecteLocale(source, existant);
   }
 
+  if (rejets.size) {
+    console.log("  Écartés par la sélection : " + [...rejets.entries()].map(([m, n]) => `${m} ×${n}`).join(", ") + ".");
+  }
   if (!retenus.length) {
     console.log("Aucune nouvelle entreprise sans site web trouvée aujourd'hui.");
     return;
