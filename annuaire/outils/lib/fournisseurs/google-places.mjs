@@ -153,7 +153,9 @@ export async function rechercher({ types, latitude, longitude, rayonMetres, maxi
  */
 export async function detailler(placeId, { avecAvis = false } = {}) {
   try {
-    return await appeler(`${RACINE_API}/places/${encodeURIComponent(placeId)}`, {
+    // languageCode : les avis arrivent traduits en français (l'original reste
+    // dans originalText) ; sans ce paramètre, Google rend la langue de l'auteur.
+    return await appeler(`${RACINE_API}/places/${encodeURIComponent(placeId)}?languageCode=fr&regionCode=FR`, {
       method: "GET",
       champs: avecAvis ? CHAMPS_DETAIL_AVIS : CHAMPS_DETAIL,
     });

@@ -6,7 +6,7 @@
  */
 import test from "node:test";
 import assert from "node:assert/strict";
-import { depuisApiGoogle, compilerAvis, syntheseAvis, themesDesAvis, avisARafraichir, blocAvis } from "../lib/avis.mjs";
+import { depuisApiGoogle, compilerAvis, syntheseAvis, themesDesAvis, avisARafraichir, prioriteAvis, blocAvis } from "../lib/avis.mjs";
 
 const avis = (note, date, texte = "Texte " + note, auteur = "A.") => ({ note, date, texte, auteur, auteur_lien: "", lien: "" });
 
@@ -115,9 +115,17 @@ test("syntheseAvis : avis sans thème détecté → seulement la répartition de
   assert.doesNotMatch(s, /apprécient|mettent en avant|soulignent/);
 });
 
-test("avisARafraichir : absent ou plus vieux que la fraîcheur", () => {
+test("avisARafraichir : absent, périmé ou en langue étrangère ; priorité à la retraduction", () => {
   assert.equal(avisARafraichir({}, 90), true);
+  assert.equal(prioriteAvis({}, 90), 1);
   assert.equal(avisARafraichir({ avis_detail: blocAvis([], "2000-01-01") }, 90), true);
+  assert.equal(prioriteAvis({ avis_detail: blocAvis([], "2000-01-01") }, 90), 2);
   const hier = new Date(Date.now() - 86400000).toISOString().slice(0, 10);
   assert.equal(avisARafraichir({ avis_detail: blocAvis([], hier) }, 90), false);
+  assert.equal(prioriteAvis({ avis_detail: blocAvis([{ ...avis(5, hier, "Parfait"), langue: "fr" }], hier) }, 90), null);
+  const anglais = { avis_detail: blocAvis([{ ...avis(5, hier, "Great place"), langue: "en" }], hier) };
+  assert.equal(avisARafraichir(anglais, 90), true);
+  assert.equal(prioriteAvis(anglais, 90), 0);
+  // Un avis sans texte n'a pas de langue à retraduire.
+  assert.equal(prioriteAvis({ avis_detail: blocAvis([{ ...avis(5, hier, ""), langue: "en" }], hier) }, 90), null);
 });

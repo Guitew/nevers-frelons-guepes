@@ -48,11 +48,25 @@ export function blocAvis(liste, releve) {
   return { releve, liste: liste || [] };
 }
 
-/** Le relevé d'avis d'une fiche est-il absent ou périmé ? */
+/** Un avis dont le texte n'est pas en français (relevé sans languageCode, avant le 18/10/2026). */
+function avisEnLangueEtrangere(a) {
+  return Boolean(a?.texte) && Boolean(a?.langue) && !/^fr/i.test(a.langue);
+}
+
+/**
+ * Priorité de rafraîchissement d'une fiche : 0 = avis en langue étrangère à
+ * retraduire, 1 = jamais relevés, 2 = relevé périmé, null = rien à faire.
+ */
+export function prioriteAvis(fiche, fraicheurJours) {
+  const detail = fiche?.avis_detail;
+  if (detail?.liste?.some(avisEnLangueEtrangere)) return 0;
+  if (!detail?.releve) return 1;
+  return joursDepuis(detail.releve) >= fraicheurJours ? 2 : null;
+}
+
+/** Le relevé d'avis d'une fiche est-il absent, périmé ou en langue étrangère ? */
 export function avisARafraichir(fiche, fraicheurJours) {
-  const releve = fiche?.avis_detail?.releve;
-  if (!releve) return true;
-  return joursDepuis(releve) >= fraicheurJours;
+  return prioriteAvis(fiche, fraicheurJours) !== null;
 }
 
 const parDateDesc = (a, b) => (b.date || "").localeCompare(a.date || "");
