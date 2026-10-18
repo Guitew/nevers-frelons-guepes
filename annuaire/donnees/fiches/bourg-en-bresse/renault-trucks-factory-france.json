@@ -106,7 +106,7 @@
   ],
   "lien_google": "https://maps.google.com/?cid=3263326530070376358&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
   "site_web_gmb": null,
-  "statut": "retiree",
+  "statut": "publiee",
   "backlink": {
     "etat": "absent",
     "premiere_detection": null,
@@ -121,13 +121,7 @@
     "tentatives": 1,
     "date_email": "2026-09-02"
   },
-  "retrait": {
-    "mode": "410",
-    "cible": null,
-    "date": "2026-10-18",
-    "motif": "page non indexée par Google 46 jours après sa mise en ligne (Détectée, actuellement non indexée)",
-    "cause": "non-indexee"
-  },
+  "retrait": null,
   "dates": {
     "collecte": "2026-09-02",
     "publication": "2026-09-02",
@@ -135,18 +129,18 @@
   },
   "source": "google-places",
   "redaction": {
+    "version": 2,
     "titre": "Renault Trucks Factory France — Comptabilité et conseil à Bourg-en-Bresse",
-    "meta_titre": "Renault Trucks Factory France, comptabilité et conseil à…",
-    "meta_description": "Renault Trucks Factory France, comptabilité et conseil à Bourg-en-Bresse (143 Avenue Amédée Mercier) : adresse, horaires, téléphone et informations…",
-    "chapo": "Renault Trucks Factory France est une comptabilité et conseil au 143 Avenue Amédée Mercier, à Bourg-en-Bresse. Aucune adresse web n'est renseignée sur sa fiche Google. Cette page rassemble donc, en un seul endroit stable, les informations que les clients recherchent avant de se déplacer.",
+    "meta_titre": "Renault Trucks Factory France : horaires, avis, téléphone",
+    "meta_description": "Renault Trucks Factory France, comptabilité et conseil à Bourg-en-Bresse : horaires d'ouverture, téléphone, adresse et itinéraire.",
+    "chapo": "Renault Trucks Factory France est une comptabilité et conseil au 143 Avenue Amédée Mercier, à Bourg-en-Bresse. Ouvert sept jours sur sept au relevé du 18 octobre 2026. Téléphone : 04 74 50 33 00. Note Google : 4,4 sur 5 pour 276 avis.",
     "sections": [
       {
         "id": "presentation",
         "titre": "Renault Trucks Factory France en quelques mots",
         "paragraphes": [
-          "Le choix d'une comptabilité et conseil se joue sur trois critères : la proximité, les horaires et la facilité de contact.",
-          "Cabinets comptables, consultants et organismes de formation vivent de la recommandation professionnelle. Une page indexable les rend accessibles aux dirigeants qui cherchent un prestataire dans leur bassin d'emploi plutôt qu'un cabinet national.",
-          "D'après le relevé du 2 septembre 2026, l'établissement est ouvert sept jours sur sept. Le détail jour par jour figure plus bas."
+          "Sur Google, l'établissement est classé « Siège social », dans notre rubrique Comptabilité et conseil.",
+          "D'après le relevé du 18 octobre 2026, l'établissement est ouvert sept jours sur sept. Le détail jour par jour figure plus bas."
         ]
       },
       {
@@ -154,30 +148,32 @@
         "titre": "Adresse et accès",
         "paragraphes": [
           "L'établissement est situé au 143 Avenue Amédée Mercier, 01000 Bourg-en-Bresse.",
-          "Coordonnées géographiques : 46.19954, 5.25733. Le lien d'itinéraire ci-dessous ouvre directement la navigation."
+          "Coordonnées GPS : 46.19954, 5.25733. Le bouton Itinéraire de cette page ouvre la navigation."
         ]
       },
       {
         "id": "contact",
         "titre": "Contacter Renault Trucks Factory France",
         "paragraphes": [
-          "Le contact se fait par téléphone au 04 74 50 33 00. C'est le seul moyen de communication déclaré sur la fiche Google de l'entreprise, avec la visite sur place.",
-          "Si vous dirigez cette entreprise, vous pouvez demander la correction ou le retrait de cette page à tout moment, sans justification."
+          "Le contact se fait par téléphone au 04 74 50 33 00, ou directement sur place aux horaires d'ouverture."
         ]
       },
       {
         "id": "avis",
         "titre": "La réputation de Renault Trucks Factory France",
         "paragraphes": [
-          "Au relevé du 2 septembre 2026, l'établissement affichait une note de 4,4 sur 5 sur Google, calculée à partir de 275 avis. Cette note évolue en permanence : elle est indiquée ici à titre d'information et n'est pas retraitée.",
-          "Les avis appartiennent à Google et se consultent sur la fiche d'origine, dont le lien figure sur cette page."
+          "Note de 4,4 sur 5 pour 276 avis Google au relevé du 18 octobre 2026. Les avis se consultent sur la fiche Google, dont le lien figure sur cette page."
         ]
       }
     ],
     "faq": [
       {
         "q": "Quels sont les horaires de Renault Trucks Factory France ?",
-        "r": "Au relevé du 2 septembre 2026, Renault Trucks Factory France était ouvert sept jours sur sept. Dans le détail — lundi : de 8 h 55 à 17 h 55 ; mardi : de 8 h 55 à 17 h 55 ; mercredi : de 8 h 55 à 17 h 55 ; jeudi : de 8 h 55 à 17 h 55 ; vendredi : de 8 h 55 à 17 h 55 ; samedi : de 8 h 55 à 17 h 55 ; dimanche : de 8 h 55 à 17 h 55. Ces horaires peuvent changer : un appel préalable reste conseillé."
+        "r": "Au relevé du 18 octobre 2026, Renault Trucks Factory France était ouvert sept jours sur sept. Dans le détail — lundi : de 8 h 55 à 17 h 55 ; mardi : de 8 h 55 à 17 h 55 ; mercredi : de 8 h 55 à 17 h 55 ; jeudi : de 8 h 55 à 17 h 55 ; vendredi : de 8 h 55 à 17 h 55 ; samedi : de 8 h 55 à 17 h 55 ; dimanche : de 8 h 55 à 17 h 55. Ces horaires peuvent changer : un appel préalable reste conseillé."
+      },
+      {
+        "q": "Renault Trucks Factory France est-il ouvert le dimanche ?",
+        "r": "Oui : le dimanche, Renault Trucks Factory France est ouvert de 8 h 55 à 17 h 55 (horaires relevés le 18 octobre 2026)."
       },
       {
         "q": "Où se trouve Renault Trucks Factory France ?",
@@ -188,15 +184,11 @@
         "r": "Par téléphone au 04 74 50 33 00, ou directement sur place aux heures d'ouverture."
       },
       {
-        "q": "Renault Trucks Factory France a-t-il un site internet ?",
-        "r": "Non : aucune adresse de site web n'est déclarée sur la fiche Google de Renault Trucks Factory France au 2 septembre 2026. Cette page tient lieu de référence publique en attendant, le cas échéant, la création d'un site propre à l'entreprise."
-      },
-      {
         "q": "Renault Trucks Factory France est-il accessible aux personnes à mobilité réduite ?",
         "r": "La fiche Google de l'établissement mentionne : « Entrée accessible en fauteuil roulant ». Cette information est déclarative ; en cas de doute, vérifiez par téléphone."
       }
     ],
-    "genere_le": "2026-09-02"
+    "genere_le": "2026-10-18"
   },
   "statut_google": "OPERATIONAL",
   "audience": {

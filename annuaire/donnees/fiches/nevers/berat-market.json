@@ -115,7 +115,7 @@
   ],
   "lien_google": "https://maps.google.com/?cid=6217351437668355782&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
   "site_web_gmb": null,
-  "statut": "retiree",
+  "statut": "publiee",
   "backlink": {
     "etat": "absent",
     "premiere_detection": null,
@@ -124,13 +124,7 @@
     "echecs": 80,
     "url_detectee": null
   },
-  "retrait": {
-    "mode": "410",
-    "cible": null,
-    "date": "2026-10-14",
-    "motif": "page non indexée par Google 45 jours après sa mise en ligne (Détectée, actuellement non indexée)",
-    "cause": "non-indexee"
-  },
+  "retrait": null,
   "dates": {
     "collecte": "2026-08-30",
     "publication": "2026-08-30",
@@ -138,18 +132,18 @@
   },
   "source": "google-places",
   "redaction": {
+    "version": 2,
     "titre": "Berat market — Commerce d'alimentation à Nevers",
-    "meta_titre": "Berat market, commerce d'alimentation à Nevers",
-    "meta_description": "Berat market, commerce d'alimentation à Nevers (2 Bis Rue des Docks) : adresse, horaires, téléphone et informations pratiques.",
-    "chapo": "Cette fiche présente Berat market, un commerce d'alimentation au 2 Bis Rue des Docks, à Nevers. Son établissement ne déclare aucun site internet sur sa fiche Google : les informations ci-dessous en tiennent lieu de référence publique, vérifiable et accessible à tous.",
+    "meta_titre": "Berat market à Nevers : horaires, avis, téléphone",
+    "meta_description": "Berat market, commerce d'alimentation à Nevers : horaires d'ouverture, note Google 4,5/5 (89 avis), téléphone, adresse et itinéraire.",
+    "chapo": "Cette fiche présente Berat market, un commerce d'alimentation au 2 Bis Rue des Docks, à Nevers. Ouvert sept jours sur sept au relevé du 18 octobre 2026. Téléphone : 06 59 85 12 05. Note Google : 4,5 sur 5 pour 89 avis.",
     "sections": [
       {
         "id": "presentation",
         "titre": "Berat market en quelques mots",
         "paragraphes": [
-          "Commerces et alimentation font partie des activités les plus consultées localement sur mobile.",
-          "Le commerce alimentaire de proximité redevient un réflexe, mais son information circule mal : jours de marché, produits de saison, vente directe. Cette fiche rassemble ce que le consommateur cherche avant de se déplacer.",
-          "D'après le relevé du 30 août 2026, l'établissement est ouvert sept jours sur sept. Le détail jour par jour figure plus bas."
+          "Sur Google, l'établissement est classé « Supermarché », dans notre rubrique Commerce d'alimentation.",
+          "D'après le relevé du 18 octobre 2026, l'établissement est ouvert sept jours sur sept. Le détail jour par jour figure plus bas."
         ]
       },
       {
@@ -157,30 +151,32 @@
         "titre": "Adresse et accès",
         "paragraphes": [
           "L'établissement est situé au 2 Bis Rue des Docks, 58000 Nevers.",
-          "Coordonnées géographiques : 46.99436, 3.14922. Le lien d'itinéraire ci-dessous ouvre directement la navigation."
+          "Coordonnées GPS : 46.99436, 3.14922. Le bouton Itinéraire de cette page ouvre la navigation."
         ]
       },
       {
         "id": "contact",
         "titre": "Contacter Berat market",
         "paragraphes": [
-          "Le contact se fait par téléphone au 06 59 85 12 05. C'est le seul moyen de communication déclaré sur la fiche Google de l'entreprise, avec la visite sur place.",
-          "Si vous dirigez cette entreprise, vous pouvez demander la correction ou le retrait de cette page à tout moment, sans justification."
+          "Le contact se fait par téléphone au 06 59 85 12 05, ou directement sur place aux horaires d'ouverture."
         ]
       },
       {
         "id": "avis",
         "titre": "La réputation de Berat market",
         "paragraphes": [
-          "Au relevé du 30 août 2026, l'établissement affichait une note de 4,5 sur 5 sur Google, calculée à partir de 88 avis. Cette note évolue en permanence : elle est indiquée ici à titre d'information et n'est pas retraitée.",
-          "Les avis appartiennent à Google et se consultent sur la fiche d'origine, dont le lien figure sur cette page."
+          "Note de 4,5 sur 5 pour 89 avis Google au relevé du 18 octobre 2026. Les avis se consultent sur la fiche Google, dont le lien figure sur cette page."
         ]
       }
     ],
     "faq": [
       {
         "q": "Quels sont les horaires de Berat market ?",
-        "r": "Au relevé du 30 août 2026, Berat market était ouvert sept jours sur sept. Dans le détail — lundi : de 9 h à 20 h ; mardi : de 9 h à 20 h ; mercredi : de 9 h à 20 h ; jeudi : de 9 h à 20 h ; vendredi : de 9 h à 20 h ; samedi : de 9 h à 20 h ; dimanche : de 9 h à 20 h. Ces horaires peuvent changer : un appel préalable reste conseillé."
+        "r": "Au relevé du 18 octobre 2026, Berat market était ouvert sept jours sur sept. Dans le détail — lundi : de 9 h à 20 h ; mardi : de 9 h à 20 h ; mercredi : de 9 h à 20 h ; jeudi : de 9 h à 20 h ; vendredi : de 9 h à 20 h ; samedi : de 9 h à 20 h ; dimanche : de 9 h à 20 h. Ces horaires peuvent changer : un appel préalable reste conseillé."
+      },
+      {
+        "q": "Berat market est-il ouvert le dimanche ?",
+        "r": "Oui : le dimanche, Berat market est ouvert de 9 h à 20 h (horaires relevés le 18 octobre 2026)."
       },
       {
         "q": "Où se trouve Berat market ?",
@@ -191,15 +187,11 @@
         "r": "Par téléphone au 06 59 85 12 05, ou directement sur place aux heures d'ouverture."
       },
       {
-        "q": "Berat market a-t-il un site internet ?",
-        "r": "Non : aucune adresse de site web n'est déclarée sur la fiche Google de Berat market au 30 août 2026. Cette page tient lieu de référence publique en attendant, le cas échéant, la création d'un site propre à l'entreprise."
-      },
-      {
         "q": "Berat market est-il accessible aux personnes à mobilité réduite ?",
         "r": "La fiche Google de l'établissement mentionne : « Entrée accessible en fauteuil roulant ». Cette information est déclarative ; en cas de doute, vérifiez par téléphone."
       }
     ],
-    "genere_le": "2026-08-30"
+    "genere_le": "2026-10-18"
   },
   "suggestion": {
     "etat": "soumise",

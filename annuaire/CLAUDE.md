@@ -54,7 +54,7 @@ annuaire/
 │   ├── lib/                  politique.mjs, maillage.mjs, national.mjs, google-auth.mjs, redaction.mjs, site.mjs, schema.mjs,
 │   │                         pilotage.mjs, fiches.mjs, categories.mjs, texte.mjs, journal.mjs
 │   ├── lib/fournisseurs/     google-places.mjs, csv.mjs, simulation.mjs
-│   └── tests/                106 tests node --test
+│   └── tests/                111 tests node --test
 └── src/                      gabarits Eleventy (fiche.njk, categorie.njk, htaccess.njk…)
 ```
 
@@ -122,6 +122,22 @@ fiches collectées ne sont jamais mises en ligne (404 sur toutes les URLs suggé
     gratuits/mois) : relevé à la collecte, rafraîchi par `backlinks.mjs` après `config.avis.fraicheurJours`
     et au plus `config.avis.relecturesParJour` par jour ; garder collecte + relectures sous 1 000/mois.
     Les regex de thèmes utilisent des bornes `\p{L}` car `\b` ignore les lettres accentuées.
+14. **Rédaction v2 et prestations Google** (18/10/2026) : le texte d'une fiche répond aux intentions de
+    recherche sur le nom d'un commerce (horaires, ouvert le dimanche, téléphone, avis, prix, réservation,
+    à emporter) et ne parle plus de la page elle-même ni de l'absence de site (phrases répétées sur des
+    centaines de pages = contenu de faible valeur). Titre SERP « Nom à Ville : horaires, avis, téléphone »
+    (`titreSerp`), description avec la note. Les prestations (`outils/lib/services.mjs`, champ `services`
+    de la fiche) viennent du même appel Place Details que les avis (aucun surcoût) ; `backlinks.mjs`
+    réécrit le texte à chaque relevé d'avis sauf `redaction.manuel: true`. `node outils/rediger.mjs --tout`
+    réécrit toutes les fiches après un changement de gabarit. Les métadonnées de fiche.njk passent par
+    `| safe` dans eleventyComputed (sinon double échappement des apostrophes).
+15. **Un verdict « Détectée, actuellement non indexée » ou « URL inconnue » ne fonde aucun retrait**
+    (`COUVERTURES_REFUS` dans lib/couverture.mjs) : Google n'a pas encore exploré la page, ce n'est pas un
+    refus. Seule une page explorée puis écartée (« Explorée, actuellement non indexée », soft 404, doublon)
+    peut être retirée après 45 jours. Le 18/10/2026, 99 fiches retirées sur ces verdicts ont été republiées.
+16. **Pages catégorie × ville** : établissements triés par nombre d'avis (les plus cherchés d'abord),
+    chapô avec les sous-types Google (« 2 restaurants chinois, 1 pizzeria »), « les mieux notés » (≥ 10 avis)
+    et une FAQ balisée. Titre « Pluriel à Ville : N adresses, horaires et avis ».
 9. **Un slug de catégorie ne se renomme pas sans alias.** `categories.json` accepte une clé `alias`
    (anciennes ou fausses orthographes) : chaque alias produit une règle 301 dans le `.htaccess`
    (test + verifier). La page 404 redirige aussi vers la fiche dont l'identifiant correspond.
@@ -129,7 +145,7 @@ fiches collectées ne sont jamais mises en ligne (404 sur toutes les URLs suggé
 ## Commandes
 
 ```bash
-npm run controle     # LA barrière : 106 tests + build + vérification du site produit — à passer avant tout push
+npm run controle     # LA barrière : 111 tests + build + vérification du site produit — à passer avant tout push
 npm test             # tests seuls
 npm run verifier     # inspecte _site : liens morts, préfixe manquant, canoniques, sitemaps, cohérence 301/410
 npm start            # serveur local http://localhost:8080

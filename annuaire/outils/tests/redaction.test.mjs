@@ -88,10 +88,10 @@ test("la FAQ ne pose que des questions auxquelles les données répondent", () =
   assert.match(complete, /Comment contacter/);
   assert.match(complete, /mobilité réduite/);
 
-  const minimale = rediger(MINIMALE, "2026-08-18").faq.map((q) => q.q).join(" ");
-  assert.doesNotMatch(minimale, /horaires/i);
-  assert.doesNotMatch(minimale, /Comment contacter/);
-  assert.match(minimale, /site internet/); // la seule question toujours pertinente
+  assert.match(complete, /ouvert le dimanche/);
+
+  const minimale = rediger(MINIMALE, "2026-08-18").faq;
+  assert.equal(minimale.length, 0, "sans donnée, aucune question : on n'invente pas de FAQ");
 });
 
 test("les métadonnées respectent les longueurs utiles en SERP", () => {

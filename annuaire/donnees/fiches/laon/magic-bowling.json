@@ -127,18 +127,18 @@
   },
   "source": "google-places",
   "redaction": {
+    "version": 2,
     "titre": "Magic bowling — Loisirs, sport et culture à Laon",
-    "meta_titre": "Magic bowling, loisirs, sport et culture à Laon",
-    "meta_description": "Magic bowling, loisirs, sport et culture à Laon (2 Rue Nicolas Appert) : adresse, horaires, téléphone et informations pratiques.",
-    "chapo": "Magic bowling exerce l'activité de loisirs, sport et culture au 2 Rue Nicolas Appert, à Laon. Faute de site internet déclaré sur sa fiche Google, l'entreprise reste difficile à trouver en dehors des cartes. Cette page comble ce manque avec des données factuelles et datées.",
+    "meta_titre": "Magic bowling à Laon : horaires, avis, téléphone",
+    "meta_description": "Magic bowling, loisirs, sport et culture à Laon : horaires d'ouverture, note Google 3,9/5 (714 avis), téléphone, adresse et itinéraire.",
+    "chapo": "Magic bowling exerce l'activité de loisirs, sport et culture au 2 Rue Nicolas Appert, à Laon. Ouvert tous les jours sauf le lundi au relevé du 14 octobre 2026. Téléphone : 03 23 79 84 37. Note Google : 3,9 sur 5 pour 714 avis.",
     "sections": [
       {
         "id": "presentation",
         "titre": "Magic bowling en quelques mots",
         "paragraphes": [
-          "Le choix d'un loisirs, sport et culture se joue sur trois critères : la proximité, les horaires et la facilité de contact.",
-          "Activités sportives, culturelles et de loisirs se choisissent sur des critères pratiques : horaires, tarifs, public accueilli. Ces structures, souvent associatives ou familiales, n'ont ni le temps ni les moyens d'entretenir un site.",
-          "D'après le relevé du 11 septembre 2026, l'établissement est ouvert tous les jours sauf le lundi. Le détail jour par jour figure plus bas."
+          "Sur Google, l'établissement est classé « Bowling », dans notre rubrique Loisirs, sport et culture.",
+          "D'après le relevé du 14 octobre 2026, l'établissement est ouvert tous les jours sauf le lundi. Le détail jour par jour figure plus bas."
         ]
       },
       {
@@ -146,30 +146,32 @@
         "titre": "Adresse et accès",
         "paragraphes": [
           "L'établissement est situé au 2 Rue Nicolas Appert, 02000 Laon.",
-          "Coordonnées géographiques : 49.56824, 3.65721. Le lien d'itinéraire ci-dessous ouvre directement la navigation."
+          "Coordonnées GPS : 49.56824, 3.65721. Le bouton Itinéraire de cette page ouvre la navigation."
         ]
       },
       {
         "id": "contact",
         "titre": "Contacter Magic bowling",
         "paragraphes": [
-          "Le contact se fait par téléphone au 03 23 79 84 37. C'est le seul moyen de communication déclaré sur la fiche Google de l'entreprise, avec la visite sur place.",
-          "Si vous dirigez cette entreprise, vous pouvez demander la correction ou le retrait de cette page à tout moment, sans justification."
+          "Le contact se fait par téléphone au 03 23 79 84 37, ou directement sur place aux horaires d'ouverture."
         ]
       },
       {
         "id": "avis",
         "titre": "La réputation de Magic bowling",
         "paragraphes": [
-          "Au relevé du 11 septembre 2026, l'établissement affichait une note de 3,9 sur 5 sur Google, calculée à partir de 715 avis. Cette note évolue en permanence : elle est indiquée ici à titre d'information et n'est pas retraitée.",
-          "Les avis appartiennent à Google et se consultent sur la fiche d'origine, dont le lien figure sur cette page."
+          "Note de 3,9 sur 5 pour 714 avis Google au relevé du 14 octobre 2026. Les avis se consultent sur la fiche Google, dont le lien figure sur cette page."
         ]
       }
     ],
     "faq": [
       {
         "q": "Quels sont les horaires de Magic bowling ?",
-        "r": "Au relevé du 11 septembre 2026, Magic bowling était ouvert tous les jours sauf le lundi. Dans le détail — lundi : fermé ; mardi : de 12 h à 0 h ; mercredi : de 12 h à 0 h ; jeudi : de 12 h à 0 h ; vendredi : de 14 h à 2 h ; samedi : de 14 h à 2 h ; dimanche : de 14 h à 20 h. Ces horaires peuvent changer : un appel préalable reste conseillé."
+        "r": "Au relevé du 14 octobre 2026, Magic bowling était ouvert tous les jours sauf le lundi. Dans le détail — lundi : fermé ; mardi : de 12 h à 0 h ; mercredi : de 12 h à 0 h ; jeudi : de 12 h à 0 h ; vendredi : de 14 h à 2 h ; samedi : de 14 h à 2 h ; dimanche : de 14 h à 20 h. Ces horaires peuvent changer : un appel préalable reste conseillé."
+      },
+      {
+        "q": "Magic bowling est-il ouvert le dimanche ?",
+        "r": "Oui : le dimanche, Magic bowling est ouvert de 14 h à 20 h (horaires relevés le 14 octobre 2026)."
       },
       {
         "q": "Où se trouve Magic bowling ?",
@@ -180,15 +182,11 @@
         "r": "Par téléphone au 03 23 79 84 37, ou directement sur place aux heures d'ouverture."
       },
       {
-        "q": "Magic bowling a-t-il un site internet ?",
-        "r": "Non : aucune adresse de site web n'est déclarée sur la fiche Google de Magic bowling au 11 septembre 2026. Cette page tient lieu de référence publique en attendant, le cas échéant, la création d'un site propre à l'entreprise."
-      },
-      {
         "q": "Magic bowling est-il accessible aux personnes à mobilité réduite ?",
         "r": "La fiche Google de l'établissement mentionne : « Entrée accessible en fauteuil roulant ». Cette information est déclarative ; en cas de doute, vérifiez par téléphone."
       }
     ],
-    "genere_le": "2026-09-11"
+    "genere_le": "2026-10-14"
   },
   "statut_google": "OPERATIONAL",
   "audience": {

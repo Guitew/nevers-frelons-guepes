@@ -119,18 +119,18 @@
   },
   "source": "google-places",
   "redaction": {
+    "version": 2,
     "titre": "ALGO — Transport et déménagement à Carcassonne",
-    "meta_titre": "ALGO, transport et déménagement à Carcassonne",
-    "meta_description": "ALGO, transport et déménagement à Carcassonne (2715 Boulevard François-Xavier Fafeur) : adresse, horaires et informations pratiques.",
-    "chapo": "Cette fiche présente ALGO, un transport et déménagement au 2715 Boulevard François-Xavier Fafeur, à Carcassonne. Son établissement ne déclare aucun site internet sur sa fiche Google : les informations ci-dessous en tiennent lieu de référence publique, vérifiable et accessible à tous.",
+    "meta_titre": "ALGO à Carcassonne : horaires, avis",
+    "meta_description": "ALGO, transport et déménagement à Carcassonne : horaires d'ouverture, note Google 4,6/5 (11 avis), adresse et itinéraire.",
+    "chapo": "Cette fiche présente ALGO, un transport et déménagement au 2715 Boulevard François-Xavier Fafeur, à Carcassonne. Fermé le samedi et le dimanche au relevé du 18 octobre 2026. Note Google : 4,6 sur 5 pour 11 avis.",
     "sections": [
       {
         "id": "presentation",
         "titre": "ALGO en quelques mots",
         "paragraphes": [
-          "Transport, déménagement et stockage font partie des activités les plus consultées localement sur mobile.",
-          "Déménagement, course urgente, transport de personnes : des services décidés rapidement et comparés sur la disponibilité. La fiche rassemble la zone couverte, les moyens et le contact direct, sans passer par une place de marché.",
-          "D'après le relevé du 2 octobre 2026, l'établissement est fermé le samedi et le dimanche. Le détail jour par jour figure plus bas."
+          "Sur Google, l'établissement est classé « Stockage », dans notre rubrique Transport et déménagement.",
+          "D'après le relevé du 18 octobre 2026, l'établissement est fermé le samedi et le dimanche. Le détail jour par jour figure plus bas."
         ]
       },
       {
@@ -138,45 +138,43 @@
         "titre": "Adresse et accès",
         "paragraphes": [
           "L'établissement est situé au 2715 Boulevard François-Xavier Fafeur, 11000 Carcassonne.",
-          "Coordonnées géographiques : 43.21138, 2.29997. Le lien d'itinéraire ci-dessous ouvre directement la navigation."
+          "Coordonnées GPS : 43.21138, 2.29997. Le bouton Itinéraire de cette page ouvre la navigation."
         ]
       },
       {
         "id": "contact",
         "titre": "Contacter ALGO",
         "paragraphes": [
-          "Aucun numéro de téléphone n'est déclaré sur la fiche Google de l'établissement : le contact se fait sur place, aux horaires indiqués.",
-          "Si vous dirigez cette entreprise, vous pouvez demander la correction ou le retrait de cette page à tout moment, sans justification."
+          "Aucun numéro de téléphone n'est déclaré sur la fiche Google de l'établissement : le contact se fait sur place, aux horaires indiqués."
         ]
       },
       {
         "id": "avis",
         "titre": "La réputation de ALGO",
         "paragraphes": [
-          "Au relevé du 2 octobre 2026, l'établissement affichait une note de 4,6 sur 5 sur Google, calculée à partir de 10 avis. Cette note évolue en permanence : elle est indiquée ici à titre d'information et n'est pas retraitée.",
-          "Les avis appartiennent à Google et se consultent sur la fiche d'origine, dont le lien figure sur cette page."
+          "Note de 4,6 sur 5 pour 11 avis Google au relevé du 18 octobre 2026. Les avis les plus parlants sont compilés ci-dessous, avec un lien vers la fiche d'origine."
         ]
       }
     ],
     "faq": [
       {
         "q": "Quels sont les horaires de ALGO ?",
-        "r": "Au relevé du 2 octobre 2026, ALGO était fermé le samedi et le dimanche. Dans le détail — lundi : de 8 h à 17 h ; mardi : de 8 h à 17 h ; mercredi : de 8 h à 17 h ; jeudi : de 8 h à 17 h ; vendredi : de 8 h à 15 h ; samedi : fermé ; dimanche : fermé. Ces horaires peuvent changer : un appel préalable reste conseillé."
+        "r": "Au relevé du 18 octobre 2026, ALGO était fermé le samedi et le dimanche. Dans le détail — lundi : de 8 h à 17 h ; mardi : de 8 h à 17 h ; mercredi : de 8 h à 17 h ; jeudi : de 8 h à 17 h ; vendredi : de 8 h à 15 h ; samedi : fermé ; dimanche : fermé. Ces horaires peuvent changer : un appel préalable reste conseillé."
+      },
+      {
+        "q": "ALGO est-il ouvert le dimanche ?",
+        "r": "Non : d'après les horaires relevés le 18 octobre 2026, ALGO est fermé le dimanche."
       },
       {
         "q": "Où se trouve ALGO ?",
         "r": "ALGO se trouve 2715 Bd François-Xavier Fafeur, 11000 Carcassonne. Un lien d'itinéraire est disponible sur cette page."
       },
       {
-        "q": "ALGO a-t-il un site internet ?",
-        "r": "Non : aucune adresse de site web n'est déclarée sur la fiche Google de ALGO au 2 octobre 2026. Cette page tient lieu de référence publique en attendant, le cas échéant, la création d'un site propre à l'entreprise."
-      },
-      {
         "q": "ALGO est-il accessible aux personnes à mobilité réduite ?",
         "r": "La fiche Google de l'établissement mentionne : « Entrée accessible en fauteuil roulant ». Cette information est déclarative ; en cas de doute, vérifiez par téléphone."
       }
     ],
-    "genere_le": "2026-10-02"
+    "genere_le": "2026-10-18"
   },
   "statut_google": "OPERATIONAL",
   "audience": {

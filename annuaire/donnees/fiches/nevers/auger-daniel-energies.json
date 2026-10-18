@@ -32,7 +32,7 @@
   "attributs": [],
   "lien_google": "https://maps.google.com/?cid=5225931606394335637&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
   "site_web_gmb": null,
-  "statut": "retiree",
+  "statut": "publiee",
   "backlink": {
     "etat": "absent",
     "premiere_detection": null,
@@ -41,13 +41,7 @@
     "echecs": 80,
     "url_detectee": null
   },
-  "retrait": {
-    "mode": "410",
-    "cible": null,
-    "date": "2026-10-14",
-    "motif": "page non indexée par Google 45 jours après sa mise en ligne (Détectée, actuellement non indexée)",
-    "cause": "non-indexee"
-  },
+  "retrait": null,
   "dates": {
     "collecte": "2026-08-30",
     "publication": "2026-08-30",
@@ -55,17 +49,17 @@
   },
   "source": "google-places",
   "redaction": {
+    "version": 2,
     "titre": "AUGER Daniel ENERGIES — Électricité à Nevers",
-    "meta_titre": "AUGER Daniel ENERGIES, électricité à Nevers",
-    "meta_description": "AUGER Daniel ENERGIES, électricité à Nevers (Rue Emile Martin) : adresse, horaires, téléphone et informations pratiques.",
-    "chapo": "Cette fiche présente AUGER Daniel ENERGIES, une électricité au Rue Emile Martin, à Nevers. Son établissement ne déclare aucun site internet sur sa fiche Google : les informations ci-dessous en tiennent lieu de référence publique, vérifiable et accessible à tous.",
+    "meta_titre": "AUGER Daniel ENERGIES à Nevers : téléphone",
+    "meta_description": "AUGER Daniel ENERGIES, électricité à Nevers : téléphone, adresse et itinéraire.",
+    "chapo": "Cette fiche présente AUGER Daniel ENERGIES, une électricité au Rue Emile Martin, à Nevers. Téléphone : 07 82 73 59 50.",
     "sections": [
       {
         "id": "presentation",
         "titre": "AUGER Daniel ENERGIES en quelques mots",
         "paragraphes": [
-          "À Nevers, les recherches du type « électricité près de chez moi » se concluent le plus souvent par un appel ou une visite directe.",
-          "L'installation électrique engage la sécurité du logement : le choix d'un artisan repose sur la proximité, les qualifications et la réputation. Ces trois éléments sont rassemblés ici pour des entreprises qui ne communiquent qu'à travers leur fiche Google."
+          "Sur Google, l'établissement est classé « Électricien », dans notre rubrique Électricité."
         ]
       },
       {
@@ -73,15 +67,14 @@
         "titre": "Adresse et accès",
         "paragraphes": [
           "L'établissement est situé au Rue Emile Martin, 58000 Nevers.",
-          "Coordonnées géographiques : 46.98499, 3.15108. Le lien d'itinéraire ci-dessous ouvre directement la navigation."
+          "Coordonnées GPS : 46.98499, 3.15108. Le bouton Itinéraire de cette page ouvre la navigation."
         ]
       },
       {
         "id": "contact",
         "titre": "Contacter AUGER Daniel ENERGIES",
         "paragraphes": [
-          "Le contact se fait par téléphone au 07 82 73 59 50. C'est le seul moyen de communication déclaré sur la fiche Google de l'entreprise, avec la visite sur place.",
-          "Si vous dirigez cette entreprise, vous pouvez demander la correction ou le retrait de cette page à tout moment, sans justification."
+          "Le contact se fait par téléphone au 07 82 73 59 50, ou directement sur place aux horaires d'ouverture."
         ]
       }
     ],
@@ -93,13 +86,9 @@
       {
         "q": "Comment contacter AUGER Daniel ENERGIES ?",
         "r": "Par téléphone au 07 82 73 59 50, ou directement sur place aux heures d'ouverture."
-      },
-      {
-        "q": "AUGER Daniel ENERGIES a-t-il un site internet ?",
-        "r": "Non : aucune adresse de site web n'est déclarée sur la fiche Google de AUGER Daniel ENERGIES au 30 août 2026. Cette page tient lieu de référence publique en attendant, le cas échéant, la création d'un site propre à l'entreprise."
       }
     ],
-    "genere_le": "2026-08-30"
+    "genere_le": "2026-10-18"
   },
   "suggestion": {
     "etat": "soumise",

@@ -135,18 +135,18 @@
   },
   "source": "google-places",
   "redaction": {
+    "version": 2,
     "titre": "U Express — Commerce d'alimentation à La Roche-sur-Yon",
-    "meta_titre": "U Express, commerce d'alimentation à La Roche-sur-Yon",
-    "meta_description": "U Express, commerce d'alimentation à La Roche-sur-Yon (18 PLACE DU PRÉSIDENT JACQUES CHIRAC) : adresse, horaires, téléphone et informations pratiques.",
-    "chapo": "U Express figure parmi les établissements de la catégorie « Commerce d'alimentation » recensés à La Roche-sur-Yon. L'entreprise n'a pas de site web référencé sur sa fiche Google. Les éléments présentés ici — adresse, horaires, contact — proviennent de cette fiche et sont datés de leur relevé.",
+    "meta_titre": "U Express à La Roche-sur-Yon : horaires, avis, téléphone",
+    "meta_description": "U Express, commerce d'alimentation à La Roche-sur-Yon : horaires d'ouverture, note Google 3,7/5 (481 avis), téléphone, adresse et itinéraire.",
+    "chapo": "U Express, commerce d'alimentation au 18 PLACE DU PRÉSIDENT JACQUES CHIRAC, à La Roche-sur-Yon. Ouvert sept jours sur sept au relevé du 18 octobre 2026. Téléphone : 02 51 37 27 39. Note Google : 3,7 sur 5 pour 481 avis.",
     "sections": [
       {
         "id": "presentation",
         "titre": "U Express en quelques mots",
         "paragraphes": [
-          "À La Roche-sur-Yon, les recherches du type « commerce d'alimentation près de chez moi » se concluent le plus souvent par un appel ou une visite directe.",
-          "Le commerce alimentaire de proximité redevient un réflexe, mais son information circule mal : jours de marché, produits de saison, vente directe. Cette fiche rassemble ce que le consommateur cherche avant de se déplacer.",
-          "D'après le relevé du 2 octobre 2026, l'établissement est ouvert sept jours sur sept. Le détail jour par jour figure plus bas."
+          "Sur Google, l'établissement est classé « Supermarché », dans notre rubrique Commerce d'alimentation.",
+          "D'après le relevé du 18 octobre 2026, l'établissement est ouvert sept jours sur sept. Le détail jour par jour figure plus bas."
         ]
       },
       {
@@ -154,30 +154,32 @@
         "titre": "Adresse et accès",
         "paragraphes": [
           "L'établissement est situé au 18 PLACE DU PRÉSIDENT JACQUES CHIRAC, 85000 La Roche-sur-Yon.",
-          "Coordonnées géographiques : 46.66959, -1.42370. Le lien d'itinéraire ci-dessous ouvre directement la navigation."
+          "Coordonnées GPS : 46.66959, -1.42370. Le bouton Itinéraire de cette page ouvre la navigation."
         ]
       },
       {
         "id": "contact",
         "titre": "Contacter U Express",
         "paragraphes": [
-          "Le contact se fait par téléphone au 02 51 37 27 39. C'est le seul moyen de communication déclaré sur la fiche Google de l'entreprise, avec la visite sur place.",
-          "Si vous dirigez cette entreprise, vous pouvez demander la correction ou le retrait de cette page à tout moment, sans justification."
+          "Le contact se fait par téléphone au 02 51 37 27 39, ou directement sur place aux horaires d'ouverture."
         ]
       },
       {
         "id": "avis",
         "titre": "La réputation de U Express",
         "paragraphes": [
-          "Au relevé du 2 octobre 2026, l'établissement affichait une note de 3,7 sur 5 sur Google, calculée à partir de 482 avis. Cette note évolue en permanence : elle est indiquée ici à titre d'information et n'est pas retraitée.",
-          "Les avis appartiennent à Google et se consultent sur la fiche d'origine, dont le lien figure sur cette page."
+          "Note de 3,7 sur 5 pour 481 avis Google au relevé du 18 octobre 2026. Les avis les plus parlants sont compilés ci-dessous, avec un lien vers la fiche d'origine."
         ]
       }
     ],
     "faq": [
       {
         "q": "Quels sont les horaires de U Express ?",
-        "r": "Au relevé du 2 octobre 2026, U Express était ouvert sept jours sur sept. Dans le détail — lundi : de 8 h à 20 h ; mardi : de 8 h à 20 h ; mercredi : de 8 h à 20 h ; jeudi : de 8 h à 20 h ; vendredi : de 8 h à 20 h ; samedi : de 8 h à 20 h ; dimanche : de 8 h à 13 h. Ces horaires peuvent changer : un appel préalable reste conseillé."
+        "r": "Au relevé du 18 octobre 2026, U Express était ouvert sept jours sur sept. Dans le détail — lundi : de 8 h à 20 h ; mardi : de 8 h à 20 h ; mercredi : de 8 h à 20 h ; jeudi : de 8 h à 20 h ; vendredi : de 8 h à 20 h ; samedi : de 8 h à 20 h ; dimanche : de 8 h à 13 h. Ces horaires peuvent changer : un appel préalable reste conseillé."
+      },
+      {
+        "q": "U Express est-il ouvert le dimanche ?",
+        "r": "Oui : le dimanche, U Express est ouvert de 8 h à 13 h (horaires relevés le 18 octobre 2026)."
       },
       {
         "q": "Où se trouve U Express ?",
@@ -188,15 +190,11 @@
         "r": "Par téléphone au 02 51 37 27 39, ou directement sur place aux heures d'ouverture."
       },
       {
-        "q": "U Express a-t-il un site internet ?",
-        "r": "Non : aucune adresse de site web n'est déclarée sur la fiche Google de U Express au 2 octobre 2026. Cette page tient lieu de référence publique en attendant, le cas échéant, la création d'un site propre à l'entreprise."
-      },
-      {
         "q": "U Express est-il accessible aux personnes à mobilité réduite ?",
         "r": "La fiche Google de l'établissement mentionne : « Entrée accessible en fauteuil roulant ». Cette information est déclarative ; en cas de doute, vérifiez par téléphone."
       }
     ],
-    "genere_le": "2026-10-02"
+    "genere_le": "2026-10-18"
   },
   "statut_google": "OPERATIONAL",
   "audience": {

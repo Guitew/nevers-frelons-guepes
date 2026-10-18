@@ -31,7 +31,7 @@
   "attributs": [],
   "lien_google": "https://maps.google.com/?cid=5059408238189942718&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
   "site_web_gmb": null,
-  "statut": "retiree",
+  "statut": "publiee",
   "backlink": {
     "etat": "absent",
     "premiere_detection": null,
@@ -40,31 +40,25 @@
     "echecs": 71,
     "url_detectee": null
   },
-  "retrait": {
-    "mode": "410",
-    "cible": null,
-    "date": "2026-10-14",
-    "motif": "page non indexée par Google 45 jours après sa mise en ligne (Google ne reconnaît pas cette URL)",
-    "cause": "non-indexee"
-  },
+  "retrait": null,
   "dates": {
     "collecte": "2026-08-30",
     "publication": "2026-08-30",
-    "maj": "2026-10-14"
+    "maj": "2026-10-18"
   },
   "source": "google-places",
   "redaction": {
+    "version": 2,
     "titre": "L'Epicurienne, idéale pour courts et longs séjours avec jardin arboré et piscine — Hébergement à Nevers",
     "meta_titre": "L'Epicurienne, idéale pour courts et longs séjours avec…",
-    "meta_description": "L'Epicurienne, idéale pour courts et longs séjours avec jardin arboré et piscine, hébergement à Nevers : adresse, horaires et informations pratiques.",
-    "chapo": "L'Epicurienne, idéale pour courts et longs séjours avec jardin arboré et piscine exerce l'activité de hébergement à Nevers. Faute de site internet déclaré sur sa fiche Google, l'entreprise reste difficile à trouver en dehors des cartes. Cette page comble ce manque avec des données factuelles et datées.",
+    "meta_description": "L'Epicurienne, idéale pour courts et longs séjours avec jardin arboré et piscine, hébergement à Nevers : adresse et itinéraire.",
+    "chapo": "L'Epicurienne, idéale pour courts et longs séjours avec jardin arboré et piscine exerce l'activité de hébergement à Nevers.",
     "sections": [
       {
         "id": "presentation",
         "titre": "L'Epicurienne, idéale pour courts et longs séjours avec jardin arboré et piscine en quelques mots",
         "paragraphes": [
-          "Hébergements font partie des activités les plus consultées localement sur mobile.",
-          "Un hébergement sans site web dépend entièrement des plateformes de réservation et de leurs commissions. Une page publique, stable et indexable rétablit un point de contact direct : téléphone, adresse exacte, capacité et conditions d'accueil."
+          "L'Epicurienne, idéale pour courts et longs séjours avec jardin arboré et piscine est référencé dans la rubrique Hébergement à Nevers. Les informations de cette page proviennent de sa fiche Google publique, relevée le 18 octobre 2026."
         ]
       },
       {
@@ -72,15 +66,14 @@
         "titre": "Adresse et accès",
         "paragraphes": [
           "L'établissement est situé, 58000 Nevers.",
-          "Coordonnées géographiques : 46.97824, 3.14357. Le lien d'itinéraire ci-dessous ouvre directement la navigation."
+          "Coordonnées GPS : 46.97824, 3.14357. Le bouton Itinéraire de cette page ouvre la navigation."
         ]
       },
       {
         "id": "contact",
         "titre": "Contacter L'Epicurienne, idéale pour courts et longs séjours avec jardin arboré et piscine",
         "paragraphes": [
-          "Aucun numéro de téléphone n'est déclaré sur la fiche Google de l'établissement : le contact se fait sur place, aux horaires indiqués.",
-          "Si vous dirigez cette entreprise, vous pouvez demander la correction ou le retrait de cette page à tout moment, sans justification."
+          "Aucun numéro de téléphone n'est déclaré sur la fiche Google de l'établissement : le contact se fait sur place, aux horaires indiqués."
         ]
       }
     ],
@@ -88,13 +81,9 @@
       {
         "q": "Où se trouve L'Epicurienne, idéale pour courts et longs séjours avec jardin arboré et piscine ?",
         "r": "L'Epicurienne, idéale pour courts et longs séjours avec jardin arboré et piscine se trouve 58000 Nevers, France. Un lien d'itinéraire est disponible sur cette page."
-      },
-      {
-        "q": "L'Epicurienne, idéale pour courts et longs séjours avec jardin arboré et piscine a-t-il un site internet ?",
-        "r": "Non : aucune adresse de site web n'est déclarée sur la fiche Google de L'Epicurienne, idéale pour courts et longs séjours avec jardin arboré et piscine au 30 août 2026. Cette page tient lieu de référence publique en attendant, le cas échéant, la création d'un site propre à l'entreprise."
       }
     ],
-    "genere_le": "2026-08-30"
+    "genere_le": "2026-10-18"
   },
   "suggestion": {
     "etat": "en-attente",

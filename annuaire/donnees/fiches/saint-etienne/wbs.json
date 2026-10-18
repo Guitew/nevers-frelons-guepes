@@ -121,18 +121,17 @@
   },
   "source": "google-places",
   "redaction": {
+    "version": 2,
     "titre": "WBS — Transport et déménagement à Saint-Étienne",
-    "meta_titre": "WBS, transport et déménagement à Saint-Étienne",
-    "meta_description": "WBS, transport et déménagement à Saint-Étienne (1 Rue Marengo) : adresse, horaires et informations pratiques.",
-    "chapo": "WBS exerce l'activité de transport et déménagement au 1 Rue Marengo, à Saint-Étienne. Faute de site internet déclaré sur sa fiche Google, l'entreprise reste difficile à trouver en dehors des cartes. Cette page comble ce manque avec des données factuelles et datées.",
+    "meta_titre": "WBS à Saint-Étienne : horaires, avis",
+    "meta_description": "WBS, transport et déménagement à Saint-Étienne : horaires d'ouverture, note Google 3,9/5 (121 avis), adresse et itinéraire.",
+    "chapo": "WBS exerce l'activité de transport et déménagement au 1 Rue Marengo, à Saint-Étienne. Fermé le lundi et le dimanche au relevé du 9 octobre 2026. Note Google : 3,9 sur 5 pour 121 avis.",
     "sections": [
       {
         "id": "presentation",
         "titre": "WBS en quelques mots",
         "paragraphes": [
-          "Transport, déménagement et stockage font partie des activités les plus consultées localement sur mobile.",
-          "Déménagement, course urgente, transport de personnes : des services décidés rapidement et comparés sur la disponibilité. La fiche rassemble la zone couverte, les moyens et le contact direct, sans passer par une place de marché.",
-          "D'après le relevé du 22 septembre 2026, l'établissement est fermé le lundi et le dimanche. Le détail jour par jour figure plus bas."
+          "D'après le relevé du 9 octobre 2026, l'établissement est fermé le lundi et le dimanche. Le détail jour par jour figure plus bas."
         ]
       },
       {
@@ -140,41 +139,39 @@
         "titre": "Adresse et accès",
         "paragraphes": [
           "L'établissement est situé au 1 Rue Marengo, 42000 Saint-Étienne.",
-          "Coordonnées géographiques : 45.44314, 4.38457. Le lien d'itinéraire ci-dessous ouvre directement la navigation."
+          "Coordonnées GPS : 45.44314, 4.38457. Le bouton Itinéraire de cette page ouvre la navigation."
         ]
       },
       {
         "id": "contact",
         "titre": "Contacter WBS",
         "paragraphes": [
-          "Aucun numéro de téléphone n'est déclaré sur la fiche Google de l'établissement : le contact se fait sur place, aux horaires indiqués.",
-          "Si vous dirigez cette entreprise, vous pouvez demander la correction ou le retrait de cette page à tout moment, sans justification."
+          "Aucun numéro de téléphone n'est déclaré sur la fiche Google de l'établissement : le contact se fait sur place, aux horaires indiqués."
         ]
       },
       {
         "id": "avis",
         "titre": "La réputation de WBS",
         "paragraphes": [
-          "Au relevé du 22 septembre 2026, l'établissement affichait une note de 3,9 sur 5 sur Google, calculée à partir de 120 avis. Cette note évolue en permanence : elle est indiquée ici à titre d'information et n'est pas retraitée.",
-          "Les avis appartiennent à Google et se consultent sur la fiche d'origine, dont le lien figure sur cette page."
+          "Note de 3,9 sur 5 pour 121 avis Google au relevé du 9 octobre 2026. Les avis se consultent sur la fiche Google, dont le lien figure sur cette page."
         ]
       }
     ],
     "faq": [
       {
         "q": "Quels sont les horaires de WBS ?",
-        "r": "Au relevé du 22 septembre 2026, WBS était fermé le lundi et le dimanche. Dans le détail — lundi : fermé ; mardi : de 9 h 15 à 19 h ; mercredi : de 9 h 15 à 19 h ; jeudi : de 9 h 15 à 19 h ; vendredi : de 9 h 15 à 19 h ; samedi : de 9 h 15 à 18 h ; dimanche : fermé. Ces horaires peuvent changer : un appel préalable reste conseillé."
+        "r": "Au relevé du 9 octobre 2026, WBS était fermé le lundi et le dimanche. Dans le détail — lundi : fermé ; mardi : de 9 h 15 à 19 h ; mercredi : de 9 h 15 à 19 h ; jeudi : de 9 h 15 à 19 h ; vendredi : de 9 h 15 à 19 h ; samedi : de 9 h 15 à 18 h ; dimanche : fermé. Ces horaires peuvent changer : un appel préalable reste conseillé."
+      },
+      {
+        "q": "WBS est-il ouvert le dimanche ?",
+        "r": "Non : d'après les horaires relevés le 9 octobre 2026, WBS est fermé le dimanche."
       },
       {
         "q": "Où se trouve WBS ?",
         "r": "WBS se trouve 1 Rue Marengo, 42000 Saint-Étienne. Un lien d'itinéraire est disponible sur cette page."
-      },
-      {
-        "q": "WBS a-t-il un site internet ?",
-        "r": "Non : aucune adresse de site web n'est déclarée sur la fiche Google de WBS au 22 septembre 2026. Cette page tient lieu de référence publique en attendant, le cas échéant, la création d'un site propre à l'entreprise."
       }
     ],
-    "genere_le": "2026-09-22"
+    "genere_le": "2026-10-09"
   },
   "statut_google": "OPERATIONAL",
   "audience": {

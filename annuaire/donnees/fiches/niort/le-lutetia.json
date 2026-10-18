@@ -130,18 +130,18 @@
   },
   "source": "google-places",
   "redaction": {
+    "version": 2,
     "titre": "Le Lutétia — Café ou bar à Niort",
-    "meta_titre": "Le Lutétia, café ou bar à Niort",
-    "meta_description": "Le Lutétia, café ou bar à Niort (11 Avenue de Paris) : adresse, horaires et informations pratiques.",
-    "chapo": "Cette fiche présente Le Lutétia, un café ou bar au 11 Avenue de Paris, à Niort. Son établissement ne déclare aucun site internet sur sa fiche Google : les informations ci-dessous en tiennent lieu de référence publique, vérifiable et accessible à tous.",
+    "meta_titre": "Le Lutétia à Niort : horaires, avis",
+    "meta_description": "Le Lutétia, café ou bar à Niort : horaires d'ouverture, note Google 4,4/5 (185 avis), adresse et itinéraire.",
+    "chapo": "Cette fiche présente Le Lutétia, un café ou bar au 11 Avenue de Paris, à Niort. Ouvert sept jours sur sept au relevé du 13 octobre 2026. Note Google : 4,4 sur 5 pour 185 avis.",
     "sections": [
       {
         "id": "presentation",
         "titre": "Le Lutétia en quelques mots",
         "paragraphes": [
-          "À Niort, les recherches du type « café ou bar près de chez moi » se concluent le plus souvent par un appel ou une visite directe.",
-          "Les cafés et bars sont des repères de vie locale rarement dotés d'un site. Horaires réels, terrasse, retransmissions sportives, concerts : autant de détails qui décident d'une sortie et qui n'apparaissent nulle part ailleurs de façon lisible.",
-          "D'après le relevé du 26 septembre 2026, l'établissement est ouvert sept jours sur sept. Le détail jour par jour figure plus bas."
+          "Sur Google, l'établissement est classé « Bar », dans notre rubrique Café ou bar.",
+          "D'après le relevé du 13 octobre 2026, l'établissement est ouvert sept jours sur sept. Le détail jour par jour figure plus bas."
         ]
       },
       {
@@ -149,45 +149,43 @@
         "titre": "Adresse et accès",
         "paragraphes": [
           "L'établissement est situé au 11 Avenue de Paris, 79000 Niort.",
-          "Coordonnées géographiques : 46.32428, -0.45700. Le lien d'itinéraire ci-dessous ouvre directement la navigation."
+          "Coordonnées GPS : 46.32428, -0.45700. Le bouton Itinéraire de cette page ouvre la navigation."
         ]
       },
       {
         "id": "contact",
         "titre": "Contacter Le Lutétia",
         "paragraphes": [
-          "Aucun numéro de téléphone n'est déclaré sur la fiche Google de l'établissement : le contact se fait sur place, aux horaires indiqués.",
-          "Si vous dirigez cette entreprise, vous pouvez demander la correction ou le retrait de cette page à tout moment, sans justification."
+          "Aucun numéro de téléphone n'est déclaré sur la fiche Google de l'établissement : le contact se fait sur place, aux horaires indiqués."
         ]
       },
       {
         "id": "avis",
         "titre": "La réputation de Le Lutétia",
         "paragraphes": [
-          "Au relevé du 26 septembre 2026, l'établissement affichait une note de 4,4 sur 5 sur Google, calculée à partir de 184 avis. Cette note évolue en permanence : elle est indiquée ici à titre d'information et n'est pas retraitée.",
-          "Les avis appartiennent à Google et se consultent sur la fiche d'origine, dont le lien figure sur cette page."
+          "Note de 4,4 sur 5 pour 185 avis Google au relevé du 13 octobre 2026. Les avis se consultent sur la fiche Google, dont le lien figure sur cette page."
         ]
       }
     ],
     "faq": [
       {
         "q": "Quels sont les horaires de Le Lutétia ?",
-        "r": "Au relevé du 26 septembre 2026, Le Lutétia était ouvert sept jours sur sept. Dans le détail — lundi : de 7 h à 22 h ; mardi : de 7 h à 22 h ; mercredi : de 7 h à 22 h ; jeudi : de 7 h à 22 h ; vendredi : de 7 h à 22 h ; samedi : de 7 h à 20 h 30 ; dimanche : de 8 h à 22 h. Ces horaires peuvent changer : un appel préalable reste conseillé."
+        "r": "Au relevé du 13 octobre 2026, Le Lutétia était ouvert sept jours sur sept. Dans le détail — lundi : de 7 h à 22 h ; mardi : de 7 h à 22 h ; mercredi : de 7 h à 22 h ; jeudi : de 7 h à 22 h ; vendredi : de 7 h à 22 h ; samedi : de 7 h à 20 h 30 ; dimanche : de 8 h à 22 h. Ces horaires peuvent changer : un appel préalable reste conseillé."
+      },
+      {
+        "q": "Le Lutétia est-il ouvert le dimanche ?",
+        "r": "Oui : le dimanche, Le Lutétia est ouvert de 8 h à 22 h (horaires relevés le 13 octobre 2026)."
       },
       {
         "q": "Où se trouve Le Lutétia ?",
         "r": "Le Lutétia se trouve 11 Av. de Paris, 79000 Niort. Un lien d'itinéraire est disponible sur cette page."
       },
       {
-        "q": "Le Lutétia a-t-il un site internet ?",
-        "r": "Non : aucune adresse de site web n'est déclarée sur la fiche Google de Le Lutétia au 26 septembre 2026. Cette page tient lieu de référence publique en attendant, le cas échéant, la création d'un site propre à l'entreprise."
-      },
-      {
         "q": "Le Lutétia est-il accessible aux personnes à mobilité réduite ?",
         "r": "La fiche Google de l'établissement mentionne : « Entrée accessible en fauteuil roulant ». Cette information est déclarative ; en cas de doute, vérifiez par téléphone."
       }
     ],
-    "genere_le": "2026-09-26"
+    "genere_le": "2026-10-13"
   },
   "statut_google": "OPERATIONAL",
   "audience": {

@@ -95,7 +95,7 @@
   ],
   "lien_google": "https://maps.google.com/?cid=12522960743049913576&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
   "site_web_gmb": null,
-  "statut": "retiree",
+  "statut": "publiee",
   "backlink": {
     "etat": "absent",
     "premiere_detection": null,
@@ -104,32 +104,26 @@
     "echecs": 71,
     "url_detectee": null
   },
-  "retrait": {
-    "mode": "410",
-    "cible": null,
-    "date": "2026-10-14",
-    "motif": "page non indexée par Google 45 jours après sa mise en ligne (Détectée, actuellement non indexée)",
-    "cause": "non-indexee"
-  },
+  "retrait": null,
   "dates": {
     "collecte": "2026-08-30",
     "publication": "2026-08-30",
-    "maj": "2026-10-14"
+    "maj": "2026-10-18"
   },
   "source": "google-places",
   "redaction": {
+    "version": 2,
     "titre": "Joubert Dominique — Médecin ou dentiste à Challuy",
-    "meta_titre": "Joubert Dominique, médecin ou dentiste à Challuy",
-    "meta_description": "Joubert Dominique, médecin ou dentiste à Challuy (149 Avenue du Stand) : adresse, horaires, téléphone et informations pratiques.",
-    "chapo": "Joubert Dominique figure parmi les établissements de la catégorie « Médecin ou dentiste » recensés à Challuy. L'entreprise n'a pas de site web référencé sur sa fiche Google. Les éléments présentés ici — adresse, horaires, contact — proviennent de cette fiche et sont datés de leur relevé.",
+    "meta_titre": "Joubert Dominique à Challuy : horaires, téléphone",
+    "meta_description": "Joubert Dominique, médecin ou dentiste à Challuy : horaires d'ouverture, téléphone, adresse et itinéraire.",
+    "chapo": "Joubert Dominique, médecin ou dentiste au 149 Avenue du Stand, à Challuy. Fermé le mercredi et le dimanche au relevé du 18 octobre 2026. Téléphone : 03 86 90 34 37.",
     "sections": [
       {
         "id": "presentation",
         "titre": "Joubert Dominique en quelques mots",
         "paragraphes": [
-          "Le choix d'un médecin ou dentiste se joue sur trois critères : la proximité, les horaires et la facilité de contact.",
-          "Les cabinets de santé publient rarement autre chose qu'une fiche Google. Les informations réellement utiles — secteur de conventionnement, accès aux personnes à mobilité réduite, mode de prise de rendez-vous — méritent une page stable et lisible, sans publicité ni intermédiaire.",
-          "D'après le relevé du 30 août 2026, l'établissement est fermé le mercredi et le dimanche. Le détail jour par jour figure plus bas."
+          "Sur Google, l'établissement est classé « Médecin », dans notre rubrique Médecin ou dentiste.",
+          "D'après le relevé du 18 octobre 2026, l'établissement est fermé le mercredi et le dimanche. Le détail jour par jour figure plus bas."
         ]
       },
       {
@@ -137,22 +131,25 @@
         "titre": "Adresse et accès",
         "paragraphes": [
           "L'établissement est situé au 149 Avenue du Stand, 58000 Challuy.",
-          "Coordonnées géographiques : 46.97394, 3.14928. Le lien d'itinéraire ci-dessous ouvre directement la navigation."
+          "Coordonnées GPS : 46.97394, 3.14928. Le bouton Itinéraire de cette page ouvre la navigation."
         ]
       },
       {
         "id": "contact",
         "titre": "Contacter Joubert Dominique",
         "paragraphes": [
-          "Le contact se fait par téléphone au 03 86 90 34 37. C'est le seul moyen de communication déclaré sur la fiche Google de l'entreprise, avec la visite sur place.",
-          "Si vous dirigez cette entreprise, vous pouvez demander la correction ou le retrait de cette page à tout moment, sans justification."
+          "Le contact se fait par téléphone au 03 86 90 34 37, ou directement sur place aux horaires d'ouverture."
         ]
       }
     ],
     "faq": [
       {
         "q": "Quels sont les horaires de Joubert Dominique ?",
-        "r": "Au relevé du 30 août 2026, Joubert Dominique était fermé le mercredi et le dimanche. Dans le détail — lundi : de 9 h à 17 h ; mardi : de 9 h à 18 h ; mercredi : fermé ; jeudi : de 9 h à 18 h ; vendredi : de 9 h à 18 h ; samedi : de 9 h à 12 h ; dimanche : fermé. Ces horaires peuvent changer : un appel préalable reste conseillé."
+        "r": "Au relevé du 18 octobre 2026, Joubert Dominique était fermé le mercredi et le dimanche. Dans le détail — lundi : de 9 h à 17 h ; mardi : de 9 h à 18 h ; mercredi : fermé ; jeudi : de 9 h à 18 h ; vendredi : de 9 h à 18 h ; samedi : de 9 h à 12 h ; dimanche : fermé. Ces horaires peuvent changer : un appel préalable reste conseillé."
+      },
+      {
+        "q": "Joubert Dominique est-il ouvert le dimanche ?",
+        "r": "Non : d'après les horaires relevés le 18 octobre 2026, Joubert Dominique est fermé le dimanche."
       },
       {
         "q": "Où se trouve Joubert Dominique ?",
@@ -163,15 +160,11 @@
         "r": "Par téléphone au 03 86 90 34 37, ou directement sur place aux heures d'ouverture."
       },
       {
-        "q": "Joubert Dominique a-t-il un site internet ?",
-        "r": "Non : aucune adresse de site web n'est déclarée sur la fiche Google de Joubert Dominique au 30 août 2026. Cette page tient lieu de référence publique en attendant, le cas échéant, la création d'un site propre à l'entreprise."
-      },
-      {
         "q": "Joubert Dominique est-il accessible aux personnes à mobilité réduite ?",
         "r": "La fiche Google de l'établissement mentionne : « Parking accessible en fauteuil roulant ». Cette information est déclarative ; en cas de doute, vérifiez par téléphone."
       }
     ],
-    "genere_le": "2026-08-30"
+    "genere_le": "2026-10-18"
   },
   "suggestion": {
     "etat": "soumise",

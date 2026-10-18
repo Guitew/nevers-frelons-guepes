@@ -43,6 +43,7 @@ import { slugifier, aujourdhui } from "./lib/texte.mjs";
 import { consigner, evenement } from "./lib/journal.mjs";
 import { DEPARTEMENTS_JSON } from "./lib/chemins.mjs";
 import { depuisApiGoogle, blocAvis } from "./lib/avis.mjs";
+import { extraireServices } from "./lib/services.mjs";
 
 const args = new Map(
   process.argv.slice(2).map((a) => {
@@ -238,7 +239,12 @@ async function releverAvis(fiche, lieu, source, date) {
   if (typeof source.detailler !== "function") return;
   try {
     const detail = await source.detailler(fiche.id, { avecAvis: true });
-    if (detail) fiche.avis_detail = blocAvis(depuisApiGoogle(detail.reviews), date);
+    if (detail) {
+      fiche.avis_detail = blocAvis(depuisApiGoogle(detail.reviews), date);
+      const services = extraireServices(detail, date);
+      if (services) fiche.services = services;
+      if (detail.primaryTypeDisplayName?.text) fiche.categorie_gmb = detail.primaryTypeDisplayName.text;
+    }
   } catch (erreur) {
     console.warn(`  ⚠︎ avis non relevés pour ${fiche.nom} : ${erreur.message}`);
   }
@@ -331,8 +337,9 @@ async function principal() {
       dates: { collecte: date, publication: date, maj: date },
       source: nomFournisseur,
     };
-    fiche.redaction = rediger(fiche, date);
+    // Avis et prestations d'abord : la rédaction s'appuie dessus.
     if (!essai) await releverAvis(fiche, lieu, source, date);
+    fiche.redaction = rediger(fiche, date);
 
     if (essai) {
       console.log(`  · ${urlFiche(fiche)} — ${fiche.nom}`);

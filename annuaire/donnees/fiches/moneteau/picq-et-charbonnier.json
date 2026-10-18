@@ -109,7 +109,7 @@
   ],
   "lien_google": "https://maps.google.com/?cid=2039516188696388466&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
   "site_web_gmb": null,
-  "statut": "retiree",
+  "statut": "publiee",
   "backlink": {
     "etat": "absent",
     "premiere_detection": null,
@@ -124,13 +124,7 @@
     "tentatives": 1,
     "date_email": "2026-09-01"
   },
-  "retrait": {
-    "mode": "410",
-    "cible": null,
-    "date": "2026-10-18",
-    "motif": "page non indexée par Google 47 jours après sa mise en ligne (Détectée, actuellement non indexée)",
-    "cause": "non-indexee"
-  },
+  "retrait": null,
   "dates": {
     "collecte": "2026-09-01",
     "publication": "2026-09-01",
@@ -138,18 +132,18 @@
   },
   "source": "google-places",
   "redaction": {
+    "version": 2,
     "titre": "Picq et Charbonnier — Transport et déménagement à Monéteau",
-    "meta_titre": "Picq et Charbonnier, transport et déménagement à Monéteau",
-    "meta_description": "Picq et Charbonnier, transport et déménagement à Monéteau (25 Rue des Isles) : adresse, horaires, téléphone et informations pratiques.",
-    "chapo": "Cette fiche présente Picq et Charbonnier, un transport et déménagement au 25 Rue des Isles, à Monéteau. Son établissement ne déclare aucun site internet sur sa fiche Google : les informations ci-dessous en tiennent lieu de référence publique, vérifiable et accessible à tous.",
+    "meta_titre": "Picq et Charbonnier à Monéteau : horaires, avis, téléphone",
+    "meta_description": "Picq et Charbonnier, transport et déménagement à Monéteau : horaires d'ouverture, note Google 4/5 (145 avis), téléphone, adresse et itinéraire.",
+    "chapo": "Cette fiche présente Picq et Charbonnier, un transport et déménagement au 25 Rue des Isles, à Monéteau. Ouvert sept jours sur sept au relevé du 18 octobre 2026. Téléphone : 03 86 42 10 84. Note Google : 4 sur 5 pour 145 avis.",
     "sections": [
       {
         "id": "presentation",
         "titre": "Picq et Charbonnier en quelques mots",
         "paragraphes": [
-          "Le choix d'un transport et déménagement se joue sur trois critères : la proximité, les horaires et la facilité de contact.",
-          "Déménagement, course urgente, transport de personnes : des services décidés rapidement et comparés sur la disponibilité. La fiche rassemble la zone couverte, les moyens et le contact direct, sans passer par une place de marché.",
-          "D'après le relevé du 1 septembre 2026, l'établissement est ouvert sept jours sur sept. Le détail jour par jour figure plus bas."
+          "Sur Google, l'établissement est classé « Entreprise de déménagement », dans notre rubrique Transport et déménagement.",
+          "D'après le relevé du 18 octobre 2026, l'établissement est ouvert sept jours sur sept. Le détail jour par jour figure plus bas."
         ]
       },
       {
@@ -157,30 +151,32 @@
         "titre": "Adresse et accès",
         "paragraphes": [
           "L'établissement est situé au 25 Rue des Isles, 89470 Monéteau.",
-          "Coordonnées géographiques : 47.83087, 3.57585. Le lien d'itinéraire ci-dessous ouvre directement la navigation."
+          "Coordonnées GPS : 47.83087, 3.57585. Le bouton Itinéraire de cette page ouvre la navigation."
         ]
       },
       {
         "id": "contact",
         "titre": "Contacter Picq et Charbonnier",
         "paragraphes": [
-          "Le contact se fait par téléphone au 03 86 42 10 84. C'est le seul moyen de communication déclaré sur la fiche Google de l'entreprise, avec la visite sur place.",
-          "Si vous dirigez cette entreprise, vous pouvez demander la correction ou le retrait de cette page à tout moment, sans justification."
+          "Le contact se fait par téléphone au 03 86 42 10 84, ou directement sur place aux horaires d'ouverture."
         ]
       },
       {
         "id": "avis",
         "titre": "La réputation de Picq et Charbonnier",
         "paragraphes": [
-          "Au relevé du 1 septembre 2026, l'établissement affichait une note de 4 sur 5 sur Google, calculée à partir de 143 avis. Cette note évolue en permanence : elle est indiquée ici à titre d'information et n'est pas retraitée.",
-          "Les avis appartiennent à Google et se consultent sur la fiche d'origine, dont le lien figure sur cette page."
+          "Note de 4 sur 5 pour 145 avis Google au relevé du 18 octobre 2026. Les avis se consultent sur la fiche Google, dont le lien figure sur cette page."
         ]
       }
     ],
     "faq": [
       {
         "q": "Quels sont les horaires de Picq et Charbonnier ?",
-        "r": "Au relevé du 1 septembre 2026, Picq et Charbonnier était ouvert sept jours sur sept. Dans le détail — lundi : de 8 h à 17 h 30 ; mardi : de 8 h à 17 h 30 ; mercredi : de 8 h à 17 h 30 ; jeudi : de 8 h à 17 h 30 ; vendredi : de 8 h à 17 h 30 ; samedi : de 8 h à 17 h 30 ; dimanche : de 8 h à 17 h 30. Ces horaires peuvent changer : un appel préalable reste conseillé."
+        "r": "Au relevé du 18 octobre 2026, Picq et Charbonnier était ouvert sept jours sur sept. Dans le détail — lundi : de 8 h à 17 h 30 ; mardi : de 8 h à 17 h 30 ; mercredi : de 8 h à 17 h 30 ; jeudi : de 8 h à 17 h 30 ; vendredi : de 8 h à 17 h 30 ; samedi : de 8 h à 17 h 30 ; dimanche : de 8 h à 17 h 30. Ces horaires peuvent changer : un appel préalable reste conseillé."
+      },
+      {
+        "q": "Picq et Charbonnier est-il ouvert le dimanche ?",
+        "r": "Oui : le dimanche, Picq et Charbonnier est ouvert de 8 h à 17 h 30 (horaires relevés le 18 octobre 2026)."
       },
       {
         "q": "Où se trouve Picq et Charbonnier ?",
@@ -191,15 +187,11 @@
         "r": "Par téléphone au 03 86 42 10 84, ou directement sur place aux heures d'ouverture."
       },
       {
-        "q": "Picq et Charbonnier a-t-il un site internet ?",
-        "r": "Non : aucune adresse de site web n'est déclarée sur la fiche Google de Picq et Charbonnier au 1 septembre 2026. Cette page tient lieu de référence publique en attendant, le cas échéant, la création d'un site propre à l'entreprise."
-      },
-      {
         "q": "Picq et Charbonnier est-il accessible aux personnes à mobilité réduite ?",
         "r": "La fiche Google de l'établissement mentionne : « Entrée accessible en fauteuil roulant ». Cette information est déclarative ; en cas de doute, vérifiez par téléphone."
       }
     ],
-    "genere_le": "2026-09-01"
+    "genere_le": "2026-10-18"
   },
   "statut_google": "OPERATIONAL",
   "audience": {

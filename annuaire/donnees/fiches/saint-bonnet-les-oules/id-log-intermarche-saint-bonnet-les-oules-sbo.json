@@ -35,7 +35,7 @@
   ],
   "lien_google": "https://maps.google.com/?cid=3307085081129628679&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
   "site_web_gmb": null,
-  "statut": "retiree",
+  "statut": "publiee",
   "backlink": {
     "etat": "absent",
     "premiere_detection": null,
@@ -49,13 +49,7 @@
     "date_soumission": "2026-09-01",
     "tentatives": 1
   },
-  "retrait": {
-    "mode": "410",
-    "cible": null,
-    "date": "2026-10-18",
-    "motif": "page non indexée par Google 47 jours après sa mise en ligne (Google ne reconnaît pas cette URL)",
-    "cause": "non-indexee"
-  },
+  "retrait": null,
   "dates": {
     "collecte": "2026-09-01",
     "publication": "2026-09-01",
@@ -63,17 +57,17 @@
   },
   "source": "google-places",
   "redaction": {
+    "version": 2,
     "titre": "Id log intermarché Saint-Bonnet-les-Oules (SBO) — Transport et déménagement à Saint-Bonnet-les-Oules",
-    "meta_titre": "Id log intermarché Saint-Bonnet-les-Oules (SBO), transport…",
-    "meta_description": "Id log intermarché Saint-Bonnet-les-Oules (SBO), transport et déménagement à Saint-Bonnet-les-Oules (327 Zone Artisanale de Lapra) : adresse, horaires et…",
-    "chapo": "Id log intermarché Saint-Bonnet-les-Oules (SBO) figure parmi les établissements de la catégorie « Transport et déménagement » recensés à Saint-Bonnet-les-Oules. L'entreprise n'a pas de site web référencé sur sa fiche Google. Les éléments présentés ici — adresse, horaires, contact — proviennent de cette fiche et sont datés de leur relevé.",
+    "meta_titre": "Id log intermarché Saint-Bonnet-les-Oules (SBO) : avis",
+    "meta_description": "Id log intermarché Saint-Bonnet-les-Oules (SBO), transport et déménagement à Saint-Bonnet-les-Oules : note Google 3,8/5 (77 avis), adresse et itinéraire.",
+    "chapo": "Id log intermarché Saint-Bonnet-les-Oules (SBO), transport et déménagement au 327 Zone Artisanale de Lapra, à Saint-Bonnet-les-Oules. Note Google : 3,8 sur 5 pour 77 avis.",
     "sections": [
       {
         "id": "presentation",
         "titre": "Id log intermarché Saint-Bonnet-les-Oules (SBO) en quelques mots",
         "paragraphes": [
-          "À Saint-Bonnet-les-Oules, les recherches du type « transport et déménagement près de chez moi » se concluent le plus souvent par un appel ou une visite directe.",
-          "Déménagement, course urgente, transport de personnes : des services décidés rapidement et comparés sur la disponibilité. La fiche rassemble la zone couverte, les moyens et le contact direct, sans passer par une place de marché."
+          "Sur Google, l'établissement est classé « Stockage », dans notre rubrique Transport et déménagement."
         ]
       },
       {
@@ -81,23 +75,21 @@
         "titre": "Adresse et accès",
         "paragraphes": [
           "L'établissement est situé au 327 Zone Artisanale de Lapra, 42330 Saint-Bonnet-les-Oules.",
-          "Coordonnées géographiques : 45.54106, 4.31463. Le lien d'itinéraire ci-dessous ouvre directement la navigation."
+          "Coordonnées GPS : 45.54106, 4.31463. Le bouton Itinéraire de cette page ouvre la navigation."
         ]
       },
       {
         "id": "contact",
         "titre": "Contacter Id log intermarché Saint-Bonnet-les-Oules (SBO)",
         "paragraphes": [
-          "Aucun numéro de téléphone n'est déclaré sur la fiche Google de l'établissement : le contact se fait sur place, aux horaires indiqués.",
-          "Si vous dirigez cette entreprise, vous pouvez demander la correction ou le retrait de cette page à tout moment, sans justification."
+          "Aucun numéro de téléphone n'est déclaré sur la fiche Google de l'établissement : le contact se fait sur place, aux horaires indiqués."
         ]
       },
       {
         "id": "avis",
         "titre": "La réputation de Id log intermarché Saint-Bonnet-les-Oules (SBO)",
         "paragraphes": [
-          "Au relevé du 1 septembre 2026, l'établissement affichait une note de 3,8 sur 5 sur Google, calculée à partir de 72 avis. Cette note évolue en permanence : elle est indiquée ici à titre d'information et n'est pas retraitée.",
-          "Les avis appartiennent à Google et se consultent sur la fiche d'origine, dont le lien figure sur cette page."
+          "Note de 3,8 sur 5 pour 77 avis Google au relevé du 18 octobre 2026. Les avis se consultent sur la fiche Google, dont le lien figure sur cette page."
         ]
       }
     ],
@@ -107,15 +99,11 @@
         "r": "Id log intermarché Saint-Bonnet-les-Oules (SBO) se trouve 327 ZA de Lapra, 42330 Saint-Bonnet-les-Oules. Un lien d'itinéraire est disponible sur cette page."
       },
       {
-        "q": "Id log intermarché Saint-Bonnet-les-Oules (SBO) a-t-il un site internet ?",
-        "r": "Non : aucune adresse de site web n'est déclarée sur la fiche Google de Id log intermarché Saint-Bonnet-les-Oules (SBO) au 1 septembre 2026. Cette page tient lieu de référence publique en attendant, le cas échéant, la création d'un site propre à l'entreprise."
-      },
-      {
         "q": "Id log intermarché Saint-Bonnet-les-Oules (SBO) est-il accessible aux personnes à mobilité réduite ?",
         "r": "La fiche Google de l'établissement mentionne : « Entrée accessible en fauteuil roulant ». Cette information est déclarative ; en cas de doute, vérifiez par téléphone."
       }
     ],
-    "genere_le": "2026-09-01"
+    "genere_le": "2026-10-18"
   },
   "statut_google": "OPERATIONAL",
   "audience": {

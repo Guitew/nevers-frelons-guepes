@@ -32,7 +32,7 @@
   "attributs": [],
   "lien_google": "https://maps.google.com/?cid=9009297569570724317&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
   "site_web_gmb": null,
-  "statut": "retiree",
+  "statut": "publiee",
   "backlink": {
     "etat": "absent",
     "premiere_detection": null,
@@ -41,31 +41,25 @@
     "echecs": 74,
     "url_detectee": null
   },
-  "retrait": {
-    "mode": "410",
-    "cible": null,
-    "date": "2026-10-14",
-    "motif": "page non indexée par Google 45 jours après sa mise en ligne (Détectée, actuellement non indexée)",
-    "cause": "non-indexee"
-  },
+  "retrait": null,
   "dates": {
     "collecte": "2026-08-30",
     "publication": "2026-08-30",
-    "maj": "2026-10-14"
+    "maj": "2026-10-18"
   },
   "source": "google-places",
   "redaction": {
+    "version": 2,
     "titre": "Domicile — Médecin ou dentiste à Nevers",
     "meta_titre": "Domicile, médecin ou dentiste à Nevers",
-    "meta_description": "Domicile, médecin ou dentiste à Nevers (4 Rue du Plateau de la Bonne Dame) : adresse, horaires et informations pratiques.",
-    "chapo": "Domicile exerce l'activité de médecin ou dentiste au 4 Rue du Plateau de la Bonne Dame, à Nevers. Faute de site internet déclaré sur sa fiche Google, l'entreprise reste difficile à trouver en dehors des cartes. Cette page comble ce manque avec des données factuelles et datées.",
+    "meta_description": "Domicile, médecin ou dentiste à Nevers : adresse et itinéraire.",
+    "chapo": "Domicile exerce l'activité de médecin ou dentiste au 4 Rue du Plateau de la Bonne Dame, à Nevers.",
     "sections": [
       {
         "id": "presentation",
         "titre": "Domicile en quelques mots",
         "paragraphes": [
-          "À Nevers, les recherches du type « médecin ou dentiste près de chez moi » se concluent le plus souvent par un appel ou une visite directe.",
-          "Les cabinets de santé publient rarement autre chose qu'une fiche Google. Les informations réellement utiles — secteur de conventionnement, accès aux personnes à mobilité réduite, mode de prise de rendez-vous — méritent une page stable et lisible, sans publicité ni intermédiaire."
+          "Sur Google, l'établissement est classé « Clinique », dans notre rubrique Médecin ou dentiste."
         ]
       },
       {
@@ -73,15 +67,14 @@
         "titre": "Adresse et accès",
         "paragraphes": [
           "L'établissement est situé au 4 Rue du Plateau de la Bonne Dame, 58000 Nevers.",
-          "Coordonnées géographiques : 46.98055, 3.15613. Le lien d'itinéraire ci-dessous ouvre directement la navigation."
+          "Coordonnées GPS : 46.98055, 3.15613. Le bouton Itinéraire de cette page ouvre la navigation."
         ]
       },
       {
         "id": "contact",
         "titre": "Contacter Domicile",
         "paragraphes": [
-          "Aucun numéro de téléphone n'est déclaré sur la fiche Google de l'établissement : le contact se fait sur place, aux horaires indiqués.",
-          "Si vous dirigez cette entreprise, vous pouvez demander la correction ou le retrait de cette page à tout moment, sans justification."
+          "Aucun numéro de téléphone n'est déclaré sur la fiche Google de l'établissement : le contact se fait sur place, aux horaires indiqués."
         ]
       }
     ],
@@ -89,13 +82,9 @@
       {
         "q": "Où se trouve Domicile ?",
         "r": "Domicile se trouve 4 Rue du Plt de la Bonne Dame, 58000 Nevers. Un lien d'itinéraire est disponible sur cette page."
-      },
-      {
-        "q": "Domicile a-t-il un site internet ?",
-        "r": "Non : aucune adresse de site web n'est déclarée sur la fiche Google de Domicile au 30 août 2026. Cette page tient lieu de référence publique en attendant, le cas échéant, la création d'un site propre à l'entreprise."
       }
     ],
-    "genere_le": "2026-08-30"
+    "genere_le": "2026-10-18"
   },
   "suggestion": {
     "etat": "soumise",

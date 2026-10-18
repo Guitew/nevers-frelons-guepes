@@ -126,18 +126,18 @@
   },
   "source": "google-places",
   "redaction": {
+    "version": 2,
     "titre": "Boulangerie — Boulangerie-pâtisserie à Laon",
-    "meta_titre": "Boulangerie, boulangerie-pâtisserie à Laon",
-    "meta_description": "Boulangerie, boulangerie-pâtisserie à Laon (31 Rue Eugène Leduc) : adresse, horaires, téléphone et informations pratiques.",
-    "chapo": "Boulangerie figure parmi les établissements de la catégorie « Boulangerie-pâtisserie » recensés à Laon. L'entreprise n'a pas de site web référencé sur sa fiche Google. Les éléments présentés ici — adresse, horaires, contact — proviennent de cette fiche et sont datés de leur relevé.",
+    "meta_titre": "Boulangerie à Laon : horaires, avis, téléphone",
+    "meta_description": "Boulangerie, boulangerie-pâtisserie à Laon : horaires d'ouverture, note Google 4/5 (291 avis), téléphone, adresse et itinéraire.",
+    "chapo": "Boulangerie, boulangerie-pâtisserie au 31 Rue Eugène Leduc, à Laon. Ouvert tous les jours sauf le mardi au relevé du 18 octobre 2026. Téléphone : 09 83 71 83 46. Note Google : 4 sur 5 pour 291 avis.",
     "sections": [
       {
         "id": "presentation",
         "titre": "Boulangerie en quelques mots",
         "paragraphes": [
-          "Boulangeries et pâtisseries font partie des activités les plus consultées localement sur mobile.",
-          "L'artisanat de bouche vit du passage et du bouche-à-oreille : le site web passe souvent après le fournil. Les informations pratiques — jour de fermeture, heure de sortie du pain, spécialités — sont pourtant ce que les habitants cherchent le plus souvent depuis leur téléphone.",
-          "D'après le relevé du 24 septembre 2026, l'établissement est ouvert tous les jours sauf le mardi. Le détail jour par jour figure plus bas."
+          "Sur Google, l'établissement est classé « Boulangerie », dans notre rubrique Boulangerie-pâtisserie.",
+          "D'après le relevé du 18 octobre 2026, l'établissement est ouvert tous les jours sauf le mardi. Le détail jour par jour figure plus bas."
         ]
       },
       {
@@ -145,30 +145,32 @@
         "titre": "Adresse et accès",
         "paragraphes": [
           "L'établissement est situé au 31 Rue Eugène Leduc, 02000 Laon.",
-          "Coordonnées géographiques : 49.56885, 3.63182. Le lien d'itinéraire ci-dessous ouvre directement la navigation."
+          "Coordonnées GPS : 49.56885, 3.63182. Le bouton Itinéraire de cette page ouvre la navigation."
         ]
       },
       {
         "id": "contact",
         "titre": "Contacter Boulangerie",
         "paragraphes": [
-          "Le contact se fait par téléphone au 09 83 71 83 46. C'est le seul moyen de communication déclaré sur la fiche Google de l'entreprise, avec la visite sur place.",
-          "Si vous dirigez cette entreprise, vous pouvez demander la correction ou le retrait de cette page à tout moment, sans justification."
+          "Le contact se fait par téléphone au 09 83 71 83 46, ou directement sur place aux horaires d'ouverture."
         ]
       },
       {
         "id": "avis",
         "titre": "La réputation de Boulangerie",
         "paragraphes": [
-          "Au relevé du 24 septembre 2026, l'établissement affichait une note de 4 sur 5 sur Google, calculée à partir de 290 avis. Cette note évolue en permanence : elle est indiquée ici à titre d'information et n'est pas retraitée.",
-          "Les avis appartiennent à Google et se consultent sur la fiche d'origine, dont le lien figure sur cette page."
+          "Note de 4 sur 5 pour 291 avis Google au relevé du 18 octobre 2026. Les avis se consultent sur la fiche Google, dont le lien figure sur cette page."
         ]
       }
     ],
     "faq": [
       {
         "q": "Quels sont les horaires de Boulangerie ?",
-        "r": "Au relevé du 24 septembre 2026, Boulangerie était ouvert tous les jours sauf le mardi. Dans le détail — lundi : de 6 h à 20 h ; mardi : fermé ; mercredi : de 6 h à 20 h ; jeudi : de 6 h à 20 h ; vendredi : de 6 h à 20 h ; samedi : de 6 h à 20 h ; dimanche : de 6 h à 20 h. Ces horaires peuvent changer : un appel préalable reste conseillé."
+        "r": "Au relevé du 18 octobre 2026, Boulangerie était ouvert tous les jours sauf le mardi. Dans le détail — lundi : de 6 h à 20 h ; mardi : fermé ; mercredi : de 6 h à 20 h ; jeudi : de 6 h à 20 h ; vendredi : de 6 h à 20 h ; samedi : de 6 h à 20 h ; dimanche : de 6 h à 20 h. Ces horaires peuvent changer : un appel préalable reste conseillé."
+      },
+      {
+        "q": "Boulangerie est-il ouvert le dimanche ?",
+        "r": "Oui : le dimanche, Boulangerie est ouvert de 6 h à 20 h (horaires relevés le 18 octobre 2026)."
       },
       {
         "q": "Où se trouve Boulangerie ?",
@@ -179,15 +181,11 @@
         "r": "Par téléphone au 09 83 71 83 46, ou directement sur place aux heures d'ouverture."
       },
       {
-        "q": "Boulangerie a-t-il un site internet ?",
-        "r": "Non : aucune adresse de site web n'est déclarée sur la fiche Google de Boulangerie au 24 septembre 2026. Cette page tient lieu de référence publique en attendant, le cas échéant, la création d'un site propre à l'entreprise."
-      },
-      {
         "q": "Boulangerie est-il accessible aux personnes à mobilité réduite ?",
         "r": "La fiche Google de l'établissement mentionne : « Entrée accessible en fauteuil roulant ». Cette information est déclarative ; en cas de doute, vérifiez par téléphone."
       }
     ],
-    "genere_le": "2026-09-24"
+    "genere_le": "2026-10-18"
   },
   "statut_google": "OPERATIONAL",
   "audience": {

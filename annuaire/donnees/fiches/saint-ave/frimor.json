@@ -136,18 +136,18 @@
   },
   "source": "google-places",
   "redaction": {
+    "version": 2,
     "titre": "Frimor — Transport et déménagement à Saint-Avé",
-    "meta_titre": "Frimor, transport et déménagement à Saint-Avé",
-    "meta_description": "Frimor, transport et déménagement à Saint-Avé (Rue du Champ des Oiseaux) : adresse, horaires, téléphone et informations pratiques.",
-    "chapo": "Frimor exerce l'activité de transport et déménagement au Rue du Champ des Oiseaux, à Saint-Avé. Faute de site internet déclaré sur sa fiche Google, l'entreprise reste difficile à trouver en dehors des cartes. Cette page comble ce manque avec des données factuelles et datées.",
+    "meta_titre": "Frimor à Saint-Avé : horaires, avis, téléphone",
+    "meta_description": "Frimor, transport et déménagement à Saint-Avé : horaires d'ouverture, note Google 4,3/5 (45 avis), téléphone, adresse et itinéraire.",
+    "chapo": "Frimor exerce l'activité de transport et déménagement au Rue du Champ des Oiseaux, à Saint-Avé. Fermé le samedi et le dimanche au relevé du 12 octobre 2026. Téléphone : 02 97 47 07 37. Note Google : 4,3 sur 5 pour 45 avis.",
     "sections": [
       {
         "id": "presentation",
         "titre": "Frimor en quelques mots",
         "paragraphes": [
-          "À Saint-Avé, les recherches du type « transport et déménagement près de chez moi » se concluent le plus souvent par un appel ou une visite directe.",
-          "Déménagement, course urgente, transport de personnes : des services décidés rapidement et comparés sur la disponibilité. La fiche rassemble la zone couverte, les moyens et le contact direct, sans passer par une place de marché.",
-          "D'après le relevé du 22 septembre 2026, l'établissement est fermé le samedi et le dimanche. Le détail jour par jour figure plus bas."
+          "Sur Google, l'établissement est classé « Stockage », dans notre rubrique Transport et déménagement.",
+          "D'après le relevé du 12 octobre 2026, l'établissement est fermé le samedi et le dimanche. Le détail jour par jour figure plus bas."
         ]
       },
       {
@@ -155,30 +155,32 @@
         "titre": "Adresse et accès",
         "paragraphes": [
           "L'établissement est situé au Rue du Champ des Oiseaux, 56890 Saint-Avé.",
-          "Coordonnées géographiques : 47.67182, -2.74029. Le lien d'itinéraire ci-dessous ouvre directement la navigation."
+          "Coordonnées GPS : 47.67182, -2.74029. Le bouton Itinéraire de cette page ouvre la navigation."
         ]
       },
       {
         "id": "contact",
         "titre": "Contacter Frimor",
         "paragraphes": [
-          "Le contact se fait par téléphone au 02 97 47 07 37. C'est le seul moyen de communication déclaré sur la fiche Google de l'entreprise, avec la visite sur place.",
-          "Si vous dirigez cette entreprise, vous pouvez demander la correction ou le retrait de cette page à tout moment, sans justification."
+          "Le contact se fait par téléphone au 02 97 47 07 37, ou directement sur place aux horaires d'ouverture."
         ]
       },
       {
         "id": "avis",
         "titre": "La réputation de Frimor",
         "paragraphes": [
-          "Au relevé du 22 septembre 2026, l'établissement affichait une note de 4,3 sur 5 sur Google, calculée à partir de 45 avis. Cette note évolue en permanence : elle est indiquée ici à titre d'information et n'est pas retraitée.",
-          "Les avis appartiennent à Google et se consultent sur la fiche d'origine, dont le lien figure sur cette page."
+          "Note de 4,3 sur 5 pour 45 avis Google au relevé du 12 octobre 2026. Les avis se consultent sur la fiche Google, dont le lien figure sur cette page."
         ]
       }
     ],
     "faq": [
       {
         "q": "Quels sont les horaires de Frimor ?",
-        "r": "Au relevé du 22 septembre 2026, Frimor était fermé le samedi et le dimanche. Dans le détail — lundi : de 8 h à 12 h et de 13 h 30 à 17 h 30 ; mardi : de 8 h à 12 h et de 13 h 30 à 17 h 30 ; mercredi : de 8 h à 12 h et de 13 h 30 à 17 h 30 ; jeudi : de 8 h à 12 h et de 13 h 30 à 17 h 30 ; vendredi : de 8 h à 12 h et de 13 h 30 à 16 h 30 ; samedi : fermé ; dimanche : fermé. Ces horaires peuvent changer : un appel préalable reste conseillé."
+        "r": "Au relevé du 12 octobre 2026, Frimor était fermé le samedi et le dimanche. Dans le détail — lundi : de 8 h à 12 h et de 13 h 30 à 17 h 30 ; mardi : de 8 h à 12 h et de 13 h 30 à 17 h 30 ; mercredi : de 8 h à 12 h et de 13 h 30 à 17 h 30 ; jeudi : de 8 h à 12 h et de 13 h 30 à 17 h 30 ; vendredi : de 8 h à 12 h et de 13 h 30 à 16 h 30 ; samedi : fermé ; dimanche : fermé. Ces horaires peuvent changer : un appel préalable reste conseillé."
+      },
+      {
+        "q": "Frimor est-il ouvert le dimanche ?",
+        "r": "Non : d'après les horaires relevés le 12 octobre 2026, Frimor est fermé le dimanche."
       },
       {
         "q": "Où se trouve Frimor ?",
@@ -187,13 +189,9 @@
       {
         "q": "Comment contacter Frimor ?",
         "r": "Par téléphone au 02 97 47 07 37, ou directement sur place aux heures d'ouverture."
-      },
-      {
-        "q": "Frimor a-t-il un site internet ?",
-        "r": "Non : aucune adresse de site web n'est déclarée sur la fiche Google de Frimor au 22 septembre 2026. Cette page tient lieu de référence publique en attendant, le cas échéant, la création d'un site propre à l'entreprise."
       }
     ],
-    "genere_le": "2026-09-22"
+    "genere_le": "2026-10-12"
   },
   "statut_google": "OPERATIONAL",
   "audience": {

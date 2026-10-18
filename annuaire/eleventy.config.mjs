@@ -2,6 +2,7 @@ import { slugifier, dateLisible, telephoneLisible, telephoneLien, tronquer, aujo
 import { heureLisible, journeeLisible, resumeHoraires, JOURS } from "./outils/lib/redaction.mjs";
 import { pilotage } from "./outils/lib/pilotage.mjs";
 import { compilerAvis, syntheseAvis, texteAvis } from "./outils/lib/avis.mjs";
+import { libellesServices, prixLisible } from "./outils/lib/services.mjs";
 import site from "./outils/lib/site.mjs";
 import { schemaFiche, schemaFil, schemaFaq, schemaListe, schemaSite } from "./outils/lib/schema.mjs";
 
@@ -50,6 +51,8 @@ export default function (eleventyConfig) {
   eleventyConfig.addFilter("schemaSite", schemaSite);
 
   // ------- Avis Google (compilation + synthèse, jamais balisés) -------
+  eleventyConfig.addFilter("libellesServices", libellesServices);
+  eleventyConfig.addFilter("prixLisible", prixLisible);
   eleventyConfig.addFilter("compilerAvis", compilerAvis);
   eleventyConfig.addFilter("syntheseAvis", syntheseAvis);
   eleventyConfig.addFilter("texteAvis", texteAvis);

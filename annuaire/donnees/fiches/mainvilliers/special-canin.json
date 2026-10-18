@@ -124,18 +124,18 @@
   },
   "source": "google-places",
   "redaction": {
+    "version": 2,
     "titre": "Special Canin — Vétérinaire et animaux à Mainvilliers",
-    "meta_titre": "Special Canin, vétérinaire et animaux à Mainvilliers",
-    "meta_description": "Special Canin, vétérinaire et animaux à Mainvilliers (17 Rue Paul Langevin) : adresse, horaires, téléphone et informations pratiques.",
-    "chapo": "Cette fiche présente Special Canin, un vétérinaire et animaux au 17 Rue Paul Langevin, à Mainvilliers. Son établissement ne déclare aucun site internet sur sa fiche Google : les informations ci-dessous en tiennent lieu de référence publique, vérifiable et accessible à tous.",
+    "meta_titre": "Special Canin à Mainvilliers : horaires, avis, téléphone",
+    "meta_description": "Special Canin, vétérinaire et animaux à Mainvilliers : horaires d'ouverture, note Google 4,5/5 (548 avis), téléphone, adresse et itinéraire.",
+    "chapo": "Cette fiche présente Special Canin, un vétérinaire et animaux au 17 Rue Paul Langevin, à Mainvilliers. Ouvert tous les jours sauf le dimanche au relevé du 9 octobre 2026. Téléphone : 02 37 36 03 66. Note Google : 4,5 sur 5 pour 548 avis.",
     "sections": [
       {
         "id": "presentation",
         "titre": "Special Canin en quelques mots",
         "paragraphes": [
-          "Le choix d'un vétérinaire et animaux se joue sur trois critères : la proximité, les horaires et la facilité de contact.",
-          "Urgence, vaccination, toilettage ou garde : les propriétaires d'animaux cherchent vite et près de chez eux. Ces établissements, souvent de très petite taille, gagnent à disposer d'une page d'information indépendante des annuaires payants.",
-          "D'après le relevé du 7 octobre 2026, l'établissement est ouvert tous les jours sauf le dimanche. Le détail jour par jour figure plus bas."
+          "Sur Google, l'établissement est classé « Animalerie », dans notre rubrique Vétérinaire et animaux.",
+          "D'après le relevé du 9 octobre 2026, l'établissement est ouvert tous les jours sauf le dimanche. Le détail jour par jour figure plus bas."
         ]
       },
       {
@@ -143,30 +143,32 @@
         "titre": "Adresse et accès",
         "paragraphes": [
           "L'établissement est situé au 17 Rue Paul Langevin, 28300 Mainvilliers.",
-          "Coordonnées géographiques : 48.44642, 1.45624. Le lien d'itinéraire ci-dessous ouvre directement la navigation."
+          "Coordonnées GPS : 48.44642, 1.45624. Le bouton Itinéraire de cette page ouvre la navigation."
         ]
       },
       {
         "id": "contact",
         "titre": "Contacter Special Canin",
         "paragraphes": [
-          "Le contact se fait par téléphone au 02 37 36 03 66. C'est le seul moyen de communication déclaré sur la fiche Google de l'entreprise, avec la visite sur place.",
-          "Si vous dirigez cette entreprise, vous pouvez demander la correction ou le retrait de cette page à tout moment, sans justification."
+          "Le contact se fait par téléphone au 02 37 36 03 66, ou directement sur place aux horaires d'ouverture."
         ]
       },
       {
         "id": "avis",
         "titre": "La réputation de Special Canin",
         "paragraphes": [
-          "Au relevé du 7 octobre 2026, l'établissement affichait une note de 4,5 sur 5 sur Google, calculée à partir de 546 avis. Cette note évolue en permanence : elle est indiquée ici à titre d'information et n'est pas retraitée.",
-          "Les avis appartiennent à Google et se consultent sur la fiche d'origine, dont le lien figure sur cette page."
+          "Note de 4,5 sur 5 pour 548 avis Google au relevé du 9 octobre 2026. Les avis se consultent sur la fiche Google, dont le lien figure sur cette page."
         ]
       }
     ],
     "faq": [
       {
         "q": "Quels sont les horaires de Special Canin ?",
-        "r": "Au relevé du 7 octobre 2026, Special Canin était ouvert tous les jours sauf le dimanche. Dans le détail — lundi : de 9 h 30 à 19 h ; mardi : de 9 h 30 à 19 h ; mercredi : de 9 h 30 à 19 h ; jeudi : de 9 h 30 à 19 h ; vendredi : de 9 h 30 à 19 h ; samedi : de 9 h 30 à 18 h 30 ; dimanche : fermé. Ces horaires peuvent changer : un appel préalable reste conseillé."
+        "r": "Au relevé du 9 octobre 2026, Special Canin était ouvert tous les jours sauf le dimanche. Dans le détail — lundi : de 9 h 30 à 19 h ; mardi : de 9 h 30 à 19 h ; mercredi : de 9 h 30 à 19 h ; jeudi : de 9 h 30 à 19 h ; vendredi : de 9 h 30 à 19 h ; samedi : de 9 h 30 à 18 h 30 ; dimanche : fermé. Ces horaires peuvent changer : un appel préalable reste conseillé."
+      },
+      {
+        "q": "Special Canin est-il ouvert le dimanche ?",
+        "r": "Non : d'après les horaires relevés le 9 octobre 2026, Special Canin est fermé le dimanche."
       },
       {
         "q": "Où se trouve Special Canin ?",
@@ -177,15 +179,11 @@
         "r": "Par téléphone au 02 37 36 03 66, ou directement sur place aux heures d'ouverture."
       },
       {
-        "q": "Special Canin a-t-il un site internet ?",
-        "r": "Non : aucune adresse de site web n'est déclarée sur la fiche Google de Special Canin au 7 octobre 2026. Cette page tient lieu de référence publique en attendant, le cas échéant, la création d'un site propre à l'entreprise."
-      },
-      {
         "q": "Special Canin est-il accessible aux personnes à mobilité réduite ?",
         "r": "La fiche Google de l'établissement mentionne : « Entrée accessible en fauteuil roulant ». Cette information est déclarative ; en cas de doute, vérifiez par téléphone."
       }
     ],
-    "genere_le": "2026-10-07"
+    "genere_le": "2026-10-09"
   },
   "statut_google": "OPERATIONAL",
   "audience": {

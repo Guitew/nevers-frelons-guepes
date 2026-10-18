@@ -106,7 +106,7 @@
   ],
   "lien_google": "https://maps.google.com/?cid=1001699404523304559&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
   "site_web_gmb": null,
-  "statut": "retiree",
+  "statut": "publiee",
   "backlink": {
     "etat": "absent",
     "premiere_detection": null,
@@ -120,13 +120,7 @@
     "date_soumission": "2026-09-01",
     "tentatives": 1
   },
-  "retrait": {
-    "mode": "410",
-    "cible": null,
-    "date": "2026-10-18",
-    "motif": "page non indexée par Google 47 jours après sa mise en ligne (Google ne reconnaît pas cette URL)",
-    "cause": "non-indexee"
-  },
+  "retrait": null,
   "dates": {
     "collecte": "2026-09-01",
     "publication": "2026-09-01",
@@ -134,18 +128,18 @@
   },
   "source": "google-places",
   "redaction": {
+    "version": 2,
     "titre": "Centre commercial Les Portes de l'Allier — Commerce d'alimentation à Avermes",
-    "meta_titre": "Centre commercial Les Portes de l'Allier, commerce…",
-    "meta_description": "Centre commercial Les Portes de l'Allier, commerce d'alimentation à Avermes : adresse, horaires, téléphone et informations pratiques.",
-    "chapo": "Cette fiche présente Centre commercial Les Portes de l'Allier, un commerce d'alimentation à Avermes. Son établissement ne déclare aucun site internet sur sa fiche Google : les informations ci-dessous en tiennent lieu de référence publique, vérifiable et accessible à tous.",
+    "meta_titre": "Centre commercial Les Portes de l'Allier à Avermes",
+    "meta_description": "Centre commercial Les Portes de l'Allier, commerce d'alimentation à Avermes : horaires d'ouverture, téléphone, adresse et itinéraire.",
+    "chapo": "Cette fiche présente Centre commercial Les Portes de l'Allier, un commerce d'alimentation à Avermes. Ouvert tous les jours sauf le dimanche au relevé du 18 octobre 2026. Téléphone : 04 70 46 22 46. Note Google : 4,4 sur 5 pour 840 avis.",
     "sections": [
       {
         "id": "presentation",
         "titre": "Centre commercial Les Portes de l'Allier en quelques mots",
         "paragraphes": [
-          "À Avermes, les recherches du type « commerce d'alimentation près de chez moi » se concluent le plus souvent par un appel ou une visite directe.",
-          "Le commerce alimentaire de proximité redevient un réflexe, mais son information circule mal : jours de marché, produits de saison, vente directe. Cette fiche rassemble ce que le consommateur cherche avant de se déplacer.",
-          "D'après le relevé du 1 septembre 2026, l'établissement est ouvert tous les jours sauf le dimanche. Le détail jour par jour figure plus bas."
+          "Sur Google, l'établissement est classé « Centre commercial », dans notre rubrique Commerce d'alimentation.",
+          "D'après le relevé du 18 octobre 2026, l'établissement est ouvert tous les jours sauf le dimanche. Le détail jour par jour figure plus bas."
         ]
       },
       {
@@ -153,30 +147,32 @@
         "titre": "Adresse et accès",
         "paragraphes": [
           "L'établissement est situé, 03000 Avermes.",
-          "Coordonnées géographiques : 46.58836, 3.32983. Le lien d'itinéraire ci-dessous ouvre directement la navigation."
+          "Coordonnées GPS : 46.58836, 3.32983. Le bouton Itinéraire de cette page ouvre la navigation."
         ]
       },
       {
         "id": "contact",
         "titre": "Contacter Centre commercial Les Portes de l'Allier",
         "paragraphes": [
-          "Le contact se fait par téléphone au 04 70 46 22 46. C'est le seul moyen de communication déclaré sur la fiche Google de l'entreprise, avec la visite sur place.",
-          "Si vous dirigez cette entreprise, vous pouvez demander la correction ou le retrait de cette page à tout moment, sans justification."
+          "Le contact se fait par téléphone au 04 70 46 22 46, ou directement sur place aux horaires d'ouverture."
         ]
       },
       {
         "id": "avis",
         "titre": "La réputation de Centre commercial Les Portes de l'Allier",
         "paragraphes": [
-          "Au relevé du 1 septembre 2026, l'établissement affichait une note de 4,4 sur 5 sur Google, calculée à partir de 838 avis. Cette note évolue en permanence : elle est indiquée ici à titre d'information et n'est pas retraitée.",
-          "Les avis appartiennent à Google et se consultent sur la fiche d'origine, dont le lien figure sur cette page."
+          "Note de 4,4 sur 5 pour 840 avis Google au relevé du 18 octobre 2026. Les avis se consultent sur la fiche Google, dont le lien figure sur cette page."
         ]
       }
     ],
     "faq": [
       {
         "q": "Quels sont les horaires de Centre commercial Les Portes de l'Allier ?",
-        "r": "Au relevé du 1 septembre 2026, Centre commercial Les Portes de l'Allier était ouvert tous les jours sauf le dimanche. Dans le détail — lundi : de 9 h à 19 h 30 ; mardi : de 9 h à 19 h 30 ; mercredi : de 9 h à 19 h 30 ; jeudi : de 9 h à 19 h 30 ; vendredi : de 9 h à 19 h 30 ; samedi : de 9 h à 19 h 30 ; dimanche : fermé. Ces horaires peuvent changer : un appel préalable reste conseillé."
+        "r": "Au relevé du 18 octobre 2026, Centre commercial Les Portes de l'Allier était ouvert tous les jours sauf le dimanche. Dans le détail — lundi : de 9 h à 19 h 30 ; mardi : de 9 h à 19 h 30 ; mercredi : de 9 h à 19 h 30 ; jeudi : de 9 h à 19 h 30 ; vendredi : de 9 h à 19 h 30 ; samedi : de 9 h à 19 h 30 ; dimanche : fermé. Ces horaires peuvent changer : un appel préalable reste conseillé."
+      },
+      {
+        "q": "Centre commercial Les Portes de l'Allier est-il ouvert le dimanche ?",
+        "r": "Non : d'après les horaires relevés le 18 octobre 2026, Centre commercial Les Portes de l'Allier est fermé le dimanche."
       },
       {
         "q": "Où se trouve Centre commercial Les Portes de l'Allier ?",
@@ -187,15 +183,11 @@
         "r": "Par téléphone au 04 70 46 22 46, ou directement sur place aux heures d'ouverture."
       },
       {
-        "q": "Centre commercial Les Portes de l'Allier a-t-il un site internet ?",
-        "r": "Non : aucune adresse de site web n'est déclarée sur la fiche Google de Centre commercial Les Portes de l'Allier au 1 septembre 2026. Cette page tient lieu de référence publique en attendant, le cas échéant, la création d'un site propre à l'entreprise."
-      },
-      {
         "q": "Centre commercial Les Portes de l'Allier est-il accessible aux personnes à mobilité réduite ?",
         "r": "La fiche Google de l'établissement mentionne : « Entrée accessible en fauteuil roulant ». Cette information est déclarative ; en cas de doute, vérifiez par téléphone."
       }
     ],
-    "genere_le": "2026-09-01"
+    "genere_le": "2026-10-18"
   },
   "statut_google": "OPERATIONAL",
   "audience": {

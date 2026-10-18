@@ -119,18 +119,18 @@
   },
   "source": "google-places",
   "redaction": {
+    "version": 2,
     "titre": "Approniort — Transport et déménagement à La Crèche",
-    "meta_titre": "Approniort, transport et déménagement à La Crèche",
-    "meta_description": "Approniort, transport et déménagement à La Crèche : adresse, horaires, téléphone et informations pratiques.",
-    "chapo": "Approniort exerce l'activité de transport et déménagement à La Crèche. Faute de site internet déclaré sur sa fiche Google, l'entreprise reste difficile à trouver en dehors des cartes. Cette page comble ce manque avec des données factuelles et datées.",
+    "meta_titre": "Approniort à La Crèche : horaires, avis, téléphone",
+    "meta_description": "Approniort, transport et déménagement à La Crèche : horaires d'ouverture, note Google 3,8/5 (74 avis), téléphone, adresse et itinéraire.",
+    "chapo": "Approniort exerce l'activité de transport et déménagement à La Crèche. Fermé le samedi et le dimanche au relevé du 18 octobre 2026. Téléphone : 05 49 10 29 20. Note Google : 3,8 sur 5 pour 74 avis.",
     "sections": [
       {
         "id": "presentation",
         "titre": "Approniort en quelques mots",
         "paragraphes": [
-          "Transport, déménagement et stockage font partie des activités les plus consultées localement sur mobile.",
-          "Déménagement, course urgente, transport de personnes : des services décidés rapidement et comparés sur la disponibilité. La fiche rassemble la zone couverte, les moyens et le contact direct, sans passer par une place de marché.",
-          "D'après le relevé du 7 septembre 2026, l'établissement est fermé le samedi et le dimanche. Le détail jour par jour figure plus bas."
+          "Sur Google, l'établissement est classé « Stockage », dans notre rubrique Transport et déménagement.",
+          "D'après le relevé du 18 octobre 2026, l'établissement est fermé le samedi et le dimanche. Le détail jour par jour figure plus bas."
         ]
       },
       {
@@ -138,30 +138,32 @@
         "titre": "Adresse et accès",
         "paragraphes": [
           "L'établissement est situé, 79260 La Crèche.",
-          "Coordonnées géographiques : 46.35453, -0.29817. Le lien d'itinéraire ci-dessous ouvre directement la navigation."
+          "Coordonnées GPS : 46.35453, -0.29817. Le bouton Itinéraire de cette page ouvre la navigation."
         ]
       },
       {
         "id": "contact",
         "titre": "Contacter Approniort",
         "paragraphes": [
-          "Le contact se fait par téléphone au 05 49 10 29 20. C'est le seul moyen de communication déclaré sur la fiche Google de l'entreprise, avec la visite sur place.",
-          "Si vous dirigez cette entreprise, vous pouvez demander la correction ou le retrait de cette page à tout moment, sans justification."
+          "Le contact se fait par téléphone au 05 49 10 29 20, ou directement sur place aux horaires d'ouverture."
         ]
       },
       {
         "id": "avis",
         "titre": "La réputation de Approniort",
         "paragraphes": [
-          "Au relevé du 7 septembre 2026, l'établissement affichait une note de 3,7 sur 5 sur Google, calculée à partir de 74 avis. Cette note évolue en permanence : elle est indiquée ici à titre d'information et n'est pas retraitée.",
-          "Les avis appartiennent à Google et se consultent sur la fiche d'origine, dont le lien figure sur cette page."
+          "Note de 3,8 sur 5 pour 74 avis Google au relevé du 18 octobre 2026. Les avis les plus parlants sont compilés ci-dessous, avec un lien vers la fiche d'origine."
         ]
       }
     ],
     "faq": [
       {
         "q": "Quels sont les horaires de Approniort ?",
-        "r": "Au relevé du 7 septembre 2026, Approniort était fermé le samedi et le dimanche. Dans le détail — lundi : de 7 h à 12 h ; mardi : de 7 h à 12 h ; mercredi : de 7 h à 12 h ; jeudi : de 7 h à 12 h ; vendredi : de 7 h à 12 h ; samedi : fermé ; dimanche : fermé. Ces horaires peuvent changer : un appel préalable reste conseillé."
+        "r": "Au relevé du 18 octobre 2026, Approniort était fermé le samedi et le dimanche. Dans le détail — lundi : de 7 h à 12 h ; mardi : de 7 h à 12 h ; mercredi : de 7 h à 12 h ; jeudi : de 7 h à 12 h ; vendredi : de 7 h à 12 h ; samedi : fermé ; dimanche : fermé. Ces horaires peuvent changer : un appel préalable reste conseillé."
+      },
+      {
+        "q": "Approniort est-il ouvert le dimanche ?",
+        "r": "Non : d'après les horaires relevés le 18 octobre 2026, Approniort est fermé le dimanche."
       },
       {
         "q": "Où se trouve Approniort ?",
@@ -172,15 +174,11 @@
         "r": "Par téléphone au 05 49 10 29 20, ou directement sur place aux heures d'ouverture."
       },
       {
-        "q": "Approniort a-t-il un site internet ?",
-        "r": "Non : aucune adresse de site web n'est déclarée sur la fiche Google de Approniort au 7 septembre 2026. Cette page tient lieu de référence publique en attendant, le cas échéant, la création d'un site propre à l'entreprise."
-      },
-      {
         "q": "Approniort est-il accessible aux personnes à mobilité réduite ?",
         "r": "La fiche Google de l'établissement mentionne : « Entrée accessible en fauteuil roulant ». Cette information est déclarative ; en cas de doute, vérifiez par téléphone."
       }
     ],
-    "genere_le": "2026-09-07"
+    "genere_le": "2026-10-18"
   },
   "statut_google": "OPERATIONAL",
   "audience": {

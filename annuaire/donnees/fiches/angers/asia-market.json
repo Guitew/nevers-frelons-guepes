@@ -133,18 +133,18 @@
   },
   "source": "google-places",
   "redaction": {
+    "version": 2,
     "titre": "Asia Market — Commerce d'alimentation à Angers",
-    "meta_titre": "Asia Market, commerce d'alimentation à Angers",
-    "meta_description": "Asia Market, commerce d'alimentation à Angers (283 Avenue Pasteur) : adresse, horaires, téléphone et informations pratiques.",
-    "chapo": "Asia Market est un commerce d'alimentation au 283 Avenue Pasteur, à Angers. Aucune adresse web n'est renseignée sur sa fiche Google. Cette page rassemble donc, en un seul endroit stable, les informations que les clients recherchent avant de se déplacer.",
+    "meta_titre": "Asia Market à Angers : horaires, avis, téléphone",
+    "meta_description": "Asia Market, commerce d'alimentation à Angers : horaires d'ouverture, note Google 4/5 (955 avis), téléphone, adresse et itinéraire.",
+    "chapo": "Asia Market est un commerce d'alimentation au 283 Avenue Pasteur, à Angers. Ouvert sept jours sur sept au relevé du 18 octobre 2026. Téléphone : 02 53 20 67 13. Note Google : 4 sur 5 pour 955 avis.",
     "sections": [
       {
         "id": "presentation",
         "titre": "Asia Market en quelques mots",
         "paragraphes": [
-          "Le choix d'un commerce d'alimentation se joue sur trois critères : la proximité, les horaires et la facilité de contact.",
-          "Le commerce alimentaire de proximité redevient un réflexe, mais son information circule mal : jours de marché, produits de saison, vente directe. Cette fiche rassemble ce que le consommateur cherche avant de se déplacer.",
-          "D'après le relevé du 3 octobre 2026, l'établissement est ouvert sept jours sur sept. Le détail jour par jour figure plus bas."
+          "Sur Google, l'établissement est classé « Épicerie asiatique », dans notre rubrique Commerce d'alimentation.",
+          "D'après le relevé du 18 octobre 2026, l'établissement est ouvert sept jours sur sept. Le détail jour par jour figure plus bas."
         ]
       },
       {
@@ -152,30 +152,32 @@
         "titre": "Adresse et accès",
         "paragraphes": [
           "L'établissement est situé au 283 Avenue Pasteur, 49100 Angers.",
-          "Coordonnées géographiques : 47.48152, -0.52419. Le lien d'itinéraire ci-dessous ouvre directement la navigation."
+          "Coordonnées GPS : 47.48152, -0.52419. Le bouton Itinéraire de cette page ouvre la navigation."
         ]
       },
       {
         "id": "contact",
         "titre": "Contacter Asia Market",
         "paragraphes": [
-          "Le contact se fait par téléphone au 02 53 20 67 13. C'est le seul moyen de communication déclaré sur la fiche Google de l'entreprise, avec la visite sur place.",
-          "Si vous dirigez cette entreprise, vous pouvez demander la correction ou le retrait de cette page à tout moment, sans justification."
+          "Le contact se fait par téléphone au 02 53 20 67 13, ou directement sur place aux horaires d'ouverture."
         ]
       },
       {
         "id": "avis",
         "titre": "La réputation de Asia Market",
         "paragraphes": [
-          "Au relevé du 3 octobre 2026, l'établissement affichait une note de 4 sur 5 sur Google, calculée à partir de 952 avis. Cette note évolue en permanence : elle est indiquée ici à titre d'information et n'est pas retraitée.",
-          "Les avis appartiennent à Google et se consultent sur la fiche d'origine, dont le lien figure sur cette page."
+          "Note de 4 sur 5 pour 955 avis Google au relevé du 18 octobre 2026. Les avis les plus parlants sont compilés ci-dessous, avec un lien vers la fiche d'origine."
         ]
       }
     ],
     "faq": [
       {
         "q": "Quels sont les horaires de Asia Market ?",
-        "r": "Au relevé du 3 octobre 2026, Asia Market était ouvert sept jours sur sept. Dans le détail — lundi : de 9 h à 19 h 50 ; mardi : de 9 h à 19 h 50 ; mercredi : de 9 h à 19 h 50 ; jeudi : de 9 h à 19 h 50 ; vendredi : de 9 h à 19 h 50 ; samedi : de 9 h à 19 h 50 ; dimanche : de 10 h à 18 h 50. Ces horaires peuvent changer : un appel préalable reste conseillé."
+        "r": "Au relevé du 18 octobre 2026, Asia Market était ouvert sept jours sur sept. Dans le détail — lundi : de 9 h à 19 h 50 ; mardi : de 9 h à 19 h 50 ; mercredi : de 9 h à 19 h 50 ; jeudi : de 9 h à 19 h 50 ; vendredi : de 9 h à 19 h 50 ; samedi : de 9 h à 19 h 50 ; dimanche : de 10 h à 18 h 50. Ces horaires peuvent changer : un appel préalable reste conseillé."
+      },
+      {
+        "q": "Asia Market est-il ouvert le dimanche ?",
+        "r": "Oui : le dimanche, Asia Market est ouvert de 10 h à 18 h 50 (horaires relevés le 18 octobre 2026)."
       },
       {
         "q": "Où se trouve Asia Market ?",
@@ -186,15 +188,11 @@
         "r": "Par téléphone au 02 53 20 67 13, ou directement sur place aux heures d'ouverture."
       },
       {
-        "q": "Asia Market a-t-il un site internet ?",
-        "r": "Non : aucune adresse de site web n'est déclarée sur la fiche Google de Asia Market au 3 octobre 2026. Cette page tient lieu de référence publique en attendant, le cas échéant, la création d'un site propre à l'entreprise."
-      },
-      {
         "q": "Asia Market est-il accessible aux personnes à mobilité réduite ?",
         "r": "La fiche Google de l'établissement mentionne : « Entrée accessible en fauteuil roulant ». Cette information est déclarative ; en cas de doute, vérifiez par téléphone."
       }
     ],
-    "genere_le": "2026-10-03"
+    "genere_le": "2026-10-18"
   },
   "statut_google": "OPERATIONAL",
   "audience": {

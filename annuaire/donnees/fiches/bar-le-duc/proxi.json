@@ -145,17 +145,17 @@
   },
   "source": "google-places",
   "redaction": {
+    "version": 2,
     "titre": "Proxi — Commerce d'alimentation à Bar-le-Duc",
-    "meta_titre": "Proxi, commerce d'alimentation à Bar-le-Duc",
-    "meta_description": "Proxi, commerce d'alimentation à Bar-le-Duc (29 Rue Jean Jacques Rousseau) : adresse, horaires, téléphone et informations pratiques.",
-    "chapo": "Proxi est un commerce d'alimentation au 29 Rue Jean Jacques Rousseau, à Bar-le-Duc. Aucune adresse web n'est renseignée sur sa fiche Google. Cette page rassemble donc, en un seul endroit stable, les informations que les clients recherchent avant de se déplacer.",
+    "meta_titre": "Proxi à Bar-le-Duc : horaires, avis, téléphone",
+    "meta_description": "Proxi, commerce d'alimentation à Bar-le-Duc : horaires d'ouverture, note Google 4,8/5 (20 avis), téléphone, adresse et itinéraire.",
+    "chapo": "Proxi est un commerce d'alimentation au 29 Rue Jean Jacques Rousseau, à Bar-le-Duc. Ouvert tous les jours sauf le lundi au relevé du 18 octobre 2026. Téléphone : 03 29 70 11 63. Note Google : 4,8 sur 5 pour 20 avis.",
     "sections": [
       {
         "id": "presentation",
         "titre": "Proxi en quelques mots",
         "paragraphes": [
-          "Commerces et alimentation font partie des activités les plus consultées localement sur mobile.",
-          "Le commerce alimentaire de proximité redevient un réflexe, mais son information circule mal : jours de marché, produits de saison, vente directe. Cette fiche rassemble ce que le consommateur cherche avant de se déplacer.",
+          "Sur Google, l'établissement est classé « Épicerie », dans notre rubrique Commerce d'alimentation.",
           "D'après le relevé du 18 octobre 2026, l'établissement est ouvert tous les jours sauf le lundi. Le détail jour par jour figure plus bas."
         ]
       },
@@ -164,23 +164,21 @@
         "titre": "Adresse et accès",
         "paragraphes": [
           "L'établissement est situé au 29 Rue Jean Jacques Rousseau, 55000 Bar-le-Duc.",
-          "Coordonnées géographiques : 48.77283, 5.15954. Le lien d'itinéraire ci-dessous ouvre directement la navigation."
+          "Coordonnées GPS : 48.77283, 5.15954. Le bouton Itinéraire de cette page ouvre la navigation."
         ]
       },
       {
         "id": "contact",
         "titre": "Contacter Proxi",
         "paragraphes": [
-          "Le contact se fait par téléphone au 03 29 70 11 63. C'est le seul moyen de communication déclaré sur la fiche Google de l'entreprise, avec la visite sur place.",
-          "Si vous dirigez cette entreprise, vous pouvez demander la correction ou le retrait de cette page à tout moment, sans justification."
+          "Le contact se fait par téléphone au 03 29 70 11 63, ou directement sur place aux horaires d'ouverture."
         ]
       },
       {
         "id": "avis",
         "titre": "La réputation de Proxi",
         "paragraphes": [
-          "Au relevé du 18 octobre 2026, l'établissement affichait une note de 4,8 sur 5 sur Google, calculée à partir de 20 avis. Cette note évolue en permanence : elle est indiquée ici à titre d'information et n'est pas retraitée.",
-          "Les avis appartiennent à Google et se consultent sur la fiche d'origine, dont le lien figure sur cette page."
+          "Note de 4,8 sur 5 pour 20 avis Google au relevé du 18 octobre 2026. Les avis les plus parlants sont compilés ci-dessous, avec un lien vers la fiche d'origine."
         ]
       }
     ],
@@ -190,16 +188,16 @@
         "r": "Au relevé du 18 octobre 2026, Proxi était ouvert tous les jours sauf le lundi. Dans le détail — lundi : fermé ; mardi : de 8 h à 12 h 30 et de 15 h à 0 h ; mercredi : de 8 h à 12 h 30 et de 15 h à 0 h ; jeudi : de 8 h à 12 h 30 et de 15 h à 0 h ; vendredi : de 8 h à 12 h 30 et de 15 h à 0 h 30 ; samedi : de 8 h à 12 h 30 et de 15 h à 0 h 30 ; dimanche : de 8 h à 23 h. Ces horaires peuvent changer : un appel préalable reste conseillé."
       },
       {
+        "q": "Proxi est-il ouvert le dimanche ?",
+        "r": "Oui : le dimanche, Proxi est ouvert de 8 h à 23 h (horaires relevés le 18 octobre 2026)."
+      },
+      {
         "q": "Où se trouve Proxi ?",
         "r": "Proxi se trouve 29 Rue Jean Jacques Rousseau, 55000 Bar-le-Duc. Un lien d'itinéraire est disponible sur cette page."
       },
       {
         "q": "Comment contacter Proxi ?",
         "r": "Par téléphone au 03 29 70 11 63, ou directement sur place aux heures d'ouverture."
-      },
-      {
-        "q": "Proxi a-t-il un site internet ?",
-        "r": "Non : aucune adresse de site web n'est déclarée sur la fiche Google de Proxi au 18 octobre 2026. Cette page tient lieu de référence publique en attendant, le cas échéant, la création d'un site propre à l'entreprise."
       },
       {
         "q": "Proxi est-il accessible aux personnes à mobilité réduite ?",

@@ -129,18 +129,18 @@
   },
   "source": "google-places",
   "redaction": {
+    "version": 2,
     "titre": "Mon Hôtel à Gap — Hébergement à Gap",
-    "meta_titre": "Mon Hôtel à Gap, hébergement à Gap",
-    "meta_description": "Mon Hôtel à Gap, hébergement à Gap (4 Place Frederic Euziere) : adresse, horaires, téléphone et informations pratiques.",
-    "chapo": "Mon Hôtel à Gap exerce l'activité de hébergement au 4 Place Frederic Euziere, à Gap. Faute de site internet déclaré sur sa fiche Google, l'entreprise reste difficile à trouver en dehors des cartes. Cette page comble ce manque avec des données factuelles et datées.",
+    "meta_titre": "Mon Hôtel à Gap à Gap : horaires, avis, téléphone",
+    "meta_description": "Mon Hôtel à Gap, hébergement à Gap : horaires d'ouverture, note Google 4,5/5 (460 avis), téléphone, adresse et itinéraire.",
+    "chapo": "Mon Hôtel à Gap exerce l'activité de hébergement au 4 Place Frederic Euziere, à Gap. Ouvert sept jours sur sept au relevé du 9 octobre 2026. Téléphone : 04 92 51 04 13. Note Google : 4,5 sur 5 pour 460 avis.",
     "sections": [
       {
         "id": "presentation",
         "titre": "Mon Hôtel à Gap en quelques mots",
         "paragraphes": [
-          "À Gap, les recherches du type « hébergement près de chez moi » se concluent le plus souvent par un appel ou une visite directe.",
-          "Un hébergement sans site web dépend entièrement des plateformes de réservation et de leurs commissions. Une page publique, stable et indexable rétablit un point de contact direct : téléphone, adresse exacte, capacité et conditions d'accueil.",
-          "D'après le relevé du 3 octobre 2026, l'établissement est ouvert sept jours sur sept. Le détail jour par jour figure plus bas."
+          "Sur Google, l'établissement est classé « Hôtel », dans notre rubrique Hébergement.",
+          "D'après le relevé du 9 octobre 2026, l'établissement est ouvert sept jours sur sept. Le détail jour par jour figure plus bas."
         ]
       },
       {
@@ -148,30 +148,32 @@
         "titre": "Adresse et accès",
         "paragraphes": [
           "L'établissement est situé au 4 Place Frederic Euziere, 05000 Gap.",
-          "Coordonnées géographiques : 44.55640, 6.07696. Le lien d'itinéraire ci-dessous ouvre directement la navigation."
+          "Coordonnées GPS : 44.55640, 6.07696. Le bouton Itinéraire de cette page ouvre la navigation."
         ]
       },
       {
         "id": "contact",
         "titre": "Contacter Mon Hôtel à Gap",
         "paragraphes": [
-          "Le contact se fait par téléphone au 04 92 51 04 13. C'est le seul moyen de communication déclaré sur la fiche Google de l'entreprise, avec la visite sur place.",
-          "Si vous dirigez cette entreprise, vous pouvez demander la correction ou le retrait de cette page à tout moment, sans justification."
+          "Le contact se fait par téléphone au 04 92 51 04 13, ou directement sur place aux horaires d'ouverture."
         ]
       },
       {
         "id": "avis",
         "titre": "La réputation de Mon Hôtel à Gap",
         "paragraphes": [
-          "Au relevé du 3 octobre 2026, l'établissement affichait une note de 4,5 sur 5 sur Google, calculée à partir de 459 avis. Cette note évolue en permanence : elle est indiquée ici à titre d'information et n'est pas retraitée.",
-          "Les avis appartiennent à Google et se consultent sur la fiche d'origine, dont le lien figure sur cette page."
+          "Note de 4,5 sur 5 pour 460 avis Google au relevé du 9 octobre 2026. Les avis se consultent sur la fiche Google, dont le lien figure sur cette page."
         ]
       }
     ],
     "faq": [
       {
         "q": "Quels sont les horaires de Mon Hôtel à Gap ?",
-        "r": "Au relevé du 3 octobre 2026, Mon Hôtel à Gap était ouvert sept jours sur sept. Dans le détail — lundi : de 7 h à 22 h ; mardi : de 7 h à 22 h ; mercredi : de 7 h à 22 h ; jeudi : de 7 h à 22 h ; vendredi : de 7 h à 22 h ; samedi : de 7 h à 22 h ; dimanche : de 7 h à 22 h. Ces horaires peuvent changer : un appel préalable reste conseillé."
+        "r": "Au relevé du 9 octobre 2026, Mon Hôtel à Gap était ouvert sept jours sur sept. Dans le détail — lundi : de 7 h à 22 h ; mardi : de 7 h à 22 h ; mercredi : de 7 h à 22 h ; jeudi : de 7 h à 22 h ; vendredi : de 7 h à 22 h ; samedi : de 7 h à 22 h ; dimanche : de 7 h à 22 h. Ces horaires peuvent changer : un appel préalable reste conseillé."
+      },
+      {
+        "q": "Mon Hôtel à Gap est-il ouvert le dimanche ?",
+        "r": "Oui : le dimanche, Mon Hôtel à Gap est ouvert de 7 h à 22 h (horaires relevés le 9 octobre 2026)."
       },
       {
         "q": "Où se trouve Mon Hôtel à Gap ?",
@@ -182,15 +184,11 @@
         "r": "Par téléphone au 04 92 51 04 13, ou directement sur place aux heures d'ouverture."
       },
       {
-        "q": "Mon Hôtel à Gap a-t-il un site internet ?",
-        "r": "Non : aucune adresse de site web n'est déclarée sur la fiche Google de Mon Hôtel à Gap au 3 octobre 2026. Cette page tient lieu de référence publique en attendant, le cas échéant, la création d'un site propre à l'entreprise."
-      },
-      {
         "q": "Mon Hôtel à Gap est-il accessible aux personnes à mobilité réduite ?",
         "r": "La fiche Google de l'établissement mentionne : « Entrée accessible en fauteuil roulant ». Cette information est déclarative ; en cas de doute, vérifiez par téléphone."
       }
     ],
-    "genere_le": "2026-10-03"
+    "genere_le": "2026-10-09"
   },
   "statut_google": "OPERATIONAL",
   "audience": {

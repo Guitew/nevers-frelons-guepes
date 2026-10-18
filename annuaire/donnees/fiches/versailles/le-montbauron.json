@@ -134,18 +134,18 @@
   },
   "source": "google-places",
   "redaction": {
+    "version": 2,
     "titre": "Le Montbauron — Café ou bar à Versailles",
-    "meta_titre": "Le Montbauron, café ou bar à Versailles",
-    "meta_description": "Le Montbauron, café ou bar à Versailles (23 Rue Jouvencel) : adresse, horaires, téléphone et informations pratiques.",
-    "chapo": "Le Montbauron exerce l'activité de café ou bar au 23 Rue Jouvencel, à Versailles. Faute de site internet déclaré sur sa fiche Google, l'entreprise reste difficile à trouver en dehors des cartes. Cette page comble ce manque avec des données factuelles et datées.",
+    "meta_titre": "Le Montbauron à Versailles : horaires, avis, téléphone",
+    "meta_description": "Le Montbauron, café ou bar à Versailles : horaires d'ouverture, note Google 4,4/5 (2172 avis), téléphone, adresse et itinéraire.",
+    "chapo": "Le Montbauron exerce l'activité de café ou bar au 23 Rue Jouvencel, à Versailles. Ouvert sept jours sur sept au relevé du 13 octobre 2026. Téléphone : 01 39 02 15 21. Note Google : 4,4 sur 5 pour 2172 avis.",
     "sections": [
       {
         "id": "presentation",
         "titre": "Le Montbauron en quelques mots",
         "paragraphes": [
-          "À Versailles, les recherches du type « café ou bar près de chez moi » se concluent le plus souvent par un appel ou une visite directe.",
-          "Les cafés et bars sont des repères de vie locale rarement dotés d'un site. Horaires réels, terrasse, retransmissions sportives, concerts : autant de détails qui décident d'une sortie et qui n'apparaissent nulle part ailleurs de façon lisible.",
-          "D'après le relevé du 18 septembre 2026, l'établissement est ouvert sept jours sur sept. Le détail jour par jour figure plus bas."
+          "Sur Google, l'établissement est classé « Bar », dans notre rubrique Café ou bar.",
+          "D'après le relevé du 13 octobre 2026, l'établissement est ouvert sept jours sur sept. Le détail jour par jour figure plus bas."
         ]
       },
       {
@@ -153,30 +153,32 @@
         "titre": "Adresse et accès",
         "paragraphes": [
           "L'établissement est situé au 23 Rue Jouvencel, 78000 Versailles.",
-          "Coordonnées géographiques : 48.80289, 2.13451. Le lien d'itinéraire ci-dessous ouvre directement la navigation."
+          "Coordonnées GPS : 48.80289, 2.13451. Le bouton Itinéraire de cette page ouvre la navigation."
         ]
       },
       {
         "id": "contact",
         "titre": "Contacter Le Montbauron",
         "paragraphes": [
-          "Le contact se fait par téléphone au 01 39 02 15 21. C'est le seul moyen de communication déclaré sur la fiche Google de l'entreprise, avec la visite sur place.",
-          "Si vous dirigez cette entreprise, vous pouvez demander la correction ou le retrait de cette page à tout moment, sans justification."
+          "Le contact se fait par téléphone au 01 39 02 15 21, ou directement sur place aux horaires d'ouverture."
         ]
       },
       {
         "id": "avis",
         "titre": "La réputation de Le Montbauron",
         "paragraphes": [
-          "Au relevé du 18 septembre 2026, l'établissement affichait une note de 4,4 sur 5 sur Google, calculée à partir de 2163 avis. Cette note évolue en permanence : elle est indiquée ici à titre d'information et n'est pas retraitée.",
-          "Les avis appartiennent à Google et se consultent sur la fiche d'origine, dont le lien figure sur cette page."
+          "Note de 4,4 sur 5 pour 2172 avis Google au relevé du 13 octobre 2026. Les avis se consultent sur la fiche Google, dont le lien figure sur cette page."
         ]
       }
     ],
     "faq": [
       {
         "q": "Quels sont les horaires de Le Montbauron ?",
-        "r": "Au relevé du 18 septembre 2026, Le Montbauron était ouvert sept jours sur sept. Dans le détail — lundi : de 11 h à 2 h ; mardi : de 11 h à 2 h ; mercredi : de 11 h à 2 h ; jeudi : de 11 h à 2 h ; vendredi : de 11 h à 2 h ; samedi : de 14 h à 2 h ; dimanche : de 14 h à 2 h. Ces horaires peuvent changer : un appel préalable reste conseillé."
+        "r": "Au relevé du 13 octobre 2026, Le Montbauron était ouvert sept jours sur sept. Dans le détail — lundi : de 11 h à 2 h ; mardi : de 11 h à 2 h ; mercredi : de 11 h à 2 h ; jeudi : de 11 h à 2 h ; vendredi : de 11 h à 2 h ; samedi : de 14 h à 2 h ; dimanche : de 14 h à 2 h. Ces horaires peuvent changer : un appel préalable reste conseillé."
+      },
+      {
+        "q": "Le Montbauron est-il ouvert le dimanche ?",
+        "r": "Oui : le dimanche, Le Montbauron est ouvert de 14 h à 2 h (horaires relevés le 13 octobre 2026)."
       },
       {
         "q": "Où se trouve Le Montbauron ?",
@@ -187,15 +189,11 @@
         "r": "Par téléphone au 01 39 02 15 21, ou directement sur place aux heures d'ouverture."
       },
       {
-        "q": "Le Montbauron a-t-il un site internet ?",
-        "r": "Non : aucune adresse de site web n'est déclarée sur la fiche Google de Le Montbauron au 18 septembre 2026. Cette page tient lieu de référence publique en attendant, le cas échéant, la création d'un site propre à l'entreprise."
-      },
-      {
         "q": "Le Montbauron est-il accessible aux personnes à mobilité réduite ?",
         "r": "La fiche Google de l'établissement mentionne : « Toilettes accessibles en fauteuil roulant ». Cette information est déclarative ; en cas de doute, vérifiez par téléphone."
       }
     ],
-    "genere_le": "2026-09-18"
+    "genere_le": "2026-10-13"
   },
   "statut_google": "OPERATIONAL",
   "audience": {

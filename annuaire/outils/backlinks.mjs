@@ -33,6 +33,8 @@ import { estNotreUrl } from "./lib/site.mjs";
 import { aujourdhui } from "./lib/texte.mjs";
 import { consigner, evenement } from "./lib/journal.mjs";
 import { depuisApiGoogle, blocAvis, prioriteAvis } from "./lib/avis.mjs";
+import { extraireServices } from "./lib/services.mjs";
+import { rediger } from "./lib/redaction.mjs";
 
 const args = new Map(
   process.argv.slice(2).map((a) => {
@@ -138,6 +140,11 @@ async function principal() {
       rafraichir(fiche, detail);
       if (avecAvis) {
         fiche.avis_detail = blocAvis(depuisApiGoogle(detail.reviews), date);
+        const services = extraireServices(detail, date);
+        if (services) fiche.services = services;
+        if (detail.primaryTypeDisplayName?.text) fiche.categorie_gmb = detail.primaryTypeDisplayName.text;
+        // Le texte s'appuie sur ces données : réécrit, sauf retouche manuelle.
+        if (!fiche.redaction?.manuel) fiche.redaction = rediger(fiche, date);
         avisRestants--;
         compteurs.avis++;
       }

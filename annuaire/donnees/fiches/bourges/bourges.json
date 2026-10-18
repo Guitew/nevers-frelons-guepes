@@ -55,17 +55,17 @@
   },
   "source": "google-places",
   "redaction": {
+    "version": 2,
     "titre": "Bourges — Hébergement à Bourges",
-    "meta_titre": "Bourges, hébergement à Bourges",
-    "meta_description": "Bourges, hébergement à Bourges (49 Rue Gambon) : adresse, horaires et informations pratiques.",
-    "chapo": "Bourges exerce l'activité de hébergement au 49 Rue Gambon, à Bourges. Faute de site internet déclaré sur sa fiche Google, l'entreprise reste difficile à trouver en dehors des cartes. Cette page comble ce manque avec des données factuelles et datées.",
+    "meta_titre": "Bourges à Bourges : avis",
+    "meta_description": "Bourges, hébergement à Bourges : note Google 4,6/5 (50 avis), adresse et itinéraire.",
+    "chapo": "Bourges exerce l'activité de hébergement au 49 Rue Gambon, à Bourges. Note Google : 4,6 sur 5 pour 50 avis.",
     "sections": [
       {
         "id": "presentation",
         "titre": "Bourges en quelques mots",
         "paragraphes": [
-          "Hébergements font partie des activités les plus consultées localement sur mobile.",
-          "Un hébergement sans site web dépend entièrement des plateformes de réservation et de leurs commissions. Une page publique, stable et indexable rétablit un point de contact direct : téléphone, adresse exacte, capacité et conditions d'accueil."
+          "Sur Google, l'établissement est classé « Chambre d'hôtes », dans notre rubrique Hébergement."
         ]
       },
       {
@@ -73,23 +73,21 @@
         "titre": "Adresse et accès",
         "paragraphes": [
           "L'établissement est situé au 49 Rue Gambon, 18000 Bourges.",
-          "Coordonnées géographiques : 47.08595, 2.39333. Le lien d'itinéraire ci-dessous ouvre directement la navigation."
+          "Coordonnées GPS : 47.08595, 2.39333. Le bouton Itinéraire de cette page ouvre la navigation."
         ]
       },
       {
         "id": "contact",
         "titre": "Contacter Bourges",
         "paragraphes": [
-          "Aucun numéro de téléphone n'est déclaré sur la fiche Google de l'établissement : le contact se fait sur place, aux horaires indiqués.",
-          "Si vous dirigez cette entreprise, vous pouvez demander la correction ou le retrait de cette page à tout moment, sans justification."
+          "Aucun numéro de téléphone n'est déclaré sur la fiche Google de l'établissement : le contact se fait sur place, aux horaires indiqués."
         ]
       },
       {
         "id": "avis",
         "titre": "La réputation de Bourges",
         "paragraphes": [
-          "Au relevé du 3 octobre 2026, l'établissement affichait une note de 4,6 sur 5 sur Google, calculée à partir de 50 avis. Cette note évolue en permanence : elle est indiquée ici à titre d'information et n'est pas retraitée.",
-          "Les avis appartiennent à Google et se consultent sur la fiche d'origine, dont le lien figure sur cette page."
+          "Note de 4,6 sur 5 pour 50 avis Google au relevé du 10 octobre 2026. Les avis se consultent sur la fiche Google, dont le lien figure sur cette page."
         ]
       }
     ],
@@ -97,13 +95,9 @@
       {
         "q": "Où se trouve Bourges ?",
         "r": "Bourges se trouve 49 Rue Gambon, 18000 Bourges. Un lien d'itinéraire est disponible sur cette page."
-      },
-      {
-        "q": "Bourges a-t-il un site internet ?",
-        "r": "Non : aucune adresse de site web n'est déclarée sur la fiche Google de Bourges au 3 octobre 2026. Cette page tient lieu de référence publique en attendant, le cas échéant, la création d'un site propre à l'entreprise."
       }
     ],
-    "genere_le": "2026-10-03"
+    "genere_le": "2026-10-10"
   },
   "statut_google": "OPERATIONAL",
   "audience": {

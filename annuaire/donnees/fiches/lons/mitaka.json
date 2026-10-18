@@ -151,18 +151,18 @@
   },
   "source": "google-places",
   "redaction": {
+    "version": 2,
     "titre": "Mitaka — Restaurant à Lons",
-    "meta_titre": "Mitaka, restaurant à Lons",
-    "meta_description": "Mitaka, restaurant à Lons (2 Boulevard Charles de Gaulle) : adresse, horaires, téléphone et informations pratiques.",
-    "chapo": "Mitaka est un restaurant au 2 Boulevard Charles de Gaulle, à Lons. Aucune adresse web n'est renseignée sur sa fiche Google. Cette page rassemble donc, en un seul endroit stable, les informations que les clients recherchent avant de se déplacer.",
+    "meta_titre": "Mitaka à Lons : horaires, avis, téléphone",
+    "meta_description": "Mitaka, restaurant à Lons : horaires d'ouverture, note Google 4,5/5 (1319 avis), téléphone, adresse et itinéraire.",
+    "chapo": "Mitaka est un restaurant au 2 Boulevard Charles de Gaulle, à Lons. Ouvert tous les jours sauf le lundi au relevé du 9 octobre 2026. Téléphone : 05 59 05 19 59. Note Google : 4,5 sur 5 pour 1319 avis.",
     "sections": [
       {
         "id": "presentation",
         "titre": "Mitaka en quelques mots",
         "paragraphes": [
-          "À Lons, les recherches du type « restaurant près de chez moi » se concluent le plus souvent par un appel ou une visite directe.",
-          "Les restaurants figurent parmi les commerces les plus recherchés en ligne, et pourtant beaucoup n'exposent qu'une fiche Google sans site. Retrouver ici leur carte d'identité complète — adresse, horaires, téléphone, spécialités — aide les clients à réserver et aide l'établissement à exister ailleurs que sur une plateforme d'avis.",
-          "D'après le relevé du 2 octobre 2026, l'établissement est ouvert tous les jours sauf le lundi. Le détail jour par jour figure plus bas."
+          "Sur Google, l'établissement est classé « Restaurant de type buffet », dans notre rubrique Restaurant.",
+          "D'après le relevé du 9 octobre 2026, l'établissement est ouvert tous les jours sauf le lundi. Le détail jour par jour figure plus bas."
         ]
       },
       {
@@ -170,30 +170,32 @@
         "titre": "Adresse et accès",
         "paragraphes": [
           "L'établissement est situé au 2 Boulevard Charles de Gaulle, 64140 Lons.",
-          "Coordonnées géographiques : 43.30660, -0.40341. Le lien d'itinéraire ci-dessous ouvre directement la navigation."
+          "Coordonnées GPS : 43.30660, -0.40341. Le bouton Itinéraire de cette page ouvre la navigation."
         ]
       },
       {
         "id": "contact",
         "titre": "Contacter Mitaka",
         "paragraphes": [
-          "Le contact se fait par téléphone au 05 59 05 19 59. C'est le seul moyen de communication déclaré sur la fiche Google de l'entreprise, avec la visite sur place.",
-          "Si vous dirigez cette entreprise, vous pouvez demander la correction ou le retrait de cette page à tout moment, sans justification."
+          "Le contact se fait par téléphone au 05 59 05 19 59, ou directement sur place aux horaires d'ouverture."
         ]
       },
       {
         "id": "avis",
         "titre": "La réputation de Mitaka",
         "paragraphes": [
-          "Au relevé du 2 octobre 2026, l'établissement affichait une note de 4,4 sur 5 sur Google, calculée à partir de 1266 avis. Cette note évolue en permanence : elle est indiquée ici à titre d'information et n'est pas retraitée.",
-          "Les avis appartiennent à Google et se consultent sur la fiche d'origine, dont le lien figure sur cette page."
+          "Note de 4,5 sur 5 pour 1319 avis Google au relevé du 9 octobre 2026. Les avis se consultent sur la fiche Google, dont le lien figure sur cette page."
         ]
       }
     ],
     "faq": [
       {
         "q": "Quels sont les horaires de Mitaka ?",
-        "r": "Au relevé du 2 octobre 2026, Mitaka était ouvert tous les jours sauf le lundi. Dans le détail — lundi : fermé ; mardi : de 12 h à 14 h et de 19 h à 22 h ; mercredi : de 12 h à 14 h et de 19 h à 22 h ; jeudi : de 12 h à 14 h et de 19 h à 22 h ; vendredi : de 12 h à 14 h et de 19 h à 22 h ; samedi : de 12 h à 14 h et de 19 h à 22 h ; dimanche : de 12 h à 14 h et de 19 h à 22 h. Ces horaires peuvent changer : un appel préalable reste conseillé."
+        "r": "Au relevé du 9 octobre 2026, Mitaka était ouvert tous les jours sauf le lundi. Dans le détail — lundi : fermé ; mardi : de 12 h à 14 h et de 19 h à 22 h ; mercredi : de 12 h à 14 h et de 19 h à 22 h ; jeudi : de 12 h à 14 h et de 19 h à 22 h ; vendredi : de 12 h à 14 h et de 19 h à 22 h ; samedi : de 12 h à 14 h et de 19 h à 22 h ; dimanche : de 12 h à 14 h et de 19 h à 22 h. Ces horaires peuvent changer : un appel préalable reste conseillé."
+      },
+      {
+        "q": "Mitaka est-il ouvert le dimanche ?",
+        "r": "Oui : le dimanche, Mitaka est ouvert de 12 h à 14 h et de 19 h à 22 h (horaires relevés le 9 octobre 2026)."
       },
       {
         "q": "Où se trouve Mitaka ?",
@@ -204,15 +206,11 @@
         "r": "Par téléphone au 05 59 05 19 59, ou directement sur place aux heures d'ouverture."
       },
       {
-        "q": "Mitaka a-t-il un site internet ?",
-        "r": "Non : aucune adresse de site web n'est déclarée sur la fiche Google de Mitaka au 2 octobre 2026. Cette page tient lieu de référence publique en attendant, le cas échéant, la création d'un site propre à l'entreprise."
-      },
-      {
         "q": "Mitaka est-il accessible aux personnes à mobilité réduite ?",
         "r": "La fiche Google de l'établissement mentionne : « Entrée accessible en fauteuil roulant ». Cette information est déclarative ; en cas de doute, vérifiez par téléphone."
       }
     ],
-    "genere_le": "2026-10-02"
+    "genere_le": "2026-10-09"
   },
   "statut_google": "OPERATIONAL",
   "audience": {

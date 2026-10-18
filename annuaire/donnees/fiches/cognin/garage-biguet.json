@@ -135,18 +135,18 @@
   },
   "source": "google-places",
   "redaction": {
+    "version": 2,
     "titre": "Garage Biguet — Garage et automobile à Cognin",
-    "meta_titre": "Garage Biguet, garage et automobile à Cognin",
-    "meta_description": "Garage Biguet, garage et automobile à Cognin (7 Rue Vaugelas) : adresse, horaires, téléphone et informations pratiques.",
-    "chapo": "Garage Biguet figure parmi les établissements de la catégorie « Garage et automobile » recensés à Cognin. L'entreprise n'a pas de site web référencé sur sa fiche Google. Les éléments présentés ici — adresse, horaires, contact — proviennent de cette fiche et sont datés de leur relevé.",
+    "meta_titre": "Garage Biguet à Cognin : horaires, avis, téléphone",
+    "meta_description": "Garage Biguet, garage et automobile à Cognin : horaires d'ouverture, note Google 4,6/5 (85 avis), téléphone, adresse et itinéraire.",
+    "chapo": "Garage Biguet, garage et automobile au 7 Rue Vaugelas, à Cognin. Fermé le samedi et le dimanche au relevé du 12 octobre 2026. Téléphone : 04 79 62 30 28. Note Google : 4,6 sur 5 pour 85 avis.",
     "sections": [
       {
         "id": "presentation",
         "titre": "Garage Biguet en quelques mots",
         "paragraphes": [
-          "À Cognin, les recherches du type « garage et automobile près de chez moi » se concluent le plus souvent par un appel ou une visite directe.",
-          "Entretien, réparation, contrôle technique : l'automobiliste choisit d'abord un garage proche et disponible. Ces entreprises travaillent à flux tendu et délaissent presque toujours la création d'un site, malgré une demande de recherche locale considérable.",
-          "D'après le relevé du 28 septembre 2026, l'établissement est fermé le samedi et le dimanche. Le détail jour par jour figure plus bas."
+          "Sur Google, l'établissement est classé « Garage automobile », dans notre rubrique Garage et automobile.",
+          "D'après le relevé du 12 octobre 2026, l'établissement est fermé le samedi et le dimanche. Le détail jour par jour figure plus bas."
         ]
       },
       {
@@ -154,30 +154,32 @@
         "titre": "Adresse et accès",
         "paragraphes": [
           "L'établissement est situé au 7 Rue Vaugelas, 73160 Cognin.",
-          "Coordonnées géographiques : 45.57069, 5.89992. Le lien d'itinéraire ci-dessous ouvre directement la navigation."
+          "Coordonnées GPS : 45.57069, 5.89992. Le bouton Itinéraire de cette page ouvre la navigation."
         ]
       },
       {
         "id": "contact",
         "titre": "Contacter Garage Biguet",
         "paragraphes": [
-          "Le contact se fait par téléphone au 04 79 62 30 28. C'est le seul moyen de communication déclaré sur la fiche Google de l'entreprise, avec la visite sur place.",
-          "Si vous dirigez cette entreprise, vous pouvez demander la correction ou le retrait de cette page à tout moment, sans justification."
+          "Le contact se fait par téléphone au 04 79 62 30 28, ou directement sur place aux horaires d'ouverture."
         ]
       },
       {
         "id": "avis",
         "titre": "La réputation de Garage Biguet",
         "paragraphes": [
-          "Au relevé du 28 septembre 2026, l'établissement affichait une note de 4,6 sur 5 sur Google, calculée à partir de 85 avis. Cette note évolue en permanence : elle est indiquée ici à titre d'information et n'est pas retraitée.",
-          "Les avis appartiennent à Google et se consultent sur la fiche d'origine, dont le lien figure sur cette page."
+          "Note de 4,6 sur 5 pour 85 avis Google au relevé du 12 octobre 2026. Les avis se consultent sur la fiche Google, dont le lien figure sur cette page."
         ]
       }
     ],
     "faq": [
       {
         "q": "Quels sont les horaires de Garage Biguet ?",
-        "r": "Au relevé du 28 septembre 2026, Garage Biguet était fermé le samedi et le dimanche. Dans le détail — lundi : de 8 h à 12 h et de 14 h à 18 h ; mardi : de 8 h à 12 h et de 14 h à 18 h ; mercredi : de 8 h à 12 h et de 14 h à 18 h ; jeudi : de 8 h à 12 h et de 14 h à 18 h ; vendredi : de 8 h à 12 h ; samedi : fermé ; dimanche : fermé. Ces horaires peuvent changer : un appel préalable reste conseillé."
+        "r": "Au relevé du 12 octobre 2026, Garage Biguet était fermé le samedi et le dimanche. Dans le détail — lundi : de 8 h à 12 h et de 14 h à 18 h ; mardi : de 8 h à 12 h et de 14 h à 18 h ; mercredi : de 8 h à 12 h et de 14 h à 18 h ; jeudi : de 8 h à 12 h et de 14 h à 18 h ; vendredi : de 8 h à 12 h ; samedi : fermé ; dimanche : fermé. Ces horaires peuvent changer : un appel préalable reste conseillé."
+      },
+      {
+        "q": "Garage Biguet est-il ouvert le dimanche ?",
+        "r": "Non : d'après les horaires relevés le 12 octobre 2026, Garage Biguet est fermé le dimanche."
       },
       {
         "q": "Où se trouve Garage Biguet ?",
@@ -188,15 +190,11 @@
         "r": "Par téléphone au 04 79 62 30 28, ou directement sur place aux heures d'ouverture."
       },
       {
-        "q": "Garage Biguet a-t-il un site internet ?",
-        "r": "Non : aucune adresse de site web n'est déclarée sur la fiche Google de Garage Biguet au 28 septembre 2026. Cette page tient lieu de référence publique en attendant, le cas échéant, la création d'un site propre à l'entreprise."
-      },
-      {
         "q": "Garage Biguet est-il accessible aux personnes à mobilité réduite ?",
         "r": "La fiche Google de l'établissement mentionne : « Entrée accessible en fauteuil roulant ». Cette information est déclarative ; en cas de doute, vérifiez par téléphone."
       }
     ],
-    "genere_le": "2026-09-28"
+    "genere_le": "2026-10-12"
   },
   "statut_google": "OPERATIONAL",
   "audience": {

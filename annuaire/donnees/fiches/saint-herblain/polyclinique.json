@@ -59,17 +59,17 @@
   },
   "source": "google-places",
   "redaction": {
+    "version": 2,
     "titre": "Polyclinique — Médecin ou dentiste à Saint-Herblain",
-    "meta_titre": "Polyclinique, médecin ou dentiste à Saint-Herblain",
-    "meta_description": "Polyclinique, médecin ou dentiste à Saint-Herblain (2 Allée de la musique) : adresse, horaires et informations pratiques.",
-    "chapo": "Polyclinique est un médecin ou dentiste au 2 Allée de la musique, à Saint-Herblain. Aucune adresse web n'est renseignée sur sa fiche Google. Cette page rassemble donc, en un seul endroit stable, les informations que les clients recherchent avant de se déplacer.",
+    "meta_titre": "Polyclinique à Saint-Herblain : avis",
+    "meta_description": "Polyclinique, médecin ou dentiste à Saint-Herblain : note Google 4/5 (53 avis), adresse et itinéraire.",
+    "chapo": "Polyclinique est un médecin ou dentiste au 2 Allée de la musique, à Saint-Herblain. Note Google : 4 sur 5 pour 53 avis.",
     "sections": [
       {
         "id": "presentation",
         "titre": "Polyclinique en quelques mots",
         "paragraphes": [
-          "Médecins et dentistes font partie des activités les plus consultées localement sur mobile.",
-          "Les cabinets de santé publient rarement autre chose qu'une fiche Google. Les informations réellement utiles — secteur de conventionnement, accès aux personnes à mobilité réduite, mode de prise de rendez-vous — méritent une page stable et lisible, sans publicité ni intermédiaire."
+          "Sur Google, l'établissement est classé « Clinique », dans notre rubrique Médecin ou dentiste."
         ]
       },
       {
@@ -77,23 +77,21 @@
         "titre": "Adresse et accès",
         "paragraphes": [
           "L'établissement est situé au 2 Allée de la musique, 44800 Saint-Herblain.",
-          "Coordonnées géographiques : 47.22596, -1.61090. Le lien d'itinéraire ci-dessous ouvre directement la navigation."
+          "Coordonnées GPS : 47.22596, -1.61090. Le bouton Itinéraire de cette page ouvre la navigation."
         ]
       },
       {
         "id": "contact",
         "titre": "Contacter Polyclinique",
         "paragraphes": [
-          "Aucun numéro de téléphone n'est déclaré sur la fiche Google de l'établissement : le contact se fait sur place, aux horaires indiqués.",
-          "Si vous dirigez cette entreprise, vous pouvez demander la correction ou le retrait de cette page à tout moment, sans justification."
+          "Aucun numéro de téléphone n'est déclaré sur la fiche Google de l'établissement : le contact se fait sur place, aux horaires indiqués."
         ]
       },
       {
         "id": "avis",
         "titre": "La réputation de Polyclinique",
         "paragraphes": [
-          "Au relevé du 22 septembre 2026, l'établissement affichait une note de 4 sur 5 sur Google, calculée à partir de 51 avis. Cette note évolue en permanence : elle est indiquée ici à titre d'information et n'est pas retraitée.",
-          "Les avis appartiennent à Google et se consultent sur la fiche d'origine, dont le lien figure sur cette page."
+          "Note de 4 sur 5 pour 53 avis Google au relevé du 18 octobre 2026. Les avis se consultent sur la fiche Google, dont le lien figure sur cette page."
         ]
       }
     ],
@@ -103,15 +101,11 @@
         "r": "Polyclinique se trouve 2 All. de la musique, 44800 Saint-Herblain. Un lien d'itinéraire est disponible sur cette page."
       },
       {
-        "q": "Polyclinique a-t-il un site internet ?",
-        "r": "Non : aucune adresse de site web n'est déclarée sur la fiche Google de Polyclinique au 22 septembre 2026. Cette page tient lieu de référence publique en attendant, le cas échéant, la création d'un site propre à l'entreprise."
-      },
-      {
         "q": "Polyclinique est-il accessible aux personnes à mobilité réduite ?",
         "r": "La fiche Google de l'établissement mentionne : « Entrée accessible en fauteuil roulant ». Cette information est déclarative ; en cas de doute, vérifiez par téléphone."
       }
     ],
-    "genere_le": "2026-09-22"
+    "genere_le": "2026-10-18"
   },
   "statut_google": "OPERATIONAL",
   "audience": {

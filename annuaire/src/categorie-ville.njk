@@ -7,8 +7,8 @@ permalink: "{{ p.url }}index.html"
 layout: layouts/base.njk
 eleventyComputed:
   titre: "{{ p.categorie.pluriel }} à {{ p.ville.nom }}{% if p.numero > 1 %} — page {{ p.numero }}{% endif %}"
-  meta_titre: "{{ p.categorie.nom }} à {{ p.ville.nom }} : {{ p.fiches.length }} adresses | {{ site.nomCourt }}"
-  meta_description: "{{ p.categorie.pluriel }} à {{ p.ville.nom }} ({{ p.ville.code_postal }}) sans site internet : coordonnées, horaires d'ouverture et itinéraire."
+  meta_titre: "{{ p.categorie.pluriel }} à {{ p.ville.nom }} : {{ p.nombre }} adresse{% if p.nombre > 1 %}s{% endif %}, horaires et avis | {{ site.nomCourt }}"
+  meta_description: "{{ p.categorie.pluriel }} à {{ p.ville.nom }} ({{ p.ville.code_postal }}) : {{ p.nombre }} adresse{% if p.nombre > 1 %}s{% endif %} avec horaires d'ouverture, téléphone, note et avis Google, itinéraire{% if p.sousTypes.length > 1 %} — {% for t in p.sousTypes | limite(4) %}{{ t.libelle | lower }}{% if not loop.last %}, {% endif %}{% endfor %}{% endif %}."
 ---
 {% set ariane = [
   { titre: p.categorie.pluriel, url: "/" + p.categorie.slug + "/" },
@@ -21,13 +21,16 @@ eleventyComputed:
     <h1>{{ p.categorie.nom }} à {{ p.ville.nom }}</h1>
     {% if p.numero == 1 %}
     <p class="fiche__chapo">
-      {{ p.fiches.length | nombreFr }} établissement{% if p.fiches.length > 1 %}s{% endif %} de la catégorie
-      « {{ p.categorie.nom }} » à {{ p.ville.nom }}{% if p.ville.code_postal %} ({{ p.ville.code_postal }}){% endif %}
-      dont la fiche Google ne déclare aucun site internet.
+      {{ p.nombre | nombreFr }} {% if p.nombre > 1 %}{{ p.categorie.pluriel | lower }}{% else %}{{ p.categorie.nom | lower }}{% endif %}
+      à {{ p.ville.nom }}{% if p.ville.code_postal %} ({{ p.ville.code_postal }}){% endif %}{% if p.sousTypes.length > 1 %} :
+      {% for t in p.sousTypes %}{{ t.nombre }} {{ t.libelle | lower }}{% if not loop.last %}, {% endif %}{% endfor %}{% endif %}.
     </p>
-    <p>{{ p.categorie.resume }} Pour chacun, cette page renvoie vers une fiche détaillée : adresse
-    exacte, téléphone, horaires relevés sur Google et lien d'itinéraire. Les informations sont datées :
-    vous savez toujours de quand elles proviennent.</p>
+    <p>Pour chaque adresse : horaires d'ouverture, téléphone, note et avis Google, itinéraire.
+    Les établissements les plus commentés sont présentés en premier.</p>
+    {% if p.mieuxNotees.length %}
+    <p><strong>Les mieux notés à {{ p.ville.nom }}</strong> :
+      {% for f in p.mieuxNotees %}<a href="{{ f.url | url }}">{{ f.nom }}</a> ({{ f.note | noteFr }}/5, {{ f.avis | nombreFr }} avis){% if not loop.last %}, {% endif %}{% endfor %}.</p>
+    {% endif %}
     {% endif %}
   </header>
 
@@ -50,5 +53,15 @@ eleventyComputed:
   </section>
 </div>
 
+{%- if p.numero == 1 and p.mieuxNotees.length %}
+{%- set reponse = "" %}
+{%- for f in p.mieuxNotees %}{% set reponse = reponse + (", " if not loop.first else "") + f.nom + " (" + (f.note | noteFr) + "/5, " + (f.avis | nombreFr) + " avis)" %}{% endfor %}
+{%- set faqCouple = [{ q: "Quels sont les " + (p.categorie.pluriel | lower) + " les mieux notés à " + p.ville.nom + " ?", r: "D'après les notes Google relevées (au moins 10 avis) : " + reponse + ". Les notes évoluent : elles sont datées sur chaque fiche." }] %}
+<section class="contenu-texte faq" style="margin-top:2rem;">
+  <h2>Question fréquente</h2>
+  {% for q in faqCouple %}<details open><summary>{{ q.q }}</summary><p>{{ q.r }}</p></details>{% endfor %}
+</section>
+<script type="application/ld+json">{{ faqCouple | schemaFaq | jsonify | safe }}</script>
+{%- endif %}
 <script type="application/ld+json">{{ { url: p.url, titre: titre, description: meta_description, fiches: p.fiches } | schemaListe | jsonify | safe }}</script>
 <script type="application/ld+json">{{ ariane | schemaFil | jsonify | safe }}</script>

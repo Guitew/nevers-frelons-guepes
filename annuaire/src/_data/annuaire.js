@@ -33,6 +33,27 @@ function paginer(fiches, urlBase, contexte) {
   }));
 }
 
+/** Sous-types Google (« Restaurant chinois », « Pizzeria ») présents dans une liste, les plus fréquents d'abord. */
+function compterSousTypes(fiches) {
+  const compte = new Map();
+  for (const f of fiches) {
+    const libelle = (f.categorie_gmb || "").trim();
+    if (!libelle) continue;
+    compte.set(libelle, (compte.get(libelle) || 0) + 1);
+  }
+  return [...compte.entries()]
+    .map(([libelle, nombre]) => ({ libelle, nombre }))
+    .sort((a, b) => b.nombre - a.nombre || a.libelle.localeCompare(b.libelle, "fr"));
+}
+
+/** Les mieux notées d'une liste (au moins 10 avis, note décroissante). */
+function mieuxNotees(fiches, n = 3) {
+  return fiches
+    .filter((f) => f.note && (f.avis || 0) >= 10)
+    .sort((a, b) => b.note - a.note || (b.avis || 0) - (a.avis || 0))
+    .slice(0, n);
+}
+
 function enrichir(fiche) {
   const categorie = categorieParSlug(fiche.categorie);
   return {
@@ -105,13 +126,19 @@ export default function () {
   const couples = [];
   for (const c of categories) {
     for (const villeSlug of c.villes) {
-      const fiches = c.fiches.filter((f) => f.ville_slug === villeSlug);
+      // Les établissements les plus commentés d'abord : ce sont ceux que les
+      // visiteurs cherchent, et que Google explore en priorité.
+      const fiches = c.fiches
+        .filter((f) => f.ville_slug === villeSlug)
+        .sort((a, b) => (b.avis || 0) - (a.avis || 0) || a.nom.localeCompare(b.nom, "fr"));
       const ville = parVille.get(villeSlug);
       couples.push({
         categorie: c,
         ville: { slug: ville.slug, nom: ville.nom, code_postal: ville.code_postal },
         fiches,
         nombre: fiches.length,
+        sousTypes: compterSousTypes(fiches),
+        mieuxNotees: mieuxNotees(fiches),
         url: `/${c.slug}/${villeSlug}/`,
       });
     }
@@ -130,7 +157,7 @@ export default function () {
     paginer(v.fiches, `/villes/${v.slug}/`, { ville: v })
   );
   const pagesCouple = couples.flatMap((c) =>
-    paginer(c.fiches, c.url, { categorie: c.categorie, ville: c.ville })
+    paginer(c.fiches, c.url, { categorie: c.categorie, ville: c.ville, nombre: c.nombre, sousTypes: c.sousTypes, mieuxNotees: c.mieuxNotees })
   );
 
   // Nouveautés groupées par date de publication (Nunjucks ne sait pas

@@ -126,18 +126,18 @@
   },
   "source": "google-places",
   "redaction": {
+    "version": 2,
     "titre": "Cappadoce — Restaurant à Beauvais",
-    "meta_titre": "Cappadoce, restaurant à Beauvais",
-    "meta_description": "Cappadoce, restaurant à Beauvais (37 Rue de la Madeleine) : adresse, horaires, téléphone et informations pratiques.",
-    "chapo": "Cappadoce est un restaurant au 37 Rue de la Madeleine, à Beauvais. Aucune adresse web n'est renseignée sur sa fiche Google. Cette page rassemble donc, en un seul endroit stable, les informations que les clients recherchent avant de se déplacer.",
+    "meta_titre": "Cappadoce à Beauvais : horaires, avis, téléphone",
+    "meta_description": "Cappadoce, restaurant à Beauvais : horaires d'ouverture, note Google 4,4/5 (607 avis), téléphone, adresse et itinéraire.",
+    "chapo": "Cappadoce est un restaurant au 37 Rue de la Madeleine, à Beauvais. Ouvert tous les jours sauf le dimanche au relevé du 10 octobre 2026. Téléphone : 03 44 45 54 34. Note Google : 4,4 sur 5 pour 607 avis.",
     "sections": [
       {
         "id": "presentation",
         "titre": "Cappadoce en quelques mots",
         "paragraphes": [
-          "Restaurants font partie des activités les plus consultées localement sur mobile.",
-          "Les restaurants figurent parmi les commerces les plus recherchés en ligne, et pourtant beaucoup n'exposent qu'une fiche Google sans site. Retrouver ici leur carte d'identité complète — adresse, horaires, téléphone, spécialités — aide les clients à réserver et aide l'établissement à exister ailleurs que sur une plateforme d'avis.",
-          "D'après le relevé du 26 septembre 2026, l'établissement est ouvert tous les jours sauf le dimanche. Le détail jour par jour figure plus bas."
+          "Sur Google, l'établissement est classé « Kebab », dans notre rubrique Restaurant.",
+          "D'après le relevé du 10 octobre 2026, l'établissement est ouvert tous les jours sauf le dimanche. Le détail jour par jour figure plus bas."
         ]
       },
       {
@@ -145,30 +145,32 @@
         "titre": "Adresse et accès",
         "paragraphes": [
           "L'établissement est situé au 37 Rue de la Madeleine, 60000 Beauvais.",
-          "Coordonnées géographiques : 49.42911, 2.08508. Le lien d'itinéraire ci-dessous ouvre directement la navigation."
+          "Coordonnées GPS : 49.42911, 2.08508. Le bouton Itinéraire de cette page ouvre la navigation."
         ]
       },
       {
         "id": "contact",
         "titre": "Contacter Cappadoce",
         "paragraphes": [
-          "Le contact se fait par téléphone au 03 44 45 54 34. C'est le seul moyen de communication déclaré sur la fiche Google de l'entreprise, avec la visite sur place.",
-          "Si vous dirigez cette entreprise, vous pouvez demander la correction ou le retrait de cette page à tout moment, sans justification."
+          "Le contact se fait par téléphone au 03 44 45 54 34, ou directement sur place aux horaires d'ouverture."
         ]
       },
       {
         "id": "avis",
         "titre": "La réputation de Cappadoce",
         "paragraphes": [
-          "Au relevé du 26 septembre 2026, l'établissement affichait une note de 4,4 sur 5 sur Google, calculée à partir de 595 avis. Cette note évolue en permanence : elle est indiquée ici à titre d'information et n'est pas retraitée.",
-          "Les avis appartiennent à Google et se consultent sur la fiche d'origine, dont le lien figure sur cette page."
+          "Note de 4,4 sur 5 pour 607 avis Google au relevé du 10 octobre 2026. Les avis se consultent sur la fiche Google, dont le lien figure sur cette page."
         ]
       }
     ],
     "faq": [
       {
         "q": "Quels sont les horaires de Cappadoce ?",
-        "r": "Au relevé du 26 septembre 2026, Cappadoce était ouvert tous les jours sauf le dimanche. Dans le détail — lundi : de 11 h à 0 h ; mardi : de 11 h à 0 h ; mercredi : de 11 h à 0 h ; jeudi : de 11 h à 0 h ; vendredi : de 11 h à 0 h ; samedi : de 11 h à 23 h 40 ; dimanche : fermé. Ces horaires peuvent changer : un appel préalable reste conseillé."
+        "r": "Au relevé du 10 octobre 2026, Cappadoce était ouvert tous les jours sauf le dimanche. Dans le détail — lundi : de 11 h à 0 h ; mardi : de 11 h à 0 h ; mercredi : de 11 h à 0 h ; jeudi : de 11 h à 0 h ; vendredi : de 11 h à 0 h ; samedi : de 11 h à 23 h 40 ; dimanche : fermé. Ces horaires peuvent changer : un appel préalable reste conseillé."
+      },
+      {
+        "q": "Cappadoce est-il ouvert le dimanche ?",
+        "r": "Non : d'après les horaires relevés le 10 octobre 2026, Cappadoce est fermé le dimanche."
       },
       {
         "q": "Où se trouve Cappadoce ?",
@@ -179,15 +181,11 @@
         "r": "Par téléphone au 03 44 45 54 34, ou directement sur place aux heures d'ouverture."
       },
       {
-        "q": "Cappadoce a-t-il un site internet ?",
-        "r": "Non : aucune adresse de site web n'est déclarée sur la fiche Google de Cappadoce au 26 septembre 2026. Cette page tient lieu de référence publique en attendant, le cas échéant, la création d'un site propre à l'entreprise."
-      },
-      {
         "q": "Cappadoce est-il accessible aux personnes à mobilité réduite ?",
         "r": "La fiche Google de l'établissement mentionne : « Entrée accessible en fauteuil roulant ». Cette information est déclarative ; en cas de doute, vérifiez par téléphone."
       }
     ],
-    "genere_le": "2026-09-26"
+    "genere_le": "2026-10-10"
   },
   "statut_google": "OPERATIONAL",
   "audience": {

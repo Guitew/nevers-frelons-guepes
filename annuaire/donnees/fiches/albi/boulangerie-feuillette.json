@@ -147,18 +147,18 @@
   },
   "source": "google-places",
   "redaction": {
+    "version": 2,
     "titre": "Boulangerie Feuillette — Boulangerie-pâtisserie à Albi",
-    "meta_titre": "Boulangerie Feuillette, boulangerie-pâtisserie à Albi",
-    "meta_description": "Boulangerie Feuillette, boulangerie-pâtisserie à Albi (54 Avenue de Saint-Juéry) : adresse, horaires, téléphone et informations pratiques.",
-    "chapo": "Boulangerie Feuillette est une boulangerie-pâtisserie au 54 Avenue de Saint-Juéry, à Albi. Aucune adresse web n'est renseignée sur sa fiche Google. Cette page rassemble donc, en un seul endroit stable, les informations que les clients recherchent avant de se déplacer.",
+    "meta_titre": "Boulangerie Feuillette à Albi : horaires, avis, téléphone",
+    "meta_description": "Boulangerie Feuillette, boulangerie-pâtisserie à Albi : horaires d'ouverture, note Google 4,3/5 (692 avis), téléphone, adresse et itinéraire.",
+    "chapo": "Boulangerie Feuillette est une boulangerie-pâtisserie au 54 Avenue de Saint-Juéry, à Albi. Ouvert sept jours sur sept au relevé du 18 octobre 2026. Téléphone : 05 19 08 41 35. Note Google : 4,3 sur 5 pour 692 avis.",
     "sections": [
       {
         "id": "presentation",
         "titre": "Boulangerie Feuillette en quelques mots",
         "paragraphes": [
-          "Le choix d'une boulangerie-pâtisserie se joue sur trois critères : la proximité, les horaires et la facilité de contact.",
-          "L'artisanat de bouche vit du passage et du bouche-à-oreille : le site web passe souvent après le fournil. Les informations pratiques — jour de fermeture, heure de sortie du pain, spécialités — sont pourtant ce que les habitants cherchent le plus souvent depuis leur téléphone.",
-          "D'après le relevé du 18 septembre 2026, l'établissement est ouvert sept jours sur sept. Le détail jour par jour figure plus bas."
+          "Sur Google, l'établissement est classé « Boulangerie », dans notre rubrique Boulangerie-pâtisserie.",
+          "D'après le relevé du 18 octobre 2026, l'établissement est ouvert sept jours sur sept. Le détail jour par jour figure plus bas."
         ]
       },
       {
@@ -166,30 +166,32 @@
         "titre": "Adresse et accès",
         "paragraphes": [
           "L'établissement est situé au 54 Avenue de Saint-Juéry, 81000 Albi.",
-          "Coordonnées géographiques : 43.93408, 2.17471. Le lien d'itinéraire ci-dessous ouvre directement la navigation."
+          "Coordonnées GPS : 43.93408, 2.17471. Le bouton Itinéraire de cette page ouvre la navigation."
         ]
       },
       {
         "id": "contact",
         "titre": "Contacter Boulangerie Feuillette",
         "paragraphes": [
-          "Le contact se fait par téléphone au 05 19 08 41 35. C'est le seul moyen de communication déclaré sur la fiche Google de l'entreprise, avec la visite sur place.",
-          "Si vous dirigez cette entreprise, vous pouvez demander la correction ou le retrait de cette page à tout moment, sans justification."
+          "Le contact se fait par téléphone au 05 19 08 41 35, ou directement sur place aux horaires d'ouverture."
         ]
       },
       {
         "id": "avis",
         "titre": "La réputation de Boulangerie Feuillette",
         "paragraphes": [
-          "Au relevé du 18 septembre 2026, l'établissement affichait une note de 4,2 sur 5 sur Google, calculée à partir de 633 avis. Cette note évolue en permanence : elle est indiquée ici à titre d'information et n'est pas retraitée.",
-          "Les avis appartiennent à Google et se consultent sur la fiche d'origine, dont le lien figure sur cette page."
+          "Note de 4,3 sur 5 pour 692 avis Google au relevé du 18 octobre 2026. Les avis se consultent sur la fiche Google, dont le lien figure sur cette page."
         ]
       }
     ],
     "faq": [
       {
         "q": "Quels sont les horaires de Boulangerie Feuillette ?",
-        "r": "Au relevé du 18 septembre 2026, Boulangerie Feuillette était ouvert sept jours sur sept. Dans le détail — lundi : de 7 h à 20 h ; mardi : de 7 h à 20 h ; mercredi : de 7 h à 20 h ; jeudi : de 7 h à 20 h ; vendredi : de 7 h à 20 h ; samedi : de 7 h à 20 h ; dimanche : de 7 h à 20 h. Ces horaires peuvent changer : un appel préalable reste conseillé."
+        "r": "Au relevé du 18 octobre 2026, Boulangerie Feuillette était ouvert sept jours sur sept. Dans le détail — lundi : de 7 h à 20 h ; mardi : de 7 h à 20 h ; mercredi : de 7 h à 20 h ; jeudi : de 7 h à 20 h ; vendredi : de 7 h à 20 h ; samedi : de 7 h à 20 h ; dimanche : de 7 h à 20 h. Ces horaires peuvent changer : un appel préalable reste conseillé."
+      },
+      {
+        "q": "Boulangerie Feuillette est-il ouvert le dimanche ?",
+        "r": "Oui : le dimanche, Boulangerie Feuillette est ouvert de 7 h à 20 h (horaires relevés le 18 octobre 2026)."
       },
       {
         "q": "Où se trouve Boulangerie Feuillette ?",
@@ -200,15 +202,11 @@
         "r": "Par téléphone au 05 19 08 41 35, ou directement sur place aux heures d'ouverture."
       },
       {
-        "q": "Boulangerie Feuillette a-t-il un site internet ?",
-        "r": "Non : aucune adresse de site web n'est déclarée sur la fiche Google de Boulangerie Feuillette au 18 septembre 2026. Cette page tient lieu de référence publique en attendant, le cas échéant, la création d'un site propre à l'entreprise."
-      },
-      {
         "q": "Boulangerie Feuillette est-il accessible aux personnes à mobilité réduite ?",
         "r": "La fiche Google de l'établissement mentionne : « Entrée accessible en fauteuil roulant ». Cette information est déclarative ; en cas de doute, vérifiez par téléphone."
       }
     ],
-    "genere_le": "2026-09-18"
+    "genere_le": "2026-10-18"
   },
   "statut_google": "OPERATIONAL",
   "audience": {

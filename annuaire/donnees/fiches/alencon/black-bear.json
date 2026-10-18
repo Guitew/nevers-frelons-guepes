@@ -105,7 +105,7 @@
   ],
   "lien_google": "https://maps.google.com/?cid=7896782684277590218&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
   "site_web_gmb": null,
-  "statut": "retiree",
+  "statut": "publiee",
   "backlink": {
     "etat": "absent",
     "premiere_detection": null,
@@ -120,13 +120,7 @@
     "tentatives": 1,
     "date_email": "2026-09-02"
   },
-  "retrait": {
-    "mode": "410",
-    "cible": null,
-    "date": "2026-10-18",
-    "motif": "page non indexée par Google 46 jours après sa mise en ligne (Détectée, actuellement non indexée)",
-    "cause": "non-indexee"
-  },
+  "retrait": null,
   "dates": {
     "collecte": "2026-09-02",
     "publication": "2026-09-02",
@@ -134,18 +128,18 @@
   },
   "source": "google-places",
   "redaction": {
+    "version": 2,
     "titre": "Black Bear — Café ou bar à Alençon",
-    "meta_titre": "Black Bear, café ou bar à Alençon",
-    "meta_description": "Black Bear, café ou bar à Alençon (31 Rue du Pont Neuf) : adresse, horaires, téléphone et informations pratiques.",
-    "chapo": "Black Bear exerce l'activité de café ou bar au 31 Rue du Pont Neuf, à Alençon. Faute de site internet déclaré sur sa fiche Google, l'entreprise reste difficile à trouver en dehors des cartes. Cette page comble ce manque avec des données factuelles et datées.",
+    "meta_titre": "Black Bear à Alençon : horaires, avis, téléphone",
+    "meta_description": "Black Bear, café ou bar à Alençon : horaires d'ouverture, note Google 4,5/5 (290 avis), téléphone, adresse et itinéraire.",
+    "chapo": "Black Bear exerce l'activité de café ou bar au 31 Rue du Pont Neuf, à Alençon. Ouvert sept jours sur sept au relevé du 18 octobre 2026. Téléphone : 06 14 09 42 83. Note Google : 4,5 sur 5 pour 290 avis.",
     "sections": [
       {
         "id": "presentation",
         "titre": "Black Bear en quelques mots",
         "paragraphes": [
-          "Le choix d'un café ou bar se joue sur trois critères : la proximité, les horaires et la facilité de contact.",
-          "Les cafés et bars sont des repères de vie locale rarement dotés d'un site. Horaires réels, terrasse, retransmissions sportives, concerts : autant de détails qui décident d'une sortie et qui n'apparaissent nulle part ailleurs de façon lisible.",
-          "D'après le relevé du 2 septembre 2026, l'établissement est ouvert sept jours sur sept. Le détail jour par jour figure plus bas."
+          "Sur Google, l'établissement est classé « Bar », dans notre rubrique Café ou bar.",
+          "D'après le relevé du 18 octobre 2026, l'établissement est ouvert sept jours sur sept. Le détail jour par jour figure plus bas."
         ]
       },
       {
@@ -153,30 +147,32 @@
         "titre": "Adresse et accès",
         "paragraphes": [
           "L'établissement est situé au 31 Rue du Pont Neuf, 61000 Alençon.",
-          "Coordonnées géographiques : 48.42856, 0.08877. Le lien d'itinéraire ci-dessous ouvre directement la navigation."
+          "Coordonnées GPS : 48.42856, 0.08877. Le bouton Itinéraire de cette page ouvre la navigation."
         ]
       },
       {
         "id": "contact",
         "titre": "Contacter Black Bear",
         "paragraphes": [
-          "Le contact se fait par téléphone au 06 14 09 42 83. C'est le seul moyen de communication déclaré sur la fiche Google de l'entreprise, avec la visite sur place.",
-          "Si vous dirigez cette entreprise, vous pouvez demander la correction ou le retrait de cette page à tout moment, sans justification."
+          "Le contact se fait par téléphone au 06 14 09 42 83, ou directement sur place aux horaires d'ouverture."
         ]
       },
       {
         "id": "avis",
         "titre": "La réputation de Black Bear",
         "paragraphes": [
-          "Au relevé du 2 septembre 2026, l'établissement affichait une note de 4,5 sur 5 sur Google, calculée à partir de 287 avis. Cette note évolue en permanence : elle est indiquée ici à titre d'information et n'est pas retraitée.",
-          "Les avis appartiennent à Google et se consultent sur la fiche d'origine, dont le lien figure sur cette page."
+          "Note de 4,5 sur 5 pour 290 avis Google au relevé du 18 octobre 2026. Les avis se consultent sur la fiche Google, dont le lien figure sur cette page."
         ]
       }
     ],
     "faq": [
       {
         "q": "Quels sont les horaires de Black Bear ?",
-        "r": "Au relevé du 2 septembre 2026, Black Bear était ouvert sept jours sur sept. Dans le détail — lundi : de 16 h à 23 h ; mardi : de 16 h à 23 h ; mercredi : de 16 h à 23 h ; jeudi : de 16 h à 1 h ; vendredi : de 16 h à 1 h ; samedi : de 16 h à 1 h ; dimanche : de 16 h à 23 h. Ces horaires peuvent changer : un appel préalable reste conseillé."
+        "r": "Au relevé du 18 octobre 2026, Black Bear était ouvert sept jours sur sept. Dans le détail — lundi : de 16 h à 23 h ; mardi : de 16 h à 23 h ; mercredi : de 16 h à 23 h ; jeudi : de 16 h à 1 h ; vendredi : de 16 h à 1 h ; samedi : de 16 h à 1 h ; dimanche : de 16 h à 23 h. Ces horaires peuvent changer : un appel préalable reste conseillé."
+      },
+      {
+        "q": "Black Bear est-il ouvert le dimanche ?",
+        "r": "Oui : le dimanche, Black Bear est ouvert de 16 h à 23 h (horaires relevés le 18 octobre 2026)."
       },
       {
         "q": "Où se trouve Black Bear ?",
@@ -187,15 +183,11 @@
         "r": "Par téléphone au 06 14 09 42 83, ou directement sur place aux heures d'ouverture."
       },
       {
-        "q": "Black Bear a-t-il un site internet ?",
-        "r": "Non : aucune adresse de site web n'est déclarée sur la fiche Google de Black Bear au 2 septembre 2026. Cette page tient lieu de référence publique en attendant, le cas échéant, la création d'un site propre à l'entreprise."
-      },
-      {
         "q": "Black Bear est-il accessible aux personnes à mobilité réduite ?",
         "r": "La fiche Google de l'établissement mentionne : « Entrée accessible en fauteuil roulant ». Cette information est déclarative ; en cas de doute, vérifiez par téléphone."
       }
     ],
-    "genere_le": "2026-09-02"
+    "genere_le": "2026-10-18"
   },
   "statut_google": "OPERATIONAL",
   "audience": {

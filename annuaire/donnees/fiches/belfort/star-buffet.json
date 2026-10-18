@@ -161,18 +161,18 @@
   },
   "source": "google-places",
   "redaction": {
+    "version": 2,
     "titre": "Star Buffet — Restaurant à Belfort",
-    "meta_titre": "Star Buffet, restaurant à Belfort",
-    "meta_description": "Star Buffet, restaurant à Belfort (27 avenue du capitaine Laurencie) : adresse, horaires, téléphone et informations pratiques.",
-    "chapo": "Cette fiche présente Star Buffet, un restaurant au 27 avenue du capitaine Laurencie, à Belfort. Son établissement ne déclare aucun site internet sur sa fiche Google : les informations ci-dessous en tiennent lieu de référence publique, vérifiable et accessible à tous.",
+    "meta_titre": "Star Buffet à Belfort : horaires, avis, téléphone",
+    "meta_description": "Star Buffet, restaurant à Belfort : horaires d'ouverture, note Google 4,1/5 (354 avis), téléphone, adresse et itinéraire.",
+    "chapo": "Cette fiche présente Star Buffet, un restaurant au 27 avenue du capitaine Laurencie, à Belfort. Ouvert sept jours sur sept au relevé du 9 octobre 2026. Téléphone : 06 52 52 96 56. Note Google : 4,1 sur 5 pour 354 avis.",
     "sections": [
       {
         "id": "presentation",
         "titre": "Star Buffet en quelques mots",
         "paragraphes": [
-          "Restaurants font partie des activités les plus consultées localement sur mobile.",
-          "Les restaurants figurent parmi les commerces les plus recherchés en ligne, et pourtant beaucoup n'exposent qu'une fiche Google sans site. Retrouver ici leur carte d'identité complète — adresse, horaires, téléphone, spécialités — aide les clients à réserver et aide l'établissement à exister ailleurs que sur une plateforme d'avis.",
-          "D'après le relevé du 26 septembre 2026, l'établissement est ouvert sept jours sur sept. Le détail jour par jour figure plus bas."
+          "Sur Google, l'établissement est classé « Restaurant de type buffet », dans notre rubrique Restaurant.",
+          "D'après le relevé du 9 octobre 2026, l'établissement est ouvert sept jours sur sept. Le détail jour par jour figure plus bas."
         ]
       },
       {
@@ -180,30 +180,32 @@
         "titre": "Adresse et accès",
         "paragraphes": [
           "L'établissement est situé au 27 avenue du capitaine Laurencie, 90000 Belfort.",
-          "Coordonnées géographiques : 47.63897, 6.87620. Le lien d'itinéraire ci-dessous ouvre directement la navigation."
+          "Coordonnées GPS : 47.63897, 6.87620. Le bouton Itinéraire de cette page ouvre la navigation."
         ]
       },
       {
         "id": "contact",
         "titre": "Contacter Star Buffet",
         "paragraphes": [
-          "Le contact se fait par téléphone au 06 52 52 96 56. C'est le seul moyen de communication déclaré sur la fiche Google de l'entreprise, avec la visite sur place.",
-          "Si vous dirigez cette entreprise, vous pouvez demander la correction ou le retrait de cette page à tout moment, sans justification."
+          "Le contact se fait par téléphone au 06 52 52 96 56, ou directement sur place aux horaires d'ouverture."
         ]
       },
       {
         "id": "avis",
         "titre": "La réputation de Star Buffet",
         "paragraphes": [
-          "Au relevé du 26 septembre 2026, l'établissement affichait une note de 4,1 sur 5 sur Google, calculée à partir de 348 avis. Cette note évolue en permanence : elle est indiquée ici à titre d'information et n'est pas retraitée.",
-          "Les avis appartiennent à Google et se consultent sur la fiche d'origine, dont le lien figure sur cette page."
+          "Note de 4,1 sur 5 pour 354 avis Google au relevé du 9 octobre 2026. Les avis se consultent sur la fiche Google, dont le lien figure sur cette page."
         ]
       }
     ],
     "faq": [
       {
         "q": "Quels sont les horaires de Star Buffet ?",
-        "r": "Au relevé du 26 septembre 2026, Star Buffet était ouvert sept jours sur sept. Dans le détail — lundi : de 11 h 45 à 14 h et de 18 h 45 à 22 h ; mardi : de 11 h 45 à 14 h et de 18 h 45 à 22 h ; mercredi : de 11 h 45 à 14 h et de 18 h 45 à 22 h ; jeudi : de 11 h 45 à 14 h et de 18 h 45 à 22 h ; vendredi : de 11 h 45 à 14 h et de 18 h 45 à 22 h ; samedi : de 11 h 45 à 14 h et de 18 h 45 à 22 h ; dimanche : de 11 h 45 à 14 h et de 18 h 45 à 22 h. Ces horaires peuvent changer : un appel préalable reste conseillé."
+        "r": "Au relevé du 9 octobre 2026, Star Buffet était ouvert sept jours sur sept. Dans le détail — lundi : de 11 h 45 à 14 h et de 18 h 45 à 22 h ; mardi : de 11 h 45 à 14 h et de 18 h 45 à 22 h ; mercredi : de 11 h 45 à 14 h et de 18 h 45 à 22 h ; jeudi : de 11 h 45 à 14 h et de 18 h 45 à 22 h ; vendredi : de 11 h 45 à 14 h et de 18 h 45 à 22 h ; samedi : de 11 h 45 à 14 h et de 18 h 45 à 22 h ; dimanche : de 11 h 45 à 14 h et de 18 h 45 à 22 h. Ces horaires peuvent changer : un appel préalable reste conseillé."
+      },
+      {
+        "q": "Star Buffet est-il ouvert le dimanche ?",
+        "r": "Oui : le dimanche, Star Buffet est ouvert de 11 h 45 à 14 h et de 18 h 45 à 22 h (horaires relevés le 9 octobre 2026)."
       },
       {
         "q": "Où se trouve Star Buffet ?",
@@ -214,15 +216,11 @@
         "r": "Par téléphone au 06 52 52 96 56, ou directement sur place aux heures d'ouverture."
       },
       {
-        "q": "Star Buffet a-t-il un site internet ?",
-        "r": "Non : aucune adresse de site web n'est déclarée sur la fiche Google de Star Buffet au 26 septembre 2026. Cette page tient lieu de référence publique en attendant, le cas échéant, la création d'un site propre à l'entreprise."
-      },
-      {
         "q": "Star Buffet est-il accessible aux personnes à mobilité réduite ?",
         "r": "La fiche Google de l'établissement mentionne : « Entrée accessible en fauteuil roulant ». Cette information est déclarative ; en cas de doute, vérifiez par téléphone."
       }
     ],
-    "genere_le": "2026-09-26"
+    "genere_le": "2026-10-09"
   },
   "statut_google": "OPERATIONAL",
   "audience": {

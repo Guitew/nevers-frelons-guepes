@@ -121,18 +121,18 @@
   },
   "source": "google-places",
   "redaction": {
+    "version": 2,
     "titre": "Global Synergies — Transport et déménagement à Avignon",
-    "meta_titre": "Global Synergies, transport et déménagement à Avignon",
-    "meta_description": "Global Synergies, transport et déménagement à Avignon (545 Chemin de la Sacristie) : adresse, horaires, téléphone et informations pratiques.",
-    "chapo": "Global Synergies est un transport et déménagement au 545 Chemin de la Sacristie, à Avignon. Aucune adresse web n'est renseignée sur sa fiche Google. Cette page rassemble donc, en un seul endroit stable, les informations que les clients recherchent avant de se déplacer.",
+    "meta_titre": "Global Synergies à Avignon : horaires, avis, téléphone",
+    "meta_description": "Global Synergies, transport et déménagement à Avignon : horaires d'ouverture, note Google 3,6/5 (16 avis), téléphone, adresse et itinéraire.",
+    "chapo": "Global Synergies est un transport et déménagement au 545 Chemin de la Sacristie, à Avignon. Fermé le samedi et le dimanche au relevé du 12 octobre 2026. Téléphone : 04 90 31 13 74. Note Google : 3,6 sur 5 pour 16 avis.",
     "sections": [
       {
         "id": "presentation",
         "titre": "Global Synergies en quelques mots",
         "paragraphes": [
-          "À Avignon, les recherches du type « transport et déménagement près de chez moi » se concluent le plus souvent par un appel ou une visite directe.",
-          "Déménagement, course urgente, transport de personnes : des services décidés rapidement et comparés sur la disponibilité. La fiche rassemble la zone couverte, les moyens et le contact direct, sans passer par une place de marché.",
-          "D'après le relevé du 29 septembre 2026, l'établissement est fermé le samedi et le dimanche. Le détail jour par jour figure plus bas."
+          "Sur Google, l'établissement est classé « Entreprise de déménagement », dans notre rubrique Transport et déménagement.",
+          "D'après le relevé du 12 octobre 2026, l'établissement est fermé le samedi et le dimanche. Le détail jour par jour figure plus bas."
         ]
       },
       {
@@ -140,30 +140,32 @@
         "titre": "Adresse et accès",
         "paragraphes": [
           "L'établissement est situé au 545 Chemin de la Sacristie, 84140 Avignon.",
-          "Coordonnées géographiques : 43.94400, 4.86151. Le lien d'itinéraire ci-dessous ouvre directement la navigation."
+          "Coordonnées GPS : 43.94400, 4.86151. Le bouton Itinéraire de cette page ouvre la navigation."
         ]
       },
       {
         "id": "contact",
         "titre": "Contacter Global Synergies",
         "paragraphes": [
-          "Le contact se fait par téléphone au 04 90 31 13 74. C'est le seul moyen de communication déclaré sur la fiche Google de l'entreprise, avec la visite sur place.",
-          "Si vous dirigez cette entreprise, vous pouvez demander la correction ou le retrait de cette page à tout moment, sans justification."
+          "Le contact se fait par téléphone au 04 90 31 13 74, ou directement sur place aux horaires d'ouverture."
         ]
       },
       {
         "id": "avis",
         "titre": "La réputation de Global Synergies",
         "paragraphes": [
-          "Au relevé du 29 septembre 2026, l'établissement affichait une note de 3,6 sur 5 sur Google, calculée à partir de 16 avis. Cette note évolue en permanence : elle est indiquée ici à titre d'information et n'est pas retraitée.",
-          "Les avis appartiennent à Google et se consultent sur la fiche d'origine, dont le lien figure sur cette page."
+          "Note de 3,6 sur 5 pour 16 avis Google au relevé du 12 octobre 2026. Les avis se consultent sur la fiche Google, dont le lien figure sur cette page."
         ]
       }
     ],
     "faq": [
       {
         "q": "Quels sont les horaires de Global Synergies ?",
-        "r": "Au relevé du 29 septembre 2026, Global Synergies était fermé le samedi et le dimanche. Dans le détail — lundi : de 9 h à 18 h ; mardi : de 9 h à 18 h ; mercredi : de 9 h à 18 h ; jeudi : de 9 h à 18 h ; vendredi : de 9 h à 18 h ; samedi : fermé ; dimanche : fermé. Ces horaires peuvent changer : un appel préalable reste conseillé."
+        "r": "Au relevé du 12 octobre 2026, Global Synergies était fermé le samedi et le dimanche. Dans le détail — lundi : de 9 h à 18 h ; mardi : de 9 h à 18 h ; mercredi : de 9 h à 18 h ; jeudi : de 9 h à 18 h ; vendredi : de 9 h à 18 h ; samedi : fermé ; dimanche : fermé. Ces horaires peuvent changer : un appel préalable reste conseillé."
+      },
+      {
+        "q": "Global Synergies est-il ouvert le dimanche ?",
+        "r": "Non : d'après les horaires relevés le 12 octobre 2026, Global Synergies est fermé le dimanche."
       },
       {
         "q": "Où se trouve Global Synergies ?",
@@ -174,15 +176,11 @@
         "r": "Par téléphone au 04 90 31 13 74, ou directement sur place aux heures d'ouverture."
       },
       {
-        "q": "Global Synergies a-t-il un site internet ?",
-        "r": "Non : aucune adresse de site web n'est déclarée sur la fiche Google de Global Synergies au 29 septembre 2026. Cette page tient lieu de référence publique en attendant, le cas échéant, la création d'un site propre à l'entreprise."
-      },
-      {
         "q": "Global Synergies est-il accessible aux personnes à mobilité réduite ?",
         "r": "La fiche Google de l'établissement mentionne : « Entrée accessible en fauteuil roulant ». Cette information est déclarative ; en cas de doute, vérifiez par téléphone."
       }
     ],
-    "genere_le": "2026-09-29"
+    "genere_le": "2026-10-12"
   },
   "statut_google": "OPERATIONAL",
   "audience": {

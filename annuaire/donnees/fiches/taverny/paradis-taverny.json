@@ -159,18 +159,17 @@
   },
   "source": "google-places",
   "redaction": {
+    "version": 2,
     "titre": "Paradis Taverny — Restaurant à Taverny",
-    "meta_titre": "Paradis Taverny, restaurant à Taverny",
-    "meta_description": "Paradis Taverny, restaurant à Taverny (Rue Théroigne de Méricourt) : adresse, horaires, téléphone et informations pratiques.",
-    "chapo": "Cette fiche présente Paradis Taverny, un restaurant au Rue Théroigne de Méricourt, à Taverny. Son établissement ne déclare aucun site internet sur sa fiche Google : les informations ci-dessous en tiennent lieu de référence publique, vérifiable et accessible à tous.",
+    "meta_titre": "Paradis Taverny à Taverny : horaires, avis, téléphone",
+    "meta_description": "Paradis Taverny, restaurant à Taverny : horaires d'ouverture, note Google 4,6/5 (5020 avis), téléphone, adresse et itinéraire.",
+    "chapo": "Cette fiche présente Paradis Taverny, un restaurant au Rue Théroigne de Méricourt, à Taverny. Ouvert sept jours sur sept au relevé du 14 octobre 2026. Téléphone : 01 86 22 29 88. Note Google : 4,6 sur 5 pour 5020 avis.",
     "sections": [
       {
         "id": "presentation",
         "titre": "Paradis Taverny en quelques mots",
         "paragraphes": [
-          "Restaurants font partie des activités les plus consultées localement sur mobile.",
-          "Les restaurants figurent parmi les commerces les plus recherchés en ligne, et pourtant beaucoup n'exposent qu'une fiche Google sans site. Retrouver ici leur carte d'identité complète — adresse, horaires, téléphone, spécialités — aide les clients à réserver et aide l'établissement à exister ailleurs que sur une plateforme d'avis.",
-          "D'après le relevé du 6 septembre 2026, l'établissement est ouvert sept jours sur sept. Le détail jour par jour figure plus bas."
+          "D'après le relevé du 14 octobre 2026, l'établissement est ouvert sept jours sur sept. Le détail jour par jour figure plus bas."
         ]
       },
       {
@@ -178,30 +177,32 @@
         "titre": "Adresse et accès",
         "paragraphes": [
           "L'établissement est situé au Rue Théroigne de Méricourt, 95150 Taverny.",
-          "Coordonnées géographiques : 49.01485, 2.21970. Le lien d'itinéraire ci-dessous ouvre directement la navigation."
+          "Coordonnées GPS : 49.01485, 2.21970. Le bouton Itinéraire de cette page ouvre la navigation."
         ]
       },
       {
         "id": "contact",
         "titre": "Contacter Paradis Taverny",
         "paragraphes": [
-          "Le contact se fait par téléphone au 01 86 22 29 88. C'est le seul moyen de communication déclaré sur la fiche Google de l'entreprise, avec la visite sur place.",
-          "Si vous dirigez cette entreprise, vous pouvez demander la correction ou le retrait de cette page à tout moment, sans justification."
+          "Le contact se fait par téléphone au 01 86 22 29 88, ou directement sur place aux horaires d'ouverture."
         ]
       },
       {
         "id": "avis",
         "titre": "La réputation de Paradis Taverny",
         "paragraphes": [
-          "Au relevé du 6 septembre 2026, l'établissement affichait une note de 4,6 sur 5 sur Google, calculée à partir de 4819 avis. Cette note évolue en permanence : elle est indiquée ici à titre d'information et n'est pas retraitée.",
-          "Les avis appartiennent à Google et se consultent sur la fiche d'origine, dont le lien figure sur cette page."
+          "Note de 4,6 sur 5 pour 5020 avis Google au relevé du 14 octobre 2026. Les avis se consultent sur la fiche Google, dont le lien figure sur cette page."
         ]
       }
     ],
     "faq": [
       {
         "q": "Quels sont les horaires de Paradis Taverny ?",
-        "r": "Au relevé du 6 septembre 2026, Paradis Taverny était ouvert sept jours sur sept. Dans le détail — lundi : de 11 h 55 à 14 h 30 et de 18 h 55 à 22 h 30 ; mardi : de 11 h 55 à 14 h 30 et de 18 h 55 à 22 h 30 ; mercredi : de 11 h 55 à 14 h 30 et de 18 h 55 à 22 h 30 ; jeudi : de 11 h 55 à 14 h 30 et de 18 h 55 à 22 h 30 ; vendredi : de 11 h 55 à 14 h 30 et de 18 h 30 à 23 h ; samedi : de 11 h 55 à 15 h et de 18 h 30 à 23 h ; dimanche : de 11 h 55 à 15 h et de 18 h 55 à 22 h 30. Ces horaires peuvent changer : un appel préalable reste conseillé."
+        "r": "Au relevé du 14 octobre 2026, Paradis Taverny était ouvert sept jours sur sept. Dans le détail — lundi : de 11 h 55 à 14 h 30 et de 18 h 55 à 22 h 30 ; mardi : de 11 h 55 à 14 h 30 et de 18 h 55 à 22 h 30 ; mercredi : de 11 h 55 à 14 h 30 et de 18 h 55 à 22 h 30 ; jeudi : de 11 h 55 à 14 h 30 et de 18 h 55 à 22 h 30 ; vendredi : de 11 h 55 à 14 h 30 et de 18 h 30 à 23 h ; samedi : de 11 h 55 à 15 h et de 18 h 30 à 23 h ; dimanche : de 11 h 55 à 15 h et de 18 h 55 à 22 h 30. Ces horaires peuvent changer : un appel préalable reste conseillé."
+      },
+      {
+        "q": "Paradis Taverny est-il ouvert le dimanche ?",
+        "r": "Oui : le dimanche, Paradis Taverny est ouvert de 11 h 55 à 15 h et de 18 h 55 à 22 h 30 (horaires relevés le 14 octobre 2026)."
       },
       {
         "q": "Où se trouve Paradis Taverny ?",
@@ -212,15 +213,11 @@
         "r": "Par téléphone au 01 86 22 29 88, ou directement sur place aux heures d'ouverture."
       },
       {
-        "q": "Paradis Taverny a-t-il un site internet ?",
-        "r": "Non : aucune adresse de site web n'est déclarée sur la fiche Google de Paradis Taverny au 6 septembre 2026. Cette page tient lieu de référence publique en attendant, le cas échéant, la création d'un site propre à l'entreprise."
-      },
-      {
         "q": "Paradis Taverny est-il accessible aux personnes à mobilité réduite ?",
         "r": "La fiche Google de l'établissement mentionne : « Entrée accessible en fauteuil roulant ». Cette information est déclarative ; en cas de doute, vérifiez par téléphone."
       }
     ],
-    "genere_le": "2026-09-06"
+    "genere_le": "2026-10-14"
   },
   "statut_google": "OPERATIONAL",
   "audience": {

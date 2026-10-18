@@ -96,18 +96,18 @@
   },
   "source": "google-places",
   "redaction": {
+    "version": 2,
     "titre": "Saint-Pierre lavage — Garage et automobile à Saint-Pierre-des-Corps",
-    "meta_titre": "Saint-Pierre lavage, garage et automobile à…",
-    "meta_description": "Saint-Pierre lavage, garage et automobile à Saint-Pierre-des-Corps (79 -93 Rue des Ateliers) : adresse, horaires, téléphone et informations pratiques.",
-    "chapo": "Saint-Pierre lavage exerce l'activité de garage et automobile au 79 -93 Rue des Ateliers, à Saint-Pierre-des-Corps. Faute de site internet déclaré sur sa fiche Google, l'entreprise reste difficile à trouver en dehors des cartes. Cette page comble ce manque avec des données factuelles et datées.",
+    "meta_titre": "Saint-Pierre lavage : horaires, avis, téléphone",
+    "meta_description": "Saint-Pierre lavage, garage et automobile à Saint-Pierre-des-Corps : horaires d'ouverture, note Google 3,9/5 (87 avis), téléphone, adresse et itinéraire.",
+    "chapo": "Saint-Pierre lavage exerce l'activité de garage et automobile au 79 -93 Rue des Ateliers, à Saint-Pierre-des-Corps. Ouvert le dimanche au relevé du 18 octobre 2026. Téléphone : 07 61 29 69 44. Note Google : 3,9 sur 5 pour 87 avis.",
     "sections": [
       {
         "id": "presentation",
         "titre": "Saint-Pierre lavage en quelques mots",
         "paragraphes": [
-          "Garages et services automobiles font partie des activités les plus consultées localement sur mobile.",
-          "Entretien, réparation, contrôle technique : l'automobiliste choisit d'abord un garage proche et disponible. Ces entreprises travaillent à flux tendu et délaissent presque toujours la création d'un site, malgré une demande de recherche locale considérable.",
-          "D'après le relevé du 19 septembre 2026, l'établissement est ouvert le dimanche. Le détail jour par jour figure plus bas."
+          "Sur Google, l'établissement est classé « Station de lavage automobile », dans notre rubrique Garage et automobile.",
+          "D'après le relevé du 18 octobre 2026, l'établissement est ouvert le dimanche. Le détail jour par jour figure plus bas."
         ]
       },
       {
@@ -115,30 +115,32 @@
         "titre": "Adresse et accès",
         "paragraphes": [
           "L'établissement est situé au 79 -93 Rue des Ateliers, 37700 Saint-Pierre-des-Corps.",
-          "Coordonnées géographiques : 47.38625, 0.71638. Le lien d'itinéraire ci-dessous ouvre directement la navigation."
+          "Coordonnées GPS : 47.38625, 0.71638. Le bouton Itinéraire de cette page ouvre la navigation."
         ]
       },
       {
         "id": "contact",
         "titre": "Contacter Saint-Pierre lavage",
         "paragraphes": [
-          "Le contact se fait par téléphone au 07 61 29 69 44. C'est le seul moyen de communication déclaré sur la fiche Google de l'entreprise, avec la visite sur place.",
-          "Si vous dirigez cette entreprise, vous pouvez demander la correction ou le retrait de cette page à tout moment, sans justification."
+          "Le contact se fait par téléphone au 07 61 29 69 44, ou directement sur place aux horaires d'ouverture."
         ]
       },
       {
         "id": "avis",
         "titre": "La réputation de Saint-Pierre lavage",
         "paragraphes": [
-          "Au relevé du 19 septembre 2026, l'établissement affichait une note de 3,8 sur 5 sur Google, calculée à partir de 86 avis. Cette note évolue en permanence : elle est indiquée ici à titre d'information et n'est pas retraitée.",
-          "Les avis appartiennent à Google et se consultent sur la fiche d'origine, dont le lien figure sur cette page."
+          "Note de 3,9 sur 5 pour 87 avis Google au relevé du 18 octobre 2026. Les avis se consultent sur la fiche Google, dont le lien figure sur cette page."
         ]
       }
     ],
     "faq": [
       {
         "q": "Quels sont les horaires de Saint-Pierre lavage ?",
-        "r": "Au relevé du 19 septembre 2026, Saint-Pierre lavage était ouvert le dimanche. Dans le détail — lundi : fermé ; mardi : fermé ; mercredi : fermé ; jeudi : fermé ; vendredi : fermé ; samedi : fermé ; dimanche : de 0 h à 23 h 59. Ces horaires peuvent changer : un appel préalable reste conseillé."
+        "r": "Au relevé du 18 octobre 2026, Saint-Pierre lavage était ouvert le dimanche. Dans le détail — lundi : fermé ; mardi : fermé ; mercredi : fermé ; jeudi : fermé ; vendredi : fermé ; samedi : fermé ; dimanche : de 0 h à 23 h 59. Ces horaires peuvent changer : un appel préalable reste conseillé."
+      },
+      {
+        "q": "Saint-Pierre lavage est-il ouvert le dimanche ?",
+        "r": "Oui : le dimanche, Saint-Pierre lavage est ouvert de 0 h à 23 h 59 (horaires relevés le 18 octobre 2026)."
       },
       {
         "q": "Où se trouve Saint-Pierre lavage ?",
@@ -147,13 +149,9 @@
       {
         "q": "Comment contacter Saint-Pierre lavage ?",
         "r": "Par téléphone au 07 61 29 69 44, ou directement sur place aux heures d'ouverture."
-      },
-      {
-        "q": "Saint-Pierre lavage a-t-il un site internet ?",
-        "r": "Non : aucune adresse de site web n'est déclarée sur la fiche Google de Saint-Pierre lavage au 19 septembre 2026. Cette page tient lieu de référence publique en attendant, le cas échéant, la création d'un site propre à l'entreprise."
       }
     ],
-    "genere_le": "2026-09-19"
+    "genere_le": "2026-10-18"
   },
   "statut_google": "OPERATIONAL",
   "audience": {

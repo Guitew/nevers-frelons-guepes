@@ -117,7 +117,7 @@
   ],
   "lien_google": "https://maps.google.com/?cid=5321568908602367262&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
   "site_web_gmb": null,
-  "statut": "retiree",
+  "statut": "publiee",
   "backlink": {
     "etat": "absent",
     "premiere_detection": null,
@@ -126,13 +126,7 @@
     "echecs": 63,
     "url_detectee": null
   },
-  "retrait": {
-    "mode": "410",
-    "cible": null,
-    "date": "2026-10-14",
-    "motif": "page non indexée par Google 45 jours après sa mise en ligne (Détectée, actuellement non indexée)",
-    "cause": "non-indexee"
-  },
+  "retrait": null,
   "dates": {
     "collecte": "2026-08-30",
     "publication": "2026-08-30",
@@ -140,18 +134,17 @@
   },
   "source": "google-places",
   "redaction": {
+    "version": 2,
     "titre": "Zilan — Restaurant à Nevers",
-    "meta_titre": "Zilan, restaurant à Nevers",
-    "meta_description": "Zilan, restaurant à Nevers (14 Rue de Charleville) : adresse, horaires, téléphone et informations pratiques.",
-    "chapo": "Zilan figure parmi les établissements de la catégorie « Restaurant » recensés à Nevers. L'entreprise n'a pas de site web référencé sur sa fiche Google. Les éléments présentés ici — adresse, horaires, contact — proviennent de cette fiche et sont datés de leur relevé.",
+    "meta_titre": "Zilan à Nevers : horaires, avis, téléphone",
+    "meta_description": "Zilan, restaurant à Nevers : horaires d'ouverture, note Google 4,6/5 (573 avis), téléphone, adresse et itinéraire.",
+    "chapo": "Zilan, restaurant au 14 Rue de Charleville, à Nevers. Fermé le lundi et le mardi au relevé du 18 octobre 2026. Téléphone : 09 51 77 05 76. Note Google : 4,6 sur 5 pour 573 avis.",
     "sections": [
       {
         "id": "presentation",
         "titre": "Zilan en quelques mots",
         "paragraphes": [
-          "Restaurants font partie des activités les plus consultées localement sur mobile.",
-          "Les restaurants figurent parmi les commerces les plus recherchés en ligne, et pourtant beaucoup n'exposent qu'une fiche Google sans site. Retrouver ici leur carte d'identité complète — adresse, horaires, téléphone, spécialités — aide les clients à réserver et aide l'établissement à exister ailleurs que sur une plateforme d'avis.",
-          "D'après le relevé du 30 août 2026, l'établissement est fermé le lundi et le mardi. Le détail jour par jour figure plus bas."
+          "D'après le relevé du 18 octobre 2026, l'établissement est fermé le lundi et le mardi. Le détail jour par jour figure plus bas."
         ]
       },
       {
@@ -159,30 +152,32 @@
         "titre": "Adresse et accès",
         "paragraphes": [
           "L'établissement est situé au 14 Rue de Charleville, 58000 Nevers.",
-          "Coordonnées géographiques : 46.98927, 3.15071. Le lien d'itinéraire ci-dessous ouvre directement la navigation."
+          "Coordonnées GPS : 46.98927, 3.15071. Le bouton Itinéraire de cette page ouvre la navigation."
         ]
       },
       {
         "id": "contact",
         "titre": "Contacter Zilan",
         "paragraphes": [
-          "Le contact se fait par téléphone au 09 51 77 05 76. C'est le seul moyen de communication déclaré sur la fiche Google de l'entreprise, avec la visite sur place.",
-          "Si vous dirigez cette entreprise, vous pouvez demander la correction ou le retrait de cette page à tout moment, sans justification."
+          "Le contact se fait par téléphone au 09 51 77 05 76, ou directement sur place aux horaires d'ouverture."
         ]
       },
       {
         "id": "avis",
         "titre": "La réputation de Zilan",
         "paragraphes": [
-          "Au relevé du 30 août 2026, l'établissement affichait une note de 4,6 sur 5 sur Google, calculée à partir de 572 avis. Cette note évolue en permanence : elle est indiquée ici à titre d'information et n'est pas retraitée.",
-          "Les avis appartiennent à Google et se consultent sur la fiche d'origine, dont le lien figure sur cette page."
+          "Note de 4,6 sur 5 pour 573 avis Google au relevé du 18 octobre 2026. Les avis les plus parlants sont compilés ci-dessous, avec un lien vers la fiche d'origine."
         ]
       }
     ],
     "faq": [
       {
         "q": "Quels sont les horaires de Zilan ?",
-        "r": "Au relevé du 30 août 2026, Zilan était fermé le lundi et le mardi. Dans le détail — lundi : fermé ; mardi : fermé ; mercredi : de 10 h à 14 h 30 et de 17 h 30 à 1 h ; jeudi : de 10 h à 14 h 30 et de 17 h 30 à 1 h ; vendredi : de 10 h à 14 h 30 et de 17 h 30 à 2 h ; samedi : de 10 h à 14 h 30 et de 17 h 30 à 2 h ; dimanche : de 10 h à 14 h 30 et de 17 h 30 à 2 h. Ces horaires peuvent changer : un appel préalable reste conseillé."
+        "r": "Au relevé du 18 octobre 2026, Zilan était fermé le lundi et le mardi. Dans le détail — lundi : fermé ; mardi : fermé ; mercredi : de 10 h à 14 h 30 et de 17 h 30 à 1 h ; jeudi : de 10 h à 14 h 30 et de 17 h 30 à 1 h ; vendredi : de 10 h à 14 h 30 et de 17 h 30 à 2 h ; samedi : de 10 h à 14 h 30 et de 17 h 30 à 2 h ; dimanche : de 10 h à 14 h 30 et de 17 h 30 à 2 h. Ces horaires peuvent changer : un appel préalable reste conseillé."
+      },
+      {
+        "q": "Zilan est-il ouvert le dimanche ?",
+        "r": "Oui : le dimanche, Zilan est ouvert de 10 h à 14 h 30 et de 17 h 30 à 2 h (horaires relevés le 18 octobre 2026)."
       },
       {
         "q": "Où se trouve Zilan ?",
@@ -193,15 +188,11 @@
         "r": "Par téléphone au 09 51 77 05 76, ou directement sur place aux heures d'ouverture."
       },
       {
-        "q": "Zilan a-t-il un site internet ?",
-        "r": "Non : aucune adresse de site web n'est déclarée sur la fiche Google de Zilan au 30 août 2026. Cette page tient lieu de référence publique en attendant, le cas échéant, la création d'un site propre à l'entreprise."
-      },
-      {
         "q": "Zilan est-il accessible aux personnes à mobilité réduite ?",
         "r": "La fiche Google de l'établissement mentionne : « Entrée accessible en fauteuil roulant ». Cette information est déclarative ; en cas de doute, vérifiez par téléphone."
       }
     ],
-    "genere_le": "2026-08-30"
+    "genere_le": "2026-10-18"
   },
   "suggestion": {
     "etat": "soumise",

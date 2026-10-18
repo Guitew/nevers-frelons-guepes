@@ -35,7 +35,7 @@
   ],
   "lien_google": "https://maps.google.com/?cid=14552808251471935019&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
   "site_web_gmb": null,
-  "statut": "retiree",
+  "statut": "publiee",
   "backlink": {
     "etat": "absent",
     "premiere_detection": null,
@@ -50,13 +50,7 @@
     "tentatives": 0,
     "date_email": "2026-09-02"
   },
-  "retrait": {
-    "mode": "410",
-    "cible": null,
-    "date": "2026-10-18",
-    "motif": "page non indexée par Google 46 jours après sa mise en ligne (Détectée, actuellement non indexée)",
-    "cause": "non-indexee"
-  },
+  "retrait": null,
   "dates": {
     "collecte": "2026-09-02",
     "publication": "2026-09-02",
@@ -64,17 +58,17 @@
   },
   "source": "google-places",
   "redaction": {
+    "version": 2,
     "titre": "Arret Semecourt parking auchan — Nettoyage et hygiène à Maizières-lès-Metz",
-    "meta_titre": "Arret Semecourt parking auchan, nettoyage et hygiène à…",
-    "meta_description": "Arret Semecourt parking auchan, nettoyage et hygiène à Maizières-lès-Metz (Voie Romaine) : adresse, horaires et informations pratiques.",
-    "chapo": "Cette fiche présente Arret Semecourt parking auchan, un nettoyage et hygiène au Voie Romaine, à Maizières-lès-Metz. Son établissement ne déclare aucun site internet sur sa fiche Google : les informations ci-dessous en tiennent lieu de référence publique, vérifiable et accessible à tous.",
+    "meta_titre": "Arret Semecourt parking auchan à Maizières-lès-Metz : avis",
+    "meta_description": "Arret Semecourt parking auchan, nettoyage et hygiène à Maizières-lès-Metz : note Google 3,6/5 (20 avis), adresse et itinéraire.",
+    "chapo": "Cette fiche présente Arret Semecourt parking auchan, un nettoyage et hygiène au Voie Romaine, à Maizières-lès-Metz. Note Google : 3,6 sur 5 pour 20 avis.",
     "sections": [
       {
         "id": "presentation",
         "titre": "Arret Semecourt parking auchan en quelques mots",
         "paragraphes": [
-          "À Maizières-lès-Metz, les recherches du type « nettoyage et hygiène près de chez moi » se concluent le plus souvent par un appel ou une visite directe.",
-          "Nettoyage de locaux, remise en état, pressing ou traitement des nuisibles : des services régulièrement recherchés par les particuliers comme par les entreprises, et pourtant très peu représentés en ligne à l'échelle d'une commune."
+          "Sur Google, l'établissement est classé « Blanchisserie », dans notre rubrique Nettoyage et hygiène."
         ]
       },
       {
@@ -82,23 +76,21 @@
         "titre": "Adresse et accès",
         "paragraphes": [
           "L'établissement est situé au Voie Romaine, 57280 Maizières-lès-Metz.",
-          "Coordonnées géographiques : 49.19428, 6.14459. Le lien d'itinéraire ci-dessous ouvre directement la navigation."
+          "Coordonnées GPS : 49.19428, 6.14459. Le bouton Itinéraire de cette page ouvre la navigation."
         ]
       },
       {
         "id": "contact",
         "titre": "Contacter Arret Semecourt parking auchan",
         "paragraphes": [
-          "Aucun numéro de téléphone n'est déclaré sur la fiche Google de l'établissement : le contact se fait sur place, aux horaires indiqués.",
-          "Si vous dirigez cette entreprise, vous pouvez demander la correction ou le retrait de cette page à tout moment, sans justification."
+          "Aucun numéro de téléphone n'est déclaré sur la fiche Google de l'établissement : le contact se fait sur place, aux horaires indiqués."
         ]
       },
       {
         "id": "avis",
         "titre": "La réputation de Arret Semecourt parking auchan",
         "paragraphes": [
-          "Au relevé du 2 septembre 2026, l'établissement affichait une note de 3,6 sur 5 sur Google, calculée à partir de 20 avis. Cette note évolue en permanence : elle est indiquée ici à titre d'information et n'est pas retraitée.",
-          "Les avis appartiennent à Google et se consultent sur la fiche d'origine, dont le lien figure sur cette page."
+          "Note de 3,6 sur 5 pour 20 avis Google au relevé du 18 octobre 2026. Les avis les plus parlants sont compilés ci-dessous, avec un lien vers la fiche d'origine."
         ]
       }
     ],
@@ -108,15 +100,11 @@
         "r": "Arret Semecourt parking auchan se trouve Voie Romaine, 57280 Maizières-lès-Metz. Un lien d'itinéraire est disponible sur cette page."
       },
       {
-        "q": "Arret Semecourt parking auchan a-t-il un site internet ?",
-        "r": "Non : aucune adresse de site web n'est déclarée sur la fiche Google de Arret Semecourt parking auchan au 2 septembre 2026. Cette page tient lieu de référence publique en attendant, le cas échéant, la création d'un site propre à l'entreprise."
-      },
-      {
         "q": "Arret Semecourt parking auchan est-il accessible aux personnes à mobilité réduite ?",
         "r": "La fiche Google de l'établissement mentionne : « Entrée accessible en fauteuil roulant ». Cette information est déclarative ; en cas de doute, vérifiez par téléphone."
       }
     ],
-    "genere_le": "2026-09-02"
+    "genere_le": "2026-10-18"
   },
   "statut_google": "OPERATIONAL",
   "audience": {

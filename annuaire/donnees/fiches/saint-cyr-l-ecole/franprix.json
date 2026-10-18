@@ -138,18 +138,18 @@
   },
   "source": "google-places",
   "redaction": {
+    "version": 2,
     "titre": "Franprix — Commerce d'alimentation à Saint-Cyr-l'École",
-    "meta_titre": "Franprix, commerce d'alimentation à Saint-Cyr-l'École",
-    "meta_description": "Franprix, commerce d'alimentation à Saint-Cyr-l'École (37 Rue Danielle Casanova) : adresse, horaires, téléphone et informations pratiques.",
-    "chapo": "Franprix est un commerce d'alimentation au 37 Rue Danielle Casanova, à Saint-Cyr-l'École. Aucune adresse web n'est renseignée sur sa fiche Google. Cette page rassemble donc, en un seul endroit stable, les informations que les clients recherchent avant de se déplacer.",
+    "meta_titre": "Franprix à Saint-Cyr-l'École : horaires, avis, téléphone",
+    "meta_description": "Franprix, commerce d'alimentation à Saint-Cyr-l'École : horaires d'ouverture, note Google 3,5/5 (204 avis), téléphone, adresse et itinéraire.",
+    "chapo": "Franprix est un commerce d'alimentation au 37 Rue Danielle Casanova, à Saint-Cyr-l'École. Ouvert sept jours sur sept au relevé du 11 octobre 2026. Téléphone : 01 30 58 42 33. Note Google : 3,5 sur 5 pour 204 avis.",
     "sections": [
       {
         "id": "presentation",
         "titre": "Franprix en quelques mots",
         "paragraphes": [
-          "Le choix d'un commerce d'alimentation se joue sur trois critères : la proximité, les horaires et la facilité de contact.",
-          "Le commerce alimentaire de proximité redevient un réflexe, mais son information circule mal : jours de marché, produits de saison, vente directe. Cette fiche rassemble ce que le consommateur cherche avant de se déplacer.",
-          "D'après le relevé du 6 octobre 2026, l'établissement est ouvert sept jours sur sept. Le détail jour par jour figure plus bas."
+          "Sur Google, l'établissement est classé « Supermarché », dans notre rubrique Commerce d'alimentation.",
+          "D'après le relevé du 11 octobre 2026, l'établissement est ouvert sept jours sur sept. Le détail jour par jour figure plus bas."
         ]
       },
       {
@@ -157,30 +157,32 @@
         "titre": "Adresse et accès",
         "paragraphes": [
           "L'établissement est situé au 37 Rue Danielle Casanova, 78210 Saint-Cyr-l'École.",
-          "Coordonnées géographiques : 48.80218, 2.05579. Le lien d'itinéraire ci-dessous ouvre directement la navigation."
+          "Coordonnées GPS : 48.80218, 2.05579. Le bouton Itinéraire de cette page ouvre la navigation."
         ]
       },
       {
         "id": "contact",
         "titre": "Contacter Franprix",
         "paragraphes": [
-          "Le contact se fait par téléphone au 01 30 58 42 33. C'est le seul moyen de communication déclaré sur la fiche Google de l'entreprise, avec la visite sur place.",
-          "Si vous dirigez cette entreprise, vous pouvez demander la correction ou le retrait de cette page à tout moment, sans justification."
+          "Le contact se fait par téléphone au 01 30 58 42 33, ou directement sur place aux horaires d'ouverture."
         ]
       },
       {
         "id": "avis",
         "titre": "La réputation de Franprix",
         "paragraphes": [
-          "Au relevé du 6 octobre 2026, l'établissement affichait une note de 3,5 sur 5 sur Google, calculée à partir de 204 avis. Cette note évolue en permanence : elle est indiquée ici à titre d'information et n'est pas retraitée.",
-          "Les avis appartiennent à Google et se consultent sur la fiche d'origine, dont le lien figure sur cette page."
+          "Note de 3,5 sur 5 pour 204 avis Google au relevé du 11 octobre 2026. Les avis se consultent sur la fiche Google, dont le lien figure sur cette page."
         ]
       }
     ],
     "faq": [
       {
         "q": "Quels sont les horaires de Franprix ?",
-        "r": "Au relevé du 6 octobre 2026, Franprix était ouvert sept jours sur sept. Dans le détail — lundi : de 8 h 30 à 22 h ; mardi : de 8 h 30 à 22 h ; mercredi : de 8 h 30 à 22 h ; jeudi : de 8 h 30 à 22 h ; vendredi : de 8 h 30 à 23 h 59 ; samedi : de 8 h 30 à 23 h 59 ; dimanche : de 8 h 30 à 23 h 59. Ces horaires peuvent changer : un appel préalable reste conseillé."
+        "r": "Au relevé du 11 octobre 2026, Franprix était ouvert sept jours sur sept. Dans le détail — lundi : de 8 h 30 à 22 h ; mardi : de 8 h 30 à 22 h ; mercredi : de 8 h 30 à 22 h ; jeudi : de 8 h 30 à 22 h ; vendredi : de 8 h 30 à 23 h 59 ; samedi : de 8 h 30 à 23 h 59 ; dimanche : de 8 h 30 à 23 h 59. Ces horaires peuvent changer : un appel préalable reste conseillé."
+      },
+      {
+        "q": "Franprix est-il ouvert le dimanche ?",
+        "r": "Oui : le dimanche, Franprix est ouvert de 8 h 30 à 23 h 59 (horaires relevés le 11 octobre 2026)."
       },
       {
         "q": "Où se trouve Franprix ?",
@@ -191,15 +193,11 @@
         "r": "Par téléphone au 01 30 58 42 33, ou directement sur place aux heures d'ouverture."
       },
       {
-        "q": "Franprix a-t-il un site internet ?",
-        "r": "Non : aucune adresse de site web n'est déclarée sur la fiche Google de Franprix au 6 octobre 2026. Cette page tient lieu de référence publique en attendant, le cas échéant, la création d'un site propre à l'entreprise."
-      },
-      {
         "q": "Franprix est-il accessible aux personnes à mobilité réduite ?",
         "r": "La fiche Google de l'établissement mentionne : « Entrée accessible en fauteuil roulant ». Cette information est déclarative ; en cas de doute, vérifiez par téléphone."
       }
     ],
-    "genere_le": "2026-10-06"
+    "genere_le": "2026-10-11"
   },
   "statut_google": "OPERATIONAL",
   "audience": {

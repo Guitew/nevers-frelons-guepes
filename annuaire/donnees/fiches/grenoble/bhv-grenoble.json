@@ -130,18 +130,18 @@
   },
   "source": "google-places",
   "redaction": {
+    "version": 2,
     "titre": "BHV Grenoble — Mode et équipement de la maison à Grenoble",
-    "meta_titre": "BHV Grenoble, mode et équipement de la maison à Grenoble",
-    "meta_description": "BHV Grenoble, mode et équipement de la maison à Grenoble (12 Place Grenette) : adresse, horaires, téléphone et informations pratiques.",
-    "chapo": "BHV Grenoble est une mode et équipement de la maison au 12 Place Grenette, à Grenoble. Aucune adresse web n'est renseignée sur sa fiche Google. Cette page rassemble donc, en un seul endroit stable, les informations que les clients recherchent avant de se déplacer.",
+    "meta_titre": "BHV Grenoble à Grenoble : horaires, avis, téléphone",
+    "meta_description": "BHV Grenoble, mode et équipement de la maison à Grenoble : horaires d'ouverture, note Google 3,9/5 (3513 avis), téléphone, adresse et itinéraire.",
+    "chapo": "BHV Grenoble est une mode et équipement de la maison au 12 Place Grenette, à Grenoble. Ouvert tous les jours sauf le dimanche au relevé du 10 octobre 2026. Téléphone : 04 76 47 28 54. Note Google : 3,9 sur 5 pour 3513 avis.",
     "sections": [
       {
         "id": "presentation",
         "titre": "BHV Grenoble en quelques mots",
         "paragraphes": [
-          "À Grenoble, les recherches du type « mode et équipement de la maison près de chez moi » se concluent le plus souvent par un appel ou une visite directe.",
-          "Les boutiques indépendantes affrontent la concurrence du commerce en ligne sans en avoir les armes. Une page bien structurée les replace dans les résultats de recherche locaux, là où se décide encore une part importante des achats.",
-          "D'après le relevé du 20 septembre 2026, l'établissement est ouvert tous les jours sauf le dimanche. Le détail jour par jour figure plus bas."
+          "Sur Google, l'établissement est classé « Grand magasin », dans notre rubrique Mode et équipement de la maison.",
+          "D'après le relevé du 10 octobre 2026, l'établissement est ouvert tous les jours sauf le dimanche. Le détail jour par jour figure plus bas."
         ]
       },
       {
@@ -149,30 +149,32 @@
         "titre": "Adresse et accès",
         "paragraphes": [
           "L'établissement est situé au 12 Place Grenette, 38000 Grenoble.",
-          "Coordonnées géographiques : 45.19051, 5.72685. Le lien d'itinéraire ci-dessous ouvre directement la navigation."
+          "Coordonnées GPS : 45.19051, 5.72685. Le bouton Itinéraire de cette page ouvre la navigation."
         ]
       },
       {
         "id": "contact",
         "titre": "Contacter BHV Grenoble",
         "paragraphes": [
-          "Le contact se fait par téléphone au 04 76 47 28 54. C'est le seul moyen de communication déclaré sur la fiche Google de l'entreprise, avec la visite sur place.",
-          "Si vous dirigez cette entreprise, vous pouvez demander la correction ou le retrait de cette page à tout moment, sans justification."
+          "Le contact se fait par téléphone au 04 76 47 28 54, ou directement sur place aux horaires d'ouverture."
         ]
       },
       {
         "id": "avis",
         "titre": "La réputation de BHV Grenoble",
         "paragraphes": [
-          "Au relevé du 20 septembre 2026, l'établissement affichait une note de 3,9 sur 5 sur Google, calculée à partir de 3508 avis. Cette note évolue en permanence : elle est indiquée ici à titre d'information et n'est pas retraitée.",
-          "Les avis appartiennent à Google et se consultent sur la fiche d'origine, dont le lien figure sur cette page."
+          "Note de 3,9 sur 5 pour 3513 avis Google au relevé du 10 octobre 2026. Les avis se consultent sur la fiche Google, dont le lien figure sur cette page."
         ]
       }
     ],
     "faq": [
       {
         "q": "Quels sont les horaires de BHV Grenoble ?",
-        "r": "Au relevé du 20 septembre 2026, BHV Grenoble était ouvert tous les jours sauf le dimanche. Dans le détail — lundi : de 10 h à 19 h ; mardi : de 10 h à 19 h ; mercredi : de 10 h à 19 h ; jeudi : de 10 h à 19 h ; vendredi : de 10 h à 19 h ; samedi : de 10 h à 19 h 30 ; dimanche : fermé. Ces horaires peuvent changer : un appel préalable reste conseillé."
+        "r": "Au relevé du 10 octobre 2026, BHV Grenoble était ouvert tous les jours sauf le dimanche. Dans le détail — lundi : de 10 h à 19 h ; mardi : de 10 h à 19 h ; mercredi : de 10 h à 19 h ; jeudi : de 10 h à 19 h ; vendredi : de 10 h à 19 h ; samedi : de 10 h à 19 h 30 ; dimanche : fermé. Ces horaires peuvent changer : un appel préalable reste conseillé."
+      },
+      {
+        "q": "BHV Grenoble est-il ouvert le dimanche ?",
+        "r": "Non : d'après les horaires relevés le 10 octobre 2026, BHV Grenoble est fermé le dimanche."
       },
       {
         "q": "Où se trouve BHV Grenoble ?",
@@ -183,15 +185,11 @@
         "r": "Par téléphone au 04 76 47 28 54, ou directement sur place aux heures d'ouverture."
       },
       {
-        "q": "BHV Grenoble a-t-il un site internet ?",
-        "r": "Non : aucune adresse de site web n'est déclarée sur la fiche Google de BHV Grenoble au 20 septembre 2026. Cette page tient lieu de référence publique en attendant, le cas échéant, la création d'un site propre à l'entreprise."
-      },
-      {
         "q": "BHV Grenoble est-il accessible aux personnes à mobilité réduite ?",
         "r": "La fiche Google de l'établissement mentionne : « Entrée accessible en fauteuil roulant ». Cette information est déclarative ; en cas de doute, vérifiez par téléphone."
       }
     ],
-    "genere_le": "2026-09-20"
+    "genere_le": "2026-10-10"
   },
   "statut_google": "OPERATIONAL",
   "audience": {

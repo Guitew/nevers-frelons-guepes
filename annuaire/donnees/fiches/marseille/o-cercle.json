@@ -126,17 +126,16 @@
   },
   "source": "google-places",
   "redaction": {
+    "version": 2,
     "titre": "Ô Cercle — Restaurant à Marseille",
-    "meta_titre": "Ô Cercle, restaurant à Marseille",
-    "meta_description": "Ô Cercle, restaurant à Marseille (1 avenue des catalans) : adresse, horaires, téléphone et informations pratiques.",
-    "chapo": "Ô Cercle exerce l'activité de restaurant au 1 avenue des catalans, à Marseille. Faute de site internet déclaré sur sa fiche Google, l'entreprise reste difficile à trouver en dehors des cartes. Cette page comble ce manque avec des données factuelles et datées.",
+    "meta_titre": "Ô Cercle à Marseille : horaires, avis, téléphone",
+    "meta_description": "Ô Cercle, restaurant à Marseille : horaires d'ouverture, note Google 3,6/5 (26 avis), téléphone, adresse et itinéraire.",
+    "chapo": "Ô Cercle exerce l'activité de restaurant au 1 avenue des catalans, à Marseille. Ouvert tous les jours sauf le lundi au relevé du 11 octobre 2026. Téléphone : 04 96 11 55 62. Note Google : 3,6 sur 5 pour 26 avis.",
     "sections": [
       {
         "id": "presentation",
         "titre": "Ô Cercle en quelques mots",
         "paragraphes": [
-          "Restaurants font partie des activités les plus consultées localement sur mobile.",
-          "Les restaurants figurent parmi les commerces les plus recherchés en ligne, et pourtant beaucoup n'exposent qu'une fiche Google sans site. Retrouver ici leur carte d'identité complète — adresse, horaires, téléphone, spécialités — aide les clients à réserver et aide l'établissement à exister ailleurs que sur une plateforme d'avis.",
           "D'après le relevé du 11 octobre 2026, l'établissement est ouvert tous les jours sauf le lundi. Le détail jour par jour figure plus bas."
         ]
       },
@@ -145,23 +144,21 @@
         "titre": "Adresse et accès",
         "paragraphes": [
           "L'établissement est situé au 1 avenue des catalans, 13007 Marseille.",
-          "Coordonnées géographiques : 43.29153, 5.35460. Le lien d'itinéraire ci-dessous ouvre directement la navigation."
+          "Coordonnées GPS : 43.29153, 5.35460. Le bouton Itinéraire de cette page ouvre la navigation."
         ]
       },
       {
         "id": "contact",
         "titre": "Contacter Ô Cercle",
         "paragraphes": [
-          "Le contact se fait par téléphone au 04 96 11 55 62. C'est le seul moyen de communication déclaré sur la fiche Google de l'entreprise, avec la visite sur place.",
-          "Si vous dirigez cette entreprise, vous pouvez demander la correction ou le retrait de cette page à tout moment, sans justification."
+          "Le contact se fait par téléphone au 04 96 11 55 62, ou directement sur place aux horaires d'ouverture."
         ]
       },
       {
         "id": "avis",
         "titre": "La réputation de Ô Cercle",
         "paragraphes": [
-          "Au relevé du 11 octobre 2026, l'établissement affichait une note de 3,6 sur 5 sur Google, calculée à partir de 26 avis. Cette note évolue en permanence : elle est indiquée ici à titre d'information et n'est pas retraitée.",
-          "Les avis appartiennent à Google et se consultent sur la fiche d'origine, dont le lien figure sur cette page."
+          "Note de 3,6 sur 5 pour 26 avis Google au relevé du 11 octobre 2026. Les avis se consultent sur la fiche Google, dont le lien figure sur cette page."
         ]
       }
     ],
@@ -171,16 +168,16 @@
         "r": "Au relevé du 11 octobre 2026, Ô Cercle était ouvert tous les jours sauf le lundi. Dans le détail — lundi : fermé ; mardi : de 12 h à 14 h ; mercredi : de 12 h à 14 h ; jeudi : de 12 h à 14 h ; vendredi : de 12 h à 14 h ; samedi : de 12 h à 14 h ; dimanche : de 12 h à 14 h. Ces horaires peuvent changer : un appel préalable reste conseillé."
       },
       {
+        "q": "Ô Cercle est-il ouvert le dimanche ?",
+        "r": "Oui : le dimanche, Ô Cercle est ouvert de 12 h à 14 h (horaires relevés le 11 octobre 2026)."
+      },
+      {
         "q": "Où se trouve Ô Cercle ?",
         "r": "Ô Cercle se trouve 1 avenue des catalans, 13007 Marseille. Un lien d'itinéraire est disponible sur cette page."
       },
       {
         "q": "Comment contacter Ô Cercle ?",
         "r": "Par téléphone au 04 96 11 55 62, ou directement sur place aux heures d'ouverture."
-      },
-      {
-        "q": "Ô Cercle a-t-il un site internet ?",
-        "r": "Non : aucune adresse de site web n'est déclarée sur la fiche Google de Ô Cercle au 11 octobre 2026. Cette page tient lieu de référence publique en attendant, le cas échéant, la création d'un site propre à l'entreprise."
       },
       {
         "q": "Ô Cercle est-il accessible aux personnes à mobilité réduite ?",

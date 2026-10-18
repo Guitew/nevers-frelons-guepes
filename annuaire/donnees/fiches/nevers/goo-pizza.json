@@ -123,7 +123,7 @@
   "attributs": [],
   "lien_google": "https://maps.google.com/?cid=1753525838740048712&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
   "site_web_gmb": null,
-  "statut": "retiree",
+  "statut": "publiee",
   "backlink": {
     "etat": "absent",
     "premiere_detection": null,
@@ -132,32 +132,26 @@
     "echecs": 72,
     "url_detectee": null
   },
-  "retrait": {
-    "mode": "410",
-    "cible": null,
-    "date": "2026-10-14",
-    "motif": "page non indexée par Google 45 jours après sa mise en ligne (Détectée, actuellement non indexée)",
-    "cause": "non-indexee"
-  },
+  "retrait": null,
   "dates": {
     "collecte": "2026-08-30",
     "publication": "2026-08-30",
-    "maj": "2026-10-14"
+    "maj": "2026-10-18"
   },
   "source": "google-places",
   "redaction": {
+    "version": 2,
     "titre": "Goo Pizza — Restaurant à Nevers",
-    "meta_titre": "Goo Pizza, restaurant à Nevers",
-    "meta_description": "Goo Pizza, restaurant à Nevers (19 Rue François Mitterrand) : adresse, horaires, téléphone et informations pratiques.",
-    "chapo": "Goo Pizza exerce l'activité de restaurant au 19 Rue François Mitterrand, à Nevers. Faute de site internet déclaré sur sa fiche Google, l'entreprise reste difficile à trouver en dehors des cartes. Cette page comble ce manque avec des données factuelles et datées.",
+    "meta_titre": "Goo Pizza à Nevers : horaires, avis, téléphone",
+    "meta_description": "Goo Pizza, restaurant à Nevers : horaires d'ouverture, note Google 4,9/5 (143 avis), téléphone, adresse et itinéraire.",
+    "chapo": "Goo Pizza exerce l'activité de restaurant au 19 Rue François Mitterrand, à Nevers. Ouvert tous les jours sauf le lundi au relevé du 18 octobre 2026. Téléphone : 09 87 57 12 33. Note Google : 4,9 sur 5 pour 143 avis.",
     "sections": [
       {
         "id": "presentation",
         "titre": "Goo Pizza en quelques mots",
         "paragraphes": [
-          "À Nevers, les recherches du type « restaurant près de chez moi » se concluent le plus souvent par un appel ou une visite directe.",
-          "Les restaurants figurent parmi les commerces les plus recherchés en ligne, et pourtant beaucoup n'exposent qu'une fiche Google sans site. Retrouver ici leur carte d'identité complète — adresse, horaires, téléphone, spécialités — aide les clients à réserver et aide l'établissement à exister ailleurs que sur une plateforme d'avis.",
-          "D'après le relevé du 30 août 2026, l'établissement est ouvert tous les jours sauf le lundi. Le détail jour par jour figure plus bas."
+          "Sur Google, l'établissement est classé « Pizzeria », dans notre rubrique Restaurant.",
+          "D'après le relevé du 18 octobre 2026, l'établissement est ouvert tous les jours sauf le lundi. Le détail jour par jour figure plus bas."
         ]
       },
       {
@@ -165,30 +159,32 @@
         "titre": "Adresse et accès",
         "paragraphes": [
           "L'établissement est situé au 19 Rue François Mitterrand, 58000 Nevers.",
-          "Coordonnées géographiques : 46.98857, 3.16172. Le lien d'itinéraire ci-dessous ouvre directement la navigation."
+          "Coordonnées GPS : 46.98857, 3.16172. Le bouton Itinéraire de cette page ouvre la navigation."
         ]
       },
       {
         "id": "contact",
         "titre": "Contacter Goo Pizza",
         "paragraphes": [
-          "Le contact se fait par téléphone au 09 87 57 12 33. C'est le seul moyen de communication déclaré sur la fiche Google de l'entreprise, avec la visite sur place.",
-          "Si vous dirigez cette entreprise, vous pouvez demander la correction ou le retrait de cette page à tout moment, sans justification."
+          "Le contact se fait par téléphone au 09 87 57 12 33, ou directement sur place aux horaires d'ouverture."
         ]
       },
       {
         "id": "avis",
         "titre": "La réputation de Goo Pizza",
         "paragraphes": [
-          "Au relevé du 30 août 2026, l'établissement affichait une note de 4,8 sur 5 sur Google, calculée à partir de 86 avis. Cette note évolue en permanence : elle est indiquée ici à titre d'information et n'est pas retraitée.",
-          "Les avis appartiennent à Google et se consultent sur la fiche d'origine, dont le lien figure sur cette page."
+          "Note de 4,9 sur 5 pour 143 avis Google au relevé du 18 octobre 2026. Les avis se consultent sur la fiche Google, dont le lien figure sur cette page."
         ]
       }
     ],
     "faq": [
       {
         "q": "Quels sont les horaires de Goo Pizza ?",
-        "r": "Au relevé du 30 août 2026, Goo Pizza était ouvert tous les jours sauf le lundi. Dans le détail — lundi : fermé ; mardi : de 11 h 30 à 14 h et de 17 h 30 à 23 h ; mercredi : de 11 h 30 à 14 h et de 17 h 30 à 23 h ; jeudi : de 11 h 30 à 14 h et de 17 h 30 à 23 h ; vendredi : de 11 h 30 à 14 h et de 17 h 30 à 23 h ; samedi : de 11 h 30 à 14 h et de 17 h 30 à 23 h ; dimanche : de 11 h 30 à 14 h et de 17 h 30 à 23 h. Ces horaires peuvent changer : un appel préalable reste conseillé."
+        "r": "Au relevé du 18 octobre 2026, Goo Pizza était ouvert tous les jours sauf le lundi. Dans le détail — lundi : fermé ; mardi : de 11 h 30 à 14 h et de 17 h 30 à 23 h ; mercredi : de 11 h 30 à 14 h et de 17 h 30 à 23 h ; jeudi : de 11 h 30 à 14 h et de 17 h 30 à 23 h ; vendredi : de 11 h 30 à 14 h et de 17 h 30 à 23 h ; samedi : de 11 h 30 à 14 h et de 17 h 30 à 23 h ; dimanche : de 11 h 30 à 14 h et de 17 h 30 à 23 h. Ces horaires peuvent changer : un appel préalable reste conseillé."
+      },
+      {
+        "q": "Goo Pizza est-il ouvert le dimanche ?",
+        "r": "Oui : le dimanche, Goo Pizza est ouvert de 11 h 30 à 14 h et de 17 h 30 à 23 h (horaires relevés le 18 octobre 2026)."
       },
       {
         "q": "Où se trouve Goo Pizza ?",
@@ -197,13 +193,9 @@
       {
         "q": "Comment contacter Goo Pizza ?",
         "r": "Par téléphone au 09 87 57 12 33, ou directement sur place aux heures d'ouverture."
-      },
-      {
-        "q": "Goo Pizza a-t-il un site internet ?",
-        "r": "Non : aucune adresse de site web n'est déclarée sur la fiche Google de Goo Pizza au 30 août 2026. Cette page tient lieu de référence publique en attendant, le cas échéant, la création d'un site propre à l'entreprise."
       }
     ],
-    "genere_le": "2026-08-30"
+    "genere_le": "2026-10-18"
   },
   "suggestion": {
     "etat": "soumise",

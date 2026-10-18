@@ -140,18 +140,18 @@
   },
   "source": "google-places",
   "redaction": {
+    "version": 2,
     "titre": "Mégacycles — Deux-roues et cycles à Laon",
-    "meta_titre": "Mégacycles, deux-roues et cycles à Laon",
-    "meta_description": "Mégacycles, deux-roues et cycles à Laon (1134 Avenue Georges Pompidou) : adresse, horaires, téléphone et informations pratiques.",
-    "chapo": "Cette fiche présente Mégacycles, un deux-roues et cycles au 1134 Avenue Georges Pompidou, à Laon. Son établissement ne déclare aucun site internet sur sa fiche Google : les informations ci-dessous en tiennent lieu de référence publique, vérifiable et accessible à tous.",
+    "meta_titre": "Mégacycles à Laon : horaires, avis, téléphone",
+    "meta_description": "Mégacycles, deux-roues et cycles à Laon : horaires d'ouverture, note Google 4,8/5 (114 avis), téléphone, adresse et itinéraire.",
+    "chapo": "Cette fiche présente Mégacycles, un deux-roues et cycles au 1134 Avenue Georges Pompidou, à Laon. Fermé le lundi et le dimanche au relevé du 14 octobre 2026. Téléphone : 03 23 20 29 29. Note Google : 4,8 sur 5 pour 114 avis.",
     "sections": [
       {
         "id": "presentation",
         "titre": "Mégacycles en quelques mots",
         "paragraphes": [
-          "Le choix d'un deux-roues et cycles se joue sur trois critères : la proximité, les horaires et la facilité de contact.",
-          "Réparation de vélo, révision de scooter, location à la journée : un secteur en croissance porté par la mobilité douce, encore largement absent du web local en dehors des grandes enseignes.",
-          "D'après le relevé du 4 octobre 2026, l'établissement est fermé le lundi et le dimanche. Le détail jour par jour figure plus bas."
+          "Sur Google, l'établissement est classé « Magasin de vélos », dans notre rubrique Deux-roues et cycles.",
+          "D'après le relevé du 14 octobre 2026, l'établissement est fermé le lundi et le dimanche. Le détail jour par jour figure plus bas."
         ]
       },
       {
@@ -159,30 +159,32 @@
         "titre": "Adresse et accès",
         "paragraphes": [
           "L'établissement est situé au 1134 Avenue Georges Pompidou, 02000 Laon.",
-          "Coordonnées géographiques : 49.54950, 3.61899. Le lien d'itinéraire ci-dessous ouvre directement la navigation."
+          "Coordonnées GPS : 49.54950, 3.61899. Le bouton Itinéraire de cette page ouvre la navigation."
         ]
       },
       {
         "id": "contact",
         "titre": "Contacter Mégacycles",
         "paragraphes": [
-          "Le contact se fait par téléphone au 03 23 20 29 29. C'est le seul moyen de communication déclaré sur la fiche Google de l'entreprise, avec la visite sur place.",
-          "Si vous dirigez cette entreprise, vous pouvez demander la correction ou le retrait de cette page à tout moment, sans justification."
+          "Le contact se fait par téléphone au 03 23 20 29 29, ou directement sur place aux horaires d'ouverture."
         ]
       },
       {
         "id": "avis",
         "titre": "La réputation de Mégacycles",
         "paragraphes": [
-          "Au relevé du 4 octobre 2026, l'établissement affichait une note de 4,8 sur 5 sur Google, calculée à partir de 114 avis. Cette note évolue en permanence : elle est indiquée ici à titre d'information et n'est pas retraitée.",
-          "Les avis appartiennent à Google et se consultent sur la fiche d'origine, dont le lien figure sur cette page."
+          "Note de 4,8 sur 5 pour 114 avis Google au relevé du 14 octobre 2026. Les avis se consultent sur la fiche Google, dont le lien figure sur cette page."
         ]
       }
     ],
     "faq": [
       {
         "q": "Quels sont les horaires de Mégacycles ?",
-        "r": "Au relevé du 4 octobre 2026, Mégacycles était fermé le lundi et le dimanche. Dans le détail — lundi : fermé ; mardi : de 9 h à 12 h et de 14 h à 19 h ; mercredi : de 9 h à 12 h et de 14 h à 19 h ; jeudi : de 9 h à 12 h et de 14 h à 19 h ; vendredi : de 9 h à 12 h et de 14 h à 19 h ; samedi : de 9 h à 12 h et de 14 h à 19 h ; dimanche : fermé. Ces horaires peuvent changer : un appel préalable reste conseillé."
+        "r": "Au relevé du 14 octobre 2026, Mégacycles était fermé le lundi et le dimanche. Dans le détail — lundi : fermé ; mardi : de 9 h à 12 h et de 14 h à 19 h ; mercredi : de 9 h à 12 h et de 14 h à 19 h ; jeudi : de 9 h à 12 h et de 14 h à 19 h ; vendredi : de 9 h à 12 h et de 14 h à 19 h ; samedi : de 9 h à 12 h et de 14 h à 19 h ; dimanche : fermé. Ces horaires peuvent changer : un appel préalable reste conseillé."
+      },
+      {
+        "q": "Mégacycles est-il ouvert le dimanche ?",
+        "r": "Non : d'après les horaires relevés le 14 octobre 2026, Mégacycles est fermé le dimanche."
       },
       {
         "q": "Où se trouve Mégacycles ?",
@@ -193,15 +195,11 @@
         "r": "Par téléphone au 03 23 20 29 29, ou directement sur place aux heures d'ouverture."
       },
       {
-        "q": "Mégacycles a-t-il un site internet ?",
-        "r": "Non : aucune adresse de site web n'est déclarée sur la fiche Google de Mégacycles au 4 octobre 2026. Cette page tient lieu de référence publique en attendant, le cas échéant, la création d'un site propre à l'entreprise."
-      },
-      {
         "q": "Mégacycles est-il accessible aux personnes à mobilité réduite ?",
         "r": "La fiche Google de l'établissement mentionne : « Entrée accessible en fauteuil roulant ». Cette information est déclarative ; en cas de doute, vérifiez par téléphone."
       }
     ],
-    "genere_le": "2026-10-04"
+    "genere_le": "2026-10-14"
   },
   "statut_google": "OPERATIONAL",
   "audience": {

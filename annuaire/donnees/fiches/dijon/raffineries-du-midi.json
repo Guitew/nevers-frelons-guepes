@@ -118,18 +118,18 @@
   },
   "source": "google-places",
   "redaction": {
+    "version": 2,
     "titre": "Raffineries du Midi — Transport et déménagement à Dijon",
-    "meta_titre": "Raffineries du Midi, transport et déménagement à Dijon",
-    "meta_description": "Raffineries du Midi, transport et déménagement à Dijon (10 Rue des Verriers) : adresse, horaires, téléphone et informations pratiques.",
-    "chapo": "Raffineries du Midi est un transport et déménagement au 10 Rue des Verriers, à Dijon. Aucune adresse web n'est renseignée sur sa fiche Google. Cette page rassemble donc, en un seul endroit stable, les informations que les clients recherchent avant de se déplacer.",
+    "meta_titre": "Raffineries du Midi à Dijon : horaires, avis, téléphone",
+    "meta_description": "Raffineries du Midi, transport et déménagement à Dijon : horaires d'ouverture, note Google 4,5/5 (28 avis), téléphone, adresse et itinéraire.",
+    "chapo": "Raffineries du Midi est un transport et déménagement au 10 Rue des Verriers, à Dijon. Fermé le samedi et le dimanche au relevé du 9 octobre 2026. Téléphone : 03 80 41 11 93. Note Google : 4,5 sur 5 pour 28 avis.",
     "sections": [
       {
         "id": "presentation",
         "titre": "Raffineries du Midi en quelques mots",
         "paragraphes": [
-          "Transport, déménagement et stockage font partie des activités les plus consultées localement sur mobile.",
-          "Déménagement, course urgente, transport de personnes : des services décidés rapidement et comparés sur la disponibilité. La fiche rassemble la zone couverte, les moyens et le contact direct, sans passer par une place de marché.",
-          "D'après le relevé du 19 septembre 2026, l'établissement est fermé le samedi et le dimanche. Le détail jour par jour figure plus bas."
+          "Sur Google, l'établissement est classé « Stockage », dans notre rubrique Transport et déménagement.",
+          "D'après le relevé du 9 octobre 2026, l'établissement est fermé le samedi et le dimanche. Le détail jour par jour figure plus bas."
         ]
       },
       {
@@ -137,30 +137,32 @@
         "titre": "Adresse et accès",
         "paragraphes": [
           "L'établissement est situé au 10 Rue des Verriers, 21000 Dijon.",
-          "Coordonnées géographiques : 47.29915, 5.03673. Le lien d'itinéraire ci-dessous ouvre directement la navigation."
+          "Coordonnées GPS : 47.29915, 5.03673. Le bouton Itinéraire de cette page ouvre la navigation."
         ]
       },
       {
         "id": "contact",
         "titre": "Contacter Raffineries du Midi",
         "paragraphes": [
-          "Le contact se fait par téléphone au 03 80 41 11 93. C'est le seul moyen de communication déclaré sur la fiche Google de l'entreprise, avec la visite sur place.",
-          "Si vous dirigez cette entreprise, vous pouvez demander la correction ou le retrait de cette page à tout moment, sans justification."
+          "Le contact se fait par téléphone au 03 80 41 11 93, ou directement sur place aux horaires d'ouverture."
         ]
       },
       {
         "id": "avis",
         "titre": "La réputation de Raffineries du Midi",
         "paragraphes": [
-          "Au relevé du 19 septembre 2026, l'établissement affichait une note de 4,5 sur 5 sur Google, calculée à partir de 28 avis. Cette note évolue en permanence : elle est indiquée ici à titre d'information et n'est pas retraitée.",
-          "Les avis appartiennent à Google et se consultent sur la fiche d'origine, dont le lien figure sur cette page."
+          "Note de 4,5 sur 5 pour 28 avis Google au relevé du 9 octobre 2026. Les avis se consultent sur la fiche Google, dont le lien figure sur cette page."
         ]
       }
     ],
     "faq": [
       {
         "q": "Quels sont les horaires de Raffineries du Midi ?",
-        "r": "Au relevé du 19 septembre 2026, Raffineries du Midi était fermé le samedi et le dimanche. Dans le détail — lundi : de 8 h à 16 h 30 ; mardi : de 8 h à 16 h 30 ; mercredi : de 8 h à 16 h 30 ; jeudi : de 8 h à 16 h 30 ; vendredi : de 8 h à 16 h 30 ; samedi : fermé ; dimanche : fermé. Ces horaires peuvent changer : un appel préalable reste conseillé."
+        "r": "Au relevé du 9 octobre 2026, Raffineries du Midi était fermé le samedi et le dimanche. Dans le détail — lundi : de 8 h à 16 h 30 ; mardi : de 8 h à 16 h 30 ; mercredi : de 8 h à 16 h 30 ; jeudi : de 8 h à 16 h 30 ; vendredi : de 8 h à 16 h 30 ; samedi : fermé ; dimanche : fermé. Ces horaires peuvent changer : un appel préalable reste conseillé."
+      },
+      {
+        "q": "Raffineries du Midi est-il ouvert le dimanche ?",
+        "r": "Non : d'après les horaires relevés le 9 octobre 2026, Raffineries du Midi est fermé le dimanche."
       },
       {
         "q": "Où se trouve Raffineries du Midi ?",
@@ -171,15 +173,11 @@
         "r": "Par téléphone au 03 80 41 11 93, ou directement sur place aux heures d'ouverture."
       },
       {
-        "q": "Raffineries du Midi a-t-il un site internet ?",
-        "r": "Non : aucune adresse de site web n'est déclarée sur la fiche Google de Raffineries du Midi au 19 septembre 2026. Cette page tient lieu de référence publique en attendant, le cas échéant, la création d'un site propre à l'entreprise."
-      },
-      {
         "q": "Raffineries du Midi est-il accessible aux personnes à mobilité réduite ?",
         "r": "La fiche Google de l'établissement mentionne : « Parking accessible en fauteuil roulant ». Cette information est déclarative ; en cas de doute, vérifiez par téléphone."
       }
     ],
-    "genere_le": "2026-09-19"
+    "genere_le": "2026-10-09"
   },
   "statut_google": "OPERATIONAL",
   "audience": {

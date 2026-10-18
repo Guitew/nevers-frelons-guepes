@@ -36,7 +36,7 @@
   ],
   "lien_google": "https://maps.google.com/?cid=12476539108618382942&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
   "site_web_gmb": null,
-  "statut": "retiree",
+  "statut": "publiee",
   "backlink": {
     "etat": "absent",
     "premiere_detection": null,
@@ -50,13 +50,7 @@
     "date_soumission": "2026-09-01",
     "tentatives": 1
   },
-  "retrait": {
-    "mode": "410",
-    "cible": null,
-    "date": "2026-10-18",
-    "motif": "page non indexée par Google 47 jours après sa mise en ligne (Détectée, actuellement non indexée)",
-    "cause": "non-indexee"
-  },
+  "retrait": null,
   "dates": {
     "collecte": "2026-09-01",
     "publication": "2026-09-01",
@@ -64,17 +58,17 @@
   },
   "source": "google-places",
   "redaction": {
+    "version": 2,
     "titre": "Transports Archereau — Transport et déménagement à Prix-lès-Mézières",
-    "meta_titre": "Transports Archereau, transport et déménagement à…",
-    "meta_description": "Transports Archereau, transport et déménagement à Prix-lès-Mézières (9 Chemin de la Haie-Arrel) : adresse, horaires, téléphone et informations pratiques.",
-    "chapo": "Transports Archereau est un transport et déménagement au 9 Chemin de la Haie-Arrel, à Prix-lès-Mézières. Aucune adresse web n'est renseignée sur sa fiche Google. Cette page rassemble donc, en un seul endroit stable, les informations que les clients recherchent avant de se déplacer.",
+    "meta_titre": "Transports Archereau à Prix-lès-Mézières : avis, téléphone",
+    "meta_description": "Transports Archereau, transport et déménagement à Prix-lès-Mézières : note Google 3,6/5 (41 avis), téléphone, adresse et itinéraire.",
+    "chapo": "Transports Archereau est un transport et déménagement au 9 Chemin de la Haie-Arrel, à Prix-lès-Mézières. Téléphone : 03 24 57 19 20. Note Google : 3,6 sur 5 pour 41 avis.",
     "sections": [
       {
         "id": "presentation",
         "titre": "Transports Archereau en quelques mots",
         "paragraphes": [
-          "Transport, déménagement et stockage font partie des activités les plus consultées localement sur mobile.",
-          "Déménagement, course urgente, transport de personnes : des services décidés rapidement et comparés sur la disponibilité. La fiche rassemble la zone couverte, les moyens et le contact direct, sans passer par une place de marché."
+          "Sur Google, l'établissement est classé « Entreprise de déménagement », dans notre rubrique Transport et déménagement."
         ]
       },
       {
@@ -82,23 +76,21 @@
         "titre": "Adresse et accès",
         "paragraphes": [
           "L'établissement est situé au 9 Chemin de la Haie-Arrel, 08000 Prix-lès-Mézières.",
-          "Coordonnées géographiques : 49.75346, 4.69397. Le lien d'itinéraire ci-dessous ouvre directement la navigation."
+          "Coordonnées GPS : 49.75346, 4.69397. Le bouton Itinéraire de cette page ouvre la navigation."
         ]
       },
       {
         "id": "contact",
         "titre": "Contacter Transports Archereau",
         "paragraphes": [
-          "Le contact se fait par téléphone au 03 24 57 19 20. C'est le seul moyen de communication déclaré sur la fiche Google de l'entreprise, avec la visite sur place.",
-          "Si vous dirigez cette entreprise, vous pouvez demander la correction ou le retrait de cette page à tout moment, sans justification."
+          "Le contact se fait par téléphone au 03 24 57 19 20, ou directement sur place aux horaires d'ouverture."
         ]
       },
       {
         "id": "avis",
         "titre": "La réputation de Transports Archereau",
         "paragraphes": [
-          "Au relevé du 1 septembre 2026, l'établissement affichait une note de 3,6 sur 5 sur Google, calculée à partir de 42 avis. Cette note évolue en permanence : elle est indiquée ici à titre d'information et n'est pas retraitée.",
-          "Les avis appartiennent à Google et se consultent sur la fiche d'origine, dont le lien figure sur cette page."
+          "Note de 3,6 sur 5 pour 41 avis Google au relevé du 18 octobre 2026. Les avis les plus parlants sont compilés ci-dessous, avec un lien vers la fiche d'origine."
         ]
       }
     ],
@@ -112,15 +104,11 @@
         "r": "Par téléphone au 03 24 57 19 20, ou directement sur place aux heures d'ouverture."
       },
       {
-        "q": "Transports Archereau a-t-il un site internet ?",
-        "r": "Non : aucune adresse de site web n'est déclarée sur la fiche Google de Transports Archereau au 1 septembre 2026. Cette page tient lieu de référence publique en attendant, le cas échéant, la création d'un site propre à l'entreprise."
-      },
-      {
         "q": "Transports Archereau est-il accessible aux personnes à mobilité réduite ?",
         "r": "La fiche Google de l'établissement mentionne : « Parking accessible en fauteuil roulant ». Cette information est déclarative ; en cas de doute, vérifiez par téléphone."
       }
     ],
-    "genere_le": "2026-09-01"
+    "genere_le": "2026-10-18"
   },
   "statut_google": "OPERATIONAL",
   "audience": {

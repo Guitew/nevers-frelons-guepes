@@ -103,7 +103,7 @@
   ],
   "lien_google": "https://maps.google.com/?cid=285799903880930752&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
   "site_web_gmb": null,
-  "statut": "retiree",
+  "statut": "publiee",
   "backlink": {
     "etat": "absent",
     "premiere_detection": null,
@@ -118,13 +118,7 @@
     "tentatives": 0,
     "date_email": "2026-09-03"
   },
-  "retrait": {
-    "mode": "410",
-    "cible": null,
-    "date": "2026-10-18",
-    "motif": "page non indexée par Google 45 jours après sa mise en ligne (Détectée, actuellement non indexée)",
-    "cause": "non-indexee"
-  },
+  "retrait": null,
   "dates": {
     "collecte": "2026-09-03",
     "publication": "2026-09-03",
@@ -132,18 +126,18 @@
   },
   "source": "google-places",
   "redaction": {
+    "version": 2,
     "titre": "Campus Universitaire de Saint-Jérôme — Comptabilité et conseil à Marseille",
-    "meta_titre": "Campus Universitaire de Saint-Jérôme, comptabilité et…",
-    "meta_description": "Campus Universitaire de Saint-Jérôme, comptabilité et conseil à Marseille (52 Avenue Escadrille Normandie Niemen) : adresse, horaires, téléphone et…",
-    "chapo": "Cette fiche présente Campus Universitaire de Saint-Jérôme, une comptabilité et conseil au 52 Avenue Escadrille Normandie Niemen, à Marseille. Son établissement ne déclare aucun site internet sur sa fiche Google : les informations ci-dessous en tiennent lieu de référence publique, vérifiable et accessible à tous.",
+    "meta_titre": "Campus Universitaire de Saint-Jérôme à Marseille",
+    "meta_description": "Campus Universitaire de Saint-Jérôme, comptabilité et conseil à Marseille : horaires d'ouverture, téléphone, adresse et itinéraire.",
+    "chapo": "Cette fiche présente Campus Universitaire de Saint-Jérôme, une comptabilité et conseil au 52 Avenue Escadrille Normandie Niemen, à Marseille. Ouvert tous les jours sauf le dimanche au relevé du 18 octobre 2026. Téléphone : 04 91 28 80 00. Note Google : 3,9 sur 5 pour 131 avis.",
     "sections": [
       {
         "id": "presentation",
         "titre": "Campus Universitaire de Saint-Jérôme en quelques mots",
         "paragraphes": [
-          "À Marseille, les recherches du type « comptabilité et conseil près de chez moi » se concluent le plus souvent par un appel ou une visite directe.",
-          "Cabinets comptables, consultants et organismes de formation vivent de la recommandation professionnelle. Une page indexable les rend accessibles aux dirigeants qui cherchent un prestataire dans leur bassin d'emploi plutôt qu'un cabinet national.",
-          "D'après le relevé du 3 septembre 2026, l'établissement est ouvert tous les jours sauf le dimanche. Le détail jour par jour figure plus bas."
+          "Sur Google, l'établissement est classé « Université », dans notre rubrique Comptabilité et conseil.",
+          "D'après le relevé du 18 octobre 2026, l'établissement est ouvert tous les jours sauf le dimanche. Le détail jour par jour figure plus bas."
         ]
       },
       {
@@ -151,30 +145,32 @@
         "titre": "Adresse et accès",
         "paragraphes": [
           "L'établissement est situé au 52 Avenue Escadrille Normandie Niemen, 13013 Marseille.",
-          "Coordonnées géographiques : 43.33677, 5.41047. Le lien d'itinéraire ci-dessous ouvre directement la navigation."
+          "Coordonnées GPS : 43.33677, 5.41047. Le bouton Itinéraire de cette page ouvre la navigation."
         ]
       },
       {
         "id": "contact",
         "titre": "Contacter Campus Universitaire de Saint-Jérôme",
         "paragraphes": [
-          "Le contact se fait par téléphone au 04 91 28 80 00. C'est le seul moyen de communication déclaré sur la fiche Google de l'entreprise, avec la visite sur place.",
-          "Si vous dirigez cette entreprise, vous pouvez demander la correction ou le retrait de cette page à tout moment, sans justification."
+          "Le contact se fait par téléphone au 04 91 28 80 00, ou directement sur place aux horaires d'ouverture."
         ]
       },
       {
         "id": "avis",
         "titre": "La réputation de Campus Universitaire de Saint-Jérôme",
         "paragraphes": [
-          "Au relevé du 3 septembre 2026, l'établissement affichait une note de 4 sur 5 sur Google, calculée à partir de 124 avis. Cette note évolue en permanence : elle est indiquée ici à titre d'information et n'est pas retraitée.",
-          "Les avis appartiennent à Google et se consultent sur la fiche d'origine, dont le lien figure sur cette page."
+          "Note de 3,9 sur 5 pour 131 avis Google au relevé du 18 octobre 2026. Les avis se consultent sur la fiche Google, dont le lien figure sur cette page."
         ]
       }
     ],
     "faq": [
       {
         "q": "Quels sont les horaires de Campus Universitaire de Saint-Jérôme ?",
-        "r": "Au relevé du 3 septembre 2026, Campus Universitaire de Saint-Jérôme était ouvert tous les jours sauf le dimanche. Dans le détail — lundi : de 6 h à 20 h ; mardi : de 8 h à 19 h ; mercredi : de 6 h à 20 h ; jeudi : de 6 h à 20 h ; vendredi : de 6 h à 20 h ; samedi : de 6 h à 12 h ; dimanche : fermé. Ces horaires peuvent changer : un appel préalable reste conseillé."
+        "r": "Au relevé du 18 octobre 2026, Campus Universitaire de Saint-Jérôme était ouvert tous les jours sauf le dimanche. Dans le détail — lundi : de 6 h à 20 h ; mardi : de 8 h à 19 h ; mercredi : de 6 h à 20 h ; jeudi : de 6 h à 20 h ; vendredi : de 6 h à 20 h ; samedi : de 6 h à 12 h ; dimanche : fermé. Ces horaires peuvent changer : un appel préalable reste conseillé."
+      },
+      {
+        "q": "Campus Universitaire de Saint-Jérôme est-il ouvert le dimanche ?",
+        "r": "Non : d'après les horaires relevés le 18 octobre 2026, Campus Universitaire de Saint-Jérôme est fermé le dimanche."
       },
       {
         "q": "Où se trouve Campus Universitaire de Saint-Jérôme ?",
@@ -185,15 +181,11 @@
         "r": "Par téléphone au 04 91 28 80 00, ou directement sur place aux heures d'ouverture."
       },
       {
-        "q": "Campus Universitaire de Saint-Jérôme a-t-il un site internet ?",
-        "r": "Non : aucune adresse de site web n'est déclarée sur la fiche Google de Campus Universitaire de Saint-Jérôme au 3 septembre 2026. Cette page tient lieu de référence publique en attendant, le cas échéant, la création d'un site propre à l'entreprise."
-      },
-      {
         "q": "Campus Universitaire de Saint-Jérôme est-il accessible aux personnes à mobilité réduite ?",
         "r": "La fiche Google de l'établissement mentionne : « Entrée accessible en fauteuil roulant ». Cette information est déclarative ; en cas de doute, vérifiez par téléphone."
       }
     ],
-    "genere_le": "2026-09-03"
+    "genere_le": "2026-10-18"
   },
   "statut_google": "OPERATIONAL",
   "audience": {

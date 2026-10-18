@@ -219,6 +219,20 @@ Ajouter un fournisseur tiers revient à déposer dans `outils/lib/fournisseurs/`
 > sont donc datés sur chaque page et rafraîchis par `npm run backlinks`. Le grattage des pages Maps
 > n'est volontairement pas implémenté : il est fragile et contraire aux conditions d'utilisation.
 
+### Ce que dit le texte d'une fiche (rédaction v2, 18/10/2026)
+
+Les pages indexées sont celles que des gens cherchent par le nom du commerce, pour une question
+précise : horaires, ouvert le dimanche, téléphone, avis, menu ou prix, réservation, à emporter. Le texte
+y répond dès le chapô et dans la FAQ, et ne parle plus de la page elle-même. Les prestations déclarées
+sur la fiche Google (sur place, à emporter, livraison, réservation, terrasse, niveau de prix, moyens de
+paiement, parking, résumé éditorial) sont relevées avec les avis — même appel, même coût — dans
+[`outils/lib/services.mjs`](./outils/lib/services.mjs). Après un changement de gabarit :
+`node outils/rediger.mjs --tout` (les fiches `redaction.manuel: true` sont préservées).
+
+Un verdict Search Console « Détectée, actuellement non indexée » ou « URL inconnue » signifie que
+Google n'a pas encore exploré la page : il ne fonde aucun retrait. Seule une page explorée puis écartée
+peut l'être (`COUVERTURES_REFUS`).
+
 ### Avis Google : compilation et synthèse
 
 Chaque fiche affiche deux blocs construits à partir des avis publics de la fiche Google

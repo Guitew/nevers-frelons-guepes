@@ -129,18 +129,18 @@
   },
   "source": "google-places",
   "redaction": {
+    "version": 2,
     "titre": "Pharmacie de l'Europe — Pharmacie ou opticien à Blois",
-    "meta_titre": "Pharmacie de l'Europe, pharmacie ou opticien à Blois",
-    "meta_description": "Pharmacie de l'Europe, pharmacie ou opticien à Blois (1 Place Bernard Lorjou) : adresse, horaires, téléphone et informations pratiques.",
-    "chapo": "Cette fiche présente Pharmacie de l'Europe, une pharmacie ou opticien au 1 Place Bernard Lorjou, à Blois. Son établissement ne déclare aucun site internet sur sa fiche Google : les informations ci-dessous en tiennent lieu de référence publique, vérifiable et accessible à tous.",
+    "meta_titre": "Pharmacie de l'Europe à Blois : horaires, avis, téléphone",
+    "meta_description": "Pharmacie de l'Europe, pharmacie ou opticien à Blois : horaires d'ouverture, note Google 4,2/5 (120 avis), téléphone, adresse et itinéraire.",
+    "chapo": "Cette fiche présente Pharmacie de l'Europe, une pharmacie ou opticien au 1 Place Bernard Lorjou, à Blois. Ouvert tous les jours sauf le dimanche au relevé du 9 octobre 2026. Téléphone : 02 54 43 20 33. Note Google : 4,2 sur 5 pour 120 avis.",
     "sections": [
       {
         "id": "presentation",
         "titre": "Pharmacie de l'Europe en quelques mots",
         "paragraphes": [
-          "À Blois, les recherches du type « pharmacie ou opticien près de chez moi » se concluent le plus souvent par un appel ou une visite directe.",
-          "Pharmacies et opticiens sont des commerces de première nécessité dont on cherche surtout l'horaire et la garde. Une fiche complète et à jour sert autant l'habitant pressé que le professionnel qui n'a pas vocation à gérer un site.",
-          "D'après le relevé du 7 octobre 2026, l'établissement est ouvert tous les jours sauf le dimanche. Le détail jour par jour figure plus bas."
+          "Sur Google, l'établissement est classé « Pharmacie », dans notre rubrique Pharmacie ou opticien.",
+          "D'après le relevé du 9 octobre 2026, l'établissement est ouvert tous les jours sauf le dimanche. Le détail jour par jour figure plus bas."
         ]
       },
       {
@@ -148,30 +148,32 @@
         "titre": "Adresse et accès",
         "paragraphes": [
           "L'établissement est situé au 1 Place Bernard Lorjou, 41000 Blois.",
-          "Coordonnées géographiques : 47.58938, 1.30753. Le lien d'itinéraire ci-dessous ouvre directement la navigation."
+          "Coordonnées GPS : 47.58938, 1.30753. Le bouton Itinéraire de cette page ouvre la navigation."
         ]
       },
       {
         "id": "contact",
         "titre": "Contacter Pharmacie de l'Europe",
         "paragraphes": [
-          "Le contact se fait par téléphone au 02 54 43 20 33. C'est le seul moyen de communication déclaré sur la fiche Google de l'entreprise, avec la visite sur place.",
-          "Si vous dirigez cette entreprise, vous pouvez demander la correction ou le retrait de cette page à tout moment, sans justification."
+          "Le contact se fait par téléphone au 02 54 43 20 33, ou directement sur place aux horaires d'ouverture."
         ]
       },
       {
         "id": "avis",
         "titre": "La réputation de Pharmacie de l'Europe",
         "paragraphes": [
-          "Au relevé du 7 octobre 2026, l'établissement affichait une note de 4,2 sur 5 sur Google, calculée à partir de 120 avis. Cette note évolue en permanence : elle est indiquée ici à titre d'information et n'est pas retraitée.",
-          "Les avis appartiennent à Google et se consultent sur la fiche d'origine, dont le lien figure sur cette page."
+          "Note de 4,2 sur 5 pour 120 avis Google au relevé du 9 octobre 2026. Les avis se consultent sur la fiche Google, dont le lien figure sur cette page."
         ]
       }
     ],
     "faq": [
       {
         "q": "Quels sont les horaires de Pharmacie de l'Europe ?",
-        "r": "Au relevé du 7 octobre 2026, Pharmacie de l'Europe était ouvert tous les jours sauf le dimanche. Dans le détail — lundi : de 9 h à 20 h ; mardi : de 9 h à 20 h ; mercredi : de 9 h à 20 h ; jeudi : de 9 h à 20 h ; vendredi : de 9 h à 20 h ; samedi : de 9 h à 12 h 30 et de 14 h 30 à 19 h ; dimanche : fermé. Ces horaires peuvent changer : un appel préalable reste conseillé."
+        "r": "Au relevé du 9 octobre 2026, Pharmacie de l'Europe était ouvert tous les jours sauf le dimanche. Dans le détail — lundi : de 9 h à 20 h ; mardi : de 9 h à 20 h ; mercredi : de 9 h à 20 h ; jeudi : de 9 h à 20 h ; vendredi : de 9 h à 20 h ; samedi : de 9 h à 12 h 30 et de 14 h 30 à 19 h ; dimanche : fermé. Ces horaires peuvent changer : un appel préalable reste conseillé."
+      },
+      {
+        "q": "Pharmacie de l'Europe est-il ouvert le dimanche ?",
+        "r": "Non : d'après les horaires relevés le 9 octobre 2026, Pharmacie de l'Europe est fermé le dimanche."
       },
       {
         "q": "Où se trouve Pharmacie de l'Europe ?",
@@ -182,15 +184,11 @@
         "r": "Par téléphone au 02 54 43 20 33, ou directement sur place aux heures d'ouverture."
       },
       {
-        "q": "Pharmacie de l'Europe a-t-il un site internet ?",
-        "r": "Non : aucune adresse de site web n'est déclarée sur la fiche Google de Pharmacie de l'Europe au 7 octobre 2026. Cette page tient lieu de référence publique en attendant, le cas échéant, la création d'un site propre à l'entreprise."
-      },
-      {
         "q": "Pharmacie de l'Europe est-il accessible aux personnes à mobilité réduite ?",
         "r": "La fiche Google de l'établissement mentionne : « Entrée accessible en fauteuil roulant ». Cette information est déclarative ; en cas de doute, vérifiez par téléphone."
       }
     ],
-    "genere_le": "2026-10-07"
+    "genere_le": "2026-10-09"
   },
   "statut_google": "OPERATIONAL",
   "audience": {

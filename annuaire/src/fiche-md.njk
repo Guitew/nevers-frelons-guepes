@@ -22,6 +22,17 @@ eleventyExcludeFromCollections: true
 {%- if f.note %}
 - **Note Google** : {{ f.note | noteFr | safe }}/5 ({{ f.avis | safe }} avis, relevé du {{ f.dates.maj | dateFr | safe }})
 {%- endif %}
+{%- set lib = f.services | libellesServices %}
+{%- if lib.oui.length %}
+- **Prestations** : {{ lib.oui | join(", ") | safe }}
+{%- endif %}
+{%- if lib.non.length %}
+- **Non proposé** : {{ lib.non | join(", ") | safe }}
+{%- endif %}
+{%- set prix = f.services | prixLisible %}
+{%- if prix %}
+- **Niveau de prix** : {{ prix | safe }}
+{%- endif %}
 - **Site web déclaré sur la fiche Google** : aucun
 - **Page de référence** : {{ site.base | safe }}{{ f.url | safe }}
 - **Dernier relevé** : {{ f.dates.maj | dateFr | safe }}

@@ -109,7 +109,7 @@
   ],
   "lien_google": "https://maps.google.com/?cid=10504239411621216914&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
   "site_web_gmb": null,
-  "statut": "retiree",
+  "statut": "publiee",
   "backlink": {
     "etat": "absent",
     "premiere_detection": null,
@@ -118,13 +118,7 @@
     "echecs": 65,
     "url_detectee": null
   },
-  "retrait": {
-    "mode": "410",
-    "cible": null,
-    "date": "2026-10-14",
-    "motif": "page non indexée par Google 45 jours après sa mise en ligne (Détectée, actuellement non indexée)",
-    "cause": "non-indexee"
-  },
+  "retrait": null,
   "dates": {
     "collecte": "2026-08-30",
     "publication": "2026-08-30",
@@ -132,18 +126,18 @@
   },
   "source": "google-places",
   "redaction": {
+    "version": 2,
     "titre": "SUPERMARCHÉ DU COLONEL — Commerce d'alimentation à Nevers",
-    "meta_titre": "SUPERMARCHÉ DU COLONEL, commerce d'alimentation à Nevers",
-    "meta_description": "SUPERMARCHÉ DU COLONEL, commerce d'alimentation à Nevers (2 Rue du Colonel Jeanpierre) : adresse, horaires, téléphone et informations pratiques.",
-    "chapo": "SUPERMARCHÉ DU COLONEL exerce l'activité de commerce d'alimentation au 2 Rue du Colonel Jeanpierre, à Nevers. Faute de site internet déclaré sur sa fiche Google, l'entreprise reste difficile à trouver en dehors des cartes. Cette page comble ce manque avec des données factuelles et datées.",
+    "meta_titre": "SUPERMARCHÉ DU COLONEL à Nevers : horaires, avis, téléphone",
+    "meta_description": "SUPERMARCHÉ DU COLONEL, commerce d'alimentation à Nevers : horaires d'ouverture, note Google 4,1/5 (55 avis), téléphone, adresse et itinéraire.",
+    "chapo": "SUPERMARCHÉ DU COLONEL exerce l'activité de commerce d'alimentation au 2 Rue du Colonel Jeanpierre, à Nevers. Ouvert sept jours sur sept au relevé du 18 octobre 2026. Téléphone : 03 86 38 37 66. Note Google : 4,1 sur 5 pour 55 avis.",
     "sections": [
       {
         "id": "presentation",
         "titre": "SUPERMARCHÉ DU COLONEL en quelques mots",
         "paragraphes": [
-          "À Nevers, les recherches du type « commerce d'alimentation près de chez moi » se concluent le plus souvent par un appel ou une visite directe.",
-          "Le commerce alimentaire de proximité redevient un réflexe, mais son information circule mal : jours de marché, produits de saison, vente directe. Cette fiche rassemble ce que le consommateur cherche avant de se déplacer.",
-          "D'après le relevé du 30 août 2026, l'établissement est ouvert sept jours sur sept. Le détail jour par jour figure plus bas."
+          "Sur Google, l'établissement est classé « Supermarché », dans notre rubrique Commerce d'alimentation.",
+          "D'après le relevé du 18 octobre 2026, l'établissement est ouvert sept jours sur sept. Le détail jour par jour figure plus bas."
         ]
       },
       {
@@ -151,30 +145,32 @@
         "titre": "Adresse et accès",
         "paragraphes": [
           "L'établissement est situé au 2 Rue du Colonel Jeanpierre, 58000 Nevers.",
-          "Coordonnées géographiques : 46.99264, 3.13326. Le lien d'itinéraire ci-dessous ouvre directement la navigation."
+          "Coordonnées GPS : 46.99264, 3.13326. Le bouton Itinéraire de cette page ouvre la navigation."
         ]
       },
       {
         "id": "contact",
         "titre": "Contacter SUPERMARCHÉ DU COLONEL",
         "paragraphes": [
-          "Le contact se fait par téléphone au 03 86 38 37 66. C'est le seul moyen de communication déclaré sur la fiche Google de l'entreprise, avec la visite sur place.",
-          "Si vous dirigez cette entreprise, vous pouvez demander la correction ou le retrait de cette page à tout moment, sans justification."
+          "Le contact se fait par téléphone au 03 86 38 37 66, ou directement sur place aux horaires d'ouverture."
         ]
       },
       {
         "id": "avis",
         "titre": "La réputation de SUPERMARCHÉ DU COLONEL",
         "paragraphes": [
-          "Au relevé du 30 août 2026, l'établissement affichait une note de 4,1 sur 5 sur Google, calculée à partir de 55 avis. Cette note évolue en permanence : elle est indiquée ici à titre d'information et n'est pas retraitée.",
-          "Les avis appartiennent à Google et se consultent sur la fiche d'origine, dont le lien figure sur cette page."
+          "Note de 4,1 sur 5 pour 55 avis Google au relevé du 18 octobre 2026. Les avis les plus parlants sont compilés ci-dessous, avec un lien vers la fiche d'origine."
         ]
       }
     ],
     "faq": [
       {
         "q": "Quels sont les horaires de SUPERMARCHÉ DU COLONEL ?",
-        "r": "Au relevé du 30 août 2026, SUPERMARCHÉ DU COLONEL était ouvert sept jours sur sept. Dans le détail — lundi : de 9 h à 22 h ; mardi : de 9 h à 22 h ; mercredi : de 9 h à 22 h ; jeudi : de 9 h à 22 h ; vendredi : de 9 h à 22 h ; samedi : de 9 h à 22 h ; dimanche : de 9 h à 22 h. Ces horaires peuvent changer : un appel préalable reste conseillé."
+        "r": "Au relevé du 18 octobre 2026, SUPERMARCHÉ DU COLONEL était ouvert sept jours sur sept. Dans le détail — lundi : de 9 h à 22 h ; mardi : de 9 h à 22 h ; mercredi : de 9 h à 22 h ; jeudi : de 9 h à 22 h ; vendredi : de 9 h à 22 h ; samedi : de 9 h à 22 h ; dimanche : de 9 h à 22 h. Ces horaires peuvent changer : un appel préalable reste conseillé."
+      },
+      {
+        "q": "SUPERMARCHÉ DU COLONEL est-il ouvert le dimanche ?",
+        "r": "Oui : le dimanche, SUPERMARCHÉ DU COLONEL est ouvert de 9 h à 22 h (horaires relevés le 18 octobre 2026)."
       },
       {
         "q": "Où se trouve SUPERMARCHÉ DU COLONEL ?",
@@ -185,15 +181,11 @@
         "r": "Par téléphone au 03 86 38 37 66, ou directement sur place aux heures d'ouverture."
       },
       {
-        "q": "SUPERMARCHÉ DU COLONEL a-t-il un site internet ?",
-        "r": "Non : aucune adresse de site web n'est déclarée sur la fiche Google de SUPERMARCHÉ DU COLONEL au 30 août 2026. Cette page tient lieu de référence publique en attendant, le cas échéant, la création d'un site propre à l'entreprise."
-      },
-      {
         "q": "SUPERMARCHÉ DU COLONEL est-il accessible aux personnes à mobilité réduite ?",
         "r": "La fiche Google de l'établissement mentionne : « Entrée accessible en fauteuil roulant ». Cette information est déclarative ; en cas de doute, vérifiez par téléphone."
       }
     ],
-    "genere_le": "2026-08-30"
+    "genere_le": "2026-10-18"
   },
   "suggestion": {
     "etat": "soumise",

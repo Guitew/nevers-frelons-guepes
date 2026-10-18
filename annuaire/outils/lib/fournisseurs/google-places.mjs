@@ -17,6 +17,8 @@
  * systématiquement datés dans la fiche et rafraîchis par « npm run backlinks ».
  */
 
+import { CHAMPS_SERVICES } from "../services.mjs";
+
 const RACINE_API = "https://places.googleapis.com/v1";
 
 // Types rejetés par searchNearby (Table B uniquement) — cache auto-alimenté.
@@ -57,7 +59,9 @@ const CHAMPS_DETAIL = [
 
 // Avec les avis : SKU « Place Details Enterprise + Atmosphere », plus cher.
 // L'API n'en transmet que cinq par établissement, sans choix du tri.
-const CHAMPS_DETAIL_AVIS = `${CHAMPS_DETAIL},reviews`;
+// Les prestations (prix, à emporter, réservation, terrasse, paiement, parking,
+// résumé éditorial) relèvent du même SKU : demandées dans le même appel.
+const CHAMPS_DETAIL_AVIS = `${CHAMPS_DETAIL},reviews,${CHAMPS_SERVICES.join(",")}`;
 
 function cle() {
   const k = process.env.GOOGLE_PLACES_API_KEY;

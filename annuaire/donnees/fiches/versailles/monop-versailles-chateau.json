@@ -131,18 +131,18 @@
   },
   "source": "google-places",
   "redaction": {
+    "version": 2,
     "titre": "Monop’ Versailles Château — Commerce d'alimentation à Versailles",
-    "meta_titre": "Monop’ Versailles Château, commerce d'alimentation à…",
-    "meta_description": "Monop’ Versailles Château, commerce d'alimentation à Versailles (7 Avenue de Sceaux) : adresse, horaires, téléphone et informations pratiques.",
-    "chapo": "Monop’ Versailles Château exerce l'activité de commerce d'alimentation au 7 Avenue de Sceaux, à Versailles. Faute de site internet déclaré sur sa fiche Google, l'entreprise reste difficile à trouver en dehors des cartes. Cette page comble ce manque avec des données factuelles et datées.",
+    "meta_titre": "Monop’ Versailles Château à Versailles : horaires, avis",
+    "meta_description": "Monop’ Versailles Château, commerce d'alimentation à Versailles : horaires d'ouverture, note Google 4/5 (175 avis), téléphone, adresse et itinéraire.",
+    "chapo": "Monop’ Versailles Château exerce l'activité de commerce d'alimentation au 7 Avenue de Sceaux, à Versailles. Ouvert sept jours sur sept au relevé du 9 octobre 2026. Téléphone : 01 73 95 01 64. Note Google : 4 sur 5 pour 175 avis.",
     "sections": [
       {
         "id": "presentation",
         "titre": "Monop’ Versailles Château en quelques mots",
         "paragraphes": [
-          "Le choix d'un commerce d'alimentation se joue sur trois critères : la proximité, les horaires et la facilité de contact.",
-          "Le commerce alimentaire de proximité redevient un réflexe, mais son information circule mal : jours de marché, produits de saison, vente directe. Cette fiche rassemble ce que le consommateur cherche avant de se déplacer.",
-          "D'après le relevé du 27 septembre 2026, l'établissement est ouvert sept jours sur sept. Le détail jour par jour figure plus bas."
+          "Sur Google, l'établissement est classé « Supermarché », dans notre rubrique Commerce d'alimentation.",
+          "D'après le relevé du 9 octobre 2026, l'établissement est ouvert sept jours sur sept. Le détail jour par jour figure plus bas."
         ]
       },
       {
@@ -150,30 +150,32 @@
         "titre": "Adresse et accès",
         "paragraphes": [
           "L'établissement est situé au 7 Avenue de Sceaux, 78000 Versailles.",
-          "Coordonnées géographiques : 48.80055, 2.12759. Le lien d'itinéraire ci-dessous ouvre directement la navigation."
+          "Coordonnées GPS : 48.80055, 2.12759. Le bouton Itinéraire de cette page ouvre la navigation."
         ]
       },
       {
         "id": "contact",
         "titre": "Contacter Monop’ Versailles Château",
         "paragraphes": [
-          "Le contact se fait par téléphone au 01 73 95 01 64. C'est le seul moyen de communication déclaré sur la fiche Google de l'entreprise, avec la visite sur place.",
-          "Si vous dirigez cette entreprise, vous pouvez demander la correction ou le retrait de cette page à tout moment, sans justification."
+          "Le contact se fait par téléphone au 01 73 95 01 64, ou directement sur place aux horaires d'ouverture."
         ]
       },
       {
         "id": "avis",
         "titre": "La réputation de Monop’ Versailles Château",
         "paragraphes": [
-          "Au relevé du 27 septembre 2026, l'établissement affichait une note de 4 sur 5 sur Google, calculée à partir de 173 avis. Cette note évolue en permanence : elle est indiquée ici à titre d'information et n'est pas retraitée.",
-          "Les avis appartiennent à Google et se consultent sur la fiche d'origine, dont le lien figure sur cette page."
+          "Note de 4 sur 5 pour 175 avis Google au relevé du 9 octobre 2026. Les avis se consultent sur la fiche Google, dont le lien figure sur cette page."
         ]
       }
     ],
     "faq": [
       {
         "q": "Quels sont les horaires de Monop’ Versailles Château ?",
-        "r": "Au relevé du 27 septembre 2026, Monop’ Versailles Château était ouvert sept jours sur sept. Dans le détail — lundi : de 8 h à 22 h ; mardi : de 8 h à 22 h ; mercredi : de 8 h à 22 h ; jeudi : de 8 h à 22 h ; vendredi : de 8 h à 22 h ; samedi : de 8 h à 22 h ; dimanche : de 9 h à 22 h. Ces horaires peuvent changer : un appel préalable reste conseillé."
+        "r": "Au relevé du 9 octobre 2026, Monop’ Versailles Château était ouvert sept jours sur sept. Dans le détail — lundi : de 8 h à 22 h ; mardi : de 8 h à 22 h ; mercredi : de 8 h à 22 h ; jeudi : de 8 h à 22 h ; vendredi : de 8 h à 22 h ; samedi : de 8 h à 22 h ; dimanche : de 9 h à 22 h. Ces horaires peuvent changer : un appel préalable reste conseillé."
+      },
+      {
+        "q": "Monop’ Versailles Château est-il ouvert le dimanche ?",
+        "r": "Oui : le dimanche, Monop’ Versailles Château est ouvert de 9 h à 22 h (horaires relevés le 9 octobre 2026)."
       },
       {
         "q": "Où se trouve Monop’ Versailles Château ?",
@@ -184,15 +186,11 @@
         "r": "Par téléphone au 01 73 95 01 64, ou directement sur place aux heures d'ouverture."
       },
       {
-        "q": "Monop’ Versailles Château a-t-il un site internet ?",
-        "r": "Non : aucune adresse de site web n'est déclarée sur la fiche Google de Monop’ Versailles Château au 27 septembre 2026. Cette page tient lieu de référence publique en attendant, le cas échéant, la création d'un site propre à l'entreprise."
-      },
-      {
         "q": "Monop’ Versailles Château est-il accessible aux personnes à mobilité réduite ?",
         "r": "La fiche Google de l'établissement mentionne : « Entrée accessible en fauteuil roulant ». Cette information est déclarative ; en cas de doute, vérifiez par téléphone."
       }
     ],
-    "genere_le": "2026-09-27"
+    "genere_le": "2026-10-09"
   },
   "statut_google": "OPERATIONAL",
   "audience": {

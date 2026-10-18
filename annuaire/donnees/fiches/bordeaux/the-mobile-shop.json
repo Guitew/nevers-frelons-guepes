@@ -135,18 +135,18 @@
   },
   "source": "google-places",
   "redaction": {
+    "version": 2,
     "titre": "The Mobile Shop — Transport et déménagement à Bordeaux",
-    "meta_titre": "The Mobile Shop, transport et déménagement à Bordeaux",
-    "meta_description": "The Mobile Shop, transport et déménagement à Bordeaux (7 Place Casablanca) : adresse, horaires et informations pratiques.",
-    "chapo": "The Mobile Shop est un transport et déménagement au 7 Place Casablanca, à Bordeaux. Aucune adresse web n'est renseignée sur sa fiche Google. Cette page rassemble donc, en un seul endroit stable, les informations que les clients recherchent avant de se déplacer.",
+    "meta_titre": "The Mobile Shop à Bordeaux : horaires, avis",
+    "meta_description": "The Mobile Shop, transport et déménagement à Bordeaux : horaires d'ouverture, note Google 3,6/5 (114 avis), adresse et itinéraire.",
+    "chapo": "The Mobile Shop est un transport et déménagement au 7 Place Casablanca, à Bordeaux. Ouvert sept jours sur sept au relevé du 14 octobre 2026. Note Google : 3,6 sur 5 pour 114 avis.",
     "sections": [
       {
         "id": "presentation",
         "titre": "The Mobile Shop en quelques mots",
         "paragraphes": [
-          "Transport, déménagement et stockage font partie des activités les plus consultées localement sur mobile.",
-          "Déménagement, course urgente, transport de personnes : des services décidés rapidement et comparés sur la disponibilité. La fiche rassemble la zone couverte, les moyens et le contact direct, sans passer par une place de marché.",
-          "D'après le relevé du 12 octobre 2026, l'établissement est ouvert sept jours sur sept. Le détail jour par jour figure plus bas."
+          "Sur Google, l'établissement est classé « Magasin », dans notre rubrique Transport et déménagement.",
+          "D'après le relevé du 14 octobre 2026, l'établissement est ouvert sept jours sur sept. Le détail jour par jour figure plus bas."
         ]
       },
       {
@@ -154,41 +154,39 @@
         "titre": "Adresse et accès",
         "paragraphes": [
           "L'établissement est situé au 7 Place Casablanca, 33800 Bordeaux.",
-          "Coordonnées géographiques : 44.82619, -0.55768. Le lien d'itinéraire ci-dessous ouvre directement la navigation."
+          "Coordonnées GPS : 44.82619, -0.55768. Le bouton Itinéraire de cette page ouvre la navigation."
         ]
       },
       {
         "id": "contact",
         "titre": "Contacter The Mobile Shop",
         "paragraphes": [
-          "Aucun numéro de téléphone n'est déclaré sur la fiche Google de l'établissement : le contact se fait sur place, aux horaires indiqués.",
-          "Si vous dirigez cette entreprise, vous pouvez demander la correction ou le retrait de cette page à tout moment, sans justification."
+          "Aucun numéro de téléphone n'est déclaré sur la fiche Google de l'établissement : le contact se fait sur place, aux horaires indiqués."
         ]
       },
       {
         "id": "avis",
         "titre": "La réputation de The Mobile Shop",
         "paragraphes": [
-          "Au relevé du 12 octobre 2026, l'établissement affichait une note de 3,6 sur 5 sur Google, calculée à partir de 114 avis. Cette note évolue en permanence : elle est indiquée ici à titre d'information et n'est pas retraitée.",
-          "Les avis appartiennent à Google et se consultent sur la fiche d'origine, dont le lien figure sur cette page."
+          "Note de 3,6 sur 5 pour 114 avis Google au relevé du 14 octobre 2026. Les avis se consultent sur la fiche Google, dont le lien figure sur cette page."
         ]
       }
     ],
     "faq": [
       {
         "q": "Quels sont les horaires de The Mobile Shop ?",
-        "r": "Au relevé du 12 octobre 2026, The Mobile Shop était ouvert sept jours sur sept. Dans le détail — lundi : de 10 h à 0 h ; mardi : de 10 h à 20 h ; mercredi : de 10 h à 20 h ; jeudi : de 10 h à 20 h ; vendredi : de 10 h à 20 h ; samedi : de 10 h à 19 h 30 ; dimanche : de 11 h à 18 h. Ces horaires peuvent changer : un appel préalable reste conseillé."
+        "r": "Au relevé du 14 octobre 2026, The Mobile Shop était ouvert sept jours sur sept. Dans le détail — lundi : de 10 h à 0 h ; mardi : de 10 h à 20 h ; mercredi : de 10 h à 20 h ; jeudi : de 10 h à 20 h ; vendredi : de 10 h à 20 h ; samedi : de 10 h à 19 h 30 ; dimanche : de 11 h à 18 h. Ces horaires peuvent changer : un appel préalable reste conseillé."
+      },
+      {
+        "q": "The Mobile Shop est-il ouvert le dimanche ?",
+        "r": "Oui : le dimanche, The Mobile Shop est ouvert de 11 h à 18 h (horaires relevés le 14 octobre 2026)."
       },
       {
         "q": "Où se trouve The Mobile Shop ?",
         "r": "The Mobile Shop se trouve 7 Pl. Casablanca, 33800 Bordeaux. Un lien d'itinéraire est disponible sur cette page."
-      },
-      {
-        "q": "The Mobile Shop a-t-il un site internet ?",
-        "r": "Non : aucune adresse de site web n'est déclarée sur la fiche Google de The Mobile Shop au 12 octobre 2026. Cette page tient lieu de référence publique en attendant, le cas échéant, la création d'un site propre à l'entreprise."
       }
     ],
-    "genere_le": "2026-10-12"
+    "genere_le": "2026-10-14"
   },
   "statut_google": "OPERATIONAL",
   "audience": {

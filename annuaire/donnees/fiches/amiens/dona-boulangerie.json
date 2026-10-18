@@ -123,18 +123,18 @@
   },
   "source": "google-places",
   "redaction": {
+    "version": 2,
     "titre": "Dona Boulangerie — Boulangerie-pâtisserie à Amiens",
-    "meta_titre": "Dona Boulangerie, boulangerie-pâtisserie à Amiens",
-    "meta_description": "Dona Boulangerie, boulangerie-pâtisserie à Amiens (150 Rue Jean Moulin) : adresse, horaires, téléphone et informations pratiques.",
-    "chapo": "Dona Boulangerie exerce l'activité de boulangerie-pâtisserie au 150 Rue Jean Moulin, à Amiens. Faute de site internet déclaré sur sa fiche Google, l'entreprise reste difficile à trouver en dehors des cartes. Cette page comble ce manque avec des données factuelles et datées.",
+    "meta_titre": "Dona Boulangerie à Amiens : horaires, avis, téléphone",
+    "meta_description": "Dona Boulangerie, boulangerie-pâtisserie à Amiens : horaires d'ouverture, note Google 4,6/5 (122 avis), téléphone, adresse et itinéraire.",
+    "chapo": "Dona Boulangerie exerce l'activité de boulangerie-pâtisserie au 150 Rue Jean Moulin, à Amiens. Ouvert tous les jours sauf le lundi au relevé du 11 octobre 2026. Téléphone : 07 51 40 03 29. Note Google : 4,6 sur 5 pour 122 avis.",
     "sections": [
       {
         "id": "presentation",
         "titre": "Dona Boulangerie en quelques mots",
         "paragraphes": [
-          "Le choix d'une boulangerie-pâtisserie se joue sur trois critères : la proximité, les horaires et la facilité de contact.",
-          "L'artisanat de bouche vit du passage et du bouche-à-oreille : le site web passe souvent après le fournil. Les informations pratiques — jour de fermeture, heure de sortie du pain, spécialités — sont pourtant ce que les habitants cherchent le plus souvent depuis leur téléphone.",
-          "D'après le relevé du 1 octobre 2026, l'établissement est ouvert tous les jours sauf le lundi. Le détail jour par jour figure plus bas."
+          "Sur Google, l'établissement est classé « Boulangerie », dans notre rubrique Boulangerie-pâtisserie.",
+          "D'après le relevé du 11 octobre 2026, l'établissement est ouvert tous les jours sauf le lundi. Le détail jour par jour figure plus bas."
         ]
       },
       {
@@ -142,30 +142,32 @@
         "titre": "Adresse et accès",
         "paragraphes": [
           "L'établissement est situé au 150 Rue Jean Moulin, 80000 Amiens.",
-          "Coordonnées géographiques : 49.87976, 2.27488. Le lien d'itinéraire ci-dessous ouvre directement la navigation."
+          "Coordonnées GPS : 49.87976, 2.27488. Le bouton Itinéraire de cette page ouvre la navigation."
         ]
       },
       {
         "id": "contact",
         "titre": "Contacter Dona Boulangerie",
         "paragraphes": [
-          "Le contact se fait par téléphone au 07 51 40 03 29. C'est le seul moyen de communication déclaré sur la fiche Google de l'entreprise, avec la visite sur place.",
-          "Si vous dirigez cette entreprise, vous pouvez demander la correction ou le retrait de cette page à tout moment, sans justification."
+          "Le contact se fait par téléphone au 07 51 40 03 29, ou directement sur place aux horaires d'ouverture."
         ]
       },
       {
         "id": "avis",
         "titre": "La réputation de Dona Boulangerie",
         "paragraphes": [
-          "Au relevé du 1 octobre 2026, l'établissement affichait une note de 4,7 sur 5 sur Google, calculée à partir de 120 avis. Cette note évolue en permanence : elle est indiquée ici à titre d'information et n'est pas retraitée.",
-          "Les avis appartiennent à Google et se consultent sur la fiche d'origine, dont le lien figure sur cette page."
+          "Note de 4,6 sur 5 pour 122 avis Google au relevé du 11 octobre 2026. Les avis se consultent sur la fiche Google, dont le lien figure sur cette page."
         ]
       }
     ],
     "faq": [
       {
         "q": "Quels sont les horaires de Dona Boulangerie ?",
-        "r": "Au relevé du 1 octobre 2026, Dona Boulangerie était ouvert tous les jours sauf le lundi. Dans le détail — lundi : fermé ; mardi : de 7 h 30 à 19 h 30 ; mercredi : de 7 h 30 à 19 h 30 ; jeudi : de 7 h 30 à 19 h 30 ; vendredi : de 7 h 30 à 19 h 30 ; samedi : de 7 h 30 à 19 h 30 ; dimanche : de 7 h 30 à 18 h 30. Ces horaires peuvent changer : un appel préalable reste conseillé."
+        "r": "Au relevé du 11 octobre 2026, Dona Boulangerie était ouvert tous les jours sauf le lundi. Dans le détail — lundi : fermé ; mardi : de 7 h 30 à 19 h 30 ; mercredi : de 7 h 30 à 19 h 30 ; jeudi : de 7 h 30 à 19 h 30 ; vendredi : de 7 h 30 à 19 h 30 ; samedi : de 7 h 30 à 19 h 30 ; dimanche : de 7 h 30 à 18 h 30. Ces horaires peuvent changer : un appel préalable reste conseillé."
+      },
+      {
+        "q": "Dona Boulangerie est-il ouvert le dimanche ?",
+        "r": "Oui : le dimanche, Dona Boulangerie est ouvert de 7 h 30 à 18 h 30 (horaires relevés le 11 octobre 2026)."
       },
       {
         "q": "Où se trouve Dona Boulangerie ?",
@@ -174,13 +176,9 @@
       {
         "q": "Comment contacter Dona Boulangerie ?",
         "r": "Par téléphone au 07 51 40 03 29, ou directement sur place aux heures d'ouverture."
-      },
-      {
-        "q": "Dona Boulangerie a-t-il un site internet ?",
-        "r": "Non : aucune adresse de site web n'est déclarée sur la fiche Google de Dona Boulangerie au 1 octobre 2026. Cette page tient lieu de référence publique en attendant, le cas échéant, la création d'un site propre à l'entreprise."
       }
     ],
-    "genere_le": "2026-10-01"
+    "genere_le": "2026-10-11"
   },
   "statut_google": "OPERATIONAL",
   "audience": {

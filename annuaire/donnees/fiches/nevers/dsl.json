@@ -32,7 +32,7 @@
   "attributs": [],
   "lien_google": "https://maps.google.com/?cid=7204404238226282454&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
   "site_web_gmb": null,
-  "statut": "retiree",
+  "statut": "publiee",
   "backlink": {
     "etat": "absent",
     "premiere_detection": null,
@@ -41,31 +41,25 @@
     "echecs": 74,
     "url_detectee": null
   },
-  "retrait": {
-    "mode": "410",
-    "cible": null,
-    "date": "2026-10-14",
-    "motif": "page non indexée par Google 45 jours après sa mise en ligne (Détectée, actuellement non indexée)",
-    "cause": "non-indexee"
-  },
+  "retrait": null,
   "dates": {
     "collecte": "2026-08-30",
     "publication": "2026-08-30",
-    "maj": "2026-10-14"
+    "maj": "2026-10-18"
   },
   "source": "google-places",
   "redaction": {
+    "version": 2,
     "titre": "DSL — Transport et déménagement à Nevers",
-    "meta_titre": "DSL, transport et déménagement à Nevers",
-    "meta_description": "DSL, transport et déménagement à Nevers (72 Avenue du Stand) : adresse, horaires et informations pratiques.",
-    "chapo": "DSL figure parmi les établissements de la catégorie « Transport et déménagement » recensés à Nevers. L'entreprise n'a pas de site web référencé sur sa fiche Google. Les éléments présentés ici — adresse, horaires, contact — proviennent de cette fiche et sont datés de leur relevé.",
+    "meta_titre": "DSL à Nevers : avis",
+    "meta_description": "DSL, transport et déménagement à Nevers : note Google 4/5 (1 avis), adresse et itinéraire.",
+    "chapo": "DSL, transport et déménagement au 72 Avenue du Stand, à Nevers. Note Google : 4 sur 5 pour 1 avis.",
     "sections": [
       {
         "id": "presentation",
         "titre": "DSL en quelques mots",
         "paragraphes": [
-          "Le choix d'un transport et déménagement se joue sur trois critères : la proximité, les horaires et la facilité de contact.",
-          "Déménagement, course urgente, transport de personnes : des services décidés rapidement et comparés sur la disponibilité. La fiche rassemble la zone couverte, les moyens et le contact direct, sans passer par une place de marché."
+          "Sur Google, l'établissement est classé « Stockage », dans notre rubrique Transport et déménagement."
         ]
       },
       {
@@ -73,23 +67,21 @@
         "titre": "Adresse et accès",
         "paragraphes": [
           "L'établissement est situé au 72 Avenue du Stand, 58000 Nevers.",
-          "Coordonnées géographiques : 46.97702, 3.15004. Le lien d'itinéraire ci-dessous ouvre directement la navigation."
+          "Coordonnées GPS : 46.97702, 3.15004. Le bouton Itinéraire de cette page ouvre la navigation."
         ]
       },
       {
         "id": "contact",
         "titre": "Contacter DSL",
         "paragraphes": [
-          "Aucun numéro de téléphone n'est déclaré sur la fiche Google de l'établissement : le contact se fait sur place, aux horaires indiqués.",
-          "Si vous dirigez cette entreprise, vous pouvez demander la correction ou le retrait de cette page à tout moment, sans justification."
+          "Aucun numéro de téléphone n'est déclaré sur la fiche Google de l'établissement : le contact se fait sur place, aux horaires indiqués."
         ]
       },
       {
         "id": "avis",
         "titre": "La réputation de DSL",
         "paragraphes": [
-          "Au relevé du 30 août 2026, l'établissement affichait une note de 4 sur 5 sur Google, calculée à partir de 1 avis. Cette note évolue en permanence : elle est indiquée ici à titre d'information et n'est pas retraitée.",
-          "Les avis appartiennent à Google et se consultent sur la fiche d'origine, dont le lien figure sur cette page."
+          "Note de 4 sur 5 pour 1 avis Google au relevé du 18 octobre 2026. Les avis se consultent sur la fiche Google, dont le lien figure sur cette page."
         ]
       }
     ],
@@ -97,13 +89,9 @@
       {
         "q": "Où se trouve DSL ?",
         "r": "DSL se trouve 72 Av. du Stand, 58000 Nevers. Un lien d'itinéraire est disponible sur cette page."
-      },
-      {
-        "q": "DSL a-t-il un site internet ?",
-        "r": "Non : aucune adresse de site web n'est déclarée sur la fiche Google de DSL au 30 août 2026. Cette page tient lieu de référence publique en attendant, le cas échéant, la création d'un site propre à l'entreprise."
       }
     ],
-    "genere_le": "2026-08-30"
+    "genere_le": "2026-10-18"
   },
   "suggestion": {
     "etat": "en-attente",

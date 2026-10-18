@@ -55,6 +55,22 @@ function age(fiche, maintenant) {
 }
 
 /**
+ * Verdicts qui signifient « Google a exploré la page et l'a écartée ». Les
+ * autres verdicts « non indexée » — « Détectée, actuellement non indexée »,
+ * « Google ne reconnaît pas cette URL » — signifient seulement que Google n'a
+ * pas encore exploré la page (budget d'exploration, autorité du domaine) :
+ * ils ne disent rien de sa qualité et ne fondent aucun retrait. Le 18/10/2026,
+ * 99 fiches avaient été retirées sur ces seuls verdicts ; elles ont été
+ * republiées.
+ */
+export const COUVERTURES_REFUS = [/^(Explorée|Crawled)/i, /soft 404/i, /en double|duplicate/i, /canonique|canonical/i];
+
+export function estRefusee(indexation) {
+  const c = indexation?.couverture || "";
+  return COUVERTURES_REFUS.some((re) => re.test(c));
+}
+
+/**
  * Répartit les fiches publiées en trois groupes :
  *   - parImpressions : indexées sans appel (audience récente avec impressions) ;
  *   - aInspecter     : à interroger aujourd'hui, dans la limite du quota ;
@@ -90,14 +106,16 @@ export function selectionner(fiches, reglages, maintenant = new Date()) {
 
 /**
  * La page est-elle à retirer pour défaut d'indexation ?
- * Trois conditions : un verdict « non indexée », récent, sur une page assez
- * âgée. Un verdict périmé ne compte pas : si l'inspection tombe en panne, la
+ * Quatre conditions : un verdict « non indexée » qui soit un vrai refus
+ * (page explorée puis écartée, voir COUVERTURES_REFUS), récent, sur une page
+ * assez âgée. Un verdict périmé ne compte pas : si l'inspection tombe en panne, la
  * règle s'éteint au lieu de retirer à l'aveugle.
  */
 export function estNonIndexee(fiche, reglages, maintenant = new Date()) {
   const r = reglagesCouverture(reglages);
   const ix = fiche.indexation;
   if (!ix || ix.etat !== "non-indexee" || !ix.date) return false;
+  if (!estRefusee(ix)) return false;
   const fraicheur = joursDepuis(ix.date, maintenant);
   if (fraicheur === null || fraicheur > r.fraicheurJours) return false;
   const a = age(fiche, maintenant);

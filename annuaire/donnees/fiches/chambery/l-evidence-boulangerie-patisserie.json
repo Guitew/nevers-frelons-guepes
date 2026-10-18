@@ -126,18 +126,18 @@
   },
   "source": "google-places",
   "redaction": {
+    "version": 2,
     "titre": "L'EVIDENCE Boulangerie-Pâtisserie — Boulangerie-pâtisserie à Chambéry",
-    "meta_titre": "L'EVIDENCE Boulangerie-Pâtisserie, boulangerie-pâtisserie…",
-    "meta_description": "L'EVIDENCE Boulangerie-Pâtisserie, boulangerie-pâtisserie à Chambéry (711 Avenue de la Motte Servolex) : adresse, horaires, téléphone et informations…",
-    "chapo": "L'EVIDENCE Boulangerie-Pâtisserie exerce l'activité de boulangerie-pâtisserie au 711 Avenue de la Motte Servolex, à Chambéry. Faute de site internet déclaré sur sa fiche Google, l'entreprise reste difficile à trouver en dehors des cartes. Cette page comble ce manque avec des données factuelles et datées.",
+    "meta_titre": "L'EVIDENCE Boulangerie-Pâtisserie à Chambéry",
+    "meta_description": "L'EVIDENCE Boulangerie-Pâtisserie, boulangerie-pâtisserie à Chambéry : horaires d'ouverture, téléphone, adresse et itinéraire.",
+    "chapo": "L'EVIDENCE Boulangerie-Pâtisserie exerce l'activité de boulangerie-pâtisserie au 711 Avenue de la Motte Servolex, à Chambéry. Ouvert tous les jours sauf le lundi au relevé du 12 octobre 2026. Téléphone : 04 79 62 24 71. Note Google : 4,2 sur 5 pour 308 avis.",
     "sections": [
       {
         "id": "presentation",
         "titre": "L'EVIDENCE Boulangerie-Pâtisserie en quelques mots",
         "paragraphes": [
-          "Le choix d'une boulangerie-pâtisserie se joue sur trois critères : la proximité, les horaires et la facilité de contact.",
-          "L'artisanat de bouche vit du passage et du bouche-à-oreille : le site web passe souvent après le fournil. Les informations pratiques — jour de fermeture, heure de sortie du pain, spécialités — sont pourtant ce que les habitants cherchent le plus souvent depuis leur téléphone.",
-          "D'après le relevé du 23 septembre 2026, l'établissement est ouvert tous les jours sauf le lundi. Le détail jour par jour figure plus bas."
+          "Sur Google, l'établissement est classé « Boulangerie », dans notre rubrique Boulangerie-pâtisserie.",
+          "D'après le relevé du 12 octobre 2026, l'établissement est ouvert tous les jours sauf le lundi. Le détail jour par jour figure plus bas."
         ]
       },
       {
@@ -145,30 +145,32 @@
         "titre": "Adresse et accès",
         "paragraphes": [
           "L'établissement est situé au 711 Avenue de la Motte Servolex, 73000 Chambéry.",
-          "Coordonnées géographiques : 45.58161, 5.88810. Le lien d'itinéraire ci-dessous ouvre directement la navigation."
+          "Coordonnées GPS : 45.58161, 5.88810. Le bouton Itinéraire de cette page ouvre la navigation."
         ]
       },
       {
         "id": "contact",
         "titre": "Contacter L'EVIDENCE Boulangerie-Pâtisserie",
         "paragraphes": [
-          "Le contact se fait par téléphone au 04 79 62 24 71. C'est le seul moyen de communication déclaré sur la fiche Google de l'entreprise, avec la visite sur place.",
-          "Si vous dirigez cette entreprise, vous pouvez demander la correction ou le retrait de cette page à tout moment, sans justification."
+          "Le contact se fait par téléphone au 04 79 62 24 71, ou directement sur place aux horaires d'ouverture."
         ]
       },
       {
         "id": "avis",
         "titre": "La réputation de L'EVIDENCE Boulangerie-Pâtisserie",
         "paragraphes": [
-          "Au relevé du 23 septembre 2026, l'établissement affichait une note de 4,2 sur 5 sur Google, calculée à partir de 303 avis. Cette note évolue en permanence : elle est indiquée ici à titre d'information et n'est pas retraitée.",
-          "Les avis appartiennent à Google et se consultent sur la fiche d'origine, dont le lien figure sur cette page."
+          "Note de 4,2 sur 5 pour 308 avis Google au relevé du 12 octobre 2026. Les avis se consultent sur la fiche Google, dont le lien figure sur cette page."
         ]
       }
     ],
     "faq": [
       {
         "q": "Quels sont les horaires de L'EVIDENCE Boulangerie-Pâtisserie ?",
-        "r": "Au relevé du 23 septembre 2026, L'EVIDENCE Boulangerie-Pâtisserie était ouvert tous les jours sauf le lundi. Dans le détail — lundi : fermé ; mardi : de 6 h à 19 h 30 ; mercredi : de 6 h à 19 h 30 ; jeudi : de 6 h à 19 h 30 ; vendredi : de 6 h à 19 h 30 ; samedi : de 6 h à 19 h 30 ; dimanche : de 6 h 30 à 13 h. Ces horaires peuvent changer : un appel préalable reste conseillé."
+        "r": "Au relevé du 12 octobre 2026, L'EVIDENCE Boulangerie-Pâtisserie était ouvert tous les jours sauf le lundi. Dans le détail — lundi : fermé ; mardi : de 6 h à 19 h 30 ; mercredi : de 6 h à 19 h 30 ; jeudi : de 6 h à 19 h 30 ; vendredi : de 6 h à 19 h 30 ; samedi : de 6 h à 19 h 30 ; dimanche : de 6 h 30 à 13 h. Ces horaires peuvent changer : un appel préalable reste conseillé."
+      },
+      {
+        "q": "L'EVIDENCE Boulangerie-Pâtisserie est-il ouvert le dimanche ?",
+        "r": "Oui : le dimanche, L'EVIDENCE Boulangerie-Pâtisserie est ouvert de 6 h 30 à 13 h (horaires relevés le 12 octobre 2026)."
       },
       {
         "q": "Où se trouve L'EVIDENCE Boulangerie-Pâtisserie ?",
@@ -179,15 +181,11 @@
         "r": "Par téléphone au 04 79 62 24 71, ou directement sur place aux heures d'ouverture."
       },
       {
-        "q": "L'EVIDENCE Boulangerie-Pâtisserie a-t-il un site internet ?",
-        "r": "Non : aucune adresse de site web n'est déclarée sur la fiche Google de L'EVIDENCE Boulangerie-Pâtisserie au 23 septembre 2026. Cette page tient lieu de référence publique en attendant, le cas échéant, la création d'un site propre à l'entreprise."
-      },
-      {
         "q": "L'EVIDENCE Boulangerie-Pâtisserie est-il accessible aux personnes à mobilité réduite ?",
         "r": "La fiche Google de l'établissement mentionne : « Entrée accessible en fauteuil roulant ». Cette information est déclarative ; en cas de doute, vérifiez par téléphone."
       }
     ],
-    "genere_le": "2026-09-23"
+    "genere_le": "2026-10-12"
   },
   "statut_google": "OPERATIONAL",
   "audience": {

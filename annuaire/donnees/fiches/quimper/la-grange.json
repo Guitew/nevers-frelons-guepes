@@ -146,18 +146,17 @@
   },
   "source": "google-places",
   "redaction": {
+    "version": 2,
     "titre": "La Grange — Restaurant à Quimper",
-    "meta_titre": "La Grange, restaurant à Quimper",
-    "meta_description": "La Grange, restaurant à Quimper (11 Rue du Chapeau Rouge) : adresse, horaires, téléphone et informations pratiques.",
-    "chapo": "Cette fiche présente La Grange, un restaurant au 11 Rue du Chapeau Rouge, à Quimper. Son établissement ne déclare aucun site internet sur sa fiche Google : les informations ci-dessous en tiennent lieu de référence publique, vérifiable et accessible à tous.",
+    "meta_titre": "La Grange à Quimper : horaires, avis, téléphone",
+    "meta_description": "La Grange, restaurant à Quimper : horaires d'ouverture, note Google 4,7/5 (768 avis), téléphone, adresse et itinéraire.",
+    "chapo": "Cette fiche présente La Grange, un restaurant au 11 Rue du Chapeau Rouge, à Quimper. Ouvert sept jours sur sept au relevé du 9 octobre 2026. Téléphone : 02 21 33 19 87. Note Google : 4,7 sur 5 pour 768 avis.",
     "sections": [
       {
         "id": "presentation",
         "titre": "La Grange en quelques mots",
         "paragraphes": [
-          "À Quimper, les recherches du type « restaurant près de chez moi » se concluent le plus souvent par un appel ou une visite directe.",
-          "Les restaurants figurent parmi les commerces les plus recherchés en ligne, et pourtant beaucoup n'exposent qu'une fiche Google sans site. Retrouver ici leur carte d'identité complète — adresse, horaires, téléphone, spécialités — aide les clients à réserver et aide l'établissement à exister ailleurs que sur une plateforme d'avis.",
-          "D'après le relevé du 20 septembre 2026, l'établissement est ouvert sept jours sur sept. Le détail jour par jour figure plus bas."
+          "D'après le relevé du 9 octobre 2026, l'établissement est ouvert sept jours sur sept. Le détail jour par jour figure plus bas."
         ]
       },
       {
@@ -165,30 +164,32 @@
         "titre": "Adresse et accès",
         "paragraphes": [
           "L'établissement est situé au 11 Rue du Chapeau Rouge, 29000 Quimper.",
-          "Coordonnées géographiques : 47.99631, -4.10698. Le lien d'itinéraire ci-dessous ouvre directement la navigation."
+          "Coordonnées GPS : 47.99631, -4.10698. Le bouton Itinéraire de cette page ouvre la navigation."
         ]
       },
       {
         "id": "contact",
         "titre": "Contacter La Grange",
         "paragraphes": [
-          "Le contact se fait par téléphone au 02 21 33 19 87. C'est le seul moyen de communication déclaré sur la fiche Google de l'entreprise, avec la visite sur place.",
-          "Si vous dirigez cette entreprise, vous pouvez demander la correction ou le retrait de cette page à tout moment, sans justification."
+          "Le contact se fait par téléphone au 02 21 33 19 87, ou directement sur place aux horaires d'ouverture."
         ]
       },
       {
         "id": "avis",
         "titre": "La réputation de La Grange",
         "paragraphes": [
-          "Au relevé du 20 septembre 2026, l'établissement affichait une note de 4,7 sur 5 sur Google, calculée à partir de 766 avis. Cette note évolue en permanence : elle est indiquée ici à titre d'information et n'est pas retraitée.",
-          "Les avis appartiennent à Google et se consultent sur la fiche d'origine, dont le lien figure sur cette page."
+          "Note de 4,7 sur 5 pour 768 avis Google au relevé du 9 octobre 2026. Les avis se consultent sur la fiche Google, dont le lien figure sur cette page."
         ]
       }
     ],
     "faq": [
       {
         "q": "Quels sont les horaires de La Grange ?",
-        "r": "Au relevé du 20 septembre 2026, La Grange était ouvert sept jours sur sept. Dans le détail — lundi : de 11 h à 14 h 30 et de 17 h à 23 h ; mardi : de 17 h à 23 h ; mercredi : de 17 h à 23 h ; jeudi : de 11 h à 14 h 30 et de 17 h à 23 h ; vendredi : de 11 h à 14 h et de 17 h 30 à 1 h ; samedi : de 11 h à 14 h 30 et de 18 h à 1 h ; dimanche : de 17 h à 23 h. Ces horaires peuvent changer : un appel préalable reste conseillé."
+        "r": "Au relevé du 9 octobre 2026, La Grange était ouvert sept jours sur sept. Dans le détail — lundi : de 11 h à 14 h 30 et de 17 h à 23 h ; mardi : de 17 h à 23 h ; mercredi : de 17 h à 23 h ; jeudi : de 11 h à 14 h 30 et de 17 h à 23 h ; vendredi : de 11 h à 14 h et de 17 h 30 à 1 h ; samedi : de 11 h à 14 h 30 et de 18 h à 1 h ; dimanche : de 17 h à 23 h. Ces horaires peuvent changer : un appel préalable reste conseillé."
+      },
+      {
+        "q": "La Grange est-il ouvert le dimanche ?",
+        "r": "Oui : le dimanche, La Grange est ouvert de 17 h à 23 h (horaires relevés le 9 octobre 2026)."
       },
       {
         "q": "Où se trouve La Grange ?",
@@ -199,15 +200,11 @@
         "r": "Par téléphone au 02 21 33 19 87, ou directement sur place aux heures d'ouverture."
       },
       {
-        "q": "La Grange a-t-il un site internet ?",
-        "r": "Non : aucune adresse de site web n'est déclarée sur la fiche Google de La Grange au 20 septembre 2026. Cette page tient lieu de référence publique en attendant, le cas échéant, la création d'un site propre à l'entreprise."
-      },
-      {
         "q": "La Grange est-il accessible aux personnes à mobilité réduite ?",
         "r": "La fiche Google de l'établissement mentionne : « Entrée accessible en fauteuil roulant ». Cette information est déclarative ; en cas de doute, vérifiez par téléphone."
       }
     ],
-    "genere_le": "2026-09-20"
+    "genere_le": "2026-10-09"
   },
   "statut_google": "OPERATIONAL",
   "audience": {

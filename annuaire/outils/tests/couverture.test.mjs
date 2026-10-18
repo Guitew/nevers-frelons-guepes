@@ -46,14 +46,21 @@ test("le quota est respecté, les jamais inspectées d'abord puis les verdicts l
   assert.deepEqual(aInspecter.map((f) => f.slug), ["b", "c"]);
 });
 
-test("le retrait exige un verdict non indexée, récent, sur une page d'au moins 45 jours", () => {
-  const nonIndexee = fiche({ indexation: { etat: "non-indexee", date: "2026-09-20" } });
+test("le retrait exige un vrai refus (page explorée puis écartée), récent, sur une page d'au moins 45 jours", () => {
+  const REFUS = "Explorée, actuellement non indexée";
+  const nonIndexee = fiche({ indexation: { etat: "non-indexee", couverture: REFUS, date: "2026-09-20" } });
   assert.equal(estNonIndexee(nonIndexee, R, MAINTENANT), true);
   const indexee = fiche({ indexation: { etat: "indexee", date: "2026-09-20" } });
   assert.equal(estNonIndexee(indexee, R, MAINTENANT), false);
-  const perime = fiche({ indexation: { etat: "non-indexee", date: "2026-08-01" } });
+  const perime = fiche({ indexation: { etat: "non-indexee", couverture: REFUS, date: "2026-08-01" } });
   assert.equal(estNonIndexee(perime, R, MAINTENANT), false, "un verdict périmé ne fonde pas un retrait");
-  const jeune = fiche({ dates: { publication: "2026-08-20" }, indexation: { etat: "non-indexee", date: "2026-09-20" } });
+  const jeune = fiche({ dates: { publication: "2026-08-20" }, indexation: { etat: "non-indexee", couverture: REFUS, date: "2026-09-20" } });
   assert.equal(estNonIndexee(jeune, R, MAINTENANT), false, "32 jours : trop tôt");
   assert.equal(estNonIndexee(fiche(), R, MAINTENANT), false, "sans verdict, rien");
+  // Pas encore explorée ≠ refusée : aucun retrait.
+  for (const couverture of ["Détectée, actuellement non indexée", "Google ne reconnaît pas cette URL", "Discovered - currently not indexed", ""]) {
+    const pasExploree = fiche({ indexation: { etat: "non-indexee", couverture, date: "2026-09-20" } });
+    assert.equal(estNonIndexee(pasExploree, R, MAINTENANT), false, `« ${couverture} » n'est pas un refus`);
+  }
+  assert.equal(estNonIndexee(fiche({ indexation: { etat: "non-indexee", couverture: "Soft 404", date: "2026-09-20" } }), R, MAINTENANT), true);
 });

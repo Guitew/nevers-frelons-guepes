@@ -35,7 +35,7 @@
   ],
   "lien_google": "https://maps.google.com/?cid=6793210931197660982&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
   "site_web_gmb": null,
-  "statut": "retiree",
+  "statut": "publiee",
   "backlink": {
     "etat": "absent",
     "premiere_detection": null,
@@ -50,13 +50,7 @@
     "tentatives": 1,
     "date_email": "2026-09-02"
   },
-  "retrait": {
-    "mode": "410",
-    "cible": null,
-    "date": "2026-10-18",
-    "motif": "page non indexée par Google 46 jours après sa mise en ligne (Détectée, actuellement non indexée)",
-    "cause": "non-indexee"
-  },
+  "retrait": null,
   "dates": {
     "collecte": "2026-09-02",
     "publication": "2026-09-02",
@@ -64,17 +58,17 @@
   },
   "source": "google-places",
   "redaction": {
+    "version": 2,
     "titre": "Le Puy en Velay — Hébergement à Le Puy-en-Velay",
-    "meta_titre": "Le Puy en Velay, hébergement à Le Puy-en-Velay",
-    "meta_description": "Le Puy en Velay, hébergement à Le Puy-en-Velay (49 Rue Pannessac) : adresse, horaires, téléphone et informations pratiques.",
-    "chapo": "Le Puy en Velay figure parmi les établissements de la catégorie « Hébergement » recensés à Le Puy-en-Velay. L'entreprise n'a pas de site web référencé sur sa fiche Google. Les éléments présentés ici — adresse, horaires, contact — proviennent de cette fiche et sont datés de leur relevé.",
+    "meta_titre": "Le Puy en Velay à Le Puy-en-Velay : avis, téléphone",
+    "meta_description": "Le Puy en Velay, hébergement à Le Puy-en-Velay : note Google 4,7/5 (1026 avis), téléphone, adresse et itinéraire.",
+    "chapo": "Le Puy en Velay, hébergement au 49 Rue Pannessac, à Le Puy-en-Velay. Téléphone : 06 71 28 11 07. Note Google : 4,7 sur 5 pour 1026 avis.",
     "sections": [
       {
         "id": "presentation",
         "titre": "Le Puy en Velay en quelques mots",
         "paragraphes": [
-          "Le choix d'un hébergement se joue sur trois critères : la proximité, les horaires et la facilité de contact.",
-          "Un hébergement sans site web dépend entièrement des plateformes de réservation et de leurs commissions. Une page publique, stable et indexable rétablit un point de contact direct : téléphone, adresse exacte, capacité et conditions d'accueil."
+          "Le Puy en Velay est référencé dans la rubrique Hébergement à Le Puy-en-Velay. Les informations de cette page proviennent de sa fiche Google publique, relevée le 18 octobre 2026."
         ]
       },
       {
@@ -82,23 +76,21 @@
         "titre": "Adresse et accès",
         "paragraphes": [
           "L'établissement est situé au 49 Rue Pannessac, 43000 Le Puy-en-Velay.",
-          "Coordonnées géographiques : 45.04230, 3.88258. Le lien d'itinéraire ci-dessous ouvre directement la navigation."
+          "Coordonnées GPS : 45.04230, 3.88258. Le bouton Itinéraire de cette page ouvre la navigation."
         ]
       },
       {
         "id": "contact",
         "titre": "Contacter Le Puy en Velay",
         "paragraphes": [
-          "Le contact se fait par téléphone au 06 71 28 11 07. C'est le seul moyen de communication déclaré sur la fiche Google de l'entreprise, avec la visite sur place.",
-          "Si vous dirigez cette entreprise, vous pouvez demander la correction ou le retrait de cette page à tout moment, sans justification."
+          "Le contact se fait par téléphone au 06 71 28 11 07, ou directement sur place aux horaires d'ouverture."
         ]
       },
       {
         "id": "avis",
         "titre": "La réputation de Le Puy en Velay",
         "paragraphes": [
-          "Au relevé du 2 septembre 2026, l'établissement affichait une note de 4,7 sur 5 sur Google, calculée à partir de 1016 avis. Cette note évolue en permanence : elle est indiquée ici à titre d'information et n'est pas retraitée.",
-          "Les avis appartiennent à Google et se consultent sur la fiche d'origine, dont le lien figure sur cette page."
+          "Note de 4,7 sur 5 pour 1026 avis Google au relevé du 18 octobre 2026. Les avis se consultent sur la fiche Google, dont le lien figure sur cette page."
         ]
       }
     ],
@@ -112,15 +104,11 @@
         "r": "Par téléphone au 06 71 28 11 07, ou directement sur place aux heures d'ouverture."
       },
       {
-        "q": "Le Puy en Velay a-t-il un site internet ?",
-        "r": "Non : aucune adresse de site web n'est déclarée sur la fiche Google de Le Puy en Velay au 2 septembre 2026. Cette page tient lieu de référence publique en attendant, le cas échéant, la création d'un site propre à l'entreprise."
-      },
-      {
         "q": "Le Puy en Velay est-il accessible aux personnes à mobilité réduite ?",
         "r": "La fiche Google de l'établissement mentionne : « Entrée accessible en fauteuil roulant ». Cette information est déclarative ; en cas de doute, vérifiez par téléphone."
       }
     ],
-    "genere_le": "2026-09-02"
+    "genere_le": "2026-10-18"
   },
   "statut_google": "OPERATIONAL",
   "audience": {

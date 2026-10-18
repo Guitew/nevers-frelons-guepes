@@ -126,18 +126,18 @@
   },
   "source": "google-places",
   "redaction": {
+    "version": 2,
     "titre": "La Pince à Linge — Nettoyage et hygiène à Annecy",
-    "meta_titre": "La Pince à Linge, nettoyage et hygiène à Annecy",
-    "meta_description": "La Pince à Linge, nettoyage et hygiène à Annecy (22 Avenue de Bouvard) : adresse, horaires, téléphone et informations pratiques.",
-    "chapo": "La Pince à Linge exerce l'activité de nettoyage et hygiène au 22 Avenue de Bouvard, à Annecy. Faute de site internet déclaré sur sa fiche Google, l'entreprise reste difficile à trouver en dehors des cartes. Cette page comble ce manque avec des données factuelles et datées.",
+    "meta_titre": "La Pince à Linge à Annecy : horaires, avis, téléphone",
+    "meta_description": "La Pince à Linge, nettoyage et hygiène à Annecy : horaires d'ouverture, note Google 4,6/5 (65 avis), téléphone, adresse et itinéraire.",
+    "chapo": "La Pince à Linge exerce l'activité de nettoyage et hygiène au 22 Avenue de Bouvard, à Annecy. Ouvert sept jours sur sept au relevé du 13 octobre 2026. Téléphone : 06 98 78 73 33. Note Google : 4,6 sur 5 pour 65 avis.",
     "sections": [
       {
         "id": "presentation",
         "titre": "La Pince à Linge en quelques mots",
         "paragraphes": [
-          "À Annecy, les recherches du type « nettoyage et hygiène près de chez moi » se concluent le plus souvent par un appel ou une visite directe.",
-          "Nettoyage de locaux, remise en état, pressing ou traitement des nuisibles : des services régulièrement recherchés par les particuliers comme par les entreprises, et pourtant très peu représentés en ligne à l'échelle d'une commune.",
-          "D'après le relevé du 23 septembre 2026, l'établissement est ouvert sept jours sur sept. Le détail jour par jour figure plus bas."
+          "Sur Google, l'établissement est classé « Blanchisserie », dans notre rubrique Nettoyage et hygiène.",
+          "D'après le relevé du 13 octobre 2026, l'établissement est ouvert sept jours sur sept. Le détail jour par jour figure plus bas."
         ]
       },
       {
@@ -145,30 +145,32 @@
         "titre": "Adresse et accès",
         "paragraphes": [
           "L'établissement est situé au 22 Avenue de Bouvard, 74000 Annecy.",
-          "Coordonnées géographiques : 45.90301, 6.11892. Le lien d'itinéraire ci-dessous ouvre directement la navigation."
+          "Coordonnées GPS : 45.90301, 6.11892. Le bouton Itinéraire de cette page ouvre la navigation."
         ]
       },
       {
         "id": "contact",
         "titre": "Contacter La Pince à Linge",
         "paragraphes": [
-          "Le contact se fait par téléphone au 06 98 78 73 33. C'est le seul moyen de communication déclaré sur la fiche Google de l'entreprise, avec la visite sur place.",
-          "Si vous dirigez cette entreprise, vous pouvez demander la correction ou le retrait de cette page à tout moment, sans justification."
+          "Le contact se fait par téléphone au 06 98 78 73 33, ou directement sur place aux horaires d'ouverture."
         ]
       },
       {
         "id": "avis",
         "titre": "La réputation de La Pince à Linge",
         "paragraphes": [
-          "Au relevé du 23 septembre 2026, l'établissement affichait une note de 4,6 sur 5 sur Google, calculée à partir de 64 avis. Cette note évolue en permanence : elle est indiquée ici à titre d'information et n'est pas retraitée.",
-          "Les avis appartiennent à Google et se consultent sur la fiche d'origine, dont le lien figure sur cette page."
+          "Note de 4,6 sur 5 pour 65 avis Google au relevé du 13 octobre 2026. Les avis se consultent sur la fiche Google, dont le lien figure sur cette page."
         ]
       }
     ],
     "faq": [
       {
         "q": "Quels sont les horaires de La Pince à Linge ?",
-        "r": "Au relevé du 23 septembre 2026, La Pince à Linge était ouvert sept jours sur sept. Dans le détail — lundi : de 7 h à 21 h ; mardi : de 7 h à 21 h ; mercredi : de 7 h à 21 h ; jeudi : de 7 h à 21 h ; vendredi : de 7 h à 21 h ; samedi : de 7 h à 21 h ; dimanche : de 7 h à 21 h. Ces horaires peuvent changer : un appel préalable reste conseillé."
+        "r": "Au relevé du 13 octobre 2026, La Pince à Linge était ouvert sept jours sur sept. Dans le détail — lundi : de 7 h à 21 h ; mardi : de 7 h à 21 h ; mercredi : de 7 h à 21 h ; jeudi : de 7 h à 21 h ; vendredi : de 7 h à 21 h ; samedi : de 7 h à 21 h ; dimanche : de 7 h à 21 h. Ces horaires peuvent changer : un appel préalable reste conseillé."
+      },
+      {
+        "q": "La Pince à Linge est-il ouvert le dimanche ?",
+        "r": "Oui : le dimanche, La Pince à Linge est ouvert de 7 h à 21 h (horaires relevés le 13 octobre 2026)."
       },
       {
         "q": "Où se trouve La Pince à Linge ?",
@@ -177,13 +179,9 @@
       {
         "q": "Comment contacter La Pince à Linge ?",
         "r": "Par téléphone au 06 98 78 73 33, ou directement sur place aux heures d'ouverture."
-      },
-      {
-        "q": "La Pince à Linge a-t-il un site internet ?",
-        "r": "Non : aucune adresse de site web n'est déclarée sur la fiche Google de La Pince à Linge au 23 septembre 2026. Cette page tient lieu de référence publique en attendant, le cas échéant, la création d'un site propre à l'entreprise."
       }
     ],
-    "genere_le": "2026-09-23"
+    "genere_le": "2026-10-13"
   },
   "statut_google": "OPERATIONAL",
   "audience": {

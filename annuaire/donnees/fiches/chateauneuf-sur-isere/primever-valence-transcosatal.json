@@ -36,7 +36,7 @@
   ],
   "lien_google": "https://maps.google.com/?cid=13232911990711047750&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
   "site_web_gmb": null,
-  "statut": "retiree",
+  "statut": "publiee",
   "backlink": {
     "etat": "absent",
     "premiere_detection": null,
@@ -51,13 +51,7 @@
     "tentatives": 0,
     "date_email": "2026-09-02"
   },
-  "retrait": {
-    "mode": "410",
-    "cible": null,
-    "date": "2026-10-18",
-    "motif": "page non indexée par Google 46 jours après sa mise en ligne (Détectée, actuellement non indexée)",
-    "cause": "non-indexee"
-  },
+  "retrait": null,
   "dates": {
     "collecte": "2026-09-02",
     "publication": "2026-09-02",
@@ -65,17 +59,17 @@
   },
   "source": "google-places",
   "redaction": {
+    "version": 2,
     "titre": "Primever Valence (Transcosatal) — Transport et déménagement à Châteauneuf-sur-Isère",
-    "meta_titre": "Primever Valence (Transcosatal), transport et déménagement…",
-    "meta_description": "Primever Valence (Transcosatal), transport et déménagement à Châteauneuf-sur-Isère (Saut des Chèvres) : adresse, horaires, téléphone et informations…",
-    "chapo": "Cette fiche présente Primever Valence (Transcosatal), un transport et déménagement au Saut des Chèvres, à Châteauneuf-sur-Isère. Son établissement ne déclare aucun site internet sur sa fiche Google : les informations ci-dessous en tiennent lieu de référence publique, vérifiable et accessible à tous.",
+    "meta_titre": "Primever Valence (Transcosatal) : avis, téléphone",
+    "meta_description": "Primever Valence (Transcosatal), transport et déménagement à Châteauneuf-sur-Isère : note Google 3,9/5 (57 avis), téléphone, adresse et itinéraire.",
+    "chapo": "Cette fiche présente Primever Valence (Transcosatal), un transport et déménagement au Saut des Chèvres, à Châteauneuf-sur-Isère. Téléphone : 04 75 57 47 07. Note Google : 3,9 sur 5 pour 57 avis.",
     "sections": [
       {
         "id": "presentation",
         "titre": "Primever Valence (Transcosatal) en quelques mots",
         "paragraphes": [
-          "Le choix d'un transport et déménagement se joue sur trois critères : la proximité, les horaires et la facilité de contact.",
-          "Déménagement, course urgente, transport de personnes : des services décidés rapidement et comparés sur la disponibilité. La fiche rassemble la zone couverte, les moyens et le contact direct, sans passer par une place de marché."
+          "Sur Google, l'établissement est classé « Entreprise de déménagement », dans notre rubrique Transport et déménagement."
         ]
       },
       {
@@ -83,23 +77,21 @@
         "titre": "Adresse et accès",
         "paragraphes": [
           "L'établissement est situé au Saut des Chèvres, 26300 Châteauneuf-sur-Isère.",
-          "Coordonnées géographiques : 44.98088, 4.88060. Le lien d'itinéraire ci-dessous ouvre directement la navigation."
+          "Coordonnées GPS : 44.98088, 4.88060. Le bouton Itinéraire de cette page ouvre la navigation."
         ]
       },
       {
         "id": "contact",
         "titre": "Contacter Primever Valence (Transcosatal)",
         "paragraphes": [
-          "Le contact se fait par téléphone au 04 75 57 47 07. C'est le seul moyen de communication déclaré sur la fiche Google de l'entreprise, avec la visite sur place.",
-          "Si vous dirigez cette entreprise, vous pouvez demander la correction ou le retrait de cette page à tout moment, sans justification."
+          "Le contact se fait par téléphone au 04 75 57 47 07, ou directement sur place aux horaires d'ouverture."
         ]
       },
       {
         "id": "avis",
         "titre": "La réputation de Primever Valence (Transcosatal)",
         "paragraphes": [
-          "Au relevé du 2 septembre 2026, l'établissement affichait une note de 3,9 sur 5 sur Google, calculée à partir de 57 avis. Cette note évolue en permanence : elle est indiquée ici à titre d'information et n'est pas retraitée.",
-          "Les avis appartiennent à Google et se consultent sur la fiche d'origine, dont le lien figure sur cette page."
+          "Note de 3,9 sur 5 pour 57 avis Google au relevé du 18 octobre 2026. Les avis se consultent sur la fiche Google, dont le lien figure sur cette page."
         ]
       }
     ],
@@ -113,15 +105,11 @@
         "r": "Par téléphone au 04 75 57 47 07, ou directement sur place aux heures d'ouverture."
       },
       {
-        "q": "Primever Valence (Transcosatal) a-t-il un site internet ?",
-        "r": "Non : aucune adresse de site web n'est déclarée sur la fiche Google de Primever Valence (Transcosatal) au 2 septembre 2026. Cette page tient lieu de référence publique en attendant, le cas échéant, la création d'un site propre à l'entreprise."
-      },
-      {
         "q": "Primever Valence (Transcosatal) est-il accessible aux personnes à mobilité réduite ?",
         "r": "La fiche Google de l'établissement mentionne : « Parking accessible en fauteuil roulant ». Cette information est déclarative ; en cas de doute, vérifiez par téléphone."
       }
     ],
-    "genere_le": "2026-09-02"
+    "genere_le": "2026-10-18"
   },
   "statut_google": "OPERATIONAL",
   "audience": {

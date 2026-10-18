@@ -130,18 +130,18 @@
   },
   "source": "google-places",
   "redaction": {
+    "version": 2,
     "titre": "Pharmacie des 4 Routes — Pharmacie ou opticien à Chamalières",
-    "meta_titre": "Pharmacie des 4 Routes, pharmacie ou opticien à Chamalières",
-    "meta_description": "Pharmacie des 4 Routes, pharmacie ou opticien à Chamalières (121 Ter Avenue Joseph Claussat) : adresse, horaires, téléphone et informations pratiques.",
-    "chapo": "Cette fiche présente Pharmacie des 4 Routes, une pharmacie ou opticien au 121 Ter Avenue Joseph Claussat, à Chamalières. Son établissement ne déclare aucun site internet sur sa fiche Google : les informations ci-dessous en tiennent lieu de référence publique, vérifiable et accessible à tous.",
+    "meta_titre": "Pharmacie des 4 Routes à Chamalières : horaires, avis",
+    "meta_description": "Pharmacie des 4 Routes, pharmacie ou opticien à Chamalières : horaires d'ouverture, note Google 4/5 (165 avis), téléphone, adresse et itinéraire.",
+    "chapo": "Cette fiche présente Pharmacie des 4 Routes, une pharmacie ou opticien au 121 Ter Avenue Joseph Claussat, à Chamalières. Ouvert sept jours sur sept au relevé du 9 octobre 2026. Téléphone : 04 73 37 69 87. Note Google : 4 sur 5 pour 165 avis.",
     "sections": [
       {
         "id": "presentation",
         "titre": "Pharmacie des 4 Routes en quelques mots",
         "paragraphes": [
-          "Pharmacies et opticiens font partie des activités les plus consultées localement sur mobile.",
-          "Pharmacies et opticiens sont des commerces de première nécessité dont on cherche surtout l'horaire et la garde. Une fiche complète et à jour sert autant l'habitant pressé que le professionnel qui n'a pas vocation à gérer un site.",
-          "D'après le relevé du 24 septembre 2026, l'établissement est ouvert sept jours sur sept. Le détail jour par jour figure plus bas."
+          "Sur Google, l'établissement est classé « Pharmacie », dans notre rubrique Pharmacie ou opticien.",
+          "D'après le relevé du 9 octobre 2026, l'établissement est ouvert sept jours sur sept. Le détail jour par jour figure plus bas."
         ]
       },
       {
@@ -149,30 +149,32 @@
         "titre": "Adresse et accès",
         "paragraphes": [
           "L'établissement est situé au 121 Ter Avenue Joseph Claussat, 63400 Chamalières.",
-          "Coordonnées géographiques : 45.78384, 3.06340. Le lien d'itinéraire ci-dessous ouvre directement la navigation."
+          "Coordonnées GPS : 45.78384, 3.06340. Le bouton Itinéraire de cette page ouvre la navigation."
         ]
       },
       {
         "id": "contact",
         "titre": "Contacter Pharmacie des 4 Routes",
         "paragraphes": [
-          "Le contact se fait par téléphone au 04 73 37 69 87. C'est le seul moyen de communication déclaré sur la fiche Google de l'entreprise, avec la visite sur place.",
-          "Si vous dirigez cette entreprise, vous pouvez demander la correction ou le retrait de cette page à tout moment, sans justification."
+          "Le contact se fait par téléphone au 04 73 37 69 87, ou directement sur place aux horaires d'ouverture."
         ]
       },
       {
         "id": "avis",
         "titre": "La réputation de Pharmacie des 4 Routes",
         "paragraphes": [
-          "Au relevé du 24 septembre 2026, l'établissement affichait une note de 4 sur 5 sur Google, calculée à partir de 165 avis. Cette note évolue en permanence : elle est indiquée ici à titre d'information et n'est pas retraitée.",
-          "Les avis appartiennent à Google et se consultent sur la fiche d'origine, dont le lien figure sur cette page."
+          "Note de 4 sur 5 pour 165 avis Google au relevé du 9 octobre 2026. Les avis se consultent sur la fiche Google, dont le lien figure sur cette page."
         ]
       }
     ],
     "faq": [
       {
         "q": "Quels sont les horaires de Pharmacie des 4 Routes ?",
-        "r": "Au relevé du 24 septembre 2026, Pharmacie des 4 Routes était ouvert sept jours sur sept. Dans le détail — lundi : de 8 h à 21 h ; mardi : de 8 h à 21 h ; mercredi : de 8 h à 21 h ; jeudi : de 8 h à 21 h ; vendredi : de 8 h à 21 h ; samedi : de 8 h à 21 h ; dimanche : de 8 h à 21 h. Ces horaires peuvent changer : un appel préalable reste conseillé."
+        "r": "Au relevé du 9 octobre 2026, Pharmacie des 4 Routes était ouvert sept jours sur sept. Dans le détail — lundi : de 8 h à 21 h ; mardi : de 8 h à 21 h ; mercredi : de 8 h à 21 h ; jeudi : de 8 h à 21 h ; vendredi : de 8 h à 21 h ; samedi : de 8 h à 21 h ; dimanche : de 8 h à 21 h. Ces horaires peuvent changer : un appel préalable reste conseillé."
+      },
+      {
+        "q": "Pharmacie des 4 Routes est-il ouvert le dimanche ?",
+        "r": "Oui : le dimanche, Pharmacie des 4 Routes est ouvert de 8 h à 21 h (horaires relevés le 9 octobre 2026)."
       },
       {
         "q": "Où se trouve Pharmacie des 4 Routes ?",
@@ -183,15 +185,11 @@
         "r": "Par téléphone au 04 73 37 69 87, ou directement sur place aux heures d'ouverture."
       },
       {
-        "q": "Pharmacie des 4 Routes a-t-il un site internet ?",
-        "r": "Non : aucune adresse de site web n'est déclarée sur la fiche Google de Pharmacie des 4 Routes au 24 septembre 2026. Cette page tient lieu de référence publique en attendant, le cas échéant, la création d'un site propre à l'entreprise."
-      },
-      {
         "q": "Pharmacie des 4 Routes est-il accessible aux personnes à mobilité réduite ?",
         "r": "La fiche Google de l'établissement mentionne : « Entrée accessible en fauteuil roulant ». Cette information est déclarative ; en cas de doute, vérifiez par téléphone."
       }
     ],
-    "genere_le": "2026-09-24"
+    "genere_le": "2026-10-09"
   },
   "statut_google": "OPERATIONAL",
   "audience": {

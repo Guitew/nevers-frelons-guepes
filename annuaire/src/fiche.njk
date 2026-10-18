@@ -7,9 +7,9 @@ permalink: "{{ f.url }}index.html"
 layout: layouts/base.njk
 miroirMarkdown: true
 eleventyComputed:
-  titre: "{{ f.redaction.titre }}"
-  meta_titre: "{{ f.redaction.meta_titre }} | {{ site.nomCourt }}"
-  meta_description: "{{ f.redaction.meta_description }}"
+  titre: "{{ f.redaction.titre | safe }}"
+  meta_titre: "{{ f.redaction.meta_titre | safe }} | {{ site.nomCourt }}"
+  meta_description: "{{ f.redaction.meta_description | safe }}"
   noindex: "{% if f.exemple %}oui{% endif %}"
 ---
 {#- Le fil d'Ariane est construit ici, et non dans « eleventyComputed » :
@@ -114,11 +114,17 @@ eleventyComputed:
       </section>
       {% endif %}
 
-      {% if f.attributs.length %}
+      {% set lib = f.services | libellesServices %}
+      {% if f.attributs.length or lib.oui.length or lib.non.length or lib.paiement.length %}
       <section id="informations">
         <h2>Informations pratiques</h2>
         <ul class="liste-attributs">
+          {% for a in lib.oui %}<li class="etiquette etiquette--vert">{{ a | capitalize }}</li>{% endfor %}
           {% for a in f.attributs %}<li class="etiquette etiquette--vert">{{ a }}</li>{% endfor %}
+          {% for a in lib.paiement %}<li class="etiquette">{{ a | capitalize }}</li>{% endfor %}
+          {% for a in lib.parking %}<li class="etiquette">{{ a | capitalize }}</li>{% endfor %}
+          {% for a in lib.non %}<li class="etiquette etiquette--rouge">Sans {{ a }}</li>{% endfor %}
+          {% set prix = f.services | prixLisible %}{% if prix %}<li class="etiquette etiquette--note">Prix : {{ prix }}</li>{% endif %}
         </ul>
         <p class="doux" style="margin-top:.9rem;font-size:.9rem;">
           Ces informations sont déclarées par l'établissement sur sa fiche Google.

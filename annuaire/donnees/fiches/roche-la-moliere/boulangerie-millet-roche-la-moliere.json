@@ -131,18 +131,18 @@
   },
   "source": "google-places",
   "redaction": {
+    "version": 2,
     "titre": "Boulangerie Millet Roche-la-Molière — Boulangerie-pâtisserie à Roche-la-Molière",
-    "meta_titre": "Boulangerie Millet Roche-la-Molière,…",
-    "meta_description": "Boulangerie Millet Roche-la-Molière, boulangerie-pâtisserie à Roche-la-Molière (Rue Buisson) : adresse, horaires, téléphone et informations pratiques.",
-    "chapo": "Boulangerie Millet Roche-la-Molière figure parmi les établissements de la catégorie « Boulangerie-pâtisserie » recensés à Roche-la-Molière. L'entreprise n'a pas de site web référencé sur sa fiche Google. Les éléments présentés ici — adresse, horaires, contact — proviennent de cette fiche et sont datés de leur relevé.",
+    "meta_titre": "Boulangerie Millet Roche-la-Molière à Roche-la-Molière",
+    "meta_description": "Boulangerie Millet Roche-la-Molière, boulangerie-pâtisserie à Roche-la-Molière : horaires d'ouverture, téléphone, adresse et itinéraire.",
+    "chapo": "Boulangerie Millet Roche-la-Molière, boulangerie-pâtisserie au Rue Buisson, à Roche-la-Molière. Ouvert sept jours sur sept au relevé du 10 octobre 2026. Téléphone : 04 77 33 43 83. Note Google : 4,1 sur 5 pour 175 avis.",
     "sections": [
       {
         "id": "presentation",
         "titre": "Boulangerie Millet Roche-la-Molière en quelques mots",
         "paragraphes": [
-          "Boulangeries et pâtisseries font partie des activités les plus consultées localement sur mobile.",
-          "L'artisanat de bouche vit du passage et du bouche-à-oreille : le site web passe souvent après le fournil. Les informations pratiques — jour de fermeture, heure de sortie du pain, spécialités — sont pourtant ce que les habitants cherchent le plus souvent depuis leur téléphone.",
-          "D'après le relevé du 30 septembre 2026, l'établissement est ouvert sept jours sur sept. Le détail jour par jour figure plus bas."
+          "Sur Google, l'établissement est classé « Boulangerie », dans notre rubrique Boulangerie-pâtisserie.",
+          "D'après le relevé du 10 octobre 2026, l'établissement est ouvert sept jours sur sept. Le détail jour par jour figure plus bas."
         ]
       },
       {
@@ -150,30 +150,32 @@
         "titre": "Adresse et accès",
         "paragraphes": [
           "L'établissement est situé au Rue Buisson, 42230 Roche-la-Molière.",
-          "Coordonnées géographiques : 45.43424, 4.33610. Le lien d'itinéraire ci-dessous ouvre directement la navigation."
+          "Coordonnées GPS : 45.43424, 4.33610. Le bouton Itinéraire de cette page ouvre la navigation."
         ]
       },
       {
         "id": "contact",
         "titre": "Contacter Boulangerie Millet Roche-la-Molière",
         "paragraphes": [
-          "Le contact se fait par téléphone au 04 77 33 43 83. C'est le seul moyen de communication déclaré sur la fiche Google de l'entreprise, avec la visite sur place.",
-          "Si vous dirigez cette entreprise, vous pouvez demander la correction ou le retrait de cette page à tout moment, sans justification."
+          "Le contact se fait par téléphone au 04 77 33 43 83, ou directement sur place aux horaires d'ouverture."
         ]
       },
       {
         "id": "avis",
         "titre": "La réputation de Boulangerie Millet Roche-la-Molière",
         "paragraphes": [
-          "Au relevé du 30 septembre 2026, l'établissement affichait une note de 4,1 sur 5 sur Google, calculée à partir de 174 avis. Cette note évolue en permanence : elle est indiquée ici à titre d'information et n'est pas retraitée.",
-          "Les avis appartiennent à Google et se consultent sur la fiche d'origine, dont le lien figure sur cette page."
+          "Note de 4,1 sur 5 pour 175 avis Google au relevé du 10 octobre 2026. Les avis se consultent sur la fiche Google, dont le lien figure sur cette page."
         ]
       }
     ],
     "faq": [
       {
         "q": "Quels sont les horaires de Boulangerie Millet Roche-la-Molière ?",
-        "r": "Au relevé du 30 septembre 2026, Boulangerie Millet Roche-la-Molière était ouvert sept jours sur sept. Dans le détail — lundi : de 6 h à 19 h 30 ; mardi : de 6 h à 19 h 30 ; mercredi : de 6 h à 19 h 30 ; jeudi : de 6 h à 19 h 30 ; vendredi : de 6 h à 19 h 30 ; samedi : de 7 h à 19 h 30 ; dimanche : de 7 h à 18 h. Ces horaires peuvent changer : un appel préalable reste conseillé."
+        "r": "Au relevé du 10 octobre 2026, Boulangerie Millet Roche-la-Molière était ouvert sept jours sur sept. Dans le détail — lundi : de 6 h à 19 h 30 ; mardi : de 6 h à 19 h 30 ; mercredi : de 6 h à 19 h 30 ; jeudi : de 6 h à 19 h 30 ; vendredi : de 6 h à 19 h 30 ; samedi : de 7 h à 19 h 30 ; dimanche : de 7 h à 18 h. Ces horaires peuvent changer : un appel préalable reste conseillé."
+      },
+      {
+        "q": "Boulangerie Millet Roche-la-Molière est-il ouvert le dimanche ?",
+        "r": "Oui : le dimanche, Boulangerie Millet Roche-la-Molière est ouvert de 7 h à 18 h (horaires relevés le 10 octobre 2026)."
       },
       {
         "q": "Où se trouve Boulangerie Millet Roche-la-Molière ?",
@@ -184,15 +186,11 @@
         "r": "Par téléphone au 04 77 33 43 83, ou directement sur place aux heures d'ouverture."
       },
       {
-        "q": "Boulangerie Millet Roche-la-Molière a-t-il un site internet ?",
-        "r": "Non : aucune adresse de site web n'est déclarée sur la fiche Google de Boulangerie Millet Roche-la-Molière au 30 septembre 2026. Cette page tient lieu de référence publique en attendant, le cas échéant, la création d'un site propre à l'entreprise."
-      },
-      {
         "q": "Boulangerie Millet Roche-la-Molière est-il accessible aux personnes à mobilité réduite ?",
         "r": "La fiche Google de l'établissement mentionne : « Entrée accessible en fauteuil roulant ». Cette information est déclarative ; en cas de doute, vérifiez par téléphone."
       }
     ],
-    "genere_le": "2026-09-30"
+    "genere_le": "2026-10-10"
   },
   "statut_google": "OPERATIONAL",
   "audience": {

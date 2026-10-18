@@ -129,18 +129,18 @@
   },
   "source": "google-places",
   "redaction": {
+    "version": 2,
     "titre": "Lion Auto Orleans — Garage et automobile à Orléans",
-    "meta_titre": "Lion Auto Orleans, garage et automobile à Orléans",
-    "meta_description": "Lion Auto Orleans, garage et automobile à Orléans (206 Rue du Faubourg Bannier) : adresse, horaires, téléphone et informations pratiques.",
-    "chapo": "Lion Auto Orleans est un garage et automobile au 206 Rue du Faubourg Bannier, à Orléans. Aucune adresse web n'est renseignée sur sa fiche Google. Cette page rassemble donc, en un seul endroit stable, les informations que les clients recherchent avant de se déplacer.",
+    "meta_titre": "Lion Auto Orleans à Orléans : horaires, avis, téléphone",
+    "meta_description": "Lion Auto Orleans, garage et automobile à Orléans : horaires d'ouverture, note Google 4/5 (120 avis), téléphone, adresse et itinéraire.",
+    "chapo": "Lion Auto Orleans est un garage et automobile au 206 Rue du Faubourg Bannier, à Orléans. Ouvert tous les jours sauf le dimanche au relevé du 9 octobre 2026. Téléphone : 02 38 83 50 32. Note Google : 4 sur 5 pour 120 avis.",
     "sections": [
       {
         "id": "presentation",
         "titre": "Lion Auto Orleans en quelques mots",
         "paragraphes": [
-          "Le choix d'un garage et automobile se joue sur trois critères : la proximité, les horaires et la facilité de contact.",
-          "Entretien, réparation, contrôle technique : l'automobiliste choisit d'abord un garage proche et disponible. Ces entreprises travaillent à flux tendu et délaissent presque toujours la création d'un site, malgré une demande de recherche locale considérable.",
-          "D'après le relevé du 4 octobre 2026, l'établissement est ouvert tous les jours sauf le dimanche. Le détail jour par jour figure plus bas."
+          "Sur Google, l'établissement est classé « Magasin de pièces de rechange automobiles », dans notre rubrique Garage et automobile.",
+          "D'après le relevé du 9 octobre 2026, l'établissement est ouvert tous les jours sauf le dimanche. Le détail jour par jour figure plus bas."
         ]
       },
       {
@@ -148,30 +148,32 @@
         "titre": "Adresse et accès",
         "paragraphes": [
           "L'établissement est situé au 206 Rue du Faubourg Bannier, 45000 Orléans.",
-          "Coordonnées géographiques : 47.92058, 1.89820. Le lien d'itinéraire ci-dessous ouvre directement la navigation."
+          "Coordonnées GPS : 47.92058, 1.89820. Le bouton Itinéraire de cette page ouvre la navigation."
         ]
       },
       {
         "id": "contact",
         "titre": "Contacter Lion Auto Orleans",
         "paragraphes": [
-          "Le contact se fait par téléphone au 02 38 83 50 32. C'est le seul moyen de communication déclaré sur la fiche Google de l'entreprise, avec la visite sur place.",
-          "Si vous dirigez cette entreprise, vous pouvez demander la correction ou le retrait de cette page à tout moment, sans justification."
+          "Le contact se fait par téléphone au 02 38 83 50 32, ou directement sur place aux horaires d'ouverture."
         ]
       },
       {
         "id": "avis",
         "titre": "La réputation de Lion Auto Orleans",
         "paragraphes": [
-          "Au relevé du 4 octobre 2026, l'établissement affichait une note de 4 sur 5 sur Google, calculée à partir de 120 avis. Cette note évolue en permanence : elle est indiquée ici à titre d'information et n'est pas retraitée.",
-          "Les avis appartiennent à Google et se consultent sur la fiche d'origine, dont le lien figure sur cette page."
+          "Note de 4 sur 5 pour 120 avis Google au relevé du 9 octobre 2026. Les avis se consultent sur la fiche Google, dont le lien figure sur cette page."
         ]
       }
     ],
     "faq": [
       {
         "q": "Quels sont les horaires de Lion Auto Orleans ?",
-        "r": "Au relevé du 4 octobre 2026, Lion Auto Orleans était ouvert tous les jours sauf le dimanche. Dans le détail — lundi : de 9 h à 18 h ; mardi : de 9 h à 18 h ; mercredi : de 9 h à 18 h ; jeudi : de 9 h à 18 h ; vendredi : de 9 h à 18 h ; samedi : de 9 h à 16 h ; dimanche : fermé. Ces horaires peuvent changer : un appel préalable reste conseillé."
+        "r": "Au relevé du 9 octobre 2026, Lion Auto Orleans était ouvert tous les jours sauf le dimanche. Dans le détail — lundi : de 9 h à 18 h ; mardi : de 9 h à 18 h ; mercredi : de 9 h à 18 h ; jeudi : de 9 h à 18 h ; vendredi : de 9 h à 18 h ; samedi : de 9 h à 16 h ; dimanche : fermé. Ces horaires peuvent changer : un appel préalable reste conseillé."
+      },
+      {
+        "q": "Lion Auto Orleans est-il ouvert le dimanche ?",
+        "r": "Non : d'après les horaires relevés le 9 octobre 2026, Lion Auto Orleans est fermé le dimanche."
       },
       {
         "q": "Où se trouve Lion Auto Orleans ?",
@@ -182,15 +184,11 @@
         "r": "Par téléphone au 02 38 83 50 32, ou directement sur place aux heures d'ouverture."
       },
       {
-        "q": "Lion Auto Orleans a-t-il un site internet ?",
-        "r": "Non : aucune adresse de site web n'est déclarée sur la fiche Google de Lion Auto Orleans au 4 octobre 2026. Cette page tient lieu de référence publique en attendant, le cas échéant, la création d'un site propre à l'entreprise."
-      },
-      {
         "q": "Lion Auto Orleans est-il accessible aux personnes à mobilité réduite ?",
         "r": "La fiche Google de l'établissement mentionne : « Entrée accessible en fauteuil roulant ». Cette information est déclarative ; en cas de doute, vérifiez par téléphone."
       }
     ],
-    "genere_le": "2026-10-04"
+    "genere_le": "2026-10-09"
   },
   "statut_google": "OPERATIONAL",
   "audience": {

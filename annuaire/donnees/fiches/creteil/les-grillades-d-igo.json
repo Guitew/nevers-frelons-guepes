@@ -112,18 +112,18 @@
   },
   "source": "google-places",
   "redaction": {
+    "version": 2,
     "titre": "Les grillades d’IGO — Restaurant à Créteil",
-    "meta_titre": "Les grillades d’IGO, restaurant à Créteil",
-    "meta_description": "Les grillades d’IGO, restaurant à Créteil (11 Rue du Docteur Ramon) : adresse, horaires, téléphone et informations pratiques.",
-    "chapo": "Cette fiche présente Les grillades d’IGO, un restaurant au 11 Rue du Docteur Ramon, à Créteil. Son établissement ne déclare aucun site internet sur sa fiche Google : les informations ci-dessous en tiennent lieu de référence publique, vérifiable et accessible à tous.",
+    "meta_titre": "Les grillades d’IGO à Créteil : horaires, avis, téléphone",
+    "meta_description": "Les grillades d’IGO, restaurant à Créteil : horaires d'ouverture, note Google 4,5/5 (883 avis), téléphone, adresse et itinéraire.",
+    "chapo": "Cette fiche présente Les grillades d’IGO, un restaurant au 11 Rue du Docteur Ramon, à Créteil. Ouvert le vendredi, samedi, dimanche au relevé du 9 octobre 2026. Téléphone : 01 43 39 49 15. Note Google : 4,5 sur 5 pour 883 avis.",
     "sections": [
       {
         "id": "presentation",
         "titre": "Les grillades d’IGO en quelques mots",
         "paragraphes": [
-          "Le choix d'un restaurant se joue sur trois critères : la proximité, les horaires et la facilité de contact.",
-          "Les restaurants figurent parmi les commerces les plus recherchés en ligne, et pourtant beaucoup n'exposent qu'une fiche Google sans site. Retrouver ici leur carte d'identité complète — adresse, horaires, téléphone, spécialités — aide les clients à réserver et aide l'établissement à exister ailleurs que sur une plateforme d'avis.",
-          "D'après le relevé du 1 septembre 2026, l'établissement est ouvert le vendredi, samedi, dimanche. Le détail jour par jour figure plus bas."
+          "Sur Google, l'établissement est classé « Restaurant de grillades », dans notre rubrique Restaurant.",
+          "D'après le relevé du 9 octobre 2026, l'établissement est ouvert le vendredi, samedi, dimanche. Le détail jour par jour figure plus bas."
         ]
       },
       {
@@ -131,30 +131,32 @@
         "titre": "Adresse et accès",
         "paragraphes": [
           "L'établissement est situé au 11 Rue du Docteur Ramon, 94000 Créteil.",
-          "Coordonnées géographiques : 48.77386, 2.46716. Le lien d'itinéraire ci-dessous ouvre directement la navigation."
+          "Coordonnées GPS : 48.77386, 2.46716. Le bouton Itinéraire de cette page ouvre la navigation."
         ]
       },
       {
         "id": "contact",
         "titre": "Contacter Les grillades d’IGO",
         "paragraphes": [
-          "Le contact se fait par téléphone au 01 43 39 49 15. C'est le seul moyen de communication déclaré sur la fiche Google de l'entreprise, avec la visite sur place.",
-          "Si vous dirigez cette entreprise, vous pouvez demander la correction ou le retrait de cette page à tout moment, sans justification."
+          "Le contact se fait par téléphone au 01 43 39 49 15, ou directement sur place aux horaires d'ouverture."
         ]
       },
       {
         "id": "avis",
         "titre": "La réputation de Les grillades d’IGO",
         "paragraphes": [
-          "Au relevé du 1 septembre 2026, l'établissement affichait une note de 4,5 sur 5 sur Google, calculée à partir de 813 avis. Cette note évolue en permanence : elle est indiquée ici à titre d'information et n'est pas retraitée.",
-          "Les avis appartiennent à Google et se consultent sur la fiche d'origine, dont le lien figure sur cette page."
+          "Note de 4,5 sur 5 pour 883 avis Google au relevé du 9 octobre 2026. Les avis se consultent sur la fiche Google, dont le lien figure sur cette page."
         ]
       }
     ],
     "faq": [
       {
         "q": "Quels sont les horaires de Les grillades d’IGO ?",
-        "r": "Au relevé du 1 septembre 2026, Les grillades d’IGO était ouvert le vendredi, samedi, dimanche. Dans le détail — lundi : fermé ; mardi : fermé ; mercredi : fermé ; jeudi : fermé ; vendredi : de 14 h à 4 h ; samedi : de 12 h à 4 h ; dimanche : de 12 h à 2 h. Ces horaires peuvent changer : un appel préalable reste conseillé."
+        "r": "Au relevé du 9 octobre 2026, Les grillades d’IGO était ouvert le vendredi, samedi, dimanche. Dans le détail — lundi : fermé ; mardi : fermé ; mercredi : fermé ; jeudi : fermé ; vendredi : de 14 h à 4 h ; samedi : de 12 h à 4 h ; dimanche : de 12 h à 2 h. Ces horaires peuvent changer : un appel préalable reste conseillé."
+      },
+      {
+        "q": "Les grillades d’IGO est-il ouvert le dimanche ?",
+        "r": "Oui : le dimanche, Les grillades d’IGO est ouvert de 12 h à 2 h (horaires relevés le 9 octobre 2026)."
       },
       {
         "q": "Où se trouve Les grillades d’IGO ?",
@@ -165,15 +167,11 @@
         "r": "Par téléphone au 01 43 39 49 15, ou directement sur place aux heures d'ouverture."
       },
       {
-        "q": "Les grillades d’IGO a-t-il un site internet ?",
-        "r": "Non : aucune adresse de site web n'est déclarée sur la fiche Google de Les grillades d’IGO au 1 septembre 2026. Cette page tient lieu de référence publique en attendant, le cas échéant, la création d'un site propre à l'entreprise."
-      },
-      {
         "q": "Les grillades d’IGO est-il accessible aux personnes à mobilité réduite ?",
         "r": "La fiche Google de l'établissement mentionne : « Entrée accessible en fauteuil roulant ». Cette information est déclarative ; en cas de doute, vérifiez par téléphone."
       }
     ],
-    "genere_le": "2026-09-01"
+    "genere_le": "2026-10-09"
   },
   "statut_google": "OPERATIONAL",
   "audience": {

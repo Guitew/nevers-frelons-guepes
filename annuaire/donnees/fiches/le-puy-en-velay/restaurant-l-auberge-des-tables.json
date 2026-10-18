@@ -34,7 +34,7 @@
   "attributs": [],
   "lien_google": "https://maps.google.com/?cid=11602323567256325359&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
   "site_web_gmb": null,
-  "statut": "retiree",
+  "statut": "publiee",
   "backlink": {
     "etat": "absent",
     "premiere_detection": null,
@@ -49,13 +49,7 @@
     "tentatives": 0,
     "date_email": "2026-09-03"
   },
-  "retrait": {
-    "mode": "410",
-    "cible": null,
-    "date": "2026-10-18",
-    "motif": "page non indexée par Google 45 jours après sa mise en ligne (Détectée, actuellement non indexée)",
-    "cause": "non-indexee"
-  },
+  "retrait": null,
   "dates": {
     "collecte": "2026-09-03",
     "publication": "2026-09-03",
@@ -63,17 +57,17 @@
   },
   "source": "google-places",
   "redaction": {
+    "version": 2,
     "titre": "Restaurant l'Auberge des Tables — Restaurant à Le Puy-en-Velay",
-    "meta_titre": "Restaurant l'Auberge des Tables, restaurant à Le…",
-    "meta_description": "Restaurant l'Auberge des Tables, restaurant à Le Puy-en-Velay (19 Rue des Tables) : adresse, horaires, téléphone et informations pratiques.",
-    "chapo": "Restaurant l'Auberge des Tables est un restaurant au 19 Rue des Tables, à Le Puy-en-Velay. Aucune adresse web n'est renseignée sur sa fiche Google. Cette page rassemble donc, en un seul endroit stable, les informations que les clients recherchent avant de se déplacer.",
+    "meta_titre": "Restaurant l'Auberge des Tables : avis, téléphone",
+    "meta_description": "Restaurant l'Auberge des Tables, restaurant à Le Puy-en-Velay : note Google 3,9/5 (376 avis), téléphone, adresse et itinéraire.",
+    "chapo": "Restaurant l'Auberge des Tables est un restaurant au 19 Rue des Tables, à Le Puy-en-Velay. Téléphone : 07 68 59 73 84. Note Google : 3,9 sur 5 pour 376 avis.",
     "sections": [
       {
         "id": "presentation",
         "titre": "Restaurant l'Auberge des Tables en quelques mots",
         "paragraphes": [
-          "Le choix d'un restaurant se joue sur trois critères : la proximité, les horaires et la facilité de contact.",
-          "Les restaurants figurent parmi les commerces les plus recherchés en ligne, et pourtant beaucoup n'exposent qu'une fiche Google sans site. Retrouver ici leur carte d'identité complète — adresse, horaires, téléphone, spécialités — aide les clients à réserver et aide l'établissement à exister ailleurs que sur une plateforme d'avis."
+          "Restaurant l'Auberge des Tables est référencé dans la rubrique Restaurant à Le Puy-en-Velay. Les informations de cette page proviennent de sa fiche Google publique, relevée le 18 octobre 2026."
         ]
       },
       {
@@ -81,23 +75,21 @@
         "titre": "Adresse et accès",
         "paragraphes": [
           "L'établissement est situé au 19 Rue des Tables, 43000 Le Puy-en-Velay.",
-          "Coordonnées géographiques : 45.04561, 3.88303. Le lien d'itinéraire ci-dessous ouvre directement la navigation."
+          "Coordonnées GPS : 45.04561, 3.88303. Le bouton Itinéraire de cette page ouvre la navigation."
         ]
       },
       {
         "id": "contact",
         "titre": "Contacter Restaurant l'Auberge des Tables",
         "paragraphes": [
-          "Le contact se fait par téléphone au 07 68 59 73 84. C'est le seul moyen de communication déclaré sur la fiche Google de l'entreprise, avec la visite sur place.",
-          "Si vous dirigez cette entreprise, vous pouvez demander la correction ou le retrait de cette page à tout moment, sans justification."
+          "Le contact se fait par téléphone au 07 68 59 73 84, ou directement sur place aux horaires d'ouverture."
         ]
       },
       {
         "id": "avis",
         "titre": "La réputation de Restaurant l'Auberge des Tables",
         "paragraphes": [
-          "Au relevé du 3 septembre 2026, l'établissement affichait une note de 3,9 sur 5 sur Google, calculée à partir de 374 avis. Cette note évolue en permanence : elle est indiquée ici à titre d'information et n'est pas retraitée.",
-          "Les avis appartiennent à Google et se consultent sur la fiche d'origine, dont le lien figure sur cette page."
+          "Note de 3,9 sur 5 pour 376 avis Google au relevé du 18 octobre 2026. Les avis se consultent sur la fiche Google, dont le lien figure sur cette page."
         ]
       }
     ],
@@ -109,13 +101,9 @@
       {
         "q": "Comment contacter Restaurant l'Auberge des Tables ?",
         "r": "Par téléphone au 07 68 59 73 84, ou directement sur place aux heures d'ouverture."
-      },
-      {
-        "q": "Restaurant l'Auberge des Tables a-t-il un site internet ?",
-        "r": "Non : aucune adresse de site web n'est déclarée sur la fiche Google de Restaurant l'Auberge des Tables au 3 septembre 2026. Cette page tient lieu de référence publique en attendant, le cas échéant, la création d'un site propre à l'entreprise."
       }
     ],
-    "genere_le": "2026-09-03"
+    "genere_le": "2026-10-18"
   },
   "statut_google": "OPERATIONAL",
   "audience": {

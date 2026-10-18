@@ -116,7 +116,7 @@
   ],
   "lien_google": "https://maps.google.com/?cid=8349960945013293077&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
   "site_web_gmb": null,
-  "statut": "retiree",
+  "statut": "publiee",
   "backlink": {
     "etat": "absent",
     "premiere_detection": null,
@@ -125,32 +125,26 @@
     "echecs": 67,
     "url_detectee": null
   },
-  "retrait": {
-    "mode": "410",
-    "cible": null,
-    "date": "2026-10-14",
-    "motif": "page non indexée par Google 45 jours après sa mise en ligne (Google ne reconnaît pas cette URL)",
-    "cause": "non-indexee"
-  },
+  "retrait": null,
   "dates": {
     "collecte": "2026-08-30",
     "publication": "2026-08-30",
-    "maj": "2026-10-14"
+    "maj": "2026-10-18"
   },
   "source": "google-places",
   "redaction": {
+    "version": 2,
     "titre": "Nièvre Habitat — Immobilier à Nevers",
-    "meta_titre": "Nièvre Habitat, immobilier à Nevers",
-    "meta_description": "Nièvre Habitat, immobilier à Nevers (6 Rue Bernard Palissy) : adresse, horaires, téléphone et informations pratiques.",
-    "chapo": "Nièvre Habitat exerce l'activité de immobilier au 6 Rue Bernard Palissy, à Nevers. Faute de site internet déclaré sur sa fiche Google, l'entreprise reste difficile à trouver en dehors des cartes. Cette page comble ce manque avec des données factuelles et datées.",
+    "meta_titre": "Nièvre Habitat à Nevers : horaires, avis, téléphone",
+    "meta_description": "Nièvre Habitat, immobilier à Nevers : horaires d'ouverture, note Google 3,3/5 (23 avis), téléphone, adresse et itinéraire.",
+    "chapo": "Nièvre Habitat exerce l'activité de immobilier au 6 Rue Bernard Palissy, à Nevers. Fermé le samedi et le dimanche au relevé du 18 octobre 2026. Téléphone : 03 86 71 85 95. Note Google : 3,3 sur 5 pour 23 avis.",
     "sections": [
       {
         "id": "presentation",
         "titre": "Nièvre Habitat en quelques mots",
         "paragraphes": [
-          "Le choix d'un immobilier se joue sur trois critères : la proximité, les horaires et la facilité de contact.",
-          "Le marché immobilier est hyperlocal : une agence de quartier se juge à son ancrage et à sa connaissance du terrain. Cette page documente l'implantation, les services et les coordonnées d'acteurs qui délèguent souvent leur visibilité aux portails d'annonces.",
-          "D'après le relevé du 30 août 2026, l'établissement est fermé le samedi et le dimanche. Le détail jour par jour figure plus bas."
+          "Sur Google, l'établissement est classé « Agence immobilière », dans notre rubrique Immobilier.",
+          "D'après le relevé du 18 octobre 2026, l'établissement est fermé le samedi et le dimanche. Le détail jour par jour figure plus bas."
         ]
       },
       {
@@ -158,30 +152,32 @@
         "titre": "Adresse et accès",
         "paragraphes": [
           "L'établissement est situé au 6 Rue Bernard Palissy, 58000 Nevers.",
-          "Coordonnées géographiques : 46.98667, 3.16983. Le lien d'itinéraire ci-dessous ouvre directement la navigation."
+          "Coordonnées GPS : 46.98667, 3.16983. Le bouton Itinéraire de cette page ouvre la navigation."
         ]
       },
       {
         "id": "contact",
         "titre": "Contacter Nièvre Habitat",
         "paragraphes": [
-          "Le contact se fait par téléphone au 03 86 71 85 95. C'est le seul moyen de communication déclaré sur la fiche Google de l'entreprise, avec la visite sur place.",
-          "Si vous dirigez cette entreprise, vous pouvez demander la correction ou le retrait de cette page à tout moment, sans justification."
+          "Le contact se fait par téléphone au 03 86 71 85 95, ou directement sur place aux horaires d'ouverture."
         ]
       },
       {
         "id": "avis",
         "titre": "La réputation de Nièvre Habitat",
         "paragraphes": [
-          "Au relevé du 30 août 2026, l'établissement affichait une note de 3,4 sur 5 sur Google, calculée à partir de 22 avis. Cette note évolue en permanence : elle est indiquée ici à titre d'information et n'est pas retraitée.",
-          "Les avis appartiennent à Google et se consultent sur la fiche d'origine, dont le lien figure sur cette page."
+          "Note de 3,3 sur 5 pour 23 avis Google au relevé du 18 octobre 2026. Les avis se consultent sur la fiche Google, dont le lien figure sur cette page."
         ]
       }
     ],
     "faq": [
       {
         "q": "Quels sont les horaires de Nièvre Habitat ?",
-        "r": "Au relevé du 30 août 2026, Nièvre Habitat était fermé le samedi et le dimanche. Dans le détail — lundi : de 9 h à 12 h et de 13 h 45 à 17 h ; mardi : de 9 h à 12 h et de 13 h 45 à 17 h ; mercredi : de 9 h à 12 h et de 13 h 45 à 17 h ; jeudi : de 9 h à 12 h et de 13 h 45 à 17 h ; vendredi : de 9 h à 12 h et de 13 h 45 à 16 h 30 ; samedi : fermé ; dimanche : fermé. Ces horaires peuvent changer : un appel préalable reste conseillé."
+        "r": "Au relevé du 18 octobre 2026, Nièvre Habitat était fermé le samedi et le dimanche. Dans le détail — lundi : de 9 h à 12 h et de 13 h 45 à 17 h ; mardi : de 9 h à 12 h et de 13 h 45 à 17 h ; mercredi : de 9 h à 12 h et de 13 h 45 à 17 h ; jeudi : de 9 h à 12 h et de 13 h 45 à 17 h ; vendredi : de 9 h à 12 h et de 13 h 45 à 16 h 30 ; samedi : fermé ; dimanche : fermé. Ces horaires peuvent changer : un appel préalable reste conseillé."
+      },
+      {
+        "q": "Nièvre Habitat est-il ouvert le dimanche ?",
+        "r": "Non : d'après les horaires relevés le 18 octobre 2026, Nièvre Habitat est fermé le dimanche."
       },
       {
         "q": "Où se trouve Nièvre Habitat ?",
@@ -192,15 +188,11 @@
         "r": "Par téléphone au 03 86 71 85 95, ou directement sur place aux heures d'ouverture."
       },
       {
-        "q": "Nièvre Habitat a-t-il un site internet ?",
-        "r": "Non : aucune adresse de site web n'est déclarée sur la fiche Google de Nièvre Habitat au 30 août 2026. Cette page tient lieu de référence publique en attendant, le cas échéant, la création d'un site propre à l'entreprise."
-      },
-      {
         "q": "Nièvre Habitat est-il accessible aux personnes à mobilité réduite ?",
         "r": "La fiche Google de l'établissement mentionne : « Entrée accessible en fauteuil roulant ». Cette information est déclarative ; en cas de doute, vérifiez par téléphone."
       }
     ],
-    "genere_le": "2026-08-30"
+    "genere_le": "2026-10-18"
   },
   "suggestion": {
     "etat": "soumise",

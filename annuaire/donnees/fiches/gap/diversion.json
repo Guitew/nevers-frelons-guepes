@@ -138,18 +138,18 @@
   },
   "source": "google-places",
   "redaction": {
+    "version": 2,
     "titre": "Diversion — Restaurant à Gap",
-    "meta_titre": "Diversion, restaurant à Gap",
-    "meta_description": "Diversion, restaurant à Gap (2 Rue Elisée) : adresse, horaires, téléphone et informations pratiques.",
-    "chapo": "Cette fiche présente Diversion, un restaurant au 2 Rue Elisée, à Gap. Son établissement ne déclare aucun site internet sur sa fiche Google : les informations ci-dessous en tiennent lieu de référence publique, vérifiable et accessible à tous.",
+    "meta_titre": "Diversion à Gap : horaires, avis, téléphone",
+    "meta_description": "Diversion, restaurant à Gap : horaires d'ouverture, note Google 4,4/5 (2419 avis), téléphone, adresse et itinéraire.",
+    "chapo": "Cette fiche présente Diversion, un restaurant au 2 Rue Elisée, à Gap. Ouvert sept jours sur sept au relevé du 18 octobre 2026. Téléphone : 04 92 52 08 20. Note Google : 4,4 sur 5 pour 2419 avis.",
     "sections": [
       {
         "id": "presentation",
         "titre": "Diversion en quelques mots",
         "paragraphes": [
-          "À Gap, les recherches du type « restaurant près de chez moi » se concluent le plus souvent par un appel ou une visite directe.",
-          "Les restaurants figurent parmi les commerces les plus recherchés en ligne, et pourtant beaucoup n'exposent qu'une fiche Google sans site. Retrouver ici leur carte d'identité complète — adresse, horaires, téléphone, spécialités — aide les clients à réserver et aide l'établissement à exister ailleurs que sur une plateforme d'avis.",
-          "D'après le relevé du 2 septembre 2026, l'établissement est ouvert sept jours sur sept. Le détail jour par jour figure plus bas."
+          "Sur Google, l'établissement est classé « Restaurant italien », dans notre rubrique Restaurant.",
+          "D'après le relevé du 18 octobre 2026, l'établissement est ouvert sept jours sur sept. Le détail jour par jour figure plus bas."
         ]
       },
       {
@@ -157,30 +157,32 @@
         "titre": "Adresse et accès",
         "paragraphes": [
           "L'établissement est situé au 2 Rue Elisée, 05000 Gap.",
-          "Coordonnées géographiques : 44.55904, 6.08002. Le lien d'itinéraire ci-dessous ouvre directement la navigation."
+          "Coordonnées GPS : 44.55904, 6.08002. Le bouton Itinéraire de cette page ouvre la navigation."
         ]
       },
       {
         "id": "contact",
         "titre": "Contacter Diversion",
         "paragraphes": [
-          "Le contact se fait par téléphone au 04 92 52 08 20. C'est le seul moyen de communication déclaré sur la fiche Google de l'entreprise, avec la visite sur place.",
-          "Si vous dirigez cette entreprise, vous pouvez demander la correction ou le retrait de cette page à tout moment, sans justification."
+          "Le contact se fait par téléphone au 04 92 52 08 20, ou directement sur place aux horaires d'ouverture."
         ]
       },
       {
         "id": "avis",
         "titre": "La réputation de Diversion",
         "paragraphes": [
-          "Au relevé du 2 septembre 2026, l'établissement affichait une note de 4,4 sur 5 sur Google, calculée à partir de 2354 avis. Cette note évolue en permanence : elle est indiquée ici à titre d'information et n'est pas retraitée.",
-          "Les avis appartiennent à Google et se consultent sur la fiche d'origine, dont le lien figure sur cette page."
+          "Note de 4,4 sur 5 pour 2419 avis Google au relevé du 18 octobre 2026. Les avis se consultent sur la fiche Google, dont le lien figure sur cette page."
         ]
       }
     ],
     "faq": [
       {
         "q": "Quels sont les horaires de Diversion ?",
-        "r": "Au relevé du 2 septembre 2026, Diversion était ouvert sept jours sur sept. Dans le détail — lundi : de 7 h à 0 h ; mardi : de 7 h à 0 h ; mercredi : de 7 h à 0 h ; jeudi : de 7 h à 0 h ; vendredi : de 7 h à 0 h ; samedi : de 7 h à 0 h ; dimanche : de 7 h à 0 h. Ces horaires peuvent changer : un appel préalable reste conseillé."
+        "r": "Au relevé du 18 octobre 2026, Diversion était ouvert sept jours sur sept. Dans le détail — lundi : de 7 h à 0 h ; mardi : de 7 h à 0 h ; mercredi : de 7 h à 0 h ; jeudi : de 7 h à 0 h ; vendredi : de 7 h à 0 h ; samedi : de 7 h à 0 h ; dimanche : de 7 h à 0 h. Ces horaires peuvent changer : un appel préalable reste conseillé."
+      },
+      {
+        "q": "Diversion est-il ouvert le dimanche ?",
+        "r": "Oui : le dimanche, Diversion est ouvert de 7 h à 0 h (horaires relevés le 18 octobre 2026)."
       },
       {
         "q": "Où se trouve Diversion ?",
@@ -191,15 +193,11 @@
         "r": "Par téléphone au 04 92 52 08 20, ou directement sur place aux heures d'ouverture."
       },
       {
-        "q": "Diversion a-t-il un site internet ?",
-        "r": "Non : aucune adresse de site web n'est déclarée sur la fiche Google de Diversion au 2 septembre 2026. Cette page tient lieu de référence publique en attendant, le cas échéant, la création d'un site propre à l'entreprise."
-      },
-      {
         "q": "Diversion est-il accessible aux personnes à mobilité réduite ?",
         "r": "La fiche Google de l'établissement mentionne : « Entrée accessible en fauteuil roulant ». Cette information est déclarative ; en cas de doute, vérifiez par téléphone."
       }
     ],
-    "genere_le": "2026-09-02"
+    "genere_le": "2026-10-18"
   },
   "statut_google": "OPERATIONAL",
   "audience": {

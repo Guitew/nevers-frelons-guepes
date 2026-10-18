@@ -105,7 +105,7 @@
   "attributs": [],
   "lien_google": "https://maps.google.com/?cid=3234412841226695482&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
   "site_web_gmb": null,
-  "statut": "retiree",
+  "statut": "publiee",
   "backlink": {
     "etat": "absent",
     "premiere_detection": null,
@@ -114,32 +114,26 @@
     "echecs": 73,
     "url_detectee": null
   },
-  "retrait": {
-    "mode": "410",
-    "cible": null,
-    "date": "2026-10-14",
-    "motif": "page non indexée par Google 45 jours après sa mise en ligne (Détectée, actuellement non indexée)",
-    "cause": "non-indexee"
-  },
+  "retrait": null,
   "dates": {
     "collecte": "2026-08-30",
     "publication": "2026-08-30",
-    "maj": "2026-10-14"
+    "maj": "2026-10-18"
   },
   "source": "google-places",
   "redaction": {
+    "version": 2,
     "titre": "Epicerie Du Gaspard — Commerce d'alimentation à Nevers",
-    "meta_titre": "Epicerie Du Gaspard, commerce d'alimentation à Nevers",
-    "meta_description": "Epicerie Du Gaspard, commerce d'alimentation à Nevers (10 Rue Pierre Emile Gaspard) : adresse, horaires, téléphone et informations pratiques.",
-    "chapo": "Epicerie Du Gaspard exerce l'activité de commerce d'alimentation au 10 Rue Pierre Emile Gaspard, à Nevers. Faute de site internet déclaré sur sa fiche Google, l'entreprise reste difficile à trouver en dehors des cartes. Cette page comble ce manque avec des données factuelles et datées.",
+    "meta_titre": "Epicerie Du Gaspard à Nevers : horaires, avis, téléphone",
+    "meta_description": "Epicerie Du Gaspard, commerce d'alimentation à Nevers : horaires d'ouverture, note Google 4,3/5 (46 avis), téléphone, adresse et itinéraire.",
+    "chapo": "Epicerie Du Gaspard exerce l'activité de commerce d'alimentation au 10 Rue Pierre Emile Gaspard, à Nevers. Ouvert sept jours sur sept au relevé du 18 octobre 2026. Téléphone : 06 99 71 45 85. Note Google : 4,3 sur 5 pour 46 avis.",
     "sections": [
       {
         "id": "presentation",
         "titre": "Epicerie Du Gaspard en quelques mots",
         "paragraphes": [
-          "Commerces et alimentation font partie des activités les plus consultées localement sur mobile.",
-          "Le commerce alimentaire de proximité redevient un réflexe, mais son information circule mal : jours de marché, produits de saison, vente directe. Cette fiche rassemble ce que le consommateur cherche avant de se déplacer.",
-          "D'après le relevé du 30 août 2026, l'établissement est ouvert sept jours sur sept. Le détail jour par jour figure plus bas."
+          "Sur Google, l'établissement est classé « Épicerie », dans notre rubrique Commerce d'alimentation.",
+          "D'après le relevé du 18 octobre 2026, l'établissement est ouvert sept jours sur sept. Le détail jour par jour figure plus bas."
         ]
       },
       {
@@ -147,30 +141,32 @@
         "titre": "Adresse et accès",
         "paragraphes": [
           "L'établissement est situé au 10 Rue Pierre Emile Gaspard, 58000 Nevers.",
-          "Coordonnées géographiques : 46.98631, 3.15018. Le lien d'itinéraire ci-dessous ouvre directement la navigation."
+          "Coordonnées GPS : 46.98631, 3.15018. Le bouton Itinéraire de cette page ouvre la navigation."
         ]
       },
       {
         "id": "contact",
         "titre": "Contacter Epicerie Du Gaspard",
         "paragraphes": [
-          "Le contact se fait par téléphone au 06 99 71 45 85. C'est le seul moyen de communication déclaré sur la fiche Google de l'entreprise, avec la visite sur place.",
-          "Si vous dirigez cette entreprise, vous pouvez demander la correction ou le retrait de cette page à tout moment, sans justification."
+          "Le contact se fait par téléphone au 06 99 71 45 85, ou directement sur place aux horaires d'ouverture."
         ]
       },
       {
         "id": "avis",
         "titre": "La réputation de Epicerie Du Gaspard",
         "paragraphes": [
-          "Au relevé du 30 août 2026, l'établissement affichait une note de 4,1 sur 5 sur Google, calculée à partir de 37 avis. Cette note évolue en permanence : elle est indiquée ici à titre d'information et n'est pas retraitée.",
-          "Les avis appartiennent à Google et se consultent sur la fiche d'origine, dont le lien figure sur cette page."
+          "Note de 4,3 sur 5 pour 46 avis Google au relevé du 18 octobre 2026. Les avis se consultent sur la fiche Google, dont le lien figure sur cette page."
         ]
       }
     ],
     "faq": [
       {
         "q": "Quels sont les horaires de Epicerie Du Gaspard ?",
-        "r": "Au relevé du 30 août 2026, Epicerie Du Gaspard était ouvert sept jours sur sept. Dans le détail — lundi : de 10 h à 0 h ; mardi : de 10 h à 0 h ; mercredi : de 10 h à 0 h ; jeudi : de 10 h à 0 h ; vendredi : de 10 h à 0 h ; samedi : de 10 h à 0 h ; dimanche : de 10 h à 0 h. Ces horaires peuvent changer : un appel préalable reste conseillé."
+        "r": "Au relevé du 18 octobre 2026, Epicerie Du Gaspard était ouvert sept jours sur sept. Dans le détail — lundi : de 10 h à 0 h ; mardi : de 10 h à 0 h ; mercredi : de 10 h à 0 h ; jeudi : de 10 h à 0 h ; vendredi : de 10 h à 0 h ; samedi : de 10 h à 0 h ; dimanche : de 10 h à 0 h. Ces horaires peuvent changer : un appel préalable reste conseillé."
+      },
+      {
+        "q": "Epicerie Du Gaspard est-il ouvert le dimanche ?",
+        "r": "Oui : le dimanche, Epicerie Du Gaspard est ouvert de 10 h à 0 h (horaires relevés le 18 octobre 2026)."
       },
       {
         "q": "Où se trouve Epicerie Du Gaspard ?",
@@ -179,13 +175,9 @@
       {
         "q": "Comment contacter Epicerie Du Gaspard ?",
         "r": "Par téléphone au 06 99 71 45 85, ou directement sur place aux heures d'ouverture."
-      },
-      {
-        "q": "Epicerie Du Gaspard a-t-il un site internet ?",
-        "r": "Non : aucune adresse de site web n'est déclarée sur la fiche Google de Epicerie Du Gaspard au 30 août 2026. Cette page tient lieu de référence publique en attendant, le cas échéant, la création d'un site propre à l'entreprise."
       }
     ],
-    "genere_le": "2026-08-30"
+    "genere_le": "2026-10-18"
   },
   "suggestion": {
     "etat": "en-attente",

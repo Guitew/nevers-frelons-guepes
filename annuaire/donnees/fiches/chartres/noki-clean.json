@@ -128,18 +128,18 @@
   },
   "source": "google-places",
   "redaction": {
+    "version": 2,
     "titre": "Noki Clean — Nettoyage et hygiène à Chartres",
-    "meta_titre": "Noki Clean, nettoyage et hygiène à Chartres",
-    "meta_description": "Noki Clean, nettoyage et hygiène à Chartres (43 Rue Nicole) : adresse, horaires, téléphone et informations pratiques.",
-    "chapo": "Noki Clean figure parmi les établissements de la catégorie « Nettoyage et hygiène » recensés à Chartres. L'entreprise n'a pas de site web référencé sur sa fiche Google. Les éléments présentés ici — adresse, horaires, contact — proviennent de cette fiche et sont datés de leur relevé.",
+    "meta_titre": "Noki Clean à Chartres : horaires, avis, téléphone",
+    "meta_description": "Noki Clean, nettoyage et hygiène à Chartres : horaires d'ouverture, note Google 4,9/5 (18 avis), téléphone, adresse et itinéraire.",
+    "chapo": "Noki Clean, nettoyage et hygiène au 43 Rue Nicole, à Chartres. Ouvert sept jours sur sept au relevé du 14 octobre 2026. Téléphone : 06 30 77 01 79. Note Google : 4,9 sur 5 pour 18 avis.",
     "sections": [
       {
         "id": "presentation",
         "titre": "Noki Clean en quelques mots",
         "paragraphes": [
-          "Le choix d'un nettoyage et hygiène se joue sur trois critères : la proximité, les horaires et la facilité de contact.",
-          "Nettoyage de locaux, remise en état, pressing ou traitement des nuisibles : des services régulièrement recherchés par les particuliers comme par les entreprises, et pourtant très peu représentés en ligne à l'échelle d'une commune.",
-          "D'après le relevé du 22 septembre 2026, l'établissement est ouvert sept jours sur sept. Le détail jour par jour figure plus bas."
+          "Sur Google, l'établissement est classé « Blanchisserie », dans notre rubrique Nettoyage et hygiène.",
+          "D'après le relevé du 14 octobre 2026, l'établissement est ouvert sept jours sur sept. Le détail jour par jour figure plus bas."
         ]
       },
       {
@@ -147,30 +147,32 @@
         "titre": "Adresse et accès",
         "paragraphes": [
           "L'établissement est situé au 43 Rue Nicole, 28000 Chartres.",
-          "Coordonnées géographiques : 48.44515, 1.47819. Le lien d'itinéraire ci-dessous ouvre directement la navigation."
+          "Coordonnées GPS : 48.44515, 1.47819. Le bouton Itinéraire de cette page ouvre la navigation."
         ]
       },
       {
         "id": "contact",
         "titre": "Contacter Noki Clean",
         "paragraphes": [
-          "Le contact se fait par téléphone au 06 30 77 01 79. C'est le seul moyen de communication déclaré sur la fiche Google de l'entreprise, avec la visite sur place.",
-          "Si vous dirigez cette entreprise, vous pouvez demander la correction ou le retrait de cette page à tout moment, sans justification."
+          "Le contact se fait par téléphone au 06 30 77 01 79, ou directement sur place aux horaires d'ouverture."
         ]
       },
       {
         "id": "avis",
         "titre": "La réputation de Noki Clean",
         "paragraphes": [
-          "Au relevé du 22 septembre 2026, l'établissement affichait une note de 4,9 sur 5 sur Google, calculée à partir de 18 avis. Cette note évolue en permanence : elle est indiquée ici à titre d'information et n'est pas retraitée.",
-          "Les avis appartiennent à Google et se consultent sur la fiche d'origine, dont le lien figure sur cette page."
+          "Note de 4,9 sur 5 pour 18 avis Google au relevé du 14 octobre 2026. Les avis se consultent sur la fiche Google, dont le lien figure sur cette page."
         ]
       }
     ],
     "faq": [
       {
         "q": "Quels sont les horaires de Noki Clean ?",
-        "r": "Au relevé du 22 septembre 2026, Noki Clean était ouvert sept jours sur sept. Dans le détail — lundi : de 6 h à 22 h ; mardi : de 6 h à 22 h ; mercredi : de 6 h à 22 h ; jeudi : de 6 h à 22 h ; vendredi : de 6 h à 22 h ; samedi : de 6 h à 22 h ; dimanche : de 6 h à 22 h. Ces horaires peuvent changer : un appel préalable reste conseillé."
+        "r": "Au relevé du 14 octobre 2026, Noki Clean était ouvert sept jours sur sept. Dans le détail — lundi : de 6 h à 22 h ; mardi : de 6 h à 22 h ; mercredi : de 6 h à 22 h ; jeudi : de 6 h à 22 h ; vendredi : de 6 h à 22 h ; samedi : de 6 h à 22 h ; dimanche : de 6 h à 22 h. Ces horaires peuvent changer : un appel préalable reste conseillé."
+      },
+      {
+        "q": "Noki Clean est-il ouvert le dimanche ?",
+        "r": "Oui : le dimanche, Noki Clean est ouvert de 6 h à 22 h (horaires relevés le 14 octobre 2026)."
       },
       {
         "q": "Où se trouve Noki Clean ?",
@@ -181,15 +183,11 @@
         "r": "Par téléphone au 06 30 77 01 79, ou directement sur place aux heures d'ouverture."
       },
       {
-        "q": "Noki Clean a-t-il un site internet ?",
-        "r": "Non : aucune adresse de site web n'est déclarée sur la fiche Google de Noki Clean au 22 septembre 2026. Cette page tient lieu de référence publique en attendant, le cas échéant, la création d'un site propre à l'entreprise."
-      },
-      {
         "q": "Noki Clean est-il accessible aux personnes à mobilité réduite ?",
         "r": "La fiche Google de l'établissement mentionne : « Parking accessible en fauteuil roulant ». Cette information est déclarative ; en cas de doute, vérifiez par téléphone."
       }
     ],
-    "genere_le": "2026-09-22"
+    "genere_le": "2026-10-14"
   },
   "statut_google": "OPERATIONAL",
   "audience": {

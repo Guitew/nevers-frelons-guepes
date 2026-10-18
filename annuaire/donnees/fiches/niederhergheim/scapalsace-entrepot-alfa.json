@@ -106,7 +106,7 @@
   ],
   "lien_google": "https://maps.google.com/?cid=7905449862729692104&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
   "site_web_gmb": null,
-  "statut": "retiree",
+  "statut": "publiee",
   "backlink": {
     "etat": "absent",
     "premiere_detection": null,
@@ -121,13 +121,7 @@
     "tentatives": 0,
     "date_email": "2026-09-02"
   },
-  "retrait": {
-    "mode": "410",
-    "cible": null,
-    "date": "2026-10-18",
-    "motif": "page non indexée par Google 46 jours après sa mise en ligne (Détectée, actuellement non indexée)",
-    "cause": "non-indexee"
-  },
+  "retrait": null,
   "dates": {
     "collecte": "2026-09-02",
     "publication": "2026-09-02",
@@ -135,18 +129,18 @@
   },
   "source": "google-places",
   "redaction": {
+    "version": 2,
     "titre": "Scapalsace Entrepôt ALFA — Transport et déménagement à Niederhergheim",
-    "meta_titre": "Scapalsace Entrepôt ALFA, transport et déménagement à…",
-    "meta_description": "Scapalsace Entrepôt ALFA, transport et déménagement à Niederhergheim : adresse, horaires, téléphone et informations pratiques.",
-    "chapo": "Scapalsace Entrepôt ALFA figure parmi les établissements de la catégorie « Transport et déménagement » recensés à Niederhergheim. L'entreprise n'a pas de site web référencé sur sa fiche Google. Les éléments présentés ici — adresse, horaires, contact — proviennent de cette fiche et sont datés de leur relevé.",
+    "meta_titre": "Scapalsace Entrepôt ALFA à Niederhergheim : horaires, avis",
+    "meta_description": "Scapalsace Entrepôt ALFA, transport et déménagement à Niederhergheim : horaires d'ouverture, note Google 3,9/5 (54 avis), téléphone, adresse et itinéraire.",
+    "chapo": "Scapalsace Entrepôt ALFA, transport et déménagement à Niederhergheim. Ouvert sept jours sur sept au relevé du 18 octobre 2026. Téléphone : 03 89 21 16 21. Note Google : 3,9 sur 5 pour 54 avis.",
     "sections": [
       {
         "id": "presentation",
         "titre": "Scapalsace Entrepôt ALFA en quelques mots",
         "paragraphes": [
-          "Le choix d'un transport et déménagement se joue sur trois critères : la proximité, les horaires et la facilité de contact.",
-          "Déménagement, course urgente, transport de personnes : des services décidés rapidement et comparés sur la disponibilité. La fiche rassemble la zone couverte, les moyens et le contact direct, sans passer par une place de marché.",
-          "D'après le relevé du 2 septembre 2026, l'établissement est ouvert sept jours sur sept. Le détail jour par jour figure plus bas."
+          "Sur Google, l'établissement est classé « Stockage », dans notre rubrique Transport et déménagement.",
+          "D'après le relevé du 18 octobre 2026, l'établissement est ouvert sept jours sur sept. Le détail jour par jour figure plus bas."
         ]
       },
       {
@@ -154,30 +148,32 @@
         "titre": "Adresse et accès",
         "paragraphes": [
           "L'établissement est situé, 68127 Niederhergheim.",
-          "Coordonnées géographiques : 47.99081, 7.37010. Le lien d'itinéraire ci-dessous ouvre directement la navigation."
+          "Coordonnées GPS : 47.99081, 7.37010. Le bouton Itinéraire de cette page ouvre la navigation."
         ]
       },
       {
         "id": "contact",
         "titre": "Contacter Scapalsace Entrepôt ALFA",
         "paragraphes": [
-          "Le contact se fait par téléphone au 03 89 21 16 21. C'est le seul moyen de communication déclaré sur la fiche Google de l'entreprise, avec la visite sur place.",
-          "Si vous dirigez cette entreprise, vous pouvez demander la correction ou le retrait de cette page à tout moment, sans justification."
+          "Le contact se fait par téléphone au 03 89 21 16 21, ou directement sur place aux horaires d'ouverture."
         ]
       },
       {
         "id": "avis",
         "titre": "La réputation de Scapalsace Entrepôt ALFA",
         "paragraphes": [
-          "Au relevé du 2 septembre 2026, l'établissement affichait une note de 4,1 sur 5 sur Google, calculée à partir de 51 avis. Cette note évolue en permanence : elle est indiquée ici à titre d'information et n'est pas retraitée.",
-          "Les avis appartiennent à Google et se consultent sur la fiche d'origine, dont le lien figure sur cette page."
+          "Note de 3,9 sur 5 pour 54 avis Google au relevé du 18 octobre 2026. Les avis les plus parlants sont compilés ci-dessous, avec un lien vers la fiche d'origine."
         ]
       }
     ],
     "faq": [
       {
         "q": "Quels sont les horaires de Scapalsace Entrepôt ALFA ?",
-        "r": "Au relevé du 2 septembre 2026, Scapalsace Entrepôt ALFA était ouvert sept jours sur sept. Dans le détail — lundi : de 9 h à 17 h ; mardi : de 9 h à 17 h ; mercredi : de 9 h à 17 h ; jeudi : de 9 h à 17 h ; vendredi : de 9 h à 17 h ; samedi : de 9 h à 17 h ; dimanche : de 9 h à 17 h. Ces horaires peuvent changer : un appel préalable reste conseillé."
+        "r": "Au relevé du 18 octobre 2026, Scapalsace Entrepôt ALFA était ouvert sept jours sur sept. Dans le détail — lundi : de 9 h à 17 h ; mardi : de 9 h à 17 h ; mercredi : de 9 h à 17 h ; jeudi : de 9 h à 17 h ; vendredi : de 9 h à 17 h ; samedi : de 9 h à 17 h ; dimanche : de 9 h à 17 h. Ces horaires peuvent changer : un appel préalable reste conseillé."
+      },
+      {
+        "q": "Scapalsace Entrepôt ALFA est-il ouvert le dimanche ?",
+        "r": "Oui : le dimanche, Scapalsace Entrepôt ALFA est ouvert de 9 h à 17 h (horaires relevés le 18 octobre 2026)."
       },
       {
         "q": "Où se trouve Scapalsace Entrepôt ALFA ?",
@@ -188,15 +184,11 @@
         "r": "Par téléphone au 03 89 21 16 21, ou directement sur place aux heures d'ouverture."
       },
       {
-        "q": "Scapalsace Entrepôt ALFA a-t-il un site internet ?",
-        "r": "Non : aucune adresse de site web n'est déclarée sur la fiche Google de Scapalsace Entrepôt ALFA au 2 septembre 2026. Cette page tient lieu de référence publique en attendant, le cas échéant, la création d'un site propre à l'entreprise."
-      },
-      {
         "q": "Scapalsace Entrepôt ALFA est-il accessible aux personnes à mobilité réduite ?",
         "r": "La fiche Google de l'établissement mentionne : « Entrée accessible en fauteuil roulant ». Cette information est déclarative ; en cas de doute, vérifiez par téléphone."
       }
     ],
-    "genere_le": "2026-09-02"
+    "genere_le": "2026-10-18"
   },
   "statut_google": "OPERATIONAL",
   "audience": {

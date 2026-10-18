@@ -126,18 +126,18 @@
   },
   "source": "google-places",
   "redaction": {
+    "version": 2,
     "titre": "Laverie du château — Nettoyage et hygiène à Foix",
-    "meta_titre": "Laverie du château, nettoyage et hygiène à Foix",
-    "meta_description": "Laverie du château, nettoyage et hygiène à Foix (Place Lazema) : adresse, horaires, téléphone et informations pratiques.",
-    "chapo": "Cette fiche présente Laverie du château, un nettoyage et hygiène au Place Lazema, à Foix. Son établissement ne déclare aucun site internet sur sa fiche Google : les informations ci-dessous en tiennent lieu de référence publique, vérifiable et accessible à tous.",
+    "meta_titre": "Laverie du château à Foix : horaires, avis, téléphone",
+    "meta_description": "Laverie du château, nettoyage et hygiène à Foix : horaires d'ouverture, note Google 4,3/5 (22 avis), téléphone, adresse et itinéraire.",
+    "chapo": "Cette fiche présente Laverie du château, un nettoyage et hygiène au Place Lazema, à Foix. Ouvert sept jours sur sept au relevé du 13 octobre 2026. Téléphone : 06 31 78 16 78. Note Google : 4,3 sur 5 pour 22 avis.",
     "sections": [
       {
         "id": "presentation",
         "titre": "Laverie du château en quelques mots",
         "paragraphes": [
-          "Nettoyage et hygiène font partie des activités les plus consultées localement sur mobile.",
-          "Nettoyage de locaux, remise en état, pressing ou traitement des nuisibles : des services régulièrement recherchés par les particuliers comme par les entreprises, et pourtant très peu représentés en ligne à l'échelle d'une commune.",
-          "D'après le relevé du 21 septembre 2026, l'établissement est ouvert sept jours sur sept. Le détail jour par jour figure plus bas."
+          "Sur Google, l'établissement est classé « Blanchisserie », dans notre rubrique Nettoyage et hygiène.",
+          "D'après le relevé du 13 octobre 2026, l'établissement est ouvert sept jours sur sept. Le détail jour par jour figure plus bas."
         ]
       },
       {
@@ -145,30 +145,32 @@
         "titre": "Adresse et accès",
         "paragraphes": [
           "L'établissement est situé au Place Lazema, 09000 Foix.",
-          "Coordonnées géographiques : 42.96504, 1.60569. Le lien d'itinéraire ci-dessous ouvre directement la navigation."
+          "Coordonnées GPS : 42.96504, 1.60569. Le bouton Itinéraire de cette page ouvre la navigation."
         ]
       },
       {
         "id": "contact",
         "titre": "Contacter Laverie du château",
         "paragraphes": [
-          "Le contact se fait par téléphone au 06 01 99 14 75. C'est le seul moyen de communication déclaré sur la fiche Google de l'entreprise, avec la visite sur place.",
-          "Si vous dirigez cette entreprise, vous pouvez demander la correction ou le retrait de cette page à tout moment, sans justification."
+          "Le contact se fait par téléphone au 06 31 78 16 78, ou directement sur place aux horaires d'ouverture."
         ]
       },
       {
         "id": "avis",
         "titre": "La réputation de Laverie du château",
         "paragraphes": [
-          "Au relevé du 21 septembre 2026, l'établissement affichait une note de 4,3 sur 5 sur Google, calculée à partir de 22 avis. Cette note évolue en permanence : elle est indiquée ici à titre d'information et n'est pas retraitée.",
-          "Les avis appartiennent à Google et se consultent sur la fiche d'origine, dont le lien figure sur cette page."
+          "Note de 4,3 sur 5 pour 22 avis Google au relevé du 13 octobre 2026. Les avis se consultent sur la fiche Google, dont le lien figure sur cette page."
         ]
       }
     ],
     "faq": [
       {
         "q": "Quels sont les horaires de Laverie du château ?",
-        "r": "Au relevé du 21 septembre 2026, Laverie du château était ouvert sept jours sur sept. Dans le détail — lundi : de 6 h à 19 h ; mardi : de 6 h à 19 h ; mercredi : de 6 h à 19 h ; jeudi : de 6 h à 19 h ; vendredi : de 6 h à 19 h ; samedi : de 6 h à 19 h ; dimanche : de 6 h à 19 h. Ces horaires peuvent changer : un appel préalable reste conseillé."
+        "r": "Au relevé du 13 octobre 2026, Laverie du château était ouvert sept jours sur sept. Dans le détail — lundi : de 6 h à 19 h ; mardi : de 6 h à 19 h ; mercredi : de 6 h à 19 h ; jeudi : de 6 h à 19 h ; vendredi : de 6 h à 19 h ; samedi : de 6 h à 19 h ; dimanche : de 6 h à 19 h. Ces horaires peuvent changer : un appel préalable reste conseillé."
+      },
+      {
+        "q": "Laverie du château est-il ouvert le dimanche ?",
+        "r": "Oui : le dimanche, Laverie du château est ouvert de 6 h à 19 h (horaires relevés le 13 octobre 2026)."
       },
       {
         "q": "Où se trouve Laverie du château ?",
@@ -176,14 +178,10 @@
       },
       {
         "q": "Comment contacter Laverie du château ?",
-        "r": "Par téléphone au 06 01 99 14 75, ou directement sur place aux heures d'ouverture."
-      },
-      {
-        "q": "Laverie du château a-t-il un site internet ?",
-        "r": "Non : aucune adresse de site web n'est déclarée sur la fiche Google de Laverie du château au 21 septembre 2026. Cette page tient lieu de référence publique en attendant, le cas échéant, la création d'un site propre à l'entreprise."
+        "r": "Par téléphone au 06 31 78 16 78, ou directement sur place aux heures d'ouverture."
       }
     ],
-    "genere_le": "2026-09-21"
+    "genere_le": "2026-10-13"
   },
   "statut_google": "OPERATIONAL",
   "audience": {

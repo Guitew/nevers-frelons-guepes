@@ -129,18 +129,18 @@
   },
   "source": "google-places",
   "redaction": {
+    "version": 2,
     "titre": "Ferme de Navarre — Commerce d'alimentation à Évreux",
-    "meta_titre": "Ferme de Navarre, commerce d'alimentation à Évreux",
-    "meta_description": "Ferme de Navarre, commerce d'alimentation à Évreux (24 Rue des Marronniers) : adresse, horaires, téléphone et informations pratiques.",
-    "chapo": "Cette fiche présente Ferme de Navarre, un commerce d'alimentation au 24 Rue des Marronniers, à Évreux. Son établissement ne déclare aucun site internet sur sa fiche Google : les informations ci-dessous en tiennent lieu de référence publique, vérifiable et accessible à tous.",
+    "meta_titre": "Ferme de Navarre à Évreux : horaires, avis, téléphone",
+    "meta_description": "Ferme de Navarre, commerce d'alimentation à Évreux : horaires d'ouverture, note Google 4/5 (300 avis), téléphone, adresse et itinéraire.",
+    "chapo": "Cette fiche présente Ferme de Navarre, un commerce d'alimentation au 24 Rue des Marronniers, à Évreux. Ouvert sept jours sur sept au relevé du 9 octobre 2026. Téléphone : 02 32 33 06 18. Note Google : 4 sur 5 pour 300 avis.",
     "sections": [
       {
         "id": "presentation",
         "titre": "Ferme de Navarre en quelques mots",
         "paragraphes": [
-          "Commerces et alimentation font partie des activités les plus consultées localement sur mobile.",
-          "Le commerce alimentaire de proximité redevient un réflexe, mais son information circule mal : jours de marché, produits de saison, vente directe. Cette fiche rassemble ce que le consommateur cherche avant de se déplacer.",
-          "D'après le relevé du 6 octobre 2026, l'établissement est ouvert sept jours sur sept. Le détail jour par jour figure plus bas."
+          "Sur Google, l'établissement est classé « Ferme », dans notre rubrique Commerce d'alimentation.",
+          "D'après le relevé du 9 octobre 2026, l'établissement est ouvert sept jours sur sept. Le détail jour par jour figure plus bas."
         ]
       },
       {
@@ -148,30 +148,32 @@
         "titre": "Adresse et accès",
         "paragraphes": [
           "L'établissement est situé au 24 Rue des Marronniers, 27000 Évreux.",
-          "Coordonnées géographiques : 49.01288, 1.11269. Le lien d'itinéraire ci-dessous ouvre directement la navigation."
+          "Coordonnées GPS : 49.01288, 1.11269. Le bouton Itinéraire de cette page ouvre la navigation."
         ]
       },
       {
         "id": "contact",
         "titre": "Contacter Ferme de Navarre",
         "paragraphes": [
-          "Le contact se fait par téléphone au 02 32 33 06 18. C'est le seul moyen de communication déclaré sur la fiche Google de l'entreprise, avec la visite sur place.",
-          "Si vous dirigez cette entreprise, vous pouvez demander la correction ou le retrait de cette page à tout moment, sans justification."
+          "Le contact se fait par téléphone au 02 32 33 06 18, ou directement sur place aux horaires d'ouverture."
         ]
       },
       {
         "id": "avis",
         "titre": "La réputation de Ferme de Navarre",
         "paragraphes": [
-          "Au relevé du 6 octobre 2026, l'établissement affichait une note de 4 sur 5 sur Google, calculée à partir de 300 avis. Cette note évolue en permanence : elle est indiquée ici à titre d'information et n'est pas retraitée.",
-          "Les avis appartiennent à Google et se consultent sur la fiche d'origine, dont le lien figure sur cette page."
+          "Note de 4 sur 5 pour 300 avis Google au relevé du 9 octobre 2026. Les avis se consultent sur la fiche Google, dont le lien figure sur cette page."
         ]
       }
     ],
     "faq": [
       {
         "q": "Quels sont les horaires de Ferme de Navarre ?",
-        "r": "Au relevé du 6 octobre 2026, Ferme de Navarre était ouvert sept jours sur sept. Dans le détail — lundi : de 9 h à 19 h ; mardi : de 9 h à 19 h ; mercredi : de 9 h à 19 h ; jeudi : de 9 h à 19 h ; vendredi : de 9 h à 19 h ; samedi : de 9 h à 19 h ; dimanche : de 9 h à 19 h. Ces horaires peuvent changer : un appel préalable reste conseillé."
+        "r": "Au relevé du 9 octobre 2026, Ferme de Navarre était ouvert sept jours sur sept. Dans le détail — lundi : de 9 h à 19 h ; mardi : de 9 h à 19 h ; mercredi : de 9 h à 19 h ; jeudi : de 9 h à 19 h ; vendredi : de 9 h à 19 h ; samedi : de 9 h à 19 h ; dimanche : de 9 h à 19 h. Ces horaires peuvent changer : un appel préalable reste conseillé."
+      },
+      {
+        "q": "Ferme de Navarre est-il ouvert le dimanche ?",
+        "r": "Oui : le dimanche, Ferme de Navarre est ouvert de 9 h à 19 h (horaires relevés le 9 octobre 2026)."
       },
       {
         "q": "Où se trouve Ferme de Navarre ?",
@@ -182,15 +184,11 @@
         "r": "Par téléphone au 02 32 33 06 18, ou directement sur place aux heures d'ouverture."
       },
       {
-        "q": "Ferme de Navarre a-t-il un site internet ?",
-        "r": "Non : aucune adresse de site web n'est déclarée sur la fiche Google de Ferme de Navarre au 6 octobre 2026. Cette page tient lieu de référence publique en attendant, le cas échéant, la création d'un site propre à l'entreprise."
-      },
-      {
         "q": "Ferme de Navarre est-il accessible aux personnes à mobilité réduite ?",
         "r": "La fiche Google de l'établissement mentionne : « Entrée accessible en fauteuil roulant ». Cette information est déclarative ; en cas de doute, vérifiez par téléphone."
       }
     ],
-    "genere_le": "2026-10-06"
+    "genere_le": "2026-10-09"
   },
   "statut_google": "OPERATIONAL",
   "audience": {

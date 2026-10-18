@@ -36,7 +36,7 @@
   ],
   "lien_google": "https://maps.google.com/?cid=13237426393509608011&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
   "site_web_gmb": null,
-  "statut": "retiree",
+  "statut": "publiee",
   "backlink": {
     "etat": "absent",
     "premiere_detection": null,
@@ -51,13 +51,7 @@
     "tentatives": 1,
     "date_email": "2026-09-02"
   },
-  "retrait": {
-    "mode": "410",
-    "cible": null,
-    "date": "2026-10-18",
-    "motif": "page non indexée par Google 46 jours après sa mise en ligne (Détectée, actuellement non indexée)",
-    "cause": "non-indexee"
-  },
+  "retrait": null,
   "dates": {
     "collecte": "2026-09-02",
     "publication": "2026-09-02",
@@ -65,17 +59,17 @@
   },
   "source": "google-places",
   "redaction": {
+    "version": 2,
     "titre": "A.E.M Guéret — Transport et déménagement à Guéret",
-    "meta_titre": "A.E.M Guéret, transport et déménagement à Guéret",
-    "meta_description": "A.E.M Guéret, transport et déménagement à Guéret (61 Rue de Vernet) : adresse, horaires, téléphone et informations pratiques.",
-    "chapo": "A.E.M Guéret figure parmi les établissements de la catégorie « Transport et déménagement » recensés à Guéret. L'entreprise n'a pas de site web référencé sur sa fiche Google. Les éléments présentés ici — adresse, horaires, contact — proviennent de cette fiche et sont datés de leur relevé.",
+    "meta_titre": "A.E.M Guéret à Guéret : avis, téléphone",
+    "meta_description": "A.E.M Guéret, transport et déménagement à Guéret : note Google 4,1/5 (29 avis), téléphone, adresse et itinéraire.",
+    "chapo": "A.E.M Guéret, transport et déménagement au 61 Rue de Vernet, à Guéret. Téléphone : 05 55 41 81 79. Note Google : 4,1 sur 5 pour 29 avis.",
     "sections": [
       {
         "id": "presentation",
         "titre": "A.E.M Guéret en quelques mots",
         "paragraphes": [
-          "Transport, déménagement et stockage font partie des activités les plus consultées localement sur mobile.",
-          "Déménagement, course urgente, transport de personnes : des services décidés rapidement et comparés sur la disponibilité. La fiche rassemble la zone couverte, les moyens et le contact direct, sans passer par une place de marché."
+          "Sur Google, l'établissement est classé « Entreprise de déménagement », dans notre rubrique Transport et déménagement."
         ]
       },
       {
@@ -83,23 +77,21 @@
         "titre": "Adresse et accès",
         "paragraphes": [
           "L'établissement est situé au 61 Rue de Vernet, 23000 Guéret.",
-          "Coordonnées géographiques : 46.19262, 1.87576. Le lien d'itinéraire ci-dessous ouvre directement la navigation."
+          "Coordonnées GPS : 46.19262, 1.87576. Le bouton Itinéraire de cette page ouvre la navigation."
         ]
       },
       {
         "id": "contact",
         "titre": "Contacter A.E.M Guéret",
         "paragraphes": [
-          "Le contact se fait par téléphone au 05 55 41 81 79. C'est le seul moyen de communication déclaré sur la fiche Google de l'entreprise, avec la visite sur place.",
-          "Si vous dirigez cette entreprise, vous pouvez demander la correction ou le retrait de cette page à tout moment, sans justification."
+          "Le contact se fait par téléphone au 05 55 41 81 79, ou directement sur place aux horaires d'ouverture."
         ]
       },
       {
         "id": "avis",
         "titre": "La réputation de A.E.M Guéret",
         "paragraphes": [
-          "Au relevé du 2 septembre 2026, l'établissement affichait une note de 4,1 sur 5 sur Google, calculée à partir de 29 avis. Cette note évolue en permanence : elle est indiquée ici à titre d'information et n'est pas retraitée.",
-          "Les avis appartiennent à Google et se consultent sur la fiche d'origine, dont le lien figure sur cette page."
+          "Note de 4,1 sur 5 pour 29 avis Google au relevé du 18 octobre 2026. Les avis les plus parlants sont compilés ci-dessous, avec un lien vers la fiche d'origine."
         ]
       }
     ],
@@ -113,15 +105,11 @@
         "r": "Par téléphone au 05 55 41 81 79, ou directement sur place aux heures d'ouverture."
       },
       {
-        "q": "A.E.M Guéret a-t-il un site internet ?",
-        "r": "Non : aucune adresse de site web n'est déclarée sur la fiche Google de A.E.M Guéret au 2 septembre 2026. Cette page tient lieu de référence publique en attendant, le cas échéant, la création d'un site propre à l'entreprise."
-      },
-      {
         "q": "A.E.M Guéret est-il accessible aux personnes à mobilité réduite ?",
         "r": "La fiche Google de l'établissement mentionne : « Parking accessible en fauteuil roulant ». Cette information est déclarative ; en cas de doute, vérifiez par téléphone."
       }
     ],
-    "genere_le": "2026-09-02"
+    "genere_le": "2026-10-18"
   },
   "statut_google": "OPERATIONAL",
   "audience": {

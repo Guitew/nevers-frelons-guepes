@@ -126,18 +126,18 @@
   },
   "source": "google-places",
   "redaction": {
+    "version": 2,
     "titre": "Keys & Co. — Café ou bar à Caen",
-    "meta_titre": "Keys & Co., café ou bar à Caen",
-    "meta_description": "Keys & Co., café ou bar à Caen (45 Avenue du Six Juin) : adresse, horaires, téléphone et informations pratiques.",
-    "chapo": "Keys & Co. figure parmi les établissements de la catégorie « Café ou bar » recensés à Caen. L'entreprise n'a pas de site web référencé sur sa fiche Google. Les éléments présentés ici — adresse, horaires, contact — proviennent de cette fiche et sont datés de leur relevé.",
+    "meta_titre": "Keys & Co. à Caen : horaires, avis, téléphone",
+    "meta_description": "Keys & Co., café ou bar à Caen : horaires d'ouverture, note Google 4,6/5 (1289 avis), téléphone, adresse et itinéraire.",
+    "chapo": "Keys & Co., café ou bar au 45 Avenue du Six Juin, à Caen. Fermé le lundi et le mardi au relevé du 9 octobre 2026. Téléphone : 02 31 34 60 83. Note Google : 4,6 sur 5 pour 1289 avis.",
     "sections": [
       {
         "id": "presentation",
         "titre": "Keys & Co. en quelques mots",
         "paragraphes": [
-          "Le choix d'un café ou bar se joue sur trois critères : la proximité, les horaires et la facilité de contact.",
-          "Les cafés et bars sont des repères de vie locale rarement dotés d'un site. Horaires réels, terrasse, retransmissions sportives, concerts : autant de détails qui décident d'une sortie et qui n'apparaissent nulle part ailleurs de façon lisible.",
-          "D'après le relevé du 1 octobre 2026, l'établissement est fermé le lundi et le mardi. Le détail jour par jour figure plus bas."
+          "Sur Google, l'établissement est classé « Café », dans notre rubrique Café ou bar.",
+          "D'après le relevé du 9 octobre 2026, l'établissement est fermé le lundi et le mardi. Le détail jour par jour figure plus bas."
         ]
       },
       {
@@ -145,30 +145,32 @@
         "titre": "Adresse et accès",
         "paragraphes": [
           "L'établissement est situé au 45 Avenue du Six Juin, 14000 Caen.",
-          "Coordonnées géographiques : 49.17857, -0.35319. Le lien d'itinéraire ci-dessous ouvre directement la navigation."
+          "Coordonnées GPS : 49.17857, -0.35319. Le bouton Itinéraire de cette page ouvre la navigation."
         ]
       },
       {
         "id": "contact",
         "titre": "Contacter Keys & Co.",
         "paragraphes": [
-          "Le contact se fait par téléphone au 02 31 34 60 83. C'est le seul moyen de communication déclaré sur la fiche Google de l'entreprise, avec la visite sur place.",
-          "Si vous dirigez cette entreprise, vous pouvez demander la correction ou le retrait de cette page à tout moment, sans justification."
+          "Le contact se fait par téléphone au 02 31 34 60 83, ou directement sur place aux horaires d'ouverture."
         ]
       },
       {
         "id": "avis",
         "titre": "La réputation de Keys & Co.",
         "paragraphes": [
-          "Au relevé du 1 octobre 2026, l'établissement affichait une note de 4,6 sur 5 sur Google, calculée à partir de 1288 avis. Cette note évolue en permanence : elle est indiquée ici à titre d'information et n'est pas retraitée.",
-          "Les avis appartiennent à Google et se consultent sur la fiche d'origine, dont le lien figure sur cette page."
+          "Note de 4,6 sur 5 pour 1289 avis Google au relevé du 9 octobre 2026. Les avis se consultent sur la fiche Google, dont le lien figure sur cette page."
         ]
       }
     ],
     "faq": [
       {
         "q": "Quels sont les horaires de Keys & Co. ?",
-        "r": "Au relevé du 1 octobre 2026, Keys & Co. était fermé le lundi et le mardi. Dans le détail — lundi : fermé ; mardi : fermé ; mercredi : de 9 h à 18 h ; jeudi : de 9 h à 18 h ; vendredi : de 9 h à 18 h ; samedi : de 9 h à 18 h ; dimanche : de 9 h à 18 h. Ces horaires peuvent changer : un appel préalable reste conseillé."
+        "r": "Au relevé du 9 octobre 2026, Keys & Co. était fermé le lundi et le mardi. Dans le détail — lundi : fermé ; mardi : fermé ; mercredi : de 9 h à 18 h ; jeudi : de 9 h à 18 h ; vendredi : de 9 h à 18 h ; samedi : de 9 h à 18 h ; dimanche : de 9 h à 18 h. Ces horaires peuvent changer : un appel préalable reste conseillé."
+      },
+      {
+        "q": "Keys & Co. est-il ouvert le dimanche ?",
+        "r": "Oui : le dimanche, Keys & Co. est ouvert de 9 h à 18 h (horaires relevés le 9 octobre 2026)."
       },
       {
         "q": "Où se trouve Keys & Co. ?",
@@ -179,15 +181,11 @@
         "r": "Par téléphone au 02 31 34 60 83, ou directement sur place aux heures d'ouverture."
       },
       {
-        "q": "Keys & Co. a-t-il un site internet ?",
-        "r": "Non : aucune adresse de site web n'est déclarée sur la fiche Google de Keys & Co. au 1 octobre 2026. Cette page tient lieu de référence publique en attendant, le cas échéant, la création d'un site propre à l'entreprise."
-      },
-      {
         "q": "Keys & Co. est-il accessible aux personnes à mobilité réduite ?",
         "r": "La fiche Google de l'établissement mentionne : « Entrée accessible en fauteuil roulant ». Cette information est déclarative ; en cas de doute, vérifiez par téléphone."
       }
     ],
-    "genere_le": "2026-10-01"
+    "genere_le": "2026-10-09"
   },
   "statut_google": "OPERATIONAL",
   "audience": {

@@ -125,18 +125,18 @@
   },
   "source": "google-places",
   "redaction": {
+    "version": 2,
     "titre": "AUTO PROPRE — Garage et automobile à Nevers",
-    "meta_titre": "AUTO PROPRE, garage et automobile à Nevers",
-    "meta_description": "AUTO PROPRE, garage et automobile à Nevers (3 Rue du Commandant Rivière) : adresse, horaires, téléphone et informations pratiques.",
-    "chapo": "Cette fiche présente AUTO PROPRE, un garage et automobile au 3 Rue du Commandant Rivière, à Nevers. Son établissement ne déclare aucun site internet sur sa fiche Google : les informations ci-dessous en tiennent lieu de référence publique, vérifiable et accessible à tous.",
+    "meta_titre": "AUTO PROPRE à Nevers : horaires, avis, téléphone",
+    "meta_description": "AUTO PROPRE, garage et automobile à Nevers : horaires d'ouverture, note Google 4,2/5 (139 avis), téléphone, adresse et itinéraire.",
+    "chapo": "Cette fiche présente AUTO PROPRE, un garage et automobile au 3 Rue du Commandant Rivière, à Nevers. Ouvert sept jours sur sept au relevé du 18 octobre 2026. Téléphone : 09 50 56 68 20. Note Google : 4,2 sur 5 pour 139 avis.",
     "sections": [
       {
         "id": "presentation",
         "titre": "AUTO PROPRE en quelques mots",
         "paragraphes": [
-          "Garages et services automobiles font partie des activités les plus consultées localement sur mobile.",
-          "Entretien, réparation, contrôle technique : l'automobiliste choisit d'abord un garage proche et disponible. Ces entreprises travaillent à flux tendu et délaissent presque toujours la création d'un site, malgré une demande de recherche locale considérable.",
-          "D'après le relevé du 30 août 2026, l'établissement est ouvert sept jours sur sept. Le détail jour par jour figure plus bas."
+          "Sur Google, l'établissement est classé « Station de lavage automobile », dans notre rubrique Garage et automobile.",
+          "D'après le relevé du 18 octobre 2026, l'établissement est ouvert sept jours sur sept. Le détail jour par jour figure plus bas."
         ]
       },
       {
@@ -144,30 +144,32 @@
         "titre": "Adresse et accès",
         "paragraphes": [
           "L'établissement est situé au 3 Rue du Commandant Rivière, 58000 Nevers.",
-          "Coordonnées géographiques : 46.99020, 3.17136. Le lien d'itinéraire ci-dessous ouvre directement la navigation."
+          "Coordonnées GPS : 46.99020, 3.17136. Le bouton Itinéraire de cette page ouvre la navigation."
         ]
       },
       {
         "id": "contact",
         "titre": "Contacter AUTO PROPRE",
         "paragraphes": [
-          "Le contact se fait par téléphone au 09 50 56 68 20. C'est le seul moyen de communication déclaré sur la fiche Google de l'entreprise, avec la visite sur place.",
-          "Si vous dirigez cette entreprise, vous pouvez demander la correction ou le retrait de cette page à tout moment, sans justification."
+          "Le contact se fait par téléphone au 09 50 56 68 20, ou directement sur place aux horaires d'ouverture."
         ]
       },
       {
         "id": "avis",
         "titre": "La réputation de AUTO PROPRE",
         "paragraphes": [
-          "Au relevé du 30 août 2026, l'établissement affichait une note de 4,2 sur 5 sur Google, calculée à partir de 139 avis. Cette note évolue en permanence : elle est indiquée ici à titre d'information et n'est pas retraitée.",
-          "Les avis appartiennent à Google et se consultent sur la fiche d'origine, dont le lien figure sur cette page."
+          "Note de 4,2 sur 5 pour 139 avis Google au relevé du 18 octobre 2026. Les avis les plus parlants sont compilés ci-dessous, avec un lien vers la fiche d'origine."
         ]
       }
     ],
     "faq": [
       {
         "q": "Quels sont les horaires de AUTO PROPRE ?",
-        "r": "Au relevé du 30 août 2026, AUTO PROPRE était ouvert sept jours sur sept. Dans le détail — lundi : de 6 h à 20 h ; mardi : de 6 h à 20 h ; mercredi : de 6 h à 20 h ; jeudi : de 6 h à 20 h ; vendredi : de 6 h à 20 h ; samedi : de 6 h à 20 h ; dimanche : de 6 h à 20 h. Ces horaires peuvent changer : un appel préalable reste conseillé."
+        "r": "Au relevé du 18 octobre 2026, AUTO PROPRE était ouvert sept jours sur sept. Dans le détail — lundi : de 6 h à 20 h ; mardi : de 6 h à 20 h ; mercredi : de 6 h à 20 h ; jeudi : de 6 h à 20 h ; vendredi : de 6 h à 20 h ; samedi : de 6 h à 20 h ; dimanche : de 6 h à 20 h. Ces horaires peuvent changer : un appel préalable reste conseillé."
+      },
+      {
+        "q": "AUTO PROPRE est-il ouvert le dimanche ?",
+        "r": "Oui : le dimanche, AUTO PROPRE est ouvert de 6 h à 20 h (horaires relevés le 18 octobre 2026)."
       },
       {
         "q": "Où se trouve AUTO PROPRE ?",
@@ -176,13 +178,9 @@
       {
         "q": "Comment contacter AUTO PROPRE ?",
         "r": "Par téléphone au 09 50 56 68 20, ou directement sur place aux heures d'ouverture."
-      },
-      {
-        "q": "AUTO PROPRE a-t-il un site internet ?",
-        "r": "Non : aucune adresse de site web n'est déclarée sur la fiche Google de AUTO PROPRE au 30 août 2026. Cette page tient lieu de référence publique en attendant, le cas échéant, la création d'un site propre à l'entreprise."
       }
     ],
-    "genere_le": "2026-08-30"
+    "genere_le": "2026-10-18"
   },
   "suggestion": {
     "etat": "soumise",

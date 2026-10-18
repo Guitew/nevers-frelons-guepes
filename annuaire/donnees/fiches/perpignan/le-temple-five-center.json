@@ -135,18 +135,18 @@
   },
   "source": "google-places",
   "redaction": {
+    "version": 2,
     "titre": "LE TEMPLE FIVE CENTER — Café ou bar à Perpignan",
-    "meta_titre": "LE TEMPLE FIVE CENTER, café ou bar à Perpignan",
-    "meta_description": "LE TEMPLE FIVE CENTER, café ou bar à Perpignan (161 Rue de Munich) : adresse, horaires, téléphone et informations pratiques.",
-    "chapo": "LE TEMPLE FIVE CENTER est un café ou bar au 161 Rue de Munich, à Perpignan. Aucune adresse web n'est renseignée sur sa fiche Google. Cette page rassemble donc, en un seul endroit stable, les informations que les clients recherchent avant de se déplacer.",
+    "meta_titre": "LE TEMPLE FIVE CENTER à Perpignan : horaires, avis",
+    "meta_description": "LE TEMPLE FIVE CENTER, café ou bar à Perpignan : horaires d'ouverture, note Google 4,5/5 (525 avis), téléphone, adresse et itinéraire.",
+    "chapo": "LE TEMPLE FIVE CENTER est un café ou bar au 161 Rue de Munich, à Perpignan. Ouvert sept jours sur sept au relevé du 13 octobre 2026. Téléphone : 04 68 87 81 94. Note Google : 4,5 sur 5 pour 525 avis.",
     "sections": [
       {
         "id": "presentation",
         "titre": "LE TEMPLE FIVE CENTER en quelques mots",
         "paragraphes": [
-          "Cafés et bars font partie des activités les plus consultées localement sur mobile.",
-          "Les cafés et bars sont des repères de vie locale rarement dotés d'un site. Horaires réels, terrasse, retransmissions sportives, concerts : autant de détails qui décident d'une sortie et qui n'apparaissent nulle part ailleurs de façon lisible.",
-          "D'après le relevé du 6 octobre 2026, l'établissement est ouvert sept jours sur sept. Le détail jour par jour figure plus bas."
+          "Sur Google, l'établissement est classé « Complexe sportif », dans notre rubrique Café ou bar.",
+          "D'après le relevé du 13 octobre 2026, l'établissement est ouvert sept jours sur sept. Le détail jour par jour figure plus bas."
         ]
       },
       {
@@ -154,30 +154,32 @@
         "titre": "Adresse et accès",
         "paragraphes": [
           "L'établissement est situé au 161 Rue de Munich, 66000 Perpignan.",
-          "Coordonnées géographiques : 42.68517, 2.85413. Le lien d'itinéraire ci-dessous ouvre directement la navigation."
+          "Coordonnées GPS : 42.68517, 2.85413. Le bouton Itinéraire de cette page ouvre la navigation."
         ]
       },
       {
         "id": "contact",
         "titre": "Contacter LE TEMPLE FIVE CENTER",
         "paragraphes": [
-          "Le contact se fait par téléphone au 04 68 87 81 94. C'est le seul moyen de communication déclaré sur la fiche Google de l'entreprise, avec la visite sur place.",
-          "Si vous dirigez cette entreprise, vous pouvez demander la correction ou le retrait de cette page à tout moment, sans justification."
+          "Le contact se fait par téléphone au 04 68 87 81 94, ou directement sur place aux horaires d'ouverture."
         ]
       },
       {
         "id": "avis",
         "titre": "La réputation de LE TEMPLE FIVE CENTER",
         "paragraphes": [
-          "Au relevé du 6 octobre 2026, l'établissement affichait une note de 4,5 sur 5 sur Google, calculée à partir de 524 avis. Cette note évolue en permanence : elle est indiquée ici à titre d'information et n'est pas retraitée.",
-          "Les avis appartiennent à Google et se consultent sur la fiche d'origine, dont le lien figure sur cette page."
+          "Note de 4,5 sur 5 pour 525 avis Google au relevé du 13 octobre 2026. Les avis se consultent sur la fiche Google, dont le lien figure sur cette page."
         ]
       }
     ],
     "faq": [
       {
         "q": "Quels sont les horaires de LE TEMPLE FIVE CENTER ?",
-        "r": "Au relevé du 6 octobre 2026, LE TEMPLE FIVE CENTER était ouvert sept jours sur sept. Dans le détail — lundi : de 10 h à 0 h ; mardi : de 10 h à 0 h ; mercredi : de 10 h à 0 h ; jeudi : de 10 h à 0 h ; vendredi : de 10 h à 0 h ; samedi : de 10 h à 23 h ; dimanche : de 10 h à 23 h. Ces horaires peuvent changer : un appel préalable reste conseillé."
+        "r": "Au relevé du 13 octobre 2026, LE TEMPLE FIVE CENTER était ouvert sept jours sur sept. Dans le détail — lundi : de 10 h à 0 h ; mardi : de 10 h à 0 h ; mercredi : de 10 h à 0 h ; jeudi : de 10 h à 0 h ; vendredi : de 10 h à 0 h ; samedi : de 10 h à 23 h ; dimanche : de 10 h à 23 h. Ces horaires peuvent changer : un appel préalable reste conseillé."
+      },
+      {
+        "q": "LE TEMPLE FIVE CENTER est-il ouvert le dimanche ?",
+        "r": "Oui : le dimanche, LE TEMPLE FIVE CENTER est ouvert de 10 h à 23 h (horaires relevés le 13 octobre 2026)."
       },
       {
         "q": "Où se trouve LE TEMPLE FIVE CENTER ?",
@@ -188,15 +190,11 @@
         "r": "Par téléphone au 04 68 87 81 94, ou directement sur place aux heures d'ouverture."
       },
       {
-        "q": "LE TEMPLE FIVE CENTER a-t-il un site internet ?",
-        "r": "Non : aucune adresse de site web n'est déclarée sur la fiche Google de LE TEMPLE FIVE CENTER au 6 octobre 2026. Cette page tient lieu de référence publique en attendant, le cas échéant, la création d'un site propre à l'entreprise."
-      },
-      {
         "q": "LE TEMPLE FIVE CENTER est-il accessible aux personnes à mobilité réduite ?",
         "r": "La fiche Google de l'établissement mentionne : « Entrée accessible en fauteuil roulant ». Cette information est déclarative ; en cas de doute, vérifiez par téléphone."
       }
     ],
-    "genere_le": "2026-10-06"
+    "genere_le": "2026-10-13"
   },
   "statut_google": "OPERATIONAL",
   "audience": {
