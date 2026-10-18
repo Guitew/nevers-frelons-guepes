@@ -43,6 +43,14 @@ eleventyComputed:
           {% set resume = f.horaires | resumeHoraires %}
           {% if resume %}<span class="etiquette">{{ resume | capitalize }}</span>{% endif %}
         </div>
+        {#- Réponses immédiates : état d'ouverture du moment (calculé côté
+            navigateur, jamais figé au build) et téléphone cliquable. -#}
+        {% if f.horaires or f.telephone %}
+        <div class="fiche__reponses">
+          {% if f.horaires %}<p class="fiche__statut" data-statut-horaires data-horaires-json='{{ f.horaires | jsonify }}' hidden></p>{% endif %}
+          {% if f.telephone %}<a class="bouton fiche__appel" href="tel:{{ f.telephone | telLien }}">☎ Appeler · {{ f.telephone | telLisible }}</a>{% endif %}
+        </div>
+        {% endif %}
       </header>
 
       <p class="fiche__chapo">{{ f.redaction.chapo }}</p>

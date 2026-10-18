@@ -212,7 +212,12 @@ a.etiquette:hover { background: var(--accent-doux); color: var(--accent-fonce); 
 
 .fiche__entete h1 { margin-bottom: .35rem; }
 .fiche__sous-titre { color: var(--encre-douce); font-size: 1.05rem; margin-bottom: .9rem; }
-.fiche__etiquettes { display: flex; flex-wrap: wrap; gap: .4rem; margin-bottom: 1.5rem; }
+.fiche__etiquettes { display: flex; flex-wrap: wrap; gap: .4rem; margin-bottom: 1rem; }
+.fiche__reponses { display: flex; flex-wrap: wrap; gap: .6rem 1rem; align-items: center; margin-bottom: 1.5rem; }
+.fiche__statut { margin: 0; font-size: .95rem; color: var(--encre-douce); padding-left: .9rem; border-left: 3px solid var(--bordure-forte); }
+.fiche__statut--ouvert { border-left-color: var(--vert); }
+.fiche__statut--ferme { border-left-color: var(--rouge); }
+.fiche__appel { white-space: nowrap; }
 .fiche__chapo { font-size: 1.1rem; color: var(--encre-douce); border-left: 3px solid var(--accent); padding-left: 1rem; }
 .fiche section { scroll-margin-top: 5rem; }
 

@@ -29,6 +29,39 @@
     } catch (e) {}
   }
 
+  // --- « Ouvert en ce moment » : calculé ici, à l'heure du visiteur, parce
+  //     qu'un état figé au build serait faux dès le lendemain.
+  var statut = document.querySelector("[data-statut-horaires]");
+  if (statut) {
+    try {
+      var horaires = JSON.parse(statut.getAttribute("data-horaires-json") || "null");
+      var maintenant = new Date();
+      var jourIdx = (maintenant.getDay() + 6) % 7;
+      var jour = (horaires || []).filter(function (j) { return j.jour === jourIdx; })[0];
+      var lisible = function (h) {
+        var p = h.split(":");
+        return String(Number(p[0])) + " h" + (p[1] && p[1] !== "00" ? " " + p[1] : "");
+      };
+      var minutes = maintenant.getHours() * 60 + maintenant.getMinutes();
+      var enMinutes = function (h) { var p = h.split(":"); return Number(p[0]) * 60 + Number(p[1] || 0); };
+      var texte = "";
+      if (jour && !jour.ferme && jour.creneaux && jour.creneaux.length) {
+        var ouvertMaintenant = jour.creneaux.some(function (c) { return minutes >= enMinutes(c[0]) && minutes < enMinutes(c[1]); });
+        var prochain = jour.creneaux.filter(function (c) { return enMinutes(c[0]) > minutes; })[0];
+        var plages = jour.creneaux.map(function (c) { return "de " + lisible(c[0]) + " à " + lisible(c[1]); }).join(" et ");
+        texte = (ouvertMaintenant ? "Ouvert en ce moment" : prochain ? "Fermé en ce moment, ouvre à " + lisible(prochain[0]) : "Fermé pour aujourd'hui") + " — aujourd'hui " + plages + ".";
+        statut.className += ouvertMaintenant ? " fiche__statut--ouvert" : " fiche__statut--ferme";
+      } else if (jour) {
+        texte = "Fermé aujourd'hui.";
+        statut.className += " fiche__statut--ferme";
+      }
+      if (texte) {
+        statut.textContent = texte + " Horaires relevés sur la fiche Google, à vérifier en cas de doute.";
+        statut.hidden = false;
+      }
+    } catch (e) {}
+  }
+
   // --- Mise en évidence du jour courant dans le tableau des horaires.
   //     Fait côté navigateur volontairement : le calculer au build figerait
   //     le « jour courant » à la date de compilation.
