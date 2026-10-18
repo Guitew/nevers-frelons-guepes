@@ -120,8 +120,8 @@
     "etat": "absent",
     "premiere_detection": null,
     "derniere_detection": null,
-    "derniere_verification": "2026-10-09T16:58:32.124Z",
-    "echecs": 14,
+    "derniere_verification": "2026-10-18T10:32:09.485Z",
+    "echecs": 15,
     "url_detectee": null
   },
   "suggestion": {
@@ -134,7 +134,7 @@
   "dates": {
     "collecte": "2026-10-03",
     "publication": "2026-10-03",
-    "maj": "2026-10-09"
+    "maj": "2026-10-18"
   },
   "source": "google-places",
   "redaction": {
@@ -207,5 +207,55 @@
     "fenetreRecenteJours": 28,
     "source": "search-console",
     "date": "2026-10-18"
+  },
+  "avis_detail": {
+    "releve": "2026-10-18",
+    "liste": [
+      {
+        "note": 5,
+        "texte": "Très bien,  pour 30€ entrée plat dessert , beau restaurant, accueil nickel, plats copieux cuisson viandes parfaite , desserts excellents . Petit bémol Pour le  Carpaccio de saumon à l’aneth, j’ai pas senti l’aneth ?\nMérite quand même mes 5 étoiles",
+        "langue": "fr",
+        "date": "2026-07-11",
+        "auteur": "Michel Boujot",
+        "auteur_lien": "https://www.google.com/maps/contrib/117219558014567168344/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2tJdE9GbzBaVU5mYkU5elV6VkpMVkZ3Tm1WU1RWRRAB!2m1!1s0x47f11c410f32843f:0x46dd17253822b933"
+      },
+      {
+        "note": 5,
+        "texte": "Ce restaurant propose un cadre vraiment sympathique et une belle décoration très agréable. Du côté de l'assiette, le menu est affiché à un prix très compétitif, offrant ainsi un excellent rapport qualité-prix. Le seul petit bémol reste l'attente, qui était un peu longue, mais l'expérience globale reste très positive et vaut le détour !",
+        "langue": "fr",
+        "date": "2026-07-07",
+        "auteur": "Lucas Gautier",
+        "auteur_lien": "https://www.google.com/maps/contrib/112757086959386439709/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xWNlFXZFlRVTkxUlZoWVVHSlhaWGRTY0c1M2QzYxAB!2m1!1s0x47f11c410f32843f:0x46dd17253822b933"
+      },
+      {
+        "note": 5,
+        "texte": "Malgré un service un peu long, le serveur s’est excusé et a été aux petits soins tout au long du repas. Les produits étaient de qualité, très bons, et les portions étaient parfaites. Une belle expérience que je recommande !",
+        "langue": "fr",
+        "date": "2026-06-30",
+        "auteur": "Lea Tourrier",
+        "auteur_lien": "https://www.google.com/maps/contrib/111100356991832007435/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2pWMWEzQkhaVXBHYzJsaE1HODFNelZ2T1RjNFJYYxAB!2m1!1s0x47f11c410f32843f:0x46dd17253822b933"
+      },
+      {
+        "note": 5,
+        "texte": "Une cuisine maison généreuse dans un endroit cosy avec un personnel attentionné et une bonne bouteille de Mercury. Prise en compte des demandes pour les végétariens! Au top rien à redire ! Foncez",
+        "langue": "fr",
+        "date": "2026-05-17",
+        "auteur": "JEROME M",
+        "auteur_lien": "https://www.google.com/maps/contrib/110080458199574262365/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25SR1gxOXFTa2hQTmsxSGMxQmlVMlp2V1ZWVU5GRRAB!2m1!1s0x47f11c410f32843f:0x46dd17253822b933"
+      },
+      {
+        "note": 5,
+        "texte": "Très bon repas dans un joli cadre !\nLes plats étaient très bons, une cuisine raffinée et un service accueillant et efficace !\nNous recommandons",
+        "langue": "fr",
+        "date": "2026-05-16",
+        "auteur": "Alexandre Lemaire",
+        "auteur_lien": "https://www.google.com/maps/contrib/109444513752894443214/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT21KbVYydENibUZvUmtodk1Vd3phMFpTYVdKWGVWRRAB!2m1!1s0x47f11c410f32843f:0x46dd17253822b933"
+      }
+    ]
   }
 }

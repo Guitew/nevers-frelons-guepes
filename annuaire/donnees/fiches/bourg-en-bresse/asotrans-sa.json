@@ -113,8 +113,8 @@
     "etat": "absent",
     "premiere_detection": null,
     "derniere_detection": null,
-    "derniere_verification": "2026-10-09T16:58:32.124Z",
-    "echecs": 1,
+    "derniere_verification": "2026-10-18T10:32:09.485Z",
+    "echecs": 2,
     "url_detectee": null
   },
   "suggestion": {
@@ -127,7 +127,7 @@
   "dates": {
     "collecte": "2026-10-09",
     "publication": "2026-10-09",
-    "maj": "2026-10-09"
+    "maj": "2026-10-18"
   },
   "source": "google-places",
   "redaction": {
@@ -204,5 +204,55 @@
     "fenetreRecenteJours": 28,
     "source": "search-console",
     "date": "2026-10-18"
+  },
+  "avis_detail": {
+    "releve": "2026-10-18",
+    "liste": [
+      {
+        "note": 5,
+        "texte": "Excellente entreprise de transport ! Une équipe professionnelle, réactive et toujours à l’écoute. Les livraisons sont effectuées dans les délais avec un grand souci de la qualité et du sérieux. Les chauffeurs sont courtois et les marchandises sont transportées avec soin. Je recommande vivement Asotrans SA à tous ceux qui recherchent un partenaire de confiance pour leurs besoins en transport. Bravo à toute l’équipe !",
+        "langue": "fr",
+        "date": "2026-07-08",
+        "auteur": "Y",
+        "auteur_lien": "https://www.google.com/maps/contrib/104373294964366503002/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25sZmRITlBTMDlVVlVSRVRVSkhSRVY0T0hWUlFtYxAB!2m1!1s0x47f35223c2c57901:0xeb6c0433f0f76503"
+      },
+      {
+        "note": 5,
+        "texte": "Le personnels très très simpa au bureau donc une personne qui me donner le travail est  sur le quai le personnels très très sympa est rapide",
+        "langue": "fr",
+        "date": "2026-07-03",
+        "auteur": "Jerome Borg",
+        "auteur_lien": "https://www.google.com/maps/contrib/108214002527333726197/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUNock9tbG9BRRAB!2m1!1s0x47f35223c2c57901:0xeb6c0433f0f76503"
+      },
+      {
+        "note": 5,
+        "texte": "Accueil passage à quai très bien",
+        "langue": "fr",
+        "date": "2026-06-16",
+        "auteur": "Quentin Le Moullec",
+        "auteur_lien": "https://www.google.com/maps/contrib/106881844460231420932/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT21VeWMyUk5kamM0WjBSeGR6QTNUbVZMTWtsV1VXYxAB!2m1!1s0x47f35223c2c57901:0xeb6c0433f0f76503"
+      },
+      {
+        "note": 5,
+        "texte": "Sympa et rapide",
+        "langue": "fr",
+        "date": "2026-04-20",
+        "auteur": "Pascal Mondanel",
+        "auteur_lien": "https://www.google.com/maps/contrib/111844647955069393425/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xScE5FcE5lbTR3YW1GUlZVcGtZalJuTUZrNVVYYxAB!2m1!1s0x47f35223c2c57901:0xeb6c0433f0f76503"
+      },
+      {
+        "note": 5,
+        "texte": "Ça fait vraiment plaisir de travailler avec des gens d’un niveau de compétence au top niveau. Je n’ai rien à ajouter. Chargement très rapide. Encore bravo et merci",
+        "langue": "fr",
+        "date": "2024-01-22",
+        "auteur": "juan jose Munoz",
+        "auteur_lien": "https://www.google.com/maps/contrib/117948182893421140099/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUROMXVyZndRRRAB!2m1!1s0x47f35223c2c57901:0xeb6c0433f0f76503"
+      }
+    ]
   }
 }

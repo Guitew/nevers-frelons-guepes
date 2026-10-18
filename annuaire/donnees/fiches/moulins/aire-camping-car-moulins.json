@@ -29,7 +29,7 @@
     "longitude": 3.3245221
   },
   "note": 4.3,
-  "avis": 1431,
+  "avis": 1433,
   "horaires": null,
   "attributs": [
     "Entrée accessible en fauteuil roulant",
@@ -42,8 +42,8 @@
     "etat": "absent",
     "premiere_detection": null,
     "derniere_detection": null,
-    "derniere_verification": "2026-10-09T16:58:32.124Z",
-    "echecs": 66,
+    "derniere_verification": "2026-10-18T10:32:09.485Z",
+    "echecs": 67,
     "url_detectee": null
   },
   "suggestion": {
@@ -56,7 +56,7 @@
   "dates": {
     "collecte": "2026-09-07",
     "publication": "2026-09-07",
-    "maj": "2026-10-09"
+    "maj": "2026-10-18"
   },
   "source": "google-places",
   "redaction": {
@@ -133,5 +133,55 @@
     "canonique_google": null,
     "source": "inspection",
     "date": "2026-10-18"
+  },
+  "avis_detail": {
+    "releve": "2026-10-18",
+    "liste": [
+      {
+        "note": 4,
+        "texte": "J'y ai passé passé presque 24h , pas cher mais toutes ces photos avec plan d'eau je n'en pas vu une seule indication a l'intérieur de ce parking camping car. Assez bien ombragé.\nToutefois pour se reposer c'est bien malgré les jeunes 'respectueux\"qui s'amusent non loin",
+        "langue": "fr",
+        "date": "2026-08-19",
+        "auteur": "Ludo D.",
+        "auteur_lien": "https://www.google.com/maps/contrib/105463342073637748031/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2poTmRqVjRaMnh0V0ZOMlVtaEhURVpNVTFsVU1rRRAB!2m1!1s0x47f11c3168dd532d:0x41e971b58d0bb84d"
+      },
+      {
+        "note": 4,
+        "texte": "Très bonne aire, vaste et particulièrement calme. Les emplacements ne sont pas délimités : on s’installe librement sur un grand espace, avec plusieurs zones ombragées et de nombreuses bornes électriques Flots Bleus.\n\nLe fonctionnement est un peu particulier : 4€ de droit d’entrée, puis une facturation à l’heure. Nous sommes restés 18h58, avec 1,02€ de taxe de séjour, et avons payé 6,82€ à la sortie.\n\nL’électricité fonctionne avec des jetons à 2€ les 2 heures, avec un maximum de 6 jetons. Nous en avions acheté 6, soit 12€. Les quatre premiers ont fonctionné entre 16h et minuit. En revanche, un jeton introduit vers 5h50 n’a pas fonctionné. Il semble donc possible que les bornes soient coupées pendant une partie de la nuit, peut-être entre minuit et 8h, mais nous n’avons pas pu le confirmer. Le dernier jeton a fonctionné à partir de 8h15.\n\nL’éclairage nocturne existe, mais les points lumineux sont assez éloignés des emplacements. Malgré cela, nous n’avons absolument pas été gênés : un calme remarquable, aucun bruit et une très bonne nuit.\n\nUne aire agréable, spacieuse et surtout très tranquille. Nous y reviendrons volontiers.",
+        "langue": "fr",
+        "date": "2026-08-12",
+        "auteur": "Valerie Salacroux",
+        "auteur_lien": "https://www.google.com/maps/contrib/113415426282403415591/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2paelluZ3RUR0ZoZEhCcUxWSTVlbFJmZUVOdVdYYxAB!2m1!1s0x47f11c3168dd532d:0x41e971b58d0bb84d"
+      },
+      {
+        "note": 4,
+        "texte": "Bien situé, endroit agréable. Emplacement avec gravillons et relativement plat. Aire de vidange à l'entrée à l'exterieur juste avant de passer la barriere. Seul bémol sanitaires fermés en décembre.",
+        "langue": "fr",
+        "date": "2025-12-20",
+        "auteur": "Voxymisty “Voxymisty”",
+        "auteur_lien": "https://www.google.com/maps/contrib/109119124701902595067/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25rM1VtbGxPVTR3TTNJMGRUTm5ibFJOZVVjM1FuYxAB!2m1!1s0x47f11c3168dd532d:0x41e971b58d0bb84d"
+      },
+      {
+        "note": 5,
+        "texte": "Très belle aire municipale.\n6€90 pour 24h00 en camping car.\nPlusieurs emplacements au soleil et sur sol stabilisé.\nCentre ville facilement accessible à pied.",
+        "langue": "fr",
+        "date": "2025-10-30",
+        "auteur": "alain lerminiaux",
+        "auteur_lien": "https://www.google.com/maps/contrib/100183156874079056233/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT205TlluaHdlR0V3V1ZkZmQxUXlkelZHZUZSTFFtYxAB!2m1!1s0x47f11c3168dd532d:0x41e971b58d0bb84d"
+      },
+      {
+        "note": 4,
+        "texte": "Aire très agréable bien ombragée. A deux pas de la ville de Moulin qui vaut le détour. Aire payante ainsi que les services. Pour vider les cassettes wc il faut payer ce qui cause des incivilités ce qui est déplorable. Celà nuit à la réputation des campings caristes.",
+        "langue": "fr",
+        "date": "2025-08-26",
+        "auteur": "Viviane PIERRON",
+        "auteur_lien": "https://www.google.com/maps/contrib/101036379622964042240/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2sxVWVVNTNlamxFUjFkallVcFBUMEp0YlZaR1VHYxAB!2m1!1s0x47f11c3168dd532d:0x41e971b58d0bb84d"
+      }
+    ]
   }
 }

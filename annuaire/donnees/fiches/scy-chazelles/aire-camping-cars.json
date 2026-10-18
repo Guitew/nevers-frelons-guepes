@@ -28,7 +28,7 @@
     "longitude": 6.1255641
   },
   "note": 4.1,
-  "avis": 95,
+  "avis": 96,
   "horaires": null,
   "attributs": [
     "Entrée accessible en fauteuil roulant",
@@ -41,8 +41,8 @@
     "etat": "absent",
     "premiere_detection": null,
     "derniere_detection": null,
-    "derniere_verification": "2026-10-09T16:58:32.124Z",
-    "echecs": 32,
+    "derniere_verification": "2026-10-18T10:32:09.485Z",
+    "echecs": 33,
     "url_detectee": null
   },
   "suggestion": {
@@ -55,7 +55,7 @@
   "dates": {
     "collecte": "2026-09-24",
     "publication": "2026-09-24",
-    "maj": "2026-10-09"
+    "maj": "2026-10-18"
   },
   "source": "google-places",
   "redaction": {
@@ -123,5 +123,55 @@
     "fenetreRecenteJours": 28,
     "source": "search-console",
     "date": "2026-10-18"
+  },
+  "avis_detail": {
+    "releve": "2026-10-18",
+    "liste": [
+      {
+        "note": 4,
+        "texte": "Pratique pour visiter Metz, avec une navette fluviale pas loin.\nIl y a De l eau et de l électricité\nLa personne qui accueille est très sympathique.\nAu mois d août il faut contacter l acceuil de 15h ou 16h a 19h, un peu contraignant....",
+        "langue": "fr",
+        "date": "2026-08-21",
+        "auteur": "Claude Amiot",
+        "auteur_lien": "https://www.google.com/maps/contrib/114258416469409138411/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25WU1NqWlVObGxsT0hwWE1XWkRUbTl2YnpaU1FXYxAB!2m1!1s0x4794dbbed3c57589:0x75bd825262c7182f"
+      },
+      {
+        "note": 4,
+        "texte": "La ligne maginot le foet du hackenber, visite très intéressante compter 3 heures de visite et une veste 12 degrés a l intérieur.\nPrix 15 euros par adulte",
+        "langue": "fr",
+        "date": "2026-06-10",
+        "auteur": "Mostrey Nathalie",
+        "auteur_lien": "https://www.google.com/maps/contrib/100678069920878086845/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT21sT1RYbFdXa1JtU2twdFJFZ3RNRmg0V25aU05uYxAB!2m1!1s0x4794dbbed3c57589:0x75bd825262c7182f"
+      },
+      {
+        "note": 5,
+        "texte": "Petite aire pour camping car avec toutes les commodités. 10 emplacements. Accueil sympathique et chaleureux, bar à proximité, et près du port de plaisance. Idéal pour une nuit. Électricité et emplacement 12€. Vidanges possibles, eau potable 3€",
+        "langue": "fr",
+        "date": "2025-04-26",
+        "auteur": "Dominique Versin",
+        "auteur_lien": "https://www.google.com/maps/contrib/106568952692637860487/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnTURvLWZhaXBBRRAB!2m1!1s0x4794dbbed3c57589:0x75bd825262c7182f"
+      },
+      {
+        "note": 4,
+        "texte": "Parfait si on veut juste se garer en sécurité pour passer la nuit. C'est juste un parking avec élec et eau, 12€ la nuit. Bien pour prendre le bus ou navette fluviale, voie verte.mais rien a faire sur place, le port est privé , pas d'accès ni de vue depuis l'aire. réceptionniste vraiment sympathique.",
+        "langue": "fr",
+        "date": "2024-10-27",
+        "auteur": "Les Ongles Jessie",
+        "auteur_lien": "https://www.google.com/maps/contrib/114900051798236729765/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSURYN3FhQk1REAE!2m1!1s0x4794dbbed3c57589:0x75bd825262c7182f"
+      },
+      {
+        "note": 5,
+        "texte": "👀 au calme a proximité de la Moselle, sous vidéo surveillance, Véloroute Charles le téméraire (axe thionville-Metz-Nancy), aire de jeux, station bus, Navette fluviale et commerce.",
+        "langue": "fr",
+        "date": "2023-08-29",
+        "auteur": "Sarah Dudul SarDul SD",
+        "auteur_lien": "https://www.google.com/maps/contrib/108855810759270435117/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSURwNjluUmZnEAE!2m1!1s0x4794dbbed3c57589:0x75bd825262c7182f"
+      }
+    ]
   }
 }

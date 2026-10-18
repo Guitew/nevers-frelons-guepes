@@ -27,7 +27,7 @@
     "longitude": 1.8437395
   },
   "note": 3.7,
-  "avis": 457,
+  "avis": 460,
   "horaires": [
     {
       "jour": 0,
@@ -111,8 +111,8 @@
     "etat": "absent",
     "premiere_detection": null,
     "derniere_detection": null,
-    "derniere_verification": "2026-10-09T16:58:32.124Z",
-    "echecs": 80,
+    "derniere_verification": "2026-10-18T10:32:09.485Z",
+    "echecs": 81,
     "url_detectee": null
   },
   "suggestion": {
@@ -212,5 +212,55 @@
     "canonique_google": null,
     "source": "inspection",
     "date": "2026-10-18"
+  },
+  "avis_detail": {
+    "releve": "2026-10-18",
+    "liste": [
+      {
+        "note": 1,
+        "texte": "Toujours un problème avec eux , colis refusé soit disant alor qu’il est jamais passer. Colis refuser colis annuler colis en livraison. Changer de metier si ces pour faire sa et que vous faite disparaître les colis.",
+        "langue": "fr",
+        "date": "2026-05-07",
+        "auteur": "Y ya ya Tracy",
+        "auteur_lien": "https://www.google.com/maps/contrib/108665530792016992629/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xaQlQwcEZURlI1Y2tkMU1VazViMnRXYm5KUWRXYxAB!2m1!1s0x47e4f0961539244d:0x9172931bcb14afe6"
+      },
+      {
+        "note": 5,
+        "texte": "Accueil chaleureux malheureusement j'ai pas pu dépassé la porte car j'avais pas de badge (humour) mais je conseil si vous voulez y bosser 😆😉 (",
+        "langue": "fr",
+        "date": "2026-03-12",
+        "auteur": "Hugo Place",
+        "auteur_lien": "https://www.google.com/maps/contrib/104699455837585738639/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2kxMVIxbEVjWFpSYzNCaVptSnBWVU5YWmpSS1dYYxAB!2m1!1s0x47e4f0961539244d:0x9172931bcb14afe6"
+      },
+      {
+        "note": 1,
+        "texte": "Catastrophique, manque de sérieux. J'attends un colis AMAZON depuis le 16 décembre. J'ai passé ma commande le 12 et maintenant il est indiqué \"délai de livraison inconnu\". Je n'ai jamais vu cela. Lorsque je regarde les avis, c'est l'horreur. Amazon en ligne, ne sait pas ou est passé mon colis qui doit arriver pour Noël. Il pense qu'il est perdu.Tout est à revoir, il n'y a aucun organisation. Ce jouet commandé je n'en trouverai plus en ligne pour date d'arrivée le 24 décembre.",
+        "langue": "fr",
+        "date": "2025-12-19",
+        "auteur": "armelina",
+        "auteur_lien": "https://www.google.com/maps/contrib/102679731953247712353/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25GRFNXOTVWbkp0WDFnNVRFZEpZMFJQTVV4VlIwRRAB!2m1!1s0x47e4f0961539244d:0x9172931bcb14afe6"
+      },
+      {
+        "note": 1,
+        "texte": "En tant que chauffeur un des pires sites amazon.\nA chaque arrivée pour décrocher la remorque pleine ou vide il y a jamais de place ou alors changement d'équipe.\nCela est inadmissible. Il va falloir penser a nous les chauffeurs heures de conduites/amplitude....\nJe ne comprend pas pourquoi on ne décroche pas sur le grand parking a l'intérieur puis les chauffeurs de cours prennent le relais ????\nBref vraiment a revoir l'organisation de ce site.",
+        "langue": "fr",
+        "date": "2025-11-07",
+        "auteur": "Endéyo",
+        "auteur_lien": "https://www.google.com/maps/contrib/103854277268976388499/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT21ORFdGcElSMVJqVlRGQlNFOHhRVGRHYW1WeloxRRAB!2m1!1s0x47e4f0961539244d:0x9172931bcb14afe6"
+      },
+      {
+        "note": 5,
+        "texte": "Je ne connais pas le lieu mais je remercie tous ces livreurs qui sont là pour notre petit confort mesdames et messieurs dur le travail que vous effectuez Bon courage a vous",
+        "langue": "fr",
+        "date": "2025-08-24",
+        "auteur": "brahim habib",
+        "auteur_lien": "https://www.google.com/maps/contrib/113536563111258324453/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25oYVQyOHRhMnhJT0RSZlYyNHlZMkZFUzB4YWJHYxAB!2m1!1s0x47e4f0961539244d:0x9172931bcb14afe6"
+      }
+    ]
   }
 }

@@ -1,0 +1,250 @@
+{
+  "id": "ChIJBfrgQB6UC0gR9ItRc5XHexQ",
+  "slug": "le-penalty",
+  "nom": "Le Pénalty",
+  "categorie": "cafes-bars",
+  "categorie_gmb": "Bar",
+  "type_principal": "bar",
+  "types": [
+    "bar",
+    "store",
+    "point_of_interest",
+    "establishment"
+  ],
+  "ville": "Agneaux",
+  "ville_slug": "agneaux",
+  "adresse": {
+    "rue": "84 Route de Coutances",
+    "code_postal": "50180",
+    "departement": "50",
+    "region": "Normandie",
+    "pays": "France",
+    "complete": "84 Rte de Coutances, 50180 Agneaux"
+  },
+  "telephone": "07 69 30 31 17",
+  "geo": {
+    "latitude": 49.1153519,
+    "longitude": -1.1164034999999999
+  },
+  "note": 4.3,
+  "avis": 232,
+  "horaires": [
+    {
+      "jour": 0,
+      "ferme": false,
+      "creneaux": [
+        [
+          "06:30",
+          "20:00"
+        ]
+      ]
+    },
+    {
+      "jour": 1,
+      "ferme": false,
+      "creneaux": [
+        [
+          "06:30",
+          "20:00"
+        ]
+      ]
+    },
+    {
+      "jour": 2,
+      "ferme": false,
+      "creneaux": [
+        [
+          "06:30",
+          "20:00"
+        ]
+      ]
+    },
+    {
+      "jour": 3,
+      "ferme": false,
+      "creneaux": [
+        [
+          "06:30",
+          "20:00"
+        ]
+      ]
+    },
+    {
+      "jour": 4,
+      "ferme": false,
+      "creneaux": [
+        [
+          "06:30",
+          "20:00"
+        ]
+      ]
+    },
+    {
+      "jour": 5,
+      "ferme": false,
+      "creneaux": [
+        [
+          "07:30",
+          "19:30"
+        ]
+      ]
+    },
+    {
+      "jour": 6,
+      "ferme": true,
+      "creneaux": []
+    }
+  ],
+  "attributs": [
+    "Entrée accessible en fauteuil roulant"
+  ],
+  "lien_google": "https://maps.google.com/?cid=1475992747592748020&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
+  "site_web_gmb": null,
+  "statut": "publiee",
+  "backlink": {
+    "etat": "absent",
+    "premiere_detection": null,
+    "derniere_detection": null,
+    "derniere_verification": "2026-10-18T10:32:09.485Z",
+    "echecs": 1,
+    "url_detectee": null
+  },
+  "suggestion": {
+    "etat": "en-attente",
+    "date_soumission": null,
+    "tentatives": 0,
+    "date_email": "2026-10-18"
+  },
+  "retrait": null,
+  "dates": {
+    "collecte": "2026-10-18",
+    "publication": "2026-10-18",
+    "maj": "2026-10-18"
+  },
+  "source": "google-places",
+  "redaction": {
+    "titre": "Le Pénalty — Café ou bar à Agneaux",
+    "meta_titre": "Le Pénalty, café ou bar à Agneaux",
+    "meta_description": "Le Pénalty, café ou bar à Agneaux (84 Route de Coutances) : adresse, horaires, téléphone et informations pratiques.",
+    "chapo": "Cette fiche présente Le Pénalty, un café ou bar au 84 Route de Coutances, à Agneaux. Son établissement ne déclare aucun site internet sur sa fiche Google : les informations ci-dessous en tiennent lieu de référence publique, vérifiable et accessible à tous.",
+    "sections": [
+      {
+        "id": "presentation",
+        "titre": "Le Pénalty en quelques mots",
+        "paragraphes": [
+          "Le choix d'un café ou bar se joue sur trois critères : la proximité, les horaires et la facilité de contact.",
+          "Les cafés et bars sont des repères de vie locale rarement dotés d'un site. Horaires réels, terrasse, retransmissions sportives, concerts : autant de détails qui décident d'une sortie et qui n'apparaissent nulle part ailleurs de façon lisible.",
+          "D'après le relevé du 18 octobre 2026, l'établissement est ouvert tous les jours sauf le dimanche. Le détail jour par jour figure plus bas."
+        ]
+      },
+      {
+        "id": "acces",
+        "titre": "Adresse et accès",
+        "paragraphes": [
+          "L'établissement est situé au 84 Route de Coutances, 50180 Agneaux.",
+          "Coordonnées géographiques : 49.11535, -1.11640. Le lien d'itinéraire ci-dessous ouvre directement la navigation."
+        ]
+      },
+      {
+        "id": "contact",
+        "titre": "Contacter Le Pénalty",
+        "paragraphes": [
+          "Le contact se fait par téléphone au 07 69 30 31 17. C'est le seul moyen de communication déclaré sur la fiche Google de l'entreprise, avec la visite sur place.",
+          "Si vous dirigez cette entreprise, vous pouvez demander la correction ou le retrait de cette page à tout moment, sans justification."
+        ]
+      },
+      {
+        "id": "avis",
+        "titre": "La réputation de Le Pénalty",
+        "paragraphes": [
+          "Au relevé du 18 octobre 2026, l'établissement affichait une note de 4,3 sur 5 sur Google, calculée à partir de 232 avis. Cette note évolue en permanence : elle est indiquée ici à titre d'information et n'est pas retraitée.",
+          "Les avis appartiennent à Google et se consultent sur la fiche d'origine, dont le lien figure sur cette page."
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "q": "Quels sont les horaires de Le Pénalty ?",
+        "r": "Au relevé du 18 octobre 2026, Le Pénalty était ouvert tous les jours sauf le dimanche. Dans le détail — lundi : de 6 h 30 à 20 h ; mardi : de 6 h 30 à 20 h ; mercredi : de 6 h 30 à 20 h ; jeudi : de 6 h 30 à 20 h ; vendredi : de 6 h 30 à 20 h ; samedi : de 7 h 30 à 19 h 30 ; dimanche : fermé. Ces horaires peuvent changer : un appel préalable reste conseillé."
+      },
+      {
+        "q": "Où se trouve Le Pénalty ?",
+        "r": "Le Pénalty se trouve 84 Rte de Coutances, 50180 Agneaux. Un lien d'itinéraire est disponible sur cette page."
+      },
+      {
+        "q": "Comment contacter Le Pénalty ?",
+        "r": "Par téléphone au 07 69 30 31 17, ou directement sur place aux heures d'ouverture."
+      },
+      {
+        "q": "Le Pénalty a-t-il un site internet ?",
+        "r": "Non : aucune adresse de site web n'est déclarée sur la fiche Google de Le Pénalty au 18 octobre 2026. Cette page tient lieu de référence publique en attendant, le cas échéant, la création d'un site propre à l'entreprise."
+      },
+      {
+        "q": "Le Pénalty est-il accessible aux personnes à mobilité réduite ?",
+        "r": "La fiche Google de l'établissement mentionne : « Entrée accessible en fauteuil roulant ». Cette information est déclarative ; en cas de doute, vérifiez par téléphone."
+      }
+    ],
+    "genere_le": "2026-10-18"
+  },
+  "avis_detail": {
+    "releve": "2026-10-18",
+    "liste": [
+      {
+        "note": 5,
+        "texte": "Le sourire et un bonjour à notre arrivée ça fait plaisir\nServiable et prix correct",
+        "langue": "fr",
+        "date": "2026-09-01",
+        "auteur": "Samuel Famille",
+        "auteur_lien": "https://www.google.com/maps/contrib/101812762558240098424/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2trMFJXVndWR050ZFdKWWNGQnVZakpzUTB0bExXYxAB!2m1!1s0x480b941e40e0fa05:0x147bc79573518bf4"
+      },
+      {
+        "note": 5,
+        "texte": "Personnel très sympathique et agréable.\nUne bonne ambiance.\nJ'ai découvert cet endroit par le biais de mon oncle et j'ai passé deux agréables moments là bas à discuter.",
+        "langue": "fr",
+        "date": "2025-07-27",
+        "auteur": "kevin le portier",
+        "auteur_lien": "https://www.google.com/maps/contrib/115158375802025375003/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2tKYVFraGlSRUpGZW10RmIxWjJTa3BxUkhab05sRRAB!2m1!1s0x480b941e40e0fa05:0x147bc79573518bf4"
+      },
+      {
+        "note": 5,
+        "texte": "Personnel très agréable pour les connaître plutôt bien 1 année de pur plaisir de découverte sa propriétaire et une personne génial sa personnalité ne laisse pas indifférent je recommande l endroit à retrouvé un autre jour peut-être 🤪🤪",
+        "langue": "fr",
+        "date": "2024-04-26",
+        "auteur": "jean-marc cureau",
+        "auteur_lien": "https://www.google.com/maps/contrib/106221619539554627338/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUNqbDlQLUdBEAE!2m1!1s0x480b941e40e0fa05:0x147bc79573518bf4"
+      },
+      {
+        "note": 5,
+        "texte": "Pas de service de repas juste Le bar tabac par excellence. Turfistes, retraités, ouvriers qui passent pour un café avant le travail. Une ambiance sympa dans un environnement moderne. Des serveuses et une gérante réactives. Je recommande",
+        "langue": "fr",
+        "date": "2024-01-09",
+        "auteur": "Jacqueline Douesnard",
+        "auteur_lien": "https://www.google.com/maps/contrib/105038448797996119257/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUQxellUQWtRRRAB!2m1!1s0x480b941e40e0fa05:0x147bc79573518bf4"
+      },
+      {
+        "note": 5,
+        "texte": "Bonjour, avec mon copain nous sortions de l'hôtel i***, il était dans les environs 7h30-8h du matin un dimanche pour reprendre la route tranquillement. Nous avont dû monter toute la ville pour trouver un bar ouvert. Au final nous avons trouvés. Super bar accueillant, calme.\n\nSuper chocolat chaud ! 😋",
+        "langue": "fr",
+        "date": "2022-05-26",
+        "auteur": "Okay Okay",
+        "auteur_lien": "https://www.google.com/maps/contrib/112375802975017863796/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUQyLV9mSEFREAE!2m1!1s0x480b941e40e0fa05:0x147bc79573518bf4"
+      }
+    ]
+  },
+  "statut_google": "OPERATIONAL",
+  "audience": {
+    "clics": 0,
+    "impressions": 0,
+    "position": null,
+    "fenetreJours": 90,
+    "clicsRecents": 0,
+    "fenetreRecenteJours": 28,
+    "source": "search-console",
+    "date": "2026-10-18"
+  }
+}

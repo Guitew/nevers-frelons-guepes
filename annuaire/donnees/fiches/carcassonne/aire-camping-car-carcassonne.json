@@ -28,7 +28,7 @@
     "longitude": 2.3527175000000002
   },
   "note": 3.9,
-  "avis": 1161,
+  "avis": 1168,
   "horaires": null,
   "attributs": [
     "Entrée accessible en fauteuil roulant",
@@ -41,8 +41,8 @@
     "etat": "absent",
     "premiere_detection": null,
     "derniere_detection": null,
-    "derniere_verification": "2026-10-09T16:58:32.124Z",
-    "echecs": 72,
+    "derniere_verification": "2026-10-18T10:32:09.485Z",
+    "echecs": 73,
     "url_detectee": null
   },
   "suggestion": {
@@ -55,7 +55,7 @@
   "dates": {
     "collecte": "2026-09-04",
     "publication": "2026-09-04",
-    "maj": "2026-10-09"
+    "maj": "2026-10-18"
   },
   "source": "google-places",
   "redaction": {
@@ -132,5 +132,55 @@
     "canonique_google": null,
     "source": "inspection",
     "date": "2026-10-18"
+  },
+  "avis_detail": {
+    "releve": "2026-10-18",
+    "liste": [
+      {
+        "note": 5,
+        "texte": "Un bel aire avec des emplacements ombragés,  seul bémol,  à ce tarif là, le branchement électrique serait le bienvenu,  même que 6A pour le frigo et la recharge des batteries des vélos !!! Peut-être une future amélioration ??? Je l'espère pour tout le monde. Cordialement",
+        "langue": "fr",
+        "date": "2026-07-20",
+        "auteur": "Stephane ARCHAT",
+        "auteur_lien": "https://www.google.com/maps/contrib/111209277342185176719/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2twU1ZHcDZUV2h1WkRoWGF6VnRkRVZ0WjNjNVEwRRAB!2m1!1s0x12ae2c4541700cb1:0x639ecda43641055f"
+      },
+      {
+        "note": 4,
+        "texte": "De passage pour une nuit en camping car les services sont impeccables dommage qu'il n'y est pas de palissade pour être isolé de la route il faudrait aussi fermer l'accès entrée par une porte. Emplacement pas plat. Personnel accueillant.",
+        "langue": "fr",
+        "date": "2026-07-16",
+        "auteur": "Sophie Bonargent",
+        "auteur_lien": "https://www.google.com/maps/contrib/115261122070103634976/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25rMlRWUm9Oa0pzZGtsUWNGOVNSamhpZDNCM2RHYxAB!2m1!1s0x12ae2c4541700cb1:0x639ecda43641055f"
+      },
+      {
+        "note": 5,
+        "texte": "Parking souvent complet sinon très belle emplacement pas de électricité  a 15 minutes a pied des remparts",
+        "langue": "fr",
+        "date": "2026-05-19",
+        "auteur": "eric spaeder",
+        "auteur_lien": "https://www.google.com/maps/contrib/105550390968264745966/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xKU1RuWmtWbFExVlZGYVNUVk5TazlEWkhwQ2IxRRAB!2m1!1s0x12ae2c4541700cb1:0x639ecda43641055f"
+      },
+      {
+        "note": 3,
+        "texte": "Une très belle aire, des emplacements assez grands, toutefois j'ai enlevé deux étoiles, car ils abusent au niveau du tarif 16€ pour une seule personne c'est franchement de l'attrape touriste, à ce tarif sans électricité c'est vraiment un attrape touriste, vous pourrez vider vous eaux usagées et 10 minutes d'eau pour remplir votre réservoir d'eau propre. A ce prix là l'électricité devrait être fournie ! Sans compter que quand vous allez visiter la cité médiévale il faudra encore payer les attractions et visites !",
+        "langue": "fr",
+        "date": "2025-09-17",
+        "auteur": "Virtual Clubbing Life",
+        "auteur_lien": "https://www.google.com/maps/contrib/102543924074954638655/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT20wMlRGOUVXbU53YTI4MVRXRTVWWE5NYTBSM1QyYxAB!2m1!1s0x12ae2c4541700cb1:0x639ecda43641055f"
+      },
+      {
+        "note": 3,
+        "texte": "Aire de camping-car un peu chère car elle ne dispose pas de borne électrique, sinon bien placée pour aller visiter la cité de Carcassonne",
+        "langue": "fr",
+        "date": "2025-04-28",
+        "auteur": "raymond nouveau (poulet)",
+        "auteur_lien": "https://www.google.com/maps/contrib/116274820103363568325/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnTURvdzVuYnpBRRAB!2m1!1s0x12ae2c4541700cb1:0x639ecda43641055f"
+      }
+    ]
   }
 }

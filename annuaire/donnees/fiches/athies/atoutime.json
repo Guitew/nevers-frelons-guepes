@@ -40,8 +40,8 @@
     "etat": "absent",
     "premiere_detection": null,
     "derniere_detection": null,
-    "derniere_verification": "2026-10-09T16:58:32.124Z",
-    "echecs": 70,
+    "derniere_verification": "2026-10-18T10:32:09.485Z",
+    "echecs": 71,
     "url_detectee": null
   },
   "suggestion": {
@@ -54,7 +54,7 @@
   "dates": {
     "collecte": "2026-09-05",
     "publication": "2026-09-05",
-    "maj": "2026-10-09"
+    "maj": "2026-10-18"
   },
   "source": "google-places",
   "redaction": {
@@ -130,10 +130,60 @@
   "indexation": {
     "etat": "non-indexee",
     "verdict": "NEUTRAL",
-    "couverture": "Détectée, actuellement non indexée",
+    "couverture": "Google ne reconnaît pas cette URL",
     "derniere_exploration": null,
     "canonique_google": null,
     "source": "inspection",
     "date": "2026-10-18"
+  },
+  "avis_detail": {
+    "releve": "2026-10-18",
+    "liste": [
+      {
+        "note": 5,
+        "texte": "Parfait rapide aussi bien l’accueil que les caristes Laurence Perrenot Bekaert",
+        "langue": "fr",
+        "date": "2026-02-28",
+        "auteur": "Laurence Evrard",
+        "auteur_lien": "https://www.google.com/maps/contrib/116939787224473322978/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25ReGJXbzJSM2d5Wm5Sa2FrcEtXRUpSTFhseGExRRAB!2m1!1s0x47dd3700d497383d:0xb7b14397d87850fd"
+      },
+      {
+        "note": 1,
+        "texte": "Attention pour les caristes intérimaires.\nIls ne fournissent pas d'autorisation de conduite .\nOnt ma sortie sa fait 12ans qu'il travaille comme ça . 😂",
+        "langue": "fr",
+        "date": "2026-01-19",
+        "auteur": "le plaisir avant touts",
+        "auteur_lien": "https://www.google.com/maps/contrib/116221739601218633405/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2pCUU9VTjFabFUxVWxGeVJUWjVWMlZCUW5WZlRsRRAB!2m1!1s0x47dd3700d497383d:0xb7b14397d87850fd"
+      },
+      {
+        "note": 5,
+        "texte": "A ma dernière livraison je suis arrivé très en avance et le cariste super sympa m à fait mettre à quai kazy de suite c est super agréable et en prime il est super un plaisir d y aller",
+        "langue": "fr",
+        "date": "2025-05-21",
+        "auteur": "Jf Ptitloup",
+        "auteur_lien": "https://www.google.com/maps/contrib/113803094825857079078/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VKSzEyYVB1MUlYelZREAE!2m1!1s0x47dd3700d497383d:0xb7b14397d87850fd"
+      },
+      {
+        "note": 5,
+        "texte": "Personnel super sympa agréable. Ainsi que pour le déchargement idem. 👍",
+        "langue": "fr",
+        "date": "2025-03-19",
+        "auteur": "Emmanuel Pignol",
+        "auteur_lien": "https://www.google.com/maps/contrib/114219728832317239054/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnTUN3a2Z6VkFnEAE!2m1!1s0x47dd3700d497383d:0xb7b14397d87850fd"
+      },
+      {
+        "note": 3,
+        "texte": "bâtiment assez facile accès,  une bonne ambiance entre collègues et responsable secrétaire a l'entrée souriante\ndommage pas de prime de prod\nje recommande cette société quand même",
+        "langue": "fr",
+        "date": "2023-06-05",
+        "auteur": "mickael balou",
+        "auteur_lien": "https://www.google.com/maps/contrib/118278652631883706826/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUR4aXZlc2RREAE!2m1!1s0x47dd3700d497383d:0xb7b14397d87850fd"
+      }
+    ]
   }
 }

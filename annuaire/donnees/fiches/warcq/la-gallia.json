@@ -1,0 +1,255 @@
+{
+  "id": "ChIJh0lqxD4O6kcRRaIizXdlGWo",
+  "slug": "la-gallia",
+  "nom": "La Gallia",
+  "categorie": "cafes-bars",
+  "categorie_gmb": "Bar",
+  "type_principal": "bar",
+  "types": [
+    "bar",
+    "point_of_interest",
+    "establishment"
+  ],
+  "ville": "Warcq",
+  "ville_slug": "warcq",
+  "adresse": {
+    "rue": "4 Boulevard Lucien Pierquin",
+    "code_postal": "08000",
+    "departement": "08",
+    "region": "Grand Est",
+    "pays": "France",
+    "complete": "4 Bd Lucien Pierquin, 08000 Warcq"
+  },
+  "telephone": "03 24 56 18 59",
+  "geo": {
+    "latitude": 49.776785499999995,
+    "longitude": 4.6987768
+  },
+  "note": 4.3,
+  "avis": 188,
+  "horaires": [
+    {
+      "jour": 0,
+      "ferme": false,
+      "creneaux": [
+        [
+          "06:00",
+          "21:00"
+        ]
+      ]
+    },
+    {
+      "jour": 1,
+      "ferme": false,
+      "creneaux": [
+        [
+          "06:00",
+          "21:00"
+        ]
+      ]
+    },
+    {
+      "jour": 2,
+      "ferme": false,
+      "creneaux": [
+        [
+          "06:00",
+          "21:00"
+        ]
+      ]
+    },
+    {
+      "jour": 3,
+      "ferme": false,
+      "creneaux": [
+        [
+          "06:00",
+          "21:00"
+        ]
+      ]
+    },
+    {
+      "jour": 4,
+      "ferme": false,
+      "creneaux": [
+        [
+          "06:00",
+          "21:00"
+        ]
+      ]
+    },
+    {
+      "jour": 5,
+      "ferme": false,
+      "creneaux": [
+        [
+          "08:00",
+          "14:00"
+        ]
+      ]
+    },
+    {
+      "jour": 6,
+      "ferme": false,
+      "creneaux": [
+        [
+          "09:00",
+          "14:00"
+        ]
+      ]
+    }
+  ],
+  "attributs": [
+    "Parking accessible en fauteuil roulant",
+    "Toilettes accessibles en fauteuil roulant"
+  ],
+  "lien_google": "https://maps.google.com/?cid=7645253407655240261&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
+  "site_web_gmb": null,
+  "statut": "publiee",
+  "backlink": {
+    "etat": "absent",
+    "premiere_detection": null,
+    "derniere_detection": null,
+    "derniere_verification": "2026-10-18T10:32:09.485Z",
+    "echecs": 1,
+    "url_detectee": null
+  },
+  "suggestion": {
+    "etat": "en-attente",
+    "date_soumission": null,
+    "tentatives": 0,
+    "date_email": "2026-10-18"
+  },
+  "retrait": null,
+  "dates": {
+    "collecte": "2026-10-18",
+    "publication": "2026-10-18",
+    "maj": "2026-10-18"
+  },
+  "source": "google-places",
+  "redaction": {
+    "titre": "La Gallia — Café ou bar à Warcq",
+    "meta_titre": "La Gallia, café ou bar à Warcq",
+    "meta_description": "La Gallia, café ou bar à Warcq (4 Boulevard Lucien Pierquin) : adresse, horaires, téléphone et informations pratiques.",
+    "chapo": "La Gallia est un café ou bar au 4 Boulevard Lucien Pierquin, à Warcq. Aucune adresse web n'est renseignée sur sa fiche Google. Cette page rassemble donc, en un seul endroit stable, les informations que les clients recherchent avant de se déplacer.",
+    "sections": [
+      {
+        "id": "presentation",
+        "titre": "La Gallia en quelques mots",
+        "paragraphes": [
+          "Le choix d'un café ou bar se joue sur trois critères : la proximité, les horaires et la facilité de contact.",
+          "Les cafés et bars sont des repères de vie locale rarement dotés d'un site. Horaires réels, terrasse, retransmissions sportives, concerts : autant de détails qui décident d'une sortie et qui n'apparaissent nulle part ailleurs de façon lisible.",
+          "D'après le relevé du 18 octobre 2026, l'établissement est ouvert sept jours sur sept. Le détail jour par jour figure plus bas."
+        ]
+      },
+      {
+        "id": "acces",
+        "titre": "Adresse et accès",
+        "paragraphes": [
+          "L'établissement est situé au 4 Boulevard Lucien Pierquin, 08000 Warcq.",
+          "Coordonnées géographiques : 49.77679, 4.69878. Le lien d'itinéraire ci-dessous ouvre directement la navigation."
+        ]
+      },
+      {
+        "id": "contact",
+        "titre": "Contacter La Gallia",
+        "paragraphes": [
+          "Le contact se fait par téléphone au 03 24 56 18 59. C'est le seul moyen de communication déclaré sur la fiche Google de l'entreprise, avec la visite sur place.",
+          "Si vous dirigez cette entreprise, vous pouvez demander la correction ou le retrait de cette page à tout moment, sans justification."
+        ]
+      },
+      {
+        "id": "avis",
+        "titre": "La réputation de La Gallia",
+        "paragraphes": [
+          "Au relevé du 18 octobre 2026, l'établissement affichait une note de 4,3 sur 5 sur Google, calculée à partir de 188 avis. Cette note évolue en permanence : elle est indiquée ici à titre d'information et n'est pas retraitée.",
+          "Les avis appartiennent à Google et se consultent sur la fiche d'origine, dont le lien figure sur cette page."
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "q": "Quels sont les horaires de La Gallia ?",
+        "r": "Au relevé du 18 octobre 2026, La Gallia était ouvert sept jours sur sept. Dans le détail — lundi : de 6 h à 21 h ; mardi : de 6 h à 21 h ; mercredi : de 6 h à 21 h ; jeudi : de 6 h à 21 h ; vendredi : de 6 h à 21 h ; samedi : de 8 h à 14 h ; dimanche : de 9 h à 14 h. Ces horaires peuvent changer : un appel préalable reste conseillé."
+      },
+      {
+        "q": "Où se trouve La Gallia ?",
+        "r": "La Gallia se trouve 4 Bd Lucien Pierquin, 08000 Warcq. Un lien d'itinéraire est disponible sur cette page."
+      },
+      {
+        "q": "Comment contacter La Gallia ?",
+        "r": "Par téléphone au 03 24 56 18 59, ou directement sur place aux heures d'ouverture."
+      },
+      {
+        "q": "La Gallia a-t-il un site internet ?",
+        "r": "Non : aucune adresse de site web n'est déclarée sur la fiche Google de La Gallia au 18 octobre 2026. Cette page tient lieu de référence publique en attendant, le cas échéant, la création d'un site propre à l'entreprise."
+      },
+      {
+        "q": "La Gallia est-il accessible aux personnes à mobilité réduite ?",
+        "r": "La fiche Google de l'établissement mentionne : « Parking accessible en fauteuil roulant ». Cette information est déclarative ; en cas de doute, vérifiez par téléphone."
+      }
+    ],
+    "genere_le": "2026-10-18"
+  },
+  "avis_detail": {
+    "releve": "2026-10-18",
+    "liste": [
+      {
+        "note": 5,
+        "texte": "Bon accueil du patron\nBon service",
+        "langue": "fr",
+        "date": "2026-07-04",
+        "auteur": "Isabelle Decelle",
+        "auteur_lien": "https://www.google.com/maps/contrib/115916421946615557842/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2trMU9IYzFUSFJGTjI1SWJuaG9NMUJOZEVGWU0zYxAB!2m1!1s0x47ea0e3ec46a4987:0x6a196577cd22a245"
+      },
+      {
+        "note": 5,
+        "texte": "Une première fois dans se café\nSuperbe accueil avec un patron qui vient vers vous vous sers la main la dejas une personne qui mérite notre respect  très souriant. Et surtout le café  vraiment pas chère du tout je conseil cette établissement a 200%   😉",
+        "langue": "fr",
+        "date": "2025-11-18",
+        "auteur": "Sandra Roellinger",
+        "auteur_lien": "https://www.google.com/maps/contrib/103967190124947443821/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2pKWlNtdzVWSEJrTnpBNGRGWmpjak52WVRoZmRWRRAB!2m1!1s0x47ea0e3ec46a4987:0x6a196577cd22a245"
+      },
+      {
+        "note": 1,
+        "texte": "Nous étions de passage , nous sommes restés 10 minutes à attendre le bon vouloir de madame pour prendre notre commande 🙁🙁 . Eh! Rien nous sommes ressortis aussi vite que nous sommes entré 😡😡😡 pas un bonjour , pas un mot 😡😡 a fuir absolument🚴🏻‍♀️🚴🏼😡",
+        "langue": "fr",
+        "date": "2024-07-16",
+        "auteur": "Taty Flo",
+        "auteur_lien": "https://www.google.com/maps/contrib/116735836737076173825/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSURyOHJteXZRRRAB!2m1!1s0x47ea0e3ec46a4987:0x6a196577cd22a245"
+      },
+      {
+        "note": 5,
+        "texte": "Bonjour,\n\nConnu avant tout pour un colis.\nBel endroit avec du personnel très sympa tout le temps. La nouvelle terrasse est très appréciable.\n\nFDJ, papeterie, vente à emporter et bar avant tout !\n\nPas forcément évident pour se garer en revanche, mais on trouve toujours de la place.un peu plus bas.\n\nMerci.",
+        "langue": "fr",
+        "date": "2024-02-25",
+        "auteur": "Mickaël Lairet",
+        "auteur_lien": "https://www.google.com/maps/contrib/110414839434998917432/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSURkbGN6Z3hRRRAB!2m1!1s0x47ea0e3ec46a4987:0x6a196577cd22a245"
+      },
+      {
+        "note": 5,
+        "texte": "Cet établissement dispose d’une belle cave à cigare, le patron est désireux de satisfaire la demande de ses clients en recherchant des cigares à tout les tarifs",
+        "langue": "fr",
+        "date": "2024-02-24",
+        "auteur": "Baptiste Huantt",
+        "auteur_lien": "https://www.google.com/maps/contrib/106998536273824836926/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSURka2Q3Smt3RRAB!2m1!1s0x47ea0e3ec46a4987:0x6a196577cd22a245"
+      }
+    ]
+  },
+  "statut_google": "OPERATIONAL",
+  "audience": {
+    "clics": 0,
+    "impressions": 0,
+    "position": null,
+    "fenetreJours": 90,
+    "clicsRecents": 0,
+    "fenetreRecenteJours": 28,
+    "source": "search-console",
+    "date": "2026-10-18"
+  }
+}

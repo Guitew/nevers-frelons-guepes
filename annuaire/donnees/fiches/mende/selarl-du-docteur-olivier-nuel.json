@@ -1,0 +1,248 @@
+{
+  "id": "ChIJm2SG0rFtsxIRVK3ATMJQtlY",
+  "slug": "selarl-du-docteur-olivier-nuel",
+  "nom": "SELARL Du docteur Olivier Nuel",
+  "categorie": "medecins-dentistes",
+  "categorie_gmb": "Dentiste",
+  "type_principal": "dentist",
+  "types": [
+    "dentist",
+    "health",
+    "point_of_interest",
+    "establishment"
+  ],
+  "ville": "Mende",
+  "ville_slug": "mende",
+  "adresse": {
+    "rue": "8 Rue de Wunsiedel",
+    "code_postal": "48000",
+    "departement": "48",
+    "region": "Occitanie",
+    "pays": "France",
+    "complete": "lot val lib, 8 Rue de Wunsiedel, 48000 Mende"
+  },
+  "telephone": "04 66 65 05 72",
+  "geo": {
+    "latitude": 44.5282999,
+    "longitude": 3.4698135000000003
+  },
+  "note": 4,
+  "avis": 16,
+  "horaires": [
+    {
+      "jour": 0,
+      "ferme": false,
+      "creneaux": [
+        [
+          "09:00",
+          "19:00"
+        ]
+      ]
+    },
+    {
+      "jour": 1,
+      "ferme": false,
+      "creneaux": [
+        [
+          "09:00",
+          "19:00"
+        ]
+      ]
+    },
+    {
+      "jour": 2,
+      "ferme": false,
+      "creneaux": [
+        [
+          "09:00",
+          "19:00"
+        ]
+      ]
+    },
+    {
+      "jour": 3,
+      "ferme": false,
+      "creneaux": [
+        [
+          "09:00",
+          "19:00"
+        ]
+      ]
+    },
+    {
+      "jour": 4,
+      "ferme": false,
+      "creneaux": [
+        [
+          "09:00",
+          "17:00"
+        ]
+      ]
+    },
+    {
+      "jour": 5,
+      "ferme": true,
+      "creneaux": []
+    },
+    {
+      "jour": 6,
+      "ferme": true,
+      "creneaux": []
+    }
+  ],
+  "attributs": [
+    "Entrée accessible en fauteuil roulant",
+    "Parking accessible en fauteuil roulant",
+    "Toilettes accessibles en fauteuil roulant",
+    "Places assises accessibles en fauteuil roulant"
+  ],
+  "lien_google": "https://maps.google.com/?cid=6248270328464715092&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
+  "site_web_gmb": null,
+  "statut": "publiee",
+  "backlink": {
+    "etat": "absent",
+    "premiere_detection": null,
+    "derniere_detection": null,
+    "derniere_verification": "2026-10-18T10:32:09.485Z",
+    "echecs": 1,
+    "url_detectee": null
+  },
+  "suggestion": {
+    "etat": "en-attente",
+    "date_soumission": null,
+    "tentatives": 0,
+    "date_email": "2026-10-18"
+  },
+  "retrait": null,
+  "dates": {
+    "collecte": "2026-10-18",
+    "publication": "2026-10-18",
+    "maj": "2026-10-18"
+  },
+  "source": "google-places",
+  "redaction": {
+    "titre": "SELARL Du docteur Olivier Nuel — Médecin ou dentiste à Mende",
+    "meta_titre": "SELARL Du docteur Olivier Nuel, médecin ou dentiste à Mende",
+    "meta_description": "SELARL Du docteur Olivier Nuel, médecin ou dentiste à Mende (8 Rue de Wunsiedel) : adresse, horaires, téléphone et informations pratiques.",
+    "chapo": "SELARL Du docteur Olivier Nuel exerce l'activité de médecin ou dentiste au 8 Rue de Wunsiedel, à Mende. Faute de site internet déclaré sur sa fiche Google, l'entreprise reste difficile à trouver en dehors des cartes. Cette page comble ce manque avec des données factuelles et datées.",
+    "sections": [
+      {
+        "id": "presentation",
+        "titre": "SELARL Du docteur Olivier Nuel en quelques mots",
+        "paragraphes": [
+          "Médecins et dentistes font partie des activités les plus consultées localement sur mobile.",
+          "Les cabinets de santé publient rarement autre chose qu'une fiche Google. Les informations réellement utiles — secteur de conventionnement, accès aux personnes à mobilité réduite, mode de prise de rendez-vous — méritent une page stable et lisible, sans publicité ni intermédiaire.",
+          "D'après le relevé du 18 octobre 2026, l'établissement est fermé le samedi et le dimanche. Le détail jour par jour figure plus bas."
+        ]
+      },
+      {
+        "id": "acces",
+        "titre": "Adresse et accès",
+        "paragraphes": [
+          "L'établissement est situé au 8 Rue de Wunsiedel, 48000 Mende.",
+          "Coordonnées géographiques : 44.52830, 3.46981. Le lien d'itinéraire ci-dessous ouvre directement la navigation."
+        ]
+      },
+      {
+        "id": "contact",
+        "titre": "Contacter SELARL Du docteur Olivier Nuel",
+        "paragraphes": [
+          "Le contact se fait par téléphone au 04 66 65 05 72. C'est le seul moyen de communication déclaré sur la fiche Google de l'entreprise, avec la visite sur place.",
+          "Si vous dirigez cette entreprise, vous pouvez demander la correction ou le retrait de cette page à tout moment, sans justification."
+        ]
+      },
+      {
+        "id": "avis",
+        "titre": "La réputation de SELARL Du docteur Olivier Nuel",
+        "paragraphes": [
+          "Au relevé du 18 octobre 2026, l'établissement affichait une note de 4 sur 5 sur Google, calculée à partir de 16 avis. Cette note évolue en permanence : elle est indiquée ici à titre d'information et n'est pas retraitée.",
+          "Les avis appartiennent à Google et se consultent sur la fiche d'origine, dont le lien figure sur cette page."
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "q": "Quels sont les horaires de SELARL Du docteur Olivier Nuel ?",
+        "r": "Au relevé du 18 octobre 2026, SELARL Du docteur Olivier Nuel était fermé le samedi et le dimanche. Dans le détail — lundi : de 9 h à 19 h ; mardi : de 9 h à 19 h ; mercredi : de 9 h à 19 h ; jeudi : de 9 h à 19 h ; vendredi : de 9 h à 17 h ; samedi : fermé ; dimanche : fermé. Ces horaires peuvent changer : un appel préalable reste conseillé."
+      },
+      {
+        "q": "Où se trouve SELARL Du docteur Olivier Nuel ?",
+        "r": "SELARL Du docteur Olivier Nuel se trouve lot val lib, 8 Rue de Wunsiedel, 48000 Mende. Un lien d'itinéraire est disponible sur cette page."
+      },
+      {
+        "q": "Comment contacter SELARL Du docteur Olivier Nuel ?",
+        "r": "Par téléphone au 04 66 65 05 72, ou directement sur place aux heures d'ouverture."
+      },
+      {
+        "q": "SELARL Du docteur Olivier Nuel a-t-il un site internet ?",
+        "r": "Non : aucune adresse de site web n'est déclarée sur la fiche Google de SELARL Du docteur Olivier Nuel au 18 octobre 2026. Cette page tient lieu de référence publique en attendant, le cas échéant, la création d'un site propre à l'entreprise."
+      },
+      {
+        "q": "SELARL Du docteur Olivier Nuel est-il accessible aux personnes à mobilité réduite ?",
+        "r": "La fiche Google de l'établissement mentionne : « Entrée accessible en fauteuil roulant ». Cette information est déclarative ; en cas de doute, vérifiez par téléphone."
+      }
+    ],
+    "genere_le": "2026-10-18"
+  },
+  "avis_detail": {
+    "releve": "2026-10-18",
+    "liste": [
+      {
+        "note": 5,
+        "texte": "Je suis très satisfaite de mon expérience chez mon dentiste. Le docteur Nuel accorde un accueil chaleureux, et professionnel l’équipe et à l’écoute , une assistante toujours souriante . Les soins sont réalisés avec beaucoup de sérieux et de douceur, ce qui met immédiatement en confiance. Je recommande vivement ce cabinet pour la qualité de son travail et son excellent suivi👌",
+        "langue": "fr",
+        "date": "2026-06-04",
+        "auteur": "Laurence Bayol",
+        "auteur_lien": "https://www.google.com/maps/contrib/116097213095430509325/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2toRGVsWTBWbVpHWW5GbGRubFhUVjlrWDFsMmFsRRAB!2m1!1s0x12b36db1d286649b:0x56b650c24cc0ad54"
+      },
+      {
+        "note": 5,
+        "texte": "J’ai eu l’occasion d’avoir plusieurs rendez-vous avec le Docteur Massador, une professionnelle de santé très à l’écoute de ses patients, aussi bien des adultes que des enfants.\n\nDentiste douce, attentive et rassurante, elle prend le temps d’expliquer les soins et met facilement en confiance.\n\nJe recommande vivement cette praticienne.",
+        "langue": "fr",
+        "date": "2026-05-11",
+        "auteur": "Jérémy BRINGER",
+        "auteur_lien": "https://www.google.com/maps/contrib/112682715542855684626/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xaUFNXRkNSemxRVVdOQlRERnBaa05GTldzdE5HYxAB!2m1!1s0x12b36db1d286649b:0x56b650c24cc0ad54"
+      },
+      {
+        "note": 1,
+        "texte": "Une honte, consultation en urgence pour une rage de dents qui dure depuis plusieurs jours. Payé 50 euros pour une consultation de 2 minutes, tout ça pour que la dentiste annonce qu'il y a une infection et qu'il faut arracher la dent mais qu'elle ne peut pas le faire.\nVisiblement dans ce cabinet on oublie le serment d'hippocrate mais on oublie pas la facture par contre.",
+        "langue": "fr",
+        "date": "2026-02-01",
+        "auteur": "ROUDAF",
+        "auteur_lien": "https://www.google.com/maps/contrib/104820166396786080424/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2pacFIwNVBXWFEzYUhBeloyTllMVXB5WW1GcmRuYxAB!2m1!1s0x12b36db1d286649b:0x56b650c24cc0ad54"
+      },
+      {
+        "note": 5,
+        "texte": "Médecin extrêmement bienveillant et à l'écoute.  Vous êtes un chirurgien-dentiste-magicien ! Et votre assistante a toujours le sourire! Merci à  vous 2 et.... à  bientôt !  Vous réalisez les soins en un tour de main que c'est déjà fini .\nPrise en charge de la douleur au top, car moi-même,  courageuse, un peu pétocharde quand même mais douillette, même pas mal ! Et pourtant on en a partagé des galères  dentaires ensemble depuis plusieurs années ... et pour toute la famille ! On est tous ravis !",
+        "langue": "fr",
+        "date": "2023-10-19",
+        "auteur": "Fanny RICHARD",
+        "auteur_lien": "https://www.google.com/maps/contrib/106016615806034972071/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUQ1eUtqQThnRRAB!2m1!1s0x12b36db1d286649b:0x56b650c24cc0ad54"
+      },
+      {
+        "note": 5,
+        "texte": "Un cabinet professionnel, dans lequel on est parfaitement pris en charge. Le bien-être des patients est une des priorités pour monsieur Nuel et cela se fait ressentir lors des soins. Mention spéciale à l'assistante et sa bonne humeur !",
+        "langue": "fr",
+        "date": "2021-08-04",
+        "auteur": "Théo Trébuchon",
+        "auteur_lien": "https://www.google.com/maps/contrib/102430678556738802187/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUNhLWJxdzZ3RRAB!2m1!1s0x12b36db1d286649b:0x56b650c24cc0ad54"
+      }
+    ]
+  },
+  "statut_google": "OPERATIONAL",
+  "audience": {
+    "clics": 0,
+    "impressions": 0,
+    "position": null,
+    "fenetreJours": 90,
+    "clicsRecents": 0,
+    "fenetreRecenteJours": 28,
+    "source": "search-console",
+    "date": "2026-10-18"
+  }
+}

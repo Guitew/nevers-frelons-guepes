@@ -40,8 +40,8 @@
     "etat": "absent",
     "premiere_detection": null,
     "derniere_detection": null,
-    "derniere_verification": "2026-10-09T16:58:32.124Z",
-    "echecs": 76,
+    "derniere_verification": "2026-10-18T10:32:09.485Z",
+    "echecs": 77,
     "url_detectee": null
   },
   "suggestion": {
@@ -137,5 +137,55 @@
     "canonique_google": null,
     "source": "inspection",
     "date": "2026-10-18"
+  },
+  "avis_detail": {
+    "releve": "2026-10-18",
+    "liste": [
+      {
+        "note": 4,
+        "texte": "L'éclairage du parking est insuffisant pour les camions.",
+        "langue": "fr",
+        "date": "2026-01-25",
+        "auteur": "SERGEI SUVOROV",
+        "auteur_lien": "https://www.google.com/maps/contrib/106697941191644048052/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2pSbVlraEJWa3gyVEZsZlZtdE9YMTlhYmtWdFNsRRAB!2m1!1s0x4794d900489d030d:0xc9f5f600295bb62b"
+      },
+      {
+        "note": 1,
+        "texte": "Null ça vient très cher 👺👺👹",
+        "langue": "fr",
+        "date": "2025-11-19",
+        "auteur": "Semko Semko",
+        "auteur_lien": "https://www.google.com/maps/contrib/114978342799682949538/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2pOMWNtOXJORE5vU25jd2RWaG1hVXBIYlZSZlVsRRAB!2m1!1s0x4794d900489d030d:0xc9f5f600295bb62b"
+      },
+      {
+        "note": 1,
+        "texte": "Catastrophique",
+        "langue": "fr",
+        "date": "2025-11-19",
+        "auteur": "Lucas MARINO",
+        "auteur_lien": "https://www.google.com/maps/contrib/112085963051546117427/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT214RmJYRTFjamd4TmxGa1lXVktUMjlIWTNwc2FFRRAB!2m1!1s0x4794d900489d030d:0xc9f5f600295bb62b"
+      },
+      {
+        "note": 1,
+        "texte": "Bazar général avec les travaux qui n’en finissent plus",
+        "langue": "fr",
+        "date": "2025-08-25",
+        "auteur": "CATHY LAGACHE",
+        "auteur_lien": "https://www.google.com/maps/contrib/115679889776330331831/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2tWSVZVRjJOV2haU1hJNWFqazFkMVl4YVZGeU5uYxAB!2m1!1s0x4794d900489d030d:0xc9f5f600295bb62b"
+      },
+      {
+        "note": 1,
+        "texte": "Catastrophique ! Depuis la réorganisation du magasin il y a maintenant plusieurs mois les rayon n'arrête pas de changer de place, fromagerie et boucherie fermé régulièrement le shampoing est a coté des chips et j'en passe, je comprend que réorganisation oblige mais faites vite une bonne fois pour toute.\nJ'étais client régulier, aujourd'hui je ne souhaite plus faire mes courses ici.",
+        "langue": "fr",
+        "date": "2025-08-13",
+        "auteur": "Alphagrunt57",
+        "auteur_lien": "https://www.google.com/maps/contrib/107168806007285844754/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25ob2JtMXZVVWxXYlhaWVkyTkZiMHQ0Um5GTFVrRRAB!2m1!1s0x4794d900489d030d:0xc9f5f600295bb62b"
+      }
+    ]
   }
 }

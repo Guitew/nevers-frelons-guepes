@@ -28,7 +28,7 @@
     "longitude": 6.0114956
   },
   "note": 4,
-  "avis": 1077,
+  "avis": 1079,
   "horaires": [
     {
       "jour": 0,
@@ -142,8 +142,8 @@
     "etat": "absent",
     "premiere_detection": null,
     "derniere_detection": null,
-    "derniere_verification": "2026-10-09T16:58:32.124Z",
-    "echecs": 76,
+    "derniere_verification": "2026-10-18T10:32:09.485Z",
+    "echecs": 77,
     "url_detectee": null
   },
   "suggestion": {
@@ -247,5 +247,55 @@
     "canonique_google": "https://andpro.fr/vitrine-locale/restaurants/besancon/au-tour-du-monde/",
     "source": "inspection",
     "date": "2026-10-18"
+  },
+  "avis_detail": {
+    "releve": "2026-10-18",
+    "liste": [
+      {
+        "note": 1,
+        "texte": "Déçue de notre passage ce midi. Nous connaissons pourtant bien cet établissement et venons régulièrement avec des collègues, des amis ou en famille. Nous apprécions habituellement le joli cadre, le choix proposé et le bon rapport qualité prix.\n\nMais depuis quelques mois, la qualité semble malheureusement se dégrader. Le service, déjà assez moyen, est devenu peu chaleureux et les serveurs restent parfois à discuter au milieu de la salle avec des chariots remplis de vaisselle et de déchets. Le plus gênant reste l’odeur très désagréable qui se dégage de ces chariots lorsqu’ils passent près des tables… Pas vraiment agréable pendant un repas.\n\nEnfin, les plats ont de moins en moins de goût. Nous ne venons pas pour de la grande gastronomie, mais un minimum de qualité et de saveur serait apprécié.\n\nDommage, car c’était auparavant une adresse où nous aimions revenir",
+        "langue": "fr",
+        "date": "2026-08-04",
+        "auteur": "KUI SANG WAYANE",
+        "auteur_lien": "https://www.google.com/maps/contrib/110672097183045758513/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2pSS2MyVlVaVTlJVVRCMVIxTXplR3hYU0ZsbWMwRRAB!2m1!1s0x478d63388048c1db:0xd736bbd25514b1c0"
+      },
+      {
+        "note": 4,
+        "texte": "C'était pas mal , j'ai apprécié !\nJuste avec mon amie , nous sommes parti mangé un jeudi midi , pendant les vacances scolaires, c'était catastrophique ! Pas pris en charge , j'ai du courir après un serveur pour commander une boisson, on a eu le temps d'aller chercher de quoi grignoter pour l'apéro et finir de manger l'apéro qu'on avait toujours pas les boissons ... J'ai du lui recourir après ! Juste éviter les fortes affluence ..... Sinon très large choix au top",
+        "langue": "fr",
+        "date": "2026-04-18",
+        "auteur": "Christelle “Chrichrilacriz” Wack",
+        "auteur_lien": "https://www.google.com/maps/contrib/110325123265286555936/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xrelRUazNkMlpsZFRkclozbElUa1pPWDBOdFJrRRAB!2m1!1s0x478d63388048c1db:0xd736bbd25514b1c0"
+      },
+      {
+        "note": 3,
+        "texte": "Buffet à volonté spacieux, et joliment décoré, avec une touche originale qui rend le lieu agréable. Le choix de plats est vraiment large, il y en a pour tous les goûts, des entrées aux desserts.\n\nLes plats asiatiques sont un peu décevants et manquent de saveur, et certains plats chauds sont à peine tièdes.\n\nDe plus, dans certains compartiments, il manque des ustensiles de service, ce qui oblige les clients à se servir avec ceux d’autres plats. Ce n’est ni pratique ni hygiénique, surtout pour les personnes devant suivre un régime strict..\n\nCertaines étiquettes de sushis ou de plats ne correspondent pas, ce qui oblige parfois à deviner ce qu’il y a dedans comme ingrédients.\n\nLe personnel pourrait être un peu plus souriant pour rendre l’expérience encore meilleure..\n\nNéanmoins, le lieu reste agréable et globalement propre, mais quelques points pourraient être améliorés pour rendre le repas plus plaisant.",
+        "langue": "fr",
+        "date": "2025-11-10",
+        "auteur": "Sinem U.",
+        "auteur_lien": "https://www.google.com/maps/contrib/105207464406849124422/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2pFdFExWXpNSHBDUW1scE5IWndNSE5LUW1remJuYxAB!2m1!1s0x478d63388048c1db:0xd736bbd25514b1c0"
+      },
+      {
+        "note": 4,
+        "texte": "Un plaisir gustatif à chaque visite. Grande variété de plat et tous aussi bon. Mention très spéciale pour les sushis bien frais et très variés. Top 1 des restaurants asiatiques de type buffet à Besançon, bien que le prix soit plus élevé.\nBémol majeur : l’ambiance très bruyante du restaurant",
+        "langue": "fr",
+        "date": "2025-09-14",
+        "auteur": "Laura L",
+        "auteur_lien": "https://www.google.com/maps/contrib/102415474794747066598/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2taclJVNXJUR3h6UkRWcGVXMVhhbEJWVDFWck5FRRAB!2m1!1s0x478d63388048c1db:0xd736bbd25514b1c0"
+      },
+      {
+        "note": 4,
+        "texte": "Un bon buffet varié asiatique et non asiatique.\n\nUn choix important que cela soit en entrée, plat et dessert.\n\nAmbiance sympa avec une décoration originale.\n\nPrix assez élevé surtout le weekend.\n\nIl y a aussi beaucoup de monde vers 12h30/13h00.",
+        "langue": "fr",
+        "date": "2025-07-19",
+        "auteur": "LeVoyageur",
+        "auteur_lien": "https://www.google.com/maps/contrib/108176219728916775580/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT21VMVlpMW9VRUV5WVZSQ2JuUlZiVlZ3VW1GSmMzYxAB!2m1!1s0x478d63388048c1db:0xd736bbd25514b1c0"
+      }
+    ]
   }
 }

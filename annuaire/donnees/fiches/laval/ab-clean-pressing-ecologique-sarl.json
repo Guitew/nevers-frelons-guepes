@@ -27,7 +27,7 @@
     "longitude": -0.7692732999999999
   },
   "note": 4.6,
-  "avis": 70,
+  "avis": 71,
   "horaires": [
     {
       "jour": 0,
@@ -122,8 +122,8 @@
     "etat": "absent",
     "premiere_detection": null,
     "derniere_detection": null,
-    "derniere_verification": "2026-10-09T16:58:32.124Z",
-    "echecs": 21,
+    "derniere_verification": "2026-10-18T10:32:09.485Z",
+    "echecs": 22,
     "url_detectee": null
   },
   "suggestion": {
@@ -136,7 +136,7 @@
   "dates": {
     "collecte": "2026-09-29",
     "publication": "2026-09-29",
-    "maj": "2026-10-09"
+    "maj": "2026-10-18"
   },
   "source": "google-places",
   "redaction": {
@@ -213,5 +213,55 @@
     "fenetreRecenteJours": 28,
     "source": "search-console",
     "date": "2026-10-18"
+  },
+  "avis_detail": {
+    "releve": "2026-10-18",
+    "liste": [
+      {
+        "note": 5,
+        "texte": "Accueil sympathique pour le dépôt de colis, prise en charge rapide : parfait.",
+        "langue": "fr",
+        "date": "2026-06-13",
+        "auteur": "Marie Leblanc",
+        "auteur_lien": "https://www.google.com/maps/contrib/114528380125180599316/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2pST1JuTnFUbGxLWkc5NmRqRkhWMFZuUXpaMVprRRAB!2m1!1s0x48090209574dee5d:0xd18c0688bb783bb3"
+      },
+      {
+        "note": 3,
+        "texte": "Tres gentil accueil pour retirer vos colis.",
+        "langue": "fr",
+        "date": "2026-04-28",
+        "auteur": "Franck Lacuisse",
+        "auteur_lien": "https://www.google.com/maps/contrib/107310331700945323398/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2twcExWUmZOVkV5VW1GdlJtOVFTbGhYZFY5UVQyYxAB!2m1!1s0x48090209574dee5d:0xd18c0688bb783bb3"
+      },
+      {
+        "note": 5,
+        "texte": "Je suis venu pour déposer un colis qui avait un problème d'étiquetage. La responsable as tout fait pour résoudre mon problème. Très très gentille. Merci",
+        "langue": "fr",
+        "date": "2026-03-12",
+        "auteur": "Solution61 Conseil en informatiques",
+        "auteur_lien": "https://www.google.com/maps/contrib/111451411403055222452/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT20xRlRIUlhMVFZYVWxBM2FuWkdWWFF4UWs1dVYyYxAB!2m1!1s0x48090209574dee5d:0xd18c0688bb783bb3"
+      },
+      {
+        "note": 5,
+        "texte": "Excellente professionnelle que ce soit pour le pressing ou la partie depot de colis. Rapide, sympa et très souvente ouverte.  Un parking a proximité permet le stationnement.",
+        "langue": "fr",
+        "date": "2026-02-03",
+        "auteur": "Jacques Salesse",
+        "auteur_lien": "https://www.google.com/maps/contrib/113580048138665433363/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2tKdFZVNUtZbGN6U0dOQk1rdDRRMWRzY0ZWMlVHYxAB!2m1!1s0x48090209574dee5d:0xd18c0688bb783bb3"
+      },
+      {
+        "note": 5,
+        "texte": "Bien situé, facile à trouver, deux entrées, c'est pratique. Bon accueil 👍",
+        "langue": "fr",
+        "date": "2025-12-26",
+        "auteur": "Mary Desmonts",
+        "auteur_lien": "https://www.google.com/maps/contrib/116822184939390970154/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xReE5FMXljM0pWTVVGNVMyOWxRbWRzZFdKV1VtYxAB!2m1!1s0x48090209574dee5d:0xd18c0688bb783bb3"
+      }
+    ]
   }
 }

@@ -30,7 +30,7 @@
     "longitude": 1.3360926
   },
   "note": 4.5,
-  "avis": 1946,
+  "avis": 1948,
   "horaires": [
     {
       "jour": 0,
@@ -124,8 +124,8 @@
     "etat": "absent",
     "premiere_detection": null,
     "derniere_detection": null,
-    "derniere_verification": "2026-10-09T16:58:32.124Z",
-    "echecs": 39,
+    "derniere_verification": "2026-10-18T10:32:09.485Z",
+    "echecs": 40,
     "url_detectee": null
   },
   "suggestion": {
@@ -138,7 +138,7 @@
   "dates": {
     "collecte": "2026-09-20",
     "publication": "2026-09-20",
-    "maj": "2026-10-09"
+    "maj": "2026-10-18"
   },
   "source": "google-places",
   "redaction": {
@@ -215,5 +215,55 @@
     "fenetreRecenteJours": 28,
     "source": "search-console",
     "date": "2026-10-18"
+  },
+  "avis_detail": {
+    "releve": "2026-10-18",
+    "liste": [
+      {
+        "note": 5,
+        "texte": "Ambiance agréable au resto. Double terrace qui se replis vite. N’oubliez pas de réserver.\nTarte tatin cuit minutes !\nParfait pour le petit budget 23,50€ le menu entree plat dessert",
+        "langue": "fr",
+        "date": "2026-08-15",
+        "auteur": "Johny Lin",
+        "auteur_lien": "https://www.google.com/maps/contrib/100349980159529064547/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xOelZrdFVOVVl4YkhWVU1sWkRjVEIyV1V4YVNWRRAB!2m1!1s0x47e4a81aec27796f:0xd1ed4910cf6f1eb8"
+      },
+      {
+        "note": 5,
+        "texte": "Nous sommes venus dîner à 7 sans réservation et avons eu la chance d’avoir une table à l’extérieur dans la rue et avons très bien mangé. Les serveurs sont adorables, le rapport qualité / prix est + que correct.\nTout fait maison, mention spéciale pour la tarte tatin maison faite minute (à commander dés le début du repas). Les frites sont faites maison et délicieuses, nous conseillons ce restaurant avec joie, un grand merci et bravo à toute l’équipe🤩",
+        "langue": "fr",
+        "date": "2026-08-03",
+        "auteur": "Annabelle Payel",
+        "auteur_lien": "https://www.google.com/maps/contrib/103364598573536837772/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT21STlZHaDRlaTFNVGxaa1UwdFljR1pmTTNGcmJuYxAB!2m1!1s0x47e4a81aec27796f:0xd1ed4910cf6f1eb8"
+      },
+      {
+        "note": 5,
+        "texte": "Rapport qualité prix impeccable ! Nous avons super bien mangé.\nMeilleur cheesecake que j’ai mangé 🤤\nLes serveurs sont très sympathique.\nNous nous sommes régalés.",
+        "langue": "fr",
+        "date": "2026-06-06",
+        "auteur": "Mathilde S",
+        "auteur_lien": "https://www.google.com/maps/contrib/104031274189084154485/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT21KbmExRTNVaTA0ZDA5bGEySXlXbTVyTWtacGJIYxAB!2m1!1s0x47e4a81aec27796f:0xd1ed4910cf6f1eb8"
+      },
+      {
+        "note": 5,
+        "texte": "Quel plaisir d'avoir découvert le coin d'table samedi soir.\nDans un décor d'un charme étonnant nous avons passé une soirée délicieuse. La qualité de la cuisine nous a ravi : des plats généreux, savoureux et faits maison.\nDes plats simples mais bien cuisinés et mis en valeur dans les assiettes qui nous ont donné envie de ne pas en laisser une miette. (Gros coup de cœur pour la mayonnaise maison).\nEnfin vient la qualité du service et nous avons vraiment été comblés par la gentillesse, la sympathie et la simplicité du personnel.\nUn endroit idéal pour passer une soirée simple et détendue autour d'une bonne assiette.\nMerci beaucoup",
+        "langue": "fr",
+        "date": "2026-01-26",
+        "auteur": "José Angel Sánchez",
+        "auteur_lien": "https://www.google.com/maps/contrib/108212578904770614026/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2t4WFgzZDRNVmxzUm1wT1ZFUlVVRWs1WTI1MVdGRRAB!2m1!1s0x47e4a81aec27796f:0xd1ed4910cf6f1eb8"
+      },
+      {
+        "note": 5,
+        "texte": "Un restaurant qui paraît simple de l'extérieur.\nUne terrasse aux beaux jours, une salle intérieure au rez de chaussée et une autre à l'étage\nTrès très bonne cuisine (votre plat de poisson sera accompagné de moules, crevettes et autres, ceci suivant les arrivages), accueil et service sont au rendez-vous.\nUn menu à 22,50 aussi complet (qualité/prix), il n'y a pas beaucoup d'endroit qui peuvent rivaliser.",
+        "langue": "fr",
+        "date": "2025-11-09",
+        "auteur": "Gonzague Castelle",
+        "auteur_lien": "https://www.google.com/maps/contrib/101633597499925257020/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2tRNVEyOWxTMjB4TUZwdFRtbGxUVnBDVFVwTVpFRRAB!2m1!1s0x47e4a81aec27796f:0xd1ed4910cf6f1eb8"
+      }
+    ]
   }
 }

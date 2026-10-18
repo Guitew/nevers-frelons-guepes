@@ -27,8 +27,8 @@
     "latitude": 48.0839328,
     "longitude": 7.3334216
   },
-  "note": 4.3,
-  "avis": 32,
+  "note": 4.4,
+  "avis": 33,
   "horaires": [
     {
       "jour": 0,
@@ -103,15 +103,15 @@
     "Places assises accessibles en fauteuil roulant"
   ],
   "lien_google": "https://maps.google.com/?cid=13559902520512282378&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
-  "site_web_gmb": null,
+  "site_web_gmb": "https://andpro.fr/vitrine-locale/garages-automobile/colmar/alsace-pieces-performance-app/",
   "statut": "publiee",
   "backlink": {
-    "etat": "absent",
-    "premiere_detection": null,
-    "derniere_detection": null,
-    "derniere_verification": "2026-10-09T16:58:32.124Z",
-    "echecs": 2,
-    "url_detectee": null
+    "etat": "present",
+    "premiere_detection": "2026-10-18T10:32:09.485Z",
+    "derniere_detection": "2026-10-18T10:32:09.485Z",
+    "derniere_verification": "2026-10-18T10:32:09.485Z",
+    "echecs": 0,
+    "url_detectee": "https://andpro.fr/vitrine-locale/garages-automobile/colmar/alsace-pieces-performance-app/"
   },
   "suggestion": {
     "etat": "soumise",
@@ -123,7 +123,7 @@
   "dates": {
     "collecte": "2026-10-09",
     "publication": "2026-10-09",
-    "maj": "2026-10-09"
+    "maj": "2026-10-18"
   },
   "source": "google-places",
   "redaction": {
@@ -200,5 +200,55 @@
     "fenetreRecenteJours": 28,
     "source": "search-console",
     "date": "2026-10-18"
+  },
+  "avis_detail": {
+    "releve": "2026-10-18",
+    "liste": [
+      {
+        "note": 5,
+        "texte": "Très professionnel a l écoute du client\nBonne continuation",
+        "langue": "fr",
+        "date": "2026-06-24",
+        "auteur": "Thierry Welcker",
+        "auteur_lien": "https://www.google.com/maps/contrib/104056968485328634660/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xGYWNtWk5ORWRpY0U1eWFFdG5WVnBmVWtSS1puYxAB!2m1!1s0x4791658c9cc4c8dd:0xbc2e737fbc0eff0a"
+      },
+      {
+        "note": 5,
+        "texte": "Très satisfait de ce magasin de pièces auto. Personnel accueillant, bons conseils et service rapide. Je recommande !",
+        "langue": "fr",
+        "date": "2026-06-15",
+        "auteur": "Aleyna KARADABAN",
+        "auteur_lien": "https://www.google.com/maps/contrib/105877131929274251190/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25oSUxUQjFNalZETmtaS1kyWmtPRkZ4VmxOeFJWRRAB!2m1!1s0x4791658c9cc4c8dd:0xbc2e737fbc0eff0a"
+      },
+      {
+        "note": 1,
+        "texte": "Il est écrit fermeture à 18h30 mais vous serez remballé dès 18h10. Accueil désagréable.",
+        "langue": "fr",
+        "date": "2026-04-01",
+        "auteur": "Gabriel Borges",
+        "auteur_lien": "https://www.google.com/maps/contrib/115797446049470571090/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2twRVpFWnpNSEZ5TVVsRmNUSm1ZM2xEWmtFNWNtYxAB!2m1!1s0x4791658c9cc4c8dd:0xbc2e737fbc0eff0a"
+      },
+      {
+        "note": 4,
+        "texte": "Je vais chercher mes Colis. Les personnes sont très aimables et m ont parfois aidée jusqu'à ma voiture. Merci beaucoup.",
+        "langue": "fr",
+        "date": "2026-03-06",
+        "auteur": "Christine Kirchhoff",
+        "auteur_lien": "https://www.google.com/maps/contrib/107631514408560735377/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xOTlIzcEdMV3RhVkVKaWFXMVJZblptUkVOTU5sRRAB!2m1!1s0x4791658c9cc4c8dd:0xbc2e737fbc0eff0a"
+      },
+      {
+        "note": 5,
+        "texte": "Je ne m'y rends pas pour acheter des pièces pour la voiture mais pour y récupérer mes colis.\n\nPersonnel sympa et poli 🙂",
+        "langue": "fr",
+        "date": "2026-01-26",
+        "auteur": "René Schorter",
+        "auteur_lien": "https://www.google.com/maps/contrib/102360734331578624501/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2sxSmVIcE1hazVxT1ZZeFVsOHpkblZrT0RaM2RGRRAB!2m1!1s0x4791658c9cc4c8dd:0xbc2e737fbc0eff0a"
+      }
+    ]
   }
 }

@@ -42,8 +42,8 @@
     "etat": "absent",
     "premiere_detection": null,
     "derniere_detection": null,
-    "derniere_verification": "2026-10-09T16:58:32.124Z",
-    "echecs": 74,
+    "derniere_verification": "2026-10-18T10:32:09.485Z",
+    "echecs": 75,
     "url_detectee": null
   },
   "suggestion": {
@@ -139,5 +139,55 @@
     "canonique_google": null,
     "source": "inspection",
     "date": "2026-10-18"
+  },
+  "avis_detail": {
+    "releve": "2026-10-18",
+    "liste": [
+      {
+        "note": 5,
+        "texte": "Pratique car proche d'un réseau routier intéressant, près du parking, abri de bus en cas de pluie, dommage qu'il n'y ait pas d'arrêt proche de la gare pour d'autres correspondances.",
+        "langue": "fr",
+        "date": "2025-12-01",
+        "auteur": "Michelle Fritschy",
+        "auteur_lien": "https://www.google.com/maps/contrib/102094047501291701781/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25Wbk5sVm1VVE53ZVhGWkxWcDZRbVJ1V2tWV2NGRRAB!2m1!1s0x12abb5f9652ffd09:0x9332b728ee3b1ffe"
+      },
+      {
+        "note": 3,
+        "texte": "Des toilettes seraient idéales ainsi que des navettes pour rejoindre la gare SNCF d'Agen",
+        "langue": "fr",
+        "date": "2025-01-29",
+        "auteur": "Marie Parmentier",
+        "auteur_lien": "https://www.google.com/maps/contrib/109189881266385257929/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnTUNBdE5udXRRRRAB!2m1!1s0x12abb5f9652ffd09:0x9332b728ee3b1ffe"
+      },
+      {
+        "note": 4,
+        "texte": "Le voyage c'est très bien passé. Mais nous avions reser6les places de devant et celles ci étaient condamnées.  Du coup nous avons payés plus cher pour rien. Mais le voyage ceat bien passé le bus était a l'heure",
+        "langue": "fr",
+        "date": "2024-05-27",
+        "auteur": "Curie natacha",
+        "auteur_lien": "https://www.google.com/maps/contrib/108791944233490100452/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSURUZzgzR09REAE!2m1!1s0x12abb5f9652ffd09:0x9332b728ee3b1ffe"
+      },
+      {
+        "note": 1,
+        "texte": "Partage d expérience d'un trajet effectué le 25 juin 2022 Agen-Bordeaux toilette soit disant hors service ( était aussi hors service dans le flixbus suivant Bordeaux-Lyon) mais utilisé par les chauffeurs, sièges réservés (places 1 C et 1D) bloqué par le chauffeur qui ne veut pas que l'ont utilise donc obligé pour un couple d'aller se mettre chacun a côté d'un inconnu au lieu de voyager côte à côte. A l'avenir j'essayerai de voyager d'une autre façon.",
+        "langue": "fr",
+        "date": "2022-06-27",
+        "auteur": "Salazie Cilaos-Mafate",
+        "auteur_lien": "https://www.google.com/maps/contrib/103789316300832183555/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSURPMkxfRjRBRRAB!2m1!1s0x12abb5f9652ffd09:0x9332b728ee3b1ffe"
+      },
+      {
+        "note": 3,
+        "texte": "Arrêt devant un péage, pas facile d'accès si on a pas le permis, aucun café donc si vous devez attendre pour un Flixbus vous attendrez au froid dehors.\nSeul un banc est a disposition.\nAucun intérêt d'avoir déplacer l'arrêt depuis la gare a part embêter les gens.",
+        "langue": "fr",
+        "date": "2022-04-05",
+        "auteur": "Brindille",
+        "auteur_lien": "https://www.google.com/maps/contrib/105030030671895464085/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSURXMl8zMTdRRRAB!2m1!1s0x12abb5f9652ffd09:0x9332b728ee3b1ffe"
+      }
+    ]
   }
 }

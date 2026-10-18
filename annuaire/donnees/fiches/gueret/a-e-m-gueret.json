@@ -41,8 +41,8 @@
     "etat": "absent",
     "premiere_detection": null,
     "derniere_detection": null,
-    "derniere_verification": "2026-10-09T16:58:32.124Z",
-    "echecs": 77,
+    "derniere_verification": "2026-10-18T10:32:09.485Z",
+    "echecs": 78,
     "url_detectee": null
   },
   "suggestion": {
@@ -142,5 +142,55 @@
     "canonique_google": null,
     "source": "inspection",
     "date": "2026-10-18"
+  },
+  "avis_detail": {
+    "releve": "2026-10-18",
+    "liste": [
+      {
+        "note": 1,
+        "texte": "Pas concerné par une livraison mais j'ai croisé un fou qui a failli m’emplafonner a budeliere le 30 juin! En plus il voulait se battre alors qu'il était en tort. Livraison express peut être mais vous n’êtes pas seuls sur la route",
+        "langue": "fr",
+        "date": "2025-07-02",
+        "auteur": "Christophe",
+        "auteur_lien": "https://www.google.com/maps/contrib/102789246814909636099/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT210T2RGUlJSMjlSVTB0dWRsSjVUbmxUU1V0blNuYxAB!2m1!1s0x47fbd56292fdb351:0xb7b4c92b85853a4b"
+      },
+      {
+        "note": 1,
+        "texte": "horrible! pas de confirmation de livraison, pas livré au jour indiqué (donc resté à la maison pour rien!!), pas de réponse au téléphone concernant les détails de livraison. Et puis la livraison sans annonce...",
+        "langue": "fr",
+        "date": "2024-11-21",
+        "auteur": "Patricia baerloo",
+        "auteur_lien": "https://www.google.com/maps/contrib/105536750330197486071/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUNQeEotUjRnRRAB!2m1!1s0x47fbd56292fdb351:0xb7b4c92b85853a4b"
+      },
+      {
+        "note": 4,
+        "texte": "Très bon accueil en tant que chauffeur. Parking remplis de trous..",
+        "langue": "fr",
+        "date": "2021-05-03",
+        "auteur": "Jason Lecesne",
+        "auteur_lien": "https://www.google.com/maps/contrib/114686787074711549087/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSURLN0xLZmhnRRAB!2m1!1s0x47fbd56292fdb351:0xb7b4c92b85853a4b"
+      },
+      {
+        "note": 5,
+        "texte": "Notre avis concerne l’agent responsable de la logistique sur le site AEM au 31 rue du Cros.\nExcellent, professionnel et ponctuel! Agréable et efficace.si tous les manutentionnaires étaient comme ce Monsieur, la logistique dans le transport fonctionnerait à merveille!!",
+        "langue": "fr",
+        "date": "2020-08-11",
+        "auteur": "Clémence Pierre",
+        "auteur_lien": "https://www.google.com/maps/contrib/116149070940762900742/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUNDLU9ickZ3EAE!2m1!1s0x47fbd56292fdb351:0xb7b4c92b85853a4b"
+      },
+      {
+        "note": 5,
+        "texte": "Ayant eu une fuite d'air sur mon camion en étant à quai en plein chargements à leurs entrepôts.\nCar en pleine semaine de confinement le Renault trucks à 3  km était fermée .\nMerci  à Yannick    pour son aide et au transport A E M",
+        "langue": "fr",
+        "date": "2020-03-21",
+        "auteur": "Hatim Ben",
+        "auteur_lien": "https://www.google.com/maps/contrib/106457253027980180147/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUNjbmJLYW5nRRAB!2m1!1s0x47fbd56292fdb351:0xb7b4c92b85853a4b"
+      }
+    ]
   }
 }

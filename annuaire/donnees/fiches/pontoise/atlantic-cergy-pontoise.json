@@ -27,7 +27,7 @@
     "longitude": 2.0796305999999998
   },
   "note": 4.6,
-  "avis": 9955,
+  "avis": 10022,
   "horaires": [
     {
       "jour": 0,
@@ -141,8 +141,8 @@
     "etat": "absent",
     "premiere_detection": null,
     "derniere_detection": null,
-    "derniere_verification": "2026-10-09T16:58:32.124Z",
-    "echecs": 26,
+    "derniere_verification": "2026-10-18T10:32:09.485Z",
+    "echecs": 27,
     "url_detectee": null
   },
   "suggestion": {
@@ -155,7 +155,7 @@
   "dates": {
     "collecte": "2026-09-27",
     "publication": "2026-09-27",
-    "maj": "2026-10-09"
+    "maj": "2026-10-18"
   },
   "source": "google-places",
   "redaction": {
@@ -232,5 +232,55 @@
     "fenetreRecenteJours": 28,
     "source": "search-console",
     "date": "2026-10-18"
+  },
+  "avis_detail": {
+    "releve": "2026-10-18",
+    "liste": [
+      {
+        "note": 5,
+        "texte": "Une très belle expérience au delà des plats qui sont bons et frais. Le personnel est ce qu’il y’a de meilleur, retrouver un endroit pareil en ces temps ou on est si bien accueilli avec sourire et amabilités. Je vous le recommande espérant que d’ici rien de change surtout le jeune homme en rasta à l’accueil, il est à lui seul l’âme de cette endroit. Bravooo au management.",
+        "langue": "fr",
+        "date": "2026-08-22",
+        "auteur": "Sylem SYLEM",
+        "auteur_lien": "https://www.google.com/maps/contrib/110164009691728464838/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT201MlVrWkdNSGN6UTBaWFZIaEVaVE5YYkRCVFltYxAB!2m1!1s0x47e6f55bdbe90145:0xe85ac8311bb52c52"
+      },
+      {
+        "note": 5,
+        "texte": "Top Atlantic! On a connu ce restaurant avec mon papa il y’a 3 ans et à l’époque c’était Plancha Grill. Nous sommes Polynésien (Tahiti) la cuisine chinoise de Tahiti est différente mais très très bonne aussi. Nous habitons Grenoble depuis 2 ans et demi à peu près et nous n’arrivons pas à trouver un très bon resto chinois! Malheureusement les goûts ne sont pas du tout au rendez-vous! Mais chez Atlantic Pontoise, c’est vraiment excellent, les plats chinois, japonais ou asiatiques sont préparés avec beaucoup de goût et de très bonnes saveurs! Les desserts sont aussi excellents et ça se voit que les produits sont frais.\n\nLorsque nous venons sur Pontoise même si c’est rare, on oublie surtout pas de passer chez Atlantic car on sait qu’on va se régaler. Ceux qui habitent pas loin de ce restaurant ont vraiment de la chance 🍀\n\nDélicieux et magnifique restaurant! Je recommande fortement Atlantic Pontoise 😃✌️",
+        "langue": "fr",
+        "date": "2026-05-06",
+        "auteur": "Tirona TUUHIA",
+        "auteur_lien": "https://www.google.com/maps/contrib/104589094674248342591/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2tScWRIcDJRbmhIT0cxTlJXNWhaR05zTlcweGMwRRAB!2m1!1s0x47e6f55bdbe90145:0xe85ac8311bb52c52"
+      },
+      {
+        "note": 5,
+        "texte": "Très bon restaurant\nGrand choix\nPar contre on a joué a la machine dehors pour recevoir un cadeau y a écrit 100% gagnant et j'ai rien reçu la flèche c'est mis deux fois sur un endroit vide snifff ☹️",
+        "langue": "fr",
+        "date": "2026-05-02",
+        "auteur": "myriam Rothenmacher",
+        "auteur_lien": "https://www.google.com/maps/contrib/113213347281722006914/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT21sck4yMTVXaTAxV205V1ZFa3plVmh0TUdkVFpYYxAB!2m1!1s0x47e6f55bdbe90145:0xe85ac8311bb52c52"
+      },
+      {
+        "note": 5,
+        "texte": "Pour un resto à volonté, c'était vraiment bon. Propre bien décoré.\nTous les plats halal sont indiqués.\nLes serveurs sont vraiment aimables et souriant.\nJe recommande",
+        "langue": "fr",
+        "date": "2026-04-25",
+        "auteur": "queen latifa",
+        "auteur_lien": "https://www.google.com/maps/contrib/111359778486355746498/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25ZM1NDMVJkRXBYTWpKSGMzcDFVMHhGT0dwQldXYxAB!2m1!1s0x47e6f55bdbe90145:0xe85ac8311bb52c52"
+      },
+      {
+        "note": 2,
+        "texte": "Habituée de ce type de restaurant, mon avis est plus que mitigé sur celui-ci. Au-delà des serveurs qui ne sont pas aimables, les plats sont presque vides et peu, voire pas, réapprovisionnés (les photos ont été prises à 13h20, soit un peu plus d’une heure avant la fermeture, du jamais vu).\n\nPoints positifs : le parking est plutôt grand et la déco est sympa.",
+        "langue": "fr",
+        "date": "2025-11-11",
+        "auteur": "Julia CP",
+        "auteur_lien": "https://www.google.com/maps/contrib/102628564065730959862/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT201d2RsOVVPRVJKVjI4d1dVWTBjWHBtWnpZMWIwRRAB!2m1!1s0x47e6f55bdbe90145:0xe85ac8311bb52c52"
+      }
+    ]
   }
 }

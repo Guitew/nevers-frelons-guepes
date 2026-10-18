@@ -27,7 +27,7 @@
     "longitude": 2.2999701
   },
   "note": 4.6,
-  "avis": 10,
+  "avis": 11,
   "horaires": [
     {
       "jour": 0,
@@ -101,8 +101,8 @@
     "etat": "absent",
     "premiere_detection": null,
     "derniere_detection": null,
-    "derniere_verification": "2026-10-09T16:58:32.124Z",
-    "echecs": 16,
+    "derniere_verification": "2026-10-18T10:32:09.485Z",
+    "echecs": 17,
     "url_detectee": null
   },
   "suggestion": {
@@ -115,7 +115,7 @@
   "dates": {
     "collecte": "2026-10-02",
     "publication": "2026-10-02",
-    "maj": "2026-10-09"
+    "maj": "2026-10-18"
   },
   "source": "google-places",
   "redaction": {
@@ -188,5 +188,55 @@
     "fenetreRecenteJours": 28,
     "source": "search-console",
     "date": "2026-10-18"
+  },
+  "avis_detail": {
+    "releve": "2026-10-18",
+    "liste": [
+      {
+        "note": 5,
+        "texte": "Les réceptionnaires sont d une politesse , d une gentillesse très agréables, et je parle pas du déchargement 10mn pour 17 pal et 15mn pour charger un complet avant moi Le TOP",
+        "langue": "fr",
+        "date": "2025-12-03",
+        "auteur": "Thierry Robin",
+        "auteur_lien": "https://www.google.com/maps/contrib/104686885932379103098/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xRMWNEVTJaMEZLVlRaeU4zQlZSbmRUWjBGV2NtYxAB!2m1!1s0x12ae320b99f4e4d5:0xca5e176692b48551"
+      },
+      {
+        "note": 1,
+        "texte": "cette entreprise exploite les employés et l'ambiance est toxique et malveillante",
+        "langue": "fr",
+        "date": "2025-11-05",
+        "auteur": "baskso vie",
+        "auteur_lien": "https://www.google.com/maps/contrib/111324212655971509029/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT21wT1VrTjBSRVJPZVcxaVJsQnRTbEE1VDIxVVJsRRAB!2m1!1s0x12ae320b99f4e4d5:0xca5e176692b48551"
+      },
+      {
+        "note": 5,
+        "texte": "Déchargement très rapide et bonne ambiance",
+        "langue": "fr",
+        "date": "2024-02-27",
+        "auteur": "Jimmy Stauffer",
+        "auteur_lien": "https://www.google.com/maps/contrib/101073359532785080279/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSURkdS1YclFREAE!2m1!1s0x12ae320b99f4e4d5:0xca5e176692b48551"
+      },
+      {
+        "note": 5,
+        "texte": "Ils déchargent rapidement, en reculant de la rue jusqu'au quai. L'entrée des camions se situe ici : 43.212808, 2.298167",
+        "langue": "fr",
+        "date": "2023-09-18",
+        "auteur": "Cris V",
+        "auteur_lien": "https://www.google.com/maps/contrib/112680747878147730802/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUNaeS02dDlnRRAB!2m1!1s0x12ae320b99f4e4d5:0xca5e176692b48551"
+      },
+      {
+        "note": 5,
+        "texte": "Chargement rapide depuis la rampe. Il est préférable de se garer en marche arrière depuis la rue, juste sous la rampe.\n\nUne sonnette est fixée au portail.\n\nAccès : 43.212855, 2.298354",
+        "langue": "fr",
+        "date": "2022-10-12",
+        "auteur": "Александр Исаев",
+        "auteur_lien": "https://www.google.com/maps/contrib/113922576771161940698/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSURla2JUTUR3EAE!2m1!1s0x12ae320b99f4e4d5:0xca5e176692b48551"
+      }
+    ]
   }
 }

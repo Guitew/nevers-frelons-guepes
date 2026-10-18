@@ -123,8 +123,8 @@
     "etat": "absent",
     "premiere_detection": null,
     "derniere_detection": null,
-    "derniere_verification": "2026-10-09T16:58:32.124Z",
-    "echecs": 11,
+    "derniere_verification": "2026-10-18T10:32:09.485Z",
+    "echecs": 12,
     "url_detectee": null
   },
   "suggestion": {
@@ -137,7 +137,7 @@
   "dates": {
     "collecte": "2026-10-04",
     "publication": "2026-10-04",
-    "maj": "2026-10-09"
+    "maj": "2026-10-18"
   },
   "source": "google-places",
   "redaction": {
@@ -214,5 +214,55 @@
     "fenetreRecenteJours": 28,
     "source": "search-console",
     "date": "2026-10-18"
+  },
+  "avis_detail": {
+    "releve": "2026-10-18",
+    "liste": [
+      {
+        "note": 5,
+        "texte": "J'ai acheté un moteur de clio 1 diesel,  très satisfait, le patron est cool et les prix très correct",
+        "langue": "fr",
+        "date": "2026-03-21",
+        "auteur": "Olivier MARIE",
+        "auteur_lien": "https://www.google.com/maps/contrib/104021676915077477899/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT21wMFZrcE9WbEZMV1RaSUxWaE5OVUk1VHpsdFZIYxAB!2m1!1s0x480b969bea775d0f:0xeccb5a63d0a7a6e6"
+      },
+      {
+        "note": 1,
+        "texte": "je conseille fortement de rencontrer ce monsieur si vous voulais rencontrer un co....\nCette espèce très rare et franchement à voir il est très rare de rencontrer ce niveau de qualité......",
+        "langue": "fr",
+        "date": "2026-01-24",
+        "auteur": "Sam Marie",
+        "auteur_lien": "https://www.google.com/maps/contrib/105450529548869885249/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25jM00wbFNNMUpQTnpBdFlUQlpRM0ZxYTNsUVRGRRAB!2m1!1s0x480b969bea775d0f:0xeccb5a63d0a7a6e6"
+      },
+      {
+        "note": 1,
+        "texte": "Si j'aurais pu mettre 0 je l'aurais fait mal poli comme jamais je déconseille énormément",
+        "langue": "fr",
+        "date": "2025-11-18",
+        "auteur": "Dydy",
+        "auteur_lien": "https://www.google.com/maps/contrib/104807186980432977838/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2tOTFgzbHpiSGcyYVU5b2VVUjVkRXRvVDFsUVYyYxAB!2m1!1s0x480b969bea775d0f:0xeccb5a63d0a7a6e6"
+      },
+      {
+        "note": 1,
+        "texte": "J'ai déjà vu des commerçants peu poli ,mais il bat tout le monde. Aucun signe de politesse et vous parles avec la tête baissée sur son tél.",
+        "langue": "fr",
+        "date": "2025-02-27",
+        "auteur": "gregory",
+        "auteur_lien": "https://www.google.com/maps/contrib/107803127728104445038/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnTURnODZyZ3RnRRAB!2m1!1s0x480b969bea775d0f:0xeccb5a63d0a7a6e6"
+      },
+      {
+        "note": 1,
+        "texte": "Je déconseille la vente de métaux chez eux, ils vous entubent dès qu'ils en ont l'occasion. Clairement une équipe malhonnête. Ils sont capable de vous racheter du cuivre au prix de la feraille sous n'importe quel prétexte. Passez votre chemin.",
+        "langue": "fr",
+        "date": "2023-10-05",
+        "auteur": "Ftg Mek",
+        "auteur_lien": "https://www.google.com/maps/contrib/116802626604699999346/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSURaNWVEdVZ3EAE!2m1!1s0x480b969bea775d0f:0xeccb5a63d0a7a6e6"
+      }
+    ]
   }
 }

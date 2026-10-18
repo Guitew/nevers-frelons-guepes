@@ -29,7 +29,7 @@
     "longitude": 3.1636864
   },
   "note": 4.4,
-  "avis": 212,
+  "avis": 213,
   "horaires": [
     {
       "jour": 0,
@@ -102,8 +102,8 @@
     "etat": "absent",
     "premiere_detection": null,
     "derniere_detection": null,
-    "derniere_verification": "2026-10-09T16:58:32.124Z",
-    "echecs": 79,
+    "derniere_verification": "2026-10-18T10:32:09.485Z",
+    "echecs": 80,
     "url_detectee": null
   },
   "retrait": {
@@ -116,7 +116,7 @@
   "dates": {
     "collecte": "2026-08-30",
     "publication": "2026-08-30",
-    "maj": "2026-10-14"
+    "maj": "2026-10-18"
   },
   "source": "google-places",
   "redaction": {
@@ -207,5 +207,55 @@
     "canonique_google": null,
     "source": "inspection",
     "date": "2026-10-14"
+  },
+  "avis_detail": {
+    "releve": "2026-10-18",
+    "liste": [
+      {
+        "note": 1,
+        "texte": "J'arrive à cette boulangerie de bonne heure et de bonne humeur mais la mauvaise expérience commence dès le seuil par un choc thermique entre l'extérieur et l'intérieur de la boutique. Je n'y vois donc plus rien avec mes lunettes recouvertes de buée, ce qui ne m'arrive jamais ailleurs.\n\nJe passe l'inconfort et me dirige comme je peux vers le comptoir. Avant même de me servir, la vendeuse me demande sèchement si je compte régler par CB. Je lui réponds que oui et que je n'ai pas d'autre choix car je n'ai pas d'espèces de prévues pour l'achat que j'allais faire. Elle me rétorque que le TPE est en panne. Je repars donc bredouille et dois me résoudre à acheter tout autre chose à Céréa par manque de temps et d'espèces.\n\nUne demi-finale en compétition pour la meilleure boulangerie de France en 2024 n'excuse rien et je pense pour ma part que les artisans aimables, consciencieux et humbles n'ont pas besoin de faire de la compét' TV pour fidéliser leur clientèle. Par expérience, je dirais même que c'est un handicap autant pour le client exigeant attiré par le buzz mais toujours insatisfait in-fine que pour l'artisan qui prend le melon.\n\nCar cela m'agace de lire certaines réponses du propriétaire dans les avis de sa propre fiche MyBusiness. Un petit exemple vaut mieux que n'importe quel adjectif qualificatif : une cliente prénommée Marie Noëlle exprime son avis sur une mauvaise expérience et vous ne trouvez rien d'autre à répondre qu'il est facile de dénigrer sur un clavier, quitte à fustiger l'ère du numérique. Mais si le numérique ne vous convient pas, pourquoi en faire usage vous-même ? Dans le cas où vous n'auriez pas eu de fiche, elle ne se serait pas exprimée du tout et ne serait pas retournée vous voir pour autant. Un peu de psychologie vous aurait appris à comprendre qu'un client frustré ne revient pas une deuxième fois ! Cette leçon immuable s'apprend depuis l'âge de pierre. En voila une réponse bien cinglante et inappropriée indigne d'un professionnel.\n\nJ'étais encore ce matin en train de me demander si j'allais retourner dans cette boulangerie ou pas mais ma réponse est définitive : c'est niet ! Le client est roi et si cette notion vous échappe, c'est tant pis pour vous. Il y a suffisamment d'artisans locaux assez \"commerçants\" pour que le client sensible aux bons échanges humains et commerciaux fasse le bon choix.\n\nRéaction à la réponse du propriétaire : écrire un avis sur le web pèse plus sur la balance que de venir vous en donner un sur place. Le but étant de faire partager l'expérience au plus grand nombre. Je n'ai par ailleurs jamais contredit ce fait. C'est vous seul qui ne l'acceptez pas depuis que vous répondez sèchement à vos clients perdus, n'espérant finalement rien de leur part. Vous devez recevoir trop de clients pour vous permettre cela. Pourquoi faudrait-il d'ailleurs avoir plus de cran à aller sur place que d'écrire ici ? Je choisis par ailleurs le canal qui me plait... Que l'on vous parle de vive voix ou sur le web ne change rien dans le fond car, hormis l'aspect purement artisanal de votre activité, vous n'avez aucune idée de ce que représente l'expérience client dans sa globalité. Une panne d'électricité récurrente ? On installe un générateur supplémentaire... Problème de ventilation et d'isolation entre l'accueil et le four ? On installe une grille vers l'extérieur, un mur ou toute autre surface compacte pour éviter les chocs thermiques partout dans la boutique... À chaque problème, une solution... Tout a déjà été dit par vos propres clients. Votre réponse bancale ne remet absolument rien en question de votre côté. \"À bon entendeur\" est une expression \"bateau\" que vous utilisez à tort et à travers. Elle est complètement dénuée de sens et vous dénigre d'autant plus aux yeux des lecteurs, si vous pensiez pouvoir renverser la situation à votre avantage.",
+        "langue": "fr",
+        "date": "2026-02-03",
+        "auteur": "Charles",
+        "auteur_lien": "https://www.google.com/maps/contrib/109241708022312076112/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2poa05reGFOelZZU3pCa1gycHlYMmRwUzAxMVQwRRAB!2m1!1s0x47f04f65f3248223:0x7c6d36fa051a46cd"
+      },
+      {
+        "note": 5,
+        "texte": "Il y avait une cliente qui voulait s inviter chez nous, et un croissant qu aurait nourri un regiment, ensuite on il ont fumé de la truite ( ca doit pas etre facile a rouler), pis on est repartis avec des cannelés qui etaient trop bons, bref un endoit magique avec de bons produits.",
+        "langue": "fr",
+        "date": "2025-12-05",
+        "auteur": "janneau francois",
+        "auteur_lien": "https://www.google.com/maps/contrib/113428481998607042776/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25rdE1XVnpSVEZwTnpkUWFtSjNSVVpSVVZwaWQyYxAB!2m1!1s0x47f04f65f3248223:0x7c6d36fa051a46cd"
+      },
+      {
+        "note": 1,
+        "texte": "Commençons par le pire. J'ai voulu une ficelle brie lardons, il en restait 2. Pas de chance, je me suis retrouvée avec une chèvre tomate 🤢 je ne supporte pas le chèvre. Je retourne à la boulangerie le signaler à madame qui passait le balai. Ni une ni deux, elle attrape (sans se laver les mains) la ficelle restante. Je lui demande si elle est sûre d'elle, je déteste vraiment le chèvre. Et là, sous mes yeux ébahis, elle ouvre de ses mains (qui tenaient le balai un instant avant) la ficelle et trifouille de ses doigts avant de m'assurer que non, il n'y a pas de chèvre. 😳😳 J'ai évidemment jeté cette chose à la poubelle.\n\nEn outre, c'est aussi une boulangerie où il faut choisir son moment. Je me suis déjà retrouvée plusieurs fois à devoir acheter des pains spéciaux (donc plus chers) parce que les baguettes étaient réservées à des commandes.\n\nCela dit, à leur avantage, ils proposent des recettes qu'on ne trouve pas ailleurs. Mais pour les basiques comme le pâté à la viande, le jambon beurre ou même le pain au chocolat, passez votre chemin. Si vous cherchez une tourte aux ris de veau, vous ne serez peut-être pas déçu",
+        "langue": "fr",
+        "date": "2025-09-06",
+        "auteur": "Morgane Deutsch",
+        "auteur_lien": "https://www.google.com/maps/contrib/111986669461228461125/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25WSE5DMWpaM0J5TTNWb05WSmpaakpuYjBwSWFtYxAB!2m1!1s0x47f04f65f3248223:0x7c6d36fa051a46cd"
+      },
+      {
+        "note": 2,
+        "texte": "Le pain est bon, en revanche je m’interroge sur les pains spéciaux laissés sur une table sous le nez et aux mains des clients qui les tripotent (pas très HACCP tout ça )\nEn ce qui concerne l’accueil, si vous cherchez un peu de chaleur humaine ou des sourires ne comptez pas sur les propriétaires, la façon de s’adresser aux clients est très limite comme de dire un monsieur âgé sur un ton condescendant qu’il n’y pas que les lardons dans la vie tout ça parce qu’en substance il disait à la propriétaire que son pain aux lardons était bon et que c’était dommage de ne pas en trouver ce matin!\nEn revanche quand le personnel vous sert c’est déjà plus agréable!\nSoignez son accueil c’est faire déjà 50% de sa réussite",
+        "langue": "fr",
+        "date": "2024-12-26",
+        "auteur": "Karine Coupsdefood",
+        "auteur_lien": "https://www.google.com/maps/contrib/108971326831644406878/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUNmMUtmWXl3RRAB!2m1!1s0x47f04f65f3248223:0x7c6d36fa051a46cd"
+      },
+      {
+        "note": 5,
+        "texte": "Une boulangerie exceptionnelle. Des produits beaux et bons, fabriqués à l’ancienne et avec des farines de qualité. Nous ne sommes de Nevers, mais on aimerait avoir une boulangerie comme ça à proximité",
+        "langue": "fr",
+        "date": "2022-05-28",
+        "auteur": "Nicolas Bougeard",
+        "auteur_lien": "https://www.google.com/maps/contrib/105325456844657417718/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUQyajRUcHZ3RRAB!2m1!1s0x47f04f65f3248223:0x7c6d36fa051a46cd"
+      }
+    ]
   }
 }

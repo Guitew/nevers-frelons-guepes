@@ -86,8 +86,8 @@
     "etat": "absent",
     "premiere_detection": null,
     "derniere_detection": null,
-    "derniere_verification": "2026-10-09T16:58:32.124Z",
-    "echecs": 29,
+    "derniere_verification": "2026-10-18T10:32:09.485Z",
+    "echecs": 30,
     "url_detectee": null
   },
   "suggestion": {
@@ -100,7 +100,7 @@
   "dates": {
     "collecte": "2026-09-25",
     "publication": "2026-09-25",
-    "maj": "2026-10-09"
+    "maj": "2026-10-18"
   },
   "source": "google-places",
   "redaction": {
@@ -173,5 +173,55 @@
     "fenetreRecenteJours": 28,
     "source": "search-console",
     "date": "2026-10-18"
+  },
+  "avis_detail": {
+    "releve": "2026-10-18",
+    "liste": [
+      {
+        "note": 1,
+        "texte": "Utile pour le protoxyde d'azote.",
+        "langue": "fr",
+        "date": "2026-05-10",
+        "auteur": "David",
+        "auteur_lien": "https://www.google.com/maps/contrib/107223122411857639012/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25Cd1VYQkhhR0pxUVhOeGNFcHFjV2hKWVdjeU0yYxAB!2m1!1s0x12b5ed3025f919d9:0xd263c23f2361e2a3"
+      },
+      {
+        "note": 1,
+        "texte": "Bonbonne défectueuse, il parle mal , aucun geste commercial bref faut lui fermer son commerce à celui la ou lui ramener la police il va vite redescendre n’achetez rien chez lui c’est à perte pour votre portefeuille y’a mieux comme alimentation pas loin de chez lui n’y aller pas !!",
+        "langue": "fr",
+        "date": "2025-07-22",
+        "auteur": "oejte piste",
+        "auteur_lien": "https://www.google.com/maps/contrib/113933386830264645358/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT214cVppMUhOMWR0VkdGeGNHdzRlRlp6YmxSMGRFRRAB!2m1!1s0x12b5ed3025f919d9:0xd263c23f2361e2a3"
+      },
+      {
+        "note": 5,
+        "texte": "Frenchement rien a dire une super alimentation qui et ouvert h24 et 7/7j  avec un livreure excellent Tres rapide pour livrer directe a la Maison vraiment un bon plus Frenchement je le conseille avec un superbe acceuil du patron.",
+        "langue": "fr",
+        "date": "2024-12-29",
+        "auteur": "Soso Sisi",
+        "auteur_lien": "https://www.google.com/maps/contrib/110000339284424359094/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUNmcnRLRldREAE!2m1!1s0x12b5ed3025f919d9:0xd263c23f2361e2a3"
+      },
+      {
+        "note": 5,
+        "texte": "Accueil chaleureux, grande amplitude horaire, du choix et des prix attractifs, endroit très propre, je recommande ! Le patron est d’une sympathie qu’on ne trouve pas partout, ça se fait rare…",
+        "langue": "fr",
+        "date": "2023-10-02",
+        "auteur": "Manon Joannais",
+        "auteur_lien": "https://www.google.com/maps/contrib/108096787936704980415/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSURadnFQR3dBRRAB!2m1!1s0x12b5ed3025f919d9:0xd263c23f2361e2a3"
+      },
+      {
+        "note": 5,
+        "texte": "Le jeune homme à l'accueil est accueillant et respectueux. Un vrai plaisir d'être accueilli avec le sourire ! Merci au boss sa convivialité chaleureuse et sa gentillesse ! On reviendra avec plaisir",
+        "langue": "fr",
+        "date": "2023-10-02",
+        "auteur": "Aurelie Blanc",
+        "auteur_lien": "https://www.google.com/maps/contrib/116322752725748377455/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSURadnJQMkZ3EAE!2m1!1s0x12b5ed3025f919d9:0xd263c23f2361e2a3"
+      }
+    ]
   }
 }

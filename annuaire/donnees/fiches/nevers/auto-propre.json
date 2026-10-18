@@ -108,8 +108,8 @@
     "etat": "absent",
     "premiere_detection": null,
     "derniere_detection": null,
-    "derniere_verification": "2026-10-09T16:58:32.124Z",
-    "echecs": 80,
+    "derniere_verification": "2026-10-18T10:32:09.485Z",
+    "echecs": 81,
     "url_detectee": null
   },
   "retrait": {
@@ -121,7 +121,7 @@
   "dates": {
     "collecte": "2026-08-30",
     "publication": "2026-08-30",
-    "maj": "2026-10-14"
+    "maj": "2026-10-18"
   },
   "source": "google-places",
   "redaction": {
@@ -208,5 +208,55 @@
     "canonique_google": null,
     "source": "impressions",
     "date": "2026-10-14"
+  },
+  "avis_detail": {
+    "releve": "2026-10-18",
+    "liste": [
+      {
+        "note": 5,
+        "texte": "Station de lavage propre et entretenu, tout est sous control, le propriétaire entretient scrupuleusement son matériel. Les produits sont super performants. J'ai une voiture noire alors je sais de quoi je parle.",
+        "langue": "fr",
+        "date": "2026-03-28",
+        "auteur": "Sylvie Delpêch",
+        "auteur_lien": "https://www.google.com/maps/contrib/114912321337323658467/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xWamEwa3dNV2REY2toNFYxcGtlbkp2WWtGaU1uYxAB!2m1!1s0x47f04f6c807f2495:0x1b513bbb1891d2e5"
+      },
+      {
+        "note": 1,
+        "texte": "Habitué pour la qualité mais comme pour tout, ça se dégrade, 5€ de perdu car plus de produit lavant, que de l’eau.\nCa fait cher les 5 mn d’eau pour qu’elle soit aussi sale qu’avant.\n\nBien  sur j’ai essayé de voir un responsable, personne, même pas un numéro à appeler en cas de problème.\n\nDonc voilà, vous le savez, en cas de problème y a personne, sauf pour l’encaissement mais à distance bien sûr.",
+        "langue": "fr",
+        "date": "2025-08-18",
+        "auteur": "Ben “Ben 58” 58",
+        "auteur_lien": "https://www.google.com/maps/contrib/115348770008779672283/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2pCYVluSmpZVlpNY1Uxa2EyUlVYMWxZVUdWSVZtYxAB!2m1!1s0x47f04f6c807f2495:0x1b513bbb1891d2e5"
+      },
+      {
+        "note": 1,
+        "texte": "Une station de lavage à éviter si vous recherchez un service efficace.\nJ'ai passé plus de vingt minutes à essayer d'obtenir un résultat convenable, mais malgré mes efforts, je reste très déçu. Le temps de lavage est insuffisant au regard du prix, et il faut patienter un long moment avant que le produit souhaité soit disponible, ce qui fait perdre un temps précieux. De plus, la pression de rinçage est insuffisante, laissant de la mousse active sur le véhicule, ce qui compromet l’efficacité du lavage. Pour 10 €, je n'ai même pas pu nettoyer les passages de roue.",
+        "langue": "fr",
+        "date": "2025-02-20",
+        "auteur": "jimmy roussel",
+        "auteur_lien": "https://www.google.com/maps/contrib/107714441538777477253/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnTUNnczk2ckFnEAE!2m1!1s0x47f04f6c807f2495:0x1b513bbb1891d2e5"
+      },
+      {
+        "note": 1,
+        "texte": "Très déçu, de pire en pire...il y a quelques années c'était le top mais maintenant !!! Déjà il faut lire une multitude de pancartes rajoutées qui explique qu'il n'y a plus de paiement carte au robot, les prix barrés et écrit au feutre à côté, puis sans CB ou vous envoie au distributeur de jetons ou à la carte abonnement qui du coup vous pousse à un tarif plus élevé....et encore une multitude de pancartes avec des flèches, des chiffres etc.... franchement c'est le bordel !!! Quel déception ce lavage 😩",
+        "langue": "fr",
+        "date": "2024-08-11",
+        "auteur": "jerome roy",
+        "auteur_lien": "https://www.google.com/maps/contrib/114520671351297440833/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUM3d09MOFpBEAE!2m1!1s0x47f04f6c807f2495:0x1b513bbb1891d2e5"
+      },
+      {
+        "note": 1,
+        "texte": "Temps d'arrivé de la mousse beaucoup trop long ! Au moins 20 secondes après avoir appuyé sur le bouton c'est tout bonnement de l'arnaque ! De plus j'ai l'impression que l'automate distribue moins de mousse qu'avant ! Si rien n'est corrigé je ne pense plus revenir tout simplement c'est pourtant une bonne station de lavage avec gonflage gratuit.",
+        "langue": "fr",
+        "date": "2019-06-17",
+        "auteur": "Valentin F",
+        "auteur_lien": "https://www.google.com/maps/contrib/102540559519194611064/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUNFay0tSHl3RRAB!2m1!1s0x47f04f6c807f2495:0x1b513bbb1891d2e5"
+      }
+    ]
   }
 }

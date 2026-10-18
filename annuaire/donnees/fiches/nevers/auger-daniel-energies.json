@@ -37,8 +37,8 @@
     "etat": "absent",
     "premiere_detection": null,
     "derniere_detection": null,
-    "derniere_verification": "2026-10-09T16:58:32.124Z",
-    "echecs": 79,
+    "derniere_verification": "2026-10-18T10:32:09.485Z",
+    "echecs": 80,
     "url_detectee": null
   },
   "retrait": {
@@ -51,7 +51,7 @@
   "dates": {
     "collecte": "2026-08-30",
     "publication": "2026-08-30",
-    "maj": "2026-10-14"
+    "maj": "2026-10-18"
   },
   "source": "google-places",
   "redaction": {
@@ -125,5 +125,9 @@
     "canonique_google": null,
     "source": "inspection",
     "date": "2026-10-14"
+  },
+  "avis_detail": {
+    "releve": "2026-10-18",
+    "liste": []
   }
 }

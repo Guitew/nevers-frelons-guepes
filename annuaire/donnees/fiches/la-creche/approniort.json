@@ -26,8 +26,8 @@
     "latitude": 46.354534099999995,
     "longitude": -0.298173
   },
-  "note": 3.7,
-  "avis": 75,
+  "note": 3.8,
+  "avis": 74,
   "horaires": [
     {
       "jour": 0,
@@ -101,8 +101,8 @@
     "etat": "absent",
     "premiere_detection": null,
     "derniere_detection": null,
-    "derniere_verification": "2026-10-09T16:58:32.124Z",
-    "echecs": 65,
+    "derniere_verification": "2026-10-18T10:32:09.485Z",
+    "echecs": 66,
     "url_detectee": null
   },
   "suggestion": {
@@ -115,7 +115,7 @@
   "dates": {
     "collecte": "2026-09-07",
     "publication": "2026-09-07",
-    "maj": "2026-10-09"
+    "maj": "2026-10-18"
   },
   "source": "google-places",
   "redaction": {
@@ -196,10 +196,60 @@
   "indexation": {
     "etat": "non-indexee",
     "verdict": "NEUTRAL",
-    "couverture": "Google ne reconnaît pas cette URL",
+    "couverture": "Détectée, actuellement non indexée",
     "derniere_exploration": null,
     "canonique_google": null,
     "source": "inspection",
     "date": "2026-10-18"
+  },
+  "avis_detail": {
+    "releve": "2026-10-18",
+    "liste": [
+      {
+        "note": 5,
+        "texte": "Ayant fait une navette de lisses. Merci pour votre accueil et sympathie à la réception.\nSanitaires nickel.\nMerci 👍",
+        "langue": "fr",
+        "date": "2026-08-06",
+        "auteur": "Lasardo Trejo fr",
+        "auteur_lien": "https://www.google.com/maps/contrib/100689549765494385070/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2t4VVUySjBTRFpYVVZaTFIxWmhVbU55TlVsMlozYxAB!2m1!1s0x480747a7b13379a1:0x977c1c4be301b344"
+      },
+      {
+        "note": 1,
+        "texte": "À revoir, les process d’expédition, on me demande de signer un document attestant pour la remise des bons de livraison en main propre quand je demande les bons de livraison on me dit qu’ils sont envoyés par mail au destinataire Du coup je refuse de signer la personne me menace de me bloquer sur le site après cinq minutes, la personne ramène les bons de livraison avec de l’arrogance.\n\nComment créer un Climat compliqué avec un mauvais process a méditer",
+        "langue": "fr",
+        "date": "2026-03-26",
+        "auteur": "Yoan M",
+        "auteur_lien": "https://www.google.com/maps/contrib/104275511658511414926/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2tSU04wbE9ZbFEyTmxkcFUycEdkMUozVkRCTVJIYxAB!2m1!1s0x480747a7b13379a1:0x977c1c4be301b344"
+      },
+      {
+        "note": 3,
+        "texte": "Ambiance très froides du personnel en vers les chauffeurs.\nTrès antipathique",
+        "langue": "fr",
+        "date": "2026-03-08",
+        "auteur": "cédric payelle",
+        "auteur_lien": "https://www.google.com/maps/contrib/109206917442755683293/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2tWR1Z6bDRkV3hrWTNWTlQxaElWVzVSZDFSQk0yYxAB!2m1!1s0x480747a7b13379a1:0x977c1c4be301b344"
+      },
+      {
+        "note": 1,
+        "texte": "Dommage 😞 bon accueil pour moi , ils te déchargent ,ok 😜 et après tu demandes gentiment qu’on te te ramène les palettes Europes aux coffres… Non … alors qu’ils sont équipés pour le faire…. C’est d’une tristesse 😢",
+        "langue": "fr",
+        "date": "2023-08-22",
+        "auteur": "Berger Malinois",
+        "auteur_lien": "https://www.google.com/maps/contrib/113416340292109129844/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSURwenA2U3NnRRAB!2m1!1s0x480747a7b13379a1:0x977c1c4be301b344"
+      },
+      {
+        "note": 2,
+        "texte": "La réception marchandises ferme à 13h.\n\nDéchargement à quai\n\nRéceptionnaires pas aimable du tout, à ce demander si les chauffeurs sont considérés comme des humains.",
+        "langue": "fr",
+        "date": "2020-07-15",
+        "auteur": "D B",
+        "auteur_lien": "https://www.google.com/maps/contrib/116990386855628074621/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUM4Nl9qZWdnRRAB!2m1!1s0x480747a7b13379a1:0x977c1c4be301b344"
+      }
+    ]
   }
 }
