@@ -1,0 +1,252 @@
+{
+  "id": "ChIJj8fhs14M4kcRm79RpWPuhqc",
+  "slug": "pharmacie-leriche",
+  "nom": "Pharmacie Leriche",
+  "categorie": "pharmacies-opticiens",
+  "categorie_gmb": "Pharmacie",
+  "type_principal": "pharmacy",
+  "types": [
+    "pharmacy",
+    "store",
+    "health",
+    "point_of_interest",
+    "establishment"
+  ],
+  "ville": "Alençon",
+  "ville_slug": "alencon",
+  "adresse": {
+    "rue": "174 Avenue de Quakenbruck",
+    "code_postal": "61000",
+    "departement": "61",
+    "region": "Normandie",
+    "pays": "France",
+    "complete": "174 Av. de Quakenbruck, 61000 Alençon"
+  },
+  "telephone": "02 33 26 03 53",
+  "geo": {
+    "latitude": 48.443468200000005,
+    "longitude": 0.11120329999999999
+  },
+  "note": 4.2,
+  "avis": 24,
+  "horaires": [
+    {
+      "jour": 0,
+      "ferme": false,
+      "creneaux": [
+        [
+          "09:00",
+          "19:30"
+        ]
+      ]
+    },
+    {
+      "jour": 1,
+      "ferme": false,
+      "creneaux": [
+        [
+          "09:00",
+          "19:30"
+        ]
+      ]
+    },
+    {
+      "jour": 2,
+      "ferme": false,
+      "creneaux": [
+        [
+          "09:00",
+          "19:30"
+        ]
+      ]
+    },
+    {
+      "jour": 3,
+      "ferme": false,
+      "creneaux": [
+        [
+          "09:00",
+          "19:30"
+        ]
+      ]
+    },
+    {
+      "jour": 4,
+      "ferme": false,
+      "creneaux": [
+        [
+          "09:00",
+          "19:30"
+        ]
+      ]
+    },
+    {
+      "jour": 5,
+      "ferme": false,
+      "creneaux": [
+        [
+          "09:00",
+          "19:00"
+        ]
+      ]
+    },
+    {
+      "jour": 6,
+      "ferme": true,
+      "creneaux": []
+    }
+  ],
+  "attributs": [
+    "Entrée accessible en fauteuil roulant",
+    "Parking accessible en fauteuil roulant"
+  ],
+  "lien_google": "https://maps.google.com/?cid=12071597962955964315&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
+  "site_web_gmb": null,
+  "statut": "publiee",
+  "backlink": {
+    "etat": "absent",
+    "premiere_detection": null,
+    "derniere_detection": null,
+    "derniere_verification": "2026-10-18T10:46:48.744Z",
+    "echecs": 1,
+    "url_detectee": null
+  },
+  "suggestion": {
+    "etat": "en-attente",
+    "date_soumission": null,
+    "tentatives": 0,
+    "date_email": "2026-10-18"
+  },
+  "retrait": null,
+  "dates": {
+    "collecte": "2026-10-18",
+    "publication": "2026-10-18",
+    "maj": "2026-10-18"
+  },
+  "source": "google-places",
+  "redaction": {
+    "titre": "Pharmacie Leriche — Pharmacie ou opticien à Alençon",
+    "meta_titre": "Pharmacie Leriche, pharmacie ou opticien à Alençon",
+    "meta_description": "Pharmacie Leriche, pharmacie ou opticien à Alençon (174 Avenue de Quakenbruck) : adresse, horaires, téléphone et informations pratiques.",
+    "chapo": "Pharmacie Leriche figure parmi les établissements de la catégorie « Pharmacie ou opticien » recensés à Alençon. L'entreprise n'a pas de site web référencé sur sa fiche Google. Les éléments présentés ici — adresse, horaires, contact — proviennent de cette fiche et sont datés de leur relevé.",
+    "sections": [
+      {
+        "id": "presentation",
+        "titre": "Pharmacie Leriche en quelques mots",
+        "paragraphes": [
+          "À Alençon, les recherches du type « pharmacie ou opticien près de chez moi » se concluent le plus souvent par un appel ou une visite directe.",
+          "Pharmacies et opticiens sont des commerces de première nécessité dont on cherche surtout l'horaire et la garde. Une fiche complète et à jour sert autant l'habitant pressé que le professionnel qui n'a pas vocation à gérer un site.",
+          "D'après le relevé du 18 octobre 2026, l'établissement est ouvert tous les jours sauf le dimanche. Le détail jour par jour figure plus bas."
+        ]
+      },
+      {
+        "id": "acces",
+        "titre": "Adresse et accès",
+        "paragraphes": [
+          "L'établissement est situé au 174 Avenue de Quakenbruck, 61000 Alençon.",
+          "Coordonnées géographiques : 48.44347, 0.11120. Le lien d'itinéraire ci-dessous ouvre directement la navigation."
+        ]
+      },
+      {
+        "id": "contact",
+        "titre": "Contacter Pharmacie Leriche",
+        "paragraphes": [
+          "Le contact se fait par téléphone au 02 33 26 03 53. C'est le seul moyen de communication déclaré sur la fiche Google de l'entreprise, avec la visite sur place.",
+          "Si vous dirigez cette entreprise, vous pouvez demander la correction ou le retrait de cette page à tout moment, sans justification."
+        ]
+      },
+      {
+        "id": "avis",
+        "titre": "La réputation de Pharmacie Leriche",
+        "paragraphes": [
+          "Au relevé du 18 octobre 2026, l'établissement affichait une note de 4,2 sur 5 sur Google, calculée à partir de 24 avis. Cette note évolue en permanence : elle est indiquée ici à titre d'information et n'est pas retraitée.",
+          "Les avis appartiennent à Google et se consultent sur la fiche d'origine, dont le lien figure sur cette page."
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "q": "Quels sont les horaires de Pharmacie Leriche ?",
+        "r": "Au relevé du 18 octobre 2026, Pharmacie Leriche était ouvert tous les jours sauf le dimanche. Dans le détail — lundi : de 9 h à 19 h 30 ; mardi : de 9 h à 19 h 30 ; mercredi : de 9 h à 19 h 30 ; jeudi : de 9 h à 19 h 30 ; vendredi : de 9 h à 19 h 30 ; samedi : de 9 h à 19 h ; dimanche : fermé. Ces horaires peuvent changer : un appel préalable reste conseillé."
+      },
+      {
+        "q": "Où se trouve Pharmacie Leriche ?",
+        "r": "Pharmacie Leriche se trouve 174 Av. de Quakenbruck, 61000 Alençon. Un lien d'itinéraire est disponible sur cette page."
+      },
+      {
+        "q": "Comment contacter Pharmacie Leriche ?",
+        "r": "Par téléphone au 02 33 26 03 53, ou directement sur place aux heures d'ouverture."
+      },
+      {
+        "q": "Pharmacie Leriche a-t-il un site internet ?",
+        "r": "Non : aucune adresse de site web n'est déclarée sur la fiche Google de Pharmacie Leriche au 18 octobre 2026. Cette page tient lieu de référence publique en attendant, le cas échéant, la création d'un site propre à l'entreprise."
+      },
+      {
+        "q": "Pharmacie Leriche est-il accessible aux personnes à mobilité réduite ?",
+        "r": "La fiche Google de l'établissement mentionne : « Entrée accessible en fauteuil roulant ». Cette information est déclarative ; en cas de doute, vérifiez par téléphone."
+      }
+    ],
+    "genere_le": "2026-10-18"
+  },
+  "avis_detail": {
+    "releve": "2026-10-18",
+    "liste": [
+      {
+        "note": 4,
+        "texte": "Pharmacie leriche. Très professionnel et a l'écoute.\nJe recommande vivement cette endroit",
+        "langue": "fr",
+        "date": "2026-05-31",
+        "auteur": "Anthony",
+        "auteur_lien": "https://www.google.com/maps/contrib/113213462257447837774/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2t0UE1UaFFkRGQxVFRWUE1FZHhVR1ExVHpSYVNtYxAB!2m1!1s0x47e20c5eb3e1c78f:0xa786ee63a551bf9b"
+      },
+      {
+        "note": 5,
+        "texte": "Pharmacie accueillante avec du personnel à l'écoute. Les médicaments correspondant toujours à l'ordonnance sans rupture. De plus possibilité de faire les vaccins sur place.",
+        "langue": "fr",
+        "date": "2025-07-23",
+        "auteur": "Mehdi Sakhri",
+        "auteur_lien": "https://www.google.com/maps/contrib/107245687287399987092/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT21FelIyVkxPR3hHYVdKcmNUUmthV1ZYY2twMldsRRAB!2m1!1s0x47e20c5eb3e1c78f:0xa786ee63a551bf9b"
+      },
+      {
+        "note": 5,
+        "texte": "Très pro, personnel à l'écoute et souriant.   J'y retourne à chaque fois pour renouveler mes ordonnances",
+        "langue": "fr",
+        "date": "2024-06-12",
+        "auteur": "olivier lantier",
+        "auteur_lien": "https://www.google.com/maps/contrib/115408271845617068809/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUR6LThDU253RRAB!2m1!1s0x47e20c5eb3e1c78f:0xa786ee63a551bf9b"
+      },
+      {
+        "note": 3,
+        "texte": "Les prix sont exorbitants !Deux fois que je me rends dans cette pharmacie et deux fois que je suis outrée par les prix annoncés, en menant l’enquête j’ai pu faire des comparatifs et il y’a effectivement un écart de prix très très important avec d’autres pharmacies qui offrent plus de choix. Le personnel cependant est charmant…",
+        "langue": "fr",
+        "date": "2024-04-02",
+        "auteur": "Artic Sunset",
+        "auteur_lien": "https://www.google.com/maps/contrib/115461945455026570419/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUNEeDVyeXJBRRAB!2m1!1s0x47e20c5eb3e1c78f:0xa786ee63a551bf9b"
+      },
+      {
+        "note": 1,
+        "texte": "Ne devrait pas vendre de gamme enfant car elle ne supporte pas les enfants!\nA peine ma fille s'est approché du présentoir de brosses à dent que la dame à dit \"Mademoiselle on ne doit pas toucher\"\nC'est bien la première fois que j'entend cette remarque!!!\nPourtant j'en ai visité des pharmacies (ancienne délègué pharmaceutique)\nVous dites pareil quand c'est un adulte?\nPeut être que le fait que ce n'est pas une potentielle acheteuse vous dérange !!!\nMais moi je trouve qu'un enfant qui s'intéresse à l'hygiène c'est plutôt positif.\nEn tout cas suite à cette remarque je n'ai rien acheté non plus.\nEt je suis très déçu car avant j'achetais dans cette pharmacie et le personnel était aimable.\nEn espérant que vous changiez votre regard sur les enfants.",
+        "langue": "fr",
+        "date": "2023-01-27",
+        "auteur": "Aurelie Bihouee",
+        "auteur_lien": "https://www.google.com/maps/contrib/117846927184947609092/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSURCNDQ3MzlnRRAB!2m1!1s0x47e20c5eb3e1c78f:0xa786ee63a551bf9b"
+      }
+    ]
+  },
+  "statut_google": "OPERATIONAL",
+  "audience": {
+    "clics": 0,
+    "impressions": 0,
+    "position": null,
+    "fenetreJours": 90,
+    "clicsRecents": 0,
+    "fenetreRecenteJours": 28,
+    "source": "search-console",
+    "date": "2026-10-18"
+  }
+}

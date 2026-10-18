@@ -123,8 +123,8 @@
     "etat": "externe",
     "premiere_detection": null,
     "derniere_detection": null,
-    "derniere_verification": "2026-10-09T16:58:32.124Z",
-    "echecs": 70,
+    "derniere_verification": "2026-10-18T10:46:48.744Z",
+    "echecs": 71,
     "url_detectee": "https://www.chateau-de-cayx.com/boutique/"
   },
   "suggestion": {
@@ -137,7 +137,7 @@
   "dates": {
     "collecte": "2026-09-04",
     "publication": "2026-09-04",
-    "maj": "2026-10-09"
+    "maj": "2026-10-18"
   },
   "source": "google-places",
   "redaction": {
@@ -218,7 +218,7 @@
   "indexation": {
     "etat": "non-indexee",
     "verdict": "NEUTRAL",
-    "couverture": "Google ne reconnaît pas cette URL",
+    "couverture": "Détectée, actuellement non indexée",
     "derniere_exploration": null,
     "canonique_google": null,
     "source": "inspection",

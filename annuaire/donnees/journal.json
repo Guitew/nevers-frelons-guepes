@@ -1,5 +1,90 @@
 [
   {
+    "date": "2026-10-18T10:46:48.870Z",
+    "type": "backlink-absent",
+    "id": "ChIJt2HohihS80cRkaKQvxhmxdM",
+    "nom": "Boulangerie NÖL",
+    "url": null,
+    "precedent": "en-attente"
+  },
+  {
+    "date": "2026-10-18T10:46:49.005Z",
+    "type": "backlink-absent",
+    "id": "ChIJj8fhs14M4kcRm79RpWPuhqc",
+    "nom": "Pharmacie Leriche",
+    "url": null,
+    "precedent": "en-attente"
+  },
+  {
+    "date": "2026-10-18T10:46:49.089Z",
+    "type": "backlink-absent",
+    "id": "ChIJcxq00sHx7EcRhSv8IcNQ_bo",
+    "nom": "Restaurant La Nostalgie",
+    "url": null,
+    "precedent": "en-attente"
+  },
+  {
+    "date": "2026-10-18T10:46:49.244Z",
+    "type": "backlink-absent",
+    "id": "ChIJAeEE3UfRVQ0RWAeIixRTdLk",
+    "nom": "Tabac - Presse - FDJ - LA STATION",
+    "url": null,
+    "precedent": "en-attente"
+  },
+  {
+    "date": "2026-10-18T10:46:49.341Z",
+    "type": "backlink-absent",
+    "id": "ChIJTzehbIf_CEgR_0cUYYXKnAA",
+    "nom": "WOK LAVAL",
+    "url": null,
+    "precedent": "en-attente"
+  },
+  {
+    "date": "2026-10-18T10:46:48.082Z",
+    "type": "publication",
+    "id": "ChIJt2HohihS80cRkaKQvxhmxdM",
+    "nom": "Boulangerie NÖL",
+    "url": "/boulangeries-patisseries/viriat/boulangerie-nol/",
+    "categorie": "boulangeries-patisseries",
+    "source": "google-places"
+  },
+  {
+    "date": "2026-10-18T10:46:48.195Z",
+    "type": "publication",
+    "id": "ChIJcxq00sHx7EcRhSv8IcNQ_bo",
+    "nom": "Restaurant La Nostalgie",
+    "url": "/restaurants/jonchery/restaurant-la-nostalgie/",
+    "categorie": "restaurants",
+    "source": "google-places"
+  },
+  {
+    "date": "2026-10-18T10:46:48.329Z",
+    "type": "publication",
+    "id": "ChIJTzehbIf_CEgR_0cUYYXKnAA",
+    "nom": "WOK LAVAL",
+    "url": "/restaurants/laval/wok-laval/",
+    "categorie": "restaurants",
+    "source": "google-places"
+  },
+  {
+    "date": "2026-10-18T10:46:48.435Z",
+    "type": "publication",
+    "id": "ChIJj8fhs14M4kcRm79RpWPuhqc",
+    "nom": "Pharmacie Leriche",
+    "url": "/pharmacies-opticiens/alencon/pharmacie-leriche/",
+    "categorie": "pharmacies-opticiens",
+    "source": "google-places"
+  },
+  {
+    "date": "2026-10-18T10:46:48.624Z",
+    "type": "publication",
+    "id": "ChIJAeEE3UfRVQ0RWAeIixRTdLk",
+    "nom": "Tabac - Presse - FDJ - LA STATION",
+    "url": "/cafes-bars/saint-pierre-du-mont/tabac-presse-fdj-la-station/",
+    "categorie": "cafes-bars",
+    "source": "google-places"
+  },
+  {
     "date": "2026-10-18T10:35:02.669Z",
     "type": "suggestion-soumise",
     "id": "ChIJvRM-iiyZlEcROq_3SADKbps",
