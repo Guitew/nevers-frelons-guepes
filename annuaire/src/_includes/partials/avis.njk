@@ -1,0 +1,9 @@
+{#- Un avis Google : note, date, auteur (attribution exigée par Google), texte tronqué. -#}
+<li class="avis-item avis-item--{{ 'bon' if a.note >= 4 else ('moyen' if a.note == 3 else 'mauvais') }}">
+  <div class="avis-item__entete">
+    <span class="avis-item__note" aria-label="{{ a.note }} sur 5">{{ a.note | etoiles }}</span>
+    {% if a.date %}<time datetime="{{ a.date }}">{{ a.date | dateFr }}</time>{% endif %}
+    {% if a.auteur %}<span class="avis-item__auteur">— {% if a.auteur_lien %}<a href="{{ a.auteur_lien }}" rel="nofollow noopener" target="_blank">{{ a.auteur }}</a>{% else %}{{ a.auteur }}{% endif %}</span>{% endif %}
+  </div>
+  <blockquote class="avis-item__texte">{{ a | texteAvis }}</blockquote>
+</li>

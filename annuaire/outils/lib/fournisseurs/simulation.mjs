@@ -19,6 +19,37 @@ import { empreinte } from "../texte.mjs";
 
 const ENSEIGNES = ["Maison", "Atelier", "Comptoir", "Le Relais", "Espace", "La Halte", "Aux Deux", "Chez"];
 const PATRONYMES = ["Berthier", "Duval", "Charnay", "Loiseau", "Mercier", "Fabre", "Guillot", "Renard", "Perrin", "Vasseur"];
+const AVIS_TEXTES = [
+  [5, "Très bon accueil, travail soigné et prix corrects. Je recommande."],
+  [5, "Super accueil, personnel très professionnel et de bons conseils."],
+  [4, "Service rapide et efficace, cadre agréable. Un peu cher mais la qualité est là."],
+  [3, "Correct sans plus : attente assez longue, mais le résultat est propre."],
+  [2, "Déçu : trop cher pour ce que c'est et accueil froid."],
+  [1, "Mauvais accueil, jamais rappelé malgré deux messages."],
+  [4, "Grand choix et bonne ambiance, équipe sympathique."],
+  [5, "Impeccable, très réactif, bon rapport qualité prix."],
+];
+
+/** Avis fictifs déterministes (0 à 5, comme l'API), pour éprouver l'affichage. */
+function fabriquerAvis(g) {
+  const combien = g % 6;
+  const avis = [];
+  for (let i = 0; i < combien; i++) {
+    const [note, texte] = AVIS_TEXTES[(g + i * 7) % AVIS_TEXTES.length];
+    const jour = new Date(Date.UTC(2026, 0, 1) + (((g >>> (i + 2)) % 270) * 86400000));
+    avis.push({
+      note,
+      texte,
+      langue: "fr",
+      date: jour.toISOString().slice(0, 10),
+      auteur: `Client ${String.fromCharCode(65 + ((g + i) % 26))}.`,
+      auteur_lien: "",
+      lien: "",
+    });
+  }
+  return avis.sort((a, b) => b.date.localeCompare(a.date));
+}
+
 const VOIES = ["rue de la République", "avenue du Général de Gaulle", "route de Nevers", "place du Marché", "rue des Écoles", "boulevard Victor Hugo"];
 
 /** Communes de repli, choisies d'après la latitude de la cellule. */
@@ -50,6 +81,7 @@ export async function rechercher({ types, latitude, longitude, rayonMetres }) {
       longitude: longitude + (((g >>> 5) % 100) - 50) / 100000,
       note: Math.round((3 + (g % 20) / 10) * 10) / 10,
       avis: g % 350,
+      avis_liste: fabriquerAvis(g),
       rue: `${(g % 90) + 1} ${VOIES[g % VOIES.length]}`,
       rayon: rayonMetres,
     });
@@ -67,6 +99,7 @@ export function normaliser(lieu) {
     id: lieu.id,
     nom: lieu.nom,
     site_web_gmb: lieu.site_web,
+    avis_liste: lieu.avis_liste || [],
     statut_google: "OPERATIONAL",
     categorie_gmb: lieu.categorie_gmb,
     type_principal: lieu.type_principal,

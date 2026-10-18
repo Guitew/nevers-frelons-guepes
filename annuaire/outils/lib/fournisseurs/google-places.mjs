@@ -55,6 +55,10 @@ const CHAMPS_DETAIL = [
   "formattedAddress",
 ].join(",");
 
+// Avec les avis : SKU « Place Details Enterprise + Atmosphere », plus cher.
+// L'API n'en transmet que cinq par établissement, sans choix du tri.
+const CHAMPS_DETAIL_AVIS = `${CHAMPS_DETAIL},reviews`;
+
 function cle() {
   const k = process.env.GOOGLE_PLACES_API_KEY;
   if (!k) {
@@ -142,12 +146,16 @@ export async function rechercher({ types, latitude, longitude, rayonMetres, maxi
   }
 }
 
-/** Relit une fiche Google par son identifiant (suivi du backlink). */
-export async function detailler(placeId) {
+/**
+ * Relit une fiche Google par son identifiant (suivi du backlink).
+ * `avecAvis` ajoute les avis au masque de champs (SKU plus coûteux : à
+ * réserver aux relevés espacés par config.avis).
+ */
+export async function detailler(placeId, { avecAvis = false } = {}) {
   try {
     return await appeler(`${RACINE_API}/places/${encodeURIComponent(placeId)}`, {
       method: "GET",
-      champs: CHAMPS_DETAIL,
+      champs: avecAvis ? CHAMPS_DETAIL_AVIS : CHAMPS_DETAIL,
     });
   } catch (erreur) {
     if (/ 404 /.test(` ${erreur.message} `) || erreur.message.includes("404")) return null;

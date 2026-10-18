@@ -1,6 +1,7 @@
 import { slugifier, dateLisible, telephoneLisible, telephoneLien, tronquer, aujourdhui } from "./outils/lib/texte.mjs";
 import { heureLisible, journeeLisible, resumeHoraires, JOURS } from "./outils/lib/redaction.mjs";
 import { pilotage } from "./outils/lib/pilotage.mjs";
+import { compilerAvis, syntheseAvis, texteAvis } from "./outils/lib/avis.mjs";
 import site from "./outils/lib/site.mjs";
 import { schemaFiche, schemaFil, schemaFaq, schemaListe, schemaSite } from "./outils/lib/schema.mjs";
 
@@ -47,6 +48,12 @@ export default function (eleventyConfig) {
   eleventyConfig.addFilter("schemaFaq", schemaFaq);
   eleventyConfig.addFilter("schemaListe", schemaListe);
   eleventyConfig.addFilter("schemaSite", schemaSite);
+
+  // ------- Avis Google (compilation + synthèse, jamais balisés) -------
+  eleventyConfig.addFilter("compilerAvis", compilerAvis);
+  eleventyConfig.addFilter("syntheseAvis", syntheseAvis);
+  eleventyConfig.addFilter("texteAvis", texteAvis);
+  eleventyConfig.addFilter("etoiles", (n) => "★".repeat(Math.max(0, Math.min(5, n || 0))) + "☆".repeat(5 - Math.max(0, Math.min(5, n || 0))));
 
   // ------- Tableau de bord privé -------
   eleventyConfig.addFilter("pilotage", pilotage);

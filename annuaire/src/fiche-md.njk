@@ -32,6 +32,39 @@ eleventyExcludeFromCollections: true
 {% for p in s.paragraphes %}
 {{ p | safe }}
 {% endfor %}{% endfor %}
+{%- set compil = f.avis_detail | compilerAvis %}
+{%- if compil %}
+
+## Nous avons compilé les avis
+
+Sélection parmi les avis publics transmis par Google (relevé du {{ compil.releve | dateFr | safe }}).
+{% if compil.meilleurs.length %}
+### Les meilleurs avis récents
+{% for a in compil.meilleurs %}
+- **{{ a.note | safe }}/5** ({{ a.date | dateFr | safe }}{% if a.auteur %}, {{ a.auteur | safe }}{% endif %}) : {{ a | texteAvis | safe }}
+{%- endfor %}
+{% endif %}
+{%- if compil.pire %}
+### L'avis le plus critique
+
+- **{{ compil.pire.note | safe }}/5** ({{ compil.pire.date | dateFr | safe }}{% if compil.pire.auteur %}, {{ compil.pire.auteur | safe }}{% endif %}) : {{ compil.pire | texteAvis | safe }}
+{% endif %}
+{%- if compil.moyens.length %}
+### Des avis plus nuancés
+{% for a in compil.moyens %}
+- **{{ a.note | safe }}/5** ({{ a.date | dateFr | safe }}{% if a.auteur %}, {{ a.auteur | safe }}{% endif %}) : {{ a | texteAvis | safe }}
+{%- endfor %}
+{% endif %}
+{%- endif %}
+{%- set synthese = f | syntheseAvis %}
+{%- if synthese %}
+
+## Qu'en disent les clients en général ?
+
+**{{ synthese | safe }}**
+
+_Synthèse automatique à partir des avis publics Google relevés le {{ f.avis_detail.releve | dateFr | safe }}._
+{%- endif %}
 {%- if f.horaires %}
 ## Horaires d'ouverture
 {% for j in f.horaires %}

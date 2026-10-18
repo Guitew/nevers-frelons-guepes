@@ -42,6 +42,7 @@ import { rediger } from "./lib/redaction.mjs";
 import { slugifier, aujourdhui } from "./lib/texte.mjs";
 import { consigner, evenement } from "./lib/journal.mjs";
 import { DEPARTEMENTS_JSON } from "./lib/chemins.mjs";
+import { depuisApiGoogle, blocAvis } from "./lib/avis.mjs";
 
 const args = new Map(
   process.argv.slice(2).map((a) => {
@@ -222,6 +223,27 @@ async function collecteLocale(source, existant) {
 //  Point d'entrée
 // ---------------------------------------------------------------------------
 
+/**
+ * Relève les avis Google d'une nouvelle fiche (au plus cinq, transmis par
+ * l'API). Le fournisseur « simulation » les fournit avec le lieu ; Google
+ * Places demande une relecture dédiée (SKU avec avis). Un échec n'empêche
+ * jamais la publication : le suivi des backlinks réessaiera.
+ */
+async function releverAvis(fiche, lieu, source, date) {
+  if (config.avis?.actif === false) return;
+  if (Array.isArray(lieu.avis_liste)) {
+    fiche.avis_detail = blocAvis(lieu.avis_liste, date);
+    return;
+  }
+  if (typeof source.detailler !== "function") return;
+  try {
+    const detail = await source.detailler(fiche.id, { avecAvis: true });
+    if (detail) fiche.avis_detail = blocAvis(depuisApiGoogle(detail.reviews), date);
+  } catch (erreur) {
+    console.warn(`  ⚠︎ avis non relevés pour ${fiche.nom} : ${erreur.message}`);
+  }
+}
+
 async function principal() {
   const source = fournisseur(nomFournisseur);
   if (nomFournisseur === "google-places" && !config.secrets.googlePlaces) {
@@ -310,6 +332,7 @@ async function principal() {
       source: nomFournisseur,
     };
     fiche.redaction = rediger(fiche, date);
+    if (!essai) await releverAvis(fiche, lieu, source, date);
 
     if (essai) {
       console.log(`  · ${urlFiche(fiche)} — ${fiche.nom}`);

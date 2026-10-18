@@ -32,6 +32,7 @@ import { lireFiches, ecrireFiche, urlFiche, ETATS } from "./lib/fiches.mjs";
 import { estNotreUrl } from "./lib/site.mjs";
 import { aujourdhui } from "./lib/texte.mjs";
 import { consigner, evenement } from "./lib/journal.mjs";
+import { depuisApiGoogle, blocAvis, avisARafraichir } from "./lib/avis.mjs";
 
 const args = new Map(
   process.argv.slice(2).map((a) => {
@@ -44,6 +45,15 @@ const nomFournisseur = args.get("fournisseur") || config.collecte.fournisseur;
 const quota = args.has("tout")
   ? Infinity
   : Number(args.get("max") || config.backlinks.verificationsParJour);
+
+// Relectures AVEC avis (masque de champs plus coûteux) : seulement quand le
+// relevé est absent ou périmé, et dans la limite quotidienne de config.avis.
+// `--avis=N` force une autre limite pour la journée (rattrapage).
+const avisActif = config.avis?.actif !== false && nomFournisseur === "google-places";
+let avisRestants = args.has("avis")
+  ? Number(args.get("avis"))
+  : Number(config.avis?.relecturesParJour ?? 0);
+const fraicheurAvis = Number(config.avis?.fraicheurJours ?? 90);
 
 /** Fiches à vérifier en priorité : les moins récemment contrôlées d'abord. */
 function ordonner(fiches) {
@@ -73,14 +83,15 @@ async function principal() {
   const date = aujourdhui();
   const horodatage = new Date().toISOString();
   const evenements = [];
-  const compteurs = { present: 0, absent: 0, externe: 0, introuvable: 0, erreur: 0 };
+  const compteurs = { present: 0, absent: 0, externe: 0, introuvable: 0, erreur: 0, avis: 0 };
 
   console.log(`Vérification de ${aVerifier.length} fiche(s) sur ${fiches.length}.`);
 
   for (const fiche of aVerifier) {
     let detail;
+    const avecAvis = avisActif && avisRestants > 0 && avisARafraichir(fiche, fraicheurAvis);
     try {
-      detail = await source.detailler(fiche.id);
+      detail = await source.detailler(fiche.id, { avecAvis });
     } catch (erreur) {
       compteurs.erreur++;
       console.warn(`  ⚠︎ ${fiche.nom} : ${erreur.message}`);
@@ -102,6 +113,11 @@ async function principal() {
       compteurs.introuvable++;
     } else {
       rafraichir(fiche, detail);
+      if (avecAvis) {
+        fiche.avis_detail = blocAvis(depuisApiGoogle(detail.reviews), date);
+        avisRestants--;
+        compteurs.avis++;
+      }
       const url = detail.websiteUri || "";
       fiche.site_web_gmb = url || null;
       if (estNotreUrl(url, urlFiche(fiche))) {

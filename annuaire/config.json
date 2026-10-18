@@ -1,6 +1,5 @@
 {
   "_lisezmoi": "Configuration métier de l'annuaire. Les clés d'API ne sont JAMAIS stockées ici : elles arrivent par variables d'environnement (voir .env.exemple).",
-
   "collecte": {
     "fournisseur": "google-places",
     "fichesParJour": 5,
@@ -9,9 +8,24 @@
     "mailleNationaleMetres": 2500,
     "cellulesParDepartement": 1,
     "zones": [
-      { "libelle": "Nevers", "latitude": 46.9896, "longitude": 3.1572, "rayonMetres": 12000 },
-      { "libelle": "Varennes-Vauzelles", "latitude": 47.0233, "longitude": 3.1364, "rayonMetres": 6000 },
-      { "libelle": "Fourchambault", "latitude": 47.0161, "longitude": 3.0836, "rayonMetres": 6000 }
+      {
+        "libelle": "Nevers",
+        "latitude": 46.9896,
+        "longitude": 3.1572,
+        "rayonMetres": 12000
+      },
+      {
+        "libelle": "Varennes-Vauzelles",
+        "latitude": 47.0233,
+        "longitude": 3.1364,
+        "rayonMetres": 6000
+      },
+      {
+        "libelle": "Fourchambault",
+        "latitude": 47.0161,
+        "longitude": 3.0836,
+        "rayonMetres": 6000
+      }
     ],
     "categoriesCiblees": [],
     "mailleMetres": 800,
@@ -20,7 +34,6 @@
     "avisMinimum": 5,
     "exclureFermes": true
   },
-
   "backlinks": {
     "verificationsParJour": 30,
     "delaiDeGraceJours": 45,
@@ -30,15 +43,21 @@
     "joursConservation410": 180,
     "joursConservation301": 365
   },
-
+  "avis": {
+    "_lisezmoi": "Avis Google affichés sur les fiches (outils/lib/avis.mjs). L'API n'en transmet que 5 par établissement (SKU Place Details Enterprise + Atmosphere, 1 000 appels gratuits par mois). Relevés à la collecte, puis rafraîchis par backlinks.mjs quand le relevé a plus de fraicheurJours, au plus relecturesParJour par jour (collecte + relectures doivent rester sous 1 000 par mois pour ne rien payer).",
+    "actif": true,
+    "fraicheurJours": 90,
+    "relecturesParJour": 25
+  },
   "suggestions": {
     "_lisezmoi": "SMS proposé dans l'email quotidien pour pousser le dirigeant à déclarer sa page comme site web (outils/lib/sms.mjs).",
     "signatureSms": "Guillaume de Vitrine Locale"
   },
-
   "audience": {
     "_lisezmoi": "Relevé Search Console (outils/audience.mjs). Une fiche qui performe (au moins clicsParSemaineMaintien clic(s) Google par semaine en moyenne sur fenetreRecenteJours) ne disparaît JAMAIS automatiquement, même si sa fiche Google est introuvable, et une fiche retirée qui performe encore est republiée (seul un retrait manuel prime). Une fiche avec au moins clicsProtection clics sur fenetreJours n'est pas retirée pour un backlink perdu ou une non-indexation ; une fiche avec au moins impressionsProlongation impressions voit son délai de grâce prolongé de prolongationJours. Un relevé plus vieux que fraicheurJours ne compte plus.",
-    "proprietaires": ["allofrelons@gmail.com"],
+    "proprietaires": [
+      "allofrelons@gmail.com"
+    ],
     "clicsParSemaineMaintien": 1,
     "fenetreRecenteJours": 28,
     "fenetreJours": 90,
@@ -47,7 +66,6 @@
     "impressionsProlongation": 100,
     "prolongationJours": 45
   },
-
   "couverture": {
     "_lisezmoi": "Inspection d'indexation (outils/couverture.mjs). Une page publiée depuis retraitSiNonIndexeeJours que Google n'indexe pas (verdict récent, fraicheurJours) est retirée : 410, ou 301 vers la catégorie si un lien GMB a existé. Les pages avec impressions sont réputées indexées sans appel ; les autres sont inspectées à partir de ageMinimumInspectionJours, inspectionsParJour au plus.",
     "retraitSiNonIndexeeJours": 45,
@@ -55,7 +73,6 @@
     "inspectionsParJour": 200,
     "fraicheurJours": 7
   },
-
   "indexation": {
     "indexnow": true,
     "googleIndexingApi": false,

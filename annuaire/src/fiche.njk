@@ -54,6 +54,45 @@ eleventyComputed:
       </section>
       {% endfor %}
 
+      {#- Avis Google : compilation (3 meilleurs récents, le plus critique, 2 nuancés)
+          puis synthèse en gras. Google ne transmet que 5 avis par établissement :
+          chaque bloc n'apparaît que s'il a de quoi être rempli. Jamais balisés. -#}
+      {% set compil = f.avis_detail | compilerAvis %}
+      {% if compil %}
+      <section id="avis-compiles" class="avis">
+        <h2>Nous avons compilé les avis</h2>
+        <p class="doux">Sélection parmi les avis publics transmis par Google au relevé du {{ compil.releve | dateFr }} :
+          les meilleurs avis les plus récents, l'avis le plus critique et des avis plus nuancés. Les avis appartiennent à leurs auteurs et à Google.</p>
+        {% if compil.meilleurs.length %}
+        <h3>Les meilleurs avis récents</h3>
+        <ul class="avis-liste">
+          {% for a in compil.meilleurs %}{% include "partials/avis.njk" %}{% endfor %}
+        </ul>
+        {% endif %}
+        {% if compil.pire %}
+        <h3>L'avis le plus critique</h3>
+        <ul class="avis-liste">
+          {% set a = compil.pire %}{% include "partials/avis.njk" %}
+        </ul>
+        {% endif %}
+        {% if compil.moyens.length %}
+        <h3>Des avis plus nuancés</h3>
+        <ul class="avis-liste">
+          {% for a in compil.moyens %}{% include "partials/avis.njk" %}{% endfor %}
+        </ul>
+        {% endif %}
+      </section>
+      {% endif %}
+
+      {% set synthese = f | syntheseAvis %}
+      {% if synthese %}
+      <section id="avis-synthese" class="avis-synthese">
+        <h2>Qu'en disent les clients en général ?</h2>
+        <p class="avis-synthese__texte"><strong>{{ synthese }}</strong></p>
+        <p class="doux" style="font-size:.9rem;">Synthèse rédigée automatiquement par {{ site.nomCourt }} à partir des avis publics Google relevés le {{ f.avis_detail.releve | dateFr }}. Elle ne reflète que ces avis et peut différer de l'impression générale.</p>
+      </section>
+      {% endif %}
+
       {% if f.horaires %}
       <section id="horaires">
         <h2>Horaires d'ouverture</h2>

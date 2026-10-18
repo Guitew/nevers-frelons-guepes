@@ -253,6 +253,21 @@ a.etiquette:hover { background: var(--accent-doux); color: var(--accent-fonce); 
 .encadre--alerte { background: var(--chaud-doux); border-color: transparent; }
 .encadre p:last-child { margin-bottom: 0; }
 
+/* ----- Avis Google compilés + synthèse ----- */
+.avis h3 { font-size: 1.05rem; margin: 1.4rem 0 .6rem; }
+.avis-liste { list-style: none; padding: 0; margin: 0; display: grid; gap: .7rem; }
+.avis-item {
+  border: 1px solid var(--bordure); border-left-width: 4px; border-radius: var(--rayon-petit);
+  padding: .85rem 1.1rem; background: var(--fond-carte);
+}
+.avis-item--bon { border-left-color: var(--vert); }
+.avis-item--moyen { border-left-color: var(--chaud); }
+.avis-item--mauvais { border-left-color: var(--rouge); }
+.avis-item__entete { display: flex; flex-wrap: wrap; gap: .5rem .8rem; align-items: baseline; font-size: .9rem; color: var(--encre-douce); margin-bottom: .4rem; }
+.avis-item__note { color: var(--chaud); letter-spacing: .08em; font-size: 1rem; }
+.avis-item__texte { margin: 0; padding: 0; border: 0; font-style: normal; }
+.avis-synthese__texte { font-size: 1.08rem; line-height: 1.6; background: var(--accent-doux); border-radius: var(--rayon-petit); padding: 1rem 1.2rem; }
+
 /* ----- Listes de liens ----- */
 .liste-liens { list-style: none; margin: 0; padding: 0; columns: 2; column-gap: 2rem; }
 .liste-liens li { break-inside: avoid; padding: .25rem 0; }

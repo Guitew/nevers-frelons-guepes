@@ -219,6 +219,28 @@ Ajouter un fournisseur tiers revient à déposer dans `outils/lib/fournisseurs/`
 > sont donc datés sur chaque page et rafraîchis par `npm run backlinks`. Le grattage des pages Maps
 > n'est volontairement pas implémenté : il est fragile et contraire aux conditions d'utilisation.
 
+### Avis Google : compilation et synthèse
+
+Chaque fiche affiche deux blocs construits à partir des avis publics de la fiche Google
+([`outils/lib/avis.mjs`](./outils/lib/avis.mjs)) :
+
+- **« Nous avons compilé les avis »** : les 3 meilleurs avis les plus récents (5 étoiles d'abord), l'avis le
+  plus critique le plus récent (3 étoiles ou moins) et 2 avis plus nuancés (3 ou 4 étoiles non retenus
+  plus haut). Chaque avis n'est utilisé qu'une fois ; un bloc sans matière n'est pas affiché.
+- **« Qu'en disent les clients en général ? »** : une synthèse en gras, à la manière des résumés d'avis
+  générés par Google, rédigée de façon déterministe à partir des seuls avis relevés (thèmes réellement
+  présents dans les textes — accueil, qualité, prix, rapidité, professionnalisme, propreté, ambiance,
+  choix — répartition des notes, note globale). Elle est calculée à la compilation du site, jamais
+  stockée, et signalée comme automatique sur la page.
+
+Limites et coûts : l'API Places (New) ne transmet que **5 avis par établissement**, sans choix du tri,
+et uniquement avec le champ `reviews` (SKU *Place Details Enterprise + Atmosphere*, 1 000 appels
+gratuits par mois). Les avis sont relevés à la collecte (`collecte.mjs`) puis rafraîchis par
+`backlinks.mjs` quand le relevé a plus de `config.avis.fraicheurJours` (90 j), dans la limite de
+`config.avis.relecturesParJour` (25) — `node outils/backlinks.mjs --avis=N` force une autre limite pour
+un rattrapage. Les avis ne sont **jamais** balisés en données structurées (ni `review`, ni
+`aggregateRating`) et l'auteur est toujours attribué, comme l'exigent les conditions de Google.
+
 ## Ce qui rend les pages exploitables par les moteurs et les LLM
 
 - **HTML statique**, sans rendu côté client : le contenu est dans la réponse.

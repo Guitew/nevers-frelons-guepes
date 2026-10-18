@@ -54,7 +54,7 @@ annuaire/
 │   ├── lib/                  politique.mjs, maillage.mjs, national.mjs, google-auth.mjs, redaction.mjs, site.mjs, schema.mjs,
 │   │                         pilotage.mjs, fiches.mjs, categories.mjs, texte.mjs, journal.mjs
 │   ├── lib/fournisseurs/     google-places.mjs, csv.mjs, simulation.mjs
-│   └── tests/                48 tests node --test
+│   └── tests/                106 tests node --test
 └── src/                      gabarits Eleventy (fiche.njk, categorie.njk, htaccess.njk…)
 ```
 
@@ -113,6 +113,15 @@ fiches collectées ne sont jamais mises en ligne (404 sur toutes les URLs suggé
     `politique.mjs` / `estNonIndexee`) : 410 si jamais liée, 301 vers la catégorie si un lien GMB
     a existé, jamais republiée (`retrait.cause = "non-indexee"`). Verdict périmé = pas de
     retrait. Les pages avec impressions sont réputées indexées sans appel d'API (quota 2 000/j).
+13. **Avis Google** (`outils/lib/avis.mjs`, 18/10/2026) : chaque fiche compile les avis transmis par
+    l'API (5 au plus : 3 meilleurs récents, le plus critique, 2 nuancés) et affiche une synthèse en gras
+    « Qu'en disent les clients en général ? » rédigée à la manière des résumés d'avis de Google — mais
+    déterministe, calculée au build, et qui ne cite qu'un thème réellement présent dans un avis et des
+    comptes exacts (invariant 1). Jamais de balisage `review`/`aggregateRating` (invariant 2), auteur
+    toujours attribué. Le champ `reviews` coûte plus cher (SKU Enterprise + Atmosphere, 1 000 appels
+    gratuits/mois) : relevé à la collecte, rafraîchi par `backlinks.mjs` après `config.avis.fraicheurJours`
+    et au plus `config.avis.relecturesParJour` par jour ; garder collecte + relectures sous 1 000/mois.
+    Les regex de thèmes utilisent des bornes `\p{L}` car `\b` ignore les lettres accentuées.
 9. **Un slug de catégorie ne se renomme pas sans alias.** `categories.json` accepte une clé `alias`
    (anciennes ou fausses orthographes) : chaque alias produit une règle 301 dans le `.htaccess`
    (test + verifier). La page 404 redirige aussi vers la fiche dont l'identifiant correspond.
@@ -120,7 +129,7 @@ fiches collectées ne sont jamais mises en ligne (404 sur toutes les URLs suggé
 ## Commandes
 
 ```bash
-npm run controle     # LA barrière : 48 tests + build + vérification du site produit — à passer avant tout push
+npm run controle     # LA barrière : 106 tests + build + vérification du site produit — à passer avant tout push
 npm test             # tests seuls
 npm run verifier     # inspecte _site : liens morts, préfixe manquant, canoniques, sitemaps, cohérence 301/410
 npm start            # serveur local http://localhost:8080
