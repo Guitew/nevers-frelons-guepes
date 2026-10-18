@@ -32,7 +32,7 @@ import { lireFiches, ecrireFiche, urlFiche, ETATS } from "./lib/fiches.mjs";
 import { estNotreUrl } from "./lib/site.mjs";
 import { aujourdhui } from "./lib/texte.mjs";
 import { consigner, evenement } from "./lib/journal.mjs";
-import { depuisApiGoogle, blocAvis, avisARafraichir, prioriteAvis } from "./lib/avis.mjs";
+import { depuisApiGoogle, blocAvis, prioriteAvis } from "./lib/avis.mjs";
 
 const args = new Map(
   process.argv.slice(2).map((a) => {
@@ -81,22 +81,27 @@ async function principal() {
   const fiches = lireFiches();
   const ordonnees = ordonner(fiches);
   const aVerifier = ordonnees.slice(0, quota === Infinity ? undefined : quota);
-  // Le budget d'avis du jour est consommé même si les fiches du quota de
-  // backlinks n'en ont pas besoin : on complète avec celles dont les avis sont
-  // à retraduire, absents ou périmés (dans cet ordre), relues avec leurs avis.
-  // Les anciennes fiches se remplissent ainsi à un rythme garanti.
+  // Budget d'avis du jour : attribué par priorité sur toutes les fiches — avis
+  // en langue étrangère à retraduire, puis jamais relevés, puis périmés ; à
+  // priorité égale, les moins récemment vérifiées d'abord. Les fiches élues
+  // hors du quota de backlinks sont relues en plus (avec leurs avis).
+  const avecAvisPour = new Set();
   if (avisActif && avisRestants > 0) {
-    const deja = new Set(aVerifier);
-    const besoinDansQuota = aVerifier.filter((f) => avisARafraichir(f, fraicheurAvis)).length;
-    const complement = ordonnees
-      .filter((f) => !deja.has(f))
-      .map((f) => ({ f, p: prioriteAvis(f, fraicheurAvis) }))
+    const elues = ordonnees
+      .map((f, i) => ({ f, i, p: prioriteAvis(f, fraicheurAvis) }))
       .filter((x) => x.p !== null)
-      .sort((a, b) => a.p - b.p || (a.f.avis_detail?.releve || "").localeCompare(b.f.avis_detail?.releve || ""))
-      .slice(0, Math.max(0, avisRestants - besoinDansQuota))
+      .sort((a, b) => a.p - b.p || a.i - b.i)
+      .slice(0, avisRestants)
       .map((x) => x.f);
-    aVerifier.push(...complement);
-    if (complement.length) console.log(`  + ${complement.length} fiche(s) relue(s) en plus pour leurs avis.`);
+    let enPlus = 0;
+    for (const f of elues) {
+      avecAvisPour.add(f);
+      if (!aVerifier.includes(f)) {
+        aVerifier.push(f);
+        enPlus++;
+      }
+    }
+    if (enPlus) console.log(`  + ${enPlus} fiche(s) relue(s) en plus pour leurs avis.`);
   }
   const date = aujourdhui();
   const horodatage = new Date().toISOString();
@@ -107,7 +112,7 @@ async function principal() {
 
   for (const fiche of aVerifier) {
     let detail;
-    const avecAvis = avisActif && avisRestants > 0 && avisARafraichir(fiche, fraicheurAvis);
+    const avecAvis = avecAvisPour.has(fiche);
     try {
       detail = await source.detailler(fiche.id, { avecAvis });
     } catch (erreur) {
