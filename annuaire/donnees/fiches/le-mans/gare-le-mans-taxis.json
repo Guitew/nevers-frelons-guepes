@@ -33,7 +33,7 @@
   "attributs": [],
   "lien_google": "https://maps.google.com/?cid=17528832999236315851&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
   "site_web_gmb": null,
-  "statut": "publiee",
+  "statut": "retiree",
   "backlink": {
     "etat": "absent",
     "premiere_detection": null,
@@ -48,11 +48,18 @@
     "tentatives": 0,
     "date_email": "2026-10-05"
   },
-  "retrait": null,
+  "retrait": {
+    "mode": "410",
+    "cible": null,
+    "date": "2026-10-18",
+    "motif": "hors cible : rubrique exclue (transport-demenagement) (sélection du 18/10/2026), aucune impression Google",
+    "cause": "hors-cible",
+    "manuel": true
+  },
   "dates": {
     "collecte": "2026-10-05",
     "publication": "2026-10-05",
-    "maj": "2026-10-12"
+    "maj": "2026-10-18"
   },
   "source": "google-places",
   "redaction": {

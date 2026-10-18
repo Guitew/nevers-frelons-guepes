@@ -36,7 +36,7 @@
   ],
   "lien_google": "https://maps.google.com/?cid=8484080563392026671&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
   "site_web_gmb": null,
-  "statut": "publiee",
+  "statut": "retiree",
   "backlink": {
     "etat": "absent",
     "premiere_detection": null,
@@ -51,7 +51,14 @@
     "tentatives": 1,
     "date_email": "2026-09-24"
   },
-  "retrait": null,
+  "retrait": {
+    "mode": "410",
+    "cible": null,
+    "date": "2026-10-18",
+    "motif": "hors cible : type Google exclu (rv_park) (sélection du 18/10/2026), aucune impression Google",
+    "cause": "hors-cible",
+    "manuel": true
+  },
   "dates": {
     "collecte": "2026-09-24",
     "publication": "2026-09-24",

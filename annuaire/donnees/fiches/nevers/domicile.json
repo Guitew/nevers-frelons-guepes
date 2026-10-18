@@ -32,7 +32,7 @@
   "attributs": [],
   "lien_google": "https://maps.google.com/?cid=9009297569570724317&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
   "site_web_gmb": null,
-  "statut": "publiee",
+  "statut": "retiree",
   "backlink": {
     "etat": "absent",
     "premiere_detection": null,
@@ -41,7 +41,14 @@
     "echecs": 74,
     "url_detectee": null
   },
-  "retrait": null,
+  "retrait": {
+    "mode": "410",
+    "cible": null,
+    "date": "2026-10-18",
+    "motif": "hors cible : note absente < 3.5 (sélection du 18/10/2026), aucune impression Google",
+    "cause": "hors-cible",
+    "manuel": true
+  },
   "dates": {
     "collecte": "2026-08-30",
     "publication": "2026-08-30",

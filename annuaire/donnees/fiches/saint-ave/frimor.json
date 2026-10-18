@@ -113,7 +113,7 @@
   "attributs": [],
   "lien_google": "https://maps.google.com/?cid=11078888723375121123&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
   "site_web_gmb": null,
-  "statut": "publiee",
+  "statut": "retiree",
   "backlink": {
     "etat": "absent",
     "premiere_detection": null,
@@ -128,11 +128,18 @@
     "tentatives": 1,
     "date_email": "2026-09-22"
   },
-  "retrait": null,
+  "retrait": {
+    "mode": "410",
+    "cible": null,
+    "date": "2026-10-18",
+    "motif": "hors cible : type Google exclu (storage) (sélection du 18/10/2026), aucune impression Google",
+    "cause": "hors-cible",
+    "manuel": true
+  },
   "dates": {
     "collecte": "2026-09-22",
     "publication": "2026-09-22",
-    "maj": "2026-10-12"
+    "maj": "2026-10-18"
   },
   "source": "google-places",
   "redaction": {
