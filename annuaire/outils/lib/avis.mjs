@@ -199,8 +199,14 @@ const SIGNALENT = [
   (th) => `des réserves portent sur ${th}`,
 ];
 const CONSTATS = [
-  (n, total) => `${n} des ${total} avis relevés attribuent 4 ou 5 étoiles`,
-  (n, total) => `${n} avis sur ${total} relevés donnent 4 étoiles ou plus`,
+  (n, total) =>
+    n === 0
+      ? `aucun des ${total} avis relevés n'attribue 4 ou 5 étoiles`
+      : `${n} des ${total} avis relevés attribue${n > 1 ? "nt" : ""} 4 ou 5 étoiles`,
+  (n, total) =>
+    n === 0
+      ? `aucun avis sur ${total} relevés ne donne 4 étoiles ou plus`
+      : `${n} avis sur ${total} relevés donne${n > 1 ? "nt" : ""} 4 étoiles ou plus`,
 ];
 
 /**

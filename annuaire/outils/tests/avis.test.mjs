@@ -111,8 +111,15 @@ test("syntheseAvis : avis sans thème détecté → seulement la répartition de
     avis: 12,
     avis_detail: blocAvis([avis(5, "2026-01-01", "Rien à redire."), avis(1, "2026-01-02", "Non.")], "2026-02-01"),
   });
-  assert.match(s, /^1 (des|avis sur) 2/);
+  assert.match(s, /^1 (des 2 avis relevés attribue 4|avis sur 2 relevés donne 4)/);
   assert.doesNotMatch(s, /apprécient|mettent en avant|soulignent/);
+  const zero = syntheseAvis({
+    id: "y",
+    nom: "Garage Y",
+    avis_detail: blocAvis([avis(2, "2026-01-01", "Non."), avis(1, "2026-01-02", "Non plus.")], "2026-02-01"),
+  });
+  assert.match(zero, /^(Aucun des 2 avis relevés n'attribue|Aucun avis sur 2 relevés ne donne)/);
+  assert.match(zero, /2 sont très critiques/);
 });
 
 test("avisARafraichir : absent, périmé ou en langue étrangère ; priorité à la retraduction", () => {
