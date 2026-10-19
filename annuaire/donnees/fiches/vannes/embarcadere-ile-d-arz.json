@@ -27,7 +27,7 @@
     "longitude": -2.7621964
   },
   "note": 4.4,
-  "avis": 24,
+  "avis": 25,
   "horaires": null,
   "attributs": [
     "Entrée accessible en fauteuil roulant",
@@ -40,8 +40,8 @@
     "etat": "absent",
     "premiere_detection": null,
     "derniere_detection": null,
-    "derniere_verification": "2026-10-09T16:58:32.124Z",
-    "echecs": 4,
+    "derniere_verification": "2026-10-19T10:42:12.979Z",
+    "echecs": 5,
     "url_detectee": null
   },
   "suggestion": {
@@ -54,21 +54,29 @@
   "dates": {
     "collecte": "2026-10-06",
     "publication": "2026-10-06",
-    "maj": "2026-10-09"
+    "maj": "2026-10-19"
   },
   "source": "google-places",
   "redaction": {
     "version": 2,
     "titre": "Embarcadère île d’arz — Service aux particuliers à Vannes",
     "meta_titre": "Embarcadère île d’arz à Vannes : avis",
-    "meta_description": "Embarcadère île d’arz, service aux particuliers à Vannes : note Google 4,4/5 (24 avis), adresse et itinéraire.",
-    "chapo": "Embarcadère île d’arz exerce l'activité de service aux particuliers au 9 Allée Loïc Caradec, à Vannes. Note Google : 4,4 sur 5 pour 24 avis.",
+    "meta_description": "Embarcadère île d’arz, service aux particuliers à Vannes : note Google 4,4/5 (25 avis), adresse et itinéraire.",
+    "chapo": "Embarcadère île d’arz exerce l'activité de service aux particuliers au 9 Allée Loïc Caradec, à Vannes. Note Google : 4,4 sur 5 pour 25 avis.",
     "sections": [
       {
         "id": "presentation",
         "titre": "Embarcadère île d’arz en quelques mots",
         "paragraphes": [
           "Sur Google, l'établissement est classé « Agence de voyages », dans notre rubrique Service aux particuliers."
+        ]
+      },
+      {
+        "id": "prestations",
+        "titre": "Services et équipements de Embarcadère île d’arz",
+        "paragraphes": [
+          "Moyens de paiement déclarés : carte bancaire et carte de débit.",
+          "Ces indications sont déclarées par l'établissement sur sa fiche Google (relevé du 19 octobre 2026)."
         ]
       },
       {
@@ -90,7 +98,7 @@
         "id": "avis",
         "titre": "La réputation de Embarcadère île d’arz",
         "paragraphes": [
-          "Note de 4,4 sur 5 pour 24 avis Google au relevé du 9 octobre 2026. Les avis se consultent sur la fiche Google, dont le lien figure sur cette page."
+          "Note de 4,4 sur 5 pour 25 avis Google au relevé du 19 octobre 2026. Les avis les plus parlants sont compilés ci-dessous, avec un lien vers la fiche d'origine."
         ]
       }
     ],
@@ -104,7 +112,7 @@
         "r": "La fiche Google de l'établissement mentionne : « Entrée accessible en fauteuil roulant ». Cette information est déclarative ; en cas de doute, vérifiez par téléphone."
       }
     ],
-    "genere_le": "2026-10-09"
+    "genere_le": "2026-10-19"
   },
   "statut_google": "OPERATIONAL",
   "audience": {
@@ -115,6 +123,65 @@
     "clicsRecents": 0,
     "fenetreRecenteJours": 28,
     "source": "search-console",
-    "date": "2026-10-18"
+    "date": "2026-10-19"
+  },
+  "avis_detail": {
+    "releve": "2026-10-19",
+    "liste": [
+      {
+        "note": 3,
+        "texte": "Une balade à faire mais cours car on s'ennuie vite",
+        "langue": "fr",
+        "date": "2026-08-06",
+        "auteur": "tulipe 87",
+        "auteur_lien": "https://www.google.com/maps/contrib/116558144964521856130/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xFdFRVbFpTVmhOWlZKWGVWaEJXa2xQY1dOSFExRRAB!2m1!1s0x48101da11831c895:0x8d87b971e9115be2"
+      },
+      {
+        "note": 4,
+        "texte": "Très bel accueil avec le sourire",
+        "langue": "fr",
+        "date": "2026-06-14",
+        "auteur": "Flo Cullerier",
+        "auteur_lien": "https://www.google.com/maps/contrib/103122620923343855715/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xFMlJtZGlTWGhKTW1OWldFSTJSa2hCTXpONWFVRRAB!2m1!1s0x48101da11831c895:0x8d87b971e9115be2"
+      },
+      {
+        "note": 1,
+        "texte": "Hôtesse blondel 50 60aine  à 8h30 le 15 mai très désagréable qui dit aux passager de dégager ???? Au lieu de leur dire de reculer un peu....",
+        "langue": "fr",
+        "date": "2026-05-16",
+        "auteur": "Vanessa Clément",
+        "auteur_lien": "https://www.google.com/maps/contrib/110677391789834570222/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25wT1ZXMWlSbUo2ZDJWaVJtMW9TVUZIUkZwV1pGRRAB!2m1!1s0x48101da11831c895:0x8d87b971e9115be2"
+      },
+      {
+        "note": 5,
+        "texte": "Des plages à couper le souffle, une église juste magnifique. Un bel endroit pour se poser .",
+        "langue": "fr",
+        "date": "2025-10-26",
+        "auteur": "Nathalie Le Coz",
+        "auteur_lien": "https://www.google.com/maps/contrib/106724335321176485051/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25ONWRUbENOMXBDT1VweFJVWlRVRXd0YlRSMFRYYxAB!2m1!1s0x48101da11831c895:0x8d87b971e9115be2"
+      },
+      {
+        "note": 5,
+        "texte": "Petite île du golfe du Morbihan idéale pour les randonnées Cool.",
+        "langue": "fr",
+        "date": "2025-06-28",
+        "auteur": "Noël Surgot",
+        "auteur_lien": "https://www.google.com/maps/contrib/109286404768972958277/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2kxVVRrcDVRVUpHZDJOeWJWUXRRbXhvTVVoUmRsRRAB!2m1!1s0x48101da11831c895:0x8d87b971e9115be2"
+      }
+    ]
+  },
+  "services": {
+    "releve": "2026-10-19",
+    "options": {},
+    "paiement": [
+      "carte bancaire",
+      "carte de débit"
+    ],
+    "parking": []
   }
 }

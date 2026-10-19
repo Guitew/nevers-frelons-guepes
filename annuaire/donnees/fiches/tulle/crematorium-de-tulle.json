@@ -122,13 +122,13 @@
   ],
   "lien_google": "https://maps.google.com/?cid=6806001400621006983&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
   "site_web_gmb": "https://tulle.groupe-crematoriums.fr/",
-  "statut": "publiee",
+  "statut": "retiree",
   "backlink": {
     "etat": "externe",
     "premiere_detection": null,
     "derniere_detection": null,
-    "derniere_verification": "2026-10-09T16:58:32.124Z",
-    "echecs": 70,
+    "derniere_verification": "2026-10-19T10:42:12.979Z",
+    "echecs": 71,
     "url_detectee": "https://tulle.groupe-crematoriums.fr/"
   },
   "suggestion": {
@@ -137,11 +137,16 @@
     "tentatives": 0,
     "date_email": "2026-09-02"
   },
-  "retrait": null,
+  "retrait": {
+    "mode": "410",
+    "cible": null,
+    "date": "2026-10-19",
+    "motif": "backlink jamais posé après 47 jours de délai de grâce"
+  },
   "dates": {
     "collecte": "2026-09-02",
     "publication": "2026-09-02",
-    "maj": "2026-10-18"
+    "maj": "2026-10-19"
   },
   "source": "google-places",
   "redaction": {
@@ -149,14 +154,14 @@
     "titre": "Crématorium de Tulle — Service aux particuliers à Tulle",
     "meta_titre": "Crématorium de Tulle à Tulle : horaires, avis, téléphone",
     "meta_description": "Crématorium de Tulle, service aux particuliers à Tulle : horaires d'ouverture, note Google 4,6/5 (31 avis), téléphone, adresse et itinéraire.",
-    "chapo": "Crématorium de Tulle, service aux particuliers au Avenue Evariste Galois, à Tulle. Ouvert tous les jours sauf le dimanche au relevé du 18 octobre 2026. Téléphone : 05 44 41 08 34. Note Google : 4,6 sur 5 pour 31 avis.",
+    "chapo": "Crématorium de Tulle, service aux particuliers au Avenue Evariste Galois, à Tulle. Ouvert tous les jours sauf le dimanche au relevé du 19 octobre 2026. Téléphone : 05 44 41 08 34. Note Google : 4,6 sur 5 pour 31 avis.",
     "sections": [
       {
         "id": "presentation",
         "titre": "Crématorium de Tulle en quelques mots",
         "paragraphes": [
           "Sur Google, l'établissement est classé « Services », dans notre rubrique Service aux particuliers.",
-          "D'après le relevé du 18 octobre 2026, l'établissement est ouvert tous les jours sauf le dimanche. Le détail jour par jour figure plus bas."
+          "D'après le relevé du 19 octobre 2026, l'établissement est ouvert tous les jours sauf le dimanche. Le détail jour par jour figure plus bas."
         ]
       },
       {
@@ -178,18 +183,18 @@
         "id": "avis",
         "titre": "La réputation de Crématorium de Tulle",
         "paragraphes": [
-          "Note de 4,6 sur 5 pour 31 avis Google au relevé du 18 octobre 2026. Les avis se consultent sur la fiche Google, dont le lien figure sur cette page."
+          "Note de 4,6 sur 5 pour 31 avis Google au relevé du 19 octobre 2026. Les avis les plus parlants sont compilés ci-dessous, avec un lien vers la fiche d'origine."
         ]
       }
     ],
     "faq": [
       {
         "q": "Quels sont les horaires de Crématorium de Tulle ?",
-        "r": "Au relevé du 18 octobre 2026, Crématorium de Tulle était ouvert tous les jours sauf le dimanche. Dans le détail — lundi : de 8 h 30 à 12 h 30 et de 13 h 30 à 16 h 30 ; mardi : de 8 h 30 à 12 h 30 et de 13 h 30 à 16 h 30 ; mercredi : de 8 h 30 à 12 h 30 et de 13 h 30 à 16 h 30 ; jeudi : de 8 h 30 à 12 h 30 et de 13 h 30 à 16 h 30 ; vendredi : de 8 h 30 à 12 h 30 et de 13 h 30 à 16 h 30 ; samedi : de 8 h 30 à 12 h 30 ; dimanche : fermé. Ces horaires peuvent changer : un appel préalable reste conseillé."
+        "r": "Au relevé du 19 octobre 2026, Crématorium de Tulle était ouvert tous les jours sauf le dimanche. Dans le détail — lundi : de 8 h 30 à 12 h 30 et de 13 h 30 à 16 h 30 ; mardi : de 8 h 30 à 12 h 30 et de 13 h 30 à 16 h 30 ; mercredi : de 8 h 30 à 12 h 30 et de 13 h 30 à 16 h 30 ; jeudi : de 8 h 30 à 12 h 30 et de 13 h 30 à 16 h 30 ; vendredi : de 8 h 30 à 12 h 30 et de 13 h 30 à 16 h 30 ; samedi : de 8 h 30 à 12 h 30 ; dimanche : fermé. Ces horaires peuvent changer : un appel préalable reste conseillé."
       },
       {
         "q": "Crématorium de Tulle est-il ouvert le dimanche ?",
-        "r": "Non : d'après les horaires relevés le 18 octobre 2026, Crématorium de Tulle est fermé le dimanche."
+        "r": "Non : d'après les horaires relevés le 19 octobre 2026, Crématorium de Tulle est fermé le dimanche."
       },
       {
         "q": "Où se trouve Crématorium de Tulle ?",
@@ -204,7 +209,7 @@
         "r": "La fiche Google de l'établissement mentionne : « Entrée accessible en fauteuil roulant ». Cette information est déclarative ; en cas de doute, vérifiez par téléphone."
       }
     ],
-    "genere_le": "2026-10-18"
+    "genere_le": "2026-10-19"
   },
   "statut_google": "OPERATIONAL",
   "audience": {
@@ -215,7 +220,7 @@
     "clicsRecents": 0,
     "fenetreRecenteJours": 28,
     "source": "search-console",
-    "date": "2026-10-18"
+    "date": "2026-10-19"
   },
   "indexation": {
     "etat": "non-indexee",
@@ -224,6 +229,56 @@
     "derniere_exploration": null,
     "canonique_google": null,
     "source": "inspection",
-    "date": "2026-10-18"
+    "date": "2026-10-19"
+  },
+  "avis_detail": {
+    "releve": "2026-10-19",
+    "liste": [
+      {
+        "note": 5,
+        "texte": "Merci pour l’accueil et la sérénité de la cérémonie,  les photos que nous avions choisies défilant sur écran géant nous ont apporté grand réconfort, notre mère était encore un peu parmi nous. Les musiques que nous avions choisies ont contribué aussi à nous apaiser dans ce moment douloureux. Merci pour cette belle salle où nous nous sommes retrouvés.",
+        "langue": "fr",
+        "date": "2026-06-17",
+        "auteur": "Nise Prevost",
+        "auteur_lien": "https://www.google.com/maps/contrib/101853289912649358821/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT21NNGJuTkhibkZ5TmpoRFFXY3pPVFJNY3pacFRWRRAB!2m1!1s0x47f88b029d6c34ed:0x5e73c636d0d38087"
+      },
+      {
+        "note": 5,
+        "texte": "Très bon accueil et un Personnel à l'écoute de la famille grâce à eux la cérémonie pour notre fils a été très belle et comme son papa et moi avions souhaité.\nAvec tous nos remerciements à Cyril\nChristine &Patrice",
+        "langue": "fr",
+        "date": "2026-06-13",
+        "auteur": "Christine Louineau",
+        "auteur_lien": "https://www.google.com/maps/contrib/107272520936209793681/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25CNExWbElabFV6U1RKaE16QlhRazFtT1ZaaVozYxAB!2m1!1s0x47f88b029d6c34ed:0x5e73c636d0d38087"
+      },
+      {
+        "note": 5,
+        "texte": "Un accueil discret et professionnel avec une cérémonie parfaite",
+        "langue": "fr",
+        "date": "2026-06-12",
+        "auteur": "christine van reeth",
+        "auteur_lien": "https://www.google.com/maps/contrib/116121344384905737349/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2t0cE9EaEZiMGhRVkZCUFRHSTNieko0TjNad1NXYxAB!2m1!1s0x47f88b029d6c34ed:0x5e73c636d0d38087"
+      },
+      {
+        "note": 5,
+        "texte": "Très  professionnel  belle cérémonie beaucoup de tacte merci",
+        "langue": "fr",
+        "date": "2026-04-30",
+        "auteur": "Nicole Chamalot",
+        "auteur_lien": "https://www.google.com/maps/contrib/109785849238005821854/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2pJeVRFOHpRMlV3U0VWTVpEazBiVmRFVTNsUmFIYxAB!2m1!1s0x47f88b029d6c34ed:0x5e73c636d0d38087"
+      },
+      {
+        "note": 5,
+        "texte": "Merci pour cette belle cérémonie. Cyril nous a très bien accompagné dans ce moment difficile. Bravo au crématorium de tulle.",
+        "langue": "fr",
+        "date": "2026-03-05",
+        "auteur": "R “PIpO'” D",
+        "auteur_lien": "https://www.google.com/maps/contrib/110612705465918949087/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT21jeWFrOVlWa015UVhwMFkyTmZjalJqVUMxSGVsRRAB!2m1!1s0x47f88b029d6c34ed:0x5e73c636d0d38087"
+      }
+    ]
   }
 }

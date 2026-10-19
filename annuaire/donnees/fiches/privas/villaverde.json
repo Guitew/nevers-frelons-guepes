@@ -131,21 +131,21 @@
     "etat": "absent",
     "premiere_detection": null,
     "derniere_detection": null,
-    "derniere_verification": "2026-10-18T10:09:04.999Z",
-    "echecs": 1,
+    "derniere_verification": "2026-10-19T10:42:12.979Z",
+    "echecs": 2,
     "url_detectee": null
   },
   "suggestion": {
-    "etat": "en-attente",
-    "date_soumission": null,
-    "tentatives": 0,
+    "etat": "soumise",
+    "date_soumission": "2026-10-19",
+    "tentatives": 1,
     "date_email": "2026-10-18"
   },
   "retrait": null,
   "dates": {
     "collecte": "2026-10-18",
     "publication": "2026-10-18",
-    "maj": "2026-10-18"
+    "maj": "2026-10-19"
   },
   "source": "google-places",
   "redaction": {
@@ -153,14 +153,23 @@
     "titre": "VillaVerde — Jardinage et paysage à Privas",
     "meta_titre": "VillaVerde à Privas : horaires, avis",
     "meta_description": "VillaVerde, jardinage et paysage à Privas : horaires d'ouverture, note Google 4,4/5 (248 avis), adresse et itinéraire.",
-    "chapo": "VillaVerde exerce l'activité de jardinage et paysage au 171 Chemin du Logis du Roi, à Privas. Ouvert tous les jours sauf le dimanche au relevé du 18 octobre 2026. Note Google : 4,4 sur 5 pour 248 avis.",
+    "chapo": "VillaVerde exerce l'activité de jardinage et paysage au 171 Chemin du Logis du Roi, à Privas. Ouvert tous les jours sauf le dimanche au relevé du 19 octobre 2026. Note Google : 4,4 sur 5 pour 248 avis.",
     "sections": [
       {
         "id": "presentation",
         "titre": "VillaVerde en quelques mots",
         "paragraphes": [
+          "Présentation donnée par Google : « Chaîne proposant des produits et articles autour du jardinage, des animaux de compagnie et de la décoration. »",
           "Sur Google, l'établissement est classé « Jardinerie », dans notre rubrique Jardinage et paysage.",
-          "D'après le relevé du 18 octobre 2026, l'établissement est ouvert tous les jours sauf le dimanche. Le détail jour par jour figure plus bas."
+          "D'après le relevé du 19 octobre 2026, l'établissement est ouvert tous les jours sauf le dimanche. Le détail jour par jour figure plus bas."
+        ]
+      },
+      {
+        "id": "prestations",
+        "titre": "Services et équipements de VillaVerde",
+        "paragraphes": [
+          "Moyens de paiement déclarés : carte bancaire, carte de débit et paiement sans contact.",
+          "Ces indications sont déclarées par l'établissement sur sa fiche Google (relevé du 19 octobre 2026)."
         ]
       },
       {
@@ -182,18 +191,18 @@
         "id": "avis",
         "titre": "La réputation de VillaVerde",
         "paragraphes": [
-          "Note de 4,4 sur 5 pour 248 avis Google au relevé du 18 octobre 2026. Les avis les plus parlants sont compilés ci-dessous, avec un lien vers la fiche d'origine."
+          "Note de 4,4 sur 5 pour 248 avis Google au relevé du 19 octobre 2026. Les avis les plus parlants sont compilés ci-dessous, avec un lien vers la fiche d'origine."
         ]
       }
     ],
     "faq": [
       {
         "q": "Quels sont les horaires de VillaVerde ?",
-        "r": "Au relevé du 18 octobre 2026, VillaVerde était ouvert tous les jours sauf le dimanche. Dans le détail — lundi : de 9 h à 12 h et de 14 h à 19 h ; mardi : de 9 h à 12 h et de 14 h à 19 h ; mercredi : de 9 h à 12 h et de 14 h à 19 h ; jeudi : de 9 h à 12 h et de 14 h à 19 h ; vendredi : de 9 h à 12 h et de 14 h à 19 h ; samedi : de 9 h à 12 h et de 14 h à 19 h ; dimanche : fermé. Ces horaires peuvent changer : un appel préalable reste conseillé."
+        "r": "Au relevé du 19 octobre 2026, VillaVerde était ouvert tous les jours sauf le dimanche. Dans le détail — lundi : de 9 h à 12 h et de 14 h à 19 h ; mardi : de 9 h à 12 h et de 14 h à 19 h ; mercredi : de 9 h à 12 h et de 14 h à 19 h ; jeudi : de 9 h à 12 h et de 14 h à 19 h ; vendredi : de 9 h à 12 h et de 14 h à 19 h ; samedi : de 9 h à 12 h et de 14 h à 19 h ; dimanche : fermé. Ces horaires peuvent changer : un appel préalable reste conseillé."
       },
       {
         "q": "VillaVerde est-il ouvert le dimanche ?",
-        "r": "Non : d'après les horaires relevés le 18 octobre 2026, VillaVerde est fermé le dimanche."
+        "r": "Non : d'après les horaires relevés le 19 octobre 2026, VillaVerde est fermé le dimanche."
       },
       {
         "q": "Où se trouve VillaVerde ?",
@@ -204,15 +213,15 @@
         "r": "La fiche Google de l'établissement mentionne : « Entrée accessible en fauteuil roulant ». Cette information est déclarative ; en cas de doute, vérifiez par téléphone."
       }
     ],
-    "genere_le": "2026-10-18"
+    "genere_le": "2026-10-19"
   },
   "avis_detail": {
-    "releve": "2026-10-18",
+    "releve": "2026-10-19",
     "liste": [
       {
         "note": 5,
-        "texte": "Game Vert now has very reasonable prices on Christmas trees, go check it out quickly before it's gone, very welcoming",
-        "langue": "en-US",
+        "texte": "Game vert maintenant des prix très raisonnables sur les sapins, a aller voir rapidement avant la fin ,très accueillant",
+        "langue": "fr",
         "date": "2025-12-06",
         "auteur": "Alexandre Bousquainaud",
         "auteur_lien": "https://www.google.com/maps/contrib/107877236917583421400/reviews",
@@ -220,8 +229,8 @@
       },
       {
         "note": 5,
-        "texte": "We bought almost everything from them. The welcome, the advice on plants, trees and accessories, everything is perfect, they are passionate and it's a pleasure to have true garden professionals!",
-        "langue": "en-US",
+        "texte": "Nous avons presque tout acheté chez eux. L'accueil, les conseils sur les plantes, les arbres et les accessoires, tout est parfait, ce sont des passionnés et ça fait plaisir d'avoir de vrais professionnels du jardin!",
+        "langue": "fr",
         "date": "2025-05-27",
         "auteur": "gregory cornil",
         "auteur_lien": "https://www.google.com/maps/contrib/111132543931814420649/reviews",
@@ -229,8 +238,8 @@
       },
       {
         "note": 5,
-        "texte": "For semi-trailer deliveries, the process takes place in the turning area at the end of the road, for quick loading.",
-        "langue": "en-US",
+        "texte": "Pour les livraisons en semi sa se passe sur l’aire de retournement au fond du chemin , de chargement rapide",
+        "langue": "fr",
         "date": "2024-11-19",
         "auteur": "Anonyme",
         "auteur_lien": "https://www.google.com/maps/contrib/104707072659513393064/reviews",
@@ -238,17 +247,17 @@
       },
       {
         "note": 5,
-        "texte": "Top",
-        "langue": "en",
-        "date": "2024-05-31",
-        "auteur": "Sami Claude",
-        "auteur_lien": "https://www.google.com/maps/contrib/107690235799979264717/reviews",
-        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUN6akp2Rm1BRRAB!2m1!1s0x12b53b01fca5e8cb:0x838f20af990ed18"
+        "texte": "Très bonne jardinerie. Je peux moins évaluer la partie animalerie, en ayant moins l'utilité. Beaucoup de choix malgré la petite taille des locaux et des plantes de qualité. Des prix dans la norme. Un personnel très agréable, réactif, connaisseur et de très bons conseils. Je recommande vivement.",
+        "langue": "fr",
+        "date": "2023-03-18",
+        "auteur": "Annabelle Zotti",
+        "auteur_lien": "https://www.google.com/maps/contrib/118056251482046275065/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSURobTRHeE53EAE!2m1!1s0x12b53b01fca5e8cb:0x838f20af990ed18"
       },
       {
         "note": 5,
-        "texte": "Very happy with my purchase of Pinou\nplus, it came with a certificate from the breeder with his date of birth.\nHe was born on November 16, 2017, and he's doing very well.\nI recommend this pet shop.",
-        "langue": "en-US",
+        "texte": "Très contente de l achat de mon Pinou\nen plus certificat de l élevage avec date de naissance\nEu le 16 novembre 2017 et il se porte très bien\nJe recommande cette animalerie",
+        "langue": "fr",
         "date": "2018-05-24",
         "auteur": "Isabelle LEVY-PRAT",
         "auteur_lien": "https://www.google.com/maps/contrib/102155384149954598898/reviews",
@@ -265,6 +274,18 @@
     "clicsRecents": 0,
     "fenetreRecenteJours": 28,
     "source": "search-console",
-    "date": "2026-10-18"
+    "date": "2026-10-19"
+  },
+  "services": {
+    "releve": "2026-10-19",
+    "resume": "Chaîne proposant des produits et articles autour du jardinage, des animaux de compagnie et de la décoration.",
+    "resume_langue": "fr",
+    "options": {},
+    "paiement": [
+      "carte bancaire",
+      "carte de débit",
+      "paiement sans contact"
+    ],
+    "parking": []
   }
 }

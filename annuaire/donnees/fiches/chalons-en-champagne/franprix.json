@@ -1,0 +1,292 @@
+{
+  "id": "ChIJSVBoV8nh60cReXEZNtCSdK4",
+  "slug": "franprix",
+  "nom": "Franprix",
+  "categorie": "commerces-alimentation",
+  "categorie_gmb": "Supermarché",
+  "type_principal": "supermarket",
+  "types": [
+    "supermarket",
+    "grocery_store",
+    "food_store",
+    "store",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "ville": "Châlons-en-Champagne",
+  "ville_slug": "chalons-en-champagne",
+  "adresse": {
+    "rue": "50 Place de la République",
+    "code_postal": "51000",
+    "departement": "51",
+    "region": "Grand Est",
+    "pays": "France",
+    "complete": "50 Pl. de la République, 51000 Châlons-en-Champagne"
+  },
+  "telephone": "06 60 87 78 87",
+  "geo": {
+    "latitude": 48.9549558,
+    "longitude": 4.363289099999999
+  },
+  "note": 4.3,
+  "avis": 142,
+  "horaires": [
+    {
+      "jour": 0,
+      "ferme": false,
+      "creneaux": [
+        [
+          "07:30",
+          "22:00"
+        ]
+      ]
+    },
+    {
+      "jour": 1,
+      "ferme": false,
+      "creneaux": [
+        [
+          "07:30",
+          "22:00"
+        ]
+      ]
+    },
+    {
+      "jour": 2,
+      "ferme": false,
+      "creneaux": [
+        [
+          "07:30",
+          "22:00"
+        ]
+      ]
+    },
+    {
+      "jour": 3,
+      "ferme": false,
+      "creneaux": [
+        [
+          "07:30",
+          "22:00"
+        ]
+      ]
+    },
+    {
+      "jour": 4,
+      "ferme": false,
+      "creneaux": [
+        [
+          "07:30",
+          "22:00"
+        ]
+      ]
+    },
+    {
+      "jour": 5,
+      "ferme": false,
+      "creneaux": [
+        [
+          "07:30",
+          "22:00"
+        ]
+      ]
+    },
+    {
+      "jour": 6,
+      "ferme": false,
+      "creneaux": [
+        [
+          "07:30",
+          "20:00"
+        ]
+      ]
+    }
+  ],
+  "attributs": [
+    "Entrée accessible en fauteuil roulant",
+    "Parking accessible en fauteuil roulant"
+  ],
+  "lien_google": "https://maps.google.com/?cid=12570833882856386937&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
+  "site_web_gmb": null,
+  "statut": "publiee",
+  "backlink": {
+    "etat": "absent",
+    "premiere_detection": null,
+    "derniere_detection": null,
+    "derniere_verification": "2026-10-19T10:42:12.979Z",
+    "echecs": 1,
+    "url_detectee": null
+  },
+  "suggestion": {
+    "etat": "en-attente",
+    "date_soumission": null,
+    "tentatives": 0,
+    "date_email": "2026-10-19"
+  },
+  "retrait": null,
+  "dates": {
+    "collecte": "2026-10-19",
+    "publication": "2026-10-19",
+    "maj": "2026-10-19"
+  },
+  "source": "google-places",
+  "avis_detail": {
+    "releve": "2026-10-19",
+    "liste": [
+      {
+        "note": 5,
+        "texte": "Magasin avec plein de choix personnelle très sympa surtout mohamed avec des super boissons originales et très bonne",
+        "langue": "fr",
+        "date": "2026-08-17",
+        "auteur": "Maxence",
+        "auteur_lien": "https://www.google.com/maps/contrib/117606535652462279103/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2pReVQxRnBVakpvWTJ4c04ydDZkRU50U2tJNWRVRRAB!2m1!1s0x47ebe1c957685049:0xae7492d036197179"
+      },
+      {
+        "note": 1,
+        "texte": "Je déconseille cette boutique, les vendeurs sont malpolis et égoïstes. Ils ne pensent qu'a eux, et disent même que tu peux être en train de mourir devant eux ils te donnerai rien gratuitement. Je vous souhaite de ne jamais avoir un problème de santé dans cette boutique car le personnel ne va pas vous aider.",
+        "langue": "fr",
+        "date": "2026-07-02",
+        "auteur": "L Jnl",
+        "auteur_lien": "https://www.google.com/maps/contrib/111116074547760704497/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xoNVprWnNjSEZaZG5BeWNrNTVVRkZrYUZaelkwRRAB!2m1!1s0x47ebe1c957685049:0xae7492d036197179"
+      },
+      {
+        "note": 5,
+        "texte": "Très bon magasin,\nLieu trés accueillant, d une propreté et très large choix sur tout\nUne équipe qui pourrait donner des conseils à d autres magasins\nMerci pour votre accueil chaleureux",
+        "langue": "fr",
+        "date": "2026-06-27",
+        "auteur": "Noelle Bouillard",
+        "auteur_lien": "https://www.google.com/maps/contrib/103463564373051299837/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xCMmRXMWxiVUpsWWxkS1VrRjZXRmd0U0ZSeGMwRRAB!2m1!1s0x47ebe1c957685049:0xae7492d036197179"
+      },
+      {
+        "note": 5,
+        "texte": "Ils sont incroyables, vraiment humains et accueillants, toujours souriants et prêts à écouter c’est pour ça des que jpeut je passe. Personnellement, ils m'ont beaucoup soutenu dans une période difficile, et ça m'a vraiment touché parce que je ne m'y attendais pas, surtout venant d'un lieu commercial. Et je ne suis vraiment pas le seul  merci",
+        "langue": "fr",
+        "date": "2026-01-09",
+        "auteur": "Georgio Amim",
+        "auteur_lien": "https://www.google.com/maps/contrib/101910110305849044281/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25CVk0xTkZZekJVVVVOdE0wZE9hVk00UkVOcWVGRRAB!2m1!1s0x47ebe1c957685049:0xae7492d036197179"
+      },
+      {
+        "note": 5,
+        "texte": "Le  gérant est très chaleureux et souriant avec sa clientèle .\nIl a la main sur le cœur.\nLes jeunes caissiers suit son modèle .\nOnt est tout de suite à l’aise et non suivi , comme dans certains magasin\nLe choix est varié , fruit et légumes de qualité = coûteux c’est normal\nBelle équipe Bravo 🎉",
+        "langue": "fr",
+        "date": "2023-04-10",
+        "auteur": "Assa Baradji (Lahda)",
+        "auteur_lien": "https://www.google.com/maps/contrib/111013991353621708923/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUNSa19lbUV3EAE!2m1!1s0x47ebe1c957685049:0xae7492d036197179"
+      }
+    ]
+  },
+  "services": {
+    "releve": "2026-10-19",
+    "resume": "Chaînes de supérettes de proximité proposant des produits de la marque Leader Price et d'autres marques.",
+    "resume_langue": "fr",
+    "options": {
+      "delivery": true,
+      "curbsidePickup": true,
+      "restroom": false
+    },
+    "paiement": [
+      "carte bancaire",
+      "carte de débit",
+      "paiement sans contact"
+    ],
+    "parking": [
+      "parking gratuit",
+      "parking payant"
+    ]
+  },
+  "redaction": {
+    "version": 2,
+    "titre": "Franprix — Commerce d'alimentation à Châlons-en-Champagne",
+    "meta_titre": "Franprix à Châlons-en-Champagne : horaires, avis, téléphone",
+    "meta_description": "Franprix, commerce d'alimentation à Châlons-en-Champagne : horaires d'ouverture, note Google 4,3/5 (142 avis), téléphone, adresse et itinéraire.",
+    "chapo": "Franprix, commerce d'alimentation au 50 Place de la République, à Châlons-en-Champagne. Ouvert sept jours sur sept au relevé du 19 octobre 2026. Téléphone : 06 60 87 78 87. Note Google : 4,3 sur 5 pour 142 avis.",
+    "sections": [
+      {
+        "id": "presentation",
+        "titre": "Franprix en quelques mots",
+        "paragraphes": [
+          "Présentation donnée par Google : « Chaînes de supérettes de proximité proposant des produits de la marque Leader Price et d'autres marques. »",
+          "Sur Google, l'établissement est classé « Supermarché », dans notre rubrique Commerce d'alimentation.",
+          "D'après le relevé du 19 octobre 2026, l'établissement est ouvert sept jours sur sept. Le détail jour par jour figure plus bas."
+        ]
+      },
+      {
+        "id": "prestations",
+        "titre": "Services et équipements de Franprix",
+        "paragraphes": [
+          "Proposé : livraison et retrait en voiture.",
+          "Non proposé selon la fiche Google : toilettes.",
+          "Moyens de paiement déclarés : carte bancaire, carte de débit et paiement sans contact.",
+          "Stationnement : parking gratuit et parking payant.",
+          "Ces indications sont déclarées par l'établissement sur sa fiche Google (relevé du 19 octobre 2026)."
+        ]
+      },
+      {
+        "id": "acces",
+        "titre": "Adresse et accès",
+        "paragraphes": [
+          "L'établissement est situé au 50 Place de la République, 51000 Châlons-en-Champagne.",
+          "Coordonnées GPS : 48.95496, 4.36329. Le bouton Itinéraire de cette page ouvre la navigation."
+        ]
+      },
+      {
+        "id": "contact",
+        "titre": "Contacter Franprix",
+        "paragraphes": [
+          "Le contact se fait par téléphone au 06 60 87 78 87, ou directement sur place aux horaires d'ouverture."
+        ]
+      },
+      {
+        "id": "avis",
+        "titre": "La réputation de Franprix",
+        "paragraphes": [
+          "Note de 4,3 sur 5 pour 142 avis Google au relevé du 19 octobre 2026. Les avis les plus parlants sont compilés ci-dessous, avec un lien vers la fiche d'origine."
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "q": "Quels sont les horaires de Franprix ?",
+        "r": "Au relevé du 19 octobre 2026, Franprix était ouvert sept jours sur sept. Dans le détail — lundi : de 7 h 30 à 22 h ; mardi : de 7 h 30 à 22 h ; mercredi : de 7 h 30 à 22 h ; jeudi : de 7 h 30 à 22 h ; vendredi : de 7 h 30 à 22 h ; samedi : de 7 h 30 à 22 h ; dimanche : de 7 h 30 à 20 h. Ces horaires peuvent changer : un appel préalable reste conseillé."
+      },
+      {
+        "q": "Franprix est-il ouvert le dimanche ?",
+        "r": "Oui : le dimanche, Franprix est ouvert de 7 h 30 à 20 h (horaires relevés le 19 octobre 2026)."
+      },
+      {
+        "q": "Où se trouve Franprix ?",
+        "r": "Franprix se trouve 50 Pl. de la République, 51000 Châlons-en-Champagne. Un lien d'itinéraire est disponible sur cette page."
+      },
+      {
+        "q": "Comment contacter Franprix ?",
+        "r": "Par téléphone au 06 60 87 78 87, ou directement sur place aux heures d'ouverture."
+      },
+      {
+        "q": "Franprix propose-t-il la vente à emporter ou la livraison ?",
+        "r": "D'après sa fiche Google (relevé du 19 octobre 2026) — livraison : oui."
+      },
+      {
+        "q": "Franprix est-il accessible aux personnes à mobilité réduite ?",
+        "r": "La fiche Google de l'établissement mentionne : « Entrée accessible en fauteuil roulant ». Cette information est déclarative ; en cas de doute, vérifiez par téléphone."
+      }
+    ],
+    "genere_le": "2026-10-19"
+  },
+  "statut_google": "OPERATIONAL",
+  "audience": {
+    "clics": 0,
+    "impressions": 0,
+    "position": null,
+    "fenetreJours": 90,
+    "clicsRecents": 0,
+    "fenetreRecenteJours": 28,
+    "source": "search-console",
+    "date": "2026-10-19"
+  }
+}

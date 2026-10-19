@@ -28,7 +28,7 @@
     "longitude": 6.188231
   },
   "note": 3.8,
-  "avis": 1213,
+  "avis": 1217,
   "horaires": [
     {
       "jour": 0,
@@ -100,13 +100,13 @@
   ],
   "lien_google": "https://maps.google.com/?cid=6848709367968231130&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
   "site_web_gmb": null,
-  "statut": "publiee",
+  "statut": "retiree",
   "backlink": {
     "etat": "absent",
     "premiere_detection": null,
     "derniere_detection": null,
-    "derniere_verification": "2026-10-09T16:58:32.124Z",
-    "echecs": 74,
+    "derniere_verification": "2026-10-19T10:42:12.979Z",
+    "echecs": 75,
     "url_detectee": null
   },
   "suggestion": {
@@ -115,11 +115,16 @@
     "tentatives": 0,
     "date_email": "2026-09-01"
   },
-  "retrait": null,
+  "retrait": {
+    "mode": "410",
+    "cible": null,
+    "date": "2026-10-19",
+    "motif": "backlink jamais posé après 48 jours de délai de grâce"
+  },
   "dates": {
     "collecte": "2026-09-01",
     "publication": "2026-09-01",
-    "maj": "2026-10-18"
+    "maj": "2026-10-19"
   },
   "source": "google-places",
   "redaction": {
@@ -127,14 +132,25 @@
     "titre": "Communauté Emmaüs 54 — Mode et équipement de la maison à Vandœuvre-lès-Nancy",
     "meta_titre": "Communauté Emmaüs 54 à Vandœuvre-lès-Nancy : horaires, avis",
     "meta_description": "Communauté Emmaüs 54, mode et équipement de la maison à Vandœuvre-lès-Nancy : horaires d'ouverture, téléphone, adresse et itinéraire.",
-    "chapo": "Communauté Emmaüs 54, mode et équipement de la maison au 32 Rue du 8E Régiment d'Artillerie, à Vandœuvre-lès-Nancy. Fermé le lundi, le jeudi et le dimanche au relevé du 18 octobre 2026. Téléphone : 03 83 29 76 79. Note Google : 3,8 sur 5 pour 1213 avis.",
+    "chapo": "Communauté Emmaüs 54, mode et équipement de la maison au 32 Rue du 8E Régiment d'Artillerie, à Vandœuvre-lès-Nancy. Fermé le lundi, le jeudi et le dimanche au relevé du 19 octobre 2026. Téléphone : 03 83 29 76 79. Note Google : 3,8 sur 5 pour 1217 avis.",
     "sections": [
       {
         "id": "presentation",
         "titre": "Communauté Emmaüs 54 en quelques mots",
         "paragraphes": [
           "Sur Google, l'établissement est classé « Magasin d'ameublement et de décoration », dans notre rubrique Mode et équipement de la maison.",
-          "D'après le relevé du 18 octobre 2026, l'établissement est fermé le lundi, le jeudi et le dimanche. Le détail jour par jour figure plus bas."
+          "D'après le relevé du 19 octobre 2026, l'établissement est fermé le lundi, le jeudi et le dimanche. Le détail jour par jour figure plus bas."
+        ]
+      },
+      {
+        "id": "prestations",
+        "titre": "Services et équipements de Communauté Emmaüs 54",
+        "paragraphes": [
+          "Proposé : livraison.",
+          "Non proposé selon la fiche Google : retrait en voiture.",
+          "Moyens de paiement déclarés : carte bancaire, carte de débit et paiement sans contact.",
+          "Stationnement : parking gratuit et stationnement gratuit dans la rue.",
+          "Ces indications sont déclarées par l'établissement sur sa fiche Google (relevé du 19 octobre 2026)."
         ]
       },
       {
@@ -156,18 +172,18 @@
         "id": "avis",
         "titre": "La réputation de Communauté Emmaüs 54",
         "paragraphes": [
-          "Note de 3,8 sur 5 pour 1213 avis Google au relevé du 18 octobre 2026. Les avis se consultent sur la fiche Google, dont le lien figure sur cette page."
+          "Note de 3,8 sur 5 pour 1217 avis Google au relevé du 19 octobre 2026. Les avis les plus parlants sont compilés ci-dessous, avec un lien vers la fiche d'origine."
         ]
       }
     ],
     "faq": [
       {
         "q": "Quels sont les horaires de Communauté Emmaüs 54 ?",
-        "r": "Au relevé du 18 octobre 2026, Communauté Emmaüs 54 était fermé le lundi, le jeudi et le dimanche. Dans le détail — lundi : fermé ; mardi : de 13 h 30 à 17 h 30 ; mercredi : de 10 h à 12 h et de 13 h 30 à 17 h 30 ; jeudi : fermé ; vendredi : de 10 h à 12 h et de 13 h 30 à 17 h 30 ; samedi : de 10 h à 17 h 30 ; dimanche : fermé. Ces horaires peuvent changer : un appel préalable reste conseillé."
+        "r": "Au relevé du 19 octobre 2026, Communauté Emmaüs 54 était fermé le lundi, le jeudi et le dimanche. Dans le détail — lundi : fermé ; mardi : de 13 h 30 à 17 h 30 ; mercredi : de 10 h à 12 h et de 13 h 30 à 17 h 30 ; jeudi : fermé ; vendredi : de 10 h à 12 h et de 13 h 30 à 17 h 30 ; samedi : de 10 h à 17 h 30 ; dimanche : fermé. Ces horaires peuvent changer : un appel préalable reste conseillé."
       },
       {
         "q": "Communauté Emmaüs 54 est-il ouvert le dimanche ?",
-        "r": "Non : d'après les horaires relevés le 18 octobre 2026, Communauté Emmaüs 54 est fermé le dimanche."
+        "r": "Non : d'après les horaires relevés le 19 octobre 2026, Communauté Emmaüs 54 est fermé le dimanche."
       },
       {
         "q": "Où se trouve Communauté Emmaüs 54 ?",
@@ -178,11 +194,15 @@
         "r": "Par téléphone au 03 83 29 76 79, ou directement sur place aux heures d'ouverture."
       },
       {
+        "q": "Communauté Emmaüs 54 propose-t-il la vente à emporter ou la livraison ?",
+        "r": "D'après sa fiche Google (relevé du 19 octobre 2026) — livraison : oui."
+      },
+      {
         "q": "Communauté Emmaüs 54 est-il accessible aux personnes à mobilité réduite ?",
         "r": "La fiche Google de l'établissement mentionne : « Entrée accessible en fauteuil roulant ». Cette information est déclarative ; en cas de doute, vérifiez par téléphone."
       }
     ],
-    "genere_le": "2026-10-18"
+    "genere_le": "2026-10-19"
   },
   "statut_google": "OPERATIONAL",
   "audience": {
@@ -193,7 +213,7 @@
     "clicsRecents": 0,
     "fenetreRecenteJours": 28,
     "source": "search-console",
-    "date": "2026-10-18"
+    "date": "2026-10-19"
   },
   "indexation": {
     "etat": "non-indexee",
@@ -202,6 +222,72 @@
     "derniere_exploration": null,
     "canonique_google": null,
     "source": "inspection",
-    "date": "2026-10-18"
+    "date": "2026-10-19"
+  },
+  "avis_detail": {
+    "releve": "2026-10-19",
+    "liste": [
+      {
+        "note": 3,
+        "texte": "Une équipe accueillante qui répond aux éventuelles questions.\n\nUn grand choix permettant de faire des trouvailles qui aident au quotidien.\n\nLes prix sont raisonnables et c'est appréciable lorsqu'on a peu de budget.\n\n...par contre, c'est vraiment la première fois dans un Emmaüs, que je vois les objets/utilitaires des parties Hifi et Électroménagers, pas tous réparés et parfois vendus avec des pièces manquantes et/ou défectueuses (ce qui fut le cas pour moi)\n... et même à petits prix, je trouve ça vraiment moyens,\ncar c'est de l'argent perdu et encore plus lorsqu'on ne peut pas revenir (par manque de solutions de transport venant de plus loin _ Gérardmer).\n\nUn très grand choix permet de se faire plaisir ou d'offrir de belles et/ou utiles choses.\n\nMerci du bon moment passé.\nBonne continuation à toute l'équipe.",
+        "langue": "fr",
+        "date": "2026-07-01",
+        "auteur": "Cloe Perrotin",
+        "auteur_lien": "https://www.google.com/maps/contrib/102553690100091341457/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25WRWRXeG1aVGhUTFhRM1ozQXdWa1V4WWxaSFYzYxAB!2m1!1s0x4794988b634f4277:0x5f0b80e257a2eeda"
+      },
+      {
+        "note": 1,
+        "texte": "Personnellement, je ne vais plus à l'Emmaus de Vandoeuvre : les prix sont trop cher (quand ils sont affichés) et le personnel peu sympathique. Je préfère regarder sur le bon coin, en meilleur état à moins cher. Je me rends aussi quelques fois à l'Emmaüs de Fraize, dans les Vosges, où la différence est impressionnante : des prix tout à fait corrects et des gens sympathiques. Rien à voir.",
+        "langue": "fr",
+        "date": "2026-06-25",
+        "auteur": "Thérèse Courtois",
+        "auteur_lien": "https://www.google.com/maps/contrib/114257783922777550762/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2w5cGNrVTRVaTB5VDBrelMxTlBXSFJOY21WVU9IYxAB!2m1!1s0x4794988b634f4277:0x5f0b80e257a2eeda"
+      },
+      {
+        "note": 1,
+        "texte": "C'est pas une blague.\nMeuble soit disant neuf ( mon œil)\nRepeint grossièrement pour la modique somme de 410 euros 😭\nAllez chez but vous ferez des économies.\nC'est vraiment lamentable et surtout décevant.",
+        "langue": "fr",
+        "date": "2026-05-15",
+        "auteur": "Much Blanchard",
+        "auteur_lien": "https://www.google.com/maps/contrib/112402665152624858290/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xKSWRuZGhSV0ZmZUhwUmJWa3lNM3BVU0hwcGNVRRAB!2m1!1s0x4794988b634f4277:0x5f0b80e257a2eeda"
+      },
+      {
+        "note": 2,
+        "texte": "Bonsoir,\nÉtant une cliente ma foi plutôt régulière de cet Emmaüs, je tiens à partager mon point de vue sur la cible de nombreuses critiques au sein de cette section commentaires, j'ai nommé : la bénévole du rayon vêtements. Je tiens à statuer que tout le monde a raison et qu'elle est acide comme un citron. Une porte de prison est bien plus accueillante. Et bien moins chère, vu les prix imposés.",
+        "langue": "fr",
+        "date": "2026-04-12",
+        "auteur": "sytra backup",
+        "auteur_lien": "https://www.google.com/maps/contrib/108941872365596749590/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2sxd1FXUmlhbWR0WlVOT1FYZEJhSEZoU0dka01IYxAB!2m1!1s0x4794988b634f4277:0x5f0b80e257a2eeda"
+      },
+      {
+        "note": 2,
+        "texte": "Ça fait maintenant 2 ans que je visite ce Emmaus et je rejoins beaucoup d’avis sur un sujet précisément : l’augmentation abusive des prix.\nHier j’ai pu voir une armoire (ou ce qui y ressemble) affichée 550€. L’armoire n’était pas parfaite : rayures, peinture clairement pas d’origine et qui s’effritait à certains endroits, poignées manquantes (elle était fermée avec une corde). Quelques mètres plus loin un buffet blanc cassé, qui ne montrait effectivement pas de défauts apparents, affiché 1000€. Du côté des canapés et armoires, et même de la vaisselle, le même carnage, des prix tout aussi poussés (un vase crade proposé 15€). Le pire, c’est qu’on peut trouver des équivalents EN DON sur Leboncoin.\nQuand on sait que ces meubles sont donnés et que les gens y travaillant sont des bénévoles (donc pas de frais de salariat), il est légitime de se demander si ces prix augmentés et dopés sont encore représentatifs de la doctrine d’emmaus qui, pour rappel, est là pour vendre aux plus démunis et donnés à ces mêmes personnes.\nDe la même manière, c’est bien beau d’afficher quelque chose à 1000€, mais si il n’est jamais vendu et qu’il reste là à attendre, c’est qu’il ne les vaut pas.\nOn en vient donc à un effet qui m’a sauté aux yeux : l’entrepôt est plein à craquer d’à peu près tout ce que l’on peut chercher, mais la demande est moindre.\n\nPour conclure, si tant de personnes vous remontent que les prix sont abusifs, il faudrait peut être se poser la question de les modifier. Personnellement jusque maintenant j’aimais y aller pour payer moins cher, acheter de la seconde main au profit du neuf et surtout fournir de l’argent à emmaus. Maintenant, j’y vais de moins en moins et préfère leboncoin ou des brocantes directement.",
+        "langue": "fr",
+        "date": "2026-03-01",
+        "auteur": "Océane Blgr",
+        "auteur_lien": "https://www.google.com/maps/contrib/114860873845137463578/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xCUGVEaFBOV3BLTkdaNVdsQmllV1IxYUVOdVJrRRAB!2m1!1s0x4794988b634f4277:0x5f0b80e257a2eeda"
+      }
+    ]
+  },
+  "services": {
+    "releve": "2026-10-19",
+    "options": {
+      "delivery": true,
+      "curbsidePickup": false
+    },
+    "paiement": [
+      "carte bancaire",
+      "carte de débit",
+      "paiement sans contact"
+    ],
+    "parking": [
+      "parking gratuit",
+      "stationnement gratuit dans la rue"
+    ]
   }
 }

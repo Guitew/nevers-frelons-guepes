@@ -102,8 +102,8 @@
     "etat": "absent",
     "premiere_detection": null,
     "derniere_detection": null,
-    "derniere_verification": "2026-10-09T16:58:32.124Z",
-    "echecs": 70,
+    "derniere_verification": "2026-10-19T10:42:12.979Z",
+    "echecs": 71,
     "url_detectee": null
   },
   "suggestion": {
@@ -123,7 +123,7 @@
   "dates": {
     "collecte": "2026-09-02",
     "publication": "2026-09-02",
-    "maj": "2026-10-18"
+    "maj": "2026-10-19"
   },
   "source": "google-places",
   "redaction": {
@@ -131,14 +131,22 @@
     "titre": "Delisle - ANTOINE EST — Transport et déménagement à Courlaoux",
     "meta_titre": "Delisle - ANTOINE EST à Courlaoux : horaires, avis",
     "meta_description": "Delisle - ANTOINE EST, transport et déménagement à Courlaoux : horaires d'ouverture, note Google 4,3/5 (47 avis), téléphone, adresse et itinéraire.",
-    "chapo": "Delisle - ANTOINE EST exerce l'activité de transport et déménagement à Courlaoux. Fermé le samedi et le dimanche au relevé du 18 octobre 2026. Téléphone : 03 84 25 17 17. Note Google : 4,3 sur 5 pour 47 avis.",
+    "chapo": "Delisle - ANTOINE EST exerce l'activité de transport et déménagement à Courlaoux. Fermé le samedi et le dimanche au relevé du 19 octobre 2026. Téléphone : 03 84 25 17 17. Note Google : 4,3 sur 5 pour 47 avis.",
     "sections": [
       {
         "id": "presentation",
         "titre": "Delisle - ANTOINE EST en quelques mots",
         "paragraphes": [
           "Sur Google, l'établissement est classé « Entreprise de déménagement », dans notre rubrique Transport et déménagement.",
-          "D'après le relevé du 18 octobre 2026, l'établissement est fermé le samedi et le dimanche. Le détail jour par jour figure plus bas."
+          "D'après le relevé du 19 octobre 2026, l'établissement est fermé le samedi et le dimanche. Le détail jour par jour figure plus bas."
+        ]
+      },
+      {
+        "id": "prestations",
+        "titre": "Services et équipements de Delisle - ANTOINE EST",
+        "paragraphes": [
+          "Proposé : toilettes.",
+          "Ces indications sont déclarées par l'établissement sur sa fiche Google (relevé du 19 octobre 2026)."
         ]
       },
       {
@@ -160,18 +168,18 @@
         "id": "avis",
         "titre": "La réputation de Delisle - ANTOINE EST",
         "paragraphes": [
-          "Note de 4,3 sur 5 pour 47 avis Google au relevé du 18 octobre 2026. Les avis se consultent sur la fiche Google, dont le lien figure sur cette page."
+          "Note de 4,3 sur 5 pour 47 avis Google au relevé du 19 octobre 2026. Les avis les plus parlants sont compilés ci-dessous, avec un lien vers la fiche d'origine."
         ]
       }
     ],
     "faq": [
       {
         "q": "Quels sont les horaires de Delisle - ANTOINE EST ?",
-        "r": "Au relevé du 18 octobre 2026, Delisle - ANTOINE EST était fermé le samedi et le dimanche. Dans le détail — lundi : de 8 h à 18 h ; mardi : de 8 h à 18 h ; mercredi : de 8 h à 18 h ; jeudi : de 8 h à 18 h ; vendredi : de 8 h à 18 h ; samedi : fermé ; dimanche : fermé. Ces horaires peuvent changer : un appel préalable reste conseillé."
+        "r": "Au relevé du 19 octobre 2026, Delisle - ANTOINE EST était fermé le samedi et le dimanche. Dans le détail — lundi : de 8 h à 18 h ; mardi : de 8 h à 18 h ; mercredi : de 8 h à 18 h ; jeudi : de 8 h à 18 h ; vendredi : de 8 h à 18 h ; samedi : fermé ; dimanche : fermé. Ces horaires peuvent changer : un appel préalable reste conseillé."
       },
       {
         "q": "Delisle - ANTOINE EST est-il ouvert le dimanche ?",
-        "r": "Non : d'après les horaires relevés le 18 octobre 2026, Delisle - ANTOINE EST est fermé le dimanche."
+        "r": "Non : d'après les horaires relevés le 19 octobre 2026, Delisle - ANTOINE EST est fermé le dimanche."
       },
       {
         "q": "Où se trouve Delisle - ANTOINE EST ?",
@@ -186,7 +194,7 @@
         "r": "La fiche Google de l'établissement mentionne : « Parking accessible en fauteuil roulant ». Cette information est déclarative ; en cas de doute, vérifiez par téléphone."
       }
     ],
-    "genere_le": "2026-10-18"
+    "genere_le": "2026-10-19"
   },
   "statut_google": "OPERATIONAL",
   "audience": {
@@ -197,7 +205,7 @@
     "clicsRecents": 0,
     "fenetreRecenteJours": 28,
     "source": "search-console",
-    "date": "2026-10-18"
+    "date": "2026-10-19"
   },
   "indexation": {
     "etat": "non-indexee",
@@ -207,5 +215,63 @@
     "canonique_google": null,
     "source": "inspection",
     "date": "2026-10-18"
+  },
+  "avis_detail": {
+    "releve": "2026-10-19",
+    "liste": [
+      {
+        "note": 4,
+        "texte": "Bonjour.\nPas grand-chose à reprocher. Les douches et les toilettes sont propres. Le personnel plutôt agréable assez poli. Et le personnel.\nLaveur.\nEt ateliers.\nAssez serviable.",
+        "langue": "fr",
+        "date": "2026-06-25",
+        "auteur": "Franck De Saint Martin",
+        "auteur_lien": "https://www.google.com/maps/contrib/107923767287050682518/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2tGMmVVaDBUM2xOWWxGSVRsZDRVRVZHY2taVGFXYxAB!2m1!1s0x478cd5e848d86987:0x8a38431b0f3cc9c9"
+      },
+      {
+        "note": 5,
+        "texte": "Super dépôt Antoine est très propre c'est agréable",
+        "langue": "fr",
+        "date": "2025-05-08",
+        "auteur": "Nicolas Carabin",
+        "auteur_lien": "https://www.google.com/maps/contrib/116835986724235172687/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VKR2tpcnpldkxINEVBEAE!2m1!1s0x478cd5e848d86987:0x8a38431b0f3cc9c9"
+      },
+      {
+        "note": 5,
+        "texte": "Personnel très accueillant et qui vous explique tout pour laver la semi.\nAu top",
+        "langue": "fr",
+        "date": "2024-01-15",
+        "auteur": "Gilles MONSINJON",
+        "auteur_lien": "https://www.google.com/maps/contrib/107945039992274854020/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUNOMmR5RXRRRRAB!2m1!1s0x478cd5e848d86987:0x8a38431b0f3cc9c9"
+      },
+      {
+        "note": 2,
+        "texte": "C'est un site industriel qui sert de station de lavage pour poids lourds",
+        "langue": "fr",
+        "date": "2023-03-14",
+        "auteur": "Victor Viegas",
+        "auteur_lien": "https://www.google.com/maps/contrib/111221891907925439465/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSURLb29QZVlBEAE!2m1!1s0x478cd5e848d86987:0x8a38431b0f3cc9c9"
+      },
+      {
+        "note": 5,
+        "texte": "Lavage à 18h le soir c’est rare mais en plus de sa un parc propre refait à neuf goudronné piste de lavage au top personnel au top\nJe vous conseil fortement",
+        "langue": "fr",
+        "date": "2017-11-01",
+        "auteur": "thomas chapman",
+        "auteur_lien": "https://www.google.com/maps/contrib/103984816712159269858/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUNBczZ6Njh3RRAB!2m1!1s0x478cd5e848d86987:0x8a38431b0f3cc9c9"
+      }
+    ]
+  },
+  "services": {
+    "releve": "2026-10-19",
+    "options": {
+      "restroom": true
+    },
+    "paiement": [],
+    "parking": []
   }
 }

@@ -29,7 +29,7 @@
     "longitude": 3.1501758
   },
   "note": 4.3,
-  "avis": 46,
+  "avis": 48,
   "horaires": [
     {
       "jour": 0,
@@ -105,35 +105,48 @@
   "attributs": [],
   "lien_google": "https://maps.google.com/?cid=3234412841226695482&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
   "site_web_gmb": null,
-  "statut": "publiee",
+  "statut": "retiree",
   "backlink": {
     "etat": "absent",
     "premiere_detection": null,
     "derniere_detection": null,
-    "derniere_verification": "2026-10-09T16:58:32.124Z",
-    "echecs": 73,
+    "derniere_verification": "2026-10-19T10:42:12.979Z",
+    "echecs": 74,
     "url_detectee": null
   },
-  "retrait": null,
+  "retrait": {
+    "mode": "410",
+    "cible": null,
+    "date": "2026-10-19",
+    "motif": "backlink jamais posé après 50 jours de délai de grâce"
+  },
   "dates": {
     "collecte": "2026-08-30",
     "publication": "2026-08-30",
-    "maj": "2026-10-18"
+    "maj": "2026-10-19"
   },
   "source": "google-places",
   "redaction": {
     "version": 2,
     "titre": "Epicerie Du Gaspard — Commerce d'alimentation à Nevers",
     "meta_titre": "Epicerie Du Gaspard à Nevers : horaires, avis, téléphone",
-    "meta_description": "Epicerie Du Gaspard, commerce d'alimentation à Nevers : horaires d'ouverture, note Google 4,3/5 (46 avis), téléphone, adresse et itinéraire.",
-    "chapo": "Epicerie Du Gaspard exerce l'activité de commerce d'alimentation au 10 Rue Pierre Emile Gaspard, à Nevers. Ouvert sept jours sur sept au relevé du 18 octobre 2026. Téléphone : 06 99 71 45 85. Note Google : 4,3 sur 5 pour 46 avis.",
+    "meta_description": "Epicerie Du Gaspard, commerce d'alimentation à Nevers : horaires d'ouverture, note Google 4,3/5 (48 avis), téléphone, adresse et itinéraire.",
+    "chapo": "Epicerie Du Gaspard exerce l'activité de commerce d'alimentation au 10 Rue Pierre Emile Gaspard, à Nevers. Ouvert sept jours sur sept au relevé du 19 octobre 2026. Téléphone : 06 99 71 45 85. Note Google : 4,3 sur 5 pour 48 avis.",
     "sections": [
       {
         "id": "presentation",
         "titre": "Epicerie Du Gaspard en quelques mots",
         "paragraphes": [
           "Sur Google, l'établissement est classé « Épicerie », dans notre rubrique Commerce d'alimentation.",
-          "D'après le relevé du 18 octobre 2026, l'établissement est ouvert sept jours sur sept. Le détail jour par jour figure plus bas."
+          "D'après le relevé du 19 octobre 2026, l'établissement est ouvert sept jours sur sept. Le détail jour par jour figure plus bas."
+        ]
+      },
+      {
+        "id": "prestations",
+        "titre": "Services et équipements de Epicerie Du Gaspard",
+        "paragraphes": [
+          "Moyens de paiement déclarés : carte bancaire, carte de débit et paiement sans contact.",
+          "Ces indications sont déclarées par l'établissement sur sa fiche Google (relevé du 19 octobre 2026)."
         ]
       },
       {
@@ -155,18 +168,18 @@
         "id": "avis",
         "titre": "La réputation de Epicerie Du Gaspard",
         "paragraphes": [
-          "Note de 4,3 sur 5 pour 46 avis Google au relevé du 18 octobre 2026. Les avis se consultent sur la fiche Google, dont le lien figure sur cette page."
+          "Note de 4,3 sur 5 pour 48 avis Google au relevé du 19 octobre 2026. Les avis les plus parlants sont compilés ci-dessous, avec un lien vers la fiche d'origine."
         ]
       }
     ],
     "faq": [
       {
         "q": "Quels sont les horaires de Epicerie Du Gaspard ?",
-        "r": "Au relevé du 18 octobre 2026, Epicerie Du Gaspard était ouvert sept jours sur sept. Dans le détail — lundi : de 10 h à 0 h ; mardi : de 10 h à 0 h ; mercredi : de 10 h à 0 h ; jeudi : de 10 h à 0 h ; vendredi : de 10 h à 0 h ; samedi : de 10 h à 0 h ; dimanche : de 10 h à 0 h. Ces horaires peuvent changer : un appel préalable reste conseillé."
+        "r": "Au relevé du 19 octobre 2026, Epicerie Du Gaspard était ouvert sept jours sur sept. Dans le détail — lundi : de 10 h à 0 h ; mardi : de 10 h à 0 h ; mercredi : de 10 h à 0 h ; jeudi : de 10 h à 0 h ; vendredi : de 10 h à 0 h ; samedi : de 10 h à 0 h ; dimanche : de 10 h à 0 h. Ces horaires peuvent changer : un appel préalable reste conseillé."
       },
       {
         "q": "Epicerie Du Gaspard est-il ouvert le dimanche ?",
-        "r": "Oui : le dimanche, Epicerie Du Gaspard est ouvert de 10 h à 0 h (horaires relevés le 18 octobre 2026)."
+        "r": "Oui : le dimanche, Epicerie Du Gaspard est ouvert de 10 h à 0 h (horaires relevés le 19 octobre 2026)."
       },
       {
         "q": "Où se trouve Epicerie Du Gaspard ?",
@@ -177,7 +190,7 @@
         "r": "Par téléphone au 06 99 71 45 85, ou directement sur place aux heures d'ouverture."
       }
     ],
-    "genere_le": "2026-10-18"
+    "genere_le": "2026-10-19"
   },
   "suggestion": {
     "etat": "en-attente",
@@ -194,7 +207,7 @@
     "clicsRecents": 0,
     "fenetreRecenteJours": 28,
     "source": "search-console",
-    "date": "2026-10-18"
+    "date": "2026-10-19"
   },
   "indexation": {
     "etat": "non-indexee",
@@ -203,6 +216,66 @@
     "derniere_exploration": null,
     "canonique_google": null,
     "source": "inspection",
-    "date": "2026-10-14"
+    "date": "2026-10-19"
+  },
+  "avis_detail": {
+    "releve": "2026-10-19",
+    "liste": [
+      {
+        "note": 5,
+        "texte": "On trouve de tout super épicerie, un accueil au top !",
+        "langue": "fr",
+        "date": "2026-09-04",
+        "auteur": "lenny christopher",
+        "auteur_lien": "https://www.google.com/maps/contrib/100917692696527616171/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25aUWFqRTFjRzlwVmxVM1FubE9UamhQTlVGNWVWRRAB!2m1!1s0x47f0458887034ccf:0x2ce2f157aa47733a"
+      },
+      {
+        "note": 5,
+        "texte": "Super bien surtout quand t'oublie un truc en course et qu'il est 21h. Très bonne épicerie bonne accueil",
+        "langue": "fr",
+        "date": "2023-08-28",
+        "auteur": "Angelique Courty",
+        "auteur_lien": "https://www.google.com/maps/contrib/116557234784437537675/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSURwazlhRVRBEAE!2m1!1s0x47f0458887034ccf:0x2ce2f157aa47733a"
+      },
+      {
+        "note": 5,
+        "texte": "Une équipe dynamique et serviable\nUn éventail de produits qui répond à tous les besoins. Des horaires avantageux car ouverts jusqu’à très tard et tous les jours, du lundi au dimanche.\nLe petit plus : le café servi est délicieux et bon marché\nJe recommande",
+        "langue": "fr",
+        "date": "2021-07-28",
+        "auteur": "Nicolas HARBUZINSKI",
+        "auteur_lien": "https://www.google.com/maps/contrib/117264411482186175458/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUNhcXFmOWlRRRAB!2m1!1s0x47f0458887034ccf:0x2ce2f157aa47733a"
+      },
+      {
+        "note": 4,
+        "texte": "Amabilité est de rigueur, la qualité des produits est aussi rigoureuses, la proximité en fait un endroit suffisamment accessible et de bons services.",
+        "langue": "fr",
+        "date": "2019-09-11",
+        "auteur": "DidierJCR Joliveau",
+        "auteur_lien": "https://www.google.com/maps/contrib/112951700555718461727/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUMwa09IeGN3EAE!2m1!1s0x47f0458887034ccf:0x2ce2f157aa47733a"
+      },
+      {
+        "note": 1,
+        "texte": "Attention si vous payez en CB vérifier bien votre ticket, la dernière fois il m'a prélevé 30e au lieu de 22.50,!!! Et quand tu lui dis il fait comme s'il comprenait pas, tkt pas qu'il comprends très bien papy, ne donnent pas de reçus facture non plus, drôle d'affaire, si vous pouvez éviter d'y mettre les pieds faite le!",
+        "langue": "fr",
+        "date": "2019-04-02",
+        "auteur": "Jess IKA",
+        "auteur_lien": "https://www.google.com/maps/contrib/105244644431966047376/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUNZLUlPam1BRRAB!2m1!1s0x47f0458887034ccf:0x2ce2f157aa47733a"
+      }
+    ]
+  },
+  "services": {
+    "releve": "2026-10-19",
+    "options": {},
+    "paiement": [
+      "carte bancaire",
+      "carte de débit",
+      "paiement sans contact"
+    ],
+    "parking": []
   }
 }

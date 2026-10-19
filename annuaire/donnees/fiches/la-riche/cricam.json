@@ -124,8 +124,8 @@
     "etat": "absent",
     "premiere_detection": null,
     "derniere_detection": null,
-    "derniere_verification": "2026-10-09T16:58:32.124Z",
-    "echecs": 27,
+    "derniere_verification": "2026-10-19T10:42:12.979Z",
+    "echecs": 28,
     "url_detectee": null
   },
   "suggestion": {
@@ -138,7 +138,7 @@
   "dates": {
     "collecte": "2026-09-23",
     "publication": "2026-09-23",
-    "maj": "2026-10-09"
+    "maj": "2026-10-19"
   },
   "source": "google-places",
   "redaction": {
@@ -146,14 +146,25 @@
     "titre": "Cricam — Garage et automobile à La Riche",
     "meta_titre": "Cricam à La Riche : horaires, avis, téléphone",
     "meta_description": "Cricam, garage et automobile à La Riche : horaires d'ouverture, note Google 4,5/5 (206 avis), téléphone, adresse et itinéraire.",
-    "chapo": "Cricam, garage et automobile au 7 Rue du Petit Plessis, à La Riche. Fermé le samedi et le dimanche au relevé du 9 octobre 2026. Téléphone : 02 47 37 37 61. Note Google : 4,5 sur 5 pour 206 avis.",
+    "chapo": "Cricam, garage et automobile au 7 Rue du Petit Plessis, à La Riche. Fermé le samedi et le dimanche au relevé du 19 octobre 2026. Téléphone : 02 47 37 37 61. Note Google : 4,5 sur 5 pour 206 avis.",
     "sections": [
       {
         "id": "presentation",
         "titre": "Cricam en quelques mots",
         "paragraphes": [
           "Sur Google, l'établissement est classé « Magasin de pièces de rechange automobiles », dans notre rubrique Garage et automobile.",
-          "D'après le relevé du 9 octobre 2026, l'établissement est fermé le samedi et le dimanche. Le détail jour par jour figure plus bas."
+          "D'après le relevé du 19 octobre 2026, l'établissement est fermé le samedi et le dimanche. Le détail jour par jour figure plus bas."
+        ]
+      },
+      {
+        "id": "prestations",
+        "titre": "Services et équipements de Cricam",
+        "paragraphes": [
+          "Proposé : livraison.",
+          "Non proposé selon la fiche Google : retrait en voiture.",
+          "Moyens de paiement déclarés : carte bancaire, carte de débit et paiement sans contact.",
+          "Stationnement : parking gratuit et stationnement gratuit dans la rue.",
+          "Ces indications sont déclarées par l'établissement sur sa fiche Google (relevé du 19 octobre 2026)."
         ]
       },
       {
@@ -175,18 +186,18 @@
         "id": "avis",
         "titre": "La réputation de Cricam",
         "paragraphes": [
-          "Note de 4,5 sur 5 pour 206 avis Google au relevé du 9 octobre 2026. Les avis se consultent sur la fiche Google, dont le lien figure sur cette page."
+          "Note de 4,5 sur 5 pour 206 avis Google au relevé du 19 octobre 2026. Les avis les plus parlants sont compilés ci-dessous, avec un lien vers la fiche d'origine."
         ]
       }
     ],
     "faq": [
       {
         "q": "Quels sont les horaires de Cricam ?",
-        "r": "Au relevé du 9 octobre 2026, Cricam était fermé le samedi et le dimanche. Dans le détail — lundi : de 9 h à 12 h 30 et de 14 h à 18 h 30 ; mardi : de 9 h à 12 h 30 et de 14 h à 18 h 30 ; mercredi : de 9 h à 12 h 30 et de 14 h à 18 h 30 ; jeudi : de 9 h à 12 h 30 et de 14 h à 18 h 30 ; vendredi : de 9 h à 12 h 30 et de 14 h à 18 h 30 ; samedi : fermé ; dimanche : fermé. Ces horaires peuvent changer : un appel préalable reste conseillé."
+        "r": "Au relevé du 19 octobre 2026, Cricam était fermé le samedi et le dimanche. Dans le détail — lundi : de 9 h à 12 h 30 et de 14 h à 18 h 30 ; mardi : de 9 h à 12 h 30 et de 14 h à 18 h 30 ; mercredi : de 9 h à 12 h 30 et de 14 h à 18 h 30 ; jeudi : de 9 h à 12 h 30 et de 14 h à 18 h 30 ; vendredi : de 9 h à 12 h 30 et de 14 h à 18 h 30 ; samedi : fermé ; dimanche : fermé. Ces horaires peuvent changer : un appel préalable reste conseillé."
       },
       {
         "q": "Cricam est-il ouvert le dimanche ?",
-        "r": "Non : d'après les horaires relevés le 9 octobre 2026, Cricam est fermé le dimanche."
+        "r": "Non : d'après les horaires relevés le 19 octobre 2026, Cricam est fermé le dimanche."
       },
       {
         "q": "Où se trouve Cricam ?",
@@ -197,11 +208,15 @@
         "r": "Par téléphone au 02 47 37 37 61, ou directement sur place aux heures d'ouverture."
       },
       {
+        "q": "Cricam propose-t-il la vente à emporter ou la livraison ?",
+        "r": "D'après sa fiche Google (relevé du 19 octobre 2026) — livraison : oui."
+      },
+      {
         "q": "Cricam est-il accessible aux personnes à mobilité réduite ?",
         "r": "La fiche Google de l'établissement mentionne : « Entrée accessible en fauteuil roulant ». Cette information est déclarative ; en cas de doute, vérifiez par téléphone."
       }
     ],
-    "genere_le": "2026-10-09"
+    "genere_le": "2026-10-19"
   },
   "statut_google": "OPERATIONAL",
   "audience": {
@@ -212,6 +227,72 @@
     "clicsRecents": 0,
     "fenetreRecenteJours": 28,
     "source": "search-console",
-    "date": "2026-10-18"
+    "date": "2026-10-19"
+  },
+  "avis_detail": {
+    "releve": "2026-10-19",
+    "liste": [
+      {
+        "note": 5,
+        "texte": "Client depuis peu pour le véhicule de mon fils . Très satisfait des réparations effectuées et des conseils apportés. Je recommande  ce professionnel .",
+        "langue": "fr",
+        "date": "2026-06-01",
+        "auteur": "ludo",
+        "auteur_lien": "https://www.google.com/maps/contrib/101827117351383510602/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2tSSmNHZFRSbHB3VEZkd1FUZ3dSVUUyWDBkRlFVRRAB!2m1!1s0x47fcd5f61e3b7e53:0x9c918cec95db3089"
+      },
+      {
+        "note": 5,
+        "texte": "Parfait. Très bon travail, soigné et sérieux. Accueil sympa, personnel à l'écoute. Je recommande vivement",
+        "langue": "fr",
+        "date": "2026-03-25",
+        "auteur": "V Paré",
+        "auteur_lien": "https://www.google.com/maps/contrib/116827848422761983888/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25oV1lYazFOVTUwVUZaalRWa3lVVWRaTUc5VlZsRRAB!2m1!1s0x47fcd5f61e3b7e53:0x9c918cec95db3089"
+      },
+      {
+        "note": 5,
+        "texte": "Cliente régulière avec mon père aussi et toujours aussi satisfaite ! Un garagiste honnête, professionnel et fiable. Les explications sont claires, les tarifs transparents et le travail est toujours bien fait. L’accueil est agréable et les délais sont respectés. C’est rassurant de pouvoir confier sa voiture à quelqu’un de sérieux, en toute confiance. Je recommande sans hésiter !",
+        "langue": "fr",
+        "date": "2026-01-27",
+        "auteur": "Éloïse Thiébault",
+        "auteur_lien": "https://www.google.com/maps/contrib/102421028588365137057/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2s5aVRGSktZbXBHYVZsa1FUWmhVM2RRVmxsT2JYYxAB!2m1!1s0x47fcd5f61e3b7e53:0x9c918cec95db3089"
+      },
+      {
+        "note": 5,
+        "texte": "Excellent rapport qualité prix que ce soit pour les pièces ou les prestations en atelier, petit + remise d'un protège moteur sans supplément merci encore pour votre gentillesse, toujours de très bons conseils et très professionnel, client depuis plusieurs années. Jamais été déçu\nL'équipe est toujours très sympa !",
+        "langue": "fr",
+        "date": "2026-01-02",
+        "auteur": "Filipe Filoups",
+        "auteur_lien": "https://www.google.com/maps/contrib/106542521333182853977/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2sxT1MxY3dWM05tYUhOd1lXOTRRVUpMWlhodldrRRAB!2m1!1s0x47fcd5f61e3b7e53:0x9c918cec95db3089"
+      },
+      {
+        "note": 5,
+        "texte": "Equipe très professionnelle vraiment.\nCe magasin m'a été conseillé par mon mécano et je ne le regrette pas.\nFacilité de paiement possible.\nPrix très abordables.\nBeaucoup de pièces disponibles de suite ou sur commande le lendemain.\nMerci pour votre bonne humeur.",
+        "langue": "fr",
+        "date": "2025-09-25",
+        "auteur": "Smith Marie",
+        "auteur_lien": "https://www.google.com/maps/contrib/110798211805221682669/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2prNGFrUkhjVVl3T1ZOTVZYSkNWR2wwVlZSSFZrRRAB!2m1!1s0x47fcd5f61e3b7e53:0x9c918cec95db3089"
+      }
+    ]
+  },
+  "services": {
+    "releve": "2026-10-19",
+    "options": {
+      "delivery": true,
+      "curbsidePickup": false
+    },
+    "paiement": [
+      "carte bancaire",
+      "carte de débit",
+      "paiement sans contact"
+    ],
+    "parking": [
+      "parking gratuit",
+      "stationnement gratuit dans la rue"
+    ]
   }
 }

@@ -27,7 +27,7 @@
     "longitude": 7.273492
   },
   "note": 3.8,
-  "avis": 8,
+  "avis": 9,
   "horaires": null,
   "attributs": [
     "Entrée accessible en fauteuil roulant"
@@ -39,8 +39,8 @@
     "etat": "absent",
     "premiere_detection": null,
     "derniere_detection": null,
-    "derniere_verification": "2026-10-09T16:58:32.124Z",
-    "echecs": 73,
+    "derniere_verification": "2026-10-19T10:42:12.979Z",
+    "echecs": 74,
     "url_detectee": null
   },
   "suggestion": {
@@ -60,15 +60,15 @@
   "dates": {
     "collecte": "2026-09-01",
     "publication": "2026-09-01",
-    "maj": "2026-10-18"
+    "maj": "2026-10-19"
   },
   "source": "google-places",
   "redaction": {
     "version": 2,
     "titre": "Ctim Jardins de Cemenelum — Immobilier à Nice",
     "meta_titre": "Ctim Jardins de Cemenelum à Nice : avis, téléphone",
-    "meta_description": "Ctim Jardins de Cemenelum, immobilier à Nice : note Google 3,8/5 (8 avis), téléphone, adresse et itinéraire.",
-    "chapo": "Cette fiche présente Ctim Jardins de Cemenelum, un immobilier au 5 Avenue Colonel Evans, à Nice. Téléphone : 04 93 81 56 62. Note Google : 3,8 sur 5 pour 8 avis.",
+    "meta_description": "Ctim Jardins de Cemenelum, immobilier à Nice : note Google 3,8/5 (9 avis), téléphone, adresse et itinéraire.",
+    "chapo": "Cette fiche présente Ctim Jardins de Cemenelum, un immobilier au 5 Avenue Colonel Evans, à Nice. Téléphone : 04 93 81 56 62. Note Google : 3,8 sur 5 pour 9 avis.",
     "sections": [
       {
         "id": "presentation",
@@ -96,7 +96,7 @@
         "id": "avis",
         "titre": "La réputation de Ctim Jardins de Cemenelum",
         "paragraphes": [
-          "Note de 3,8 sur 5 pour 8 avis Google au relevé du 18 octobre 2026. Les avis se consultent sur la fiche Google, dont le lien figure sur cette page."
+          "Note de 3,8 sur 5 pour 9 avis Google au relevé du 19 octobre 2026. Les avis les plus parlants sont compilés ci-dessous, avec un lien vers la fiche d'origine."
         ]
       }
     ],
@@ -114,7 +114,7 @@
         "r": "La fiche Google de l'établissement mentionne : « Entrée accessible en fauteuil roulant ». Cette information est déclarative ; en cas de doute, vérifiez par téléphone."
       }
     ],
-    "genere_le": "2026-10-18"
+    "genere_le": "2026-10-19"
   },
   "statut_google": "OPERATIONAL",
   "audience": {
@@ -125,7 +125,7 @@
     "clicsRecents": 0,
     "fenetreRecenteJours": 28,
     "source": "search-console",
-    "date": "2026-10-18"
+    "date": "2026-10-19"
   },
   "indexation": {
     "etat": "non-indexee",
@@ -135,5 +135,55 @@
     "canonique_google": null,
     "source": "inspection",
     "date": "2026-10-18"
+  },
+  "avis_detail": {
+    "releve": "2026-10-19",
+    "liste": [
+      {
+        "note": 5,
+        "texte": "Magique",
+        "langue": "fr",
+        "date": "2026-06-09",
+        "auteur": "HERVE LEVY",
+        "auteur_lien": "https://www.google.com/maps/contrib/116488287448648565331/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xscE56TjJXbk5VU2xCTmN6aEplRE5zWTFWaWJrRRAB!2m1!1s0x12cdc5524b7293f3:0xead10a7e8a3e7af2"
+      },
+      {
+        "note": 5,
+        "texte": "L'agence a réalisé la vente de ma maison. Equipe très professionnelle et suivi remarquable. Merci",
+        "langue": "fr",
+        "date": "2026-02-22",
+        "auteur": "Butori Patricia",
+        "auteur_lien": "https://www.google.com/maps/contrib/110443480579946402043/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2tKYWF6Qmlja3gwWWtsSmQxTkJNVGhYVjBvNWJYYxAB!2m1!1s0x12cdc5524b7293f3:0xead10a7e8a3e7af2"
+      },
+      {
+        "note": 2,
+        "texte": "Les jardins de cemenelum avant / après\nPeut être faudrait il mettre à jour vos blog sur la résidence du cemenelum …\nLa pelouse remplacée par des copeaux de bois et plantes suggestives\nPalmiers (maladie incurable) remplacés par un effet moins majestueux\nÀ bientôt avec de nouvelles photos qui ne reflètent plus le parc central actuel !",
+        "langue": "fr",
+        "date": "2025-04-30",
+        "auteur": "Miléna",
+        "auteur_lien": "https://www.google.com/maps/contrib/108137813328982441802/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnTUNZOEtXTTVBRRAB!2m1!1s0x12cdc5524b7293f3:0xead10a7e8a3e7af2"
+      },
+      {
+        "note": 1,
+        "texte": "Le jardin est peut être beau mais les appartements sont un pur cauchemar. Juste des cages à lapins dorées, les murs sont en papier sans isolation phonique sur les circuits de l'eau et des gens irrespectueux qui tirent la chasse toute la nuit. Un vrai asile de fou ou personne ne respecte personne !!! j'ai hâte de déménager de cet enfer !!! N'investissez pas ici, c'est une arnaque à pigeon, à moins que vous aimiez ne pas dormir la nuit et entendre vos voisins uriner comme si ils étaient à coté de vous. Intimité ZERO ! Résidence ZERO ! Ca fait plus d'un an que j'ai aménagé et depuis je n'ai pas passé une nuit entière, je n'en peux plus !!!",
+        "langue": "fr",
+        "date": "2023-11-18",
+        "auteur": "Odile Argentta",
+        "auteur_lien": "https://www.google.com/maps/contrib/107477827187407490114/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUNsOXFEb09REAE!2m1!1s0x12cdc5524b7293f3:0xead10a7e8a3e7af2"
+      },
+      {
+        "note": 5,
+        "texte": "Magnifique! Une des plus belle résidence de Nice .",
+        "langue": "fr",
+        "date": "2016-05-09",
+        "auteur": "Franck Franck",
+        "auteur_lien": "https://www.google.com/maps/contrib/108351654661469557187/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUNBcWZTMG5RRRAB!2m1!1s0x12cdc5524b7293f3:0xead10a7e8a3e7af2"
+      }
+    ]
   }
 }

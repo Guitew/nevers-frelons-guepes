@@ -27,7 +27,7 @@
     "longitude": 7.294226799999999
   },
   "note": 4.5,
-  "avis": 496,
+  "avis": 497,
   "horaires": [
     {
       "jour": 0,
@@ -78,8 +78,8 @@
     "etat": "absent",
     "premiere_detection": null,
     "derniere_detection": null,
-    "derniere_verification": "2026-10-09T16:58:32.124Z",
-    "echecs": 60,
+    "derniere_verification": "2026-10-19T10:42:12.979Z",
+    "echecs": 61,
     "url_detectee": null
   },
   "suggestion": {
@@ -92,21 +92,21 @@
   "dates": {
     "collecte": "2026-09-08",
     "publication": "2026-09-08",
-    "maj": "2026-10-09"
+    "maj": "2026-10-19"
   },
   "source": "google-places",
   "redaction": {
     "version": 2,
     "titre": "CoCo Beach — Hébergement à Nice",
     "meta_titre": "CoCo Beach à Nice : horaires, avis",
-    "meta_description": "CoCo Beach, hébergement à Nice : horaires d'ouverture, note Google 4,5/5 (496 avis), adresse et itinéraire.",
-    "chapo": "CoCo Beach est un hébergement au 6-8 Avenue Jean Lorrain, à Nice. Ouvert le dimanche au relevé du 9 octobre 2026. Note Google : 4,5 sur 5 pour 496 avis.",
+    "meta_description": "CoCo Beach, hébergement à Nice : horaires d'ouverture, note Google 4,5/5 (497 avis), adresse et itinéraire.",
+    "chapo": "CoCo Beach est un hébergement au 6-8 Avenue Jean Lorrain, à Nice. Ouvert le dimanche au relevé du 19 octobre 2026. Note Google : 4,5 sur 5 pour 497 avis.",
     "sections": [
       {
         "id": "presentation",
         "titre": "CoCo Beach en quelques mots",
         "paragraphes": [
-          "D'après le relevé du 9 octobre 2026, l'établissement est ouvert le dimanche. Le détail jour par jour figure plus bas."
+          "D'après le relevé du 19 octobre 2026, l'établissement est ouvert le dimanche. Le détail jour par jour figure plus bas."
         ]
       },
       {
@@ -128,25 +128,25 @@
         "id": "avis",
         "titre": "La réputation de CoCo Beach",
         "paragraphes": [
-          "Note de 4,5 sur 5 pour 496 avis Google au relevé du 9 octobre 2026. Les avis se consultent sur la fiche Google, dont le lien figure sur cette page."
+          "Note de 4,5 sur 5 pour 497 avis Google au relevé du 19 octobre 2026. Les avis les plus parlants sont compilés ci-dessous, avec un lien vers la fiche d'origine."
         ]
       }
     ],
     "faq": [
       {
         "q": "Quels sont les horaires de CoCo Beach ?",
-        "r": "Au relevé du 9 octobre 2026, CoCo Beach était ouvert le dimanche. Dans le détail — lundi : fermé ; mardi : fermé ; mercredi : fermé ; jeudi : fermé ; vendredi : fermé ; samedi : fermé ; dimanche : de 0 h à 23 h 59. Ces horaires peuvent changer : un appel préalable reste conseillé."
+        "r": "Au relevé du 19 octobre 2026, CoCo Beach était ouvert le dimanche. Dans le détail — lundi : fermé ; mardi : fermé ; mercredi : fermé ; jeudi : fermé ; vendredi : fermé ; samedi : fermé ; dimanche : de 0 h à 23 h 59. Ces horaires peuvent changer : un appel préalable reste conseillé."
       },
       {
         "q": "CoCo Beach est-il ouvert le dimanche ?",
-        "r": "Oui : le dimanche, CoCo Beach est ouvert de 0 h à 23 h 59 (horaires relevés le 9 octobre 2026)."
+        "r": "Oui : le dimanche, CoCo Beach est ouvert de 0 h à 23 h 59 (horaires relevés le 19 octobre 2026)."
       },
       {
         "q": "Où se trouve CoCo Beach ?",
         "r": "CoCo Beach se trouve 6-8 Av. Jean Lorrain, 06300 Nice. Un lien d'itinéraire est disponible sur cette page."
       }
     ],
-    "genere_le": "2026-10-09"
+    "genere_le": "2026-10-19"
   },
   "statut_google": "OPERATIONAL",
   "audience": {
@@ -157,15 +157,65 @@
     "clicsRecents": 0,
     "fenetreRecenteJours": 28,
     "source": "search-console",
-    "date": "2026-10-18"
+    "date": "2026-10-19"
   },
   "indexation": {
     "etat": "non-indexee",
     "verdict": "NEUTRAL",
-    "couverture": "Détectée, actuellement non indexée",
+    "couverture": "Google ne reconnaît pas cette URL",
     "derniere_exploration": null,
     "canonique_google": null,
     "source": "inspection",
-    "date": "2026-10-18"
+    "date": "2026-10-19"
+  },
+  "avis_detail": {
+    "releve": "2026-10-19",
+    "liste": [
+      {
+        "note": 5,
+        "texte": "Ccette plage est magnifique, je la préfère à la baie des anges. On descend dans la mer par des échelles et il faut parfois faire attention aux algues. Cet endroit permet également de voir les très belles villa du quartier du Mont du Baron qui sont presque des châteaux. Vous n’êtes pas loin non plus de la grotte du Lazaret à visiter absolument et vous pouvez également faire un tour au plongeoir avec son menu très cher, mais incroyable comme lieu. Vous verrez des cormorans qui gravitent autour du gros pilier central.",
+        "langue": "fr",
+        "date": "2026-08-30",
+        "auteur": "ANNE GONINET",
+        "auteur_lien": "https://www.google.com/maps/contrib/113524450851485306398/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xFMWREZFFjVkZxYTNaTFRHZDFUbUpSUjE5b1VWRRAB!2m1!1s0x12cddae924e6ffbf:0xe60a0a56d7bf76a8"
+      },
+      {
+        "note": 5,
+        "texte": "Plage magnifique pour être un peu excentrer au centre de Nice !",
+        "langue": "fr",
+        "date": "2026-08-28",
+        "auteur": "aa m",
+        "auteur_lien": "https://www.google.com/maps/contrib/115312470723712867008/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2prdE5sTlRPVTAxT1hKQ01uQTFVVU4xTFRGVU1FRRAB!2m1!1s0x12cddae924e6ffbf:0xe60a0a56d7bf76a8"
+      },
+      {
+        "note": 2,
+        "texte": "Cette petite plage publique est connue à Nice depuis fort longtemps et toujours assez fréquentée, mais elle n'a que peu d'intérêt à mes yeux ! D'abord, la plage est vraiment miniscule, bien qu'elle soit partiellement sableuse. Pour s'installer tranquillement au soleil, il vaut mieux occuper quelques rochers avoisinants. Elle peut aussi être parfois un peu mal fréquentée, surtout en fin de journée ! Les jeunes crient, sautent dans l'eau sans se soucier des autres ; en cas des incivilités il n'y a aucune surveillance à cet endroit. De plus, le site est relativement sale et n'est pas régulièrement entretenu : les panneaux de signalisation et d'information sont très vieux et dévastés.",
+        "langue": "fr",
+        "date": "2026-06-01",
+        "auteur": "Bleu Citron",
+        "auteur_lien": "https://www.google.com/maps/contrib/105148777649916526285/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xjeGNGZDFTbko2WVZFemVEZDFhbHBNTTBkVVdGRRAB!2m1!1s0x12cddae924e6ffbf:0xe60a0a56d7bf76a8"
+      },
+      {
+        "note": 5,
+        "texte": "Magnifique plage (rocheuse) pour profiter du beau soleil de la Côte d’Azur",
+        "langue": "fr",
+        "date": "2026-03-29",
+        "auteur": "K Bns",
+        "auteur_lien": "https://www.google.com/maps/contrib/103258220411041533328/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2poTWFUUlRXRTFHVGtWZlRYQXRkMmRuVVVGSWFWRRAB!2m1!1s0x12cddae924e6ffbf:0xe60a0a56d7bf76a8"
+      },
+      {
+        "note": 1,
+        "texte": "Quelle déception !\nLe lieu n’est absolument pas entretenu : rambardes rouillées, détritus, verre cassé, canettes, panneaux signalétiques détériorés…\nOù est le beau petit coin d’il y a quelques années ?\nIl paraît que la nature doit reprendre ses droits !\nMais, il ne faudrait pas confondre entretien et nature.",
+        "langue": "fr",
+        "date": "2024-07-24",
+        "auteur": "Mamy",
+        "auteur_lien": "https://www.google.com/maps/contrib/108841281629625707885/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUNiblBmVzRRRRAB!2m1!1s0x12cddae924e6ffbf:0xe60a0a56d7bf76a8"
+      }
+    ]
   }
 }

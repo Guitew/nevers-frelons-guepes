@@ -1,0 +1,282 @@
+{
+  "id": "ChIJtapUgD2Y7kcRkRuejz7PA3c",
+  "slug": "huynh-dan-phuoc-loc",
+  "nom": "Huynh Dan PHUOC LOC",
+  "categorie": "commerces-alimentation",
+  "categorie_gmb": "Épicerie asiatique",
+  "type_principal": "asian_grocery_store",
+  "types": [
+    "asian_grocery_store",
+    "grocery_store",
+    "food_store",
+    "food",
+    "store",
+    "point_of_interest",
+    "establishment"
+  ],
+  "ville": "La Chapelle-Saint-Luc",
+  "ville_slug": "la-chapelle-saint-luc",
+  "adresse": {
+    "rue": "1 Avenue Jean Jaurès",
+    "code_postal": "10600",
+    "departement": "10",
+    "region": "Grand Est",
+    "pays": "France",
+    "complete": "La, 1 Av. Jean Jaurès, 10600 La Chapelle-Saint-Luc"
+  },
+  "telephone": "03 25 49 64 30",
+  "geo": {
+    "latitude": 48.3078821,
+    "longitude": 4.0429094999999995
+  },
+  "note": 4.1,
+  "avis": 548,
+  "horaires": [
+    {
+      "jour": 0,
+      "ferme": false,
+      "creneaux": [
+        [
+          "09:00",
+          "12:00"
+        ],
+        [
+          "14:00",
+          "19:00"
+        ]
+      ]
+    },
+    {
+      "jour": 1,
+      "ferme": false,
+      "creneaux": [
+        [
+          "14:00",
+          "19:00"
+        ]
+      ]
+    },
+    {
+      "jour": 2,
+      "ferme": false,
+      "creneaux": [
+        [
+          "09:00",
+          "19:00"
+        ]
+      ]
+    },
+    {
+      "jour": 3,
+      "ferme": false,
+      "creneaux": [
+        [
+          "09:00",
+          "19:00"
+        ]
+      ]
+    },
+    {
+      "jour": 4,
+      "ferme": false,
+      "creneaux": [
+        [
+          "09:00",
+          "19:00"
+        ]
+      ]
+    },
+    {
+      "jour": 5,
+      "ferme": false,
+      "creneaux": [
+        [
+          "09:00",
+          "19:00"
+        ]
+      ]
+    },
+    {
+      "jour": 6,
+      "ferme": true,
+      "creneaux": []
+    }
+  ],
+  "attributs": [
+    "Entrée accessible en fauteuil roulant",
+    "Parking accessible en fauteuil roulant"
+  ],
+  "lien_google": "https://maps.google.com/?cid=8575925983047981969&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
+  "site_web_gmb": null,
+  "statut": "publiee",
+  "backlink": {
+    "etat": "absent",
+    "premiere_detection": null,
+    "derniere_detection": null,
+    "derniere_verification": "2026-10-19T10:42:12.979Z",
+    "echecs": 1,
+    "url_detectee": null
+  },
+  "suggestion": {
+    "etat": "en-attente",
+    "date_soumission": null,
+    "tentatives": 0,
+    "date_email": "2026-10-19"
+  },
+  "retrait": null,
+  "dates": {
+    "collecte": "2026-10-19",
+    "publication": "2026-10-19",
+    "maj": "2026-10-19"
+  },
+  "source": "google-places",
+  "avis_detail": {
+    "releve": "2026-10-19",
+    "liste": [
+      {
+        "note": 5,
+        "texte": "Très bon accueil j'ai trouvée ce que je voulais les gens qui y travaillent Très sympathiques merci je reviendrais",
+        "langue": "fr",
+        "date": "2026-05-29",
+        "auteur": "NATHALIE Dolat",
+        "auteur_lien": "https://www.google.com/maps/contrib/115054786791078513158/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2treFkyZG5ZaTFmV1dOVFVrZGtNWGhKTVhGNE5VRRAB!2m1!1s0x47ee983d8054aab5:0x7703cf3e8f9e1b91"
+      },
+      {
+        "note": 3,
+        "texte": "La même chose en plus grand serait vraiment le top. Car trop petit",
+        "langue": "fr",
+        "date": "2026-04-26",
+        "auteur": "Vanessa St",
+        "auteur_lien": "https://www.google.com/maps/contrib/109227079679504945209/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT21wUU1USjJXbWMwZEc0d2FuSnVTVEpqVFZSNFYzYxAB!2m1!1s0x47ee983d8054aab5:0x7703cf3e8f9e1b91"
+      },
+      {
+        "note": 2,
+        "texte": "Vendent des fruits pourris laissés tels quels ainsi que de la nourriture encore à bonnes dates ( nouilles ) dans des paquets ou les nouilles sont deja moisies... Le magasin dépérit un peu et pas hyper propre... Honteux !",
+        "langue": "fr",
+        "date": "2026-03-25",
+        "auteur": "Michael MARIN",
+        "auteur_lien": "https://www.google.com/maps/contrib/107328889831083578043/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2pod1MwWnhVRFYyTFhkUmMycDNXalJ2U1VKWlFrRRAB!2m1!1s0x47ee983d8054aab5:0x7703cf3e8f9e1b91"
+      },
+      {
+        "note": 4,
+        "texte": "Magasin avec beaucoup de choix de produits asiatiques. Prix correctes. Points négatifs : Parking petit et allées trop étroites dans les rayons.  Une petite rénovation du magasin serait appréciable.",
+        "langue": "fr",
+        "date": "2025-10-03",
+        "auteur": "Tine89",
+        "auteur_lien": "https://www.google.com/maps/contrib/104761186344775383173/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2pBemVXZFBOMHBQVUVOVWRsVmZNMk16WmtOMFNrRRAB!2m1!1s0x47ee983d8054aab5:0x7703cf3e8f9e1b91"
+      },
+      {
+        "note": 5,
+        "texte": "On trouve dans ce magasin un grand choix de produits asiatique, (chinois, vietnamien, thaïlandais, etc...) ainsi que certains produits africain et réunionnais. Le tout a des prix raisonnables.\nSi vous avez une recette à élaborer, vous êtes quasiment sûr de trouver votre bonheur dans cette boutique, que ce soit les épices, les galettes de riz, les herbes, les fruits et légumes, ainsi que les sauces diverses et variées.\nLe seul \"hic\" de ce magasin c'est qu'il est très petit, il faut donc savoir lever la tête et se blesser pour trouver ce que l'on cherche.\nL'une des spécialités que j'affectionne particulièrement et que l'on trouve dans cette boutique est le Nem Chua, ainsi que les beignets de crevettes à faire soi-même.\nIl y a souvent beaucoup de monde, (éviter les heures de fortes affluence) et l'accueil est parfois mitigé !\nMais si l'on prend le temps de demander, le personnel est très serviable.",
+        "langue": "fr",
+        "date": "2025-08-05",
+        "auteur": "Pierre D",
+        "auteur_lien": "https://www.google.com/maps/contrib/111292476232786560116/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25oallWRm5WaTFyVUhwdWRtOUZPSG93ZVVGUVpIYxAB!2m1!1s0x47ee983d8054aab5:0x7703cf3e8f9e1b91"
+      }
+    ]
+  },
+  "services": {
+    "releve": "2026-10-19",
+    "options": {
+      "delivery": false,
+      "restroom": false
+    },
+    "paiement": [
+      "carte bancaire",
+      "carte de débit",
+      "paiement sans contact"
+    ],
+    "parking": []
+  },
+  "redaction": {
+    "version": 2,
+    "titre": "Huynh Dan PHUOC LOC — Commerce d'alimentation à La Chapelle-Saint-Luc",
+    "meta_titre": "Huynh Dan PHUOC LOC à La Chapelle-Saint-Luc : horaires, avis",
+    "meta_description": "Huynh Dan PHUOC LOC, commerce d'alimentation à La Chapelle-Saint-Luc : horaires d'ouverture, téléphone, adresse et itinéraire.",
+    "chapo": "Huynh Dan PHUOC LOC, commerce d'alimentation au 1 Avenue Jean Jaurès, à La Chapelle-Saint-Luc. Ouvert tous les jours sauf le dimanche au relevé du 19 octobre 2026. Téléphone : 03 25 49 64 30. Note Google : 4,1 sur 5 pour 548 avis.",
+    "sections": [
+      {
+        "id": "presentation",
+        "titre": "Huynh Dan PHUOC LOC en quelques mots",
+        "paragraphes": [
+          "Sur Google, l'établissement est classé « Épicerie asiatique », dans notre rubrique Commerce d'alimentation.",
+          "D'après le relevé du 19 octobre 2026, l'établissement est ouvert tous les jours sauf le dimanche. Le détail jour par jour figure plus bas."
+        ]
+      },
+      {
+        "id": "prestations",
+        "titre": "Services et équipements de Huynh Dan PHUOC LOC",
+        "paragraphes": [
+          "Non proposé selon la fiche Google : livraison et toilettes.",
+          "Moyens de paiement déclarés : carte bancaire, carte de débit et paiement sans contact.",
+          "Ces indications sont déclarées par l'établissement sur sa fiche Google (relevé du 19 octobre 2026)."
+        ]
+      },
+      {
+        "id": "acces",
+        "titre": "Adresse et accès",
+        "paragraphes": [
+          "L'établissement est situé au 1 Avenue Jean Jaurès, 10600 La Chapelle-Saint-Luc.",
+          "Coordonnées GPS : 48.30788, 4.04291. Le bouton Itinéraire de cette page ouvre la navigation."
+        ]
+      },
+      {
+        "id": "contact",
+        "titre": "Contacter Huynh Dan PHUOC LOC",
+        "paragraphes": [
+          "Le contact se fait par téléphone au 03 25 49 64 30, ou directement sur place aux horaires d'ouverture."
+        ]
+      },
+      {
+        "id": "avis",
+        "titre": "La réputation de Huynh Dan PHUOC LOC",
+        "paragraphes": [
+          "Note de 4,1 sur 5 pour 548 avis Google au relevé du 19 octobre 2026. Les avis les plus parlants sont compilés ci-dessous, avec un lien vers la fiche d'origine."
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "q": "Quels sont les horaires de Huynh Dan PHUOC LOC ?",
+        "r": "Au relevé du 19 octobre 2026, Huynh Dan PHUOC LOC était ouvert tous les jours sauf le dimanche. Dans le détail — lundi : de 9 h à 12 h et de 14 h à 19 h ; mardi : de 14 h à 19 h ; mercredi : de 9 h à 19 h ; jeudi : de 9 h à 19 h ; vendredi : de 9 h à 19 h ; samedi : de 9 h à 19 h ; dimanche : fermé. Ces horaires peuvent changer : un appel préalable reste conseillé."
+      },
+      {
+        "q": "Huynh Dan PHUOC LOC est-il ouvert le dimanche ?",
+        "r": "Non : d'après les horaires relevés le 19 octobre 2026, Huynh Dan PHUOC LOC est fermé le dimanche."
+      },
+      {
+        "q": "Où se trouve Huynh Dan PHUOC LOC ?",
+        "r": "Huynh Dan PHUOC LOC se trouve La, 1 Av. Jean Jaurès, 10600 La Chapelle-Saint-Luc. Un lien d'itinéraire est disponible sur cette page."
+      },
+      {
+        "q": "Comment contacter Huynh Dan PHUOC LOC ?",
+        "r": "Par téléphone au 03 25 49 64 30, ou directement sur place aux heures d'ouverture."
+      },
+      {
+        "q": "Huynh Dan PHUOC LOC propose-t-il la vente à emporter ou la livraison ?",
+        "r": "D'après sa fiche Google (relevé du 19 octobre 2026) — livraison : non."
+      },
+      {
+        "q": "Huynh Dan PHUOC LOC est-il accessible aux personnes à mobilité réduite ?",
+        "r": "La fiche Google de l'établissement mentionne : « Entrée accessible en fauteuil roulant ». Cette information est déclarative ; en cas de doute, vérifiez par téléphone."
+      }
+    ],
+    "genere_le": "2026-10-19"
+  },
+  "statut_google": "OPERATIONAL",
+  "audience": {
+    "clics": 0,
+    "impressions": 0,
+    "position": null,
+    "fenetreJours": 90,
+    "clicsRecents": 0,
+    "fenetreRecenteJours": 28,
+    "source": "search-console",
+    "date": "2026-10-19"
+  }
+}

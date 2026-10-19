@@ -27,7 +27,7 @@
     "longitude": 1.1126927
   },
   "note": 4,
-  "avis": 300,
+  "avis": 301,
   "horaires": [
     {
       "jour": 0,
@@ -105,15 +105,15 @@
     "Parking accessible en fauteuil roulant"
   ],
   "lien_google": "https://maps.google.com/?cid=2391649749264071815&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
-  "site_web_gmb": null,
+  "site_web_gmb": "https://andpro.fr/vitrine-locale/commerces-alimentation/evreux/ferme-de-navarre/",
   "statut": "publiee",
   "backlink": {
-    "etat": "absent",
-    "premiere_detection": null,
-    "derniere_detection": null,
-    "derniere_verification": "2026-10-09T16:58:32.124Z",
-    "echecs": 4,
-    "url_detectee": null
+    "etat": "present",
+    "premiere_detection": "2026-10-19T10:42:12.979Z",
+    "derniere_detection": "2026-10-19T10:42:12.979Z",
+    "derniere_verification": "2026-10-19T10:42:12.979Z",
+    "echecs": 0,
+    "url_detectee": "https://andpro.fr/vitrine-locale/commerces-alimentation/evreux/ferme-de-navarre/"
   },
   "suggestion": {
     "etat": "soumise",
@@ -125,7 +125,7 @@
   "dates": {
     "collecte": "2026-10-06",
     "publication": "2026-10-06",
-    "maj": "2026-10-09"
+    "maj": "2026-10-19"
   },
   "source": "google-places",
   "redaction": {
@@ -192,13 +192,13 @@
   },
   "statut_google": "OPERATIONAL",
   "audience": {
-    "clics": 19,
-    "impressions": 188,
-    "position": 3.4,
+    "clics": 26,
+    "impressions": 270,
+    "position": 3.3,
     "fenetreJours": 90,
-    "clicsRecents": 19,
+    "clicsRecents": 26,
     "fenetreRecenteJours": 28,
     "source": "search-console",
-    "date": "2026-10-18"
+    "date": "2026-10-19"
   }
 }

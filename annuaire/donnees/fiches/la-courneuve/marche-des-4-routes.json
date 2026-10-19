@@ -1,0 +1,247 @@
+{
+  "id": "ChIJiwFbimNs5kcRXKs_ul2Sctw",
+  "slug": "marche-des-4-routes",
+  "nom": "Marché des 4 Routes",
+  "categorie": "commerces-alimentation",
+  "categorie_gmb": "Épicerie",
+  "type_principal": "grocery_store",
+  "types": [
+    "market",
+    "grocery_store",
+    "food_store",
+    "store",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "ville": "La Courneuve",
+  "ville_slug": "la-courneuve",
+  "adresse": {
+    "rue": "",
+    "code_postal": "93120",
+    "departement": "93",
+    "region": "Île-de-France",
+    "pays": "France",
+    "complete": "93120 La Courneuve"
+  },
+  "telephone": "",
+  "geo": {
+    "latitude": 48.920084599999996,
+    "longitude": 2.4108961
+  },
+  "note": 4,
+  "avis": 485,
+  "horaires": [
+    {
+      "jour": 0,
+      "ferme": true,
+      "creneaux": []
+    },
+    {
+      "jour": 1,
+      "ferme": true,
+      "creneaux": []
+    },
+    {
+      "jour": 2,
+      "ferme": true,
+      "creneaux": []
+    },
+    {
+      "jour": 3,
+      "ferme": true,
+      "creneaux": []
+    },
+    {
+      "jour": 4,
+      "ferme": true,
+      "creneaux": []
+    },
+    {
+      "jour": 5,
+      "ferme": true,
+      "creneaux": []
+    },
+    {
+      "jour": 6,
+      "ferme": false,
+      "creneaux": [
+        [
+          "00:00",
+          "23:59"
+        ]
+      ]
+    }
+  ],
+  "attributs": [
+    "Entrée accessible en fauteuil roulant",
+    "Parking accessible en fauteuil roulant"
+  ],
+  "lien_google": "https://maps.google.com/?cid=15884919766943509340&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
+  "site_web_gmb": null,
+  "statut": "publiee",
+  "backlink": {
+    "etat": "absent",
+    "premiere_detection": null,
+    "derniere_detection": null,
+    "derniere_verification": "2026-10-19T10:42:12.979Z",
+    "echecs": 1,
+    "url_detectee": null
+  },
+  "suggestion": {
+    "etat": "en-attente",
+    "date_soumission": null,
+    "tentatives": 0,
+    "date_email": "2026-10-19"
+  },
+  "retrait": null,
+  "dates": {
+    "collecte": "2026-10-19",
+    "publication": "2026-10-19",
+    "maj": "2026-10-19"
+  },
+  "source": "google-places",
+  "avis_detail": {
+    "releve": "2026-10-19",
+    "liste": [
+      {
+        "note": 3,
+        "texte": "Peut-être il faut donner à ce marché un sens de circulation ?",
+        "langue": "fr",
+        "date": "2026-07-26",
+        "auteur": "Houmia Benmahdi",
+        "auteur_lien": "https://www.google.com/maps/contrib/102146281877946573082/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2tWdU5qSnFTVUZUVDJweE1XZGxVRzFETVZkSU1HYxAB!2m1!1s0x47e66c638a5b018b:0xdc72925dba3fab5c"
+      },
+      {
+        "note": 1,
+        "texte": "C’est un marché de sauvages. De plus sur le plan écologique , la cata. Sac et plastiques de partout. Des mesures devraient être prise. L’écologie est un sujet sérieux aujourd’hui !",
+        "langue": "fr",
+        "date": "2026-07-05",
+        "auteur": "Céline MARTIN",
+        "auteur_lien": "https://www.google.com/maps/contrib/102660479665886535206/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xKUlJGRXlSV3hSVDNRNFpERnJNRlphVVZSNlNWRRAB!2m1!1s0x47e66c638a5b018b:0xdc72925dba3fab5c"
+      },
+      {
+        "note": 4,
+        "texte": "Très grand marché avec des prix intéressants mais beaucoup de monde. Il est difficile d'y circuler à certaines heures.",
+        "langue": "fr",
+        "date": "2026-03-25",
+        "auteur": "samira bnz",
+        "auteur_lien": "https://www.google.com/maps/contrib/109207911933239144558/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xWUVdqZEhibXRUWW1ZNU5YQXhZMGRNYkRaMlJFRRAB!2m1!1s0x47e66c638a5b018b:0xdc72925dba3fab5c"
+      },
+      {
+        "note": 4,
+        "texte": "Ce matin à 9 h même avec les vacances scolaires il y avait de beaux produits. J'ai acheté la viande de bœuf toute fraiche coupée devant moi . Des bananes à  1€00 le kilo, des tomates 🍅 🍅 à 1.30 €, des navets à 1,20€ le kg, des poivrons verts et rouges 1.00€ le plateau, 5 avocats à  2,00 €, un super tourteau femelle pour faire en curry à  6€ 90. Et même des letchis à  2.50 € de Madagascar le Top.\nC'est ici au marché qu'il faut venir acheter les fruits et légumes avant aller finir ces courses en supermarchés.",
+        "langue": "fr",
+        "date": "2024-02-16",
+        "auteur": "Jean Claude GENESTE",
+        "auteur_lien": "https://www.google.com/maps/contrib/118436019399536451339/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUNpOUl6YnpRRRAB!2m1!1s0x47e66c638a5b018b:0xdc72925dba3fab5c"
+      },
+      {
+        "note": 5,
+        "texte": "Marché Couvert très Propre ! Depuis les travaux Les commerçants sont précautionneux à l'hygiène. Je recommande vivement",
+        "langue": "fr",
+        "date": "2023-12-01",
+        "auteur": "HYGIENE SOLUTION 3D PRO",
+        "auteur_lien": "https://www.google.com/maps/contrib/106321542404297570329/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSURsNm82eGxBRRAB!2m1!1s0x47e66c638a5b018b:0xdc72925dba3fab5c"
+      }
+    ]
+  },
+  "services": {
+    "releve": "2026-10-19",
+    "options": {
+      "delivery": false
+    },
+    "paiement": [
+      "carte bancaire",
+      "carte de débit"
+    ],
+    "parking": []
+  },
+  "redaction": {
+    "version": 2,
+    "titre": "Marché des 4 Routes — Commerce d'alimentation à La Courneuve",
+    "meta_titre": "Marché des 4 Routes à La Courneuve : horaires, avis",
+    "meta_description": "Marché des 4 Routes, commerce d'alimentation à La Courneuve : horaires d'ouverture, note Google 4/5 (485 avis), adresse et itinéraire.",
+    "chapo": "Marché des 4 Routes exerce l'activité de commerce d'alimentation à La Courneuve. Ouvert le dimanche au relevé du 19 octobre 2026. Note Google : 4 sur 5 pour 485 avis.",
+    "sections": [
+      {
+        "id": "presentation",
+        "titre": "Marché des 4 Routes en quelques mots",
+        "paragraphes": [
+          "Sur Google, l'établissement est classé « Épicerie », dans notre rubrique Commerce d'alimentation.",
+          "D'après le relevé du 19 octobre 2026, l'établissement est ouvert le dimanche. Le détail jour par jour figure plus bas."
+        ]
+      },
+      {
+        "id": "prestations",
+        "titre": "Services et équipements de Marché des 4 Routes",
+        "paragraphes": [
+          "Non proposé selon la fiche Google : livraison.",
+          "Moyens de paiement déclarés : carte bancaire et carte de débit.",
+          "Ces indications sont déclarées par l'établissement sur sa fiche Google (relevé du 19 octobre 2026)."
+        ]
+      },
+      {
+        "id": "acces",
+        "titre": "Adresse et accès",
+        "paragraphes": [
+          "L'établissement est situé, 93120 La Courneuve.",
+          "Coordonnées GPS : 48.92008, 2.41090. Le bouton Itinéraire de cette page ouvre la navigation."
+        ]
+      },
+      {
+        "id": "contact",
+        "titre": "Contacter Marché des 4 Routes",
+        "paragraphes": [
+          "Aucun numéro de téléphone n'est déclaré sur la fiche Google de l'établissement : le contact se fait sur place, aux horaires indiqués."
+        ]
+      },
+      {
+        "id": "avis",
+        "titre": "La réputation de Marché des 4 Routes",
+        "paragraphes": [
+          "Note de 4 sur 5 pour 485 avis Google au relevé du 19 octobre 2026. Les avis les plus parlants sont compilés ci-dessous, avec un lien vers la fiche d'origine."
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "q": "Quels sont les horaires de Marché des 4 Routes ?",
+        "r": "Au relevé du 19 octobre 2026, Marché des 4 Routes était ouvert le dimanche. Dans le détail — lundi : fermé ; mardi : fermé ; mercredi : fermé ; jeudi : fermé ; vendredi : fermé ; samedi : fermé ; dimanche : de 0 h à 23 h 59. Ces horaires peuvent changer : un appel préalable reste conseillé."
+      },
+      {
+        "q": "Marché des 4 Routes est-il ouvert le dimanche ?",
+        "r": "Oui : le dimanche, Marché des 4 Routes est ouvert de 0 h à 23 h 59 (horaires relevés le 19 octobre 2026)."
+      },
+      {
+        "q": "Où se trouve Marché des 4 Routes ?",
+        "r": "Marché des 4 Routes se trouve 93120 La Courneuve. Un lien d'itinéraire est disponible sur cette page."
+      },
+      {
+        "q": "Marché des 4 Routes propose-t-il la vente à emporter ou la livraison ?",
+        "r": "D'après sa fiche Google (relevé du 19 octobre 2026) — livraison : non."
+      },
+      {
+        "q": "Marché des 4 Routes est-il accessible aux personnes à mobilité réduite ?",
+        "r": "La fiche Google de l'établissement mentionne : « Entrée accessible en fauteuil roulant ». Cette information est déclarative ; en cas de doute, vérifiez par téléphone."
+      }
+    ],
+    "genere_le": "2026-10-19"
+  },
+  "statut_google": "OPERATIONAL",
+  "audience": {
+    "clics": 0,
+    "impressions": 0,
+    "position": null,
+    "fenetreJours": 90,
+    "clicsRecents": 0,
+    "fenetreRecenteJours": 28,
+    "source": "search-console",
+    "date": "2026-10-19"
+  }
+}

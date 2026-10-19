@@ -105,8 +105,8 @@
     "etat": "absent",
     "premiere_detection": null,
     "derniere_detection": null,
-    "derniere_verification": "2026-10-09T16:58:32.124Z",
-    "echecs": 19,
+    "derniere_verification": "2026-10-19T10:42:12.979Z",
+    "echecs": 20,
     "url_detectee": null
   },
   "suggestion": {
@@ -119,7 +119,7 @@
   "dates": {
     "collecte": "2026-09-27",
     "publication": "2026-09-27",
-    "maj": "2026-10-09"
+    "maj": "2026-10-19"
   },
   "source": "google-places",
   "redaction": {
@@ -127,14 +127,24 @@
     "titre": "Épicerie Arménienne ARARAT — Commerce d'alimentation à Foix",
     "meta_titre": "Épicerie Arménienne ARARAT à Foix : horaires, avis",
     "meta_description": "Épicerie Arménienne ARARAT, commerce d'alimentation à Foix : horaires d'ouverture, note Google 4,9/5 (20 avis), téléphone, adresse et itinéraire.",
-    "chapo": "Cette fiche présente Épicerie Arménienne ARARAT, un commerce d'alimentation au 23 Rue des Marchands, à Foix. Ouvert tous les jours sauf le dimanche au relevé du 9 octobre 2026. Téléphone : 05 81 29 24 09. Note Google : 4,9 sur 5 pour 20 avis.",
+    "chapo": "Cette fiche présente Épicerie Arménienne ARARAT, un commerce d'alimentation au 23 Rue des Marchands, à Foix. Ouvert tous les jours sauf le dimanche au relevé du 19 octobre 2026. Téléphone : 05 81 29 24 09. Note Google : 4,9 sur 5 pour 20 avis.",
     "sections": [
       {
         "id": "presentation",
         "titre": "Épicerie Arménienne ARARAT en quelques mots",
         "paragraphes": [
           "Sur Google, l'établissement est classé « Épicerie », dans notre rubrique Commerce d'alimentation.",
-          "D'après le relevé du 9 octobre 2026, l'établissement est ouvert tous les jours sauf le dimanche. Le détail jour par jour figure plus bas."
+          "D'après le relevé du 19 octobre 2026, l'établissement est ouvert tous les jours sauf le dimanche. Le détail jour par jour figure plus bas."
+        ]
+      },
+      {
+        "id": "prestations",
+        "titre": "Services et équipements de Épicerie Arménienne ARARAT",
+        "paragraphes": [
+          "Proposé : livraison.",
+          "Non proposé selon la fiche Google : toilettes.",
+          "Moyens de paiement déclarés : carte bancaire, carte de débit et paiement sans contact.",
+          "Ces indications sont déclarées par l'établissement sur sa fiche Google (relevé du 19 octobre 2026)."
         ]
       },
       {
@@ -156,18 +166,18 @@
         "id": "avis",
         "titre": "La réputation de Épicerie Arménienne ARARAT",
         "paragraphes": [
-          "Note de 4,9 sur 5 pour 20 avis Google au relevé du 9 octobre 2026. Les avis se consultent sur la fiche Google, dont le lien figure sur cette page."
+          "Note de 4,9 sur 5 pour 20 avis Google au relevé du 19 octobre 2026. Les avis les plus parlants sont compilés ci-dessous, avec un lien vers la fiche d'origine."
         ]
       }
     ],
     "faq": [
       {
         "q": "Quels sont les horaires de Épicerie Arménienne ARARAT ?",
-        "r": "Au relevé du 9 octobre 2026, Épicerie Arménienne ARARAT était ouvert tous les jours sauf le dimanche. Dans le détail — lundi : de 10 h à 0 h ; mardi : de 10 h à 0 h ; mercredi : de 10 h à 0 h ; jeudi : de 10 h à 0 h ; vendredi : de 10 h à 1 h ; samedi : de 10 h à 1 h ; dimanche : fermé. Ces horaires peuvent changer : un appel préalable reste conseillé."
+        "r": "Au relevé du 19 octobre 2026, Épicerie Arménienne ARARAT était ouvert tous les jours sauf le dimanche. Dans le détail — lundi : de 10 h à 0 h ; mardi : de 10 h à 0 h ; mercredi : de 10 h à 0 h ; jeudi : de 10 h à 0 h ; vendredi : de 10 h à 1 h ; samedi : de 10 h à 1 h ; dimanche : fermé. Ces horaires peuvent changer : un appel préalable reste conseillé."
       },
       {
         "q": "Épicerie Arménienne ARARAT est-il ouvert le dimanche ?",
-        "r": "Non : d'après les horaires relevés le 9 octobre 2026, Épicerie Arménienne ARARAT est fermé le dimanche."
+        "r": "Non : d'après les horaires relevés le 19 octobre 2026, Épicerie Arménienne ARARAT est fermé le dimanche."
       },
       {
         "q": "Où se trouve Épicerie Arménienne ARARAT ?",
@@ -176,9 +186,13 @@
       {
         "q": "Comment contacter Épicerie Arménienne ARARAT ?",
         "r": "Par téléphone au 05 81 29 24 09, ou directement sur place aux heures d'ouverture."
+      },
+      {
+        "q": "Épicerie Arménienne ARARAT propose-t-il la vente à emporter ou la livraison ?",
+        "r": "D'après sa fiche Google (relevé du 19 octobre 2026) — livraison : oui."
       }
     ],
-    "genere_le": "2026-10-09"
+    "genere_le": "2026-10-19"
   },
   "statut_google": "OPERATIONAL",
   "audience": {
@@ -189,6 +203,69 @@
     "clicsRecents": 0,
     "fenetreRecenteJours": 28,
     "source": "search-console",
-    "date": "2026-10-18"
+    "date": "2026-10-19"
+  },
+  "avis_detail": {
+    "releve": "2026-10-19",
+    "liste": [
+      {
+        "note": 5,
+        "texte": "le lieux est bien situer le vendeur très gentil et agréable et aussi y’a presque tout les produits de l’Est qu’on voit sur tiktok c’est parfait",
+        "langue": "fr",
+        "date": "2026-06-21",
+        "auteur": "Kadi Malle",
+        "auteur_lien": "https://www.google.com/maps/contrib/113734278757275768871/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT21kUE9ISkhZMWgwZVVoTVJESlJOV2xFYlVGM2VFRRAB!2m1!1s0x12af11164f12ce35:0x4adc4a1ff7bcc3f4"
+      },
+      {
+        "note": 5,
+        "texte": "J'ai acheté une bouteille de vodka customiser chez lui elle était super bonne je reviendrai lui en acheter de temps en temps je suis très content et satisfait.\nBonne fête de fin d'année.",
+        "langue": "fr",
+        "date": "2022-12-31",
+        "auteur": "Alan Pirate",
+        "auteur_lien": "https://www.google.com/maps/contrib/108636043494002098745/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUNCdGVEVWxRRRAB!2m1!1s0x12af11164f12ce35:0x4adc4a1ff7bcc3f4"
+      },
+      {
+        "note": 4,
+        "texte": "De bon produits un peu d'exotisme un accueil agréable 👍",
+        "langue": "fr",
+        "date": "2022-10-23",
+        "auteur": "Karine Naceur",
+        "auteur_lien": "https://www.google.com/maps/contrib/101286727988267282568/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSURlMzRuRm9nRRAB!2m1!1s0x12af11164f12ce35:0x4adc4a1ff7bcc3f4"
+      },
+      {
+        "note": 5,
+        "texte": "Horaires d'ouverture très pratique et les produits y sont aussi bons qu'originaux !",
+        "langue": "fr",
+        "date": "2022-08-02",
+        "auteur": "Laurie Bastard",
+        "auteur_lien": "https://www.google.com/maps/contrib/113256862224101043560/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUN1bGNQVk5REAE!2m1!1s0x12af11164f12ce35:0x4adc4a1ff7bcc3f4"
+      },
+      {
+        "note": 5,
+        "texte": "Je suis encore très touchée de votre générosité et de votre gentillesse.\nUne boutique très originale avec des produits de qualité, qui nous font découvrir entre autre l’Armenie.\nMerci et encore merci pour cette très belle découverte. Je conseille vivement aux habitants et aux passants de venir faire un détour dans cette superbe petite épicerie.",
+        "langue": "fr",
+        "date": "2020-12-02",
+        "auteur": "Alexia Exerdjian",
+        "auteur_lien": "https://www.google.com/maps/contrib/107789749685761506395/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSURpdW9uSFN3EAE!2m1!1s0x12af11164f12ce35:0x4adc4a1ff7bcc3f4"
+      }
+    ]
+  },
+  "services": {
+    "releve": "2026-10-19",
+    "options": {
+      "delivery": true,
+      "restroom": false
+    },
+    "paiement": [
+      "carte bancaire",
+      "carte de débit",
+      "paiement sans contact"
+    ],
+    "parking": []
   }
 }

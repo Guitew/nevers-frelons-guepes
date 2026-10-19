@@ -39,8 +39,8 @@
     "etat": "absent",
     "premiere_detection": null,
     "derniere_detection": null,
-    "derniere_verification": "2026-10-09T16:58:32.124Z",
-    "echecs": 27,
+    "derniere_verification": "2026-10-19T10:42:12.979Z",
+    "echecs": 28,
     "url_detectee": null
   },
   "suggestion": {
@@ -53,7 +53,7 @@
   "dates": {
     "collecte": "2026-09-23",
     "publication": "2026-09-23",
-    "maj": "2026-10-09"
+    "maj": "2026-10-19"
   },
   "source": "google-places",
   "redaction": {
@@ -89,7 +89,7 @@
         "id": "avis",
         "titre": "La réputation de DARNETAL",
         "paragraphes": [
-          "Note de 4,4 sur 5 pour 18 avis Google au relevé du 9 octobre 2026. Les avis se consultent sur la fiche Google, dont le lien figure sur cette page."
+          "Note de 4,4 sur 5 pour 18 avis Google au relevé du 19 octobre 2026. Les avis les plus parlants sont compilés ci-dessous, avec un lien vers la fiche d'origine."
         ]
       }
     ],
@@ -103,17 +103,67 @@
         "r": "La fiche Google de l'établissement mentionne : « Parking accessible en fauteuil roulant ». Cette information est déclarative ; en cas de doute, vérifiez par téléphone."
       }
     ],
-    "genere_le": "2026-10-09"
+    "genere_le": "2026-10-19"
   },
   "statut_google": "OPERATIONAL",
   "audience": {
     "clics": 0,
-    "impressions": 21,
-    "position": 14.8,
+    "impressions": 22,
+    "position": 15.6,
     "fenetreJours": 90,
     "clicsRecents": 0,
     "fenetreRecenteJours": 28,
     "source": "search-console",
-    "date": "2026-10-18"
+    "date": "2026-10-19"
+  },
+  "avis_detail": {
+    "releve": "2026-10-19",
+    "liste": [
+      {
+        "note": 4,
+        "texte": "J'ai bien aimé ☺️",
+        "langue": "fr",
+        "date": "2026-01-23",
+        "auteur": "Dieudonne Elimbi",
+        "auteur_lien": "https://www.google.com/maps/contrib/100858725896821269043/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT21oalNUSnRNMlpXTURSclVrVnlORzVtZEVvd1JYYxAB!2m1!1s0x47e0dfe9bed13441:0xe612534361182315"
+      },
+      {
+        "note": 5,
+        "texte": "Très intéressant",
+        "langue": "fr",
+        "date": "2026-01-09",
+        "auteur": "Véronique Ducorroy",
+        "auteur_lien": "https://www.google.com/maps/contrib/108823874464095264873/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2tzellrWnJPVTFKTTIxalRFNVphelpNZVhaVE1VRRAB!2m1!1s0x47e0dfe9bed13441:0xe612534361182315"
+      },
+      {
+        "note": 5,
+        "texte": "Très beau centre ville",
+        "langue": "fr",
+        "date": "2025-09-23",
+        "auteur": "David Pigné",
+        "auteur_lien": "https://www.google.com/maps/contrib/109052566862854623395/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25GRVdGY3paVWx5U1dFNFgwSXhZbEZaU21odWFVRRAB!2m1!1s0x47e0dfe9bed13441:0xe612534361182315"
+      },
+      {
+        "note": 4,
+        "texte": "Expotec, musée ancien",
+        "langue": "fr",
+        "date": "2025-06-18",
+        "auteur": "Sarahi A1nne5",
+        "auteur_lien": "https://www.google.com/maps/contrib/100525535331780325377/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xoT00yaEhNMlZMYmxOVVNuQTRVM1ZuVUhCc1QxRRAB!2m1!1s0x47e0dfe9bed13441:0xe612534361182315"
+      },
+      {
+        "note": 5,
+        "texte": "Il est bien",
+        "langue": "fr",
+        "date": "2024-04-10",
+        "auteur": "Léandre DURAND",
+        "auteur_lien": "https://www.google.com/maps/contrib/108687811402330151845/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUREd2JhUXJBRRAB!2m1!1s0x47e0dfe9bed13441:0xe612534361182315"
+      }
+    ]
   }
 }

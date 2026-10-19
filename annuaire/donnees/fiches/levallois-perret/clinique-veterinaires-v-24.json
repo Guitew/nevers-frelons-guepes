@@ -27,7 +27,7 @@
     "longitude": 2.2857783
   },
   "note": 3.9,
-  "avis": 828,
+  "avis": 831,
   "horaires": [
     {
       "jour": 0,
@@ -80,8 +80,8 @@
     "etat": "absent",
     "premiere_detection": null,
     "derniere_detection": null,
-    "derniere_verification": "2026-10-09T16:58:32.124Z",
-    "echecs": 11,
+    "derniere_verification": "2026-10-19T10:42:12.979Z",
+    "echecs": 12,
     "url_detectee": null
   },
   "suggestion": {
@@ -94,7 +94,7 @@
   "dates": {
     "collecte": "2026-10-02",
     "publication": "2026-10-02",
-    "maj": "2026-10-09"
+    "maj": "2026-10-19"
   },
   "source": "google-places",
   "redaction": {
@@ -102,14 +102,22 @@
     "titre": "Clinique Vétérinaires V 24 — Vétérinaire et animaux à Levallois-Perret",
     "meta_titre": "Clinique Vétérinaires V 24 : horaires, avis, téléphone",
     "meta_description": "Clinique Vétérinaires V 24, vétérinaire et animaux à Levallois-Perret : horaires d'ouverture, téléphone, adresse et itinéraire.",
-    "chapo": "Cette fiche présente Clinique Vétérinaires V 24, un vétérinaire et animaux au 108 Rue Rivay, à Levallois-Perret. Ouvert le dimanche au relevé du 9 octobre 2026. Téléphone : 01 55 90 24 24. Note Google : 3,9 sur 5 pour 828 avis.",
+    "chapo": "Cette fiche présente Clinique Vétérinaires V 24, un vétérinaire et animaux au 108 Rue Rivay, à Levallois-Perret. Ouvert le dimanche au relevé du 19 octobre 2026. Téléphone : 01 55 90 24 24. Note Google : 3,9 sur 5 pour 831 avis.",
     "sections": [
       {
         "id": "presentation",
         "titre": "Clinique Vétérinaires V 24 en quelques mots",
         "paragraphes": [
           "Sur Google, l'établissement est classé « Soins vétérinaires », dans notre rubrique Vétérinaire et animaux.",
-          "D'après le relevé du 9 octobre 2026, l'établissement est ouvert le dimanche. Le détail jour par jour figure plus bas."
+          "D'après le relevé du 19 octobre 2026, l'établissement est ouvert le dimanche. Le détail jour par jour figure plus bas."
+        ]
+      },
+      {
+        "id": "prestations",
+        "titre": "Services et équipements de Clinique Vétérinaires V 24",
+        "paragraphes": [
+          "Moyens de paiement déclarés : carte de débit et paiement sans contact.",
+          "Ces indications sont déclarées par l'établissement sur sa fiche Google (relevé du 19 octobre 2026)."
         ]
       },
       {
@@ -131,18 +139,18 @@
         "id": "avis",
         "titre": "La réputation de Clinique Vétérinaires V 24",
         "paragraphes": [
-          "Note de 3,9 sur 5 pour 828 avis Google au relevé du 9 octobre 2026. Les avis se consultent sur la fiche Google, dont le lien figure sur cette page."
+          "Note de 3,9 sur 5 pour 831 avis Google au relevé du 19 octobre 2026. Les avis les plus parlants sont compilés ci-dessous, avec un lien vers la fiche d'origine."
         ]
       }
     ],
     "faq": [
       {
         "q": "Quels sont les horaires de Clinique Vétérinaires V 24 ?",
-        "r": "Au relevé du 9 octobre 2026, Clinique Vétérinaires V 24 était ouvert le dimanche. Dans le détail — lundi : fermé ; mardi : fermé ; mercredi : fermé ; jeudi : fermé ; vendredi : fermé ; samedi : fermé ; dimanche : de 0 h à 23 h 59. Ces horaires peuvent changer : un appel préalable reste conseillé."
+        "r": "Au relevé du 19 octobre 2026, Clinique Vétérinaires V 24 était ouvert le dimanche. Dans le détail — lundi : fermé ; mardi : fermé ; mercredi : fermé ; jeudi : fermé ; vendredi : fermé ; samedi : fermé ; dimanche : de 0 h à 23 h 59. Ces horaires peuvent changer : un appel préalable reste conseillé."
       },
       {
         "q": "Clinique Vétérinaires V 24 est-il ouvert le dimanche ?",
-        "r": "Oui : le dimanche, Clinique Vétérinaires V 24 est ouvert de 0 h à 23 h 59 (horaires relevés le 9 octobre 2026)."
+        "r": "Oui : le dimanche, Clinique Vétérinaires V 24 est ouvert de 0 h à 23 h 59 (horaires relevés le 19 octobre 2026)."
       },
       {
         "q": "Où se trouve Clinique Vétérinaires V 24 ?",
@@ -157,7 +165,7 @@
         "r": "La fiche Google de l'établissement mentionne : « Entrée accessible en fauteuil roulant ». Cette information est déclarative ; en cas de doute, vérifiez par téléphone."
       }
     ],
-    "genere_le": "2026-10-09"
+    "genere_le": "2026-10-19"
   },
   "statut_google": "OPERATIONAL",
   "audience": {
@@ -168,6 +176,65 @@
     "clicsRecents": 0,
     "fenetreRecenteJours": 28,
     "source": "search-console",
-    "date": "2026-10-18"
+    "date": "2026-10-19"
+  },
+  "avis_detail": {
+    "releve": "2026-10-19",
+    "liste": [
+      {
+        "note": 5,
+        "texte": "Mon chat a été hospitalisé début août suite à des vomissements + diarrhée en présence d'une forte fièvre.\nJ'ai bien été accompagné, prévenu de l'état de ma petite journée après jour et l'équipe a su répondre à mes questions\nOui, les prestations sont plus chères qu'un autre cabinet mais cela est évoqué avant traitement/ intervention et beaucoup de services sont possibles tels que le paiement en plusieurs fois (jusqu'à 10x)\nMon chat se porte à merveille depuis sa visite et après conseil du vétérinaire, elle a changé d'alimentation",
+        "langue": "fr",
+        "date": "2026-08-30",
+        "auteur": "Flora Izquierdo",
+        "auteur_lien": "https://www.google.com/maps/contrib/101034889277816271724/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT21Fd05sTXplSFpKZUZoWFoydDVUM2RKU25jemNuYxAB!2m1!1s0x47e66f7f36b6a279:0x8cfac67d6f5cd2e3"
+      },
+      {
+        "note": 5,
+        "texte": "Ils ont sauvé mon chat 2 fois (de 2 maladies différentes). Il vaut mieux les appeler avant de ramener votre animal pour s’assurer qu’ils ont de la place (ils ont besoin d’assurer la capacité à suivre chaque animal). C’est un budget mais ils font que ce qui est nécessaire et décharge l’animal dès que c’est possible en vous donnant l’ordonnance à suivre. Je vais leur être reconnaissante tout ma vie d’avoir sauvé mon bébé",
+        "langue": "fr",
+        "date": "2026-08-04",
+        "auteur": "Valentina Brovchenko",
+        "auteur_lien": "https://www.google.com/maps/contrib/111876706890241250985/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT20xTGRFOHdTVFZEUTBsWk5GRmlZVWRHWVdOSVYzYxAB!2m1!1s0x47e66f7f36b6a279:0x8cfac67d6f5cd2e3"
+      },
+      {
+        "note": 5,
+        "texte": "Ils ont accueillis ma fille nessy après yne grave attaque par un staff. Ils ont tout tenté pour la sauver. Une semaine à se battre pour elle. Ils m'ont appelé chaque jour avant que j'aille la voir. Ils ont repondu à chacunes de mes questions. Elle est partie dans mes bras. Je vous remercie d'avoir tour fait pour elle. La douleur est encore attroce pour moi mais je sais que tout a éte fait pour elle.",
+        "langue": "fr",
+        "date": "2026-08-03",
+        "auteur": "Angie",
+        "auteur_lien": "https://www.google.com/maps/contrib/102824082133675291731/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2tkSk15MUpRVWxOWWxsUFNFaHJibmRMTW1aSFZrRRAB!2m1!1s0x47e66f7f36b6a279:0x8cfac67d6f5cd2e3"
+      },
+      {
+        "note": 5,
+        "texte": "Deux visites pour ma chatte Noisette, une en urgence pour troubles digestifs et une ensuite pour échographie abdominale. Très bon accueil par toute l’équipe, vétérinaires doux et sérieux, expliquant bien. Un compte rendu envoyé pour moi et ma vétérinaire habituelle. Je suis vraiment contente et rassurée de savoir Vet24 proche et toujours disponible. Un grand merci! Noisette de retour à la maison avec un joli ventre rose rasé qu’elle nettoie consciencieusement 😸",
+        "langue": "fr",
+        "date": "2026-04-13",
+        "auteur": "Véronique Blanc",
+        "auteur_lien": "https://www.google.com/maps/contrib/117877268119762908039/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT214blJUUmpXbHBLYm5SVmMwNXBVemhrUkVKNlZGRRAB!2m1!1s0x47e66f7f36b6a279:0x8cfac67d6f5cd2e3"
+      },
+      {
+        "note": 5,
+        "texte": "Mon chien tenue en laisse s’est fait attaqué par un chien ( staff) qui n’était pas tenu en laisse avec une Maitre totalement inconsciente qui était saoule sur la voie publique. Je suis allé en urgence à cette clinique dont on m’a vanté l’efficacité et l’accueil je valide et recommande, ils ont été aux petits soins. Le seul défaut si on peut dire c’est que ça n’est pas forcément le même vétérinaire qui s’occupe de vous mais c’est aussi l’avantage de cette clinique qui vous permet de gérer les urgences à tout moment. Merci encore",
+        "langue": "fr",
+        "date": "2026-03-20",
+        "auteur": "Michael Manaut",
+        "auteur_lien": "https://www.google.com/maps/contrib/115803903831216049818/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25CemRVWXlSM1JEUmpSWFprTTNjR1JpWmxWamNHYxAB!2m1!1s0x47e66f7f36b6a279:0x8cfac67d6f5cd2e3"
+      }
+    ]
+  },
+  "services": {
+    "releve": "2026-10-19",
+    "options": {},
+    "paiement": [
+      "carte de débit",
+      "paiement sans contact"
+    ],
+    "parking": []
   }
 }

@@ -99,8 +99,8 @@
     "etat": "absent",
     "premiere_detection": null,
     "derniere_detection": null,
-    "derniere_verification": "2026-10-09T16:58:32.124Z",
-    "echecs": 69,
+    "derniere_verification": "2026-10-19T10:42:12.979Z",
+    "echecs": 70,
     "url_detectee": null
   },
   "suggestion": {
@@ -120,7 +120,7 @@
   "dates": {
     "collecte": "2026-09-02",
     "publication": "2026-09-02",
-    "maj": "2026-10-18"
+    "maj": "2026-10-19"
   },
   "source": "google-places",
   "redaction": {
@@ -128,14 +128,22 @@
     "titre": "Essity Opérations France — Comptabilité et conseil à Hondouville",
     "meta_titre": "Essity Opérations France à Hondouville : horaires, avis",
     "meta_description": "Essity Opérations France, comptabilité et conseil à Hondouville : horaires d'ouverture, note Google 3,9/5 (97 avis), téléphone, adresse et itinéraire.",
-    "chapo": "Cette fiche présente Essity Opérations France, une comptabilité et conseil au Route de Louviers, à Hondouville. Fermé le samedi et le dimanche au relevé du 18 octobre 2026. Téléphone : 02 32 25 60 60. Note Google : 3,9 sur 5 pour 97 avis.",
+    "chapo": "Cette fiche présente Essity Opérations France, une comptabilité et conseil au Route de Louviers, à Hondouville. Fermé le samedi et le dimanche au relevé du 19 octobre 2026. Téléphone : 02 32 25 60 60. Note Google : 3,9 sur 5 pour 97 avis.",
     "sections": [
       {
         "id": "presentation",
         "titre": "Essity Opérations France en quelques mots",
         "paragraphes": [
           "Sur Google, l'établissement est classé « Siège social », dans notre rubrique Comptabilité et conseil.",
-          "D'après le relevé du 18 octobre 2026, l'établissement est fermé le samedi et le dimanche. Le détail jour par jour figure plus bas."
+          "D'après le relevé du 19 octobre 2026, l'établissement est fermé le samedi et le dimanche. Le détail jour par jour figure plus bas."
+        ]
+      },
+      {
+        "id": "prestations",
+        "titre": "Services et équipements de Essity Opérations France",
+        "paragraphes": [
+          "Proposé : toilettes.",
+          "Ces indications sont déclarées par l'établissement sur sa fiche Google (relevé du 19 octobre 2026)."
         ]
       },
       {
@@ -157,18 +165,18 @@
         "id": "avis",
         "titre": "La réputation de Essity Opérations France",
         "paragraphes": [
-          "Note de 3,9 sur 5 pour 97 avis Google au relevé du 18 octobre 2026. Les avis se consultent sur la fiche Google, dont le lien figure sur cette page."
+          "Note de 3,9 sur 5 pour 97 avis Google au relevé du 19 octobre 2026. Les avis les plus parlants sont compilés ci-dessous, avec un lien vers la fiche d'origine."
         ]
       }
     ],
     "faq": [
       {
         "q": "Quels sont les horaires de Essity Opérations France ?",
-        "r": "Au relevé du 18 octobre 2026, Essity Opérations France était fermé le samedi et le dimanche. Dans le détail — lundi : de 8 h à 17 h ; mardi : de 8 h à 17 h ; mercredi : de 8 h à 17 h ; jeudi : de 8 h à 17 h ; vendredi : de 8 h à 17 h ; samedi : fermé ; dimanche : fermé. Ces horaires peuvent changer : un appel préalable reste conseillé."
+        "r": "Au relevé du 19 octobre 2026, Essity Opérations France était fermé le samedi et le dimanche. Dans le détail — lundi : de 8 h à 17 h ; mardi : de 8 h à 17 h ; mercredi : de 8 h à 17 h ; jeudi : de 8 h à 17 h ; vendredi : de 8 h à 17 h ; samedi : fermé ; dimanche : fermé. Ces horaires peuvent changer : un appel préalable reste conseillé."
       },
       {
         "q": "Essity Opérations France est-il ouvert le dimanche ?",
-        "r": "Non : d'après les horaires relevés le 18 octobre 2026, Essity Opérations France est fermé le dimanche."
+        "r": "Non : d'après les horaires relevés le 19 octobre 2026, Essity Opérations France est fermé le dimanche."
       },
       {
         "q": "Où se trouve Essity Opérations France ?",
@@ -183,7 +191,7 @@
         "r": "La fiche Google de l'établissement mentionne : « Parking accessible en fauteuil roulant ». Cette information est déclarative ; en cas de doute, vérifiez par téléphone."
       }
     ],
-    "genere_le": "2026-10-18"
+    "genere_le": "2026-10-19"
   },
   "statut_google": "OPERATIONAL",
   "audience": {
@@ -194,7 +202,7 @@
     "clicsRecents": 0,
     "fenetreRecenteJours": 28,
     "source": "search-console",
-    "date": "2026-10-18"
+    "date": "2026-10-19"
   },
   "indexation": {
     "etat": "non-indexee",
@@ -204,5 +212,63 @@
     "canonique_google": null,
     "source": "inspection",
     "date": "2026-10-18"
+  },
+  "avis_detail": {
+    "releve": "2026-10-19",
+    "liste": [
+      {
+        "note": 5,
+        "texte": "Livraison rapide et nickel avec la personne qui nous a réceptionné.\nCariste intérimaire qui remplace la personne parti en retraite. Efficace et sympathique. Au plaisir de vous revoir.",
+        "langue": "fr",
+        "date": "2025-11-26",
+        "auteur": "Jo",
+        "auteur_lien": "https://www.google.com/maps/contrib/107651580998351966574/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2poWVNVTmZlWGRmTlRGcVZEVmliM2MyWmtacVdtYxAB!2m1!1s0x47e13b892fffffff:0x5bc9c9f996dbd718"
+      },
+      {
+        "note": 5,
+        "texte": "Déchargement de balles de papier, si vous arrivez en avance c’est nickel, prise en charge toujours à l’heure du rdv ou ils vous font rentrer 5min avant, personnel sympa et déchargement très rapide",
+        "langue": "fr",
+        "date": "2025-08-07",
+        "auteur": "Clem60_",
+        "auteur_lien": "https://www.google.com/maps/contrib/104923347461070502297/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xWYVZGbG5SV1IyUm5OclRGRkhaMlZDUTJwS1gyYxAB!2m1!1s0x47e13b892fffffff:0x5bc9c9f996dbd718"
+      },
+      {
+        "note": 1,
+        "texte": "Rendez-vous 11h arrivé 10h45 obligé de revenir à 13h sous prétexte que le cariste est parti déjeuner honteux encore une bonne boutique à la française",
+        "langue": "fr",
+        "date": "2024-10-22",
+        "auteur": "mickael Falempin",
+        "auteur_lien": "https://www.google.com/maps/contrib/116017465516692346100/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUNYMzdEWW5BRRAB!2m1!1s0x47e13b892fffffff:0x5bc9c9f996dbd718"
+      },
+      {
+        "note": 4,
+        "texte": "Déchargement rapide, bon accueil, douche et toilettes à droite du parking convenables, mais ils pourraient investir dans un tuyau de douche et un porte-manteau.",
+        "langue": "fr",
+        "date": "2024-08-07",
+        "auteur": "mick mick Mick",
+        "auteur_lien": "https://www.google.com/maps/contrib/109578773601080494482/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSURiaGM3U2dnRRAB!2m1!1s0x47e13b892fffffff:0x5bc9c9f996dbd718"
+      },
+      {
+        "note": 5,
+        "texte": "Acces par une route étroite mais ca passe tout de même en semi, le personnel au posté d’entrée est vraiment arrangeant et sympathique, cariste efficace. FMA",
+        "langue": "fr",
+        "date": "2024-03-02",
+        "auteur": "Chretien Cedric",
+        "auteur_lien": "https://www.google.com/maps/contrib/106116911722428322018/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUM5MUwyNkxnEAE!2m1!1s0x47e13b892fffffff:0x5bc9c9f996dbd718"
+      }
+    ]
+  },
+  "services": {
+    "releve": "2026-10-19",
+    "options": {
+      "restroom": true
+    },
+    "paiement": [],
+    "parking": []
   }
 }

@@ -32,7 +32,7 @@
     "longitude": 6.2326638999999995
   },
   "note": 4.7,
-  "avis": 153,
+  "avis": 155,
   "horaires": [
     {
       "jour": 0,
@@ -130,8 +130,8 @@
     "etat": "absent",
     "premiere_detection": null,
     "derniere_detection": null,
-    "derniere_verification": "2026-10-09T16:58:32.124Z",
-    "echecs": 7,
+    "derniere_verification": "2026-10-19T10:42:12.979Z",
+    "echecs": 8,
     "url_detectee": null
   },
   "suggestion": {
@@ -144,22 +144,34 @@
   "dates": {
     "collecte": "2026-10-03",
     "publication": "2026-10-03",
-    "maj": "2026-10-09"
+    "maj": "2026-10-19"
   },
   "source": "google-places",
   "redaction": {
     "version": 2,
     "titre": "Digne d'un Pain — Boulangerie-pâtisserie à Digne-les-Bains",
     "meta_titre": "Digne d'un Pain à Digne-les-Bains : horaires, avis",
-    "meta_description": "Digne d'un Pain, boulangerie-pâtisserie à Digne-les-Bains : horaires d'ouverture, note Google 4,7/5 (153 avis), téléphone, adresse et itinéraire.",
-    "chapo": "Digne d'un Pain, boulangerie-pâtisserie au 3 Rue Beau de Rochas, à Digne-les-Bains. Ouvert tous les jours sauf le dimanche au relevé du 9 octobre 2026. Téléphone : 04 92 68 13 81. Note Google : 4,7 sur 5 pour 153 avis.",
+    "meta_description": "Digne d'un Pain, boulangerie-pâtisserie à Digne-les-Bains : horaires d'ouverture, note Google 4,7/5 (155 avis), téléphone, adresse et itinéraire.",
+    "chapo": "Digne d'un Pain, boulangerie-pâtisserie au 3 Rue Beau de Rochas, à Digne-les-Bains. Ouvert tous les jours sauf le dimanche au relevé du 19 octobre 2026. Téléphone : 04 92 68 13 81. Note Google : 4,7 sur 5 pour 155 avis.",
     "sections": [
       {
         "id": "presentation",
         "titre": "Digne d'un Pain en quelques mots",
         "paragraphes": [
           "Sur Google, l'établissement est classé « Boulangerie », dans notre rubrique Boulangerie-pâtisserie.",
-          "D'après le relevé du 9 octobre 2026, l'établissement est ouvert tous les jours sauf le dimanche. Le détail jour par jour figure plus bas."
+          "Niveau de prix indiqué sur la fiche Google : € (bon marché).",
+          "D'après le relevé du 19 octobre 2026, l'établissement est ouvert tous les jours sauf le dimanche. Le détail jour par jour figure plus bas."
+        ]
+      },
+      {
+        "id": "prestations",
+        "titre": "Services et équipements de Digne d'un Pain",
+        "paragraphes": [
+          "Proposé : à emporter, petit-déjeuner et café.",
+          "Non proposé selon la fiche Google : livraison et toilettes.",
+          "Moyens de paiement déclarés : carte bancaire, carte de débit et paiement sans contact.",
+          "Stationnement : parking gratuit et stationnement gratuit dans la rue.",
+          "Ces indications sont déclarées par l'établissement sur sa fiche Google (relevé du 19 octobre 2026)."
         ]
       },
       {
@@ -181,18 +193,18 @@
         "id": "avis",
         "titre": "La réputation de Digne d'un Pain",
         "paragraphes": [
-          "Note de 4,7 sur 5 pour 153 avis Google au relevé du 9 octobre 2026. Les avis se consultent sur la fiche Google, dont le lien figure sur cette page."
+          "Note de 4,7 sur 5 pour 155 avis Google au relevé du 19 octobre 2026. Les avis les plus parlants sont compilés ci-dessous, avec un lien vers la fiche d'origine."
         ]
       }
     ],
     "faq": [
       {
         "q": "Quels sont les horaires de Digne d'un Pain ?",
-        "r": "Au relevé du 9 octobre 2026, Digne d'un Pain était ouvert tous les jours sauf le dimanche. Dans le détail — lundi : de 6 h 30 à 13 h et de 15 h 30 à 19 h ; mardi : de 6 h 30 à 13 h et de 15 h 30 à 19 h ; mercredi : de 6 h 30 à 13 h et de 15 h 30 à 19 h ; jeudi : de 6 h 30 à 13 h ; vendredi : de 6 h 30 à 13 h et de 15 h 30 à 19 h ; samedi : de 6 h 30 à 13 h et de 15 h 30 à 18 h ; dimanche : fermé. Ces horaires peuvent changer : un appel préalable reste conseillé."
+        "r": "Au relevé du 19 octobre 2026, Digne d'un Pain était ouvert tous les jours sauf le dimanche. Dans le détail — lundi : de 6 h 30 à 13 h et de 15 h 30 à 19 h ; mardi : de 6 h 30 à 13 h et de 15 h 30 à 19 h ; mercredi : de 6 h 30 à 13 h et de 15 h 30 à 19 h ; jeudi : de 6 h 30 à 13 h ; vendredi : de 6 h 30 à 13 h et de 15 h 30 à 19 h ; samedi : de 6 h 30 à 13 h et de 15 h 30 à 18 h ; dimanche : fermé. Ces horaires peuvent changer : un appel préalable reste conseillé."
       },
       {
         "q": "Digne d'un Pain est-il ouvert le dimanche ?",
-        "r": "Non : d'après les horaires relevés le 9 octobre 2026, Digne d'un Pain est fermé le dimanche."
+        "r": "Non : d'après les horaires relevés le 19 octobre 2026, Digne d'un Pain est fermé le dimanche."
       },
       {
         "q": "Où se trouve Digne d'un Pain ?",
@@ -203,11 +215,19 @@
         "r": "Par téléphone au 04 92 68 13 81, ou directement sur place aux heures d'ouverture."
       },
       {
+        "q": "Digne d'un Pain propose-t-il la vente à emporter ou la livraison ?",
+        "r": "D'après sa fiche Google (relevé du 19 octobre 2026) — vente à emporter : oui ; livraison : non."
+      },
+      {
+        "q": "Quel est le niveau de prix de Digne d'un Pain ?",
+        "r": "Google classe Digne d'un Pain au niveau de prix € (bon marché), sur une échelle de € à €€€€ établie à partir des avis clients."
+      },
+      {
         "q": "Digne d'un Pain est-il accessible aux personnes à mobilité réduite ?",
         "r": "La fiche Google de l'établissement mentionne : « Parking accessible en fauteuil roulant ». Cette information est déclarative ; en cas de doute, vérifiez par téléphone."
       }
     ],
-    "genere_le": "2026-10-09"
+    "genere_le": "2026-10-19"
   },
   "statut_google": "OPERATIONAL",
   "audience": {
@@ -218,6 +238,76 @@
     "clicsRecents": 0,
     "fenetreRecenteJours": 28,
     "source": "search-console",
-    "date": "2026-10-18"
+    "date": "2026-10-19"
+  },
+  "avis_detail": {
+    "releve": "2026-10-19",
+    "liste": [
+      {
+        "note": 5,
+        "texte": "Après d avoir essayer toutes les boulangerie de Digne, je confirme: la meilleur baguette tradition!!!! Dame super sympa et souriante",
+        "langue": "fr",
+        "date": "2026-06-19",
+        "auteur": "Michael 04",
+        "auteur_lien": "https://www.google.com/maps/contrib/109730245216594958870/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25kalQyOVBSV3RVWWw5U01ESnZWVU4yVVhSUWVrRRAB!2m1!1s0x12cb9ab3fbff70d7:0xa93e1cce2e19b38"
+      },
+      {
+        "note": 5,
+        "texte": "La boulangerie Digne d'un Pain est une bonne adresse pour une pause déjeuner rapide et efficace. J'ai trouvé que le choix était suffisant, et les produits proposés sont très pratiques pour un repas sur le pouce, comme les sandwiches, les pan-bagnat et les salades. Le service est excellent : la vendeuse était très agréable et souriante. C'est le genre de petite boulangerie où l'on se sent bien accueilli. Pour la qualité des produits et la gentillesse du personnel, je recommande vivement cette boulangerie si vous cherchez une solution simple pour votre déjeuner.",
+        "langue": "fr",
+        "date": "2025-08-19",
+        "auteur": "Ikram B. SALEM",
+        "auteur_lien": "https://www.google.com/maps/contrib/114395938810868176391/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2pNMWRqVnlSR3B2T0VoT2IwbDNUMmt0Wm1aU2FsRRAB!2m1!1s0x12cb9ab3fbff70d7:0xa93e1cce2e19b38"
+      },
+      {
+        "note": 5,
+        "texte": "Superbe accueil ! La vendeuse est tout sourire et très agréable, ce qui se fait rare et donc très apprécié.  Ça va devenir ma nouvelle cafet. Le café est à 1€. Je recommande très vivement !",
+        "langue": "fr",
+        "date": "2024-07-30",
+        "auteur": "Maudites Amours",
+        "auteur_lien": "https://www.google.com/maps/contrib/116949612691143727706/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUNiLS1MdnRRRRAB!2m1!1s0x12cb9ab3fbff70d7:0xa93e1cce2e19b38"
+      },
+      {
+        "note": 5,
+        "texte": "Ravie de vous avoir fait confiance pour les desserts du baptême de notre fils . La pièce montée était magnifique , les gâteaux étaient succulents. Tout le monde s’est bien régalé !!  Un grand merci ♥️",
+        "langue": "fr",
+        "date": "2024-06-03",
+        "auteur": "Marie Poupi",
+        "auteur_lien": "https://www.google.com/maps/contrib/106225794279118357386/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUN6bVpldDRnRRAB!2m1!1s0x12cb9ab3fbff70d7:0xa93e1cce2e19b38"
+      },
+      {
+        "note": 5,
+        "texte": "De passage à Digne, nous avons choisit cette boulangerie car super bien noté. Nous n’avons pas été déçu. La boulangère est très gentille et souriante, beaucoup de choix et tout à l’air très bon",
+        "langue": "fr",
+        "date": "2024-04-30",
+        "auteur": "blast Razer",
+        "auteur_lien": "https://www.google.com/maps/contrib/106812626488597141108/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSURqak4tNEpREAE!2m1!1s0x12cb9ab3fbff70d7:0xa93e1cce2e19b38"
+      }
+    ]
+  },
+  "services": {
+    "releve": "2026-10-19",
+    "prix": "PRICE_LEVEL_INEXPENSIVE",
+    "options": {
+      "takeout": true,
+      "delivery": false,
+      "servesBreakfast": true,
+      "servesCoffee": true,
+      "restroom": false
+    },
+    "paiement": [
+      "carte bancaire",
+      "carte de débit",
+      "paiement sans contact"
+    ],
+    "parking": [
+      "parking gratuit",
+      "stationnement gratuit dans la rue"
+    ]
   }
 }
