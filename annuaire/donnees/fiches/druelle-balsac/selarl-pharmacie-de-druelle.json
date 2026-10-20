@@ -1,0 +1,290 @@
+{
+  "id": "ChIJZzv8OSd-shIRViBqdB1auy0",
+  "slug": "selarl-pharmacie-de-druelle",
+  "nom": "Selarl Pharmacie de Druelle",
+  "categorie": "pharmacies-opticiens",
+  "categorie_gmb": "Pharmacie",
+  "type_principal": "pharmacy",
+  "types": [
+    "pharmacy",
+    "real_estate_agency",
+    "store",
+    "point_of_interest",
+    "service",
+    "health",
+    "establishment"
+  ],
+  "ville": "Druelle Balsac",
+  "ville_slug": "druelle-balsac",
+  "adresse": {
+    "rue": "1 impasse des Rubis",
+    "code_postal": "12510",
+    "departement": "12",
+    "region": "Occitanie",
+    "pays": "France",
+    "complete": "1 impasse des Rubis, 12510 Druelle Balsac"
+  },
+  "telephone": "05 65 72 48 85",
+  "geo": {
+    "latitude": 44.369166,
+    "longitude": 2.5191589999999997
+  },
+  "note": 4.2,
+  "avis": 39,
+  "horaires": [
+    {
+      "jour": 0,
+      "ferme": false,
+      "creneaux": [
+        [
+          "09:00",
+          "12:30"
+        ],
+        [
+          "14:00",
+          "19:00"
+        ]
+      ]
+    },
+    {
+      "jour": 1,
+      "ferme": false,
+      "creneaux": [
+        [
+          "09:00",
+          "12:30"
+        ],
+        [
+          "14:00",
+          "19:00"
+        ]
+      ]
+    },
+    {
+      "jour": 2,
+      "ferme": false,
+      "creneaux": [
+        [
+          "09:00",
+          "12:30"
+        ],
+        [
+          "14:00",
+          "19:00"
+        ]
+      ]
+    },
+    {
+      "jour": 3,
+      "ferme": false,
+      "creneaux": [
+        [
+          "09:00",
+          "12:30"
+        ],
+        [
+          "14:00",
+          "19:00"
+        ]
+      ]
+    },
+    {
+      "jour": 4,
+      "ferme": false,
+      "creneaux": [
+        [
+          "09:00",
+          "12:30"
+        ],
+        [
+          "14:00",
+          "19:00"
+        ]
+      ]
+    },
+    {
+      "jour": 5,
+      "ferme": false,
+      "creneaux": [
+        [
+          "09:00",
+          "12:30"
+        ]
+      ]
+    },
+    {
+      "jour": 6,
+      "ferme": true,
+      "creneaux": []
+    }
+  ],
+  "attributs": [
+    "Entrée accessible en fauteuil roulant",
+    "Parking accessible en fauteuil roulant"
+  ],
+  "lien_google": "https://maps.google.com/?cid=3295326634905313366&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
+  "site_web_gmb": null,
+  "statut": "publiee",
+  "backlink": {
+    "etat": "absent",
+    "premiere_detection": null,
+    "derniere_detection": null,
+    "derniere_verification": "2026-10-20T09:58:52.830Z",
+    "echecs": 1,
+    "url_detectee": null
+  },
+  "suggestion": {
+    "etat": "en-attente",
+    "date_soumission": null,
+    "tentatives": 0,
+    "date_email": "2026-10-20"
+  },
+  "retrait": null,
+  "dates": {
+    "collecte": "2026-10-20",
+    "publication": "2026-10-20",
+    "maj": "2026-10-20"
+  },
+  "source": "google-places",
+  "avis_detail": {
+    "releve": "2026-10-20",
+    "liste": [
+      {
+        "note": 5,
+        "texte": "Nous nous y sommes rendus car c'était la pharmacie de garde: je recommande vivement!",
+        "langue": "fr",
+        "date": "2026-06-12",
+        "auteur": "Gaëlle chikhi",
+        "auteur_lien": "https://www.google.com/maps/contrib/104887691501934750563/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT21kcGFYbDRXV2xXU1hoTVVXTkhhVGsyV2xadlgwRRAB!2m1!1s0x12b27e2739fc3b67:0x2dbb5a1d746a2056"
+      },
+      {
+        "note": 5,
+        "texte": "Nous sommes venus pour ma fille un samedi soir, envoyé par le médecin de garde. Nous avons été bien accueillis et ce malgré une garde compliquée pour la pharmacienne. Accueil sympathique et professionalisme sont au rdv. Bravo !",
+        "langue": "fr",
+        "date": "2025-02-05",
+        "auteur": "Franck Bernard",
+        "auteur_lien": "https://www.google.com/maps/contrib/115627855143303221319/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnTUNBbi1qUzR3RRAB!2m1!1s0x12b27e2739fc3b67:0x2dbb5a1d746a2056"
+      },
+      {
+        "note": 5,
+        "texte": "Pharmacie récemment aménagée avec un parking privé qui facilite les allées et venues. On attend rarement pour la délivrance des prescriptions des ordonnances quelque soit l'heure de la journée. L'accueil très charmant de toute l'équipe est un vrai plaisir :)",
+        "langue": "fr",
+        "date": "2024-05-31",
+        "auteur": "Anthony SEGUIER",
+        "auteur_lien": "https://www.google.com/maps/contrib/112366988452855698873/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUN6M1A3OEJnEAE!2m1!1s0x12b27e2739fc3b67:0x2dbb5a1d746a2056"
+      },
+      {
+        "note": 1,
+        "texte": "Pharmacie de garde aujourd'hui, Accueil très désagréable, la pharmacienne m'a reproché de venir chercher un traitement aujourd'hui (ben oui, je suis à court et je m'en suis aperçue hier soir à 21h) et m'a aussi dit que c'était nos impôts qui payaient les frais de garde. Je travaille comme elle. C'est incroyable. Les clients n'y sont pour rien si ça tombe sur elle le 24/12.",
+        "langue": "fr",
+        "date": "2023-12-24",
+        "auteur": "Patricia Tomeo",
+        "auteur_lien": "https://www.google.com/maps/contrib/102114569744373599350/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUMxekx1WW1nRRAB!2m1!1s0x12b27e2739fc3b67:0x2dbb5a1d746a2056"
+      },
+      {
+        "note": 1,
+        "texte": "Je mets 1 🌟 pour pouvoir commenter, mais cette pharmacienne n en mérite aucune !!!aprés 1panne de voiture, elle a refusé de me servir un médicament sur ordonnance car je ne m étais soi-disant \"pas présenté \"en personne à elle et quelle ne me connaissait pas!!!en panne je ne sais pas comment j aurais pu faire ??personne trés désagréable et rétrograde. C'est dommage, car les préparatrices, st bien sympathiques. Mais elle,une vrai \"peau de vache\"!!Mon médecin, l a appelé et lui a dit, ou vs servez madame, ou vs inscrivez la raison de votre refus sur l ordonnance et ⁹devinez ce qu elle a écrit, cette grande courageuse...\"n a plus le médicament en stock \"!!!MYTHO!!!!je vous deconseille fortement cette pharmacie et regrette amèrement l ancienne patronne qui était d une gentillesse sans nom.Madame,votre boulot n est pas de juger les gens en fonction des médicaments qu ils prennent !!!c est honteux de traiter  kk1 de cette  façon, mm dans un petit village !!honte à vous !!je ne souhaite à personne de se retrouver dans la mm situation que moi ce jour-là, un samedi à 11h30,avec aucun  moyen d aller ailleurs!!heureusement par la suite, un pharmacien a eu assez d empathie pour me dépanner, un grand merci à lui!!!",
+        "langue": "fr",
+        "date": "2023-12-12",
+        "auteur": "Cerise Simon",
+        "auteur_lien": "https://www.google.com/maps/contrib/102471008411679218632/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSURWLW9QYldBEAE!2m1!1s0x12b27e2739fc3b67:0x2dbb5a1d746a2056"
+      }
+    ]
+  },
+  "services": {
+    "releve": "2026-10-20",
+    "options": {},
+    "paiement": [
+      "carte bancaire",
+      "carte de débit",
+      "paiement sans contact"
+    ],
+    "parking": []
+  },
+  "redaction": {
+    "version": 2,
+    "titre": "Selarl Pharmacie de Druelle — Pharmacie ou opticien à Druelle Balsac",
+    "meta_titre": "Selarl Pharmacie de Druelle : horaires, avis, téléphone",
+    "meta_description": "Selarl Pharmacie de Druelle, pharmacie ou opticien à Druelle Balsac : horaires d'ouverture, note Google 4,2/5 (39 avis), téléphone, adresse et itinéraire.",
+    "chapo": "Selarl Pharmacie de Druelle exerce l'activité de pharmacie ou opticien au 1 impasse des Rubis, à Druelle Balsac. Ouvert tous les jours sauf le dimanche au relevé du 20 octobre 2026. Téléphone : 05 65 72 48 85. Note Google : 4,2 sur 5 pour 39 avis.",
+    "sections": [
+      {
+        "id": "presentation",
+        "titre": "Selarl Pharmacie de Druelle en quelques mots",
+        "paragraphes": [
+          "Sur Google, l'établissement est classé « Pharmacie », dans notre rubrique Pharmacie ou opticien.",
+          "D'après le relevé du 20 octobre 2026, l'établissement est ouvert tous les jours sauf le dimanche. Le détail jour par jour figure plus bas."
+        ]
+      },
+      {
+        "id": "prestations",
+        "titre": "Services et équipements de Selarl Pharmacie de Druelle",
+        "paragraphes": [
+          "Moyens de paiement déclarés : carte bancaire, carte de débit et paiement sans contact.",
+          "Ces indications sont déclarées par l'établissement sur sa fiche Google (relevé du 20 octobre 2026)."
+        ]
+      },
+      {
+        "id": "acces",
+        "titre": "Adresse et accès",
+        "paragraphes": [
+          "L'établissement est situé au 1 impasse des Rubis, 12510 Druelle Balsac.",
+          "Coordonnées GPS : 44.36917, 2.51916. Le bouton Itinéraire de cette page ouvre la navigation."
+        ]
+      },
+      {
+        "id": "contact",
+        "titre": "Contacter Selarl Pharmacie de Druelle",
+        "paragraphes": [
+          "Le contact se fait par téléphone au 05 65 72 48 85, ou directement sur place aux horaires d'ouverture."
+        ]
+      },
+      {
+        "id": "avis",
+        "titre": "La réputation de Selarl Pharmacie de Druelle",
+        "paragraphes": [
+          "Note de 4,2 sur 5 pour 39 avis Google au relevé du 20 octobre 2026. Les avis les plus parlants sont compilés ci-dessous, avec un lien vers la fiche d'origine."
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "q": "Quels sont les horaires de Selarl Pharmacie de Druelle ?",
+        "r": "Au relevé du 20 octobre 2026, Selarl Pharmacie de Druelle était ouvert tous les jours sauf le dimanche. Dans le détail — lundi : de 9 h à 12 h 30 et de 14 h à 19 h ; mardi : de 9 h à 12 h 30 et de 14 h à 19 h ; mercredi : de 9 h à 12 h 30 et de 14 h à 19 h ; jeudi : de 9 h à 12 h 30 et de 14 h à 19 h ; vendredi : de 9 h à 12 h 30 et de 14 h à 19 h ; samedi : de 9 h à 12 h 30 ; dimanche : fermé. Ces horaires peuvent changer : un appel préalable reste conseillé."
+      },
+      {
+        "q": "Selarl Pharmacie de Druelle est-il ouvert le dimanche ?",
+        "r": "Non : d'après les horaires relevés le 20 octobre 2026, Selarl Pharmacie de Druelle est fermé le dimanche."
+      },
+      {
+        "q": "Où se trouve Selarl Pharmacie de Druelle ?",
+        "r": "Selarl Pharmacie de Druelle se trouve 1 impasse des Rubis, 12510 Druelle Balsac. Un lien d'itinéraire est disponible sur cette page."
+      },
+      {
+        "q": "Comment contacter Selarl Pharmacie de Druelle ?",
+        "r": "Par téléphone au 05 65 72 48 85, ou directement sur place aux heures d'ouverture."
+      },
+      {
+        "q": "Selarl Pharmacie de Druelle est-il accessible aux personnes à mobilité réduite ?",
+        "r": "La fiche Google de l'établissement mentionne : « Entrée accessible en fauteuil roulant ». Cette information est déclarative ; en cas de doute, vérifiez par téléphone."
+      }
+    ],
+    "genere_le": "2026-10-20"
+  },
+  "statut_google": "OPERATIONAL",
+  "audience": {
+    "clics": 0,
+    "impressions": 0,
+    "position": null,
+    "fenetreJours": 90,
+    "clicsRecents": 0,
+    "fenetreRecenteJours": 28,
+    "source": "search-console",
+    "date": "2026-10-20"
+  }
+}

@@ -28,7 +28,7 @@
     "longitude": 2.398827
   },
   "note": 4.4,
-  "avis": 2410,
+  "avis": 2424,
   "horaires": [
     {
       "jour": 0,
@@ -99,8 +99,8 @@
     "etat": "absent",
     "premiere_detection": null,
     "derniere_detection": null,
-    "derniere_verification": "2026-10-09T16:58:32.124Z",
-    "echecs": 67,
+    "derniere_verification": "2026-10-20T09:58:52.830Z",
+    "echecs": 68,
     "url_detectee": null
   },
   "suggestion": {
@@ -118,22 +118,35 @@
   "dates": {
     "collecte": "2026-09-02",
     "publication": "2026-09-02",
-    "maj": "2026-10-19"
+    "maj": "2026-10-20"
   },
   "source": "google-places",
   "redaction": {
     "version": 2,
     "titre": "La Cité Fertile — Café ou bar à Pantin",
     "meta_titre": "La Cité Fertile à Pantin : horaires, avis, téléphone",
-    "meta_description": "La Cité Fertile, café ou bar à Pantin : horaires d'ouverture, note Google 4,4/5 (2410 avis), téléphone, adresse et itinéraire.",
-    "chapo": "Cette fiche présente La Cité Fertile, un café ou bar au 14 Avenue Edouard Vaillant, à Pantin. Fermé le lundi, le mardi et le mercredi au relevé du 18 octobre 2026. Téléphone : 01 48 43 04 60. Note Google : 4,4 sur 5 pour 2410 avis.",
+    "meta_description": "La Cité Fertile, café ou bar à Pantin : horaires d'ouverture, note Google 4,4/5 (2424 avis), téléphone, adresse et itinéraire.",
+    "chapo": "Cette fiche présente La Cité Fertile, un café ou bar au 14 Avenue Edouard Vaillant, à Pantin. Fermé le lundi, le mardi et le mercredi au relevé du 20 octobre 2026. Téléphone : 01 48 43 04 60. Note Google : 4,4 sur 5 pour 2424 avis.",
     "sections": [
       {
         "id": "presentation",
         "titre": "La Cité Fertile en quelques mots",
         "paragraphes": [
+          "Présentation donnée par Google : « Restaurant animé comprenant un café, une brasserie, un biergarten et des stands proposant des plats de rue internationaux. »",
           "Sur Google, l'établissement est classé « Bar », dans notre rubrique Café ou bar.",
-          "D'après le relevé du 18 octobre 2026, l'établissement est fermé le lundi, le mardi et le mercredi. Le détail jour par jour figure plus bas."
+          "Niveau de prix indiqué sur la fiche Google : €€ (modéré).",
+          "D'après le relevé du 20 octobre 2026, l'établissement est fermé le lundi, le mardi et le mercredi. Le détail jour par jour figure plus bas."
+        ]
+      },
+      {
+        "id": "prestations",
+        "titre": "Services et équipements de La Cité Fertile",
+        "paragraphes": [
+          "Proposé : sur place, à emporter, réservation possible, terrasse, brunch, déjeuner, dîner, plats végétariens, café, bière, vin, cocktails, adapté aux enfants, adapté aux groupes, retransmissions sportives, musique live, chiens acceptés et toilettes.",
+          "Non proposé selon la fiche Google : livraison, petit-déjeuner et menu enfant.",
+          "Moyens de paiement déclarés : carte bancaire, carte de débit et paiement sans contact.",
+          "Stationnement : parking gratuit et stationnement payant dans la rue.",
+          "Ces indications sont déclarées par l'établissement sur sa fiche Google (relevé du 20 octobre 2026)."
         ]
       },
       {
@@ -148,25 +161,26 @@
         "id": "contact",
         "titre": "Contacter La Cité Fertile",
         "paragraphes": [
-          "Le contact se fait par téléphone au 01 48 43 04 60, ou directement sur place aux horaires d'ouverture."
+          "Le contact se fait par téléphone au 01 48 43 04 60, ou directement sur place aux horaires d'ouverture.",
+          "La fiche Google indique que la réservation est possible."
         ]
       },
       {
         "id": "avis",
         "titre": "La réputation de La Cité Fertile",
         "paragraphes": [
-          "Note de 4,4 sur 5 pour 2410 avis Google au relevé du 18 octobre 2026. Les avis se consultent sur la fiche Google, dont le lien figure sur cette page."
+          "Note de 4,4 sur 5 pour 2424 avis Google au relevé du 20 octobre 2026. Les avis les plus parlants sont compilés ci-dessous, avec un lien vers la fiche d'origine."
         ]
       }
     ],
     "faq": [
       {
         "q": "Quels sont les horaires de La Cité Fertile ?",
-        "r": "Au relevé du 18 octobre 2026, La Cité Fertile était fermé le lundi, le mardi et le mercredi. Dans le détail — lundi : fermé ; mardi : fermé ; mercredi : fermé ; jeudi : de 18 h à 0 h ; vendredi : de 18 h à 0 h ; samedi : de 12 h à 0 h ; dimanche : de 12 h à 22 h. Ces horaires peuvent changer : un appel préalable reste conseillé."
+        "r": "Au relevé du 20 octobre 2026, La Cité Fertile était fermé le lundi, le mardi et le mercredi. Dans le détail — lundi : fermé ; mardi : fermé ; mercredi : fermé ; jeudi : de 18 h à 0 h ; vendredi : de 18 h à 0 h ; samedi : de 12 h à 0 h ; dimanche : de 12 h à 22 h. Ces horaires peuvent changer : un appel préalable reste conseillé."
       },
       {
         "q": "La Cité Fertile est-il ouvert le dimanche ?",
-        "r": "Oui : le dimanche, La Cité Fertile est ouvert de 12 h à 22 h (horaires relevés le 18 octobre 2026)."
+        "r": "Oui : le dimanche, La Cité Fertile est ouvert de 12 h à 22 h (horaires relevés le 20 octobre 2026)."
       },
       {
         "q": "Où se trouve La Cité Fertile ?",
@@ -177,11 +191,23 @@
         "r": "Par téléphone au 01 48 43 04 60, ou directement sur place aux heures d'ouverture."
       },
       {
+        "q": "Peut-on réserver chez La Cité Fertile ?",
+        "r": "Oui, la fiche Google de La Cité Fertile indique que la réservation est possible, par téléphone au 01 48 43 04 60."
+      },
+      {
+        "q": "La Cité Fertile propose-t-il la vente à emporter ou la livraison ?",
+        "r": "D'après sa fiche Google (relevé du 20 octobre 2026) — vente à emporter : oui ; livraison : non."
+      },
+      {
+        "q": "Quel est le niveau de prix de La Cité Fertile ?",
+        "r": "Google classe La Cité Fertile au niveau de prix €€ (modéré), sur une échelle de € à €€€€ établie à partir des avis clients."
+      },
+      {
         "q": "La Cité Fertile est-il accessible aux personnes à mobilité réduite ?",
         "r": "La fiche Google de l'établissement mentionne : « Entrée accessible en fauteuil roulant ». Cette information est déclarative ; en cas de doute, vérifiez par téléphone."
       }
     ],
-    "genere_le": "2026-10-18"
+    "genere_le": "2026-10-20"
   },
   "statut_google": "OPERATIONAL",
   "audience": {
@@ -192,7 +218,7 @@
     "clicsRecents": 0,
     "fenetreRecenteJours": 28,
     "source": "search-console",
-    "date": "2026-10-19"
+    "date": "2026-10-20"
   },
   "indexation": {
     "etat": "non-indexee",
@@ -202,5 +228,93 @@
     "canonique_google": null,
     "source": "inspection",
     "date": "2026-10-19"
+  },
+  "avis_detail": {
+    "releve": "2026-10-20",
+    "liste": [
+      {
+        "note": 2,
+        "texte": "Magnifique endroit, belle ambiance, mérite de survivre.\nDommage que certains vigiles gèrent les clients comme si c'était des vandales, cela casse un peu (beaucoup) le chill de l'endroit.\nTemoin d'interractions assez  nauseabondes de la part de certains energumènes chargés de la tranquilité .",
+        "langue": "fr",
+        "date": "2026-07-09",
+        "auteur": "Nauzyka Gims",
+        "auteur_lien": "https://www.google.com/maps/contrib/114833661790611521772/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25sVFpISklPRVZxUVVkeVNFcEdPVGhQYUhwUFNsRRAB!2m1!1s0x47e66d6d8268a265:0xa62cf107e05da1dc"
+      },
+      {
+        "note": 1,
+        "texte": "C’est quoi ce lieux ?\nNourriture interdite : ok, on la laisse à l’entrée\nPar contre, ce serait bien qu’on puisse la retrouver. La soirée m’a coûté un peu plus que prévu.\nÊtre dans le partage c’est bien, dans le vol, moins.\nBref… il y a des lieux plus sympas et plus gais.",
+        "langue": "fr",
+        "date": "2026-06-13",
+        "auteur": "Nicolas Griffet",
+        "auteur_lien": "https://www.google.com/maps/contrib/105267846711764557341/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2pCc1VISkJlV1ZvV0VOQlQyeGZPV3QxWkRoaVRXYxAB!2m1!1s0x47e66d6d8268a265:0xa62cf107e05da1dc"
+      },
+      {
+        "note": 5,
+        "texte": "Un excellent endroit à Paris de type berlinois ! Une friche industrielle transformée en lieu de vie, avec quelques food trucks variés et plutôt savoureux, à visiter sans hésiter !",
+        "langue": "fr",
+        "date": "2026-05-02",
+        "auteur": "A S",
+        "auteur_lien": "https://www.google.com/maps/contrib/100654196022441288924/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT20wd05YUnVaRXhxUldkTVNVaEZNV1l4Y0VSRGNuYxAB!2m1!1s0x47e66d6d8268a265:0xa62cf107e05da1dc"
+      },
+      {
+        "note": 5,
+        "texte": "Visite dans le cadre d'un festival. Le lieu est très sympa et accessible en transports en commun. On a l'impression d'être à la campagne, le lieu est bien entretenu, bonne ambiance et organisation. Nous n'avons pas testé la restauration. 20 euros pour l'entrée du festival et consommations sur place, prix corrects.",
+        "langue": "fr",
+        "date": "2026-04-19",
+        "auteur": "lolo Du 77",
+        "auteur_lien": "https://www.google.com/maps/contrib/101732156900347947758/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT200eVVrdEdOVTFOVm01U2VGbG1kbUpLU3pkU2FtYxAB!2m1!1s0x47e66d6d8268a265:0xa62cf107e05da1dc"
+      },
+      {
+        "note": 1,
+        "texte": "L'événement et le lieu semblaient prometteurs, mais quelle déception.\nAprès avoir obtenu les deux billets, le gratuit pour la journée et le payant pour la soirée, on m’a remboursé celui de la soirée la veille, sans aucune explication ni communication.\n\nLe jour de l’événement, même avec les billets en main, nous avons dû faire une queue d’1h30 !! Que vous ayez un billet ou non, c'était la même attente interminable.\n\nÀ l’intérieur, une seule buvette pour toute la foule. Commander une boisson relevait des Hunger Games. Boissons chaudes, choix très limité et pas un seul glaçon en vue.\n\nUne énorme déception. C’était ma première visite et certainement la dernière.",
+        "langue": "fr",
+        "date": "2025-07-06",
+        "auteur": "Olga Pla",
+        "auteur_lien": "https://www.google.com/maps/contrib/114650566139320713693/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25kUWNXdE5iekZzY205bFUxQjVOSFkwVkZGRVMzYxAB!2m1!1s0x47e66d6d8268a265:0xa62cf107e05da1dc"
+      }
+    ]
+  },
+  "services": {
+    "releve": "2026-10-20",
+    "prix": "PRICE_LEVEL_MODERATE",
+    "resume": "Restaurant animé comprenant un café, une brasserie, un biergarten et des stands proposant des plats de rue internationaux.",
+    "resume_langue": "fr",
+    "options": {
+      "dineIn": true,
+      "takeout": true,
+      "delivery": false,
+      "reservable": true,
+      "outdoorSeating": true,
+      "servesBreakfast": false,
+      "servesBrunch": true,
+      "servesLunch": true,
+      "servesDinner": true,
+      "servesVegetarianFood": true,
+      "servesCoffee": true,
+      "servesBeer": true,
+      "servesWine": true,
+      "servesCocktails": true,
+      "menuForChildren": false,
+      "goodForChildren": true,
+      "goodForGroups": true,
+      "goodForWatchingSports": true,
+      "liveMusic": true,
+      "allowsDogs": true,
+      "restroom": true
+    },
+    "paiement": [
+      "carte bancaire",
+      "carte de débit",
+      "paiement sans contact"
+    ],
+    "parking": [
+      "parking gratuit",
+      "stationnement payant dans la rue"
+    ]
   }
 }

@@ -28,7 +28,7 @@
     "longitude": -1.6034126
   },
   "note": 4.9,
-  "avis": 294,
+  "avis": 296,
   "horaires": [
     {
       "jour": 0,
@@ -112,8 +112,8 @@
     "etat": "absent",
     "premiere_detection": null,
     "derniere_detection": null,
-    "derniere_verification": "2026-10-09T16:58:32.124Z",
-    "echecs": 17,
+    "derniere_verification": "2026-10-20T09:58:52.830Z",
+    "echecs": 18,
     "url_detectee": null
   },
   "suggestion": {
@@ -126,22 +126,30 @@
   "dates": {
     "collecte": "2026-09-27",
     "publication": "2026-09-27",
-    "maj": "2026-10-09"
+    "maj": "2026-10-20"
   },
   "source": "google-places",
   "redaction": {
     "version": 2,
     "titre": "Garage Kadans Pneus — Garage et automobile à Nantes",
     "meta_titre": "Garage Kadans Pneus à Nantes : horaires, avis, téléphone",
-    "meta_description": "Garage Kadans Pneus, garage et automobile à Nantes : horaires d'ouverture, note Google 4,9/5 (294 avis), téléphone, adresse et itinéraire.",
-    "chapo": "Garage Kadans Pneus est un garage et automobile au 15 ter Boulevard Jean Moulin, à Nantes. Ouvert tous les jours sauf le dimanche au relevé du 9 octobre 2026. Téléphone : 02 59 15 33 16. Note Google : 4,9 sur 5 pour 294 avis.",
+    "meta_description": "Garage Kadans Pneus, garage et automobile à Nantes : horaires d'ouverture, note Google 4,9/5 (296 avis), téléphone, adresse et itinéraire.",
+    "chapo": "Garage Kadans Pneus est un garage et automobile au 15 ter Boulevard Jean Moulin, à Nantes. Ouvert tous les jours sauf le dimanche au relevé du 20 octobre 2026. Téléphone : 02 59 15 33 16. Note Google : 4,9 sur 5 pour 296 avis.",
     "sections": [
       {
         "id": "presentation",
         "titre": "Garage Kadans Pneus en quelques mots",
         "paragraphes": [
           "Sur Google, l'établissement est classé « Garage automobile », dans notre rubrique Garage et automobile.",
-          "D'après le relevé du 9 octobre 2026, l'établissement est ouvert tous les jours sauf le dimanche. Le détail jour par jour figure plus bas."
+          "D'après le relevé du 20 octobre 2026, l'établissement est ouvert tous les jours sauf le dimanche. Le détail jour par jour figure plus bas."
+        ]
+      },
+      {
+        "id": "prestations",
+        "titre": "Services et équipements de Garage Kadans Pneus",
+        "paragraphes": [
+          "Moyens de paiement déclarés : carte bancaire, carte de débit et paiement sans contact.",
+          "Ces indications sont déclarées par l'établissement sur sa fiche Google (relevé du 20 octobre 2026)."
         ]
       },
       {
@@ -163,18 +171,18 @@
         "id": "avis",
         "titre": "La réputation de Garage Kadans Pneus",
         "paragraphes": [
-          "Note de 4,9 sur 5 pour 294 avis Google au relevé du 9 octobre 2026. Les avis se consultent sur la fiche Google, dont le lien figure sur cette page."
+          "Note de 4,9 sur 5 pour 296 avis Google au relevé du 20 octobre 2026. Les avis les plus parlants sont compilés ci-dessous, avec un lien vers la fiche d'origine."
         ]
       }
     ],
     "faq": [
       {
         "q": "Quels sont les horaires de Garage Kadans Pneus ?",
-        "r": "Au relevé du 9 octobre 2026, Garage Kadans Pneus était ouvert tous les jours sauf le dimanche. Dans le détail — lundi : de 9 h à 19 h ; mardi : de 9 h à 19 h ; mercredi : de 9 h à 19 h ; jeudi : de 9 h à 19 h ; vendredi : de 9 h à 12 h et de 14 h à 19 h ; samedi : de 9 h à 19 h ; dimanche : fermé. Ces horaires peuvent changer : un appel préalable reste conseillé."
+        "r": "Au relevé du 20 octobre 2026, Garage Kadans Pneus était ouvert tous les jours sauf le dimanche. Dans le détail — lundi : de 9 h à 19 h ; mardi : de 9 h à 19 h ; mercredi : de 9 h à 19 h ; jeudi : de 9 h à 19 h ; vendredi : de 9 h à 12 h et de 14 h à 19 h ; samedi : de 9 h à 19 h ; dimanche : fermé. Ces horaires peuvent changer : un appel préalable reste conseillé."
       },
       {
         "q": "Garage Kadans Pneus est-il ouvert le dimanche ?",
-        "r": "Non : d'après les horaires relevés le 9 octobre 2026, Garage Kadans Pneus est fermé le dimanche."
+        "r": "Non : d'après les horaires relevés le 20 octobre 2026, Garage Kadans Pneus est fermé le dimanche."
       },
       {
         "q": "Où se trouve Garage Kadans Pneus ?",
@@ -189,7 +197,7 @@
         "r": "La fiche Google de l'établissement mentionne : « Entrée accessible en fauteuil roulant ». Cette information est déclarative ; en cas de doute, vérifiez par téléphone."
       }
     ],
-    "genere_le": "2026-10-09"
+    "genere_le": "2026-10-20"
   },
   "statut_google": "OPERATIONAL",
   "audience": {
@@ -200,6 +208,66 @@
     "clicsRecents": 0,
     "fenetreRecenteJours": 28,
     "source": "search-console",
-    "date": "2026-10-19"
+    "date": "2026-10-20"
+  },
+  "avis_detail": {
+    "releve": "2026-10-20",
+    "liste": [
+      {
+        "note": 5,
+        "texte": "Mon pneu de la Dacia Dokker se dégonflait systématiquement depuis plusieurs jours. J'avais une urgence et le responsable du garage après un appel a accepté que je vienne pour regarder le pneu. 15 mn plus tard un mécanicien a réaliser différents test devant moi. Le pneu était crevé sans possibilité de réparation. Tout de suite. Le responsable m'a proposé de le changer. Je recommande vivement le garage Kadans pneu pour leur réactivité, professionnalisme et aussi pour leur accueil. Grâce à l'intervention rapide. Je peux de nouveau utiliser mon véhicule. Encore un grand merci",
+        "langue": "fr",
+        "date": "2026-08-21",
+        "auteur": "Laurent Lafond",
+        "auteur_lien": "https://www.google.com/maps/contrib/110302958399285771909/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2tZdFJYWnBNbGhFV0RCR2N6TktSbXh2ZG01WFkyYxAB!2m1!1s0x4805ed6bdfc7c061:0x7c9dd2fc5cbcae14"
+      },
+      {
+        "note": 5,
+        "texte": "Amabilité et professionnalisme\nLe garage accueille toute la journée de nombreux clients et travaille efficacement sur chaque réparation. L'accueil est cordial. Il ne faut pas hésiter à laisser un message pour être rappelé et indiquer la taille des pneus pour qu'ils vous disent s'ils les ont en stock. Les prix sont très corrects",
+        "langue": "fr",
+        "date": "2026-07-26",
+        "auteur": "Sophie B",
+        "auteur_lien": "https://www.google.com/maps/contrib/110290572070339091318/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2pobk5uQmtlRWN4WHpOck0wRndPR1ZyTW5JMldrRRAB!2m1!1s0x4805ed6bdfc7c061:0x7c9dd2fc5cbcae14"
+      },
+      {
+        "note": 5,
+        "texte": "Super garage !!!\nExcellent accueil, très sympa, travail rapide et efficace !! Très arrangeant quand il s'agit de dépanner en urgence, ils ont sauvé mon départ en vacances !!\nUn VRAI garage avec de vrais mécanos.\nje recommande à tous 👍.\nPierre.",
+        "langue": "fr",
+        "date": "2026-07-16",
+        "auteur": "Pierre Le Gouez",
+        "auteur_lien": "https://www.google.com/maps/contrib/107365772030640694249/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xkUlZsaEdUMEppZWkwMFNTMWZNRzVCYUZFMk4zYxAB!2m1!1s0x4805ed6bdfc7c061:0x7c9dd2fc5cbcae14"
+      },
+      {
+        "note": 5,
+        "texte": "Bonjour,  je suis passé ce matin sans rdv et en urgence après avoir éclaté pneu.j'ai a peine attendu malgré le nombre de véhicules avant moi.ils ont changé mes pneus avec une vitesse impressionnante moins de 20mn montage et équilibrage. Ils ont la ''cadence '' chez kadans ! Le prix est top aussi. J'y retourne demain matin pour recharger la clim du coup !merci beaucoup pour avoir sauver ma journée !",
+        "langue": "fr",
+        "date": "2026-06-23",
+        "auteur": "Sophie Cléré",
+        "auteur_lien": "https://www.google.com/maps/contrib/108321760276412982208/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2pJd1FqVlpPVFIxWDBZNGEwVm5jVWszTW1ONFMxRRAB!2m1!1s0x4805ed6bdfc7c061:0x7c9dd2fc5cbcae14"
+      },
+      {
+        "note": 5,
+        "texte": "J’avais un souci avec ma trappe à essence qui ne s’ouvrait plus. J’ai appelé et ils ont été super réactifs, j’ai pu passer directement avec ma voiture, même un samedi.\n\nSur place, ils étaient vraiment gentils et arrangeants. Ils ont pris le temps de regarder et de réparer tout ça sans que ça coûte cher.\n\nFranchement, je recommande à 100 %, vous pouvez y aller les yeux fermés !",
+        "langue": "fr",
+        "date": "2026-05-16",
+        "auteur": "Maëlle Bourland",
+        "auteur_lien": "https://www.google.com/maps/contrib/114309919488290535989/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25GdlZWcHdOSFZ5VlRGUVpXOUdaMk5yU2xWaGQwRRAB!2m1!1s0x4805ed6bdfc7c061:0x7c9dd2fc5cbcae14"
+      }
+    ]
+  },
+  "services": {
+    "releve": "2026-10-20",
+    "options": {},
+    "paiement": [
+      "carte bancaire",
+      "carte de débit",
+      "paiement sans contact"
+    ],
+    "parking": []
   }
 }

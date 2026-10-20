@@ -1,0 +1,335 @@
+{
+  "id": "ChIJF-dI6v2H4kcREHlWeYhun6c",
+  "slug": "letwenty4",
+  "nom": "LeTwenty4",
+  "categorie": "restaurants",
+  "categorie_gmb": "Restaurant",
+  "type_principal": "restaurant",
+  "types": [
+    "restaurant",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "ville": "Le Mans",
+  "ville_slug": "le-mans",
+  "adresse": {
+    "rue": "20 Avenue René Laennec",
+    "code_postal": "72000",
+    "departement": "72",
+    "region": "Pays de la Loire",
+    "pays": "France",
+    "complete": "20 Av. René Laennec, 72000 Le Mans"
+  },
+  "telephone": "02 53 49 82 86",
+  "geo": {
+    "latitude": 48.0171482,
+    "longitude": 0.1611572
+  },
+  "note": 4.6,
+  "avis": 957,
+  "horaires": [
+    {
+      "jour": 0,
+      "ferme": false,
+      "creneaux": [
+        [
+          "11:30",
+          "14:30"
+        ],
+        [
+          "18:00",
+          "00:00"
+        ]
+      ]
+    },
+    {
+      "jour": 1,
+      "ferme": false,
+      "creneaux": [
+        [
+          "11:30",
+          "14:30"
+        ],
+        [
+          "18:00",
+          "00:00"
+        ]
+      ]
+    },
+    {
+      "jour": 2,
+      "ferme": false,
+      "creneaux": [
+        [
+          "11:30",
+          "14:30"
+        ],
+        [
+          "18:00",
+          "00:00"
+        ]
+      ]
+    },
+    {
+      "jour": 3,
+      "ferme": false,
+      "creneaux": [
+        [
+          "11:30",
+          "14:30"
+        ],
+        [
+          "18:00",
+          "00:00"
+        ]
+      ]
+    },
+    {
+      "jour": 4,
+      "ferme": false,
+      "creneaux": [
+        [
+          "11:30",
+          "14:30"
+        ],
+        [
+          "18:00",
+          "00:00"
+        ]
+      ]
+    },
+    {
+      "jour": 5,
+      "ferme": false,
+      "creneaux": [
+        [
+          "11:30",
+          "14:30"
+        ],
+        [
+          "18:00",
+          "00:00"
+        ]
+      ]
+    },
+    {
+      "jour": 6,
+      "ferme": false,
+      "creneaux": [
+        [
+          "18:00",
+          "00:00"
+        ]
+      ]
+    }
+  ],
+  "attributs": [
+    "Entrée accessible en fauteuil roulant",
+    "Parking accessible en fauteuil roulant",
+    "Toilettes accessibles en fauteuil roulant",
+    "Places assises accessibles en fauteuil roulant"
+  ],
+  "lien_google": "https://maps.google.com/?cid=12078494258061277456&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
+  "site_web_gmb": null,
+  "statut": "publiee",
+  "backlink": {
+    "etat": "absent",
+    "premiere_detection": null,
+    "derniere_detection": null,
+    "derniere_verification": "2026-10-20T09:58:52.830Z",
+    "echecs": 1,
+    "url_detectee": null
+  },
+  "suggestion": {
+    "etat": "en-attente",
+    "date_soumission": null,
+    "tentatives": 0,
+    "date_email": "2026-10-20"
+  },
+  "retrait": null,
+  "dates": {
+    "collecte": "2026-10-20",
+    "publication": "2026-10-20",
+    "maj": "2026-10-20"
+  },
+  "source": "google-places",
+  "avis_detail": {
+    "releve": "2026-10-20",
+    "liste": [
+      {
+        "note": 5,
+        "texte": "Service rapide, nourriture excellente ( ca faisait longtemps que je n'avais pas mangé une pizza avec une si bonne pâte) Copieux et tarifs très raisonnable",
+        "langue": "fr",
+        "date": "2026-07-05",
+        "auteur": "Yann GUILLET",
+        "auteur_lien": "https://www.google.com/maps/contrib/113467596931237584337/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2t4VVpIVm9UVVJRUmtaQlFtOUVWVTB3V0V4UmJFRRAB!2m1!1s0x47e287fdea48e717:0xa79f6e8879567910"
+      },
+      {
+        "note": 5,
+        "texte": "Une belle découverte, accueil au top, ambiance cosy et une cuisine excellente, avec une présentation digne d’un étoilé, merci nous reviendrons lors de notre prochain passage sur le Mans",
+        "langue": "fr",
+        "date": "2026-05-15",
+        "auteur": "Nathalie Maury",
+        "auteur_lien": "https://www.google.com/maps/contrib/102246187386070922820/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xaNVl6RXdRMGx0VlV0cGNtZzRZWHBWVkdScVZHYxAB!2m1!1s0x47e287fdea48e717:0xa79f6e8879567910"
+      },
+      {
+        "note": 5,
+        "texte": "Plats très bon et je trouve le concept de proposer des plats fast food et traditionnel top.\nLes plats sont très bon, en bonne quantité et bien présentés.\n9,50€ une très bonne pizza à croûte moelleuse.\nBurger et frite maison à 14,50€",
+        "langue": "fr",
+        "date": "2026-02-11",
+        "auteur": "MaHie Galli",
+        "auteur_lien": "https://www.google.com/maps/contrib/102122229537229186675/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xGVGREYzBWMmRoYjFaeFdIVkJYME5IVFY4MFNXYxAB!2m1!1s0x47e287fdea48e717:0xa79f6e8879567910"
+      },
+      {
+        "note": 5,
+        "texte": "Superbe découverte\nKebab bien garni et frites maison pas cher ~ 9€\nAutre :  assiette (pâtes et salade) super bien garnie et joliment décoré\nSuper dessert à la pistache avec belle décoration ( un petit peu cher 8€)\nPersonnel super sympa 👍",
+        "langue": "fr",
+        "date": "2026-01-15",
+        "auteur": "irena craffe",
+        "auteur_lien": "https://www.google.com/maps/contrib/104284412487178413129/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2w5cE1VaHpaUzFzTkRaTVh6aEhNVk5QTFROd2RIYxAB!2m1!1s0x47e287fdea48e717:0xa79f6e8879567910"
+      },
+      {
+        "note": 5,
+        "texte": "Une très très bonne adresse.\nC'est bien servi, C'est bon, c'est sympa, établissement très propre (100 fois mieux que Macdo....)\nJe recommande vivement.....👍👍👍👍\nMerci au personnel du Twenty 4...\nEt on reviendra bientôt.... bien sûr...",
+        "langue": "fr",
+        "date": "2025-12-06",
+        "auteur": "Eric Millot",
+        "auteur_lien": "https://www.google.com/maps/contrib/104592402415504592859/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2pWNVRFdG9SMFUzTUVkRVRGZHRSMHRHWTBwUlMyYxAB!2m1!1s0x47e287fdea48e717:0xa79f6e8879567910"
+      }
+    ]
+  },
+  "services": {
+    "releve": "2026-10-20",
+    "prix": "PRICE_LEVEL_MODERATE",
+    "options": {
+      "dineIn": true,
+      "takeout": true,
+      "delivery": true,
+      "reservable": true,
+      "servesBreakfast": true,
+      "servesLunch": true,
+      "servesDinner": true,
+      "servesCoffee": true,
+      "servesBeer": false,
+      "servesWine": false,
+      "servesCocktails": false,
+      "menuForChildren": true,
+      "goodForChildren": true,
+      "goodForGroups": true,
+      "liveMusic": false,
+      "restroom": true
+    },
+    "paiement": [
+      "carte bancaire",
+      "carte de débit",
+      "paiement sans contact"
+    ],
+    "parking": [
+      "parking gratuit",
+      "stationnement gratuit dans la rue"
+    ]
+  },
+  "redaction": {
+    "version": 2,
+    "titre": "LeTwenty4 — Restaurant à Le Mans",
+    "meta_titre": "LeTwenty4 à Le Mans : horaires, avis, téléphone",
+    "meta_description": "LeTwenty4, restaurant à Le Mans : horaires d'ouverture, note Google 4,6/5 (957 avis), téléphone, adresse et itinéraire.",
+    "chapo": "LeTwenty4, restaurant au 20 Avenue René Laennec, à Le Mans. Ouvert sept jours sur sept au relevé du 20 octobre 2026. Téléphone : 02 53 49 82 86. Note Google : 4,6 sur 5 pour 957 avis.",
+    "sections": [
+      {
+        "id": "presentation",
+        "titre": "LeTwenty4 en quelques mots",
+        "paragraphes": [
+          "Niveau de prix indiqué sur la fiche Google : €€ (modéré).",
+          "D'après le relevé du 20 octobre 2026, l'établissement est ouvert sept jours sur sept. Le détail jour par jour figure plus bas."
+        ]
+      },
+      {
+        "id": "prestations",
+        "titre": "Services et équipements de LeTwenty4",
+        "paragraphes": [
+          "Proposé : sur place, à emporter, livraison, réservation possible, petit-déjeuner, déjeuner, dîner, café, menu enfant, adapté aux enfants, adapté aux groupes et toilettes.",
+          "Non proposé selon la fiche Google : bière, vin, cocktails et musique live.",
+          "Moyens de paiement déclarés : carte bancaire, carte de débit et paiement sans contact.",
+          "Stationnement : parking gratuit et stationnement gratuit dans la rue.",
+          "Ces indications sont déclarées par l'établissement sur sa fiche Google (relevé du 20 octobre 2026)."
+        ]
+      },
+      {
+        "id": "acces",
+        "titre": "Adresse et accès",
+        "paragraphes": [
+          "L'établissement est situé au 20 Avenue René Laennec, 72000 Le Mans.",
+          "Coordonnées GPS : 48.01715, 0.16116. Le bouton Itinéraire de cette page ouvre la navigation."
+        ]
+      },
+      {
+        "id": "contact",
+        "titre": "Contacter LeTwenty4",
+        "paragraphes": [
+          "Le contact se fait par téléphone au 02 53 49 82 86, ou directement sur place aux horaires d'ouverture.",
+          "La fiche Google indique que la réservation est possible."
+        ]
+      },
+      {
+        "id": "avis",
+        "titre": "La réputation de LeTwenty4",
+        "paragraphes": [
+          "Note de 4,6 sur 5 pour 957 avis Google au relevé du 20 octobre 2026. Les avis les plus parlants sont compilés ci-dessous, avec un lien vers la fiche d'origine."
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "q": "Quels sont les horaires de LeTwenty4 ?",
+        "r": "Au relevé du 20 octobre 2026, LeTwenty4 était ouvert sept jours sur sept. Dans le détail — lundi : de 11 h 30 à 14 h 30 et de 18 h à 0 h ; mardi : de 11 h 30 à 14 h 30 et de 18 h à 0 h ; mercredi : de 11 h 30 à 14 h 30 et de 18 h à 0 h ; jeudi : de 11 h 30 à 14 h 30 et de 18 h à 0 h ; vendredi : de 11 h 30 à 14 h 30 et de 18 h à 0 h ; samedi : de 11 h 30 à 14 h 30 et de 18 h à 0 h ; dimanche : de 18 h à 0 h. Ces horaires peuvent changer : un appel préalable reste conseillé."
+      },
+      {
+        "q": "LeTwenty4 est-il ouvert le dimanche ?",
+        "r": "Oui : le dimanche, LeTwenty4 est ouvert de 18 h à 0 h (horaires relevés le 20 octobre 2026)."
+      },
+      {
+        "q": "Où se trouve LeTwenty4 ?",
+        "r": "LeTwenty4 se trouve 20 Av. René Laennec, 72000 Le Mans. Un lien d'itinéraire est disponible sur cette page."
+      },
+      {
+        "q": "Comment contacter LeTwenty4 ?",
+        "r": "Par téléphone au 02 53 49 82 86, ou directement sur place aux heures d'ouverture."
+      },
+      {
+        "q": "Peut-on réserver chez LeTwenty4 ?",
+        "r": "Oui, la fiche Google de LeTwenty4 indique que la réservation est possible, par téléphone au 02 53 49 82 86."
+      },
+      {
+        "q": "LeTwenty4 propose-t-il la vente à emporter ou la livraison ?",
+        "r": "D'après sa fiche Google (relevé du 20 octobre 2026) — vente à emporter : oui ; livraison : oui."
+      },
+      {
+        "q": "Quel est le niveau de prix de LeTwenty4 ?",
+        "r": "Google classe LeTwenty4 au niveau de prix €€ (modéré), sur une échelle de € à €€€€ établie à partir des avis clients."
+      },
+      {
+        "q": "LeTwenty4 est-il accessible aux personnes à mobilité réduite ?",
+        "r": "La fiche Google de l'établissement mentionne : « Entrée accessible en fauteuil roulant ». Cette information est déclarative ; en cas de doute, vérifiez par téléphone."
+      }
+    ],
+    "genere_le": "2026-10-20"
+  },
+  "statut_google": "OPERATIONAL",
+  "audience": {
+    "clics": 0,
+    "impressions": 0,
+    "position": null,
+    "fenetreJours": 90,
+    "clicsRecents": 0,
+    "fenetreRecenteJours": 28,
+    "source": "search-console",
+    "date": "2026-10-20"
+  }
+}

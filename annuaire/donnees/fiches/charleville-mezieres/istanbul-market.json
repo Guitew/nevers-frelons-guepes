@@ -134,8 +134,8 @@
     "etat": "absent",
     "premiere_detection": null,
     "derniere_detection": null,
-    "derniere_verification": "2026-10-09T16:58:32.124Z",
-    "echecs": 66,
+    "derniere_verification": "2026-10-20T09:58:52.830Z",
+    "echecs": 67,
     "url_detectee": null
   },
   "suggestion": {
@@ -153,7 +153,7 @@
   "dates": {
     "collecte": "2026-09-03",
     "publication": "2026-09-03",
-    "maj": "2026-10-19"
+    "maj": "2026-10-20"
   },
   "source": "google-places",
   "redaction": {
@@ -161,14 +161,23 @@
     "titre": "Istanbul Market — Commerce d'alimentation à Charleville-Mézières",
     "meta_titre": "Istanbul Market à Charleville-Mézières : horaires, avis",
     "meta_description": "Istanbul Market, commerce d'alimentation à Charleville-Mézières : horaires d'ouverture, note Google 4,2/5 (205 avis), téléphone, adresse et itinéraire.",
-    "chapo": "Istanbul Market, commerce d'alimentation au 19 Rue Ferroul, à Charleville-Mézières. Ouvert sept jours sur sept au relevé du 18 octobre 2026. Téléphone : 06 08 91 52 20. Note Google : 4,2 sur 5 pour 205 avis.",
+    "chapo": "Istanbul Market, commerce d'alimentation au 19 Rue Ferroul, à Charleville-Mézières. Ouvert sept jours sur sept au relevé du 20 octobre 2026. Téléphone : 06 08 91 52 20. Note Google : 4,2 sur 5 pour 205 avis.",
     "sections": [
       {
         "id": "presentation",
         "titre": "Istanbul Market en quelques mots",
         "paragraphes": [
           "Sur Google, l'établissement est classé « Supermarché », dans notre rubrique Commerce d'alimentation.",
-          "D'après le relevé du 18 octobre 2026, l'établissement est ouvert sept jours sur sept. Le détail jour par jour figure plus bas."
+          "D'après le relevé du 20 octobre 2026, l'établissement est ouvert sept jours sur sept. Le détail jour par jour figure plus bas."
+        ]
+      },
+      {
+        "id": "prestations",
+        "titre": "Services et équipements de Istanbul Market",
+        "paragraphes": [
+          "Non proposé selon la fiche Google : livraison et toilettes.",
+          "Moyens de paiement déclarés : carte bancaire, carte de débit et paiement sans contact.",
+          "Ces indications sont déclarées par l'établissement sur sa fiche Google (relevé du 20 octobre 2026)."
         ]
       },
       {
@@ -190,18 +199,18 @@
         "id": "avis",
         "titre": "La réputation de Istanbul Market",
         "paragraphes": [
-          "Note de 4,2 sur 5 pour 205 avis Google au relevé du 18 octobre 2026. Les avis se consultent sur la fiche Google, dont le lien figure sur cette page."
+          "Note de 4,2 sur 5 pour 205 avis Google au relevé du 20 octobre 2026. Les avis les plus parlants sont compilés ci-dessous, avec un lien vers la fiche d'origine."
         ]
       }
     ],
     "faq": [
       {
         "q": "Quels sont les horaires de Istanbul Market ?",
-        "r": "Au relevé du 18 octobre 2026, Istanbul Market était ouvert sept jours sur sept. Dans le détail — lundi : de 9 h à 12 h 30 et de 14 h à 19 h ; mardi : de 9 h à 12 h 30 et de 14 h à 19 h ; mercredi : de 9 h à 12 h 30 et de 14 h à 19 h ; jeudi : de 9 h à 12 h 30 et de 14 h à 19 h ; vendredi : de 9 h à 12 h 30 et de 14 h à 19 h ; samedi : de 8 h 30 à 19 h ; dimanche : de 8 h 30 à 19 h. Ces horaires peuvent changer : un appel préalable reste conseillé."
+        "r": "Au relevé du 20 octobre 2026, Istanbul Market était ouvert sept jours sur sept. Dans le détail — lundi : de 9 h à 12 h 30 et de 14 h à 19 h ; mardi : de 9 h à 12 h 30 et de 14 h à 19 h ; mercredi : de 9 h à 12 h 30 et de 14 h à 19 h ; jeudi : de 9 h à 12 h 30 et de 14 h à 19 h ; vendredi : de 9 h à 12 h 30 et de 14 h à 19 h ; samedi : de 8 h 30 à 19 h ; dimanche : de 8 h 30 à 19 h. Ces horaires peuvent changer : un appel préalable reste conseillé."
       },
       {
         "q": "Istanbul Market est-il ouvert le dimanche ?",
-        "r": "Oui : le dimanche, Istanbul Market est ouvert de 8 h 30 à 19 h (horaires relevés le 18 octobre 2026)."
+        "r": "Oui : le dimanche, Istanbul Market est ouvert de 8 h 30 à 19 h (horaires relevés le 20 octobre 2026)."
       },
       {
         "q": "Où se trouve Istanbul Market ?",
@@ -212,11 +221,15 @@
         "r": "Par téléphone au 06 08 91 52 20, ou directement sur place aux heures d'ouverture."
       },
       {
+        "q": "Istanbul Market propose-t-il la vente à emporter ou la livraison ?",
+        "r": "D'après sa fiche Google (relevé du 20 octobre 2026) — livraison : non."
+      },
+      {
         "q": "Istanbul Market est-il accessible aux personnes à mobilité réduite ?",
         "r": "La fiche Google de l'établissement mentionne : « Entrée accessible en fauteuil roulant ». Cette information est déclarative ; en cas de doute, vérifiez par téléphone."
       }
     ],
-    "genere_le": "2026-10-18"
+    "genere_le": "2026-10-20"
   },
   "statut_google": "OPERATIONAL",
   "audience": {
@@ -227,7 +240,7 @@
     "clicsRecents": 0,
     "fenetreRecenteJours": 28,
     "source": "search-console",
-    "date": "2026-10-19"
+    "date": "2026-10-20"
   },
   "indexation": {
     "etat": "non-indexee",
@@ -237,5 +250,68 @@
     "canonique_google": null,
     "source": "inspection",
     "date": "2026-10-19"
+  },
+  "avis_detail": {
+    "releve": "2026-10-20",
+    "liste": [
+      {
+        "note": 5,
+        "texte": "Super magasin, personnel très sympathique",
+        "langue": "fr",
+        "date": "2026-06-25",
+        "auteur": "Explorer",
+        "auteur_lien": "https://www.google.com/maps/contrib/101260388518255636445/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xGS1oyaGFSa1ZpVkdSQ09FMVdTelJoYzJ4RFMwRRAB!2m1!1s0x47ea121d4436ef0f:0x36f8d911bad97ed8"
+      },
+      {
+        "note": 4,
+        "texte": "Très bonne viande de qualité.",
+        "langue": "fr",
+        "date": "2026-05-14",
+        "auteur": "Floky",
+        "auteur_lien": "https://www.google.com/maps/contrib/107136959208807399366/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT21WbWJVVmFUSFZzY3kxVFkwWmtPR0ZzZWpGZlFtYxAB!2m1!1s0x47ea121d4436ef0f:0x36f8d911bad97ed8"
+      },
+      {
+        "note": 3,
+        "texte": "Magasin avec pas mal de produits intéressants à  des prix abordables. En revanche il y avait des sauces aux dates périmées attention. Amabilité un peu limite. Mais à faire.",
+        "langue": "fr",
+        "date": "2026-02-02",
+        "auteur": "Athénée",
+        "auteur_lien": "https://www.google.com/maps/contrib/111561365109273897516/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xwYVNHbFpMWEowV0RWT1RXaGhjRll3VGxWYWVsRRAB!2m1!1s0x47ea121d4436ef0f:0x36f8d911bad97ed8"
+      },
+      {
+        "note": 5,
+        "texte": "Très bon choix de viandes et très bonnes merguez",
+        "langue": "fr",
+        "date": "2023-12-30",
+        "auteur": "fatah bensebah",
+        "auteur_lien": "https://www.google.com/maps/contrib/103104113238191471569/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUMxbnNHV3pnRRAB!2m1!1s0x47ea121d4436ef0f:0x36f8d911bad97ed8"
+      },
+      {
+        "note": 1,
+        "texte": "Bonjour,\nIl faut faire attention lors de passage en caisse. Le prix affiché au rayon d'une grande partie des produits n'est pas le même à la caisse. Ça m'a arrivé plusieurs fois. Aujourd'hui, un produit affiché au rayon 3,59€ est passé à plus de 7€ en caisse. Quand j'ai montré la photo du prix affiché au caissière, elle n'a pas trouvé les mots.\nIl faut se méfier, il sont des voleurs.",
+        "langue": "fr",
+        "date": "2020-10-03",
+        "auteur": "Moussa Moussa",
+        "auteur_lien": "https://www.google.com/maps/contrib/108649947677788736469/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSURDdWZ1ZEh3EAE!2m1!1s0x47ea121d4436ef0f:0x36f8d911bad97ed8"
+      }
+    ]
+  },
+  "services": {
+    "releve": "2026-10-20",
+    "options": {
+      "delivery": false,
+      "restroom": false
+    },
+    "paiement": [
+      "carte bancaire",
+      "carte de débit",
+      "paiement sans contact"
+    ],
+    "parking": []
   }
 }

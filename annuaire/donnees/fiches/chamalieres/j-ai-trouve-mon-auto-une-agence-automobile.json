@@ -108,8 +108,8 @@
     "etat": "absent",
     "premiere_detection": null,
     "derniere_detection": null,
-    "derniere_verification": "2026-10-09T16:58:32.124Z",
-    "echecs": 14,
+    "derniere_verification": "2026-10-20T09:58:52.830Z",
+    "echecs": 15,
     "url_detectee": null
   },
   "suggestion": {
@@ -122,7 +122,7 @@
   "dates": {
     "collecte": "2026-09-28",
     "publication": "2026-09-28",
-    "maj": "2026-10-09"
+    "maj": "2026-10-20"
   },
   "source": "google-places",
   "redaction": {
@@ -130,14 +130,22 @@
     "titre": "j'ai trouvé mon auto une agence automobile — Garage et automobile à Chamalières",
     "meta_titre": "j'ai trouvé mon auto une agence automobile à Chamalières",
     "meta_description": "j'ai trouvé mon auto une agence automobile, garage et automobile à Chamalières : horaires d'ouverture, téléphone, adresse et itinéraire.",
-    "chapo": "j'ai trouvé mon auto une agence automobile, garage et automobile au 12 Rue du Roc Blanc, à Chamalières. Ouvert tous les jours sauf le dimanche au relevé du 9 octobre 2026. Téléphone : 06 46 31 93 59. Note Google : 3,8 sur 5 pour 73 avis.",
+    "chapo": "j'ai trouvé mon auto une agence automobile, garage et automobile au 12 Rue du Roc Blanc, à Chamalières. Ouvert tous les jours sauf le dimanche au relevé du 20 octobre 2026. Téléphone : 06 46 31 93 59. Note Google : 3,8 sur 5 pour 73 avis.",
     "sections": [
       {
         "id": "presentation",
         "titre": "j'ai trouvé mon auto une agence automobile en quelques mots",
         "paragraphes": [
           "Sur Google, l'établissement est classé « Concessionnaire automobile », dans notre rubrique Garage et automobile.",
-          "D'après le relevé du 9 octobre 2026, l'établissement est ouvert tous les jours sauf le dimanche. Le détail jour par jour figure plus bas."
+          "D'après le relevé du 20 octobre 2026, l'établissement est ouvert tous les jours sauf le dimanche. Le détail jour par jour figure plus bas."
+        ]
+      },
+      {
+        "id": "prestations",
+        "titre": "Services et équipements de j'ai trouvé mon auto une agence automobile",
+        "paragraphes": [
+          "Moyens de paiement déclarés : carte bancaire et carte de débit.",
+          "Ces indications sont déclarées par l'établissement sur sa fiche Google (relevé du 20 octobre 2026)."
         ]
       },
       {
@@ -159,18 +167,18 @@
         "id": "avis",
         "titre": "La réputation de j'ai trouvé mon auto une agence automobile",
         "paragraphes": [
-          "Note de 3,8 sur 5 pour 73 avis Google au relevé du 9 octobre 2026. Les avis se consultent sur la fiche Google, dont le lien figure sur cette page."
+          "Note de 3,8 sur 5 pour 73 avis Google au relevé du 20 octobre 2026. Les avis les plus parlants sont compilés ci-dessous, avec un lien vers la fiche d'origine."
         ]
       }
     ],
     "faq": [
       {
         "q": "Quels sont les horaires de j'ai trouvé mon auto une agence automobile ?",
-        "r": "Au relevé du 9 octobre 2026, j'ai trouvé mon auto une agence automobile était ouvert tous les jours sauf le dimanche. Dans le détail — lundi : de 9 h à 19 h ; mardi : de 9 h à 19 h ; mercredi : de 9 h à 19 h ; jeudi : de 9 h à 19 h ; vendredi : de 9 h à 19 h ; samedi : de 9 h à 19 h ; dimanche : fermé. Ces horaires peuvent changer : un appel préalable reste conseillé."
+        "r": "Au relevé du 20 octobre 2026, j'ai trouvé mon auto une agence automobile était ouvert tous les jours sauf le dimanche. Dans le détail — lundi : de 9 h à 19 h ; mardi : de 9 h à 19 h ; mercredi : de 9 h à 19 h ; jeudi : de 9 h à 19 h ; vendredi : de 9 h à 19 h ; samedi : de 9 h à 19 h ; dimanche : fermé. Ces horaires peuvent changer : un appel préalable reste conseillé."
       },
       {
         "q": "j'ai trouvé mon auto une agence automobile est-il ouvert le dimanche ?",
-        "r": "Non : d'après les horaires relevés le 9 octobre 2026, j'ai trouvé mon auto une agence automobile est fermé le dimanche."
+        "r": "Non : d'après les horaires relevés le 20 octobre 2026, j'ai trouvé mon auto une agence automobile est fermé le dimanche."
       },
       {
         "q": "Où se trouve j'ai trouvé mon auto une agence automobile ?",
@@ -185,7 +193,7 @@
         "r": "La fiche Google de l'établissement mentionne : « Entrée accessible en fauteuil roulant ». Cette information est déclarative ; en cas de doute, vérifiez par téléphone."
       }
     ],
-    "genere_le": "2026-10-09"
+    "genere_le": "2026-10-20"
   },
   "statut_google": "OPERATIONAL",
   "audience": {
@@ -196,6 +204,65 @@
     "clicsRecents": 0,
     "fenetreRecenteJours": 28,
     "source": "search-console",
-    "date": "2026-10-19"
+    "date": "2026-10-20"
+  },
+  "avis_detail": {
+    "releve": "2026-10-20",
+    "liste": [
+      {
+        "note": 1,
+        "texte": "Mon fils a acheté une C3 année 2004. Pour le garage tout était Ok. 6 mois plus tard la voiture en panne, les frais sont considérables pour lui, pratiquement le prix de la voiture. S il y a d autres personnes dans ce cas, veuillez m adresser des messages pour envisager une action contre eux, car plus on sera nombreux plus on pourra les coincer ces voyous qui se permettent de vendre une voiture inutilisable à un jeune homme sui travaille durement.\nSi une personne connait un numéro pour les contacter ou une adresse sera la bienvenue Merci à vous tous.",
+        "langue": "fr",
+        "date": "2026-07-16",
+        "auteur": "Michel Estival",
+        "auteur_lien": "https://www.google.com/maps/contrib/101380953159490551534/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2pkZmEwSjJWazR4VEZOYVZtRmhiMUl6VjJwRFExRRAB!2m1!1s0x47f71dcc08fa9123:0x402915fc848e09bc"
+      },
+      {
+        "note": 1,
+        "texte": "À FUIR ABSOLUMENT - Garage malhonnête !\n\nSi vous tenez à votre argent et à votre sérénité, ne mettez jamais les pieds dans ce garage.\nNe vous laissez pas avoir par les sourires à la vente, ce garage est une véritable catastrophe. J’ai acheté une voiture il y a 1 ans chez eux et c’est la pire décision de ma vie.\nEn seulement 4 000 km parcourus, j'ai déjà dû débourser pres de 2 000 € de réparations.\nLes problèmes ont commencé seulement trois semaines après l’achat avec une panne de boîte de vitesse. Le garage s’était engagé à prendre en charge les réparations dans un autre établissement. Résultat ? Dix mois plus tard, ils n'ont toujours pas payé la facture au garage qui a effectué les travaux.\nEt encore, ce n’est qu’un résumé de ma situation horrible avec cette voiture !\nCe garage ne respecte ni ses engagements, ni ses clients. Si vous cherchez un véhicule fiable et un service après-vente sérieux, passez votre chemin.\n\nUn conseil : fuyez tant qu'il est encore temps.",
+        "langue": "fr",
+        "date": "2026-04-17",
+        "auteur": "flavie pierron",
+        "auteur_lien": "https://www.google.com/maps/contrib/111534885703340128879/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2pNME0yaFhla056TmkwMFRVNDNiV1p1YmpKRFEzYxAB!2m1!1s0x47f71dcc08fa9123:0x402915fc848e09bc"
+      },
+      {
+        "note": 1,
+        "texte": "Bonjour a toute l'équipe de Clermont,\n\nVous dire que je suis déçu , c'est vraiment pas assez.\nL'achat de la voiture a été facile et au début de la transaction le contact avec le vendeur a été agréable.\nMais très vite les ennuis sont arrivés. Problèmes de freins, fuite d'huile, moteur lave glace, voyants airbag, frein a main, soufflets de cardans, géométrie, manque des caches dans le coffre sur la batterie etc.\nJe me suis arrêté dans un autre garage pour les freins et remise a zéro de l'ordinateur pour effacer des messages.\nCes frais en accord avec le vendeur ont été payés par lui.\n\nEnsuite j'ai laissé ma voiture a Clermont pour rectifier les défauts .\n15 jours plus tard, j'ai voulu reprendre ma voiture qui était chez un prestataire et qui m'a donné les clefs.\nJ'avais accepté de prendre la voiture dans cet autre garage en pensant que le véhicule était prêt......\nVoiture stockée a l'extérieur sur la voie publique dans une zone industrielle. Quand j'ai voulu démarrer nous nous sommes aperçu qu'elle était en panne d'essence. J'ai été chercher 10 litres pour pouvoir enfin mettre en route le moteur.\nLa carrosserie était sale, beaucoup de traces noires de mains et également a l'intérieur. La fuite d'huile n'était pas résolue, le cache a l'arrière absent, et une grande raie sur le côté passager depuis la porte arrière et également sur l'aile arrière.\nLe voyant airbag s'est allumé et j'ai constaté que des lunettes de soleil dans un étui n'étaient plus présentes dans la portière conducteur.\nJ'ai essayé d'obtenir la liste des travaux effectués et a l'instant quand je rédige ce commentaire, je n'ai rien reçu .\nAlors que vais-je faire maintenant.......\nNe plus jamais remettre les pieds chez eux, retirer le nom de la société sur les plaques et trouver un garage compétent pour solutionner les différents ennuis, surtout la fuite d'huile et un soufflet de cardan.\nAvant d'écrire ce commentaire, j'ai avertit aussi bien le SAV ainsi que le vendeur de mon mécontentement .\nLe vendeur n'a jamais repris contact avec moi et le SAV avait promis de m'envoyer le rapport de travail que je n'ai jamais reçu .\n\nBeaucoup de temps perdu pour au final constater que cette équipe ne tient pas ses promesses et que j'ai assume une grande partie des frais pour continuer a rouler en sécurité dans mon véhicule .\nJe prends donc mes responsabilités.\n\nCordialement AG",
+        "langue": "fr",
+        "date": "2026-03-26",
+        "auteur": "Alain Girardet",
+        "auteur_lien": "https://www.google.com/maps/contrib/110580200546721488654/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25CamFrTnNOWEJTV2xKRlVrNXlkakZwZDBOc09HYxAB!2m1!1s0x47f71dcc08fa9123:0x402915fc848e09bc"
+      },
+      {
+        "note": 5,
+        "texte": "Très content de mon achat dans ce garage. J'ai acheté en juillet 2024 une Fiat Punto 2 16v Dynamic de 78 000 kilomètres, Matching Numbers, avec tous ses documents d'origine, pour 3 490€.\nAccueil excellent, garage fiable et personnel professionnel. La voiture était conforme et l'achat s'est fait en confiance. Je recommande ce garage sans problème.",
+        "langue": "fr",
+        "date": "2026-03-16",
+        "auteur": "Arnaud Boudoussier",
+        "auteur_lien": "https://www.google.com/maps/contrib/114267239395412279587/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25WTE4ycHRSVU5PT0dKU1ZVazBPV2wwTlZGZk5tYxAB!2m1!1s0x47f71dcc08fa9123:0x402915fc848e09bc"
+      },
+      {
+        "note": 1,
+        "texte": "Très mauvaise expérience, je regrette clairement mon achat. J’ai acheté une voiture chez eux et c’est une catastrophe. Déjà, ils ont mis un temps interminable à faire les papiers, avec beaucoup de désorganisation et très peu de sérieux.\n\nLa voiture avait plusieurs vices cachés et des problèmes qui auraient dû être réparés avant la vente. On m’avait assuré que certaines réparations seraient faites, mais au final rien n’a été fait. J’ai dû revenir plusieurs fois et même hausser le ton pour qu’ils commencent enfin à s’en occuper.\nQue des problèmes sur la voiture qui été censée être « réparer »\nJ’ai aussi appris que la voiture a été accidenté mais ça n’a jamais été dis sur quoi que ce soit\nJ’ai découvert des files couper …\n\nOn a vraiment l’impression qu’une fois la voiture vendue, ils ne veulent plus rien savoir. Manque total de professionnalisme, promesses non tenues et beaucoup de mauvaise foi.\n\nJe déconseille fortement ce garage. Si vous voulez éviter les problèmes et les mauvaises surprises, passez votre chemin.",
+        "langue": "fr",
+        "date": "2026-03-09",
+        "auteur": "Sowel MOUTTAKI",
+        "auteur_lien": "https://www.google.com/maps/contrib/109143230962278741566/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2t0dVVtOXNhRWhPTjA5SWMySlNOMlZyYVVkcVlXYxAB!2m1!1s0x47f71dcc08fa9123:0x402915fc848e09bc"
+      }
+    ]
+  },
+  "services": {
+    "releve": "2026-10-20",
+    "options": {},
+    "paiement": [
+      "carte bancaire",
+      "carte de débit"
+    ],
+    "parking": []
   }
 }

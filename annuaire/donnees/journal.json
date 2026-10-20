@@ -1,5 +1,115 @@
 [
   {
+    "date": "2026-10-20T10:00:02.128Z",
+    "type": "suggestion-soumise",
+    "id": "ChIJ160ju14NrBIRWArxaEcNKaE",
+    "nom": "Epicerie d'ici et d'ailleurs (de nuit)",
+    "url": "/commerces-alimentation/montauban/epicerie-d-ici-et-d-ailleurs-de-nuit/"
+  },
+  {
+    "date": "2026-10-20T10:00:01.503Z",
+    "type": "retrait-410",
+    "id": "ChIJ7RSBsQc7kkcRcohFnUxkFms",
+    "nom": "Belfort",
+    "url": "/medecins-dentistes/belfort/belfort/",
+    "motif": "backlink jamais posé après 45 jours de délai de grâce",
+    "cible": null
+  },
+  {
+    "date": "2026-10-20T10:00:01.507Z",
+    "type": "retrait-410",
+    "id": "ChIJvU0CSwowBEgRkX8KJvuQeoc",
+    "nom": "Garage De La Boutinière",
+    "url": "/garages-automobile/la-roche-sur-yon/garage-de-la-boutiniere/",
+    "motif": "backlink jamais posé après 45 jours de délai de grâce",
+    "cible": null
+  },
+  {
+    "date": "2026-10-20T09:58:53.116Z",
+    "type": "backlink-absent",
+    "id": "ChIJZxN-S7nByRIRZ-20AVW9nVw",
+    "nom": "ECLECTIQUE MARSEILLE",
+    "url": null,
+    "precedent": "en-attente"
+  },
+  {
+    "date": "2026-10-20T09:58:53.191Z",
+    "type": "backlink-absent",
+    "id": "ChIJ-eUf9qLykkcRMglb5wVE8K8",
+    "nom": "Garage Pahon Et Fils",
+    "url": null,
+    "precedent": "en-attente"
+  },
+  {
+    "date": "2026-10-20T09:58:53.344Z",
+    "type": "backlink-absent",
+    "id": "ChIJF-dI6v2H4kcREHlWeYhun6c",
+    "nom": "LeTwenty4",
+    "url": null,
+    "precedent": "en-attente"
+  },
+  {
+    "date": "2026-10-20T09:58:53.421Z",
+    "type": "backlink-absent",
+    "id": "ChIJZzv8OSd-shIRViBqdB1auy0",
+    "nom": "Selarl Pharmacie de Druelle",
+    "url": null,
+    "precedent": "en-attente"
+  },
+  {
+    "date": "2026-10-20T09:58:53.579Z",
+    "type": "backlink-absent",
+    "id": "ChIJSciiKRVI3UcRn5nhwVxf7Uo",
+    "nom": "Tabac Le Saint Laurent",
+    "url": null,
+    "precedent": "en-attente"
+  },
+  {
+    "date": "2026-10-20T09:58:52.273Z",
+    "type": "publication",
+    "id": "ChIJ-eUf9qLykkcRMglb5wVE8K8",
+    "nom": "Garage Pahon Et Fils",
+    "url": "/garages-automobile/noidans-les-vesoul/garage-pahon-et-fils/",
+    "categorie": "garages-automobile",
+    "source": "google-places"
+  },
+  {
+    "date": "2026-10-20T09:58:52.373Z",
+    "type": "publication",
+    "id": "ChIJSciiKRVI3UcRn5nhwVxf7Uo",
+    "nom": "Tabac Le Saint Laurent",
+    "url": "/cafes-bars/saint-laurent-blangy/tabac-le-saint-laurent/",
+    "categorie": "cafes-bars",
+    "source": "google-places"
+  },
+  {
+    "date": "2026-10-20T09:58:52.464Z",
+    "type": "publication",
+    "id": "ChIJZzv8OSd-shIRViBqdB1auy0",
+    "nom": "Selarl Pharmacie de Druelle",
+    "url": "/pharmacies-opticiens/druelle-balsac/selarl-pharmacie-de-druelle/",
+    "categorie": "pharmacies-opticiens",
+    "source": "google-places"
+  },
+  {
+    "date": "2026-10-20T09:58:52.596Z",
+    "type": "publication",
+    "id": "ChIJZxN-S7nByRIRZ-20AVW9nVw",
+    "nom": "ECLECTIQUE MARSEILLE",
+    "url": "/cafes-bars/marseille/eclectique-marseille/",
+    "categorie": "cafes-bars",
+    "source": "google-places"
+  },
+  {
+    "date": "2026-10-20T09:58:52.712Z",
+    "type": "publication",
+    "id": "ChIJF-dI6v2H4kcREHlWeYhun6c",
+    "nom": "LeTwenty4",
+    "url": "/restaurants/le-mans/letwenty4/",
+    "categorie": "restaurants",
+    "source": "google-places"
+  },
+  {
     "date": "2026-10-19T10:49:26.032Z",
     "type": "suggestion-soumise",
     "id": "ChIJ__8jz7_TqRIRYWgQR8-fZZY",

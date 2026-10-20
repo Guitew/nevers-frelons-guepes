@@ -42,8 +42,8 @@
     "etat": "absent",
     "premiere_detection": null,
     "derniere_detection": null,
-    "derniere_verification": "2026-10-09T16:58:32.124Z",
-    "echecs": 4,
+    "derniere_verification": "2026-10-20T09:58:52.830Z",
+    "echecs": 5,
     "url_detectee": null
   },
   "suggestion": {
@@ -56,7 +56,7 @@
   "dates": {
     "collecte": "2026-10-06",
     "publication": "2026-10-06",
-    "maj": "2026-10-09"
+    "maj": "2026-10-20"
   },
   "source": "google-places",
   "redaction": {
@@ -71,6 +71,14 @@
         "titre": "Gymnase Pierre de Coubertin en quelques mots",
         "paragraphes": [
           "Sur Google, l'établissement est classé « Salle de gym », dans notre rubrique Loisirs, sport et culture."
+        ]
+      },
+      {
+        "id": "prestations",
+        "titre": "Services et équipements de Gymnase Pierre de Coubertin",
+        "paragraphes": [
+          "Proposé : toilettes.",
+          "Ces indications sont déclarées par l'établissement sur sa fiche Google (relevé du 20 octobre 2026)."
         ]
       },
       {
@@ -92,7 +100,7 @@
         "id": "avis",
         "titre": "La réputation de Gymnase Pierre de Coubertin",
         "paragraphes": [
-          "Note de 4,1 sur 5 pour 34 avis Google au relevé du 9 octobre 2026. Les avis se consultent sur la fiche Google, dont le lien figure sur cette page."
+          "Note de 4,1 sur 5 pour 34 avis Google au relevé du 20 octobre 2026. Les avis les plus parlants sont compilés ci-dessous, avec un lien vers la fiche d'origine."
         ]
       }
     ],
@@ -106,7 +114,7 @@
         "r": "La fiche Google de l'établissement mentionne : « Entrée accessible en fauteuil roulant ». Cette information est déclarative ; en cas de doute, vérifiez par téléphone."
       }
     ],
-    "genere_le": "2026-10-09"
+    "genere_le": "2026-10-20"
   },
   "statut_google": "OPERATIONAL",
   "audience": {
@@ -117,6 +125,64 @@
     "clicsRecents": 0,
     "fenetreRecenteJours": 28,
     "source": "search-console",
-    "date": "2026-10-19"
+    "date": "2026-10-20"
+  },
+  "avis_detail": {
+    "releve": "2026-10-20",
+    "liste": [
+      {
+        "note": 5,
+        "texte": "Haut",
+        "langue": "fr",
+        "date": "2026-03-10",
+        "auteur": "Tom Noog",
+        "auteur_lien": "https://www.google.com/maps/contrib/114111508761301952277/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2sxUlkxaDBZVFZaWVZsYU1ETm9UMnRFVlRKWVIwRRAB!2m1!1s0x478ba81d536cdb41:0xd0a6804fc96b04c6"
+      },
+      {
+        "note": 3,
+        "texte": "Pas ouf pour jouer au tennis, surface très rapide et avec beaucoup de lignes. Mais depanne bien.",
+        "langue": "fr",
+        "date": "2025-02-12",
+        "auteur": "Hugo",
+        "auteur_lien": "https://www.google.com/maps/contrib/111423465694620175190/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnTURBdC1MYXp3RRAB!2m1!1s0x478ba81d536cdb41:0xd0a6804fc96b04c6"
+      },
+      {
+        "note": 4,
+        "texte": "Tout pour le sportif.",
+        "langue": "fr",
+        "date": "2018-03-27",
+        "auteur": "Éric Veyrès",
+        "auteur_lien": "https://www.google.com/maps/contrib/116497430920896303082/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUNndHJQcF9BRRAB!2m1!1s0x478ba81d536cdb41:0xd0a6804fc96b04c6"
+      },
+      {
+        "note": 5,
+        "texte": "très bien",
+        "langue": "fr",
+        "date": "2018-03-13",
+        "auteur": "Mike Madelaine",
+        "auteur_lien": "https://www.google.com/maps/contrib/105796901121575973332/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUN3MnBiYXJRRRAB!2m1!1s0x478ba81d536cdb41:0xd0a6804fc96b04c6"
+      },
+      {
+        "note": 5,
+        "texte": "Bien adapté pour le judo",
+        "langue": "fr",
+        "date": "2017-11-09",
+        "auteur": "Jean-Paul Chapel",
+        "auteur_lien": "https://www.google.com/maps/contrib/110709132796925118050/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSURnb3FUM0d3EAE!2m1!1s0x478ba81d536cdb41:0xd0a6804fc96b04c6"
+      }
+    ]
+  },
+  "services": {
+    "releve": "2026-10-20",
+    "options": {
+      "restroom": true
+    },
+    "paiement": [],
+    "parking": []
   }
 }

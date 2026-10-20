@@ -120,8 +120,8 @@
     "etat": "absent",
     "premiere_detection": null,
     "derniere_detection": null,
-    "derniere_verification": "2026-10-09T16:58:32.124Z",
-    "echecs": 71,
+    "derniere_verification": "2026-10-20T09:58:52.830Z",
+    "echecs": 72,
     "url_detectee": null
   },
   "retrait": {
@@ -133,7 +133,7 @@
   "dates": {
     "collecte": "2026-08-30",
     "publication": "2026-08-30",
-    "maj": "2026-10-14"
+    "maj": "2026-10-20"
   },
   "source": "google-places",
   "redaction": {
@@ -141,14 +141,22 @@
     "titre": "Igol Centre — Garage et automobile à Nevers",
     "meta_titre": "Igol Centre à Nevers : horaires, avis, téléphone",
     "meta_description": "Igol Centre, garage et automobile à Nevers : horaires d'ouverture, note Google 4,2/5 (30 avis), téléphone, adresse et itinéraire.",
-    "chapo": "Igol Centre est un garage et automobile au 72 Rue d'Alsace Lorraine, à Nevers. Fermé le samedi et le dimanche au relevé du 14 octobre 2026. Téléphone : 03 86 59 78 80. Note Google : 4,2 sur 5 pour 30 avis.",
+    "chapo": "Igol Centre est un garage et automobile au 72 Rue d'Alsace Lorraine, à Nevers. Fermé le samedi et le dimanche au relevé du 20 octobre 2026. Téléphone : 03 86 59 78 80. Note Google : 4,2 sur 5 pour 30 avis.",
     "sections": [
       {
         "id": "presentation",
         "titre": "Igol Centre en quelques mots",
         "paragraphes": [
           "Sur Google, l'établissement est classé « Concessionnaire automobile », dans notre rubrique Garage et automobile.",
-          "D'après le relevé du 14 octobre 2026, l'établissement est fermé le samedi et le dimanche. Le détail jour par jour figure plus bas."
+          "D'après le relevé du 20 octobre 2026, l'établissement est fermé le samedi et le dimanche. Le détail jour par jour figure plus bas."
+        ]
+      },
+      {
+        "id": "prestations",
+        "titre": "Services et équipements de Igol Centre",
+        "paragraphes": [
+          "Moyens de paiement déclarés : carte bancaire et carte de débit.",
+          "Ces indications sont déclarées par l'établissement sur sa fiche Google (relevé du 20 octobre 2026)."
         ]
       },
       {
@@ -170,18 +178,18 @@
         "id": "avis",
         "titre": "La réputation de Igol Centre",
         "paragraphes": [
-          "Note de 4,2 sur 5 pour 30 avis Google au relevé du 14 octobre 2026. Les avis se consultent sur la fiche Google, dont le lien figure sur cette page."
+          "Note de 4,2 sur 5 pour 30 avis Google au relevé du 20 octobre 2026. Les avis les plus parlants sont compilés ci-dessous, avec un lien vers la fiche d'origine."
         ]
       }
     ],
     "faq": [
       {
         "q": "Quels sont les horaires de Igol Centre ?",
-        "r": "Au relevé du 14 octobre 2026, Igol Centre était fermé le samedi et le dimanche. Dans le détail — lundi : de 8 h à 12 h et de 13 h 30 à 17 h 30 ; mardi : de 8 h à 12 h et de 13 h 30 à 17 h 30 ; mercredi : de 8 h à 12 h et de 13 h 30 à 17 h 30 ; jeudi : de 8 h à 12 h et de 13 h 30 à 17 h 30 ; vendredi : de 8 h à 12 h et de 13 h 30 à 16 h 30 ; samedi : fermé ; dimanche : fermé. Ces horaires peuvent changer : un appel préalable reste conseillé."
+        "r": "Au relevé du 20 octobre 2026, Igol Centre était fermé le samedi et le dimanche. Dans le détail — lundi : de 8 h à 12 h et de 13 h 30 à 17 h 30 ; mardi : de 8 h à 12 h et de 13 h 30 à 17 h 30 ; mercredi : de 8 h à 12 h et de 13 h 30 à 17 h 30 ; jeudi : de 8 h à 12 h et de 13 h 30 à 17 h 30 ; vendredi : de 8 h à 12 h et de 13 h 30 à 16 h 30 ; samedi : fermé ; dimanche : fermé. Ces horaires peuvent changer : un appel préalable reste conseillé."
       },
       {
         "q": "Igol Centre est-il ouvert le dimanche ?",
-        "r": "Non : d'après les horaires relevés le 14 octobre 2026, Igol Centre est fermé le dimanche."
+        "r": "Non : d'après les horaires relevés le 20 octobre 2026, Igol Centre est fermé le dimanche."
       },
       {
         "q": "Où se trouve Igol Centre ?",
@@ -196,7 +204,7 @@
         "r": "La fiche Google de l'établissement mentionne : « Parking accessible en fauteuil roulant ». Cette information est déclarative ; en cas de doute, vérifiez par téléphone."
       }
     ],
-    "genere_le": "2026-10-14"
+    "genere_le": "2026-10-20"
   },
   "suggestion": {
     "etat": "soumise",
@@ -212,7 +220,7 @@
     "clicsRecents": 0,
     "fenetreRecenteJours": 28,
     "source": "search-console",
-    "date": "2026-10-19"
+    "date": "2026-10-20"
   },
   "indexation": {
     "etat": "indexee",
@@ -222,5 +230,64 @@
     "canonique_google": null,
     "source": "impressions",
     "date": "2026-10-14"
+  },
+  "avis_detail": {
+    "releve": "2026-10-20",
+    "liste": [
+      {
+        "note": 5,
+        "texte": "toujours un personnel très cool et des produits top",
+        "langue": "fr",
+        "date": "2026-02-09",
+        "auteur": "Reset oil service",
+        "auteur_lien": "https://www.google.com/maps/contrib/101067113272435343785/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT214emVFaHpWRFJ4Vm1OaFIwMXZWSGQwY0RSRmNVRRAB!2m1!1s0x47f04593398ad681:0xd09528717a1ce28a"
+      },
+      {
+        "note": 5,
+        "texte": "Très bon produit le  commercial Arnaud et génial\nNe pas hésiter à ceux fournir chez eux",
+        "langue": "fr",
+        "date": "2021-09-01",
+        "auteur": "Damien Fontaine",
+        "auteur_lien": "https://www.google.com/maps/contrib/101627191704695425654/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUM2Z29yRl9BRRAB!2m1!1s0x47f04593398ad681:0xd09528717a1ce28a"
+      },
+      {
+        "note": 4,
+        "texte": "Personnel très sympathique , mais chemin un peu court pour sortir !!",
+        "langue": "fr",
+        "date": "2020-06-12",
+        "auteur": "Pascal Masson",
+        "auteur_lien": "https://www.google.com/maps/contrib/109552125735893823663/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSURjanRIN3pBRRAB!2m1!1s0x47f04593398ad681:0xd09528717a1ce28a"
+      },
+      {
+        "note": 5,
+        "texte": "Personnel agréable, marchandise décharger rapidement.",
+        "langue": "fr",
+        "date": "2020-02-25",
+        "auteur": "0771747351 Cordier",
+        "auteur_lien": "https://www.google.com/maps/contrib/101282513845399527694/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSURzOUphSzNnRRAB!2m1!1s0x47f04593398ad681:0xd09528717a1ce28a"
+      },
+      {
+        "note": 5,
+        "texte": "La qualité et le sérieux de la société Igol Nevers mérite vraiment d'être sur le podium!!! Bravo à toute l'équipe!!",
+        "langue": "fr",
+        "date": "2017-10-11",
+        "auteur": "pascal vieugué",
+        "auteur_lien": "https://www.google.com/maps/contrib/104165434588667564888/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUNRdE1qU0pREAE!2m1!1s0x47f04593398ad681:0xd09528717a1ce28a"
+      }
+    ]
+  },
+  "services": {
+    "releve": "2026-10-20",
+    "options": {},
+    "paiement": [
+      "carte bancaire",
+      "carte de débit"
+    ],
+    "parking": []
   }
 }

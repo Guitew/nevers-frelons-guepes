@@ -42,8 +42,8 @@
     "etat": "absent",
     "premiere_detection": null,
     "derniere_detection": null,
-    "derniere_verification": "2026-10-09T16:58:32.124Z",
-    "echecs": 10,
+    "derniere_verification": "2026-10-20T09:58:52.830Z",
+    "echecs": 11,
     "url_detectee": null
   },
   "suggestion": {
@@ -56,7 +56,7 @@
   "dates": {
     "collecte": "2026-09-30",
     "publication": "2026-09-30",
-    "maj": "2026-10-09"
+    "maj": "2026-10-20"
   },
   "source": "google-places",
   "redaction": {
@@ -92,7 +92,7 @@
         "id": "avis",
         "titre": "La réputation de Gymnase Gérard Philippe",
         "paragraphes": [
-          "Note de 4 sur 5 pour 68 avis Google au relevé du 9 octobre 2026. Les avis se consultent sur la fiche Google, dont le lien figure sur cette page."
+          "Note de 4 sur 5 pour 68 avis Google au relevé du 20 octobre 2026. Les avis les plus parlants sont compilés ci-dessous, avec un lien vers la fiche d'origine."
         ]
       }
     ],
@@ -106,7 +106,7 @@
         "r": "La fiche Google de l'établissement mentionne : « Entrée accessible en fauteuil roulant ». Cette information est déclarative ; en cas de doute, vérifiez par téléphone."
       }
     ],
-    "genere_le": "2026-10-09"
+    "genere_le": "2026-10-20"
   },
   "statut_google": "OPERATIONAL",
   "audience": {
@@ -117,6 +117,56 @@
     "clicsRecents": 0,
     "fenetreRecenteJours": 28,
     "source": "search-console",
-    "date": "2026-10-19"
+    "date": "2026-10-20"
+  },
+  "avis_detail": {
+    "releve": "2026-10-20",
+    "liste": [
+      {
+        "note": 4,
+        "texte": "Super gymnase !",
+        "langue": "fr",
+        "date": "2026-02-13",
+        "auteur": "Christine Dascola",
+        "auteur_lien": "https://www.google.com/maps/contrib/115216084587731024687/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2s0MmQyeEhUV3hNWldoc2RtRXdUMFJaWDBSMlkzYxAB!2m1!1s0x478af3a8e2eaae37:0xcabe6f6785a2694b"
+      },
+      {
+        "note": 4,
+        "texte": "Très jolie gymnase fonctionnel",
+        "langue": "fr",
+        "date": "2024-02-08",
+        "auteur": "yvan ermacora",
+        "auteur_lien": "https://www.google.com/maps/contrib/115583856558772438136/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUR0NzlUNGZBEAE!2m1!1s0x478af3a8e2eaae37:0xcabe6f6785a2694b"
+      },
+      {
+        "note": 5,
+        "texte": "Je trouve le gymnase assez bien",
+        "langue": "fr",
+        "date": "2019-06-06",
+        "auteur": "Gajeel Rogue",
+        "auteur_lien": "https://www.google.com/maps/contrib/118100486285637656540/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUM0N3A3LUdBEAE!2m1!1s0x478af3a8e2eaae37:0xcabe6f6785a2694b"
+      },
+      {
+        "note": 2,
+        "texte": "Beau volume. Sol mal entretenu Dommage...",
+        "langue": "fr",
+        "date": "2019-04-10",
+        "auteur": "Pierre Lebas",
+        "auteur_lien": "https://www.google.com/maps/contrib/118431990729610518213/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUNZeXM2ckpREAE!2m1!1s0x478af3a8e2eaae37:0xcabe6f6785a2694b"
+      },
+      {
+        "note": 3,
+        "texte": "C'était pas mal mais peut être rénové en beaucoup mieux",
+        "langue": "fr",
+        "date": "2019-03-30",
+        "auteur": "Juliette TEXIER",
+        "auteur_lien": "https://www.google.com/maps/contrib/112764029051278880577/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUNZaUxqSWFREAE!2m1!1s0x478af3a8e2eaae37:0xcabe6f6785a2694b"
+      }
+    ]
   }
 }

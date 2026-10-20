@@ -26,8 +26,8 @@
     "latitude": 45.541058899999996,
     "longitude": 4.3146282
   },
-  "note": 3.8,
-  "avis": 77,
+  "note": 3.9,
+  "avis": 78,
   "horaires": null,
   "attributs": [
     "Entrée accessible en fauteuil roulant",
@@ -40,8 +40,8 @@
     "etat": "absent",
     "premiere_detection": null,
     "derniere_detection": null,
-    "derniere_verification": "2026-10-09T16:58:32.124Z",
-    "echecs": 71,
+    "derniere_verification": "2026-10-20T09:58:52.830Z",
+    "echecs": 72,
     "url_detectee": null
   },
   "suggestion": {
@@ -60,15 +60,15 @@
   "dates": {
     "collecte": "2026-09-01",
     "publication": "2026-09-01",
-    "maj": "2026-10-18"
+    "maj": "2026-10-20"
   },
   "source": "google-places",
   "redaction": {
     "version": 2,
     "titre": "Id log intermarché Saint-Bonnet-les-Oules (SBO) — Transport et déménagement à Saint-Bonnet-les-Oules",
     "meta_titre": "Id log intermarché Saint-Bonnet-les-Oules (SBO) : avis",
-    "meta_description": "Id log intermarché Saint-Bonnet-les-Oules (SBO), transport et déménagement à Saint-Bonnet-les-Oules : note Google 3,8/5 (77 avis), adresse et itinéraire.",
-    "chapo": "Id log intermarché Saint-Bonnet-les-Oules (SBO), transport et déménagement au 327 Zone Artisanale de Lapra, à Saint-Bonnet-les-Oules. Note Google : 3,8 sur 5 pour 77 avis.",
+    "meta_description": "Id log intermarché Saint-Bonnet-les-Oules (SBO), transport et déménagement à Saint-Bonnet-les-Oules : note Google 3,9/5 (78 avis), adresse et itinéraire.",
+    "chapo": "Id log intermarché Saint-Bonnet-les-Oules (SBO), transport et déménagement au 327 Zone Artisanale de Lapra, à Saint-Bonnet-les-Oules. Note Google : 3,9 sur 5 pour 78 avis.",
     "sections": [
       {
         "id": "presentation",
@@ -96,7 +96,7 @@
         "id": "avis",
         "titre": "La réputation de Id log intermarché Saint-Bonnet-les-Oules (SBO)",
         "paragraphes": [
-          "Note de 3,8 sur 5 pour 77 avis Google au relevé du 18 octobre 2026. Les avis se consultent sur la fiche Google, dont le lien figure sur cette page."
+          "Note de 3,9 sur 5 pour 78 avis Google au relevé du 20 octobre 2026. Les avis les plus parlants sont compilés ci-dessous, avec un lien vers la fiche d'origine."
         ]
       }
     ],
@@ -110,7 +110,7 @@
         "r": "La fiche Google de l'établissement mentionne : « Entrée accessible en fauteuil roulant ». Cette information est déclarative ; en cas de doute, vérifiez par téléphone."
       }
     ],
-    "genere_le": "2026-10-18"
+    "genere_le": "2026-10-20"
   },
   "statut_google": "OPERATIONAL",
   "audience": {
@@ -121,7 +121,7 @@
     "clicsRecents": 0,
     "fenetreRecenteJours": 28,
     "source": "search-console",
-    "date": "2026-10-19"
+    "date": "2026-10-20"
   },
   "indexation": {
     "etat": "non-indexee",
@@ -131,5 +131,55 @@
     "canonique_google": null,
     "source": "inspection",
     "date": "2026-10-18"
+  },
+  "avis_detail": {
+    "releve": "2026-10-20",
+    "liste": [
+      {
+        "note": 2,
+        "texte": "Rdv 10h 15 départ 13h45 3 heures 30  pour décharger 19 palettes au sol 21 totale\nPas accès au quai, clé accroché bref coincé et pour finir ils cassent les palettes en déchargeant du coup 2 en moins et à St Quentin Fallavier réserve sur palette de boisson mais aucune n’a bougé ou autre, là aussi quai interdit\nAprès les personnes sont sympathiques",
+        "langue": "fr",
+        "date": "2026-05-14",
+        "auteur": "Abdel Marouni",
+        "auteur_lien": "https://www.google.com/maps/contrib/101421559667107800406/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xOS1VUSjJlamxUWDI1UGRWTllOalJPY2pkNGQxRRAB!2m1!1s0x47f44d000a760fe3:0x2de5205c0eb9b407"
+      },
+      {
+        "note": 4,
+        "texte": "Loin d être la pire des centrales…. Points négatifs, la propreté des toilettes à revoir",
+        "langue": "fr",
+        "date": "2026-04-07",
+        "auteur": "Jo Jo",
+        "auteur_lien": "https://www.google.com/maps/contrib/112856643268563547041/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25CWFoxVktaR3hsVjJOamNuZExhbm94WDI1TlFXYxAB!2m1!1s0x47f44d000a760fe3:0x2de5205c0eb9b407"
+      },
+      {
+        "note": 1,
+        "texte": "Le bordel depuis que itm a repris le site 2h pour décharger 32 palettes.",
+        "langue": "fr",
+        "date": "2026-03-05",
+        "auteur": "Philoulaforme 42",
+        "auteur_lien": "https://www.google.com/maps/contrib/114148693738110405669/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT210MFVEVkNkemhvU0dWUVNISm5PRU4wTTNSU2NGRRAB!2m1!1s0x47f44d000a760fe3:0x2de5205c0eb9b407"
+      },
+      {
+        "note": 5,
+        "texte": "Ils font comme ils peuvent avec les moyens qu'ils ont. Ils ont des conditions très difficiles et je respecte leur dévouement.\nSoyez fort. L'équipe de réception semble être soudée... C'est leur force. Pour ça, un grand bravo.",
+        "langue": "fr",
+        "date": "2025-08-13",
+        "auteur": "georges",
+        "auteur_lien": "https://www.google.com/maps/contrib/117660749139451753142/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2tjNFdHUjJiRXBJYm5Od2IyNWFNbXBCVDFWaFFWRRAB!2m1!1s0x47f44d000a760fe3:0x2de5205c0eb9b407"
+      },
+      {
+        "note": 5,
+        "texte": "Très bonne accueil, pris avant l'heure de rendez-vous, Grand parking ouvert 24/24. Douche et sanitaire moyen mais existe. Personnel serviable et pro. Aussi bien pour vider que pour charger le carton, ça va viiiiiiite.",
+        "langue": "fr",
+        "date": "2024-12-21",
+        "auteur": "HaMiD oUaBi",
+        "auteur_lien": "https://www.google.com/maps/contrib/113242762623558305334/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUR2eWMyZ1RnEAE!2m1!1s0x47f44d000a760fe3:0x2de5205c0eb9b407"
+      }
+    ]
   }
 }

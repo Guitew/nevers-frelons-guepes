@@ -28,7 +28,7 @@
     "longitude": -0.5568160999999999
   },
   "note": 4.1,
-  "avis": 332,
+  "avis": 342,
   "horaires": null,
   "attributs": [
     "Entrée accessible en fauteuil roulant",
@@ -42,8 +42,8 @@
     "etat": "absent",
     "premiere_detection": null,
     "derniere_detection": null,
-    "derniere_verification": "2026-10-09T16:58:32.124Z",
-    "echecs": 71,
+    "derniere_verification": "2026-10-20T09:58:52.830Z",
+    "echecs": 72,
     "url_detectee": null
   },
   "suggestion": {
@@ -61,21 +61,30 @@
   "dates": {
     "collecte": "2026-09-01",
     "publication": "2026-09-01",
-    "maj": "2026-10-19"
+    "maj": "2026-10-20"
   },
   "source": "google-places",
   "redaction": {
     "version": 2,
     "titre": "Gare Bordeaux Saint-Jean — Service aux particuliers à Bordeaux",
     "meta_titre": "Gare Bordeaux Saint-Jean à Bordeaux : avis",
-    "meta_description": "Gare Bordeaux Saint-Jean, service aux particuliers à Bordeaux : note Google 4,1/5 (332 avis), adresse et itinéraire.",
-    "chapo": "Gare Bordeaux Saint-Jean est un service aux particuliers au Rue Charles Domercq, à Bordeaux. Note Google : 4,1 sur 5 pour 332 avis.",
+    "meta_description": "Gare Bordeaux Saint-Jean, service aux particuliers à Bordeaux : note Google 4,1/5 (342 avis), adresse et itinéraire.",
+    "chapo": "Gare Bordeaux Saint-Jean est un service aux particuliers au Rue Charles Domercq, à Bordeaux. Note Google : 4,1 sur 5 pour 342 avis.",
     "sections": [
       {
         "id": "presentation",
         "titre": "Gare Bordeaux Saint-Jean en quelques mots",
         "paragraphes": [
           "Sur Google, l'établissement est classé « Agence de voyages », dans notre rubrique Service aux particuliers."
+        ]
+      },
+      {
+        "id": "prestations",
+        "titre": "Services et équipements de Gare Bordeaux Saint-Jean",
+        "paragraphes": [
+          "Proposé : toilettes.",
+          "Moyens de paiement déclarés : carte bancaire, carte de débit et paiement sans contact.",
+          "Ces indications sont déclarées par l'établissement sur sa fiche Google (relevé du 20 octobre 2026)."
         ]
       },
       {
@@ -97,7 +106,7 @@
         "id": "avis",
         "titre": "La réputation de Gare Bordeaux Saint-Jean",
         "paragraphes": [
-          "Note de 4,1 sur 5 pour 332 avis Google au relevé du 18 octobre 2026. Les avis se consultent sur la fiche Google, dont le lien figure sur cette page."
+          "Note de 4,1 sur 5 pour 342 avis Google au relevé du 20 octobre 2026. Les avis les plus parlants sont compilés ci-dessous, avec un lien vers la fiche d'origine."
         ]
       }
     ],
@@ -111,7 +120,7 @@
         "r": "La fiche Google de l'établissement mentionne : « Entrée accessible en fauteuil roulant ». Cette information est déclarative ; en cas de doute, vérifiez par téléphone."
       }
     ],
-    "genere_le": "2026-10-18"
+    "genere_le": "2026-10-20"
   },
   "statut_google": "OPERATIONAL",
   "audience": {
@@ -122,7 +131,7 @@
     "clicsRecents": 0,
     "fenetreRecenteJours": 28,
     "source": "search-console",
-    "date": "2026-10-19"
+    "date": "2026-10-20"
   },
   "indexation": {
     "etat": "non-indexee",
@@ -132,5 +141,67 @@
     "canonique_google": null,
     "source": "inspection",
     "date": "2026-10-19"
+  },
+  "avis_detail": {
+    "releve": "2026-10-20",
+    "liste": [
+      {
+        "note": 5,
+        "texte": "On n'est pas sur une p'tite gare mon copain 😁 Accès au tram super pratique pour aller en centre ville 🏁",
+        "langue": "fr",
+        "date": "2026-08-05",
+        "auteur": "CEDRIC ROLLAND",
+        "auteur_lien": "https://www.google.com/maps/contrib/114169374443963635503/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT205T2MwaG9iMVkxWkVWS1ZtcE9iRzVpWjBWVFUyYxAB!2m1!1s0xd5527002ae65df7:0xe0b0a09979bb2091"
+      },
+      {
+        "note": 3,
+        "texte": "La gare est grande et il est plutôt facile de s'y retrouver (3 quais, ils sont bien indiqués). Niveau nourriture, comme partout c'est plus élevé qu'en commerce donc pensez à acheter avant si vous souhaitez faire des économies. Ma note tient compte du fait que ce n'est pas un endroit oû on se sent vraiment en sécurité la nuit, on pourrait faire mieux.",
+        "langue": "fr",
+        "date": "2026-06-03",
+        "auteur": "Brice Vauquelin",
+        "auteur_lien": "https://www.google.com/maps/contrib/101026897973199145078/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xGVFdFRjZaV2RZZVdkak56QkRRUzE2ZVhsV1NHYxAB!2m1!1s0xd5527002ae65df7:0xe0b0a09979bb2091"
+      },
+      {
+        "note": 3,
+        "texte": "Jolie gare dans le hall principale, les autres hall sont sans grand interet, assez vide. Les couloirs en sous sol sont comme dans beaucoup de gare assez glauque et on ne veut pas y rester.\nPas assez de chaises pour s'asseoir, quelques prises pour brancher son téléphone et des commerces plus nombreux qu'à l'aéroport mais rien d'exceptionnel non plus.\nLa gare n'est pas particulièrement propre et reste extrêmement bruyante du fait des plafonds très jolis mais très haut.\nÇa reste une gare, c'est globalement pas très bien fréquenté, elle attire des gens qu'on souhaiterait ne pas voir. Attention à vos poches et à vous à certaines heures, la sécurité y est à revoir.",
+        "langue": "fr",
+        "date": "2026-05-20",
+        "auteur": "Aurélien Sid",
+        "auteur_lien": "https://www.google.com/maps/contrib/111105735467705571412/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2s5aWFHWktSRVExV1dSSFYyVXpTbUY0T1RSdFpsRRAB!2m1!1s0xd5527002ae65df7:0xe0b0a09979bb2091"
+      },
+      {
+        "note": 5,
+        "texte": "Gare agréable. Le 20 décembre entre 11 h et 12h  rue de Bézier, j’ai vu une grosse voiture en difficulté pour se garer derrière une petite rouge. Le conducteur de la petite s’est poussé pour aider. Pas suffisamment vite. Le conducteur de la grosse, pas impressionnant du tout physiquement du reste est sorti lui dire qud la prochaine gois :)... il démontait le parechoc de sa voiture...magie de noël.",
+        "langue": "fr",
+        "date": "2026-01-03",
+        "auteur": "Emi",
+        "auteur_lien": "https://www.google.com/maps/contrib/103524733982563120479/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25SQ1lXZ3RTVEpvZFZSZllUWndNRlJVWkhWNFRrRRAB!2m1!1s0xd5527002ae65df7:0xe0b0a09979bb2091"
+      },
+      {
+        "note": 5,
+        "texte": "Bonne signalétique sauf pour les PMR en fauteuil il est parfois difficile de lever la tête ( handicap)  si haut pour voir l affichage tableau ou autocollant WC placé au coin haut de la porte. Si non WC hors norme musique et lumière type snolezen. Par contre pas de table à langer solide et longue pour change grand ado ( avec protection).",
+        "langue": "fr",
+        "date": "2025-08-28",
+        "auteur": "Myriam BAL",
+        "auteur_lien": "https://www.google.com/maps/contrib/112997550086231070677/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2tsQ1gwUlBkblkwVFVWT1dqVTRhMWd6ZFZCYVMxRRAB!2m1!1s0xd5527002ae65df7:0xe0b0a09979bb2091"
+      }
+    ]
+  },
+  "services": {
+    "releve": "2026-10-20",
+    "options": {
+      "restroom": true
+    },
+    "paiement": [
+      "carte bancaire",
+      "carte de débit",
+      "paiement sans contact"
+    ],
+    "parking": []
   }
 }

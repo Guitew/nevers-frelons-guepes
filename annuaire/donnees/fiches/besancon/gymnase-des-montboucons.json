@@ -113,8 +113,8 @@
     "etat": "absent",
     "premiere_detection": null,
     "derniere_detection": null,
-    "derniere_verification": "2026-10-09T16:58:32.124Z",
-    "echecs": 3,
+    "derniere_verification": "2026-10-20T09:58:52.830Z",
+    "echecs": 4,
     "url_detectee": null
   },
   "suggestion": {
@@ -127,7 +127,7 @@
   "dates": {
     "collecte": "2026-10-07",
     "publication": "2026-10-07",
-    "maj": "2026-10-09"
+    "maj": "2026-10-20"
   },
   "source": "google-places",
   "redaction": {
@@ -135,14 +135,14 @@
     "titre": "Gymnase des Montboucons — Loisirs, sport et culture à Besançon",
     "meta_titre": "Gymnase des Montboucons à Besançon : horaires, avis",
     "meta_description": "Gymnase des Montboucons, loisirs, sport et culture à Besançon : horaires d'ouverture, note Google 4,5/5 (53 avis), téléphone, adresse et itinéraire.",
-    "chapo": "Gymnase des Montboucons est un loisirs, sport et culture au 6 Avenue des Montboucons, à Besançon. Ouvert sept jours sur sept au relevé du 9 octobre 2026. Téléphone : 06 72 82 11 76. Note Google : 4,5 sur 5 pour 53 avis.",
+    "chapo": "Gymnase des Montboucons est un loisirs, sport et culture au 6 Avenue des Montboucons, à Besançon. Ouvert sept jours sur sept au relevé du 20 octobre 2026. Téléphone : 06 72 82 11 76. Note Google : 4,5 sur 5 pour 53 avis.",
     "sections": [
       {
         "id": "presentation",
         "titre": "Gymnase des Montboucons en quelques mots",
         "paragraphes": [
           "Sur Google, l'établissement est classé « Complexe sportif », dans notre rubrique Loisirs, sport et culture.",
-          "D'après le relevé du 9 octobre 2026, l'établissement est ouvert sept jours sur sept. Le détail jour par jour figure plus bas."
+          "D'après le relevé du 20 octobre 2026, l'établissement est ouvert sept jours sur sept. Le détail jour par jour figure plus bas."
         ]
       },
       {
@@ -164,18 +164,18 @@
         "id": "avis",
         "titre": "La réputation de Gymnase des Montboucons",
         "paragraphes": [
-          "Note de 4,5 sur 5 pour 53 avis Google au relevé du 9 octobre 2026. Les avis se consultent sur la fiche Google, dont le lien figure sur cette page."
+          "Note de 4,5 sur 5 pour 53 avis Google au relevé du 20 octobre 2026. Les avis les plus parlants sont compilés ci-dessous, avec un lien vers la fiche d'origine."
         ]
       }
     ],
     "faq": [
       {
         "q": "Quels sont les horaires de Gymnase des Montboucons ?",
-        "r": "Au relevé du 9 octobre 2026, Gymnase des Montboucons était ouvert sept jours sur sept. Dans le détail — lundi : de 8 h à 22 h 30 ; mardi : de 8 h à 22 h 30 ; mercredi : de 8 h à 23 h 30 ; jeudi : de 8 h à 22 h 30 ; vendredi : de 8 h à 22 h 30 ; samedi : de 8 h à 22 h 30 ; dimanche : de 8 h à 18 h. Ces horaires peuvent changer : un appel préalable reste conseillé."
+        "r": "Au relevé du 20 octobre 2026, Gymnase des Montboucons était ouvert sept jours sur sept. Dans le détail — lundi : de 8 h à 22 h 30 ; mardi : de 8 h à 22 h 30 ; mercredi : de 8 h à 23 h 30 ; jeudi : de 8 h à 22 h 30 ; vendredi : de 8 h à 22 h 30 ; samedi : de 8 h à 22 h 30 ; dimanche : de 8 h à 18 h. Ces horaires peuvent changer : un appel préalable reste conseillé."
       },
       {
         "q": "Gymnase des Montboucons est-il ouvert le dimanche ?",
-        "r": "Oui : le dimanche, Gymnase des Montboucons est ouvert de 8 h à 18 h (horaires relevés le 9 octobre 2026)."
+        "r": "Oui : le dimanche, Gymnase des Montboucons est ouvert de 8 h à 18 h (horaires relevés le 20 octobre 2026)."
       },
       {
         "q": "Où se trouve Gymnase des Montboucons ?",
@@ -190,17 +190,67 @@
         "r": "La fiche Google de l'établissement mentionne : « Entrée accessible en fauteuil roulant ». Cette information est déclarative ; en cas de doute, vérifiez par téléphone."
       }
     ],
-    "genere_le": "2026-10-09"
+    "genere_le": "2026-10-20"
   },
   "statut_google": "OPERATIONAL",
   "audience": {
     "clics": 0,
-    "impressions": 0,
-    "position": null,
+    "impressions": 1,
+    "position": 11,
     "fenetreJours": 90,
     "clicsRecents": 0,
     "fenetreRecenteJours": 28,
     "source": "search-console",
-    "date": "2026-10-19"
+    "date": "2026-10-20"
+  },
+  "avis_detail": {
+    "releve": "2026-10-20",
+    "liste": [
+      {
+        "note": 4,
+        "texte": "Ambiance sympathique",
+        "langue": "fr",
+        "date": "2026-02-02",
+        "auteur": "Gabi Besac",
+        "auteur_lien": "https://www.google.com/maps/contrib/118264601566363224794/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2tkWGRrcHZVR04zVlU0MlZXdFFXbnBxUW1NNExVRRAB!2m1!1s0x478d63aa62508247:0x4277f902144cfaaa"
+      },
+      {
+        "note": 5,
+        "texte": "Belle salle de sport idéale pour la pratique du handball",
+        "langue": "fr",
+        "date": "2025-04-29",
+        "auteur": "Thomas Vermot D",
+        "auteur_lien": "https://www.google.com/maps/contrib/111320053309623680627/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnTURvbC1Qemp3RRAB!2m1!1s0x478d63aa62508247:0x4277f902144cfaaa"
+      },
+      {
+        "note": 4,
+        "texte": "Belle salle polyvalente bien adaptée pour le Handball et le basket. Moyens d'hospitalité corrects. Équipements fonctionnels adaptés aux compétitions régionales voire nationales.",
+        "langue": "fr",
+        "date": "2024-11-17",
+        "auteur": "Michel Besson",
+        "auteur_lien": "https://www.google.com/maps/contrib/107739946809403859851/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUNUOTVfZGxRRRAB!2m1!1s0x478d63aa62508247:0x4277f902144cfaaa"
+      },
+      {
+        "note": 5,
+        "texte": "Gymnase de ville, quartier des Montboucons à Besançon, manifestations sportives organisées par les clubs, dont le Besak club de basket, Roller Hockey, parking gratuit, buvette et restauration rapide, douches, WC, gradins, facile d'accès.",
+        "langue": "fr",
+        "date": "2023-11-17",
+        "auteur": "Henry Goguey",
+        "auteur_lien": "https://www.google.com/maps/contrib/115230442215590278779/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUNsNXR2SlJnEAE!2m1!1s0x478d63aa62508247:0x4277f902144cfaaa"
+      },
+      {
+        "note": 3,
+        "texte": "Petit parking et les sièges ne sont pas très confortable. Il y a cependant de beaux marches",
+        "langue": "fr",
+        "date": "2023-11-03",
+        "auteur": "Auri",
+        "auteur_lien": "https://www.google.com/maps/contrib/112236276582800914495/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUNGaC03WTdnRRAB!2m1!1s0x478d63aa62508247:0x4277f902144cfaaa"
+      }
+    ]
   }
 }

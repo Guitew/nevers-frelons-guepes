@@ -33,7 +33,7 @@
     "longitude": -0.35319259999999997
   },
   "note": 4.6,
-  "avis": 1289,
+  "avis": 1294,
   "horaires": [
     {
       "jour": 0,
@@ -108,8 +108,8 @@
     "etat": "absent",
     "premiere_detection": null,
     "derniere_detection": null,
-    "derniere_verification": "2026-10-09T16:58:32.124Z",
-    "echecs": 9,
+    "derniere_verification": "2026-10-20T09:58:52.830Z",
+    "echecs": 10,
     "url_detectee": null
   },
   "suggestion": {
@@ -122,22 +122,34 @@
   "dates": {
     "collecte": "2026-10-01",
     "publication": "2026-10-01",
-    "maj": "2026-10-09"
+    "maj": "2026-10-20"
   },
   "source": "google-places",
   "redaction": {
     "version": 2,
     "titre": "Keys & Co. — Café ou bar à Caen",
     "meta_titre": "Keys & Co. à Caen : horaires, avis, téléphone",
-    "meta_description": "Keys & Co., café ou bar à Caen : horaires d'ouverture, note Google 4,6/5 (1289 avis), téléphone, adresse et itinéraire.",
-    "chapo": "Keys & Co., café ou bar au 45 Avenue du Six Juin, à Caen. Fermé le lundi et le mardi au relevé du 9 octobre 2026. Téléphone : 02 31 34 60 83. Note Google : 4,6 sur 5 pour 1289 avis.",
+    "meta_description": "Keys & Co., café ou bar à Caen : horaires d'ouverture, note Google 4,6/5 (1294 avis), téléphone, adresse et itinéraire.",
+    "chapo": "Keys & Co., café ou bar au 45 Avenue du Six Juin, à Caen. Fermé le lundi et le mardi au relevé du 20 octobre 2026. Téléphone : 02 31 34 60 83. Note Google : 4,6 sur 5 pour 1294 avis.",
     "sections": [
       {
         "id": "presentation",
         "titre": "Keys & Co. en quelques mots",
         "paragraphes": [
           "Sur Google, l'établissement est classé « Café », dans notre rubrique Café ou bar.",
-          "D'après le relevé du 9 octobre 2026, l'établissement est fermé le lundi et le mardi. Le détail jour par jour figure plus bas."
+          "Niveau de prix indiqué sur la fiche Google : €€ (modéré).",
+          "D'après le relevé du 20 octobre 2026, l'établissement est fermé le lundi et le mardi. Le détail jour par jour figure plus bas."
+        ]
+      },
+      {
+        "id": "prestations",
+        "titre": "Services et équipements de Keys & Co.",
+        "paragraphes": [
+          "Proposé : sur place, à emporter, terrasse, petit-déjeuner, brunch, déjeuner, plats végétariens, café, bière, menu enfant, adapté aux enfants, adapté aux groupes, chiens acceptés et toilettes.",
+          "Non proposé selon la fiche Google : livraison et retransmissions sportives.",
+          "Moyens de paiement déclarés : carte bancaire, carte de débit et paiement sans contact.",
+          "Stationnement : parking payant et stationnement payant dans la rue.",
+          "Ces indications sont déclarées par l'établissement sur sa fiche Google (relevé du 20 octobre 2026)."
         ]
       },
       {
@@ -159,18 +171,18 @@
         "id": "avis",
         "titre": "La réputation de Keys & Co.",
         "paragraphes": [
-          "Note de 4,6 sur 5 pour 1289 avis Google au relevé du 9 octobre 2026. Les avis se consultent sur la fiche Google, dont le lien figure sur cette page."
+          "Note de 4,6 sur 5 pour 1294 avis Google au relevé du 20 octobre 2026. Les avis les plus parlants sont compilés ci-dessous, avec un lien vers la fiche d'origine."
         ]
       }
     ],
     "faq": [
       {
         "q": "Quels sont les horaires de Keys & Co. ?",
-        "r": "Au relevé du 9 octobre 2026, Keys & Co. était fermé le lundi et le mardi. Dans le détail — lundi : fermé ; mardi : fermé ; mercredi : de 9 h à 18 h ; jeudi : de 9 h à 18 h ; vendredi : de 9 h à 18 h ; samedi : de 9 h à 18 h ; dimanche : de 9 h à 18 h. Ces horaires peuvent changer : un appel préalable reste conseillé."
+        "r": "Au relevé du 20 octobre 2026, Keys & Co. était fermé le lundi et le mardi. Dans le détail — lundi : fermé ; mardi : fermé ; mercredi : de 9 h à 18 h ; jeudi : de 9 h à 18 h ; vendredi : de 9 h à 18 h ; samedi : de 9 h à 18 h ; dimanche : de 9 h à 18 h. Ces horaires peuvent changer : un appel préalable reste conseillé."
       },
       {
         "q": "Keys & Co. est-il ouvert le dimanche ?",
-        "r": "Oui : le dimanche, Keys & Co. est ouvert de 9 h à 18 h (horaires relevés le 9 octobre 2026)."
+        "r": "Oui : le dimanche, Keys & Co. est ouvert de 9 h à 18 h (horaires relevés le 20 octobre 2026)."
       },
       {
         "q": "Où se trouve Keys & Co. ?",
@@ -181,11 +193,19 @@
         "r": "Par téléphone au 02 31 34 60 83, ou directement sur place aux heures d'ouverture."
       },
       {
+        "q": "Keys & Co. propose-t-il la vente à emporter ou la livraison ?",
+        "r": "D'après sa fiche Google (relevé du 20 octobre 2026) — vente à emporter : oui ; livraison : non."
+      },
+      {
+        "q": "Quel est le niveau de prix de Keys & Co. ?",
+        "r": "Google classe Keys & Co. au niveau de prix €€ (modéré), sur une échelle de € à €€€€ établie à partir des avis clients."
+      },
+      {
         "q": "Keys & Co. est-il accessible aux personnes à mobilité réduite ?",
         "r": "La fiche Google de l'établissement mentionne : « Entrée accessible en fauteuil roulant ». Cette information est déclarative ; en cas de doute, vérifiez par téléphone."
       }
     ],
-    "genere_le": "2026-10-09"
+    "genere_le": "2026-10-20"
   },
   "statut_google": "OPERATIONAL",
   "audience": {
@@ -196,6 +216,87 @@
     "clicsRecents": 0,
     "fenetreRecenteJours": 28,
     "source": "search-console",
-    "date": "2026-10-19"
+    "date": "2026-10-20"
+  },
+  "avis_detail": {
+    "releve": "2026-10-20",
+    "liste": [
+      {
+        "note": 5,
+        "texte": "Nous aimons beaucoup venir goûter dans ce lieu. Les pâtisseries sont excellentes. Les boissons à base de café aussi. Rien à dire !\nPetits points négatifs : le matcha n’était pas terrible et parfois le service est un peu long .\nMais à part ça, on recommande sans soucis !",
+        "langue": "fr",
+        "date": "2026-08-15",
+        "auteur": "Alina Nina",
+        "auteur_lien": "https://www.google.com/maps/contrib/115537575825625189420/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT21GSVJFd3RVWFJFZGt0VFNIWnZNamxuYTJST1NsRRAB!2m1!1s0x480a429938c24b29:0x8d3ae0535f66669c"
+      },
+      {
+        "note": 5,
+        "texte": "De passage à Caen, on cherchait un endroit pour avoir un bon petit déjeuner type brunch, et c'est chatgpt qui nousy a conduit 😅👍 et ben c'était super bonnnnnn, toute ma tribu et moi on s'est régalé 🤤, pour moi salé , les plus jeunes sucré....je recommande vivement cet endroit avec un super accueil 👍",
+        "langue": "fr",
+        "date": "2026-05-15",
+        "auteur": "Céline Le Mer",
+        "auteur_lien": "https://www.google.com/maps/contrib/115809839039382700108/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xFeFJVSjVPR2hTYUVSeVRVcEpWVGxqY2xaUVRXYxAB!2m1!1s0x480a429938c24b29:0x8d3ae0535f66669c"
+      },
+      {
+        "note": 5,
+        "texte": "Super endroit avec de belles choses à la carte que ce soit pour un goûté ou pour un bruch. L’intérieur est un peu bruyant mais les cookies sont très bons. Je recommande le smoothie",
+        "langue": "fr",
+        "date": "2026-03-31",
+        "auteur": "Inès L",
+        "auteur_lien": "https://www.google.com/maps/contrib/103106887922470114320/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2poNFlrMW5RWGRWWjJ0clNXSnFOVzFZZG5WMk5tYxAB!2m1!1s0x480a429938c24b29:0x8d3ae0535f66669c"
+      },
+      {
+        "note": 5,
+        "texte": "Super café pour bruncher et deguster de bonnes patisseries. Les formules.du midi sont bonnes et copieuses.",
+        "langue": "fr",
+        "date": "2026-03-17",
+        "auteur": "Ame YxY",
+        "auteur_lien": "https://www.google.com/maps/contrib/105919591440498776403/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT21OelRrNDRkV1JCVW1sTmRuTnhVM2hHVWpRd1FVRRAB!2m1!1s0x480a429938c24b29:0x8d3ae0535f66669c"
+      },
+      {
+        "note": 4,
+        "texte": "Brunch simple et efficace. Les plats sont bons et bien présentés, sans être exceptionnels, mais ça fait le job. Le service est rapide, ce qui est appréciable, même si l’accueil pourrait être un peu plus chaleureux.\nDans l’ensemble, une bonne adresse pour un brunch sans prise de tête 👍",
+        "langue": "fr",
+        "date": "2026-02-14",
+        "auteur": "Romain S.",
+        "auteur_lien": "https://www.google.com/maps/contrib/115361675139132562440/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2w5ME9IaDZSVTFOUkUxVlYyMXlRamxZVmxaM1drRRAB!2m1!1s0x480a429938c24b29:0x8d3ae0535f66669c"
+      }
+    ]
+  },
+  "services": {
+    "releve": "2026-10-20",
+    "prix": "PRICE_LEVEL_MODERATE",
+    "options": {
+      "dineIn": true,
+      "takeout": true,
+      "delivery": false,
+      "outdoorSeating": true,
+      "servesBreakfast": true,
+      "servesBrunch": true,
+      "servesLunch": true,
+      "servesVegetarianFood": true,
+      "servesCoffee": true,
+      "servesBeer": true,
+      "menuForChildren": true,
+      "goodForChildren": true,
+      "goodForGroups": true,
+      "goodForWatchingSports": false,
+      "allowsDogs": true,
+      "restroom": true
+    },
+    "paiement": [
+      "carte bancaire",
+      "carte de débit",
+      "paiement sans contact"
+    ],
+    "parking": [
+      "parking payant",
+      "stationnement payant dans la rue"
+    ]
   }
 }

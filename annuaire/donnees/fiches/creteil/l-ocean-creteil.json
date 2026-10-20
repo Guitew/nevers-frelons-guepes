@@ -28,7 +28,7 @@
     "longitude": 2.4420862999999997
   },
   "note": 4.4,
-  "avis": 751,
+  "avis": 791,
   "horaires": [
     {
       "jour": 0,
@@ -126,8 +126,8 @@
     "etat": "absent",
     "premiere_detection": null,
     "derniere_detection": null,
-    "derniere_verification": "2026-10-09T16:58:32.124Z",
-    "echecs": 17,
+    "derniere_verification": "2026-10-20T09:58:52.830Z",
+    "echecs": 18,
     "url_detectee": null
   },
   "suggestion": {
@@ -140,22 +140,34 @@
   "dates": {
     "collecte": "2026-09-26",
     "publication": "2026-09-26",
-    "maj": "2026-10-09"
+    "maj": "2026-10-20"
   },
   "source": "google-places",
   "redaction": {
     "version": 2,
     "titre": "L'Océan Créteil — Restaurant à Créteil",
     "meta_titre": "L'Océan Créteil à Créteil : horaires, avis, téléphone",
-    "meta_description": "L'Océan Créteil, restaurant à Créteil : horaires d'ouverture, note Google 4,4/5 (751 avis), téléphone, adresse et itinéraire.",
-    "chapo": "L'Océan Créteil, restaurant au 16 Rue de la Basse Quinte, à Créteil. Ouvert sept jours sur sept au relevé du 9 octobre 2026. Téléphone : 01 43 39 08 84. Note Google : 4,4 sur 5 pour 751 avis.",
+    "meta_description": "L'Océan Créteil, restaurant à Créteil : horaires d'ouverture, note Google 4,4/5 (791 avis), téléphone, adresse et itinéraire.",
+    "chapo": "L'Océan Créteil, restaurant au 16 Rue de la Basse Quinte, à Créteil. Ouvert sept jours sur sept au relevé du 20 octobre 2026. Téléphone : 01 43 39 08 84. Note Google : 4,4 sur 5 pour 791 avis.",
     "sections": [
       {
         "id": "presentation",
         "titre": "L'Océan Créteil en quelques mots",
         "paragraphes": [
           "Sur Google, l'établissement est classé « Restaurant de fruits de mer », dans notre rubrique Restaurant.",
-          "D'après le relevé du 9 octobre 2026, l'établissement est ouvert sept jours sur sept. Le détail jour par jour figure plus bas."
+          "Niveau de prix indiqué sur la fiche Google : €€ (modéré).",
+          "D'après le relevé du 20 octobre 2026, l'établissement est ouvert sept jours sur sept. Le détail jour par jour figure plus bas."
+        ]
+      },
+      {
+        "id": "prestations",
+        "titre": "Services et équipements de L'Océan Créteil",
+        "paragraphes": [
+          "Proposé : sur place, à emporter, réservation possible, terrasse, déjeuner, dîner, café, menu enfant, adapté aux enfants, adapté aux groupes et toilettes.",
+          "Non proposé selon la fiche Google : retrait en voiture, brunch, plats végétariens, bière, vin, cocktails, retransmissions sportives et musique live.",
+          "Moyens de paiement déclarés : carte bancaire, carte de débit et paiement sans contact.",
+          "Stationnement : parking gratuit et stationnement gratuit dans la rue.",
+          "Ces indications sont déclarées par l'établissement sur sa fiche Google (relevé du 20 octobre 2026)."
         ]
       },
       {
@@ -170,25 +182,26 @@
         "id": "contact",
         "titre": "Contacter L'Océan Créteil",
         "paragraphes": [
-          "Le contact se fait par téléphone au 01 43 39 08 84, ou directement sur place aux horaires d'ouverture."
+          "Le contact se fait par téléphone au 01 43 39 08 84, ou directement sur place aux horaires d'ouverture.",
+          "La fiche Google indique que la réservation est possible."
         ]
       },
       {
         "id": "avis",
         "titre": "La réputation de L'Océan Créteil",
         "paragraphes": [
-          "Note de 4,4 sur 5 pour 751 avis Google au relevé du 9 octobre 2026. Les avis se consultent sur la fiche Google, dont le lien figure sur cette page."
+          "Note de 4,4 sur 5 pour 791 avis Google au relevé du 20 octobre 2026. Les avis les plus parlants sont compilés ci-dessous, avec un lien vers la fiche d'origine."
         ]
       }
     ],
     "faq": [
       {
         "q": "Quels sont les horaires de L'Océan Créteil ?",
-        "r": "Au relevé du 9 octobre 2026, L'Océan Créteil était ouvert sept jours sur sept. Dans le détail — lundi : de 18 h à 23 h ; mardi : de 12 h à 15 h et de 18 h à 23 h ; mercredi : de 12 h à 15 h et de 18 h à 23 h ; jeudi : de 12 h à 15 h et de 18 h à 23 h ; vendredi : de 15 h à 23 h ; samedi : de 12 h à 23 h ; dimanche : de 12 h à 23 h. Ces horaires peuvent changer : un appel préalable reste conseillé."
+        "r": "Au relevé du 20 octobre 2026, L'Océan Créteil était ouvert sept jours sur sept. Dans le détail — lundi : de 18 h à 23 h ; mardi : de 12 h à 15 h et de 18 h à 23 h ; mercredi : de 12 h à 15 h et de 18 h à 23 h ; jeudi : de 12 h à 15 h et de 18 h à 23 h ; vendredi : de 15 h à 23 h ; samedi : de 12 h à 23 h ; dimanche : de 12 h à 23 h. Ces horaires peuvent changer : un appel préalable reste conseillé."
       },
       {
         "q": "L'Océan Créteil est-il ouvert le dimanche ?",
-        "r": "Oui : le dimanche, L'Océan Créteil est ouvert de 12 h à 23 h (horaires relevés le 9 octobre 2026)."
+        "r": "Oui : le dimanche, L'Océan Créteil est ouvert de 12 h à 23 h (horaires relevés le 20 octobre 2026)."
       },
       {
         "q": "Où se trouve L'Océan Créteil ?",
@@ -199,11 +212,23 @@
         "r": "Par téléphone au 01 43 39 08 84, ou directement sur place aux heures d'ouverture."
       },
       {
+        "q": "Peut-on réserver chez L'Océan Créteil ?",
+        "r": "Oui, la fiche Google de L'Océan Créteil indique que la réservation est possible, par téléphone au 01 43 39 08 84."
+      },
+      {
+        "q": "L'Océan Créteil propose-t-il la vente à emporter ou la livraison ?",
+        "r": "D'après sa fiche Google (relevé du 20 octobre 2026) — vente à emporter : oui."
+      },
+      {
+        "q": "Quel est le niveau de prix de L'Océan Créteil ?",
+        "r": "Google classe L'Océan Créteil au niveau de prix €€ (modéré), sur une échelle de € à €€€€ établie à partir des avis clients."
+      },
+      {
         "q": "L'Océan Créteil est-il accessible aux personnes à mobilité réduite ?",
         "r": "La fiche Google de l'établissement mentionne : « Entrée accessible en fauteuil roulant ». Cette information est déclarative ; en cas de doute, vérifiez par téléphone."
       }
     ],
-    "genere_le": "2026-10-09"
+    "genere_le": "2026-10-20"
   },
   "statut_google": "OPERATIONAL",
   "audience": {
@@ -214,6 +239,90 @@
     "clicsRecents": 0,
     "fenetreRecenteJours": 28,
     "source": "search-console",
-    "date": "2026-10-19"
+    "date": "2026-10-20"
+  },
+  "avis_detail": {
+    "releve": "2026-10-20",
+    "liste": [
+      {
+        "note": 4,
+        "texte": "Ce jour-là, il n’y avait pas beaucoup de choix  comme d’habitude. D’ailleurs, nous avions commandé des frites en plus de notre plat de poisson, mais nous ne les avons jamais reçues. Ce n’est pas grave, cela reste mon restaurant de poisson préféré.",
+        "langue": "fr",
+        "date": "2026-08-31",
+        "auteur": "S laam",
+        "auteur_lien": "https://www.google.com/maps/contrib/117544559228008298747/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xReVVrTTBUR2h4UmpOdE9GcFRSamhuTkdGRGFtYxAB!2m1!1s0x47e6736417e8c6f7:0xddbd06f6dd9dbf58"
+      },
+      {
+        "note": 5,
+        "texte": "Excellente expérience dans ce restaurant de poissons ! Les produits sont frais, les plats savoureux et généreux, et l’accueil est vraiment chaleureux. Mention spéciale à Abdel et Yazid pour leur gentillesse, leur professionnalisme et leur excellent service. Ils ont été aux petits soins du début à la fin. Nous reviendrons avec grand plaisir !",
+        "langue": "fr",
+        "date": "2026-08-19",
+        "auteur": "Mounir KH",
+        "auteur_lien": "https://www.google.com/maps/contrib/114787234877695935313/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xKWk9FeEZRa1ZuV2s5dlpEZzNkWG90TldoVU5YYxAB!2m1!1s0x47e6736417e8c6f7:0xddbd06f6dd9dbf58"
+      },
+      {
+        "note": 2,
+        "texte": "Très déçu par ce deuxième passage, la propreté est vraiment et strictement à revoir, il y a des traces de saleté partout sur les bouteilles sur les solaires sur les tables par terre. Les poissons n’ont pas l’air de frais en terme de goût, c’était proche du zéro très déçu,\nLes deux bouteilles ont reçu sont très sales. La salière est très sale la petite borne sale l’intérieur des verre sans le poisson très déçu.",
+        "langue": "fr",
+        "date": "2026-08-06",
+        "auteur": "tempolium tempolium",
+        "auteur_lien": "https://www.google.com/maps/contrib/113044510762089127333/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xwd1dFUlFkMEpqWVhVeVEwODFkamwxWVRWRFdWRRAB!2m1!1s0x47e6736417e8c6f7:0xddbd06f6dd9dbf58"
+      },
+      {
+        "note": 5,
+        "texte": "À visiter sans hésitation. Poisson frais et franchement rien à dire . Évitez le samedi il y'a beaucoup de monde il faut faire la queue sinon il n'est pas cher pour la qualité . On a payé 57€ pour 1kg de poisson avec portion paella et salade avec une boisson 50cl tous ce que vs voyez dans les photos avec le thé offert qui est très bon aussi. Je recommande fortement",
+        "langue": "fr",
+        "date": "2026-02-15",
+        "auteur": "Sofi AKK",
+        "auteur_lien": "https://www.google.com/maps/contrib/101379029297867231381/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT210UU4wSnlRVXhSVEZoalMzcGxTVUZQTUVST1NWRRAB!2m1!1s0x47e6736417e8c6f7:0xddbd06f6dd9dbf58"
+      },
+      {
+        "note": 5,
+        "texte": "Restaurant au top ! L’accueil est chaleureux, le poisson fond en bouche, et le cadre est parfait pour un dîner entre amis, collègue, famille et même couple ! En plus de ça on a le droit à des dessert tout droit sortie d’une pâtisserie",
+        "langue": "fr",
+        "date": "2025-10-25",
+        "auteur": "Émilie Cohen",
+        "auteur_lien": "https://www.google.com/maps/contrib/107638739897866300303/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25kdk0zQkxaWFJIVHpkb01saE5iR1ZhU21wMU5YYxAB!2m1!1s0x47e6736417e8c6f7:0xddbd06f6dd9dbf58"
+      }
+    ]
+  },
+  "services": {
+    "releve": "2026-10-20",
+    "prix": "PRICE_LEVEL_MODERATE",
+    "options": {
+      "dineIn": true,
+      "takeout": true,
+      "curbsidePickup": false,
+      "reservable": true,
+      "outdoorSeating": true,
+      "servesBrunch": false,
+      "servesLunch": true,
+      "servesDinner": true,
+      "servesVegetarianFood": false,
+      "servesCoffee": true,
+      "servesBeer": false,
+      "servesWine": false,
+      "servesCocktails": false,
+      "menuForChildren": true,
+      "goodForChildren": true,
+      "goodForGroups": true,
+      "goodForWatchingSports": false,
+      "liveMusic": false,
+      "restroom": true
+    },
+    "paiement": [
+      "carte bancaire",
+      "carte de débit",
+      "paiement sans contact"
+    ],
+    "parking": [
+      "parking gratuit",
+      "stationnement gratuit dans la rue"
+    ]
   }
 }

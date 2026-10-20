@@ -29,7 +29,7 @@
     "longitude": 4.807199499999999
   },
   "note": 4,
-  "avis": 468,
+  "avis": 469,
   "horaires": [
     {
       "jour": 0,
@@ -113,8 +113,8 @@
     "etat": "absent",
     "premiere_detection": null,
     "derniere_detection": null,
-    "derniere_verification": "2026-10-09T16:58:32.124Z",
-    "echecs": 2,
+    "derniere_verification": "2026-10-20T09:58:52.830Z",
+    "echecs": 3,
     "url_detectee": null
   },
   "suggestion": {
@@ -127,22 +127,34 @@
   "dates": {
     "collecte": "2026-10-08",
     "publication": "2026-10-08",
-    "maj": "2026-10-09"
+    "maj": "2026-10-20"
   },
   "source": "google-places",
   "redaction": {
     "version": 2,
     "titre": "L'Atelier — Boulangerie-pâtisserie à Charnay-lès-Mâcon",
     "meta_titre": "L'Atelier à Charnay-lès-Mâcon : horaires, avis, téléphone",
-    "meta_description": "L'Atelier, boulangerie-pâtisserie à Charnay-lès-Mâcon : horaires d'ouverture, note Google 4/5 (468 avis), téléphone, adresse et itinéraire.",
-    "chapo": "Cette fiche présente L'Atelier, une boulangerie-pâtisserie au 78 Grande Rue de la Coupée, à Charnay-lès-Mâcon. Ouvert sept jours sur sept au relevé du 9 octobre 2026. Téléphone : 03 85 34 57 80. Note Google : 4 sur 5 pour 468 avis.",
+    "meta_description": "L'Atelier, boulangerie-pâtisserie à Charnay-lès-Mâcon : horaires d'ouverture, note Google 4/5 (469 avis), téléphone, adresse et itinéraire.",
+    "chapo": "Cette fiche présente L'Atelier, une boulangerie-pâtisserie au 78 Grande Rue de la Coupée, à Charnay-lès-Mâcon. Ouvert sept jours sur sept au relevé du 20 octobre 2026. Téléphone : 03 85 34 57 80. Note Google : 4 sur 5 pour 469 avis.",
     "sections": [
       {
         "id": "presentation",
         "titre": "L'Atelier en quelques mots",
         "paragraphes": [
           "Sur Google, l'établissement est classé « Boulangerie », dans notre rubrique Boulangerie-pâtisserie.",
-          "D'après le relevé du 9 octobre 2026, l'établissement est ouvert sept jours sur sept. Le détail jour par jour figure plus bas."
+          "Niveau de prix indiqué sur la fiche Google : € (bon marché).",
+          "D'après le relevé du 20 octobre 2026, l'établissement est ouvert sept jours sur sept. Le détail jour par jour figure plus bas."
+        ]
+      },
+      {
+        "id": "prestations",
+        "titre": "Services et équipements de L'Atelier",
+        "paragraphes": [
+          "Proposé : à emporter.",
+          "Non proposé selon la fiche Google : livraison, petit-déjeuner, café et toilettes.",
+          "Moyens de paiement déclarés : carte bancaire, carte de débit et paiement sans contact.",
+          "Stationnement : parking gratuit et stationnement gratuit dans la rue.",
+          "Ces indications sont déclarées par l'établissement sur sa fiche Google (relevé du 20 octobre 2026)."
         ]
       },
       {
@@ -164,18 +176,18 @@
         "id": "avis",
         "titre": "La réputation de L'Atelier",
         "paragraphes": [
-          "Note de 4 sur 5 pour 468 avis Google au relevé du 9 octobre 2026. Les avis se consultent sur la fiche Google, dont le lien figure sur cette page."
+          "Note de 4 sur 5 pour 469 avis Google au relevé du 20 octobre 2026. Les avis les plus parlants sont compilés ci-dessous, avec un lien vers la fiche d'origine."
         ]
       }
     ],
     "faq": [
       {
         "q": "Quels sont les horaires de L'Atelier ?",
-        "r": "Au relevé du 9 octobre 2026, L'Atelier était ouvert sept jours sur sept. Dans le détail — lundi : de 6 h à 20 h ; mardi : de 6 h à 20 h ; mercredi : de 6 h à 20 h ; jeudi : de 6 h à 20 h ; vendredi : de 6 h à 20 h ; samedi : de 6 h à 20 h ; dimanche : de 6 h à 20 h. Ces horaires peuvent changer : un appel préalable reste conseillé."
+        "r": "Au relevé du 20 octobre 2026, L'Atelier était ouvert sept jours sur sept. Dans le détail — lundi : de 6 h à 20 h ; mardi : de 6 h à 20 h ; mercredi : de 6 h à 20 h ; jeudi : de 6 h à 20 h ; vendredi : de 6 h à 20 h ; samedi : de 6 h à 20 h ; dimanche : de 6 h à 20 h. Ces horaires peuvent changer : un appel préalable reste conseillé."
       },
       {
         "q": "L'Atelier est-il ouvert le dimanche ?",
-        "r": "Oui : le dimanche, L'Atelier est ouvert de 6 h à 20 h (horaires relevés le 9 octobre 2026)."
+        "r": "Oui : le dimanche, L'Atelier est ouvert de 6 h à 20 h (horaires relevés le 20 octobre 2026)."
       },
       {
         "q": "Où se trouve L'Atelier ?",
@@ -186,11 +198,19 @@
         "r": "Par téléphone au 03 85 34 57 80, ou directement sur place aux heures d'ouverture."
       },
       {
+        "q": "L'Atelier propose-t-il la vente à emporter ou la livraison ?",
+        "r": "D'après sa fiche Google (relevé du 20 octobre 2026) — vente à emporter : oui ; livraison : non."
+      },
+      {
+        "q": "Quel est le niveau de prix de L'Atelier ?",
+        "r": "Google classe L'Atelier au niveau de prix € (bon marché), sur une échelle de € à €€€€ établie à partir des avis clients."
+      },
+      {
         "q": "L'Atelier est-il accessible aux personnes à mobilité réduite ?",
         "r": "La fiche Google de l'établissement mentionne : « Entrée accessible en fauteuil roulant ». Cette information est déclarative ; en cas de doute, vérifiez par téléphone."
       }
     ],
-    "genere_le": "2026-10-09"
+    "genere_le": "2026-10-20"
   },
   "statut_google": "OPERATIONAL",
   "audience": {
@@ -201,6 +221,76 @@
     "clicsRecents": 0,
     "fenetreRecenteJours": 28,
     "source": "search-console",
-    "date": "2026-10-19"
+    "date": "2026-10-20"
+  },
+  "avis_detail": {
+    "releve": "2026-10-20",
+    "liste": [
+      {
+        "note": 3,
+        "texte": "Accueil professionnel, le débit de vente est important donc n'attendez pas de chaleur humaine mais les employés sont polis et c'est le principal. La boulangerie a un très large créneau d'ouverture, tous les jours, c'est donc très pratique. Les prix du pain sont globalement dans la norme, c'est à dire des prix excessifs dès que l'on demande autre chose que la baguette de base mais c'est comme ça presque partout désormais. Par contre, la qualité du pain, des viennoiseries et des pâtisseries... pfff... c'est vraiment très moyen. Ca n'est pas mauvais, hein ? Mais gustativement parlant, c'est médiocre. Je dirai que c'est un cran au dessus de ce que l'on trouve en supermarché mais guère au delà. Encore une fois, c'est devenu la norme chez les boulangers là aussi, hélas. Des farines industrielles standardisées, du pain qui n'est plus correctement préparé... enfin bon, ça dépanne.",
+        "langue": "fr",
+        "date": "2026-07-28",
+        "auteur": "Ocean POSEIDON",
+        "auteur_lien": "https://www.google.com/maps/contrib/102403543988802839187/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT21Sa1NsZFVWa3RKV0haUWMxVkRjRFkzYVhkQlQyYxAB!2m1!1s0x47f36e370a05efc1:0xe8a8bb5bc2964957"
+      },
+      {
+        "note": 5,
+        "texte": "Emmenant notre fille a la gare nous avons chercher une boulangerie ouverte un dimanche après-midi. Nous y sommes donc allé par hazard.  Endroit beau, propre accueillant. Personnels souriants accueillants. Un large choix de pains patisseries viennoiseries . Belles vitrines\nMoralité nous n'y retournerons plus par hasard... je recommande",
+        "langue": "fr",
+        "date": "2026-06-21",
+        "auteur": "sandrine canot",
+        "auteur_lien": "https://www.google.com/maps/contrib/113983177076018196819/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25FMUxYUndhMEZCTFZOQmFYZzNZM054V0Y4MFEyYxAB!2m1!1s0x47f36e370a05efc1:0xe8a8bb5bc2964957"
+      },
+      {
+        "note": 1,
+        "texte": "Les équipes sont vraiment sympas.\nMais les viennoiseries…on dirait qu’elles sont sorties des barquettes plastiques d’un rayon boulangerie de supermarché…mais au prix de l’artisanal!\nAchetées ce matin à 6h30…molles et insipides.",
+        "langue": "fr",
+        "date": "2026-05-25",
+        "auteur": "guilhem larrieu",
+        "auteur_lien": "https://www.google.com/maps/contrib/109450307509314231943/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25OTldHWlZNekpEVW1OalIyRlphRTlaVjNGVVJYYxAB!2m1!1s0x47f36e370a05efc1:0xe8a8bb5bc2964957"
+      },
+      {
+        "note": 3,
+        "texte": "Boulangerie bien achalandée. Tout donne envie et surtout tout est très bon.\nJe n'ai jamais été déçu même sur un nouveau produit que je ne connaissais pas.\nLe pain miel noisette est exquis et vos religieuse sont divines (aussi bien le garnissage que la pâte).\nGros bémol sur le sens de la queue, différentes caisses et entrées et sorties...\nAussi, j'admire les petits jeunes que vous recrutez et qui veulent travailler. Souriant et très cordial.\nCependant, il faut les former sur leur posture professionnelle. Leur conversation personnel et continue même si l'on est face à eux, ne doivent pas avoir lieu.",
+        "langue": "fr",
+        "date": "2026-04-28",
+        "auteur": "Nelly Olsen",
+        "auteur_lien": "https://www.google.com/maps/contrib/101675153498863330197/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT20xSWVqUkRUSFY0T0RONFdVdHhRMjEwUkcwelQxRRAB!2m1!1s0x47f36e370a05efc1:0xe8a8bb5bc2964957"
+      },
+      {
+        "note": 5,
+        "texte": "C’est pour moi la meilleure boulangerie proche de Mâcon. Le pain, comme les viennoiseries et pâtisseries sont tous excellents. Je recommande vivement le pain miel noisettes !\nOn est toujours accueillis avec le sourire même quand il y a du monde, merci !",
+        "langue": "fr",
+        "date": "2026-03-29",
+        "auteur": "Marina Alcantara",
+        "auteur_lien": "https://www.google.com/maps/contrib/103430756922263817722/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2pSUlpVaHpUakZuY0Zoa05EVnZjMkpKTTFBNVkwRRAB!2m1!1s0x47f36e370a05efc1:0xe8a8bb5bc2964957"
+      }
+    ]
+  },
+  "services": {
+    "releve": "2026-10-20",
+    "prix": "PRICE_LEVEL_INEXPENSIVE",
+    "options": {
+      "takeout": true,
+      "delivery": false,
+      "servesBreakfast": false,
+      "servesCoffee": false,
+      "restroom": false
+    },
+    "paiement": [
+      "carte bancaire",
+      "carte de débit",
+      "paiement sans contact"
+    ],
+    "parking": [
+      "parking gratuit",
+      "stationnement gratuit dans la rue"
+    ]
   }
 }

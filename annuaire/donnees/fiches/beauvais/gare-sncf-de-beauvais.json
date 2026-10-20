@@ -30,7 +30,7 @@
     "longitude": 2.0886318
   },
   "note": 4,
-  "avis": 449,
+  "avis": 452,
   "horaires": [
     {
       "jour": 0,
@@ -115,8 +115,8 @@
     "etat": "absent",
     "premiere_detection": null,
     "derniere_detection": null,
-    "derniere_verification": "2026-10-09T16:58:32.124Z",
-    "echecs": 65,
+    "derniere_verification": "2026-10-20T09:58:52.830Z",
+    "echecs": 66,
     "url_detectee": null
   },
   "suggestion": {
@@ -134,22 +134,30 @@
   "dates": {
     "collecte": "2026-09-04",
     "publication": "2026-09-04",
-    "maj": "2026-10-19"
+    "maj": "2026-10-20"
   },
   "source": "google-places",
   "redaction": {
     "version": 2,
     "titre": "Gare SNCF de Beauvais — Service aux particuliers à Beauvais",
     "meta_titre": "Gare SNCF de Beauvais à Beauvais : horaires, avis",
-    "meta_description": "Gare SNCF de Beauvais, service aux particuliers à Beauvais : horaires d'ouverture, note Google 4/5 (449 avis), adresse et itinéraire.",
-    "chapo": "Cette fiche présente Gare SNCF de Beauvais, un service aux particuliers au Avenue de la République, à Beauvais. Ouvert sept jours sur sept au relevé du 9 octobre 2026. Note Google : 4 sur 5 pour 449 avis.",
+    "meta_description": "Gare SNCF de Beauvais, service aux particuliers à Beauvais : horaires d'ouverture, note Google 4/5 (452 avis), adresse et itinéraire.",
+    "chapo": "Cette fiche présente Gare SNCF de Beauvais, un service aux particuliers au Avenue de la République, à Beauvais. Ouvert sept jours sur sept au relevé du 20 octobre 2026. Note Google : 4 sur 5 pour 452 avis.",
     "sections": [
       {
         "id": "presentation",
         "titre": "Gare SNCF de Beauvais en quelques mots",
         "paragraphes": [
           "Sur Google, l'établissement est classé « Guichet de gare », dans notre rubrique Service aux particuliers.",
-          "D'après le relevé du 9 octobre 2026, l'établissement est ouvert sept jours sur sept. Le détail jour par jour figure plus bas."
+          "D'après le relevé du 20 octobre 2026, l'établissement est ouvert sept jours sur sept. Le détail jour par jour figure plus bas."
+        ]
+      },
+      {
+        "id": "prestations",
+        "titre": "Services et équipements de Gare SNCF de Beauvais",
+        "paragraphes": [
+          "Proposé : toilettes.",
+          "Ces indications sont déclarées par l'établissement sur sa fiche Google (relevé du 20 octobre 2026)."
         ]
       },
       {
@@ -171,18 +179,18 @@
         "id": "avis",
         "titre": "La réputation de Gare SNCF de Beauvais",
         "paragraphes": [
-          "Note de 4 sur 5 pour 449 avis Google au relevé du 9 octobre 2026. Les avis se consultent sur la fiche Google, dont le lien figure sur cette page."
+          "Note de 4 sur 5 pour 452 avis Google au relevé du 20 octobre 2026. Les avis les plus parlants sont compilés ci-dessous, avec un lien vers la fiche d'origine."
         ]
       }
     ],
     "faq": [
       {
         "q": "Quels sont les horaires de Gare SNCF de Beauvais ?",
-        "r": "Au relevé du 9 octobre 2026, Gare SNCF de Beauvais était ouvert sept jours sur sept. Dans le détail — lundi : de 5 h à 20 h 05 ; mardi : de 5 h à 20 h 05 ; mercredi : de 5 h à 20 h 05 ; jeudi : de 5 h à 20 h 05 ; vendredi : de 5 h à 20 h 05 ; samedi : de 7 h à 18 h 25 ; dimanche : de 9 h à 18 h 05. Ces horaires peuvent changer : un appel préalable reste conseillé."
+        "r": "Au relevé du 20 octobre 2026, Gare SNCF de Beauvais était ouvert sept jours sur sept. Dans le détail — lundi : de 5 h à 20 h 05 ; mardi : de 5 h à 20 h 05 ; mercredi : de 5 h à 20 h 05 ; jeudi : de 5 h à 20 h 05 ; vendredi : de 5 h à 20 h 05 ; samedi : de 7 h à 18 h 25 ; dimanche : de 9 h à 18 h 05. Ces horaires peuvent changer : un appel préalable reste conseillé."
       },
       {
         "q": "Gare SNCF de Beauvais est-il ouvert le dimanche ?",
-        "r": "Oui : le dimanche, Gare SNCF de Beauvais est ouvert de 9 h à 18 h 05 (horaires relevés le 9 octobre 2026)."
+        "r": "Oui : le dimanche, Gare SNCF de Beauvais est ouvert de 9 h à 18 h 05 (horaires relevés le 20 octobre 2026)."
       },
       {
         "q": "Où se trouve Gare SNCF de Beauvais ?",
@@ -193,7 +201,7 @@
         "r": "La fiche Google de l'établissement mentionne : « Entrée accessible en fauteuil roulant ». Cette information est déclarative ; en cas de doute, vérifiez par téléphone."
       }
     ],
-    "genere_le": "2026-10-09"
+    "genere_le": "2026-10-20"
   },
   "statut_google": "OPERATIONAL",
   "audience": {
@@ -204,7 +212,7 @@
     "clicsRecents": 0,
     "fenetreRecenteJours": 28,
     "source": "search-console",
-    "date": "2026-10-19"
+    "date": "2026-10-20"
   },
   "indexation": {
     "etat": "non-indexee",
@@ -214,5 +222,63 @@
     "canonique_google": null,
     "source": "inspection",
     "date": "2026-10-19"
+  },
+  "avis_detail": {
+    "releve": "2026-10-20",
+    "liste": [
+      {
+        "note": 1,
+        "texte": "Les prises électriques pour charger le téléphone portable ne fonctionnent pas.\nLa seule personne de la SNCF sur la gare veut pas m'aider et elle n'a même pas le temps pour m'écouter vu qu'elle était occupé par son téléphone.\nLe 05/07/2026 à 11h50",
+        "langue": "fr",
+        "date": "2026-07-05",
+        "auteur": "Zakaria Ait lalim",
+        "auteur_lien": "https://www.google.com/maps/contrib/112602182610303384382/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2tWNGJHczVOVWhqVEhGak1taEtURkY0Y201a1MxRRAB!2m1!1s0x47e7017bd3d52485:0x6760faa05ac9168b"
+      },
+      {
+        "note": 4,
+        "texte": "Hall de gare froid (surtout lorsque on doit attendre...), mais accueil par l'agent au guichet chaleureux et aimable",
+        "langue": "fr",
+        "date": "2026-03-22",
+        "auteur": "Manuela Ribeiro",
+        "auteur_lien": "https://www.google.com/maps/contrib/105950844694602079995/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25CMlIycEhXRVpoYlROblNsbG9aalJFYW5SWVJrRRAB!2m1!1s0x47e7017bd3d52485:0x6760faa05ac9168b"
+      },
+      {
+        "note": 5,
+        "texte": "Très pratique, la gare est accessible. Mais pas d'ascenseur, pas de toilettes",
+        "langue": "fr",
+        "date": "2026-03-13",
+        "auteur": "Petit Lumfuankenda",
+        "auteur_lien": "https://www.google.com/maps/contrib/108943375311307257087/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2pFNVVWVlBXbmRIYTBsVldVdGtiaTB4YlhCYVRtYxAB!2m1!1s0x47e7017bd3d52485:0x6760faa05ac9168b"
+      },
+      {
+        "note": 4,
+        "texte": "Gare plutôt grande et assez propre près du centre ville et accessible depuis l'aéroport. Point négatif: toilettes payantes et à l'extérieur de la gare",
+        "langue": "fr",
+        "date": "2026-02-12",
+        "auteur": "kevyn",
+        "auteur_lien": "https://www.google.com/maps/contrib/113957141098783736733/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25aSFYyZEtVVlZ6V0ZkNFoyRndXblp2YVVSUUxXYxAB!2m1!1s0x47e7017bd3d52485:0x6760faa05ac9168b"
+      },
+      {
+        "note": 5,
+        "texte": "Je trouve dommage que l'on ait réitèré le tarif de bord surtout au personne a mobilité réduite de surcroît quand 2020 j'étais a la rue il ne s'appliquer plus et 2025 alors que ma situation est grandement améliorée je monte a bord du Beauvais Creil et avec ce monde en période de scolaire on me fait payer un tarif de un ticket que j'aurai pu payer 3.90€ a la gare je le paie 11 euros a bord du train\nMr Chikhoune Sharif",
+        "langue": "fr",
+        "date": "2025-11-06",
+        "auteur": "Sha. Chi (S.C.H)",
+        "auteur_lien": "https://www.google.com/maps/contrib/102879098806370904865/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25kcU5XdENiVE13V0dVMVJYUTRSMEZmY0MxVlZVRRAB!2m1!1s0x47e7017bd3d52485:0x6760faa05ac9168b"
+      }
+    ]
+  },
+  "services": {
+    "releve": "2026-10-20",
+    "options": {
+      "restroom": true
+    },
+    "paiement": [],
+    "parking": []
   }
 }

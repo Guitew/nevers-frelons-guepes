@@ -41,8 +41,8 @@
     "etat": "absent",
     "premiere_detection": null,
     "derniere_detection": null,
-    "derniere_verification": "2026-10-09T16:58:32.124Z",
-    "echecs": 11,
+    "derniere_verification": "2026-10-20T09:58:52.830Z",
+    "echecs": 12,
     "url_detectee": null
   },
   "suggestion": {
@@ -62,7 +62,7 @@
   "dates": {
     "collecte": "2026-09-30",
     "publication": "2026-09-30",
-    "maj": "2026-10-18"
+    "maj": "2026-10-20"
   },
   "source": "google-places",
   "redaction": {
@@ -77,6 +77,14 @@
         "titre": "Jacky Perrenot en quelques mots",
         "paragraphes": [
           "Sur Google, l'établissement est classé « Entreprise de déménagement », dans notre rubrique Transport et déménagement."
+        ]
+      },
+      {
+        "id": "prestations",
+        "titre": "Services et équipements de Jacky Perrenot",
+        "paragraphes": [
+          "Proposé : toilettes.",
+          "Ces indications sont déclarées par l'établissement sur sa fiche Google (relevé du 20 octobre 2026)."
         ]
       },
       {
@@ -98,7 +106,7 @@
         "id": "avis",
         "titre": "La réputation de Jacky Perrenot",
         "paragraphes": [
-          "Note de 3,6 sur 5 pour 56 avis Google au relevé du 9 octobre 2026. Les avis se consultent sur la fiche Google, dont le lien figure sur cette page."
+          "Note de 3,6 sur 5 pour 56 avis Google au relevé du 20 octobre 2026. Les avis les plus parlants sont compilés ci-dessous, avec un lien vers la fiche d'origine."
         ]
       }
     ],
@@ -116,7 +124,7 @@
         "r": "La fiche Google de l'établissement mentionne : « Parking accessible en fauteuil roulant ». Cette information est déclarative ; en cas de doute, vérifiez par téléphone."
       }
     ],
-    "genere_le": "2026-10-09"
+    "genere_le": "2026-10-20"
   },
   "statut_google": "OPERATIONAL",
   "audience": {
@@ -127,6 +135,64 @@
     "clicsRecents": 0,
     "fenetreRecenteJours": 28,
     "source": "search-console",
-    "date": "2026-10-19"
+    "date": "2026-10-20"
+  },
+  "avis_detail": {
+    "releve": "2026-10-20",
+    "liste": [
+      {
+        "note": 1,
+        "texte": "Puisque « votre chauffeur c’est le meilleur ! » lui serait-il possible de ne pas emprunter des voies interdites aux camions dans la commune de Franois ? Une déviation existe permettant de ne pas déranger les habitants et évitant de mettre en danger les enfants…",
+        "langue": "fr",
+        "date": "2025-07-17",
+        "auteur": "Thibault Carrez",
+        "auteur_lien": "https://www.google.com/maps/contrib/105551177593162338171/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25vNVFXSlFkR1Z3UWxGbVJFZE5TM010WlROVVRGRRAB!2m1!1s0x478d6392e0d20219:0x2e3609ac75294b12"
+      },
+      {
+        "note": 1,
+        "texte": "A fuir !\nJe prends ma journée au travail pour être présente lors du jour de la livraison prevue.  Le livreur m’appelle pour me dire qu’il s’est cassé le pied et qu il ne peut pas me livrer; il doit me rapeler depuis deux jours mais  toujours pas de nouvelles. Un message disant que la livraison est annulée et impossible de reprendre rdv. Aucune réponse depuis deux jours au téléphone. Résultat je ne sais même pas où se trouve mon colis.\nAucune organisation aucune parole , et j’espère que ce ne sont pas en plus des voleurs!",
+        "langue": "fr",
+        "date": "2025-06-18",
+        "auteur": "Julie De sousa",
+        "auteur_lien": "https://www.google.com/maps/contrib/114842791007209196146/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25NMWVWOWFkMjF3T1V4Q09FSXdZWE5FWms1ZllWRRAB!2m1!1s0x478d6392e0d20219:0x2e3609ac75294b12"
+      },
+      {
+        "note": 1,
+        "texte": "A Fuir ! Ne choisissez surtout pas Vir by JP, c’est un vrai désastre.\nLe personnel au téléphone prennent les gens pour des cons ! Les livreurs ne prennent pas la peine de sonner pour nous prévenir de leur présence, mais rentre tout de même dans le hall pour prendre une photo de la boîte  aux lettres pour prouver leur présence mais nous déclarent absent.",
+        "langue": "fr",
+        "date": "2023-11-25",
+        "auteur": "Alexandre & Lucie",
+        "auteur_lien": "https://www.google.com/maps/contrib/105635754170864126732/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUNsX1lXWFdBEAE!2m1!1s0x478d6392e0d20219:0x2e3609ac75294b12"
+      },
+      {
+        "note": 5,
+        "texte": "L’agence de Besançon, filiale du groupe Jacky Perrenot, met l’accent sur la qualité de service apportée à ses clients. Réactivité et disponibilité sont le quotidien des équipes.\nLa taille de l’entreprise et la diversité de ses activités permet de tenir compte et de répondre, aux attentes de chaque collaborateur. Que ce soit en local ou en national, que ce soit de journée ou de nuit, chacun peut évoluer en fonction de ses attentes et de ses besoins.\nPorteurs ou tracteurs, Gaz ou Gasoil, l’agence est équipée en matériel récent, confortable et performant.\nPerrenot Besancon est une belle agence.",
+        "langue": "fr",
+        "date": "2021-02-19",
+        "auteur": "Bruno Salmon",
+        "auteur_lien": "https://www.google.com/maps/contrib/105335632221717472381/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUR5Z09TZ3V3RRAB!2m1!1s0x478d6392e0d20219:0x2e3609ac75294b12"
+      },
+      {
+        "note": 1,
+        "texte": "\"Notre chauffeur c'est le meilleur\" Ah bon ? pour avoir suivis un chauffeur de cette entreprise aux alentours de Metz, j'ai pu constater que le chauffeur a commis en moins d'une minutes, 3 infractions.\n\nA savoir :\n\n- Non respect des distances de sécurités\n- Non respect de la limitation de vitesse en vigueur dans une zone de chantier autoroutier, maintenant également en danger les ouvriers présent\n- Non respect de l'interdiction de doublé pour les PL.\n\nAlors monsieur Perrenot, il faudrait revoir vos chauffeurs, ou bien changer de slogan ...",
+        "langue": "fr",
+        "date": "2020-07-06",
+        "auteur": "Kevin",
+        "auteur_lien": "https://www.google.com/maps/contrib/101545484745190694148/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUM4dG9MWDJBRRAB!2m1!1s0x478d6392e0d20219:0x2e3609ac75294b12"
+      }
+    ]
+  },
+  "services": {
+    "releve": "2026-10-20",
+    "options": {
+      "restroom": true
+    },
+    "paiement": [],
+    "parking": []
   }
 }

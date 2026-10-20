@@ -141,8 +141,8 @@
     "etat": "absent",
     "premiere_detection": null,
     "derniere_detection": null,
-    "derniere_verification": "2026-10-09T16:58:32.124Z",
-    "echecs": 72,
+    "derniere_verification": "2026-10-20T09:58:52.830Z",
+    "echecs": 73,
     "url_detectee": null
   },
   "suggestion": {
@@ -160,7 +160,7 @@
   "dates": {
     "collecte": "2026-09-01",
     "publication": "2026-09-01",
-    "maj": "2026-10-19"
+    "maj": "2026-10-20"
   },
   "source": "google-places",
   "redaction": {
@@ -168,14 +168,22 @@
     "titre": "Garden Chambry — Jardinage et paysage à Chambry",
     "meta_titre": "Garden Chambry à Chambry : horaires, avis, téléphone",
     "meta_description": "Garden Chambry, jardinage et paysage à Chambry : horaires d'ouverture, note Google 4/5 (530 avis), téléphone, adresse et itinéraire.",
-    "chapo": "Garden Chambry exerce l'activité de jardinage et paysage au Rue Bernard de Fontenelle, à Chambry. Ouvert sept jours sur sept au relevé du 18 octobre 2026. Téléphone : 03 23 20 35 00. Note Google : 4 sur 5 pour 530 avis.",
+    "chapo": "Garden Chambry exerce l'activité de jardinage et paysage au Rue Bernard de Fontenelle, à Chambry. Ouvert sept jours sur sept au relevé du 20 octobre 2026. Téléphone : 03 23 20 35 00. Note Google : 4 sur 5 pour 530 avis.",
     "sections": [
       {
         "id": "presentation",
         "titre": "Garden Chambry en quelques mots",
         "paragraphes": [
           "Sur Google, l'établissement est classé « Jardinerie », dans notre rubrique Jardinage et paysage.",
-          "D'après le relevé du 18 octobre 2026, l'établissement est ouvert sept jours sur sept. Le détail jour par jour figure plus bas."
+          "D'après le relevé du 20 octobre 2026, l'établissement est ouvert sept jours sur sept. Le détail jour par jour figure plus bas."
+        ]
+      },
+      {
+        "id": "prestations",
+        "titre": "Services et équipements de Garden Chambry",
+        "paragraphes": [
+          "Moyens de paiement déclarés : carte bancaire, carte de débit et paiement sans contact.",
+          "Ces indications sont déclarées par l'établissement sur sa fiche Google (relevé du 20 octobre 2026)."
         ]
       },
       {
@@ -197,18 +205,18 @@
         "id": "avis",
         "titre": "La réputation de Garden Chambry",
         "paragraphes": [
-          "Note de 4 sur 5 pour 530 avis Google au relevé du 18 octobre 2026. Les avis se consultent sur la fiche Google, dont le lien figure sur cette page."
+          "Note de 4 sur 5 pour 530 avis Google au relevé du 20 octobre 2026. Les avis les plus parlants sont compilés ci-dessous, avec un lien vers la fiche d'origine."
         ]
       }
     ],
     "faq": [
       {
         "q": "Quels sont les horaires de Garden Chambry ?",
-        "r": "Au relevé du 18 octobre 2026, Garden Chambry était ouvert sept jours sur sept. Dans le détail — lundi : de 9 h 30 à 12 h et de 14 h à 19 h ; mardi : de 9 h 30 à 12 h et de 14 h à 19 h ; mercredi : de 9 h 30 à 12 h et de 14 h à 19 h ; jeudi : de 9 h 30 à 12 h et de 14 h à 19 h ; vendredi : de 9 h 30 à 12 h et de 14 h à 19 h ; samedi : de 9 h 30 à 12 h et de 14 h à 18 h ; dimanche : de 10 h à 12 h 30 et de 14 h à 18 h. Ces horaires peuvent changer : un appel préalable reste conseillé."
+        "r": "Au relevé du 20 octobre 2026, Garden Chambry était ouvert sept jours sur sept. Dans le détail — lundi : de 9 h 30 à 12 h et de 14 h à 19 h ; mardi : de 9 h 30 à 12 h et de 14 h à 19 h ; mercredi : de 9 h 30 à 12 h et de 14 h à 19 h ; jeudi : de 9 h 30 à 12 h et de 14 h à 19 h ; vendredi : de 9 h 30 à 12 h et de 14 h à 19 h ; samedi : de 9 h 30 à 12 h et de 14 h à 18 h ; dimanche : de 10 h à 12 h 30 et de 14 h à 18 h. Ces horaires peuvent changer : un appel préalable reste conseillé."
       },
       {
         "q": "Garden Chambry est-il ouvert le dimanche ?",
-        "r": "Oui : le dimanche, Garden Chambry est ouvert de 10 h à 12 h 30 et de 14 h à 18 h (horaires relevés le 18 octobre 2026)."
+        "r": "Oui : le dimanche, Garden Chambry est ouvert de 10 h à 12 h 30 et de 14 h à 18 h (horaires relevés le 20 octobre 2026)."
       },
       {
         "q": "Où se trouve Garden Chambry ?",
@@ -223,7 +231,7 @@
         "r": "La fiche Google de l'établissement mentionne : « Entrée accessible en fauteuil roulant ». Cette information est déclarative ; en cas de doute, vérifiez par téléphone."
       }
     ],
-    "genere_le": "2026-10-18"
+    "genere_le": "2026-10-20"
   },
   "statut_google": "OPERATIONAL",
   "audience": {
@@ -234,7 +242,7 @@
     "clicsRecents": 0,
     "fenetreRecenteJours": 28,
     "source": "search-console",
-    "date": "2026-10-19"
+    "date": "2026-10-20"
   },
   "indexation": {
     "etat": "non-indexee",
@@ -244,5 +252,65 @@
     "canonique_google": null,
     "source": "inspection",
     "date": "2026-10-19"
+  },
+  "avis_detail": {
+    "releve": "2026-10-20",
+    "liste": [
+      {
+        "note": 1,
+        "texte": "Je vais souvent dans ce magasin et à chaque fois les prix annoncés en rayons ne sont soit disant pas les bons en caisse !! Bien sûr il faut tjr payer plus cher que les prix affichés car c'est tjr de la faute des collègues qui ont mal fait leur boulot et donc mal affichés les tarifs.. cette responsable n'est correcte ni avec ses collègues ni avec les clients car elle nous prend de haut en affirmant qu'on a tort et qd on lui demande de nous accompagner pr contrôler les prix elle part...\nA améliorer svp.",
+        "langue": "fr",
+        "date": "2026-05-04",
+        "auteur": "Rosanna Migliore",
+        "auteur_lien": "https://www.google.com/maps/contrib/112689926012995290758/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2sxTVQyRTVWR2RCZUVoMk1HZHpVekF6V0RaMGRuYxAB!2m1!1s0x47e9b4d42ba80573:0x9c70f4416eecabbf"
+      },
+      {
+        "note": 5,
+        "texte": "Fleuriste très professionnel et à l’écoute dans un moment difficile comme joyeux . Composition élégante et réalisée toujours avec beaucoup de soin. ( La derniere realisaion une magnifique croix en fleurs fraiches )\nLes fleurs sont de très bonne qualité .\nN’hesirez pas ! Je les recommande",
+        "langue": "fr",
+        "date": "2025-12-17",
+        "auteur": "Amélie G",
+        "auteur_lien": "https://www.google.com/maps/contrib/100142211770568578887/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2tKeFh6aEhWMjVhWTB4QlJVMWpabGhpWW1kallWRRAB!2m1!1s0x47e9b4d42ba80573:0x9c70f4416eecabbf"
+      },
+      {
+        "note": 1,
+        "texte": "Aujourd’hui 16h54 je passe à la caisse la vendeuse ( pantalon brillant) très froide nous parle sans nous regarder, ne nous propose pas d’emballage et quand on lui demande un petit emballage elle ironise sur le terme petit. Ça sera la dernière fois pour moi dans ce magasin. Je met une étoile car on ne peut pas en mettre 0\n\nLe responsable a pris contact avec moi rapidement\net va entamer des démarches. J’attends un retour",
+        "langue": "fr",
+        "date": "2025-12-14",
+        "auteur": "Laurent Piotrowski",
+        "auteur_lien": "https://www.google.com/maps/contrib/106066855105729793097/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2tsNFZtUmhNSE4zTUZkdFVHVkZaVnB2V0MxelNuYxAB!2m1!1s0x47e9b4d42ba80573:0x9c70f4416eecabbf"
+      },
+      {
+        "note": 3,
+        "texte": "Cela faisait bien longtemps que je n'y étais pas allée. Déçue car les prix ont bien augmenté et ils se placent maintenant au même niveau que les autres jardineries.\nNéanmoins les plantes sont belles, et il y a beaucoup de diversité.",
+        "langue": "fr",
+        "date": "2021-04-26",
+        "auteur": "Karine Lesoin",
+        "auteur_lien": "https://www.google.com/maps/contrib/106038103787351848330/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSURLb0pXbWRnEAE!2m1!1s0x47e9b4d42ba80573:0x9c70f4416eecabbf"
+      },
+      {
+        "note": 5,
+        "texte": "Tous les weekends j'y achète mes bouquets de fleurs, c'est une belle jardinerie avec des prix attractifs. Font des commandes deuils, mariages, anniversaires. Composition de bouquets sur place. Je recommande cet établissement +++.",
+        "langue": "fr",
+        "date": "2017-09-17",
+        "auteur": "Athéna",
+        "auteur_lien": "https://www.google.com/maps/contrib/103411796121814429269/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSURRMGZTdUtnEAE!2m1!1s0x47e9b4d42ba80573:0x9c70f4416eecabbf"
+      }
+    ]
+  },
+  "services": {
+    "releve": "2026-10-20",
+    "options": {},
+    "paiement": [
+      "carte bancaire",
+      "carte de débit",
+      "paiement sans contact"
+    ],
+    "parking": []
   }
 }
