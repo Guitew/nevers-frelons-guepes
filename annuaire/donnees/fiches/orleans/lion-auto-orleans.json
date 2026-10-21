@@ -30,7 +30,7 @@
     "longitude": 1.8981990999999998
   },
   "note": 4,
-  "avis": 120,
+  "avis": 121,
   "horaires": [
     {
       "jour": 0,
@@ -111,8 +111,8 @@
     "etat": "absent",
     "premiere_detection": null,
     "derniere_detection": null,
-    "derniere_verification": "2026-10-09T16:58:32.124Z",
-    "echecs": 6,
+    "derniere_verification": "2026-10-21T10:04:27.997Z",
+    "echecs": 7,
     "url_detectee": null
   },
   "suggestion": {
@@ -125,22 +125,32 @@
   "dates": {
     "collecte": "2026-10-04",
     "publication": "2026-10-04",
-    "maj": "2026-10-09"
+    "maj": "2026-10-21"
   },
   "source": "google-places",
   "redaction": {
     "version": 2,
     "titre": "Lion Auto Orleans — Garage et automobile à Orléans",
     "meta_titre": "Lion Auto Orleans à Orléans : horaires, avis, téléphone",
-    "meta_description": "Lion Auto Orleans, garage et automobile à Orléans : horaires d'ouverture, note Google 4/5 (120 avis), téléphone, adresse et itinéraire.",
-    "chapo": "Lion Auto Orleans est un garage et automobile au 206 Rue du Faubourg Bannier, à Orléans. Ouvert tous les jours sauf le dimanche au relevé du 9 octobre 2026. Téléphone : 02 38 83 50 32. Note Google : 4 sur 5 pour 120 avis.",
+    "meta_description": "Lion Auto Orleans, garage et automobile à Orléans : horaires d'ouverture, note Google 4/5 (121 avis), téléphone, adresse et itinéraire.",
+    "chapo": "Lion Auto Orleans est un garage et automobile au 206 Rue du Faubourg Bannier, à Orléans. Ouvert tous les jours sauf le dimanche au relevé du 21 octobre 2026. Téléphone : 02 38 83 50 32. Note Google : 4 sur 5 pour 121 avis.",
     "sections": [
       {
         "id": "presentation",
         "titre": "Lion Auto Orleans en quelques mots",
         "paragraphes": [
           "Sur Google, l'établissement est classé « Magasin de pièces de rechange automobiles », dans notre rubrique Garage et automobile.",
-          "D'après le relevé du 9 octobre 2026, l'établissement est ouvert tous les jours sauf le dimanche. Le détail jour par jour figure plus bas."
+          "D'après le relevé du 21 octobre 2026, l'établissement est ouvert tous les jours sauf le dimanche. Le détail jour par jour figure plus bas."
+        ]
+      },
+      {
+        "id": "prestations",
+        "titre": "Services et équipements de Lion Auto Orleans",
+        "paragraphes": [
+          "Proposé : livraison et retrait en voiture.",
+          "Moyens de paiement déclarés : carte bancaire, carte de débit et paiement sans contact.",
+          "Stationnement : parking gratuit.",
+          "Ces indications sont déclarées par l'établissement sur sa fiche Google (relevé du 21 octobre 2026)."
         ]
       },
       {
@@ -162,18 +172,18 @@
         "id": "avis",
         "titre": "La réputation de Lion Auto Orleans",
         "paragraphes": [
-          "Note de 4 sur 5 pour 120 avis Google au relevé du 9 octobre 2026. Les avis se consultent sur la fiche Google, dont le lien figure sur cette page."
+          "Note de 4 sur 5 pour 121 avis Google au relevé du 21 octobre 2026. Les avis les plus parlants sont compilés ci-dessous, avec un lien vers la fiche d'origine."
         ]
       }
     ],
     "faq": [
       {
         "q": "Quels sont les horaires de Lion Auto Orleans ?",
-        "r": "Au relevé du 9 octobre 2026, Lion Auto Orleans était ouvert tous les jours sauf le dimanche. Dans le détail — lundi : de 9 h à 18 h ; mardi : de 9 h à 18 h ; mercredi : de 9 h à 18 h ; jeudi : de 9 h à 18 h ; vendredi : de 9 h à 18 h ; samedi : de 9 h à 16 h ; dimanche : fermé. Ces horaires peuvent changer : un appel préalable reste conseillé."
+        "r": "Au relevé du 21 octobre 2026, Lion Auto Orleans était ouvert tous les jours sauf le dimanche. Dans le détail — lundi : de 9 h à 18 h ; mardi : de 9 h à 18 h ; mercredi : de 9 h à 18 h ; jeudi : de 9 h à 18 h ; vendredi : de 9 h à 18 h ; samedi : de 9 h à 16 h ; dimanche : fermé. Ces horaires peuvent changer : un appel préalable reste conseillé."
       },
       {
         "q": "Lion Auto Orleans est-il ouvert le dimanche ?",
-        "r": "Non : d'après les horaires relevés le 9 octobre 2026, Lion Auto Orleans est fermé le dimanche."
+        "r": "Non : d'après les horaires relevés le 21 octobre 2026, Lion Auto Orleans est fermé le dimanche."
       },
       {
         "q": "Où se trouve Lion Auto Orleans ?",
@@ -184,11 +194,15 @@
         "r": "Par téléphone au 02 38 83 50 32, ou directement sur place aux heures d'ouverture."
       },
       {
+        "q": "Lion Auto Orleans propose-t-il la vente à emporter ou la livraison ?",
+        "r": "D'après sa fiche Google (relevé du 21 octobre 2026) — livraison : oui."
+      },
+      {
         "q": "Lion Auto Orleans est-il accessible aux personnes à mobilité réduite ?",
         "r": "La fiche Google de l'établissement mentionne : « Entrée accessible en fauteuil roulant ». Cette information est déclarative ; en cas de doute, vérifiez par téléphone."
       }
     ],
-    "genere_le": "2026-10-09"
+    "genere_le": "2026-10-21"
   },
   "statut_google": "OPERATIONAL",
   "audience": {
@@ -199,6 +213,71 @@
     "clicsRecents": 0,
     "fenetreRecenteJours": 28,
     "source": "search-console",
-    "date": "2026-10-20"
+    "date": "2026-10-21"
+  },
+  "avis_detail": {
+    "releve": "2026-10-21",
+    "liste": [
+      {
+        "note": 5,
+        "texte": "Bonjour, je voudrais partager mon expérience Justin ballet essuie-glace dans cette magasin le monsieur il était très gentil, il m’a aidé de le monter, il m’a conseillé, c’est un magasin que je conseille pour tout le monde. En plus le prix est pas cher.",
+        "langue": "fr",
+        "date": "2026-07-11",
+        "auteur": "Ibrahim Diallo",
+        "auteur_lien": "https://www.google.com/maps/contrib/107789108115955840835/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2tvM1V6QnJUVlpzUXpGRGRWZzFSREZYZW1WNFluYxAB!2m1!1s0x47e4fb693f73448f:0x80d09d36f3a8cd3a"
+      },
+      {
+        "note": 1,
+        "texte": "J’aimerais raconté mon expérience, je contacte le service pour une porte de Polo V.\nIls parlent dans une autre langue et rigolent avant de me demander quel prix son collègue m’a proposé la dernière fois pour m’annoncer que le prix de la porte sera de 400 euros ( les autres casses me proposent un prix de 200 euros ).\n\nJe tiens à dire que je suis une femme et que je pense honnêtement qu’il joue de ça pour pouvoir se faire de l’argent sur mon dos.\n\nJe ne recommande pas du tout.",
+        "langue": "fr",
+        "date": "2026-05-28",
+        "auteur": "Louann Geoffrion",
+        "auteur_lien": "https://www.google.com/maps/contrib/110974937367574323462/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2pWRldXeDBSVzVJV1ZOSloycHFUSFV6TUZvM2VuYxAB!2m1!1s0x47e4fb693f73448f:0x80d09d36f3a8cd3a"
+      },
+      {
+        "note": 5,
+        "texte": "À chaque fois que j’ai besoin d’une pièce ou d’un renseignement, je les appelle ou je me déplace chez eux. Ils sont toujours serviables et accueillants. En plus de cela, leur disponibilité et leur professionnalisme font vraiment la différence. Un garage au top, vivement recommandé !",
+        "langue": "fr",
+        "date": "2026-05-22",
+        "auteur": "sait meziane",
+        "auteur_lien": "https://www.google.com/maps/contrib/100301991470726771443/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT21jNWNrc3phblJmYVVoZk4xOTJUakl3VEVORFNFRRAB!2m1!1s0x47e4fb693f73448f:0x80d09d36f3a8cd3a"
+      },
+      {
+        "note": 5,
+        "texte": "Désolé j’ai appelé ce matin pour un renseignement  très bien renseigner on m’a même dit pour la pièce que je recherche il l’on avec le prix et les kilométrages\nTrès bien reçus téléphonniquement avec un bonjour et re bonjour et un au revoir donc quand j’irai cherchez ma pièce je l’es verrai directement et on verra s’il sont a fuir ou pas pour ma part je pense qu’ils sont professionnels",
+        "langue": "fr",
+        "date": "2026-05-04",
+        "auteur": "Bouhalous Wassim Houria",
+        "auteur_lien": "https://www.google.com/maps/contrib/100578318927149850355/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2tGSk5ESlVNMk5tUVZKWlQzUlFOM1UyTUd0M1IwRRAB!2m1!1s0x47e4fb693f73448f:0x80d09d36f3a8cd3a"
+      },
+      {
+        "note": 5,
+        "texte": "Un Grand Merci à Lion Auto j'ai pu dépanner ma voiture rapidement, ma voiture en panne risquait d'être envoyé en fourrière dans un délais impartis !\nJ'ai pu obtenir mes pièces rapidement et à un très bon prix. Des pièces de grandes marques du neuf comme d'occasion pour tout les budgets  !\nEt Merci au gérant qui est très sympathique et conciliant",
+        "langue": "fr",
+        "date": "2026-04-24",
+        "auteur": "Mendieta K.",
+        "auteur_lien": "https://www.google.com/maps/contrib/100060036596971573838/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2t0Qll6ZE9lR1JKYURCWE9XUkJWR0Z5ZVhnd05FRRAB!2m1!1s0x47e4fb693f73448f:0x80d09d36f3a8cd3a"
+      }
+    ]
+  },
+  "services": {
+    "releve": "2026-10-21",
+    "options": {
+      "delivery": true,
+      "curbsidePickup": true
+    },
+    "paiement": [
+      "carte bancaire",
+      "carte de débit",
+      "paiement sans contact"
+    ],
+    "parking": [
+      "parking gratuit"
+    ]
   }
 }

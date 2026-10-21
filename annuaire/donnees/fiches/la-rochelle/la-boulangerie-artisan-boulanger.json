@@ -1,0 +1,281 @@
+{
+  "id": "ChIJvWS3NltTAUgR5GZQ97k8v6E",
+  "slug": "la-boulangerie-artisan-boulanger",
+  "nom": "La Boulangerie Artisan Boulanger",
+  "categorie": "boulangeries-patisseries",
+  "categorie_gmb": "Boulangerie",
+  "type_principal": "bakery",
+  "types": [
+    "bakery",
+    "food_store",
+    "store",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "ville": "La Rochelle",
+  "ville_slug": "la-rochelle",
+  "adresse": {
+    "rue": "14 Rue Jean Perrin",
+    "code_postal": "17000",
+    "departement": "17",
+    "region": "Nouvelle-Aquitaine",
+    "pays": "France",
+    "complete": "14 Rue Jean Perrin, 17000 La Rochelle"
+  },
+  "telephone": "05 46 50 47 95",
+  "geo": {
+    "latitude": 46.141041799999996,
+    "longitude": -1.1598886
+  },
+  "note": 4,
+  "avis": 204,
+  "horaires": [
+    {
+      "jour": 0,
+      "ferme": false,
+      "creneaux": [
+        [
+          "07:00",
+          "19:00"
+        ]
+      ]
+    },
+    {
+      "jour": 1,
+      "ferme": false,
+      "creneaux": [
+        [
+          "07:00",
+          "19:00"
+        ]
+      ]
+    },
+    {
+      "jour": 2,
+      "ferme": false,
+      "creneaux": [
+        [
+          "07:00",
+          "19:00"
+        ]
+      ]
+    },
+    {
+      "jour": 3,
+      "ferme": false,
+      "creneaux": [
+        [
+          "07:00",
+          "19:00"
+        ]
+      ]
+    },
+    {
+      "jour": 4,
+      "ferme": false,
+      "creneaux": [
+        [
+          "07:00",
+          "19:00"
+        ]
+      ]
+    },
+    {
+      "jour": 5,
+      "ferme": true,
+      "creneaux": []
+    },
+    {
+      "jour": 6,
+      "ferme": true,
+      "creneaux": []
+    }
+  ],
+  "attributs": [
+    "Entrée accessible en fauteuil roulant",
+    "Parking accessible en fauteuil roulant"
+  ],
+  "lien_google": "https://maps.google.com/?cid=11655101130073990884&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
+  "site_web_gmb": null,
+  "statut": "publiee",
+  "backlink": {
+    "etat": "absent",
+    "premiere_detection": null,
+    "derniere_detection": null,
+    "derniere_verification": "2026-10-21T10:04:27.997Z",
+    "echecs": 1,
+    "url_detectee": null
+  },
+  "suggestion": {
+    "etat": "en-attente",
+    "date_soumission": null,
+    "tentatives": 0,
+    "date_email": "2026-10-21"
+  },
+  "retrait": null,
+  "dates": {
+    "collecte": "2026-10-21",
+    "publication": "2026-10-21",
+    "maj": "2026-10-21"
+  },
+  "source": "google-places",
+  "avis_detail": {
+    "releve": "2026-10-21",
+    "liste": [
+      {
+        "note": 5,
+        "texte": "Super boulangerie ; les produits sont toujours frais et variés. De plus, le service est très accueillant et efficace.\nMerci !",
+        "langue": "fr",
+        "date": "2026-09-05",
+        "auteur": "Émilie JUIN",
+        "auteur_lien": "https://www.google.com/maps/contrib/117455722673006772179/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT21sUlgzTmxOMUZCTVVsaGIwaEZUVE5IV0VOTmNWRRAB!2m1!1s0x4801535b36b764bd:0xa1bf3cb9f75066e4"
+      },
+      {
+        "note": 2,
+        "texte": "Arrive a 13h plus aucun sandwich alors que beaucoup de monde pour le snack. Donc on ce rabat sur ce qui reste( pas grand choses..) pates bolo: max de pates minimun de viande et sauce juste histoire de dire que c'est une bolognaise. Panini saumon il fzut aimer les paninis bien bien cuit, Ca passe et repasse devant les appareils de cuisson et ca ne verifie rien. Autre detailles sur place pas de serviettes pas de gobelets, un morceau de pain arrache( il doivent pas avoir de couteaux) et pour fini l'impression de les faire ch.... . Bref on recommande pas",
+        "langue": "fr",
+        "date": "2026-03-03",
+        "auteur": "anne-laure cesmat",
+        "auteur_lien": "https://www.google.com/maps/contrib/113080692036951403777/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2sxQlZuYzRZblJ2V2tOemJFOVpia2xNZG00M09VRRAB!2m1!1s0x4801535b36b764bd:0xa1bf3cb9f75066e4"
+      },
+      {
+        "note": 4,
+        "texte": "Habitant à côté et venu par curiosité, j'ai découvert des prix vraiment bas.\n(Un sandwich poulet crudités pour 4€50, ou un pain au chocolat, certe assez petit, mais avec 3 bâtons de chocolat, pour 1€25, croyez moi ce n'est pas cher)\nCependant, désolé pour les 4 étoiles, mais j'ai trouvé le feuilletage du pain au chocolat un peu mou, peut-être dû a un temps chaud et humide par ailleurs.\nLe poulet du sandwich était un peu sec, mais son pain était de bonne qualité.\n\nEn bref, je recommande cette boulangerie, pour La Rochelle et avec ces prix là, je suis curieux de savoir comment ils payent leurs charges 😅🤣",
+        "langue": "fr",
+        "date": "2025-01-22",
+        "auteur": "Louis Mazin",
+        "auteur_lien": "https://www.google.com/maps/contrib/109766603016372095772/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSURfM0tEZUNnEAE!2m1!1s0x4801535b36b764bd:0xa1bf3cb9f75066e4"
+      },
+      {
+        "note": 5,
+        "texte": "Les viennoiseries manquent un peu de feuilletage et de croustillant mais elles sont bonnes. Elles ont le mérite d'être fait maison contrairement à ce qui se fait dans le coin et ça se ressent dans la bouche. Les prix sont très raisonnable !",
+        "langue": "fr",
+        "date": "2023-10-25",
+        "auteur": "Jegatharan Savunthararajah",
+        "auteur_lien": "https://www.google.com/maps/contrib/108585396644097232696/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUQ1Z2M2a3pBRRAB!2m1!1s0x4801535b36b764bd:0xa1bf3cb9f75066e4"
+      },
+      {
+        "note": 5,
+        "texte": "Excellent de la vraie boulangerie et pâtisserie.\nVous allez vous régaler.\nIl y a longtemps que je n'avais pas mangé des vrais croissants et pains au chocolat et je vous raconte pas le flan au véritable goût voilà vous voulez retrouver le vrai c'est ici.\nLes prix sont raisonnables.",
+        "langue": "fr",
+        "date": "2023-07-12",
+        "auteur": "Erwan sabatino",
+        "auteur_lien": "https://www.google.com/maps/contrib/105704778278143626343/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSURKekstSUFREAE!2m1!1s0x4801535b36b764bd:0xa1bf3cb9f75066e4"
+      }
+    ]
+  },
+  "services": {
+    "releve": "2026-10-21",
+    "prix": "PRICE_LEVEL_INEXPENSIVE",
+    "options": {
+      "takeout": true,
+      "delivery": false,
+      "servesBreakfast": true,
+      "servesCoffee": true
+    },
+    "paiement": [
+      "carte bancaire",
+      "carte de débit",
+      "paiement sans contact"
+    ],
+    "parking": []
+  },
+  "redaction": {
+    "version": 2,
+    "titre": "La Boulangerie Artisan Boulanger — Boulangerie-pâtisserie à La Rochelle",
+    "meta_titre": "La Boulangerie Artisan Boulanger : horaires, avis, téléphone",
+    "meta_description": "La Boulangerie Artisan Boulanger, boulangerie-pâtisserie à La Rochelle : horaires d'ouverture, téléphone, adresse et itinéraire.",
+    "chapo": "Cette fiche présente La Boulangerie Artisan Boulanger, une boulangerie-pâtisserie au 14 Rue Jean Perrin, à La Rochelle. Fermé le samedi et le dimanche au relevé du 21 octobre 2026. Téléphone : 05 46 50 47 95. Note Google : 4 sur 5 pour 204 avis.",
+    "sections": [
+      {
+        "id": "presentation",
+        "titre": "La Boulangerie Artisan Boulanger en quelques mots",
+        "paragraphes": [
+          "Sur Google, l'établissement est classé « Boulangerie », dans notre rubrique Boulangerie-pâtisserie.",
+          "Niveau de prix indiqué sur la fiche Google : € (bon marché).",
+          "D'après le relevé du 21 octobre 2026, l'établissement est fermé le samedi et le dimanche. Le détail jour par jour figure plus bas."
+        ]
+      },
+      {
+        "id": "prestations",
+        "titre": "Services et équipements de La Boulangerie Artisan Boulanger",
+        "paragraphes": [
+          "Proposé : à emporter, petit-déjeuner et café.",
+          "Non proposé selon la fiche Google : livraison.",
+          "Moyens de paiement déclarés : carte bancaire, carte de débit et paiement sans contact.",
+          "Ces indications sont déclarées par l'établissement sur sa fiche Google (relevé du 21 octobre 2026)."
+        ]
+      },
+      {
+        "id": "acces",
+        "titre": "Adresse et accès",
+        "paragraphes": [
+          "L'établissement est situé au 14 Rue Jean Perrin, 17000 La Rochelle.",
+          "Coordonnées GPS : 46.14104, -1.15989. Le bouton Itinéraire de cette page ouvre la navigation."
+        ]
+      },
+      {
+        "id": "contact",
+        "titre": "Contacter La Boulangerie Artisan Boulanger",
+        "paragraphes": [
+          "Le contact se fait par téléphone au 05 46 50 47 95, ou directement sur place aux horaires d'ouverture."
+        ]
+      },
+      {
+        "id": "avis",
+        "titre": "La réputation de La Boulangerie Artisan Boulanger",
+        "paragraphes": [
+          "Note de 4 sur 5 pour 204 avis Google au relevé du 21 octobre 2026. Les avis les plus parlants sont compilés ci-dessous, avec un lien vers la fiche d'origine."
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "q": "Quels sont les horaires de La Boulangerie Artisan Boulanger ?",
+        "r": "Au relevé du 21 octobre 2026, La Boulangerie Artisan Boulanger était fermé le samedi et le dimanche. Dans le détail — lundi : de 7 h à 19 h ; mardi : de 7 h à 19 h ; mercredi : de 7 h à 19 h ; jeudi : de 7 h à 19 h ; vendredi : de 7 h à 19 h ; samedi : fermé ; dimanche : fermé. Ces horaires peuvent changer : un appel préalable reste conseillé."
+      },
+      {
+        "q": "La Boulangerie Artisan Boulanger est-il ouvert le dimanche ?",
+        "r": "Non : d'après les horaires relevés le 21 octobre 2026, La Boulangerie Artisan Boulanger est fermé le dimanche."
+      },
+      {
+        "q": "Où se trouve La Boulangerie Artisan Boulanger ?",
+        "r": "La Boulangerie Artisan Boulanger se trouve 14 Rue Jean Perrin, 17000 La Rochelle. Un lien d'itinéraire est disponible sur cette page."
+      },
+      {
+        "q": "Comment contacter La Boulangerie Artisan Boulanger ?",
+        "r": "Par téléphone au 05 46 50 47 95, ou directement sur place aux heures d'ouverture."
+      },
+      {
+        "q": "La Boulangerie Artisan Boulanger propose-t-il la vente à emporter ou la livraison ?",
+        "r": "D'après sa fiche Google (relevé du 21 octobre 2026) — vente à emporter : oui ; livraison : non."
+      },
+      {
+        "q": "Quel est le niveau de prix de La Boulangerie Artisan Boulanger ?",
+        "r": "Google classe La Boulangerie Artisan Boulanger au niveau de prix € (bon marché), sur une échelle de € à €€€€ établie à partir des avis clients."
+      },
+      {
+        "q": "La Boulangerie Artisan Boulanger est-il accessible aux personnes à mobilité réduite ?",
+        "r": "La fiche Google de l'établissement mentionne : « Entrée accessible en fauteuil roulant ». Cette information est déclarative ; en cas de doute, vérifiez par téléphone."
+      }
+    ],
+    "genere_le": "2026-10-21"
+  },
+  "statut_google": "OPERATIONAL",
+  "audience": {
+    "clics": 0,
+    "impressions": 0,
+    "position": null,
+    "fenetreJours": 90,
+    "clicsRecents": 0,
+    "fenetreRecenteJours": 28,
+    "source": "search-console",
+    "date": "2026-10-21"
+  }
+}

@@ -22,13 +22,13 @@
     "pays": "France",
     "complete": "142 Bd des Provinces Françaises, 92000 Nanterre"
   },
-  "telephone": "",
+  "telephone": "06 81 36 94 92",
   "geo": {
     "latitude": 48.899981499999996,
     "longitude": 2.2144982
   },
   "note": 3.7,
-  "avis": 889,
+  "avis": 897,
   "horaires": [
     {
       "jour": 0,
@@ -111,8 +111,8 @@
     "etat": "absent",
     "premiere_detection": null,
     "derniere_detection": null,
-    "derniere_verification": "2026-10-09T16:58:32.124Z",
-    "echecs": 62,
+    "derniere_verification": "2026-10-21T10:04:27.997Z",
+    "echecs": 63,
     "url_detectee": null
   },
   "suggestion": {
@@ -125,22 +125,33 @@
   "dates": {
     "collecte": "2026-09-04",
     "publication": "2026-09-04",
-    "maj": "2026-10-09"
+    "maj": "2026-10-21"
   },
   "source": "google-places",
   "redaction": {
     "version": 2,
     "titre": "LE 129 NANTERRE — Restaurant à Nanterre",
-    "meta_titre": "LE 129 NANTERRE à Nanterre : horaires, avis",
-    "meta_description": "LE 129 NANTERRE, restaurant à Nanterre : horaires d'ouverture, note Google 3,7/5 (889 avis), adresse et itinéraire.",
-    "chapo": "Cette fiche présente LE 129 NANTERRE, un restaurant au 142 Boulevard des Provinces Françaises, à Nanterre. Ouvert sept jours sur sept au relevé du 9 octobre 2026. Note Google : 3,7 sur 5 pour 889 avis.",
+    "meta_titre": "LE 129 NANTERRE à Nanterre : horaires, avis, téléphone",
+    "meta_description": "LE 129 NANTERRE, restaurant à Nanterre : horaires d'ouverture, note Google 3,7/5 (897 avis), téléphone, adresse et itinéraire.",
+    "chapo": "Cette fiche présente LE 129 NANTERRE, un restaurant au 142 Boulevard des Provinces Françaises, à Nanterre. Ouvert sept jours sur sept au relevé du 21 octobre 2026. Téléphone : 06 81 36 94 92. Note Google : 3,7 sur 5 pour 897 avis.",
     "sections": [
       {
         "id": "presentation",
         "titre": "LE 129 NANTERRE en quelques mots",
         "paragraphes": [
           "Sur Google, l'établissement est classé « Restauration rapide », dans notre rubrique Restaurant.",
-          "D'après le relevé du 9 octobre 2026, l'établissement est ouvert sept jours sur sept. Le détail jour par jour figure plus bas."
+          "Niveau de prix indiqué sur la fiche Google : €€ (modéré).",
+          "D'après le relevé du 21 octobre 2026, l'établissement est ouvert sept jours sur sept. Le détail jour par jour figure plus bas."
+        ]
+      },
+      {
+        "id": "prestations",
+        "titre": "Services et équipements de LE 129 NANTERRE",
+        "paragraphes": [
+          "Proposé : sur place, à emporter, livraison, déjeuner, dîner, menu enfant, adapté aux enfants, adapté aux groupes et toilettes.",
+          "Non proposé selon la fiche Google : retrait en voiture, terrasse, plats végétariens, bière et vin.",
+          "Moyens de paiement déclarés : carte bancaire, carte de débit et paiement sans contact.",
+          "Ces indications sont déclarées par l'établissement sur sa fiche Google (relevé du 21 octobre 2026)."
         ]
       },
       {
@@ -155,47 +166,59 @@
         "id": "contact",
         "titre": "Contacter LE 129 NANTERRE",
         "paragraphes": [
-          "Aucun numéro de téléphone n'est déclaré sur la fiche Google de l'établissement : le contact se fait sur place, aux horaires indiqués."
+          "Le contact se fait par téléphone au 06 81 36 94 92, ou directement sur place aux horaires d'ouverture."
         ]
       },
       {
         "id": "avis",
         "titre": "La réputation de LE 129 NANTERRE",
         "paragraphes": [
-          "Note de 3,7 sur 5 pour 889 avis Google au relevé du 9 octobre 2026. Les avis se consultent sur la fiche Google, dont le lien figure sur cette page."
+          "Note de 3,7 sur 5 pour 897 avis Google au relevé du 21 octobre 2026. Les avis les plus parlants sont compilés ci-dessous, avec un lien vers la fiche d'origine."
         ]
       }
     ],
     "faq": [
       {
         "q": "Quels sont les horaires de LE 129 NANTERRE ?",
-        "r": "Au relevé du 9 octobre 2026, LE 129 NANTERRE était ouvert sept jours sur sept. Dans le détail — lundi : de 11 h 30 à 0 h ; mardi : de 11 h 30 à 0 h ; mercredi : de 11 h 30 à 0 h ; jeudi : de 11 h 30 à 0 h ; vendredi : de 15 h 30 à 0 h ; samedi : de 11 h 30 à 0 h ; dimanche : de 11 h 30 à 0 h. Ces horaires peuvent changer : un appel préalable reste conseillé."
+        "r": "Au relevé du 21 octobre 2026, LE 129 NANTERRE était ouvert sept jours sur sept. Dans le détail — lundi : de 11 h 30 à 0 h ; mardi : de 11 h 30 à 0 h ; mercredi : de 11 h 30 à 0 h ; jeudi : de 11 h 30 à 0 h ; vendredi : de 15 h 30 à 0 h ; samedi : de 11 h 30 à 0 h ; dimanche : de 11 h 30 à 0 h. Ces horaires peuvent changer : un appel préalable reste conseillé."
       },
       {
         "q": "LE 129 NANTERRE est-il ouvert le dimanche ?",
-        "r": "Oui : le dimanche, LE 129 NANTERRE est ouvert de 11 h 30 à 0 h (horaires relevés le 9 octobre 2026)."
+        "r": "Oui : le dimanche, LE 129 NANTERRE est ouvert de 11 h 30 à 0 h (horaires relevés le 21 octobre 2026)."
       },
       {
         "q": "Où se trouve LE 129 NANTERRE ?",
         "r": "LE 129 NANTERRE se trouve 142 Bd des Provinces Françaises, 92000 Nanterre. Un lien d'itinéraire est disponible sur cette page."
       },
       {
+        "q": "Comment contacter LE 129 NANTERRE ?",
+        "r": "Par téléphone au 06 81 36 94 92, ou directement sur place aux heures d'ouverture."
+      },
+      {
+        "q": "LE 129 NANTERRE propose-t-il la vente à emporter ou la livraison ?",
+        "r": "D'après sa fiche Google (relevé du 21 octobre 2026) — vente à emporter : oui ; livraison : oui."
+      },
+      {
+        "q": "Quel est le niveau de prix de LE 129 NANTERRE ?",
+        "r": "Google classe LE 129 NANTERRE au niveau de prix €€ (modéré), sur une échelle de € à €€€€ établie à partir des avis clients."
+      },
+      {
         "q": "LE 129 NANTERRE est-il accessible aux personnes à mobilité réduite ?",
         "r": "La fiche Google de l'établissement mentionne : « Entrée accessible en fauteuil roulant ». Cette information est déclarative ; en cas de doute, vérifiez par téléphone."
       }
     ],
-    "genere_le": "2026-10-09"
+    "genere_le": "2026-10-21"
   },
-  "statut_google": "OPERATIONAL",
+  "statut_google": "CLOSED_TEMPORARILY",
   "audience": {
     "clics": 1,
-    "impressions": 67,
-    "position": 5.7,
+    "impressions": 69,
+    "position": 5.6,
     "fenetreJours": 90,
     "clicsRecents": 1,
     "fenetreRecenteJours": 28,
     "source": "search-console",
-    "date": "2026-10-20"
+    "date": "2026-10-21"
   },
   "indexation": {
     "etat": "indexee",
@@ -204,6 +227,82 @@
     "derniere_exploration": null,
     "canonique_google": null,
     "source": "impressions",
-    "date": "2026-10-20"
+    "date": "2026-10-21"
+  },
+  "avis_detail": {
+    "releve": "2026-10-21",
+    "liste": [
+      {
+        "note": 5,
+        "texte": "Très bon sandwich, qualité magnifique.\nSandwich bien chargé.\nService rapide.\n\nLe seule bémol, étant la place pour manger sur place, à 12h15 ya déjà plus de places pour manger sur place",
+        "langue": "fr",
+        "date": "2026-08-20",
+        "auteur": "Mickaël LEVASSEUR",
+        "auteur_lien": "https://www.google.com/maps/contrib/104614800108883449410/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT21kSU4zUTJWemhUUkhCWmR6TjZaWEJ4Y3pWQlpIYxAB!2m1!1s0x47e66577d3b14029:0x99bb56e49813d482"
+      },
+      {
+        "note": 5,
+        "texte": "🔥 Le Verdict\nLe goût et la générosité (8.5/10)\nSur la générosité, zéro tromperie : c’est lourd et très chargé. Le mélange du poulet tandoori épicé avec le côté plus savoureux et salé du bœuf marche étonnamment bien. La marinade du poulet apporte du jus, ce qui évite que le bœuf ne rende le sandwich sec.\n\nLa texture\nLe contraste est là : la viande de bœuf apporte de la mâche, tandis que le poulet reste ultra-fondant. Avec le fromage fondu par-dessus, chaque bouchée est blindée de saveurs.\nLe point faible ?\nC'est un sandwich extrêmement calorique et riche. Si tu cherches un truc léger, passe ton chemin. De plus, il coûte un peu plus cher que le Chicken Rouge classique ou le Spécial (",
+        "langue": "fr",
+        "date": "2026-07-21",
+        "auteur": "Sahraoui Mohamed",
+        "auteur_lien": "https://www.google.com/maps/contrib/108922134551903181834/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT21STFMzUklXSEp0VlRCSWJFeHNOVmxPYzFwd1ZGRRAB!2m1!1s0x47e66577d3b14029:0x99bb56e49813d482"
+      },
+      {
+        "note": 5,
+        "texte": "Le sandwich est ultra balèze,c'est un sandwich mega protéine, même avec une faim de loup je n'ai pas réussi à le finir. Le personnel est sympathique et très accueillant, je conseil ce fast food.",
+        "langue": "fr",
+        "date": "2026-07-01",
+        "auteur": "Ichem",
+        "auteur_lien": "https://www.google.com/maps/contrib/103345777544413364133/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2tKcVFYaENhalYzWm1SRFRXSkZkbFZxYkhoT1dHYxAB!2m1!1s0x47e66577d3b14029:0x99bb56e49813d482"
+      },
+      {
+        "note": 1,
+        "texte": "Fuyiez Une honte ! Servir un sandwich avec du poulet cru inacceptable. C’est un risque sérieux pour la santé des clients. J’ai immédiatement arrêté de manger en découvrant l’état de la viande tout le sandwich était comme ça .Un restaurant a la responsabilité de vérifier la cuisson de ses produits avant de les servir. Je suis profondément déçu et choqué par un tel manque de professionnalisme. Je ne remettrai plus jamais les pieds dans cet établissement et je le déconseille fortement",
+        "langue": "fr",
+        "date": "2026-06-28",
+        "auteur": "Denys Obertan (Thotok)",
+        "auteur_lien": "https://www.google.com/maps/contrib/114575460938877055481/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT214eWJGbDFNRzFZZFhSWVJIcE5iV3hpZWpCWmVtYxAB!2m1!1s0x47e66577d3b14029:0x99bb56e49813d482"
+      },
+      {
+        "note": 5,
+        "texte": "Assez curieux de découvrir le fameux poulet rouge en sandwich. C'est chose faite et l'expérience fût agréable et savoureuse. Bon, ce n'est pas la personne la plus agréable au comptoir mais ça ne change pas l'expérience.",
+        "langue": "fr",
+        "date": "2026-05-26",
+        "auteur": "Sébastien EL FANI",
+        "auteur_lien": "https://www.google.com/maps/contrib/116016464370018304985/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT21wNFUxRnBiRGwwV0RaS2VISndOV2x3YjBSVGFrRRAB!2m1!1s0x47e66577d3b14029:0x99bb56e49813d482"
+      }
+    ]
+  },
+  "services": {
+    "releve": "2026-10-21",
+    "prix": "PRICE_LEVEL_MODERATE",
+    "options": {
+      "dineIn": true,
+      "takeout": true,
+      "delivery": true,
+      "curbsidePickup": false,
+      "outdoorSeating": false,
+      "servesLunch": true,
+      "servesDinner": true,
+      "servesVegetarianFood": false,
+      "servesBeer": false,
+      "servesWine": false,
+      "menuForChildren": true,
+      "goodForChildren": true,
+      "goodForGroups": true,
+      "restroom": true
+    },
+    "paiement": [
+      "carte bancaire",
+      "carte de débit",
+      "paiement sans contact"
+    ],
+    "parking": []
   }
 }

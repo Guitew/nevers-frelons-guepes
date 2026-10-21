@@ -35,7 +35,7 @@
     "longitude": 3.1516981
   },
   "note": 4.3,
-  "avis": 393,
+  "avis": 394,
   "horaires": [
     {
       "jour": 0,
@@ -143,8 +143,8 @@
     "etat": "absent",
     "premiere_detection": null,
     "derniere_detection": null,
-    "derniere_verification": "2026-10-09T16:58:32.124Z",
-    "echecs": 69,
+    "derniere_verification": "2026-10-21T10:04:27.997Z",
+    "echecs": 70,
     "url_detectee": null
   },
   "retrait": {
@@ -156,22 +156,34 @@
   "dates": {
     "collecte": "2026-08-30",
     "publication": "2026-08-30",
-    "maj": "2026-10-19"
+    "maj": "2026-10-21"
   },
   "source": "google-places",
   "redaction": {
     "version": 2,
     "titre": "Le Bosphore — Restaurant à Nevers",
     "meta_titre": "Le Bosphore à Nevers : horaires, avis, téléphone",
-    "meta_description": "Le Bosphore, restaurant à Nevers : horaires d'ouverture, note Google 4,3/5 (393 avis), téléphone, adresse et itinéraire.",
-    "chapo": "Le Bosphore, restaurant au 53 Avenue Général de Gaulle, à Nevers. Ouvert sept jours sur sept au relevé du 18 octobre 2026. Téléphone : 03 86 60 40 54. Note Google : 4,3 sur 5 pour 393 avis.",
+    "meta_description": "Le Bosphore, restaurant à Nevers : horaires d'ouverture, note Google 4,3/5 (394 avis), téléphone, adresse et itinéraire.",
+    "chapo": "Le Bosphore, restaurant au 53 Avenue Général de Gaulle, à Nevers. Ouvert sept jours sur sept au relevé du 21 octobre 2026. Téléphone : 03 86 60 40 54. Note Google : 4,3 sur 5 pour 394 avis.",
     "sections": [
       {
         "id": "presentation",
         "titre": "Le Bosphore en quelques mots",
         "paragraphes": [
           "Sur Google, l'établissement est classé « Restaurant turc », dans notre rubrique Restaurant.",
-          "D'après le relevé du 18 octobre 2026, l'établissement est ouvert sept jours sur sept. Le détail jour par jour figure plus bas."
+          "Niveau de prix indiqué sur la fiche Google : € (bon marché).",
+          "D'après le relevé du 21 octobre 2026, l'établissement est ouvert sept jours sur sept. Le détail jour par jour figure plus bas."
+        ]
+      },
+      {
+        "id": "prestations",
+        "titre": "Services et équipements de Le Bosphore",
+        "paragraphes": [
+          "Proposé : sur place, à emporter, livraison, réservation possible, terrasse, déjeuner, dîner, plats végétariens, café, bière, vin, cocktails, menu enfant, adapté aux enfants, adapté aux groupes et toilettes.",
+          "Non proposé selon la fiche Google : petit-déjeuner, brunch et musique live.",
+          "Moyens de paiement déclarés : carte bancaire, carte de débit et paiement sans contact.",
+          "Stationnement : parking gratuit et stationnement gratuit dans la rue.",
+          "Ces indications sont déclarées par l'établissement sur sa fiche Google (relevé du 21 octobre 2026)."
         ]
       },
       {
@@ -186,25 +198,26 @@
         "id": "contact",
         "titre": "Contacter Le Bosphore",
         "paragraphes": [
-          "Le contact se fait par téléphone au 03 86 60 40 54, ou directement sur place aux horaires d'ouverture."
+          "Le contact se fait par téléphone au 03 86 60 40 54, ou directement sur place aux horaires d'ouverture.",
+          "La fiche Google indique que la réservation est possible."
         ]
       },
       {
         "id": "avis",
         "titre": "La réputation de Le Bosphore",
         "paragraphes": [
-          "Note de 4,3 sur 5 pour 393 avis Google au relevé du 18 octobre 2026. Les avis se consultent sur la fiche Google, dont le lien figure sur cette page."
+          "Note de 4,3 sur 5 pour 394 avis Google au relevé du 21 octobre 2026. Les avis les plus parlants sont compilés ci-dessous, avec un lien vers la fiche d'origine."
         ]
       }
     ],
     "faq": [
       {
         "q": "Quels sont les horaires de Le Bosphore ?",
-        "r": "Au relevé du 18 octobre 2026, Le Bosphore était ouvert sept jours sur sept. Dans le détail — lundi : de 11 h à 14 h 30 et de 18 h à 22 h 30 ; mardi : de 11 h à 14 h 30 et de 18 h à 22 h 30 ; mercredi : de 11 h à 14 h 30 et de 18 h à 22 h 30 ; jeudi : de 11 h à 14 h 30 et de 18 h à 22 h 30 ; vendredi : de 11 h à 14 h 30 et de 18 h à 22 h 30 ; samedi : de 11 h à 14 h 30 et de 18 h à 22 h 30 ; dimanche : de 18 h à 22 h 30. Ces horaires peuvent changer : un appel préalable reste conseillé."
+        "r": "Au relevé du 21 octobre 2026, Le Bosphore était ouvert sept jours sur sept. Dans le détail — lundi : de 11 h à 14 h 30 et de 18 h à 22 h 30 ; mardi : de 11 h à 14 h 30 et de 18 h à 22 h 30 ; mercredi : de 11 h à 14 h 30 et de 18 h à 22 h 30 ; jeudi : de 11 h à 14 h 30 et de 18 h à 22 h 30 ; vendredi : de 11 h à 14 h 30 et de 18 h à 22 h 30 ; samedi : de 11 h à 14 h 30 et de 18 h à 22 h 30 ; dimanche : de 18 h à 22 h 30. Ces horaires peuvent changer : un appel préalable reste conseillé."
       },
       {
         "q": "Le Bosphore est-il ouvert le dimanche ?",
-        "r": "Oui : le dimanche, Le Bosphore est ouvert de 18 h à 22 h 30 (horaires relevés le 18 octobre 2026)."
+        "r": "Oui : le dimanche, Le Bosphore est ouvert de 18 h à 22 h 30 (horaires relevés le 21 octobre 2026)."
       },
       {
         "q": "Où se trouve Le Bosphore ?",
@@ -215,11 +228,23 @@
         "r": "Par téléphone au 03 86 60 40 54, ou directement sur place aux heures d'ouverture."
       },
       {
+        "q": "Peut-on réserver chez Le Bosphore ?",
+        "r": "Oui, la fiche Google de Le Bosphore indique que la réservation est possible, par téléphone au 03 86 60 40 54."
+      },
+      {
+        "q": "Le Bosphore propose-t-il la vente à emporter ou la livraison ?",
+        "r": "D'après sa fiche Google (relevé du 21 octobre 2026) — vente à emporter : oui ; livraison : oui."
+      },
+      {
+        "q": "Quel est le niveau de prix de Le Bosphore ?",
+        "r": "Google classe Le Bosphore au niveau de prix € (bon marché), sur une échelle de € à €€€€ établie à partir des avis clients."
+      },
+      {
         "q": "Le Bosphore est-il accessible aux personnes à mobilité réduite ?",
         "r": "La fiche Google de l'établissement mentionne : « Toilettes accessibles en fauteuil roulant ». Cette information est déclarative ; en cas de doute, vérifiez par téléphone."
       }
     ],
-    "genere_le": "2026-10-18"
+    "genere_le": "2026-10-21"
   },
   "suggestion": {
     "etat": "soumise",
@@ -235,7 +260,7 @@
     "clicsRecents": 0,
     "fenetreRecenteJours": 28,
     "source": "search-console",
-    "date": "2026-10-20"
+    "date": "2026-10-21"
   },
   "indexation": {
     "etat": "non-indexee",
@@ -245,5 +270,89 @@
     "canonique_google": null,
     "source": "inspection",
     "date": "2026-10-19"
+  },
+  "avis_detail": {
+    "releve": "2026-10-21",
+    "liste": [
+      {
+        "note": 5,
+        "texte": "Un moment agréable, une cuisine au top, le rapport qualité-prix parfait. S’il y a un petit point négatif, et encore, à voir : un léger plus de sauce dans les assiettes. Sinon, parfait. Un accueil chaleureux, des quantités plus que raisonnables dans l’assiette.",
+        "langue": "fr",
+        "date": "2026-08-30",
+        "auteur": "Remy Calligaro",
+        "auteur_lien": "https://www.google.com/maps/contrib/106145780512115555992/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2pkT2JGbE1TMGxEWDBWMGNYSjRja055ZFZsbFQwRRAB!2m1!1s0x47f0458846bce0fb:0xd4db220c866946ef"
+      },
+      {
+        "note": 5,
+        "texte": "Accueil au top !\nNous sommes arrivés très tard, juste avant la fermeture, et l'équipe a quand même accepté de nous servir à emporter sans hésiter.\nEt quelle claque... la viande de kebab était tout simplement succulente, j'en reviens toujours pas tellement c'était bon ! Un grand merci pour votre générosité et pour ce régal.",
+        "langue": "fr",
+        "date": "2026-07-28",
+        "auteur": "M'A",
+        "auteur_lien": "https://www.google.com/maps/contrib/102432396584409098630/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT21Oek5tRjZlREIwYTNoU1RWVndNVmxqWlZKcVRtYxAB!2m1!1s0x47f0458846bce0fb:0xd4db220c866946ef"
+      },
+      {
+        "note": 5,
+        "texte": "Un très bon restaurant de kebab : les portions sont généreuses, la viande de qualité. Hygiène excellente. Accueil sympathique et service rapide, je recommande.",
+        "langue": "fr",
+        "date": "2026-04-19",
+        "auteur": "Hubert GUERIN",
+        "auteur_lien": "https://www.google.com/maps/contrib/100954314815886490361/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2tONWNua3lWbTE1ZFhOQ05XeFVPVU5WUTFOTFlVRRAB!2m1!1s0x47f0458846bce0fb:0xd4db220c866946ef"
+      },
+      {
+        "note": 5,
+        "texte": "Très bon kebab, personnel souriant, proximité de la gare.",
+        "langue": "fr",
+        "date": "2026-02-11",
+        "auteur": "Vincent FRANCESCONI",
+        "auteur_lien": "https://www.google.com/maps/contrib/101005583063330954771/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xCR1QwUTVTa2xmTUVwMlpISmZTa2xRT0ZST0xVRRAB!2m1!1s0x47f0458846bce0fb:0xd4db220c866946ef"
+      },
+      {
+        "note": 5,
+        "texte": "Première visite chez eux et c est un très bon repas et en plus très sympathiques et une bonne ambiance et le prix est raisonnable  ,très bonne cuisines merci au cuisinier  et sais collègues",
+        "langue": "fr",
+        "date": "2025-06-27",
+        "auteur": "Ericka Chiodi",
+        "auteur_lien": "https://www.google.com/maps/contrib/105046278049528737092/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2tOdU5HaGxWa3hmVGxVeFpXeGZWWGxVWjFaNlVIYxAB!2m1!1s0x47f0458846bce0fb:0xd4db220c866946ef"
+      }
+    ]
+  },
+  "services": {
+    "releve": "2026-10-21",
+    "prix": "PRICE_LEVEL_INEXPENSIVE",
+    "options": {
+      "dineIn": true,
+      "takeout": true,
+      "delivery": true,
+      "reservable": true,
+      "outdoorSeating": true,
+      "servesBreakfast": false,
+      "servesBrunch": false,
+      "servesLunch": true,
+      "servesDinner": true,
+      "servesVegetarianFood": true,
+      "servesCoffee": true,
+      "servesBeer": true,
+      "servesWine": true,
+      "servesCocktails": true,
+      "menuForChildren": true,
+      "goodForChildren": true,
+      "goodForGroups": true,
+      "liveMusic": false,
+      "restroom": true
+    },
+    "paiement": [
+      "carte bancaire",
+      "carte de débit",
+      "paiement sans contact"
+    ],
+    "parking": [
+      "parking gratuit",
+      "stationnement gratuit dans la rue"
+    ]
   }
 }

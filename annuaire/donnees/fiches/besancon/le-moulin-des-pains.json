@@ -1,0 +1,289 @@
+{
+  "id": "ChIJr96hDkdjjUcRBlkiROmnx5k",
+  "slug": "le-moulin-des-pains",
+  "nom": "Le Moulin des Pains",
+  "categorie": "boulangeries-patisseries",
+  "categorie_gmb": "Boulangerie",
+  "type_principal": "bakery",
+  "types": [
+    "bakery",
+    "food_store",
+    "store",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "ville": "Besançon",
+  "ville_slug": "besancon",
+  "adresse": {
+    "rue": "1 Rue Tristan Bernard",
+    "code_postal": "25000",
+    "departement": "25",
+    "region": "Bourgogne-Franche-Comté",
+    "pays": "France",
+    "complete": "1 Rue Tristan Bernard, 25000 Besançon"
+  },
+  "telephone": "03 81 61 28 21",
+  "geo": {
+    "latitude": 47.2483438,
+    "longitude": 6.0370763
+  },
+  "note": 3.7,
+  "avis": 220,
+  "horaires": [
+    {
+      "jour": 0,
+      "ferme": false,
+      "creneaux": [
+        [
+          "06:00",
+          "19:30"
+        ]
+      ]
+    },
+    {
+      "jour": 1,
+      "ferme": false,
+      "creneaux": [
+        [
+          "06:00",
+          "19:30"
+        ]
+      ]
+    },
+    {
+      "jour": 2,
+      "ferme": false,
+      "creneaux": [
+        [
+          "06:00",
+          "19:30"
+        ]
+      ]
+    },
+    {
+      "jour": 3,
+      "ferme": false,
+      "creneaux": [
+        [
+          "06:00",
+          "19:30"
+        ]
+      ]
+    },
+    {
+      "jour": 4,
+      "ferme": true,
+      "creneaux": []
+    },
+    {
+      "jour": 5,
+      "ferme": false,
+      "creneaux": [
+        [
+          "06:00",
+          "19:30"
+        ]
+      ]
+    },
+    {
+      "jour": 6,
+      "ferme": false,
+      "creneaux": [
+        [
+          "06:00",
+          "19:30"
+        ]
+      ]
+    }
+  ],
+  "attributs": [
+    "Entrée accessible en fauteuil roulant",
+    "Parking accessible en fauteuil roulant"
+  ],
+  "lien_google": "https://maps.google.com/?cid=11081010028480715014&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
+  "site_web_gmb": null,
+  "statut": "publiee",
+  "backlink": {
+    "etat": "absent",
+    "premiere_detection": null,
+    "derniere_detection": null,
+    "derniere_verification": "2026-10-21T10:04:27.997Z",
+    "echecs": 1,
+    "url_detectee": null
+  },
+  "suggestion": {
+    "etat": "en-attente",
+    "date_soumission": null,
+    "tentatives": 0,
+    "date_email": "2026-10-21"
+  },
+  "retrait": null,
+  "dates": {
+    "collecte": "2026-10-21",
+    "publication": "2026-10-21",
+    "maj": "2026-10-21"
+  },
+  "source": "google-places",
+  "avis_detail": {
+    "releve": "2026-10-21",
+    "liste": [
+      {
+        "note": 2,
+        "texte": "Le pain de cette boulangerie est relativement bon, mais il se conserve très mal !\nDe plus, les desserts, notamment, les éclairs ont très peu de goût.\nPoint négatif, en plus si on veut payer par carte, il faut acheter pour plus de quatre euros !! donc tu viens acheter une baguette et tu dois avoir forcément de la monnaie sur toi, ce qui n’est pas forcément le cas de tout le monde !",
+        "langue": "fr",
+        "date": "2026-06-22",
+        "auteur": "lou cnt",
+        "auteur_lien": "https://www.google.com/maps/contrib/110993755869034854038/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT21kSFJUTk9iM2huVEVjeGRtdzBNMVZvVTFCc1JHYxAB!2m1!1s0x478d63470ea1deaf:0x99c7a7e944225906"
+      },
+      {
+        "note": 2,
+        "texte": "En voyant les commentaires j'étais sceptique pour y être allé plusieurs fois. Ce matin je prend un pain au chocolat, il est pas cuit l'impression qu'il est a moitié congelé, il y a que le chocolat qui donne du goût,\nJe ne peux pas recommandé les pains au chocolat",
+        "langue": "fr",
+        "date": "2026-04-02",
+        "auteur": "Romain Boisson",
+        "auteur_lien": "https://www.google.com/maps/contrib/101549369899796502072/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25sQ2FFUjVhMW80U0VsUlZYQmtWbEYyVTJGYVNrRRAB!2m1!1s0x478d63470ea1deaf:0x99c7a7e944225906"
+      },
+      {
+        "note": 5,
+        "texte": "Une boulangerie qui sait conjuguer, accueil et professionnalisme. Des équipières et des équipiers qui ont le sens de l'accueil, connaissent leurs produits, qui sont de bon conseil. Une gamme de produit très variée et qualitative. Un patron sympathique toujours à l'écoute de sa clientèle. Ne manquez pas cette boulangerie/pâtisserie.",
+        "langue": "fr",
+        "date": "2026-03-08",
+        "auteur": "Patrick Bouzat",
+        "auteur_lien": "https://www.google.com/maps/contrib/101200529123162590041/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT21KVWMwMHlRVzVoYlRoNFRrMUdkalJaVEZwWWFsRRAB!2m1!1s0x478d63470ea1deaf:0x99c7a7e944225906"
+      },
+      {
+        "note": 5,
+        "texte": "J'adore ❤️ vraiment un accueil au top, toujours des vendeuses et patron souriants et adorable ! J'aime tous leurs produits que ce soit les pains, viennoiseries, pâtisseries ... tout est délicieux. Mais alors aujourd'hui j'ai commandé un sublime gâteau pour l'anniversaire de ma sœur et c'est une dinguerie ! Toute la famille a adoré ! Foncez les yeux fermés ! Un commerce comme je les aime ♡",
+        "langue": "fr",
+        "date": "2024-02-11",
+        "auteur": "Mxlle Fanny",
+        "auteur_lien": "https://www.google.com/maps/contrib/115626691052586513001/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUNkdUlIcGRnEAE!2m1!1s0x478d63470ea1deaf:0x99c7a7e944225906"
+      },
+      {
+        "note": 3,
+        "texte": "Le pain est bon, les vendeuses agréables et la tartelette au citron est bonne également. Jolie boutique et espace à l’intérieur pour déjeuner. Par contre les pains au chocolat laisse à désirer, on dirait des pains acheté à Intermarché.",
+        "langue": "fr",
+        "date": "2023-08-24",
+        "auteur": "Tanguy Pros T",
+        "auteur_lien": "https://www.google.com/maps/contrib/108363213949894416782/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSURwaWJuTWpRRRAB!2m1!1s0x478d63470ea1deaf:0x99c7a7e944225906"
+      }
+    ]
+  },
+  "services": {
+    "releve": "2026-10-21",
+    "prix": "PRICE_LEVEL_INEXPENSIVE",
+    "options": {
+      "takeout": true,
+      "delivery": false,
+      "servesBreakfast": true,
+      "servesCoffee": true
+    },
+    "paiement": [
+      "carte bancaire",
+      "carte de débit",
+      "paiement sans contact"
+    ],
+    "parking": [
+      "parking gratuit"
+    ]
+  },
+  "redaction": {
+    "version": 2,
+    "titre": "Le Moulin des Pains — Boulangerie-pâtisserie à Besançon",
+    "meta_titre": "Le Moulin des Pains à Besançon : horaires, avis, téléphone",
+    "meta_description": "Le Moulin des Pains, boulangerie-pâtisserie à Besançon : horaires d'ouverture, note Google 3,7/5 (220 avis), téléphone, adresse et itinéraire.",
+    "chapo": "Le Moulin des Pains, boulangerie-pâtisserie au 1 Rue Tristan Bernard, à Besançon. Ouvert tous les jours sauf le vendredi au relevé du 21 octobre 2026. Téléphone : 03 81 61 28 21. Note Google : 3,7 sur 5 pour 220 avis.",
+    "sections": [
+      {
+        "id": "presentation",
+        "titre": "Le Moulin des Pains en quelques mots",
+        "paragraphes": [
+          "Sur Google, l'établissement est classé « Boulangerie », dans notre rubrique Boulangerie-pâtisserie.",
+          "Niveau de prix indiqué sur la fiche Google : € (bon marché).",
+          "D'après le relevé du 21 octobre 2026, l'établissement est ouvert tous les jours sauf le vendredi. Le détail jour par jour figure plus bas."
+        ]
+      },
+      {
+        "id": "prestations",
+        "titre": "Services et équipements de Le Moulin des Pains",
+        "paragraphes": [
+          "Proposé : à emporter, petit-déjeuner et café.",
+          "Non proposé selon la fiche Google : livraison.",
+          "Moyens de paiement déclarés : carte bancaire, carte de débit et paiement sans contact.",
+          "Stationnement : parking gratuit.",
+          "Ces indications sont déclarées par l'établissement sur sa fiche Google (relevé du 21 octobre 2026)."
+        ]
+      },
+      {
+        "id": "acces",
+        "titre": "Adresse et accès",
+        "paragraphes": [
+          "L'établissement est situé au 1 Rue Tristan Bernard, 25000 Besançon.",
+          "Coordonnées GPS : 47.24834, 6.03708. Le bouton Itinéraire de cette page ouvre la navigation."
+        ]
+      },
+      {
+        "id": "contact",
+        "titre": "Contacter Le Moulin des Pains",
+        "paragraphes": [
+          "Le contact se fait par téléphone au 03 81 61 28 21, ou directement sur place aux horaires d'ouverture."
+        ]
+      },
+      {
+        "id": "avis",
+        "titre": "La réputation de Le Moulin des Pains",
+        "paragraphes": [
+          "Note de 3,7 sur 5 pour 220 avis Google au relevé du 21 octobre 2026. Les avis les plus parlants sont compilés ci-dessous, avec un lien vers la fiche d'origine."
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "q": "Quels sont les horaires de Le Moulin des Pains ?",
+        "r": "Au relevé du 21 octobre 2026, Le Moulin des Pains était ouvert tous les jours sauf le vendredi. Dans le détail — lundi : de 6 h à 19 h 30 ; mardi : de 6 h à 19 h 30 ; mercredi : de 6 h à 19 h 30 ; jeudi : de 6 h à 19 h 30 ; vendredi : fermé ; samedi : de 6 h à 19 h 30 ; dimanche : de 6 h à 19 h 30. Ces horaires peuvent changer : un appel préalable reste conseillé."
+      },
+      {
+        "q": "Le Moulin des Pains est-il ouvert le dimanche ?",
+        "r": "Oui : le dimanche, Le Moulin des Pains est ouvert de 6 h à 19 h 30 (horaires relevés le 21 octobre 2026)."
+      },
+      {
+        "q": "Où se trouve Le Moulin des Pains ?",
+        "r": "Le Moulin des Pains se trouve 1 Rue Tristan Bernard, 25000 Besançon. Un lien d'itinéraire est disponible sur cette page."
+      },
+      {
+        "q": "Comment contacter Le Moulin des Pains ?",
+        "r": "Par téléphone au 03 81 61 28 21, ou directement sur place aux heures d'ouverture."
+      },
+      {
+        "q": "Le Moulin des Pains propose-t-il la vente à emporter ou la livraison ?",
+        "r": "D'après sa fiche Google (relevé du 21 octobre 2026) — vente à emporter : oui ; livraison : non."
+      },
+      {
+        "q": "Quel est le niveau de prix de Le Moulin des Pains ?",
+        "r": "Google classe Le Moulin des Pains au niveau de prix € (bon marché), sur une échelle de € à €€€€ établie à partir des avis clients."
+      },
+      {
+        "q": "Le Moulin des Pains est-il accessible aux personnes à mobilité réduite ?",
+        "r": "La fiche Google de l'établissement mentionne : « Entrée accessible en fauteuil roulant ». Cette information est déclarative ; en cas de doute, vérifiez par téléphone."
+      }
+    ],
+    "genere_le": "2026-10-21"
+  },
+  "statut_google": "OPERATIONAL",
+  "audience": {
+    "clics": 0,
+    "impressions": 0,
+    "position": null,
+    "fenetreJours": 90,
+    "clicsRecents": 0,
+    "fenetreRecenteJours": 28,
+    "source": "search-console",
+    "date": "2026-10-21"
+  }
+}

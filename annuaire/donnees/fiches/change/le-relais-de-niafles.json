@@ -30,7 +30,7 @@
     "longitude": -0.7441112
   },
   "note": 4.5,
-  "avis": 1416,
+  "avis": 1417,
   "horaires": [
     {
       "jour": 0,
@@ -117,8 +117,8 @@
     "etat": "absent",
     "premiere_detection": null,
     "derniere_detection": null,
-    "derniere_verification": "2026-10-09T16:58:32.124Z",
-    "echecs": 68,
+    "derniere_verification": "2026-10-21T10:04:27.997Z",
+    "echecs": 69,
     "url_detectee": null
   },
   "suggestion": {
@@ -135,22 +135,34 @@
   "dates": {
     "collecte": "2026-09-01",
     "publication": "2026-09-01",
-    "maj": "2026-10-19"
+    "maj": "2026-10-21"
   },
   "source": "google-places",
   "redaction": {
     "version": 2,
     "titre": "Le Relais de Niafles — Restaurant à Changé",
     "meta_titre": "Le Relais de Niafles à Changé : horaires, avis, téléphone",
-    "meta_description": "Le Relais de Niafles, restaurant à Changé : horaires d'ouverture, note Google 4,5/5 (1416 avis), téléphone, adresse et itinéraire.",
-    "chapo": "Cette fiche présente Le Relais de Niafles, un restaurant au 25 Rue des Tisserands, à Changé. Fermé le samedi et le dimanche au relevé du 18 octobre 2026. Téléphone : 02 43 53 76 15. Note Google : 4,5 sur 5 pour 1416 avis.",
+    "meta_description": "Le Relais de Niafles, restaurant à Changé : horaires d'ouverture, note Google 4,5/5 (1417 avis), téléphone, adresse et itinéraire.",
+    "chapo": "Cette fiche présente Le Relais de Niafles, un restaurant au 25 Rue des Tisserands, à Changé. Fermé le samedi et le dimanche au relevé du 21 octobre 2026. Téléphone : 02 43 53 76 15. Note Google : 4,5 sur 5 pour 1417 avis.",
     "sections": [
       {
         "id": "presentation",
         "titre": "Le Relais de Niafles en quelques mots",
         "paragraphes": [
           "Sur Google, l'établissement est classé « Restaurant français », dans notre rubrique Restaurant.",
-          "D'après le relevé du 18 octobre 2026, l'établissement est fermé le samedi et le dimanche. Le détail jour par jour figure plus bas."
+          "Niveau de prix indiqué sur la fiche Google : €€ (modéré).",
+          "D'après le relevé du 21 octobre 2026, l'établissement est fermé le samedi et le dimanche. Le détail jour par jour figure plus bas."
+        ]
+      },
+      {
+        "id": "prestations",
+        "titre": "Services et équipements de Le Relais de Niafles",
+        "paragraphes": [
+          "Proposé : sur place, réservation possible, petit-déjeuner, déjeuner, dîner, café, vin et toilettes.",
+          "Non proposé selon la fiche Google : livraison.",
+          "Moyens de paiement déclarés : carte de débit et paiement sans contact.",
+          "Stationnement : parking gratuit.",
+          "Ces indications sont déclarées par l'établissement sur sa fiche Google (relevé du 21 octobre 2026)."
         ]
       },
       {
@@ -165,25 +177,26 @@
         "id": "contact",
         "titre": "Contacter Le Relais de Niafles",
         "paragraphes": [
-          "Le contact se fait par téléphone au 02 43 53 76 15, ou directement sur place aux horaires d'ouverture."
+          "Le contact se fait par téléphone au 02 43 53 76 15, ou directement sur place aux horaires d'ouverture.",
+          "La fiche Google indique que la réservation est possible."
         ]
       },
       {
         "id": "avis",
         "titre": "La réputation de Le Relais de Niafles",
         "paragraphes": [
-          "Note de 4,5 sur 5 pour 1416 avis Google au relevé du 18 octobre 2026. Les avis se consultent sur la fiche Google, dont le lien figure sur cette page."
+          "Note de 4,5 sur 5 pour 1417 avis Google au relevé du 21 octobre 2026. Les avis les plus parlants sont compilés ci-dessous, avec un lien vers la fiche d'origine."
         ]
       }
     ],
     "faq": [
       {
         "q": "Quels sont les horaires de Le Relais de Niafles ?",
-        "r": "Au relevé du 18 octobre 2026, Le Relais de Niafles était fermé le samedi et le dimanche. Dans le détail — lundi : de 9 h à 14 h 30 et de 18 h à 23 h ; mardi : de 4 h 30 à 14 h 30 et de 18 h à 23 h ; mercredi : de 4 h 30 à 14 h 30 et de 18 h à 23 h ; jeudi : de 4 h 30 à 14 h 30 et de 18 h à 23 h ; vendredi : de 4 h 30 à 14 h 30 ; samedi : fermé ; dimanche : fermé. Ces horaires peuvent changer : un appel préalable reste conseillé."
+        "r": "Au relevé du 21 octobre 2026, Le Relais de Niafles était fermé le samedi et le dimanche. Dans le détail — lundi : de 9 h à 14 h 30 et de 18 h à 23 h ; mardi : de 4 h 30 à 14 h 30 et de 18 h à 23 h ; mercredi : de 4 h 30 à 14 h 30 et de 18 h à 23 h ; jeudi : de 4 h 30 à 14 h 30 et de 18 h à 23 h ; vendredi : de 4 h 30 à 14 h 30 ; samedi : fermé ; dimanche : fermé. Ces horaires peuvent changer : un appel préalable reste conseillé."
       },
       {
         "q": "Le Relais de Niafles est-il ouvert le dimanche ?",
-        "r": "Non : d'après les horaires relevés le 18 octobre 2026, Le Relais de Niafles est fermé le dimanche."
+        "r": "Non : d'après les horaires relevés le 21 octobre 2026, Le Relais de Niafles est fermé le dimanche."
       },
       {
         "q": "Où se trouve Le Relais de Niafles ?",
@@ -192,9 +205,21 @@
       {
         "q": "Comment contacter Le Relais de Niafles ?",
         "r": "Par téléphone au 02 43 53 76 15, ou directement sur place aux heures d'ouverture."
+      },
+      {
+        "q": "Peut-on réserver chez Le Relais de Niafles ?",
+        "r": "Oui, la fiche Google de Le Relais de Niafles indique que la réservation est possible, par téléphone au 02 43 53 76 15."
+      },
+      {
+        "q": "Le Relais de Niafles propose-t-il la vente à emporter ou la livraison ?",
+        "r": "D'après sa fiche Google (relevé du 21 octobre 2026) — livraison : non."
+      },
+      {
+        "q": "Quel est le niveau de prix de Le Relais de Niafles ?",
+        "r": "Google classe Le Relais de Niafles au niveau de prix €€ (modéré), sur une échelle de € à €€€€ établie à partir des avis clients."
       }
     ],
-    "genere_le": "2026-10-18"
+    "genere_le": "2026-10-21"
   },
   "statut_google": "OPERATIONAL",
   "audience": {
@@ -205,7 +230,7 @@
     "clicsRecents": 0,
     "fenetreRecenteJours": 28,
     "source": "search-console",
-    "date": "2026-10-20"
+    "date": "2026-10-21"
   },
   "indexation": {
     "etat": "non-indexee",
@@ -215,5 +240,77 @@
     "canonique_google": null,
     "source": "inspection",
     "date": "2026-10-19"
+  },
+  "avis_detail": {
+    "releve": "2026-10-21",
+    "liste": [
+      {
+        "note": 5,
+        "texte": "Très bon restaurant routier  , douches propres  , cuisine très bonne et généreuse",
+        "langue": "fr",
+        "date": "2026-06-17",
+        "auteur": "Remy Soares",
+        "auteur_lien": "https://www.google.com/maps/contrib/103924377119455585126/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2poSmNUbDNVR2xYWTE4MFgxbDRTVXBuVVhkVGIyYxAB!2m1!1s0x4809018e20b668c1:0x898e3911e3329078"
+      },
+      {
+        "note": 5,
+        "texte": "La patronne et la serveuse super sympa , une vrai ambiance conviviale\n\nMenu pas trop cher et très bon , je me souviens du poulet façon kebab incroyable\n\nVous avez deux entrées au départ après plat et dessert , les douches sont vraiment propre et neuve dans le petit bungalow\n\nAvec plaisir que je reviendrais chez vous",
+        "langue": "fr",
+        "date": "2026-05-10",
+        "auteur": "Fission Planètaire",
+        "auteur_lien": "https://www.google.com/maps/contrib/115165166118025972832/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2tsVFZETlhjR3h4VkhaU2VFOU1ka00wVFV4aFdXYxAB!2m1!1s0x4809018e20b668c1:0x898e3911e3329078"
+      },
+      {
+        "note": 4,
+        "texte": "J'apprécie particulièrement la formule avec le repas du soir,le petit déjeuner compris et la douche offerte.\nLes gens sont sympas et j'ai passé une soirée agréable.\nMerci pour vos services.😉",
+        "langue": "fr",
+        "date": "2026-03-14",
+        "auteur": "Jean Marie Josnin",
+        "auteur_lien": "https://www.google.com/maps/contrib/109538860254287409970/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25BMVMwbFNNVXR6Vm1kM1dXOVJSbVZxTm1aRk9FRRAB!2m1!1s0x4809018e20b668c1:0x898e3911e3329078"
+      },
+      {
+        "note": 1,
+        "texte": "Franchement très déçu par Le Relais de Niafles. De l’entrée au dessert, tout donne l’impression de sortir du congélateur ou d’une boîte. Aucune saveur, aucune fraîcheur, rien de fait maison à première vue.\n\nLes quantités sont vraiment limitées, surtout pour un resto routier où on s’attend à manger correctement. Je me demande sincèrement comment les routiers peuvent ne plus avoir faim après un menu comme ça.\n\nHonnêtement, c’est le pire resto routier que j’ai jamais vu. Rapport qualité/prix inexistant. À fuir si vous voulez manger à votre faim et avoir un minimum de qualité.",
+        "langue": "fr",
+        "date": "2026-02-18",
+        "auteur": "Bryan Radigue",
+        "auteur_lien": "https://www.google.com/maps/contrib/101872762587437981724/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT20xMlMwSjZkbFE0ZG1JNU9YUm1kRmN3TjFwQ1ozYxAB!2m1!1s0x4809018e20b668c1:0x898e3911e3329078"
+      },
+      {
+        "note": 5,
+        "texte": "Je me suis présenter aux alentours de 12h10 en précisant que je n'avais que 45min pour manger et la serveuse m'a direct mis à une table afin d'être servis rapidement.\nUn repas comme à la maison avec des portions copieuses.\nJe recommande fortement.",
+        "langue": "fr",
+        "date": "2026-01-20",
+        "auteur": "Angelo Martin",
+        "auteur_lien": "https://www.google.com/maps/contrib/108807902186349481519/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xKWlRsWjFkWGt6U1ZvdGIxWnRhMFpqWDJsMU1IYxAB!2m1!1s0x4809018e20b668c1:0x898e3911e3329078"
+      }
+    ]
+  },
+  "services": {
+    "releve": "2026-10-21",
+    "prix": "PRICE_LEVEL_MODERATE",
+    "options": {
+      "dineIn": true,
+      "delivery": false,
+      "reservable": true,
+      "servesBreakfast": true,
+      "servesLunch": true,
+      "servesDinner": true,
+      "servesCoffee": true,
+      "servesWine": true,
+      "restroom": true
+    },
+    "paiement": [
+      "carte de débit",
+      "paiement sans contact"
+    ],
+    "parking": [
+      "parking gratuit"
+    ]
   }
 }

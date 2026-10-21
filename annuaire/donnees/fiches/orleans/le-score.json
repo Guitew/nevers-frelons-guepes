@@ -26,7 +26,7 @@
     "longitude": 1.8958758000000002
   },
   "note": 3.6,
-  "avis": 327,
+  "avis": 329,
   "horaires": [
     {
       "jour": 0,
@@ -110,8 +110,8 @@
     "etat": "absent",
     "premiere_detection": null,
     "derniere_detection": null,
-    "derniere_verification": "2026-10-09T16:58:32.124Z",
-    "echecs": 18,
+    "derniere_verification": "2026-10-21T10:04:27.997Z",
+    "echecs": 19,
     "url_detectee": null
   },
   "suggestion": {
@@ -124,22 +124,33 @@
   "dates": {
     "collecte": "2026-09-25",
     "publication": "2026-09-25",
-    "maj": "2026-10-09"
+    "maj": "2026-10-21"
   },
   "source": "google-places",
   "redaction": {
     "version": 2,
     "titre": "Le Score — Café ou bar à Orléans",
     "meta_titre": "Le Score à Orléans : horaires, avis, téléphone",
-    "meta_description": "Le Score, café ou bar à Orléans : horaires d'ouverture, note Google 3,6/5 (327 avis), téléphone, adresse et itinéraire.",
-    "chapo": "Le Score est un café ou bar au 56 Rue Porte Saint-Jean, à Orléans. Ouvert sept jours sur sept au relevé du 9 octobre 2026. Téléphone : 07 71 06 56 60. Note Google : 3,6 sur 5 pour 327 avis.",
+    "meta_description": "Le Score, café ou bar à Orléans : horaires d'ouverture, note Google 3,6/5 (329 avis), téléphone, adresse et itinéraire.",
+    "chapo": "Le Score est un café ou bar au 56 Rue Porte Saint-Jean, à Orléans. Ouvert sept jours sur sept au relevé du 21 octobre 2026. Téléphone : 07 71 06 56 60. Note Google : 3,6 sur 5 pour 329 avis.",
     "sections": [
       {
         "id": "presentation",
         "titre": "Le Score en quelques mots",
         "paragraphes": [
           "Sur Google, l'établissement est classé « Bar », dans notre rubrique Café ou bar.",
-          "D'après le relevé du 9 octobre 2026, l'établissement est ouvert sept jours sur sept. Le détail jour par jour figure plus bas."
+          "Niveau de prix indiqué sur la fiche Google : € (bon marché).",
+          "D'après le relevé du 21 octobre 2026, l'établissement est ouvert sept jours sur sept. Le détail jour par jour figure plus bas."
+        ]
+      },
+      {
+        "id": "prestations",
+        "titre": "Services et équipements de Le Score",
+        "paragraphes": [
+          "Proposé : bière, vin, cocktails et toilettes.",
+          "Non proposé selon la fiche Google : à emporter, livraison, réservation possible, terrasse, adapté aux enfants et musique live.",
+          "Moyens de paiement déclarés : carte bancaire, carte de débit et paiement sans contact.",
+          "Ces indications sont déclarées par l'établissement sur sa fiche Google (relevé du 21 octobre 2026)."
         ]
       },
       {
@@ -161,18 +172,18 @@
         "id": "avis",
         "titre": "La réputation de Le Score",
         "paragraphes": [
-          "Note de 3,6 sur 5 pour 327 avis Google au relevé du 9 octobre 2026. Les avis se consultent sur la fiche Google, dont le lien figure sur cette page."
+          "Note de 3,6 sur 5 pour 329 avis Google au relevé du 21 octobre 2026. Les avis les plus parlants sont compilés ci-dessous, avec un lien vers la fiche d'origine."
         ]
       }
     ],
     "faq": [
       {
         "q": "Quels sont les horaires de Le Score ?",
-        "r": "Au relevé du 9 octobre 2026, Le Score était ouvert sept jours sur sept. Dans le détail — lundi : de 9 h à 0 h 30 ; mardi : de 9 h à 0 h 30 ; mercredi : de 9 h à 0 h 30 ; jeudi : de 9 h à 0 h 30 ; vendredi : de 9 h à 0 h 30 ; samedi : de 9 h à 0 h 30 ; dimanche : de 9 h à 0 h 30. Ces horaires peuvent changer : un appel préalable reste conseillé."
+        "r": "Au relevé du 21 octobre 2026, Le Score était ouvert sept jours sur sept. Dans le détail — lundi : de 9 h à 0 h 30 ; mardi : de 9 h à 0 h 30 ; mercredi : de 9 h à 0 h 30 ; jeudi : de 9 h à 0 h 30 ; vendredi : de 9 h à 0 h 30 ; samedi : de 9 h à 0 h 30 ; dimanche : de 9 h à 0 h 30. Ces horaires peuvent changer : un appel préalable reste conseillé."
       },
       {
         "q": "Le Score est-il ouvert le dimanche ?",
-        "r": "Oui : le dimanche, Le Score est ouvert de 9 h à 0 h 30 (horaires relevés le 9 octobre 2026)."
+        "r": "Oui : le dimanche, Le Score est ouvert de 9 h à 0 h 30 (horaires relevés le 21 octobre 2026)."
       },
       {
         "q": "Où se trouve Le Score ?",
@@ -183,11 +194,23 @@
         "r": "Par téléphone au 07 71 06 56 60, ou directement sur place aux heures d'ouverture."
       },
       {
+        "q": "Peut-on réserver chez Le Score ?",
+        "r": "La fiche Google de Le Score indique que la réservation n'est pas proposée."
+      },
+      {
+        "q": "Le Score propose-t-il la vente à emporter ou la livraison ?",
+        "r": "D'après sa fiche Google (relevé du 21 octobre 2026) — vente à emporter : non ; livraison : non."
+      },
+      {
+        "q": "Quel est le niveau de prix de Le Score ?",
+        "r": "Google classe Le Score au niveau de prix € (bon marché), sur une échelle de € à €€€€ établie à partir des avis clients."
+      },
+      {
         "q": "Le Score est-il accessible aux personnes à mobilité réduite ?",
         "r": "La fiche Google de l'établissement mentionne : « Entrée accessible en fauteuil roulant ». Cette information est déclarative ; en cas de doute, vérifiez par téléphone."
       }
     ],
-    "genere_le": "2026-10-09"
+    "genere_le": "2026-10-21"
   },
   "statut_google": "OPERATIONAL",
   "audience": {
@@ -198,6 +221,78 @@
     "clicsRecents": 0,
     "fenetreRecenteJours": 28,
     "source": "search-console",
-    "date": "2026-10-20"
+    "date": "2026-10-21"
+  },
+  "avis_detail": {
+    "releve": "2026-10-21",
+    "liste": [
+      {
+        "note": 1,
+        "texte": "Impossible d'acheter des cigarettes car ils ne prennent pas le sans contact...\nLa clientèle est peu recommandable et la rue où le tabac est situé est plus que lugubre, mesdames n'y allez pas seules la nuit...",
+        "langue": "fr",
+        "date": "2026-05-23",
+        "auteur": "Tommy",
+        "auteur_lien": "https://www.google.com/maps/contrib/113612024509416997797/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xsYWFESjBUVVp4U0hwYVFWTlJlVmhOVDJwSVZIYxAB!2m1!1s0x47e4e52bafbe14b3:0xac28c32b2a97c8a5"
+      },
+      {
+        "note": 3,
+        "texte": "Tout le temps ouvert 👍\nZieuté par la clientèle 👎\nPersonnel sympa👍\nPas de sans contact 🤷‍♀️",
+        "langue": "fr",
+        "date": "2026-05-09",
+        "auteur": "Lou Elisa Pha",
+        "auteur_lien": "https://www.google.com/maps/contrib/112085826079318164863/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xBM2VrTjBXakU0ZUdKNVJYY3dRbGt5ZVdsYVJYYxAB!2m1!1s0x47e4e52bafbe14b3:0xac28c32b2a97c8a5"
+      },
+      {
+        "note": 5,
+        "texte": "Avis concernant le tabac uniquement : rien à redire, ouvert en permanence (dimanche et jour férié compris). C’est  le tabac qu’on veut tous avoir pas loin de chez soi !",
+        "langue": "fr",
+        "date": "2026-04-05",
+        "auteur": "Hugo GOUDON",
+        "auteur_lien": "https://www.google.com/maps/contrib/117598341524819532222/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xkdGRYZGZXVkpWY21kcGJEbEpWM05CTFVZeFQzYxAB!2m1!1s0x47e4e52bafbe14b3:0xac28c32b2a97c8a5"
+      },
+      {
+        "note": 4,
+        "texte": "Orléans, tout ferme au coucher du soleil, ici on a des courageux qui offrent des clopes la nuit au tarif normal. La vision glauque on repassera ; zéro agression ou altercation au sein de l'établissement qq soit l'heure. Mieux, pas de sans contact pour payer ; protégeant d'éventuels vols de cb ! Merci beaucoup pour ce service commercial rare !!",
+        "langue": "fr",
+        "date": "2025-10-12",
+        "auteur": "Delphine Anquetin",
+        "auteur_lien": "https://www.google.com/maps/contrib/113801221944317256405/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25OdFRuSlpiVVZWU21zeVdUVlFWbnBTTTJzdGRVRRAB!2m1!1s0x47e4e52bafbe14b3:0xac28c32b2a97c8a5"
+      },
+      {
+        "note": 5,
+        "texte": "On y croise la fine fleur d'Orléans, un fort bel établissement dans une rue on ne peut mieux fréquentée (je m'y connais, j'y ai habité pendant 10 ans). Ambiance toujours éclectique, les horaires d'ouverture font le plus grand bonheur des habitants de la ville de la Pucelle...",
+        "langue": "fr",
+        "date": "2025-06-15",
+        "auteur": "Renaud Rabusseau",
+        "auteur_lien": "https://www.google.com/maps/contrib/116449417912577422199/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2pkTmJYZ3RSV2RzWlhsbVZWSkRWREZCV0MxelRuYxAB!2m1!1s0x47e4e52bafbe14b3:0xac28c32b2a97c8a5"
+      }
+    ]
+  },
+  "services": {
+    "releve": "2026-10-21",
+    "prix": "PRICE_LEVEL_INEXPENSIVE",
+    "options": {
+      "takeout": false,
+      "delivery": false,
+      "reservable": false,
+      "outdoorSeating": false,
+      "servesBeer": true,
+      "servesWine": true,
+      "servesCocktails": true,
+      "goodForChildren": false,
+      "liveMusic": false,
+      "restroom": true
+    },
+    "paiement": [
+      "carte bancaire",
+      "carte de débit",
+      "paiement sans contact"
+    ],
+    "parking": []
   }
 }

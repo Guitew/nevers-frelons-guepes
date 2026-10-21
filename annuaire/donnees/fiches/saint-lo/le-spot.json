@@ -26,7 +26,7 @@
     "longitude": -1.0723547
   },
   "note": 4.7,
-  "avis": 308,
+  "avis": 311,
   "horaires": [
     {
       "jour": 0,
@@ -105,8 +105,8 @@
   "backlink": {
     "etat": "present",
     "premiere_detection": "2026-10-02T16:15:21.808Z",
-    "derniere_detection": "2026-10-09T16:58:32.124Z",
-    "derniere_verification": "2026-10-09T16:58:32.124Z",
+    "derniere_detection": "2026-10-21T10:04:27.997Z",
+    "derniere_verification": "2026-10-21T10:04:27.997Z",
     "echecs": 0,
     "url_detectee": "https://andpro.fr/vitrine-locale/cafes-bars/saint-lo/le-spot/"
   },
@@ -120,22 +120,34 @@
   "dates": {
     "collecte": "2026-09-25",
     "publication": "2026-09-25",
-    "maj": "2026-10-09"
+    "maj": "2026-10-21"
   },
   "source": "google-places",
   "redaction": {
     "version": 2,
     "titre": "Le Spot — Café ou bar à Saint-Lô",
     "meta_titre": "Le Spot à Saint-Lô : horaires, avis, téléphone",
-    "meta_description": "Le Spot, café ou bar à Saint-Lô : horaires d'ouverture, note Google 4,7/5 (308 avis), téléphone, adresse et itinéraire.",
-    "chapo": "Le Spot est un café ou bar au 426 Rue Jules Vallès, à Saint-Lô. Ouvert tous les jours sauf le dimanche au relevé du 9 octobre 2026. Téléphone : 06 87 27 27 67. Note Google : 4,7 sur 5 pour 308 avis.",
+    "meta_description": "Le Spot, café ou bar à Saint-Lô : horaires d'ouverture, note Google 4,7/5 (311 avis), téléphone, adresse et itinéraire.",
+    "chapo": "Le Spot est un café ou bar au 426 Rue Jules Vallès, à Saint-Lô. Ouvert tous les jours sauf le dimanche au relevé du 21 octobre 2026. Téléphone : 06 87 27 27 67. Note Google : 4,7 sur 5 pour 311 avis.",
     "sections": [
       {
         "id": "presentation",
         "titre": "Le Spot en quelques mots",
         "paragraphes": [
           "Sur Google, l'établissement est classé « Bar », dans notre rubrique Café ou bar.",
-          "D'après le relevé du 9 octobre 2026, l'établissement est ouvert tous les jours sauf le dimanche. Le détail jour par jour figure plus bas."
+          "Niveau de prix indiqué sur la fiche Google : €€ (modéré).",
+          "D'après le relevé du 21 octobre 2026, l'établissement est ouvert tous les jours sauf le dimanche. Le détail jour par jour figure plus bas."
+        ]
+      },
+      {
+        "id": "prestations",
+        "titre": "Services et équipements de Le Spot",
+        "paragraphes": [
+          "Proposé : sur place, réservation possible, terrasse, bière, vin, cocktails, adapté aux groupes, retransmissions sportives, musique live et toilettes.",
+          "Non proposé selon la fiche Google : à emporter, livraison, retrait en voiture et adapté aux enfants.",
+          "Moyens de paiement déclarés : carte bancaire, carte de débit et paiement sans contact.",
+          "Stationnement : parking gratuit et stationnement gratuit dans la rue.",
+          "Ces indications sont déclarées par l'établissement sur sa fiche Google (relevé du 21 octobre 2026)."
         ]
       },
       {
@@ -150,25 +162,26 @@
         "id": "contact",
         "titre": "Contacter Le Spot",
         "paragraphes": [
-          "Le contact se fait par téléphone au 06 87 27 27 67, ou directement sur place aux horaires d'ouverture."
+          "Le contact se fait par téléphone au 06 87 27 27 67, ou directement sur place aux horaires d'ouverture.",
+          "La fiche Google indique que la réservation est possible."
         ]
       },
       {
         "id": "avis",
         "titre": "La réputation de Le Spot",
         "paragraphes": [
-          "Note de 4,7 sur 5 pour 308 avis Google au relevé du 9 octobre 2026. Les avis se consultent sur la fiche Google, dont le lien figure sur cette page."
+          "Note de 4,7 sur 5 pour 311 avis Google au relevé du 21 octobre 2026. Les avis les plus parlants sont compilés ci-dessous, avec un lien vers la fiche d'origine."
         ]
       }
     ],
     "faq": [
       {
         "q": "Quels sont les horaires de Le Spot ?",
-        "r": "Au relevé du 9 octobre 2026, Le Spot était ouvert tous les jours sauf le dimanche. Dans le détail — lundi : de 17 h à 22 h ; mardi : de 17 h à 0 h ; mercredi : de 17 h à 0 h ; jeudi : de 15 h à 2 h ; vendredi : de 15 h à 2 h ; samedi : de 15 h à 2 h ; dimanche : fermé. Ces horaires peuvent changer : un appel préalable reste conseillé."
+        "r": "Au relevé du 21 octobre 2026, Le Spot était ouvert tous les jours sauf le dimanche. Dans le détail — lundi : de 17 h à 22 h ; mardi : de 17 h à 0 h ; mercredi : de 17 h à 0 h ; jeudi : de 15 h à 2 h ; vendredi : de 15 h à 2 h ; samedi : de 15 h à 2 h ; dimanche : fermé. Ces horaires peuvent changer : un appel préalable reste conseillé."
       },
       {
         "q": "Le Spot est-il ouvert le dimanche ?",
-        "r": "Non : d'après les horaires relevés le 9 octobre 2026, Le Spot est fermé le dimanche."
+        "r": "Non : d'après les horaires relevés le 21 octobre 2026, Le Spot est fermé le dimanche."
       },
       {
         "q": "Où se trouve Le Spot ?",
@@ -179,21 +192,112 @@
         "r": "Par téléphone au 06 87 27 27 67, ou directement sur place aux heures d'ouverture."
       },
       {
+        "q": "Peut-on réserver chez Le Spot ?",
+        "r": "Oui, la fiche Google de Le Spot indique que la réservation est possible, par téléphone au 06 87 27 27 67."
+      },
+      {
+        "q": "Le Spot propose-t-il la vente à emporter ou la livraison ?",
+        "r": "D'après sa fiche Google (relevé du 21 octobre 2026) — vente à emporter : non ; livraison : non."
+      },
+      {
+        "q": "Quel est le niveau de prix de Le Spot ?",
+        "r": "Google classe Le Spot au niveau de prix €€ (modéré), sur une échelle de € à €€€€ établie à partir des avis clients."
+      },
+      {
         "q": "Le Spot est-il accessible aux personnes à mobilité réduite ?",
         "r": "La fiche Google de l'établissement mentionne : « Entrée accessible en fauteuil roulant ». Cette information est déclarative ; en cas de doute, vérifiez par téléphone."
       }
     ],
-    "genere_le": "2026-10-09"
+    "genere_le": "2026-10-21"
   },
   "statut_google": "OPERATIONAL",
   "audience": {
-    "clics": 213,
-    "impressions": 3258,
+    "clics": 220,
+    "impressions": 3377,
     "position": 2.8,
     "fenetreJours": 90,
-    "clicsRecents": 213,
+    "clicsRecents": 220,
     "fenetreRecenteJours": 28,
     "source": "search-console",
-    "date": "2026-10-20"
+    "date": "2026-10-21"
+  },
+  "avis_detail": {
+    "releve": "2026-10-21",
+    "liste": [
+      {
+        "note": 4,
+        "texte": "Ambiance sympa dommage qu’à la soirée 80-90 remember passe beaucoup de musique actuelle prise de commande un peu long mais endroit sympa",
+        "langue": "fr",
+        "date": "2026-09-06",
+        "auteur": "Nicolas LECORNEC",
+        "auteur_lien": "https://www.google.com/maps/contrib/115901195749487392508/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2s1TlFWZEZiWFpITVU5SVRXdFNTa1JQZWxWWWRIYxAB!2m1!1s0x480b95cc50b6f137:0x18c24e22acec07c2"
+      },
+      {
+        "note": 4,
+        "texte": "Ça manquait ce genre d'endroits, ( Jeux, événement, soirée à thèmes) très convivial et familial, hors du centre ville, prix vraiment abordable, super équipe au top avec le sourire !",
+        "langue": "fr",
+        "date": "2026-07-31",
+        "auteur": "Gaëtan Deshayes",
+        "auteur_lien": "https://www.google.com/maps/contrib/102309725838589504448/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2pWd2VuZDFRV2RFVkU1RGFURTFkekphZWpsR1YwRRAB!2m1!1s0x480b95cc50b6f137:0x18c24e22acec07c2"
+      },
+      {
+        "note": 5,
+        "texte": "De passage dans la région, nous nous sommes arrêtées au Spot pour une petite soirée ambiancée.\nL’ambiance est au rendez vous, le patron et les serveurs sont réactifs et accueillants, emplacement de parking, large choix de consommations. Les Mojito sont EXCELLENTS! On se sent à l’aise.\nPetite salle de jeux à côté du bar qui donne un petit plus pour animé la soirée.\nNous reviendrons.\nLes rémoises",
+        "langue": "fr",
+        "date": "2026-07-25",
+        "auteur": "CERTEAUX Emilie",
+        "auteur_lien": "https://www.google.com/maps/contrib/107094774718332996349/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2sxMVRuRnNhak5tVkVGb1YyNHllRlJoTTJseFRVRRAB!2m1!1s0x480b95cc50b6f137:0x18c24e22acec07c2"
+      },
+      {
+        "note": 3,
+        "texte": "Tres bien, bon rapport qualité prix, animations variées, bonne ambiance, seul bémol comme c est construit en taule, lors de chaleur ça devient tres chaud et insoutenable à l interieur, des clims ou ventilos seraient les bienvenus",
+        "langue": "fr",
+        "date": "2026-06-14",
+        "auteur": "Lil Bishop",
+        "auteur_lien": "https://www.google.com/maps/contrib/107708599466640714898/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2pKd2IzQlNVRzVUY0VRd2FHUTBXbTVLWWpORGJtYxAB!2m1!1s0x480b95cc50b6f137:0x18c24e22acec07c2"
+      },
+      {
+        "note": 5,
+        "texte": "Super Bar à Saint lo, stationnement facile, service pour grignoter chaud disponnible à n'importe quelle heure, toujours plein de soirées diverses et variées !  Grande terrasse.",
+        "langue": "fr",
+        "date": "2026-04-25",
+        "auteur": "Anthony Moisson",
+        "auteur_lien": "https://www.google.com/maps/contrib/100141987551800587411/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25aRlZucHNTV1ZUZEcxVWRUTXhUVVJDV0dreWVHYxAB!2m1!1s0x480b95cc50b6f137:0x18c24e22acec07c2"
+      }
+    ]
+  },
+  "services": {
+    "releve": "2026-10-21",
+    "prix": "PRICE_LEVEL_MODERATE",
+    "options": {
+      "dineIn": true,
+      "takeout": false,
+      "delivery": false,
+      "curbsidePickup": false,
+      "reservable": true,
+      "outdoorSeating": true,
+      "servesBeer": true,
+      "servesWine": true,
+      "servesCocktails": true,
+      "goodForChildren": false,
+      "goodForGroups": true,
+      "goodForWatchingSports": true,
+      "liveMusic": true,
+      "restroom": true
+    },
+    "paiement": [
+      "carte bancaire",
+      "carte de débit",
+      "paiement sans contact"
+    ],
+    "parking": [
+      "parking gratuit",
+      "stationnement gratuit dans la rue"
+    ]
   }
 }

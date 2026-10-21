@@ -29,7 +29,7 @@
     "longitude": 4.6237749
   },
   "note": 4.7,
-  "avis": 793,
+  "avis": 796,
   "horaires": [
     {
       "jour": 0,
@@ -121,8 +121,8 @@
     "etat": "absent",
     "premiere_detection": null,
     "derniere_detection": null,
-    "derniere_verification": "2026-10-09T16:58:32.124Z",
-    "echecs": 7,
+    "derniere_verification": "2026-10-21T10:04:27.997Z",
+    "echecs": 8,
     "url_detectee": null
   },
   "suggestion": {
@@ -135,21 +135,33 @@
   "dates": {
     "collecte": "2026-10-03",
     "publication": "2026-10-03",
-    "maj": "2026-10-09"
+    "maj": "2026-10-21"
   },
   "source": "google-places",
   "redaction": {
     "version": 2,
     "titre": "Le Poivre d'Ane — Restaurant à Coux",
     "meta_titre": "Le Poivre d'Ane à Coux : horaires, avis, téléphone",
-    "meta_description": "Le Poivre d'Ane, restaurant à Coux : horaires d'ouverture, note Google 4,7/5 (793 avis), téléphone, adresse et itinéraire.",
-    "chapo": "Cette fiche présente Le Poivre d'Ane, un restaurant au 125 Espace Onclaire, à Coux. Fermé le lundi et le mardi au relevé du 9 octobre 2026. Téléphone : 04 75 64 17 81. Note Google : 4,7 sur 5 pour 793 avis.",
+    "meta_description": "Le Poivre d'Ane, restaurant à Coux : horaires d'ouverture, note Google 4,7/5 (796 avis), téléphone, adresse et itinéraire.",
+    "chapo": "Cette fiche présente Le Poivre d'Ane, un restaurant au 125 Espace Onclaire, à Coux. Fermé le lundi et le mardi au relevé du 21 octobre 2026. Téléphone : 04 75 64 17 81. Note Google : 4,7 sur 5 pour 796 avis.",
     "sections": [
       {
         "id": "presentation",
         "titre": "Le Poivre d'Ane en quelques mots",
         "paragraphes": [
-          "D'après le relevé du 9 octobre 2026, l'établissement est fermé le lundi et le mardi. Le détail jour par jour figure plus bas."
+          "Niveau de prix indiqué sur la fiche Google : €€€ (élevé).",
+          "D'après le relevé du 21 octobre 2026, l'établissement est fermé le lundi et le mardi. Le détail jour par jour figure plus bas."
+        ]
+      },
+      {
+        "id": "prestations",
+        "titre": "Services et équipements de Le Poivre d'Ane",
+        "paragraphes": [
+          "Proposé : sur place, réservation possible, terrasse, déjeuner, dîner, café, bière, vin, cocktails, menu enfant, adapté aux enfants, adapté aux groupes et toilettes.",
+          "Non proposé selon la fiche Google : à emporter, livraison, retrait en voiture, petit-déjeuner, brunch, retransmissions sportives et musique live.",
+          "Moyens de paiement déclarés : carte bancaire et carte de débit.",
+          "Stationnement : parking gratuit et stationnement gratuit dans la rue.",
+          "Ces indications sont déclarées par l'établissement sur sa fiche Google (relevé du 21 octobre 2026)."
         ]
       },
       {
@@ -164,25 +176,26 @@
         "id": "contact",
         "titre": "Contacter Le Poivre d'Ane",
         "paragraphes": [
-          "Le contact se fait par téléphone au 04 75 64 17 81, ou directement sur place aux horaires d'ouverture."
+          "Le contact se fait par téléphone au 04 75 64 17 81, ou directement sur place aux horaires d'ouverture.",
+          "La fiche Google indique que la réservation est possible."
         ]
       },
       {
         "id": "avis",
         "titre": "La réputation de Le Poivre d'Ane",
         "paragraphes": [
-          "Note de 4,7 sur 5 pour 793 avis Google au relevé du 9 octobre 2026. Les avis se consultent sur la fiche Google, dont le lien figure sur cette page."
+          "Note de 4,7 sur 5 pour 796 avis Google au relevé du 21 octobre 2026. Les avis les plus parlants sont compilés ci-dessous, avec un lien vers la fiche d'origine."
         ]
       }
     ],
     "faq": [
       {
         "q": "Quels sont les horaires de Le Poivre d'Ane ?",
-        "r": "Au relevé du 9 octobre 2026, Le Poivre d'Ane était fermé le lundi et le mardi. Dans le détail — lundi : fermé ; mardi : fermé ; mercredi : de 12 h à 14 h et de 19 h à 21 h ; jeudi : de 12 h à 14 h et de 19 h à 21 h ; vendredi : de 12 h à 14 h et de 19 h à 21 h ; samedi : de 12 h à 14 h et de 19 h à 21 h ; dimanche : de 12 h à 14 h. Ces horaires peuvent changer : un appel préalable reste conseillé."
+        "r": "Au relevé du 21 octobre 2026, Le Poivre d'Ane était fermé le lundi et le mardi. Dans le détail — lundi : fermé ; mardi : fermé ; mercredi : de 12 h à 14 h et de 19 h à 21 h ; jeudi : de 12 h à 14 h et de 19 h à 21 h ; vendredi : de 12 h à 14 h et de 19 h à 21 h ; samedi : de 12 h à 14 h et de 19 h à 21 h ; dimanche : de 12 h à 14 h. Ces horaires peuvent changer : un appel préalable reste conseillé."
       },
       {
         "q": "Le Poivre d'Ane est-il ouvert le dimanche ?",
-        "r": "Oui : le dimanche, Le Poivre d'Ane est ouvert de 12 h à 14 h (horaires relevés le 9 octobre 2026)."
+        "r": "Oui : le dimanche, Le Poivre d'Ane est ouvert de 12 h à 14 h (horaires relevés le 21 octobre 2026)."
       },
       {
         "q": "Où se trouve Le Poivre d'Ane ?",
@@ -193,11 +206,23 @@
         "r": "Par téléphone au 04 75 64 17 81, ou directement sur place aux heures d'ouverture."
       },
       {
+        "q": "Peut-on réserver chez Le Poivre d'Ane ?",
+        "r": "Oui, la fiche Google de Le Poivre d'Ane indique que la réservation est possible, par téléphone au 04 75 64 17 81."
+      },
+      {
+        "q": "Le Poivre d'Ane propose-t-il la vente à emporter ou la livraison ?",
+        "r": "D'après sa fiche Google (relevé du 21 octobre 2026) — vente à emporter : non ; livraison : non."
+      },
+      {
+        "q": "Quel est le niveau de prix de Le Poivre d'Ane ?",
+        "r": "Google classe Le Poivre d'Ane au niveau de prix €€€ (élevé), sur une échelle de € à €€€€ établie à partir des avis clients."
+      },
+      {
         "q": "Le Poivre d'Ane est-il accessible aux personnes à mobilité réduite ?",
         "r": "La fiche Google de l'établissement mentionne : « Entrée accessible en fauteuil roulant ». Cette information est déclarative ; en cas de doute, vérifiez par téléphone."
       }
     ],
-    "genere_le": "2026-10-09"
+    "genere_le": "2026-10-21"
   },
   "statut_google": "OPERATIONAL",
   "audience": {
@@ -208,6 +233,90 @@
     "clicsRecents": 0,
     "fenetreRecenteJours": 28,
     "source": "search-console",
-    "date": "2026-10-20"
+    "date": "2026-10-21"
+  },
+  "avis_detail": {
+    "releve": "2026-10-21",
+    "liste": [
+      {
+        "note": 5,
+        "texte": "Superbe expérience culinaire dans un cadre entouré de verdure.\nLe personnel était très aimable et serviable.\nNous sommes de la côte d'azur mais prévoyons déjà de revenir le temps d'un week end et nous reviendrons dans ce restaurant avec plaisir.",
+        "langue": "fr",
+        "date": "2026-07-11",
+        "auteur": "Margaux Biron",
+        "auteur_lien": "https://www.google.com/maps/contrib/111083624007605099489/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25kRlEwdzJRVzlIUVZnMFRVWXhZMUEwZUdzM2JFRRAB!2m1!1s0x12b53a3e541b7935:0x62b53f4a25304561"
+      },
+      {
+        "note": 5,
+        "texte": "Belle Découverte fortuite .\nFoie gras bon et très bien accompagné .\nAsperges (goût sympa ,il maque peut être juste une asperge entière )\nMorue fondante et purée de carotte excellente\nEffiloché de canard copieux et goûteux .\nDessert très fin .\nService rapide par de jeunes gens très aimables .\nContinuez",
+        "langue": "fr",
+        "date": "2026-06-13",
+        "auteur": "Chantal Laubreaux",
+        "auteur_lien": "https://www.google.com/maps/contrib/102836232772926338992/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2t0eVNEUjRhamxGY2pCRk4zRkNSelZtYkV0TVVHYxAB!2m1!1s0x12b53a3e541b7935:0x62b53f4a25304561"
+      },
+      {
+        "note": 5,
+        "texte": "Excellent acceuil et service. Repas délicieux et raffinés. De très belles assiettes avec mélange de textures et de saveurs. Très belle découverte gustative avec des produits de qualité. Restaurant aussi beau que propre. Cadre très agréable. Excellent rapport qualité/prix. Place de parking. Je vous le recommande !",
+        "langue": "fr",
+        "date": "2026-06-06",
+        "auteur": "Anaïs V",
+        "auteur_lien": "https://www.google.com/maps/contrib/114287402825192203051/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT21sNFEzZ3dhbXRtVDFObWRHazNjMEpGU1d0MVUyYxAB!2m1!1s0x12b53a3e541b7935:0x62b53f4a25304561"
+      },
+      {
+        "note": 2,
+        "texte": "Petite escapade en famille dans ce joli lieu.\nNous avions commandé a l'avance a la réservation.\nArrivés a 12h30, servi pour l'amuse bouche a 14h.....\nL'entrée foie gras, rien a dire aurait pu être excellente si le foie ne fondait pas au soleil...\nLe plat rien a redire très bon.\nLe dessert: catastrophe nous avions choisi la declinaison de fraises: Finalement peu de fraises et de la glace a la rose non mentionnée ni annoncée.\nParlons des menus enfants a 20euros!\n1 plat et 1 dessert! Doit on appeler ça menu?\n( Même pas une boisson ou une entrée....)\nLe dessert évidemment a base de rose tjs pas annoncé avec des fraises.\nExpérience vraiment decevante entre l'attente et les plats, sans compter les relances pour avoir de l'eau, du pain.\nService compliqué !\nMenu adulte 42e quand même et pseudo menu enfant a 20.\nBref nous n'y retournerons pas.\nLa chaise enfant était sale nous l'avons nettoyé nous même à la lingette ( elle a mis 15min a arriver!)\nPs: les tables présentes ralaient aussi ce jour",
+        "langue": "fr",
+        "date": "2026-05-24",
+        "auteur": "dimitri zinant",
+        "auteur_lien": "https://www.google.com/maps/contrib/111648276602675040431/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2tJNU1FaEtRVFF5WVZCbFFXOWpRME13UWtabFpVRRAB!2m1!1s0x12b53a3e541b7935:0x62b53f4a25304561"
+      },
+      {
+        "note": 5,
+        "texte": "Bonne surprise 😁\nTrès bien accueilli et personnel sympa.\nNous nous sommes régalés. Très fin et très bien préparé.\nJe conseille ce restaurant 👍",
+        "langue": "fr",
+        "date": "2026-03-11",
+        "auteur": "Bernard MOULET",
+        "auteur_lien": "https://www.google.com/maps/contrib/107819229420799560039/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25sVVNFNTVWM0ZpU0VsNU1XOUlhVWg0YzBGVFRtYxAB!2m1!1s0x12b53a3e541b7935:0x62b53f4a25304561"
+      }
+    ]
+  },
+  "services": {
+    "releve": "2026-10-21",
+    "prix": "PRICE_LEVEL_EXPENSIVE",
+    "options": {
+      "dineIn": true,
+      "takeout": false,
+      "delivery": false,
+      "curbsidePickup": false,
+      "reservable": true,
+      "outdoorSeating": true,
+      "servesBreakfast": false,
+      "servesBrunch": false,
+      "servesLunch": true,
+      "servesDinner": true,
+      "servesCoffee": true,
+      "servesBeer": true,
+      "servesWine": true,
+      "servesCocktails": true,
+      "menuForChildren": true,
+      "goodForChildren": true,
+      "goodForGroups": true,
+      "goodForWatchingSports": false,
+      "liveMusic": false,
+      "restroom": true
+    },
+    "paiement": [
+      "carte bancaire",
+      "carte de débit"
+    ],
+    "parking": [
+      "parking gratuit",
+      "stationnement gratuit dans la rue"
+    ]
   }
 }

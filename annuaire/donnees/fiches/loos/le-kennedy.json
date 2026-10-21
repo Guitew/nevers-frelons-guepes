@@ -125,8 +125,8 @@
     "etat": "absent",
     "premiere_detection": null,
     "derniere_detection": null,
-    "derniere_verification": "2026-10-09T16:58:32.124Z",
-    "echecs": 6,
+    "derniere_verification": "2026-10-21T10:04:27.997Z",
+    "echecs": 7,
     "url_detectee": null
   },
   "suggestion": {
@@ -139,7 +139,7 @@
   "dates": {
     "collecte": "2026-10-04",
     "publication": "2026-10-04",
-    "maj": "2026-10-09"
+    "maj": "2026-10-21"
   },
   "source": "google-places",
   "redaction": {
@@ -147,14 +147,23 @@
     "titre": "LE KENNEDY — Café ou bar à Loos",
     "meta_titre": "LE KENNEDY à Loos : horaires, avis, téléphone",
     "meta_description": "LE KENNEDY, café ou bar à Loos : horaires d'ouverture, note Google 3,9/5 (145 avis), téléphone, adresse et itinéraire.",
-    "chapo": "LE KENNEDY exerce l'activité de café ou bar au 147 Rue Henri Barbusse, à Loos. Ouvert tous les jours sauf le lundi au relevé du 9 octobre 2026. Téléphone : 03 20 50 11 61. Note Google : 3,9 sur 5 pour 145 avis.",
+    "chapo": "LE KENNEDY exerce l'activité de café ou bar au 147 Rue Henri Barbusse, à Loos. Ouvert tous les jours sauf le lundi au relevé du 21 octobre 2026. Téléphone : 03 20 50 11 61. Note Google : 3,9 sur 5 pour 145 avis.",
     "sections": [
       {
         "id": "presentation",
         "titre": "LE KENNEDY en quelques mots",
         "paragraphes": [
           "Sur Google, l'établissement est classé « Magasin », dans notre rubrique Café ou bar.",
-          "D'après le relevé du 9 octobre 2026, l'établissement est ouvert tous les jours sauf le lundi. Le détail jour par jour figure plus bas."
+          "D'après le relevé du 21 octobre 2026, l'établissement est ouvert tous les jours sauf le lundi. Le détail jour par jour figure plus bas."
+        ]
+      },
+      {
+        "id": "prestations",
+        "titre": "Services et équipements de LE KENNEDY",
+        "paragraphes": [
+          "Non proposé selon la fiche Google : livraison.",
+          "Moyens de paiement déclarés : carte bancaire, carte de débit et paiement sans contact.",
+          "Ces indications sont déclarées par l'établissement sur sa fiche Google (relevé du 21 octobre 2026)."
         ]
       },
       {
@@ -176,18 +185,18 @@
         "id": "avis",
         "titre": "La réputation de LE KENNEDY",
         "paragraphes": [
-          "Note de 3,9 sur 5 pour 145 avis Google au relevé du 9 octobre 2026. Les avis se consultent sur la fiche Google, dont le lien figure sur cette page."
+          "Note de 3,9 sur 5 pour 145 avis Google au relevé du 21 octobre 2026. Les avis les plus parlants sont compilés ci-dessous, avec un lien vers la fiche d'origine."
         ]
       }
     ],
     "faq": [
       {
         "q": "Quels sont les horaires de LE KENNEDY ?",
-        "r": "Au relevé du 9 octobre 2026, LE KENNEDY était ouvert tous les jours sauf le lundi. Dans le détail — lundi : fermé ; mardi : de 7 h 30 à 13 h et de 16 h à 19 h 30 ; mercredi : de 7 h 30 à 13 h et de 16 h à 19 h 30 ; jeudi : de 7 h 30 à 13 h et de 16 h à 18 h ; vendredi : de 7 h 30 à 13 h et de 16 h à 19 h 30 ; samedi : de 8 h 30 à 13 h et de 16 h à 18 h ; dimanche : de 8 h 30 à 13 h 30. Ces horaires peuvent changer : un appel préalable reste conseillé."
+        "r": "Au relevé du 21 octobre 2026, LE KENNEDY était ouvert tous les jours sauf le lundi. Dans le détail — lundi : fermé ; mardi : de 7 h 30 à 13 h et de 16 h à 19 h 30 ; mercredi : de 7 h 30 à 13 h et de 16 h à 19 h 30 ; jeudi : de 7 h 30 à 13 h et de 16 h à 18 h ; vendredi : de 7 h 30 à 13 h et de 16 h à 19 h 30 ; samedi : de 8 h 30 à 13 h et de 16 h à 18 h ; dimanche : de 8 h 30 à 13 h 30. Ces horaires peuvent changer : un appel préalable reste conseillé."
       },
       {
         "q": "LE KENNEDY est-il ouvert le dimanche ?",
-        "r": "Oui : le dimanche, LE KENNEDY est ouvert de 8 h 30 à 13 h 30 (horaires relevés le 9 octobre 2026)."
+        "r": "Oui : le dimanche, LE KENNEDY est ouvert de 8 h 30 à 13 h 30 (horaires relevés le 21 octobre 2026)."
       },
       {
         "q": "Où se trouve LE KENNEDY ?",
@@ -196,9 +205,13 @@
       {
         "q": "Comment contacter LE KENNEDY ?",
         "r": "Par téléphone au 03 20 50 11 61, ou directement sur place aux heures d'ouverture."
+      },
+      {
+        "q": "LE KENNEDY propose-t-il la vente à emporter ou la livraison ?",
+        "r": "D'après sa fiche Google (relevé du 21 octobre 2026) — livraison : non."
       }
     ],
-    "genere_le": "2026-10-09"
+    "genere_le": "2026-10-21"
   },
   "statut_google": "OPERATIONAL",
   "audience": {
@@ -209,6 +222,68 @@
     "clicsRecents": 0,
     "fenetreRecenteJours": 28,
     "source": "search-console",
-    "date": "2026-10-20"
+    "date": "2026-10-21"
+  },
+  "avis_detail": {
+    "releve": "2026-10-21",
+    "liste": [
+      {
+        "note": 4,
+        "texte": "Bon bar tabac .\nPatron accueillant mais juge les gens sur leur physique et selon la classe sociale…",
+        "langue": "fr",
+        "date": "2026-08-07",
+        "auteur": "Maxime Torez",
+        "auteur_lien": "https://www.google.com/maps/contrib/101417379267818534785/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2t0b1IwcHlOSGwxWjBwZmFETmpaSE5JVkhaWlVsRRAB!2m1!1s0x47c2d5256aac5d25:0x8409bf9d6ad70aec"
+      },
+      {
+        "note": 2,
+        "texte": "J’ai été récupérer un colis pour mon bébé et l’odeur de cigarette de la salle a traversé le colis et l’article sentait terriblement la cigarette…",
+        "langue": "fr",
+        "date": "2026-02-18",
+        "auteur": "Deborah Vasseur",
+        "auteur_lien": "https://www.google.com/maps/contrib/102336798992684505638/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25GeVRWSkhZVVZOYURocFdsRkxlbXAzUTBGbWRGRRAB!2m1!1s0x47c2d5256aac5d25:0x8409bf9d6ad70aec"
+      },
+      {
+        "note": 5,
+        "texte": "Je connais la gérante depuis des années. Elle est accueillante, souriante, disponible et a toujours un mot gentil.\nPour un colis, ou un autre achat, je recommande vivement.",
+        "langue": "fr",
+        "date": "2025-10-22",
+        "auteur": "Mylène A",
+        "auteur_lien": "https://www.google.com/maps/contrib/112031801198818549366/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT21aclJFaE1UVmxLZEd4dVVHVTJkM1p5TFROdk5uYxAB!2m1!1s0x47c2d5256aac5d25:0x8409bf9d6ad70aec"
+      },
+      {
+        "note": 4,
+        "texte": "Je connais ce bar tabac depuis longtemps,je ne comprend pas les mauvais avis ,cette dame fait son travail,et si ont doit lui présenter un justificatif d identité,c Normal, merci d' être disponible pour la clientèle. Cela nous permet au moins de ne pas nous le faire voler dans notre boîte aux lettres",
+        "langue": "fr",
+        "date": "2025-02-26",
+        "auteur": "Moi Lillois",
+        "auteur_lien": "https://www.google.com/maps/contrib/112960039294442524147/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnTURnblpHdW5nRRAB!2m1!1s0x47c2d5256aac5d25:0x8409bf9d6ad70aec"
+      },
+      {
+        "note": 1,
+        "texte": "Ne peut pas mettre plus bas, domage\nQuand on accepte de récupérer des colis, le faire avec le sourire et non avec un accueil glacial. De plus le café est vide vers 10h30 en pleine semaine alors qu'on a l'impression de déranger. Changé de métier. Relation clientèle ne vous convient pas dutout !",
+        "langue": "fr",
+        "date": "2025-02-05",
+        "auteur": "Caroline Losfeld",
+        "auteur_lien": "https://www.google.com/maps/contrib/108295952206224822996/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnTUNBai1yOEhBEAE!2m1!1s0x47c2d5256aac5d25:0x8409bf9d6ad70aec"
+      }
+    ]
+  },
+  "services": {
+    "releve": "2026-10-21",
+    "options": {
+      "delivery": false
+    },
+    "paiement": [
+      "carte bancaire",
+      "carte de débit",
+      "paiement sans contact"
+    ],
+    "parking": []
   }
 }

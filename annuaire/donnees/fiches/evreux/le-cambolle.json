@@ -27,7 +27,7 @@
     "longitude": 1.1253568999999999
   },
   "note": 4.1,
-  "avis": 299,
+  "avis": 300,
   "horaires": [
     {
       "jour": 0,
@@ -108,8 +108,8 @@
     "etat": "absent",
     "premiere_detection": null,
     "derniere_detection": null,
-    "derniere_verification": "2026-10-09T16:58:32.124Z",
-    "echecs": 21,
+    "derniere_verification": "2026-10-21T10:04:27.997Z",
+    "echecs": 22,
     "url_detectee": null
   },
   "suggestion": {
@@ -122,22 +122,34 @@
   "dates": {
     "collecte": "2026-09-24",
     "publication": "2026-09-24",
-    "maj": "2026-10-09"
+    "maj": "2026-10-21"
   },
   "source": "google-places",
   "redaction": {
     "version": 2,
     "titre": "Le Cambolle — Café ou bar à Évreux",
     "meta_titre": "Le Cambolle à Évreux : horaires, avis",
-    "meta_description": "Le Cambolle, café ou bar à Évreux : horaires d'ouverture, note Google 4,1/5 (299 avis), adresse et itinéraire.",
-    "chapo": "Le Cambolle, café ou bar au 11 Avenue du Maréchal Foch, à Évreux. Ouvert sept jours sur sept au relevé du 9 octobre 2026. Note Google : 4,1 sur 5 pour 299 avis.",
+    "meta_description": "Le Cambolle, café ou bar à Évreux : horaires d'ouverture, note Google 4,1/5 (300 avis), adresse et itinéraire.",
+    "chapo": "Le Cambolle, café ou bar au 11 Avenue du Maréchal Foch, à Évreux. Ouvert sept jours sur sept au relevé du 21 octobre 2026. Note Google : 4,1 sur 5 pour 300 avis.",
     "sections": [
       {
         "id": "presentation",
         "titre": "Le Cambolle en quelques mots",
         "paragraphes": [
           "Sur Google, l'établissement est classé « Bar », dans notre rubrique Café ou bar.",
-          "D'après le relevé du 9 octobre 2026, l'établissement est ouvert sept jours sur sept. Le détail jour par jour figure plus bas."
+          "Niveau de prix indiqué sur la fiche Google : € (bon marché).",
+          "D'après le relevé du 21 octobre 2026, l'établissement est ouvert sept jours sur sept. Le détail jour par jour figure plus bas."
+        ]
+      },
+      {
+        "id": "prestations",
+        "titre": "Services et équipements de Le Cambolle",
+        "paragraphes": [
+          "Proposé : café, bière, vin, cocktails, adapté aux groupes, retransmissions sportives, chiens acceptés et toilettes.",
+          "Non proposé selon la fiche Google : à emporter, livraison, retrait en voiture, réservation possible, plats végétariens, adapté aux enfants et musique live.",
+          "Moyens de paiement déclarés : carte bancaire, carte de débit et paiement sans contact.",
+          "Stationnement : stationnement gratuit dans la rue.",
+          "Ces indications sont déclarées par l'établissement sur sa fiche Google (relevé du 21 octobre 2026)."
         ]
       },
       {
@@ -159,35 +171,126 @@
         "id": "avis",
         "titre": "La réputation de Le Cambolle",
         "paragraphes": [
-          "Note de 4,1 sur 5 pour 299 avis Google au relevé du 9 octobre 2026. Les avis se consultent sur la fiche Google, dont le lien figure sur cette page."
+          "Note de 4,1 sur 5 pour 300 avis Google au relevé du 21 octobre 2026. Les avis les plus parlants sont compilés ci-dessous, avec un lien vers la fiche d'origine."
         ]
       }
     ],
     "faq": [
       {
         "q": "Quels sont les horaires de Le Cambolle ?",
-        "r": "Au relevé du 9 octobre 2026, Le Cambolle était ouvert sept jours sur sept. Dans le détail — lundi : de 6 h 30 à 21 h ; mardi : de 6 h 30 à 21 h ; mercredi : de 6 h 30 à 21 h ; jeudi : de 6 h 30 à 21 h ; vendredi : de 6 h 30 à 21 h ; samedi : de 7 h 30 à 21 h ; dimanche : de 9 h à 21 h. Ces horaires peuvent changer : un appel préalable reste conseillé."
+        "r": "Au relevé du 21 octobre 2026, Le Cambolle était ouvert sept jours sur sept. Dans le détail — lundi : de 6 h 30 à 21 h ; mardi : de 6 h 30 à 21 h ; mercredi : de 6 h 30 à 21 h ; jeudi : de 6 h 30 à 21 h ; vendredi : de 6 h 30 à 21 h ; samedi : de 7 h 30 à 21 h ; dimanche : de 9 h à 21 h. Ces horaires peuvent changer : un appel préalable reste conseillé."
       },
       {
         "q": "Le Cambolle est-il ouvert le dimanche ?",
-        "r": "Oui : le dimanche, Le Cambolle est ouvert de 9 h à 21 h (horaires relevés le 9 octobre 2026)."
+        "r": "Oui : le dimanche, Le Cambolle est ouvert de 9 h à 21 h (horaires relevés le 21 octobre 2026)."
       },
       {
         "q": "Où se trouve Le Cambolle ?",
         "r": "Le Cambolle se trouve 11 Av. du Maréchal Foch, 27000 Évreux. Un lien d'itinéraire est disponible sur cette page."
+      },
+      {
+        "q": "Peut-on réserver chez Le Cambolle ?",
+        "r": "La fiche Google de Le Cambolle indique que la réservation n'est pas proposée."
+      },
+      {
+        "q": "Le Cambolle propose-t-il la vente à emporter ou la livraison ?",
+        "r": "D'après sa fiche Google (relevé du 21 octobre 2026) — vente à emporter : non ; livraison : non."
+      },
+      {
+        "q": "Quel est le niveau de prix de Le Cambolle ?",
+        "r": "Google classe Le Cambolle au niveau de prix € (bon marché), sur une échelle de € à €€€€ établie à partir des avis clients."
       }
     ],
-    "genere_le": "2026-10-09"
+    "genere_le": "2026-10-21"
   },
   "statut_google": "OPERATIONAL",
   "audience": {
     "clics": 0,
-    "impressions": 58,
+    "impressions": 59,
     "position": 8.6,
     "fenetreJours": 90,
     "clicsRecents": 0,
     "fenetreRecenteJours": 28,
     "source": "search-console",
-    "date": "2026-10-20"
+    "date": "2026-10-21"
+  },
+  "avis_detail": {
+    "releve": "2026-10-21",
+    "liste": [
+      {
+        "note": 4,
+        "texte": "Accueil agréable sur la route du boulot je prend souvent des carnet de timbre",
+        "langue": "fr",
+        "date": "2026-08-06",
+        "auteur": "Laura Maillard",
+        "auteur_lien": "https://www.google.com/maps/contrib/107382303262826164018/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xkdVN6WnZXR1Y2Y1hwTlJXUlBVSEpYV25GYVNrRRAB!2m1!1s0x47e140b188370c9f:0x9c78f88337e27cff"
+      },
+      {
+        "note": 5,
+        "texte": "Très agréable ! Parfait",
+        "langue": "fr",
+        "date": "2026-04-13",
+        "auteur": "Elodie Martins",
+        "auteur_lien": "https://www.google.com/maps/contrib/115483686556610606548/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2w5eWVtRlhObTV4T0ZWUVYyd3dXUzA0ZUZObmVWRRAB!2m1!1s0x47e140b188370c9f:0x9c78f88337e27cff"
+      },
+      {
+        "note": 2,
+        "texte": "Changement de propriétaire whaou c'est devenu un endroit incroyablement sale et sombre !! quel étonnement quand je suis rentré là dedans personnel Asiatique qui communique dans sa langue perso j'aime pas !! de quoi ils parlent ?",
+        "langue": "fr",
+        "date": "2026-01-30",
+        "auteur": "Patrick Dédit",
+        "auteur_lien": "https://www.google.com/maps/contrib/111461349062345023992/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2taaFRsaEJNM2cxVURKRk5EbFVjRzR5YTB4UWJYYxAB!2m1!1s0x47e140b188370c9f:0x9c78f88337e27cff"
+      },
+      {
+        "note": 4,
+        "texte": "Je vais juste y chercher des colis. J'ai toujours été bien reçue. Servi rapidement, c'est plutôt bien. Le bémol pour moi est la petite marche pour entrer.  Ce n'est pas pratique.",
+        "langue": "fr",
+        "date": "2025-01-17",
+        "auteur": "Carole Brahim",
+        "auteur_lien": "https://www.google.com/maps/contrib/109733481422550912115/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUNfaWYtOXV3RRAB!2m1!1s0x47e140b188370c9f:0x9c78f88337e27cff"
+      },
+      {
+        "note": 5,
+        "texte": "Le Tabac-Bar Cambolle a récemment changé de propriétaire, et l’accueil est vraiment agréable. Les nouveaux gérants sont gentils et courtois. C’est un endroit parfait pour boire un café ou prendre une bière. En plus, il est idéalement situé, juste en face d’une station de bus et à côté de l’hôpital Cambolle. Je recommande vivement !",
+        "langue": "fr",
+        "date": "2024-12-16",
+        "auteur": "catherine z",
+        "auteur_lien": "https://www.google.com/maps/contrib/103587287077669062370/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUN2djRYTTJnRRAB!2m1!1s0x47e140b188370c9f:0x9c78f88337e27cff"
+      }
+    ]
+  },
+  "services": {
+    "releve": "2026-10-21",
+    "prix": "PRICE_LEVEL_INEXPENSIVE",
+    "options": {
+      "takeout": false,
+      "delivery": false,
+      "curbsidePickup": false,
+      "reservable": false,
+      "servesVegetarianFood": false,
+      "servesCoffee": true,
+      "servesBeer": true,
+      "servesWine": true,
+      "servesCocktails": true,
+      "goodForChildren": false,
+      "goodForGroups": true,
+      "goodForWatchingSports": true,
+      "liveMusic": false,
+      "allowsDogs": true,
+      "restroom": true
+    },
+    "paiement": [
+      "carte bancaire",
+      "carte de débit",
+      "paiement sans contact"
+    ],
+    "parking": [
+      "stationnement gratuit dans la rue"
+    ]
   }
 }

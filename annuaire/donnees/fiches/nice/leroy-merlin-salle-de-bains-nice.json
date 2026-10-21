@@ -114,8 +114,8 @@
     "etat": "absent",
     "premiere_detection": null,
     "derniere_detection": null,
-    "derniere_verification": "2026-10-09T16:58:32.124Z",
-    "echecs": 1,
+    "derniere_verification": "2026-10-21T10:04:27.997Z",
+    "echecs": 2,
     "url_detectee": null
   },
   "suggestion": {
@@ -128,7 +128,7 @@
   "dates": {
     "collecte": "2026-10-09",
     "publication": "2026-10-09",
-    "maj": "2026-10-09"
+    "maj": "2026-10-21"
   },
   "source": "google-places",
   "redaction": {
@@ -136,14 +136,25 @@
     "titre": "Leroy Merlin Salle de bains Nice — Mode et équipement de la maison à Nice",
     "meta_titre": "Leroy Merlin Salle de bains Nice à Nice : horaires, avis",
     "meta_description": "Leroy Merlin Salle de bains Nice, mode et équipement de la maison à Nice : horaires d'ouverture, téléphone, adresse et itinéraire.",
-    "chapo": "Leroy Merlin Salle de bains Nice exerce l'activité de mode et équipement de la maison au 1 Rue Vernier, à Nice. Ouvert tous les jours sauf le dimanche au relevé du 9 octobre 2026. Téléphone : 07 57 90 34 22. Note Google : 4,5 sur 5 pour 107 avis.",
+    "chapo": "Leroy Merlin Salle de bains Nice exerce l'activité de mode et équipement de la maison au 1 Rue Vernier, à Nice. Ouvert tous les jours sauf le dimanche au relevé du 21 octobre 2026. Téléphone : 07 57 90 34 22. Note Google : 4,5 sur 5 pour 107 avis.",
     "sections": [
       {
         "id": "presentation",
         "titre": "Leroy Merlin Salle de bains Nice en quelques mots",
         "paragraphes": [
+          "Présentation donnée par Google : « Chaîne française de bricolage proposant du matériel de décoration et d’aménagement du jardin et de la maison. »",
           "Sur Google, l'établissement est classé « Magasin d'ameublement et de décoration », dans notre rubrique Mode et équipement de la maison.",
-          "D'après le relevé du 9 octobre 2026, l'établissement est ouvert tous les jours sauf le dimanche. Le détail jour par jour figure plus bas."
+          "D'après le relevé du 21 octobre 2026, l'établissement est ouvert tous les jours sauf le dimanche. Le détail jour par jour figure plus bas."
+        ]
+      },
+      {
+        "id": "prestations",
+        "titre": "Services et équipements de Leroy Merlin Salle de bains Nice",
+        "paragraphes": [
+          "Proposé : livraison et toilettes.",
+          "Non proposé selon la fiche Google : retrait en voiture.",
+          "Moyens de paiement déclarés : carte bancaire, carte de débit et paiement sans contact.",
+          "Ces indications sont déclarées par l'établissement sur sa fiche Google (relevé du 21 octobre 2026)."
         ]
       },
       {
@@ -165,18 +176,18 @@
         "id": "avis",
         "titre": "La réputation de Leroy Merlin Salle de bains Nice",
         "paragraphes": [
-          "Note de 4,5 sur 5 pour 107 avis Google au relevé du 9 octobre 2026. Les avis se consultent sur la fiche Google, dont le lien figure sur cette page."
+          "Note de 4,5 sur 5 pour 107 avis Google au relevé du 21 octobre 2026. Les avis les plus parlants sont compilés ci-dessous, avec un lien vers la fiche d'origine."
         ]
       }
     ],
     "faq": [
       {
         "q": "Quels sont les horaires de Leroy Merlin Salle de bains Nice ?",
-        "r": "Au relevé du 9 octobre 2026, Leroy Merlin Salle de bains Nice était ouvert tous les jours sauf le dimanche. Dans le détail — lundi : de 10 h à 19 h ; mardi : de 10 h à 19 h ; mercredi : de 10 h à 19 h ; jeudi : de 10 h à 19 h ; vendredi : de 10 h à 19 h ; samedi : de 10 h à 19 h ; dimanche : fermé. Ces horaires peuvent changer : un appel préalable reste conseillé."
+        "r": "Au relevé du 21 octobre 2026, Leroy Merlin Salle de bains Nice était ouvert tous les jours sauf le dimanche. Dans le détail — lundi : de 10 h à 19 h ; mardi : de 10 h à 19 h ; mercredi : de 10 h à 19 h ; jeudi : de 10 h à 19 h ; vendredi : de 10 h à 19 h ; samedi : de 10 h à 19 h ; dimanche : fermé. Ces horaires peuvent changer : un appel préalable reste conseillé."
       },
       {
         "q": "Leroy Merlin Salle de bains Nice est-il ouvert le dimanche ?",
-        "r": "Non : d'après les horaires relevés le 9 octobre 2026, Leroy Merlin Salle de bains Nice est fermé le dimanche."
+        "r": "Non : d'après les horaires relevés le 21 octobre 2026, Leroy Merlin Salle de bains Nice est fermé le dimanche."
       },
       {
         "q": "Où se trouve Leroy Merlin Salle de bains Nice ?",
@@ -187,11 +198,15 @@
         "r": "Par téléphone au 07 57 90 34 22, ou directement sur place aux heures d'ouverture."
       },
       {
+        "q": "Leroy Merlin Salle de bains Nice propose-t-il la vente à emporter ou la livraison ?",
+        "r": "D'après sa fiche Google (relevé du 21 octobre 2026) — livraison : oui."
+      },
+      {
         "q": "Leroy Merlin Salle de bains Nice est-il accessible aux personnes à mobilité réduite ?",
         "r": "La fiche Google de l'établissement mentionne : « Entrée accessible en fauteuil roulant ». Cette information est déclarative ; en cas de doute, vérifiez par téléphone."
       }
     ],
-    "genere_le": "2026-10-09"
+    "genere_le": "2026-10-21"
   },
   "statut_google": "OPERATIONAL",
   "audience": {
@@ -202,6 +217,72 @@
     "clicsRecents": 0,
     "fenetreRecenteJours": 28,
     "source": "search-console",
-    "date": "2026-10-20"
+    "date": "2026-10-21"
+  },
+  "avis_detail": {
+    "releve": "2026-10-21",
+    "liste": [
+      {
+        "note": 5,
+        "texte": "Christophe m'a bien orienté et accompagné dans la création et l'ameublement de ma salle de bain !\nUn service de qualité ! À l'écoute et bon accueil.\nUne fierté pour cette enseigne française",
+        "langue": "fr",
+        "date": "2026-08-22",
+        "auteur": "Mehdi",
+        "auteur_lien": "https://www.google.com/maps/contrib/109129414244723980334/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2kxbGNuRXRkRFJuUlZsTVVqaDROQzFwWlhwTGVIYxAB!2m1!1s0x12cdd1ea21d68657:0x5274cc8ce25758be"
+      },
+      {
+        "note": 5,
+        "texte": "Très satisfaite du service chez Leroy Merlin Salle de bains Nice. Je voulais remercier Peggy qui a su me guider et bien conseiller pour mon projet de salle de bain. Je recommande !",
+        "langue": "fr",
+        "date": "2026-07-06",
+        "auteur": "Daniela Zandona",
+        "auteur_lien": "https://www.google.com/maps/contrib/111899324150252783115/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25ScVVIUjVhMjl0VEV0bFZIZDNRbWw1WHpWVFVFRRAB!2m1!1s0x12cdd1ea21d68657:0x5274cc8ce25758be"
+      },
+      {
+        "note": 5,
+        "texte": "Madame Peggy est une personne très professionnelle, toujours à l’écoute et de très bon conseil. Son sérieux, son implication et la qualité de son accompagnement font réellement la différence. Elle sait guider avec justesse et bienveillance, ce qui est très appréciable. Au vu de son investissement et de ses compétences, elle mérite pleinement une augmentation.",
+        "langue": "fr",
+        "date": "2026-01-16",
+        "auteur": "Fabri Aleksander",
+        "auteur_lien": "https://www.google.com/maps/contrib/112865617048655131210/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2tWa1ptZEdkMFpIVFVsRGNIQkZObXhMVDJkQlNWRRAB!2m1!1s0x12cdd1ea21d68657:0x5274cc8ce25758be"
+      },
+      {
+        "note": 5,
+        "texte": "🌟 Expérience d'Achat, Livraison et Montage : Tout Simplement EXCELLENT ! 🌟\nJe tiens à exprimer ma plus grande satisfaction concernant l'ensemble de mon expérience avec Leroy Merlin, de la conception au montage final. Un service vraiment 5 étoiles sur toute la ligne !\n\n✍️ Conception, Commande et Vente : Professionnalisme et Compétence\nUn merci tout particulier à Peggy, la conseillère qui m'a suivi. Sa compétence, son expérience et sa disponibilité ont été fondamentales. Elle m'a guidé avec un grand professionnalisme dans la phase de conception et de commande, fournissant de précieux conseils et s'assurant que chaque détail était pris en compte. Un exemple d'excellence dans le service client !\n\n🚚 Livraison : Ponctualité et Précision Impeccables\nLa phase de livraison a également été gérée de manière impeccable. Les transporteurs se sont montrés ponctuels et précis sur les horaires convenus, gérant la livraison de manière efficace et sans aucun problème.\n\n🛠️ Montage : Maîtres Artisans, Soucieux du Détail et Soignés\nLa véritable valeur ajoutée a été le service de montage. Tudor et son équipe ont été tout simplement incroyables !\n\nSouci du détail : Ils ont fait preuve d'une attention méticuleuse pour chaque aspect du montage.\n\nPropreté et Organisation : Ils ont travaillé de manière propre, organisée et respectueuse des lieux, laissant l'espace impeccable à la fin des travaux.\n\nProfessionnalisme : Ce sont de véritables artisans, extrêmement compétents et attentifs à satisfaire toutes mes attentes.\n\nEn résumé, l'ensemble du processus a été un exemple d'efficacité, de professionnalisme et de qualité. Je recommande vivement Leroy Merlin, et en particulier l'équipe de Peggy et l'équipe de montage de Tudor, à quiconque recherche un service de très haut niveau.\n\nFélicitations à tout le personnel !",
+        "langue": "fr",
+        "date": "2025-10-24",
+        "auteur": "Sylvie",
+        "auteur_lien": "https://www.google.com/maps/contrib/114683691162011465415/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2tvdE16WnRjRGhSVmxKU05XSmxObVY0V0hSemNYYxAB!2m1!1s0x12cdd1ea21d68657:0x5274cc8ce25758be"
+      },
+      {
+        "note": 5,
+        "texte": "Leroy-Merlin a fait les travaux suivants dans notre salle de bain: nouveau lavabo avec miroir, nouveau plancher et un nouveau clim Dainkin. On les a faits dans la première semaine du mois de mars 2024.\nLa qulaité est très bonne. Les travaux sont soigneusement faits. La cumunication avev Mme Mélanie Pochon était très bonne.\nKatharina et Georg Gratwohl\nSuisse",
+        "langue": "fr",
+        "date": "2024-03-13",
+        "auteur": "Georg Gratwohl",
+        "auteur_lien": "https://www.google.com/maps/contrib/114295799230476267864/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUQ5cFA3bzlBRRAB!2m1!1s0x12cdd1ea21d68657:0x5274cc8ce25758be"
+      }
+    ]
+  },
+  "services": {
+    "releve": "2026-10-21",
+    "resume": "Chaîne française de bricolage proposant du matériel de décoration et d’aménagement du jardin et de la maison.",
+    "resume_langue": "fr",
+    "options": {
+      "delivery": true,
+      "curbsidePickup": false,
+      "restroom": true
+    },
+    "paiement": [
+      "carte bancaire",
+      "carte de débit",
+      "paiement sans contact"
+    ],
+    "parking": []
   }
 }

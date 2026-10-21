@@ -1,0 +1,294 @@
+{
+  "id": "ChIJx2zDff4vBEgRio2krzZ_frQ",
+  "slug": "clinique-veterinaire-du-plessis",
+  "nom": "CLINIQUE VETERINAIRE DU PLESSIS",
+  "categorie": "veterinaires-animaux",
+  "categorie_gmb": "Soins vétérinaires",
+  "type_principal": "veterinary_care",
+  "types": [
+    "veterinary_care",
+    "pet_care",
+    "health",
+    "point_of_interest",
+    "service",
+    "establishment"
+  ],
+  "ville": "La Roche-sur-Yon",
+  "ville_slug": "la-roche-sur-yon",
+  "adresse": {
+    "rue": "177 Rue Roger Salengro",
+    "code_postal": "85000",
+    "departement": "85",
+    "region": "Pays de la Loire",
+    "pays": "France",
+    "complete": "177 Rue Roger Salengro, 85000 La Roche-sur-Yon"
+  },
+  "telephone": "02 51 37 11 70",
+  "geo": {
+    "latitude": 46.6656779,
+    "longitude": -1.4463716
+  },
+  "note": 4.8,
+  "avis": 346,
+  "horaires": [
+    {
+      "jour": 0,
+      "ferme": false,
+      "creneaux": [
+        [
+          "08:30",
+          "13:00"
+        ],
+        [
+          "14:00",
+          "19:00"
+        ]
+      ]
+    },
+    {
+      "jour": 1,
+      "ferme": false,
+      "creneaux": [
+        [
+          "08:30",
+          "13:00"
+        ],
+        [
+          "14:00",
+          "19:00"
+        ]
+      ]
+    },
+    {
+      "jour": 2,
+      "ferme": false,
+      "creneaux": [
+        [
+          "08:30",
+          "13:00"
+        ],
+        [
+          "14:00",
+          "19:00"
+        ]
+      ]
+    },
+    {
+      "jour": 3,
+      "ferme": false,
+      "creneaux": [
+        [
+          "08:30",
+          "13:00"
+        ],
+        [
+          "14:00",
+          "19:00"
+        ]
+      ]
+    },
+    {
+      "jour": 4,
+      "ferme": false,
+      "creneaux": [
+        [
+          "08:30",
+          "13:00"
+        ],
+        [
+          "14:00",
+          "19:00"
+        ]
+      ]
+    },
+    {
+      "jour": 5,
+      "ferme": false,
+      "creneaux": [
+        [
+          "09:00",
+          "17:00"
+        ]
+      ]
+    },
+    {
+      "jour": 6,
+      "ferme": false,
+      "creneaux": [
+        [
+          "09:00",
+          "17:00"
+        ]
+      ]
+    }
+  ],
+  "attributs": [
+    "Entrée accessible en fauteuil roulant",
+    "Parking accessible en fauteuil roulant",
+    "Toilettes accessibles en fauteuil roulant",
+    "Places assises accessibles en fauteuil roulant"
+  ],
+  "lien_google": "https://maps.google.com/?cid=13005972646744329610&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
+  "site_web_gmb": null,
+  "statut": "publiee",
+  "backlink": {
+    "etat": "absent",
+    "premiere_detection": null,
+    "derniere_detection": null,
+    "derniere_verification": "2026-10-21T10:04:27.997Z",
+    "echecs": 1,
+    "url_detectee": null
+  },
+  "suggestion": {
+    "etat": "en-attente",
+    "date_soumission": null,
+    "tentatives": 0,
+    "date_email": "2026-10-21"
+  },
+  "retrait": null,
+  "dates": {
+    "collecte": "2026-10-21",
+    "publication": "2026-10-21",
+    "maj": "2026-10-21"
+  },
+  "source": "google-places",
+  "avis_detail": {
+    "releve": "2026-10-21",
+    "liste": [
+      {
+        "note": 5,
+        "texte": "Un grand merci au vétérinaire qui m'a gentiment reçu aujourd'hui. J'ai été envoyé vers cette clinique par le service de régulation des urgences vétérinaire n'arrivant pas à joindre le vétérinaire de garde de la clinique où mes animaux sont suivis habituellement... Et je ne le regrette pas ! Mimi mon chat est passé sous une voiture, malgré un planning d'urgence bien chargé le docteur n'a pas hésité une seconde à me recevoir.\nJe suis tombé sur une personne calme, sympathique et surtout très professionnel ! Après quelques examens et radios Mimi s'en sort avec quelques plaies ainsi que des douleurs dûes aux rouliboulis sous la voiture ! Un vrai miracle ! J'ai été épaté par la bienveillance avec laquelle ce monsieur répondait aux appels et aux visiteurs... Pas toujours pour des urgences... Nous sommes le 15 août... Et le docteur se rend disponible. Je suis ravie d'avoir trouvé cette clinique malgré les circonstances aux services impeccables pratiquant des tarifs extrêmement raisonnable. Merci encore !",
+        "langue": "fr",
+        "date": "2026-08-15",
+        "auteur": "Stephanie Soudet",
+        "auteur_lien": "https://www.google.com/maps/contrib/106892237883629651070/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2tKbFUxaHBUWFYwYnpGYVJtOXRTMWxpTVdaQlRrRRAB!2m1!1s0x48042ffe7dc36cc7:0xb47e7f36afa48d8a"
+      },
+      {
+        "note": 5,
+        "texte": "Un immense merci à ce vétérinaire pour sa prise en charge exceptionnelle ! Notre lapin est arrivé un dimanche avec un œil qui saignait. Il a été pris en charge rapidement, avec beaucoup de professionnalisme et de douceur. Le traitement mis en place (notamment les antibiotiques) a été très efficace, et grâce à ses soins, notre lapin va aujourd’hui très bien.\n\nC’est rassurant de pouvoir compter sur un vétérinaire aussi compétent, disponible et à l’écoute, même en urgence le week-end. Nous recommandons ce cabinet les yeux fermés. Encore merci pour tout !",
+        "langue": "fr",
+        "date": "2026-08-05",
+        "auteur": "Brouillard Yoann",
+        "auteur_lien": "https://www.google.com/maps/contrib/113151137006212012699/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2tscGMwbEtNRTFaVm1OWE5IVnhRelJxYlhOek1HYxAB!2m1!1s0x48042ffe7dc36cc7:0xb47e7f36afa48d8a"
+      },
+      {
+        "note": 5,
+        "texte": "Quel bonheur cette consultation le docteur est a l'ecoute ses explications sont claires et nettes\nJe recommande\nEncore une question, Docteur ce qui arrive a sa peau est ce contagieux pour l'homme ?\nDocteur peut on partir une quinzaine de jours?\nMerci encore\nBien cordialement\nCi joint photo quand il se repose!",
+        "langue": "fr",
+        "date": "2026-07-06",
+        "auteur": "Dominique Poyau",
+        "auteur_lien": "https://www.google.com/maps/contrib/115171226263647041396/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2tsd09FNUtVeTAyU1hKYVRFTXlUMmxYVGxCaVdrRRAB!2m1!1s0x48042ffe7dc36cc7:0xb47e7f36afa48d8a"
+      },
+      {
+        "note": 5,
+        "texte": "Je recommande cette clinique vétérinaire. Un rapport qualité prix intéressant, une grande amplitude horaire, et un vétérinaire très professionnel et arrangeant. Il s’est occupé de mon chaton qui s’était ouvert la patte arrière, le suivi a été niquel,(collerette et bandage a changé régulièrement)tout s’est très bien passé.\nJ’ajoute également que sa secrétaire est accueillante et souriante.\nMerci encore pour cette petite rebelle !",
+        "langue": "fr",
+        "date": "2026-03-24",
+        "auteur": "Lou-Ann Hougard",
+        "auteur_lien": "https://www.google.com/maps/contrib/116450131463988782221/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2tKeWMwbGFaSEJuU0hCTmFHVmxUSGhsUldSUmRYYxAB!2m1!1s0x48042ffe7dc36cc7:0xb47e7f36afa48d8a"
+      },
+      {
+        "note": 5,
+        "texte": "Enfin un vétérinaire plein de douceur, d’empathie et d’écoute.\nIl a pris le temps de se mettre au niveau de ma chienne, de lui parler doucement, de la rassurer jusqu’à ce qu’elle se calme et ne tremble plus. On sent une vraie attention portée à l’animal, dans le respect de son rythme et de ses émotions.\nAu-delà de cette approche profondément humaine, j’ai aussi reçu d’excellents conseils, très clairs et pertinents, notamment sur la pathologie de ma chienne — des informations que je n’avais encore jamais eues auparavant.\nUne gentillesse très professionnelle, une vraie présence, et surtout le sentiment d’être enfin écoutée, autant que mon chien.\nJe recommande sans hésitation.",
+        "langue": "fr",
+        "date": "2026-01-03",
+        "auteur": "Kary",
+        "auteur_lien": "https://www.google.com/maps/contrib/103664505104924801795/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2kxTGNWOW1WV2cwWWpCRVUxZHZlWHAwYTNkc2FWRRAB!2m1!1s0x48042ffe7dc36cc7:0xb47e7f36afa48d8a"
+      }
+    ]
+  },
+  "services": {
+    "releve": "2026-10-21",
+    "options": {
+      "restroom": true
+    },
+    "paiement": [],
+    "parking": []
+  },
+  "redaction": {
+    "version": 2,
+    "titre": "CLINIQUE VETERINAIRE DU PLESSIS — Vétérinaire et animaux à La Roche-sur-Yon",
+    "meta_titre": "CLINIQUE VETERINAIRE DU PLESSIS : horaires, avis, téléphone",
+    "meta_description": "CLINIQUE VETERINAIRE DU PLESSIS, vétérinaire et animaux à La Roche-sur-Yon : horaires d'ouverture, téléphone, adresse et itinéraire.",
+    "chapo": "Cette fiche présente CLINIQUE VETERINAIRE DU PLESSIS, un vétérinaire et animaux au 177 Rue Roger Salengro, à La Roche-sur-Yon. Ouvert sept jours sur sept au relevé du 21 octobre 2026. Téléphone : 02 51 37 11 70. Note Google : 4,8 sur 5 pour 346 avis.",
+    "sections": [
+      {
+        "id": "presentation",
+        "titre": "CLINIQUE VETERINAIRE DU PLESSIS en quelques mots",
+        "paragraphes": [
+          "Sur Google, l'établissement est classé « Soins vétérinaires », dans notre rubrique Vétérinaire et animaux.",
+          "D'après le relevé du 21 octobre 2026, l'établissement est ouvert sept jours sur sept. Le détail jour par jour figure plus bas."
+        ]
+      },
+      {
+        "id": "prestations",
+        "titre": "Services et équipements de CLINIQUE VETERINAIRE DU PLESSIS",
+        "paragraphes": [
+          "Proposé : toilettes.",
+          "Ces indications sont déclarées par l'établissement sur sa fiche Google (relevé du 21 octobre 2026)."
+        ]
+      },
+      {
+        "id": "acces",
+        "titre": "Adresse et accès",
+        "paragraphes": [
+          "L'établissement est situé au 177 Rue Roger Salengro, 85000 La Roche-sur-Yon.",
+          "Coordonnées GPS : 46.66568, -1.44637. Le bouton Itinéraire de cette page ouvre la navigation."
+        ]
+      },
+      {
+        "id": "contact",
+        "titre": "Contacter CLINIQUE VETERINAIRE DU PLESSIS",
+        "paragraphes": [
+          "Le contact se fait par téléphone au 02 51 37 11 70, ou directement sur place aux horaires d'ouverture."
+        ]
+      },
+      {
+        "id": "avis",
+        "titre": "La réputation de CLINIQUE VETERINAIRE DU PLESSIS",
+        "paragraphes": [
+          "Note de 4,8 sur 5 pour 346 avis Google au relevé du 21 octobre 2026. Les avis les plus parlants sont compilés ci-dessous, avec un lien vers la fiche d'origine."
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "q": "Quels sont les horaires de CLINIQUE VETERINAIRE DU PLESSIS ?",
+        "r": "Au relevé du 21 octobre 2026, CLINIQUE VETERINAIRE DU PLESSIS était ouvert sept jours sur sept. Dans le détail — lundi : de 8 h 30 à 13 h et de 14 h à 19 h ; mardi : de 8 h 30 à 13 h et de 14 h à 19 h ; mercredi : de 8 h 30 à 13 h et de 14 h à 19 h ; jeudi : de 8 h 30 à 13 h et de 14 h à 19 h ; vendredi : de 8 h 30 à 13 h et de 14 h à 19 h ; samedi : de 9 h à 17 h ; dimanche : de 9 h à 17 h. Ces horaires peuvent changer : un appel préalable reste conseillé."
+      },
+      {
+        "q": "CLINIQUE VETERINAIRE DU PLESSIS est-il ouvert le dimanche ?",
+        "r": "Oui : le dimanche, CLINIQUE VETERINAIRE DU PLESSIS est ouvert de 9 h à 17 h (horaires relevés le 21 octobre 2026)."
+      },
+      {
+        "q": "Où se trouve CLINIQUE VETERINAIRE DU PLESSIS ?",
+        "r": "CLINIQUE VETERINAIRE DU PLESSIS se trouve 177 Rue Roger Salengro, 85000 La Roche-sur-Yon. Un lien d'itinéraire est disponible sur cette page."
+      },
+      {
+        "q": "Comment contacter CLINIQUE VETERINAIRE DU PLESSIS ?",
+        "r": "Par téléphone au 02 51 37 11 70, ou directement sur place aux heures d'ouverture."
+      },
+      {
+        "q": "CLINIQUE VETERINAIRE DU PLESSIS est-il accessible aux personnes à mobilité réduite ?",
+        "r": "La fiche Google de l'établissement mentionne : « Entrée accessible en fauteuil roulant ». Cette information est déclarative ; en cas de doute, vérifiez par téléphone."
+      }
+    ],
+    "genere_le": "2026-10-21"
+  },
+  "statut_google": "OPERATIONAL",
+  "audience": {
+    "clics": 0,
+    "impressions": 0,
+    "position": null,
+    "fenetreJours": 90,
+    "clicsRecents": 0,
+    "fenetreRecenteJours": 28,
+    "source": "search-console",
+    "date": "2026-10-21"
+  }
+}

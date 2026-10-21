@@ -1,0 +1,270 @@
+{
+  "id": "ChIJBczuxipI3UcRkhot8lPcN5g",
+  "slug": "scania-arras",
+  "nom": "Scania Arras",
+  "categorie": "garages-automobile",
+  "categorie_gmb": "Garage automobile",
+  "type_principal": "car_repair",
+  "types": [
+    "car_repair",
+    "point_of_interest",
+    "service",
+    "establishment"
+  ],
+  "ville": "Saint-Laurent-Blangy",
+  "ville_slug": "saint-laurent-blangy",
+  "adresse": {
+    "rue": "140 Rue Commios",
+    "code_postal": "62223",
+    "departement": "62",
+    "region": "Hauts-de-France",
+    "pays": "France",
+    "complete": "140 Rue Commios, 62223 Saint-Laurent-Blangy"
+  },
+  "telephone": "03 21 55 43 16",
+  "geo": {
+    "latitude": 50.3118562,
+    "longitude": 2.8237991
+  },
+  "note": 4.6,
+  "avis": 35,
+  "horaires": [
+    {
+      "jour": 0,
+      "ferme": false,
+      "creneaux": [
+        [
+          "08:00",
+          "18:00"
+        ]
+      ]
+    },
+    {
+      "jour": 1,
+      "ferme": false,
+      "creneaux": [
+        [
+          "08:00",
+          "18:00"
+        ]
+      ]
+    },
+    {
+      "jour": 2,
+      "ferme": false,
+      "creneaux": [
+        [
+          "08:00",
+          "18:00"
+        ]
+      ]
+    },
+    {
+      "jour": 3,
+      "ferme": false,
+      "creneaux": [
+        [
+          "08:00",
+          "18:00"
+        ]
+      ]
+    },
+    {
+      "jour": 4,
+      "ferme": false,
+      "creneaux": [
+        [
+          "08:00",
+          "18:00"
+        ]
+      ]
+    },
+    {
+      "jour": 5,
+      "ferme": false,
+      "creneaux": [
+        [
+          "08:00",
+          "12:00"
+        ]
+      ]
+    },
+    {
+      "jour": 6,
+      "ferme": true,
+      "creneaux": []
+    }
+  ],
+  "attributs": [
+    "Entrée accessible en fauteuil roulant",
+    "Parking accessible en fauteuil roulant",
+    "Toilettes accessibles en fauteuil roulant"
+  ],
+  "lien_google": "https://maps.google.com/?cid=10968477670587570834&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
+  "site_web_gmb": null,
+  "statut": "publiee",
+  "backlink": {
+    "etat": "absent",
+    "premiere_detection": null,
+    "derniere_detection": null,
+    "derniere_verification": "2026-10-21T10:04:27.997Z",
+    "echecs": 1,
+    "url_detectee": null
+  },
+  "suggestion": {
+    "etat": "en-attente",
+    "date_soumission": null,
+    "tentatives": 0,
+    "date_email": "2026-10-21"
+  },
+  "retrait": null,
+  "dates": {
+    "collecte": "2026-10-21",
+    "publication": "2026-10-21",
+    "maj": "2026-10-21"
+  },
+  "source": "google-places",
+  "avis_detail": {
+    "releve": "2026-10-21",
+    "liste": [
+      {
+        "note": 5,
+        "texte": "Efficacité, réactivité et rapidité\nPersonnel au top\nJe recommande",
+        "langue": "fr",
+        "date": "2026-07-10",
+        "auteur": "Julien Ledeux",
+        "auteur_lien": "https://www.google.com/maps/contrib/108084409193655563065/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2s5WGFHeEJiVXhOYjJ4bU5HWkNTR1JUVVVOSWNVRRAB!2m1!1s0x47dd482ac6eecc05:0x9837dc53f22d1a92"
+      },
+      {
+        "note": 5,
+        "texte": "Pour ma première visite chez eux jai étais agréablement surpris .très bon accueil  et mécanos efficace 👍👍",
+        "langue": "fr",
+        "date": "2026-06-24",
+        "auteur": "Philippe Delvallez",
+        "auteur_lien": "https://www.google.com/maps/contrib/107850250619115230060/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xob2RUSnJkSEpqYjIxNFgwMWZZbWRZV1dSbE1VRRAB!2m1!1s0x47dd482ac6eecc05:0x9837dc53f22d1a92"
+      },
+      {
+        "note": 4,
+        "texte": "Très bien reçu personnel agréable et souriant et à votre écoute merci à vous",
+        "langue": "fr",
+        "date": "2026-01-20",
+        "auteur": "marcmouche",
+        "auteur_lien": "https://www.google.com/maps/contrib/100495575570284648383/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2w5b1JVRkVlVU5rU1RsWE5IbHBhRjluUmpRd1VtYxAB!2m1!1s0x47dd482ac6eecc05:0x9837dc53f22d1a92"
+      },
+      {
+        "note": 5,
+        "texte": "Je m y suis rendu ce midi pour une panne de batterie,  alors j ai eu un très bonne acceuil  rapide mécanicien au top et très gentil donc je vous conseille cette concession scania",
+        "langue": "fr",
+        "date": "2025-07-09",
+        "auteur": "daniel berlin",
+        "auteur_lien": "https://www.google.com/maps/contrib/103898772898371733326/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2tWcmFuWkJlRXhzTWpsdU5EQlFPVFJHVW5KZmJsRRAB!2m1!1s0x47dd482ac6eecc05:0x9837dc53f22d1a92"
+      },
+      {
+        "note": 5,
+        "texte": "Au top,accueil super sympa,ils ont regardé mon camion aussitôt et réparer dans la foulée,efficace 👍",
+        "langue": "fr",
+        "date": "2024-05-28",
+        "auteur": "Mickael Lebunetelle",
+        "auteur_lien": "https://www.google.com/maps/contrib/102052599889126631347/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSURUbTkzd0d3EAE!2m1!1s0x47dd482ac6eecc05:0x9837dc53f22d1a92"
+      }
+    ]
+  },
+  "services": {
+    "releve": "2026-10-21",
+    "options": {
+      "restroom": true
+    },
+    "paiement": [
+      "carte bancaire",
+      "carte de débit"
+    ],
+    "parking": []
+  },
+  "redaction": {
+    "version": 2,
+    "titre": "Scania Arras — Garage et automobile à Saint-Laurent-Blangy",
+    "meta_titre": "Scania Arras à Saint-Laurent-Blangy : horaires, avis",
+    "meta_description": "Scania Arras, garage et automobile à Saint-Laurent-Blangy : horaires d'ouverture, note Google 4,6/5 (35 avis), téléphone, adresse et itinéraire.",
+    "chapo": "Scania Arras est un garage et automobile au 140 Rue Commios, à Saint-Laurent-Blangy. Ouvert tous les jours sauf le dimanche au relevé du 21 octobre 2026. Téléphone : 03 21 55 43 16. Note Google : 4,6 sur 5 pour 35 avis.",
+    "sections": [
+      {
+        "id": "presentation",
+        "titre": "Scania Arras en quelques mots",
+        "paragraphes": [
+          "Sur Google, l'établissement est classé « Garage automobile », dans notre rubrique Garage et automobile.",
+          "D'après le relevé du 21 octobre 2026, l'établissement est ouvert tous les jours sauf le dimanche. Le détail jour par jour figure plus bas."
+        ]
+      },
+      {
+        "id": "prestations",
+        "titre": "Services et équipements de Scania Arras",
+        "paragraphes": [
+          "Proposé : toilettes.",
+          "Moyens de paiement déclarés : carte bancaire et carte de débit.",
+          "Ces indications sont déclarées par l'établissement sur sa fiche Google (relevé du 21 octobre 2026)."
+        ]
+      },
+      {
+        "id": "acces",
+        "titre": "Adresse et accès",
+        "paragraphes": [
+          "L'établissement est situé au 140 Rue Commios, 62223 Saint-Laurent-Blangy.",
+          "Coordonnées GPS : 50.31186, 2.82380. Le bouton Itinéraire de cette page ouvre la navigation."
+        ]
+      },
+      {
+        "id": "contact",
+        "titre": "Contacter Scania Arras",
+        "paragraphes": [
+          "Le contact se fait par téléphone au 03 21 55 43 16, ou directement sur place aux horaires d'ouverture."
+        ]
+      },
+      {
+        "id": "avis",
+        "titre": "La réputation de Scania Arras",
+        "paragraphes": [
+          "Note de 4,6 sur 5 pour 35 avis Google au relevé du 21 octobre 2026. Les avis les plus parlants sont compilés ci-dessous, avec un lien vers la fiche d'origine."
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "q": "Quels sont les horaires de Scania Arras ?",
+        "r": "Au relevé du 21 octobre 2026, Scania Arras était ouvert tous les jours sauf le dimanche. Dans le détail — lundi : de 8 h à 18 h ; mardi : de 8 h à 18 h ; mercredi : de 8 h à 18 h ; jeudi : de 8 h à 18 h ; vendredi : de 8 h à 18 h ; samedi : de 8 h à 12 h ; dimanche : fermé. Ces horaires peuvent changer : un appel préalable reste conseillé."
+      },
+      {
+        "q": "Scania Arras est-il ouvert le dimanche ?",
+        "r": "Non : d'après les horaires relevés le 21 octobre 2026, Scania Arras est fermé le dimanche."
+      },
+      {
+        "q": "Où se trouve Scania Arras ?",
+        "r": "Scania Arras se trouve 140 Rue Commios, 62223 Saint-Laurent-Blangy. Un lien d'itinéraire est disponible sur cette page."
+      },
+      {
+        "q": "Comment contacter Scania Arras ?",
+        "r": "Par téléphone au 03 21 55 43 16, ou directement sur place aux heures d'ouverture."
+      },
+      {
+        "q": "Scania Arras est-il accessible aux personnes à mobilité réduite ?",
+        "r": "La fiche Google de l'établissement mentionne : « Entrée accessible en fauteuil roulant ». Cette information est déclarative ; en cas de doute, vérifiez par téléphone."
+      }
+    ],
+    "genere_le": "2026-10-21"
+  },
+  "statut_google": "OPERATIONAL",
+  "audience": {
+    "clics": 0,
+    "impressions": 0,
+    "position": null,
+    "fenetreJours": 90,
+    "clicsRecents": 0,
+    "fenetreRecenteJours": 28,
+    "source": "search-console",
+    "date": "2026-10-21"
+  }
+}

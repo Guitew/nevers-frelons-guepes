@@ -35,7 +35,7 @@
     "longitude": -0.328296
   },
   "note": 4.1,
-  "avis": 1142,
+  "avis": 1143,
   "horaires": [
     {
       "jour": 0,
@@ -143,8 +143,8 @@
     "etat": "absent",
     "premiere_detection": null,
     "derniere_detection": null,
-    "derniere_verification": "2026-10-09T16:58:32.124Z",
-    "echecs": 68,
+    "derniere_verification": "2026-10-21T10:04:27.997Z",
+    "echecs": 69,
     "url_detectee": null
   },
   "suggestion": {
@@ -162,22 +162,31 @@
   "dates": {
     "collecte": "2026-09-01",
     "publication": "2026-09-01",
-    "maj": "2026-10-19"
+    "maj": "2026-10-21"
   },
   "source": "google-places",
   "redaction": {
     "version": 2,
     "titre": "La Jardinerie Pau — Jardinage et paysage à Pau",
     "meta_titre": "La Jardinerie Pau à Pau : horaires, avis, téléphone",
-    "meta_description": "La Jardinerie Pau, jardinage et paysage à Pau : horaires d'ouverture, note Google 4,1/5 (1142 avis), téléphone, adresse et itinéraire.",
-    "chapo": "La Jardinerie Pau exerce l'activité de jardinage et paysage au 2 Rue René Char, à Pau. Ouvert sept jours sur sept au relevé du 18 octobre 2026. Téléphone : 05 59 84 55 25. Note Google : 4,1 sur 5 pour 1142 avis.",
+    "meta_description": "La Jardinerie Pau, jardinage et paysage à Pau : horaires d'ouverture, note Google 4,1/5 (1143 avis), téléphone, adresse et itinéraire.",
+    "chapo": "La Jardinerie Pau exerce l'activité de jardinage et paysage au 2 Rue René Char, à Pau. Ouvert sept jours sur sept au relevé du 21 octobre 2026. Téléphone : 05 59 84 55 25. Note Google : 4,1 sur 5 pour 1143 avis.",
     "sections": [
       {
         "id": "presentation",
         "titre": "La Jardinerie Pau en quelques mots",
         "paragraphes": [
+          "Présentation donnée par Google : « Chaîne offrant végétaux et matériel d'aménagement pour jardin, avec un coin animalerie et déco d'intérieur. »",
           "Sur Google, l'établissement est classé « Jardinerie », dans notre rubrique Jardinage et paysage.",
-          "D'après le relevé du 18 octobre 2026, l'établissement est ouvert sept jours sur sept. Le détail jour par jour figure plus bas."
+          "D'après le relevé du 21 octobre 2026, l'établissement est ouvert sept jours sur sept. Le détail jour par jour figure plus bas."
+        ]
+      },
+      {
+        "id": "prestations",
+        "titre": "Services et équipements de La Jardinerie Pau",
+        "paragraphes": [
+          "Moyens de paiement déclarés : carte bancaire, carte de débit et paiement sans contact.",
+          "Ces indications sont déclarées par l'établissement sur sa fiche Google (relevé du 21 octobre 2026)."
         ]
       },
       {
@@ -199,18 +208,18 @@
         "id": "avis",
         "titre": "La réputation de La Jardinerie Pau",
         "paragraphes": [
-          "Note de 4,1 sur 5 pour 1142 avis Google au relevé du 18 octobre 2026. Les avis se consultent sur la fiche Google, dont le lien figure sur cette page."
+          "Note de 4,1 sur 5 pour 1143 avis Google au relevé du 21 octobre 2026. Les avis les plus parlants sont compilés ci-dessous, avec un lien vers la fiche d'origine."
         ]
       }
     ],
     "faq": [
       {
         "q": "Quels sont les horaires de La Jardinerie Pau ?",
-        "r": "Au relevé du 18 octobre 2026, La Jardinerie Pau était ouvert sept jours sur sept. Dans le détail — lundi : de 9 h 30 à 12 h 30 et de 14 h à 19 h ; mardi : de 9 h 30 à 12 h 30 et de 14 h à 19 h ; mercredi : de 9 h 30 à 12 h 30 et de 14 h à 19 h ; jeudi : de 9 h 30 à 12 h 30 et de 14 h à 19 h ; vendredi : de 9 h 30 à 12 h 30 et de 14 h à 19 h ; samedi : de 9 h 30 à 19 h ; dimanche : de 10 h à 12 h 30 et de 14 h à 18 h 30. Ces horaires peuvent changer : un appel préalable reste conseillé."
+        "r": "Au relevé du 21 octobre 2026, La Jardinerie Pau était ouvert sept jours sur sept. Dans le détail — lundi : de 9 h 30 à 12 h 30 et de 14 h à 19 h ; mardi : de 9 h 30 à 12 h 30 et de 14 h à 19 h ; mercredi : de 9 h 30 à 12 h 30 et de 14 h à 19 h ; jeudi : de 9 h 30 à 12 h 30 et de 14 h à 19 h ; vendredi : de 9 h 30 à 12 h 30 et de 14 h à 19 h ; samedi : de 9 h 30 à 19 h ; dimanche : de 10 h à 12 h 30 et de 14 h à 18 h 30. Ces horaires peuvent changer : un appel préalable reste conseillé."
       },
       {
         "q": "La Jardinerie Pau est-il ouvert le dimanche ?",
-        "r": "Oui : le dimanche, La Jardinerie Pau est ouvert de 10 h à 12 h 30 et de 14 h à 18 h 30 (horaires relevés le 18 octobre 2026)."
+        "r": "Oui : le dimanche, La Jardinerie Pau est ouvert de 10 h à 12 h 30 et de 14 h à 18 h 30 (horaires relevés le 21 octobre 2026)."
       },
       {
         "q": "Où se trouve La Jardinerie Pau ?",
@@ -225,7 +234,7 @@
         "r": "La fiche Google de l'établissement mentionne : « Entrée accessible en fauteuil roulant ». Cette information est déclarative ; en cas de doute, vérifiez par téléphone."
       }
     ],
-    "genere_le": "2026-10-18"
+    "genere_le": "2026-10-21"
   },
   "statut_google": "OPERATIONAL",
   "audience": {
@@ -236,7 +245,7 @@
     "clicsRecents": 0,
     "fenetreRecenteJours": 28,
     "source": "search-console",
-    "date": "2026-10-20"
+    "date": "2026-10-21"
   },
   "indexation": {
     "etat": "non-indexee",
@@ -246,5 +255,67 @@
     "canonique_google": null,
     "source": "inspection",
     "date": "2026-10-19"
+  },
+  "avis_detail": {
+    "releve": "2026-10-21",
+    "liste": [
+      {
+        "note": 1,
+        "texte": "Premier achat effectué dans ce Jardiland, et ce sera le dernier.\nJ'ai souhaité rapporter un article qui ne me convenait pas, dans un état impeccable et dans les délais. Le commerçant a refusé toute solution (avoir ou échange) sous prétexte que l'article était soldé. Or, aucune mention de 'ni repris, ni échangé' n'est affichée en magasin ou n'apparaît sur le ticket de caisse. Si j'avais été informée clairement des conditions de vente,  je n'aurais pas acheté l'article. J'aurais apprécié un geste commercial",
+        "langue": "fr",
+        "date": "2026-07-03",
+        "auteur": "Marie Sallaberry",
+        "auteur_lien": "https://www.google.com/maps/contrib/101064456718024193077/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT21Nd1V6WjVNelZMUzJKRVoyTlVRMDA0UjNsalFYYxAB!2m1!1s0xd564867822c419b:0x6ca2e23775fedf34"
+      },
+      {
+        "note": 3,
+        "texte": "Très bon accueil, personnel poli et agréable. Un joli choix de plantes.\nEn revanche, j’ai eu la malchance d’acheter une superbe alocasia à 4 feuilles lors de ma visite il y a une quinzaine de jours, et celle-ci s’est révélée infestée de cochenilles farineuses. Je la traite en conséquence, mais deux feuilles sont malheureusement en train de mourir. Aucune de mes autres plantes n’est touchée, ce qui me laisse penser que le problème était déjà présent au moment de l’achat. C’est certainement un coup de malchance, mais cela reste dommage pour une plante qui venait d’être achetée..",
+        "langue": "fr",
+        "date": "2026-06-23",
+        "auteur": "Mel Ce",
+        "auteur_lien": "https://www.google.com/maps/contrib/114789703089715103628/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xwSlJYSjJSRlJVUzBOSGJEUjZVVXRsV1RKNWVYYxAB!2m1!1s0xd564867822c419b:0x6ca2e23775fedf34"
+      },
+      {
+        "note": 5,
+        "texte": "Plus que ravie de ma 1ere visite dans cette jardinerie. Nous avons trouvé notre bonheur (parasol + pied roulant) à un prix plus que raisonnable, et l'accueil et le conseil de Virginie ont été au top. Merci à elle 👍",
+        "langue": "fr",
+        "date": "2026-05-28",
+        "auteur": "Emy Ems",
+        "auteur_lien": "https://www.google.com/maps/contrib/110764507624895123060/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2pWeFNrbHhaM1Z1YjBReE0zTkhlRGg0VjBwRVZFRRAB!2m1!1s0xd564867822c419b:0x6ca2e23775fedf34"
+      },
+      {
+        "note": 1,
+        "texte": "J’ai acheté des fleurs en promotion et j’ai compris pourquoi : elles étaient INFESTÉES d’aleurodes ! Je suis désormais envahie …. Une horreur !! Si le but était de me faire en plus acheter des litres d’insecticides …. C’est peine perdue . Je ne remettrai plus les pieds dans ce magasin aux techniques commerciales plus que douteuses….",
+        "langue": "fr",
+        "date": "2026-05-22",
+        "auteur": "laetitia lupano",
+        "auteur_lien": "https://www.google.com/maps/contrib/102647442112703877454/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2tJeVVYQnNka1ZaUzJaM1ZHVjJUM2w0V0RaNWQyYxAB!2m1!1s0xd564867822c419b:0x6ca2e23775fedf34"
+      },
+      {
+        "note": 2,
+        "texte": "2 étoiles parce que cet établissement vend non seulement des plantes, mais aussi des animaux, lapins, oiseaux, souris, hamsters ... enfermés dans de toutes petites cages pour le bon plaisir de quelques personnes, entassés les uns sur les autres\nJ’étais venue acheter des plantes mais je préfère aller ailleurs pour cette raison\nC’est cruel, le monde évolue sur les questions de la maltraitance animale, le magasin devrait en prendre conscience",
+        "langue": "fr",
+        "date": "2026-05-22",
+        "auteur": "Marie",
+        "auteur_lien": "https://www.google.com/maps/contrib/106518605610223974660/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2tsdlNIWmhOblJUUmtsUk1Fd3dTUzB5ZVU0emEyYxAB!2m1!1s0xd564867822c419b:0x6ca2e23775fedf34"
+      }
+    ]
+  },
+  "services": {
+    "releve": "2026-10-21",
+    "resume": "Chaîne offrant végétaux et matériel d'aménagement pour jardin, avec un coin animalerie et déco d'intérieur.",
+    "resume_langue": "fr",
+    "options": {},
+    "paiement": [
+      "carte bancaire",
+      "carte de débit",
+      "paiement sans contact"
+    ],
+    "parking": []
   }
 }

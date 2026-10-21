@@ -1,0 +1,303 @@
+{
+  "id": "ChIJJzG3wtSv9UcR1SGeYtU2NRQ",
+  "slug": "stop-o-gaspy",
+  "nom": "Stop O'Gaspy",
+  "categorie": "commerces-alimentation",
+  "categorie_gmb": "Supermarché discount",
+  "type_principal": "discount_supermarket",
+  "types": [
+    "discount_supermarket",
+    "supermarket",
+    "grocery_store",
+    "food_store",
+    "store",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "ville": "Saint-Genest-Lerpt",
+  "ville_slug": "saint-genest-lerpt",
+  "adresse": {
+    "rue": "",
+    "code_postal": "42530",
+    "departement": "42",
+    "region": "Auvergne-Rhône-Alpes",
+    "pays": "France",
+    "complete": "ZAC du Tissot - Vision Ouest, 42530 Saint-Genest-Lerpt"
+  },
+  "telephone": "",
+  "geo": {
+    "latitude": 45.4405783,
+    "longitude": 4.3410125
+  },
+  "note": 4.6,
+  "avis": 53,
+  "horaires": [
+    {
+      "jour": 0,
+      "ferme": false,
+      "creneaux": [
+        [
+          "09:00",
+          "12:00"
+        ],
+        [
+          "14:30",
+          "19:00"
+        ]
+      ]
+    },
+    {
+      "jour": 1,
+      "ferme": false,
+      "creneaux": [
+        [
+          "09:00",
+          "12:00"
+        ],
+        [
+          "14:30",
+          "19:00"
+        ]
+      ]
+    },
+    {
+      "jour": 2,
+      "ferme": false,
+      "creneaux": [
+        [
+          "09:00",
+          "12:00"
+        ],
+        [
+          "14:30",
+          "19:00"
+        ]
+      ]
+    },
+    {
+      "jour": 3,
+      "ferme": false,
+      "creneaux": [
+        [
+          "09:00",
+          "12:00"
+        ],
+        [
+          "14:30",
+          "19:00"
+        ]
+      ]
+    },
+    {
+      "jour": 4,
+      "ferme": false,
+      "creneaux": [
+        [
+          "09:00",
+          "12:00"
+        ],
+        [
+          "14:30",
+          "19:00"
+        ]
+      ]
+    },
+    {
+      "jour": 5,
+      "ferme": false,
+      "creneaux": [
+        [
+          "09:00",
+          "12:00"
+        ],
+        [
+          "14:30",
+          "19:00"
+        ]
+      ]
+    },
+    {
+      "jour": 6,
+      "ferme": true,
+      "creneaux": []
+    }
+  ],
+  "attributs": [
+    "Entrée accessible en fauteuil roulant",
+    "Parking accessible en fauteuil roulant",
+    "Places assises accessibles en fauteuil roulant"
+  ],
+  "lien_google": "https://maps.google.com/?cid=1456130344634687957&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
+  "site_web_gmb": null,
+  "statut": "publiee",
+  "backlink": {
+    "etat": "absent",
+    "premiere_detection": null,
+    "derniere_detection": null,
+    "derniere_verification": "2026-10-21T10:04:27.997Z",
+    "echecs": 1,
+    "url_detectee": null
+  },
+  "suggestion": {
+    "etat": "en-attente",
+    "date_soumission": null,
+    "tentatives": 0,
+    "date_email": "2026-10-21"
+  },
+  "retrait": null,
+  "dates": {
+    "collecte": "2026-10-21",
+    "publication": "2026-10-21",
+    "maj": "2026-10-21"
+  },
+  "source": "google-places",
+  "avis_detail": {
+    "releve": "2026-10-21",
+    "liste": [
+      {
+        "note": 5,
+        "texte": "Super dans tous les domaines\nAyoub très accueillant , souriant\nMagasin que je conseille fortement",
+        "langue": "fr",
+        "date": "2026-07-21",
+        "auteur": "veronique gibert",
+        "auteur_lien": "https://www.google.com/maps/contrib/109317914830773702658/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2pSQ1gwUTVNbE5PY0U5Q0xWTlBPRzVZVFdGcVlVRRAB!2m1!1s0x47f5afd4c2b73127:0x143536d5629e21d5"
+      },
+      {
+        "note": 5,
+        "texte": "Magasin au top ! Très propre et très grand.\nMerci au gérant Ayoub pour l’accueil et son professionnalisme un super commerçant comme on en voit plus. Firminy devrait prendre exemple.",
+        "langue": "fr",
+        "date": "2026-07-20",
+        "auteur": "Geo DR",
+        "auteur_lien": "https://www.google.com/maps/contrib/108414593433088598262/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25OaFJXVXhXRVJPYlRaWWJEUTJYeTB6YjBsR2NGRRAB!2m1!1s0x47f5afd4c2b73127:0x143536d5629e21d5"
+      },
+      {
+        "note": 5,
+        "texte": "Le responsable, une pépite !!! Adorable ! Le personnel, super accueillant !\nCe magasin est mon QG !!! Il est de très loinnnnnn le meilleur ! Prix imbattables, qualité des fruits et légumes magnifique ! Il y a l'essentiel, ce qui permet de faire le plein pour pas cher.\nUn vrai plaisir de faire ses courses ! 😁",
+        "langue": "fr",
+        "date": "2026-07-13",
+        "auteur": "Jessica Roba",
+        "auteur_lien": "https://www.google.com/maps/contrib/118091907384152451019/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT21wVlFubExRalZSZUdoWFZUSnBkRU5rZFc1R2FGRRAB!2m1!1s0x47f5afd4c2b73127:0x143536d5629e21d5"
+      },
+      {
+        "note": 3,
+        "texte": "Après plusieurs passages je me suis permis une visite.\nPoint positif : anti gaspillage ✅\nPoint négatif :\n-prix égal voir plus chère qu’en grande surface ou magasin de proximité.❌\n- produits de sous-marque et de mauvaise qualité❌\nNe vaut pas le détour.",
+        "langue": "fr",
+        "date": "2026-04-08",
+        "auteur": "Bazile bchmp",
+        "auteur_lien": "https://www.google.com/maps/contrib/113071610842039022957/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2tGTlVrcGhjbmd4VFd4bFdVRkpVM0Z1Tm1abVdsRRAB!2m1!1s0x47f5afd4c2b73127:0x143536d5629e21d5"
+      },
+      {
+        "note": 5,
+        "texte": "Un accueil Parfait personnels disponibles et lumineux😊    endroit épuré avec beaucoup de références pour remplir un caddie à prix imbattable merci merci d'avoir se genre de magasin pour les petits budgets",
+        "langue": "fr",
+        "date": "2025-02-19",
+        "auteur": "Carla Mégane",
+        "auteur_lien": "https://www.google.com/maps/contrib/101355442076065616651/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnTUNnNWJxSndnRRAB!2m1!1s0x47f5afd4c2b73127:0x143536d5629e21d5"
+      }
+    ]
+  },
+  "services": {
+    "releve": "2026-10-21",
+    "options": {
+      "delivery": false,
+      "restroom": false
+    },
+    "paiement": [
+      "carte bancaire",
+      "carte de débit",
+      "paiement sans contact"
+    ],
+    "parking": [
+      "parking gratuit"
+    ]
+  },
+  "redaction": {
+    "version": 2,
+    "titre": "Stop O'Gaspy — Commerce d'alimentation à Saint-Genest-Lerpt",
+    "meta_titre": "Stop O'Gaspy à Saint-Genest-Lerpt : horaires, avis",
+    "meta_description": "Stop O'Gaspy, commerce d'alimentation à Saint-Genest-Lerpt : horaires d'ouverture, note Google 4,6/5 (53 avis), adresse et itinéraire.",
+    "chapo": "Stop O'Gaspy est un commerce d'alimentation à Saint-Genest-Lerpt. Ouvert tous les jours sauf le dimanche au relevé du 21 octobre 2026. Note Google : 4,6 sur 5 pour 53 avis.",
+    "sections": [
+      {
+        "id": "presentation",
+        "titre": "Stop O'Gaspy en quelques mots",
+        "paragraphes": [
+          "Sur Google, l'établissement est classé « Supermarché discount », dans notre rubrique Commerce d'alimentation.",
+          "D'après le relevé du 21 octobre 2026, l'établissement est ouvert tous les jours sauf le dimanche. Le détail jour par jour figure plus bas."
+        ]
+      },
+      {
+        "id": "prestations",
+        "titre": "Services et équipements de Stop O'Gaspy",
+        "paragraphes": [
+          "Non proposé selon la fiche Google : livraison et toilettes.",
+          "Moyens de paiement déclarés : carte bancaire, carte de débit et paiement sans contact.",
+          "Stationnement : parking gratuit.",
+          "Ces indications sont déclarées par l'établissement sur sa fiche Google (relevé du 21 octobre 2026)."
+        ]
+      },
+      {
+        "id": "acces",
+        "titre": "Adresse et accès",
+        "paragraphes": [
+          "L'établissement est situé, 42530 Saint-Genest-Lerpt.",
+          "Coordonnées GPS : 45.44058, 4.34101. Le bouton Itinéraire de cette page ouvre la navigation."
+        ]
+      },
+      {
+        "id": "contact",
+        "titre": "Contacter Stop O'Gaspy",
+        "paragraphes": [
+          "Aucun numéro de téléphone n'est déclaré sur la fiche Google de l'établissement : le contact se fait sur place, aux horaires indiqués."
+        ]
+      },
+      {
+        "id": "avis",
+        "titre": "La réputation de Stop O'Gaspy",
+        "paragraphes": [
+          "Note de 4,6 sur 5 pour 53 avis Google au relevé du 21 octobre 2026. Les avis les plus parlants sont compilés ci-dessous, avec un lien vers la fiche d'origine."
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "q": "Quels sont les horaires de Stop O'Gaspy ?",
+        "r": "Au relevé du 21 octobre 2026, Stop O'Gaspy était ouvert tous les jours sauf le dimanche. Dans le détail — lundi : de 9 h à 12 h et de 14 h 30 à 19 h ; mardi : de 9 h à 12 h et de 14 h 30 à 19 h ; mercredi : de 9 h à 12 h et de 14 h 30 à 19 h ; jeudi : de 9 h à 12 h et de 14 h 30 à 19 h ; vendredi : de 9 h à 12 h et de 14 h 30 à 19 h ; samedi : de 9 h à 12 h et de 14 h 30 à 19 h ; dimanche : fermé. Ces horaires peuvent changer : un appel préalable reste conseillé."
+      },
+      {
+        "q": "Stop O'Gaspy est-il ouvert le dimanche ?",
+        "r": "Non : d'après les horaires relevés le 21 octobre 2026, Stop O'Gaspy est fermé le dimanche."
+      },
+      {
+        "q": "Où se trouve Stop O'Gaspy ?",
+        "r": "Stop O'Gaspy se trouve ZAC du Tissot - Vision Ouest, 42530 Saint-Genest-Lerpt. Un lien d'itinéraire est disponible sur cette page."
+      },
+      {
+        "q": "Stop O'Gaspy propose-t-il la vente à emporter ou la livraison ?",
+        "r": "D'après sa fiche Google (relevé du 21 octobre 2026) — livraison : non."
+      },
+      {
+        "q": "Stop O'Gaspy est-il accessible aux personnes à mobilité réduite ?",
+        "r": "La fiche Google de l'établissement mentionne : « Entrée accessible en fauteuil roulant ». Cette information est déclarative ; en cas de doute, vérifiez par téléphone."
+      }
+    ],
+    "genere_le": "2026-10-21"
+  },
+  "statut_google": "OPERATIONAL",
+  "audience": {
+    "clics": 0,
+    "impressions": 0,
+    "position": null,
+    "fenetreJours": 90,
+    "clicsRecents": 0,
+    "fenetreRecenteJours": 28,
+    "source": "search-console",
+    "date": "2026-10-21"
+  }
+}

@@ -111,8 +111,8 @@
   "backlink": {
     "etat": "present",
     "premiere_detection": "2026-09-01T05:36:17.683Z",
-    "derniere_detection": "2026-10-09T16:58:32.124Z",
-    "derniere_verification": "2026-10-09T16:58:32.124Z",
+    "derniere_detection": "2026-10-21T10:04:27.997Z",
+    "derniere_verification": "2026-10-21T10:04:27.997Z",
     "echecs": 0,
     "url_detectee": "https://andpro.fr/vitrine-locale/cafes-bars/nevers/le-gaspard/"
   },
@@ -120,7 +120,7 @@
   "dates": {
     "collecte": "2026-08-30",
     "publication": "2026-08-30",
-    "maj": "2026-10-09"
+    "maj": "2026-10-21"
   },
   "source": "google-places",
   "redaction": {
@@ -128,14 +128,26 @@
     "titre": "Le Gaspard — Café ou bar à Nevers",
     "meta_titre": "Le Gaspard à Nevers : horaires, avis",
     "meta_description": "Le Gaspard, café ou bar à Nevers : horaires d'ouverture, note Google 4,1/5 (206 avis), adresse et itinéraire.",
-    "chapo": "Le Gaspard exerce l'activité de café ou bar au 15 Rue Pierre Emile Gaspard, à Nevers. Ouvert sept jours sur sept au relevé du 9 octobre 2026. Note Google : 4,1 sur 5 pour 206 avis.",
+    "chapo": "Le Gaspard exerce l'activité de café ou bar au 15 Rue Pierre Emile Gaspard, à Nevers. Ouvert sept jours sur sept au relevé du 21 octobre 2026. Note Google : 4,1 sur 5 pour 206 avis.",
     "sections": [
       {
         "id": "presentation",
         "titre": "Le Gaspard en quelques mots",
         "paragraphes": [
           "Sur Google, l'établissement est classé « Bar », dans notre rubrique Café ou bar.",
-          "D'après le relevé du 9 octobre 2026, l'établissement est ouvert sept jours sur sept. Le détail jour par jour figure plus bas."
+          "Niveau de prix indiqué sur la fiche Google : € (bon marché).",
+          "D'après le relevé du 21 octobre 2026, l'établissement est ouvert sept jours sur sept. Le détail jour par jour figure plus bas."
+        ]
+      },
+      {
+        "id": "prestations",
+        "titre": "Services et équipements de Le Gaspard",
+        "paragraphes": [
+          "Proposé : sur place, terrasse, bière, vin, cocktails, chiens acceptés et toilettes.",
+          "Non proposé selon la fiche Google : livraison, réservation possible, adapté aux enfants et musique live.",
+          "Moyens de paiement déclarés : carte bancaire, carte de débit et paiement sans contact.",
+          "Stationnement : stationnement gratuit dans la rue.",
+          "Ces indications sont déclarées par l'établissement sur sa fiche Google (relevé du 21 octobre 2026)."
         ]
       },
       {
@@ -157,29 +169,41 @@
         "id": "avis",
         "titre": "La réputation de Le Gaspard",
         "paragraphes": [
-          "Note de 4,1 sur 5 pour 206 avis Google au relevé du 9 octobre 2026. Les avis se consultent sur la fiche Google, dont le lien figure sur cette page."
+          "Note de 4,1 sur 5 pour 206 avis Google au relevé du 21 octobre 2026. Les avis les plus parlants sont compilés ci-dessous, avec un lien vers la fiche d'origine."
         ]
       }
     ],
     "faq": [
       {
         "q": "Quels sont les horaires de Le Gaspard ?",
-        "r": "Au relevé du 9 octobre 2026, Le Gaspard était ouvert sept jours sur sept. Dans le détail — lundi : de 7 h 30 à 22 h ; mardi : de 7 h 30 à 22 h ; mercredi : de 7 h 30 à 22 h ; jeudi : de 7 h 30 à 22 h ; vendredi : de 7 h 30 à 22 h ; samedi : de 9 h à 22 h ; dimanche : de 9 h à 22 h. Ces horaires peuvent changer : un appel préalable reste conseillé."
+        "r": "Au relevé du 21 octobre 2026, Le Gaspard était ouvert sept jours sur sept. Dans le détail — lundi : de 7 h 30 à 22 h ; mardi : de 7 h 30 à 22 h ; mercredi : de 7 h 30 à 22 h ; jeudi : de 7 h 30 à 22 h ; vendredi : de 7 h 30 à 22 h ; samedi : de 9 h à 22 h ; dimanche : de 9 h à 22 h. Ces horaires peuvent changer : un appel préalable reste conseillé."
       },
       {
         "q": "Le Gaspard est-il ouvert le dimanche ?",
-        "r": "Oui : le dimanche, Le Gaspard est ouvert de 9 h à 22 h (horaires relevés le 9 octobre 2026)."
+        "r": "Oui : le dimanche, Le Gaspard est ouvert de 9 h à 22 h (horaires relevés le 21 octobre 2026)."
       },
       {
         "q": "Où se trouve Le Gaspard ?",
         "r": "Le Gaspard se trouve 15 Rue Pierre Emile Gaspard, 58000 Nevers. Un lien d'itinéraire est disponible sur cette page."
       },
       {
+        "q": "Peut-on réserver chez Le Gaspard ?",
+        "r": "La fiche Google de Le Gaspard indique que la réservation n'est pas proposée."
+      },
+      {
+        "q": "Le Gaspard propose-t-il la vente à emporter ou la livraison ?",
+        "r": "D'après sa fiche Google (relevé du 21 octobre 2026) — livraison : non."
+      },
+      {
+        "q": "Quel est le niveau de prix de Le Gaspard ?",
+        "r": "Google classe Le Gaspard au niveau de prix € (bon marché), sur une échelle de € à €€€€ établie à partir des avis clients."
+      },
+      {
         "q": "Le Gaspard est-il accessible aux personnes à mobilité réduite ?",
         "r": "La fiche Google de l'établissement mentionne : « Entrée accessible en fauteuil roulant ». Cette information est déclarative ; en cas de doute, vérifiez par téléphone."
       }
     ],
-    "genere_le": "2026-10-09"
+    "genere_le": "2026-10-21"
   },
   "suggestion": {
     "etat": "soumise",
@@ -188,14 +212,14 @@
   },
   "statut_google": "OPERATIONAL",
   "audience": {
-    "clics": 55,
-    "impressions": 6645,
+    "clics": 57,
+    "impressions": 6780,
     "position": 2.8,
     "fenetreJours": 90,
     "clicsRecents": 30,
     "fenetreRecenteJours": 28,
     "source": "search-console",
-    "date": "2026-10-20"
+    "date": "2026-10-21"
   },
   "indexation": {
     "etat": "indexee",
@@ -204,6 +228,81 @@
     "derniere_exploration": null,
     "canonique_google": null,
     "source": "impressions",
-    "date": "2026-10-20"
+    "date": "2026-10-21"
+  },
+  "avis_detail": {
+    "releve": "2026-10-21",
+    "liste": [
+      {
+        "note": 5,
+        "texte": "Patrons et personnel très sympathiques . Beaucoup d'habitués .",
+        "langue": "fr",
+        "date": "2026-04-10",
+        "auteur": "jean.francois le roux",
+        "auteur_lien": "https://www.google.com/maps/contrib/118372149728504762826/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT205R2MxQlBXa2xxU0c5R2QyUlBkbnBwUkVneFprRRAB!2m1!1s0x47f045889ca0c18f:0x94acee8b91a916d7"
+      },
+      {
+        "note": 4,
+        "texte": "Passage rapide pour prendre des cigarettes.\nBonne ambiance et accueil sympa",
+        "langue": "fr",
+        "date": "2025-12-15",
+        "auteur": "Matt Reporter",
+        "auteur_lien": "https://www.google.com/maps/contrib/111295384333423987338/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2s5WlNHeFdNbTFZYms5TmRGTnphR2xCTUdwT1YwRRAB!2m1!1s0x47f045889ca0c18f:0x94acee8b91a916d7"
+      },
+      {
+        "note": 1,
+        "texte": "J'ai déposé un colis en retour pour amazon ce colis n'est jamais arrivé à eu du coup nouveau prélèvement. J'aimerais bien savoir ou est passé ce colis. Je m'en doutais qu'il y aurait eu un problème le gars n'a pas imprimer l'étiquette retour il a jeté le sac dans un coin du bar et fini pfff. N'y allez surtout pas.😡",
+        "langue": "fr",
+        "date": "2025-06-11",
+        "auteur": "Pierre “Jannick” NCR",
+        "auteur_lien": "https://www.google.com/maps/contrib/104839368254515221121/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2pka1QycExkMGhpZDNScGNrWk9TQzFhTjA5UmNsRRAB!2m1!1s0x47f045889ca0c18f:0x94acee8b91a916d7"
+      },
+      {
+        "note": 1,
+        "texte": "Ouvert 7/7 des 7h30 même le dimanche près de la gare de l autre côté du pont. Choix de tabac des 5 euros 20 . Service sympa. Ferme tard vers 22h. Horaires top. Jeux fdj..  pmu je crois.  Bar terrasse.  Bien.",
+        "langue": "fr",
+        "date": "2024-10-13",
+        "auteur": "Yannick Butticaz",
+        "auteur_lien": "https://www.google.com/maps/contrib/114918062403115301555/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSURINnJmUzhnRRAB!2m1!1s0x47f045889ca0c18f:0x94acee8b91a916d7"
+      },
+      {
+        "note": 1,
+        "texte": "Injoignable par telephone ! Une catastrophe vraiment 1semaines que j’essaie de les joindre\n\nRéponse : bonne blague je ne suis pas de votre ville , enceinte et aliter , donc très petit la réponse. De plus sa fait 3 semaines que j’essaie de vous joindre sans succès ! Faut penser à embaucher si vous vous en sortez pas tout simplement. Vous ne savez pas faire votre travail c’est tout faut juste assumer ses erreurs. Donc c’est quand vous voulez pour me renvoyer mon colis qui attend dans votre relais depuis plus d’un mois. Jamais vu un relais aussi nul. De plus vous avez le temps de répondre aux commentaires mais pas au téléphone ? Je pense que vous savez très bien que vous êtes en tord et se niveau là c’est du vol.",
+        "langue": "fr",
+        "date": "2021-11-25",
+        "auteur": "Clo",
+        "auteur_lien": "https://www.google.com/maps/contrib/114289269858710717431/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSURHNm9uOWZnEAE!2m1!1s0x47f045889ca0c18f:0x94acee8b91a916d7"
+      }
+    ]
+  },
+  "services": {
+    "releve": "2026-10-21",
+    "prix": "PRICE_LEVEL_INEXPENSIVE",
+    "options": {
+      "dineIn": true,
+      "delivery": false,
+      "reservable": false,
+      "outdoorSeating": true,
+      "servesBeer": true,
+      "servesWine": true,
+      "servesCocktails": true,
+      "goodForChildren": false,
+      "liveMusic": false,
+      "allowsDogs": true,
+      "restroom": true
+    },
+    "paiement": [
+      "carte bancaire",
+      "carte de débit",
+      "paiement sans contact"
+    ],
+    "parking": [
+      "stationnement gratuit dans la rue"
+    ]
   }
 }

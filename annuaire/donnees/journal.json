@@ -1,5 +1,131 @@
 [
   {
+    "date": "2026-10-21T10:05:25.960Z",
+    "type": "suggestion-soumise",
+    "id": "ChIJ-eUf9qLykkcRMglb5wVE8K8",
+    "nom": "Garage Pahon Et Fils",
+    "url": "/garages-automobile/noidans-les-vesoul/garage-pahon-et-fils/"
+  },
+  {
+    "date": "2026-10-21T10:05:25.942Z",
+    "type": "suggestion-soumise",
+    "id": "ChIJZxN-S7nByRIRZ-20AVW9nVw",
+    "nom": "ECLECTIQUE MARSEILLE",
+    "url": "/cafes-bars/marseille/eclectique-marseille/"
+  },
+  {
+    "date": "2026-10-21T10:05:25.920Z",
+    "type": "suggestion-soumise",
+    "id": "ChIJZzv8OSd-shIRViBqdB1auy0",
+    "nom": "Selarl Pharmacie de Druelle",
+    "url": "/pharmacies-opticiens/druelle-balsac/selarl-pharmacie-de-druelle/"
+  },
+  {
+    "date": "2026-10-21T10:05:24.912Z",
+    "type": "retrait-410",
+    "id": "ChIJ7237-rWbyxIRiwZywZwhco4",
+    "nom": "Le petit saint michel",
+    "url": "/restaurants/digne-les-bains/le-petit-saint-michel/",
+    "motif": "page non indexée par Google 45 jours après sa mise en ligne (Explorée, actuellement non indexée)",
+    "cible": null,
+    "cause": "non-indexee"
+  },
+  {
+    "date": "2026-10-21T10:05:24.914Z",
+    "type": "retrait-410",
+    "id": "ChIJX5k8BwBn5kcRCa55e6VLyLs",
+    "nom": "Paradis Taverny",
+    "url": "/restaurants/taverny/paradis-taverny/",
+    "motif": "page non indexée par Google 45 jours après sa mise en ligne (Explorée, actuellement non indexée)",
+    "cible": null,
+    "cause": "non-indexee"
+  },
+  {
+    "date": "2026-10-21T10:04:28.094Z",
+    "type": "backlink-absent",
+    "id": "ChIJx2zDff4vBEgRio2krzZ_frQ",
+    "nom": "CLINIQUE VETERINAIRE DU PLESSIS",
+    "url": null,
+    "precedent": "en-attente"
+  },
+  {
+    "date": "2026-10-21T10:04:28.129Z",
+    "type": "backlink-absent",
+    "id": "ChIJvWS3NltTAUgR5GZQ97k8v6E",
+    "nom": "La Boulangerie Artisan Boulanger",
+    "url": null,
+    "precedent": "en-attente"
+  },
+  {
+    "date": "2026-10-21T10:04:28.162Z",
+    "type": "backlink-absent",
+    "id": "ChIJr96hDkdjjUcRBlkiROmnx5k",
+    "nom": "Le Moulin des Pains",
+    "url": null,
+    "precedent": "en-attente"
+  },
+  {
+    "date": "2026-10-21T10:04:28.193Z",
+    "type": "backlink-absent",
+    "id": "ChIJBczuxipI3UcRkhot8lPcN5g",
+    "nom": "Scania Arras",
+    "url": null,
+    "precedent": "en-attente"
+  },
+  {
+    "date": "2026-10-21T10:04:28.240Z",
+    "type": "backlink-absent",
+    "id": "ChIJJzG3wtSv9UcR1SGeYtU2NRQ",
+    "nom": "Stop O'Gaspy",
+    "url": null,
+    "precedent": "en-attente"
+  },
+  {
+    "date": "2026-10-21T10:04:27.632Z",
+    "type": "publication",
+    "id": "ChIJx2zDff4vBEgRio2krzZ_frQ",
+    "nom": "CLINIQUE VETERINAIRE DU PLESSIS",
+    "url": "/veterinaires-animaux/la-roche-sur-yon/clinique-veterinaire-du-plessis/",
+    "categorie": "veterinaires-animaux",
+    "source": "google-places"
+  },
+  {
+    "date": "2026-10-21T10:04:27.703Z",
+    "type": "publication",
+    "id": "ChIJvWS3NltTAUgR5GZQ97k8v6E",
+    "nom": "La Boulangerie Artisan Boulanger",
+    "url": "/boulangeries-patisseries/la-rochelle/la-boulangerie-artisan-boulanger/",
+    "categorie": "boulangeries-patisseries",
+    "source": "google-places"
+  },
+  {
+    "date": "2026-10-21T10:04:27.771Z",
+    "type": "publication",
+    "id": "ChIJBczuxipI3UcRkhot8lPcN5g",
+    "nom": "Scania Arras",
+    "url": "/garages-automobile/saint-laurent-blangy/scania-arras/",
+    "categorie": "garages-automobile",
+    "source": "google-places"
+  },
+  {
+    "date": "2026-10-21T10:04:27.850Z",
+    "type": "publication",
+    "id": "ChIJr96hDkdjjUcRBlkiROmnx5k",
+    "nom": "Le Moulin des Pains",
+    "url": "/boulangeries-patisseries/besancon/le-moulin-des-pains/",
+    "categorie": "boulangeries-patisseries",
+    "source": "google-places"
+  },
+  {
+    "date": "2026-10-21T10:04:27.919Z",
+    "type": "publication",
+    "id": "ChIJJzG3wtSv9UcR1SGeYtU2NRQ",
+    "nom": "Stop O'Gaspy",
+    "url": "/commerces-alimentation/saint-genest-lerpt/stop-o-gaspy/",
+    "categorie": "commerces-alimentation",
+    "source": "google-places"
+  },
+  {
     "date": "2026-10-20T10:00:02.128Z",
     "type": "suggestion-soumise",
     "id": "ChIJ160ju14NrBIRWArxaEcNKaE",
