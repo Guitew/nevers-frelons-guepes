@@ -29,7 +29,7 @@
     "longitude": 1.2776337
   },
   "note": 3.6,
-  "avis": 59,
+  "avis": 60,
   "horaires": null,
   "attributs": [
     "Entrée accessible en fauteuil roulant",
@@ -42,8 +42,8 @@
     "etat": "absent",
     "premiere_detection": null,
     "derniere_detection": null,
-    "derniere_verification": "2026-10-09T16:58:32.124Z",
-    "echecs": 52,
+    "derniere_verification": "2026-10-22T10:06:20.031Z",
+    "echecs": 53,
     "url_detectee": null
   },
   "suggestion": {
@@ -63,21 +63,29 @@
   "dates": {
     "collecte": "2026-09-07",
     "publication": "2026-09-07",
-    "maj": "2026-10-18"
+    "maj": "2026-10-22"
   },
   "source": "google-places",
   "redaction": {
     "version": 2,
     "titre": "PERRENOT SNTV — Transport et déménagement à Limoges",
     "meta_titre": "PERRENOT SNTV à Limoges : avis, téléphone",
-    "meta_description": "PERRENOT SNTV, transport et déménagement à Limoges : note Google 3,6/5 (59 avis), téléphone, adresse et itinéraire.",
-    "chapo": "Cette fiche présente PERRENOT SNTV, un transport et déménagement au 43 Rue Amédée Gordini, à Limoges. Téléphone : 05 55 37 82 70. Note Google : 3,6 sur 5 pour 59 avis.",
+    "meta_description": "PERRENOT SNTV, transport et déménagement à Limoges : note Google 3,6/5 (60 avis), téléphone, adresse et itinéraire.",
+    "chapo": "Cette fiche présente PERRENOT SNTV, un transport et déménagement au 43 Rue Amédée Gordini, à Limoges. Téléphone : 05 55 37 82 70. Note Google : 3,6 sur 5 pour 60 avis.",
     "sections": [
       {
         "id": "presentation",
         "titre": "PERRENOT SNTV en quelques mots",
         "paragraphes": [
           "Sur Google, l'établissement est classé « Entreprise de déménagement », dans notre rubrique Transport et déménagement."
+        ]
+      },
+      {
+        "id": "prestations",
+        "titre": "Services et équipements de PERRENOT SNTV",
+        "paragraphes": [
+          "Proposé : toilettes.",
+          "Ces indications sont déclarées par l'établissement sur sa fiche Google (relevé du 22 octobre 2026)."
         ]
       },
       {
@@ -99,7 +107,7 @@
         "id": "avis",
         "titre": "La réputation de PERRENOT SNTV",
         "paragraphes": [
-          "Note de 3,6 sur 5 pour 59 avis Google au relevé du 9 octobre 2026. Les avis se consultent sur la fiche Google, dont le lien figure sur cette page."
+          "Note de 3,6 sur 5 pour 60 avis Google au relevé du 22 octobre 2026. Les avis les plus parlants sont compilés ci-dessous, avec un lien vers la fiche d'origine."
         ]
       }
     ],
@@ -117,7 +125,7 @@
         "r": "La fiche Google de l'établissement mentionne : « Entrée accessible en fauteuil roulant ». Cette information est déclarative ; en cas de doute, vérifiez par téléphone."
       }
     ],
-    "genere_le": "2026-10-09"
+    "genere_le": "2026-10-22"
   },
   "statut_google": "OPERATIONAL",
   "audience": {
@@ -128,7 +136,7 @@
     "clicsRecents": 0,
     "fenetreRecenteJours": 28,
     "source": "search-console",
-    "date": "2026-10-21"
+    "date": "2026-10-22"
   },
   "indexation": {
     "etat": "non-indexee",
@@ -138,5 +146,63 @@
     "canonique_google": null,
     "source": "inspection",
     "date": "2026-10-18"
+  },
+  "avis_detail": {
+    "releve": "2026-10-22",
+    "liste": [
+      {
+        "note": 1,
+        "texte": "Conduite du chauffeur inconscient..... En moins de 10km il aurait pu créer 2 accident très grave. L'immatriculation ge4..z. de marque iveco. ( Je ne met pas la plaque complète)",
+        "langue": "fr",
+        "date": "2026-02-24",
+        "auteur": "Samuel Blaire",
+        "auteur_lien": "https://www.google.com/maps/contrib/111137414373840780455/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2tWblltdHVTMVJMVlZkUFZGb3ljelJPVVRJelgyYxAB!2m1!1s0x47f93562c61f19f9:0xfbadc6f4cf07481e"
+      },
+      {
+        "note": 1,
+        "texte": "Votre chauffeur se permet ce matin de se garer sur la nationale au niveau d'un carrefour à une heure d'embauche et d'insulter copieusement en hurlant les automobilistes qui se sont plaints !\nDes camions ont notamment dû effectuer des dépassements dangereux.\nDeux fois par semaine vos chauffeurs se garent sous mes fenêtres ( Ayron 86190 ) sur la nationale, outre le caractère dangereux et interdit de cette manœuvre, nous devons en plus composer avec les nuisances sonores qui vont avec. Mon fils de 10 mois est réveillé en sursaut par vos livreurs très régulièrement.\nIl est temps que cela cesse, je vais déposer plainte à la gendarmerie.",
+        "langue": "fr",
+        "date": "2026-02-06",
+        "auteur": "Mélissa Robin",
+        "auteur_lien": "https://www.google.com/maps/contrib/112001582695394606180/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xkeU5VdzFZMHhQTkV0dlUyVTBTR053UzNwSFJFRRAB!2m1!1s0x47f93562c61f19f9:0xfbadc6f4cf07481e"
+      },
+      {
+        "note": 5,
+        "texte": "Parfait . Chauffeur impeccable. Laurence Perrenot Bekaert",
+        "langue": "fr",
+        "date": "2025-11-26",
+        "auteur": "Laurence Evrard",
+        "auteur_lien": "https://www.google.com/maps/contrib/116939787224473322978/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT20wMlozcEhSM1ZqWTBwclJFWlFTblpqZVVGbGMwRRAB!2m1!1s0x47f93562c61f19f9:0xfbadc6f4cf07481e"
+      },
+      {
+        "note": 1,
+        "texte": "Surveillez vos conducteurs de camions, doubler un cycliste dans un virage sans voir que nous étions en face.  A 2 doigts de frôler la mort. La prochaine fois nous relèverons la plaque.",
+        "langue": "fr",
+        "date": "2025-03-27",
+        "auteur": "Cindy THANGAULY",
+        "auteur_lien": "https://www.google.com/maps/contrib/104672542888823755701/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnTUR3N2FuNVZnEAE!2m1!1s0x47f93562c61f19f9:0xfbadc6f4cf07481e"
+      },
+      {
+        "note": 1,
+        "texte": "Voir avec votre chauffeur qui a griller le cédez le passage à Guéret ce jour à 12h50 à peu près et a faillit nous tuer ma fille et moi moi sur le rond point avec mon clignotant,  il devrait être sanctionné,",
+        "langue": "fr",
+        "date": "2024-06-03",
+        "auteur": "Découverte Du territoire",
+        "auteur_lien": "https://www.google.com/maps/contrib/113596909128743864818/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUN6dWVhZ0ZREAE!2m1!1s0x47f93562c61f19f9:0xfbadc6f4cf07481e"
+      }
+    ]
+  },
+  "services": {
+    "releve": "2026-10-22",
+    "options": {
+      "restroom": true
+    },
+    "paiement": [],
+    "parking": []
   }
 }

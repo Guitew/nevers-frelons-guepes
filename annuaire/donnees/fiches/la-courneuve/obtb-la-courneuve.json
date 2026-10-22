@@ -29,7 +29,7 @@
     "longitude": 2.4082125999999997
   },
   "note": 4.3,
-  "avis": 1159,
+  "avis": 1163,
   "horaires": [
     {
       "jour": 0,
@@ -113,8 +113,8 @@
     "etat": "absent",
     "premiere_detection": null,
     "derniere_detection": null,
-    "derniere_verification": "2026-10-09T16:58:32.124Z",
-    "echecs": 14,
+    "derniere_verification": "2026-10-22T10:06:20.031Z",
+    "echecs": 15,
     "url_detectee": null
   },
   "suggestion": {
@@ -127,22 +127,33 @@
   "dates": {
     "collecte": "2026-09-26",
     "publication": "2026-09-26",
-    "maj": "2026-10-09"
+    "maj": "2026-10-22"
   },
   "source": "google-places",
   "redaction": {
     "version": 2,
     "titre": "OBTB La Courneuve — Restaurant à La Courneuve",
     "meta_titre": "OBTB La Courneuve à La Courneuve : horaires, avis, téléphone",
-    "meta_description": "OBTB La Courneuve, restaurant à La Courneuve : horaires d'ouverture, note Google 4,3/5 (1159 avis), téléphone, adresse et itinéraire.",
-    "chapo": "OBTB La Courneuve, restaurant au 6B Avenue Paul Vaillant Couturier, à La Courneuve. Ouvert sept jours sur sept au relevé du 9 octobre 2026. Téléphone : 01 55 86 25 81. Note Google : 4,3 sur 5 pour 1159 avis.",
+    "meta_description": "OBTB La Courneuve, restaurant à La Courneuve : horaires d'ouverture, note Google 4,3/5 (1163 avis), téléphone, adresse et itinéraire.",
+    "chapo": "OBTB La Courneuve, restaurant au 6B Avenue Paul Vaillant Couturier, à La Courneuve. Ouvert sept jours sur sept au relevé du 22 octobre 2026. Téléphone : 01 55 86 25 81. Note Google : 4,3 sur 5 pour 1163 avis.",
     "sections": [
       {
         "id": "presentation",
         "titre": "OBTB La Courneuve en quelques mots",
         "paragraphes": [
           "Sur Google, l'établissement est classé « Restauration rapide », dans notre rubrique Restaurant.",
-          "D'après le relevé du 9 octobre 2026, l'établissement est ouvert sept jours sur sept. Le détail jour par jour figure plus bas."
+          "Niveau de prix indiqué sur la fiche Google : € (bon marché).",
+          "D'après le relevé du 22 octobre 2026, l'établissement est ouvert sept jours sur sept. Le détail jour par jour figure plus bas."
+        ]
+      },
+      {
+        "id": "prestations",
+        "titre": "Services et équipements de OBTB La Courneuve",
+        "paragraphes": [
+          "Proposé : sur place, à emporter, livraison, café et toilettes.",
+          "Moyens de paiement déclarés : carte de débit et paiement sans contact.",
+          "Stationnement : parking gratuit et stationnement payant dans la rue.",
+          "Ces indications sont déclarées par l'établissement sur sa fiche Google (relevé du 22 octobre 2026)."
         ]
       },
       {
@@ -164,18 +175,18 @@
         "id": "avis",
         "titre": "La réputation de OBTB La Courneuve",
         "paragraphes": [
-          "Note de 4,3 sur 5 pour 1159 avis Google au relevé du 9 octobre 2026. Les avis se consultent sur la fiche Google, dont le lien figure sur cette page."
+          "Note de 4,3 sur 5 pour 1163 avis Google au relevé du 22 octobre 2026. Les avis les plus parlants sont compilés ci-dessous, avec un lien vers la fiche d'origine."
         ]
       }
     ],
     "faq": [
       {
         "q": "Quels sont les horaires de OBTB La Courneuve ?",
-        "r": "Au relevé du 9 octobre 2026, OBTB La Courneuve était ouvert sept jours sur sept. Dans le détail — lundi : de 11 h 30 à 0 h ; mardi : de 11 h 30 à 0 h ; mercredi : de 11 h 30 à 0 h ; jeudi : de 11 h 30 à 0 h ; vendredi : de 11 h 30 à 2 h ; samedi : de 11 h 30 à 2 h ; dimanche : de 11 h 30 à 0 h. Ces horaires peuvent changer : un appel préalable reste conseillé."
+        "r": "Au relevé du 22 octobre 2026, OBTB La Courneuve était ouvert sept jours sur sept. Dans le détail — lundi : de 11 h 30 à 0 h ; mardi : de 11 h 30 à 0 h ; mercredi : de 11 h 30 à 0 h ; jeudi : de 11 h 30 à 0 h ; vendredi : de 11 h 30 à 2 h ; samedi : de 11 h 30 à 2 h ; dimanche : de 11 h 30 à 0 h. Ces horaires peuvent changer : un appel préalable reste conseillé."
       },
       {
         "q": "OBTB La Courneuve est-il ouvert le dimanche ?",
-        "r": "Oui : le dimanche, OBTB La Courneuve est ouvert de 11 h 30 à 0 h (horaires relevés le 9 octobre 2026)."
+        "r": "Oui : le dimanche, OBTB La Courneuve est ouvert de 11 h 30 à 0 h (horaires relevés le 22 octobre 2026)."
       },
       {
         "q": "Où se trouve OBTB La Courneuve ?",
@@ -186,11 +197,19 @@
         "r": "Par téléphone au 01 55 86 25 81, ou directement sur place aux heures d'ouverture."
       },
       {
+        "q": "OBTB La Courneuve propose-t-il la vente à emporter ou la livraison ?",
+        "r": "D'après sa fiche Google (relevé du 22 octobre 2026) — vente à emporter : oui ; livraison : oui."
+      },
+      {
+        "q": "Quel est le niveau de prix de OBTB La Courneuve ?",
+        "r": "Google classe OBTB La Courneuve au niveau de prix € (bon marché), sur une échelle de € à €€€€ établie à partir des avis clients."
+      },
+      {
         "q": "OBTB La Courneuve est-il accessible aux personnes à mobilité réduite ?",
         "r": "La fiche Google de l'établissement mentionne : « Entrée accessible en fauteuil roulant ». Cette information est déclarative ; en cas de doute, vérifiez par téléphone."
       }
     ],
-    "genere_le": "2026-10-09"
+    "genere_le": "2026-10-22"
   },
   "statut_google": "OPERATIONAL",
   "audience": {
@@ -201,6 +220,75 @@
     "clicsRecents": 0,
     "fenetreRecenteJours": 28,
     "source": "search-console",
-    "date": "2026-10-21"
+    "date": "2026-10-22"
+  },
+  "avis_detail": {
+    "releve": "2026-10-22",
+    "liste": [
+      {
+        "note": 1,
+        "texte": "J’aimerais partager mon expérience mitigée dans ce restaurant. J’appréciais beaucoup l’accueil d’une jeune femme qui travaillait à la réception, elle était toujours polie, souriante et très aimable avec tous les clients. Malheureusement, elle n’est plus là ces derniers jours, remplacée par une autre personne au poste d’accueil.\n\nLe comportement de cette nouvelle personne est vraiment décevant. D’abord, il n’a aucune politesse : pas de bonjour quand on se présente à lui, il ignore quasiment les clients. Ce qui est encore plus grave sur le plan de l’hygiène, c’est qu’il touche les billets et les aliments préparés avec ses gants. C’est très insalubre, cela fait peur pour la santé des consommateurs. On voit clairement qu’il ne respecte pas les règles d’hygiène de base pour la restauration.\n\nJe suis déçu, je ne recommande pas pour l’instant, à moins qu’ils corrigent ces graves problèmes d’hygiène et de politesse du personnel de réception.",
+        "langue": "fr",
+        "date": "2026-09-02",
+        "auteur": "X",
+        "auteur_lien": "https://www.google.com/maps/contrib/102591936821367751689/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT214Q1lVRlVNV1Y2ZFZaMldsOVZaM3ByYTFGV2RGRRAB!2m1!1s0x47e66db8356ccc3b:0x3f542e3a0abf151e"
+      },
+      {
+        "note": 5,
+        "texte": "Le rapport qualité-prix est excellent, et j’adore particulièrement leurs tenders, qui ont un goût unique.  Par contre, leurs frites sont dommage, elles sont molles.",
+        "langue": "fr",
+        "date": "2026-05-17",
+        "auteur": "Kirtik",
+        "auteur_lien": "https://www.google.com/maps/contrib/115836436285581668921/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xOSFowSjVZMU5mWDJGUmFtRldTblk1ZWxSQk1HYxAB!2m1!1s0x47e66db8356ccc3b:0x3f542e3a0abf151e"
+      },
+      {
+        "note": 5,
+        "texte": "Franchement une super découverte ! OBTB est un fast-food vraiment au top 🔥. Ils proposent énormément de box variées entre 10 et 15 €, et honnêtement le rapport qualité/prix est imbattable : les portions sont énormes, on en a largement pour son argent. Niveau goût, rien à dire, tout est vraiment très bon et bien préparé.\n\nUn autre point fort, c’est le service : malgré l’affluence et le monde en continu, le personnel en caisse est super attentionné et souriant. Ils prennent le temps pour chaque client et viennent même nettoyer les tables après chaque départ, ce qui est rare dans un fast-food de ce type.\n\nAmbiance conviviale, service rapide, qualité au rendez-vous… Je recommande à 100 % ! 👌",
+        "langue": "fr",
+        "date": "2025-09-27",
+        "auteur": "wiss",
+        "auteur_lien": "https://www.google.com/maps/contrib/100105920238656217996/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2pkSU0zcFJSemw1YjNCM00xQXdWRVYwVTJJMVMzYxAB!2m1!1s0x47e66db8356ccc3b:0x3f542e3a0abf151e"
+      },
+      {
+        "note": 1,
+        "texte": "Expérience scandaleuse et honteuse dans ce \"fast food\".\nJe m'explique :\nJ’ai commandé une box à 10 € et à 20€.\nCelle à 10 € est affichée sur la borne avec la photo d’un tacos + une poutine au poulet tandoori. Mon fils étant intolérant au gluten(allergique au blé), je me suis fié à cette image (il ne peut pas manger de tenders composé de chapelure de blé).\n\nEn rentrant à la maison, je découvre que la poutine est en réalité faite avec des tenders. Mon fils ne peut donc pas manger. Je retourne au restaurant  pour signaler le problème, mais au lieu d’un échange ou d’une solution, je me fais répondre sèchement :\n\n> « Ce n’est pas une erreur, tout le monde sait que la poutine c’est avec des tenders, c’est marqué sur les réseaux. »\n\nQuand j’explique que je me fie à l’affichage de la borne et non aux réseaux sociaux, on me rétorque :\n\n> « C’est comme ça, le poulet tandoori coûte plus cher. »\n\nEt lorsque je précise que c’était ma première et dernière visite, je fais face à un profond manque de respect\nLa réponse a été :\nJe me fous de vous, il y a 200-300 clients par jour. »\n\nMême des jeunes présents qui confirmaient que la borne affichait bien du poulet tandoori ont été traités de menteurs.\nCe comportement irrespectueux et hautain est inacceptable. Aucun sens commercial, aucune considération pour les clients.\n\nPour la nourriture : rien d’exceptionnel. Beaucoup trop de sauce fromagère écœurante, frites médiocres, burger fade (pain à la betterave et steak de viande douteuse) immangeable et infecte.\nClairement pas à la hauteur de leur réputation qui est clairement usurpée sur les réseaux.\n\nUn restaurant qui traite ses clients avec mépris, qui joue sur une publicité trompeuse sur les réseaux sociaux et dont la qualité n’a rien d’exceptionnel.\nLa personne à l’accueil n’a rien à faire dans ce métier.\nPuisque il insistait sur les réseaux, je vais poster ce commentaire sur leurs réseaux afin que les gens sachent leur incompétence en matière de \"restauration rapide\".\n\nÀ fuir d’urgence.",
+        "langue": "fr",
+        "date": "2025-09-23",
+        "auteur": "Aboujunayd Junayd",
+        "auteur_lien": "https://www.google.com/maps/contrib/118245536033154849959/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2pGdE4wNURWa1U1VkRSVVRIZFpjbWd5Ym1sWGFVRRAB!2m1!1s0x47e66db8356ccc3b:0x3f542e3a0abf151e"
+      },
+      {
+        "note": 3,
+        "texte": "Je suis venu chez OBTB après avoir vu passer la fameuse box à 10€ sur les réseaux : un tacos 1 viande gratiné, une poutine et une boisson. Le rapport qualité/prix avait l’air imbattable, donc j’ai voulu tester.\n\nDéjà, bonne surprise en arrivant : le restaurant est propre, bien décoré, avec des menus clairs et bien présentés. Ils proposent pas mal de choix (burgers, phillys, etc.) mais j’étais là pour la box à 10€.\n\nQuelques remarques :\n•\tLa poutine sur la borne montrait du tandoori, mais en fait par défaut c’est un seul tenders dans la boîte, ce qui fait léger pour une base de frites. Ce serait mieux d’en mettre 2 ou au moins 1,5.\n•\tLa sauce fromagère est excellente, elle relève vraiment le tout.\n•\tLe tacos gratiné est personnalisable (cheddar, mozza, raclette, etc.). J’ai pris cheddar + chicken rouge, mais la viande était un peu trop cuite à mon goût.\n\nAu final, pour 10€, c’est vraiment copieux, difficile même de tout finir. Ce n’est pas le genre de sandwich pour lequel je reviendrais régulièrement, j’ai déjà goûté mieux ailleurs, mais pour une première expérience, c’est parfait.\n\nJe recommande pour tester une fois, ou quand on a une grosse faim sans se ruiner.\n💸 Rapport qualité/prix au top !",
+        "langue": "fr",
+        "date": "2025-06-04",
+        "auteur": "El Reviewer",
+        "auteur_lien": "https://www.google.com/maps/contrib/110030622476659061727/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VQYUlxdVBHcktmYlVnEAE!2m1!1s0x47e66db8356ccc3b:0x3f542e3a0abf151e"
+      }
+    ]
+  },
+  "services": {
+    "releve": "2026-10-22",
+    "prix": "PRICE_LEVEL_INEXPENSIVE",
+    "options": {
+      "dineIn": true,
+      "takeout": true,
+      "delivery": true,
+      "servesCoffee": true,
+      "restroom": true
+    },
+    "paiement": [
+      "carte de débit",
+      "paiement sans contact"
+    ],
+    "parking": [
+      "parking gratuit",
+      "stationnement payant dans la rue"
+    ]
   }
 }

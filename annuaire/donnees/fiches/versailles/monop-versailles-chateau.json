@@ -30,7 +30,7 @@
     "longitude": 2.1275892
   },
   "note": 4,
-  "avis": 175,
+  "avis": 176,
   "horaires": [
     {
       "jour": 0,
@@ -113,8 +113,8 @@
     "etat": "absent",
     "premiere_detection": null,
     "derniere_detection": null,
-    "derniere_verification": "2026-10-09T16:58:32.124Z",
-    "echecs": 13,
+    "derniere_verification": "2026-10-22T10:06:20.031Z",
+    "echecs": 14,
     "url_detectee": null
   },
   "suggestion": {
@@ -127,22 +127,32 @@
   "dates": {
     "collecte": "2026-09-27",
     "publication": "2026-09-27",
-    "maj": "2026-10-09"
+    "maj": "2026-10-22"
   },
   "source": "google-places",
   "redaction": {
     "version": 2,
     "titre": "Monop’ Versailles Château — Commerce d'alimentation à Versailles",
     "meta_titre": "Monop’ Versailles Château à Versailles : horaires, avis",
-    "meta_description": "Monop’ Versailles Château, commerce d'alimentation à Versailles : horaires d'ouverture, note Google 4/5 (175 avis), téléphone, adresse et itinéraire.",
-    "chapo": "Monop’ Versailles Château exerce l'activité de commerce d'alimentation au 7 Avenue de Sceaux, à Versailles. Ouvert sept jours sur sept au relevé du 9 octobre 2026. Téléphone : 01 73 95 01 64. Note Google : 4 sur 5 pour 175 avis.",
+    "meta_description": "Monop’ Versailles Château, commerce d'alimentation à Versailles : horaires d'ouverture, note Google 4/5 (176 avis), téléphone, adresse et itinéraire.",
+    "chapo": "Monop’ Versailles Château exerce l'activité de commerce d'alimentation au 7 Avenue de Sceaux, à Versailles. Ouvert sept jours sur sept au relevé du 22 octobre 2026. Téléphone : 01 73 95 01 64. Note Google : 4 sur 5 pour 176 avis.",
     "sections": [
       {
         "id": "presentation",
         "titre": "Monop’ Versailles Château en quelques mots",
         "paragraphes": [
           "Sur Google, l'établissement est classé « Supermarché », dans notre rubrique Commerce d'alimentation.",
-          "D'après le relevé du 9 octobre 2026, l'établissement est ouvert sept jours sur sept. Le détail jour par jour figure plus bas."
+          "D'après le relevé du 22 octobre 2026, l'établissement est ouvert sept jours sur sept. Le détail jour par jour figure plus bas."
+        ]
+      },
+      {
+        "id": "prestations",
+        "titre": "Services et équipements de Monop’ Versailles Château",
+        "paragraphes": [
+          "Proposé : livraison.",
+          "Non proposé selon la fiche Google : toilettes.",
+          "Moyens de paiement déclarés : carte bancaire, carte de débit et paiement sans contact.",
+          "Ces indications sont déclarées par l'établissement sur sa fiche Google (relevé du 22 octobre 2026)."
         ]
       },
       {
@@ -164,18 +174,18 @@
         "id": "avis",
         "titre": "La réputation de Monop’ Versailles Château",
         "paragraphes": [
-          "Note de 4 sur 5 pour 175 avis Google au relevé du 9 octobre 2026. Les avis se consultent sur la fiche Google, dont le lien figure sur cette page."
+          "Note de 4 sur 5 pour 176 avis Google au relevé du 22 octobre 2026. Les avis les plus parlants sont compilés ci-dessous, avec un lien vers la fiche d'origine."
         ]
       }
     ],
     "faq": [
       {
         "q": "Quels sont les horaires de Monop’ Versailles Château ?",
-        "r": "Au relevé du 9 octobre 2026, Monop’ Versailles Château était ouvert sept jours sur sept. Dans le détail — lundi : de 8 h à 22 h ; mardi : de 8 h à 22 h ; mercredi : de 8 h à 22 h ; jeudi : de 8 h à 22 h ; vendredi : de 8 h à 22 h ; samedi : de 8 h à 22 h ; dimanche : de 9 h à 22 h. Ces horaires peuvent changer : un appel préalable reste conseillé."
+        "r": "Au relevé du 22 octobre 2026, Monop’ Versailles Château était ouvert sept jours sur sept. Dans le détail — lundi : de 8 h à 22 h ; mardi : de 8 h à 22 h ; mercredi : de 8 h à 22 h ; jeudi : de 8 h à 22 h ; vendredi : de 8 h à 22 h ; samedi : de 8 h à 22 h ; dimanche : de 9 h à 22 h. Ces horaires peuvent changer : un appel préalable reste conseillé."
       },
       {
         "q": "Monop’ Versailles Château est-il ouvert le dimanche ?",
-        "r": "Oui : le dimanche, Monop’ Versailles Château est ouvert de 9 h à 22 h (horaires relevés le 9 octobre 2026)."
+        "r": "Oui : le dimanche, Monop’ Versailles Château est ouvert de 9 h à 22 h (horaires relevés le 22 octobre 2026)."
       },
       {
         "q": "Où se trouve Monop’ Versailles Château ?",
@@ -186,11 +196,15 @@
         "r": "Par téléphone au 01 73 95 01 64, ou directement sur place aux heures d'ouverture."
       },
       {
+        "q": "Monop’ Versailles Château propose-t-il la vente à emporter ou la livraison ?",
+        "r": "D'après sa fiche Google (relevé du 22 octobre 2026) — livraison : oui."
+      },
+      {
         "q": "Monop’ Versailles Château est-il accessible aux personnes à mobilité réduite ?",
         "r": "La fiche Google de l'établissement mentionne : « Entrée accessible en fauteuil roulant ». Cette information est déclarative ; en cas de doute, vérifiez par téléphone."
       }
     ],
-    "genere_le": "2026-10-09"
+    "genere_le": "2026-10-22"
   },
   "statut_google": "OPERATIONAL",
   "audience": {
@@ -201,6 +215,69 @@
     "clicsRecents": 0,
     "fenetreRecenteJours": 28,
     "source": "search-console",
-    "date": "2026-10-21"
+    "date": "2026-10-22"
+  },
+  "avis_detail": {
+    "releve": "2026-10-22",
+    "liste": [
+      {
+        "note": 1,
+        "texte": "bonjour, je suis arrivée à 21h45 et malheureusement le magasin était déjà fermé. je suis consciente d’arriver seulement 15 minutes avant la fermeture, mais travaillant moi-même en magasin, je sais que nous ne sommes pas censés fermer avant l’horaire indiqué. dans votre cas, l’horaire affiché est bien 22h. je trouve donc dommage de m’être déplacée pour rien alors que le magasin était censé être ouvert jusqu’à 22h.",
+        "langue": "fr",
+        "date": "2026-08-21",
+        "auteur": "flo c",
+        "auteur_lien": "https://www.google.com/maps/contrib/113391035786924629239/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2t4ZldTMXpSR0U1UW10SlEySm1ieTF4YlUxMFNIYxAB!2m1!1s0x47e67d00bc56db3f:0x86fb2da63e877d15"
+      },
+      {
+        "note": 2,
+        "texte": "Pratique et le choix de plat préparé est très satisfaisant. En revanche les dates sont souvent courtes voir dépassées ! Soyez vigilants ! Je viens en général 2 à 3 fois par semaine et cette semaine mon sandwich acheté le matin même était « périmé » et mes yaourts avaient une DLC de 2 jours et cela n’était pas indiqué sur les pots en tant que dates courtes 🙁",
+        "langue": "fr",
+        "date": "2026-06-15",
+        "auteur": "Manon Renaut",
+        "auteur_lien": "https://www.google.com/maps/contrib/111092541884669920937/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT21FMmQyOUJOVkJ3UTNBMmExTlZWMncwY0ZwTWVHYxAB!2m1!1s0x47e67d00bc56db3f:0x86fb2da63e877d15"
+      },
+      {
+        "note": 1,
+        "texte": "J’ai été malade après avoir consommé une mini-pizza achetée dans ce Monoprix. Elle était plus que tiède dans le four du magasin, c’est donc normal que des bactéries se développent !",
+        "langue": "fr",
+        "date": "2026-06-07",
+        "auteur": "Elio Morier",
+        "auteur_lien": "https://www.google.com/maps/contrib/113092098579920677250/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2tsNlVYbzFSR1pUWlRFelNIRjBMVkppVmxad2JFRRAB!2m1!1s0x47e67d00bc56db3f:0x86fb2da63e877d15"
+      },
+      {
+        "note": 1,
+        "texte": "Depuis le changement de responsable il y a beaucoup de points à revoir :\n- des rayons vides pendants plusieurs semaines .\n- des employés qui discutent  entre eux et ignorent les clients\n- le réassort fait pendant les heures de rush\nTout comme le ménage donc on a du mal à véhiculer avec une poussette .\n- tout le personnel d’avant est parti et celui en place ne crée pas de lien .\n- caisse paiement espèces HS pendant un moment …\nJe suis extrêmement déçue car c’est à proximité de mon domicile mais c’est devenu anarchique !",
+        "langue": "fr",
+        "date": "2026-05-28",
+        "auteur": "clementine dumont",
+        "auteur_lien": "https://www.google.com/maps/contrib/114376399796352650086/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xSM09ITldXbk5RY0VkWVR6bGtOazB3V1VObVJrRRAB!2m1!1s0x47e67d00bc56db3f:0x86fb2da63e877d15"
+      },
+      {
+        "note": 1,
+        "texte": "Cliente depuis l’ouverture la première équipe était accueillante. Puis au fur et à mesure des changements de personnel de pire en pire surtout une caissière en particulier qui clairement ne souhaite ni dire bonjour, merci… j’ai tenté un sourire…. Ça n’a rien changé en revanche elle a su jeter un client étranger qui ne comprenait pas le français… bref c’est dommage après tout ce petit Monoprix bien pratique vit tout de même des achats des touristes et des personnes (quelque fois âgées) du quartier… ça vaut bien un petit bonjour.",
+        "langue": "fr",
+        "date": "2026-03-25",
+        "auteur": "De Domart",
+        "auteur_lien": "https://www.google.com/maps/contrib/106246497218030988788/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2tScmVYTkxhM0pDVEVkYVFYTmZUa294WVRneE5rRRAB!2m1!1s0x47e67d00bc56db3f:0x86fb2da63e877d15"
+      }
+    ]
+  },
+  "services": {
+    "releve": "2026-10-22",
+    "options": {
+      "delivery": true,
+      "restroom": false
+    },
+    "paiement": [
+      "carte bancaire",
+      "carte de débit",
+      "paiement sans contact"
+    ],
+    "parking": []
   }
 }

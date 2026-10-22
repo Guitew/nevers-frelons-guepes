@@ -29,7 +29,7 @@
     "longitude": 5.6919872
   },
   "note": 4.8,
-  "avis": 715,
+  "avis": 723,
   "horaires": [
     {
       "jour": 0,
@@ -108,8 +108,8 @@
     "etat": "absent",
     "premiere_detection": null,
     "derniere_detection": null,
-    "derniere_verification": "2026-10-09T16:58:32.124Z",
-    "echecs": 23,
+    "derniere_verification": "2026-10-22T10:06:20.031Z",
+    "echecs": 24,
     "url_detectee": null
   },
   "suggestion": {
@@ -122,22 +122,34 @@
   "dates": {
     "collecte": "2026-09-22",
     "publication": "2026-09-22",
-    "maj": "2026-10-09"
+    "maj": "2026-10-22"
   },
   "source": "google-places",
   "redaction": {
     "version": 2,
     "titre": "Maison Haddad La panière du mail — Boulangerie-pâtisserie à Fontaine",
     "meta_titre": "Maison Haddad La panière du mail à Fontaine : horaires, avis",
-    "meta_description": "Maison Haddad La panière du mail, boulangerie-pâtisserie à Fontaine : horaires d'ouverture, note Google 4,8/5 (715 avis), adresse et itinéraire.",
-    "chapo": "Cette fiche présente Maison Haddad La panière du mail, une boulangerie-pâtisserie au 15 Mail Marcel Cachin, à Fontaine. Ouvert tous les jours sauf le vendredi au relevé du 9 octobre 2026. Note Google : 4,8 sur 5 pour 715 avis.",
+    "meta_description": "Maison Haddad La panière du mail, boulangerie-pâtisserie à Fontaine : horaires d'ouverture, note Google 4,8/5 (723 avis), adresse et itinéraire.",
+    "chapo": "Cette fiche présente Maison Haddad La panière du mail, une boulangerie-pâtisserie au 15 Mail Marcel Cachin, à Fontaine. Ouvert tous les jours sauf le vendredi au relevé du 22 octobre 2026. Note Google : 4,8 sur 5 pour 723 avis.",
     "sections": [
       {
         "id": "presentation",
         "titre": "Maison Haddad La panière du mail en quelques mots",
         "paragraphes": [
           "Sur Google, l'établissement est classé « Boulangerie », dans notre rubrique Boulangerie-pâtisserie.",
-          "D'après le relevé du 9 octobre 2026, l'établissement est ouvert tous les jours sauf le vendredi. Le détail jour par jour figure plus bas."
+          "Niveau de prix indiqué sur la fiche Google : € (bon marché).",
+          "D'après le relevé du 22 octobre 2026, l'établissement est ouvert tous les jours sauf le vendredi. Le détail jour par jour figure plus bas."
+        ]
+      },
+      {
+        "id": "prestations",
+        "titre": "Services et équipements de Maison Haddad La panière du mail",
+        "paragraphes": [
+          "Proposé : sur place, à emporter, petit-déjeuner et café.",
+          "Non proposé selon la fiche Google : livraison.",
+          "Moyens de paiement déclarés : carte bancaire, carte de débit et paiement sans contact.",
+          "Stationnement : parking gratuit et stationnement gratuit dans la rue.",
+          "Ces indications sont déclarées par l'établissement sur sa fiche Google (relevé du 22 octobre 2026)."
         ]
       },
       {
@@ -159,29 +171,37 @@
         "id": "avis",
         "titre": "La réputation de Maison Haddad La panière du mail",
         "paragraphes": [
-          "Note de 4,8 sur 5 pour 715 avis Google au relevé du 9 octobre 2026. Les avis se consultent sur la fiche Google, dont le lien figure sur cette page."
+          "Note de 4,8 sur 5 pour 723 avis Google au relevé du 22 octobre 2026. Les avis les plus parlants sont compilés ci-dessous, avec un lien vers la fiche d'origine."
         ]
       }
     ],
     "faq": [
       {
         "q": "Quels sont les horaires de Maison Haddad La panière du mail ?",
-        "r": "Au relevé du 9 octobre 2026, Maison Haddad La panière du mail était ouvert tous les jours sauf le vendredi. Dans le détail — lundi : de 7 h à 19 h ; mardi : de 7 h à 19 h ; mercredi : de 7 h à 19 h ; jeudi : de 7 h à 19 h ; vendredi : fermé ; samedi : de 7 h à 19 h ; dimanche : de 7 h à 19 h. Ces horaires peuvent changer : un appel préalable reste conseillé."
+        "r": "Au relevé du 22 octobre 2026, Maison Haddad La panière du mail était ouvert tous les jours sauf le vendredi. Dans le détail — lundi : de 7 h à 19 h ; mardi : de 7 h à 19 h ; mercredi : de 7 h à 19 h ; jeudi : de 7 h à 19 h ; vendredi : fermé ; samedi : de 7 h à 19 h ; dimanche : de 7 h à 19 h. Ces horaires peuvent changer : un appel préalable reste conseillé."
       },
       {
         "q": "Maison Haddad La panière du mail est-il ouvert le dimanche ?",
-        "r": "Oui : le dimanche, Maison Haddad La panière du mail est ouvert de 7 h à 19 h (horaires relevés le 9 octobre 2026)."
+        "r": "Oui : le dimanche, Maison Haddad La panière du mail est ouvert de 7 h à 19 h (horaires relevés le 22 octobre 2026)."
       },
       {
         "q": "Où se trouve Maison Haddad La panière du mail ?",
         "r": "Maison Haddad La panière du mail se trouve 15 Mail Marcel Cachin, 38600 Fontaine. Un lien d'itinéraire est disponible sur cette page."
       },
       {
+        "q": "Maison Haddad La panière du mail propose-t-il la vente à emporter ou la livraison ?",
+        "r": "D'après sa fiche Google (relevé du 22 octobre 2026) — vente à emporter : oui ; livraison : non."
+      },
+      {
+        "q": "Quel est le niveau de prix de Maison Haddad La panière du mail ?",
+        "r": "Google classe Maison Haddad La panière du mail au niveau de prix € (bon marché), sur une échelle de € à €€€€ établie à partir des avis clients."
+      },
+      {
         "q": "Maison Haddad La panière du mail est-il accessible aux personnes à mobilité réduite ?",
         "r": "La fiche Google de l'établissement mentionne : « Entrée accessible en fauteuil roulant ». Cette information est déclarative ; en cas de doute, vérifiez par téléphone."
       }
     ],
-    "genere_le": "2026-10-09"
+    "genere_le": "2026-10-22"
   },
   "statut_google": "OPERATIONAL",
   "audience": {
@@ -192,6 +212,76 @@
     "clicsRecents": 0,
     "fenetreRecenteJours": 28,
     "source": "search-console",
-    "date": "2026-10-21"
+    "date": "2026-10-22"
+  },
+  "avis_detail": {
+    "releve": "2026-10-22",
+    "liste": [
+      {
+        "note": 5,
+        "texte": "Un grand merci pour l’accueil que mes filles ont reçu aujourd’hui à la panière du Mail, le personnel est très souriant et propose un grand choix de délicieuses recettes sucrées ou salées.\nJe recommande fortement.\nÀ très vite.",
+        "langue": "fr",
+        "date": "2026-07-21",
+        "auteur": "Meriem Jawahir",
+        "auteur_lien": "https://www.google.com/maps/contrib/106026546488099894193/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2twTWJsZ3hNM1EwVkU1blQxOU5ZbWRKUWtGaGNWRRAB!2m1!1s0x478af3755893186f:0x6dcd44640bf6c33e"
+      },
+      {
+        "note": 5,
+        "texte": "Je viens de me rendre dans ce magnifique lieu tout est parfait. L'accueil est chaleureux et très agréable un endroit où l'on s'y sent bien. Et alors tout est un régale cookie pistache, noisette. Les trompes l'oeil exceptionnel. Hâte de m'y rendre de nouveau",
+        "langue": "fr",
+        "date": "2026-05-28",
+        "auteur": "Emilie Porcher",
+        "auteur_lien": "https://www.google.com/maps/contrib/104265027127153556272/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xkRGRXODNlblYxYmxGMldFSm1UblUzZG10SmRYYxAB!2m1!1s0x478af3755893186f:0x6dcd44640bf6c33e"
+      },
+      {
+        "note": 5,
+        "texte": "Une boulangerie absolument exceptionnelle ! La Maison Haddad à Fontaine propose des pains artisanaux, des viennoiseries croustillantes, et des pâtisseries délicieuses. L’accueil est chaleureux, et chaque produit est savoureux et de grande qualité. Je recommande vivement !",
+        "langue": "fr",
+        "date": "2026-05-20",
+        "auteur": "Jean Paul",
+        "auteur_lien": "https://www.google.com/maps/contrib/105794441784817575503/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25SUFF6RnRkRGg2UlRRM1YyWkJPRXgxWVdGamMxRRAB!2m1!1s0x478af3755893186f:0x6dcd44640bf6c33e"
+      },
+      {
+        "note": 5,
+        "texte": "Des pâtisseries aussi belles que délicieuses… les trompe-l’œil sont tout simplement bluffants. On hésite presque à les manger tellement le travail est impressionnant, mais une fois goûtés, c’est encore une autre surprise : les saveurs sont raffinées, équilibrées et vraiment excellentes.\n\nOn sent une vraie passion, énormément de créativité et un souci du détail rare.\nC’est clairement le genre d’adresse qu’on retient et qu’on recommande autour de soi sans hésiter.\n\nBravo pour votre talent et votre travail, c’est aussi beau que bon. Nous reviendrons avec grand plaisir",
+        "langue": "fr",
+        "date": "2026-05-11",
+        "auteur": "India Infanti",
+        "auteur_lien": "https://www.google.com/maps/contrib/102888217272316189774/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xsaGVHdzBVazl4TmtvNVRqSmhOVGx3Y2pkcFgzYxAB!2m1!1s0x478af3755893186f:0x6dcd44640bf6c33e"
+      },
+      {
+        "note": 5,
+        "texte": "La vitrine donne envie de tout prendre, le choix en sucré est varié, ca fait plaisir d’avoir une bonne patisserie à Grenoble. Pour ce premier passage j’ai craqué pour un donut à la pistache et brownie noix chocolat, les deux sont délicieux et vraiment peu sucrés. Je reviendrai certainement pour essayer le croissant à la pistache et les trompes oeil. L’accueil était correct. Les prix sont légèrement élevé mais la qualité est là.",
+        "langue": "fr",
+        "date": "2026-01-31",
+        "auteur": "Sanae",
+        "auteur_lien": "https://www.google.com/maps/contrib/111358942344598945565/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2pkWFRFNTFRVTlhVFZoTFpuTk5la3d5Y25neVFWRRAB!2m1!1s0x478af3755893186f:0x6dcd44640bf6c33e"
+      }
+    ]
+  },
+  "services": {
+    "releve": "2026-10-22",
+    "prix": "PRICE_LEVEL_INEXPENSIVE",
+    "options": {
+      "dineIn": true,
+      "takeout": true,
+      "delivery": false,
+      "servesBreakfast": true,
+      "servesCoffee": true
+    },
+    "paiement": [
+      "carte bancaire",
+      "carte de débit",
+      "paiement sans contact"
+    ],
+    "parking": [
+      "parking gratuit",
+      "stationnement gratuit dans la rue"
+    ]
   }
 }

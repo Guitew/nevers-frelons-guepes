@@ -113,8 +113,8 @@
     "etat": "absent",
     "premiere_detection": null,
     "derniere_detection": null,
-    "derniere_verification": "2026-10-09T16:58:32.124Z",
-    "echecs": 5,
+    "derniere_verification": "2026-10-22T10:06:20.031Z",
+    "echecs": 6,
     "url_detectee": null
   },
   "suggestion": {
@@ -127,7 +127,7 @@
   "dates": {
     "collecte": "2026-10-05",
     "publication": "2026-10-05",
-    "maj": "2026-10-18"
+    "maj": "2026-10-22"
   },
   "source": "google-places",
   "redaction": {
@@ -135,14 +135,23 @@
     "titre": "Pharmacie Lafayette des 4 Nations — Pharmacie ou opticien à Épinal",
     "meta_titre": "Pharmacie Lafayette des 4 Nations à Épinal : horaires, avis",
     "meta_description": "Pharmacie Lafayette des 4 Nations, pharmacie ou opticien à Épinal : horaires d'ouverture, note Google 4,4/5 (173 avis), téléphone, adresse et itinéraire.",
-    "chapo": "Cette fiche présente Pharmacie Lafayette des 4 Nations, une pharmacie ou opticien au 1 Place des 4 Nations, à Épinal. Ouvert tous les jours sauf le dimanche au relevé du 9 octobre 2026. Téléphone : 03 29 82 20 17. Note Google : 4,4 sur 5 pour 173 avis.",
+    "chapo": "Cette fiche présente Pharmacie Lafayette des 4 Nations, une pharmacie ou opticien au 1 Place des 4 Nations, à Épinal. Ouvert tous les jours sauf le dimanche au relevé du 22 octobre 2026. Téléphone : 03 29 82 20 17. Note Google : 4,4 sur 5 pour 173 avis.",
     "sections": [
       {
         "id": "presentation",
         "titre": "Pharmacie Lafayette des 4 Nations en quelques mots",
         "paragraphes": [
           "Sur Google, l'établissement est classé « Pharmacie », dans notre rubrique Pharmacie ou opticien.",
-          "D'après le relevé du 9 octobre 2026, l'établissement est ouvert tous les jours sauf le dimanche. Le détail jour par jour figure plus bas."
+          "D'après le relevé du 22 octobre 2026, l'établissement est ouvert tous les jours sauf le dimanche. Le détail jour par jour figure plus bas."
+        ]
+      },
+      {
+        "id": "prestations",
+        "titre": "Services et équipements de Pharmacie Lafayette des 4 Nations",
+        "paragraphes": [
+          "Proposé : livraison.",
+          "Moyens de paiement déclarés : carte bancaire, carte de débit et paiement sans contact.",
+          "Ces indications sont déclarées par l'établissement sur sa fiche Google (relevé du 22 octobre 2026)."
         ]
       },
       {
@@ -164,18 +173,18 @@
         "id": "avis",
         "titre": "La réputation de Pharmacie Lafayette des 4 Nations",
         "paragraphes": [
-          "Note de 4,4 sur 5 pour 173 avis Google au relevé du 9 octobre 2026. Les avis se consultent sur la fiche Google, dont le lien figure sur cette page."
+          "Note de 4,4 sur 5 pour 173 avis Google au relevé du 22 octobre 2026. Les avis les plus parlants sont compilés ci-dessous, avec un lien vers la fiche d'origine."
         ]
       }
     ],
     "faq": [
       {
         "q": "Quels sont les horaires de Pharmacie Lafayette des 4 Nations ?",
-        "r": "Au relevé du 9 octobre 2026, Pharmacie Lafayette des 4 Nations était ouvert tous les jours sauf le dimanche. Dans le détail — lundi : de 8 h à 20 h ; mardi : de 8 h à 20 h ; mercredi : de 8 h à 20 h ; jeudi : de 8 h à 20 h ; vendredi : de 8 h à 20 h ; samedi : de 8 h à 20 h ; dimanche : fermé. Ces horaires peuvent changer : un appel préalable reste conseillé."
+        "r": "Au relevé du 22 octobre 2026, Pharmacie Lafayette des 4 Nations était ouvert tous les jours sauf le dimanche. Dans le détail — lundi : de 8 h à 20 h ; mardi : de 8 h à 20 h ; mercredi : de 8 h à 20 h ; jeudi : de 8 h à 20 h ; vendredi : de 8 h à 20 h ; samedi : de 8 h à 20 h ; dimanche : fermé. Ces horaires peuvent changer : un appel préalable reste conseillé."
       },
       {
         "q": "Pharmacie Lafayette des 4 Nations est-il ouvert le dimanche ?",
-        "r": "Non : d'après les horaires relevés le 9 octobre 2026, Pharmacie Lafayette des 4 Nations est fermé le dimanche."
+        "r": "Non : d'après les horaires relevés le 22 octobre 2026, Pharmacie Lafayette des 4 Nations est fermé le dimanche."
       },
       {
         "q": "Où se trouve Pharmacie Lafayette des 4 Nations ?",
@@ -186,11 +195,15 @@
         "r": "Par téléphone au 03 29 82 20 17, ou directement sur place aux heures d'ouverture."
       },
       {
+        "q": "Pharmacie Lafayette des 4 Nations propose-t-il la vente à emporter ou la livraison ?",
+        "r": "D'après sa fiche Google (relevé du 22 octobre 2026) — livraison : oui."
+      },
+      {
         "q": "Pharmacie Lafayette des 4 Nations est-il accessible aux personnes à mobilité réduite ?",
         "r": "La fiche Google de l'établissement mentionne : « Entrée accessible en fauteuil roulant ». Cette information est déclarative ; en cas de doute, vérifiez par téléphone."
       }
     ],
-    "genere_le": "2026-10-09"
+    "genere_le": "2026-10-22"
   },
   "statut_google": "OPERATIONAL",
   "audience": {
@@ -201,6 +214,68 @@
     "clicsRecents": 0,
     "fenetreRecenteJours": 28,
     "source": "search-console",
-    "date": "2026-10-21"
+    "date": "2026-10-22"
+  },
+  "avis_detail": {
+    "releve": "2026-10-22",
+    "liste": [
+      {
+        "note": 5,
+        "texte": "Une excellente expérience dans cette pharmacie. Le personnel est très respectueux, gentil et accueillant. Je tiens à remercier toute l’équipe pour leur attention et leur professionnalisme.\n\nJe remercie particulièrement la jeune femme qui a pris le temps de bien m’expliquer les choses et de me conseiller des vitamines adaptées. Elle a été très patiente, à l’écoute et a répondu à toutes mes questions avec beaucoup de gentillesse.\n\nJe me sens en confiance avec cette pharmacie et je recommande vivement leurs services. Merci à toute l’équipe pour votre accueil et votre excellent travail. 🌸",
+        "langue": "fr",
+        "date": "2026-07-16",
+        "auteur": "Leyla DJERRARI",
+        "auteur_lien": "https://www.google.com/maps/contrib/112116027125716855376/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT20wNVpESlhNbTAzUkU1YVYxVmphMkp3YWtOa01XYxAB!2m1!1s0x4793a0871736c5c7:0x3400194a147e0cda"
+      },
+      {
+        "note": 5,
+        "texte": "Cliente depuis quelques années, j'ai toujours été bien accueillie et conseillée par toute l'équipe. Les horaires d'ouverture sont pratiques et le choix en parapharmacie très complet. Une pharmacie que je recommande !",
+        "langue": "fr",
+        "date": "2026-07-07",
+        "auteur": "Sarah Bourgel",
+        "auteur_lien": "https://www.google.com/maps/contrib/113979843878066062086/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2tvek9USllibmt6Tm5FeWNtTkZWbFo2WkRCeGJWRRAB!2m1!1s0x4793a0871736c5c7:0x3400194a147e0cda"
+      },
+      {
+        "note": 5,
+        "texte": "Depuis le changement de propriétaire, la pharmacie connaît un nouvel air. J’ai pu me confier à la patronne sur mes soucis qui m’a conseillé une cure qui a changé ma vie ! En plus ils proposent des prix hyper attractifs, foncez !!",
+        "langue": "fr",
+        "date": "2026-07-03",
+        "auteur": "Anna Nédélec",
+        "auteur_lien": "https://www.google.com/maps/contrib/112265905736385084091/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2sxQk1UTXpjRVo0Ym5CdVVHcHFhRlIzY2tkelExRRAB!2m1!1s0x4793a0871736c5c7:0x3400194a147e0cda"
+      },
+      {
+        "note": 1,
+        "texte": "Je me suis rendue ce jour à la pharmacie pour acheter un médicament non remboursé,(à proximité de mon travail) il y avait 3€ d’écart par rapport à une autre pharmacie du coin (facture à l’appuie) comment justifier de tel écart de prix ? L’enseigne Lafayette prône des prix bas mais ce n’est pas vraiment le cas ! Comparez avant d’acheter c’est un conseil.\nJ’ai quand même demandé à la personne en face de moi le pourquoi, il a fait semblant d’appeler la pharmacienne pour voir s’il pouvait s’aligner et m’a indiqué qu’il ne pouvait rien faire !\nJ’irai désormais faire mes emplettes ailleurs !\nDe plus la file d’attente est interminable, si vous êtes pressé et que vous regardez votre porte monnaie, fuyez ! Ce n’est pas l’enseigne la moins chère loin de là …",
+        "langue": "fr",
+        "date": "2026-07-01",
+        "auteur": "Marion Billet",
+        "auteur_lien": "https://www.google.com/maps/contrib/116919730171417118671/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2s5YVVXa3dPRmMxTjNkMlVUUlNaak5GT1VsTVNsRRAB!2m1!1s0x4793a0871736c5c7:0x3400194a147e0cda"
+      },
+      {
+        "note": 3,
+        "texte": "En pharmacie manque de vigilance à plusieurs reprises par exemple donner un gel au lieu de comprimés ou alors mauvais dosage … de plus en parapharmacie les produits en promotion dans le catalogue Lafayette ne sont pas présents alors qu ils sont affichés dans le Feuillet promo ! On ne nous donne plus aucun échantillon c est  dommage car même à Monoprix on en a ou par exemple à La grande pharmacie de Thaon les Vosges ils sont au moins aussi intéressants en prix voir mieux et des échantillons pour tester ils\nSont très généreux. Globalement la pharmacie est décevante.",
+        "langue": "fr",
+        "date": "2026-02-17",
+        "auteur": "Virginie Garibaldi",
+        "auteur_lien": "https://www.google.com/maps/contrib/100895615107457966869/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT21FMWJ6Vm1USEJLYkc5YVRsWk5ia3RaY25WbmQwRRAB!2m1!1s0x4793a0871736c5c7:0x3400194a147e0cda"
+      }
+    ]
+  },
+  "services": {
+    "releve": "2026-10-22",
+    "options": {
+      "delivery": true
+    },
+    "paiement": [
+      "carte bancaire",
+      "carte de débit",
+      "paiement sans contact"
+    ],
+    "parking": []
   }
 }

@@ -39,8 +39,8 @@
     "etat": "absent",
     "premiere_detection": null,
     "derniere_detection": null,
-    "derniere_verification": "2026-10-09T16:58:32.124Z",
-    "echecs": 20,
+    "derniere_verification": "2026-10-22T10:06:20.031Z",
+    "echecs": 21,
     "url_detectee": null
   },
   "suggestion": {
@@ -60,7 +60,7 @@
   "dates": {
     "collecte": "2026-09-23",
     "publication": "2026-09-23",
-    "maj": "2026-10-18"
+    "maj": "2026-10-22"
   },
   "source": "google-places",
   "redaction": {
@@ -75,6 +75,14 @@
         "titre": "Napoly Transports en quelques mots",
         "paragraphes": [
           "Sur Google, l'établissement est classé « Entreprise de déménagement », dans notre rubrique Transport et déménagement."
+        ]
+      },
+      {
+        "id": "prestations",
+        "titre": "Services et équipements de Napoly Transports",
+        "paragraphes": [
+          "Proposé : toilettes.",
+          "Ces indications sont déclarées par l'établissement sur sa fiche Google (relevé du 22 octobre 2026)."
         ]
       },
       {
@@ -96,7 +104,7 @@
         "id": "avis",
         "titre": "La réputation de Napoly Transports",
         "paragraphes": [
-          "Note de 4,8 sur 5 pour 8 avis Google au relevé du 9 octobre 2026. Les avis se consultent sur la fiche Google, dont le lien figure sur cette page."
+          "Note de 4,8 sur 5 pour 8 avis Google au relevé du 22 octobre 2026. Les avis les plus parlants sont compilés ci-dessous, avec un lien vers la fiche d'origine."
         ]
       }
     ],
@@ -106,7 +114,7 @@
         "r": "Napoly Transports se trouve Rue Élie Barreau, 17000 La Rochelle. Un lien d'itinéraire est disponible sur cette page."
       }
     ],
-    "genere_le": "2026-10-09"
+    "genere_le": "2026-10-22"
   },
   "statut_google": "OPERATIONAL",
   "audience": {
@@ -117,6 +125,64 @@
     "clicsRecents": 0,
     "fenetreRecenteJours": 28,
     "source": "search-console",
-    "date": "2026-10-21"
+    "date": "2026-10-22"
+  },
+  "avis_detail": {
+    "releve": "2026-10-22",
+    "liste": [
+      {
+        "note": 5,
+        "texte": "",
+        "langue": "",
+        "date": "2025-09-25",
+        "auteur": "Sébastien Nabil Toly",
+        "auteur_lien": "https://www.google.com/maps/contrib/106391362569353952106/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2pOS09VbFZWR2QxYUhKaVZGWjVTbEIxVkVzd1NHYxAB!2m1!1s0x480154929daa17af:0x2237d324f76bfdde"
+      },
+      {
+        "note": 5,
+        "texte": "",
+        "langue": "",
+        "date": "2022-10-20",
+        "auteur": "Michael Gorichon",
+        "auteur_lien": "https://www.google.com/maps/contrib/104468384358420037764/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSURldTVxM2pBRRAB!2m1!1s0x480154929daa17af:0x2237d324f76bfdde"
+      },
+      {
+        "note": 5,
+        "texte": "",
+        "langue": "",
+        "date": "2022-04-24",
+        "auteur": "Salomon Hammami",
+        "auteur_lien": "https://www.google.com/maps/contrib/102492308950852945408/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUMyNmJQZXR3RRAB!2m1!1s0x480154929daa17af:0x2237d324f76bfdde"
+      },
+      {
+        "note": 5,
+        "texte": "Femme  de ménage",
+        "langue": "fr",
+        "date": "2021-05-21",
+        "auteur": "estiot Isabelle",
+        "auteur_lien": "https://www.google.com/maps/contrib/116687238449938448028/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSURLMzktVnJ3RRAB!2m1!1s0x480154929daa17af:0x2237d324f76bfdde"
+      },
+      {
+        "note": 5,
+        "texte": "",
+        "langue": "",
+        "date": "2021-04-02",
+        "auteur": "j c",
+        "auteur_lien": "https://www.google.com/maps/contrib/107561522930547848643/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUNLMnBpcElREAE!2m1!1s0x480154929daa17af:0x2237d324f76bfdde"
+      }
+    ]
+  },
+  "services": {
+    "releve": "2026-10-22",
+    "options": {
+      "restroom": true
+    },
+    "paiement": [],
+    "parking": []
   }
 }

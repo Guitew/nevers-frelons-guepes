@@ -27,7 +27,7 @@
     "longitude": 5.1672649
   },
   "note": 3.6,
-  "avis": 361,
+  "avis": 362,
   "horaires": null,
   "attributs": [
     "Parking accessible en fauteuil roulant"
@@ -39,8 +39,8 @@
     "etat": "absent",
     "premiere_detection": null,
     "derniere_detection": null,
-    "derniere_verification": "2026-10-09T16:58:32.124Z",
-    "echecs": 64,
+    "derniere_verification": "2026-10-22T10:06:20.031Z",
+    "echecs": 65,
     "url_detectee": null
   },
   "suggestion": {
@@ -60,15 +60,15 @@
   "dates": {
     "collecte": "2026-09-02",
     "publication": "2026-09-02",
-    "maj": "2026-10-18"
+    "maj": "2026-10-22"
   },
   "source": "google-places",
   "redaction": {
     "version": 2,
     "titre": "Mutual Logistics Attignat — Transport et déménagement à Attignat",
     "meta_titre": "Mutual Logistics Attignat à Attignat : avis, téléphone",
-    "meta_description": "Mutual Logistics Attignat, transport et déménagement à Attignat : note Google 3,6/5 (361 avis), téléphone, adresse et itinéraire.",
-    "chapo": "Mutual Logistics Attignat est un transport et déménagement au 600 Rue des Entrepreneurs, à Attignat. Téléphone : 04 74 45 80 80. Note Google : 3,6 sur 5 pour 361 avis.",
+    "meta_description": "Mutual Logistics Attignat, transport et déménagement à Attignat : note Google 3,6/5 (362 avis), téléphone, adresse et itinéraire.",
+    "chapo": "Mutual Logistics Attignat est un transport et déménagement au 600 Rue des Entrepreneurs, à Attignat. Téléphone : 04 74 45 80 80. Note Google : 3,6 sur 5 pour 362 avis.",
     "sections": [
       {
         "id": "presentation",
@@ -96,7 +96,7 @@
         "id": "avis",
         "titre": "La réputation de Mutual Logistics Attignat",
         "paragraphes": [
-          "Note de 3,6 sur 5 pour 361 avis Google au relevé du 18 octobre 2026. Les avis se consultent sur la fiche Google, dont le lien figure sur cette page."
+          "Note de 3,6 sur 5 pour 362 avis Google au relevé du 22 octobre 2026. Les avis les plus parlants sont compilés ci-dessous, avec un lien vers la fiche d'origine."
         ]
       }
     ],
@@ -114,7 +114,7 @@
         "r": "La fiche Google de l'établissement mentionne : « Parking accessible en fauteuil roulant ». Cette information est déclarative ; en cas de doute, vérifiez par téléphone."
       }
     ],
-    "genere_le": "2026-10-18"
+    "genere_le": "2026-10-22"
   },
   "statut_google": "OPERATIONAL",
   "audience": {
@@ -125,7 +125,7 @@
     "clicsRecents": 0,
     "fenetreRecenteJours": 28,
     "source": "search-console",
-    "date": "2026-10-21"
+    "date": "2026-10-22"
   },
   "indexation": {
     "etat": "non-indexee",
@@ -135,5 +135,55 @@
     "canonique_google": null,
     "source": "inspection",
     "date": "2026-10-18"
+  },
+  "avis_detail": {
+    "releve": "2026-10-22",
+    "liste": [
+      {
+        "note": 5,
+        "texte": "Bonjour faical réception très professionnel et qui connaît son travail . Très assiduit sur l’arrimage du camion . Je recommande très fortement si vous tombé sur lui",
+        "langue": "fr",
+        "date": "2026-07-18",
+        "auteur": "Chauffeur Professionnel (Chauffeur pro)",
+        "auteur_lien": "https://www.google.com/maps/contrib/104950902105193781438/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xCdWIydFNWV0p1UTFWdlpFaHlhV041V0hKS1UxRRAB!2m1!1s0x47f34fc7932be41b:0xb55b5a2ad1d28505"
+      },
+      {
+        "note": 5,
+        "texte": "Bonjour,\nJe souhaite remercier l'agence MLA pour leur accueil, équipe  sympathique et dynamique , un grand merci a l'operateur  faycel qui c'est occupé de moi",
+        "langue": "fr",
+        "date": "2026-07-04",
+        "auteur": "Thierno Diallo",
+        "auteur_lien": "https://www.google.com/maps/contrib/100022822116931304582/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xJMU1GRnRjWEZOU21sVE5FOUpPV05FV1hoWmVuYxAB!2m1!1s0x47f34fc7932be41b:0xb55b5a2ad1d28505"
+      },
+      {
+        "note": 5,
+        "texte": "Personnel sympa ,  1h max pour un complet. 👍🏻",
+        "langue": "fr",
+        "date": "2026-06-11",
+        "auteur": "christophe marie",
+        "auteur_lien": "https://www.google.com/maps/contrib/115475906870671724107/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT21SQmNrZzFVMjEwUm01UVRGTnllbHAzYkVkak1rRRAB!2m1!1s0x47f34fc7932be41b:0xb55b5a2ad1d28505"
+      },
+      {
+        "note": 5,
+        "texte": "Alors moi quand j’arrive là-bas Faisal très très bon à chaque fois j’arrive là-bas même en avance il me prend direct sans exception super gentil meilleur chargeur de là-bas.",
+        "langue": "fr",
+        "date": "2026-04-27",
+        "auteur": "Ali Madi Chris",
+        "auteur_lien": "https://www.google.com/maps/contrib/112195181778440440039/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2pGNlIxZE1Vbk4zVVdzd2JYUnJabFZzZDBsdFYwRRAB!2m1!1s0x47f34fc7932be41b:0xb55b5a2ad1d28505"
+      },
+      {
+        "note": 1,
+        "texte": "Entreprise à fuir! personnel dans un autre monde! Désagréable! Irrespectueux! Prennent les gens de haut se croient tout permis on sait a quelle heure on arrive jamais a quelle heure on part! Des attentes en moyenne de 4h! Le parking était vide on était 2 et ils disent “vous êtes dans la liste d’attente”! Quelle liste on est deux? Ils sont arrogants femme comme homme la dedans! Sur toute la France c’est la seule entreprise ou je déteste y aller! Il y en a pas deux comme eux! D’ailleurs ils sont réputer pour leur laxisme 🤮🤮🤮",
+        "langue": "fr",
+        "date": "2025-10-07",
+        "auteur": "angelique yaman",
+        "auteur_lien": "https://www.google.com/maps/contrib/117116737312200732081/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2tKelRXdE1hV1Y0ZWxOVE4ycHdURXRYVlVGaVRsRRAB!2m1!1s0x47f34fc7932be41b:0xb55b5a2ad1d28505"
+      }
+    ]
   }
 }

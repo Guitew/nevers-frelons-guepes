@@ -133,8 +133,8 @@
     "etat": "absent",
     "premiere_detection": null,
     "derniere_detection": null,
-    "derniere_verification": "2026-10-09T16:58:32.124Z",
-    "echecs": 12,
+    "derniere_verification": "2026-10-22T10:06:20.031Z",
+    "echecs": 13,
     "url_detectee": null
   },
   "suggestion": {
@@ -147,7 +147,7 @@
   "dates": {
     "collecte": "2026-09-28",
     "publication": "2026-09-28",
-    "maj": "2026-10-09"
+    "maj": "2026-10-22"
   },
   "source": "google-places",
   "redaction": {
@@ -155,14 +155,22 @@
     "titre": "Pharmacie du Saint Quentin — Pharmacie ou opticien à Le Ban-Saint-Martin",
     "meta_titre": "Pharmacie du Saint Quentin : horaires, avis, téléphone",
     "meta_description": "Pharmacie du Saint Quentin, pharmacie ou opticien à Le Ban-Saint-Martin : horaires d'ouverture, téléphone, adresse et itinéraire.",
-    "chapo": "Pharmacie du Saint Quentin, pharmacie ou opticien au 84 Route de Plappeville, à Le Ban-Saint-Martin. Ouvert tous les jours sauf le dimanche au relevé du 9 octobre 2026. Téléphone : 03 87 30 45 37. Note Google : 3,8 sur 5 pour 53 avis.",
+    "chapo": "Pharmacie du Saint Quentin, pharmacie ou opticien au 84 Route de Plappeville, à Le Ban-Saint-Martin. Ouvert tous les jours sauf le dimanche au relevé du 22 octobre 2026. Téléphone : 03 87 30 45 37. Note Google : 3,8 sur 5 pour 53 avis.",
     "sections": [
       {
         "id": "presentation",
         "titre": "Pharmacie du Saint Quentin en quelques mots",
         "paragraphes": [
           "Sur Google, l'établissement est classé « Pharmacie », dans notre rubrique Pharmacie ou opticien.",
-          "D'après le relevé du 9 octobre 2026, l'établissement est ouvert tous les jours sauf le dimanche. Le détail jour par jour figure plus bas."
+          "D'après le relevé du 22 octobre 2026, l'établissement est ouvert tous les jours sauf le dimanche. Le détail jour par jour figure plus bas."
+        ]
+      },
+      {
+        "id": "prestations",
+        "titre": "Services et équipements de Pharmacie du Saint Quentin",
+        "paragraphes": [
+          "Moyens de paiement déclarés : carte bancaire, carte de débit et paiement sans contact.",
+          "Ces indications sont déclarées par l'établissement sur sa fiche Google (relevé du 22 octobre 2026)."
         ]
       },
       {
@@ -184,18 +192,18 @@
         "id": "avis",
         "titre": "La réputation de Pharmacie du Saint Quentin",
         "paragraphes": [
-          "Note de 3,8 sur 5 pour 53 avis Google au relevé du 9 octobre 2026. Les avis se consultent sur la fiche Google, dont le lien figure sur cette page."
+          "Note de 3,8 sur 5 pour 53 avis Google au relevé du 22 octobre 2026. Les avis les plus parlants sont compilés ci-dessous, avec un lien vers la fiche d'origine."
         ]
       }
     ],
     "faq": [
       {
         "q": "Quels sont les horaires de Pharmacie du Saint Quentin ?",
-        "r": "Au relevé du 9 octobre 2026, Pharmacie du Saint Quentin était ouvert tous les jours sauf le dimanche. Dans le détail — lundi : de 8 h à 12 h 30 et de 13 h 30 à 20 h ; mardi : de 8 h à 12 h 30 et de 13 h 30 à 20 h ; mercredi : de 8 h à 12 h 30 et de 13 h 30 à 20 h ; jeudi : de 8 h à 12 h 30 et de 13 h 30 à 20 h ; vendredi : de 8 h à 12 h 30 et de 13 h 30 à 20 h ; samedi : de 8 h à 12 h 30 et de 13 h 30 à 18 h 30 ; dimanche : fermé. Ces horaires peuvent changer : un appel préalable reste conseillé."
+        "r": "Au relevé du 22 octobre 2026, Pharmacie du Saint Quentin était ouvert tous les jours sauf le dimanche. Dans le détail — lundi : de 8 h à 12 h 30 et de 13 h 30 à 20 h ; mardi : de 8 h à 12 h 30 et de 13 h 30 à 20 h ; mercredi : de 8 h à 12 h 30 et de 13 h 30 à 20 h ; jeudi : de 8 h à 12 h 30 et de 13 h 30 à 20 h ; vendredi : de 8 h à 12 h 30 et de 13 h 30 à 20 h ; samedi : de 8 h à 12 h 30 et de 13 h 30 à 18 h 30 ; dimanche : fermé. Ces horaires peuvent changer : un appel préalable reste conseillé."
       },
       {
         "q": "Pharmacie du Saint Quentin est-il ouvert le dimanche ?",
-        "r": "Non : d'après les horaires relevés le 9 octobre 2026, Pharmacie du Saint Quentin est fermé le dimanche."
+        "r": "Non : d'après les horaires relevés le 22 octobre 2026, Pharmacie du Saint Quentin est fermé le dimanche."
       },
       {
         "q": "Où se trouve Pharmacie du Saint Quentin ?",
@@ -210,7 +218,7 @@
         "r": "La fiche Google de l'établissement mentionne : « Entrée accessible en fauteuil roulant ». Cette information est déclarative ; en cas de doute, vérifiez par téléphone."
       }
     ],
-    "genere_le": "2026-10-09"
+    "genere_le": "2026-10-22"
   },
   "statut_google": "OPERATIONAL",
   "audience": {
@@ -221,6 +229,66 @@
     "clicsRecents": 0,
     "fenetreRecenteJours": 28,
     "source": "search-console",
-    "date": "2026-10-21"
+    "date": "2026-10-22"
+  },
+  "avis_detail": {
+    "releve": "2026-10-22",
+    "liste": [
+      {
+        "note": 5,
+        "texte": "On trouve tous ce dont on a besoin quotidien, les pharmaciens sont de bons conseils.",
+        "langue": "fr",
+        "date": "2026-04-27",
+        "auteur": "Cynthia Schlesser",
+        "auteur_lien": "https://www.google.com/maps/contrib/109059030033856810247/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25BdFNtUlNaRmR3WjE4dE5IRmlVR3RLV0dKQ05IYxAB!2m1!1s0x4794d95b9d8bb371:0x46ebee8c7beb009"
+      },
+      {
+        "note": 1,
+        "texte": "Pharmacie a fuir.\nPersonnels désagréable\nAntipathique.\nAbsolument pas professionnel\nTrès cher .",
+        "langue": "fr",
+        "date": "2026-02-15",
+        "auteur": "Cachounad",
+        "auteur_lien": "https://www.google.com/maps/contrib/116826119179087021568/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25CWVNqTmtRbHBaYlhWaE5YQkJZbU5hWkhkU1pGRRAB!2m1!1s0x4794d95b9d8bb371:0x46ebee8c7beb009"
+      },
+      {
+        "note": 5,
+        "texte": "Une pharmacie au sein de laquelle j'ai toujours été accueilli avec un grand sourire, de la part de l'ensemble des collaborateurs. Ils/elles sont d'une extrême gentillesse, beaucoup de bienveillance et très serviables. Je suis patient depuis 2 ans à intervalle regulier pour mon traitement médicamenteux et je n'ai absolument rien à redire sur leurs compétences et leur professionnalisme. Toujours joignable par téléphone pour m'apporter une réponse à une question. Depuis ma première expérience , je suis toujours resté fidèle à cette belle équipe. Merci à toutes et tous, je recommande vivement cette pharmacie",
+        "langue": "fr",
+        "date": "2025-10-14",
+        "auteur": "Lolo Lolo",
+        "auteur_lien": "https://www.google.com/maps/contrib/118194819756387546732/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2pWcFV5MXpTV1UyZDB0TlJqbEtVMFkwU201U2VuYxAB!2m1!1s0x4794d95b9d8bb371:0x46ebee8c7beb009"
+      },
+      {
+        "note": 5,
+        "texte": "Je n’imaginais pas un jour laisser un avis pour une pharmacie mais quand je vois certains avis ici je me sens obligé de le le faire. En quelques années j’ai eu souvent l’occasion de fréquenter cette pharmacie et ses différents collaborateurs. Pas une fois je n’ai eu à me plaindre ni de leur professionnalisme, ni de leur serviabilité, bien au contraire. Dernièrement j’ai même trouvé un nouveau médecin traitant grâce à eux, suite au départ de mon généraliste.\nBravo à eux et j’incite la majorité des personnes qui fréquenté cette pharmacie à faire comme moi et laisser un avis par respect pour leur personnel.",
+        "langue": "fr",
+        "date": "2025-09-17",
+        "auteur": "Manuel RODRIGUEZ",
+        "auteur_lien": "https://www.google.com/maps/contrib/109942382254086378765/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2sweU5UWmhVMFJRVm1KU2VFVkRVV2xUYkdkMGVIYxAB!2m1!1s0x4794d95b9d8bb371:0x46ebee8c7beb009"
+      },
+      {
+        "note": 1,
+        "texte": "Je souffre d'une cystite avec de nombreux leucocytes. Le pharmacien me prescrit un complément alimentaire !!!!!évidemment 4 jours après la cystite est toujours là avec des douleurs aux reins. Alors que le pharmacien a depuis 2025   la possibilité de prescrire un antibiotique sous protocole si il avait pris le temps de faire une analyse d'urine. Il ne s'en est pas donné la peine.\nC'est regrettable et évidemment pour moi je me dirigerais dorénavant vers des professionnels plus fiables.",
+        "langue": "fr",
+        "date": "2025-03-11",
+        "auteur": "Florence Gauche",
+        "auteur_lien": "https://www.google.com/maps/contrib/116881064245628573396/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnTURRc1lLTGtBRRAB!2m1!1s0x4794d95b9d8bb371:0x46ebee8c7beb009"
+      }
+    ]
+  },
+  "services": {
+    "releve": "2026-10-22",
+    "options": {},
+    "paiement": [
+      "carte bancaire",
+      "carte de débit",
+      "paiement sans contact"
+    ],
+    "parking": []
   }
 }

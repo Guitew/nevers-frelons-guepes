@@ -28,7 +28,7 @@
     "longitude": 3.5523947000000002
   },
   "note": 4.4,
-  "avis": 109,
+  "avis": 110,
   "horaires": [
     {
       "jour": 0,
@@ -107,8 +107,8 @@
     "etat": "absent",
     "premiere_detection": null,
     "derniere_detection": null,
-    "derniere_verification": "2026-10-09T16:58:32.124Z",
-    "echecs": 16,
+    "derniere_verification": "2026-10-22T10:06:20.031Z",
+    "echecs": 17,
     "url_detectee": null
   },
   "suggestion": {
@@ -121,7 +121,7 @@
   "dates": {
     "collecte": "2026-09-25",
     "publication": "2026-09-25",
-    "maj": "2026-10-09"
+    "maj": "2026-10-22"
   },
   "source": "google-places",
   "redaction": {
@@ -129,14 +129,24 @@
     "titre": "Pharmacie Boudykkan (Ste Genevieve) — Pharmacie ou opticien à Auxerre",
     "meta_titre": "Pharmacie Boudykkan (Ste Genevieve) à Auxerre",
     "meta_description": "Pharmacie Boudykkan (Ste Genevieve), pharmacie ou opticien à Auxerre : horaires d'ouverture, téléphone, adresse et itinéraire.",
-    "chapo": "Pharmacie Boudykkan (Ste Genevieve) exerce l'activité de pharmacie ou opticien au 3 Avenue Delacroix, à Auxerre. Ouvert tous les jours sauf le dimanche au relevé du 9 octobre 2026. Téléphone : 03 86 46 37 14. Note Google : 4,4 sur 5 pour 109 avis.",
+    "chapo": "Pharmacie Boudykkan (Ste Genevieve) exerce l'activité de pharmacie ou opticien au 3 Avenue Delacroix, à Auxerre. Ouvert tous les jours sauf le dimanche au relevé du 22 octobre 2026. Téléphone : 03 86 46 37 14. Note Google : 4,4 sur 5 pour 110 avis.",
     "sections": [
       {
         "id": "presentation",
         "titre": "Pharmacie Boudykkan (Ste Genevieve) en quelques mots",
         "paragraphes": [
           "Sur Google, l'établissement est classé « Pharmacie », dans notre rubrique Pharmacie ou opticien.",
-          "D'après le relevé du 9 octobre 2026, l'établissement est ouvert tous les jours sauf le dimanche. Le détail jour par jour figure plus bas."
+          "D'après le relevé du 22 octobre 2026, l'établissement est ouvert tous les jours sauf le dimanche. Le détail jour par jour figure plus bas."
+        ]
+      },
+      {
+        "id": "prestations",
+        "titre": "Services et équipements de Pharmacie Boudykkan (Ste Genevieve)",
+        "paragraphes": [
+          "Proposé : livraison.",
+          "Non proposé selon la fiche Google : retrait en voiture.",
+          "Moyens de paiement déclarés : carte bancaire, carte de débit et paiement sans contact.",
+          "Ces indications sont déclarées par l'établissement sur sa fiche Google (relevé du 22 octobre 2026)."
         ]
       },
       {
@@ -158,18 +168,18 @@
         "id": "avis",
         "titre": "La réputation de Pharmacie Boudykkan (Ste Genevieve)",
         "paragraphes": [
-          "Note de 4,4 sur 5 pour 109 avis Google au relevé du 9 octobre 2026. Les avis se consultent sur la fiche Google, dont le lien figure sur cette page."
+          "Note de 4,4 sur 5 pour 110 avis Google au relevé du 22 octobre 2026. Les avis les plus parlants sont compilés ci-dessous, avec un lien vers la fiche d'origine."
         ]
       }
     ],
     "faq": [
       {
         "q": "Quels sont les horaires de Pharmacie Boudykkan (Ste Genevieve) ?",
-        "r": "Au relevé du 9 octobre 2026, Pharmacie Boudykkan (Ste Genevieve) était ouvert tous les jours sauf le dimanche. Dans le détail — lundi : de 8 h 30 à 19 h 30 ; mardi : de 8 h 30 à 19 h 30 ; mercredi : de 8 h 30 à 19 h 30 ; jeudi : de 8 h 30 à 19 h 30 ; vendredi : de 8 h 30 à 19 h 30 ; samedi : de 9 h à 17 h ; dimanche : fermé. Ces horaires peuvent changer : un appel préalable reste conseillé."
+        "r": "Au relevé du 22 octobre 2026, Pharmacie Boudykkan (Ste Genevieve) était ouvert tous les jours sauf le dimanche. Dans le détail — lundi : de 8 h 30 à 19 h 30 ; mardi : de 8 h 30 à 19 h 30 ; mercredi : de 8 h 30 à 19 h 30 ; jeudi : de 8 h 30 à 19 h 30 ; vendredi : de 8 h 30 à 19 h 30 ; samedi : de 9 h à 17 h ; dimanche : fermé. Ces horaires peuvent changer : un appel préalable reste conseillé."
       },
       {
         "q": "Pharmacie Boudykkan (Ste Genevieve) est-il ouvert le dimanche ?",
-        "r": "Non : d'après les horaires relevés le 9 octobre 2026, Pharmacie Boudykkan (Ste Genevieve) est fermé le dimanche."
+        "r": "Non : d'après les horaires relevés le 22 octobre 2026, Pharmacie Boudykkan (Ste Genevieve) est fermé le dimanche."
       },
       {
         "q": "Où se trouve Pharmacie Boudykkan (Ste Genevieve) ?",
@@ -180,11 +190,15 @@
         "r": "Par téléphone au 03 86 46 37 14, ou directement sur place aux heures d'ouverture."
       },
       {
+        "q": "Pharmacie Boudykkan (Ste Genevieve) propose-t-il la vente à emporter ou la livraison ?",
+        "r": "D'après sa fiche Google (relevé du 22 octobre 2026) — livraison : oui."
+      },
+      {
         "q": "Pharmacie Boudykkan (Ste Genevieve) est-il accessible aux personnes à mobilité réduite ?",
         "r": "La fiche Google de l'établissement mentionne : « Entrée accessible en fauteuil roulant ». Cette information est déclarative ; en cas de doute, vérifiez par téléphone."
       }
     ],
-    "genere_le": "2026-10-09"
+    "genere_le": "2026-10-22"
   },
   "statut_google": "OPERATIONAL",
   "audience": {
@@ -195,6 +209,69 @@
     "clicsRecents": 0,
     "fenetreRecenteJours": 28,
     "source": "search-console",
-    "date": "2026-10-21"
+    "date": "2026-10-22"
+  },
+  "avis_detail": {
+    "releve": "2026-10-22",
+    "liste": [
+      {
+        "note": 1,
+        "texte": "Un très mauvaise accueil, pas a un chat et pourtant j’attend désespérément qu’on vienne me servir car madame était occuper a parler ! Alors que je sortais de maternité pas en forme, de plus mon bébé dans la voiture avec papa entrain de cuire ! Je ne vous la recommande pas du tout",
+        "langue": "fr",
+        "date": "2026-08-05",
+        "auteur": "Alexia Kerdraon",
+        "auteur_lien": "https://www.google.com/maps/contrib/102050970694878982607/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25NNGMwRmpTR280Y0hsUVF6VkRkVmxxTFRGR1gyYxAB!2m1!1s0x47ee4ed9cbb31063:0xe51c336a71ff6d88"
+      },
+      {
+        "note": 5,
+        "texte": "Une pharmacie exemplaire ! Le personnel est non seulement hyper compétent, mais aussi d’une grande bienveillance. Ils prennent toujours le temps de bien expliquer, de conseiller et de rassurer avec le sourire.\nOn se sent écouté et jamais expédié. Un service humain et professionnel comme on aimerait en voir plus souvent. Je recommande vivement !",
+        "langue": "fr",
+        "date": "2025-12-17",
+        "auteur": "FullCleanEvents",
+        "auteur_lien": "https://www.google.com/maps/contrib/107074036413449479293/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xoUFdXNHpSRUZoTFRSQ1RXUldRV1JxUkhCMU0xRRAB!2m1!1s0x47ee4ed9cbb31063:0xe51c336a71ff6d88"
+      },
+      {
+        "note": 5,
+        "texte": "Très bonne expérience à chaque passage dans cette pharmacie. L’équipe est accueillante, professionnelle et toujours de bon conseil. On sent qu’ils prennent leur travail à cœur et qu’ils cherchent vraiment à aider les clients. L’attente est raisonnable et le lieu est toujours propre et bien rangé. Une adresse que je recommande sans hésiter.",
+        "langue": "fr",
+        "date": "2025-11-06",
+        "auteur": "Leila Camara",
+        "auteur_lien": "https://www.google.com/maps/contrib/109849026069176257341/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT210UlJubGpORXhhTFhaVlptZGpja3BIUm05cExXYxAB!2m1!1s0x47ee4ed9cbb31063:0xe51c336a71ff6d88"
+      },
+      {
+        "note": 5,
+        "texte": "La Pharmacie Boudykkan est tout simplement au top ! L’équipe est toujours accueillante, souriante et très professionnelle. On sent qu’ils prennent vraiment le temps d’écouter et de donner des conseils personnalisés, que ce soit pour un traitement, un complément ou un produit de parapharmacie.\nLe service est rapide, les stocks bien fournis, et on trouve toujours une solution adaptée à ses besoins. C’est rare de tomber sur une équipe aussi attentive et bienveillante !\nJe recommande cette pharmacie les yeux fermés",
+        "langue": "fr",
+        "date": "2025-10-21",
+        "auteur": "Kaoutar ELM",
+        "auteur_lien": "https://www.google.com/maps/contrib/114290678649124329541/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2poeFprRkNTMHh3YjNKa1FXVnFSR3hDZUZCM2VWRRAB!2m1!1s0x47ee4ed9cbb31063:0xe51c336a71ff6d88"
+      },
+      {
+        "note": 1,
+        "texte": "Pharmacie, non accueillante, ont refusé de me servir car c’était un renouvellement d’un traitement très important que je dois prendre tous les jours et j’ai été prié de sortir de leur établissement\nPas en adéquation avec leur slogan marqué sur leur pharmacie, je suis extrêmement déçu et à cause de cette pharmacie je vais être en  manque de mes médicaments, ce qui n’est pas du tout conseillé vu mon état de santé",
+        "langue": "fr",
+        "date": "2025-04-20",
+        "auteur": "Aurore Callewaert",
+        "auteur_lien": "https://www.google.com/maps/contrib/103613612435081349008/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnTUNvbDlyME93EAE!2m1!1s0x47ee4ed9cbb31063:0xe51c336a71ff6d88"
+      }
+    ]
+  },
+  "services": {
+    "releve": "2026-10-22",
+    "options": {
+      "delivery": true,
+      "curbsidePickup": false
+    },
+    "paiement": [
+      "carte bancaire",
+      "carte de débit",
+      "paiement sans contact"
+    ],
+    "parking": []
   }
 }

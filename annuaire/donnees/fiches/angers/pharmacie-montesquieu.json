@@ -35,7 +35,7 @@
     "longitude": -0.5801446
   },
   "note": 4.8,
-  "avis": 79,
+  "avis": 80,
   "horaires": [
     {
       "jour": 0,
@@ -138,8 +138,8 @@
     "etat": "absent",
     "premiere_detection": null,
     "derniere_detection": null,
-    "derniere_verification": "2026-10-09T16:58:32.124Z",
-    "echecs": 17,
+    "derniere_verification": "2026-10-22T10:06:20.031Z",
+    "echecs": 18,
     "url_detectee": null
   },
   "suggestion": {
@@ -152,22 +152,31 @@
   "dates": {
     "collecte": "2026-09-24",
     "publication": "2026-09-24",
-    "maj": "2026-10-18"
+    "maj": "2026-10-22"
   },
   "source": "google-places",
   "redaction": {
     "version": 2,
     "titre": "Pharmacie Montesquieu — Pharmacie ou opticien à Angers",
     "meta_titre": "Pharmacie Montesquieu à Angers : horaires, avis, téléphone",
-    "meta_description": "Pharmacie Montesquieu, pharmacie ou opticien à Angers : horaires d'ouverture, note Google 4,8/5 (79 avis), téléphone, adresse et itinéraire.",
-    "chapo": "Pharmacie Montesquieu exerce l'activité de pharmacie ou opticien au 7 Rue Montesquieu, à Angers. Ouvert tous les jours sauf le dimanche au relevé du 9 octobre 2026. Téléphone : 02 41 48 23 19. Note Google : 4,8 sur 5 pour 79 avis.",
+    "meta_description": "Pharmacie Montesquieu, pharmacie ou opticien à Angers : horaires d'ouverture, note Google 4,8/5 (80 avis), téléphone, adresse et itinéraire.",
+    "chapo": "Pharmacie Montesquieu exerce l'activité de pharmacie ou opticien au 7 Rue Montesquieu, à Angers. Ouvert tous les jours sauf le dimanche au relevé du 22 octobre 2026. Téléphone : 02 41 48 23 19. Note Google : 4,8 sur 5 pour 80 avis.",
     "sections": [
       {
         "id": "presentation",
         "titre": "Pharmacie Montesquieu en quelques mots",
         "paragraphes": [
           "Sur Google, l'établissement est classé « Pharmacie », dans notre rubrique Pharmacie ou opticien.",
-          "D'après le relevé du 9 octobre 2026, l'établissement est ouvert tous les jours sauf le dimanche. Le détail jour par jour figure plus bas."
+          "D'après le relevé du 22 octobre 2026, l'établissement est ouvert tous les jours sauf le dimanche. Le détail jour par jour figure plus bas."
+        ]
+      },
+      {
+        "id": "prestations",
+        "titre": "Services et équipements de Pharmacie Montesquieu",
+        "paragraphes": [
+          "Proposé : livraison.",
+          "Moyens de paiement déclarés : carte bancaire, carte de débit et paiement sans contact.",
+          "Ces indications sont déclarées par l'établissement sur sa fiche Google (relevé du 22 octobre 2026)."
         ]
       },
       {
@@ -189,18 +198,18 @@
         "id": "avis",
         "titre": "La réputation de Pharmacie Montesquieu",
         "paragraphes": [
-          "Note de 4,8 sur 5 pour 79 avis Google au relevé du 9 octobre 2026. Les avis se consultent sur la fiche Google, dont le lien figure sur cette page."
+          "Note de 4,8 sur 5 pour 80 avis Google au relevé du 22 octobre 2026. Les avis les plus parlants sont compilés ci-dessous, avec un lien vers la fiche d'origine."
         ]
       }
     ],
     "faq": [
       {
         "q": "Quels sont les horaires de Pharmacie Montesquieu ?",
-        "r": "Au relevé du 9 octobre 2026, Pharmacie Montesquieu était ouvert tous les jours sauf le dimanche. Dans le détail — lundi : de 8 h 45 à 13 h et de 14 h à 19 h 30 ; mardi : de 8 h 45 à 13 h et de 14 h à 19 h 30 ; mercredi : de 8 h 45 à 13 h et de 14 h à 19 h 30 ; jeudi : de 8 h 45 à 13 h et de 14 h à 19 h 30 ; vendredi : de 8 h 45 à 13 h et de 14 h à 19 h 30 ; samedi : de 8 h 45 à 12 h 30 et de 14 h à 18 h 30 ; dimanche : fermé. Ces horaires peuvent changer : un appel préalable reste conseillé."
+        "r": "Au relevé du 22 octobre 2026, Pharmacie Montesquieu était ouvert tous les jours sauf le dimanche. Dans le détail — lundi : de 8 h 45 à 13 h et de 14 h à 19 h 30 ; mardi : de 8 h 45 à 13 h et de 14 h à 19 h 30 ; mercredi : de 8 h 45 à 13 h et de 14 h à 19 h 30 ; jeudi : de 8 h 45 à 13 h et de 14 h à 19 h 30 ; vendredi : de 8 h 45 à 13 h et de 14 h à 19 h 30 ; samedi : de 8 h 45 à 12 h 30 et de 14 h à 18 h 30 ; dimanche : fermé. Ces horaires peuvent changer : un appel préalable reste conseillé."
       },
       {
         "q": "Pharmacie Montesquieu est-il ouvert le dimanche ?",
-        "r": "Non : d'après les horaires relevés le 9 octobre 2026, Pharmacie Montesquieu est fermé le dimanche."
+        "r": "Non : d'après les horaires relevés le 22 octobre 2026, Pharmacie Montesquieu est fermé le dimanche."
       },
       {
         "q": "Où se trouve Pharmacie Montesquieu ?",
@@ -211,11 +220,15 @@
         "r": "Par téléphone au 02 41 48 23 19, ou directement sur place aux heures d'ouverture."
       },
       {
+        "q": "Pharmacie Montesquieu propose-t-il la vente à emporter ou la livraison ?",
+        "r": "D'après sa fiche Google (relevé du 22 octobre 2026) — livraison : oui."
+      },
+      {
         "q": "Pharmacie Montesquieu est-il accessible aux personnes à mobilité réduite ?",
         "r": "La fiche Google de l'établissement mentionne : « Entrée accessible en fauteuil roulant ». Cette information est déclarative ; en cas de doute, vérifiez par téléphone."
       }
     ],
-    "genere_le": "2026-10-09"
+    "genere_le": "2026-10-22"
   },
   "statut_google": "OPERATIONAL",
   "audience": {
@@ -226,6 +239,68 @@
     "clicsRecents": 0,
     "fenetreRecenteJours": 28,
     "source": "search-console",
-    "date": "2026-10-21"
+    "date": "2026-10-22"
+  },
+  "avis_detail": {
+    "releve": "2026-10-22",
+    "liste": [
+      {
+        "note": 5,
+        "texte": "Très accueillant. Personnel efficace et agréable.\nC'est decidé, voilà notre nouvelle pharmacie !",
+        "langue": "fr",
+        "date": "2026-04-27",
+        "auteur": "Bobby Bob",
+        "auteur_lien": "https://www.google.com/maps/contrib/107834537408763012409/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25wSVprTlRRM2xyVEUxMmRWRTRUblZuVGxCVk0zYxAB!2m1!1s0x48087f3117eff20f:0x42f9589938edabac"
+      },
+      {
+        "note": 5,
+        "texte": "Pharmacie de famille avec une équipe très à l’écoute, bienveillante, attentive et respectueuse ! J’en serais toujours ravie et je les remercierai jamais suffisamment pour tout !",
+        "langue": "fr",
+        "date": "2026-04-15",
+        "auteur": "Solène Deleau",
+        "auteur_lien": "https://www.google.com/maps/contrib/105215687509800470449/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2pCdldrVlpSV3h1YlRNM1EyRmZPSGRZTlZWSU1IYxAB!2m1!1s0x48087f3117eff20f:0x42f9589938edabac"
+      },
+      {
+        "note": 5,
+        "texte": "Je me suis rendu dans cette pharmacie le soir du 23/01/2026, la pharmacie étant de garde. L'accueil y était parfait, la pharmacienne précise et attentionnée. Merci à elle. Je recommande sans hésiter cette pharmacie.",
+        "langue": "fr",
+        "date": "2026-01-23",
+        "auteur": "Pierre Collignon",
+        "auteur_lien": "https://www.google.com/maps/contrib/107774019279121173248/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2pKcFJreHpaRmRZVjFscVNrdDVaVkZ4VGxseU1uYxAB!2m1!1s0x48087f3117eff20f:0x42f9589938edabac"
+      },
+      {
+        "note": 5,
+        "texte": "Je tenais à laisser un avis très positif sur cette pharmacie où je me rends depuis fin 2019. L'accueil est toujours excellent, le lieu est agréable et simple, et le professionnalisme de l'ensemble du personnel (pharmaciens et préparatrices) est remarquable. Leur réactivité est également un atout majeur.\n\nJ'ai été extrêmement touchée par l'écoute dont j'ai bénéficié et la bienveillance de l'équipe. C'est un véritable réconfort de se sentir aussi bien accompagnée : tant dans le suivi d'un sevrage tabagique, ou bien de problématiques de santé plus importantes.\n\nSi un jour je déménage et m'éloigne géographiquement, il me sera difficile de changer de pharmacie. Je serais prête à faire le déplacement pour continuer à bénéficier de leur expertise et de cette relation de confiance inestimable.",
+        "langue": "fr",
+        "date": "2025-07-08",
+        "auteur": "Ophélie Brard",
+        "auteur_lien": "https://www.google.com/maps/contrib/101572617518686905568/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xKSlpFTlFNV3BZWkRkdmRHUkphREpOWkRNMVExRRAB!2m1!1s0x48087f3117eff20f:0x42f9589938edabac"
+      },
+      {
+        "note": 5,
+        "texte": "Pharmacie vraiment au top à Angers ! J'ai été accueilli par un jeune homme barbu extrêmement aimable , très souriant et sympathique. Il m'a donné des conseils précieux avec une grande gentillesse et un professionnalisme remarquable. C'est rare de rencontrer quelqu'un d'aussi attentionné et serviable !",
+        "langue": "fr",
+        "date": "2024-08-13",
+        "auteur": "Tom Bachelot",
+        "auteur_lien": "https://www.google.com/maps/contrib/115177599771573672770/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUM3eklPLWR3EAE!2m1!1s0x48087f3117eff20f:0x42f9589938edabac"
+      }
+    ]
+  },
+  "services": {
+    "releve": "2026-10-22",
+    "options": {
+      "delivery": true
+    },
+    "paiement": [
+      "carte bancaire",
+      "carte de débit",
+      "paiement sans contact"
+    ],
+    "parking": []
   }
 }

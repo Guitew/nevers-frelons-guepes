@@ -32,7 +32,7 @@
     "longitude": 1.470513
   },
   "note": 4.3,
-  "avis": 200,
+  "avis": 202,
   "horaires": [
     {
       "jour": 0,
@@ -111,8 +111,8 @@
     "etat": "absent",
     "premiere_detection": null,
     "derniere_detection": null,
-    "derniere_verification": "2026-10-09T16:58:32.124Z",
-    "echecs": 65,
+    "derniere_verification": "2026-10-22T10:06:20.031Z",
+    "echecs": 66,
     "url_detectee": null
   },
   "suggestion": {
@@ -130,22 +130,33 @@
   "dates": {
     "collecte": "2026-09-01",
     "publication": "2026-09-01",
-    "maj": "2026-10-19"
+    "maj": "2026-10-22"
   },
   "source": "google-places",
   "redaction": {
     "version": 2,
     "titre": "PHARMACIE DU CARRÉ D'OR | Lucé 28 — Pharmacie ou opticien à Lucé",
     "meta_titre": "PHARMACIE DU CARRÉ D'OR | Lucé 28 à Lucé : horaires, avis",
-    "meta_description": "PHARMACIE DU CARRÉ D'OR | Lucé 28, pharmacie ou opticien à Lucé : horaires d'ouverture, note Google 4,3/5 (200 avis), téléphone, adresse et itinéraire.",
-    "chapo": "PHARMACIE DU CARRÉ D'OR | Lucé 28 est une pharmacie ou opticien au Avenue Coriolan, à Lucé. Ouvert tous les jours sauf le dimanche au relevé du 18 octobre 2026. Téléphone : 02 37 35 39 77. Note Google : 4,3 sur 5 pour 200 avis.",
+    "meta_description": "PHARMACIE DU CARRÉ D'OR | Lucé 28, pharmacie ou opticien à Lucé : horaires d'ouverture, note Google 4,3/5 (202 avis), téléphone, adresse et itinéraire.",
+    "chapo": "PHARMACIE DU CARRÉ D'OR | Lucé 28 est une pharmacie ou opticien au Avenue Coriolan, à Lucé. Ouvert tous les jours sauf le dimanche au relevé du 22 octobre 2026. Téléphone : 02 37 35 39 77. Note Google : 4,3 sur 5 pour 202 avis.",
     "sections": [
       {
         "id": "presentation",
         "titre": "PHARMACIE DU CARRÉ D'OR | Lucé 28 en quelques mots",
         "paragraphes": [
           "Sur Google, l'établissement est classé « Pharmacie », dans notre rubrique Pharmacie ou opticien.",
-          "D'après le relevé du 18 octobre 2026, l'établissement est ouvert tous les jours sauf le dimanche. Le détail jour par jour figure plus bas."
+          "D'après le relevé du 22 octobre 2026, l'établissement est ouvert tous les jours sauf le dimanche. Le détail jour par jour figure plus bas."
+        ]
+      },
+      {
+        "id": "prestations",
+        "titre": "Services et équipements de PHARMACIE DU CARRÉ D'OR | Lucé 28",
+        "paragraphes": [
+          "Proposé : livraison.",
+          "Non proposé selon la fiche Google : retrait en voiture.",
+          "Moyens de paiement déclarés : carte bancaire, carte de débit et paiement sans contact.",
+          "Stationnement : parking gratuit.",
+          "Ces indications sont déclarées par l'établissement sur sa fiche Google (relevé du 22 octobre 2026)."
         ]
       },
       {
@@ -167,18 +178,18 @@
         "id": "avis",
         "titre": "La réputation de PHARMACIE DU CARRÉ D'OR | Lucé 28",
         "paragraphes": [
-          "Note de 4,3 sur 5 pour 200 avis Google au relevé du 18 octobre 2026. Les avis se consultent sur la fiche Google, dont le lien figure sur cette page."
+          "Note de 4,3 sur 5 pour 202 avis Google au relevé du 22 octobre 2026. Les avis les plus parlants sont compilés ci-dessous, avec un lien vers la fiche d'origine."
         ]
       }
     ],
     "faq": [
       {
         "q": "Quels sont les horaires de PHARMACIE DU CARRÉ D'OR | Lucé 28 ?",
-        "r": "Au relevé du 18 octobre 2026, PHARMACIE DU CARRÉ D'OR | Lucé 28 était ouvert tous les jours sauf le dimanche. Dans le détail — lundi : de 8 h à 20 h ; mardi : de 8 h à 20 h ; mercredi : de 8 h à 20 h ; jeudi : de 8 h à 20 h ; vendredi : de 8 h à 20 h ; samedi : de 8 h à 20 h ; dimanche : fermé. Ces horaires peuvent changer : un appel préalable reste conseillé."
+        "r": "Au relevé du 22 octobre 2026, PHARMACIE DU CARRÉ D'OR | Lucé 28 était ouvert tous les jours sauf le dimanche. Dans le détail — lundi : de 8 h à 20 h ; mardi : de 8 h à 20 h ; mercredi : de 8 h à 20 h ; jeudi : de 8 h à 20 h ; vendredi : de 8 h à 20 h ; samedi : de 8 h à 20 h ; dimanche : fermé. Ces horaires peuvent changer : un appel préalable reste conseillé."
       },
       {
         "q": "PHARMACIE DU CARRÉ D'OR | Lucé 28 est-il ouvert le dimanche ?",
-        "r": "Non : d'après les horaires relevés le 18 octobre 2026, PHARMACIE DU CARRÉ D'OR | Lucé 28 est fermé le dimanche."
+        "r": "Non : d'après les horaires relevés le 22 octobre 2026, PHARMACIE DU CARRÉ D'OR | Lucé 28 est fermé le dimanche."
       },
       {
         "q": "Où se trouve PHARMACIE DU CARRÉ D'OR | Lucé 28 ?",
@@ -189,11 +200,15 @@
         "r": "Par téléphone au 02 37 35 39 77, ou directement sur place aux heures d'ouverture."
       },
       {
+        "q": "PHARMACIE DU CARRÉ D'OR | Lucé 28 propose-t-il la vente à emporter ou la livraison ?",
+        "r": "D'après sa fiche Google (relevé du 22 octobre 2026) — livraison : oui."
+      },
+      {
         "q": "PHARMACIE DU CARRÉ D'OR | Lucé 28 est-il accessible aux personnes à mobilité réduite ?",
         "r": "La fiche Google de l'établissement mentionne : « Entrée accessible en fauteuil roulant ». Cette information est déclarative ; en cas de doute, vérifiez par téléphone."
       }
     ],
-    "genere_le": "2026-10-18"
+    "genere_le": "2026-10-22"
   },
   "statut_google": "OPERATIONAL",
   "audience": {
@@ -204,7 +219,7 @@
     "clicsRecents": 0,
     "fenetreRecenteJours": 28,
     "source": "search-console",
-    "date": "2026-10-21"
+    "date": "2026-10-22"
   },
   "indexation": {
     "etat": "non-indexee",
@@ -214,5 +229,70 @@
     "canonique_google": null,
     "source": "inspection",
     "date": "2026-10-19"
+  },
+  "avis_detail": {
+    "releve": "2026-10-22",
+    "liste": [
+      {
+        "note": 5,
+        "texte": "Très bon accueil au téléphone. La personne que j’ai eue a été aimable, patiente et professionnelle. Elle a pris le temps de répondre à mes questions avec clarté et gentillesse. Un service téléphonique de qualité, merci pour votre disponibilité.",
+        "langue": "fr",
+        "date": "2026-08-04",
+        "auteur": "Sana Nasri",
+        "auteur_lien": "https://www.google.com/maps/contrib/100719556067356724081/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2psMU9Ya3RVRzF5TURCaVRscGZORVYzUkRkV1drRRAB!2m1!1s0x47e40c68ac200423:0xaf89f5eb9088a384"
+      },
+      {
+        "note": 5,
+        "texte": "Personnels très souriants, à l'écoute  !\nJe suis toujours bien reçue et conseillée.\nMerci pour votre professionnalisme et gentillesse",
+        "langue": "fr",
+        "date": "2026-06-05",
+        "auteur": "Carole LELOUIS",
+        "auteur_lien": "https://www.google.com/maps/contrib/109679904164301101510/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2tjM09WTjRkWFJCWm1scE9FNU5lbkU1TldneVJuYxAB!2m1!1s0x47e40c68ac200423:0xaf89f5eb9088a384"
+      },
+      {
+        "note": 5,
+        "texte": "Les pharmaciens hommes comme femmes prennent le temps d’analyser notre demande et de nous servir à notre juste valeur merci à vous d’être là. Bonne continuation.",
+        "langue": "fr",
+        "date": "2026-05-02",
+        "auteur": "Mme D Mme",
+        "auteur_lien": "https://www.google.com/maps/contrib/113646801724204071369/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25kelkwZFZja0Y0U1d4RFpEQklkMUZ3TnpaeFgwRRAB!2m1!1s0x47e40c68ac200423:0xaf89f5eb9088a384"
+      },
+      {
+        "note": 5,
+        "texte": "Quand je viens dans cette pharmacie j’espère être servis au comptoir  par le pharmacien qui a l’accent Quebequois (quand je pense à la pharmacie du carré d’or je pense tout de suite à lui) : un pharmacien très professionnel doté d’excellents conseils, d’une extrême gentillesse et toujours souriant et ça ça fait vraiment plaisir.  Merci pour votre  bienveillance et de votre humanité, je vous souhaite un joyeux  et heureux  noël 🎄🎁✨☺️",
+        "langue": "fr",
+        "date": "2025-12-25",
+        "auteur": "Elodie Costa",
+        "auteur_lien": "https://www.google.com/maps/contrib/109026645709560680859/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2tWUk1tUjFhMjFqZURrd1JsOUxhSFkxUjJsRlNsRRAB!2m1!1s0x47e40c68ac200423:0xaf89f5eb9088a384"
+      },
+      {
+        "note": 5,
+        "texte": "Le pharmacien qui s'est occupé de moi Vendredi 29 août à 8h30 était très professionnel, très aimable. Avec beaucoup de compassion, il a pris le temps de m'expliquer la pose d'une genouillère. Je reviendrai sans problème dans cette pharmacie.",
+        "langue": "fr",
+        "date": "2025-08-31",
+        "auteur": "Nicole Gondy",
+        "auteur_lien": "https://www.google.com/maps/contrib/107665918997935945579/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT21KNlNYQmFORk14ZWxCWU0zZEdSRGcxZG5WeVlrRRAB!2m1!1s0x47e40c68ac200423:0xaf89f5eb9088a384"
+      }
+    ]
+  },
+  "services": {
+    "releve": "2026-10-22",
+    "options": {
+      "delivery": true,
+      "curbsidePickup": false
+    },
+    "paiement": [
+      "carte bancaire",
+      "carte de débit",
+      "paiement sans contact"
+    ],
+    "parking": [
+      "parking gratuit"
+    ]
   }
 }

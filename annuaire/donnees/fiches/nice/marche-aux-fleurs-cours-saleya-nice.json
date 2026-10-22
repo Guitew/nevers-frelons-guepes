@@ -30,7 +30,7 @@
     "longitude": 7.2749939999999995
   },
   "note": 4.5,
-  "avis": 5365,
+  "avis": 5381,
   "horaires": [
     {
       "jour": 0,
@@ -109,8 +109,8 @@
     "etat": "absent",
     "premiere_detection": null,
     "derniere_detection": null,
-    "derniere_verification": "2026-10-09T16:58:32.124Z",
-    "echecs": 62,
+    "derniere_verification": "2026-10-22T10:06:20.031Z",
+    "echecs": 63,
     "url_detectee": null
   },
   "suggestion": {
@@ -128,22 +128,31 @@
   "dates": {
     "collecte": "2026-09-03",
     "publication": "2026-09-03",
-    "maj": "2026-10-18"
+    "maj": "2026-10-22"
   },
   "source": "google-places",
   "redaction": {
     "version": 2,
     "titre": "Marché aux fleurs - Cours Saleya - Nice — Boulangerie-pâtisserie à Nice",
     "meta_titre": "Marché aux fleurs - Cours Saleya - Nice : horaires, avis",
-    "meta_description": "Marché aux fleurs - Cours Saleya - Nice, boulangerie-pâtisserie à Nice : horaires d'ouverture, note Google 4,5/5 (5365 avis), adresse et itinéraire.",
-    "chapo": "Marché aux fleurs - Cours Saleya - Nice exerce l'activité de boulangerie-pâtisserie au Cours Saleya, à Nice. Ouvert tous les jours sauf le lundi au relevé du 18 octobre 2026. Note Google : 4,5 sur 5 pour 5365 avis.",
+    "meta_description": "Marché aux fleurs - Cours Saleya - Nice, boulangerie-pâtisserie à Nice : horaires d'ouverture, note Google 4,5/5 (5381 avis), adresse et itinéraire.",
+    "chapo": "Marché aux fleurs - Cours Saleya - Nice exerce l'activité de boulangerie-pâtisserie au Cours Saleya, à Nice. Ouvert tous les jours sauf le lundi au relevé du 22 octobre 2026. Note Google : 4,5 sur 5 pour 5381 avis.",
     "sections": [
       {
         "id": "presentation",
         "titre": "Marché aux fleurs - Cours Saleya - Nice en quelques mots",
         "paragraphes": [
+          "Présentation donnée par Google : « Marché en plein air établi de longue date avec fleurs coupées fraîches, ainsi que produits alimentaires et articles locaux. »",
           "Sur Google, l'établissement est classé « Marché », dans notre rubrique Boulangerie-pâtisserie.",
-          "D'après le relevé du 18 octobre 2026, l'établissement est ouvert tous les jours sauf le lundi. Le détail jour par jour figure plus bas."
+          "D'après le relevé du 22 octobre 2026, l'établissement est ouvert tous les jours sauf le lundi. Le détail jour par jour figure plus bas."
+        ]
+      },
+      {
+        "id": "prestations",
+        "titre": "Services et équipements de Marché aux fleurs - Cours Saleya - Nice",
+        "paragraphes": [
+          "Moyens de paiement déclarés : carte bancaire et carte de débit.",
+          "Ces indications sont déclarées par l'établissement sur sa fiche Google (relevé du 22 octobre 2026)."
         ]
       },
       {
@@ -165,18 +174,18 @@
         "id": "avis",
         "titre": "La réputation de Marché aux fleurs - Cours Saleya - Nice",
         "paragraphes": [
-          "Note de 4,5 sur 5 pour 5365 avis Google au relevé du 18 octobre 2026. Les avis se consultent sur la fiche Google, dont le lien figure sur cette page."
+          "Note de 4,5 sur 5 pour 5381 avis Google au relevé du 22 octobre 2026. Les avis les plus parlants sont compilés ci-dessous, avec un lien vers la fiche d'origine."
         ]
       }
     ],
     "faq": [
       {
         "q": "Quels sont les horaires de Marché aux fleurs - Cours Saleya - Nice ?",
-        "r": "Au relevé du 18 octobre 2026, Marché aux fleurs - Cours Saleya - Nice était ouvert tous les jours sauf le lundi. Dans le détail — lundi : fermé ; mardi : de 9 h à 13 h ; mercredi : de 9 h à 13 h ; jeudi : de 9 h à 13 h ; vendredi : de 9 h à 13 h ; samedi : de 9 h à 13 h ; dimanche : de 9 h à 13 h. Ces horaires peuvent changer : un appel préalable reste conseillé."
+        "r": "Au relevé du 22 octobre 2026, Marché aux fleurs - Cours Saleya - Nice était ouvert tous les jours sauf le lundi. Dans le détail — lundi : fermé ; mardi : de 9 h à 13 h ; mercredi : de 9 h à 13 h ; jeudi : de 9 h à 13 h ; vendredi : de 9 h à 13 h ; samedi : de 9 h à 13 h ; dimanche : de 9 h à 13 h. Ces horaires peuvent changer : un appel préalable reste conseillé."
       },
       {
         "q": "Marché aux fleurs - Cours Saleya - Nice est-il ouvert le dimanche ?",
-        "r": "Oui : le dimanche, Marché aux fleurs - Cours Saleya - Nice est ouvert de 9 h à 13 h (horaires relevés le 18 octobre 2026)."
+        "r": "Oui : le dimanche, Marché aux fleurs - Cours Saleya - Nice est ouvert de 9 h à 13 h (horaires relevés le 22 octobre 2026)."
       },
       {
         "q": "Où se trouve Marché aux fleurs - Cours Saleya - Nice ?",
@@ -187,7 +196,7 @@
         "r": "La fiche Google de l'établissement mentionne : « Entrée accessible en fauteuil roulant ». Cette information est déclarative ; en cas de doute, vérifiez par téléphone."
       }
     ],
-    "genere_le": "2026-10-18"
+    "genere_le": "2026-10-22"
   },
   "statut_google": "OPERATIONAL",
   "audience": {
@@ -198,7 +207,7 @@
     "clicsRecents": 0,
     "fenetreRecenteJours": 28,
     "source": "search-console",
-    "date": "2026-10-21"
+    "date": "2026-10-22"
   },
   "indexation": {
     "etat": "indexee",
@@ -208,5 +217,66 @@
     "canonique_google": null,
     "source": "impressions",
     "date": "2026-10-18"
+  },
+  "avis_detail": {
+    "releve": "2026-10-22",
+    "liste": [
+      {
+        "note": 5,
+        "texte": "Le marché aux antiquités du Cours Saleya le lundi est une pure merveille ! Rien à voir avec un simple vide-grenier, c'est un véritable trésor d'élégance vintage, d'argenterie et de bibelots chargés d'histoire. L'ambiance est incroyable sous le soleil de Nice. Un rendez-vous incontournable pour les amoureux du beau !",
+        "langue": "fr",
+        "date": "2026-09-02",
+        "auteur": "Victoria T0",
+        "auteur_lien": "https://www.google.com/maps/contrib/100892127480701130002/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT214UVNISXdWQzAxZFZCM2MwSlhkV0pFU1U4dFJuYxAB!2m1!1s0x12cddb055c4fe4bd:0x1138a84037403971"
+      },
+      {
+        "note": 4,
+        "texte": "Le marché aux fleurs du Cours Saleya est un incontournable lors d'une visite à Nice. On y trouve une grande variété de fleurs colorées, de plantes, ainsi que quelques produits locaux qui ajoutent au charme du lieu. L'ambiance est animée, typique du Vieux-Nice, avec les façades colorées et les terrasses à proximité. J'ai beaucoup apprécié la qualité des étals et la gentillesse des commerçants. J'enlève toutefois une étoile car le marché est souvent très fréquenté, ce qui peut rendre la circulation un peu difficile, surtout en haute saison. Malgré cela, c'est une très belle expérience que je recommande pour découvrir l'authenticité de Nice.",
+        "langue": "fr",
+        "date": "2026-07-28",
+        "auteur": "Pigeon Futé",
+        "auteur_lien": "https://www.google.com/maps/contrib/101720327247889879569/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2tKWlRqbDVUMkZGWW5OTllrUTFSbEZzY3psQ1lrRRAB!2m1!1s0x12cddb055c4fe4bd:0x1138a84037403971"
+      },
+      {
+        "note": 5,
+        "texte": "Un joli marché provençal !\nJe recommande de s’arrêter au stand « Chez Mamie-Thé » pour goûter la meilleure socca de Nice et prendre une part de pissaladière.\nÉgalement déguster un jus 3 fruits/légumes qui saura vous rafraîchir en pleine journée ensoleillée. ☀️",
+        "langue": "fr",
+        "date": "2026-04-27",
+        "auteur": "Aylin Cal",
+        "auteur_lien": "https://www.google.com/maps/contrib/111729992862774837617/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25KS04wdzVUSEZ6YTAxNFZtdHNVbFV4YjFGc1ZFRRAB!2m1!1s0x12cddb055c4fe4bd:0x1138a84037403971"
+      },
+      {
+        "note": 5,
+        "texte": "Marché Aux Fleurs – Cours Saleya is one of the true symbols of Nice and an essential stop when visiting the city. Going early in the morning makes a real difference—the atmosphere is calm, fresh, and much more authentic before the crowds arrive.\n\nThe flower market is the highlight: vibrant, colorful, and full of fresh, beautifully arranged bouquets. Alongside that, you’ll find high-quality fruits and vegetables, equally fresh and visually appealing. It’s also an ideal place to pick up local products such as lavender soaps, which reflect the regional identity very well.\n\nBeyond flowers and produce, the market offers small handicrafts, artisanal goods, and unique souvenirs, making it more than just a traditional market. The variety keeps the experience engaging, whether you’re browsing casually or shopping with intent.\n\nThe setting itself adds a lot to the experience—located in the historic old town, surrounded by classic architecture, cafés, and restaurants. It feels lively but not overwhelming, especially in the earlier hours.\n\nThere are also local specialties, spices, and occasionally ready-to-eat items, which make it a good place not only to shop but also to explore regional flavors.\n\nOverall, it’s a vibrant, authentic, and very enjoyable market that captures the essence of Nice. A highly recommended experience.\n\nLe Marché Aux Fleurs – Cours Saleya est l’un des symboles incontournables de Nice. S’y rendre tôt le matin change vraiment l’expérience : l’ambiance est plus calme, plus fraîche et plus authentique avant l’arrivée de la foule.\n\nLe marché aux fleurs est le point fort : coloré, vivant et rempli de compositions fraîches et soigneusement présentées. On y trouve également des fruits et légumes de grande qualité, tout aussi frais et attrayants. C’est aussi un endroit idéal pour acheter des produits locaux comme le savon à la lavande, très représentatif de la région.\n\nAu-delà des fleurs et des produits alimentaires, le marché propose des objets artisanaux, des souvenirs faits main et divers articles originaux, ce qui enrichit l’expérience. La diversité des stands permet de flâner avec plaisir.\n\nLe cadre contribue fortement au charme du lieu : situé dans le Vieux-Nice, entouré d’architecture typique, de cafés et de restaurants. L’ambiance est animée sans être étouffante, surtout le matin.\n\nOn y trouve également des spécialités locales, des épices et parfois des produits prêts à consommer, ce qui permet aussi de découvrir la gastronomie régionale.\n\nDans l’ensemble, c’est un marché vivant, authentique et très agréable, qui reflète parfaitement l’esprit de Nice. Une expérience vivement recommandée.",
+        "langue": "fr",
+        "date": "2026-03-28",
+        "auteur": "F M",
+        "auteur_lien": "https://www.google.com/maps/contrib/103746829475118338570/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2s1VmJYVTVaRTQ0Y0RsdVNrcDVOa0ZPTlROMVEwRRAB!2m1!1s0x12cddb055c4fe4bd:0x1138a84037403971"
+      },
+      {
+        "note": 4,
+        "texte": "Malheureusement, le marché aux fleurs du cours Saleya n'est plus ce qu'il était il y a encore 20 ou 30 ans ! À l'époque, il y avait beaucoup plus de fleurs et même certains fleuristes s'y approvisionnaient !\nAujourd'hui, il n'y a plus que quatre ou cinq vrais fleuristes (et encore), et tous les autres (pas très nombreux en basse saison) proposent des senteurs, des savonnettes ou des souvenirs pour les touristes en tout genre de Nice et de la Côte d'Azur. On y trouve aussi des fruits et légumes.\nÇa s'anime quand même un peu plus en été, mais le marché devient petit à petit un simple marché comme les autres !",
+        "langue": "fr",
+        "date": "2026-03-25",
+        "auteur": "Bleu Citron",
+        "auteur_lien": "https://www.google.com/maps/contrib/105148777649916526285/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2t4U1IzSTVSVkJTZDJ4c2VIbzJhMjFHUmpKblozYxAB!2m1!1s0x12cddb055c4fe4bd:0x1138a84037403971"
+      }
+    ]
+  },
+  "services": {
+    "releve": "2026-10-22",
+    "resume": "Marché en plein air établi de longue date avec fleurs coupées fraîches, ainsi que produits alimentaires et articles locaux.",
+    "resume_langue": "fr",
+    "options": {},
+    "paiement": [
+      "carte bancaire",
+      "carte de débit"
+    ],
+    "parking": []
   }
 }

@@ -112,8 +112,8 @@
     "etat": "absent",
     "premiere_detection": null,
     "derniere_detection": null,
-    "derniere_verification": "2026-10-09T16:58:32.124Z",
-    "echecs": 18,
+    "derniere_verification": "2026-10-22T10:06:20.031Z",
+    "echecs": 19,
     "url_detectee": null
   },
   "suggestion": {
@@ -126,7 +126,7 @@
   "dates": {
     "collecte": "2026-09-24",
     "publication": "2026-09-24",
-    "maj": "2026-10-09"
+    "maj": "2026-10-22"
   },
   "source": "google-places",
   "redaction": {
@@ -134,14 +134,23 @@
     "titre": "Pharmacie des 4 Routes — Pharmacie ou opticien à Chamalières",
     "meta_titre": "Pharmacie des 4 Routes à Chamalières : horaires, avis",
     "meta_description": "Pharmacie des 4 Routes, pharmacie ou opticien à Chamalières : horaires d'ouverture, note Google 4/5 (165 avis), téléphone, adresse et itinéraire.",
-    "chapo": "Cette fiche présente Pharmacie des 4 Routes, une pharmacie ou opticien au 121 Ter Avenue Joseph Claussat, à Chamalières. Ouvert sept jours sur sept au relevé du 9 octobre 2026. Téléphone : 04 73 37 69 87. Note Google : 4 sur 5 pour 165 avis.",
+    "chapo": "Cette fiche présente Pharmacie des 4 Routes, une pharmacie ou opticien au 121 Ter Avenue Joseph Claussat, à Chamalières. Ouvert sept jours sur sept au relevé du 22 octobre 2026. Téléphone : 04 73 37 69 87. Note Google : 4 sur 5 pour 165 avis.",
     "sections": [
       {
         "id": "presentation",
         "titre": "Pharmacie des 4 Routes en quelques mots",
         "paragraphes": [
           "Sur Google, l'établissement est classé « Pharmacie », dans notre rubrique Pharmacie ou opticien.",
-          "D'après le relevé du 9 octobre 2026, l'établissement est ouvert sept jours sur sept. Le détail jour par jour figure plus bas."
+          "D'après le relevé du 22 octobre 2026, l'établissement est ouvert sept jours sur sept. Le détail jour par jour figure plus bas."
+        ]
+      },
+      {
+        "id": "prestations",
+        "titre": "Services et équipements de Pharmacie des 4 Routes",
+        "paragraphes": [
+          "Proposé : livraison.",
+          "Moyens de paiement déclarés : carte bancaire, carte de débit et paiement sans contact.",
+          "Ces indications sont déclarées par l'établissement sur sa fiche Google (relevé du 22 octobre 2026)."
         ]
       },
       {
@@ -163,18 +172,18 @@
         "id": "avis",
         "titre": "La réputation de Pharmacie des 4 Routes",
         "paragraphes": [
-          "Note de 4 sur 5 pour 165 avis Google au relevé du 9 octobre 2026. Les avis se consultent sur la fiche Google, dont le lien figure sur cette page."
+          "Note de 4 sur 5 pour 165 avis Google au relevé du 22 octobre 2026. Les avis les plus parlants sont compilés ci-dessous, avec un lien vers la fiche d'origine."
         ]
       }
     ],
     "faq": [
       {
         "q": "Quels sont les horaires de Pharmacie des 4 Routes ?",
-        "r": "Au relevé du 9 octobre 2026, Pharmacie des 4 Routes était ouvert sept jours sur sept. Dans le détail — lundi : de 8 h à 21 h ; mardi : de 8 h à 21 h ; mercredi : de 8 h à 21 h ; jeudi : de 8 h à 21 h ; vendredi : de 8 h à 21 h ; samedi : de 8 h à 21 h ; dimanche : de 8 h à 21 h. Ces horaires peuvent changer : un appel préalable reste conseillé."
+        "r": "Au relevé du 22 octobre 2026, Pharmacie des 4 Routes était ouvert sept jours sur sept. Dans le détail — lundi : de 8 h à 21 h ; mardi : de 8 h à 21 h ; mercredi : de 8 h à 21 h ; jeudi : de 8 h à 21 h ; vendredi : de 8 h à 21 h ; samedi : de 8 h à 21 h ; dimanche : de 8 h à 21 h. Ces horaires peuvent changer : un appel préalable reste conseillé."
       },
       {
         "q": "Pharmacie des 4 Routes est-il ouvert le dimanche ?",
-        "r": "Oui : le dimanche, Pharmacie des 4 Routes est ouvert de 8 h à 21 h (horaires relevés le 9 octobre 2026)."
+        "r": "Oui : le dimanche, Pharmacie des 4 Routes est ouvert de 8 h à 21 h (horaires relevés le 22 octobre 2026)."
       },
       {
         "q": "Où se trouve Pharmacie des 4 Routes ?",
@@ -185,11 +194,15 @@
         "r": "Par téléphone au 04 73 37 69 87, ou directement sur place aux heures d'ouverture."
       },
       {
+        "q": "Pharmacie des 4 Routes propose-t-il la vente à emporter ou la livraison ?",
+        "r": "D'après sa fiche Google (relevé du 22 octobre 2026) — livraison : oui."
+      },
+      {
         "q": "Pharmacie des 4 Routes est-il accessible aux personnes à mobilité réduite ?",
         "r": "La fiche Google de l'établissement mentionne : « Entrée accessible en fauteuil roulant ». Cette information est déclarative ; en cas de doute, vérifiez par téléphone."
       }
     ],
-    "genere_le": "2026-10-09"
+    "genere_le": "2026-10-22"
   },
   "statut_google": "OPERATIONAL",
   "audience": {
@@ -200,6 +213,68 @@
     "clicsRecents": 0,
     "fenetreRecenteJours": 28,
     "source": "search-console",
-    "date": "2026-10-21"
+    "date": "2026-10-22"
+  },
+  "avis_detail": {
+    "releve": "2026-10-22",
+    "liste": [
+      {
+        "note": 5,
+        "texte": "J'ai une excellente opinion de ces professionnels qui ont un grand choix de produits et en plus très serviables, disponibles et aimables. Je recommande vivement.",
+        "langue": "fr",
+        "date": "2026-07-31",
+        "auteur": "Claude LAMADON",
+        "auteur_lien": "https://www.google.com/maps/contrib/110898933378385529237/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT21SbllsbDRTemxQVWtGNmIwOXpURzV4V2s5Q2JVRRAB!2m1!1s0x47f71a2b258d2721:0x72c5d62219061a00"
+      },
+      {
+        "note": 1,
+        "texte": "J’appelle ce dimanche pour savoir si le lait de mon fils est disponible : on me répond qu’on est trop occupé pour me renseigner. Après 25 minutes de route, j’arrive à la pharmacie, cherche dans les rayons et entends le téléphone sonner : la même personne conseille longuement un client sur produit. Un simple regard sur l’ordinateur aurait pris 30 secondes et m’aurait évité ce déplacement inutile !!!!",
+        "langue": "fr",
+        "date": "2026-06-28",
+        "auteur": "Nina Micallef",
+        "auteur_lien": "https://www.google.com/maps/contrib/109826606132645232198/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2w5a1NGOU1abVE1VFdSR05tMUZObEp2UW5sSVlsRRAB!2m1!1s0x47f71a2b258d2721:0x72c5d62219061a00"
+      },
+      {
+        "note": 1,
+        "texte": "Aucun client dans la pharmacie, beaucoup de chance: mais la personne au guichet ne dit pas bonjour.\nCelle qui vient me servir me dit bonjour mais avec un air exaspéré.\nLa force de cette pharmacie c’est l’emplacement et l’amplitude horaire ..",
+        "langue": "fr",
+        "date": "2026-06-25",
+        "auteur": "F P",
+        "auteur_lien": "https://www.google.com/maps/contrib/103303830065269661894/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT20xQlVUQXdSazFRZEVFME16VkljVU5OTUdod1IzYxAB!2m1!1s0x47f71a2b258d2721:0x72c5d62219061a00"
+      },
+      {
+        "note": 1,
+        "texte": "Pharmacie ́nulle nulle nulle,à fuir absolument, je déconseille vivement de vous rendre dans ce commerce.\nLundi de pentecôte jour férié une seule personne pour servir 40 minutes montre en main pour être servi c’est intolérable et inacceptable, il ne suffit pas de mettre une affichette pour se dédouaner évoquant les problèmes de recrutement et d’attractivité des postes c’est aux gérants et aux propriétaires de rendre les postes attractif s par des horaires adaptés des salaires confortables des primes d’intéressement et d’autres avantages comme dans tous les métiers.\nDe plus certaines personnes malhonnêtes se permettent en toute impunité de doubler tout le monde pour ne pas faire la quête, avant il y avait des tickets pour respecter l’ordre d’arrivée pourquoi plus de tickets maintenant ??\nMesdames messieurs les propriétaires je prendrai connaissance de vos réponses avec un vif intérêt.",
+        "langue": "fr",
+        "date": "2026-05-25",
+        "auteur": "O Brdddd",
+        "auteur_lien": "https://www.google.com/maps/contrib/112750194468254339691/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xWcWFXMUlZVWRxYlZCR1FUUk1SMUJ2UW1wQmEyYxAB!2m1!1s0x47f71a2b258d2721:0x72c5d62219061a00"
+      },
+      {
+        "note": 1,
+        "texte": "Pharmacie à fuiiire !!!\n\nJ’achetais souvent mes médicaments dans cette pharmacie jusqu’à aujourd’hui.\nMa mère, qui se trouve actuellement à l’étranger, est tombée malade. Son médecin lui a prescrit un médicament assez rare, avec une ordonnance parfaitement valable, signée et tamponnée.\n\nÉtant obligé de voyager pour lui apporter ce traitement, j’ai demandé simplement l’achat de 3 boîtes. Pourtant, cette pharmacie a refusé de me les vendre, avec des explications très froides et peu humaines, en disant qu’ils “ne vendent pas pour l’étranger” et que “la France ne fonctionne pas comme ça”.\n\nHeureusement, dans une autre pharmacie, le personnel a été immédiatement professionnel et compréhensif. Ils ont pris le temps d’enregistrer ma mère manuellement avec ses informations, mon adresse et mon numéro de téléphone, puis ils m’ont délivré le médicament sans problème. Ils m’ont même préparé un justificatif tamponné pour mon voyage, avec gentillesse et bienveillance, tout en souhaitant un bon rétablissement à ma mère.\n\nLa différence d’humanité et de professionnalisme entre les deux pharmacies est choquante.\n\nConcernant cette pharmacie des Quatre Chemins, je n’y remettrai plus jamais les pieds. Si vous cherchez un endroit où l’on considère avant tout la santé humaine et le respect des patients, ce n’est malheureusement pas l’endroit que je recommanderais.",
+        "langue": "fr",
+        "date": "2026-05-22",
+        "auteur": "NM QUICK",
+        "auteur_lien": "https://www.google.com/maps/contrib/108274629070008462254/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2tkdFEwSlhhVmxOTlMxUlJDMXdWVXhNV0hGTFUzYxAB!2m1!1s0x47f71a2b258d2721:0x72c5d62219061a00"
+      }
+    ]
+  },
+  "services": {
+    "releve": "2026-10-22",
+    "options": {
+      "delivery": true
+    },
+    "paiement": [
+      "carte bancaire",
+      "carte de débit",
+      "paiement sans contact"
+    ],
+    "parking": []
   }
 }

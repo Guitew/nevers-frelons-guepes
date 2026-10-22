@@ -132,8 +132,8 @@
   "backlink": {
     "etat": "present",
     "premiere_detection": "2026-09-17T09:57:24.171Z",
-    "derniere_detection": "2026-10-09T16:58:32.124Z",
-    "derniere_verification": "2026-10-09T16:58:32.124Z",
+    "derniere_detection": "2026-10-22T10:06:20.031Z",
+    "derniere_verification": "2026-10-22T10:06:20.031Z",
     "echecs": 0,
     "url_detectee": "https://andpro.fr/vitrine-locale/pharmacies-opticiens/chomerac/pharmacie-de-chomerac/"
   },
@@ -147,7 +147,7 @@
   "dates": {
     "collecte": "2026-09-08",
     "publication": "2026-09-08",
-    "maj": "2026-10-09"
+    "maj": "2026-10-22"
   },
   "source": "google-places",
   "redaction": {
@@ -155,14 +155,22 @@
     "titre": "Pharmacie de Chomerac — Pharmacie ou opticien à Chomérac",
     "meta_titre": "Pharmacie de Chomerac à Chomérac : horaires, avis, téléphone",
     "meta_description": "Pharmacie de Chomerac, pharmacie ou opticien à Chomérac : horaires d'ouverture, note Google 4,8/5 (59 avis), téléphone, adresse et itinéraire.",
-    "chapo": "Cette fiche présente Pharmacie de Chomerac, une pharmacie ou opticien au 155 Rue de l'Europe, à Chomérac. Ouvert tous les jours sauf le dimanche au relevé du 9 octobre 2026. Téléphone : 04 75 65 12 53. Note Google : 4,8 sur 5 pour 59 avis.",
+    "chapo": "Cette fiche présente Pharmacie de Chomerac, une pharmacie ou opticien au 155 Rue de l'Europe, à Chomérac. Ouvert tous les jours sauf le dimanche au relevé du 22 octobre 2026. Téléphone : 04 75 65 12 53. Note Google : 4,8 sur 5 pour 59 avis.",
     "sections": [
       {
         "id": "presentation",
         "titre": "Pharmacie de Chomerac en quelques mots",
         "paragraphes": [
           "Sur Google, l'établissement est classé « Pharmacie », dans notre rubrique Pharmacie ou opticien.",
-          "D'après le relevé du 9 octobre 2026, l'établissement est ouvert tous les jours sauf le dimanche. Le détail jour par jour figure plus bas."
+          "D'après le relevé du 22 octobre 2026, l'établissement est ouvert tous les jours sauf le dimanche. Le détail jour par jour figure plus bas."
+        ]
+      },
+      {
+        "id": "prestations",
+        "titre": "Services et équipements de Pharmacie de Chomerac",
+        "paragraphes": [
+          "Moyens de paiement déclarés : carte bancaire, carte de débit et paiement sans contact.",
+          "Ces indications sont déclarées par l'établissement sur sa fiche Google (relevé du 22 octobre 2026)."
         ]
       },
       {
@@ -184,18 +192,18 @@
         "id": "avis",
         "titre": "La réputation de Pharmacie de Chomerac",
         "paragraphes": [
-          "Note de 4,8 sur 5 pour 59 avis Google au relevé du 9 octobre 2026. Les avis se consultent sur la fiche Google, dont le lien figure sur cette page."
+          "Note de 4,8 sur 5 pour 59 avis Google au relevé du 22 octobre 2026. Les avis les plus parlants sont compilés ci-dessous, avec un lien vers la fiche d'origine."
         ]
       }
     ],
     "faq": [
       {
         "q": "Quels sont les horaires de Pharmacie de Chomerac ?",
-        "r": "Au relevé du 9 octobre 2026, Pharmacie de Chomerac était ouvert tous les jours sauf le dimanche. Dans le détail — lundi : de 8 h 45 à 12 h 15 et de 14 h à 19 h ; mardi : de 8 h 45 à 12 h 15 et de 14 h à 19 h ; mercredi : de 8 h 45 à 12 h 15 et de 14 h à 19 h ; jeudi : de 8 h 45 à 12 h 15 et de 14 h à 19 h ; vendredi : de 8 h 45 à 12 h 15 et de 14 h à 19 h ; samedi : de 8 h 45 à 12 h 15 et de 14 h à 17 h ; dimanche : fermé. Ces horaires peuvent changer : un appel préalable reste conseillé."
+        "r": "Au relevé du 22 octobre 2026, Pharmacie de Chomerac était ouvert tous les jours sauf le dimanche. Dans le détail — lundi : de 8 h 45 à 12 h 15 et de 14 h à 19 h ; mardi : de 8 h 45 à 12 h 15 et de 14 h à 19 h ; mercredi : de 8 h 45 à 12 h 15 et de 14 h à 19 h ; jeudi : de 8 h 45 à 12 h 15 et de 14 h à 19 h ; vendredi : de 8 h 45 à 12 h 15 et de 14 h à 19 h ; samedi : de 8 h 45 à 12 h 15 et de 14 h à 17 h ; dimanche : fermé. Ces horaires peuvent changer : un appel préalable reste conseillé."
       },
       {
         "q": "Pharmacie de Chomerac est-il ouvert le dimanche ?",
-        "r": "Non : d'après les horaires relevés le 9 octobre 2026, Pharmacie de Chomerac est fermé le dimanche."
+        "r": "Non : d'après les horaires relevés le 22 octobre 2026, Pharmacie de Chomerac est fermé le dimanche."
       },
       {
         "q": "Où se trouve Pharmacie de Chomerac ?",
@@ -210,18 +218,18 @@
         "r": "La fiche Google de l'établissement mentionne : « Entrée accessible en fauteuil roulant ». Cette information est déclarative ; en cas de doute, vérifiez par téléphone."
       }
     ],
-    "genere_le": "2026-10-09"
+    "genere_le": "2026-10-22"
   },
   "statut_google": "OPERATIONAL",
   "audience": {
-    "clics": 15,
-    "impressions": 1484,
+    "clics": 16,
+    "impressions": 1543,
     "position": 2.7,
     "fenetreJours": 90,
-    "clicsRecents": 14,
+    "clicsRecents": 15,
     "fenetreRecenteJours": 28,
     "source": "search-console",
-    "date": "2026-10-21"
+    "date": "2026-10-22"
   },
   "indexation": {
     "etat": "indexee",
@@ -230,6 +238,66 @@
     "derniere_exploration": null,
     "canonique_google": null,
     "source": "impressions",
-    "date": "2026-10-21"
+    "date": "2026-10-22"
+  },
+  "avis_detail": {
+    "releve": "2026-10-22",
+    "liste": [
+      {
+        "note": 5,
+        "texte": "Super service je recommande ! !",
+        "langue": "fr",
+        "date": "2026-06-20",
+        "auteur": "Laurent",
+        "auteur_lien": "https://www.google.com/maps/contrib/117717475808894682233/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xaNk5sODNSRWR1ZFVOMmRtcFBZak5zY1RkbllVRRAB!2m1!1s0x12b5396e0d1f2c63:0x1f3faeac3959ecf3"
+      },
+      {
+        "note": 5,
+        "texte": "Très bonne équipe.\nSympathique et bienveillante.\nPetit coup de coeur pour Magalie et la gérante qui ont su être de bons conseils depuis 3 ans que l'on va dans cette pharmacie.\nJe recommande.",
+        "langue": "fr",
+        "date": "2025-12-18",
+        "auteur": "Severine Cruz Das Neves",
+        "auteur_lien": "https://www.google.com/maps/contrib/106061539446281717475/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25KNk5tUkZaV0l0UW1GMlFubGxRVm8wYUhWUFkxRRAB!2m1!1s0x12b5396e0d1f2c63:0x1f3faeac3959ecf3"
+      },
+      {
+        "note": 5,
+        "texte": "Personnel agréable et professionnel.  Pharmacie de taille plutôt grande avec beaucoup de choix. Les médicaments sont servis par des robots ce qui permet que votre pharmacien reste avec vous et qu’il puisse répondre a vos questions si vous en avez.",
+        "langue": "fr",
+        "date": "2025-11-30",
+        "auteur": "Boudet Magali",
+        "auteur_lien": "https://www.google.com/maps/contrib/114806424978150793851/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2s1V2JuaDBia05oYWtwNk1rVmlhbEZGVG1oVFVHYxAB!2m1!1s0x12b5396e0d1f2c63:0x1f3faeac3959ecf3"
+      },
+      {
+        "note": 5,
+        "texte": "GD choix, super en commande. Personnel au top. en pharmacie de garde nocturne Merci on a été agréablement accueilli.",
+        "langue": "fr",
+        "date": "2025-11-03",
+        "auteur": "charly yilanhugo",
+        "auteur_lien": "https://www.google.com/maps/contrib/102083267302346069055/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2paVVkzVmFNMmxsWkZWVVRuWXlSM1JKY25GcVpWRRAB!2m1!1s0x12b5396e0d1f2c63:0x1f3faeac3959ecf3"
+      },
+      {
+        "note": 5,
+        "texte": "Pharmacie au top ! Toujours bien accueilli, avec des conseils clairs et professionnels. L’équipe est attentive, disponible, et prend le temps d’expliquer les traitements. Le tout dans une ambiance chaleureuse et bienveillante. Un vrai plus d’avoir une pharmacie aussi fiable juste à côté du médecin. Merci pour votre professionnalisme et votre gentillesse !",
+        "langue": "fr",
+        "date": "2025-05-21",
+        "auteur": "Kevin Loire",
+        "auteur_lien": "https://www.google.com/maps/contrib/114815673523585276033/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VKTEt2UGVrbzVuYnZnRRAB!2m1!1s0x12b5396e0d1f2c63:0x1f3faeac3959ecf3"
+      }
+    ]
+  },
+  "services": {
+    "releve": "2026-10-22",
+    "options": {},
+    "paiement": [
+      "carte bancaire",
+      "carte de débit",
+      "paiement sans contact"
+    ],
+    "parking": []
   }
 }

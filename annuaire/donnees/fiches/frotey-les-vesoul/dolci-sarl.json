@@ -1,0 +1,290 @@
+{
+  "id": "ChIJMz-ObxfzkkcRNvoIVpyY-mY",
+  "slug": "dolci-sarl",
+  "nom": "Dolci Sarl",
+  "categorie": "boulangeries-patisseries",
+  "categorie_gmb": "Boulangerie",
+  "type_principal": "bakery",
+  "types": [
+    "bakery",
+    "food_store",
+    "store",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "ville": "Frotey-lès-Vesoul",
+  "ville_slug": "frotey-les-vesoul",
+  "adresse": {
+    "rue": "3 Rue de Colombe",
+    "code_postal": "70000",
+    "departement": "70",
+    "region": "Bourgogne-Franche-Comté",
+    "pays": "France",
+    "complete": "3 Rue de Colombe, 70000 Frotey-lès-Vesoul"
+  },
+  "telephone": "03 84 75 11 21",
+  "geo": {
+    "latitude": 47.6203733,
+    "longitude": 6.1849339
+  },
+  "note": 4.6,
+  "avis": 223,
+  "horaires": [
+    {
+      "jour": 0,
+      "ferme": false,
+      "creneaux": [
+        [
+          "05:30",
+          "19:00"
+        ]
+      ]
+    },
+    {
+      "jour": 1,
+      "ferme": false,
+      "creneaux": [
+        [
+          "05:30",
+          "19:00"
+        ]
+      ]
+    },
+    {
+      "jour": 2,
+      "ferme": false,
+      "creneaux": [
+        [
+          "05:30",
+          "19:00"
+        ]
+      ]
+    },
+    {
+      "jour": 3,
+      "ferme": false,
+      "creneaux": [
+        [
+          "05:30",
+          "19:00"
+        ]
+      ]
+    },
+    {
+      "jour": 4,
+      "ferme": false,
+      "creneaux": [
+        [
+          "05:30",
+          "19:00"
+        ]
+      ]
+    },
+    {
+      "jour": 5,
+      "ferme": false,
+      "creneaux": [
+        [
+          "05:30",
+          "14:00"
+        ]
+      ]
+    },
+    {
+      "jour": 6,
+      "ferme": true,
+      "creneaux": []
+    }
+  ],
+  "attributs": [
+    "Entrée accessible en fauteuil roulant",
+    "Parking accessible en fauteuil roulant"
+  ],
+  "lien_google": "https://maps.google.com/?cid=7420411133272062518&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
+  "site_web_gmb": null,
+  "statut": "publiee",
+  "backlink": {
+    "etat": "absent",
+    "premiere_detection": null,
+    "derniere_detection": null,
+    "derniere_verification": "2026-10-22T10:06:20.031Z",
+    "echecs": 1,
+    "url_detectee": null
+  },
+  "suggestion": {
+    "etat": "en-attente",
+    "date_soumission": null,
+    "tentatives": 0,
+    "date_email": "2026-10-22"
+  },
+  "retrait": null,
+  "dates": {
+    "collecte": "2026-10-22",
+    "publication": "2026-10-22",
+    "maj": "2026-10-22"
+  },
+  "source": "google-places",
+  "avis_detail": {
+    "releve": "2026-10-22",
+    "liste": [
+      {
+        "note": 5,
+        "texte": "Dans un monde où beaucoup se contentent simplement de vendre, certaines personnes savent encore offrir une vraie expérience aux clients. Toujours professionnel, souriant et à l’écoute, ce jeune vendeur apporte une ambiance agréable à la boulangerie tout en gardant une efficacité impressionnante, même dans les moments les plus chargés.\n\nOn sent quelqu’un qui aime son travail et qui sait gérer les responsabilités avec sérieux et naturel. Il garde son calme avec une patience presque philosophique… probablement acquise après avoir survécu à des clients qui demandent “une baguette pas trop cuite mais quand même croustillante”.\n\nOrganisation, bonne humeur et sens du service sont toujours au rendez-vous. Et heureusement d’ailleurs, parce qu’après certains accueils un peu plus… minimalistes du matin, son énergie et son humour rééquilibrent parfaitement l’ambiance de la boulangerie. Disons que tout le monde n’a pas encore découvert le pouvoir thérapeutique d’un sourire accompagné d’un bon croissant.\n\nFranchement, avec un accueil comme ça, on reviendrait presque même sans avoir besoin de pain.",
+        "langue": "fr",
+        "date": "2026-05-20",
+        "auteur": "Julie Laurent",
+        "auteur_lien": "https://www.google.com/maps/contrib/113690702120896861977/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2tkRWRHOUpUemhWTW1seVRsbGtPRTlEZW1Gd2IwRRAB!2m1!1s0x4792f3176f8e3f33:0x66fa989c5608fa36"
+      },
+      {
+        "note": 5,
+        "texte": "Je n'habite pas à côté mais j'ai l'habitude de m'arrêter quand je suis sur Vesoul, jamais déçu, le pain est excellent, le pain de seigle est un régal, le boulanger est un artiste, vraiment.\nMon pêcher mignon sont les cannelés 😊\nMerci à cet équipe pour ce beau travail",
+        "langue": "fr",
+        "date": "2025-12-04",
+        "auteur": "Hasenfratz Mary-Claude",
+        "auteur_lien": "https://www.google.com/maps/contrib/112361112441972749170/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xSTGJsTTRaVTFTUW1KUGIyczRNV3B5WTBkQmIwRRAB!2m1!1s0x4792f3176f8e3f33:0x66fa989c5608fa36"
+      },
+      {
+        "note": 5,
+        "texte": "Bien souvent lorsque je passe vers Frotey-les-Vesoul je m’arrête pour prendre du pain (🥖 qui je précise est excellent, et il y en a de toutes sortes)\nmais aussi des gourmandises 🍰🥧🧁🍥 (qui sont vraiment très bonnes).\nJ’en profite aussi pour discuter avec ma copine serveuse (lorsqu’elle a le temps 🤷‍♀️)\nelle  est toujours radieuse, bien sûr locasse et très joviale, vous la trouverez tous les après-midis 🥺.\nVous pouvez également commander ce que vous voulez c’est du fait maison 🥺.\nPour la Sainte-Catherine on y trouve de jolis et succulents cochons en pain d’épice enrobés de chocolat et agrémentés du fameux sifflet en bois 🐷\nDonc :\n——>> 🥺 Je conseille 🥺",
+        "langue": "fr",
+        "date": "2025-11-22",
+        "auteur": "Brian ANNIBAL",
+        "auteur_lien": "https://www.google.com/maps/contrib/104973611220979253634/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2pGbldVOTJNMW8wUjFGUU5UQnhWelpSVTNKWlNtYxAB!2m1!1s0x4792f3176f8e3f33:0x66fa989c5608fa36"
+      },
+      {
+        "note": 3,
+        "texte": "Bon pain. Viennoiseries également. Par contre déçue on prend ma commande de Noël le 23, fallait commander jusqu'à 11h normal .\nLe 24 j'y vais et on me dit à non c'est à partir de 10h ! La personne a reconnu ne pas me l'avoir dit... et que en gros c'était déjà bien qu'on est pris ma commande ! Et bien soit vous les prenez et vous dite l'heure soit ne les prenez pas ! Mon mari a du y retourner, faire la queue, et ceux qui n'avait pas de commande passait devant !",
+        "langue": "fr",
+        "date": "2024-12-24",
+        "auteur": "RLTD R",
+        "auteur_lien": "https://www.google.com/maps/contrib/106713669300360404265/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUR2aDdXQWFnEAE!2m1!1s0x4792f3176f8e3f33:0x66fa989c5608fa36"
+      },
+      {
+        "note": 5,
+        "texte": "J’ai commander deux gâteau pour le baptême de ma fille\nUn à la fraise et un au chocolat c’était une tuerie très léger\nRapport qualité prix plus que raisonnable et personnellement maintenant je commanderai mes gâteau que chez eux\nEncore merci",
+        "langue": "fr",
+        "date": "2024-07-15",
+        "auteur": "Oceane Terreaux",
+        "auteur_lien": "https://www.google.com/maps/contrib/113135051700081287293/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSURyN0llYUJREAE!2m1!1s0x4792f3176f8e3f33:0x66fa989c5608fa36"
+      }
+    ]
+  },
+  "services": {
+    "releve": "2026-10-22",
+    "prix": "PRICE_LEVEL_INEXPENSIVE",
+    "options": {
+      "dineIn": false,
+      "takeout": true,
+      "delivery": false,
+      "servesBreakfast": false,
+      "servesCoffee": false
+    },
+    "paiement": [
+      "carte bancaire",
+      "carte de débit",
+      "paiement sans contact"
+    ],
+    "parking": [
+      "parking gratuit"
+    ]
+  },
+  "redaction": {
+    "version": 2,
+    "titre": "Dolci Sarl — Boulangerie-pâtisserie à Frotey-lès-Vesoul",
+    "meta_titre": "Dolci Sarl à Frotey-lès-Vesoul : horaires, avis, téléphone",
+    "meta_description": "Dolci Sarl, boulangerie-pâtisserie à Frotey-lès-Vesoul : horaires d'ouverture, note Google 4,6/5 (223 avis), téléphone, adresse et itinéraire.",
+    "chapo": "Dolci Sarl exerce l'activité de boulangerie-pâtisserie au 3 Rue de Colombe, à Frotey-lès-Vesoul. Ouvert tous les jours sauf le dimanche au relevé du 22 octobre 2026. Téléphone : 03 84 75 11 21. Note Google : 4,6 sur 5 pour 223 avis.",
+    "sections": [
+      {
+        "id": "presentation",
+        "titre": "Dolci Sarl en quelques mots",
+        "paragraphes": [
+          "Sur Google, l'établissement est classé « Boulangerie », dans notre rubrique Boulangerie-pâtisserie.",
+          "Niveau de prix indiqué sur la fiche Google : € (bon marché).",
+          "D'après le relevé du 22 octobre 2026, l'établissement est ouvert tous les jours sauf le dimanche. Le détail jour par jour figure plus bas."
+        ]
+      },
+      {
+        "id": "prestations",
+        "titre": "Services et équipements de Dolci Sarl",
+        "paragraphes": [
+          "Proposé : à emporter.",
+          "Non proposé selon la fiche Google : sur place, livraison, petit-déjeuner et café.",
+          "Moyens de paiement déclarés : carte bancaire, carte de débit et paiement sans contact.",
+          "Stationnement : parking gratuit.",
+          "Ces indications sont déclarées par l'établissement sur sa fiche Google (relevé du 22 octobre 2026)."
+        ]
+      },
+      {
+        "id": "acces",
+        "titre": "Adresse et accès",
+        "paragraphes": [
+          "L'établissement est situé au 3 Rue de Colombe, 70000 Frotey-lès-Vesoul.",
+          "Coordonnées GPS : 47.62037, 6.18493. Le bouton Itinéraire de cette page ouvre la navigation."
+        ]
+      },
+      {
+        "id": "contact",
+        "titre": "Contacter Dolci Sarl",
+        "paragraphes": [
+          "Le contact se fait par téléphone au 03 84 75 11 21, ou directement sur place aux horaires d'ouverture."
+        ]
+      },
+      {
+        "id": "avis",
+        "titre": "La réputation de Dolci Sarl",
+        "paragraphes": [
+          "Note de 4,6 sur 5 pour 223 avis Google au relevé du 22 octobre 2026. Les avis les plus parlants sont compilés ci-dessous, avec un lien vers la fiche d'origine."
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "q": "Quels sont les horaires de Dolci Sarl ?",
+        "r": "Au relevé du 22 octobre 2026, Dolci Sarl était ouvert tous les jours sauf le dimanche. Dans le détail — lundi : de 5 h 30 à 19 h ; mardi : de 5 h 30 à 19 h ; mercredi : de 5 h 30 à 19 h ; jeudi : de 5 h 30 à 19 h ; vendredi : de 5 h 30 à 19 h ; samedi : de 5 h 30 à 14 h ; dimanche : fermé. Ces horaires peuvent changer : un appel préalable reste conseillé."
+      },
+      {
+        "q": "Dolci Sarl est-il ouvert le dimanche ?",
+        "r": "Non : d'après les horaires relevés le 22 octobre 2026, Dolci Sarl est fermé le dimanche."
+      },
+      {
+        "q": "Où se trouve Dolci Sarl ?",
+        "r": "Dolci Sarl se trouve 3 Rue de Colombe, 70000 Frotey-lès-Vesoul. Un lien d'itinéraire est disponible sur cette page."
+      },
+      {
+        "q": "Comment contacter Dolci Sarl ?",
+        "r": "Par téléphone au 03 84 75 11 21, ou directement sur place aux heures d'ouverture."
+      },
+      {
+        "q": "Dolci Sarl propose-t-il la vente à emporter ou la livraison ?",
+        "r": "D'après sa fiche Google (relevé du 22 octobre 2026) — vente à emporter : oui ; livraison : non."
+      },
+      {
+        "q": "Quel est le niveau de prix de Dolci Sarl ?",
+        "r": "Google classe Dolci Sarl au niveau de prix € (bon marché), sur une échelle de € à €€€€ établie à partir des avis clients."
+      },
+      {
+        "q": "Dolci Sarl est-il accessible aux personnes à mobilité réduite ?",
+        "r": "La fiche Google de l'établissement mentionne : « Entrée accessible en fauteuil roulant ». Cette information est déclarative ; en cas de doute, vérifiez par téléphone."
+      }
+    ],
+    "genere_le": "2026-10-22"
+  },
+  "statut_google": "OPERATIONAL",
+  "audience": {
+    "clics": 0,
+    "impressions": 0,
+    "position": null,
+    "fenetreJours": 90,
+    "clicsRecents": 0,
+    "fenetreRecenteJours": 28,
+    "source": "search-console",
+    "date": "2026-10-22"
+  }
+}

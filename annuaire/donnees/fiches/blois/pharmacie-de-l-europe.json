@@ -111,8 +111,8 @@
     "etat": "absent",
     "premiere_detection": null,
     "derniere_detection": null,
-    "derniere_verification": "2026-10-09T16:58:32.124Z",
-    "echecs": 3,
+    "derniere_verification": "2026-10-22T10:06:20.031Z",
+    "echecs": 4,
     "url_detectee": null
   },
   "suggestion": {
@@ -125,7 +125,7 @@
   "dates": {
     "collecte": "2026-10-07",
     "publication": "2026-10-07",
-    "maj": "2026-10-09"
+    "maj": "2026-10-22"
   },
   "source": "google-places",
   "redaction": {
@@ -133,14 +133,23 @@
     "titre": "Pharmacie de l'Europe — Pharmacie ou opticien à Blois",
     "meta_titre": "Pharmacie de l'Europe à Blois : horaires, avis, téléphone",
     "meta_description": "Pharmacie de l'Europe, pharmacie ou opticien à Blois : horaires d'ouverture, note Google 4,2/5 (120 avis), téléphone, adresse et itinéraire.",
-    "chapo": "Cette fiche présente Pharmacie de l'Europe, une pharmacie ou opticien au 1 Place Bernard Lorjou, à Blois. Ouvert tous les jours sauf le dimanche au relevé du 9 octobre 2026. Téléphone : 02 54 43 20 33. Note Google : 4,2 sur 5 pour 120 avis.",
+    "chapo": "Cette fiche présente Pharmacie de l'Europe, une pharmacie ou opticien au 1 Place Bernard Lorjou, à Blois. Ouvert tous les jours sauf le dimanche au relevé du 22 octobre 2026. Téléphone : 02 54 43 20 33. Note Google : 4,2 sur 5 pour 120 avis.",
     "sections": [
       {
         "id": "presentation",
         "titre": "Pharmacie de l'Europe en quelques mots",
         "paragraphes": [
           "Sur Google, l'établissement est classé « Pharmacie », dans notre rubrique Pharmacie ou opticien.",
-          "D'après le relevé du 9 octobre 2026, l'établissement est ouvert tous les jours sauf le dimanche. Le détail jour par jour figure plus bas."
+          "D'après le relevé du 22 octobre 2026, l'établissement est ouvert tous les jours sauf le dimanche. Le détail jour par jour figure plus bas."
+        ]
+      },
+      {
+        "id": "prestations",
+        "titre": "Services et équipements de Pharmacie de l'Europe",
+        "paragraphes": [
+          "Proposé : livraison.",
+          "Moyens de paiement déclarés : carte bancaire, carte de débit et paiement sans contact.",
+          "Ces indications sont déclarées par l'établissement sur sa fiche Google (relevé du 22 octobre 2026)."
         ]
       },
       {
@@ -162,18 +171,18 @@
         "id": "avis",
         "titre": "La réputation de Pharmacie de l'Europe",
         "paragraphes": [
-          "Note de 4,2 sur 5 pour 120 avis Google au relevé du 9 octobre 2026. Les avis se consultent sur la fiche Google, dont le lien figure sur cette page."
+          "Note de 4,2 sur 5 pour 120 avis Google au relevé du 22 octobre 2026. Les avis les plus parlants sont compilés ci-dessous, avec un lien vers la fiche d'origine."
         ]
       }
     ],
     "faq": [
       {
         "q": "Quels sont les horaires de Pharmacie de l'Europe ?",
-        "r": "Au relevé du 9 octobre 2026, Pharmacie de l'Europe était ouvert tous les jours sauf le dimanche. Dans le détail — lundi : de 9 h à 20 h ; mardi : de 9 h à 20 h ; mercredi : de 9 h à 20 h ; jeudi : de 9 h à 20 h ; vendredi : de 9 h à 20 h ; samedi : de 9 h à 12 h 30 et de 14 h 30 à 19 h ; dimanche : fermé. Ces horaires peuvent changer : un appel préalable reste conseillé."
+        "r": "Au relevé du 22 octobre 2026, Pharmacie de l'Europe était ouvert tous les jours sauf le dimanche. Dans le détail — lundi : de 9 h à 20 h ; mardi : de 9 h à 20 h ; mercredi : de 9 h à 20 h ; jeudi : de 9 h à 20 h ; vendredi : de 9 h à 20 h ; samedi : de 9 h à 12 h 30 et de 14 h 30 à 19 h ; dimanche : fermé. Ces horaires peuvent changer : un appel préalable reste conseillé."
       },
       {
         "q": "Pharmacie de l'Europe est-il ouvert le dimanche ?",
-        "r": "Non : d'après les horaires relevés le 9 octobre 2026, Pharmacie de l'Europe est fermé le dimanche."
+        "r": "Non : d'après les horaires relevés le 22 octobre 2026, Pharmacie de l'Europe est fermé le dimanche."
       },
       {
         "q": "Où se trouve Pharmacie de l'Europe ?",
@@ -184,11 +193,15 @@
         "r": "Par téléphone au 02 54 43 20 33, ou directement sur place aux heures d'ouverture."
       },
       {
+        "q": "Pharmacie de l'Europe propose-t-il la vente à emporter ou la livraison ?",
+        "r": "D'après sa fiche Google (relevé du 22 octobre 2026) — livraison : oui."
+      },
+      {
         "q": "Pharmacie de l'Europe est-il accessible aux personnes à mobilité réduite ?",
         "r": "La fiche Google de l'établissement mentionne : « Entrée accessible en fauteuil roulant ». Cette information est déclarative ; en cas de doute, vérifiez par téléphone."
       }
     ],
-    "genere_le": "2026-10-09"
+    "genere_le": "2026-10-22"
   },
   "statut_google": "OPERATIONAL",
   "audience": {
@@ -199,6 +212,68 @@
     "clicsRecents": 0,
     "fenetreRecenteJours": 28,
     "source": "search-console",
-    "date": "2026-10-21"
+    "date": "2026-10-22"
+  },
+  "avis_detail": {
+    "releve": "2026-10-22",
+    "liste": [
+      {
+        "note": 5,
+        "texte": "Toujours un accueil chaleureux et surtout un vrai professionnalisme ! L’équipe est qualifiée, compétente et prend le temps d’expliquer les traitements ainsi que de donner des conseils personnalisés. On se sent vraiment écouté et bien accompagné. Des personnes sympathiques et disponibles : je recommande vivement cette pharmacie pour la qualité de son conseil !",
+        "langue": "fr",
+        "date": "2026-06-14",
+        "auteur": "Ni Ta",
+        "auteur_lien": "https://www.google.com/maps/contrib/107241672561513549881/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xWNVYwdHFOWEpSYjFVNGFXWkVOR1JHVEdnemExRRAB!2m1!1s0x47e357f2a2c61c39:0xb15f527815db115d"
+      },
+      {
+        "note": 1,
+        "texte": "En tant que patient hypertendu, j’avais besoin d’un contrôle de ma tension.\nj’ai demandé une prise de tension quelques minutes avant la fermeture. La pharmacienne a refusé en indiquant qu’il ne restait que cinq minutes avant de fermer. Je peux comprendre les contraintes liées aux horaires, mais j’ai été surpris par le manque d’écoute et de considération face à une demande liée à un problème de santé.Ce qui m’a particulièrement déçu, c’est l’absence totale d’excuses ou de mot aimable pour accompagner ce refus. Je suis repartie avec le sentiment que ma situation n’avait aucune importance.",
+        "langue": "fr",
+        "date": "2026-06-03",
+        "auteur": "Faty Ros",
+        "auteur_lien": "https://www.google.com/maps/contrib/102235380247978027320/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25oblZERk1Oa1JhV2t4VmFVRnVkbEp6ZFZwUE4yYxAB!2m1!1s0x47e357f2a2c61c39:0xb15f527815db115d"
+      },
+      {
+        "note": 5,
+        "texte": "Je suis passée avec mon ordonnance à la sortie du médecin, et malgré le monde, la personne qui m’a servie a été rapide et à l’écoute de mes questions. Tout m’a été très bien expliqué. Encore merci à la jeune femme et je n’hésiterai pas à repasser si l’occasion se présente.",
+        "langue": "fr",
+        "date": "2026-01-27",
+        "auteur": "Aeleena",
+        "auteur_lien": "https://www.google.com/maps/contrib/108598153981682183007/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2pGMWIydGhXSHB4WXpSbUxUZDJSM1pwWVRKT04xRRAB!2m1!1s0x47e357f2a2c61c39:0xb15f527815db115d"
+      },
+      {
+        "note": 1,
+        "texte": "Total manque de professionnalisme et de respect de la part d'un personnel. Madame Duygu n'était pas à l'écoute de mes attentes et a révelé son envisagement de ne pas m'aider dans ma demande. Je ne comprend pas cette vulgarité injustiable. Très mauvaise expérience!",
+        "langue": "fr",
+        "date": "2026-01-22",
+        "auteur": "Kéliah",
+        "auteur_lien": "https://www.google.com/maps/contrib/111590569024786784433/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2tKNU1GTkhNMGR6Ym1RMFFXOUJUSFZYTjFCdFoyYxAB!2m1!1s0x47e357f2a2c61c39:0xb15f527815db115d"
+      },
+      {
+        "note": 1,
+        "texte": "Expérience inadmissible.\nJ’ai envoyé mon père récupérer mes médicaments car je ne pouvais pas me déplacer. J’avais pourtant anticipé la veille en envoyant par mail l’ordonnance, la mutuelle et l’attestation de droits.\nSur place, une jeune pharmacienne affirme ne pas trouver le mail, avec un ton hautain et désagréable. Elle me dit ensuite que l’adresse mail a changé « depuis un an et demi » alors que j’ai bien envoyé à la bonne adresse, toujours de manière condescendante.\nJe lui demande l’adresse pour renvoyer immédiatement les documents, ce que je fais dans la minute. Malgré cela, elle montre une impatience excessive, s’agace et me parle très mal au téléphone. Même pour vérifier l’adresse mail, son attitude était méprisante.\nCe manque de professionnalisme et de respect envers les patients est choquant, d’autant plus dans une pharmacie. Ce n’est malheureusement pas la première fois que je constate ce genre de comportement avec d’autres personnes venant de cette même pharmacienne .\nUne remise en question de la manière de s’adresser aux patients serait vraiment nécessaire.",
+        "langue": "fr",
+        "date": "2026-01-14",
+        "auteur": "Alicia Mwn",
+        "auteur_lien": "https://www.google.com/maps/contrib/118068998043260435881/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25oYVNHdFplSE5WTVROM2JGQTNNMkp2T0U1b1JFRRAB!2m1!1s0x47e357f2a2c61c39:0xb15f527815db115d"
+      }
+    ]
+  },
+  "services": {
+    "releve": "2026-10-22",
+    "options": {
+      "delivery": true
+    },
+    "paiement": [
+      "carte bancaire",
+      "carte de débit",
+      "paiement sans contact"
+    ],
+    "parking": []
   }
 }

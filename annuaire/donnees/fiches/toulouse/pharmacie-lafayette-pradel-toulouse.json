@@ -32,7 +32,7 @@
     "longitude": 1.3802944
   },
   "note": 4.4,
-  "avis": 1061,
+  "avis": 1073,
   "horaires": [
     {
       "jour": 0,
@@ -111,8 +111,8 @@
     "etat": "absent",
     "premiere_detection": null,
     "derniere_detection": null,
-    "derniere_verification": "2026-10-09T16:58:32.124Z",
-    "echecs": 9,
+    "derniere_verification": "2026-10-22T10:06:20.031Z",
+    "echecs": 10,
     "url_detectee": null
   },
   "suggestion": {
@@ -125,7 +125,7 @@
   "dates": {
     "collecte": "2026-10-01",
     "publication": "2026-10-01",
-    "maj": "2026-10-18"
+    "maj": "2026-10-22"
   },
   "source": "google-places",
   "redaction": {
@@ -133,14 +133,25 @@
     "titre": "Pharmacie Lafayette Pradel Toulouse — Pharmacie ou opticien à Toulouse",
     "meta_titre": "Pharmacie Lafayette Pradel Toulouse à Toulouse",
     "meta_description": "Pharmacie Lafayette Pradel Toulouse, pharmacie ou opticien à Toulouse : horaires d'ouverture, téléphone, adresse et itinéraire.",
-    "chapo": "Pharmacie Lafayette Pradel Toulouse exerce l'activité de pharmacie ou opticien au 166 Route de Bayonne, à Toulouse. Ouvert tous les jours sauf le dimanche au relevé du 9 octobre 2026. Téléphone : 05 61 49 18 22. Note Google : 4,4 sur 5 pour 1061 avis.",
+    "chapo": "Pharmacie Lafayette Pradel Toulouse exerce l'activité de pharmacie ou opticien au 166 Route de Bayonne, à Toulouse. Ouvert tous les jours sauf le dimanche au relevé du 22 octobre 2026. Téléphone : 05 61 49 18 22. Note Google : 4,4 sur 5 pour 1073 avis.",
     "sections": [
       {
         "id": "presentation",
         "titre": "Pharmacie Lafayette Pradel Toulouse en quelques mots",
         "paragraphes": [
           "Sur Google, l'établissement est classé « Pharmacie », dans notre rubrique Pharmacie ou opticien.",
-          "D'après le relevé du 9 octobre 2026, l'établissement est ouvert tous les jours sauf le dimanche. Le détail jour par jour figure plus bas."
+          "D'après le relevé du 22 octobre 2026, l'établissement est ouvert tous les jours sauf le dimanche. Le détail jour par jour figure plus bas."
+        ]
+      },
+      {
+        "id": "prestations",
+        "titre": "Services et équipements de Pharmacie Lafayette Pradel Toulouse",
+        "paragraphes": [
+          "Proposé : livraison.",
+          "Non proposé selon la fiche Google : retrait en voiture.",
+          "Moyens de paiement déclarés : carte bancaire, carte de débit et paiement sans contact.",
+          "Stationnement : parking gratuit et stationnement gratuit dans la rue.",
+          "Ces indications sont déclarées par l'établissement sur sa fiche Google (relevé du 22 octobre 2026)."
         ]
       },
       {
@@ -162,18 +173,18 @@
         "id": "avis",
         "titre": "La réputation de Pharmacie Lafayette Pradel Toulouse",
         "paragraphes": [
-          "Note de 4,4 sur 5 pour 1061 avis Google au relevé du 9 octobre 2026. Les avis se consultent sur la fiche Google, dont le lien figure sur cette page."
+          "Note de 4,4 sur 5 pour 1073 avis Google au relevé du 22 octobre 2026. Les avis les plus parlants sont compilés ci-dessous, avec un lien vers la fiche d'origine."
         ]
       }
     ],
     "faq": [
       {
         "q": "Quels sont les horaires de Pharmacie Lafayette Pradel Toulouse ?",
-        "r": "Au relevé du 9 octobre 2026, Pharmacie Lafayette Pradel Toulouse était ouvert tous les jours sauf le dimanche. Dans le détail — lundi : de 8 h 30 à 20 h ; mardi : de 8 h 30 à 20 h ; mercredi : de 8 h 30 à 20 h ; jeudi : de 8 h 30 à 20 h ; vendredi : de 8 h 30 à 20 h ; samedi : de 9 h à 20 h ; dimanche : fermé. Ces horaires peuvent changer : un appel préalable reste conseillé."
+        "r": "Au relevé du 22 octobre 2026, Pharmacie Lafayette Pradel Toulouse était ouvert tous les jours sauf le dimanche. Dans le détail — lundi : de 8 h 30 à 20 h ; mardi : de 8 h 30 à 20 h ; mercredi : de 8 h 30 à 20 h ; jeudi : de 8 h 30 à 20 h ; vendredi : de 8 h 30 à 20 h ; samedi : de 9 h à 20 h ; dimanche : fermé. Ces horaires peuvent changer : un appel préalable reste conseillé."
       },
       {
         "q": "Pharmacie Lafayette Pradel Toulouse est-il ouvert le dimanche ?",
-        "r": "Non : d'après les horaires relevés le 9 octobre 2026, Pharmacie Lafayette Pradel Toulouse est fermé le dimanche."
+        "r": "Non : d'après les horaires relevés le 22 octobre 2026, Pharmacie Lafayette Pradel Toulouse est fermé le dimanche."
       },
       {
         "q": "Où se trouve Pharmacie Lafayette Pradel Toulouse ?",
@@ -184,11 +195,15 @@
         "r": "Par téléphone au 05 61 49 18 22, ou directement sur place aux heures d'ouverture."
       },
       {
+        "q": "Pharmacie Lafayette Pradel Toulouse propose-t-il la vente à emporter ou la livraison ?",
+        "r": "D'après sa fiche Google (relevé du 22 octobre 2026) — livraison : oui."
+      },
+      {
         "q": "Pharmacie Lafayette Pradel Toulouse est-il accessible aux personnes à mobilité réduite ?",
         "r": "La fiche Google de l'établissement mentionne : « Entrée accessible en fauteuil roulant ». Cette information est déclarative ; en cas de doute, vérifiez par téléphone."
       }
     ],
-    "genere_le": "2026-10-09"
+    "genere_le": "2026-10-22"
   },
   "statut_google": "OPERATIONAL",
   "audience": {
@@ -199,6 +214,72 @@
     "clicsRecents": 0,
     "fenetreRecenteJours": 28,
     "source": "search-console",
-    "date": "2026-10-21"
+    "date": "2026-10-22"
+  },
+  "avis_detail": {
+    "releve": "2026-10-22",
+    "liste": [
+      {
+        "note": 5,
+        "texte": "Très sympathique a l'écoute agréable toute l'équipe es gentille malgré leurs travail  elles restent Souriantes et Agréable. J'aimerais Remercier Sophie  Lynda qui s'occupent de mon dossier médical. Affectueuses Pensées  je recommence cette pharmacie *car ce qui laisse un message méchant passez votre chemin merci. Cette une Pharmacie ont respecte.\nNe changez pas vous êtes auvTop toute l'équipe\nA très vite pour ma prochaine venue.\n❤",
+        "langue": "fr",
+        "date": "2026-07-27",
+        "auteur": "Carole Thibault",
+        "auteur_lien": "https://www.google.com/maps/contrib/105365551243179079566/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xsMGNXUkVja3h0ZVZocWNDMUZkMmd3YVVWWWFWRRAB!2m1!1s0x12aeba960c4b3e2d:0xfd83c2bb3abb520d"
+      },
+      {
+        "note": 4,
+        "texte": "Toujours bien accueillie et bien conseillée. Juste un peu trop d'attente en caisse au 1er étage. Merci aux équipes",
+        "langue": "fr",
+        "date": "2026-06-16",
+        "auteur": "Isabelle Buytart",
+        "auteur_lien": "https://www.google.com/maps/contrib/100072899839514339285/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2s5elNFdzNkWEUwV2xSU2JFcERjREJJWWtaMExYYxAB!2m1!1s0x12aeba960c4b3e2d:0xfd83c2bb3abb520d"
+      },
+      {
+        "note": 1,
+        "texte": "2 \"pharmaciennes\" ont eu un comportement déplacé à l'égard de ma femme. Je suis passé la semaine dernière pour demander une crème, elle n'était pas en rayon donc elle en a commandé. Aujourd'hui pour récupérer la crème, 2 employées qui non pas assurer le suivi de la commande ont donné une autre crème avec dédain parce que nous n'avions pas le nom de la crème (non donné par l'employée qui a fait la commande, ni na demandé mon nom...)\nTrès mauvaise expérience alors que je n'avais aucun problème avec cette pharmacie.\nRevoyez votre contact avec les clients.\nMerci",
+        "langue": "fr",
+        "date": "2026-06-08",
+        "auteur": "Erwann Plouhinec",
+        "auteur_lien": "https://www.google.com/maps/contrib/105023091671110753513/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT205M1pVRmtNRlJMTVVOMWEzTndiWGR5WW5oamVIYxAB!2m1!1s0x12aeba960c4b3e2d:0xfd83c2bb3abb520d"
+      },
+      {
+        "note": 1,
+        "texte": "Le traitement du client est complètement à revoir.\nLes conseillères en vente sont sur le côté, à discuter, et gare à vous si vous daignez les déranger en leur demandant conseils. Bien sûr elles vous répondront, mais en montrant leur agacement et de façon très expedititive. Puis retournent très rapidement à leur conversation. Je suis cliente régulière, et c’est ce qui m’interpelle à chaque fois. J’ai décidé de ne plus y mettre un pied et de faire tourner ma pharmacie du coin, plus petite mais plus agréable.",
+        "langue": "fr",
+        "date": "2026-05-30",
+        "auteur": "Rachid ES",
+        "auteur_lien": "https://www.google.com/maps/contrib/104208950556900022712/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25oR1QwcDNPRk5WTTB0Uk9FTkNVMnAxWW5OdGRGRRAB!2m1!1s0x12aeba960c4b3e2d:0xfd83c2bb3abb520d"
+      },
+      {
+        "note": 2,
+        "texte": "La professionnelle qui conseille en rayon s'est montrée vraiment top.\nEn revanche, la professionnelle \"à la caisse\" a été fort désagréable, quand j'ai demandé à payer par chèque.\nLa pharmacie était quasiment vide, ça ne lui a pourtant demandé que 3 minutes de plus.\nLes commentaires faits par elle et sa collègue étaient peu discrets.\nExpérience très désagréable.",
+        "langue": "fr",
+        "date": "2026-03-17",
+        "auteur": "Marie Saule",
+        "auteur_lien": "https://www.google.com/maps/contrib/100923466467385576683/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2taZmFVMXlVRzE0UlRaR1VuUlZUVVpSUjBOR2NIYxAB!2m1!1s0x12aeba960c4b3e2d:0xfd83c2bb3abb520d"
+      }
+    ]
+  },
+  "services": {
+    "releve": "2026-10-22",
+    "options": {
+      "delivery": true,
+      "curbsidePickup": false
+    },
+    "paiement": [
+      "carte bancaire",
+      "carte de débit",
+      "paiement sans contact"
+    ],
+    "parking": [
+      "parking gratuit",
+      "stationnement gratuit dans la rue"
+    ]
   }
 }

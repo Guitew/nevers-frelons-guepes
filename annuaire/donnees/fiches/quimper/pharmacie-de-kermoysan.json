@@ -127,8 +127,8 @@
     "etat": "absent",
     "premiere_detection": null,
     "derniere_detection": null,
-    "derniere_verification": "2026-10-09T16:58:32.124Z",
-    "echecs": 9,
+    "derniere_verification": "2026-10-22T10:06:20.031Z",
+    "echecs": 10,
     "url_detectee": null
   },
   "suggestion": {
@@ -141,7 +141,7 @@
   "dates": {
     "collecte": "2026-10-01",
     "publication": "2026-10-01",
-    "maj": "2026-10-09"
+    "maj": "2026-10-22"
   },
   "source": "google-places",
   "redaction": {
@@ -149,14 +149,24 @@
     "titre": "Pharmacie de Kermoysan — Pharmacie ou opticien à Quimper",
     "meta_titre": "Pharmacie de Kermoysan à Quimper : horaires, avis, téléphone",
     "meta_description": "Pharmacie de Kermoysan, pharmacie ou opticien à Quimper : horaires d'ouverture, note Google 3,8/5 (33 avis), téléphone, adresse et itinéraire.",
-    "chapo": "Pharmacie de Kermoysan exerce l'activité de pharmacie ou opticien au 27 Rue du Dauphiné, à Quimper. Ouvert tous les jours sauf le dimanche au relevé du 9 octobre 2026. Téléphone : 02 98 55 01 30. Note Google : 3,8 sur 5 pour 33 avis.",
+    "chapo": "Pharmacie de Kermoysan exerce l'activité de pharmacie ou opticien au 27 Rue du Dauphiné, à Quimper. Ouvert tous les jours sauf le dimanche au relevé du 22 octobre 2026. Téléphone : 02 98 55 01 30. Note Google : 3,8 sur 5 pour 33 avis.",
     "sections": [
       {
         "id": "presentation",
         "titre": "Pharmacie de Kermoysan en quelques mots",
         "paragraphes": [
           "Sur Google, l'établissement est classé « Pharmacie », dans notre rubrique Pharmacie ou opticien.",
-          "D'après le relevé du 9 octobre 2026, l'établissement est ouvert tous les jours sauf le dimanche. Le détail jour par jour figure plus bas."
+          "D'après le relevé du 22 octobre 2026, l'établissement est ouvert tous les jours sauf le dimanche. Le détail jour par jour figure plus bas."
+        ]
+      },
+      {
+        "id": "prestations",
+        "titre": "Services et équipements de Pharmacie de Kermoysan",
+        "paragraphes": [
+          "Proposé : livraison.",
+          "Moyens de paiement déclarés : carte de débit et paiement sans contact.",
+          "Stationnement : parking gratuit.",
+          "Ces indications sont déclarées par l'établissement sur sa fiche Google (relevé du 22 octobre 2026)."
         ]
       },
       {
@@ -178,18 +188,18 @@
         "id": "avis",
         "titre": "La réputation de Pharmacie de Kermoysan",
         "paragraphes": [
-          "Note de 3,8 sur 5 pour 33 avis Google au relevé du 9 octobre 2026. Les avis se consultent sur la fiche Google, dont le lien figure sur cette page."
+          "Note de 3,8 sur 5 pour 33 avis Google au relevé du 22 octobre 2026. Les avis les plus parlants sont compilés ci-dessous, avec un lien vers la fiche d'origine."
         ]
       }
     ],
     "faq": [
       {
         "q": "Quels sont les horaires de Pharmacie de Kermoysan ?",
-        "r": "Au relevé du 9 octobre 2026, Pharmacie de Kermoysan était ouvert tous les jours sauf le dimanche. Dans le détail — lundi : de 9 h à 13 h et de 14 h à 19 h ; mardi : de 9 h à 13 h et de 14 h à 19 h ; mercredi : de 9 h à 13 h et de 14 h à 19 h ; jeudi : de 9 h à 13 h et de 14 h à 19 h ; vendredi : de 9 h à 13 h et de 14 h à 19 h ; samedi : de 9 h à 12 h 30 ; dimanche : fermé. Ces horaires peuvent changer : un appel préalable reste conseillé."
+        "r": "Au relevé du 22 octobre 2026, Pharmacie de Kermoysan était ouvert tous les jours sauf le dimanche. Dans le détail — lundi : de 9 h à 13 h et de 14 h à 19 h ; mardi : de 9 h à 13 h et de 14 h à 19 h ; mercredi : de 9 h à 13 h et de 14 h à 19 h ; jeudi : de 9 h à 13 h et de 14 h à 19 h ; vendredi : de 9 h à 13 h et de 14 h à 19 h ; samedi : de 9 h à 12 h 30 ; dimanche : fermé. Ces horaires peuvent changer : un appel préalable reste conseillé."
       },
       {
         "q": "Pharmacie de Kermoysan est-il ouvert le dimanche ?",
-        "r": "Non : d'après les horaires relevés le 9 octobre 2026, Pharmacie de Kermoysan est fermé le dimanche."
+        "r": "Non : d'après les horaires relevés le 22 octobre 2026, Pharmacie de Kermoysan est fermé le dimanche."
       },
       {
         "q": "Où se trouve Pharmacie de Kermoysan ?",
@@ -200,11 +210,15 @@
         "r": "Par téléphone au 02 98 55 01 30, ou directement sur place aux heures d'ouverture."
       },
       {
+        "q": "Pharmacie de Kermoysan propose-t-il la vente à emporter ou la livraison ?",
+        "r": "D'après sa fiche Google (relevé du 22 octobre 2026) — livraison : oui."
+      },
+      {
         "q": "Pharmacie de Kermoysan est-il accessible aux personnes à mobilité réduite ?",
         "r": "La fiche Google de l'établissement mentionne : « Entrée accessible en fauteuil roulant ». Cette information est déclarative ; en cas de doute, vérifiez par téléphone."
       }
     ],
-    "genere_le": "2026-10-09"
+    "genere_le": "2026-10-22"
   },
   "statut_google": "OPERATIONAL",
   "audience": {
@@ -215,6 +229,69 @@
     "clicsRecents": 0,
     "fenetreRecenteJours": 28,
     "source": "search-console",
-    "date": "2026-10-21"
+    "date": "2026-10-22"
+  },
+  "avis_detail": {
+    "releve": "2026-10-22",
+    "liste": [
+      {
+        "note": 5,
+        "texte": "Un bon accueil et de bons conseils, une excellente équipe de professionnels de santé , indispensable à notre cher Quartier !",
+        "langue": "fr",
+        "date": "2026-02-19",
+        "auteur": "Claude Langrene",
+        "auteur_lien": "https://www.google.com/maps/contrib/104820875360778130352/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT21wSFpWY3dUbEZyWm1jNVEzTnFVek4yYjBvelZGRRAB!2m1!1s0x4810d5732f9fbd8f:0xcb65bebab568c56c"
+      },
+      {
+        "note": 1,
+        "texte": "Pharmacie qui ouvre à 9h30 au lieu de 9h comme indiqué. Lorsqu’on dit juste que ça serait bien de prévenir parce qu’il y avait le personnel à l’intérieur on nous répond « si vous n’êtes pas contente allez ailleurs, en boulangerie vous attendez, là c’est pareil »\nJe conçoit qu’il peut y avoir des soucis mai quand on voit ses clients attendre devant la porte dans le froid, le minimum c’est de les prévenir car sinon effectivement je serai aller ailleurs !\nLamentable.",
+        "langue": "fr",
+        "date": "2025-10-24",
+        "auteur": "Jade Le Quéré",
+        "auteur_lien": "https://www.google.com/maps/contrib/107336257645080580256/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT21wblMzZ3dhMk5QU0hoaFRqbGpYMHR5UVVwYVJIYxAB!2m1!1s0x4810d5732f9fbd8f:0xcb65bebab568c56c"
+      },
+      {
+        "note": 1,
+        "texte": "Pharmacie soi-disant ouverte à 9h, mais à 9h20 toujours porte close.\nLes employés sont bien à l’intérieur, mais impossible d’obtenir la moindre réponse — ni un regard, ni un coup de fil décroché.\nQuand on affiche des horaires, la moindre des choses est de les respecter ou d’informer les clients.\nUne attitude nonchalante et un manque total de considération, c’est regrettable pour un service de santé censé être de proximité.",
+        "langue": "fr",
+        "date": "2025-10-17",
+        "auteur": "Sam Sam",
+        "auteur_lien": "https://www.google.com/maps/contrib/108737042963426187865/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2s5TVRFTlVORGx6UmtVM01VbHhXbXhwTWs1eGNYYxAB!2m1!1s0x4810d5732f9fbd8f:0xcb65bebab568c56c"
+      },
+      {
+        "note": 1,
+        "texte": "Que vous soyez en grève contre les mesures du gouvernement est une chose, que se soit les patients qui paient alors qu'ils n'ont rien fait, je suis scotchée. On va TOUS devoir faire avec une impositions plus importante. Mais ce n'est pas à NOUS de payer pour une lutte qui n'ait clairement pas la nôtre.... Surtout qu'en temps de fermeture dominicale, on a pas le choix. Pourquoi à nous de payer?",
+        "langue": "fr",
+        "date": "2025-08-03",
+        "auteur": "MU",
+        "auteur_lien": "https://www.google.com/maps/contrib/112466488680882580492/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSURzbW9PdTZ3RRAB!2m1!1s0x4810d5732f9fbd8f:0xcb65bebab568c56c"
+      },
+      {
+        "note": 5,
+        "texte": "Pharmacie très agréable avec un personnel qualifié .. toujours un sourire et cela fait  du bien au moral  surtout en ce moment de crise.  ... la responsable est très gentille avec de bons conseils.",
+        "langue": "fr",
+        "date": "2021-03-21",
+        "auteur": "Bibiche Gaspard",
+        "auteur_lien": "https://www.google.com/maps/contrib/111147462818324244693/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUR5ai1pY3V3RRAB!2m1!1s0x4810d5732f9fbd8f:0xcb65bebab568c56c"
+      }
+    ]
+  },
+  "services": {
+    "releve": "2026-10-22",
+    "options": {
+      "delivery": true
+    },
+    "paiement": [
+      "carte de débit",
+      "paiement sans contact"
+    ],
+    "parking": [
+      "parking gratuit"
+    ]
   }
 }

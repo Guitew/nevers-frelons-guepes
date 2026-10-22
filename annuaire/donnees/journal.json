@@ -1,5 +1,145 @@
 [
   {
+    "date": "2026-10-22T10:07:04.774Z",
+    "type": "suggestion-soumise",
+    "id": "ChIJBczuxipI3UcRkhot8lPcN5g",
+    "nom": "Scania Arras",
+    "url": "/garages-automobile/saint-laurent-blangy/scania-arras/"
+  },
+  {
+    "date": "2026-10-22T10:07:04.738Z",
+    "type": "suggestion-soumise",
+    "id": "ChIJJzG3wtSv9UcR1SGeYtU2NRQ",
+    "nom": "Stop O'Gaspy",
+    "url": "/commerces-alimentation/saint-genest-lerpt/stop-o-gaspy/"
+  },
+  {
+    "date": "2026-10-22T10:07:04.700Z",
+    "type": "suggestion-soumise",
+    "id": "ChIJvWS3NltTAUgR5GZQ97k8v6E",
+    "nom": "La Boulangerie Artisan Boulanger",
+    "url": "/boulangeries-patisseries/la-rochelle/la-boulangerie-artisan-boulanger/"
+  },
+  {
+    "date": "2026-10-22T10:07:04.661Z",
+    "type": "suggestion-soumise",
+    "id": "ChIJr96hDkdjjUcRBlkiROmnx5k",
+    "nom": "Le Moulin des Pains",
+    "url": "/boulangeries-patisseries/besancon/le-moulin-des-pains/"
+  },
+  {
+    "date": "2026-10-22T10:07:03.812Z",
+    "type": "retrait-410",
+    "id": "ChIJvX1GGrq9_UcR5Owiq_i5Fn4",
+    "nom": "Au Top Du Roulier POITIERS 86",
+    "url": "/restaurants/poitiers/au-top-du-roulier-poitiers-86/",
+    "motif": "backlink jamais posé après 45 jours de délai de grâce",
+    "cible": null
+  },
+  {
+    "date": "2026-10-22T10:07:03.820Z",
+    "type": "retrait-410",
+    "id": "ChIJ_wP9EW1AyxIRiT5rSEuv834",
+    "nom": "Ô Café",
+    "url": "/cafes-bars/gap/o-cafe/",
+    "motif": "backlink jamais posé après 45 jours de délai de grâce",
+    "cible": null
+  },
+  {
+    "date": "2026-10-22T10:07:03.821Z",
+    "type": "retrait-410",
+    "id": "ChIJLeu-YmSgk0cR_S1Tj2lW-x4",
+    "nom": "SUPERMARCHÉ DES VOSGES - Épinal",
+    "url": "/commerces-alimentation/epinal/supermarche-des-vosges-epinal/",
+    "motif": "backlink jamais posé après 45 jours de délai de grâce",
+    "cible": null
+  },
+  {
+    "date": "2026-10-22T10:06:20.168Z",
+    "type": "backlink-absent",
+    "id": "ChIJ2_6XvFvLlkcRzNvBiGY0UUA",
+    "nom": "Complexe Sportif Lixenbuhl",
+    "url": null,
+    "precedent": "en-attente"
+  },
+  {
+    "date": "2026-10-22T10:06:20.308Z",
+    "type": "backlink-absent",
+    "id": "ChIJMz-ObxfzkkcRNvoIVpyY-mY",
+    "nom": "Dolci Sarl",
+    "url": null,
+    "precedent": "en-attente"
+  },
+  {
+    "date": "2026-10-22T10:06:20.401Z",
+    "type": "backlink-absent",
+    "id": "ChIJVVVxv17L_kcRrRhF8q6lxpY",
+    "nom": "Le Diablotin Boulangerie Pâtisserie",
+    "url": null,
+    "precedent": "en-attente"
+  },
+  {
+    "date": "2026-10-22T10:06:20.554Z",
+    "type": "backlink-absent",
+    "id": "ChIJl1I5q4X65UcRJrRGycSTAPg",
+    "nom": "Les Fours à chaux Restaurant- Tabac",
+    "url": null,
+    "precedent": "en-attente"
+  },
+  {
+    "date": "2026-10-22T10:06:20.629Z",
+    "type": "backlink-absent",
+    "id": "ChIJdwhMqK2V-kcRfsMp_PJP66U",
+    "nom": "Trouy Diesel Service",
+    "url": null,
+    "precedent": "en-attente"
+  },
+  {
+    "date": "2026-10-22T10:06:19.447Z",
+    "type": "publication",
+    "id": "ChIJdwhMqK2V-kcRfsMp_PJP66U",
+    "nom": "Trouy Diesel Service",
+    "url": "/garages-automobile/bourges/trouy-diesel-service/",
+    "categorie": "garages-automobile",
+    "source": "google-places"
+  },
+  {
+    "date": "2026-10-22T10:06:19.565Z",
+    "type": "publication",
+    "id": "ChIJMz-ObxfzkkcRNvoIVpyY-mY",
+    "nom": "Dolci Sarl",
+    "url": "/boulangeries-patisseries/frotey-les-vesoul/dolci-sarl/",
+    "categorie": "boulangeries-patisseries",
+    "source": "google-places"
+  },
+  {
+    "date": "2026-10-22T10:06:19.734Z",
+    "type": "publication",
+    "id": "ChIJl1I5q4X65UcRJrRGycSTAPg",
+    "nom": "Les Fours à chaux Restaurant- Tabac",
+    "url": "/restaurants/le-mee-sur-seine/les-fours-a-chaux-restaurant-tabac/",
+    "categorie": "restaurants",
+    "source": "google-places"
+  },
+  {
+    "date": "2026-10-22T10:06:19.822Z",
+    "type": "publication",
+    "id": "ChIJ2_6XvFvLlkcRzNvBiGY0UUA",
+    "nom": "Complexe Sportif Lixenbuhl",
+    "url": "/loisirs-sport-culture/illkirch-graffenstaden/complexe-sportif-lixenbuhl/",
+    "categorie": "loisirs-sport-culture",
+    "source": "google-places"
+  },
+  {
+    "date": "2026-10-22T10:06:19.911Z",
+    "type": "publication",
+    "id": "ChIJVVVxv17L_kcRrRhF8q6lxpY",
+    "nom": "Le Diablotin Boulangerie Pâtisserie",
+    "url": "/boulangeries-patisseries/limoges/le-diablotin-boulangerie-patisserie/",
+    "categorie": "boulangeries-patisseries",
+    "source": "google-places"
+  },
+  {
     "date": "2026-10-21T10:05:25.960Z",
     "type": "suggestion-soumise",
     "id": "ChIJ-eUf9qLykkcRMglb5wVE8K8",

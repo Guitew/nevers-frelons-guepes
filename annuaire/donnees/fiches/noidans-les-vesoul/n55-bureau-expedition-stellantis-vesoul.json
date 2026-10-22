@@ -26,8 +26,8 @@
     "latitude": 47.6236391,
     "longitude": 6.1348068
   },
-  "note": 3.5,
-  "avis": 72,
+  "note": 3.6,
+  "avis": 73,
   "horaires": null,
   "attributs": [
     "Entrée accessible en fauteuil roulant",
@@ -40,8 +40,8 @@
     "etat": "absent",
     "premiere_detection": null,
     "derniere_detection": null,
-    "derniere_verification": "2026-10-09T16:58:32.124Z",
-    "echecs": 11,
+    "derniere_verification": "2026-10-22T10:06:20.031Z",
+    "echecs": 12,
     "url_detectee": null
   },
   "suggestion": {
@@ -61,15 +61,15 @@
   "dates": {
     "collecte": "2026-09-29",
     "publication": "2026-09-29",
-    "maj": "2026-10-18"
+    "maj": "2026-10-22"
   },
   "source": "google-places",
   "redaction": {
     "version": 2,
     "titre": "N55 - Bureau expédition Stellantis Vesoul — Transport et déménagement à Noidans-lès-Vesoul",
     "meta_titre": "N55 - Bureau expédition Stellantis Vesoul : avis",
-    "meta_description": "N55 - Bureau expédition Stellantis Vesoul, transport et déménagement à Noidans-lès-Vesoul : note Google 3,5/5 (72 avis), adresse et itinéraire.",
-    "chapo": "N55 - Bureau expédition Stellantis Vesoul exerce l'activité de transport et déménagement à Noidans-lès-Vesoul. Note Google : 3,5 sur 5 pour 72 avis.",
+    "meta_description": "N55 - Bureau expédition Stellantis Vesoul, transport et déménagement à Noidans-lès-Vesoul : note Google 3,6/5 (73 avis), adresse et itinéraire.",
+    "chapo": "N55 - Bureau expédition Stellantis Vesoul exerce l'activité de transport et déménagement à Noidans-lès-Vesoul. Note Google : 3,6 sur 5 pour 73 avis.",
     "sections": [
       {
         "id": "presentation",
@@ -97,7 +97,7 @@
         "id": "avis",
         "titre": "La réputation de N55 - Bureau expédition Stellantis Vesoul",
         "paragraphes": [
-          "Note de 3,5 sur 5 pour 72 avis Google au relevé du 9 octobre 2026. Les avis se consultent sur la fiche Google, dont le lien figure sur cette page."
+          "Note de 3,6 sur 5 pour 73 avis Google au relevé du 22 octobre 2026. Les avis les plus parlants sont compilés ci-dessous, avec un lien vers la fiche d'origine."
         ]
       }
     ],
@@ -111,7 +111,7 @@
         "r": "La fiche Google de l'établissement mentionne : « Entrée accessible en fauteuil roulant ». Cette information est déclarative ; en cas de doute, vérifiez par téléphone."
       }
     ],
-    "genere_le": "2026-10-09"
+    "genere_le": "2026-10-22"
   },
   "statut_google": "OPERATIONAL",
   "audience": {
@@ -122,6 +122,56 @@
     "clicsRecents": 0,
     "fenetreRecenteJours": 28,
     "source": "search-console",
-    "date": "2026-10-21"
+    "date": "2026-10-22"
+  },
+  "avis_detail": {
+    "releve": "2026-10-22",
+    "liste": [
+      {
+        "note": 5,
+        "texte": "Salut à tous. Les gars, ne vous énervez pas contre le personnel. Bien sûr, il y a des gens malhonnêtes partout (et c'est un euphémisme), mais toutes les usines PSA fonctionnent selon un horaire précis ! Et si vous travaillez à un kilomètre d'ici, je vous plains sincèrement, croyez-moi. De plus, si le répartiteur vous presse d'aller quelque part, changez d'entreprise. Il vous fait perdre du temps, tout simplement ! Sachez-le ! Le répartiteur n'a aucune formation, contrairement à vous ! C'est un inconnu ! Mais vous, chauffeur routier, vous avez fait des études, vous êtes responsable et, en général, vous êtes quelqu'un de bien, contrairement à la plupart des gens ! Et l'usine, contrairement à toutes les usines PSA, est normale ; certaines sont mieux, d'autres moins bien. Il y a des toilettes propres, des douches aussi, même si le fait qu'il n'y en ait que deux et qu'elles soient partagées par tout le monde n'est pas idéal. Ce qui n'est pas très pratique pour les femmes. Tout cela se trouve au deuxième étage, l'entrée est au niveau de la douane. À l'entrée, vous devez présenter un code, par exemple S123J. Si c'est votre première fois, ou même si ce n'est pas la première fois, demandez un plan. On vous expliquera le chemin et cela vous facilitera la tâche. Je pense avoir fait de mon mieux pour vous aider. Bonne chance à tous !",
+        "langue": "fr",
+        "date": "2026-07-07",
+        "auteur": "Vitali Kakhnovich",
+        "auteur_lien": "https://www.google.com/maps/contrib/105768860265279447206/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2tObU5Hb3RkV2RVZFRGNGEyaENlWHBFWjA5MFMyYxAB!2m1!1s0x4792f3002c69a7fb:0x92ffa0ae8b4adcd1"
+      },
+      {
+        "note": 3,
+        "texte": "La reception m’annonce 1 a 2 h d’attente pour mon retard en plus du nombre de camions finalement j ai juste patienté 10m maximum pour me mettre au quai 4 Equipe et reception sympa enfin avec moi pour les autres chauffeurs je sais pas",
+        "langue": "fr",
+        "date": "2026-05-30",
+        "auteur": "L’tof",
+        "auteur_lien": "https://www.google.com/maps/contrib/101231456448731148845/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT21acWR6STRkVmxsUlVWeE0xOTJZVmRWY1U1elpGRRAB!2m1!1s0x4792f3002c69a7fb:0x92ffa0ae8b4adcd1"
+      },
+      {
+        "note": 3,
+        "texte": "Trop long , on s'y perd vite la 1ère fois",
+        "langue": "fr",
+        "date": "2026-05-28",
+        "auteur": "gilbert Decroix",
+        "auteur_lien": "https://www.google.com/maps/contrib/116492497533102124599/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2tORmFUaHROMFJ4VTNSUVZVMXpWRXRJVUhsVFMwRRAB!2m1!1s0x4792f3002c69a7fb:0x92ffa0ae8b4adcd1"
+      },
+      {
+        "note": 1,
+        "texte": "À la Direction de l'entreprise\n\nJe dépose par la présente une protestation formelle concernant les violations systématiques constatées à votre terminal (entrepôt de déchargement).\n\nInfractions :\n\n1. Les camions locaux sont pris en charge dans l'ordre de priorité, tandis que les chauffeurs étrangers sont contraints d'attendre plusieurs heures sans explication. Le personnel du terminal ignore délibérément l'ordre de priorité.\n\n2. Lorsque les chauffeurs tentent de formuler une remarque ou de s'informer sur la raison du retard, le personnel du terminal réagit de manière grossière, insultante et injurieuse.\n\n3. En raison de ces retards injustifiés, les chauffeurs dépassent leurs heures de travail autorisées, telles qu'enregistrées par leur tachygraphe, ce qui constitue une infraction à la législation sur les transports, sans qu'ils n'y soient pour rien.\n\nDemandes :\n\nJe demande qu'une enquête interne soit menée sur les incidents signalés, que des mesures disciplinaires soient prises à l'encontre des employés responsables, que les procédures de service établies au terminal soient respectées et qu'une réponse écrite officielle soit fournie dans un délai raisonnable.\n\nVeuillez noter : si la direction ne répond pas, cette plainte sera transmise aux autorités de transport et de réglementation, ainsi qu'aux associations internationales de transporteurs concernées. Shamshidinov Bolotbek\nAOKJ984\n2026.05.28",
+        "langue": "fr",
+        "date": "2026-05-28",
+        "auteur": "Bolo Strelok",
+        "auteur_lien": "https://www.google.com/maps/contrib/114819845075537070727/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2pVdFptWTBjbDlTTkVGUmNWZFNSbVJHYlVkd05YYxAB!2m1!1s0x4792f3002c69a7fb:0x92ffa0ae8b4adcd1"
+      },
+      {
+        "note": 5,
+        "texte": "Très agreable",
+        "langue": "fr",
+        "date": "2024-10-22",
+        "auteur": "Oscar Duarte Araujo",
+        "auteur_lien": "https://www.google.com/maps/contrib/111878026495935979098/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUNYXzlTNUFnEAE!2m1!1s0x4792f3002c69a7fb:0x92ffa0ae8b4adcd1"
+      }
+    ]
   }
 }

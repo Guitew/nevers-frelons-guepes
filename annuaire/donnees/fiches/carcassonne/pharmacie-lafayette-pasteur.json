@@ -32,7 +32,7 @@
     "longitude": 2.3455093
   },
   "note": 4.6,
-  "avis": 254,
+  "avis": 255,
   "horaires": [
     {
       "jour": 0,
@@ -112,8 +112,8 @@
     "etat": "absent",
     "premiere_detection": "2026-09-19T09:26:17.939Z",
     "derniere_detection": "2026-09-22T14:49:45.096Z",
-    "derniere_verification": "2026-10-09T16:58:32.124Z",
-    "echecs": 20,
+    "derniere_verification": "2026-10-22T10:06:20.031Z",
+    "echecs": 21,
     "url_detectee": null
   },
   "suggestion": {
@@ -125,22 +125,32 @@
   "dates": {
     "collecte": "2026-09-01",
     "publication": "2026-09-01",
-    "maj": "2026-10-09"
+    "maj": "2026-10-22"
   },
   "source": "google-places",
   "redaction": {
     "version": 2,
     "titre": "Pharmacie Lafayette Pasteur — Pharmacie ou opticien à Carcassonne",
     "meta_titre": "Pharmacie Lafayette Pasteur à Carcassonne : horaires, avis",
-    "meta_description": "Pharmacie Lafayette Pasteur, pharmacie ou opticien à Carcassonne : horaires d'ouverture, note Google 4,6/5 (254 avis), téléphone, adresse et itinéraire.",
-    "chapo": "Cette fiche présente Pharmacie Lafayette Pasteur, une pharmacie ou opticien au 44 Allée d'Iéna, à Carcassonne. Ouvert tous les jours sauf le dimanche au relevé du 9 octobre 2026. Téléphone : 04 68 25 01 65. Note Google : 4,6 sur 5 pour 254 avis.",
+    "meta_description": "Pharmacie Lafayette Pasteur, pharmacie ou opticien à Carcassonne : horaires d'ouverture, note Google 4,6/5 (255 avis), téléphone, adresse et itinéraire.",
+    "chapo": "Cette fiche présente Pharmacie Lafayette Pasteur, une pharmacie ou opticien au 44 Allée d'Iéna, à Carcassonne. Ouvert tous les jours sauf le dimanche au relevé du 22 octobre 2026. Téléphone : 04 68 25 01 65. Note Google : 4,6 sur 5 pour 255 avis.",
     "sections": [
       {
         "id": "presentation",
         "titre": "Pharmacie Lafayette Pasteur en quelques mots",
         "paragraphes": [
           "Sur Google, l'établissement est classé « Pharmacie », dans notre rubrique Pharmacie ou opticien.",
-          "D'après le relevé du 9 octobre 2026, l'établissement est ouvert tous les jours sauf le dimanche. Le détail jour par jour figure plus bas."
+          "D'après le relevé du 22 octobre 2026, l'établissement est ouvert tous les jours sauf le dimanche. Le détail jour par jour figure plus bas."
+        ]
+      },
+      {
+        "id": "prestations",
+        "titre": "Services et équipements de Pharmacie Lafayette Pasteur",
+        "paragraphes": [
+          "Non proposé selon la fiche Google : retrait en voiture.",
+          "Moyens de paiement déclarés : carte bancaire, carte de débit et paiement sans contact.",
+          "Stationnement : parking gratuit.",
+          "Ces indications sont déclarées par l'établissement sur sa fiche Google (relevé du 22 octobre 2026)."
         ]
       },
       {
@@ -162,18 +172,18 @@
         "id": "avis",
         "titre": "La réputation de Pharmacie Lafayette Pasteur",
         "paragraphes": [
-          "Note de 4,6 sur 5 pour 254 avis Google au relevé du 9 octobre 2026. Les avis se consultent sur la fiche Google, dont le lien figure sur cette page."
+          "Note de 4,6 sur 5 pour 255 avis Google au relevé du 22 octobre 2026. Les avis les plus parlants sont compilés ci-dessous, avec un lien vers la fiche d'origine."
         ]
       }
     ],
     "faq": [
       {
         "q": "Quels sont les horaires de Pharmacie Lafayette Pasteur ?",
-        "r": "Au relevé du 9 octobre 2026, Pharmacie Lafayette Pasteur était ouvert tous les jours sauf le dimanche. Dans le détail — lundi : de 9 h à 19 h 30 ; mardi : de 9 h à 19 h 30 ; mercredi : de 9 h à 19 h 30 ; jeudi : de 9 h à 19 h 30 ; vendredi : de 9 h à 19 h 30 ; samedi : de 9 h à 19 h 30 ; dimanche : fermé. Ces horaires peuvent changer : un appel préalable reste conseillé."
+        "r": "Au relevé du 22 octobre 2026, Pharmacie Lafayette Pasteur était ouvert tous les jours sauf le dimanche. Dans le détail — lundi : de 9 h à 19 h 30 ; mardi : de 9 h à 19 h 30 ; mercredi : de 9 h à 19 h 30 ; jeudi : de 9 h à 19 h 30 ; vendredi : de 9 h à 19 h 30 ; samedi : de 9 h à 19 h 30 ; dimanche : fermé. Ces horaires peuvent changer : un appel préalable reste conseillé."
       },
       {
         "q": "Pharmacie Lafayette Pasteur est-il ouvert le dimanche ?",
-        "r": "Non : d'après les horaires relevés le 9 octobre 2026, Pharmacie Lafayette Pasteur est fermé le dimanche."
+        "r": "Non : d'après les horaires relevés le 22 octobre 2026, Pharmacie Lafayette Pasteur est fermé le dimanche."
       },
       {
         "q": "Où se trouve Pharmacie Lafayette Pasteur ?",
@@ -188,7 +198,7 @@
         "r": "La fiche Google de l'établissement mentionne : « Entrée accessible en fauteuil roulant ». Cette information est déclarative ; en cas de doute, vérifiez par téléphone."
       }
     ],
-    "genere_le": "2026-10-09"
+    "genere_le": "2026-10-22"
   },
   "statut_google": "OPERATIONAL",
   "audience": {
@@ -196,10 +206,10 @@
     "impressions": 1542,
     "position": 2.6,
     "fenetreJours": 90,
-    "clicsRecents": 15,
+    "clicsRecents": 9,
     "fenetreRecenteJours": 28,
     "source": "search-console",
-    "date": "2026-10-21"
+    "date": "2026-10-22"
   },
   "maintien": {
     "date": "2026-10-09",
@@ -212,6 +222,70 @@
     "derniere_exploration": null,
     "canonique_google": null,
     "source": "impressions",
-    "date": "2026-10-21"
+    "date": "2026-10-22"
+  },
+  "avis_detail": {
+    "releve": "2026-10-22",
+    "liste": [
+      {
+        "note": 5,
+        "texte": "Grand choix en parapharmacie, lieu très agréable. S'il venait à manquer un médicament, ils essaient de l'obtenir assez tôt, et c'est le cas.\nLe service aide à l personne est complet aussi, le plus, c'est le parking privé facilitant les échanges.",
+        "langue": "fr",
+        "date": "2026-06-13",
+        "auteur": "de leon carmen",
+        "auteur_lien": "https://www.google.com/maps/contrib/116774435899029096896/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2pKSFMyZzNZVnBDU2kxVlFUQk9Na2h6YlhOVVRIYxAB!2m1!1s0x12ae2dde259e6a71:0x204cb6ee2827484d"
+      },
+      {
+        "note": 5,
+        "texte": "Très agréable visite a cette pharmacie\nVenant passer quelques jours de belgique et a 2 minutes a pied je suis ressortit avec de quoi se soulager mon gros mal de dos a un prix plus que bas.\n\nPersonnel très agréable",
+        "langue": "fr",
+        "date": "2026-06-04",
+        "auteur": "boris ciriani",
+        "auteur_lien": "https://www.google.com/maps/contrib/108620342909580513245/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25jMFZsOXFTMVJoTVdNMGJuRllaek5zZFZRNFFXYxAB!2m1!1s0x12ae2dde259e6a71:0x204cb6ee2827484d"
+      },
+      {
+        "note": 5,
+        "texte": "Une excellente pharmacie ! J’y trouve toujours tout ce dont j’ai besoin. Le personnel est très attentif, accueillant et professionnel. En tant qu’Ukrainienne, j’apprécie énormément la qualité de votre service. Merci beaucoup et bonne continuation !",
+        "langue": "fr",
+        "date": "2026-05-12",
+        "auteur": "Olesia Mosiichuk",
+        "auteur_lien": "https://www.google.com/maps/contrib/114553700498453958446/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25wWVNHUTFPVGhxTFVsdFIzTnRObU5mZFdZMVVGRRAB!2m1!1s0x12ae2dde259e6a71:0x204cb6ee2827484d"
+      },
+      {
+        "note": 3,
+        "texte": "\"Ma\" pharmacie depuis 7 ans que j'habite quartier Pasteur , personnel très à l'écoute, sympathique,  atteinte d'une maladie handicapante si vraiment je ne peux me déplacer pour récupérer mon traitement le propriétaire me livre à domicile ce qui est vraiment très gentil. Les nombreux produits para sont très accessibles carte de fidélité etc......",
+        "langue": "fr",
+        "date": "2026-04-12",
+        "auteur": "Stephanie Ollier",
+        "auteur_lien": "https://www.google.com/maps/contrib/105253875443287978180/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2tWdU5HbHBNM2RqVlRod2RFUlVjMVJJUldveU5FRRAB!2m1!1s0x12ae2dde259e6a71:0x204cb6ee2827484d"
+      },
+      {
+        "note": 5,
+        "texte": "Superbe pharmacie ! Un très grand parking facile d'accès et gratuit (ce qui est rare au centre ville de Carcassonne). Beaucoup de choix proposés à des prix tout à fait raisonnable. Le personnel est très accueillant et souriant, ils savent bien vous renseigner. C'est devenu ma pharmacie favorite ! Bravo à vous 👏🏼",
+        "langue": "fr",
+        "date": "2024-08-22",
+        "auteur": "Titi14",
+        "auteur_lien": "https://www.google.com/maps/contrib/104859816427222932960/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUQ3b29yLXlRRRAB!2m1!1s0x12ae2dde259e6a71:0x204cb6ee2827484d"
+      }
+    ]
+  },
+  "services": {
+    "releve": "2026-10-22",
+    "options": {
+      "curbsidePickup": false
+    },
+    "paiement": [
+      "carte bancaire",
+      "carte de débit",
+      "paiement sans contact"
+    ],
+    "parking": [
+      "parking gratuit"
+    ]
   }
 }

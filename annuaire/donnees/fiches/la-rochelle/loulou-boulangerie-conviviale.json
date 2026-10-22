@@ -29,7 +29,7 @@
     "longitude": -1.1241268
   },
   "note": 4.6,
-  "avis": 372,
+  "avis": 373,
   "horaires": [
     {
       "jour": 0,
@@ -113,8 +113,8 @@
     "etat": "absent",
     "premiere_detection": null,
     "derniere_detection": null,
-    "derniere_verification": "2026-10-09T16:58:32.124Z",
-    "echecs": 4,
+    "derniere_verification": "2026-10-22T10:06:20.031Z",
+    "echecs": 5,
     "url_detectee": null
   },
   "suggestion": {
@@ -127,22 +127,34 @@
   "dates": {
     "collecte": "2026-10-06",
     "publication": "2026-10-06",
-    "maj": "2026-10-09"
+    "maj": "2026-10-22"
   },
   "source": "google-places",
   "redaction": {
     "version": 2,
     "titre": "Loulou Boulangerie Conviviale — Boulangerie-pâtisserie à La Rochelle",
     "meta_titre": "Loulou Boulangerie Conviviale à La Rochelle : horaires, avis",
-    "meta_description": "Loulou Boulangerie Conviviale, boulangerie-pâtisserie à La Rochelle : horaires d'ouverture, note Google 4,6/5 (372 avis), téléphone, adresse et itinéraire.",
-    "chapo": "Loulou Boulangerie Conviviale exerce l'activité de boulangerie-pâtisserie au 20 Rue Maurice Ravel, à La Rochelle. Ouvert sept jours sur sept au relevé du 9 octobre 2026. Téléphone : 05 46 45 30 28. Note Google : 4,6 sur 5 pour 372 avis.",
+    "meta_description": "Loulou Boulangerie Conviviale, boulangerie-pâtisserie à La Rochelle : horaires d'ouverture, note Google 4,6/5 (373 avis), téléphone, adresse et itinéraire.",
+    "chapo": "Loulou Boulangerie Conviviale exerce l'activité de boulangerie-pâtisserie au 20 Rue Maurice Ravel, à La Rochelle. Ouvert sept jours sur sept au relevé du 22 octobre 2026. Téléphone : 05 46 45 30 28. Note Google : 4,6 sur 5 pour 373 avis.",
     "sections": [
       {
         "id": "presentation",
         "titre": "Loulou Boulangerie Conviviale en quelques mots",
         "paragraphes": [
           "Sur Google, l'établissement est classé « Boulangerie », dans notre rubrique Boulangerie-pâtisserie.",
-          "D'après le relevé du 9 octobre 2026, l'établissement est ouvert sept jours sur sept. Le détail jour par jour figure plus bas."
+          "Niveau de prix indiqué sur la fiche Google : € (bon marché).",
+          "D'après le relevé du 22 octobre 2026, l'établissement est ouvert sept jours sur sept. Le détail jour par jour figure plus bas."
+        ]
+      },
+      {
+        "id": "prestations",
+        "titre": "Services et équipements de Loulou Boulangerie Conviviale",
+        "paragraphes": [
+          "Proposé : à emporter, petit-déjeuner et café.",
+          "Non proposé selon la fiche Google : livraison.",
+          "Moyens de paiement déclarés : carte bancaire, carte de débit et paiement sans contact.",
+          "Stationnement : parking gratuit.",
+          "Ces indications sont déclarées par l'établissement sur sa fiche Google (relevé du 22 octobre 2026)."
         ]
       },
       {
@@ -164,18 +176,18 @@
         "id": "avis",
         "titre": "La réputation de Loulou Boulangerie Conviviale",
         "paragraphes": [
-          "Note de 4,6 sur 5 pour 372 avis Google au relevé du 9 octobre 2026. Les avis se consultent sur la fiche Google, dont le lien figure sur cette page."
+          "Note de 4,6 sur 5 pour 373 avis Google au relevé du 22 octobre 2026. Les avis les plus parlants sont compilés ci-dessous, avec un lien vers la fiche d'origine."
         ]
       }
     ],
     "faq": [
       {
         "q": "Quels sont les horaires de Loulou Boulangerie Conviviale ?",
-        "r": "Au relevé du 9 octobre 2026, Loulou Boulangerie Conviviale était ouvert sept jours sur sept. Dans le détail — lundi : de 7 h à 20 h ; mardi : de 7 h à 20 h ; mercredi : de 7 h à 20 h ; jeudi : de 7 h à 20 h ; vendredi : de 7 h à 20 h ; samedi : de 7 h à 19 h 30 ; dimanche : de 7 h à 20 h. Ces horaires peuvent changer : un appel préalable reste conseillé."
+        "r": "Au relevé du 22 octobre 2026, Loulou Boulangerie Conviviale était ouvert sept jours sur sept. Dans le détail — lundi : de 7 h à 20 h ; mardi : de 7 h à 20 h ; mercredi : de 7 h à 20 h ; jeudi : de 7 h à 20 h ; vendredi : de 7 h à 20 h ; samedi : de 7 h à 19 h 30 ; dimanche : de 7 h à 20 h. Ces horaires peuvent changer : un appel préalable reste conseillé."
       },
       {
         "q": "Loulou Boulangerie Conviviale est-il ouvert le dimanche ?",
-        "r": "Oui : le dimanche, Loulou Boulangerie Conviviale est ouvert de 7 h à 20 h (horaires relevés le 9 octobre 2026)."
+        "r": "Oui : le dimanche, Loulou Boulangerie Conviviale est ouvert de 7 h à 20 h (horaires relevés le 22 octobre 2026)."
       },
       {
         "q": "Où se trouve Loulou Boulangerie Conviviale ?",
@@ -186,11 +198,19 @@
         "r": "Par téléphone au 05 46 45 30 28, ou directement sur place aux heures d'ouverture."
       },
       {
+        "q": "Loulou Boulangerie Conviviale propose-t-il la vente à emporter ou la livraison ?",
+        "r": "D'après sa fiche Google (relevé du 22 octobre 2026) — vente à emporter : oui ; livraison : non."
+      },
+      {
+        "q": "Quel est le niveau de prix de Loulou Boulangerie Conviviale ?",
+        "r": "Google classe Loulou Boulangerie Conviviale au niveau de prix € (bon marché), sur une échelle de € à €€€€ établie à partir des avis clients."
+      },
+      {
         "q": "Loulou Boulangerie Conviviale est-il accessible aux personnes à mobilité réduite ?",
         "r": "La fiche Google de l'établissement mentionne : « Entrée accessible en fauteuil roulant ». Cette information est déclarative ; en cas de doute, vérifiez par téléphone."
       }
     ],
-    "genere_le": "2026-10-09"
+    "genere_le": "2026-10-22"
   },
   "statut_google": "OPERATIONAL",
   "audience": {
@@ -201,6 +221,74 @@
     "clicsRecents": 0,
     "fenetreRecenteJours": 28,
     "source": "search-console",
-    "date": "2026-10-21"
+    "date": "2026-10-22"
+  },
+  "avis_detail": {
+    "releve": "2026-10-22",
+    "liste": [
+      {
+        "note": 2,
+        "texte": "J’avais lu d’excellents commentaires sur cette boulangerie, et je suis hyper déçue…!\nJ’y suis allée plusieurs fois en fin d’après-midi - début de soirée, plus de baguette tradition après 18h30 (et il y a encore 1h30 d’ouverture !), seulement leur baguette sésame dégueu, raccornie ou une ficelle pas fraîche!\nDu coup, je n’ai jamais pu déguster une baguette croustillante chez eux!\nPlus de viennoiserie non plus!\nEt c’est tous les soirs idem, alors qu’ils pourraient adapter leur production à la demande, avec l’expérience !\nEn plus, personnel pas spécialement agréable ni réactif…\nBref, je ne conseille pas !\nMoi, après plusieurs tentatives ratées, je change de crémerie…!\nLes gâteaux, rien de foufou non plus, sauf, peut-être le cinnamom roll et le brownie.",
+        "langue": "fr",
+        "date": "2026-09-03",
+        "auteur": "Anne T",
+        "auteur_lien": "https://www.google.com/maps/contrib/100154080993697579687/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25kU1REZFFPVVpVVW1wcWRtNHpaVXRtWkZGb05IYxAB!2m1!1s0x4801539709f080a5:0xface840e11a4fc87"
+      },
+      {
+        "note": 5,
+        "texte": "La meilleure boulangerie de La Rochelle et je pèse mes mots ! Les pains sont excellents avec des bons produits les meilleurs qu’on puisse manger. Lés pâtisserie et les viennoiseries sont excellentes ! Ça fait bien longtemps que je n’avais pas mangé un aussi bon pain suisse. Les vendeurs sont agréables et sympathiques. Nous y allons tous pour prendre nos pains là bas (ou pour se faire plaisir 😂)\nJe recommande vivement",
+        "langue": "fr",
+        "date": "2026-04-07",
+        "auteur": "Cauco22",
+        "auteur_lien": "https://www.google.com/maps/contrib/104803136646440691953/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2pOb1pWQXpNVlJ4VGkxYWVXNVBia05SYW1oTlpYYxAB!2m1!1s0x4801539709f080a5:0xface840e11a4fc87"
+      },
+      {
+        "note": 4,
+        "texte": "Voilà 1 an que je fréquente cette boulangerie. Le goût y est, c'est incontestable!\nLes sandwichs sont tous délicieux (et je les ai tous testé !), les pains fabuleux et les gâteaux... A tomber!!\nMalheureusement, je constate une baisse de qualité sur les chocolatines et croissants depuis plusieurs mois. Ils ne sont plus aussi bons, on n'a plus l'impression de manger du fait maison. Alors qu'il semble que ce soit toujours le cas.\nQuant au personnel, vraiment très gentil et bonne ambiance. Mais malheureusement, il faut faire attention à conserver une limite pour ne pas impacter le service. Ces dames discutent beaucoup entre elles laissant une seule personne au service (quand 2 ou 3 autres sont également présentent) donc on attend et parfois longtemps (ce qui est récurrent) ! Et comme certaines discutent avec les autres en même temps qu'elles servent, des accidents arrivent à cause d'inattentions (sandwich cramés, viennoiseries qui tombent, on répète plusieurs fois la commande parce qu'on en a que la moitié ...) mais ça n'a pas l'air de beaucoup les toucher. Travailler dans une bonne ambiance est essentiel mais il ne faut pas que le service en pâtisse, les clients doivent rester la priorité.",
+        "langue": "fr",
+        "date": "2026-03-30",
+        "auteur": "Idril Jamison",
+        "auteur_lien": "https://www.google.com/maps/contrib/106114470738819053846/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT210WWJURkRibkIwZUVGTmFXcEVhRWQxZUUwNE1tYxAB!2m1!1s0x4801539709f080a5:0xface840e11a4fc87"
+      },
+      {
+        "note": 5,
+        "texte": "Plaisir des yeux avant le plaisir des papilles. Le service sympa, dynamique, fluide et souriant. Le café un bonheur et le petit accompagnement bien sympa. Bravo à toute l'équipe. Je reviendrai même si ce n'est pas à coté😉",
+        "langue": "fr",
+        "date": "2026-02-08",
+        "auteur": "Fred Z",
+        "auteur_lien": "https://www.google.com/maps/contrib/115902920012681971418/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2pKWVJ6SnJhMmRsWVcxbVZIWTViR1pOZGpCQ2VGRRAB!2m1!1s0x4801539709f080a5:0xface840e11a4fc87"
+      },
+      {
+        "note": 3,
+        "texte": "Arrivé sur le parking, des odeurs et des couleurs à foison !!! 🤩\n\nUne fois à l'intérieur cela ne fait que confirmer la première impression, tout est délicieux aussi bien pour les yeux que pour le palais !! 🤩\nL'équipe en vente est souriante et très professionnelle 😁\n\nMais donc, pourquoi cette note ?\n\nÀ 7h du mat', laisser la porte ouverte pour les clients sur place, même avec un blouson, il ne fait pas chaud. C'est dommage, ça gâche un peu l'expérience.\n\nMais surtout, la vue sur la cuisine, avec un chef tout de noir vêtu qui se mouche, se lave pas les mains, s'essuie le nez avec sa main et ensuite s'essuie à son tablier pour reprendre son travail ensuite. Là c'est de l'abus total 🤬",
+        "langue": "fr",
+        "date": "2025-05-11",
+        "auteur": "Manta",
+        "auteur_lien": "https://www.google.com/maps/contrib/101217563715389138957/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VMRzlsZVdCX055UWxBRRAB!2m1!1s0x4801539709f080a5:0xface840e11a4fc87"
+      }
+    ]
+  },
+  "services": {
+    "releve": "2026-10-22",
+    "prix": "PRICE_LEVEL_INEXPENSIVE",
+    "options": {
+      "takeout": true,
+      "delivery": false,
+      "servesBreakfast": true,
+      "servesCoffee": true
+    },
+    "paiement": [
+      "carte bancaire",
+      "carte de débit",
+      "paiement sans contact"
+    ],
+    "parking": [
+      "parking gratuit"
+    ]
   }
 }

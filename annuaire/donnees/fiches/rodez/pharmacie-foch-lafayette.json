@@ -110,8 +110,8 @@
     "etat": "absent",
     "premiere_detection": null,
     "derniere_detection": null,
-    "derniere_verification": "2026-10-09T16:58:32.124Z",
-    "echecs": 59,
+    "derniere_verification": "2026-10-22T10:06:20.031Z",
+    "echecs": 60,
     "url_detectee": null
   },
   "suggestion": {
@@ -129,7 +129,7 @@
   "dates": {
     "collecte": "2026-09-04",
     "publication": "2026-09-04",
-    "maj": "2026-10-19"
+    "maj": "2026-10-22"
   },
   "source": "google-places",
   "redaction": {
@@ -137,14 +137,25 @@
     "titre": "Pharmacie Foch Lafayette — Pharmacie ou opticien à Rodez",
     "meta_titre": "Pharmacie Foch Lafayette à Rodez : horaires, avis, téléphone",
     "meta_description": "Pharmacie Foch Lafayette, pharmacie ou opticien à Rodez : horaires d'ouverture, note Google 4,3/5 (461 avis), téléphone, adresse et itinéraire.",
-    "chapo": "Pharmacie Foch Lafayette exerce l'activité de pharmacie ou opticien au 10 Rue Combarel, à Rodez. Ouvert tous les jours sauf le dimanche au relevé du 9 octobre 2026. Téléphone : 05 65 68 06 60. Note Google : 4,3 sur 5 pour 461 avis.",
+    "chapo": "Pharmacie Foch Lafayette exerce l'activité de pharmacie ou opticien au 10 Rue Combarel, à Rodez. Ouvert tous les jours sauf le dimanche au relevé du 22 octobre 2026. Téléphone : 05 65 68 06 60. Note Google : 4,3 sur 5 pour 461 avis.",
     "sections": [
       {
         "id": "presentation",
         "titre": "Pharmacie Foch Lafayette en quelques mots",
         "paragraphes": [
           "Sur Google, l'établissement est classé « Pharmacie », dans notre rubrique Pharmacie ou opticien.",
-          "D'après le relevé du 9 octobre 2026, l'établissement est ouvert tous les jours sauf le dimanche. Le détail jour par jour figure plus bas."
+          "D'après le relevé du 22 octobre 2026, l'établissement est ouvert tous les jours sauf le dimanche. Le détail jour par jour figure plus bas."
+        ]
+      },
+      {
+        "id": "prestations",
+        "titre": "Services et équipements de Pharmacie Foch Lafayette",
+        "paragraphes": [
+          "Proposé : livraison.",
+          "Non proposé selon la fiche Google : retrait en voiture.",
+          "Moyens de paiement déclarés : carte bancaire, carte de débit et paiement sans contact.",
+          "Stationnement : parking payant et stationnement payant dans la rue.",
+          "Ces indications sont déclarées par l'établissement sur sa fiche Google (relevé du 22 octobre 2026)."
         ]
       },
       {
@@ -166,18 +177,18 @@
         "id": "avis",
         "titre": "La réputation de Pharmacie Foch Lafayette",
         "paragraphes": [
-          "Note de 4,3 sur 5 pour 461 avis Google au relevé du 9 octobre 2026. Les avis se consultent sur la fiche Google, dont le lien figure sur cette page."
+          "Note de 4,3 sur 5 pour 461 avis Google au relevé du 22 octobre 2026. Les avis les plus parlants sont compilés ci-dessous, avec un lien vers la fiche d'origine."
         ]
       }
     ],
     "faq": [
       {
         "q": "Quels sont les horaires de Pharmacie Foch Lafayette ?",
-        "r": "Au relevé du 9 octobre 2026, Pharmacie Foch Lafayette était ouvert tous les jours sauf le dimanche. Dans le détail — lundi : de 8 h 30 à 19 h 30 ; mardi : de 8 h 30 à 19 h 30 ; mercredi : de 8 h 30 à 19 h 30 ; jeudi : de 8 h 30 à 19 h 30 ; vendredi : de 8 h 30 à 19 h 30 ; samedi : de 8 h 30 à 19 h 30 ; dimanche : fermé. Ces horaires peuvent changer : un appel préalable reste conseillé."
+        "r": "Au relevé du 22 octobre 2026, Pharmacie Foch Lafayette était ouvert tous les jours sauf le dimanche. Dans le détail — lundi : de 8 h 30 à 19 h 30 ; mardi : de 8 h 30 à 19 h 30 ; mercredi : de 8 h 30 à 19 h 30 ; jeudi : de 8 h 30 à 19 h 30 ; vendredi : de 8 h 30 à 19 h 30 ; samedi : de 8 h 30 à 19 h 30 ; dimanche : fermé. Ces horaires peuvent changer : un appel préalable reste conseillé."
       },
       {
         "q": "Pharmacie Foch Lafayette est-il ouvert le dimanche ?",
-        "r": "Non : d'après les horaires relevés le 9 octobre 2026, Pharmacie Foch Lafayette est fermé le dimanche."
+        "r": "Non : d'après les horaires relevés le 22 octobre 2026, Pharmacie Foch Lafayette est fermé le dimanche."
       },
       {
         "q": "Où se trouve Pharmacie Foch Lafayette ?",
@@ -188,11 +199,15 @@
         "r": "Par téléphone au 05 65 68 06 60, ou directement sur place aux heures d'ouverture."
       },
       {
+        "q": "Pharmacie Foch Lafayette propose-t-il la vente à emporter ou la livraison ?",
+        "r": "D'après sa fiche Google (relevé du 22 octobre 2026) — livraison : oui."
+      },
+      {
         "q": "Pharmacie Foch Lafayette est-il accessible aux personnes à mobilité réduite ?",
         "r": "La fiche Google de l'établissement mentionne : « Entrée accessible en fauteuil roulant ». Cette information est déclarative ; en cas de doute, vérifiez par téléphone."
       }
     ],
-    "genere_le": "2026-10-09"
+    "genere_le": "2026-10-22"
   },
   "statut_google": "OPERATIONAL",
   "audience": {
@@ -203,7 +218,7 @@
     "clicsRecents": 0,
     "fenetreRecenteJours": 28,
     "source": "search-console",
-    "date": "2026-10-21"
+    "date": "2026-10-22"
   },
   "indexation": {
     "etat": "non-indexee",
@@ -213,5 +228,71 @@
     "canonique_google": null,
     "source": "inspection",
     "date": "2026-10-19"
+  },
+  "avis_detail": {
+    "releve": "2026-10-22",
+    "liste": [
+      {
+        "note": 1,
+        "texte": "Arrivé à 18h30 je n'ai pas pu avoir un conseiller,  on vous fait bien ressentir que vous les embêté.  Très désagréable du coup je suis parti. Dommage.",
+        "langue": "fr",
+        "date": "2026-08-05",
+        "auteur": "Le pic. I",
+        "auteur_lien": "https://www.google.com/maps/contrib/102740214712896163755/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT210MGExQmlWVTFTZUVVeVpUWnRTMHh4V0UxZlQwRRAB!2m1!1s0x12b27da247853ea1:0x8c170198a80ed90c"
+      },
+      {
+        "note": 4,
+        "texte": "Parapharmacie très propre cependant l'attente en caisse est longue et le comptoir dédié à la parapharmacie est souvent fermé, les hôtesses qui conseillent le font avec des objectifs de ventes sur certaines marques sans écouter le client. De plus les prix de la parapharmacie on bel et bien augmentés plus que dans de petites pharmacie il faut être vigilant.",
+        "langue": "fr",
+        "date": "2026-06-21",
+        "auteur": "karine brunet",
+        "auteur_lien": "https://www.google.com/maps/contrib/108897712247919847842/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT214NE4zVlhkVTF0VWt0QlNsaG9ZWEExUlY5SVRWRRAB!2m1!1s0x12b27da247853ea1:0x8c170198a80ed90c"
+      },
+      {
+        "note": 5,
+        "texte": "Expérience incroyable, j'ai rarement été aussi bien conseillée dans une pharmacie. J'étais avec ma sœur et la meilleure amie de ma mère, nous avons demandé conseil à Christelle qui a eu beaucoup de patience car nous avions beaucoup de questions ; elle y a répondu avec le sourire, sans s'impatienter et avec beaucoup de bienveillance. Nous avons même eu le droit, à la fin, à un sac avec des échantillons adaptés à chacune, vraiment top ! Je reviendrai c'est une certitude, en plus je trouve qu'il y a vraiment beaucoup de marques différentes, ce qui laisse pas mal de choix ! Merci pour tout :)",
+        "langue": "fr",
+        "date": "2026-06-08",
+        "auteur": "Estelle Laronze",
+        "auteur_lien": "https://www.google.com/maps/contrib/104899937767011712484/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2t0UFgyWkNUbkZtTVhodFMyZEJXa0pFTkU1RVpWRRAB!2m1!1s0x12b27da247853ea1:0x8c170198a80ed90c"
+      },
+      {
+        "note": 1,
+        "texte": "Très déçu de cette pharmacie, je me suis déplacée plusieurs fois et à chaque fois je suis déçu du comportement du personnel. Aujourd'hui je sais que je n'y reviendrai plu.\n\nCe matin j'arrive avec une ordonnance pour un renouvellement de vitamine D, l'ordonnance est datée de juillet 2025 mais à renouveler. La préparatrice me fait une réflexion sur la date de l'ordonnance et ensuite elle me dit qu'il n'y a pas d'intérêt à faire un renouvellement car c'est l'hiver qu'il faut prendre cette vitamine... Or je suis en carence, prise de sang faite il y a quelques jours...BREF ! Une attitude peu professionnelle pour ma part car tout cela peut être dit sur un ton légèrement plus courtois ; et sans faire de jugement car pour ça il faut être médecin et avoir les antécédents médicaux et chirurgicaux afin de pouvoir donner son avis.\n\nJe n'ai parlé que de mon vécu aujourd'hui mais les autres fois ça n'a pas été guère mieux.\nQuel dommage !",
+        "langue": "fr",
+        "date": "2026-05-27",
+        "auteur": "Magali Clerc",
+        "auteur_lien": "https://www.google.com/maps/contrib/103806885306859600527/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT21SVGJuUllZWGhZVGxVeVIwMWtPRlJRZDNsbU5GRRAB!2m1!1s0x12b27da247853ea1:0x8c170198a80ed90c"
+      },
+      {
+        "note": 4,
+        "texte": "Une Pharmacie trés bien organisée. Des conseillés présents pour toute la partie parapharmacie.\nToujours le sourire. Le vigil à l'entrée courtois.\nIl manque quelques places de parking temporaire.",
+        "langue": "fr",
+        "date": "2026-03-28",
+        "auteur": "chris moncompte",
+        "auteur_lien": "https://www.google.com/maps/contrib/116211804124543690864/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xKdU1YZDNiRzVhVFY5cFgwVTRSR0kzU25jNGRXYxAB!2m1!1s0x12b27da247853ea1:0x8c170198a80ed90c"
+      }
+    ]
+  },
+  "services": {
+    "releve": "2026-10-22",
+    "options": {
+      "delivery": true,
+      "curbsidePickup": false
+    },
+    "paiement": [
+      "carte bancaire",
+      "carte de débit",
+      "paiement sans contact"
+    ],
+    "parking": [
+      "parking payant",
+      "stationnement payant dans la rue"
+    ]
   }
 }

@@ -1,0 +1,310 @@
+{
+  "id": "ChIJl1I5q4X65UcRJrRGycSTAPg",
+  "slug": "les-fours-a-chaux-restaurant-tabac",
+  "nom": "Les Fours à chaux Restaurant- Tabac",
+  "categorie": "restaurants",
+  "categorie_gmb": "Restaurant",
+  "type_principal": "restaurant",
+  "types": [
+    "restaurant",
+    "bar",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "ville": "Le Mée-sur-Seine",
+  "ville_slug": "le-mee-sur-seine",
+  "adresse": {
+    "rue": "558 Quai Etienne Lallia",
+    "code_postal": "77350",
+    "departement": "77",
+    "region": "Île-de-France",
+    "pays": "France",
+    "complete": "558 Quai Etienne Lallia, 77350 Le Mée-sur-Seine"
+  },
+  "telephone": "01 74 82 61 71",
+  "geo": {
+    "latitude": 48.5359358,
+    "longitude": 2.6446101
+  },
+  "note": 4.3,
+  "avis": 238,
+  "horaires": [
+    {
+      "jour": 0,
+      "ferme": true,
+      "creneaux": []
+    },
+    {
+      "jour": 1,
+      "ferme": false,
+      "creneaux": [
+        [
+          "07:30",
+          "21:00"
+        ]
+      ]
+    },
+    {
+      "jour": 2,
+      "ferme": false,
+      "creneaux": [
+        [
+          "07:30",
+          "21:00"
+        ]
+      ]
+    },
+    {
+      "jour": 3,
+      "ferme": false,
+      "creneaux": [
+        [
+          "07:30",
+          "21:00"
+        ]
+      ]
+    },
+    {
+      "jour": 4,
+      "ferme": false,
+      "creneaux": [
+        [
+          "07:30",
+          "21:00"
+        ]
+      ]
+    },
+    {
+      "jour": 5,
+      "ferme": false,
+      "creneaux": [
+        [
+          "07:30",
+          "21:00"
+        ]
+      ]
+    },
+    {
+      "jour": 6,
+      "ferme": false,
+      "creneaux": [
+        [
+          "07:30",
+          "21:00"
+        ]
+      ]
+    }
+  ],
+  "attributs": [
+    "Entrée accessible en fauteuil roulant",
+    "Parking accessible en fauteuil roulant",
+    "Toilettes accessibles en fauteuil roulant",
+    "Places assises accessibles en fauteuil roulant"
+  ],
+  "lien_google": "https://maps.google.com/?cid=17870445794805855270&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
+  "site_web_gmb": null,
+  "statut": "publiee",
+  "backlink": {
+    "etat": "absent",
+    "premiere_detection": null,
+    "derniere_detection": null,
+    "derniere_verification": "2026-10-22T10:06:20.031Z",
+    "echecs": 1,
+    "url_detectee": null
+  },
+  "suggestion": {
+    "etat": "en-attente",
+    "date_soumission": null,
+    "tentatives": 0,
+    "date_email": "2026-10-22"
+  },
+  "retrait": null,
+  "dates": {
+    "collecte": "2026-10-22",
+    "publication": "2026-10-22",
+    "maj": "2026-10-22"
+  },
+  "source": "google-places",
+  "avis_detail": {
+    "releve": "2026-10-22",
+    "liste": [
+      {
+        "note": 5,
+        "texte": "Ai retrouvé avec plaisir cette terrasse en bord de Seine, la seule et unique aux alentours de Melun. Un plat unique certes mais le couscous de ce jeudi 2 juillet 2026 était tout simplement délicieux. Je recommande   .",
+        "langue": "fr",
+        "date": "2026-07-03",
+        "auteur": "Tom Blay",
+        "auteur_lien": "https://www.google.com/maps/contrib/100001058035498270199/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2pWMFZrMWlZVTVmYjE5bVRqQnVhM0JOV1RJd2IyYxAB!2m1!1s0x47e5fa85ab395297:0xf80093c4c946b426"
+      },
+      {
+        "note": 2,
+        "texte": "Bar brasserie restaurant mais qui ne fait pas à manger à midi. Accueil désagréable avec un serveur qui ne vous regarde pas...",
+        "langue": "fr",
+        "date": "2026-06-13",
+        "auteur": "Elodie Aubertel",
+        "auteur_lien": "https://www.google.com/maps/contrib/113110134231276569983/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2pFeFprMUxUM0JYVkdaWVF6TXRZemR1TkVaSGRIYxAB!2m1!1s0x47e5fa85ab395297:0xf80093c4c946b426"
+      },
+      {
+        "note": 5,
+        "texte": "Allez-y les yeux fermés. Tout est de très bonne qualité, le service était parfait.\nMerci encore pour ce bon repas.",
+        "langue": "fr",
+        "date": "2024-12-18",
+        "auteur": "Adrien B.",
+        "auteur_lien": "https://www.google.com/maps/contrib/106500794414359720647/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUR2M01EOG5RRRAB!2m1!1s0x47e5fa85ab395297:0xf80093c4c946b426"
+      },
+      {
+        "note": 4,
+        "texte": "Bel endroit avec un bon accueil, la salle réservée spécialement en soirée pour un groupe de 22 personnes est très fonctionnelle, propre avec un service rapide digne de ce nom. Les plats sont \"fait maison\" quantité et qualité dans l'assiette. Pour nous ce fût feuilleté épinard au chèvre,  poisson et sa garniture, et desserts variés (baba, tarte tatin, moelleux chocolat).A savoir le prix qui nous a été demandé était quand même cher pour le cadre. Bonne expérience!",
+        "langue": "fr",
+        "date": "2023-02-15",
+        "auteur": "jean mich much",
+        "auteur_lien": "https://www.google.com/maps/contrib/105015886909948659538/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUNocXNUZUhBEAE!2m1!1s0x47e5fa85ab395297:0xf80093c4c946b426"
+      },
+      {
+        "note": 3,
+        "texte": "Plat bon, et copieux\nCadre au top avec terrasse agréable\nServeuse souriante mais ne se gêne pas de passer ses communications pendant le service.\nEt gros point négatif aucune règle de distanciation et du  port de masque de la part de la Serveuse et gérant au moment de l'addition à l'intérieur. Alors que cela est obligatoire.\nAddition sans ticket d'ailleurs.",
+        "langue": "fr",
+        "date": "2020-08-12",
+        "auteur": "Mel Amme",
+        "auteur_lien": "https://www.google.com/maps/contrib/107695471249577652600/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUNDNVB1bThBRRAB!2m1!1s0x47e5fa85ab395297:0xf80093c4c946b426"
+      }
+    ]
+  },
+  "services": {
+    "releve": "2026-10-22",
+    "prix": "PRICE_LEVEL_MODERATE",
+    "options": {
+      "dineIn": true,
+      "delivery": false,
+      "curbsidePickup": false,
+      "reservable": true,
+      "outdoorSeating": true,
+      "servesBreakfast": false,
+      "servesBrunch": false,
+      "servesLunch": true,
+      "servesDinner": true,
+      "servesVegetarianFood": false,
+      "servesCoffee": true,
+      "servesBeer": true,
+      "servesWine": true,
+      "servesCocktails": true,
+      "menuForChildren": true,
+      "goodForChildren": true,
+      "goodForGroups": true,
+      "liveMusic": true,
+      "allowsDogs": true,
+      "restroom": true
+    },
+    "paiement": [
+      "carte bancaire",
+      "carte de débit",
+      "paiement sans contact"
+    ],
+    "parking": [
+      "stationnement gratuit dans la rue"
+    ]
+  },
+  "redaction": {
+    "version": 2,
+    "titre": "Les Fours à chaux Restaurant- Tabac — Restaurant à Le Mée-sur-Seine",
+    "meta_titre": "Les Fours à chaux Restaurant- Tabac à Le Mée-sur-Seine",
+    "meta_description": "Les Fours à chaux Restaurant- Tabac, restaurant à Le Mée-sur-Seine : horaires d'ouverture, note Google 4,3/5 (238 avis), téléphone, adresse et itinéraire.",
+    "chapo": "Cette fiche présente Les Fours à chaux Restaurant- Tabac, un restaurant au 558 Quai Etienne Lallia, à Le Mée-sur-Seine. Ouvert tous les jours sauf le lundi au relevé du 22 octobre 2026. Téléphone : 01 74 82 61 71. Note Google : 4,3 sur 5 pour 238 avis.",
+    "sections": [
+      {
+        "id": "presentation",
+        "titre": "Les Fours à chaux Restaurant- Tabac en quelques mots",
+        "paragraphes": [
+          "Niveau de prix indiqué sur la fiche Google : €€ (modéré).",
+          "D'après le relevé du 22 octobre 2026, l'établissement est ouvert tous les jours sauf le lundi. Le détail jour par jour figure plus bas."
+        ]
+      },
+      {
+        "id": "prestations",
+        "titre": "Services et équipements de Les Fours à chaux Restaurant- Tabac",
+        "paragraphes": [
+          "Proposé : sur place, réservation possible, terrasse, déjeuner, dîner, café, bière, vin, cocktails, menu enfant, adapté aux enfants, adapté aux groupes, musique live, chiens acceptés et toilettes.",
+          "Non proposé selon la fiche Google : livraison, retrait en voiture, petit-déjeuner, brunch et plats végétariens.",
+          "Moyens de paiement déclarés : carte bancaire, carte de débit et paiement sans contact.",
+          "Stationnement : stationnement gratuit dans la rue.",
+          "Ces indications sont déclarées par l'établissement sur sa fiche Google (relevé du 22 octobre 2026)."
+        ]
+      },
+      {
+        "id": "acces",
+        "titre": "Adresse et accès",
+        "paragraphes": [
+          "L'établissement est situé au 558 Quai Etienne Lallia, 77350 Le Mée-sur-Seine.",
+          "Coordonnées GPS : 48.53594, 2.64461. Le bouton Itinéraire de cette page ouvre la navigation."
+        ]
+      },
+      {
+        "id": "contact",
+        "titre": "Contacter Les Fours à chaux Restaurant- Tabac",
+        "paragraphes": [
+          "Le contact se fait par téléphone au 01 74 82 61 71, ou directement sur place aux horaires d'ouverture.",
+          "La fiche Google indique que la réservation est possible."
+        ]
+      },
+      {
+        "id": "avis",
+        "titre": "La réputation de Les Fours à chaux Restaurant- Tabac",
+        "paragraphes": [
+          "Note de 4,3 sur 5 pour 238 avis Google au relevé du 22 octobre 2026. Les avis les plus parlants sont compilés ci-dessous, avec un lien vers la fiche d'origine."
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "q": "Quels sont les horaires de Les Fours à chaux Restaurant- Tabac ?",
+        "r": "Au relevé du 22 octobre 2026, Les Fours à chaux Restaurant- Tabac était ouvert tous les jours sauf le lundi. Dans le détail — lundi : fermé ; mardi : de 7 h 30 à 21 h ; mercredi : de 7 h 30 à 21 h ; jeudi : de 7 h 30 à 21 h ; vendredi : de 7 h 30 à 21 h ; samedi : de 7 h 30 à 21 h ; dimanche : de 7 h 30 à 21 h. Ces horaires peuvent changer : un appel préalable reste conseillé."
+      },
+      {
+        "q": "Les Fours à chaux Restaurant- Tabac est-il ouvert le dimanche ?",
+        "r": "Oui : le dimanche, Les Fours à chaux Restaurant- Tabac est ouvert de 7 h 30 à 21 h (horaires relevés le 22 octobre 2026)."
+      },
+      {
+        "q": "Où se trouve Les Fours à chaux Restaurant- Tabac ?",
+        "r": "Les Fours à chaux Restaurant- Tabac se trouve 558 Quai Etienne Lallia, 77350 Le Mée-sur-Seine. Un lien d'itinéraire est disponible sur cette page."
+      },
+      {
+        "q": "Comment contacter Les Fours à chaux Restaurant- Tabac ?",
+        "r": "Par téléphone au 01 74 82 61 71, ou directement sur place aux heures d'ouverture."
+      },
+      {
+        "q": "Peut-on réserver chez Les Fours à chaux Restaurant- Tabac ?",
+        "r": "Oui, la fiche Google de Les Fours à chaux Restaurant- Tabac indique que la réservation est possible, par téléphone au 01 74 82 61 71."
+      },
+      {
+        "q": "Les Fours à chaux Restaurant- Tabac propose-t-il la vente à emporter ou la livraison ?",
+        "r": "D'après sa fiche Google (relevé du 22 octobre 2026) — livraison : non."
+      },
+      {
+        "q": "Quel est le niveau de prix de Les Fours à chaux Restaurant- Tabac ?",
+        "r": "Google classe Les Fours à chaux Restaurant- Tabac au niveau de prix €€ (modéré), sur une échelle de € à €€€€ établie à partir des avis clients."
+      },
+      {
+        "q": "Les Fours à chaux Restaurant- Tabac est-il accessible aux personnes à mobilité réduite ?",
+        "r": "La fiche Google de l'établissement mentionne : « Entrée accessible en fauteuil roulant ». Cette information est déclarative ; en cas de doute, vérifiez par téléphone."
+      }
+    ],
+    "genere_le": "2026-10-22"
+  },
+  "statut_google": "OPERATIONAL",
+  "audience": {
+    "clics": 0,
+    "impressions": 0,
+    "position": null,
+    "fenetreJours": 90,
+    "clicsRecents": 0,
+    "fenetreRecenteJours": 28,
+    "source": "search-console",
+    "date": "2026-10-22"
+  }
+}

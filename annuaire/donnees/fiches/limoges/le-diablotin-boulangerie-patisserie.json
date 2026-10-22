@@ -1,0 +1,289 @@
+{
+  "id": "ChIJVVVxv17L_kcRrRhF8q6lxpY",
+  "slug": "le-diablotin-boulangerie-patisserie",
+  "nom": "Le Diablotin Boulangerie Pâtisserie",
+  "categorie": "boulangeries-patisseries",
+  "categorie_gmb": "Boulangerie",
+  "type_principal": "bakery",
+  "types": [
+    "bakery",
+    "food_store",
+    "store",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "ville": "Limoges",
+  "ville_slug": "limoges",
+  "adresse": {
+    "rue": "229 Rue François Perrin",
+    "code_postal": "87000",
+    "departement": "87",
+    "region": "Nouvelle-Aquitaine",
+    "pays": "France",
+    "complete": "229 Rue François Perrin, 87000 Limoges"
+  },
+  "telephone": "05 55 32 94 69",
+  "geo": {
+    "latitude": 45.824968899999995,
+    "longitude": 1.2319242
+  },
+  "note": 4.2,
+  "avis": 339,
+  "horaires": [
+    {
+      "jour": 0,
+      "ferme": false,
+      "creneaux": [
+        [
+          "06:00",
+          "20:00"
+        ]
+      ]
+    },
+    {
+      "jour": 1,
+      "ferme": false,
+      "creneaux": [
+        [
+          "06:00",
+          "20:00"
+        ]
+      ]
+    },
+    {
+      "jour": 2,
+      "ferme": false,
+      "creneaux": [
+        [
+          "06:00",
+          "20:00"
+        ]
+      ]
+    },
+    {
+      "jour": 3,
+      "ferme": false,
+      "creneaux": [
+        [
+          "06:00",
+          "20:00"
+        ]
+      ]
+    },
+    {
+      "jour": 4,
+      "ferme": false,
+      "creneaux": [
+        [
+          "06:00",
+          "20:00"
+        ]
+      ]
+    },
+    {
+      "jour": 5,
+      "ferme": false,
+      "creneaux": [
+        [
+          "06:00",
+          "20:00"
+        ]
+      ]
+    },
+    {
+      "jour": 6,
+      "ferme": false,
+      "creneaux": [
+        [
+          "06:00",
+          "14:00"
+        ]
+      ]
+    }
+  ],
+  "attributs": [],
+  "lien_google": "https://maps.google.com/?cid=10864553321885407405&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
+  "site_web_gmb": null,
+  "statut": "publiee",
+  "backlink": {
+    "etat": "absent",
+    "premiere_detection": null,
+    "derniere_detection": null,
+    "derniere_verification": "2026-10-22T10:06:20.031Z",
+    "echecs": 1,
+    "url_detectee": null
+  },
+  "suggestion": {
+    "etat": "en-attente",
+    "date_soumission": null,
+    "tentatives": 0,
+    "date_email": "2026-10-22"
+  },
+  "retrait": null,
+  "dates": {
+    "collecte": "2026-10-22",
+    "publication": "2026-10-22",
+    "maj": "2026-10-22"
+  },
+  "source": "google-places",
+  "avis_detail": {
+    "releve": "2026-10-22",
+    "liste": [
+      {
+        "note": 3,
+        "texte": "L’accueil est malheureusement le gros point faible de cette boulangerie. Il est difficile d’avoir un bonjour chaleureux, et encore plus un sourire. Il serait vraiment important de revoir cet aspect afin que les clients aient envie de revenir et se sentent considérés.\nDès la fin de matinée certaines baguette ne sont déjà plus dispo et lorsque par chance il y en a, elles sont souvent trop cuites. Si j’ose demander une baguette moins cuite, la vendeuse semble contrariée à l’idée de vouloir satisfaire le client.\nLes pâtisseries sont généreuses ce qui peut expliquer leur prix. En revanche, j’ai parfois eu l’impression que la pâte à choux des religieuses n’était pas du jour, ce qui est dommage.",
+        "langue": "fr",
+        "date": "2026-05-27",
+        "auteur": "Clarisse",
+        "auteur_lien": "https://www.google.com/maps/contrib/114509541525527241672/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT21kaGVqWmZhSGhmVGtKd05ETTBOems1UkVsbGVXYxAB!2m1!1s0x47fecb5ebf715555:0x96c6a5aef24518ad"
+      },
+      {
+        "note": 5,
+        "texte": "Très bonnes pâtisseries déjà de base et pain , j’ai décidé de commander les gâteaux d’anniversaires de 50 ans chez eux et je n’ai pas été déçue tout les convives ont voulu l’adresse quand ils ont su le rapport qualité prix et surtout ces gourmandises , c’était un framboisier et un fraisier et ils étaient frais , beaux et peu sucré ce qui est parfait 👍 je suis quasi sûr que tout ma famille et mes amis vont commander chez eux maintenant merci encore à vous pour avoir donner le sourire à ma mère avec vos gâteaux en cette occasion spéciale",
+        "langue": "fr",
+        "date": "2026-03-24",
+        "auteur": "Vanessa",
+        "auteur_lien": "https://www.google.com/maps/contrib/114412983721960530117/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xwR2ExbDJWMWxVT0hGa1NVOXpkbE5pWW5sa2RuYxAB!2m1!1s0x47fecb5ebf715555:0x96c6a5aef24518ad"
+      },
+      {
+        "note": 4,
+        "texte": "En fin de matinée je suis venue pour la 1ère fois chercher des baguettes. Je suis tombée sur un client juste derrière moi qui,  d'entrer à très mal parlé aux 2 vendeuses, un ton très hautain, disait qu'il voulait du pain pour faire des toasts, disant qu'il ne voulait pas certains pains car ils étaient pas bons... il disait qu'il était un professionnel, que c'était une personne assermentée.... et j'en passe. Il a commencé à dire que les vendeuses étaient malpolies....Ça a été plus fort que moi, je lui ai dit mais vous vous croyez où, non seulement comme j'avais plusieurs baguettes à prendre je dis aux vendeuses allez-y occupées vous du monsieur avant moi, donc je le fais passer avant moi et il se permet tout ça. Il a été tellement désagréable et irrespectueux que je lui ai dit c'est pas parce que vous êtes assermenté que vous devez vous croire tout permis, le respect il est pour tout le monde donc je me moque complètement que vous soyez assermenté.... et professionnel on l'est tous, je le suis, les vendeuses sont des professionnelles, tout le monde est professionnel.... enfin bref. Les critiques envers les enseignes se font de partout, mais j'estime qu'il est aussi important de signaler que les clients sont parfois pas corrects avec le personnel. Et là ce monsieur c'est cru tout permis tout ça parce qu'il ce considère supérieur à tout le monde, et bien non mon petit monsieur le respect c'est la première chose qu'on apprend aux enfants, et c'est pour tout le monde pareil. Les vendeuses travaillent bien plus dures que vous donc la moindre des choses c'est de respecter les autres et d'arrêter de vouloir se croire supérieur au autre.\n\nBon courage aux vendeuses car franchement ça ne doit pas être facile tous les jours",
+        "langue": "fr",
+        "date": "2025-10-29",
+        "auteur": "Emmanuelle SERRETTE",
+        "auteur_lien": "https://www.google.com/maps/contrib/116387750782267133791/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2pObk5VNDFSVk53YnpsV2VISnJaelYxWW1KaWNuYxAB!2m1!1s0x47fecb5ebf715555:0x96c6a5aef24518ad"
+      },
+      {
+        "note": 5,
+        "texte": "Une institution sur Limoges !\nAvec son emblématique logo du gamin Poulbot\nBonne boulangerie avec une excellente baguette Délicieuses viennoiseries, chocolatines et créations pâtissières\nLe tout a un excellent rapport qualité-prix\nLes vendeuses ont toujours le sourire quand j'y passe",
+        "langue": "fr",
+        "date": "2025-09-18",
+        "auteur": "Pierre-Henry ROHMER (Fier Immo)",
+        "auteur_lien": "https://www.google.com/maps/contrib/112289445530713215680/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2pNMk56QTBlR2hDYVdkaVUwVmtPRE53VjA1R2MxRRAB!2m1!1s0x47fecb5ebf715555:0x96c6a5aef24518ad"
+      },
+      {
+        "note": 5,
+        "texte": "Une boulangerie-pâtisserie de quartier,  très bien achalandée.\nLes viennoiseries au top.\nDes pains au levain, des pains spéciaux de très bonne qualité.\nLe côté snacking est fait maison et très varié, quiches, sandwichs de toutes sortes, mini  pizzas......\nLe côté pâtisserie est varié et excellent....les traditionnelles religieuses, tartes aux fruits et autres gâteaux sont bien présents accompagnés de nouveautés en mousses de fruits et autres plaisirs gourmands.\nPrix attractifs et ambiance détendue avec des serveuses souriantes et qui sauront vous conseiller.\nJe le recommande\n👍👍👍👍👍",
+        "langue": "fr",
+        "date": "2025-05-26",
+        "auteur": "Barny Nicolas",
+        "auteur_lien": "https://www.google.com/maps/contrib/116110162743542260241/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUNDbkt6MFBREAE!2m1!1s0x47fecb5ebf715555:0x96c6a5aef24518ad"
+      }
+    ]
+  },
+  "services": {
+    "releve": "2026-10-22",
+    "prix": "PRICE_LEVEL_INEXPENSIVE",
+    "options": {
+      "dineIn": false,
+      "takeout": true,
+      "delivery": false,
+      "servesBreakfast": false,
+      "servesCoffee": false,
+      "restroom": false
+    },
+    "paiement": [
+      "carte bancaire",
+      "carte de débit",
+      "paiement sans contact"
+    ],
+    "parking": [
+      "parking gratuit"
+    ]
+  },
+  "redaction": {
+    "version": 2,
+    "titre": "Le Diablotin Boulangerie Pâtisserie — Boulangerie-pâtisserie à Limoges",
+    "meta_titre": "Le Diablotin Boulangerie Pâtisserie à Limoges",
+    "meta_description": "Le Diablotin Boulangerie Pâtisserie, boulangerie-pâtisserie à Limoges : horaires d'ouverture, téléphone, adresse et itinéraire.",
+    "chapo": "Le Diablotin Boulangerie Pâtisserie exerce l'activité de boulangerie-pâtisserie au 229 Rue François Perrin, à Limoges. Ouvert sept jours sur sept au relevé du 22 octobre 2026. Téléphone : 05 55 32 94 69. Note Google : 4,2 sur 5 pour 339 avis.",
+    "sections": [
+      {
+        "id": "presentation",
+        "titre": "Le Diablotin Boulangerie Pâtisserie en quelques mots",
+        "paragraphes": [
+          "Sur Google, l'établissement est classé « Boulangerie », dans notre rubrique Boulangerie-pâtisserie.",
+          "Niveau de prix indiqué sur la fiche Google : € (bon marché).",
+          "D'après le relevé du 22 octobre 2026, l'établissement est ouvert sept jours sur sept. Le détail jour par jour figure plus bas."
+        ]
+      },
+      {
+        "id": "prestations",
+        "titre": "Services et équipements de Le Diablotin Boulangerie Pâtisserie",
+        "paragraphes": [
+          "Proposé : à emporter.",
+          "Non proposé selon la fiche Google : sur place, livraison, petit-déjeuner, café et toilettes.",
+          "Moyens de paiement déclarés : carte bancaire, carte de débit et paiement sans contact.",
+          "Stationnement : parking gratuit.",
+          "Ces indications sont déclarées par l'établissement sur sa fiche Google (relevé du 22 octobre 2026)."
+        ]
+      },
+      {
+        "id": "acces",
+        "titre": "Adresse et accès",
+        "paragraphes": [
+          "L'établissement est situé au 229 Rue François Perrin, 87000 Limoges.",
+          "Coordonnées GPS : 45.82497, 1.23192. Le bouton Itinéraire de cette page ouvre la navigation."
+        ]
+      },
+      {
+        "id": "contact",
+        "titre": "Contacter Le Diablotin Boulangerie Pâtisserie",
+        "paragraphes": [
+          "Le contact se fait par téléphone au 05 55 32 94 69, ou directement sur place aux horaires d'ouverture."
+        ]
+      },
+      {
+        "id": "avis",
+        "titre": "La réputation de Le Diablotin Boulangerie Pâtisserie",
+        "paragraphes": [
+          "Note de 4,2 sur 5 pour 339 avis Google au relevé du 22 octobre 2026. Les avis les plus parlants sont compilés ci-dessous, avec un lien vers la fiche d'origine."
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "q": "Quels sont les horaires de Le Diablotin Boulangerie Pâtisserie ?",
+        "r": "Au relevé du 22 octobre 2026, Le Diablotin Boulangerie Pâtisserie était ouvert sept jours sur sept. Dans le détail — lundi : de 6 h à 20 h ; mardi : de 6 h à 20 h ; mercredi : de 6 h à 20 h ; jeudi : de 6 h à 20 h ; vendredi : de 6 h à 20 h ; samedi : de 6 h à 20 h ; dimanche : de 6 h à 14 h. Ces horaires peuvent changer : un appel préalable reste conseillé."
+      },
+      {
+        "q": "Le Diablotin Boulangerie Pâtisserie est-il ouvert le dimanche ?",
+        "r": "Oui : le dimanche, Le Diablotin Boulangerie Pâtisserie est ouvert de 6 h à 14 h (horaires relevés le 22 octobre 2026)."
+      },
+      {
+        "q": "Où se trouve Le Diablotin Boulangerie Pâtisserie ?",
+        "r": "Le Diablotin Boulangerie Pâtisserie se trouve 229 Rue François Perrin, 87000 Limoges. Un lien d'itinéraire est disponible sur cette page."
+      },
+      {
+        "q": "Comment contacter Le Diablotin Boulangerie Pâtisserie ?",
+        "r": "Par téléphone au 05 55 32 94 69, ou directement sur place aux heures d'ouverture."
+      },
+      {
+        "q": "Le Diablotin Boulangerie Pâtisserie propose-t-il la vente à emporter ou la livraison ?",
+        "r": "D'après sa fiche Google (relevé du 22 octobre 2026) — vente à emporter : oui ; livraison : non."
+      },
+      {
+        "q": "Quel est le niveau de prix de Le Diablotin Boulangerie Pâtisserie ?",
+        "r": "Google classe Le Diablotin Boulangerie Pâtisserie au niveau de prix € (bon marché), sur une échelle de € à €€€€ établie à partir des avis clients."
+      }
+    ],
+    "genere_le": "2026-10-22"
+  },
+  "statut_google": "OPERATIONAL",
+  "audience": {
+    "clics": 0,
+    "impressions": 0,
+    "position": null,
+    "fenetreJours": 90,
+    "clicsRecents": 0,
+    "fenetreRecenteJours": 28,
+    "source": "search-console",
+    "date": "2026-10-22"
+  }
+}

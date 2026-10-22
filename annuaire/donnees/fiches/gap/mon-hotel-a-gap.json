@@ -111,8 +111,8 @@
     "etat": "absent",
     "premiere_detection": null,
     "derniere_detection": null,
-    "derniere_verification": "2026-10-09T16:58:32.124Z",
-    "echecs": 7,
+    "derniere_verification": "2026-10-22T10:06:20.031Z",
+    "echecs": 8,
     "url_detectee": null
   },
   "suggestion": {
@@ -125,7 +125,7 @@
   "dates": {
     "collecte": "2026-10-03",
     "publication": "2026-10-03",
-    "maj": "2026-10-09"
+    "maj": "2026-10-22"
   },
   "source": "google-places",
   "redaction": {
@@ -133,14 +133,23 @@
     "titre": "Mon Hôtel à Gap — Hébergement à Gap",
     "meta_titre": "Mon Hôtel à Gap à Gap : horaires, avis, téléphone",
     "meta_description": "Mon Hôtel à Gap, hébergement à Gap : horaires d'ouverture, note Google 4,5/5 (460 avis), téléphone, adresse et itinéraire.",
-    "chapo": "Mon Hôtel à Gap exerce l'activité de hébergement au 4 Place Frederic Euziere, à Gap. Ouvert sept jours sur sept au relevé du 9 octobre 2026. Téléphone : 04 92 51 04 13. Note Google : 4,5 sur 5 pour 460 avis.",
+    "chapo": "Mon Hôtel à Gap exerce l'activité de hébergement au 4 Place Frederic Euziere, à Gap. Ouvert sept jours sur sept au relevé du 22 octobre 2026. Téléphone : 04 92 51 04 13. Note Google : 4,5 sur 5 pour 460 avis.",
     "sections": [
       {
         "id": "presentation",
         "titre": "Mon Hôtel à Gap en quelques mots",
         "paragraphes": [
+          "Présentation donnée par Google : « Hôtel contemporain avec chambres et suites élégantes, bar à cocktails simple et Wi-Fi gratuit. »",
           "Sur Google, l'établissement est classé « Hôtel », dans notre rubrique Hébergement.",
-          "D'après le relevé du 9 octobre 2026, l'établissement est ouvert sept jours sur sept. Le détail jour par jour figure plus bas."
+          "D'après le relevé du 22 octobre 2026, l'établissement est ouvert sept jours sur sept. Le détail jour par jour figure plus bas."
+        ]
+      },
+      {
+        "id": "prestations",
+        "titre": "Services et équipements de Mon Hôtel à Gap",
+        "paragraphes": [
+          "Proposé : adapté aux enfants.",
+          "Ces indications sont déclarées par l'établissement sur sa fiche Google (relevé du 22 octobre 2026)."
         ]
       },
       {
@@ -162,18 +171,18 @@
         "id": "avis",
         "titre": "La réputation de Mon Hôtel à Gap",
         "paragraphes": [
-          "Note de 4,5 sur 5 pour 460 avis Google au relevé du 9 octobre 2026. Les avis se consultent sur la fiche Google, dont le lien figure sur cette page."
+          "Note de 4,5 sur 5 pour 460 avis Google au relevé du 22 octobre 2026. Les avis les plus parlants sont compilés ci-dessous, avec un lien vers la fiche d'origine."
         ]
       }
     ],
     "faq": [
       {
         "q": "Quels sont les horaires de Mon Hôtel à Gap ?",
-        "r": "Au relevé du 9 octobre 2026, Mon Hôtel à Gap était ouvert sept jours sur sept. Dans le détail — lundi : de 7 h à 22 h ; mardi : de 7 h à 22 h ; mercredi : de 7 h à 22 h ; jeudi : de 7 h à 22 h ; vendredi : de 7 h à 22 h ; samedi : de 7 h à 22 h ; dimanche : de 7 h à 22 h. Ces horaires peuvent changer : un appel préalable reste conseillé."
+        "r": "Au relevé du 22 octobre 2026, Mon Hôtel à Gap était ouvert sept jours sur sept. Dans le détail — lundi : de 7 h à 22 h ; mardi : de 7 h à 22 h ; mercredi : de 7 h à 22 h ; jeudi : de 7 h à 22 h ; vendredi : de 7 h à 22 h ; samedi : de 7 h à 22 h ; dimanche : de 7 h à 22 h. Ces horaires peuvent changer : un appel préalable reste conseillé."
       },
       {
         "q": "Mon Hôtel à Gap est-il ouvert le dimanche ?",
-        "r": "Oui : le dimanche, Mon Hôtel à Gap est ouvert de 7 h à 22 h (horaires relevés le 9 octobre 2026)."
+        "r": "Oui : le dimanche, Mon Hôtel à Gap est ouvert de 7 h à 22 h (horaires relevés le 22 octobre 2026)."
       },
       {
         "q": "Où se trouve Mon Hôtel à Gap ?",
@@ -188,7 +197,7 @@
         "r": "La fiche Google de l'établissement mentionne : « Entrée accessible en fauteuil roulant ». Cette information est déclarative ; en cas de doute, vérifiez par téléphone."
       }
     ],
-    "genere_le": "2026-10-09"
+    "genere_le": "2026-10-22"
   },
   "statut_google": "OPERATIONAL",
   "audience": {
@@ -199,6 +208,66 @@
     "clicsRecents": 0,
     "fenetreRecenteJours": 28,
     "source": "search-console",
-    "date": "2026-10-21"
+    "date": "2026-10-22"
+  },
+  "avis_detail": {
+    "releve": "2026-10-22",
+    "liste": [
+      {
+        "note": 4,
+        "texte": "Reçue en urgence à 21h car mon mari a été hospitalisé en urgence à l'hôpital de Gap.\nTrès bel accueil, belle chambre , bon petit déjeuner.\nUn grand merci  pour cette nuit passée chez vous",
+        "langue": "fr",
+        "date": "2026-09-04",
+        "auteur": "véronique Deprey",
+        "auteur_lien": "https://www.google.com/maps/contrib/112992634933981048496/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25jMFZqbHFWRTlNTW1WNFNXWnRaVEEyWDNrMVNuYxAB!2m1!1s0x12cb400d13ee8e0b:0x8a9644cad5f49f6c"
+      },
+      {
+        "note": 5,
+        "texte": "Un immense merci pour votre accueil et votre bienveillance.\n\nDans une période où les circonstances m’ont amenée à séjourner chez vous de façon imprévue, j’ai été touchée par votre gentillesse, votre disponibilité et votre sens de l’humain.\n\nL’hôtel est agréable, mais ce que je retiendrai avant tout, c’est la qualité de l’accueil. Ces petites attentions font parfois toute la différence.\n\nJe recommande cet établissement sans hésiter.",
+        "langue": "fr",
+        "date": "2026-07-26",
+        "auteur": "Sandie Verdure",
+        "auteur_lien": "https://www.google.com/maps/contrib/102074246477394869134/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25SaGNWTklaV0psZW14UmRtRTRibmgyZDNscloxRRAB!2m1!1s0x12cb400d13ee8e0b:0x8a9644cad5f49f6c"
+      },
+      {
+        "note": 5,
+        "texte": "Hotel situé en centre ville. Restaurants et brasseries a proximité. Excellent acceuil. Tres bons petits-dejeuner avec large choix café, thé et autre, jus d orange, de pommes et autres, viennoiseries, pancake et autres, yahourt bio, etc. Chambre propre avec tv, climatiseur. Douche et WC séparé. Manquait juste un petit réfrigérateur, présent dans certaines chambres. Hotel calme avec de vrais rideaux occultant. Bon sejour",
+        "langue": "fr",
+        "date": "2026-07-22",
+        "auteur": "philippe BOGNON",
+        "auteur_lien": "https://www.google.com/maps/contrib/114133693860043230664/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT21kc1JsaEVNbVJCYzFVeFdEbDJaVXRpUkdkeVZsRRAB!2m1!1s0x12cb400d13ee8e0b:0x8a9644cad5f49f6c"
+      },
+      {
+        "note": 5,
+        "texte": "Je recommande +++++++\nLe confort des chambres et la modération des tarifs n'a d'égal que la gentillesse et la bonté d'âme des propriétaires.\nMon cousin ayant eu un accident de moto et les pompiers ayant pris son sac avec les documents administratifs à l'intérieur nous nous sommes trouvés sans carte de crédit et ils ont accepté de nous garder les chambres sans avoir d'empreinte de cb.\nDans ce moment de désarroi, la chaleur humaine du propriétaire nous a remonté le moral.\nBravo pour votre humanité et votre sens de l'accueil, vous exercez votre métier à la perfection.\nEncore un grand merci.",
+        "langue": "fr",
+        "date": "2026-07-14",
+        "auteur": "Philippe Descombes",
+        "auteur_lien": "https://www.google.com/maps/contrib/110840121402125708756/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2s1bE1rNVVWMmQwWTE5T01HbGZObmxPWHkxZmNVRRAB!2m1!1s0x12cb400d13ee8e0b:0x8a9644cad5f49f6c"
+      },
+      {
+        "note": 5,
+        "texte": "Super expérience dans cet hôtel à Gap !\nJ’y ai passé une nuit ce week-end et tout était vraiment parfait. La propreté est irréprochable, les chambres sont très agréables et on s’y sent tout de suite bien.\n\nLe personnel est particulièrement accueillant et sympathique, ce qui rend le séjour encore plus agréable. On sent que tout est fait pour que les clients se sentent à l’aise et passent un bon moment.\n\nUn endroit où l’on a envie de revenir sans hésiter. Merci pour l’accueil et à très bientôt !",
+        "langue": "fr",
+        "date": "2026-03-08",
+        "auteur": "Serbuhi HAKOBIAN",
+        "auteur_lien": "https://www.google.com/maps/contrib/103820970183091458826/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xGWFgwUmlORVZYU2xrMlJtZEtiM0J0YURCNE9WRRAB!2m1!1s0x12cb400d13ee8e0b:0x8a9644cad5f49f6c"
+      }
+    ]
+  },
+  "services": {
+    "releve": "2026-10-22",
+    "resume": "Hôtel contemporain avec chambres et suites élégantes, bar à cocktails simple et Wi-Fi gratuit.",
+    "resume_langue": "fr",
+    "options": {
+      "goodForChildren": true
+    },
+    "paiement": [],
+    "parking": []
   }
 }
