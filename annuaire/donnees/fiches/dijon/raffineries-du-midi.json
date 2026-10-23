@@ -100,8 +100,8 @@
     "etat": "absent",
     "premiere_detection": null,
     "derniere_detection": null,
-    "derniere_verification": "2026-10-09T16:58:32.124Z",
-    "echecs": 27,
+    "derniere_verification": "2026-10-23T09:59:51.184Z",
+    "echecs": 28,
     "url_detectee": null
   },
   "suggestion": {
@@ -121,7 +121,7 @@
   "dates": {
     "collecte": "2026-09-19",
     "publication": "2026-09-19",
-    "maj": "2026-10-18"
+    "maj": "2026-10-23"
   },
   "source": "google-places",
   "redaction": {
@@ -129,14 +129,14 @@
     "titre": "Raffineries du Midi — Transport et déménagement à Dijon",
     "meta_titre": "Raffineries du Midi à Dijon : horaires, avis, téléphone",
     "meta_description": "Raffineries du Midi, transport et déménagement à Dijon : horaires d'ouverture, note Google 4,5/5 (28 avis), téléphone, adresse et itinéraire.",
-    "chapo": "Raffineries du Midi est un transport et déménagement au 10 Rue des Verriers, à Dijon. Fermé le samedi et le dimanche au relevé du 9 octobre 2026. Téléphone : 03 80 41 11 93. Note Google : 4,5 sur 5 pour 28 avis.",
+    "chapo": "Raffineries du Midi est un transport et déménagement au 10 Rue des Verriers, à Dijon. Fermé le samedi et le dimanche au relevé du 23 octobre 2026. Téléphone : 03 80 41 11 93. Note Google : 4,5 sur 5 pour 28 avis.",
     "sections": [
       {
         "id": "presentation",
         "titre": "Raffineries du Midi en quelques mots",
         "paragraphes": [
           "Sur Google, l'établissement est classé « Stockage », dans notre rubrique Transport et déménagement.",
-          "D'après le relevé du 9 octobre 2026, l'établissement est fermé le samedi et le dimanche. Le détail jour par jour figure plus bas."
+          "D'après le relevé du 23 octobre 2026, l'établissement est fermé le samedi et le dimanche. Le détail jour par jour figure plus bas."
         ]
       },
       {
@@ -158,18 +158,18 @@
         "id": "avis",
         "titre": "La réputation de Raffineries du Midi",
         "paragraphes": [
-          "Note de 4,5 sur 5 pour 28 avis Google au relevé du 9 octobre 2026. Les avis se consultent sur la fiche Google, dont le lien figure sur cette page."
+          "Note de 4,5 sur 5 pour 28 avis Google au relevé du 23 octobre 2026. Les avis les plus parlants sont compilés ci-dessous, avec un lien vers la fiche d'origine."
         ]
       }
     ],
     "faq": [
       {
         "q": "Quels sont les horaires de Raffineries du Midi ?",
-        "r": "Au relevé du 9 octobre 2026, Raffineries du Midi était fermé le samedi et le dimanche. Dans le détail — lundi : de 8 h à 16 h 30 ; mardi : de 8 h à 16 h 30 ; mercredi : de 8 h à 16 h 30 ; jeudi : de 8 h à 16 h 30 ; vendredi : de 8 h à 16 h 30 ; samedi : fermé ; dimanche : fermé. Ces horaires peuvent changer : un appel préalable reste conseillé."
+        "r": "Au relevé du 23 octobre 2026, Raffineries du Midi était fermé le samedi et le dimanche. Dans le détail — lundi : de 8 h à 16 h 30 ; mardi : de 8 h à 16 h 30 ; mercredi : de 8 h à 16 h 30 ; jeudi : de 8 h à 16 h 30 ; vendredi : de 8 h à 16 h 30 ; samedi : fermé ; dimanche : fermé. Ces horaires peuvent changer : un appel préalable reste conseillé."
       },
       {
         "q": "Raffineries du Midi est-il ouvert le dimanche ?",
-        "r": "Non : d'après les horaires relevés le 9 octobre 2026, Raffineries du Midi est fermé le dimanche."
+        "r": "Non : d'après les horaires relevés le 23 octobre 2026, Raffineries du Midi est fermé le dimanche."
       },
       {
         "q": "Où se trouve Raffineries du Midi ?",
@@ -184,17 +184,67 @@
         "r": "La fiche Google de l'établissement mentionne : « Parking accessible en fauteuil roulant ». Cette information est déclarative ; en cas de doute, vérifiez par téléphone."
       }
     ],
-    "genere_le": "2026-10-09"
+    "genere_le": "2026-10-23"
   },
   "statut_google": "OPERATIONAL",
   "audience": {
     "clics": 0,
-    "impressions": 0,
-    "position": null,
+    "impressions": 2,
+    "position": 151,
     "fenetreJours": 90,
     "clicsRecents": 0,
     "fenetreRecenteJours": 28,
     "source": "search-console",
-    "date": "2026-10-22"
+    "date": "2026-10-23"
+  },
+  "avis_detail": {
+    "releve": "2026-10-23",
+    "liste": [
+      {
+        "note": 5,
+        "texte": "Très bien accueillie pour une première livraison d'éthanol, vous êtes super 👍👍👍👍",
+        "langue": "fr",
+        "date": "2025-10-11",
+        "auteur": "Ludovic Massias",
+        "auteur_lien": "https://www.google.com/maps/contrib/116224289506492953559/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2pCT09WTmZiMVJoTlVKVFJ6WTRXbTFuYld0bmVFRRAB!2m1!1s0x47f29c32c5fe05c7:0x8b060ce99fdf7b4f"
+      },
+      {
+        "note": 5,
+        "texte": "Très bonne entreprise personnel sympa encadrer du début a la fin rien a dire j ai hâte de revenir 👌",
+        "langue": "fr",
+        "date": "2025-03-14",
+        "auteur": "sebastien jeanpierre",
+        "auteur_lien": "https://www.google.com/maps/contrib/107344673370313781900/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnTURRcTZ6NFZ3EAE!2m1!1s0x47f29c32c5fe05c7:0x8b060ce99fdf7b4f"
+      },
+      {
+        "note": 5,
+        "texte": "Accueil parfait personnel très sympathique 👍",
+        "langue": "fr",
+        "date": "2023-05-10",
+        "auteur": "bruno wateau",
+        "auteur_lien": "https://www.google.com/maps/contrib/101699199037134051525/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUN4dU43eHFRRRAB!2m1!1s0x47f29c32c5fe05c7:0x8b060ce99fdf7b4f"
+      },
+      {
+        "note": 5,
+        "texte": "Personnel très sympa et accueillant... Au plaisir d'y retourner livrer 😉",
+        "langue": "fr",
+        "date": "2022-08-24",
+        "auteur": "Franck RIFFLARD",
+        "auteur_lien": "https://www.google.com/maps/contrib/112031866291936777267/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUR1bVk2R1FBEAE!2m1!1s0x47f29c32c5fe05c7:0x8b060ce99fdf7b4f"
+      },
+      {
+        "note": 5,
+        "texte": "Super personnel très chaleureux",
+        "langue": "fr",
+        "date": "2021-08-07",
+        "auteur": "Jean Michel Durand",
+        "auteur_lien": "https://www.google.com/maps/contrib/101755605049452896893/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUNhbmN1Tk13EAE!2m1!1s0x47f29c32c5fe05c7:0x8b060ce99fdf7b4f"
+      }
+    ]
   }
 }

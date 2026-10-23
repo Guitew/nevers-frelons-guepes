@@ -129,8 +129,8 @@
     "etat": "absent",
     "premiere_detection": null,
     "derniere_detection": null,
-    "derniere_verification": "2026-10-09T16:58:32.124Z",
-    "echecs": 5,
+    "derniere_verification": "2026-10-23T09:59:51.184Z",
+    "echecs": 6,
     "url_detectee": null
   },
   "suggestion": {
@@ -143,7 +143,7 @@
   "dates": {
     "collecte": "2026-10-05",
     "publication": "2026-10-05",
-    "maj": "2026-10-09"
+    "maj": "2026-10-23"
   },
   "source": "google-places",
   "redaction": {
@@ -151,14 +151,24 @@
     "titre": "Pharmacie Saint Florent — Pharmacie ou opticien à Niort",
     "meta_titre": "Pharmacie Saint Florent à Niort : horaires, avis, téléphone",
     "meta_description": "Pharmacie Saint Florent, pharmacie ou opticien à Niort : horaires d'ouverture, note Google 4,1/5 (50 avis), téléphone, adresse et itinéraire.",
-    "chapo": "Pharmacie Saint Florent, pharmacie ou opticien au 138 Avenue Saint-Jean d'Angély, à Niort. Ouvert tous les jours sauf le dimanche au relevé du 9 octobre 2026. Téléphone : 05 49 79 22 06. Note Google : 4,1 sur 5 pour 50 avis.",
+    "chapo": "Pharmacie Saint Florent, pharmacie ou opticien au 138 Avenue Saint-Jean d'Angély, à Niort. Ouvert tous les jours sauf le dimanche au relevé du 23 octobre 2026. Téléphone : 05 49 79 22 06. Note Google : 4,1 sur 5 pour 50 avis.",
     "sections": [
       {
         "id": "presentation",
         "titre": "Pharmacie Saint Florent en quelques mots",
         "paragraphes": [
           "Sur Google, l'établissement est classé « Pharmacie », dans notre rubrique Pharmacie ou opticien.",
-          "D'après le relevé du 9 octobre 2026, l'établissement est ouvert tous les jours sauf le dimanche. Le détail jour par jour figure plus bas."
+          "D'après le relevé du 23 octobre 2026, l'établissement est ouvert tous les jours sauf le dimanche. Le détail jour par jour figure plus bas."
+        ]
+      },
+      {
+        "id": "prestations",
+        "titre": "Services et équipements de Pharmacie Saint Florent",
+        "paragraphes": [
+          "Proposé : livraison.",
+          "Non proposé selon la fiche Google : retrait en voiture.",
+          "Moyens de paiement déclarés : carte de débit et paiement sans contact.",
+          "Ces indications sont déclarées par l'établissement sur sa fiche Google (relevé du 23 octobre 2026)."
         ]
       },
       {
@@ -180,18 +190,18 @@
         "id": "avis",
         "titre": "La réputation de Pharmacie Saint Florent",
         "paragraphes": [
-          "Note de 4,1 sur 5 pour 50 avis Google au relevé du 9 octobre 2026. Les avis se consultent sur la fiche Google, dont le lien figure sur cette page."
+          "Note de 4,1 sur 5 pour 50 avis Google au relevé du 23 octobre 2026. Les avis les plus parlants sont compilés ci-dessous, avec un lien vers la fiche d'origine."
         ]
       }
     ],
     "faq": [
       {
         "q": "Quels sont les horaires de Pharmacie Saint Florent ?",
-        "r": "Au relevé du 9 octobre 2026, Pharmacie Saint Florent était ouvert tous les jours sauf le dimanche. Dans le détail — lundi : de 8 h 45 à 12 h 30 et de 14 h à 19 h 30 ; mardi : de 8 h 45 à 12 h 30 et de 14 h à 19 h 30 ; mercredi : de 8 h 45 à 12 h 30 et de 14 h à 19 h 30 ; jeudi : de 8 h 45 à 12 h 30 et de 14 h à 19 h 30 ; vendredi : de 8 h 45 à 12 h 30 et de 14 h à 19 h 30 ; samedi : de 8 h 45 à 12 h 30 ; dimanche : fermé. Ces horaires peuvent changer : un appel préalable reste conseillé."
+        "r": "Au relevé du 23 octobre 2026, Pharmacie Saint Florent était ouvert tous les jours sauf le dimanche. Dans le détail — lundi : de 8 h 45 à 12 h 30 et de 14 h à 19 h 30 ; mardi : de 8 h 45 à 12 h 30 et de 14 h à 19 h 30 ; mercredi : de 8 h 45 à 12 h 30 et de 14 h à 19 h 30 ; jeudi : de 8 h 45 à 12 h 30 et de 14 h à 19 h 30 ; vendredi : de 8 h 45 à 12 h 30 et de 14 h à 19 h 30 ; samedi : de 8 h 45 à 12 h 30 ; dimanche : fermé. Ces horaires peuvent changer : un appel préalable reste conseillé."
       },
       {
         "q": "Pharmacie Saint Florent est-il ouvert le dimanche ?",
-        "r": "Non : d'après les horaires relevés le 9 octobre 2026, Pharmacie Saint Florent est fermé le dimanche."
+        "r": "Non : d'après les horaires relevés le 23 octobre 2026, Pharmacie Saint Florent est fermé le dimanche."
       },
       {
         "q": "Où se trouve Pharmacie Saint Florent ?",
@@ -202,11 +212,15 @@
         "r": "Par téléphone au 05 49 79 22 06, ou directement sur place aux heures d'ouverture."
       },
       {
+        "q": "Pharmacie Saint Florent propose-t-il la vente à emporter ou la livraison ?",
+        "r": "D'après sa fiche Google (relevé du 23 octobre 2026) — livraison : oui."
+      },
+      {
         "q": "Pharmacie Saint Florent est-il accessible aux personnes à mobilité réduite ?",
         "r": "La fiche Google de l'établissement mentionne : « Entrée accessible en fauteuil roulant ». Cette information est déclarative ; en cas de doute, vérifiez par téléphone."
       }
     ],
-    "genere_le": "2026-10-09"
+    "genere_le": "2026-10-23"
   },
   "statut_google": "OPERATIONAL",
   "audience": {
@@ -217,6 +231,68 @@
     "clicsRecents": 0,
     "fenetreRecenteJours": 28,
     "source": "search-console",
-    "date": "2026-10-22"
+    "date": "2026-10-23"
+  },
+  "avis_detail": {
+    "releve": "2026-10-23",
+    "liste": [
+      {
+        "note": 5,
+        "texte": "Client fidèle depuis 35  ans .... Donc j adore toujours de bon conseil",
+        "langue": "fr",
+        "date": "2026-07-17",
+        "auteur": "Laurence Gaudronneau",
+        "auteur_lien": "https://www.google.com/maps/contrib/115846322450875040149/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT205aU0wbENNR016TlhKVE5GVkRRVmxuT0dGWVQzYxAB!2m1!1s0x480731d1276a35c7:0x19bb5595d311222b"
+      },
+      {
+        "note": 5,
+        "texte": "Ravie davoir cette pharmacie à proximité.\nUn accueil toujours agréable et souriant. Des conseils adaptés et des explications sur les traitements si nécessaires. La possibilité de commander et d'être informer de sa disponibilité par téléphone. Si besoin, la livraison est possible. Une officine au plus près de l'humain, par l'humain et pour l'humain.",
+        "langue": "fr",
+        "date": "2026-06-18",
+        "auteur": "Cindy",
+        "auteur_lien": "https://www.google.com/maps/contrib/110498810979867979107/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xObk9GcGFNMmxhZFdwSGFXbFVNVEJJUVVSb2QyYxAB!2m1!1s0x480731d1276a35c7:0x19bb5595d311222b"
+      },
+      {
+        "note": 4,
+        "texte": "Tres bon accueil dans cette pharmacie le personnel est attentif et de tres bon conseil",
+        "langue": "fr",
+        "date": "2026-06-08",
+        "auteur": "Dominique Chargé",
+        "auteur_lien": "https://www.google.com/maps/contrib/106784320545339673975/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2tkWWVWVkNkbWxvY1cxc1oyRlhSRmRWUzFKMGJYYxAB!2m1!1s0x480731d1276a35c7:0x19bb5595d311222b"
+      },
+      {
+        "note": 5,
+        "texte": "Accueil de qualité, écoute, gentillesse, patience et de bons conseils sans achat forcé.",
+        "langue": "fr",
+        "date": "2026-05-19",
+        "auteur": "Monique",
+        "auteur_lien": "https://www.google.com/maps/contrib/115876572850194553004/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xCNk5WRklTVnBMVVRkMGFtZEVjekpPVG1aemRtYxAB!2m1!1s0x480731d1276a35c7:0x19bb5595d311222b"
+      },
+      {
+        "note": 4,
+        "texte": "Des locaux agréables, un personnel toujours cordial et en tous cas professionnel, qui n'hésite pas à prendre du temps si besoin de conseils ou de recherches.\nDommage que la rue n'offre pas plus de facilités pour se garer.\nBon point également : la borne en libre-accès pour mettre à jour sa carte Vitale.",
+        "langue": "fr",
+        "date": "2026-01-13",
+        "auteur": "MItch17",
+        "auteur_lien": "https://www.google.com/maps/contrib/100195715594370843364/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25sQlVVRk5lWE5EVkdaNFJWOWZZbmQ0TFZkaVkxRRAB!2m1!1s0x480731d1276a35c7:0x19bb5595d311222b"
+      }
+    ]
+  },
+  "services": {
+    "releve": "2026-10-23",
+    "options": {
+      "delivery": true,
+      "curbsidePickup": false
+    },
+    "paiement": [
+      "carte de débit",
+      "paiement sans contact"
+    ],
+    "parking": []
   }
 }

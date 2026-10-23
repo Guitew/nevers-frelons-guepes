@@ -26,7 +26,7 @@
     "longitude": 5.2573301
   },
   "note": 4.4,
-  "avis": 276,
+  "avis": 278,
   "horaires": [
     {
       "jour": 0,
@@ -111,8 +111,8 @@
     "etat": "absent",
     "premiere_detection": null,
     "derniere_detection": null,
-    "derniere_verification": "2026-10-09T16:58:32.124Z",
-    "echecs": 61,
+    "derniere_verification": "2026-10-23T09:59:51.184Z",
+    "echecs": 62,
     "url_detectee": null
   },
   "suggestion": {
@@ -132,7 +132,7 @@
   "dates": {
     "collecte": "2026-09-02",
     "publication": "2026-09-02",
-    "maj": "2026-10-18"
+    "maj": "2026-10-23"
   },
   "source": "google-places",
   "redaction": {
@@ -140,14 +140,22 @@
     "titre": "Renault Trucks Factory France — Comptabilité et conseil à Bourg-en-Bresse",
     "meta_titre": "Renault Trucks Factory France : horaires, avis, téléphone",
     "meta_description": "Renault Trucks Factory France, comptabilité et conseil à Bourg-en-Bresse : horaires d'ouverture, téléphone, adresse et itinéraire.",
-    "chapo": "Renault Trucks Factory France est une comptabilité et conseil au 143 Avenue Amédée Mercier, à Bourg-en-Bresse. Ouvert sept jours sur sept au relevé du 18 octobre 2026. Téléphone : 04 74 50 33 00. Note Google : 4,4 sur 5 pour 276 avis.",
+    "chapo": "Renault Trucks Factory France est une comptabilité et conseil au 143 Avenue Amédée Mercier, à Bourg-en-Bresse. Ouvert sept jours sur sept au relevé du 23 octobre 2026. Téléphone : 04 74 50 33 00. Note Google : 4,4 sur 5 pour 278 avis.",
     "sections": [
       {
         "id": "presentation",
         "titre": "Renault Trucks Factory France en quelques mots",
         "paragraphes": [
           "Sur Google, l'établissement est classé « Siège social », dans notre rubrique Comptabilité et conseil.",
-          "D'après le relevé du 18 octobre 2026, l'établissement est ouvert sept jours sur sept. Le détail jour par jour figure plus bas."
+          "D'après le relevé du 23 octobre 2026, l'établissement est ouvert sept jours sur sept. Le détail jour par jour figure plus bas."
+        ]
+      },
+      {
+        "id": "prestations",
+        "titre": "Services et équipements de Renault Trucks Factory France",
+        "paragraphes": [
+          "Proposé : toilettes.",
+          "Ces indications sont déclarées par l'établissement sur sa fiche Google (relevé du 23 octobre 2026)."
         ]
       },
       {
@@ -169,18 +177,18 @@
         "id": "avis",
         "titre": "La réputation de Renault Trucks Factory France",
         "paragraphes": [
-          "Note de 4,4 sur 5 pour 276 avis Google au relevé du 18 octobre 2026. Les avis se consultent sur la fiche Google, dont le lien figure sur cette page."
+          "Note de 4,4 sur 5 pour 278 avis Google au relevé du 23 octobre 2026. Les avis les plus parlants sont compilés ci-dessous, avec un lien vers la fiche d'origine."
         ]
       }
     ],
     "faq": [
       {
         "q": "Quels sont les horaires de Renault Trucks Factory France ?",
-        "r": "Au relevé du 18 octobre 2026, Renault Trucks Factory France était ouvert sept jours sur sept. Dans le détail — lundi : de 8 h 55 à 17 h 55 ; mardi : de 8 h 55 à 17 h 55 ; mercredi : de 8 h 55 à 17 h 55 ; jeudi : de 8 h 55 à 17 h 55 ; vendredi : de 8 h 55 à 17 h 55 ; samedi : de 8 h 55 à 17 h 55 ; dimanche : de 8 h 55 à 17 h 55. Ces horaires peuvent changer : un appel préalable reste conseillé."
+        "r": "Au relevé du 23 octobre 2026, Renault Trucks Factory France était ouvert sept jours sur sept. Dans le détail — lundi : de 8 h 55 à 17 h 55 ; mardi : de 8 h 55 à 17 h 55 ; mercredi : de 8 h 55 à 17 h 55 ; jeudi : de 8 h 55 à 17 h 55 ; vendredi : de 8 h 55 à 17 h 55 ; samedi : de 8 h 55 à 17 h 55 ; dimanche : de 8 h 55 à 17 h 55. Ces horaires peuvent changer : un appel préalable reste conseillé."
       },
       {
         "q": "Renault Trucks Factory France est-il ouvert le dimanche ?",
-        "r": "Oui : le dimanche, Renault Trucks Factory France est ouvert de 8 h 55 à 17 h 55 (horaires relevés le 18 octobre 2026)."
+        "r": "Oui : le dimanche, Renault Trucks Factory France est ouvert de 8 h 55 à 17 h 55 (horaires relevés le 23 octobre 2026)."
       },
       {
         "q": "Où se trouve Renault Trucks Factory France ?",
@@ -195,7 +203,7 @@
         "r": "La fiche Google de l'établissement mentionne : « Entrée accessible en fauteuil roulant ». Cette information est déclarative ; en cas de doute, vérifiez par téléphone."
       }
     ],
-    "genere_le": "2026-10-18"
+    "genere_le": "2026-10-23"
   },
   "statut_google": "OPERATIONAL",
   "audience": {
@@ -206,7 +214,7 @@
     "clicsRecents": 0,
     "fenetreRecenteJours": 28,
     "source": "search-console",
-    "date": "2026-10-22"
+    "date": "2026-10-23"
   },
   "indexation": {
     "etat": "non-indexee",
@@ -216,5 +224,63 @@
     "canonique_google": null,
     "source": "inspection",
     "date": "2026-10-18"
+  },
+  "avis_detail": {
+    "releve": "2026-10-23",
+    "liste": [
+      {
+        "note": 1,
+        "texte": "Vraiment déçu !!!\nJe conduis vos véhicules depuis plusieurs années, avec lesquels j'étais content de rouler, véhicule très confortable.\nDepuis avril 2024 le nouveau Renault T turbo comput, rien à dire sur la cabine qui est toujours confortable.\n\nPar contre beaucoup de problèmes avec vos mises à jour !!! Gérer par des gens incompétents !!!!\nDes exemples je peux vous en donner plein...\nEn ce moment problème avec le chauffage autonome auquel on ne peut pas avoir l'affichage de température... Super pratique !!!\nProblème depuis début janvier, mon garage fait le maximum pour remonter les infos... Et vous tous incompétents comme vous êtes vous n'avez aucune réponse à nous donner !!!!\nQuelle honte pour la marque française....",
+        "langue": "fr",
+        "date": "2026-02-17",
+        "auteur": "Emmanuel Enfrin",
+        "auteur_lien": "https://www.google.com/maps/contrib/114483697118274240243/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2twbVNITnNURWRSVTFOUVMyWlhkM2wyZFdWM2NXYxAB!2m1!1s0x47f35301308cab89:0x2d49aa3072f3efa6"
+      },
+      {
+        "note": 1,
+        "texte": "Vos camions sont une honte.\nLes ingénieurs qui les conçoivent devraient retourner a leurs planches a dessin .\nMal conçu, mal penser .\nTout est fait a l'économie et au maxi profi.\nLes conducteurs de vos poubelles mal ajuster méritent un peut plus de considération.\nAprès avoir roulé avec des Volvo depuis 15 ans je me retrouve coincé dans votre daube pour les trois prochaines années.\nComment osez vous .",
+        "langue": "fr",
+        "date": "2025-05-21",
+        "auteur": "Benoit Fernagut",
+        "auteur_lien": "https://www.google.com/maps/contrib/106135062744268009617/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChRDSUhNMG9nS0VQRzkwcEN3eU41SRAB!2m1!1s0x47f35301308cab89:0x2d49aa3072f3efa6"
+      },
+      {
+        "note": 1,
+        "texte": "Le responsable de l'hypothétique formation, incompétent. On peut favoriser ou defavoriser à qui on veut. Parcontre le 3° et la 4° des formateurs sont super sympas.",
+        "langue": "fr",
+        "date": "2025-01-30",
+        "auteur": "ABI MDP",
+        "auteur_lien": "https://www.google.com/maps/contrib/109553929948113904723/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSURmdE03blF3EAE!2m1!1s0x47f35301308cab89:0x2d49aa3072f3efa6"
+      },
+      {
+        "note": 5,
+        "texte": "Une immersion sur deux chaînes d'assemblage de camions durant près de 4 heures. Nous avons découvert un monde inconnu pour nous. Nous avons trouvé que dans l'ensemble une harmonie règne entre les ouvriers. Merci pour ce beau moment.",
+        "langue": "fr",
+        "date": "2023-06-27",
+        "auteur": "MARTIAL GUILLAUME",
+        "auteur_lien": "https://www.google.com/maps/contrib/109280258342240030756/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUNKN3VuOTl3RRAB!2m1!1s0x47f35301308cab89:0x2d49aa3072f3efa6"
+      },
+      {
+        "note": 5,
+        "texte": "Une très bonne formation très bien expliquée avec de bon formateur sympathique et une bonne ambiance avec toute les personnes qui était là aussi pour la formation et hâte de démarrer le 16 août",
+        "langue": "fr",
+        "date": "2022-07-12",
+        "auteur": "xavier lerisbe",
+        "auteur_lien": "https://www.google.com/maps/contrib/113740002705148028134/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSURPZ19yMWhnRRAB!2m1!1s0x47f35301308cab89:0x2d49aa3072f3efa6"
+      }
+    ]
+  },
+  "services": {
+    "releve": "2026-10-23",
+    "options": {
+      "restroom": true
+    },
+    "paiement": [],
+    "parking": []
   }
 }

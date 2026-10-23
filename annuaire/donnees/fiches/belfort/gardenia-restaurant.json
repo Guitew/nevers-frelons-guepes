@@ -1,0 +1,325 @@
+{
+  "id": "ChIJTZpjaow7kkcRihQBXdIWRg8",
+  "slug": "gardenia-restaurant",
+  "nom": "GARDENIA RESTAURANT",
+  "categorie": "restaurants",
+  "categorie_gmb": "Restaurant",
+  "type_principal": "restaurant",
+  "types": [
+    "restaurant",
+    "point_of_interest",
+    "food",
+    "establishment"
+  ],
+  "ville": "Belfort",
+  "ville_slug": "belfort",
+  "adresse": {
+    "rue": "14 Avenue du Château d'Eau",
+    "code_postal": "90000",
+    "departement": "90",
+    "region": "Bourgogne-Franche-Comté",
+    "pays": "France",
+    "complete": "14 Av. du Château d'Eau, 90000 Belfort"
+  },
+  "telephone": "07 53 78 66 34",
+  "geo": {
+    "latitude": 47.6406525,
+    "longitude": 6.8377014
+  },
+  "note": 4.7,
+  "avis": 146,
+  "horaires": [
+    {
+      "jour": 0,
+      "ferme": false,
+      "creneaux": [
+        [
+          "11:30",
+          "14:30"
+        ],
+        [
+          "18:00",
+          "22:00"
+        ]
+      ]
+    },
+    {
+      "jour": 1,
+      "ferme": false,
+      "creneaux": [
+        [
+          "11:00",
+          "14:30"
+        ],
+        [
+          "18:00",
+          "22:30"
+        ]
+      ]
+    },
+    {
+      "jour": 2,
+      "ferme": false,
+      "creneaux": [
+        [
+          "11:30",
+          "14:30"
+        ],
+        [
+          "18:00",
+          "22:00"
+        ]
+      ]
+    },
+    {
+      "jour": 3,
+      "ferme": false,
+      "creneaux": [
+        [
+          "11:00",
+          "14:30"
+        ],
+        [
+          "18:00",
+          "22:00"
+        ]
+      ]
+    },
+    {
+      "jour": 4,
+      "ferme": false,
+      "creneaux": [
+        [
+          "11:30",
+          "14:00"
+        ],
+        [
+          "18:00",
+          "22:00"
+        ]
+      ]
+    },
+    {
+      "jour": 5,
+      "ferme": false,
+      "creneaux": [
+        [
+          "18:00",
+          "10:00"
+        ]
+      ]
+    },
+    {
+      "jour": 6,
+      "ferme": true,
+      "creneaux": []
+    }
+  ],
+  "attributs": [
+    "Entrée accessible en fauteuil roulant",
+    "Parking accessible en fauteuil roulant",
+    "Toilettes accessibles en fauteuil roulant",
+    "Places assises accessibles en fauteuil roulant"
+  ],
+  "lien_google": "https://maps.google.com/?cid=1100592251697960074&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
+  "site_web_gmb": null,
+  "statut": "publiee",
+  "backlink": {
+    "etat": "absent",
+    "premiere_detection": null,
+    "derniere_detection": null,
+    "derniere_verification": "2026-10-23T09:59:51.184Z",
+    "echecs": 1,
+    "url_detectee": null
+  },
+  "suggestion": {
+    "etat": "en-attente",
+    "date_soumission": null,
+    "tentatives": 0,
+    "date_email": "2026-10-23"
+  },
+  "retrait": null,
+  "dates": {
+    "collecte": "2026-10-23",
+    "publication": "2026-10-23",
+    "maj": "2026-10-23"
+  },
+  "source": "google-places",
+  "avis_detail": {
+    "releve": "2026-10-23",
+    "liste": [
+      {
+        "note": 5,
+        "texte": "Cuisine libanaise délicieuse. Diversité des plats avec buffet à volonté. Accueil très chaleureux.",
+        "langue": "fr",
+        "date": "2026-07-06",
+        "auteur": "angelique magnenet",
+        "auteur_lien": "https://www.google.com/maps/contrib/106371453744167147549/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2s5UVNUVktNM0UyTkRCdlowaERkRzVOT0hCRlZIYxAB!2m1!1s0x47923b8c6a639a4d:0xf4616d25d01148a"
+      },
+      {
+        "note": 1,
+        "texte": "Ce restaurant est une véritable arnaque ! Rien ne correspond aux photos et aux descriptions alléchantes que l'on trouve sur internet. Quelle déception totale ! Nous nous attendions à un \"buffet à volonté\" varié et abondant, mais à notre arrivée, seulement deux plats étaient proposés. On se serait cru à la cantine.\n\nDe plus, l’ambiance était déplorable, avec des comptines pour enfants diffusées en boucle à la télévision. Le comble, c’est que nous étions censés payer 20€ par personne alors que cela ne valait même pas 5€ !\n\nÉvitez cet endroit à tout prix. C’est une véritable honte !",
+        "langue": "fr",
+        "date": "2024-05-25",
+        "auteur": "Alyna",
+        "auteur_lien": "https://www.google.com/maps/contrib/114562432378489755449/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSURUcWRlY013EAE!2m1!1s0x47923b8c6a639a4d:0xf4616d25d01148a"
+      },
+      {
+        "note": 5,
+        "texte": "J'ai dû y manger une trentaine de fois depuis à peu près un an que ce soit sur place ou à emporter.\nJe n'ai jamais été déçu.\nD'une part, l'accueil est toujours chaleureux et la satisfaction du client est la priorité, on est gâté, on nous repropose toujours quelque chose et on ne demande toujours si ça s'est bien passé en sortant, du jamais vu dans n'importe quel autre restaurant (j'imagine que c'est culturel, certains devraient vraiment prendre exemple!).\nD'autre part, la nourriture est excellente, on voyage pour le prix d'un repas et l'on découvre chaque fois de nouveaux plats (j'ai l'habitude de ne plus commander mais de laisser me servir ce qui est déjà en préparation), j'y ai même mangé des aliments que je n'aimais pas habituellement et que j'ai trouvé délicieux.\nUn restaurant qui gagne à être connu et qui je l'espère continuera à exister le plus longtemps possible.\nSeul petit bémol qui j'imagine pourrait ne pas attirer certains clients : la décoration de la salle n'est pas représentative mais je peux vous garantir que ce qu'il y aura dans votre assiette suffira largement ! :)\nUne valeur sûre si vous voulez découvrir ou faire découvrir de nouvelles saveurs.",
+        "langue": "fr",
+        "date": "2023-08-31",
+        "auteur": "Goux Ktm",
+        "auteur_lien": "https://www.google.com/maps/contrib/118030154088738614890/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSURwdC11ZV9RRRAB!2m1!1s0x47923b8c6a639a4d:0xf4616d25d01148a"
+      },
+      {
+        "note": 5,
+        "texte": "Propriétaire très sympathique, cuisine excellente et Bonne ambiance familiale, ils ont pensé à tout je recommande ! Les prix très raisonnables bravo",
+        "langue": "fr",
+        "date": "2023-08-15",
+        "auteur": "Jsl BD",
+        "auteur_lien": "https://www.google.com/maps/contrib/106616535788244903403/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSURwMktmbFNREAE!2m1!1s0x47923b8c6a639a4d:0xf4616d25d01148a"
+      },
+      {
+        "note": 5,
+        "texte": "Meilleur restaurant sur Belfort . Cuisine authentique , accueil chaleureux. Les plats sont généreux et extrêmement délicieux. Il y a pour tous les goûts . Le propriétaire est incroyablement gentil, il est au petit soin et vous allez adoré le service 5 étoiles . A chaque fois que je viens ici , c’est une expérience unique : tout est bon , la viande est succulente et les accompagnements sont divers et variés . Honnêtement difficile de faire mieux , pour moi c’est le meilleur restaurant.",
+        "langue": "fr",
+        "date": "2023-07-20",
+        "auteur": "Docteur Youcef",
+        "auteur_lien": "https://www.google.com/maps/contrib/113184463740341139063/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSURKLWZxQmlBRRAB!2m1!1s0x47923b8c6a639a4d:0xf4616d25d01148a"
+      }
+    ]
+  },
+  "services": {
+    "releve": "2026-10-23",
+    "prix": "PRICE_LEVEL_MODERATE",
+    "options": {
+      "dineIn": true,
+      "takeout": true,
+      "delivery": true,
+      "reservable": true,
+      "outdoorSeating": true,
+      "servesLunch": true,
+      "servesDinner": true,
+      "servesVegetarianFood": true,
+      "servesCoffee": true,
+      "servesCocktails": true,
+      "menuForChildren": true,
+      "goodForChildren": true,
+      "goodForGroups": true,
+      "liveMusic": false,
+      "restroom": true
+    },
+    "paiement": [
+      "carte bancaire",
+      "carte de débit",
+      "paiement sans contact"
+    ],
+    "parking": [
+      "parking gratuit",
+      "stationnement gratuit dans la rue"
+    ]
+  },
+  "redaction": {
+    "version": 2,
+    "titre": "GARDENIA RESTAURANT — Restaurant à Belfort",
+    "meta_titre": "GARDENIA RESTAURANT à Belfort : horaires, avis, téléphone",
+    "meta_description": "GARDENIA RESTAURANT, restaurant à Belfort : horaires d'ouverture, note Google 4,7/5 (146 avis), téléphone, adresse et itinéraire.",
+    "chapo": "GARDENIA RESTAURANT est un restaurant au 14 Avenue du Château d'Eau, à Belfort. Ouvert tous les jours sauf le dimanche au relevé du 23 octobre 2026. Téléphone : 07 53 78 66 34. Note Google : 4,7 sur 5 pour 146 avis.",
+    "sections": [
+      {
+        "id": "presentation",
+        "titre": "GARDENIA RESTAURANT en quelques mots",
+        "paragraphes": [
+          "Niveau de prix indiqué sur la fiche Google : €€ (modéré).",
+          "D'après le relevé du 23 octobre 2026, l'établissement est ouvert tous les jours sauf le dimanche. Le détail jour par jour figure plus bas."
+        ]
+      },
+      {
+        "id": "prestations",
+        "titre": "Services et équipements de GARDENIA RESTAURANT",
+        "paragraphes": [
+          "Proposé : sur place, à emporter, livraison, réservation possible, terrasse, déjeuner, dîner, plats végétariens, café, cocktails, menu enfant, adapté aux enfants, adapté aux groupes et toilettes.",
+          "Non proposé selon la fiche Google : musique live.",
+          "Moyens de paiement déclarés : carte bancaire, carte de débit et paiement sans contact.",
+          "Stationnement : parking gratuit et stationnement gratuit dans la rue.",
+          "Ces indications sont déclarées par l'établissement sur sa fiche Google (relevé du 23 octobre 2026)."
+        ]
+      },
+      {
+        "id": "acces",
+        "titre": "Adresse et accès",
+        "paragraphes": [
+          "L'établissement est situé au 14 Avenue du Château d'Eau, 90000 Belfort.",
+          "Coordonnées GPS : 47.64065, 6.83770. Le bouton Itinéraire de cette page ouvre la navigation."
+        ]
+      },
+      {
+        "id": "contact",
+        "titre": "Contacter GARDENIA RESTAURANT",
+        "paragraphes": [
+          "Le contact se fait par téléphone au 07 53 78 66 34, ou directement sur place aux horaires d'ouverture.",
+          "La fiche Google indique que la réservation est possible."
+        ]
+      },
+      {
+        "id": "avis",
+        "titre": "La réputation de GARDENIA RESTAURANT",
+        "paragraphes": [
+          "Note de 4,7 sur 5 pour 146 avis Google au relevé du 23 octobre 2026. Les avis les plus parlants sont compilés ci-dessous, avec un lien vers la fiche d'origine."
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "q": "Quels sont les horaires de GARDENIA RESTAURANT ?",
+        "r": "Au relevé du 23 octobre 2026, GARDENIA RESTAURANT était ouvert tous les jours sauf le dimanche. Dans le détail — lundi : de 11 h 30 à 14 h 30 et de 18 h à 22 h ; mardi : de 11 h à 14 h 30 et de 18 h à 22 h 30 ; mercredi : de 11 h 30 à 14 h 30 et de 18 h à 22 h ; jeudi : de 11 h à 14 h 30 et de 18 h à 22 h ; vendredi : de 11 h 30 à 14 h et de 18 h à 22 h ; samedi : de 18 h à 10 h ; dimanche : fermé. Ces horaires peuvent changer : un appel préalable reste conseillé."
+      },
+      {
+        "q": "GARDENIA RESTAURANT est-il ouvert le dimanche ?",
+        "r": "Non : d'après les horaires relevés le 23 octobre 2026, GARDENIA RESTAURANT est fermé le dimanche."
+      },
+      {
+        "q": "Où se trouve GARDENIA RESTAURANT ?",
+        "r": "GARDENIA RESTAURANT se trouve 14 Av. du Château d'Eau, 90000 Belfort. Un lien d'itinéraire est disponible sur cette page."
+      },
+      {
+        "q": "Comment contacter GARDENIA RESTAURANT ?",
+        "r": "Par téléphone au 07 53 78 66 34, ou directement sur place aux heures d'ouverture."
+      },
+      {
+        "q": "Peut-on réserver chez GARDENIA RESTAURANT ?",
+        "r": "Oui, la fiche Google de GARDENIA RESTAURANT indique que la réservation est possible, par téléphone au 07 53 78 66 34."
+      },
+      {
+        "q": "GARDENIA RESTAURANT propose-t-il la vente à emporter ou la livraison ?",
+        "r": "D'après sa fiche Google (relevé du 23 octobre 2026) — vente à emporter : oui ; livraison : oui."
+      },
+      {
+        "q": "Quel est le niveau de prix de GARDENIA RESTAURANT ?",
+        "r": "Google classe GARDENIA RESTAURANT au niveau de prix €€ (modéré), sur une échelle de € à €€€€ établie à partir des avis clients."
+      },
+      {
+        "q": "GARDENIA RESTAURANT est-il accessible aux personnes à mobilité réduite ?",
+        "r": "La fiche Google de l'établissement mentionne : « Entrée accessible en fauteuil roulant ». Cette information est déclarative ; en cas de doute, vérifiez par téléphone."
+      }
+    ],
+    "genere_le": "2026-10-23"
+  },
+  "statut_google": "OPERATIONAL",
+  "audience": {
+    "clics": 0,
+    "impressions": 0,
+    "position": null,
+    "fenetreJours": 90,
+    "clicsRecents": 0,
+    "fenetreRecenteJours": 28,
+    "source": "search-console",
+    "date": "2026-10-23"
+  }
+}

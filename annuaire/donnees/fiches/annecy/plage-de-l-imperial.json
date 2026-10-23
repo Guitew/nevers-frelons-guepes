@@ -112,8 +112,8 @@
     "etat": "absent",
     "premiere_detection": null,
     "derniere_detection": null,
-    "derniere_verification": "2026-10-09T16:58:32.124Z",
-    "echecs": 65,
+    "derniere_verification": "2026-10-23T09:59:51.184Z",
+    "echecs": 66,
     "url_detectee": null
   },
   "suggestion": {
@@ -131,7 +131,7 @@
   "dates": {
     "collecte": "2026-09-01",
     "publication": "2026-09-01",
-    "maj": "2026-10-19"
+    "maj": "2026-10-23"
   },
   "source": "google-places",
   "redaction": {
@@ -139,13 +139,23 @@
     "titre": "Plage de l'Impérial — Café ou bar à Annecy",
     "meta_titre": "Plage de l'Impérial à Annecy : horaires, avis",
     "meta_description": "Plage de l'Impérial, café ou bar à Annecy : horaires d'ouverture, note Google 4,2/5 (1861 avis), adresse et itinéraire.",
-    "chapo": "Plage de l'Impérial est un café ou bar au 30 Avenue d'Albigny, à Annecy. Ouvert sept jours sur sept au relevé du 18 octobre 2026. Note Google : 4,2 sur 5 pour 1861 avis.",
+    "chapo": "Plage de l'Impérial est un café ou bar au 30 Avenue d'Albigny, à Annecy. Ouvert sept jours sur sept au relevé du 23 octobre 2026. Note Google : 4,2 sur 5 pour 1861 avis.",
     "sections": [
       {
         "id": "presentation",
         "titre": "Plage de l'Impérial en quelques mots",
         "paragraphes": [
-          "D'après le relevé du 18 octobre 2026, l'établissement est ouvert sept jours sur sept. Le détail jour par jour figure plus bas."
+          "Présentation donnée par Google : « Plage familiale dotée de terrains de sport, d'une piscine et d'un toboggan aquatique. Entrée payante. »",
+          "D'après le relevé du 23 octobre 2026, l'établissement est ouvert sept jours sur sept. Le détail jour par jour figure plus bas."
+        ]
+      },
+      {
+        "id": "prestations",
+        "titre": "Services et équipements de Plage de l'Impérial",
+        "paragraphes": [
+          "Proposé : adapté aux enfants.",
+          "Moyens de paiement déclarés : carte bancaire, carte de débit et paiement sans contact.",
+          "Ces indications sont déclarées par l'établissement sur sa fiche Google (relevé du 23 octobre 2026)."
         ]
       },
       {
@@ -167,18 +177,18 @@
         "id": "avis",
         "titre": "La réputation de Plage de l'Impérial",
         "paragraphes": [
-          "Note de 4,2 sur 5 pour 1861 avis Google au relevé du 18 octobre 2026. Les avis se consultent sur la fiche Google, dont le lien figure sur cette page."
+          "Note de 4,2 sur 5 pour 1861 avis Google au relevé du 23 octobre 2026. Les avis les plus parlants sont compilés ci-dessous, avec un lien vers la fiche d'origine."
         ]
       }
     ],
     "faq": [
       {
         "q": "Quels sont les horaires de Plage de l'Impérial ?",
-        "r": "Au relevé du 18 octobre 2026, Plage de l'Impérial était ouvert sept jours sur sept. Dans le détail — lundi : de 10 h à 19 h ; mardi : de 10 h à 19 h ; mercredi : de 10 h à 19 h ; jeudi : de 10 h à 19 h ; vendredi : de 10 h à 19 h ; samedi : de 10 h à 19 h ; dimanche : de 10 h à 19 h. Ces horaires peuvent changer : un appel préalable reste conseillé."
+        "r": "Au relevé du 23 octobre 2026, Plage de l'Impérial était ouvert sept jours sur sept. Dans le détail — lundi : de 10 h à 19 h ; mardi : de 10 h à 19 h ; mercredi : de 10 h à 19 h ; jeudi : de 10 h à 19 h ; vendredi : de 10 h à 19 h ; samedi : de 10 h à 19 h ; dimanche : de 10 h à 19 h. Ces horaires peuvent changer : un appel préalable reste conseillé."
       },
       {
         "q": "Plage de l'Impérial est-il ouvert le dimanche ?",
-        "r": "Oui : le dimanche, Plage de l'Impérial est ouvert de 10 h à 19 h (horaires relevés le 18 octobre 2026)."
+        "r": "Oui : le dimanche, Plage de l'Impérial est ouvert de 10 h à 19 h (horaires relevés le 23 octobre 2026)."
       },
       {
         "q": "Où se trouve Plage de l'Impérial ?",
@@ -189,7 +199,7 @@
         "r": "La fiche Google de l'établissement mentionne : « Entrée accessible en fauteuil roulant ». Cette information est déclarative ; en cas de doute, vérifiez par téléphone."
       }
     ],
-    "genere_le": "2026-10-18"
+    "genere_le": "2026-10-23"
   },
   "statut_google": "OPERATIONAL",
   "audience": {
@@ -200,7 +210,7 @@
     "clicsRecents": 0,
     "fenetreRecenteJours": 28,
     "source": "search-console",
-    "date": "2026-10-22"
+    "date": "2026-10-23"
   },
   "indexation": {
     "etat": "non-indexee",
@@ -210,5 +220,69 @@
     "canonique_google": null,
     "source": "inspection",
     "date": "2026-10-19"
+  },
+  "avis_detail": {
+    "releve": "2026-10-23",
+    "liste": [
+      {
+        "note": 4,
+        "texte": "Un petit coin bien agréable à Annecy ! 🌊☀️ La plage de l’Impérial offre un joli cadre au bord du lac, avec une belle vue sur les montagnes. Un endroit sympa pour se détendre et profiter du paysage. À noter toutefois : l’entrée est payante, 4 € par personne. Cela reste une belle plage à découvrir lors d’un passage en Haute-Savoie ! 😊🏔️",
+        "langue": "fr",
+        "date": "2026-08-18",
+        "auteur": "Oncle Jo",
+        "auteur_lien": "https://www.google.com/maps/contrib/115968494146267568852/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2t0NUxVRk5Ramx1V0Zkb2VXRm1iMWhMTVdWNFYyYxAB!2m1!1s0x478b8fc2998102a5:0x4b79b5436cb15d4a"
+      },
+      {
+        "note": 4,
+        "texte": "Enfin la tranquillité retrouvée ... Ciao incivilités et enceintes Bluetooth , quel Bonheur !!!\nJe mettrais toutefois un bémol quant à l’espace matelas du Pop Plage... Dès 17h le volume sonore musical se lâche,  nous sommes plongés dans un univers de boîte de nuit. C’est beaucoup trop fort pour une plage où l’on recherche la tranquillité et la beauté du paysage.\nPeut-être attendre 19h heure de l’Apéro pour cet endroit magnifique ?",
+        "langue": "fr",
+        "date": "2026-08-18",
+        "auteur": "Emmanuelle troibulle",
+        "auteur_lien": "https://www.google.com/maps/contrib/110956501532888643764/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT21WaU0wWlRaR1JDYkhWTFJIVlRTRGREVEY5VGNsRRAB!2m1!1s0x478b8fc2998102a5:0x4b79b5436cb15d4a"
+      },
+      {
+        "note": 5,
+        "texte": "Plage payante (4€ par adulte, si carte de mobilité réduite, le même prix mais pour les 2, l'accompagnant et la personne). Beau espace avec de l'ombre,  un petit café pour ne pas aller au bar du  Pop Plage. On se sent en sécurité avec un service present et des agents qui font leur ronde.\nLa vue est magnifique aussi bien sûr Annecy que sur les montagnes.",
+        "langue": "fr",
+        "date": "2026-08-17",
+        "auteur": "Francoise Bruyere",
+        "auteur_lien": "https://www.google.com/maps/contrib/103018626142389888478/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2pCQ2VtTkxRbEUyU21oTmNYUmtSREpuWTFKMFJXYxAB!2m1!1s0x478b8fc2998102a5:0x4b79b5436cb15d4a"
+      },
+      {
+        "note": 3,
+        "texte": "Franchement c'est cher payé pour ça,  c'est pareil que les plages gratuites,  autant de monde.... rien d'exceptionnel,  je trouve ça abusé le prix de 4e par personne,  pour avoir un petit bout d'herbe pas forcément d'ombre car tout le monde cherche l'ombre et donc pas de place,  en plus quand on arrive en fin de journée juste pour 2 ou 3h , ça fait mal d'avoir donné 4€. Passez votre chemin , vous trouverez une petite place sur les plages gratuites c'est pareil, c'est juste du capitalisme",
+        "langue": "fr",
+        "date": "2026-08-11",
+        "auteur": "Vanessa B",
+        "auteur_lien": "https://www.google.com/maps/contrib/118047809796839341521/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2pKaWVsTjNaR2xZV1VKeVExZHhPRTlhYW1OZlIzYxAB!2m1!1s0x478b8fc2998102a5:0x4b79b5436cb15d4a"
+      },
+      {
+        "note": 5,
+        "texte": "Annecy entre ville et montagne\nMagnifiques paysages\nSuperbe la vieille ville ainsi que les, alentours\nNous avons passé un agréable séjour et nous nous sommes baignés dans le lac (eau propre on y voit à travers)  Nous retournerons dans la, région pour  essayer d'aller à Genève qui est à environ 1h30 d'Annecy\nSéjour à faire absolument!",
+        "langue": "fr",
+        "date": "2025-09-23",
+        "auteur": "Titine mica",
+        "auteur_lien": "https://www.google.com/maps/contrib/115623514890521071247/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2pBM1lrbE1aSE5DTVc5M2VtdGZRMlJxYjNjeVRsRRAB!2m1!1s0x478b8fc2998102a5:0x4b79b5436cb15d4a"
+      }
+    ]
+  },
+  "services": {
+    "releve": "2026-10-23",
+    "resume": "Plage familiale dotée de terrains de sport, d'une piscine et d'un toboggan aquatique. Entrée payante.",
+    "resume_langue": "fr",
+    "options": {
+      "goodForChildren": true
+    },
+    "paiement": [
+      "carte bancaire",
+      "carte de débit",
+      "paiement sans contact"
+    ],
+    "parking": []
   }
 }

@@ -3,7 +3,7 @@
   "slug": "restaurant-l-auberge-des-tables",
   "nom": "Restaurant l'Auberge des Tables",
   "categorie": "restaurants",
-  "categorie_gmb": "Restaurant",
+  "categorie_gmb": "Restaurant français",
   "type_principal": "restaurant",
   "types": [
     "restaurant",
@@ -39,8 +39,8 @@
     "etat": "absent",
     "premiere_detection": null,
     "derniere_detection": null,
-    "derniere_verification": "2026-10-09T16:58:32.124Z",
-    "echecs": 60,
+    "derniere_verification": "2026-10-23T09:59:51.184Z",
+    "echecs": 61,
     "url_detectee": null
   },
   "suggestion": {
@@ -58,7 +58,7 @@
   "dates": {
     "collecte": "2026-09-03",
     "publication": "2026-09-03",
-    "maj": "2026-10-19"
+    "maj": "2026-10-23"
   },
   "source": "google-places",
   "redaction": {
@@ -72,7 +72,18 @@
         "id": "presentation",
         "titre": "Restaurant l'Auberge des Tables en quelques mots",
         "paragraphes": [
-          "Restaurant l'Auberge des Tables est référencé dans la rubrique Restaurant à Le Puy-en-Velay. Les informations de cette page proviennent de sa fiche Google publique, relevée le 18 octobre 2026."
+          "Sur Google, l'établissement est classé « Restaurant français », dans notre rubrique Restaurant.",
+          "Niveau de prix indiqué sur la fiche Google : €€ (modéré)."
+        ]
+      },
+      {
+        "id": "prestations",
+        "titre": "Services et équipements de Restaurant l'Auberge des Tables",
+        "paragraphes": [
+          "Proposé : sur place, réservation possible, petit-déjeuner, déjeuner, dîner, café, bière, vin, cocktails, menu enfant, adapté aux groupes et toilettes.",
+          "Non proposé selon la fiche Google : à emporter, livraison, brunch, retransmissions sportives et musique live.",
+          "Moyens de paiement déclarés : carte bancaire et carte de débit.",
+          "Ces indications sont déclarées par l'établissement sur sa fiche Google (relevé du 23 octobre 2026)."
         ]
       },
       {
@@ -87,14 +98,15 @@
         "id": "contact",
         "titre": "Contacter Restaurant l'Auberge des Tables",
         "paragraphes": [
-          "Le contact se fait par téléphone au 07 68 59 73 84, ou directement sur place aux horaires d'ouverture."
+          "Le contact se fait par téléphone au 07 68 59 73 84, ou directement sur place aux horaires d'ouverture.",
+          "La fiche Google indique que la réservation est possible."
         ]
       },
       {
         "id": "avis",
         "titre": "La réputation de Restaurant l'Auberge des Tables",
         "paragraphes": [
-          "Note de 3,9 sur 5 pour 376 avis Google au relevé du 18 octobre 2026. Les avis se consultent sur la fiche Google, dont le lien figure sur cette page."
+          "Note de 3,9 sur 5 pour 376 avis Google au relevé du 23 octobre 2026. Les avis les plus parlants sont compilés ci-dessous, avec un lien vers la fiche d'origine."
         ]
       }
     ],
@@ -106,9 +118,21 @@
       {
         "q": "Comment contacter Restaurant l'Auberge des Tables ?",
         "r": "Par téléphone au 07 68 59 73 84, ou directement sur place aux heures d'ouverture."
+      },
+      {
+        "q": "Peut-on réserver chez Restaurant l'Auberge des Tables ?",
+        "r": "Oui, la fiche Google de Restaurant l'Auberge des Tables indique que la réservation est possible, par téléphone au 07 68 59 73 84."
+      },
+      {
+        "q": "Restaurant l'Auberge des Tables propose-t-il la vente à emporter ou la livraison ?",
+        "r": "D'après sa fiche Google (relevé du 23 octobre 2026) — vente à emporter : non ; livraison : non."
+      },
+      {
+        "q": "Quel est le niveau de prix de Restaurant l'Auberge des Tables ?",
+        "r": "Google classe Restaurant l'Auberge des Tables au niveau de prix €€ (modéré), sur une échelle de € à €€€€ établie à partir des avis clients."
       }
     ],
-    "genere_le": "2026-10-18"
+    "genere_le": "2026-10-23"
   },
   "statut_google": "OPERATIONAL",
   "audience": {
@@ -119,7 +143,7 @@
     "clicsRecents": 0,
     "fenetreRecenteJours": 28,
     "source": "search-console",
-    "date": "2026-10-22"
+    "date": "2026-10-23"
   },
   "indexation": {
     "etat": "non-indexee",
@@ -129,5 +153,83 @@
     "canonique_google": null,
     "source": "inspection",
     "date": "2026-10-19"
+  },
+  "avis_detail": {
+    "releve": "2026-10-23",
+    "liste": [
+      {
+        "note": 5,
+        "texte": "Venus par hasard, nous n avons pas regretté notre choix. Mojitos auvergnats très bons sans forcer sur la quantité de glaçons comme dans certains restos concurrents. Suivis d une salade fraîcheur et d une salade auvergnate très appréciées en ces périodes de fortes chaleurs.\nTrès copieuses pour un midi.\nNous reviendrons à notre prochain séjour",
+        "langue": "fr",
+        "date": "2026-07-13",
+        "auteur": "Vanessa Morizot",
+        "auteur_lien": "https://www.google.com/maps/contrib/106537806662442006719/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xoMFpXWkxXazFNTldaR1ZrTldORXBXYjA1QmVFRRAB!2m1!1s0x47f5fb10362f1f6b:0xa103bbd00b74ccef"
+      },
+      {
+        "note": 4,
+        "texte": "C'est un bon restaurant, bon rapport qualité-prix. Des plats locaux bien préparés. L'accueil et le service sont bienveillants et très bien professionnels malgré mes 4 étoiles, attente un peu longue et plats quasiment froids pour la moitié des convives. Malgré ce point de détail, un agréable moment passé dans cet établissement.",
+        "langue": "fr",
+        "date": "2026-05-03",
+        "auteur": "didier paya",
+        "auteur_lien": "https://www.google.com/maps/contrib/110651547853065422715/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT21kbVoyeEdUelpmYkVSUGJEaGtTM05TVDJKemMxRRAB!2m1!1s0x47f5fb10362f1f6b:0xa103bbd00b74ccef"
+      },
+      {
+        "note": 5,
+        "texte": "Ambiance sympathique et service rapide. Plat du jour excellent. Réciter le nôtre Bière, affiché dans le restaurant réconforte après l'ascension vers la très imposante cathédrale (plus de 120 marches) et encore 200 pour aller à la statue.",
+        "langue": "fr",
+        "date": "2026-04-16",
+        "auteur": "Hubert Capes",
+        "auteur_lien": "https://www.google.com/maps/contrib/101690557502019415059/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2pVMlJHWkxjV1U0UlRCd1JYbzBUVlE0TjNWWldrRRAB!2m1!1s0x47f5fb10362f1f6b:0xa103bbd00b74ccef"
+      },
+      {
+        "note": 4,
+        "texte": "Très bonne table, dans la rue qui monte à la cathédrale\nLe choix de faire des ardoises découvertes est un très bon choix.\nLe lieux est très convivial.\nNous recommandons sans réserve.",
+        "langue": "fr",
+        "date": "2025-09-13",
+        "auteur": "Dominique Moreau-Lafont",
+        "auteur_lien": "https://www.google.com/maps/contrib/106614206824714273047/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25aaFVEUXdOMTlYWDNjM1ZqaEllakpvY0dZeFZrRRAB!2m1!1s0x47f5fb10362f1f6b:0xa103bbd00b74ccef"
+      },
+      {
+        "note": 5,
+        "texte": "À chaque fois que je passe au Puy-en-Velay c'est un arrêt que je ne loupe jamais. Client depuis 2016 et après une longue trêve, retour cette année et tout est toujours parfait.\nPersonnel accueillant, chaleureux,on se sent comme à la maison.\nCuisine simple mais excellente avec quelques spécialités locales. Très bon rapport qualité prix et très joli site bien fleuri. Boisson, repas, dessert et café pour un ticket moyen de 25€.\nVraiment au top avec un personnel super sympa 👍",
+        "langue": "fr",
+        "date": "2025-08-20",
+        "auteur": "Henri Bouvier",
+        "auteur_lien": "https://www.google.com/maps/contrib/113359929740412059096/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT210YVdHcFZXa3RGV1VsVloxbzNabVZVVVc5b1ZXYxAB!2m1!1s0x47f5fb10362f1f6b:0xa103bbd00b74ccef"
+      }
+    ]
+  },
+  "services": {
+    "releve": "2026-10-23",
+    "prix": "PRICE_LEVEL_MODERATE",
+    "options": {
+      "dineIn": true,
+      "takeout": false,
+      "delivery": false,
+      "reservable": true,
+      "servesBreakfast": true,
+      "servesBrunch": false,
+      "servesLunch": true,
+      "servesDinner": true,
+      "servesCoffee": true,
+      "servesBeer": true,
+      "servesWine": true,
+      "servesCocktails": true,
+      "menuForChildren": true,
+      "goodForGroups": true,
+      "goodForWatchingSports": false,
+      "liveMusic": false,
+      "restroom": true
+    },
+    "paiement": [
+      "carte bancaire",
+      "carte de débit"
+    ],
+    "parking": []
   }
 }

@@ -128,8 +128,8 @@
     "etat": "absent",
     "premiere_detection": null,
     "derniere_detection": null,
-    "derniere_verification": "2026-10-09T16:58:32.124Z",
-    "echecs": 59,
+    "derniere_verification": "2026-10-23T09:59:51.184Z",
+    "echecs": 60,
     "url_detectee": null
   },
   "suggestion": {
@@ -147,7 +147,7 @@
   "dates": {
     "collecte": "2026-09-03",
     "publication": "2026-09-03",
-    "maj": "2026-10-19"
+    "maj": "2026-10-23"
   },
   "source": "google-places",
   "redaction": {
@@ -155,14 +155,23 @@
     "titre": "Société Nouvelle SIAB — Garage et automobile à Tarbes",
     "meta_titre": "Société Nouvelle SIAB à Tarbes : horaires, avis, téléphone",
     "meta_description": "Société Nouvelle SIAB, garage et automobile à Tarbes : horaires d'ouverture, note Google 4,3/5 (294 avis), téléphone, adresse et itinéraire.",
-    "chapo": "Société Nouvelle SIAB est un garage et automobile au 13 Rue des Gargousses, à Tarbes. Ouvert tous les jours sauf le dimanche au relevé du 18 octobre 2026. Téléphone : 05 62 36 45 73. Note Google : 4,3 sur 5 pour 294 avis.",
+    "chapo": "Société Nouvelle SIAB est un garage et automobile au 13 Rue des Gargousses, à Tarbes. Ouvert tous les jours sauf le dimanche au relevé du 23 octobre 2026. Téléphone : 05 62 36 45 73. Note Google : 4,3 sur 5 pour 294 avis.",
     "sections": [
       {
         "id": "presentation",
         "titre": "Société Nouvelle SIAB en quelques mots",
         "paragraphes": [
           "Sur Google, l'établissement est classé « Magasin de pièces de rechange automobiles », dans notre rubrique Garage et automobile.",
-          "D'après le relevé du 18 octobre 2026, l'établissement est ouvert tous les jours sauf le dimanche. Le détail jour par jour figure plus bas."
+          "D'après le relevé du 23 octobre 2026, l'établissement est ouvert tous les jours sauf le dimanche. Le détail jour par jour figure plus bas."
+        ]
+      },
+      {
+        "id": "prestations",
+        "titre": "Services et équipements de Société Nouvelle SIAB",
+        "paragraphes": [
+          "Non proposé selon la fiche Google : retrait en voiture.",
+          "Moyens de paiement déclarés : carte bancaire, carte de débit et paiement sans contact.",
+          "Ces indications sont déclarées par l'établissement sur sa fiche Google (relevé du 23 octobre 2026)."
         ]
       },
       {
@@ -184,18 +193,18 @@
         "id": "avis",
         "titre": "La réputation de Société Nouvelle SIAB",
         "paragraphes": [
-          "Note de 4,3 sur 5 pour 294 avis Google au relevé du 18 octobre 2026. Les avis se consultent sur la fiche Google, dont le lien figure sur cette page."
+          "Note de 4,3 sur 5 pour 294 avis Google au relevé du 23 octobre 2026. Les avis les plus parlants sont compilés ci-dessous, avec un lien vers la fiche d'origine."
         ]
       }
     ],
     "faq": [
       {
         "q": "Quels sont les horaires de Société Nouvelle SIAB ?",
-        "r": "Au relevé du 18 octobre 2026, Société Nouvelle SIAB était ouvert tous les jours sauf le dimanche. Dans le détail — lundi : de 8 h à 12 h et de 14 h à 18 h 30 ; mardi : de 8 h à 12 h et de 14 h à 18 h 30 ; mercredi : de 8 h à 12 h et de 14 h à 18 h 30 ; jeudi : de 8 h à 12 h et de 14 h à 18 h 30 ; vendredi : de 8 h à 12 h et de 14 h à 18 h 30 ; samedi : de 9 h à 12 h ; dimanche : fermé. Ces horaires peuvent changer : un appel préalable reste conseillé."
+        "r": "Au relevé du 23 octobre 2026, Société Nouvelle SIAB était ouvert tous les jours sauf le dimanche. Dans le détail — lundi : de 8 h à 12 h et de 14 h à 18 h 30 ; mardi : de 8 h à 12 h et de 14 h à 18 h 30 ; mercredi : de 8 h à 12 h et de 14 h à 18 h 30 ; jeudi : de 8 h à 12 h et de 14 h à 18 h 30 ; vendredi : de 8 h à 12 h et de 14 h à 18 h 30 ; samedi : de 9 h à 12 h ; dimanche : fermé. Ces horaires peuvent changer : un appel préalable reste conseillé."
       },
       {
         "q": "Société Nouvelle SIAB est-il ouvert le dimanche ?",
-        "r": "Non : d'après les horaires relevés le 18 octobre 2026, Société Nouvelle SIAB est fermé le dimanche."
+        "r": "Non : d'après les horaires relevés le 23 octobre 2026, Société Nouvelle SIAB est fermé le dimanche."
       },
       {
         "q": "Où se trouve Société Nouvelle SIAB ?",
@@ -210,7 +219,7 @@
         "r": "La fiche Google de l'établissement mentionne : « Entrée accessible en fauteuil roulant ». Cette information est déclarative ; en cas de doute, vérifiez par téléphone."
       }
     ],
-    "genere_le": "2026-10-18"
+    "genere_le": "2026-10-23"
   },
   "statut_google": "OPERATIONAL",
   "audience": {
@@ -221,7 +230,7 @@
     "clicsRecents": 0,
     "fenetreRecenteJours": 28,
     "source": "search-console",
-    "date": "2026-10-22"
+    "date": "2026-10-23"
   },
   "indexation": {
     "etat": "non-indexee",
@@ -231,5 +240,67 @@
     "canonique_google": null,
     "source": "inspection",
     "date": "2026-10-19"
+  },
+  "avis_detail": {
+    "releve": "2026-10-23",
+    "liste": [
+      {
+        "note": 5,
+        "texte": "Impeccable, vendeurs compétant et de très bons conseils. Je recommande car je prends tout uniquement chez eux 👍",
+        "langue": "fr",
+        "date": "2026-07-22",
+        "auteur": "wil para",
+        "auteur_lien": "https://www.google.com/maps/contrib/104896586668056902098/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25WblRXODRSVlp1T0hKeFMzRk5kRk5wTTJKU1FtYxAB!2m1!1s0x12a9d3e96d470ac7:0x92c6a2fe21ab240a"
+      },
+      {
+        "note": 1,
+        "texte": "Bonjour on n’a essayé d’appeler pendant plus d’une heure et personne n’a décroché le samedi 27 juin de 11h à 12h sa devient catastrophique",
+        "langue": "fr",
+        "date": "2026-06-27",
+        "auteur": "Guy Clarens",
+        "auteur_lien": "https://www.google.com/maps/contrib/102681202450267249392/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2tzNFZHcDRVWGRpVXpaMk1FNDRhRUU1TjJKeVYxRRAB!2m1!1s0x12a9d3e96d470ac7:0x92c6a2fe21ab240a"
+      },
+      {
+        "note": 5,
+        "texte": "Efficace et rapide ! J'avais besoin d'une pièce en urgence et l'équipe SIAB a été au top. Commande simple, service fluide et surtout des prix très corrects. Ma voiture est déjà de retour sur la route, merci encore !",
+        "langue": "fr",
+        "date": "2026-04-15",
+        "auteur": "Luc DL",
+        "auteur_lien": "https://www.google.com/maps/contrib/104181680377362757742/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xoV1NqQklNa3BwVkRCUWVWRk9hRXBNT1RaaGNGRRAB!2m1!1s0x12a9d3e96d470ac7:0x92c6a2fe21ab240a"
+      },
+      {
+        "note": 1,
+        "texte": "Je suis tombé sur un vendeur peu aimable qui m’a commandé une pièce qui ne correspondait pas , malgré lui avoir fourni la carte grise et la pièce défectueuse . J’ai dû recommander sur internet avec de meilleures conseils et moins cher.",
+        "langue": "fr",
+        "date": "2025-06-27",
+        "auteur": "Hakim Meliani",
+        "auteur_lien": "https://www.google.com/maps/contrib/115515592833619572190/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25GUFpGZDBVWGhIZUVkbmFFcFhjWGMxV0ZwMFVsRRAB!2m1!1s0x12a9d3e96d470ac7:0x92c6a2fe21ab240a"
+      },
+      {
+        "note": 1,
+        "texte": "Très mauvaise organisation et accueil du client médiocre. Le client attend, attend... sans que personne ne vienne s'enquérir de quoi que ce soit, même au bout de 25 min d'attente alors que les 2 comptoirs sont toujours occupés et loin d'être \"libérés\". Des \"professionnels\" arrivent récupérer leur commande et passe devant le client qui attend...\nJe ne consteste pas l'excellence des conseils reçus et le temps requis pour, mais il serait opportun de prévoir, quand c'est nécessaire, une personne pour l'accueil des clients \"sans conseil\" et leur achat rapide, même voire très rapide...",
+        "langue": "fr",
+        "date": "2025-02-05",
+        "auteur": "Vali Vali",
+        "auteur_lien": "https://www.google.com/maps/contrib/115784758298643539020/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnTUNBbjhUQTJBRRAB!2m1!1s0x12a9d3e96d470ac7:0x92c6a2fe21ab240a"
+      }
+    ]
+  },
+  "services": {
+    "releve": "2026-10-23",
+    "options": {
+      "curbsidePickup": false
+    },
+    "paiement": [
+      "carte bancaire",
+      "carte de débit",
+      "paiement sans contact"
+    ],
+    "parking": []
   }
 }

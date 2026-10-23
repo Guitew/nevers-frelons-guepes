@@ -1,0 +1,278 @@
+{
+  "id": "ChIJD5DWgYagk0cR9hY7bm-ebKk",
+  "slug": "le-cadre-noir",
+  "nom": "Le cadre noir",
+  "categorie": "mode-equipement-maison",
+  "categorie_gmb": "Magasin",
+  "type_principal": "store",
+  "types": [
+    "gift_shop",
+    "store",
+    "point_of_interest",
+    "establishment"
+  ],
+  "ville": "Épinal",
+  "ville_slug": "epinal",
+  "adresse": {
+    "rue": "10 Rue Georges de la Tour",
+    "code_postal": "88000",
+    "departement": "88",
+    "region": "Grand Est",
+    "pays": "France",
+    "complete": "10 Rue Georges de la Tour, 88000 Épinal"
+  },
+  "telephone": "03 29 35 17 71",
+  "geo": {
+    "latitude": 48.173491,
+    "longitude": 6.4464008999999995
+  },
+  "note": 4.6,
+  "avis": 194,
+  "horaires": [
+    {
+      "jour": 0,
+      "ferme": false,
+      "creneaux": [
+        [
+          "06:30",
+          "20:00"
+        ]
+      ]
+    },
+    {
+      "jour": 1,
+      "ferme": false,
+      "creneaux": [
+        [
+          "06:30",
+          "20:00"
+        ]
+      ]
+    },
+    {
+      "jour": 2,
+      "ferme": false,
+      "creneaux": [
+        [
+          "06:30",
+          "20:00"
+        ]
+      ]
+    },
+    {
+      "jour": 3,
+      "ferme": false,
+      "creneaux": [
+        [
+          "06:30",
+          "20:00"
+        ]
+      ]
+    },
+    {
+      "jour": 4,
+      "ferme": false,
+      "creneaux": [
+        [
+          "06:30",
+          "20:00"
+        ]
+      ]
+    },
+    {
+      "jour": 5,
+      "ferme": false,
+      "creneaux": [
+        [
+          "06:30",
+          "20:00"
+        ]
+      ]
+    },
+    {
+      "jour": 6,
+      "ferme": false,
+      "creneaux": [
+        [
+          "07:00",
+          "20:00"
+        ]
+      ]
+    }
+  ],
+  "attributs": [
+    "Parking accessible en fauteuil roulant"
+  ],
+  "lien_google": "https://maps.google.com/?cid=12208306891322496758&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
+  "site_web_gmb": null,
+  "statut": "publiee",
+  "backlink": {
+    "etat": "absent",
+    "premiere_detection": null,
+    "derniere_detection": null,
+    "derniere_verification": "2026-10-23T09:59:51.184Z",
+    "echecs": 1,
+    "url_detectee": null
+  },
+  "suggestion": {
+    "etat": "en-attente",
+    "date_soumission": null,
+    "tentatives": 0,
+    "date_email": "2026-10-23"
+  },
+  "retrait": null,
+  "dates": {
+    "collecte": "2026-10-23",
+    "publication": "2026-10-23",
+    "maj": "2026-10-23"
+  },
+  "source": "google-places",
+  "avis_detail": {
+    "releve": "2026-10-23",
+    "liste": [
+      {
+        "note": 5,
+        "texte": "Très bon accueil,clients sympas..ce matin on a bien rigolé ça fait du bien avec tout ce qui se passe actuellement..je recommande",
+        "langue": "fr",
+        "date": "2026-09-04",
+        "auteur": "Sophie",
+        "auteur_lien": "https://www.google.com/maps/contrib/102644422513233437636/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xoYVkwZDVVVVpQYm0wMWVETXdSMGN6UlhSb1oyYxAB!2m1!1s0x4793a08681d6900f:0xa96c9e6f6e3b16f6"
+      },
+      {
+        "note": 5,
+        "texte": "Très grand choix en cigare, bon accueil et de bon thé et café. Je recommande",
+        "langue": "fr",
+        "date": "2026-02-06",
+        "auteur": "Nathan",
+        "auteur_lien": "https://www.google.com/maps/contrib/109827220684101238309/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2tsNlJETkhPREZOVGxwcFRsaHNRbDluTFRSUmFuYxAB!2m1!1s0x4793a08681d6900f:0xa96c9e6f6e3b16f6"
+      },
+      {
+        "note": 5,
+        "texte": "Bonsoir merci a tte l equipe les 2 patronnes Mme la petite costaud rambo qui surveille contre les vols nikel du cadre noir musée epinal le monsieur avec son masque bar tabac nikel juste besoin de présenter le code pour l echange récupérer colis avec carte d identité rien n a faire l equipe s occupe de tt nikel merci passez une excellente soirée messieurs dames",
+        "langue": "fr",
+        "date": "2025-12-10",
+        "auteur": "Lebanner Sebastien",
+        "auteur_lien": "https://www.google.com/maps/contrib/107115632492316420194/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2pOS1RXMUtTbTVDV2pKUVZGRkZRWFJHYUhkWVNsRRAB!2m1!1s0x4793a08681d6900f:0xa96c9e6f6e3b16f6"
+      },
+      {
+        "note": 5,
+        "texte": "De passage à  Épinal\nJ'ai acheté des 🚬 cigarettes puis un jeu de grattage  ( oubli de celui-ci dans le magasin .)\nJe suis passé pour récupérer ce jeu sans réelle certitude.\nA ma grande surprise\nla vendeuse m'a immédiatement remis le ticket oublié.\nDe surcroît  ce couple s'avère  particulièrement  accueillant.\nCet endroit néanmoins est à  privilégier.\nBien cordialement.",
+        "langue": "fr",
+        "date": "2025-09-17",
+        "auteur": "Lucy Creusot",
+        "auteur_lien": "https://www.google.com/maps/contrib/103418298750836746990/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT21nelIydEZhV2haYkRaMmFFRktNMmhsWWpoZlZtYxAB!2m1!1s0x4793a08681d6900f:0xa96c9e6f6e3b16f6"
+      },
+      {
+        "note": 5,
+        "texte": "Une belle idée que de trouver dans un même lieu du café de qualité, du thé.. Et une belle cave a cigares ! Il y a même des Horacio 😎.\nService très sympathique. Bravo !",
+        "langue": "fr",
+        "date": "2024-02-16",
+        "auteur": "Lionel Guerin",
+        "auteur_lien": "https://www.google.com/maps/contrib/114919829492313364060/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUNkeGFtaHVBRRAB!2m1!1s0x4793a08681d6900f:0xa96c9e6f6e3b16f6"
+      }
+    ]
+  },
+  "services": {
+    "releve": "2026-10-23",
+    "options": {
+      "delivery": false
+    },
+    "paiement": [
+      "carte bancaire",
+      "carte de débit",
+      "paiement sans contact"
+    ],
+    "parking": []
+  },
+  "redaction": {
+    "version": 2,
+    "titre": "Le cadre noir — Mode et équipement de la maison à Épinal",
+    "meta_titre": "Le cadre noir à Épinal : horaires, avis, téléphone",
+    "meta_description": "Le cadre noir, mode et équipement de la maison à Épinal : horaires d'ouverture, note Google 4,6/5 (194 avis), téléphone, adresse et itinéraire.",
+    "chapo": "Le cadre noir, mode et équipement de la maison au 10 Rue Georges de la Tour, à Épinal. Ouvert sept jours sur sept au relevé du 23 octobre 2026. Téléphone : 03 29 35 17 71. Note Google : 4,6 sur 5 pour 194 avis.",
+    "sections": [
+      {
+        "id": "presentation",
+        "titre": "Le cadre noir en quelques mots",
+        "paragraphes": [
+          "Sur Google, l'établissement est classé « Magasin », dans notre rubrique Mode et équipement de la maison.",
+          "D'après le relevé du 23 octobre 2026, l'établissement est ouvert sept jours sur sept. Le détail jour par jour figure plus bas."
+        ]
+      },
+      {
+        "id": "prestations",
+        "titre": "Services et équipements de Le cadre noir",
+        "paragraphes": [
+          "Non proposé selon la fiche Google : livraison.",
+          "Moyens de paiement déclarés : carte bancaire, carte de débit et paiement sans contact.",
+          "Ces indications sont déclarées par l'établissement sur sa fiche Google (relevé du 23 octobre 2026)."
+        ]
+      },
+      {
+        "id": "acces",
+        "titre": "Adresse et accès",
+        "paragraphes": [
+          "L'établissement est situé au 10 Rue Georges de la Tour, 88000 Épinal.",
+          "Coordonnées GPS : 48.17349, 6.44640. Le bouton Itinéraire de cette page ouvre la navigation."
+        ]
+      },
+      {
+        "id": "contact",
+        "titre": "Contacter Le cadre noir",
+        "paragraphes": [
+          "Le contact se fait par téléphone au 03 29 35 17 71, ou directement sur place aux horaires d'ouverture."
+        ]
+      },
+      {
+        "id": "avis",
+        "titre": "La réputation de Le cadre noir",
+        "paragraphes": [
+          "Note de 4,6 sur 5 pour 194 avis Google au relevé du 23 octobre 2026. Les avis les plus parlants sont compilés ci-dessous, avec un lien vers la fiche d'origine."
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "q": "Quels sont les horaires de Le cadre noir ?",
+        "r": "Au relevé du 23 octobre 2026, Le cadre noir était ouvert sept jours sur sept. Dans le détail — lundi : de 6 h 30 à 20 h ; mardi : de 6 h 30 à 20 h ; mercredi : de 6 h 30 à 20 h ; jeudi : de 6 h 30 à 20 h ; vendredi : de 6 h 30 à 20 h ; samedi : de 6 h 30 à 20 h ; dimanche : de 7 h à 20 h. Ces horaires peuvent changer : un appel préalable reste conseillé."
+      },
+      {
+        "q": "Le cadre noir est-il ouvert le dimanche ?",
+        "r": "Oui : le dimanche, Le cadre noir est ouvert de 7 h à 20 h (horaires relevés le 23 octobre 2026)."
+      },
+      {
+        "q": "Où se trouve Le cadre noir ?",
+        "r": "Le cadre noir se trouve 10 Rue Georges de la Tour, 88000 Épinal. Un lien d'itinéraire est disponible sur cette page."
+      },
+      {
+        "q": "Comment contacter Le cadre noir ?",
+        "r": "Par téléphone au 03 29 35 17 71, ou directement sur place aux heures d'ouverture."
+      },
+      {
+        "q": "Le cadre noir propose-t-il la vente à emporter ou la livraison ?",
+        "r": "D'après sa fiche Google (relevé du 23 octobre 2026) — livraison : non."
+      },
+      {
+        "q": "Le cadre noir est-il accessible aux personnes à mobilité réduite ?",
+        "r": "La fiche Google de l'établissement mentionne : « Parking accessible en fauteuil roulant ». Cette information est déclarative ; en cas de doute, vérifiez par téléphone."
+      }
+    ],
+    "genere_le": "2026-10-23"
+  },
+  "statut_google": "OPERATIONAL",
+  "audience": {
+    "clics": 0,
+    "impressions": 0,
+    "position": null,
+    "fenetreJours": 90,
+    "clicsRecents": 0,
+    "fenetreRecenteJours": 28,
+    "source": "search-console",
+    "date": "2026-10-23"
+  }
+}

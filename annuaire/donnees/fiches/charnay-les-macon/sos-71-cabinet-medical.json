@@ -27,7 +27,7 @@
     "longitude": 4.8118888
   },
   "note": 3.9,
-  "avis": 149,
+  "avis": 153,
   "horaires": [
     {
       "jour": 0,
@@ -107,8 +107,8 @@
     "etat": "absent",
     "premiere_detection": null,
     "derniere_detection": null,
-    "derniere_verification": "2026-10-09T16:58:32.124Z",
-    "echecs": 22,
+    "derniere_verification": "2026-10-23T09:59:51.184Z",
+    "echecs": 23,
     "url_detectee": null
   },
   "suggestion": {
@@ -121,22 +121,31 @@
   "dates": {
     "collecte": "2026-09-21",
     "publication": "2026-09-21",
-    "maj": "2026-10-09"
+    "maj": "2026-10-23"
   },
   "source": "google-places",
   "redaction": {
     "version": 2,
     "titre": "SOS 71- Cabinet médical — Médecin ou dentiste à Charnay-lès-Mâcon",
     "meta_titre": "SOS 71- Cabinet médical à Charnay-lès-Mâcon : horaires, avis",
-    "meta_description": "SOS 71- Cabinet médical, médecin ou dentiste à Charnay-lès-Mâcon : horaires d'ouverture, note Google 3,9/5 (149 avis), téléphone, adresse et itinéraire.",
-    "chapo": "Cette fiche présente SOS 71- Cabinet médical, un médecin ou dentiste au 9 Rue de la Chapelle, à Charnay-lès-Mâcon. Ouvert tous les jours sauf le dimanche au relevé du 9 octobre 2026. Téléphone : 03 85 20 12 00. Note Google : 3,9 sur 5 pour 149 avis.",
+    "meta_description": "SOS 71- Cabinet médical, médecin ou dentiste à Charnay-lès-Mâcon : horaires d'ouverture, note Google 3,9/5 (153 avis), téléphone, adresse et itinéraire.",
+    "chapo": "Cette fiche présente SOS 71- Cabinet médical, un médecin ou dentiste au 9 Rue de la Chapelle, à Charnay-lès-Mâcon. Ouvert tous les jours sauf le dimanche au relevé du 23 octobre 2026. Téléphone : 03 85 20 12 00. Note Google : 3,9 sur 5 pour 153 avis.",
     "sections": [
       {
         "id": "presentation",
         "titre": "SOS 71- Cabinet médical en quelques mots",
         "paragraphes": [
           "Sur Google, l'établissement est classé « Médecin », dans notre rubrique Médecin ou dentiste.",
-          "D'après le relevé du 9 octobre 2026, l'établissement est ouvert tous les jours sauf le dimanche. Le détail jour par jour figure plus bas."
+          "D'après le relevé du 23 octobre 2026, l'établissement est ouvert tous les jours sauf le dimanche. Le détail jour par jour figure plus bas."
+        ]
+      },
+      {
+        "id": "prestations",
+        "titre": "Services et équipements de SOS 71- Cabinet médical",
+        "paragraphes": [
+          "Proposé : toilettes.",
+          "Moyens de paiement déclarés : carte bancaire, carte de débit et paiement sans contact.",
+          "Ces indications sont déclarées par l'établissement sur sa fiche Google (relevé du 23 octobre 2026)."
         ]
       },
       {
@@ -158,18 +167,18 @@
         "id": "avis",
         "titre": "La réputation de SOS 71- Cabinet médical",
         "paragraphes": [
-          "Note de 3,9 sur 5 pour 149 avis Google au relevé du 9 octobre 2026. Les avis se consultent sur la fiche Google, dont le lien figure sur cette page."
+          "Note de 3,9 sur 5 pour 153 avis Google au relevé du 23 octobre 2026. Les avis les plus parlants sont compilés ci-dessous, avec un lien vers la fiche d'origine."
         ]
       }
     ],
     "faq": [
       {
         "q": "Quels sont les horaires de SOS 71- Cabinet médical ?",
-        "r": "Au relevé du 9 octobre 2026, SOS 71- Cabinet médical était ouvert tous les jours sauf le dimanche. Dans le détail — lundi : de 8 h à 18 h ; mardi : de 8 h à 18 h ; mercredi : de 8 h à 18 h ; jeudi : de 8 h à 18 h ; vendredi : de 8 h à 18 h ; samedi : de 8 h à 13 h ; dimanche : fermé. Ces horaires peuvent changer : un appel préalable reste conseillé."
+        "r": "Au relevé du 23 octobre 2026, SOS 71- Cabinet médical était ouvert tous les jours sauf le dimanche. Dans le détail — lundi : de 8 h à 18 h ; mardi : de 8 h à 18 h ; mercredi : de 8 h à 18 h ; jeudi : de 8 h à 18 h ; vendredi : de 8 h à 18 h ; samedi : de 8 h à 13 h ; dimanche : fermé. Ces horaires peuvent changer : un appel préalable reste conseillé."
       },
       {
         "q": "SOS 71- Cabinet médical est-il ouvert le dimanche ?",
-        "r": "Non : d'après les horaires relevés le 9 octobre 2026, SOS 71- Cabinet médical est fermé le dimanche."
+        "r": "Non : d'après les horaires relevés le 23 octobre 2026, SOS 71- Cabinet médical est fermé le dimanche."
       },
       {
         "q": "Où se trouve SOS 71- Cabinet médical ?",
@@ -184,7 +193,7 @@
         "r": "La fiche Google de l'établissement mentionne : « Entrée accessible en fauteuil roulant ». Cette information est déclarative ; en cas de doute, vérifiez par téléphone."
       }
     ],
-    "genere_le": "2026-10-09"
+    "genere_le": "2026-10-23"
   },
   "statut_google": "OPERATIONAL",
   "audience": {
@@ -195,6 +204,68 @@
     "clicsRecents": 0,
     "fenetreRecenteJours": 28,
     "source": "search-console",
-    "date": "2026-10-22"
+    "date": "2026-10-23"
+  },
+  "avis_detail": {
+    "releve": "2026-10-23",
+    "liste": [
+      {
+        "note": 1,
+        "texte": "Je suis atterré par cette arnaque, on ne peut même plus appeler ça du soin, c'est un vrai business qui n'en porte que le nom.\nJe ne remets pas en cause la prescription médicale en elle même, mais le fait qu'ils annoncent noir sur blanc que l'acte ne dépassera pas 10 minutes, et pour un seul acte à la fois.\nConcrètement, si vous avez mal au ventre et de fortes douleurs musculaires dans le dos, chez eux, impossible de traiter les deux en même temps.\nMais le clou du spectacle, c'est le tarif. Vous pensez payer 34€, avec un remboursement de votre mutuelle sur la différence via le tiers payant, ici 21€, mais en réalité ce n'est pas ça du tout.\nL'acte médical coûte en fait 55€, sauf qu'ils se gardent bien de vous le préciser, et c'est votre mutuelle, ou vous même si vous n'en avez pas, qui payez les 34€ restants.\nJe trouve ça scandaleux qu'on ne dise rien aux patients.\nHeureusement que j'ai une mutuelle.\nRésultat, j'y suis allé avec mon fils, pour 20 minutes, et encore je suis gentil, ils nous ont pris 110€ !!!",
+        "langue": "fr",
+        "date": "2026-07-31",
+        "auteur": "Patrick",
+        "auteur_lien": "https://www.google.com/maps/contrib/109112496044052095041/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT200NFNIQkNZVE5YZHpSWGFscDNUVlF0UlROM09FRRAB!2m1!1s0x47f36f3a0803c3a5:0xc51e5da9cd43933b"
+      },
+      {
+        "note": 5,
+        "texte": "Très satisfaite de la disponibilité de rdv sur Doctolib, de l'accueil et des médecins  très professionnels et à l'écoute.\nConsultation complète avec un traitement adapté et des examens complémentaires.\nMerci à vous.",
+        "langue": "fr",
+        "date": "2026-07-30",
+        "auteur": "nathalie lenoir",
+        "auteur_lien": "https://www.google.com/maps/contrib/110872890752570399342/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT20xcVYwaGtWSEpCYlZwTmRFUmlaM3BmY2xkT00xRRAB!2m1!1s0x47f36f3a0803c3a5:0xc51e5da9cd43933b"
+      },
+      {
+        "note": 5,
+        "texte": "Docteur Tabarani est d’une gentillesse exceptionnelle et d’un professionnalisme irréprochable, il prend le temps d’écouter et répond avec clarté, et explique chaque étape avec une patience remarquable.\nSa manière d’accueillir, de mettre en confiance et de créer un climat apaisant témoigne d’un profond respect pour son métier et pour les personnes qu’il accompagne.\nC’est un médecin qui allie compétence, humanité et disponibilité, et dont l’implication se ressent dès les premiers échanges.",
+        "langue": "fr",
+        "date": "2026-07-13",
+        "auteur": "pinar tuna",
+        "auteur_lien": "https://www.google.com/maps/contrib/114570662862391290144/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2pkSE9HdFVVVGRFU1haYWJYUnZOa0U0TTFkTE9XYxAB!2m1!1s0x47f36f3a0803c3a5:0xc51e5da9cd43933b"
+      },
+      {
+        "note": 4,
+        "texte": "Ça dépanne ! Rv possible la veille pour le lendemain.\nCabinet privé donc honoraires libres,  tiers payant en place. Prévoyez une bonne mutuelle sinon le reste à charge est élevé.\nMa consultation : 55 €, un reste à charge de 34 € remboursé par ma mutuelle.",
+        "langue": "fr",
+        "date": "2026-07-11",
+        "auteur": "TessaLine",
+        "auteur_lien": "https://www.google.com/maps/contrib/116563957767224912517/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT205bGExZHVTSFZoZEVGVVdISk9OMU5QUVhkMFJFRRAB!2m1!1s0x47f36f3a0803c3a5:0xc51e5da9cd43933b"
+      },
+      {
+        "note": 5,
+        "texte": "Excellent cabinet mais alors l'accueil téléphonique ce jour 02/05/26 c'est une catastrophe !!\nUne certaine angélique si je ne dis pas de bêtises était très désagréable et mal luné.\nQu'elle change de metier si l'amabilité ne fait pas partie de son quotidien.\nLes autres filles sont super agréables par contre donc bravo.\nÉquipe médicale au top.",
+        "langue": "fr",
+        "date": "2026-05-02",
+        "auteur": "Ophélie Chaul",
+        "auteur_lien": "https://www.google.com/maps/contrib/118108136633975522528/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xwek4xcE5NV2gwVTJFMVRYUlFhbXRCZWpGSFpIYxAB!2m1!1s0x47f36f3a0803c3a5:0xc51e5da9cd43933b"
+      }
+    ]
+  },
+  "services": {
+    "releve": "2026-10-23",
+    "options": {
+      "restroom": true
+    },
+    "paiement": [
+      "carte bancaire",
+      "carte de débit",
+      "paiement sans contact"
+    ],
+    "parking": []
   }
 }

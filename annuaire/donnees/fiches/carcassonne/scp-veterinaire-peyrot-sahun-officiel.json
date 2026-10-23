@@ -26,8 +26,8 @@
     "latitude": 43.2224795,
     "longitude": 2.3609744
   },
-  "note": 4.7,
-  "avis": 873,
+  "note": 4.6,
+  "avis": 874,
   "horaires": [
     {
       "jour": 0,
@@ -127,8 +127,8 @@
     "etat": "absent",
     "premiere_detection": null,
     "derniere_detection": null,
-    "derniere_verification": "2026-10-09T16:58:32.124Z",
-    "echecs": 16,
+    "derniere_verification": "2026-10-23T09:59:51.184Z",
+    "echecs": 17,
     "url_detectee": null
   },
   "suggestion": {
@@ -141,7 +141,7 @@
   "dates": {
     "collecte": "2026-09-24",
     "publication": "2026-09-24",
-    "maj": "2026-10-09"
+    "maj": "2026-10-23"
   },
   "source": "google-places",
   "redaction": {
@@ -149,14 +149,23 @@
     "titre": "SCP vétérinaire Peyrot Sahun (OFFICIEL) — Vétérinaire et animaux à Carcassonne",
     "meta_titre": "SCP vétérinaire Peyrot Sahun (OFFICIEL) à Carcassonne",
     "meta_description": "SCP vétérinaire Peyrot Sahun (OFFICIEL), vétérinaire et animaux à Carcassonne : horaires d'ouverture, téléphone, adresse et itinéraire.",
-    "chapo": "SCP vétérinaire Peyrot Sahun (OFFICIEL), vétérinaire et animaux au 3 Rue des Pourpiers, à Carcassonne. Ouvert tous les jours sauf le dimanche au relevé du 9 octobre 2026. Téléphone : 04 68 47 10 24. Note Google : 4,7 sur 5 pour 873 avis.",
+    "chapo": "SCP vétérinaire Peyrot Sahun (OFFICIEL), vétérinaire et animaux au 3 Rue des Pourpiers, à Carcassonne. Ouvert tous les jours sauf le dimanche au relevé du 23 octobre 2026. Téléphone : 04 68 47 10 24. Note Google : 4,6 sur 5 pour 874 avis.",
     "sections": [
       {
         "id": "presentation",
         "titre": "SCP vétérinaire Peyrot Sahun (OFFICIEL) en quelques mots",
         "paragraphes": [
           "Sur Google, l'établissement est classé « Soins vétérinaires », dans notre rubrique Vétérinaire et animaux.",
-          "D'après le relevé du 9 octobre 2026, l'établissement est ouvert tous les jours sauf le dimanche. Le détail jour par jour figure plus bas."
+          "D'après le relevé du 23 octobre 2026, l'établissement est ouvert tous les jours sauf le dimanche. Le détail jour par jour figure plus bas."
+        ]
+      },
+      {
+        "id": "prestations",
+        "titre": "Services et équipements de SCP vétérinaire Peyrot Sahun (OFFICIEL)",
+        "paragraphes": [
+          "Proposé : toilettes.",
+          "Stationnement : parking gratuit et stationnement gratuit dans la rue.",
+          "Ces indications sont déclarées par l'établissement sur sa fiche Google (relevé du 23 octobre 2026)."
         ]
       },
       {
@@ -178,18 +187,18 @@
         "id": "avis",
         "titre": "La réputation de SCP vétérinaire Peyrot Sahun (OFFICIEL)",
         "paragraphes": [
-          "Note de 4,7 sur 5 pour 873 avis Google au relevé du 9 octobre 2026. Les avis se consultent sur la fiche Google, dont le lien figure sur cette page."
+          "Note de 4,6 sur 5 pour 874 avis Google au relevé du 23 octobre 2026. Les avis les plus parlants sont compilés ci-dessous, avec un lien vers la fiche d'origine."
         ]
       }
     ],
     "faq": [
       {
         "q": "Quels sont les horaires de SCP vétérinaire Peyrot Sahun (OFFICIEL) ?",
-        "r": "Au relevé du 9 octobre 2026, SCP vétérinaire Peyrot Sahun (OFFICIEL) était ouvert tous les jours sauf le dimanche. Dans le détail — lundi : de 8 h 30 à 12 h et de 14 h 30 à 19 h ; mardi : de 8 h 30 à 12 h et de 14 h 30 à 19 h ; mercredi : de 8 h 30 à 12 h et de 14 h 30 à 19 h ; jeudi : de 8 h 30 à 12 h et de 14 h 30 à 19 h ; vendredi : de 8 h 30 à 12 h et de 14 h 30 à 19 h ; samedi : de 8 h 30 à 12 h ; dimanche : fermé. Ces horaires peuvent changer : un appel préalable reste conseillé."
+        "r": "Au relevé du 23 octobre 2026, SCP vétérinaire Peyrot Sahun (OFFICIEL) était ouvert tous les jours sauf le dimanche. Dans le détail — lundi : de 8 h 30 à 12 h et de 14 h 30 à 19 h ; mardi : de 8 h 30 à 12 h et de 14 h 30 à 19 h ; mercredi : de 8 h 30 à 12 h et de 14 h 30 à 19 h ; jeudi : de 8 h 30 à 12 h et de 14 h 30 à 19 h ; vendredi : de 8 h 30 à 12 h et de 14 h 30 à 19 h ; samedi : de 8 h 30 à 12 h ; dimanche : fermé. Ces horaires peuvent changer : un appel préalable reste conseillé."
       },
       {
         "q": "SCP vétérinaire Peyrot Sahun (OFFICIEL) est-il ouvert le dimanche ?",
-        "r": "Non : d'après les horaires relevés le 9 octobre 2026, SCP vétérinaire Peyrot Sahun (OFFICIEL) est fermé le dimanche."
+        "r": "Non : d'après les horaires relevés le 23 octobre 2026, SCP vétérinaire Peyrot Sahun (OFFICIEL) est fermé le dimanche."
       },
       {
         "q": "Où se trouve SCP vétérinaire Peyrot Sahun (OFFICIEL) ?",
@@ -204,7 +213,7 @@
         "r": "La fiche Google de l'établissement mentionne : « Entrée accessible en fauteuil roulant ». Cette information est déclarative ; en cas de doute, vérifiez par téléphone."
       }
     ],
-    "genere_le": "2026-10-09"
+    "genere_le": "2026-10-23"
   },
   "statut_google": "OPERATIONAL",
   "audience": {
@@ -215,6 +224,67 @@
     "clicsRecents": 0,
     "fenetreRecenteJours": 28,
     "source": "search-console",
-    "date": "2026-10-22"
+    "date": "2026-10-23"
+  },
+  "avis_detail": {
+    "releve": "2026-10-23",
+    "liste": [
+      {
+        "note": 1,
+        "texte": "Très mauvaise expérience avec ce cabinet vétérinaire. J’ai malheureusement eu le sentiment d’avoir affaire à une véritable « usine à gaz » plutôt qu’à un cabinet qui prend le temps de suivre ses patients. Plusieurs chiens sont convoqués à la même heure, ce qui donne l’impression d’un fonctionnement à la chaîne, au détriment de l’écoute et de l’accompagnement.\n\nJe suis venue trois fois en moins de deux semaines pour mon chien, et malgré cela, je n’ai eu aucun véritable suivi. Je suis finalement allée voir un autre vétérinaire, et c’est elle qui m’a appris qu’un rappel de vaccin était à faire… alors que personne ne m’en avait parlé chez eux.\n\nMon chien a ensuite été diagnostiqué atteint de dysplasie de la hanche. Aucun accompagnement, aucune explication claire ne m’ont été donnés concernant cette maladie, son évolution, les précautions à prendre ou les solutions possibles. Lors d’une première consultation, j’étais pourtant venue parce qu’il avait mal à la hanche. Comme il était excité au moment du rendez-vous et qu’il ne boitait pas à cet instant-là, on m’a simplement dit que ce n’était probablement rien. Il a reçu une injection puis est reparti, sans véritable recherche de la cause de sa douleur.\n\nUne semaine plus tard, comme il souffrait toujours, je suis revenue. Une radio a enfin été réalisée, mais je n’ai jamais eu accès à cette radio ni au compte rendu. Mon nouveau vétérinaire m’a expliqué que ces éléments devaient normalement pouvoir m’être transmis.\n\nCe qui me dérange également, c’est le sentiment d’avoir été davantage considérée comme une cliente à facturer qu’une propriétaire inquiète pour son animal. J’ai eu l’impression que chaque visite ajoutait des actes et des frais, sans pour autant avoir en retour les explications et le suivi que j’attendais.\n\nOn m’a également expliqué qu’il aurait fallu détecter la dysplasie vers ses 6 mois. Or, à cet âge-là, mon chien ne présentait aucun symptôme : il était impossible pour moi de deviner qu’un problème existait et de consulter pour une maladie qui ne se manifestait pas.\n\nJe déconseille fortement ce cabinet. Un animal n’est pas un simple dossier ni une source de facturation : il mérite une prise en charge sérieuse, de l’écoute, de la transparence et un vrai accompagnement.",
+        "langue": "fr",
+        "date": "2026-07-15",
+        "auteur": "victoria petury",
+        "auteur_lien": "https://www.google.com/maps/contrib/103681086096105632187/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT21OamFVMWZXWEpzTTJObVJsbEVTUzFKTjBwcVFXYxAB!2m1!1s0x12ae2c220f1ec413:0xe6145e320288f048"
+      },
+      {
+        "note": 5,
+        "texte": "Nous étions en vacances et mon loulou est tombé malade j'ai appelé à 9 h et elle m'a dit de venir pour 11h , bon y avait un peu de retard mais ils avaient eux une opération  d'urgence donc voilà c'est  compréhensible , quand il s'agit de sauver un animal, ça n'a pas de prix.\nEt le personnel d'une gentillesse vraiment , très agréable souriante.\nMerci  beaucoup a votre équipe et en plus mon loulou est guéri donc doublement merci.  Bon courage à vous",
+        "langue": "fr",
+        "date": "2026-07-06",
+        "auteur": "nathalie girard",
+        "auteur_lien": "https://www.google.com/maps/contrib/109512164642532241675/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2pZMVRGTnplakZpWnpWeE5rVkZVa1JsY25Cdk1tYxAB!2m1!1s0x12ae2c220f1ec413:0xe6145e320288f048"
+      },
+      {
+        "note": 1,
+        "texte": "Clients habituels de cette clinique, toujours de bonnes expériences jusque-là hors cette fois-ci la prise en charge de notre animal a nécessité un transfert dans une autre clinique vétérinaire qui n’a visiblement pas plus à quelques membres du personnel. Sûrement un problème dego ? Ou autre ? Nous n’avions pas l’air d’être les bienvenus après leur avoir annoncer que le transfert allait avoir lieu. Merci tout de même aux autres membres du personnels qui ont su nous rassurés",
+        "langue": "fr",
+        "date": "2026-06-20",
+        "auteur": "Yassine Bouhenia",
+        "auteur_lien": "https://www.google.com/maps/contrib/105078339525826598504/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xkSVVuVlpibEZ1WTA0MFMxVXRkVTl1TTI5SFZGRRAB!2m1!1s0x12ae2c220f1ec413:0xe6145e320288f048"
+      },
+      {
+        "note": 5,
+        "texte": "Fidèle cliente, depuis le square ancien cabinet à aujourd'hui. J'ai toujours était bien accueillis, même sans rdv. Bien sur qu'il peut y avoir des erreurs, personne n'est infaillible. Je n'ai jamais trouvé une table salle et toujours à l'écoute. Mes expériences ont montrées que lorsqu'il n'y arrivait pas ,parce que ce n'est pas leur spécialité, il t'envoi ailleurs ,chez le véto avec cette compétence donc question bienveillance ,ils sont sérieux. Ils ont beaucoup de monde justement parce que ils sont sérieux et évidement beaucoup de travail. Je leur fait entièrement confiance. même pour les moments les plus difficiles je prie de tomber sur eux en tant que vétérinaires de garde ,pas par exemple la clinique salvavet qui euthanasie un chat sans l'endormir avant, je préfère ne pas raconter l'horreur. Le petit bémol c'est les tarifs, cela devient un peu cher.",
+        "langue": "fr",
+        "date": "2026-04-23",
+        "auteur": "Beatrice Barou",
+        "auteur_lien": "https://www.google.com/maps/contrib/111253442918433733406/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2pNMU9EWktiR0ZZYlZkR2RHOVJhalZYWlMwM2EwRRAB!2m1!1s0x12ae2c220f1ec413:0xe6145e320288f048"
+      },
+      {
+        "note": 1,
+        "texte": "Il y a 2 ans, mon bichon n'était pas bien, je l'amène chez PEYROT/ SAHUN, vétérinaires chez qui j'avais l'habitude d'aller depuis plusieurs années. Une assistante passe une échographie et m'annonce une tumeur avec pronostic vital engagé. Mr SAHUN me prose d'aller faire un scanner et me prends même un rdv pour  le jour même. Résultat du scanner : pas de tumeur mais 700 euros. Selon Mr SAHUN, c'était la prostate, puis les reins,puis le foie... comprimés changés, rechangés...le ventre de mon bichon gonflait... on le ponctionne, quelques jours après, ça regonfle, on re-ponctionne, quelques jours après, ça regonfle et on re-ponctionne. Ne sachant plus que faire, le vétérinaire me propose de , comme ils disent pudiquement, de l'endormir.  Je refuse et repart avec mon bichon dans les bras. 1200 euros quand même entre scanner et vétérinaire. C'était au mois d'avril 2023 et aujourd'hui, 2 ans après, Caramel vient de fêter ses 13 ans et il est en pleine forme.  J'ajoute que 3 mois après cet épisode, on m'a convoqué pour le rappel des vaccins et la personne qui avait \"vu\" une tumeur était plutôt génée mais n'a pas hésité à me faire payer 50 euros sachant qu'elle m'avait coutée très cher avec son échographie et son pronostic totalement faux. Depuis 2 ans, je n'ai plus eu besoin de voir un vétérinaire et mon bichon va très bien.",
+        "langue": "fr",
+        "date": "2025-06-02",
+        "auteur": "robert",
+        "auteur_lien": "https://www.google.com/maps/contrib/110351441088997540823/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VNdkE4SlQyaEl2SWZREAE!2m1!1s0x12ae2c220f1ec413:0xe6145e320288f048"
+      }
+    ]
+  },
+  "services": {
+    "releve": "2026-10-23",
+    "options": {
+      "restroom": true
+    },
+    "paiement": [],
+    "parking": [
+      "parking gratuit",
+      "stationnement gratuit dans la rue"
+    ]
   }
 }

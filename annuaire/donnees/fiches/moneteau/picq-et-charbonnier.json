@@ -28,8 +28,8 @@
     "latitude": 47.8308653,
     "longitude": 3.5758479999999997
   },
-  "note": 4,
-  "avis": 145,
+  "note": 3.9,
+  "avis": 146,
   "horaires": [
     {
       "jour": 0,
@@ -114,8 +114,8 @@
     "etat": "absent",
     "premiere_detection": null,
     "derniere_detection": null,
-    "derniere_verification": "2026-10-09T16:58:32.124Z",
-    "echecs": 64,
+    "derniere_verification": "2026-10-23T09:59:51.184Z",
+    "echecs": 65,
     "url_detectee": null
   },
   "suggestion": {
@@ -135,22 +135,30 @@
   "dates": {
     "collecte": "2026-09-01",
     "publication": "2026-09-01",
-    "maj": "2026-10-18"
+    "maj": "2026-10-23"
   },
   "source": "google-places",
   "redaction": {
     "version": 2,
     "titre": "Picq et Charbonnier — Transport et déménagement à Monéteau",
     "meta_titre": "Picq et Charbonnier à Monéteau : horaires, avis, téléphone",
-    "meta_description": "Picq et Charbonnier, transport et déménagement à Monéteau : horaires d'ouverture, note Google 4/5 (145 avis), téléphone, adresse et itinéraire.",
-    "chapo": "Cette fiche présente Picq et Charbonnier, un transport et déménagement au 25 Rue des Isles, à Monéteau. Ouvert sept jours sur sept au relevé du 18 octobre 2026. Téléphone : 03 86 42 10 84. Note Google : 4 sur 5 pour 145 avis.",
+    "meta_description": "Picq et Charbonnier, transport et déménagement à Monéteau : horaires d'ouverture, note Google 3,9/5 (146 avis), téléphone, adresse et itinéraire.",
+    "chapo": "Cette fiche présente Picq et Charbonnier, un transport et déménagement au 25 Rue des Isles, à Monéteau. Ouvert sept jours sur sept au relevé du 23 octobre 2026. Téléphone : 03 86 42 10 84. Note Google : 3,9 sur 5 pour 146 avis.",
     "sections": [
       {
         "id": "presentation",
         "titre": "Picq et Charbonnier en quelques mots",
         "paragraphes": [
           "Sur Google, l'établissement est classé « Entreprise de déménagement », dans notre rubrique Transport et déménagement.",
-          "D'après le relevé du 18 octobre 2026, l'établissement est ouvert sept jours sur sept. Le détail jour par jour figure plus bas."
+          "D'après le relevé du 23 octobre 2026, l'établissement est ouvert sept jours sur sept. Le détail jour par jour figure plus bas."
+        ]
+      },
+      {
+        "id": "prestations",
+        "titre": "Services et équipements de Picq et Charbonnier",
+        "paragraphes": [
+          "Proposé : toilettes.",
+          "Ces indications sont déclarées par l'établissement sur sa fiche Google (relevé du 23 octobre 2026)."
         ]
       },
       {
@@ -172,18 +180,18 @@
         "id": "avis",
         "titre": "La réputation de Picq et Charbonnier",
         "paragraphes": [
-          "Note de 4 sur 5 pour 145 avis Google au relevé du 18 octobre 2026. Les avis se consultent sur la fiche Google, dont le lien figure sur cette page."
+          "Note de 3,9 sur 5 pour 146 avis Google au relevé du 23 octobre 2026. Les avis les plus parlants sont compilés ci-dessous, avec un lien vers la fiche d'origine."
         ]
       }
     ],
     "faq": [
       {
         "q": "Quels sont les horaires de Picq et Charbonnier ?",
-        "r": "Au relevé du 18 octobre 2026, Picq et Charbonnier était ouvert sept jours sur sept. Dans le détail — lundi : de 8 h à 17 h 30 ; mardi : de 8 h à 17 h 30 ; mercredi : de 8 h à 17 h 30 ; jeudi : de 8 h à 17 h 30 ; vendredi : de 8 h à 17 h 30 ; samedi : de 8 h à 17 h 30 ; dimanche : de 8 h à 17 h 30. Ces horaires peuvent changer : un appel préalable reste conseillé."
+        "r": "Au relevé du 23 octobre 2026, Picq et Charbonnier était ouvert sept jours sur sept. Dans le détail — lundi : de 8 h à 17 h 30 ; mardi : de 8 h à 17 h 30 ; mercredi : de 8 h à 17 h 30 ; jeudi : de 8 h à 17 h 30 ; vendredi : de 8 h à 17 h 30 ; samedi : de 8 h à 17 h 30 ; dimanche : de 8 h à 17 h 30. Ces horaires peuvent changer : un appel préalable reste conseillé."
       },
       {
         "q": "Picq et Charbonnier est-il ouvert le dimanche ?",
-        "r": "Oui : le dimanche, Picq et Charbonnier est ouvert de 8 h à 17 h 30 (horaires relevés le 18 octobre 2026)."
+        "r": "Oui : le dimanche, Picq et Charbonnier est ouvert de 8 h à 17 h 30 (horaires relevés le 23 octobre 2026)."
       },
       {
         "q": "Où se trouve Picq et Charbonnier ?",
@@ -198,7 +206,7 @@
         "r": "La fiche Google de l'établissement mentionne : « Entrée accessible en fauteuil roulant ». Cette information est déclarative ; en cas de doute, vérifiez par téléphone."
       }
     ],
-    "genere_le": "2026-10-18"
+    "genere_le": "2026-10-23"
   },
   "statut_google": "OPERATIONAL",
   "audience": {
@@ -209,7 +217,7 @@
     "clicsRecents": 0,
     "fenetreRecenteJours": 28,
     "source": "search-console",
-    "date": "2026-10-22"
+    "date": "2026-10-23"
   },
   "indexation": {
     "etat": "non-indexee",
@@ -219,5 +227,63 @@
     "canonique_google": null,
     "source": "inspection",
     "date": "2026-10-18"
+  },
+  "avis_detail": {
+    "releve": "2026-10-23",
+    "liste": [
+      {
+        "note": 1,
+        "texte": "Ce matin, sur la route de Saint florentin en direction de Troyes, un chauffeur totalement inconscient m'a doublé sans aucune visibilité.\nBien évidemment, une voiture est arrivée en face et le chauffeur a dû se rabattre sur moi. Pour éviter une collision, j'ai dû piler. Je trouve cela inadmissible pour des chauffeurs qui se disent professionnels de la route ne soient pas capable de maintenir leur vitesse appropriée. Pour rappel cette route est à 80 kilomètres heure.",
+        "langue": "fr",
+        "date": "2026-09-28",
+        "auteur": "Georges Goncalves",
+        "auteur_lien": "https://www.google.com/maps/contrib/117078969209092868106/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xkTFZuZE9YekZUYjI1c1JFTldaVmhQVldGa0xWRRAB!2m1!1s0x47ee69d46957f9db:0x1c4dd12af4e82372"
+      },
+      {
+        "note": 5,
+        "texte": "Chauffeurs très respectueux et boulot bien fait contrairement aux commentaires notés... Pour ma part, rien à dire de négatif.",
+        "langue": "fr",
+        "date": "2026-07-02",
+        "auteur": "Jonathan Tapin",
+        "auteur_lien": "https://www.google.com/maps/contrib/117583594701359483928/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xOaVkxTjZRV2RIV2pabGFVWnpkMVpPYkZaNlNIYxAB!2m1!1s0x47ee69d46957f9db:0x1c4dd12af4e82372"
+      },
+      {
+        "note": 5,
+        "texte": "Un vrai labyrinthe mais j'ai Fini par trouver.\nPersonnel sympathique",
+        "langue": "fr",
+        "date": "2026-06-19",
+        "auteur": "Pierrette la merlésse",
+        "auteur_lien": "https://www.google.com/maps/contrib/114625930116843158890/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT21oQk1HaDBUa3RVTTFsUlMyVTRjMjR6Ymw4d01VRRAB!2m1!1s0x47ee69d46957f9db:0x1c4dd12af4e82372"
+      },
+      {
+        "note": 1,
+        "texte": "Même remarque que Salomé Valere mais le 7 mars 2025 ! À Malay le petit sur la route de Troyes à 15h30 entre Sens et le petit Villiers, au niveau du radar, un chauffeur d’un de vos poids lourds complètement fou nous a klaxonné et a fait mine de nous percuter par l’arrière alors qu’on nous roulions à la vitesse prescrite de 70 km/h. Ayant appelé vos services la dame à l’accueil (visiblement habituée) nous dit, je vous passe le chef des chauffeur et celui-ci(très désagréable et inintéressé par notre aventure) de nous encourager à appeler les gendarmes si nous ne sommes pas contents. Je fais ce post pour servir ce que de droit vis à vis de cette société indigne, en cas d’accident le moment venu pour qu’ils ne puissent pas dire que c’était la première fois. J’aime les routiers mais pas ceux-là !!!",
+        "langue": "fr",
+        "date": "2025-03-07",
+        "auteur": "Jean-Luc Chotard",
+        "auteur_lien": "https://www.google.com/maps/contrib/108760838715564833299/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnTUNRcDRqcGJnEAE!2m1!1s0x47ee69d46957f9db:0x1c4dd12af4e82372"
+      },
+      {
+        "note": 5,
+        "texte": "Entreprise multi cartes,pleine de ressources afin de satisfaire ces clients. Une équipe de conducteurs et d’affréteurs de qualité.",
+        "langue": "fr",
+        "date": "2018-05-13",
+        "auteur": "alain jouen",
+        "auteur_lien": "https://www.google.com/maps/contrib/111844718689337651417/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSURRdjl6cnpRRRAB!2m1!1s0x47ee69d46957f9db:0x1c4dd12af4e82372"
+      }
+    ]
+  },
+  "services": {
+    "releve": "2026-10-23",
+    "options": {
+      "restroom": true
+    },
+    "paiement": [],
+    "parking": []
   }
 }

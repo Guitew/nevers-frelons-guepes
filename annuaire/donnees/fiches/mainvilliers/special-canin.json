@@ -27,7 +27,7 @@
     "longitude": 1.4562357
   },
   "note": 4.5,
-  "avis": 548,
+  "avis": 550,
   "horaires": [
     {
       "jour": 0,
@@ -106,8 +106,8 @@
     "etat": "absent",
     "premiere_detection": null,
     "derniere_detection": null,
-    "derniere_verification": "2026-10-09T16:58:32.124Z",
-    "echecs": 3,
+    "derniere_verification": "2026-10-23T09:59:51.184Z",
+    "echecs": 4,
     "url_detectee": null
   },
   "suggestion": {
@@ -120,22 +120,32 @@
   "dates": {
     "collecte": "2026-10-07",
     "publication": "2026-10-07",
-    "maj": "2026-10-09"
+    "maj": "2026-10-23"
   },
   "source": "google-places",
   "redaction": {
     "version": 2,
     "titre": "Special Canin — Vétérinaire et animaux à Mainvilliers",
     "meta_titre": "Special Canin à Mainvilliers : horaires, avis, téléphone",
-    "meta_description": "Special Canin, vétérinaire et animaux à Mainvilliers : horaires d'ouverture, note Google 4,5/5 (548 avis), téléphone, adresse et itinéraire.",
-    "chapo": "Cette fiche présente Special Canin, un vétérinaire et animaux au 17 Rue Paul Langevin, à Mainvilliers. Ouvert tous les jours sauf le dimanche au relevé du 9 octobre 2026. Téléphone : 02 37 36 03 66. Note Google : 4,5 sur 5 pour 548 avis.",
+    "meta_description": "Special Canin, vétérinaire et animaux à Mainvilliers : horaires d'ouverture, note Google 4,5/5 (550 avis), téléphone, adresse et itinéraire.",
+    "chapo": "Cette fiche présente Special Canin, un vétérinaire et animaux au 17 Rue Paul Langevin, à Mainvilliers. Ouvert tous les jours sauf le dimanche au relevé du 23 octobre 2026. Téléphone : 02 37 36 03 66. Note Google : 4,5 sur 5 pour 550 avis.",
     "sections": [
       {
         "id": "presentation",
         "titre": "Special Canin en quelques mots",
         "paragraphes": [
           "Sur Google, l'établissement est classé « Animalerie », dans notre rubrique Vétérinaire et animaux.",
-          "D'après le relevé du 9 octobre 2026, l'établissement est ouvert tous les jours sauf le dimanche. Le détail jour par jour figure plus bas."
+          "D'après le relevé du 23 octobre 2026, l'établissement est ouvert tous les jours sauf le dimanche. Le détail jour par jour figure plus bas."
+        ]
+      },
+      {
+        "id": "prestations",
+        "titre": "Services et équipements de Special Canin",
+        "paragraphes": [
+          "Proposé : livraison.",
+          "Moyens de paiement déclarés : carte bancaire, carte de débit et paiement sans contact.",
+          "Stationnement : parking gratuit.",
+          "Ces indications sont déclarées par l'établissement sur sa fiche Google (relevé du 23 octobre 2026)."
         ]
       },
       {
@@ -157,18 +167,18 @@
         "id": "avis",
         "titre": "La réputation de Special Canin",
         "paragraphes": [
-          "Note de 4,5 sur 5 pour 548 avis Google au relevé du 9 octobre 2026. Les avis se consultent sur la fiche Google, dont le lien figure sur cette page."
+          "Note de 4,5 sur 5 pour 550 avis Google au relevé du 23 octobre 2026. Les avis les plus parlants sont compilés ci-dessous, avec un lien vers la fiche d'origine."
         ]
       }
     ],
     "faq": [
       {
         "q": "Quels sont les horaires de Special Canin ?",
-        "r": "Au relevé du 9 octobre 2026, Special Canin était ouvert tous les jours sauf le dimanche. Dans le détail — lundi : de 9 h 30 à 19 h ; mardi : de 9 h 30 à 19 h ; mercredi : de 9 h 30 à 19 h ; jeudi : de 9 h 30 à 19 h ; vendredi : de 9 h 30 à 19 h ; samedi : de 9 h 30 à 18 h 30 ; dimanche : fermé. Ces horaires peuvent changer : un appel préalable reste conseillé."
+        "r": "Au relevé du 23 octobre 2026, Special Canin était ouvert tous les jours sauf le dimanche. Dans le détail — lundi : de 9 h 30 à 19 h ; mardi : de 9 h 30 à 19 h ; mercredi : de 9 h 30 à 19 h ; jeudi : de 9 h 30 à 19 h ; vendredi : de 9 h 30 à 19 h ; samedi : de 9 h 30 à 18 h 30 ; dimanche : fermé. Ces horaires peuvent changer : un appel préalable reste conseillé."
       },
       {
         "q": "Special Canin est-il ouvert le dimanche ?",
-        "r": "Non : d'après les horaires relevés le 9 octobre 2026, Special Canin est fermé le dimanche."
+        "r": "Non : d'après les horaires relevés le 23 octobre 2026, Special Canin est fermé le dimanche."
       },
       {
         "q": "Où se trouve Special Canin ?",
@@ -179,11 +189,15 @@
         "r": "Par téléphone au 02 37 36 03 66, ou directement sur place aux heures d'ouverture."
       },
       {
+        "q": "Special Canin propose-t-il la vente à emporter ou la livraison ?",
+        "r": "D'après sa fiche Google (relevé du 23 octobre 2026) — livraison : oui."
+      },
+      {
         "q": "Special Canin est-il accessible aux personnes à mobilité réduite ?",
         "r": "La fiche Google de l'établissement mentionne : « Entrée accessible en fauteuil roulant ». Cette information est déclarative ; en cas de doute, vérifiez par téléphone."
       }
     ],
-    "genere_le": "2026-10-09"
+    "genere_le": "2026-10-23"
   },
   "statut_google": "OPERATIONAL",
   "audience": {
@@ -194,6 +208,70 @@
     "clicsRecents": 0,
     "fenetreRecenteJours": 28,
     "source": "search-console",
-    "date": "2026-10-22"
+    "date": "2026-10-23"
+  },
+  "avis_detail": {
+    "releve": "2026-10-23",
+    "liste": [
+      {
+        "note": 5,
+        "texte": "Très bien pour mes loulous 🥰🐾",
+        "langue": "fr",
+        "date": "2026-08-21",
+        "auteur": "Pascal Poitrimol",
+        "auteur_lien": "https://www.google.com/maps/contrib/116055988578965244635/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2tORWVXaHBjVXhRUmpsWGFubEpkR0ZQWDFaNWNWRRAB!2m1!1s0x47e40c75bee009f1:0x842db01d01ef7afb"
+      },
+      {
+        "note": 5,
+        "texte": "Notre fournisseur depuis quelques années déjà et nous sommes tres content de cette collaboration pour nos maine coon et nos westie.",
+        "langue": "fr",
+        "date": "2026-05-15",
+        "auteur": "Elysabeth",
+        "auteur_lien": "https://www.google.com/maps/contrib/107657288929362501923/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xKcWQwNTNZVFJSZFRKTkxXbzFjWEpDUkZOTGRuYxAB!2m1!1s0x47e40c75bee009f1:0x842db01d01ef7afb"
+      },
+      {
+        "note": 5,
+        "texte": "Très bon accueil,  des bons conseils et tout ce qu'il faut pour nos compagnons . Super",
+        "langue": "fr",
+        "date": "2026-04-18",
+        "auteur": "Val P",
+        "auteur_lien": "https://www.google.com/maps/contrib/101821566947719760964/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT21aemRHeGllVkZ0WWpKa1NHTkZlakpmUVVGTk0yYxAB!2m1!1s0x47e40c75bee009f1:0x842db01d01ef7afb"
+      },
+      {
+        "note": 5,
+        "texte": "Un bon accueil et de bons conseils.\nA recommander",
+        "langue": "fr",
+        "date": "2026-03-19",
+        "auteur": "CHRISTINE Poignard",
+        "auteur_lien": "https://www.google.com/maps/contrib/104120009263496739896/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xCZlR6RXhaakpHYzNWR2FtZzBSa1EzZFZZNFFsRRAB!2m1!1s0x47e40c75bee009f1:0x842db01d01ef7afb"
+      },
+      {
+        "note": 5,
+        "texte": "Personnel accueillant très agréable conseil au top pour mon bébé spitz les articles de bonne qualité et les friandises  plaît a mon spitz. Je reviendrai avec grand plaisir",
+        "langue": "fr",
+        "date": "2025-09-27",
+        "auteur": "Sophia 0000",
+        "auteur_lien": "https://www.google.com/maps/contrib/115614574687492079776/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT213ME4wUm9SVVZYUnpOU1prZGtUVWRpYVVKcVpFRRAB!2m1!1s0x47e40c75bee009f1:0x842db01d01ef7afb"
+      }
+    ]
+  },
+  "services": {
+    "releve": "2026-10-23",
+    "options": {
+      "delivery": true
+    },
+    "paiement": [
+      "carte bancaire",
+      "carte de débit",
+      "paiement sans contact"
+    ],
+    "parking": [
+      "parking gratuit"
+    ]
   }
 }

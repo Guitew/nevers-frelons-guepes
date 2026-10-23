@@ -34,7 +34,7 @@
     "longitude": 6.4509913999999995
   },
   "note": 4.9,
-  "avis": 952,
+  "avis": 956,
   "horaires": [
     {
       "jour": 0,
@@ -135,8 +135,8 @@
     "etat": "absent",
     "premiere_detection": null,
     "derniere_detection": null,
-    "derniere_verification": "2026-10-09T16:58:32.124Z",
-    "echecs": 14,
+    "derniere_verification": "2026-10-23T09:59:51.184Z",
+    "echecs": 15,
     "url_detectee": null
   },
   "suggestion": {
@@ -149,22 +149,34 @@
   "dates": {
     "collecte": "2026-09-26",
     "publication": "2026-09-26",
-    "maj": "2026-10-09"
+    "maj": "2026-10-23"
   },
   "source": "google-places",
   "redaction": {
     "version": 2,
     "titre": "Piou-Piou Epinal — Restaurant à Épinal",
     "meta_titre": "Piou-Piou Epinal à Épinal : horaires, avis, téléphone",
-    "meta_description": "Piou-Piou Epinal, restaurant à Épinal : horaires d'ouverture, note Google 4,9/5 (952 avis), téléphone, adresse et itinéraire.",
-    "chapo": "Piou-Piou Epinal exerce l'activité de restaurant au 2 Rue Jean François Pellet, à Épinal. Ouvert sept jours sur sept au relevé du 9 octobre 2026. Téléphone : 03 29 37 13 24. Note Google : 4,9 sur 5 pour 952 avis.",
+    "meta_description": "Piou-Piou Epinal, restaurant à Épinal : horaires d'ouverture, note Google 4,9/5 (956 avis), téléphone, adresse et itinéraire.",
+    "chapo": "Piou-Piou Epinal exerce l'activité de restaurant au 2 Rue Jean François Pellet, à Épinal. Ouvert sept jours sur sept au relevé du 23 octobre 2026. Téléphone : 03 29 37 13 24. Note Google : 4,9 sur 5 pour 956 avis.",
     "sections": [
       {
         "id": "presentation",
         "titre": "Piou-Piou Epinal en quelques mots",
         "paragraphes": [
           "Sur Google, l'établissement est classé « Restaurant français », dans notre rubrique Restaurant.",
-          "D'après le relevé du 9 octobre 2026, l'établissement est ouvert sept jours sur sept. Le détail jour par jour figure plus bas."
+          "Niveau de prix indiqué sur la fiche Google : €€ (modéré).",
+          "D'après le relevé du 23 octobre 2026, l'établissement est ouvert sept jours sur sept. Le détail jour par jour figure plus bas."
+        ]
+      },
+      {
+        "id": "prestations",
+        "titre": "Services et équipements de Piou-Piou Epinal",
+        "paragraphes": [
+          "Proposé : sur place, réservation possible, terrasse, brunch, déjeuner, dîner, plats végétariens, café, bière, vin, cocktails, adapté aux groupes et toilettes.",
+          "Non proposé selon la fiche Google : à emporter, livraison, petit-déjeuner, menu enfant, retransmissions sportives et musique live.",
+          "Moyens de paiement déclarés : carte bancaire, carte de débit et paiement sans contact.",
+          "Stationnement : parking payant et stationnement payant dans la rue.",
+          "Ces indications sont déclarées par l'établissement sur sa fiche Google (relevé du 23 octobre 2026)."
         ]
       },
       {
@@ -179,25 +191,26 @@
         "id": "contact",
         "titre": "Contacter Piou-Piou Epinal",
         "paragraphes": [
-          "Le contact se fait par téléphone au 03 29 37 13 24, ou directement sur place aux horaires d'ouverture."
+          "Le contact se fait par téléphone au 03 29 37 13 24, ou directement sur place aux horaires d'ouverture.",
+          "La fiche Google indique que la réservation est possible."
         ]
       },
       {
         "id": "avis",
         "titre": "La réputation de Piou-Piou Epinal",
         "paragraphes": [
-          "Note de 4,9 sur 5 pour 952 avis Google au relevé du 9 octobre 2026. Les avis se consultent sur la fiche Google, dont le lien figure sur cette page."
+          "Note de 4,9 sur 5 pour 956 avis Google au relevé du 23 octobre 2026. Les avis les plus parlants sont compilés ci-dessous, avec un lien vers la fiche d'origine."
         ]
       }
     ],
     "faq": [
       {
         "q": "Quels sont les horaires de Piou-Piou Epinal ?",
-        "r": "Au relevé du 9 octobre 2026, Piou-Piou Epinal était ouvert sept jours sur sept. Dans le détail — lundi : de 12 h à 15 h et de 19 h à 22 h ; mardi : de 12 h à 15 h et de 19 h à 22 h ; mercredi : de 12 h à 15 h et de 19 h à 22 h ; jeudi : de 12 h à 15 h et de 19 h à 22 h ; vendredi : de 12 h à 15 h et de 19 h à 22 h ; samedi : de 12 h à 22 h ; dimanche : de 11 h à 22 h. Ces horaires peuvent changer : un appel préalable reste conseillé."
+        "r": "Au relevé du 23 octobre 2026, Piou-Piou Epinal était ouvert sept jours sur sept. Dans le détail — lundi : de 12 h à 15 h et de 19 h à 22 h ; mardi : de 12 h à 15 h et de 19 h à 22 h ; mercredi : de 12 h à 15 h et de 19 h à 22 h ; jeudi : de 12 h à 15 h et de 19 h à 22 h ; vendredi : de 12 h à 15 h et de 19 h à 22 h ; samedi : de 12 h à 22 h ; dimanche : de 11 h à 22 h. Ces horaires peuvent changer : un appel préalable reste conseillé."
       },
       {
         "q": "Piou-Piou Epinal est-il ouvert le dimanche ?",
-        "r": "Oui : le dimanche, Piou-Piou Epinal est ouvert de 11 h à 22 h (horaires relevés le 9 octobre 2026)."
+        "r": "Oui : le dimanche, Piou-Piou Epinal est ouvert de 11 h à 22 h (horaires relevés le 23 octobre 2026)."
       },
       {
         "q": "Où se trouve Piou-Piou Epinal ?",
@@ -206,9 +219,21 @@
       {
         "q": "Comment contacter Piou-Piou Epinal ?",
         "r": "Par téléphone au 03 29 37 13 24, ou directement sur place aux heures d'ouverture."
+      },
+      {
+        "q": "Peut-on réserver chez Piou-Piou Epinal ?",
+        "r": "Oui, la fiche Google de Piou-Piou Epinal indique que la réservation est possible, par téléphone au 03 29 37 13 24."
+      },
+      {
+        "q": "Piou-Piou Epinal propose-t-il la vente à emporter ou la livraison ?",
+        "r": "D'après sa fiche Google (relevé du 23 octobre 2026) — vente à emporter : non ; livraison : non."
+      },
+      {
+        "q": "Quel est le niveau de prix de Piou-Piou Epinal ?",
+        "r": "Google classe Piou-Piou Epinal au niveau de prix €€ (modéré), sur une échelle de € à €€€€ établie à partir des avis clients."
       }
     ],
-    "genere_le": "2026-10-09"
+    "genere_le": "2026-10-23"
   },
   "statut_google": "OPERATIONAL",
   "audience": {
@@ -219,6 +244,90 @@
     "clicsRecents": 0,
     "fenetreRecenteJours": 28,
     "source": "search-console",
-    "date": "2026-10-22"
+    "date": "2026-10-23"
+  },
+  "avis_detail": {
+    "releve": "2026-10-23",
+    "liste": [
+      {
+        "note": 5,
+        "texte": "Bon brunch à Épinal. Décoration très sympathique. Formule brunch à 27 euros, et possibilité de prendre des plats à la carte également. Si le contenu de la formule varie régulièrement ca peut être super sinon le choix est quand même limité au niveau des plats.\nTrès pratique avec pousette (mais pas de table à langer) car il y a quelques tables avec un espace libre juste à côté.\nRéservation possible et recommandée le dimanche car c'était complet.",
+        "langue": "fr",
+        "date": "2026-08-30",
+        "auteur": "Em",
+        "auteur_lien": "https://www.google.com/maps/contrib/105619122175989166648/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25WSU4wdGpXV1JTYURsTmRISk9jWGN4TlZOWlZVRRAB!2m1!1s0x4793a12c3b98d13d:0x13338b5375e16186"
+      },
+      {
+        "note": 4,
+        "texte": "Une très belle surprise sur ma route ! Cet endroit très girly, avec sa magnifique déco florale suspendue, séduit dès les premiers instants.\nCuisine raffinée et mise en valeur, une équipe de jolies demoiselles adorables et aux petits soins qui rendent l'expérience encore plus agréable.",
+        "langue": "fr",
+        "date": "2026-08-22",
+        "auteur": "Rod K",
+        "auteur_lien": "https://www.google.com/maps/contrib/108476750432244355079/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2pneFFXUnRSazFyV1VWTlZtSkdSRVpJUmxSTFIzYxAB!2m1!1s0x4793a12c3b98d13d:0x13338b5375e16186"
+      },
+      {
+        "note": 5,
+        "texte": "Bonne salade (saumon) et mon fils a aimé le burger.\nBons Jus de fruits.\nCadre agréable.\nBémol : Peut-être un peu cher pour des salades.\nJe recommande malgré tout",
+        "langue": "fr",
+        "date": "2026-06-26",
+        "auteur": "Jenny L",
+        "auteur_lien": "https://www.google.com/maps/contrib/109062749788337981646/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2pSUlRuRmxObWhpWkZwM01YRkVYMFUwYTAxMmFIYxAB!2m1!1s0x4793a12c3b98d13d:0x13338b5375e16186"
+      },
+      {
+        "note": 5,
+        "texte": "Une expérience exceptionnelle du début à la fin ! Le restaurant est magnifique, avec une décoration soignée et une ambiance très agréable. Les plats étaient délicieux, préparés avec des produits de qualité et pleins de saveurs. Les jus étaient excellents et très frais. Les desserts étaient tout simplement incroyables, un vrai régal ! Un grand merci également aux serveuses, qui ont été souriante, professionnelle et attentive tout au long du repas. Je recommande vivement ce restaurant et j’y reviendrai avec grand plaisir !”",
+        "langue": "fr",
+        "date": "2026-06-20",
+        "auteur": "florine Trz",
+        "auteur_lien": "https://www.google.com/maps/contrib/110802516739010498919/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT21kSVpVNTJURFYwYjJsaFRFMDNZVlJ3WHpsT0xVRRAB!2m1!1s0x4793a12c3b98d13d:0x13338b5375e16186"
+      },
+      {
+        "note": 5,
+        "texte": "Excellente découverte à Épinal ! Le restaurant Piou-Piou offre une expérience aussi agréable pour les yeux que pour les papilles. Les plats sont savoureux, préparés avec des produits frais et présentés avec beaucoup de soin. L’ambiance est chaleureuse, la décoration est magnifique et le personnel est accueillant, souriant et attentif. On sent une vraie passion derrière chaque assiette. Que ce soit pour un brunch, un déjeuner ou un dîner, c’est une adresse que je recommande sans hésiter. J’y retournerai avec grand plaisir !",
+        "langue": "fr",
+        "date": "2026-06-03",
+        "auteur": "Ines Poirson",
+        "auteur_lien": "https://www.google.com/maps/contrib/114126831847686167059/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2s1RWRTMVlUVkJFY0VJeGRsQXRaRGR3UlZrMFgwRRAB!2m1!1s0x4793a12c3b98d13d:0x13338b5375e16186"
+      }
+    ]
+  },
+  "services": {
+    "releve": "2026-10-23",
+    "prix": "PRICE_LEVEL_MODERATE",
+    "options": {
+      "dineIn": true,
+      "takeout": false,
+      "delivery": false,
+      "reservable": true,
+      "outdoorSeating": true,
+      "servesBreakfast": false,
+      "servesBrunch": true,
+      "servesLunch": true,
+      "servesDinner": true,
+      "servesVegetarianFood": true,
+      "servesCoffee": true,
+      "servesBeer": true,
+      "servesWine": true,
+      "servesCocktails": true,
+      "menuForChildren": false,
+      "goodForGroups": true,
+      "goodForWatchingSports": false,
+      "liveMusic": false,
+      "restroom": true
+    },
+    "paiement": [
+      "carte bancaire",
+      "carte de débit",
+      "paiement sans contact"
+    ],
+    "parking": [
+      "parking payant",
+      "stationnement payant dans la rue"
+    ]
   }
 }

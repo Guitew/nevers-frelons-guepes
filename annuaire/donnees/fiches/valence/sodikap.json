@@ -123,8 +123,8 @@
     "etat": "absent",
     "premiere_detection": null,
     "derniere_detection": null,
-    "derniere_verification": "2026-10-09T16:58:32.124Z",
-    "echecs": 1,
+    "derniere_verification": "2026-10-23T09:59:51.184Z",
+    "echecs": 2,
     "url_detectee": null
   },
   "suggestion": {
@@ -144,7 +144,7 @@
   "dates": {
     "collecte": "2026-10-09",
     "publication": "2026-10-09",
-    "maj": "2026-10-18"
+    "maj": "2026-10-23"
   },
   "source": "google-places",
   "redaction": {
@@ -152,14 +152,22 @@
     "titre": "Sodikap — Transport et déménagement à Valence",
     "meta_titre": "Sodikap à Valence : horaires, avis, téléphone",
     "meta_description": "Sodikap, transport et déménagement à Valence : horaires d'ouverture, note Google 4/5 (28 avis), téléphone, adresse et itinéraire.",
-    "chapo": "Sodikap est un transport et déménagement au Rue Léon Gaumont, à Valence. Fermé le samedi et le dimanche au relevé du 9 octobre 2026. Téléphone : 04 75 84 57 07. Note Google : 4 sur 5 pour 28 avis.",
+    "chapo": "Sodikap est un transport et déménagement au Rue Léon Gaumont, à Valence. Fermé le samedi et le dimanche au relevé du 23 octobre 2026. Téléphone : 04 75 84 57 07. Note Google : 4 sur 5 pour 28 avis.",
     "sections": [
       {
         "id": "presentation",
         "titre": "Sodikap en quelques mots",
         "paragraphes": [
           "Sur Google, l'établissement est classé « Entreprise de déménagement », dans notre rubrique Transport et déménagement.",
-          "D'après le relevé du 9 octobre 2026, l'établissement est fermé le samedi et le dimanche. Le détail jour par jour figure plus bas."
+          "D'après le relevé du 23 octobre 2026, l'établissement est fermé le samedi et le dimanche. Le détail jour par jour figure plus bas."
+        ]
+      },
+      {
+        "id": "prestations",
+        "titre": "Services et équipements de Sodikap",
+        "paragraphes": [
+          "Proposé : toilettes.",
+          "Ces indications sont déclarées par l'établissement sur sa fiche Google (relevé du 23 octobre 2026)."
         ]
       },
       {
@@ -181,18 +189,18 @@
         "id": "avis",
         "titre": "La réputation de Sodikap",
         "paragraphes": [
-          "Note de 4 sur 5 pour 28 avis Google au relevé du 9 octobre 2026. Les avis se consultent sur la fiche Google, dont le lien figure sur cette page."
+          "Note de 4 sur 5 pour 28 avis Google au relevé du 23 octobre 2026. Les avis les plus parlants sont compilés ci-dessous, avec un lien vers la fiche d'origine."
         ]
       }
     ],
     "faq": [
       {
         "q": "Quels sont les horaires de Sodikap ?",
-        "r": "Au relevé du 9 octobre 2026, Sodikap était fermé le samedi et le dimanche. Dans le détail — lundi : de 8 h à 12 h et de 13 h 30 à 18 h ; mardi : de 8 h à 12 h et de 13 h 30 à 18 h ; mercredi : de 8 h à 12 h et de 13 h 30 à 18 h ; jeudi : de 8 h à 12 h et de 13 h 30 à 18 h ; vendredi : de 8 h à 12 h et de 13 h 30 à 18 h ; samedi : fermé ; dimanche : fermé. Ces horaires peuvent changer : un appel préalable reste conseillé."
+        "r": "Au relevé du 23 octobre 2026, Sodikap était fermé le samedi et le dimanche. Dans le détail — lundi : de 8 h à 12 h et de 13 h 30 à 18 h ; mardi : de 8 h à 12 h et de 13 h 30 à 18 h ; mercredi : de 8 h à 12 h et de 13 h 30 à 18 h ; jeudi : de 8 h à 12 h et de 13 h 30 à 18 h ; vendredi : de 8 h à 12 h et de 13 h 30 à 18 h ; samedi : fermé ; dimanche : fermé. Ces horaires peuvent changer : un appel préalable reste conseillé."
       },
       {
         "q": "Sodikap est-il ouvert le dimanche ?",
-        "r": "Non : d'après les horaires relevés le 9 octobre 2026, Sodikap est fermé le dimanche."
+        "r": "Non : d'après les horaires relevés le 23 octobre 2026, Sodikap est fermé le dimanche."
       },
       {
         "q": "Où se trouve Sodikap ?",
@@ -207,7 +215,7 @@
         "r": "La fiche Google de l'établissement mentionne : « Entrée accessible en fauteuil roulant ». Cette information est déclarative ; en cas de doute, vérifiez par téléphone."
       }
     ],
-    "genere_le": "2026-10-09"
+    "genere_le": "2026-10-23"
   },
   "statut_google": "OPERATIONAL",
   "audience": {
@@ -218,6 +226,64 @@
     "clicsRecents": 0,
     "fenetreRecenteJours": 28,
     "source": "search-console",
-    "date": "2026-10-22"
+    "date": "2026-10-23"
+  },
+  "avis_detail": {
+    "releve": "2026-10-23",
+    "liste": [
+      {
+        "note": 3,
+        "texte": "Bien",
+        "langue": "fr",
+        "date": "2026-02-13",
+        "auteur": "Xavier WYNNYK",
+        "auteur_lien": "https://www.google.com/maps/contrib/103122884638356201650/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2t4cVFYTmhZbW95VUZnNVoxVnBOWHBLWm04ek1HYxAB!2m1!1s0x47f557bad9873701:0x7768d29259b59a10"
+      },
+      {
+        "note": 5,
+        "texte": "Très bonne société et le personnel très sympathique et efficace",
+        "langue": "fr",
+        "date": "2026-02-02",
+        "auteur": "Rubens Zimmer",
+        "auteur_lien": "https://www.google.com/maps/contrib/106353838938543348031/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2kwMVRHNW5SVWhGUkZkTVJUaERNM0JDZVVKdE1WRRAB!2m1!1s0x47f557bad9873701:0x7768d29259b59a10"
+      },
+      {
+        "note": 5,
+        "texte": "Chargement rapide par personnel compétent",
+        "langue": "fr",
+        "date": "2025-04-10",
+        "auteur": "christophe david",
+        "auteur_lien": "https://www.google.com/maps/contrib/112583572968993842070/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUM4XzZMQUNnEAE!2m1!1s0x47f557bad9873701:0x7768d29259b59a10"
+      },
+      {
+        "note": 4,
+        "texte": "Chargement rapide personnel accueillant",
+        "langue": "fr",
+        "date": "2024-07-07",
+        "auteur": "Philippe Grangier",
+        "auteur_lien": "https://www.google.com/maps/contrib/106861845388675675981/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUNyM3QyZ1N3EAE!2m1!1s0x47f557bad9873701:0x7768d29259b59a10"
+      },
+      {
+        "note": 4,
+        "texte": "Personnel sympa et poli, la cours est assez petite",
+        "langue": "fr",
+        "date": "2023-09-07",
+        "auteur": "BMW power Elsass and Trucks",
+        "auteur_lien": "https://www.google.com/maps/contrib/106809349954407790290/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUNac3VyYk9BEAE!2m1!1s0x47f557bad9873701:0x7768d29259b59a10"
+      }
+    ]
+  },
+  "services": {
+    "releve": "2026-10-23",
+    "options": {
+      "restroom": true
+    },
+    "paiement": [],
+    "parking": []
   }
 }

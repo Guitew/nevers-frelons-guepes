@@ -37,8 +37,8 @@
     "etat": "absent",
     "premiere_detection": null,
     "derniere_detection": null,
-    "derniere_verification": "2026-10-09T16:58:32.124Z",
-    "echecs": 2,
+    "derniere_verification": "2026-10-23T09:59:51.184Z",
+    "echecs": 3,
     "url_detectee": null
   },
   "suggestion": {
@@ -51,7 +51,7 @@
   "dates": {
     "collecte": "2026-10-08",
     "publication": "2026-10-08",
-    "maj": "2026-10-09"
+    "maj": "2026-10-23"
   },
   "source": "google-places",
   "redaction": {
@@ -66,6 +66,15 @@
         "titre": "Speed Wash en quelques mots",
         "paragraphes": [
           "Sur Google, l'établissement est classé « Station de lavage automobile », dans notre rubrique Garage et automobile."
+        ]
+      },
+      {
+        "id": "prestations",
+        "titre": "Services et équipements de Speed Wash",
+        "paragraphes": [
+          "Non proposé selon la fiche Google : toilettes.",
+          "Moyens de paiement déclarés : carte bancaire, carte de débit et paiement sans contact.",
+          "Ces indications sont déclarées par l'établissement sur sa fiche Google (relevé du 23 octobre 2026)."
         ]
       },
       {
@@ -87,7 +96,7 @@
         "id": "avis",
         "titre": "La réputation de Speed Wash",
         "paragraphes": [
-          "Note de 3,8 sur 5 pour 98 avis Google au relevé du 9 octobre 2026. Les avis se consultent sur la fiche Google, dont le lien figure sur cette page."
+          "Note de 3,8 sur 5 pour 98 avis Google au relevé du 23 octobre 2026. Les avis les plus parlants sont compilés ci-dessous, avec un lien vers la fiche d'origine."
         ]
       }
     ],
@@ -97,7 +106,7 @@
         "r": "Speed Wash se trouve 80000 Amiens, France. Un lien d'itinéraire est disponible sur cette page."
       }
     ],
-    "genere_le": "2026-10-09"
+    "genere_le": "2026-10-23"
   },
   "statut_google": "OPERATIONAL",
   "audience": {
@@ -108,6 +117,68 @@
     "clicsRecents": 0,
     "fenetreRecenteJours": 28,
     "source": "search-console",
-    "date": "2026-10-22"
+    "date": "2026-10-23"
+  },
+  "avis_detail": {
+    "releve": "2026-10-23",
+    "liste": [
+      {
+        "note": 1,
+        "texte": "Faire un lavage à 16 euros pour que ton pare-brise soit encore sale ! Même pas de brosse a côté pour rattraper.",
+        "langue": "fr",
+        "date": "2026-06-29",
+        "auteur": "Andy",
+        "auteur_lien": "https://www.google.com/maps/contrib/105346549829204069223/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25CSmNIcFJVeTFYVTIxTkxYWTFkWFpzYjE5MVZVRRAB!2m1!1s0x47e783803569bb83:0xdb787a73e90d62d3"
+      },
+      {
+        "note": 1,
+        "texte": "Les machines acceptent la monnaie mais ne fonctionnent pas. Le gérant m’a indiqué par téléphone qu’il allait vérifier la machine et me restituer la somme trouvée. Finalement, je dois me déplacer pour récupérer mes 2,50 € sous forme de jetons. Voici le SMS reçu :\n\"Bonjour, après vérification, le monnayeur était bien bloqué, j’ai trouvé 2,20 € et non 2,50 €. Veuillez passer à la station Total de Dury pour que l’on puisse vous redonner des jetons en échange.\"",
+        "langue": "fr",
+        "date": "2026-01-12",
+        "auteur": "Stefan Diaconu",
+        "auteur_lien": "https://www.google.com/maps/contrib/112241910669934078520/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2tSSGFUUnlSMnAyZUZFemN6RXdkVUZGYm1sUk1HYxAB!2m1!1s0x47e783803569bb83:0xdb787a73e90d62d3"
+      },
+      {
+        "note": 4,
+        "texte": "La pression des jets est suffisante, mais je trouve la durée des jetons un peu courte, forçant à en mettre au moins 3 pour laver sa voiture correctement",
+        "langue": "fr",
+        "date": "2025-01-15",
+        "auteur": "Thibault Dach",
+        "auteur_lien": "https://www.google.com/maps/contrib/105865277529236065725/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUNfbXBQQmdRRRAB!2m1!1s0x47e783803569bb83:0xdb787a73e90d62d3"
+      },
+      {
+        "note": 3,
+        "texte": "Pour ma 1ere utilisation,  une personne avait coincé des pièces dans le lecteur d'abonnement... galère ! Personne n'est venu pour régler le problème pendant les 40mn que j'ai lavé ma voiture... plusieurs utilisateurs grognaient.. Pas cool.",
+        "langue": "fr",
+        "date": "2023-03-15",
+        "auteur": "Didier D'HUILLE",
+        "auteur_lien": "https://www.google.com/maps/contrib/106875835329513481532/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSURodmFId1JnEAE!2m1!1s0x47e783803569bb83:0xdb787a73e90d62d3"
+      },
+      {
+        "note": 1,
+        "texte": "Si vous voulez jeter 6€ par la fenêtre\nTrès long\nInsupportable",
+        "langue": "fr",
+        "date": "2022-04-14",
+        "auteur": "Lucile Agathe",
+        "auteur_lien": "https://www.google.com/maps/contrib/115368112433890835436/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUMyak91dXZRRRAB!2m1!1s0x47e783803569bb83:0xdb787a73e90d62d3"
+      }
+    ]
+  },
+  "services": {
+    "releve": "2026-10-23",
+    "options": {
+      "restroom": false
+    },
+    "paiement": [
+      "carte bancaire",
+      "carte de débit",
+      "paiement sans contact"
+    ],
+    "parking": []
   }
 }

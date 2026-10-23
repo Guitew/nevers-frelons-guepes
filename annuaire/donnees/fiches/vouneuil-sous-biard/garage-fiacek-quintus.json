@@ -1,0 +1,286 @@
+{
+  "id": "ChIJUas09qSV_UcRIWApCv6kks0",
+  "slug": "garage-fiacek-quintus",
+  "nom": "Garage Fiacek-Quintus",
+  "categorie": "garages-automobile",
+  "categorie_gmb": "Garage automobile",
+  "type_principal": "car_repair",
+  "types": [
+    "car_repair",
+    "point_of_interest",
+    "service",
+    "establishment"
+  ],
+  "ville": "Vouneuil-sous-Biard",
+  "ville_slug": "vouneuil-sous-biard",
+  "adresse": {
+    "rue": "12 Route de la Torchaise",
+    "code_postal": "86580",
+    "departement": "86",
+    "region": "Nouvelle-Aquitaine",
+    "pays": "France",
+    "complete": "12 Rte de la Torchaise, 86580 Vouneuil-sous-Biard"
+  },
+  "telephone": "05 49 13 71 58",
+  "geo": {
+    "latitude": 46.56178,
+    "longitude": 0.28984730000000003
+  },
+  "note": 4.1,
+  "avis": 108,
+  "horaires": [
+    {
+      "jour": 0,
+      "ferme": false,
+      "creneaux": [
+        [
+          "08:30",
+          "12:00"
+        ],
+        [
+          "14:00",
+          "18:00"
+        ]
+      ]
+    },
+    {
+      "jour": 1,
+      "ferme": false,
+      "creneaux": [
+        [
+          "08:30",
+          "12:00"
+        ],
+        [
+          "14:00",
+          "18:00"
+        ]
+      ]
+    },
+    {
+      "jour": 2,
+      "ferme": false,
+      "creneaux": [
+        [
+          "08:30",
+          "12:00"
+        ],
+        [
+          "14:00",
+          "18:00"
+        ]
+      ]
+    },
+    {
+      "jour": 3,
+      "ferme": false,
+      "creneaux": [
+        [
+          "08:30",
+          "12:00"
+        ],
+        [
+          "14:00",
+          "18:00"
+        ]
+      ]
+    },
+    {
+      "jour": 4,
+      "ferme": false,
+      "creneaux": [
+        [
+          "08:30",
+          "12:00"
+        ],
+        [
+          "14:00",
+          "18:00"
+        ]
+      ]
+    },
+    {
+      "jour": 5,
+      "ferme": true,
+      "creneaux": []
+    },
+    {
+      "jour": 6,
+      "ferme": true,
+      "creneaux": []
+    }
+  ],
+  "attributs": [
+    "Entrée accessible en fauteuil roulant",
+    "Parking accessible en fauteuil roulant",
+    "Toilettes accessibles en fauteuil roulant"
+  ],
+  "lien_google": "https://maps.google.com/?cid=14813083535374114849&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
+  "site_web_gmb": null,
+  "statut": "publiee",
+  "backlink": {
+    "etat": "absent",
+    "premiere_detection": null,
+    "derniere_detection": null,
+    "derniere_verification": "2026-10-23T09:59:51.184Z",
+    "echecs": 1,
+    "url_detectee": null
+  },
+  "suggestion": {
+    "etat": "en-attente",
+    "date_soumission": null,
+    "tentatives": 0,
+    "date_email": "2026-10-23"
+  },
+  "retrait": null,
+  "dates": {
+    "collecte": "2026-10-23",
+    "publication": "2026-10-23",
+    "maj": "2026-10-23"
+  },
+  "source": "google-places",
+  "avis_detail": {
+    "releve": "2026-10-23",
+    "liste": [
+      {
+        "note": 5,
+        "texte": "Un grand merci à ce garage qui nous a vraiment sauvés nos vacances ! 🙏 Nous avons eu un souci avec notre voiture sur l’autoroute, le véhicule de dépannage est arrivé hyper rapidement un dimanche en plein mois d’Août ! Ils ont pu également nous réparer la voiture le lendemain et nous avons donc pu repartir sur la route des vacances! Un service efficace, réactif et professionnel. Nous recommandons les yeux fermés ! Encore merci à toute l’équipe ! 🚗👏",
+        "langue": "fr",
+        "date": "2026-08-20",
+        "auteur": "Carla Bessot",
+        "auteur_lien": "https://www.google.com/maps/contrib/102762502079876850040/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2kxd2N6SlpSRXhsWkVkTlNraFBhakZSYm5sU1JuYxAB!2m1!1s0x47fd95a4f634ab51:0xcd92a4fe0a296021"
+      },
+      {
+        "note": 5,
+        "texte": "Garage que je recommande à 100 % !\n\nJe pensais que mes plaquettes de frein étaient usées et je suis venu pour les faire remplacer. Après vérification, le garage m'a expliqué qu'elles étaient encore en très bon état et qu'il n'était donc pas nécessaire de les changer.\n\nJe les remercie sincèrement pour leur honnêteté et leur professionnalisme. Beaucoup d'autres garages auraient probablement effectué le remplacement sans chercher plus loin.\n\nC'est vraiment rassurant de pouvoir faire confiance à un garage, surtout lorsqu'on est âgée et que l'on n'y connaît rien en mécanique. Je me suis malheureusement déjà fait avoir à plusieurs reprises par d'autres garagistes. Ici, j'ai enfin trouvé une équipe honnête et professionnelle.\n\nUn grand bravo à toute l'équipe, et encore merci !",
+        "langue": "fr",
+        "date": "2026-08-05",
+        "auteur": "Lespe Nadine",
+        "auteur_lien": "https://www.google.com/maps/contrib/109646162648239360818/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT201M1ZFSnpOMDE1WTJFdE1IbEVRbE5RZEVKbVdFRRAB!2m1!1s0x47fd95a4f634ab51:0xcd92a4fe0a296021"
+      },
+      {
+        "note": 5,
+        "texte": "Mon assistance Axa m'ayant fait attendre pendant trop longtemps (un dimanche soir vers 22h), j'ai fini par téléphoner à la Police, qui a transféré l'appel au \"dépanneur de garde\". C'est un employé de ce garage qui a chargé ma voiture en panne (la pédale d'embrayage ne\nfonctionnant plus). Il a identifié la panne, et il a été très attentionné, très pro. Bref, si vous avez besoin de faire remorquer votre véhicule, avec ce garage, vous serez en de bonnes mains.",
+        "langue": "fr",
+        "date": "2026-07-06",
+        "auteur": "Sylvie BILLARD",
+        "auteur_lien": "https://www.google.com/maps/contrib/115350808519957146403/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2tKWlJVa3pkV1JoUjB0blZUUlJabVpMVGxaNmJWRRAB!2m1!1s0x47fd95a4f634ab51:0xcd92a4fe0a296021"
+      },
+      {
+        "note": 5,
+        "texte": "Appelé par mon assurance pour un depannage sur autoroute le garage Faciek Quintus a ete tres rapide, professionnel et de bons conseils. Ensuite ils ont ete tres arrangeants pour les réparations, m’ont permis de laisser le vehicule chez eux et m’ont aidee lorsque je suis venue le chercher avec un plateau. Je remercie toute l’equipe.\nJe recommande vivement ce garage",
+        "langue": "fr",
+        "date": "2026-07-04",
+        "auteur": "Sophie Boyer",
+        "auteur_lien": "https://www.google.com/maps/contrib/107935307534712053207/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25WVVZHRldSbXM0VWpSdVUxOXhlRVV3Vkd4SFkyYxAB!2m1!1s0x47fd95a4f634ab51:0xcd92a4fe0a296021"
+      },
+      {
+        "note": 5,
+        "texte": "Tombé en panne sur une aire d'autoroute, ce dépanneur a été contacté par la station service. Sur place moins de 30min après, le dépanneur m'a aidé à redémarrer ma voiture en quelques minutes, qui plus est avec gentillesse et sympathie.\nLes frais ont été gérés directement avec mon assurance sur le moment.\nUn grand merci pour ce dépannage efficace et professionnel !",
+        "langue": "fr",
+        "date": "2026-06-19",
+        "auteur": "Erwann ZAROD WERMEISTER",
+        "auteur_lien": "https://www.google.com/maps/contrib/115412099894486073674/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25Gb05HcHpURGhLVTFGcExVVlpVRWhrWWxCeU5XYxAB!2m1!1s0x47fd95a4f634ab51:0xcd92a4fe0a296021"
+      }
+    ]
+  },
+  "services": {
+    "releve": "2026-10-23",
+    "options": {
+      "restroom": true
+    },
+    "paiement": [
+      "carte bancaire",
+      "carte de débit",
+      "paiement sans contact"
+    ],
+    "parking": []
+  },
+  "redaction": {
+    "version": 2,
+    "titre": "Garage Fiacek-Quintus — Garage et automobile à Vouneuil-sous-Biard",
+    "meta_titre": "Garage Fiacek-Quintus à Vouneuil-sous-Biard : horaires, avis",
+    "meta_description": "Garage Fiacek-Quintus, garage et automobile à Vouneuil-sous-Biard : horaires d'ouverture, note Google 4,1/5 (108 avis), téléphone, adresse et itinéraire.",
+    "chapo": "Garage Fiacek-Quintus, garage et automobile au 12 Route de la Torchaise, à Vouneuil-sous-Biard. Fermé le samedi et le dimanche au relevé du 23 octobre 2026. Téléphone : 05 49 13 71 58. Note Google : 4,1 sur 5 pour 108 avis.",
+    "sections": [
+      {
+        "id": "presentation",
+        "titre": "Garage Fiacek-Quintus en quelques mots",
+        "paragraphes": [
+          "Sur Google, l'établissement est classé « Garage automobile », dans notre rubrique Garage et automobile.",
+          "D'après le relevé du 23 octobre 2026, l'établissement est fermé le samedi et le dimanche. Le détail jour par jour figure plus bas."
+        ]
+      },
+      {
+        "id": "prestations",
+        "titre": "Services et équipements de Garage Fiacek-Quintus",
+        "paragraphes": [
+          "Proposé : toilettes.",
+          "Moyens de paiement déclarés : carte bancaire, carte de débit et paiement sans contact.",
+          "Ces indications sont déclarées par l'établissement sur sa fiche Google (relevé du 23 octobre 2026)."
+        ]
+      },
+      {
+        "id": "acces",
+        "titre": "Adresse et accès",
+        "paragraphes": [
+          "L'établissement est situé au 12 Route de la Torchaise, 86580 Vouneuil-sous-Biard.",
+          "Coordonnées GPS : 46.56178, 0.28985. Le bouton Itinéraire de cette page ouvre la navigation."
+        ]
+      },
+      {
+        "id": "contact",
+        "titre": "Contacter Garage Fiacek-Quintus",
+        "paragraphes": [
+          "Le contact se fait par téléphone au 05 49 13 71 58, ou directement sur place aux horaires d'ouverture."
+        ]
+      },
+      {
+        "id": "avis",
+        "titre": "La réputation de Garage Fiacek-Quintus",
+        "paragraphes": [
+          "Note de 4,1 sur 5 pour 108 avis Google au relevé du 23 octobre 2026. Les avis les plus parlants sont compilés ci-dessous, avec un lien vers la fiche d'origine."
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "q": "Quels sont les horaires de Garage Fiacek-Quintus ?",
+        "r": "Au relevé du 23 octobre 2026, Garage Fiacek-Quintus était fermé le samedi et le dimanche. Dans le détail — lundi : de 8 h 30 à 12 h et de 14 h à 18 h ; mardi : de 8 h 30 à 12 h et de 14 h à 18 h ; mercredi : de 8 h 30 à 12 h et de 14 h à 18 h ; jeudi : de 8 h 30 à 12 h et de 14 h à 18 h ; vendredi : de 8 h 30 à 12 h et de 14 h à 18 h ; samedi : fermé ; dimanche : fermé. Ces horaires peuvent changer : un appel préalable reste conseillé."
+      },
+      {
+        "q": "Garage Fiacek-Quintus est-il ouvert le dimanche ?",
+        "r": "Non : d'après les horaires relevés le 23 octobre 2026, Garage Fiacek-Quintus est fermé le dimanche."
+      },
+      {
+        "q": "Où se trouve Garage Fiacek-Quintus ?",
+        "r": "Garage Fiacek-Quintus se trouve 12 Rte de la Torchaise, 86580 Vouneuil-sous-Biard. Un lien d'itinéraire est disponible sur cette page."
+      },
+      {
+        "q": "Comment contacter Garage Fiacek-Quintus ?",
+        "r": "Par téléphone au 05 49 13 71 58, ou directement sur place aux heures d'ouverture."
+      },
+      {
+        "q": "Garage Fiacek-Quintus est-il accessible aux personnes à mobilité réduite ?",
+        "r": "La fiche Google de l'établissement mentionne : « Entrée accessible en fauteuil roulant ». Cette information est déclarative ; en cas de doute, vérifiez par téléphone."
+      }
+    ],
+    "genere_le": "2026-10-23"
+  },
+  "statut_google": "OPERATIONAL",
+  "audience": {
+    "clics": 0,
+    "impressions": 0,
+    "position": null,
+    "fenetreJours": 90,
+    "clicsRecents": 0,
+    "fenetreRecenteJours": 28,
+    "source": "search-console",
+    "date": "2026-10-23"
+  }
+}

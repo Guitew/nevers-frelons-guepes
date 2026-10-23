@@ -42,8 +42,8 @@
     "etat": "absent",
     "premiere_detection": null,
     "derniere_detection": null,
-    "derniere_verification": "2026-10-09T16:58:32.124Z",
-    "echecs": 3,
+    "derniere_verification": "2026-10-23T09:59:51.184Z",
+    "echecs": 4,
     "url_detectee": null
   },
   "suggestion": {
@@ -63,7 +63,7 @@
   "dates": {
     "collecte": "2026-10-07",
     "publication": "2026-10-07",
-    "maj": "2026-10-18"
+    "maj": "2026-10-23"
   },
   "source": "google-places",
   "redaction": {
@@ -78,6 +78,14 @@
         "titre": "Rubino Transports en quelques mots",
         "paragraphes": [
           "Sur Google, l'établissement est classé « Entreprise de déménagement », dans notre rubrique Transport et déménagement."
+        ]
+      },
+      {
+        "id": "prestations",
+        "titre": "Services et équipements de Rubino Transports",
+        "paragraphes": [
+          "Proposé : toilettes.",
+          "Ces indications sont déclarées par l'établissement sur sa fiche Google (relevé du 23 octobre 2026)."
         ]
       },
       {
@@ -99,7 +107,7 @@
         "id": "avis",
         "titre": "La réputation de Rubino Transports",
         "paragraphes": [
-          "Note de 4,4 sur 5 pour 32 avis Google au relevé du 9 octobre 2026. Les avis se consultent sur la fiche Google, dont le lien figure sur cette page."
+          "Note de 4,4 sur 5 pour 32 avis Google au relevé du 23 octobre 2026. Les avis les plus parlants sont compilés ci-dessous, avec un lien vers la fiche d'origine."
         ]
       }
     ],
@@ -117,7 +125,7 @@
         "r": "La fiche Google de l'établissement mentionne : « Entrée accessible en fauteuil roulant ». Cette information est déclarative ; en cas de doute, vérifiez par téléphone."
       }
     ],
-    "genere_le": "2026-10-09"
+    "genere_le": "2026-10-23"
   },
   "statut_google": "OPERATIONAL",
   "audience": {
@@ -128,6 +136,64 @@
     "clicsRecents": 0,
     "fenetreRecenteJours": 28,
     "source": "search-console",
-    "date": "2026-10-22"
+    "date": "2026-10-23"
+  },
+  "avis_detail": {
+    "releve": "2026-10-23",
+    "liste": [
+      {
+        "note": 1,
+        "texte": "personne totalement déconnecter .\nfait du transport mais refuse de transporter ..\nchanger de metier",
+        "langue": "fr",
+        "date": "2026-02-11",
+        "auteur": "Beige Café",
+        "auteur_lien": "https://www.google.com/maps/contrib/112269899974019170531/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT214dlpqaDFYMVpFUjFsTFdUQk1RMnR4Ym10UVVrRRAB!2m1!1s0x47ee980472e86935:0x124455d168583dba"
+      },
+      {
+        "note": 5,
+        "texte": "Entreprise sérieuse à la gestion rigoureuse\nPonctualité, amabilité des salariés …\nJe recommande !",
+        "langue": "fr",
+        "date": "2025-10-06",
+        "auteur": "Christophe Heckmann",
+        "auteur_lien": "https://www.google.com/maps/contrib/105816956201951289349/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2tONGRDMXNNRk5PYVV4TVdYaE1jRmx2YW1SdWRHYxAB!2m1!1s0x47ee980472e86935:0x124455d168583dba"
+      },
+      {
+        "note": 4,
+        "texte": "Rien à voir à l'entreprise elle-même.\n19/09 15h45, le conducteur du petit porteur bg117ql (je crois) double sans visibilité, (j'etais déjà à 85 sur la route d'arcis, suivant moi-même une benne) m'oblige à freiner pour le laisser se rabattre pour éviter le frontal, il refait la même le benneu devant.",
+        "langue": "fr",
+        "date": "2024-09-19",
+        "auteur": "anthony felizot",
+        "auteur_lien": "https://www.google.com/maps/contrib/102853159692520952940/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSURIay1TRmhnRRAB!2m1!1s0x47ee980472e86935:0x124455d168583dba"
+      },
+      {
+        "note": 5,
+        "texte": "Conducteurs super sympa et arrangeant ! Toujours de bonne humeur, prêts à rendre service et aider.\n\nA bientôt !\n\nL'équipe Bertot Piscines et Bien Être à Grenoble (38)",
+        "langue": "fr",
+        "date": "2023-07-27",
+        "auteur": "Fred B",
+        "auteur_lien": "https://www.google.com/maps/contrib/109296446733838681970/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUNwc0lfN3dBRRAB!2m1!1s0x47ee980472e86935:0x124455d168583dba"
+      },
+      {
+        "note": 5,
+        "texte": "Société qui dévoile une nouvelle adresse des transports Rubino, 50 rue de Stockholm à Sainte Savine (10). Employés corrects. A bientôt,  le livreur de la station de lavage",
+        "langue": "fr",
+        "date": "2023-06-14",
+        "auteur": "Kyfran",
+        "auteur_lien": "https://www.google.com/maps/contrib/100634872812995838552/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUR4czg2ZFhBEAE!2m1!1s0x47ee980472e86935:0x124455d168583dba"
+      }
+    ]
+  },
+  "services": {
+    "releve": "2026-10-23",
+    "options": {
+      "restroom": true
+    },
+    "paiement": [],
+    "parking": []
   }
 }

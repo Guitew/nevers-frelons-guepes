@@ -27,7 +27,7 @@
     "longitude": 7.740808200000001
   },
   "note": 3.7,
-  "avis": 141,
+  "avis": 142,
   "horaires": [
     {
       "jour": 0,
@@ -108,8 +108,8 @@
     "etat": "absent",
     "premiere_detection": null,
     "derniere_detection": null,
-    "derniere_verification": "2026-10-09T16:58:32.124Z",
-    "echecs": 2,
+    "derniere_verification": "2026-10-23T09:59:51.184Z",
+    "echecs": 3,
     "url_detectee": null
   },
   "suggestion": {
@@ -122,22 +122,31 @@
   "dates": {
     "collecte": "2026-10-08",
     "publication": "2026-10-08",
-    "maj": "2026-10-09"
+    "maj": "2026-10-23"
   },
   "source": "google-places",
   "redaction": {
     "version": 2,
     "titre": "Self Autowash — Garage et automobile à Strasbourg",
     "meta_titre": "Self Autowash à Strasbourg : horaires, avis",
-    "meta_description": "Self Autowash, garage et automobile à Strasbourg : horaires d'ouverture, note Google 3,7/5 (141 avis), adresse et itinéraire.",
-    "chapo": "Self Autowash est un garage et automobile au 8A Rue Saglio, à Strasbourg. Ouvert sept jours sur sept au relevé du 9 octobre 2026. Note Google : 3,7 sur 5 pour 141 avis.",
+    "meta_description": "Self Autowash, garage et automobile à Strasbourg : horaires d'ouverture, note Google 3,7/5 (142 avis), adresse et itinéraire.",
+    "chapo": "Self Autowash est un garage et automobile au 8A Rue Saglio, à Strasbourg. Ouvert sept jours sur sept au relevé du 23 octobre 2026. Note Google : 3,7 sur 5 pour 142 avis.",
     "sections": [
       {
         "id": "presentation",
         "titre": "Self Autowash en quelques mots",
         "paragraphes": [
           "Sur Google, l'établissement est classé « Station de lavage automobile », dans notre rubrique Garage et automobile.",
-          "D'après le relevé du 9 octobre 2026, l'établissement est ouvert sept jours sur sept. Le détail jour par jour figure plus bas."
+          "D'après le relevé du 23 octobre 2026, l'établissement est ouvert sept jours sur sept. Le détail jour par jour figure plus bas."
+        ]
+      },
+      {
+        "id": "prestations",
+        "titre": "Services et équipements de Self Autowash",
+        "paragraphes": [
+          "Non proposé selon la fiche Google : toilettes.",
+          "Moyens de paiement déclarés : carte bancaire, carte de débit et paiement sans contact.",
+          "Ces indications sont déclarées par l'établissement sur sa fiche Google (relevé du 23 octobre 2026)."
         ]
       },
       {
@@ -159,25 +168,25 @@
         "id": "avis",
         "titre": "La réputation de Self Autowash",
         "paragraphes": [
-          "Note de 3,7 sur 5 pour 141 avis Google au relevé du 9 octobre 2026. Les avis se consultent sur la fiche Google, dont le lien figure sur cette page."
+          "Note de 3,7 sur 5 pour 142 avis Google au relevé du 23 octobre 2026. Les avis les plus parlants sont compilés ci-dessous, avec un lien vers la fiche d'origine."
         ]
       }
     ],
     "faq": [
       {
         "q": "Quels sont les horaires de Self Autowash ?",
-        "r": "Au relevé du 9 octobre 2026, Self Autowash était ouvert sept jours sur sept. Dans le détail — lundi : de 9 h à 20 h ; mardi : de 9 h à 20 h ; mercredi : de 9 h à 20 h ; jeudi : de 9 h à 20 h ; vendredi : de 9 h à 20 h ; samedi : de 9 h à 20 h ; dimanche : de 9 h à 20 h. Ces horaires peuvent changer : un appel préalable reste conseillé."
+        "r": "Au relevé du 23 octobre 2026, Self Autowash était ouvert sept jours sur sept. Dans le détail — lundi : de 9 h à 20 h ; mardi : de 9 h à 20 h ; mercredi : de 9 h à 20 h ; jeudi : de 9 h à 20 h ; vendredi : de 9 h à 20 h ; samedi : de 9 h à 20 h ; dimanche : de 9 h à 20 h. Ces horaires peuvent changer : un appel préalable reste conseillé."
       },
       {
         "q": "Self Autowash est-il ouvert le dimanche ?",
-        "r": "Oui : le dimanche, Self Autowash est ouvert de 9 h à 20 h (horaires relevés le 9 octobre 2026)."
+        "r": "Oui : le dimanche, Self Autowash est ouvert de 9 h à 20 h (horaires relevés le 23 octobre 2026)."
       },
       {
         "q": "Où se trouve Self Autowash ?",
         "r": "Self Autowash se trouve 8A Rue Saglio, 67100 Strasbourg. Un lien d'itinéraire est disponible sur cette page."
       }
     ],
-    "genere_le": "2026-10-09"
+    "genere_le": "2026-10-23"
   },
   "statut_google": "OPERATIONAL",
   "audience": {
@@ -188,6 +197,68 @@
     "clicsRecents": 0,
     "fenetreRecenteJours": 28,
     "source": "search-console",
-    "date": "2026-10-22"
+    "date": "2026-10-23"
+  },
+  "avis_detail": {
+    "releve": "2026-10-23",
+    "liste": [
+      {
+        "note": 1,
+        "texte": "Il merite meme pas 1 etoile\nAucune borne ne marche correctement\nLa mousse c’est de l’eau\nYa pas de pression ya rien c nul\nN’allez pas",
+        "langue": "fr",
+        "date": "2026-07-04",
+        "auteur": "Almir Prishtina",
+        "auteur_lien": "https://www.google.com/maps/contrib/109989544874769796708/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2pkWmRUQjZVRk5NY1U0MFdUQnNlbEZVZVZsV2NuYxAB!2m1!1s0x4796c999cfcea8eb:0x40d5342b0829fe26"
+      },
+      {
+        "note": 1,
+        "texte": "Franchement très déçu.\nÇa se voit que le matériel n’est pas entretenu correctement. J’ai perdu du temps et de l’argent en pensant que ça allait finir par fonctionner, mais au final plusieurs équipements ne marchaient pas correctement.\n\nJe déconseille cet endroit tant que le matériel ne sera pas réparé et entretenu sérieusement.",
+        "langue": "fr",
+        "date": "2026-05-28",
+        "auteur": "ARMGN BLTL",
+        "auteur_lien": "https://www.google.com/maps/contrib/116581996073808163497/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25sUk1FVkZiMDl0VWpGQlprdzNSVWxPUmswMWFIYxAB!2m1!1s0x4796c999cfcea8eb:0x40d5342b0829fe26"
+      },
+      {
+        "note": 1,
+        "texte": "Quelle station service vétuste pour rester polie.\nC’est bien beau de vouloir faire de l’argent mais entretenez vos machines.\nAu car wash le programme 7 le jet ne sortait pas ..\nEnsuite l’aspirateur qui n’aspire pas.\nJ’ai demandé à un monsieur pour savoir si ce n’était pas notre aspirateur qui était défectueux il m’a également confirmé que le sien ne fonctionnait pas non plus et qu’il regrettait d’être venu ici.\nDites-vous qu’on est obligé de prendre des jetons pour 10€ pour utiliser des appareils qui ne fonctionnent pas.\nAllez ailleurs 😓",
+        "langue": "fr",
+        "date": "2026-01-25",
+        "auteur": "Ajoutetonsurnom 67",
+        "auteur_lien": "https://www.google.com/maps/contrib/113589774796669023993/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT21SaWVscFFVelZOVVVWVVJVTlVhRFpzT1d3eFptYxAB!2m1!1s0x4796c999cfcea8eb:0x40d5342b0829fe26"
+      },
+      {
+        "note": 1,
+        "texte": "Station de lavage à éviter.\nMettre 2€ dans un aspirateur qui n’a aucune pression puis acheter pour 10€ de jeton pour laver mon véhicule qui reste sale. Les lances ne sont pas entretenu de la mousse sort encore à l’étape de rinçage etc.\nGaspiller de l’argent pour un nettoyage qu’on pourrais faire soit même à la main finalement et en mieux",
+        "langue": "fr",
+        "date": "2025-10-15",
+        "auteur": "Manon Koessler",
+        "auteur_lien": "https://www.google.com/maps/contrib/102665372512106150329/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2tSRFkzVlhRMU5JWWxRM1ZrZHJabWRFWlVvdFpWRRAB!2m1!1s0x4796c999cfcea8eb:0x40d5342b0829fe26"
+      },
+      {
+        "note": 3,
+        "texte": "J'ai lavé ma voiture avec la station automatique. J'ai choisi la formule la plus simple qui est un simple brossage et lavage à l'eau avec séchage. Et pourtant ça m'a coûté 8€ soit 4 jetons, ce que je trouve cher pour ce que c'est.",
+        "langue": "fr",
+        "date": "2025-03-05",
+        "auteur": "HM 50",
+        "auteur_lien": "https://www.google.com/maps/contrib/107907189296672781337/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnTUNReWNDR3h3RRAB!2m1!1s0x4796c999cfcea8eb:0x40d5342b0829fe26"
+      }
+    ]
+  },
+  "services": {
+    "releve": "2026-10-23",
+    "options": {
+      "restroom": false
+    },
+    "paiement": [
+      "carte bancaire",
+      "carte de débit",
+      "paiement sans contact"
+    ],
+    "parking": []
   }
 }

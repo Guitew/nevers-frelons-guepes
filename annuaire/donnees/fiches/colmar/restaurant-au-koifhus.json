@@ -29,7 +29,7 @@
     "longitude": 7.359758299999999
   },
   "note": 4.3,
-  "avis": 2795,
+  "avis": 2803,
   "horaires": [
     {
       "jour": 0,
@@ -113,8 +113,8 @@
     "etat": "absent",
     "premiere_detection": null,
     "derniere_detection": null,
-    "derniere_verification": "2026-10-09T16:58:32.124Z",
-    "echecs": 24,
+    "derniere_verification": "2026-10-23T09:59:51.184Z",
+    "echecs": 25,
     "url_detectee": null
   },
   "suggestion": {
@@ -127,22 +127,34 @@
   "dates": {
     "collecte": "2026-09-20",
     "publication": "2026-09-20",
-    "maj": "2026-10-09"
+    "maj": "2026-10-23"
   },
   "source": "google-places",
   "redaction": {
     "version": 2,
     "titre": "Restaurant Au Koïfhus — Restaurant à Colmar",
     "meta_titre": "Restaurant Au Koïfhus à Colmar : horaires, avis, téléphone",
-    "meta_description": "Restaurant Au Koïfhus, restaurant à Colmar : horaires d'ouverture, note Google 4,3/5 (2795 avis), téléphone, adresse et itinéraire.",
-    "chapo": "Restaurant Au Koïfhus est un restaurant au 2 Place de l'Ancienne Douane, à Colmar. Ouvert sept jours sur sept au relevé du 9 octobre 2026. Téléphone : 03 89 23 04 90. Note Google : 4,3 sur 5 pour 2795 avis.",
+    "meta_description": "Restaurant Au Koïfhus, restaurant à Colmar : horaires d'ouverture, note Google 4,3/5 (2803 avis), téléphone, adresse et itinéraire.",
+    "chapo": "Restaurant Au Koïfhus est un restaurant au 2 Place de l'Ancienne Douane, à Colmar. Ouvert sept jours sur sept au relevé du 23 octobre 2026. Téléphone : 03 89 23 04 90. Note Google : 4,3 sur 5 pour 2803 avis.",
     "sections": [
       {
         "id": "presentation",
         "titre": "Restaurant Au Koïfhus en quelques mots",
         "paragraphes": [
           "Sur Google, l'établissement est classé « Restaurant français », dans notre rubrique Restaurant.",
-          "D'après le relevé du 9 octobre 2026, l'établissement est ouvert sept jours sur sept. Le détail jour par jour figure plus bas."
+          "Niveau de prix indiqué sur la fiche Google : €€ (modéré).",
+          "D'après le relevé du 23 octobre 2026, l'établissement est ouvert sept jours sur sept. Le détail jour par jour figure plus bas."
+        ]
+      },
+      {
+        "id": "prestations",
+        "titre": "Services et équipements de Restaurant Au Koïfhus",
+        "paragraphes": [
+          "Proposé : sur place, réservation possible, terrasse, petit-déjeuner, brunch, déjeuner, dîner, café, bière, vin, cocktails, menu enfant, adapté aux enfants, adapté aux groupes, chiens acceptés et toilettes.",
+          "Non proposé selon la fiche Google : à emporter, livraison, retrait en voiture, plats végétariens, retransmissions sportives et musique live.",
+          "Moyens de paiement déclarés : carte bancaire, carte de débit et paiement sans contact.",
+          "Stationnement : parking payant.",
+          "Ces indications sont déclarées par l'établissement sur sa fiche Google (relevé du 23 octobre 2026)."
         ]
       },
       {
@@ -157,25 +169,26 @@
         "id": "contact",
         "titre": "Contacter Restaurant Au Koïfhus",
         "paragraphes": [
-          "Le contact se fait par téléphone au 03 89 23 04 90, ou directement sur place aux horaires d'ouverture."
+          "Le contact se fait par téléphone au 03 89 23 04 90, ou directement sur place aux horaires d'ouverture.",
+          "La fiche Google indique que la réservation est possible."
         ]
       },
       {
         "id": "avis",
         "titre": "La réputation de Restaurant Au Koïfhus",
         "paragraphes": [
-          "Note de 4,3 sur 5 pour 2795 avis Google au relevé du 9 octobre 2026. Les avis se consultent sur la fiche Google, dont le lien figure sur cette page."
+          "Note de 4,3 sur 5 pour 2803 avis Google au relevé du 23 octobre 2026. Les avis les plus parlants sont compilés ci-dessous, avec un lien vers la fiche d'origine."
         ]
       }
     ],
     "faq": [
       {
         "q": "Quels sont les horaires de Restaurant Au Koïfhus ?",
-        "r": "Au relevé du 9 octobre 2026, Restaurant Au Koïfhus était ouvert sept jours sur sept. Dans le détail — lundi : de 10 h à 23 h ; mardi : de 10 h à 23 h ; mercredi : de 10 h à 23 h ; jeudi : de 10 h à 23 h ; vendredi : de 10 h à 23 h ; samedi : de 10 h à 23 h ; dimanche : de 10 h à 23 h. Ces horaires peuvent changer : un appel préalable reste conseillé."
+        "r": "Au relevé du 23 octobre 2026, Restaurant Au Koïfhus était ouvert sept jours sur sept. Dans le détail — lundi : de 10 h à 23 h ; mardi : de 10 h à 23 h ; mercredi : de 10 h à 23 h ; jeudi : de 10 h à 23 h ; vendredi : de 10 h à 23 h ; samedi : de 10 h à 23 h ; dimanche : de 10 h à 23 h. Ces horaires peuvent changer : un appel préalable reste conseillé."
       },
       {
         "q": "Restaurant Au Koïfhus est-il ouvert le dimanche ?",
-        "r": "Oui : le dimanche, Restaurant Au Koïfhus est ouvert de 10 h à 23 h (horaires relevés le 9 octobre 2026)."
+        "r": "Oui : le dimanche, Restaurant Au Koïfhus est ouvert de 10 h à 23 h (horaires relevés le 23 octobre 2026)."
       },
       {
         "q": "Où se trouve Restaurant Au Koïfhus ?",
@@ -186,11 +199,23 @@
         "r": "Par téléphone au 03 89 23 04 90, ou directement sur place aux heures d'ouverture."
       },
       {
+        "q": "Peut-on réserver chez Restaurant Au Koïfhus ?",
+        "r": "Oui, la fiche Google de Restaurant Au Koïfhus indique que la réservation est possible, par téléphone au 03 89 23 04 90."
+      },
+      {
+        "q": "Restaurant Au Koïfhus propose-t-il la vente à emporter ou la livraison ?",
+        "r": "D'après sa fiche Google (relevé du 23 octobre 2026) — vente à emporter : non ; livraison : non."
+      },
+      {
+        "q": "Quel est le niveau de prix de Restaurant Au Koïfhus ?",
+        "r": "Google classe Restaurant Au Koïfhus au niveau de prix €€ (modéré), sur une échelle de € à €€€€ établie à partir des avis clients."
+      },
+      {
         "q": "Restaurant Au Koïfhus est-il accessible aux personnes à mobilité réduite ?",
         "r": "La fiche Google de l'établissement mentionne : « Entrée accessible en fauteuil roulant ». Cette information est déclarative ; en cas de doute, vérifiez par téléphone."
       }
     ],
-    "genere_le": "2026-10-09"
+    "genere_le": "2026-10-23"
   },
   "statut_google": "OPERATIONAL",
   "audience": {
@@ -201,6 +226,92 @@
     "clicsRecents": 0,
     "fenetreRecenteJours": 28,
     "source": "search-console",
-    "date": "2026-10-22"
+    "date": "2026-10-23"
+  },
+  "avis_detail": {
+    "releve": "2026-10-23",
+    "liste": [
+      {
+        "note": 5,
+        "texte": "On a pris 4 salades avec mes trois copines. Franchement, pas déçues du tout. Produits de qualité, de bonnes quantités et très bon! Service très sympathique! Je recommande fort",
+        "langue": "fr",
+        "date": "2026-06-27",
+        "auteur": "Maria Korytina",
+        "auteur_lien": "https://www.google.com/maps/contrib/110384401499427105467/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2t0MWVIaDViMVZJVldJMFR6aGhXWE0zY0VsRFdWRRAB!2m1!1s0x479165e6870f4ceb:0x6a5d72bf87603873"
+      },
+      {
+        "note": 5,
+        "texte": "Ce restaurant est idéal pour s’imprégner de la culture et de la gastronomie alsacienne. Niveau budget, les prix sont bien plus accessibles qu'ailleurs dans le coin, surtout au vu de la générosité des assiettes.\n\nLe Baeckeoffe : un régal pour les bons vivants. Quand on voit la quantité de Baeckeoffe servie, les 21 € sont largement justifiés ! On vous apporte carrément la terrine complète sur la table. C'est un régal, mais attention aux petits appétits, c'est un sacré défi de la finir !",
+        "langue": "fr",
+        "date": "2026-06-24",
+        "auteur": "matthieu clemen",
+        "auteur_lien": "https://www.google.com/maps/contrib/102582869567387974025/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT205SlZqaENSSHBZVkc1YWVVZHFMVlI2YVcxMVVtYxAB!2m1!1s0x479165e6870f4ceb:0x6a5d72bf87603873"
+      },
+      {
+        "note": 5,
+        "texte": "⭐️⭐️⭐️⭐️⭐️ Une expérience exceptionnelle du début à la fin !\n\nNous avons passé un moment absolument formidable dans ce restaurant. Dès notre arrivée, nous avons été accueillis avec le sourire, beaucoup de gentillesse et un professionnalisme qui devient malheureusement de plus en plus rare. Toute l’équipe est aux petits soins, attentive sans être envahissante, ce qui met immédiatement à l’aise.\n\nCôté cuisine, c’est tout simplement un régal ! Nous avons dégusté une salade aussi belle que délicieuse, généreusement garnie de produits frais et de qualité. Entre la truite fumée fondante, les morceaux d’avocat parfaitement mûrs, les légumes croquants, les œufs, les pois chiches et toutes les autres saveurs harmonieusement associées, chaque bouchée était un vrai plaisir. On sent que rien n’est laissé au hasard : les produits sont soigneusement sélectionnés et les associations de goûts sont parfaitement équilibrées.\n\nLa présentation est magnifique, les portions sont très copieuses et pourtant l’ensemble reste léger et raffiné. C’est le genre d’assiette qui donne envie de revenir avant même d’avoir terminé son repas.\n\nUn grand bravo à toute l’équipe pour la qualité de l’accueil, du service et de la cuisine. Une adresse qui mérite largement d’être connue et recommandée. Nous reviendrons avec un immense plaisir !\n\n👏 Félicitations à toute l’équipe et merci pour ce très beau moment gastronomique. Une véritable référence pour ceux qui aiment bien manger dans une ambiance chaleureuse et conviviale. 🍽️✨",
+        "langue": "fr",
+        "date": "2026-06-20",
+        "auteur": "David Cottet",
+        "auteur_lien": "https://www.google.com/maps/contrib/100581376609623251010/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT21jeE5qWXhOV3B1Vm10YVlrZExPR1JKTmxaNFRGRRAB!2m1!1s0x479165e6870f4ceb:0x6a5d72bf87603873"
+      },
+      {
+        "note": 5,
+        "texte": "Première expérience très réussie alors que le restaurant était blindé Le samedi de Pâques, on nous a trouvé une petite place pour deux .\nles plats sont extrêmement copieux et vraiment bons. Service impeccable 👌\nJe recommande cette adresse, pour ceux qui connaissent «  Alim confiance » Le restaurant  a la plus haute note !",
+        "langue": "fr",
+        "date": "2026-04-04",
+        "auteur": "Emma TOURNANT",
+        "auteur_lien": "https://www.google.com/maps/contrib/112636444771559799585/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25STlFrMTNRMnBGVkhKWloxcG1SMTlqUW1wclMzYxAB!2m1!1s0x479165e6870f4ceb:0x6a5d72bf87603873"
+      },
+      {
+        "note": 4,
+        "texte": "Très bon restaurant, on a été bien accueilli, pas tant d'attente pour le service malgré beaucoup de personnes.\nLe repas était délicieux.\nPetit bémol sur un dessert, la mousse au chocolat du café gourmand était un peu trop compacte et fort en chocolat. L'effet \"mousse\" n'était pas là. Mais le reste du repas était vraiment bon et copieux avec différentes spécialités de la région.",
+        "langue": "fr",
+        "date": "2026-02-16",
+        "auteur": "Hugo Gutierrez",
+        "auteur_lien": "https://www.google.com/maps/contrib/101885996497288240421/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25Kdk5UbFBiWGRQYmpGTVZFSmlWbEJpU0RscFgzYxAB!2m1!1s0x479165e6870f4ceb:0x6a5d72bf87603873"
+      }
+    ]
+  },
+  "services": {
+    "releve": "2026-10-23",
+    "prix": "PRICE_LEVEL_MODERATE",
+    "options": {
+      "dineIn": true,
+      "takeout": false,
+      "delivery": false,
+      "curbsidePickup": false,
+      "reservable": true,
+      "outdoorSeating": true,
+      "servesBreakfast": true,
+      "servesBrunch": true,
+      "servesLunch": true,
+      "servesDinner": true,
+      "servesVegetarianFood": false,
+      "servesCoffee": true,
+      "servesBeer": true,
+      "servesWine": true,
+      "servesCocktails": true,
+      "menuForChildren": true,
+      "goodForChildren": true,
+      "goodForGroups": true,
+      "goodForWatchingSports": false,
+      "liveMusic": false,
+      "allowsDogs": true,
+      "restroom": true
+    },
+    "paiement": [
+      "carte bancaire",
+      "carte de débit",
+      "paiement sans contact"
+    ],
+    "parking": [
+      "parking payant"
+    ]
   }
 }

@@ -1,0 +1,286 @@
+{
+  "id": "ChIJwbzXLEcc8UcRgPZ3z_Yvj2o",
+  "slug": "proximarche",
+  "nom": "Proximarché",
+  "categorie": "commerces-alimentation",
+  "categorie_gmb": "Supérette",
+  "type_principal": "convenience_store",
+  "types": [
+    "convenience_store",
+    "food_store",
+    "store",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "ville": "Moulins",
+  "ville_slug": "moulins",
+  "adresse": {
+    "rue": "Route de Decize",
+    "code_postal": "03000",
+    "departement": "03",
+    "region": "Auvergne-Rhône-Alpes",
+    "pays": "France",
+    "complete": "Centre Commercial Les Chartreux, Rte de Decize, 03000 Moulins"
+  },
+  "telephone": "04 70 44 58 90",
+  "geo": {
+    "latitude": 46.5801781,
+    "longitude": 3.3332401
+  },
+  "note": 4,
+  "avis": 45,
+  "horaires": [
+    {
+      "jour": 0,
+      "ferme": false,
+      "creneaux": [
+        [
+          "08:00",
+          "21:00"
+        ]
+      ]
+    },
+    {
+      "jour": 1,
+      "ferme": false,
+      "creneaux": [
+        [
+          "08:00",
+          "21:00"
+        ]
+      ]
+    },
+    {
+      "jour": 2,
+      "ferme": false,
+      "creneaux": [
+        [
+          "08:00",
+          "21:00"
+        ]
+      ]
+    },
+    {
+      "jour": 3,
+      "ferme": false,
+      "creneaux": [
+        [
+          "08:00",
+          "21:00"
+        ]
+      ]
+    },
+    {
+      "jour": 4,
+      "ferme": false,
+      "creneaux": [
+        [
+          "08:00",
+          "21:00"
+        ]
+      ]
+    },
+    {
+      "jour": 5,
+      "ferme": false,
+      "creneaux": [
+        [
+          "08:00",
+          "21:00"
+        ]
+      ]
+    },
+    {
+      "jour": 6,
+      "ferme": false,
+      "creneaux": [
+        [
+          "08:00",
+          "21:00"
+        ]
+      ]
+    }
+  ],
+  "attributs": [
+    "Entrée accessible en fauteuil roulant",
+    "Parking accessible en fauteuil roulant"
+  ],
+  "lien_google": "https://maps.google.com/?cid=7678408626779190912&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
+  "site_web_gmb": null,
+  "statut": "publiee",
+  "backlink": {
+    "etat": "absent",
+    "premiere_detection": null,
+    "derniere_detection": null,
+    "derniere_verification": "2026-10-23T09:59:51.184Z",
+    "echecs": 1,
+    "url_detectee": null
+  },
+  "suggestion": {
+    "etat": "en-attente",
+    "date_soumission": null,
+    "tentatives": 0,
+    "date_email": "2026-10-23"
+  },
+  "retrait": null,
+  "dates": {
+    "collecte": "2026-10-23",
+    "publication": "2026-10-23",
+    "maj": "2026-10-23"
+  },
+  "source": "google-places",
+  "avis_detail": {
+    "releve": "2026-10-23",
+    "liste": [
+      {
+        "note": 5,
+        "texte": "Commerce de proximité bien achalandé. Prix très correct. Accueil professionnel. Et avec ses horaires (8/21 heures-7/7 jours) et la livraison à domicile, ce magasin est très pratique.",
+        "langue": "fr",
+        "date": "2025-06-23",
+        "auteur": "Bruno De Moulins",
+        "auteur_lien": "https://www.google.com/maps/contrib/106263326862952954943/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2pCbFZqQTRSamRrWkc4elFraHNPVGwyYW5GcVNtYxAB!2m1!1s0x47f11c472cd7bcc1:0x6a8f2ff6cf77f680"
+      },
+      {
+        "note": 5,
+        "texte": "Très bon accueil. Beaucoup de choix. Très disponible. Possibilité de livraison. Bref un plaisir de faire travailler ce petit commerce ..",
+        "langue": "fr",
+        "date": "2024-11-13",
+        "auteur": "Nawal 3yach",
+        "auteur_lien": "https://www.google.com/maps/contrib/104576563945421433834/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUQzX05HNlNnEAE!2m1!1s0x47f11c472cd7bcc1:0x6a8f2ff6cf77f680"
+      },
+      {
+        "note": 1,
+        "texte": "Re ouvert de 8h a 21h ce qui est top, parcontre les vitrines froide qui sont pas Dutout froide, les produits sont complètement chaud et sont clairement inmangeable,",
+        "langue": "fr",
+        "date": "2024-04-07",
+        "auteur": "Logan JTY",
+        "auteur_lien": "https://www.google.com/maps/contrib/115642244158721563296/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUREc29xWmFREAE!2m1!1s0x47f11c472cd7bcc1:0x6a8f2ff6cf77f680"
+      },
+      {
+        "note": 1,
+        "texte": "Pas de compliment pour ces messieurs très souriants mais qui ne savent pas rendre la monnaie apparement.\n1 fois ça passe mais la 2 eme fois ça passe pas.\nDommage\nFaites très attention 😤",
+        "langue": "fr",
+        "date": "2023-04-30",
+        "auteur": "Carine Guillet",
+        "auteur_lien": "https://www.google.com/maps/contrib/112570280158082711774/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSURSOWNxTEp3EAE!2m1!1s0x47f11c472cd7bcc1:0x6a8f2ff6cf77f680"
+      },
+      {
+        "note": 3,
+        "texte": "Très bon accueil. Les gérants sont très sympathiques et courtois.\nC'est un des rares petit magasin alimentaire qu'il nous reste sur la ville et qui peut nous dépanner à n'importe quel moment de la journée. Il est plutôt bien situé, le parking situé devant permet de se garer sans problème pour faire ses courses. Longue vie à ce petit magasin qui nous dépanne si bien!😀🙏",
+        "langue": "fr",
+        "date": "2021-10-19",
+        "auteur": "Muguette Oudin",
+        "auteur_lien": "https://www.google.com/maps/contrib/114828989292150828530/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUNHNk9PTWJREAE!2m1!1s0x47f11c472cd7bcc1:0x6a8f2ff6cf77f680"
+      }
+    ]
+  },
+  "services": {
+    "releve": "2026-10-23",
+    "resume": "Chaîne de supérettes de proximité de la marque Casino proposant aussi des marques nationales et régionales.",
+    "resume_langue": "fr",
+    "options": {
+      "delivery": true,
+      "restroom": false
+    },
+    "paiement": [
+      "carte bancaire",
+      "carte de débit",
+      "paiement sans contact"
+    ],
+    "parking": []
+  },
+  "redaction": {
+    "version": 2,
+    "titre": "Proximarché — Commerce d'alimentation à Moulins",
+    "meta_titre": "Proximarché à Moulins : horaires, avis, téléphone",
+    "meta_description": "Proximarché, commerce d'alimentation à Moulins : horaires d'ouverture, note Google 4/5 (45 avis), téléphone, adresse et itinéraire.",
+    "chapo": "Cette fiche présente Proximarché, un commerce d'alimentation au Route de Decize, à Moulins. Ouvert sept jours sur sept au relevé du 23 octobre 2026. Téléphone : 04 70 44 58 90. Note Google : 4 sur 5 pour 45 avis.",
+    "sections": [
+      {
+        "id": "presentation",
+        "titre": "Proximarché en quelques mots",
+        "paragraphes": [
+          "Présentation donnée par Google : « Chaîne de supérettes de proximité de la marque Casino proposant aussi des marques nationales et régionales. »",
+          "Sur Google, l'établissement est classé « Supérette », dans notre rubrique Commerce d'alimentation.",
+          "D'après le relevé du 23 octobre 2026, l'établissement est ouvert sept jours sur sept. Le détail jour par jour figure plus bas."
+        ]
+      },
+      {
+        "id": "prestations",
+        "titre": "Services et équipements de Proximarché",
+        "paragraphes": [
+          "Proposé : livraison.",
+          "Non proposé selon la fiche Google : toilettes.",
+          "Moyens de paiement déclarés : carte bancaire, carte de débit et paiement sans contact.",
+          "Ces indications sont déclarées par l'établissement sur sa fiche Google (relevé du 23 octobre 2026)."
+        ]
+      },
+      {
+        "id": "acces",
+        "titre": "Adresse et accès",
+        "paragraphes": [
+          "L'établissement est situé au Route de Decize, 03000 Moulins.",
+          "Coordonnées GPS : 46.58018, 3.33324. Le bouton Itinéraire de cette page ouvre la navigation."
+        ]
+      },
+      {
+        "id": "contact",
+        "titre": "Contacter Proximarché",
+        "paragraphes": [
+          "Le contact se fait par téléphone au 04 70 44 58 90, ou directement sur place aux horaires d'ouverture."
+        ]
+      },
+      {
+        "id": "avis",
+        "titre": "La réputation de Proximarché",
+        "paragraphes": [
+          "Note de 4 sur 5 pour 45 avis Google au relevé du 23 octobre 2026. Les avis les plus parlants sont compilés ci-dessous, avec un lien vers la fiche d'origine."
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "q": "Quels sont les horaires de Proximarché ?",
+        "r": "Au relevé du 23 octobre 2026, Proximarché était ouvert sept jours sur sept. Dans le détail — lundi : de 8 h à 21 h ; mardi : de 8 h à 21 h ; mercredi : de 8 h à 21 h ; jeudi : de 8 h à 21 h ; vendredi : de 8 h à 21 h ; samedi : de 8 h à 21 h ; dimanche : de 8 h à 21 h. Ces horaires peuvent changer : un appel préalable reste conseillé."
+      },
+      {
+        "q": "Proximarché est-il ouvert le dimanche ?",
+        "r": "Oui : le dimanche, Proximarché est ouvert de 8 h à 21 h (horaires relevés le 23 octobre 2026)."
+      },
+      {
+        "q": "Où se trouve Proximarché ?",
+        "r": "Proximarché se trouve Centre Commercial Les Chartreux, Rte de Decize, 03000 Moulins. Un lien d'itinéraire est disponible sur cette page."
+      },
+      {
+        "q": "Comment contacter Proximarché ?",
+        "r": "Par téléphone au 04 70 44 58 90, ou directement sur place aux heures d'ouverture."
+      },
+      {
+        "q": "Proximarché propose-t-il la vente à emporter ou la livraison ?",
+        "r": "D'après sa fiche Google (relevé du 23 octobre 2026) — livraison : oui."
+      },
+      {
+        "q": "Proximarché est-il accessible aux personnes à mobilité réduite ?",
+        "r": "La fiche Google de l'établissement mentionne : « Entrée accessible en fauteuil roulant ». Cette information est déclarative ; en cas de doute, vérifiez par téléphone."
+      }
+    ],
+    "genere_le": "2026-10-23"
+  },
+  "statut_google": "OPERATIONAL",
+  "audience": {
+    "clics": 0,
+    "impressions": 0,
+    "position": null,
+    "fenetreJours": 90,
+    "clicsRecents": 0,
+    "fenetreRecenteJours": 28,
+    "source": "search-console",
+    "date": "2026-10-23"
+  }
+}

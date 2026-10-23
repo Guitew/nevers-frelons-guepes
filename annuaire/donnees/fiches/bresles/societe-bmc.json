@@ -27,7 +27,7 @@
     "longitude": 2.2383497
   },
   "note": 4,
-  "avis": 107,
+  "avis": 108,
   "horaires": [
     {
       "jour": 0,
@@ -121,8 +121,8 @@
     "etat": "absent",
     "premiere_detection": null,
     "derniere_detection": null,
-    "derniere_verification": "2026-10-09T16:58:32.124Z",
-    "echecs": 63,
+    "derniere_verification": "2026-10-23T09:59:51.184Z",
+    "echecs": 64,
     "url_detectee": null
   },
   "suggestion": {
@@ -142,22 +142,22 @@
   "dates": {
     "collecte": "2026-09-01",
     "publication": "2026-09-01",
-    "maj": "2026-10-18"
+    "maj": "2026-10-23"
   },
   "source": "google-places",
   "redaction": {
     "version": 2,
     "titre": "Société BMC — Transport et déménagement à Bresles",
     "meta_titre": "Société BMC à Bresles : horaires, avis",
-    "meta_description": "Société BMC, transport et déménagement à Bresles : horaires d'ouverture, note Google 4/5 (107 avis), adresse et itinéraire.",
-    "chapo": "Société BMC, transport et déménagement à Bresles. Fermé le samedi et le dimanche au relevé du 18 octobre 2026. Note Google : 4 sur 5 pour 107 avis.",
+    "meta_description": "Société BMC, transport et déménagement à Bresles : horaires d'ouverture, note Google 4/5 (108 avis), adresse et itinéraire.",
+    "chapo": "Société BMC, transport et déménagement à Bresles. Fermé le samedi et le dimanche au relevé du 23 octobre 2026. Note Google : 4 sur 5 pour 108 avis.",
     "sections": [
       {
         "id": "presentation",
         "titre": "Société BMC en quelques mots",
         "paragraphes": [
           "Sur Google, l'établissement est classé « Stockage », dans notre rubrique Transport et déménagement.",
-          "D'après le relevé du 18 octobre 2026, l'établissement est fermé le samedi et le dimanche. Le détail jour par jour figure plus bas."
+          "D'après le relevé du 23 octobre 2026, l'établissement est fermé le samedi et le dimanche. Le détail jour par jour figure plus bas."
         ]
       },
       {
@@ -179,18 +179,18 @@
         "id": "avis",
         "titre": "La réputation de Société BMC",
         "paragraphes": [
-          "Note de 4 sur 5 pour 107 avis Google au relevé du 18 octobre 2026. Les avis se consultent sur la fiche Google, dont le lien figure sur cette page."
+          "Note de 4 sur 5 pour 108 avis Google au relevé du 23 octobre 2026. Les avis les plus parlants sont compilés ci-dessous, avec un lien vers la fiche d'origine."
         ]
       }
     ],
     "faq": [
       {
         "q": "Quels sont les horaires de Société BMC ?",
-        "r": "Au relevé du 18 octobre 2026, Société BMC était fermé le samedi et le dimanche. Dans le détail — lundi : de 8 h à 12 h 15 et de 13 h à 16 h 30 ; mardi : de 8 h à 12 h 15 et de 13 h à 16 h 30 ; mercredi : de 8 h à 12 h 15 et de 13 h à 16 h 30 ; jeudi : de 8 h à 12 h 15 et de 13 h à 16 h 30 ; vendredi : de 8 h à 12 h 15 et de 13 h à 16 h 30 ; samedi : fermé ; dimanche : fermé. Ces horaires peuvent changer : un appel préalable reste conseillé."
+        "r": "Au relevé du 23 octobre 2026, Société BMC était fermé le samedi et le dimanche. Dans le détail — lundi : de 8 h à 12 h 15 et de 13 h à 16 h 30 ; mardi : de 8 h à 12 h 15 et de 13 h à 16 h 30 ; mercredi : de 8 h à 12 h 15 et de 13 h à 16 h 30 ; jeudi : de 8 h à 12 h 15 et de 13 h à 16 h 30 ; vendredi : de 8 h à 12 h 15 et de 13 h à 16 h 30 ; samedi : fermé ; dimanche : fermé. Ces horaires peuvent changer : un appel préalable reste conseillé."
       },
       {
         "q": "Société BMC est-il ouvert le dimanche ?",
-        "r": "Non : d'après les horaires relevés le 18 octobre 2026, Société BMC est fermé le dimanche."
+        "r": "Non : d'après les horaires relevés le 23 octobre 2026, Société BMC est fermé le dimanche."
       },
       {
         "q": "Où se trouve Société BMC ?",
@@ -201,7 +201,7 @@
         "r": "La fiche Google de l'établissement mentionne : « Entrée accessible en fauteuil roulant ». Cette information est déclarative ; en cas de doute, vérifiez par téléphone."
       }
     ],
-    "genere_le": "2026-10-18"
+    "genere_le": "2026-10-23"
   },
   "statut_google": "OPERATIONAL",
   "audience": {
@@ -212,7 +212,7 @@
     "clicsRecents": 0,
     "fenetreRecenteJours": 28,
     "source": "search-console",
-    "date": "2026-10-22"
+    "date": "2026-10-23"
   },
   "indexation": {
     "etat": "non-indexee",
@@ -222,5 +222,55 @@
     "canonique_google": null,
     "source": "inspection",
     "date": "2026-10-18"
+  },
+  "avis_detail": {
+    "releve": "2026-10-23",
+    "liste": [
+      {
+        "note": 1,
+        "texte": "Si vous arrivez avant l'heure prévue, vous devrez attendre très longtemps. Le déjeuner a lieu de midi à 13h00. Je suis arrivé à 13h30 et on m'a dit d'attendre encore une demi-heure car ils étaient encore en train de manger.",
+        "langue": "fr",
+        "date": "2026-04-21",
+        "auteur": "Mr Aikon",
+        "auteur_lien": "https://www.google.com/maps/contrib/116124446003985189977/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT20xYWNqWlBkRkUxYm5kcGVUSlljbE4yVURGZk4xRRAB!2m1!1s0x47e7ade488284e65:0x16811f93cf7eb5ef"
+      },
+      {
+        "note": 2,
+        "texte": "Tres mauvaise organisation car ils ne respecte pas les heures de rendez-vous pour le chargement.......\nDans ce cas a quoi bon donne des heures.\nJ'ai plus eu le sentiment qu'ils faisaient de la complaisance envers leurs transporteurs habituels......\nTrès déçu 😞",
+        "langue": "fr",
+        "date": "2025-12-12",
+        "auteur": "Pascal Monniere",
+        "auteur_lien": "https://www.google.com/maps/contrib/115529106006148617826/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2w4d05EUkJSRlEwUTFCTlNYUnZSbWRyVFdVNWFuYxAB!2m1!1s0x47e7ade488284e65:0x16811f93cf7eb5ef"
+      },
+      {
+        "note": 1,
+        "texte": "Arrivé à 9:40…\nTjs en attente au quai à 14h…\nEt personne ne donne d’infos…\nVraiment une boîte à fuir ici",
+        "langue": "fr",
+        "date": "2025-06-13",
+        "auteur": "Jonathan Paternot",
+        "auteur_lien": "https://www.google.com/maps/contrib/115673589723072941527/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2pZd1FteG9abXRKZFhoSWIxTnZOMFpEY0RFM1ZIYxAB!2m1!1s0x47e7ade488284e65:0x16811f93cf7eb5ef"
+      },
+      {
+        "note": 5,
+        "texte": "Accueil sympa avec une jolie blonde à lunettes  et container  décharge dans les temps  encore merci au employé qui vides les containers",
+        "langue": "fr",
+        "date": "2025-03-06",
+        "auteur": "Coco Ninicoco",
+        "auteur_lien": "https://www.google.com/maps/contrib/104337924973532879081/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnTUNRX2ZMYU93EAE!2m1!1s0x47e7ade488284e65:0x16811f93cf7eb5ef"
+      },
+      {
+        "note": 4,
+        "texte": "Entrepot logistique\nAccueil correct\nLes déchargement et déchargement se font suivant l'heure de rendez-vous des fois respecté d'autre fois non\nMais de en temps il vous prendrons en avance,  ils sont assez sympathique",
+        "langue": "fr",
+        "date": "2023-09-03",
+        "auteur": "Jeremy trucking",
+        "auteur_lien": "https://www.google.com/maps/contrib/107963693224529787568/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUNaNk9XWUx3EAE!2m1!1s0x47e7ade488284e65:0x16811f93cf7eb5ef"
+      }
+    ]
   }
 }

@@ -41,8 +41,8 @@
     "etat": "absent",
     "premiere_detection": null,
     "derniere_detection": null,
-    "derniere_verification": "2026-10-09T16:58:32.124Z",
-    "echecs": 61,
+    "derniere_verification": "2026-10-23T09:59:51.184Z",
+    "echecs": 62,
     "url_detectee": null
   },
   "suggestion": {
@@ -62,7 +62,7 @@
   "dates": {
     "collecte": "2026-09-02",
     "publication": "2026-09-02",
-    "maj": "2026-10-18"
+    "maj": "2026-10-23"
   },
   "source": "google-places",
   "redaction": {
@@ -98,7 +98,7 @@
         "id": "avis",
         "titre": "La réputation de Primever Valence (Transcosatal)",
         "paragraphes": [
-          "Note de 3,9 sur 5 pour 57 avis Google au relevé du 18 octobre 2026. Les avis se consultent sur la fiche Google, dont le lien figure sur cette page."
+          "Note de 3,9 sur 5 pour 57 avis Google au relevé du 23 octobre 2026. Les avis les plus parlants sont compilés ci-dessous, avec un lien vers la fiche d'origine."
         ]
       }
     ],
@@ -116,7 +116,7 @@
         "r": "La fiche Google de l'établissement mentionne : « Parking accessible en fauteuil roulant ». Cette information est déclarative ; en cas de doute, vérifiez par téléphone."
       }
     ],
-    "genere_le": "2026-10-18"
+    "genere_le": "2026-10-23"
   },
   "statut_google": "OPERATIONAL",
   "audience": {
@@ -127,7 +127,7 @@
     "clicsRecents": 0,
     "fenetreRecenteJours": 28,
     "source": "search-console",
-    "date": "2026-10-22"
+    "date": "2026-10-23"
   },
   "indexation": {
     "etat": "non-indexee",
@@ -137,5 +137,55 @@
     "canonique_google": null,
     "source": "inspection",
     "date": "2026-10-18"
+  },
+  "avis_detail": {
+    "releve": "2026-10-23",
+    "liste": [
+      {
+        "note": 1,
+        "texte": "Mauvaise expérience arrivé 22h20 partie 1h20 !! J'espère mieux a l'avenir",
+        "langue": "fr",
+        "date": "2026-07-03",
+        "auteur": "Christopher Delaforge",
+        "auteur_lien": "https://www.google.com/maps/contrib/105180647271043925772/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2pKck9ITmtjM0o2ZVZsaFozVXRXRGx1YzFWaU5WRRAB!2m1!1s0x47f5504351ce52c5:0xb7a4bf583656d646"
+      },
+      {
+        "note": 1,
+        "texte": "⚠️ TRAFFIC DE PALETTES EUROPES ⚠️\n\nJe suis venu charger plusieurs palettes ici dont quelques palettes europes dans le lot , le gars qui s'occupent des papiers à refusé que j'échange les palettes en me disant qu'il ne me les compterais pas ...et ensuite mon patron à reçu une facture de plus du double du nombre palettes europes que j'avais chargé ce jour là ! Soyez vigilant !",
+        "langue": "fr",
+        "date": "2024-08-20",
+        "auteur": "Laurent Le Quartier",
+        "auteur_lien": "https://www.google.com/maps/contrib/114064067659806516381/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUQ3d0lhMEdnEAE!2m1!1s0x47f5504351ce52c5:0xb7a4bf583656d646"
+      },
+      {
+        "note": 1,
+        "texte": "Aujourd'hui, dans les Landes entre Mont-de-Marsan et Roquefort 10h35 ,le chauffeur colle ma voiture, fait des  appels de phares alors que j'ai un side-car devant qui roule à 70 sur une route à 80 .\nDouble et klaxone devant une voiture avant d'arriver à un rond-point .\nComplètement irresponsable et dangereux.  Fait plusieurs infractions au code de la route ( vitesse , non respect des distances de sécurité, utilisation du klaxon abusif car pas de danger, double face à un véhicule).\nCe monsieur ne se rend pas compte qu'il a une bombe entre les mains et qu'il peut ôter la vie à des gens .\nUn inconscient qui ne mérite pas de conduire dans votre société et qui renvoie une mauvaise image de celle ci",
+        "langue": "fr",
+        "date": "2024-07-15",
+        "auteur": "Yann Bruzac",
+        "auteur_lien": "https://www.google.com/maps/contrib/114877736112927743654/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSURybE5tanhnRRAB!2m1!1s0x47f5504351ce52c5:0xb7a4bf583656d646"
+      },
+      {
+        "note": 3,
+        "texte": "Si vous suivez la semi DD-984-CC, surtout soyez très prudent si vous voulez la dépasser car ce conducteur ignore que son véhicule est équipé de rétroviseurs. Il déboite sans regarder et ne daigne pas mettre ses clignotants non plus. Cette personne n'a rien à faire au volant d'un poids-lourd",
+        "langue": "fr",
+        "date": "2018-10-19",
+        "auteur": "Mickael O.",
+        "auteur_lien": "https://www.google.com/maps/contrib/102227557397352410980/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUR3b1BTVWNnEAE!2m1!1s0x47f5504351ce52c5:0xb7a4bf583656d646"
+      },
+      {
+        "note": 5,
+        "texte": "Service rapide  superbe qualité et agréable accueil",
+        "langue": "fr",
+        "date": "2018-06-22",
+        "auteur": "Najib Mohamed",
+        "auteur_lien": "https://www.google.com/maps/contrib/101208478563788377828/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUNnLU42Q09nEAE!2m1!1s0x47f5504351ce52c5:0xb7a4bf583656d646"
+      }
+    ]
   }
 }

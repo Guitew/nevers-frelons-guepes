@@ -1,5 +1,151 @@
 [
   {
+    "date": "2026-10-23T10:00:28.139Z",
+    "type": "suggestion-soumise",
+    "id": "ChIJdwhMqK2V-kcRfsMp_PJP66U",
+    "nom": "Trouy Diesel Service",
+    "url": "/garages-automobile/bourges/trouy-diesel-service/"
+  },
+  {
+    "date": "2026-10-23T10:00:28.107Z",
+    "type": "suggestion-soumise",
+    "id": "ChIJ2_6XvFvLlkcRzNvBiGY0UUA",
+    "nom": "Complexe Sportif Lixenbuhl",
+    "url": "/loisirs-sport-culture/illkirch-graffenstaden/complexe-sportif-lixenbuhl/"
+  },
+  {
+    "date": "2026-10-23T10:00:28.070Z",
+    "type": "suggestion-soumise",
+    "id": "ChIJVVVxv17L_kcRrRhF8q6lxpY",
+    "nom": "Le Diablotin Boulangerie Pâtisserie",
+    "url": "/boulangeries-patisseries/limoges/le-diablotin-boulangerie-patisserie/"
+  },
+  {
+    "date": "2026-10-23T10:00:28.029Z",
+    "type": "suggestion-soumise",
+    "id": "ChIJl1I5q4X65UcRJrRGycSTAPg",
+    "nom": "Les Fours à chaux Restaurant- Tabac",
+    "url": "/restaurants/le-mee-sur-seine/les-fours-a-chaux-restaurant-tabac/"
+  },
+  {
+    "date": "2026-10-23T10:00:27.991Z",
+    "type": "suggestion-soumise",
+    "id": "ChIJMz-ObxfzkkcRNvoIVpyY-mY",
+    "nom": "Dolci Sarl",
+    "url": "/boulangeries-patisseries/frotey-les-vesoul/dolci-sarl/"
+  },
+  {
+    "date": "2026-10-23T10:00:27.186Z",
+    "type": "retrait-410",
+    "id": "ChIJ1_Eq60WL-EcRgI-vxhexOCA",
+    "nom": "Chasteloux Rémy / Chevalier Sébastien",
+    "url": "/veterinaires-animaux/tulle/chasteloux-remy-chevalier-sebastien/",
+    "motif": "backlink jamais posé après 45 jours de délai de grâce",
+    "cible": null
+  },
+  {
+    "date": "2026-10-23T10:00:27.193Z",
+    "type": "retrait-410",
+    "id": "ChIJv__mJOnazRIRqHa_11YKCuY",
+    "nom": "CoCo Beach",
+    "url": "/hebergement/nice/coco-beach/",
+    "motif": "backlink jamais posé après 45 jours de délai de grâce",
+    "cible": null
+  },
+  {
+    "date": "2026-10-23T09:59:51.327Z",
+    "type": "backlink-absent",
+    "id": "ChIJUas09qSV_UcRIWApCv6kks0",
+    "nom": "Garage Fiacek-Quintus",
+    "url": null,
+    "precedent": "en-attente"
+  },
+  {
+    "date": "2026-10-23T09:59:51.393Z",
+    "type": "backlink-absent",
+    "id": "ChIJTZpjaow7kkcRihQBXdIWRg8",
+    "nom": "GARDENIA RESTAURANT",
+    "url": null,
+    "precedent": "en-attente"
+  },
+  {
+    "date": "2026-10-23T09:59:51.460Z",
+    "type": "backlink-absent",
+    "id": "ChIJr_B7EWFX9UcRhYShFtfKkpk",
+    "nom": "IMarket",
+    "url": null,
+    "precedent": "en-attente"
+  },
+  {
+    "date": "2026-10-23T09:59:51.516Z",
+    "type": "backlink-absent",
+    "id": "ChIJD5DWgYagk0cR9hY7bm-ebKk",
+    "nom": "Le cadre noir",
+    "url": null,
+    "precedent": "en-attente"
+  },
+  {
+    "date": "2026-10-23T09:59:51.574Z",
+    "type": "backlink-absent",
+    "id": "ChIJwbzXLEcc8UcRgPZ3z_Yvj2o",
+    "nom": "Proximarché",
+    "url": null,
+    "precedent": "en-attente"
+  },
+  {
+    "date": "2026-10-23T09:59:52.754Z",
+    "type": "backlink-present",
+    "id": "ChIJP2n1zqX85UcRJlpvSD7iHvg",
+    "nom": "Restaurant Stratto",
+    "url": "https://andpro.fr/vitrine-locale/restaurants/reau/restaurant-stratto/",
+    "precedent": "absent"
+  },
+  {
+    "date": "2026-10-23T09:59:50.688Z",
+    "type": "publication",
+    "id": "ChIJD5DWgYagk0cR9hY7bm-ebKk",
+    "nom": "Le cadre noir",
+    "url": "/mode-equipement-maison/epinal/le-cadre-noir/",
+    "categorie": "mode-equipement-maison",
+    "source": "google-places"
+  },
+  {
+    "date": "2026-10-23T09:59:50.782Z",
+    "type": "publication",
+    "id": "ChIJr_B7EWFX9UcRhYShFtfKkpk",
+    "nom": "IMarket",
+    "url": "/commerces-alimentation/valence/imarket/",
+    "categorie": "commerces-alimentation",
+    "source": "google-places"
+  },
+  {
+    "date": "2026-10-23T09:59:50.875Z",
+    "type": "publication",
+    "id": "ChIJTZpjaow7kkcRihQBXdIWRg8",
+    "nom": "GARDENIA RESTAURANT",
+    "url": "/restaurants/belfort/gardenia-restaurant/",
+    "categorie": "restaurants",
+    "source": "google-places"
+  },
+  {
+    "date": "2026-10-23T09:59:50.967Z",
+    "type": "publication",
+    "id": "ChIJUas09qSV_UcRIWApCv6kks0",
+    "nom": "Garage Fiacek-Quintus",
+    "url": "/garages-automobile/vouneuil-sous-biard/garage-fiacek-quintus/",
+    "categorie": "garages-automobile",
+    "source": "google-places"
+  },
+  {
+    "date": "2026-10-23T09:59:51.060Z",
+    "type": "publication",
+    "id": "ChIJwbzXLEcc8UcRgPZ3z_Yvj2o",
+    "nom": "Proximarché",
+    "url": "/commerces-alimentation/moulins/proximarche/",
+    "categorie": "commerces-alimentation",
+    "source": "google-places"
+  },
+  {
     "date": "2026-10-22T10:07:04.774Z",
     "type": "suggestion-soumise",
     "id": "ChIJBczuxipI3UcRkhot8lPcN5g",

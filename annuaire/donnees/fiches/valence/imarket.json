@@ -1,0 +1,288 @@
+{
+  "id": "ChIJr_B7EWFX9UcRhYShFtfKkpk",
+  "slug": "imarket",
+  "nom": "IMarket",
+  "categorie": "commerces-alimentation",
+  "categorie_gmb": "Épicerie",
+  "type_principal": "grocery_store",
+  "types": [
+    "grocery_store",
+    "butcher_shop",
+    "manufacturer",
+    "food_store",
+    "store",
+    "food",
+    "point_of_interest",
+    "service",
+    "establishment"
+  ],
+  "ville": "Valence",
+  "ville_slug": "valence",
+  "adresse": {
+    "rue": "77 Chemin des Huguenots",
+    "code_postal": "26000",
+    "departement": "26",
+    "region": "Auvergne-Rhône-Alpes",
+    "pays": "France",
+    "complete": "77 Chem. des Huguenots, 26000 Valence"
+  },
+  "telephone": "06 67 03 90 42",
+  "geo": {
+    "latitude": 44.923968099999996,
+    "longitude": 4.9289913
+  },
+  "note": 4.7,
+  "avis": 198,
+  "horaires": [
+    {
+      "jour": 0,
+      "ferme": false,
+      "creneaux": [
+        [
+          "09:00",
+          "18:55"
+        ]
+      ]
+    },
+    {
+      "jour": 1,
+      "ferme": false,
+      "creneaux": [
+        [
+          "09:00",
+          "18:55"
+        ]
+      ]
+    },
+    {
+      "jour": 2,
+      "ferme": false,
+      "creneaux": [
+        [
+          "09:00",
+          "18:55"
+        ]
+      ]
+    },
+    {
+      "jour": 3,
+      "ferme": false,
+      "creneaux": [
+        [
+          "09:00",
+          "18:55"
+        ]
+      ]
+    },
+    {
+      "jour": 4,
+      "ferme": false,
+      "creneaux": [
+        [
+          "09:00",
+          "18:55"
+        ]
+      ]
+    },
+    {
+      "jour": 5,
+      "ferme": false,
+      "creneaux": [
+        [
+          "09:00",
+          "19:25"
+        ]
+      ]
+    },
+    {
+      "jour": 6,
+      "ferme": false,
+      "creneaux": [
+        [
+          "09:00",
+          "18:55"
+        ]
+      ]
+    }
+  ],
+  "attributs": [
+    "Entrée accessible en fauteuil roulant",
+    "Parking accessible en fauteuil roulant"
+  ],
+  "lien_google": "https://maps.google.com/?cid=11066130259549193349&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
+  "site_web_gmb": null,
+  "statut": "publiee",
+  "backlink": {
+    "etat": "absent",
+    "premiere_detection": null,
+    "derniere_detection": null,
+    "derniere_verification": "2026-10-23T09:59:51.184Z",
+    "echecs": 1,
+    "url_detectee": null
+  },
+  "suggestion": {
+    "etat": "en-attente",
+    "date_soumission": null,
+    "tentatives": 0,
+    "date_email": "2026-10-23"
+  },
+  "retrait": null,
+  "dates": {
+    "collecte": "2026-10-23",
+    "publication": "2026-10-23",
+    "maj": "2026-10-23"
+  },
+  "source": "google-places",
+  "avis_detail": {
+    "releve": "2026-10-23",
+    "liste": [
+      {
+        "note": 5,
+        "texte": "Magasin bien organisé bien ranger propre viande de calité et personnel très gentil.",
+        "langue": "fr",
+        "date": "2026-09-16",
+        "auteur": "Aichaneyla Aicha",
+        "auteur_lien": "https://www.google.com/maps/contrib/116745792448723971177/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT21wVE0wRjVMV3B1VTBWaU5qZFRTVXgyY2xGNlZVRRAB!2m1!1s0x47f55761117bf0af:0x9992cad716a18485"
+      },
+      {
+        "note": 3,
+        "texte": "Moyen pour du dépannage le dimanche par exemple.\nLa viande convenable mais sans plus\nEn fait cest une grande épicerie avec un rayon boucherie, les employés bossent. C'est pas mon magasin préféré mais quand ya que ça d'ouvert on y va...",
+        "langue": "fr",
+        "date": "2026-05-26",
+        "auteur": "N. SYLVAIN",
+        "auteur_lien": "https://www.google.com/maps/contrib/105629760639031422264/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT21Oc01rUktOMGswVW5oT1YwOVhXR2h3ZUVOa2QwRRAB!2m1!1s0x47f55761117bf0af:0x9992cad716a18485"
+      },
+      {
+        "note": 5,
+        "texte": "J'y suis passée cette après midi pour chercher un peu de viande, le boucher était souriant, agréable  et patient ( pourtant j ai hésité un long moment ^^) quant a la bavette elle était super tendre et savoureuse, merci à vous, je reviendrai",
+        "langue": "fr",
+        "date": "2026-04-21",
+        "auteur": "Nath Apple-Face",
+        "auteur_lien": "https://www.google.com/maps/contrib/103013023848432868874/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xGUVRWZG9SMlptY0ZGclJpMVlTMWQ1ZFhONmNXYxAB!2m1!1s0x47f55761117bf0af:0x9992cad716a18485"
+      },
+      {
+        "note": 2,
+        "texte": "Chorizo et poulet était bon.\nParcontre les merguez pas bonne. C’était sec et sans goût.\nGrand choix en charcuterie et épicerie",
+        "langue": "fr",
+        "date": "2026-04-10",
+        "auteur": "Coraline Tomas",
+        "auteur_lien": "https://www.google.com/maps/contrib/113637349845163890071/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT201UFdYSkNZV3RvVWtOSFZrZExVVVJ4WjB0V1lYYxAB!2m1!1s0x47f55761117bf0af:0x9992cad716a18485"
+      },
+      {
+        "note": 1,
+        "texte": "On ne peut pas mettre 0 donc je mets 1, viande avec une odeur étrange. Première fois que je viens et dernière fois. Bouchers et vendeurs très désagréables il faut changer de métier. C’est au final mon chien qui s’est régalé car je n’ai pas pu manger leur viande. À fuir absolument !",
+        "langue": "fr",
+        "date": "2026-01-22",
+        "auteur": "Imane",
+        "auteur_lien": "https://www.google.com/maps/contrib/107910405681340506449/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2w5WGRURmpZVFJNYkROS1FXWk1WbVJFVjJwck5FRRAB!2m1!1s0x47f55761117bf0af:0x9992cad716a18485"
+      }
+    ]
+  },
+  "services": {
+    "releve": "2026-10-23",
+    "options": {
+      "delivery": false,
+      "restroom": false
+    },
+    "paiement": [
+      "carte bancaire",
+      "carte de débit",
+      "paiement sans contact"
+    ],
+    "parking": [
+      "parking gratuit"
+    ]
+  },
+  "redaction": {
+    "version": 2,
+    "titre": "IMarket — Commerce d'alimentation à Valence",
+    "meta_titre": "IMarket à Valence : horaires, avis, téléphone",
+    "meta_description": "IMarket, commerce d'alimentation à Valence : horaires d'ouverture, note Google 4,7/5 (198 avis), téléphone, adresse et itinéraire.",
+    "chapo": "IMarket est un commerce d'alimentation au 77 Chemin des Huguenots, à Valence. Ouvert sept jours sur sept au relevé du 23 octobre 2026. Téléphone : 06 67 03 90 42. Note Google : 4,7 sur 5 pour 198 avis.",
+    "sections": [
+      {
+        "id": "presentation",
+        "titre": "IMarket en quelques mots",
+        "paragraphes": [
+          "Sur Google, l'établissement est classé « Épicerie », dans notre rubrique Commerce d'alimentation.",
+          "D'après le relevé du 23 octobre 2026, l'établissement est ouvert sept jours sur sept. Le détail jour par jour figure plus bas."
+        ]
+      },
+      {
+        "id": "prestations",
+        "titre": "Services et équipements de IMarket",
+        "paragraphes": [
+          "Non proposé selon la fiche Google : livraison et toilettes.",
+          "Moyens de paiement déclarés : carte bancaire, carte de débit et paiement sans contact.",
+          "Stationnement : parking gratuit.",
+          "Ces indications sont déclarées par l'établissement sur sa fiche Google (relevé du 23 octobre 2026)."
+        ]
+      },
+      {
+        "id": "acces",
+        "titre": "Adresse et accès",
+        "paragraphes": [
+          "L'établissement est situé au 77 Chemin des Huguenots, 26000 Valence.",
+          "Coordonnées GPS : 44.92397, 4.92899. Le bouton Itinéraire de cette page ouvre la navigation."
+        ]
+      },
+      {
+        "id": "contact",
+        "titre": "Contacter IMarket",
+        "paragraphes": [
+          "Le contact se fait par téléphone au 06 67 03 90 42, ou directement sur place aux horaires d'ouverture."
+        ]
+      },
+      {
+        "id": "avis",
+        "titre": "La réputation de IMarket",
+        "paragraphes": [
+          "Note de 4,7 sur 5 pour 198 avis Google au relevé du 23 octobre 2026. Les avis les plus parlants sont compilés ci-dessous, avec un lien vers la fiche d'origine."
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "q": "Quels sont les horaires de IMarket ?",
+        "r": "Au relevé du 23 octobre 2026, IMarket était ouvert sept jours sur sept. Dans le détail — lundi : de 9 h à 18 h 55 ; mardi : de 9 h à 18 h 55 ; mercredi : de 9 h à 18 h 55 ; jeudi : de 9 h à 18 h 55 ; vendredi : de 9 h à 18 h 55 ; samedi : de 9 h à 19 h 25 ; dimanche : de 9 h à 18 h 55. Ces horaires peuvent changer : un appel préalable reste conseillé."
+      },
+      {
+        "q": "IMarket est-il ouvert le dimanche ?",
+        "r": "Oui : le dimanche, IMarket est ouvert de 9 h à 18 h 55 (horaires relevés le 23 octobre 2026)."
+      },
+      {
+        "q": "Où se trouve IMarket ?",
+        "r": "IMarket se trouve 77 Chem. des Huguenots, 26000 Valence. Un lien d'itinéraire est disponible sur cette page."
+      },
+      {
+        "q": "Comment contacter IMarket ?",
+        "r": "Par téléphone au 06 67 03 90 42, ou directement sur place aux heures d'ouverture."
+      },
+      {
+        "q": "IMarket propose-t-il la vente à emporter ou la livraison ?",
+        "r": "D'après sa fiche Google (relevé du 23 octobre 2026) — livraison : non."
+      },
+      {
+        "q": "IMarket est-il accessible aux personnes à mobilité réduite ?",
+        "r": "La fiche Google de l'établissement mentionne : « Entrée accessible en fauteuil roulant ». Cette information est déclarative ; en cas de doute, vérifiez par téléphone."
+      }
+    ],
+    "genere_le": "2026-10-23"
+  },
+  "statut_google": "OPERATIONAL",
+  "audience": {
+    "clics": 0,
+    "impressions": 0,
+    "position": null,
+    "fenetreJours": 90,
+    "clicsRecents": 0,
+    "fenetreRecenteJours": 28,
+    "source": "search-console",
+    "date": "2026-10-23"
+  }
+}
