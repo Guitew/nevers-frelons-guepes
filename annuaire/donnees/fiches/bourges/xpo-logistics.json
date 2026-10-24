@@ -103,8 +103,8 @@
     "etat": "absent",
     "premiere_detection": null,
     "derniere_detection": null,
-    "derniere_verification": "2026-10-09T16:58:32.124Z",
-    "echecs": 46,
+    "derniere_verification": "2026-10-24T09:28:34.818Z",
+    "echecs": 47,
     "url_detectee": null
   },
   "suggestion": {
@@ -124,7 +124,7 @@
   "dates": {
     "collecte": "2026-09-09",
     "publication": "2026-09-09",
-    "maj": "2026-10-18"
+    "maj": "2026-10-24"
   },
   "source": "google-places",
   "redaction": {
@@ -132,14 +132,22 @@
     "titre": "XPO Logistics — Transport et déménagement à Bourges",
     "meta_titre": "XPO Logistics à Bourges : horaires, avis, téléphone",
     "meta_description": "XPO Logistics, transport et déménagement à Bourges : horaires d'ouverture, note Google 3,8/5 (156 avis), téléphone, adresse et itinéraire.",
-    "chapo": "Cette fiche présente XPO Logistics, un transport et déménagement au Chemin Le Vallon, à Bourges. Fermé le samedi et le dimanche au relevé du 9 octobre 2026. Téléphone : 02 48 23 03 49. Note Google : 3,8 sur 5 pour 156 avis.",
+    "chapo": "Cette fiche présente XPO Logistics, un transport et déménagement au Chemin Le Vallon, à Bourges. Fermé le samedi et le dimanche au relevé du 24 octobre 2026. Téléphone : 02 48 23 03 49. Note Google : 3,8 sur 5 pour 156 avis.",
     "sections": [
       {
         "id": "presentation",
         "titre": "XPO Logistics en quelques mots",
         "paragraphes": [
           "Sur Google, l'établissement est classé « Entreprise de déménagement », dans notre rubrique Transport et déménagement.",
-          "D'après le relevé du 9 octobre 2026, l'établissement est fermé le samedi et le dimanche. Le détail jour par jour figure plus bas."
+          "D'après le relevé du 24 octobre 2026, l'établissement est fermé le samedi et le dimanche. Le détail jour par jour figure plus bas."
+        ]
+      },
+      {
+        "id": "prestations",
+        "titre": "Services et équipements de XPO Logistics",
+        "paragraphes": [
+          "Proposé : toilettes.",
+          "Ces indications sont déclarées par l'établissement sur sa fiche Google (relevé du 24 octobre 2026)."
         ]
       },
       {
@@ -161,18 +169,18 @@
         "id": "avis",
         "titre": "La réputation de XPO Logistics",
         "paragraphes": [
-          "Note de 3,8 sur 5 pour 156 avis Google au relevé du 9 octobre 2026. Les avis se consultent sur la fiche Google, dont le lien figure sur cette page."
+          "Note de 3,8 sur 5 pour 156 avis Google au relevé du 24 octobre 2026. Les avis les plus parlants sont compilés ci-dessous, avec un lien vers la fiche d'origine."
         ]
       }
     ],
     "faq": [
       {
         "q": "Quels sont les horaires de XPO Logistics ?",
-        "r": "Au relevé du 9 octobre 2026, XPO Logistics était fermé le samedi et le dimanche. Dans le détail — lundi : de 7 h à 21 h ; mardi : de 7 h à 21 h ; mercredi : de 7 h à 21 h ; jeudi : de 7 h à 21 h ; vendredi : de 7 h à 21 h ; samedi : fermé ; dimanche : fermé. Ces horaires peuvent changer : un appel préalable reste conseillé."
+        "r": "Au relevé du 24 octobre 2026, XPO Logistics était fermé le samedi et le dimanche. Dans le détail — lundi : de 7 h à 21 h ; mardi : de 7 h à 21 h ; mercredi : de 7 h à 21 h ; jeudi : de 7 h à 21 h ; vendredi : de 7 h à 21 h ; samedi : fermé ; dimanche : fermé. Ces horaires peuvent changer : un appel préalable reste conseillé."
       },
       {
         "q": "XPO Logistics est-il ouvert le dimanche ?",
-        "r": "Non : d'après les horaires relevés le 9 octobre 2026, XPO Logistics est fermé le dimanche."
+        "r": "Non : d'après les horaires relevés le 24 octobre 2026, XPO Logistics est fermé le dimanche."
       },
       {
         "q": "Où se trouve XPO Logistics ?",
@@ -187,7 +195,7 @@
         "r": "La fiche Google de l'établissement mentionne : « Entrée accessible en fauteuil roulant ». Cette information est déclarative ; en cas de doute, vérifiez par téléphone."
       }
     ],
-    "genere_le": "2026-10-09"
+    "genere_le": "2026-10-24"
   },
   "statut_google": "OPERATIONAL",
   "audience": {
@@ -198,7 +206,7 @@
     "clicsRecents": 0,
     "fenetreRecenteJours": 28,
     "source": "search-console",
-    "date": "2026-10-23"
+    "date": "2026-10-24"
   },
   "indexation": {
     "etat": "non-indexee",
@@ -208,5 +216,63 @@
     "canonique_google": null,
     "source": "inspection",
     "date": "2026-10-18"
+  },
+  "avis_detail": {
+    "releve": "2026-10-24",
+    "liste": [
+      {
+        "note": 1,
+        "texte": "Vos chauffeurs ne respectent pas le code de la route carrefour rd956 et rdv976 ne marque pas le stop sur un carrefour accidentogene.ceci c'est passé ce matin vers 7h25 et ce n'est pas la première fois merci à vous",
+        "langue": "fr",
+        "date": "2025-07-03",
+        "auteur": "Les amoureux",
+        "auteur_lien": "https://www.google.com/maps/contrib/109197589177680388933/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2pocE0wbFNNakJQYUc5YWNHZEthemR0Y1V4Q1FXYxAB!2m1!1s0x47fa96777181bde5:0x30e01da647d2ab2b"
+      },
+      {
+        "note": 1,
+        "texte": "Si vous avez besoin de rien, c'est impeccable, sinon on vous raccroche au nez, on vous promet des livraison tous les jours qui n'arrivent pas, à fuir au plus vite !",
+        "langue": "fr",
+        "date": "2025-05-05",
+        "auteur": "Sébastien Dufour",
+        "auteur_lien": "https://www.google.com/maps/contrib/106703297075385499092/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnTUNZbWRxaHR3RRAB!2m1!1s0x47fa96777181bde5:0x30e01da647d2ab2b"
+      },
+      {
+        "note": 3,
+        "texte": "Je modifie mon avis, de 1 étoile à 3 car oui la semaine quand XPO m'a posé un \"lapin\" pour une livraison, sans me prévenir. Du coup aujourd'hui je me suis rendu chez XPO pour l'enlèvement de la marchandise. Rien à voir avec la semaine dernière, j'ai d'abord eu une dame au téléphone très aimable et très professionnelle. Ensuite sur place, la secrétaire très professionnelle également . Le chauffeur qui m'a chargé la cuve, très gentil et serviable je le remercie . XPO remonte dans mon estime.",
+        "langue": "fr",
+        "date": "2024-10-03",
+        "auteur": "Pascal Cazin",
+        "auteur_lien": "https://www.google.com/maps/contrib/111868313515182882983/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUNudnBqdmVREAE!2m1!1s0x47fa96777181bde5:0x30e01da647d2ab2b"
+      },
+      {
+        "note": 1,
+        "texte": "\"Nous sommes reconnus pour notre expertise, notre fiabilité et notre professionnalisme... une qualité de service irréprochable.\"....\n\nDésolé, mais ce ne fut pas du tout mon expérience avec XPO-Bourges.\nC'était plutôt un service téléphonique mal-aimable, et un livreur incompétent, partisan farouche du \"minimum syndical\".\nDeux jours perdus à attendre cet incompétent, pour finalement me voir livrer un colis dégradé, déchiré, dont le contenu jonchait le sol de son camion.\nJ’ai préféré ramasser ce qui était récupérable plutôt que de refuser le colis et repartir dans un nouveau cycle de rendez-vous manqués et de palettes détériorées.\nAprès, quand on lit leur prétention au « professionnalisme » citée plus haut, ça ne manque pas de saveur !",
+        "langue": "fr",
+        "date": "2024-05-21",
+        "auteur": "Patrick B.",
+        "auteur_lien": "https://www.google.com/maps/contrib/108833827304795776001/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUNUbGNxYUdnEAE!2m1!1s0x47fa96777181bde5:0x30e01da647d2ab2b"
+      },
+      {
+        "note": 1,
+        "texte": "Aucun professionnalisme : ne livre pas à la date prévue, puis lorsqu'on propose un second rendez-vous, il a fallu que je téléphone moi-même le jour venu pour qu'on me dise que je ne serai pas livré non plus a temps pour le deuxième rendez-vous... Et en plus mon interlocuteur qui m'avait certifié respecter le deuxième rendez-vous n'a même pas assumé son erreur, il s'est défaussé sur ses collègues! Quelle belle mentalité dans cette société... Ils ont laissé le transporteur sous-traitant se débrouiller avec moi ! Heureusement le sous-traitant lui était compétent !",
+        "langue": "fr",
+        "date": "2023-06-07",
+        "auteur": "David V.",
+        "auteur_lien": "https://www.google.com/maps/contrib/113309761922981996612/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUR4MXJDaWZREAE!2m1!1s0x47fa96777181bde5:0x30e01da647d2ab2b"
+      }
+    ]
+  },
+  "services": {
+    "releve": "2026-10-24",
+    "options": {
+      "restroom": true
+    },
+    "paiement": [],
+    "parking": []
   }
 }

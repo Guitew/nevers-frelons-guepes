@@ -36,8 +36,8 @@
   "backlink": {
     "etat": "present",
     "premiere_detection": "2026-10-09T16:58:32.124Z",
-    "derniere_detection": "2026-10-09T16:58:32.124Z",
-    "derniere_verification": "2026-10-09T16:58:32.124Z",
+    "derniere_detection": "2026-10-24T09:28:34.818Z",
+    "derniere_verification": "2026-10-24T09:28:34.818Z",
     "echecs": 0,
     "url_detectee": "https://andpro.fr/vitrine-locale/hebergement/montauban/villa-de-cammas/"
   },
@@ -51,7 +51,7 @@
   "dates": {
     "collecte": "2026-10-02",
     "publication": "2026-10-02",
-    "maj": "2026-10-09"
+    "maj": "2026-10-24"
   },
   "source": "google-places",
   "redaction": {
@@ -66,6 +66,14 @@
         "titre": "Villa de cammas en quelques mots",
         "paragraphes": [
           "Sur Google, l'établissement est classé « Chambre d'hôtes », dans notre rubrique Hébergement."
+        ]
+      },
+      {
+        "id": "prestations",
+        "titre": "Services et équipements de Villa de cammas",
+        "paragraphes": [
+          "Proposé : adapté aux enfants.",
+          "Ces indications sont déclarées par l'établissement sur sa fiche Google (relevé du 24 octobre 2026)."
         ]
       },
       {
@@ -87,7 +95,7 @@
         "id": "avis",
         "titre": "La réputation de Villa de cammas",
         "paragraphes": [
-          "Note de 5 sur 5 pour 17 avis Google au relevé du 9 octobre 2026. Les avis se consultent sur la fiche Google, dont le lien figure sur cette page."
+          "Note de 5 sur 5 pour 17 avis Google au relevé du 24 octobre 2026. Les avis les plus parlants sont compilés ci-dessous, avec un lien vers la fiche d'origine."
         ]
       }
     ],
@@ -101,17 +109,75 @@
         "r": "Par téléphone au 06 22 46 30 41, ou directement sur place aux heures d'ouverture."
       }
     ],
-    "genere_le": "2026-10-09"
+    "genere_le": "2026-10-24"
   },
   "statut_google": "OPERATIONAL",
   "audience": {
-    "clics": 3,
-    "impressions": 66,
-    "position": 5.1,
+    "clics": 4,
+    "impressions": 73,
+    "position": 5,
     "fenetreJours": 90,
-    "clicsRecents": 3,
+    "clicsRecents": 4,
     "fenetreRecenteJours": 28,
     "source": "search-console",
-    "date": "2026-10-23"
+    "date": "2026-10-24"
+  },
+  "avis_detail": {
+    "releve": "2026-10-24",
+    "liste": [
+      {
+        "note": 5,
+        "texte": "Un excellent séjour à la Villa de Cammas ! Tout était parfait : une chambre impeccable, spacieuse et très confortable, un environnement calme et reposant, avec une magnifique piscine. Les hôtes sont d’une grande gentillesse, très accueillants et aux petits soins. Le petit-déjeuner est délicieux avec des produits de qualité. Une adresse que je recommande sans hésiter pour découvrir Montauban ou simplement profiter d’un moment de détente. Nous reviendrons avec grand plaisir !",
+        "langue": "fr",
+        "date": "2026-06-28",
+        "auteur": "Bazile Christ",
+        "auteur_lien": "https://www.google.com/maps/contrib/111251575401433287520/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2pReVMyNDJXa0o2ZG0xcVMyMXlUR3d6UzNkWmFFRRAB!2m1!1s0x12ac0dfe9aedf76f:0x3033735691579ac0"
+      },
+      {
+        "note": 5,
+        "texte": "Accueil très chaleureux.\nMaison très calme 😊\nTrès belle maison, neuve et très propre.\nChambre donnant sur le jardin et la piscine. ; très agréable.\nChambre spacieuse, belle décoration, sdb avec douche à\nl’italienne superbe et grand dressing plus w.c indépendant.\nGrande Literie très confortable et de qualité.\nPetit déjeuner ; sympathique.\nEt super équipée d’une climatisation réversible ; vive les beaux jours 😉",
+        "langue": "fr",
+        "date": "2026-05-07",
+        "auteur": "stéphanie Alard",
+        "auteur_lien": "https://www.google.com/maps/contrib/117396576535259923768/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2twelNEUmlaMFJRUjJWaGRXNVFPVlJVVmtjd2NuYxAB!2m1!1s0x12ac0dfe9aedf76f:0x3033735691579ac0"
+      },
+      {
+        "note": 5,
+        "texte": "Ravis de notre séjour à la Villa de cammas , où nous avons eu le bonheur de tomber sur des hôtes, plus que charmants (Gilles et Nathalie), avec qui nous avons longuement papoté 😉.\nNous avons été conquis par cette belle maison , aux volumes impressionnant .\nSa propreté ! 👌\nSa jolie piscine sécurisée, et son terrain de pétanque , sont un plus pour un séjour ou vacances.\nLa maison est décorée avec soin .\nNathalie , s'adonne à la peinture,  qui est son passe temps Favori  🙂.\nLes chambres ont un lit plus que confortable . On n'oublie pas leur disponibilité,  toujours aux petits soins .\nJe vous recommande cet endroit les yeux fermés ! 👌\n''Les Ariégeois Bernadette et Louis ''",
+        "langue": "fr",
+        "date": "2025-11-07",
+        "auteur": "Bernadette Le Di",
+        "auteur_lien": "https://www.google.com/maps/contrib/112485014872650378633/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25oUVZuQmhWMDgxYldaSVpUUXRTV2xUYmxKcGJWRRAB!2m1!1s0x12ac0dfe9aedf76f:0x3033735691579ac0"
+      },
+      {
+        "note": 5,
+        "texte": "Hotes très accueillants et disponibles.\nOn se sent comme à la maison :: propreté au top top\nLiterie top top\nSuper Petit déjeuner.\nGrand Merci à Nathalie et Gilles a très bientôt j espère\nChristian  M Christine. La cousine",
+        "langue": "fr",
+        "date": "2025-10-28",
+        "auteur": "Marie Christine Leblond",
+        "auteur_lien": "https://www.google.com/maps/contrib/101110499692281742692/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2pZdGFYcGZabkJqVVRkRlVWcE5abGx5Uldsa2JFRRAB!2m1!1s0x12ac0dfe9aedf76f:0x3033735691579ac0"
+      },
+      {
+        "note": 5,
+        "texte": "Nous avons été très  bien accueillis par les propriétaires. Les propriétaires sont plus que sympathiques, les chambres sont magnifiques et très propres comme tout le reste . Le petit déjeuner est délicieux , et nous avons apprécié la piscine à l’eau salée. Je recommande ce lieu en toute sincérité.",
+        "langue": "fr",
+        "date": "2025-08-24",
+        "auteur": "Katia PELLOUARD",
+        "auteur_lien": "https://www.google.com/maps/contrib/102180089733676061905/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT21wUE4wUnRSblZoTTNOaFN6QlVUMDFGZW5kd1JuYxAB!2m1!1s0x12ac0dfe9aedf76f:0x3033735691579ac0"
+      }
+    ]
+  },
+  "services": {
+    "releve": "2026-10-24",
+    "options": {
+      "goodForChildren": true
+    },
+    "paiement": [],
+    "parking": []
   }
 }

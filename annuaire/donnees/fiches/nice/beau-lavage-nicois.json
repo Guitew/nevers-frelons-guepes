@@ -1,0 +1,267 @@
+{
+  "id": "ChIJfYe2m0vRzRIRkT0WGk3VfZs",
+  "slug": "beau-lavage-nicois",
+  "nom": "Beau Lavage Niçois",
+  "categorie": "garages-automobile",
+  "categorie_gmb": "Station de lavage automobile",
+  "type_principal": "car_wash",
+  "types": [
+    "car_wash",
+    "point_of_interest",
+    "service",
+    "establishment"
+  ],
+  "ville": "Nice",
+  "ville_slug": "nice",
+  "adresse": {
+    "rue": "1 Route de Saint-Pierre de Féric",
+    "code_postal": "06100",
+    "departement": "06",
+    "region": "Provence-Alpes-Côte d'Azur",
+    "pays": "France",
+    "complete": "1 Rte de Saint-Pierre de Féric, 06100 Nice"
+  },
+  "telephone": "06 47 97 60 58",
+  "geo": {
+    "latitude": 43.703200599999995,
+    "longitude": 7.2449691000000005
+  },
+  "note": 4.3,
+  "avis": 86,
+  "horaires": [
+    {
+      "jour": 0,
+      "ferme": false,
+      "creneaux": [
+        [
+          "07:00",
+          "20:00"
+        ]
+      ]
+    },
+    {
+      "jour": 1,
+      "ferme": false,
+      "creneaux": [
+        [
+          "07:00",
+          "20:00"
+        ]
+      ]
+    },
+    {
+      "jour": 2,
+      "ferme": false,
+      "creneaux": [
+        [
+          "07:00",
+          "20:00"
+        ]
+      ]
+    },
+    {
+      "jour": 3,
+      "ferme": false,
+      "creneaux": [
+        [
+          "07:00",
+          "20:00"
+        ]
+      ]
+    },
+    {
+      "jour": 4,
+      "ferme": false,
+      "creneaux": [
+        [
+          "07:00",
+          "20:00"
+        ]
+      ]
+    },
+    {
+      "jour": 5,
+      "ferme": false,
+      "creneaux": [
+        [
+          "07:00",
+          "20:00"
+        ]
+      ]
+    },
+    {
+      "jour": 6,
+      "ferme": false,
+      "creneaux": [
+        [
+          "07:00",
+          "20:00"
+        ]
+      ]
+    }
+  ],
+  "attributs": [],
+  "lien_google": "https://maps.google.com/?cid=11204345975094525329&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
+  "site_web_gmb": null,
+  "statut": "publiee",
+  "backlink": {
+    "etat": "absent",
+    "premiere_detection": null,
+    "derniere_detection": null,
+    "derniere_verification": "2026-10-24T09:28:34.818Z",
+    "echecs": 1,
+    "url_detectee": null
+  },
+  "suggestion": {
+    "etat": "en-attente",
+    "date_soumission": null,
+    "tentatives": 0,
+    "date_email": "2026-10-24"
+  },
+  "retrait": null,
+  "dates": {
+    "collecte": "2026-10-24",
+    "publication": "2026-10-24",
+    "maj": "2026-10-24"
+  },
+  "source": "google-places",
+  "avis_detail": {
+    "releve": "2026-10-24",
+    "liste": [
+      {
+        "note": 2,
+        "texte": "Le timing est je trouve très bas , la brosse est très sale .....\nBref ma voiture est presque plus sale pour 8€...",
+        "langue": "fr",
+        "date": "2026-09-06",
+        "auteur": "BLAZY LUDOVIC (smecta)",
+        "auteur_lien": "https://www.google.com/maps/contrib/114009495341202015747/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25KUmQweEpSRTh6TlRaZlZuWTJhVlE1VDFGVmVVRRAB!2m1!1s0x12cdd14b9bb6877d:0x9b7dd54d1a163d91"
+      },
+      {
+        "note": 1,
+        "texte": "Avant, j'utilisais exclusivement cette station de lavage, mais maintenant je ne la recommande à personne car ils ont modifié la configuration des machines et il est impossible de laver sa voiture, et l'argent disparaît à une vitesse folle.",
+        "langue": "fr",
+        "date": "2026-07-27",
+        "auteur": "Fox Oil energy",
+        "auteur_lien": "https://www.google.com/maps/contrib/100004974815997183516/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2t4MVRsZHdWakExUzJOdmMwd3laME5tUkhWTFpGRRAB!2m1!1s0x12cdd14b9bb6877d:0x9b7dd54d1a163d91"
+      },
+      {
+        "note": 1,
+        "texte": "Les temps de lavage ont été modifiés, ce qui m'a coûté le double pour le même nettoyage simple (lavage +rinçage), à savoir4 jetons au lieu de 2.",
+        "langue": "fr",
+        "date": "2026-04-28",
+        "auteur": "Claire Scotto",
+        "auteur_lien": "https://www.google.com/maps/contrib/113414566182494176276/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xSWVFVNXhORFp3TmxKRWFqaEhkRkpNTjBOelJYYxAB!2m1!1s0x12cdd14b9bb6877d:0x9b7dd54d1a163d91"
+      },
+      {
+        "note": 5,
+        "texte": "Je chercher une station de lavage ( une vrai ) à Nice, c'est chose fait. Pour 10 euro vous avez 6 jetons. 1 jeton vous permet de faire 2 tours complet sur une berline ( CLS ), niveau mousse vraiment pas radin. Bref tous sa pour dire que cette station à gagné un nouveau client 💪👍",
+        "langue": "fr",
+        "date": "2026-03-21",
+        "auteur": "ЧР БЕНО",
+        "auteur_lien": "https://www.google.com/maps/contrib/102804610431925265346/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2s0eldHTjNZVFpEUW1kYWR5MXlVazh5V0dONFdXYxAB!2m1!1s0x12cdd14b9bb6877d:0x9b7dd54d1a163d91"
+      },
+      {
+        "note": 3,
+        "texte": "Les produits de lavage ont l'air de bonne qualité (mousse, produit jantes, eau sans traces). Cependant les brosses de lavages sont en mauvaises états et salles, pas souvent changées.\n\nBien équipé pour différents lavages, lavages des tapis, aspirateur intérieur, produit à pneus.\n\nCe qui est dommage est qu'il y a souvent trop de monde pour la capacité de la station et parfois une fréquentation pas très bonne mais c'est une des rares stations de Nice..\nPetit bémol pour le distributeur de jeton, il n'y en a pas assez donc souvent impossible d'en retirer, prévoir pièce de monnaie sinon cela peut devenir compliquer.",
+        "langue": "fr",
+        "date": "2026-01-16",
+        "auteur": "Max Devin",
+        "auteur_lien": "https://www.google.com/maps/contrib/115275839302060991704/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT21aRVExOVNlV3hRWkVWZk5XcFdkVlJLT0VsTlFVRRAB!2m1!1s0x12cdd14b9bb6877d:0x9b7dd54d1a163d91"
+      }
+    ]
+  },
+  "services": {
+    "releve": "2026-10-24",
+    "options": {
+      "restroom": false
+    },
+    "paiement": [
+      "carte de débit",
+      "paiement sans contact"
+    ],
+    "parking": []
+  },
+  "redaction": {
+    "version": 2,
+    "titre": "Beau Lavage Niçois — Garage et automobile à Nice",
+    "meta_titre": "Beau Lavage Niçois à Nice : horaires, avis, téléphone",
+    "meta_description": "Beau Lavage Niçois, garage et automobile à Nice : horaires d'ouverture, note Google 4,3/5 (86 avis), téléphone, adresse et itinéraire.",
+    "chapo": "Beau Lavage Niçois, garage et automobile au 1 Route de Saint-Pierre de Féric, à Nice. Ouvert sept jours sur sept au relevé du 24 octobre 2026. Téléphone : 06 47 97 60 58. Note Google : 4,3 sur 5 pour 86 avis.",
+    "sections": [
+      {
+        "id": "presentation",
+        "titre": "Beau Lavage Niçois en quelques mots",
+        "paragraphes": [
+          "Sur Google, l'établissement est classé « Station de lavage automobile », dans notre rubrique Garage et automobile.",
+          "D'après le relevé du 24 octobre 2026, l'établissement est ouvert sept jours sur sept. Le détail jour par jour figure plus bas."
+        ]
+      },
+      {
+        "id": "prestations",
+        "titre": "Services et équipements de Beau Lavage Niçois",
+        "paragraphes": [
+          "Non proposé selon la fiche Google : toilettes.",
+          "Moyens de paiement déclarés : carte de débit et paiement sans contact.",
+          "Ces indications sont déclarées par l'établissement sur sa fiche Google (relevé du 24 octobre 2026)."
+        ]
+      },
+      {
+        "id": "acces",
+        "titre": "Adresse et accès",
+        "paragraphes": [
+          "L'établissement est situé au 1 Route de Saint-Pierre de Féric, 06100 Nice.",
+          "Coordonnées GPS : 43.70320, 7.24497. Le bouton Itinéraire de cette page ouvre la navigation."
+        ]
+      },
+      {
+        "id": "contact",
+        "titre": "Contacter Beau Lavage Niçois",
+        "paragraphes": [
+          "Le contact se fait par téléphone au 06 47 97 60 58, ou directement sur place aux horaires d'ouverture."
+        ]
+      },
+      {
+        "id": "avis",
+        "titre": "La réputation de Beau Lavage Niçois",
+        "paragraphes": [
+          "Note de 4,3 sur 5 pour 86 avis Google au relevé du 24 octobre 2026. Les avis les plus parlants sont compilés ci-dessous, avec un lien vers la fiche d'origine."
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "q": "Quels sont les horaires de Beau Lavage Niçois ?",
+        "r": "Au relevé du 24 octobre 2026, Beau Lavage Niçois était ouvert sept jours sur sept. Dans le détail — lundi : de 7 h à 20 h ; mardi : de 7 h à 20 h ; mercredi : de 7 h à 20 h ; jeudi : de 7 h à 20 h ; vendredi : de 7 h à 20 h ; samedi : de 7 h à 20 h ; dimanche : de 7 h à 20 h. Ces horaires peuvent changer : un appel préalable reste conseillé."
+      },
+      {
+        "q": "Beau Lavage Niçois est-il ouvert le dimanche ?",
+        "r": "Oui : le dimanche, Beau Lavage Niçois est ouvert de 7 h à 20 h (horaires relevés le 24 octobre 2026)."
+      },
+      {
+        "q": "Où se trouve Beau Lavage Niçois ?",
+        "r": "Beau Lavage Niçois se trouve 1 Rte de Saint-Pierre de Féric, 06100 Nice. Un lien d'itinéraire est disponible sur cette page."
+      },
+      {
+        "q": "Comment contacter Beau Lavage Niçois ?",
+        "r": "Par téléphone au 06 47 97 60 58, ou directement sur place aux heures d'ouverture."
+      }
+    ],
+    "genere_le": "2026-10-24"
+  },
+  "statut_google": "OPERATIONAL",
+  "audience": {
+    "clics": 0,
+    "impressions": 0,
+    "position": null,
+    "fenetreJours": 90,
+    "clicsRecents": 0,
+    "fenetreRecenteJours": 28,
+    "source": "search-console",
+    "date": "2026-10-24"
+  }
+}

@@ -27,7 +27,7 @@
     "longitude": 2.4339272999999997
   },
   "note": 4,
-  "avis": 201,
+  "avis": 202,
   "horaires": [
     {
       "jour": 0,
@@ -78,8 +78,8 @@
     "etat": "absent",
     "premiere_detection": null,
     "derniere_detection": null,
-    "derniere_verification": "2026-10-09T16:58:32.124Z",
-    "echecs": 25,
+    "derniere_verification": "2026-10-24T09:28:34.818Z",
+    "echecs": 26,
     "url_detectee": null
   },
   "suggestion": {
@@ -92,22 +92,31 @@
   "dates": {
     "collecte": "2026-09-19",
     "publication": "2026-09-19",
-    "maj": "2026-10-09"
+    "maj": "2026-10-24"
   },
   "source": "google-places",
   "redaction": {
     "version": 2,
     "titre": "Station de lavage Kärcher — Garage et automobile à Lisses",
     "meta_titre": "Station de lavage Kärcher à Lisses : horaires, avis",
-    "meta_description": "Station de lavage Kärcher, garage et automobile à Lisses : horaires d'ouverture, note Google 4/5 (201 avis), adresse et itinéraire.",
-    "chapo": "Station de lavage Kärcher, garage et automobile au D446, à Lisses. Ouvert le dimanche au relevé du 9 octobre 2026. Note Google : 4 sur 5 pour 201 avis.",
+    "meta_description": "Station de lavage Kärcher, garage et automobile à Lisses : horaires d'ouverture, note Google 4/5 (202 avis), adresse et itinéraire.",
+    "chapo": "Station de lavage Kärcher, garage et automobile au D446, à Lisses. Ouvert le dimanche au relevé du 24 octobre 2026. Note Google : 4 sur 5 pour 202 avis.",
     "sections": [
       {
         "id": "presentation",
         "titre": "Station de lavage Kärcher en quelques mots",
         "paragraphes": [
           "Sur Google, l'établissement est classé « Station de lavage automobile », dans notre rubrique Garage et automobile.",
-          "D'après le relevé du 9 octobre 2026, l'établissement est ouvert le dimanche. Le détail jour par jour figure plus bas."
+          "D'après le relevé du 24 octobre 2026, l'établissement est ouvert le dimanche. Le détail jour par jour figure plus bas."
+        ]
+      },
+      {
+        "id": "prestations",
+        "titre": "Services et équipements de Station de lavage Kärcher",
+        "paragraphes": [
+          "Non proposé selon la fiche Google : toilettes.",
+          "Moyens de paiement déclarés : carte bancaire, carte de débit et paiement sans contact.",
+          "Ces indications sont déclarées par l'établissement sur sa fiche Google (relevé du 24 octobre 2026)."
         ]
       },
       {
@@ -129,25 +138,25 @@
         "id": "avis",
         "titre": "La réputation de Station de lavage Kärcher",
         "paragraphes": [
-          "Note de 4 sur 5 pour 201 avis Google au relevé du 9 octobre 2026. Les avis se consultent sur la fiche Google, dont le lien figure sur cette page."
+          "Note de 4 sur 5 pour 202 avis Google au relevé du 24 octobre 2026. Les avis les plus parlants sont compilés ci-dessous, avec un lien vers la fiche d'origine."
         ]
       }
     ],
     "faq": [
       {
         "q": "Quels sont les horaires de Station de lavage Kärcher ?",
-        "r": "Au relevé du 9 octobre 2026, Station de lavage Kärcher était ouvert le dimanche. Dans le détail — lundi : fermé ; mardi : fermé ; mercredi : fermé ; jeudi : fermé ; vendredi : fermé ; samedi : fermé ; dimanche : de 0 h à 23 h 59. Ces horaires peuvent changer : un appel préalable reste conseillé."
+        "r": "Au relevé du 24 octobre 2026, Station de lavage Kärcher était ouvert le dimanche. Dans le détail — lundi : fermé ; mardi : fermé ; mercredi : fermé ; jeudi : fermé ; vendredi : fermé ; samedi : fermé ; dimanche : de 0 h à 23 h 59. Ces horaires peuvent changer : un appel préalable reste conseillé."
       },
       {
         "q": "Station de lavage Kärcher est-il ouvert le dimanche ?",
-        "r": "Oui : le dimanche, Station de lavage Kärcher est ouvert de 0 h à 23 h 59 (horaires relevés le 9 octobre 2026)."
+        "r": "Oui : le dimanche, Station de lavage Kärcher est ouvert de 0 h à 23 h 59 (horaires relevés le 24 octobre 2026)."
       },
       {
         "q": "Où se trouve Station de lavage Kärcher ?",
         "r": "Station de lavage Kärcher se trouve D446, 91090 Lisses. Un lien d'itinéraire est disponible sur cette page."
       }
     ],
-    "genere_le": "2026-10-09"
+    "genere_le": "2026-10-24"
   },
   "statut_google": "OPERATIONAL",
   "audience": {
@@ -158,6 +167,68 @@
     "clicsRecents": 0,
     "fenetreRecenteJours": 28,
     "source": "search-console",
-    "date": "2026-10-23"
+    "date": "2026-10-24"
+  },
+  "avis_detail": {
+    "releve": "2026-10-24",
+    "liste": [
+      {
+        "note": 1,
+        "texte": "La plupart des postes sont HS.\nJ'ai été débité en sans contact de 2€ et le lavage n'a jamais démarré. Personne à l'accueil pour dépanner. Je déconseille",
+        "langue": "fr",
+        "date": "2026-07-16",
+        "auteur": "Julien Denoel",
+        "auteur_lien": "https://www.google.com/maps/contrib/118336453090825315103/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2taMVpUVnJaVTlmYTNWVldHZDRlRXhsZGtVMlpHYxAB!2m1!1s0x47e5dd9b04f07397:0x5e78490c6497f"
+      },
+      {
+        "note": 1,
+        "texte": "AUCUNE BORNE NE FONCTIONNE, J’AI PERDU 30 MINUTES A ESSAYER DE METTRE DES JETONS MAIS NADA ! Pire station à fuir, y’en a une dizaine à côté ça sert à rien de venir ici ne vous faites pas avoir et n’achetez pas beaucoup de jetons comme moi",
+        "langue": "fr",
+        "date": "2026-07-02",
+        "auteur": "Aiman Rhazi",
+        "auteur_lien": "https://www.google.com/maps/contrib/112249973435911376140/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2tNd1QxTXlZVlkyTUROeFIwUkNZVE5QWjJremMyYxAB!2m1!1s0x47e5dd9b04f07397:0x5e78490c6497f"
+      },
+      {
+        "note": 5,
+        "texte": "Un service irréprochable !\n\nJe recommande vivement la station Karcher de Lisses. Le site est toujours extrêmement propre et bien entretenu, ce qui est rare et très appréciable pour laver son véhicule dans de bonnes conditions.\n\nUn immense merci à Jeremy : c’est un vrai professionnel, ultra réactif et toujours disponible pour donner un coup de main ou un conseil. On sent qu'il a le sens du service client. C'est un plaisir de venir ici, vous pouvez y aller les yeux fermés !",
+        "langue": "fr",
+        "date": "2026-03-31",
+        "auteur": "Sandra ALVAREZ",
+        "auteur_lien": "https://www.google.com/maps/contrib/104083174117850940035/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xCbVJERm9Na0l0ZVhwZmFrTmhXVTVVUW5KRFNsRRAB!2m1!1s0x47e5dd9b04f07397:0x5e78490c6497f"
+      },
+      {
+        "note": 5,
+        "texte": "Station de lavage toujours propre tout fonctionne correctement. Le personnel est au top. Merci encore à mr Jeremy pour son professionnalisme et sa disponibilité, je recommande fortement!",
+        "langue": "fr",
+        "date": "2026-03-23",
+        "auteur": "BH France",
+        "auteur_lien": "https://www.google.com/maps/contrib/112736622363169369279/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2tWb2EzaHBPR3BxYmt0d1JGbzBWbVJRUTBFeWQxRRAB!2m1!1s0x47e5dd9b04f07397:0x5e78490c6497f"
+      },
+      {
+        "note": 2,
+        "texte": "Très mauvaise expérience.\nL’état général de la station est franchement mauvais. Les pistes sont sales, les évacuations d’eau sont bouchées et on a systématiquement les pieds dans des flaques. La nuit c'est encore pire, aucune des pistes n’est correctement éclairée, super pratique...\nDe plus, seulement 2 pistes sur 3 sont disponibles, celle du milieu étant en travaux depuis plusieurs jours.\n\nLa station manque clairement d’éclairage, seuls les espaces d’aspiration sont éclairés, et les emplacements sont peu nombreux. Autre gros point négatif, le programme \"Lavage\" semble vide de produit, aucune mousse ne sort, la différence avec le rinçage est quasiment inexistante, prouvant donc le manque d'entretien de la station.\nLa pression est très forte, efficace pour les crasses incrustées mais assez inconfortable à l’usage.\n\nLe seul point positif reste le temps par jeton, qui est largement suffisant. Pour le reste, c’est sûrement la pire station de lavage dans le secteur (Évry, Ris-Orangis, Bondoufle, Villabé...).\nCette station ne rend clairement pas honneur à la réputation de Karcher.",
+        "langue": "fr",
+        "date": "2026-02-02",
+        "auteur": "Mathieu",
+        "auteur_lien": "https://www.google.com/maps/contrib/103727899852795651767/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT21jM1kyVjNjamxFTFhkUVRIaHZaM3BXVkUxbmJIYxAB!2m1!1s0x47e5dd9b04f07397:0x5e78490c6497f"
+      }
+    ]
+  },
+  "services": {
+    "releve": "2026-10-24",
+    "options": {
+      "restroom": false
+    },
+    "paiement": [
+      "carte bancaire",
+      "carte de débit",
+      "paiement sans contact"
+    ],
+    "parking": []
   }
 }

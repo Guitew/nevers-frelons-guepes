@@ -32,7 +32,7 @@
     "longitude": 4.3845694
   },
   "note": 3.9,
-  "avis": 121,
+  "avis": 124,
   "horaires": [
     {
       "jour": 0,
@@ -103,8 +103,8 @@
     "etat": "absent",
     "premiere_detection": null,
     "derniere_detection": null,
-    "derniere_verification": "2026-10-09T16:58:32.124Z",
-    "echecs": 18,
+    "derniere_verification": "2026-10-24T09:28:34.818Z",
+    "echecs": 19,
     "url_detectee": null
   },
   "suggestion": {
@@ -124,21 +124,21 @@
   "dates": {
     "collecte": "2026-09-22",
     "publication": "2026-09-22",
-    "maj": "2026-10-18"
+    "maj": "2026-10-24"
   },
   "source": "google-places",
   "redaction": {
     "version": 2,
     "titre": "WBS — Transport et déménagement à Saint-Étienne",
     "meta_titre": "WBS à Saint-Étienne : horaires, avis",
-    "meta_description": "WBS, transport et déménagement à Saint-Étienne : horaires d'ouverture, note Google 3,9/5 (121 avis), adresse et itinéraire.",
-    "chapo": "WBS exerce l'activité de transport et déménagement au 1 Rue Marengo, à Saint-Étienne. Fermé le lundi et le dimanche au relevé du 9 octobre 2026. Note Google : 3,9 sur 5 pour 121 avis.",
+    "meta_description": "WBS, transport et déménagement à Saint-Étienne : horaires d'ouverture, note Google 3,9/5 (124 avis), adresse et itinéraire.",
+    "chapo": "WBS exerce l'activité de transport et déménagement au 1 Rue Marengo, à Saint-Étienne. Fermé le lundi et le dimanche au relevé du 24 octobre 2026. Note Google : 3,9 sur 5 pour 124 avis.",
     "sections": [
       {
         "id": "presentation",
         "titre": "WBS en quelques mots",
         "paragraphes": [
-          "D'après le relevé du 9 octobre 2026, l'établissement est fermé le lundi et le dimanche. Le détail jour par jour figure plus bas."
+          "D'après le relevé du 24 octobre 2026, l'établissement est fermé le lundi et le dimanche. Le détail jour par jour figure plus bas."
         ]
       },
       {
@@ -160,35 +160,85 @@
         "id": "avis",
         "titre": "La réputation de WBS",
         "paragraphes": [
-          "Note de 3,9 sur 5 pour 121 avis Google au relevé du 9 octobre 2026. Les avis se consultent sur la fiche Google, dont le lien figure sur cette page."
+          "Note de 3,9 sur 5 pour 124 avis Google au relevé du 24 octobre 2026. Les avis les plus parlants sont compilés ci-dessous, avec un lien vers la fiche d'origine."
         ]
       }
     ],
     "faq": [
       {
         "q": "Quels sont les horaires de WBS ?",
-        "r": "Au relevé du 9 octobre 2026, WBS était fermé le lundi et le dimanche. Dans le détail — lundi : fermé ; mardi : de 9 h 15 à 19 h ; mercredi : de 9 h 15 à 19 h ; jeudi : de 9 h 15 à 19 h ; vendredi : de 9 h 15 à 19 h ; samedi : de 9 h 15 à 18 h ; dimanche : fermé. Ces horaires peuvent changer : un appel préalable reste conseillé."
+        "r": "Au relevé du 24 octobre 2026, WBS était fermé le lundi et le dimanche. Dans le détail — lundi : fermé ; mardi : de 9 h 15 à 19 h ; mercredi : de 9 h 15 à 19 h ; jeudi : de 9 h 15 à 19 h ; vendredi : de 9 h 15 à 19 h ; samedi : de 9 h 15 à 18 h ; dimanche : fermé. Ces horaires peuvent changer : un appel préalable reste conseillé."
       },
       {
         "q": "WBS est-il ouvert le dimanche ?",
-        "r": "Non : d'après les horaires relevés le 9 octobre 2026, WBS est fermé le dimanche."
+        "r": "Non : d'après les horaires relevés le 24 octobre 2026, WBS est fermé le dimanche."
       },
       {
         "q": "Où se trouve WBS ?",
         "r": "WBS se trouve 1 Rue Marengo, 42000 Saint-Étienne. Un lien d'itinéraire est disponible sur cette page."
       }
     ],
-    "genere_le": "2026-10-09"
+    "genere_le": "2026-10-24"
   },
   "statut_google": "OPERATIONAL",
   "audience": {
     "clics": 0,
-    "impressions": 209,
-    "position": 9.7,
+    "impressions": 234,
+    "position": 9.8,
     "fenetreJours": 90,
     "clicsRecents": 0,
     "fenetreRecenteJours": 28,
     "source": "search-console",
-    "date": "2026-10-23"
+    "date": "2026-10-24"
+  },
+  "avis_detail": {
+    "releve": "2026-10-24",
+    "liste": [
+      {
+        "note": 5,
+        "texte": "Je viens chercher et déposer des colis depuis plus d’un an maintenant et c’est parfait !\n\nProfessionnel, rapide et ponctuel et le gérant est sympa!",
+        "langue": "fr",
+        "date": "2026-08-08",
+        "auteur": "Lilian Riche",
+        "auteur_lien": "https://www.google.com/maps/contrib/117807867897076447962/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xCSFpURkNOVlZsWjBkUWVYWkZYMDgyTW1KdmFuYxAB!2m1!1s0x47f5addd5ca552cb:0xfb5d3dd3ade4f9a8"
+      },
+      {
+        "note": 5,
+        "texte": "Bon point relais, surtout par rapport à d'autres...\n\nIl fait quasiment tous les colis et services La Poste, ce qui est particulièrement appréciable, surtout depuis la fermeture de celle de Jean-Jaurès.\n\nRespect des horaires et ouvert entre midi et deux.\nLe gérant est plutôt sympa, contrairement à certains avis.\nAprès, des fois il y a un peu la queue, car tout le monde vient au même horaire et il est tout seul pour tout gérer.\n\nJe recommande.",
+        "langue": "fr",
+        "date": "2026-08-06",
+        "auteur": "Adam Smith",
+        "auteur_lien": "https://www.google.com/maps/contrib/111469964690086877822/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xGcmFHVkVNbGwwY1d4blpHRmtXRkIzZEVnMlYxRRAB!2m1!1s0x47f5addd5ca552cb:0xfb5d3dd3ade4f9a8"
+      },
+      {
+        "note": 5,
+        "texte": "Rigueur, professionnalisme : tout y est. Je viens chercher mon colis et tombe sur une personne méfiante et paraissant renfermée. Un bonjour souriant de ma part et l'armure tombe. Personne souriante et efficace. Colis récupéré. Merci bonne journée. (respect donné respect rendu : ce commerçant se met en 4 pour ses clients depuis longtemps et nous devrions lui en être reconnaissant). Encore une fois Merci.",
+        "langue": "fr",
+        "date": "2026-03-08",
+        "auteur": "jean cadillac",
+        "auteur_lien": "https://www.google.com/maps/contrib/102440295624254363512/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT21KRWNUTklTRXhFYUhNM2FrYzJVekpxWW5WTFpsRRAB!2m1!1s0x47f5addd5ca552cb:0xfb5d3dd3ade4f9a8"
+      },
+      {
+        "note": 5,
+        "texte": "Très accueillant, très gentil et polis\nRespectueux et vraiment convivial\nMerci\nC’est un plaisir de tomber sur quelqu’un d’aussi aimable",
+        "langue": "fr",
+        "date": "2026-02-24",
+        "auteur": "Athènes",
+        "auteur_lien": "https://www.google.com/maps/contrib/103670542217552663503/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xoaGRucGpVVlJTYzBVd2MweDFUSGQzY0hrek5GRRAB!2m1!1s0x47f5addd5ca552cb:0xfb5d3dd3ade4f9a8"
+      },
+      {
+        "note": 5,
+        "texte": "Je suis nouveau dans la ville, je me suis fait livrer une trottinette électrique qui m’as coûté un bras. J’avais peur qu’au point relais on me la prenne car sa arrive souvent surtout à Marseille d’où je viens. Le Monsieur est très professionnel, il n’as pas perdu de temps et m’as directement donné le colis. J’aurai bien aimé pouvoir arriver un peu plus tard si c’est possible (je sais qu’il potentiellement une vie de famille) mais mise à part ceci, sachez qu’il est très serviable et il est toujours là pour vous aider.",
+        "langue": "fr",
+        "date": "2025-10-30",
+        "auteur": "Wanis ASSOU",
+        "auteur_lien": "https://www.google.com/maps/contrib/103848143185479620940/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2tSM1RXbE1NbHBJVVVrNVpsazJUV2sxZDJWclQyYxAB!2m1!1s0x47f5addd5ca552cb:0xfb5d3dd3ade4f9a8"
+      }
+    ]
   }
 }

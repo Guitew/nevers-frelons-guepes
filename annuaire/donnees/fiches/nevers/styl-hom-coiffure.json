@@ -102,8 +102,8 @@
     "etat": "absent",
     "premiere_detection": null,
     "derniere_detection": null,
-    "derniere_verification": "2026-10-09T16:58:32.124Z",
-    "echecs": 64,
+    "derniere_verification": "2026-10-24T09:28:34.818Z",
+    "echecs": 65,
     "url_detectee": null
   },
   "retrait": {
@@ -115,7 +115,7 @@
   "dates": {
     "collecte": "2026-08-30",
     "publication": "2026-08-30",
-    "maj": "2026-10-19"
+    "maj": "2026-10-24"
   },
   "source": "google-places",
   "redaction": {
@@ -123,14 +123,22 @@
     "titre": "Styl Hom Coiffure — Coiffure et beauté à Nevers",
     "meta_titre": "Styl Hom Coiffure à Nevers : horaires, avis, téléphone",
     "meta_description": "Styl Hom Coiffure, coiffure et beauté à Nevers : horaires d'ouverture, note Google 4,8/5 (53 avis), téléphone, adresse et itinéraire.",
-    "chapo": "Styl Hom Coiffure est une coiffure et beauté au 13 Rue Pierre Emile Gaspard, à Nevers. Fermé le lundi et le dimanche au relevé du 18 octobre 2026. Téléphone : 06 66 46 48 41. Note Google : 4,8 sur 5 pour 53 avis.",
+    "chapo": "Styl Hom Coiffure est une coiffure et beauté au 13 Rue Pierre Emile Gaspard, à Nevers. Fermé le lundi et le dimanche au relevé du 24 octobre 2026. Téléphone : 06 66 46 48 41. Note Google : 4,8 sur 5 pour 53 avis.",
     "sections": [
       {
         "id": "presentation",
         "titre": "Styl Hom Coiffure en quelques mots",
         "paragraphes": [
           "Sur Google, l'établissement est classé « Salon de coiffure », dans notre rubrique Coiffure et beauté.",
-          "D'après le relevé du 18 octobre 2026, l'établissement est fermé le lundi et le dimanche. Le détail jour par jour figure plus bas."
+          "D'après le relevé du 24 octobre 2026, l'établissement est fermé le lundi et le dimanche. Le détail jour par jour figure plus bas."
+        ]
+      },
+      {
+        "id": "prestations",
+        "titre": "Services et équipements de Styl Hom Coiffure",
+        "paragraphes": [
+          "Proposé : adapté aux enfants.",
+          "Ces indications sont déclarées par l'établissement sur sa fiche Google (relevé du 24 octobre 2026)."
         ]
       },
       {
@@ -152,18 +160,18 @@
         "id": "avis",
         "titre": "La réputation de Styl Hom Coiffure",
         "paragraphes": [
-          "Note de 4,8 sur 5 pour 53 avis Google au relevé du 18 octobre 2026. Les avis se consultent sur la fiche Google, dont le lien figure sur cette page."
+          "Note de 4,8 sur 5 pour 53 avis Google au relevé du 24 octobre 2026. Les avis les plus parlants sont compilés ci-dessous, avec un lien vers la fiche d'origine."
         ]
       }
     ],
     "faq": [
       {
         "q": "Quels sont les horaires de Styl Hom Coiffure ?",
-        "r": "Au relevé du 18 octobre 2026, Styl Hom Coiffure était fermé le lundi et le dimanche. Dans le détail — lundi : fermé ; mardi : de 8 h 30 à 17 h 30 ; mercredi : de 8 h 30 à 18 h 30 ; jeudi : de 8 h 30 à 17 h 30 ; vendredi : de 8 h 30 à 17 h 30 ; samedi : de 8 h 30 à 17 h 30 ; dimanche : fermé. Ces horaires peuvent changer : un appel préalable reste conseillé."
+        "r": "Au relevé du 24 octobre 2026, Styl Hom Coiffure était fermé le lundi et le dimanche. Dans le détail — lundi : fermé ; mardi : de 8 h 30 à 17 h 30 ; mercredi : de 8 h 30 à 18 h 30 ; jeudi : de 8 h 30 à 17 h 30 ; vendredi : de 8 h 30 à 17 h 30 ; samedi : de 8 h 30 à 17 h 30 ; dimanche : fermé. Ces horaires peuvent changer : un appel préalable reste conseillé."
       },
       {
         "q": "Styl Hom Coiffure est-il ouvert le dimanche ?",
-        "r": "Non : d'après les horaires relevés le 18 octobre 2026, Styl Hom Coiffure est fermé le dimanche."
+        "r": "Non : d'après les horaires relevés le 24 octobre 2026, Styl Hom Coiffure est fermé le dimanche."
       },
       {
         "q": "Où se trouve Styl Hom Coiffure ?",
@@ -178,7 +186,7 @@
         "r": "La fiche Google de l'établissement mentionne : « Entrée accessible en fauteuil roulant ». Cette information est déclarative ; en cas de doute, vérifiez par téléphone."
       }
     ],
-    "genere_le": "2026-10-18"
+    "genere_le": "2026-10-24"
   },
   "suggestion": {
     "etat": "soumise",
@@ -194,7 +202,7 @@
     "clicsRecents": 0,
     "fenetreRecenteJours": 28,
     "source": "search-console",
-    "date": "2026-10-23"
+    "date": "2026-10-24"
   },
   "indexation": {
     "etat": "non-indexee",
@@ -204,5 +212,63 @@
     "canonique_google": null,
     "source": "inspection",
     "date": "2026-10-19"
+  },
+  "avis_detail": {
+    "releve": "2026-10-24",
+    "liste": [
+      {
+        "note": 5,
+        "texte": "Je suis venu après avoir lu les avis et tout est confirmé, super coupe ! Et coiffeuse très sympathique je vous le recommande",
+        "langue": "fr",
+        "date": "2024-06-21",
+        "auteur": "Thomas Aucouturier",
+        "auteur_lien": "https://www.google.com/maps/contrib/112175608982344141512/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUNMaFpQYnBRRRAB!2m1!1s0x47f045887b84d4f3:0x5d73bb7504714202"
+      },
+      {
+        "note": 5,
+        "texte": "Excellent salon de coiffure. Le seul endroit où nous avons les cheveux bien coupés moi et mon fils. Une vairitable professionnelle. J'habite à 160 km de Nevers et je ne vais plus qu'ici quand nous rentrons voir nos parents. Très agréable ponctuelle et toujours aimable.",
+        "langue": "fr",
+        "date": "2024-02-05",
+        "auteur": "Nicolas",
+        "auteur_lien": "https://www.google.com/maps/contrib/104178641093436409077/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUNhX2NDcVBnEAE!2m1!1s0x47f045887b84d4f3:0x5d73bb7504714202"
+      },
+      {
+        "note": 5,
+        "texte": "Mon homme et mon fils sont clients et moi je les accompagne toujours car on passe un super moment et les coupes sont nickel on recommande sans hésitation.",
+        "langue": "fr",
+        "date": "2023-12-23",
+        "auteur": "Aurore Lagoutiere",
+        "auteur_lien": "https://www.google.com/maps/contrib/114232464740243851786/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUMxbE9EbTF3RRAB!2m1!1s0x47f045887b84d4f3:0x5d73bb7504714202"
+      },
+      {
+        "note": 5,
+        "texte": "Super coiffeuse, très agréable et très drôle.\nJe recommande sans modération\nJe lui confie ma chevelure sans crainte depuis plus de 10 ans.\nA ma coiffeuse pref : Marielle",
+        "langue": "fr",
+        "date": "2023-10-03",
+        "auteur": "Goux thomas",
+        "auteur_lien": "https://www.google.com/maps/contrib/103154943971907504108/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSURac1lIRlNBEAE!2m1!1s0x47f045887b84d4f3:0x5d73bb7504714202"
+      },
+      {
+        "note": 5,
+        "texte": "Je suis devenu client regulier de l'établissement. A chaque coupe c'est un moment très agréable. Je ressors à chaque fois content ! La coupe toujours impeccable. Je recommande fortement",
+        "langue": "fr",
+        "date": "2021-10-27",
+        "auteur": "Nicolas Kretz",
+        "auteur_lien": "https://www.google.com/maps/contrib/114912910577805484662/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUNHeHFTS1JBEAE!2m1!1s0x47f045887b84d4f3:0x5d73bb7504714202"
+      }
+    ]
+  },
+  "services": {
+    "releve": "2026-10-24",
+    "options": {
+      "goodForChildren": true
+    },
+    "paiement": [],
+    "parking": []
   }
 }

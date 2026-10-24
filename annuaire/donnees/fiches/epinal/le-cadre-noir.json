@@ -115,16 +115,16 @@
     "url_detectee": null
   },
   "suggestion": {
-    "etat": "en-attente",
-    "date_soumission": null,
-    "tentatives": 0,
+    "etat": "soumise",
+    "date_soumission": "2026-10-24",
+    "tentatives": 1,
     "date_email": "2026-10-23"
   },
   "retrait": null,
   "dates": {
     "collecte": "2026-10-23",
     "publication": "2026-10-23",
-    "maj": "2026-10-23"
+    "maj": "2026-10-24"
   },
   "source": "google-places",
   "avis_detail": {
@@ -273,6 +273,6 @@
     "clicsRecents": 0,
     "fenetreRecenteJours": 28,
     "source": "search-console",
-    "date": "2026-10-23"
+    "date": "2026-10-24"
   }
 }

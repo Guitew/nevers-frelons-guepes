@@ -1,5 +1,132 @@
 [
   {
+    "date": "2026-10-24T09:29:00.146Z",
+    "type": "suggestion-soumise",
+    "id": "ChIJD5DWgYagk0cR9hY7bm-ebKk",
+    "nom": "Le cadre noir",
+    "url": "/mode-equipement-maison/epinal/le-cadre-noir/"
+  },
+  {
+    "date": "2026-10-24T09:28:59.230Z",
+    "type": "retrait-410",
+    "id": "ChIJg8HA7kcL5kcRfHzSUFHrWjo",
+    "nom": "Côté Wok",
+    "url": "/restaurants/bonneuil-sur-marne/cote-wok/",
+    "motif": "backlink jamais posé après 45 jours de délai de grâce",
+    "cible": null
+  },
+  {
+    "date": "2026-10-24T09:28:59.234Z",
+    "type": "retrait-410",
+    "id": "ChIJPavexurStRIR6nR0Il1Isuc",
+    "nom": "LANGUEDOC LAVAGE",
+    "url": "/garages-automobile/nimes/languedoc-lavage/",
+    "motif": "backlink jamais posé après 45 jours de délai de grâce",
+    "cible": null
+  },
+  {
+    "date": "2026-10-24T09:28:59.236Z",
+    "type": "retrait-410",
+    "id": "ChIJd2RkMGfXjEcR03bMVzzom2k",
+    "nom": "Lons le saunier",
+    "url": "/mode-equipement-maison/lons-le-saunier/lons-le-saunier/",
+    "motif": "backlink jamais posé après 45 jours de délai de grâce",
+    "cible": null
+  },
+  {
+    "date": "2026-10-24T09:28:34.936Z",
+    "type": "backlink-absent",
+    "id": "ChIJMwd7fUCbyxIR5Puwwdyyw4w",
+    "nom": "Alimentation pied de ville",
+    "url": null,
+    "precedent": "en-attente"
+  },
+  {
+    "date": "2026-10-24T09:28:35.011Z",
+    "type": "backlink-absent",
+    "id": "ChIJfYe2m0vRzRIRkT0WGk3VfZs",
+    "nom": "Beau Lavage Niçois",
+    "url": null,
+    "precedent": "en-attente"
+  },
+  {
+    "date": "2026-10-24T09:28:35.069Z",
+    "type": "backlink-absent",
+    "id": "ChIJyUHI0_nQVQ0Raib9Z5BZrng",
+    "nom": "Bricomarché Mont-De-Marsan",
+    "url": null,
+    "precedent": "en-attente"
+  },
+  {
+    "date": "2026-10-24T09:28:35.111Z",
+    "type": "backlink-absent",
+    "id": "ChIJFTxSBgzl5EcR_nlOo1aMV5Y",
+    "nom": "O'market Frais",
+    "url": null,
+    "precedent": "en-attente"
+  },
+  {
+    "date": "2026-10-24T09:28:35.157Z",
+    "type": "backlink-absent",
+    "id": "ChIJ_xjMLU_79UcRK7Z36SFQwAc",
+    "nom": "Proxi",
+    "url": null,
+    "precedent": "en-attente"
+  },
+  {
+    "date": "2026-10-24T09:28:36.957Z",
+    "type": "backlink-present",
+    "id": "ChIJm4k4otDT_EcRFgzLGxpub-0",
+    "nom": "Auchan Retail Logistique ST Pierre des Corps",
+    "url": "https://andpro.fr/vitrine-locale/transport-demenagement/saint-pierre-des-corps/auchan-retail-logistique-st-pierre-des-corps/",
+    "precedent": "absent"
+  },
+  {
+    "date": "2026-10-24T09:28:34.376Z",
+    "type": "publication",
+    "id": "ChIJfYe2m0vRzRIRkT0WGk3VfZs",
+    "nom": "Beau Lavage Niçois",
+    "url": "/garages-automobile/nice/beau-lavage-nicois/",
+    "categorie": "garages-automobile",
+    "source": "google-places"
+  },
+  {
+    "date": "2026-10-24T09:28:34.456Z",
+    "type": "publication",
+    "id": "ChIJMwd7fUCbyxIR5Puwwdyyw4w",
+    "nom": "Alimentation pied de ville",
+    "url": "/commerces-alimentation/digne-les-bains/alimentation-pied-de-ville/",
+    "categorie": "commerces-alimentation",
+    "source": "google-places"
+  },
+  {
+    "date": "2026-10-24T09:28:34.540Z",
+    "type": "publication",
+    "id": "ChIJyUHI0_nQVQ0Raib9Z5BZrng",
+    "nom": "Bricomarché Mont-De-Marsan",
+    "url": "/mode-equipement-maison/mont-de-marsan/bricomarche-mont-de-marsan/",
+    "categorie": "mode-equipement-maison",
+    "source": "google-places"
+  },
+  {
+    "date": "2026-10-24T09:28:34.618Z",
+    "type": "publication",
+    "id": "ChIJ_xjMLU_79UcRK7Z36SFQwAc",
+    "nom": "Proxi",
+    "url": "/commerces-alimentation/espaly-saint-marcel/proxi/",
+    "categorie": "commerces-alimentation",
+    "source": "google-places"
+  },
+  {
+    "date": "2026-10-24T09:28:34.692Z",
+    "type": "publication",
+    "id": "ChIJFTxSBgzl5EcR_nlOo1aMV5Y",
+    "nom": "O'market Frais",
+    "url": "/commerces-alimentation/saint-jean-de-la-ruelle/o-market-frais/",
+    "categorie": "commerces-alimentation",
+    "source": "google-places"
+  },
+  {
     "date": "2026-10-23T10:00:28.139Z",
     "type": "suggestion-soumise",
     "id": "ChIJdwhMqK2V-kcRfsMp_PJP66U",

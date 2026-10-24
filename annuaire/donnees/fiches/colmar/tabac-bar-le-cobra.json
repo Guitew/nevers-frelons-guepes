@@ -27,7 +27,7 @@
     "longitude": 7.3430072
   },
   "note": 4.5,
-  "avis": 265,
+  "avis": 266,
   "horaires": [
     {
       "jour": 0,
@@ -108,8 +108,8 @@
     "etat": "absent",
     "premiere_detection": null,
     "derniere_detection": null,
-    "derniere_verification": "2026-10-09T16:58:32.124Z",
-    "echecs": 8,
+    "derniere_verification": "2026-10-24T09:28:34.818Z",
+    "echecs": 9,
     "url_detectee": null
   },
   "suggestion": {
@@ -122,22 +122,32 @@
   "dates": {
     "collecte": "2026-10-02",
     "publication": "2026-10-02",
-    "maj": "2026-10-09"
+    "maj": "2026-10-24"
   },
   "source": "google-places",
   "redaction": {
     "version": 2,
     "titre": "Tabac Bar Le Cobra — Café ou bar à Colmar",
     "meta_titre": "Tabac Bar Le Cobra à Colmar : horaires, avis, téléphone",
-    "meta_description": "Tabac Bar Le Cobra, café ou bar à Colmar : horaires d'ouverture, note Google 4,5/5 (265 avis), téléphone, adresse et itinéraire.",
-    "chapo": "Tabac Bar Le Cobra exerce l'activité de café ou bar au 76 Route d'Ingersheim, à Colmar. Ouvert sept jours sur sept au relevé du 9 octobre 2026. Téléphone : 03 89 80 23 94. Note Google : 4,5 sur 5 pour 265 avis.",
+    "meta_description": "Tabac Bar Le Cobra, café ou bar à Colmar : horaires d'ouverture, note Google 4,5/5 (266 avis), téléphone, adresse et itinéraire.",
+    "chapo": "Tabac Bar Le Cobra exerce l'activité de café ou bar au 76 Route d'Ingersheim, à Colmar. Ouvert sept jours sur sept au relevé du 24 octobre 2026. Téléphone : 03 89 80 23 94. Note Google : 4,5 sur 5 pour 266 avis.",
     "sections": [
       {
         "id": "presentation",
         "titre": "Tabac Bar Le Cobra en quelques mots",
         "paragraphes": [
           "Sur Google, l'établissement est classé « Magasin », dans notre rubrique Café ou bar.",
-          "D'après le relevé du 9 octobre 2026, l'établissement est ouvert sept jours sur sept. Le détail jour par jour figure plus bas."
+          "D'après le relevé du 24 octobre 2026, l'établissement est ouvert sept jours sur sept. Le détail jour par jour figure plus bas."
+        ]
+      },
+      {
+        "id": "prestations",
+        "titre": "Services et équipements de Tabac Bar Le Cobra",
+        "paragraphes": [
+          "Non proposé selon la fiche Google : livraison.",
+          "Moyens de paiement déclarés : carte bancaire, carte de débit et paiement sans contact.",
+          "Stationnement : parking gratuit.",
+          "Ces indications sont déclarées par l'établissement sur sa fiche Google (relevé du 24 octobre 2026)."
         ]
       },
       {
@@ -159,18 +169,18 @@
         "id": "avis",
         "titre": "La réputation de Tabac Bar Le Cobra",
         "paragraphes": [
-          "Note de 4,5 sur 5 pour 265 avis Google au relevé du 9 octobre 2026. Les avis se consultent sur la fiche Google, dont le lien figure sur cette page."
+          "Note de 4,5 sur 5 pour 266 avis Google au relevé du 24 octobre 2026. Les avis les plus parlants sont compilés ci-dessous, avec un lien vers la fiche d'origine."
         ]
       }
     ],
     "faq": [
       {
         "q": "Quels sont les horaires de Tabac Bar Le Cobra ?",
-        "r": "Au relevé du 9 octobre 2026, Tabac Bar Le Cobra était ouvert sept jours sur sept. Dans le détail — lundi : de 6 h 30 à 23 h ; mardi : de 6 h 30 à 23 h ; mercredi : de 6 h 30 à 23 h ; jeudi : de 6 h 30 à 23 h ; vendredi : de 6 h 30 à 23 h ; samedi : de 6 h 30 à 23 h ; dimanche : de 8 h à 22 h. Ces horaires peuvent changer : un appel préalable reste conseillé."
+        "r": "Au relevé du 24 octobre 2026, Tabac Bar Le Cobra était ouvert sept jours sur sept. Dans le détail — lundi : de 6 h 30 à 23 h ; mardi : de 6 h 30 à 23 h ; mercredi : de 6 h 30 à 23 h ; jeudi : de 6 h 30 à 23 h ; vendredi : de 6 h 30 à 23 h ; samedi : de 6 h 30 à 23 h ; dimanche : de 8 h à 22 h. Ces horaires peuvent changer : un appel préalable reste conseillé."
       },
       {
         "q": "Tabac Bar Le Cobra est-il ouvert le dimanche ?",
-        "r": "Oui : le dimanche, Tabac Bar Le Cobra est ouvert de 8 h à 22 h (horaires relevés le 9 octobre 2026)."
+        "r": "Oui : le dimanche, Tabac Bar Le Cobra est ouvert de 8 h à 22 h (horaires relevés le 24 octobre 2026)."
       },
       {
         "q": "Où se trouve Tabac Bar Le Cobra ?",
@@ -179,9 +189,13 @@
       {
         "q": "Comment contacter Tabac Bar Le Cobra ?",
         "r": "Par téléphone au 03 89 80 23 94, ou directement sur place aux heures d'ouverture."
+      },
+      {
+        "q": "Tabac Bar Le Cobra propose-t-il la vente à emporter ou la livraison ?",
+        "r": "D'après sa fiche Google (relevé du 24 octobre 2026) — livraison : non."
       }
     ],
-    "genere_le": "2026-10-09"
+    "genere_le": "2026-10-24"
   },
   "statut_google": "OPERATIONAL",
   "audience": {
@@ -192,6 +206,70 @@
     "clicsRecents": 0,
     "fenetreRecenteJours": 28,
     "source": "search-console",
-    "date": "2026-10-23"
+    "date": "2026-10-24"
+  },
+  "avis_detail": {
+    "releve": "2026-10-24",
+    "liste": [
+      {
+        "note": 5,
+        "texte": "Très bon tabac rien a dire.",
+        "langue": "fr",
+        "date": "2026-08-30",
+        "auteur": "Shop ta Casquette",
+        "auteur_lien": "https://www.google.com/maps/contrib/107687498511459280793/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2w4NE1VSTJNVFEwVWtadVZDMXdabGxrUkhaaGMwRRAB!2m1!1s0x479165d7dff919a5:0x38ea8fa94a70faab"
+      },
+      {
+        "note": 4,
+        "texte": "TRÈS RÉUSSIE TOUJOURS SYMPA CELA FAIT PLAISIR",
+        "langue": "fr",
+        "date": "2026-06-20",
+        "auteur": "Abdel Rena",
+        "auteur_lien": "https://www.google.com/maps/contrib/108102831655478695148/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xCM1NFRjNYelJIV1dSMGNsaDBYM2Q1WkRsekxVRRAB!2m1!1s0x479165d7dff919a5:0x38ea8fa94a70faab"
+      },
+      {
+        "note": 5,
+        "texte": "Un accueil toujours chaleureux, cependant, petit bémol : des véhicules garés de longs moments sur les stationnements \"minutes\" non clients du tabac...\nMalheureusement, je me dirige alors ailleurs.\nC'est bien dommage !",
+        "langue": "fr",
+        "date": "2026-04-17",
+        "auteur": "Nathalie BARANGER",
+        "auteur_lien": "https://www.google.com/maps/contrib/118392745764600519349/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2tNMVJYZ3hUMUl4VUVKSFMzcHpWak5xYjFWNlMyYxAB!2m1!1s0x479165d7dff919a5:0x38ea8fa94a70faab"
+      },
+      {
+        "note": 5,
+        "texte": "Très bon tabac le personnel est toujours souriant ce qui fait vraiment plaisir",
+        "langue": "fr",
+        "date": "2026-03-10",
+        "auteur": "Arnaud",
+        "auteur_lien": "https://www.google.com/maps/contrib/112972854711755523107/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25KVlVrVndiMWRCUlZoRmEwOHpkMFZGV2xsRmNIYxAB!2m1!1s0x479165d7dff919a5:0x38ea8fa94a70faab"
+      },
+      {
+        "note": 5,
+        "texte": "Un plaisir de se rendre dans ce commerce personnel accueillant souriant\nLarge horaires d'ouverture\nNous facilite la vie\nJ'y retournerais juste pas plaisir",
+        "langue": "fr",
+        "date": "2025-08-17",
+        "auteur": "Fabienne Lenclo",
+        "auteur_lien": "https://www.google.com/maps/contrib/101093456300194097887/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT213eFpIZG1WRkJHZVVGeFgyc3hSMDlxU2xCcGEyYxAB!2m1!1s0x479165d7dff919a5:0x38ea8fa94a70faab"
+      }
+    ]
+  },
+  "services": {
+    "releve": "2026-10-24",
+    "options": {
+      "delivery": false
+    },
+    "paiement": [
+      "carte bancaire",
+      "carte de débit",
+      "paiement sans contact"
+    ],
+    "parking": [
+      "parking gratuit"
+    ]
   }
 }

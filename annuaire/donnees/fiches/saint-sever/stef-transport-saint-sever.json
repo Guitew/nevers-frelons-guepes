@@ -29,7 +29,7 @@
     "longitude": -0.5849831999999999
   },
   "note": 3.8,
-  "avis": 672,
+  "avis": 671,
   "horaires": null,
   "attributs": [
     "Entrée accessible en fauteuil roulant",
@@ -42,8 +42,8 @@
     "etat": "absent",
     "premiere_detection": null,
     "derniere_detection": null,
-    "derniere_verification": "2026-10-09T16:58:32.124Z",
-    "echecs": 56,
+    "derniere_verification": "2026-10-24T09:28:34.818Z",
+    "echecs": 57,
     "url_detectee": null
   },
   "suggestion": {
@@ -63,21 +63,29 @@
   "dates": {
     "collecte": "2026-09-04",
     "publication": "2026-09-04",
-    "maj": "2026-10-18"
+    "maj": "2026-10-24"
   },
   "source": "google-places",
   "redaction": {
     "version": 2,
     "titre": "STEF Transport SAINT-SEVER — Transport et déménagement à Saint-Sever",
     "meta_titre": "STEF Transport SAINT-SEVER à Saint-Sever : avis, téléphone",
-    "meta_description": "STEF Transport SAINT-SEVER, transport et déménagement à Saint-Sever : note Google 3,8/5 (672 avis), téléphone, adresse et itinéraire.",
-    "chapo": "STEF Transport SAINT-SEVER exerce l'activité de transport et déménagement à Saint-Sever. Téléphone : 05 58 05 37 37. Note Google : 3,8 sur 5 pour 672 avis.",
+    "meta_description": "STEF Transport SAINT-SEVER, transport et déménagement à Saint-Sever : note Google 3,8/5 (671 avis), téléphone, adresse et itinéraire.",
+    "chapo": "STEF Transport SAINT-SEVER exerce l'activité de transport et déménagement à Saint-Sever. Téléphone : 05 58 05 37 37. Note Google : 3,8 sur 5 pour 671 avis.",
     "sections": [
       {
         "id": "presentation",
         "titre": "STEF Transport SAINT-SEVER en quelques mots",
         "paragraphes": [
           "Sur Google, l'établissement est classé « Services », dans notre rubrique Transport et déménagement."
+        ]
+      },
+      {
+        "id": "prestations",
+        "titre": "Services et équipements de STEF Transport SAINT-SEVER",
+        "paragraphes": [
+          "Stationnement : parking gratuit et stationnement gratuit dans la rue.",
+          "Ces indications sont déclarées par l'établissement sur sa fiche Google (relevé du 24 octobre 2026)."
         ]
       },
       {
@@ -99,7 +107,7 @@
         "id": "avis",
         "titre": "La réputation de STEF Transport SAINT-SEVER",
         "paragraphes": [
-          "Note de 3,8 sur 5 pour 672 avis Google au relevé du 9 octobre 2026. Les avis se consultent sur la fiche Google, dont le lien figure sur cette page."
+          "Note de 3,8 sur 5 pour 671 avis Google au relevé du 24 octobre 2026. Les avis les plus parlants sont compilés ci-dessous, avec un lien vers la fiche d'origine."
         ]
       }
     ],
@@ -117,7 +125,7 @@
         "r": "La fiche Google de l'établissement mentionne : « Entrée accessible en fauteuil roulant ». Cette information est déclarative ; en cas de doute, vérifiez par téléphone."
       }
     ],
-    "genere_le": "2026-10-09"
+    "genere_le": "2026-10-24"
   },
   "statut_google": "OPERATIONAL",
   "audience": {
@@ -128,7 +136,7 @@
     "clicsRecents": 0,
     "fenetreRecenteJours": 28,
     "source": "search-console",
-    "date": "2026-10-23"
+    "date": "2026-10-24"
   },
   "indexation": {
     "etat": "non-indexee",
@@ -138,5 +146,64 @@
     "canonique_google": null,
     "source": "inspection",
     "date": "2026-10-18"
+  },
+  "avis_detail": {
+    "releve": "2026-10-24",
+    "liste": [
+      {
+        "note": 5,
+        "texte": "Personnel accueillant, déchargement ultra rapide",
+        "langue": "fr",
+        "date": "2026-08-19",
+        "auteur": "Cyril Lordet",
+        "auteur_lien": "https://www.google.com/maps/contrib/107621772151967537854/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25aWk1tcHdPR00xVm1wVlRERjFZMkUxZG1JNU5rRRAB!2m1!1s0xd542acc68693bed:0xa0eab79d8f591102"
+      },
+      {
+        "note": 1,
+        "texte": "Perso au téléphone, pas aimable, obligé de venir chercher la livraison après huit jours d’expédition.\n4h aller retour !\nArrivé à quai palette défoncé et coli ouvert ! Manque un coli signalé à l’agent de quai mais effectivement pas aller au bureau ( ne pas faire confiance) j’ai rien signé comme bon donc pour eux tous est ok !!\nLa Stef ne respecte pas ces délai ! Ni ses clients apparemment !\nPriorité au frais car DLC donc laisse traîner le surgelé qui ne craint rien !\nJe passerai maintenant par Chono fresh !! Toujours en 48h max\nVivement q’Amazon rachète ça ! Ça fonctionnera bien mieux",
+        "langue": "fr",
+        "date": "2026-07-13",
+        "auteur": "O POUTINE",
+        "auteur_lien": "https://www.google.com/maps/contrib/100867379434860751394/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT21RM09DMVBRbWgxWTA4eFozbDJOSGRGUlZaT1JHYxAB!2m1!1s0xd542acc68693bed:0xa0eab79d8f591102"
+      },
+      {
+        "note": 5,
+        "texte": "Livraison nuit dimanche a lundi se pzsse toujours tres bien personnel sympa",
+        "langue": "fr",
+        "date": "2026-05-18",
+        "auteur": "Max Burton",
+        "auteur_lien": "https://www.google.com/maps/contrib/103550937432826710452/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xObVRtSmlhMVZzWjFZd1lVWmFZMGRRWkd3d1YxRRAB!2m1!1s0xd542acc68693bed:0xa0eab79d8f591102"
+      },
+      {
+        "note": 1,
+        "texte": "Personnel de quai nuit au surgelé très désagréable, manque total de politesse. Il serait peut être temps de remettre de l’ordre avec certains salariés qui se prennent pour des chefs !",
+        "langue": "fr",
+        "date": "2026-05-10",
+        "auteur": "Louison Meston",
+        "auteur_lien": "https://www.google.com/maps/contrib/107536806203349362962/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT200elN6RlBZVEkyWWxOZlZtaHFXRFI2YzBjd1ZVRRAB!2m1!1s0xd542acc68693bed:0xa0eab79d8f591102"
+      },
+      {
+        "note": 1,
+        "texte": "DES INCOMPETENTS!!! le chauffeur arrive ouvre son camion et se contente de dire \"ah ben non j'ai pas la palette, elle a dû rester sur le quai\". Ce n'est pas la premiere fois que cela arrive avec cette société qui fait ce qu'elle veut, comme elle veut. Ils ont un quasi monopole donc ils n'en ont rien à faire. C'est UNE HONTE!!!",
+        "langue": "fr",
+        "date": "2026-04-08",
+        "auteur": "Cyril Landis",
+        "auteur_lien": "https://www.google.com/maps/contrib/114999944020016400142/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25kTVVUSmxaR1J6ZG5wcFFrcHVVblpHTkc1NFkxRRAB!2m1!1s0xd542acc68693bed:0xa0eab79d8f591102"
+      }
+    ]
+  },
+  "services": {
+    "releve": "2026-10-24",
+    "options": {},
+    "paiement": [],
+    "parking": [
+      "parking gratuit",
+      "stationnement gratuit dans la rue"
+    ]
   }
 }

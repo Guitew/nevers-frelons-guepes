@@ -28,7 +28,7 @@
     "longitude": 4.8528329
   },
   "note": 3.6,
-  "avis": 489,
+  "avis": 490,
   "horaires": [
     {
       "jour": 0,
@@ -111,8 +111,8 @@
     "etat": "absent",
     "premiere_detection": null,
     "derniere_detection": null,
-    "derniere_verification": "2026-10-09T16:58:32.124Z",
-    "echecs": 63,
+    "derniere_verification": "2026-10-24T09:28:34.818Z",
+    "echecs": 64,
     "url_detectee": null
   },
   "suggestion": {
@@ -130,22 +130,31 @@
   "dates": {
     "collecte": "2026-09-01",
     "publication": "2026-09-01",
-    "maj": "2026-10-19"
+    "maj": "2026-10-24"
   },
   "source": "google-places",
   "redaction": {
     "version": 2,
     "titre": "Station Service Avia — Garage et automobile à Lyon",
     "meta_titre": "Station Service Avia à Lyon : horaires, avis, téléphone",
-    "meta_description": "Station Service Avia, garage et automobile à Lyon : horaires d'ouverture, note Google 3,6/5 (489 avis), téléphone, adresse et itinéraire.",
-    "chapo": "Station Service Avia, garage et automobile au 258 Rue Garibaldi, à Lyon. Ouvert sept jours sur sept au relevé du 18 octobre 2026. Téléphone : 04 78 62 02 43. Note Google : 3,6 sur 5 pour 489 avis.",
+    "meta_description": "Station Service Avia, garage et automobile à Lyon : horaires d'ouverture, note Google 3,6/5 (490 avis), téléphone, adresse et itinéraire.",
+    "chapo": "Station Service Avia, garage et automobile au 258 Rue Garibaldi, à Lyon. Ouvert sept jours sur sept au relevé du 24 octobre 2026. Téléphone : 04 78 62 02 43. Note Google : 3,6 sur 5 pour 490 avis.",
     "sections": [
       {
         "id": "presentation",
         "titre": "Station Service Avia en quelques mots",
         "paragraphes": [
           "Sur Google, l'établissement est classé « Station-service », dans notre rubrique Garage et automobile.",
-          "D'après le relevé du 18 octobre 2026, l'établissement est ouvert sept jours sur sept. Le détail jour par jour figure plus bas."
+          "D'après le relevé du 24 octobre 2026, l'établissement est ouvert sept jours sur sept. Le détail jour par jour figure plus bas."
+        ]
+      },
+      {
+        "id": "prestations",
+        "titre": "Services et équipements de Station Service Avia",
+        "paragraphes": [
+          "Proposé : toilettes.",
+          "Moyens de paiement déclarés : carte bancaire, carte de débit et paiement sans contact.",
+          "Ces indications sont déclarées par l'établissement sur sa fiche Google (relevé du 24 octobre 2026)."
         ]
       },
       {
@@ -167,18 +176,18 @@
         "id": "avis",
         "titre": "La réputation de Station Service Avia",
         "paragraphes": [
-          "Note de 3,6 sur 5 pour 489 avis Google au relevé du 18 octobre 2026. Les avis se consultent sur la fiche Google, dont le lien figure sur cette page."
+          "Note de 3,6 sur 5 pour 490 avis Google au relevé du 24 octobre 2026. Les avis les plus parlants sont compilés ci-dessous, avec un lien vers la fiche d'origine."
         ]
       }
     ],
     "faq": [
       {
         "q": "Quels sont les horaires de Station Service Avia ?",
-        "r": "Au relevé du 18 octobre 2026, Station Service Avia était ouvert sept jours sur sept. Dans le détail — lundi : de 6 h à 22 h ; mardi : de 6 h à 22 h ; mercredi : de 6 h à 22 h ; jeudi : de 6 h à 22 h ; vendredi : de 6 h à 22 h ; samedi : de 6 h à 22 h ; dimanche : de 6 h à 22 h. Ces horaires peuvent changer : un appel préalable reste conseillé."
+        "r": "Au relevé du 24 octobre 2026, Station Service Avia était ouvert sept jours sur sept. Dans le détail — lundi : de 6 h à 22 h ; mardi : de 6 h à 22 h ; mercredi : de 6 h à 22 h ; jeudi : de 6 h à 22 h ; vendredi : de 6 h à 22 h ; samedi : de 6 h à 22 h ; dimanche : de 6 h à 22 h. Ces horaires peuvent changer : un appel préalable reste conseillé."
       },
       {
         "q": "Station Service Avia est-il ouvert le dimanche ?",
-        "r": "Oui : le dimanche, Station Service Avia est ouvert de 6 h à 22 h (horaires relevés le 18 octobre 2026)."
+        "r": "Oui : le dimanche, Station Service Avia est ouvert de 6 h à 22 h (horaires relevés le 24 octobre 2026)."
       },
       {
         "q": "Où se trouve Station Service Avia ?",
@@ -193,7 +202,7 @@
         "r": "La fiche Google de l'établissement mentionne : « Toilettes accessibles en fauteuil roulant ». Cette information est déclarative ; en cas de doute, vérifiez par téléphone."
       }
     ],
-    "genere_le": "2026-10-18"
+    "genere_le": "2026-10-24"
   },
   "statut_google": "OPERATIONAL",
   "audience": {
@@ -204,7 +213,7 @@
     "clicsRecents": 0,
     "fenetreRecenteJours": 28,
     "source": "search-console",
-    "date": "2026-10-23"
+    "date": "2026-10-24"
   },
   "indexation": {
     "etat": "non-indexee",
@@ -214,5 +223,67 @@
     "canonique_google": null,
     "source": "inspection",
     "date": "2026-10-19"
+  },
+  "avis_detail": {
+    "releve": "2026-10-24",
+    "liste": [
+      {
+        "note": 5,
+        "texte": "Rien à dire un plat comprends sont très très bons et en plus la qualité plus le prix y a rien à dire la qualité au maximum et le prix très correct et en plus on est très très bien servi infini difficilement son plat.",
+        "langue": "fr",
+        "date": "2026-06-29",
+        "auteur": "ben ben",
+        "auteur_lien": "https://www.google.com/maps/contrib/105189949217478697896/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2pWS2JHbEJibEJHTm1ocE9VSnNPWGg0UzBONGMwRRAB!2m1!1s0x47f4ea663eb22b75:0x858a3921a6c27fb6"
+      },
+      {
+        "note": 1,
+        "texte": "Accueil excecrable le monsieur ne dis pas bonjour veus rien expliquer je lui dis que la pompe ne marche pas j ai mis ma carte le paiement accepter on me dis de me servir en essence et pas d essence qui sort je stop et je vais voir le vendeur ce dimanche 7 juin à 19h15 il me dis que ma carte passe pas je lui explique trois fois sur ma carte est bien passée étant donner qu après transaction j ai le message me disant d aller me servie il a pas voulu m écouter il souffle quand je lui parle quans on a un souci on a besoin d être accueilli ecoute la pas du tout je suis très déçu et dernière\nfois que je met mes pieds chez vous",
+        "langue": "fr",
+        "date": "2026-06-07",
+        "auteur": "Belaid Malhloufi",
+        "auteur_lien": "https://www.google.com/maps/contrib/103805129292561535684/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2pJMWVUVkRURlpNV25OblozVXhNaTF6UjA1NU5YYxAB!2m1!1s0x47f4ea663eb22b75:0x858a3921a6c27fb6"
+      },
+      {
+        "note": 5,
+        "texte": "Cette station est super !\nLes caissiers sont sympas et surtout la propreté du lieu vous rentrez aux toilettes à n'importe quelle heure c'est nickel, ce qui n'est malheureusement pas le cas ailleurs",
+        "langue": "fr",
+        "date": "2026-05-09",
+        "auteur": "LYON TRANSFER",
+        "auteur_lien": "https://www.google.com/maps/contrib/107147246176325728281/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2t4eWJGOU1ZWHBPUm1ZMGFVRkdibTlUYTNGRFVIYxAB!2m1!1s0x47f4ea663eb22b75:0x858a3921a6c27fb6"
+      },
+      {
+        "note": 1,
+        "texte": "Station Avia - expérience lamentable.\n\nJe passe devant vers 7h15 du matin, la station vient d'ouvrir et il y a un panneau \"pause 10 minutes\". Bon... déjà limite dès l'ouverture, mais passons. Je repasse 30 minutes plus tard et toujours personne. Station vide, aucun employé au poste, impossible de se servir correctement.\n\nFranchement c'est du grand n'importe quoi. Les gens sont payés pour être à leur poste, surtout quand la station vient d'ouvrir. Mettre un panneau \"10 minutes\" et disparaître pendant plus d'une demi-heure, c'est un manque total de sérieux et de respect pour les clients.\n\nSi vous avez besoin de carburant le matin, ne comptez pas sur cette station. Service inexistant.",
+        "langue": "fr",
+        "date": "2026-03-16",
+        "auteur": "kylian abdallah",
+        "auteur_lien": "https://www.google.com/maps/contrib/106539442352108571203/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2tNNE9EaEVhelZOTUVSbU16QnlSVXhzTkhaaWJVRRAB!2m1!1s0x47f4ea663eb22b75:0x858a3921a6c27fb6"
+      },
+      {
+        "note": 1,
+        "texte": "À éviter !\nJe passe à la caisse pour prépayer mon plein et je demain au caissier quelle est la pompe sur laquelle je me suis mis ,le mec ne me répond pas pendant 10sec en me regardant dans les yeux ,j’ai du redemander et il m’as répondu d’un ton extrêmement désagréable ,la suite de la conversation n’était clairement pas mieux ,aucun savoir vivre ,aucune empathie .bref ,personnel absolument disgracieux j’aurais du rouler plus loin pour faire le plein autre part",
+        "langue": "fr",
+        "date": "2026-02-08",
+        "auteur": "Alphonse Wolville",
+        "auteur_lien": "https://www.google.com/maps/contrib/117610191690589769317/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25GNFdGRkZSbWxNUTBwWWRrNDFaMjF6ZURabmRXYxAB!2m1!1s0x47f4ea663eb22b75:0x858a3921a6c27fb6"
+      }
+    ]
+  },
+  "services": {
+    "releve": "2026-10-24",
+    "options": {
+      "restroom": true
+    },
+    "paiement": [
+      "carte bancaire",
+      "carte de débit",
+      "paiement sans contact"
+    ],
+    "parking": []
   }
 }

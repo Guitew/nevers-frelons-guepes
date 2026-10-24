@@ -42,8 +42,8 @@
     "etat": "absent",
     "premiere_detection": null,
     "derniere_detection": null,
-    "derniere_verification": "2026-10-09T16:58:32.124Z",
-    "echecs": 2,
+    "derniere_verification": "2026-10-24T09:28:34.818Z",
+    "echecs": 3,
     "url_detectee": null
   },
   "suggestion": {
@@ -63,7 +63,7 @@
   "dates": {
     "collecte": "2026-10-08",
     "publication": "2026-10-08",
-    "maj": "2026-10-18"
+    "maj": "2026-10-24"
   },
   "source": "google-places",
   "redaction": {
@@ -78,6 +78,14 @@
         "titre": "Transports Bernadou en quelques mots",
         "paragraphes": [
           "Sur Google, l'établissement est classé « Entreprise de déménagement », dans notre rubrique Transport et déménagement."
+        ]
+      },
+      {
+        "id": "prestations",
+        "titre": "Services et équipements de Transports Bernadou",
+        "paragraphes": [
+          "Proposé : toilettes.",
+          "Ces indications sont déclarées par l'établissement sur sa fiche Google (relevé du 24 octobre 2026)."
         ]
       },
       {
@@ -99,7 +107,7 @@
         "id": "avis",
         "titre": "La réputation de Transports Bernadou",
         "paragraphes": [
-          "Note de 3,9 sur 5 pour 27 avis Google au relevé du 9 octobre 2026. Les avis se consultent sur la fiche Google, dont le lien figure sur cette page."
+          "Note de 3,9 sur 5 pour 27 avis Google au relevé du 24 octobre 2026. Les avis les plus parlants sont compilés ci-dessous, avec un lien vers la fiche d'origine."
         ]
       }
     ],
@@ -117,7 +125,7 @@
         "r": "La fiche Google de l'établissement mentionne : « Entrée accessible en fauteuil roulant ». Cette information est déclarative ; en cas de doute, vérifiez par téléphone."
       }
     ],
-    "genere_le": "2026-10-09"
+    "genere_le": "2026-10-24"
   },
   "statut_google": "OPERATIONAL",
   "audience": {
@@ -128,6 +136,64 @@
     "clicsRecents": 0,
     "fenetreRecenteJours": 28,
     "source": "search-console",
-    "date": "2026-10-23"
+    "date": "2026-10-24"
+  },
+  "avis_detail": {
+    "releve": "2026-10-24",
+    "liste": [
+      {
+        "note": 5,
+        "texte": "Très bonne boutique équipe à l'écoute rapide et efficace",
+        "langue": "fr",
+        "date": "2026-06-30",
+        "auteur": "Walter Goncalves",
+        "auteur_lien": "https://www.google.com/maps/contrib/103124581117291190835/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUNYODR6M0ZBEAE!2m1!1s0x12ade88227054381:0x348005494cfccd1"
+      },
+      {
+        "note": 5,
+        "texte": "Entreprise sérieuse et responsable, un patron à l'écoute des besoins de ses clients et toujours disposé pour trouver la meilleure solution aux problèmes. On aimerait bien avoir toujours des partenaires si professionnels.",
+        "langue": "fr",
+        "date": "2026-06-11",
+        "auteur": "Vivian Ochoa",
+        "auteur_lien": "https://www.google.com/maps/contrib/118391305192105911626/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT21oNGFWZGFWV05NUlhkeVVVUkdTRzFXVm5OalpsRRAB!2m1!1s0x12ade88227054381:0x348005494cfccd1"
+      },
+      {
+        "note": 4,
+        "texte": "Patron très accessible..",
+        "langue": "fr",
+        "date": "2021-12-23",
+        "auteur": "Christiane LE LANN",
+        "auteur_lien": "https://www.google.com/maps/contrib/102824086993431527023/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUNtc3N6QlRBEAE!2m1!1s0x12ade88227054381:0x348005494cfccd1"
+      },
+      {
+        "note": 4,
+        "texte": "A voir entreprise humaine avant tout",
+        "langue": "fr",
+        "date": "2021-02-20",
+        "auteur": "Baroud Patrol",
+        "auteur_lien": "https://www.google.com/maps/contrib/103743166813979450633/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUR5NEl6REZnEAE!2m1!1s0x12ade88227054381:0x348005494cfccd1"
+      },
+      {
+        "note": 5,
+        "texte": "Vraiment sympathique  patron",
+        "langue": "fr",
+        "date": "2020-10-24",
+        "auteur": "Halima Ayouchi",
+        "auteur_lien": "https://www.google.com/maps/contrib/100765382554077898119/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUNpN09POURBEAE!2m1!1s0x12ade88227054381:0x348005494cfccd1"
+      }
+    ]
+  },
+  "services": {
+    "releve": "2026-10-24",
+    "options": {
+      "restroom": true
+    },
+    "paiement": [],
+    "parking": []
   }
 }

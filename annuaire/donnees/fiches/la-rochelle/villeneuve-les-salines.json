@@ -40,8 +40,8 @@
     "etat": "absent",
     "premiere_detection": null,
     "derniere_detection": null,
-    "derniere_verification": "2026-10-09T16:58:32.124Z",
-    "echecs": 25,
+    "derniere_verification": "2026-10-24T09:28:34.818Z",
+    "echecs": 26,
     "url_detectee": null
   },
   "suggestion": {
@@ -61,7 +61,7 @@
   "dates": {
     "collecte": "2026-09-19",
     "publication": "2026-09-19",
-    "maj": "2026-10-18"
+    "maj": "2026-10-24"
   },
   "source": "google-places",
   "redaction": {
@@ -97,7 +97,7 @@
         "id": "avis",
         "titre": "La réputation de Villeneuve les salines",
         "paragraphes": [
-          "Note de 4 sur 5 pour 7 avis Google au relevé du 9 octobre 2026. Les avis se consultent sur la fiche Google, dont le lien figure sur cette page."
+          "Note de 4 sur 5 pour 7 avis Google au relevé du 24 octobre 2026. Les avis les plus parlants sont compilés ci-dessous, avec un lien vers la fiche d'origine."
         ]
       }
     ],
@@ -111,7 +111,7 @@
         "r": "La fiche Google de l'établissement mentionne : « Entrée accessible en fauteuil roulant ». Cette information est déclarative ; en cas de doute, vérifiez par téléphone."
       }
     ],
-    "genere_le": "2026-10-09"
+    "genere_le": "2026-10-24"
   },
   "statut_google": "OPERATIONAL",
   "audience": {
@@ -122,6 +122,56 @@
     "clicsRecents": 0,
     "fenetreRecenteJours": 28,
     "source": "search-console",
-    "date": "2026-10-23"
+    "date": "2026-10-24"
+  },
+  "avis_detail": {
+    "releve": "2026-10-24",
+    "liste": [
+      {
+        "note": 4,
+        "texte": "",
+        "langue": "",
+        "date": "2026-09-19",
+        "auteur": "Antoine Durand",
+        "auteur_lien": "https://www.google.com/maps/contrib/100927456522342841262/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25sZmFGTlhWMkZJYzFwSFUxVXRiemhtUVd0SmFHYxAB!2m1!1s0x480153095f2771f5:0xfb51acd8aa858af5"
+      },
+      {
+        "note": 4,
+        "texte": "",
+        "langue": "",
+        "date": "2026-08-01",
+        "auteur": "kévin 974",
+        "auteur_lien": "https://www.google.com/maps/contrib/117591406261778733662/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2pNNWF6WXhabHBMVFV4UFVIaHlORkpmYjFseVNsRRAB!2m1!1s0x480153095f2771f5:0xfb51acd8aa858af5"
+      },
+      {
+        "note": 5,
+        "texte": "Bien",
+        "langue": "fr",
+        "date": "2026-06-04",
+        "auteur": "Sylvia Thomas petibon (Sylviamerefamillelagitane)",
+        "auteur_lien": "https://www.google.com/maps/contrib/106873327487351789569/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2pGUk1HeHROa3gyTm5sUGJUZEJaSEl3Y0V4a1lrRRAB!2m1!1s0x480153095f2771f5:0xfb51acd8aa858af5"
+      },
+      {
+        "note": 3,
+        "texte": "Bien",
+        "langue": "fr",
+        "date": "2026-02-20",
+        "auteur": "rousseau sylvie",
+        "auteur_lien": "https://www.google.com/maps/contrib/114684697795497687770/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2pOVWF6WnJRMDFxVFMxU1puRXhSamRuY0ZNelVGRRAB!2m1!1s0x480153095f2771f5:0xfb51acd8aa858af5"
+      },
+      {
+        "note": 4,
+        "texte": "",
+        "langue": "",
+        "date": "2025-10-09",
+        "auteur": "Cecile Bazin-pruneau",
+        "auteur_lien": "https://www.google.com/maps/contrib/110116618240489324497/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25WeFprazJZa3N4VERSUVJqQmpZbWwyWldGS01tYxAB!2m1!1s0x480153095f2771f5:0xfb51acd8aa858af5"
+      }
+    ]
   }
 }

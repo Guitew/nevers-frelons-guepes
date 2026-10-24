@@ -29,7 +29,7 @@
     "longitude": 1.3119736
   },
   "note": 4.3,
-  "avis": 141,
+  "avis": 142,
   "horaires": [
     {
       "jour": 0,
@@ -113,8 +113,8 @@
     "etat": "absent",
     "premiere_detection": null,
     "derniere_detection": null,
-    "derniere_verification": "2026-10-09T16:58:32.124Z",
-    "echecs": 10,
+    "derniere_verification": "2026-10-24T09:28:34.818Z",
+    "echecs": 11,
     "url_detectee": null
   },
   "suggestion": {
@@ -127,22 +127,32 @@
   "dates": {
     "collecte": "2026-09-30",
     "publication": "2026-09-30",
-    "maj": "2026-10-09"
+    "maj": "2026-10-24"
   },
   "source": "google-places",
   "redaction": {
     "version": 2,
     "titre": "Wafaa supermarché — Commerce d'alimentation à Blois",
     "meta_titre": "Wafaa supermarché à Blois : horaires, avis, téléphone",
-    "meta_description": "Wafaa supermarché, commerce d'alimentation à Blois : horaires d'ouverture, note Google 4,3/5 (141 avis), téléphone, adresse et itinéraire.",
-    "chapo": "Wafaa supermarché exerce l'activité de commerce d'alimentation au 115 Rue Michel Bégon, à Blois. Ouvert sept jours sur sept au relevé du 9 octobre 2026. Téléphone : 02 54 45 14 09. Note Google : 4,3 sur 5 pour 141 avis.",
+    "meta_description": "Wafaa supermarché, commerce d'alimentation à Blois : horaires d'ouverture, note Google 4,3/5 (142 avis), téléphone, adresse et itinéraire.",
+    "chapo": "Wafaa supermarché exerce l'activité de commerce d'alimentation au 115 Rue Michel Bégon, à Blois. Ouvert sept jours sur sept au relevé du 24 octobre 2026. Téléphone : 02 54 45 14 09. Note Google : 4,3 sur 5 pour 142 avis.",
     "sections": [
       {
         "id": "presentation",
         "titre": "Wafaa supermarché en quelques mots",
         "paragraphes": [
           "Sur Google, l'établissement est classé « Épicerie », dans notre rubrique Commerce d'alimentation.",
-          "D'après le relevé du 9 octobre 2026, l'établissement est ouvert sept jours sur sept. Le détail jour par jour figure plus bas."
+          "D'après le relevé du 24 octobre 2026, l'établissement est ouvert sept jours sur sept. Le détail jour par jour figure plus bas."
+        ]
+      },
+      {
+        "id": "prestations",
+        "titre": "Services et équipements de Wafaa supermarché",
+        "paragraphes": [
+          "Non proposé selon la fiche Google : livraison et toilettes.",
+          "Moyens de paiement déclarés : carte bancaire, carte de débit et paiement sans contact.",
+          "Stationnement : parking gratuit et stationnement gratuit dans la rue.",
+          "Ces indications sont déclarées par l'établissement sur sa fiche Google (relevé du 24 octobre 2026)."
         ]
       },
       {
@@ -164,18 +174,18 @@
         "id": "avis",
         "titre": "La réputation de Wafaa supermarché",
         "paragraphes": [
-          "Note de 4,3 sur 5 pour 141 avis Google au relevé du 9 octobre 2026. Les avis se consultent sur la fiche Google, dont le lien figure sur cette page."
+          "Note de 4,3 sur 5 pour 142 avis Google au relevé du 24 octobre 2026. Les avis les plus parlants sont compilés ci-dessous, avec un lien vers la fiche d'origine."
         ]
       }
     ],
     "faq": [
       {
         "q": "Quels sont les horaires de Wafaa supermarché ?",
-        "r": "Au relevé du 9 octobre 2026, Wafaa supermarché était ouvert sept jours sur sept. Dans le détail — lundi : de 8 h 30 à 20 h ; mardi : de 8 h 30 à 20 h ; mercredi : de 8 h 30 à 20 h 30 ; jeudi : de 8 h 30 à 20 h ; vendredi : de 8 h 30 à 20 h ; samedi : de 9 h à 20 h ; dimanche : de 9 h à 20 h. Ces horaires peuvent changer : un appel préalable reste conseillé."
+        "r": "Au relevé du 24 octobre 2026, Wafaa supermarché était ouvert sept jours sur sept. Dans le détail — lundi : de 8 h 30 à 20 h ; mardi : de 8 h 30 à 20 h ; mercredi : de 8 h 30 à 20 h 30 ; jeudi : de 8 h 30 à 20 h ; vendredi : de 8 h 30 à 20 h ; samedi : de 9 h à 20 h ; dimanche : de 9 h à 20 h. Ces horaires peuvent changer : un appel préalable reste conseillé."
       },
       {
         "q": "Wafaa supermarché est-il ouvert le dimanche ?",
-        "r": "Oui : le dimanche, Wafaa supermarché est ouvert de 9 h à 20 h (horaires relevés le 9 octobre 2026)."
+        "r": "Oui : le dimanche, Wafaa supermarché est ouvert de 9 h à 20 h (horaires relevés le 24 octobre 2026)."
       },
       {
         "q": "Où se trouve Wafaa supermarché ?",
@@ -186,11 +196,15 @@
         "r": "Par téléphone au 02 54 45 14 09, ou directement sur place aux heures d'ouverture."
       },
       {
+        "q": "Wafaa supermarché propose-t-il la vente à emporter ou la livraison ?",
+        "r": "D'après sa fiche Google (relevé du 24 octobre 2026) — livraison : non."
+      },
+      {
         "q": "Wafaa supermarché est-il accessible aux personnes à mobilité réduite ?",
         "r": "La fiche Google de l'établissement mentionne : « Entrée accessible en fauteuil roulant ». Cette information est déclarative ; en cas de doute, vérifiez par téléphone."
       }
     ],
-    "genere_le": "2026-10-09"
+    "genere_le": "2026-10-24"
   },
   "statut_google": "OPERATIONAL",
   "audience": {
@@ -201,6 +215,72 @@
     "clicsRecents": 0,
     "fenetreRecenteJours": 28,
     "source": "search-console",
-    "date": "2026-10-23"
+    "date": "2026-10-24"
+  },
+  "avis_detail": {
+    "releve": "2026-10-24",
+    "liste": [
+      {
+        "note": 5,
+        "texte": "Cela fait plusieurs fois que je vais chez WAFAA, souvent juste avant la fermeture. Chaque fois sourire, aide et amabilité sont de mise. WAFAA va devenir mon magasin à privilégier quand je suis sur Blois le we...",
+        "langue": "fr",
+        "date": "2026-08-22",
+        "auteur": "Myriam Cohendy",
+        "auteur_lien": "https://www.google.com/maps/contrib/104393046866119777451/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT21sR00zTTFVWE10YkZCTmVuVkJhVU01UVRsMVQwRRAB!2m1!1s0x47e357f3f4997889:0xfd23faff2ec0abac"
+      },
+      {
+        "note": 1,
+        "texte": "Un véritable danger public avec leurs Camion, ne respectent pas le code de la route, sous prétexte qu’ils sortent de la rue de leur magasin. Le code est pour tout le monde le même. C’est le patron qui conduisait……",
+        "langue": "fr",
+        "date": "2026-08-20",
+        "auteur": "at at",
+        "auteur_lien": "https://www.google.com/maps/contrib/108746953568585279141/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2poQkxVbFplV290WldsRlRtNUtVa3hTTVV4emRWRRAB!2m1!1s0x47e357f3f4997889:0xfd23faff2ec0abac"
+      },
+      {
+        "note": 5,
+        "texte": "J'adore Wafaa, ils ont un peu de tout, c'est pas très cher et super bon. Surtout le pain ! Par contre si ils pouvaient en prévoir un peu plus car généralement l'après-midi il ne reste plus que quelques baguettes. Sinon super.",
+        "langue": "fr",
+        "date": "2026-07-19",
+        "auteur": "Melody Déseuvre",
+        "auteur_lien": "https://www.google.com/maps/contrib/108875909388577749809/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2pKVVV6aEJXbWxhZVZGamQzSTNia1pOT0dkelExRRAB!2m1!1s0x47e357f3f4997889:0xfd23faff2ec0abac"
+      },
+      {
+        "note": 5,
+        "texte": "Très bon supermarché de proximiter à blois accessible à tous pour des achats alimentaires de 1er et second secours sans distinction de race.\nJuste les caissières, des jeunes dames souvent un peu froide ce qui met le client parfois mal-à-l’aise.\nLa boucherie est fraîche et accueillante.",
+        "langue": "fr",
+        "date": "2026-07-01",
+        "auteur": "Natenin Coulibaly",
+        "auteur_lien": "https://www.google.com/maps/contrib/107845948939080829514/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2pGelozTnBVSFZITkhBdFdrbFJPRVJPZUhGWVdHYxAB!2m1!1s0x47e357f3f4997889:0xfd23faff2ec0abac"
+      },
+      {
+        "note": 3,
+        "texte": "Un peu déçu, j'ai acheté des maïs géant frit (grillé et salés) durant la période du ramadan, ayant une date de péremption au 30 septembre 2024 et même pas 2 mois que j'ai acheté celui-ci... À l'ouverture du paquet c'est échappé une odeur d'huile rance, après avoir goûté un maïs l'odeur est vraiment présent c'est écoeurant. Je n'ai malheureusement pas gardé de preuve d'achat donc je ne crois pas que la boutique voudra me rembourser ou échanger mon produit... Sauf s'il regarde leurs caméra...\n\nAutrement dit, la boutique est beaucoup plus propre et plus agréable, la boucherie est propre et bien éclairé et il y a plus de caisse. Points positifs !",
+        "langue": "fr",
+        "date": "2024-05-07",
+        "auteur": "LocalGuideX",
+        "auteur_lien": "https://www.google.com/maps/contrib/105200615208973473042/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSURqdTR5RkdBEAE!2m1!1s0x47e357f3f4997889:0xfd23faff2ec0abac"
+      }
+    ]
+  },
+  "services": {
+    "releve": "2026-10-24",
+    "options": {
+      "delivery": false,
+      "restroom": false
+    },
+    "paiement": [
+      "carte bancaire",
+      "carte de débit",
+      "paiement sans contact"
+    ],
+    "parking": [
+      "parking gratuit",
+      "stationnement gratuit dans la rue"
+    ]
   }
 }

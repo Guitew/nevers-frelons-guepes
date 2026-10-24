@@ -114,8 +114,8 @@
     "etat": "absent",
     "premiere_detection": null,
     "derniere_detection": null,
-    "derniere_verification": "2026-10-09T16:58:32.124Z",
-    "echecs": 63,
+    "derniere_verification": "2026-10-24T09:28:34.818Z",
+    "echecs": 64,
     "url_detectee": null
   },
   "suggestion": {
@@ -132,7 +132,7 @@
   "dates": {
     "collecte": "2026-09-01",
     "publication": "2026-09-01",
-    "maj": "2026-10-19"
+    "maj": "2026-10-24"
   },
   "source": "google-places",
   "redaction": {
@@ -140,14 +140,23 @@
     "titre": "U Express Aurillac — Commerce d'alimentation à Aurillac",
     "meta_titre": "U Express Aurillac à Aurillac : horaires, avis, téléphone",
     "meta_description": "U Express Aurillac, commerce d'alimentation à Aurillac : horaires d'ouverture, note Google 3,7/5 (295 avis), téléphone, adresse et itinéraire.",
-    "chapo": "U Express Aurillac exerce l'activité de commerce d'alimentation au 1 Place du Square, à Aurillac. Ouvert sept jours sur sept au relevé du 18 octobre 2026. Téléphone : 04 71 48 87 78. Note Google : 3,7 sur 5 pour 295 avis.",
+    "chapo": "U Express Aurillac exerce l'activité de commerce d'alimentation au 1 Place du Square, à Aurillac. Ouvert sept jours sur sept au relevé du 24 octobre 2026. Téléphone : 04 71 48 87 78. Note Google : 3,7 sur 5 pour 295 avis.",
     "sections": [
       {
         "id": "presentation",
         "titre": "U Express Aurillac en quelques mots",
         "paragraphes": [
           "Sur Google, l'établissement est classé « Supermarché », dans notre rubrique Commerce d'alimentation.",
-          "D'après le relevé du 18 octobre 2026, l'établissement est ouvert sept jours sur sept. Le détail jour par jour figure plus bas."
+          "D'après le relevé du 24 octobre 2026, l'établissement est ouvert sept jours sur sept. Le détail jour par jour figure plus bas."
+        ]
+      },
+      {
+        "id": "prestations",
+        "titre": "Services et équipements de U Express Aurillac",
+        "paragraphes": [
+          "Non proposé selon la fiche Google : livraison, retrait en voiture et toilettes.",
+          "Moyens de paiement déclarés : carte bancaire, carte de débit et paiement sans contact.",
+          "Ces indications sont déclarées par l'établissement sur sa fiche Google (relevé du 24 octobre 2026)."
         ]
       },
       {
@@ -169,18 +178,18 @@
         "id": "avis",
         "titre": "La réputation de U Express Aurillac",
         "paragraphes": [
-          "Note de 3,7 sur 5 pour 295 avis Google au relevé du 18 octobre 2026. Les avis se consultent sur la fiche Google, dont le lien figure sur cette page."
+          "Note de 3,7 sur 5 pour 295 avis Google au relevé du 24 octobre 2026. Les avis les plus parlants sont compilés ci-dessous, avec un lien vers la fiche d'origine."
         ]
       }
     ],
     "faq": [
       {
         "q": "Quels sont les horaires de U Express Aurillac ?",
-        "r": "Au relevé du 18 octobre 2026, U Express Aurillac était ouvert sept jours sur sept. Dans le détail — lundi : de 8 h à 20 h 30 ; mardi : de 8 h à 20 h 30 ; mercredi : de 8 h à 20 h 30 ; jeudi : de 8 h à 20 h 30 ; vendredi : de 8 h à 20 h 30 ; samedi : de 8 h à 20 h 30 ; dimanche : de 9 h à 12 h 30. Ces horaires peuvent changer : un appel préalable reste conseillé."
+        "r": "Au relevé du 24 octobre 2026, U Express Aurillac était ouvert sept jours sur sept. Dans le détail — lundi : de 8 h à 20 h 30 ; mardi : de 8 h à 20 h 30 ; mercredi : de 8 h à 20 h 30 ; jeudi : de 8 h à 20 h 30 ; vendredi : de 8 h à 20 h 30 ; samedi : de 8 h à 20 h 30 ; dimanche : de 9 h à 12 h 30. Ces horaires peuvent changer : un appel préalable reste conseillé."
       },
       {
         "q": "U Express Aurillac est-il ouvert le dimanche ?",
-        "r": "Oui : le dimanche, U Express Aurillac est ouvert de 9 h à 12 h 30 (horaires relevés le 18 octobre 2026)."
+        "r": "Oui : le dimanche, U Express Aurillac est ouvert de 9 h à 12 h 30 (horaires relevés le 24 octobre 2026)."
       },
       {
         "q": "Où se trouve U Express Aurillac ?",
@@ -191,11 +200,15 @@
         "r": "Par téléphone au 04 71 48 87 78, ou directement sur place aux heures d'ouverture."
       },
       {
+        "q": "U Express Aurillac propose-t-il la vente à emporter ou la livraison ?",
+        "r": "D'après sa fiche Google (relevé du 24 octobre 2026) — livraison : non."
+      },
+      {
         "q": "U Express Aurillac est-il accessible aux personnes à mobilité réduite ?",
         "r": "La fiche Google de l'établissement mentionne : « Entrée accessible en fauteuil roulant ». Cette information est déclarative ; en cas de doute, vérifiez par téléphone."
       }
     ],
-    "genere_le": "2026-10-18"
+    "genere_le": "2026-10-24"
   },
   "statut_google": "OPERATIONAL",
   "audience": {
@@ -206,7 +219,7 @@
     "clicsRecents": 0,
     "fenetreRecenteJours": 28,
     "source": "search-console",
-    "date": "2026-10-23"
+    "date": "2026-10-24"
   },
   "indexation": {
     "etat": "non-indexee",
@@ -216,5 +229,69 @@
     "canonique_google": null,
     "source": "inspection",
     "date": "2026-10-19"
+  },
+  "avis_detail": {
+    "releve": "2026-10-24",
+    "liste": [
+      {
+        "note": 5,
+        "texte": "Un magasin incroyable, avec un gérant vraiment exceptionnel ! Accueillant, professionnel, à l’écoute et toujours avec le sourire. Ça fait plaisir de tomber sur des personnes aussi passionnées et investies.🥰",
+        "langue": "fr",
+        "date": "2026-08-16",
+        "auteur": "Miss Ali40",
+        "auteur_lien": "https://www.google.com/maps/contrib/102387509854583512970/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25WYWRrWlplSGRrWDJFNU9VaG1iRFJZYUhKdE5YYxAB!2m1!1s0x12ad5599bc007981:0x43b0ccdf1773e5d1"
+      },
+      {
+        "note": 3,
+        "texte": "Le magasin est bien, mais il y a souvent des sans-abri devant l'entrée qui insistent auprès des clients pour demander de l'argent. C'est vraiment désagréable et cela rend l'entrée dans le magasin moins agréable. J'espère que la direction prendra des mesures pour régler ce problème.",
+        "langue": "fr",
+        "date": "2026-07-22",
+        "auteur": "Safi Safi",
+        "auteur_lien": "https://www.google.com/maps/contrib/104414587867366670771/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2kxRFN6bEdhR2hJZWt3MWFHTkpTVXhCZVdGc2FuYxAB!2m1!1s0x12ad5599bc007981:0x43b0ccdf1773e5d1"
+      },
+      {
+        "note": 3,
+        "texte": "Attention à ce magasin ; souvent les dates limites de consommation sont très courtes (voir dépassée).\nJe vous conseille de vérifier avant d'acheter.\nEn dehors de cela ; le personnel est très sympathique et les prix correct.",
+        "langue": "fr",
+        "date": "2026-06-04",
+        "auteur": "Ju Lien",
+        "auteur_lien": "https://www.google.com/maps/contrib/108816686076805748065/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2w5SGMwSlZiVzlUZGtRd016WmlWRFp2VGw5blJFRRAB!2m1!1s0x12ad5599bc007981:0x43b0ccdf1773e5d1"
+      },
+      {
+        "note": 5,
+        "texte": "Je m'y sens bien et la nouvelle direction est aimable, on peut discuter avec.\nUne multitude de produits de bonnes qualités.",
+        "langue": "fr",
+        "date": "2026-03-07",
+        "auteur": "Julien",
+        "auteur_lien": "https://www.google.com/maps/contrib/103837826060358938985/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT21Sc1F6SkRha3h0YkhSU00wcE5lVkY2YWpGc2RWRRAB!2m1!1s0x12ad5599bc007981:0x43b0ccdf1773e5d1"
+      },
+      {
+        "note": 4,
+        "texte": "Bonjour à tous\nMagasin propre sympa et grand.\nA bientôt",
+        "langue": "fr",
+        "date": "2022-09-15",
+        "auteur": "Tycha Taylors",
+        "auteur_lien": "https://www.google.com/maps/contrib/105381429223945544219/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUNlX3NPcnhnRRAB!2m1!1s0x12ad5599bc007981:0x43b0ccdf1773e5d1"
+      }
+    ]
+  },
+  "services": {
+    "releve": "2026-10-24",
+    "options": {
+      "delivery": false,
+      "curbsidePickup": false,
+      "restroom": false
+    },
+    "paiement": [
+      "carte bancaire",
+      "carte de débit",
+      "paiement sans contact"
+    ],
+    "parking": []
   }
 }

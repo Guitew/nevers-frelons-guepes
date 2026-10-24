@@ -32,8 +32,8 @@
     "latitude": 48.1837844,
     "longitude": 6.4545183999999995
   },
-  "note": 4.1,
-  "avis": 361,
+  "note": 4.2,
+  "avis": 360,
   "horaires": [
     {
       "jour": 0,
@@ -117,8 +117,8 @@
     "etat": "absent",
     "premiere_detection": null,
     "derniere_detection": null,
-    "derniere_verification": "2026-10-09T16:58:32.124Z",
-    "echecs": 50,
+    "derniere_verification": "2026-10-24T09:28:34.818Z",
+    "echecs": 51,
     "url_detectee": null
   },
   "suggestion": {
@@ -136,22 +136,31 @@
   "dates": {
     "collecte": "2026-09-07",
     "publication": "2026-09-07",
-    "maj": "2026-10-22"
+    "maj": "2026-10-24"
   },
   "source": "google-places",
   "redaction": {
     "version": 2,
     "titre": "SUPERMARCHÉ DES VOSGES - Épinal — Commerce d'alimentation à Épinal",
     "meta_titre": "SUPERMARCHÉ DES VOSGES - Épinal à Épinal : horaires, avis",
-    "meta_description": "SUPERMARCHÉ DES VOSGES - Épinal, commerce d'alimentation à Épinal : horaires d'ouverture, note Google 4,1/5 (361 avis), téléphone, adresse et itinéraire.",
-    "chapo": "SUPERMARCHÉ DES VOSGES - Épinal est un commerce d'alimentation au 1 Avenue Henri Sellier, à Épinal. Ouvert sept jours sur sept au relevé du 9 octobre 2026. Téléphone : 03 29 30 53 19. Note Google : 4,1 sur 5 pour 361 avis.",
+    "meta_description": "SUPERMARCHÉ DES VOSGES - Épinal, commerce d'alimentation à Épinal : horaires d'ouverture, note Google 4,2/5 (360 avis), téléphone, adresse et itinéraire.",
+    "chapo": "SUPERMARCHÉ DES VOSGES - Épinal est un commerce d'alimentation au 1 Avenue Henri Sellier, à Épinal. Ouvert sept jours sur sept au relevé du 24 octobre 2026. Téléphone : 03 29 30 53 19. Note Google : 4,2 sur 5 pour 360 avis.",
     "sections": [
       {
         "id": "presentation",
         "titre": "SUPERMARCHÉ DES VOSGES - Épinal en quelques mots",
         "paragraphes": [
           "Sur Google, l'établissement est classé « Supermarché », dans notre rubrique Commerce d'alimentation.",
-          "D'après le relevé du 9 octobre 2026, l'établissement est ouvert sept jours sur sept. Le détail jour par jour figure plus bas."
+          "D'après le relevé du 24 octobre 2026, l'établissement est ouvert sept jours sur sept. Le détail jour par jour figure plus bas."
+        ]
+      },
+      {
+        "id": "prestations",
+        "titre": "Services et équipements de SUPERMARCHÉ DES VOSGES - Épinal",
+        "paragraphes": [
+          "Non proposé selon la fiche Google : livraison et toilettes.",
+          "Moyens de paiement déclarés : carte bancaire, carte de débit et paiement sans contact.",
+          "Ces indications sont déclarées par l'établissement sur sa fiche Google (relevé du 24 octobre 2026)."
         ]
       },
       {
@@ -173,18 +182,18 @@
         "id": "avis",
         "titre": "La réputation de SUPERMARCHÉ DES VOSGES - Épinal",
         "paragraphes": [
-          "Note de 4,1 sur 5 pour 361 avis Google au relevé du 9 octobre 2026. Les avis se consultent sur la fiche Google, dont le lien figure sur cette page."
+          "Note de 4,2 sur 5 pour 360 avis Google au relevé du 24 octobre 2026. Les avis les plus parlants sont compilés ci-dessous, avec un lien vers la fiche d'origine."
         ]
       }
     ],
     "faq": [
       {
         "q": "Quels sont les horaires de SUPERMARCHÉ DES VOSGES - Épinal ?",
-        "r": "Au relevé du 9 octobre 2026, SUPERMARCHÉ DES VOSGES - Épinal était ouvert sept jours sur sept. Dans le détail — lundi : de 8 h 30 à 19 h 30 ; mardi : de 8 h 30 à 19 h 30 ; mercredi : de 8 h 30 à 19 h 30 ; jeudi : de 8 h 30 à 19 h 30 ; vendredi : de 8 h 30 à 19 h 30 ; samedi : de 8 h 30 à 19 h 30 ; dimanche : de 8 h 30 à 19 h 30. Ces horaires peuvent changer : un appel préalable reste conseillé."
+        "r": "Au relevé du 24 octobre 2026, SUPERMARCHÉ DES VOSGES - Épinal était ouvert sept jours sur sept. Dans le détail — lundi : de 8 h 30 à 19 h 30 ; mardi : de 8 h 30 à 19 h 30 ; mercredi : de 8 h 30 à 19 h 30 ; jeudi : de 8 h 30 à 19 h 30 ; vendredi : de 8 h 30 à 19 h 30 ; samedi : de 8 h 30 à 19 h 30 ; dimanche : de 8 h 30 à 19 h 30. Ces horaires peuvent changer : un appel préalable reste conseillé."
       },
       {
         "q": "SUPERMARCHÉ DES VOSGES - Épinal est-il ouvert le dimanche ?",
-        "r": "Oui : le dimanche, SUPERMARCHÉ DES VOSGES - Épinal est ouvert de 8 h 30 à 19 h 30 (horaires relevés le 9 octobre 2026)."
+        "r": "Oui : le dimanche, SUPERMARCHÉ DES VOSGES - Épinal est ouvert de 8 h 30 à 19 h 30 (horaires relevés le 24 octobre 2026)."
       },
       {
         "q": "Où se trouve SUPERMARCHÉ DES VOSGES - Épinal ?",
@@ -195,11 +204,15 @@
         "r": "Par téléphone au 03 29 30 53 19, ou directement sur place aux heures d'ouverture."
       },
       {
+        "q": "SUPERMARCHÉ DES VOSGES - Épinal propose-t-il la vente à emporter ou la livraison ?",
+        "r": "D'après sa fiche Google (relevé du 24 octobre 2026) — livraison : non."
+      },
+      {
         "q": "SUPERMARCHÉ DES VOSGES - Épinal est-il accessible aux personnes à mobilité réduite ?",
         "r": "La fiche Google de l'établissement mentionne : « Entrée accessible en fauteuil roulant ». Cette information est déclarative ; en cas de doute, vérifiez par téléphone."
       }
     ],
-    "genere_le": "2026-10-09"
+    "genere_le": "2026-10-24"
   },
   "statut_google": "OPERATIONAL",
   "audience": {
@@ -210,7 +223,7 @@
     "clicsRecents": 0,
     "fenetreRecenteJours": 28,
     "source": "search-console",
-    "date": "2026-10-23"
+    "date": "2026-10-24"
   },
   "indexation": {
     "etat": "non-indexee",
@@ -220,5 +233,68 @@
     "canonique_google": null,
     "source": "inspection",
     "date": "2026-10-22"
+  },
+  "avis_detail": {
+    "releve": "2026-10-24",
+    "liste": [
+      {
+        "note": 1,
+        "texte": "Poulet avarié, odeur insupportable dans le sachet, impossible de ne pas s’en rendre compte en l’emballant. Le service d’hygiène devrait venir faire un tour ...",
+        "langue": "fr",
+        "date": "2026-08-18",
+        "auteur": "An M",
+        "auteur_lien": "https://www.google.com/maps/contrib/117193304868855823838/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2kxZlNubFRWMDVwWTB4a1Vta3lNamgwVjFOcmFsRRAB!2m1!1s0x4793a06462beeb2d:0x1efb56698f532dfd"
+      },
+      {
+        "note": 5,
+        "texte": "Très beaux fruits et légumes, la viande est excellente et les produits pas chers",
+        "langue": "fr",
+        "date": "2026-07-04",
+        "auteur": "C P",
+        "auteur_lien": "https://www.google.com/maps/contrib/111543364118099736953/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2kxNVprTnRkMkZ1ZERSV1l6Wk1kbVZOU0hSaGRVRRAB!2m1!1s0x4793a06462beeb2d:0x1efb56698f532dfd"
+      },
+      {
+        "note": 4,
+        "texte": "J'aime cette vie ailleurs..ca change,ca sent bon et pas chère..de la bonne viande...en gros...et des gens sympa...",
+        "langue": "fr",
+        "date": "2026-05-08",
+        "auteur": "Thierry Creusot",
+        "auteur_lien": "https://www.google.com/maps/contrib/107186493645166055749/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2taUk5VRnVkVWRXWnpadVJGWnlTMDVyVTNOMFgwRRAB!2m1!1s0x4793a06462beeb2d:0x1efb56698f532dfd"
+      },
+      {
+        "note": 3,
+        "texte": "Viande achetée fin janvier, poulet mariné odorant, similaire à de la viande avariée, aucun problème avec le reste de mes achats.",
+        "langue": "fr",
+        "date": "2026-02-08",
+        "auteur": "Yoann Lahaut",
+        "auteur_lien": "https://www.google.com/maps/contrib/117480438249099499105/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2pGUmRHZERObXd0TkZoWWVIVlFRVk5QV1dWZlZYYxAB!2m1!1s0x4793a06462beeb2d:0x1efb56698f532dfd"
+      },
+      {
+        "note": 1,
+        "texte": "Vraiment déçu de ses voleurs, j'ai été avec 1 bon d'achat gagner lors d'un tournoi et on m'a refusé de récupérer le produit. Pourtant il y avait bien écrit dessus le ticket de caisse \" à récupérer \"..Sans preuve le boucher m'accuse d'être déjà venu récupérer.\nPour avoir été client depuis des années,  je suis déçu qu'on me soupçonne de vouloir leur voler.",
+        "langue": "fr",
+        "date": "2025-08-10",
+        "auteur": "N L",
+        "auteur_lien": "https://www.google.com/maps/contrib/102550444556823046670/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2pWSE1XWnNTRkJZYjJ4eGRUY3piak4zZUMxM05GRRAB!2m1!1s0x4793a06462beeb2d:0x1efb56698f532dfd"
+      }
+    ]
+  },
+  "services": {
+    "releve": "2026-10-24",
+    "options": {
+      "delivery": false,
+      "restroom": false
+    },
+    "paiement": [
+      "carte bancaire",
+      "carte de débit",
+      "paiement sans contact"
+    ],
+    "parking": []
   }
 }

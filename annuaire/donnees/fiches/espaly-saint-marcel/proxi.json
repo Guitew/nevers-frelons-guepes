@@ -1,0 +1,297 @@
+{
+  "id": "ChIJ_xjMLU_79UcRK7Z36SFQwAc",
+  "slug": "proxi",
+  "nom": "Proxi",
+  "categorie": "commerces-alimentation",
+  "categorie_gmb": "Supermarché",
+  "type_principal": "supermarket",
+  "types": [
+    "supermarket",
+    "grocery_store",
+    "food_store",
+    "store",
+    "point_of_interest",
+    "food",
+    "establishment"
+  ],
+  "ville": "Espaly-Saint-Marcel",
+  "ville_slug": "espaly-saint-marcel",
+  "adresse": {
+    "rue": "8 Chemin du Val du Riou",
+    "code_postal": "43000",
+    "departement": "43",
+    "region": "Auvergne-Rhône-Alpes",
+    "pays": "France",
+    "complete": "8 Chem. du Val du Riou, 43000 Espaly-Saint-Marcel"
+  },
+  "telephone": "04 71 06 00 19",
+  "geo": {
+    "latitude": 45.0459475,
+    "longitude": 3.8606384
+  },
+  "note": 4.4,
+  "avis": 37,
+  "horaires": [
+    {
+      "jour": 0,
+      "ferme": false,
+      "creneaux": [
+        [
+          "08:30",
+          "12:30"
+        ],
+        [
+          "15:00",
+          "19:30"
+        ]
+      ]
+    },
+    {
+      "jour": 1,
+      "ferme": false,
+      "creneaux": [
+        [
+          "08:30",
+          "12:30"
+        ],
+        [
+          "15:00",
+          "19:30"
+        ]
+      ]
+    },
+    {
+      "jour": 2,
+      "ferme": false,
+      "creneaux": [
+        [
+          "08:30",
+          "12:30"
+        ],
+        [
+          "15:00",
+          "19:30"
+        ]
+      ]
+    },
+    {
+      "jour": 3,
+      "ferme": false,
+      "creneaux": [
+        [
+          "08:30",
+          "12:30"
+        ],
+        [
+          "15:00",
+          "19:30"
+        ]
+      ]
+    },
+    {
+      "jour": 4,
+      "ferme": false,
+      "creneaux": [
+        [
+          "08:30",
+          "12:30"
+        ],
+        [
+          "15:00",
+          "19:30"
+        ]
+      ]
+    },
+    {
+      "jour": 5,
+      "ferme": false,
+      "creneaux": [
+        [
+          "09:00",
+          "12:30"
+        ],
+        [
+          "15:00",
+          "19:30"
+        ]
+      ]
+    },
+    {
+      "jour": 6,
+      "ferme": true,
+      "creneaux": []
+    }
+  ],
+  "attributs": [
+    "Entrée accessible en fauteuil roulant",
+    "Parking accessible en fauteuil roulant"
+  ],
+  "lien_google": "https://maps.google.com/?cid=558534460375021099&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
+  "site_web_gmb": null,
+  "statut": "publiee",
+  "backlink": {
+    "etat": "absent",
+    "premiere_detection": null,
+    "derniere_detection": null,
+    "derniere_verification": "2026-10-24T09:28:34.818Z",
+    "echecs": 1,
+    "url_detectee": null
+  },
+  "suggestion": {
+    "etat": "en-attente",
+    "date_soumission": null,
+    "tentatives": 0,
+    "date_email": "2026-10-24"
+  },
+  "retrait": null,
+  "dates": {
+    "collecte": "2026-10-24",
+    "publication": "2026-10-24",
+    "maj": "2026-10-24"
+  },
+  "source": "google-places",
+  "avis_detail": {
+    "releve": "2026-10-24",
+    "liste": [
+      {
+        "note": 2,
+        "texte": "Bien reçu.\nPrix au dessus des grands commerces\nEVITEZ LES 2G2G ABSOLUMENT EN FRUITS !",
+        "langue": "fr",
+        "date": "2026-07-09",
+        "auteur": "Orisa mhoi",
+        "auteur_lien": "https://www.google.com/maps/contrib/117816548407274594180/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2tJeGNWUm1hVlF3T1ZCU2FFbzNPVnBQWVdKVllXYxAB!2m1!1s0x47f5fb4f2dcc18ff:0x7c05021e977b62b"
+      },
+      {
+        "note": 1,
+        "texte": "Je suis extrêmement déçu et choqué de l'état de ce magasin qui se détériore de jours en jours. Saleté, odeur désagréable et accueil par un employé antipathique et affable. Je ne recommande pas !!",
+        "langue": "fr",
+        "date": "2026-04-16",
+        "auteur": "Arturito Prayo",
+        "auteur_lien": "https://www.google.com/maps/contrib/112722626455814448463/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2pFd09UVTBlR3hqYld4amFHNHRWakkyVFUxa2IwRRAB!2m1!1s0x47f5fb4f2dcc18ff:0x7c05021e977b62b"
+      },
+      {
+        "note": 5,
+        "texte": "Laurent est très accueillant et sympathique, il a une vraie fièvre commerçante . Au top !!!",
+        "langue": "fr",
+        "date": "2026-02-18",
+        "auteur": "Amine Boubou",
+        "auteur_lien": "https://www.google.com/maps/contrib/110713178530213654284/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT210dk5VVkNaa2wyVnpKak9XUjBjMmx0Y3poamVrRRAB!2m1!1s0x47f5fb4f2dcc18ff:0x7c05021e977b62b"
+      },
+      {
+        "note": 5,
+        "texte": "Petite épicerie de qualité. L'accueil est chaleureux et toujours avec un grand sourire, qui fait bien plaisir à voir.",
+        "langue": "fr",
+        "date": "2025-10-04",
+        "auteur": "Hayden Bouchet",
+        "auteur_lien": "https://www.google.com/maps/contrib/108659533233951877179/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25oT1ltSjNXVlZTWkY5R1IzUlZjRTB6TUUwd2NXYxAB!2m1!1s0x47f5fb4f2dcc18ff:0x7c05021e977b62b"
+      },
+      {
+        "note": 4,
+        "texte": "Visite ce jour 24/09/24, petit magasin sympa, on y trouve le nécessaire, prix restant correct.\nMr à la caisse (peut être le gérant ?!), aimable et poli.",
+        "langue": "fr",
+        "date": "2024-09-24",
+        "auteur": "Valeyrie",
+        "auteur_lien": "https://www.google.com/maps/contrib/106420843988572769612/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUNub282V0V3EAE!2m1!1s0x47f5fb4f2dcc18ff:0x7c05021e977b62b"
+      }
+    ]
+  },
+  "services": {
+    "releve": "2026-10-24",
+    "options": {
+      "restroom": false
+    },
+    "paiement": [
+      "carte bancaire",
+      "carte de débit",
+      "paiement sans contact"
+    ],
+    "parking": []
+  },
+  "redaction": {
+    "version": 2,
+    "titre": "Proxi — Commerce d'alimentation à Espaly-Saint-Marcel",
+    "meta_titre": "Proxi à Espaly-Saint-Marcel : horaires, avis, téléphone",
+    "meta_description": "Proxi, commerce d'alimentation à Espaly-Saint-Marcel : horaires d'ouverture, note Google 4,4/5 (37 avis), téléphone, adresse et itinéraire.",
+    "chapo": "Proxi est un commerce d'alimentation au 8 Chemin du Val du Riou, à Espaly-Saint-Marcel. Ouvert tous les jours sauf le dimanche au relevé du 24 octobre 2026. Téléphone : 04 71 06 00 19. Note Google : 4,4 sur 5 pour 37 avis.",
+    "sections": [
+      {
+        "id": "presentation",
+        "titre": "Proxi en quelques mots",
+        "paragraphes": [
+          "Sur Google, l'établissement est classé « Supermarché », dans notre rubrique Commerce d'alimentation.",
+          "D'après le relevé du 24 octobre 2026, l'établissement est ouvert tous les jours sauf le dimanche. Le détail jour par jour figure plus bas."
+        ]
+      },
+      {
+        "id": "prestations",
+        "titre": "Services et équipements de Proxi",
+        "paragraphes": [
+          "Non proposé selon la fiche Google : toilettes.",
+          "Moyens de paiement déclarés : carte bancaire, carte de débit et paiement sans contact.",
+          "Ces indications sont déclarées par l'établissement sur sa fiche Google (relevé du 24 octobre 2026)."
+        ]
+      },
+      {
+        "id": "acces",
+        "titre": "Adresse et accès",
+        "paragraphes": [
+          "L'établissement est situé au 8 Chemin du Val du Riou, 43000 Espaly-Saint-Marcel.",
+          "Coordonnées GPS : 45.04595, 3.86064. Le bouton Itinéraire de cette page ouvre la navigation."
+        ]
+      },
+      {
+        "id": "contact",
+        "titre": "Contacter Proxi",
+        "paragraphes": [
+          "Le contact se fait par téléphone au 04 71 06 00 19, ou directement sur place aux horaires d'ouverture."
+        ]
+      },
+      {
+        "id": "avis",
+        "titre": "La réputation de Proxi",
+        "paragraphes": [
+          "Note de 4,4 sur 5 pour 37 avis Google au relevé du 24 octobre 2026. Les avis les plus parlants sont compilés ci-dessous, avec un lien vers la fiche d'origine."
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "q": "Quels sont les horaires de Proxi ?",
+        "r": "Au relevé du 24 octobre 2026, Proxi était ouvert tous les jours sauf le dimanche. Dans le détail — lundi : de 8 h 30 à 12 h 30 et de 15 h à 19 h 30 ; mardi : de 8 h 30 à 12 h 30 et de 15 h à 19 h 30 ; mercredi : de 8 h 30 à 12 h 30 et de 15 h à 19 h 30 ; jeudi : de 8 h 30 à 12 h 30 et de 15 h à 19 h 30 ; vendredi : de 8 h 30 à 12 h 30 et de 15 h à 19 h 30 ; samedi : de 9 h à 12 h 30 et de 15 h à 19 h 30 ; dimanche : fermé. Ces horaires peuvent changer : un appel préalable reste conseillé."
+      },
+      {
+        "q": "Proxi est-il ouvert le dimanche ?",
+        "r": "Non : d'après les horaires relevés le 24 octobre 2026, Proxi est fermé le dimanche."
+      },
+      {
+        "q": "Où se trouve Proxi ?",
+        "r": "Proxi se trouve 8 Chem. du Val du Riou, 43000 Espaly-Saint-Marcel. Un lien d'itinéraire est disponible sur cette page."
+      },
+      {
+        "q": "Comment contacter Proxi ?",
+        "r": "Par téléphone au 04 71 06 00 19, ou directement sur place aux heures d'ouverture."
+      },
+      {
+        "q": "Proxi est-il accessible aux personnes à mobilité réduite ?",
+        "r": "La fiche Google de l'établissement mentionne : « Entrée accessible en fauteuil roulant ». Cette information est déclarative ; en cas de doute, vérifiez par téléphone."
+      }
+    ],
+    "genere_le": "2026-10-24"
+  },
+  "statut_google": "OPERATIONAL",
+  "audience": {
+    "clics": 0,
+    "impressions": 0,
+    "position": null,
+    "fenetreJours": 90,
+    "clicsRecents": 0,
+    "fenetreRecenteJours": 28,
+    "source": "search-console",
+    "date": "2026-10-24"
+  }
+}

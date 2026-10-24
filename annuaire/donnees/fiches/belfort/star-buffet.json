@@ -29,7 +29,7 @@
     "longitude": 6.8761978
   },
   "note": 4.1,
-  "avis": 354,
+  "avis": 367,
   "horaires": [
     {
       "jour": 0,
@@ -143,8 +143,8 @@
     "etat": "absent",
     "premiere_detection": null,
     "derniere_detection": null,
-    "derniere_verification": "2026-10-09T16:58:32.124Z",
-    "echecs": 14,
+    "derniere_verification": "2026-10-24T09:28:34.818Z",
+    "echecs": 15,
     "url_detectee": null
   },
   "suggestion": {
@@ -157,22 +157,34 @@
   "dates": {
     "collecte": "2026-09-26",
     "publication": "2026-09-26",
-    "maj": "2026-10-09"
+    "maj": "2026-10-24"
   },
   "source": "google-places",
   "redaction": {
     "version": 2,
     "titre": "Star Buffet — Restaurant à Belfort",
     "meta_titre": "Star Buffet à Belfort : horaires, avis, téléphone",
-    "meta_description": "Star Buffet, restaurant à Belfort : horaires d'ouverture, note Google 4,1/5 (354 avis), téléphone, adresse et itinéraire.",
-    "chapo": "Cette fiche présente Star Buffet, un restaurant au 27 avenue du capitaine Laurencie, à Belfort. Ouvert sept jours sur sept au relevé du 9 octobre 2026. Téléphone : 06 52 52 96 56. Note Google : 4,1 sur 5 pour 354 avis.",
+    "meta_description": "Star Buffet, restaurant à Belfort : horaires d'ouverture, note Google 4,1/5 (367 avis), téléphone, adresse et itinéraire.",
+    "chapo": "Cette fiche présente Star Buffet, un restaurant au 27 avenue du capitaine Laurencie, à Belfort. Ouvert sept jours sur sept au relevé du 24 octobre 2026. Téléphone : 06 52 52 96 56. Note Google : 4,1 sur 5 pour 367 avis.",
     "sections": [
       {
         "id": "presentation",
         "titre": "Star Buffet en quelques mots",
         "paragraphes": [
           "Sur Google, l'établissement est classé « Restaurant de type buffet », dans notre rubrique Restaurant.",
-          "D'après le relevé du 9 octobre 2026, l'établissement est ouvert sept jours sur sept. Le détail jour par jour figure plus bas."
+          "Niveau de prix indiqué sur la fiche Google : €€ (modéré).",
+          "D'après le relevé du 24 octobre 2026, l'établissement est ouvert sept jours sur sept. Le détail jour par jour figure plus bas."
+        ]
+      },
+      {
+        "id": "prestations",
+        "titre": "Services et équipements de Star Buffet",
+        "paragraphes": [
+          "Proposé : sur place, à emporter, réservation possible, terrasse, déjeuner, dîner, plats végétariens, café, bière, vin, cocktails, menu enfant, adapté aux enfants, adapté aux groupes et toilettes.",
+          "Non proposé selon la fiche Google : livraison, retrait en voiture et musique live.",
+          "Moyens de paiement déclarés : carte bancaire, carte de débit et paiement sans contact.",
+          "Stationnement : parking gratuit.",
+          "Ces indications sont déclarées par l'établissement sur sa fiche Google (relevé du 24 octobre 2026)."
         ]
       },
       {
@@ -187,25 +199,26 @@
         "id": "contact",
         "titre": "Contacter Star Buffet",
         "paragraphes": [
-          "Le contact se fait par téléphone au 06 52 52 96 56, ou directement sur place aux horaires d'ouverture."
+          "Le contact se fait par téléphone au 06 52 52 96 56, ou directement sur place aux horaires d'ouverture.",
+          "La fiche Google indique que la réservation est possible."
         ]
       },
       {
         "id": "avis",
         "titre": "La réputation de Star Buffet",
         "paragraphes": [
-          "Note de 4,1 sur 5 pour 354 avis Google au relevé du 9 octobre 2026. Les avis se consultent sur la fiche Google, dont le lien figure sur cette page."
+          "Note de 4,1 sur 5 pour 367 avis Google au relevé du 24 octobre 2026. Les avis les plus parlants sont compilés ci-dessous, avec un lien vers la fiche d'origine."
         ]
       }
     ],
     "faq": [
       {
         "q": "Quels sont les horaires de Star Buffet ?",
-        "r": "Au relevé du 9 octobre 2026, Star Buffet était ouvert sept jours sur sept. Dans le détail — lundi : de 11 h 45 à 14 h et de 18 h 45 à 22 h ; mardi : de 11 h 45 à 14 h et de 18 h 45 à 22 h ; mercredi : de 11 h 45 à 14 h et de 18 h 45 à 22 h ; jeudi : de 11 h 45 à 14 h et de 18 h 45 à 22 h ; vendredi : de 11 h 45 à 14 h et de 18 h 45 à 22 h ; samedi : de 11 h 45 à 14 h et de 18 h 45 à 22 h ; dimanche : de 11 h 45 à 14 h et de 18 h 45 à 22 h. Ces horaires peuvent changer : un appel préalable reste conseillé."
+        "r": "Au relevé du 24 octobre 2026, Star Buffet était ouvert sept jours sur sept. Dans le détail — lundi : de 11 h 45 à 14 h et de 18 h 45 à 22 h ; mardi : de 11 h 45 à 14 h et de 18 h 45 à 22 h ; mercredi : de 11 h 45 à 14 h et de 18 h 45 à 22 h ; jeudi : de 11 h 45 à 14 h et de 18 h 45 à 22 h ; vendredi : de 11 h 45 à 14 h et de 18 h 45 à 22 h ; samedi : de 11 h 45 à 14 h et de 18 h 45 à 22 h ; dimanche : de 11 h 45 à 14 h et de 18 h 45 à 22 h. Ces horaires peuvent changer : un appel préalable reste conseillé."
       },
       {
         "q": "Star Buffet est-il ouvert le dimanche ?",
-        "r": "Oui : le dimanche, Star Buffet est ouvert de 11 h 45 à 14 h et de 18 h 45 à 22 h (horaires relevés le 9 octobre 2026)."
+        "r": "Oui : le dimanche, Star Buffet est ouvert de 11 h 45 à 14 h et de 18 h 45 à 22 h (horaires relevés le 24 octobre 2026)."
       },
       {
         "q": "Où se trouve Star Buffet ?",
@@ -216,11 +229,23 @@
         "r": "Par téléphone au 06 52 52 96 56, ou directement sur place aux heures d'ouverture."
       },
       {
+        "q": "Peut-on réserver chez Star Buffet ?",
+        "r": "Oui, la fiche Google de Star Buffet indique que la réservation est possible, par téléphone au 06 52 52 96 56."
+      },
+      {
+        "q": "Star Buffet propose-t-il la vente à emporter ou la livraison ?",
+        "r": "D'après sa fiche Google (relevé du 24 octobre 2026) — vente à emporter : oui ; livraison : non."
+      },
+      {
+        "q": "Quel est le niveau de prix de Star Buffet ?",
+        "r": "Google classe Star Buffet au niveau de prix €€ (modéré), sur une échelle de € à €€€€ établie à partir des avis clients."
+      },
+      {
         "q": "Star Buffet est-il accessible aux personnes à mobilité réduite ?",
         "r": "La fiche Google de l'établissement mentionne : « Entrée accessible en fauteuil roulant ». Cette information est déclarative ; en cas de doute, vérifiez par téléphone."
       }
     ],
-    "genere_le": "2026-10-09"
+    "genere_le": "2026-10-24"
   },
   "statut_google": "OPERATIONAL",
   "audience": {
@@ -231,6 +256,88 @@
     "clicsRecents": 0,
     "fenetreRecenteJours": 28,
     "source": "search-console",
-    "date": "2026-10-23"
+    "date": "2026-10-24"
+  },
+  "avis_detail": {
+    "releve": "2026-10-24",
+    "liste": [
+      {
+        "note": 1,
+        "texte": "Nous avons commandé via l’application Too good to go, le serveur était hautain, très désagréable.\nSur l’application c’était bien marqué que c’était des « sushi et des sashimis » le soir et non pas des « plats préparés ». Nous avons bien reçu la première commande avec des sushi c’était un peu variés ça allait, mais la seconde commande c’était un plat avec plusieurs viandes, plusieurs poissons mélangé avec des nouilles.\nNous avons distingué du saumon, des crevettes sûrement du bœufs et les deux autres viandes impossible de les identifier. La boîte a fini à la poubelle. Il y’avait au moins 5 plats différents dans une seule et même boite, l’odeur était insupportable, des crevettes, du bœuf, du pavé de saumon, et deux autres viandes et des nouilles, tout ça empilé dans une seule et même boîte alors que nous devions recevoir deux boîtes de sushis.\nNous ne recommandons pas et nous ne recommanderons plus jamais.",
+        "langue": "fr",
+        "date": "2026-07-29",
+        "auteur": "Jayane",
+        "auteur_lien": "https://www.google.com/maps/contrib/100705218664952595868/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xNMGVGVjFhalkxTVRKaVEzVlVkVXd3YWtnMllrRRAB!2m1!1s0x47923bc4e7b139ab:0x9300289d35de5369"
+      },
+      {
+        "note": 5,
+        "texte": "Tout nouveau restaurant asiatique à Belfort. Décoration spatiale étoilée. Accueil sympathique, service rapide et très grand choix d'entrées, de plats et desserts (et fruits). L'assaisonnement se démarque des autres buffets qui généralement en manquent 👍. Évolution vers le 100% halal. Ça plaît ou pas ?!",
+        "langue": "fr",
+        "date": "2026-07-05",
+        "auteur": "Frédéric Beer",
+        "auteur_lien": "https://www.google.com/maps/contrib/102484137945742270737/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xKbWFXaFhUM2RLY3pSaWJHRlliVXhNVTNjMlZuYxAB!2m1!1s0x47923bc4e7b139ab:0x9300289d35de5369"
+      },
+      {
+        "note": 4,
+        "texte": "Restaurant très propre, calme. Cuisine bonne et personnels gentils et souriants. Par contre le choix est pas énorme, sauf pour les desserts. Conclusion ont mange bien, on est bien accueillis et les prix sont  comparable à d'autres resto à volonté.",
+        "langue": "fr",
+        "date": "2026-01-31",
+        "auteur": "mad2770",
+        "auteur_lien": "https://www.google.com/maps/contrib/104546353375978096609/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT205WWFHOTNMVEo0T0V4dldVbERibDk1Y201eGJFRRAB!2m1!1s0x47923bc4e7b139ab:0x9300289d35de5369"
+      },
+      {
+        "note": 5,
+        "texte": "Nouveau buffet à volonté asiatique dans le quartier, ça fait trop plaisir de voir TOUS les plats ont l’information si c’est halal ou pas. Pas juste basé sur le parole d’un employé ou des clients que ça c’est halal ça on dit que c’est pas halal, pas de ON DIT. La c’est CLAIR MARQUÉ SI c’est halal ou pas. Le premier buffet qui sert toutes sortes de viande de bœuf HALAL (entrecôte, faux filet, bavette) même gigot d’agneau c’est juste incroyable. Le buffet bien rangé et très varié ! Tellement varié que j’ai pas pu tous goûter ! De tout ce que j’ai pu goûter, ils étaient incroyablement délicieux ! Un micro-onde est dispo pour réchauffer à libre service. Le prix est très CORRECT ! Je ne peux que vous le recommander. On reviendra encore et encore. Ne changez rien !",
+        "langue": "fr",
+        "date": "2026-01-01",
+        "auteur": "Indira Courroy",
+        "auteur_lien": "https://www.google.com/maps/contrib/107576264265524665816/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25FNFFYbEZRelphUkdwZlRsaFdXbXhSWmt0ZlZsRRAB!2m1!1s0x47923bc4e7b139ab:0x9300289d35de5369"
+      },
+      {
+        "note": 5,
+        "texte": "Super restaurant !!\nLa déco est incroyable, futuriste et totalement atypique !\nLe petit robot est trop chou\nBeaucoup de choix au niveau du buffet,\nLes sushis sont délicieux !\nSeul petit  bémol aux niveau des fruits qui n avaient pas de goût.\nEn revanche tout le reste était excellent!\nJ ai adoré",
+        "langue": "fr",
+        "date": "2025-12-27",
+        "auteur": "Alex Dubois",
+        "auteur_lien": "https://www.google.com/maps/contrib/115231049804120954592/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25keVNYbzBibkkxWWtsM1FUSldOVlJVWDFWUFdGRRAB!2m1!1s0x47923bc4e7b139ab:0x9300289d35de5369"
+      }
+    ]
+  },
+  "services": {
+    "releve": "2026-10-24",
+    "prix": "PRICE_LEVEL_MODERATE",
+    "options": {
+      "dineIn": true,
+      "takeout": true,
+      "delivery": false,
+      "curbsidePickup": false,
+      "reservable": true,
+      "outdoorSeating": true,
+      "servesLunch": true,
+      "servesDinner": true,
+      "servesVegetarianFood": true,
+      "servesCoffee": true,
+      "servesBeer": true,
+      "servesWine": true,
+      "servesCocktails": true,
+      "menuForChildren": true,
+      "goodForChildren": true,
+      "goodForGroups": true,
+      "liveMusic": false,
+      "restroom": true
+    },
+    "paiement": [
+      "carte bancaire",
+      "carte de débit",
+      "paiement sans contact"
+    ],
+    "parking": [
+      "parking gratuit"
+    ]
   }
 }
