@@ -45,8 +45,8 @@
     "etat": "absent",
     "premiere_detection": null,
     "derniere_detection": null,
-    "derniere_verification": "2026-10-10T11:08:55.541Z",
-    "echecs": 1,
+    "derniere_verification": "2026-10-25T09:45:58.784Z",
+    "echecs": 2,
     "url_detectee": null
   },
   "suggestion": {
@@ -59,7 +59,7 @@
   "dates": {
     "collecte": "2026-10-10",
     "publication": "2026-10-10",
-    "maj": "2026-10-18"
+    "maj": "2026-10-25"
   },
   "source": "google-places",
   "redaction": {
@@ -95,7 +95,7 @@
         "id": "avis",
         "titre": "La réputation de Crédit Agricole Ille-et-Vilaine - Siège social",
         "paragraphes": [
-          "Note de 4 sur 5 pour 28 avis Google au relevé du 10 octobre 2026. Les avis se consultent sur la fiche Google, dont le lien figure sur cette page."
+          "Note de 4 sur 5 pour 28 avis Google au relevé du 25 octobre 2026. Les avis les plus parlants sont compilés ci-dessous, avec un lien vers la fiche d'origine."
         ]
       }
     ],
@@ -113,17 +113,67 @@
         "r": "La fiche Google de l'établissement mentionne : « Entrée accessible en fauteuil roulant ». Cette information est déclarative ; en cas de doute, vérifiez par téléphone."
       }
     ],
-    "genere_le": "2026-10-10"
+    "genere_le": "2026-10-25"
   },
   "statut_google": "OPERATIONAL",
   "audience": {
     "clics": 0,
-    "impressions": 43,
-    "position": 15.1,
+    "impressions": 61,
+    "position": 15.3,
     "fenetreJours": 90,
     "clicsRecents": 0,
     "fenetreRecenteJours": 28,
     "source": "search-console",
-    "date": "2026-10-24"
+    "date": "2026-10-25"
+  },
+  "avis_detail": {
+    "releve": "2026-10-25",
+    "liste": [
+      {
+        "note": 5,
+        "texte": "Bonjour, je suis client depuis mon enfance, puis en compte commun avec ma femme, RAS sur la relation client...ni plus, ni moins.\nMais depuis quelques mois j'ai un conseillé du pole nomade pour les clients hors département qui nous a accompagné sur un projet immo en sci (composé d'un prêt relai) avec un professionnalisme de premier ordre.\nMr Sicot, merci pour votre accompagnement sur ce projet.\nVotre gentillesse, votre écoute, votre précision sont au top.\nLa relation sur la gestion courante est également à considérer comme un de vos points forts.\nAu plaisir",
+        "langue": "fr",
+        "date": "2026-05-26",
+        "auteur": "Jean Yves OLLIER",
+        "auteur_lien": "https://www.google.com/maps/contrib/111494738622093420211/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT21aVE4xQTVXbXhaUVVWWFNEbGpVVU5zUlRZNVExRRAB!2m1!1s0x480ee02756ef48f5:0x550e1536e2e2b937"
+      },
+      {
+        "note": 5,
+        "texte": "Bonjour,\nCe post que je m'apprête à rédiger concerne l'agence de Beauregard sur Rennes, en la personne de Mme Sonia Résouf et le Point Passerelle, en la personne de Mme Valérie Chrétien.\n\nTout d'abord, j'aimerais saluer et remercier profondément Mme Résouf pour son écoute, sa disponibilité et son implication car elle a pris mon cas à bras-le-corps. Cela s'est manifesté - en plus de ses conseils avisés, de solutions diverses et adaptées proposées - par son côté humain, son dynamisme, sa réactivité et même (et surtout) la mise en relation avec Mme Chrétien (Conseillère Point Passerelle).\n\nJe suis cliente depuis 3 ans mais je ne connaissais pas l'existence du Point Passerelle qui est une structure intéressante pour aider les clients à traverser des épisodes accidentels de leur vie et à se relever.\n\nMme Chrétien m'a \"bluffé\" par l'éventail de solutions auxquelles elle a pensé selon ma situation. Je la remercie tout aussi sincèrement que Mme Résouf, pour son implication, sa disponibilité, son temps d'écoute, sa compréhension et son esprit analytique qui s'est ressenti via le travail minutieux exécuté pour mon dossier.\nJe ne m'attendais pas à de telles propositions ni à de tels résultats !\n\nJ'ai passé d'agréables moments de partage, de rigolade et de collaboration avec ces deux dames pétillantes, très efficaces, réactives, dynamiques, professionnelles et super sympathiques. Elles se donnent vraiment à fond pour défendre votre cas et batailler pour vous ou à vos côtés.\n\nJ'encourage d'autant plus que le service Point Passerelle soit mis encore plus en exergue. Son action a été prépondérante et indispensable dans mon cas : une vraie aubaine !\n\nJe profite aussi de cette opportunité pour saluer et remercier mes anciens conseillers au Crédit Agricole de Montauban-de-Bretagne, Mme Aurore Lemaire ainsi que M. Julien David, pour leur professionnalisme, leur amabilité, leur efficacité et leurs conseils avisés aux moments opportuns de mon parcours.\n\nEncore MERCI !",
+        "langue": "fr",
+        "date": "2026-04-28",
+        "auteur": "Roukyatou Touré",
+        "auteur_lien": "https://www.google.com/maps/contrib/110118277250394371780/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2tVNFpsUmxkMGRRUm1wWlFtOXJTVFJ6UlVvd1JYYxAB!2m1!1s0x480ee02756ef48f5:0x550e1536e2e2b937"
+      },
+      {
+        "note": 2,
+        "texte": "Nous avons fait confiance au Crédit Agricole pendant des années, aujourd'hui nous souhaitons le quitter suite à un départ pro à l'étranger. Plus de deux mois et toujours aucune action de leur part, demande de transfert de fonds vers notre compte à l'étranger, demande de résiliation, rien n'est fait, on nous demande de passer à l'agence ( difficile quand on se trouve à plus de 5000km). Si on fait un retour en France, on passera notre chemin.",
+        "langue": "fr",
+        "date": "2026-02-06",
+        "auteur": "Aurelie Pitard",
+        "auteur_lien": "https://www.google.com/maps/contrib/109826411446183453969/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT210emN6VkdRek10UjI5aFJFRnNaVlphVFZGR01XYxAB!2m1!1s0x480ee02756ef48f5:0x550e1536e2e2b937"
+      },
+      {
+        "note": 1,
+        "texte": "On peut dire qu’au crédit agricole la fidélité ne paie pas. Nos comptes sont là bas depuis toujours, ma fille de 13 ans y a son livret depuis sa naissance. Leur site annonce 80 euros offerts pour une ouverture de carte pour ado, mais ma fille n’aura que 30 parce que l’offre est réservée aux nouveaux clients!\nPour mon fils qui a eu son bac avec mention c’était la seule banque qui n’offrait rien! Il a donc changé de banque pour bénéficier d’une prime bac.",
+        "langue": "fr",
+        "date": "2025-09-16",
+        "auteur": "Émilie Rezgui",
+        "auteur_lien": "https://www.google.com/maps/contrib/115230853119570160580/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2s5ek5IZFRiMEYzVW1ObU5IRlVVMWd6Y0Y5QmVXYxAB!2m1!1s0x480ee02756ef48f5:0x550e1536e2e2b937"
+      },
+      {
+        "note": 5,
+        "texte": "J'ai récemment eu l'occasion de contacter un conseiller de l'agence en ligne. Le conseiller, M. Yanis André, a pris le temps de m'écouter, de prendre en considération mes besoins. J'ai particulièrement apprécié sa clarté dans les explications et ses recommandations personnalisées. Le service était professionnel et utile. Merci beaucoup à lui.",
+        "langue": "fr",
+        "date": "2025-09-02",
+        "auteur": "Saona Doyen",
+        "auteur_lien": "https://www.google.com/maps/contrib/115533861682969617006/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT20xSGNYZDJkVEpJUVUxM2QxUkliM1ZvYjJKTlVuYxAB!2m1!1s0x480ee02756ef48f5:0x550e1536e2e2b937"
+      }
+    ]
   }
 }

@@ -37,8 +37,8 @@
     "etat": "absent",
     "premiere_detection": null,
     "derniere_detection": null,
-    "derniere_verification": "2026-10-10T11:08:55.541Z",
-    "echecs": 31,
+    "derniere_verification": "2026-10-25T09:45:58.784Z",
+    "echecs": 32,
     "url_detectee": null
   },
   "suggestion": {
@@ -51,7 +51,7 @@
   "dates": {
     "collecte": "2026-09-23",
     "publication": "2026-09-23",
-    "maj": "2026-10-10"
+    "maj": "2026-10-25"
   },
   "source": "google-places",
   "redaction": {
@@ -66,6 +66,15 @@
         "titre": "Car Wash Toulon en quelques mots",
         "paragraphes": [
           "Sur Google, l'établissement est classé « Station de lavage automobile », dans notre rubrique Garage et automobile."
+        ]
+      },
+      {
+        "id": "prestations",
+        "titre": "Services et équipements de Car Wash Toulon",
+        "paragraphes": [
+          "Non proposé selon la fiche Google : toilettes.",
+          "Moyens de paiement déclarés : carte bancaire, carte de débit et paiement sans contact.",
+          "Ces indications sont déclarées par l'établissement sur sa fiche Google (relevé du 25 octobre 2026)."
         ]
       },
       {
@@ -87,7 +96,7 @@
         "id": "avis",
         "titre": "La réputation de Car Wash Toulon",
         "paragraphes": [
-          "Note de 4,4 sur 5 pour 582 avis Google au relevé du 10 octobre 2026. Les avis se consultent sur la fiche Google, dont le lien figure sur cette page."
+          "Note de 4,4 sur 5 pour 582 avis Google au relevé du 25 octobre 2026. Les avis les plus parlants sont compilés ci-dessous, avec un lien vers la fiche d'origine."
         ]
       }
     ],
@@ -97,7 +106,7 @@
         "r": "Car Wash Toulon se trouve 377 Av. du Général Pruneau, 83000 Toulon. Un lien d'itinéraire est disponible sur cette page."
       }
     ],
-    "genere_le": "2026-10-10"
+    "genere_le": "2026-10-25"
   },
   "statut_google": "OPERATIONAL",
   "audience": {
@@ -108,6 +117,68 @@
     "clicsRecents": 0,
     "fenetreRecenteJours": 28,
     "source": "search-console",
-    "date": "2026-10-24"
+    "date": "2026-10-25"
+  },
+  "avis_detail": {
+    "releve": "2026-10-25",
+    "liste": [
+      {
+        "note": 1,
+        "texte": "Très déçu par l'état général de cette station de lavage. Le site est dans un état de délabrement et de saleté déplorable. En plus du manque d'entretien général et des déchets au sol, l'aspirateur est totalement inefficace car il n'a aucune pression et n'aspire rien du tout. C'est une perte de temps et d'argent. À éviter absolument si vous souhaitez prendre soin de votre véhicule.\"",
+        "langue": "fr",
+        "date": "2026-07-15",
+        "auteur": "francois M!",
+        "auteur_lien": "https://www.google.com/maps/contrib/104460440263423919494/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT21KVFJuQlJiRVJ3VG1GMUxXWllWazl4Y0VKTmEzYxAB!2m1!1s0x12c91bbc639c7eff:0xef4384beca249121"
+      },
+      {
+        "note": 5,
+        "texte": "Très bonne station de lavage bien entretenu et qui met a disposition tout ce dont on a besoin pour laver sa voiture.\nFacile d'accès et le gérant et super gentil et disponible pour des conseils ou de l'aide\nJe recommande",
+        "langue": "fr",
+        "date": "2026-04-20",
+        "auteur": "Cyprien Delcroix",
+        "auteur_lien": "https://www.google.com/maps/contrib/103168147665126229904/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2pWSFVGUkNORUkzVlVWQ00xWmhVMlF5Y2xkQmVtYxAB!2m1!1s0x12c91bbc639c7eff:0xef4384beca249121"
+      },
+      {
+        "note": 5,
+        "texte": "Très bonne expérience dans ce carwash où le gérant est à l écoute de sa clientèle  . Il est souriant spontané et de très bon conseil. Merci à lui qui a rendu cette visite encore meilleure",
+        "langue": "fr",
+        "date": "2026-03-30",
+        "auteur": "prisca colonel",
+        "auteur_lien": "https://www.google.com/maps/contrib/105204403885861355249/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT205TlVrbHdTRWhSYTJKM1RuSllhelJTY25oSk5sRRAB!2m1!1s0x12c91bbc639c7eff:0xef4384beca249121"
+      },
+      {
+        "note": 1,
+        "texte": "Une belle arnaque, 16€ pour un lavage mal fait et sans mousse, les portiques sont très vieux et fonctionne mal. Les nettoyants jantes tournent dans le vide sans nettoyer la jante, la voiture est aussi sale qu’à l’arrivée et de l’argent perdu\nTrès déçu",
+        "langue": "fr",
+        "date": "2026-01-24",
+        "auteur": "Lucas",
+        "auteur_lien": "https://www.google.com/maps/contrib/101548538247265975510/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xFNVkwbGFRV0pKTW1wVVlVbFJZMkk1ZWxCa1JVRRAB!2m1!1s0x12c91bbc639c7eff:0xef4384beca249121"
+      },
+      {
+        "note": 5,
+        "texte": "Le gérant de ce carwash est très sérieux et à l’attention de sa clientèle. Il m’a apporté des conseils de nettoyage et a même participer au lavage de ma voiture alors qu’il rangeait et nettoyer sa station. Le Car Wash est très propre et répond aux attentes.\nIl dispose d’aspirateurs, ainsi que de deux rouleaux auto, d’une machine à nettoyage de tapis et de plusieurs stations manuelles lavages indépendantes. Je recommande cette station sans problème !",
+        "langue": "fr",
+        "date": "2025-11-30",
+        "auteur": "Sou Tv",
+        "auteur_lien": "https://www.google.com/maps/contrib/113068774362172095882/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT21oS2JVNVlTMUJMV0dSemRqZERaRWxKV1VWTVNYYxAB!2m1!1s0x12c91bbc639c7eff:0xef4384beca249121"
+      }
+    ]
+  },
+  "services": {
+    "releve": "2026-10-25",
+    "options": {
+      "restroom": false
+    },
+    "paiement": [
+      "carte bancaire",
+      "carte de débit",
+      "paiement sans contact"
+    ],
+    "parking": []
   }
 }

@@ -29,7 +29,7 @@
     "longitude": 4.336105
   },
   "note": 4.1,
-  "avis": 175,
+  "avis": 177,
   "horaires": [
     {
       "jour": 0,
@@ -113,8 +113,8 @@
     "etat": "absent",
     "premiere_detection": null,
     "derniere_detection": null,
-    "derniere_verification": "2026-10-10T11:08:55.541Z",
-    "echecs": 17,
+    "derniere_verification": "2026-10-25T09:45:58.784Z",
+    "echecs": 18,
     "url_detectee": null
   },
   "suggestion": {
@@ -127,7 +127,7 @@
   "dates": {
     "collecte": "2026-09-30",
     "publication": "2026-09-30",
-    "maj": "2026-10-10"
+    "maj": "2026-10-25"
   },
   "source": "google-places",
   "redaction": {
@@ -135,14 +135,26 @@
     "titre": "Boulangerie Millet Roche-la-Molière — Boulangerie-pâtisserie à Roche-la-Molière",
     "meta_titre": "Boulangerie Millet Roche-la-Molière à Roche-la-Molière",
     "meta_description": "Boulangerie Millet Roche-la-Molière, boulangerie-pâtisserie à Roche-la-Molière : horaires d'ouverture, téléphone, adresse et itinéraire.",
-    "chapo": "Boulangerie Millet Roche-la-Molière, boulangerie-pâtisserie au Rue Buisson, à Roche-la-Molière. Ouvert sept jours sur sept au relevé du 10 octobre 2026. Téléphone : 04 77 33 43 83. Note Google : 4,1 sur 5 pour 175 avis.",
+    "chapo": "Boulangerie Millet Roche-la-Molière, boulangerie-pâtisserie au Rue Buisson, à Roche-la-Molière. Ouvert sept jours sur sept au relevé du 25 octobre 2026. Téléphone : 04 77 33 43 83. Note Google : 4,1 sur 5 pour 177 avis.",
     "sections": [
       {
         "id": "presentation",
         "titre": "Boulangerie Millet Roche-la-Molière en quelques mots",
         "paragraphes": [
           "Sur Google, l'établissement est classé « Boulangerie », dans notre rubrique Boulangerie-pâtisserie.",
-          "D'après le relevé du 10 octobre 2026, l'établissement est ouvert sept jours sur sept. Le détail jour par jour figure plus bas."
+          "Niveau de prix indiqué sur la fiche Google : € (bon marché).",
+          "D'après le relevé du 25 octobre 2026, l'établissement est ouvert sept jours sur sept. Le détail jour par jour figure plus bas."
+        ]
+      },
+      {
+        "id": "prestations",
+        "titre": "Services et équipements de Boulangerie Millet Roche-la-Molière",
+        "paragraphes": [
+          "Proposé : sur place, à emporter, petit-déjeuner et café.",
+          "Non proposé selon la fiche Google : livraison.",
+          "Moyens de paiement déclarés : carte bancaire, carte de débit et paiement sans contact.",
+          "Stationnement : parking gratuit.",
+          "Ces indications sont déclarées par l'établissement sur sa fiche Google (relevé du 25 octobre 2026)."
         ]
       },
       {
@@ -164,18 +176,18 @@
         "id": "avis",
         "titre": "La réputation de Boulangerie Millet Roche-la-Molière",
         "paragraphes": [
-          "Note de 4,1 sur 5 pour 175 avis Google au relevé du 10 octobre 2026. Les avis se consultent sur la fiche Google, dont le lien figure sur cette page."
+          "Note de 4,1 sur 5 pour 177 avis Google au relevé du 25 octobre 2026. Les avis les plus parlants sont compilés ci-dessous, avec un lien vers la fiche d'origine."
         ]
       }
     ],
     "faq": [
       {
         "q": "Quels sont les horaires de Boulangerie Millet Roche-la-Molière ?",
-        "r": "Au relevé du 10 octobre 2026, Boulangerie Millet Roche-la-Molière était ouvert sept jours sur sept. Dans le détail — lundi : de 6 h à 19 h 30 ; mardi : de 6 h à 19 h 30 ; mercredi : de 6 h à 19 h 30 ; jeudi : de 6 h à 19 h 30 ; vendredi : de 6 h à 19 h 30 ; samedi : de 7 h à 19 h 30 ; dimanche : de 7 h à 18 h. Ces horaires peuvent changer : un appel préalable reste conseillé."
+        "r": "Au relevé du 25 octobre 2026, Boulangerie Millet Roche-la-Molière était ouvert sept jours sur sept. Dans le détail — lundi : de 6 h à 19 h 30 ; mardi : de 6 h à 19 h 30 ; mercredi : de 6 h à 19 h 30 ; jeudi : de 6 h à 19 h 30 ; vendredi : de 6 h à 19 h 30 ; samedi : de 7 h à 19 h 30 ; dimanche : de 7 h à 18 h. Ces horaires peuvent changer : un appel préalable reste conseillé."
       },
       {
         "q": "Boulangerie Millet Roche-la-Molière est-il ouvert le dimanche ?",
-        "r": "Oui : le dimanche, Boulangerie Millet Roche-la-Molière est ouvert de 7 h à 18 h (horaires relevés le 10 octobre 2026)."
+        "r": "Oui : le dimanche, Boulangerie Millet Roche-la-Molière est ouvert de 7 h à 18 h (horaires relevés le 25 octobre 2026)."
       },
       {
         "q": "Où se trouve Boulangerie Millet Roche-la-Molière ?",
@@ -186,11 +198,19 @@
         "r": "Par téléphone au 04 77 33 43 83, ou directement sur place aux heures d'ouverture."
       },
       {
+        "q": "Boulangerie Millet Roche-la-Molière propose-t-il la vente à emporter ou la livraison ?",
+        "r": "D'après sa fiche Google (relevé du 25 octobre 2026) — vente à emporter : oui ; livraison : non."
+      },
+      {
+        "q": "Quel est le niveau de prix de Boulangerie Millet Roche-la-Molière ?",
+        "r": "Google classe Boulangerie Millet Roche-la-Molière au niveau de prix € (bon marché), sur une échelle de € à €€€€ établie à partir des avis clients."
+      },
+      {
         "q": "Boulangerie Millet Roche-la-Molière est-il accessible aux personnes à mobilité réduite ?",
         "r": "La fiche Google de l'établissement mentionne : « Entrée accessible en fauteuil roulant ». Cette information est déclarative ; en cas de doute, vérifiez par téléphone."
       }
     ],
-    "genere_le": "2026-10-10"
+    "genere_le": "2026-10-25"
   },
   "statut_google": "OPERATIONAL",
   "audience": {
@@ -201,6 +221,75 @@
     "clicsRecents": 0,
     "fenetreRecenteJours": 28,
     "source": "search-console",
-    "date": "2026-10-24"
+    "date": "2026-10-25"
+  },
+  "avis_detail": {
+    "releve": "2026-10-25",
+    "liste": [
+      {
+        "note": 5,
+        "texte": "Très bon accueil. Personnel à l'écoute. Bravo. Le gérant a accepté de donner aux restos du coeur de st genest lerpt. Continuez ainsi. Bravo",
+        "langue": "fr",
+        "date": "2026-05-25",
+        "auteur": "Thérèse Vesque",
+        "auteur_lien": "https://www.google.com/maps/contrib/103793014521262578295/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xCbGFHVnZRblJ0WTJVd2JVTkhORXh3TjNSRWEwRRAB!2m1!1s0x47f5af004f7fa4b9:0x5209e365792ee54a"
+      },
+      {
+        "note": 5,
+        "texte": "Super boulangerie ! Les produits sont excellents, qu’il s’agisse des sandwichs, des desserts ou des viennoiseries. À midi, le choix est varié et généreux. Sans doute ma boulangerie préférée de la ville !",
+        "langue": "fr",
+        "date": "2026-04-21",
+        "auteur": "milby",
+        "auteur_lien": "https://www.google.com/maps/contrib/113840937538613539176/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT21KUlVqTnJSbWhWYmtVM1VIaHhlRm80ZWpKNVpYYxAB!2m1!1s0x47f5af004f7fa4b9:0x5209e365792ee54a"
+      },
+      {
+        "note": 3,
+        "texte": "Nous avons essayé les trompes l'œil et nous avons été déçu. Le visuel est très beau et soigné. Mais à la dégustation bof...beaucoup trop de mousse blanche (écœurant)et il y a pas beaucoup d'insert ,aucun fruit coulant et pour certain  c'etait de la gelée. Seule la fraise était bonne. Dommage pour 6€  la patisserie !",
+        "langue": "fr",
+        "date": "2025-11-16",
+        "auteur": "Nad MAZ",
+        "auteur_lien": "https://www.google.com/maps/contrib/118419703952770258741/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xoZlpsSnVPVkZrVkRSWFNGQkVSbkE1VW5SaVIyYxAB!2m1!1s0x47f5af004f7fa4b9:0x5209e365792ee54a"
+      },
+      {
+        "note": 5,
+        "texte": "C’est une super adresse. J’ai adoré leur pâtisserie et surtout leur trompe l’oeil. L’accueil était eu top le personnel est très serviable ! Nous reviendrons",
+        "langue": "fr",
+        "date": "2025-02-22",
+        "auteur": "Kardelen Doganer",
+        "auteur_lien": "https://www.google.com/maps/contrib/106734384038179234938/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnTURnNU1qd1BnEAE!2m1!1s0x47f5af004f7fa4b9:0x5209e365792ee54a"
+      },
+      {
+        "note": 5,
+        "texte": "Si tout le monde avait la force de ramener son plateau... surtout celles et ceux qui passent 2 h devant un café...si à la maison c'est comme ça là c'est un commerce et les vendeuses ont autre chose à faire....\nMais sinon... vraiment une super boulang'...😉😋",
+        "langue": "fr",
+        "date": "2025-01-23",
+        "auteur": "Laurent Authier",
+        "auteur_lien": "https://www.google.com/maps/contrib/109696085503136054469/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUNULUlMNjVnRRAB!2m1!1s0x47f5af004f7fa4b9:0x5209e365792ee54a"
+      }
+    ]
+  },
+  "services": {
+    "releve": "2026-10-25",
+    "prix": "PRICE_LEVEL_INEXPENSIVE",
+    "options": {
+      "dineIn": true,
+      "takeout": true,
+      "delivery": false,
+      "servesBreakfast": true,
+      "servesCoffee": true
+    },
+    "paiement": [
+      "carte bancaire",
+      "carte de débit",
+      "paiement sans contact"
+    ],
+    "parking": [
+      "parking gratuit"
+    ]
   }
 }

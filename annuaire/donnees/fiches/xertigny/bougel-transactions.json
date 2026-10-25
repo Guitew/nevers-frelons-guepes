@@ -27,7 +27,7 @@
     "longitude": 6.3625397999999995
   },
   "note": 4,
-  "avis": 501,
+  "avis": 502,
   "horaires": [
     {
       "jour": 0,
@@ -130,8 +130,8 @@
     "etat": "absent",
     "premiere_detection": null,
     "derniere_detection": null,
-    "derniere_verification": "2026-10-10T11:08:55.541Z",
-    "echecs": 75,
+    "derniere_verification": "2026-10-25T09:45:58.784Z",
+    "echecs": 76,
     "url_detectee": null
   },
   "suggestion": {
@@ -149,22 +149,30 @@
   "dates": {
     "collecte": "2026-09-02",
     "publication": "2026-09-02",
-    "maj": "2026-10-19"
+    "maj": "2026-10-25"
   },
   "source": "google-places",
   "redaction": {
     "version": 2,
     "titre": "Bougel Transactions — Garage et automobile à Xertigny",
     "meta_titre": "Bougel Transactions à Xertigny : horaires, avis, téléphone",
-    "meta_description": "Bougel Transactions, garage et automobile à Xertigny : horaires d'ouverture, note Google 4/5 (501 avis), téléphone, adresse et itinéraire.",
-    "chapo": "Bougel Transactions est un garage et automobile au 329 Rue de l'École Moyenpal, à Xertigny. Ouvert tous les jours sauf le dimanche au relevé du 18 octobre 2026. Téléphone : 03 29 36 01 72. Note Google : 4 sur 5 pour 501 avis.",
+    "meta_description": "Bougel Transactions, garage et automobile à Xertigny : horaires d'ouverture, note Google 4/5 (502 avis), téléphone, adresse et itinéraire.",
+    "chapo": "Bougel Transactions est un garage et automobile au 329 Rue de l'École Moyenpal, à Xertigny. Ouvert tous les jours sauf le dimanche au relevé du 25 octobre 2026. Téléphone : 03 29 36 01 72. Note Google : 4 sur 5 pour 502 avis.",
     "sections": [
       {
         "id": "presentation",
         "titre": "Bougel Transactions en quelques mots",
         "paragraphes": [
           "Sur Google, l'établissement est classé « Concessionnaire automobile », dans notre rubrique Garage et automobile.",
-          "D'après le relevé du 18 octobre 2026, l'établissement est ouvert tous les jours sauf le dimanche. Le détail jour par jour figure plus bas."
+          "D'après le relevé du 25 octobre 2026, l'établissement est ouvert tous les jours sauf le dimanche. Le détail jour par jour figure plus bas."
+        ]
+      },
+      {
+        "id": "prestations",
+        "titre": "Services et équipements de Bougel Transactions",
+        "paragraphes": [
+          "Moyens de paiement déclarés : carte bancaire et carte de débit.",
+          "Ces indications sont déclarées par l'établissement sur sa fiche Google (relevé du 25 octobre 2026)."
         ]
       },
       {
@@ -186,18 +194,18 @@
         "id": "avis",
         "titre": "La réputation de Bougel Transactions",
         "paragraphes": [
-          "Note de 4 sur 5 pour 501 avis Google au relevé du 18 octobre 2026. Les avis se consultent sur la fiche Google, dont le lien figure sur cette page."
+          "Note de 4 sur 5 pour 502 avis Google au relevé du 25 octobre 2026. Les avis les plus parlants sont compilés ci-dessous, avec un lien vers la fiche d'origine."
         ]
       }
     ],
     "faq": [
       {
         "q": "Quels sont les horaires de Bougel Transactions ?",
-        "r": "Au relevé du 18 octobre 2026, Bougel Transactions était ouvert tous les jours sauf le dimanche. Dans le détail — lundi : de 9 h à 12 h et de 14 h à 19 h ; mardi : de 9 h à 12 h et de 14 h à 19 h ; mercredi : de 9 h à 12 h et de 14 h à 19 h ; jeudi : de 9 h à 12 h et de 14 h à 19 h ; vendredi : de 9 h à 12 h et de 14 h à 19 h ; samedi : de 9 h à 12 h et de 14 h à 19 h ; dimanche : fermé. Ces horaires peuvent changer : un appel préalable reste conseillé."
+        "r": "Au relevé du 25 octobre 2026, Bougel Transactions était ouvert tous les jours sauf le dimanche. Dans le détail — lundi : de 9 h à 12 h et de 14 h à 19 h ; mardi : de 9 h à 12 h et de 14 h à 19 h ; mercredi : de 9 h à 12 h et de 14 h à 19 h ; jeudi : de 9 h à 12 h et de 14 h à 19 h ; vendredi : de 9 h à 12 h et de 14 h à 19 h ; samedi : de 9 h à 12 h et de 14 h à 19 h ; dimanche : fermé. Ces horaires peuvent changer : un appel préalable reste conseillé."
       },
       {
         "q": "Bougel Transactions est-il ouvert le dimanche ?",
-        "r": "Non : d'après les horaires relevés le 18 octobre 2026, Bougel Transactions est fermé le dimanche."
+        "r": "Non : d'après les horaires relevés le 25 octobre 2026, Bougel Transactions est fermé le dimanche."
       },
       {
         "q": "Où se trouve Bougel Transactions ?",
@@ -212,7 +220,7 @@
         "r": "La fiche Google de l'établissement mentionne : « Entrée accessible en fauteuil roulant ». Cette information est déclarative ; en cas de doute, vérifiez par téléphone."
       }
     ],
-    "genere_le": "2026-10-18"
+    "genere_le": "2026-10-25"
   },
   "statut_google": "OPERATIONAL",
   "audience": {
@@ -223,7 +231,7 @@
     "clicsRecents": 0,
     "fenetreRecenteJours": 28,
     "source": "search-console",
-    "date": "2026-10-24"
+    "date": "2026-10-25"
   },
   "indexation": {
     "etat": "non-indexee",
@@ -233,5 +241,64 @@
     "canonique_google": null,
     "source": "inspection",
     "date": "2026-10-19"
+  },
+  "avis_detail": {
+    "releve": "2026-10-25",
+    "liste": [
+      {
+        "note": 3,
+        "texte": "Les véhicules électriques sont nouveaux, avec la conjoncture actuelle ont ne saient pas si c est interessant de miser sur cette technologie pourriez vous svp dans vos annonces  avoir l autonomie des soits disant bonnes occasions que vous mettez en vente?",
+        "langue": "fr",
+        "date": "2026-06-24",
+        "auteur": "DDD (lemaitre54)",
+        "auteur_lien": "https://www.google.com/maps/contrib/112362890326098122317/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2t0NVUxTTFORFEyUlV0YVgxZzJaRzh6WjNaNWVuYxAB!2m1!1s0x479308802b93212b:0xa910abb618a7a3f5"
+      },
+      {
+        "note": 1,
+        "texte": "plus jamais !!! je vous déconseille d'acheter chez eux! venant de paris je fais la transaction à distance. arrivé sur place, la dame ne voulais pas nous recevoir car d'après elle nous sommes en retard  alors que nous étions à l'heure du rdv fixé la veille. le véhicule est de 2025 avec 5000km. défaut sur la carrosserie, rayure, rien n'avait été signalé auparavant par le commercial. je parle au responsable il me dit qu'il va m'envoyer un stylet et m'envoi balader. expérience nul, personnel nul, usine à gaz, aucune prise en charge. il me dit si vous êtes pas content on vous rembourse et vous rendez le véhicule. j'ai fait 450km pour me faire traiter de la sorte. Bougel Transactions n'est pas une entreprise avec des valeur local, aucun respect du client. si vous êtes pas content c'est pareil ! pour ce qui on des problèmes plus grave je vous conseil de les faire trainer en justice sinon ils ne vont pas comprendre. ils vendent tellement de véhicule qu'il ne prenne pas le temps avec les clients et ne respect pas leur engagement.",
+        "langue": "fr",
+        "date": "2026-04-11",
+        "auteur": "oz batiment",
+        "auteur_lien": "https://www.google.com/maps/contrib/114612592859619514844/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT21jMGJHZExlR3ByYXpSMVJrSXRSR2xtUzB0blYzYxAB!2m1!1s0x479308802b93212b:0xa910abb618a7a3f5"
+      },
+      {
+        "note": 1,
+        "texte": "Quelle honte ce garage des prix énormes pour des voitures qui de 15 ans  et ils ont osé proposer 21 milles euros pour une Mercedes amg 2022 avec 60 milles kms encore sous garantie chez Mercedes  alors que d autres ont offert bien plus chère rendez vous compte 21 milles euros il a cru que quoi que c est une clio mdr",
+        "langue": "fr",
+        "date": "2026-04-02",
+        "auteur": "wahiva messaoudi",
+        "auteur_lien": "https://www.google.com/maps/contrib/116480578691317743940/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xrMVVuUnlRbTl1UXpKeVFtNXdUVzB5ZGtkM1dWRRAB!2m1!1s0x479308802b93212b:0xa910abb618a7a3f5"
+      },
+      {
+        "note": 1,
+        "texte": "Nul ! 2 amis sont passés par cette société pour acheter leur voiture.\n1) voiture achetée il y’a 2 ans. Au moment de la livraison, mon ami ne reçoit qu’une seule clés. Il réclame plusieurs fois mais rien. 2 ans après je réclame pour lui le double que la société bougel s’était engagée à lui obtenir. Cyril s’occupe de ça : «  oui on commande » puis après plusieurs semaines « ça va arriver » pour finir par « passez on va vous faire un bon pour aller faire refaire la clés chez Peugeot…\n2) achat d’une Fiat 500 : pas de 2nd clés encore. Il manque l’antenne de toit. Cyril s’occupe de ça : « on attend la pièce de chez Fiat » puis, « le garage de xertigny va vous appeler pour faire le nécessaire » pour finir par « on vous fait un bon pour aller au garage de urimenil ».\nConclusion : aucun suivi, voiture livrée sans clés. Engagement du commercial Cyril jamais tenus. Il fait traîner les choses sans s’en occuper plusieurs semaines pour ensuite vous dire de vous débrouiller.\nÀ fuir !!!",
+        "langue": "fr",
+        "date": "2026-03-04",
+        "auteur": "SebV CFDS",
+        "auteur_lien": "https://www.google.com/maps/contrib/102143044607304444591/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25RMGVYcFdhMkU0U1hwRE5FWjRNR1V4WjI5eE0zYxAB!2m1!1s0x479308802b93212b:0xa910abb618a7a3f5"
+      },
+      {
+        "note": 1,
+        "texte": "J ai acheté un véhicule bmw il y a un mois et l’embrayage est hs (garantie 6 mois).\nJ ai appelé pour le signaler et le vendeur Greg n’a rien voulu entendre et m’a raccroché au nez par téléphone\nJ’avais fait estimer les réparations à un garage proche de chez moi et leur avais fait parvenir par mail.\nNe vous fiez pas à la garantie car celle-ci n’est pas prise en compte il faut ramener le véhicule afin qu’eux même le constatent.\nTout ceci pour ne pas payer les réparations.\nDonc à éviter d’acheter chez eux car pas de suivi de problème.\nMaintenant je suis obligé faire intervenir mon assistance juridique",
+        "langue": "fr",
+        "date": "2026-02-10",
+        "auteur": "Chrystelle Klein",
+        "auteur_lien": "https://www.google.com/maps/contrib/113112476919116838853/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2pCb2Rub3RZWEo2ZVhCWmNFZENibFEyY2xGaFZXYxAB!2m1!1s0x479308802b93212b:0xa910abb618a7a3f5"
+      }
+    ]
+  },
+  "services": {
+    "releve": "2026-10-25",
+    "options": {},
+    "paiement": [
+      "carte bancaire",
+      "carte de débit"
+    ],
+    "parking": []
   }
 }

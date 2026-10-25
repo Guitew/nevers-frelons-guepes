@@ -33,7 +33,7 @@
     "longitude": 5.72685
   },
   "note": 3.9,
-  "avis": 3513,
+  "avis": 3518,
   "horaires": [
     {
       "jour": 0,
@@ -112,8 +112,8 @@
     "etat": "absent",
     "premiere_detection": null,
     "derniere_detection": null,
-    "derniere_verification": "2026-10-10T11:08:55.541Z",
-    "echecs": 39,
+    "derniere_verification": "2026-10-25T09:45:58.784Z",
+    "echecs": 40,
     "url_detectee": null
   },
   "suggestion": {
@@ -126,22 +126,32 @@
   "dates": {
     "collecte": "2026-09-20",
     "publication": "2026-09-20",
-    "maj": "2026-10-10"
+    "maj": "2026-10-25"
   },
   "source": "google-places",
   "redaction": {
     "version": 2,
     "titre": "BHV Grenoble — Mode et équipement de la maison à Grenoble",
     "meta_titre": "BHV Grenoble à Grenoble : horaires, avis, téléphone",
-    "meta_description": "BHV Grenoble, mode et équipement de la maison à Grenoble : horaires d'ouverture, note Google 3,9/5 (3513 avis), téléphone, adresse et itinéraire.",
-    "chapo": "BHV Grenoble est une mode et équipement de la maison au 12 Place Grenette, à Grenoble. Ouvert tous les jours sauf le dimanche au relevé du 10 octobre 2026. Téléphone : 04 76 47 28 54. Note Google : 3,9 sur 5 pour 3513 avis.",
+    "meta_description": "BHV Grenoble, mode et équipement de la maison à Grenoble : horaires d'ouverture, note Google 3,9/5 (3518 avis), téléphone, adresse et itinéraire.",
+    "chapo": "BHV Grenoble est une mode et équipement de la maison au 12 Place Grenette, à Grenoble. Ouvert tous les jours sauf le dimanche au relevé du 25 octobre 2026. Téléphone : 04 76 47 28 54. Note Google : 3,9 sur 5 pour 3518 avis.",
     "sections": [
       {
         "id": "presentation",
         "titre": "BHV Grenoble en quelques mots",
         "paragraphes": [
           "Sur Google, l'établissement est classé « Grand magasin », dans notre rubrique Mode et équipement de la maison.",
-          "D'après le relevé du 10 octobre 2026, l'établissement est ouvert tous les jours sauf le dimanche. Le détail jour par jour figure plus bas."
+          "D'après le relevé du 25 octobre 2026, l'établissement est ouvert tous les jours sauf le dimanche. Le détail jour par jour figure plus bas."
+        ]
+      },
+      {
+        "id": "prestations",
+        "titre": "Services et équipements de BHV Grenoble",
+        "paragraphes": [
+          "Proposé : livraison.",
+          "Non proposé selon la fiche Google : retrait en voiture et toilettes.",
+          "Moyens de paiement déclarés : carte bancaire, carte de débit et paiement sans contact.",
+          "Ces indications sont déclarées par l'établissement sur sa fiche Google (relevé du 25 octobre 2026)."
         ]
       },
       {
@@ -163,18 +173,18 @@
         "id": "avis",
         "titre": "La réputation de BHV Grenoble",
         "paragraphes": [
-          "Note de 3,9 sur 5 pour 3513 avis Google au relevé du 10 octobre 2026. Les avis se consultent sur la fiche Google, dont le lien figure sur cette page."
+          "Note de 3,9 sur 5 pour 3518 avis Google au relevé du 25 octobre 2026. Les avis les plus parlants sont compilés ci-dessous, avec un lien vers la fiche d'origine."
         ]
       }
     ],
     "faq": [
       {
         "q": "Quels sont les horaires de BHV Grenoble ?",
-        "r": "Au relevé du 10 octobre 2026, BHV Grenoble était ouvert tous les jours sauf le dimanche. Dans le détail — lundi : de 10 h à 19 h ; mardi : de 10 h à 19 h ; mercredi : de 10 h à 19 h ; jeudi : de 10 h à 19 h ; vendredi : de 10 h à 19 h ; samedi : de 10 h à 19 h 30 ; dimanche : fermé. Ces horaires peuvent changer : un appel préalable reste conseillé."
+        "r": "Au relevé du 25 octobre 2026, BHV Grenoble était ouvert tous les jours sauf le dimanche. Dans le détail — lundi : de 10 h à 19 h ; mardi : de 10 h à 19 h ; mercredi : de 10 h à 19 h ; jeudi : de 10 h à 19 h ; vendredi : de 10 h à 19 h ; samedi : de 10 h à 19 h 30 ; dimanche : fermé. Ces horaires peuvent changer : un appel préalable reste conseillé."
       },
       {
         "q": "BHV Grenoble est-il ouvert le dimanche ?",
-        "r": "Non : d'après les horaires relevés le 10 octobre 2026, BHV Grenoble est fermé le dimanche."
+        "r": "Non : d'après les horaires relevés le 25 octobre 2026, BHV Grenoble est fermé le dimanche."
       },
       {
         "q": "Où se trouve BHV Grenoble ?",
@@ -185,11 +195,15 @@
         "r": "Par téléphone au 04 76 47 28 54, ou directement sur place aux heures d'ouverture."
       },
       {
+        "q": "BHV Grenoble propose-t-il la vente à emporter ou la livraison ?",
+        "r": "D'après sa fiche Google (relevé du 25 octobre 2026) — livraison : oui."
+      },
+      {
         "q": "BHV Grenoble est-il accessible aux personnes à mobilité réduite ?",
         "r": "La fiche Google de l'établissement mentionne : « Entrée accessible en fauteuil roulant ». Cette information est déclarative ; en cas de doute, vérifiez par téléphone."
       }
     ],
-    "genere_le": "2026-10-10"
+    "genere_le": "2026-10-25"
   },
   "statut_google": "OPERATIONAL",
   "audience": {
@@ -200,6 +214,70 @@
     "clicsRecents": 0,
     "fenetreRecenteJours": 28,
     "source": "search-console",
-    "date": "2026-10-24"
+    "date": "2026-10-25"
+  },
+  "avis_detail": {
+    "releve": "2026-10-25",
+    "liste": [
+      {
+        "note": 1,
+        "texte": "Ma compagne et moi sommes aller aux galeries Lafayettes mardi, quelle surprise de voir que c’était devenu un magasin désert depuis le changement de nom\n\nMention spéciale pour le personnel DÉSAGRÉABLE et MÉPRISANT de l’étage Shein, qui a refusé que nous utilisions les cabines d’essayage parce que je cite « je finis dans 30 minutes et je suis toute seule donc non » alors qu’il y avait une autre vendeuse avec elle, on est loin du standing qu’est censé être ce magasin, qui n’engage plus que des personnes sans compétence et sans aucune sympathie\n\nCe magasin prouve que des mauvais choix comme le recrutement de personnel sous qualifié peuvent rendre un magasin anciennement prospère en désert vestimentaire\n\nOn y retournera évidemment pas",
+        "langue": "fr",
+        "date": "2026-08-21",
+        "auteur": "LilGrad",
+        "auteur_lien": "https://www.google.com/maps/contrib/117751069733858450381/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25CMFEzSjVRelZhTVdNeWQwdDRjSEJUZHpCSFZFRRAB!2m1!1s0x478af4897d2c020b:0x408b4ba1a745dd4f"
+      },
+      {
+        "note": 1,
+        "texte": "Une immense tristesse de voir qu'une si belle enseigne \"Les galeries Lafayette \"ait été reprise par le BHV.\nÀ quelques exceptions près,on se croirait chez \"Tati\" à Paris dans les années 1975.\nLe 3ème étage... Des oripeaux sur chaque portant.\nJe crois que SHEIN envoie au BHV\nleurs \"rossignols\".\nMagasin désertique la clientèle à disparue, et je comprends pourquoi.\nDe la belle enseigne il ne reste que des files suspendus sur la façade.\nQUELLE TRISTESSE.",
+        "langue": "fr",
+        "date": "2026-07-31",
+        "auteur": "Lysbeth Kraft",
+        "auteur_lien": "https://www.google.com/maps/contrib/104577310734286115014/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xWaVRtOTJjakF6VjJoTVMyRlFTVnAzY1ZoV1dtYxAB!2m1!1s0x478af4897d2c020b:0x408b4ba1a745dd4f"
+      },
+      {
+        "note": 1,
+        "texte": "Je suis venue voir le BHV (je n’étais pas venue depuis que ce n’est plus Les Galeries Lafayettes). Quelle tristesse, toutes les plus belles marques ont fui, les rayons sont vides, il n’y avait pas un chat … un étage entier est dédié à Shein, dans une odeur particulière de plastique ou poisson …\nJe suis si triste pour la belle enseigne que c’était à Grenoble … on dirait que la fin approche, c’est hyper lugubre !!\nComment les dirigeants ont ils pu prendre un telle décision. J'espère de tout cœur qu’ils reviendront en arrière, et qu’on retrouvera les belles marques et le standing d’avant.",
+        "langue": "fr",
+        "date": "2026-06-03",
+        "auteur": "Marine P",
+        "auteur_lien": "https://www.google.com/maps/contrib/105441479260600797630/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT21GVFlrMXljVmN3T1hKbFJtWlpRVVpUZDFCYWNYYxAB!2m1!1s0x478af4897d2c020b:0x408b4ba1a745dd4f"
+      },
+      {
+        "note": 1,
+        "texte": "L’ambiance était froide et presque vide, pourtant impossible d’avoir de l’aide correctement. J’ai mis près de 45 minutes à trouver une vendeuse pour essayer une paire de chaussures, et son attitude montrait clairement que je la dérangeais. Personne ne dit bonjour, tout le monde vous regarde mal, on a vraiment l’impression de ne pas être le bienvenu. Ensuite au rayon femme du 2ème étage, une vendeuse m’a parlé sèchement alors que c’était elle qui s’était trompée de taille. Franchement très décevant j’y mets plus un pied",
+        "langue": "fr",
+        "date": "2026-05-28",
+        "auteur": "Lola la",
+        "auteur_lien": "https://www.google.com/maps/contrib/110229361401260315127/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT21WdU16Sm5XREJsUVRscWRFc3RZVlF4ZW5BeVpYYxAB!2m1!1s0x478af4897d2c020b:0x408b4ba1a745dd4f"
+      },
+      {
+        "note": 3,
+        "texte": "Samedi 28 février 2026, manifestation anti-Shein par des personnes qui portent des vêtements et des chaussures fabriqués par des enfants en Asie du Sud-est, Bangladesh et Inde! !\nEt utilisent une enceinte acoustique de mauvaise qualité fabriquée en Chine!!!\nAchat chez Shien : chacun fait ce qu'il veut.\nCes personnes veulent nous imposer : les produits qu'il faut manger, les transports qu'il faut utiliser, les vêtements qu'il faut porter, les boissons qu'il faut boire (ce sont des buveurs de bière), les produits qu'il faut fumer, etc.",
+        "langue": "fr",
+        "date": "2026-03-01",
+        "auteur": "Benoît",
+        "auteur_lien": "https://www.google.com/maps/contrib/108255560332396457763/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2pkdk0yOWtkamw1WkV0MlRGaExka1ZZUkVwRlFtYxAB!2m1!1s0x478af4897d2c020b:0x408b4ba1a745dd4f"
+      }
+    ]
+  },
+  "services": {
+    "releve": "2026-10-25",
+    "options": {
+      "delivery": true,
+      "curbsidePickup": false,
+      "restroom": false
+    },
+    "paiement": [
+      "carte bancaire",
+      "carte de débit",
+      "paiement sans contact"
+    ],
+    "parking": []
   }
 }

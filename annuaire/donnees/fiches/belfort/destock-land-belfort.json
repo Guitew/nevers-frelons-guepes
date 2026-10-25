@@ -29,7 +29,7 @@
     "longitude": 6.8638113999999995
   },
   "note": 4.2,
-  "avis": 328,
+  "avis": 329,
   "horaires": [
     {
       "jour": 0,
@@ -113,8 +113,8 @@
     "etat": "absent",
     "premiere_detection": null,
     "derniere_detection": null,
-    "derniere_verification": "2026-10-10T11:08:55.541Z",
-    "echecs": 1,
+    "derniere_verification": "2026-10-25T09:45:58.784Z",
+    "echecs": 2,
     "url_detectee": null
   },
   "suggestion": {
@@ -127,22 +127,32 @@
   "dates": {
     "collecte": "2026-10-10",
     "publication": "2026-10-10",
-    "maj": "2026-10-11"
+    "maj": "2026-10-25"
   },
   "source": "google-places",
   "redaction": {
     "version": 2,
     "titre": "Destock'Land Belfort — Commerce d'alimentation à Belfort",
     "meta_titre": "Destock'Land Belfort à Belfort : horaires, avis, téléphone",
-    "meta_description": "Destock'Land Belfort, commerce d'alimentation à Belfort : horaires d'ouverture, note Google 4,2/5 (328 avis), téléphone, adresse et itinéraire.",
-    "chapo": "Cette fiche présente Destock'Land Belfort, un commerce d'alimentation au 43 Rue François Lebleu, à Belfort. Ouvert sept jours sur sept au relevé du 11 octobre 2026. Téléphone : 09 79 37 40 17. Note Google : 4,2 sur 5 pour 328 avis.",
+    "meta_description": "Destock'Land Belfort, commerce d'alimentation à Belfort : horaires d'ouverture, note Google 4,2/5 (329 avis), téléphone, adresse et itinéraire.",
+    "chapo": "Cette fiche présente Destock'Land Belfort, un commerce d'alimentation au 43 Rue François Lebleu, à Belfort. Ouvert sept jours sur sept au relevé du 25 octobre 2026. Téléphone : 09 79 37 40 17. Note Google : 4,2 sur 5 pour 329 avis.",
     "sections": [
       {
         "id": "presentation",
         "titre": "Destock'Land Belfort en quelques mots",
         "paragraphes": [
           "Sur Google, l'établissement est classé « Épicerie », dans notre rubrique Commerce d'alimentation.",
-          "D'après le relevé du 11 octobre 2026, l'établissement est ouvert sept jours sur sept. Le détail jour par jour figure plus bas."
+          "D'après le relevé du 25 octobre 2026, l'établissement est ouvert sept jours sur sept. Le détail jour par jour figure plus bas."
+        ]
+      },
+      {
+        "id": "prestations",
+        "titre": "Services et équipements de Destock'Land Belfort",
+        "paragraphes": [
+          "Non proposé selon la fiche Google : livraison et toilettes.",
+          "Moyens de paiement déclarés : carte bancaire, carte de débit et paiement sans contact.",
+          "Stationnement : parking gratuit.",
+          "Ces indications sont déclarées par l'établissement sur sa fiche Google (relevé du 25 octobre 2026)."
         ]
       },
       {
@@ -164,18 +174,18 @@
         "id": "avis",
         "titre": "La réputation de Destock'Land Belfort",
         "paragraphes": [
-          "Note de 4,2 sur 5 pour 328 avis Google au relevé du 11 octobre 2026. Les avis se consultent sur la fiche Google, dont le lien figure sur cette page."
+          "Note de 4,2 sur 5 pour 329 avis Google au relevé du 25 octobre 2026. Les avis les plus parlants sont compilés ci-dessous, avec un lien vers la fiche d'origine."
         ]
       }
     ],
     "faq": [
       {
         "q": "Quels sont les horaires de Destock'Land Belfort ?",
-        "r": "Au relevé du 11 octobre 2026, Destock'Land Belfort était ouvert sept jours sur sept. Dans le détail — lundi : de 9 h à 19 h ; mardi : de 9 h à 19 h ; mercredi : de 9 h à 19 h ; jeudi : de 9 h à 19 h ; vendredi : de 9 h à 19 h ; samedi : de 9 h à 19 h ; dimanche : de 13 h à 18 h. Ces horaires peuvent changer : un appel préalable reste conseillé."
+        "r": "Au relevé du 25 octobre 2026, Destock'Land Belfort était ouvert sept jours sur sept. Dans le détail — lundi : de 9 h à 19 h ; mardi : de 9 h à 19 h ; mercredi : de 9 h à 19 h ; jeudi : de 9 h à 19 h ; vendredi : de 9 h à 19 h ; samedi : de 9 h à 19 h ; dimanche : de 13 h à 18 h. Ces horaires peuvent changer : un appel préalable reste conseillé."
       },
       {
         "q": "Destock'Land Belfort est-il ouvert le dimanche ?",
-        "r": "Oui : le dimanche, Destock'Land Belfort est ouvert de 13 h à 18 h (horaires relevés le 11 octobre 2026)."
+        "r": "Oui : le dimanche, Destock'Land Belfort est ouvert de 13 h à 18 h (horaires relevés le 25 octobre 2026)."
       },
       {
         "q": "Où se trouve Destock'Land Belfort ?",
@@ -186,11 +196,15 @@
         "r": "Par téléphone au 09 79 37 40 17, ou directement sur place aux heures d'ouverture."
       },
       {
+        "q": "Destock'Land Belfort propose-t-il la vente à emporter ou la livraison ?",
+        "r": "D'après sa fiche Google (relevé du 25 octobre 2026) — livraison : non."
+      },
+      {
         "q": "Destock'Land Belfort est-il accessible aux personnes à mobilité réduite ?",
         "r": "La fiche Google de l'établissement mentionne : « Entrée accessible en fauteuil roulant ». Cette information est déclarative ; en cas de doute, vérifiez par téléphone."
       }
     ],
-    "genere_le": "2026-10-11"
+    "genere_le": "2026-10-25"
   },
   "statut_google": "OPERATIONAL",
   "audience": {
@@ -201,6 +215,71 @@
     "clicsRecents": 0,
     "fenetreRecenteJours": 28,
     "source": "search-console",
-    "date": "2026-10-24"
+    "date": "2026-10-25"
+  },
+  "avis_detail": {
+    "releve": "2026-10-25",
+    "liste": [
+      {
+        "note": 5,
+        "texte": "J'adore franchement le personnel et vraiment gentil et j'ai toujours fait de bonnes affaires je recommande",
+        "langue": "fr",
+        "date": "2026-07-09",
+        "auteur": "Mln Tsrnd",
+        "auteur_lien": "https://www.google.com/maps/contrib/109219328436360973713/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2pWRFNHWm9TRUl5V0VSa01XaHRaVlp1WjI5dE1sRRAB!2m1!1s0x47923d018deb208f:0xbe9659a1be9bad5e"
+      },
+      {
+        "note": 2,
+        "texte": "Bonjour, Merci, Au revoir sont sûrement payant ?\nC'est pas la première fois, mais cette fois ci c'était trop, pas un regard, pas un bonjour, pas un merci,  pas un au revoir.\nC'est pas du commercial, c'est du savoir vivre.",
+        "langue": "fr",
+        "date": "2026-06-23",
+        "auteur": "Karine Waterlot",
+        "auteur_lien": "https://www.google.com/maps/contrib/106278640750750671784/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2tsemR6RnFVak0wY0dGUFlscFhkbkJMVGpSa1lXYxAB!2m1!1s0x47923d018deb208f:0xbe9659a1be9bad5e"
+      },
+      {
+        "note": 5,
+        "texte": "Magasin incroyable ! On y trouve des produits très originaux, avec un excellent rapport qualité-prix. C’est un vrai plaisir de découvrir autant d’articles intéressants à des tarifs raisonnables.\n\nBravo pour cette belle idée de magasin et pour la qualité de la sélection proposée !",
+        "langue": "fr",
+        "date": "2026-05-31",
+        "auteur": "Loubna Rahmani",
+        "auteur_lien": "https://www.google.com/maps/contrib/115069030083196683735/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25VNVZGaEdiMUJKZWxKUFpESmliSEpaTFRocGQzYxAB!2m1!1s0x47923d018deb208f:0xbe9659a1be9bad5e"
+      },
+      {
+        "note": 2,
+        "texte": "Attention aux prix dans ce magasin. J'ai voulu acheter un article qui allait m'être facturé plus cher. Après vérification du prix, la caissière m'en indique un autre alors que l'étiquette mentionne bien celui que j'annonce. Personne ne retire l'ancien prix, 15 minutes de perdu, du grand professionnalisme et un bon coup pour eux si vous prenez beaucoup d'articles et que vous faites pas la somme.",
+        "langue": "fr",
+        "date": "2026-05-29",
+        "auteur": "Justin GOMBERT",
+        "auteur_lien": "https://www.google.com/maps/contrib/101360234002732173422/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xWSFVqYzRlbGRmTUZoalozUjBla1ppUmpWWloxRRAB!2m1!1s0x47923d018deb208f:0xbe9659a1be9bad5e"
+      },
+      {
+        "note": 1,
+        "texte": "Première et dernière expérience aujourd'hui, au delà de trouver les articles très chers pour du soi-disant destockage, on est ressortis avec un gâteau (donc produit SEC!) plein de moisi, il n'est pourtant pas périmé. La caissière en a rigolé, bien sûr aucun remboursement possible.",
+        "langue": "fr",
+        "date": "2026-04-12",
+        "auteur": "Lea Emmons",
+        "auteur_lien": "https://www.google.com/maps/contrib/114898135781820769759/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT21sb1YxUkpRa28wVjFGSk0waEtSVUkyU1hjNFVGRRAB!2m1!1s0x47923d018deb208f:0xbe9659a1be9bad5e"
+      }
+    ]
+  },
+  "services": {
+    "releve": "2026-10-25",
+    "options": {
+      "delivery": false,
+      "restroom": false
+    },
+    "paiement": [
+      "carte bancaire",
+      "carte de débit",
+      "paiement sans contact"
+    ],
+    "parking": [
+      "parking gratuit"
+    ]
   }
 }

@@ -27,7 +27,7 @@
     "longitude": -2.7981629999999997
   },
   "note": 4.5,
-  "avis": 100,
+  "avis": 101,
   "horaires": [
     {
       "jour": 0,
@@ -121,8 +121,8 @@
     "etat": "absent",
     "premiere_detection": null,
     "derniere_detection": null,
-    "derniere_verification": "2026-10-10T11:08:55.541Z",
-    "echecs": 2,
+    "derniere_verification": "2026-10-25T09:45:58.784Z",
+    "echecs": 3,
     "url_detectee": null
   },
   "suggestion": {
@@ -135,22 +135,31 @@
   "dates": {
     "collecte": "2026-10-09",
     "publication": "2026-10-09",
-    "maj": "2026-10-10"
+    "maj": "2026-10-25"
   },
   "source": "google-places",
   "redaction": {
     "version": 2,
     "titre": "Carrosserie et Garage OLLIVIER — Garage et automobile à Saint-Brieuc",
     "meta_titre": "Carrosserie et Garage OLLIVIER : horaires, avis, téléphone",
-    "meta_description": "Carrosserie et Garage OLLIVIER, garage et automobile à Saint-Brieuc : horaires d'ouverture, note Google 4,5/5 (100 avis), téléphone, adresse et itinéraire.",
-    "chapo": "Carrosserie et Garage OLLIVIER exerce l'activité de garage et automobile au 138 Boulevard de l'Atlantique, à Saint-Brieuc. Fermé le samedi et le dimanche au relevé du 10 octobre 2026. Téléphone : 02 96 94 56 48. Note Google : 4,5 sur 5 pour 100 avis.",
+    "meta_description": "Carrosserie et Garage OLLIVIER, garage et automobile à Saint-Brieuc : horaires d'ouverture, note Google 4,5/5 (101 avis), téléphone, adresse et itinéraire.",
+    "chapo": "Carrosserie et Garage OLLIVIER exerce l'activité de garage et automobile au 138 Boulevard de l'Atlantique, à Saint-Brieuc. Fermé le samedi et le dimanche au relevé du 25 octobre 2026. Téléphone : 02 96 94 56 48. Note Google : 4,5 sur 5 pour 101 avis.",
     "sections": [
       {
         "id": "presentation",
         "titre": "Carrosserie et Garage OLLIVIER en quelques mots",
         "paragraphes": [
           "Sur Google, l'établissement est classé « Garage automobile », dans notre rubrique Garage et automobile.",
-          "D'après le relevé du 10 octobre 2026, l'établissement est fermé le samedi et le dimanche. Le détail jour par jour figure plus bas."
+          "D'après le relevé du 25 octobre 2026, l'établissement est fermé le samedi et le dimanche. Le détail jour par jour figure plus bas."
+        ]
+      },
+      {
+        "id": "prestations",
+        "titre": "Services et équipements de Carrosserie et Garage OLLIVIER",
+        "paragraphes": [
+          "Proposé : toilettes.",
+          "Moyens de paiement déclarés : carte bancaire, carte de débit et paiement sans contact.",
+          "Ces indications sont déclarées par l'établissement sur sa fiche Google (relevé du 25 octobre 2026)."
         ]
       },
       {
@@ -172,18 +181,18 @@
         "id": "avis",
         "titre": "La réputation de Carrosserie et Garage OLLIVIER",
         "paragraphes": [
-          "Note de 4,5 sur 5 pour 100 avis Google au relevé du 10 octobre 2026. Les avis se consultent sur la fiche Google, dont le lien figure sur cette page."
+          "Note de 4,5 sur 5 pour 101 avis Google au relevé du 25 octobre 2026. Les avis les plus parlants sont compilés ci-dessous, avec un lien vers la fiche d'origine."
         ]
       }
     ],
     "faq": [
       {
         "q": "Quels sont les horaires de Carrosserie et Garage OLLIVIER ?",
-        "r": "Au relevé du 10 octobre 2026, Carrosserie et Garage OLLIVIER était fermé le samedi et le dimanche. Dans le détail — lundi : de 8 h à 12 h et de 14 h à 18 h 30 ; mardi : de 8 h à 12 h et de 14 h à 18 h 30 ; mercredi : de 8 h à 12 h et de 14 h à 18 h 30 ; jeudi : de 8 h à 12 h et de 14 h à 18 h 30 ; vendredi : de 8 h à 12 h et de 14 h à 18 h 30 ; samedi : fermé ; dimanche : fermé. Ces horaires peuvent changer : un appel préalable reste conseillé."
+        "r": "Au relevé du 25 octobre 2026, Carrosserie et Garage OLLIVIER était fermé le samedi et le dimanche. Dans le détail — lundi : de 8 h à 12 h et de 14 h à 18 h 30 ; mardi : de 8 h à 12 h et de 14 h à 18 h 30 ; mercredi : de 8 h à 12 h et de 14 h à 18 h 30 ; jeudi : de 8 h à 12 h et de 14 h à 18 h 30 ; vendredi : de 8 h à 12 h et de 14 h à 18 h 30 ; samedi : fermé ; dimanche : fermé. Ces horaires peuvent changer : un appel préalable reste conseillé."
       },
       {
         "q": "Carrosserie et Garage OLLIVIER est-il ouvert le dimanche ?",
-        "r": "Non : d'après les horaires relevés le 10 octobre 2026, Carrosserie et Garage OLLIVIER est fermé le dimanche."
+        "r": "Non : d'après les horaires relevés le 25 octobre 2026, Carrosserie et Garage OLLIVIER est fermé le dimanche."
       },
       {
         "q": "Où se trouve Carrosserie et Garage OLLIVIER ?",
@@ -198,7 +207,7 @@
         "r": "La fiche Google de l'établissement mentionne : « Entrée accessible en fauteuil roulant ». Cette information est déclarative ; en cas de doute, vérifiez par téléphone."
       }
     ],
-    "genere_le": "2026-10-10"
+    "genere_le": "2026-10-25"
   },
   "statut_google": "OPERATIONAL",
   "audience": {
@@ -209,6 +218,68 @@
     "clicsRecents": 0,
     "fenetreRecenteJours": 28,
     "source": "search-console",
-    "date": "2026-10-24"
+    "date": "2026-10-25"
+  },
+  "avis_detail": {
+    "releve": "2026-10-25",
+    "liste": [
+      {
+        "note": 5,
+        "texte": "Suite à un accident, j’ai confié mon véhicule au garage Ollivier à Saint-Brieuc. Équipe professionnelle, patiente et à l’écoute.\nIls ont fait le maximum pour retrouver des pièces et le travail est très soigné, avec un résultat impeccable.\nJe recommande.\nVoici des photos, avant /après. 👌",
+        "langue": "fr",
+        "date": "2026-02-06",
+        "auteur": "Pauline Hennique",
+        "auteur_lien": "https://www.google.com/maps/contrib/104035713804942454476/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2s1TUxWODBNMFJFY2sxWGQyVmxURVJ5WTNOcE5VRRAB!2m1!1s0x4811e2b1c6ec6029:0x125c29eca5de6da6"
+      },
+      {
+        "note": 5,
+        "texte": "Parfait\nGarage sérieux et honnête\nPrestation au juste prix",
+        "langue": "fr",
+        "date": "2026-01-16",
+        "auteur": "monic miternique",
+        "auteur_lien": "https://www.google.com/maps/contrib/106861757276052375788/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT201WWJ6SmtZM296VTFGemRFMVhNR0p1TjNWc1NYYxAB!2m1!1s0x4811e2b1c6ec6029:0x125c29eca5de6da6"
+      },
+      {
+        "note": 5,
+        "texte": "Garage sérieux et honnête.\nMes enfants et nous faisons suivre nos véhicules dans ce garage.\nPrix raisonnables et travail sérieux. Ne gonfle pas la facture !\nIls ont tellement de demandes qu'il faut prendre rendez-vous environ 2 semaines en avance.\nJe recommande fortement",
+        "langue": "fr",
+        "date": "2025-09-09",
+        "auteur": "Marie Allain",
+        "auteur_lien": "https://www.google.com/maps/contrib/103252764436294734023/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT21WbVJGRkNNMVJmZEVnd2MxWTFOVlpwTkZKVE9VRRAB!2m1!1s0x4811e2b1c6ec6029:0x125c29eca5de6da6"
+      },
+      {
+        "note": 4,
+        "texte": "Très belle expérience, très sérieux et professionnel, je suis venus pour une crevaison et je vais faire suivre mon véhicule pour entretien annuel chez eux !",
+        "langue": "fr",
+        "date": "2025-08-21",
+        "auteur": "Ludovic Stentzel",
+        "auteur_lien": "https://www.google.com/maps/contrib/112692349148805289841/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2twQ1ozcE5hR2gxVFROa01rVTFlRmhtUVRaVlRYYxAB!2m1!1s0x4811e2b1c6ec6029:0x125c29eca5de6da6"
+      },
+      {
+        "note": 4,
+        "texte": "Je suis allée pour la première fois dans ce garage j'ai trouvé le personnel mécano et autres très sympa et de bons conseils\nJe ne dirais pas la même chose de la secrétaire qui ne sait pas sourire et qui est d un abord très froid et trop directif\nauprès de la clientèle. Elle ma presque fait pleurer tant son ton était autoritaire\nÇa c'est le grand point négatif !!!! de ce garage",
+        "langue": "fr",
+        "date": "2025-07-18",
+        "auteur": "JACQUELINE BOYER",
+        "auteur_lien": "https://www.google.com/maps/contrib/108787448451092904555/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25SdFpuWlNjMXBXY0ZFd2JXdzJhbkJuZFRscGQyYxAB!2m1!1s0x4811e2b1c6ec6029:0x125c29eca5de6da6"
+      }
+    ]
+  },
+  "services": {
+    "releve": "2026-10-25",
+    "options": {
+      "restroom": true
+    },
+    "paiement": [
+      "carte bancaire",
+      "carte de débit",
+      "paiement sans contact"
+    ],
+    "parking": []
   }
 }

@@ -27,7 +27,7 @@
     "longitude": 4.4318894
   },
   "note": 3.6,
-  "avis": 338,
+  "avis": 339,
   "horaires": null,
   "attributs": [
     "Entrée accessible en fauteuil roulant",
@@ -40,8 +40,8 @@
     "etat": "absent",
     "premiere_detection": null,
     "derniere_detection": null,
-    "derniere_verification": "2026-10-10T11:08:55.541Z",
-    "echecs": 77,
+    "derniere_verification": "2026-10-25T09:45:58.784Z",
+    "echecs": 78,
     "url_detectee": null
   },
   "suggestion": {
@@ -60,21 +60,29 @@
   "dates": {
     "collecte": "2026-09-01",
     "publication": "2026-09-01",
-    "maj": "2026-10-18"
+    "maj": "2026-10-25"
   },
   "source": "google-places",
   "redaction": {
     "version": 2,
     "titre": "Carrefour Supply Chain — Transport et déménagement à Saint-Gilles",
     "meta_titre": "Carrefour Supply Chain à Saint-Gilles : avis, téléphone",
-    "meta_description": "Carrefour Supply Chain, transport et déménagement à Saint-Gilles : note Google 3,6/5 (338 avis), téléphone, adresse et itinéraire.",
-    "chapo": "Cette fiche présente Carrefour Supply Chain, un transport et déménagement à Saint-Gilles. Téléphone : 04 66 28 57 00. Note Google : 3,6 sur 5 pour 338 avis.",
+    "meta_description": "Carrefour Supply Chain, transport et déménagement à Saint-Gilles : note Google 3,6/5 (339 avis), téléphone, adresse et itinéraire.",
+    "chapo": "Cette fiche présente Carrefour Supply Chain, un transport et déménagement à Saint-Gilles. Téléphone : 04 66 28 57 00. Note Google : 3,6 sur 5 pour 339 avis.",
     "sections": [
       {
         "id": "presentation",
         "titre": "Carrefour Supply Chain en quelques mots",
         "paragraphes": [
           "Sur Google, l'établissement est classé « Stockage », dans notre rubrique Transport et déménagement."
+        ]
+      },
+      {
+        "id": "prestations",
+        "titre": "Services et équipements de Carrefour Supply Chain",
+        "paragraphes": [
+          "Stationnement : parking gratuit et parking payant.",
+          "Ces indications sont déclarées par l'établissement sur sa fiche Google (relevé du 25 octobre 2026)."
         ]
       },
       {
@@ -96,7 +104,7 @@
         "id": "avis",
         "titre": "La réputation de Carrefour Supply Chain",
         "paragraphes": [
-          "Note de 3,6 sur 5 pour 338 avis Google au relevé du 18 octobre 2026. Les avis se consultent sur la fiche Google, dont le lien figure sur cette page."
+          "Note de 3,6 sur 5 pour 339 avis Google au relevé du 25 octobre 2026. Les avis les plus parlants sont compilés ci-dessous, avec un lien vers la fiche d'origine."
         ]
       }
     ],
@@ -114,7 +122,7 @@
         "r": "La fiche Google de l'établissement mentionne : « Entrée accessible en fauteuil roulant ». Cette information est déclarative ; en cas de doute, vérifiez par téléphone."
       }
     ],
-    "genere_le": "2026-10-18"
+    "genere_le": "2026-10-25"
   },
   "statut_google": "OPERATIONAL",
   "audience": {
@@ -125,7 +133,7 @@
     "clicsRecents": 0,
     "fenetreRecenteJours": 28,
     "source": "search-console",
-    "date": "2026-10-24"
+    "date": "2026-10-25"
   },
   "indexation": {
     "etat": "non-indexee",
@@ -135,5 +143,64 @@
     "canonique_google": null,
     "source": "inspection",
     "date": "2026-10-18"
+  },
+  "avis_detail": {
+    "releve": "2026-10-25",
+    "liste": [
+      {
+        "note": 4,
+        "texte": "Dans l'ensemble tout se passe bien. Respect des horaires, personnelles sympa. Se décharge soit meme. Seul problème le contrôle peut parfois etre plus long.",
+        "langue": "fr",
+        "date": "2026-06-22",
+        "auteur": "Cedric Marest",
+        "auteur_lien": "https://www.google.com/maps/contrib/116299663512476283369/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2swMmFHY3hUV2M0Y1VKUVNYZHlOM293VlhSUGRVRRAB!2m1!1s0x12b5d4fbe876b6c3:0xdb4a660d931b0ed9"
+      },
+      {
+        "note": 5,
+        "texte": "PoPour info, c'est interdit de passer la nuit dans le parking suite au règlement intérieur.\nLes agents de sécurité sont aimables, sociables et souriants, pas comme dans d'autres sociétés que j'ai visitées et sûrement parce qu'ils sont arabes, alors c'est leur réelle attitude.\n\nVous accédez au parking depuis la 1ère entrée. Par la suite, il faut suivre le passage marqué au sol pour rejoindre le bureau.\n\nPrésentez votre CMR et papier (porte de gilet de sécurité et chaussures obligatoires), enregistrez sur la tablette puis attendez votre tour, ils vous donneront un badge avec numéro de quai.\n\nLe déchargement se fait par vous-même.\nUn peu de retard (entre 20 et 40 minutes) quand vous terminez le déchargement avant de prendre vos papiers.",
+        "langue": "fr",
+        "date": "2025-11-27",
+        "auteur": "The Trucker",
+        "auteur_lien": "https://www.google.com/maps/contrib/107609365394605994498/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25SRk1GRnFhR1pGVG1ONVRqTlpjM1Y1VFZNeFkxRRAB!2m1!1s0x12b5d4fbe876b6c3:0xdb4a660d931b0ed9"
+      },
+      {
+        "note": 4,
+        "texte": "On décharge seule avec des transpalette électrique, souvent l'heure la quelle vous arrivez, c'est plus au moins rapide la prise en charge.\nCe qui est plus important et risque d'attendre... c'est le contrôle\nPar fois c'est long sur tout quand il s'agit de l'alcool\nSi non la majorité des collaborateurs sont aimable",
+        "langue": "fr",
+        "date": "2025-11-26",
+        "auteur": "Tudorel Gheorghiu",
+        "auteur_lien": "https://www.google.com/maps/contrib/109932997635307718051/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT210MlRGSTJTVVEwV0V0TVlWQk1NMFoyUWs1VlkyYxAB!2m1!1s0x12b5d4fbe876b6c3:0xdb4a660d931b0ed9"
+      },
+      {
+        "note": 1,
+        "texte": "Rdv 6h30 je suis à l'heure mise à quai rapide 6h45.\n30 min avant qu'on me dise de décharger ce qui m'a pris 10 min pr 15 palettes il est 8h00 je suis tjrs la à attendre  de pouvoir aller continuer ma journée c'est long très long une fois décharger personne ne vous parle ça passé devant vous comme si vous nexistez pas vous êtes là sans savoir quoi ou comment je n'ai pas hâte de revenir dans ce depot. Accueil plus que limite à la réception!!!!",
+        "langue": "fr",
+        "date": "2025-09-29",
+        "auteur": "Marc Jas",
+        "auteur_lien": "https://www.google.com/maps/contrib/101770226141827510222/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xwT2NFNVBURU5zUVRjM1kzSlRVWEJoTFZCR1ZVRRAB!2m1!1s0x12b5d4fbe876b6c3:0xdb4a660d931b0ed9"
+      },
+      {
+        "note": 1,
+        "texte": "Je ne sais pas comment on pourrait appeler ce style de dépôt mais alors il n'y en a pas deux comme ça. Ceux qui sont dans les quais ils se dédouane de tout et il laisse les agents de sécurité en première position comme des pions. Quand toi tu arrives en avance ou alors à l'heure, tu attends 30 minutes voire 1h voir 2h pour ensuite pouvoir te prendre la marchandise. Mais alors si tu arrives en retard ils vont te faire attendre et puis après ils vont te refuser.",
+        "langue": "fr",
+        "date": "2025-08-08",
+        "auteur": "Hopeelife",
+        "auteur_lien": "https://www.google.com/maps/contrib/106701095163953305203/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2tkYVVWaDFRM1U0ZFZGc09VeHJaSEpyZEdONmEwRRAB!2m1!1s0x12b5d4fbe876b6c3:0xdb4a660d931b0ed9"
+      }
+    ]
+  },
+  "services": {
+    "releve": "2026-10-25",
+    "options": {},
+    "paiement": [],
+    "parking": [
+      "parking gratuit",
+      "parking payant"
+    ]
   }
 }

@@ -33,7 +33,7 @@
     "longitude": 1.262219
   },
   "note": 3.9,
-  "avis": 2552,
+  "avis": 2557,
   "horaires": [
     {
       "jour": 0,
@@ -113,8 +113,8 @@
     "etat": "absent",
     "premiere_detection": null,
     "derniere_detection": null,
-    "derniere_verification": "2026-10-10T11:08:55.541Z",
-    "echecs": 3,
+    "derniere_verification": "2026-10-25T09:45:58.784Z",
+    "echecs": 4,
     "url_detectee": null
   },
   "suggestion": {
@@ -127,22 +127,31 @@
   "dates": {
     "collecte": "2026-10-08",
     "publication": "2026-10-08",
-    "maj": "2026-10-10"
+    "maj": "2026-10-25"
   },
   "source": "google-places",
   "redaction": {
     "version": 2,
     "titre": "BHV Limoges — Mode et équipement de la maison à Limoges",
     "meta_titre": "BHV Limoges à Limoges : horaires, avis, téléphone",
-    "meta_description": "BHV Limoges, mode et équipement de la maison à Limoges : horaires d'ouverture, note Google 3,9/5 (2552 avis), téléphone, adresse et itinéraire.",
-    "chapo": "BHV Limoges est une mode et équipement de la maison au 6 Rue Porte Tourny, à Limoges. Ouvert tous les jours sauf le dimanche au relevé du 10 octobre 2026. Téléphone : 05 55 10 03 00. Note Google : 3,9 sur 5 pour 2552 avis.",
+    "meta_description": "BHV Limoges, mode et équipement de la maison à Limoges : horaires d'ouverture, note Google 3,9/5 (2557 avis), téléphone, adresse et itinéraire.",
+    "chapo": "BHV Limoges est une mode et équipement de la maison au 6 Rue Porte Tourny, à Limoges. Ouvert tous les jours sauf le dimanche au relevé du 25 octobre 2026. Téléphone : 05 55 10 03 00. Note Google : 3,9 sur 5 pour 2557 avis.",
     "sections": [
       {
         "id": "presentation",
         "titre": "BHV Limoges en quelques mots",
         "paragraphes": [
           "Sur Google, l'établissement est classé « Grand magasin », dans notre rubrique Mode et équipement de la maison.",
-          "D'après le relevé du 10 octobre 2026, l'établissement est ouvert tous les jours sauf le dimanche. Le détail jour par jour figure plus bas."
+          "D'après le relevé du 25 octobre 2026, l'établissement est ouvert tous les jours sauf le dimanche. Le détail jour par jour figure plus bas."
+        ]
+      },
+      {
+        "id": "prestations",
+        "titre": "Services et équipements de BHV Limoges",
+        "paragraphes": [
+          "Proposé : livraison et toilettes.",
+          "Moyens de paiement déclarés : carte bancaire, carte de débit et paiement sans contact.",
+          "Ces indications sont déclarées par l'établissement sur sa fiche Google (relevé du 25 octobre 2026)."
         ]
       },
       {
@@ -164,18 +173,18 @@
         "id": "avis",
         "titre": "La réputation de BHV Limoges",
         "paragraphes": [
-          "Note de 3,9 sur 5 pour 2552 avis Google au relevé du 10 octobre 2026. Les avis se consultent sur la fiche Google, dont le lien figure sur cette page."
+          "Note de 3,9 sur 5 pour 2557 avis Google au relevé du 25 octobre 2026. Les avis les plus parlants sont compilés ci-dessous, avec un lien vers la fiche d'origine."
         ]
       }
     ],
     "faq": [
       {
         "q": "Quels sont les horaires de BHV Limoges ?",
-        "r": "Au relevé du 10 octobre 2026, BHV Limoges était ouvert tous les jours sauf le dimanche. Dans le détail — lundi : de 10 h à 19 h ; mardi : de 10 h à 19 h ; mercredi : de 10 h à 19 h ; jeudi : de 10 h à 19 h ; vendredi : de 10 h à 19 h ; samedi : de 10 h à 19 h 30 ; dimanche : fermé. Ces horaires peuvent changer : un appel préalable reste conseillé."
+        "r": "Au relevé du 25 octobre 2026, BHV Limoges était ouvert tous les jours sauf le dimanche. Dans le détail — lundi : de 10 h à 19 h ; mardi : de 10 h à 19 h ; mercredi : de 10 h à 19 h ; jeudi : de 10 h à 19 h ; vendredi : de 10 h à 19 h ; samedi : de 10 h à 19 h 30 ; dimanche : fermé. Ces horaires peuvent changer : un appel préalable reste conseillé."
       },
       {
         "q": "BHV Limoges est-il ouvert le dimanche ?",
-        "r": "Non : d'après les horaires relevés le 10 octobre 2026, BHV Limoges est fermé le dimanche."
+        "r": "Non : d'après les horaires relevés le 25 octobre 2026, BHV Limoges est fermé le dimanche."
       },
       {
         "q": "Où se trouve BHV Limoges ?",
@@ -186,21 +195,88 @@
         "r": "Par téléphone au 05 55 10 03 00, ou directement sur place aux heures d'ouverture."
       },
       {
+        "q": "BHV Limoges propose-t-il la vente à emporter ou la livraison ?",
+        "r": "D'après sa fiche Google (relevé du 25 octobre 2026) — livraison : oui."
+      },
+      {
         "q": "BHV Limoges est-il accessible aux personnes à mobilité réduite ?",
         "r": "La fiche Google de l'établissement mentionne : « Entrée accessible en fauteuil roulant ». Cette information est déclarative ; en cas de doute, vérifiez par téléphone."
       }
     ],
-    "genere_le": "2026-10-10"
+    "genere_le": "2026-10-25"
   },
   "statut_google": "OPERATIONAL",
   "audience": {
     "clics": 1,
-    "impressions": 198,
-    "position": 11.2,
+    "impressions": 209,
+    "position": 11.1,
     "fenetreJours": 90,
     "clicsRecents": 1,
     "fenetreRecenteJours": 28,
     "source": "search-console",
-    "date": "2026-10-24"
+    "date": "2026-10-25"
+  },
+  "avis_detail": {
+    "releve": "2026-10-25",
+    "liste": [
+      {
+        "note": 2,
+        "texte": "Bonsoir, bon accueil, agréable…Cependant je ne comprends pas, je suis venue pour acheter des cadeaux on m’a acceptée ma carte illicado chez les femmes qui est bien passée mais pas chez les hommes, on m’a dit qu’il l’a fallait en main propre et pas sur le tel pourtant en vérifiant sur mon ticket de caisse en effet l’achat avec ma carte illicado est bien passée donc je ne comprends pas très bien pourquoi chez les hommes on ne me l’a pas accepté + je n’ai pas eu la remise -50% sur le deuxième article accessoires/sacs hommes + pas de fou fou les emballages cadeaux pour les fêtes 🫤 surtout quand c’est de la marque c’est dommage…",
+        "langue": "fr",
+        "date": "2025-12-22",
+        "auteur": "Mathilde “Math’s” Sudrat",
+        "auteur_lien": "https://www.google.com/maps/contrib/102728510921024346591/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT21FMGFHRXdSa3R1WVhnNVFYZDFhMXBsTmpRNGEyYxAB!2m1!1s0x47f93498068578a1:0xb0503ed91f725583"
+      },
+      {
+        "note": 1,
+        "texte": "Achat de deux sacs de marque en septembre 2024\nSur le premier sac toutes les coutures des anses lachent. Sur le second décoloration et fermeture éclair qui a cassée.\nRetour ce jour et réponse du manager pas de prise en charge malgré une garantie de deux ans, se débrouiller avec le service après vente des marque sans nous donner de coordonnées.\nService après vente lamentable pour pouvoir bénéficier de la garantie légale il faut laisser les sacs dans un placard et ne pas les utiliser\nNous avions déjà rencontré un problème pour un changement de piles il y a 10 jours.\n78€ pour changer 2 piles de montre!!!!\nMagasin à fuir",
+        "langue": "fr",
+        "date": "2025-12-20",
+        "auteur": "Eloman Eloman",
+        "auteur_lien": "https://www.google.com/maps/contrib/114702762334149825337/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25wcVVtcHhkWFJPVlhWNmEwZFhRMU4zY2xsVVlsRRAB!2m1!1s0x47f93498068578a1:0xb0503ed91f725583"
+      },
+      {
+        "note": 5,
+        "texte": "Quel agréable moment passé avec toute l'équipe du 3e étage ainsi qu'avec Sandrine du 2e.\nL'accueil par ces personnes souriantes, bienveillantes, compétentes, professionnelles et pleines d'humour fait beaucoup de bien. Ouf, il en reste encore !\nDe plus, nous avons été accompagnés jusqu'à notre voiture pour nous faciliter le portage de notre achat adoré 😍.\nUn service vraiment exceptionnel !\nNous sommes ravis 🤩.\nEncore merci pour tout.",
+        "langue": "fr",
+        "date": "2025-11-07",
+        "auteur": "Florence Jarry",
+        "auteur_lien": "https://www.google.com/maps/contrib/105537804324969436968/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2toaGVHRlhOV1IwZDJaVlZsUnFPWFpCWmtJM2VHYxAB!2m1!1s0x47f93498068578a1:0xb0503ed91f725583"
+      },
+      {
+        "note": 5,
+        "texte": "Quel plaisir d’avoir eu à faire aujourd’hui aux galeries Lafayette de Limoges avec Christelle et Christine. Quand les marques sont identiques ce qui compte c’est la qualité du personnel. Je peux vous dire que aux Galeries Lafayette de Limoges, vous serez particulièrement bien reçu , conseillé et accompagné dans vos achats.\nBeaucoup d’humour et de sympathie.\nUn vrai bon moment.\nCela m’a évité d’avoir le blues post achat habituel.\nMerci beaucoup mesdames pour votre bienveillance souriante.",
+        "langue": "fr",
+        "date": "2025-10-28",
+        "auteur": "olivier goalard",
+        "auteur_lien": "https://www.google.com/maps/contrib/101506456216741903377/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT21WWE1XNXRjM0V5TUVzMmNHTlNWVzA0ZG1OS2FWRRAB!2m1!1s0x47f93498068578a1:0xb0503ed91f725583"
+      },
+      {
+        "note": 5,
+        "texte": "Grand magazin de Limoges avec pas moins de 4 entrées. Il présente sur 3 niveaux que des articles que de bon goût, pricpalement d'habilementest beauté. Les prix ne sont volontairement pas exposés car c'est bien connu, lorque l'on aime \"on ne compte pas\" !",
+        "langue": "fr",
+        "date": "2023-12-10",
+        "auteur": "capt flam",
+        "auteur_lien": "https://www.google.com/maps/contrib/104680652252413113080/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSURWaU1UUmhBRRAB!2m1!1s0x47f93498068578a1:0xb0503ed91f725583"
+      }
+    ]
+  },
+  "services": {
+    "releve": "2026-10-25",
+    "options": {
+      "delivery": true,
+      "restroom": true
+    },
+    "paiement": [
+      "carte bancaire",
+      "carte de débit",
+      "paiement sans contact"
+    ],
+    "parking": []
   }
 }

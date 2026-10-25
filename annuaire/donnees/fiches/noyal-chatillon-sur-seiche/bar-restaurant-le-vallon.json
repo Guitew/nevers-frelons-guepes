@@ -32,7 +32,7 @@
     "longitude": -1.6971406
   },
   "note": 4.1,
-  "avis": 954,
+  "avis": 958,
   "horaires": [
     {
       "jour": 0,
@@ -113,8 +113,8 @@
     "etat": "absent",
     "premiere_detection": null,
     "derniere_detection": null,
-    "derniere_verification": "2026-10-10T11:08:55.541Z",
-    "echecs": 13,
+    "derniere_verification": "2026-10-25T09:45:58.784Z",
+    "echecs": 14,
     "url_detectee": null
   },
   "suggestion": {
@@ -127,22 +127,34 @@
   "dates": {
     "collecte": "2026-10-03",
     "publication": "2026-10-03",
-    "maj": "2026-10-10"
+    "maj": "2026-10-25"
   },
   "source": "google-places",
   "redaction": {
     "version": 2,
     "titre": "Bar Restaurant Le Vallon — Restaurant à Noyal-Châtillon-sur-Seiche",
     "meta_titre": "Bar Restaurant Le Vallon : horaires, avis, téléphone",
-    "meta_description": "Bar Restaurant Le Vallon, restaurant à Noyal-Châtillon-sur-Seiche : horaires d'ouverture, note Google 4,1/5 (954 avis), téléphone, adresse et itinéraire.",
-    "chapo": "Cette fiche présente Bar Restaurant Le Vallon, un restaurant à Noyal-Châtillon-sur-Seiche. Ouvert tous les jours sauf le dimanche au relevé du 10 octobre 2026. Téléphone : 02 99 50 67 12. Note Google : 4,1 sur 5 pour 954 avis.",
+    "meta_description": "Bar Restaurant Le Vallon, restaurant à Noyal-Châtillon-sur-Seiche : horaires d'ouverture, note Google 4,1/5 (958 avis), téléphone, adresse et itinéraire.",
+    "chapo": "Cette fiche présente Bar Restaurant Le Vallon, un restaurant à Noyal-Châtillon-sur-Seiche. Ouvert tous les jours sauf le dimanche au relevé du 25 octobre 2026. Téléphone : 02 99 50 67 12. Note Google : 4,1 sur 5 pour 958 avis.",
     "sections": [
       {
         "id": "presentation",
         "titre": "Bar Restaurant Le Vallon en quelques mots",
         "paragraphes": [
           "Sur Google, l'établissement est classé « Restaurant français », dans notre rubrique Restaurant.",
-          "D'après le relevé du 10 octobre 2026, l'établissement est ouvert tous les jours sauf le dimanche. Le détail jour par jour figure plus bas."
+          "Niveau de prix indiqué sur la fiche Google : €€ (modéré).",
+          "D'après le relevé du 25 octobre 2026, l'établissement est ouvert tous les jours sauf le dimanche. Le détail jour par jour figure plus bas."
+        ]
+      },
+      {
+        "id": "prestations",
+        "titre": "Services et équipements de Bar Restaurant Le Vallon",
+        "paragraphes": [
+          "Proposé : sur place, réservation possible, terrasse, petit-déjeuner, déjeuner, dîner, café, bière, vin, cocktails, adapté aux groupes, retransmissions sportives et toilettes.",
+          "Non proposé selon la fiche Google : livraison, brunch, plats végétariens, adapté aux enfants et musique live.",
+          "Moyens de paiement déclarés : carte bancaire, carte de débit et paiement sans contact.",
+          "Stationnement : parking gratuit et stationnement gratuit dans la rue.",
+          "Ces indications sont déclarées par l'établissement sur sa fiche Google (relevé du 25 octobre 2026)."
         ]
       },
       {
@@ -157,25 +169,26 @@
         "id": "contact",
         "titre": "Contacter Bar Restaurant Le Vallon",
         "paragraphes": [
-          "Le contact se fait par téléphone au 02 99 50 67 12, ou directement sur place aux horaires d'ouverture."
+          "Le contact se fait par téléphone au 02 99 50 67 12, ou directement sur place aux horaires d'ouverture.",
+          "La fiche Google indique que la réservation est possible."
         ]
       },
       {
         "id": "avis",
         "titre": "La réputation de Bar Restaurant Le Vallon",
         "paragraphes": [
-          "Note de 4,1 sur 5 pour 954 avis Google au relevé du 10 octobre 2026. Les avis se consultent sur la fiche Google, dont le lien figure sur cette page."
+          "Note de 4,1 sur 5 pour 958 avis Google au relevé du 25 octobre 2026. Les avis les plus parlants sont compilés ci-dessous, avec un lien vers la fiche d'origine."
         ]
       }
     ],
     "faq": [
       {
         "q": "Quels sont les horaires de Bar Restaurant Le Vallon ?",
-        "r": "Au relevé du 10 octobre 2026, Bar Restaurant Le Vallon était ouvert tous les jours sauf le dimanche. Dans le détail — lundi : de 6 h 30 à 23 h 30 ; mardi : de 5 h à 0 h ; mercredi : de 5 h à 0 h ; jeudi : de 5 h à 0 h ; vendredi : de 5 h à 0 h ; samedi : de 11 h à 15 h ; dimanche : fermé. Ces horaires peuvent changer : un appel préalable reste conseillé."
+        "r": "Au relevé du 25 octobre 2026, Bar Restaurant Le Vallon était ouvert tous les jours sauf le dimanche. Dans le détail — lundi : de 6 h 30 à 23 h 30 ; mardi : de 5 h à 0 h ; mercredi : de 5 h à 0 h ; jeudi : de 5 h à 0 h ; vendredi : de 5 h à 0 h ; samedi : de 11 h à 15 h ; dimanche : fermé. Ces horaires peuvent changer : un appel préalable reste conseillé."
       },
       {
         "q": "Bar Restaurant Le Vallon est-il ouvert le dimanche ?",
-        "r": "Non : d'après les horaires relevés le 10 octobre 2026, Bar Restaurant Le Vallon est fermé le dimanche."
+        "r": "Non : d'après les horaires relevés le 25 octobre 2026, Bar Restaurant Le Vallon est fermé le dimanche."
       },
       {
         "q": "Où se trouve Bar Restaurant Le Vallon ?",
@@ -186,11 +199,23 @@
         "r": "Par téléphone au 02 99 50 67 12, ou directement sur place aux heures d'ouverture."
       },
       {
+        "q": "Peut-on réserver chez Bar Restaurant Le Vallon ?",
+        "r": "Oui, la fiche Google de Bar Restaurant Le Vallon indique que la réservation est possible, par téléphone au 02 99 50 67 12."
+      },
+      {
+        "q": "Bar Restaurant Le Vallon propose-t-il la vente à emporter ou la livraison ?",
+        "r": "D'après sa fiche Google (relevé du 25 octobre 2026) — livraison : non."
+      },
+      {
+        "q": "Quel est le niveau de prix de Bar Restaurant Le Vallon ?",
+        "r": "Google classe Bar Restaurant Le Vallon au niveau de prix €€ (modéré), sur une échelle de € à €€€€ établie à partir des avis clients."
+      },
+      {
         "q": "Bar Restaurant Le Vallon est-il accessible aux personnes à mobilité réduite ?",
         "r": "La fiche Google de l'établissement mentionne : « Entrée accessible en fauteuil roulant ». Cette information est déclarative ; en cas de doute, vérifiez par téléphone."
       }
     ],
-    "genere_le": "2026-10-10"
+    "genere_le": "2026-10-25"
   },
   "statut_google": "OPERATIONAL",
   "audience": {
@@ -201,6 +226,89 @@
     "clicsRecents": 0,
     "fenetreRecenteJours": 28,
     "source": "search-console",
-    "date": "2026-10-24"
+    "date": "2026-10-25"
+  },
+  "avis_detail": {
+    "releve": "2026-10-25",
+    "liste": [
+      {
+        "note": 5,
+        "texte": "On m'avait conseillé de passer par ce restaurant. Pas de chichi, pas de manière. bonne ambiance. Vade rétro bobo. Excellent rapport qualité prix. Pas déçu de cette escale, que je vous conseille. Au fait c'est un routier pas une étape relais château. C'est vraiment un bon lieu de convivialité. Ne vous laisser pas influencer par la déco. Nous ne sommes pas dans une brasserie mais dans un lieu de vie. Continuez ad virternam. Bravo",
+        "langue": "fr",
+        "date": "2026-08-18",
+        "auteur": "Yves Jacquemin",
+        "auteur_lien": "https://www.google.com/maps/contrib/117889015192754962866/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25aVVpHaDVlVVF5WlVvNFZtdHNWekExUVdkVWRWRRAB!2m1!1s0x480f1ffe270673f9:0xdf0d840be353ca6b"
+      },
+      {
+        "note": 5,
+        "texte": "Super accueil restauration de 11h30 à 15h00 très pratique",
+        "langue": "fr",
+        "date": "2026-07-09",
+        "auteur": "Laurence Lolo",
+        "auteur_lien": "https://www.google.com/maps/contrib/104771716610023135380/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT21GaGNUTlBOMmx6V1RBNFRtMXpjWGxaV25oUmVXYxAB!2m1!1s0x480f1ffe270673f9:0xdf0d840be353ca6b"
+      },
+      {
+        "note": 5,
+        "texte": "Un patron super accueillant et avec le sourire, 2 serveuses hyper efficace et très sympas et le sourire aussi, même avec les gros lourds, le repas impeccable de l'entrée au café, le dessert mérite bien son nom le délice! Une très bonne adresse qui vaut le détour  ! Moi je reviens dès que je peux",
+        "langue": "fr",
+        "date": "2026-06-23",
+        "auteur": "luc brancart",
+        "auteur_lien": "https://www.google.com/maps/contrib/112162530246215796341/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xjM1VFSlVXRXByUmxSbVdrUjBObDlWVUZWUVYwRRAB!2m1!1s0x480f1ffe270673f9:0xdf0d840be353ca6b"
+      },
+      {
+        "note": 5,
+        "texte": "Excellent service, beau buffet, belle assiette, ambiance super rien à redire je reviendrais\n\nJe rajouterai que la sauce au poivre servie avec le steak pourrait être cuisinée et pas servie comme de la vulgaire mayonnaise, ou prévenez vos clients car c est décevant sinon ça reste une bonne adresse.",
+        "langue": "fr",
+        "date": "2026-05-27",
+        "auteur": "Vito Senior",
+        "auteur_lien": "https://www.google.com/maps/contrib/110908181386096692613/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2s1cVJ6TmhVVTFDVlhkNlZERnRSM1ZsVmpCUmVIYxAB!2m1!1s0x480f1ffe270673f9:0xdf0d840be353ca6b"
+      },
+      {
+        "note": 3,
+        "texte": "C'est très sale, surtout les toilettes. Le restaurant en entier a besoin d'être rafraîchi. Je n'ose pas imaginer la cuisine. Du coup, je n'ai pas voulu prendre de steak tartare. Pour l'accueil, on a l'impression de déranger tout le monde. En plus, à l'entrée du restaurant, une odeur nauséabonde vous chatouille les narines (les égouts). J'y ai mangé deux fois mais c'est terminé.",
+        "langue": "fr",
+        "date": "2026-04-28",
+        "auteur": "Sam",
+        "auteur_lien": "https://www.google.com/maps/contrib/107109316564126049591/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2tZd1VsOURWbWhhVURVeVpHWlBSemxZVFdoSFlYYxAB!2m1!1s0x480f1ffe270673f9:0xdf0d840be353ca6b"
+      }
+    ]
+  },
+  "services": {
+    "releve": "2026-10-25",
+    "prix": "PRICE_LEVEL_MODERATE",
+    "options": {
+      "dineIn": true,
+      "delivery": false,
+      "reservable": true,
+      "outdoorSeating": true,
+      "servesBreakfast": true,
+      "servesBrunch": false,
+      "servesLunch": true,
+      "servesDinner": true,
+      "servesVegetarianFood": false,
+      "servesCoffee": true,
+      "servesBeer": true,
+      "servesWine": true,
+      "servesCocktails": true,
+      "goodForChildren": false,
+      "goodForGroups": true,
+      "goodForWatchingSports": true,
+      "liveMusic": false,
+      "restroom": true
+    },
+    "paiement": [
+      "carte bancaire",
+      "carte de débit",
+      "paiement sans contact"
+    ],
+    "parking": [
+      "parking gratuit",
+      "stationnement gratuit dans la rue"
+    ]
   }
 }

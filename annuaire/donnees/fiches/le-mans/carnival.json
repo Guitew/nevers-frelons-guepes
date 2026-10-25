@@ -28,7 +28,7 @@
     "longitude": 0.18225539999999998
   },
   "note": 4.7,
-  "avis": 8698,
+  "avis": 8892,
   "horaires": [
     {
       "jour": 0,
@@ -142,8 +142,8 @@
     "etat": "absent",
     "premiere_detection": null,
     "derniere_detection": null,
-    "derniere_verification": "2026-10-10T11:08:55.541Z",
-    "echecs": 70,
+    "derniere_verification": "2026-10-25T09:45:58.784Z",
+    "echecs": 71,
     "url_detectee": null
   },
   "suggestion": {
@@ -161,22 +161,34 @@
   "dates": {
     "collecte": "2026-09-04",
     "publication": "2026-09-04",
-    "maj": "2026-10-19"
+    "maj": "2026-10-25"
   },
   "source": "google-places",
   "redaction": {
     "version": 2,
     "titre": "CARNIVAL — Restaurant à Le Mans",
     "meta_titre": "CARNIVAL à Le Mans : horaires, avis, téléphone",
-    "meta_description": "CARNIVAL, restaurant à Le Mans : horaires d'ouverture, note Google 4,7/5 (8698 avis), téléphone, adresse et itinéraire.",
-    "chapo": "CARNIVAL, restaurant au Route d'Alençon, à Le Mans. Ouvert sept jours sur sept au relevé du 10 octobre 2026. Téléphone : 02 43 80 19 79. Note Google : 4,7 sur 5 pour 8698 avis.",
+    "meta_description": "CARNIVAL, restaurant à Le Mans : horaires d'ouverture, note Google 4,7/5 (8892 avis), téléphone, adresse et itinéraire.",
+    "chapo": "CARNIVAL, restaurant au Route d'Alençon, à Le Mans. Ouvert sept jours sur sept au relevé du 25 octobre 2026. Téléphone : 02 43 80 19 79. Note Google : 4,7 sur 5 pour 8892 avis.",
     "sections": [
       {
         "id": "presentation",
         "titre": "CARNIVAL en quelques mots",
         "paragraphes": [
           "Sur Google, l'établissement est classé « Restaurant de type buffet », dans notre rubrique Restaurant.",
-          "D'après le relevé du 10 octobre 2026, l'établissement est ouvert sept jours sur sept. Le détail jour par jour figure plus bas."
+          "Niveau de prix indiqué sur la fiche Google : €€ (modéré).",
+          "D'après le relevé du 25 octobre 2026, l'établissement est ouvert sept jours sur sept. Le détail jour par jour figure plus bas."
+        ]
+      },
+      {
+        "id": "prestations",
+        "titre": "Services et équipements de CARNIVAL",
+        "paragraphes": [
+          "Proposé : sur place, petit-déjeuner, déjeuner, dîner, plats végétariens, café, bière, vin, cocktails, menu enfant, adapté aux enfants, adapté aux groupes et toilettes.",
+          "Non proposé selon la fiche Google : livraison, retrait en voiture, réservation possible, terrasse, retransmissions sportives et musique live.",
+          "Moyens de paiement déclarés : carte bancaire, carte de débit et paiement sans contact.",
+          "Stationnement : parking gratuit.",
+          "Ces indications sont déclarées par l'établissement sur sa fiche Google (relevé du 25 octobre 2026)."
         ]
       },
       {
@@ -198,18 +210,18 @@
         "id": "avis",
         "titre": "La réputation de CARNIVAL",
         "paragraphes": [
-          "Note de 4,7 sur 5 pour 8698 avis Google au relevé du 10 octobre 2026. Les avis se consultent sur la fiche Google, dont le lien figure sur cette page."
+          "Note de 4,7 sur 5 pour 8892 avis Google au relevé du 25 octobre 2026. Les avis les plus parlants sont compilés ci-dessous, avec un lien vers la fiche d'origine."
         ]
       }
     ],
     "faq": [
       {
         "q": "Quels sont les horaires de CARNIVAL ?",
-        "r": "Au relevé du 10 octobre 2026, CARNIVAL était ouvert sept jours sur sept. Dans le détail — lundi : de 12 h à 14 h 30 et de 19 h à 22 h 30 ; mardi : de 12 h à 14 h 30 et de 19 h à 22 h 30 ; mercredi : de 12 h à 14 h 30 et de 19 h à 22 h 30 ; jeudi : de 12 h à 14 h 30 et de 19 h à 22 h 30 ; vendredi : de 12 h à 14 h 30 et de 18 h 45 à 23 h ; samedi : de 12 h à 15 h et de 18 h 45 à 23 h ; dimanche : de 12 h à 15 h et de 19 h à 22 h 30. Ces horaires peuvent changer : un appel préalable reste conseillé."
+        "r": "Au relevé du 25 octobre 2026, CARNIVAL était ouvert sept jours sur sept. Dans le détail — lundi : de 12 h à 14 h 30 et de 19 h à 22 h 30 ; mardi : de 12 h à 14 h 30 et de 19 h à 22 h 30 ; mercredi : de 12 h à 14 h 30 et de 19 h à 22 h 30 ; jeudi : de 12 h à 14 h 30 et de 19 h à 22 h 30 ; vendredi : de 12 h à 14 h 30 et de 18 h 45 à 23 h ; samedi : de 12 h à 15 h et de 18 h 45 à 23 h ; dimanche : de 12 h à 15 h et de 19 h à 22 h 30. Ces horaires peuvent changer : un appel préalable reste conseillé."
       },
       {
         "q": "CARNIVAL est-il ouvert le dimanche ?",
-        "r": "Oui : le dimanche, CARNIVAL est ouvert de 12 h à 15 h et de 19 h à 22 h 30 (horaires relevés le 10 octobre 2026)."
+        "r": "Oui : le dimanche, CARNIVAL est ouvert de 12 h à 15 h et de 19 h à 22 h 30 (horaires relevés le 25 octobre 2026)."
       },
       {
         "q": "Où se trouve CARNIVAL ?",
@@ -220,11 +232,23 @@
         "r": "Par téléphone au 02 43 80 19 79, ou directement sur place aux heures d'ouverture."
       },
       {
+        "q": "Peut-on réserver chez CARNIVAL ?",
+        "r": "La fiche Google de CARNIVAL indique que la réservation n'est pas proposée."
+      },
+      {
+        "q": "CARNIVAL propose-t-il la vente à emporter ou la livraison ?",
+        "r": "D'après sa fiche Google (relevé du 25 octobre 2026) — livraison : non."
+      },
+      {
+        "q": "Quel est le niveau de prix de CARNIVAL ?",
+        "r": "Google classe CARNIVAL au niveau de prix €€ (modéré), sur une échelle de € à €€€€ établie à partir des avis clients."
+      },
+      {
         "q": "CARNIVAL est-il accessible aux personnes à mobilité réduite ?",
         "r": "La fiche Google de l'établissement mentionne : « Entrée accessible en fauteuil roulant ». Cette information est déclarative ; en cas de doute, vérifiez par téléphone."
       }
     ],
-    "genere_le": "2026-10-10"
+    "genere_le": "2026-10-25"
   },
   "statut_google": "OPERATIONAL",
   "audience": {
@@ -235,7 +259,7 @@
     "clicsRecents": 0,
     "fenetreRecenteJours": 28,
     "source": "search-console",
-    "date": "2026-10-24"
+    "date": "2026-10-25"
   },
   "indexation": {
     "etat": "non-indexee",
@@ -245,5 +269,88 @@
     "canonique_google": null,
     "source": "inspection",
     "date": "2026-10-19"
+  },
+  "avis_detail": {
+    "releve": "2026-10-25",
+    "liste": [
+      {
+        "note": 1,
+        "texte": "Expérience très décevante. Déjà aucun serveur ou cuisinier ne parle correctement le français, un peu compliqué quand on demande une cuisson ou que l'on passe 15 minutes a chercher une pinces ou les serveurs se renvoient la balle.\n\nPour les plats, comment les clients peuvent mettre des 5 étoiles ??? Tout les plats sont hyper fade et sec, seul les sushi et les fruits de mer passent encore... Mais alors les plats cuisinés a fuir, canard laqué sans sauce j'ai jamais vu ca, saumon hyper sec sur cui... Les desserts c'est un désastre, les mousse on toute le même goût, soit aucun ou mauvaise c'est ca le problème. Les sauces, génial que des sauce bouteille industrielle même pas une sauce maison poivre...\n\nAutre chose je sais que dans ce genre d'endroit il y a certe un peu de bruit, mais la c'est insupportable, entre les gens qui parle fort les gamin qui crient partout, c'est impossible de manger tranquillement, on devait crier pour s'entendre vraiment j'en rajoute pas.\n\nTous ce restaurant est une arnaque, tout est beau, plein de plats différents, mais tout ça est de la poudre au yeux, attrape touristes pur.\n\nFuyez et preferez a la limite le grand buffet a ce niveau la, un peu moins de choix mais mieux cuisiné. Bien trop cher pour la qualité médiocre proposé.\n\nVu les avis googles cela sent les faux avis généré, impossible autant de bonne note, et aucune mauvaise.",
+        "langue": "fr",
+        "date": "2026-06-21",
+        "auteur": "Zyriiox",
+        "auteur_lien": "https://www.google.com/maps/contrib/103611323033855628034/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xSdWFFWTJUM0JzV1dWclZWZE1VMjVaZVVGQ05FRRAB!2m1!1s0x47e289002bdedc4b:0xe6fe2f4d586e61dc"
+      },
+      {
+        "note": 4,
+        "texte": "Accueil au top, et le personnel est sympathique.\nUn grand choix de plats est proposé, il y en a pour tous les goûts, ce qui est très appréciable.\nLe restaurant est très mignon, bien décoré dans une belle ambiance.\nSeul petit bémol : les desserts, qui manquent de variété et de mise en valeur. Une meilleure présentation donnerait davantage envie.\nDans l’ensemble, une bonne adresse.",
+        "langue": "fr",
+        "date": "2026-06-14",
+        "auteur": "Laalandes",
+        "auteur_lien": "https://www.google.com/maps/contrib/101776458132594921401/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2t0cVZGaEJhemMyVVVWUVpXZFRaWFZXY0RCblMyYxAB!2m1!1s0x47e289002bdedc4b:0xe6fe2f4d586e61dc"
+      },
+      {
+        "note": 5,
+        "texte": "Nous avons été très bien accueilli et nous avons extrêmement bien mangé. Le restaurant est beau et bien agencé. Beaucoup de choix dans les plats. Je recommande.",
+        "langue": "fr",
+        "date": "2026-05-10",
+        "auteur": "Nadine Lucas",
+        "auteur_lien": "https://www.google.com/maps/contrib/113299199531012588701/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT21FNGVtNXlNR3hVWTNvNFRXcHFlVEp4TkdFd04yYxAB!2m1!1s0x47e289002bdedc4b:0xe6fe2f4d586e61dc"
+      },
+      {
+        "note": 5,
+        "texte": "Une très belle découverte ! Nous y sommes allés sur recommandation et nous avons été conquis du début à la fin : une décoration soignée, des plats savoureux et surtout beaucoup de choix pour petits et grands. Le tout à des prix très abordables. Une adresse que je recommande sans hésiter !",
+        "langue": "fr",
+        "date": "2026-04-17",
+        "auteur": "Nora (Nora GMS)",
+        "auteur_lien": "https://www.google.com/maps/contrib/103153050044586729602/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xKdU9IY3pTbEpDT1VwcVRpMTFRVXRxYUZGMmFsRRAB!2m1!1s0x47e289002bdedc4b:0xe6fe2f4d586e61dc"
+      },
+      {
+        "note": 4,
+        "texte": "Du  choix, produits bien cuisinés, tables propres ainsi que les sanitaires. Seul petit bémol concernant le service qui manque de sourires mais que l'on retrouve à l'accueil,  en caisse.\nBien sur le buffet à volonté reste très intéressant pour les gros mangeur pour le tarif en semaine.",
+        "langue": "fr",
+        "date": "2026-02-10",
+        "auteur": "cendrillon zen",
+        "auteur_lien": "https://www.google.com/maps/contrib/110122841901214390009/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT21GdGRYRkZPWHBtVG5RMmJIbFdlVWRMWDJoS1FuYxAB!2m1!1s0x47e289002bdedc4b:0xe6fe2f4d586e61dc"
+      }
+    ]
+  },
+  "services": {
+    "releve": "2026-10-25",
+    "prix": "PRICE_LEVEL_MODERATE",
+    "options": {
+      "dineIn": true,
+      "delivery": false,
+      "curbsidePickup": false,
+      "reservable": false,
+      "outdoorSeating": false,
+      "servesBreakfast": true,
+      "servesLunch": true,
+      "servesDinner": true,
+      "servesVegetarianFood": true,
+      "servesCoffee": true,
+      "servesBeer": true,
+      "servesWine": true,
+      "servesCocktails": true,
+      "menuForChildren": true,
+      "goodForChildren": true,
+      "goodForGroups": true,
+      "goodForWatchingSports": false,
+      "liveMusic": false,
+      "restroom": true
+    },
+    "paiement": [
+      "carte bancaire",
+      "carte de débit",
+      "paiement sans contact"
+    ],
+    "parking": [
+      "parking gratuit"
+    ]
   }
 }

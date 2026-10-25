@@ -1,0 +1,296 @@
+{
+  "id": "ChIJv320DAbg60cRTo-TvR8hbs8",
+  "slug": "la-petrie-beliard-co",
+  "nom": "La Pétrie Béliard & Co",
+  "categorie": "boulangeries-patisseries",
+  "categorie_gmb": "Boulangerie",
+  "type_principal": "bakery",
+  "types": [
+    "bakery",
+    "catering_service",
+    "pastry_shop",
+    "food_delivery",
+    "dessert_shop",
+    "confectionery",
+    "food_store",
+    "store",
+    "service",
+    "point_of_interest",
+    "food",
+    "establishment"
+  ],
+  "ville": "Fagnières",
+  "ville_slug": "fagnieres",
+  "adresse": {
+    "rue": "",
+    "code_postal": "51510",
+    "departement": "51",
+    "region": "Grand Est",
+    "pays": "France",
+    "complete": "28 bis rue des Postes 1 rue de l'ile aux moines Place des Collines, 51510 Fagnières"
+  },
+  "telephone": "03 26 65 29 47",
+  "geo": {
+    "latitude": 48.9557709,
+    "longitude": 4.3205975
+  },
+  "note": 4.6,
+  "avis": 226,
+  "horaires": [
+    {
+      "jour": 0,
+      "ferme": false,
+      "creneaux": [
+        [
+          "06:30",
+          "19:00"
+        ]
+      ]
+    },
+    {
+      "jour": 1,
+      "ferme": false,
+      "creneaux": [
+        [
+          "06:30",
+          "19:00"
+        ]
+      ]
+    },
+    {
+      "jour": 2,
+      "ferme": false,
+      "creneaux": [
+        [
+          "06:30",
+          "19:00"
+        ]
+      ]
+    },
+    {
+      "jour": 3,
+      "ferme": false,
+      "creneaux": [
+        [
+          "06:30",
+          "19:00"
+        ]
+      ]
+    },
+    {
+      "jour": 4,
+      "ferme": false,
+      "creneaux": [
+        [
+          "06:30",
+          "19:00"
+        ]
+      ]
+    },
+    {
+      "jour": 5,
+      "ferme": false,
+      "creneaux": [
+        [
+          "06:30",
+          "19:00"
+        ]
+      ]
+    },
+    {
+      "jour": 6,
+      "ferme": true,
+      "creneaux": []
+    }
+  ],
+  "attributs": [
+    "Entrée accessible en fauteuil roulant",
+    "Parking accessible en fauteuil roulant"
+  ],
+  "lien_google": "https://maps.google.com/?cid=14946920633497521998&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
+  "site_web_gmb": null,
+  "statut": "publiee",
+  "backlink": {
+    "etat": "absent",
+    "premiere_detection": null,
+    "derniere_detection": null,
+    "derniere_verification": "2026-10-25T09:45:58.784Z",
+    "echecs": 1,
+    "url_detectee": null
+  },
+  "suggestion": {
+    "etat": "en-attente",
+    "date_soumission": null,
+    "tentatives": 0,
+    "date_email": "2026-10-25"
+  },
+  "retrait": null,
+  "dates": {
+    "collecte": "2026-10-25",
+    "publication": "2026-10-25",
+    "maj": "2026-10-25"
+  },
+  "source": "google-places",
+  "avis_detail": {
+    "releve": "2026-10-25",
+    "liste": [
+      {
+        "note": 5,
+        "texte": "J'habite en pleine campagne , à 30km de Fagnieres ; quand je \"descends\" sur Châlons en Champagne,je passe par Fagniere et leur achète une dizaine de baguettes (que je congèle). Leur pain est excellent et tiens très bien la décongélation.",
+        "langue": "fr",
+        "date": "2026-08-01",
+        "auteur": "Sandrine Mary",
+        "auteur_lien": "https://www.google.com/maps/contrib/114840271112709201213/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xnd1YwaDVkelJQTjFOWGRVTTNSakZFUW14bWJWRRAB!2m1!1s0x47ebe0060cb47dbf:0xcf6e211fbd938f4e"
+      },
+      {
+        "note": 5,
+        "texte": "BEST OF THE BEST DU PAIN. La qualité a un prix et le savoir ne s achète pas. Amoureux du pain et epicurien et respect à tout les boulangers. Mais pour le même prix je savoure, je déguste un pain qui est de mon expérience le meilleur pain. La pétrie qui peut teste. J ai testé toutes les boulangeries de Châlons. Sur le pain elle n'a pas son égal. Merci à vous. 🥖🥖🥖🥰💝💝💝",
+        "langue": "fr",
+        "date": "2026-05-14",
+        "auteur": "Ade-s",
+        "auteur_lien": "https://www.google.com/maps/contrib/102842212321307184793/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2tGV1RtazFhSHBLT1RKdVJ6SkpVMGRxTld4S1gxRRAB!2m1!1s0x47ebe0060cb47dbf:0xcf6e211fbd938f4e"
+      },
+      {
+        "note": 5,
+        "texte": "La meilleure barquette classique des alentours de Châlons en Champagnew je suis de Saint Hilaire au temple, tout les 15 jours je vais chercher mes 8 baguettes. Franchement au top, natif de fagnieres.",
+        "langue": "fr",
+        "date": "2026-03-24",
+        "auteur": "Romain Bristiel",
+        "auteur_lien": "https://www.google.com/maps/contrib/107278058668956587753/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT210UE5HTkpTV1ZMY0ZwTllVSlFRbGxxY1ZVMllXYxAB!2m1!1s0x47ebe0060cb47dbf:0xcf6e211fbd938f4e"
+      },
+      {
+        "note": 1,
+        "texte": "Très déçu par mon pain bagnat au poulet.\nJ’ai acheté ce pain bagnat pour près de cinq euros et j’en suis extrêmement déçu. Il y avait beaucoup plus de salade que de poulet : un seul petit morceau à peine visible. Aucune mayonnaise, le sandwich était sec et sans goût. Rapport qualité-prix vraiment médiocre.",
+        "langue": "fr",
+        "date": "2025-12-20",
+        "auteur": "Fanny Oudart",
+        "auteur_lien": "https://www.google.com/maps/contrib/108854802702755050996/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT21GTk9GcEdObGsyVWtwVmQzbzFkRTVaTkVoWVVHYxAB!2m1!1s0x47ebe0060cb47dbf:0xcf6e211fbd938f4e"
+      },
+      {
+        "note": 5,
+        "texte": "Waouh\nMais c'est quoi cette boulangerie de ouf🥰😛🤩🥳\nUn bien beau commerce qui mérite a être connu\nJ'ai pris une galette ardennaise (jamais mangé une aussi bonne alors que je suis native des Ardennes)\n3sandwichs préparés sur place (poulet et jambon) un samedi !!! 😁😃\nLe pain croustillant.. les ingrédients frais..\n\nLa prochaine fois je teste les viennoiseries 😍\n\nAccueil parfait\n\nJe recommande (ça donne envie de vivre à Fagnières)",
+        "langue": "fr",
+        "date": "2024-03-09",
+        "auteur": "Anna AuChocolat",
+        "auteur_lien": "https://www.google.com/maps/contrib/105999937573123853000/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUM5MC1Yck1BEAE!2m1!1s0x47ebe0060cb47dbf:0xcf6e211fbd938f4e"
+      }
+    ]
+  },
+  "services": {
+    "releve": "2026-10-25",
+    "prix": "PRICE_LEVEL_INEXPENSIVE",
+    "options": {
+      "dineIn": true,
+      "takeout": true,
+      "servesBreakfast": true,
+      "servesCoffee": true,
+      "restroom": false
+    },
+    "paiement": [
+      "carte bancaire",
+      "carte de débit",
+      "paiement sans contact"
+    ],
+    "parking": [
+      "parking gratuit"
+    ]
+  },
+  "redaction": {
+    "version": 2,
+    "titre": "La Pétrie Béliard & Co — Boulangerie-pâtisserie à Fagnières",
+    "meta_titre": "La Pétrie Béliard & Co à Fagnières : horaires, avis",
+    "meta_description": "La Pétrie Béliard & Co, boulangerie-pâtisserie à Fagnières : horaires d'ouverture, note Google 4,6/5 (226 avis), téléphone, adresse et itinéraire.",
+    "chapo": "La Pétrie Béliard & Co exerce l'activité de boulangerie-pâtisserie à Fagnières. Ouvert tous les jours sauf le dimanche au relevé du 25 octobre 2026. Téléphone : 03 26 65 29 47. Note Google : 4,6 sur 5 pour 226 avis.",
+    "sections": [
+      {
+        "id": "presentation",
+        "titre": "La Pétrie Béliard & Co en quelques mots",
+        "paragraphes": [
+          "Sur Google, l'établissement est classé « Boulangerie », dans notre rubrique Boulangerie-pâtisserie.",
+          "Niveau de prix indiqué sur la fiche Google : € (bon marché).",
+          "D'après le relevé du 25 octobre 2026, l'établissement est ouvert tous les jours sauf le dimanche. Le détail jour par jour figure plus bas."
+        ]
+      },
+      {
+        "id": "prestations",
+        "titre": "Services et équipements de La Pétrie Béliard & Co",
+        "paragraphes": [
+          "Proposé : sur place, à emporter, petit-déjeuner et café.",
+          "Non proposé selon la fiche Google : toilettes.",
+          "Moyens de paiement déclarés : carte bancaire, carte de débit et paiement sans contact.",
+          "Stationnement : parking gratuit.",
+          "Ces indications sont déclarées par l'établissement sur sa fiche Google (relevé du 25 octobre 2026)."
+        ]
+      },
+      {
+        "id": "acces",
+        "titre": "Adresse et accès",
+        "paragraphes": [
+          "L'établissement est situé, 51510 Fagnières.",
+          "Coordonnées GPS : 48.95577, 4.32060. Le bouton Itinéraire de cette page ouvre la navigation."
+        ]
+      },
+      {
+        "id": "contact",
+        "titre": "Contacter La Pétrie Béliard & Co",
+        "paragraphes": [
+          "Le contact se fait par téléphone au 03 26 65 29 47, ou directement sur place aux horaires d'ouverture."
+        ]
+      },
+      {
+        "id": "avis",
+        "titre": "La réputation de La Pétrie Béliard & Co",
+        "paragraphes": [
+          "Note de 4,6 sur 5 pour 226 avis Google au relevé du 25 octobre 2026. Les avis les plus parlants sont compilés ci-dessous, avec un lien vers la fiche d'origine."
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "q": "Quels sont les horaires de La Pétrie Béliard & Co ?",
+        "r": "Au relevé du 25 octobre 2026, La Pétrie Béliard & Co était ouvert tous les jours sauf le dimanche. Dans le détail — lundi : de 6 h 30 à 19 h ; mardi : de 6 h 30 à 19 h ; mercredi : de 6 h 30 à 19 h ; jeudi : de 6 h 30 à 19 h ; vendredi : de 6 h 30 à 19 h ; samedi : de 6 h 30 à 19 h ; dimanche : fermé. Ces horaires peuvent changer : un appel préalable reste conseillé."
+      },
+      {
+        "q": "La Pétrie Béliard & Co est-il ouvert le dimanche ?",
+        "r": "Non : d'après les horaires relevés le 25 octobre 2026, La Pétrie Béliard & Co est fermé le dimanche."
+      },
+      {
+        "q": "Où se trouve La Pétrie Béliard & Co ?",
+        "r": "La Pétrie Béliard & Co se trouve 28 bis rue des Postes 1 rue de l'ile aux moines Place des Collines, 51510 Fagnières. Un lien d'itinéraire est disponible sur cette page."
+      },
+      {
+        "q": "Comment contacter La Pétrie Béliard & Co ?",
+        "r": "Par téléphone au 03 26 65 29 47, ou directement sur place aux heures d'ouverture."
+      },
+      {
+        "q": "La Pétrie Béliard & Co propose-t-il la vente à emporter ou la livraison ?",
+        "r": "D'après sa fiche Google (relevé du 25 octobre 2026) — vente à emporter : oui."
+      },
+      {
+        "q": "Quel est le niveau de prix de La Pétrie Béliard & Co ?",
+        "r": "Google classe La Pétrie Béliard & Co au niveau de prix € (bon marché), sur une échelle de € à €€€€ établie à partir des avis clients."
+      },
+      {
+        "q": "La Pétrie Béliard & Co est-il accessible aux personnes à mobilité réduite ?",
+        "r": "La fiche Google de l'établissement mentionne : « Entrée accessible en fauteuil roulant ». Cette information est déclarative ; en cas de doute, vérifiez par téléphone."
+      }
+    ],
+    "genere_le": "2026-10-25"
+  },
+  "statut_google": "OPERATIONAL",
+  "audience": {
+    "clics": 0,
+    "impressions": 0,
+    "position": null,
+    "fenetreJours": 90,
+    "clicsRecents": 0,
+    "fenetreRecenteJours": 28,
+    "source": "search-console",
+    "date": "2026-10-25"
+  }
+}

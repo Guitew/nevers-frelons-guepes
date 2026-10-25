@@ -1,0 +1,277 @@
+{
+  "id": "ChIJ79FBlrwttBIRlqde-A1JW1g",
+  "slug": "crudi-vert",
+  "nom": "Crudi Vert",
+  "categorie": "commerces-alimentation",
+  "categorie_gmb": "Épicerie",
+  "type_principal": "grocery_store",
+  "types": [
+    "grocery_store",
+    "food_store",
+    "store",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "ville": "Nîmes",
+  "ville_slug": "nimes",
+  "adresse": {
+    "rue": "6 Route d'Alès",
+    "code_postal": "30000",
+    "departement": "30",
+    "region": "Occitanie",
+    "pays": "France",
+    "complete": "6 Rte d'Alès, 30000 Nîmes"
+  },
+  "telephone": "04 66 23 65 68",
+  "geo": {
+    "latitude": 43.8382699,
+    "longitude": 4.3448686
+  },
+  "note": 4.6,
+  "avis": 82,
+  "horaires": [
+    {
+      "jour": 0,
+      "ferme": false,
+      "creneaux": [
+        [
+          "08:30",
+          "20:00"
+        ]
+      ]
+    },
+    {
+      "jour": 1,
+      "ferme": false,
+      "creneaux": [
+        [
+          "08:30",
+          "20:00"
+        ]
+      ]
+    },
+    {
+      "jour": 2,
+      "ferme": false,
+      "creneaux": [
+        [
+          "08:30",
+          "20:00"
+        ]
+      ]
+    },
+    {
+      "jour": 3,
+      "ferme": false,
+      "creneaux": [
+        [
+          "08:30",
+          "20:00"
+        ]
+      ]
+    },
+    {
+      "jour": 4,
+      "ferme": false,
+      "creneaux": [
+        [
+          "08:30",
+          "20:00"
+        ]
+      ]
+    },
+    {
+      "jour": 5,
+      "ferme": false,
+      "creneaux": [
+        [
+          "08:30",
+          "20:00"
+        ]
+      ]
+    },
+    {
+      "jour": 6,
+      "ferme": false,
+      "creneaux": [
+        [
+          "08:30",
+          "13:00"
+        ]
+      ]
+    }
+  ],
+  "attributs": [
+    "Entrée accessible en fauteuil roulant",
+    "Parking accessible en fauteuil roulant"
+  ],
+  "lien_google": "https://maps.google.com/?cid=6366762822568683414&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
+  "site_web_gmb": null,
+  "statut": "publiee",
+  "backlink": {
+    "etat": "absent",
+    "premiere_detection": null,
+    "derniere_detection": null,
+    "derniere_verification": "2026-10-25T09:45:58.784Z",
+    "echecs": 1,
+    "url_detectee": null
+  },
+  "suggestion": {
+    "etat": "en-attente",
+    "date_soumission": null,
+    "tentatives": 0,
+    "date_email": "2026-10-25"
+  },
+  "retrait": null,
+  "dates": {
+    "collecte": "2026-10-25",
+    "publication": "2026-10-25",
+    "maj": "2026-10-25"
+  },
+  "source": "google-places",
+  "avis_detail": {
+    "releve": "2026-10-25",
+    "liste": [
+      {
+        "note": 5,
+        "texte": "Toujours un bon accueil ici quand je viens récupérer mes colis",
+        "langue": "fr",
+        "date": "2026-07-16",
+        "auteur": "R S",
+        "auteur_lien": "https://www.google.com/maps/contrib/101127931497076809812/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2t4SFJsbElXa1JtYURWaFpsTkJSbmcyV21Kb05WRRAB!2m1!1s0x12b42dbc9641d1ef:0x585b490df85ea796"
+      },
+      {
+        "note": 5,
+        "texte": "Un accueil toujours souriant et agréable.\nLes fruit/légumes sont toujours bon.\nLe service de colis est facile.\nLes pâtisserie orientale sont délicieuses.\nC'est toujours un plaisir de passer ici !",
+        "langue": "fr",
+        "date": "2026-05-20",
+        "auteur": "Joshua Wolfcarius",
+        "auteur_lien": "https://www.google.com/maps/contrib/104649811390837147357/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25kTmNIVjJTamROWVZST1YyaEROSFkxYm1Wak4xRRAB!2m1!1s0x12b42dbc9641d1ef:0x585b490df85ea796"
+      },
+      {
+        "note": 1,
+        "texte": "En voulant retirer mon colis Vinted qu’ils m’ont gentiment gardé un jour de plus, je suis reparti sans rien. En effet un employé me signale qu’il a été rangé au mauvais endroit et que de ce fait le transporteur l’a retourné (bipé retiré par l’acheteur). Rien n’a été fait pour m’aider malgré le fait qu’on prenne mon numéro pour me tenir au courant et quand je rappelle l’établissement, je tombe sur une employée qui dit en me mettant en attente et en parlant à un client je cite « il a cru qu’on était mondial relay ou quoi? » bref 0 nouvelle à ce jour, je prenais des fruits et légumes également chez eux et cette histoire m’a refroidi pour de bon.",
+        "langue": "fr",
+        "date": "2026-04-04",
+        "auteur": "Thomas thomas",
+        "auteur_lien": "https://www.google.com/maps/contrib/114316279901860214820/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xjNVpYZFhZMnRCVVdadFp6RnZiVE5FU1ZjMGQzYxAB!2m1!1s0x12b42dbc9641d1ef:0x585b490df85ea796"
+      },
+      {
+        "note": 1,
+        "texte": "Nous sommes jeudi 17h30 je tombe sur une nana avec un chignon super  mal aimable.\nElle n'a pas trouvé mon colis car je n'avais pas le code mais elle n'a pas cherché non plus ça donnait trop de travail à Madame.\nDu coup je suis parti sur les fruits et légumes et je ne mettrai plus les pieds à fuir",
+        "langue": "fr",
+        "date": "2026-01-22",
+        "auteur": "Gloria Feron",
+        "auteur_lien": "https://www.google.com/maps/contrib/112019475547772442001/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xKUFRXUkNSVkIyYzBSMVdVRlhNV3hIYmw4MWFrRRAB!2m1!1s0x12b42dbc9641d1ef:0x585b490df85ea796"
+      },
+      {
+        "note": 1,
+        "texte": "De passage un samedi en milieu d’après midi juste pour acheter quelques bouteilles, un accueil déplorable sans aucun bonjour par un Monsieur tout occupé au téléphone à gérer ses commandes de trottinette sur Amazon, ignorant le client, tendant le terminal de paiement sans même indiquer le montant….\nLe commerce de proximité n’est plus ce qu’il était ! A fuir même en dépannage !!!!",
+        "langue": "fr",
+        "date": "2025-08-09",
+        "auteur": "Letaillandier Christelle",
+        "auteur_lien": "https://www.google.com/maps/contrib/113237742052867672788/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2kxQmF6Rlphams0WkdaT1VXNW5TamhJYTJOR1VWRRAB!2m1!1s0x12b42dbc9641d1ef:0x585b490df85ea796"
+      }
+    ]
+  },
+  "services": {
+    "releve": "2026-10-25",
+    "options": {
+      "restroom": false
+    },
+    "paiement": [
+      "carte bancaire",
+      "carte de débit",
+      "paiement sans contact"
+    ],
+    "parking": []
+  },
+  "redaction": {
+    "version": 2,
+    "titre": "Crudi Vert — Commerce d'alimentation à Nîmes",
+    "meta_titre": "Crudi Vert à Nîmes : horaires, avis, téléphone",
+    "meta_description": "Crudi Vert, commerce d'alimentation à Nîmes : horaires d'ouverture, note Google 4,6/5 (82 avis), téléphone, adresse et itinéraire.",
+    "chapo": "Crudi Vert, commerce d'alimentation au 6 Route d'Alès, à Nîmes. Ouvert sept jours sur sept au relevé du 25 octobre 2026. Téléphone : 04 66 23 65 68. Note Google : 4,6 sur 5 pour 82 avis.",
+    "sections": [
+      {
+        "id": "presentation",
+        "titre": "Crudi Vert en quelques mots",
+        "paragraphes": [
+          "Sur Google, l'établissement est classé « Épicerie », dans notre rubrique Commerce d'alimentation.",
+          "D'après le relevé du 25 octobre 2026, l'établissement est ouvert sept jours sur sept. Le détail jour par jour figure plus bas."
+        ]
+      },
+      {
+        "id": "prestations",
+        "titre": "Services et équipements de Crudi Vert",
+        "paragraphes": [
+          "Non proposé selon la fiche Google : toilettes.",
+          "Moyens de paiement déclarés : carte bancaire, carte de débit et paiement sans contact.",
+          "Ces indications sont déclarées par l'établissement sur sa fiche Google (relevé du 25 octobre 2026)."
+        ]
+      },
+      {
+        "id": "acces",
+        "titre": "Adresse et accès",
+        "paragraphes": [
+          "L'établissement est situé au 6 Route d'Alès, 30000 Nîmes.",
+          "Coordonnées GPS : 43.83827, 4.34487. Le bouton Itinéraire de cette page ouvre la navigation."
+        ]
+      },
+      {
+        "id": "contact",
+        "titre": "Contacter Crudi Vert",
+        "paragraphes": [
+          "Le contact se fait par téléphone au 04 66 23 65 68, ou directement sur place aux horaires d'ouverture."
+        ]
+      },
+      {
+        "id": "avis",
+        "titre": "La réputation de Crudi Vert",
+        "paragraphes": [
+          "Note de 4,6 sur 5 pour 82 avis Google au relevé du 25 octobre 2026. Les avis les plus parlants sont compilés ci-dessous, avec un lien vers la fiche d'origine."
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "q": "Quels sont les horaires de Crudi Vert ?",
+        "r": "Au relevé du 25 octobre 2026, Crudi Vert était ouvert sept jours sur sept. Dans le détail — lundi : de 8 h 30 à 20 h ; mardi : de 8 h 30 à 20 h ; mercredi : de 8 h 30 à 20 h ; jeudi : de 8 h 30 à 20 h ; vendredi : de 8 h 30 à 20 h ; samedi : de 8 h 30 à 20 h ; dimanche : de 8 h 30 à 13 h. Ces horaires peuvent changer : un appel préalable reste conseillé."
+      },
+      {
+        "q": "Crudi Vert est-il ouvert le dimanche ?",
+        "r": "Oui : le dimanche, Crudi Vert est ouvert de 8 h 30 à 13 h (horaires relevés le 25 octobre 2026)."
+      },
+      {
+        "q": "Où se trouve Crudi Vert ?",
+        "r": "Crudi Vert se trouve 6 Rte d'Alès, 30000 Nîmes. Un lien d'itinéraire est disponible sur cette page."
+      },
+      {
+        "q": "Comment contacter Crudi Vert ?",
+        "r": "Par téléphone au 04 66 23 65 68, ou directement sur place aux heures d'ouverture."
+      },
+      {
+        "q": "Crudi Vert est-il accessible aux personnes à mobilité réduite ?",
+        "r": "La fiche Google de l'établissement mentionne : « Entrée accessible en fauteuil roulant ». Cette information est déclarative ; en cas de doute, vérifiez par téléphone."
+      }
+    ],
+    "genere_le": "2026-10-25"
+  },
+  "statut_google": "OPERATIONAL",
+  "audience": {
+    "clics": 0,
+    "impressions": 0,
+    "position": null,
+    "fenetreJours": 90,
+    "clicsRecents": 0,
+    "fenetreRecenteJours": 28,
+    "source": "search-console",
+    "date": "2026-10-25"
+  }
+}

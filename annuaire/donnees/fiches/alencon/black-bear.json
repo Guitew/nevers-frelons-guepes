@@ -26,7 +26,7 @@
     "longitude": 0.0887669
   },
   "note": 4.5,
-  "avis": 290,
+  "avis": 291,
   "horaires": [
     {
       "jour": 0,
@@ -110,8 +110,8 @@
     "etat": "absent",
     "premiere_detection": null,
     "derniere_detection": null,
-    "derniere_verification": "2026-10-10T11:08:55.541Z",
-    "echecs": 76,
+    "derniere_verification": "2026-10-25T09:45:58.784Z",
+    "echecs": 77,
     "url_detectee": null
   },
   "suggestion": {
@@ -129,22 +129,33 @@
   "dates": {
     "collecte": "2026-09-02",
     "publication": "2026-09-02",
-    "maj": "2026-10-19"
+    "maj": "2026-10-25"
   },
   "source": "google-places",
   "redaction": {
     "version": 2,
     "titre": "Black Bear — Café ou bar à Alençon",
     "meta_titre": "Black Bear à Alençon : horaires, avis, téléphone",
-    "meta_description": "Black Bear, café ou bar à Alençon : horaires d'ouverture, note Google 4,5/5 (290 avis), téléphone, adresse et itinéraire.",
-    "chapo": "Black Bear exerce l'activité de café ou bar au 31 Rue du Pont Neuf, à Alençon. Ouvert sept jours sur sept au relevé du 18 octobre 2026. Téléphone : 06 14 09 42 83. Note Google : 4,5 sur 5 pour 290 avis.",
+    "meta_description": "Black Bear, café ou bar à Alençon : horaires d'ouverture, note Google 4,5/5 (291 avis), téléphone, adresse et itinéraire.",
+    "chapo": "Black Bear exerce l'activité de café ou bar au 31 Rue du Pont Neuf, à Alençon. Ouvert sept jours sur sept au relevé du 25 octobre 2026. Téléphone : 06 14 09 42 83. Note Google : 4,5 sur 5 pour 291 avis.",
     "sections": [
       {
         "id": "presentation",
         "titre": "Black Bear en quelques mots",
         "paragraphes": [
           "Sur Google, l'établissement est classé « Bar », dans notre rubrique Café ou bar.",
-          "D'après le relevé du 18 octobre 2026, l'établissement est ouvert sept jours sur sept. Le détail jour par jour figure plus bas."
+          "Niveau de prix indiqué sur la fiche Google : €€ (modéré).",
+          "D'après le relevé du 25 octobre 2026, l'établissement est ouvert sept jours sur sept. Le détail jour par jour figure plus bas."
+        ]
+      },
+      {
+        "id": "prestations",
+        "titre": "Services et équipements de Black Bear",
+        "paragraphes": [
+          "Proposé : sur place, réservation possible, terrasse, bière, vin, cocktails, adapté aux groupes, retransmissions sportives, musique live et toilettes.",
+          "Non proposé selon la fiche Google : à emporter, livraison et adapté aux enfants.",
+          "Moyens de paiement déclarés : carte bancaire, carte de débit et paiement sans contact.",
+          "Ces indications sont déclarées par l'établissement sur sa fiche Google (relevé du 25 octobre 2026)."
         ]
       },
       {
@@ -159,25 +170,26 @@
         "id": "contact",
         "titre": "Contacter Black Bear",
         "paragraphes": [
-          "Le contact se fait par téléphone au 06 14 09 42 83, ou directement sur place aux horaires d'ouverture."
+          "Le contact se fait par téléphone au 06 14 09 42 83, ou directement sur place aux horaires d'ouverture.",
+          "La fiche Google indique que la réservation est possible."
         ]
       },
       {
         "id": "avis",
         "titre": "La réputation de Black Bear",
         "paragraphes": [
-          "Note de 4,5 sur 5 pour 290 avis Google au relevé du 18 octobre 2026. Les avis se consultent sur la fiche Google, dont le lien figure sur cette page."
+          "Note de 4,5 sur 5 pour 291 avis Google au relevé du 25 octobre 2026. Les avis les plus parlants sont compilés ci-dessous, avec un lien vers la fiche d'origine."
         ]
       }
     ],
     "faq": [
       {
         "q": "Quels sont les horaires de Black Bear ?",
-        "r": "Au relevé du 18 octobre 2026, Black Bear était ouvert sept jours sur sept. Dans le détail — lundi : de 16 h à 23 h ; mardi : de 16 h à 23 h ; mercredi : de 16 h à 23 h ; jeudi : de 16 h à 1 h ; vendredi : de 16 h à 1 h ; samedi : de 16 h à 1 h ; dimanche : de 16 h à 23 h. Ces horaires peuvent changer : un appel préalable reste conseillé."
+        "r": "Au relevé du 25 octobre 2026, Black Bear était ouvert sept jours sur sept. Dans le détail — lundi : de 16 h à 23 h ; mardi : de 16 h à 23 h ; mercredi : de 16 h à 23 h ; jeudi : de 16 h à 1 h ; vendredi : de 16 h à 1 h ; samedi : de 16 h à 1 h ; dimanche : de 16 h à 23 h. Ces horaires peuvent changer : un appel préalable reste conseillé."
       },
       {
         "q": "Black Bear est-il ouvert le dimanche ?",
-        "r": "Oui : le dimanche, Black Bear est ouvert de 16 h à 23 h (horaires relevés le 18 octobre 2026)."
+        "r": "Oui : le dimanche, Black Bear est ouvert de 16 h à 23 h (horaires relevés le 25 octobre 2026)."
       },
       {
         "q": "Où se trouve Black Bear ?",
@@ -188,11 +200,23 @@
         "r": "Par téléphone au 06 14 09 42 83, ou directement sur place aux heures d'ouverture."
       },
       {
+        "q": "Peut-on réserver chez Black Bear ?",
+        "r": "Oui, la fiche Google de Black Bear indique que la réservation est possible, par téléphone au 06 14 09 42 83."
+      },
+      {
+        "q": "Black Bear propose-t-il la vente à emporter ou la livraison ?",
+        "r": "D'après sa fiche Google (relevé du 25 octobre 2026) — vente à emporter : non ; livraison : non."
+      },
+      {
+        "q": "Quel est le niveau de prix de Black Bear ?",
+        "r": "Google classe Black Bear au niveau de prix €€ (modéré), sur une échelle de € à €€€€ établie à partir des avis clients."
+      },
+      {
         "q": "Black Bear est-il accessible aux personnes à mobilité réduite ?",
         "r": "La fiche Google de l'établissement mentionne : « Entrée accessible en fauteuil roulant ». Cette information est déclarative ; en cas de doute, vérifiez par téléphone."
       }
     ],
-    "genere_le": "2026-10-18"
+    "genere_le": "2026-10-25"
   },
   "statut_google": "OPERATIONAL",
   "audience": {
@@ -203,7 +227,7 @@
     "clicsRecents": 0,
     "fenetreRecenteJours": 28,
     "source": "search-console",
-    "date": "2026-10-24"
+    "date": "2026-10-25"
   },
   "indexation": {
     "etat": "non-indexee",
@@ -213,5 +237,80 @@
     "canonique_google": null,
     "source": "inspection",
     "date": "2026-10-19"
+  },
+  "avis_detail": {
+    "releve": "2026-10-25",
+    "liste": [
+      {
+        "note": 1,
+        "texte": "Déçu de ce bar que je fréquentais depuis 1an, ce soir 45min de route pour venir et refusé car une personne de notre groupe n’avait pas sa carte d’identité. Nous avions tous 25ans donc je trouve ça un peu ridicule. Le videur était insultant à la fin, pas du tout professionnel.",
+        "langue": "fr",
+        "date": "2026-05-30",
+        "auteur": "leonard degonzagues",
+        "auteur_lien": "https://www.google.com/maps/contrib/102597623218263433430/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2poWFZIZGFiMVl6UkZscVNqbHNUbmx4TUMxNmNHYxAB!2m1!1s0x47e20dbb04f16bf3:0x6d9702032cd248ca"
+      },
+      {
+        "note": 2,
+        "texte": "Soir de LDC, je peux comprendre la pression. En revanche j’ai plus de mal comprendre le manque de respect. Je n’ai pas à subir la mauvaise humeur des videurs et encore moins me faire manquer de respect. 3 ans qu’on vient même pas un peu de sympathie.",
+        "langue": "fr",
+        "date": "2026-05-30",
+        "auteur": "GSX CR (GSX CR)",
+        "auteur_lien": "https://www.google.com/maps/contrib/103375626267783934018/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xoa2NHWXhVRlF6Wkd0aVRrTkdiSEIxWjI1MGNFRRAB!2m1!1s0x47e20dbb04f16bf3:0x6d9702032cd248ca"
+      },
+      {
+        "note": 5,
+        "texte": "Venu ce jour le 22 mai 2026 . Super ambiance belle terrasse . Pas mal de choix de bière.  Meilleur bar qur alencon a ma connaissance.  Je reviendrais sans hesiter",
+        "langue": "fr",
+        "date": "2026-05-23",
+        "auteur": "Thomas Wilson",
+        "auteur_lien": "https://www.google.com/maps/contrib/106332199042148129298/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2pSUVgyNW5TVUY2VTJKSlVIbzRZV3h2UVZsNVNWRRAB!2m1!1s0x47e20dbb04f16bf3:0x6d9702032cd248ca"
+      },
+      {
+        "note": 5,
+        "texte": "Un bar sympa et atypique\nLes serveurs sont sympas\nGrande variété de bière et de cocktails",
+        "langue": "fr",
+        "date": "2026-02-01",
+        "auteur": "Marie ProutProut",
+        "auteur_lien": "https://www.google.com/maps/contrib/114043172884232456239/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2tod2MwNHphR0k0U1hOUFkzSmZUM2M0YVdGd2FtYxAB!2m1!1s0x47e20dbb04f16bf3:0x6d9702032cd248ca"
+      },
+      {
+        "note": 5,
+        "texte": "Découverte de ce bar hier. Dommage il pleuvait pour pouvoir profiter de la terrasse qui est sur les bords de rivière.\nEndroit très convivial et familial.  A refaire. Très bel endroit. Le personnel et le patron sont très sympathiques et accueillants.",
+        "langue": "fr",
+        "date": "2023-06-19",
+        "auteur": "Ninicke 61",
+        "auteur_lien": "https://www.google.com/maps/contrib/108561843241345229145/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUNKOFBxd2N3EAE!2m1!1s0x47e20dbb04f16bf3:0x6d9702032cd248ca"
+      }
+    ]
+  },
+  "services": {
+    "releve": "2026-10-25",
+    "prix": "PRICE_LEVEL_MODERATE",
+    "options": {
+      "dineIn": true,
+      "takeout": false,
+      "delivery": false,
+      "reservable": true,
+      "outdoorSeating": true,
+      "servesBeer": true,
+      "servesWine": true,
+      "servesCocktails": true,
+      "goodForChildren": false,
+      "goodForGroups": true,
+      "goodForWatchingSports": true,
+      "liveMusic": true,
+      "restroom": true
+    },
+    "paiement": [
+      "carte bancaire",
+      "carte de débit",
+      "paiement sans contact"
+    ],
+    "parking": []
   }
 }

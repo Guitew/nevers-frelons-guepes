@@ -42,8 +42,8 @@
     "etat": "absent",
     "premiere_detection": null,
     "derniere_detection": null,
-    "derniere_verification": "2026-10-10T11:08:55.541Z",
-    "echecs": 7,
+    "derniere_verification": "2026-10-25T09:45:58.784Z",
+    "echecs": 8,
     "url_detectee": null
   },
   "suggestion": {
@@ -63,7 +63,7 @@
   "dates": {
     "collecte": "2026-10-05",
     "publication": "2026-10-05",
-    "maj": "2026-10-18"
+    "maj": "2026-10-25"
   },
   "source": "google-places",
   "redaction": {
@@ -77,7 +77,17 @@
         "id": "presentation",
         "titre": "Boulangerie Megardon Jean Marc Jean Marc en quelques mots",
         "paragraphes": [
-          "Sur Google, l'établissement est classé « Boulangerie », dans notre rubrique Boulangerie-pâtisserie."
+          "Sur Google, l'établissement est classé « Boulangerie », dans notre rubrique Boulangerie-pâtisserie.",
+          "Niveau de prix indiqué sur la fiche Google : € (bon marché)."
+        ]
+      },
+      {
+        "id": "prestations",
+        "titre": "Services et équipements de Boulangerie Megardon Jean Marc Jean Marc",
+        "paragraphes": [
+          "Non proposé selon la fiche Google : sur place et livraison.",
+          "Moyens de paiement déclarés : carte bancaire et carte de débit.",
+          "Ces indications sont déclarées par l'établissement sur sa fiche Google (relevé du 25 octobre 2026)."
         ]
       },
       {
@@ -99,7 +109,7 @@
         "id": "avis",
         "titre": "La réputation de Boulangerie Megardon Jean Marc Jean Marc",
         "paragraphes": [
-          "Note de 4,3 sur 5 pour 18 avis Google au relevé du 10 octobre 2026. Les avis se consultent sur la fiche Google, dont le lien figure sur cette page."
+          "Note de 4,3 sur 5 pour 18 avis Google au relevé du 25 octobre 2026. Les avis les plus parlants sont compilés ci-dessous, avec un lien vers la fiche d'origine."
         ]
       }
     ],
@@ -113,11 +123,19 @@
         "r": "Par téléphone au 05 34 09 04 23, ou directement sur place aux heures d'ouverture."
       },
       {
+        "q": "Boulangerie Megardon Jean Marc Jean Marc propose-t-il la vente à emporter ou la livraison ?",
+        "r": "D'après sa fiche Google (relevé du 25 octobre 2026) — livraison : non."
+      },
+      {
+        "q": "Quel est le niveau de prix de Boulangerie Megardon Jean Marc Jean Marc ?",
+        "r": "Google classe Boulangerie Megardon Jean Marc Jean Marc au niveau de prix € (bon marché), sur une échelle de € à €€€€ établie à partir des avis clients."
+      },
+      {
         "q": "Boulangerie Megardon Jean Marc Jean Marc est-il accessible aux personnes à mobilité réduite ?",
         "r": "La fiche Google de l'établissement mentionne : « Entrée accessible en fauteuil roulant ». Cette information est déclarative ; en cas de doute, vérifiez par téléphone."
       }
     ],
-    "genere_le": "2026-10-10"
+    "genere_le": "2026-10-25"
   },
   "statut_google": "OPERATIONAL",
   "audience": {
@@ -128,6 +146,69 @@
     "clicsRecents": 0,
     "fenetreRecenteJours": 28,
     "source": "search-console",
-    "date": "2026-10-24"
+    "date": "2026-10-25"
+  },
+  "avis_detail": {
+    "releve": "2026-10-25",
+    "liste": [
+      {
+        "note": 1,
+        "texte": "Pour un boulanger les croissants et chocolatine ne sont pas très fraîches voir de la veille très très déçue",
+        "langue": "fr",
+        "date": "2026-01-31",
+        "auteur": "Richard Renaud",
+        "auteur_lien": "https://www.google.com/maps/contrib/104873325560569789315/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25GdlprMVBTMWhUTURsb1dGVXlNMjVrYkRaWlVrRRAB!2m1!1s0x12af16f86d9e921f:0x2336f9000843d01f"
+      },
+      {
+        "note": 3,
+        "texte": "C'est pas mal.\nMais ça reste du pain blanc avec des farines vraiment très raffinées et traitées. Pain levé à la levure. Dommage le pain c'est chouette quand il est au levain avec des bonnes farines  plus complètes. Et le prix et pas plus élevé une boulangerie pain au levain farine bio vend ses pains 5e le kilo.",
+        "langue": "fr",
+        "date": "2024-12-27",
+        "auteur": "Jeremy Servat",
+        "auteur_lien": "https://www.google.com/maps/contrib/109075409996545426688/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUNmMHRYcDlnRRAB!2m1!1s0x12af16f86d9e921f:0x2336f9000843d01f"
+      },
+      {
+        "note": 5,
+        "texte": "Meilleure boulangerie  de foix et ses environs",
+        "langue": "fr",
+        "date": "2022-04-05",
+        "auteur": "Corinne Casse",
+        "auteur_lien": "https://www.google.com/maps/contrib/110221884730162347295/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSURXaDR6U0JREAE!2m1!1s0x12af16f86d9e921f:0x2336f9000843d01f"
+      },
+      {
+        "note": 4,
+        "texte": "Excellente boulangerie, accueil chaleureux et pain fabuleux.",
+        "langue": "fr",
+        "date": "2022-03-06",
+        "auteur": "Jacques Garaud",
+        "auteur_lien": "https://www.google.com/maps/contrib/104348397804667282173/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUNXczhtVHhRRRAB!2m1!1s0x12af16f86d9e921f:0x2336f9000843d01f"
+      },
+      {
+        "note": 4,
+        "texte": "Pains excellents avec une gamme pour tous les goûts.",
+        "langue": "fr",
+        "date": "2021-04-15",
+        "auteur": "Michel Jaegle",
+        "auteur_lien": "https://www.google.com/maps/contrib/117158417092810531956/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUNLbloyUTd3RRAB!2m1!1s0x12af16f86d9e921f:0x2336f9000843d01f"
+      }
+    ]
+  },
+  "services": {
+    "releve": "2026-10-25",
+    "prix": "PRICE_LEVEL_INEXPENSIVE",
+    "options": {
+      "dineIn": false,
+      "delivery": false
+    },
+    "paiement": [
+      "carte bancaire",
+      "carte de débit"
+    ],
+    "parking": []
   }
 }

@@ -129,8 +129,8 @@
     "etat": "absent",
     "premiere_detection": null,
     "derniere_detection": null,
-    "derniere_verification": "2026-10-10T11:08:55.541Z",
-    "echecs": 41,
+    "derniere_verification": "2026-10-25T09:45:58.784Z",
+    "echecs": 42,
     "url_detectee": null
   },
   "suggestion": {
@@ -143,7 +143,7 @@
   "dates": {
     "collecte": "2026-09-18",
     "publication": "2026-09-18",
-    "maj": "2026-10-10"
+    "maj": "2026-10-25"
   },
   "source": "google-places",
   "redaction": {
@@ -151,14 +151,25 @@
     "titre": "Boulangerie Massat — Boulangerie-pâtisserie à Foix",
     "meta_titre": "Boulangerie Massat à Foix : horaires, avis, téléphone",
     "meta_description": "Boulangerie Massat, boulangerie-pâtisserie à Foix : horaires d'ouverture, note Google 4,6/5 (138 avis), téléphone, adresse et itinéraire.",
-    "chapo": "Boulangerie Massat exerce l'activité de boulangerie-pâtisserie au 18 Rue de la Faurie, à Foix. Ouvert tous les jours sauf le dimanche au relevé du 10 octobre 2026. Téléphone : 05 61 65 10 52. Note Google : 4,6 sur 5 pour 138 avis.",
+    "chapo": "Boulangerie Massat exerce l'activité de boulangerie-pâtisserie au 18 Rue de la Faurie, à Foix. Ouvert tous les jours sauf le dimanche au relevé du 25 octobre 2026. Téléphone : 05 61 65 10 52. Note Google : 4,6 sur 5 pour 138 avis.",
     "sections": [
       {
         "id": "presentation",
         "titre": "Boulangerie Massat en quelques mots",
         "paragraphes": [
           "Sur Google, l'établissement est classé « Boulangerie », dans notre rubrique Boulangerie-pâtisserie.",
-          "D'après le relevé du 10 octobre 2026, l'établissement est ouvert tous les jours sauf le dimanche. Le détail jour par jour figure plus bas."
+          "Niveau de prix indiqué sur la fiche Google : € (bon marché).",
+          "D'après le relevé du 25 octobre 2026, l'établissement est ouvert tous les jours sauf le dimanche. Le détail jour par jour figure plus bas."
+        ]
+      },
+      {
+        "id": "prestations",
+        "titre": "Services et équipements de Boulangerie Massat",
+        "paragraphes": [
+          "Proposé : à emporter et petit-déjeuner.",
+          "Non proposé selon la fiche Google : livraison.",
+          "Moyens de paiement déclarés : carte bancaire, carte de débit et paiement sans contact.",
+          "Ces indications sont déclarées par l'établissement sur sa fiche Google (relevé du 25 octobre 2026)."
         ]
       },
       {
@@ -180,18 +191,18 @@
         "id": "avis",
         "titre": "La réputation de Boulangerie Massat",
         "paragraphes": [
-          "Note de 4,6 sur 5 pour 138 avis Google au relevé du 10 octobre 2026. Les avis se consultent sur la fiche Google, dont le lien figure sur cette page."
+          "Note de 4,6 sur 5 pour 138 avis Google au relevé du 25 octobre 2026. Les avis les plus parlants sont compilés ci-dessous, avec un lien vers la fiche d'origine."
         ]
       }
     ],
     "faq": [
       {
         "q": "Quels sont les horaires de Boulangerie Massat ?",
-        "r": "Au relevé du 10 octobre 2026, Boulangerie Massat était ouvert tous les jours sauf le dimanche. Dans le détail — lundi : de 7 h à 13 h et de 15 h à 19 h ; mardi : de 7 h à 13 h et de 15 h à 19 h ; mercredi : de 7 h à 13 h et de 15 h à 19 h ; jeudi : de 7 h à 13 h et de 15 h à 19 h ; vendredi : de 7 h à 13 h et de 15 h à 19 h ; samedi : de 7 h à 13 h et de 15 h à 19 h ; dimanche : fermé. Ces horaires peuvent changer : un appel préalable reste conseillé."
+        "r": "Au relevé du 25 octobre 2026, Boulangerie Massat était ouvert tous les jours sauf le dimanche. Dans le détail — lundi : de 7 h à 13 h et de 15 h à 19 h ; mardi : de 7 h à 13 h et de 15 h à 19 h ; mercredi : de 7 h à 13 h et de 15 h à 19 h ; jeudi : de 7 h à 13 h et de 15 h à 19 h ; vendredi : de 7 h à 13 h et de 15 h à 19 h ; samedi : de 7 h à 13 h et de 15 h à 19 h ; dimanche : fermé. Ces horaires peuvent changer : un appel préalable reste conseillé."
       },
       {
         "q": "Boulangerie Massat est-il ouvert le dimanche ?",
-        "r": "Non : d'après les horaires relevés le 10 octobre 2026, Boulangerie Massat est fermé le dimanche."
+        "r": "Non : d'après les horaires relevés le 25 octobre 2026, Boulangerie Massat est fermé le dimanche."
       },
       {
         "q": "Où se trouve Boulangerie Massat ?",
@@ -200,9 +211,17 @@
       {
         "q": "Comment contacter Boulangerie Massat ?",
         "r": "Par téléphone au 05 61 65 10 52, ou directement sur place aux heures d'ouverture."
+      },
+      {
+        "q": "Boulangerie Massat propose-t-il la vente à emporter ou la livraison ?",
+        "r": "D'après sa fiche Google (relevé du 25 octobre 2026) — vente à emporter : oui ; livraison : non."
+      },
+      {
+        "q": "Quel est le niveau de prix de Boulangerie Massat ?",
+        "r": "Google classe Boulangerie Massat au niveau de prix € (bon marché), sur une échelle de € à €€€€ établie à partir des avis clients."
       }
     ],
-    "genere_le": "2026-10-10"
+    "genere_le": "2026-10-25"
   },
   "statut_google": "OPERATIONAL",
   "audience": {
@@ -213,6 +232,71 @@
     "clicsRecents": 0,
     "fenetreRecenteJours": 28,
     "source": "search-console",
-    "date": "2026-10-24"
+    "date": "2026-10-25"
+  },
+  "avis_detail": {
+    "releve": "2026-10-25",
+    "liste": [
+      {
+        "note": 5,
+        "texte": "Une petite boulangerie à l'ancienne avec un four plus que centenaire dont la maquette se trouve dans le magasin.  Du bon pain avec une préparation de la pâte faite comme il se doit en laissant reposer juste ce qu'il faut avec de bons ingrédients.  Une vraie boulangerie, un vrai boulanger et un boulanger vrai.",
+        "langue": "fr",
+        "date": "2026-03-30",
+        "auteur": "Jerome salsero",
+        "auteur_lien": "https://www.google.com/maps/contrib/117442059447372786367/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25OYVREVlFXRlF5TTBGbVVsODJNWEJUWmxSaU1YYxAB!2m1!1s0x12af1128c566df05:0x958592b25c897c24"
+      },
+      {
+        "note": 5,
+        "texte": "C'était la meilleure pizza boulangerie de ma vie et j'en ai fais des endroits, je viens d'une grande ville avec 1001 choix mais laissez moi vous dire que le goût, la qualité et l'accueil sont incomparable. Le four à bois un vrai plus aussi, je reviendrai avec TRÈS grand plaisir pour tout goûter!",
+        "langue": "fr",
+        "date": "2026-01-03",
+        "auteur": "Amal Ben (Amalb.art)",
+        "auteur_lien": "https://www.google.com/maps/contrib/118330548660923777427/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2t0ek4zQlFNRlpJTkRNMVZYVktVM0ZoVDJOdVJuYxAB!2m1!1s0x12af1128c566df05:0x958592b25c897c24"
+      },
+      {
+        "note": 5,
+        "texte": "Meilleur chausson aux pommes que j'ai jamais mangé.\nMeilleure chocolatine jamais mangée.\nPain complet délicieux et fougasse également. Merci monsieur le boulanger pour ce régal des papilles 👍",
+        "langue": "fr",
+        "date": "2025-11-10",
+        "auteur": "Anita Pellizzoni",
+        "auteur_lien": "https://www.google.com/maps/contrib/114679195049478442331/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2t0MlZERTRPVnBXTmtSUlZsUTFaa05DZDFWek4xRRAB!2m1!1s0x12af1128c566df05:0x958592b25c897c24"
+      },
+      {
+        "note": 5,
+        "texte": "Petit détour dans les rues de Foix,puis là... découverte d'une boulangerie comme on aimerait avoir à côté de chez nous au quotidien.\nPain fait avec amour,on voit l'amour du métier, artisan également je recommande sans hésiter.",
+        "langue": "fr",
+        "date": "2025-08-31",
+        "auteur": "Bou Bou",
+        "auteur_lien": "https://www.google.com/maps/contrib/113144730306268887359/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT21ab2FHaHplbWxIVm1WSFNsaFBjMVp6VUdoWFFYYxAB!2m1!1s0x12af1128c566df05:0x958592b25c897c24"
+      },
+      {
+        "note": 5,
+        "texte": "Je suis venue dans cette boulangerie par recommandation et, en entrant, j'ai tout de suite aimé l'atmosphère de la boutique. J'ai ressenti de la chaleur humaine, de la sympathie, une ambiance de familiarité.\nJ'ai trouvé le boulanger et la serveuse sympathiques.\nJ'ai acheté une fougasse et un pain aux noix pour un tout de 4€50.\nJe me régale. La fougasse est moelleuse et savoureuse.",
+        "langue": "fr",
+        "date": "2024-08-05",
+        "auteur": "Violaine Sabatier",
+        "auteur_lien": "https://www.google.com/maps/contrib/118023957317005537259/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSURidHFPRUVREAE!2m1!1s0x12af1128c566df05:0x958592b25c897c24"
+      }
+    ]
+  },
+  "services": {
+    "releve": "2026-10-25",
+    "prix": "PRICE_LEVEL_INEXPENSIVE",
+    "options": {
+      "takeout": true,
+      "delivery": false,
+      "servesBreakfast": true
+    },
+    "paiement": [
+      "carte bancaire",
+      "carte de débit",
+      "paiement sans contact"
+    ],
+    "parking": []
   }
 }

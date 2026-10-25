@@ -28,7 +28,7 @@
     "longitude": 1.4352083999999998
   },
   "note": 4.2,
-  "avis": 2105,
+  "avis": 2111,
   "horaires": [
     {
       "jour": 0,
@@ -111,8 +111,8 @@
     "etat": "absent",
     "premiere_detection": null,
     "derniere_detection": null,
-    "derniere_verification": "2026-10-10T11:08:55.541Z",
-    "echecs": 75,
+    "derniere_verification": "2026-10-25T09:45:58.784Z",
+    "echecs": 76,
     "url_detectee": null
   },
   "suggestion": {
@@ -130,22 +130,35 @@
   "dates": {
     "collecte": "2026-09-01",
     "publication": "2026-09-01",
-    "maj": "2026-10-19"
+    "maj": "2026-10-25"
   },
   "source": "google-places",
   "redaction": {
     "version": 2,
     "titre": "Chez Tonton — Café ou bar à Toulouse",
     "meta_titre": "Chez Tonton à Toulouse : horaires, avis, téléphone",
-    "meta_description": "Chez Tonton, café ou bar à Toulouse : horaires d'ouverture, note Google 4,2/5 (2105 avis), téléphone, adresse et itinéraire.",
-    "chapo": "Chez Tonton est un café ou bar au 16 Place Saint-Pierre, à Toulouse. Ouvert sept jours sur sept au relevé du 18 octobre 2026. Téléphone : 05 61 21 89 54. Note Google : 4,2 sur 5 pour 2105 avis.",
+    "meta_description": "Chez Tonton, café ou bar à Toulouse : horaires d'ouverture, note Google 4,2/5 (2111 avis), téléphone, adresse et itinéraire.",
+    "chapo": "Chez Tonton est un café ou bar au 16 Place Saint-Pierre, à Toulouse. Ouvert sept jours sur sept au relevé du 25 octobre 2026. Téléphone : 05 61 21 89 54. Note Google : 4,2 sur 5 pour 2111 avis.",
     "sections": [
       {
         "id": "presentation",
         "titre": "Chez Tonton en quelques mots",
         "paragraphes": [
+          "Présentation donnée par Google : « Bar de nuit prisé des étudiants, au décor festif et bon enfant. Événements, pétanques et soirées à thèmes. »",
           "Sur Google, l'établissement est classé « Bar », dans notre rubrique Café ou bar.",
-          "D'après le relevé du 18 octobre 2026, l'établissement est ouvert sept jours sur sept. Le détail jour par jour figure plus bas."
+          "Niveau de prix indiqué sur la fiche Google : €€ (modéré).",
+          "D'après le relevé du 25 octobre 2026, l'établissement est ouvert sept jours sur sept. Le détail jour par jour figure plus bas."
+        ]
+      },
+      {
+        "id": "prestations",
+        "titre": "Services et équipements de Chez Tonton",
+        "paragraphes": [
+          "Proposé : sur place, terrasse, bière, vin, cocktails, adapté aux groupes, retransmissions sportives et toilettes.",
+          "Non proposé selon la fiche Google : à emporter, livraison, réservation possible, adapté aux enfants, musique live et chiens acceptés.",
+          "Moyens de paiement déclarés : carte bancaire, carte de débit et paiement sans contact.",
+          "Stationnement : parking payant et stationnement payant dans la rue.",
+          "Ces indications sont déclarées par l'établissement sur sa fiche Google (relevé du 25 octobre 2026)."
         ]
       },
       {
@@ -167,18 +180,18 @@
         "id": "avis",
         "titre": "La réputation de Chez Tonton",
         "paragraphes": [
-          "Note de 4,2 sur 5 pour 2105 avis Google au relevé du 18 octobre 2026. Les avis se consultent sur la fiche Google, dont le lien figure sur cette page."
+          "Note de 4,2 sur 5 pour 2111 avis Google au relevé du 25 octobre 2026. Les avis les plus parlants sont compilés ci-dessous, avec un lien vers la fiche d'origine."
         ]
       }
     ],
     "faq": [
       {
         "q": "Quels sont les horaires de Chez Tonton ?",
-        "r": "Au relevé du 18 octobre 2026, Chez Tonton était ouvert sept jours sur sept. Dans le détail — lundi : de 7 h à 2 h ; mardi : de 7 h à 2 h ; mercredi : de 7 h à 2 h ; jeudi : de 7 h à 2 h ; vendredi : de 7 h à 2 h ; samedi : de 9 h à 3 h ; dimanche : de 11 h à 2 h. Ces horaires peuvent changer : un appel préalable reste conseillé."
+        "r": "Au relevé du 25 octobre 2026, Chez Tonton était ouvert sept jours sur sept. Dans le détail — lundi : de 7 h à 2 h ; mardi : de 7 h à 2 h ; mercredi : de 7 h à 2 h ; jeudi : de 7 h à 2 h ; vendredi : de 7 h à 2 h ; samedi : de 9 h à 3 h ; dimanche : de 11 h à 2 h. Ces horaires peuvent changer : un appel préalable reste conseillé."
       },
       {
         "q": "Chez Tonton est-il ouvert le dimanche ?",
-        "r": "Oui : le dimanche, Chez Tonton est ouvert de 11 h à 2 h (horaires relevés le 18 octobre 2026)."
+        "r": "Oui : le dimanche, Chez Tonton est ouvert de 11 h à 2 h (horaires relevés le 25 octobre 2026)."
       },
       {
         "q": "Où se trouve Chez Tonton ?",
@@ -189,11 +202,23 @@
         "r": "Par téléphone au 05 61 21 89 54, ou directement sur place aux heures d'ouverture."
       },
       {
+        "q": "Peut-on réserver chez Chez Tonton ?",
+        "r": "La fiche Google de Chez Tonton indique que la réservation n'est pas proposée."
+      },
+      {
+        "q": "Chez Tonton propose-t-il la vente à emporter ou la livraison ?",
+        "r": "D'après sa fiche Google (relevé du 25 octobre 2026) — vente à emporter : non ; livraison : non."
+      },
+      {
+        "q": "Quel est le niveau de prix de Chez Tonton ?",
+        "r": "Google classe Chez Tonton au niveau de prix €€ (modéré), sur une échelle de € à €€€€ établie à partir des avis clients."
+      },
+      {
         "q": "Chez Tonton est-il accessible aux personnes à mobilité réduite ?",
         "r": "La fiche Google de l'établissement mentionne : « Entrée accessible en fauteuil roulant ». Cette information est déclarative ; en cas de doute, vérifiez par téléphone."
       }
     ],
-    "genere_le": "2026-10-18"
+    "genere_le": "2026-10-25"
   },
   "statut_google": "OPERATIONAL",
   "audience": {
@@ -204,7 +229,7 @@
     "clicsRecents": 0,
     "fenetreRecenteJours": 28,
     "source": "search-console",
-    "date": "2026-10-24"
+    "date": "2026-10-25"
   },
   "indexation": {
     "etat": "non-indexee",
@@ -214,5 +239,86 @@
     "canonique_google": null,
     "source": "inspection",
     "date": "2026-10-19"
+  },
+  "avis_detail": {
+    "releve": "2026-10-25",
+    "liste": [
+      {
+        "note": 1,
+        "texte": "Je suis venue le 1 septembre avec mes amis pour célébrer mon départ, une de mes amies avaient prit avant un verre au pub saint pierre et en partant il restait un fond de son verre que j ai compléter avec mon propre verre acheter chez tonton ⚠️ quelle ne fut pas ma surprise quand un serveur m’a dénoncer au vigile même après avoir indiqué que le verre que j avais dans les mains je l’avais payé.. au final le vigile nous a très mal parlé avec mes amis alors qu’on a indiqué à tout les serveurs d’où venait le verre et qu on l’avait compléter avec un verre venant de chez tonton .. au final j ai du passer ma soirée debout dehors le temps que je termine mon verre payer ici chez TONTON ..  un peu déçue car étant toulousaine je vais chez tonton depuis 5/6 ans mais là je suis vaccinée pour un bon moment",
+        "langue": "fr",
+        "date": "2026-09-01",
+        "auteur": "Sara-Giulia Di Martino",
+        "auteur_lien": "https://www.google.com/maps/contrib/111515603634092605521/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT21VMGVVbFlhbTFhWDB4SU1UWXRTV2h6ZEhOd1MzYxAB!2m1!1s0x12aebb65c1fbb24d:0x9bb891d3c2a0146e"
+      },
+      {
+        "note": 1,
+        "texte": "Je suis venue avec des amis, nous avons commandé un mètre de whisky et un jager. Nous avons été servis, mon copain a même laissé un pourboire au serveur. Un autre serveur est venu dire au vigile que le verre de jager venait d’un autre bar, or ma copine avait juste transvasé son verre de jager dans un verre plus grand. Il a demandé à ma copine de boire son verre plus loin car il venait pas du bar, nous lui avons expliqué qu’il venait bien d’ici, qu’il pouvait même demander au serveur qui nous avait servi ce même verre. Suite à cela, ma copine a eu interdiction de s’asseoir à la table alors que nous avions la preuve que le verre venait bien d’ici. Le vigile s’est directement énervé, il a eu une attitude excercrable avec nous et a fait preuve d’un manque de respect. Nous sommes des habitués de ce bar et nous avons été choqués.",
+        "langue": "fr",
+        "date": "2026-09-01",
+        "auteur": "romane burrueco",
+        "auteur_lien": "https://www.google.com/maps/contrib/110190196152801305012/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2tsMUxXaGtjR1ZYUWt0elJGaDViVmN6TkdsSVRIYxAB!2m1!1s0x12aebb65c1fbb24d:0x9bb891d3c2a0146e"
+      },
+      {
+        "note": 3,
+        "texte": "Bar très sympa à Toulouse, je recommande fortement.\n\nJ’aimerais ajouter quelques détails à revoir :\n\n- pas de savon au toilette (un peu dégueu)\n- barmans assez antipathiques, je faisais la queue pour les toilettes et l’un m’a poussé, je comprends que c’est le rush mais ce n’est pas nécessaire\n- match de coupe du monde avec de la latence d’au moins 30s, je n’aurais rien dis mais le bar disait diffuser les matchs, il faudrait au moins assumer jusqu’au bout….\n\nà part ces détails on y passe toujours un bon moment.",
+        "langue": "fr",
+        "date": "2026-07-14",
+        "auteur": "Valeria",
+        "auteur_lien": "https://www.google.com/maps/contrib/115221537344634450320/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xRMU9VdGxYMWRwVGt3MmVISmhkMkYyYVZWbWIyYxAB!2m1!1s0x12aebb65c1fbb24d:0x9bb891d3c2a0146e"
+      },
+      {
+        "note": 1,
+        "texte": "Je vous partage mon expérience personnel, une femme ma demander de dégager.., le monsieur de la sécurité la soutenue alors que je ne l'a connaissais ni d'Adam ni d'Ève.. je devais me déplacer loin de cette dernière car visiblement elle avais une dent contre moi. J'ai étais au toilette plus tard dans la soirée je suis sortie et on m'a demandé gratuitement de sortir, suivie de bousculades de personne soutenant cette femme visiblement ( je me suis contenu pour ne pas imploser intérieurement, surtout face à des hommes) 🤣 quel honte vraiment d'une hypocrisie cette société, vraiment autant rester seul chez soie plutôt que d'avoir espoir en la bonne foie et le professionnalisme de ce personnel.. pourtant ils sont très sympathiques mais sur le coup pas très équitable c'est dommage je ne reviendrais plus. Malgré l'ambiance formidable on soutiens toujours les gens problématique..",
+        "langue": "fr",
+        "date": "2026-06-07",
+        "auteur": "Gabriel Mx",
+        "auteur_lien": "https://www.google.com/maps/contrib/107198462181651739495/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2tRM2JIQlJUSHB1WjBGdFdFRnpVRkpuZVdSclpGRRAB!2m1!1s0x12aebb65c1fbb24d:0x9bb891d3c2a0146e"
+      },
+      {
+        "note": 5,
+        "texte": "Bar très sympa avec des prix vraiment abordables. Le personnel est accueillant et toujours de bonne humeur, ça fait plaisir. L’happy hour vaut clairement le coup et les tapas sont bons. Une super adresse pour passer un bon moment sans se ruiner ! Rapport qualité prix présent !",
+        "langue": "fr",
+        "date": "2026-05-19",
+        "auteur": "Jules Rigal",
+        "auteur_lien": "https://www.google.com/maps/contrib/109521237465995678493/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25WdE9IaE1XRlZtVlZkUmJUZ3laMUpUV0dSdmNtYxAB!2m1!1s0x12aebb65c1fbb24d:0x9bb891d3c2a0146e"
+      }
+    ]
+  },
+  "services": {
+    "releve": "2026-10-25",
+    "prix": "PRICE_LEVEL_MODERATE",
+    "resume": "Bar de nuit prisé des étudiants, au décor festif et bon enfant. Événements, pétanques et soirées à thèmes.",
+    "resume_langue": "fr",
+    "options": {
+      "dineIn": true,
+      "takeout": false,
+      "delivery": false,
+      "reservable": false,
+      "outdoorSeating": true,
+      "servesBeer": true,
+      "servesWine": true,
+      "servesCocktails": true,
+      "goodForChildren": false,
+      "goodForGroups": true,
+      "goodForWatchingSports": true,
+      "liveMusic": false,
+      "allowsDogs": false,
+      "restroom": true
+    },
+    "paiement": [
+      "carte bancaire",
+      "carte de débit",
+      "paiement sans contact"
+    ],
+    "parking": [
+      "parking payant",
+      "stationnement payant dans la rue"
+    ]
   }
 }

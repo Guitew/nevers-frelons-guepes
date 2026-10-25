@@ -1,0 +1,298 @@
+{
+  "id": "ChIJMV7BxfhR80cRO3jyS2IYz4U",
+  "slug": "marche-d-asie",
+  "nom": "marché d'asie",
+  "categorie": "commerces-alimentation",
+  "categorie_gmb": "Épicerie asiatique",
+  "type_principal": "asian_grocery_store",
+  "types": [
+    "asian_grocery_store",
+    "grocery_store",
+    "food_store",
+    "store",
+    "point_of_interest",
+    "food",
+    "establishment"
+  ],
+  "ville": "Bourg-en-Bresse",
+  "ville_slug": "bourg-en-bresse",
+  "adresse": {
+    "rue": "2 Rue Abbé Cottard Josserand",
+    "code_postal": "01000",
+    "departement": "01",
+    "region": "Auvergne-Rhône-Alpes",
+    "pays": "France",
+    "complete": "2 Rue Abbé Cottard Josserand, 01000 Bourg-en-Bresse"
+  },
+  "telephone": "04 69 19 39 26",
+  "geo": {
+    "latitude": 46.2019946,
+    "longitude": 5.209541
+  },
+  "note": 4.5,
+  "avis": 115,
+  "horaires": [
+    {
+      "jour": 0,
+      "ferme": true,
+      "creneaux": []
+    },
+    {
+      "jour": 1,
+      "ferme": false,
+      "creneaux": [
+        [
+          "09:30",
+          "12:30"
+        ],
+        [
+          "14:00",
+          "19:00"
+        ]
+      ]
+    },
+    {
+      "jour": 2,
+      "ferme": false,
+      "creneaux": [
+        [
+          "09:30",
+          "12:30"
+        ],
+        [
+          "14:00",
+          "19:00"
+        ]
+      ]
+    },
+    {
+      "jour": 3,
+      "ferme": false,
+      "creneaux": [
+        [
+          "09:30",
+          "12:30"
+        ],
+        [
+          "14:00",
+          "19:00"
+        ]
+      ]
+    },
+    {
+      "jour": 4,
+      "ferme": false,
+      "creneaux": [
+        [
+          "09:30",
+          "12:30"
+        ],
+        [
+          "14:00",
+          "19:00"
+        ]
+      ]
+    },
+    {
+      "jour": 5,
+      "ferme": false,
+      "creneaux": [
+        [
+          "09:30",
+          "12:30"
+        ],
+        [
+          "14:00",
+          "19:00"
+        ]
+      ]
+    },
+    {
+      "jour": 6,
+      "ferme": false,
+      "creneaux": [
+        [
+          "09:30",
+          "12:30"
+        ]
+      ]
+    }
+  ],
+  "attributs": [
+    "Entrée accessible en fauteuil roulant",
+    "Parking accessible en fauteuil roulant"
+  ],
+  "lien_google": "https://maps.google.com/?cid=9641952137683564603&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
+  "site_web_gmb": null,
+  "statut": "publiee",
+  "backlink": {
+    "etat": "absent",
+    "premiere_detection": null,
+    "derniere_detection": null,
+    "derniere_verification": "2026-10-25T09:45:58.784Z",
+    "echecs": 1,
+    "url_detectee": null
+  },
+  "suggestion": {
+    "etat": "en-attente",
+    "date_soumission": null,
+    "tentatives": 0,
+    "date_email": "2026-10-25"
+  },
+  "retrait": null,
+  "dates": {
+    "collecte": "2026-10-25",
+    "publication": "2026-10-25",
+    "maj": "2026-10-25"
+  },
+  "source": "google-places",
+  "avis_detail": {
+    "releve": "2026-10-25",
+    "liste": [
+      {
+        "note": 5,
+        "texte": "C'est très bien rangé et organisé (contrairement à ce que j'ai pu voir dans d'autres magasins similaires). Il y a beaucoup de choix même si je n'ai pas pu trouver le bon lait de soja ! À visiter",
+        "langue": "fr",
+        "date": "2026-08-16",
+        "auteur": "Eric WANG",
+        "auteur_lien": "https://www.google.com/maps/contrib/104404394768645309196/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25GeFNFc3laWFY1VjA5MFlWZ3pRMFZPUzJsVFdtYxAB!2m1!1s0x47f351f8c5c15e31:0x85cf18624bf2783b"
+      },
+      {
+        "note": 3,
+        "texte": "Un magasin avec beaucoup d'espace mais peu de choix au final. Beaucoup de produits basiques, qu'on trouve généralement dans toutes les boutiques de produits asiatiques, sont ici absents. Par contre si vous voulez des nouilles précuites instantanées, qu'on trouve partout, ça il y en a.",
+        "langue": "fr",
+        "date": "2026-02-25",
+        "auteur": "Steven F.",
+        "auteur_lien": "https://www.google.com/maps/contrib/106593442321036469858/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT214NWEzUjRhalZrZEZCRFVWTnRNaTFOY0ZoNFRVRRAB!2m1!1s0x47f351f8c5c15e31:0x85cf18624bf2783b"
+      },
+      {
+        "note": 3,
+        "texte": "Dès que vous y entrez une odeur forte vous assaille . J'ai pourtant l'habitude de ce types de magasins mais ici la ventilation ne semble pas opérante lors de mon passage. Très peu achalandé, avec beaucoup d'espaces vides ne vous incite pas à l'achat.\nJ'y retournerai peut-être pour me dépanner en riz, pas plus.",
+        "langue": "fr",
+        "date": "2025-03-04",
+        "auteur": "AUX DOMAINES “Aux Domaines d'Automne” D.AUTOMNE",
+        "auteur_lien": "https://www.google.com/maps/contrib/105781153520501604292/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnTUNRX3V5ZjFRRRAB!2m1!1s0x47f351f8c5c15e31:0x85cf18624bf2783b"
+      },
+      {
+        "note": 5,
+        "texte": "Tellement contente qu'un magasin asiatique ait ouvert à bourg, ça manquait terriblement ! J'allais à Villefranche ou Lyon (celui de Mâcon Asia Shop se gave sur les prix c'est juste abusé et la dame est exécrable !)... Maintenant ce n'est que du bonheur d'aller à côté et les prix sont raisonnables, les proprios sont gentils et serviables. Trop contente de cuisiner asiatique autant que je veux !",
+        "langue": "fr",
+        "date": "2025-02-25",
+        "auteur": "K. T. T.",
+        "auteur_lien": "https://www.google.com/maps/contrib/113688308453755130870/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSURYNzZMdjBBRRAB!2m1!1s0x47f351f8c5c15e31:0x85cf18624bf2783b"
+      },
+      {
+        "note": 5,
+        "texte": "Première fois que je m'y rends, je ne suis absolument pas déçue 95€ environ et pleins d'articles ( un sac à ras bord ! ).\nIls ont des articles que ça fait 2-3 ans je les cherchais et j'y retournerai volontiers. En plus prix abordable; après tout dépend de l'article mais faut pas oublier que le Japon, la Corée du Sud, la Thaïlande et tout ça, ce n'est pas la porte à côté... Enfin bref je recommande totalement ^^\n\n( P.S : j'ai mis quelques photos mais évidemment pas tout 😅 )",
+        "langue": "fr",
+        "date": "2024-08-20",
+        "auteur": "Nono_ mnd39",
+        "auteur_lien": "https://www.google.com/maps/contrib/103157323797265467824/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUQ3NkxmM29BRRAB!2m1!1s0x47f351f8c5c15e31:0x85cf18624bf2783b"
+      }
+    ]
+  },
+  "services": {
+    "releve": "2026-10-25",
+    "options": {
+      "delivery": false,
+      "restroom": false
+    },
+    "paiement": [
+      "carte bancaire",
+      "carte de débit",
+      "paiement sans contact"
+    ],
+    "parking": []
+  },
+  "redaction": {
+    "version": 2,
+    "titre": "marché d'asie — Commerce d'alimentation à Bourg-en-Bresse",
+    "meta_titre": "marché d'asie à Bourg-en-Bresse : horaires, avis, téléphone",
+    "meta_description": "marché d'asie, commerce d'alimentation à Bourg-en-Bresse : horaires d'ouverture, note Google 4,5/5 (115 avis), téléphone, adresse et itinéraire.",
+    "chapo": "marché d'asie est un commerce d'alimentation au 2 Rue Abbé Cottard Josserand, à Bourg-en-Bresse. Ouvert tous les jours sauf le lundi au relevé du 25 octobre 2026. Téléphone : 04 69 19 39 26. Note Google : 4,5 sur 5 pour 115 avis.",
+    "sections": [
+      {
+        "id": "presentation",
+        "titre": "marché d'asie en quelques mots",
+        "paragraphes": [
+          "Sur Google, l'établissement est classé « Épicerie asiatique », dans notre rubrique Commerce d'alimentation.",
+          "D'après le relevé du 25 octobre 2026, l'établissement est ouvert tous les jours sauf le lundi. Le détail jour par jour figure plus bas."
+        ]
+      },
+      {
+        "id": "prestations",
+        "titre": "Services et équipements de marché d'asie",
+        "paragraphes": [
+          "Non proposé selon la fiche Google : livraison et toilettes.",
+          "Moyens de paiement déclarés : carte bancaire, carte de débit et paiement sans contact.",
+          "Ces indications sont déclarées par l'établissement sur sa fiche Google (relevé du 25 octobre 2026)."
+        ]
+      },
+      {
+        "id": "acces",
+        "titre": "Adresse et accès",
+        "paragraphes": [
+          "L'établissement est situé au 2 Rue Abbé Cottard Josserand, 01000 Bourg-en-Bresse.",
+          "Coordonnées GPS : 46.20199, 5.20954. Le bouton Itinéraire de cette page ouvre la navigation."
+        ]
+      },
+      {
+        "id": "contact",
+        "titre": "Contacter marché d'asie",
+        "paragraphes": [
+          "Le contact se fait par téléphone au 04 69 19 39 26, ou directement sur place aux horaires d'ouverture."
+        ]
+      },
+      {
+        "id": "avis",
+        "titre": "La réputation de marché d'asie",
+        "paragraphes": [
+          "Note de 4,5 sur 5 pour 115 avis Google au relevé du 25 octobre 2026. Les avis les plus parlants sont compilés ci-dessous, avec un lien vers la fiche d'origine."
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "q": "Quels sont les horaires de marché d'asie ?",
+        "r": "Au relevé du 25 octobre 2026, marché d'asie était ouvert tous les jours sauf le lundi. Dans le détail — lundi : fermé ; mardi : de 9 h 30 à 12 h 30 et de 14 h à 19 h ; mercredi : de 9 h 30 à 12 h 30 et de 14 h à 19 h ; jeudi : de 9 h 30 à 12 h 30 et de 14 h à 19 h ; vendredi : de 9 h 30 à 12 h 30 et de 14 h à 19 h ; samedi : de 9 h 30 à 12 h 30 et de 14 h à 19 h ; dimanche : de 9 h 30 à 12 h 30. Ces horaires peuvent changer : un appel préalable reste conseillé."
+      },
+      {
+        "q": "marché d'asie est-il ouvert le dimanche ?",
+        "r": "Oui : le dimanche, marché d'asie est ouvert de 9 h 30 à 12 h 30 (horaires relevés le 25 octobre 2026)."
+      },
+      {
+        "q": "Où se trouve marché d'asie ?",
+        "r": "marché d'asie se trouve 2 Rue Abbé Cottard Josserand, 01000 Bourg-en-Bresse. Un lien d'itinéraire est disponible sur cette page."
+      },
+      {
+        "q": "Comment contacter marché d'asie ?",
+        "r": "Par téléphone au 04 69 19 39 26, ou directement sur place aux heures d'ouverture."
+      },
+      {
+        "q": "marché d'asie propose-t-il la vente à emporter ou la livraison ?",
+        "r": "D'après sa fiche Google (relevé du 25 octobre 2026) — livraison : non."
+      },
+      {
+        "q": "marché d'asie est-il accessible aux personnes à mobilité réduite ?",
+        "r": "La fiche Google de l'établissement mentionne : « Entrée accessible en fauteuil roulant ». Cette information est déclarative ; en cas de doute, vérifiez par téléphone."
+      }
+    ],
+    "genere_le": "2026-10-25"
+  },
+  "statut_google": "OPERATIONAL",
+  "audience": {
+    "clics": 0,
+    "impressions": 0,
+    "position": null,
+    "fenetreJours": 90,
+    "clicsRecents": 0,
+    "fenetreRecenteJours": 28,
+    "source": "search-console",
+    "date": "2026-10-25"
+  }
+}

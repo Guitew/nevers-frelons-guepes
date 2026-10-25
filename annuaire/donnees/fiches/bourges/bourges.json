@@ -27,7 +27,7 @@
     "longitude": 2.3933321
   },
   "note": 4.6,
-  "avis": 50,
+  "avis": 51,
   "horaires": null,
   "attributs": [],
   "lien_google": "https://maps.google.com/?cid=9381906459206999549&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
@@ -37,8 +37,8 @@
     "etat": "absent",
     "premiere_detection": null,
     "derniere_detection": null,
-    "derniere_verification": "2026-10-10T11:08:55.541Z",
-    "echecs": 11,
+    "derniere_verification": "2026-10-25T09:45:58.784Z",
+    "echecs": 12,
     "url_detectee": null
   },
   "suggestion": {
@@ -51,15 +51,15 @@
   "dates": {
     "collecte": "2026-10-03",
     "publication": "2026-10-03",
-    "maj": "2026-10-10"
+    "maj": "2026-10-25"
   },
   "source": "google-places",
   "redaction": {
     "version": 2,
     "titre": "Bourges — Hébergement à Bourges",
     "meta_titre": "Bourges à Bourges : avis",
-    "meta_description": "Bourges, hébergement à Bourges : note Google 4,6/5 (50 avis), adresse et itinéraire.",
-    "chapo": "Bourges exerce l'activité de hébergement au 49 Rue Gambon, à Bourges. Note Google : 4,6 sur 5 pour 50 avis.",
+    "meta_description": "Bourges, hébergement à Bourges : note Google 4,6/5 (51 avis), adresse et itinéraire.",
+    "chapo": "Bourges exerce l'activité de hébergement au 49 Rue Gambon, à Bourges. Note Google : 4,6 sur 5 pour 51 avis.",
     "sections": [
       {
         "id": "presentation",
@@ -87,7 +87,7 @@
         "id": "avis",
         "titre": "La réputation de Bourges",
         "paragraphes": [
-          "Note de 4,6 sur 5 pour 50 avis Google au relevé du 10 octobre 2026. Les avis se consultent sur la fiche Google, dont le lien figure sur cette page."
+          "Note de 4,6 sur 5 pour 51 avis Google au relevé du 25 octobre 2026. Les avis les plus parlants sont compilés ci-dessous, avec un lien vers la fiche d'origine."
         ]
       }
     ],
@@ -97,7 +97,7 @@
         "r": "Bourges se trouve 49 Rue Gambon, 18000 Bourges. Un lien d'itinéraire est disponible sur cette page."
       }
     ],
-    "genere_le": "2026-10-10"
+    "genere_le": "2026-10-25"
   },
   "statut_google": "OPERATIONAL",
   "audience": {
@@ -108,6 +108,56 @@
     "clicsRecents": 0,
     "fenetreRecenteJours": 28,
     "source": "search-console",
-    "date": "2026-10-24"
+    "date": "2026-10-25"
+  },
+  "avis_detail": {
+    "releve": "2026-10-25",
+    "liste": [
+      {
+        "note": 5,
+        "texte": "Très bon guide, dynamique et très intéressante. Bourges est une jolie ville à visiter.",
+        "langue": "fr",
+        "date": "2025-11-10",
+        "auteur": "Catherine Cholet",
+        "auteur_lien": "https://www.google.com/maps/contrib/109861684679989602927/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT21aS1JWSTFXV3M1VXkxZldFc3RjMXB1YlhGelZHYxAB!2m1!1s0x47fa95f126e5d523:0x82333a3798f9ddfd"
+      },
+      {
+        "note": 5,
+        "texte": "Nous allons à chaque halte à Bourges, à l'hôtel Mercure le Bourbon. Notre hôtel préféré ainsi que le restaurant attenant à l'hôtel",
+        "langue": "fr",
+        "date": "2025-08-12",
+        "auteur": "Marie Briois",
+        "auteur_lien": "https://www.google.com/maps/contrib/103454185990866266019/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT21WWFFWWmFlVEEwTFUxQk1FOWtRVmxIVkhrdFQzYxAB!2m1!1s0x47fa95f126e5d523:0x82333a3798f9ddfd"
+      },
+      {
+        "note": 4,
+        "texte": "Une ville avec une longue histoire et un beau passé de capitale de la France au temps des Gaulois, mais qui manque de lieux d'animation et de divertissement, elle n'est pas comme les autres villes, elle a besoin de plus de mutations pour se différencier.",
+        "langue": "fr",
+        "date": "2023-08-05",
+        "auteur": "Reem turk",
+        "auteur_lien": "https://www.google.com/maps/contrib/112211558218473079906/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUNwanJTOTRnRRAB!2m1!1s0x47fa95f126e5d523:0x82333a3798f9ddfd"
+      },
+      {
+        "note": 5,
+        "texte": "J'ai passé une soirée à Bourges le 17 juillet 2021 et j'ai adoré !!! Car, le soir, j'ai vécu une sorte de chasse aux trésors : sur les façades des bâtiments les plus importants étaient projetées de petites animations son et lumière ; et nous sommes allés d'une animation à l'autre, excités comme des enfants parce que surpris à chaque fois. Je suppose que ces animations n'ont lieu qu'en été mais c'était trop chouette et je tenais à en parler !",
+        "langue": "fr",
+        "date": "2022-04-26",
+        "auteur": "Eveline Carre",
+        "auteur_lien": "https://www.google.com/maps/contrib/116800802445498370524/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUMyelpiZU1nEAE!2m1!1s0x47fa95f126e5d523:0x82333a3798f9ddfd"
+      },
+      {
+        "note": 2,
+        "texte": "L'architecture de la ville est charmante, malgré qu'on y fait vite le tour : cathédrale, palais, divers parcs.. En ce qui concerne le peuple, nous n'avons pas croisés grand monde, nous offrant donc de belles photos de ruelles vides. Deux étoiles car fesant souvent du tourisme je dois dire que je ne me suis pas sentis allaise dans la ville.. J'ajouterais que les nombreuses petites portes se trouvant en bas des murs de certaines maisons du centre, sont intriguantes.",
+        "langue": "fr",
+        "date": "2022-04-19",
+        "auteur": "Mat' avis",
+        "auteur_lien": "https://www.google.com/maps/contrib/112144052061554165404/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUMyeHN1UUhREAE!2m1!1s0x47fa95f126e5d523:0x82333a3798f9ddfd"
+      }
+    ]
   }
 }

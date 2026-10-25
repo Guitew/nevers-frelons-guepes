@@ -116,8 +116,8 @@
     "etat": "absent",
     "premiere_detection": null,
     "derniere_detection": null,
-    "derniere_verification": "2026-10-10T11:08:55.541Z",
-    "echecs": 30,
+    "derniere_verification": "2026-10-25T09:45:58.784Z",
+    "echecs": 31,
     "url_detectee": null
   },
   "suggestion": {
@@ -130,7 +130,7 @@
   "dates": {
     "collecte": "2026-09-25",
     "publication": "2026-09-25",
-    "maj": "2026-10-10"
+    "maj": "2026-10-25"
   },
   "source": "google-places",
   "redaction": {
@@ -138,14 +138,26 @@
     "titre": "Bar Tabac Le Pedro — Café ou bar à Charleville-Mézières",
     "meta_titre": "Bar Tabac Le Pedro à Charleville-Mézières : horaires, avis",
     "meta_description": "Bar Tabac Le Pedro, café ou bar à Charleville-Mézières : horaires d'ouverture, note Google 4,2/5 (311 avis), téléphone, adresse et itinéraire.",
-    "chapo": "Cette fiche présente Bar Tabac Le Pedro, un café ou bar au 40 Rue du Faubourg de Pierre, à Charleville-Mézières. Ouvert sept jours sur sept au relevé du 10 octobre 2026. Téléphone : 03 24 57 00 38. Note Google : 4,2 sur 5 pour 311 avis.",
+    "chapo": "Cette fiche présente Bar Tabac Le Pedro, un café ou bar au 40 Rue du Faubourg de Pierre, à Charleville-Mézières. Ouvert sept jours sur sept au relevé du 25 octobre 2026. Téléphone : 03 24 57 00 38. Note Google : 4,2 sur 5 pour 311 avis.",
     "sections": [
       {
         "id": "presentation",
         "titre": "Bar Tabac Le Pedro en quelques mots",
         "paragraphes": [
           "Sur Google, l'établissement est classé « Bar », dans notre rubrique Café ou bar.",
-          "D'après le relevé du 10 octobre 2026, l'établissement est ouvert sept jours sur sept. Le détail jour par jour figure plus bas."
+          "Niveau de prix indiqué sur la fiche Google : € (bon marché).",
+          "D'après le relevé du 25 octobre 2026, l'établissement est ouvert sept jours sur sept. Le détail jour par jour figure plus bas."
+        ]
+      },
+      {
+        "id": "prestations",
+        "titre": "Services et équipements de Bar Tabac Le Pedro",
+        "paragraphes": [
+          "Proposé : bière, vin, cocktails, adapté aux groupes, chiens acceptés et toilettes.",
+          "Non proposé selon la fiche Google : à emporter, livraison, réservation possible, terrasse, adapté aux enfants et musique live.",
+          "Moyens de paiement déclarés : carte bancaire, carte de débit et paiement sans contact.",
+          "Stationnement : stationnement gratuit dans la rue.",
+          "Ces indications sont déclarées par l'établissement sur sa fiche Google (relevé du 25 octobre 2026)."
         ]
       },
       {
@@ -167,18 +179,18 @@
         "id": "avis",
         "titre": "La réputation de Bar Tabac Le Pedro",
         "paragraphes": [
-          "Note de 4,2 sur 5 pour 311 avis Google au relevé du 10 octobre 2026. Les avis se consultent sur la fiche Google, dont le lien figure sur cette page."
+          "Note de 4,2 sur 5 pour 311 avis Google au relevé du 25 octobre 2026. Les avis les plus parlants sont compilés ci-dessous, avec un lien vers la fiche d'origine."
         ]
       }
     ],
     "faq": [
       {
         "q": "Quels sont les horaires de Bar Tabac Le Pedro ?",
-        "r": "Au relevé du 10 octobre 2026, Bar Tabac Le Pedro était ouvert sept jours sur sept. Dans le détail — lundi : de 7 h à 20 h 30 ; mardi : de 7 h à 20 h 30 ; mercredi : de 7 h à 20 h 30 ; jeudi : de 7 h à 20 h 30 ; vendredi : de 7 h à 20 h 30 ; samedi : de 8 h à 20 h 30 ; dimanche : de 8 h à 20 h. Ces horaires peuvent changer : un appel préalable reste conseillé."
+        "r": "Au relevé du 25 octobre 2026, Bar Tabac Le Pedro était ouvert sept jours sur sept. Dans le détail — lundi : de 7 h à 20 h 30 ; mardi : de 7 h à 20 h 30 ; mercredi : de 7 h à 20 h 30 ; jeudi : de 7 h à 20 h 30 ; vendredi : de 7 h à 20 h 30 ; samedi : de 8 h à 20 h 30 ; dimanche : de 8 h à 20 h. Ces horaires peuvent changer : un appel préalable reste conseillé."
       },
       {
         "q": "Bar Tabac Le Pedro est-il ouvert le dimanche ?",
-        "r": "Oui : le dimanche, Bar Tabac Le Pedro est ouvert de 8 h à 20 h (horaires relevés le 10 octobre 2026)."
+        "r": "Oui : le dimanche, Bar Tabac Le Pedro est ouvert de 8 h à 20 h (horaires relevés le 25 octobre 2026)."
       },
       {
         "q": "Où se trouve Bar Tabac Le Pedro ?",
@@ -189,11 +201,23 @@
         "r": "Par téléphone au 03 24 57 00 38, ou directement sur place aux heures d'ouverture."
       },
       {
+        "q": "Peut-on réserver chez Bar Tabac Le Pedro ?",
+        "r": "La fiche Google de Bar Tabac Le Pedro indique que la réservation n'est pas proposée."
+      },
+      {
+        "q": "Bar Tabac Le Pedro propose-t-il la vente à emporter ou la livraison ?",
+        "r": "D'après sa fiche Google (relevé du 25 octobre 2026) — vente à emporter : non ; livraison : non."
+      },
+      {
+        "q": "Quel est le niveau de prix de Bar Tabac Le Pedro ?",
+        "r": "Google classe Bar Tabac Le Pedro au niveau de prix € (bon marché), sur une échelle de € à €€€€ établie à partir des avis clients."
+      },
+      {
         "q": "Bar Tabac Le Pedro est-il accessible aux personnes à mobilité réduite ?",
         "r": "La fiche Google de l'établissement mentionne : « Entrée accessible en fauteuil roulant ». Cette information est déclarative ; en cas de doute, vérifiez par téléphone."
       }
     ],
-    "genere_le": "2026-10-10"
+    "genere_le": "2026-10-25"
   },
   "statut_google": "OPERATIONAL",
   "audience": {
@@ -204,6 +228,82 @@
     "clicsRecents": 0,
     "fenetreRecenteJours": 28,
     "source": "search-console",
-    "date": "2026-10-24"
+    "date": "2026-10-25"
+  },
+  "avis_detail": {
+    "releve": "2026-10-25",
+    "liste": [
+      {
+        "note": 5,
+        "texte": "⭐⭐⭐⭐⭐\n\nTrès bon bureau de tabac ! Accueil chaleureux, commerçants agréables et service au top. Toujours bien reçu, avec le sourire et dans la bonne humeur. Je recommande vivement cet établissement !",
+        "langue": "fr",
+        "date": "2026-08-25",
+        "auteur": "Brian dl6",
+        "auteur_lien": "https://www.google.com/maps/contrib/117512754961043828539/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xSdVVYVlBkVGRZYXpJdE1VMDNSbWx1YTNkM1RVRRAB!2m1!1s0x47ea11fdca4d2b0f:0x7ceadb0a40c016ab"
+      },
+      {
+        "note": 4,
+        "texte": "Grand choix et très rapide malgré un problème de parking",
+        "langue": "fr",
+        "date": "2026-06-21",
+        "auteur": "Pion Isabelle",
+        "auteur_lien": "https://www.google.com/maps/contrib/110174465326989979816/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25kQ1dUaFJjV2xZY1hkSGFXb3hXREl3YkdSb2NGRRAB!2m1!1s0x47ea11fdca4d2b0f:0x7ceadb0a40c016ab"
+      },
+      {
+        "note": 1,
+        "texte": "Rarement vu une buraliste aussi mal aimable... Pas de Bonjour, pas de au revoir. Madame a un tpe qui date de l'âge de pierre, vu comment elle m'a reçu et parlé, j'ai passé la carte, attendu 5 secondes et suis parti... qu'est-ce que j'avais pas fait là. . Au pire si vous voulez que vos clients soient patients, accueillez comme il se doit et autrement qu'avec un bout de papier perdu sur le comptoir qui dit que votre tpe est lent non ? Pour être moi-même dans le commerce, je peux garantir que si j'ai un comportement similaire sur mon poste, c'est au mieux la mise à pied. Bref, Cela faisait des années que je n'y étais pas allé, je ne savais pas que ça avait changé de propriétaire, vous pouvez être sûrs que j'y remettrai jamais les pieds. Édit après réponse de Madame : Vous ne m'avez pas dit bonjour. J'étais venu pour un paquet de chewing gum, je suis reparti avec un paquet de cigarettes car vous ne prenez pas la cb en dessous de 5€. Vous ne m'avez rien proposé qui aurait pu faire les 5€ (jeu à gratter peut être ?). Non, vous êtes restée prostrée derrière votre bureau, avec votre grise mine. Ce qui, ne vous en déplaise, m'a mis mal à l'aise. Car vous ne donniez que l'impression que je dérangeais. Alors qu'en plus vous n'étiez pas sur un rush. Oser dire \"partir comme un voleur..\" après ça, c'est juste hallucinant. Je peux vous dire une chose, c'est clairement pas grace à vous que le fonds de commerce s'est fait. Et c'est clairement pas de mon ressort si votre clientèle habituelle vous pose probleme. Vous n'aimez pas ce que vous faites, rien qu'à votre attitude et cette réponse vous ne le montrez que trop. Après en avoir parlé avec des amis durant la soirée, il s'avère que je n'étais pas le seul à avoir eu une expérience similaire dans votre établissement. Mais soit, continuez à tourner sans moi, il n'y a aucun soucis. J'espère un jour vous rencontrer sur mon lieu de travail, je vous montrerai comment on accueille un client. Sourires, tout ça tout ça ;) je vous souhaite bien du courage si vous comptez faire toute votre carrière pro là bas.",
+        "langue": "fr",
+        "date": "2026-04-11",
+        "auteur": "Jonas Faoro",
+        "auteur_lien": "https://www.google.com/maps/contrib/109429363705257188032/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2w5Wk9XUTBZMlZhYUZOeE9IZDJlRFp1YUhFNWMzYxAB!2m1!1s0x47ea11fdca4d2b0f:0x7ceadb0a40c016ab"
+      },
+      {
+        "note": 1,
+        "texte": "Demande 1 euro de plus si on paye par carte bancaire.⚠️   Article L112-12 du code monétaire et financier il et interdit l'application des frai supplémentaires selon le mode de paiement utilisé par le client.cela signifie qui n'est pas legal de majorée un prix pour un règlement par carte bancaire.  Risque de 80 000e d'amande.",
+        "langue": "fr",
+        "date": "2026-04-11",
+        "auteur": "Emilie Fey",
+        "auteur_lien": "https://www.google.com/maps/contrib/104766319075061161233/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT21aUFpHNW9NMDVDVEc1YVNHdDRXbFppUXpBMlkzYxAB!2m1!1s0x47ea11fdca4d2b0f:0x7ceadb0a40c016ab"
+      },
+      {
+        "note": 1,
+        "texte": "Aujourd'hui un litige qui n ont même pas voulu résoudre. J ai acheté un paquet de cigarettes et un exo bleu et j ai eu la malchance de voir que la boîte avait un seul cigare et en plus cassé. Même pas un échange et leur fournisseur dise que c est impossible. Je suis quelqu'un d honnête et j en achète souvent chez eux mais apparemment ma parole ne vaut rien. Même la police me dis que s en preuve on peut rien faire. Je pensais que ces nouveaux propriétaires seraient commercial mais là pas du tous alors mon achat je peux me le mettre dans le derrière. C est vraiment honteux pour un tabac comme le leur. Poli souriant mais derrière des qu il y a un souci ils s en balance. 😡😠👎",
+        "langue": "fr",
+        "date": "2022-08-19",
+        "auteur": "jean rene guillaume",
+        "auteur_lien": "https://www.google.com/maps/contrib/118322401649134232799/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUR1cHZ6cEJnEAE!2m1!1s0x47ea11fdca4d2b0f:0x7ceadb0a40c016ab"
+      }
+    ]
+  },
+  "services": {
+    "releve": "2026-10-25",
+    "prix": "PRICE_LEVEL_INEXPENSIVE",
+    "options": {
+      "takeout": false,
+      "delivery": false,
+      "reservable": false,
+      "outdoorSeating": false,
+      "servesBeer": true,
+      "servesWine": true,
+      "servesCocktails": true,
+      "goodForChildren": false,
+      "goodForGroups": true,
+      "liveMusic": false,
+      "allowsDogs": true,
+      "restroom": true
+    },
+    "paiement": [
+      "carte bancaire",
+      "carte de débit",
+      "paiement sans contact"
+    ],
+    "parking": [
+      "stationnement gratuit dans la rue"
+    ]
   }
 }

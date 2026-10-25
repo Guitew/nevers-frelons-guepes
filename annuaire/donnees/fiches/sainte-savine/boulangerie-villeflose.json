@@ -108,8 +108,8 @@
     "etat": "absent",
     "premiere_detection": null,
     "derniere_detection": null,
-    "derniere_verification": "2026-10-10T11:08:55.541Z",
-    "echecs": 18,
+    "derniere_verification": "2026-10-25T09:45:58.784Z",
+    "echecs": 19,
     "url_detectee": null
   },
   "suggestion": {
@@ -122,7 +122,7 @@
   "dates": {
     "collecte": "2026-09-30",
     "publication": "2026-09-30",
-    "maj": "2026-10-10"
+    "maj": "2026-10-25"
   },
   "source": "google-places",
   "redaction": {
@@ -130,14 +130,26 @@
     "titre": "Boulangerie Villeflose — Boulangerie-pâtisserie à Sainte-Savine",
     "meta_titre": "Boulangerie Villeflose à Sainte-Savine : horaires, avis",
     "meta_description": "Boulangerie Villeflose, boulangerie-pâtisserie à Sainte-Savine : horaires d'ouverture, note Google 4,4/5 (434 avis), téléphone, adresse et itinéraire.",
-    "chapo": "Cette fiche présente Boulangerie Villeflose, une boulangerie-pâtisserie au 116 Avenue du Général Gallieni, à Sainte-Savine. Ouvert tous les jours sauf le lundi au relevé du 10 octobre 2026. Téléphone : 03 25 72 82 51. Note Google : 4,4 sur 5 pour 434 avis.",
+    "chapo": "Cette fiche présente Boulangerie Villeflose, une boulangerie-pâtisserie au 116 Avenue du Général Gallieni, à Sainte-Savine. Ouvert tous les jours sauf le lundi au relevé du 25 octobre 2026. Téléphone : 03 25 72 82 51. Note Google : 4,4 sur 5 pour 434 avis.",
     "sections": [
       {
         "id": "presentation",
         "titre": "Boulangerie Villeflose en quelques mots",
         "paragraphes": [
           "Sur Google, l'établissement est classé « Boulangerie », dans notre rubrique Boulangerie-pâtisserie.",
-          "D'après le relevé du 10 octobre 2026, l'établissement est ouvert tous les jours sauf le lundi. Le détail jour par jour figure plus bas."
+          "Niveau de prix indiqué sur la fiche Google : € (bon marché).",
+          "D'après le relevé du 25 octobre 2026, l'établissement est ouvert tous les jours sauf le lundi. Le détail jour par jour figure plus bas."
+        ]
+      },
+      {
+        "id": "prestations",
+        "titre": "Services et équipements de Boulangerie Villeflose",
+        "paragraphes": [
+          "Proposé : à emporter.",
+          "Non proposé selon la fiche Google : sur place, livraison, petit-déjeuner, café et toilettes.",
+          "Moyens de paiement déclarés : carte bancaire, carte de débit et paiement sans contact.",
+          "Stationnement : stationnement gratuit dans la rue.",
+          "Ces indications sont déclarées par l'établissement sur sa fiche Google (relevé du 25 octobre 2026)."
         ]
       },
       {
@@ -159,18 +171,18 @@
         "id": "avis",
         "titre": "La réputation de Boulangerie Villeflose",
         "paragraphes": [
-          "Note de 4,4 sur 5 pour 434 avis Google au relevé du 10 octobre 2026. Les avis se consultent sur la fiche Google, dont le lien figure sur cette page."
+          "Note de 4,4 sur 5 pour 434 avis Google au relevé du 25 octobre 2026. Les avis les plus parlants sont compilés ci-dessous, avec un lien vers la fiche d'origine."
         ]
       }
     ],
     "faq": [
       {
         "q": "Quels sont les horaires de Boulangerie Villeflose ?",
-        "r": "Au relevé du 10 octobre 2026, Boulangerie Villeflose était ouvert tous les jours sauf le lundi. Dans le détail — lundi : fermé ; mardi : de 6 h à 19 h 30 ; mercredi : de 6 h à 19 h 30 ; jeudi : de 6 h à 19 h 30 ; vendredi : de 6 h à 19 h 30 ; samedi : de 6 h à 19 h ; dimanche : de 6 h à 13 h. Ces horaires peuvent changer : un appel préalable reste conseillé."
+        "r": "Au relevé du 25 octobre 2026, Boulangerie Villeflose était ouvert tous les jours sauf le lundi. Dans le détail — lundi : fermé ; mardi : de 6 h à 19 h 30 ; mercredi : de 6 h à 19 h 30 ; jeudi : de 6 h à 19 h 30 ; vendredi : de 6 h à 19 h 30 ; samedi : de 6 h à 19 h ; dimanche : de 6 h à 13 h. Ces horaires peuvent changer : un appel préalable reste conseillé."
       },
       {
         "q": "Boulangerie Villeflose est-il ouvert le dimanche ?",
-        "r": "Oui : le dimanche, Boulangerie Villeflose est ouvert de 6 h à 13 h (horaires relevés le 10 octobre 2026)."
+        "r": "Oui : le dimanche, Boulangerie Villeflose est ouvert de 6 h à 13 h (horaires relevés le 25 octobre 2026)."
       },
       {
         "q": "Où se trouve Boulangerie Villeflose ?",
@@ -179,9 +191,17 @@
       {
         "q": "Comment contacter Boulangerie Villeflose ?",
         "r": "Par téléphone au 03 25 72 82 51, ou directement sur place aux heures d'ouverture."
+      },
+      {
+        "q": "Boulangerie Villeflose propose-t-il la vente à emporter ou la livraison ?",
+        "r": "D'après sa fiche Google (relevé du 25 octobre 2026) — vente à emporter : oui ; livraison : non."
+      },
+      {
+        "q": "Quel est le niveau de prix de Boulangerie Villeflose ?",
+        "r": "Google classe Boulangerie Villeflose au niveau de prix € (bon marché), sur une échelle de € à €€€€ établie à partir des avis clients."
       }
     ],
-    "genere_le": "2026-10-10"
+    "genere_le": "2026-10-25"
   },
   "statut_google": "OPERATIONAL",
   "audience": {
@@ -192,6 +212,76 @@
     "clicsRecents": 0,
     "fenetreRecenteJours": 28,
     "source": "search-console",
-    "date": "2026-10-24"
+    "date": "2026-10-25"
+  },
+  "avis_detail": {
+    "releve": "2026-10-25",
+    "liste": [
+      {
+        "note": 1,
+        "texte": "À éviter absolument – Hygiène déplorable et accueil agressif\n\nUne honte. Boulangerie ou le respect des clients et de l'hygiène est inexistant. Début juillet, j'ai vu une cliente entrer avec un énorme chien à longs poils (type Lassie) porté à bout de bras. Je me dis elle va ou, elle va pas entrer j'espère, et qu'elle a été mon grand étonnement quand je l'ai vu monter les escaliers et le chien à bout de bras, je pensais qu'elle allait chez le vétérinaire! comment a-t-elle réussi à ouvrir la porte? Elle le tenait carrément au-dessus du comptoir, juste là où on dépose le pain ! Avec les longs poils de l'animal, c'est d'une saleté sans nom.\n\nQuand j'ai fait la remarque à la vendeuse en lui rappelant les règles sanitaires de base et les risques pour les personnes allergiques, elle m'a crié dessus en disant « qu'il n'y avait pas d'affiche » pour interdire les chiens.  C' est de l'alimentaire, les chiens sont interdits point .Aucun sens des responsabilités, aucune hygiène.  Au lieu de s'excuser, elle m 'agresse verbalement en me criant : c'est comme les personnes sales, c'est comme les cheveux etc..., c'est grave, aucun respect des clients\net le soi-disant, entre chaque client elles mettent du produit désinfectant, ca ressemble plus à de l'eau, ils font semblant et en meme temps ils laissent entrer les chiens en toute impunité, allez comprendre, ca n'a pas de sens\n\nEt d'ailleurs , leur baguette tradition, soit disant notée, n'a aucun gout .......",
+        "langue": "fr",
+        "date": "2026-07-20",
+        "auteur": "HAL",
+        "auteur_lien": "https://www.google.com/maps/contrib/114578249384455854282/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT201emNXVnBjVmxqYmtOek1UZFZPV041VFZwTFQzYxAB!2m1!1s0x47ef141b7e15c0f5:0x565c9c22021da228"
+      },
+      {
+        "note": 4,
+        "texte": "BOULANGERIE VILLEFLOSE\n\n⭐⭐⭐⭐\n\nPoints + 🌸\n\n* De très belles pâtisseries✨\n\n* Je suis passé aux alentours de 17h00 et il y avait -50% sur les viennoiseries ! ☀️\n\n* De très grosses viennoiseries pour un prix abordable 🎊\n\n* Un très bon accueil ! ⭐\n\n* Le jambon-emmental m'a plu !\n\nPoints - ⚡\n\n* Le goût du croissant à la framboise n'était pas assez prononcé :(\n\n* Le pain au raisin se déroulait tout seul 🍇\n\n* Un prix un peu élevé pour le jambon-emmental 🧀\n\n💫 Je compte revenir pour leurs viennoiseries qui ont un prix abordable surtout avec les -50% !",
+        "langue": "fr",
+        "date": "2026-06-05",
+        "auteur": "Dijon With Max",
+        "auteur_lien": "https://www.google.com/maps/contrib/113722392416475411256/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT21jNVV6RTJjMU5wTWkxdVZrVjVNekI1ZEhkNVFrRRAB!2m1!1s0x47ef141b7e15c0f5:0x565c9c22021da228"
+      },
+      {
+        "note": 3,
+        "texte": "Je suis venue le samedi 9 mai passer cdm pour le dimanche 17 mai , la personne qui m’a reçue ete désagréable , je suis venue le samedi 16 mai vers 16h pour régler ma cdm car ce n’est pas moi qui la récupére , je suis tombée sur la même vendeuse qui ne voulait pas que je regle encore plus désagréable que le samedi précédent , elle soufflait étant mécontente que je veuille régler . Heureusement une vendeuse aux cheveux courts c’est occupé de moi avec aimabilite et tres agreable . Pour la qualité de ma cdm RAS à défaut que nous avions demandé une plaque en chocolat pour mettre sur le gâteau que nous n’avons pas eu , le mot à ete écrit en chocolat sur le gâteau .",
+        "langue": "fr",
+        "date": "2026-05-23",
+        "auteur": "Emilie Bruant",
+        "auteur_lien": "https://www.google.com/maps/contrib/114186410286342360198/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xwalpYbEZjMGhmVDBoT01WZEJhakU0WVdreVFYYxAB!2m1!1s0x47ef141b7e15c0f5:0x565c9c22021da228"
+      },
+      {
+        "note": 5,
+        "texte": "TOUT SIMPLEMENT LA MEILLEURE BOULANGERIE PÂTISSERIE DE TROYES .. SI CE N’EST DE L’AUBE ! Depuis maintenant + de 3 ans que j’suis un fidèle client de votre maison et que dire .. LE BONHEUR ET SURTOUT UN RESPECT envers vous de trouver une BOULANGERIE PÂTISSERIE aussi bonne que la vôtre !\nBaguette de pain , pâtisserie , ficelle aux lardons , ET SURTOUT LE MEILLEUR FLAN POUR MOI DE FRANCE ET J’ABUSE PAS .. 🤤Étant un très grand fan et connaisseur de Flan .. je peut vous dire que niveau prix et qualité c’est bien le meilleur de tous !\nJ’adore tout chez vous , vous n’avez vraiment aucun défaut , la qualité du travail , le prix , le respect du personnel et des patrons , le \"Bonjour Mr Horville\" à chaque fois que je viens est un réel bonheur pour moi et je m’en lasserai jamais . Continuez comme ça surtout ne changez pas . Votre fidèle client Mr Horville 😊",
+        "langue": "fr",
+        "date": "2025-09-14",
+        "auteur": "Aurélien Horville",
+        "auteur_lien": "https://www.google.com/maps/contrib/108340320344949645761/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2s0NFZYRmxibGsyZW5oQkxXZHdWR2hJY0ZCMlRXYxAB!2m1!1s0x47ef141b7e15c0f5:0x565c9c22021da228"
+      },
+      {
+        "note": 5,
+        "texte": "Une très belle découverte à chaque fois.\nTout est toujours une explosion de saveurs surtout niveau pâtisserie.\nJe pense les meilleures de Troyes et alentours.\nÉgalement de belles surprises à chaque évènement comme ici pour Pâques.\nJe ne peux que recommander",
+        "langue": "fr",
+        "date": "2025-04-18",
+        "auteur": "Estelle M",
+        "auteur_lien": "https://www.google.com/maps/contrib/102367680555049675243/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnTUNvNmZ5MXBRRRAB!2m1!1s0x47ef141b7e15c0f5:0x565c9c22021da228"
+      }
+    ]
+  },
+  "services": {
+    "releve": "2026-10-25",
+    "prix": "PRICE_LEVEL_INEXPENSIVE",
+    "options": {
+      "dineIn": false,
+      "takeout": true,
+      "delivery": false,
+      "servesBreakfast": false,
+      "servesCoffee": false,
+      "restroom": false
+    },
+    "paiement": [
+      "carte bancaire",
+      "carte de débit",
+      "paiement sans contact"
+    ],
+    "parking": [
+      "stationnement gratuit dans la rue"
+    ]
   }
 }

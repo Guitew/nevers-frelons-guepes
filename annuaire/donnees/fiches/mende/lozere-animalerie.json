@@ -1,0 +1,280 @@
+{
+  "id": "ChIJIw3MDMFtsxIRl7bkq3q6brE",
+  "slug": "lozere-animalerie",
+  "nom": "Lozère Animalerie",
+  "categorie": "veterinaires-animaux",
+  "categorie_gmb": "Animalerie",
+  "type_principal": "pet_store",
+  "types": [
+    "pet_store",
+    "aquarium",
+    "pet_care",
+    "store",
+    "point_of_interest",
+    "establishment"
+  ],
+  "ville": "Mende",
+  "ville_slug": "mende",
+  "adresse": {
+    "rue": "44 Avenue du 11 Novembre",
+    "code_postal": "48000",
+    "departement": "48",
+    "region": "Occitanie",
+    "pays": "France",
+    "complete": "44 Av. du 11 Novembre, 48000 Mende"
+  },
+  "telephone": "04 66 31 97 36",
+  "geo": {
+    "latitude": 44.524686900000006,
+    "longitude": 3.4826653
+  },
+  "note": 4.4,
+  "avis": 332,
+  "horaires": [
+    {
+      "jour": 0,
+      "ferme": false,
+      "creneaux": [
+        [
+          "14:30",
+          "19:00"
+        ]
+      ]
+    },
+    {
+      "jour": 1,
+      "ferme": false,
+      "creneaux": [
+        [
+          "09:30",
+          "19:00"
+        ]
+      ]
+    },
+    {
+      "jour": 2,
+      "ferme": false,
+      "creneaux": [
+        [
+          "09:30",
+          "19:00"
+        ]
+      ]
+    },
+    {
+      "jour": 3,
+      "ferme": false,
+      "creneaux": [
+        [
+          "09:30",
+          "19:00"
+        ]
+      ]
+    },
+    {
+      "jour": 4,
+      "ferme": false,
+      "creneaux": [
+        [
+          "09:30",
+          "19:00"
+        ]
+      ]
+    },
+    {
+      "jour": 5,
+      "ferme": false,
+      "creneaux": [
+        [
+          "09:30",
+          "19:00"
+        ]
+      ]
+    },
+    {
+      "jour": 6,
+      "ferme": true,
+      "creneaux": []
+    }
+  ],
+  "attributs": [
+    "Entrée accessible en fauteuil roulant",
+    "Parking accessible en fauteuil roulant",
+    "Places assises accessibles en fauteuil roulant"
+  ],
+  "lien_google": "https://maps.google.com/?cid=12785361428184086167&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
+  "site_web_gmb": null,
+  "statut": "publiee",
+  "backlink": {
+    "etat": "absent",
+    "premiere_detection": null,
+    "derniere_detection": null,
+    "derniere_verification": "2026-10-25T09:45:58.784Z",
+    "echecs": 1,
+    "url_detectee": null
+  },
+  "suggestion": {
+    "etat": "en-attente",
+    "date_soumission": null,
+    "tentatives": 0,
+    "date_email": "2026-10-25"
+  },
+  "retrait": null,
+  "dates": {
+    "collecte": "2026-10-25",
+    "publication": "2026-10-25",
+    "maj": "2026-10-25"
+  },
+  "source": "google-places",
+  "avis_detail": {
+    "releve": "2026-10-25",
+    "liste": [
+      {
+        "note": 5,
+        "texte": "Très bon accueil,  bien tenue,  magasin très agréable, on y trouve son bonheur",
+        "langue": "fr",
+        "date": "2026-03-02",
+        "auteur": "marie france jeanpierre.sire1@free.fr",
+        "auteur_lien": "https://www.google.com/maps/contrib/110123705379375480908/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2tRdFoxQnFNVWx1TVdNNFZsZHdURWRNTFdsM1JuYxAB!2m1!1s0x12b36dc10ccc0d23:0xb16eba7aabe4b697"
+      },
+      {
+        "note": 5,
+        "texte": "Nous sommes de passage et avons eu le plaisir de nous rendre dans le magasin. Nous avons été super bien conseillés. Le magasin est magnifique et le commerçant excessivement gentil. On y reviendra avec plaisir.",
+        "langue": "fr",
+        "date": "2026-02-28",
+        "auteur": "Lauris Aïtelli",
+        "auteur_lien": "https://www.google.com/maps/contrib/109080907371526424873/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2toM1NWUlpTelV6VEZSeWRtODVaazFCZFRGaGVtYxAB!2m1!1s0x12b36dc10ccc0d23:0xb16eba7aabe4b697"
+      },
+      {
+        "note": 5,
+        "texte": "Un magasin agréable , beau avec des articles de qualités, où on peut trouver son bonheur pour tout ce que l’on a besoin pour nos animaux de compagnie et autres  , des décorations magnifiques  pour chaque période de l’année ! Les patrons sont accueillants et gentils , toujours prêts à vous conseiller !\nIls ont une connaissance énorme sur les animaux , leur bien etre et leur besoin\nNous sommes dans un magasin familiale où on se sent alaise !\nJe le recommande a 100%",
+        "langue": "fr",
+        "date": "2025-12-12",
+        "auteur": "catherine Bouton",
+        "auteur_lien": "https://www.google.com/maps/contrib/102209956866248629936/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25odWNtZEliakJpUkV4U1pHMW1URmhpUkVGeWVrRRAB!2m1!1s0x12b36dc10ccc0d23:0xb16eba7aabe4b697"
+      },
+      {
+        "note": 5,
+        "texte": "De passage dans le coin pour aller chercher mon Loulou j’ai été agréablement surprise 😊 je ne sais pas si j’ai eu affaire à un vendeur ou au patron directement mais de supers conseils, à l’écoute, tarifs très très correct je recommande vivement 😊 merci beaucoup pour le temps, les conseils et l’accueil 😊 Au fait Andreïs adore son joujou en corde et corne merci beaucoup 😊",
+        "langue": "fr",
+        "date": "2025-06-16",
+        "auteur": "Camille JEREZ",
+        "auteur_lien": "https://www.google.com/maps/contrib/105487799970563336226/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VMbkMxWVNHc0pDbG93RRAB!2m1!1s0x12b36dc10ccc0d23:0xb16eba7aabe4b697"
+      },
+      {
+        "note": 1,
+        "texte": "Je suis profondément triste et choquée des conditions de vies de ces animaux, entre les rats qui sont entassés les uns les autres, des bébés et des adultes tous mélangés, les lapins par 4 dans des minis cages, un d’entre eux a clairement des problèmes d’écoulement au nez et aux yeux (il devrait au moins être isolé le temps d’être soigné),  les hamsters mâles et femelles mélangés,\nJe ne suis pas professionnelle mais fervente protectrice et amoureuse des animaux qui a assez de connaissances pour savoir que ces conditions ne sont pas bonnes pour eux !\nLe magasin a de nombreuses fournitures qui semble de bonnes qualités mais concernant les animaux je n’ai plus les mots..",
+        "langue": "fr",
+        "date": "2022-12-20",
+        "auteur": "Alexia 130",
+        "auteur_lien": "https://www.google.com/maps/contrib/112677790663086404756/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUNCd3BYUEx3EAE!2m1!1s0x12b36dc10ccc0d23:0xb16eba7aabe4b697"
+      }
+    ]
+  },
+  "services": {
+    "releve": "2026-10-25",
+    "options": {
+      "delivery": true
+    },
+    "paiement": [
+      "carte bancaire",
+      "carte de débit",
+      "paiement sans contact"
+    ],
+    "parking": [
+      "parking gratuit"
+    ]
+  },
+  "redaction": {
+    "version": 2,
+    "titre": "Lozère Animalerie — Vétérinaire et animaux à Mende",
+    "meta_titre": "Lozère Animalerie à Mende : horaires, avis, téléphone",
+    "meta_description": "Lozère Animalerie, vétérinaire et animaux à Mende : horaires d'ouverture, note Google 4,4/5 (332 avis), téléphone, adresse et itinéraire.",
+    "chapo": "Lozère Animalerie exerce l'activité de vétérinaire et animaux au 44 Avenue du 11 Novembre, à Mende. Ouvert tous les jours sauf le dimanche au relevé du 25 octobre 2026. Téléphone : 04 66 31 97 36. Note Google : 4,4 sur 5 pour 332 avis.",
+    "sections": [
+      {
+        "id": "presentation",
+        "titre": "Lozère Animalerie en quelques mots",
+        "paragraphes": [
+          "Sur Google, l'établissement est classé « Animalerie », dans notre rubrique Vétérinaire et animaux.",
+          "D'après le relevé du 25 octobre 2026, l'établissement est ouvert tous les jours sauf le dimanche. Le détail jour par jour figure plus bas."
+        ]
+      },
+      {
+        "id": "prestations",
+        "titre": "Services et équipements de Lozère Animalerie",
+        "paragraphes": [
+          "Proposé : livraison.",
+          "Moyens de paiement déclarés : carte bancaire, carte de débit et paiement sans contact.",
+          "Stationnement : parking gratuit.",
+          "Ces indications sont déclarées par l'établissement sur sa fiche Google (relevé du 25 octobre 2026)."
+        ]
+      },
+      {
+        "id": "acces",
+        "titre": "Adresse et accès",
+        "paragraphes": [
+          "L'établissement est situé au 44 Avenue du 11 Novembre, 48000 Mende.",
+          "Coordonnées GPS : 44.52469, 3.48267. Le bouton Itinéraire de cette page ouvre la navigation."
+        ]
+      },
+      {
+        "id": "contact",
+        "titre": "Contacter Lozère Animalerie",
+        "paragraphes": [
+          "Le contact se fait par téléphone au 04 66 31 97 36, ou directement sur place aux horaires d'ouverture."
+        ]
+      },
+      {
+        "id": "avis",
+        "titre": "La réputation de Lozère Animalerie",
+        "paragraphes": [
+          "Note de 4,4 sur 5 pour 332 avis Google au relevé du 25 octobre 2026. Les avis les plus parlants sont compilés ci-dessous, avec un lien vers la fiche d'origine."
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "q": "Quels sont les horaires de Lozère Animalerie ?",
+        "r": "Au relevé du 25 octobre 2026, Lozère Animalerie était ouvert tous les jours sauf le dimanche. Dans le détail — lundi : de 14 h 30 à 19 h ; mardi : de 9 h 30 à 19 h ; mercredi : de 9 h 30 à 19 h ; jeudi : de 9 h 30 à 19 h ; vendredi : de 9 h 30 à 19 h ; samedi : de 9 h 30 à 19 h ; dimanche : fermé. Ces horaires peuvent changer : un appel préalable reste conseillé."
+      },
+      {
+        "q": "Lozère Animalerie est-il ouvert le dimanche ?",
+        "r": "Non : d'après les horaires relevés le 25 octobre 2026, Lozère Animalerie est fermé le dimanche."
+      },
+      {
+        "q": "Où se trouve Lozère Animalerie ?",
+        "r": "Lozère Animalerie se trouve 44 Av. du 11 Novembre, 48000 Mende. Un lien d'itinéraire est disponible sur cette page."
+      },
+      {
+        "q": "Comment contacter Lozère Animalerie ?",
+        "r": "Par téléphone au 04 66 31 97 36, ou directement sur place aux heures d'ouverture."
+      },
+      {
+        "q": "Lozère Animalerie propose-t-il la vente à emporter ou la livraison ?",
+        "r": "D'après sa fiche Google (relevé du 25 octobre 2026) — livraison : oui."
+      },
+      {
+        "q": "Lozère Animalerie est-il accessible aux personnes à mobilité réduite ?",
+        "r": "La fiche Google de l'établissement mentionne : « Entrée accessible en fauteuil roulant ». Cette information est déclarative ; en cas de doute, vérifiez par téléphone."
+      }
+    ],
+    "genere_le": "2026-10-25"
+  },
+  "statut_google": "OPERATIONAL",
+  "audience": {
+    "clics": 0,
+    "impressions": 0,
+    "position": null,
+    "fenetreJours": 90,
+    "clicsRecents": 0,
+    "fenetreRecenteJours": 28,
+    "source": "search-console",
+    "date": "2026-10-25"
+  }
+}

@@ -108,8 +108,8 @@
     "etat": "absent",
     "premiere_detection": null,
     "derniere_detection": null,
-    "derniere_verification": "2026-10-10T11:08:55.541Z",
-    "echecs": 17,
+    "derniere_verification": "2026-10-25T09:45:58.784Z",
+    "echecs": 18,
     "url_detectee": null
   },
   "suggestion": {
@@ -122,7 +122,7 @@
   "dates": {
     "collecte": "2026-10-01",
     "publication": "2026-10-01",
-    "maj": "2026-10-10"
+    "maj": "2026-10-25"
   },
   "source": "google-places",
   "redaction": {
@@ -130,14 +130,25 @@
     "titre": "Bio Creuse — Commerce d'alimentation à Guéret",
     "meta_titre": "Bio Creuse à Guéret : horaires, avis, téléphone",
     "meta_description": "Bio Creuse, commerce d'alimentation à Guéret : horaires d'ouverture, note Google 4,3/5 (152 avis), téléphone, adresse et itinéraire.",
-    "chapo": "Cette fiche présente Bio Creuse, un commerce d'alimentation au Avenue de l'Europe, à Guéret. Ouvert tous les jours sauf le dimanche au relevé du 10 octobre 2026. Téléphone : 05 55 52 50 50. Note Google : 4,3 sur 5 pour 152 avis.",
+    "chapo": "Cette fiche présente Bio Creuse, un commerce d'alimentation au Avenue de l'Europe, à Guéret. Ouvert tous les jours sauf le dimanche au relevé du 25 octobre 2026. Téléphone : 05 55 52 50 50. Note Google : 4,3 sur 5 pour 152 avis.",
     "sections": [
       {
         "id": "presentation",
         "titre": "Bio Creuse en quelques mots",
         "paragraphes": [
           "Sur Google, l'établissement est classé « Épicerie », dans notre rubrique Commerce d'alimentation.",
-          "D'après le relevé du 10 octobre 2026, l'établissement est ouvert tous les jours sauf le dimanche. Le détail jour par jour figure plus bas."
+          "D'après le relevé du 25 octobre 2026, l'établissement est ouvert tous les jours sauf le dimanche. Le détail jour par jour figure plus bas."
+        ]
+      },
+      {
+        "id": "prestations",
+        "titre": "Services et équipements de Bio Creuse",
+        "paragraphes": [
+          "Proposé : livraison.",
+          "Non proposé selon la fiche Google : toilettes.",
+          "Moyens de paiement déclarés : carte bancaire, carte de débit et paiement sans contact.",
+          "Stationnement : parking gratuit.",
+          "Ces indications sont déclarées par l'établissement sur sa fiche Google (relevé du 25 octobre 2026)."
         ]
       },
       {
@@ -159,18 +170,18 @@
         "id": "avis",
         "titre": "La réputation de Bio Creuse",
         "paragraphes": [
-          "Note de 4,3 sur 5 pour 152 avis Google au relevé du 10 octobre 2026. Les avis se consultent sur la fiche Google, dont le lien figure sur cette page."
+          "Note de 4,3 sur 5 pour 152 avis Google au relevé du 25 octobre 2026. Les avis les plus parlants sont compilés ci-dessous, avec un lien vers la fiche d'origine."
         ]
       }
     ],
     "faq": [
       {
         "q": "Quels sont les horaires de Bio Creuse ?",
-        "r": "Au relevé du 10 octobre 2026, Bio Creuse était ouvert tous les jours sauf le dimanche. Dans le détail — lundi : de 9 h à 19 h ; mardi : de 9 h à 19 h ; mercredi : de 9 h à 19 h ; jeudi : de 9 h à 19 h ; vendredi : de 9 h à 19 h ; samedi : de 9 h à 19 h ; dimanche : fermé. Ces horaires peuvent changer : un appel préalable reste conseillé."
+        "r": "Au relevé du 25 octobre 2026, Bio Creuse était ouvert tous les jours sauf le dimanche. Dans le détail — lundi : de 9 h à 19 h ; mardi : de 9 h à 19 h ; mercredi : de 9 h à 19 h ; jeudi : de 9 h à 19 h ; vendredi : de 9 h à 19 h ; samedi : de 9 h à 19 h ; dimanche : fermé. Ces horaires peuvent changer : un appel préalable reste conseillé."
       },
       {
         "q": "Bio Creuse est-il ouvert le dimanche ?",
-        "r": "Non : d'après les horaires relevés le 10 octobre 2026, Bio Creuse est fermé le dimanche."
+        "r": "Non : d'après les horaires relevés le 25 octobre 2026, Bio Creuse est fermé le dimanche."
       },
       {
         "q": "Où se trouve Bio Creuse ?",
@@ -181,11 +192,15 @@
         "r": "Par téléphone au 05 55 52 50 50, ou directement sur place aux heures d'ouverture."
       },
       {
+        "q": "Bio Creuse propose-t-il la vente à emporter ou la livraison ?",
+        "r": "D'après sa fiche Google (relevé du 25 octobre 2026) — livraison : oui."
+      },
+      {
         "q": "Bio Creuse est-il accessible aux personnes à mobilité réduite ?",
         "r": "La fiche Google de l'établissement mentionne : « Entrée accessible en fauteuil roulant ». Cette information est déclarative ; en cas de doute, vérifiez par téléphone."
       }
     ],
-    "genere_le": "2026-10-10"
+    "genere_le": "2026-10-25"
   },
   "statut_google": "OPERATIONAL",
   "audience": {
@@ -196,6 +211,71 @@
     "clicsRecents": 0,
     "fenetreRecenteJours": 28,
     "source": "search-console",
-    "date": "2026-10-24"
+    "date": "2026-10-25"
+  },
+  "avis_detail": {
+    "releve": "2026-10-25",
+    "liste": [
+      {
+        "note": 2,
+        "texte": "Produits chers, personnel pas accueillant, pas de bonjour, pas d'amabilite , les vendeurs nous ignorent et parlent entre eux en nous servant.",
+        "langue": "fr",
+        "date": "2026-08-20",
+        "auteur": "Saper Lipopette",
+        "auteur_lien": "https://www.google.com/maps/contrib/115388678744829401457/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT21NMlUyZ3dYME14VFZONlFsVkliR05NUldadE4wRRAB!2m1!1s0x47f97fcf28d2b6b5:0xf8df5d97e4b23f51"
+      },
+      {
+        "note": 5,
+        "texte": "Un magasin qui offre un très bon choix de produits bio. L’accueil est par ailleurs simple et très sympathique",
+        "langue": "fr",
+        "date": "2026-05-02",
+        "auteur": "Sophie FOURNIER GASSIE",
+        "auteur_lien": "https://www.google.com/maps/contrib/111952495660372566742/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT21RNWFYVlZMVGhuVkU4NExYZElWVk5PVkU4M2NtYxAB!2m1!1s0x47f97fcf28d2b6b5:0xf8df5d97e4b23f51"
+      },
+      {
+        "note": 5,
+        "texte": "Magasin bio toujours au top, comme d’habitude ! Le personnel est très agréable, souriant et toujours à l’écoute, ce qui rend chaque visite vraiment plaisante.\nUn vrai plus pour la boutique : les plats préparés, qui sont délicieux, frais et de grande qualité.\nIl me semble qu’il y avait auparavant plusieurs menus proposés dans la semaine ; aujourd’hui il n’y en a plus qu’un, mais cela reste malgré tout très appréciable et pratique au quotidien.",
+        "langue": "fr",
+        "date": "2026-04-23",
+        "auteur": "cathy hebert",
+        "auteur_lien": "https://www.google.com/maps/contrib/110230526474220352495/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2tWRldIRjJPWGRWUVhWa2QwSnhZbHAzVEc0eGJXYxAB!2m1!1s0x47f97fcf28d2b6b5:0xf8df5d97e4b23f51"
+      },
+      {
+        "note": 1,
+        "texte": "Quand je vais à Guéret( assez loin) j'aimerais faire mes courses à Bio Creuse mais quand je vois les prix, je préfère sur Internet ou encore plus loin à Biocoop ou ailleurs. Les produits sont chers,le personnel peu accueillant, le choix en légumes est restreint et pas toujours frais . Dans le vrac pas assez de choix non plus, c'est bien dommage ça ne pousse pas les acheteurs à acheter du bio.En plus je les ai vu balayer donc de la poussière à côté du vrac , quand même !\nJ'y suis retournée ce 9 juin 2021 après vaccination à la salle polyvalente, . obligée, pas le courage d'aller plus loin...aucune amélioration.\nJ'ai signalé à la caisse des fruits et légumes pourris,  ( oranges, citrons etc , les autres fanés ratatinés, je pensais trouver une patate douce \"potable\" , je la prends  toute molle, mon pouce s'est enfoncé.\nrien n'est frais, je me suis aperçue ce matin 16 juin que le levain acheté le 9 est  DLMO 13 juin ! de 2* je passe à une.  C'est vraiment dommage car c'est surtout les produits frais qui sont intéressants en bio . Je suis déçue, j'aime beaucoup la Creuse, j’y vis.\nJ’y suis retournée le 17/12/2025 après RV à l’hôpital.  De gros achats 225 € Bien fatiguée, je fais moins attention j’ai hâte de rentrer à 40 km. Très déçue encore plus que d’habitude. 25à 30% plus cher que sur Internet  et pire le caissier, le gérant sur mon ticket me pèse 3 petits shitakés 65g avec une grosse endive de 140 g et… il me compte le tout au prix des shitakés à 18,40€ !!!pareil pour le reste, il n’ôte pas les fruits  ou légumes des sac  en tissu bio maison comme me le font les caissières ou caissiers d’Intermarché. J’ai toutes les photos.Le YANNOH  instant LIMA original 9,88€ la recharge  Partout moins de 7€ bio Creuse vend la recharge au prix de la boîte  ! et tout est ainsi\nFlexarôme 18,83€ 14,20€ ailleurs\nHarpagophytum 18,59€ entre 12 et 13€ sur Internet !\nDentifrice MESWAK 5€ ailleurs rentre 3,69€et 3,98€ et tout est comme cela et tellement peu souriant, pas un mot !\nIls profitent d’avoir peu de concurrence.\nLe bio est déjà cher, on le sait mais à bio Creuse c’est exagéré et les dates sont parfois très courtes si on habite à Gueret ça va on peut revenir ce n’est pas mon cas, j’habite bien loin,plus de 40 km.\nJe suis retournée pour un rendez-vous médical et bien je ne suis pas rentrée dans le magasin, j’ai préféré m’en passer que d’être arnaquée,  vraiment très désagréable de se faire avoir\nJe suis de plus en plus déçue par ce magasin. Pas d’échanges.",
+        "langue": "fr",
+        "date": "2026-04-07",
+        "auteur": "marie vl",
+        "auteur_lien": "https://www.google.com/maps/contrib/114596658190766207162/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUNzN2Y3ZGh3RRAB!2m1!1s0x47f97fcf28d2b6b5:0xf8df5d97e4b23f51"
+      },
+      {
+        "note": 1,
+        "texte": "Pas grand chose à ajouter aux autres commentaires : bon choix de produits dans l'ensemble, prix plutôt élevés. Attention aux produits à prix réduit ! Je n'ai malheureusement pas regardé la date limite de consommation et les deux articles achetés le 16 août 2021 étaient périmés depuis le 07.07.2021 et le 04.06.2021! Il me semble que c'est interdit en France.",
+        "langue": "fr",
+        "date": "2021-08-19",
+        "auteur": "Michael Vogel",
+        "auteur_lien": "https://www.google.com/maps/contrib/103196644432014357599/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSURhLW9MRGJnEAE!2m1!1s0x47f97fcf28d2b6b5:0xf8df5d97e4b23f51"
+      }
+    ]
+  },
+  "services": {
+    "releve": "2026-10-25",
+    "options": {
+      "delivery": true,
+      "restroom": false
+    },
+    "paiement": [
+      "carte bancaire",
+      "carte de débit",
+      "paiement sans contact"
+    ],
+    "parking": [
+      "parking gratuit"
+    ]
   }
 }

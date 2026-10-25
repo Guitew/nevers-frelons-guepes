@@ -40,8 +40,8 @@
     "etat": "absent",
     "premiere_detection": null,
     "derniere_detection": null,
-    "derniere_verification": "2026-10-10T11:08:55.541Z",
-    "echecs": 65,
+    "derniere_verification": "2026-10-25T09:45:58.784Z",
+    "echecs": 66,
     "url_detectee": null
   },
   "suggestion": {
@@ -61,7 +61,7 @@
   "dates": {
     "collecte": "2026-09-08",
     "publication": "2026-09-08",
-    "maj": "2026-10-18"
+    "maj": "2026-10-25"
   },
   "source": "google-places",
   "redaction": {
@@ -76,6 +76,14 @@
         "titre": "baraqueville en quelques mots",
         "paragraphes": [
           "Sur Google, l'établissement est classé « Garage automobile », dans notre rubrique Garage et automobile."
+        ]
+      },
+      {
+        "id": "prestations",
+        "titre": "Services et équipements de baraqueville",
+        "paragraphes": [
+          "Moyens de paiement déclarés : carte de débit et paiement sans contact.",
+          "Ces indications sont déclarées par l'établissement sur sa fiche Google (relevé du 25 octobre 2026)."
         ]
       },
       {
@@ -97,7 +105,7 @@
         "id": "avis",
         "titre": "La réputation de baraqueville",
         "paragraphes": [
-          "Note de 4,8 sur 5 pour 8 avis Google au relevé du 10 octobre 2026. Les avis se consultent sur la fiche Google, dont le lien figure sur cette page."
+          "Note de 4,8 sur 5 pour 8 avis Google au relevé du 25 octobre 2026. Les avis les plus parlants sont compilés ci-dessous, avec un lien vers la fiche d'origine."
         ]
       }
     ],
@@ -111,7 +119,7 @@
         "r": "La fiche Google de l'établissement mentionne : « Entrée accessible en fauteuil roulant ». Cette information est déclarative ; en cas de doute, vérifiez par téléphone."
       }
     ],
-    "genere_le": "2026-10-10"
+    "genere_le": "2026-10-25"
   },
   "statut_google": "OPERATIONAL",
   "audience": {
@@ -122,7 +130,7 @@
     "clicsRecents": 0,
     "fenetreRecenteJours": 28,
     "source": "search-console",
-    "date": "2026-10-24"
+    "date": "2026-10-25"
   },
   "indexation": {
     "etat": "non-indexee",
@@ -132,5 +140,64 @@
     "canonique_google": null,
     "source": "inspection",
     "date": "2026-10-18"
+  },
+  "avis_detail": {
+    "releve": "2026-10-25",
+    "liste": [
+      {
+        "note": 5,
+        "texte": "",
+        "langue": "",
+        "date": "2026-07-02",
+        "auteur": "Jean Marc Rouquette",
+        "auteur_lien": "https://www.google.com/maps/contrib/116391860823709059012/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25CQlFuRlhZbU55UzE5UFVWTkdka1YxYjA5dVoyYxAB!2m1!1s0x12ad87002c7c4fe3:0xb409fd125b5ad119"
+      },
+      {
+        "note": 5,
+        "texte": "",
+        "langue": "",
+        "date": "2026-04-15",
+        "auteur": "Ginette Brun",
+        "auteur_lien": "https://www.google.com/maps/contrib/107669204095419089174/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT21GV1QybHhORlprWVVKTmFHeG1ZMWxXUm5ob1NFRRAB!2m1!1s0x12ad87002c7c4fe3:0xb409fd125b5ad119"
+      },
+      {
+        "note": 5,
+        "texte": "",
+        "langue": "",
+        "date": "2026-04-11",
+        "auteur": "johanne firuth",
+        "auteur_lien": "https://www.google.com/maps/contrib/100488240927644918570/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2tkTlZqUkJiMVZuTFdGVllXSXlkMlV5YlhKTFZYYxAB!2m1!1s0x12ad87002c7c4fe3:0xb409fd125b5ad119"
+      },
+      {
+        "note": 4,
+        "texte": "",
+        "langue": "",
+        "date": "2026-02-23",
+        "auteur": "Fred E",
+        "auteur_lien": "https://www.google.com/maps/contrib/115617539870306297834/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25CcVlrdDNiV2R6VG5sS2VUSm5TVjlyZGtaU1dYYxAB!2m1!1s0x12ad87002c7c4fe3:0xb409fd125b5ad119"
+      },
+      {
+        "note": 5,
+        "texte": "Belle petite ville",
+        "langue": "fr",
+        "date": "2024-12-17",
+        "auteur": "Sousou Lyatasse",
+        "auteur_lien": "https://www.google.com/maps/contrib/104819916579102115122/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUR2aU1UeU1nEAE!2m1!1s0x12ad87002c7c4fe3:0xb409fd125b5ad119"
+      }
+    ]
+  },
+  "services": {
+    "releve": "2026-10-25",
+    "options": {},
+    "paiement": [
+      "carte de débit",
+      "paiement sans contact"
+    ],
+    "parking": []
   }
 }
