@@ -200,6 +200,98 @@
     "note": ""
   },
   {
+    "url": "https://www.dkmexperts-academie.fr/formations/formations-courtes/lutte-contre-les-insectes/",
+    "domaine": "dkmexperts-academie.fr",
+    "hote": "dkmexperts-academie.fr",
+    "type": "liste-prestataires",
+    "types": [
+      "liste-prestataires"
+    ],
+    "plateforme": "WordPress",
+    "titre": "Formation destructeur d'insectes, désinsectisation",
+    "langue": "fr-fr",
+    "scores": {
+      "seo": 100,
+      "ia": 100,
+      "priorite": 90,
+      "facilite": "contact"
+    },
+    "facilite": "contact",
+    "indexabilite": {
+      "indexable": true,
+      "motifs": [],
+      "googlebot": true,
+      "bingbot": true,
+      "canonique": null
+    },
+    "indexee": "inconnu",
+    "ia": {
+      "autorises": [
+        "GPTBot",
+        "OAI-SearchBot",
+        "ClaudeBot",
+        "PerplexityBot",
+        "Google-Extended"
+      ],
+      "bloques": [],
+      "taux": 100
+    },
+    "liens": {
+      "commentaires": "inconnu",
+      "contenu": "dofollow",
+      "signatures": "nofollow",
+      "auteurs": "inconnu",
+      "externes": 6
+    },
+    "champSiteWeb": false,
+    "captcha": false,
+    "connexionRequise": false,
+    "moderation": false,
+    "commentairesExistants": 0,
+    "widget": "",
+    "contact": null,
+    "lienInscription": null,
+    "concurrentsCites": [
+      "dkmexperts.fr"
+    ],
+    "themes": [
+      "frelons",
+      "guêpes",
+      "désinsectisation",
+      "nuisibles",
+      "insectes"
+    ],
+    "zonesTrouvees": [
+      "Grand Est"
+    ],
+    "nbMots": 1137,
+    "signaux": [
+      "cite 1 concurrent(s) : dkmexperts.fr",
+      "liens de la liste : dofollow"
+    ],
+    "origine": {
+      "type": "lien-externe",
+      "detail": "depuis dkmexperts.fr"
+    },
+    "decouverte": "2026-10-26",
+    "derniereVisite": "2026-10-26T11:11:02.233Z",
+    "statutHttp": 200,
+    "cible": {
+      "url": "https://allo-frelons.fr/formation-destructeur-dinsectes",
+      "niveau": 1,
+      "motif": "spot éditorial : lien direct vers le site",
+      "titre": "formation destructeur d'insectes",
+      "ancres": [
+        "ALLO FRELONS",
+        "allo-frelons.fr/formation-destructeur-dinsectes",
+        "formation destructeur d'insectes",
+        "ALLO FRELONS Grand Est"
+      ]
+    },
+    "etat": "a-traiter",
+    "note": ""
+  },
+  {
     "url": "https://www.entreprise-destruction-nid-de-guepes-et-frelons.fr/",
     "domaine": "entreprise-destruction-nid-de-guepes-et-frelons.fr",
     "hote": "entreprise-destruction-nid-de-guepes-et-frelons.fr",
@@ -868,6 +960,98 @@
         "ALLO FRELONS",
         "allo-frelons.fr/traitement-efficace-contre-les-guepes-frelons-et-frelons-asiatiques-a-santes-59211",
         "ALLO FRELONS Hauts-de-France"
+      ]
+    },
+    "etat": "a-traiter",
+    "note": ""
+  },
+  {
+    "url": "https://www.cra.wallonie.be/fr/le-piegeage-de-printemps-des-fondatrices-de-frelon-asiatique",
+    "domaine": "wallonie.be",
+    "hote": "cra.wallonie.be",
+    "type": "liste-prestataires",
+    "types": [
+      "liste-prestataires"
+    ],
+    "plateforme": "",
+    "titre": "Le piégeage de printemps des fondatrices de frelon asiatique en Wallonie : étude de terrain du piège couvercle — Centre wallon de…",
+    "langue": "fr",
+    "scores": {
+      "seo": 93,
+      "ia": 99,
+      "priorite": 86,
+      "facilite": "contact"
+    },
+    "facilite": "contact",
+    "indexabilite": {
+      "indexable": true,
+      "motifs": [],
+      "googlebot": true,
+      "bingbot": true,
+      "canonique": null
+    },
+    "indexee": "inconnu",
+    "ia": {
+      "autorises": [
+        "GPTBot",
+        "OAI-SearchBot",
+        "ClaudeBot",
+        "PerplexityBot",
+        "Google-Extended"
+      ],
+      "bloques": [],
+      "taux": 100
+    },
+    "liens": {
+      "commentaires": "inconnu",
+      "contenu": "dofollow",
+      "signatures": "inconnu",
+      "auteurs": "inconnu",
+      "externes": 10
+    },
+    "champSiteWeb": false,
+    "captcha": false,
+    "connexionRequise": false,
+    "moderation": false,
+    "commentairesExistants": 0,
+    "widget": "",
+    "contact": null,
+    "lienInscription": null,
+    "concurrentsCites": [],
+    "themes": [
+      "frelon",
+      "frelons",
+      "frelon asiatique",
+      "frelon européen",
+      "guêpes",
+      "abeilles",
+      "biodiversité"
+    ],
+    "zonesTrouvees": [
+      "Wallonie"
+    ],
+    "nbMots": 663,
+    "signaux": [
+      "liste : « destruction des nids »",
+      "6 lien(s) vers des sites du métier",
+      "liens de la liste : dofollow"
+    ],
+    "origine": {
+      "type": "lien-externe",
+      "detail": "depuis renature.brussels"
+    },
+    "decouverte": "2026-10-26",
+    "derniereVisite": "2026-10-26T11:09:57.486Z",
+    "statutHttp": 200,
+    "cible": {
+      "url": "https://allo-frelons.fr/fabriquer-piege-selectif-fondatrices",
+      "niveau": 1,
+      "motif": "spot éditorial : lien direct vers le site",
+      "titre": "",
+      "ancres": [
+        "ALLO FRELONS",
+        "allo-frelons.fr/fabriquer-piege-selectif-fondatrices",
+        "ALLO FRELONS Wallonie"
       ]
     },
     "etat": "a-traiter",
@@ -1722,6 +1906,101 @@
     "note": ""
   },
   {
+    "url": "https://www.anses.fr/fr/content/piqures-de-guepes-frelons-abeilles-quel-bilan-depuis-2014",
+    "domaine": "anses.fr",
+    "hote": "anses.fr",
+    "type": "liste-prestataires",
+    "types": [
+      "liste-prestataires"
+    ],
+    "plateforme": "Drupal",
+    "titre": "Piqûres de guêpes, frelons et abeilles : quel bilan depuis 2014 ? | Agence nationale de sécurité sanitaire de l’alimentation, de…",
+    "langue": "fr",
+    "scores": {
+      "seo": 92,
+      "ia": 99,
+      "priorite": 85,
+      "facilite": "contact"
+    },
+    "facilite": "contact",
+    "indexabilite": {
+      "indexable": true,
+      "motifs": [],
+      "googlebot": true,
+      "bingbot": true,
+      "canonique": null
+    },
+    "indexee": "inconnu",
+    "ia": {
+      "autorises": [
+        "GPTBot",
+        "OAI-SearchBot",
+        "ClaudeBot",
+        "PerplexityBot",
+        "Google-Extended"
+      ],
+      "bloques": [],
+      "taux": 100
+    },
+    "liens": {
+      "commentaires": "inconnu",
+      "contenu": "dofollow",
+      "signatures": "inconnu",
+      "auteurs": "inconnu",
+      "externes": 12
+    },
+    "champSiteWeb": false,
+    "captcha": true,
+    "connexionRequise": false,
+    "moderation": false,
+    "commentairesExistants": 0,
+    "widget": "",
+    "contact": null,
+    "lienInscription": null,
+    "concurrentsCites": [],
+    "themes": [
+      "frelon",
+      "frelons",
+      "frelon asiatique",
+      "guêpe",
+      "guêpes",
+      "abeille",
+      "abeilles",
+      "insectes"
+    ],
+    "zonesTrouvees": [
+      "Lot-et-Garonne"
+    ],
+    "nbMots": 1470,
+    "signaux": [
+      "liste : « destruction des nids »",
+      "5 lien(s) vers des sites du métier",
+      "liens de la liste : dofollow",
+      "captcha détecté sur la page"
+    ],
+    "origine": {
+      "type": "lien-externe",
+      "detail": "depuis mesdepanneurs.fr"
+    },
+    "decouverte": "2026-10-26",
+    "derniereVisite": "2026-10-26T11:10:55.912Z",
+    "statutHttp": 200,
+    "cible": {
+      "url": "https://allo-frelons.fr/abeilles-vs-frelon",
+      "niveau": 1,
+      "motif": "spot éditorial : lien direct vers le site",
+      "titre": "abeilles vs frelon",
+      "ancres": [
+        "ALLO FRELONS",
+        "allo-frelons.fr/abeilles-vs-frelon",
+        "abeilles vs frelon",
+        "ALLO FRELONS Lot-et-Garonne"
+      ]
+    },
+    "etat": "a-traiter",
+    "note": ""
+  },
+  {
     "url": "https://www.archeagglo.fr/vivre-ici/environnement/agriculture/les-especes-invasives/",
     "domaine": "archeagglo.fr",
     "hote": "archeagglo.fr",
@@ -1907,6 +2186,839 @@
         "ALLO FRELONS",
         "allo-frelons.fr/entreprise-de-destruction-des-nids-de-guepes-et-frelons-a-bezons-95-expertise-et-securite-dans-le-val-d-oise",
         "ALLO FRELONS Paris"
+      ]
+    },
+    "etat": "a-traiter",
+    "note": ""
+  },
+  {
+    "url": "https://www.destruction-niddeguepes.fr/alo%C3%AEs-miotte/entreprise-destruction-nid-guepes-Dijon",
+    "domaine": "destruction-niddeguepes.fr",
+    "hote": "destruction-niddeguepes.fr",
+    "type": "liste-prestataires",
+    "types": [
+      "liste-prestataires"
+    ],
+    "plateforme": "",
+    "titre": "Dijon : faire détruire les nids de guêpes",
+    "langue": "fr",
+    "scores": {
+      "seo": 92,
+      "ia": 94,
+      "priorite": 84,
+      "facilite": "contact"
+    },
+    "facilite": "contact",
+    "indexabilite": {
+      "indexable": true,
+      "motifs": [],
+      "googlebot": true,
+      "bingbot": true,
+      "canonique": null
+    },
+    "indexee": "inconnu",
+    "ia": {
+      "autorises": [
+        "GPTBot",
+        "OAI-SearchBot",
+        "ClaudeBot",
+        "PerplexityBot",
+        "Google-Extended"
+      ],
+      "bloques": [],
+      "taux": 100
+    },
+    "liens": {
+      "commentaires": "inconnu",
+      "contenu": "dofollow",
+      "signatures": "inconnu",
+      "auteurs": "inconnu",
+      "externes": 7
+    },
+    "champSiteWeb": false,
+    "captcha": true,
+    "connexionRequise": false,
+    "moderation": false,
+    "commentairesExistants": 0,
+    "widget": "",
+    "contact": null,
+    "lienInscription": null,
+    "concurrentsCites": [],
+    "themes": [
+      "guêpes",
+      "nid de guêpes",
+      "destruction de nid",
+      "abeilles",
+      "apiculteur"
+    ],
+    "zonesTrouvees": [
+      "Paris",
+      "Dijon",
+      "Côte-d'Or"
+    ],
+    "nbMots": 271,
+    "signaux": [
+      "liste : « destruction des nids »",
+      "6 lien(s) vers des sites du métier",
+      "liens de la liste : dofollow",
+      "captcha détecté sur la page"
+    ],
+    "origine": {
+      "type": "lien-externe",
+      "detail": "depuis guepes-apens.fr"
+    },
+    "decouverte": "2026-10-26",
+    "derniereVisite": "2026-10-26T11:09:50.826Z",
+    "statutHttp": 200,
+    "cible": {
+      "url": "https://allo-frelons.fr/destruction-des-nids-de-guepes-et-frelons-a-sennecey-les-dijon-21",
+      "niveau": 1,
+      "motif": "spot éditorial : lien direct vers le site",
+      "titre": "",
+      "ancres": [
+        "ALLO FRELONS",
+        "allo-frelons.fr/destruction-des-nids-de-guepes-et-frelons-a-sennecey-les-dijon-21",
+        "ALLO FRELONS Paris"
+      ]
+    },
+    "etat": "a-traiter",
+    "note": ""
+  },
+  {
+    "url": "https://www.destruction-niddeguepes.fr/andr%C3%A9-paul-etienne/entreprise-destruction-nid-guepes-Pontarlier",
+    "domaine": "destruction-niddeguepes.fr",
+    "hote": "destruction-niddeguepes.fr",
+    "type": "liste-prestataires",
+    "types": [
+      "liste-prestataires"
+    ],
+    "plateforme": "",
+    "titre": "Détruire les nids de guêpes | Pontarlier",
+    "langue": "fr",
+    "scores": {
+      "seo": 92,
+      "ia": 94,
+      "priorite": 84,
+      "facilite": "contact"
+    },
+    "facilite": "contact",
+    "indexabilite": {
+      "indexable": true,
+      "motifs": [],
+      "googlebot": true,
+      "bingbot": true,
+      "canonique": null
+    },
+    "indexee": "inconnu",
+    "ia": {
+      "autorises": [
+        "GPTBot",
+        "OAI-SearchBot",
+        "ClaudeBot",
+        "PerplexityBot",
+        "Google-Extended"
+      ],
+      "bloques": [],
+      "taux": 100
+    },
+    "liens": {
+      "commentaires": "inconnu",
+      "contenu": "dofollow",
+      "signatures": "inconnu",
+      "auteurs": "inconnu",
+      "externes": 7
+    },
+    "champSiteWeb": false,
+    "captcha": true,
+    "connexionRequise": false,
+    "moderation": false,
+    "commentairesExistants": 0,
+    "widget": "",
+    "contact": null,
+    "lienInscription": null,
+    "concurrentsCites": [],
+    "themes": [
+      "guêpes",
+      "nid de guêpes",
+      "destruction de nid",
+      "abeilles",
+      "apiculteur"
+    ],
+    "zonesTrouvees": [
+      "Doubs"
+    ],
+    "nbMots": 258,
+    "signaux": [
+      "liste : « destruction des nids »",
+      "6 lien(s) vers des sites du métier",
+      "liens de la liste : dofollow",
+      "captcha détecté sur la page"
+    ],
+    "origine": {
+      "type": "lien-externe",
+      "detail": "depuis guepes-apens.fr"
+    },
+    "decouverte": "2026-10-26",
+    "derniereVisite": "2026-10-26T11:09:53.351Z",
+    "statutHttp": 200,
+    "cible": {
+      "url": "https://allo-frelons.fr/guepes-frelons-castelsarrasin-detruire-les-nids",
+      "niveau": 1,
+      "motif": "spot éditorial : lien direct vers le site",
+      "titre": "",
+      "ancres": [
+        "ALLO FRELONS",
+        "allo-frelons.fr/guepes-frelons-castelsarrasin-detruire-les-nids",
+        "ALLO FRELONS Doubs"
+      ]
+    },
+    "etat": "a-traiter",
+    "note": ""
+  },
+  {
+    "url": "https://www.destruction-niddeguepes.fr/blot-j%C3%A9r%C3%A9mie/entreprise-destruction-nid-guepes-LA%20CIOTAT",
+    "domaine": "destruction-niddeguepes.fr",
+    "hote": "destruction-niddeguepes.fr",
+    "type": "liste-prestataires",
+    "types": [
+      "liste-prestataires"
+    ],
+    "plateforme": "",
+    "titre": "Faire détruire les nids de guêpes | La Ciotat",
+    "langue": "fr",
+    "scores": {
+      "seo": 92,
+      "ia": 94,
+      "priorite": 84,
+      "facilite": "contact"
+    },
+    "facilite": "contact",
+    "indexabilite": {
+      "indexable": true,
+      "motifs": [],
+      "googlebot": true,
+      "bingbot": true,
+      "canonique": null
+    },
+    "indexee": "inconnu",
+    "ia": {
+      "autorises": [
+        "GPTBot",
+        "OAI-SearchBot",
+        "ClaudeBot",
+        "PerplexityBot",
+        "Google-Extended"
+      ],
+      "bloques": [],
+      "taux": 100
+    },
+    "liens": {
+      "commentaires": "inconnu",
+      "contenu": "dofollow",
+      "signatures": "inconnu",
+      "auteurs": "inconnu",
+      "externes": 7
+    },
+    "champSiteWeb": false,
+    "captcha": true,
+    "connexionRequise": false,
+    "moderation": false,
+    "commentairesExistants": 0,
+    "widget": "",
+    "contact": null,
+    "lienInscription": null,
+    "concurrentsCites": [],
+    "themes": [
+      "guêpes",
+      "nid de guêpes",
+      "destruction de nid",
+      "abeilles",
+      "apiculteur"
+    ],
+    "zonesTrouvees": [
+      "Bouches-du-Rhône",
+      "Rhône",
+      "Var"
+    ],
+    "nbMots": 274,
+    "signaux": [
+      "liste : « destruction des nids »",
+      "6 lien(s) vers des sites du métier",
+      "liens de la liste : dofollow",
+      "captcha détecté sur la page"
+    ],
+    "origine": {
+      "type": "lien-externe",
+      "detail": "depuis guepes-apens.fr"
+    },
+    "decouverte": "2026-10-26",
+    "derniereVisite": "2026-10-26T11:09:45.817Z",
+    "statutHttp": 200,
+    "cible": {
+      "url": "https://allo-frelons.fr/faire-detruire-des-nids-de-frelons-et-de-guepes-a-begles",
+      "niveau": 1,
+      "motif": "spot éditorial : lien direct vers le site",
+      "titre": "",
+      "ancres": [
+        "ALLO FRELONS",
+        "allo-frelons.fr/faire-detruire-des-nids-de-frelons-et-de-guepes-a-begles",
+        "ALLO FRELONS Bouches-du-Rhône"
+      ]
+    },
+    "etat": "a-traiter",
+    "note": ""
+  },
+  {
+    "url": "https://www.destruction-niddeguepes.fr/damiens-thomas/entreprise-destruction-nid-guepes-AVIGNON",
+    "domaine": "destruction-niddeguepes.fr",
+    "hote": "destruction-niddeguepes.fr",
+    "type": "liste-prestataires",
+    "types": [
+      "liste-prestataires"
+    ],
+    "plateforme": "",
+    "titre": "Destruction de nids de guêpes : contact | Avignon",
+    "langue": "fr",
+    "scores": {
+      "seo": 92,
+      "ia": 94,
+      "priorite": 84,
+      "facilite": "contact"
+    },
+    "facilite": "contact",
+    "indexabilite": {
+      "indexable": true,
+      "motifs": [],
+      "googlebot": true,
+      "bingbot": true,
+      "canonique": null
+    },
+    "indexee": "inconnu",
+    "ia": {
+      "autorises": [
+        "GPTBot",
+        "OAI-SearchBot",
+        "ClaudeBot",
+        "PerplexityBot",
+        "Google-Extended"
+      ],
+      "bloques": [],
+      "taux": 100
+    },
+    "liens": {
+      "commentaires": "inconnu",
+      "contenu": "dofollow",
+      "signatures": "inconnu",
+      "auteurs": "inconnu",
+      "externes": 7
+    },
+    "champSiteWeb": false,
+    "captcha": true,
+    "connexionRequise": false,
+    "moderation": false,
+    "commentairesExistants": 0,
+    "widget": "",
+    "contact": null,
+    "lienInscription": null,
+    "concurrentsCites": [],
+    "themes": [
+      "guêpes",
+      "nid de guêpes",
+      "destruction de nid",
+      "abeilles",
+      "apiculteur"
+    ],
+    "zonesTrouvees": [
+      "Vaucluse"
+    ],
+    "nbMots": 269,
+    "signaux": [
+      "liste : « destruction des nids »",
+      "6 lien(s) vers des sites du métier",
+      "liens de la liste : dofollow",
+      "captcha détecté sur la page"
+    ],
+    "origine": {
+      "type": "lien-externe",
+      "detail": "depuis guepes-apens.fr"
+    },
+    "decouverte": "2026-10-26",
+    "derniereVisite": "2026-10-26T11:09:48.284Z",
+    "statutHttp": 200,
+    "cible": {
+      "url": "https://allo-frelons.fr/destruction-des-nids-de-guepes-et-frelons-a-morieres-les-avignon",
+      "niveau": 1,
+      "motif": "spot éditorial : lien direct vers le site",
+      "titre": "",
+      "ancres": [
+        "ALLO FRELONS",
+        "allo-frelons.fr/destruction-des-nids-de-guepes-et-frelons-a-morieres-les-avignon",
+        "ALLO FRELONS Vaucluse"
+      ]
+    },
+    "etat": "a-traiter",
+    "note": ""
+  },
+  {
+    "url": "https://www.destruction-niddeguepes.fr/delouche-cl%C3%A9ment/entreprise-destruction-nid-guepes-Oraison",
+    "domaine": "destruction-niddeguepes.fr",
+    "hote": "destruction-niddeguepes.fr",
+    "type": "liste-prestataires",
+    "types": [
+      "liste-prestataires"
+    ],
+    "plateforme": "",
+    "titre": "Destruction de nid de guêpes à Oraison",
+    "langue": "fr",
+    "scores": {
+      "seo": 92,
+      "ia": 94,
+      "priorite": 84,
+      "facilite": "contact"
+    },
+    "facilite": "contact",
+    "indexabilite": {
+      "indexable": true,
+      "motifs": [],
+      "googlebot": true,
+      "bingbot": true,
+      "canonique": null
+    },
+    "indexee": "inconnu",
+    "ia": {
+      "autorises": [
+        "GPTBot",
+        "OAI-SearchBot",
+        "ClaudeBot",
+        "PerplexityBot",
+        "Google-Extended"
+      ],
+      "bloques": [],
+      "taux": 100
+    },
+    "liens": {
+      "commentaires": "inconnu",
+      "contenu": "dofollow",
+      "signatures": "inconnu",
+      "auteurs": "inconnu",
+      "externes": 7
+    },
+    "champSiteWeb": false,
+    "captcha": true,
+    "connexionRequise": false,
+    "moderation": false,
+    "commentairesExistants": 0,
+    "widget": "",
+    "contact": null,
+    "lienInscription": null,
+    "concurrentsCites": [],
+    "themes": [
+      "guêpes",
+      "nid de guêpes",
+      "destruction de nid",
+      "abeilles",
+      "apiculteur"
+    ],
+    "zonesTrouvees": [
+      "Provence",
+      "Alpes-de-Haute-Provence"
+    ],
+    "nbMots": 271,
+    "signaux": [
+      "liste : « destruction des nids »",
+      "6 lien(s) vers des sites du métier",
+      "liens de la liste : dofollow",
+      "captcha détecté sur la page"
+    ],
+    "origine": {
+      "type": "lien-externe",
+      "detail": "depuis guepes-apens.fr"
+    },
+    "decouverte": "2026-10-26",
+    "derniereVisite": "2026-10-26T11:09:30.813Z",
+    "statutHttp": 200,
+    "cible": {
+      "url": "https://allo-frelons.fr/guepes",
+      "niveau": 1,
+      "motif": "spot éditorial : lien direct vers le site",
+      "titre": "Les guêpes, biologie, les différentes espèces, les solutions",
+      "ancres": [
+        "ALLO FRELONS",
+        "allo-frelons.fr/guepes",
+        "Les guêpes, biologie, les différentes espèces, les solutions",
+        "ALLO FRELONS Provence"
+      ]
+    },
+    "etat": "a-traiter",
+    "note": ""
+  },
+  {
+    "url": "https://www.destruction-niddeguepes.fr/latournerie-mathieu/entreprise-destruction-nid-guepes-AIX%20EN%20PROVENCE",
+    "domaine": "destruction-niddeguepes.fr",
+    "hote": "destruction-niddeguepes.fr",
+    "type": "liste-prestataires",
+    "types": [
+      "liste-prestataires"
+    ],
+    "plateforme": "",
+    "titre": "Aix en Provence : faites détruire un nid de guêpes",
+    "langue": "fr",
+    "scores": {
+      "seo": 92,
+      "ia": 94,
+      "priorite": 84,
+      "facilite": "contact"
+    },
+    "facilite": "contact",
+    "indexabilite": {
+      "indexable": true,
+      "motifs": [],
+      "googlebot": true,
+      "bingbot": true,
+      "canonique": null
+    },
+    "indexee": "inconnu",
+    "ia": {
+      "autorises": [
+        "GPTBot",
+        "OAI-SearchBot",
+        "ClaudeBot",
+        "PerplexityBot",
+        "Google-Extended"
+      ],
+      "bloques": [],
+      "taux": 100
+    },
+    "liens": {
+      "commentaires": "inconnu",
+      "contenu": "dofollow",
+      "signatures": "inconnu",
+      "auteurs": "inconnu",
+      "externes": 7
+    },
+    "champSiteWeb": false,
+    "captcha": true,
+    "connexionRequise": false,
+    "moderation": false,
+    "commentairesExistants": 0,
+    "widget": "",
+    "contact": null,
+    "lienInscription": null,
+    "concurrentsCites": [],
+    "themes": [
+      "frelons",
+      "guêpes",
+      "nid de guêpes",
+      "destruction de nid",
+      "abeilles",
+      "apiculteur"
+    ],
+    "zonesTrouvees": [
+      "Provence",
+      "Bouches-du-Rhône",
+      "Rhône"
+    ],
+    "nbMots": 278,
+    "signaux": [
+      "liste : « destruction des nids »",
+      "6 lien(s) vers des sites du métier",
+      "liens de la liste : dofollow",
+      "captcha détecté sur la page"
+    ],
+    "origine": {
+      "type": "lien-externe",
+      "detail": "depuis guepes-apens.fr"
+    },
+    "decouverte": "2026-10-26",
+    "derniereVisite": "2026-10-26T11:09:43.314Z",
+    "statutHttp": 200,
+    "cible": {
+      "url": "https://allo-frelons.fr/entreprise-destruction-nids-guepes-frelons-aix-en-provence",
+      "niveau": 1,
+      "motif": "spot éditorial : lien direct vers le site",
+      "titre": "Destruction nid guêpes et frelons à Aix-en-Provence",
+      "ancres": [
+        "ALLO FRELONS",
+        "allo-frelons.fr/entreprise-destruction-nids-guepes-frelons-aix-en-provence",
+        "Destruction nid guêpes et frelons à Aix-en-Provence",
+        "ALLO FRELONS Provence"
+      ]
+    },
+    "etat": "a-traiter",
+    "note": ""
+  },
+  {
+    "url": "https://www.destruction-niddeguepes.fr/le-louet-k%C3%A9vin/entreprise-destruction-nid-guepes-AUBAGNE",
+    "domaine": "destruction-niddeguepes.fr",
+    "hote": "destruction-niddeguepes.fr",
+    "type": "liste-prestataires",
+    "types": [
+      "liste-prestataires"
+    ],
+    "plateforme": "",
+    "titre": "Aubagne : faites détruire votre nid de guêpes",
+    "langue": "fr",
+    "scores": {
+      "seo": 92,
+      "ia": 94,
+      "priorite": 84,
+      "facilite": "contact"
+    },
+    "facilite": "contact",
+    "indexabilite": {
+      "indexable": true,
+      "motifs": [],
+      "googlebot": true,
+      "bingbot": true,
+      "canonique": null
+    },
+    "indexee": "inconnu",
+    "ia": {
+      "autorises": [
+        "GPTBot",
+        "OAI-SearchBot",
+        "ClaudeBot",
+        "PerplexityBot",
+        "Google-Extended"
+      ],
+      "bloques": [],
+      "taux": 100
+    },
+    "liens": {
+      "commentaires": "inconnu",
+      "contenu": "dofollow",
+      "signatures": "inconnu",
+      "auteurs": "inconnu",
+      "externes": 7
+    },
+    "champSiteWeb": false,
+    "captcha": true,
+    "connexionRequise": false,
+    "moderation": false,
+    "commentairesExistants": 0,
+    "widget": "",
+    "contact": null,
+    "lienInscription": null,
+    "concurrentsCites": [],
+    "themes": [
+      "guêpes",
+      "nid de guêpes",
+      "destruction de nid",
+      "abeilles",
+      "apiculteur"
+    ],
+    "zonesTrouvees": [
+      "Bouches-du-Rhône",
+      "Rhône"
+    ],
+    "nbMots": 270,
+    "signaux": [
+      "liste : « destruction des nids »",
+      "6 lien(s) vers des sites du métier",
+      "liens de la liste : dofollow",
+      "captcha détecté sur la page"
+    ],
+    "origine": {
+      "type": "lien-externe",
+      "detail": "depuis guepes-apens.fr"
+    },
+    "decouverte": "2026-10-26",
+    "derniereVisite": "2026-10-26T11:09:40.817Z",
+    "statutHttp": 200,
+    "cible": {
+      "url": "https://allo-frelons.fr/comment-detruire-nid-d-abeille",
+      "niveau": 1,
+      "motif": "spot éditorial : lien direct vers le site",
+      "titre": "comment détruire un nid d abeille",
+      "ancres": [
+        "ALLO FRELONS",
+        "allo-frelons.fr/comment-detruire-nid-d-abeille",
+        "comment détruire un nid d abeille",
+        "ALLO FRELONS Bouches-du-Rhône"
+      ]
+    },
+    "etat": "a-traiter",
+    "note": ""
+  },
+  {
+    "url": "https://www.destruction-niddeguepes.fr/massenhove-romain/entreprise-destruction-nid-guepes-Charleville%20M%C3%A9zi%C3%A8re",
+    "domaine": "destruction-niddeguepes.fr",
+    "hote": "destruction-niddeguepes.fr",
+    "type": "liste-prestataires",
+    "types": [
+      "liste-prestataires"
+    ],
+    "plateforme": "",
+    "titre": "Destruction des nids de guêpes | Charleville Mézière",
+    "langue": "fr",
+    "scores": {
+      "seo": 92,
+      "ia": 94,
+      "priorite": 84,
+      "facilite": "contact"
+    },
+    "facilite": "contact",
+    "indexabilite": {
+      "indexable": true,
+      "motifs": [],
+      "googlebot": true,
+      "bingbot": true,
+      "canonique": null
+    },
+    "indexee": "inconnu",
+    "ia": {
+      "autorises": [
+        "GPTBot",
+        "OAI-SearchBot",
+        "ClaudeBot",
+        "PerplexityBot",
+        "Google-Extended"
+      ],
+      "bloques": [],
+      "taux": 100
+    },
+    "liens": {
+      "commentaires": "inconnu",
+      "contenu": "dofollow",
+      "signatures": "inconnu",
+      "auteurs": "inconnu",
+      "externes": 7
+    },
+    "champSiteWeb": false,
+    "captcha": true,
+    "connexionRequise": false,
+    "moderation": false,
+    "commentairesExistants": 0,
+    "widget": "",
+    "contact": null,
+    "lienInscription": null,
+    "concurrentsCites": [],
+    "themes": [
+      "guêpes",
+      "nid de guêpes",
+      "destruction de nid",
+      "abeilles",
+      "apiculteur"
+    ],
+    "zonesTrouvees": [
+      "Ardennes"
+    ],
+    "nbMots": 268,
+    "signaux": [
+      "liste : « destruction des nids »",
+      "6 lien(s) vers des sites du métier",
+      "liens de la liste : dofollow",
+      "captcha détecté sur la page"
+    ],
+    "origine": {
+      "type": "lien-externe",
+      "detail": "depuis guepes-apens.fr"
+    },
+    "decouverte": "2026-10-26",
+    "derniereVisite": "2026-10-26T11:09:33.311Z",
+    "statutHttp": 200,
+    "cible": {
+      "url": "https://allo-frelons.fr/guepes",
+      "niveau": 1,
+      "motif": "spot éditorial : lien direct vers le site",
+      "titre": "Les guêpes, biologie, les différentes espèces, les solutions",
+      "ancres": [
+        "ALLO FRELONS",
+        "allo-frelons.fr/guepes",
+        "Les guêpes, biologie, les différentes espèces, les solutions",
+        "ALLO FRELONS Ardennes"
+      ]
+    },
+    "etat": "a-traiter",
+    "note": ""
+  },
+  {
+    "url": "https://www.destruction-niddeguepes.fr/sauer-johan/entreprise-destruction-nid-guepes-BAUMES-LES-DAMES",
+    "domaine": "destruction-niddeguepes.fr",
+    "hote": "destruction-niddeguepes.fr",
+    "type": "liste-prestataires",
+    "types": [
+      "liste-prestataires"
+    ],
+    "plateforme": "",
+    "titre": "Nid de guêpes à détruire | Baumes-Les-Dames",
+    "langue": "fr",
+    "scores": {
+      "seo": 92,
+      "ia": 94,
+      "priorite": 84,
+      "facilite": "contact"
+    },
+    "facilite": "contact",
+    "indexabilite": {
+      "indexable": true,
+      "motifs": [],
+      "googlebot": true,
+      "bingbot": true,
+      "canonique": null
+    },
+    "indexee": "inconnu",
+    "ia": {
+      "autorises": [
+        "GPTBot",
+        "OAI-SearchBot",
+        "ClaudeBot",
+        "PerplexityBot",
+        "Google-Extended"
+      ],
+      "bloques": [],
+      "taux": 100
+    },
+    "liens": {
+      "commentaires": "inconnu",
+      "contenu": "dofollow",
+      "signatures": "inconnu",
+      "auteurs": "inconnu",
+      "externes": 7
+    },
+    "champSiteWeb": false,
+    "captcha": true,
+    "connexionRequise": false,
+    "moderation": false,
+    "commentairesExistants": 0,
+    "widget": "",
+    "contact": null,
+    "lienInscription": null,
+    "concurrentsCites": [],
+    "themes": [
+      "guêpes",
+      "nid de guêpes",
+      "destruction de nid",
+      "abeilles",
+      "apiculteur"
+    ],
+    "zonesTrouvees": [
+      "Doubs"
+    ],
+    "nbMots": 265,
+    "signaux": [
+      "liste : « destruction des nids »",
+      "6 lien(s) vers des sites du métier",
+      "liens de la liste : dofollow",
+      "captcha détecté sur la page"
+    ],
+    "origine": {
+      "type": "lien-externe",
+      "detail": "depuis guepes-apens.fr"
+    },
+    "decouverte": "2026-10-26",
+    "derniereVisite": "2026-10-26T11:09:55.809Z",
+    "statutHttp": 200,
+    "cible": {
+      "url": "https://allo-frelons.fr/prestataire-destruction-nids-dguepes-frelons-baume-les-dames-25110",
+      "niveau": 1,
+      "motif": "spot éditorial : lien direct vers le site",
+      "titre": "Destruction nid guêpes et frelons à Baume-les-Dames",
+      "ancres": [
+        "ALLO FRELONS",
+        "allo-frelons.fr/prestataire-destruction-nids-dguepes-frelons-baume-les-dames-25110",
+        "Destruction nid guêpes et frelons à Baume-les-Dames",
+        "ALLO FRELONS Doubs"
       ]
     },
     "etat": "a-traiter",
@@ -2202,6 +3314,104 @@
     "note": ""
   },
   {
+    "url": "https://www.destruction-guepes-et-frelons.fr/contact",
+    "domaine": "destruction-guepes-et-frelons.fr",
+    "hote": "destruction-guepes-et-frelons.fr",
+    "type": "liste-prestataires",
+    "types": [
+      "liste-prestataires"
+    ],
+    "plateforme": "",
+    "titre": "Contact",
+    "langue": "",
+    "scores": {
+      "seo": 88,
+      "ia": 100,
+      "priorite": 83,
+      "facilite": "contact"
+    },
+    "facilite": "contact",
+    "indexabilite": {
+      "indexable": true,
+      "motifs": [],
+      "googlebot": true,
+      "bingbot": true,
+      "canonique": null
+    },
+    "indexee": "inconnu",
+    "ia": {
+      "autorises": [
+        "GPTBot",
+        "OAI-SearchBot",
+        "ClaudeBot",
+        "PerplexityBot",
+        "Google-Extended"
+      ],
+      "bloques": [],
+      "taux": 100
+    },
+    "liens": {
+      "commentaires": "inconnu",
+      "contenu": "inconnu",
+      "signatures": "inconnu",
+      "auteurs": "inconnu",
+      "externes": 4
+    },
+    "champSiteWeb": false,
+    "captcha": true,
+    "connexionRequise": false,
+    "moderation": false,
+    "commentairesExistants": 0,
+    "widget": "",
+    "contact": null,
+    "lienInscription": null,
+    "concurrentsCites": [
+      "dkmexperts.fr"
+    ],
+    "themes": [
+      "frelons",
+      "guêpes",
+      "nid de guêpes",
+      "destruction de nid",
+      "abeilles"
+    ],
+    "zonesTrouvees": [
+      "Lille",
+      "Nord",
+      "Pas-de-Calais",
+      "Lyon",
+      "Marseille",
+      "Nantes"
+    ],
+    "nbMots": 2269,
+    "signaux": [
+      "cite 1 concurrent(s) : dkmexperts.fr",
+      "liste : « destruction des nids »",
+      "captcha détecté sur la page"
+    ],
+    "origine": {
+      "type": "lien-interne",
+      "detail": "destruction-guepes-et-frelons.fr"
+    },
+    "decouverte": "2026-10-26",
+    "derniereVisite": "2026-10-26T11:09:29.116Z",
+    "statutHttp": 200,
+    "cible": {
+      "url": "https://allo-frelons.fr/guepes",
+      "niveau": 1,
+      "motif": "spot éditorial : lien direct vers le site",
+      "titre": "Les guêpes, biologie, les différentes espèces, les solutions",
+      "ancres": [
+        "ALLO FRELONS",
+        "allo-frelons.fr/guepes",
+        "Les guêpes, biologie, les différentes espèces, les solutions",
+        "ALLO FRELONS Lille"
+      ]
+    },
+    "etat": "a-traiter",
+    "note": ""
+  },
+  {
     "url": "https://www.mesdepanneurs.fr/blog/detruire-nid-fourmis",
     "domaine": "mesdepanneurs.fr",
     "hote": "mesdepanneurs.fr",
@@ -2297,6 +3507,103 @@
     },
     "etat": "a-traiter",
     "note": ""
+  },
+  {
+    "url": "https://www.rtl.fr/actu/debats-societe/les-frelons-asiatiques-sont-ils-vraiment-dangereux-7800733442",
+    "domaine": "rtl.fr",
+    "hote": "rtl.fr",
+    "type": "liste-prestataires",
+    "types": [
+      "liste-prestataires"
+    ],
+    "plateforme": "",
+    "titre": "Les frelons asiatiques sont-ils vraiment dangereux ?",
+    "langue": "fr-fr",
+    "scores": {
+      "seo": 93,
+      "ia": 89,
+      "priorite": 82,
+      "facilite": "contact"
+    },
+    "facilite": "contact",
+    "indexabilite": {
+      "indexable": true,
+      "motifs": [],
+      "googlebot": true,
+      "bingbot": true,
+      "canonique": null
+    },
+    "indexee": "inconnu",
+    "ia": {
+      "autorises": [
+        "OAI-SearchBot",
+        "ClaudeBot",
+        "PerplexityBot"
+      ],
+      "bloques": [
+        "GPTBot",
+        "Google-Extended"
+      ],
+      "taux": 78
+    },
+    "liens": {
+      "commentaires": "inconnu",
+      "contenu": "dofollow",
+      "signatures": "inconnu",
+      "auteurs": "inconnu",
+      "externes": 33
+    },
+    "champSiteWeb": false,
+    "captcha": false,
+    "connexionRequise": false,
+    "moderation": false,
+    "commentairesExistants": 0,
+    "widget": "",
+    "contact": null,
+    "lienInscription": null,
+    "concurrentsCites": [],
+    "themes": [
+      "frelon",
+      "frelons",
+      "frelon asiatique",
+      "frelon européen",
+      "guêpe",
+      "guêpes",
+      "nid de guêpes",
+      "abeille"
+    ],
+    "zonesTrouvees": [
+      "Nord",
+      "Oise",
+      "Val-d'Oise"
+    ],
+    "nbMots": 955,
+    "signaux": [
+      "4 lien(s) vers des sites du métier",
+      "liens de la liste : dofollow"
+    ],
+    "origine": {
+      "type": "lien-externe",
+      "detail": "depuis destruction-niddeguepes.fr"
+    },
+    "decouverte": "2026-10-26",
+    "derniereVisite": "2026-10-26T11:09:36.082Z",
+    "statutHttp": 200,
+    "cible": {
+      "url": "https://allo-frelons.fr/guepes",
+      "niveau": 1,
+      "motif": "spot éditorial : lien direct vers le site",
+      "titre": "Les guêpes, biologie, les différentes espèces, les solutions",
+      "ancres": [
+        "ALLO FRELONS",
+        "allo-frelons.fr/guepes",
+        "Les guêpes, biologie, les différentes espèces, les solutions",
+        "ALLO FRELONS Nord"
+      ]
+    },
+    "etat": "a-traiter",
+    "note": "",
+    "visites": 2
   },
   {
     "url": "https://agriculture.gouv.fr/le-frelon-asiatique-quelle-reglementation",
@@ -3217,6 +4524,183 @@
     "note": ""
   },
   {
+    "url": "https://www.destruction-niddeguepes.fr/gerard-samuel/entreprise-destruction-nid-guepes-Saint-Julien-les-Villas",
+    "domaine": "destruction-niddeguepes.fr",
+    "hote": "destruction-niddeguepes.fr",
+    "type": "liste-prestataires",
+    "types": [
+      "liste-prestataires"
+    ],
+    "plateforme": "",
+    "titre": "Saint-Julien-les-Villas : faire détruire les nids de guêpes",
+    "langue": "fr",
+    "scores": {
+      "seo": 87,
+      "ia": 86,
+      "priorite": 78,
+      "facilite": "contact"
+    },
+    "facilite": "contact",
+    "indexabilite": {
+      "indexable": true,
+      "motifs": [],
+      "googlebot": true,
+      "bingbot": true,
+      "canonique": null
+    },
+    "indexee": "inconnu",
+    "ia": {
+      "autorises": [
+        "GPTBot",
+        "OAI-SearchBot",
+        "ClaudeBot",
+        "PerplexityBot",
+        "Google-Extended"
+      ],
+      "bloques": [],
+      "taux": 100
+    },
+    "liens": {
+      "commentaires": "inconnu",
+      "contenu": "dofollow",
+      "signatures": "inconnu",
+      "auteurs": "inconnu",
+      "externes": 7
+    },
+    "champSiteWeb": false,
+    "captcha": true,
+    "connexionRequise": false,
+    "moderation": false,
+    "commentairesExistants": 0,
+    "widget": "",
+    "contact": null,
+    "lienInscription": null,
+    "concurrentsCites": [],
+    "themes": [
+      "guêpes",
+      "nid de guêpes",
+      "destruction de nid",
+      "abeilles",
+      "apiculteur"
+    ],
+    "zonesTrouvees": [],
+    "nbMots": 269,
+    "signaux": [
+      "liste : « destruction des nids »",
+      "6 lien(s) vers des sites du métier",
+      "liens de la liste : dofollow",
+      "captcha détecté sur la page"
+    ],
+    "origine": {
+      "type": "lien-externe",
+      "detail": "depuis guepes-apens.fr"
+    },
+    "decouverte": "2026-10-26",
+    "derniereVisite": "2026-10-26T11:09:35.799Z",
+    "statutHttp": 200,
+    "cible": {
+      "url": "https://allo-frelons.fr/faire-detruire-des-nids-de-frelons-et-de-guepes-a-begles",
+      "niveau": 1,
+      "motif": "spot éditorial : lien direct vers le site",
+      "titre": "",
+      "ancres": [
+        "ALLO FRELONS",
+        "allo-frelons.fr/faire-detruire-des-nids-de-frelons-et-de-guepes-a-begles"
+      ]
+    },
+    "etat": "a-traiter",
+    "note": ""
+  },
+  {
+    "url": "https://www.destruction-niddeguepes.fr/moret-baptiste/entreprise-destruction-nid-guepes-EPERNAY",
+    "domaine": "destruction-niddeguepes.fr",
+    "hote": "destruction-niddeguepes.fr",
+    "type": "liste-prestataires",
+    "types": [
+      "liste-prestataires"
+    ],
+    "plateforme": "",
+    "titre": "Destruction de votre nid de guêpes à Epernay",
+    "langue": "fr",
+    "scores": {
+      "seo": 87,
+      "ia": 86,
+      "priorite": 78,
+      "facilite": "contact"
+    },
+    "facilite": "contact",
+    "indexabilite": {
+      "indexable": true,
+      "motifs": [],
+      "googlebot": true,
+      "bingbot": true,
+      "canonique": null
+    },
+    "indexee": "inconnu",
+    "ia": {
+      "autorises": [
+        "GPTBot",
+        "OAI-SearchBot",
+        "ClaudeBot",
+        "PerplexityBot",
+        "Google-Extended"
+      ],
+      "bloques": [],
+      "taux": 100
+    },
+    "liens": {
+      "commentaires": "inconnu",
+      "contenu": "dofollow",
+      "signatures": "inconnu",
+      "auteurs": "inconnu",
+      "externes": 7
+    },
+    "champSiteWeb": false,
+    "captcha": true,
+    "connexionRequise": false,
+    "moderation": false,
+    "commentairesExistants": 0,
+    "widget": "",
+    "contact": null,
+    "lienInscription": null,
+    "concurrentsCites": [],
+    "themes": [
+      "guêpes",
+      "nid de guêpes",
+      "destruction de nid",
+      "abeilles",
+      "apiculteur"
+    ],
+    "zonesTrouvees": [],
+    "nbMots": 267,
+    "signaux": [
+      "liste : « destruction des nids »",
+      "6 lien(s) vers des sites du métier",
+      "liens de la liste : dofollow",
+      "captcha détecté sur la page"
+    ],
+    "origine": {
+      "type": "lien-externe",
+      "detail": "depuis guepes-apens.fr"
+    },
+    "decouverte": "2026-10-26",
+    "derniereVisite": "2026-10-26T11:09:38.308Z",
+    "statutHttp": 200,
+    "cible": {
+      "url": "https://allo-frelons.fr/guepes",
+      "niveau": 1,
+      "motif": "spot éditorial : lien direct vers le site",
+      "titre": "Les guêpes, biologie, les différentes espèces, les solutions",
+      "ancres": [
+        "ALLO FRELONS",
+        "allo-frelons.fr/guepes",
+        "Les guêpes, biologie, les différentes espèces, les solutions"
+      ]
+    },
+    "etat": "a-traiter",
+    "note": ""
+  },
+  {
     "url": "https://www.gabi77.org/le-g-a-b-i/les-parrains-et-frerent-frelon",
     "domaine": "gabi77.org",
     "hote": "gabi77.org",
@@ -3768,6 +5252,102 @@
         "allo-frelons.fr/guepes",
         "Les guêpes, biologie, les différentes espèces, les solutions",
         "ALLO FRELONS Toulouse"
+      ]
+    },
+    "etat": "a-traiter",
+    "note": ""
+  },
+  {
+    "url": "https://guepes-apens.fr/fr/page/contact",
+    "domaine": "guepes-apens.fr",
+    "hote": "guepes-apens.fr",
+    "type": "question-reponse",
+    "types": [
+      "question-reponse"
+    ],
+    "plateforme": "",
+    "titre": "Contact destruction guêpes et frelons partout en France - Guêpes-Apens",
+    "langue": "fr",
+    "scores": {
+      "seo": 68,
+      "ia": 95,
+      "priorite": 76,
+      "facilite": "inscription"
+    },
+    "facilite": "inscription",
+    "indexabilite": {
+      "indexable": true,
+      "motifs": [],
+      "googlebot": true,
+      "bingbot": true,
+      "canonique": null
+    },
+    "indexee": "inconnu",
+    "ia": {
+      "autorises": [
+        "GPTBot",
+        "OAI-SearchBot",
+        "ClaudeBot",
+        "PerplexityBot",
+        "Google-Extended"
+      ],
+      "bloques": [],
+      "taux": 100
+    },
+    "liens": {
+      "commentaires": "inconnu",
+      "contenu": "dofollow",
+      "signatures": "inconnu",
+      "auteurs": "inconnu",
+      "externes": 4
+    },
+    "champSiteWeb": false,
+    "captcha": true,
+    "connexionRequise": false,
+    "moderation": false,
+    "commentairesExistants": 0,
+    "widget": "",
+    "contact": "https://guepes-apens.fr/fr/page/contact",
+    "lienInscription": null,
+    "concurrentsCites": [],
+    "themes": [
+      "frelons",
+      "guêpes",
+      "nid de frelons",
+      "nid de guêpes",
+      "désinsectisation",
+      "destruction de nid"
+    ],
+    "zonesTrouvees": [
+      "Lyon",
+      "Nantes",
+      "Amiens",
+      "Reims",
+      "Dijon",
+      "Provence"
+    ],
+    "nbMots": 873,
+    "signaux": [
+      "questions/réponses : « repondre a cette question »",
+      "captcha détecté sur la page"
+    ],
+    "origine": {
+      "type": "lien-interne",
+      "detail": "guepes-apens.fr"
+    },
+    "decouverte": "2026-10-26",
+    "derniereVisite": "2026-10-26T11:11:14.252Z",
+    "statutHttp": 200,
+    "cible": {
+      "url": "https://allo-frelons.fr/guepes",
+      "niveau": 1,
+      "motif": "score SEO 68 ≥ 60, liens dofollow",
+      "titre": "Les guêpes, biologie, les différentes espèces, les solutions",
+      "ancres": [
+        "ALLO FRELONS",
+        "allo-frelons.fr/guepes",
+        "Les guêpes, biologie, les différentes espèces, les solutions",
+        "ALLO FRELONS Lyon"
       ]
     },
     "etat": "a-traiter",
@@ -7038,6 +8618,102 @@
       "ancres": [
         "Frelon asiatique (Vespa velutina nigrithorax) — Observatoire de la biodiversité du Nord–Pas-de-Calais",
         "observatoire-biodiversite-npdc.fr/especes/frelon-asiatique",
+        "cet article"
+      ]
+    },
+    "etat": "a-traiter",
+    "note": ""
+  },
+  {
+    "url": "https://www.apiculture-france.com/t31527p50-ca-se-passe-comment-en-aquitaine",
+    "domaine": "apiculture-france.com",
+    "hote": "apiculture-france.com",
+    "type": "forum",
+    "types": [
+      "forum"
+    ],
+    "plateforme": "phpBB",
+    "titre": "Ca se passe comment en Aquitaine? - Page 2",
+    "langue": "fr",
+    "scores": {
+      "seo": 59,
+      "ia": 91,
+      "priorite": 69,
+      "facilite": "inscription"
+    },
+    "facilite": "inscription",
+    "indexabilite": {
+      "indexable": true,
+      "motifs": [],
+      "googlebot": true,
+      "bingbot": true,
+      "canonique": null
+    },
+    "indexee": "inconnu",
+    "ia": {
+      "autorises": [
+        "GPTBot",
+        "OAI-SearchBot",
+        "ClaudeBot",
+        "PerplexityBot",
+        "Google-Extended"
+      ],
+      "bloques": [],
+      "taux": 83
+    },
+    "liens": {
+      "commentaires": "inconnu",
+      "contenu": "inconnu",
+      "signatures": "inconnu",
+      "auteurs": "inconnu",
+      "externes": 4
+    },
+    "champSiteWeb": false,
+    "captcha": false,
+    "connexionRequise": false,
+    "moderation": false,
+    "commentairesExistants": 0,
+    "widget": "",
+    "contact": null,
+    "lienInscription": "https://www.apiculture-france.com/register",
+    "concurrentsCites": [],
+    "themes": [
+      "frelon",
+      "frelons",
+      "frelon asiatique",
+      "abeille",
+      "abeilles",
+      "apiculture",
+      "apiculteur",
+      "ruche"
+    ],
+    "zonesTrouvees": [
+      "Nord",
+      "Pas-de-Calais",
+      "Nice",
+      "Bretagne",
+      "Normandie",
+      "Nouvelle-Aquitaine"
+    ],
+    "nbMots": 4648,
+    "signaux": [
+      "forum phpBB"
+    ],
+    "origine": {
+      "type": "lien-interne",
+      "detail": "apiculture-france.com"
+    },
+    "decouverte": "2026-10-26",
+    "derniereVisite": "2026-10-26T11:09:47.550Z",
+    "statutHttp": 200,
+    "cible": {
+      "url": "https://www.habitatpresto.com/mag/renovation/deratisation-desinfection/eliminer-nid-guepes",
+      "niveau": 2,
+      "motif": "score SEO 59 < 60",
+      "titre": "Nid de guêpes : 4 solutions efficaces pour s’en débarrasser",
+      "ancres": [
+        "Nid de guêpes : 4 solutions efficaces pour s’en débarrasser",
+        "www.habitatpresto.com/mag/renovation/deratisation-desinfection/eliminer-nid-guepes",
         "cet article"
       ]
     },
@@ -17134,6 +18810,98 @@
     "note": ""
   },
   {
+    "url": "https://tybou.eu/wordpress/blog/2022/04/02/museliere-piege-frelons-asiatique/",
+    "domaine": "tybou.eu",
+    "hote": "tybou.eu",
+    "type": "commentaire",
+    "types": [
+      "commentaire"
+    ],
+    "plateforme": "WordPress",
+    "titre": "Muselière-piège frelon asiatique – fabrication – Bertrand's blog",
+    "langue": "fr-fr",
+    "scores": {
+      "seo": 44,
+      "ia": 68,
+      "priorite": 58,
+      "facilite": "immediate"
+    },
+    "facilite": "immediate",
+    "indexabilite": {
+      "indexable": true,
+      "motifs": [],
+      "googlebot": true,
+      "bingbot": true,
+      "canonique": null
+    },
+    "indexee": "inconnu",
+    "ia": {
+      "autorises": [
+        "GPTBot",
+        "OAI-SearchBot",
+        "ClaudeBot",
+        "PerplexityBot",
+        "Google-Extended"
+      ],
+      "bloques": [],
+      "taux": 100
+    },
+    "liens": {
+      "commentaires": "nofollow",
+      "contenu": "dofollow",
+      "signatures": "inconnu",
+      "auteurs": "dofollow",
+      "externes": 2
+    },
+    "champSiteWeb": true,
+    "captcha": false,
+    "connexionRequise": false,
+    "moderation": false,
+    "commentairesExistants": 38,
+    "widget": "",
+    "contact": null,
+    "lienInscription": null,
+    "concurrentsCites": [],
+    "themes": [
+      "frelon",
+      "frelons",
+      "frelon asiatique",
+      "abeilles",
+      "apiculture",
+      "apiculteur",
+      "ruche",
+      "jardin"
+    ],
+    "zonesTrouvees": [],
+    "nbMots": 5221,
+    "signaux": [
+      "formulaire de commentaire natif (#commentform)",
+      "champ « site web » dans le formulaire",
+      "38 commentaire(s) déjà publié(s)",
+      "liens des commentaires : nofollow"
+    ],
+    "origine": {
+      "type": "lien-externe",
+      "detail": "depuis renature.brussels"
+    },
+    "decouverte": "2026-10-26",
+    "derniereVisite": "2026-10-26T11:09:00.461Z",
+    "statutHttp": 200,
+    "cible": {
+      "url": "https://observatoire-biodiversite-npdc.fr/especes/frelon-asiatique/",
+      "niveau": 2,
+      "motif": "spot de masse : renforcer une page relais plutôt que le site principal",
+      "titre": "Frelon asiatique (Vespa velutina nigrithorax) — Observatoire de la biodiversité du Nord–Pas-de-Calais",
+      "ancres": [
+        "Frelon asiatique (Vespa velutina nigrithorax) — Observatoire de la biodiversité du Nord–Pas-de-Calais",
+        "observatoire-biodiversite-npdc.fr/especes/frelon-asiatique",
+        "cet article"
+      ]
+    },
+    "etat": "a-traiter",
+    "note": ""
+  },
+  {
     "url": "https://www.anti-nuisible.com/apiculteurs-frelon-asiatique/",
     "domaine": "anti-nuisible.com",
     "hote": "anti-nuisible.com",
@@ -19000,6 +20768,92 @@
     "note": ""
   },
   {
+    "url": "https://renature.brussels/fr/contact",
+    "domaine": "renature.brussels",
+    "hote": "renature.brussels",
+    "type": "annuaire",
+    "types": [
+      "question-reponse",
+      "annuaire"
+    ],
+    "plateforme": "",
+    "titre": "Contactez-nous - renature.brussels",
+    "langue": "fr",
+    "scores": {
+      "seo": 51,
+      "ia": 54,
+      "priorite": 57,
+      "facilite": "immediate"
+    },
+    "facilite": "immediate",
+    "indexabilite": {
+      "indexable": true,
+      "motifs": [],
+      "googlebot": true,
+      "bingbot": true,
+      "canonique": null
+    },
+    "indexee": "inconnu",
+    "ia": {
+      "autorises": [
+        "GPTBot",
+        "OAI-SearchBot",
+        "ClaudeBot",
+        "PerplexityBot",
+        "Google-Extended"
+      ],
+      "bloques": [],
+      "taux": 100
+    },
+    "liens": {
+      "commentaires": "inconnu",
+      "contenu": "dofollow",
+      "signatures": "inconnu",
+      "auteurs": "inconnu",
+      "externes": 11
+    },
+    "champSiteWeb": true,
+    "captcha": true,
+    "connexionRequise": false,
+    "moderation": false,
+    "commentairesExistants": 0,
+    "widget": "",
+    "contact": null,
+    "lienInscription": null,
+    "concurrentsCites": [],
+    "themes": [
+      "nature",
+      "biodiversité",
+      "animaux"
+    ],
+    "zonesTrouvees": [],
+    "nbMots": 421,
+    "signaux": [
+      "questions/réponses : « posez une question »",
+      "formulaire d'ajout (url+description)",
+      "captcha détecté sur la page"
+    ],
+    "origine": {
+      "type": "lien-interne",
+      "detail": "renature.brussels"
+    },
+    "decouverte": "2026-10-26",
+    "derniereVisite": "2026-10-26T11:11:36.284Z",
+    "statutHttp": 200,
+    "cible": {
+      "url": "https://allo-frelons.fr/",
+      "niveau": 1,
+      "motif": "spot éditorial : lien direct vers le site",
+      "titre": "ALLO FRELONS",
+      "ancres": [
+        "ALLO FRELONS",
+        "allo-frelons.fr"
+      ]
+    },
+    "etat": "a-traiter",
+    "note": ""
+  },
+  {
     "url": "https://www.jardinature.net/forum/viewtopic.php?f=39&p=111306",
     "domaine": "jardinature.net",
     "hote": "jardinature.net",
@@ -20158,6 +22012,96 @@
       "url": "https://www.entreprisenettoyageparis.fr/top-3-entreprises-destruction-nids-de-guepes-et-frelons-a-paris/",
       "niveau": 2,
       "motif": "score SEO 45 < 60",
+      "titre": "Top 3 des entreprises de destruction nids de guêpes et frelons à Paris",
+      "ancres": [
+        "Top 3 des entreprises de destruction nids de guêpes et frelons à Paris",
+        "www.entreprisenettoyageparis.fr/top-3-entreprises-destruction-nids-de-guepes-et-frelons-a-paris",
+        "cet article"
+      ]
+    },
+    "etat": "a-traiter",
+    "note": ""
+  },
+  {
+    "url": "https://www.insectes-net.fr/menus/liens.htm",
+    "domaine": "insectes-net.fr",
+    "hote": "insectes-net.fr",
+    "type": "forum",
+    "types": [
+      "forum"
+    ],
+    "plateforme": "Forumactif",
+    "titre": "liens",
+    "langue": "",
+    "scores": {
+      "seo": 44,
+      "ia": 77,
+      "priorite": 56,
+      "facilite": "inscription"
+    },
+    "facilite": "inscription",
+    "indexabilite": {
+      "indexable": true,
+      "motifs": [],
+      "googlebot": true,
+      "bingbot": true,
+      "canonique": null
+    },
+    "indexee": "inconnu",
+    "ia": {
+      "autorises": [
+        "GPTBot",
+        "OAI-SearchBot",
+        "ClaudeBot",
+        "PerplexityBot",
+        "Google-Extended"
+      ],
+      "bloques": [],
+      "taux": 100
+    },
+    "liens": {
+      "commentaires": "inconnu",
+      "contenu": "inconnu",
+      "signatures": "inconnu",
+      "auteurs": "inconnu",
+      "externes": 26
+    },
+    "champSiteWeb": false,
+    "captcha": false,
+    "connexionRequise": false,
+    "moderation": false,
+    "commentairesExistants": 0,
+    "widget": "",
+    "contact": null,
+    "lienInscription": null,
+    "concurrentsCites": [],
+    "themes": [
+      "insectes",
+      "nature",
+      "biodiversité",
+      "maison"
+    ],
+    "zonesTrouvees": [
+      "Paris",
+      "Loire-Atlantique",
+      "Vendée",
+      "Guyane"
+    ],
+    "nbMots": 443,
+    "signaux": [
+      "forum Forumactif"
+    ],
+    "origine": {
+      "type": "utile",
+      "detail": "page-liens"
+    },
+    "decouverte": "2026-10-26",
+    "derniereVisite": "2026-10-26T11:09:42.807Z",
+    "statutHttp": 200,
+    "cible": {
+      "url": "https://www.entreprisenettoyageparis.fr/top-3-entreprises-destruction-nids-de-guepes-et-frelons-a-paris/",
+      "niveau": 2,
+      "motif": "score SEO 44 < 60",
       "titre": "Top 3 des entreprises de destruction nids de guêpes et frelons à Paris",
       "ancres": [
         "Top 3 des entreprises de destruction nids de guêpes et frelons à Paris",
@@ -29579,6 +31523,92 @@
     "note": ""
   },
   {
+    "url": "https://www.inrae.fr/ressources",
+    "domaine": "inrae.fr",
+    "hote": "inrae.fr",
+    "type": "page-liens",
+    "types": [
+      "page-liens"
+    ],
+    "plateforme": "Drupal",
+    "titre": "RESSOURCES, la revue d'INRAE | INRAE",
+    "langue": "fr",
+    "scores": {
+      "seo": 52,
+      "ia": 56,
+      "priorite": 48,
+      "facilite": "contact"
+    },
+    "facilite": "contact",
+    "indexabilite": {
+      "indexable": true,
+      "motifs": [],
+      "googlebot": true,
+      "bingbot": true,
+      "canonique": null
+    },
+    "indexee": "inconnu",
+    "ia": {
+      "autorises": [
+        "GPTBot",
+        "OAI-SearchBot",
+        "ClaudeBot",
+        "PerplexityBot",
+        "Google-Extended"
+      ],
+      "bloques": [],
+      "taux": 100
+    },
+    "liens": {
+      "commentaires": "inconnu",
+      "contenu": "dofollow",
+      "signatures": "inconnu",
+      "auteurs": "inconnu",
+      "externes": 38
+    },
+    "champSiteWeb": false,
+    "captcha": false,
+    "connexionRequise": false,
+    "moderation": false,
+    "commentairesExistants": 0,
+    "widget": "",
+    "contact": null,
+    "lienInscription": null,
+    "concurrentsCites": [],
+    "themes": [
+      "nature",
+      "biodiversité"
+    ],
+    "zonesTrouvees": [
+      "Paris"
+    ],
+    "nbMots": 1610,
+    "signaux": [
+      "page de liens (38 liens externes)",
+      "liens de la page : dofollow"
+    ],
+    "origine": {
+      "type": "utile",
+      "detail": "page-liens"
+    },
+    "decouverte": "2026-10-26",
+    "derniereVisite": "2026-10-26T11:09:08.154Z",
+    "statutHttp": 200,
+    "cible": {
+      "url": "https://allo-frelons.fr/",
+      "niveau": 1,
+      "motif": "spot éditorial : lien direct vers le site",
+      "titre": "ALLO FRELONS",
+      "ancres": [
+        "ALLO FRELONS",
+        "allo-frelons.fr",
+        "ALLO FRELONS Paris"
+      ]
+    },
+    "etat": "a-traiter",
+    "note": ""
+  },
+  {
     "url": "https://annuairedujardin.fr/bassins-de-jardin/bassin-de-jardin-koi-prestige-com-s31.html",
     "domaine": "annuairedujardin.fr",
     "hote": "annuairedujardin.fr",
@@ -31205,6 +33235,90 @@
     "note": ""
   },
   {
+    "url": "https://www.saintbrice95.fr/a-la-une/actualites/actualites-2026/allee-du-professeur-rene-dubos-place-a-la-vegetalisation-2713.html",
+    "domaine": "saintbrice95.fr",
+    "hote": "saintbrice95.fr",
+    "type": "question-reponse",
+    "types": [
+      "question-reponse"
+    ],
+    "plateforme": "TYPO3",
+    "titre": "Allée du Professeur René Dubos : place à la végétalisation !",
+    "langue": "fr",
+    "scores": {
+      "seo": 33,
+      "ia": 67,
+      "priorite": 47,
+      "facilite": "inscription"
+    },
+    "facilite": "inscription",
+    "indexabilite": {
+      "indexable": true,
+      "motifs": [],
+      "googlebot": true,
+      "bingbot": true,
+      "canonique": null
+    },
+    "indexee": "inconnu",
+    "ia": {
+      "autorises": [
+        "GPTBot",
+        "OAI-SearchBot",
+        "ClaudeBot",
+        "PerplexityBot",
+        "Google-Extended"
+      ],
+      "bloques": [],
+      "taux": 100
+    },
+    "liens": {
+      "commentaires": "inconnu",
+      "contenu": "inconnu",
+      "signatures": "inconnu",
+      "auteurs": "inconnu",
+      "externes": 6
+    },
+    "champSiteWeb": false,
+    "captcha": false,
+    "connexionRequise": false,
+    "moderation": false,
+    "commentairesExistants": 0,
+    "widget": "",
+    "contact": null,
+    "lienInscription": null,
+    "concurrentsCites": [],
+    "themes": [
+      "frelons",
+      "maison",
+      "animaux"
+    ],
+    "zonesTrouvees": [],
+    "nbMots": 1759,
+    "signaux": [
+      "questions/réponses : « poser une question »"
+    ],
+    "origine": {
+      "type": "lien-interne",
+      "detail": "saintbrice95.fr"
+    },
+    "decouverte": "2026-10-26",
+    "derniereVisite": "2026-10-26T11:09:17.531Z",
+    "statutHttp": 200,
+    "cible": {
+      "url": "https://www.entreprisenettoyageparis.fr/top-3-entreprises-destruction-nids-de-guepes-et-frelons-a-paris/",
+      "niveau": 2,
+      "motif": "score SEO 33 < 60",
+      "titre": "Top 3 des entreprises de destruction nids de guêpes et frelons à Paris",
+      "ancres": [
+        "Top 3 des entreprises de destruction nids de guêpes et frelons à Paris",
+        "www.entreprisenettoyageparis.fr/top-3-entreprises-destruction-nids-de-guepes-et-frelons-a-paris",
+        "cet article"
+      ]
+    },
+    "etat": "a-traiter",
+    "note": ""
+  },
+  {
     "url": "https://www.saintbrice95.fr/contacter-un-service-108.html",
     "domaine": "saintbrice95.fr",
     "hote": "saintbrice95.fr",
@@ -31782,6 +33896,89 @@
         "Frelon asiatique (Vespa velutina nigrithorax) — Observatoire de la biodiversité du Nord–Pas-de-Calais",
         "observatoire-biodiversite-npdc.fr/especes/frelon-asiatique",
         "cet article"
+      ]
+    },
+    "etat": "a-traiter",
+    "note": ""
+  },
+  {
+    "url": "https://maa.departement06.fr/partenaires",
+    "domaine": "departement06.fr",
+    "hote": "maa.departement06.fr",
+    "type": "page-liens",
+    "types": [
+      "page-liens"
+    ],
+    "plateforme": "Drupal",
+    "titre": "Partenaires | Musée des arts asiatiques",
+    "langue": "fr",
+    "scores": {
+      "seo": 49,
+      "ia": 55,
+      "priorite": 46,
+      "facilite": "contact"
+    },
+    "facilite": "contact",
+    "indexabilite": {
+      "indexable": true,
+      "motifs": [],
+      "googlebot": true,
+      "bingbot": true,
+      "canonique": null
+    },
+    "indexee": "inconnu",
+    "ia": {
+      "autorises": [
+        "GPTBot",
+        "OAI-SearchBot",
+        "ClaudeBot",
+        "PerplexityBot",
+        "Google-Extended"
+      ],
+      "bloques": [],
+      "taux": 100
+    },
+    "liens": {
+      "commentaires": "inconnu",
+      "contenu": "dofollow",
+      "signatures": "inconnu",
+      "auteurs": "inconnu",
+      "externes": 16
+    },
+    "champSiteWeb": false,
+    "captcha": false,
+    "connexionRequise": false,
+    "moderation": false,
+    "commentairesExistants": 0,
+    "widget": "",
+    "contact": null,
+    "lienInscription": null,
+    "concurrentsCites": [],
+    "themes": [],
+    "zonesTrouvees": [
+      "Nice"
+    ],
+    "nbMots": 435,
+    "signaux": [
+      "page de liens (16 liens externes)",
+      "liens de la page : dofollow"
+    ],
+    "origine": {
+      "type": "utile",
+      "detail": "page-liens"
+    },
+    "decouverte": "2026-10-26",
+    "derniereVisite": "2026-10-26T11:10:22.755Z",
+    "statutHttp": 200,
+    "cible": {
+      "url": "https://allo-frelons.fr/en-finir-avec-les-nids-de-guepes-et-frelons-a-antibes-06",
+      "niveau": 1,
+      "motif": "spot éditorial : lien direct vers le site",
+      "titre": "",
+      "ancres": [
+        "ALLO FRELONS",
+        "allo-frelons.fr/en-finir-avec-les-nids-de-guepes-et-frelons-a-antibes-06",
+        "ALLO FRELONS Nice"
       ]
     },
     "etat": "a-traiter",
@@ -44045,6 +46242,86 @@
       "ancres": [
         "Nid de guêpes : 4 solutions efficaces pour s’en débarrasser",
         "www.habitatpresto.com/mag/renovation/deratisation-desinfection/eliminer-nid-guepes",
+        "cet article"
+      ]
+    },
+    "etat": "a-traiter",
+    "note": ""
+  },
+  {
+    "url": "https://blog.takfonster.fr/forum-velux/forum-volet-roulant-velux/question-sur-volet-velux-sml-uk04-0000s-neuf/",
+    "domaine": "takfonster.fr",
+    "hote": "blog.takfonster.fr",
+    "type": "question-reponse",
+    "types": [
+      "question-reponse"
+    ],
+    "plateforme": "WordPress",
+    "titre": "Question sur volet Velux SML UK04 0000S neuf – Volet Roulant VELUX – Forum Velux",
+    "langue": "fr-fr",
+    "scores": {
+      "seo": 17,
+      "ia": 62,
+      "priorite": 36,
+      "facilite": "inscription"
+    },
+    "facilite": "inscription",
+    "indexabilite": {
+      "indexable": true,
+      "motifs": [],
+      "googlebot": true,
+      "bingbot": true,
+      "canonique": null
+    },
+    "indexee": "inconnu",
+    "ia": {
+      "autorises": [
+        "GPTBot",
+        "OAI-SearchBot",
+        "ClaudeBot",
+        "PerplexityBot",
+        "Google-Extended"
+      ],
+      "bloques": [],
+      "taux": 100
+    },
+    "liens": {
+      "commentaires": "inconnu",
+      "contenu": "nofollow",
+      "signatures": "inconnu",
+      "auteurs": "inconnu",
+      "externes": 5
+    },
+    "champSiteWeb": false,
+    "captcha": false,
+    "connexionRequise": false,
+    "moderation": false,
+    "commentairesExistants": 0,
+    "widget": "",
+    "contact": null,
+    "lienInscription": null,
+    "concurrentsCites": [],
+    "themes": [],
+    "zonesTrouvees": [],
+    "nbMots": 526,
+    "signaux": [
+      "plateforme de questions/réponses"
+    ],
+    "origine": {
+      "type": "lien-interne",
+      "detail": "blog.takfonster.fr"
+    },
+    "decouverte": "2026-10-26",
+    "derniereVisite": "2026-10-26T11:11:22.247Z",
+    "statutHttp": 200,
+    "cible": {
+      "url": "https://www.entreprisenettoyageparis.fr/top-3-entreprises-destruction-nids-de-guepes-et-frelons-a-paris/",
+      "niveau": 2,
+      "motif": "score SEO 17 < 60",
+      "titre": "Top 3 des entreprises de destruction nids de guêpes et frelons à Paris",
+      "ancres": [
+        "Top 3 des entreprises de destruction nids de guêpes et frelons à Paris",
+        "www.entreprisenettoyageparis.fr/top-3-entreprises-destruction-nids-de-guepes-et-frelons-a-paris",
         "cet article"
       ]
     },
