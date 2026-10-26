@@ -1,0 +1,303 @@
+{
+  "id": "ChIJ0x0GKrWI4kcR4l_QN6CbVRM",
+  "slug": "pharmacie-lafayette-saint-lazare",
+  "nom": "Pharmacie Lafayette Saint Lazare",
+  "categorie": "pharmacies-opticiens",
+  "categorie_gmb": "Pharmacie",
+  "type_principal": "pharmacy",
+  "types": [
+    "pharmacy",
+    "drugstore",
+    "veterinary_care",
+    "consultant",
+    "store",
+    "health",
+    "point_of_interest",
+    "service",
+    "establishment"
+  ],
+  "ville": "Le Mans",
+  "ville_slug": "le-mans",
+  "adresse": {
+    "rue": "80 Boulevard Anatole France",
+    "code_postal": "72100",
+    "departement": "72",
+    "region": "Pays de la Loire",
+    "pays": "France",
+    "complete": "80 Bd Anatole France, 72100 Le Mans"
+  },
+  "telephone": "02 43 28 31 15",
+  "geo": {
+    "latitude": 48.0011784,
+    "longitude": 0.1841659
+  },
+  "note": 4.3,
+  "avis": 103,
+  "horaires": [
+    {
+      "jour": 0,
+      "ferme": false,
+      "creneaux": [
+        [
+          "08:45",
+          "12:15"
+        ],
+        [
+          "13:45",
+          "19:15"
+        ]
+      ]
+    },
+    {
+      "jour": 1,
+      "ferme": false,
+      "creneaux": [
+        [
+          "08:45",
+          "12:15"
+        ],
+        [
+          "13:45",
+          "19:15"
+        ]
+      ]
+    },
+    {
+      "jour": 2,
+      "ferme": false,
+      "creneaux": [
+        [
+          "08:45",
+          "12:15"
+        ],
+        [
+          "13:45",
+          "19:15"
+        ]
+      ]
+    },
+    {
+      "jour": 3,
+      "ferme": false,
+      "creneaux": [
+        [
+          "08:45",
+          "12:15"
+        ],
+        [
+          "13:45",
+          "19:15"
+        ]
+      ]
+    },
+    {
+      "jour": 4,
+      "ferme": false,
+      "creneaux": [
+        [
+          "08:45",
+          "12:15"
+        ],
+        [
+          "13:45",
+          "19:15"
+        ]
+      ]
+    },
+    {
+      "jour": 5,
+      "ferme": false,
+      "creneaux": [
+        [
+          "09:00",
+          "18:00"
+        ]
+      ]
+    },
+    {
+      "jour": 6,
+      "ferme": true,
+      "creneaux": []
+    }
+  ],
+  "attributs": [
+    "Entrée accessible en fauteuil roulant",
+    "Parking accessible en fauteuil roulant",
+    "Places assises accessibles en fauteuil roulant"
+  ],
+  "lien_google": "https://maps.google.com/?cid=1393190772174512098&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
+  "site_web_gmb": null,
+  "statut": "publiee",
+  "backlink": {
+    "etat": "absent",
+    "premiere_detection": null,
+    "derniere_detection": null,
+    "derniere_verification": "2026-10-26T11:01:19.059Z",
+    "echecs": 1,
+    "url_detectee": null
+  },
+  "suggestion": {
+    "etat": "en-attente",
+    "date_soumission": null,
+    "tentatives": 0,
+    "date_email": "2026-10-26"
+  },
+  "retrait": null,
+  "dates": {
+    "collecte": "2026-10-26",
+    "publication": "2026-10-26",
+    "maj": "2026-10-26"
+  },
+  "source": "google-places",
+  "avis_detail": {
+    "releve": "2026-10-26",
+    "liste": [
+      {
+        "note": 3,
+        "texte": "La rampe à l’entrée de la pharmacie n’est pas bien fixée , elle bouge\nPour certaines personnes âgées ce n’est pas rassurant\nPeut être il faudrait changer de rampe et en mettre une comme celle d’avant",
+        "langue": "fr",
+        "date": "2026-06-06",
+        "auteur": "Nathalie",
+        "auteur_lien": "https://www.google.com/maps/contrib/102644347248426789326/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2pKSU5GRlBjRWcxTWtKNFJtWnpXR3hpTVdSVVJHYxAB!2m1!1s0x47e288b52a061dd3:0x13559ba037d05fe2"
+      },
+      {
+        "note": 4,
+        "texte": "pharmacien de bon conseils, personnel agréable, réactivité pour approvisionner les médicaments",
+        "langue": "fr",
+        "date": "2026-04-28",
+        "auteur": "JM Thierry",
+        "auteur_lien": "https://www.google.com/maps/contrib/115290742485321419570/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xVNFJGbHZhSE55VjJsU1oxSXpSRTF3TkZwSE0yYxAB!2m1!1s0x47e288b52a061dd3:0x13559ba037d05fe2"
+      },
+      {
+        "note": 3,
+        "texte": "Un peut lourd ce pharmacien mais la pharmacie en elle-même est bien.",
+        "langue": "fr",
+        "date": "2026-02-12",
+        "auteur": "Benito Feoti",
+        "auteur_lien": "https://www.google.com/maps/contrib/108050249654213301787/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xSMFNYTlhZak15Tld4NkxUTnpXVGxvYjBOU01VRRAB!2m1!1s0x47e288b52a061dd3:0x13559ba037d05fe2"
+      },
+      {
+        "note": 1,
+        "texte": "Venue acheter du nettoyant pour le nez pour mon conjoint malade, j’ai regardé les produits caudalie et luxeol que j’adore par curiosité. Je me suis sentie épiée par la jeune vendeuse blonde à lunettes et j’ai clairement eu l’impression qu’elle me regardais bizarrement comme si elle pensait que j’allais voler quelque chose. Je voulais prendre d’autres produits mais j’ai eu tellement honte que j’ai juste acheté mon produit pour le nez et je suis partie. A chaque fois que je viens dans cette pharmacie ( juste 3 fois en 1 an ) je trouve les vendeuses désagréable au possible ( sauf la dame un peu plus âgée qui semble être une employée ici ) je ne reviendrais plus jamais, cette fois ci à fini de me convaincre ne je plus JAMAIS remettre les pieds dans cet endroit. Dommage pour vous, je suis une bonne cliente des produits caudalie, j’irai désormais faire de l’argent à des pharmaciens gentils. À bon entendeur !",
+        "langue": "fr",
+        "date": "2026-01-31",
+        "auteur": "Frouslin laura",
+        "auteur_lien": "https://www.google.com/maps/contrib/112889224090708614507/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25CV1RYWnJZemhMVFZScGMxOWhPVlI2UTBVeGVsRRAB!2m1!1s0x47e288b52a061dd3:0x13559ba037d05fe2"
+      },
+      {
+        "note": 5,
+        "texte": "Super pharmacie les personnels sont très gentils bien accueillant toujours avec le sourire et qui donne de bons conseils 😊",
+        "langue": "fr",
+        "date": "2025-08-28",
+        "auteur": "Rémy Ravaton",
+        "auteur_lien": "https://www.google.com/maps/contrib/101498974734566029570/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2twM1V6WlpTbEpuUVZwalZqZE5PSFJQYTNwUVdIYxAB!2m1!1s0x47e288b52a061dd3:0x13559ba037d05fe2"
+      }
+    ]
+  },
+  "services": {
+    "releve": "2026-10-26",
+    "options": {
+      "delivery": true
+    },
+    "paiement": [
+      "carte bancaire",
+      "carte de débit",
+      "paiement sans contact"
+    ],
+    "parking": [
+      "stationnement gratuit dans la rue"
+    ]
+  },
+  "redaction": {
+    "version": 2,
+    "titre": "Pharmacie Lafayette Saint Lazare — Pharmacie ou opticien à Le Mans",
+    "meta_titre": "Pharmacie Lafayette Saint Lazare à Le Mans : horaires, avis",
+    "meta_description": "Pharmacie Lafayette Saint Lazare, pharmacie ou opticien à Le Mans : horaires d'ouverture, note Google 4,3/5 (103 avis), téléphone, adresse et itinéraire.",
+    "chapo": "Pharmacie Lafayette Saint Lazare est une pharmacie ou opticien au 80 Boulevard Anatole France, à Le Mans. Ouvert tous les jours sauf le dimanche au relevé du 26 octobre 2026. Téléphone : 02 43 28 31 15. Note Google : 4,3 sur 5 pour 103 avis.",
+    "sections": [
+      {
+        "id": "presentation",
+        "titre": "Pharmacie Lafayette Saint Lazare en quelques mots",
+        "paragraphes": [
+          "Sur Google, l'établissement est classé « Pharmacie », dans notre rubrique Pharmacie ou opticien.",
+          "D'après le relevé du 26 octobre 2026, l'établissement est ouvert tous les jours sauf le dimanche. Le détail jour par jour figure plus bas."
+        ]
+      },
+      {
+        "id": "prestations",
+        "titre": "Services et équipements de Pharmacie Lafayette Saint Lazare",
+        "paragraphes": [
+          "Proposé : livraison.",
+          "Moyens de paiement déclarés : carte bancaire, carte de débit et paiement sans contact.",
+          "Stationnement : stationnement gratuit dans la rue.",
+          "Ces indications sont déclarées par l'établissement sur sa fiche Google (relevé du 26 octobre 2026)."
+        ]
+      },
+      {
+        "id": "acces",
+        "titre": "Adresse et accès",
+        "paragraphes": [
+          "L'établissement est situé au 80 Boulevard Anatole France, 72100 Le Mans.",
+          "Coordonnées GPS : 48.00118, 0.18417. Le bouton Itinéraire de cette page ouvre la navigation."
+        ]
+      },
+      {
+        "id": "contact",
+        "titre": "Contacter Pharmacie Lafayette Saint Lazare",
+        "paragraphes": [
+          "Le contact se fait par téléphone au 02 43 28 31 15, ou directement sur place aux horaires d'ouverture."
+        ]
+      },
+      {
+        "id": "avis",
+        "titre": "La réputation de Pharmacie Lafayette Saint Lazare",
+        "paragraphes": [
+          "Note de 4,3 sur 5 pour 103 avis Google au relevé du 26 octobre 2026. Les avis les plus parlants sont compilés ci-dessous, avec un lien vers la fiche d'origine."
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "q": "Quels sont les horaires de Pharmacie Lafayette Saint Lazare ?",
+        "r": "Au relevé du 26 octobre 2026, Pharmacie Lafayette Saint Lazare était ouvert tous les jours sauf le dimanche. Dans le détail — lundi : de 8 h 45 à 12 h 15 et de 13 h 45 à 19 h 15 ; mardi : de 8 h 45 à 12 h 15 et de 13 h 45 à 19 h 15 ; mercredi : de 8 h 45 à 12 h 15 et de 13 h 45 à 19 h 15 ; jeudi : de 8 h 45 à 12 h 15 et de 13 h 45 à 19 h 15 ; vendredi : de 8 h 45 à 12 h 15 et de 13 h 45 à 19 h 15 ; samedi : de 9 h à 18 h ; dimanche : fermé. Ces horaires peuvent changer : un appel préalable reste conseillé."
+      },
+      {
+        "q": "Pharmacie Lafayette Saint Lazare est-il ouvert le dimanche ?",
+        "r": "Non : d'après les horaires relevés le 26 octobre 2026, Pharmacie Lafayette Saint Lazare est fermé le dimanche."
+      },
+      {
+        "q": "Où se trouve Pharmacie Lafayette Saint Lazare ?",
+        "r": "Pharmacie Lafayette Saint Lazare se trouve 80 Bd Anatole France, 72100 Le Mans. Un lien d'itinéraire est disponible sur cette page."
+      },
+      {
+        "q": "Comment contacter Pharmacie Lafayette Saint Lazare ?",
+        "r": "Par téléphone au 02 43 28 31 15, ou directement sur place aux heures d'ouverture."
+      },
+      {
+        "q": "Pharmacie Lafayette Saint Lazare propose-t-il la vente à emporter ou la livraison ?",
+        "r": "D'après sa fiche Google (relevé du 26 octobre 2026) — livraison : oui."
+      },
+      {
+        "q": "Pharmacie Lafayette Saint Lazare est-il accessible aux personnes à mobilité réduite ?",
+        "r": "La fiche Google de l'établissement mentionne : « Entrée accessible en fauteuil roulant ». Cette information est déclarative ; en cas de doute, vérifiez par téléphone."
+      }
+    ],
+    "genere_le": "2026-10-26"
+  },
+  "statut_google": "OPERATIONAL",
+  "audience": {
+    "clics": 0,
+    "impressions": 0,
+    "position": null,
+    "fenetreJours": 90,
+    "clicsRecents": 0,
+    "fenetreRecenteJours": 28,
+    "source": "search-console",
+    "date": "2026-10-26"
+  }
+}

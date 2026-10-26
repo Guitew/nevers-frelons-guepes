@@ -121,8 +121,8 @@
     "etat": "absent",
     "premiere_detection": null,
     "derniere_detection": null,
-    "derniere_verification": "2026-10-11T11:22:19.539Z",
-    "echecs": 2,
+    "derniere_verification": "2026-10-26T11:01:19.059Z",
+    "echecs": 3,
     "url_detectee": null
   },
   "suggestion": {
@@ -135,7 +135,7 @@
   "dates": {
     "collecte": "2026-10-09",
     "publication": "2026-10-09",
-    "maj": "2026-10-11"
+    "maj": "2026-10-26"
   },
   "source": "google-places",
   "redaction": {
@@ -143,14 +143,22 @@
     "titre": "Elec Auto — Garage et automobile à Lons",
     "meta_titre": "Elec Auto à Lons : horaires, avis, téléphone",
     "meta_description": "Elec Auto, garage et automobile à Lons : horaires d'ouverture, note Google 4,6/5 (89 avis), téléphone, adresse et itinéraire.",
-    "chapo": "Cette fiche présente Elec Auto, un garage et automobile au 85 Boulevard Charles de Gaulle, à Lons. Fermé le samedi et le dimanche au relevé du 11 octobre 2026. Téléphone : 05 59 62 83 90. Note Google : 4,6 sur 5 pour 89 avis.",
+    "chapo": "Cette fiche présente Elec Auto, un garage et automobile au 85 Boulevard Charles de Gaulle, à Lons. Fermé le samedi et le dimanche au relevé du 26 octobre 2026. Téléphone : 05 59 62 83 90. Note Google : 4,6 sur 5 pour 89 avis.",
     "sections": [
       {
         "id": "presentation",
         "titre": "Elec Auto en quelques mots",
         "paragraphes": [
           "Sur Google, l'établissement est classé « Garage automobile », dans notre rubrique Garage et automobile.",
-          "D'après le relevé du 11 octobre 2026, l'établissement est fermé le samedi et le dimanche. Le détail jour par jour figure plus bas."
+          "D'après le relevé du 26 octobre 2026, l'établissement est fermé le samedi et le dimanche. Le détail jour par jour figure plus bas."
+        ]
+      },
+      {
+        "id": "prestations",
+        "titre": "Services et équipements de Elec Auto",
+        "paragraphes": [
+          "Moyens de paiement déclarés : carte bancaire, carte de débit et paiement sans contact.",
+          "Ces indications sont déclarées par l'établissement sur sa fiche Google (relevé du 26 octobre 2026)."
         ]
       },
       {
@@ -172,18 +180,18 @@
         "id": "avis",
         "titre": "La réputation de Elec Auto",
         "paragraphes": [
-          "Note de 4,6 sur 5 pour 89 avis Google au relevé du 11 octobre 2026. Les avis se consultent sur la fiche Google, dont le lien figure sur cette page."
+          "Note de 4,6 sur 5 pour 89 avis Google au relevé du 26 octobre 2026. Les avis les plus parlants sont compilés ci-dessous, avec un lien vers la fiche d'origine."
         ]
       }
     ],
     "faq": [
       {
         "q": "Quels sont les horaires de Elec Auto ?",
-        "r": "Au relevé du 11 octobre 2026, Elec Auto était fermé le samedi et le dimanche. Dans le détail — lundi : de 8 h à 12 h et de 14 h à 18 h ; mardi : de 8 h à 12 h et de 14 h à 18 h ; mercredi : de 8 h à 12 h et de 14 h à 18 h ; jeudi : de 8 h à 12 h et de 14 h à 18 h ; vendredi : de 8 h à 12 h et de 14 h à 17 h 30 ; samedi : fermé ; dimanche : fermé. Ces horaires peuvent changer : un appel préalable reste conseillé."
+        "r": "Au relevé du 26 octobre 2026, Elec Auto était fermé le samedi et le dimanche. Dans le détail — lundi : de 8 h à 12 h et de 14 h à 18 h ; mardi : de 8 h à 12 h et de 14 h à 18 h ; mercredi : de 8 h à 12 h et de 14 h à 18 h ; jeudi : de 8 h à 12 h et de 14 h à 18 h ; vendredi : de 8 h à 12 h et de 14 h à 17 h 30 ; samedi : fermé ; dimanche : fermé. Ces horaires peuvent changer : un appel préalable reste conseillé."
       },
       {
         "q": "Elec Auto est-il ouvert le dimanche ?",
-        "r": "Non : d'après les horaires relevés le 11 octobre 2026, Elec Auto est fermé le dimanche."
+        "r": "Non : d'après les horaires relevés le 26 octobre 2026, Elec Auto est fermé le dimanche."
       },
       {
         "q": "Où se trouve Elec Auto ?",
@@ -198,7 +206,7 @@
         "r": "La fiche Google de l'établissement mentionne : « Entrée accessible en fauteuil roulant ». Cette information est déclarative ; en cas de doute, vérifiez par téléphone."
       }
     ],
-    "genere_le": "2026-10-11"
+    "genere_le": "2026-10-26"
   },
   "statut_google": "OPERATIONAL",
   "audience": {
@@ -209,6 +217,66 @@
     "clicsRecents": 0,
     "fenetreRecenteJours": 28,
     "source": "search-console",
-    "date": "2026-10-25"
+    "date": "2026-10-26"
+  },
+  "avis_detail": {
+    "releve": "2026-10-26",
+    "liste": [
+      {
+        "note": 5,
+        "texte": "Très bon garagiste de confiance.",
+        "langue": "fr",
+        "date": "2026-09-30",
+        "auteur": "Julien Michon",
+        "auteur_lien": "https://www.google.com/maps/contrib/111728427080730521172/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2tGZlRFUnBMUzFIY3pSaFVXNVNlblprZDBzMmFVRRAB!2m1!1s0xd564f9fb340059b:0x8b357f5d2e122c18"
+      },
+      {
+        "note": 5,
+        "texte": "Merci à ce monsieur qui a su prendre de son temps et me trouver le problème électrique de ma polo 5, un homme chaleureux aimable et qui connaît son métier contrairement aux soit disant garage « spécialisé » Volkswagen qui m’ont inventer une multitude de problème inexistant.",
+        "langue": "fr",
+        "date": "2026-06-13",
+        "auteur": "VICTOR-OSCAR Mehdi",
+        "auteur_lien": "https://www.google.com/maps/contrib/105460042967500906004/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2t0dmRYWnBNVkJoU1hkb01rWm1ZUzEwWlVoRVkzYxAB!2m1!1s0xd564f9fb340059b:0x8b357f5d2e122c18"
+      },
+      {
+        "note": 5,
+        "texte": "Très professionnel, à l'écoute, rapide et efficace !!! J'avais un problème de voyant moteur allumé sur un scenic 1, aucun problème moteur. Panne trouvée et réparée. Je recommande ce professionnel !!\nUn grand merci à vous!!🙏",
+        "langue": "fr",
+        "date": "2026-02-20",
+        "auteur": "Audrey DÜRR",
+        "auteur_lien": "https://www.google.com/maps/contrib/100619225865839625892/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT21oWlYwczFNelpaYm5GVWVUZDVSMDV2TURGUE9IYxAB!2m1!1s0xd564f9fb340059b:0x8b357f5d2e122c18"
+      },
+      {
+        "note": 4,
+        "texte": "Professionnel sympa, à l'écoute et avec de l'humour (TRÈÈÈÈÈÈS et trop rare de nos jours). Efficace et prix raisonnable. Je vous le conseille.",
+        "langue": "fr",
+        "date": "2026-01-07",
+        "auteur": "Laure Murcuillat",
+        "auteur_lien": "https://www.google.com/maps/contrib/118393457824689800590/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2tOcmRsSlBNRE5mZFZkc2VYSTVXRWxPWWtGV05VRRAB!2m1!1s0xd564f9fb340059b:0x8b357f5d2e122c18"
+      },
+      {
+        "note": 1,
+        "texte": "Pas professionnel je viens pour demander un devis de problème de centralisation et quand je lui dit le modèle de ma voiture il dit non directement sans même regarder .\nPar contre y’a 5 ans quand je l’ai amené pour changer le moteur essuie-glace qui m’a couter 430€ la il était content de prendre l’argent. Enfin bref je suis aller chez Mercedes et là j’ai était très bien accueilli et pris au sérieux et ( on m’a pas dit que ma voiture était de la merde )",
+        "langue": "fr",
+        "date": "2025-07-16",
+        "auteur": "Mathis ALGUER",
+        "auteur_lien": "https://www.google.com/maps/contrib/115525395054720377383/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2tzM2NHdFJkRzVZUzI4M2NrSlpSelZYZHpoWU1YYxAB!2m1!1s0xd564f9fb340059b:0x8b357f5d2e122c18"
+      }
+    ]
+  },
+  "services": {
+    "releve": "2026-10-26",
+    "options": {},
+    "paiement": [
+      "carte bancaire",
+      "carte de débit",
+      "paiement sans contact"
+    ],
+    "parking": []
   }
 }

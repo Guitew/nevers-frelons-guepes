@@ -1,0 +1,255 @@
+{
+  "id": "ChIJfXvsvjNSAUgRJU72FokkNpM",
+  "slug": "laverie-bongraine",
+  "nom": "Laverie Bongraine",
+  "categorie": "nettoyage-hygiene",
+  "categorie_gmb": "Blanchisserie",
+  "type_principal": "laundry",
+  "types": [
+    "laundry",
+    "point_of_interest",
+    "service",
+    "establishment"
+  ],
+  "ville": "Aytré",
+  "ville_slug": "aytre",
+  "adresse": {
+    "rue": "2 Avenue de la Rotonde",
+    "code_postal": "17440",
+    "departement": "17",
+    "region": "Nouvelle-Aquitaine",
+    "pays": "France",
+    "complete": "Laverie Bongraine, 2 Av. de la Rotonde, 17440 Aytré"
+  },
+  "telephone": "05 46 56 78 72",
+  "geo": {
+    "latitude": 46.1391019,
+    "longitude": -1.1446008
+  },
+  "note": 4.3,
+  "avis": 50,
+  "horaires": [
+    {
+      "jour": 0,
+      "ferme": false,
+      "creneaux": [
+        [
+          "07:00",
+          "21:00"
+        ]
+      ]
+    },
+    {
+      "jour": 1,
+      "ferme": false,
+      "creneaux": [
+        [
+          "07:00",
+          "21:00"
+        ]
+      ]
+    },
+    {
+      "jour": 2,
+      "ferme": false,
+      "creneaux": [
+        [
+          "07:00",
+          "21:00"
+        ]
+      ]
+    },
+    {
+      "jour": 3,
+      "ferme": false,
+      "creneaux": [
+        [
+          "07:00",
+          "21:00"
+        ]
+      ]
+    },
+    {
+      "jour": 4,
+      "ferme": false,
+      "creneaux": [
+        [
+          "07:00",
+          "21:00"
+        ]
+      ]
+    },
+    {
+      "jour": 5,
+      "ferme": false,
+      "creneaux": [
+        [
+          "07:00",
+          "21:00"
+        ]
+      ]
+    },
+    {
+      "jour": 6,
+      "ferme": false,
+      "creneaux": [
+        [
+          "07:00",
+          "21:00"
+        ]
+      ]
+    }
+  ],
+  "attributs": [
+    "Entrée accessible en fauteuil roulant",
+    "Parking accessible en fauteuil roulant",
+    "Places assises accessibles en fauteuil roulant"
+  ],
+  "lien_google": "https://maps.google.com/?cid=10607706143532142117&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
+  "site_web_gmb": null,
+  "statut": "publiee",
+  "backlink": {
+    "etat": "absent",
+    "premiere_detection": null,
+    "derniere_detection": null,
+    "derniere_verification": "2026-10-26T11:01:19.059Z",
+    "echecs": 1,
+    "url_detectee": null
+  },
+  "suggestion": {
+    "etat": "en-attente",
+    "date_soumission": null,
+    "tentatives": 0,
+    "date_email": "2026-10-26"
+  },
+  "retrait": null,
+  "dates": {
+    "collecte": "2026-10-26",
+    "publication": "2026-10-26",
+    "maj": "2026-10-26"
+  },
+  "source": "google-places",
+  "avis_detail": {
+    "releve": "2026-10-26",
+    "liste": [
+      {
+        "note": 4,
+        "texte": "lieu propre\nbcp de machines\nprix corrects\npas très clair sur le cumul des tours de sèche linge du coup j'ai du utiliser plusieurs paiements CB pour sécher mon linge je n'ai pas trop compris comment faire pour cumuler.\nc'est bien qu'il y ait paiement CB et espèces\nil manque une table hauteur normale près des chaises pour pouvoir optimiser le temps et travailler ou bien des chaises hautes pour faire mange debout\nparking pratique\ndurée de cycle correct",
+        "langue": "fr",
+        "date": "2024-07-02",
+        "auteur": "laurence Grillon",
+        "auteur_lien": "https://www.google.com/maps/contrib/118288599928326668026/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSURMbjUtc0xnEAE!2m1!1s0x48015233beec7b7d:0x9336248916f64e25"
+      },
+      {
+        "note": 5,
+        "texte": "C'est la laverie la plus proche de chez moi, , Merci d'être là! Les lieux et machines sont toujours propres, +++, un coin don de livres, annonces et linge oublié, qui montre un climat de bienveillance et de proximité très appréciable,\nMais s'il vous plaît remettez le séchoir à 1.20  🤠",
+        "langue": "fr",
+        "date": "2023-04-30",
+        "auteur": "Prénom Nom",
+        "auteur_lien": "https://www.google.com/maps/contrib/104436526962700739309/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSURSNWRqTEZREAE!2m1!1s0x48015233beec7b7d:0x9336248916f64e25"
+      },
+      {
+        "note": 5,
+        "texte": "Grande laverie, beaucoup de machines avec plusieurs tailles et beaucoup de sécheuse. Paiement possible par CB ou espèces ce qui est très pratique quand on n'a plus de monnaie et les pris sont parfaits. La laverie est propre. Dommage qu'il n'y ai pas le service de repassage. Mais ça reste ma laverie préférée, il y a le wifi et une grande table pour plier le linge ou juste travailler en attendant.",
+        "langue": "fr",
+        "date": "2020-12-30",
+        "auteur": "Fanny Z",
+        "auteur_lien": "https://www.google.com/maps/contrib/108709093206288030109/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSURTOFl5d1hnEAE!2m1!1s0x48015233beec7b7d:0x9336248916f64e25"
+      },
+      {
+        "note": 4,
+        "texte": "Petite laverie très propre . Bcp de machines à  laver et de sèches linges  . Les prix sont corrects",
+        "langue": "fr",
+        "date": "2020-10-30",
+        "auteur": "denis Angliers",
+        "auteur_lien": "https://www.google.com/maps/contrib/107976466671026253344/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUNpaHJ6bzh3RRAB!2m1!1s0x48015233beec7b7d:0x9336248916f64e25"
+      },
+      {
+        "note": 1,
+        "texte": "Changement de propriétaire ne proposant plus les services lavages et repassage.  C est plus pratique avant .\nTout ça pour sûrement éviter les frais d un salaire.  Je change de laverie",
+        "langue": "fr",
+        "date": "2020-02-11",
+        "auteur": "Daniel Guillot",
+        "auteur_lien": "https://www.google.com/maps/contrib/108937801476256804347/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSURVc291azBBRRAB!2m1!1s0x48015233beec7b7d:0x9336248916f64e25"
+      }
+    ]
+  },
+  "redaction": {
+    "version": 2,
+    "titre": "Laverie Bongraine — Nettoyage et hygiène à Aytré",
+    "meta_titre": "Laverie Bongraine à Aytré : horaires, avis, téléphone",
+    "meta_description": "Laverie Bongraine, nettoyage et hygiène à Aytré : horaires d'ouverture, note Google 4,3/5 (50 avis), téléphone, adresse et itinéraire.",
+    "chapo": "Cette fiche présente Laverie Bongraine, un nettoyage et hygiène au 2 Avenue de la Rotonde, à Aytré. Ouvert sept jours sur sept au relevé du 26 octobre 2026. Téléphone : 05 46 56 78 72. Note Google : 4,3 sur 5 pour 50 avis.",
+    "sections": [
+      {
+        "id": "presentation",
+        "titre": "Laverie Bongraine en quelques mots",
+        "paragraphes": [
+          "Sur Google, l'établissement est classé « Blanchisserie », dans notre rubrique Nettoyage et hygiène.",
+          "D'après le relevé du 26 octobre 2026, l'établissement est ouvert sept jours sur sept. Le détail jour par jour figure plus bas."
+        ]
+      },
+      {
+        "id": "acces",
+        "titre": "Adresse et accès",
+        "paragraphes": [
+          "L'établissement est situé au 2 Avenue de la Rotonde, 17440 Aytré.",
+          "Coordonnées GPS : 46.13910, -1.14460. Le bouton Itinéraire de cette page ouvre la navigation."
+        ]
+      },
+      {
+        "id": "contact",
+        "titre": "Contacter Laverie Bongraine",
+        "paragraphes": [
+          "Le contact se fait par téléphone au 05 46 56 78 72, ou directement sur place aux horaires d'ouverture."
+        ]
+      },
+      {
+        "id": "avis",
+        "titre": "La réputation de Laverie Bongraine",
+        "paragraphes": [
+          "Note de 4,3 sur 5 pour 50 avis Google au relevé du 26 octobre 2026. Les avis les plus parlants sont compilés ci-dessous, avec un lien vers la fiche d'origine."
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "q": "Quels sont les horaires de Laverie Bongraine ?",
+        "r": "Au relevé du 26 octobre 2026, Laverie Bongraine était ouvert sept jours sur sept. Dans le détail — lundi : de 7 h à 21 h ; mardi : de 7 h à 21 h ; mercredi : de 7 h à 21 h ; jeudi : de 7 h à 21 h ; vendredi : de 7 h à 21 h ; samedi : de 7 h à 21 h ; dimanche : de 7 h à 21 h. Ces horaires peuvent changer : un appel préalable reste conseillé."
+      },
+      {
+        "q": "Laverie Bongraine est-il ouvert le dimanche ?",
+        "r": "Oui : le dimanche, Laverie Bongraine est ouvert de 7 h à 21 h (horaires relevés le 26 octobre 2026)."
+      },
+      {
+        "q": "Où se trouve Laverie Bongraine ?",
+        "r": "Laverie Bongraine se trouve Laverie Bongraine, 2 Av. de la Rotonde, 17440 Aytré. Un lien d'itinéraire est disponible sur cette page."
+      },
+      {
+        "q": "Comment contacter Laverie Bongraine ?",
+        "r": "Par téléphone au 05 46 56 78 72, ou directement sur place aux heures d'ouverture."
+      },
+      {
+        "q": "Laverie Bongraine est-il accessible aux personnes à mobilité réduite ?",
+        "r": "La fiche Google de l'établissement mentionne : « Entrée accessible en fauteuil roulant ». Cette information est déclarative ; en cas de doute, vérifiez par téléphone."
+      }
+    ],
+    "genere_le": "2026-10-26"
+  },
+  "statut_google": "OPERATIONAL",
+  "audience": {
+    "clics": 0,
+    "impressions": 0,
+    "position": null,
+    "fenetreJours": 90,
+    "clicsRecents": 0,
+    "fenetreRecenteJours": 28,
+    "source": "search-console",
+    "date": "2026-10-26"
+  }
+}

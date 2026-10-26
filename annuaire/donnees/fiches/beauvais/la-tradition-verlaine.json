@@ -1,0 +1,290 @@
+{
+  "id": "ChIJ3c3ntFIB50cRCI-C3-RNFHk",
+  "slug": "la-tradition-verlaine",
+  "nom": "La Tradition Verlaine",
+  "categorie": "boulangeries-patisseries",
+  "categorie_gmb": "Boulangerie",
+  "type_principal": "bakery",
+  "types": [
+    "bakery",
+    "pastry_shop",
+    "catering_service",
+    "dessert_shop",
+    "confectionery",
+    "food_delivery",
+    "food_store",
+    "store",
+    "food",
+    "point_of_interest",
+    "service",
+    "establishment"
+  ],
+  "ville": "Beauvais",
+  "ville_slug": "beauvais",
+  "adresse": {
+    "rue": "Rue du Faubourg Saint-Jean",
+    "code_postal": "60000",
+    "departement": "60",
+    "region": "Hauts-de-France",
+    "pays": "France",
+    "complete": "Rue du Faubourg Saint-Jean, 60000 Beauvais"
+  },
+  "telephone": "03 44 02 43 78",
+  "geo": {
+    "latitude": 49.4281717,
+    "longitude": 2.0595299
+  },
+  "note": 4.3,
+  "avis": 174,
+  "horaires": [
+    {
+      "jour": 0,
+      "ferme": false,
+      "creneaux": [
+        [
+          "06:30",
+          "19:00"
+        ]
+      ]
+    },
+    {
+      "jour": 1,
+      "ferme": false,
+      "creneaux": [
+        [
+          "06:30",
+          "19:00"
+        ]
+      ]
+    },
+    {
+      "jour": 2,
+      "ferme": false,
+      "creneaux": [
+        [
+          "06:30",
+          "19:00"
+        ]
+      ]
+    },
+    {
+      "jour": 3,
+      "ferme": false,
+      "creneaux": [
+        [
+          "06:30",
+          "19:00"
+        ]
+      ]
+    },
+    {
+      "jour": 4,
+      "ferme": false,
+      "creneaux": [
+        [
+          "06:30",
+          "19:00"
+        ]
+      ]
+    },
+    {
+      "jour": 5,
+      "ferme": false,
+      "creneaux": [
+        [
+          "06:30",
+          "18:00"
+        ]
+      ]
+    },
+    {
+      "jour": 6,
+      "ferme": true,
+      "creneaux": []
+    }
+  ],
+  "attributs": [
+    "Entrée accessible en fauteuil roulant",
+    "Parking accessible en fauteuil roulant"
+  ],
+  "lien_google": "https://maps.google.com/?cid=8724684023521251080&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
+  "site_web_gmb": null,
+  "statut": "publiee",
+  "backlink": {
+    "etat": "absent",
+    "premiere_detection": null,
+    "derniere_detection": null,
+    "derniere_verification": "2026-10-26T11:01:19.059Z",
+    "echecs": 1,
+    "url_detectee": null
+  },
+  "suggestion": {
+    "etat": "en-attente",
+    "date_soumission": null,
+    "tentatives": 0,
+    "date_email": "2026-10-26"
+  },
+  "retrait": null,
+  "dates": {
+    "collecte": "2026-10-26",
+    "publication": "2026-10-26",
+    "maj": "2026-10-26"
+  },
+  "source": "google-places",
+  "avis_detail": {
+    "releve": "2026-10-26",
+    "liste": [
+      {
+        "note": 5,
+        "texte": "Nous avons acheté un gâteau Saint Honoré le week-end dernier à l’occasion d’un anniversaire. Nous avons apprécié la qualité des choux, la présentation, tout était parfait.\nNous recommandons cette boulangerie pâtisserie.\nMerci à toute l’équipe.\nTrès bon accueil.",
+        "langue": "fr",
+        "date": "2026-09-08",
+        "auteur": "sylvie lebel",
+        "auteur_lien": "https://www.google.com/maps/contrib/117970337796849135378/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2tkU2VYRlhTRUkxZDNoWlJrdDBia2RtV2tWSVRXYxAB!2m1!1s0x47e70152b4e7cddd:0x79144de4df828f08"
+      },
+      {
+        "note": 5,
+        "texte": "Nous avons fait faire une pièce montée pour 50 personnes pour les 18 ans de notre fils, sur le thème pompier… une pure réussite, autant sur le visuel que le goût, un délice ! Félicitations à la cheffe pâtissière , et à la gentillesse du patron et de l’ensemble de l’équipe ! À recommander +++",
+        "langue": "fr",
+        "date": "2026-08-20",
+        "auteur": "Marjorie",
+        "auteur_lien": "https://www.google.com/maps/contrib/117616594446177475710/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2tGa2VXZFNOVVozYzI1MWIwVnFjRFJyVldJeFFuYxAB!2m1!1s0x47e70152b4e7cddd:0x79144de4df828f08"
+      },
+      {
+        "note": 1,
+        "texte": "J’ai acheté un sandwich dans un distributeur provenant de cette boulangerie, et en le consommant, j’ai découvert des pucerons dans la salade.\n\nJe peux comprendre que ce genre de problème puisse arriver, même si ça reste déjà limite en termes d’hygiène. J’ai contacté la boulangerie : la responsable s’est excusée, mais aucun geste commercial n’a été proposé.\n\nRésultat, j’ai mangé à peine la moitié du sandwich, le reste est parti à la poubelle… pour un produit payé 3,60 €.\n\nC’est surtout cette absence totale de considération pour le client qui est décevante. Une erreur peut arriver, mais la manière de la gérer fait toute la différence.",
+        "langue": "fr",
+        "date": "2026-04-17",
+        "auteur": "lefebvre justine",
+        "auteur_lien": "https://www.google.com/maps/contrib/106571831747377390851/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xSZllsbHlZekJUTFRsdmVXWnFUMFZ0VEMxQlpFRRAB!2m1!1s0x47e70152b4e7cddd:0x79144de4df828f08"
+      },
+      {
+        "note": 5,
+        "texte": "Commande d’une pièce montée et d’un gâteau au chocolat à l’occasion de notre mariage.\nTout était excellent, nos invités se sont régalés.\nUn grand merci également pour vos conseils.\nNous recommandons cette pâtisserie à 100%!",
+        "langue": "fr",
+        "date": "2025-09-15",
+        "auteur": "Karine Fontaine",
+        "auteur_lien": "https://www.google.com/maps/contrib/103783970950964516792/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2pORlFsQXlNVGc1YVhGeE1sSTJlVEJ1ZW5SMFYxRRAB!2m1!1s0x47e70152b4e7cddd:0x79144de4df828f08"
+      },
+      {
+        "note": 5,
+        "texte": "Nous avons commandé une pièce montée à  l'occasion du mariage de notre fils. J'ai été parfaitement conseillée et toutes les personnes à qui j'ai parlé étaient très sympathiques.\nLa pièce montée était superbement réalisé et très bonne. La nougatine une tuerie ! Nous n'avons eu que des compliments de la part des invités.\nMerci beaucoup pour tout.",
+        "langue": "fr",
+        "date": "2025-06-11",
+        "auteur": "Virginie Cornet",
+        "auteur_lien": "https://www.google.com/maps/contrib/105785869425934018515/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xsblJDMHhaa1ZTT0hJM1VYSnplRzVMV1VoM1gwRRAB!2m1!1s0x47e70152b4e7cddd:0x79144de4df828f08"
+      }
+    ]
+  },
+  "services": {
+    "releve": "2026-10-26",
+    "prix": "PRICE_LEVEL_INEXPENSIVE",
+    "options": {
+      "takeout": true,
+      "delivery": true,
+      "servesCoffee": true
+    },
+    "paiement": [
+      "carte bancaire",
+      "carte de débit",
+      "paiement sans contact"
+    ],
+    "parking": []
+  },
+  "redaction": {
+    "version": 2,
+    "titre": "La Tradition Verlaine — Boulangerie-pâtisserie à Beauvais",
+    "meta_titre": "La Tradition Verlaine à Beauvais : horaires, avis, téléphone",
+    "meta_description": "La Tradition Verlaine, boulangerie-pâtisserie à Beauvais : horaires d'ouverture, note Google 4,3/5 (174 avis), téléphone, adresse et itinéraire.",
+    "chapo": "Cette fiche présente La Tradition Verlaine, une boulangerie-pâtisserie au Rue du Faubourg Saint-Jean, à Beauvais. Ouvert tous les jours sauf le dimanche au relevé du 26 octobre 2026. Téléphone : 03 44 02 43 78. Note Google : 4,3 sur 5 pour 174 avis.",
+    "sections": [
+      {
+        "id": "presentation",
+        "titre": "La Tradition Verlaine en quelques mots",
+        "paragraphes": [
+          "Sur Google, l'établissement est classé « Boulangerie », dans notre rubrique Boulangerie-pâtisserie.",
+          "Niveau de prix indiqué sur la fiche Google : € (bon marché).",
+          "D'après le relevé du 26 octobre 2026, l'établissement est ouvert tous les jours sauf le dimanche. Le détail jour par jour figure plus bas."
+        ]
+      },
+      {
+        "id": "prestations",
+        "titre": "Services et équipements de La Tradition Verlaine",
+        "paragraphes": [
+          "Proposé : à emporter, livraison et café.",
+          "Moyens de paiement déclarés : carte bancaire, carte de débit et paiement sans contact.",
+          "Ces indications sont déclarées par l'établissement sur sa fiche Google (relevé du 26 octobre 2026)."
+        ]
+      },
+      {
+        "id": "acces",
+        "titre": "Adresse et accès",
+        "paragraphes": [
+          "L'établissement est situé au Rue du Faubourg Saint-Jean, 60000 Beauvais.",
+          "Coordonnées GPS : 49.42817, 2.05953. Le bouton Itinéraire de cette page ouvre la navigation."
+        ]
+      },
+      {
+        "id": "contact",
+        "titre": "Contacter La Tradition Verlaine",
+        "paragraphes": [
+          "Le contact se fait par téléphone au 03 44 02 43 78, ou directement sur place aux horaires d'ouverture."
+        ]
+      },
+      {
+        "id": "avis",
+        "titre": "La réputation de La Tradition Verlaine",
+        "paragraphes": [
+          "Note de 4,3 sur 5 pour 174 avis Google au relevé du 26 octobre 2026. Les avis les plus parlants sont compilés ci-dessous, avec un lien vers la fiche d'origine."
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "q": "Quels sont les horaires de La Tradition Verlaine ?",
+        "r": "Au relevé du 26 octobre 2026, La Tradition Verlaine était ouvert tous les jours sauf le dimanche. Dans le détail — lundi : de 6 h 30 à 19 h ; mardi : de 6 h 30 à 19 h ; mercredi : de 6 h 30 à 19 h ; jeudi : de 6 h 30 à 19 h ; vendredi : de 6 h 30 à 19 h ; samedi : de 6 h 30 à 18 h ; dimanche : fermé. Ces horaires peuvent changer : un appel préalable reste conseillé."
+      },
+      {
+        "q": "La Tradition Verlaine est-il ouvert le dimanche ?",
+        "r": "Non : d'après les horaires relevés le 26 octobre 2026, La Tradition Verlaine est fermé le dimanche."
+      },
+      {
+        "q": "Où se trouve La Tradition Verlaine ?",
+        "r": "La Tradition Verlaine se trouve Rue du Faubourg Saint-Jean, 60000 Beauvais. Un lien d'itinéraire est disponible sur cette page."
+      },
+      {
+        "q": "Comment contacter La Tradition Verlaine ?",
+        "r": "Par téléphone au 03 44 02 43 78, ou directement sur place aux heures d'ouverture."
+      },
+      {
+        "q": "La Tradition Verlaine propose-t-il la vente à emporter ou la livraison ?",
+        "r": "D'après sa fiche Google (relevé du 26 octobre 2026) — vente à emporter : oui ; livraison : oui."
+      },
+      {
+        "q": "Quel est le niveau de prix de La Tradition Verlaine ?",
+        "r": "Google classe La Tradition Verlaine au niveau de prix € (bon marché), sur une échelle de € à €€€€ établie à partir des avis clients."
+      },
+      {
+        "q": "La Tradition Verlaine est-il accessible aux personnes à mobilité réduite ?",
+        "r": "La fiche Google de l'établissement mentionne : « Entrée accessible en fauteuil roulant ». Cette information est déclarative ; en cas de doute, vérifiez par téléphone."
+      }
+    ],
+    "genere_le": "2026-10-26"
+  },
+  "statut_google": "OPERATIONAL",
+  "audience": {
+    "clics": 0,
+    "impressions": 0,
+    "position": null,
+    "fenetreJours": 90,
+    "clicsRecents": 0,
+    "fenetreRecenteJours": 28,
+    "source": "search-console",
+    "date": "2026-10-26"
+  }
+}

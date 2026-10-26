@@ -27,7 +27,7 @@
     "longitude": -0.606363
   },
   "note": 4.3,
-  "avis": 29,
+  "avis": 30,
   "horaires": null,
   "attributs": [
     "Entrée accessible en fauteuil roulant",
@@ -41,8 +41,8 @@
     "etat": "absent",
     "premiere_detection": null,
     "derniere_detection": null,
-    "derniere_verification": "2026-10-11T11:22:19.539Z",
-    "echecs": 28,
+    "derniere_verification": "2026-10-26T11:01:19.059Z",
+    "echecs": 29,
     "url_detectee": null
   },
   "suggestion": {
@@ -55,21 +55,30 @@
   "dates": {
     "collecte": "2026-09-24",
     "publication": "2026-09-24",
-    "maj": "2026-10-11"
+    "maj": "2026-10-26"
   },
   "source": "google-places",
   "redaction": {
     "version": 2,
     "titre": "Clinique Bel Air — Médecin ou dentiste à Bordeaux",
     "meta_titre": "Clinique Bel Air à Bordeaux : avis",
-    "meta_description": "Clinique Bel Air, médecin ou dentiste à Bordeaux : note Google 4,3/5 (29 avis), adresse et itinéraire.",
-    "chapo": "Cette fiche présente Clinique Bel Air, un médecin ou dentiste au 138 Avenue de la République, à Bordeaux. Note Google : 4,3 sur 5 pour 29 avis.",
+    "meta_description": "Clinique Bel Air, médecin ou dentiste à Bordeaux : note Google 4,3/5 (30 avis), adresse et itinéraire.",
+    "chapo": "Cette fiche présente Clinique Bel Air, un médecin ou dentiste au 138 Avenue de la République, à Bordeaux. Note Google : 4,3 sur 5 pour 30 avis.",
     "sections": [
       {
         "id": "presentation",
         "titre": "Clinique Bel Air en quelques mots",
         "paragraphes": [
           "Sur Google, l'établissement est classé « Clinique », dans notre rubrique Médecin ou dentiste."
+        ]
+      },
+      {
+        "id": "prestations",
+        "titre": "Services et équipements de Clinique Bel Air",
+        "paragraphes": [
+          "Proposé : toilettes.",
+          "Moyens de paiement déclarés : carte bancaire, carte de débit et paiement sans contact.",
+          "Ces indications sont déclarées par l'établissement sur sa fiche Google (relevé du 26 octobre 2026)."
         ]
       },
       {
@@ -91,7 +100,7 @@
         "id": "avis",
         "titre": "La réputation de Clinique Bel Air",
         "paragraphes": [
-          "Note de 4,3 sur 5 pour 29 avis Google au relevé du 11 octobre 2026. Les avis se consultent sur la fiche Google, dont le lien figure sur cette page."
+          "Note de 4,3 sur 5 pour 30 avis Google au relevé du 26 octobre 2026. Les avis les plus parlants sont compilés ci-dessous, avec un lien vers la fiche d'origine."
         ]
       }
     ],
@@ -105,7 +114,7 @@
         "r": "La fiche Google de l'établissement mentionne : « Entrée accessible en fauteuil roulant ». Cette information est déclarative ; en cas de doute, vérifiez par téléphone."
       }
     ],
-    "genere_le": "2026-10-11"
+    "genere_le": "2026-10-26"
   },
   "statut_google": "OPERATIONAL",
   "audience": {
@@ -116,6 +125,68 @@
     "clicsRecents": 0,
     "fenetreRecenteJours": 28,
     "source": "search-console",
-    "date": "2026-10-25"
+    "date": "2026-10-26"
+  },
+  "avis_detail": {
+    "releve": "2026-10-26",
+    "liste": [
+      {
+        "note": 4,
+        "texte": "Personnel et soignant très gentils, chambre très bien, par contre parking très cher, mais vraiment très cher. Je suis restée 1h j ai payé 5 euros.",
+        "langue": "fr",
+        "date": "2026-08-01",
+        "auteur": "Sosso Sossolinathan",
+        "auteur_lien": "https://www.google.com/maps/contrib/112441927640819519538/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2tORFdHazNiMUozY2todGMzTnNOMFZoY1RoNFpFRRAB!2m1!1s0xd54d9b2892f8d5b:0x3b5035edbea6ba5d"
+      },
+      {
+        "note": 5,
+        "texte": "Bonjour à tous suite à une intervention avec le docteur Dupitout en urologie je tenais à remercier tout le personnel accueil infirmière et infirmier  anesthésiste ainsi bien entendu le docteur Dupitout pour leur professionnalisme leur gentillesse et leur bonne humeur",
+        "langue": "fr",
+        "date": "2026-05-29",
+        "auteur": "Tony Galina",
+        "auteur_lien": "https://www.google.com/maps/contrib/108724518783429173580/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT21WVlZFSnVibWs1VEhsQmVWaHNRalJOU2t4cExWRRAB!2m1!1s0xd54d9b2892f8d5b:0x3b5035edbea6ba5d"
+      },
+      {
+        "note": 1,
+        "texte": "Secrétaire très agressif pour ma part alors que je parle très calmement et lui demande de pas s’énerver mais bon y’a des personnes irrespectueuses c’est comme ça malheureusement",
+        "langue": "fr",
+        "date": "2026-04-08",
+        "auteur": "Nour Benali",
+        "auteur_lien": "https://www.google.com/maps/contrib/114869265367320674837/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2s5eVNuUkpORUZZTFdzd1VsWmxiM0pIVkU5V2IwRRAB!2m1!1s0xd54d9b2892f8d5b:0x3b5035edbea6ba5d"
+      },
+      {
+        "note": 5,
+        "texte": "suite a 2 doppler réalisé par le docteur ADDOU, merci mille fois docteur pour votre accueil, votre sourire , l'examen réalisé dans des conditions optimun , et surtout la pertinence de vos  explications . toute  cela denote déja  de votre part ,un professionnalisme hors norme et   nul doute que vous faites partie de l'élite de  cette nouvelle, jeune, et  talentueuse génération de praticien  angiologue,  qui fait que tout cela se resume en un seul mot : l'excellence",
+        "langue": "fr",
+        "date": "2026-03-28",
+        "auteur": "Jean Claude Quatrehomme",
+        "auteur_lien": "https://www.google.com/maps/contrib/116497966587525693492/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2pjeGVuaFFVRFV0UVU5RlRISXhSRFJ6UVhCQ2RHYxAB!2m1!1s0xd54d9b2892f8d5b:0x3b5035edbea6ba5d"
+      },
+      {
+        "note": 5,
+        "texte": "Du personnel très dévoué et sympathique dans une clinique en très bon état.",
+        "langue": "fr",
+        "date": "2025-07-26",
+        "auteur": "Cris Cris",
+        "auteur_lien": "https://www.google.com/maps/contrib/112077694117604384126/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xweWNYbG1PVVk1TldWRlYxZGZNMkpuU2tkZlJFRRAB!2m1!1s0xd54d9b2892f8d5b:0x3b5035edbea6ba5d"
+      }
+    ]
+  },
+  "services": {
+    "releve": "2026-10-26",
+    "options": {
+      "restroom": true
+    },
+    "paiement": [
+      "carte bancaire",
+      "carte de débit",
+      "paiement sans contact"
+    ],
+    "parking": []
   }
 }

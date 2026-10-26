@@ -39,8 +39,8 @@
     "etat": "absent",
     "premiere_detection": null,
     "derniere_detection": null,
-    "derniere_verification": "2026-10-11T11:22:19.539Z",
-    "echecs": 16,
+    "derniere_verification": "2026-10-26T11:01:19.059Z",
+    "echecs": 17,
     "url_detectee": null
   },
   "suggestion": {
@@ -60,7 +60,7 @@
   "dates": {
     "collecte": "2026-09-29",
     "publication": "2026-09-29",
-    "maj": "2026-10-18"
+    "maj": "2026-10-26"
   },
   "source": "google-places",
   "redaction": {
@@ -96,7 +96,7 @@
         "id": "avis",
         "titre": "La réputation de COOPER Bel Air Poste de garde",
         "paragraphes": [
-          "Note de 3,7 sur 5 pour 28 avis Google au relevé du 11 octobre 2026. Les avis se consultent sur la fiche Google, dont le lien figure sur cette page."
+          "Note de 3,7 sur 5 pour 28 avis Google au relevé du 26 octobre 2026. Les avis les plus parlants sont compilés ci-dessous, avec un lien vers la fiche d'origine."
         ]
       }
     ],
@@ -110,7 +110,7 @@
         "r": "La fiche Google de l'établissement mentionne : « Parking accessible en fauteuil roulant ». Cette information est déclarative ; en cas de doute, vérifiez par téléphone."
       }
     ],
-    "genere_le": "2026-10-11"
+    "genere_le": "2026-10-26"
   },
   "statut_google": "OPERATIONAL",
   "audience": {
@@ -121,6 +121,56 @@
     "clicsRecents": 0,
     "fenetreRecenteJours": 28,
     "source": "search-console",
-    "date": "2026-10-25"
+    "date": "2026-10-26"
+  },
+  "avis_detail": {
+    "releve": "2026-10-26",
+    "liste": [
+      {
+        "note": 5,
+        "texte": "Salut Girteka. On arrive à la barrière en suivant les coordonnées, on présente le CMR et on te donne le nom et l'immatriculation du camion. Le service de sécurité t'indiquera le chemin. On remet les documents au bureau et on se gare sous la rampe. On ne s'occupe même pas de la goulotte à roues, on l'installe correctement et on se détend dans le camion.\n\nL'équipe est super et l'entreprise a beaucoup d'espace. Ceux qui se plaignent de l'état de la route d'accès n'ont jamais vu pire. On peut y faire passer environ 3,5 tonnes à travers la ville. J'aime bien. 🫠",
+        "langue": "fr",
+        "date": "2026-05-12",
+        "auteur": "Олег Вайдо",
+        "auteur_lien": "https://www.google.com/maps/contrib/118245531966669500610/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT214VE5ITm5URll3TFV0MWNIWmhhWEZJV0V4dE1XYxAB!2m1!1s0x47e5f1f7ba946321:0x38af51cef40c0c6a"
+      },
+      {
+        "note": 3,
+        "texte": "Voici comment j'ai procédé pour entrer et sortir avec une remorque.\n\nIl y a des panneaux indiquant une limite de poids de 3,5 tonnes. Mais ça va.\n\nJe suis arrivé à Cooper à 7 h.\n\nIls m'ont aidé à décharger. Personnel aimable.",
+        "langue": "fr",
+        "date": "2026-04-09",
+        "auteur": "Rafa",
+        "auteur_lien": "https://www.google.com/maps/contrib/118297863083401989761/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25kR2RrTnJhVWh5ZGpNemJXTkVWRnBMY1VJdE5GRRAB!2m1!1s0x47e5f1f7ba946321:0x38af51cef40c0c6a"
+      },
+      {
+        "note": 1,
+        "texte": "Récemment visité. Aucun téléphone ou réponse de l'agence pour un poste à pourvoir.",
+        "langue": "fr",
+        "date": "2025-06-23",
+        "auteur": "Lusio Frilo",
+        "auteur_lien": "https://www.google.com/maps/contrib/103776748673501574089/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT210d05USlJTMEpZYlZkT1RXcENNbHBxV1VocVRHYxAB!2m1!1s0x47e5f1f7ba946321:0x38af51cef40c0c6a"
+      },
+      {
+        "note": 4,
+        "texte": "Équipe sympathique et professionnelle",
+        "langue": "fr",
+        "date": "2025-05-22",
+        "auteur": "raymond bourge",
+        "auteur_lien": "https://www.google.com/maps/contrib/117569742735659423888/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VNZjFtZnY5cU5Pb0RREAE!2m1!1s0x47e5f1f7ba946321:0x38af51cef40c0c6a"
+      },
+      {
+        "note": 5,
+        "texte": "Très bien  accueilli",
+        "langue": "fr",
+        "date": "2025-03-19",
+        "auteur": "Yann Gornard",
+        "auteur_lien": "https://www.google.com/maps/contrib/104667807809609483576/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnTUN3MllmdW9BRRAB!2m1!1s0x47e5f1f7ba946321:0x38af51cef40c0c6a"
+      }
+    ]
   }
 }

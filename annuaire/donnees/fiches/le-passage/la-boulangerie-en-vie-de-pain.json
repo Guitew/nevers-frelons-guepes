@@ -110,8 +110,8 @@
     "etat": "absent",
     "premiere_detection": null,
     "derniere_detection": null,
-    "derniere_verification": "2026-10-10T11:08:55.541Z",
-    "echecs": 1,
+    "derniere_verification": "2026-10-26T11:01:19.059Z",
+    "echecs": 2,
     "url_detectee": null
   },
   "suggestion": {
@@ -124,7 +124,7 @@
   "dates": {
     "collecte": "2026-10-10",
     "publication": "2026-10-10",
-    "maj": "2026-10-11"
+    "maj": "2026-10-26"
   },
   "source": "google-places",
   "redaction": {
@@ -132,14 +132,26 @@
     "titre": "La Boulangerie En Vie de Pain — Boulangerie-pâtisserie à Le Passage",
     "meta_titre": "La Boulangerie En Vie de Pain à Le Passage : horaires, avis",
     "meta_description": "La Boulangerie En Vie de Pain, boulangerie-pâtisserie à Le Passage : horaires d'ouverture, note Google 4,4/5 (139 avis), téléphone, adresse et itinéraire.",
-    "chapo": "La Boulangerie En Vie de Pain, boulangerie-pâtisserie au 55 bis Avenue de la Marne, à Le Passage. Ouvert tous les jours sauf le dimanche au relevé du 11 octobre 2026. Téléphone : 05 53 98 47 49. Note Google : 4,4 sur 5 pour 139 avis.",
+    "chapo": "La Boulangerie En Vie de Pain, boulangerie-pâtisserie au 55 bis Avenue de la Marne, à Le Passage. Ouvert tous les jours sauf le dimanche au relevé du 26 octobre 2026. Téléphone : 05 53 98 47 49. Note Google : 4,4 sur 5 pour 139 avis.",
     "sections": [
       {
         "id": "presentation",
         "titre": "La Boulangerie En Vie de Pain en quelques mots",
         "paragraphes": [
           "Sur Google, l'établissement est classé « Boulangerie », dans notre rubrique Boulangerie-pâtisserie.",
-          "D'après le relevé du 11 octobre 2026, l'établissement est ouvert tous les jours sauf le dimanche. Le détail jour par jour figure plus bas."
+          "Niveau de prix indiqué sur la fiche Google : € (bon marché).",
+          "D'après le relevé du 26 octobre 2026, l'établissement est ouvert tous les jours sauf le dimanche. Le détail jour par jour figure plus bas."
+        ]
+      },
+      {
+        "id": "prestations",
+        "titre": "Services et équipements de La Boulangerie En Vie de Pain",
+        "paragraphes": [
+          "Proposé : sur place, à emporter, petit-déjeuner, café et toilettes.",
+          "Non proposé selon la fiche Google : livraison.",
+          "Moyens de paiement déclarés : carte bancaire, carte de débit et paiement sans contact.",
+          "Stationnement : parking gratuit.",
+          "Ces indications sont déclarées par l'établissement sur sa fiche Google (relevé du 26 octobre 2026)."
         ]
       },
       {
@@ -161,18 +173,18 @@
         "id": "avis",
         "titre": "La réputation de La Boulangerie En Vie de Pain",
         "paragraphes": [
-          "Note de 4,4 sur 5 pour 139 avis Google au relevé du 11 octobre 2026. Les avis se consultent sur la fiche Google, dont le lien figure sur cette page."
+          "Note de 4,4 sur 5 pour 139 avis Google au relevé du 26 octobre 2026. Les avis les plus parlants sont compilés ci-dessous, avec un lien vers la fiche d'origine."
         ]
       }
     ],
     "faq": [
       {
         "q": "Quels sont les horaires de La Boulangerie En Vie de Pain ?",
-        "r": "Au relevé du 11 octobre 2026, La Boulangerie En Vie de Pain était ouvert tous les jours sauf le dimanche. Dans le détail — lundi : de 4 h 30 à 19 h 30 ; mardi : de 4 h 30 à 19 h 30 ; mercredi : de 4 h 30 à 19 h 30 ; jeudi : de 4 h 30 à 19 h 30 ; vendredi : de 4 h 30 à 19 h 30 ; samedi : de 4 h 30 à 19 h 30 ; dimanche : fermé. Ces horaires peuvent changer : un appel préalable reste conseillé."
+        "r": "Au relevé du 26 octobre 2026, La Boulangerie En Vie de Pain était ouvert tous les jours sauf le dimanche. Dans le détail — lundi : de 4 h 30 à 19 h 30 ; mardi : de 4 h 30 à 19 h 30 ; mercredi : de 4 h 30 à 19 h 30 ; jeudi : de 4 h 30 à 19 h 30 ; vendredi : de 4 h 30 à 19 h 30 ; samedi : de 4 h 30 à 19 h 30 ; dimanche : fermé. Ces horaires peuvent changer : un appel préalable reste conseillé."
       },
       {
         "q": "La Boulangerie En Vie de Pain est-il ouvert le dimanche ?",
-        "r": "Non : d'après les horaires relevés le 11 octobre 2026, La Boulangerie En Vie de Pain est fermé le dimanche."
+        "r": "Non : d'après les horaires relevés le 26 octobre 2026, La Boulangerie En Vie de Pain est fermé le dimanche."
       },
       {
         "q": "Où se trouve La Boulangerie En Vie de Pain ?",
@@ -183,11 +195,19 @@
         "r": "Par téléphone au 05 53 98 47 49, ou directement sur place aux heures d'ouverture."
       },
       {
+        "q": "La Boulangerie En Vie de Pain propose-t-il la vente à emporter ou la livraison ?",
+        "r": "D'après sa fiche Google (relevé du 26 octobre 2026) — vente à emporter : oui ; livraison : non."
+      },
+      {
+        "q": "Quel est le niveau de prix de La Boulangerie En Vie de Pain ?",
+        "r": "Google classe La Boulangerie En Vie de Pain au niveau de prix € (bon marché), sur une échelle de € à €€€€ établie à partir des avis clients."
+      },
+      {
         "q": "La Boulangerie En Vie de Pain est-il accessible aux personnes à mobilité réduite ?",
         "r": "La fiche Google de l'établissement mentionne : « Entrée accessible en fauteuil roulant ». Cette information est déclarative ; en cas de doute, vérifiez par téléphone."
       }
     ],
-    "genere_le": "2026-10-11"
+    "genere_le": "2026-10-26"
   },
   "statut_google": "OPERATIONAL",
   "audience": {
@@ -198,6 +218,76 @@
     "clicsRecents": 0,
     "fenetreRecenteJours": 28,
     "source": "search-console",
-    "date": "2026-10-25"
+    "date": "2026-10-26"
+  },
+  "avis_detail": {
+    "releve": "2026-10-26",
+    "liste": [
+      {
+        "note": 5,
+        "texte": "Vendeuse agréable,  très bonne pâtisserie !! Grand choix de salé & surtout très bon pain!\nJe recommande fortement !",
+        "langue": "fr",
+        "date": "2026-08-07",
+        "auteur": "Pezet Thomas",
+        "auteur_lien": "https://www.google.com/maps/contrib/109108778137832425848/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2s1bFMwZEdWelpxV1ZsemFtNTFkRFZqUmt4NmRHYxAB!2m1!1s0x12abb43f4cf66fd1:0xa86c4fa2014dfb67"
+      },
+      {
+        "note": 1,
+        "texte": "Plutôt envie de fuir,prix prohibitif des sois disant pâtisserie , goût enfin pas bon du tout.",
+        "langue": "fr",
+        "date": "2026-08-05",
+        "auteur": "Pascal cémoi",
+        "auteur_lien": "https://www.google.com/maps/contrib/114231153447656663773/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT201QmJqSk9VMkV0WkMxV2NXRTNOVUo1ZVRoc2NFRRAB!2m1!1s0x12abb43f4cf66fd1:0xa86c4fa2014dfb67"
+      },
+      {
+        "note": 5,
+        "texte": "J’ai demandé au pâtissier de me confectionner une pièce montée en forme de cadeau pour mon anniversaire non seulement le cadeau était réussi mais les choux furent un pur délice les crèmes chocolat vanille et café d’une telle légèreté que mes convives ont tout devoré 🙏 je renouvellerai l’expérience sans hésiter pour un autre événement 🤩",
+        "langue": "fr",
+        "date": "2026-03-06",
+        "auteur": "sylvie beauvie",
+        "auteur_lien": "https://www.google.com/maps/contrib/113241977311271329095/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25rdGEzTk1ZalZ0VmxWQlJGbEpabGx1VVhnemJtYxAB!2m1!1s0x12abb43f4cf66fd1:0xa86c4fa2014dfb67"
+      },
+      {
+        "note": 5,
+        "texte": "Excellent service et très bon prix ! Merci pour ce bon repas !",
+        "langue": "fr",
+        "date": "2025-02-07",
+        "auteur": "Max jt",
+        "auteur_lien": "https://www.google.com/maps/contrib/116575627542555044710/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnTURBektiZmZnEAE!2m1!1s0x12abb43f4cf66fd1:0xa86c4fa2014dfb67"
+      },
+      {
+        "note": 5,
+        "texte": "Après plusieurs demandes auprès des boulangeries d’Agen pour un fraisier de 8 personnes , tous mon répondu qu’il était réalisable seulement le week-end, la boulangerie en vie de pain et la seul à avoir accepté de me faire se fraisier. En plus de la gentillesse le gâteau était très très bon , je recommande vivement. Merci encore . Bravo pour l’intérêt que vous porter au client .",
+        "langue": "fr",
+        "date": "2021-04-07",
+        "auteur": "Cindy Monier",
+        "auteur_lien": "https://www.google.com/maps/contrib/108738979702937023201/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUNLd1lDVURBEAE!2m1!1s0x12abb43f4cf66fd1:0xa86c4fa2014dfb67"
+      }
+    ]
+  },
+  "services": {
+    "releve": "2026-10-26",
+    "prix": "PRICE_LEVEL_INEXPENSIVE",
+    "options": {
+      "dineIn": true,
+      "takeout": true,
+      "delivery": false,
+      "servesBreakfast": true,
+      "servesCoffee": true,
+      "restroom": true
+    },
+    "paiement": [
+      "carte bancaire",
+      "carte de débit",
+      "paiement sans contact"
+    ],
+    "parking": [
+      "parking gratuit"
+    ]
   }
 }

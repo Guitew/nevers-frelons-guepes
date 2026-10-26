@@ -108,15 +108,15 @@
     "etat": "absent",
     "premiere_detection": null,
     "derniere_detection": null,
-    "derniere_verification": "2026-10-11T11:22:19.539Z",
-    "echecs": 74,
+    "derniere_verification": "2026-10-26T11:01:19.059Z",
+    "echecs": 75,
     "url_detectee": null
   },
   "retrait": null,
   "dates": {
     "collecte": "2026-08-30",
     "publication": "2026-08-30",
-    "maj": "2026-10-11"
+    "maj": "2026-10-26"
   },
   "source": "google-places",
   "redaction": {
@@ -124,14 +124,22 @@
     "titre": "Diamond Clean 58 — Garage et automobile à Nevers",
     "meta_titre": "Diamond Clean 58 à Nevers : horaires, avis, téléphone",
     "meta_description": "Diamond Clean 58, garage et automobile à Nevers : horaires d'ouverture, note Google 5/5 (2 avis), téléphone, adresse et itinéraire.",
-    "chapo": "Diamond Clean 58, garage et automobile au 10 Rue du Plateau de la Bonne Dame, à Nevers. Ouvert sept jours sur sept au relevé du 11 octobre 2026. Téléphone : 07 69 59 71 67. Note Google : 5 sur 5 pour 2 avis.",
+    "chapo": "Diamond Clean 58, garage et automobile au 10 Rue du Plateau de la Bonne Dame, à Nevers. Ouvert sept jours sur sept au relevé du 26 octobre 2026. Téléphone : 07 69 59 71 67. Note Google : 5 sur 5 pour 2 avis.",
     "sections": [
       {
         "id": "presentation",
         "titre": "Diamond Clean 58 en quelques mots",
         "paragraphes": [
           "Sur Google, l'établissement est classé « Station de lavage automobile », dans notre rubrique Garage et automobile.",
-          "D'après le relevé du 11 octobre 2026, l'établissement est ouvert sept jours sur sept. Le détail jour par jour figure plus bas."
+          "D'après le relevé du 26 octobre 2026, l'établissement est ouvert sept jours sur sept. Le détail jour par jour figure plus bas."
+        ]
+      },
+      {
+        "id": "prestations",
+        "titre": "Services et équipements de Diamond Clean 58",
+        "paragraphes": [
+          "Moyens de paiement déclarés : carte bancaire et carte de débit.",
+          "Ces indications sont déclarées par l'établissement sur sa fiche Google (relevé du 26 octobre 2026)."
         ]
       },
       {
@@ -153,18 +161,18 @@
         "id": "avis",
         "titre": "La réputation de Diamond Clean 58",
         "paragraphes": [
-          "Note de 5 sur 5 pour 2 avis Google au relevé du 11 octobre 2026. Les avis se consultent sur la fiche Google, dont le lien figure sur cette page."
+          "Note de 5 sur 5 pour 2 avis Google au relevé du 26 octobre 2026. Les avis les plus parlants sont compilés ci-dessous, avec un lien vers la fiche d'origine."
         ]
       }
     ],
     "faq": [
       {
         "q": "Quels sont les horaires de Diamond Clean 58 ?",
-        "r": "Au relevé du 11 octobre 2026, Diamond Clean 58 était ouvert sept jours sur sept. Dans le détail — lundi : de 9 h à 18 h ; mardi : de 9 h à 18 h ; mercredi : de 9 h à 18 h ; jeudi : de 9 h à 18 h ; vendredi : de 9 h à 18 h ; samedi : de 9 h à 18 h ; dimanche : de 9 h à 18 h. Ces horaires peuvent changer : un appel préalable reste conseillé."
+        "r": "Au relevé du 26 octobre 2026, Diamond Clean 58 était ouvert sept jours sur sept. Dans le détail — lundi : de 9 h à 18 h ; mardi : de 9 h à 18 h ; mercredi : de 9 h à 18 h ; jeudi : de 9 h à 18 h ; vendredi : de 9 h à 18 h ; samedi : de 9 h à 18 h ; dimanche : de 9 h à 18 h. Ces horaires peuvent changer : un appel préalable reste conseillé."
       },
       {
         "q": "Diamond Clean 58 est-il ouvert le dimanche ?",
-        "r": "Oui : le dimanche, Diamond Clean 58 est ouvert de 9 h à 18 h (horaires relevés le 11 octobre 2026)."
+        "r": "Oui : le dimanche, Diamond Clean 58 est ouvert de 9 h à 18 h (horaires relevés le 26 octobre 2026)."
       },
       {
         "q": "Où se trouve Diamond Clean 58 ?",
@@ -175,7 +183,7 @@
         "r": "Par téléphone au 07 69 59 71 67, ou directement sur place aux heures d'ouverture."
       }
     ],
-    "genere_le": "2026-10-11"
+    "genere_le": "2026-10-26"
   },
   "suggestion": {
     "etat": "soumise",
@@ -191,7 +199,7 @@
     "clicsRecents": 1,
     "fenetreRecenteJours": 28,
     "source": "search-console",
-    "date": "2026-10-25"
+    "date": "2026-10-26"
   },
   "indexation": {
     "etat": "indexee",
@@ -200,6 +208,38 @@
     "derniere_exploration": null,
     "canonique_google": null,
     "source": "impressions",
-    "date": "2026-10-25"
+    "date": "2026-10-26"
+  },
+  "avis_detail": {
+    "releve": "2026-10-26",
+    "liste": [
+      {
+        "note": 5,
+        "texte": "Le top je recommande",
+        "langue": "fr",
+        "date": "2024-12-02",
+        "auteur": "Ciya Kilic",
+        "auteur_lien": "https://www.google.com/maps/contrib/106432866266461601343/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSURQX3BfMW1BRRAB!2m1!1s0x47f04f17f1d3822f:0x9c9c325a59652e67"
+      },
+      {
+        "note": 5,
+        "texte": "Rapide et efficace",
+        "langue": "fr",
+        "date": "2024-12-02",
+        "auteur": "Diyar KOCABEY",
+        "auteur_lien": "https://www.google.com/maps/contrib/107015022739078547336/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSURQX3JfQ2lnRRAB!2m1!1s0x47f04f17f1d3822f:0x9c9c325a59652e67"
+      }
+    ]
+  },
+  "services": {
+    "releve": "2026-10-26",
+    "options": {},
+    "paiement": [
+      "carte bancaire",
+      "carte de débit"
+    ],
+    "parking": []
   }
 }

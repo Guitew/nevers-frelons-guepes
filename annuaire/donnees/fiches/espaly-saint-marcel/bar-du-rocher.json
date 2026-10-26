@@ -111,8 +111,8 @@
     "etat": "absent",
     "premiere_detection": null,
     "derniere_detection": null,
-    "derniere_verification": "2026-10-11T11:22:19.539Z",
-    "echecs": 1,
+    "derniere_verification": "2026-10-26T11:01:19.059Z",
+    "echecs": 2,
     "url_detectee": null
   },
   "suggestion": {
@@ -125,7 +125,7 @@
   "dates": {
     "collecte": "2026-10-11",
     "publication": "2026-10-11",
-    "maj": "2026-10-11"
+    "maj": "2026-10-26"
   },
   "source": "google-places",
   "redaction": {
@@ -133,14 +133,26 @@
     "titre": "Bar Du Rocher — Café ou bar à Espaly-Saint-Marcel",
     "meta_titre": "Bar Du Rocher à Espaly-Saint-Marcel : horaires, avis",
     "meta_description": "Bar Du Rocher, café ou bar à Espaly-Saint-Marcel : horaires d'ouverture, note Google 4,5/5 (128 avis), téléphone, adresse et itinéraire.",
-    "chapo": "Bar Du Rocher, café ou bar au 10 Avenue de la Mairie, à Espaly-Saint-Marcel. Ouvert sept jours sur sept au relevé du 11 octobre 2026. Téléphone : 04 71 09 03 62. Note Google : 4,5 sur 5 pour 128 avis.",
+    "chapo": "Bar Du Rocher, café ou bar au 10 Avenue de la Mairie, à Espaly-Saint-Marcel. Ouvert sept jours sur sept au relevé du 26 octobre 2026. Téléphone : 04 71 09 03 62. Note Google : 4,5 sur 5 pour 128 avis.",
     "sections": [
       {
         "id": "presentation",
         "titre": "Bar Du Rocher en quelques mots",
         "paragraphes": [
           "Sur Google, l'établissement est classé « Bar », dans notre rubrique Café ou bar.",
-          "D'après le relevé du 11 octobre 2026, l'établissement est ouvert sept jours sur sept. Le détail jour par jour figure plus bas."
+          "Niveau de prix indiqué sur la fiche Google : € (bon marché).",
+          "D'après le relevé du 26 octobre 2026, l'établissement est ouvert sept jours sur sept. Le détail jour par jour figure plus bas."
+        ]
+      },
+      {
+        "id": "prestations",
+        "titre": "Services et équipements de Bar Du Rocher",
+        "paragraphes": [
+          "Proposé : terrasse, bière, vin, cocktails, adapté aux groupes et toilettes.",
+          "Non proposé selon la fiche Google : à emporter, livraison, réservation possible, adapté aux enfants et musique live.",
+          "Moyens de paiement déclarés : carte bancaire, carte de débit et paiement sans contact.",
+          "Stationnement : parking gratuit et stationnement gratuit dans la rue.",
+          "Ces indications sont déclarées par l'établissement sur sa fiche Google (relevé du 26 octobre 2026)."
         ]
       },
       {
@@ -162,18 +174,18 @@
         "id": "avis",
         "titre": "La réputation de Bar Du Rocher",
         "paragraphes": [
-          "Note de 4,5 sur 5 pour 128 avis Google au relevé du 11 octobre 2026. Les avis se consultent sur la fiche Google, dont le lien figure sur cette page."
+          "Note de 4,5 sur 5 pour 128 avis Google au relevé du 26 octobre 2026. Les avis les plus parlants sont compilés ci-dessous, avec un lien vers la fiche d'origine."
         ]
       }
     ],
     "faq": [
       {
         "q": "Quels sont les horaires de Bar Du Rocher ?",
-        "r": "Au relevé du 11 octobre 2026, Bar Du Rocher était ouvert sept jours sur sept. Dans le détail — lundi : de 6 h à 20 h ; mardi : de 6 h à 20 h ; mercredi : de 6 h à 20 h ; jeudi : de 6 h à 20 h ; vendredi : de 6 h à 20 h ; samedi : de 7 h à 20 h ; dimanche : de 7 h à 13 h. Ces horaires peuvent changer : un appel préalable reste conseillé."
+        "r": "Au relevé du 26 octobre 2026, Bar Du Rocher était ouvert sept jours sur sept. Dans le détail — lundi : de 6 h à 20 h ; mardi : de 6 h à 20 h ; mercredi : de 6 h à 20 h ; jeudi : de 6 h à 20 h ; vendredi : de 6 h à 20 h ; samedi : de 7 h à 20 h ; dimanche : de 7 h à 13 h. Ces horaires peuvent changer : un appel préalable reste conseillé."
       },
       {
         "q": "Bar Du Rocher est-il ouvert le dimanche ?",
-        "r": "Oui : le dimanche, Bar Du Rocher est ouvert de 7 h à 13 h (horaires relevés le 11 octobre 2026)."
+        "r": "Oui : le dimanche, Bar Du Rocher est ouvert de 7 h à 13 h (horaires relevés le 26 octobre 2026)."
       },
       {
         "q": "Où se trouve Bar Du Rocher ?",
@@ -184,11 +196,23 @@
         "r": "Par téléphone au 04 71 09 03 62, ou directement sur place aux heures d'ouverture."
       },
       {
+        "q": "Peut-on réserver chez Bar Du Rocher ?",
+        "r": "La fiche Google de Bar Du Rocher indique que la réservation n'est pas proposée."
+      },
+      {
+        "q": "Bar Du Rocher propose-t-il la vente à emporter ou la livraison ?",
+        "r": "D'après sa fiche Google (relevé du 26 octobre 2026) — vente à emporter : non ; livraison : non."
+      },
+      {
+        "q": "Quel est le niveau de prix de Bar Du Rocher ?",
+        "r": "Google classe Bar Du Rocher au niveau de prix € (bon marché), sur une échelle de € à €€€€ établie à partir des avis clients."
+      },
+      {
         "q": "Bar Du Rocher est-il accessible aux personnes à mobilité réduite ?",
         "r": "La fiche Google de l'établissement mentionne : « Entrée accessible en fauteuil roulant ». Cette information est déclarative ; en cas de doute, vérifiez par téléphone."
       }
     ],
-    "genere_le": "2026-10-11"
+    "genere_le": "2026-10-26"
   },
   "statut_google": "OPERATIONAL",
   "audience": {
@@ -199,6 +223,82 @@
     "clicsRecents": 0,
     "fenetreRecenteJours": 28,
     "source": "search-console",
-    "date": "2026-10-25"
+    "date": "2026-10-26"
+  },
+  "avis_detail": {
+    "releve": "2026-10-26",
+    "liste": [
+      {
+        "note": 5,
+        "texte": "Restaurant très bon merci pour la petite bougie pour mon anniversaire",
+        "langue": "fr",
+        "date": "2025-09-22",
+        "auteur": "jacqueline Cadinot",
+        "auteur_lien": "https://www.google.com/maps/contrib/113644802773764093238/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xwb01HZEJNbEJTUzBsdFVUaG1hVk5wZFhsRE5GRRAB!2m1!1s0x47f5fba0a9c70bd5:0xb10eb412b0d93aec"
+      },
+      {
+        "note": 5,
+        "texte": "Super patron et ainsi que son employée je suis venu chercher une carte transcash déjà au téléphone ils étaient hyper sympa et en réel pareil. Je recommande cette établissement",
+        "langue": "fr",
+        "date": "2025-06-25",
+        "auteur": "Tufait Tropdebruit",
+        "auteur_lien": "https://www.google.com/maps/contrib/116171202736520574419/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xkbGRGVktNM0JpWlMxTFNXWlVjbDluVUVaR05sRRAB!2m1!1s0x47f5fba0a9c70bd5:0xb10eb412b0d93aec"
+      },
+      {
+        "note": 5,
+        "texte": "Accueil chaleureux, très convivial, service au top, chocolat chaud excellent.",
+        "langue": "fr",
+        "date": "2024-09-23",
+        "auteur": "Valeyrie",
+        "auteur_lien": "https://www.google.com/maps/contrib/106420843988572769612/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUNudFBTdFJREAE!2m1!1s0x47f5fba0a9c70bd5:0xb10eb412b0d93aec"
+      },
+      {
+        "note": 5,
+        "texte": "Lieu accessible en fauteuil roulant et poussette ( un peu étroit avec les vitrines et présentoirs pour accéder au bar ). La porte s'ouvre dans les 2 sens ce qui facilite le passage. Les espaces sont bien séparés. Vitre de protection entre la clientèle et le personnel, gel de désinfection à disposition. La terrasse est accessible. Le personnel est aimable souriant même derrière le masque. Beaucoup de services et de produits. De nombreux choix. On reviendra. Merci !!!",
+        "langue": "fr",
+        "date": "2022-02-01",
+        "auteur": "Fabio Yala",
+        "auteur_lien": "https://www.google.com/maps/contrib/101651842287704887515/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSURtOFliYzN3RRAB!2m1!1s0x47f5fba0a9c70bd5:0xb10eb412b0d93aec"
+      },
+      {
+        "note": 5,
+        "texte": "Bar très accueillant les patrons ont toujours le sourire ainsi que la nouvelle serveuse\nIls sont très proches de leurs clients\nNous avons le sentiment d'être dans un bar familial",
+        "langue": "fr",
+        "date": "2018-02-27",
+        "auteur": "michele rohan",
+        "auteur_lien": "https://www.google.com/maps/contrib/104004397558081678433/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUNnck5DdHhBRRAB!2m1!1s0x47f5fba0a9c70bd5:0xb10eb412b0d93aec"
+      }
+    ]
+  },
+  "services": {
+    "releve": "2026-10-26",
+    "prix": "PRICE_LEVEL_INEXPENSIVE",
+    "options": {
+      "takeout": false,
+      "delivery": false,
+      "reservable": false,
+      "outdoorSeating": true,
+      "servesBeer": true,
+      "servesWine": true,
+      "servesCocktails": true,
+      "goodForChildren": false,
+      "goodForGroups": true,
+      "liveMusic": false,
+      "restroom": true
+    },
+    "paiement": [
+      "carte bancaire",
+      "carte de débit",
+      "paiement sans contact"
+    ],
+    "parking": [
+      "parking gratuit",
+      "stationnement gratuit dans la rue"
+    ]
   }
 }

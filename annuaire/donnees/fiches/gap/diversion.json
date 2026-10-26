@@ -29,7 +29,7 @@
     "longitude": 6.0800236
   },
   "note": 4.4,
-  "avis": 2419,
+  "avis": 2436,
   "horaires": [
     {
       "jour": 0,
@@ -115,8 +115,8 @@
     "etat": "absent",
     "premiere_detection": null,
     "derniere_detection": null,
-    "derniere_verification": "2026-10-11T11:22:19.539Z",
-    "echecs": 71,
+    "derniere_verification": "2026-10-26T11:01:19.059Z",
+    "echecs": 72,
     "url_detectee": null
   },
   "suggestion": {
@@ -134,22 +134,34 @@
   "dates": {
     "collecte": "2026-09-02",
     "publication": "2026-09-02",
-    "maj": "2026-10-18"
+    "maj": "2026-10-26"
   },
   "source": "google-places",
   "redaction": {
     "version": 2,
     "titre": "Diversion — Restaurant à Gap",
     "meta_titre": "Diversion à Gap : horaires, avis, téléphone",
-    "meta_description": "Diversion, restaurant à Gap : horaires d'ouverture, note Google 4,4/5 (2419 avis), téléphone, adresse et itinéraire.",
-    "chapo": "Cette fiche présente Diversion, un restaurant au 2 Rue Elisée, à Gap. Ouvert sept jours sur sept au relevé du 18 octobre 2026. Téléphone : 04 92 52 08 20. Note Google : 4,4 sur 5 pour 2419 avis.",
+    "meta_description": "Diversion, restaurant à Gap : horaires d'ouverture, note Google 4,4/5 (2436 avis), téléphone, adresse et itinéraire.",
+    "chapo": "Cette fiche présente Diversion, un restaurant au 2 Rue Elisée, à Gap. Ouvert sept jours sur sept au relevé du 26 octobre 2026. Téléphone : 04 92 52 08 20. Note Google : 4,4 sur 5 pour 2436 avis.",
     "sections": [
       {
         "id": "presentation",
         "titre": "Diversion en quelques mots",
         "paragraphes": [
           "Sur Google, l'établissement est classé « Restaurant italien », dans notre rubrique Restaurant.",
-          "D'après le relevé du 18 octobre 2026, l'établissement est ouvert sept jours sur sept. Le détail jour par jour figure plus bas."
+          "Niveau de prix indiqué sur la fiche Google : €€ (modéré).",
+          "D'après le relevé du 26 octobre 2026, l'établissement est ouvert sept jours sur sept. Le détail jour par jour figure plus bas."
+        ]
+      },
+      {
+        "id": "prestations",
+        "titre": "Services et équipements de Diversion",
+        "paragraphes": [
+          "Proposé : sur place, à emporter, livraison, réservation possible, terrasse, petit-déjeuner, déjeuner, dîner, plats végétariens, café, bière, vin, cocktails, menu enfant, adapté aux enfants, adapté aux groupes, chiens acceptés et toilettes.",
+          "Non proposé selon la fiche Google : retrait en voiture et musique live.",
+          "Moyens de paiement déclarés : carte bancaire, carte de débit et paiement sans contact.",
+          "Stationnement : parking payant.",
+          "Ces indications sont déclarées par l'établissement sur sa fiche Google (relevé du 26 octobre 2026)."
         ]
       },
       {
@@ -164,25 +176,26 @@
         "id": "contact",
         "titre": "Contacter Diversion",
         "paragraphes": [
-          "Le contact se fait par téléphone au 04 92 52 08 20, ou directement sur place aux horaires d'ouverture."
+          "Le contact se fait par téléphone au 04 92 52 08 20, ou directement sur place aux horaires d'ouverture.",
+          "La fiche Google indique que la réservation est possible."
         ]
       },
       {
         "id": "avis",
         "titre": "La réputation de Diversion",
         "paragraphes": [
-          "Note de 4,4 sur 5 pour 2419 avis Google au relevé du 18 octobre 2026. Les avis se consultent sur la fiche Google, dont le lien figure sur cette page."
+          "Note de 4,4 sur 5 pour 2436 avis Google au relevé du 26 octobre 2026. Les avis les plus parlants sont compilés ci-dessous, avec un lien vers la fiche d'origine."
         ]
       }
     ],
     "faq": [
       {
         "q": "Quels sont les horaires de Diversion ?",
-        "r": "Au relevé du 18 octobre 2026, Diversion était ouvert sept jours sur sept. Dans le détail — lundi : de 7 h à 0 h ; mardi : de 7 h à 0 h ; mercredi : de 7 h à 0 h ; jeudi : de 7 h à 0 h ; vendredi : de 7 h à 0 h ; samedi : de 7 h à 0 h ; dimanche : de 7 h à 0 h. Ces horaires peuvent changer : un appel préalable reste conseillé."
+        "r": "Au relevé du 26 octobre 2026, Diversion était ouvert sept jours sur sept. Dans le détail — lundi : de 7 h à 0 h ; mardi : de 7 h à 0 h ; mercredi : de 7 h à 0 h ; jeudi : de 7 h à 0 h ; vendredi : de 7 h à 0 h ; samedi : de 7 h à 0 h ; dimanche : de 7 h à 0 h. Ces horaires peuvent changer : un appel préalable reste conseillé."
       },
       {
         "q": "Diversion est-il ouvert le dimanche ?",
-        "r": "Oui : le dimanche, Diversion est ouvert de 7 h à 0 h (horaires relevés le 18 octobre 2026)."
+        "r": "Oui : le dimanche, Diversion est ouvert de 7 h à 0 h (horaires relevés le 26 octobre 2026)."
       },
       {
         "q": "Où se trouve Diversion ?",
@@ -193,22 +206,34 @@
         "r": "Par téléphone au 04 92 52 08 20, ou directement sur place aux heures d'ouverture."
       },
       {
+        "q": "Peut-on réserver chez Diversion ?",
+        "r": "Oui, la fiche Google de Diversion indique que la réservation est possible, par téléphone au 04 92 52 08 20."
+      },
+      {
+        "q": "Diversion propose-t-il la vente à emporter ou la livraison ?",
+        "r": "D'après sa fiche Google (relevé du 26 octobre 2026) — vente à emporter : oui ; livraison : oui."
+      },
+      {
+        "q": "Quel est le niveau de prix de Diversion ?",
+        "r": "Google classe Diversion au niveau de prix €€ (modéré), sur une échelle de € à €€€€ établie à partir des avis clients."
+      },
+      {
         "q": "Diversion est-il accessible aux personnes à mobilité réduite ?",
         "r": "La fiche Google de l'établissement mentionne : « Entrée accessible en fauteuil roulant ». Cette information est déclarative ; en cas de doute, vérifiez par téléphone."
       }
     ],
-    "genere_le": "2026-10-18"
+    "genere_le": "2026-10-26"
   },
   "statut_google": "OPERATIONAL",
   "audience": {
     "clics": 0,
-    "impressions": 45,
+    "impressions": 46,
     "position": 9,
     "fenetreJours": 90,
     "clicsRecents": 0,
     "fenetreRecenteJours": 28,
     "source": "search-console",
-    "date": "2026-10-25"
+    "date": "2026-10-26"
   },
   "indexation": {
     "etat": "indexee",
@@ -218,5 +243,89 @@
     "canonique_google": null,
     "source": "impressions",
     "date": "2026-10-18"
+  },
+  "avis_detail": {
+    "releve": "2026-10-26",
+    "liste": [
+      {
+        "note": 1,
+        "texte": "A éviter !!!!\nServi avec a peine 5 minutes d'attente. On avait a peine commencé l'apéro.\nCela pour une escalope milanaise ( 2 mm d'épaisseur) ou on se demande où est la viande... beaucoup trop cuite. La salade..... aucun assaisonnement et largement fannée.\nRemarque au serveur a la fin qui me répond ' désolé mais cela arrive....,,' et il demande le paiement. Bref on vous pousse à la sortie pour qu'ils puissent faire le maximum de service.\nHonteux , ne mérite aucunement leur note.",
+        "langue": "fr",
+        "date": "2026-07-10",
+        "auteur": "alain herpers",
+        "auteur_lien": "https://www.google.com/maps/contrib/100005692904044049740/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT21oSFFXZGtlaTFZVVZOeVRISXdZUzFoTVZwS2JHYxAB!2m1!1s0x12cb414a622d22b9:0x6a798c612aad6249"
+      },
+      {
+        "note": 4,
+        "texte": "Pizza délicieuse\nSaumon également\nAinsi que le tiramisu.\n\nService sympas et rapide (peut être même un peu trop... pas le temps de boire son apéritif que le plat est deja servi !).\n\nCadre, ambiance, déco au top 😉",
+        "langue": "fr",
+        "date": "2026-06-11",
+        "auteur": "Stéphanie Duquesnoy",
+        "auteur_lien": "https://www.google.com/maps/contrib/116756457499428988037/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25wdldEVlZkMkZoTjA5d1NtczFVbFJtV1VaQ1MyYxAB!2m1!1s0x12cb414a622d22b9:0x6a798c612aad6249"
+      },
+      {
+        "note": 1,
+        "texte": "Très déçu par notre expérience.\nLa cuisine manque cruellement de goût et la présentation est quasiment inexistante. Les plats semblent préparés sans réel soin, ce qui est d’autant plus regrettable que l’endroit et le cadre ont pourtant du potentiel.\n\nLes photos parlent d’elles-mêmes beaucoup trop d’huile, une présentation peu engageante et, au final, une qualité qui ne correspond pas à ce que l’on peut attendre d’un établissement de ce type.\n\nDans ce secteur, il existe selon moi des options bien plus agréables, tant sur le plan gustatif que sur celui de l’exécution des plats. C’est dommage, car le lieu mériterait une cuisine nettement meilleure.\n\nPeut-être que les pizzas sont plus réussies, je ne peux pas en juger. En revanche, ce que nous avons commandé n’était franchement pas à la hauteur de nos attentes.\n\nJe pense sincèrement qu’il y a une vraie marge de progression. Pour cette visite, la déception est au rendez-vous. ⭐⭐☆☆☆",
+        "langue": "fr",
+        "date": "2026-06-01",
+        "auteur": "blo yannick",
+        "auteur_lien": "https://www.google.com/maps/contrib/108516252519649714122/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2pWUmFFWm1RVU5MTm5ObVkxRnVXVkJQWVc1TFIyYxAB!2m1!1s0x12cb414a622d22b9:0x6a798c612aad6249"
+      },
+      {
+        "note": 4,
+        "texte": "Très bon restaurant italien, j’y étais déjà allée l’année dernière pour leur escalope milanaise.\nCette fois-ci, j’ai eu une envie de Focaccia. Cependant, je ne m’attendais pas à ça, c’était quand même bon.",
+        "langue": "fr",
+        "date": "2026-05-10",
+        "auteur": "Franceline Cpz",
+        "auteur_lien": "https://www.google.com/maps/contrib/106945782180012705061/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2trdFFUZHJWRGhwZVRkVk0wbDNTMjUyVVdaaVQxRRAB!2m1!1s0x12cb414a622d22b9:0x6a798c612aad6249"
+      },
+      {
+        "note": 4,
+        "texte": "Restaurant plein de charme, avec une ambiance chaleureuse entre chalet en bois et pierre, très agréable et reposante. La qualité de la nourriture est au rendez-vous, les plats sont bons et bien préparés. Les serveurs sont à l’écoute, attentionnés et agréables tout au long du repas.\n\nSeuls petits points négatifs : la mise à table a été assez longue et l’accueil pas très rapide à notre arrivée. Les prix sont aussi un peu élevés, surtout pour les desserts dont la taille reste assez petite.\n\nMalgré cela, cela reste une très bonne adresse que je recommande.",
+        "langue": "fr",
+        "date": "2026-05-08",
+        "auteur": "P’tiit Alex",
+        "auteur_lien": "https://www.google.com/maps/contrib/114871156741878815345/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2tnelZEQnllalZMYmpKdE5UTkRPWFpyWW1zeGNtYxAB!2m1!1s0x12cb414a622d22b9:0x6a798c612aad6249"
+      }
+    ]
+  },
+  "services": {
+    "releve": "2026-10-26",
+    "prix": "PRICE_LEVEL_MODERATE",
+    "options": {
+      "dineIn": true,
+      "takeout": true,
+      "delivery": true,
+      "curbsidePickup": false,
+      "reservable": true,
+      "outdoorSeating": true,
+      "servesBreakfast": true,
+      "servesLunch": true,
+      "servesDinner": true,
+      "servesVegetarianFood": true,
+      "servesCoffee": true,
+      "servesBeer": true,
+      "servesWine": true,
+      "servesCocktails": true,
+      "menuForChildren": true,
+      "goodForChildren": true,
+      "goodForGroups": true,
+      "liveMusic": false,
+      "allowsDogs": true,
+      "restroom": true
+    },
+    "paiement": [
+      "carte bancaire",
+      "carte de débit",
+      "paiement sans contact"
+    ],
+    "parking": [
+      "parking payant"
+    ]
   }
 }

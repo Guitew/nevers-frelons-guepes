@@ -1,0 +1,241 @@
+{
+  "id": "ChIJk9Bots59shIRdGnQolsgRzM",
+  "slug": "parc-de-jeux",
+  "nom": "parc de jeux",
+  "categorie": "loisirs-sport-culture",
+  "categorie_gmb": "Parc de loisirs",
+  "type_principal": "amusement_center",
+  "types": [
+    "amusement_center",
+    "point_of_interest",
+    "establishment"
+  ],
+  "ville": "Olemps",
+  "ville_slug": "olemps",
+  "adresse": {
+    "rue": "",
+    "code_postal": "12510",
+    "departement": "12",
+    "region": "Occitanie",
+    "pays": "France",
+    "complete": "place de l'Hôtel de ville, 12510 Olemps"
+  },
+  "telephone": "05 65 75 51 00",
+  "geo": {
+    "latitude": 44.3392783,
+    "longitude": 2.5532215
+  },
+  "note": 4.7,
+  "avis": 32,
+  "horaires": [
+    {
+      "jour": 0,
+      "ferme": true,
+      "creneaux": []
+    },
+    {
+      "jour": 1,
+      "ferme": true,
+      "creneaux": []
+    },
+    {
+      "jour": 2,
+      "ferme": true,
+      "creneaux": []
+    },
+    {
+      "jour": 3,
+      "ferme": true,
+      "creneaux": []
+    },
+    {
+      "jour": 4,
+      "ferme": true,
+      "creneaux": []
+    },
+    {
+      "jour": 5,
+      "ferme": true,
+      "creneaux": []
+    },
+    {
+      "jour": 6,
+      "ferme": false,
+      "creneaux": [
+        [
+          "00:00",
+          "23:59"
+        ]
+      ]
+    }
+  ],
+  "attributs": [
+    "Entrée accessible en fauteuil roulant",
+    "Parking accessible en fauteuil roulant",
+    "Toilettes accessibles en fauteuil roulant"
+  ],
+  "lien_google": "https://maps.google.com/?cid=3694957597226461556&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
+  "site_web_gmb": null,
+  "statut": "publiee",
+  "backlink": {
+    "etat": "absent",
+    "premiere_detection": null,
+    "derniere_detection": null,
+    "derniere_verification": "2026-10-26T11:01:19.059Z",
+    "echecs": 1,
+    "url_detectee": null
+  },
+  "suggestion": {
+    "etat": "en-attente",
+    "date_soumission": null,
+    "tentatives": 0,
+    "date_email": "2026-10-26"
+  },
+  "retrait": null,
+  "dates": {
+    "collecte": "2026-10-26",
+    "publication": "2026-10-26",
+    "maj": "2026-10-26"
+  },
+  "source": "google-places",
+  "avis_detail": {
+    "releve": "2026-10-26",
+    "liste": [
+      {
+        "note": 5,
+        "texte": "Très beau parc très original. Des jeux en bois pour petits comme plus grands. Des jeux originaux de transvasement de sable avec des seaux reliés à des poulies. Bravo à la municipalité !",
+        "langue": "fr",
+        "date": "2024-12-28",
+        "auteur": "Sylvain",
+        "auteur_lien": "https://www.google.com/maps/contrib/104269064304580875051/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUNmaHB1aU9REAE!2m1!1s0x12b27dceb668d093:0x3347205ba2d06974"
+      },
+      {
+        "note": 3,
+        "texte": "Vraiment top, plein de jeux pour petits et grands, environnement calme, sécurisé. Plusieurs bancs pour les accompagnants.\nPetit bémol, pas de jeux pour les touts petits, pas de toboggan pour les moins de 1 an et demi.\nBalançoire pour les touts petits.\nJeux de sable.\nGros soucis, pas assez ombragé et toboggans métalliques",
+        "langue": "fr",
+        "date": "2023-05-09",
+        "auteur": "Mael Le Cornec",
+        "auteur_lien": "https://www.google.com/maps/contrib/117102477275100340614/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUN4aUlyRnd3RRAB!2m1!1s0x12b27dceb668d093:0x3347205ba2d06974"
+      },
+      {
+        "note": 5,
+        "texte": "Parc original, varié et très complet. Bravo à la commune pour cette qualité.\nNotre fils de 5 ans y a été 1 fois, et y était indétrônable.\nNous passons de temps en temps dans le coin et ferons désormais en sorte pour nous y arrêter plus longuement et découvrir le coin dans le même temps.",
+        "langue": "fr",
+        "date": "2022-08-20",
+        "auteur": "Vincent Godement",
+        "auteur_lien": "https://www.google.com/maps/contrib/114513160883659459521/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUR1bHV1eS13RRAB!2m1!1s0x12b27dceb668d093:0x3347205ba2d06974"
+      },
+      {
+        "note": 5,
+        "texte": "Super parc seul bémol le parc étant là depuis très peu de temps,il n y a pas encore de grands arbres donc pas trop d ombre",
+        "langue": "fr",
+        "date": "2019-06-08",
+        "auteur": "Stephanie Bridoux Routhe",
+        "auteur_lien": "https://www.google.com/maps/contrib/106365412647195216873/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUM0c2Jxdkt3EAE!2m1!1s0x12b27dceb668d093:0x3347205ba2d06974"
+      },
+      {
+        "note": 4,
+        "texte": "Parfait pour nos enfants mais manque d'ombre et de bancs quand il y a du monde mais cadre agréable",
+        "langue": "fr",
+        "date": "2019-05-30",
+        "auteur": "delphine gruppo",
+        "auteur_lien": "https://www.google.com/maps/contrib/106755814576553311517/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUM0NE96SHlnRRAB!2m1!1s0x12b27dceb668d093:0x3347205ba2d06974"
+      }
+    ]
+  },
+  "services": {
+    "releve": "2026-10-26",
+    "options": {
+      "goodForChildren": true,
+      "restroom": true
+    },
+    "paiement": [],
+    "parking": []
+  },
+  "redaction": {
+    "version": 2,
+    "titre": "parc de jeux — Loisirs, sport et culture à Olemps",
+    "meta_titre": "parc de jeux à Olemps : horaires, avis, téléphone",
+    "meta_description": "parc de jeux, loisirs, sport et culture à Olemps : horaires d'ouverture, note Google 4,7/5 (32 avis), téléphone, adresse et itinéraire.",
+    "chapo": "parc de jeux est un loisirs, sport et culture à Olemps. Ouvert le dimanche au relevé du 26 octobre 2026. Téléphone : 05 65 75 51 00. Note Google : 4,7 sur 5 pour 32 avis.",
+    "sections": [
+      {
+        "id": "presentation",
+        "titre": "parc de jeux en quelques mots",
+        "paragraphes": [
+          "Sur Google, l'établissement est classé « Parc de loisirs », dans notre rubrique Loisirs, sport et culture.",
+          "D'après le relevé du 26 octobre 2026, l'établissement est ouvert le dimanche. Le détail jour par jour figure plus bas."
+        ]
+      },
+      {
+        "id": "prestations",
+        "titre": "Services et équipements de parc de jeux",
+        "paragraphes": [
+          "Proposé : adapté aux enfants et toilettes.",
+          "Ces indications sont déclarées par l'établissement sur sa fiche Google (relevé du 26 octobre 2026)."
+        ]
+      },
+      {
+        "id": "acces",
+        "titre": "Adresse et accès",
+        "paragraphes": [
+          "L'établissement est situé, 12510 Olemps.",
+          "Coordonnées GPS : 44.33928, 2.55322. Le bouton Itinéraire de cette page ouvre la navigation."
+        ]
+      },
+      {
+        "id": "contact",
+        "titre": "Contacter parc de jeux",
+        "paragraphes": [
+          "Le contact se fait par téléphone au 05 65 75 51 00, ou directement sur place aux horaires d'ouverture."
+        ]
+      },
+      {
+        "id": "avis",
+        "titre": "La réputation de parc de jeux",
+        "paragraphes": [
+          "Note de 4,7 sur 5 pour 32 avis Google au relevé du 26 octobre 2026. Les avis les plus parlants sont compilés ci-dessous, avec un lien vers la fiche d'origine."
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "q": "Quels sont les horaires de parc de jeux ?",
+        "r": "Au relevé du 26 octobre 2026, parc de jeux était ouvert le dimanche. Dans le détail — lundi : fermé ; mardi : fermé ; mercredi : fermé ; jeudi : fermé ; vendredi : fermé ; samedi : fermé ; dimanche : de 0 h à 23 h 59. Ces horaires peuvent changer : un appel préalable reste conseillé."
+      },
+      {
+        "q": "parc de jeux est-il ouvert le dimanche ?",
+        "r": "Oui : le dimanche, parc de jeux est ouvert de 0 h à 23 h 59 (horaires relevés le 26 octobre 2026)."
+      },
+      {
+        "q": "Où se trouve parc de jeux ?",
+        "r": "parc de jeux se trouve place de l'Hôtel de ville, 12510 Olemps. Un lien d'itinéraire est disponible sur cette page."
+      },
+      {
+        "q": "Comment contacter parc de jeux ?",
+        "r": "Par téléphone au 05 65 75 51 00, ou directement sur place aux heures d'ouverture."
+      },
+      {
+        "q": "parc de jeux est-il accessible aux personnes à mobilité réduite ?",
+        "r": "La fiche Google de l'établissement mentionne : « Entrée accessible en fauteuil roulant ». Cette information est déclarative ; en cas de doute, vérifiez par téléphone."
+      }
+    ],
+    "genere_le": "2026-10-26"
+  },
+  "statut_google": "OPERATIONAL",
+  "audience": {
+    "clics": 0,
+    "impressions": 0,
+    "position": null,
+    "fenetreJours": 90,
+    "clicsRecents": 0,
+    "fenetreRecenteJours": 28,
+    "source": "search-console",
+    "date": "2026-10-26"
+  }
+}

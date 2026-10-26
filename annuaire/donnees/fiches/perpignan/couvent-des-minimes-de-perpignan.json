@@ -113,8 +113,8 @@
     "etat": "absent",
     "premiere_detection": null,
     "derniere_detection": null,
-    "derniere_verification": "2026-10-11T11:22:19.539Z",
-    "echecs": 20,
+    "derniere_verification": "2026-10-26T11:01:19.059Z",
+    "echecs": 21,
     "url_detectee": null
   },
   "suggestion": {
@@ -127,7 +127,7 @@
   "dates": {
     "collecte": "2026-09-27",
     "publication": "2026-09-27",
-    "maj": "2026-10-11"
+    "maj": "2026-10-26"
   },
   "source": "google-places",
   "redaction": {
@@ -135,14 +135,23 @@
     "titre": "Couvent des Minimes de Perpignan — Loisirs, sport et culture à Perpignan",
     "meta_titre": "Couvent des Minimes de Perpignan : horaires, avis",
     "meta_description": "Couvent des Minimes de Perpignan, loisirs, sport et culture à Perpignan : horaires d'ouverture, note Google 4,4/5 (954 avis), adresse et itinéraire.",
-    "chapo": "Couvent des Minimes de Perpignan est un loisirs, sport et culture au 12 Rue Louis Bausil, à Perpignan. Ouvert sept jours sur sept au relevé du 11 octobre 2026. Note Google : 4,4 sur 5 pour 954 avis.",
+    "chapo": "Couvent des Minimes de Perpignan est un loisirs, sport et culture au 12 Rue Louis Bausil, à Perpignan. Ouvert sept jours sur sept au relevé du 26 octobre 2026. Note Google : 4,4 sur 5 pour 954 avis.",
     "sections": [
       {
         "id": "presentation",
         "titre": "Couvent des Minimes de Perpignan en quelques mots",
         "paragraphes": [
+          "Présentation donnée par Google : « Couvent de 1617 composé d'un cloître à double étage en briques et accueillant des expositions. »",
           "Sur Google, l'établissement est classé « Galerie d'art », dans notre rubrique Loisirs, sport et culture.",
-          "D'après le relevé du 11 octobre 2026, l'établissement est ouvert sept jours sur sept. Le détail jour par jour figure plus bas."
+          "D'après le relevé du 26 octobre 2026, l'établissement est ouvert sept jours sur sept. Le détail jour par jour figure plus bas."
+        ]
+      },
+      {
+        "id": "prestations",
+        "titre": "Services et équipements de Couvent des Minimes de Perpignan",
+        "paragraphes": [
+          "Proposé : adapté aux enfants et toilettes.",
+          "Ces indications sont déclarées par l'établissement sur sa fiche Google (relevé du 26 octobre 2026)."
         ]
       },
       {
@@ -164,18 +173,18 @@
         "id": "avis",
         "titre": "La réputation de Couvent des Minimes de Perpignan",
         "paragraphes": [
-          "Note de 4,4 sur 5 pour 954 avis Google au relevé du 11 octobre 2026. Les avis se consultent sur la fiche Google, dont le lien figure sur cette page."
+          "Note de 4,4 sur 5 pour 954 avis Google au relevé du 26 octobre 2026. Les avis les plus parlants sont compilés ci-dessous, avec un lien vers la fiche d'origine."
         ]
       }
     ],
     "faq": [
       {
         "q": "Quels sont les horaires de Couvent des Minimes de Perpignan ?",
-        "r": "Au relevé du 11 octobre 2026, Couvent des Minimes de Perpignan était ouvert sept jours sur sept. Dans le détail — lundi : de 10 h 30 à 18 h ; mardi : de 10 h 30 à 18 h ; mercredi : de 10 h 30 à 18 h ; jeudi : de 10 h 30 à 18 h ; vendredi : de 10 h 30 à 18 h ; samedi : de 10 h 30 à 18 h ; dimanche : de 10 h 30 à 18 h. Ces horaires peuvent changer : un appel préalable reste conseillé."
+        "r": "Au relevé du 26 octobre 2026, Couvent des Minimes de Perpignan était ouvert sept jours sur sept. Dans le détail — lundi : de 10 h 30 à 18 h ; mardi : de 10 h 30 à 18 h ; mercredi : de 10 h 30 à 18 h ; jeudi : de 10 h 30 à 18 h ; vendredi : de 10 h 30 à 18 h ; samedi : de 10 h 30 à 18 h ; dimanche : de 10 h 30 à 18 h. Ces horaires peuvent changer : un appel préalable reste conseillé."
       },
       {
         "q": "Couvent des Minimes de Perpignan est-il ouvert le dimanche ?",
-        "r": "Oui : le dimanche, Couvent des Minimes de Perpignan est ouvert de 10 h 30 à 18 h (horaires relevés le 11 octobre 2026)."
+        "r": "Oui : le dimanche, Couvent des Minimes de Perpignan est ouvert de 10 h 30 à 18 h (horaires relevés le 26 octobre 2026)."
       },
       {
         "q": "Où se trouve Couvent des Minimes de Perpignan ?",
@@ -186,7 +195,7 @@
         "r": "La fiche Google de l'établissement mentionne : « Entrée accessible en fauteuil roulant ». Cette information est déclarative ; en cas de doute, vérifiez par téléphone."
       }
     ],
-    "genere_le": "2026-10-11"
+    "genere_le": "2026-10-26"
   },
   "statut_google": "OPERATIONAL",
   "audience": {
@@ -197,6 +206,67 @@
     "clicsRecents": 0,
     "fenetreRecenteJours": 28,
     "source": "search-console",
-    "date": "2026-10-25"
+    "date": "2026-10-26"
+  },
+  "avis_detail": {
+    "releve": "2026-10-26",
+    "liste": [
+      {
+        "note": 5,
+        "texte": "Très belle endroit qui raconte une partie de l'histoire de réponse, superbe architecture qui perdure dans le temps même si certaines parties ont été rénovées. À visiter lors de votre passage sur Perpignan",
+        "langue": "fr",
+        "date": "2026-09-27",
+        "auteur": "Gregory Bedague",
+        "auteur_lien": "https://www.google.com/maps/contrib/103023553976431919053/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2kxWFZHUnVlbE0xTFVOWk5tNDRPR2RwVEdkRFkyYxAB!2m1!1s0x12b06fb270323ff7:0x20188cd16deb8189"
+      },
+      {
+        "note": 5,
+        "texte": "Beau bâtiment dédié à la culture .\nVisité dans le cadre de visa pour l image 2026",
+        "langue": "fr",
+        "date": "2026-09-05",
+        "auteur": "Marianne Dayan",
+        "auteur_lien": "https://www.google.com/maps/contrib/112603507052289693629/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25JelIxTjBPVGR1U0dKNmNFTlBOMEkxVDNOaGQwRRAB!2m1!1s0x12b06fb270323ff7:0x20188cd16deb8189"
+      },
+      {
+        "note": 5,
+        "texte": "Visa pour l'image. Photojournalisme.\nL'essentiel de l'exposition se trouve au Couvent des Minimes.",
+        "langue": "fr",
+        "date": "2026-09-01",
+        "auteur": "Aurore Gambazza",
+        "auteur_lien": "https://www.google.com/maps/contrib/113166088867018518117/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2pOVVJVbFJWelpKVGpOSVh6VlFVRXd4YzJOV1dIYxAB!2m1!1s0x12b06fb270323ff7:0x20188cd16deb8189"
+      },
+      {
+        "note": 5,
+        "texte": "Vu lors de la visite de \"Visa pour l'image\".\nCe lieu est un peu défraîchi, mais pour la présentation de photographie de reportage de guerre et de photo de journalistes du monde , il convient bien. Trés grandes salles ou petites alcoves , les photos sont mises en valeurs sur les murs bruts. Un bar dans la cours centrale est le bienvenu car il faisait très chaud le jour de notre passage. Impossible de se garer dans la rue, il faut garer la voiture près du jardin public et monter par l'escalier des remparts.",
+        "langue": "fr",
+        "date": "2025-09-12",
+        "auteur": "Jean-François Capdet",
+        "auteur_lien": "https://www.google.com/maps/contrib/102711483457586688795/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2tkMFRXNXljVTFhVjFORE1GUjJkMEZZYnpaRWNVRRAB!2m1!1s0x12b06fb270323ff7:0x20188cd16deb8189"
+      },
+      {
+        "note": 4,
+        "texte": "Le lieu est parfait pour accueillir le festival Visa pour l'image. On peut facilement s'y rendre à pieds depuis le centre ville. Par contre ce n'est pas évident de se garer aux alentours.",
+        "langue": "fr",
+        "date": "2022-04-13",
+        "auteur": "AL CZ",
+        "auteur_lien": "https://www.google.com/maps/contrib/101044362382624170105/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUMydE1LOUJ3EAE!2m1!1s0x12b06fb270323ff7:0x20188cd16deb8189"
+      }
+    ]
+  },
+  "services": {
+    "releve": "2026-10-26",
+    "resume": "Couvent de 1617 composé d'un cloître à double étage en briques et accueillant des expositions.",
+    "resume_langue": "fr",
+    "options": {
+      "goodForChildren": true,
+      "restroom": true
+    },
+    "paiement": [],
+    "parking": []
   }
 }

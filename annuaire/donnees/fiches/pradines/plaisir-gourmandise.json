@@ -1,0 +1,306 @@
+{
+  "id": "ChIJuVA-_66PrBIR-6Bn7OewCXI",
+  "slug": "plaisir-gourmandise",
+  "nom": "Plaisir&Gourmandise",
+  "categorie": "boulangeries-patisseries",
+  "categorie_gmb": "Boulangerie",
+  "type_principal": "bakery",
+  "types": [
+    "bakery",
+    "food_store",
+    "store",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "ville": "Pradines",
+  "ville_slug": "pradines",
+  "adresse": {
+    "rue": "Route du Gymnase",
+    "code_postal": "46090",
+    "departement": "46",
+    "region": "Occitanie",
+    "pays": "France",
+    "complete": "Rte du Gymnase, 46090 Pradines"
+  },
+  "telephone": "05 65 36 49 60",
+  "geo": {
+    "latitude": 44.4676426,
+    "longitude": 1.4123678
+  },
+  "note": 4.6,
+  "avis": 162,
+  "horaires": [
+    {
+      "jour": 0,
+      "ferme": true,
+      "creneaux": []
+    },
+    {
+      "jour": 1,
+      "ferme": false,
+      "creneaux": [
+        [
+          "07:30",
+          "13:00"
+        ],
+        [
+          "15:30",
+          "19:30"
+        ]
+      ]
+    },
+    {
+      "jour": 2,
+      "ferme": false,
+      "creneaux": [
+        [
+          "07:30",
+          "13:00"
+        ],
+        [
+          "15:30",
+          "19:30"
+        ]
+      ]
+    },
+    {
+      "jour": 3,
+      "ferme": false,
+      "creneaux": [
+        [
+          "07:30",
+          "13:00"
+        ],
+        [
+          "15:30",
+          "19:30"
+        ]
+      ]
+    },
+    {
+      "jour": 4,
+      "ferme": false,
+      "creneaux": [
+        [
+          "07:30",
+          "13:00"
+        ],
+        [
+          "15:30",
+          "19:30"
+        ]
+      ]
+    },
+    {
+      "jour": 5,
+      "ferme": false,
+      "creneaux": [
+        [
+          "07:30",
+          "13:00"
+        ],
+        [
+          "15:30",
+          "19:30"
+        ]
+      ]
+    },
+    {
+      "jour": 6,
+      "ferme": false,
+      "creneaux": [
+        [
+          "07:30",
+          "13:00"
+        ]
+      ]
+    }
+  ],
+  "attributs": [
+    "Entrée accessible en fauteuil roulant",
+    "Parking accessible en fauteuil roulant"
+  ],
+  "lien_google": "https://maps.google.com/?cid=8217293505264328955&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
+  "site_web_gmb": null,
+  "statut": "publiee",
+  "backlink": {
+    "etat": "absent",
+    "premiere_detection": null,
+    "derniere_detection": null,
+    "derniere_verification": "2026-10-26T11:01:19.059Z",
+    "echecs": 1,
+    "url_detectee": null
+  },
+  "suggestion": {
+    "etat": "en-attente",
+    "date_soumission": null,
+    "tentatives": 0,
+    "date_email": "2026-10-26"
+  },
+  "retrait": null,
+  "dates": {
+    "collecte": "2026-10-26",
+    "publication": "2026-10-26",
+    "maj": "2026-10-26"
+  },
+  "source": "google-places",
+  "avis_detail": {
+    "releve": "2026-10-26",
+    "liste": [
+      {
+        "note": 5,
+        "texte": "Super boulangerie servie par la nouvelle vendeuse Sandrine très serviable commerçante rien à dire je recommande à 100 pour-cent",
+        "langue": "fr",
+        "date": "2026-04-30",
+        "auteur": "Elodie Rauzieres",
+        "auteur_lien": "https://www.google.com/maps/contrib/110345494549084993665/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT21kWWNVTkpla2RYWmtjMFNtUkZUbVV0ZDFKRlFsRRAB!2m1!1s0x12ac8faeff3e50b9:0x7209b0e7ec67a0fb"
+      },
+      {
+        "note": 1,
+        "texte": "Les clients qui se font tutoyer et d'un certain âge ont le droit de passer devant les autres clients, sans demander, sans explication, sans excuses. Drôles de manières. Je n'y retournerai plus",
+        "langue": "fr",
+        "date": "2026-03-26",
+        "auteur": "J B",
+        "auteur_lien": "https://www.google.com/maps/contrib/108220956088918342797/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25aWk9WcHlXalV3T1dzek0xOWlTV05WUkZRNGNrRRAB!2m1!1s0x12ac8faeff3e50b9:0x7209b0e7ec67a0fb"
+      },
+      {
+        "note": 5,
+        "texte": "Très bonne boulangerie avec du pain et des pâtisseries excellente!\nToujours un accueil souriant et agréable!\nUn plaisir d’y aller plusieurs fois par semaine",
+        "langue": "fr",
+        "date": "2026-02-28",
+        "auteur": "Elisa Gibrat",
+        "auteur_lien": "https://www.google.com/maps/contrib/117827777433698744336/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25CRGNWUlROamd3VnpWd2RHaFFkMnB1VFdGbmFHYxAB!2m1!1s0x12ac8faeff3e50b9:0x7209b0e7ec67a0fb"
+      },
+      {
+        "note": 5,
+        "texte": "Accueil très sympathique avec des viennoiseries qui font envie et délicieuses en bouche. Le pain est bien lève et croustillant, le gros pain (la \"paillasse\") est délicieux avec du fromage ou de la charcuterie.\nEn apéro il y a aussi les ficelles aux lardons ou au bleu et aux noix qui sont parfaites.\nMalheureusement pas pu tester les pâtisseries, ce sera pour la prochaine fois.",
+        "langue": "fr",
+        "date": "2022-08-12",
+        "auteur": "Marc",
+        "auteur_lien": "https://www.google.com/maps/contrib/115854007096398611765/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUR1eUptNFdBEAE!2m1!1s0x12ac8faeff3e50b9:0x7209b0e7ec67a0fb"
+      },
+      {
+        "note": 5,
+        "texte": "Super accueil un vendredi pour commander trois gâteaux pour le lendemain. Foncez car plaisirs et gourmandises sont effectivement au rendez-vous !! Une grosse mention + pour la paillasse, un régal !!\nAnniversaire réussi merci 👍",
+        "langue": "fr",
+        "date": "2020-05-26",
+        "auteur": "Nathalie Mallet",
+        "auteur_lien": "https://www.google.com/maps/contrib/112452708813959827164/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSURjdE9USmVREAE!2m1!1s0x12ac8faeff3e50b9:0x7209b0e7ec67a0fb"
+      }
+    ]
+  },
+  "services": {
+    "releve": "2026-10-26",
+    "prix": "PRICE_LEVEL_INEXPENSIVE",
+    "options": {
+      "delivery": false,
+      "restroom": false
+    },
+    "paiement": [
+      "carte bancaire",
+      "carte de débit",
+      "paiement sans contact"
+    ],
+    "parking": [
+      "parking gratuit"
+    ]
+  },
+  "redaction": {
+    "version": 2,
+    "titre": "Plaisir&Gourmandise — Boulangerie-pâtisserie à Pradines",
+    "meta_titre": "Plaisir&Gourmandise à Pradines : horaires, avis, téléphone",
+    "meta_description": "Plaisir&Gourmandise, boulangerie-pâtisserie à Pradines : horaires d'ouverture, note Google 4,6/5 (162 avis), téléphone, adresse et itinéraire.",
+    "chapo": "Plaisir&Gourmandise, boulangerie-pâtisserie au Route du Gymnase, à Pradines. Ouvert tous les jours sauf le lundi au relevé du 26 octobre 2026. Téléphone : 05 65 36 49 60. Note Google : 4,6 sur 5 pour 162 avis.",
+    "sections": [
+      {
+        "id": "presentation",
+        "titre": "Plaisir&Gourmandise en quelques mots",
+        "paragraphes": [
+          "Sur Google, l'établissement est classé « Boulangerie », dans notre rubrique Boulangerie-pâtisserie.",
+          "Niveau de prix indiqué sur la fiche Google : € (bon marché).",
+          "D'après le relevé du 26 octobre 2026, l'établissement est ouvert tous les jours sauf le lundi. Le détail jour par jour figure plus bas."
+        ]
+      },
+      {
+        "id": "prestations",
+        "titre": "Services et équipements de Plaisir&Gourmandise",
+        "paragraphes": [
+          "Non proposé selon la fiche Google : livraison et toilettes.",
+          "Moyens de paiement déclarés : carte bancaire, carte de débit et paiement sans contact.",
+          "Stationnement : parking gratuit.",
+          "Ces indications sont déclarées par l'établissement sur sa fiche Google (relevé du 26 octobre 2026)."
+        ]
+      },
+      {
+        "id": "acces",
+        "titre": "Adresse et accès",
+        "paragraphes": [
+          "L'établissement est situé au Route du Gymnase, 46090 Pradines.",
+          "Coordonnées GPS : 44.46764, 1.41237. Le bouton Itinéraire de cette page ouvre la navigation."
+        ]
+      },
+      {
+        "id": "contact",
+        "titre": "Contacter Plaisir&Gourmandise",
+        "paragraphes": [
+          "Le contact se fait par téléphone au 05 65 36 49 60, ou directement sur place aux horaires d'ouverture."
+        ]
+      },
+      {
+        "id": "avis",
+        "titre": "La réputation de Plaisir&Gourmandise",
+        "paragraphes": [
+          "Note de 4,6 sur 5 pour 162 avis Google au relevé du 26 octobre 2026. Les avis les plus parlants sont compilés ci-dessous, avec un lien vers la fiche d'origine."
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "q": "Quels sont les horaires de Plaisir&Gourmandise ?",
+        "r": "Au relevé du 26 octobre 2026, Plaisir&Gourmandise était ouvert tous les jours sauf le lundi. Dans le détail — lundi : fermé ; mardi : de 7 h 30 à 13 h et de 15 h 30 à 19 h 30 ; mercredi : de 7 h 30 à 13 h et de 15 h 30 à 19 h 30 ; jeudi : de 7 h 30 à 13 h et de 15 h 30 à 19 h 30 ; vendredi : de 7 h 30 à 13 h et de 15 h 30 à 19 h 30 ; samedi : de 7 h 30 à 13 h et de 15 h 30 à 19 h 30 ; dimanche : de 7 h 30 à 13 h. Ces horaires peuvent changer : un appel préalable reste conseillé."
+      },
+      {
+        "q": "Plaisir&Gourmandise est-il ouvert le dimanche ?",
+        "r": "Oui : le dimanche, Plaisir&Gourmandise est ouvert de 7 h 30 à 13 h (horaires relevés le 26 octobre 2026)."
+      },
+      {
+        "q": "Où se trouve Plaisir&Gourmandise ?",
+        "r": "Plaisir&Gourmandise se trouve Rte du Gymnase, 46090 Pradines. Un lien d'itinéraire est disponible sur cette page."
+      },
+      {
+        "q": "Comment contacter Plaisir&Gourmandise ?",
+        "r": "Par téléphone au 05 65 36 49 60, ou directement sur place aux heures d'ouverture."
+      },
+      {
+        "q": "Plaisir&Gourmandise propose-t-il la vente à emporter ou la livraison ?",
+        "r": "D'après sa fiche Google (relevé du 26 octobre 2026) — livraison : non."
+      },
+      {
+        "q": "Quel est le niveau de prix de Plaisir&Gourmandise ?",
+        "r": "Google classe Plaisir&Gourmandise au niveau de prix € (bon marché), sur une échelle de € à €€€€ établie à partir des avis clients."
+      },
+      {
+        "q": "Plaisir&Gourmandise est-il accessible aux personnes à mobilité réduite ?",
+        "r": "La fiche Google de l'établissement mentionne : « Entrée accessible en fauteuil roulant ». Cette information est déclarative ; en cas de doute, vérifiez par téléphone."
+      }
+    ],
+    "genere_le": "2026-10-26"
+  },
+  "statut_google": "OPERATIONAL",
+  "audience": {
+    "clics": 0,
+    "impressions": 0,
+    "position": null,
+    "fenetreJours": 90,
+    "clicsRecents": 0,
+    "fenetreRecenteJours": 28,
+    "source": "search-console",
+    "date": "2026-10-26"
+  }
+}

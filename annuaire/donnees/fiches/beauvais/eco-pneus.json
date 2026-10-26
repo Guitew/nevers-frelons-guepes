@@ -30,7 +30,7 @@
     "longitude": 2.0549413999999997
   },
   "note": 4.2,
-  "avis": 360,
+  "avis": 361,
   "horaires": [
     {
       "jour": 0,
@@ -104,8 +104,8 @@
     "etat": "absent",
     "premiere_detection": null,
     "derniere_detection": null,
-    "derniere_verification": "2026-10-11T11:22:19.539Z",
-    "echecs": 6,
+    "derniere_verification": "2026-10-26T11:01:19.059Z",
+    "echecs": 7,
     "url_detectee": null
   },
   "suggestion": {
@@ -118,22 +118,31 @@
   "dates": {
     "collecte": "2026-10-05",
     "publication": "2026-10-05",
-    "maj": "2026-10-11"
+    "maj": "2026-10-26"
   },
   "source": "google-places",
   "redaction": {
     "version": 2,
     "titre": "Eco pneus — Garage et automobile à Beauvais",
     "meta_titre": "Eco pneus à Beauvais : horaires, avis, téléphone",
-    "meta_description": "Eco pneus, garage et automobile à Beauvais : horaires d'ouverture, note Google 4,2/5 (360 avis), téléphone, adresse et itinéraire.",
-    "chapo": "Eco pneus, garage et automobile au 7 Rue de l'Avelon, à Beauvais. Fermé le samedi et le dimanche au relevé du 11 octobre 2026. Téléphone : 03 44 02 43 44. Note Google : 4,2 sur 5 pour 360 avis.",
+    "meta_description": "Eco pneus, garage et automobile à Beauvais : horaires d'ouverture, note Google 4,2/5 (361 avis), téléphone, adresse et itinéraire.",
+    "chapo": "Eco pneus, garage et automobile au 7 Rue de l'Avelon, à Beauvais. Fermé le samedi et le dimanche au relevé du 26 octobre 2026. Téléphone : 03 44 02 43 44. Note Google : 4,2 sur 5 pour 361 avis.",
     "sections": [
       {
         "id": "presentation",
         "titre": "Eco pneus en quelques mots",
         "paragraphes": [
           "Sur Google, l'établissement est classé « Magasin de pneus », dans notre rubrique Garage et automobile.",
-          "D'après le relevé du 11 octobre 2026, l'établissement est fermé le samedi et le dimanche. Le détail jour par jour figure plus bas."
+          "D'après le relevé du 26 octobre 2026, l'établissement est fermé le samedi et le dimanche. Le détail jour par jour figure plus bas."
+        ]
+      },
+      {
+        "id": "prestations",
+        "titre": "Services et équipements de Eco pneus",
+        "paragraphes": [
+          "Non proposé selon la fiche Google : livraison et toilettes.",
+          "Moyens de paiement déclarés : carte bancaire, carte de débit et paiement sans contact.",
+          "Ces indications sont déclarées par l'établissement sur sa fiche Google (relevé du 26 octobre 2026)."
         ]
       },
       {
@@ -155,18 +164,18 @@
         "id": "avis",
         "titre": "La réputation de Eco pneus",
         "paragraphes": [
-          "Note de 4,2 sur 5 pour 360 avis Google au relevé du 11 octobre 2026. Les avis se consultent sur la fiche Google, dont le lien figure sur cette page."
+          "Note de 4,2 sur 5 pour 361 avis Google au relevé du 26 octobre 2026. Les avis les plus parlants sont compilés ci-dessous, avec un lien vers la fiche d'origine."
         ]
       }
     ],
     "faq": [
       {
         "q": "Quels sont les horaires de Eco pneus ?",
-        "r": "Au relevé du 11 octobre 2026, Eco pneus était fermé le samedi et le dimanche. Dans le détail — lundi : de 8 h 30 à 17 h 45 ; mardi : de 8 h 30 à 17 h 45 ; mercredi : de 8 h 30 à 17 h 45 ; jeudi : de 8 h 30 à 17 h 45 ; vendredi : de 8 h 30 à 17 h 45 ; samedi : fermé ; dimanche : fermé. Ces horaires peuvent changer : un appel préalable reste conseillé."
+        "r": "Au relevé du 26 octobre 2026, Eco pneus était fermé le samedi et le dimanche. Dans le détail — lundi : de 8 h 30 à 17 h 45 ; mardi : de 8 h 30 à 17 h 45 ; mercredi : de 8 h 30 à 17 h 45 ; jeudi : de 8 h 30 à 17 h 45 ; vendredi : de 8 h 30 à 17 h 45 ; samedi : fermé ; dimanche : fermé. Ces horaires peuvent changer : un appel préalable reste conseillé."
       },
       {
         "q": "Eco pneus est-il ouvert le dimanche ?",
-        "r": "Non : d'après les horaires relevés le 11 octobre 2026, Eco pneus est fermé le dimanche."
+        "r": "Non : d'après les horaires relevés le 26 octobre 2026, Eco pneus est fermé le dimanche."
       },
       {
         "q": "Où se trouve Eco pneus ?",
@@ -177,11 +186,15 @@
         "r": "Par téléphone au 03 44 02 43 44, ou directement sur place aux heures d'ouverture."
       },
       {
+        "q": "Eco pneus propose-t-il la vente à emporter ou la livraison ?",
+        "r": "D'après sa fiche Google (relevé du 26 octobre 2026) — livraison : non."
+      },
+      {
         "q": "Eco pneus est-il accessible aux personnes à mobilité réduite ?",
         "r": "La fiche Google de l'établissement mentionne : « Entrée accessible en fauteuil roulant ». Cette information est déclarative ; en cas de doute, vérifiez par téléphone."
       }
     ],
-    "genere_le": "2026-10-11"
+    "genere_le": "2026-10-26"
   },
   "statut_google": "OPERATIONAL",
   "audience": {
@@ -192,6 +205,69 @@
     "clicsRecents": 0,
     "fenetreRecenteJours": 28,
     "source": "search-console",
-    "date": "2026-10-25"
+    "date": "2026-10-26"
+  },
+  "avis_detail": {
+    "releve": "2026-10-26",
+    "liste": [
+      {
+        "note": 4,
+        "texte": "Tres bien\nMais un peu plus souriant et accueillant\nCela  serai  mieux",
+        "langue": "fr",
+        "date": "2026-09-24",
+        "auteur": "Josefa",
+        "auteur_lien": "https://www.google.com/maps/contrib/114534493161598937495/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT201YU9VbEhabkZXYkVoT05HdHdaVE5NZHpCMFpsRRAB!2m1!1s0x47e706ab8c91e40d:0x5b35d99474b02183"
+      },
+      {
+        "note": 5,
+        "texte": "Toujours très bien accueilli avec un service impeccable 👌",
+        "langue": "fr",
+        "date": "2026-07-31",
+        "auteur": "Thomas Longa",
+        "auteur_lien": "https://www.google.com/maps/contrib/112084052717051459804/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2paM1UxQmFRV2RyYW5Kbk1IWlpWM1YzVG1OYU4xRRAB!2m1!1s0x47e706ab8c91e40d:0x5b35d99474b02183"
+      },
+      {
+        "note": 1,
+        "texte": "À fuir !\n\nJe me suis rendue dans ce garage pour remplacer un pneu suite à un choc contre un trottoir. On m’a finalement remplacé les deux pneus arrière, vendus comme des pneus d’occasion avec moins de 15 % d’usure, pour un montant de 128 €.\n\nEn rentrant chez moi, je me suis aperçue que l’un des deux pneus présentait une importante entaille sur le flanc (photo à l’appui). C’est justement pour ce type de défaut que j’avais fait remplacer mon pneu !\n\nJ’ai immédiatement contacté le garage. Mon mari s’est déplacé pour leur montrer le problème, mais ils n’ont rien voulu savoir. Selon eux, cette entaille serait une “usure normale”. Comment peut-on considérer qu’un pneu vendu avec moins de 15 % d’usure présente une telle entaille sur le flanc ? C’est totalement inadmissible.\n\nLeur manque de professionnalisme et leur refus d’assumer leurs responsabilités sont choquants. La sécurité de leurs clients ne semble manifestement pas être leur priorité.\n\nJe me retrouve avec un pneu endommagé, 128 € de moins et aucune solution proposée. Je ne recommande absolument pas cet établissement.",
+        "langue": "fr",
+        "date": "2026-07-01",
+        "auteur": "sandrine coupy",
+        "auteur_lien": "https://www.google.com/maps/contrib/118391297696111005904/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2pWc2RUUlRVSHBsY25RMVNuY3hkRkk0Y2tGTGVtYxAB!2m1!1s0x47e706ab8c91e40d:0x5b35d99474b02183"
+      },
+      {
+        "note": 5,
+        "texte": "Parfait rien à dire, je suis venu ce matin vers 10h, pour me renseigner sur les prix ... après un accueil parfait, j'ai décidé de changer de pneus avant dans la foulée... 20 minutes après je repartais tout est nickel.... personnel au top rien à ajouter !",
+        "langue": "fr",
+        "date": "2026-04-29",
+        "auteur": "Bruno Catrisse",
+        "auteur_lien": "https://www.google.com/maps/contrib/115094248817305455241/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2tsbWNteHVhMFJrTlhwM1J6aGhRVUZZVkVFMVNrRRAB!2m1!1s0x47e706ab8c91e40d:0x5b35d99474b02183"
+      },
+      {
+        "note": 5,
+        "texte": "Je suis étonné des mauvais avis récents sur eco pneus. Je suis client depuis plusieurs années et je suis toujours bien reçu. J’appelle juste en avance pour savoir s’ils ont la taille de mes pneus.  Ensuite je passe sans rendez vous et en générale en 15-20 minutes c’est fait.\nTarif imbattable et les pneus sont en super état !",
+        "langue": "fr",
+        "date": "2026-01-05",
+        "auteur": "Bertrand P.",
+        "auteur_lien": "https://www.google.com/maps/contrib/108345891641709940037/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2t4RGFYZHdkRU5yV2tGcGJHZGpMVWxsY2tkaFJWRRAB!2m1!1s0x47e706ab8c91e40d:0x5b35d99474b02183"
+      }
+    ]
+  },
+  "services": {
+    "releve": "2026-10-26",
+    "options": {
+      "delivery": false,
+      "restroom": false
+    },
+    "paiement": [
+      "carte bancaire",
+      "carte de débit",
+      "paiement sans contact"
+    ],
+    "parking": []
   }
 }

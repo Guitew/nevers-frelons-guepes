@@ -27,7 +27,7 @@
     "longitude": -0.5718394
   },
   "note": 4.8,
-  "avis": 312,
+  "avis": 315,
   "horaires": [
     {
       "jour": 0,
@@ -100,8 +100,8 @@
     "etat": "absent",
     "premiere_detection": null,
     "derniere_detection": null,
-    "derniere_verification": "2026-10-10T11:08:55.541Z",
-    "echecs": 1,
+    "derniere_verification": "2026-10-26T11:01:19.059Z",
+    "echecs": 2,
     "url_detectee": null
   },
   "suggestion": {
@@ -114,21 +114,33 @@
   "dates": {
     "collecte": "2026-10-10",
     "publication": "2026-10-10",
-    "maj": "2026-10-11"
+    "maj": "2026-10-26"
   },
   "source": "google-places",
   "redaction": {
     "version": 2,
     "titre": "Restaurant Le Rétro — Restaurant à Angers",
     "meta_titre": "Restaurant Le Rétro à Angers : horaires, avis, téléphone",
-    "meta_description": "Restaurant Le Rétro, restaurant à Angers : horaires d'ouverture, note Google 4,8/5 (312 avis), téléphone, adresse et itinéraire.",
-    "chapo": "Restaurant Le Rétro exerce l'activité de restaurant au 114 Rue du Maréchal Juin, à Angers. Fermé le samedi et le dimanche au relevé du 11 octobre 2026. Téléphone : 02 44 01 14 10. Note Google : 4,8 sur 5 pour 312 avis.",
+    "meta_description": "Restaurant Le Rétro, restaurant à Angers : horaires d'ouverture, note Google 4,8/5 (315 avis), téléphone, adresse et itinéraire.",
+    "chapo": "Restaurant Le Rétro exerce l'activité de restaurant au 114 Rue du Maréchal Juin, à Angers. Fermé le samedi et le dimanche au relevé du 26 octobre 2026. Téléphone : 02 44 01 14 10. Note Google : 4,8 sur 5 pour 315 avis.",
     "sections": [
       {
         "id": "presentation",
         "titre": "Restaurant Le Rétro en quelques mots",
         "paragraphes": [
-          "D'après le relevé du 11 octobre 2026, l'établissement est fermé le samedi et le dimanche. Le détail jour par jour figure plus bas."
+          "Niveau de prix indiqué sur la fiche Google : €€ (modéré).",
+          "D'après le relevé du 26 octobre 2026, l'établissement est fermé le samedi et le dimanche. Le détail jour par jour figure plus bas."
+        ]
+      },
+      {
+        "id": "prestations",
+        "titre": "Services et équipements de Restaurant Le Rétro",
+        "paragraphes": [
+          "Proposé : sur place, terrasse, petit-déjeuner, déjeuner, café, menu enfant et chiens acceptés.",
+          "Non proposé selon la fiche Google : à emporter, livraison, retrait en voiture et bière.",
+          "Moyens de paiement déclarés : carte de débit et paiement sans contact.",
+          "Stationnement : parking gratuit.",
+          "Ces indications sont déclarées par l'établissement sur sa fiche Google (relevé du 26 octobre 2026)."
         ]
       },
       {
@@ -150,18 +162,18 @@
         "id": "avis",
         "titre": "La réputation de Restaurant Le Rétro",
         "paragraphes": [
-          "Note de 4,8 sur 5 pour 312 avis Google au relevé du 11 octobre 2026. Les avis se consultent sur la fiche Google, dont le lien figure sur cette page."
+          "Note de 4,8 sur 5 pour 315 avis Google au relevé du 26 octobre 2026. Les avis les plus parlants sont compilés ci-dessous, avec un lien vers la fiche d'origine."
         ]
       }
     ],
     "faq": [
       {
         "q": "Quels sont les horaires de Restaurant Le Rétro ?",
-        "r": "Au relevé du 11 octobre 2026, Restaurant Le Rétro était fermé le samedi et le dimanche. Dans le détail — lundi : de 9 h à 15 h ; mardi : de 9 h à 15 h ; mercredi : de 9 h à 15 h ; jeudi : de 9 h à 15 h ; vendredi : de 9 h à 15 h ; samedi : fermé ; dimanche : fermé. Ces horaires peuvent changer : un appel préalable reste conseillé."
+        "r": "Au relevé du 26 octobre 2026, Restaurant Le Rétro était fermé le samedi et le dimanche. Dans le détail — lundi : de 9 h à 15 h ; mardi : de 9 h à 15 h ; mercredi : de 9 h à 15 h ; jeudi : de 9 h à 15 h ; vendredi : de 9 h à 15 h ; samedi : fermé ; dimanche : fermé. Ces horaires peuvent changer : un appel préalable reste conseillé."
       },
       {
         "q": "Restaurant Le Rétro est-il ouvert le dimanche ?",
-        "r": "Non : d'après les horaires relevés le 11 octobre 2026, Restaurant Le Rétro est fermé le dimanche."
+        "r": "Non : d'après les horaires relevés le 26 octobre 2026, Restaurant Le Rétro est fermé le dimanche."
       },
       {
         "q": "Où se trouve Restaurant Le Rétro ?",
@@ -172,11 +184,19 @@
         "r": "Par téléphone au 02 44 01 14 10, ou directement sur place aux heures d'ouverture."
       },
       {
+        "q": "Restaurant Le Rétro propose-t-il la vente à emporter ou la livraison ?",
+        "r": "D'après sa fiche Google (relevé du 26 octobre 2026) — vente à emporter : non ; livraison : non."
+      },
+      {
+        "q": "Quel est le niveau de prix de Restaurant Le Rétro ?",
+        "r": "Google classe Restaurant Le Rétro au niveau de prix €€ (modéré), sur une échelle de € à €€€€ établie à partir des avis clients."
+      },
+      {
         "q": "Restaurant Le Rétro est-il accessible aux personnes à mobilité réduite ?",
         "r": "La fiche Google de l'établissement mentionne : « Entrée accessible en fauteuil roulant ». Cette information est déclarative ; en cas de doute, vérifiez par téléphone."
       }
     ],
-    "genere_le": "2026-10-11"
+    "genere_le": "2026-10-26"
   },
   "statut_google": "OPERATIONAL",
   "audience": {
@@ -187,6 +207,80 @@
     "clicsRecents": 0,
     "fenetreRecenteJours": 28,
     "source": "search-console",
-    "date": "2026-10-25"
+    "date": "2026-10-26"
+  },
+  "avis_detail": {
+    "releve": "2026-10-26",
+    "liste": [
+      {
+        "note": 5,
+        "texte": "Carte de menu avec que des produits frais !\nTrès chaleureux pour le cadre et le service très apprécié !\nPersonnes très accueillantes et souriantes !\n\nAu passage pour des vacances dans l'ouest, nous nous sommes arrêtés un midi en fin de service, ils nous ont agréablement acceptés !\n\nBrasserie recommandée les yeux fermés ! Si l'occasion se représente nous reviendrons de l'est avec la famille presentes dans l'ouest !\nCe sera l'occasion de visiter Angers ! 🙂😉",
+        "langue": "fr",
+        "date": "2026-08-03",
+        "auteur": "Julien Le fourkié",
+        "auteur_lien": "https://www.google.com/maps/contrib/117861242680729180465/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25KNlJtWXhTRXd0VWtaT1dVRXpkWEpQUm5sTVJGRRAB!2m1!1s0x4807d607428bcddd:0xb9d7aaaa30bc233f"
+      },
+      {
+        "note": 5,
+        "texte": "Un accueil super sympa, on a mangé rapidement et c'était très bon. Il font un maximum de plat fait maison. Je recommande énormément.",
+        "langue": "fr",
+        "date": "2026-07-17",
+        "auteur": "Lisa Plu",
+        "auteur_lien": "https://www.google.com/maps/contrib/106582313659713263123/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT21veVRFeEliRXhIYVVORVQzVkhaazQ0TWpGSldrRRAB!2m1!1s0x4807d607428bcddd:0xb9d7aaaa30bc233f"
+      },
+      {
+        "note": 5,
+        "texte": "Une très belle découverte, nous avons adoré. Nous avons pris le menu buffet, entrée, plat, dessert et café c’était excellent une très bonne cuisine, nous avons adoré. L’accueil est chaleureux et le personnel très sympathique, nous reviendrons",
+        "langue": "fr",
+        "date": "2026-03-05",
+        "auteur": "Jenn Ldc",
+        "auteur_lien": "https://www.google.com/maps/contrib/112975350573798935823/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2kxUVl6SnhabnBYTjFkeFQzRmthRWhIYm5aWVkxRRAB!2m1!1s0x4807d607428bcddd:0xb9d7aaaa30bc233f"
+      },
+      {
+        "note": 5,
+        "texte": "Excellent rapport qualité prix. Nous avons très bien mangé, le service était impeccable et les gérants sont accueillants et sympathiques!\nSi je peux me permettre une petite suggestion, le moelleux à l’abricot était très bon mais j’aurai apprécié une petite bousée de chantilly à côté, tant pour la décoration que pour la gourmandise ! 😁",
+        "langue": "fr",
+        "date": "2025-04-19",
+        "auteur": "Noëline Clr",
+        "auteur_lien": "https://www.google.com/maps/contrib/103654640935701930461/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnTUNvdzhUVUdnEAE!2m1!1s0x4807d607428bcddd:0xb9d7aaaa30bc233f"
+      },
+      {
+        "note": 4,
+        "texte": "Excellent endroit\nCela semble petit vu de l’extérieur mais c’est un effet d’optique\n\nL’intérieur est spacieux moderne lumineux\n\nAccueil agréable avec le sourire, les serveurs et serveuses sont très professionnels et agréables.\n\nLes menus proposés sont très bien proportionnés très bon qualité prix\n\nJ’ai passé un agréable moment\n\nJe le recommande",
+        "langue": "fr",
+        "date": "2024-09-13",
+        "auteur": "Fabien Donadieu",
+        "auteur_lien": "https://www.google.com/maps/contrib/115455835590557347284/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSURIdE1qR3RnRRAB!2m1!1s0x4807d607428bcddd:0xb9d7aaaa30bc233f"
+      }
+    ]
+  },
+  "services": {
+    "releve": "2026-10-26",
+    "prix": "PRICE_LEVEL_MODERATE",
+    "options": {
+      "dineIn": true,
+      "takeout": false,
+      "delivery": false,
+      "curbsidePickup": false,
+      "outdoorSeating": true,
+      "servesBreakfast": true,
+      "servesLunch": true,
+      "servesCoffee": true,
+      "servesBeer": false,
+      "menuForChildren": true,
+      "allowsDogs": true
+    },
+    "paiement": [
+      "carte de débit",
+      "paiement sans contact"
+    ],
+    "parking": [
+      "parking gratuit"
+    ]
   }
 }

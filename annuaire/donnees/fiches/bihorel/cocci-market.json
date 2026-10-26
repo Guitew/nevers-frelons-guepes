@@ -133,8 +133,8 @@
     "etat": "absent",
     "premiere_detection": null,
     "derniere_detection": null,
-    "derniere_verification": "2026-10-11T11:22:19.539Z",
-    "echecs": 4,
+    "derniere_verification": "2026-10-26T11:01:19.059Z",
+    "echecs": 5,
     "url_detectee": null
   },
   "suggestion": {
@@ -147,7 +147,7 @@
   "dates": {
     "collecte": "2026-10-07",
     "publication": "2026-10-07",
-    "maj": "2026-10-11"
+    "maj": "2026-10-26"
   },
   "source": "google-places",
   "redaction": {
@@ -155,14 +155,25 @@
     "titre": "Cocci Market — Commerce d'alimentation à Bihorel",
     "meta_titre": "Cocci Market à Bihorel : horaires, avis, téléphone",
     "meta_description": "Cocci Market, commerce d'alimentation à Bihorel : horaires d'ouverture, note Google 4,4/5 (137 avis), téléphone, adresse et itinéraire.",
-    "chapo": "Cocci Market exerce l'activité de commerce d'alimentation au 28 Rue du Docteur Voranger, à Bihorel. Ouvert sept jours sur sept au relevé du 11 octobre 2026. Téléphone : 07 68 19 02 06. Note Google : 4,4 sur 5 pour 137 avis.",
+    "chapo": "Cocci Market exerce l'activité de commerce d'alimentation au 28 Rue du Docteur Voranger, à Bihorel. Ouvert sept jours sur sept au relevé du 26 octobre 2026. Téléphone : 07 68 19 02 06. Note Google : 4,4 sur 5 pour 137 avis.",
     "sections": [
       {
         "id": "presentation",
         "titre": "Cocci Market en quelques mots",
         "paragraphes": [
           "Sur Google, l'établissement est classé « Épicerie », dans notre rubrique Commerce d'alimentation.",
-          "D'après le relevé du 11 octobre 2026, l'établissement est ouvert sept jours sur sept. Le détail jour par jour figure plus bas."
+          "D'après le relevé du 26 octobre 2026, l'établissement est ouvert sept jours sur sept. Le détail jour par jour figure plus bas."
+        ]
+      },
+      {
+        "id": "prestations",
+        "titre": "Services et équipements de Cocci Market",
+        "paragraphes": [
+          "Proposé : livraison.",
+          "Non proposé selon la fiche Google : toilettes.",
+          "Moyens de paiement déclarés : carte de débit et paiement sans contact.",
+          "Stationnement : stationnement gratuit dans la rue.",
+          "Ces indications sont déclarées par l'établissement sur sa fiche Google (relevé du 26 octobre 2026)."
         ]
       },
       {
@@ -184,18 +195,18 @@
         "id": "avis",
         "titre": "La réputation de Cocci Market",
         "paragraphes": [
-          "Note de 4,4 sur 5 pour 137 avis Google au relevé du 11 octobre 2026. Les avis se consultent sur la fiche Google, dont le lien figure sur cette page."
+          "Note de 4,4 sur 5 pour 137 avis Google au relevé du 26 octobre 2026. Les avis les plus parlants sont compilés ci-dessous, avec un lien vers la fiche d'origine."
         ]
       }
     ],
     "faq": [
       {
         "q": "Quels sont les horaires de Cocci Market ?",
-        "r": "Au relevé du 11 octobre 2026, Cocci Market était ouvert sept jours sur sept. Dans le détail — lundi : de 10 h à 15 h et de 17 h à 0 h ; mardi : de 10 h à 15 h et de 17 h à 0 h ; mercredi : de 10 h à 15 h et de 17 h à 0 h ; jeudi : de 10 h à 15 h et de 17 h à 2 h ; vendredi : de 10 h à 15 h et de 17 h à 2 h ; samedi : de 17 h à 2 h ; dimanche : de 12 h à 0 h. Ces horaires peuvent changer : un appel préalable reste conseillé."
+        "r": "Au relevé du 26 octobre 2026, Cocci Market était ouvert sept jours sur sept. Dans le détail — lundi : de 10 h à 15 h et de 17 h à 0 h ; mardi : de 10 h à 15 h et de 17 h à 0 h ; mercredi : de 10 h à 15 h et de 17 h à 0 h ; jeudi : de 10 h à 15 h et de 17 h à 2 h ; vendredi : de 10 h à 15 h et de 17 h à 2 h ; samedi : de 17 h à 2 h ; dimanche : de 12 h à 0 h. Ces horaires peuvent changer : un appel préalable reste conseillé."
       },
       {
         "q": "Cocci Market est-il ouvert le dimanche ?",
-        "r": "Oui : le dimanche, Cocci Market est ouvert de 12 h à 0 h (horaires relevés le 11 octobre 2026)."
+        "r": "Oui : le dimanche, Cocci Market est ouvert de 12 h à 0 h (horaires relevés le 26 octobre 2026)."
       },
       {
         "q": "Où se trouve Cocci Market ?",
@@ -206,11 +217,15 @@
         "r": "Par téléphone au 07 68 19 02 06, ou directement sur place aux heures d'ouverture."
       },
       {
+        "q": "Cocci Market propose-t-il la vente à emporter ou la livraison ?",
+        "r": "D'après sa fiche Google (relevé du 26 octobre 2026) — livraison : oui."
+      },
+      {
         "q": "Cocci Market est-il accessible aux personnes à mobilité réduite ?",
         "r": "La fiche Google de l'établissement mentionne : « Entrée accessible en fauteuil roulant ». Cette information est déclarative ; en cas de doute, vérifiez par téléphone."
       }
     ],
-    "genere_le": "2026-10-11"
+    "genere_le": "2026-10-26"
   },
   "statut_google": "OPERATIONAL",
   "audience": {
@@ -221,6 +236,70 @@
     "clicsRecents": 0,
     "fenetreRecenteJours": 28,
     "source": "search-console",
-    "date": "2026-10-25"
+    "date": "2026-10-26"
+  },
+  "avis_detail": {
+    "releve": "2026-10-26",
+    "liste": [
+      {
+        "note": 5,
+        "texte": "Super service!\nToujours ouvert quand les autres sont fermés.\nPour tout nos colis nous choisissons cette magasin.",
+        "langue": "fr",
+        "date": "2026-08-15",
+        "auteur": "Astrid Lambrechts",
+        "auteur_lien": "https://www.google.com/maps/contrib/117221550729652317308/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2taUldGcElXVkJHUVRkZmNYSlBSVUYzVldzdFIzYxAB!2m1!1s0x47e0dc3cfa353e05:0xf22d210d906b3e1f"
+      },
+      {
+        "note": 5,
+        "texte": "Épicerie qui porte honorablement son nom\nSi toutes les épiceries avaient le même niveau de service client chaleureux et pro Carrefour n’aurait jamais existé ..\nJe recommande à fond !",
+        "langue": "fr",
+        "date": "2026-06-13",
+        "auteur": "Karim TFYECHE",
+        "auteur_lien": "https://www.google.com/maps/contrib/105481894993752849308/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT21jMlNVMUZXVGx2WkVKMlQydGZjbEJCV0VaSE4zYxAB!2m1!1s0x47e0dc3cfa353e05:0xf22d210d906b3e1f"
+      },
+      {
+        "note": 5,
+        "texte": "Petite épicerie ouverte tard le soir, hyper pratique quand tout est fermé ailleurs.\nBeau choix de produits, varié et de qualité, on trouve toujours ce qu’il faut.\nLe commerçant est jovial, agréable et toujours de bonne humeur, ça fait plaisir et ça change.\nUne adresse de quartier comme on les aime, je recommande sans hésiter.",
+        "langue": "fr",
+        "date": "2026-01-29",
+        "auteur": "Pierre-Yves Petit",
+        "auteur_lien": "https://www.google.com/maps/contrib/116165483779646586708/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xjdE0wSXpVM0JyZDBaUmVtRmlkM0F5UkhOS1ZHYxAB!2m1!1s0x47e0dc3cfa353e05:0xf22d210d906b3e1f"
+      },
+      {
+        "note": 1,
+        "texte": "attendre devant la porte sous -1,5 degré alors que le magasin ouvre soit disant à 10h, il est 10h10, aucune ouverture, dingue de ne pas respecter les horaires affichées. mais bon de ce que je vois c’est assez courant… aucun respect .",
+        "langue": "fr",
+        "date": "2025-12-29",
+        "auteur": "cassandra x.x",
+        "auteur_lien": "https://www.google.com/maps/contrib/106572016022804111284/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xWMGNsYzNYMGhzUlhaNFJYRm5ObVJpYm5oVGFrRRAB!2m1!1s0x47e0dc3cfa353e05:0xf22d210d906b3e1f"
+      },
+      {
+        "note": 1,
+        "texte": "Une catastrophe, obligé de m’y prendre à deux fois pour récupérer mon colis. La première car la personne n’avait pas scanné les colis arrivés le matin et la deuxième fois j’ai attendu 1h30 devant la porte car la personne en charge du magasin n’en fait qu’à sa tête avec horaires, ouverture à 11h30 au lieu de 10h comme indiqué sur internet et sur la porte du magasin( les gens devant ont confirmés que les horaires dépendaient de l’humeur du gérant).",
+        "langue": "fr",
+        "date": "2025-12-19",
+        "auteur": "Lemercier Simon",
+        "auteur_lien": "https://www.google.com/maps/contrib/103138125658300711400/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xwc1JWZDRObFprZDJKYU1IUlZhVlV5Y201d00zYxAB!2m1!1s0x47e0dc3cfa353e05:0xf22d210d906b3e1f"
+      }
+    ]
+  },
+  "services": {
+    "releve": "2026-10-26",
+    "options": {
+      "delivery": true,
+      "restroom": false
+    },
+    "paiement": [
+      "carte de débit",
+      "paiement sans contact"
+    ],
+    "parking": [
+      "stationnement gratuit dans la rue"
+    ]
   }
 }

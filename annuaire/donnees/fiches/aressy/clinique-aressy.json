@@ -41,8 +41,8 @@
     "etat": "introuvable",
     "premiere_detection": "2026-09-17T09:57:24.171Z",
     "derniere_detection": "2026-09-27T15:08:55.510Z",
-    "derniere_verification": "2026-10-11T11:22:19.539Z",
-    "echecs": 20,
+    "derniere_verification": "2026-10-26T11:01:19.059Z",
+    "echecs": 21,
     "url_detectee": "https://andpro.fr/vitrine-locale/medecins-dentistes/aressy/clinique-aressy/"
   },
   "suggestion": {
@@ -55,7 +55,7 @@
   "dates": {
     "collecte": "2026-09-05",
     "publication": "2026-09-05",
-    "maj": "2026-10-11"
+    "maj": "2026-10-26"
   },
   "source": "google-places",
   "redaction": {
@@ -113,10 +113,10 @@
     "impressions": 2339,
     "position": 2.1,
     "fenetreJours": 90,
-    "clicsRecents": 11,
+    "clicsRecents": 0,
     "fenetreRecenteJours": 28,
     "source": "search-console",
-    "date": "2026-10-25"
+    "date": "2026-10-26"
   },
   "maintien": {
     "date": "2026-10-09",
@@ -129,6 +129,6 @@
     "derniere_exploration": null,
     "canonique_google": null,
     "source": "impressions",
-    "date": "2026-10-25"
+    "date": "2026-10-26"
   }
 }

@@ -1,5 +1,151 @@
 [
   {
+    "date": "2026-10-26T11:02:04.912Z",
+    "type": "suggestion-soumise",
+    "id": "ChIJ79FBlrwttBIRlqde-A1JW1g",
+    "nom": "Crudi Vert",
+    "url": "/commerces-alimentation/nimes/crudi-vert/"
+  },
+  {
+    "date": "2026-10-26T11:02:04.885Z",
+    "type": "suggestion-soumise",
+    "id": "ChIJ68NCTxnYjEcRfdHDXgPSwas",
+    "nom": "LEDO MARKET",
+    "url": "/commerces-alimentation/lons-le-saunier/ledo-market/"
+  },
+  {
+    "date": "2026-10-26T11:02:04.853Z",
+    "type": "suggestion-soumise",
+    "id": "ChIJv320DAbg60cRTo-TvR8hbs8",
+    "nom": "La Pétrie Béliard & Co",
+    "url": "/boulangeries-patisseries/fagnieres/la-petrie-beliard-co/"
+  },
+  {
+    "date": "2026-10-26T11:02:04.824Z",
+    "type": "suggestion-soumise",
+    "id": "ChIJMV7BxfhR80cRO3jyS2IYz4U",
+    "nom": "marché d'asie",
+    "url": "/commerces-alimentation/bourg-en-bresse/marche-d-asie/"
+  },
+  {
+    "date": "2026-10-26T11:02:04.796Z",
+    "type": "suggestion-soumise",
+    "id": "ChIJIw3MDMFtsxIRl7bkq3q6brE",
+    "nom": "Lozère Animalerie",
+    "url": "/veterinaires-animaux/mende/lozere-animalerie/"
+  },
+  {
+    "date": "2026-10-26T11:02:03.910Z",
+    "type": "retrait-410",
+    "id": "ChIJvS40nBIHyRIR_2lqIQ_8v_8",
+    "nom": "Bandol Port & Plage",
+    "url": "/hebergement/bandol/bandol-port-plage/",
+    "motif": "backlink jamais posé après 45 jours de délai de grâce",
+    "cible": null
+  },
+  {
+    "date": "2026-10-26T11:02:03.914Z",
+    "type": "retrait-410",
+    "id": "ChIJOyX1hrm06UcRaj0aXjSZILs",
+    "nom": "Magic bowling",
+    "url": "/loisirs-sport-culture/laon/magic-bowling/",
+    "motif": "backlink jamais posé après 45 jours de délai de grâce",
+    "cible": null
+  },
+  {
+    "date": "2026-10-26T11:01:19.299Z",
+    "type": "backlink-absent",
+    "id": "ChIJ3c3ntFIB50cRCI-C3-RNFHk",
+    "nom": "La Tradition Verlaine",
+    "url": null,
+    "precedent": "en-attente"
+  },
+  {
+    "date": "2026-10-26T11:01:19.364Z",
+    "type": "backlink-absent",
+    "id": "ChIJfXvsvjNSAUgRJU72FokkNpM",
+    "nom": "Laverie Bongraine",
+    "url": null,
+    "precedent": "en-attente"
+  },
+  {
+    "date": "2026-10-26T11:01:19.460Z",
+    "type": "backlink-absent",
+    "id": "ChIJk9Bots59shIRdGnQolsgRzM",
+    "nom": "parc de jeux",
+    "url": null,
+    "precedent": "en-attente"
+  },
+  {
+    "date": "2026-10-26T11:01:19.540Z",
+    "type": "backlink-absent",
+    "id": "ChIJ0x0GKrWI4kcR4l_QN6CbVRM",
+    "nom": "Pharmacie Lafayette Saint Lazare",
+    "url": null,
+    "precedent": "en-attente"
+  },
+  {
+    "date": "2026-10-26T11:01:19.618Z",
+    "type": "backlink-absent",
+    "id": "ChIJuVA-_66PrBIR-6Bn7OewCXI",
+    "nom": "Plaisir&Gourmandise",
+    "url": null,
+    "precedent": "en-attente"
+  },
+  {
+    "date": "2026-10-26T11:01:21.184Z",
+    "type": "backlink-introuvable",
+    "id": "ChIJV88zMQBP8EcR3ZkN_md0B30",
+    "nom": "Domicile",
+    "url": null,
+    "precedent": "absent"
+  },
+  {
+    "date": "2026-10-26T11:01:18.571Z",
+    "type": "publication",
+    "id": "ChIJk9Bots59shIRdGnQolsgRzM",
+    "nom": "parc de jeux",
+    "url": "/loisirs-sport-culture/olemps/parc-de-jeux/",
+    "categorie": "loisirs-sport-culture",
+    "source": "google-places"
+  },
+  {
+    "date": "2026-10-26T11:01:18.660Z",
+    "type": "publication",
+    "id": "ChIJ0x0GKrWI4kcR4l_QN6CbVRM",
+    "nom": "Pharmacie Lafayette Saint Lazare",
+    "url": "/pharmacies-opticiens/le-mans/pharmacie-lafayette-saint-lazare/",
+    "categorie": "pharmacies-opticiens",
+    "source": "google-places"
+  },
+  {
+    "date": "2026-10-26T11:01:18.752Z",
+    "type": "publication",
+    "id": "ChIJfXvsvjNSAUgRJU72FokkNpM",
+    "nom": "Laverie Bongraine",
+    "url": "/nettoyage-hygiene/aytre/laverie-bongraine/",
+    "categorie": "nettoyage-hygiene",
+    "source": "google-places"
+  },
+  {
+    "date": "2026-10-26T11:01:18.864Z",
+    "type": "publication",
+    "id": "ChIJuVA-_66PrBIR-6Bn7OewCXI",
+    "nom": "Plaisir&Gourmandise",
+    "url": "/boulangeries-patisseries/pradines/plaisir-gourmandise/",
+    "categorie": "boulangeries-patisseries",
+    "source": "google-places"
+  },
+  {
+    "date": "2026-10-26T11:01:18.968Z",
+    "type": "publication",
+    "id": "ChIJ3c3ntFIB50cRCI-C3-RNFHk",
+    "nom": "La Tradition Verlaine",
+    "url": "/boulangeries-patisseries/beauvais/la-tradition-verlaine/",
+    "categorie": "boulangeries-patisseries",
+    "source": "google-places"
+  },
+  {
     "date": "2026-10-25T09:46:17.450Z",
     "type": "suggestion-soumise",
     "id": "ChIJ_xjMLU_79UcRK7Z36SFQwAc",

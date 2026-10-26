@@ -97,8 +97,8 @@
     "etat": "absent",
     "premiere_detection": null,
     "derniere_detection": null,
-    "derniere_verification": "2026-10-11T11:22:19.539Z",
-    "echecs": 74,
+    "derniere_verification": "2026-10-26T11:01:19.059Z",
+    "echecs": 75,
     "url_detectee": null
   },
   "retrait": {
@@ -112,7 +112,7 @@
   "dates": {
     "collecte": "2026-08-30",
     "publication": "2026-08-30",
-    "maj": "2026-10-18"
+    "maj": "2026-10-26"
   },
   "source": "google-places",
   "redaction": {
@@ -120,14 +120,14 @@
     "titre": "École primaire Jules Ferry — Comptabilité et conseil à Nevers",
     "meta_titre": "École primaire Jules Ferry à Nevers : horaires, téléphone",
     "meta_description": "École primaire Jules Ferry, comptabilité et conseil à Nevers : horaires d'ouverture, téléphone, adresse et itinéraire.",
-    "chapo": "École primaire Jules Ferry, comptabilité et conseil au 53 Rue Commandant Paul Pierre Clerc, à Nevers. Fermé le mercredi, le samedi et le dimanche au relevé du 18 octobre 2026. Téléphone : 03 86 68 43 73.",
+    "chapo": "École primaire Jules Ferry, comptabilité et conseil au 53 Rue Commandant Paul Pierre Clerc, à Nevers. Fermé le mercredi, le samedi et le dimanche au relevé du 26 octobre 2026. Téléphone : 03 86 68 43 73.",
     "sections": [
       {
         "id": "presentation",
         "titre": "École primaire Jules Ferry en quelques mots",
         "paragraphes": [
           "Sur Google, l'établissement est classé « École primaire », dans notre rubrique Comptabilité et conseil.",
-          "D'après le relevé du 18 octobre 2026, l'établissement est fermé le mercredi, le samedi et le dimanche. Le détail jour par jour figure plus bas."
+          "D'après le relevé du 26 octobre 2026, l'établissement est fermé le mercredi, le samedi et le dimanche. Le détail jour par jour figure plus bas."
         ]
       },
       {
@@ -149,11 +149,11 @@
     "faq": [
       {
         "q": "Quels sont les horaires de École primaire Jules Ferry ?",
-        "r": "Au relevé du 18 octobre 2026, École primaire Jules Ferry était fermé le mercredi, le samedi et le dimanche. Dans le détail — lundi : de 8 h 20 à 16 h 20 ; mardi : de 8 h 20 à 16 h 20 ; mercredi : fermé ; jeudi : de 8 h 20 à 16 h 20 ; vendredi : de 8 h 20 à 16 h 20 ; samedi : fermé ; dimanche : fermé. Ces horaires peuvent changer : un appel préalable reste conseillé."
+        "r": "Au relevé du 26 octobre 2026, École primaire Jules Ferry était fermé le mercredi, le samedi et le dimanche. Dans le détail — lundi : de 8 h 20 à 16 h 20 ; mardi : de 8 h 20 à 16 h 20 ; mercredi : fermé ; jeudi : de 8 h 20 à 16 h 20 ; vendredi : de 8 h 20 à 16 h 20 ; samedi : fermé ; dimanche : fermé. Ces horaires peuvent changer : un appel préalable reste conseillé."
       },
       {
         "q": "École primaire Jules Ferry est-il ouvert le dimanche ?",
-        "r": "Non : d'après les horaires relevés le 18 octobre 2026, École primaire Jules Ferry est fermé le dimanche."
+        "r": "Non : d'après les horaires relevés le 26 octobre 2026, École primaire Jules Ferry est fermé le dimanche."
       },
       {
         "q": "Où se trouve École primaire Jules Ferry ?",
@@ -168,7 +168,7 @@
         "r": "La fiche Google de l'établissement mentionne : « Entrée accessible en fauteuil roulant ». Cette information est déclarative ; en cas de doute, vérifiez par téléphone."
       }
     ],
-    "genere_le": "2026-10-18"
+    "genere_le": "2026-10-26"
   },
   "suggestion": {
     "etat": "soumise",
@@ -184,7 +184,7 @@
     "clicsRecents": 0,
     "fenetreRecenteJours": 28,
     "source": "search-console",
-    "date": "2026-10-25"
+    "date": "2026-10-26"
   },
   "indexation": {
     "etat": "non-indexee",
@@ -194,5 +194,9 @@
     "canonique_google": null,
     "source": "inspection",
     "date": "2026-10-14"
+  },
+  "avis_detail": {
+    "releve": "2026-10-26",
+    "liste": []
   }
 }

@@ -34,11 +34,11 @@
   "site_web_gmb": null,
   "statut": "retiree",
   "backlink": {
-    "etat": "absent",
+    "etat": "introuvable",
     "premiere_detection": null,
     "derniere_detection": null,
-    "derniere_verification": "2026-10-11T11:22:19.539Z",
-    "echecs": 74,
+    "derniere_verification": "2026-10-26T11:01:19.059Z",
+    "echecs": 75,
     "url_detectee": null
   },
   "retrait": {
@@ -52,7 +52,7 @@
   "dates": {
     "collecte": "2026-08-30",
     "publication": "2026-08-30",
-    "maj": "2026-10-18"
+    "maj": "2026-10-26"
   },
   "source": "google-places",
   "redaction": {
@@ -107,7 +107,7 @@
     "clicsRecents": 0,
     "fenetreRecenteJours": 28,
     "source": "search-console",
-    "date": "2026-10-25"
+    "date": "2026-10-26"
   },
   "indexation": {
     "etat": "non-indexee",

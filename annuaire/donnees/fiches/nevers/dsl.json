@@ -37,8 +37,8 @@
     "etat": "absent",
     "premiere_detection": null,
     "derniere_detection": null,
-    "derniere_verification": "2026-10-11T11:22:19.539Z",
-    "echecs": 74,
+    "derniere_verification": "2026-10-26T11:01:19.059Z",
+    "echecs": 75,
     "url_detectee": null
   },
   "retrait": {
@@ -52,7 +52,7 @@
   "dates": {
     "collecte": "2026-08-30",
     "publication": "2026-08-30",
-    "maj": "2026-10-18"
+    "maj": "2026-10-26"
   },
   "source": "google-places",
   "redaction": {
@@ -88,7 +88,7 @@
         "id": "avis",
         "titre": "La réputation de DSL",
         "paragraphes": [
-          "Note de 4 sur 5 pour 1 avis Google au relevé du 18 octobre 2026. Les avis se consultent sur la fiche Google, dont le lien figure sur cette page."
+          "Note de 4 sur 5 pour 1 avis Google au relevé du 26 octobre 2026. Les avis se consultent sur la fiche Google, dont le lien figure sur cette page."
         ]
       }
     ],
@@ -98,7 +98,7 @@
         "r": "DSL se trouve 72 Av. du Stand, 58000 Nevers. Un lien d'itinéraire est disponible sur cette page."
       }
     ],
-    "genere_le": "2026-10-18"
+    "genere_le": "2026-10-26"
   },
   "suggestion": {
     "etat": "en-attente",
@@ -115,7 +115,7 @@
     "clicsRecents": 0,
     "fenetreRecenteJours": 28,
     "source": "search-console",
-    "date": "2026-10-25"
+    "date": "2026-10-26"
   },
   "indexation": {
     "etat": "non-indexee",
@@ -125,5 +125,19 @@
     "canonique_google": null,
     "source": "inspection",
     "date": "2026-10-14"
+  },
+  "avis_detail": {
+    "releve": "2026-10-26",
+    "liste": [
+      {
+        "note": 4,
+        "texte": "",
+        "langue": "",
+        "date": "2025-05-26",
+        "auteur": "Henri",
+        "auteur_lien": "https://www.google.com/maps/contrib/114559414249678093777/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VKVElyZHFuMU5EUXd3RRAB!2m1!1s0x47f045000bf53695:0x63fb2f7bedcbd7d6"
+      }
+    ]
   }
 }
