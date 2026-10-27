@@ -1,0 +1,320 @@
+{
+  "id": "ChIJbf9MzAAvB0gRFo-Pdc4ylwY",
+  "slug": "l-ile-o-crepes",
+  "nom": "L’île Ô Crêpes",
+  "categorie": "restaurants",
+  "categorie_gmb": "Boutique de desserts",
+  "type_principal": "dessert_shop",
+  "types": [
+    "french_restaurant",
+    "dessert_shop",
+    "confectionery",
+    "food_store",
+    "european_restaurant",
+    "restaurant",
+    "food",
+    "store",
+    "point_of_interest",
+    "establishment"
+  ],
+  "ville": "Niort",
+  "ville_slug": "niort",
+  "adresse": {
+    "rue": "74 Quai Maurice Métayer",
+    "code_postal": "79000",
+    "departement": "79",
+    "region": "Nouvelle-Aquitaine",
+    "pays": "France",
+    "complete": "74 Quai Maurice Métayer, 79000 Niort"
+  },
+  "telephone": "05 16 18 38 63",
+  "geo": {
+    "latitude": 46.3301174,
+    "longitude": -0.47785510000000003
+  },
+  "note": 4.7,
+  "avis": 400,
+  "horaires": [
+    {
+      "jour": 0,
+      "ferme": true,
+      "creneaux": []
+    },
+    {
+      "jour": 1,
+      "ferme": true,
+      "creneaux": []
+    },
+    {
+      "jour": 2,
+      "ferme": false,
+      "creneaux": [
+        [
+          "12:00",
+          "14:00"
+        ],
+        [
+          "19:00",
+          "21:30"
+        ]
+      ]
+    },
+    {
+      "jour": 3,
+      "ferme": false,
+      "creneaux": [
+        [
+          "12:00",
+          "14:00"
+        ],
+        [
+          "19:00",
+          "21:30"
+        ]
+      ]
+    },
+    {
+      "jour": 4,
+      "ferme": false,
+      "creneaux": [
+        [
+          "12:00",
+          "14:00"
+        ],
+        [
+          "19:00",
+          "21:30"
+        ]
+      ]
+    },
+    {
+      "jour": 5,
+      "ferme": false,
+      "creneaux": [
+        [
+          "12:00",
+          "14:00"
+        ],
+        [
+          "19:00",
+          "21:30"
+        ]
+      ]
+    },
+    {
+      "jour": 6,
+      "ferme": false,
+      "creneaux": [
+        [
+          "12:00",
+          "14:00"
+        ]
+      ]
+    }
+  ],
+  "attributs": [
+    "Entrée accessible en fauteuil roulant",
+    "Parking accessible en fauteuil roulant",
+    "Places assises accessibles en fauteuil roulant"
+  ],
+  "lien_google": "https://maps.google.com/?cid=474904148027870998&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
+  "site_web_gmb": null,
+  "statut": "publiee",
+  "backlink": {
+    "etat": "absent",
+    "premiere_detection": null,
+    "derniere_detection": null,
+    "derniere_verification": "2026-10-27T10:29:22.553Z",
+    "echecs": 1,
+    "url_detectee": null
+  },
+  "suggestion": {
+    "etat": "en-attente",
+    "date_soumission": null,
+    "tentatives": 0,
+    "date_email": "2026-10-27"
+  },
+  "retrait": null,
+  "dates": {
+    "collecte": "2026-10-27",
+    "publication": "2026-10-27",
+    "maj": "2026-10-27"
+  },
+  "source": "google-places",
+  "avis_detail": {
+    "releve": "2026-10-27",
+    "liste": [
+      {
+        "note": 5,
+        "texte": "Normand d’origine, je ne voyais que par les galettes normandes, mon expérience à cette crêperie m’à fait changer d’avis. Galette guéménée excellente et que dire du dessert. Un vrai régal que j’étais sur de ne pas terminer. Perdu c’était trop bon.",
+        "langue": "fr",
+        "date": "2026-07-23",
+        "auteur": "Danièle Lecouey",
+        "auteur_lien": "https://www.google.com/maps/contrib/104322528555691043019/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT200eGNHVkxhMFpYYldaVWJsbDFkR2hZZGkxYWMzYxAB!2m1!1s0x48072f00cc4cff6d:0x69732ce758f8f16"
+      },
+      {
+        "note": 5,
+        "texte": "Ohlalala mais quel bijou cette petite crêperie !\nJ'en avais beaucoup entendu parler et j'ai enfin découvert cette splendide terrasse, cette salle décorée avec goût et surtout des crêpes très gourmandes. Si vous faites comme moi, vous vous rendrez compte que chaque assiette repart vide 😅\nL'équipe est accueillante et à l'écoute des clients.\nEt pour finir, le lieu permet une belle balade.",
+        "langue": "fr",
+        "date": "2026-07-17",
+        "auteur": "Lyl",
+        "auteur_lien": "https://www.google.com/maps/contrib/103541016508689955791/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2s1dk0ydFRXWGR2ZFVoaWFVeGFSREptYTNkWFUxRRAB!2m1!1s0x48072f00cc4cff6d:0x69732ce758f8f16"
+      },
+      {
+        "note": 5,
+        "texte": "Très bonnes crêpes a des prix tres raisonnable.. Endroit atypique..patons et serveur très sympas.il vaut mieux réserver. Apres  avoir fini de manger .vous pouvez  aller faire une petite balade pour digérer  le long du quai metayer.",
+        "langue": "fr",
+        "date": "2026-07-14",
+        "auteur": "jean yves Samoyault",
+        "auteur_lien": "https://www.google.com/maps/contrib/109301403136084379951/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2pCb2VHUXlkVUpRUmtSYVFXSmFkRTh5ZEhGR1FXYxAB!2m1!1s0x48072f00cc4cff6d:0x69732ce758f8f16"
+      },
+      {
+        "note": 5,
+        "texte": "Près de la Sèvres et de ses balades pédestres, une crêperie à ne pas rater. Elle possède un intérieur (facilement accessible aux fauteuils roulants), mais surtout, pour les beaux jours, une adorable terrasse extérieure située à l'arrière de la crêperie. Joliment décorée  avec, en son centre, un bananier, cette terrasse a beaucoup de charme. Les serveurs (et serveuses) sont adorables. Les galettes sont sans doute les meilleures que j'ai mangé de ma vie avec ce mélange de croustillant et de moelleux auquel s'ajoute la saveur du beurre. Les crêpes sont bonnes aussi mais moins savoureuses, plus banales.\nEn résumé, j'y ai vécu une super expérience et j'y retournerai avec plaisir.",
+        "langue": "fr",
+        "date": "2025-07-31",
+        "auteur": "isabelle curti",
+        "auteur_lien": "https://www.google.com/maps/contrib/114912320918440325446/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2pKSk4wWXRTMnBWUjBKeU1HaFBkblZLY20xR2VWRRAB!2m1!1s0x48072f00cc4cff6d:0x69732ce758f8f16"
+      },
+      {
+        "note": 5,
+        "texte": "Crêperie bretonne très bien située le long de la Sèvre. Le cadre est vraiment chaleureux, avec une belle décoration et surtout des fauteuils très confortables !\n\nLe serveur est gentil, aimable et très professionnel, avec le sourire.\n\nLes galettes sont excellentes, avec une cuisson parfaite : croustillantes sans être sèches. On sent aussi que les produits sont de qualité et se marient parfaitement 👌\n\nLa crêpe dessert était simplement incroyable avec de la légereté dans la patte. J'ai trouvé que les doses étaient parfaites.",
+        "langue": "fr",
+        "date": "2025-03-15",
+        "auteur": "Jérémi Maré",
+        "auteur_lien": "https://www.google.com/maps/contrib/101575049299769175163/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnTUN3NElxdTNnRRAB!2m1!1s0x48072f00cc4cff6d:0x69732ce758f8f16"
+      }
+    ]
+  },
+  "services": {
+    "releve": "2026-10-27",
+    "options": {
+      "dineIn": true,
+      "delivery": false,
+      "curbsidePickup": false,
+      "reservable": true,
+      "outdoorSeating": true,
+      "servesBreakfast": true,
+      "servesBrunch": false,
+      "servesLunch": true,
+      "servesDinner": true,
+      "servesVegetarianFood": true,
+      "servesCoffee": true,
+      "servesBeer": true,
+      "servesWine": true,
+      "servesCocktails": true,
+      "menuForChildren": true,
+      "goodForChildren": true,
+      "goodForGroups": true,
+      "goodForWatchingSports": false,
+      "liveMusic": false,
+      "restroom": true
+    },
+    "paiement": [
+      "carte bancaire",
+      "carte de débit",
+      "paiement sans contact"
+    ],
+    "parking": [
+      "stationnement gratuit dans la rue"
+    ]
+  },
+  "redaction": {
+    "version": 2,
+    "titre": "L’île Ô Crêpes — Restaurant à Niort",
+    "meta_titre": "L’île Ô Crêpes à Niort : horaires, avis, téléphone",
+    "meta_description": "L’île Ô Crêpes, restaurant à Niort : horaires d'ouverture, note Google 4,7/5 (400 avis), téléphone, adresse et itinéraire.",
+    "chapo": "Cette fiche présente L’île Ô Crêpes, un restaurant au 74 Quai Maurice Métayer, à Niort. Fermé le lundi et le mardi au relevé du 27 octobre 2026. Téléphone : 05 16 18 38 63. Note Google : 4,7 sur 5 pour 400 avis.",
+    "sections": [
+      {
+        "id": "presentation",
+        "titre": "L’île Ô Crêpes en quelques mots",
+        "paragraphes": [
+          "Sur Google, l'établissement est classé « Boutique de desserts », dans notre rubrique Restaurant.",
+          "D'après le relevé du 27 octobre 2026, l'établissement est fermé le lundi et le mardi. Le détail jour par jour figure plus bas."
+        ]
+      },
+      {
+        "id": "prestations",
+        "titre": "Services et équipements de L’île Ô Crêpes",
+        "paragraphes": [
+          "Proposé : sur place, réservation possible, terrasse, petit-déjeuner, déjeuner, dîner, plats végétariens, café, bière, vin, cocktails, menu enfant, adapté aux enfants, adapté aux groupes et toilettes.",
+          "Non proposé selon la fiche Google : livraison, retrait en voiture, brunch, retransmissions sportives et musique live.",
+          "Moyens de paiement déclarés : carte bancaire, carte de débit et paiement sans contact.",
+          "Stationnement : stationnement gratuit dans la rue.",
+          "Ces indications sont déclarées par l'établissement sur sa fiche Google (relevé du 27 octobre 2026)."
+        ]
+      },
+      {
+        "id": "acces",
+        "titre": "Adresse et accès",
+        "paragraphes": [
+          "L'établissement est situé au 74 Quai Maurice Métayer, 79000 Niort.",
+          "Coordonnées GPS : 46.33012, -0.47786. Le bouton Itinéraire de cette page ouvre la navigation."
+        ]
+      },
+      {
+        "id": "contact",
+        "titre": "Contacter L’île Ô Crêpes",
+        "paragraphes": [
+          "Le contact se fait par téléphone au 05 16 18 38 63, ou directement sur place aux horaires d'ouverture.",
+          "La fiche Google indique que la réservation est possible."
+        ]
+      },
+      {
+        "id": "avis",
+        "titre": "La réputation de L’île Ô Crêpes",
+        "paragraphes": [
+          "Note de 4,7 sur 5 pour 400 avis Google au relevé du 27 octobre 2026. Les avis les plus parlants sont compilés ci-dessous, avec un lien vers la fiche d'origine."
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "q": "Quels sont les horaires de L’île Ô Crêpes ?",
+        "r": "Au relevé du 27 octobre 2026, L’île Ô Crêpes était fermé le lundi et le mardi. Dans le détail — lundi : fermé ; mardi : fermé ; mercredi : de 12 h à 14 h et de 19 h à 21 h 30 ; jeudi : de 12 h à 14 h et de 19 h à 21 h 30 ; vendredi : de 12 h à 14 h et de 19 h à 21 h 30 ; samedi : de 12 h à 14 h et de 19 h à 21 h 30 ; dimanche : de 12 h à 14 h. Ces horaires peuvent changer : un appel préalable reste conseillé."
+      },
+      {
+        "q": "L’île Ô Crêpes est-il ouvert le dimanche ?",
+        "r": "Oui : le dimanche, L’île Ô Crêpes est ouvert de 12 h à 14 h (horaires relevés le 27 octobre 2026)."
+      },
+      {
+        "q": "Où se trouve L’île Ô Crêpes ?",
+        "r": "L’île Ô Crêpes se trouve 74 Quai Maurice Métayer, 79000 Niort. Un lien d'itinéraire est disponible sur cette page."
+      },
+      {
+        "q": "Comment contacter L’île Ô Crêpes ?",
+        "r": "Par téléphone au 05 16 18 38 63, ou directement sur place aux heures d'ouverture."
+      },
+      {
+        "q": "Peut-on réserver chez L’île Ô Crêpes ?",
+        "r": "Oui, la fiche Google de L’île Ô Crêpes indique que la réservation est possible, par téléphone au 05 16 18 38 63."
+      },
+      {
+        "q": "L’île Ô Crêpes propose-t-il la vente à emporter ou la livraison ?",
+        "r": "D'après sa fiche Google (relevé du 27 octobre 2026) — livraison : non."
+      },
+      {
+        "q": "L’île Ô Crêpes est-il accessible aux personnes à mobilité réduite ?",
+        "r": "La fiche Google de l'établissement mentionne : « Entrée accessible en fauteuil roulant ». Cette information est déclarative ; en cas de doute, vérifiez par téléphone."
+      }
+    ],
+    "genere_le": "2026-10-27"
+  },
+  "statut_google": "OPERATIONAL",
+  "audience": {
+    "clics": 0,
+    "impressions": 0,
+    "position": null,
+    "fenetreJours": 90,
+    "clicsRecents": 0,
+    "fenetreRecenteJours": 28,
+    "source": "search-console",
+    "date": "2026-10-27"
+  }
+}

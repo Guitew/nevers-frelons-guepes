@@ -103,8 +103,8 @@
     "etat": "absent",
     "premiere_detection": null,
     "derniere_detection": null,
-    "derniere_verification": "2026-10-12T19:47:22.869Z",
-    "echecs": 14,
+    "derniere_verification": "2026-10-27T10:29:22.553Z",
+    "echecs": 15,
     "url_detectee": null
   },
   "suggestion": {
@@ -124,7 +124,7 @@
   "dates": {
     "collecte": "2026-09-29",
     "publication": "2026-09-29",
-    "maj": "2026-10-18"
+    "maj": "2026-10-27"
   },
   "source": "google-places",
   "redaction": {
@@ -132,14 +132,22 @@
     "titre": "Global Synergies — Transport et déménagement à Avignon",
     "meta_titre": "Global Synergies à Avignon : horaires, avis, téléphone",
     "meta_description": "Global Synergies, transport et déménagement à Avignon : horaires d'ouverture, note Google 3,6/5 (16 avis), téléphone, adresse et itinéraire.",
-    "chapo": "Global Synergies est un transport et déménagement au 545 Chemin de la Sacristie, à Avignon. Fermé le samedi et le dimanche au relevé du 12 octobre 2026. Téléphone : 04 90 31 13 74. Note Google : 3,6 sur 5 pour 16 avis.",
+    "chapo": "Global Synergies est un transport et déménagement au 545 Chemin de la Sacristie, à Avignon. Fermé le samedi et le dimanche au relevé du 27 octobre 2026. Téléphone : 04 90 31 13 74. Note Google : 3,6 sur 5 pour 16 avis.",
     "sections": [
       {
         "id": "presentation",
         "titre": "Global Synergies en quelques mots",
         "paragraphes": [
           "Sur Google, l'établissement est classé « Entreprise de déménagement », dans notre rubrique Transport et déménagement.",
-          "D'après le relevé du 12 octobre 2026, l'établissement est fermé le samedi et le dimanche. Le détail jour par jour figure plus bas."
+          "D'après le relevé du 27 octobre 2026, l'établissement est fermé le samedi et le dimanche. Le détail jour par jour figure plus bas."
+        ]
+      },
+      {
+        "id": "prestations",
+        "titre": "Services et équipements de Global Synergies",
+        "paragraphes": [
+          "Proposé : toilettes.",
+          "Ces indications sont déclarées par l'établissement sur sa fiche Google (relevé du 27 octobre 2026)."
         ]
       },
       {
@@ -161,18 +169,18 @@
         "id": "avis",
         "titre": "La réputation de Global Synergies",
         "paragraphes": [
-          "Note de 3,6 sur 5 pour 16 avis Google au relevé du 12 octobre 2026. Les avis se consultent sur la fiche Google, dont le lien figure sur cette page."
+          "Note de 3,6 sur 5 pour 16 avis Google au relevé du 27 octobre 2026. Les avis les plus parlants sont compilés ci-dessous, avec un lien vers la fiche d'origine."
         ]
       }
     ],
     "faq": [
       {
         "q": "Quels sont les horaires de Global Synergies ?",
-        "r": "Au relevé du 12 octobre 2026, Global Synergies était fermé le samedi et le dimanche. Dans le détail — lundi : de 9 h à 18 h ; mardi : de 9 h à 18 h ; mercredi : de 9 h à 18 h ; jeudi : de 9 h à 18 h ; vendredi : de 9 h à 18 h ; samedi : fermé ; dimanche : fermé. Ces horaires peuvent changer : un appel préalable reste conseillé."
+        "r": "Au relevé du 27 octobre 2026, Global Synergies était fermé le samedi et le dimanche. Dans le détail — lundi : de 9 h à 18 h ; mardi : de 9 h à 18 h ; mercredi : de 9 h à 18 h ; jeudi : de 9 h à 18 h ; vendredi : de 9 h à 18 h ; samedi : fermé ; dimanche : fermé. Ces horaires peuvent changer : un appel préalable reste conseillé."
       },
       {
         "q": "Global Synergies est-il ouvert le dimanche ?",
-        "r": "Non : d'après les horaires relevés le 12 octobre 2026, Global Synergies est fermé le dimanche."
+        "r": "Non : d'après les horaires relevés le 27 octobre 2026, Global Synergies est fermé le dimanche."
       },
       {
         "q": "Où se trouve Global Synergies ?",
@@ -187,7 +195,7 @@
         "r": "La fiche Google de l'établissement mentionne : « Entrée accessible en fauteuil roulant ». Cette information est déclarative ; en cas de doute, vérifiez par téléphone."
       }
     ],
-    "genere_le": "2026-10-12"
+    "genere_le": "2026-10-27"
   },
   "statut_google": "OPERATIONAL",
   "audience": {
@@ -198,6 +206,64 @@
     "clicsRecents": 0,
     "fenetreRecenteJours": 28,
     "source": "search-console",
-    "date": "2026-10-26"
+    "date": "2026-10-27"
+  },
+  "avis_detail": {
+    "releve": "2026-10-27",
+    "liste": [
+      {
+        "note": 1,
+        "texte": "Société nul\nJe déconseille fortement",
+        "langue": "fr",
+        "date": "2026-07-01",
+        "auteur": "Franck Djeradi",
+        "auteur_lien": "https://www.google.com/maps/contrib/111290833025539057929/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2paRFJUQlVNMlo1ZW1VMFpFWndSWFpKVURaSmRYYxAB!2m1!1s0x12b5edf1183b8b71:0xb665309e2b11ed4"
+      },
+      {
+        "note": 4,
+        "texte": "Déchargement rapide, travail à partir de 9h.",
+        "langue": "fr",
+        "date": "2023-12-01",
+        "auteur": "Alex",
+        "auteur_lien": "https://www.google.com/maps/contrib/103194033621574505234/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSURsNm83RGJREAE!2m1!1s0x12b5edf1183b8b71:0xb665309e2b11ed4"
+      },
+      {
+        "note": 5,
+        "texte": "Très sérieux dans leurs prestations.",
+        "langue": "fr",
+        "date": "2018-03-21",
+        "auteur": "auguste guido",
+        "auteur_lien": "https://www.google.com/maps/contrib/116028108850730177295/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSURndF8yUUpnEAE!2m1!1s0x12b5edf1183b8b71:0xb665309e2b11ed4"
+      },
+      {
+        "note": 1,
+        "texte": "Nul",
+        "langue": "fr",
+        "date": "2016-11-19",
+        "auteur": "Regine Paris",
+        "auteur_lien": "https://www.google.com/maps/contrib/109922381356946806239/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSURncTZETUVBEAE!2m1!1s0x12b5edf1183b8b71:0xb665309e2b11ed4"
+      },
+      {
+        "note": 5,
+        "texte": "Super entreprise familiale ou l'on se sent bien.",
+        "langue": "fr",
+        "date": "2016-09-07",
+        "auteur": "auguste guido",
+        "auteur_lien": "https://www.google.com/maps/contrib/104251047135186305239/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSURnZ1pTbTlnRRAB!2m1!1s0x12b5edf1183b8b71:0xb665309e2b11ed4"
+      }
+    ]
+  },
+  "services": {
+    "releve": "2026-10-27",
+    "options": {
+      "restroom": true
+    },
+    "paiement": [],
+    "parking": []
   }
 }

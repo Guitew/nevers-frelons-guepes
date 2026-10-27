@@ -83,8 +83,8 @@
     "etat": "absent",
     "premiere_detection": null,
     "derniere_detection": null,
-    "derniere_verification": "2026-10-12T19:47:22.869Z",
-    "echecs": 69,
+    "derniere_verification": "2026-10-27T10:29:22.553Z",
+    "echecs": 70,
     "url_detectee": null
   },
   "suggestion": {
@@ -104,7 +104,7 @@
   "dates": {
     "collecte": "2026-09-01",
     "publication": "2026-09-01",
-    "maj": "2026-10-18"
+    "maj": "2026-10-27"
   },
   "source": "google-places",
   "redaction": {
@@ -112,14 +112,22 @@
     "titre": "Jacky Perrenot — Transport et déménagement à Migné-Auxances",
     "meta_titre": "Jacky Perrenot à Migné-Auxances : horaires, avis, téléphone",
     "meta_description": "Jacky Perrenot, transport et déménagement à Migné-Auxances : horaires d'ouverture, note Google 3,8/5 (143 avis), téléphone, adresse et itinéraire.",
-    "chapo": "Jacky Perrenot est un transport et déménagement au Rue des Entreprises, à Migné-Auxances. Ouvert le lundi au relevé du 18 octobre 2026. Téléphone : 05 49 55 01 23. Note Google : 3,8 sur 5 pour 143 avis.",
+    "chapo": "Jacky Perrenot est un transport et déménagement au Rue des Entreprises, à Migné-Auxances. Ouvert le lundi au relevé du 27 octobre 2026. Téléphone : 05 49 55 01 23. Note Google : 3,8 sur 5 pour 143 avis.",
     "sections": [
       {
         "id": "presentation",
         "titre": "Jacky Perrenot en quelques mots",
         "paragraphes": [
           "Sur Google, l'établissement est classé « Entreprise de déménagement », dans notre rubrique Transport et déménagement.",
-          "D'après le relevé du 18 octobre 2026, l'établissement est ouvert le lundi. Le détail jour par jour figure plus bas."
+          "D'après le relevé du 27 octobre 2026, l'établissement est ouvert le lundi. Le détail jour par jour figure plus bas."
+        ]
+      },
+      {
+        "id": "prestations",
+        "titre": "Services et équipements de Jacky Perrenot",
+        "paragraphes": [
+          "Proposé : toilettes.",
+          "Ces indications sont déclarées par l'établissement sur sa fiche Google (relevé du 27 octobre 2026)."
         ]
       },
       {
@@ -141,18 +149,18 @@
         "id": "avis",
         "titre": "La réputation de Jacky Perrenot",
         "paragraphes": [
-          "Note de 3,8 sur 5 pour 143 avis Google au relevé du 18 octobre 2026. Les avis se consultent sur la fiche Google, dont le lien figure sur cette page."
+          "Note de 3,8 sur 5 pour 143 avis Google au relevé du 27 octobre 2026. Les avis les plus parlants sont compilés ci-dessous, avec un lien vers la fiche d'origine."
         ]
       }
     ],
     "faq": [
       {
         "q": "Quels sont les horaires de Jacky Perrenot ?",
-        "r": "Au relevé du 18 octobre 2026, Jacky Perrenot était ouvert le lundi. Dans le détail — lundi : de 0 h à 0 h ; mardi : fermé ; mercredi : fermé ; jeudi : fermé ; vendredi : fermé ; samedi : fermé ; dimanche : fermé. Ces horaires peuvent changer : un appel préalable reste conseillé."
+        "r": "Au relevé du 27 octobre 2026, Jacky Perrenot était ouvert le lundi. Dans le détail — lundi : de 0 h à 0 h ; mardi : fermé ; mercredi : fermé ; jeudi : fermé ; vendredi : fermé ; samedi : fermé ; dimanche : fermé. Ces horaires peuvent changer : un appel préalable reste conseillé."
       },
       {
         "q": "Jacky Perrenot est-il ouvert le dimanche ?",
-        "r": "Non : d'après les horaires relevés le 18 octobre 2026, Jacky Perrenot est fermé le dimanche."
+        "r": "Non : d'après les horaires relevés le 27 octobre 2026, Jacky Perrenot est fermé le dimanche."
       },
       {
         "q": "Où se trouve Jacky Perrenot ?",
@@ -167,7 +175,7 @@
         "r": "La fiche Google de l'établissement mentionne : « Entrée accessible en fauteuil roulant ». Cette information est déclarative ; en cas de doute, vérifiez par téléphone."
       }
     ],
-    "genere_le": "2026-10-18"
+    "genere_le": "2026-10-27"
   },
   "statut_google": "OPERATIONAL",
   "audience": {
@@ -178,7 +186,7 @@
     "clicsRecents": 0,
     "fenetreRecenteJours": 28,
     "source": "search-console",
-    "date": "2026-10-26"
+    "date": "2026-10-27"
   },
   "indexation": {
     "etat": "non-indexee",
@@ -188,5 +196,63 @@
     "canonique_google": null,
     "source": "inspection",
     "date": "2026-10-18"
+  },
+  "avis_detail": {
+    "releve": "2026-10-27",
+    "liste": [
+      {
+        "note": 1,
+        "texte": "Grâce à Jacky, je sais maintenant que les pistes cyclables sont en réalité des voies réservées pour les camions parce que « moi je bosse » (à prononcer d’un air désagréable) ! Merci Jacky",
+        "langue": "fr",
+        "date": "2026-09-24",
+        "auteur": "Angelina Prime",
+        "auteur_lien": "https://www.google.com/maps/contrib/111685404768394673248/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2tnNFpVdEhlV2RJU0VSVFRrOTViMFU0WXpKRldWRRAB!2m1!1s0x47fd962212918d95:0x28a31eadf2d6738e"
+      },
+      {
+        "note": 5,
+        "texte": "Boite en carton avec un directeur d'agence tout le temps dans son bureau.ne répond jamais au téléphone",
+        "langue": "fr",
+        "date": "2026-06-04",
+        "auteur": "Byu Tre",
+        "auteur_lien": "https://www.google.com/maps/contrib/108844976117027518715/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT21oVGEzSkRaRlJ4TjB4TmEzcEtTSEpYYTBWM2FWRRAB!2m1!1s0x47fd962212918d95:0x28a31eadf2d6738e"
+      },
+      {
+        "note": 1,
+        "texte": "Merci au camion numéro 1313, pour la queue de poisson. Double à plus de 90km/h sur une voie à 90 et manque d'embarquer ma voiture vers Doué-la-Fontaine à 6h20, en se rabattant. Heureusement que j'ai freiné.",
+        "langue": "fr",
+        "date": "2026-01-15",
+        "auteur": "Melanie Leblanc",
+        "auteur_lien": "https://www.google.com/maps/contrib/105905287721225049113/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT21GQlFsRmtTbW94WlVWWFFqZHFObHBqTFhOWFpIYxAB!2m1!1s0x47fd962212918d95:0x28a31eadf2d6738e"
+      },
+      {
+        "note": 1,
+        "texte": "Camion qui se permet en ville de zigzaguer sur plusieurs voie, avec passage pieton, face a une école, une boulangerie... Et qui fait des doigts d'honneurs aux autres usagers de la route.\nGH-881-WC\n848\nSaint-Maixent-l'École 09h00",
+        "langue": "fr",
+        "date": "2025-12-18",
+        "auteur": "Ike Archaimbault",
+        "auteur_lien": "https://www.google.com/maps/contrib/109099162888456188189/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25SblVHVlNVemxwUWtSc01rdGZWbFZOVmpCSFQzYxAB!2m1!1s0x47fd962212918d95:0x28a31eadf2d6738e"
+      },
+      {
+        "note": 1,
+        "texte": "Camion Immat EQ789ZH le 23/07 stationné en plein milieu d'un parking a Buxerolles empêchant toutes les voitures de partir et nous demandant \"simplement\" avec 2 autres personnes d attendre 25 minutes… j ai tel la police qui ne sont pas arrivés a temps, la prochaine fois c est plainte. J ai du appeler le centre aéré pour gérer mes enfants, je vous envoie ou la facture du centre ? C est la troisième fois , ca suffit !!!!",
+        "langue": "fr",
+        "date": "2025-07-23",
+        "auteur": "Matthieu B",
+        "auteur_lien": "https://www.google.com/maps/contrib/102908603342726692447/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25wNVExTkZibkppZVVzdGJGTllUVlZzVFU1SVIyYxAB!2m1!1s0x47fd962212918d95:0x28a31eadf2d6738e"
+      }
+    ]
+  },
+  "services": {
+    "releve": "2026-10-27",
+    "options": {
+      "restroom": true
+    },
+    "paiement": [],
+    "parking": []
   }
 }

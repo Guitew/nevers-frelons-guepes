@@ -1,0 +1,297 @@
+{
+  "id": "ChIJtZySSHRL6EcRd0O_nH8fPHQ",
+  "slug": "bar-de-la-neuville",
+  "nom": "Bar de la Neuville",
+  "categorie": "cafes-bars",
+  "categorie_gmb": "Bar",
+  "type_principal": "bar",
+  "types": [
+    "bar",
+    "point_of_interest",
+    "establishment"
+  ],
+  "ville": "Laon",
+  "ville_slug": "laon",
+  "adresse": {
+    "rue": "28 Rue Gabriel Péri",
+    "code_postal": "02000",
+    "departement": "02",
+    "region": "Hauts-de-France",
+    "pays": "France",
+    "complete": "28 Rue Gabriel Péri, 02000 Laon"
+  },
+  "telephone": "03 23 29 54 20",
+  "geo": {
+    "latitude": 49.5705349,
+    "longitude": 3.5983416000000004
+  },
+  "note": 4.2,
+  "avis": 145,
+  "horaires": [
+    {
+      "jour": 0,
+      "ferme": false,
+      "creneaux": [
+        [
+          "06:45",
+          "19:00"
+        ]
+      ]
+    },
+    {
+      "jour": 1,
+      "ferme": false,
+      "creneaux": [
+        [
+          "06:45",
+          "19:00"
+        ]
+      ]
+    },
+    {
+      "jour": 2,
+      "ferme": false,
+      "creneaux": [
+        [
+          "06:45",
+          "19:00"
+        ]
+      ]
+    },
+    {
+      "jour": 3,
+      "ferme": false,
+      "creneaux": [
+        [
+          "06:45",
+          "19:00"
+        ]
+      ]
+    },
+    {
+      "jour": 4,
+      "ferme": false,
+      "creneaux": [
+        [
+          "06:45",
+          "19:00"
+        ]
+      ]
+    },
+    {
+      "jour": 5,
+      "ferme": false,
+      "creneaux": [
+        [
+          "08:00",
+          "19:00"
+        ]
+      ]
+    },
+    {
+      "jour": 6,
+      "ferme": false,
+      "creneaux": [
+        [
+          "08:00",
+          "14:00"
+        ]
+      ]
+    }
+  ],
+  "attributs": [],
+  "lien_google": "https://maps.google.com/?cid=8375604039953367927&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
+  "site_web_gmb": null,
+  "statut": "publiee",
+  "backlink": {
+    "etat": "absent",
+    "premiere_detection": null,
+    "derniere_detection": null,
+    "derniere_verification": "2026-10-27T10:29:22.553Z",
+    "echecs": 1,
+    "url_detectee": null
+  },
+  "suggestion": {
+    "etat": "en-attente",
+    "date_soumission": null,
+    "tentatives": 0,
+    "date_email": "2026-10-27"
+  },
+  "retrait": null,
+  "dates": {
+    "collecte": "2026-10-27",
+    "publication": "2026-10-27",
+    "maj": "2026-10-27"
+  },
+  "source": "google-places",
+  "avis_detail": {
+    "releve": "2026-10-27",
+    "liste": [
+      {
+        "note": 5,
+        "texte": "Bonjour , étant la patronne du Bar de la Neuville je tiens à préciser qu’un Banco d’un gain de 50€ n’existe pas pour commencer!!!! Ensuite vous m’avez appeler sur le fixe pour m’en faire part je vous est donc demandé de venir me le ramener mais vous n’êtes jamais venu!!! Certainement car vous vous êtes rendu compte de votre erreur !!! Nous ne sommes pas comme ça, mettre le même commentaire avec 2 noms différent complètement ridicule !! Cordialement",
+        "langue": "fr",
+        "date": "2026-03-09",
+        "auteur": "Doriane René",
+        "auteur_lien": "https://www.google.com/maps/contrib/114123375529214112169/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2pWVVRFVXdkVlpxTUhvMWJtNURhRUl4TjBNMlRIYxAB!2m1!1s0x47e84b7448929cb5:0x743c1f7f9cbf4377"
+      },
+      {
+        "note": 5,
+        "texte": "On y retrouve les copains autour d un café. Avec Jérôme on refait le match.\nMoment très convivial.",
+        "langue": "fr",
+        "date": "2025-12-28",
+        "auteur": "Gerard Lathiere",
+        "auteur_lien": "https://www.google.com/maps/contrib/108739691709368991421/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2psMExVbzNNMmhvVDFGWWEybFBjbFZKVXkxTE0wRRAB!2m1!1s0x47e84b7448929cb5:0x743c1f7f9cbf4377"
+      },
+      {
+        "note": 1,
+        "texte": "Merci au buraliste d'avoir arnaqué ma mère ce jour avec un banco à 50 euros  Ca fait plaisir en temps de fête 😥",
+        "langue": "fr",
+        "date": "2025-12-24",
+        "auteur": "Calie Claire",
+        "auteur_lien": "https://www.google.com/maps/contrib/101435752891685959014/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2s0M1FrWndhblF0TVU5VlZWUlhZVFZsTkVoVVEyYxAB!2m1!1s0x47e84b7448929cb5:0x743c1f7f9cbf4377"
+      },
+      {
+        "note": 3,
+        "texte": "Madame, Monsieur, Bonjour,\n\nJe vous adresse cet avis Google, non pas vous jugé en mal votre commerce que je ne connais pas vu que je ne suis pas de la région mais pour le service de relais colis par Mondial relay que vous proposez.\n\nEn effet, j'ai envoyé un colis à votre adresse qui vous a été livré en ce jour du Vendredi 20 Décembre 2024 mais n'a pas été donné à la bonne personne !\n\nLe colis a été donné par vos soins à la sœur de la destinataire du colis en question... fort heureusement, plus de peur que de mal, le colis à été rendu à la destinataire et je remercie la sœur de mon amie de lui avoir rendu son colis.\n\nAinsi, je vous adresse cet avis afin que vous soyez vigilant sur la distribution des colis qui vous sont adresser.\n\nBien que ces deux jeunes femmes ont le même nom de famille, il faut impérativement prendre en considération, le code de délivrance du colis !\n\nBien cordialement\nMr Debaud Grégory",
+        "langue": "fr",
+        "date": "2024-12-20",
+        "auteur": "grégory debaud",
+        "auteur_lien": "https://www.google.com/maps/contrib/115260491257041053936/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUR2anZMNURBEAE!2m1!1s0x47e84b7448929cb5:0x743c1f7f9cbf4377"
+      },
+      {
+        "note": 4,
+        "texte": "J'accompagnais une amie qui m'a donc fait connaitre cet établissement commercial. C'était donc  la première fois pour moi,pas pour mon amie dont j'ai constaté qu'elle était connue,estimée ...par les tenanciers...\nSon papa fréquente régulièrement ce commerce...\nSincèrement ,je suis très satisfait par l'accueil, le service.\nJ'y retournerais bien volontiers, sans appréhension .\nBien cordialement",
+        "langue": "fr",
+        "date": "2023-04-30",
+        "auteur": "Henri Dewispelaere",
+        "auteur_lien": "https://www.google.com/maps/contrib/107948628183641812674/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSURSNVkzX1J3EAE!2m1!1s0x47e84b7448929cb5:0x743c1f7f9cbf4377"
+      }
+    ]
+  },
+  "services": {
+    "releve": "2026-10-27",
+    "prix": "PRICE_LEVEL_INEXPENSIVE",
+    "options": {
+      "takeout": false,
+      "delivery": false,
+      "reservable": false,
+      "servesBeer": true,
+      "servesWine": true,
+      "servesCocktails": true,
+      "goodForChildren": false,
+      "goodForGroups": true,
+      "goodForWatchingSports": true,
+      "liveMusic": false,
+      "allowsDogs": true,
+      "restroom": true
+    },
+    "paiement": [
+      "carte bancaire",
+      "carte de débit",
+      "paiement sans contact"
+    ],
+    "parking": [
+      "parking gratuit",
+      "stationnement gratuit dans la rue"
+    ]
+  },
+  "redaction": {
+    "version": 2,
+    "titre": "Bar de la Neuville — Café ou bar à Laon",
+    "meta_titre": "Bar de la Neuville à Laon : horaires, avis, téléphone",
+    "meta_description": "Bar de la Neuville, café ou bar à Laon : horaires d'ouverture, note Google 4,2/5 (145 avis), téléphone, adresse et itinéraire.",
+    "chapo": "Bar de la Neuville est un café ou bar au 28 Rue Gabriel Péri, à Laon. Ouvert sept jours sur sept au relevé du 27 octobre 2026. Téléphone : 03 23 29 54 20. Note Google : 4,2 sur 5 pour 145 avis.",
+    "sections": [
+      {
+        "id": "presentation",
+        "titre": "Bar de la Neuville en quelques mots",
+        "paragraphes": [
+          "Sur Google, l'établissement est classé « Bar », dans notre rubrique Café ou bar.",
+          "Niveau de prix indiqué sur la fiche Google : € (bon marché).",
+          "D'après le relevé du 27 octobre 2026, l'établissement est ouvert sept jours sur sept. Le détail jour par jour figure plus bas."
+        ]
+      },
+      {
+        "id": "prestations",
+        "titre": "Services et équipements de Bar de la Neuville",
+        "paragraphes": [
+          "Proposé : bière, vin, cocktails, adapté aux groupes, retransmissions sportives, chiens acceptés et toilettes.",
+          "Non proposé selon la fiche Google : à emporter, livraison, réservation possible, adapté aux enfants et musique live.",
+          "Moyens de paiement déclarés : carte bancaire, carte de débit et paiement sans contact.",
+          "Stationnement : parking gratuit et stationnement gratuit dans la rue.",
+          "Ces indications sont déclarées par l'établissement sur sa fiche Google (relevé du 27 octobre 2026)."
+        ]
+      },
+      {
+        "id": "acces",
+        "titre": "Adresse et accès",
+        "paragraphes": [
+          "L'établissement est situé au 28 Rue Gabriel Péri, 02000 Laon.",
+          "Coordonnées GPS : 49.57053, 3.59834. Le bouton Itinéraire de cette page ouvre la navigation."
+        ]
+      },
+      {
+        "id": "contact",
+        "titre": "Contacter Bar de la Neuville",
+        "paragraphes": [
+          "Le contact se fait par téléphone au 03 23 29 54 20, ou directement sur place aux horaires d'ouverture."
+        ]
+      },
+      {
+        "id": "avis",
+        "titre": "La réputation de Bar de la Neuville",
+        "paragraphes": [
+          "Note de 4,2 sur 5 pour 145 avis Google au relevé du 27 octobre 2026. Les avis les plus parlants sont compilés ci-dessous, avec un lien vers la fiche d'origine."
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "q": "Quels sont les horaires de Bar de la Neuville ?",
+        "r": "Au relevé du 27 octobre 2026, Bar de la Neuville était ouvert sept jours sur sept. Dans le détail — lundi : de 6 h 45 à 19 h ; mardi : de 6 h 45 à 19 h ; mercredi : de 6 h 45 à 19 h ; jeudi : de 6 h 45 à 19 h ; vendredi : de 6 h 45 à 19 h ; samedi : de 8 h à 19 h ; dimanche : de 8 h à 14 h. Ces horaires peuvent changer : un appel préalable reste conseillé."
+      },
+      {
+        "q": "Bar de la Neuville est-il ouvert le dimanche ?",
+        "r": "Oui : le dimanche, Bar de la Neuville est ouvert de 8 h à 14 h (horaires relevés le 27 octobre 2026)."
+      },
+      {
+        "q": "Où se trouve Bar de la Neuville ?",
+        "r": "Bar de la Neuville se trouve 28 Rue Gabriel Péri, 02000 Laon. Un lien d'itinéraire est disponible sur cette page."
+      },
+      {
+        "q": "Comment contacter Bar de la Neuville ?",
+        "r": "Par téléphone au 03 23 29 54 20, ou directement sur place aux heures d'ouverture."
+      },
+      {
+        "q": "Peut-on réserver chez Bar de la Neuville ?",
+        "r": "La fiche Google de Bar de la Neuville indique que la réservation n'est pas proposée."
+      },
+      {
+        "q": "Bar de la Neuville propose-t-il la vente à emporter ou la livraison ?",
+        "r": "D'après sa fiche Google (relevé du 27 octobre 2026) — vente à emporter : non ; livraison : non."
+      },
+      {
+        "q": "Quel est le niveau de prix de Bar de la Neuville ?",
+        "r": "Google classe Bar de la Neuville au niveau de prix € (bon marché), sur une échelle de € à €€€€ établie à partir des avis clients."
+      }
+    ],
+    "genere_le": "2026-10-27"
+  },
+  "statut_google": "OPERATIONAL",
+  "audience": {
+    "clics": 0,
+    "impressions": 0,
+    "position": null,
+    "fenetreJours": 90,
+    "clicsRecents": 0,
+    "fenetreRecenteJours": 28,
+    "source": "search-console",
+    "date": "2026-10-27"
+  }
+}

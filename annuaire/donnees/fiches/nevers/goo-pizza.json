@@ -28,7 +28,7 @@
     "longitude": 3.1617216
   },
   "note": 4.9,
-  "avis": 143,
+  "avis": 148,
   "horaires": [
     {
       "jour": 0,
@@ -128,8 +128,8 @@
     "etat": "absent",
     "premiere_detection": null,
     "derniere_detection": null,
-    "derniere_verification": "2026-10-12T19:47:22.869Z",
-    "echecs": 72,
+    "derniere_verification": "2026-10-27T10:29:22.553Z",
+    "echecs": 73,
     "url_detectee": null
   },
   "retrait": {
@@ -141,22 +141,34 @@
   "dates": {
     "collecte": "2026-08-30",
     "publication": "2026-08-30",
-    "maj": "2026-10-19"
+    "maj": "2026-10-27"
   },
   "source": "google-places",
   "redaction": {
     "version": 2,
     "titre": "Goo Pizza — Restaurant à Nevers",
     "meta_titre": "Goo Pizza à Nevers : horaires, avis, téléphone",
-    "meta_description": "Goo Pizza, restaurant à Nevers : horaires d'ouverture, note Google 4,9/5 (143 avis), téléphone, adresse et itinéraire.",
-    "chapo": "Goo Pizza exerce l'activité de restaurant au 19 Rue François Mitterrand, à Nevers. Ouvert tous les jours sauf le lundi au relevé du 18 octobre 2026. Téléphone : 09 87 57 12 33. Note Google : 4,9 sur 5 pour 143 avis.",
+    "meta_description": "Goo Pizza, restaurant à Nevers : horaires d'ouverture, note Google 4,9/5 (148 avis), téléphone, adresse et itinéraire.",
+    "chapo": "Goo Pizza exerce l'activité de restaurant au 19 Rue François Mitterrand, à Nevers. Ouvert tous les jours sauf le lundi au relevé du 27 octobre 2026. Téléphone : 09 87 57 12 33. Note Google : 4,9 sur 5 pour 148 avis.",
     "sections": [
       {
         "id": "presentation",
         "titre": "Goo Pizza en quelques mots",
         "paragraphes": [
           "Sur Google, l'établissement est classé « Pizzeria », dans notre rubrique Restaurant.",
-          "D'après le relevé du 18 octobre 2026, l'établissement est ouvert tous les jours sauf le lundi. Le détail jour par jour figure plus bas."
+          "Niveau de prix indiqué sur la fiche Google : €€ (modéré).",
+          "D'après le relevé du 27 octobre 2026, l'établissement est ouvert tous les jours sauf le lundi. Le détail jour par jour figure plus bas."
+        ]
+      },
+      {
+        "id": "prestations",
+        "titre": "Services et équipements de Goo Pizza",
+        "paragraphes": [
+          "Proposé : sur place, à emporter, livraison et retrait en voiture.",
+          "Non proposé selon la fiche Google : brunch et musique live.",
+          "Moyens de paiement déclarés : carte bancaire et carte de débit.",
+          "Stationnement : parking gratuit et stationnement gratuit dans la rue.",
+          "Ces indications sont déclarées par l'établissement sur sa fiche Google (relevé du 27 octobre 2026)."
         ]
       },
       {
@@ -178,18 +190,18 @@
         "id": "avis",
         "titre": "La réputation de Goo Pizza",
         "paragraphes": [
-          "Note de 4,9 sur 5 pour 143 avis Google au relevé du 18 octobre 2026. Les avis se consultent sur la fiche Google, dont le lien figure sur cette page."
+          "Note de 4,9 sur 5 pour 148 avis Google au relevé du 27 octobre 2026. Les avis les plus parlants sont compilés ci-dessous, avec un lien vers la fiche d'origine."
         ]
       }
     ],
     "faq": [
       {
         "q": "Quels sont les horaires de Goo Pizza ?",
-        "r": "Au relevé du 18 octobre 2026, Goo Pizza était ouvert tous les jours sauf le lundi. Dans le détail — lundi : fermé ; mardi : de 11 h 30 à 14 h et de 17 h 30 à 23 h ; mercredi : de 11 h 30 à 14 h et de 17 h 30 à 23 h ; jeudi : de 11 h 30 à 14 h et de 17 h 30 à 23 h ; vendredi : de 11 h 30 à 14 h et de 17 h 30 à 23 h ; samedi : de 11 h 30 à 14 h et de 17 h 30 à 23 h ; dimanche : de 11 h 30 à 14 h et de 17 h 30 à 23 h. Ces horaires peuvent changer : un appel préalable reste conseillé."
+        "r": "Au relevé du 27 octobre 2026, Goo Pizza était ouvert tous les jours sauf le lundi. Dans le détail — lundi : fermé ; mardi : de 11 h 30 à 14 h et de 17 h 30 à 23 h ; mercredi : de 11 h 30 à 14 h et de 17 h 30 à 23 h ; jeudi : de 11 h 30 à 14 h et de 17 h 30 à 23 h ; vendredi : de 11 h 30 à 14 h et de 17 h 30 à 23 h ; samedi : de 11 h 30 à 14 h et de 17 h 30 à 23 h ; dimanche : de 11 h 30 à 14 h et de 17 h 30 à 23 h. Ces horaires peuvent changer : un appel préalable reste conseillé."
       },
       {
         "q": "Goo Pizza est-il ouvert le dimanche ?",
-        "r": "Oui : le dimanche, Goo Pizza est ouvert de 11 h 30 à 14 h et de 17 h 30 à 23 h (horaires relevés le 18 octobre 2026)."
+        "r": "Oui : le dimanche, Goo Pizza est ouvert de 11 h 30 à 14 h et de 17 h 30 à 23 h (horaires relevés le 27 octobre 2026)."
       },
       {
         "q": "Où se trouve Goo Pizza ?",
@@ -198,9 +210,17 @@
       {
         "q": "Comment contacter Goo Pizza ?",
         "r": "Par téléphone au 09 87 57 12 33, ou directement sur place aux heures d'ouverture."
+      },
+      {
+        "q": "Goo Pizza propose-t-il la vente à emporter ou la livraison ?",
+        "r": "D'après sa fiche Google (relevé du 27 octobre 2026) — vente à emporter : oui ; livraison : oui."
+      },
+      {
+        "q": "Quel est le niveau de prix de Goo Pizza ?",
+        "r": "Google classe Goo Pizza au niveau de prix €€ (modéré), sur une échelle de € à €€€€ établie à partir des avis clients."
       }
     ],
-    "genere_le": "2026-10-18"
+    "genere_le": "2026-10-27"
   },
   "suggestion": {
     "etat": "soumise",
@@ -216,7 +236,7 @@
     "clicsRecents": 0,
     "fenetreRecenteJours": 28,
     "source": "search-console",
-    "date": "2026-10-26"
+    "date": "2026-10-27"
   },
   "indexation": {
     "etat": "non-indexee",
@@ -226,5 +246,75 @@
     "canonique_google": null,
     "source": "inspection",
     "date": "2026-10-19"
+  },
+  "avis_detail": {
+    "releve": "2026-10-27",
+    "liste": [
+      {
+        "note": 5,
+        "texte": "Très bonne expérience ! 🍔 Service rapide, équipe agréable et plats délicieux. Une adresse que je recommande sans hésiter !",
+        "langue": "fr",
+        "date": "2026-09-19",
+        "auteur": "hyh dy98",
+        "auteur_lien": "https://www.google.com/maps/contrib/111096308018468357575/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25OTk1ERlBUV3h5Y1d4SlFWaEJiemR6U1ZZMU1XYxAB!2m1!1s0x47f04f356a97a31b:0x1855c675b291cb48"
+      },
+      {
+        "note": 5,
+        "texte": "Excellent repas en famille\nÉquipe sympathique et restaurant très propre 🙏🙏\nJe recommande fortement",
+        "langue": "fr",
+        "date": "2026-09-05",
+        "auteur": "Mohamed Akkar",
+        "auteur_lien": "https://www.google.com/maps/contrib/102102879115884963193/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xaRE0yNWZWV2xVYm1sUGRWSm1XRXR5YlROd09GRRAB!2m1!1s0x47f04f356a97a31b:0x1855c675b291cb48"
+      },
+      {
+        "note": 5,
+        "texte": "Je me suis sommes allés un jeudi soir, il y avait très peu de monde, nous avons été très étonné des pizzas. Elles étaient vraiment très bonnes, je recommande si vous êtes de passage à Nevers partager un moment avec vos amis sur place ou à emporter c’est le top. Les pizzas sont plus que bonnes pour le prix !! Le jeune et ses parents (j’imagine) étaient vraiment très gentil !!",
+        "langue": "fr",
+        "date": "2026-07-17",
+        "auteur": "Rafaël (Rafaël)",
+        "auteur_lien": "https://www.google.com/maps/contrib/105641890819024961544/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2s1bVRFNUtTMFZpVG5oZlpVZERjREppVEhKVU9IYxAB!2m1!1s0x47f04f356a97a31b:0x1855c675b291cb48"
+      },
+      {
+        "note": 5,
+        "texte": "J’ai récemment mangé dans cette pizzeria et l’expérience a été excellente du début à la fin. Les plats étaient tout simplement délicieuses. Des ingrédients frais qui font vraiment la différence. Chaque bouchée était savoureuse et bien équilibrée.\nAu-delà du goût, j’ai été particulièrement impressionné par la propreté du lieu. La salle était impeccable, les tables bien entretenues, et on sent que l’hygiène est une vraie priorité, ce qui est très rassurant.\nLe service était également très agréable et efficace, avec une équipe accueillante et attentive. C’est clairement un endroit où je reviendrai avec plaisir et que je recommande sans hésitation à tous!!",
+        "langue": "fr",
+        "date": "2026-04-26",
+        "auteur": "Diana Muratov",
+        "auteur_lien": "https://www.google.com/maps/contrib/108055688245571265335/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2pWa2VWTm9UVUZRUWtoc1QzSm5kSEZVUXpGeWMyYxAB!2m1!1s0x47f04f356a97a31b:0x1855c675b291cb48"
+      },
+      {
+        "note": 5,
+        "texte": "J’ai mangé plusieurs fois chez vous et je n’ai jamais été déçu, c’est top . Bravo 🍾🎉🎊",
+        "langue": "fr",
+        "date": "2026-02-13",
+        "auteur": "Nguyen Hong",
+        "auteur_lien": "https://www.google.com/maps/contrib/116029180096032361375/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT210clFUSlNaRzVsWXpaMFVGUmpMVWR2T1dsZmQzYxAB!2m1!1s0x47f04f356a97a31b:0x1855c675b291cb48"
+      }
+    ]
+  },
+  "services": {
+    "releve": "2026-10-27",
+    "prix": "PRICE_LEVEL_MODERATE",
+    "options": {
+      "dineIn": true,
+      "takeout": true,
+      "delivery": true,
+      "curbsidePickup": true,
+      "servesBrunch": false,
+      "liveMusic": false
+    },
+    "paiement": [
+      "carte bancaire",
+      "carte de débit"
+    ],
+    "parking": [
+      "parking gratuit",
+      "stationnement gratuit dans la rue"
+    ]
   }
 }

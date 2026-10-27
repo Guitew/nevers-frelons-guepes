@@ -114,15 +114,15 @@
   },
   "suggestion": {
     "etat": "soumise",
-    "date_soumission": "2026-10-18",
-    "tentatives": 1,
+    "date_soumission": "2026-10-27",
+    "tentatives": 2,
     "date_email": "2026-10-18"
   },
   "retrait": null,
   "dates": {
     "collecte": "2026-10-18",
     "publication": "2026-10-18",
-    "maj": "2026-10-18"
+    "maj": "2026-10-27"
   },
   "source": "google-places",
   "redaction": {
@@ -190,12 +190,12 @@
   "statut_google": "OPERATIONAL",
   "audience": {
     "clics": 0,
-    "impressions": 17,
-    "position": 7.6,
+    "impressions": 19,
+    "position": 7.9,
     "fenetreJours": 90,
     "clicsRecents": 0,
     "fenetreRecenteJours": 28,
     "source": "search-console",
-    "date": "2026-10-26"
+    "date": "2026-10-27"
   }
 }

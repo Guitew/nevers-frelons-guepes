@@ -132,8 +132,8 @@
     "etat": "absent",
     "premiere_detection": null,
     "derniere_detection": null,
-    "derniere_verification": "2026-10-11T11:22:19.539Z",
-    "echecs": 66,
+    "derniere_verification": "2026-10-27T10:29:22.553Z",
+    "echecs": 67,
     "url_detectee": null
   },
   "suggestion": {
@@ -151,7 +151,7 @@
   "dates": {
     "collecte": "2026-09-04",
     "publication": "2026-09-04",
-    "maj": "2026-10-19"
+    "maj": "2026-10-27"
   },
   "source": "google-places",
   "redaction": {
@@ -159,14 +159,22 @@
     "titre": "Ford | Vesoul - Groupe Elypse Autos — Garage et automobile à Vesoul",
     "meta_titre": "Ford | Vesoul - Groupe Elypse Autos à Vesoul",
     "meta_description": "Ford | Vesoul - Groupe Elypse Autos, garage et automobile à Vesoul : horaires d'ouverture, note Google 4/5 (297 avis), téléphone, adresse et itinéraire.",
-    "chapo": "Cette fiche présente Ford | Vesoul - Groupe Elypse Autos, un garage et automobile au Route de Paris, à Vesoul. Ouvert tous les jours sauf le dimanche au relevé du 11 octobre 2026. Téléphone : 03 84 97 11 11. Note Google : 4 sur 5 pour 297 avis.",
+    "chapo": "Cette fiche présente Ford | Vesoul - Groupe Elypse Autos, un garage et automobile au Route de Paris, à Vesoul. Ouvert tous les jours sauf le dimanche au relevé du 27 octobre 2026. Téléphone : 03 84 97 11 11. Note Google : 4 sur 5 pour 297 avis.",
     "sections": [
       {
         "id": "presentation",
         "titre": "Ford | Vesoul - Groupe Elypse Autos en quelques mots",
         "paragraphes": [
           "Sur Google, l'établissement est classé « Concessionnaire automobile », dans notre rubrique Garage et automobile.",
-          "D'après le relevé du 11 octobre 2026, l'établissement est ouvert tous les jours sauf le dimanche. Le détail jour par jour figure plus bas."
+          "D'après le relevé du 27 octobre 2026, l'établissement est ouvert tous les jours sauf le dimanche. Le détail jour par jour figure plus bas."
+        ]
+      },
+      {
+        "id": "prestations",
+        "titre": "Services et équipements de Ford | Vesoul - Groupe Elypse Autos",
+        "paragraphes": [
+          "Moyens de paiement déclarés : carte bancaire, carte de débit et paiement sans contact.",
+          "Ces indications sont déclarées par l'établissement sur sa fiche Google (relevé du 27 octobre 2026)."
         ]
       },
       {
@@ -188,18 +196,18 @@
         "id": "avis",
         "titre": "La réputation de Ford | Vesoul - Groupe Elypse Autos",
         "paragraphes": [
-          "Note de 4 sur 5 pour 297 avis Google au relevé du 11 octobre 2026. Les avis se consultent sur la fiche Google, dont le lien figure sur cette page."
+          "Note de 4 sur 5 pour 297 avis Google au relevé du 27 octobre 2026. Les avis les plus parlants sont compilés ci-dessous, avec un lien vers la fiche d'origine."
         ]
       }
     ],
     "faq": [
       {
         "q": "Quels sont les horaires de Ford | Vesoul - Groupe Elypse Autos ?",
-        "r": "Au relevé du 11 octobre 2026, Ford | Vesoul - Groupe Elypse Autos était ouvert tous les jours sauf le dimanche. Dans le détail — lundi : de 8 h à 12 h et de 13 h 30 à 19 h ; mardi : de 8 h à 12 h et de 13 h 30 à 19 h ; mercredi : de 8 h à 12 h et de 13 h 30 à 19 h ; jeudi : de 8 h à 12 h et de 13 h 30 à 19 h ; vendredi : de 8 h à 12 h et de 13 h 30 à 19 h ; samedi : de 9 h à 12 h et de 14 h à 18 h ; dimanche : fermé. Ces horaires peuvent changer : un appel préalable reste conseillé."
+        "r": "Au relevé du 27 octobre 2026, Ford | Vesoul - Groupe Elypse Autos était ouvert tous les jours sauf le dimanche. Dans le détail — lundi : de 8 h à 12 h et de 13 h 30 à 19 h ; mardi : de 8 h à 12 h et de 13 h 30 à 19 h ; mercredi : de 8 h à 12 h et de 13 h 30 à 19 h ; jeudi : de 8 h à 12 h et de 13 h 30 à 19 h ; vendredi : de 8 h à 12 h et de 13 h 30 à 19 h ; samedi : de 9 h à 12 h et de 14 h à 18 h ; dimanche : fermé. Ces horaires peuvent changer : un appel préalable reste conseillé."
       },
       {
         "q": "Ford | Vesoul - Groupe Elypse Autos est-il ouvert le dimanche ?",
-        "r": "Non : d'après les horaires relevés le 11 octobre 2026, Ford | Vesoul - Groupe Elypse Autos est fermé le dimanche."
+        "r": "Non : d'après les horaires relevés le 27 octobre 2026, Ford | Vesoul - Groupe Elypse Autos est fermé le dimanche."
       },
       {
         "q": "Où se trouve Ford | Vesoul - Groupe Elypse Autos ?",
@@ -214,7 +222,7 @@
         "r": "La fiche Google de l'établissement mentionne : « Entrée accessible en fauteuil roulant ». Cette information est déclarative ; en cas de doute, vérifiez par téléphone."
       }
     ],
-    "genere_le": "2026-10-11"
+    "genere_le": "2026-10-27"
   },
   "statut_google": "OPERATIONAL",
   "audience": {
@@ -225,7 +233,7 @@
     "clicsRecents": 0,
     "fenetreRecenteJours": 28,
     "source": "search-console",
-    "date": "2026-10-26"
+    "date": "2026-10-27"
   },
   "indexation": {
     "etat": "indexee",
@@ -235,5 +243,65 @@
     "canonique_google": null,
     "source": "impressions",
     "date": "2026-10-19"
+  },
+  "avis_detail": {
+    "releve": "2026-10-27",
+    "liste": [
+      {
+        "note": 5,
+        "texte": "Excellent accueil. Je remercie le service mécanique qui a fait un travail de grande qualité ! L'intérieur...impeccable !\nTrès satisfaite ! Merci !!",
+        "langue": "fr",
+        "date": "2026-07-10",
+        "auteur": "Josiane Lanier",
+        "auteur_lien": "https://www.google.com/maps/contrib/109513548858646667112/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2w5M1VpMWpURzlYWjBSU1JtSTFURE56TkZSSVRtYxAB!2m1!1s0x4792f2f132448fb1:0xf9e8d070cd8b2eb2"
+      },
+      {
+        "note": 1,
+        "texte": "Accueil exécrable avec des personnes hautaines qui se foutent royalement des clients, j'avais un problème sur une Ford en provenance des USA, de ce fait, ils ont tout simplement refusé de s'en occuper, j'ai dû traiter le problème avec Ford Besançon qui eux n'ont posé aucun soucis et m'ont réservé le meilleur accueil. Je me suis occupé de faire un signalement de la concession de Vesoul auprès de Ford France, un tel j'menfoutisme est inadmissible pour une telle marque.",
+        "langue": "fr",
+        "date": "2026-06-10",
+        "auteur": "Le voyageur Informateur",
+        "auteur_lien": "https://www.google.com/maps/contrib/114873235509678001493/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2psVVNWY3dZVVJLTWxrNVJHNDBjamcwUjBSdUxWRRAB!2m1!1s0x4792f2f132448fb1:0xf9e8d070cd8b2eb2"
+      },
+      {
+        "note": 1,
+        "texte": "Je m'arrête dans cette concession pour avoir des renseignements sur les Ford transit ce mardi 9 juin auprès de la personne qui s'occupe des occasions me dit il côté KIA. Il a été incapable de me donner les types de motorisation. Les modèles. Les équipements et même  pas une brochure. Et tout ça avec une non chalence déconcertante. Changez de métier si ça vous intéresse pas. Ben j'irai voir la concurrence tout simplement",
+        "langue": "fr",
+        "date": "2026-06-10",
+        "auteur": "didier willemin",
+        "auteur_lien": "https://www.google.com/maps/contrib/114234028740172165673/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2tka2EzSXlTRTVzUkZKNlJFNXVWSEZoVm5sM1lVRRAB!2m1!1s0x4792f2f132448fb1:0xf9e8d070cd8b2eb2"
+      },
+      {
+        "note": 5,
+        "texte": "Merci à Manon qui a su être à l’écoute et nous trouver la voiture la plus adaptée à nos besoins. Elles a fait preuve de professionnalisme et de réactivité, pour une fois que tout se passe bien sens avoir à se battre pour avoir quelque chose ça fait vraiment plaisir. Je recommande à 100%, je suis ravie de ma nouvelle voiture  et du service 😊",
+        "langue": "fr",
+        "date": "2026-04-27",
+        "auteur": "solene qls",
+        "auteur_lien": "https://www.google.com/maps/contrib/113886205462815483418/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25GSVZrUmhTSHBvU0daQ2RqSk5ObE5pZWxOMVlrRRAB!2m1!1s0x4792f2f132448fb1:0xf9e8d070cd8b2eb2"
+      },
+      {
+        "note": 1,
+        "texte": "Un garage qui fait honte à la profession par son manque de professionnalisme. Plus jamais je n'envisagerai d'acheter de véhicule ni neuf, ni d'occasion dans cette concession qui n'a qu'un mot en bouche : \"les procédures\"",
+        "langue": "fr",
+        "date": "2026-04-11",
+        "auteur": "Franck DEMARS",
+        "auteur_lien": "https://www.google.com/maps/contrib/106376357207939703184/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT21jdFpsbENTa3gxT0hKVVlsaGZabWhLUkZWcVdGRRAB!2m1!1s0x4792f2f132448fb1:0xf9e8d070cd8b2eb2"
+      }
+    ]
+  },
+  "services": {
+    "releve": "2026-10-27",
+    "options": {},
+    "paiement": [
+      "carte bancaire",
+      "carte de débit",
+      "paiement sans contact"
+    ],
+    "parking": []
   }
 }

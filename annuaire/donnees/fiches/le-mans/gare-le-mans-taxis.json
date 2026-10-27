@@ -38,8 +38,8 @@
     "etat": "absent",
     "premiere_detection": null,
     "derniere_detection": null,
-    "derniere_verification": "2026-10-12T19:47:22.869Z",
-    "echecs": 6,
+    "derniere_verification": "2026-10-27T10:29:22.553Z",
+    "echecs": 7,
     "url_detectee": null
   },
   "suggestion": {
@@ -59,7 +59,7 @@
   "dates": {
     "collecte": "2026-10-05",
     "publication": "2026-10-05",
-    "maj": "2026-10-18"
+    "maj": "2026-10-27"
   },
   "source": "google-places",
   "redaction": {
@@ -74,6 +74,14 @@
         "titre": "Gare le Mans Taxis en quelques mots",
         "paragraphes": [
           "Sur Google, l'établissement est classé « Service de taxi », dans notre rubrique Transport et déménagement."
+        ]
+      },
+      {
+        "id": "prestations",
+        "titre": "Services et équipements de Gare le Mans Taxis",
+        "paragraphes": [
+          "Proposé : toilettes.",
+          "Ces indications sont déclarées par l'établissement sur sa fiche Google (relevé du 27 octobre 2026)."
         ]
       },
       {
@@ -95,7 +103,7 @@
         "id": "avis",
         "titre": "La réputation de Gare le Mans Taxis",
         "paragraphes": [
-          "Note de 4,6 sur 5 pour 16 avis Google au relevé du 12 octobre 2026. Les avis se consultent sur la fiche Google, dont le lien figure sur cette page."
+          "Note de 4,6 sur 5 pour 16 avis Google au relevé du 27 octobre 2026. Les avis les plus parlants sont compilés ci-dessous, avec un lien vers la fiche d'origine."
         ]
       }
     ],
@@ -109,7 +117,7 @@
         "r": "Par téléphone au 06 87 89 23 64, ou directement sur place aux heures d'ouverture."
       }
     ],
-    "genere_le": "2026-10-12"
+    "genere_le": "2026-10-27"
   },
   "statut_google": "OPERATIONAL",
   "audience": {
@@ -120,6 +128,64 @@
     "clicsRecents": 0,
     "fenetreRecenteJours": 28,
     "source": "search-console",
-    "date": "2026-10-26"
+    "date": "2026-10-27"
+  },
+  "avis_detail": {
+    "releve": "2026-10-27",
+    "liste": [
+      {
+        "note": 5,
+        "texte": "Très belle gare, esthétique aux proportions et couleurs agréables, orientation claire. Beaucoup d’autres gares devraient l’imiter.\nPour la 1ere fois je me suis senti à l’aise dans une gare. Elle a des proportions humaines.et s’insére agréablement dans le centre ville .",
+        "langue": "fr",
+        "date": "2025-11-18",
+        "auteur": "belair 75",
+        "auteur_lien": "https://www.google.com/maps/contrib/107907009910592668802/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2pWbVNHdHRZekJEWm5KMWRXdDRVbTlNVkhoVWFWRRAB!2m1!1s0x47e28fdc5030c449:0xf342ecbdb6a02acb"
+      },
+      {
+        "note": 5,
+        "texte": "Une chauffeuse de taxi exceptionnel ! Ponctuel, très aimable et toujours souriante. Le trajet a été agréable du début à la fin, la voiture est propre et confortable. Je recommande vivement cette personne pour son professionnalisme et sa gentillesse. Merci encore pour ce super moment !",
+        "langue": "fr",
+        "date": "2025-07-05",
+        "auteur": "fabien boulard",
+        "auteur_lien": "https://www.google.com/maps/contrib/113678434913355095419/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2pGcmFqaG9aV1owV1hOWVNVSmZTemh0U0dsYWIyYxAB!2m1!1s0x47e28fdc5030c449:0xf342ecbdb6a02acb"
+      },
+      {
+        "note": 5,
+        "texte": "Super trajet, agréable et bonne discussion. Arrivée à l’heure",
+        "langue": "fr",
+        "date": "2025-07-05",
+        "auteur": "Léa Nacfer",
+        "auteur_lien": "https://www.google.com/maps/contrib/111687266048489651330/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2paU05GUmpNelJVVDBWUlMzZzVUbEZxUlhZMVdYYxAB!2m1!1s0x47e28fdc5030c449:0xf342ecbdb6a02acb"
+      },
+      {
+        "note": 5,
+        "texte": "Bonne conductrice, ponctuelle et agréable, un bon échange durant le trajet, toujours souriante. Je recommande fortement cette conductrice !",
+        "langue": "fr",
+        "date": "2025-07-05",
+        "auteur": "Alyzee Arribart",
+        "auteur_lien": "https://www.google.com/maps/contrib/112845556833685928534/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25SaU9HWnFURWRoZUZGU2FXeEdSVlppUlhWdlJFRRAB!2m1!1s0x47e28fdc5030c449:0xf342ecbdb6a02acb"
+      },
+      {
+        "note": 5,
+        "texte": "Nous avons passé un agréable moment avec Cynthia , du dialogue et des discussions intéressantes sans oublier le principal une conduite agréable pour notre course sans embûche et en sécurité.\nMerci mademoiselle de votre service.",
+        "langue": "fr",
+        "date": "2025-07-04",
+        "auteur": "Hugues Pennarun",
+        "auteur_lien": "https://www.google.com/maps/contrib/101647846959442969354/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xGRldHaGlkMGxFYlhBNVUwOW5NMFZKUm1neGVGRRAB!2m1!1s0x47e28fdc5030c449:0xf342ecbdb6a02acb"
+      }
+    ]
+  },
+  "services": {
+    "releve": "2026-10-27",
+    "options": {
+      "restroom": true
+    },
+    "paiement": [],
+    "parking": []
   }
 }

@@ -1,0 +1,280 @@
+{
+  "id": "ChIJYWlgDvA33UcRM2_HO9-QnPo",
+  "slug": "federation-des-chasseurs-62",
+  "nom": "Federation Des Chasseurs 62",
+  "categorie": "loisirs-sport-culture",
+  "categorie_gmb": "Club de sport",
+  "type_principal": "sports_club",
+  "types": [
+    "sports_club",
+    "point_of_interest",
+    "association_or_organization",
+    "establishment"
+  ],
+  "ville": "Saint-Laurent-Blangy",
+  "ville_slug": "saint-laurent-blangy",
+  "adresse": {
+    "rue": "Rue Victor Gressier",
+    "code_postal": "62223",
+    "departement": "62",
+    "region": "Hauts-de-France",
+    "pays": "France",
+    "complete": "Rue Victor Gressier, 62223 Saint-Laurent-Blangy"
+  },
+  "telephone": "03 21 24 23 59",
+  "geo": {
+    "latitude": 50.2970963,
+    "longitude": 2.7975839
+  },
+  "note": 4.5,
+  "avis": 31,
+  "horaires": [
+    {
+      "jour": 0,
+      "ferme": false,
+      "creneaux": [
+        [
+          "08:30",
+          "12:00"
+        ],
+        [
+          "13:00",
+          "17:00"
+        ]
+      ]
+    },
+    {
+      "jour": 1,
+      "ferme": false,
+      "creneaux": [
+        [
+          "08:30",
+          "12:00"
+        ],
+        [
+          "13:00",
+          "17:00"
+        ]
+      ]
+    },
+    {
+      "jour": 2,
+      "ferme": false,
+      "creneaux": [
+        [
+          "08:30",
+          "12:00"
+        ],
+        [
+          "13:00",
+          "17:00"
+        ]
+      ]
+    },
+    {
+      "jour": 3,
+      "ferme": false,
+      "creneaux": [
+        [
+          "08:30",
+          "12:00"
+        ],
+        [
+          "13:00",
+          "17:00"
+        ]
+      ]
+    },
+    {
+      "jour": 4,
+      "ferme": false,
+      "creneaux": [
+        [
+          "08:30",
+          "12:00"
+        ],
+        [
+          "13:00",
+          "16:00"
+        ]
+      ]
+    },
+    {
+      "jour": 5,
+      "ferme": true,
+      "creneaux": []
+    },
+    {
+      "jour": 6,
+      "ferme": true,
+      "creneaux": []
+    }
+  ],
+  "attributs": [
+    "Entrée accessible en fauteuil roulant",
+    "Parking accessible en fauteuil roulant"
+  ],
+  "lien_google": "https://maps.google.com/?cid=18058467894303878963&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
+  "site_web_gmb": null,
+  "statut": "publiee",
+  "backlink": {
+    "etat": "absent",
+    "premiere_detection": null,
+    "derniere_detection": null,
+    "derniere_verification": "2026-10-27T10:29:22.553Z",
+    "echecs": 1,
+    "url_detectee": null
+  },
+  "suggestion": {
+    "etat": "en-attente",
+    "date_soumission": null,
+    "tentatives": 0,
+    "date_email": "2026-10-27"
+  },
+  "retrait": null,
+  "dates": {
+    "collecte": "2026-10-27",
+    "publication": "2026-10-27",
+    "maj": "2026-10-27"
+  },
+  "source": "google-places",
+  "avis_detail": {
+    "releve": "2026-10-27",
+    "liste": [
+      {
+        "note": 5,
+        "texte": "Super accueil téléphonique réponds aux questions demandées pour la première validation de la saison 2026/2027 équipe agréable et sympathique",
+        "langue": "fr",
+        "date": "2026-05-20",
+        "auteur": "Eric Dewinter",
+        "auteur_lien": "https://www.google.com/maps/contrib/109064665772688762996/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2paSU0xaEhTRFJTWW1nMFl6TnZSbUZJY21wR1gzYxAB!2m1!1s0x47dd37f00e606961:0xfa9c90df3bc76f33"
+      },
+      {
+        "note": 1,
+        "texte": "Personnel de la fédération de chasse totalement incompétents. Se permettent de déposer plainte contre un chasseur sans avoir au préalable vérifier la légalité de cette plainte ils ne savent même pas faire une simple recherche sur legouv.Com La personne en charge du pôle chasse devrait peut être faire une formation plus approfondie. Heureusement que la gendarmerie sait faire son travaille.",
+        "langue": "fr",
+        "date": "2025-12-05",
+        "auteur": "Louis Rivière",
+        "auteur_lien": "https://www.google.com/maps/contrib/116425441066817518247/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2pWaFYxWTFlRGsyZG5wb1YwUnBRVEJzTjFCdFNFRRAB!2m1!1s0x47dd37f00e606961:0xfa9c90df3bc76f33"
+      },
+      {
+        "note": 4,
+        "texte": "Très bonne accueil",
+        "langue": "fr",
+        "date": "2024-09-21",
+        "auteur": "quiquempois quiquempois",
+        "auteur_lien": "https://www.google.com/maps/contrib/118056838347743039885/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUNIaWNtUV9RRRAB!2m1!1s0x47dd37f00e606961:0xfa9c90df3bc76f33"
+      },
+      {
+        "note": 5,
+        "texte": "accueil chaleureux, personnel à l’écoute",
+        "langue": "fr",
+        "date": "2024-06-05",
+        "auteur": "Jérôme Spychala",
+        "auteur_lien": "https://www.google.com/maps/contrib/104699934264451013372/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUN6eTd6WFlBEAE!2m1!1s0x47dd37f00e606961:0xfa9c90df3bc76f33"
+      },
+      {
+        "note": 5,
+        "texte": "Une réactivité au top . Le personnel est poli et agréable.\nApres la perte de mon carnet becasse et un mail. J ai obtenu une réponse en moins de 10 min stipulant qu on s occuper de ma demande le jour même. moins de 2 jours plus tard j ai reçu mes documents demandés\nEncore merci.",
+        "langue": "fr",
+        "date": "2020-12-08",
+        "auteur": "Christophe Fenet",
+        "auteur_lien": "https://www.google.com/maps/contrib/110145589320496914768/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSURpNnVqZmxBRRAB!2m1!1s0x47dd37f00e606961:0xfa9c90df3bc76f33"
+      }
+    ]
+  },
+  "services": {
+    "releve": "2026-10-27",
+    "options": {
+      "restroom": true
+    },
+    "paiement": [],
+    "parking": []
+  },
+  "redaction": {
+    "version": 2,
+    "titre": "Federation Des Chasseurs 62 — Loisirs, sport et culture à Saint-Laurent-Blangy",
+    "meta_titre": "Federation Des Chasseurs 62 : horaires, avis, téléphone",
+    "meta_description": "Federation Des Chasseurs 62, loisirs, sport et culture à Saint-Laurent-Blangy : horaires d'ouverture, téléphone, adresse et itinéraire.",
+    "chapo": "Federation Des Chasseurs 62 exerce l'activité de loisirs, sport et culture au Rue Victor Gressier, à Saint-Laurent-Blangy. Fermé le samedi et le dimanche au relevé du 27 octobre 2026. Téléphone : 03 21 24 23 59. Note Google : 4,5 sur 5 pour 31 avis.",
+    "sections": [
+      {
+        "id": "presentation",
+        "titre": "Federation Des Chasseurs 62 en quelques mots",
+        "paragraphes": [
+          "Sur Google, l'établissement est classé « Club de sport », dans notre rubrique Loisirs, sport et culture.",
+          "D'après le relevé du 27 octobre 2026, l'établissement est fermé le samedi et le dimanche. Le détail jour par jour figure plus bas."
+        ]
+      },
+      {
+        "id": "prestations",
+        "titre": "Services et équipements de Federation Des Chasseurs 62",
+        "paragraphes": [
+          "Proposé : toilettes.",
+          "Ces indications sont déclarées par l'établissement sur sa fiche Google (relevé du 27 octobre 2026)."
+        ]
+      },
+      {
+        "id": "acces",
+        "titre": "Adresse et accès",
+        "paragraphes": [
+          "L'établissement est situé au Rue Victor Gressier, 62223 Saint-Laurent-Blangy.",
+          "Coordonnées GPS : 50.29710, 2.79758. Le bouton Itinéraire de cette page ouvre la navigation."
+        ]
+      },
+      {
+        "id": "contact",
+        "titre": "Contacter Federation Des Chasseurs 62",
+        "paragraphes": [
+          "Le contact se fait par téléphone au 03 21 24 23 59, ou directement sur place aux horaires d'ouverture."
+        ]
+      },
+      {
+        "id": "avis",
+        "titre": "La réputation de Federation Des Chasseurs 62",
+        "paragraphes": [
+          "Note de 4,5 sur 5 pour 31 avis Google au relevé du 27 octobre 2026. Les avis les plus parlants sont compilés ci-dessous, avec un lien vers la fiche d'origine."
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "q": "Quels sont les horaires de Federation Des Chasseurs 62 ?",
+        "r": "Au relevé du 27 octobre 2026, Federation Des Chasseurs 62 était fermé le samedi et le dimanche. Dans le détail — lundi : de 8 h 30 à 12 h et de 13 h à 17 h ; mardi : de 8 h 30 à 12 h et de 13 h à 17 h ; mercredi : de 8 h 30 à 12 h et de 13 h à 17 h ; jeudi : de 8 h 30 à 12 h et de 13 h à 17 h ; vendredi : de 8 h 30 à 12 h et de 13 h à 16 h ; samedi : fermé ; dimanche : fermé. Ces horaires peuvent changer : un appel préalable reste conseillé."
+      },
+      {
+        "q": "Federation Des Chasseurs 62 est-il ouvert le dimanche ?",
+        "r": "Non : d'après les horaires relevés le 27 octobre 2026, Federation Des Chasseurs 62 est fermé le dimanche."
+      },
+      {
+        "q": "Où se trouve Federation Des Chasseurs 62 ?",
+        "r": "Federation Des Chasseurs 62 se trouve Rue Victor Gressier, 62223 Saint-Laurent-Blangy. Un lien d'itinéraire est disponible sur cette page."
+      },
+      {
+        "q": "Comment contacter Federation Des Chasseurs 62 ?",
+        "r": "Par téléphone au 03 21 24 23 59, ou directement sur place aux heures d'ouverture."
+      },
+      {
+        "q": "Federation Des Chasseurs 62 est-il accessible aux personnes à mobilité réduite ?",
+        "r": "La fiche Google de l'établissement mentionne : « Entrée accessible en fauteuil roulant ». Cette information est déclarative ; en cas de doute, vérifiez par téléphone."
+      }
+    ],
+    "genere_le": "2026-10-27"
+  },
+  "statut_google": "OPERATIONAL",
+  "audience": {
+    "clics": 0,
+    "impressions": 0,
+    "position": null,
+    "fenetreJours": 90,
+    "clicsRecents": 0,
+    "fenetreRecenteJours": 28,
+    "source": "search-console",
+    "date": "2026-10-27"
+  }
+}

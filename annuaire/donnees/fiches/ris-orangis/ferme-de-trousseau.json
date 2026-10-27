@@ -36,8 +36,8 @@
     "etat": "absent",
     "premiere_detection": null,
     "derniere_detection": null,
-    "derniere_verification": "2026-10-11T11:22:19.539Z",
-    "echecs": 30,
+    "derniere_verification": "2026-10-27T10:29:22.553Z",
+    "echecs": 31,
     "url_detectee": null
   },
   "suggestion": {
@@ -57,7 +57,7 @@
   "dates": {
     "collecte": "2026-09-21",
     "publication": "2026-09-21",
-    "maj": "2026-10-18"
+    "maj": "2026-10-27"
   },
   "source": "google-places",
   "redaction": {
@@ -93,7 +93,7 @@
         "id": "avis",
         "titre": "La réputation de Ferme de Trousseau",
         "paragraphes": [
-          "Note de 4,3 sur 5 pour 11 avis Google au relevé du 11 octobre 2026. Les avis se consultent sur la fiche Google, dont le lien figure sur cette page."
+          "Note de 4,3 sur 5 pour 11 avis Google au relevé du 27 octobre 2026. Les avis les plus parlants sont compilés ci-dessous, avec un lien vers la fiche d'origine."
         ]
       }
     ],
@@ -103,7 +103,7 @@
         "r": "Ferme de Trousseau se trouve Ferme de Trousseau, Chem. de Trousseau, 91130 Ris-Orangis. Un lien d'itinéraire est disponible sur cette page."
       }
     ],
-    "genere_le": "2026-10-11"
+    "genere_le": "2026-10-27"
   },
   "statut_google": "OPERATIONAL",
   "audience": {
@@ -114,6 +114,56 @@
     "clicsRecents": 0,
     "fenetreRecenteJours": 28,
     "source": "search-console",
-    "date": "2026-10-26"
+    "date": "2026-10-27"
+  },
+  "avis_detail": {
+    "releve": "2026-10-27",
+    "liste": [
+      {
+        "note": 5,
+        "texte": "Sympa",
+        "langue": "fr",
+        "date": "2024-04-18",
+        "auteur": "Benjamin James",
+        "auteur_lien": "https://www.google.com/maps/contrib/101210502015078050552/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUNqck03dmpnRRAB!2m1!1s0x47e5df0a8415920d:0x6e7eeef8765d6e18"
+      },
+      {
+        "note": 3,
+        "texte": "Ferme ancienne, située au tournant du chemin du Trousseau, en bordure du bois du même nom, reconnaissable à ses bâtiments de pierres\n\nIl ne semble pas possible de la visiter actuellement, d'autant plus qu'elle n'est accessible qu'en voiture, avec une aire de stationnement très réduite ; ou alors après avoir marché en bord de route du chemin du Trousseau en faisant attention aux voitures qui passent. Dommage",
+        "langue": "fr",
+        "date": "2023-08-30",
+        "auteur": "Golden Flower",
+        "auteur_lien": "https://www.google.com/maps/contrib/103997385110436356996/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSURwNTl1WTRBRRAB!2m1!1s0x47e5df0a8415920d:0x6e7eeef8765d6e18"
+      },
+      {
+        "note": 5,
+        "texte": "Magnifique et très bien entretenue",
+        "langue": "fr",
+        "date": "2022-02-11",
+        "auteur": "Pape Ballé Ndiaye",
+        "auteur_lien": "https://www.google.com/maps/contrib/100104997780958808450/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSURtNS1UZGlnRRAB!2m1!1s0x47e5df0a8415920d:0x6e7eeef8765d6e18"
+      },
+      {
+        "note": 5,
+        "texte": "Beau calme et préservé, gens extraordinaires et chaleureux",
+        "langue": "fr",
+        "date": "2020-08-13",
+        "auteur": "Ju Liette",
+        "auteur_lien": "https://www.google.com/maps/contrib/102805611514352878368/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUNDdFA3YXpBRRAB!2m1!1s0x47e5df0a8415920d:0x6e7eeef8765d6e18"
+      },
+      {
+        "note": 5,
+        "texte": "C'est chez moi !",
+        "langue": "fr",
+        "date": "2019-08-15",
+        "auteur": "Jean-Pierre Gaillet",
+        "auteur_lien": "https://www.google.com/maps/contrib/103605680302489318473/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSURVbE1mVjZ3RRAB!2m1!1s0x47e5df0a8415920d:0x6e7eeef8765d6e18"
+      }
+    ]
   }
 }

@@ -42,14 +42,14 @@
     "etat": "absent",
     "premiere_detection": null,
     "derniere_detection": null,
-    "derniere_verification": "2026-10-12T19:47:22.869Z",
-    "echecs": 6,
+    "derniere_verification": "2026-10-27T10:29:22.553Z",
+    "echecs": 7,
     "url_detectee": null
   },
   "suggestion": {
-    "etat": "en-attente",
-    "date_soumission": null,
-    "tentatives": 0,
+    "etat": "soumise",
+    "date_soumission": "2026-10-27",
+    "tentatives": 1,
     "date_email": "2026-10-05"
   },
   "retrait": {
@@ -63,7 +63,7 @@
   "dates": {
     "collecte": "2026-10-05",
     "publication": "2026-10-05",
-    "maj": "2026-10-18"
+    "maj": "2026-10-27"
   },
   "source": "google-places",
   "redaction": {
@@ -78,6 +78,14 @@
         "titre": "Geodis walbaum en quelques mots",
         "paragraphes": [
           "Sur Google, l'établissement est classé « Entreprise de déménagement », dans notre rubrique Transport et déménagement."
+        ]
+      },
+      {
+        "id": "prestations",
+        "titre": "Services et équipements de Geodis walbaum",
+        "paragraphes": [
+          "Proposé : toilettes.",
+          "Ces indications sont déclarées par l'établissement sur sa fiche Google (relevé du 27 octobre 2026)."
         ]
       },
       {
@@ -99,7 +107,7 @@
         "id": "avis",
         "titre": "La réputation de Geodis walbaum",
         "paragraphes": [
-          "Note de 4,5 sur 5 pour 20 avis Google au relevé du 12 octobre 2026. Les avis se consultent sur la fiche Google, dont le lien figure sur cette page."
+          "Note de 4,5 sur 5 pour 20 avis Google au relevé du 27 octobre 2026. Les avis les plus parlants sont compilés ci-dessous, avec un lien vers la fiche d'origine."
         ]
       }
     ],
@@ -117,7 +125,7 @@
         "r": "La fiche Google de l'établissement mentionne : « Entrée accessible en fauteuil roulant ». Cette information est déclarative ; en cas de doute, vérifiez par téléphone."
       }
     ],
-    "genere_le": "2026-10-12"
+    "genere_le": "2026-10-27"
   },
   "statut_google": "OPERATIONAL",
   "audience": {
@@ -128,6 +136,64 @@
     "clicsRecents": 0,
     "fenetreRecenteJours": 28,
     "source": "search-console",
-    "date": "2026-10-26"
+    "date": "2026-10-27"
+  },
+  "avis_detail": {
+    "releve": "2026-10-27",
+    "liste": [
+      {
+        "note": 5,
+        "texte": "Très bonne entreprise , possibilité de récupérer vos colis sur place .",
+        "langue": "fr",
+        "date": "2024-06-11",
+        "auteur": "Jonathan",
+        "auteur_lien": "https://www.google.com/maps/contrib/117619916733024691671/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUR6MWIza0FnEAE!2m1!1s0x47ebdf3788dec973:0x6e91d91d508666fa"
+      },
+      {
+        "note": 1,
+        "texte": "Entreprise vraiment incompétente, amabilité du personnel : 0/5. Petit conseil : pensez à bien raccrocher votre téléphone avant de critiquer vos clients, grâce à qui vous vivez.",
+        "langue": "fr",
+        "date": "2024-05-29",
+        "auteur": "Frederic Louette",
+        "auteur_lien": "https://www.google.com/maps/contrib/118354017769443809353/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSURUMzRPS3lBRRAB!2m1!1s0x47ebdf3788dec973:0x6e91d91d508666fa"
+      },
+      {
+        "note": 5,
+        "texte": "Très bien accueilli super équipe",
+        "langue": "fr",
+        "date": "2024-05-03",
+        "auteur": "gaetan lefort",
+        "auteur_lien": "https://www.google.com/maps/contrib/101625584554863951386/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSURqbnUzV3d3RRAB!2m1!1s0x47ebdf3788dec973:0x6e91d91d508666fa"
+      },
+      {
+        "note": 4,
+        "texte": "Faut pas se tromper sur l'entrée mais accès PL facile",
+        "langue": "fr",
+        "date": "2023-01-10",
+        "auteur": "Alexandre Therssen",
+        "auteur_lien": "https://www.google.com/maps/contrib/101537062808983903241/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSURCaUpmZGpnRRAB!2m1!1s0x47ebdf3788dec973:0x6e91d91d508666fa"
+      },
+      {
+        "note": 5,
+        "texte": "Toujours bien reçu, merci à toute l'équipe 👍👍👍",
+        "langue": "fr",
+        "date": "2022-05-18",
+        "auteur": "Fabien Ombrouck",
+        "auteur_lien": "https://www.google.com/maps/contrib/106297618646363844777/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUQyNlliNGJBEAE!2m1!1s0x47ebdf3788dec973:0x6e91d91d508666fa"
+      }
+    ]
+  },
+  "services": {
+    "releve": "2026-10-27",
+    "options": {
+      "restroom": true
+    },
+    "paiement": [],
+    "parking": []
   }
 }

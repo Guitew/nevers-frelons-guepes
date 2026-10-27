@@ -1,0 +1,284 @@
+{
+  "id": "ChIJuQws98WX-kcR72WP4UT8cQA",
+  "slug": "comptoir-de-l-ours-reyt",
+  "nom": "Comptoir de l'Ours-REYT",
+  "categorie": "mode-equipement-maison",
+  "categorie_gmb": "Magasin de materiaux de construction",
+  "type_principal": "building_materials_store",
+  "types": [
+    "building_materials_store",
+    "home_goods_store",
+    "service",
+    "point_of_interest",
+    "store",
+    "establishment"
+  ],
+  "ville": "Bourges",
+  "ville_slug": "bourges",
+  "adresse": {
+    "rue": "1 Rue Hector Berlioz",
+    "code_postal": "18000",
+    "departement": "18",
+    "region": "Centre-Val de Loire",
+    "pays": "France",
+    "complete": "1 Rue Hector Berlioz, 18000 Bourges"
+  },
+  "telephone": "02 48 68 08 00",
+  "geo": {
+    "latitude": 47.0821889,
+    "longitude": 2.3638415999999998
+  },
+  "note": 4.5,
+  "avis": 44,
+  "horaires": [
+    {
+      "jour": 0,
+      "ferme": false,
+      "creneaux": [
+        [
+          "07:30",
+          "12:00"
+        ],
+        [
+          "13:30",
+          "18:00"
+        ]
+      ]
+    },
+    {
+      "jour": 1,
+      "ferme": false,
+      "creneaux": [
+        [
+          "07:30",
+          "12:00"
+        ],
+        [
+          "13:30",
+          "18:00"
+        ]
+      ]
+    },
+    {
+      "jour": 2,
+      "ferme": false,
+      "creneaux": [
+        [
+          "07:30",
+          "12:00"
+        ],
+        [
+          "13:30",
+          "18:00"
+        ]
+      ]
+    },
+    {
+      "jour": 3,
+      "ferme": false,
+      "creneaux": [
+        [
+          "07:30",
+          "12:00"
+        ],
+        [
+          "13:30",
+          "18:00"
+        ]
+      ]
+    },
+    {
+      "jour": 4,
+      "ferme": false,
+      "creneaux": [
+        [
+          "07:30",
+          "12:00"
+        ],
+        [
+          "13:30",
+          "18:00"
+        ]
+      ]
+    },
+    {
+      "jour": 5,
+      "ferme": true,
+      "creneaux": []
+    },
+    {
+      "jour": 6,
+      "ferme": true,
+      "creneaux": []
+    }
+  ],
+  "attributs": [
+    "Entrée accessible en fauteuil roulant",
+    "Parking accessible en fauteuil roulant"
+  ],
+  "lien_google": "https://maps.google.com/?cid=32084045140551151&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
+  "site_web_gmb": null,
+  "statut": "publiee",
+  "backlink": {
+    "etat": "absent",
+    "premiere_detection": null,
+    "derniere_detection": null,
+    "derniere_verification": "2026-10-27T10:29:22.553Z",
+    "echecs": 1,
+    "url_detectee": null
+  },
+  "suggestion": {
+    "etat": "en-attente",
+    "date_soumission": null,
+    "tentatives": 0,
+    "date_email": "2026-10-27"
+  },
+  "retrait": null,
+  "dates": {
+    "collecte": "2026-10-27",
+    "publication": "2026-10-27",
+    "maj": "2026-10-27"
+  },
+  "source": "google-places",
+  "avis_detail": {
+    "releve": "2026-10-27",
+    "liste": [
+      {
+        "note": 5,
+        "texte": "Accueil et service au top ! Je recommande.",
+        "langue": "fr",
+        "date": "2025-05-31",
+        "auteur": "Gilles MUYS",
+        "auteur_lien": "https://www.google.com/maps/contrib/107319748273402512994/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VPYm56NzZIcXE3SldBEAE!2m1!1s0x47fa97c5f72c0cb9:0x71fc44e18f65ef"
+      },
+      {
+        "note": 4,
+        "texte": "Très grand choix et très bon conseils\nVendeur agréable et compétent reste a passer commande et voir la qualité du produit",
+        "langue": "fr",
+        "date": "2024-08-28",
+        "auteur": "gilles le bihan",
+        "auteur_lien": "https://www.google.com/maps/contrib/116001048917859348314/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUQ3MjlQWTRnRRAB!2m1!1s0x47fa97c5f72c0cb9:0x71fc44e18f65ef"
+      },
+      {
+        "note": 1,
+        "texte": "Déçu, au moins chez Leroy Merlin vous serez mieux servi, et avec plus  de respect.\nEmbrouiller le client n' est pas une bonne politique !",
+        "langue": "fr",
+        "date": "2023-07-07",
+        "auteur": "Na Bouma",
+        "auteur_lien": "https://www.google.com/maps/contrib/103704054993770779403/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUNKNzlHMy1BRRAB!2m1!1s0x47fa97c5f72c0cb9:0x71fc44e18f65ef"
+      },
+      {
+        "note": 5,
+        "texte": "Un grand merci , personnel à l'écoute le gérant est très professionnel , de très bon conseil et prix défiant toute concurrence , je suis déçu de ne pas avoir connu plus tôt cette enseigne ...\n\nNous y reviendrons c'est sure !\nClarisse et Gaëlle .",
+        "langue": "fr",
+        "date": "2022-02-09",
+        "auteur": "Gaëlle TATINCLAUX (Eau douce 18)",
+        "auteur_lien": "https://www.google.com/maps/contrib/102493988653078285521/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSURteTZ6eUlBEAE!2m1!1s0x47fa97c5f72c0cb9:0x71fc44e18f65ef"
+      },
+      {
+        "note": 5,
+        "texte": "Très bon accueil. Les conseils sont très utiles.\nLa qualité du produit au top",
+        "langue": "fr",
+        "date": "2019-10-18",
+        "auteur": "Valérie CAZERES",
+        "auteur_lien": "https://www.google.com/maps/contrib/107179644567036913341/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUQwNEtYdHpRRRAB!2m1!1s0x47fa97c5f72c0cb9:0x71fc44e18f65ef"
+      }
+    ]
+  },
+  "services": {
+    "releve": "2026-10-27",
+    "options": {},
+    "paiement": [
+      "carte bancaire",
+      "carte de débit",
+      "paiement sans contact"
+    ],
+    "parking": []
+  },
+  "redaction": {
+    "version": 2,
+    "titre": "Comptoir de l'Ours-REYT — Mode et équipement de la maison à Bourges",
+    "meta_titre": "Comptoir de l'Ours-REYT à Bourges : horaires, avis",
+    "meta_description": "Comptoir de l'Ours-REYT, mode et équipement de la maison à Bourges : horaires d'ouverture, note Google 4,5/5 (44 avis), téléphone, adresse et itinéraire.",
+    "chapo": "Cette fiche présente Comptoir de l'Ours-REYT, une mode et équipement de la maison au 1 Rue Hector Berlioz, à Bourges. Fermé le samedi et le dimanche au relevé du 27 octobre 2026. Téléphone : 02 48 68 08 00. Note Google : 4,5 sur 5 pour 44 avis.",
+    "sections": [
+      {
+        "id": "presentation",
+        "titre": "Comptoir de l'Ours-REYT en quelques mots",
+        "paragraphes": [
+          "Sur Google, l'établissement est classé « Magasin de materiaux de construction », dans notre rubrique Mode et équipement de la maison.",
+          "D'après le relevé du 27 octobre 2026, l'établissement est fermé le samedi et le dimanche. Le détail jour par jour figure plus bas."
+        ]
+      },
+      {
+        "id": "prestations",
+        "titre": "Services et équipements de Comptoir de l'Ours-REYT",
+        "paragraphes": [
+          "Moyens de paiement déclarés : carte bancaire, carte de débit et paiement sans contact.",
+          "Ces indications sont déclarées par l'établissement sur sa fiche Google (relevé du 27 octobre 2026)."
+        ]
+      },
+      {
+        "id": "acces",
+        "titre": "Adresse et accès",
+        "paragraphes": [
+          "L'établissement est situé au 1 Rue Hector Berlioz, 18000 Bourges.",
+          "Coordonnées GPS : 47.08219, 2.36384. Le bouton Itinéraire de cette page ouvre la navigation."
+        ]
+      },
+      {
+        "id": "contact",
+        "titre": "Contacter Comptoir de l'Ours-REYT",
+        "paragraphes": [
+          "Le contact se fait par téléphone au 02 48 68 08 00, ou directement sur place aux horaires d'ouverture."
+        ]
+      },
+      {
+        "id": "avis",
+        "titre": "La réputation de Comptoir de l'Ours-REYT",
+        "paragraphes": [
+          "Note de 4,5 sur 5 pour 44 avis Google au relevé du 27 octobre 2026. Les avis les plus parlants sont compilés ci-dessous, avec un lien vers la fiche d'origine."
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "q": "Quels sont les horaires de Comptoir de l'Ours-REYT ?",
+        "r": "Au relevé du 27 octobre 2026, Comptoir de l'Ours-REYT était fermé le samedi et le dimanche. Dans le détail — lundi : de 7 h 30 à 12 h et de 13 h 30 à 18 h ; mardi : de 7 h 30 à 12 h et de 13 h 30 à 18 h ; mercredi : de 7 h 30 à 12 h et de 13 h 30 à 18 h ; jeudi : de 7 h 30 à 12 h et de 13 h 30 à 18 h ; vendredi : de 7 h 30 à 12 h et de 13 h 30 à 18 h ; samedi : fermé ; dimanche : fermé. Ces horaires peuvent changer : un appel préalable reste conseillé."
+      },
+      {
+        "q": "Comptoir de l'Ours-REYT est-il ouvert le dimanche ?",
+        "r": "Non : d'après les horaires relevés le 27 octobre 2026, Comptoir de l'Ours-REYT est fermé le dimanche."
+      },
+      {
+        "q": "Où se trouve Comptoir de l'Ours-REYT ?",
+        "r": "Comptoir de l'Ours-REYT se trouve 1 Rue Hector Berlioz, 18000 Bourges. Un lien d'itinéraire est disponible sur cette page."
+      },
+      {
+        "q": "Comment contacter Comptoir de l'Ours-REYT ?",
+        "r": "Par téléphone au 02 48 68 08 00, ou directement sur place aux heures d'ouverture."
+      },
+      {
+        "q": "Comptoir de l'Ours-REYT est-il accessible aux personnes à mobilité réduite ?",
+        "r": "La fiche Google de l'établissement mentionne : « Entrée accessible en fauteuil roulant ». Cette information est déclarative ; en cas de doute, vérifiez par téléphone."
+      }
+    ],
+    "genere_le": "2026-10-27"
+  },
+  "statut_google": "OPERATIONAL",
+  "audience": {
+    "clics": 0,
+    "impressions": 0,
+    "position": null,
+    "fenetreJours": 90,
+    "clicsRecents": 0,
+    "fenetreRecenteJours": 28,
+    "source": "search-console",
+    "date": "2026-10-27"
+  }
+}

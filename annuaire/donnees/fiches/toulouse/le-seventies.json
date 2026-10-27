@@ -118,8 +118,8 @@
     "etat": "absent",
     "premiere_detection": null,
     "derniere_detection": null,
-    "derniere_verification": "2026-10-11T11:22:19.539Z",
-    "echecs": 1,
+    "derniere_verification": "2026-10-27T10:29:22.553Z",
+    "echecs": 2,
     "url_detectee": null
   },
   "suggestion": {
@@ -132,7 +132,7 @@
   "dates": {
     "collecte": "2026-10-11",
     "publication": "2026-10-11",
-    "maj": "2026-10-11"
+    "maj": "2026-10-27"
   },
   "source": "google-places",
   "redaction": {
@@ -140,14 +140,27 @@
     "titre": "Le Seventies — Café ou bar à Toulouse",
     "meta_titre": "Le Seventies à Toulouse : horaires, avis, téléphone",
     "meta_description": "Le Seventies, café ou bar à Toulouse : horaires d'ouverture, note Google 4/5 (514 avis), téléphone, adresse et itinéraire.",
-    "chapo": "Le Seventies exerce l'activité de café ou bar au 42 Port Saint-Étienne, à Toulouse. Ouvert sept jours sur sept au relevé du 11 octobre 2026. Téléphone : 05 61 80 72 17. Note Google : 4 sur 5 pour 514 avis.",
+    "chapo": "Le Seventies exerce l'activité de café ou bar au 42 Port Saint-Étienne, à Toulouse. Ouvert sept jours sur sept au relevé du 27 octobre 2026. Téléphone : 05 61 80 72 17. Note Google : 4 sur 5 pour 514 avis.",
     "sections": [
       {
         "id": "presentation",
         "titre": "Le Seventies en quelques mots",
         "paragraphes": [
+          "Présentation donnée par Google : « Ce pub au décor cosy diffuse des émissions sportives sur grand écran. Tables de billard et jeux vidéo. »",
           "Sur Google, l'établissement est classé « Pub », dans notre rubrique Café ou bar.",
-          "D'après le relevé du 11 octobre 2026, l'établissement est ouvert sept jours sur sept. Le détail jour par jour figure plus bas."
+          "Niveau de prix indiqué sur la fiche Google : €€ (modéré).",
+          "D'après le relevé du 27 octobre 2026, l'établissement est ouvert sept jours sur sept. Le détail jour par jour figure plus bas."
+        ]
+      },
+      {
+        "id": "prestations",
+        "titre": "Services et équipements de Le Seventies",
+        "paragraphes": [
+          "Proposé : sur place, bière, vin, cocktails, retransmissions sportives et toilettes.",
+          "Non proposé selon la fiche Google : livraison, retrait en voiture et chiens acceptés.",
+          "Moyens de paiement déclarés : carte bancaire, carte de débit et paiement sans contact.",
+          "Stationnement : stationnement payant dans la rue.",
+          "Ces indications sont déclarées par l'établissement sur sa fiche Google (relevé du 27 octobre 2026)."
         ]
       },
       {
@@ -169,18 +182,18 @@
         "id": "avis",
         "titre": "La réputation de Le Seventies",
         "paragraphes": [
-          "Note de 4 sur 5 pour 514 avis Google au relevé du 11 octobre 2026. Les avis se consultent sur la fiche Google, dont le lien figure sur cette page."
+          "Note de 4 sur 5 pour 514 avis Google au relevé du 27 octobre 2026. Les avis les plus parlants sont compilés ci-dessous, avec un lien vers la fiche d'origine."
         ]
       }
     ],
     "faq": [
       {
         "q": "Quels sont les horaires de Le Seventies ?",
-        "r": "Au relevé du 11 octobre 2026, Le Seventies était ouvert sept jours sur sept. Dans le détail — lundi : de 18 h à 0 h ; mardi : de 18 h à 0 h ; mercredi : de 18 h à 1 h ; jeudi : de 17 h 30 à 2 h ; vendredi : de 18 h à 2 h ; samedi : de 15 h 30 à 3 h ; dimanche : de 16 h à 0 h. Ces horaires peuvent changer : un appel préalable reste conseillé."
+        "r": "Au relevé du 27 octobre 2026, Le Seventies était ouvert sept jours sur sept. Dans le détail — lundi : de 18 h à 0 h ; mardi : de 18 h à 0 h ; mercredi : de 18 h à 1 h ; jeudi : de 17 h 30 à 2 h ; vendredi : de 18 h à 2 h ; samedi : de 15 h 30 à 3 h ; dimanche : de 16 h à 0 h. Ces horaires peuvent changer : un appel préalable reste conseillé."
       },
       {
         "q": "Le Seventies est-il ouvert le dimanche ?",
-        "r": "Oui : le dimanche, Le Seventies est ouvert de 16 h à 0 h (horaires relevés le 11 octobre 2026)."
+        "r": "Oui : le dimanche, Le Seventies est ouvert de 16 h à 0 h (horaires relevés le 27 octobre 2026)."
       },
       {
         "q": "Où se trouve Le Seventies ?",
@@ -191,21 +204,104 @@
         "r": "Par téléphone au 05 61 80 72 17, ou directement sur place aux heures d'ouverture."
       },
       {
+        "q": "Le Seventies propose-t-il la vente à emporter ou la livraison ?",
+        "r": "D'après sa fiche Google (relevé du 27 octobre 2026) — livraison : non."
+      },
+      {
+        "q": "Quel est le niveau de prix de Le Seventies ?",
+        "r": "Google classe Le Seventies au niveau de prix €€ (modéré), sur une échelle de € à €€€€ établie à partir des avis clients."
+      },
+      {
         "q": "Le Seventies est-il accessible aux personnes à mobilité réduite ?",
         "r": "La fiche Google de l'établissement mentionne : « Toilettes accessibles en fauteuil roulant ». Cette information est déclarative ; en cas de doute, vérifiez par téléphone."
       }
     ],
-    "genere_le": "2026-10-11"
+    "genere_le": "2026-10-27"
   },
   "statut_google": "OPERATIONAL",
   "audience": {
     "clics": 0,
-    "impressions": 43,
-    "position": 9.4,
+    "impressions": 49,
+    "position": 9.9,
     "fenetreJours": 90,
     "clicsRecents": 0,
     "fenetreRecenteJours": 28,
     "source": "search-console",
-    "date": "2026-10-26"
+    "date": "2026-10-27"
+  },
+  "avis_detail": {
+    "releve": "2026-10-27",
+    "liste": [
+      {
+        "note": 5,
+        "texte": "J'avais juste envie de regarder le match pendant le mondial.\nUn très bon cocktail sans alcool.\nIl ya pas mal de choix.\nEt l'ambiance était au top.\nLe personnel très agréable et serviable.\nJe ne peux pas évaluer la cuisine.",
+        "langue": "fr",
+        "date": "2026-07-29",
+        "auteur": "Casa-Toulouse",
+        "auteur_lien": "https://www.google.com/maps/contrib/109711566609941813108/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xwT1pUVkNVMHhUYVZWeU1scEZNRzVSZEZaSFExRRAB!2m1!1s0x12aebc91be38d101:0x94c9a07877327413"
+      },
+      {
+        "note": 1,
+        "texte": "8 ( huit )€ pour une pinte, bon les temps sont durs ma foi..\n1h d'attente, bon c'est indépendant de leurs volonté ils sont victimes de leurs succès.\nIls ont failli perdre le permis de ma pote, une erreur d'inattention ça arrive ce n'est pas bien grave.\nOn voit mes amis et moi une table libre depuis 5 minutes. On prend la décision d'aller au comptoir pour poser la question \"une table est libre?\".\nLa réponse aurait pu être \"oui le temps de faire le roulement ça prend un peu de temps\" ou bien \"les gens dans la file d'attente doivent mettre du temps\". Mais non on commence à m'expliquer ce que c'est un bipeur, comment tu veux avancer dans la vie avec des gens comme ça.\nJ'ai beaucoup de respect pour les gens en restauration parce que c'est fatiguant mais faut se concentrer quand même.",
+        "langue": "fr",
+        "date": "2026-05-14",
+        "auteur": "XIN",
+        "auteur_lien": "https://www.google.com/maps/contrib/101684134839393394112/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2pGNFJrVkJVbFpRVTNSUlJEY3liVU5HVWtKbVRIYxAB!2m1!1s0x12aebc91be38d101:0x94c9a07877327413"
+      },
+      {
+        "note": 3,
+        "texte": "C'était l'un de mes bars préférés à Toulouse il y a quelques années, malheureusement, après y avoir fait un billard jeudi soir dernier, je n'y retournerai plus je pense...\nIl a tout pour plaire : plein de tables de billard de tous types, des fléchettes, fumoir intérieur, etc...\n\nMais, malgré un emplacement idéal à 2 pas du métro François Verdier, la fréquentation a visiblement fortement diminuée en quelques années, et a instauré un cercle vicieux :\nQuand il y a peu de clients, le personnel décide de fermer plus tôt. Jeudi, fermeture annoncée à 2h. À 00h40, les tables non utilisées étaient couvertes d'un drap blanc, et on nous annonce que la fermeture est avancée à 1h30 (il devait y avoir une 15aine de clients je pense). À 1h15, ils commençaient à éteindre, on se sentait un peu pressés de partir...\nEt ce scénario est identique à chaque fois que nous sommes venus ces derniers temps...\nL’impression de déranger n'est pas très agréable, et lorsque j'ai commandé un pepsi, j'ai dû réclamer chaque élément normalement induit, la tranche de citron, les glaçons dans le verre (c'est un détail, mais avoir à TOUT demander me laisse l’impression d'être la cliente chiante que je ne suis pas..)\nJ'aime le billard, mais j'aime jouer tranquillement, sans avoir la mauvaise surprise à chaque fois que je ne pourrai pas jouer autant que ce que je pensais, car la fermeture est trop souvent anticipée et cela crée une impression de personnel qui veut rentrer au plus vite car ils couvrent les tables 1h avant de fermer et ne sont pas très discrets quant à l’avancée du ménage et autres, en étant sur les starting-blocks pour partir dès que l’heure anticipée est atteinte.\nD'où le cercle vicieux : moins il y a de clients, plus l’heure de fermeture est incertaine. Plus l’heure de fermeture est avancée, plus on est frustrés et moins on revient.\nAu vu de la fréquentation de l'autre bar à jeux (dont billard) à Toulouse, ce n'est pourtant pas la clientèle qui manque !\n\nJe laisse ce commentaire, non pas pour critiquer ce lieu, mais dans l’espoir de partager un retour client qui, j’espère, sera utile !\nC'est vraiment dommage de ne pas faire l’effort de conserver une heure de fermeture fixe et une meilleure rigueur dans le service client, afin de retrouver une meilleure affluence comme je le voyais il y a quelques années !\nCe bar a tellement de potentiel... un joli lieu, le personnel est malgré tout gentil et agréable, j'espère qu'ils prendront conscience de ces quelques soucis qui peuvent vraiment rebuter les clients comme moi !",
+        "langue": "fr",
+        "date": "2026-02-28",
+        "auteur": "Laura Troncy",
+        "auteur_lien": "https://www.google.com/maps/contrib/103319455400141830679/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xaQmFEVnVaa1pFWkhacWFYcDFjblJoWTFKM2RXYxAB!2m1!1s0x12aebc91be38d101:0x94c9a07877327413"
+      },
+      {
+        "note": 1,
+        "texte": "1h30 d'attente pour 5 nuggets surgelés qui se battent en duel à 8,50€ et un paquet de doritos mis au four à 10€, dommage.\n2 \"planches mixtes\" pour 44€ en tout servies sur une seule planche avec pas grand chose dessus : DU VOL.\nLa prochaine fois je ferai le doberman chez le kebabier d'en face, lui au moins il va me sanctionner pour 8€.",
+        "langue": "fr",
+        "date": "2026-02-05",
+        "auteur": "Labophonix Asso",
+        "auteur_lien": "https://www.google.com/maps/contrib/106959347338631259788/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2pOT2VYUnZOa3BxVUhoNFRFODFTVGhHV1RWTGVWRRAB!2m1!1s0x12aebc91be38d101:0x94c9a07877327413"
+      },
+      {
+        "note": 5,
+        "texte": "Excellente adresse à l'ambiance mélangeant pub à billard et une déco alliant Star Wars, Le Seigneur des Anneaux avec des pièces de collection authentique.\nLes bières sont très bonnes, abordables et le choix est assez vaste.\nIl y a de nombreuses tables de billard et l'ambiance y est très chaleureuse.\nJe recommande.",
+        "langue": "fr",
+        "date": "2022-11-17",
+        "auteur": "Baptiste Alonzo",
+        "auteur_lien": "https://www.google.com/maps/contrib/114765703011619315573/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUMtMzlhTDZ3RRAB!2m1!1s0x12aebc91be38d101:0x94c9a07877327413"
+      }
+    ]
+  },
+  "services": {
+    "releve": "2026-10-27",
+    "prix": "PRICE_LEVEL_MODERATE",
+    "resume": "Ce pub au décor cosy diffuse des émissions sportives sur grand écran. Tables de billard et jeux vidéo.",
+    "resume_langue": "fr",
+    "options": {
+      "dineIn": true,
+      "delivery": false,
+      "curbsidePickup": false,
+      "servesBeer": true,
+      "servesWine": true,
+      "servesCocktails": true,
+      "goodForWatchingSports": true,
+      "allowsDogs": false,
+      "restroom": true
+    },
+    "paiement": [
+      "carte bancaire",
+      "carte de débit",
+      "paiement sans contact"
+    ],
+    "parking": [
+      "stationnement payant dans la rue"
+    ]
   }
 }

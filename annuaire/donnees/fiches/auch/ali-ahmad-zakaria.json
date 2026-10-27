@@ -1,0 +1,265 @@
+{
+  "id": "ChIJVVavkbaCqRIRaqZptXsxNcw",
+  "slug": "ali-ahmad-zakaria",
+  "nom": "Ali Ahmad Zakaria",
+  "categorie": "medecins-dentistes",
+  "categorie_gmb": "Médecin",
+  "type_principal": "doctor",
+  "types": [
+    "doctor",
+    "point_of_interest",
+    "health",
+    "establishment"
+  ],
+  "ville": "Auch",
+  "ville_slug": "auch",
+  "adresse": {
+    "rue": "11 Rue Marcel Luquet",
+    "code_postal": "32000",
+    "departement": "32",
+    "region": "Occitanie",
+    "pays": "France",
+    "complete": "11 Rue Marcel Luquet, 32000 Auch"
+  },
+  "telephone": "05 42 54 10 39",
+  "geo": {
+    "latitude": 43.6602745,
+    "longitude": 0.6259691
+  },
+  "note": 3.6,
+  "avis": 40,
+  "horaires": [
+    {
+      "jour": 0,
+      "ferme": false,
+      "creneaux": [
+        [
+          "09:00",
+          "19:00"
+        ]
+      ]
+    },
+    {
+      "jour": 1,
+      "ferme": false,
+      "creneaux": [
+        [
+          "09:00",
+          "19:00"
+        ]
+      ]
+    },
+    {
+      "jour": 2,
+      "ferme": false,
+      "creneaux": [
+        [
+          "09:00",
+          "19:00"
+        ]
+      ]
+    },
+    {
+      "jour": 3,
+      "ferme": false,
+      "creneaux": [
+        [
+          "09:00",
+          "19:00"
+        ]
+      ]
+    },
+    {
+      "jour": 4,
+      "ferme": false,
+      "creneaux": [
+        [
+          "09:00",
+          "19:00"
+        ]
+      ]
+    },
+    {
+      "jour": 5,
+      "ferme": true,
+      "creneaux": []
+    },
+    {
+      "jour": 6,
+      "ferme": true,
+      "creneaux": []
+    }
+  ],
+  "attributs": [
+    "Entrée accessible en fauteuil roulant",
+    "Parking accessible en fauteuil roulant",
+    "Toilettes accessibles en fauteuil roulant"
+  ],
+  "lien_google": "https://maps.google.com/?cid=14714721764897302122&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
+  "site_web_gmb": null,
+  "statut": "publiee",
+  "backlink": {
+    "etat": "absent",
+    "premiere_detection": null,
+    "derniere_detection": null,
+    "derniere_verification": "2026-10-27T10:29:22.553Z",
+    "echecs": 1,
+    "url_detectee": null
+  },
+  "suggestion": {
+    "etat": "en-attente",
+    "date_soumission": null,
+    "tentatives": 0,
+    "date_email": "2026-10-27"
+  },
+  "retrait": null,
+  "dates": {
+    "collecte": "2026-10-27",
+    "publication": "2026-10-27",
+    "maj": "2026-10-27"
+  },
+  "source": "google-places",
+  "avis_detail": {
+    "releve": "2026-10-27",
+    "liste": [
+      {
+        "note": 1,
+        "texte": "Bonjour\nL'accueil de l'établissement est scandaleux, ni Bonjour, ni au revoir...aucun sourire !!! Manque de formation accueil, bienveillance, sourire, bonne humeur...\nDans l'impossibilité de marcher, l'agent qui appelle le patient (salle d'attente) pour la consultation, n'a pas la bienveillance d'aider cette personne à se déplacer, prendre les documents pour le rhumatologue.\nMerci de bien vouloir prendre en considération ce témoignage !\nCordialement",
+        "langue": "fr",
+        "date": "2026-09-20",
+        "auteur": "Karine Nabao",
+        "auteur_lien": "https://www.google.com/maps/contrib/100846326558901559129/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2kxRFlucGZYMHhYYmpCU1JrVXhZMjV6WldseWRrRRAB!2m1!1s0x12a982b691af5655:0xcc35317bb569a66a"
+      },
+      {
+        "note": 5,
+        "texte": "Les Dr sont très professionnels, ils prennent le temps de se pencher sur l’écoute. C’est une qualité. Le Dr Hamad est très bien. Il sait recevoir rapidement si urgent. La secrétaire nous a accueillis avec IRM du dos alarmante sans rendez-vous, elle a lu et jugé bon de déranger le Dr en consultation. Il a donné un rendez-vous 3 jours après. Les restes de dates ont été prises suite à cette consultation.\n\nPour ma part, Lorsque je souhaite prendre rendez-vous, je le fais d’une séance à l’autre et ayant entendu parler des difficultés de prise de rendez-vous par téléphone, je m’y déplace lorsque je vais au centre commercial du Grand Chêne.\n\nJe comprends qu’un standard téléphonique qui ne répond pas pour les patients éloignés soit un réel problème à résoudre. Peut être revoir des horaires spécifiques aux rendez-vous ? Même 2 h par jour … ou un jour semaine …\nLes secrétaires sont souriantes et accueillantes.",
+        "langue": "fr",
+        "date": "2026-05-20",
+        "auteur": "Never back down Life",
+        "auteur_lien": "https://www.google.com/maps/contrib/117378761040542087096/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT210MldsSmFjVWxKUWt0MU1rTmtVRWRNU25wb1dHYxAB!2m1!1s0x12a982b691af5655:0xcc35317bb569a66a"
+      },
+      {
+        "note": 4,
+        "texte": "Pour moi très bon médecin à l ecout,\nCe que je ne comprend pas se sont ces personnes qui critiquent un médecin alors qu il n y connaissent rien, mais qui seraient les premières à crier si il n y en avait pas. C est tres français. 😪",
+        "langue": "fr",
+        "date": "2026-04-13",
+        "auteur": "Jean-Jacques & Monique",
+        "auteur_lien": "https://www.google.com/maps/contrib/111636726049529579973/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2pGMGJUUm9kMjgyWlV4dFdUQnBWbHBSYzFoS1IxRRAB!2m1!1s0x12a982b691af5655:0xcc35317bb569a66a"
+      },
+      {
+        "note": 2,
+        "texte": "Il n'a pas suivi la prescription du chirurgien, a proposé un produit non remboursé sans le mentionner. S'étonne sans plus du mauvais résultat, et repropose un autre produit plus cher non remboursé. J'aurais pu avoir ma prothèse bien plus tôt, perdu au moins 3 mois. Docteur aux abords sympathique, mais pas professionnel !",
+        "langue": "fr",
+        "date": "2026-02-25",
+        "auteur": "Marlène BENJAMIN",
+        "auteur_lien": "https://www.google.com/maps/contrib/107023994016335159314/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT21OcU9XTlpMV1ZCVUhWR1YyVnlUR3g1V2pFM1IxRRAB!2m1!1s0x12a982b691af5655:0xcc35317bb569a66a"
+      },
+      {
+        "note": 5,
+        "texte": "J'ai vu mon médecin le vendredi soir un mail à été transmis et 12 minutes après on me téléphonait pour me donner un RDV 5 jours après.\nQue demander de mieux.\nJ'ai été très bien pris en charge par le docteur  Mr Ali Ahmad. Une équipe formidable. Un bon accueil et une bonne prise en charge.\nMerci encore à toute l'équipe.",
+        "langue": "fr",
+        "date": "2025-11-26",
+        "auteur": "Gilles Daugé",
+        "auteur_lien": "https://www.google.com/maps/contrib/111941081321432265077/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2tOS2FFazViazQxV1ZsMWVWa3pkVU5oUVU5cVYxRRAB!2m1!1s0x12a982b691af5655:0xcc35317bb569a66a"
+      }
+    ]
+  },
+  "services": {
+    "releve": "2026-10-27",
+    "options": {
+      "restroom": true
+    },
+    "paiement": [
+      "carte bancaire",
+      "carte de débit"
+    ],
+    "parking": []
+  },
+  "redaction": {
+    "version": 2,
+    "titre": "Ali Ahmad Zakaria — Médecin ou dentiste à Auch",
+    "meta_titre": "Ali Ahmad Zakaria à Auch : horaires, avis, téléphone",
+    "meta_description": "Ali Ahmad Zakaria, médecin ou dentiste à Auch : horaires d'ouverture, note Google 3,6/5 (40 avis), téléphone, adresse et itinéraire.",
+    "chapo": "Ali Ahmad Zakaria exerce l'activité de médecin ou dentiste au 11 Rue Marcel Luquet, à Auch. Fermé le samedi et le dimanche au relevé du 27 octobre 2026. Téléphone : 05 42 54 10 39. Note Google : 3,6 sur 5 pour 40 avis.",
+    "sections": [
+      {
+        "id": "presentation",
+        "titre": "Ali Ahmad Zakaria en quelques mots",
+        "paragraphes": [
+          "Sur Google, l'établissement est classé « Médecin », dans notre rubrique Médecin ou dentiste.",
+          "D'après le relevé du 27 octobre 2026, l'établissement est fermé le samedi et le dimanche. Le détail jour par jour figure plus bas."
+        ]
+      },
+      {
+        "id": "prestations",
+        "titre": "Services et équipements de Ali Ahmad Zakaria",
+        "paragraphes": [
+          "Proposé : toilettes.",
+          "Moyens de paiement déclarés : carte bancaire et carte de débit.",
+          "Ces indications sont déclarées par l'établissement sur sa fiche Google (relevé du 27 octobre 2026)."
+        ]
+      },
+      {
+        "id": "acces",
+        "titre": "Adresse et accès",
+        "paragraphes": [
+          "L'établissement est situé au 11 Rue Marcel Luquet, 32000 Auch.",
+          "Coordonnées GPS : 43.66027, 0.62597. Le bouton Itinéraire de cette page ouvre la navigation."
+        ]
+      },
+      {
+        "id": "contact",
+        "titre": "Contacter Ali Ahmad Zakaria",
+        "paragraphes": [
+          "Le contact se fait par téléphone au 05 42 54 10 39, ou directement sur place aux horaires d'ouverture."
+        ]
+      },
+      {
+        "id": "avis",
+        "titre": "La réputation de Ali Ahmad Zakaria",
+        "paragraphes": [
+          "Note de 3,6 sur 5 pour 40 avis Google au relevé du 27 octobre 2026. Les avis les plus parlants sont compilés ci-dessous, avec un lien vers la fiche d'origine."
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "q": "Quels sont les horaires de Ali Ahmad Zakaria ?",
+        "r": "Au relevé du 27 octobre 2026, Ali Ahmad Zakaria était fermé le samedi et le dimanche. Dans le détail — lundi : de 9 h à 19 h ; mardi : de 9 h à 19 h ; mercredi : de 9 h à 19 h ; jeudi : de 9 h à 19 h ; vendredi : de 9 h à 19 h ; samedi : fermé ; dimanche : fermé. Ces horaires peuvent changer : un appel préalable reste conseillé."
+      },
+      {
+        "q": "Ali Ahmad Zakaria est-il ouvert le dimanche ?",
+        "r": "Non : d'après les horaires relevés le 27 octobre 2026, Ali Ahmad Zakaria est fermé le dimanche."
+      },
+      {
+        "q": "Où se trouve Ali Ahmad Zakaria ?",
+        "r": "Ali Ahmad Zakaria se trouve 11 Rue Marcel Luquet, 32000 Auch. Un lien d'itinéraire est disponible sur cette page."
+      },
+      {
+        "q": "Comment contacter Ali Ahmad Zakaria ?",
+        "r": "Par téléphone au 05 42 54 10 39, ou directement sur place aux heures d'ouverture."
+      },
+      {
+        "q": "Ali Ahmad Zakaria est-il accessible aux personnes à mobilité réduite ?",
+        "r": "La fiche Google de l'établissement mentionne : « Entrée accessible en fauteuil roulant ». Cette information est déclarative ; en cas de doute, vérifiez par téléphone."
+      }
+    ],
+    "genere_le": "2026-10-27"
+  },
+  "statut_google": "OPERATIONAL",
+  "audience": {
+    "clics": 0,
+    "impressions": 0,
+    "position": null,
+    "fenetreJours": 90,
+    "clicsRecents": 0,
+    "fenetreRecenteJours": 28,
+    "source": "search-console",
+    "date": "2026-10-27"
+  }
+}

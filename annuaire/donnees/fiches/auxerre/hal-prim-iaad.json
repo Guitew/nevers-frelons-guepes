@@ -32,7 +32,7 @@
     "longitude": 3.5455053999999997
   },
   "note": 4,
-  "avis": 141,
+  "avis": 145,
   "horaires": [
     {
       "jour": 0,
@@ -115,8 +115,8 @@
   "backlink": {
     "etat": "present",
     "premiere_detection": "2026-10-08T11:59:38.314Z",
-    "derniere_detection": "2026-10-12T19:47:22.869Z",
-    "derniere_verification": "2026-10-12T19:47:22.869Z",
+    "derniere_detection": "2026-10-27T10:29:22.553Z",
+    "derniere_verification": "2026-10-27T10:29:22.553Z",
     "echecs": 0,
     "url_detectee": "https://andpro.fr/vitrine-locale/commerces-alimentation/auxerre/hal-prim-iaad/"
   },
@@ -130,22 +130,32 @@
   "dates": {
     "collecte": "2026-10-07",
     "publication": "2026-10-07",
-    "maj": "2026-10-12"
+    "maj": "2026-10-27"
   },
   "source": "google-places",
   "redaction": {
     "version": 2,
     "titre": "Hal'prim iaad — Commerce d'alimentation à Auxerre",
     "meta_titre": "Hal'prim iaad à Auxerre : horaires, avis, téléphone",
-    "meta_description": "Hal'prim iaad, commerce d'alimentation à Auxerre : horaires d'ouverture, note Google 4/5 (141 avis), téléphone, adresse et itinéraire.",
-    "chapo": "Cette fiche présente Hal'prim iaad, un commerce d'alimentation au 92 Avenue de Saint-Georges, à Auxerre. Ouvert sept jours sur sept au relevé du 12 octobre 2026. Téléphone : 09 56 96 11 75. Note Google : 4 sur 5 pour 141 avis.",
+    "meta_description": "Hal'prim iaad, commerce d'alimentation à Auxerre : horaires d'ouverture, note Google 4/5 (145 avis), téléphone, adresse et itinéraire.",
+    "chapo": "Cette fiche présente Hal'prim iaad, un commerce d'alimentation au 92 Avenue de Saint-Georges, à Auxerre. Ouvert sept jours sur sept au relevé du 27 octobre 2026. Téléphone : 09 56 96 11 75. Note Google : 4 sur 5 pour 145 avis.",
     "sections": [
       {
         "id": "presentation",
         "titre": "Hal'prim iaad en quelques mots",
         "paragraphes": [
           "Sur Google, l'établissement est classé « Épicerie », dans notre rubrique Commerce d'alimentation.",
-          "D'après le relevé du 12 octobre 2026, l'établissement est ouvert sept jours sur sept. Le détail jour par jour figure plus bas."
+          "D'après le relevé du 27 octobre 2026, l'établissement est ouvert sept jours sur sept. Le détail jour par jour figure plus bas."
+        ]
+      },
+      {
+        "id": "prestations",
+        "titre": "Services et équipements de Hal'prim iaad",
+        "paragraphes": [
+          "Proposé : livraison.",
+          "Non proposé selon la fiche Google : toilettes.",
+          "Moyens de paiement déclarés : carte bancaire, carte de débit et paiement sans contact.",
+          "Ces indications sont déclarées par l'établissement sur sa fiche Google (relevé du 27 octobre 2026)."
         ]
       },
       {
@@ -167,18 +177,18 @@
         "id": "avis",
         "titre": "La réputation de Hal'prim iaad",
         "paragraphes": [
-          "Note de 4 sur 5 pour 141 avis Google au relevé du 12 octobre 2026. Les avis se consultent sur la fiche Google, dont le lien figure sur cette page."
+          "Note de 4 sur 5 pour 145 avis Google au relevé du 27 octobre 2026. Les avis les plus parlants sont compilés ci-dessous, avec un lien vers la fiche d'origine."
         ]
       }
     ],
     "faq": [
       {
         "q": "Quels sont les horaires de Hal'prim iaad ?",
-        "r": "Au relevé du 12 octobre 2026, Hal'prim iaad était ouvert sept jours sur sept. Dans le détail — lundi : de 8 h 30 à 20 h ; mardi : de 8 h 30 à 20 h ; mercredi : de 8 h 30 à 20 h ; jeudi : de 8 h 30 à 20 h ; vendredi : de 8 h 30 à 21 h 30 ; samedi : de 8 h 30 à 21 h 30 ; dimanche : de 8 h 30 à 20 h. Ces horaires peuvent changer : un appel préalable reste conseillé."
+        "r": "Au relevé du 27 octobre 2026, Hal'prim iaad était ouvert sept jours sur sept. Dans le détail — lundi : de 8 h 30 à 20 h ; mardi : de 8 h 30 à 20 h ; mercredi : de 8 h 30 à 20 h ; jeudi : de 8 h 30 à 20 h ; vendredi : de 8 h 30 à 21 h 30 ; samedi : de 8 h 30 à 21 h 30 ; dimanche : de 8 h 30 à 20 h. Ces horaires peuvent changer : un appel préalable reste conseillé."
       },
       {
         "q": "Hal'prim iaad est-il ouvert le dimanche ?",
-        "r": "Oui : le dimanche, Hal'prim iaad est ouvert de 8 h 30 à 20 h (horaires relevés le 12 octobre 2026)."
+        "r": "Oui : le dimanche, Hal'prim iaad est ouvert de 8 h 30 à 20 h (horaires relevés le 27 octobre 2026)."
       },
       {
         "q": "Où se trouve Hal'prim iaad ?",
@@ -189,21 +199,88 @@
         "r": "Par téléphone au 09 56 96 11 75, ou directement sur place aux heures d'ouverture."
       },
       {
+        "q": "Hal'prim iaad propose-t-il la vente à emporter ou la livraison ?",
+        "r": "D'après sa fiche Google (relevé du 27 octobre 2026) — livraison : oui."
+      },
+      {
         "q": "Hal'prim iaad est-il accessible aux personnes à mobilité réduite ?",
         "r": "La fiche Google de l'établissement mentionne : « Entrée accessible en fauteuil roulant ». Cette information est déclarative ; en cas de doute, vérifiez par téléphone."
       }
     ],
-    "genere_le": "2026-10-12"
+    "genere_le": "2026-10-27"
   },
   "statut_google": "OPERATIONAL",
   "audience": {
     "clics": 26,
-    "impressions": 1152,
+    "impressions": 1215,
     "position": 2.7,
     "fenetreJours": 90,
     "clicsRecents": 26,
     "fenetreRecenteJours": 28,
     "source": "search-console",
-    "date": "2026-10-26"
+    "date": "2026-10-27"
+  },
+  "avis_detail": {
+    "releve": "2026-10-27",
+    "liste": [
+      {
+        "note": 1,
+        "texte": "Franchement une catastrophe, Nous avons jeté tout ce que nous avons acheté rien de mangeable, c’est une honte de vendre des produits pareil , moi je parle même pas de l’accueil Moi j’y vais pour la viande, pas pour l’accueil , Mais alors franchement il faudrait songer à dire à ces gens-là que halal, c’est bien, mais consommable, c’est bien aussi, Inutile de préciser que ça sera la première et la dernière Continuez comme ça du bon boulot , c’est pas possible, les avis positifs sont des faux , c’est sûr !!!",
+        "langue": "fr",
+        "date": "2026-09-02",
+        "auteur": "Stéphane Briquet",
+        "auteur_lien": "https://www.google.com/maps/contrib/110000626695090392969/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT201eFJtTkxObkZzWkU1SlptdHhORzVuUm5OV1JrRRAB!2m1!1s0x47ee4ed0719fbc35:0x8268f2680efebb58"
+      },
+      {
+        "note": 1,
+        "texte": "Steak de bœuf tout noirci, je demande poliment si il peut m’en re découper , il me répond « nan y’a que sa » d’un ton que j’emploie pas pour mon chien. Quel client achète de la viande du bœuf tout noirci ? Merci à Google de faire une mise à jour pour mettre zéro étoile .",
+        "langue": "fr",
+        "date": "2026-08-24",
+        "auteur": "karim IBOUHJAREN",
+        "auteur_lien": "https://www.google.com/maps/contrib/117339745374563243340/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2pOMlFrczFUalJLVG1wMkxUTlliVEJSU1c1bVkwRRAB!2m1!1s0x47ee4ed0719fbc35:0x8268f2680efebb58"
+      },
+      {
+        "note": 1,
+        "texte": "Vous vérifie  que vous achetez à vont de  payer viande",
+        "langue": "fr",
+        "date": "2026-06-20",
+        "auteur": "Noureddine Boudhib",
+        "auteur_lien": "https://www.google.com/maps/contrib/107409436427436462369/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25wV2JXVkVhRmhqY0haek9HMHpWbk5KWlhSTFNXYxAB!2m1!1s0x47ee4ed0719fbc35:0x8268f2680efebb58"
+      },
+      {
+        "note": 1,
+        "texte": "J’ai été à la boucherie samedi 28 février . J’ai pris pour 200 et quelques € de viandes car je n’habite pas à côté. J’ai pris 3kg de viande hachée qui ne sont finalement pas de la viande hachée le boucher ne pas prévenu qu’il me mettez autre chose. Ils on voulu coupé avec une autre viande comme ci que nous allions pas le remarquer une honte à vous de pas prévenir les gens. La viande est blanche à la cuisson et non rouge comme de la vrai viande hachée et au touche collante , sa ressemble à de l’agneau je sais pas . J’ai appelé plusieurs fois car j’habite à 50 km personne répond. Je n’y remettrais plus les pieds",
+        "langue": "fr",
+        "date": "2026-03-02",
+        "auteur": "Carole Menard",
+        "auteur_lien": "https://www.google.com/maps/contrib/108460435962157423108/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT205UFNWOVFUa293YkVWSVVIUkRUazVPU1MxYWJGRRAB!2m1!1s0x47ee4ed0719fbc35:0x8268f2680efebb58"
+      },
+      {
+        "note": 5,
+        "texte": "Ma boucherie Halal préférée sans hésitation. De plus de beaux travaux de rénovations ont été effectués.\nOn est bien conseillé sur la viande,la cuisson si besoin.\nRien à redire.\nPersonnel sympathique",
+        "langue": "fr",
+        "date": "2025-11-20",
+        "auteur": "Emily",
+        "auteur_lien": "https://www.google.com/maps/contrib/106163819690876659442/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2tod1pGWlRSSE5MY1hsVWFGSkdjbWczTUdWYVVuYxAB!2m1!1s0x47ee4ed0719fbc35:0x8268f2680efebb58"
+      }
+    ]
+  },
+  "services": {
+    "releve": "2026-10-27",
+    "options": {
+      "delivery": true,
+      "restroom": false
+    },
+    "paiement": [
+      "carte bancaire",
+      "carte de débit",
+      "paiement sans contact"
+    ],
+    "parking": []
   }
 }

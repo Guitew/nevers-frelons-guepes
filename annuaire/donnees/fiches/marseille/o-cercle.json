@@ -108,8 +108,8 @@
     "etat": "absent",
     "premiere_detection": null,
     "derniere_detection": null,
-    "derniere_verification": "2026-10-11T11:22:19.539Z",
-    "echecs": 1,
+    "derniere_verification": "2026-10-27T10:29:22.553Z",
+    "echecs": 2,
     "url_detectee": null
   },
   "suggestion": {
@@ -122,7 +122,7 @@
   "dates": {
     "collecte": "2026-10-11",
     "publication": "2026-10-11",
-    "maj": "2026-10-11"
+    "maj": "2026-10-27"
   },
   "source": "google-places",
   "redaction": {
@@ -130,13 +130,24 @@
     "titre": "Ô Cercle — Restaurant à Marseille",
     "meta_titre": "Ô Cercle à Marseille : horaires, avis, téléphone",
     "meta_description": "Ô Cercle, restaurant à Marseille : horaires d'ouverture, note Google 3,6/5 (26 avis), téléphone, adresse et itinéraire.",
-    "chapo": "Ô Cercle exerce l'activité de restaurant au 1 avenue des catalans, à Marseille. Ouvert tous les jours sauf le lundi au relevé du 11 octobre 2026. Téléphone : 04 96 11 55 62. Note Google : 3,6 sur 5 pour 26 avis.",
+    "chapo": "Ô Cercle exerce l'activité de restaurant au 1 avenue des catalans, à Marseille. Ouvert tous les jours sauf le lundi au relevé du 27 octobre 2026. Téléphone : 04 96 11 55 62. Note Google : 3,6 sur 5 pour 26 avis.",
     "sections": [
       {
         "id": "presentation",
         "titre": "Ô Cercle en quelques mots",
         "paragraphes": [
-          "D'après le relevé du 11 octobre 2026, l'établissement est ouvert tous les jours sauf le lundi. Le détail jour par jour figure plus bas."
+          "Niveau de prix indiqué sur la fiche Google : €€€ (élevé).",
+          "D'après le relevé du 27 octobre 2026, l'établissement est ouvert tous les jours sauf le lundi. Le détail jour par jour figure plus bas."
+        ]
+      },
+      {
+        "id": "prestations",
+        "titre": "Services et équipements de Ô Cercle",
+        "paragraphes": [
+          "Proposé : sur place, réservation possible, terrasse, plats végétariens, café, bière, vin, cocktails, menu enfant, adapté aux groupes et toilettes.",
+          "Non proposé selon la fiche Google : à emporter, livraison, retrait en voiture et musique live.",
+          "Moyens de paiement déclarés : carte bancaire, carte de débit et paiement sans contact.",
+          "Ces indications sont déclarées par l'établissement sur sa fiche Google (relevé du 27 octobre 2026)."
         ]
       },
       {
@@ -151,25 +162,26 @@
         "id": "contact",
         "titre": "Contacter Ô Cercle",
         "paragraphes": [
-          "Le contact se fait par téléphone au 04 96 11 55 62, ou directement sur place aux horaires d'ouverture."
+          "Le contact se fait par téléphone au 04 96 11 55 62, ou directement sur place aux horaires d'ouverture.",
+          "La fiche Google indique que la réservation est possible."
         ]
       },
       {
         "id": "avis",
         "titre": "La réputation de Ô Cercle",
         "paragraphes": [
-          "Note de 3,6 sur 5 pour 26 avis Google au relevé du 11 octobre 2026. Les avis se consultent sur la fiche Google, dont le lien figure sur cette page."
+          "Note de 3,6 sur 5 pour 26 avis Google au relevé du 27 octobre 2026. Les avis les plus parlants sont compilés ci-dessous, avec un lien vers la fiche d'origine."
         ]
       }
     ],
     "faq": [
       {
         "q": "Quels sont les horaires de Ô Cercle ?",
-        "r": "Au relevé du 11 octobre 2026, Ô Cercle était ouvert tous les jours sauf le lundi. Dans le détail — lundi : fermé ; mardi : de 12 h à 14 h ; mercredi : de 12 h à 14 h ; jeudi : de 12 h à 14 h ; vendredi : de 12 h à 14 h ; samedi : de 12 h à 14 h ; dimanche : de 12 h à 14 h. Ces horaires peuvent changer : un appel préalable reste conseillé."
+        "r": "Au relevé du 27 octobre 2026, Ô Cercle était ouvert tous les jours sauf le lundi. Dans le détail — lundi : fermé ; mardi : de 12 h à 14 h ; mercredi : de 12 h à 14 h ; jeudi : de 12 h à 14 h ; vendredi : de 12 h à 14 h ; samedi : de 12 h à 14 h ; dimanche : de 12 h à 14 h. Ces horaires peuvent changer : un appel préalable reste conseillé."
       },
       {
         "q": "Ô Cercle est-il ouvert le dimanche ?",
-        "r": "Oui : le dimanche, Ô Cercle est ouvert de 12 h à 14 h (horaires relevés le 11 octobre 2026)."
+        "r": "Oui : le dimanche, Ô Cercle est ouvert de 12 h à 14 h (horaires relevés le 27 octobre 2026)."
       },
       {
         "q": "Où se trouve Ô Cercle ?",
@@ -180,11 +192,23 @@
         "r": "Par téléphone au 04 96 11 55 62, ou directement sur place aux heures d'ouverture."
       },
       {
+        "q": "Peut-on réserver chez Ô Cercle ?",
+        "r": "Oui, la fiche Google de Ô Cercle indique que la réservation est possible, par téléphone au 04 96 11 55 62."
+      },
+      {
+        "q": "Ô Cercle propose-t-il la vente à emporter ou la livraison ?",
+        "r": "D'après sa fiche Google (relevé du 27 octobre 2026) — vente à emporter : non ; livraison : non."
+      },
+      {
+        "q": "Quel est le niveau de prix de Ô Cercle ?",
+        "r": "Google classe Ô Cercle au niveau de prix €€€ (élevé), sur une échelle de € à €€€€ établie à partir des avis clients."
+      },
+      {
         "q": "Ô Cercle est-il accessible aux personnes à mobilité réduite ?",
         "r": "La fiche Google de l'établissement mentionne : « Entrée accessible en fauteuil roulant ». Cette information est déclarative ; en cas de doute, vérifiez par téléphone."
       }
     ],
-    "genere_le": "2026-10-11"
+    "genere_le": "2026-10-27"
   },
   "statut_google": "OPERATIONAL",
   "audience": {
@@ -195,6 +219,83 @@
     "clicsRecents": 0,
     "fenetreRecenteJours": 28,
     "source": "search-console",
-    "date": "2026-10-26"
+    "date": "2026-10-27"
+  },
+  "avis_detail": {
+    "releve": "2026-10-27",
+    "liste": [
+      {
+        "note": 1,
+        "texte": "Hier soir j'ai commandé en plat  un bowl.\nIl ne manquait plus qu'un petit jouet et j'avais la magic box !\n\nSérieusement 20 euros pour des quantités vraiment ridicules.\nJe n'ai rien dit pour ne pas désorganiser le service plus que ce qu'il ne l'était mais le chef devrait contrôler ses assiettes. J'ôse croire encore qu'il ne les contrôle pas. Car dans le cas inverse  on est proche de l'escroquerie.",
+        "langue": "fr",
+        "date": "2026-07-05",
+        "auteur": "Yann R.",
+        "auteur_lien": "https://www.google.com/maps/contrib/100020078689138740871/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT210Q1ZFSmZPUzFuYTBwQ2NFUlBYMlZrTUVkNlVWRRAB!2m1!1s0x12c9c0da7de3692d:0x90c353f56ab0b9c0"
+      },
+      {
+        "note": 3,
+        "texte": "Le cadre est joli mais la cuisine n'est pas à la hauteur du lieu.\nService pas très réactif suite à des demandes de bouteilles d'eau en sachant que nous étions en extérieur et qu'il faisait chaud.",
+        "langue": "fr",
+        "date": "2026-06-23",
+        "auteur": "david guay",
+        "auteur_lien": "https://www.google.com/maps/contrib/104641885668402851698/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2tOMVp6RkZObmt6VnpaWFdYUXhObXBZUVdOSWFIYxAB!2m1!1s0x12c9c0da7de3692d:0x90c353f56ab0b9c0"
+      },
+      {
+        "note": 5,
+        "texte": "Très bon restaurant. Nourriture impeccable et service agréable en plus d'un cadre magnifique. Je recommande.",
+        "langue": "fr",
+        "date": "2026-03-11",
+        "auteur": "Florian Ribes (Nairolf138)",
+        "auteur_lien": "https://www.google.com/maps/contrib/110268857662723204620/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2pBeWQyNWphR2x1UkdobVVXMUZXV055U2psV1VYYxAB!2m1!1s0x12c9c0da7de3692d:0x90c353f56ab0b9c0"
+      },
+      {
+        "note": 2,
+        "texte": "Le cadre est magnifique et le service tout à fait correct, mais la déception est venue de l’assiette : des plats fades, sans aucune créativité, portions très réduites: aucun plaisir gustatif. L’un des pires restaurants que j’ai testés. Dommage, je ne recommande pas.",
+        "langue": "fr",
+        "date": "2025-07-20",
+        "auteur": "Guillaume DUCRET",
+        "auteur_lien": "https://www.google.com/maps/contrib/103995567766031187634/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2t4eVVFZFNjMlJYVmxGTFREQmZUazF0VUU1ZmNsRRAB!2m1!1s0x12c9c0da7de3692d:0x90c353f56ab0b9c0"
+      },
+      {
+        "note": 2,
+        "texte": "Mauvaise expérience malgré un superbe cadre. La nourriture n’est vraiment pas bonne (pizza pas cuite, salade César immangeable, salade flétrie). Les tables sont vraiment les unes sur les autres et bien que l’on soit sur une terrasse on a l’impression d'étouffer. Les serveurs qui sont débordés sont malgré tout adorables et font vraiment de leur mieux. Je connais ce restaurant depuis très longtemps, j’y allais avec plaisir mais cette année la qualité n’est pas vraiment pas au rendez-vous. C’est cher et c’est pas bon. C’est dommage car le lieu est superbe.",
+        "langue": "fr",
+        "date": "2024-08-04",
+        "auteur": "Bruno Davoine",
+        "auteur_lien": "https://www.google.com/maps/contrib/115594011870828285035/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSURiNm9pM0xREAE!2m1!1s0x12c9c0da7de3692d:0x90c353f56ab0b9c0"
+      }
+    ]
+  },
+  "services": {
+    "releve": "2026-10-27",
+    "prix": "PRICE_LEVEL_EXPENSIVE",
+    "options": {
+      "dineIn": true,
+      "takeout": false,
+      "delivery": false,
+      "curbsidePickup": false,
+      "reservable": true,
+      "outdoorSeating": true,
+      "servesVegetarianFood": true,
+      "servesCoffee": true,
+      "servesBeer": true,
+      "servesWine": true,
+      "servesCocktails": true,
+      "menuForChildren": true,
+      "goodForGroups": true,
+      "liveMusic": false,
+      "restroom": true
+    },
+    "paiement": [
+      "carte bancaire",
+      "carte de débit",
+      "paiement sans contact"
+    ],
+    "parking": []
   }
 }

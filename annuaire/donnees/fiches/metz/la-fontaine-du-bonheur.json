@@ -30,7 +30,7 @@
     "longitude": 6.233396399999999
   },
   "note": 3.5,
-  "avis": 1773,
+  "avis": 1778,
   "horaires": [
     {
       "jour": 0,
@@ -144,8 +144,8 @@
     "etat": "absent",
     "premiere_detection": null,
     "derniere_detection": null,
-    "derniere_verification": "2026-10-11T11:22:19.539Z",
-    "echecs": 1,
+    "derniere_verification": "2026-10-27T10:29:22.553Z",
+    "echecs": 2,
     "url_detectee": null
   },
   "suggestion": {
@@ -158,22 +158,34 @@
   "dates": {
     "collecte": "2026-10-11",
     "publication": "2026-10-11",
-    "maj": "2026-10-11"
+    "maj": "2026-10-27"
   },
   "source": "google-places",
   "redaction": {
     "version": 2,
     "titre": "La fontaine du bonheur — Restaurant à Metz",
     "meta_titre": "La fontaine du bonheur à Metz : horaires, avis, téléphone",
-    "meta_description": "La fontaine du bonheur, restaurant à Metz : horaires d'ouverture, note Google 3,5/5 (1773 avis), téléphone, adresse et itinéraire.",
-    "chapo": "La fontaine du bonheur, restaurant au 92 Boulevard Solidarité, à Metz. Ouvert sept jours sur sept au relevé du 11 octobre 2026. Téléphone : 03 87 18 88 58. Note Google : 3,5 sur 5 pour 1773 avis.",
+    "meta_description": "La fontaine du bonheur, restaurant à Metz : horaires d'ouverture, note Google 3,5/5 (1778 avis), téléphone, adresse et itinéraire.",
+    "chapo": "La fontaine du bonheur, restaurant au 92 Boulevard Solidarité, à Metz. Ouvert sept jours sur sept au relevé du 27 octobre 2026. Téléphone : 03 87 18 88 58. Note Google : 3,5 sur 5 pour 1778 avis.",
     "sections": [
       {
         "id": "presentation",
         "titre": "La fontaine du bonheur en quelques mots",
         "paragraphes": [
           "Sur Google, l'établissement est classé « Restaurant chinois », dans notre rubrique Restaurant.",
-          "D'après le relevé du 11 octobre 2026, l'établissement est ouvert sept jours sur sept. Le détail jour par jour figure plus bas."
+          "Niveau de prix indiqué sur la fiche Google : €€ (modéré).",
+          "D'après le relevé du 27 octobre 2026, l'établissement est ouvert sept jours sur sept. Le détail jour par jour figure plus bas."
+        ]
+      },
+      {
+        "id": "prestations",
+        "titre": "Services et équipements de La fontaine du bonheur",
+        "paragraphes": [
+          "Proposé : sur place, à emporter, réservation possible, déjeuner, dîner, plats végétariens, café, bière, vin, cocktails, menu enfant, adapté aux enfants, adapté aux groupes et toilettes.",
+          "Non proposé selon la fiche Google : terrasse, petit-déjeuner, brunch, retransmissions sportives et musique live.",
+          "Moyens de paiement déclarés : carte bancaire, carte de débit et paiement sans contact.",
+          "Stationnement : parking gratuit et stationnement gratuit dans la rue.",
+          "Ces indications sont déclarées par l'établissement sur sa fiche Google (relevé du 27 octobre 2026)."
         ]
       },
       {
@@ -188,25 +200,26 @@
         "id": "contact",
         "titre": "Contacter La fontaine du bonheur",
         "paragraphes": [
-          "Le contact se fait par téléphone au 03 87 18 88 58, ou directement sur place aux horaires d'ouverture."
+          "Le contact se fait par téléphone au 03 87 18 88 58, ou directement sur place aux horaires d'ouverture.",
+          "La fiche Google indique que la réservation est possible."
         ]
       },
       {
         "id": "avis",
         "titre": "La réputation de La fontaine du bonheur",
         "paragraphes": [
-          "Note de 3,5 sur 5 pour 1773 avis Google au relevé du 11 octobre 2026. Les avis se consultent sur la fiche Google, dont le lien figure sur cette page."
+          "Note de 3,5 sur 5 pour 1778 avis Google au relevé du 27 octobre 2026. Les avis les plus parlants sont compilés ci-dessous, avec un lien vers la fiche d'origine."
         ]
       }
     ],
     "faq": [
       {
         "q": "Quels sont les horaires de La fontaine du bonheur ?",
-        "r": "Au relevé du 11 octobre 2026, La fontaine du bonheur était ouvert sept jours sur sept. Dans le détail — lundi : de 12 h à 14 h 30 et de 19 h à 22 h 30 ; mardi : de 12 h à 14 h 30 et de 19 h à 22 h 30 ; mercredi : de 12 h à 14 h 30 et de 19 h à 22 h 30 ; jeudi : de 0 h à 14 h 30 et de 19 h à 22 h 30 ; vendredi : de 12 h à 14 h 30 et de 19 h à 22 h 30 ; samedi : de 12 h à 14 h 30 et de 19 h à 22 h 30 ; dimanche : de 12 h à 14 h 30 et de 19 h à 22 h 30. Ces horaires peuvent changer : un appel préalable reste conseillé."
+        "r": "Au relevé du 27 octobre 2026, La fontaine du bonheur était ouvert sept jours sur sept. Dans le détail — lundi : de 12 h à 14 h 30 et de 19 h à 22 h 30 ; mardi : de 12 h à 14 h 30 et de 19 h à 22 h 30 ; mercredi : de 12 h à 14 h 30 et de 19 h à 22 h 30 ; jeudi : de 0 h à 14 h 30 et de 19 h à 22 h 30 ; vendredi : de 12 h à 14 h 30 et de 19 h à 22 h 30 ; samedi : de 12 h à 14 h 30 et de 19 h à 22 h 30 ; dimanche : de 12 h à 14 h 30 et de 19 h à 22 h 30. Ces horaires peuvent changer : un appel préalable reste conseillé."
       },
       {
         "q": "La fontaine du bonheur est-il ouvert le dimanche ?",
-        "r": "Oui : le dimanche, La fontaine du bonheur est ouvert de 12 h à 14 h 30 et de 19 h à 22 h 30 (horaires relevés le 11 octobre 2026)."
+        "r": "Oui : le dimanche, La fontaine du bonheur est ouvert de 12 h à 14 h 30 et de 19 h à 22 h 30 (horaires relevés le 27 octobre 2026)."
       },
       {
         "q": "Où se trouve La fontaine du bonheur ?",
@@ -217,11 +230,23 @@
         "r": "Par téléphone au 03 87 18 88 58, ou directement sur place aux heures d'ouverture."
       },
       {
+        "q": "Peut-on réserver chez La fontaine du bonheur ?",
+        "r": "Oui, la fiche Google de La fontaine du bonheur indique que la réservation est possible, par téléphone au 03 87 18 88 58."
+      },
+      {
+        "q": "La fontaine du bonheur propose-t-il la vente à emporter ou la livraison ?",
+        "r": "D'après sa fiche Google (relevé du 27 octobre 2026) — vente à emporter : oui."
+      },
+      {
+        "q": "Quel est le niveau de prix de La fontaine du bonheur ?",
+        "r": "Google classe La fontaine du bonheur au niveau de prix €€ (modéré), sur une échelle de € à €€€€ établie à partir des avis clients."
+      },
+      {
         "q": "La fontaine du bonheur est-il accessible aux personnes à mobilité réduite ?",
         "r": "La fiche Google de l'établissement mentionne : « Entrée accessible en fauteuil roulant ». Cette information est déclarative ; en cas de doute, vérifiez par téléphone."
       }
     ],
-    "genere_le": "2026-10-11"
+    "genere_le": "2026-10-27"
   },
   "statut_google": "OPERATIONAL",
   "audience": {
@@ -232,6 +257,90 @@
     "clicsRecents": 0,
     "fenetreRecenteJours": 28,
     "source": "search-console",
-    "date": "2026-10-26"
+    "date": "2026-10-27"
+  },
+  "avis_detail": {
+    "releve": "2026-10-27",
+    "liste": [
+      {
+        "note": 2,
+        "texte": "Grosse baisse de qualité. Beaucoup de plats au mieux tièdes, limite froids. J'ai quand meme rit avec le riz cantonnais \"halal\" avec des gros morceaux de jambon.  Les dessert disparaissent petit à petit : plus de petits éclair, machine à pop corn remballée,  surement rangée à côté de la machine à glace italienne... heureusement la serveuse a toujours un mot gentil.",
+        "langue": "fr",
+        "date": "2026-09-09",
+        "auteur": "Yann CORDONNIER",
+        "auteur_lien": "https://www.google.com/maps/contrib/112265979668897042160/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2pOQlFrbENSelIwY2xsWVptZFJiRGsyWm1wQlMwRRAB!2m1!1s0x4794dddd5ec31b7d:0x90fb7469bbad2af8"
+      },
+      {
+        "note": 5,
+        "texte": "On a reçu un accueil trés chaleureux, personnel attentionné tout au long du repas. Le buffet était bien fournit et de qualité.  Je recommande.",
+        "langue": "fr",
+        "date": "2026-09-08",
+        "auteur": "Rose MUNOZ",
+        "auteur_lien": "https://www.google.com/maps/contrib/108949670276232045375/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25CVmRtTk5SVkJwTFUxNllsbzRWbGxPY21GbVNGRRAB!2m1!1s0x4794dddd5ec31b7d:0x90fb7469bbad2af8"
+      },
+      {
+        "note": 1,
+        "texte": "Deguelasse, pardon du terme mais il s’agit très probablement des restes de la veille. De plus, nous sommes arrivés à 21h, le restaurant ferme à 22h30, il n’y avait plus grand chose et ils n’ont même pas rechargé les bacs alors qu’on paie autant que les autres ! à 22h ils ont commencé à passer la serpillière, nous voulions nous servir le dessert mais ils nous ont dit qu’on devait attendre que ça sèche alors qu’en parallèle ils commençaient à éteindre les lumières. bref on paie cher pour une qualité médiocre et un service qui laisse à désirer. N’y aller pas si vous tenez à bien manger sans être dégoûté.",
+        "langue": "fr",
+        "date": "2026-07-26",
+        "auteur": "M",
+        "auteur_lien": "https://www.google.com/maps/contrib/118263057373700826035/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xGRmFsODFUVWhSVHpKT00wSnRWRkJtYzJSZlkwRRAB!2m1!1s0x4794dddd5ec31b7d:0x90fb7469bbad2af8"
+      },
+      {
+        "note": 1,
+        "texte": "À FUIRE D’URGENCE.\nJe suis allé dans se restaurant hier soir et ce fut une très mauvaise expérience, mal aux ventre en sortant.\nLes plats étaient du midi, tout était sec et caoutchouteux. C’était du réchauffé sur réchauffé, une vraie catastrophe.\nLe service n’en parlons même pas, à 21h30, le personnel étaient entrain de passer la serpillière autour de nous et nous a demandé à plusieurs reprises si nous avions terminé alors que le restaurant ferme à 22h30.\nFranchement pour le prix ils s’en mettent plein les poches.",
+        "langue": "fr",
+        "date": "2026-07-20",
+        "auteur": "Elodie Remy",
+        "auteur_lien": "https://www.google.com/maps/contrib/106153059626232338850/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2t0bE1EWlljMVp4ZEZwb1RUbHljVXR4VVU1WlduYxAB!2m1!1s0x4794dddd5ec31b7d:0x90fb7469bbad2af8"
+      },
+      {
+        "note": 2,
+        "texte": "Très déçu par le buffet, peu de proposition et triste.\n23,90€ le soir contre 18,90€ le midi, le tarif est clairement excessif !\nJe n'y retournerai plus.",
+        "langue": "fr",
+        "date": "2026-06-29",
+        "auteur": "Eric TOUATI",
+        "auteur_lien": "https://www.google.com/maps/contrib/101520841084341072565/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT201VWVHUjFkbXRUTTB0TExVSjRMV3BXVkVKbFVVRRAB!2m1!1s0x4794dddd5ec31b7d:0x90fb7469bbad2af8"
+      }
+    ]
+  },
+  "services": {
+    "releve": "2026-10-27",
+    "prix": "PRICE_LEVEL_MODERATE",
+    "options": {
+      "dineIn": true,
+      "takeout": true,
+      "reservable": true,
+      "outdoorSeating": false,
+      "servesBreakfast": false,
+      "servesBrunch": false,
+      "servesLunch": true,
+      "servesDinner": true,
+      "servesVegetarianFood": true,
+      "servesCoffee": true,
+      "servesBeer": true,
+      "servesWine": true,
+      "servesCocktails": true,
+      "menuForChildren": true,
+      "goodForChildren": true,
+      "goodForGroups": true,
+      "goodForWatchingSports": false,
+      "liveMusic": false,
+      "restroom": true
+    },
+    "paiement": [
+      "carte bancaire",
+      "carte de débit",
+      "paiement sans contact"
+    ],
+    "parking": [
+      "parking gratuit",
+      "stationnement gratuit dans la rue"
+    ]
   }
 }

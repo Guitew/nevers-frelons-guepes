@@ -36,7 +36,7 @@
     "longitude": 2.0557854
   },
   "note": 3.5,
-  "avis": 204,
+  "avis": 205,
   "horaires": [
     {
       "jour": 0,
@@ -114,15 +114,15 @@
     "Parking accessible en fauteuil roulant"
   ],
   "lien_google": "https://maps.google.com/?cid=18166816279450336360&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
-  "site_web_gmb": null,
+  "site_web_gmb": "https://www.franprix.fr/magasins/1328",
   "statut": "publiee",
   "backlink": {
-    "etat": "absent",
+    "etat": "externe",
     "premiere_detection": null,
     "derniere_detection": null,
-    "derniere_verification": "2026-10-11T11:22:19.539Z",
-    "echecs": 5,
-    "url_detectee": null
+    "derniere_verification": "2026-10-27T10:29:22.553Z",
+    "echecs": 6,
+    "url_detectee": "https://www.franprix.fr/magasins/1328"
   },
   "suggestion": {
     "etat": "en-attente",
@@ -134,22 +134,34 @@
   "dates": {
     "collecte": "2026-10-06",
     "publication": "2026-10-06",
-    "maj": "2026-10-11"
+    "maj": "2026-10-27"
   },
   "source": "google-places",
   "redaction": {
     "version": 2,
     "titre": "Franprix — Commerce d'alimentation à Saint-Cyr-l'École",
     "meta_titre": "Franprix à Saint-Cyr-l'École : horaires, avis, téléphone",
-    "meta_description": "Franprix, commerce d'alimentation à Saint-Cyr-l'École : horaires d'ouverture, note Google 3,5/5 (204 avis), téléphone, adresse et itinéraire.",
-    "chapo": "Franprix est un commerce d'alimentation au 37 Rue Danielle Casanova, à Saint-Cyr-l'École. Ouvert sept jours sur sept au relevé du 11 octobre 2026. Téléphone : 01 30 58 42 33. Note Google : 3,5 sur 5 pour 204 avis.",
+    "meta_description": "Franprix, commerce d'alimentation à Saint-Cyr-l'École : horaires d'ouverture, note Google 3,5/5 (205 avis), téléphone, adresse et itinéraire.",
+    "chapo": "Franprix est un commerce d'alimentation au 37 Rue Danielle Casanova, à Saint-Cyr-l'École. Ouvert sept jours sur sept au relevé du 27 octobre 2026. Téléphone : 01 30 58 42 33. Note Google : 3,5 sur 5 pour 205 avis.",
     "sections": [
       {
         "id": "presentation",
         "titre": "Franprix en quelques mots",
         "paragraphes": [
+          "Présentation donnée par Google : « Chaînes de supérettes de proximité proposant des produits de la marque Leader Price et d'autres marques. »",
           "Sur Google, l'établissement est classé « Supermarché », dans notre rubrique Commerce d'alimentation.",
-          "D'après le relevé du 11 octobre 2026, l'établissement est ouvert sept jours sur sept. Le détail jour par jour figure plus bas."
+          "D'après le relevé du 27 octobre 2026, l'établissement est ouvert sept jours sur sept. Le détail jour par jour figure plus bas."
+        ]
+      },
+      {
+        "id": "prestations",
+        "titre": "Services et équipements de Franprix",
+        "paragraphes": [
+          "Proposé : livraison.",
+          "Non proposé selon la fiche Google : toilettes.",
+          "Moyens de paiement déclarés : carte bancaire, carte de débit et paiement sans contact.",
+          "Stationnement : stationnement gratuit dans la rue.",
+          "Ces indications sont déclarées par l'établissement sur sa fiche Google (relevé du 27 octobre 2026)."
         ]
       },
       {
@@ -171,18 +183,18 @@
         "id": "avis",
         "titre": "La réputation de Franprix",
         "paragraphes": [
-          "Note de 3,5 sur 5 pour 204 avis Google au relevé du 11 octobre 2026. Les avis se consultent sur la fiche Google, dont le lien figure sur cette page."
+          "Note de 3,5 sur 5 pour 205 avis Google au relevé du 27 octobre 2026. Les avis les plus parlants sont compilés ci-dessous, avec un lien vers la fiche d'origine."
         ]
       }
     ],
     "faq": [
       {
         "q": "Quels sont les horaires de Franprix ?",
-        "r": "Au relevé du 11 octobre 2026, Franprix était ouvert sept jours sur sept. Dans le détail — lundi : de 8 h 30 à 22 h ; mardi : de 8 h 30 à 22 h ; mercredi : de 8 h 30 à 22 h ; jeudi : de 8 h 30 à 22 h ; vendredi : de 8 h 30 à 23 h 59 ; samedi : de 8 h 30 à 23 h 59 ; dimanche : de 8 h 30 à 23 h 59. Ces horaires peuvent changer : un appel préalable reste conseillé."
+        "r": "Au relevé du 27 octobre 2026, Franprix était ouvert sept jours sur sept. Dans le détail — lundi : de 8 h 30 à 22 h ; mardi : de 8 h 30 à 22 h ; mercredi : de 8 h 30 à 22 h ; jeudi : de 8 h 30 à 22 h ; vendredi : de 8 h 30 à 23 h 59 ; samedi : de 8 h 30 à 23 h 59 ; dimanche : de 8 h 30 à 23 h 59. Ces horaires peuvent changer : un appel préalable reste conseillé."
       },
       {
         "q": "Franprix est-il ouvert le dimanche ?",
-        "r": "Oui : le dimanche, Franprix est ouvert de 8 h 30 à 23 h 59 (horaires relevés le 11 octobre 2026)."
+        "r": "Oui : le dimanche, Franprix est ouvert de 8 h 30 à 23 h 59 (horaires relevés le 27 octobre 2026)."
       },
       {
         "q": "Où se trouve Franprix ?",
@@ -193,11 +205,15 @@
         "r": "Par téléphone au 01 30 58 42 33, ou directement sur place aux heures d'ouverture."
       },
       {
+        "q": "Franprix propose-t-il la vente à emporter ou la livraison ?",
+        "r": "D'après sa fiche Google (relevé du 27 octobre 2026) — livraison : oui."
+      },
+      {
         "q": "Franprix est-il accessible aux personnes à mobilité réduite ?",
         "r": "La fiche Google de l'établissement mentionne : « Entrée accessible en fauteuil roulant ». Cette information est déclarative ; en cas de doute, vérifiez par téléphone."
       }
     ],
-    "genere_le": "2026-10-11"
+    "genere_le": "2026-10-27"
   },
   "statut_google": "OPERATIONAL",
   "audience": {
@@ -208,6 +224,73 @@
     "clicsRecents": 0,
     "fenetreRecenteJours": 28,
     "source": "search-console",
-    "date": "2026-10-26"
+    "date": "2026-10-27"
+  },
+  "avis_detail": {
+    "releve": "2026-10-27",
+    "liste": [
+      {
+        "note": 4,
+        "texte": "Je suis venue pour récupérer un colis. J'ai été très bien reçue",
+        "langue": "fr",
+        "date": "2026-10-17",
+        "auteur": "Marie-Laure Pelle",
+        "auteur_lien": "https://www.google.com/maps/contrib/109293060908412047947/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25WUmFISlpYM2QzUkZkc1RXSkpVMEU1VlZOS1psRRAB!2m1!1s0x47e68718bbf239bf:0xfc1d7f277c6bbc68"
+      },
+      {
+        "note": 1,
+        "texte": "Incroyable!\nCela fais 2 ans que je vais dans cette enseigne Franprix.\nOn m’accuse de volé un article.\nÀ ma grande surprise la caissière a fais une erreur de caisse.\nEt s’en prend à toute ma famille tt les jours.\nPour un remboursement d’une canette.\nTop la fidélisation client !",
+        "langue": "fr",
+        "date": "2026-02-25",
+        "auteur": "yanis Cortesi-Nicolle",
+        "auteur_lien": "https://www.google.com/maps/contrib/116249036731900866360/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xWMmJIaHpkRGxYYUdNd2VtZDZPRk5XWWpjMWRHYxAB!2m1!1s0x47e68718bbf239bf:0xfc1d7f277c6bbc68"
+      },
+      {
+        "note": 1,
+        "texte": "Personnel impoli et peu professionnel. Chaque passage pour récupérer un colis devient une vraie galère, quand ils arrivent à le retrouver et qu’il n’a pas été égaré. De plus, de nouvelles “règles” semblent être inventées à chaque visite, et ils n’hésitent pas à mentir pour ne pas vous remettre votre colis. Je ne recommande vraiment pas ce point relais.",
+        "langue": "fr",
+        "date": "2026-02-04",
+        "auteur": "NS Reskoi",
+        "auteur_lien": "https://www.google.com/maps/contrib/112006200676954550536/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25wd2NFZEdNR0pFU0ZwdVdYcGpiVTlYU3psMmFHYxAB!2m1!1s0x47e68718bbf239bf:0xfc1d7f277c6bbc68"
+      },
+      {
+        "note": 1,
+        "texte": "Je suis profondément choqué par le traitement que j’ai subi dans ce Franprix. On m’a injustement accusé de vol pour une simple pizza 4 fromages que je n’ai absolument pas volée. C’est non seulement humiliant, mais aussi totalement inacceptable, d’autant plus que je suis un client et que je fais souvent mes courses ici.\n\nÊtre traité comme un voleur sans preuve, c’est non seulement irrespectueux, mais cela nuit aussi gravement à l’image du magasin. J’espère sincèrement que la direction prendra ses responsabilités pour éviter que ce genre de comportement déplacé ne se reproduise avec d’autres clients.\n\nJe ne recommande pas ce magasin tant que ce genre de pratiques continueront.",
+        "langue": "fr",
+        "date": "2025-08-08",
+        "auteur": "David Malheiros",
+        "auteur_lien": "https://www.google.com/maps/contrib/104117240627432740566/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT21ablMyeGhVRXhJVkVGbE1WOUdhalk1ZVdKV1VWRRAB!2m1!1s0x47e68718bbf239bf:0xfc1d7f277c6bbc68"
+      },
+      {
+        "note": 1,
+        "texte": "Sur internet annoncé pouvoir récupérer ses colis dès 11h. Arrivé sur place, ce n'est possible qu'à partir de 15h\n\nEn discutant, les employés ne voient pas le problème.\n\nLe problème c'est que l'on se déplace pour venir et que les informations sont contradictoires.\nJe ne recommande pas.",
+        "langue": "fr",
+        "date": "2024-03-11",
+        "auteur": "Pouxc",
+        "auteur_lien": "https://www.google.com/maps/contrib/114114958650919028937/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUM5ejgzVG1BRRAB!2m1!1s0x47e68718bbf239bf:0xfc1d7f277c6bbc68"
+      }
+    ]
+  },
+  "services": {
+    "releve": "2026-10-27",
+    "resume": "Chaînes de supérettes de proximité proposant des produits de la marque Leader Price et d'autres marques.",
+    "resume_langue": "fr",
+    "options": {
+      "delivery": true,
+      "restroom": false
+    },
+    "paiement": [
+      "carte bancaire",
+      "carte de débit",
+      "paiement sans contact"
+    ],
+    "parking": [
+      "stationnement gratuit dans la rue"
+    ]
   }
 }

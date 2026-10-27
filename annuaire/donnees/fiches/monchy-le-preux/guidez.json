@@ -37,8 +37,8 @@
     "etat": "absent",
     "premiere_detection": null,
     "derniere_detection": null,
-    "derniere_verification": "2026-10-12T19:47:22.869Z",
-    "echecs": 69,
+    "derniere_verification": "2026-10-27T10:29:22.553Z",
+    "echecs": 70,
     "url_detectee": null
   },
   "suggestion": {
@@ -58,7 +58,7 @@
   "dates": {
     "collecte": "2026-09-02",
     "publication": "2026-09-02",
-    "maj": "2026-10-18"
+    "maj": "2026-10-27"
   },
   "source": "google-places",
   "redaction": {
@@ -94,7 +94,7 @@
         "id": "avis",
         "titre": "La réputation de Guidez",
         "paragraphes": [
-          "Note de 4,4 sur 5 pour 7 avis Google au relevé du 18 octobre 2026. Les avis se consultent sur la fiche Google, dont le lien figure sur cette page."
+          "Note de 4,4 sur 5 pour 7 avis Google au relevé du 27 octobre 2026. Les avis se consultent sur la fiche Google, dont le lien figure sur cette page."
         ]
       }
     ],
@@ -104,7 +104,7 @@
         "r": "Guidez se trouve All. de Grande Bretagne, 62118 Monchy-le-Preux. Un lien d'itinéraire est disponible sur cette page."
       }
     ],
-    "genere_le": "2026-10-18"
+    "genere_le": "2026-10-27"
   },
   "statut_google": "OPERATIONAL",
   "audience": {
@@ -115,7 +115,7 @@
     "clicsRecents": 0,
     "fenetreRecenteJours": 28,
     "source": "search-console",
-    "date": "2026-10-26"
+    "date": "2026-10-27"
   },
   "indexation": {
     "etat": "non-indexee",
@@ -125,5 +125,55 @@
     "canonique_google": null,
     "source": "inspection",
     "date": "2026-10-18"
+  },
+  "avis_detail": {
+    "releve": "2026-10-27",
+    "liste": [
+      {
+        "note": 5,
+        "texte": "",
+        "langue": "",
+        "date": "2026-09-02",
+        "auteur": "SiMoNa Muresan",
+        "auteur_lien": "https://www.google.com/maps/contrib/105450375643078829463/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2kxbFgyVlJlRVJ5ZG5CQlNFaHlNbXRwUVdkcFFWRRAB!2m1!1s0x47dd49004b57cb47:0x14c381363404224c"
+      },
+      {
+        "note": 5,
+        "texte": "",
+        "langue": "",
+        "date": "2026-05-29",
+        "auteur": "Cyril Goguillon",
+        "auteur_lien": "https://www.google.com/maps/contrib/113318356112676889719/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2tNelh6RkdZelEyZUhJMlYwWm1hbVJIT1V0MVNGRRAB!2m1!1s0x47dd49004b57cb47:0x14c381363404224c"
+      },
+      {
+        "note": 5,
+        "texte": "",
+        "langue": "",
+        "date": "2026-05-24",
+        "auteur": "Eric Galande",
+        "auteur_lien": "https://www.google.com/maps/contrib/111362663141775581262/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT21WUVpEbEJiSEJRTXpsT1UxODJXbXR1YUVoRmQwRRAB!2m1!1s0x47dd49004b57cb47:0x14c381363404224c"
+      },
+      {
+        "note": 4,
+        "texte": "",
+        "langue": "",
+        "date": "2026-04-17",
+        "auteur": "France",
+        "auteur_lien": "https://www.google.com/maps/contrib/112073918421611975418/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2w4dGJXUlpTRlV4WWtGS2IwRmlRMDF1UVMxelQxRRAB!2m1!1s0x47dd49004b57cb47:0x14c381363404224c"
+      },
+      {
+        "note": 5,
+        "texte": "",
+        "langue": "",
+        "date": "2026-01-16",
+        "auteur": "Damien",
+        "auteur_lien": "https://www.google.com/maps/contrib/104426178191584951146/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2tkM1lqbEVlbFoxZW1kQ1ExcHFZWEpCYm5aSVRtYxAB!2m1!1s0x47dd49004b57cb47:0x14c381363404224c"
+      }
+    ]
   }
 }

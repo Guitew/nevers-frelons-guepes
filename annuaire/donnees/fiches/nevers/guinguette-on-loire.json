@@ -27,7 +27,7 @@
     "longitude": 3.1498215999999997
   },
   "note": 3.8,
-  "avis": 837,
+  "avis": 838,
   "horaires": [
     {
       "jour": 0,
@@ -108,8 +108,8 @@
     "etat": "externe",
     "premiere_detection": null,
     "derniere_detection": null,
-    "derniere_verification": "2026-10-12T19:47:22.869Z",
-    "echecs": 72,
+    "derniere_verification": "2026-10-27T10:29:22.553Z",
+    "echecs": 73,
     "url_detectee": "https://www.guinguetteonloire.fr/contact"
   },
   "retrait": {
@@ -121,21 +121,33 @@
   "dates": {
     "collecte": "2026-08-30",
     "publication": "2026-08-30",
-    "maj": "2026-10-19"
+    "maj": "2026-10-27"
   },
   "source": "google-places",
   "redaction": {
     "version": 2,
     "titre": "Guinguette On Loire — Restaurant à Nevers",
     "meta_titre": "Guinguette On Loire à Nevers : horaires, avis, téléphone",
-    "meta_description": "Guinguette On Loire, restaurant à Nevers : horaires d'ouverture, note Google 3,8/5 (837 avis), téléphone, adresse et itinéraire.",
-    "chapo": "Guinguette On Loire exerce l'activité de restaurant au 2 Route des Saulaies, à Nevers. Ouvert tous les jours sauf le lundi au relevé du 18 octobre 2026. Téléphone : 06 49 58 24 46. Note Google : 3,8 sur 5 pour 837 avis.",
+    "meta_description": "Guinguette On Loire, restaurant à Nevers : horaires d'ouverture, note Google 3,8/5 (838 avis), téléphone, adresse et itinéraire.",
+    "chapo": "Guinguette On Loire exerce l'activité de restaurant au 2 Route des Saulaies, à Nevers. Ouvert tous les jours sauf le lundi au relevé du 27 octobre 2026. Téléphone : 06 49 58 24 46. Note Google : 3,8 sur 5 pour 838 avis.",
     "sections": [
       {
         "id": "presentation",
         "titre": "Guinguette On Loire en quelques mots",
         "paragraphes": [
-          "D'après le relevé du 18 octobre 2026, l'établissement est ouvert tous les jours sauf le lundi. Le détail jour par jour figure plus bas."
+          "Niveau de prix indiqué sur la fiche Google : €€ (modéré).",
+          "D'après le relevé du 27 octobre 2026, l'établissement est ouvert tous les jours sauf le lundi. Le détail jour par jour figure plus bas."
+        ]
+      },
+      {
+        "id": "prestations",
+        "titre": "Services et équipements de Guinguette On Loire",
+        "paragraphes": [
+          "Proposé : sur place, réservation possible, terrasse, petit-déjeuner, déjeuner, dîner, café, bière, vin, cocktails, menu enfant, adapté aux enfants, adapté aux groupes, musique live, chiens acceptés et toilettes.",
+          "Non proposé selon la fiche Google : à emporter, livraison, retrait en voiture et retransmissions sportives.",
+          "Moyens de paiement déclarés : carte bancaire, carte de débit et paiement sans contact.",
+          "Stationnement : parking gratuit et stationnement gratuit dans la rue.",
+          "Ces indications sont déclarées par l'établissement sur sa fiche Google (relevé du 27 octobre 2026)."
         ]
       },
       {
@@ -150,25 +162,26 @@
         "id": "contact",
         "titre": "Contacter Guinguette On Loire",
         "paragraphes": [
-          "Le contact se fait par téléphone au 06 49 58 24 46, ou directement sur place aux horaires d'ouverture."
+          "Le contact se fait par téléphone au 06 49 58 24 46, ou directement sur place aux horaires d'ouverture.",
+          "La fiche Google indique que la réservation est possible."
         ]
       },
       {
         "id": "avis",
         "titre": "La réputation de Guinguette On Loire",
         "paragraphes": [
-          "Note de 3,8 sur 5 pour 837 avis Google au relevé du 18 octobre 2026. Les avis se consultent sur la fiche Google, dont le lien figure sur cette page."
+          "Note de 3,8 sur 5 pour 838 avis Google au relevé du 27 octobre 2026. Les avis les plus parlants sont compilés ci-dessous, avec un lien vers la fiche d'origine."
         ]
       }
     ],
     "faq": [
       {
         "q": "Quels sont les horaires de Guinguette On Loire ?",
-        "r": "Au relevé du 18 octobre 2026, Guinguette On Loire était ouvert tous les jours sauf le lundi. Dans le détail — lundi : fermé ; mardi : de 11 h à 23 h ; mercredi : de 11 h à 23 h ; jeudi : de 11 h à 23 h ; vendredi : de 11 h à 0 h ; samedi : de 11 h à 0 h ; dimanche : de 11 h à 21 h 30. Ces horaires peuvent changer : un appel préalable reste conseillé."
+        "r": "Au relevé du 27 octobre 2026, Guinguette On Loire était ouvert tous les jours sauf le lundi. Dans le détail — lundi : fermé ; mardi : de 11 h à 23 h ; mercredi : de 11 h à 23 h ; jeudi : de 11 h à 23 h ; vendredi : de 11 h à 0 h ; samedi : de 11 h à 0 h ; dimanche : de 11 h à 21 h 30. Ces horaires peuvent changer : un appel préalable reste conseillé."
       },
       {
         "q": "Guinguette On Loire est-il ouvert le dimanche ?",
-        "r": "Oui : le dimanche, Guinguette On Loire est ouvert de 11 h à 21 h 30 (horaires relevés le 18 octobre 2026)."
+        "r": "Oui : le dimanche, Guinguette On Loire est ouvert de 11 h à 21 h 30 (horaires relevés le 27 octobre 2026)."
       },
       {
         "q": "Où se trouve Guinguette On Loire ?",
@@ -179,11 +192,23 @@
         "r": "Par téléphone au 06 49 58 24 46, ou directement sur place aux heures d'ouverture."
       },
       {
+        "q": "Peut-on réserver chez Guinguette On Loire ?",
+        "r": "Oui, la fiche Google de Guinguette On Loire indique que la réservation est possible, par téléphone au 06 49 58 24 46."
+      },
+      {
+        "q": "Guinguette On Loire propose-t-il la vente à emporter ou la livraison ?",
+        "r": "D'après sa fiche Google (relevé du 27 octobre 2026) — vente à emporter : non ; livraison : non."
+      },
+      {
+        "q": "Quel est le niveau de prix de Guinguette On Loire ?",
+        "r": "Google classe Guinguette On Loire au niveau de prix €€ (modéré), sur une échelle de € à €€€€ établie à partir des avis clients."
+      },
+      {
         "q": "Guinguette On Loire est-il accessible aux personnes à mobilité réduite ?",
         "r": "La fiche Google de l'établissement mentionne : « Entrée accessible en fauteuil roulant ». Cette information est déclarative ; en cas de doute, vérifiez par téléphone."
       }
     ],
-    "genere_le": "2026-10-18"
+    "genere_le": "2026-10-27"
   },
   "suggestion": {
     "etat": "en-attente",
@@ -200,7 +225,7 @@
     "clicsRecents": 0,
     "fenetreRecenteJours": 28,
     "source": "search-console",
-    "date": "2026-10-26"
+    "date": "2026-10-27"
   },
   "indexation": {
     "etat": "non-indexee",
@@ -210,5 +235,90 @@
     "canonique_google": null,
     "source": "inspection",
     "date": "2026-10-19"
+  },
+  "avis_detail": {
+    "releve": "2026-10-27",
+    "liste": [
+      {
+        "note": 4,
+        "texte": "Un lieu parfait pour les amateurs de guinguette. Décoration et ambiance sympa. Léger bémol sur une carte pas forcément à jour. Pensez à demander ce qu'il y a de disponible.",
+        "langue": "fr",
+        "date": "2026-09-04",
+        "auteur": "Clément Poultier",
+        "auteur_lien": "https://www.google.com/maps/contrib/113196218096700098592/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2podVpraFhibXBUYVVwQk1XRkJWWFp3TkZCS01WRRAB!2m1!1s0x47f04586e2b0a47f:0x68a26a03ddf53be7"
+      },
+      {
+        "note": 2,
+        "texte": "Superbe emplacement, mais grosse déception sur le service et la cuisine\nL'endroit est tout simplement superbe, idéalement situé au bord de la Loire. Le potentiel est immense, mais porter le nom de « guinguette » ne rend malheureusement pas la médiocrité légitime. Rien n'est fait correctement, et c’est bien dommage.\nCôté cuisine : En dehors des planches de charcuterie et de fromage (qui restent des basiques), le reste est clairement à éviter. Nos samoussas baignaient littéralement dans l'huile. (Mai )\nCôté bar : Nous avons commandé des Spritz qui se sont avérés complètement plats, sans la moindre bulle. La seule réaction de la serveuse  face à notre remarque a été un laconique : « Ah bon ? »\nOrganisation : Les horaires d'ouverture sont également très aléatoires, ce qui rend l'expérience imprévisible.\nHeureusement, d'autres acteurs locaux comme Nevers Plage proposent une offre similaire mais gérée de façon professionnelle. Cela prouve bien qu'il est possible de faire les choses correctement en mode guinguette.Avec un peu plus de sérieux et de professionnalisme, ce lieu pourrait devenir incontournable.",
+        "langue": "fr",
+        "date": "2026-08-12",
+        "auteur": "AURÉLIA MCD",
+        "auteur_lien": "https://www.google.com/maps/contrib/112198531573194872960/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2t0S2VWbEZSSGMzZHpWT2RrUkZRbE16WWsxQlZWRRAB!2m1!1s0x47f04586e2b0a47f:0x68a26a03ddf53be7"
+      },
+      {
+        "note": 2,
+        "texte": "J'ai été déçu par mon expérience dans cette guinguette. Les plats m'ont donné l'impression d'être principalement du surgelé et simplement réchauffés. Les tables n'étaient pas toujours propres, et j'ai constaté de nombreux mégots de cigarettes au sol qui n'étaient pas ramassés.\nJ'ai également trouvé que l'accueil du patron n'était pas très agréable, ce qui a rendu le moment moins convivial. Enfin, j'ai trouvé que l'attitude de la serveuse avec certains clients masculins était parfois trop familière à mon goût.\nC'est mon ressenti personnel, mais je pense que davantage de soin apporté à la propreté, à l'accueil et au service améliorerait l'expérience des clients",
+        "langue": "fr",
+        "date": "2026-08-02",
+        "auteur": "Entre ciel Et terre",
+        "auteur_lien": "https://www.google.com/maps/contrib/102768595771948888409/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xRMk0wOTVRbm8yWVc1aU1GSmlTbnB0VWs1Qk1rRRAB!2m1!1s0x47f04586e2b0a47f:0x68a26a03ddf53be7"
+      },
+      {
+        "note": 3,
+        "texte": "Très bel endroit serveuse très sympathique patron pas très serviable le lieu pas propre je suis venu deux fois. Je me suis fait servir par une petite serveuse très gentille deuxième fois j'ai attendu 20 minutes d'avoir mon verre terrasse très sale. Repas tres bon . Beaucoup de choses à revoir",
+        "langue": "fr",
+        "date": "2026-07-20",
+        "auteur": "Lazar Fall",
+        "auteur_lien": "https://www.google.com/maps/contrib/105919177262536549184/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT21ORmNqZGtNVXBMYUU1NFJFeFhlblIwUVdZMU5FRRAB!2m1!1s0x47f04586e2b0a47f:0x68a26a03ddf53be7"
+      },
+      {
+        "note": 5,
+        "texte": "Il y a bien longtemps que je voulais passer un moment en ce lieu mais mes passages sur Nevers sont toujours trop courts pour arriver à tout y caler.\nCe dimanche, l'occasion était là.\nEt c'était parfait!",
+        "langue": "fr",
+        "date": "2025-05-12",
+        "auteur": "Delphine Billaud",
+        "auteur_lien": "https://www.google.com/maps/contrib/104078167172709450800/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VQYm1tT21ROVB1N0dBEAE!2m1!1s0x47f04586e2b0a47f:0x68a26a03ddf53be7"
+      }
+    ]
+  },
+  "services": {
+    "releve": "2026-10-27",
+    "prix": "PRICE_LEVEL_MODERATE",
+    "options": {
+      "dineIn": true,
+      "takeout": false,
+      "delivery": false,
+      "curbsidePickup": false,
+      "reservable": true,
+      "outdoorSeating": true,
+      "servesBreakfast": true,
+      "servesLunch": true,
+      "servesDinner": true,
+      "servesCoffee": true,
+      "servesBeer": true,
+      "servesWine": true,
+      "servesCocktails": true,
+      "menuForChildren": true,
+      "goodForChildren": true,
+      "goodForGroups": true,
+      "goodForWatchingSports": false,
+      "liveMusic": true,
+      "allowsDogs": true,
+      "restroom": true
+    },
+    "paiement": [
+      "carte bancaire",
+      "carte de débit",
+      "paiement sans contact"
+    ],
+    "parking": [
+      "parking gratuit",
+      "stationnement gratuit dans la rue"
+    ]
   }
 }

@@ -32,7 +32,7 @@
     "longitude": 2.8921078
   },
   "note": 4.6,
-  "avis": 571,
+  "avis": 575,
   "horaires": [
     {
       "jour": 0,
@@ -113,8 +113,8 @@
     "etat": "absent",
     "premiere_detection": null,
     "derniere_detection": null,
-    "derniere_verification": "2026-10-12T19:47:22.869Z",
-    "echecs": 30,
+    "derniere_verification": "2026-10-27T10:29:22.553Z",
+    "echecs": 31,
     "url_detectee": null
   },
   "suggestion": {
@@ -127,7 +127,7 @@
   "dates": {
     "collecte": "2026-09-21",
     "publication": "2026-09-21",
-    "maj": "2026-10-18"
+    "maj": "2026-10-27"
   },
   "source": "google-places",
   "redaction": {
@@ -135,14 +135,22 @@
     "titre": "Grande Pharmacie Lafayette de Catalogne — Pharmacie ou opticien à Perpignan",
     "meta_titre": "Grande Pharmacie Lafayette de Catalogne à Perpignan",
     "meta_description": "Grande Pharmacie Lafayette de Catalogne, pharmacie ou opticien à Perpignan : horaires d'ouverture, téléphone, adresse et itinéraire.",
-    "chapo": "Grande Pharmacie Lafayette de Catalogne est une pharmacie ou opticien au 19 Avenue Marcelin Albert, à Perpignan. Ouvert tous les jours sauf le dimanche au relevé du 12 octobre 2026. Téléphone : 04 68 54 01 31. Note Google : 4,6 sur 5 pour 571 avis.",
+    "chapo": "Grande Pharmacie Lafayette de Catalogne est une pharmacie ou opticien au 19 Avenue Marcelin Albert, à Perpignan. Ouvert tous les jours sauf le dimanche au relevé du 27 octobre 2026. Téléphone : 04 68 54 01 31. Note Google : 4,6 sur 5 pour 575 avis.",
     "sections": [
       {
         "id": "presentation",
         "titre": "Grande Pharmacie Lafayette de Catalogne en quelques mots",
         "paragraphes": [
           "Sur Google, l'établissement est classé « Pharmacie », dans notre rubrique Pharmacie ou opticien.",
-          "D'après le relevé du 12 octobre 2026, l'établissement est ouvert tous les jours sauf le dimanche. Le détail jour par jour figure plus bas."
+          "D'après le relevé du 27 octobre 2026, l'établissement est ouvert tous les jours sauf le dimanche. Le détail jour par jour figure plus bas."
+        ]
+      },
+      {
+        "id": "prestations",
+        "titre": "Services et équipements de Grande Pharmacie Lafayette de Catalogne",
+        "paragraphes": [
+          "Moyens de paiement déclarés : carte bancaire, carte de débit et paiement sans contact.",
+          "Ces indications sont déclarées par l'établissement sur sa fiche Google (relevé du 27 octobre 2026)."
         ]
       },
       {
@@ -164,18 +172,18 @@
         "id": "avis",
         "titre": "La réputation de Grande Pharmacie Lafayette de Catalogne",
         "paragraphes": [
-          "Note de 4,6 sur 5 pour 571 avis Google au relevé du 12 octobre 2026. Les avis se consultent sur la fiche Google, dont le lien figure sur cette page."
+          "Note de 4,6 sur 5 pour 575 avis Google au relevé du 27 octobre 2026. Les avis les plus parlants sont compilés ci-dessous, avec un lien vers la fiche d'origine."
         ]
       }
     ],
     "faq": [
       {
         "q": "Quels sont les horaires de Grande Pharmacie Lafayette de Catalogne ?",
-        "r": "Au relevé du 12 octobre 2026, Grande Pharmacie Lafayette de Catalogne était ouvert tous les jours sauf le dimanche. Dans le détail — lundi : de 8 h 30 à 20 h ; mardi : de 8 h 30 à 20 h ; mercredi : de 8 h 30 à 20 h ; jeudi : de 8 h 30 à 20 h ; vendredi : de 8 h 30 à 20 h ; samedi : de 8 h 30 à 20 h ; dimanche : fermé. Ces horaires peuvent changer : un appel préalable reste conseillé."
+        "r": "Au relevé du 27 octobre 2026, Grande Pharmacie Lafayette de Catalogne était ouvert tous les jours sauf le dimanche. Dans le détail — lundi : de 8 h 30 à 20 h ; mardi : de 8 h 30 à 20 h ; mercredi : de 8 h 30 à 20 h ; jeudi : de 8 h 30 à 20 h ; vendredi : de 8 h 30 à 20 h ; samedi : de 8 h 30 à 20 h ; dimanche : fermé. Ces horaires peuvent changer : un appel préalable reste conseillé."
       },
       {
         "q": "Grande Pharmacie Lafayette de Catalogne est-il ouvert le dimanche ?",
-        "r": "Non : d'après les horaires relevés le 12 octobre 2026, Grande Pharmacie Lafayette de Catalogne est fermé le dimanche."
+        "r": "Non : d'après les horaires relevés le 27 octobre 2026, Grande Pharmacie Lafayette de Catalogne est fermé le dimanche."
       },
       {
         "q": "Où se trouve Grande Pharmacie Lafayette de Catalogne ?",
@@ -190,7 +198,7 @@
         "r": "La fiche Google de l'établissement mentionne : « Entrée accessible en fauteuil roulant ». Cette information est déclarative ; en cas de doute, vérifiez par téléphone."
       }
     ],
-    "genere_le": "2026-10-12"
+    "genere_le": "2026-10-27"
   },
   "statut_google": "OPERATIONAL",
   "audience": {
@@ -201,6 +209,66 @@
     "clicsRecents": 0,
     "fenetreRecenteJours": 28,
     "source": "search-console",
-    "date": "2026-10-26"
+    "date": "2026-10-27"
+  },
+  "avis_detail": {
+    "releve": "2026-10-27",
+    "liste": [
+      {
+        "note": 1,
+        "texte": "Je donne une ordonnance sur laquelle il y est ecrit un complément alimentaire spécifique. On me donne une autre marque de complément sans m’en informer pour après me dire que c’est trop tard et qu’il en on plus au lieu de tout simplement m’avertir en amont. Ce n’est vraiment pas correct surtout pour oublier 2 pack au final. Du vol, une perte de temps et du gâchis alimentaire car je ne l’ai boirai pas. Merci encore au monsieur à lunette",
+        "langue": "fr",
+        "date": "2026-07-13",
+        "auteur": "Luca Cerez",
+        "auteur_lien": "https://www.google.com/maps/contrib/107602092189981509174/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2tNMk5rSmFRa2h0VjB4c1dsRXpibWRpWW1GTGRHYxAB!2m1!1s0x12b06fbf7130d52d:0x1fd031372437003c"
+      },
+      {
+        "note": 1,
+        "texte": "Peut être bien pour les prix sur les produits non remboursés, par contre au niveau personnel, on repassera ! Entre une petite jeune qui ne comprend rien et qui ne sais rien, et un mec nord africain qui ne sait rien non plus, mais qui lui en plus, soit fait comme s'il savait, soit il sait et il tente d'entuber le client en vendant un autre produit que celui que vient chercher le client, ... Lui je pense qu'il faut pas lui demander si un champignon est comestible ou non car si on a mauvaise tête il est du genre à nous dire qu'il est comestible alors qu'il ne l'est pas",
+        "langue": "fr",
+        "date": "2026-05-31",
+        "auteur": "Michel Durand",
+        "auteur_lien": "https://www.google.com/maps/contrib/115821439810203938783/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2tkWFpHdGtSM2h4VHpjdGVITmFSbTE2ZVVkWmFHYxAB!2m1!1s0x12b06fbf7130d52d:0x1fd031372437003c"
+      },
+      {
+        "note": 1,
+        "texte": "Bonjour je sors de cette pharmacie avec  une ordonnance pour 3 boîtes d esomeprazole . Le monsieur qui me sert me donne qu une boîte alors que l ordonnance dit de me délivrer 3 conditionnements . Je dois donc y aller tout les mois pour qu on me donne 1 boite .\nSur l ordonnance on doit me délivrer 3 boîtes et je précise que ce n est pas une ordonnance renouvelable donc une fois servi elle devient caduque.\nMais ce grand monsieur qui ne se conforme pas a la prescription du médecin vous dit si ça va pas d aller ailleurs, je lui ai dis ok ! Il m a répondu qu il s en foutais..\nje ne reviendrai plus dans cette pharmacie mais je sais vous vous en foutez !",
+        "langue": "fr",
+        "date": "2026-03-27",
+        "auteur": "Henri Henri",
+        "auteur_lien": "https://www.google.com/maps/contrib/104703317188549641483/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xoaE9FZGxVVkZoVjJkcFMzb3lhbEZpUVV0RWEzYxAB!2m1!1s0x12b06fbf7130d52d:0x1fd031372437003c"
+      },
+      {
+        "note": 5,
+        "texte": "ACCUEIL, service, renseignements, tout est au top, la gentillesse du personnel, une question dans un rayon ?,  quelqu'un est là pour vous renseigner etc etc.  très bon établissement, je suis client et le resterai bien sûr.",
+        "langue": "fr",
+        "date": "2026-02-17",
+        "auteur": "jean luc",
+        "auteur_lien": "https://www.google.com/maps/contrib/106989879747182660153/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2s1TVRVOU9RM2RzY0U0M09YWTVPV3cxT1VObFRHYxAB!2m1!1s0x12b06fbf7130d52d:0x1fd031372437003c"
+      },
+      {
+        "note": 4,
+        "texte": "Prix bien moins chers qu ailleurs plusieurs caisses donc pas trop d attente car toujours du monde. Personnel très agréable.",
+        "langue": "fr",
+        "date": "2025-10-14",
+        "auteur": "marijo magnani navarro",
+        "auteur_lien": "https://www.google.com/maps/contrib/117790891324973077268/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xrMlZEaFhVV3BVWkdaTVNrOWlNbDh6YUZkVFIxRRAB!2m1!1s0x12b06fbf7130d52d:0x1fd031372437003c"
+      }
+    ]
+  },
+  "services": {
+    "releve": "2026-10-27",
+    "options": {},
+    "paiement": [
+      "carte bancaire",
+      "carte de débit",
+      "paiement sans contact"
+    ],
+    "parking": []
   }
 }

@@ -118,8 +118,8 @@
     "etat": "absent",
     "premiere_detection": null,
     "derniere_detection": null,
-    "derniere_verification": "2026-10-12T19:47:22.869Z",
-    "echecs": 28,
+    "derniere_verification": "2026-10-27T10:29:22.553Z",
+    "echecs": 29,
     "url_detectee": null
   },
   "suggestion": {
@@ -139,7 +139,7 @@
   "dates": {
     "collecte": "2026-09-22",
     "publication": "2026-09-22",
-    "maj": "2026-10-18"
+    "maj": "2026-10-27"
   },
   "source": "google-places",
   "redaction": {
@@ -147,14 +147,14 @@
     "titre": "Frimor — Transport et déménagement à Saint-Avé",
     "meta_titre": "Frimor à Saint-Avé : horaires, avis, téléphone",
     "meta_description": "Frimor, transport et déménagement à Saint-Avé : horaires d'ouverture, note Google 4,3/5 (45 avis), téléphone, adresse et itinéraire.",
-    "chapo": "Frimor exerce l'activité de transport et déménagement au Rue du Champ des Oiseaux, à Saint-Avé. Fermé le samedi et le dimanche au relevé du 12 octobre 2026. Téléphone : 02 97 47 07 37. Note Google : 4,3 sur 5 pour 45 avis.",
+    "chapo": "Frimor exerce l'activité de transport et déménagement au Rue du Champ des Oiseaux, à Saint-Avé. Fermé le samedi et le dimanche au relevé du 27 octobre 2026. Téléphone : 02 97 47 07 37. Note Google : 4,3 sur 5 pour 45 avis.",
     "sections": [
       {
         "id": "presentation",
         "titre": "Frimor en quelques mots",
         "paragraphes": [
           "Sur Google, l'établissement est classé « Stockage », dans notre rubrique Transport et déménagement.",
-          "D'après le relevé du 12 octobre 2026, l'établissement est fermé le samedi et le dimanche. Le détail jour par jour figure plus bas."
+          "D'après le relevé du 27 octobre 2026, l'établissement est fermé le samedi et le dimanche. Le détail jour par jour figure plus bas."
         ]
       },
       {
@@ -176,18 +176,18 @@
         "id": "avis",
         "titre": "La réputation de Frimor",
         "paragraphes": [
-          "Note de 4,3 sur 5 pour 45 avis Google au relevé du 12 octobre 2026. Les avis se consultent sur la fiche Google, dont le lien figure sur cette page."
+          "Note de 4,3 sur 5 pour 45 avis Google au relevé du 27 octobre 2026. Les avis les plus parlants sont compilés ci-dessous, avec un lien vers la fiche d'origine."
         ]
       }
     ],
     "faq": [
       {
         "q": "Quels sont les horaires de Frimor ?",
-        "r": "Au relevé du 12 octobre 2026, Frimor était fermé le samedi et le dimanche. Dans le détail — lundi : de 8 h à 12 h et de 13 h 30 à 17 h 30 ; mardi : de 8 h à 12 h et de 13 h 30 à 17 h 30 ; mercredi : de 8 h à 12 h et de 13 h 30 à 17 h 30 ; jeudi : de 8 h à 12 h et de 13 h 30 à 17 h 30 ; vendredi : de 8 h à 12 h et de 13 h 30 à 16 h 30 ; samedi : fermé ; dimanche : fermé. Ces horaires peuvent changer : un appel préalable reste conseillé."
+        "r": "Au relevé du 27 octobre 2026, Frimor était fermé le samedi et le dimanche. Dans le détail — lundi : de 8 h à 12 h et de 13 h 30 à 17 h 30 ; mardi : de 8 h à 12 h et de 13 h 30 à 17 h 30 ; mercredi : de 8 h à 12 h et de 13 h 30 à 17 h 30 ; jeudi : de 8 h à 12 h et de 13 h 30 à 17 h 30 ; vendredi : de 8 h à 12 h et de 13 h 30 à 16 h 30 ; samedi : fermé ; dimanche : fermé. Ces horaires peuvent changer : un appel préalable reste conseillé."
       },
       {
         "q": "Frimor est-il ouvert le dimanche ?",
-        "r": "Non : d'après les horaires relevés le 12 octobre 2026, Frimor est fermé le dimanche."
+        "r": "Non : d'après les horaires relevés le 27 octobre 2026, Frimor est fermé le dimanche."
       },
       {
         "q": "Où se trouve Frimor ?",
@@ -198,7 +198,7 @@
         "r": "Par téléphone au 02 97 47 07 37, ou directement sur place aux heures d'ouverture."
       }
     ],
-    "genere_le": "2026-10-12"
+    "genere_le": "2026-10-27"
   },
   "statut_google": "OPERATIONAL",
   "audience": {
@@ -209,6 +209,56 @@
     "clicsRecents": 0,
     "fenetreRecenteJours": 28,
     "source": "search-console",
-    "date": "2026-10-26"
+    "date": "2026-10-27"
+  },
+  "avis_detail": {
+    "releve": "2026-10-27",
+    "liste": [
+      {
+        "note": 5,
+        "texte": "Entreprise très sérieuse. Chargements et déchargements  très rapides et efficaces.",
+        "langue": "fr",
+        "date": "2024-10-25",
+        "auteur": "Jean François Louër",
+        "auteur_lien": "https://www.google.com/maps/contrib/111256721164693943349/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSURYX0otUGNREAE!2m1!1s0x48101e6754e267b9:0x99c01e986edae2e3"
+      },
+      {
+        "note": 5,
+        "texte": "Accueil sympathique rapide",
+        "langue": "fr",
+        "date": "2024-02-09",
+        "auteur": "Jeff Poul",
+        "auteur_lien": "https://www.google.com/maps/contrib/107501416869580629749/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUNkb01HVkxBEAE!2m1!1s0x48101e6754e267b9:0x99c01e986edae2e3"
+      },
+      {
+        "note": 5,
+        "texte": "Excellente entreprise que ce soit pour l’accueil  ainsi que du professionnalisme lié à votre activité, beaucoup de sérieux. Bravo et bonne continuité à vous !",
+        "langue": "fr",
+        "date": "2023-04-27",
+        "auteur": "julien legrand",
+        "auteur_lien": "https://www.google.com/maps/contrib/100902534471799386014/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSURSMGFUdGZnEAE!2m1!1s0x48101e6754e267b9:0x99c01e986edae2e3"
+      },
+      {
+        "note": 4,
+        "texte": "Personnel impeccable,le bâtiment et parking \"germinal\"",
+        "langue": "fr",
+        "date": "2022-07-28",
+        "auteur": "stephane ducloy",
+        "auteur_lien": "https://www.google.com/maps/contrib/109394257942633802200/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUN1cnRTOFdBEAE!2m1!1s0x48101e6754e267b9:0x99c01e986edae2e3"
+      },
+      {
+        "note": 3,
+        "texte": "Rapide et facile d'accès",
+        "langue": "fr",
+        "date": "2019-02-24",
+        "auteur": "Baloo",
+        "auteur_lien": "https://www.google.com/maps/contrib/109697308730951745960/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUNvdmNHOXR3RRAB!2m1!1s0x48101e6754e267b9:0x99c01e986edae2e3"
+      }
+    ]
   }
 }
