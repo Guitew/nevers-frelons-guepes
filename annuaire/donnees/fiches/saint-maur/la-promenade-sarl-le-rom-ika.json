@@ -113,8 +113,8 @@
     "etat": "absent",
     "premiere_detection": null,
     "derniere_detection": null,
-    "derniere_verification": "2026-10-13T12:40:03.315Z",
-    "echecs": 9,
+    "derniere_verification": "2026-10-28T11:17:15.165Z",
+    "echecs": 10,
     "url_detectee": null
   },
   "suggestion": {
@@ -127,7 +127,7 @@
   "dates": {
     "collecte": "2026-10-02",
     "publication": "2026-10-02",
-    "maj": "2026-10-13"
+    "maj": "2026-10-28"
   },
   "source": "google-places",
   "redaction": {
@@ -135,13 +135,25 @@
     "titre": "La Promenade SARL LE ROM'IKA — Restaurant à Saint-Maur",
     "meta_titre": "La Promenade SARL LE ROM'IKA à Saint-Maur : horaires, avis",
     "meta_description": "La Promenade SARL LE ROM'IKA, restaurant à Saint-Maur : horaires d'ouverture, note Google 4,5/5 (362 avis), téléphone, adresse et itinéraire.",
-    "chapo": "Cette fiche présente La Promenade SARL LE ROM'IKA, un restaurant au 2 Rue des Ponts, à Saint-Maur. Ouvert tous les jours sauf le dimanche au relevé du 13 octobre 2026. Téléphone : 02 54 07 05 78. Note Google : 4,5 sur 5 pour 362 avis.",
+    "chapo": "Cette fiche présente La Promenade SARL LE ROM'IKA, un restaurant au 2 Rue des Ponts, à Saint-Maur. Ouvert tous les jours sauf le dimanche au relevé du 28 octobre 2026. Téléphone : 02 54 07 05 78. Note Google : 4,5 sur 5 pour 362 avis.",
     "sections": [
       {
         "id": "presentation",
         "titre": "La Promenade SARL LE ROM'IKA en quelques mots",
         "paragraphes": [
-          "D'après le relevé du 13 octobre 2026, l'établissement est ouvert tous les jours sauf le dimanche. Le détail jour par jour figure plus bas."
+          "Niveau de prix indiqué sur la fiche Google : €€ (modéré).",
+          "D'après le relevé du 28 octobre 2026, l'établissement est ouvert tous les jours sauf le dimanche. Le détail jour par jour figure plus bas."
+        ]
+      },
+      {
+        "id": "prestations",
+        "titre": "Services et équipements de La Promenade SARL LE ROM'IKA",
+        "paragraphes": [
+          "Proposé : sur place, à emporter, livraison, réservation possible, terrasse, petit-déjeuner, déjeuner, dîner, plats végétariens, café, bière, vin, cocktails, menu enfant, adapté aux enfants, adapté aux groupes, retransmissions sportives, musique live, chiens acceptés et toilettes.",
+          "Non proposé selon la fiche Google : retrait en voiture et brunch.",
+          "Moyens de paiement déclarés : carte bancaire, carte de débit et paiement sans contact.",
+          "Stationnement : parking gratuit et stationnement gratuit dans la rue.",
+          "Ces indications sont déclarées par l'établissement sur sa fiche Google (relevé du 28 octobre 2026)."
         ]
       },
       {
@@ -156,25 +168,26 @@
         "id": "contact",
         "titre": "Contacter La Promenade SARL LE ROM'IKA",
         "paragraphes": [
-          "Le contact se fait par téléphone au 02 54 07 05 78, ou directement sur place aux horaires d'ouverture."
+          "Le contact se fait par téléphone au 02 54 07 05 78, ou directement sur place aux horaires d'ouverture.",
+          "La fiche Google indique que la réservation est possible."
         ]
       },
       {
         "id": "avis",
         "titre": "La réputation de La Promenade SARL LE ROM'IKA",
         "paragraphes": [
-          "Note de 4,5 sur 5 pour 362 avis Google au relevé du 13 octobre 2026. Les avis se consultent sur la fiche Google, dont le lien figure sur cette page."
+          "Note de 4,5 sur 5 pour 362 avis Google au relevé du 28 octobre 2026. Les avis les plus parlants sont compilés ci-dessous, avec un lien vers la fiche d'origine."
         ]
       }
     ],
     "faq": [
       {
         "q": "Quels sont les horaires de La Promenade SARL LE ROM'IKA ?",
-        "r": "Au relevé du 13 octobre 2026, La Promenade SARL LE ROM'IKA était ouvert tous les jours sauf le dimanche. Dans le détail — lundi : de 7 h à 16 h ; mardi : de 7 h à 16 h ; mercredi : de 7 h à 22 h ; jeudi : de 7 h à 22 h ; vendredi : de 7 h à 2 h ; samedi : de 9 h à 23 h ; dimanche : fermé. Ces horaires peuvent changer : un appel préalable reste conseillé."
+        "r": "Au relevé du 28 octobre 2026, La Promenade SARL LE ROM'IKA était ouvert tous les jours sauf le dimanche. Dans le détail — lundi : de 7 h à 16 h ; mardi : de 7 h à 16 h ; mercredi : de 7 h à 22 h ; jeudi : de 7 h à 22 h ; vendredi : de 7 h à 2 h ; samedi : de 9 h à 23 h ; dimanche : fermé. Ces horaires peuvent changer : un appel préalable reste conseillé."
       },
       {
         "q": "La Promenade SARL LE ROM'IKA est-il ouvert le dimanche ?",
-        "r": "Non : d'après les horaires relevés le 13 octobre 2026, La Promenade SARL LE ROM'IKA est fermé le dimanche."
+        "r": "Non : d'après les horaires relevés le 28 octobre 2026, La Promenade SARL LE ROM'IKA est fermé le dimanche."
       },
       {
         "q": "Où se trouve La Promenade SARL LE ROM'IKA ?",
@@ -185,11 +198,23 @@
         "r": "Par téléphone au 02 54 07 05 78, ou directement sur place aux heures d'ouverture."
       },
       {
+        "q": "Peut-on réserver chez La Promenade SARL LE ROM'IKA ?",
+        "r": "Oui, la fiche Google de La Promenade SARL LE ROM'IKA indique que la réservation est possible, par téléphone au 02 54 07 05 78."
+      },
+      {
+        "q": "La Promenade SARL LE ROM'IKA propose-t-il la vente à emporter ou la livraison ?",
+        "r": "D'après sa fiche Google (relevé du 28 octobre 2026) — vente à emporter : oui ; livraison : oui."
+      },
+      {
+        "q": "Quel est le niveau de prix de La Promenade SARL LE ROM'IKA ?",
+        "r": "Google classe La Promenade SARL LE ROM'IKA au niveau de prix €€ (modéré), sur une échelle de € à €€€€ établie à partir des avis clients."
+      },
+      {
         "q": "La Promenade SARL LE ROM'IKA est-il accessible aux personnes à mobilité réduite ?",
         "r": "La fiche Google de l'établissement mentionne : « Entrée accessible en fauteuil roulant ». Cette information est déclarative ; en cas de doute, vérifiez par téléphone."
       }
     ],
-    "genere_le": "2026-10-13"
+    "genere_le": "2026-10-28"
   },
   "statut_google": "OPERATIONAL",
   "audience": {
@@ -200,6 +225,93 @@
     "clicsRecents": 0,
     "fenetreRecenteJours": 28,
     "source": "search-console",
-    "date": "2026-10-27"
+    "date": "2026-10-28"
+  },
+  "avis_detail": {
+    "releve": "2026-10-28",
+    "liste": [
+      {
+        "note": 4,
+        "texte": "Bar restaurant sur la place de Saint Maur\nCuisine simple mais d'un bon rapport qualité prix.\nLe Burger saint maurien est excellent. Les brushetta aussi.\nLes desserts mériteraient un peu plus de soin.",
+        "langue": "fr",
+        "date": "2026-08-29",
+        "auteur": "Patrick REGNAULT",
+        "auteur_lien": "https://www.google.com/maps/contrib/111557533478556785630/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2psdVdreE9UbGR1ZEdsMFRFNXJkV1JwTmtGcVduYxAB!2m1!1s0x47fba00d98365d6b:0x6cd670758225e6ff"
+      },
+      {
+        "note": 5,
+        "texte": "Après une longue route, petite pause repas à La Promenade.\nUn régal, des burgers bons et des frites cuites au top.\nUne serveuse au petit soin et efficace.\nRepas agréable dans un cadre calme et une ville jolie à visiter.\nNe pas hésiter à faire une halte à Saint-Maur.",
+        "langue": "fr",
+        "date": "2026-06-20",
+        "auteur": "Cyrille Dumortier",
+        "auteur_lien": "https://www.google.com/maps/contrib/113232208937596549663/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2tsd1UzTXljR3A0WDBaMlVrTkNObEphVUVGSVNIYxAB!2m1!1s0x47fba00d98365d6b:0x6cd670758225e6ff"
+      },
+      {
+        "note": 5,
+        "texte": "Service super, repas fait maison. Nous avons super bien mangé. En plus il y a un espace table à langer, très pratique avec des enfants.\nMerci !",
+        "langue": "fr",
+        "date": "2026-04-18",
+        "auteur": "Raphaëlle Dubois",
+        "auteur_lien": "https://www.google.com/maps/contrib/117320596785060526256/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2pkUlpEbFdVV0ZtUXpGa2VqRjJlblpyYXpWaVRGRRAB!2m1!1s0x47fba00d98365d6b:0x6cd670758225e6ff"
+      },
+      {
+        "note": 5,
+        "texte": "Service impeccable et le personnel est souriant.\nBurguer très très bon et salade excellente.\nUne belle adresse",
+        "langue": "fr",
+        "date": "2024-08-17",
+        "auteur": "Zamiette",
+        "auteur_lien": "https://www.google.com/maps/contrib/112967830764039359052/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUM3NVlQZGFnEAE!2m1!1s0x47fba00d98365d6b:0x6cd670758225e6ff"
+      },
+      {
+        "note": 4,
+        "texte": "Un bon petit restaurant sympathique pas cher avec un service efficace et rapide.\n15 € le menu avec\n- un buffet d'entrées sur la carte mais pas en réel (?) On n'a pas osé demander.\n-Un choix de 3 plats  fait maison plutôt bon ou hamburger avec une sauce un peu écoeurante pour l'Américain . Frites maison.\n-un buffet de desserts maison délicieux, par contre à la fin il ne restait plus grand-chose, pour ceux qui venaient d'arriver il n'y avait plus que des yaourts. J'avais assez mangé donc je n'ai pas demandé peut-être que il y avait d'autres choses en réserve ?\n\nTickets restaurant acceptés sans limite.",
+        "langue": "fr",
+        "date": "2023-08-10",
+        "auteur": "isa truc",
+        "auteur_lien": "https://www.google.com/maps/contrib/101024367752028325019/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUNwbTk3UDdRRRAB!2m1!1s0x47fba00d98365d6b:0x6cd670758225e6ff"
+      }
+    ]
+  },
+  "services": {
+    "releve": "2026-10-28",
+    "prix": "PRICE_LEVEL_MODERATE",
+    "options": {
+      "dineIn": true,
+      "takeout": true,
+      "delivery": true,
+      "curbsidePickup": false,
+      "reservable": true,
+      "outdoorSeating": true,
+      "servesBreakfast": true,
+      "servesBrunch": false,
+      "servesLunch": true,
+      "servesDinner": true,
+      "servesVegetarianFood": true,
+      "servesCoffee": true,
+      "servesBeer": true,
+      "servesWine": true,
+      "servesCocktails": true,
+      "menuForChildren": true,
+      "goodForChildren": true,
+      "goodForGroups": true,
+      "goodForWatchingSports": true,
+      "liveMusic": true,
+      "allowsDogs": true,
+      "restroom": true
+    },
+    "paiement": [
+      "carte bancaire",
+      "carte de débit",
+      "paiement sans contact"
+    ],
+    "parking": [
+      "parking gratuit",
+      "stationnement gratuit dans la rue"
+    ]
   }
 }

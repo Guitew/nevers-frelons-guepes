@@ -39,8 +39,8 @@
     "etat": "absent",
     "premiere_detection": null,
     "derniere_detection": null,
-    "derniere_verification": "2026-10-12T19:47:22.869Z",
-    "echecs": 1,
+    "derniere_verification": "2026-10-28T11:17:15.165Z",
+    "echecs": 2,
     "url_detectee": null
   },
   "suggestion": {
@@ -53,7 +53,7 @@
   "dates": {
     "collecte": "2026-10-12",
     "publication": "2026-10-12",
-    "maj": "2026-10-13"
+    "maj": "2026-10-28"
   },
   "source": "google-places",
   "redaction": {
@@ -67,7 +67,17 @@
         "id": "presentation",
         "titre": "Suresnes Mont Valérien en quelques mots",
         "paragraphes": [
-          "Sur Google, l'établissement est classé « Restaurant français », dans notre rubrique Restaurant."
+          "Sur Google, l'établissement est classé « Restaurant français », dans notre rubrique Restaurant.",
+          "Niveau de prix indiqué sur la fiche Google : €€ (modéré)."
+        ]
+      },
+      {
+        "id": "prestations",
+        "titre": "Services et équipements de Suresnes Mont Valérien",
+        "paragraphes": [
+          "Proposé : sur place, café, bière, vin et toilettes.",
+          "Moyens de paiement déclarés : carte bancaire et carte de débit.",
+          "Ces indications sont déclarées par l'établissement sur sa fiche Google (relevé du 28 octobre 2026)."
         ]
       },
       {
@@ -89,7 +99,7 @@
         "id": "avis",
         "titre": "La réputation de Suresnes Mont Valérien",
         "paragraphes": [
-          "Note de 4,9 sur 5 pour 20 avis Google au relevé du 13 octobre 2026. Les avis se consultent sur la fiche Google, dont le lien figure sur cette page."
+          "Note de 4,9 sur 5 pour 20 avis Google au relevé du 28 octobre 2026. Les avis les plus parlants sont compilés ci-dessous, avec un lien vers la fiche d'origine."
         ]
       }
     ],
@@ -97,9 +107,13 @@
       {
         "q": "Où se trouve Suresnes Mont Valérien ?",
         "r": "Suresnes Mont Valérien se trouve Av. Edouard Vaillant, 92150 Suresnes. Un lien d'itinéraire est disponible sur cette page."
+      },
+      {
+        "q": "Quel est le niveau de prix de Suresnes Mont Valérien ?",
+        "r": "Google classe Suresnes Mont Valérien au niveau de prix €€ (modéré), sur une échelle de € à €€€€ établie à partir des avis clients."
       }
     ],
-    "genere_le": "2026-10-13"
+    "genere_le": "2026-10-28"
   },
   "statut_google": "OPERATIONAL",
   "audience": {
@@ -110,6 +124,72 @@
     "clicsRecents": 0,
     "fenetreRecenteJours": 28,
     "source": "search-console",
-    "date": "2026-10-27"
+    "date": "2026-10-28"
+  },
+  "avis_detail": {
+    "releve": "2026-10-28",
+    "liste": [
+      {
+        "note": 5,
+        "texte": "Ballade autour du Mont valerien superbe",
+        "langue": "fr",
+        "date": "2025-12-23",
+        "auteur": "Daniel Amiraux",
+        "auteur_lien": "https://www.google.com/maps/contrib/110998784391443122259/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2psZllYVlhZa1IzZDA1VVZtbDFWMWRKZWpCaVIxRRAB!2m1!1s0x47e6650000332e6f:0x9ab56cea7f172849"
+      },
+      {
+        "note": 5,
+        "texte": "Beau lieu de détente avec son parcours pédestre autour du Mont Valérien. Même en hivers il fait bon s'y promener.",
+        "langue": "fr",
+        "date": "2025-12-11",
+        "auteur": "Carmen VELOSO",
+        "auteur_lien": "https://www.google.com/maps/contrib/112883250956024553227/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2kxaFpqVk1kRkJDYzA1TFJrazVUemhhWlhkTGJXYxAB!2m1!1s0x47e6650000332e6f:0x9ab56cea7f172849"
+      },
+      {
+        "note": 5,
+        "texte": "Très bien",
+        "langue": "fr",
+        "date": "2025-10-27",
+        "auteur": "BLACK OUT",
+        "auteur_lien": "https://www.google.com/maps/contrib/111119151918977348851/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25Wa1lVRm5lVmxKWjFkb1UzaDNVRVo0WjFCMmQyYxAB!2m1!1s0x47e6650000332e6f:0x9ab56cea7f172849"
+      },
+      {
+        "note": 5,
+        "texte": "Très beau endroit",
+        "langue": "fr",
+        "date": "2025-08-24",
+        "auteur": "olivier baboulat",
+        "auteur_lien": "https://www.google.com/maps/contrib/107271540203967919432/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2pWd1gzaDZRV2hrYTFkbFRFRldUazVOWkVOeVJXYxAB!2m1!1s0x47e6650000332e6f:0x9ab56cea7f172849"
+      },
+      {
+        "note": 5,
+        "texte": "Même si c'est un lieu très touristique, l'ambiance y est incroyable. Il y a peut-être du monde, mais ça vaut le détour.",
+        "langue": "fr",
+        "date": "2025-06-20",
+        "auteur": "Jadwiga Bossowska",
+        "auteur_lien": "https://www.google.com/maps/contrib/112910295472331311335/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25ZNGJtSlFjVVpCWDFwYVdrRkVha0psU0UxQ1QzYxAB!2m1!1s0x47e6650000332e6f:0x9ab56cea7f172849"
+      }
+    ]
+  },
+  "services": {
+    "releve": "2026-10-28",
+    "prix": "PRICE_LEVEL_MODERATE",
+    "options": {
+      "dineIn": true,
+      "servesCoffee": true,
+      "servesBeer": true,
+      "servesWine": true,
+      "restroom": true
+    },
+    "paiement": [
+      "carte bancaire",
+      "carte de débit"
+    ],
+    "parking": []
   }
 }

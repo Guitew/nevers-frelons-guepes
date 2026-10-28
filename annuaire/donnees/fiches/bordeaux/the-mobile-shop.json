@@ -35,8 +35,8 @@
     "latitude": 44.826191,
     "longitude": -0.5576753999999999
   },
-  "note": 3.6,
-  "avis": 114,
+  "note": 3.7,
+  "avis": 118,
   "horaires": [
     {
       "jour": 0,
@@ -117,8 +117,8 @@
     "etat": "absent",
     "premiere_detection": null,
     "derniere_detection": null,
-    "derniere_verification": "2026-10-12T19:47:22.869Z",
-    "echecs": 1,
+    "derniere_verification": "2026-10-28T11:17:15.165Z",
+    "echecs": 2,
     "url_detectee": null
   },
   "suggestion": {
@@ -138,22 +138,31 @@
   "dates": {
     "collecte": "2026-10-12",
     "publication": "2026-10-12",
-    "maj": "2026-10-18"
+    "maj": "2026-10-28"
   },
   "source": "google-places",
   "redaction": {
     "version": 2,
     "titre": "The Mobile Shop — Transport et déménagement à Bordeaux",
     "meta_titre": "The Mobile Shop à Bordeaux : horaires, avis",
-    "meta_description": "The Mobile Shop, transport et déménagement à Bordeaux : horaires d'ouverture, note Google 3,6/5 (114 avis), adresse et itinéraire.",
-    "chapo": "The Mobile Shop est un transport et déménagement au 7 Place Casablanca, à Bordeaux. Ouvert sept jours sur sept au relevé du 14 octobre 2026. Note Google : 3,6 sur 5 pour 114 avis.",
+    "meta_description": "The Mobile Shop, transport et déménagement à Bordeaux : horaires d'ouverture, note Google 3,7/5 (118 avis), adresse et itinéraire.",
+    "chapo": "The Mobile Shop est un transport et déménagement au 7 Place Casablanca, à Bordeaux. Ouvert sept jours sur sept au relevé du 28 octobre 2026. Note Google : 3,7 sur 5 pour 118 avis.",
     "sections": [
       {
         "id": "presentation",
         "titre": "The Mobile Shop en quelques mots",
         "paragraphes": [
           "Sur Google, l'établissement est classé « Magasin », dans notre rubrique Transport et déménagement.",
-          "D'après le relevé du 14 octobre 2026, l'établissement est ouvert sept jours sur sept. Le détail jour par jour figure plus bas."
+          "D'après le relevé du 28 octobre 2026, l'établissement est ouvert sept jours sur sept. Le détail jour par jour figure plus bas."
+        ]
+      },
+      {
+        "id": "prestations",
+        "titre": "Services et équipements de The Mobile Shop",
+        "paragraphes": [
+          "Proposé : livraison.",
+          "Moyens de paiement déclarés : carte bancaire.",
+          "Ces indications sont déclarées par l'établissement sur sa fiche Google (relevé du 28 octobre 2026)."
         ]
       },
       {
@@ -175,25 +184,29 @@
         "id": "avis",
         "titre": "La réputation de The Mobile Shop",
         "paragraphes": [
-          "Note de 3,6 sur 5 pour 114 avis Google au relevé du 14 octobre 2026. Les avis se consultent sur la fiche Google, dont le lien figure sur cette page."
+          "Note de 3,7 sur 5 pour 118 avis Google au relevé du 28 octobre 2026. Les avis les plus parlants sont compilés ci-dessous, avec un lien vers la fiche d'origine."
         ]
       }
     ],
     "faq": [
       {
         "q": "Quels sont les horaires de The Mobile Shop ?",
-        "r": "Au relevé du 14 octobre 2026, The Mobile Shop était ouvert sept jours sur sept. Dans le détail — lundi : de 10 h à 0 h ; mardi : de 10 h à 20 h ; mercredi : de 10 h à 20 h ; jeudi : de 10 h à 20 h ; vendredi : de 10 h à 20 h ; samedi : de 10 h à 19 h 30 ; dimanche : de 11 h à 18 h. Ces horaires peuvent changer : un appel préalable reste conseillé."
+        "r": "Au relevé du 28 octobre 2026, The Mobile Shop était ouvert sept jours sur sept. Dans le détail — lundi : de 10 h à 0 h ; mardi : de 10 h à 20 h ; mercredi : de 10 h à 20 h ; jeudi : de 10 h à 20 h ; vendredi : de 10 h à 20 h ; samedi : de 10 h à 19 h 30 ; dimanche : de 11 h à 18 h. Ces horaires peuvent changer : un appel préalable reste conseillé."
       },
       {
         "q": "The Mobile Shop est-il ouvert le dimanche ?",
-        "r": "Oui : le dimanche, The Mobile Shop est ouvert de 11 h à 18 h (horaires relevés le 14 octobre 2026)."
+        "r": "Oui : le dimanche, The Mobile Shop est ouvert de 11 h à 18 h (horaires relevés le 28 octobre 2026)."
       },
       {
         "q": "Où se trouve The Mobile Shop ?",
         "r": "The Mobile Shop se trouve 7 Pl. Casablanca, 33800 Bordeaux. Un lien d'itinéraire est disponible sur cette page."
+      },
+      {
+        "q": "The Mobile Shop propose-t-il la vente à emporter ou la livraison ?",
+        "r": "D'après sa fiche Google (relevé du 28 octobre 2026) — livraison : oui."
       }
     ],
-    "genere_le": "2026-10-14"
+    "genere_le": "2026-10-28"
   },
   "statut_google": "OPERATIONAL",
   "audience": {
@@ -204,6 +217,66 @@
     "clicsRecents": 0,
     "fenetreRecenteJours": 28,
     "source": "search-console",
-    "date": "2026-10-27"
+    "date": "2026-10-28"
+  },
+  "avis_detail": {
+    "releve": "2026-10-28",
+    "liste": [
+      {
+        "note": 1,
+        "texte": "FUYEZ!!!!! si j'aurais pu mettre 0 je l'aurais fait !!! Réparation d'un iPhone   pour un écran. Constat de la réparation, Ecran tactile qui ne fonctionne plus batterie en surchauffe on demande un remboursement rien du tout et qui plus ai personne très désagréable. 100 euros à la poubelle, et un téléphone qui marche plus.",
+        "langue": "fr",
+        "date": "2026-08-19",
+        "auteur": "France Garrigues",
+        "auteur_lien": "https://www.google.com/maps/contrib/110379719268735614081/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT21GMGFtRnpRVEJOWjAwMk4ySTJXazlFVW5Fd04xRRAB!2m1!1s0xd552737241b2f53:0x4785815ec801ff7"
+      },
+      {
+        "note": 1,
+        "texte": "1 étoile car nous ne pouvons pas mettre moins…\nNous avions réservé le service de conciergerie à 10h mais le magasin est resté porte close malgré les heures d’ouverture mentionnées sur le site. Finalement nous avons appris que le gérant s’était octroyé une bonne grasse matinée jusqu’à 10h45…",
+        "langue": "fr",
+        "date": "2026-05-24",
+        "auteur": "Christelle G.",
+        "auteur_lien": "https://www.google.com/maps/contrib/105613277449885586884/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2pSWFRVOUlUMDk2YkMxcE5XZE9kV05UT1RnMU5GRRAB!2m1!1s0xd552737241b2f53:0x4785815ec801ff7"
+      },
+      {
+        "note": 1,
+        "texte": "Expérience extrêmement choquante. Si je pouvais mettre 0 je l’aurais fait.Je me suis rendue dans ce magasin pour déposer un colis avec un QR code, mais j’ai rencontré un manque total de professionnalisme.\nUn premier employé, à qui j’explique ma demande, est parti sans rien dire, sans me répondre, me laissant attendre sans aucune explication.\nEnsuite, une employée a été particulièrement désagréable. Comme je rencontrais des difficultés avec le QR code, je lui ai simplement demandé comment procéder. Sa réponse a été « ce n’est pas mon travail, c’est à vous de le faire », sur un ton froid, comme si je leur avais manqué de respect. Elle ne me calculait même pas et ne s’en cachait pas.\nAprès avoir payé et quitté le magasin, mon colis n’était même pas correctement pris en charge. Un client a dû me rappeler. En revenant, le responsable m’a répété que ce n’était pas leur travail, alors que je n’avais jamais demandé qu’on le fasse à ma place.\nLe pire reste l’attitude de l’employée, qui s’est mise à se moquer en répétant « tu veux qu’on t’aide? » en riant.\nJe n’ai jamais été traitée avec autant de mépris dans un commerce. À éviter absolument\n\nJe maintiens l'intégralité de mes propos. Qualifier mon témoignage de trompeur et insinuer que j'ai eu un comportement irrespectueux est une inversion des rôles inacceptable. Vous parlez de \"procédure standard\", mais on est manifestement ici sur une procédure bas de gamme où le mépris remplace le service .C'est justement parce que je suis restée polie face à votre refus que votre employée s'est permis de se moquer de moi ouvertement. Si demander poliment est considéré comme de l'irrespect chez vous, cela en dit long sur votre sens du commerce. Je ne laisserai pas votre mauvaise foi masquer le mépris dont j'ai été victime.",
+        "langue": "fr",
+        "date": "2026-04-14",
+        "auteur": "Ndeye thiané Gassama",
+        "auteur_lien": "https://www.google.com/maps/contrib/101315723861541776823/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2s4MVZsWkRRMEp5Um5oQlVXVnlkbXRuYlVVMVlsRRAB!2m1!1s0xd552737241b2f53:0x4785815ec801ff7"
+      },
+      {
+        "note": 1,
+        "texte": "Aucune info, ça fait 24h que j’ai déposé mon colis Chronopost et je n’ai reçu aucun message de confirmation. De plus injoignable par téléphone, le numéro ne sonne meme pas. Donc si ils décident de me voler mon colis je n’ai aucune protection 🤠",
+        "langue": "fr",
+        "date": "2026-03-31",
+        "auteur": "Otis",
+        "auteur_lien": "https://www.google.com/maps/contrib/103140668618879948373/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT21kbVZYcG1OMU5qWVVZNE5taGlUM0ZFTWxGYUxXYxAB!2m1!1s0xd552737241b2f53:0x4785815ec801ff7"
+      },
+      {
+        "note": 1,
+        "texte": "C'est le pire endroit de retrait, dommage qu'on ne peut pas mettre de notes négatives, me donne un colis qui n'est pas le mien, heureusement, je suis honnête et je l'ai ramené. Mais du coup, je suis repartie sans rien, ils ont refusé de chercher mon colis. Désagréable ++++++. Menaçant, hautain je pense que l'attitude aurait été différente si j'avais été un homme. Une honte. Cela ne devrait pas être un point Relais.",
+        "langue": "fr",
+        "date": "2025-12-16",
+        "auteur": "Dominique Le Gall",
+        "auteur_lien": "https://www.google.com/maps/contrib/103244539243609327223/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2pOTmJUUldNVXRCVDNKeE5tRnpWMEZxWlRoeWIwRRAB!2m1!1s0xd552737241b2f53:0x4785815ec801ff7"
+      }
+    ]
+  },
+  "services": {
+    "releve": "2026-10-28",
+    "options": {
+      "delivery": true
+    },
+    "paiement": [
+      "carte bancaire"
+    ],
+    "parking": []
   }
 }

@@ -111,8 +111,8 @@
     "etat": "absent",
     "premiere_detection": null,
     "derniere_detection": null,
-    "derniere_verification": "2026-10-12T19:47:22.869Z",
-    "echecs": 7,
+    "derniere_verification": "2026-10-28T11:17:15.165Z",
+    "echecs": 8,
     "url_detectee": null
   },
   "suggestion": {
@@ -125,7 +125,7 @@
   "dates": {
     "collecte": "2026-10-04",
     "publication": "2026-10-04",
-    "maj": "2026-10-12"
+    "maj": "2026-10-28"
   },
   "source": "google-places",
   "redaction": {
@@ -133,14 +133,24 @@
     "titre": "L’ESTAMINET TABAC BAR — Café ou bar à Lons-le-Saunier",
     "meta_titre": "L’ESTAMINET TABAC BAR à Lons-le-Saunier : horaires, avis",
     "meta_description": "L’ESTAMINET TABAC BAR, café ou bar à Lons-le-Saunier : horaires d'ouverture, note Google 4,5/5 (51 avis), téléphone, adresse et itinéraire.",
-    "chapo": "Cette fiche présente L’ESTAMINET TABAC BAR, un café ou bar au 2 Rue Sebile, à Lons-le-Saunier. Ouvert sept jours sur sept au relevé du 12 octobre 2026. Téléphone : 03 84 24 17 04. Note Google : 4,5 sur 5 pour 51 avis.",
+    "chapo": "Cette fiche présente L’ESTAMINET TABAC BAR, un café ou bar au 2 Rue Sebile, à Lons-le-Saunier. Ouvert sept jours sur sept au relevé du 28 octobre 2026. Téléphone : 03 84 24 17 04. Note Google : 4,5 sur 5 pour 51 avis.",
     "sections": [
       {
         "id": "presentation",
         "titre": "L’ESTAMINET TABAC BAR en quelques mots",
         "paragraphes": [
           "Sur Google, l'établissement est classé « Magasin », dans notre rubrique Café ou bar.",
-          "D'après le relevé du 12 octobre 2026, l'établissement est ouvert sept jours sur sept. Le détail jour par jour figure plus bas."
+          "D'après le relevé du 28 octobre 2026, l'établissement est ouvert sept jours sur sept. Le détail jour par jour figure plus bas."
+        ]
+      },
+      {
+        "id": "prestations",
+        "titre": "Services et équipements de L’ESTAMINET TABAC BAR",
+        "paragraphes": [
+          "Non proposé selon la fiche Google : livraison.",
+          "Moyens de paiement déclarés : carte bancaire, carte de débit et paiement sans contact.",
+          "Stationnement : stationnement gratuit dans la rue.",
+          "Ces indications sont déclarées par l'établissement sur sa fiche Google (relevé du 28 octobre 2026)."
         ]
       },
       {
@@ -162,18 +172,18 @@
         "id": "avis",
         "titre": "La réputation de L’ESTAMINET TABAC BAR",
         "paragraphes": [
-          "Note de 4,5 sur 5 pour 51 avis Google au relevé du 12 octobre 2026. Les avis se consultent sur la fiche Google, dont le lien figure sur cette page."
+          "Note de 4,5 sur 5 pour 51 avis Google au relevé du 28 octobre 2026. Les avis les plus parlants sont compilés ci-dessous, avec un lien vers la fiche d'origine."
         ]
       }
     ],
     "faq": [
       {
         "q": "Quels sont les horaires de L’ESTAMINET TABAC BAR ?",
-        "r": "Au relevé du 12 octobre 2026, L’ESTAMINET TABAC BAR était ouvert sept jours sur sept. Dans le détail — lundi : de 7 h 30 à 21 h ; mardi : de 8 h à 21 h ; mercredi : de 7 h 30 à 21 h ; jeudi : de 7 h 30 à 21 h ; vendredi : de 7 h 30 à 21 h ; samedi : de 8 h à 21 h ; dimanche : de 8 h à 21 h. Ces horaires peuvent changer : un appel préalable reste conseillé."
+        "r": "Au relevé du 28 octobre 2026, L’ESTAMINET TABAC BAR était ouvert sept jours sur sept. Dans le détail — lundi : de 7 h 30 à 21 h ; mardi : de 8 h à 21 h ; mercredi : de 7 h 30 à 21 h ; jeudi : de 7 h 30 à 21 h ; vendredi : de 7 h 30 à 21 h ; samedi : de 8 h à 21 h ; dimanche : de 8 h à 21 h. Ces horaires peuvent changer : un appel préalable reste conseillé."
       },
       {
         "q": "L’ESTAMINET TABAC BAR est-il ouvert le dimanche ?",
-        "r": "Oui : le dimanche, L’ESTAMINET TABAC BAR est ouvert de 8 h à 21 h (horaires relevés le 12 octobre 2026)."
+        "r": "Oui : le dimanche, L’ESTAMINET TABAC BAR est ouvert de 8 h à 21 h (horaires relevés le 28 octobre 2026)."
       },
       {
         "q": "Où se trouve L’ESTAMINET TABAC BAR ?",
@@ -184,11 +194,15 @@
         "r": "Par téléphone au 03 84 24 17 04, ou directement sur place aux heures d'ouverture."
       },
       {
+        "q": "L’ESTAMINET TABAC BAR propose-t-il la vente à emporter ou la livraison ?",
+        "r": "D'après sa fiche Google (relevé du 28 octobre 2026) — livraison : non."
+      },
+      {
         "q": "L’ESTAMINET TABAC BAR est-il accessible aux personnes à mobilité réduite ?",
         "r": "La fiche Google de l'établissement mentionne : « Entrée accessible en fauteuil roulant ». Cette information est déclarative ; en cas de doute, vérifiez par téléphone."
       }
     ],
-    "genere_le": "2026-10-12"
+    "genere_le": "2026-10-28"
   },
   "statut_google": "OPERATIONAL",
   "audience": {
@@ -199,6 +213,70 @@
     "clicsRecents": 0,
     "fenetreRecenteJours": 28,
     "source": "search-console",
-    "date": "2026-10-27"
+    "date": "2026-10-28"
+  },
+  "avis_detail": {
+    "releve": "2026-10-28",
+    "liste": [
+      {
+        "note": 5,
+        "texte": "Un accueil toujours très agréable, un commerce de quartier comme on voudrait en trouver plus souvent.",
+        "langue": "fr",
+        "date": "2026-09-11",
+        "auteur": "Eclectik Scéno",
+        "auteur_lien": "https://www.google.com/maps/contrib/109223232247618597197/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xGRU1rRlZPWFV3WkhoWVgwNXhSSFJGZUZOWGNrRRAB!2m1!1s0x478cd71b4c21228d:0x1b8ab290df33091a"
+      },
+      {
+        "note": 5,
+        "texte": "Merci de dépanner a chaque dimanche joue férié en plus avec un super sourir et service\nMerci a vous ✌️🙏🙏❤️",
+        "langue": "fr",
+        "date": "2026-05-14",
+        "auteur": "Linette39",
+        "auteur_lien": "https://www.google.com/maps/contrib/113380151885309893568/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25JdE9WVjFVR0ZGVG1OV1VqRXdVakJ5VGt0TFRtYxAB!2m1!1s0x478cd71b4c21228d:0x1b8ab290df33091a"
+      },
+      {
+        "note": 5,
+        "texte": "Au top je me sens chez moi, l'équipage sympa rien à dire",
+        "langue": "fr",
+        "date": "2026-04-12",
+        "auteur": "Moufid BALTA",
+        "auteur_lien": "https://www.google.com/maps/contrib/112518844589405667059/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VNbTEydmY3M2ItWVFBEAE!2m1!1s0x478cd71b4c21228d:0x1b8ab290df33091a"
+      },
+      {
+        "note": 5,
+        "texte": "Un tabac très accueillant maintenant à voir avec les Nouveau Proprietaire, j’espère qu’ils vont reprendre l’activité pick-up parce que c’était super pratique de les avoir juste à côté de la maison. Je recommande.",
+        "langue": "fr",
+        "date": "2026-03-13",
+        "auteur": "Elodie BGG",
+        "auteur_lien": "https://www.google.com/maps/contrib/117193935580189169473/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25CQkxXNWtUVXBSUmxWcGJWZFJaMmhCUm5Od1IzYxAB!2m1!1s0x478cd71b4c21228d:0x1b8ab290df33091a"
+      },
+      {
+        "note": 5,
+        "texte": "Personnels super sympa toujours bien accueillis Le personnel est d'une gentillesse remarquable, toujours prêt à accueillir avec un sourire. Leur attitude respectueuse contribue grandement à une atmosphère agréable. On ressent une véritable bienveillance dans leurs échanges. Cette approche humaine est très appréciée. C'est un plaisir d'être servi par des personnes aussi aimables.",
+        "langue": "fr",
+        "date": "2025-12-10",
+        "auteur": "Halil Yazici",
+        "auteur_lien": "https://www.google.com/maps/contrib/113324712530230361493/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT21aVE1rVlJSRlJqTUZkV1ExWTFRbXgzWVRac1VIYxAB!2m1!1s0x478cd71b4c21228d:0x1b8ab290df33091a"
+      }
+    ]
+  },
+  "services": {
+    "releve": "2026-10-28",
+    "options": {
+      "delivery": false
+    },
+    "paiement": [
+      "carte bancaire",
+      "carte de débit",
+      "paiement sans contact"
+    ],
+    "parking": [
+      "stationnement gratuit dans la rue"
+    ]
   }
 }

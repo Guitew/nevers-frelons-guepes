@@ -1,0 +1,282 @@
+{
+  "id": "ChIJOb1T8ufrtRIREOgT-3eQ8gM",
+  "slug": "ici-pare-brise-avignon-courtine",
+  "nom": "Ici Pare-Brise Avignon - Courtine",
+  "categorie": "garages-automobile",
+  "categorie_gmb": "Garage automobile",
+  "type_principal": "car_repair",
+  "types": [
+    "car_repair",
+    "point_of_interest",
+    "service",
+    "establishment"
+  ],
+  "ville": "Avignon",
+  "ville_slug": "avignon",
+  "adresse": {
+    "rue": "Rue Jean Marie Tjibaou",
+    "code_postal": "84000",
+    "departement": "84",
+    "region": "Provence-Alpes-Côte d'Azur",
+    "pays": "France",
+    "complete": "ZI Courtine, Rue Jean Marie Tjibaou, 84000 Avignon"
+  },
+  "telephone": "09 72 60 06 50",
+  "geo": {
+    "latitude": 43.927920199999996,
+    "longitude": 4.7898494
+  },
+  "note": 4.5,
+  "avis": 93,
+  "horaires": [
+    {
+      "jour": 0,
+      "ferme": true,
+      "creneaux": []
+    },
+    {
+      "jour": 1,
+      "ferme": false,
+      "creneaux": [
+        [
+          "09:00",
+          "12:00"
+        ],
+        [
+          "14:00",
+          "16:00"
+        ]
+      ]
+    },
+    {
+      "jour": 2,
+      "ferme": false,
+      "creneaux": [
+        [
+          "09:00",
+          "12:00"
+        ],
+        [
+          "14:00",
+          "16:00"
+        ]
+      ]
+    },
+    {
+      "jour": 3,
+      "ferme": false,
+      "creneaux": [
+        [
+          "09:00",
+          "12:00"
+        ],
+        [
+          "14:00",
+          "16:00"
+        ]
+      ]
+    },
+    {
+      "jour": 4,
+      "ferme": false,
+      "creneaux": [
+        [
+          "09:00",
+          "12:00"
+        ],
+        [
+          "14:00",
+          "16:00"
+        ]
+      ]
+    },
+    {
+      "jour": 5,
+      "ferme": false,
+      "creneaux": [
+        [
+          "09:00",
+          "12:00"
+        ]
+      ]
+    },
+    {
+      "jour": 6,
+      "ferme": true,
+      "creneaux": []
+    }
+  ],
+  "attributs": [
+    "Entrée accessible en fauteuil roulant",
+    "Parking accessible en fauteuil roulant",
+    "Toilettes accessibles en fauteuil roulant"
+  ],
+  "lien_google": "https://maps.google.com/?cid=284448571465656336&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
+  "site_web_gmb": null,
+  "statut": "publiee",
+  "backlink": {
+    "etat": "absent",
+    "premiere_detection": null,
+    "derniere_detection": null,
+    "derniere_verification": "2026-10-28T11:17:15.165Z",
+    "echecs": 1,
+    "url_detectee": null
+  },
+  "suggestion": {
+    "etat": "en-attente",
+    "date_soumission": null,
+    "tentatives": 0,
+    "date_email": "2026-10-28"
+  },
+  "retrait": null,
+  "dates": {
+    "collecte": "2026-10-28",
+    "publication": "2026-10-28",
+    "maj": "2026-10-28"
+  },
+  "source": "google-places",
+  "avis_detail": {
+    "releve": "2026-10-28",
+    "liste": [
+      {
+        "note": 5,
+        "texte": "De passage pour récupérer un colis un peu encombrant, très bon accueil, avec le sourire!",
+        "langue": "fr",
+        "date": "2026-05-20",
+        "auteur": "SWB NKR",
+        "auteur_lien": "https://www.google.com/maps/contrib/115114443532464429688/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2psck0zcDFRVzVHUlhwc2VrUnRVRUpaWmxKYU9HYxAB!2m1!1s0x12b5ebe7f253bd39:0x3f29077fb13e810"
+      },
+      {
+        "note": 1,
+        "texte": "Porte d entrée  qui claque c est pénible. Niveau propreté pas terrible. Thé 2.40! Café allongé et café 1.20 et sur le blachère fontcouverte 1 euros.",
+        "langue": "fr",
+        "date": "2025-10-29",
+        "auteur": "Frédéric",
+        "auteur_lien": "https://www.google.com/maps/contrib/112067191155477224102/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25kTGMweHlObEJKVDFCRFRFMUlNMUpmTTFRNVlsRRAB!2m1!1s0x12b5ebe7f253bd39:0x3f29077fb13e810"
+      },
+      {
+        "note": 1,
+        "texte": "J'ai changé mon parebrise chez eux en avril 2025 avec une offre de 150 euros en chèques cadeaux, on est fin juillet et je n'ai toujours pas mes chèques cadeaux...",
+        "langue": "fr",
+        "date": "2025-07-28",
+        "auteur": "D.E.* R.F.",
+        "auteur_lien": "https://www.google.com/maps/contrib/103568094807983988232/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT20xc2QxbDVabVI2U0UxRVNEbExjRWh6V1VaV1NYYxAB!2m1!1s0x12b5ebe7f253bd39:0x3f29077fb13e810"
+      },
+      {
+        "note": 5,
+        "texte": "5 étoiles plus que méritées je viens chercher mes colis régulièrement avec plaisir car je suis toujours accueilli avec le sourire. Tout le monde me dit bonjour, c'est tellement appréciable ! Pratique pour se garer. Bref je recommande vivement. En tout cas je sais que je les choisis les yeux fermés. Merci à toute l'équipe, vous êtes au top !",
+        "langue": "fr",
+        "date": "2022-11-04",
+        "auteur": "Nicolas Calegari",
+        "auteur_lien": "https://www.google.com/maps/contrib/117833393638296572920/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUMtN3NfQi1BRRAB!2m1!1s0x12b5ebe7f253bd39:0x3f29077fb13e810"
+      },
+      {
+        "note": 5,
+        "texte": "Accueil plus qu'on ne puisse espérer !\nSympathique\nAimable\nAvenant\nBienveillant\nVous accompagne du début à la fin, s'occupe de tout l'administratif en relation avec n'importe quelle assurance !\nTravail propre, rapide.\nVous trouverez toutes les réponses à vos questions et les services en plus !\nQuand le travail est terminé, vous avez droit à de petits cadeaux très utiles avant de partir !! Post-it, carnet note, déodorant véhicule, pochette carte grise, permis, identité, 15€ de lavage voiture\nJe ne vous en dit pas plus 😉si vous cherchez comment faire changer votre pare-brise...\nC'EST PAR ICI PARE-BRISE !",
+        "langue": "fr",
+        "date": "2022-10-20",
+        "auteur": "WEBER-Véronique",
+        "auteur_lien": "https://www.google.com/maps/contrib/114551228935970323806/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSURlaDhYZkp3EAE!2m1!1s0x12b5ebe7f253bd39:0x3f29077fb13e810"
+      }
+    ]
+  },
+  "services": {
+    "releve": "2026-10-28",
+    "options": {
+      "restroom": true
+    },
+    "paiement": [
+      "carte bancaire",
+      "carte de débit",
+      "paiement sans contact"
+    ],
+    "parking": []
+  },
+  "redaction": {
+    "version": 2,
+    "titre": "Ici Pare-Brise Avignon - Courtine — Garage et automobile à Avignon",
+    "meta_titre": "Ici Pare-Brise Avignon - Courtine à Avignon : horaires, avis",
+    "meta_description": "Ici Pare-Brise Avignon - Courtine, garage et automobile à Avignon : horaires d'ouverture, note Google 4,5/5 (93 avis), téléphone, adresse et itinéraire.",
+    "chapo": "Cette fiche présente Ici Pare-Brise Avignon - Courtine, un garage et automobile au Rue Jean Marie Tjibaou, à Avignon. Fermé le lundi et le dimanche au relevé du 28 octobre 2026. Téléphone : 09 72 60 06 50. Note Google : 4,5 sur 5 pour 93 avis.",
+    "sections": [
+      {
+        "id": "presentation",
+        "titre": "Ici Pare-Brise Avignon - Courtine en quelques mots",
+        "paragraphes": [
+          "Sur Google, l'établissement est classé « Garage automobile », dans notre rubrique Garage et automobile.",
+          "D'après le relevé du 28 octobre 2026, l'établissement est fermé le lundi et le dimanche. Le détail jour par jour figure plus bas."
+        ]
+      },
+      {
+        "id": "prestations",
+        "titre": "Services et équipements de Ici Pare-Brise Avignon - Courtine",
+        "paragraphes": [
+          "Proposé : toilettes.",
+          "Moyens de paiement déclarés : carte bancaire, carte de débit et paiement sans contact.",
+          "Ces indications sont déclarées par l'établissement sur sa fiche Google (relevé du 28 octobre 2026)."
+        ]
+      },
+      {
+        "id": "acces",
+        "titre": "Adresse et accès",
+        "paragraphes": [
+          "L'établissement est situé au Rue Jean Marie Tjibaou, 84000 Avignon.",
+          "Coordonnées GPS : 43.92792, 4.78985. Le bouton Itinéraire de cette page ouvre la navigation."
+        ]
+      },
+      {
+        "id": "contact",
+        "titre": "Contacter Ici Pare-Brise Avignon - Courtine",
+        "paragraphes": [
+          "Le contact se fait par téléphone au 09 72 60 06 50, ou directement sur place aux horaires d'ouverture."
+        ]
+      },
+      {
+        "id": "avis",
+        "titre": "La réputation de Ici Pare-Brise Avignon - Courtine",
+        "paragraphes": [
+          "Note de 4,5 sur 5 pour 93 avis Google au relevé du 28 octobre 2026. Les avis les plus parlants sont compilés ci-dessous, avec un lien vers la fiche d'origine."
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "q": "Quels sont les horaires de Ici Pare-Brise Avignon - Courtine ?",
+        "r": "Au relevé du 28 octobre 2026, Ici Pare-Brise Avignon - Courtine était fermé le lundi et le dimanche. Dans le détail — lundi : fermé ; mardi : de 9 h à 12 h et de 14 h à 16 h ; mercredi : de 9 h à 12 h et de 14 h à 16 h ; jeudi : de 9 h à 12 h et de 14 h à 16 h ; vendredi : de 9 h à 12 h et de 14 h à 16 h ; samedi : de 9 h à 12 h ; dimanche : fermé. Ces horaires peuvent changer : un appel préalable reste conseillé."
+      },
+      {
+        "q": "Ici Pare-Brise Avignon - Courtine est-il ouvert le dimanche ?",
+        "r": "Non : d'après les horaires relevés le 28 octobre 2026, Ici Pare-Brise Avignon - Courtine est fermé le dimanche."
+      },
+      {
+        "q": "Où se trouve Ici Pare-Brise Avignon - Courtine ?",
+        "r": "Ici Pare-Brise Avignon - Courtine se trouve ZI Courtine, Rue Jean Marie Tjibaou, 84000 Avignon. Un lien d'itinéraire est disponible sur cette page."
+      },
+      {
+        "q": "Comment contacter Ici Pare-Brise Avignon - Courtine ?",
+        "r": "Par téléphone au 09 72 60 06 50, ou directement sur place aux heures d'ouverture."
+      },
+      {
+        "q": "Ici Pare-Brise Avignon - Courtine est-il accessible aux personnes à mobilité réduite ?",
+        "r": "La fiche Google de l'établissement mentionne : « Entrée accessible en fauteuil roulant ». Cette information est déclarative ; en cas de doute, vérifiez par téléphone."
+      }
+    ],
+    "genere_le": "2026-10-28"
+  },
+  "statut_google": "OPERATIONAL",
+  "audience": {
+    "clics": 0,
+    "impressions": 0,
+    "position": null,
+    "fenetreJours": 90,
+    "clicsRecents": 0,
+    "fenetreRecenteJours": 28,
+    "source": "search-console",
+    "date": "2026-10-28"
+  }
+}

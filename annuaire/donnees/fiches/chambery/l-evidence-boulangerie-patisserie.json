@@ -29,7 +29,7 @@
     "longitude": 5.8881049
   },
   "note": 4.2,
-  "avis": 308,
+  "avis": 309,
   "horaires": [
     {
       "jour": 0,
@@ -108,8 +108,8 @@
     "etat": "absent",
     "premiere_detection": null,
     "derniere_detection": null,
-    "derniere_verification": "2026-10-12T19:47:22.869Z",
-    "echecs": 25,
+    "derniere_verification": "2026-10-28T11:17:15.165Z",
+    "echecs": 26,
     "url_detectee": null
   },
   "suggestion": {
@@ -122,7 +122,7 @@
   "dates": {
     "collecte": "2026-09-23",
     "publication": "2026-09-23",
-    "maj": "2026-10-12"
+    "maj": "2026-10-28"
   },
   "source": "google-places",
   "redaction": {
@@ -130,14 +130,26 @@
     "titre": "L'EVIDENCE Boulangerie-Pâtisserie — Boulangerie-pâtisserie à Chambéry",
     "meta_titre": "L'EVIDENCE Boulangerie-Pâtisserie à Chambéry",
     "meta_description": "L'EVIDENCE Boulangerie-Pâtisserie, boulangerie-pâtisserie à Chambéry : horaires d'ouverture, téléphone, adresse et itinéraire.",
-    "chapo": "L'EVIDENCE Boulangerie-Pâtisserie exerce l'activité de boulangerie-pâtisserie au 711 Avenue de la Motte Servolex, à Chambéry. Ouvert tous les jours sauf le lundi au relevé du 12 octobre 2026. Téléphone : 04 79 62 24 71. Note Google : 4,2 sur 5 pour 308 avis.",
+    "chapo": "L'EVIDENCE Boulangerie-Pâtisserie exerce l'activité de boulangerie-pâtisserie au 711 Avenue de la Motte Servolex, à Chambéry. Ouvert tous les jours sauf le lundi au relevé du 28 octobre 2026. Téléphone : 04 79 62 24 71. Note Google : 4,2 sur 5 pour 309 avis.",
     "sections": [
       {
         "id": "presentation",
         "titre": "L'EVIDENCE Boulangerie-Pâtisserie en quelques mots",
         "paragraphes": [
           "Sur Google, l'établissement est classé « Boulangerie », dans notre rubrique Boulangerie-pâtisserie.",
-          "D'après le relevé du 12 octobre 2026, l'établissement est ouvert tous les jours sauf le lundi. Le détail jour par jour figure plus bas."
+          "Niveau de prix indiqué sur la fiche Google : € (bon marché).",
+          "D'après le relevé du 28 octobre 2026, l'établissement est ouvert tous les jours sauf le lundi. Le détail jour par jour figure plus bas."
+        ]
+      },
+      {
+        "id": "prestations",
+        "titre": "Services et équipements de L'EVIDENCE Boulangerie-Pâtisserie",
+        "paragraphes": [
+          "Proposé : à emporter.",
+          "Non proposé selon la fiche Google : sur place, livraison et toilettes.",
+          "Moyens de paiement déclarés : carte bancaire, carte de débit et paiement sans contact.",
+          "Stationnement : parking gratuit.",
+          "Ces indications sont déclarées par l'établissement sur sa fiche Google (relevé du 28 octobre 2026)."
         ]
       },
       {
@@ -159,18 +171,18 @@
         "id": "avis",
         "titre": "La réputation de L'EVIDENCE Boulangerie-Pâtisserie",
         "paragraphes": [
-          "Note de 4,2 sur 5 pour 308 avis Google au relevé du 12 octobre 2026. Les avis se consultent sur la fiche Google, dont le lien figure sur cette page."
+          "Note de 4,2 sur 5 pour 309 avis Google au relevé du 28 octobre 2026. Les avis les plus parlants sont compilés ci-dessous, avec un lien vers la fiche d'origine."
         ]
       }
     ],
     "faq": [
       {
         "q": "Quels sont les horaires de L'EVIDENCE Boulangerie-Pâtisserie ?",
-        "r": "Au relevé du 12 octobre 2026, L'EVIDENCE Boulangerie-Pâtisserie était ouvert tous les jours sauf le lundi. Dans le détail — lundi : fermé ; mardi : de 6 h à 19 h 30 ; mercredi : de 6 h à 19 h 30 ; jeudi : de 6 h à 19 h 30 ; vendredi : de 6 h à 19 h 30 ; samedi : de 6 h à 19 h 30 ; dimanche : de 6 h 30 à 13 h. Ces horaires peuvent changer : un appel préalable reste conseillé."
+        "r": "Au relevé du 28 octobre 2026, L'EVIDENCE Boulangerie-Pâtisserie était ouvert tous les jours sauf le lundi. Dans le détail — lundi : fermé ; mardi : de 6 h à 19 h 30 ; mercredi : de 6 h à 19 h 30 ; jeudi : de 6 h à 19 h 30 ; vendredi : de 6 h à 19 h 30 ; samedi : de 6 h à 19 h 30 ; dimanche : de 6 h 30 à 13 h. Ces horaires peuvent changer : un appel préalable reste conseillé."
       },
       {
         "q": "L'EVIDENCE Boulangerie-Pâtisserie est-il ouvert le dimanche ?",
-        "r": "Oui : le dimanche, L'EVIDENCE Boulangerie-Pâtisserie est ouvert de 6 h 30 à 13 h (horaires relevés le 12 octobre 2026)."
+        "r": "Oui : le dimanche, L'EVIDENCE Boulangerie-Pâtisserie est ouvert de 6 h 30 à 13 h (horaires relevés le 28 octobre 2026)."
       },
       {
         "q": "Où se trouve L'EVIDENCE Boulangerie-Pâtisserie ?",
@@ -181,11 +193,19 @@
         "r": "Par téléphone au 04 79 62 24 71, ou directement sur place aux heures d'ouverture."
       },
       {
+        "q": "L'EVIDENCE Boulangerie-Pâtisserie propose-t-il la vente à emporter ou la livraison ?",
+        "r": "D'après sa fiche Google (relevé du 28 octobre 2026) — vente à emporter : oui ; livraison : non."
+      },
+      {
+        "q": "Quel est le niveau de prix de L'EVIDENCE Boulangerie-Pâtisserie ?",
+        "r": "Google classe L'EVIDENCE Boulangerie-Pâtisserie au niveau de prix € (bon marché), sur une échelle de € à €€€€ établie à partir des avis clients."
+      },
+      {
         "q": "L'EVIDENCE Boulangerie-Pâtisserie est-il accessible aux personnes à mobilité réduite ?",
         "r": "La fiche Google de l'établissement mentionne : « Entrée accessible en fauteuil roulant ». Cette information est déclarative ; en cas de doute, vérifiez par téléphone."
       }
     ],
-    "genere_le": "2026-10-12"
+    "genere_le": "2026-10-28"
   },
   "statut_google": "OPERATIONAL",
   "audience": {
@@ -196,6 +216,74 @@
     "clicsRecents": 0,
     "fenetreRecenteJours": 28,
     "source": "search-console",
-    "date": "2026-10-27"
+    "date": "2026-10-28"
+  },
+  "avis_detail": {
+    "releve": "2026-10-28",
+    "liste": [
+      {
+        "note": 5,
+        "texte": "J’aime beaucoup cette boulangerie, les salariés sont souriant, aimable et ça donne envie de revenir autant pour cela que pour que la qualité des produits. Petit supplément, merci au jeune homme et la charmante dame qui sont très très souvent daprem/ soir, c’est à cause ou grâce à voir que je m’arrête à la boulangerie",
+        "langue": "fr",
+        "date": "2026-05-09",
+        "auteur": "Adeline Peraldo",
+        "auteur_lien": "https://www.google.com/maps/contrib/103257681400931041302/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2s1Vk5HYzRiMkZNVUhKV1RIQnNZVXRMUm5sTVVsRRAB!2m1!1s0x478ba822aa7b5a35:0x4ba285330aa2d49a"
+      },
+      {
+        "note": 1,
+        "texte": "J'ai acheté un millefeuille. Heureusement que la crème était bonne pour masquer un feuilletage complètement mou, qui du coup datait certainement de la veille. Bravo 👏\nPremière fois que je testais cette boulangerie \" pâtisserie\" et bien ça sera la dernière ! d'autant plus que nous avons même été déçu de leur baguette tradition...",
+        "langue": "fr",
+        "date": "2026-04-07",
+        "auteur": "Moi",
+        "auteur_lien": "https://www.google.com/maps/contrib/108611084867425619882/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2w5aU1FVmtkVnBsUzNkVmFVVlVVRkF3VG1GYVkxRRAB!2m1!1s0x478ba822aa7b5a35:0x4ba285330aa2d49a"
+      },
+      {
+        "note": 3,
+        "texte": "J’ai acheté deux St Genis et deux gâteaux de savoie pour offrir.\nSi les gâteaux de savoie n’ont pas été décevant car bon et très présentable…. que dire des St Genis.\nJ’ai eu honte d’offrir des saint genis comme cela. Aucun relief, on aurait dit des crêpes.\nÀ 13€ le St Genix on s’attend à autre chose.\nJe suis retourné dans la boulangerie deux jours après pour signaler ma déception mais en voyant les St Genix en vitrine je me suis rendu compte que c’était la marque de fabrique de la maison. Donc le signaler n’aurait servi à rien à part de changer la méthode de fabrication.\nJ’ai même été masot en achetant des croissants, pain au chocolat.\nQuelle déception également…. Où est le beurre dans les viennoiseries.\nEn dehors du pain qui est très bon je passerai mon chemin pour les descriptions faites précédemment.",
+        "langue": "fr",
+        "date": "2026-03-31",
+        "auteur": "FABRICE PETIT",
+        "auteur_lien": "https://www.google.com/maps/contrib/112266800406326766029/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2tWMU4yTlpaVmR2VmpFM1ozTlJUVlF4T1dORFozYxAB!2m1!1s0x478ba822aa7b5a35:0x4ba285330aa2d49a"
+      },
+      {
+        "note": 5,
+        "texte": "J'ai commandé un framboisier le jour même pour le jour même. j'ai demandé des morceaux d'ananas. Nous nous sommes régalés. Le prix correspond à ce que j'achète chez d'autres pâtissiers - boulangers mais le goût est bien meilleur. Merci à vous",
+        "langue": "fr",
+        "date": "2026-03-12",
+        "auteur": "Nassera Cheriguene",
+        "auteur_lien": "https://www.google.com/maps/contrib/100262787977398364241/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT205cFoxbGZOVzFITVRGaGNrOW5UbmRHVFZaQ1kxRRAB!2m1!1s0x478ba822aa7b5a35:0x4ba285330aa2d49a"
+      },
+      {
+        "note": 5,
+        "texte": "Tout est bon. Les pâtisseries classiques très réussies comme le Succès à la ganache crémeuse et les gâteaux originaux comme le duplo il est difficile de s'arrêter après la premier bouchée. Les baguettes sont bonnes et offrent ce que l'on attend d'une bonne baguette, croustillant, goûtue et avec une bonne mâche. MAIS ce qui vaut vraiment le détour ce sont les croissants et pain au chocolat : pur beurre, un goût incomparable, un feuilletage magnifique et de la matière à mâcher. Quand il est dit que tout est fait maison, ça se vérifie ! Bravo !",
+        "langue": "fr",
+        "date": "2022-11-28",
+        "auteur": "JP :D",
+        "auteur_lien": "https://www.google.com/maps/contrib/116030380910993838085/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUQteHNxUUtREAE!2m1!1s0x478ba822aa7b5a35:0x4ba285330aa2d49a"
+      }
+    ]
+  },
+  "services": {
+    "releve": "2026-10-28",
+    "prix": "PRICE_LEVEL_INEXPENSIVE",
+    "options": {
+      "dineIn": false,
+      "takeout": true,
+      "delivery": false,
+      "restroom": false
+    },
+    "paiement": [
+      "carte bancaire",
+      "carte de débit",
+      "paiement sans contact"
+    ],
+    "parking": [
+      "parking gratuit"
+    ]
   }
 }

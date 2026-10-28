@@ -33,7 +33,7 @@
     "longitude": 5.1198062
   },
   "note": 4.3,
-  "avis": 698,
+  "avis": 702,
   "horaires": [
     {
       "jour": 0,
@@ -109,8 +109,8 @@
     "etat": "absent",
     "premiere_detection": null,
     "derniere_detection": null,
-    "derniere_verification": "2026-10-12T19:47:22.869Z",
-    "echecs": 66,
+    "derniere_verification": "2026-10-28T11:17:15.165Z",
+    "echecs": 67,
     "url_detectee": null
   },
   "suggestion": {
@@ -129,21 +129,33 @@
   "dates": {
     "collecte": "2026-09-03",
     "publication": "2026-09-03",
-    "maj": "2026-10-19"
+    "maj": "2026-10-28"
   },
   "source": "google-places",
   "redaction": {
     "version": 2,
     "titre": "L AUBERGE DU VIADUC — Restaurant à Chaumont",
     "meta_titre": "L AUBERGE DU VIADUC à Chaumont : horaires, avis, téléphone",
-    "meta_description": "L AUBERGE DU VIADUC, restaurant à Chaumont : horaires d'ouverture, note Google 4,3/5 (698 avis), téléphone, adresse et itinéraire.",
-    "chapo": "Cette fiche présente L AUBERGE DU VIADUC, un restaurant à Chaumont. Fermé le samedi et le dimanche au relevé du 18 octobre 2026. Téléphone : 07 85 96 98 52. Note Google : 4,3 sur 5 pour 698 avis.",
+    "meta_description": "L AUBERGE DU VIADUC, restaurant à Chaumont : horaires d'ouverture, note Google 4,3/5 (702 avis), téléphone, adresse et itinéraire.",
+    "chapo": "Cette fiche présente L AUBERGE DU VIADUC, un restaurant à Chaumont. Fermé le samedi et le dimanche au relevé du 28 octobre 2026. Téléphone : 07 85 96 98 52. Note Google : 4,3 sur 5 pour 702 avis.",
     "sections": [
       {
         "id": "presentation",
         "titre": "L AUBERGE DU VIADUC en quelques mots",
         "paragraphes": [
-          "D'après le relevé du 18 octobre 2026, l'établissement est fermé le samedi et le dimanche. Le détail jour par jour figure plus bas."
+          "Niveau de prix indiqué sur la fiche Google : €€ (modéré).",
+          "D'après le relevé du 28 octobre 2026, l'établissement est fermé le samedi et le dimanche. Le détail jour par jour figure plus bas."
+        ]
+      },
+      {
+        "id": "prestations",
+        "titre": "Services et équipements de L AUBERGE DU VIADUC",
+        "paragraphes": [
+          "Proposé : sur place, à emporter, réservation possible, terrasse, petit-déjeuner, brunch, déjeuner, dîner, café, bière, vin, cocktails, menu enfant, adapté aux enfants, adapté aux groupes, chiens acceptés et toilettes.",
+          "Non proposé selon la fiche Google : plats végétariens et musique live.",
+          "Moyens de paiement déclarés : carte bancaire, carte de débit et paiement sans contact.",
+          "Stationnement : parking gratuit et stationnement gratuit dans la rue.",
+          "Ces indications sont déclarées par l'établissement sur sa fiche Google (relevé du 28 octobre 2026)."
         ]
       },
       {
@@ -158,25 +170,26 @@
         "id": "contact",
         "titre": "Contacter L AUBERGE DU VIADUC",
         "paragraphes": [
-          "Le contact se fait par téléphone au 07 85 96 98 52, ou directement sur place aux horaires d'ouverture."
+          "Le contact se fait par téléphone au 07 85 96 98 52, ou directement sur place aux horaires d'ouverture.",
+          "La fiche Google indique que la réservation est possible."
         ]
       },
       {
         "id": "avis",
         "titre": "La réputation de L AUBERGE DU VIADUC",
         "paragraphes": [
-          "Note de 4,3 sur 5 pour 698 avis Google au relevé du 18 octobre 2026. Les avis se consultent sur la fiche Google, dont le lien figure sur cette page."
+          "Note de 4,3 sur 5 pour 702 avis Google au relevé du 28 octobre 2026. Les avis les plus parlants sont compilés ci-dessous, avec un lien vers la fiche d'origine."
         ]
       }
     ],
     "faq": [
       {
         "q": "Quels sont les horaires de L AUBERGE DU VIADUC ?",
-        "r": "Au relevé du 18 octobre 2026, L AUBERGE DU VIADUC était fermé le samedi et le dimanche. Dans le détail — lundi : de 6 h 30 à 23 h ; mardi : de 5 h 30 à 23 h ; mercredi : de 5 h 30 à 23 h ; jeudi : de 5 h 30 à 23 h ; vendredi : de 5 h 30 à 23 h ; samedi : fermé ; dimanche : fermé. Ces horaires peuvent changer : un appel préalable reste conseillé."
+        "r": "Au relevé du 28 octobre 2026, L AUBERGE DU VIADUC était fermé le samedi et le dimanche. Dans le détail — lundi : de 6 h 30 à 23 h ; mardi : de 5 h 30 à 23 h ; mercredi : de 5 h 30 à 23 h ; jeudi : de 5 h 30 à 23 h ; vendredi : de 5 h 30 à 23 h ; samedi : fermé ; dimanche : fermé. Ces horaires peuvent changer : un appel préalable reste conseillé."
       },
       {
         "q": "L AUBERGE DU VIADUC est-il ouvert le dimanche ?",
-        "r": "Non : d'après les horaires relevés le 18 octobre 2026, L AUBERGE DU VIADUC est fermé le dimanche."
+        "r": "Non : d'après les horaires relevés le 28 octobre 2026, L AUBERGE DU VIADUC est fermé le dimanche."
       },
       {
         "q": "Où se trouve L AUBERGE DU VIADUC ?",
@@ -187,11 +200,23 @@
         "r": "Par téléphone au 07 85 96 98 52, ou directement sur place aux heures d'ouverture."
       },
       {
+        "q": "Peut-on réserver chez L AUBERGE DU VIADUC ?",
+        "r": "Oui, la fiche Google de L AUBERGE DU VIADUC indique que la réservation est possible, par téléphone au 07 85 96 98 52."
+      },
+      {
+        "q": "L AUBERGE DU VIADUC propose-t-il la vente à emporter ou la livraison ?",
+        "r": "D'après sa fiche Google (relevé du 28 octobre 2026) — vente à emporter : oui."
+      },
+      {
+        "q": "Quel est le niveau de prix de L AUBERGE DU VIADUC ?",
+        "r": "Google classe L AUBERGE DU VIADUC au niveau de prix €€ (modéré), sur une échelle de € à €€€€ établie à partir des avis clients."
+      },
+      {
         "q": "L AUBERGE DU VIADUC est-il accessible aux personnes à mobilité réduite ?",
         "r": "La fiche Google de l'établissement mentionne : « Entrée accessible en fauteuil roulant ». Cette information est déclarative ; en cas de doute, vérifiez par téléphone."
       }
     ],
-    "genere_le": "2026-10-18"
+    "genere_le": "2026-10-28"
   },
   "statut_google": "OPERATIONAL",
   "audience": {
@@ -202,7 +227,7 @@
     "clicsRecents": 0,
     "fenetreRecenteJours": 28,
     "source": "search-console",
-    "date": "2026-10-27"
+    "date": "2026-10-28"
   },
   "indexation": {
     "etat": "non-indexee",
@@ -212,5 +237,89 @@
     "canonique_google": null,
     "source": "inspection",
     "date": "2026-10-19"
+  },
+  "avis_detail": {
+    "releve": "2026-10-28",
+    "liste": [
+      {
+        "note": 5,
+        "texte": "Une excellente adresse où je m’arrête régulièrement et où l’ambiance est toujours au top !\n\nLe patron vous accueille toujours avec le sourire, très sympathique. Le personnel est également agréable et accueillant.\n\nLe parking est grand et dispose de nombreuses places, et surtout, il est encore possible d’arriver tard pour manger, ce qui devient malheureusement de plus en plus rare dans nos restaurants routiers.\n\nCôté installations : 3 douches propres et fonctionnelles, sanitaires bien entretenus. 🚿👍\n\nPour le repas, buffet généreux, plats bons et copieux, le tout avec des prix très raisonnables.\n\nUne vraie bonne adresse, conviviale où l’on peut s’arrêter les yeux fermés et que je recommande sans hésiter ! 🚛🍽️\n\nThomas (CLOT)",
+        "langue": "fr",
+        "date": "2026-08-16",
+        "auteur": "Thomas Bonetti",
+        "auteur_lien": "https://www.google.com/maps/contrib/108168996199159870431/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2treWFteHBXRXBWWW1WaFlYVTFUMmhrWWxaMlIxRRAB!2m1!1s0x47ece5691351e171:0xff086902ef532f75"
+      },
+      {
+        "note": 5,
+        "texte": "Voilà je suis un régulier mais par le boulot je suis resté sans passer ds le coin et hier et aujourd'hui je me suis retrouvé ici superbe ambiance le patron super sympa et la cuisine super la serveuse hyper dynamique.\nUn endroit que je vous conseille.\nBiz à tous marcel le belge.\nMerci cacahouètes.",
+        "langue": "fr",
+        "date": "2026-08-13",
+        "auteur": "Marcel Mengeot",
+        "auteur_lien": "https://www.google.com/maps/contrib/115375230384042147694/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2tSdVRrVnJSSHBJY0doU1lrYzBYMjlqTldSd1lWRRAB!2m1!1s0x47ece5691351e171:0xff086902ef532f75"
+      },
+      {
+        "note": 5,
+        "texte": "Super resto routier .\nGrand parking au calme .\nTrès bon accueil.. que ce soit avec le patron le soir ou le matin avec l'employée .\nLe tout avec le sourire et la bonne humeur.\nTrès bien mangé...\nSanitaire très propre.\nUn endroit a garder",
+        "langue": "fr",
+        "date": "2025-09-23",
+        "auteur": "Joly Jumper",
+        "auteur_lien": "https://www.google.com/maps/contrib/100638880484410222983/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xZNFFYVXlWbVIzUlZac1VtTldOV2hNTm1aYWJVRRAB!2m1!1s0x47ece5691351e171:0xff086902ef532f75"
+      },
+      {
+        "note": 5,
+        "texte": "Nous avons beaucoup apprécié notre expérience dans ce restaurant et salle mise à dispo pour j. Mariage (invités 50 personnes)\nUn grand merci au propriétaire ainsi qu’à Aline pour leur disponibilité, leur organisation et leur patience tout au long de la préparation et du jour J.\nLe matériel mis à disposition, notamment pour la musique, est un vrai plus : tout est sur place, ce qui rend l’organisation beaucoup plus simple et agréable.\nUn lieu chaleureux et fonctionnel que nous recommandons vivement pour un mariage réussi ! Merci infiniment !!!",
+        "langue": "fr",
+        "date": "2025-09-18",
+        "auteur": "Karo Lyne",
+        "auteur_lien": "https://www.google.com/maps/contrib/113097377121193869248/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xZdFFtZE5jakpzWDE5cFJrRndVR05SUmtWUGVWRRAB!2m1!1s0x47ece5691351e171:0xff086902ef532f75"
+      },
+      {
+        "note": 4,
+        "texte": "Bien reçu personnels agréables ,lieux agréable parking à voir très délabré à faire ne serait pas un luxe. Qualité prix nickel juste plat juste chaud mais bon 😋\nJe conseille",
+        "langue": "fr",
+        "date": "2025-01-30",
+        "auteur": "Amador Albarras espinar",
+        "auteur_lien": "https://www.google.com/maps/contrib/102008240370834468295/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnTUNBMHJXTlZnEAE!2m1!1s0x47ece5691351e171:0xff086902ef532f75"
+      }
+    ]
+  },
+  "services": {
+    "releve": "2026-10-28",
+    "prix": "PRICE_LEVEL_MODERATE",
+    "options": {
+      "dineIn": true,
+      "takeout": true,
+      "reservable": true,
+      "outdoorSeating": true,
+      "servesBreakfast": true,
+      "servesBrunch": true,
+      "servesLunch": true,
+      "servesDinner": true,
+      "servesVegetarianFood": false,
+      "servesCoffee": true,
+      "servesBeer": true,
+      "servesWine": true,
+      "servesCocktails": true,
+      "menuForChildren": true,
+      "goodForChildren": true,
+      "goodForGroups": true,
+      "liveMusic": false,
+      "allowsDogs": true,
+      "restroom": true
+    },
+    "paiement": [
+      "carte bancaire",
+      "carte de débit",
+      "paiement sans contact"
+    ],
+    "parking": [
+      "parking gratuit",
+      "stationnement gratuit dans la rue"
+    ]
   }
 }

@@ -30,7 +30,7 @@
     "longitude": -1.6937293999999998
   },
   "note": 4.4,
-  "avis": 1743,
+  "avis": 1746,
   "horaires": [
     {
       "jour": 0,
@@ -111,8 +111,8 @@
     "etat": "absent",
     "premiere_detection": null,
     "derniere_detection": null,
-    "derniere_verification": "2026-10-13T12:40:03.315Z",
-    "echecs": 26,
+    "derniere_verification": "2026-10-28T11:17:15.165Z",
+    "echecs": 27,
     "url_detectee": null
   },
   "suggestion": {
@@ -125,22 +125,35 @@
   "dates": {
     "collecte": "2026-09-22",
     "publication": "2026-09-22",
-    "maj": "2026-10-13"
+    "maj": "2026-10-28"
   },
   "source": "google-places",
   "redaction": {
     "version": 2,
     "titre": "La Piste — Café ou bar à Rennes",
     "meta_titre": "La Piste à Rennes : horaires, avis, téléphone",
-    "meta_description": "La Piste, café ou bar à Rennes : horaires d'ouverture, note Google 4,4/5 (1743 avis), téléphone, adresse et itinéraire.",
-    "chapo": "La Piste est un café ou bar au 68 Mail François Mitterrand, à Rennes. Ouvert sept jours sur sept au relevé du 13 octobre 2026. Téléphone : 02 30 96 44 98. Note Google : 4,4 sur 5 pour 1743 avis.",
+    "meta_description": "La Piste, café ou bar à Rennes : horaires d'ouverture, note Google 4,4/5 (1746 avis), téléphone, adresse et itinéraire.",
+    "chapo": "La Piste est un café ou bar au 68 Mail François Mitterrand, à Rennes. Ouvert sept jours sur sept au relevé du 28 octobre 2026. Téléphone : 02 30 96 44 98. Note Google : 4,4 sur 5 pour 1746 avis.",
     "sections": [
       {
         "id": "presentation",
         "titre": "La Piste en quelques mots",
         "paragraphes": [
+          "Présentation donnée par Google : « Restaurant à l'ambiance détendue doté d'un patio, proposant burgers, petits plats, desserts et bières artisanales. »",
           "Sur Google, l'établissement est classé « Bar », dans notre rubrique Café ou bar.",
-          "D'après le relevé du 13 octobre 2026, l'établissement est ouvert sept jours sur sept. Le détail jour par jour figure plus bas."
+          "Niveau de prix indiqué sur la fiche Google : €€ (modéré).",
+          "D'après le relevé du 28 octobre 2026, l'établissement est ouvert sept jours sur sept. Le détail jour par jour figure plus bas."
+        ]
+      },
+      {
+        "id": "prestations",
+        "titre": "Services et équipements de La Piste",
+        "paragraphes": [
+          "Proposé : sur place, à emporter, livraison, réservation possible, terrasse, petit-déjeuner, bière, vin, cocktails, menu enfant, adapté aux enfants, adapté aux groupes, chiens acceptés et toilettes.",
+          "Non proposé selon la fiche Google : retransmissions sportives.",
+          "Moyens de paiement déclarés : carte bancaire, carte de débit et paiement sans contact.",
+          "Stationnement : stationnement gratuit dans la rue et stationnement payant dans la rue.",
+          "Ces indications sont déclarées par l'établissement sur sa fiche Google (relevé du 28 octobre 2026)."
         ]
       },
       {
@@ -155,25 +168,26 @@
         "id": "contact",
         "titre": "Contacter La Piste",
         "paragraphes": [
-          "Le contact se fait par téléphone au 02 30 96 44 98, ou directement sur place aux horaires d'ouverture."
+          "Le contact se fait par téléphone au 02 30 96 44 98, ou directement sur place aux horaires d'ouverture.",
+          "La fiche Google indique que la réservation est possible."
         ]
       },
       {
         "id": "avis",
         "titre": "La réputation de La Piste",
         "paragraphes": [
-          "Note de 4,4 sur 5 pour 1743 avis Google au relevé du 13 octobre 2026. Les avis se consultent sur la fiche Google, dont le lien figure sur cette page."
+          "Note de 4,4 sur 5 pour 1746 avis Google au relevé du 28 octobre 2026. Les avis les plus parlants sont compilés ci-dessous, avec un lien vers la fiche d'origine."
         ]
       }
     ],
     "faq": [
       {
         "q": "Quels sont les horaires de La Piste ?",
-        "r": "Au relevé du 13 octobre 2026, La Piste était ouvert sept jours sur sept. Dans le détail — lundi : de 9 h à 1 h ; mardi : de 9 h à 1 h ; mercredi : de 9 h à 1 h ; jeudi : de 9 h à 1 h ; vendredi : de 9 h à 1 h ; samedi : de 11 h à 1 h ; dimanche : de 11 h à 0 h 30. Ces horaires peuvent changer : un appel préalable reste conseillé."
+        "r": "Au relevé du 28 octobre 2026, La Piste était ouvert sept jours sur sept. Dans le détail — lundi : de 9 h à 1 h ; mardi : de 9 h à 1 h ; mercredi : de 9 h à 1 h ; jeudi : de 9 h à 1 h ; vendredi : de 9 h à 1 h ; samedi : de 11 h à 1 h ; dimanche : de 11 h à 0 h 30. Ces horaires peuvent changer : un appel préalable reste conseillé."
       },
       {
         "q": "La Piste est-il ouvert le dimanche ?",
-        "r": "Oui : le dimanche, La Piste est ouvert de 11 h à 0 h 30 (horaires relevés le 13 octobre 2026)."
+        "r": "Oui : le dimanche, La Piste est ouvert de 11 h à 0 h 30 (horaires relevés le 28 octobre 2026)."
       },
       {
         "q": "Où se trouve La Piste ?",
@@ -182,19 +196,113 @@
       {
         "q": "Comment contacter La Piste ?",
         "r": "Par téléphone au 02 30 96 44 98, ou directement sur place aux heures d'ouverture."
+      },
+      {
+        "q": "Peut-on réserver chez La Piste ?",
+        "r": "Oui, la fiche Google de La Piste indique que la réservation est possible, par téléphone au 02 30 96 44 98."
+      },
+      {
+        "q": "La Piste propose-t-il la vente à emporter ou la livraison ?",
+        "r": "D'après sa fiche Google (relevé du 28 octobre 2026) — vente à emporter : oui ; livraison : oui."
+      },
+      {
+        "q": "Quel est le niveau de prix de La Piste ?",
+        "r": "Google classe La Piste au niveau de prix €€ (modéré), sur une échelle de € à €€€€ établie à partir des avis clients."
       }
     ],
-    "genere_le": "2026-10-13"
+    "genere_le": "2026-10-28"
   },
   "statut_google": "OPERATIONAL",
   "audience": {
     "clics": 0,
-    "impressions": 21,
-    "position": 11.9,
+    "impressions": 24,
+    "position": 12,
     "fenetreJours": 90,
     "clicsRecents": 0,
     "fenetreRecenteJours": 28,
     "source": "search-console",
-    "date": "2026-10-27"
+    "date": "2026-10-28"
+  },
+  "avis_detail": {
+    "releve": "2026-10-28",
+    "liste": [
+      {
+        "note": 2,
+        "texte": "Que dire de la piste. Depuis des années en tant que voisin je passe des bonnes soirées ici.\nMais la, je le décide enfin d,écrire un avis.\nEst-ce qu’il sera constructif c’est une autre histoire.\nDéçu par la qualité globale de la cuisine. Les acras et le poulet ont extrêmement baissé en qualité.\nLe service inexistant depuis le début pas de surprise. Mais en dessous vraiment en ce moment. Tu demandes des glaçons pour ta bouteille de vin ( il fait 30 degrés ) ou une bouteille d’eau limite on te regarde bizarrement.\nLe service client est inexistant.\nPas de fidélisation ( c’est pas l’endroit) mais quand même.\nC’est bien pour boire une pinte au début ou dans les tréfonds de ta soirée.\nLe reste c’est de la littérature comme dirait certains.",
+        "langue": "fr",
+        "date": "2026-07-28",
+        "auteur": "olivier-Pierre Lemenven",
+        "auteur_lien": "https://www.google.com/maps/contrib/100697928250111103182/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25KNmIxaEZUMkV4UzB4eGRsRlJZbVpQYkRsR2MxRRAB!2m1!1s0x480edf9e114e31a5:0x23304f8531f1ed5e"
+      },
+      {
+        "note": 5,
+        "texte": "Le meilleur bar, les serveur son top voit au delà.\nJe ne regrette pas mon arrêt chez eux.\nGrace a eux j'ai la banane, ke sourire.\nMerci à vous .\nLa cuisine et tropisme simple mais hyper bon.",
+        "langue": "fr",
+        "date": "2026-06-03",
+        "auteur": "Julien Gautier",
+        "auteur_lien": "https://www.google.com/maps/contrib/117817137550679275640/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25BM2VWQlBWbGxaVTFCdlRtNHlMVWRWT1ZCMmRYYxAB!2m1!1s0x480edf9e114e31a5:0x23304f8531f1ed5e"
+      },
+      {
+        "note": 5,
+        "texte": "Nous sommes tombés par hasard sur ce bar...le soleil étant la nous avons profité de boire une excellente bière en terrasse (beaucoup de choix). Nous avons tellement aimé que nous sommes revenus le soir pour y manger et le burger et les nuggets de poulets étaient excellents. Toutes les personnes qui s'occupent de ce bar sont très gentils.",
+        "langue": "fr",
+        "date": "2026-05-24",
+        "auteur": "Elodie Coadou",
+        "auteur_lien": "https://www.google.com/maps/contrib/107047874509729627639/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2twU05GZzJSR1p2WHpaRVZISXlhMlZQTkhKeU9WRRAB!2m1!1s0x480edf9e114e31a5:0x23304f8531f1ed5e"
+      },
+      {
+        "note": 5,
+        "texte": "Super bar pour le p’tit café du matin: toujours une belle et bonne bouchée de pâtisserie maison pour accompagner le kfé. Ambiance tranquille, conviviale et très « quartier » le matin.",
+        "langue": "fr",
+        "date": "2026-03-25",
+        "auteur": "Chriss Legout",
+        "auteur_lien": "https://www.google.com/maps/contrib/102007355122741984336/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT21GR1RWTXRNamRxYUdWRVpIRllTRFpFUkVoVGJGRRAB!2m1!1s0x480edf9e114e31a5:0x23304f8531f1ed5e"
+      },
+      {
+        "note": 5,
+        "texte": "Nous nous sommes régalés !\nService sympathique !\nMalheureusement le jardin d’hiver était plein et nous n’avons pas pu nous y installer mais ça avait l’air très sympathique !\nSeul petit bémol: obligé d’acheter les boissons au bar (de l’autre côté par rapport au lieu de commande de plats).\nJe recommande",
+        "langue": "fr",
+        "date": "2022-10-25",
+        "auteur": "Elodie M",
+        "auteur_lien": "https://www.google.com/maps/contrib/109053833168154552990/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUMteUpMSlVnEAE!2m1!1s0x480edf9e114e31a5:0x23304f8531f1ed5e"
+      }
+    ]
+  },
+  "services": {
+    "releve": "2026-10-28",
+    "prix": "PRICE_LEVEL_MODERATE",
+    "resume": "Restaurant à l'ambiance détendue doté d'un patio, proposant burgers, petits plats, desserts et bières artisanales.",
+    "resume_langue": "fr",
+    "options": {
+      "dineIn": true,
+      "takeout": true,
+      "delivery": true,
+      "reservable": true,
+      "outdoorSeating": true,
+      "servesBreakfast": true,
+      "servesBeer": true,
+      "servesWine": true,
+      "servesCocktails": true,
+      "menuForChildren": true,
+      "goodForChildren": true,
+      "goodForGroups": true,
+      "goodForWatchingSports": false,
+      "allowsDogs": true,
+      "restroom": true
+    },
+    "paiement": [
+      "carte bancaire",
+      "carte de débit",
+      "paiement sans contact"
+    ],
+    "parking": [
+      "stationnement gratuit dans la rue",
+      "stationnement payant dans la rue"
+    ]
   }
 }

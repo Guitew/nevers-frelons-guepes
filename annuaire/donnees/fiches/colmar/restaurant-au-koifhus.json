@@ -226,7 +226,7 @@
     "clicsRecents": 0,
     "fenetreRecenteJours": 28,
     "source": "search-console",
-    "date": "2026-10-27"
+    "date": "2026-10-28"
   },
   "avis_detail": {
     "releve": "2026-10-23",
@@ -313,5 +313,14 @@
     "parking": [
       "parking payant"
     ]
+  },
+  "indexation": {
+    "etat": "indexee",
+    "verdict": null,
+    "couverture": "impressions dans la Search Console",
+    "derniere_exploration": null,
+    "canonique_google": null,
+    "source": "impressions",
+    "date": "2026-10-28"
   }
 }

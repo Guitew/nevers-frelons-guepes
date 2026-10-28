@@ -1,5 +1,125 @@
 [
   {
+    "date": "2026-10-28T11:19:01.024Z",
+    "type": "suggestion-soumise",
+    "id": "ChIJVVavkbaCqRIRaqZptXsxNcw",
+    "nom": "Ali Ahmad Zakaria",
+    "url": "/medecins-dentistes/auch/ali-ahmad-zakaria/"
+  },
+  {
+    "date": "2026-10-28T11:19:00.992Z",
+    "type": "suggestion-soumise",
+    "id": "ChIJtZySSHRL6EcRd0O_nH8fPHQ",
+    "nom": "Bar de la Neuville",
+    "url": "/cafes-bars/laon/bar-de-la-neuville/"
+  },
+  {
+    "date": "2026-10-28T11:19:00.952Z",
+    "type": "suggestion-soumise",
+    "id": "ChIJuQws98WX-kcR72WP4UT8cQA",
+    "nom": "Comptoir de l'Ours-REYT",
+    "url": "/mode-equipement-maison/bourges/comptoir-de-l-ours-reyt/"
+  },
+  {
+    "date": "2026-10-28T11:19:00.912Z",
+    "type": "suggestion-soumise",
+    "id": "ChIJYWlgDvA33UcRM2_HO9-QnPo",
+    "nom": "Federation Des Chasseurs 62",
+    "url": "/loisirs-sport-culture/saint-laurent-blangy/federation-des-chasseurs-62/"
+  },
+  {
+    "date": "2026-10-28T11:19:00.863Z",
+    "type": "suggestion-soumise",
+    "id": "ChIJbf9MzAAvB0gRFo-Pdc4ylwY",
+    "nom": "L’île Ô Crêpes",
+    "url": "/restaurants/niort/l-ile-o-crepes/"
+  },
+  {
+    "date": "2026-10-28T11:17:15.288Z",
+    "type": "backlink-absent",
+    "id": "ChIJLdoalqeai0cRpGYp5I115hg",
+    "nom": "GIE IRM74 - site de Césière",
+    "url": null,
+    "precedent": "en-attente"
+  },
+  {
+    "date": "2026-10-28T11:17:15.366Z",
+    "type": "backlink-absent",
+    "id": "ChIJOb1T8ufrtRIREOgT-3eQ8gM",
+    "nom": "Ici Pare-Brise Avignon - Courtine",
+    "url": null,
+    "precedent": "en-attente"
+  },
+  {
+    "date": "2026-10-28T11:17:15.487Z",
+    "type": "backlink-absent",
+    "id": "ChIJA82HciDzkkcR25YzhTxookY",
+    "nom": "JPS LAVAGE - BBSV",
+    "url": null,
+    "precedent": "en-attente"
+  },
+  {
+    "date": "2026-10-28T11:17:15.543Z",
+    "type": "backlink-absent",
+    "id": "ChIJETYVgW7YVA0RBSPzn4Lo2Fg",
+    "nom": "Marlone",
+    "url": null,
+    "precedent": "en-attente"
+  },
+  {
+    "date": "2026-10-28T11:17:15.591Z",
+    "type": "backlink-absent",
+    "id": "ChIJxfnYWjrq9EcRQri_Mt95bHo",
+    "nom": "Seazen Buffet",
+    "url": null,
+    "precedent": "en-attente"
+  },
+  {
+    "date": "2026-10-28T11:17:14.564Z",
+    "type": "publication",
+    "id": "ChIJA82HciDzkkcR25YzhTxookY",
+    "nom": "JPS LAVAGE - BBSV",
+    "url": "/garages-automobile/quincey/jps-lavage-bbsv/",
+    "categorie": "garages-automobile",
+    "source": "google-places"
+  },
+  {
+    "date": "2026-10-28T11:17:14.692Z",
+    "type": "publication",
+    "id": "ChIJOb1T8ufrtRIREOgT-3eQ8gM",
+    "nom": "Ici Pare-Brise Avignon - Courtine",
+    "url": "/garages-automobile/avignon/ici-pare-brise-avignon-courtine/",
+    "categorie": "garages-automobile",
+    "source": "google-places"
+  },
+  {
+    "date": "2026-10-28T11:17:14.801Z",
+    "type": "publication",
+    "id": "ChIJETYVgW7YVA0RBSPzn4Lo2Fg",
+    "nom": "Marlone",
+    "url": "/restaurants/bordeaux/marlone/",
+    "categorie": "restaurants",
+    "source": "google-places"
+  },
+  {
+    "date": "2026-10-28T11:17:14.933Z",
+    "type": "publication",
+    "id": "ChIJxfnYWjrq9EcRQri_Mt95bHo",
+    "nom": "Seazen Buffet",
+    "url": "/restaurants/lyon/seazen-buffet/",
+    "categorie": "restaurants",
+    "source": "google-places"
+  },
+  {
+    "date": "2026-10-28T11:17:15.038Z",
+    "type": "publication",
+    "id": "ChIJLdoalqeai0cRpGYp5I115hg",
+    "nom": "GIE IRM74 - site de Césière",
+    "url": "/medecins-dentistes/annecy/gie-irm74-site-de-cesiere/",
+    "categorie": "medecins-dentistes",
+    "source": "google-places"
+  },
+  {
     "date": "2026-10-27T10:30:30.723Z",
     "type": "suggestion-soumise",
     "id": "ChIJvRM-iiyZlEcROq_3SADKbps",

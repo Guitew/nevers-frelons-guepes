@@ -110,8 +110,8 @@
     "etat": "absent",
     "premiere_detection": null,
     "derniere_detection": null,
-    "derniere_verification": "2026-10-13T12:40:03.315Z",
-    "echecs": 3,
+    "derniere_verification": "2026-10-28T11:17:15.165Z",
+    "echecs": 4,
     "url_detectee": null
   },
   "suggestion": {
@@ -124,7 +124,7 @@
   "dates": {
     "collecte": "2026-10-08",
     "publication": "2026-10-08",
-    "maj": "2026-10-13"
+    "maj": "2026-10-28"
   },
   "source": "google-places",
   "redaction": {
@@ -132,14 +132,14 @@
     "titre": "laverie automatique — Nettoyage et hygiène à Quimper",
     "meta_titre": "laverie automatique à Quimper : horaires, avis, téléphone",
     "meta_description": "laverie automatique, nettoyage et hygiène à Quimper : horaires d'ouverture, note Google 4,1/5 (48 avis), téléphone, adresse et itinéraire.",
-    "chapo": "laverie automatique exerce l'activité de nettoyage et hygiène au 11 Route de Pont l'Abbé, à Quimper. Ouvert sept jours sur sept au relevé du 13 octobre 2026. Téléphone : 06 89 48 31 83. Note Google : 4,1 sur 5 pour 48 avis.",
+    "chapo": "laverie automatique exerce l'activité de nettoyage et hygiène au 11 Route de Pont l'Abbé, à Quimper. Ouvert sept jours sur sept au relevé du 28 octobre 2026. Téléphone : 06 89 48 31 83. Note Google : 4,1 sur 5 pour 48 avis.",
     "sections": [
       {
         "id": "presentation",
         "titre": "laverie automatique en quelques mots",
         "paragraphes": [
           "Sur Google, l'établissement est classé « Blanchisserie », dans notre rubrique Nettoyage et hygiène.",
-          "D'après le relevé du 13 octobre 2026, l'établissement est ouvert sept jours sur sept. Le détail jour par jour figure plus bas."
+          "D'après le relevé du 28 octobre 2026, l'établissement est ouvert sept jours sur sept. Le détail jour par jour figure plus bas."
         ]
       },
       {
@@ -161,18 +161,18 @@
         "id": "avis",
         "titre": "La réputation de laverie automatique",
         "paragraphes": [
-          "Note de 4,1 sur 5 pour 48 avis Google au relevé du 13 octobre 2026. Les avis se consultent sur la fiche Google, dont le lien figure sur cette page."
+          "Note de 4,1 sur 5 pour 48 avis Google au relevé du 28 octobre 2026. Les avis les plus parlants sont compilés ci-dessous, avec un lien vers la fiche d'origine."
         ]
       }
     ],
     "faq": [
       {
         "q": "Quels sont les horaires de laverie automatique ?",
-        "r": "Au relevé du 13 octobre 2026, laverie automatique était ouvert sept jours sur sept. Dans le détail — lundi : de 8 h à 22 h ; mardi : de 8 h à 22 h ; mercredi : de 8 h à 22 h ; jeudi : de 8 h à 22 h ; vendredi : de 8 h à 22 h ; samedi : de 8 h à 22 h ; dimanche : de 8 h à 22 h. Ces horaires peuvent changer : un appel préalable reste conseillé."
+        "r": "Au relevé du 28 octobre 2026, laverie automatique était ouvert sept jours sur sept. Dans le détail — lundi : de 8 h à 22 h ; mardi : de 8 h à 22 h ; mercredi : de 8 h à 22 h ; jeudi : de 8 h à 22 h ; vendredi : de 8 h à 22 h ; samedi : de 8 h à 22 h ; dimanche : de 8 h à 22 h. Ces horaires peuvent changer : un appel préalable reste conseillé."
       },
       {
         "q": "laverie automatique est-il ouvert le dimanche ?",
-        "r": "Oui : le dimanche, laverie automatique est ouvert de 8 h à 22 h (horaires relevés le 13 octobre 2026)."
+        "r": "Oui : le dimanche, laverie automatique est ouvert de 8 h à 22 h (horaires relevés le 28 octobre 2026)."
       },
       {
         "q": "Où se trouve laverie automatique ?",
@@ -187,7 +187,7 @@
         "r": "La fiche Google de l'établissement mentionne : « Parking accessible en fauteuil roulant ». Cette information est déclarative ; en cas de doute, vérifiez par téléphone."
       }
     ],
-    "genere_le": "2026-10-13"
+    "genere_le": "2026-10-28"
   },
   "statut_google": "OPERATIONAL",
   "audience": {
@@ -198,6 +198,56 @@
     "clicsRecents": 0,
     "fenetreRecenteJours": 28,
     "source": "search-console",
-    "date": "2026-10-27"
+    "date": "2026-10-28"
+  },
+  "avis_detail": {
+    "releve": "2026-10-28",
+    "liste": [
+      {
+        "note": 3,
+        "texte": "Services tjrs efficaces machine à laver et séche-linge mais j'ai été surprise car les locaux étaient très sales alors qu'habituellement cette laverie est bien entretenue. Exceptionnel ou un laisser aller ?? L'hygiène est importante pour moi dc déception.",
+        "langue": "fr",
+        "date": "2024-10-24",
+        "auteur": "Eliza “Bettina29” O.",
+        "auteur_lien": "https://www.google.com/maps/contrib/105684786564243083105/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSURYeE9LLXZnRRAB!2m1!1s0x4810d59ebad68407:0x6e3affbd8711df7c"
+      },
+      {
+        "note": 5,
+        "texte": "Laverie très sympa !!! Endroit agréable et propre !! Ouvert des 8 heures jusqu’à 22:00!! Les prix sont accessibles… je recommande …",
+        "langue": "fr",
+        "date": "2024-09-16",
+        "auteur": "Su Pereira",
+        "auteur_lien": "https://www.google.com/maps/contrib/113934553372233547522/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSURIb1p1cHB3RRAB!2m1!1s0x4810d59ebad68407:0x6e3affbd8711df7c"
+      },
+      {
+        "note": 3,
+        "texte": "un lieu propre c'est bien, des prix abordables c'est mieux.\n\n(4.90€/machine 8kg et 8.90€/machine 16kg, 1€/sèche linge)",
+        "langue": "fr",
+        "date": "2022-11-26",
+        "auteur": "loan",
+        "auteur_lien": "https://www.google.com/maps/contrib/111588170779091843469/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUQteXFyaE5nEAE!2m1!1s0x4810d59ebad68407:0x6e3affbd8711df7c"
+      },
+      {
+        "note": 5,
+        "texte": "On se fait parfois insulter par des gens que l'on ne connaît pas dommage et il y a parfois un manque de respect avec les personnes qui viennent uniquement utiliser les sèche-linges mais sinon endroit agréable, spacieux, table pratique pour plier le linge. Petit banc pour s'asseoir et attendre.",
+        "langue": "fr",
+        "date": "2022-03-15",
+        "auteur": "nathalie ROCUET FREDJ",
+        "auteur_lien": "https://www.google.com/maps/contrib/116768548382335130441/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSURXcE1xaDhRRRAB!2m1!1s0x4810d59ebad68407:0x6e3affbd8711df7c"
+      },
+      {
+        "note": 3,
+        "texte": "Lave bien sauf pour sécher. Les seches linges sont vraiment bof! Il faut minimum prévoir 5 euros puisque que un tour de 1euros ne suffit pas, même en mettant peu de vêtement.",
+        "langue": "fr",
+        "date": "2018-03-04",
+        "auteur": "El Fakir",
+        "auteur_lien": "https://www.google.com/maps/contrib/102975570657968599221/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUNRdU02TWhBRRAB!2m1!1s0x4810d59ebad68407:0x6e3affbd8711df7c"
+      }
+    ]
   }
 }

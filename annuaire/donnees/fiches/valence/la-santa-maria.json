@@ -31,7 +31,7 @@
     "longitude": 4.9077737
   },
   "note": 4.6,
-  "avis": 1288,
+  "avis": 1295,
   "horaires": [
     {
       "jour": 0,
@@ -124,8 +124,8 @@
     "etat": "absent",
     "premiere_detection": null,
     "derniere_detection": null,
-    "derniere_verification": "2026-10-13T12:40:03.315Z",
-    "echecs": 8,
+    "derniere_verification": "2026-10-28T11:17:15.165Z",
+    "echecs": 9,
     "url_detectee": null
   },
   "suggestion": {
@@ -138,22 +138,35 @@
   "dates": {
     "collecte": "2026-10-03",
     "publication": "2026-10-03",
-    "maj": "2026-10-13"
+    "maj": "2026-10-28"
   },
   "source": "google-places",
   "redaction": {
     "version": 2,
     "titre": "La Santa Maria — Restaurant à Valence",
     "meta_titre": "La Santa Maria à Valence : horaires, avis, téléphone",
-    "meta_description": "La Santa Maria, restaurant à Valence : horaires d'ouverture, note Google 4,6/5 (1288 avis), téléphone, adresse et itinéraire.",
-    "chapo": "La Santa Maria est un restaurant au 116 Avenue de Romans, à Valence. Fermé le lundi et le dimanche au relevé du 13 octobre 2026. Téléphone : 04 75 41 04 99. Note Google : 4,6 sur 5 pour 1288 avis.",
+    "meta_description": "La Santa Maria, restaurant à Valence : horaires d'ouverture, note Google 4,6/5 (1295 avis), téléphone, adresse et itinéraire.",
+    "chapo": "La Santa Maria est un restaurant au 116 Avenue de Romans, à Valence. Fermé le lundi et le dimanche au relevé du 28 octobre 2026. Téléphone : 04 75 41 04 99. Note Google : 4,6 sur 5 pour 1295 avis.",
     "sections": [
       {
         "id": "presentation",
         "titre": "La Santa Maria en quelques mots",
         "paragraphes": [
+          "Présentation donnée par Google : « Ce restaurant à la décoration sobre propose des plats italiens typiques, comme des spaghettis et des pizzas. »",
           "Sur Google, l'établissement est classé « Restaurant italien », dans notre rubrique Restaurant.",
-          "D'après le relevé du 13 octobre 2026, l'établissement est fermé le lundi et le dimanche. Le détail jour par jour figure plus bas."
+          "Niveau de prix indiqué sur la fiche Google : €€ (modéré).",
+          "D'après le relevé du 28 octobre 2026, l'établissement est fermé le lundi et le dimanche. Le détail jour par jour figure plus bas."
+        ]
+      },
+      {
+        "id": "prestations",
+        "titre": "Services et équipements de La Santa Maria",
+        "paragraphes": [
+          "Proposé : sur place, à emporter, réservation possible, terrasse, déjeuner, dîner, café, bière, vin, cocktails, menu enfant, adapté aux enfants, adapté aux groupes et toilettes.",
+          "Non proposé selon la fiche Google : livraison, retrait en voiture, petit-déjeuner, brunch, retransmissions sportives, musique live et chiens acceptés.",
+          "Moyens de paiement déclarés : carte bancaire, carte de débit et paiement sans contact.",
+          "Stationnement : parking gratuit et stationnement gratuit dans la rue.",
+          "Ces indications sont déclarées par l'établissement sur sa fiche Google (relevé du 28 octobre 2026)."
         ]
       },
       {
@@ -168,25 +181,26 @@
         "id": "contact",
         "titre": "Contacter La Santa Maria",
         "paragraphes": [
-          "Le contact se fait par téléphone au 04 75 41 04 99, ou directement sur place aux horaires d'ouverture."
+          "Le contact se fait par téléphone au 04 75 41 04 99, ou directement sur place aux horaires d'ouverture.",
+          "La fiche Google indique que la réservation est possible."
         ]
       },
       {
         "id": "avis",
         "titre": "La réputation de La Santa Maria",
         "paragraphes": [
-          "Note de 4,6 sur 5 pour 1288 avis Google au relevé du 13 octobre 2026. Les avis se consultent sur la fiche Google, dont le lien figure sur cette page."
+          "Note de 4,6 sur 5 pour 1295 avis Google au relevé du 28 octobre 2026. Les avis les plus parlants sont compilés ci-dessous, avec un lien vers la fiche d'origine."
         ]
       }
     ],
     "faq": [
       {
         "q": "Quels sont les horaires de La Santa Maria ?",
-        "r": "Au relevé du 13 octobre 2026, La Santa Maria était fermé le lundi et le dimanche. Dans le détail — lundi : fermé ; mardi : de 12 h à 13 h 30 et de 19 h à 21 h ; mercredi : de 12 h à 13 h 30 et de 19 h à 21 h ; jeudi : de 12 h à 13 h 30 et de 19 h à 21 h ; vendredi : de 12 h à 13 h 30 et de 19 h à 21 h ; samedi : de 12 h à 13 h 30 et de 19 h à 21 h ; dimanche : fermé. Ces horaires peuvent changer : un appel préalable reste conseillé."
+        "r": "Au relevé du 28 octobre 2026, La Santa Maria était fermé le lundi et le dimanche. Dans le détail — lundi : fermé ; mardi : de 12 h à 13 h 30 et de 19 h à 21 h ; mercredi : de 12 h à 13 h 30 et de 19 h à 21 h ; jeudi : de 12 h à 13 h 30 et de 19 h à 21 h ; vendredi : de 12 h à 13 h 30 et de 19 h à 21 h ; samedi : de 12 h à 13 h 30 et de 19 h à 21 h ; dimanche : fermé. Ces horaires peuvent changer : un appel préalable reste conseillé."
       },
       {
         "q": "La Santa Maria est-il ouvert le dimanche ?",
-        "r": "Non : d'après les horaires relevés le 13 octobre 2026, La Santa Maria est fermé le dimanche."
+        "r": "Non : d'après les horaires relevés le 28 octobre 2026, La Santa Maria est fermé le dimanche."
       },
       {
         "q": "Où se trouve La Santa Maria ?",
@@ -197,21 +211,121 @@
         "r": "Par téléphone au 04 75 41 04 99, ou directement sur place aux heures d'ouverture."
       },
       {
+        "q": "Peut-on réserver chez La Santa Maria ?",
+        "r": "Oui, la fiche Google de La Santa Maria indique que la réservation est possible, par téléphone au 04 75 41 04 99."
+      },
+      {
+        "q": "La Santa Maria propose-t-il la vente à emporter ou la livraison ?",
+        "r": "D'après sa fiche Google (relevé du 28 octobre 2026) — vente à emporter : oui ; livraison : non."
+      },
+      {
+        "q": "Quel est le niveau de prix de La Santa Maria ?",
+        "r": "Google classe La Santa Maria au niveau de prix €€ (modéré), sur une échelle de € à €€€€ établie à partir des avis clients."
+      },
+      {
         "q": "La Santa Maria est-il accessible aux personnes à mobilité réduite ?",
         "r": "La fiche Google de l'établissement mentionne : « Places assises accessibles en fauteuil roulant ». Cette information est déclarative ; en cas de doute, vérifiez par téléphone."
       }
     ],
-    "genere_le": "2026-10-13"
+    "genere_le": "2026-10-28"
   },
   "statut_google": "OPERATIONAL",
   "audience": {
     "clics": 0,
-    "impressions": 8,
-    "position": 14.3,
+    "impressions": 14,
+    "position": 20.1,
     "fenetreJours": 90,
     "clicsRecents": 0,
     "fenetreRecenteJours": 28,
     "source": "search-console",
-    "date": "2026-10-27"
+    "date": "2026-10-28"
+  },
+  "avis_detail": {
+    "releve": "2026-10-28",
+    "liste": [
+      {
+        "note": 5,
+        "texte": "Très bonne découverte ! Nous nous sommes régalés. Les pizzas sont délicieuses et le tiramisu aussi. Les assiettes sont très copieuses. Je recommande.",
+        "langue": "fr",
+        "date": "2026-09-30",
+        "auteur": "Veronice",
+        "auteur_lien": "https://www.google.com/maps/contrib/117859697714445876163/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2pGcmFWSnJZMU5JWjNwNFRsOXVSVkJOVldOWWJYYxAB!2m1!1s0x47f5577904696019:0x770af4d0748ca9a5"
+      },
+      {
+        "note": 5,
+        "texte": "Une adresse coup de cœur à Valence !\nAvec mon amie, nous cherchions un coin sympa pour passer un bon moment, et nous n'avons pas été déçues. Le restaurant est joliment décoré avec une ambiance très chaleureuse. L'accueil est des plus agréables, et le personnel s'est montré à la fois à l'écoute et adorable tout au long du repas.\nJ'ai opté pour la pizza Bresaola : elle est fraîchement préparée, avec des produits de qualité, et je me suis tout simplement régalée !\nC'est avec grand plaisir que nous reviendrons. Une vraie belle découverte !",
+        "langue": "fr",
+        "date": "2026-08-08",
+        "auteur": "Demanche Elise",
+        "auteur_lien": "https://www.google.com/maps/contrib/102290357586819689336/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xCeWRXVnBWVjg0ZEZSUlVqQmFiMHhSV0hvMGQyYxAB!2m1!1s0x47f5577904696019:0x770af4d0748ca9a5"
+      },
+      {
+        "note": 5,
+        "texte": "J'ai commandé une pizza Corsica, à emporter, dans le meilleur restaurant italien de Valence \"La Santa Maria\". Un régal : de très bons produits corses sublimés sur une pizza au feu de bois généreuse et très goûteuse.",
+        "langue": "fr",
+        "date": "2026-04-25",
+        "auteur": "Laurence Cailhe",
+        "auteur_lien": "https://www.google.com/maps/contrib/111376642223461671076/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT21sek9WbGFWVEpQYjE5NU5ubHpVSFUwTFZoNFIzYxAB!2m1!1s0x47f5577904696019:0x770af4d0748ca9a5"
+      },
+      {
+        "note": 5,
+        "texte": "Excellente adresse pour des pizzas de grande qualité. Les portions sont généreuses, les ingrédients soigneusement sélectionnés et la préparation toujours maîtrisée. Client régulier le jeudi soir à emporter, j’apprécie particulièrement la constance du service et le sérieux de l’équipe. Une référence que je recommande sans réserve.",
+        "langue": "fr",
+        "date": "2026-02-18",
+        "auteur": "Clément ASTIER",
+        "auteur_lien": "https://www.google.com/maps/contrib/107395134137272401189/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT21VdFdHaElaMEpLTm5OcFZsSm5iM0kzUXpOYVlrRRAB!2m1!1s0x47f5577904696019:0x770af4d0748ca9a5"
+      },
+      {
+        "note": 5,
+        "texte": "Une perle tant pour le goût des pizzas (la pâte est incroyable!), celui du gratin d’aubergines et du tiramisu que pour l’ambiance chaleureuse.\n\nLes serveurs  s’occupe de nous aux p’tits oignons avec le sourire !\n\nOn le recommande les yeux fermés !\n\nMerci à toute l’équipe pour le moment qu’on a passé ce soir !",
+        "langue": "fr",
+        "date": "2025-09-30",
+        "auteur": "Julie Larue",
+        "auteur_lien": "https://www.google.com/maps/contrib/114167642590384467526/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2w5VVMzcDRZVzVsTVZWcVNETmxNMWhtYWpkcE5GRRAB!2m1!1s0x47f5577904696019:0x770af4d0748ca9a5"
+      }
+    ]
+  },
+  "services": {
+    "releve": "2026-10-28",
+    "prix": "PRICE_LEVEL_MODERATE",
+    "resume": "Ce restaurant à la décoration sobre propose des plats italiens typiques, comme des spaghettis et des pizzas.",
+    "resume_langue": "fr",
+    "options": {
+      "dineIn": true,
+      "takeout": true,
+      "delivery": false,
+      "curbsidePickup": false,
+      "reservable": true,
+      "outdoorSeating": true,
+      "servesBreakfast": false,
+      "servesBrunch": false,
+      "servesLunch": true,
+      "servesDinner": true,
+      "servesCoffee": true,
+      "servesBeer": true,
+      "servesWine": true,
+      "servesCocktails": true,
+      "menuForChildren": true,
+      "goodForChildren": true,
+      "goodForGroups": true,
+      "goodForWatchingSports": false,
+      "liveMusic": false,
+      "allowsDogs": false,
+      "restroom": true
+    },
+    "paiement": [
+      "carte bancaire",
+      "carte de débit",
+      "paiement sans contact"
+    ],
+    "parking": [
+      "parking gratuit",
+      "stationnement gratuit dans la rue"
+    ]
   }
 }

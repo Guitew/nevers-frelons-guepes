@@ -110,8 +110,8 @@
     "etat": "absent",
     "premiere_detection": null,
     "derniere_detection": null,
-    "derniere_verification": "2026-10-12T19:47:22.869Z",
-    "echecs": 14,
+    "derniere_verification": "2026-10-28T11:17:15.165Z",
+    "echecs": 15,
     "url_detectee": null
   },
   "suggestion": {
@@ -124,7 +124,7 @@
   "dates": {
     "collecte": "2026-09-28",
     "publication": "2026-09-28",
-    "maj": "2026-10-12"
+    "maj": "2026-10-28"
   },
   "source": "google-places",
   "redaction": {
@@ -132,14 +132,22 @@
     "titre": "KER WASH — Garage et automobile à Vannes",
     "meta_titre": "KER WASH à Vannes : horaires, avis, téléphone",
     "meta_description": "KER WASH, garage et automobile à Vannes : horaires d'ouverture, note Google 4,2/5 (28 avis), téléphone, adresse et itinéraire.",
-    "chapo": "KER WASH, garage et automobile au 8 Avenue de Suffren, à Vannes. Ouvert sept jours sur sept au relevé du 12 octobre 2026. Téléphone : 06 18 66 32 29. Note Google : 4,2 sur 5 pour 28 avis.",
+    "chapo": "KER WASH, garage et automobile au 8 Avenue de Suffren, à Vannes. Ouvert sept jours sur sept au relevé du 28 octobre 2026. Téléphone : 06 18 66 32 29. Note Google : 4,2 sur 5 pour 28 avis.",
     "sections": [
       {
         "id": "presentation",
         "titre": "KER WASH en quelques mots",
         "paragraphes": [
           "Sur Google, l'établissement est classé « Station de lavage automobile », dans notre rubrique Garage et automobile.",
-          "D'après le relevé du 12 octobre 2026, l'établissement est ouvert sept jours sur sept. Le détail jour par jour figure plus bas."
+          "D'après le relevé du 28 octobre 2026, l'établissement est ouvert sept jours sur sept. Le détail jour par jour figure plus bas."
+        ]
+      },
+      {
+        "id": "prestations",
+        "titre": "Services et équipements de KER WASH",
+        "paragraphes": [
+          "Moyens de paiement déclarés : carte bancaire, carte de débit et paiement sans contact.",
+          "Ces indications sont déclarées par l'établissement sur sa fiche Google (relevé du 28 octobre 2026)."
         ]
       },
       {
@@ -161,18 +169,18 @@
         "id": "avis",
         "titre": "La réputation de KER WASH",
         "paragraphes": [
-          "Note de 4,2 sur 5 pour 28 avis Google au relevé du 12 octobre 2026. Les avis se consultent sur la fiche Google, dont le lien figure sur cette page."
+          "Note de 4,2 sur 5 pour 28 avis Google au relevé du 28 octobre 2026. Les avis les plus parlants sont compilés ci-dessous, avec un lien vers la fiche d'origine."
         ]
       }
     ],
     "faq": [
       {
         "q": "Quels sont les horaires de KER WASH ?",
-        "r": "Au relevé du 12 octobre 2026, KER WASH était ouvert sept jours sur sept. Dans le détail — lundi : de 7 h à 22 h ; mardi : de 7 h à 22 h ; mercredi : de 7 h à 22 h ; jeudi : de 7 h à 22 h ; vendredi : de 7 h à 22 h ; samedi : de 7 h à 22 h ; dimanche : de 7 h à 22 h. Ces horaires peuvent changer : un appel préalable reste conseillé."
+        "r": "Au relevé du 28 octobre 2026, KER WASH était ouvert sept jours sur sept. Dans le détail — lundi : de 7 h à 22 h ; mardi : de 7 h à 22 h ; mercredi : de 7 h à 22 h ; jeudi : de 7 h à 22 h ; vendredi : de 7 h à 22 h ; samedi : de 7 h à 22 h ; dimanche : de 7 h à 22 h. Ces horaires peuvent changer : un appel préalable reste conseillé."
       },
       {
         "q": "KER WASH est-il ouvert le dimanche ?",
-        "r": "Oui : le dimanche, KER WASH est ouvert de 7 h à 22 h (horaires relevés le 12 octobre 2026)."
+        "r": "Oui : le dimanche, KER WASH est ouvert de 7 h à 22 h (horaires relevés le 28 octobre 2026)."
       },
       {
         "q": "Où se trouve KER WASH ?",
@@ -187,7 +195,7 @@
         "r": "La fiche Google de l'établissement mentionne : « Entrée accessible en fauteuil roulant ». Cette information est déclarative ; en cas de doute, vérifiez par téléphone."
       }
     ],
-    "genere_le": "2026-10-12"
+    "genere_le": "2026-10-28"
   },
   "statut_google": "OPERATIONAL",
   "audience": {
@@ -198,6 +206,66 @@
     "clicsRecents": 0,
     "fenetreRecenteJours": 28,
     "source": "search-console",
-    "date": "2026-10-27"
+    "date": "2026-10-28"
+  },
+  "avis_detail": {
+    "releve": "2026-10-28",
+    "liste": [
+      {
+        "note": 1,
+        "texte": "A eviter. Materiel en panne et perte de jeton payant sans prise en compte du gerant / pas de retour au numero affiché/",
+        "langue": "fr",
+        "date": "2026-07-12",
+        "auteur": "Robert De Nyss",
+        "auteur_lien": "https://www.google.com/maps/contrib/101438903492097499158/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2tNMmJFcDNjbTQyV2tsd1QyWnlObXgzY25ocFZYYxAB!2m1!1s0x48101c1aa2f186a9:0xa26265af37aa95c"
+      },
+      {
+        "note": 5,
+        "texte": "Je n'ai jamais vu de car wash équipé de balais a mousse, c'est super pratique pour frotter !\nMerci",
+        "langue": "fr",
+        "date": "2025-03-24",
+        "auteur": "Evan Benezet",
+        "auteur_lien": "https://www.google.com/maps/contrib/102920820578706003400/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnTUR3X05PV0NnEAE!2m1!1s0x48101c1aa2f186a9:0xa26265af37aa95c"
+      },
+      {
+        "note": 5,
+        "texte": "Portique de lavage au top, nettoie mieux que certain que portique de lavage dans d’autres stations et pas mal d’options !",
+        "langue": "fr",
+        "date": "2024-03-03",
+        "auteur": "Nicolas Billy",
+        "auteur_lien": "https://www.google.com/maps/contrib/111349354186418851837/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUM5akpYLWJBEAE!2m1!1s0x48101c1aa2f186a9:0xa26265af37aa95c"
+      },
+      {
+        "note": 5,
+        "texte": "Nouveau service addi sur l aire nettoyage auto. Avons découvert ce jour , avec explications et détail de la prise en main pour cette 1ere utilisation par la responsable.35mns .Efficace et bonne expérience client.Nous recommandons.",
+        "langue": "fr",
+        "date": "2022-08-03",
+        "auteur": "Thierry PICQUOT",
+        "auteur_lien": "https://www.google.com/maps/contrib/114868665839568149038/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUN1emNydld3EAE!2m1!1s0x48101c1aa2f186a9:0xa26265af37aa95c"
+      },
+      {
+        "note": 5,
+        "texte": "Le centre de lavage de voiture Ker wash est très bien tenue en plus avec de nouvelles machines sympa manque juste une sortie l'eau basse pression pour laver le moteur de bateaux et jet ski",
+        "langue": "fr",
+        "date": "2019-08-10",
+        "auteur": "olivier dupuis",
+        "auteur_lien": "https://www.google.com/maps/contrib/117555506514920735850/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSURVZ1BLX0RnEAE!2m1!1s0x48101c1aa2f186a9:0xa26265af37aa95c"
+      }
+    ]
+  },
+  "services": {
+    "releve": "2026-10-28",
+    "options": {},
+    "paiement": [
+      "carte bancaire",
+      "carte de débit",
+      "paiement sans contact"
+    ],
+    "parking": []
   }
 }

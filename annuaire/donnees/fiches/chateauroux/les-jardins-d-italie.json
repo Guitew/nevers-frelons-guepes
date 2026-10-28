@@ -243,7 +243,7 @@
     "clicsRecents": 0,
     "fenetreRecenteJours": 28,
     "source": "search-console",
-    "date": "2026-10-27"
+    "date": "2026-10-28"
   },
   "avis_detail": {
     "releve": "2026-10-21",
@@ -326,5 +326,14 @@
     "parking": [
       "stationnement payant dans la rue"
     ]
+  },
+  "indexation": {
+    "etat": "non-indexee",
+    "verdict": "NEUTRAL",
+    "couverture": "Détectée, actuellement non indexée",
+    "derniere_exploration": null,
+    "canonique_google": null,
+    "source": "inspection",
+    "date": "2026-10-28"
   }
 }

@@ -27,7 +27,7 @@
     "longitude": 2.4479957
   },
   "note": 4.8,
-  "avis": 385,
+  "avis": 390,
   "horaires": [
     {
       "jour": 0,
@@ -132,8 +132,8 @@
     "etat": "absent",
     "premiere_detection": null,
     "derniere_detection": null,
-    "derniere_verification": "2026-10-13T12:40:03.315Z",
-    "echecs": 33,
+    "derniere_verification": "2026-10-28T11:17:15.165Z",
+    "echecs": 34,
     "url_detectee": null
   },
   "suggestion": {
@@ -146,21 +146,33 @@
   "dates": {
     "collecte": "2026-09-18",
     "publication": "2026-09-18",
-    "maj": "2026-10-13"
+    "maj": "2026-10-28"
   },
   "source": "google-places",
   "redaction": {
     "version": 2,
     "titre": "La Vacherie — Restaurant à Aurillac",
     "meta_titre": "La Vacherie à Aurillac : horaires, avis, téléphone",
-    "meta_description": "La Vacherie, restaurant à Aurillac : horaires d'ouverture, note Google 4,8/5 (385 avis), téléphone, adresse et itinéraire.",
-    "chapo": "La Vacherie exerce l'activité de restaurant au 3 Rue du Buis, à Aurillac. Ouvert tous les jours sauf le dimanche au relevé du 13 octobre 2026. Téléphone : 04 71 43 21 61. Note Google : 4,8 sur 5 pour 385 avis.",
+    "meta_description": "La Vacherie, restaurant à Aurillac : horaires d'ouverture, note Google 4,8/5 (390 avis), téléphone, adresse et itinéraire.",
+    "chapo": "La Vacherie exerce l'activité de restaurant au 3 Rue du Buis, à Aurillac. Ouvert tous les jours sauf le dimanche au relevé du 28 octobre 2026. Téléphone : 04 71 43 21 61. Note Google : 4,8 sur 5 pour 390 avis.",
     "sections": [
       {
         "id": "presentation",
         "titre": "La Vacherie en quelques mots",
         "paragraphes": [
-          "D'après le relevé du 13 octobre 2026, l'établissement est ouvert tous les jours sauf le dimanche. Le détail jour par jour figure plus bas."
+          "Niveau de prix indiqué sur la fiche Google : €€ (modéré).",
+          "D'après le relevé du 28 octobre 2026, l'établissement est ouvert tous les jours sauf le dimanche. Le détail jour par jour figure plus bas."
+        ]
+      },
+      {
+        "id": "prestations",
+        "titre": "Services et équipements de La Vacherie",
+        "paragraphes": [
+          "Proposé : sur place, réservation possible, terrasse, déjeuner, dîner, plats végétariens, café, bière, vin, cocktails, menu enfant, adapté aux enfants, adapté aux groupes, musique live, chiens acceptés et toilettes.",
+          "Non proposé selon la fiche Google : à emporter, livraison, retrait en voiture, petit-déjeuner, brunch et retransmissions sportives.",
+          "Moyens de paiement déclarés : carte bancaire, carte de débit et paiement sans contact.",
+          "Stationnement : parking gratuit, parking payant, stationnement gratuit dans la rue et stationnement payant dans la rue.",
+          "Ces indications sont déclarées par l'établissement sur sa fiche Google (relevé du 28 octobre 2026)."
         ]
       },
       {
@@ -175,25 +187,26 @@
         "id": "contact",
         "titre": "Contacter La Vacherie",
         "paragraphes": [
-          "Le contact se fait par téléphone au 04 71 43 21 61, ou directement sur place aux horaires d'ouverture."
+          "Le contact se fait par téléphone au 04 71 43 21 61, ou directement sur place aux horaires d'ouverture.",
+          "La fiche Google indique que la réservation est possible."
         ]
       },
       {
         "id": "avis",
         "titre": "La réputation de La Vacherie",
         "paragraphes": [
-          "Note de 4,8 sur 5 pour 385 avis Google au relevé du 13 octobre 2026. Les avis se consultent sur la fiche Google, dont le lien figure sur cette page."
+          "Note de 4,8 sur 5 pour 390 avis Google au relevé du 28 octobre 2026. Les avis les plus parlants sont compilés ci-dessous, avec un lien vers la fiche d'origine."
         ]
       }
     ],
     "faq": [
       {
         "q": "Quels sont les horaires de La Vacherie ?",
-        "r": "Au relevé du 13 octobre 2026, La Vacherie était ouvert tous les jours sauf le dimanche. Dans le détail — lundi : de 11 h 30 à 14 h et de 19 h à 22 h ; mardi : de 11 h 30 à 14 h et de 19 h à 22 h ; mercredi : de 11 h 30 à 14 h et de 19 h à 22 h ; jeudi : de 11 h 30 à 14 h et de 19 h à 22 h ; vendredi : de 11 h 30 à 14 h et de 19 h à 22 h ; samedi : de 11 h 30 à 14 h et de 19 h à 22 h ; dimanche : fermé. Ces horaires peuvent changer : un appel préalable reste conseillé."
+        "r": "Au relevé du 28 octobre 2026, La Vacherie était ouvert tous les jours sauf le dimanche. Dans le détail — lundi : de 11 h 30 à 14 h et de 19 h à 22 h ; mardi : de 11 h 30 à 14 h et de 19 h à 22 h ; mercredi : de 11 h 30 à 14 h et de 19 h à 22 h ; jeudi : de 11 h 30 à 14 h et de 19 h à 22 h ; vendredi : de 11 h 30 à 14 h et de 19 h à 22 h ; samedi : de 11 h 30 à 14 h et de 19 h à 22 h ; dimanche : fermé. Ces horaires peuvent changer : un appel préalable reste conseillé."
       },
       {
         "q": "La Vacherie est-il ouvert le dimanche ?",
-        "r": "Non : d'après les horaires relevés le 13 octobre 2026, La Vacherie est fermé le dimanche."
+        "r": "Non : d'après les horaires relevés le 28 octobre 2026, La Vacherie est fermé le dimanche."
       },
       {
         "q": "Où se trouve La Vacherie ?",
@@ -204,11 +217,23 @@
         "r": "Par téléphone au 04 71 43 21 61, ou directement sur place aux heures d'ouverture."
       },
       {
+        "q": "Peut-on réserver chez La Vacherie ?",
+        "r": "Oui, la fiche Google de La Vacherie indique que la réservation est possible, par téléphone au 04 71 43 21 61."
+      },
+      {
+        "q": "La Vacherie propose-t-il la vente à emporter ou la livraison ?",
+        "r": "D'après sa fiche Google (relevé du 28 octobre 2026) — vente à emporter : non ; livraison : non."
+      },
+      {
+        "q": "Quel est le niveau de prix de La Vacherie ?",
+        "r": "Google classe La Vacherie au niveau de prix €€ (modéré), sur une échelle de € à €€€€ établie à partir des avis clients."
+      },
+      {
         "q": "La Vacherie est-il accessible aux personnes à mobilité réduite ?",
         "r": "La fiche Google de l'établissement mentionne : « Entrée accessible en fauteuil roulant ». Cette information est déclarative ; en cas de doute, vérifiez par téléphone."
       }
     ],
-    "genere_le": "2026-10-13"
+    "genere_le": "2026-10-28"
   },
   "statut_google": "OPERATIONAL",
   "audience": {
@@ -219,15 +244,104 @@
     "clicsRecents": 0,
     "fenetreRecenteJours": 28,
     "source": "search-console",
-    "date": "2026-10-27"
+    "date": "2026-10-28"
   },
   "indexation": {
     "etat": "non-indexee",
     "verdict": "NEUTRAL",
-    "couverture": "Détectée, actuellement non indexée",
+    "couverture": "Google ne reconnaît pas cette URL",
     "derniere_exploration": null,
     "canonique_google": null,
     "source": "inspection",
-    "date": "2026-10-27"
+    "date": "2026-10-28"
+  },
+  "avis_detail": {
+    "releve": "2026-10-28",
+    "liste": [
+      {
+        "note": 5,
+        "texte": "De passage a Aurillac, j'ai choisi ce restaurant, et j'y ai passé un super moment.\nLes oeufs meurettes mériteraient d'être perpétuellement a la carte tellement ils sont délicieux, des portions très copieuse, un choix de vin très sympa en suivant les recommandations de la carte, un service extrêmement agréable et un cadre très sympa. Rien a redire sur ce restaurant, si ce n'est que je préférerai qu'il soit a côté de chez moi!\nMerci encore pour votre accueil ❤️",
+        "langue": "fr",
+        "date": "2026-10-10",
+        "auteur": "Léa Holderbaum-Ledru",
+        "auteur_lien": "https://www.google.com/maps/contrib/101710944327175325225/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT214RlRGWnRiek5aYlc1dldtVkRVMmxKZURRellXYxAB!2m1!1s0x12ad55635d393a9f:0xa4e6745971fc14e7"
+      },
+      {
+        "note": 5,
+        "texte": "2ème dîner à la Vacherie, c’est toujours aussi bon !\nL’accueil est agréable, le lieu est charmant, le personnel très sympathique et professionnel.\nLa carte est variée et adaptée aux saisons. Une carte des vins et un choix de vins au verre qui vaut le détour, et de super tarifs.\nExcellent rapport qualité / prix\nBref nous reviendrons avec plaisir !",
+        "langue": "fr",
+        "date": "2026-08-28",
+        "auteur": "Elodie Burge",
+        "auteur_lien": "https://www.google.com/maps/contrib/103285502738023231986/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2w5UlFXZGZZVlUxWVZreFIzTlBXbEo1UTNkQlRuYxAB!2m1!1s0x12ad55635d393a9f:0xa4e6745971fc14e7"
+      },
+      {
+        "note": 5,
+        "texte": "Très belle découverte ! La carte met à l’honneur les spécialités du Cantal (truffade, farçous, pounti, crépinettes, bœuf…) avec une cuisine du terroir parfaitement maîtrisée. Les plats sont généreux, savoureux et réalisés avec soin. Mention spéciale pour le ris de veau, copieux et qui justifie largement son prix.\n\nCôté tarifs, j’ai trouvé l’ensemble très raisonnable. Les plats les plus nobles sont forcément un peu plus chers, mais restent cohérents au vu de la qualité et des portions. La planche de dégustation (pounti, terrine de porc aux noisettes et farçous) à 19 € est dans les prix pratiqués dans le secteur, voire légèrement en dessous pour une qualité équivalente.\n\nLa carte des vins est particulièrement impressionnante, avec un très grand choix de références et des accords mets-vins proposés pour chaque plat. Les conseils sont pertinents et le prix des verres reste tout à fait abordable.\n\nPetit bémol très personnel sur le riz au lait : je l’aurais préféré un peu plus crémeux. Il reste bon, mais c’est le seul point qui m’a légèrement déçu.\n\nEnfin, la terrasse est agréable et le personnel est souriant, dynamique et de bon conseil. Une très bonne adresse pour découvrir ou redécouvrir la cuisine cantalienne. Je recommande sans hésiter !",
+        "langue": "fr",
+        "date": "2026-07-21",
+        "auteur": "Jules Rigal",
+        "auteur_lien": "https://www.google.com/maps/contrib/109521237465995678493/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2t4cVQwYzRlV1pYWWxSa09YUkZaVkJJZVhaYWQzYxAB!2m1!1s0x12ad55635d393a9f:0xa4e6745971fc14e7"
+      },
+      {
+        "note": 4,
+        "texte": "Très belle découverte ! Nous y sommes venus deux soirs de suite, ce qui montre à quel point nous avons apprécié l'établissement.\n\nLes serveurs sont souriants, accueillants et très gentils, tout comme le patron. Les produits sont frais et cela se ressent dans l'assiette. Ici, tout est préparé avec des produits frais, sans recours aux desserts surgelés, ce qui explique l'absence de glaces, mais la qualité est largement au rendez-vous.\n\nLe seul petit point d'amélioration serait peut-être de renforcer l'équipe avec un serveur supplémentaire. On voit que les serveurs courent beaucoup pour satisfaire tout le monde. Ayant travaillé dans la restauration, je me permets cette suggestion, qui serait bénéfique aussi bien pour l'équipe que pour les clients.\n\nMerci à toute l'équipe pour votre accueil, nous reviendrons avec plaisir !",
+        "langue": "fr",
+        "date": "2026-07-21",
+        "auteur": "Maublanc Vincent",
+        "auteur_lien": "https://www.google.com/maps/contrib/108443461555397624527/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2tKMlJtcHhWRlJyU0ZSM1lVNVJlVzVzUjBaZmMwRRAB!2m1!1s0x12ad55635d393a9f:0xa4e6745971fc14e7"
+      },
+      {
+        "note": 5,
+        "texte": "Si vous allez à AURILLAC, n’hésitez pas une seule seconde et allez-y. Une très bonne adresse, une petite carte avec des produits frais et très bien cuisinés. Juste le top de l’entrée au dessert !",
+        "langue": "fr",
+        "date": "2026-05-31",
+        "auteur": "Lucie GAUTHIER",
+        "auteur_lien": "https://www.google.com/maps/contrib/106227677447811190592/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25Kc1JtcFVZVnB4ZW1WcmNtTm1XVVI1VXpKUmJuYxAB!2m1!1s0x12ad55635d393a9f:0xa4e6745971fc14e7"
+      }
+    ]
+  },
+  "services": {
+    "releve": "2026-10-28",
+    "prix": "PRICE_LEVEL_MODERATE",
+    "options": {
+      "dineIn": true,
+      "takeout": false,
+      "delivery": false,
+      "curbsidePickup": false,
+      "reservable": true,
+      "outdoorSeating": true,
+      "servesBreakfast": false,
+      "servesBrunch": false,
+      "servesLunch": true,
+      "servesDinner": true,
+      "servesVegetarianFood": true,
+      "servesCoffee": true,
+      "servesBeer": true,
+      "servesWine": true,
+      "servesCocktails": true,
+      "menuForChildren": true,
+      "goodForChildren": true,
+      "goodForGroups": true,
+      "goodForWatchingSports": false,
+      "liveMusic": true,
+      "allowsDogs": true,
+      "restroom": true
+    },
+    "paiement": [
+      "carte bancaire",
+      "carte de débit",
+      "paiement sans contact"
+    ],
+    "parking": [
+      "parking gratuit",
+      "parking payant",
+      "stationnement gratuit dans la rue",
+      "stationnement payant dans la rue"
+    ]
   }
 }

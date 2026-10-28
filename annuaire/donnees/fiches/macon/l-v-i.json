@@ -27,7 +27,7 @@
     "longitude": 4.8210374
   },
   "note": 4.5,
-  "avis": 167,
+  "avis": 168,
   "horaires": [
     {
       "jour": 0,
@@ -103,8 +103,8 @@
     "etat": "absent",
     "premiere_detection": null,
     "derniere_detection": null,
-    "derniere_verification": "2026-10-12T19:47:22.869Z",
-    "echecs": 69,
+    "derniere_verification": "2026-10-28T11:17:15.165Z",
+    "echecs": 70,
     "url_detectee": null
   },
   "suggestion": {
@@ -122,22 +122,31 @@
   "dates": {
     "collecte": "2026-09-01",
     "publication": "2026-09-01",
-    "maj": "2026-10-19"
+    "maj": "2026-10-28"
   },
   "source": "google-places",
   "redaction": {
     "version": 2,
     "titre": "L.v.i — Garage et automobile à Mâcon",
     "meta_titre": "L.v.i à Mâcon : horaires, avis, téléphone",
-    "meta_description": "L.v.i, garage et automobile à Mâcon : horaires d'ouverture, note Google 4,5/5 (167 avis), téléphone, adresse et itinéraire.",
-    "chapo": "Cette fiche présente L.v.i, un garage et automobile au 409 Rue des Frères Lumière, à Mâcon. Ouvert tous les jours sauf le dimanche au relevé du 18 octobre 2026. Téléphone : 03 85 29 22 11. Note Google : 4,5 sur 5 pour 167 avis.",
+    "meta_description": "L.v.i, garage et automobile à Mâcon : horaires d'ouverture, note Google 4,5/5 (168 avis), téléphone, adresse et itinéraire.",
+    "chapo": "Cette fiche présente L.v.i, un garage et automobile au 409 Rue des Frères Lumière, à Mâcon. Ouvert tous les jours sauf le dimanche au relevé du 28 octobre 2026. Téléphone : 03 85 29 22 11. Note Google : 4,5 sur 5 pour 168 avis.",
     "sections": [
       {
         "id": "presentation",
         "titre": "L.v.i en quelques mots",
         "paragraphes": [
           "Sur Google, l'établissement est classé « Station de lavage automobile », dans notre rubrique Garage et automobile.",
-          "D'après le relevé du 18 octobre 2026, l'établissement est ouvert tous les jours sauf le dimanche. Le détail jour par jour figure plus bas."
+          "D'après le relevé du 28 octobre 2026, l'établissement est ouvert tous les jours sauf le dimanche. Le détail jour par jour figure plus bas."
+        ]
+      },
+      {
+        "id": "prestations",
+        "titre": "Services et équipements de L.v.i",
+        "paragraphes": [
+          "Proposé : toilettes.",
+          "Moyens de paiement déclarés : carte bancaire, carte de débit et paiement sans contact.",
+          "Ces indications sont déclarées par l'établissement sur sa fiche Google (relevé du 28 octobre 2026)."
         ]
       },
       {
@@ -159,18 +168,18 @@
         "id": "avis",
         "titre": "La réputation de L.v.i",
         "paragraphes": [
-          "Note de 4,5 sur 5 pour 167 avis Google au relevé du 18 octobre 2026. Les avis se consultent sur la fiche Google, dont le lien figure sur cette page."
+          "Note de 4,5 sur 5 pour 168 avis Google au relevé du 28 octobre 2026. Les avis les plus parlants sont compilés ci-dessous, avec un lien vers la fiche d'origine."
         ]
       }
     ],
     "faq": [
       {
         "q": "Quels sont les horaires de L.v.i ?",
-        "r": "Au relevé du 18 octobre 2026, L.v.i était ouvert tous les jours sauf le dimanche. Dans le détail — lundi : de 7 h à 19 h ; mardi : de 7 h à 19 h ; mercredi : de 7 h à 19 h ; jeudi : de 7 h à 19 h ; vendredi : de 7 h à 19 h ; samedi : de 8 h à 12 h ; dimanche : fermé. Ces horaires peuvent changer : un appel préalable reste conseillé."
+        "r": "Au relevé du 28 octobre 2026, L.v.i était ouvert tous les jours sauf le dimanche. Dans le détail — lundi : de 7 h à 19 h ; mardi : de 7 h à 19 h ; mercredi : de 7 h à 19 h ; jeudi : de 7 h à 19 h ; vendredi : de 7 h à 19 h ; samedi : de 8 h à 12 h ; dimanche : fermé. Ces horaires peuvent changer : un appel préalable reste conseillé."
       },
       {
         "q": "L.v.i est-il ouvert le dimanche ?",
-        "r": "Non : d'après les horaires relevés le 18 octobre 2026, L.v.i est fermé le dimanche."
+        "r": "Non : d'après les horaires relevés le 28 octobre 2026, L.v.i est fermé le dimanche."
       },
       {
         "q": "Où se trouve L.v.i ?",
@@ -181,7 +190,7 @@
         "r": "Par téléphone au 03 85 29 22 11, ou directement sur place aux heures d'ouverture."
       }
     ],
-    "genere_le": "2026-10-18"
+    "genere_le": "2026-10-28"
   },
   "statut_google": "OPERATIONAL",
   "audience": {
@@ -192,7 +201,7 @@
     "clicsRecents": 0,
     "fenetreRecenteJours": 28,
     "source": "search-console",
-    "date": "2026-10-27"
+    "date": "2026-10-28"
   },
   "indexation": {
     "etat": "non-indexee",
@@ -202,5 +211,67 @@
     "canonique_google": null,
     "source": "inspection",
     "date": "2026-10-19"
+  },
+  "avis_detail": {
+    "releve": "2026-10-28",
+    "liste": [
+      {
+        "note": 5,
+        "texte": "Equipe très sympa et pro\nLavage citerne industrielle\nLavage citerne alimentaire\nLavage extérieur\nDouche et toilettes très propre\nCafé et distributeurs disponible",
+        "langue": "fr",
+        "date": "2026-10-14",
+        "auteur": "Tof Cormont",
+        "auteur_lien": "https://www.google.com/maps/contrib/108195014111438088567/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2pGR2QyeFpZemt5VEVOMFVXOU1UakpRYkdsQmRuYxAB!2m1!1s0x47f36feaa997d747:0xd77e46f04ae7af17"
+      },
+      {
+        "note": 5,
+        "texte": "Lavage au top ! Locaux très propres ! Toilettes et douches également\nPersonnels très sympa\n\nRien a dire",
+        "langue": "fr",
+        "date": "2026-09-09",
+        "auteur": "Théo Photographie",
+        "auteur_lien": "https://www.google.com/maps/contrib/110373070829412104699/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xaNmRuaElja2hYVkhKTE9HVTVNbXRJZDFWTk1HYxAB!2m1!1s0x47f36feaa997d747:0xd77e46f04ae7af17"
+      },
+      {
+        "note": 4,
+        "texte": "Ça lavé bien et sanitaire propre et  laveurs sympas",
+        "langue": "fr",
+        "date": "2026-08-11",
+        "auteur": "al07 samurai27",
+        "auteur_lien": "https://www.google.com/maps/contrib/112792411447287495980/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2t0SFdrRmlVRzQxYTI0Mk5VcGliMmRoU2xab2RVRRAB!2m1!1s0x47f36feaa997d747:0xd77e46f04ae7af17"
+      },
+      {
+        "note": 5,
+        "texte": "Une equipe au top, lavage rapide et toujours tres bien fais. Jamais de soucis.\nCafé et douche moderne tres propre.\nNe changez rien, a bientot ! ✌️🚛🚛🚛",
+        "langue": "fr",
+        "date": "2026-01-08",
+        "auteur": "Pierre",
+        "auteur_lien": "https://www.google.com/maps/contrib/114825744514502012033/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xsRVdHdFphaTFrT1RGVFNqVlJURlJuVjBZemFYYxAB!2m1!1s0x47f36feaa997d747:0xd77e46f04ae7af17"
+      },
+      {
+        "note": 5,
+        "texte": "J y vais régulièrement et rien a dire très rare des lavages intérieur et extérieur comme ça ouvert de grandes plages horaires ouverts samedi matin tout le personnel et très sympa 3 grandes douches très propre wc pareil machine a café gratuit boisson sandwich et on peut dormir sur place beaucoup devrais prendre modèle merci a plus continuez comme ça l extérieur c'est le chauffeur qui lave mais au top",
+        "langue": "fr",
+        "date": "2025-09-11",
+        "auteur": "Jerome Degrotte",
+        "auteur_lien": "https://www.google.com/maps/contrib/102365672606772648204/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xKS1JWbHhlRmwzYjFJd1pFVjZibkJKWTJablNFRRAB!2m1!1s0x47f36feaa997d747:0xd77e46f04ae7af17"
+      }
+    ]
+  },
+  "services": {
+    "releve": "2026-10-28",
+    "options": {
+      "restroom": true
+    },
+    "paiement": [
+      "carte bancaire",
+      "carte de débit",
+      "paiement sans contact"
+    ],
+    "parking": []
   }
 }

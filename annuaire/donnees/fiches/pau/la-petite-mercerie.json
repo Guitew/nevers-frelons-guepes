@@ -29,7 +29,7 @@
     "longitude": -0.3700173
   },
   "note": 4.5,
-  "avis": 115,
+  "avis": 116,
   "horaires": [
     {
       "jour": 0,
@@ -122,8 +122,8 @@
     "etat": "absent",
     "premiere_detection": null,
     "derniere_detection": null,
-    "derniere_verification": "2026-10-12T19:47:22.869Z",
-    "echecs": 12,
+    "derniere_verification": "2026-10-28T11:17:15.165Z",
+    "echecs": 13,
     "url_detectee": null
   },
   "suggestion": {
@@ -136,22 +136,31 @@
   "dates": {
     "collecte": "2026-09-29",
     "publication": "2026-09-29",
-    "maj": "2026-10-12"
+    "maj": "2026-10-28"
   },
   "source": "google-places",
   "redaction": {
     "version": 2,
     "titre": "La Petite Mercerie — Mode et équipement de la maison à Pau",
     "meta_titre": "La Petite Mercerie à Pau : horaires, avis, téléphone",
-    "meta_description": "La Petite Mercerie, mode et équipement de la maison à Pau : horaires d'ouverture, note Google 4,5/5 (115 avis), téléphone, adresse et itinéraire.",
-    "chapo": "La Petite Mercerie, mode et équipement de la maison au 2 Rue Nogué, à Pau. Fermé le lundi et le dimanche au relevé du 12 octobre 2026. Téléphone : 05 59 27 98 55. Note Google : 4,5 sur 5 pour 115 avis.",
+    "meta_description": "La Petite Mercerie, mode et équipement de la maison à Pau : horaires d'ouverture, note Google 4,5/5 (116 avis), téléphone, adresse et itinéraire.",
+    "chapo": "La Petite Mercerie, mode et équipement de la maison au 2 Rue Nogué, à Pau. Fermé le lundi et le dimanche au relevé du 28 octobre 2026. Téléphone : 05 59 27 98 55. Note Google : 4,5 sur 5 pour 116 avis.",
     "sections": [
       {
         "id": "presentation",
         "titre": "La Petite Mercerie en quelques mots",
         "paragraphes": [
           "Sur Google, l'établissement est classé « Magasin d'ameublement et de décoration », dans notre rubrique Mode et équipement de la maison.",
-          "D'après le relevé du 12 octobre 2026, l'établissement est fermé le lundi et le dimanche. Le détail jour par jour figure plus bas."
+          "D'après le relevé du 28 octobre 2026, l'établissement est fermé le lundi et le dimanche. Le détail jour par jour figure plus bas."
+        ]
+      },
+      {
+        "id": "prestations",
+        "titre": "Services et équipements de La Petite Mercerie",
+        "paragraphes": [
+          "Non proposé selon la fiche Google : retrait en voiture.",
+          "Moyens de paiement déclarés : carte bancaire, carte de débit et paiement sans contact.",
+          "Ces indications sont déclarées par l'établissement sur sa fiche Google (relevé du 28 octobre 2026)."
         ]
       },
       {
@@ -173,18 +182,18 @@
         "id": "avis",
         "titre": "La réputation de La Petite Mercerie",
         "paragraphes": [
-          "Note de 4,5 sur 5 pour 115 avis Google au relevé du 12 octobre 2026. Les avis se consultent sur la fiche Google, dont le lien figure sur cette page."
+          "Note de 4,5 sur 5 pour 116 avis Google au relevé du 28 octobre 2026. Les avis les plus parlants sont compilés ci-dessous, avec un lien vers la fiche d'origine."
         ]
       }
     ],
     "faq": [
       {
         "q": "Quels sont les horaires de La Petite Mercerie ?",
-        "r": "Au relevé du 12 octobre 2026, La Petite Mercerie était fermé le lundi et le dimanche. Dans le détail — lundi : fermé ; mardi : de 9 h 30 à 12 h et de 14 h à 18 h 30 ; mercredi : de 9 h 30 à 12 h et de 14 h à 18 h 30 ; jeudi : de 9 h 30 à 12 h et de 14 h à 18 h 30 ; vendredi : de 9 h 30 à 12 h et de 14 h à 18 h 30 ; samedi : de 9 h 30 à 12 h 30 et de 14 h 30 à 18 h ; dimanche : fermé. Ces horaires peuvent changer : un appel préalable reste conseillé."
+        "r": "Au relevé du 28 octobre 2026, La Petite Mercerie était fermé le lundi et le dimanche. Dans le détail — lundi : fermé ; mardi : de 9 h 30 à 12 h et de 14 h à 18 h 30 ; mercredi : de 9 h 30 à 12 h et de 14 h à 18 h 30 ; jeudi : de 9 h 30 à 12 h et de 14 h à 18 h 30 ; vendredi : de 9 h 30 à 12 h et de 14 h à 18 h 30 ; samedi : de 9 h 30 à 12 h 30 et de 14 h 30 à 18 h ; dimanche : fermé. Ces horaires peuvent changer : un appel préalable reste conseillé."
       },
       {
         "q": "La Petite Mercerie est-il ouvert le dimanche ?",
-        "r": "Non : d'après les horaires relevés le 12 octobre 2026, La Petite Mercerie est fermé le dimanche."
+        "r": "Non : d'après les horaires relevés le 28 octobre 2026, La Petite Mercerie est fermé le dimanche."
       },
       {
         "q": "Où se trouve La Petite Mercerie ?",
@@ -199,7 +208,7 @@
         "r": "La fiche Google de l'établissement mentionne : « Entrée accessible en fauteuil roulant ». Cette information est déclarative ; en cas de doute, vérifiez par téléphone."
       }
     ],
-    "genere_le": "2026-10-12"
+    "genere_le": "2026-10-28"
   },
   "statut_google": "OPERATIONAL",
   "audience": {
@@ -210,6 +219,68 @@
     "clicsRecents": 0,
     "fenetreRecenteJours": 28,
     "source": "search-console",
-    "date": "2026-10-27"
+    "date": "2026-10-28"
+  },
+  "avis_detail": {
+    "releve": "2026-10-28",
+    "liste": [
+      {
+        "note": 5,
+        "texte": "On peut y trouver le petit truc qui manque",
+        "langue": "fr",
+        "date": "2026-08-22",
+        "auteur": "janine SESE",
+        "auteur_lien": "https://www.google.com/maps/contrib/111198807582867033931/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2psb1puTkJNbWRGWDFFNVpsZFBaRVJmU0Zsck1WRRAB!2m1!1s0xd5648d20f36e879:0x15ce80224562b147"
+      },
+      {
+        "note": 4,
+        "texte": "Joli choix de fils avec des matériaux classiques et d'autres plus originaux.",
+        "langue": "fr",
+        "date": "2026-07-27",
+        "auteur": "Stéphane Burtey",
+        "auteur_lien": "https://www.google.com/maps/contrib/101442517506051640202/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT21sNk9XSmZhRWxLZVV4aFlsSkZlbm8wZVhJd1EzYxAB!2m1!1s0xd5648d20f36e879:0x15ce80224562b147"
+      },
+      {
+        "note": 5,
+        "texte": "Parfait j ai trouvé mon bonheur pour un premier essai en corseterie hihi",
+        "langue": "fr",
+        "date": "2026-05-21",
+        "auteur": "Johanna Mch",
+        "auteur_lien": "https://www.google.com/maps/contrib/114797792360327238025/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25kcWNIZHRNRm8xT1hOS2MyVjVTRk5mWWpkR1FYYxAB!2m1!1s0xd5648d20f36e879:0x15ce80224562b147"
+      },
+      {
+        "note": 5,
+        "texte": "Très sérieux et à l'écoute du client.\nLa vendeuse est professionnel, des très bons conseils et très bonnes matières , Très bien serviable❤❤️❤\nL'endroit idéal pour débuter le tricot,Merci beaucoup pour votre aide .Je suis très heureux!\nJe recommande vivement!!",
+        "langue": "fr",
+        "date": "2023-12-14",
+        "auteur": "Jenny",
+        "auteur_lien": "https://www.google.com/maps/contrib/117916828055976563679/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSURWeGVfSDJRRRAB!2m1!1s0xd5648d20f36e879:0x15ce80224562b147"
+      },
+      {
+        "note": 5,
+        "texte": "Très très sympa\nAlors il y a tout ce qui concerne la Mercerie évidemment, il y a toujours au moins 2 personnes pour l'accueil et la vente ce qui évite les temps d'attente vu que on a souvent besoin de conseils dans ce genre de magasins ☺️\nAussi ils font des sortes de stage ou d'ateliers découverte, pour s'initier ou pratiquer.\nEnfin il s font aussi point relais Shop2shop je ce qui m'arrange beaucoup.\nEn résumé très bon magasin qui a su mettre au goût du jour le commerce de mercerie",
+        "langue": "fr",
+        "date": "2023-05-12",
+        "auteur": "Jéjé",
+        "auteur_lien": "https://www.google.com/maps/contrib/107698940937883856859/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUN4N05yVHN3RRAB!2m1!1s0xd5648d20f36e879:0x15ce80224562b147"
+      }
+    ]
+  },
+  "services": {
+    "releve": "2026-10-28",
+    "options": {
+      "curbsidePickup": false
+    },
+    "paiement": [
+      "carte bancaire",
+      "carte de débit",
+      "paiement sans contact"
+    ],
+    "parking": []
   }
 }

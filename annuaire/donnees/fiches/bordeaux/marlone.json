@@ -1,0 +1,330 @@
+{
+  "id": "ChIJETYVgW7YVA0RBSPzn4Lo2Fg",
+  "slug": "marlone",
+  "nom": "Marlone",
+  "categorie": "restaurants",
+  "categorie_gmb": "Restaurant",
+  "type_principal": "restaurant",
+  "types": [
+    "bistro",
+    "cocktail_bar",
+    "hamburger_restaurant",
+    "cafe",
+    "french_restaurant",
+    "sports_bar",
+    "brewery",
+    "american_restaurant",
+    "european_restaurant",
+    "bar",
+    "manufacturer",
+    "restaurant",
+    "food",
+    "point_of_interest",
+    "service",
+    "establishment"
+  ],
+  "ville": "Bordeaux",
+  "ville_slug": "bordeaux",
+  "adresse": {
+    "rue": "93 Rue Eugène Jacquet",
+    "code_postal": "33000",
+    "departement": "33",
+    "region": "Nouvelle-Aquitaine",
+    "pays": "France",
+    "complete": "93 Rue Eugène Jacquet, 33000 Bordeaux"
+  },
+  "telephone": "05 24 07 74 74",
+  "geo": {
+    "latitude": 44.8254016,
+    "longitude": -0.6135702
+  },
+  "note": 4.2,
+  "avis": 2208,
+  "horaires": [
+    {
+      "jour": 0,
+      "ferme": false,
+      "creneaux": [
+        [
+          "09:00",
+          "23:30"
+        ]
+      ]
+    },
+    {
+      "jour": 1,
+      "ferme": false,
+      "creneaux": [
+        [
+          "09:00",
+          "23:30"
+        ]
+      ]
+    },
+    {
+      "jour": 2,
+      "ferme": false,
+      "creneaux": [
+        [
+          "09:00",
+          "00:00"
+        ]
+      ]
+    },
+    {
+      "jour": 3,
+      "ferme": false,
+      "creneaux": [
+        [
+          "09:00",
+          "00:00"
+        ]
+      ]
+    },
+    {
+      "jour": 4,
+      "ferme": false,
+      "creneaux": [
+        [
+          "09:00",
+          "00:00"
+        ]
+      ]
+    },
+    {
+      "jour": 5,
+      "ferme": false,
+      "creneaux": [
+        [
+          "10:00",
+          "00:00"
+        ]
+      ]
+    },
+    {
+      "jour": 6,
+      "ferme": false,
+      "creneaux": [
+        [
+          "10:00",
+          "23:30"
+        ]
+      ]
+    }
+  ],
+  "attributs": [
+    "Entrée accessible en fauteuil roulant",
+    "Parking accessible en fauteuil roulant",
+    "Toilettes accessibles en fauteuil roulant",
+    "Places assises accessibles en fauteuil roulant"
+  ],
+  "lien_google": "https://maps.google.com/?cid=6402122518034064133&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
+  "site_web_gmb": null,
+  "statut": "publiee",
+  "backlink": {
+    "etat": "absent",
+    "premiere_detection": null,
+    "derniere_detection": null,
+    "derniere_verification": "2026-10-28T11:17:15.165Z",
+    "echecs": 1,
+    "url_detectee": null
+  },
+  "suggestion": {
+    "etat": "en-attente",
+    "date_soumission": null,
+    "tentatives": 0,
+    "date_email": "2026-10-28"
+  },
+  "retrait": null,
+  "dates": {
+    "collecte": "2026-10-28",
+    "publication": "2026-10-28",
+    "maj": "2026-10-28"
+  },
+  "source": "google-places",
+  "avis_detail": {
+    "releve": "2026-10-28",
+    "liste": [
+      {
+        "note": 5,
+        "texte": "Une adresse incontournable si on veut manger une très bonne poutine. Plat généreux et service au top . Réservation souhaitée .",
+        "langue": "fr",
+        "date": "2025-11-22",
+        "auteur": "Franck Arnou",
+        "auteur_lien": "https://www.google.com/maps/contrib/104973826754636965260/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2s1TlZFOUdWVkpwZUhwWk56ZFNaVnBuUXpOWlgwRRAB!2m1!1s0xd54d86e81153611:0x58d8e8829ff32305"
+      },
+      {
+        "note": 2,
+        "texte": "Tres déçue du service, attente longue et un plat en moins, nous avons donc partager un plat pour deux en attendant la fameuse poutine avec merguez aux bisons qui n’est jamais arrivé car oublier !!!!\n\nPlusieurs plats non disponibles sur la carte, pas d’espace spécial fumeurs en terrasse, pas top pour nous les non fumeurs.\n\nAu niveau du plat, le seul plat que nous avons pu donc goûter, burger aux chèvres sirop d’érable très bon, je recommande, la petite poutine bonne.",
+        "langue": "fr",
+        "date": "2025-09-05",
+        "auteur": "Laura Wölfin",
+        "auteur_lien": "https://www.google.com/maps/contrib/108810040166784173135/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xsVk5rMVdSWFJsVFZWaVN6ZzNOVXh6WWkxWVJVRRAB!2m1!1s0xd54d86e81153611:0x58d8e8829ff32305"
+      },
+      {
+        "note": 5,
+        "texte": "Je suis venu en mars dernier avec mon cousin. J'ai pris une planche charcutière à partager. Un gros point positif pour la terine de bison qui est bonne et rare c'était la première fois que je goûtais ceci.  En plat j'ai pris un burger le L’SPÉCIAL GRIZZLY en grand avec un fromage de raclette à l'intérieur. Le burger est bon et consistant. Franchement je suis pas déçu d'avoir tester cette adresse.",
+        "langue": "fr",
+        "date": "2025-07-07",
+        "auteur": "Nosyu Pvt",
+        "auteur_lien": "https://www.google.com/maps/contrib/102057497333681128047/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xSUlpESlFkelF3VVRGNU9VeE5jVjlrVm10VVpIYxAB!2m1!1s0xd54d86e81153611:0x58d8e8829ff32305"
+      },
+      {
+        "note": 5,
+        "texte": "L’adresse parfaite pour mater un match autours d’une bière, burger et poutine !!\nBelle ambiance\nService speed mais pro\nPensez à réserver, c’est toujours plein…",
+        "langue": "fr",
+        "date": "2025-01-30",
+        "auteur": "Jean Baptiste florin",
+        "auteur_lien": "https://www.google.com/maps/contrib/117119685340866920702/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnTUNBcXJLbFJnEAE!2m1!1s0xd54d86e81153611:0x58d8e8829ff32305"
+      },
+      {
+        "note": 5,
+        "texte": "J'ai adoré ce lieu, super bonne ambiance. Service rapide même avec du monde. Les bières au sirop d'érable sont super bonnes, on dirait vraiment qu'on boit un mélange de bière avec du sirop d'érable. Les poutines sont généreuses et très bonnes. Et les burgers même en mini se suffisent à eux même. Je recommande ce bar restaurant que ça soit pour manger ou juste prendre un coups.",
+        "langue": "fr",
+        "date": "2022-10-19",
+        "auteur": "Chloé “Kaoriky”",
+        "auteur_lien": "https://www.google.com/maps/contrib/111842861861038749232/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSURlODdqV2FBEAE!2m1!1s0xd54d86e81153611:0x58d8e8829ff32305"
+      }
+    ]
+  },
+  "services": {
+    "releve": "2026-10-28",
+    "prix": "PRICE_LEVEL_MODERATE",
+    "resume": "Brasserie canadienne conviviale proposant bison et poutine, mais aussi clubs-sandwichs, salades et burgers.",
+    "resume_langue": "fr",
+    "options": {
+      "dineIn": true,
+      "takeout": true,
+      "delivery": true,
+      "curbsidePickup": true,
+      "reservable": true,
+      "outdoorSeating": true,
+      "servesBreakfast": true,
+      "servesBrunch": false,
+      "servesLunch": true,
+      "servesDinner": true,
+      "servesVegetarianFood": true,
+      "servesCoffee": true,
+      "servesBeer": true,
+      "servesWine": true,
+      "servesCocktails": true,
+      "menuForChildren": true,
+      "goodForChildren": true,
+      "goodForWatchingSports": true,
+      "liveMusic": true,
+      "allowsDogs": true,
+      "restroom": true
+    },
+    "paiement": [
+      "carte de débit",
+      "paiement sans contact"
+    ],
+    "parking": [
+      "parking gratuit",
+      "stationnement gratuit dans la rue"
+    ]
+  },
+  "redaction": {
+    "version": 2,
+    "titre": "Marlone — Restaurant à Bordeaux",
+    "meta_titre": "Marlone à Bordeaux : horaires, avis, téléphone",
+    "meta_description": "Marlone, restaurant à Bordeaux : horaires d'ouverture, note Google 4,2/5 (2208 avis), téléphone, adresse et itinéraire.",
+    "chapo": "Marlone, restaurant au 93 Rue Eugène Jacquet, à Bordeaux. Ouvert sept jours sur sept au relevé du 28 octobre 2026. Téléphone : 05 24 07 74 74. Note Google : 4,2 sur 5 pour 2208 avis.",
+    "sections": [
+      {
+        "id": "presentation",
+        "titre": "Marlone en quelques mots",
+        "paragraphes": [
+          "Présentation donnée par Google : « Brasserie canadienne conviviale proposant bison et poutine, mais aussi clubs-sandwichs, salades et burgers. »",
+          "Niveau de prix indiqué sur la fiche Google : €€ (modéré).",
+          "D'après le relevé du 28 octobre 2026, l'établissement est ouvert sept jours sur sept. Le détail jour par jour figure plus bas."
+        ]
+      },
+      {
+        "id": "prestations",
+        "titre": "Services et équipements de Marlone",
+        "paragraphes": [
+          "Proposé : sur place, à emporter, livraison, retrait en voiture, réservation possible, terrasse, petit-déjeuner, déjeuner, dîner, plats végétariens, café, bière, vin, cocktails, menu enfant, adapté aux enfants, retransmissions sportives, musique live, chiens acceptés et toilettes.",
+          "Non proposé selon la fiche Google : brunch.",
+          "Moyens de paiement déclarés : carte de débit et paiement sans contact.",
+          "Stationnement : parking gratuit et stationnement gratuit dans la rue.",
+          "Ces indications sont déclarées par l'établissement sur sa fiche Google (relevé du 28 octobre 2026)."
+        ]
+      },
+      {
+        "id": "acces",
+        "titre": "Adresse et accès",
+        "paragraphes": [
+          "L'établissement est situé au 93 Rue Eugène Jacquet, 33000 Bordeaux.",
+          "Coordonnées GPS : 44.82540, -0.61357. Le bouton Itinéraire de cette page ouvre la navigation."
+        ]
+      },
+      {
+        "id": "contact",
+        "titre": "Contacter Marlone",
+        "paragraphes": [
+          "Le contact se fait par téléphone au 05 24 07 74 74, ou directement sur place aux horaires d'ouverture.",
+          "La fiche Google indique que la réservation est possible."
+        ]
+      },
+      {
+        "id": "avis",
+        "titre": "La réputation de Marlone",
+        "paragraphes": [
+          "Note de 4,2 sur 5 pour 2208 avis Google au relevé du 28 octobre 2026. Les avis les plus parlants sont compilés ci-dessous, avec un lien vers la fiche d'origine."
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "q": "Quels sont les horaires de Marlone ?",
+        "r": "Au relevé du 28 octobre 2026, Marlone était ouvert sept jours sur sept. Dans le détail — lundi : de 9 h à 23 h 30 ; mardi : de 9 h à 23 h 30 ; mercredi : de 9 h à 0 h ; jeudi : de 9 h à 0 h ; vendredi : de 9 h à 0 h ; samedi : de 10 h à 0 h ; dimanche : de 10 h à 23 h 30. Ces horaires peuvent changer : un appel préalable reste conseillé."
+      },
+      {
+        "q": "Marlone est-il ouvert le dimanche ?",
+        "r": "Oui : le dimanche, Marlone est ouvert de 10 h à 23 h 30 (horaires relevés le 28 octobre 2026)."
+      },
+      {
+        "q": "Où se trouve Marlone ?",
+        "r": "Marlone se trouve 93 Rue Eugène Jacquet, 33000 Bordeaux. Un lien d'itinéraire est disponible sur cette page."
+      },
+      {
+        "q": "Comment contacter Marlone ?",
+        "r": "Par téléphone au 05 24 07 74 74, ou directement sur place aux heures d'ouverture."
+      },
+      {
+        "q": "Peut-on réserver chez Marlone ?",
+        "r": "Oui, la fiche Google de Marlone indique que la réservation est possible, par téléphone au 05 24 07 74 74."
+      },
+      {
+        "q": "Marlone propose-t-il la vente à emporter ou la livraison ?",
+        "r": "D'après sa fiche Google (relevé du 28 octobre 2026) — vente à emporter : oui ; livraison : oui."
+      },
+      {
+        "q": "Quel est le niveau de prix de Marlone ?",
+        "r": "Google classe Marlone au niveau de prix €€ (modéré), sur une échelle de € à €€€€ établie à partir des avis clients."
+      },
+      {
+        "q": "Marlone est-il accessible aux personnes à mobilité réduite ?",
+        "r": "La fiche Google de l'établissement mentionne : « Entrée accessible en fauteuil roulant ». Cette information est déclarative ; en cas de doute, vérifiez par téléphone."
+      }
+    ],
+    "genere_le": "2026-10-28"
+  },
+  "statut_google": "OPERATIONAL",
+  "audience": {
+    "clics": 0,
+    "impressions": 0,
+    "position": null,
+    "fenetreJours": 90,
+    "clicsRecents": 0,
+    "fenetreRecenteJours": 28,
+    "source": "search-console",
+    "date": "2026-10-28"
+  }
+}

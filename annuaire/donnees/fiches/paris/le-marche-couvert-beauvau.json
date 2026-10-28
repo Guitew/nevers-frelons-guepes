@@ -31,7 +31,7 @@
     "longitude": 2.3778158
   },
   "note": 4.5,
-  "avis": 1489,
+  "avis": 1497,
   "horaires": [
     {
       "jour": 0,
@@ -126,8 +126,8 @@
     "etat": "absent",
     "premiere_detection": null,
     "derniere_detection": null,
-    "derniere_verification": "2026-10-12T19:47:22.869Z",
-    "echecs": 1,
+    "derniere_verification": "2026-10-28T11:17:15.165Z",
+    "echecs": 2,
     "url_detectee": null
   },
   "suggestion": {
@@ -140,22 +140,32 @@
   "dates": {
     "collecte": "2026-10-12",
     "publication": "2026-10-12",
-    "maj": "2026-10-13"
+    "maj": "2026-10-28"
   },
   "source": "google-places",
   "redaction": {
     "version": 2,
     "titre": "Le marché couvert Beauvau — Commerce d'alimentation à Paris",
     "meta_titre": "Le marché couvert Beauvau à Paris : horaires, avis",
-    "meta_description": "Le marché couvert Beauvau, commerce d'alimentation à Paris : horaires d'ouverture, note Google 4,5/5 (1489 avis), adresse et itinéraire.",
-    "chapo": "Le marché couvert Beauvau exerce l'activité de commerce d'alimentation au Place d'Aligre, à Paris. Ouvert tous les jours sauf le lundi au relevé du 13 octobre 2026. Note Google : 4,5 sur 5 pour 1489 avis.",
+    "meta_description": "Le marché couvert Beauvau, commerce d'alimentation à Paris : horaires d'ouverture, note Google 4,5/5 (1497 avis), adresse et itinéraire.",
+    "chapo": "Le marché couvert Beauvau exerce l'activité de commerce d'alimentation au Place d'Aligre, à Paris. Ouvert tous les jours sauf le lundi au relevé du 28 octobre 2026. Note Google : 4,5 sur 5 pour 1497 avis.",
     "sections": [
       {
         "id": "presentation",
         "titre": "Le marché couvert Beauvau en quelques mots",
         "paragraphes": [
+          "Présentation donnée par Google : « Marché en plein air classique avec des vendeurs de produits frais, viande, fruits de mer, vin, fromage et plus encore. »",
           "Sur Google, l'établissement est classé « Épicerie », dans notre rubrique Commerce d'alimentation.",
-          "D'après le relevé du 13 octobre 2026, l'établissement est ouvert tous les jours sauf le lundi. Le détail jour par jour figure plus bas."
+          "D'après le relevé du 28 octobre 2026, l'établissement est ouvert tous les jours sauf le lundi. Le détail jour par jour figure plus bas."
+        ]
+      },
+      {
+        "id": "prestations",
+        "titre": "Services et équipements de Le marché couvert Beauvau",
+        "paragraphes": [
+          "Non proposé selon la fiche Google : livraison et toilettes.",
+          "Moyens de paiement déclarés : carte bancaire, carte de débit et paiement sans contact.",
+          "Ces indications sont déclarées par l'établissement sur sa fiche Google (relevé du 28 octobre 2026)."
         ]
       },
       {
@@ -177,29 +187,33 @@
         "id": "avis",
         "titre": "La réputation de Le marché couvert Beauvau",
         "paragraphes": [
-          "Note de 4,5 sur 5 pour 1489 avis Google au relevé du 13 octobre 2026. Les avis se consultent sur la fiche Google, dont le lien figure sur cette page."
+          "Note de 4,5 sur 5 pour 1497 avis Google au relevé du 28 octobre 2026. Les avis les plus parlants sont compilés ci-dessous, avec un lien vers la fiche d'origine."
         ]
       }
     ],
     "faq": [
       {
         "q": "Quels sont les horaires de Le marché couvert Beauvau ?",
-        "r": "Au relevé du 13 octobre 2026, Le marché couvert Beauvau était ouvert tous les jours sauf le lundi. Dans le détail — lundi : fermé ; mardi : de 8 h à 13 h et de 16 h à 19 h 30 ; mercredi : de 8 h à 13 h et de 16 h à 19 h 30 ; jeudi : de 8 h à 13 h et de 16 h à 19 h 30 ; vendredi : de 8 h à 13 h et de 16 h à 19 h 30 ; samedi : de 8 h à 19 h 30 ; dimanche : de 8 h à 13 h 30. Ces horaires peuvent changer : un appel préalable reste conseillé."
+        "r": "Au relevé du 28 octobre 2026, Le marché couvert Beauvau était ouvert tous les jours sauf le lundi. Dans le détail — lundi : fermé ; mardi : de 8 h à 13 h et de 16 h à 19 h 30 ; mercredi : de 8 h à 13 h et de 16 h à 19 h 30 ; jeudi : de 8 h à 13 h et de 16 h à 19 h 30 ; vendredi : de 8 h à 13 h et de 16 h à 19 h 30 ; samedi : de 8 h à 19 h 30 ; dimanche : de 8 h à 13 h 30. Ces horaires peuvent changer : un appel préalable reste conseillé."
       },
       {
         "q": "Le marché couvert Beauvau est-il ouvert le dimanche ?",
-        "r": "Oui : le dimanche, Le marché couvert Beauvau est ouvert de 8 h à 13 h 30 (horaires relevés le 13 octobre 2026)."
+        "r": "Oui : le dimanche, Le marché couvert Beauvau est ouvert de 8 h à 13 h 30 (horaires relevés le 28 octobre 2026)."
       },
       {
         "q": "Où se trouve Le marché couvert Beauvau ?",
         "r": "Le marché couvert Beauvau se trouve Pl. d'Aligre, 75012 Paris. Un lien d'itinéraire est disponible sur cette page."
       },
       {
+        "q": "Le marché couvert Beauvau propose-t-il la vente à emporter ou la livraison ?",
+        "r": "D'après sa fiche Google (relevé du 28 octobre 2026) — livraison : non."
+      },
+      {
         "q": "Le marché couvert Beauvau est-il accessible aux personnes à mobilité réduite ?",
         "r": "La fiche Google de l'établissement mentionne : « Entrée accessible en fauteuil roulant ». Cette information est déclarative ; en cas de doute, vérifiez par téléphone."
       }
     ],
-    "genere_le": "2026-10-13"
+    "genere_le": "2026-10-28"
   },
   "statut_google": "OPERATIONAL",
   "audience": {
@@ -210,6 +224,71 @@
     "clicsRecents": 0,
     "fenetreRecenteJours": 28,
     "source": "search-console",
-    "date": "2026-10-27"
+    "date": "2026-10-28"
+  },
+  "avis_detail": {
+    "releve": "2026-10-28",
+    "liste": [
+      {
+        "note": 5,
+        "texte": "Lieux incontournables du très populaire et célèbre Marché d'Aligre! Ouvert du mardi au dimanche de 08h30 à 13h30 et de 16h30 à 20h30 fermé le dimanche après-midi et le lundi inclus.\nGrosse dédicace à la Marée Beauveau excellente poissonnerie et une super équipe!\nAllez-y vous ne serez pas déçu ! 🤗",
+        "langue": "fr",
+        "date": "2026-10-14",
+        "auteur": "Aminou",
+        "auteur_lien": "https://www.google.com/maps/contrib/116525419866330978980/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2s1M1ZFOUxkemROZGxJd1lVSkRjelYyTkRaa1drRRAB!2m1!1s0x47e6720f65e99dc5:0x77b1d937943503e6"
+      },
+      {
+        "note": 4,
+        "texte": "Un véritable trésor du 12e arrondissement ! Le Marché d’Aligre, c’est une ambiance vibrante, populaire et chaleureuse, où se mêlent les odeurs de fruits mûrs, d’épices et de fromages affinés. Entre le marché couvert Beauvau et les étals en plein air, on y trouve de tout : produits frais, fleurs, objets d’occasion… L’atmosphère y est unique, presque hors du temps, avec des commerçants passionnés et souvent généreux en conseils. Idéal pour faire le plein de bons produits ou simplement flâner un dimanche matin. Un lieu vivant, authentique, à découvrir absolument !",
+        "langue": "fr",
+        "date": "2025-10-27",
+        "auteur": "MichelBofficiel",
+        "auteur_lien": "https://www.google.com/maps/contrib/104580670919142672772/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT21obVlYSkNjQzB0T0c4dE5WOWpRbEUyUzJaeFQwRRAB!2m1!1s0x47e6720f65e99dc5:0x77b1d937943503e6"
+      },
+      {
+        "note": 5,
+        "texte": "Mon marché local pour six moins. J'ai eu la chance.  La boucherie, ́la vollaillerie, les fromageries, le marchand des légumes, la poissonnerie- tous sont fantastique. Très aimable,  est agréable et sont gentil avec mon français terrible.",
+        "langue": "fr",
+        "date": "2025-06-15",
+        "auteur": "Mark Putland",
+        "auteur_lien": "https://www.google.com/maps/contrib/106418448157432103702/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xsUVRVazNTWGRCVEdsa1R6QXRYMUZFZDNSR2VuYxAB!2m1!1s0x47e6720f65e99dc5:0x77b1d937943503e6"
+      },
+      {
+        "note": 4,
+        "texte": "C'est vivant, c'est joyeux...des couleurs plein les yeux...un lieu qui fait voyager nos envies.\nA quelques km de Bastille ou gare de Lyon, c'est un marché très vivant avec de bons produits frais.\n\nA découvrir seul ou en famille😉.",
+        "langue": "fr",
+        "date": "2025-01-12",
+        "auteur": "A l'atelier Conservation et restauration",
+        "auteur_lien": "https://www.google.com/maps/contrib/106034793576349841663/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUNpcHF6Z05nEAE!2m1!1s0x47e6720f65e99dc5:0x77b1d937943503e6"
+      },
+      {
+        "note": 5,
+        "texte": "À faire absolument si vous adorez les marchés ! J’y suis allée un samedi matin & les étals sont bien remplis, les choix variés & j’ai adoré l’ambiance !",
+        "langue": "fr",
+        "date": "2024-10-19",
+        "auteur": "Marutea Tapi",
+        "auteur_lien": "https://www.google.com/maps/contrib/103238923691674487855/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUNYX2ZiZ0VnEAE!2m1!1s0x47e6720f65e99dc5:0x77b1d937943503e6"
+      }
+    ]
+  },
+  "services": {
+    "releve": "2026-10-28",
+    "resume": "Marché en plein air classique avec des vendeurs de produits frais, viande, fruits de mer, vin, fromage et plus encore.",
+    "resume_langue": "fr",
+    "options": {
+      "delivery": false,
+      "restroom": false
+    },
+    "paiement": [
+      "carte bancaire",
+      "carte de débit",
+      "paiement sans contact"
+    ],
+    "parking": []
   }
 }

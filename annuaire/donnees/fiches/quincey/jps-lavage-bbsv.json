@@ -1,0 +1,241 @@
+{
+  "id": "ChIJA82HciDzkkcR25YzhTxookY",
+  "slug": "jps-lavage-bbsv",
+  "nom": "JPS LAVAGE - BBSV",
+  "categorie": "garages-automobile",
+  "categorie_gmb": "Station de lavage automobile",
+  "type_principal": "car_wash",
+  "types": [
+    "car_wash",
+    "point_of_interest",
+    "service",
+    "establishment"
+  ],
+  "ville": "Quincey",
+  "ville_slug": "quincey",
+  "adresse": {
+    "rue": "15 Rue Jean Poirey",
+    "code_postal": "70000",
+    "departement": "70",
+    "region": "Bourgogne-Franche-Comté",
+    "pays": "France",
+    "complete": "15 Rue Jean Poirey, 70000 Quincey"
+  },
+  "telephone": "06 81 21 90 02",
+  "geo": {
+    "latitude": 47.6162948,
+    "longitude": 6.1725258
+  },
+  "note": 4.4,
+  "avis": 112,
+  "horaires": [
+    {
+      "jour": 0,
+      "ferme": true,
+      "creneaux": []
+    },
+    {
+      "jour": 1,
+      "ferme": true,
+      "creneaux": []
+    },
+    {
+      "jour": 2,
+      "ferme": true,
+      "creneaux": []
+    },
+    {
+      "jour": 3,
+      "ferme": true,
+      "creneaux": []
+    },
+    {
+      "jour": 4,
+      "ferme": true,
+      "creneaux": []
+    },
+    {
+      "jour": 5,
+      "ferme": true,
+      "creneaux": []
+    },
+    {
+      "jour": 6,
+      "ferme": false,
+      "creneaux": [
+        [
+          "00:00",
+          "23:59"
+        ]
+      ]
+    }
+  ],
+  "attributs": [
+    "Entrée accessible en fauteuil roulant"
+  ],
+  "lien_google": "https://maps.google.com/?cid=5089745138024158939&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
+  "site_web_gmb": null,
+  "statut": "publiee",
+  "backlink": {
+    "etat": "absent",
+    "premiere_detection": null,
+    "derniere_detection": null,
+    "derniere_verification": "2026-10-28T11:17:15.165Z",
+    "echecs": 1,
+    "url_detectee": null
+  },
+  "suggestion": {
+    "etat": "en-attente",
+    "date_soumission": null,
+    "tentatives": 0,
+    "date_email": "2026-10-28"
+  },
+  "retrait": null,
+  "dates": {
+    "collecte": "2026-10-28",
+    "publication": "2026-10-28",
+    "maj": "2026-10-28"
+  },
+  "source": "google-places",
+  "avis_detail": {
+    "releve": "2026-10-28",
+    "liste": [
+      {
+        "note": 5,
+        "texte": "Bonne station de lavage, bien équipée, permet d'effectuer un bon nettoyage de son véhicule",
+        "langue": "fr",
+        "date": "2026-03-29",
+        "auteur": "Denis Pecqueux",
+        "auteur_lien": "https://www.google.com/maps/contrib/106587210529414837395/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25RdGJXSTFOSGRFVG1ablJuWnpOazkzTjNsVE1WRRAB!2m1!1s0x4792f3207287cd03:0x46a2683c853396db"
+      },
+      {
+        "note": 5,
+        "texte": "Un station de lavage ai top lavage avec un produit topissime 🙃",
+        "langue": "fr",
+        "date": "2026-03-22",
+        "auteur": "Anna Boucard",
+        "auteur_lien": "https://www.google.com/maps/contrib/109756346634532189218/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2toa1JsZGxVMUE0VUhkYVJsQnFWV0ZJVERSaldVRRAB!2m1!1s0x4792f3207287cd03:0x46a2683c853396db"
+      },
+      {
+        "note": 1,
+        "texte": "Station avec un aspirateur de cassé sans embout! Deuxième station dans la même journée qui me fait perdre de l’argent!\nJe ne conseille pas.",
+        "langue": "fr",
+        "date": "2026-02-01",
+        "auteur": "Amandine Laine",
+        "auteur_lien": "https://www.google.com/maps/contrib/101939486765749815954/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xKdlpIUjBiVTR4WDFoR1dVbzBhWFZqYjFWa1luYxAB!2m1!1s0x4792f3207287cd03:0x46a2683c853396db"
+      },
+      {
+        "note": 3,
+        "texte": "Je m’y suis rendu spécialement pour utiliser le lavage automatique, mais celui-ci était fermé. J’ai donc opté pour le lavage manuel.\nJe rejoins les autres commentaires : l’endroit est calme et la pression est bonne. En revanche, le nettoyage n’est pas vraiment efficace. Il y a beaucoup de boutons— ce qui prête un peu à confusion — dont la mousse active et le lavage, qui semblent produire exactement le même résultat. Normalement, avec la mousse active, le jet devrait être beaucoup plus doux.\nPour moi, une note de 3 étoiles est plus objective.",
+        "langue": "fr",
+        "date": "2025-12-11",
+        "auteur": "Abdesslam HRIDIM",
+        "auteur_lien": "https://www.google.com/maps/contrib/104700472763320958568/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25wRmNYbHlTRGQ1UnpKNlJWcHhTbUZQWmxWc2IzYxAB!2m1!1s0x4792f3207287cd03:0x46a2683c853396db"
+      },
+      {
+        "note": 4,
+        "texte": "Si tu veux être tranquille, au calme, l'endroit est parfait. Soit tu laisses ta voiture se laver sous les rouleaux, soit tu frottes, c'est au choix. En attendant, si tu as choisi les rouleaux, ils ont mis 2 ânes dans le champs juste à proximité, sympa à regarder. Par contre, gros bémol, rien pour aspirer l'intérieur de la voiture, obliger d'aller ailleurs. C'est vraiment dommage !",
+        "langue": "fr",
+        "date": "2019-04-03",
+        "auteur": "Sylvie ROBERT VASSELON",
+        "auteur_lien": "https://www.google.com/maps/contrib/102403007603815558085/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUN3NGM3YWtBRRAB!2m1!1s0x4792f3207287cd03:0x46a2683c853396db"
+      }
+    ]
+  },
+  "services": {
+    "releve": "2026-10-28",
+    "options": {},
+    "paiement": [
+      "carte bancaire",
+      "carte de débit",
+      "paiement sans contact"
+    ],
+    "parking": []
+  },
+  "redaction": {
+    "version": 2,
+    "titre": "JPS LAVAGE - BBSV — Garage et automobile à Quincey",
+    "meta_titre": "JPS LAVAGE - BBSV à Quincey : horaires, avis, téléphone",
+    "meta_description": "JPS LAVAGE - BBSV, garage et automobile à Quincey : horaires d'ouverture, note Google 4,4/5 (112 avis), téléphone, adresse et itinéraire.",
+    "chapo": "JPS LAVAGE - BBSV, garage et automobile au 15 Rue Jean Poirey, à Quincey. Ouvert le dimanche au relevé du 28 octobre 2026. Téléphone : 06 81 21 90 02. Note Google : 4,4 sur 5 pour 112 avis.",
+    "sections": [
+      {
+        "id": "presentation",
+        "titre": "JPS LAVAGE - BBSV en quelques mots",
+        "paragraphes": [
+          "Sur Google, l'établissement est classé « Station de lavage automobile », dans notre rubrique Garage et automobile.",
+          "D'après le relevé du 28 octobre 2026, l'établissement est ouvert le dimanche. Le détail jour par jour figure plus bas."
+        ]
+      },
+      {
+        "id": "prestations",
+        "titre": "Services et équipements de JPS LAVAGE - BBSV",
+        "paragraphes": [
+          "Moyens de paiement déclarés : carte bancaire, carte de débit et paiement sans contact.",
+          "Ces indications sont déclarées par l'établissement sur sa fiche Google (relevé du 28 octobre 2026)."
+        ]
+      },
+      {
+        "id": "acces",
+        "titre": "Adresse et accès",
+        "paragraphes": [
+          "L'établissement est situé au 15 Rue Jean Poirey, 70000 Quincey.",
+          "Coordonnées GPS : 47.61629, 6.17253. Le bouton Itinéraire de cette page ouvre la navigation."
+        ]
+      },
+      {
+        "id": "contact",
+        "titre": "Contacter JPS LAVAGE - BBSV",
+        "paragraphes": [
+          "Le contact se fait par téléphone au 06 81 21 90 02, ou directement sur place aux horaires d'ouverture."
+        ]
+      },
+      {
+        "id": "avis",
+        "titre": "La réputation de JPS LAVAGE - BBSV",
+        "paragraphes": [
+          "Note de 4,4 sur 5 pour 112 avis Google au relevé du 28 octobre 2026. Les avis les plus parlants sont compilés ci-dessous, avec un lien vers la fiche d'origine."
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "q": "Quels sont les horaires de JPS LAVAGE - BBSV ?",
+        "r": "Au relevé du 28 octobre 2026, JPS LAVAGE - BBSV était ouvert le dimanche. Dans le détail — lundi : fermé ; mardi : fermé ; mercredi : fermé ; jeudi : fermé ; vendredi : fermé ; samedi : fermé ; dimanche : de 0 h à 23 h 59. Ces horaires peuvent changer : un appel préalable reste conseillé."
+      },
+      {
+        "q": "JPS LAVAGE - BBSV est-il ouvert le dimanche ?",
+        "r": "Oui : le dimanche, JPS LAVAGE - BBSV est ouvert de 0 h à 23 h 59 (horaires relevés le 28 octobre 2026)."
+      },
+      {
+        "q": "Où se trouve JPS LAVAGE - BBSV ?",
+        "r": "JPS LAVAGE - BBSV se trouve 15 Rue Jean Poirey, 70000 Quincey. Un lien d'itinéraire est disponible sur cette page."
+      },
+      {
+        "q": "Comment contacter JPS LAVAGE - BBSV ?",
+        "r": "Par téléphone au 06 81 21 90 02, ou directement sur place aux heures d'ouverture."
+      },
+      {
+        "q": "JPS LAVAGE - BBSV est-il accessible aux personnes à mobilité réduite ?",
+        "r": "La fiche Google de l'établissement mentionne : « Entrée accessible en fauteuil roulant ». Cette information est déclarative ; en cas de doute, vérifiez par téléphone."
+      }
+    ],
+    "genere_le": "2026-10-28"
+  },
+  "statut_google": "OPERATIONAL",
+  "audience": {
+    "clics": 0,
+    "impressions": 0,
+    "position": null,
+    "fenetreJours": 90,
+    "clicsRecents": 0,
+    "fenetreRecenteJours": 28,
+    "source": "search-console",
+    "date": "2026-10-28"
+  }
+}

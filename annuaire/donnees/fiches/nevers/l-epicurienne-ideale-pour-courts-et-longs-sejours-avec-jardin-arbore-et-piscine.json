@@ -36,8 +36,8 @@
     "etat": "absent",
     "premiere_detection": null,
     "derniere_detection": null,
-    "derniere_verification": "2026-10-12T19:47:22.869Z",
-    "echecs": 71,
+    "derniere_verification": "2026-10-28T11:17:15.165Z",
+    "echecs": 72,
     "url_detectee": null
   },
   "retrait": {
@@ -51,7 +51,7 @@
   "dates": {
     "collecte": "2026-08-30",
     "publication": "2026-08-30",
-    "maj": "2026-10-18"
+    "maj": "2026-10-28"
   },
   "source": "google-places",
   "redaction": {
@@ -65,7 +65,7 @@
         "id": "presentation",
         "titre": "L'Epicurienne, idéale pour courts et longs séjours avec jardin arboré et piscine en quelques mots",
         "paragraphes": [
-          "L'Epicurienne, idéale pour courts et longs séjours avec jardin arboré et piscine est référencé dans la rubrique Hébergement à Nevers. Les informations de cette page proviennent de sa fiche Google publique, relevée le 18 octobre 2026."
+          "L'Epicurienne, idéale pour courts et longs séjours avec jardin arboré et piscine est référencé dans la rubrique Hébergement à Nevers. Les informations de cette page proviennent de sa fiche Google publique, relevée le 28 octobre 2026."
         ]
       },
       {
@@ -90,7 +90,7 @@
         "r": "L'Epicurienne, idéale pour courts et longs séjours avec jardin arboré et piscine se trouve 58000 Nevers, France. Un lien d'itinéraire est disponible sur cette page."
       }
     ],
-    "genere_le": "2026-10-18"
+    "genere_le": "2026-10-28"
   },
   "suggestion": {
     "etat": "en-attente",
@@ -107,7 +107,7 @@
     "clicsRecents": 0,
     "fenetreRecenteJours": 28,
     "source": "search-console",
-    "date": "2026-10-27"
+    "date": "2026-10-28"
   },
   "indexation": {
     "etat": "non-indexee",
@@ -117,5 +117,9 @@
     "canonique_google": null,
     "source": "inspection",
     "date": "2026-10-14"
+  },
+  "avis_detail": {
+    "releve": "2026-10-28",
+    "liste": []
   }
 }

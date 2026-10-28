@@ -29,7 +29,7 @@
     "longitude": 0.5857294
   },
   "note": 4.6,
-  "avis": 833,
+  "avis": 838,
   "horaires": [
     {
       "jour": 0,
@@ -125,8 +125,8 @@
     "etat": "absent",
     "premiere_detection": null,
     "derniere_detection": null,
-    "derniere_verification": "2026-10-13T12:40:03.315Z",
-    "echecs": 30,
+    "derniere_verification": "2026-10-28T11:17:15.165Z",
+    "echecs": 31,
     "url_detectee": null
   },
   "suggestion": {
@@ -139,22 +139,35 @@
   "dates": {
     "collecte": "2026-09-20",
     "publication": "2026-09-20",
-    "maj": "2026-10-13"
+    "maj": "2026-10-28"
   },
   "source": "google-places",
   "redaction": {
     "version": 2,
     "titre": "La table D'OSTE — Restaurant à Auch",
     "meta_titre": "La table D'OSTE à Auch : horaires, avis, téléphone",
-    "meta_description": "La table D'OSTE, restaurant à Auch : horaires d'ouverture, note Google 4,6/5 (833 avis), téléphone, adresse et itinéraire.",
-    "chapo": "Cette fiche présente La table D'OSTE, un restaurant au 7 Rue Lamartine, à Auch. Ouvert tous les jours sauf le mercredi au relevé du 13 octobre 2026. Téléphone : 05 62 05 55 62. Note Google : 4,6 sur 5 pour 833 avis.",
+    "meta_description": "La table D'OSTE, restaurant à Auch : horaires d'ouverture, note Google 4,6/5 (838 avis), téléphone, adresse et itinéraire.",
+    "chapo": "Cette fiche présente La table D'OSTE, un restaurant au 7 Rue Lamartine, à Auch. Ouvert tous les jours sauf le mercredi au relevé du 28 octobre 2026. Téléphone : 05 62 05 55 62. Note Google : 4,6 sur 5 pour 838 avis.",
     "sections": [
       {
         "id": "presentation",
         "titre": "La table D'OSTE en quelques mots",
         "paragraphes": [
+          "Présentation donnée par Google : « Une cuisine traditionnelle gasconne proposée dans un cadre accueillant et cosy avec banquettes et terrasse. »",
           "Sur Google, l'établissement est classé « Restaurant français », dans notre rubrique Restaurant.",
-          "D'après le relevé du 13 octobre 2026, l'établissement est ouvert tous les jours sauf le mercredi. Le détail jour par jour figure plus bas."
+          "Niveau de prix indiqué sur la fiche Google : €€€ (élevé).",
+          "D'après le relevé du 28 octobre 2026, l'établissement est ouvert tous les jours sauf le mercredi. Le détail jour par jour figure plus bas."
+        ]
+      },
+      {
+        "id": "prestations",
+        "titre": "Services et équipements de La table D'OSTE",
+        "paragraphes": [
+          "Proposé : sur place, réservation possible, terrasse, déjeuner, dîner, plats végétariens, café, bière, vin, cocktails, menu enfant, adapté aux groupes et toilettes.",
+          "Non proposé selon la fiche Google : à emporter, livraison, retrait en voiture, petit-déjeuner, retransmissions sportives et musique live.",
+          "Moyens de paiement déclarés : carte bancaire, carte de débit et paiement sans contact.",
+          "Stationnement : parking gratuit.",
+          "Ces indications sont déclarées par l'établissement sur sa fiche Google (relevé du 28 octobre 2026)."
         ]
       },
       {
@@ -169,25 +182,26 @@
         "id": "contact",
         "titre": "Contacter La table D'OSTE",
         "paragraphes": [
-          "Le contact se fait par téléphone au 05 62 05 55 62, ou directement sur place aux horaires d'ouverture."
+          "Le contact se fait par téléphone au 05 62 05 55 62, ou directement sur place aux horaires d'ouverture.",
+          "La fiche Google indique que la réservation est possible."
         ]
       },
       {
         "id": "avis",
         "titre": "La réputation de La table D'OSTE",
         "paragraphes": [
-          "Note de 4,6 sur 5 pour 833 avis Google au relevé du 13 octobre 2026. Les avis se consultent sur la fiche Google, dont le lien figure sur cette page."
+          "Note de 4,6 sur 5 pour 838 avis Google au relevé du 28 octobre 2026. Les avis les plus parlants sont compilés ci-dessous, avec un lien vers la fiche d'origine."
         ]
       }
     ],
     "faq": [
       {
         "q": "Quels sont les horaires de La table D'OSTE ?",
-        "r": "Au relevé du 13 octobre 2026, La table D'OSTE était ouvert tous les jours sauf le mercredi. Dans le détail — lundi : de 19 h à 22 h 30 ; mardi : de 12 h à 14 h et de 19 h 30 à 22 h ; mercredi : fermé ; jeudi : de 12 h à 14 h et de 19 h 30 à 22 h ; vendredi : de 12 h à 14 h et de 19 h 30 à 22 h ; samedi : de 12 h à 14 h et de 19 h 30 à 22 h ; dimanche : de 12 h à 14 h. Ces horaires peuvent changer : un appel préalable reste conseillé."
+        "r": "Au relevé du 28 octobre 2026, La table D'OSTE était ouvert tous les jours sauf le mercredi. Dans le détail — lundi : de 19 h à 22 h 30 ; mardi : de 12 h à 14 h et de 19 h 30 à 22 h ; mercredi : fermé ; jeudi : de 12 h à 14 h et de 19 h 30 à 22 h ; vendredi : de 12 h à 14 h et de 19 h 30 à 22 h ; samedi : de 12 h à 14 h et de 19 h 30 à 22 h ; dimanche : de 12 h à 14 h. Ces horaires peuvent changer : un appel préalable reste conseillé."
       },
       {
         "q": "La table D'OSTE est-il ouvert le dimanche ?",
-        "r": "Oui : le dimanche, La table D'OSTE est ouvert de 12 h à 14 h (horaires relevés le 13 octobre 2026)."
+        "r": "Oui : le dimanche, La table D'OSTE est ouvert de 12 h à 14 h (horaires relevés le 28 octobre 2026)."
       },
       {
         "q": "Où se trouve La table D'OSTE ?",
@@ -198,11 +212,23 @@
         "r": "Par téléphone au 05 62 05 55 62, ou directement sur place aux heures d'ouverture."
       },
       {
+        "q": "Peut-on réserver chez La table D'OSTE ?",
+        "r": "Oui, la fiche Google de La table D'OSTE indique que la réservation est possible, par téléphone au 05 62 05 55 62."
+      },
+      {
+        "q": "La table D'OSTE propose-t-il la vente à emporter ou la livraison ?",
+        "r": "D'après sa fiche Google (relevé du 28 octobre 2026) — vente à emporter : non ; livraison : non."
+      },
+      {
+        "q": "Quel est le niveau de prix de La table D'OSTE ?",
+        "r": "Google classe La table D'OSTE au niveau de prix €€€ (élevé), sur une échelle de € à €€€€ établie à partir des avis clients."
+      },
+      {
         "q": "La table D'OSTE est-il accessible aux personnes à mobilité réduite ?",
         "r": "La fiche Google de l'établissement mentionne : « Entrée accessible en fauteuil roulant ». Cette information est déclarative ; en cas de doute, vérifiez par téléphone."
       }
     ],
-    "genere_le": "2026-10-13"
+    "genere_le": "2026-10-28"
   },
   "statut_google": "OPERATIONAL",
   "audience": {
@@ -213,6 +239,100 @@
     "clicsRecents": 0,
     "fenetreRecenteJours": 28,
     "source": "search-console",
-    "date": "2026-10-27"
+    "date": "2026-10-28"
+  },
+  "avis_detail": {
+    "releve": "2026-10-28",
+    "liste": [
+      {
+        "note": 5,
+        "texte": "Choix parce que note excellente sur Google, on ne s'est pas trompé. Le patron est de très bon conseil, pas de menu enfant type burger ou nuggets, pas de soda sucré que du local très bien cuisiné et les menus enfants proposés sont des mini portions de la carte. Réservation conseillée",
+        "langue": "fr",
+        "date": "2026-08-25",
+        "auteur": "angelina decouture",
+        "auteur_lien": "https://www.google.com/maps/contrib/104771528450143826724/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2tsbFRFaHZUekV0UWxZMFFXaE5UWFZNY2kxUE9WRRAB!2m1!1s0x12a982b9b94634ef:0xd86cd48d2005f81d"
+      },
+      {
+        "note": 5,
+        "texte": "Cuisine du terroir avec les produits des producteurs des environs. Un pur délice ! Ambiance chaleureuse et service convivial et sympathique. Je vous le conseil vivement",
+        "langue": "fr",
+        "date": "2026-05-09",
+        "auteur": "GUILLEMETTE DEHAY",
+        "auteur_lien": "https://www.google.com/maps/contrib/108123309685611427712/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25wVFdUbFphamR6VURSNVp6TXdZVEJMVEd4UlkyYxAB!2m1!1s0x12a982b9b94634ef:0xd86cd48d2005f81d"
+      },
+      {
+        "note": 5,
+        "texte": "Accueil et service très agréable. Cuisine traditionnelle faite maison avec des produits frais du terroir. Nous avons très bien mangé. Plats copieux et très bien cuisinés. Tarifs abordable pour de la cuisine maison.",
+        "langue": "fr",
+        "date": "2026-05-02",
+        "auteur": "SONOLIGHTSYSTEMS 82",
+        "auteur_lien": "https://www.google.com/maps/contrib/110888468475648515953/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2psRmVtVTFMVGM0ZVdaNU9VeEZOakV6VlZSTlJtYxAB!2m1!1s0x12a982b9b94634ef:0xd86cd48d2005f81d"
+      },
+      {
+        "note": 5,
+        "texte": "Les « résistants de la restauration » proposent une cuisine incroyable, typique du Sud-Ouest. Les produits sont locaux et délicieux ! Nous avons été très bien accueillis et le service était génial. Merci pour ce bon moment.",
+        "langue": "fr",
+        "date": "2026-04-30",
+        "auteur": "Anaïs Martin",
+        "auteur_lien": "https://www.google.com/maps/contrib/114620755389543516268/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT205Wk1sWTJNV05UWTBwQ1VuaFhRbVozUTNOZmFYYxAB!2m1!1s0x12a982b9b94634ef:0xd86cd48d2005f81d"
+      },
+      {
+        "note": 5,
+        "texte": "Une très belle découverte ! Accueil chaleureux, serveurs souriants et attentionnés. La cuisine, faite maison, est un vrai régal : des saveurs équilibrées entre sucré et salé qui ravissent les papilles. L’ambiance est conviviale et familiale, on s’y sent tout de suite à l’aise. Des assiettes généreuses pour des prix tout à fait raisonnables. Je recommande sans hésiter !",
+        "langue": "fr",
+        "date": "2026-04-21",
+        "auteur": "Aurélie Lagarde",
+        "auteur_lien": "https://www.google.com/maps/contrib/111861931894672043555/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT21VMlJUQlVORkJoWVdab1ZtNXNaSFpwTVhoNlIyYxAB!2m1!1s0x12a982b9b94634ef:0xd86cd48d2005f81d"
+      }
+    ]
+  },
+  "services": {
+    "releve": "2026-10-28",
+    "prix": "PRICE_LEVEL_EXPENSIVE",
+    "resume": "Une cuisine traditionnelle gasconne proposée dans un cadre accueillant et cosy avec banquettes et terrasse.",
+    "resume_langue": "fr",
+    "options": {
+      "dineIn": true,
+      "takeout": false,
+      "delivery": false,
+      "curbsidePickup": false,
+      "reservable": true,
+      "outdoorSeating": true,
+      "servesBreakfast": false,
+      "servesLunch": true,
+      "servesDinner": true,
+      "servesVegetarianFood": true,
+      "servesCoffee": true,
+      "servesBeer": true,
+      "servesWine": true,
+      "servesCocktails": true,
+      "menuForChildren": true,
+      "goodForGroups": true,
+      "goodForWatchingSports": false,
+      "liveMusic": false,
+      "restroom": true
+    },
+    "paiement": [
+      "carte bancaire",
+      "carte de débit",
+      "paiement sans contact"
+    ],
+    "parking": [
+      "parking gratuit"
+    ]
+  },
+  "indexation": {
+    "etat": "non-indexee",
+    "verdict": "NEUTRAL",
+    "couverture": "Détectée, actuellement non indexée",
+    "derniere_exploration": null,
+    "canonique_google": null,
+    "source": "inspection",
+    "date": "2026-10-28"
   }
 }

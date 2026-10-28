@@ -1,0 +1,272 @@
+{
+  "id": "ChIJLdoalqeai0cRpGYp5I115hg",
+  "slug": "gie-irm74-site-de-cesiere",
+  "nom": "GIE IRM74 - site de Césière",
+  "categorie": "medecins-dentistes",
+  "categorie_gmb": "Clinique",
+  "type_principal": "medical_clinic",
+  "types": [
+    "medical_clinic",
+    "health",
+    "point_of_interest",
+    "establishment"
+  ],
+  "ville": "Annecy",
+  "ville_slug": "annecy",
+  "adresse": {
+    "rue": "18 Rue de la Césière",
+    "code_postal": "74000",
+    "departement": "74",
+    "region": "Auvergne-Rhône-Alpes",
+    "pays": "France",
+    "complete": "ZI de Vovray, 18 Rue de la Césière, 74000 Annecy"
+  },
+  "telephone": "04 50 51 18 31",
+  "geo": {
+    "latitude": 45.881494499999995,
+    "longitude": 6.1152660999999995
+  },
+  "note": 3.6,
+  "avis": 192,
+  "horaires": [
+    {
+      "jour": 0,
+      "ferme": false,
+      "creneaux": [
+        [
+          "07:15",
+          "20:15"
+        ]
+      ]
+    },
+    {
+      "jour": 1,
+      "ferme": false,
+      "creneaux": [
+        [
+          "07:15",
+          "20:15"
+        ]
+      ]
+    },
+    {
+      "jour": 2,
+      "ferme": false,
+      "creneaux": [
+        [
+          "07:15",
+          "20:15"
+        ]
+      ]
+    },
+    {
+      "jour": 3,
+      "ferme": false,
+      "creneaux": [
+        [
+          "07:15",
+          "20:15"
+        ]
+      ]
+    },
+    {
+      "jour": 4,
+      "ferme": false,
+      "creneaux": [
+        [
+          "07:15",
+          "20:15"
+        ]
+      ]
+    },
+    {
+      "jour": 5,
+      "ferme": true,
+      "creneaux": []
+    },
+    {
+      "jour": 6,
+      "ferme": true,
+      "creneaux": []
+    }
+  ],
+  "attributs": [
+    "Entrée accessible en fauteuil roulant",
+    "Parking accessible en fauteuil roulant",
+    "Toilettes accessibles en fauteuil roulant",
+    "Places assises accessibles en fauteuil roulant"
+  ],
+  "lien_google": "https://maps.google.com/?cid=1794250753832478372&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
+  "site_web_gmb": null,
+  "statut": "publiee",
+  "backlink": {
+    "etat": "absent",
+    "premiere_detection": null,
+    "derniere_detection": null,
+    "derniere_verification": "2026-10-28T11:17:15.165Z",
+    "echecs": 1,
+    "url_detectee": null
+  },
+  "suggestion": {
+    "etat": "en-attente",
+    "date_soumission": null,
+    "tentatives": 0,
+    "date_email": "2026-10-28"
+  },
+  "retrait": null,
+  "dates": {
+    "collecte": "2026-10-28",
+    "publication": "2026-10-28",
+    "maj": "2026-10-28"
+  },
+  "source": "google-places",
+  "avis_detail": {
+    "releve": "2026-10-28",
+    "liste": [
+      {
+        "note": 5,
+        "texte": "Équipe formidable !\nTout le monde est très accueillant et au petit soin. Je n'ai jamais été aussi sereine pour un irm étant claustrophobe. Je me suis même endormie.  Ils font extrêmement attention au consentement et ne décrédibilise pas du tout des douleurs malgré que la pathologie ne soit pas visible sur l'imagerie. Merci milles fois à tout le monde. ☺️",
+        "langue": "fr",
+        "date": "2026-08-17",
+        "auteur": "Audrey Saurin",
+        "auteur_lien": "https://www.google.com/maps/contrib/103951414768480995751/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xkVVIzbENRWGxwZUdSTU1FWkVjRWd4VWxnNVQzYxAB!2m1!1s0x478b9aa7961ada2d:0x18e6758de42966a4"
+      },
+      {
+        "note": 1,
+        "texte": "Lamentable pour obtenir un rdv. Tout doit passer par doctolib! Problème il faut être connecté H24 et quand sur notre lieu de travail le téléphone est interdit, vous vous asseyez dessus pour passer un irm! Vive la santé en France et surtout à Annecy car vous ne pouvez avoir aucun interlocuteur",
+        "langue": "fr",
+        "date": "2026-08-12",
+        "auteur": "edwige journet",
+        "auteur_lien": "https://www.google.com/maps/contrib/101278134128036222634/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2tscFUxQkdZV0ZpY2sxUFVEYzBValEyVnpJd2RXYxAB!2m1!1s0x478b9aa7961ada2d:0x18e6758de42966a4"
+      },
+      {
+        "note": 1,
+        "texte": "Inadmissible!\nLa personne qui m’a préparé et passé l’IRM m’a parlé sur un ton désobligeant. Première fois de ma vie que je constate un réel manque de professionnalisme et trouve cela inadmissible pour le corps médical.\nCette expérience je l’a recommande à personne.\nGrâce à cette personne, je suis ressorti sans IRM de faite et avec une appréhension pour le prochain examen.",
+        "langue": "fr",
+        "date": "2026-08-04",
+        "auteur": "Alexis",
+        "auteur_lien": "https://www.google.com/maps/contrib/100772074146711500755/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2paSWIyZ3lXVXhTTkY5UFpDMDBNemN6ZVZkTE1VRRAB!2m1!1s0x478b9aa7961ada2d:0x18e6758de42966a4"
+      },
+      {
+        "note": 5,
+        "texte": "Je suis arrivée avec beaucoup de souffrance et de peur. Je recommande ce centre oû la douleur est prise en compte. La personne de l'accueil était souriante et rassurante, le monsieur qui m'a installé était bienveillant et d'une extrème douceur et le médecin à la fin très agréable avec une explication claire.",
+        "langue": "fr",
+        "date": "2026-06-25",
+        "auteur": "Sabine Délais le",
+        "auteur_lien": "https://www.google.com/maps/contrib/103196646932288795058/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25KVE9YRjFUekZIY0RCVmJtRmtUMU55WTJaMlIxRRAB!2m1!1s0x478b9aa7961ada2d:0x18e6758de42966a4"
+      },
+      {
+        "note": 1,
+        "texte": "Très insatisfaite du système de prise de rendez-vous !!! Impossible de prendre un rendez-vous IRM en ligne car je cite \"ma situation ne le permet pas\", impossible d'avoir quelqu'un au téléphone, aucune adresse email disponible pour contacter quelqu'un ! Le système de santé en france est de pire en pire, de plus en plus de technologie inutile (IA qui ne comprend rien, rdv en ligne impossible, ...) et l'impression de revenir au début du siècle... Plus de 3 mois que j'essaie d'avoir un rdv IRM et pas une seule fois je n'ai réussi à avoir un échange avec un vrai être humain, c'est une honte...",
+        "langue": "fr",
+        "date": "2026-06-05",
+        "auteur": "Nany",
+        "auteur_lien": "https://www.google.com/maps/contrib/116182485386302469780/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT21kMlVWVTFkMWRhU2kxcWQyVjRWMVV0U1V0Nk0yYxAB!2m1!1s0x478b9aa7961ada2d:0x18e6758de42966a4"
+      }
+    ]
+  },
+  "services": {
+    "releve": "2026-10-28",
+    "options": {
+      "restroom": true
+    },
+    "paiement": [
+      "carte bancaire",
+      "carte de débit",
+      "paiement sans contact"
+    ],
+    "parking": [
+      "parking gratuit",
+      "stationnement gratuit dans la rue",
+      "garage gratuit"
+    ]
+  },
+  "redaction": {
+    "version": 2,
+    "titre": "GIE IRM74 - site de Césière — Médecin ou dentiste à Annecy",
+    "meta_titre": "GIE IRM74 - site de Césière à Annecy : horaires, avis",
+    "meta_description": "GIE IRM74 - site de Césière, médecin ou dentiste à Annecy : horaires d'ouverture, note Google 3,6/5 (192 avis), téléphone, adresse et itinéraire.",
+    "chapo": "Cette fiche présente GIE IRM74 - site de Césière, un médecin ou dentiste au 18 Rue de la Césière, à Annecy. Fermé le samedi et le dimanche au relevé du 28 octobre 2026. Téléphone : 04 50 51 18 31. Note Google : 3,6 sur 5 pour 192 avis.",
+    "sections": [
+      {
+        "id": "presentation",
+        "titre": "GIE IRM74 - site de Césière en quelques mots",
+        "paragraphes": [
+          "Sur Google, l'établissement est classé « Clinique », dans notre rubrique Médecin ou dentiste.",
+          "D'après le relevé du 28 octobre 2026, l'établissement est fermé le samedi et le dimanche. Le détail jour par jour figure plus bas."
+        ]
+      },
+      {
+        "id": "prestations",
+        "titre": "Services et équipements de GIE IRM74 - site de Césière",
+        "paragraphes": [
+          "Proposé : toilettes.",
+          "Moyens de paiement déclarés : carte bancaire, carte de débit et paiement sans contact.",
+          "Stationnement : parking gratuit, stationnement gratuit dans la rue et garage gratuit.",
+          "Ces indications sont déclarées par l'établissement sur sa fiche Google (relevé du 28 octobre 2026)."
+        ]
+      },
+      {
+        "id": "acces",
+        "titre": "Adresse et accès",
+        "paragraphes": [
+          "L'établissement est situé au 18 Rue de la Césière, 74000 Annecy.",
+          "Coordonnées GPS : 45.88149, 6.11527. Le bouton Itinéraire de cette page ouvre la navigation."
+        ]
+      },
+      {
+        "id": "contact",
+        "titre": "Contacter GIE IRM74 - site de Césière",
+        "paragraphes": [
+          "Le contact se fait par téléphone au 04 50 51 18 31, ou directement sur place aux horaires d'ouverture."
+        ]
+      },
+      {
+        "id": "avis",
+        "titre": "La réputation de GIE IRM74 - site de Césière",
+        "paragraphes": [
+          "Note de 3,6 sur 5 pour 192 avis Google au relevé du 28 octobre 2026. Les avis les plus parlants sont compilés ci-dessous, avec un lien vers la fiche d'origine."
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "q": "Quels sont les horaires de GIE IRM74 - site de Césière ?",
+        "r": "Au relevé du 28 octobre 2026, GIE IRM74 - site de Césière était fermé le samedi et le dimanche. Dans le détail — lundi : de 7 h 15 à 20 h 15 ; mardi : de 7 h 15 à 20 h 15 ; mercredi : de 7 h 15 à 20 h 15 ; jeudi : de 7 h 15 à 20 h 15 ; vendredi : de 7 h 15 à 20 h 15 ; samedi : fermé ; dimanche : fermé. Ces horaires peuvent changer : un appel préalable reste conseillé."
+      },
+      {
+        "q": "GIE IRM74 - site de Césière est-il ouvert le dimanche ?",
+        "r": "Non : d'après les horaires relevés le 28 octobre 2026, GIE IRM74 - site de Césière est fermé le dimanche."
+      },
+      {
+        "q": "Où se trouve GIE IRM74 - site de Césière ?",
+        "r": "GIE IRM74 - site de Césière se trouve ZI de Vovray, 18 Rue de la Césière, 74000 Annecy. Un lien d'itinéraire est disponible sur cette page."
+      },
+      {
+        "q": "Comment contacter GIE IRM74 - site de Césière ?",
+        "r": "Par téléphone au 04 50 51 18 31, ou directement sur place aux heures d'ouverture."
+      },
+      {
+        "q": "GIE IRM74 - site de Césière est-il accessible aux personnes à mobilité réduite ?",
+        "r": "La fiche Google de l'établissement mentionne : « Entrée accessible en fauteuil roulant ». Cette information est déclarative ; en cas de doute, vérifiez par téléphone."
+      }
+    ],
+    "genere_le": "2026-10-28"
+  },
+  "statut_google": "OPERATIONAL",
+  "audience": {
+    "clics": 0,
+    "impressions": 0,
+    "position": null,
+    "fenetreJours": 90,
+    "clicsRecents": 0,
+    "fenetreRecenteJours": 28,
+    "source": "search-console",
+    "date": "2026-10-28"
+  }
+}
