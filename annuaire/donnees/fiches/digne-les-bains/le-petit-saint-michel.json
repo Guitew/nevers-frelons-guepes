@@ -3,7 +3,7 @@
   "slug": "le-petit-saint-michel",
   "nom": "Le petit saint michel",
   "categorie": "restaurants",
-  "categorie_gmb": "Restaurant",
+  "categorie_gmb": "Restaurant français",
   "type_principal": "restaurant",
   "types": [
     "restaurant",
@@ -27,7 +27,7 @@
     "longitude": 6.237516299999999
   },
   "note": 4.9,
-  "avis": 178,
+  "avis": 182,
   "horaires": [
     {
       "jour": 0,
@@ -105,8 +105,8 @@
     "etat": "absent",
     "premiere_detection": null,
     "derniere_detection": null,
-    "derniere_verification": "2026-10-13T12:40:03.315Z",
-    "echecs": 57,
+    "derniere_verification": "2026-10-29T11:28:47.587Z",
+    "echecs": 58,
     "url_detectee": null
   },
   "suggestion": {
@@ -125,21 +125,34 @@
   "dates": {
     "collecte": "2026-09-06",
     "publication": "2026-09-06",
-    "maj": "2026-10-21"
+    "maj": "2026-10-29"
   },
   "source": "google-places",
   "redaction": {
     "version": 2,
     "titre": "Le petit saint michel — Restaurant à Digne-les-Bains",
     "meta_titre": "Le petit saint michel à Digne-les-Bains : horaires, avis",
-    "meta_description": "Le petit saint michel, restaurant à Digne-les-Bains : horaires d'ouverture, note Google 4,9/5 (178 avis), téléphone, adresse et itinéraire.",
-    "chapo": "Le petit saint michel, restaurant au 1 Ruelle Saint-Michel, à Digne-les-Bains. Fermé le lundi, le mardi et le mercredi au relevé du 13 octobre 2026. Téléphone : 04 92 81 32 20. Note Google : 4,9 sur 5 pour 178 avis.",
+    "meta_description": "Le petit saint michel, restaurant à Digne-les-Bains : horaires d'ouverture, note Google 4,9/5 (182 avis), téléphone, adresse et itinéraire.",
+    "chapo": "Le petit saint michel, restaurant au 1 Ruelle Saint-Michel, à Digne-les-Bains. Fermé le lundi, le mardi et le mercredi au relevé du 29 octobre 2026. Téléphone : 04 92 81 32 20. Note Google : 4,9 sur 5 pour 182 avis.",
     "sections": [
       {
         "id": "presentation",
         "titre": "Le petit saint michel en quelques mots",
         "paragraphes": [
-          "D'après le relevé du 13 octobre 2026, l'établissement est fermé le lundi, le mardi et le mercredi. Le détail jour par jour figure plus bas."
+          "Sur Google, l'établissement est classé « Restaurant français », dans notre rubrique Restaurant.",
+          "Niveau de prix indiqué sur la fiche Google : €€€ (élevé).",
+          "D'après le relevé du 29 octobre 2026, l'établissement est fermé le lundi, le mardi et le mercredi. Le détail jour par jour figure plus bas."
+        ]
+      },
+      {
+        "id": "prestations",
+        "titre": "Services et équipements de Le petit saint michel",
+        "paragraphes": [
+          "Proposé : sur place, réservation possible, petit-déjeuner, déjeuner, dîner, café, bière, vin, cocktails, menu enfant, adapté aux enfants, adapté aux groupes, chiens acceptés et toilettes.",
+          "Non proposé selon la fiche Google : à emporter, livraison, retrait en voiture, brunch, retransmissions sportives et musique live.",
+          "Moyens de paiement déclarés : carte bancaire et carte de débit.",
+          "Stationnement : parking gratuit et stationnement payant dans la rue.",
+          "Ces indications sont déclarées par l'établissement sur sa fiche Google (relevé du 29 octobre 2026)."
         ]
       },
       {
@@ -154,25 +167,26 @@
         "id": "contact",
         "titre": "Contacter Le petit saint michel",
         "paragraphes": [
-          "Le contact se fait par téléphone au 04 92 81 32 20, ou directement sur place aux horaires d'ouverture."
+          "Le contact se fait par téléphone au 04 92 81 32 20, ou directement sur place aux horaires d'ouverture.",
+          "La fiche Google indique que la réservation est possible."
         ]
       },
       {
         "id": "avis",
         "titre": "La réputation de Le petit saint michel",
         "paragraphes": [
-          "Note de 4,9 sur 5 pour 178 avis Google au relevé du 13 octobre 2026. Les avis se consultent sur la fiche Google, dont le lien figure sur cette page."
+          "Note de 4,9 sur 5 pour 182 avis Google au relevé du 29 octobre 2026. Les avis les plus parlants sont compilés ci-dessous, avec un lien vers la fiche d'origine."
         ]
       }
     ],
     "faq": [
       {
         "q": "Quels sont les horaires de Le petit saint michel ?",
-        "r": "Au relevé du 13 octobre 2026, Le petit saint michel était fermé le lundi, le mardi et le mercredi. Dans le détail — lundi : fermé ; mardi : fermé ; mercredi : fermé ; jeudi : de 12 h à 14 h ; vendredi : de 12 h à 14 h et de 19 h à 21 h ; samedi : de 12 h à 14 h et de 19 h à 21 h ; dimanche : de 12 h à 15 h et de 19 h à 21 h. Ces horaires peuvent changer : un appel préalable reste conseillé."
+        "r": "Au relevé du 29 octobre 2026, Le petit saint michel était fermé le lundi, le mardi et le mercredi. Dans le détail — lundi : fermé ; mardi : fermé ; mercredi : fermé ; jeudi : de 12 h à 14 h ; vendredi : de 12 h à 14 h et de 19 h à 21 h ; samedi : de 12 h à 14 h et de 19 h à 21 h ; dimanche : de 12 h à 15 h et de 19 h à 21 h. Ces horaires peuvent changer : un appel préalable reste conseillé."
       },
       {
         "q": "Le petit saint michel est-il ouvert le dimanche ?",
-        "r": "Oui : le dimanche, Le petit saint michel est ouvert de 12 h à 15 h et de 19 h à 21 h (horaires relevés le 13 octobre 2026)."
+        "r": "Oui : le dimanche, Le petit saint michel est ouvert de 12 h à 15 h et de 19 h à 21 h (horaires relevés le 29 octobre 2026)."
       },
       {
         "q": "Où se trouve Le petit saint michel ?",
@@ -181,9 +195,21 @@
       {
         "q": "Comment contacter Le petit saint michel ?",
         "r": "Par téléphone au 04 92 81 32 20, ou directement sur place aux heures d'ouverture."
+      },
+      {
+        "q": "Peut-on réserver chez Le petit saint michel ?",
+        "r": "Oui, la fiche Google de Le petit saint michel indique que la réservation est possible, par téléphone au 04 92 81 32 20."
+      },
+      {
+        "q": "Le petit saint michel propose-t-il la vente à emporter ou la livraison ?",
+        "r": "D'après sa fiche Google (relevé du 29 octobre 2026) — vente à emporter : non ; livraison : non."
+      },
+      {
+        "q": "Quel est le niveau de prix de Le petit saint michel ?",
+        "r": "Google classe Le petit saint michel au niveau de prix €€€ (élevé), sur une échelle de € à €€€€ établie à partir des avis clients."
       }
     ],
-    "genere_le": "2026-10-13"
+    "genere_le": "2026-10-29"
   },
   "statut_google": "OPERATIONAL",
   "audience": {
@@ -194,7 +220,7 @@
     "clicsRecents": 0,
     "fenetreRecenteJours": 28,
     "source": "search-console",
-    "date": "2026-10-28"
+    "date": "2026-10-29"
   },
   "indexation": {
     "etat": "non-indexee",
@@ -204,5 +230,89 @@
     "canonique_google": null,
     "source": "inspection",
     "date": "2026-10-21"
+  },
+  "avis_detail": {
+    "releve": "2026-10-29",
+    "liste": [
+      {
+        "note": 5,
+        "texte": "Ma compagne et moi avons trouvé une très bonne adresse en ce restaurant cosi à la petite salle en pierres, voûtée. Cele fait longtemps que nous n'avions pas aussi bien mangé dans un restaurant de ce type! Aucune fausse note, de l'ambiance au service, du plat au dessert. Pour revenir sur l'ambiance, celle-ci était très conviviale et familiale ! Nous nous sommes régalés, et reviendrons volontiers. Évidemment, je recommande cette adresse vivement. Bonne continuation à vous !!",
+        "langue": "fr",
+        "date": "2026-10-16",
+        "auteur": "Philippe BONTEMPS",
+        "auteur_lien": "https://www.google.com/maps/contrib/110344595065917389440/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25SbVNsZFpWemhoV25kamNYUlJlVWgxWW5OZlVFRRAB!2m1!1s0x12cb9bb5fafb6def:0x8e72219cc172068b"
+      },
+      {
+        "note": 5,
+        "texte": "Un déjeuner parfait ! Une cuisine de niveau gastronomique, avec une présentation impeccable et des ingrédients délicieux. La viande (de la joue) était fondante, on aurait pu se passer du couteau ! Le service était parfait aussi, réactif sans être oppressant.\nLa salle est très jolie. Peu de places donc je recommande de réserver !",
+        "langue": "fr",
+        "date": "2026-08-25",
+        "auteur": "Aurore V.",
+        "auteur_lien": "https://www.google.com/maps/contrib/113679382732275486193/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xJdFRsQTVWbTFTTVVoS1VGWlhVWFJ3U2pkSmVGRRAB!2m1!1s0x12cb9bb5fafb6def:0x8e72219cc172068b"
+      },
+      {
+        "note": 5,
+        "texte": "Accueil très chaleureux,la gérante est souriante et tout aussi efficace au service, j' ai pris des cuisses de grenouilles persillées,un délice puis un dessert tarte compotée de framboise pistache c'était sublime, le cuisinier est fait pour ce boulot, 'ous reviendrons avec un immense plaisir.Merci à cette pépite....",
+        "langue": "fr",
+        "date": "2026-08-08",
+        "auteur": "Serge",
+        "auteur_lien": "https://www.google.com/maps/contrib/112505581444247295384/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT21kM2MweDFMWE5hVkc1SU0yUmpOVTE1U2tGNWRYYxAB!2m1!1s0x12cb9bb5fafb6def:0x8e72219cc172068b"
+      },
+      {
+        "note": 3,
+        "texte": "Salle petite créant une ambiance sympathique, jolie pierre et voûte.\nCuisine de qualité généreuse et fine pour les plats, entrée genereuse mais simple .\nBémol :  fumées de la cuisine dans la salle, un peu dérangeant niveau odeur et respiration et les vêtements qui sentent fort après le repas.",
+        "langue": "fr",
+        "date": "2026-05-10",
+        "auteur": "Clément VAUTRIN",
+        "auteur_lien": "https://www.google.com/maps/contrib/111172994796748371399/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2tGaVRVUTJPVEJZZFdnd01YUXlaamhmVFdFNFFsRRAB!2m1!1s0x12cb9bb5fafb6def:0x8e72219cc172068b"
+      },
+      {
+        "note": 4,
+        "texte": "Restaurant caché dans la vielle ville où il faudra le  chercher pour y découvrir un couple de passionnés. Servi une terrine de foie gras avec sa brioche, oignons rouge et sa tomate cerise poêlée, dégustée avec un Voigner de Saint Guilhem le Désert sans pesticides (vérifié sur Solagro avec un taux de 0,15). Belle entrée pour déguster avec harmonie mon choix avec vin blanc soyeux et sec à la fois !\nLa suite  toujours avec le même cépage, des médaillons de lotte à la crème de lard avec ses 3 purées de légumes à trouver pour passer le repas à chercher les arômes qui s'y dégagent... bel équilibre avec le charnue de la chair du poisson poêlé !\nD,avoir gagné au jeu de l'énigme des purées... pourquoi pas s'offrir un tiramisu maison au café !\nLa patronne est souriante, accueillante comme on peut aimer trouver quand on va dans cet établissement... prix 35,75€/ pers. et pas de serviette en papier (que je déteste) ! Pas étonnant qu'il soit le mieux noté sur dans la cité !",
+        "langue": "fr",
+        "date": "2025-09-27",
+        "auteur": "Robert ARCOBA",
+        "auteur_lien": "https://www.google.com/maps/contrib/101958626918153843413/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2pVdGFWUmZZV3d4Ym5waWExZzJiRUZJWW01c01XYxAB!2m1!1s0x12cb9bb5fafb6def:0x8e72219cc172068b"
+      }
+    ]
+  },
+  "services": {
+    "releve": "2026-10-29",
+    "prix": "PRICE_LEVEL_EXPENSIVE",
+    "options": {
+      "dineIn": true,
+      "takeout": false,
+      "delivery": false,
+      "curbsidePickup": false,
+      "reservable": true,
+      "servesBreakfast": true,
+      "servesBrunch": false,
+      "servesLunch": true,
+      "servesDinner": true,
+      "servesCoffee": true,
+      "servesBeer": true,
+      "servesWine": true,
+      "servesCocktails": true,
+      "menuForChildren": true,
+      "goodForChildren": true,
+      "goodForGroups": true,
+      "goodForWatchingSports": false,
+      "liveMusic": false,
+      "allowsDogs": true,
+      "restroom": true
+    },
+    "paiement": [
+      "carte bancaire",
+      "carte de débit"
+    ],
+    "parking": [
+      "parking gratuit",
+      "stationnement payant dans la rue"
+    ]
   }
 }

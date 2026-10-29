@@ -32,7 +32,7 @@
     "longitude": 4.340991
   },
   "note": 3.9,
-  "avis": 154,
+  "avis": 155,
   "horaires": [
     {
       "jour": 0,
@@ -108,8 +108,8 @@
     "etat": "absent",
     "premiere_detection": null,
     "derniere_detection": null,
-    "derniere_verification": "2026-10-14T10:07:28.770Z",
-    "echecs": 1,
+    "derniere_verification": "2026-10-29T11:28:47.587Z",
+    "echecs": 2,
     "url_detectee": null
   },
   "suggestion": {
@@ -122,22 +122,31 @@
   "dates": {
     "collecte": "2026-10-14",
     "publication": "2026-10-14",
-    "maj": "2026-10-18"
+    "maj": "2026-10-29"
   },
   "source": "google-places",
   "redaction": {
     "version": 2,
     "titre": "La douceur de l'Artisan — Boulangerie-pâtisserie à Nîmes",
     "meta_titre": "La douceur de l'Artisan à Nîmes : horaires, avis, téléphone",
-    "meta_description": "La douceur de l'Artisan, boulangerie-pâtisserie à Nîmes : horaires d'ouverture, note Google 3,9/5 (154 avis), téléphone, adresse et itinéraire.",
-    "chapo": "Cette fiche présente La douceur de l'Artisan, une boulangerie-pâtisserie au 127 Route d'Alès, à Nîmes. Ouvert tous les jours sauf le dimanche au relevé du 18 octobre 2026. Téléphone : 07 69 82 26 69. Note Google : 3,9 sur 5 pour 154 avis.",
+    "meta_description": "La douceur de l'Artisan, boulangerie-pâtisserie à Nîmes : horaires d'ouverture, note Google 3,9/5 (155 avis), téléphone, adresse et itinéraire.",
+    "chapo": "Cette fiche présente La douceur de l'Artisan, une boulangerie-pâtisserie au 127 Route d'Alès, à Nîmes. Ouvert tous les jours sauf le dimanche au relevé du 29 octobre 2026. Téléphone : 07 69 82 26 69. Note Google : 3,9 sur 5 pour 155 avis.",
     "sections": [
       {
         "id": "presentation",
         "titre": "La douceur de l'Artisan en quelques mots",
         "paragraphes": [
           "Sur Google, l'établissement est classé « Pâtisserie », dans notre rubrique Boulangerie-pâtisserie.",
-          "D'après le relevé du 18 octobre 2026, l'établissement est ouvert tous les jours sauf le dimanche. Le détail jour par jour figure plus bas."
+          "D'après le relevé du 29 octobre 2026, l'établissement est ouvert tous les jours sauf le dimanche. Le détail jour par jour figure plus bas."
+        ]
+      },
+      {
+        "id": "prestations",
+        "titre": "Services et équipements de La douceur de l'Artisan",
+        "paragraphes": [
+          "Proposé : à emporter.",
+          "Moyens de paiement déclarés : carte bancaire, carte de débit et paiement sans contact.",
+          "Ces indications sont déclarées par l'établissement sur sa fiche Google (relevé du 29 octobre 2026)."
         ]
       },
       {
@@ -159,18 +168,18 @@
         "id": "avis",
         "titre": "La réputation de La douceur de l'Artisan",
         "paragraphes": [
-          "Note de 3,9 sur 5 pour 154 avis Google au relevé du 18 octobre 2026. Les avis se consultent sur la fiche Google, dont le lien figure sur cette page."
+          "Note de 3,9 sur 5 pour 155 avis Google au relevé du 29 octobre 2026. Les avis les plus parlants sont compilés ci-dessous, avec un lien vers la fiche d'origine."
         ]
       }
     ],
     "faq": [
       {
         "q": "Quels sont les horaires de La douceur de l'Artisan ?",
-        "r": "Au relevé du 18 octobre 2026, La douceur de l'Artisan était ouvert tous les jours sauf le dimanche. Dans le détail — lundi : de 6 h à 19 h 30 ; mardi : de 6 h à 19 h 30 ; mercredi : de 6 h à 19 h 30 ; jeudi : de 6 h à 19 h 30 ; vendredi : de 6 h à 19 h 30 ; samedi : de 6 h à 19 h 30 ; dimanche : fermé. Ces horaires peuvent changer : un appel préalable reste conseillé."
+        "r": "Au relevé du 29 octobre 2026, La douceur de l'Artisan était ouvert tous les jours sauf le dimanche. Dans le détail — lundi : de 6 h à 19 h 30 ; mardi : de 6 h à 19 h 30 ; mercredi : de 6 h à 19 h 30 ; jeudi : de 6 h à 19 h 30 ; vendredi : de 6 h à 19 h 30 ; samedi : de 6 h à 19 h 30 ; dimanche : fermé. Ces horaires peuvent changer : un appel préalable reste conseillé."
       },
       {
         "q": "La douceur de l'Artisan est-il ouvert le dimanche ?",
-        "r": "Non : d'après les horaires relevés le 18 octobre 2026, La douceur de l'Artisan est fermé le dimanche."
+        "r": "Non : d'après les horaires relevés le 29 octobre 2026, La douceur de l'Artisan est fermé le dimanche."
       },
       {
         "q": "Où se trouve La douceur de l'Artisan ?",
@@ -179,19 +188,85 @@
       {
         "q": "Comment contacter La douceur de l'Artisan ?",
         "r": "Par téléphone au 07 69 82 26 69, ou directement sur place aux heures d'ouverture."
+      },
+      {
+        "q": "La douceur de l'Artisan propose-t-il la vente à emporter ou la livraison ?",
+        "r": "D'après sa fiche Google (relevé du 29 octobre 2026) — vente à emporter : oui."
       }
     ],
-    "genere_le": "2026-10-18"
+    "genere_le": "2026-10-29"
   },
   "statut_google": "OPERATIONAL",
   "audience": {
     "clics": 1,
-    "impressions": 50,
-    "position": 8.4,
+    "impressions": 58,
+    "position": 8.5,
     "fenetreJours": 90,
     "clicsRecents": 1,
     "fenetreRecenteJours": 28,
     "source": "search-console",
-    "date": "2026-10-28"
+    "date": "2026-10-29"
+  },
+  "avis_detail": {
+    "releve": "2026-10-29",
+    "liste": [
+      {
+        "note": 5,
+        "texte": "La boulangerie pâtisserie route d'Ales est tres agréable vous pouvez manger aussi bien en extérieur qu'en intérieur,  vous êtes reçu avec le sourire chaleureux,  je recommande,  de plus tout y es tres bon et généreux en goût.",
+        "langue": "fr",
+        "date": "2026-10-16",
+        "auteur": "Zero Double",
+        "auteur_lien": "https://www.google.com/maps/contrib/109050055934754602716/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT201RGNsVXRjemRwV2pKamFtWkVUVkZFTlRWQlZrRRAB!2m1!1s0x12b42d224804f8f9:0x1ed340644dde961a"
+      },
+      {
+        "note": 1,
+        "texte": "Horraire d’ouverture le dimanche 6h30 13h il est 10h on fait de la route pour aller à la boulangerie c’est fermée. Jappel le numéro on me dit que le dimanche réouvre à partir de septembre. Je lui dit comment on est censée savoir c’est écrit nul part. Elle me dit c’est pas possible que se soit écrit ouvert hier une dame me dit quel voit que c écrit fermée alors que j’ai bien écrit ouvert sous les yeux  ! Vraiment je comprend les mauvais commentaires !",
+        "langue": "fr",
+        "date": "2026-08-23",
+        "auteur": "Sou B",
+        "auteur_lien": "https://www.google.com/maps/contrib/115946824911378708542/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2pGRFNEUTBSa3BFVTJNeVZYUjJXRWhvVkVweVNtYxAB!2m1!1s0x12b42d224804f8f9:0x1ed340644dde961a"
+      },
+      {
+        "note": 5,
+        "texte": "De passage à Nîmes, j’ai découvert La Douceur de l’Artisan et c’est un vrai coup de cœur ! Les meilleures pâtisseries et trompe-l’œil que j’ai goûtés, tout est aussi beau que délicieux. Mention spéciale pour l’entremets cacahuète, une véritable pépite gustative. Je recommande à 100 % !\n\nAccueil  très chaleureux également le 31/12/25",
+        "langue": "fr",
+        "date": "2026-01-01",
+        "auteur": "Sihame IHDINA",
+        "auteur_lien": "https://www.google.com/maps/contrib/110474950938411652674/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT214aVlWOUlWSEYxV1RCR1MwNVBWVEpzVlRCT01VRRAB!2m1!1s0x12b42d224804f8f9:0x1ed340644dde961a"
+      },
+      {
+        "note": 1,
+        "texte": "Déçue de l’expérience, trompe l’œil mal réalisés avec finitions très grossières (l’œil n’est clairement pas trompé) ce n’est vraiment pas beau et pas ce que l’on peut attendre d’un trompe l’œil. Concernant le goût ce n’était pas incroyable mais pas mauvais non plus : peu d’intérêt. Pour les autres pâtisseries elles ne sont pas non plus très jolies visuellement mais n’étaient pas mauvaises.\nLa vendeuse a cependant été agréable et a su me dire de quoi était composée chaque pâtisserie ainsi que le prix car rien de cela n’était affiché 🤔\nEt pour finir j’ai pu faire la rencontre d’un mini cafard au niveau de la caisse au moment de payer 🤡 je comprends que lorsque l’on travaille avec de la nourriture cela peut être dur à traiter mais ce n’est jamais agréable de se dire que ces petites bêtes peuvent traîner sur nos desserts 😅",
+        "langue": "fr",
+        "date": "2025-12-28",
+        "auteur": "A J",
+        "auteur_lien": "https://www.google.com/maps/contrib/105513551589922482708/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25Zd1kxSm9kMGhsVEhoMk0yNTBTbXhMZUVGU01IYxAB!2m1!1s0x12b42d224804f8f9:0x1ed340644dde961a"
+      },
+      {
+        "note": 4,
+        "texte": "Les trompes l’œil sont très bons et bien réalisés. J’ai goûté ceux à la mangue, au citron, à la framboise, à la passion… Et ils étaient tous très bons. Il faut certes attendre un peu avant de les manger, mais si on s’y connaît en pâtisserie, c’est évident.\nQuelqu’un m’a offert une tablette de chocolat de Dubaï (à la pistache) et elle était franchement délicieuse aussi et surtout la quantité est énorme !\nLe prix est un peu élevé mais vous ne le regretterez pas.\nCependant, j’ai mit une étoile en moins car je n’ai pas trouvé le personnel très accueillant… J’ai presque eu l’impression de déranger. Je trouve que c’est dommage.",
+        "langue": "fr",
+        "date": "2025-08-27",
+        "auteur": "Flynn N",
+        "auteur_lien": "https://www.google.com/maps/contrib/116179354576393379062/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xOc1IzRXlkakJ4Y1ZGVU1GOVhiMnRSTFZkb1ZVRRAB!2m1!1s0x12b42d224804f8f9:0x1ed340644dde961a"
+      }
+    ]
+  },
+  "services": {
+    "releve": "2026-10-29",
+    "options": {
+      "takeout": true
+    },
+    "paiement": [
+      "carte bancaire",
+      "carte de débit",
+      "paiement sans contact"
+    ],
+    "parking": []
   }
 }

@@ -102,8 +102,8 @@
     "etat": "absent",
     "premiere_detection": null,
     "derniere_detection": null,
-    "derniere_verification": "2026-10-13T12:40:03.315Z",
-    "echecs": 1,
+    "derniere_verification": "2026-10-29T11:28:47.587Z",
+    "echecs": 2,
     "url_detectee": null
   },
   "suggestion": {
@@ -123,7 +123,7 @@
   "dates": {
     "collecte": "2026-10-13",
     "publication": "2026-10-13",
-    "maj": "2026-10-18"
+    "maj": "2026-10-29"
   },
   "source": "google-places",
   "redaction": {
@@ -131,14 +131,22 @@
     "titre": "Samada Arras ( XPO ) — Transport et déménagement à Dainville",
     "meta_titre": "Samada Arras ( XPO ) à Dainville : horaires, avis, téléphone",
     "meta_description": "Samada Arras ( XPO ), transport et déménagement à Dainville : horaires d'ouverture, note Google 4/5 (37 avis), téléphone, adresse et itinéraire.",
-    "chapo": "Cette fiche présente Samada Arras ( XPO ), un transport et déménagement au 21 Rue James Watt, à Dainville. Fermé le samedi et le dimanche au relevé du 13 octobre 2026. Téléphone : 03 21 71 83 79. Note Google : 4 sur 5 pour 37 avis.",
+    "chapo": "Cette fiche présente Samada Arras ( XPO ), un transport et déménagement au 21 Rue James Watt, à Dainville. Fermé le samedi et le dimanche au relevé du 29 octobre 2026. Téléphone : 03 21 71 83 79. Note Google : 4 sur 5 pour 37 avis.",
     "sections": [
       {
         "id": "presentation",
         "titre": "Samada Arras ( XPO ) en quelques mots",
         "paragraphes": [
           "Sur Google, l'établissement est classé « Entreprise de déménagement », dans notre rubrique Transport et déménagement.",
-          "D'après le relevé du 13 octobre 2026, l'établissement est fermé le samedi et le dimanche. Le détail jour par jour figure plus bas."
+          "D'après le relevé du 29 octobre 2026, l'établissement est fermé le samedi et le dimanche. Le détail jour par jour figure plus bas."
+        ]
+      },
+      {
+        "id": "prestations",
+        "titre": "Services et équipements de Samada Arras ( XPO )",
+        "paragraphes": [
+          "Proposé : toilettes.",
+          "Ces indications sont déclarées par l'établissement sur sa fiche Google (relevé du 29 octobre 2026)."
         ]
       },
       {
@@ -160,18 +168,18 @@
         "id": "avis",
         "titre": "La réputation de Samada Arras ( XPO )",
         "paragraphes": [
-          "Note de 4 sur 5 pour 37 avis Google au relevé du 13 octobre 2026. Les avis se consultent sur la fiche Google, dont le lien figure sur cette page."
+          "Note de 4 sur 5 pour 37 avis Google au relevé du 29 octobre 2026. Les avis les plus parlants sont compilés ci-dessous, avec un lien vers la fiche d'origine."
         ]
       }
     ],
     "faq": [
       {
         "q": "Quels sont les horaires de Samada Arras ( XPO ) ?",
-        "r": "Au relevé du 13 octobre 2026, Samada Arras ( XPO ) était fermé le samedi et le dimanche. Dans le détail — lundi : de 6 h à 18 h ; mardi : de 6 h à 18 h ; mercredi : de 6 h à 18 h ; jeudi : de 6 h à 18 h ; vendredi : de 6 h à 18 h ; samedi : fermé ; dimanche : fermé. Ces horaires peuvent changer : un appel préalable reste conseillé."
+        "r": "Au relevé du 29 octobre 2026, Samada Arras ( XPO ) était fermé le samedi et le dimanche. Dans le détail — lundi : de 6 h à 18 h ; mardi : de 6 h à 18 h ; mercredi : de 6 h à 18 h ; jeudi : de 6 h à 18 h ; vendredi : de 6 h à 18 h ; samedi : fermé ; dimanche : fermé. Ces horaires peuvent changer : un appel préalable reste conseillé."
       },
       {
         "q": "Samada Arras ( XPO ) est-il ouvert le dimanche ?",
-        "r": "Non : d'après les horaires relevés le 13 octobre 2026, Samada Arras ( XPO ) est fermé le dimanche."
+        "r": "Non : d'après les horaires relevés le 29 octobre 2026, Samada Arras ( XPO ) est fermé le dimanche."
       },
       {
         "q": "Où se trouve Samada Arras ( XPO ) ?",
@@ -186,7 +194,7 @@
         "r": "La fiche Google de l'établissement mentionne : « Parking accessible en fauteuil roulant ». Cette information est déclarative ; en cas de doute, vérifiez par téléphone."
       }
     ],
-    "genere_le": "2026-10-13"
+    "genere_le": "2026-10-29"
   },
   "statut_google": "OPERATIONAL",
   "audience": {
@@ -197,6 +205,64 @@
     "clicsRecents": 0,
     "fenetreRecenteJours": 28,
     "source": "search-console",
-    "date": "2026-10-28"
+    "date": "2026-10-29"
+  },
+  "avis_detail": {
+    "releve": "2026-10-29",
+    "liste": [
+      {
+        "note": 3,
+        "texte": "Toilette chauffeur, machine à café et micro onde, déchargement RAS",
+        "langue": "fr",
+        "date": "2026-06-11",
+        "auteur": "m Antoine",
+        "auteur_lien": "https://www.google.com/maps/contrib/103175790379560332935/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xGdVRuTXhNRTE2VHpreVdGY3hRVGhwUzNKUk1XYxAB!2m1!1s0x47dd465669e4c243:0xe108b8018f1dd64"
+      },
+      {
+        "note": 4,
+        "texte": "Distribution de produits pour les magasins monoprix ,naturalia et monop station (dans les gares )",
+        "langue": "fr",
+        "date": "2025-12-15",
+        "auteur": "Pilote Ducati",
+        "auteur_lien": "https://www.google.com/maps/contrib/115107958226356746921/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSURnc011Z1N3EAE!2m1!1s0x47dd465669e4c243:0xe108b8018f1dd64"
+      },
+      {
+        "note": 1,
+        "texte": "Prend ses intérimaire pour des bouches trou pas assez de protections ( casques ) pas d’amabilité je déconseille cette entreprise.",
+        "langue": "fr",
+        "date": "2023-07-27",
+        "auteur": "Lorenzo Rygusik",
+        "auteur_lien": "https://www.google.com/maps/contrib/114462341178644368358/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUNwOEstanNnRRAB!2m1!1s0x47dd465669e4c243:0xe108b8018f1dd64"
+      },
+      {
+        "note": 5,
+        "texte": "Un très bon accueil pour le déchargement des sapins en cette fin d'année",
+        "langue": "fr",
+        "date": "2022-11-26",
+        "auteur": "Jeanfrancois Guidard",
+        "auteur_lien": "https://www.google.com/maps/contrib/101981016935052502330/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUQtOG8yeV9RRRAB!2m1!1s0x47dd465669e4c243:0xe108b8018f1dd64"
+      },
+      {
+        "note": 4,
+        "texte": "Bon accueil 💁‍♂️ rapide déchargement",
+        "langue": "fr",
+        "date": "2022-05-24",
+        "auteur": "Mannu Bng",
+        "auteur_lien": "https://www.google.com/maps/contrib/103154121325390121675/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUQyMmE2ZVhREAE!2m1!1s0x47dd465669e4c243:0xe108b8018f1dd64"
+      }
+    ]
+  },
+  "services": {
+    "releve": "2026-10-29",
+    "options": {
+      "restroom": true
+    },
+    "paiement": [],
+    "parking": []
   }
 }

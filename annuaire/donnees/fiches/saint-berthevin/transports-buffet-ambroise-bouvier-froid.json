@@ -29,7 +29,7 @@
     "longitude": -0.8006289
   },
   "note": 3.9,
-  "avis": 137,
+  "avis": 138,
   "horaires": [
     {
       "jour": 0,
@@ -102,8 +102,8 @@
     "etat": "absent",
     "premiere_detection": null,
     "derniere_detection": null,
-    "derniere_verification": "2026-10-13T12:40:03.315Z",
-    "echecs": 1,
+    "derniere_verification": "2026-10-29T11:28:47.587Z",
+    "echecs": 2,
     "url_detectee": null
   },
   "suggestion": {
@@ -123,7 +123,7 @@
   "dates": {
     "collecte": "2026-10-13",
     "publication": "2026-10-13",
-    "maj": "2026-10-18"
+    "maj": "2026-10-29"
   },
   "source": "google-places",
   "redaction": {
@@ -131,14 +131,22 @@
     "titre": "TRANSPORTS BUFFET Ambroise Bouvier Froid — Transport et déménagement à Saint-Berthevin",
     "meta_titre": "TRANSPORTS BUFFET Ambroise Bouvier Froid à Saint-Berthevin",
     "meta_description": "TRANSPORTS BUFFET Ambroise Bouvier Froid, transport et déménagement à Saint-Berthevin : horaires d'ouverture, téléphone, adresse et itinéraire.",
-    "chapo": "TRANSPORTS BUFFET Ambroise Bouvier Froid est un transport et déménagement au 14 Rue des Giraumeries, à Saint-Berthevin. Fermé le samedi et le dimanche au relevé du 13 octobre 2026. Téléphone : 02 43 69 03 97. Note Google : 3,9 sur 5 pour 137 avis.",
+    "chapo": "TRANSPORTS BUFFET Ambroise Bouvier Froid est un transport et déménagement au 14 Rue des Giraumeries, à Saint-Berthevin. Fermé le samedi et le dimanche au relevé du 29 octobre 2026. Téléphone : 02 43 69 03 97. Note Google : 3,9 sur 5 pour 138 avis.",
     "sections": [
       {
         "id": "presentation",
         "titre": "TRANSPORTS BUFFET Ambroise Bouvier Froid en quelques mots",
         "paragraphes": [
           "Sur Google, l'établissement est classé « Entreprise de déménagement », dans notre rubrique Transport et déménagement.",
-          "D'après le relevé du 13 octobre 2026, l'établissement est fermé le samedi et le dimanche. Le détail jour par jour figure plus bas."
+          "D'après le relevé du 29 octobre 2026, l'établissement est fermé le samedi et le dimanche. Le détail jour par jour figure plus bas."
+        ]
+      },
+      {
+        "id": "prestations",
+        "titre": "Services et équipements de TRANSPORTS BUFFET Ambroise Bouvier Froid",
+        "paragraphes": [
+          "Proposé : toilettes.",
+          "Ces indications sont déclarées par l'établissement sur sa fiche Google (relevé du 29 octobre 2026)."
         ]
       },
       {
@@ -160,18 +168,18 @@
         "id": "avis",
         "titre": "La réputation de TRANSPORTS BUFFET Ambroise Bouvier Froid",
         "paragraphes": [
-          "Note de 3,9 sur 5 pour 137 avis Google au relevé du 13 octobre 2026. Les avis se consultent sur la fiche Google, dont le lien figure sur cette page."
+          "Note de 3,9 sur 5 pour 138 avis Google au relevé du 29 octobre 2026. Les avis les plus parlants sont compilés ci-dessous, avec un lien vers la fiche d'origine."
         ]
       }
     ],
     "faq": [
       {
         "q": "Quels sont les horaires de TRANSPORTS BUFFET Ambroise Bouvier Froid ?",
-        "r": "Au relevé du 13 octobre 2026, TRANSPORTS BUFFET Ambroise Bouvier Froid était fermé le samedi et le dimanche. Dans le détail — lundi : de 8 h à 18 h ; mardi : de 8 h à 18 h ; mercredi : de 8 h à 18 h ; jeudi : de 8 h à 18 h ; vendredi : de 8 h à 18 h ; samedi : fermé ; dimanche : fermé. Ces horaires peuvent changer : un appel préalable reste conseillé."
+        "r": "Au relevé du 29 octobre 2026, TRANSPORTS BUFFET Ambroise Bouvier Froid était fermé le samedi et le dimanche. Dans le détail — lundi : de 8 h à 18 h ; mardi : de 8 h à 18 h ; mercredi : de 8 h à 18 h ; jeudi : de 8 h à 18 h ; vendredi : de 8 h à 18 h ; samedi : fermé ; dimanche : fermé. Ces horaires peuvent changer : un appel préalable reste conseillé."
       },
       {
         "q": "TRANSPORTS BUFFET Ambroise Bouvier Froid est-il ouvert le dimanche ?",
-        "r": "Non : d'après les horaires relevés le 13 octobre 2026, TRANSPORTS BUFFET Ambroise Bouvier Froid est fermé le dimanche."
+        "r": "Non : d'après les horaires relevés le 29 octobre 2026, TRANSPORTS BUFFET Ambroise Bouvier Froid est fermé le dimanche."
       },
       {
         "q": "Où se trouve TRANSPORTS BUFFET Ambroise Bouvier Froid ?",
@@ -186,7 +194,7 @@
         "r": "La fiche Google de l'établissement mentionne : « Parking accessible en fauteuil roulant ». Cette information est déclarative ; en cas de doute, vérifiez par téléphone."
       }
     ],
-    "genere_le": "2026-10-13"
+    "genere_le": "2026-10-29"
   },
   "statut_google": "OPERATIONAL",
   "audience": {
@@ -197,6 +205,64 @@
     "clicsRecents": 0,
     "fenetreRecenteJours": 28,
     "source": "search-console",
-    "date": "2026-10-28"
+    "date": "2026-10-29"
+  },
+  "avis_detail": {
+    "releve": "2026-10-29",
+    "liste": [
+      {
+        "note": 5,
+        "texte": "Tres accueillant,tout le monde est gentil souriant avenant et respecteux contrairement a d autres non respectueux et mal polis avec les chauffeurs",
+        "langue": "fr",
+        "date": "2026-08-01",
+        "auteur": "L’tof",
+        "auteur_lien": "https://www.google.com/maps/contrib/101231456448731148845/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25NNVJYcG5Tamc0ZEcwMlZVOTBkWFZEVm5abVRXYxAB!2m1!1s0x4808fd0befd04b8b:0xb66af78626dba49a"
+      },
+      {
+        "note": 1,
+        "texte": "Cette après-midi sur la route\n, Anglier direction Mirebeau ( 86 )  à 14h50 15h00\nUn de vos chauffeur fait un dépassement sur une ligne blanche  . Dépassent un véhicule type trafic\nPuis une semie  puis un autre véhicule enfin un tracteur  . Après il zigzag pour empêcher le trafic qu'il venait de dépassé une minute avant  .\nDommage j'ai oublié dans mon véhicule la plaque Immatriculation que j'ai relevé  .\nDemain je le communique\nNuméro de la semie\n( ER -040 - CG )",
+        "langue": "fr",
+        "date": "2025-03-07",
+        "auteur": "guy auer",
+        "auteur_lien": "https://www.google.com/maps/contrib/108206963760994215873/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnTUNRbWNPRHN3RRAB!2m1!1s0x4808fd0befd04b8b:0xb66af78626dba49a"
+      },
+      {
+        "note": 1,
+        "texte": "Entreprise de merde , Directrice de merde.\nDes employés raciste. Impolie (pas de bonjour, ni au revoir)\nSi vous travaillez là bas sachez que vous allez être des esclaves pour eux\nCette entreprise va coulé au fil du temps !",
+        "langue": "fr",
+        "date": "2025-03-04",
+        "auteur": "Ronaldo Samarapaty",
+        "auteur_lien": "https://www.google.com/maps/contrib/112918374572990992443/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnTUNRanRUU2hnRRAB!2m1!1s0x4808fd0befd04b8b:0xb66af78626dba49a"
+      },
+      {
+        "note": 1,
+        "texte": "Des chauffeurs qui visiblement ont acheté la route et du coup se garent ou ils veulent. Surtout à des endroits où ça gêne. Et qui en plus se permettent d'être insultant quand on leur fait la remarque. Faut pas se plaindre de la mauvaise image des chauffeurs quand on voit certains comportements !",
+        "langue": "fr",
+        "date": "2023-12-06",
+        "auteur": "Re",
+        "auteur_lien": "https://www.google.com/maps/contrib/112597111830434999754/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUNWa3BYa3RRRRAB!2m1!1s0x4808fd0befd04b8b:0xb66af78626dba49a"
+      },
+      {
+        "note": 1,
+        "texte": "Surveillez vos chauffeurs qui roulent comme des sauvages sur des portions à 70km/h. A peine engagé sur une voie il est arrivé comme un furieux derrière moi avec klaxonne, plein phare et doigts d'honneur à la clé, belle mentalité. Rappelez leur le code de la route et la politesse merci.",
+        "langue": "fr",
+        "date": "2023-03-09",
+        "auteur": "Pierre-Alain Joly",
+        "auteur_lien": "https://www.google.com/maps/contrib/111218856070404365540/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSURobnVPU0dBEAE!2m1!1s0x4808fd0befd04b8b:0xb66af78626dba49a"
+      }
+    ]
+  },
+  "services": {
+    "releve": "2026-10-29",
+    "options": {
+      "restroom": true
+    },
+    "paiement": [],
+    "parking": []
   }
 }

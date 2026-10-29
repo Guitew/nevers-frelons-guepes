@@ -37,7 +37,7 @@
     "longitude": 1.6381552
   },
   "note": 4.8,
-  "avis": 34,
+  "avis": 35,
   "horaires": [
     {
       "jour": 0,
@@ -145,8 +145,8 @@
     "etat": "absent",
     "premiere_detection": null,
     "derniere_detection": null,
-    "derniere_verification": "2026-10-13T12:40:03.315Z",
-    "echecs": 2,
+    "derniere_verification": "2026-10-29T11:28:47.587Z",
+    "echecs": 3,
     "url_detectee": null
   },
   "suggestion": {
@@ -159,22 +159,31 @@
   "dates": {
     "collecte": "2026-10-09",
     "publication": "2026-10-09",
-    "maj": "2026-10-13"
+    "maj": "2026-10-29"
   },
   "source": "google-places",
   "redaction": {
     "version": 2,
     "titre": "Le Relais Saint-Maurois — Menuiserie et serrurerie à Saint-Maur",
     "meta_titre": "Le Relais Saint-Maurois à Saint-Maur : horaires, avis",
-    "meta_description": "Le Relais Saint-Maurois, menuiserie et serrurerie à Saint-Maur : horaires d'ouverture, note Google 4,8/5 (34 avis), téléphone, adresse et itinéraire.",
-    "chapo": "Le Relais Saint-Maurois est une menuiserie et serrurerie au 20 Place de l'Église, à Saint-Maur. Ouvert sept jours sur sept au relevé du 13 octobre 2026. Téléphone : 02 54 34 40 65. Note Google : 4,8 sur 5 pour 34 avis.",
+    "meta_description": "Le Relais Saint-Maurois, menuiserie et serrurerie à Saint-Maur : horaires d'ouverture, note Google 4,8/5 (35 avis), téléphone, adresse et itinéraire.",
+    "chapo": "Le Relais Saint-Maurois est une menuiserie et serrurerie au 20 Place de l'Église, à Saint-Maur. Ouvert sept jours sur sept au relevé du 29 octobre 2026. Téléphone : 02 54 34 40 65. Note Google : 4,8 sur 5 pour 35 avis.",
     "sections": [
       {
         "id": "presentation",
         "titre": "Le Relais Saint-Maurois en quelques mots",
         "paragraphes": [
           "Sur Google, l'établissement est classé « Magasin », dans notre rubrique Menuiserie et serrurerie.",
-          "D'après le relevé du 13 octobre 2026, l'établissement est ouvert sept jours sur sept. Le détail jour par jour figure plus bas."
+          "D'après le relevé du 29 octobre 2026, l'établissement est ouvert sept jours sur sept. Le détail jour par jour figure plus bas."
+        ]
+      },
+      {
+        "id": "prestations",
+        "titre": "Services et équipements de Le Relais Saint-Maurois",
+        "paragraphes": [
+          "Non proposé selon la fiche Google : livraison.",
+          "Moyens de paiement déclarés : carte bancaire, carte de débit et paiement sans contact.",
+          "Ces indications sont déclarées par l'établissement sur sa fiche Google (relevé du 29 octobre 2026)."
         ]
       },
       {
@@ -196,18 +205,18 @@
         "id": "avis",
         "titre": "La réputation de Le Relais Saint-Maurois",
         "paragraphes": [
-          "Note de 4,8 sur 5 pour 34 avis Google au relevé du 13 octobre 2026. Les avis se consultent sur la fiche Google, dont le lien figure sur cette page."
+          "Note de 4,8 sur 5 pour 35 avis Google au relevé du 29 octobre 2026. Les avis les plus parlants sont compilés ci-dessous, avec un lien vers la fiche d'origine."
         ]
       }
     ],
     "faq": [
       {
         "q": "Quels sont les horaires de Le Relais Saint-Maurois ?",
-        "r": "Au relevé du 13 octobre 2026, Le Relais Saint-Maurois était ouvert sept jours sur sept. Dans le détail — lundi : de 7 h à 12 h 30 et de 15 h à 19 h 30 ; mardi : de 7 h à 12 h 30 et de 15 h à 19 h 30 ; mercredi : de 7 h à 12 h 30 et de 15 h à 19 h 30 ; jeudi : de 7 h à 12 h 30 et de 15 h à 19 h 30 ; vendredi : de 7 h à 12 h 30 et de 15 h à 19 h 30 ; samedi : de 7 h à 12 h 30 et de 15 h à 19 h 30 ; dimanche : de 8 h 30 à 12 h 30. Ces horaires peuvent changer : un appel préalable reste conseillé."
+        "r": "Au relevé du 29 octobre 2026, Le Relais Saint-Maurois était ouvert sept jours sur sept. Dans le détail — lundi : de 7 h à 12 h 30 et de 15 h à 19 h 30 ; mardi : de 7 h à 12 h 30 et de 15 h à 19 h 30 ; mercredi : de 7 h à 12 h 30 et de 15 h à 19 h 30 ; jeudi : de 7 h à 12 h 30 et de 15 h à 19 h 30 ; vendredi : de 7 h à 12 h 30 et de 15 h à 19 h 30 ; samedi : de 7 h à 12 h 30 et de 15 h à 19 h 30 ; dimanche : de 8 h 30 à 12 h 30. Ces horaires peuvent changer : un appel préalable reste conseillé."
       },
       {
         "q": "Le Relais Saint-Maurois est-il ouvert le dimanche ?",
-        "r": "Oui : le dimanche, Le Relais Saint-Maurois est ouvert de 8 h 30 à 12 h 30 (horaires relevés le 13 octobre 2026)."
+        "r": "Oui : le dimanche, Le Relais Saint-Maurois est ouvert de 8 h 30 à 12 h 30 (horaires relevés le 29 octobre 2026)."
       },
       {
         "q": "Où se trouve Le Relais Saint-Maurois ?",
@@ -218,11 +227,15 @@
         "r": "Par téléphone au 02 54 34 40 65, ou directement sur place aux heures d'ouverture."
       },
       {
+        "q": "Le Relais Saint-Maurois propose-t-il la vente à emporter ou la livraison ?",
+        "r": "D'après sa fiche Google (relevé du 29 octobre 2026) — livraison : non."
+      },
+      {
         "q": "Le Relais Saint-Maurois est-il accessible aux personnes à mobilité réduite ?",
         "r": "La fiche Google de l'établissement mentionne : « Entrée accessible en fauteuil roulant ». Cette information est déclarative ; en cas de doute, vérifiez par téléphone."
       }
     ],
-    "genere_le": "2026-10-13"
+    "genere_le": "2026-10-29"
   },
   "statut_google": "OPERATIONAL",
   "audience": {
@@ -233,6 +246,68 @@
     "clicsRecents": 0,
     "fenetreRecenteJours": 28,
     "source": "search-console",
-    "date": "2026-10-28"
+    "date": "2026-10-29"
+  },
+  "avis_detail": {
+    "releve": "2026-10-29",
+    "liste": [
+      {
+        "note": 5,
+        "texte": "Bien situé hyper sympa on peut même y prendre un café sur petite terrasse extérieure le dimanche.",
+        "langue": "fr",
+        "date": "2026-10-17",
+        "auteur": "Maya av",
+        "auteur_lien": "https://www.google.com/maps/contrib/102706512905241983452/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xVeVJEQnhNakJEU0U5amRIRjBhME10VDBOc1IzYxAB!2m1!1s0x47fba00d9c0fe62f:0x356392c88938bc09"
+      },
+      {
+        "note": 5,
+        "texte": "Vous trouverez, dans ce lieux très bien situé, avec beaucoup de places, pour se garer, de multiples services : Relay, affranchissement postal, ravitaillement...en plus de ce qu'offre un tabac traditionnel.\nAjoutez à cela l'accueil sympathique du patron, et vous avez une pépite au cœur de ce petit village.",
+        "langue": "fr",
+        "date": "2026-05-07",
+        "auteur": "Isabelle V",
+        "auteur_lien": "https://www.google.com/maps/contrib/112057277737002131491/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT21KTU5FdHpWV1ZIU2pGTWEwbDVkalZZVkdSZlZtYxAB!2m1!1s0x47fba00d9c0fe62f:0x356392c88938bc09"
+      },
+      {
+        "note": 5,
+        "texte": "Le personnel du point Relais Saint-Maurois est très accueillant et de bon service.\nLors de l'envoi d'un colis un problème est survenu ,le responsable l'a résolu m'evitant d'effectuer plus de 20kms et tout cela avec le sourire bien que pressé par le temps.\nEncore merci",
+        "langue": "fr",
+        "date": "2025-08-16",
+        "auteur": "Jean Claude Rabier",
+        "auteur_lien": "https://www.google.com/maps/contrib/109929755869853360661/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2tOdVlVMVJlR2g1Y25aYVptNVVSbEpCVG5jNVRuYxAB!2m1!1s0x47fba00d9c0fe62f:0x356392c88938bc09"
+      },
+      {
+        "note": 5,
+        "texte": "Point relais très pro et serviable, impossible de modifier mon numéro de téléphone via le smartphone sur le site de mondial Relay,le gérant à pris le temps de  m'aider et l'a fait depuis son pc, gestion de dépôt et retrait des colis au top même si il y a un Locker dans ma commune, j' en profite pour y aller en allant à Châteauroux.",
+        "langue": "fr",
+        "date": "2025-05-24",
+        "auteur": "Cédric",
+        "auteur_lien": "https://www.google.com/maps/contrib/101742126193396028086/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VPWENuSmpFM2VfZDB3RRAB!2m1!1s0x47fba00d9c0fe62f:0x356392c88938bc09"
+      },
+      {
+        "note": 5,
+        "texte": "Patron très agréable, à l'écoute des besoins de ses clients. Si tout les patrons étaient comme lui ça serait génial. Très compréhensif quand le client ne peut pas venir chercher tout de suite sa commande, il l'a met de côté en attendant le client. Patron au top du top.",
+        "langue": "fr",
+        "date": "2022-06-02",
+        "auteur": "Cindy RICHOUX-BABUCHON",
+        "auteur_lien": "https://www.google.com/maps/contrib/116854885500455655411/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUNPNUp5c3Z3RRAB!2m1!1s0x47fba00d9c0fe62f:0x356392c88938bc09"
+      }
+    ]
+  },
+  "services": {
+    "releve": "2026-10-29",
+    "options": {
+      "delivery": false
+    },
+    "paiement": [
+      "carte bancaire",
+      "carte de débit",
+      "paiement sans contact"
+    ],
+    "parking": []
   }
 }

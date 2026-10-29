@@ -106,8 +106,8 @@
     "etat": "absent",
     "premiere_detection": null,
     "derniere_detection": null,
-    "derniere_verification": "2026-10-13T12:40:03.315Z",
-    "echecs": 9,
+    "derniere_verification": "2026-10-29T11:28:47.587Z",
+    "echecs": 10,
     "url_detectee": null
   },
   "suggestion": {
@@ -120,7 +120,7 @@
   "dates": {
     "collecte": "2026-10-02",
     "publication": "2026-10-02",
-    "maj": "2026-10-13"
+    "maj": "2026-10-29"
   },
   "source": "google-places",
   "redaction": {
@@ -128,14 +128,26 @@
     "titre": "Le Chiquito — Café ou bar à Saint-Brieuc",
     "meta_titre": "Le Chiquito à Saint-Brieuc : horaires, avis, téléphone",
     "meta_description": "Le Chiquito, café ou bar à Saint-Brieuc : horaires d'ouverture, note Google 4/5 (183 avis), téléphone, adresse et itinéraire.",
-    "chapo": "Le Chiquito exerce l'activité de café ou bar au 2 Boulevard de la Tour d'Auvergne, à Saint-Brieuc. Ouvert tous les jours sauf le jeudi au relevé du 13 octobre 2026. Téléphone : 02 96 94 31 32. Note Google : 4 sur 5 pour 183 avis.",
+    "chapo": "Le Chiquito exerce l'activité de café ou bar au 2 Boulevard de la Tour d'Auvergne, à Saint-Brieuc. Ouvert tous les jours sauf le jeudi au relevé du 29 octobre 2026. Téléphone : 02 96 94 31 32. Note Google : 4 sur 5 pour 183 avis.",
     "sections": [
       {
         "id": "presentation",
         "titre": "Le Chiquito en quelques mots",
         "paragraphes": [
           "Sur Google, l'établissement est classé « Bar », dans notre rubrique Café ou bar.",
-          "D'après le relevé du 13 octobre 2026, l'établissement est ouvert tous les jours sauf le jeudi. Le détail jour par jour figure plus bas."
+          "Niveau de prix indiqué sur la fiche Google : € (bon marché).",
+          "D'après le relevé du 29 octobre 2026, l'établissement est ouvert tous les jours sauf le jeudi. Le détail jour par jour figure plus bas."
+        ]
+      },
+      {
+        "id": "prestations",
+        "titre": "Services et équipements de Le Chiquito",
+        "paragraphes": [
+          "Proposé : bière, vin, cocktails, adapté aux groupes et toilettes.",
+          "Non proposé selon la fiche Google : livraison, réservation possible, terrasse, adapté aux enfants et musique live.",
+          "Moyens de paiement déclarés : carte bancaire, carte de débit et paiement sans contact.",
+          "Stationnement : parking gratuit.",
+          "Ces indications sont déclarées par l'établissement sur sa fiche Google (relevé du 29 octobre 2026)."
         ]
       },
       {
@@ -157,18 +169,18 @@
         "id": "avis",
         "titre": "La réputation de Le Chiquito",
         "paragraphes": [
-          "Note de 4 sur 5 pour 183 avis Google au relevé du 13 octobre 2026. Les avis se consultent sur la fiche Google, dont le lien figure sur cette page."
+          "Note de 4 sur 5 pour 183 avis Google au relevé du 29 octobre 2026. Les avis les plus parlants sont compilés ci-dessous, avec un lien vers la fiche d'origine."
         ]
       }
     ],
     "faq": [
       {
         "q": "Quels sont les horaires de Le Chiquito ?",
-        "r": "Au relevé du 13 octobre 2026, Le Chiquito était ouvert tous les jours sauf le jeudi. Dans le détail — lundi : de 6 h 30 à 21 h ; mardi : de 6 h 30 à 21 h ; mercredi : de 6 h 30 à 21 h ; jeudi : fermé ; vendredi : de 6 h 30 à 21 h ; samedi : de 6 h 30 à 21 h ; dimanche : de 8 h à 20 h. Ces horaires peuvent changer : un appel préalable reste conseillé."
+        "r": "Au relevé du 29 octobre 2026, Le Chiquito était ouvert tous les jours sauf le jeudi. Dans le détail — lundi : de 6 h 30 à 21 h ; mardi : de 6 h 30 à 21 h ; mercredi : de 6 h 30 à 21 h ; jeudi : fermé ; vendredi : de 6 h 30 à 21 h ; samedi : de 6 h 30 à 21 h ; dimanche : de 8 h à 20 h. Ces horaires peuvent changer : un appel préalable reste conseillé."
       },
       {
         "q": "Le Chiquito est-il ouvert le dimanche ?",
-        "r": "Oui : le dimanche, Le Chiquito est ouvert de 8 h à 20 h (horaires relevés le 13 octobre 2026)."
+        "r": "Oui : le dimanche, Le Chiquito est ouvert de 8 h à 20 h (horaires relevés le 29 octobre 2026)."
       },
       {
         "q": "Où se trouve Le Chiquito ?",
@@ -179,21 +191,107 @@
         "r": "Par téléphone au 02 96 94 31 32, ou directement sur place aux heures d'ouverture."
       },
       {
+        "q": "Peut-on réserver chez Le Chiquito ?",
+        "r": "La fiche Google de Le Chiquito indique que la réservation n'est pas proposée."
+      },
+      {
+        "q": "Le Chiquito propose-t-il la vente à emporter ou la livraison ?",
+        "r": "D'après sa fiche Google (relevé du 29 octobre 2026) — livraison : non."
+      },
+      {
+        "q": "Quel est le niveau de prix de Le Chiquito ?",
+        "r": "Google classe Le Chiquito au niveau de prix € (bon marché), sur une échelle de € à €€€€ établie à partir des avis clients."
+      },
+      {
         "q": "Le Chiquito est-il accessible aux personnes à mobilité réduite ?",
         "r": "La fiche Google de l'établissement mentionne : « Entrée accessible en fauteuil roulant ». Cette information est déclarative ; en cas de doute, vérifiez par téléphone."
       }
     ],
-    "genere_le": "2026-10-13"
+    "genere_le": "2026-10-29"
   },
   "statut_google": "OPERATIONAL",
   "audience": {
     "clics": 1,
-    "impressions": 117,
-    "position": 7.5,
+    "impressions": 135,
+    "position": 7.3,
     "fenetreJours": 90,
     "clicsRecents": 1,
     "fenetreRecenteJours": 28,
     "source": "search-console",
-    "date": "2026-10-28"
+    "date": "2026-10-29"
+  },
+  "avis_detail": {
+    "releve": "2026-10-29",
+    "liste": [
+      {
+        "note": 5,
+        "texte": "Je recommande cette endroit avec ++\nLes personnels sont accueillant et le service rien à redire et tous sa avec le sourire\n🙏🏻☺️",
+        "langue": "fr",
+        "date": "2026-10-02",
+        "auteur": "Dorine Gauvry",
+        "auteur_lien": "https://www.google.com/maps/contrib/113962550933007244925/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25Kb04wNUJjMmRHUlVjeFpHOUVlR1pxVlZacFFXYxAB!2m1!1s0x480e1d5b1c20e65f:0x569e03cc6d0d683"
+      },
+      {
+        "note": 5,
+        "texte": "Etablissement accueillant et chaleureux - a venir en famille et entre amis - les personnes qui nous servent sont aimables et serviables repondant a toutes nos demandes - colis, ticket de bus, loto et jeux vraiment parfait - je vous le conseille",
+        "langue": "fr",
+        "date": "2026-07-28",
+        "auteur": "Nadege Le Bouvier",
+        "auteur_lien": "https://www.google.com/maps/contrib/117700355909514058492/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT210UFozSkNjbmxtTW10M1VUZFVUbVZvVmtsSFpIYxAB!2m1!1s0x480e1d5b1c20e65f:0x569e03cc6d0d683"
+      },
+      {
+        "note": 1,
+        "texte": "Un dimanche matin qui commence mal horaire incorrect ce n’est pas à 7h que ça ouvre mais à 8h",
+        "langue": "fr",
+        "date": "2026-04-26",
+        "auteur": "Lechat",
+        "auteur_lien": "https://www.google.com/maps/contrib/115501302782961110431/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2psQlpWRmZUalp0TjBkSVpGOHlkV2xSVEdNMlZIYxAB!2m1!1s0x480e1d5b1c20e65f:0x569e03cc6d0d683"
+      },
+      {
+        "note": 5,
+        "texte": "Caroline et Maria sont très aimables, toujours le sourire. Un établissement qui toujours beaucoup de clients, signe d’un bon accueil et de la qualité des différents services. Bravo à vous! Ne changez rien",
+        "langue": "fr",
+        "date": "2026-03-07",
+        "auteur": "Olivier Poyen",
+        "auteur_lien": "https://www.google.com/maps/contrib/100561920960328023663/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xoTVVpMDNTMmx2T1hsUFgybGpRMFJMTldwelZFRRAB!2m1!1s0x480e1d5b1c20e65f:0x569e03cc6d0d683"
+      },
+      {
+        "note": 5,
+        "texte": "Bon bureau de tabac avec pizza fraîche et boissons à emporter. Et aussi la FDJ pour le loto et +. Personnels super efficaces et très aimables. Fermer le jeudi. Ouvert de 6'30 à 21'00",
+        "langue": "fr",
+        "date": "2024-10-11",
+        "auteur": "Cyril",
+        "auteur_lien": "https://www.google.com/maps/contrib/110267853422122887368/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSURudDc3a2NREAE!2m1!1s0x480e1d5b1c20e65f:0x569e03cc6d0d683"
+      }
+    ]
+  },
+  "services": {
+    "releve": "2026-10-29",
+    "prix": "PRICE_LEVEL_INEXPENSIVE",
+    "options": {
+      "delivery": false,
+      "reservable": false,
+      "outdoorSeating": false,
+      "servesBeer": true,
+      "servesWine": true,
+      "servesCocktails": true,
+      "goodForChildren": false,
+      "goodForGroups": true,
+      "liveMusic": false,
+      "restroom": true
+    },
+    "paiement": [
+      "carte bancaire",
+      "carte de débit",
+      "paiement sans contact"
+    ],
+    "parking": [
+      "parking gratuit"
+    ]
   }
 }

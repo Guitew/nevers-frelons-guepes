@@ -110,15 +110,15 @@
     "etat": "absent",
     "premiere_detection": null,
     "derniere_detection": null,
-    "derniere_verification": "2026-10-13T12:40:03.315Z",
-    "echecs": 69,
+    "derniere_verification": "2026-10-29T11:28:47.587Z",
+    "echecs": 70,
     "url_detectee": null
   },
   "retrait": null,
   "dates": {
     "collecte": "2026-08-30",
     "publication": "2026-08-30",
-    "maj": "2026-10-13"
+    "maj": "2026-10-29"
   },
   "source": "google-places",
   "redaction": {
@@ -126,14 +126,25 @@
     "titre": "Le Pré Fleuri — Café ou bar à Sermoise-sur-Loire",
     "meta_titre": "Le Pré Fleuri à Sermoise-sur-Loire : horaires, avis",
     "meta_description": "Le Pré Fleuri, café ou bar à Sermoise-sur-Loire : horaires d'ouverture, note Google 4,1/5 (29 avis), téléphone, adresse et itinéraire.",
-    "chapo": "Le Pré Fleuri, café ou bar au 16 Route de Lyon, à Sermoise-sur-Loire. Ouvert sept jours sur sept au relevé du 13 octobre 2026. Téléphone : 03 86 21 27 32. Note Google : 4,1 sur 5 pour 29 avis.",
+    "chapo": "Le Pré Fleuri, café ou bar au 16 Route de Lyon, à Sermoise-sur-Loire. Ouvert sept jours sur sept au relevé du 29 octobre 2026. Téléphone : 03 86 21 27 32. Note Google : 4,1 sur 5 pour 29 avis.",
     "sections": [
       {
         "id": "presentation",
         "titre": "Le Pré Fleuri en quelques mots",
         "paragraphes": [
           "Sur Google, l'établissement est classé « Bar », dans notre rubrique Café ou bar.",
-          "D'après le relevé du 13 octobre 2026, l'établissement est ouvert sept jours sur sept. Le détail jour par jour figure plus bas."
+          "D'après le relevé du 29 octobre 2026, l'établissement est ouvert sept jours sur sept. Le détail jour par jour figure plus bas."
+        ]
+      },
+      {
+        "id": "prestations",
+        "titre": "Services et équipements de Le Pré Fleuri",
+        "paragraphes": [
+          "Proposé : bière, vin, cocktails et toilettes.",
+          "Non proposé selon la fiche Google : livraison.",
+          "Moyens de paiement déclarés : carte bancaire, carte de débit et paiement sans contact.",
+          "Stationnement : stationnement gratuit dans la rue.",
+          "Ces indications sont déclarées par l'établissement sur sa fiche Google (relevé du 29 octobre 2026)."
         ]
       },
       {
@@ -155,18 +166,18 @@
         "id": "avis",
         "titre": "La réputation de Le Pré Fleuri",
         "paragraphes": [
-          "Note de 4,1 sur 5 pour 29 avis Google au relevé du 13 octobre 2026. Les avis se consultent sur la fiche Google, dont le lien figure sur cette page."
+          "Note de 4,1 sur 5 pour 29 avis Google au relevé du 29 octobre 2026. Les avis les plus parlants sont compilés ci-dessous, avec un lien vers la fiche d'origine."
         ]
       }
     ],
     "faq": [
       {
         "q": "Quels sont les horaires de Le Pré Fleuri ?",
-        "r": "Au relevé du 13 octobre 2026, Le Pré Fleuri était ouvert sept jours sur sept. Dans le détail — lundi : de 9 h à 19 h 30 ; mardi : de 9 h à 19 h 30 ; mercredi : de 9 h à 19 h 30 ; jeudi : de 8 h 30 à 21 h ; vendredi : de 8 h 30 à 21 h ; samedi : de 8 h 30 à 21 h ; dimanche : de 10 h à 12 h 30. Ces horaires peuvent changer : un appel préalable reste conseillé."
+        "r": "Au relevé du 29 octobre 2026, Le Pré Fleuri était ouvert sept jours sur sept. Dans le détail — lundi : de 9 h à 19 h 30 ; mardi : de 9 h à 19 h 30 ; mercredi : de 9 h à 19 h 30 ; jeudi : de 8 h 30 à 21 h ; vendredi : de 8 h 30 à 21 h ; samedi : de 8 h 30 à 21 h ; dimanche : de 10 h à 12 h 30. Ces horaires peuvent changer : un appel préalable reste conseillé."
       },
       {
         "q": "Le Pré Fleuri est-il ouvert le dimanche ?",
-        "r": "Oui : le dimanche, Le Pré Fleuri est ouvert de 10 h à 12 h 30 (horaires relevés le 13 octobre 2026)."
+        "r": "Oui : le dimanche, Le Pré Fleuri est ouvert de 10 h à 12 h 30 (horaires relevés le 29 octobre 2026)."
       },
       {
         "q": "Où se trouve Le Pré Fleuri ?",
@@ -177,11 +188,15 @@
         "r": "Par téléphone au 03 86 21 27 32, ou directement sur place aux heures d'ouverture."
       },
       {
+        "q": "Le Pré Fleuri propose-t-il la vente à emporter ou la livraison ?",
+        "r": "D'après sa fiche Google (relevé du 29 octobre 2026) — livraison : non."
+      },
+      {
         "q": "Le Pré Fleuri est-il accessible aux personnes à mobilité réduite ?",
         "r": "La fiche Google de l'établissement mentionne : « Entrée accessible en fauteuil roulant ». Cette information est déclarative ; en cas de doute, vérifiez par téléphone."
       }
     ],
-    "genere_le": "2026-10-13"
+    "genere_le": "2026-10-29"
   },
   "suggestion": {
     "etat": "soumise",
@@ -197,7 +212,7 @@
     "clicsRecents": 1,
     "fenetreRecenteJours": 28,
     "source": "search-console",
-    "date": "2026-10-28"
+    "date": "2026-10-29"
   },
   "indexation": {
     "etat": "indexee",
@@ -206,6 +221,74 @@
     "derniere_exploration": null,
     "canonique_google": null,
     "source": "impressions",
-    "date": "2026-10-28"
+    "date": "2026-10-29"
+  },
+  "avis_detail": {
+    "releve": "2026-10-29",
+    "liste": [
+      {
+        "note": 1,
+        "texte": "Le bar qui tien le bar de la plage a nevers plage ! Service déplorable une serveuse (morgane) mal polie très hautaine qui ne sais visiblement pas compter ! Je ne recommande pas !",
+        "langue": "fr",
+        "date": "2023-08-08",
+        "auteur": "Carla Quinn",
+        "auteur_lien": "https://www.google.com/maps/contrib/104964701392708249358/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUNwM2RMcU9nEAE!2m1!1s0x47f04f789c329acd:0x12ad58fa6338c0bc"
+      },
+      {
+        "note": 5,
+        "texte": "Les propriétaires, très sympathiques, ont privatisé leur salle pour notre club et ont confectionné l'ensemble du pot de fin de réunion.\nC'était copieux, de belle facture, frais, délicieux et varié (tartelettes salées en tous genres, charcuteries diverses avec accompagnements, fromages divers et tartes aux pommes.. + kir, jus d'orange, eau..).\nJe recommande et je retiens pour une prochaine fois.\n👍👍👍👍👍👏👏👏👏👏",
+        "langue": "fr",
+        "date": "2023-03-11",
+        "auteur": "Lydie Marty",
+        "auteur_lien": "https://www.google.com/maps/contrib/107013851269858798921/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSURoaVpMRENnEAE!2m1!1s0x47f04f789c329acd:0x12ad58fa6338c0bc"
+      },
+      {
+        "note": 5,
+        "texte": "très bon accueil très conviviale",
+        "langue": "fr",
+        "date": "2023-02-02",
+        "auteur": "Patrick Lemaitre (Mes Patrick)",
+        "auteur_lien": "https://www.google.com/maps/contrib/100781863447487713420/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUNoa0tULWxBRRAB!2m1!1s0x47f04f789c329acd:0x12ad58fa6338c0bc"
+      },
+      {
+        "note": 4,
+        "texte": "Bar sympa a découvrir calme jeu et boisson pas cher et les soir de match bonne ambiance avec des supporters sympa",
+        "langue": "fr",
+        "date": "2023-01-04",
+        "auteur": "Didier Michel",
+        "auteur_lien": "https://www.google.com/maps/contrib/105724547187209950118/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUNCcS1XQkF3EAE!2m1!1s0x47f04f789c329acd:0x12ad58fa6338c0bc"
+      },
+      {
+        "note": 4,
+        "texte": "Accueil sympa, je ne suis pas resté longtemps, j'ai juste bu un diabolo menthe en terrasse",
+        "langue": "fr",
+        "date": "2020-07-15",
+        "auteur": "Benoît C",
+        "auteur_lien": "https://www.google.com/maps/contrib/109106544108901767404/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUM4czVuVktREAE!2m1!1s0x47f04f789c329acd:0x12ad58fa6338c0bc"
+      }
+    ]
+  },
+  "services": {
+    "releve": "2026-10-29",
+    "options": {
+      "delivery": false,
+      "servesBeer": true,
+      "servesWine": true,
+      "servesCocktails": true,
+      "restroom": true
+    },
+    "paiement": [
+      "carte bancaire",
+      "carte de débit",
+      "paiement sans contact"
+    ],
+    "parking": [
+      "stationnement gratuit dans la rue"
+    ]
   }
 }

@@ -112,8 +112,8 @@
     "etat": "absent",
     "premiere_detection": null,
     "derniere_detection": null,
-    "derniere_verification": "2026-10-13T12:40:03.315Z",
-    "echecs": 7,
+    "derniere_verification": "2026-10-29T11:28:47.587Z",
+    "echecs": 8,
     "url_detectee": null
   },
   "suggestion": {
@@ -126,7 +126,7 @@
   "dates": {
     "collecte": "2026-10-04",
     "publication": "2026-10-04",
-    "maj": "2026-10-13"
+    "maj": "2026-10-29"
   },
   "source": "google-places",
   "redaction": {
@@ -134,14 +134,25 @@
     "titre": "Le Grand Café — Café ou bar à Mont-de-Marsan",
     "meta_titre": "Le Grand Café à Mont-de-Marsan : horaires, avis, téléphone",
     "meta_description": "Le Grand Café, café ou bar à Mont-de-Marsan : horaires d'ouverture, note Google 3,9/5 (250 avis), téléphone, adresse et itinéraire.",
-    "chapo": "Le Grand Café est un café ou bar au 12 Rue Léon Gambetta, à Mont-de-Marsan. Ouvert sept jours sur sept au relevé du 13 octobre 2026. Téléphone : 05 58 75 62 00. Note Google : 3,9 sur 5 pour 250 avis.",
+    "chapo": "Le Grand Café est un café ou bar au 12 Rue Léon Gambetta, à Mont-de-Marsan. Ouvert sept jours sur sept au relevé du 29 octobre 2026. Téléphone : 05 58 75 62 00. Note Google : 3,9 sur 5 pour 250 avis.",
     "sections": [
       {
         "id": "presentation",
         "titre": "Le Grand Café en quelques mots",
         "paragraphes": [
           "Sur Google, l'établissement est classé « Bar », dans notre rubrique Café ou bar.",
-          "D'après le relevé du 13 octobre 2026, l'établissement est ouvert sept jours sur sept. Le détail jour par jour figure plus bas."
+          "Niveau de prix indiqué sur la fiche Google : € (bon marché).",
+          "D'après le relevé du 29 octobre 2026, l'établissement est ouvert sept jours sur sept. Le détail jour par jour figure plus bas."
+        ]
+      },
+      {
+        "id": "prestations",
+        "titre": "Services et équipements de Le Grand Café",
+        "paragraphes": [
+          "Proposé : terrasse, bière, vin, cocktails, adapté aux groupes, chiens acceptés et toilettes.",
+          "Non proposé selon la fiche Google : à emporter, livraison, retrait en voiture, réservation possible, adapté aux enfants et musique live.",
+          "Moyens de paiement déclarés : carte bancaire, carte de débit et paiement sans contact.",
+          "Ces indications sont déclarées par l'établissement sur sa fiche Google (relevé du 29 octobre 2026)."
         ]
       },
       {
@@ -163,18 +174,18 @@
         "id": "avis",
         "titre": "La réputation de Le Grand Café",
         "paragraphes": [
-          "Note de 3,9 sur 5 pour 250 avis Google au relevé du 13 octobre 2026. Les avis se consultent sur la fiche Google, dont le lien figure sur cette page."
+          "Note de 3,9 sur 5 pour 250 avis Google au relevé du 29 octobre 2026. Les avis les plus parlants sont compilés ci-dessous, avec un lien vers la fiche d'origine."
         ]
       }
     ],
     "faq": [
       {
         "q": "Quels sont les horaires de Le Grand Café ?",
-        "r": "Au relevé du 13 octobre 2026, Le Grand Café était ouvert sept jours sur sept. Dans le détail — lundi : de 7 h à 22 h ; mardi : de 7 h à 22 h ; mercredi : de 7 h à 22 h ; jeudi : de 7 h à 22 h ; vendredi : de 7 h à 22 h ; samedi : de 7 h à 22 h ; dimanche : de 8 h à 22 h. Ces horaires peuvent changer : un appel préalable reste conseillé."
+        "r": "Au relevé du 29 octobre 2026, Le Grand Café était ouvert sept jours sur sept. Dans le détail — lundi : de 7 h à 22 h ; mardi : de 7 h à 22 h ; mercredi : de 7 h à 22 h ; jeudi : de 7 h à 22 h ; vendredi : de 7 h à 22 h ; samedi : de 7 h à 22 h ; dimanche : de 8 h à 22 h. Ces horaires peuvent changer : un appel préalable reste conseillé."
       },
       {
         "q": "Le Grand Café est-il ouvert le dimanche ?",
-        "r": "Oui : le dimanche, Le Grand Café est ouvert de 8 h à 22 h (horaires relevés le 13 octobre 2026)."
+        "r": "Oui : le dimanche, Le Grand Café est ouvert de 8 h à 22 h (horaires relevés le 29 octobre 2026)."
       },
       {
         "q": "Où se trouve Le Grand Café ?",
@@ -185,11 +196,23 @@
         "r": "Par téléphone au 05 58 75 62 00, ou directement sur place aux heures d'ouverture."
       },
       {
+        "q": "Peut-on réserver chez Le Grand Café ?",
+        "r": "La fiche Google de Le Grand Café indique que la réservation n'est pas proposée."
+      },
+      {
+        "q": "Le Grand Café propose-t-il la vente à emporter ou la livraison ?",
+        "r": "D'après sa fiche Google (relevé du 29 octobre 2026) — vente à emporter : non ; livraison : non."
+      },
+      {
+        "q": "Quel est le niveau de prix de Le Grand Café ?",
+        "r": "Google classe Le Grand Café au niveau de prix € (bon marché), sur une échelle de € à €€€€ établie à partir des avis clients."
+      },
+      {
         "q": "Le Grand Café est-il accessible aux personnes à mobilité réduite ?",
         "r": "La fiche Google de l'établissement mentionne : « Entrée accessible en fauteuil roulant ». Cette information est déclarative ; en cas de doute, vérifiez par téléphone."
       }
     ],
-    "genere_le": "2026-10-13"
+    "genere_le": "2026-10-29"
   },
   "statut_google": "OPERATIONAL",
   "audience": {
@@ -200,6 +223,81 @@
     "clicsRecents": 0,
     "fenetreRecenteJours": 28,
     "source": "search-console",
-    "date": "2026-10-28"
+    "date": "2026-10-29"
+  },
+  "avis_detail": {
+    "releve": "2026-10-29",
+    "liste": [
+      {
+        "note": 5,
+        "texte": "Super soirée d’intégration avec ucly !! Personnel grave sympa et super ambiance avec la musique 🎉",
+        "langue": "fr",
+        "date": "2026-10-08",
+        "auteur": "sarah drunet",
+        "auteur_lien": "https://www.google.com/maps/contrib/112413577639430687468/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2kwdGQwVnpPRVE0Y0ZZNVpEZ3daVmRGYkdGclkxRRAB!2m1!1s0xd55d11141580761:0x22ef147f033c2e7f"
+      },
+      {
+        "note": 5,
+        "texte": "Personnel, efficace et très sympathique. Toujours bien reçu d’un vrai Pmu, je félicite l’équipe car ce n’est pas toujours facile.",
+        "langue": "fr",
+        "date": "2026-09-01",
+        "auteur": "Florent Bienveignant",
+        "auteur_lien": "https://www.google.com/maps/contrib/114252694046118869818/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2twSGJubHRTRkpLTVU5dmVYazRPVGd4Y1dZMGEyYxAB!2m1!1s0xd55d11141580761:0x22ef147f033c2e7f"
+      },
+      {
+        "note": 1,
+        "texte": "Un café a fuir !!! On attends des fois plus de 10 a 15 minutes avant d être servie..",
+        "langue": "fr",
+        "date": "2026-07-14",
+        "auteur": "carlos carrico de oliveira",
+        "auteur_lien": "https://www.google.com/maps/contrib/117724175664378540699/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2tsQ2F6a3hUVlJLYjFaRk5WRnJUVEJMTlZwRVIyYxAB!2m1!1s0xd55d11141580761:0x22ef147f033c2e7f"
+      },
+      {
+        "note": 1,
+        "texte": "De,passage dans votre établissement dans l’après midi,employé trop trop jeune,il faut varier un peu,une impression de foutage de gueulle des clients,j’ai des habitudes chez vous….malheureusement j’irai dans un autre établissement à partir de maintenant",
+        "langue": "fr",
+        "date": "2026-06-27",
+        "auteur": "philippe ducornet",
+        "auteur_lien": "https://www.google.com/maps/contrib/101787210257448381853/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2pOVlZVVlVUR1l4TTBST2FYZHRkMlpZY0dsRWRFRRAB!2m1!1s0xd55d11141580761:0x22ef147f033c2e7f"
+      },
+      {
+        "note": 4,
+        "texte": "Bistrot situé plein centre de Mont2. Terrasse avec vue sur la place de la mairie. Personnel toujours serviable.\nLa base pour démarrer sa journée devant un bon café.",
+        "langue": "fr",
+        "date": "2023-11-12",
+        "auteur": "François BEAUMOND",
+        "auteur_lien": "https://www.google.com/maps/contrib/104835269218072228260/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUNRc3BPR1JnEAE!2m1!1s0xd55d11141580761:0x22ef147f033c2e7f"
+      }
+    ]
+  },
+  "services": {
+    "releve": "2026-10-29",
+    "prix": "PRICE_LEVEL_INEXPENSIVE",
+    "options": {
+      "takeout": false,
+      "delivery": false,
+      "curbsidePickup": false,
+      "reservable": false,
+      "outdoorSeating": true,
+      "servesBeer": true,
+      "servesWine": true,
+      "servesCocktails": true,
+      "goodForChildren": false,
+      "goodForGroups": true,
+      "liveMusic": false,
+      "allowsDogs": true,
+      "restroom": true
+    },
+    "paiement": [
+      "carte bancaire",
+      "carte de débit",
+      "paiement sans contact"
+    ],
+    "parking": []
   }
 }

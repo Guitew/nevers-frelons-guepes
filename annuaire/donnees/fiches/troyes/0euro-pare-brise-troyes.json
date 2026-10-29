@@ -198,14 +198,14 @@
   },
   "statut_google": "OPERATIONAL",
   "audience": {
-    "clics": 14,
-    "impressions": 1633,
+    "clics": 17,
+    "impressions": 1695,
     "position": 3.1,
     "fenetreJours": 90,
-    "clicsRecents": 14,
+    "clicsRecents": 17,
     "fenetreRecenteJours": 28,
     "source": "search-console",
-    "date": "2026-10-28"
+    "date": "2026-10-29"
   },
   "avis_detail": {
     "releve": "2026-10-18",
@@ -256,5 +256,14 @@
         "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUNzNUlhSkxREAE!2m1!1s0x47ee985e30461fd7:0xc1b877a088031849"
       }
     ]
+  },
+  "indexation": {
+    "etat": "indexee",
+    "verdict": null,
+    "couverture": "impressions dans la Search Console",
+    "derniere_exploration": null,
+    "canonique_google": null,
+    "source": "impressions",
+    "date": "2026-10-29"
   }
 }

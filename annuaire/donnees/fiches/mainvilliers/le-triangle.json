@@ -111,8 +111,8 @@
     "etat": "absent",
     "premiere_detection": null,
     "derniere_detection": null,
-    "derniere_verification": "2026-10-14T10:07:28.770Z",
-    "echecs": 11,
+    "derniere_verification": "2026-10-29T11:28:47.587Z",
+    "echecs": 12,
     "url_detectee": null
   },
   "suggestion": {
@@ -125,7 +125,7 @@
   "dates": {
     "collecte": "2026-09-30",
     "publication": "2026-09-30",
-    "maj": "2026-10-14"
+    "maj": "2026-10-29"
   },
   "source": "google-places",
   "redaction": {
@@ -133,14 +133,26 @@
     "titre": "Le Triangle — Café ou bar à Mainvilliers",
     "meta_titre": "Le Triangle à Mainvilliers : horaires, avis, téléphone",
     "meta_description": "Le Triangle, café ou bar à Mainvilliers : horaires d'ouverture, note Google 4/5 (211 avis), téléphone, adresse et itinéraire.",
-    "chapo": "Le Triangle exerce l'activité de café ou bar au 2 Rue du Marché, à Mainvilliers. Ouvert tous les jours sauf le mercredi au relevé du 14 octobre 2026. Téléphone : 02 37 83 72 90. Note Google : 4 sur 5 pour 211 avis.",
+    "chapo": "Le Triangle exerce l'activité de café ou bar au 2 Rue du Marché, à Mainvilliers. Ouvert tous les jours sauf le mercredi au relevé du 29 octobre 2026. Téléphone : 02 37 83 72 90. Note Google : 4 sur 5 pour 211 avis.",
     "sections": [
       {
         "id": "presentation",
         "titre": "Le Triangle en quelques mots",
         "paragraphes": [
           "Sur Google, l'établissement est classé « Bar », dans notre rubrique Café ou bar.",
-          "D'après le relevé du 14 octobre 2026, l'établissement est ouvert tous les jours sauf le mercredi. Le détail jour par jour figure plus bas."
+          "Niveau de prix indiqué sur la fiche Google : € (bon marché).",
+          "D'après le relevé du 29 octobre 2026, l'établissement est ouvert tous les jours sauf le mercredi. Le détail jour par jour figure plus bas."
+        ]
+      },
+      {
+        "id": "prestations",
+        "titre": "Services et équipements de Le Triangle",
+        "paragraphes": [
+          "Proposé : sur place, terrasse, bière, vin, cocktails, adapté aux groupes, retransmissions sportives, chiens acceptés et toilettes.",
+          "Non proposé selon la fiche Google : livraison, réservation possible, adapté aux enfants et musique live.",
+          "Moyens de paiement déclarés : carte bancaire, carte de débit et paiement sans contact.",
+          "Stationnement : parking gratuit et stationnement gratuit dans la rue.",
+          "Ces indications sont déclarées par l'établissement sur sa fiche Google (relevé du 29 octobre 2026)."
         ]
       },
       {
@@ -162,18 +174,18 @@
         "id": "avis",
         "titre": "La réputation de Le Triangle",
         "paragraphes": [
-          "Note de 4 sur 5 pour 211 avis Google au relevé du 14 octobre 2026. Les avis se consultent sur la fiche Google, dont le lien figure sur cette page."
+          "Note de 4 sur 5 pour 211 avis Google au relevé du 29 octobre 2026. Les avis les plus parlants sont compilés ci-dessous, avec un lien vers la fiche d'origine."
         ]
       }
     ],
     "faq": [
       {
         "q": "Quels sont les horaires de Le Triangle ?",
-        "r": "Au relevé du 14 octobre 2026, Le Triangle était ouvert tous les jours sauf le mercredi. Dans le détail — lundi : de 7 h à 21 h ; mardi : de 7 h à 21 h ; mercredi : fermé ; jeudi : de 7 h à 21 h ; vendredi : de 7 h à 22 h ; samedi : de 8 h à 22 h ; dimanche : de 8 h à 21 h. Ces horaires peuvent changer : un appel préalable reste conseillé."
+        "r": "Au relevé du 29 octobre 2026, Le Triangle était ouvert tous les jours sauf le mercredi. Dans le détail — lundi : de 7 h à 21 h ; mardi : de 7 h à 21 h ; mercredi : fermé ; jeudi : de 7 h à 21 h ; vendredi : de 7 h à 22 h ; samedi : de 8 h à 22 h ; dimanche : de 8 h à 21 h. Ces horaires peuvent changer : un appel préalable reste conseillé."
       },
       {
         "q": "Le Triangle est-il ouvert le dimanche ?",
-        "r": "Oui : le dimanche, Le Triangle est ouvert de 8 h à 21 h (horaires relevés le 14 octobre 2026)."
+        "r": "Oui : le dimanche, Le Triangle est ouvert de 8 h à 21 h (horaires relevés le 29 octobre 2026)."
       },
       {
         "q": "Où se trouve Le Triangle ?",
@@ -184,11 +196,23 @@
         "r": "Par téléphone au 02 37 83 72 90, ou directement sur place aux heures d'ouverture."
       },
       {
+        "q": "Peut-on réserver chez Le Triangle ?",
+        "r": "La fiche Google de Le Triangle indique que la réservation n'est pas proposée."
+      },
+      {
+        "q": "Le Triangle propose-t-il la vente à emporter ou la livraison ?",
+        "r": "D'après sa fiche Google (relevé du 29 octobre 2026) — livraison : non."
+      },
+      {
+        "q": "Quel est le niveau de prix de Le Triangle ?",
+        "r": "Google classe Le Triangle au niveau de prix € (bon marché), sur une échelle de € à €€€€ établie à partir des avis clients."
+      },
+      {
         "q": "Le Triangle est-il accessible aux personnes à mobilité réduite ?",
         "r": "La fiche Google de l'établissement mentionne : « Entrée accessible en fauteuil roulant ». Cette information est déclarative ; en cas de doute, vérifiez par téléphone."
       }
     ],
-    "genere_le": "2026-10-14"
+    "genere_le": "2026-10-29"
   },
   "statut_google": "OPERATIONAL",
   "audience": {
@@ -199,6 +223,84 @@
     "clicsRecents": 0,
     "fenetreRecenteJours": 28,
     "source": "search-console",
-    "date": "2026-10-28"
+    "date": "2026-10-29"
+  },
+  "avis_detail": {
+    "releve": "2026-10-29",
+    "liste": [
+      {
+        "note": 5,
+        "texte": "Ambiance au top, personnels sympas et urbains",
+        "langue": "fr",
+        "date": "2026-03-16",
+        "auteur": "Hacène Malhi",
+        "auteur_lien": "https://www.google.com/maps/contrib/102886755471359165098/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT21GbE5rbE5SMlpZYUhWUmIzQjFja0kwZGpsd0xXYxAB!2m1!1s0x47e40c0ce3ea76b9:0xea14d3a172dc1865"
+      },
+      {
+        "note": 5,
+        "texte": "Ce bar est excellent que ce soit le café, le service, la nourriture ou l'ambiance. Je recommande",
+        "langue": "fr",
+        "date": "2025-11-10",
+        "auteur": "Hasan Gül",
+        "auteur_lien": "https://www.google.com/maps/contrib/109942133301023234290/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xSSE5FRlpSRXBuVmtVMWQxVjNWV2RDTWtNd05uYxAB!2m1!1s0x47e40c0ce3ea76b9:0xea14d3a172dc1865"
+      },
+      {
+        "note": 5,
+        "texte": "Lieu sympa, c'est un bar café, comme tant d'autres. Le service est fait comme, il se doit.\nPersonnel sympathique. Vous pouvez consommer, comme faire un jeu FDJ. Pour les autres services, je ne saurai vous dire.\nCar je suis passé faire une petite pose café, avant de reprendre ma route.",
+        "langue": "fr",
+        "date": "2023-12-11",
+        "auteur": "M G",
+        "auteur_lien": "https://www.google.com/maps/contrib/105704284485596896814/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSURWdk9xMUlREAE!2m1!1s0x47e40c0ce3ea76b9:0xea14d3a172dc1865"
+      },
+      {
+        "note": 5,
+        "texte": "Franchement belle endroit limite je dirai beau quartier une complicité aimante un brassage énorme un événement se produit à chaque ouverture. C’est l’amour d’un quartier j’y suis allé et j’ai pas aimé j’ai adoré à mort mais adoré c’est beau et attirant",
+        "langue": "fr",
+        "date": "2023-05-30",
+        "auteur": "Mr K",
+        "auteur_lien": "https://www.google.com/maps/contrib/114865866099433763435/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUR4Z00td3BnRRAB!2m1!1s0x47e40c0ce3ea76b9:0xea14d3a172dc1865"
+      },
+      {
+        "note": 1,
+        "texte": "Bon ça dépanne mais c'est tout! Le problème dans ce genre de bar c'est la fréquentation, les jeunes qui squattent devant ne donne pas envie de rester même pour un verre d'eau !! C'est bien dommage que ces commerces de proximité se trouvent dévalorisés par des personnes qui vous dévisagent dès l'entrée. Utiles et pratiques car bien souvent ouverts quand tous les autres sont fermés. Je n'y reviendrais pas.",
+        "langue": "fr",
+        "date": "2022-09-02",
+        "auteur": "Christelle Leprévier",
+        "auteur_lien": "https://www.google.com/maps/contrib/115989203248622355460/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUR1MzVhQmR3EAE!2m1!1s0x47e40c0ce3ea76b9:0xea14d3a172dc1865"
+      }
+    ]
+  },
+  "services": {
+    "releve": "2026-10-29",
+    "prix": "PRICE_LEVEL_INEXPENSIVE",
+    "options": {
+      "dineIn": true,
+      "delivery": false,
+      "reservable": false,
+      "outdoorSeating": true,
+      "servesBeer": true,
+      "servesWine": true,
+      "servesCocktails": true,
+      "goodForChildren": false,
+      "goodForGroups": true,
+      "goodForWatchingSports": true,
+      "liveMusic": false,
+      "allowsDogs": true,
+      "restroom": true
+    },
+    "paiement": [
+      "carte bancaire",
+      "carte de débit",
+      "paiement sans contact"
+    ],
+    "parking": [
+      "parking gratuit",
+      "stationnement gratuit dans la rue"
+    ]
   }
 }

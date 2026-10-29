@@ -33,7 +33,7 @@
     "longitude": 2.1345083
   },
   "note": 4.4,
-  "avis": 2172,
+  "avis": 2174,
   "horaires": [
     {
       "jour": 0,
@@ -116,8 +116,8 @@
     "etat": "absent",
     "premiere_detection": null,
     "derniere_detection": null,
-    "derniere_verification": "2026-10-13T12:40:03.315Z",
-    "echecs": 32,
+    "derniere_verification": "2026-10-29T11:28:47.587Z",
+    "echecs": 33,
     "url_detectee": null
   },
   "suggestion": {
@@ -130,22 +130,35 @@
   "dates": {
     "collecte": "2026-09-18",
     "publication": "2026-09-18",
-    "maj": "2026-10-13"
+    "maj": "2026-10-29"
   },
   "source": "google-places",
   "redaction": {
     "version": 2,
     "titre": "Le Montbauron — Café ou bar à Versailles",
     "meta_titre": "Le Montbauron à Versailles : horaires, avis, téléphone",
-    "meta_description": "Le Montbauron, café ou bar à Versailles : horaires d'ouverture, note Google 4,4/5 (2172 avis), téléphone, adresse et itinéraire.",
-    "chapo": "Le Montbauron exerce l'activité de café ou bar au 23 Rue Jouvencel, à Versailles. Ouvert sept jours sur sept au relevé du 13 octobre 2026. Téléphone : 01 39 02 15 21. Note Google : 4,4 sur 5 pour 2172 avis.",
+    "meta_description": "Le Montbauron, café ou bar à Versailles : horaires d'ouverture, note Google 4,4/5 (2174 avis), téléphone, adresse et itinéraire.",
+    "chapo": "Le Montbauron exerce l'activité de café ou bar au 23 Rue Jouvencel, à Versailles. Ouvert sept jours sur sept au relevé du 29 octobre 2026. Téléphone : 01 39 02 15 21. Note Google : 4,4 sur 5 pour 2174 avis.",
     "sections": [
       {
         "id": "presentation",
         "titre": "Le Montbauron en quelques mots",
         "paragraphes": [
+          "Présentation donnée par Google : « Bar chaleureux de style irlandais proposant de copieux plats de pub, avec plusieurs tables de billard. »",
           "Sur Google, l'établissement est classé « Bar », dans notre rubrique Café ou bar.",
-          "D'après le relevé du 13 octobre 2026, l'établissement est ouvert sept jours sur sept. Le détail jour par jour figure plus bas."
+          "Niveau de prix indiqué sur la fiche Google : €€ (modéré).",
+          "D'après le relevé du 29 octobre 2026, l'établissement est ouvert sept jours sur sept. Le détail jour par jour figure plus bas."
+        ]
+      },
+      {
+        "id": "prestations",
+        "titre": "Services et équipements de Le Montbauron",
+        "paragraphes": [
+          "Proposé : sur place, réservation possible, terrasse, bière, vin, cocktails, adapté aux groupes, retransmissions sportives et toilettes.",
+          "Non proposé selon la fiche Google : à emporter, livraison, retrait en voiture, adapté aux enfants et musique live.",
+          "Moyens de paiement déclarés : carte bancaire, carte de débit et paiement sans contact.",
+          "Stationnement : stationnement payant dans la rue.",
+          "Ces indications sont déclarées par l'établissement sur sa fiche Google (relevé du 29 octobre 2026)."
         ]
       },
       {
@@ -160,25 +173,26 @@
         "id": "contact",
         "titre": "Contacter Le Montbauron",
         "paragraphes": [
-          "Le contact se fait par téléphone au 01 39 02 15 21, ou directement sur place aux horaires d'ouverture."
+          "Le contact se fait par téléphone au 01 39 02 15 21, ou directement sur place aux horaires d'ouverture.",
+          "La fiche Google indique que la réservation est possible."
         ]
       },
       {
         "id": "avis",
         "titre": "La réputation de Le Montbauron",
         "paragraphes": [
-          "Note de 4,4 sur 5 pour 2172 avis Google au relevé du 13 octobre 2026. Les avis se consultent sur la fiche Google, dont le lien figure sur cette page."
+          "Note de 4,4 sur 5 pour 2174 avis Google au relevé du 29 octobre 2026. Les avis les plus parlants sont compilés ci-dessous, avec un lien vers la fiche d'origine."
         ]
       }
     ],
     "faq": [
       {
         "q": "Quels sont les horaires de Le Montbauron ?",
-        "r": "Au relevé du 13 octobre 2026, Le Montbauron était ouvert sept jours sur sept. Dans le détail — lundi : de 11 h à 2 h ; mardi : de 11 h à 2 h ; mercredi : de 11 h à 2 h ; jeudi : de 11 h à 2 h ; vendredi : de 11 h à 2 h ; samedi : de 14 h à 2 h ; dimanche : de 14 h à 2 h. Ces horaires peuvent changer : un appel préalable reste conseillé."
+        "r": "Au relevé du 29 octobre 2026, Le Montbauron était ouvert sept jours sur sept. Dans le détail — lundi : de 11 h à 2 h ; mardi : de 11 h à 2 h ; mercredi : de 11 h à 2 h ; jeudi : de 11 h à 2 h ; vendredi : de 11 h à 2 h ; samedi : de 14 h à 2 h ; dimanche : de 14 h à 2 h. Ces horaires peuvent changer : un appel préalable reste conseillé."
       },
       {
         "q": "Le Montbauron est-il ouvert le dimanche ?",
-        "r": "Oui : le dimanche, Le Montbauron est ouvert de 14 h à 2 h (horaires relevés le 13 octobre 2026)."
+        "r": "Oui : le dimanche, Le Montbauron est ouvert de 14 h à 2 h (horaires relevés le 29 octobre 2026)."
       },
       {
         "q": "Où se trouve Le Montbauron ?",
@@ -189,22 +203,34 @@
         "r": "Par téléphone au 01 39 02 15 21, ou directement sur place aux heures d'ouverture."
       },
       {
+        "q": "Peut-on réserver chez Le Montbauron ?",
+        "r": "Oui, la fiche Google de Le Montbauron indique que la réservation est possible, par téléphone au 01 39 02 15 21."
+      },
+      {
+        "q": "Le Montbauron propose-t-il la vente à emporter ou la livraison ?",
+        "r": "D'après sa fiche Google (relevé du 29 octobre 2026) — vente à emporter : non ; livraison : non."
+      },
+      {
+        "q": "Quel est le niveau de prix de Le Montbauron ?",
+        "r": "Google classe Le Montbauron au niveau de prix €€ (modéré), sur une échelle de € à €€€€ établie à partir des avis clients."
+      },
+      {
         "q": "Le Montbauron est-il accessible aux personnes à mobilité réduite ?",
         "r": "La fiche Google de l'établissement mentionne : « Toilettes accessibles en fauteuil roulant ». Cette information est déclarative ; en cas de doute, vérifiez par téléphone."
       }
     ],
-    "genere_le": "2026-10-13"
+    "genere_le": "2026-10-29"
   },
   "statut_google": "OPERATIONAL",
   "audience": {
     "clics": 0,
-    "impressions": 37,
-    "position": 13.9,
+    "impressions": 38,
+    "position": 13.8,
     "fenetreJours": 90,
     "clicsRecents": 0,
     "fenetreRecenteJours": 28,
     "source": "search-console",
-    "date": "2026-10-28"
+    "date": "2026-10-29"
   },
   "indexation": {
     "etat": "indexee",
@@ -213,6 +239,86 @@
     "derniere_exploration": null,
     "canonique_google": null,
     "source": "impressions",
-    "date": "2026-10-28"
+    "date": "2026-10-29"
+  },
+  "avis_detail": {
+    "releve": "2026-10-29",
+    "liste": [
+      {
+        "note": 4,
+        "texte": "Fréquenté à une heure calme j'ai apprécié les lieux et l'ambiance. Mais je vais être honnête : c'est typiquement le genre de bar où je vais profiter avant le rush. Après je laisse les autres apprécier pour ce qu'ils aiment.",
+        "langue": "fr",
+        "date": "2026-05-14",
+        "auteur": "RC-P",
+        "auteur_lien": "https://www.google.com/maps/contrib/117101989242909106959/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25WU05qVTJkVWxZZHpGc1pXeFRNalpzY1c1elRWRRAB!2m1!1s0x47e67d7184e02fd5:0xa6ad606c6770d2b"
+      },
+      {
+        "note": 5,
+        "texte": "Bonjour, suite au commentaire laissé par la jolie fille du mardi 7 avril, je suis bien le jeune homme au bonnet noir. J’ai donc récupérer la bouteille jetée à la mer 😋et je la renvoie pour dire que je serai au billard mardi dans la soirée si l’envie de se rencontrer est de mise 🔥.",
+        "langue": "fr",
+        "date": "2026-04-11",
+        "auteur": "chauvet louis",
+        "auteur_lien": "https://www.google.com/maps/contrib/111730637966846381514/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xGMU4wdG5SVFZpV205VE1FZFBkRzlUVG5oNE9GRRAB!2m1!1s0x47e67d7184e02fd5:0xa6ad606c6770d2b"
+      },
+      {
+        "note": 5,
+        "texte": "Bar très sympa,  bonne ambiance musicale , bières et billard. Terrasse possible. Prix raisonnables pour les bières pression.",
+        "langue": "fr",
+        "date": "2026-03-28",
+        "auteur": "Nelly appli",
+        "auteur_lien": "https://www.google.com/maps/contrib/112883411337105372832/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2tOUVYwVk9hMDV1WkdaRmJuTjZlakZKV0VaaVUyYxAB!2m1!1s0x47e67d7184e02fd5:0xa6ad606c6770d2b"
+      },
+      {
+        "note": 4,
+        "texte": "Ambiance sympa, serveur cool. Beaucoup de table de billards, la musique est très sympa ! Par contre l’odeur au 0 est ignoble une odeur d’urine qui pique le nez. Vous devriez faire comme Hulk au toilette et mettre du désodorisant 😰😰",
+        "langue": "fr",
+        "date": "2026-01-18",
+        "auteur": "Ludovic Kleber",
+        "auteur_lien": "https://www.google.com/maps/contrib/101417131057484693798/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2tVeGRVZFlPRVpyYlhRd1NGUldVbGxITVZreVQyYxAB!2m1!1s0x47e67d7184e02fd5:0xa6ad606c6770d2b"
+      },
+      {
+        "note": 4,
+        "texte": "Super ambiance, service rapide, hotdog et croque monsieur des tueries, bon choix de bières, ils peuvent vous faire un café gourmand même s'il n'est pas sur la carte.\nLa musique est très sympa même si elle est un peu trop forte par moment.\nOn y retournera avec plaisir,\nJe recommande",
+        "langue": "fr",
+        "date": "2024-03-17",
+        "auteur": "Lisou L.",
+        "auteur_lien": "https://www.google.com/maps/contrib/100484147891169107478/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUQ5MGJlSjdBRRAB!2m1!1s0x47e67d7184e02fd5:0xa6ad606c6770d2b"
+      }
+    ]
+  },
+  "services": {
+    "releve": "2026-10-29",
+    "prix": "PRICE_LEVEL_MODERATE",
+    "resume": "Bar chaleureux de style irlandais proposant de copieux plats de pub, avec plusieurs tables de billard.",
+    "resume_langue": "fr",
+    "options": {
+      "dineIn": true,
+      "takeout": false,
+      "delivery": false,
+      "curbsidePickup": false,
+      "reservable": true,
+      "outdoorSeating": true,
+      "servesBeer": true,
+      "servesWine": true,
+      "servesCocktails": true,
+      "goodForChildren": false,
+      "goodForGroups": true,
+      "goodForWatchingSports": true,
+      "liveMusic": false,
+      "restroom": true
+    },
+    "paiement": [
+      "carte bancaire",
+      "carte de débit",
+      "paiement sans contact"
+    ],
+    "parking": [
+      "stationnement payant dans la rue"
+    ]
   }
 }

@@ -33,7 +33,7 @@
     "longitude": 2.8541333
   },
   "note": 4.5,
-  "avis": 525,
+  "avis": 526,
   "horaires": [
     {
       "jour": 0,
@@ -117,8 +117,8 @@
     "etat": "absent",
     "premiere_detection": null,
     "derniere_detection": null,
-    "derniere_verification": "2026-10-13T12:40:03.315Z",
-    "echecs": 5,
+    "derniere_verification": "2026-10-29T11:28:47.587Z",
+    "echecs": 6,
     "url_detectee": null
   },
   "suggestion": {
@@ -131,22 +131,31 @@
   "dates": {
     "collecte": "2026-10-06",
     "publication": "2026-10-06",
-    "maj": "2026-10-13"
+    "maj": "2026-10-29"
   },
   "source": "google-places",
   "redaction": {
     "version": 2,
     "titre": "LE TEMPLE FIVE CENTER — Café ou bar à Perpignan",
     "meta_titre": "LE TEMPLE FIVE CENTER à Perpignan : horaires, avis",
-    "meta_description": "LE TEMPLE FIVE CENTER, café ou bar à Perpignan : horaires d'ouverture, note Google 4,5/5 (525 avis), téléphone, adresse et itinéraire.",
-    "chapo": "LE TEMPLE FIVE CENTER est un café ou bar au 161 Rue de Munich, à Perpignan. Ouvert sept jours sur sept au relevé du 13 octobre 2026. Téléphone : 04 68 87 81 94. Note Google : 4,5 sur 5 pour 525 avis.",
+    "meta_description": "LE TEMPLE FIVE CENTER, café ou bar à Perpignan : horaires d'ouverture, note Google 4,5/5 (526 avis), téléphone, adresse et itinéraire.",
+    "chapo": "LE TEMPLE FIVE CENTER est un café ou bar au 161 Rue de Munich, à Perpignan. Ouvert sept jours sur sept au relevé du 29 octobre 2026. Téléphone : 04 68 87 81 94. Note Google : 4,5 sur 5 pour 526 avis.",
     "sections": [
       {
         "id": "presentation",
         "titre": "LE TEMPLE FIVE CENTER en quelques mots",
         "paragraphes": [
           "Sur Google, l'établissement est classé « Complexe sportif », dans notre rubrique Café ou bar.",
-          "D'après le relevé du 13 octobre 2026, l'établissement est ouvert sept jours sur sept. Le détail jour par jour figure plus bas."
+          "D'après le relevé du 29 octobre 2026, l'établissement est ouvert sept jours sur sept. Le détail jour par jour figure plus bas."
+        ]
+      },
+      {
+        "id": "prestations",
+        "titre": "Services et équipements de LE TEMPLE FIVE CENTER",
+        "paragraphes": [
+          "Moyens de paiement déclarés : carte bancaire, carte de débit et paiement sans contact.",
+          "Stationnement : stationnement gratuit dans la rue.",
+          "Ces indications sont déclarées par l'établissement sur sa fiche Google (relevé du 29 octobre 2026)."
         ]
       },
       {
@@ -168,18 +177,18 @@
         "id": "avis",
         "titre": "La réputation de LE TEMPLE FIVE CENTER",
         "paragraphes": [
-          "Note de 4,5 sur 5 pour 525 avis Google au relevé du 13 octobre 2026. Les avis se consultent sur la fiche Google, dont le lien figure sur cette page."
+          "Note de 4,5 sur 5 pour 526 avis Google au relevé du 29 octobre 2026. Les avis les plus parlants sont compilés ci-dessous, avec un lien vers la fiche d'origine."
         ]
       }
     ],
     "faq": [
       {
         "q": "Quels sont les horaires de LE TEMPLE FIVE CENTER ?",
-        "r": "Au relevé du 13 octobre 2026, LE TEMPLE FIVE CENTER était ouvert sept jours sur sept. Dans le détail — lundi : de 10 h à 0 h ; mardi : de 10 h à 0 h ; mercredi : de 10 h à 0 h ; jeudi : de 10 h à 0 h ; vendredi : de 10 h à 0 h ; samedi : de 10 h à 23 h ; dimanche : de 10 h à 23 h. Ces horaires peuvent changer : un appel préalable reste conseillé."
+        "r": "Au relevé du 29 octobre 2026, LE TEMPLE FIVE CENTER était ouvert sept jours sur sept. Dans le détail — lundi : de 10 h à 0 h ; mardi : de 10 h à 0 h ; mercredi : de 10 h à 0 h ; jeudi : de 10 h à 0 h ; vendredi : de 10 h à 0 h ; samedi : de 10 h à 23 h ; dimanche : de 10 h à 23 h. Ces horaires peuvent changer : un appel préalable reste conseillé."
       },
       {
         "q": "LE TEMPLE FIVE CENTER est-il ouvert le dimanche ?",
-        "r": "Oui : le dimanche, LE TEMPLE FIVE CENTER est ouvert de 10 h à 23 h (horaires relevés le 13 octobre 2026)."
+        "r": "Oui : le dimanche, LE TEMPLE FIVE CENTER est ouvert de 10 h à 23 h (horaires relevés le 29 octobre 2026)."
       },
       {
         "q": "Où se trouve LE TEMPLE FIVE CENTER ?",
@@ -194,7 +203,7 @@
         "r": "La fiche Google de l'établissement mentionne : « Entrée accessible en fauteuil roulant ». Cette information est déclarative ; en cas de doute, vérifiez par téléphone."
       }
     ],
-    "genere_le": "2026-10-13"
+    "genere_le": "2026-10-29"
   },
   "statut_google": "OPERATIONAL",
   "audience": {
@@ -205,6 +214,68 @@
     "clicsRecents": 0,
     "fenetreRecenteJours": 28,
     "source": "search-console",
-    "date": "2026-10-28"
+    "date": "2026-10-29"
+  },
+  "avis_detail": {
+    "releve": "2026-10-29",
+    "liste": [
+      {
+        "note": 1,
+        "texte": "Je vais jamais mettre un pied à ce lieu il son raciste il nous on pas mit la vidéo de hier plu jamais je vais la",
+        "langue": "fr",
+        "date": "2026-10-09",
+        "auteur": "Kelian",
+        "auteur_lien": "https://www.google.com/maps/contrib/105120839047227446997/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25BNFNHWklhVEZQVlRKcFprUlVkM1ZIU0dWMFdFRRAB!2m1!1s0x12b06de39696c0bd:0x14b7c406c4192761"
+      },
+      {
+        "note": 4,
+        "texte": "Je suis venu déjeuner dans cet établissement pendant trois jours, à l’occasion du renouvellement de ma FCO Marchandises à l’AFTRAL, situé à seulement 100 ou 150 mètres. C’est donc une adresse pratique pour les personnes en formation poids lourd ou autocar.\n\nLe restaurant fait partie d’un complexe sportif récent, agréable et très propre, sanitaires compris. Les assiettes sont copieuses et consistantes : comptez environ 15 € pour un plat avec une boisson. Le service commence à midi, pas avant, même s’il est possible d’arriver une dizaine de minutes plus tôt. Ensuite, il est rapide : le plat est généralement servi en 10 à 15 minutes.\n\nLe personnel — patron, serveuse et cuisinier — est très sympathique. Le café, pourtant non compris dans la formule, m’a été offert à chaque repas.\n\nL’emplacement est aussi intéressant pour les routiers : juste à côté d’Euromaster Poids Lourds, près des Transports Medina et d’une station AS24. Le stationnement d’un poids lourd reste toutefois parfois compliqué selon l’affluence.\n\nUne bonne adresse pour manger généreusement, rapidement et dans un cadre accueillant.",
+        "langue": "fr",
+        "date": "2026-09-11",
+        "auteur": "Joshua Uevens",
+        "auteur_lien": "https://www.google.com/maps/contrib/106430214224240562090/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT21wbVpFYzFjMVJTVUVoQlpEWnFMVnBFUWtFdFlWRRAB!2m1!1s0x12b06de39696c0bd:0x14b7c406c4192761"
+      },
+      {
+        "note": 5,
+        "texte": "Le Temple Five Center (Perpignan) un complexe sportif exceptionnel dédié au padel et au football, parmi les meilleurs à Perpignan !\nLes terrains sont d’une excellente qualité, parfaitement entretenus, offrant des conditions idéales aussi bien pour les amateurs que pour les passionnés.\nLe personnel est accueillant, professionnel et toujours prêt à aider, ce qui rend l’expérience encore plus agréable.\nLe centre propose également des espaces adaptés aux enfants et aux adultes pour s’entraîner dans une ambiance conviviale.\nLe coin café est un vrai atout : cadre agréable, bonne ambiance et connexion internet performante, parfait pour accompagner ses proches ou même travailler et étudier.\nUn lieu complet qui allie sport, détente et qualité 🥇fortement recommandé ! ♥️♥️♥️",
+        "langue": "fr",
+        "date": "2026-07-27",
+        "auteur": "zakaria oumellaik",
+        "auteur_lien": "https://www.google.com/maps/contrib/114427457045154215436/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2tGYVRVbHBTRUpOWDJSZmFEVTFjRE5aU2pKNVQwRRAB!2m1!1s0x12b06de39696c0bd:0x14b7c406c4192761"
+      },
+      {
+        "note": 5,
+        "texte": "Super accueil, super ambiance et de beaux terrains de padel et foot 5.",
+        "langue": "fr",
+        "date": "2026-06-02",
+        "auteur": "Jean-Pierre Gruppi",
+        "auteur_lien": "https://www.google.com/maps/contrib/108870316524242386887/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT214UmRVdFNZWGt3Ykdnek9FZFVUMDh4TVhOYVNrRRAB!2m1!1s0x12b06de39696c0bd:0x14b7c406c4192761"
+      },
+      {
+        "note": 5,
+        "texte": "Personnel très agréable, le responsable est très attentif, gentil et très sociable ça fait plaisir, nous avons passé une très bonne après-midi à l'occasion d'anniversaire de mes jumeaux, tout à  été parfait le terrain était très pratique sauf les ballons peut-être il va falloir les changer. Nous reviendrons c'est sûr ! Salutations à toute l'équipe.",
+        "langue": "fr",
+        "date": "2024-12-08",
+        "auteur": "Sucrésalé 66",
+        "auteur_lien": "https://www.google.com/maps/contrib/102097322244920997575/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUN2elBqQ2dnRRAB!2m1!1s0x12b06de39696c0bd:0x14b7c406c4192761"
+      }
+    ]
+  },
+  "services": {
+    "releve": "2026-10-29",
+    "options": {},
+    "paiement": [
+      "carte bancaire",
+      "carte de débit",
+      "paiement sans contact"
+    ],
+    "parking": [
+      "stationnement gratuit dans la rue"
+    ]
   }
 }

@@ -31,7 +31,7 @@
     "longitude": 5.8591771999999995
   },
   "note": 4.2,
-  "avis": 1829,
+  "avis": 1835,
   "horaires": [
     {
       "jour": 0,
@@ -136,8 +136,8 @@
     "etat": "absent",
     "premiere_detection": null,
     "derniere_detection": null,
-    "derniere_verification": "2026-10-13T12:40:03.315Z",
-    "echecs": 4,
+    "derniere_verification": "2026-10-29T11:28:47.587Z",
+    "echecs": 5,
     "url_detectee": null
   },
   "suggestion": {
@@ -150,22 +150,34 @@
   "dates": {
     "collecte": "2026-10-07",
     "publication": "2026-10-07",
-    "maj": "2026-10-13"
+    "maj": "2026-10-29"
   },
   "source": "google-places",
   "redaction": {
     "version": 2,
     "titre": "Le Palais D'or — Restaurant à La Seyne-sur-Mer",
     "meta_titre": "Le Palais D'or à La Seyne-sur-Mer : horaires, avis",
-    "meta_description": "Le Palais D'or, restaurant à La Seyne-sur-Mer : horaires d'ouverture, note Google 4,2/5 (1829 avis), téléphone, adresse et itinéraire.",
-    "chapo": "Le Palais D'or est un restaurant au Chemin du Floréal, à La Seyne-sur-Mer. Ouvert tous les jours sauf le lundi au relevé du 13 octobre 2026. Téléphone : 04 98 07 88 88. Note Google : 4,2 sur 5 pour 1829 avis.",
+    "meta_description": "Le Palais D'or, restaurant à La Seyne-sur-Mer : horaires d'ouverture, note Google 4,2/5 (1835 avis), téléphone, adresse et itinéraire.",
+    "chapo": "Le Palais D'or est un restaurant au Chemin du Floréal, à La Seyne-sur-Mer. Ouvert tous les jours sauf le lundi au relevé du 29 octobre 2026. Téléphone : 04 98 07 88 88. Note Google : 4,2 sur 5 pour 1835 avis.",
     "sections": [
       {
         "id": "presentation",
         "titre": "Le Palais D'or en quelques mots",
         "paragraphes": [
           "Sur Google, l'établissement est classé « Restaurant chinois », dans notre rubrique Restaurant.",
-          "D'après le relevé du 13 octobre 2026, l'établissement est ouvert tous les jours sauf le lundi. Le détail jour par jour figure plus bas."
+          "Niveau de prix indiqué sur la fiche Google : €€ (modéré).",
+          "D'après le relevé du 29 octobre 2026, l'établissement est ouvert tous les jours sauf le lundi. Le détail jour par jour figure plus bas."
+        ]
+      },
+      {
+        "id": "prestations",
+        "titre": "Services et équipements de Le Palais D'or",
+        "paragraphes": [
+          "Proposé : sur place, à emporter, réservation possible, déjeuner, dîner, plats végétariens, café, bière, vin, cocktails, menu enfant, adapté aux enfants, adapté aux groupes et toilettes.",
+          "Non proposé selon la fiche Google : livraison, terrasse, petit-déjeuner, brunch, retransmissions sportives et musique live.",
+          "Moyens de paiement déclarés : carte bancaire, carte de débit et paiement sans contact.",
+          "Stationnement : parking gratuit et stationnement gratuit dans la rue.",
+          "Ces indications sont déclarées par l'établissement sur sa fiche Google (relevé du 29 octobre 2026)."
         ]
       },
       {
@@ -180,25 +192,26 @@
         "id": "contact",
         "titre": "Contacter Le Palais D'or",
         "paragraphes": [
-          "Le contact se fait par téléphone au 04 98 07 88 88, ou directement sur place aux horaires d'ouverture."
+          "Le contact se fait par téléphone au 04 98 07 88 88, ou directement sur place aux horaires d'ouverture.",
+          "La fiche Google indique que la réservation est possible."
         ]
       },
       {
         "id": "avis",
         "titre": "La réputation de Le Palais D'or",
         "paragraphes": [
-          "Note de 4,2 sur 5 pour 1829 avis Google au relevé du 13 octobre 2026. Les avis se consultent sur la fiche Google, dont le lien figure sur cette page."
+          "Note de 4,2 sur 5 pour 1835 avis Google au relevé du 29 octobre 2026. Les avis les plus parlants sont compilés ci-dessous, avec un lien vers la fiche d'origine."
         ]
       }
     ],
     "faq": [
       {
         "q": "Quels sont les horaires de Le Palais D'or ?",
-        "r": "Au relevé du 13 octobre 2026, Le Palais D'or était ouvert tous les jours sauf le lundi. Dans le détail — lundi : fermé ; mardi : de 12 h à 14 h 30 et de 19 h à 22 h 30 ; mercredi : de 12 h à 14 h 30 et de 19 h à 22 h 30 ; jeudi : de 12 h à 14 h 30 et de 19 h à 22 h 30 ; vendredi : de 12 h à 14 h 30 et de 19 h à 22 h 30 ; samedi : de 12 h à 14 h 30 et de 19 h à 22 h 30 ; dimanche : de 12 h à 14 h 30 et de 19 h à 22 h 30. Ces horaires peuvent changer : un appel préalable reste conseillé."
+        "r": "Au relevé du 29 octobre 2026, Le Palais D'or était ouvert tous les jours sauf le lundi. Dans le détail — lundi : fermé ; mardi : de 12 h à 14 h 30 et de 19 h à 22 h 30 ; mercredi : de 12 h à 14 h 30 et de 19 h à 22 h 30 ; jeudi : de 12 h à 14 h 30 et de 19 h à 22 h 30 ; vendredi : de 12 h à 14 h 30 et de 19 h à 22 h 30 ; samedi : de 12 h à 14 h 30 et de 19 h à 22 h 30 ; dimanche : de 12 h à 14 h 30 et de 19 h à 22 h 30. Ces horaires peuvent changer : un appel préalable reste conseillé."
       },
       {
         "q": "Le Palais D'or est-il ouvert le dimanche ?",
-        "r": "Oui : le dimanche, Le Palais D'or est ouvert de 12 h à 14 h 30 et de 19 h à 22 h 30 (horaires relevés le 13 octobre 2026)."
+        "r": "Oui : le dimanche, Le Palais D'or est ouvert de 12 h à 14 h 30 et de 19 h à 22 h 30 (horaires relevés le 29 octobre 2026)."
       },
       {
         "q": "Où se trouve Le Palais D'or ?",
@@ -209,21 +222,118 @@
         "r": "Par téléphone au 04 98 07 88 88, ou directement sur place aux heures d'ouverture."
       },
       {
+        "q": "Peut-on réserver chez Le Palais D'or ?",
+        "r": "Oui, la fiche Google de Le Palais D'or indique que la réservation est possible, par téléphone au 04 98 07 88 88."
+      },
+      {
+        "q": "Le Palais D'or propose-t-il la vente à emporter ou la livraison ?",
+        "r": "D'après sa fiche Google (relevé du 29 octobre 2026) — vente à emporter : oui ; livraison : non."
+      },
+      {
+        "q": "Quel est le niveau de prix de Le Palais D'or ?",
+        "r": "Google classe Le Palais D'or au niveau de prix €€ (modéré), sur une échelle de € à €€€€ établie à partir des avis clients."
+      },
+      {
         "q": "Le Palais D'or est-il accessible aux personnes à mobilité réduite ?",
         "r": "La fiche Google de l'établissement mentionne : « Entrée accessible en fauteuil roulant ». Cette information est déclarative ; en cas de doute, vérifiez par téléphone."
       }
     ],
-    "genere_le": "2026-10-13"
+    "genere_le": "2026-10-29"
   },
   "statut_google": "OPERATIONAL",
   "audience": {
     "clics": 0,
-    "impressions": 91,
-    "position": 12.8,
+    "impressions": 105,
+    "position": 12.1,
     "fenetreJours": 90,
     "clicsRecents": 0,
     "fenetreRecenteJours": 28,
     "source": "search-console",
-    "date": "2026-10-28"
+    "date": "2026-10-29"
+  },
+  "avis_detail": {
+    "releve": "2026-10-29",
+    "liste": [
+      {
+        "note": 5,
+        "texte": "Le restaurant est rénové,  l'accueil sympathique et le choix et la qualité excellente.  Venus 2 fois les mardis soirs récemment",
+        "langue": "fr",
+        "date": "2026-09-05",
+        "auteur": "Jean Luc & Violaine caruso",
+        "auteur_lien": "https://www.google.com/maps/contrib/101890146840339414909/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT21ZMVkxaHZRVlZTU3psemMyNUpVbXBVVTIxcFFYYxAB!2m1!1s0x12c90489a188a5fd:0x39138170ed56a566"
+      },
+      {
+        "note": 3,
+        "texte": "Je ne comprends pas vraiment les avis aussi positifs sur cet établissement. Le personnel a été très accueillant et attentionné avec nous. Certes, il n’y avait pas énormément de monde pour un samedi soir, mais ça reste un point qu’il faut souligner.\n\nEn revanche, le buffet est assez petit malgré ce qui est dit dans certains avis, surtout comparé à Buffet Zen qui n’est pas très loin. La qualité est tout de même au-dessus, donc je suppose qu’ici on privilégie la qualité à la quantité. Cela dit, ce qui est proposé n’est pas non plus incroyable.\n\nLes entrées sont correctes, mais au niveau des plats, les sushis sont quasiment tous les mêmes, avec très peu de variété (même pas de versions avec du thon). Le reste est majoritairement composé de fritures de mauvaise qualité et de plats plutôt basiques. Même les raviolis étaient mal cuits et pas très agréables à manger. Pour le chaud, donc, seul le wok était vraiment correct, avec en plus une attente plutôt courte (5 minutes maximum).\n\nEn revanche, ne comptez pas sur les desserts pour rattraper l’expérience, car c’est tout bonnement catastrophique. Mis à part deux ou trois d’entre eux, et peut-être les glaces que je n’ai pas goûtées, le reste est vraiment de basse qualité.\n\nEn bref, je trouve que c’est plutôt cher pour ce qui est proposé. Je comprends que le coût des matières premières a lui aussi fortement augmenté, mais pour moi, l’expérience ne vaut tout simplement pas ce prix.\n\nEncore une fois, je tiens quand même à souligner la qualité du personnel, qui a été très présent et attentionné tout au long de la soirée. C’est d’ailleurs par respect pour eux que je ne baisse pas davantage la note.",
+        "langue": "fr",
+        "date": "2026-08-29",
+        "auteur": "Luka",
+        "auteur_lien": "https://www.google.com/maps/contrib/113669900734350423580/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25wNWFqZDNURXRGUWxWYVpESnpTR2MwZEdjNFlVRRAB!2m1!1s0x12c90489a188a5fd:0x39138170ed56a566"
+      },
+      {
+        "note": 4,
+        "texte": "Restaurant plutôt sympa dans l’ensemble. La salle est immense et forcément assez bruyante aux heures d’affluence, ce qui peut gêner certaines personnes. En revanche, le choix de plats est vraiment très large et chacun peut y trouver son bonheur. Les produits sont corrects et régulièrement réaprovisionnés. Une bonne adresse pour venir entre amis ou en famille, même si l’ambiance est parfois un peu trop sonore. J’y retournerais volontier.",
+        "langue": "fr",
+        "date": "2026-06-08",
+        "auteur": "Charly “Picwik” Moz",
+        "auteur_lien": "https://www.google.com/maps/contrib/105819652934482835853/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25WaExVMXVPV1J6VjJkaGJUWnZjRTlRTTNCUVpHYxAB!2m1!1s0x12c90489a188a5fd:0x39138170ed56a566"
+      },
+      {
+        "note": 2,
+        "texte": "Le restaurant propose un large choix de plats et le buffet est bien fourni. Il y a vraiment beaucoup de variété et la décoration est agréable, moderne et soignée, ce qui donne une bonne première impression en entrant.\n\nMalheureusement, l’expérience se dégrade rapidement à cause du personnel. L’accueil est moyen et l’ambiance générale manque de chaleur. Le cuisinier au wok est particulièrement désagréable. Il ne sourit jamais, semble constamment agacé dès qu’on s’approche et on a clairement l’impression de le déranger\n\nLe plus surprenant reste sa manière de préparer les aliments. Il plonge tout dans de l’eau bouillante avant de les passer au wok. La viande ressort molle, fade, sans aucune saveur. La texture fait presque penser à une éponge sans goût. Même après le passage au wok, les ingrédients restent insipides et la cuisson ne rattrape rien. Le résultat est franchement immangeable et très décevant pour un restaurant de ce type.\n\nLe cadre est sympa et le choix ne manque pas, mais la qualité de la cuisine et le comportement du personnel gâchent complètement le repas. Je ne recommande pas.",
+        "langue": "fr",
+        "date": "2025-11-29",
+        "auteur": "So Bk",
+        "auteur_lien": "https://www.google.com/maps/contrib/117885018906481687882/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2sxS1EybHhjRXhMTlVabFpVOXBlRVpZVm1aZlVXYxAB!2m1!1s0x12c90489a188a5fd:0x39138170ed56a566"
+      },
+      {
+        "note": 5,
+        "texte": "Nous avons beaucoup apprécié notre visite au Palais d'Or. L'accueil est chaleureux et professionnel, et les nouvelles décorations au niveau du buffet apportent une touche moderne et soignée.\n\nLe choix est varié, que ce soit pour les entrées, les plats ou les desserts, et le restaurant est très propre. La seule remarque est que la salle peut être assez bruyante, surtout aux heures de pointe.\n\nMalgré cela, c’est une adresse agréable à recommander pour un repas plaisant.",
+        "langue": "fr",
+        "date": "2025-09-04",
+        "auteur": "Flowers InYourHair",
+        "auteur_lien": "https://www.google.com/maps/contrib/115331123521974368066/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2prMU5EY3hRa3hCVFRJelUzSjVSM2xuZVY5WFIxRRAB!2m1!1s0x12c90489a188a5fd:0x39138170ed56a566"
+      }
+    ]
+  },
+  "services": {
+    "releve": "2026-10-29",
+    "prix": "PRICE_LEVEL_MODERATE",
+    "options": {
+      "dineIn": true,
+      "takeout": true,
+      "delivery": false,
+      "reservable": true,
+      "outdoorSeating": false,
+      "servesBreakfast": false,
+      "servesBrunch": false,
+      "servesLunch": true,
+      "servesDinner": true,
+      "servesVegetarianFood": true,
+      "servesCoffee": true,
+      "servesBeer": true,
+      "servesWine": true,
+      "servesCocktails": true,
+      "menuForChildren": true,
+      "goodForChildren": true,
+      "goodForGroups": true,
+      "goodForWatchingSports": false,
+      "liveMusic": false,
+      "restroom": true
+    },
+    "paiement": [
+      "carte bancaire",
+      "carte de débit",
+      "paiement sans contact"
+    ],
+    "parking": [
+      "parking gratuit",
+      "stationnement gratuit dans la rue"
+    ]
   }
 }

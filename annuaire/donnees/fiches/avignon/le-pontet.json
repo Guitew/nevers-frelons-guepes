@@ -44,8 +44,8 @@
     "etat": "absent",
     "premiere_detection": null,
     "derniere_detection": null,
-    "derniere_verification": "2026-10-13T12:40:03.315Z",
-    "echecs": 4,
+    "derniere_verification": "2026-10-29T11:28:47.587Z",
+    "echecs": 5,
     "url_detectee": null
   },
   "suggestion": {
@@ -58,7 +58,7 @@
   "dates": {
     "collecte": "2026-10-07",
     "publication": "2026-10-07",
-    "maj": "2026-10-13"
+    "maj": "2026-10-29"
   },
   "source": "google-places",
   "redaction": {
@@ -73,6 +73,14 @@
         "titre": "Le pontet en quelques mots",
         "paragraphes": [
           "Sur Google, l'établissement est classé « Boucherie », dans notre rubrique Commerce d'alimentation."
+        ]
+      },
+      {
+        "id": "prestations",
+        "titre": "Services et équipements de Le pontet",
+        "paragraphes": [
+          "Moyens de paiement déclarés : carte bancaire et carte de débit.",
+          "Ces indications sont déclarées par l'établissement sur sa fiche Google (relevé du 29 octobre 2026)."
         ]
       },
       {
@@ -94,7 +102,7 @@
         "id": "avis",
         "titre": "La réputation de Le pontet",
         "paragraphes": [
-          "Note de 4 sur 5 pour 24 avis Google au relevé du 13 octobre 2026. Les avis se consultent sur la fiche Google, dont le lien figure sur cette page."
+          "Note de 4 sur 5 pour 24 avis Google au relevé du 29 octobre 2026. Les avis les plus parlants sont compilés ci-dessous, avec un lien vers la fiche d'origine."
         ]
       }
     ],
@@ -108,7 +116,7 @@
         "r": "La fiche Google de l'établissement mentionne : « Entrée accessible en fauteuil roulant ». Cette information est déclarative ; en cas de doute, vérifiez par téléphone."
       }
     ],
-    "genere_le": "2026-10-13"
+    "genere_le": "2026-10-29"
   },
   "statut_google": "OPERATIONAL",
   "audience": {
@@ -119,6 +127,65 @@
     "clicsRecents": 0,
     "fenetreRecenteJours": 28,
     "source": "search-console",
-    "date": "2026-10-28"
+    "date": "2026-10-29"
+  },
+  "avis_detail": {
+    "releve": "2026-10-29",
+    "liste": [
+      {
+        "note": 5,
+        "texte": "Magnifique pour le péché",
+        "langue": "fr",
+        "date": "2026-07-06",
+        "auteur": "Vanya Asenova",
+        "auteur_lien": "https://www.google.com/maps/contrib/115174638422866963104/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT21aU1lrWm9lRTVWUlhkMVp5MUJUR1JpYVdZNFpFRRAB!2m1!1s0x12b5edee9f138773:0x41a7bc8999a161ba"
+      },
+      {
+        "note": 5,
+        "texte": "Organisation impeccable – merci aux compagnies de transport public et à Flixbus !",
+        "langue": "fr",
+        "date": "2025-12-08",
+        "auteur": "Steffi Friedemann",
+        "auteur_lien": "https://www.google.com/maps/contrib/102438573032275525872/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2pVNGNGaFphVFZ6T1dObmJWcGxSemRPVVVJMWRGRRAB!2m1!1s0x12b5edee9f138773:0x41a7bc8999a161ba"
+      },
+      {
+        "note": 1,
+        "texte": "Pour quelqu’un qui se sentira visé pour deco et autre bibelots pour enfant en bas âge style des bracelets colliers pour les douleur dentaires Bonjour je m’est une notes mais c a voir, j’ai acheté 2 collier pour mes enfants un à cassé réparation pas de soucis la première fois, puis je me rend compte en reprenant ce qu’il avait réparé, je le regarde je tire un et là sa lache, branle bas de combat la vendeuse ou responsable du magasin me dit la on ne peut plus rien faire (1er assurance du magasin puisqu’il c cassé dans le magasin mais bon peut être mal assuré on ne c jamais ) après une soi disant beaucoup de discussion inutile elle ose  me dire\nPuis Si on ne peut pas achèter 2 collier pour c enfants on en fait pas.. Bé c sympa a 50 balle le collier en pseudo ambre  pour les dents merci au revoir.\nJe ne dit pas qu’il ne faut plus y aller j’explique mon désarroi face à des gens sans scrupules\nAu revoir sans scrupules pour de bon cette fois",
+        "langue": "fr",
+        "date": "2025-08-13",
+        "auteur": "Corinne Ascenzo",
+        "auteur_lien": "https://www.google.com/maps/contrib/117650540641727260368/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2kxQlprazVWMEpwUkRoeGJEZEZjMDkwUmtWcmVsRRAB!2m1!1s0x12b5edee9f138773:0x41a7bc8999a161ba"
+      },
+      {
+        "note": 5,
+        "texte": "Village très agréable avec des chemins qui traversent des parcs magnifiquement entretenus",
+        "langue": "fr",
+        "date": "2025-02-04",
+        "auteur": "Michel Agusti",
+        "auteur_lien": "https://www.google.com/maps/contrib/118044288458315354952/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnTUNBbS0zdTJRRRAB!2m1!1s0x12b5edee9f138773:0x41a7bc8999a161ba"
+      },
+      {
+        "note": 2,
+        "texte": "Bus-station Le Pontet est juste un endroit pour attendre son car, pas vraiment d'indication, mais tant qu'on a ses informations de voyage, le car arrive à l'heure. Qqs bancs pour l'attente et un heureusement un PMU à côté pour patienter. Connexion avec les bus d'Avignon proche de la station de car.",
+        "langue": "fr",
+        "date": "2025-01-27",
+        "auteur": "Fred Voisard",
+        "auteur_lien": "https://www.google.com/maps/contrib/114065236050210719518/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSURfNTlhbXZBRRAB!2m1!1s0x12b5edee9f138773:0x41a7bc8999a161ba"
+      }
+    ]
+  },
+  "services": {
+    "releve": "2026-10-29",
+    "options": {},
+    "paiement": [
+      "carte bancaire",
+      "carte de débit"
+    ],
+    "parking": []
   }
 }
