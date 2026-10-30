@@ -30,7 +30,7 @@
     "longitude": 3.6572104999999993
   },
   "note": 3.9,
-  "avis": 714,
+  "avis": 716,
   "horaires": [
     {
       "jour": 0,
@@ -109,8 +109,8 @@
     "etat": "absent",
     "premiere_detection": null,
     "derniere_detection": null,
-    "derniere_verification": "2026-10-14T10:07:28.770Z",
-    "echecs": 47,
+    "derniere_verification": "2026-10-30T11:21:01.088Z",
+    "echecs": 48,
     "url_detectee": null
   },
   "suggestion": {
@@ -128,22 +128,30 @@
   "dates": {
     "collecte": "2026-09-11",
     "publication": "2026-09-11",
-    "maj": "2026-10-26"
+    "maj": "2026-10-30"
   },
   "source": "google-places",
   "redaction": {
     "version": 2,
     "titre": "Magic bowling — Loisirs, sport et culture à Laon",
     "meta_titre": "Magic bowling à Laon : horaires, avis, téléphone",
-    "meta_description": "Magic bowling, loisirs, sport et culture à Laon : horaires d'ouverture, note Google 3,9/5 (714 avis), téléphone, adresse et itinéraire.",
-    "chapo": "Magic bowling exerce l'activité de loisirs, sport et culture au 2 Rue Nicolas Appert, à Laon. Ouvert tous les jours sauf le lundi au relevé du 14 octobre 2026. Téléphone : 03 23 79 84 37. Note Google : 3,9 sur 5 pour 714 avis.",
+    "meta_description": "Magic bowling, loisirs, sport et culture à Laon : horaires d'ouverture, note Google 3,9/5 (716 avis), téléphone, adresse et itinéraire.",
+    "chapo": "Magic bowling exerce l'activité de loisirs, sport et culture au 2 Rue Nicolas Appert, à Laon. Ouvert tous les jours sauf le lundi au relevé du 30 octobre 2026. Téléphone : 03 23 79 84 37. Note Google : 3,9 sur 5 pour 716 avis.",
     "sections": [
       {
         "id": "presentation",
         "titre": "Magic bowling en quelques mots",
         "paragraphes": [
           "Sur Google, l'établissement est classé « Bowling », dans notre rubrique Loisirs, sport et culture.",
-          "D'après le relevé du 14 octobre 2026, l'établissement est ouvert tous les jours sauf le lundi. Le détail jour par jour figure plus bas."
+          "D'après le relevé du 30 octobre 2026, l'établissement est ouvert tous les jours sauf le lundi. Le détail jour par jour figure plus bas."
+        ]
+      },
+      {
+        "id": "prestations",
+        "titre": "Services et équipements de Magic bowling",
+        "paragraphes": [
+          "Moyens de paiement déclarés : carte bancaire, carte de débit et paiement sans contact.",
+          "Ces indications sont déclarées par l'établissement sur sa fiche Google (relevé du 30 octobre 2026)."
         ]
       },
       {
@@ -165,18 +173,18 @@
         "id": "avis",
         "titre": "La réputation de Magic bowling",
         "paragraphes": [
-          "Note de 3,9 sur 5 pour 714 avis Google au relevé du 14 octobre 2026. Les avis se consultent sur la fiche Google, dont le lien figure sur cette page."
+          "Note de 3,9 sur 5 pour 716 avis Google au relevé du 30 octobre 2026. Les avis les plus parlants sont compilés ci-dessous, avec un lien vers la fiche d'origine."
         ]
       }
     ],
     "faq": [
       {
         "q": "Quels sont les horaires de Magic bowling ?",
-        "r": "Au relevé du 14 octobre 2026, Magic bowling était ouvert tous les jours sauf le lundi. Dans le détail — lundi : fermé ; mardi : de 12 h à 0 h ; mercredi : de 12 h à 0 h ; jeudi : de 12 h à 0 h ; vendredi : de 14 h à 2 h ; samedi : de 14 h à 2 h ; dimanche : de 14 h à 20 h. Ces horaires peuvent changer : un appel préalable reste conseillé."
+        "r": "Au relevé du 30 octobre 2026, Magic bowling était ouvert tous les jours sauf le lundi. Dans le détail — lundi : fermé ; mardi : de 12 h à 0 h ; mercredi : de 12 h à 0 h ; jeudi : de 12 h à 0 h ; vendredi : de 14 h à 2 h ; samedi : de 14 h à 2 h ; dimanche : de 14 h à 20 h. Ces horaires peuvent changer : un appel préalable reste conseillé."
       },
       {
         "q": "Magic bowling est-il ouvert le dimanche ?",
-        "r": "Oui : le dimanche, Magic bowling est ouvert de 14 h à 20 h (horaires relevés le 14 octobre 2026)."
+        "r": "Oui : le dimanche, Magic bowling est ouvert de 14 h à 20 h (horaires relevés le 30 octobre 2026)."
       },
       {
         "q": "Où se trouve Magic bowling ?",
@@ -191,7 +199,7 @@
         "r": "La fiche Google de l'établissement mentionne : « Entrée accessible en fauteuil roulant ». Cette information est déclarative ; en cas de doute, vérifiez par téléphone."
       }
     ],
-    "genere_le": "2026-10-14"
+    "genere_le": "2026-10-30"
   },
   "statut_google": "OPERATIONAL",
   "audience": {
@@ -202,7 +210,7 @@
     "clicsRecents": 0,
     "fenetreRecenteJours": 28,
     "source": "search-console",
-    "date": "2026-10-29"
+    "date": "2026-10-30"
   },
   "indexation": {
     "etat": "non-indexee",
@@ -212,5 +220,65 @@
     "canonique_google": null,
     "source": "inspection",
     "date": "2026-10-26"
+  },
+  "avis_detail": {
+    "releve": "2026-10-30",
+    "liste": [
+      {
+        "note": 5,
+        "texte": "Une visite en famille très appréciable\nNous avons été très bien accueillis\nPersonnelles au top\nNous reviendrons avec plaisir",
+        "langue": "fr",
+        "date": "2026-09-01",
+        "auteur": "Julien Pacheco Da Silva",
+        "auteur_lien": "https://www.google.com/maps/contrib/100922656390050238910/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2tSQ2FYZEhaRlJLVFdaQ2VuTlZSM2RvVFV0TFZWRRAB!2m1!1s0x47e9b4b986f5253b:0xbb2099345e1a3d6a"
+      },
+      {
+        "note": 1,
+        "texte": "Bonsoir,\n\nJ'ai était pour une première fois au bowling et je suis vraiment déçu.\nJ'ai appelé la veille de ma venu pour demander des renseignements sur les tarifs et si ils prennait bien les tickets resto. La dame m'a pas su vraiment répondre Elle a du demander à ça supérieur à chaque fois.\nElle m'avait bien confirmé au téléphone que c'était bien 6€ avec les chaussures de location comprises. (Pour le mercredi soir a 21h)\nUne fois sur place on me dit que c'était pas avec la location de chaussures  alors que ça collègue m'avait bien confirmé au téléphone que c'était avec!\nUne fois le paiement fait lors des parties ça arrêté pas de faire des soucis électronique on a du aller voir le gérant au moins 3 fois.\nCela est un peu abuse\nLa chaleur était insoutenable surtout dans une période de canicule qui n'a même pas de clim dans la salle..\nLes boules de bowling étant abîmé cela fait percuter le jeu car la boule ne roule pas bien sur la piste et du coups fait quelques coups.\nEn partant lors des retours des chaussures la dame m'a donné une autre paires de chaussures d'une autre dame étant un homme...alors que normalement je devais avoir ma paires a moi.\nIl a donc une mauvaise gestion de rangement lors des chaussures de prêt.\nNous avons fait une parties de flippers mais il déconnait sans cesse cela faisait perturber.\n\nBreff pour une première fois je souhaite plus y retourner!!!",
+        "langue": "fr",
+        "date": "2026-07-29",
+        "auteur": "Valentin Caze",
+        "auteur_lien": "https://www.google.com/maps/contrib/102476223451115270331/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2pabFpTMWxSVXhoTFV3eE9WaFJZbDlIYm0xWlkwRRAB!2m1!1s0x47e9b4b986f5253b:0xbb2099345e1a3d6a"
+      },
+      {
+        "note": 1,
+        "texte": "Très déçus de notre soirée en famille dans ce bowling.\n\nDès notre arrivée, l'attente à l'accueil a été très longue. Le personnel était peu accueillant : à peine un bonjour, pas d'au revoir, aucun sourire, et nous avions constamment l'impression de déranger.\n\nNotre écran de jeu est tombé en panne à trois reprises. Lorsque nous l'avons signalé, nous avons eu le sentiment que notre parole était remise en doute, comme si nous exagérions le problème, ce qui est très désagréable.\n\nAutre point négatif : aucune climatisation ni ventilation, il faisait extrêmement chaud.\n\nEnfin, il est dommage qu'il ne soit pas possible d'acheter une simple carafe de sirop (petite jeune) qui m'a dis qu'on ne peut pas. Pourtant, de l'eau et du sirop sont proposés en supplément, et ce service existe dans les formules anniversaire.\n\nIl y a vraiment plusieurs points à revoir. C'est une expérience très décevante, et nous ne pensons malheureusement pas revenir.",
+        "langue": "fr",
+        "date": "2026-07-29",
+        "auteur": "Kelly Nouvier",
+        "auteur_lien": "https://www.google.com/maps/contrib/112650167263786593939/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xRNVUxWnpPWFJ2WDJVek4wWmxXVzVRWDA0eGRWRRAB!2m1!1s0x47e9b4b986f5253b:0xbb2099345e1a3d6a"
+      },
+      {
+        "note": 5,
+        "texte": "Mention spéciale au serveur Julien, le sourire, il fait de superbe cocktail je reviendrai .",
+        "langue": "fr",
+        "date": "2026-07-26",
+        "auteur": "Tiffany Givry",
+        "auteur_lien": "https://www.google.com/maps/contrib/103836370569357378516/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25odlpUY3pWVVo1TFY5d2FVYzVOekI0YWxKcGQzYxAB!2m1!1s0x47e9b4b986f5253b:0xbb2099345e1a3d6a"
+      },
+      {
+        "note": 2,
+        "texte": "Honteux. J'y suis allé hier. Vers 22 h\nPas de climatisation\nIl y avait la sortie de secours ouverte mais d'air du coup je n'ai pas joué. Juste assise pour boire un verre. Mais même ça c'était intenable. Aucuns ventilateurs.",
+        "langue": "fr",
+        "date": "2026-06-28",
+        "auteur": "Martine Boudin",
+        "auteur_lien": "https://www.google.com/maps/contrib/117833899349068467281/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xkRU9HOXpWVFZYVVV0eVRHaHZVSEl3VTJWVVRGRRAB!2m1!1s0x47e9b4b986f5253b:0xbb2099345e1a3d6a"
+      }
+    ]
+  },
+  "services": {
+    "releve": "2026-10-30",
+    "options": {},
+    "paiement": [
+      "carte bancaire",
+      "carte de débit",
+      "paiement sans contact"
+    ],
+    "parking": []
   }
 }

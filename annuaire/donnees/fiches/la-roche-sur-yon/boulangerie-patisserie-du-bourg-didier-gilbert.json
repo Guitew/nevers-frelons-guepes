@@ -1,0 +1,288 @@
+{
+  "id": "ChIJ_eZTr4AlBEgRfTj9UqI1VY0",
+  "slug": "boulangerie-patisserie-du-bourg-didier-gilbert",
+  "nom": "Boulangerie Pâtisserie du Bourg \"Didier Gilbert\"",
+  "categorie": "boulangeries-patisseries",
+  "categorie_gmb": "Boulangerie",
+  "type_principal": "bakery",
+  "types": [
+    "bakery",
+    "food_store",
+    "food",
+    "store",
+    "point_of_interest",
+    "establishment"
+  ],
+  "ville": "La Roche-sur-Yon",
+  "ville_slug": "la-roche-sur-yon",
+  "adresse": {
+    "rue": "6 Place Delphin Maurice Tudeau",
+    "code_postal": "85000",
+    "departement": "85",
+    "region": "Pays de la Loire",
+    "pays": "France",
+    "complete": "6 Pl. Delphin Maurice Tudeau, 85000 La Roche-sur-Yon"
+  },
+  "telephone": "02 51 37 71 89",
+  "geo": {
+    "latitude": 46.6614054,
+    "longitude": -1.4024333999999998
+  },
+  "note": 4.3,
+  "avis": 285,
+  "horaires": [
+    {
+      "jour": 0,
+      "ferme": false,
+      "creneaux": [
+        [
+          "06:00",
+          "19:30"
+        ]
+      ]
+    },
+    {
+      "jour": 1,
+      "ferme": false,
+      "creneaux": [
+        [
+          "06:00",
+          "19:30"
+        ]
+      ]
+    },
+    {
+      "jour": 2,
+      "ferme": true,
+      "creneaux": []
+    },
+    {
+      "jour": 3,
+      "ferme": false,
+      "creneaux": [
+        [
+          "06:00",
+          "19:30"
+        ]
+      ]
+    },
+    {
+      "jour": 4,
+      "ferme": false,
+      "creneaux": [
+        [
+          "06:00",
+          "19:30"
+        ]
+      ]
+    },
+    {
+      "jour": 5,
+      "ferme": false,
+      "creneaux": [
+        [
+          "06:00",
+          "18:00"
+        ]
+      ]
+    },
+    {
+      "jour": 6,
+      "ferme": false,
+      "creneaux": [
+        [
+          "06:00",
+          "13:00"
+        ]
+      ]
+    }
+  ],
+  "attributs": [
+    "Entrée accessible en fauteuil roulant",
+    "Parking accessible en fauteuil roulant"
+  ],
+  "lien_google": "https://maps.google.com/?cid=10184105103661545597&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
+  "site_web_gmb": null,
+  "statut": "publiee",
+  "backlink": {
+    "etat": "absent",
+    "premiere_detection": null,
+    "derniere_detection": null,
+    "derniere_verification": "2026-10-30T11:21:01.088Z",
+    "echecs": 1,
+    "url_detectee": null
+  },
+  "suggestion": {
+    "etat": "en-attente",
+    "date_soumission": null,
+    "tentatives": 0,
+    "date_email": "2026-10-30"
+  },
+  "retrait": null,
+  "dates": {
+    "collecte": "2026-10-30",
+    "publication": "2026-10-30",
+    "maj": "2026-10-30"
+  },
+  "source": "google-places",
+  "avis_detail": {
+    "releve": "2026-10-30",
+    "liste": [
+      {
+        "note": 1,
+        "texte": "A toute les personnes qui commande, ou qui prennent un too good to go. ATTENTION, desfois ils se permettent d annulé au dernier moment. Personnellement ça a été 5 minute avant la collecte. J ai du faire des déplacement pour rien au final. J ai juste eu le droit a un \" la prochaine fois on sait jamais \" .",
+        "langue": "fr",
+        "date": "2026-09-14",
+        "auteur": "Raphaël Racaud",
+        "auteur_lien": "https://www.google.com/maps/contrib/106923154794506549657/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT214UGRsSXlPVEpGVWtaeGIzbzRUelpwVEhBdGJsRRAB!2m1!1s0x48042580af53e6fd:0x8d5535a252fd387d"
+      },
+      {
+        "note": 1,
+        "texte": "Boulangerie qui indique l'ouverture à 6h forcément une fois devant à 6h rien n'est ouvert !\nPourtant le mec te vois ! Mais ça montre ne doit pas être à l'heure",
+        "langue": "fr",
+        "date": "2026-08-04",
+        "auteur": "J JD",
+        "auteur_lien": "https://www.google.com/maps/contrib/113258254291765285263/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT21aZmNtUXlUbVUzUnpoblZIaFhUbWwzYzNoM1dHYxAB!2m1!1s0x48042580af53e6fd:0x8d5535a252fd387d"
+      },
+      {
+        "note": 5,
+        "texte": "Mon conjoint a acheté aujourd’hui un éclair au café et un Paris Brest, l’éclair était excellent et moi qui suis une spécialiste des Paris Brest franchement c’est un des meilleurs que j’ai mangé, très belle taille, crème praliné très généreuse et très bonne ce qui devient rare . Bravo je recommande vivement",
+        "langue": "fr",
+        "date": "2026-05-23",
+        "auteur": "Sophie Caillet",
+        "auteur_lien": "https://www.google.com/maps/contrib/108395362393931171937/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2twT1NEUjVVV0pXVTJ0S01rTlhhRmhMVnpWSmVrRRAB!2m1!1s0x48042580af53e6fd:0x8d5535a252fd387d"
+      },
+      {
+        "note": 5,
+        "texte": "Une adresse qui fait vraiment la différence au quotidien 🥖✨\n\nChez la Boulangerie Gilbert, tout est réuni : un accueil chaleureux dès la porte franchie, un service rapide et efficace, et surtout des produits d’une qualité irréprochable. On sent le savoir-faire et la passion dans chaque création 🍞🥐\n\nLe rapport qualité-prix est tout simplement exceptionnel, ce qui rend chaque passage encore plus appréciable. Et que dire du sourire de Mme Gilbert et de toute son équipe… toujours présents, toujours sincères 😊\nUn vrai plaisir d’y aller, encore et encore. Une boulangerie comme on les aime, humaine, généreuse et authentique 💛",
+        "langue": "fr",
+        "date": "2026-04-30",
+        "auteur": "Adrien Byrotheau",
+        "auteur_lien": "https://www.google.com/maps/contrib/112735170211864301521/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT20wdFRUUk1hRWgwU0dGVWRESllUVlpGYWs5UWRXYxAB!2m1!1s0x48042580af53e6fd:0x8d5535a252fd387d"
+      },
+      {
+        "note": 1,
+        "texte": "La vendeuse désagréable ! Aucun sourire ni quel conque forme de politesse.\nPanier anti gaspi recuperé ce jour contient 4 pains moisis avec odeur nauséabonde, et autres vienneoiseries auxquels je n'ai pas su leur composition portant étant moi même pâtissière. Quelle honte !",
+        "langue": "fr",
+        "date": "2023-03-31",
+        "auteur": "zohra MOUSSAID",
+        "auteur_lien": "https://www.google.com/maps/contrib/115408983618825141818/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUNSMnZfbFp3EAE!2m1!1s0x48042580af53e6fd:0x8d5535a252fd387d"
+      }
+    ]
+  },
+  "services": {
+    "releve": "2026-10-30",
+    "prix": "PRICE_LEVEL_INEXPENSIVE",
+    "options": {
+      "takeout": true,
+      "delivery": false,
+      "servesBreakfast": true
+    },
+    "paiement": [
+      "carte bancaire",
+      "carte de débit",
+      "paiement sans contact"
+    ],
+    "parking": [
+      "parking gratuit"
+    ]
+  },
+  "redaction": {
+    "version": 2,
+    "titre": "Boulangerie Pâtisserie du Bourg \"Didier Gilbert\" — Boulangerie-pâtisserie à La Roche-sur-Yon",
+    "meta_titre": "Boulangerie Pâtisserie du Bourg \"Didier Gilbert\" à La…",
+    "meta_description": "Boulangerie Pâtisserie du Bourg \"Didier Gilbert\", boulangerie-pâtisserie à La Roche-sur-Yon : horaires d'ouverture, téléphone, adresse et itinéraire.",
+    "chapo": "Cette fiche présente Boulangerie Pâtisserie du Bourg \"Didier Gilbert\", une boulangerie-pâtisserie au 6 Place Delphin Maurice Tudeau, à La Roche-sur-Yon. Ouvert tous les jours sauf le mercredi au relevé du 30 octobre 2026. Téléphone : 02 51 37 71 89. Note Google : 4,3 sur 5 pour 285 avis.",
+    "sections": [
+      {
+        "id": "presentation",
+        "titre": "Boulangerie Pâtisserie du Bourg \"Didier Gilbert\" en quelques mots",
+        "paragraphes": [
+          "Sur Google, l'établissement est classé « Boulangerie », dans notre rubrique Boulangerie-pâtisserie.",
+          "Niveau de prix indiqué sur la fiche Google : € (bon marché).",
+          "D'après le relevé du 30 octobre 2026, l'établissement est ouvert tous les jours sauf le mercredi. Le détail jour par jour figure plus bas."
+        ]
+      },
+      {
+        "id": "prestations",
+        "titre": "Services et équipements de Boulangerie Pâtisserie du Bourg \"Didier Gilbert\"",
+        "paragraphes": [
+          "Proposé : à emporter et petit-déjeuner.",
+          "Non proposé selon la fiche Google : livraison.",
+          "Moyens de paiement déclarés : carte bancaire, carte de débit et paiement sans contact.",
+          "Stationnement : parking gratuit.",
+          "Ces indications sont déclarées par l'établissement sur sa fiche Google (relevé du 30 octobre 2026)."
+        ]
+      },
+      {
+        "id": "acces",
+        "titre": "Adresse et accès",
+        "paragraphes": [
+          "L'établissement est situé au 6 Place Delphin Maurice Tudeau, 85000 La Roche-sur-Yon.",
+          "Coordonnées GPS : 46.66141, -1.40243. Le bouton Itinéraire de cette page ouvre la navigation."
+        ]
+      },
+      {
+        "id": "contact",
+        "titre": "Contacter Boulangerie Pâtisserie du Bourg \"Didier Gilbert\"",
+        "paragraphes": [
+          "Le contact se fait par téléphone au 02 51 37 71 89, ou directement sur place aux horaires d'ouverture."
+        ]
+      },
+      {
+        "id": "avis",
+        "titre": "La réputation de Boulangerie Pâtisserie du Bourg \"Didier Gilbert\"",
+        "paragraphes": [
+          "Note de 4,3 sur 5 pour 285 avis Google au relevé du 30 octobre 2026. Les avis les plus parlants sont compilés ci-dessous, avec un lien vers la fiche d'origine."
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "q": "Quels sont les horaires de Boulangerie Pâtisserie du Bourg \"Didier Gilbert\" ?",
+        "r": "Au relevé du 30 octobre 2026, Boulangerie Pâtisserie du Bourg \"Didier Gilbert\" était ouvert tous les jours sauf le mercredi. Dans le détail — lundi : de 6 h à 19 h 30 ; mardi : de 6 h à 19 h 30 ; mercredi : fermé ; jeudi : de 6 h à 19 h 30 ; vendredi : de 6 h à 19 h 30 ; samedi : de 6 h à 18 h ; dimanche : de 6 h à 13 h. Ces horaires peuvent changer : un appel préalable reste conseillé."
+      },
+      {
+        "q": "Boulangerie Pâtisserie du Bourg \"Didier Gilbert\" est-il ouvert le dimanche ?",
+        "r": "Oui : le dimanche, Boulangerie Pâtisserie du Bourg \"Didier Gilbert\" est ouvert de 6 h à 13 h (horaires relevés le 30 octobre 2026)."
+      },
+      {
+        "q": "Où se trouve Boulangerie Pâtisserie du Bourg \"Didier Gilbert\" ?",
+        "r": "Boulangerie Pâtisserie du Bourg \"Didier Gilbert\" se trouve 6 Pl. Delphin Maurice Tudeau, 85000 La Roche-sur-Yon. Un lien d'itinéraire est disponible sur cette page."
+      },
+      {
+        "q": "Comment contacter Boulangerie Pâtisserie du Bourg \"Didier Gilbert\" ?",
+        "r": "Par téléphone au 02 51 37 71 89, ou directement sur place aux heures d'ouverture."
+      },
+      {
+        "q": "Boulangerie Pâtisserie du Bourg \"Didier Gilbert\" propose-t-il la vente à emporter ou la livraison ?",
+        "r": "D'après sa fiche Google (relevé du 30 octobre 2026) — vente à emporter : oui ; livraison : non."
+      },
+      {
+        "q": "Quel est le niveau de prix de Boulangerie Pâtisserie du Bourg \"Didier Gilbert\" ?",
+        "r": "Google classe Boulangerie Pâtisserie du Bourg \"Didier Gilbert\" au niveau de prix € (bon marché), sur une échelle de € à €€€€ établie à partir des avis clients."
+      },
+      {
+        "q": "Boulangerie Pâtisserie du Bourg \"Didier Gilbert\" est-il accessible aux personnes à mobilité réduite ?",
+        "r": "La fiche Google de l'établissement mentionne : « Entrée accessible en fauteuil roulant ». Cette information est déclarative ; en cas de doute, vérifiez par téléphone."
+      }
+    ],
+    "genere_le": "2026-10-30"
+  },
+  "statut_google": "OPERATIONAL",
+  "audience": {
+    "clics": 0,
+    "impressions": 0,
+    "position": null,
+    "fenetreJours": 90,
+    "clicsRecents": 0,
+    "fenetreRecenteJours": 28,
+    "source": "search-console",
+    "date": "2026-10-30"
+  }
+}

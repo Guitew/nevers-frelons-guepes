@@ -28,8 +28,8 @@
     "latitude": 48.6120363,
     "longitude": 2.4743600999999997
   },
-  "note": 3.8,
-  "avis": 476,
+  "note": 3.7,
+  "avis": 481,
   "horaires": [
     {
       "jour": 0,
@@ -112,8 +112,8 @@
     "etat": "absent",
     "premiere_detection": null,
     "derniere_detection": null,
-    "derniere_verification": "2026-10-14T10:07:28.770Z",
-    "echecs": 1,
+    "derniere_verification": "2026-10-30T11:21:01.088Z",
+    "echecs": 2,
     "url_detectee": null
   },
   "suggestion": {
@@ -126,22 +126,34 @@
   "dates": {
     "collecte": "2026-10-14",
     "publication": "2026-10-14",
-    "maj": "2026-10-14"
+    "maj": "2026-10-30"
   },
   "source": "google-places",
   "redaction": {
     "version": 2,
     "titre": "Restaurant Izmir — Restaurant à Corbeil-Essonnes",
     "meta_titre": "Restaurant Izmir à Corbeil-Essonnes : horaires, avis",
-    "meta_description": "Restaurant Izmir, restaurant à Corbeil-Essonnes : horaires d'ouverture, note Google 3,8/5 (476 avis), téléphone, adresse et itinéraire.",
-    "chapo": "Restaurant Izmir exerce l'activité de restaurant au 24 Rue du Général Leclerc, à Corbeil-Essonnes. Ouvert sept jours sur sept au relevé du 14 octobre 2026. Téléphone : 09 50 13 98 00. Note Google : 3,8 sur 5 pour 476 avis.",
+    "meta_description": "Restaurant Izmir, restaurant à Corbeil-Essonnes : horaires d'ouverture, note Google 3,7/5 (481 avis), téléphone, adresse et itinéraire.",
+    "chapo": "Restaurant Izmir exerce l'activité de restaurant au 24 Rue du Général Leclerc, à Corbeil-Essonnes. Ouvert sept jours sur sept au relevé du 30 octobre 2026. Téléphone : 09 50 13 98 00. Note Google : 3,7 sur 5 pour 481 avis.",
     "sections": [
       {
         "id": "presentation",
         "titre": "Restaurant Izmir en quelques mots",
         "paragraphes": [
           "Sur Google, l'établissement est classé « Restaurant turc », dans notre rubrique Restaurant.",
-          "D'après le relevé du 14 octobre 2026, l'établissement est ouvert sept jours sur sept. Le détail jour par jour figure plus bas."
+          "Niveau de prix indiqué sur la fiche Google : € (bon marché).",
+          "D'après le relevé du 30 octobre 2026, l'établissement est ouvert sept jours sur sept. Le détail jour par jour figure plus bas."
+        ]
+      },
+      {
+        "id": "prestations",
+        "titre": "Services et équipements de Restaurant Izmir",
+        "paragraphes": [
+          "Proposé : sur place, à emporter, déjeuner, dîner, café, menu enfant, adapté aux enfants et toilettes.",
+          "Non proposé selon la fiche Google : livraison, terrasse, brunch, plats végétariens, bière, vin, cocktails et musique live.",
+          "Moyens de paiement déclarés : carte bancaire, carte de débit et paiement sans contact.",
+          "Stationnement : parking gratuit et stationnement gratuit dans la rue.",
+          "Ces indications sont déclarées par l'établissement sur sa fiche Google (relevé du 30 octobre 2026)."
         ]
       },
       {
@@ -163,18 +175,18 @@
         "id": "avis",
         "titre": "La réputation de Restaurant Izmir",
         "paragraphes": [
-          "Note de 3,8 sur 5 pour 476 avis Google au relevé du 14 octobre 2026. Les avis se consultent sur la fiche Google, dont le lien figure sur cette page."
+          "Note de 3,7 sur 5 pour 481 avis Google au relevé du 30 octobre 2026. Les avis les plus parlants sont compilés ci-dessous, avec un lien vers la fiche d'origine."
         ]
       }
     ],
     "faq": [
       {
         "q": "Quels sont les horaires de Restaurant Izmir ?",
-        "r": "Au relevé du 14 octobre 2026, Restaurant Izmir était ouvert sept jours sur sept. Dans le détail — lundi : de 10 h 45 à 0 h ; mardi : de 10 h 45 à 0 h ; mercredi : de 10 h 45 à 0 h ; jeudi : de 10 h 45 à 0 h ; vendredi : de 10 h 45 à 0 h ; samedi : de 10 h 45 à 0 h ; dimanche : de 10 h 45 à 0 h. Ces horaires peuvent changer : un appel préalable reste conseillé."
+        "r": "Au relevé du 30 octobre 2026, Restaurant Izmir était ouvert sept jours sur sept. Dans le détail — lundi : de 10 h 45 à 0 h ; mardi : de 10 h 45 à 0 h ; mercredi : de 10 h 45 à 0 h ; jeudi : de 10 h 45 à 0 h ; vendredi : de 10 h 45 à 0 h ; samedi : de 10 h 45 à 0 h ; dimanche : de 10 h 45 à 0 h. Ces horaires peuvent changer : un appel préalable reste conseillé."
       },
       {
         "q": "Restaurant Izmir est-il ouvert le dimanche ?",
-        "r": "Oui : le dimanche, Restaurant Izmir est ouvert de 10 h 45 à 0 h (horaires relevés le 14 octobre 2026)."
+        "r": "Oui : le dimanche, Restaurant Izmir est ouvert de 10 h 45 à 0 h (horaires relevés le 30 octobre 2026)."
       },
       {
         "q": "Où se trouve Restaurant Izmir ?",
@@ -185,21 +197,110 @@
         "r": "Par téléphone au 09 50 13 98 00, ou directement sur place aux heures d'ouverture."
       },
       {
+        "q": "Restaurant Izmir propose-t-il la vente à emporter ou la livraison ?",
+        "r": "D'après sa fiche Google (relevé du 30 octobre 2026) — vente à emporter : oui ; livraison : non."
+      },
+      {
+        "q": "Quel est le niveau de prix de Restaurant Izmir ?",
+        "r": "Google classe Restaurant Izmir au niveau de prix € (bon marché), sur une échelle de € à €€€€ établie à partir des avis clients."
+      },
+      {
         "q": "Restaurant Izmir est-il accessible aux personnes à mobilité réduite ?",
         "r": "La fiche Google de l'établissement mentionne : « Places assises accessibles en fauteuil roulant ». Cette information est déclarative ; en cas de doute, vérifiez par téléphone."
       }
     ],
-    "genere_le": "2026-10-14"
+    "genere_le": "2026-10-30"
   },
   "statut_google": "OPERATIONAL",
   "audience": {
     "clics": 0,
-    "impressions": 137,
-    "position": 7.9,
+    "impressions": 158,
+    "position": 7.7,
     "fenetreJours": 90,
     "clicsRecents": 0,
     "fenetreRecenteJours": 28,
     "source": "search-console",
-    "date": "2026-10-29"
+    "date": "2026-10-30"
+  },
+  "avis_detail": {
+    "releve": "2026-10-30",
+    "liste": [
+      {
+        "note": 1,
+        "texte": "Je suis entré dans ce restaurant avec l’intention de consommer. J’ai demandé si je pouvais utiliser les toilettes et, bien entendu, j’ai commandé quelque chose afin de payer.\n\nCe qui m’a le plus choqué, c’est le comportement d’un des serveurs. En pensant que je ne comprenais pas le turc, il a dit à son collègue : « Ya que des fous qui rentrent ici. » Étant moi-même turcophone, je lui ai répondu en turc, ce qui l’a visiblement surpris.\n\nAu-delà de cet incident, le respect envers les clients est inexistant. Le service laisse à désirer et l’hygiène ne m’a pas inspiré confiance. J’ai tout de même consommé par respect, mais avec le recul, cela n’en valait vraiment pas la peine.\n\nQue je sois turc ou non ne change rien : aucun client ne devrait être rabaissé ou insulté de cette manière. Si cela avait été une autre personne qui ne comprenait pas la langue, elle n’aurait même jamais su ce qui se disait derrière son dos. C’est honteux et totalement irrespectueux. Je n’y remettrai plus les pieds.",
+        "langue": "fr",
+        "date": "2026-07-31",
+        "auteur": "C A",
+        "auteur_lien": "https://www.google.com/maps/contrib/103252956125298246616/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2tNeVFtUlBlall5Y21jdGFGQXlSMlk0TUZaNWRIYxAB!2m1!1s0x47e5e7e332b1cc0f:0x9cfab40370a76d90"
+      },
+      {
+        "note": 1,
+        "texte": "Apparemment impossible pour eux de ne pas mettre de la viande dedans pour une personne qui n'en mange pas. Aucun effort pas serviable et on l'impression de les faire chier.\n\nA noter que quand on vous dis qu'un gamin ne peut pas manger de viande et vous demande simplement de la mette de côté il y a une raison Resultat mon gamin a pas mangé merci de votre compréhension et de votre super écoute.",
+        "langue": "fr",
+        "date": "2026-07-14",
+        "auteur": "Gracieux",
+        "auteur_lien": "https://www.google.com/maps/contrib/107404178056452124872/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xaTGNWUTFTaTFhTlVoUFdreGlSa2RVYlVKeFYyYxAB!2m1!1s0x47e5e7e332b1cc0f:0x9cfab40370a76d90"
+      },
+      {
+        "note": 1,
+        "texte": "Là je viens de téléphoner, ça me raccroche au nez. Quand je fais part que les frites elles sont presque même pas cuites, elles sont crues que ma commande j’ai demandé elle est plus de crudités, j’en ai pas, j’ai fait une autre commande avec  Un kebab mayonnaise Biggy les frites aussi presque pas cuite je les appelle pour demander si c’est normal au final j’apprends le patron, il est pas là, ils sont débordés quand le patron il est pas là vous êtes débordé si vous savez pas faire et vous savez pas gérer un restaurant quand le patron il est pas là, bougez ne travaillez pas parce que moi je viens très souvent chez vous et là j’ai été très très déçu vraiment  parce que là c’est très dangereux pour la La santé de donner des choses comme ça vous voulez pas une autre cassions alimentaire aux gens même la viande c’est comment d’habitude j’ai pas à me plaindre, je suis là vous défendre à chaque fois mais là là les frites mais vous m’avez déçu en plus j’appelle pour dire que les frites c’est pas ça elles sont pas assez cuites et ça me raccroche au nez y’a pas de soucis j’attends de voir le patron quand je vais venir",
+        "langue": "fr",
+        "date": "2026-07-06",
+        "auteur": "lili vdr",
+        "auteur_lien": "https://www.google.com/maps/contrib/116459817986888895389/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xaUFFtUkxWbFZtZDJkSmRrbE9ia3hFT0RCS1dHYxAB!2m1!1s0x47e5e7e332b1cc0f:0x9cfab40370a76d90"
+      },
+      {
+        "note": 5,
+        "texte": "La broche doit être cuite à l’avance.\n\nÀ l’ouverture, elle est encore crue !\n\nComment peux-tu servir ça ?\n\nJe comprends mieux pourquoi l’hygiène est intervenue.\n\nEt même après son passage, au niveau de l’hygiène, ça reste douteux.",
+        "langue": "fr",
+        "date": "2026-01-12",
+        "auteur": "Remy",
+        "auteur_lien": "https://www.google.com/maps/contrib/114290765521399052907/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2tSbmVUUTFlVU13VERodFUzbHljbHBPVVhwMFYzYxAB!2m1!1s0x47e5e7e332b1cc0f:0x9cfab40370a76d90"
+      },
+      {
+        "note": 4,
+        "texte": "Bravo, vous proposez un sandwich döner à 3,50€ c’est du jamais vu. J’ai testé par hasard celui au veau et celui au poulet ben ça passe bien, c’est bon, service rapide et en plus le resto est propre. Avec un boisson j’en ai eu pour 8 euros, que demander de plus sérieux.\nPour ceux qui ont peu de moyen c’est plutôt utile, alors bien sûre que j’encourage ce resto!\nIl permet à pas mal de monde autour, jeunes, lycéens/etudiants, petites familles et de travailleurs de se restaurer à un prix raisonnable. Le rapport qualité prix est là.",
+        "langue": "fr",
+        "date": "2024-12-31",
+        "auteur": "CAPTAIN MAGHREB",
+        "auteur_lien": "https://www.google.com/maps/contrib/103728963888999824384/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUNmN2NIaFF3EAE!2m1!1s0x47e5e7e332b1cc0f:0x9cfab40370a76d90"
+      }
+    ]
+  },
+  "services": {
+    "releve": "2026-10-30",
+    "prix": "PRICE_LEVEL_INEXPENSIVE",
+    "options": {
+      "dineIn": true,
+      "takeout": true,
+      "delivery": false,
+      "outdoorSeating": false,
+      "servesBrunch": false,
+      "servesLunch": true,
+      "servesDinner": true,
+      "servesVegetarianFood": false,
+      "servesCoffee": true,
+      "servesBeer": false,
+      "servesWine": false,
+      "servesCocktails": false,
+      "menuForChildren": true,
+      "goodForChildren": true,
+      "liveMusic": false,
+      "restroom": true
+    },
+    "paiement": [
+      "carte bancaire",
+      "carte de débit",
+      "paiement sans contact"
+    ],
+    "parking": [
+      "parking gratuit",
+      "stationnement gratuit dans la rue"
+    ]
   }
 }

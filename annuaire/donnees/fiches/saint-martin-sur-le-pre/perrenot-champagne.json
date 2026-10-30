@@ -103,8 +103,8 @@
     "etat": "absent",
     "premiere_detection": null,
     "derniere_detection": null,
-    "derniere_verification": "2026-10-14T10:07:28.770Z",
-    "echecs": 58,
+    "derniere_verification": "2026-10-30T11:21:01.088Z",
+    "echecs": 59,
     "url_detectee": null
   },
   "suggestion": {
@@ -124,7 +124,7 @@
   "dates": {
     "collecte": "2026-09-05",
     "publication": "2026-09-05",
-    "maj": "2026-10-18"
+    "maj": "2026-10-30"
   },
   "source": "google-places",
   "redaction": {
@@ -132,14 +132,22 @@
     "titre": "Perrenot Champagne — Transport et déménagement à Saint-Martin-sur-le-Pré",
     "meta_titre": "Perrenot Champagne : horaires, avis, téléphone",
     "meta_description": "Perrenot Champagne, transport et déménagement à Saint-Martin-sur-le-Pré : horaires d'ouverture, téléphone, adresse et itinéraire.",
-    "chapo": "Cette fiche présente Perrenot Champagne, un transport et déménagement au Rue Charles Marie Ravel, à Saint-Martin-sur-le-Pré. Fermé le samedi et le dimanche au relevé du 14 octobre 2026. Téléphone : 03 26 21 70 66. Note Google : 3,9 sur 5 pour 30 avis.",
+    "chapo": "Cette fiche présente Perrenot Champagne, un transport et déménagement au Rue Charles Marie Ravel, à Saint-Martin-sur-le-Pré. Fermé le samedi et le dimanche au relevé du 30 octobre 2026. Téléphone : 03 26 21 70 66. Note Google : 3,9 sur 5 pour 30 avis.",
     "sections": [
       {
         "id": "presentation",
         "titre": "Perrenot Champagne en quelques mots",
         "paragraphes": [
           "Sur Google, l'établissement est classé « Entreprise de déménagement », dans notre rubrique Transport et déménagement.",
-          "D'après le relevé du 14 octobre 2026, l'établissement est fermé le samedi et le dimanche. Le détail jour par jour figure plus bas."
+          "D'après le relevé du 30 octobre 2026, l'établissement est fermé le samedi et le dimanche. Le détail jour par jour figure plus bas."
+        ]
+      },
+      {
+        "id": "prestations",
+        "titre": "Services et équipements de Perrenot Champagne",
+        "paragraphes": [
+          "Proposé : toilettes.",
+          "Ces indications sont déclarées par l'établissement sur sa fiche Google (relevé du 30 octobre 2026)."
         ]
       },
       {
@@ -161,18 +169,18 @@
         "id": "avis",
         "titre": "La réputation de Perrenot Champagne",
         "paragraphes": [
-          "Note de 3,9 sur 5 pour 30 avis Google au relevé du 14 octobre 2026. Les avis se consultent sur la fiche Google, dont le lien figure sur cette page."
+          "Note de 3,9 sur 5 pour 30 avis Google au relevé du 30 octobre 2026. Les avis les plus parlants sont compilés ci-dessous, avec un lien vers la fiche d'origine."
         ]
       }
     ],
     "faq": [
       {
         "q": "Quels sont les horaires de Perrenot Champagne ?",
-        "r": "Au relevé du 14 octobre 2026, Perrenot Champagne était fermé le samedi et le dimanche. Dans le détail — lundi : de 8 h à 17 h ; mardi : de 8 h à 17 h ; mercredi : de 8 h à 17 h ; jeudi : de 8 h à 17 h ; vendredi : de 8 h à 17 h ; samedi : fermé ; dimanche : fermé. Ces horaires peuvent changer : un appel préalable reste conseillé."
+        "r": "Au relevé du 30 octobre 2026, Perrenot Champagne était fermé le samedi et le dimanche. Dans le détail — lundi : de 8 h à 17 h ; mardi : de 8 h à 17 h ; mercredi : de 8 h à 17 h ; jeudi : de 8 h à 17 h ; vendredi : de 8 h à 17 h ; samedi : fermé ; dimanche : fermé. Ces horaires peuvent changer : un appel préalable reste conseillé."
       },
       {
         "q": "Perrenot Champagne est-il ouvert le dimanche ?",
-        "r": "Non : d'après les horaires relevés le 14 octobre 2026, Perrenot Champagne est fermé le dimanche."
+        "r": "Non : d'après les horaires relevés le 30 octobre 2026, Perrenot Champagne est fermé le dimanche."
       },
       {
         "q": "Où se trouve Perrenot Champagne ?",
@@ -187,7 +195,7 @@
         "r": "La fiche Google de l'établissement mentionne : « Entrée accessible en fauteuil roulant ». Cette information est déclarative ; en cas de doute, vérifiez par téléphone."
       }
     ],
-    "genere_le": "2026-10-14"
+    "genere_le": "2026-10-30"
   },
   "statut_google": "OPERATIONAL",
   "audience": {
@@ -198,7 +206,7 @@
     "clicsRecents": 0,
     "fenetreRecenteJours": 28,
     "source": "search-console",
-    "date": "2026-10-29"
+    "date": "2026-10-30"
   },
   "indexation": {
     "etat": "non-indexee",
@@ -208,5 +216,63 @@
     "canonique_google": null,
     "source": "inspection",
     "date": "2026-10-18"
+  },
+  "avis_detail": {
+    "releve": "2026-10-30",
+    "liste": [
+      {
+        "note": 1,
+        "texte": "Je mets un avis pour leur filiale JP HOME. Service livraison catastrophique, service client imbuvable quand on arrive à les joindre (45 minutes d’attente). À fuir !",
+        "langue": "fr",
+        "date": "2026-09-03",
+        "auteur": "benoit vincent",
+        "auteur_lien": "https://www.google.com/maps/contrib/115630541322504557186/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2pKSVoyMTBUVEpvYjAxbVNWQjVXVnBGT1VSU1ozYxAB!2m1!1s0x47ebdfce56fd0563:0xf9f04d60f8b9501c"
+      },
+      {
+        "note": 5,
+        "texte": "Super bon accueil Laurence Perrenot Bekaert",
+        "langue": "fr",
+        "date": "2026-02-19",
+        "auteur": "Laurence Evrard",
+        "auteur_lien": "https://www.google.com/maps/contrib/116939787224473322978/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2pGMlpUZDJaVkJyVm10VmRrZ3diRkpLVmtjM2RsRRAB!2m1!1s0x47ebdfce56fd0563:0xf9f04d60f8b9501c"
+      },
+      {
+        "note": 1,
+        "texte": "Katastofik cette entreprise, ils te signe un cdi avec une période d'essai de 2 mois et tarrete au bout d'une semaine de travail pour aucune raison, alors que les livraisons on toute été faite correctement.\nIls méritent juste de se retrouver sans chauffeurs pour être en galère et comprendre qu'on ne joue pas comme ça.\nLe pire c'est que cette société, perrenot, sincèrement j'ai entendu mais vraiment beaucoup de négatif dessus, j'ai jamais voulu y croire, me disant je vais faire ma propre expérience pour voir.\nFinalement je me dit que tout ce que j'avais entendu en mal sur eux, était très certainement réel.\nDe plus au vu des commentaires, je ne suis pas le seul à dire ça, donc c'est qu'il y a un véritablement un problème de ce côté là",
+        "langue": "fr",
+        "date": "2025-11-08",
+        "auteur": "Avni",
+        "auteur_lien": "https://www.google.com/maps/contrib/117633669421250445062/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2pSc2FuUjNOVmw2UkV4S2NtcHdhWFF5VURGRWNWRRAB!2m1!1s0x47ebdfce56fd0563:0xf9f04d60f8b9501c"
+      },
+      {
+        "note": 1,
+        "texte": "Rappelle de sécurité et du code de la route aujourd’hui vendredi 24 novembre 2023 sur la département 5 en direction de chalon en champagne si je n’avais pas mis un coup de frein un des chauffeurs de cette boîte aurait tué des gens….alors sur les portes derrière leurs remorque c’est écrit NOTRE CHAUFFEUR C’EST LE MEILLEUR mais ils ne disent pas de qui il s’agit en tout cas c’était pas celui la !",
+        "langue": "fr",
+        "date": "2023-12-07",
+        "auteur": "Djélloul Ahmed Hadri",
+        "auteur_lien": "https://www.google.com/maps/contrib/108699821634330084041/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUNsN2R2SnVRRRAB!2m1!1s0x47ebdfce56fd0563:0xf9f04d60f8b9501c"
+      },
+      {
+        "note": 5,
+        "texte": "Bonne expérience chez Perrenot Champagne. Entreprise jeune et dynamique. Laisse sa chance aux débutants",
+        "langue": "fr",
+        "date": "2021-02-11",
+        "auteur": "Champagne Perrenot",
+        "auteur_lien": "https://www.google.com/maps/contrib/113816504840705340700/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUN5NDZuNmxnRRAB!2m1!1s0x47ebdfce56fd0563:0xf9f04d60f8b9501c"
+      }
+    ]
+  },
+  "services": {
+    "releve": "2026-10-30",
+    "options": {
+      "restroom": true
+    },
+    "paiement": [],
+    "parking": []
   }
 }

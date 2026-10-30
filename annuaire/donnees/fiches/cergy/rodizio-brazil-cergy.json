@@ -33,7 +33,7 @@
     "longitude": 2.0545994999999997
   },
   "note": 4.6,
-  "avis": 6537,
+  "avis": 6539,
   "horaires": [
     {
       "jour": 0,
@@ -147,8 +147,8 @@
     "etat": "absent",
     "premiere_detection": null,
     "derniere_detection": null,
-    "derniere_verification": "2026-10-14T10:07:28.770Z",
-    "echecs": 1,
+    "derniere_verification": "2026-10-30T11:21:01.088Z",
+    "echecs": 2,
     "url_detectee": null
   },
   "suggestion": {
@@ -161,22 +161,34 @@
   "dates": {
     "collecte": "2026-10-14",
     "publication": "2026-10-14",
-    "maj": "2026-10-14"
+    "maj": "2026-10-30"
   },
   "source": "google-places",
   "redaction": {
     "version": 2,
     "titre": "Rodizio Brazil - Cergy — Restaurant à Cergy",
     "meta_titre": "Rodizio Brazil - Cergy à Cergy : horaires, avis, téléphone",
-    "meta_description": "Rodizio Brazil - Cergy, restaurant à Cergy : horaires d'ouverture, note Google 4,6/5 (6537 avis), téléphone, adresse et itinéraire.",
-    "chapo": "Rodizio Brazil - Cergy exerce l'activité de restaurant au 15 Avenue de la Plaine des Sports, à Cergy. Ouvert sept jours sur sept au relevé du 14 octobre 2026. Téléphone : 06 99 38 15 04. Note Google : 4,6 sur 5 pour 6537 avis.",
+    "meta_description": "Rodizio Brazil - Cergy, restaurant à Cergy : horaires d'ouverture, note Google 4,6/5 (6539 avis), téléphone, adresse et itinéraire.",
+    "chapo": "Rodizio Brazil - Cergy exerce l'activité de restaurant au 15 Avenue de la Plaine des Sports, à Cergy. Ouvert sept jours sur sept au relevé du 30 octobre 2026. Téléphone : 06 99 38 15 04. Note Google : 4,6 sur 5 pour 6539 avis.",
     "sections": [
       {
         "id": "presentation",
         "titre": "Rodizio Brazil - Cergy en quelques mots",
         "paragraphes": [
           "Sur Google, l'établissement est classé « Restaurant halal », dans notre rubrique Restaurant.",
-          "D'après le relevé du 14 octobre 2026, l'établissement est ouvert sept jours sur sept. Le détail jour par jour figure plus bas."
+          "Niveau de prix indiqué sur la fiche Google : €€ (modéré).",
+          "D'après le relevé du 30 octobre 2026, l'établissement est ouvert sept jours sur sept. Le détail jour par jour figure plus bas."
+        ]
+      },
+      {
+        "id": "prestations",
+        "titre": "Services et équipements de Rodizio Brazil - Cergy",
+        "paragraphes": [
+          "Proposé : sur place, réservation possible, terrasse, déjeuner, dîner, plats végétariens, café, cocktails, menu enfant, adapté aux enfants, adapté aux groupes et toilettes.",
+          "Non proposé selon la fiche Google : à emporter, livraison, retrait en voiture, petit-déjeuner, brunch, bière, vin, retransmissions sportives et musique live.",
+          "Moyens de paiement déclarés : carte bancaire, carte de débit et paiement sans contact.",
+          "Stationnement : parking gratuit et stationnement gratuit dans la rue.",
+          "Ces indications sont déclarées par l'établissement sur sa fiche Google (relevé du 30 octobre 2026)."
         ]
       },
       {
@@ -191,25 +203,26 @@
         "id": "contact",
         "titre": "Contacter Rodizio Brazil - Cergy",
         "paragraphes": [
-          "Le contact se fait par téléphone au 06 99 38 15 04, ou directement sur place aux horaires d'ouverture."
+          "Le contact se fait par téléphone au 06 99 38 15 04, ou directement sur place aux horaires d'ouverture.",
+          "La fiche Google indique que la réservation est possible."
         ]
       },
       {
         "id": "avis",
         "titre": "La réputation de Rodizio Brazil - Cergy",
         "paragraphes": [
-          "Note de 4,6 sur 5 pour 6537 avis Google au relevé du 14 octobre 2026. Les avis se consultent sur la fiche Google, dont le lien figure sur cette page."
+          "Note de 4,6 sur 5 pour 6539 avis Google au relevé du 30 octobre 2026. Les avis les plus parlants sont compilés ci-dessous, avec un lien vers la fiche d'origine."
         ]
       }
     ],
     "faq": [
       {
         "q": "Quels sont les horaires de Rodizio Brazil - Cergy ?",
-        "r": "Au relevé du 14 octobre 2026, Rodizio Brazil - Cergy était ouvert sept jours sur sept. Dans le détail — lundi : de 12 h à 14 h 30 et de 19 h à 22 h 30 ; mardi : de 12 h à 14 h 30 et de 19 h à 22 h 30 ; mercredi : de 12 h à 14 h 30 et de 19 h à 22 h 30 ; jeudi : de 12 h à 14 h 30 et de 19 h à 22 h 30 ; vendredi : de 12 h à 14 h 30 et de 19 h à 23 h ; samedi : de 12 h à 14 h 30 et de 19 h à 23 h ; dimanche : de 12 h à 14 h 30 et de 19 h à 22 h 30. Ces horaires peuvent changer : un appel préalable reste conseillé."
+        "r": "Au relevé du 30 octobre 2026, Rodizio Brazil - Cergy était ouvert sept jours sur sept. Dans le détail — lundi : de 12 h à 14 h 30 et de 19 h à 22 h 30 ; mardi : de 12 h à 14 h 30 et de 19 h à 22 h 30 ; mercredi : de 12 h à 14 h 30 et de 19 h à 22 h 30 ; jeudi : de 12 h à 14 h 30 et de 19 h à 22 h 30 ; vendredi : de 12 h à 14 h 30 et de 19 h à 23 h ; samedi : de 12 h à 14 h 30 et de 19 h à 23 h ; dimanche : de 12 h à 14 h 30 et de 19 h à 22 h 30. Ces horaires peuvent changer : un appel préalable reste conseillé."
       },
       {
         "q": "Rodizio Brazil - Cergy est-il ouvert le dimanche ?",
-        "r": "Oui : le dimanche, Rodizio Brazil - Cergy est ouvert de 12 h à 14 h 30 et de 19 h à 22 h 30 (horaires relevés le 14 octobre 2026)."
+        "r": "Oui : le dimanche, Rodizio Brazil - Cergy est ouvert de 12 h à 14 h 30 et de 19 h à 22 h 30 (horaires relevés le 30 octobre 2026)."
       },
       {
         "q": "Où se trouve Rodizio Brazil - Cergy ?",
@@ -220,21 +233,119 @@
         "r": "Par téléphone au 06 99 38 15 04, ou directement sur place aux heures d'ouverture."
       },
       {
+        "q": "Peut-on réserver chez Rodizio Brazil - Cergy ?",
+        "r": "Oui, la fiche Google de Rodizio Brazil - Cergy indique que la réservation est possible, par téléphone au 06 99 38 15 04."
+      },
+      {
+        "q": "Rodizio Brazil - Cergy propose-t-il la vente à emporter ou la livraison ?",
+        "r": "D'après sa fiche Google (relevé du 30 octobre 2026) — vente à emporter : non ; livraison : non."
+      },
+      {
+        "q": "Quel est le niveau de prix de Rodizio Brazil - Cergy ?",
+        "r": "Google classe Rodizio Brazil - Cergy au niveau de prix €€ (modéré), sur une échelle de € à €€€€ établie à partir des avis clients."
+      },
+      {
         "q": "Rodizio Brazil - Cergy est-il accessible aux personnes à mobilité réduite ?",
         "r": "La fiche Google de l'établissement mentionne : « Entrée accessible en fauteuil roulant ». Cette information est déclarative ; en cas de doute, vérifiez par téléphone."
       }
     ],
-    "genere_le": "2026-10-14"
+    "genere_le": "2026-10-30"
   },
   "statut_google": "OPERATIONAL",
   "audience": {
     "clics": 0,
-    "impressions": 8,
-    "position": 17.9,
+    "impressions": 10,
+    "position": 17.1,
     "fenetreJours": 90,
     "clicsRecents": 0,
     "fenetreRecenteJours": 28,
     "source": "search-console",
-    "date": "2026-10-29"
+    "date": "2026-10-30"
+  },
+  "avis_detail": {
+    "releve": "2026-10-30",
+    "liste": [
+      {
+        "note": 5,
+        "texte": "Nous ne connaissions pas et avons été très agréablement surpris. Le buffet est vraiment excellent, les brochettes excellentes. Ce qu'on a apprécié : les différentes formules proposées, à des prix vraiment très intéressants pour certaines. Le personnel au top. Nous reviendrons c'est sûr !!",
+        "langue": "fr",
+        "date": "2026-04-26",
+        "auteur": "Mary Pich",
+        "auteur_lien": "https://www.google.com/maps/contrib/110795227260011468452/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2tKU01HRm5XRFJLVmxaSGNWUkliRmw1T1VadWIzYxAB!2m1!1s0x47e6f50c62244aa5:0x28838340700a536c"
+      },
+      {
+        "note": 1,
+        "texte": "Bonjour, par où commencer…. Premier point. Nous avons été très déçu. Nous avions pas pris la peine de regarder les commentaires de ces derniers mois, on aurait dû….\nRestaurant à fuir\nNous avons pris la formule la plus chère à 34 90. Qui bien évidemment, ne les mérite absolument pas sur les huit broches proposées. Seulement deux était mangeables le poulet barbecue, la dinde miel, le reste est médiocre, produits pas chaud, carte pas mis à jour pain à l’ail ou plutôt dirais-je pain à l’huile seulement ça… saucisse vraiment pas bonne ou plutôt des merguez qui était très sèches…je me suis dirigé vers les dessert (super une pomme) bah non du plastique … Pourquoi mettre deux bacs de faux fruits ? … je voudrais faire une comparaison, l’Obrigado reste moins cher et meilleur. Il a aussi quelques défauts mais reste moins cher ….",
+        "langue": "fr",
+        "date": "2026-04-23",
+        "auteur": "Enzo Ange",
+        "auteur_lien": "https://www.google.com/maps/contrib/115473494720841922470/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xocVpYWmZZbEJsVUZOblZrdFBRM1kzZEMxelVuYxAB!2m1!1s0x47e6f50c62244aa5:0x28838340700a536c"
+      },
+      {
+        "note": 5,
+        "texte": "Un service top et des  viandes délicieuses!\nLe prix est abordable à partir de 14,90 ;)\nNous avons pris la formule à 25 euros qui nous donne accès au buffet chaud et froid à volonté + 4 viandes au choix.\nLes desserts en moyenne sont à 6,90.\nResto avec un rapport qualité prix très bien!\nMerci à Omar pour l’accueil et pour l’écoute.\nJe recommande et je reviendrais!",
+        "langue": "fr",
+        "date": "2026-04-16",
+        "auteur": "Nass",
+        "auteur_lien": "https://www.google.com/maps/contrib/113841820505901683990/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2tKU1ZHVm1NV1V5UlRkSVpIWnJTMjlHY2xKT1JrRRAB!2m1!1s0x47e6f50c62244aa5:0x28838340700a536c"
+      },
+      {
+        "note": 1,
+        "texte": "Nous sommes venus pour fêter mon anniversaire en famille (avec enfants) et ce fut une énorme déception. C’était notre première fois dans ce restaurant brésilien à volonté avec service de viande à table, mais absolument rien ne nous a été expliqué à notre arrivée. Le serveur nous a installés sans nous préciser le fonctionnement.\n\nLe buffet laissait vraiment à désirer : peu de choix, pas bien rempli et certaines assiettes étaient sales. Niveau goût, ce n’était pas exceptionnel non plus.\n\nConcernant le service de viandes, nous avons été très surpris par la quantité : trois passages seulement, avec des portions minuscules (petites saucisses, petit pilon de poulet, petit pain à l’ail…). Honnêtement, c’était ridicule pour un restaurant à volonté.\n\nLe service était également très décevant : nous avons dû réclamer pour commander nos boissons, personne ne venait nous demander si tout allait bien. Les boissons ont mis énormément de temps à arriver et il y avait beaucoup d’attente entre les passages de viande.\n\nLe pire moment a été lorsque nous avons demandé à sortir le gâteau d’anniversaire (précisé lors de la réservation). Le serveur nous l’a simplement posé sur la table encore dans le sac fermé, sans bougies, sans attention particulière. Nous étions tellement déçus que nous sommes partis sans même couper le gâteau sur place.\n\nTrès mauvaise expérience pour un événement spécial. Première et dernière fois pour nous. Je ne recommande pas.",
+        "langue": "fr",
+        "date": "2026-02-26",
+        "auteur": "Anissa Genteuil",
+        "auteur_lien": "https://www.google.com/maps/contrib/110939881748251249206/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2kxUFEzQjJRbUpRT0RFMGFYQk1hekJOWW01Q0xXYxAB!2m1!1s0x47e6f50c62244aa5:0x28838340700a536c"
+      },
+      {
+        "note": 1,
+        "texte": "Bonjour  , très très mauvaise expérience avec le restaurant sur too good to go en voyant la carte de ce restaurant on voit qu'il Vend de la viande a la carte a volonté avec  un buffet a volonté, je ne suis pas satisfait de de la qualité des produits reçu pas viande rouge ni blanche, box compacté avec de la semoule et des haricots blancs à la sauce rouge 🤯🤯 et de la salade et de la purée avec quelques frites et 3 oignons frits  surgelés a fuir sur too good to Go et ça me donne pas envie d'aller manger chez eux vu l'accueil et ce qu'ils servent a manger franchement ça me donne pas envie c'est vraiment sur côté.\n\nPour info les paniers too good to go c'est pas de la charité on paie contre des invendus pour aidé les commerçants non pas pour qu'on récupère ce qui va peut être allé à la poubelle contre de l'argent.",
+        "langue": "fr",
+        "date": "2025-12-20",
+        "auteur": "Nacim Da",
+        "auteur_lien": "https://www.google.com/maps/contrib/114402410124670687403/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2w5aGJHZDRVRVEzVTJWNVJrZGxSVkZaVVVSbGIwRRAB!2m1!1s0x47e6f50c62244aa5:0x28838340700a536c"
+      }
+    ]
+  },
+  "services": {
+    "releve": "2026-10-30",
+    "prix": "PRICE_LEVEL_MODERATE",
+    "options": {
+      "dineIn": true,
+      "takeout": false,
+      "delivery": false,
+      "curbsidePickup": false,
+      "reservable": true,
+      "outdoorSeating": true,
+      "servesBreakfast": false,
+      "servesBrunch": false,
+      "servesLunch": true,
+      "servesDinner": true,
+      "servesVegetarianFood": true,
+      "servesCoffee": true,
+      "servesBeer": false,
+      "servesWine": false,
+      "servesCocktails": true,
+      "menuForChildren": true,
+      "goodForChildren": true,
+      "goodForGroups": true,
+      "goodForWatchingSports": false,
+      "liveMusic": false,
+      "restroom": true
+    },
+    "paiement": [
+      "carte bancaire",
+      "carte de débit",
+      "paiement sans contact"
+    ],
+    "parking": [
+      "parking gratuit",
+      "stationnement gratuit dans la rue"
+    ]
   }
 }

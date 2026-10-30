@@ -232,7 +232,7 @@
     "clicsRecents": 0,
     "fenetreRecenteJours": 28,
     "source": "search-console",
-    "date": "2026-10-29"
+    "date": "2026-10-30"
   },
   "avis_detail": {
     "releve": "2026-10-18",
@@ -283,5 +283,14 @@
         "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUNsNXVqd2xBRRAB!2m1!1s0x12b6ac315a9463d1:0x74e216c8d131aca"
       }
     ]
+  },
+  "indexation": {
+    "etat": "non-indexee",
+    "verdict": "NEUTRAL",
+    "couverture": "Google ne reconnaît pas cette URL",
+    "derniere_exploration": null,
+    "canonique_google": null,
+    "source": "inspection",
+    "date": "2026-10-30"
   }
 }

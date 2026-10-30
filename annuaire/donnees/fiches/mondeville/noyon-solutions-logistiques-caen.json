@@ -30,7 +30,7 @@
     "longitude": -0.31062619999999996
   },
   "note": 3.7,
-  "avis": 416,
+  "avis": 417,
   "horaires": [
     {
       "jour": 0,
@@ -124,8 +124,8 @@
     "etat": "externe",
     "premiere_detection": null,
     "derniere_detection": null,
-    "derniere_verification": "2026-10-14T10:07:28.770Z",
-    "echecs": 67,
+    "derniere_verification": "2026-10-30T11:21:01.088Z",
+    "echecs": 68,
     "url_detectee": "https://www.noyon.eu/"
   },
   "suggestion": {
@@ -144,7 +144,7 @@
   "dates": {
     "collecte": "2026-09-01",
     "publication": "2026-09-01",
-    "maj": "2026-10-18"
+    "maj": "2026-10-30"
   },
   "source": "google-places",
   "redaction": {
@@ -152,14 +152,22 @@
     "titre": "NOYON Solutions Logistiques Caen — Transport et déménagement à Mondeville",
     "meta_titre": "NOYON Solutions Logistiques Caen : horaires, avis, téléphone",
     "meta_description": "NOYON Solutions Logistiques Caen, transport et déménagement à Mondeville : horaires d'ouverture, téléphone, adresse et itinéraire.",
-    "chapo": "NOYON Solutions Logistiques Caen exerce l'activité de transport et déménagement au Route de Paris, à Mondeville. Fermé le samedi et le dimanche au relevé du 18 octobre 2026. Téléphone : 02 31 70 70 70. Note Google : 3,7 sur 5 pour 416 avis.",
+    "chapo": "NOYON Solutions Logistiques Caen exerce l'activité de transport et déménagement au Route de Paris, à Mondeville. Fermé le samedi et le dimanche au relevé du 30 octobre 2026. Téléphone : 02 31 70 70 70. Note Google : 3,7 sur 5 pour 417 avis.",
     "sections": [
       {
         "id": "presentation",
         "titre": "NOYON Solutions Logistiques Caen en quelques mots",
         "paragraphes": [
           "Sur Google, l'établissement est classé « Entreprise de déménagement », dans notre rubrique Transport et déménagement.",
-          "D'après le relevé du 18 octobre 2026, l'établissement est fermé le samedi et le dimanche. Le détail jour par jour figure plus bas."
+          "D'après le relevé du 30 octobre 2026, l'établissement est fermé le samedi et le dimanche. Le détail jour par jour figure plus bas."
+        ]
+      },
+      {
+        "id": "prestations",
+        "titre": "Services et équipements de NOYON Solutions Logistiques Caen",
+        "paragraphes": [
+          "Proposé : toilettes.",
+          "Ces indications sont déclarées par l'établissement sur sa fiche Google (relevé du 30 octobre 2026)."
         ]
       },
       {
@@ -181,18 +189,18 @@
         "id": "avis",
         "titre": "La réputation de NOYON Solutions Logistiques Caen",
         "paragraphes": [
-          "Note de 3,7 sur 5 pour 416 avis Google au relevé du 18 octobre 2026. Les avis se consultent sur la fiche Google, dont le lien figure sur cette page."
+          "Note de 3,7 sur 5 pour 417 avis Google au relevé du 30 octobre 2026. Les avis les plus parlants sont compilés ci-dessous, avec un lien vers la fiche d'origine."
         ]
       }
     ],
     "faq": [
       {
         "q": "Quels sont les horaires de NOYON Solutions Logistiques Caen ?",
-        "r": "Au relevé du 18 octobre 2026, NOYON Solutions Logistiques Caen était fermé le samedi et le dimanche. Dans le détail — lundi : de 8 h à 12 h et de 14 h à 18 h 30 ; mardi : de 8 h à 12 h et de 14 h à 18 h 30 ; mercredi : de 8 h à 12 h et de 14 h à 18 h 30 ; jeudi : de 8 h à 12 h et de 14 h à 18 h 30 ; vendredi : de 8 h à 12 h et de 14 h à 18 h 30 ; samedi : fermé ; dimanche : fermé. Ces horaires peuvent changer : un appel préalable reste conseillé."
+        "r": "Au relevé du 30 octobre 2026, NOYON Solutions Logistiques Caen était fermé le samedi et le dimanche. Dans le détail — lundi : de 8 h à 12 h et de 14 h à 18 h 30 ; mardi : de 8 h à 12 h et de 14 h à 18 h 30 ; mercredi : de 8 h à 12 h et de 14 h à 18 h 30 ; jeudi : de 8 h à 12 h et de 14 h à 18 h 30 ; vendredi : de 8 h à 12 h et de 14 h à 18 h 30 ; samedi : fermé ; dimanche : fermé. Ces horaires peuvent changer : un appel préalable reste conseillé."
       },
       {
         "q": "NOYON Solutions Logistiques Caen est-il ouvert le dimanche ?",
-        "r": "Non : d'après les horaires relevés le 18 octobre 2026, NOYON Solutions Logistiques Caen est fermé le dimanche."
+        "r": "Non : d'après les horaires relevés le 30 octobre 2026, NOYON Solutions Logistiques Caen est fermé le dimanche."
       },
       {
         "q": "Où se trouve NOYON Solutions Logistiques Caen ?",
@@ -207,7 +215,7 @@
         "r": "La fiche Google de l'établissement mentionne : « Entrée accessible en fauteuil roulant ». Cette information est déclarative ; en cas de doute, vérifiez par téléphone."
       }
     ],
-    "genere_le": "2026-10-18"
+    "genere_le": "2026-10-30"
   },
   "statut_google": "OPERATIONAL",
   "audience": {
@@ -218,7 +226,7 @@
     "clicsRecents": 0,
     "fenetreRecenteJours": 28,
     "source": "search-console",
-    "date": "2026-10-29"
+    "date": "2026-10-30"
   },
   "indexation": {
     "etat": "non-indexee",
@@ -228,5 +236,63 @@
     "canonique_google": null,
     "source": "inspection",
     "date": "2026-10-18"
+  },
+  "avis_detail": {
+    "releve": "2026-10-30",
+    "liste": [
+      {
+        "note": 1,
+        "texte": "Pratique réponse  par téléphone  , fiabilité  du transport  à revoir , fiabilité  des dates de livraison  nul  , prenais la semaine de congés  complète  pour être  sûr d'être  livré . Aucune alerte",
+        "langue": "fr",
+        "date": "2026-05-28",
+        "auteur": "Florent",
+        "auteur_lien": "https://www.google.com/maps/contrib/105884682736501039872/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT21kMVYxbHllamxzUlhod1oxaGZjMEk0YkcxaU1uYxAB!2m1!1s0x480a68518792b7ab:0x56847dce118de43"
+      },
+      {
+        "note": 1,
+        "texte": "Une des pires entreprises de transport. Plus de 15 jours après aucune nouvelle de la palette qui a été perdue puis retrouvée mais toujours pas livrée une semaine plus tard. Certes il y a des jours fériés mais 2h30 de route nous sépare... La palette sera t elle livrée à Noël ?",
+        "langue": "fr",
+        "date": "2026-05-11",
+        "auteur": "Bénédicte Le Huec",
+        "auteur_lien": "https://www.google.com/maps/contrib/115389290699615944148/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2s1M1ZtbEZla2hMYVRGRFIwd3RiRm81TWpNMmRsRRAB!2m1!1s0x480a68518792b7ab:0x56847dce118de43"
+      },
+      {
+        "note": 1,
+        "texte": "très mauvaise organisation on appel pour un rdv le livreur vient quand il veut et ne veut pas de la signature du voisin alors que c’était prévu par téléphone le matin même! re livraison demander le lundi d’après et il ne livre toujours pas!!! société à evité",
+        "langue": "fr",
+        "date": "2026-04-20",
+        "auteur": "lolomoto sisi",
+        "auteur_lien": "https://www.google.com/maps/contrib/113058737231131253126/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2todFozWjNTRlJqZDJveVpEWmlSMHhHUW5GYWRXYxAB!2m1!1s0x480a68518792b7ab:0x56847dce118de43"
+      },
+      {
+        "note": 1,
+        "texte": "JE NAI JAMAIS RECU CE COLIS !!! ALORS QU'IL Y A UNE PREUVE DE LIVRAISON SIGNÉ !! J AI DES CAMÉRAS VOUS ETES DES VOLEURS !! Envoi expédié par HOME SIGHT SARL\nN° 1GQ7Q7XMXVK8\n4 Colis",
+        "langue": "fr",
+        "date": "2026-04-17",
+        "auteur": "L'équipe Naïrii",
+        "auteur_lien": "https://www.google.com/maps/contrib/107522669273876446934/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25OSFVqZFhSbDlVYVU5TmRsbFBjbG93YUc5QlkxRRAB!2m1!1s0x480a68518792b7ab:0x56847dce118de43"
+      },
+      {
+        "note": 1,
+        "texte": "Vous n'avez pas réussi à assurer votre prestation de livraison. Je vous demande donc le remboursement des frais de livraison. C'est simple...!\nTout est expliqué dans le mail que je vous ai envoyé le 9 février (jour prévu de la livraison)\nJe n'ai à ce jour pas de réponse à ce mail !!! (adresse souffrance noyon)",
+        "langue": "fr",
+        "date": "2026-02-12",
+        "auteur": "Ferriere Mickael",
+        "auteur_lien": "https://www.google.com/maps/contrib/112748632198661145936/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT20wd1YyTjZaSFpUUWtnM09IVXpMV1IzYzBaaFozYxAB!2m1!1s0x480a68518792b7ab:0x56847dce118de43"
+      }
+    ]
+  },
+  "services": {
+    "releve": "2026-10-30",
+    "options": {
+      "restroom": true
+    },
+    "paiement": [],
+    "parking": []
   }
 }

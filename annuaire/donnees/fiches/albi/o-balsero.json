@@ -40,8 +40,8 @@
     "etat": "absent",
     "premiere_detection": null,
     "derniere_detection": null,
-    "derniere_verification": "2026-10-14T10:07:28.770Z",
-    "echecs": 10,
+    "derniere_verification": "2026-10-30T11:21:01.088Z",
+    "echecs": 11,
     "url_detectee": null
   },
   "suggestion": {
@@ -54,7 +54,7 @@
   "dates": {
     "collecte": "2026-10-01",
     "publication": "2026-10-01",
-    "maj": "2026-10-14"
+    "maj": "2026-10-30"
   },
   "source": "google-places",
   "redaction": {
@@ -68,7 +68,19 @@
         "id": "presentation",
         "titre": "Ô Balsero en quelques mots",
         "paragraphes": [
-          "Sur Google, l'établissement est classé « Bar », dans notre rubrique Café ou bar."
+          "Sur Google, l'établissement est classé « Bar », dans notre rubrique Café ou bar.",
+          "Niveau de prix indiqué sur la fiche Google : €€ (modéré)."
+        ]
+      },
+      {
+        "id": "prestations",
+        "titre": "Services et équipements de Ô Balsero",
+        "paragraphes": [
+          "Proposé : bière, vin, cocktails, adapté aux groupes et toilettes.",
+          "Non proposé selon la fiche Google : à emporter, livraison et adapté aux enfants.",
+          "Moyens de paiement déclarés : carte bancaire, carte de débit et paiement sans contact.",
+          "Stationnement : parking gratuit et stationnement gratuit dans la rue.",
+          "Ces indications sont déclarées par l'établissement sur sa fiche Google (relevé du 30 octobre 2026)."
         ]
       },
       {
@@ -90,7 +102,7 @@
         "id": "avis",
         "titre": "La réputation de Ô Balsero",
         "paragraphes": [
-          "Note de 4,3 sur 5 pour 133 avis Google au relevé du 14 octobre 2026. Les avis se consultent sur la fiche Google, dont le lien figure sur cette page."
+          "Note de 4,3 sur 5 pour 133 avis Google au relevé du 30 octobre 2026. Les avis les plus parlants sont compilés ci-dessous, avec un lien vers la fiche d'origine."
         ]
       }
     ],
@@ -100,11 +112,19 @@
         "r": "Ô Balsero se trouve 51 Rue Isaac Newton, 81000 Albi. Un lien d'itinéraire est disponible sur cette page."
       },
       {
+        "q": "Ô Balsero propose-t-il la vente à emporter ou la livraison ?",
+        "r": "D'après sa fiche Google (relevé du 30 octobre 2026) — vente à emporter : non ; livraison : non."
+      },
+      {
+        "q": "Quel est le niveau de prix de Ô Balsero ?",
+        "r": "Google classe Ô Balsero au niveau de prix €€ (modéré), sur une échelle de € à €€€€ établie à partir des avis clients."
+      },
+      {
         "q": "Ô Balsero est-il accessible aux personnes à mobilité réduite ?",
         "r": "La fiche Google de l'établissement mentionne : « Entrée accessible en fauteuil roulant ». Cette information est déclarative ; en cas de doute, vérifiez par téléphone."
       }
     ],
-    "genere_le": "2026-10-14"
+    "genere_le": "2026-10-30"
   },
   "statut_google": "OPERATIONAL",
   "audience": {
@@ -115,6 +135,79 @@
     "clicsRecents": 0,
     "fenetreRecenteJours": 28,
     "source": "search-console",
-    "date": "2026-10-29"
+    "date": "2026-10-30"
+  },
+  "avis_detail": {
+    "releve": "2026-10-30",
+    "liste": [
+      {
+        "note": 5,
+        "texte": "Très belle  expérience  ,je ne connaissais  pas ce lieu. Nous avons  passés une excellente  soirée. L équipe  est accueillante  et efficace  .Nous  y retournerons.",
+        "langue": "fr",
+        "date": "2026-08-08",
+        "auteur": "Nadia Cholet/Boutaiem",
+        "auteur_lien": "https://www.google.com/maps/contrib/116867766191823770403/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2t3elJsSTRTM2QyUW5CVFZWSlFPV0ZhYVRNelRXYxAB!2m1!1s0x12ade88f1029ddf3:0x9e8c05a462451972"
+      },
+      {
+        "note": 1,
+        "texte": "Bonne ambiance années 80,sauf un détail important\nles femmes ny sont pas respectées,\nles hommes ont ts ls droits celui de toucher ls femmes sans leurs consentements ,\nn'allez surtout pas vous plaindre au patron car c'est lui qui créée ce climat, ( remplir son tiroir est sa seule préoccupation.)\nDommage car son personnel est super agréable pro ,\n(sauf la dame du vestiaire )elle vois rien et n'entend rien même quand on lui dit .\n\nL'ambiance musicale est excellente grace a kriss .\nDommage que le patron n'aime pas qu'on respectes les femmes et ne pense qu'à son tiroir caisse .du coup il manque de respect aux hommes également.\n\nC'est ballot car  ça en fait fuire beaucoup.\nEn 2026 ca existe encore,\nA quand le respect humain d'abord.\n🤮🤮🤮🤮",
+        "langue": "fr",
+        "date": "2026-03-08",
+        "auteur": "Camille Leforestier",
+        "auteur_lien": "https://www.google.com/maps/contrib/100641827919435551755/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUNYc2RuRVNBEAE!2m1!1s0x12ade88f1029ddf3:0x9e8c05a462451972"
+      },
+      {
+        "note": 4,
+        "texte": "Pas mal pour passer une soirée,au lieu de rester chez soi ,mais le dj devrait diversifier les musiques pour encore plus d ambiance mais je m'amuse bien quand même.",
+        "langue": "fr",
+        "date": "2025-02-13",
+        "auteur": "Danila Enault",
+        "auteur_lien": "https://www.google.com/maps/contrib/104339506535495613526/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnTUNnc0lYY1F3EAE!2m1!1s0x12ade88f1029ddf3:0x9e8c05a462451972"
+      },
+      {
+        "note": 5,
+        "texte": "Un lieu exceptionnel dans lequel j'adore passer des soirées. À tel point que j'ai souhaité fêter mon anniversaire dans cet endroit hors du commun ! Un lieu chaleureux, une musique qui nous fait danser toute la nuit et un personnel exceptionnel ! Un grand merci à Laurent de nous faire vivre des moments inoubliables !\nÀ connaître absolument !",
+        "langue": "fr",
+        "date": "2024-09-26",
+        "auteur": "stéphane mendez",
+        "auteur_lien": "https://www.google.com/maps/contrib/115680771923356873697/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUNuNGJ2TUNnEAE!2m1!1s0x12ade88f1029ddf3:0x9e8c05a462451972"
+      },
+      {
+        "note": 5,
+        "texte": "Lieu festif, musique variée ! Un lieu très sympa pour passer une soirée jusqu'à 3h",
+        "langue": "fr",
+        "date": "2022-03-30",
+        "auteur": "Yoann T",
+        "auteur_lien": "https://www.google.com/maps/contrib/110558124945166397796/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSURXNVlqMGJnEAE!2m1!1s0x12ade88f1029ddf3:0x9e8c05a462451972"
+      }
+    ]
+  },
+  "services": {
+    "releve": "2026-10-30",
+    "prix": "PRICE_LEVEL_MODERATE",
+    "options": {
+      "takeout": false,
+      "delivery": false,
+      "servesBeer": true,
+      "servesWine": true,
+      "servesCocktails": true,
+      "goodForChildren": false,
+      "goodForGroups": true,
+      "restroom": true
+    },
+    "paiement": [
+      "carte bancaire",
+      "carte de débit",
+      "paiement sans contact"
+    ],
+    "parking": [
+      "parking gratuit",
+      "stationnement gratuit dans la rue"
+    ]
   }
 }

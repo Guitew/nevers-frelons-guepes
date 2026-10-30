@@ -3,7 +3,7 @@
   "slug": "paradis-taverny",
   "nom": "Paradis Taverny",
   "categorie": "restaurants",
-  "categorie_gmb": "Restaurant",
+  "categorie_gmb": "Restaurant de type buffet",
   "type_principal": "restaurant",
   "types": [
     "restaurant",
@@ -27,7 +27,7 @@
     "longitude": 2.2196993
   },
   "note": 4.6,
-  "avis": 5020,
+  "avis": 5116,
   "horaires": [
     {
       "jour": 0,
@@ -141,8 +141,8 @@
     "etat": "absent",
     "premiere_detection": null,
     "derniere_detection": null,
-    "derniere_verification": "2026-10-14T10:07:28.770Z",
-    "echecs": 56,
+    "derniere_verification": "2026-10-30T11:21:01.088Z",
+    "echecs": 57,
     "url_detectee": null
   },
   "suggestion": {
@@ -161,21 +161,34 @@
   "dates": {
     "collecte": "2026-09-06",
     "publication": "2026-09-06",
-    "maj": "2026-10-21"
+    "maj": "2026-10-30"
   },
   "source": "google-places",
   "redaction": {
     "version": 2,
     "titre": "Paradis Taverny — Restaurant à Taverny",
     "meta_titre": "Paradis Taverny à Taverny : horaires, avis, téléphone",
-    "meta_description": "Paradis Taverny, restaurant à Taverny : horaires d'ouverture, note Google 4,6/5 (5020 avis), téléphone, adresse et itinéraire.",
-    "chapo": "Cette fiche présente Paradis Taverny, un restaurant au Rue Théroigne de Méricourt, à Taverny. Ouvert sept jours sur sept au relevé du 14 octobre 2026. Téléphone : 01 86 22 29 88. Note Google : 4,6 sur 5 pour 5020 avis.",
+    "meta_description": "Paradis Taverny, restaurant à Taverny : horaires d'ouverture, note Google 4,6/5 (5116 avis), téléphone, adresse et itinéraire.",
+    "chapo": "Cette fiche présente Paradis Taverny, un restaurant au Rue Théroigne de Méricourt, à Taverny. Ouvert sept jours sur sept au relevé du 30 octobre 2026. Téléphone : 01 86 22 29 88. Note Google : 4,6 sur 5 pour 5116 avis.",
     "sections": [
       {
         "id": "presentation",
         "titre": "Paradis Taverny en quelques mots",
         "paragraphes": [
-          "D'après le relevé du 14 octobre 2026, l'établissement est ouvert sept jours sur sept. Le détail jour par jour figure plus bas."
+          "Sur Google, l'établissement est classé « Restaurant de type buffet », dans notre rubrique Restaurant.",
+          "Niveau de prix indiqué sur la fiche Google : €€ (modéré).",
+          "D'après le relevé du 30 octobre 2026, l'établissement est ouvert sept jours sur sept. Le détail jour par jour figure plus bas."
+        ]
+      },
+      {
+        "id": "prestations",
+        "titre": "Services et équipements de Paradis Taverny",
+        "paragraphes": [
+          "Proposé : sur place, à emporter, petit-déjeuner, déjeuner, dîner, plats végétariens, café, bière, vin, cocktails, menu enfant, adapté aux enfants, adapté aux groupes, chiens acceptés et toilettes.",
+          "Non proposé selon la fiche Google : livraison, retrait en voiture, réservation possible, terrasse, retransmissions sportives et musique live.",
+          "Moyens de paiement déclarés : carte bancaire, carte de débit et paiement sans contact.",
+          "Stationnement : parking gratuit et stationnement gratuit dans la rue.",
+          "Ces indications sont déclarées par l'établissement sur sa fiche Google (relevé du 30 octobre 2026)."
         ]
       },
       {
@@ -197,18 +210,18 @@
         "id": "avis",
         "titre": "La réputation de Paradis Taverny",
         "paragraphes": [
-          "Note de 4,6 sur 5 pour 5020 avis Google au relevé du 14 octobre 2026. Les avis se consultent sur la fiche Google, dont le lien figure sur cette page."
+          "Note de 4,6 sur 5 pour 5116 avis Google au relevé du 30 octobre 2026. Les avis les plus parlants sont compilés ci-dessous, avec un lien vers la fiche d'origine."
         ]
       }
     ],
     "faq": [
       {
         "q": "Quels sont les horaires de Paradis Taverny ?",
-        "r": "Au relevé du 14 octobre 2026, Paradis Taverny était ouvert sept jours sur sept. Dans le détail — lundi : de 11 h 55 à 14 h 30 et de 18 h 55 à 22 h 30 ; mardi : de 11 h 55 à 14 h 30 et de 18 h 55 à 22 h 30 ; mercredi : de 11 h 55 à 14 h 30 et de 18 h 55 à 22 h 30 ; jeudi : de 11 h 55 à 14 h 30 et de 18 h 55 à 22 h 30 ; vendredi : de 11 h 55 à 14 h 30 et de 18 h 30 à 23 h ; samedi : de 11 h 55 à 15 h et de 18 h 30 à 23 h ; dimanche : de 11 h 55 à 15 h et de 18 h 55 à 22 h 30. Ces horaires peuvent changer : un appel préalable reste conseillé."
+        "r": "Au relevé du 30 octobre 2026, Paradis Taverny était ouvert sept jours sur sept. Dans le détail — lundi : de 11 h 55 à 14 h 30 et de 18 h 55 à 22 h 30 ; mardi : de 11 h 55 à 14 h 30 et de 18 h 55 à 22 h 30 ; mercredi : de 11 h 55 à 14 h 30 et de 18 h 55 à 22 h 30 ; jeudi : de 11 h 55 à 14 h 30 et de 18 h 55 à 22 h 30 ; vendredi : de 11 h 55 à 14 h 30 et de 18 h 30 à 23 h ; samedi : de 11 h 55 à 15 h et de 18 h 30 à 23 h ; dimanche : de 11 h 55 à 15 h et de 18 h 55 à 22 h 30. Ces horaires peuvent changer : un appel préalable reste conseillé."
       },
       {
         "q": "Paradis Taverny est-il ouvert le dimanche ?",
-        "r": "Oui : le dimanche, Paradis Taverny est ouvert de 11 h 55 à 15 h et de 18 h 55 à 22 h 30 (horaires relevés le 14 octobre 2026)."
+        "r": "Oui : le dimanche, Paradis Taverny est ouvert de 11 h 55 à 15 h et de 18 h 55 à 22 h 30 (horaires relevés le 30 octobre 2026)."
       },
       {
         "q": "Où se trouve Paradis Taverny ?",
@@ -219,11 +232,23 @@
         "r": "Par téléphone au 01 86 22 29 88, ou directement sur place aux heures d'ouverture."
       },
       {
+        "q": "Peut-on réserver chez Paradis Taverny ?",
+        "r": "La fiche Google de Paradis Taverny indique que la réservation n'est pas proposée."
+      },
+      {
+        "q": "Paradis Taverny propose-t-il la vente à emporter ou la livraison ?",
+        "r": "D'après sa fiche Google (relevé du 30 octobre 2026) — vente à emporter : oui ; livraison : non."
+      },
+      {
+        "q": "Quel est le niveau de prix de Paradis Taverny ?",
+        "r": "Google classe Paradis Taverny au niveau de prix €€ (modéré), sur une échelle de € à €€€€ établie à partir des avis clients."
+      },
+      {
         "q": "Paradis Taverny est-il accessible aux personnes à mobilité réduite ?",
         "r": "La fiche Google de l'établissement mentionne : « Entrée accessible en fauteuil roulant ». Cette information est déclarative ; en cas de doute, vérifiez par téléphone."
       }
     ],
-    "genere_le": "2026-10-14"
+    "genere_le": "2026-10-30"
   },
   "statut_google": "OPERATIONAL",
   "audience": {
@@ -234,7 +259,7 @@
     "clicsRecents": 0,
     "fenetreRecenteJours": 28,
     "source": "search-console",
-    "date": "2026-10-29"
+    "date": "2026-10-30"
   },
   "indexation": {
     "etat": "non-indexee",
@@ -244,5 +269,91 @@
     "canonique_google": null,
     "source": "inspection",
     "date": "2026-10-21"
+  },
+  "avis_detail": {
+    "releve": "2026-10-30",
+    "liste": [
+      {
+        "note": 5,
+        "texte": "Les produits sont pour ceux que j'ai goûté frais et bons. Les viandes tendres , le riz des  sushi maki n'est pas dur et un peu vinaigré sucré comme je les aime 😁 les fraises étaient bonnes. Les fruits de mer j'ai bien aimé le crabes les crevettes cuits sur place avec sauce pimenté. Globalement j'ai tout aimé",
+        "langue": "fr",
+        "date": "2026-09-19",
+        "auteur": "Tatiana Hincelin",
+        "auteur_lien": "https://www.google.com/maps/contrib/101587117628013724049/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xNMFpURk1kbkpFVlUxV1RVaDRiRmxUU0hsMloyYxAB!2m1!1s0x47e66700073c995f:0xbbc84ba57b79ae09"
+      },
+      {
+        "note": 4,
+        "texte": "Pour un repas avec les enfants c’est super, chacun mange ce qu’il veut.\nIl y a de grand buffet, crustacés, style japonais, asiatique, wok, pizza, indien, naan fait sur place, beaucoup de dessert, fontaine au chocolat, crepes fait sur place, beaucoup de fruits frais.\nIl y a une aire de jeux pour les enfants.\nIl y a vraiment beaucoup de monde le soir, c’est assez bruyant.\nTrès bien organisé de notre arrivée jusqu’à notre départ.\nSi vous venez après 20h, il y aura beaucoup d’attente.\nJ’ai pas mis 5 étoiles parce que au delà des grands buffets où c’est assez sympa à faire en famille. C’est beaucoup de produits surgelés, très bruyant, les sushis il y a beaucoup trop de riz.\nÇa fait « usine »\nSi vous cherchez un restaurant calme, cocooning, en amoureux, pour discuter tranquille, allez ailleurs !",
+        "langue": "fr",
+        "date": "2026-08-13",
+        "auteur": "Marine Rolland",
+        "auteur_lien": "https://www.google.com/maps/contrib/113012353272585669297/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT21GZmFEVXRaMnR3VkVKbmJFdDFVVVZaWDJselNtYxAB!2m1!1s0x47e66700073c995f:0xbbc84ba57b79ae09"
+      },
+      {
+        "note": 4,
+        "texte": "Un très grand restaurant avec énormément de choix : des plats chauds, des plats froids, un sushi bar, de la charcuterie, de la cuisine asiatique mais aussi « américaine » (friture, pizza), de la viande à griller, et des desserts à profusion ! Seul bémol, il manque des instructions pour le grill et pour le « bar » à nouilles, on se sent un peu perdu et le personnel n’a pas pris le temps de m’expliquer, ce qui est regrettable. Mis à part cela, je dirai que le prix des boissons est très élevé (4,50€ un soda), surtout quand on paie presque 30€ par personne le week-end. Ça reste tout de même une belle expérience à vivre !",
+        "langue": "fr",
+        "date": "2026-05-13",
+        "auteur": "Maggie D",
+        "auteur_lien": "https://www.google.com/maps/contrib/110952793294175851092/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2s1WlVtWlBhSEpuUmtSS2RHNURjV1l0VHpCdmEyYxAB!2m1!1s0x47e66700073c995f:0xbbc84ba57b79ae09"
+      },
+      {
+        "note": 4,
+        "texte": "Menu varié, entrées, plats internationaux, grillades au choix viandes rouges, blanches, poissons, crustacés,  pouples, pizzas, nans au fromage, fruits frais de saison, glaces. Endroit propre et service efficace.\nPrix 28€90",
+        "langue": "fr",
+        "date": "2026-05-10",
+        "auteur": "Fodil Boumghar",
+        "auteur_lien": "https://www.google.com/maps/contrib/103714470296788161667/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT21nMk0yZFlTQzF5TkZCQllsVXhTR1ZTTmtaVWJFRRAB!2m1!1s0x47e66700073c995f:0xbbc84ba57b79ae09"
+      },
+      {
+        "note": 5,
+        "texte": "Toujours un plaisir de venir au Paradis, qui porte bien son nom.\nProduits frais, originaux, propreté surveillée régulièrement.\nFormule à - de 30€ le soir. Grand parking à proximité.",
+        "langue": "fr",
+        "date": "2026-03-24",
+        "auteur": "Angéliqua W",
+        "auteur_lien": "https://www.google.com/maps/contrib/114960736203891886309/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2w5Nk1FdHVTMkptZFRKcVJsaFpTV1ZLY21KWGNVRRAB!2m1!1s0x47e66700073c995f:0xbbc84ba57b79ae09"
+      }
+    ]
+  },
+  "services": {
+    "releve": "2026-10-30",
+    "prix": "PRICE_LEVEL_MODERATE",
+    "options": {
+      "dineIn": true,
+      "takeout": true,
+      "delivery": false,
+      "curbsidePickup": false,
+      "reservable": false,
+      "outdoorSeating": false,
+      "servesBreakfast": true,
+      "servesLunch": true,
+      "servesDinner": true,
+      "servesVegetarianFood": true,
+      "servesCoffee": true,
+      "servesBeer": true,
+      "servesWine": true,
+      "servesCocktails": true,
+      "menuForChildren": true,
+      "goodForChildren": true,
+      "goodForGroups": true,
+      "goodForWatchingSports": false,
+      "liveMusic": false,
+      "allowsDogs": true,
+      "restroom": true
+    },
+    "paiement": [
+      "carte bancaire",
+      "carte de débit",
+      "paiement sans contact"
+    ],
+    "parking": [
+      "parking gratuit",
+      "stationnement gratuit dans la rue"
+    ]
   }
 }

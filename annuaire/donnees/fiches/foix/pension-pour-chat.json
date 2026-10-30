@@ -1,0 +1,254 @@
+{
+  "id": "ChIJfUEA6aAXrxIRtW3RGvvtZLI",
+  "slug": "pension-pour-chat",
+  "nom": "Pension pour chat",
+  "categorie": "veterinaires-animaux",
+  "categorie_gmb": "Service de garde d'animaux",
+  "type_principal": "pet_boarding_service",
+  "types": [
+    "veterinary_care",
+    "pet_boarding_service",
+    "pet_care",
+    "point_of_interest",
+    "establishment"
+  ],
+  "ville": "Foix",
+  "ville_slug": "foix",
+  "adresse": {
+    "rue": "4 Avenue Sibian",
+    "code_postal": "09000",
+    "departement": "09",
+    "region": "Occitanie",
+    "pays": "France",
+    "complete": "4 Av. Sibian, 09000 Foix"
+  },
+  "telephone": "06 02 37 90 81",
+  "geo": {
+    "latitude": 42.9646298,
+    "longitude": 1.5967097
+  },
+  "note": 5,
+  "avis": 36,
+  "horaires": [
+    {
+      "jour": 0,
+      "ferme": false,
+      "creneaux": [
+        [
+          "10:00",
+          "20:00"
+        ]
+      ]
+    },
+    {
+      "jour": 1,
+      "ferme": false,
+      "creneaux": [
+        [
+          "10:00",
+          "20:00"
+        ]
+      ]
+    },
+    {
+      "jour": 2,
+      "ferme": false,
+      "creneaux": [
+        [
+          "10:00",
+          "20:00"
+        ]
+      ]
+    },
+    {
+      "jour": 3,
+      "ferme": false,
+      "creneaux": [
+        [
+          "10:00",
+          "20:00"
+        ]
+      ]
+    },
+    {
+      "jour": 4,
+      "ferme": false,
+      "creneaux": [
+        [
+          "10:00",
+          "20:00"
+        ]
+      ]
+    },
+    {
+      "jour": 5,
+      "ferme": false,
+      "creneaux": [
+        [
+          "10:00",
+          "20:00"
+        ]
+      ]
+    },
+    {
+      "jour": 6,
+      "ferme": false,
+      "creneaux": [
+        [
+          "10:00",
+          "20:00"
+        ]
+      ]
+    }
+  ],
+  "attributs": [
+    "Parking accessible en fauteuil roulant"
+  ],
+  "lien_google": "https://maps.google.com/?cid=12854660899164745141&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
+  "site_web_gmb": null,
+  "statut": "publiee",
+  "backlink": {
+    "etat": "absent",
+    "premiere_detection": null,
+    "derniere_detection": null,
+    "derniere_verification": "2026-10-30T11:21:01.088Z",
+    "echecs": 1,
+    "url_detectee": null
+  },
+  "suggestion": {
+    "etat": "en-attente",
+    "date_soumission": null,
+    "tentatives": 0,
+    "date_email": "2026-10-30"
+  },
+  "retrait": null,
+  "dates": {
+    "collecte": "2026-10-30",
+    "publication": "2026-10-30",
+    "maj": "2026-10-30"
+  },
+  "source": "google-places",
+  "avis_detail": {
+    "releve": "2026-10-30",
+    "liste": [
+      {
+        "note": 5,
+        "texte": "Notre petite Cama a passé 3 semaines chez Marie Alice cet été, et tout s'est très bien passé. La pension est superbe, tout est fait pour que les chats soient dans leur élément (très beau travail d'aménagement) On recevait régulièrement des nouvelles et des photos ce qui a fait très plaisir à notre fille. Merci pour tout, nous on prend un abonnement !😄",
+        "langue": "fr",
+        "date": "2026-08-31",
+        "auteur": "Mehdi Bendahmane (Auberge Les Myrtilles)",
+        "auteur_lien": "https://www.google.com/maps/contrib/101370487065806747985/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2s1dVZUUTNaM1puVWxOWFdrSkJNekpzTjJKcGJWRRAB!2m1!1s0x12af17a0e900417d:0xb264edfb1ad16db5"
+      },
+      {
+        "note": 5,
+        "texte": "Premier séjour d'1 semaine pour Yuki et nous ne regrettons pas de l'avoir confié à Marie-Alice et son compagnon.\nIls ont fait de leur jardin un endroit de jeu et de repos dédié aux bien-être des chats.\nMarie-Alice a pris le temps de nous faire découvrir la pension et nous avons reçu des photos et des nouvelles de notre chat pendant notre vadrouille en camion.\nUn grand merci à vous pour le soin apporté à nos boules de poils et pour votre gentillesse.\nA&N",
+        "langue": "fr",
+        "date": "2026-08-16",
+        "auteur": "Nina Bauer",
+        "auteur_lien": "https://www.google.com/maps/contrib/111124089092643258873/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2pGbVJXaEhMVzFHYjFweGRqQldTVE5EYUV4TGFIYxAB!2m1!1s0x12af17a0e900417d:0xb264edfb1ad16db5"
+      },
+      {
+        "note": 5,
+        "texte": "Je remercie beaucoup Marie Alice et son mari pour leur accueil et leur bienveillance.\nNotre petite minette a été bien choyée durant notre absence dans un cadre chaleureux.\nNous avons trouvé un bel endroit et un couple très gentil pour prendre soin de notre minette.\nJe recommande vivement.",
+        "langue": "fr",
+        "date": "2026-07-16",
+        "auteur": "Sandrine TISSERAND",
+        "auteur_lien": "https://www.google.com/maps/contrib/112813873093452120003/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xOcVRsZE5URWhWY0VwdFFqZGZORTl5ZDBGdWRIYxAB!2m1!1s0x12af17a0e900417d:0xb264edfb1ad16db5"
+      },
+      {
+        "note": 5,
+        "texte": "Marie Alice a très bien pris soin de mes deux chats, dont un qui avait un traitement médical. Ici les chats ont un environnement approprié, et tous les pensionnaires étaient calmes et sociables, signe qu'ils se sentent bien à la pension !\nEncore merci pour le séjour, et c'est ici que nous reviendrons quand nous aurons besoin.",
+        "langue": "fr",
+        "date": "2026-05-28",
+        "auteur": "Jordane Descons",
+        "auteur_lien": "https://www.google.com/maps/contrib/105358869731575347640/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT21oYU0zSlVVVnBUV1U5aWRrMVpjbGh2UTBwdmNWRRAB!2m1!1s0x12af17a0e900417d:0xb264edfb1ad16db5"
+      },
+      {
+        "note": 5,
+        "texte": "Premier séjour ici (une semaine) pour nos deux chats... mais pas le dernier ! Cette pension est une très belle découverte. Accueil familial, sourire et bienveillance. Nous sommes ravis et les chats le semblent aussi ! 🙂 Marie-Alice et son mari ont su les mettre en confiance, et bonus pour nous les petits SMS avec photos pendant le séjour.",
+        "langue": "fr",
+        "date": "2026-03-19",
+        "auteur": "Myriam H (Myriam Mimi)",
+        "auteur_lien": "https://www.google.com/maps/contrib/106959616760212573570/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT21GbE9EaFFhR05ZUlhnMGIzRnFkMUo2VEV4eE1YYxAB!2m1!1s0x12af17a0e900417d:0xb264edfb1ad16db5"
+      }
+    ]
+  },
+  "redaction": {
+    "version": 2,
+    "titre": "Pension pour chat — Vétérinaire et animaux à Foix",
+    "meta_titre": "Pension pour chat à Foix : horaires, avis, téléphone",
+    "meta_description": "Pension pour chat, vétérinaire et animaux à Foix : horaires d'ouverture, note Google 5/5 (36 avis), téléphone, adresse et itinéraire.",
+    "chapo": "Pension pour chat, vétérinaire et animaux au 4 Avenue Sibian, à Foix. Ouvert sept jours sur sept au relevé du 30 octobre 2026. Téléphone : 06 02 37 90 81. Note Google : 5 sur 5 pour 36 avis.",
+    "sections": [
+      {
+        "id": "presentation",
+        "titre": "Pension pour chat en quelques mots",
+        "paragraphes": [
+          "Sur Google, l'établissement est classé « Service de garde d'animaux », dans notre rubrique Vétérinaire et animaux.",
+          "D'après le relevé du 30 octobre 2026, l'établissement est ouvert sept jours sur sept. Le détail jour par jour figure plus bas."
+        ]
+      },
+      {
+        "id": "acces",
+        "titre": "Adresse et accès",
+        "paragraphes": [
+          "L'établissement est situé au 4 Avenue Sibian, 09000 Foix.",
+          "Coordonnées GPS : 42.96463, 1.59671. Le bouton Itinéraire de cette page ouvre la navigation."
+        ]
+      },
+      {
+        "id": "contact",
+        "titre": "Contacter Pension pour chat",
+        "paragraphes": [
+          "Le contact se fait par téléphone au 06 02 37 90 81, ou directement sur place aux horaires d'ouverture."
+        ]
+      },
+      {
+        "id": "avis",
+        "titre": "La réputation de Pension pour chat",
+        "paragraphes": [
+          "Note de 5 sur 5 pour 36 avis Google au relevé du 30 octobre 2026. Les avis les plus parlants sont compilés ci-dessous, avec un lien vers la fiche d'origine."
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "q": "Quels sont les horaires de Pension pour chat ?",
+        "r": "Au relevé du 30 octobre 2026, Pension pour chat était ouvert sept jours sur sept. Dans le détail — lundi : de 10 h à 20 h ; mardi : de 10 h à 20 h ; mercredi : de 10 h à 20 h ; jeudi : de 10 h à 20 h ; vendredi : de 10 h à 20 h ; samedi : de 10 h à 20 h ; dimanche : de 10 h à 20 h. Ces horaires peuvent changer : un appel préalable reste conseillé."
+      },
+      {
+        "q": "Pension pour chat est-il ouvert le dimanche ?",
+        "r": "Oui : le dimanche, Pension pour chat est ouvert de 10 h à 20 h (horaires relevés le 30 octobre 2026)."
+      },
+      {
+        "q": "Où se trouve Pension pour chat ?",
+        "r": "Pension pour chat se trouve 4 Av. Sibian, 09000 Foix. Un lien d'itinéraire est disponible sur cette page."
+      },
+      {
+        "q": "Comment contacter Pension pour chat ?",
+        "r": "Par téléphone au 06 02 37 90 81, ou directement sur place aux heures d'ouverture."
+      },
+      {
+        "q": "Pension pour chat est-il accessible aux personnes à mobilité réduite ?",
+        "r": "La fiche Google de l'établissement mentionne : « Parking accessible en fauteuil roulant ». Cette information est déclarative ; en cas de doute, vérifiez par téléphone."
+      }
+    ],
+    "genere_le": "2026-10-30"
+  },
+  "statut_google": "OPERATIONAL",
+  "audience": {
+    "clics": 0,
+    "impressions": 0,
+    "position": null,
+    "fenetreJours": 90,
+    "clicsRecents": 0,
+    "fenetreRecenteJours": 28,
+    "source": "search-console",
+    "date": "2026-10-30"
+  }
+}

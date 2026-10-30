@@ -28,7 +28,7 @@
     "longitude": 5.550796
   },
   "note": 4.4,
-  "avis": 92,
+  "avis": 93,
   "horaires": null,
   "attributs": [
     "Entrée accessible en fauteuil roulant",
@@ -41,8 +41,8 @@
     "etat": "absent",
     "premiere_detection": null,
     "derniere_detection": null,
-    "derniere_verification": "2026-10-14T10:07:28.770Z",
-    "echecs": 50,
+    "derniere_verification": "2026-10-30T11:21:01.088Z",
+    "echecs": 51,
     "url_detectee": null
   },
   "suggestion": {
@@ -60,21 +60,30 @@
   "dates": {
     "collecte": "2026-09-09",
     "publication": "2026-09-09",
-    "maj": "2026-10-24"
+    "maj": "2026-10-30"
   },
   "source": "google-places",
   "redaction": {
     "version": 2,
     "titre": "Lons le saunier — Mode et équipement de la maison à Lons-le-Saunier",
     "meta_titre": "Lons le saunier à Lons-le-Saunier : avis",
-    "meta_description": "Lons le saunier, mode et équipement de la maison à Lons-le-Saunier : note Google 4,4/5 (92 avis), adresse et itinéraire.",
-    "chapo": "Lons le saunier est une mode et équipement de la maison à Lons-le-Saunier. Note Google : 4,4 sur 5 pour 92 avis.",
+    "meta_description": "Lons le saunier, mode et équipement de la maison à Lons-le-Saunier : note Google 4,4/5 (93 avis), adresse et itinéraire.",
+    "chapo": "Lons le saunier est une mode et équipement de la maison à Lons-le-Saunier. Note Google : 4,4 sur 5 pour 93 avis.",
     "sections": [
       {
         "id": "presentation",
         "titre": "Lons le saunier en quelques mots",
         "paragraphes": [
           "Sur Google, l'établissement est classé « Magasin d'ameublement et de décoration », dans notre rubrique Mode et équipement de la maison."
+        ]
+      },
+      {
+        "id": "prestations",
+        "titre": "Services et équipements de Lons le saunier",
+        "paragraphes": [
+          "Non proposé selon la fiche Google : livraison.",
+          "Moyens de paiement déclarés : carte bancaire, carte de débit et paiement sans contact.",
+          "Ces indications sont déclarées par l'établissement sur sa fiche Google (relevé du 30 octobre 2026)."
         ]
       },
       {
@@ -96,7 +105,7 @@
         "id": "avis",
         "titre": "La réputation de Lons le saunier",
         "paragraphes": [
-          "Note de 4,4 sur 5 pour 92 avis Google au relevé du 14 octobre 2026. Les avis se consultent sur la fiche Google, dont le lien figure sur cette page."
+          "Note de 4,4 sur 5 pour 93 avis Google au relevé du 30 octobre 2026. Les avis les plus parlants sont compilés ci-dessous, avec un lien vers la fiche d'origine."
         ]
       }
     ],
@@ -106,11 +115,15 @@
         "r": "Lons le saunier se trouve 39000 Lons-le-Saunier. Un lien d'itinéraire est disponible sur cette page."
       },
       {
+        "q": "Lons le saunier propose-t-il la vente à emporter ou la livraison ?",
+        "r": "D'après sa fiche Google (relevé du 30 octobre 2026) — livraison : non."
+      },
+      {
         "q": "Lons le saunier est-il accessible aux personnes à mobilité réduite ?",
         "r": "La fiche Google de l'établissement mentionne : « Entrée accessible en fauteuil roulant ». Cette information est déclarative ; en cas de doute, vérifiez par téléphone."
       }
     ],
-    "genere_le": "2026-10-14"
+    "genere_le": "2026-10-30"
   },
   "statut_google": "OPERATIONAL",
   "audience": {
@@ -121,7 +134,7 @@
     "clicsRecents": 0,
     "fenetreRecenteJours": 28,
     "source": "search-console",
-    "date": "2026-10-29"
+    "date": "2026-10-30"
   },
   "indexation": {
     "etat": "non-indexee",
@@ -131,5 +144,67 @@
     "canonique_google": null,
     "source": "inspection",
     "date": "2026-10-24"
+  },
+  "avis_detail": {
+    "releve": "2026-10-30",
+    "liste": [
+      {
+        "note": 5,
+        "texte": "Lons-le-Saunier est une ville magnifique qui mérite grandement le détour, à commencer par son centre-ville dynamique et chaleureux.\n* Le charme de la rue du Commerce : Ses magnifiques arcades abritent une grande variété de boutiques indépendantes, à l'image de la formidable Librairie des Arcades et de son choix vaste de livres pour toutes les envies.  un vrai bonheur de pouvoir y faire son shopping en toute tranquillité, avec un choix diversifié qui prouve qu'on n'a pas besoin de s'exiler dans les grands centres commerciaux de périphérie pour trouver ce que l'on cherche. Il est primordial de soutenir et de conserver ces commerces de proximité qui font vivre nos cœurs de ville !\n* La superbe Place de la Liberté : C'est le véritable poumon de la cité. On y admire le majestueux théâtre, la célèbre statue du général Lecourbe veillant sur les lieux, ainsi que le parterre de jets d'eau qui apporte une touche de fraîcheur et de vie très appréciable.\n* L'art de vivre : Avec ses nombreux restaurants installés à chaque extrémité de la place, c'est l'endroit idéal pour s'attabler en terrasse, se détendre et profiter de l'ambiance unique de la ville.\nUne ville à taille humaine, vivante et accueillante, où il fait bon flâner et consommer local, comme l'excellent Grand Café du Théâtre qui propose une cuisine remarquable et un service irréprochable, c'est l'endroit parfait pour s'attabler et profiter de l'ambiance unique de la ville.",
+        "langue": "fr",
+        "date": "2026-08-26",
+        "auteur": "R GAM91",
+        "auteur_lien": "https://www.google.com/maps/contrib/117163435807105931039/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2tsUFoxcG9lSGg2VW1oT1ZURnhZa1J6ZWtkb1UyYxAB!2m1!1s0x478cd76730646477:0x699be83c57cc76d3"
+      },
+      {
+        "note": 5,
+        "texte": "Belle ville très propre zone touristique les alentours pleins de lacs a visiter je vous recommande soyez les bienvenus",
+        "langue": "fr",
+        "date": "2026-07-16",
+        "auteur": "hicham rahouti",
+        "auteur_lien": "https://www.google.com/maps/contrib/101953534824788796906/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xGVU1IcDVkRUZLTlhkUk4zQjNNelZQTjBwU1dXYxAB!2m1!1s0x478cd76730646477:0x699be83c57cc76d3"
+      },
+      {
+        "note": 5,
+        "texte": "Bonjour 👋, nous venons d'acheter une Vitara au garage Zangrandi dont noussommes satisfaits. Nous avons été accompagnés par Romain un Super commercial, Très à l'écoute de ses clients, une belle personne que nous vous conseillons. Le véhicule d'occasion a été présenté et préparé aux petits oignons et l'apprentissage aux nouvelles commandes à été très utile. Nous remercions chaleureusement Romain.",
+        "langue": "fr",
+        "date": "2026-05-18",
+        "auteur": "Sylvain Bourdeau",
+        "auteur_lien": "https://www.google.com/maps/contrib/112216703764102884707/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT21waE1GQmtWbWRaY0RZd04xZE9jVFYwWHpKVmMxRRAB!2m1!1s0x478cd76730646477:0x699be83c57cc76d3"
+      },
+      {
+        "note": 3,
+        "texte": "Petite ville sympa du Jura, dotée d'équipements tout à fait honorables (piscine, médiathèque, gymnases, stade...). Le parc des Bains est relaxant. Il y a souvent des animations. De belles places avec des terrasses sympathiques. Les moins: ville morte le dimanche et le lundi, les punks à chien stationnés en quasi permanence vers l'office du tourisme (ça la fout mal...), des carrefours routiers assez alambiqués quand on n'est pas habitué et actuellement, des travaux sur un des axes principaux occasionne un engorgement du centre-ville.",
+        "langue": "fr",
+        "date": "2026-04-03",
+        "auteur": "Valérie FORESTI",
+        "auteur_lien": "https://www.google.com/maps/contrib/111908963107935037458/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25salRIQkZTbmRoYUhOZk0xZE9NUzAyVm1GV2RHYxAB!2m1!1s0x478cd76730646477:0x699be83c57cc76d3"
+      },
+      {
+        "note": 4,
+        "texte": "Préfecture de garnison et mignonne petite ville thermale, malheureusement de moins en moins attrayante au niveau des magasins de bouche et de vêtements qui se décentralisent au fur et à mesure, des différentes municipalités. Bletterans vole  toujours la place pour ses agréables commerces à lons le saunier. Heureusement que l’on peut encore trouver une nature authentique aux alentours.",
+        "langue": "fr",
+        "date": "2024-07-02",
+        "auteur": "christelle liauzu",
+        "auteur_lien": "https://www.google.com/maps/contrib/106628706121546564342/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSURMci1EMmZREAE!2m1!1s0x478cd76730646477:0x699be83c57cc76d3"
+      }
+    ]
+  },
+  "services": {
+    "releve": "2026-10-30",
+    "options": {
+      "delivery": false
+    },
+    "paiement": [
+      "carte bancaire",
+      "carte de débit",
+      "paiement sans contact"
+    ],
+    "parking": []
   }
 }

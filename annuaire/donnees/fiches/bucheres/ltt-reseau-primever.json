@@ -29,7 +29,7 @@
     "longitude": 4.1268899999999995
   },
   "note": 4.2,
-  "avis": 77,
+  "avis": 79,
   "horaires": [
     {
       "jour": 0,
@@ -112,8 +112,8 @@
     "etat": "absent",
     "premiere_detection": null,
     "derniere_detection": null,
-    "derniere_verification": "2026-10-14T10:07:28.770Z",
-    "echecs": 67,
+    "derniere_verification": "2026-10-30T11:21:01.088Z",
+    "echecs": 68,
     "url_detectee": null
   },
   "suggestion": {
@@ -133,22 +133,30 @@
   "dates": {
     "collecte": "2026-09-01",
     "publication": "2026-09-01",
-    "maj": "2026-10-18"
+    "maj": "2026-10-30"
   },
   "source": "google-places",
   "redaction": {
     "version": 2,
     "titre": "LTT réseau Primever — Transport et déménagement à Buchères",
     "meta_titre": "LTT réseau Primever à Buchères : horaires, avis, téléphone",
-    "meta_description": "LTT réseau Primever, transport et déménagement à Buchères : horaires d'ouverture, note Google 4,2/5 (77 avis), téléphone, adresse et itinéraire.",
-    "chapo": "Cette fiche présente LTT réseau Primever, un transport et déménagement au 2 Route de Verrières, à Buchères. Ouvert sept jours sur sept au relevé du 18 octobre 2026. Téléphone : 03 25 41 81 69. Note Google : 4,2 sur 5 pour 77 avis.",
+    "meta_description": "LTT réseau Primever, transport et déménagement à Buchères : horaires d'ouverture, note Google 4,2/5 (79 avis), téléphone, adresse et itinéraire.",
+    "chapo": "Cette fiche présente LTT réseau Primever, un transport et déménagement au 2 Route de Verrières, à Buchères. Ouvert sept jours sur sept au relevé du 30 octobre 2026. Téléphone : 03 25 41 81 69. Note Google : 4,2 sur 5 pour 79 avis.",
     "sections": [
       {
         "id": "presentation",
         "titre": "LTT réseau Primever en quelques mots",
         "paragraphes": [
           "Sur Google, l'établissement est classé « Service de livraison », dans notre rubrique Transport et déménagement.",
-          "D'après le relevé du 18 octobre 2026, l'établissement est ouvert sept jours sur sept. Le détail jour par jour figure plus bas."
+          "D'après le relevé du 30 octobre 2026, l'établissement est ouvert sept jours sur sept. Le détail jour par jour figure plus bas."
+        ]
+      },
+      {
+        "id": "prestations",
+        "titre": "Services et équipements de LTT réseau Primever",
+        "paragraphes": [
+          "Proposé : toilettes.",
+          "Ces indications sont déclarées par l'établissement sur sa fiche Google (relevé du 30 octobre 2026)."
         ]
       },
       {
@@ -170,18 +178,18 @@
         "id": "avis",
         "titre": "La réputation de LTT réseau Primever",
         "paragraphes": [
-          "Note de 4,2 sur 5 pour 77 avis Google au relevé du 18 octobre 2026. Les avis se consultent sur la fiche Google, dont le lien figure sur cette page."
+          "Note de 4,2 sur 5 pour 79 avis Google au relevé du 30 octobre 2026. Les avis les plus parlants sont compilés ci-dessous, avec un lien vers la fiche d'origine."
         ]
       }
     ],
     "faq": [
       {
         "q": "Quels sont les horaires de LTT réseau Primever ?",
-        "r": "Au relevé du 18 octobre 2026, LTT réseau Primever était ouvert sept jours sur sept. Dans le détail — lundi : de 7 h à 17 h ; mardi : de 7 h à 17 h ; mercredi : de 7 h à 17 h ; jeudi : de 7 h à 17 h ; vendredi : de 7 h à 17 h ; samedi : de 7 h à 17 h ; dimanche : de 7 h à 17 h. Ces horaires peuvent changer : un appel préalable reste conseillé."
+        "r": "Au relevé du 30 octobre 2026, LTT réseau Primever était ouvert sept jours sur sept. Dans le détail — lundi : de 7 h à 17 h ; mardi : de 7 h à 17 h ; mercredi : de 7 h à 17 h ; jeudi : de 7 h à 17 h ; vendredi : de 7 h à 17 h ; samedi : de 7 h à 17 h ; dimanche : de 7 h à 17 h. Ces horaires peuvent changer : un appel préalable reste conseillé."
       },
       {
         "q": "LTT réseau Primever est-il ouvert le dimanche ?",
-        "r": "Oui : le dimanche, LTT réseau Primever est ouvert de 7 h à 17 h (horaires relevés le 18 octobre 2026)."
+        "r": "Oui : le dimanche, LTT réseau Primever est ouvert de 7 h à 17 h (horaires relevés le 30 octobre 2026)."
       },
       {
         "q": "Où se trouve LTT réseau Primever ?",
@@ -196,7 +204,7 @@
         "r": "La fiche Google de l'établissement mentionne : « Parking accessible en fauteuil roulant ». Cette information est déclarative ; en cas de doute, vérifiez par téléphone."
       }
     ],
-    "genere_le": "2026-10-18"
+    "genere_le": "2026-10-30"
   },
   "statut_google": "OPERATIONAL",
   "audience": {
@@ -207,7 +215,7 @@
     "clicsRecents": 0,
     "fenetreRecenteJours": 28,
     "source": "search-console",
-    "date": "2026-10-29"
+    "date": "2026-10-30"
   },
   "indexation": {
     "etat": "non-indexee",
@@ -217,5 +225,63 @@
     "canonique_google": null,
     "source": "inspection",
     "date": "2026-10-18"
+  },
+  "avis_detail": {
+    "releve": "2026-10-30",
+    "liste": [
+      {
+        "note": 3,
+        "texte": "Rungis attention quai serré",
+        "langue": "fr",
+        "date": "2026-04-12",
+        "auteur": "Hugues Verstraeten",
+        "auteur_lien": "https://www.google.com/maps/contrib/110654329648764986866/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT201cVgzSXhhRWgyUkVseFV5MXhXSFZEVkhkWlRsRRAB!2m1!1s0x47ee9c10fcda4447:0xf43d23ba50b7a945"
+      },
+      {
+        "note": 5,
+        "texte": "Très bien accueilli douche et sanitaire ainsi que parking propre tout pour accueillir les chauffeur en bonne condition",
+        "langue": "fr",
+        "date": "2024-10-08",
+        "auteur": "gregory dufour",
+        "auteur_lien": "https://www.google.com/maps/contrib/102774183968197872481/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSURuMWF6TWd3RRAB!2m1!1s0x47ee9c10fcda4447:0xf43d23ba50b7a945"
+      },
+      {
+        "note": 4,
+        "texte": "Pas d'attente bien reçu merci ltt",
+        "langue": "fr",
+        "date": "2024-05-08",
+        "auteur": "Eric Milan",
+        "auteur_lien": "https://www.google.com/maps/contrib/117600875477433746038/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSURqNTRLdEh3EAE!2m1!1s0x47ee9c10fcda4447:0xf43d23ba50b7a945"
+      },
+      {
+        "note": 5,
+        "texte": "Le travail est plutôt pas mal pas très compliqué. Les chefs et collègues sont super cool. Je conseille cette entreprise",
+        "langue": "fr",
+        "date": "2023-09-01",
+        "auteur": "lazkopat6110 Turan",
+        "auteur_lien": "https://www.google.com/maps/contrib/118008364431873831574/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUNaZ0p6b3NRRRAB!2m1!1s0x47ee9c10fcda4447:0xf43d23ba50b7a945"
+      },
+      {
+        "note": 4,
+        "texte": "Chargement long sanitaire moyen mais équipe de nuit super sympa",
+        "langue": "fr",
+        "date": "2022-11-21",
+        "auteur": "Pautet Franck",
+        "auteur_lien": "https://www.google.com/maps/contrib/112927498861221738196/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUQtaEpXVlNBEAE!2m1!1s0x47ee9c10fcda4447:0xf43d23ba50b7a945"
+      }
+    ]
+  },
+  "services": {
+    "releve": "2026-10-30",
+    "options": {
+      "restroom": true
+    },
+    "paiement": [],
+    "parking": []
   }
 }

@@ -30,7 +30,7 @@
     "longitude": 3.5073659999999998
   },
   "note": 4.8,
-  "avis": 282,
+  "avis": 283,
   "horaires": [
     {
       "jour": 0,
@@ -95,8 +95,8 @@
     "etat": "absent",
     "premiere_detection": null,
     "derniere_detection": null,
-    "derniere_verification": "2026-10-14T10:07:28.770Z",
-    "echecs": 64,
+    "derniere_verification": "2026-10-30T11:21:01.088Z",
+    "echecs": 65,
     "url_detectee": null
   },
   "suggestion": {
@@ -114,22 +114,31 @@
   "dates": {
     "collecte": "2026-09-02",
     "publication": "2026-09-02",
-    "maj": "2026-10-19"
+    "maj": "2026-10-30"
   },
   "source": "google-places",
   "redaction": {
     "version": 2,
     "titre": "Lozer' kids — Loisirs, sport et culture à Chastel-Nouvel",
     "meta_titre": "Lozer' kids à Chastel-Nouvel : horaires, avis, téléphone",
-    "meta_description": "Lozer' kids, loisirs, sport et culture à Chastel-Nouvel : horaires d'ouverture, note Google 4,8/5 (282 avis), téléphone, adresse et itinéraire.",
-    "chapo": "Lozer' kids exerce l'activité de loisirs, sport et culture au Route d'Alteyrac, à Chastel-Nouvel. Ouvert le mercredi, samedi, dimanche au relevé du 18 octobre 2026. Téléphone : 06 43 41 63 44. Note Google : 4,8 sur 5 pour 282 avis.",
+    "meta_description": "Lozer' kids, loisirs, sport et culture à Chastel-Nouvel : horaires d'ouverture, note Google 4,8/5 (283 avis), téléphone, adresse et itinéraire.",
+    "chapo": "Lozer' kids exerce l'activité de loisirs, sport et culture au Route d'Alteyrac, à Chastel-Nouvel. Ouvert le mercredi, samedi, dimanche au relevé du 30 octobre 2026. Téléphone : 06 43 41 63 44. Note Google : 4,8 sur 5 pour 283 avis.",
     "sections": [
       {
         "id": "presentation",
         "titre": "Lozer' kids en quelques mots",
         "paragraphes": [
           "Sur Google, l'établissement est classé « Parc de loisirs », dans notre rubrique Loisirs, sport et culture.",
-          "D'après le relevé du 18 octobre 2026, l'établissement est ouvert le mercredi, samedi, dimanche. Le détail jour par jour figure plus bas."
+          "D'après le relevé du 30 octobre 2026, l'établissement est ouvert le mercredi, samedi, dimanche. Le détail jour par jour figure plus bas."
+        ]
+      },
+      {
+        "id": "prestations",
+        "titre": "Services et équipements de Lozer' kids",
+        "paragraphes": [
+          "Proposé : adapté aux enfants et toilettes.",
+          "Moyens de paiement déclarés : carte bancaire, carte de débit et paiement sans contact.",
+          "Ces indications sont déclarées par l'établissement sur sa fiche Google (relevé du 30 octobre 2026)."
         ]
       },
       {
@@ -151,18 +160,18 @@
         "id": "avis",
         "titre": "La réputation de Lozer' kids",
         "paragraphes": [
-          "Note de 4,8 sur 5 pour 282 avis Google au relevé du 18 octobre 2026. Les avis se consultent sur la fiche Google, dont le lien figure sur cette page."
+          "Note de 4,8 sur 5 pour 283 avis Google au relevé du 30 octobre 2026. Les avis les plus parlants sont compilés ci-dessous, avec un lien vers la fiche d'origine."
         ]
       }
     ],
     "faq": [
       {
         "q": "Quels sont les horaires de Lozer' kids ?",
-        "r": "Au relevé du 18 octobre 2026, Lozer' kids était ouvert le mercredi, samedi, dimanche. Dans le détail — lundi : fermé ; mardi : fermé ; mercredi : de 10 h à 19 h ; jeudi : fermé ; vendredi : fermé ; samedi : de 10 h à 19 h ; dimanche : de 10 h à 19 h. Ces horaires peuvent changer : un appel préalable reste conseillé."
+        "r": "Au relevé du 30 octobre 2026, Lozer' kids était ouvert le mercredi, samedi, dimanche. Dans le détail — lundi : fermé ; mardi : fermé ; mercredi : de 10 h à 19 h ; jeudi : fermé ; vendredi : fermé ; samedi : de 10 h à 19 h ; dimanche : de 10 h à 19 h. Ces horaires peuvent changer : un appel préalable reste conseillé."
       },
       {
         "q": "Lozer' kids est-il ouvert le dimanche ?",
-        "r": "Oui : le dimanche, Lozer' kids est ouvert de 10 h à 19 h (horaires relevés le 18 octobre 2026)."
+        "r": "Oui : le dimanche, Lozer' kids est ouvert de 10 h à 19 h (horaires relevés le 30 octobre 2026)."
       },
       {
         "q": "Où se trouve Lozer' kids ?",
@@ -177,7 +186,7 @@
         "r": "La fiche Google de l'établissement mentionne : « Entrée accessible en fauteuil roulant ». Cette information est déclarative ; en cas de doute, vérifiez par téléphone."
       }
     ],
-    "genere_le": "2026-10-18"
+    "genere_le": "2026-10-30"
   },
   "statut_google": "OPERATIONAL",
   "audience": {
@@ -188,7 +197,7 @@
     "clicsRecents": 0,
     "fenetreRecenteJours": 28,
     "source": "search-console",
-    "date": "2026-10-29"
+    "date": "2026-10-30"
   },
   "indexation": {
     "etat": "non-indexee",
@@ -198,5 +207,68 @@
     "canonique_google": null,
     "source": "inspection",
     "date": "2026-10-19"
+  },
+  "avis_detail": {
+    "releve": "2026-10-30",
+    "liste": [
+      {
+        "note": 5,
+        "texte": "On s'est arrêté sur le retour de vacances. Super accueil, il ne nous a pas fait payer l'entrée car notre fille a un an. Nous avons donc consommé sur place bien volontiers.\nTout est adapté, notre fille s'est beaucoup amusé dans l'espace dédié à petits, je recommande vivement.",
+        "langue": "fr",
+        "date": "2026-08-14",
+        "auteur": "Hélène Destre",
+        "auteur_lien": "https://www.google.com/maps/contrib/100287465070102500436/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT21WRFdWWlJSRWx6ZDFNeFJGUkZUa2g1TVhGVWQyYxAB!2m1!1s0x12b36f375e21f443:0x17fc417ab0109ab8"
+      },
+      {
+        "note": 5,
+        "texte": "Très bon moment avec 2 enfants de moins de 2 ans. Lieu propre, agréable, jeux variés. La nourriture est aussi bonne.",
+        "langue": "fr",
+        "date": "2026-08-08",
+        "auteur": "Célia Simonneau",
+        "auteur_lien": "https://www.google.com/maps/contrib/111387870504437421662/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2sxa2JrTmZNMHhtV1dkcFoweFJhbVZOYlZkZlFVRRAB!2m1!1s0x12b36f375e21f443:0x17fc417ab0109ab8"
+      },
+      {
+        "note": 5,
+        "texte": "Espace très bien aménagé, une partie pour les plus petits, une autre pour les plus grands. L ensemble des jeux est varié et bien pensé. Un système de jetons permet d accéder à un circuit de petites voitures et autres jeux. Par ailleurs  il est possible de se restaurer sur place. L accueil est chaleureux. Idéal pour un moment en famille par temps de pluie.",
+        "langue": "fr",
+        "date": "2026-03-03",
+        "auteur": "Geneviève Pauly",
+        "auteur_lien": "https://www.google.com/maps/contrib/114518598589242462059/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2tvdFZGOVNkVUoxTnpGbllsUlFObFEzWVhaMVQyYxAB!2m1!1s0x12b36f375e21f443:0x17fc417ab0109ab8"
+      },
+      {
+        "note": 5,
+        "texte": "Un super endroit pour passer un bon moment avec notre petitou ! Toujours un super accueil et un lieu très propre et bien entretenu.\nLa carte pour un petit creux est impeccable et toujours un régal que ce soir les gaufres ou les crêpes !",
+        "langue": "fr",
+        "date": "2025-08-10",
+        "auteur": "xavm9",
+        "auteur_lien": "https://www.google.com/maps/contrib/108119634729385162749/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25OeGJUUjNaakJ4YzBOcU0yVkxPV05WZVVoblFXYxAB!2m1!1s0x12b36f375e21f443:0x17fc417ab0109ab8"
+      },
+      {
+        "note": 5,
+        "texte": "Découvrez ce parc d’activités intérieur pour les enfants jusqu’à 12 ans avec de nombreuses zones de jeux.\nVous retrouverez des jeux dans les balles, toboggans, parcours, legos géants, piste de mini voiture, jeux à jetons.\nUn espace anniversaire est disponible.\n\nLe plus grand atout est le point restauration pour les parents avec chaises hautes pour les bébés,à disposition.\n\nL’accueil par les gérants est excellent et sont très sympathiques.\n\nUn lieu propre facile d’accès avec un parking à la porte du bâtiment.\nLe tarif d’entrée par enfant est inférieur a 10€ et gratuit pour les parents ou accompagnateurs.",
+        "langue": "fr",
+        "date": "2022-02-12",
+        "auteur": "Guillaume Bonicel",
+        "auteur_lien": "https://www.google.com/maps/contrib/116751175983438332247/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSURtdF9lcUFREAE!2m1!1s0x12b36f375e21f443:0x17fc417ab0109ab8"
+      }
+    ]
+  },
+  "services": {
+    "releve": "2026-10-30",
+    "options": {
+      "goodForChildren": true,
+      "restroom": true
+    },
+    "paiement": [
+      "carte bancaire",
+      "carte de débit",
+      "paiement sans contact"
+    ],
+    "parking": []
   }
 }

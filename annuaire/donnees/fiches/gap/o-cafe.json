@@ -30,7 +30,7 @@
     "longitude": 6.080197699999999
   },
   "note": 4.6,
-  "avis": 279,
+  "avis": 281,
   "horaires": [
     {
       "jour": 0,
@@ -105,8 +105,8 @@
     "etat": "absent",
     "premiere_detection": null,
     "derniere_detection": null,
-    "derniere_verification": "2026-10-14T10:07:28.770Z",
-    "echecs": 53,
+    "derniere_verification": "2026-10-30T11:21:01.088Z",
+    "echecs": 54,
     "url_detectee": null
   },
   "suggestion": {
@@ -124,22 +124,34 @@
   "dates": {
     "collecte": "2026-09-07",
     "publication": "2026-09-07",
-    "maj": "2026-10-22"
+    "maj": "2026-10-30"
   },
   "source": "google-places",
   "redaction": {
     "version": 2,
     "titre": "Ô Café — Café ou bar à Gap",
     "meta_titre": "Ô Café à Gap : horaires, avis, téléphone",
-    "meta_description": "Ô Café, café ou bar à Gap : horaires d'ouverture, note Google 4,6/5 (279 avis), téléphone, adresse et itinéraire.",
-    "chapo": "Ô Café exerce l'activité de café ou bar au 21 Rue de France, à Gap. Fermé le lundi et le dimanche au relevé du 14 octobre 2026. Téléphone : 04 92 50 89 15. Note Google : 4,6 sur 5 pour 279 avis.",
+    "meta_description": "Ô Café, café ou bar à Gap : horaires d'ouverture, note Google 4,6/5 (281 avis), téléphone, adresse et itinéraire.",
+    "chapo": "Ô Café exerce l'activité de café ou bar au 21 Rue de France, à Gap. Fermé le lundi et le dimanche au relevé du 30 octobre 2026. Téléphone : 04 92 50 89 15. Note Google : 4,6 sur 5 pour 281 avis.",
     "sections": [
       {
         "id": "presentation",
         "titre": "Ô Café en quelques mots",
         "paragraphes": [
           "Sur Google, l'établissement est classé « Café », dans notre rubrique Café ou bar.",
-          "D'après le relevé du 14 octobre 2026, l'établissement est fermé le lundi et le dimanche. Le détail jour par jour figure plus bas."
+          "Niveau de prix indiqué sur la fiche Google : € (bon marché).",
+          "D'après le relevé du 30 octobre 2026, l'établissement est fermé le lundi et le dimanche. Le détail jour par jour figure plus bas."
+        ]
+      },
+      {
+        "id": "prestations",
+        "titre": "Services et équipements de Ô Café",
+        "paragraphes": [
+          "Proposé : sur place, à emporter, réservation possible, terrasse, petit-déjeuner, déjeuner, plats végétariens, café, bière, vin, adapté aux enfants, adapté aux groupes, chiens acceptés et toilettes.",
+          "Non proposé selon la fiche Google : livraison, retrait en voiture, dîner, cocktails, menu enfant, retransmissions sportives et musique live.",
+          "Moyens de paiement déclarés : carte bancaire, carte de débit et paiement sans contact.",
+          "Stationnement : parking gratuit, parking payant, stationnement gratuit dans la rue, stationnement payant dans la rue et garage payant.",
+          "Ces indications sont déclarées par l'établissement sur sa fiche Google (relevé du 30 octobre 2026)."
         ]
       },
       {
@@ -154,25 +166,26 @@
         "id": "contact",
         "titre": "Contacter Ô Café",
         "paragraphes": [
-          "Le contact se fait par téléphone au 04 92 50 89 15, ou directement sur place aux horaires d'ouverture."
+          "Le contact se fait par téléphone au 04 92 50 89 15, ou directement sur place aux horaires d'ouverture.",
+          "La fiche Google indique que la réservation est possible."
         ]
       },
       {
         "id": "avis",
         "titre": "La réputation de Ô Café",
         "paragraphes": [
-          "Note de 4,6 sur 5 pour 279 avis Google au relevé du 14 octobre 2026. Les avis se consultent sur la fiche Google, dont le lien figure sur cette page."
+          "Note de 4,6 sur 5 pour 281 avis Google au relevé du 30 octobre 2026. Les avis les plus parlants sont compilés ci-dessous, avec un lien vers la fiche d'origine."
         ]
       }
     ],
     "faq": [
       {
         "q": "Quels sont les horaires de Ô Café ?",
-        "r": "Au relevé du 14 octobre 2026, Ô Café était fermé le lundi et le dimanche. Dans le détail — lundi : fermé ; mardi : de 8 h 30 à 18 h ; mercredi : de 9 h à 18 h ; jeudi : de 9 h à 18 h ; vendredi : de 9 h à 18 h ; samedi : de 8 h 30 à 18 h ; dimanche : fermé. Ces horaires peuvent changer : un appel préalable reste conseillé."
+        "r": "Au relevé du 30 octobre 2026, Ô Café était fermé le lundi et le dimanche. Dans le détail — lundi : fermé ; mardi : de 8 h 30 à 18 h ; mercredi : de 9 h à 18 h ; jeudi : de 9 h à 18 h ; vendredi : de 9 h à 18 h ; samedi : de 8 h 30 à 18 h ; dimanche : fermé. Ces horaires peuvent changer : un appel préalable reste conseillé."
       },
       {
         "q": "Ô Café est-il ouvert le dimanche ?",
-        "r": "Non : d'après les horaires relevés le 14 octobre 2026, Ô Café est fermé le dimanche."
+        "r": "Non : d'après les horaires relevés le 30 octobre 2026, Ô Café est fermé le dimanche."
       },
       {
         "q": "Où se trouve Ô Café ?",
@@ -183,11 +196,23 @@
         "r": "Par téléphone au 04 92 50 89 15, ou directement sur place aux heures d'ouverture."
       },
       {
+        "q": "Peut-on réserver chez Ô Café ?",
+        "r": "Oui, la fiche Google de Ô Café indique que la réservation est possible, par téléphone au 04 92 50 89 15."
+      },
+      {
+        "q": "Ô Café propose-t-il la vente à emporter ou la livraison ?",
+        "r": "D'après sa fiche Google (relevé du 30 octobre 2026) — vente à emporter : oui ; livraison : non."
+      },
+      {
+        "q": "Quel est le niveau de prix de Ô Café ?",
+        "r": "Google classe Ô Café au niveau de prix € (bon marché), sur une échelle de € à €€€€ établie à partir des avis clients."
+      },
+      {
         "q": "Ô Café est-il accessible aux personnes à mobilité réduite ?",
         "r": "La fiche Google de l'établissement mentionne : « Entrée accessible en fauteuil roulant ». Cette information est déclarative ; en cas de doute, vérifiez par téléphone."
       }
     ],
-    "genere_le": "2026-10-14"
+    "genere_le": "2026-10-30"
   },
   "statut_google": "OPERATIONAL",
   "audience": {
@@ -198,7 +223,7 @@
     "clicsRecents": 0,
     "fenetreRecenteJours": 28,
     "source": "search-console",
-    "date": "2026-10-29"
+    "date": "2026-10-30"
   },
   "indexation": {
     "etat": "indexee",
@@ -208,5 +233,94 @@
     "canonique_google": null,
     "source": "impressions",
     "date": "2026-10-22"
+  },
+  "avis_detail": {
+    "releve": "2026-10-30",
+    "liste": [
+      {
+        "note": 5,
+        "texte": "J’ai découvert ce café aujourd’hui\nJ’y ai trouvé une ambiance très chaleureuse et joyeuse.\nPrix raisonnable.\nContente d’avoir trouvé cette nouvelle adresse\nJe recommande vivement",
+        "langue": "fr",
+        "date": "2026-06-03",
+        "auteur": "Louna",
+        "auteur_lien": "https://www.google.com/maps/contrib/112322856511485728356/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2pBMlozbEhZbk54Y2t4SldFUmZZVU5WVDI4MFVsRRAB!2m1!1s0x12cb406d11fd03ff:0x7ef3af4b486b3e89"
+      },
+      {
+        "note": 5,
+        "texte": "Nous sommes venus à l'occasion d'obsèques. Nous avons été accueillis avec une extrême gentillesse. Tout était trés bons et fait maison : jus de fruit frais, plat maison, salade de fruit, gâteau maison. Nous nous sommes régalés. Nous n'oublierons pas l'accueil et la gentillesse. Merci infiniment d'avoir adouci ce moment !",
+        "langue": "fr",
+        "date": "2026-03-18",
+        "auteur": "Florine M",
+        "auteur_lien": "https://www.google.com/maps/contrib/103447724673815657690/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT21aSmQxWkdTbWw0ZG01bVVIRXphME5zUW5OMVVrRRAB!2m1!1s0x12cb406d11fd03ff:0x7ef3af4b486b3e89"
+      },
+      {
+        "note": 5,
+        "texte": "Fin février , Je me suis arrêté pour un « simple café » , l’ambiance , la chaleur de ce local m’a fait fait rester pour un déjeuner extraordinaire : un véritable festival des saveurs",
+        "langue": "fr",
+        "date": "2026-03-13",
+        "auteur": "Sebastien Allemand",
+        "auteur_lien": "https://www.google.com/maps/contrib/116666023858898806879/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2tsdE9VSmxPV3N6WkhVNFYxSXhaazR5VFdRNE9YYxAB!2m1!1s0x12cb406d11fd03ff:0x7ef3af4b486b3e89"
+      },
+      {
+        "note": 4,
+        "texte": "Merci pour cette belle découverte, l'UBE, on dirait une potion, c'est très bon et légèrement sucré. Mais aussi plein d'autres belles gourmandises à la carte ! Bel endroit à partager !",
+        "langue": "fr",
+        "date": "2026-02-11",
+        "auteur": "Sabrine",
+        "auteur_lien": "https://www.google.com/maps/contrib/117728081001061656337/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25SblZsRnRaMWhJYlV4WFh6VlpiSEl4ZW1vd05HYxAB!2m1!1s0x12cb406d11fd03ff:0x7ef3af4b486b3e89"
+      },
+      {
+        "note": 5,
+        "texte": "Souriant, travaillant avec soin — peut-être même le patron lui-même ☺️ Il était vraiment très chaleureux et accueillant. Comme écrit sur les murs : « Une personne qui sourit est une personne heureuse. »\nCe que nous avons mangé et bu était excellent, nous le remercions vivement.",
+        "langue": "fr",
+        "date": "2025-08-19",
+        "auteur": "arif balikci",
+        "auteur_lien": "https://www.google.com/maps/contrib/114335409071956561721/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2pZMWFuWnhMVlJPTURoMU5XbEZXSFpKZFcwMGFHYxAB!2m1!1s0x12cb406d11fd03ff:0x7ef3af4b486b3e89"
+      }
+    ]
+  },
+  "services": {
+    "releve": "2026-10-30",
+    "prix": "PRICE_LEVEL_INEXPENSIVE",
+    "options": {
+      "dineIn": true,
+      "takeout": true,
+      "delivery": false,
+      "curbsidePickup": false,
+      "reservable": true,
+      "outdoorSeating": true,
+      "servesBreakfast": true,
+      "servesLunch": true,
+      "servesDinner": false,
+      "servesVegetarianFood": true,
+      "servesCoffee": true,
+      "servesBeer": true,
+      "servesWine": true,
+      "servesCocktails": false,
+      "menuForChildren": false,
+      "goodForChildren": true,
+      "goodForGroups": true,
+      "goodForWatchingSports": false,
+      "liveMusic": false,
+      "allowsDogs": true,
+      "restroom": true
+    },
+    "paiement": [
+      "carte bancaire",
+      "carte de débit",
+      "paiement sans contact"
+    ],
+    "parking": [
+      "parking gratuit",
+      "parking payant",
+      "stationnement gratuit dans la rue",
+      "stationnement payant dans la rue",
+      "garage payant"
+    ]
   }
 }

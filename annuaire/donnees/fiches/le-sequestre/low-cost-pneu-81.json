@@ -30,7 +30,7 @@
     "longitude": 2.1127233999999997
   },
   "note": 4.8,
-  "avis": 185,
+  "avis": 187,
   "horaires": [
     {
       "jour": 0,
@@ -124,8 +124,8 @@
     "etat": "absent",
     "premiere_detection": null,
     "derniere_detection": null,
-    "derniere_verification": "2026-10-14T10:07:28.770Z",
-    "echecs": 18,
+    "derniere_verification": "2026-10-30T11:21:01.088Z",
+    "echecs": 19,
     "url_detectee": null
   },
   "suggestion": {
@@ -138,22 +138,30 @@
   "dates": {
     "collecte": "2026-09-25",
     "publication": "2026-09-25",
-    "maj": "2026-10-14"
+    "maj": "2026-10-30"
   },
   "source": "google-places",
   "redaction": {
     "version": 2,
     "titre": "LOW COST PNEU 81 — Garage et automobile à Le Sequestre",
     "meta_titre": "LOW COST PNEU 81 à Le Sequestre : horaires, avis, téléphone",
-    "meta_description": "LOW COST PNEU 81, garage et automobile à Le Sequestre : horaires d'ouverture, note Google 4,8/5 (185 avis), téléphone, adresse et itinéraire.",
-    "chapo": "LOW COST PNEU 81 exerce l'activité de garage et automobile au 13 Rue de Mélaudie, à Le Sequestre. Fermé le samedi et le dimanche au relevé du 14 octobre 2026. Téléphone : 06 77 21 04 78. Note Google : 4,8 sur 5 pour 185 avis.",
+    "meta_description": "LOW COST PNEU 81, garage et automobile à Le Sequestre : horaires d'ouverture, note Google 4,8/5 (187 avis), téléphone, adresse et itinéraire.",
+    "chapo": "LOW COST PNEU 81 exerce l'activité de garage et automobile au 13 Rue de Mélaudie, à Le Sequestre. Fermé le samedi et le dimanche au relevé du 30 octobre 2026. Téléphone : 06 77 21 04 78. Note Google : 4,8 sur 5 pour 187 avis.",
     "sections": [
       {
         "id": "presentation",
         "titre": "LOW COST PNEU 81 en quelques mots",
         "paragraphes": [
           "Sur Google, l'établissement est classé « Magasin de pneus », dans notre rubrique Garage et automobile.",
-          "D'après le relevé du 14 octobre 2026, l'établissement est fermé le samedi et le dimanche. Le détail jour par jour figure plus bas."
+          "D'après le relevé du 30 octobre 2026, l'établissement est fermé le samedi et le dimanche. Le détail jour par jour figure plus bas."
+        ]
+      },
+      {
+        "id": "prestations",
+        "titre": "Services et équipements de LOW COST PNEU 81",
+        "paragraphes": [
+          "Moyens de paiement déclarés : carte bancaire, carte de débit et paiement sans contact.",
+          "Ces indications sont déclarées par l'établissement sur sa fiche Google (relevé du 30 octobre 2026)."
         ]
       },
       {
@@ -175,18 +183,18 @@
         "id": "avis",
         "titre": "La réputation de LOW COST PNEU 81",
         "paragraphes": [
-          "Note de 4,8 sur 5 pour 185 avis Google au relevé du 14 octobre 2026. Les avis se consultent sur la fiche Google, dont le lien figure sur cette page."
+          "Note de 4,8 sur 5 pour 187 avis Google au relevé du 30 octobre 2026. Les avis les plus parlants sont compilés ci-dessous, avec un lien vers la fiche d'origine."
         ]
       }
     ],
     "faq": [
       {
         "q": "Quels sont les horaires de LOW COST PNEU 81 ?",
-        "r": "Au relevé du 14 octobre 2026, LOW COST PNEU 81 était fermé le samedi et le dimanche. Dans le détail — lundi : de 9 h à 12 h et de 14 h à 18 h 30 ; mardi : de 9 h à 12 h et de 14 h à 18 h 30 ; mercredi : de 9 h à 12 h et de 14 h à 18 h 30 ; jeudi : de 9 h à 12 h et de 14 h à 18 h 30 ; vendredi : de 9 h à 12 h et de 14 h à 18 h 30 ; samedi : fermé ; dimanche : fermé. Ces horaires peuvent changer : un appel préalable reste conseillé."
+        "r": "Au relevé du 30 octobre 2026, LOW COST PNEU 81 était fermé le samedi et le dimanche. Dans le détail — lundi : de 9 h à 12 h et de 14 h à 18 h 30 ; mardi : de 9 h à 12 h et de 14 h à 18 h 30 ; mercredi : de 9 h à 12 h et de 14 h à 18 h 30 ; jeudi : de 9 h à 12 h et de 14 h à 18 h 30 ; vendredi : de 9 h à 12 h et de 14 h à 18 h 30 ; samedi : fermé ; dimanche : fermé. Ces horaires peuvent changer : un appel préalable reste conseillé."
       },
       {
         "q": "LOW COST PNEU 81 est-il ouvert le dimanche ?",
-        "r": "Non : d'après les horaires relevés le 14 octobre 2026, LOW COST PNEU 81 est fermé le dimanche."
+        "r": "Non : d'après les horaires relevés le 30 octobre 2026, LOW COST PNEU 81 est fermé le dimanche."
       },
       {
         "q": "Où se trouve LOW COST PNEU 81 ?",
@@ -201,7 +209,7 @@
         "r": "La fiche Google de l'établissement mentionne : « Entrée accessible en fauteuil roulant ». Cette information est déclarative ; en cas de doute, vérifiez par téléphone."
       }
     ],
-    "genere_le": "2026-10-14"
+    "genere_le": "2026-10-30"
   },
   "statut_google": "OPERATIONAL",
   "audience": {
@@ -212,6 +220,66 @@
     "clicsRecents": 0,
     "fenetreRecenteJours": 28,
     "source": "search-console",
-    "date": "2026-10-29"
+    "date": "2026-10-30"
+  },
+  "avis_detail": {
+    "releve": "2026-10-30",
+    "liste": [
+      {
+        "note": 5,
+        "texte": "Au top du top !!! accueil des plus souriant, services rapide et de qualité je recommande fortement, étant en vacance je ne penser pas trouver un garage qui prenne en charge ma voitures aussi rapidement",
+        "langue": "fr",
+        "date": "2026-07-28",
+        "auteur": "Andrew Jourdan",
+        "auteur_lien": "https://www.google.com/maps/contrib/117084222629573815493/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2pKWVltSldXVUZLT0ZSM1ptWnZWMHhJU0dKSWRXYxAB!2m1!1s0x12addd2f0e951c8f:0x3b4877e7ea7c2fdc"
+      },
+      {
+        "note": 5,
+        "texte": "Sur mon trajet en direction de Toulouse, le voyant orange \"Gonfler les pneus\" s'allume. Je m'arrête à Albi et trouve sur maps ce garage. L'homme qui me répond au téléphone me propose directement de venir. Une fois sur place, il m'accueille avec un grand sourire et très serviable, fait la pression des pneus et enlève le voyant orange sur le tableau de bord sans contrepartie financière et avec beaucoup de gentillesse. Merci !",
+        "langue": "fr",
+        "date": "2026-07-07",
+        "auteur": "Pauline",
+        "auteur_lien": "https://www.google.com/maps/contrib/103468776202212790707/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2tKNFNIQkZOR0pTTTBOMmIxTmpaSEJNUTI1clVuYxAB!2m1!1s0x12addd2f0e951c8f:0x3b4877e7ea7c2fdc"
+      },
+      {
+        "note": 5,
+        "texte": "Moi je suis entièrement satisfaite de leur prestation et leur honnête je recommande a mon entourage qui on été également satisfait Merci messieurs de vos prestations et votre gentillesse",
+        "langue": "fr",
+        "date": "2026-06-29",
+        "auteur": "Malika Terchani",
+        "auteur_lien": "https://www.google.com/maps/contrib/108107637707429190897/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xGclZ6bGlSVFZyVjJ4dVowTmxSelp1TW1kaWJXYxAB!2m1!1s0x12addd2f0e951c8f:0x3b4877e7ea7c2fdc"
+      },
+      {
+        "note": 5,
+        "texte": "Franchement rien à dire, service au top ! Équipe accueillante et professionnelle, montage et équilibrage impeccables. Ma Civic est un TGV maintenant 😄 Je recommande à 100 %.",
+        "langue": "fr",
+        "date": "2026-03-16",
+        "auteur": "Bastien CHIARAMONTI",
+        "auteur_lien": "https://www.google.com/maps/contrib/100715843565522306673/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2taTE9XSjBVRzQxVlUxTWRuQjVTWEl6WWtoUlNYYxAB!2m1!1s0x12addd2f0e951c8f:0x3b4877e7ea7c2fdc"
+      },
+      {
+        "note": 5,
+        "texte": "Garage au top ! Accueil chaleureux, équipe gentille et surtout honnête. Le changement de pneus a été rapide et sans mauvaise surprise. Je recommande sans hésiter",
+        "langue": "fr",
+        "date": "2026-02-02",
+        "auteur": "Sonia “So nsr” N",
+        "auteur_lien": "https://www.google.com/maps/contrib/113364576424981370855/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2pCeFptdzFSMFJmUlVkQ05rWXpOM1p4TkhNMFExRRAB!2m1!1s0x12addd2f0e951c8f:0x3b4877e7ea7c2fdc"
+      }
+    ]
+  },
+  "services": {
+    "releve": "2026-10-30",
+    "options": {},
+    "paiement": [
+      "carte bancaire",
+      "carte de débit",
+      "paiement sans contact"
+    ],
+    "parking": []
   }
 }

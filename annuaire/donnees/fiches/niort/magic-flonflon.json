@@ -26,7 +26,7 @@
     "longitude": -0.46943930000000006
   },
   "note": 4.2,
-  "avis": 585,
+  "avis": 589,
   "horaires": [
     {
       "jour": 0,
@@ -106,8 +106,8 @@
     "etat": "absent",
     "premiere_detection": null,
     "derniere_detection": null,
-    "derniere_verification": "2026-10-14T10:07:28.770Z",
-    "echecs": 66,
+    "derniere_verification": "2026-10-30T11:21:01.088Z",
+    "echecs": 67,
     "url_detectee": null
   },
   "suggestion": {
@@ -125,22 +125,34 @@
   "dates": {
     "collecte": "2026-09-01",
     "publication": "2026-09-01",
-    "maj": "2026-10-19"
+    "maj": "2026-10-30"
   },
   "source": "google-places",
   "redaction": {
     "version": 2,
     "titre": "Magic Flonflon — Café ou bar à Niort",
     "meta_titre": "Magic Flonflon à Niort : horaires, avis, téléphone",
-    "meta_description": "Magic Flonflon, café ou bar à Niort : horaires d'ouverture, note Google 4,2/5 (585 avis), téléphone, adresse et itinéraire.",
-    "chapo": "Magic Flonflon est un café ou bar au 3 Rue de la Chamoiserie, à Niort. Ouvert tous les jours sauf le lundi au relevé du 18 octobre 2026. Téléphone : 05 49 24 24 72. Note Google : 4,2 sur 5 pour 585 avis.",
+    "meta_description": "Magic Flonflon, café ou bar à Niort : horaires d'ouverture, note Google 4,2/5 (589 avis), téléphone, adresse et itinéraire.",
+    "chapo": "Magic Flonflon est un café ou bar au 3 Rue de la Chamoiserie, à Niort. Ouvert tous les jours sauf le lundi au relevé du 30 octobre 2026. Téléphone : 05 49 24 24 72. Note Google : 4,2 sur 5 pour 589 avis.",
     "sections": [
       {
         "id": "presentation",
         "titre": "Magic Flonflon en quelques mots",
         "paragraphes": [
           "Sur Google, l'établissement est classé « Bar », dans notre rubrique Café ou bar.",
-          "D'après le relevé du 18 octobre 2026, l'établissement est ouvert tous les jours sauf le lundi. Le détail jour par jour figure plus bas."
+          "Niveau de prix indiqué sur la fiche Google : €€ (modéré).",
+          "D'après le relevé du 30 octobre 2026, l'établissement est ouvert tous les jours sauf le lundi. Le détail jour par jour figure plus bas."
+        ]
+      },
+      {
+        "id": "prestations",
+        "titre": "Services et équipements de Magic Flonflon",
+        "paragraphes": [
+          "Proposé : sur place, réservation possible, terrasse, bière, vin, cocktails, adapté aux enfants, adapté aux groupes, retransmissions sportives, musique live et toilettes.",
+          "Non proposé selon la fiche Google : à emporter, livraison et retrait en voiture.",
+          "Moyens de paiement déclarés : carte bancaire, carte de débit et paiement sans contact.",
+          "Stationnement : parking payant, stationnement gratuit dans la rue et stationnement payant dans la rue.",
+          "Ces indications sont déclarées par l'établissement sur sa fiche Google (relevé du 30 octobre 2026)."
         ]
       },
       {
@@ -155,25 +167,26 @@
         "id": "contact",
         "titre": "Contacter Magic Flonflon",
         "paragraphes": [
-          "Le contact se fait par téléphone au 05 49 24 24 72, ou directement sur place aux horaires d'ouverture."
+          "Le contact se fait par téléphone au 05 49 24 24 72, ou directement sur place aux horaires d'ouverture.",
+          "La fiche Google indique que la réservation est possible."
         ]
       },
       {
         "id": "avis",
         "titre": "La réputation de Magic Flonflon",
         "paragraphes": [
-          "Note de 4,2 sur 5 pour 585 avis Google au relevé du 18 octobre 2026. Les avis se consultent sur la fiche Google, dont le lien figure sur cette page."
+          "Note de 4,2 sur 5 pour 589 avis Google au relevé du 30 octobre 2026. Les avis les plus parlants sont compilés ci-dessous, avec un lien vers la fiche d'origine."
         ]
       }
     ],
     "faq": [
       {
         "q": "Quels sont les horaires de Magic Flonflon ?",
-        "r": "Au relevé du 18 octobre 2026, Magic Flonflon était ouvert tous les jours sauf le lundi. Dans le détail — lundi : fermé ; mardi : de 16 h à 0 h ; mercredi : de 10 h à 0 h ; jeudi : de 10 h à 0 h ; vendredi : de 10 h à 1 h ; samedi : de 10 h à 1 h ; dimanche : de 10 h à 21 h. Ces horaires peuvent changer : un appel préalable reste conseillé."
+        "r": "Au relevé du 30 octobre 2026, Magic Flonflon était ouvert tous les jours sauf le lundi. Dans le détail — lundi : fermé ; mardi : de 16 h à 0 h ; mercredi : de 10 h à 0 h ; jeudi : de 10 h à 0 h ; vendredi : de 10 h à 1 h ; samedi : de 10 h à 1 h ; dimanche : de 10 h à 21 h. Ces horaires peuvent changer : un appel préalable reste conseillé."
       },
       {
         "q": "Magic Flonflon est-il ouvert le dimanche ?",
-        "r": "Oui : le dimanche, Magic Flonflon est ouvert de 10 h à 21 h (horaires relevés le 18 octobre 2026)."
+        "r": "Oui : le dimanche, Magic Flonflon est ouvert de 10 h à 21 h (horaires relevés le 30 octobre 2026)."
       },
       {
         "q": "Où se trouve Magic Flonflon ?",
@@ -184,11 +197,23 @@
         "r": "Par téléphone au 05 49 24 24 72, ou directement sur place aux heures d'ouverture."
       },
       {
+        "q": "Peut-on réserver chez Magic Flonflon ?",
+        "r": "Oui, la fiche Google de Magic Flonflon indique que la réservation est possible, par téléphone au 05 49 24 24 72."
+      },
+      {
+        "q": "Magic Flonflon propose-t-il la vente à emporter ou la livraison ?",
+        "r": "D'après sa fiche Google (relevé du 30 octobre 2026) — vente à emporter : non ; livraison : non."
+      },
+      {
+        "q": "Quel est le niveau de prix de Magic Flonflon ?",
+        "r": "Google classe Magic Flonflon au niveau de prix €€ (modéré), sur une échelle de € à €€€€ établie à partir des avis clients."
+      },
+      {
         "q": "Magic Flonflon est-il accessible aux personnes à mobilité réduite ?",
         "r": "La fiche Google de l'établissement mentionne : « Entrée accessible en fauteuil roulant ». Cette information est déclarative ; en cas de doute, vérifiez par téléphone."
       }
     ],
-    "genere_le": "2026-10-18"
+    "genere_le": "2026-10-30"
   },
   "statut_google": "OPERATIONAL",
   "audience": {
@@ -199,7 +224,7 @@
     "clicsRecents": 0,
     "fenetreRecenteJours": 28,
     "source": "search-console",
-    "date": "2026-10-29"
+    "date": "2026-10-30"
   },
   "indexation": {
     "etat": "non-indexee",
@@ -209,5 +234,85 @@
     "canonique_google": null,
     "source": "inspection",
     "date": "2026-10-19"
+  },
+  "avis_detail": {
+    "releve": "2026-10-30",
+    "liste": [
+      {
+        "note": 5,
+        "texte": "Nous avons passé un excellent moment. Cocktails très bons, service rapide et personnel très sympathique.\n\nL’espace jeux pour enfants a été très apprécié. Apéro/repas très agréable et bon, avec une très bonne ambiance. Le personnel est vraiment sympathique et avenant.\n\nUn très bel endroit pour une fin de journée, avec un photomaton bien sympa en plus.\n\nNous recommandons !",
+        "langue": "fr",
+        "date": "2026-08-05",
+        "auteur": "Renato Carvalho",
+        "auteur_lien": "https://www.google.com/maps/contrib/111149015009728274857/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xsV2FFOHdkbDlIV2pCcVZsUnlkakpmZDI5T1FWRRAB!2m1!1s0x480731cfad8850f3:0x71c08afa1ef7aee0"
+      },
+      {
+        "note": 3,
+        "texte": "Dommage très bon endroit avec bonne ambiance  !\nMais je tiens à publier cet avis pour un barman dont je ne connais pas son p’tit prénom mais les cheveux frisé … aucune gentillesse et qui nous montre clairement qu’on le gonfle … aucune professionnalisme , ma petite sœur s’est senti comme quelqu’un de nul tellement il nous a fait sentir qu’on était de trop …\nJe reviendrais pas de si tôt",
+        "langue": "fr",
+        "date": "2026-07-31",
+        "auteur": "Melissa Arnaud",
+        "auteur_lien": "https://www.google.com/maps/contrib/103778150683597733555/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2paUmJrZG9Ua0kxTVVWaVRtbFpZMmxuVFRWWVVtYxAB!2m1!1s0x480731cfad8850f3:0x71c08afa1ef7aee0"
+      },
+      {
+        "note": 1,
+        "texte": "Refuser à l’entrée car j’ai un chien avec moi, que la semaine passer un était à l’intérieur et que cela ne gênait personne !\nJe propose de porter mon chien pour au moins aller me servir, refus de la part du vigile !\nRefus de servir le client, dernière fois pour moi.",
+        "langue": "fr",
+        "date": "2026-07-14",
+        "auteur": "Clara Cailbault",
+        "auteur_lien": "https://www.google.com/maps/contrib/111828006649836736318/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2pFd2NESnpTM2xhZDJsNFpGbHNYM2hRV2tWU1VFRRAB!2m1!1s0x480731cfad8850f3:0x71c08afa1ef7aee0"
+      },
+      {
+        "note": 5,
+        "texte": "Très belle découverte, j’ai voulu plusieurs fois découvrir ce lieu le soir mais à chaque victime de son succès il y avait trop de monde, bref j’y suis venu le midi et c’est l’idéal.\nLe cadre est chaleureux et atypique, les plats sont bons, les prix sont corrects et le service est rapide.\nQue ce soit pour manger ou simplement boire un coup entre amis ou en famille, je recommande ce lieu.",
+        "langue": "fr",
+        "date": "2025-11-15",
+        "auteur": "P B",
+        "auteur_lien": "https://www.google.com/maps/contrib/117471240751855096430/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25kMU9VdDZRV0pSVGtwdWNXZHVlVjlyVVdSSkxXYxAB!2m1!1s0x480731cfad8850f3:0x71c08afa1ef7aee0"
+      },
+      {
+        "note": 5,
+        "texte": "Une chouette ambiance et un cadre très agréable. La cuisine est simple mais efficace. Petit bémol sur les boissons à peine fraîche avec cette chaleur et la planche mixte très peu garnie pour 16€.\nAgréable moment",
+        "langue": "fr",
+        "date": "2025-07-12",
+        "auteur": "Aurélie",
+        "auteur_lien": "https://www.google.com/maps/contrib/107120660348812953159/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT21sNU9GaEdhbWROUmkxMVRXTkxRMGR1YVVrMFowRRAB!2m1!1s0x480731cfad8850f3:0x71c08afa1ef7aee0"
+      }
+    ]
+  },
+  "services": {
+    "releve": "2026-10-30",
+    "prix": "PRICE_LEVEL_MODERATE",
+    "options": {
+      "dineIn": true,
+      "takeout": false,
+      "delivery": false,
+      "curbsidePickup": false,
+      "reservable": true,
+      "outdoorSeating": true,
+      "servesBeer": true,
+      "servesWine": true,
+      "servesCocktails": true,
+      "goodForChildren": true,
+      "goodForGroups": true,
+      "goodForWatchingSports": true,
+      "liveMusic": true,
+      "restroom": true
+    },
+    "paiement": [
+      "carte bancaire",
+      "carte de débit",
+      "paiement sans contact"
+    ],
+    "parking": [
+      "parking payant",
+      "stationnement gratuit dans la rue",
+      "stationnement payant dans la rue"
+    ]
   }
 }

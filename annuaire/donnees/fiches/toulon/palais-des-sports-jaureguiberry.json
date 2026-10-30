@@ -29,7 +29,7 @@
     "longitude": 5.9142760999999995
   },
   "note": 4.3,
-  "avis": 953,
+  "avis": 955,
   "horaires": [
     {
       "jour": 0,
@@ -108,8 +108,8 @@
     "etat": "absent",
     "premiere_detection": null,
     "derniere_detection": null,
-    "derniere_verification": "2026-10-14T10:07:28.770Z",
-    "echecs": 13,
+    "derniere_verification": "2026-10-30T11:21:01.088Z",
+    "echecs": 14,
     "url_detectee": null
   },
   "suggestion": {
@@ -122,22 +122,30 @@
   "dates": {
     "collecte": "2026-09-28",
     "publication": "2026-09-28",
-    "maj": "2026-10-14"
+    "maj": "2026-10-30"
   },
   "source": "google-places",
   "redaction": {
     "version": 2,
     "titre": "Palais des sports Jauréguiberry — Loisirs, sport et culture à Toulon",
     "meta_titre": "Palais des sports Jauréguiberry à Toulon : horaires, avis",
-    "meta_description": "Palais des sports Jauréguiberry, loisirs, sport et culture à Toulon : horaires d'ouverture, note Google 4,3/5 (953 avis), téléphone, adresse et itinéraire.",
-    "chapo": "Cette fiche présente Palais des sports Jauréguiberry, un loisirs, sport et culture au 420 Avenue Amiral Aube, à Toulon. Ouvert tous les jours sauf le dimanche au relevé du 14 octobre 2026. Téléphone : 04 94 36 47 00. Note Google : 4,3 sur 5 pour 953 avis.",
+    "meta_description": "Palais des sports Jauréguiberry, loisirs, sport et culture à Toulon : horaires d'ouverture, note Google 4,3/5 (955 avis), téléphone, adresse et itinéraire.",
+    "chapo": "Cette fiche présente Palais des sports Jauréguiberry, un loisirs, sport et culture au 420 Avenue Amiral Aube, à Toulon. Ouvert tous les jours sauf le dimanche au relevé du 30 octobre 2026. Téléphone : 04 94 36 47 00. Note Google : 4,3 sur 5 pour 955 avis.",
     "sections": [
       {
         "id": "presentation",
         "titre": "Palais des sports Jauréguiberry en quelques mots",
         "paragraphes": [
           "Sur Google, l'établissement est classé « Complexe sportif », dans notre rubrique Loisirs, sport et culture.",
-          "D'après le relevé du 14 octobre 2026, l'établissement est ouvert tous les jours sauf le dimanche. Le détail jour par jour figure plus bas."
+          "D'après le relevé du 30 octobre 2026, l'établissement est ouvert tous les jours sauf le dimanche. Le détail jour par jour figure plus bas."
+        ]
+      },
+      {
+        "id": "prestations",
+        "titre": "Services et équipements de Palais des sports Jauréguiberry",
+        "paragraphes": [
+          "Moyens de paiement déclarés : carte bancaire et carte de débit.",
+          "Ces indications sont déclarées par l'établissement sur sa fiche Google (relevé du 30 octobre 2026)."
         ]
       },
       {
@@ -159,18 +167,18 @@
         "id": "avis",
         "titre": "La réputation de Palais des sports Jauréguiberry",
         "paragraphes": [
-          "Note de 4,3 sur 5 pour 953 avis Google au relevé du 14 octobre 2026. Les avis se consultent sur la fiche Google, dont le lien figure sur cette page."
+          "Note de 4,3 sur 5 pour 955 avis Google au relevé du 30 octobre 2026. Les avis les plus parlants sont compilés ci-dessous, avec un lien vers la fiche d'origine."
         ]
       }
     ],
     "faq": [
       {
         "q": "Quels sont les horaires de Palais des sports Jauréguiberry ?",
-        "r": "Au relevé du 14 octobre 2026, Palais des sports Jauréguiberry était ouvert tous les jours sauf le dimanche. Dans le détail — lundi : de 9 h à 22 h ; mardi : de 8 h à 22 h ; mercredi : de 8 h à 22 h ; jeudi : de 8 h à 22 h ; vendredi : de 8 h à 22 h ; samedi : de 8 h à 18 h ; dimanche : fermé. Ces horaires peuvent changer : un appel préalable reste conseillé."
+        "r": "Au relevé du 30 octobre 2026, Palais des sports Jauréguiberry était ouvert tous les jours sauf le dimanche. Dans le détail — lundi : de 9 h à 22 h ; mardi : de 8 h à 22 h ; mercredi : de 8 h à 22 h ; jeudi : de 8 h à 22 h ; vendredi : de 8 h à 22 h ; samedi : de 8 h à 18 h ; dimanche : fermé. Ces horaires peuvent changer : un appel préalable reste conseillé."
       },
       {
         "q": "Palais des sports Jauréguiberry est-il ouvert le dimanche ?",
-        "r": "Non : d'après les horaires relevés le 14 octobre 2026, Palais des sports Jauréguiberry est fermé le dimanche."
+        "r": "Non : d'après les horaires relevés le 30 octobre 2026, Palais des sports Jauréguiberry est fermé le dimanche."
       },
       {
         "q": "Où se trouve Palais des sports Jauréguiberry ?",
@@ -185,7 +193,7 @@
         "r": "La fiche Google de l'établissement mentionne : « Entrée accessible en fauteuil roulant ». Cette information est déclarative ; en cas de doute, vérifiez par téléphone."
       }
     ],
-    "genere_le": "2026-10-14"
+    "genere_le": "2026-10-30"
   },
   "statut_google": "OPERATIONAL",
   "audience": {
@@ -196,6 +204,65 @@
     "clicsRecents": 0,
     "fenetreRecenteJours": 28,
     "source": "search-console",
-    "date": "2026-10-29"
+    "date": "2026-10-30"
+  },
+  "avis_detail": {
+    "releve": "2026-10-30",
+    "liste": [
+      {
+        "note": 3,
+        "texte": "Il n'y a pas assez de place dans le parking, lors de grand événement.\nIl faut aller se garer du côté du Parking Pont du Las et traverser le pont à pieds, cela prend 3 min.",
+        "langue": "fr",
+        "date": "2026-04-23",
+        "auteur": "C.",
+        "auteur_lien": "https://www.google.com/maps/contrib/102465040702120632285/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2pKRE1sSlhUMjVmYWpOcGVHVlFOM1E1WlVWTlpXYxAB!2m1!1s0x12c91b3ba0bc611d:0x10e54008a97346a1"
+      },
+      {
+        "note": 5,
+        "texte": "Un lieux moderne et convivial, avec une ambiance sportive de feu créé par l'animateur et les supporters... le parking est un peu juste mais ne pas hésiter à s'y rendre en bus car très bien desservis avec des horaires adaptés au matches.",
+        "langue": "fr",
+        "date": "2026-01-06",
+        "auteur": "Jean Marc Bonnet",
+        "auteur_lien": "https://www.google.com/maps/contrib/115015979818057497093/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT214YVozVkpZVnBpUXpVMFpFeHFaV294YVZkMVQyYxAB!2m1!1s0x12c91b3ba0bc611d:0x10e54008a97346a1"
+      },
+      {
+        "note": 5,
+        "texte": "Visite du lieu lors d'un speed business organisé par la CCI du Var à travers son réseau d'entrepreneurs Var Accès. Vu d'en haut les salles sportives donnent envie de participer à l'émulation du sport d'équipe.",
+        "langue": "fr",
+        "date": "2025-10-19",
+        "auteur": "Nadège Heinrich",
+        "auteur_lien": "https://www.google.com/maps/contrib/114787055015279707805/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2pjNVYxOWFRVkF6WjJWSGRqaGhielZoV0dJMU5XYxAB!2m1!1s0x12c91b3ba0bc611d:0x10e54008a97346a1"
+      },
+      {
+        "note": 5,
+        "texte": "Ambiance de feu le 16 avril 2024 pour HTV - Tours, victoire de Hyères-Toulon, montée en Pro B et titre de champion de National 1.\n\nMagnifique palais des sports !\n\nDimensions du bâtiment : 160 m de long, 90 m de large, 9 à 18 m de hauteur, 10 000 m2 d’emprise au sol.\n\n13 000 m2 de surface utile dont une grande salle omnisports de 4 000 m2 pouvant accueillir des compétitions de toutes disciplines de niveau national ou européen (basket, handball, volley-ball, tennis, badminton, gymnastique, arts martiaux, boxe, trampoline, escalade, patinage, pétanque, etc.) avec une aire d'évolution de 85 m sur 55 m et des gradins de 4 356 places modulables (3 000 places fixes). De forme elliptique, cette salle principale garantit au public une proximité avec les sportifs et a été conçue pour qu’aucun obstacle visuel ne vienne gêner le regard des spectateurs.\n\nAutres salles sportives : gymnase d'entraînement (1 270 m2 et mur d’escalade) permettant toutes les disciplines scolaires ainsi que des compétitions jusqu’au niveau national avec une tribune de 250 places ; salle d’agrès gymnastique mixte (460 m2) ; salle pour les arts martiaux (230 m2) ; salle de pans pour escalade (100 m2 et 9 m de hauteur) ; salle de musculation et de cardio-training (250 m2) ; salle de fitness (200 m2) ; salles équipées des matériels sportifs correspondant à leur utilisation.\n\nAnnexes sportives : 12 vestiaires/sanitaires (780 m2 au total) pour les joueurs, 4 vestiaires pour les arbitres ; une infirmerie ; un espace médical antidopage.\n\nEspaces réservés au public : 2 000 m2 comprenant le hall d’accueil, deux buvettes, les coursives, les sanitaires et une infirmerie publique.\n\nEspace médias et salon de réception : salons, régie, salle de presse et réunions, vestiaires, dépôt, sanitaires (780 m2 au total).",
+        "langue": "fr",
+        "date": "2024-04-17",
+        "auteur": "Erwan",
+        "auteur_lien": "https://www.google.com/maps/contrib/107232905408493044332/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUNqaVBhX3hBRRAB!2m1!1s0x12c91b3ba0bc611d:0x10e54008a97346a1"
+      },
+      {
+        "note": 3,
+        "texte": "Je suis partagée.... Le lieu est très bien mais pas assez de places de parking au regard de sa contenance, il ne faut pas arriver au dernier moment ! Longue attente pour les vérifications de sécurité, pourtant sommaire, par les vigiles avant d'entrer, suivie d'une autre attente pour la vérification des billets. Par ailleurs, nous nous sommes vus interdire d'entrer avec le moindre aliment, au profit des ventes se faisant sur place...",
+        "langue": "fr",
+        "date": "2024-03-28",
+        "auteur": "Michele B",
+        "auteur_lien": "https://www.google.com/maps/contrib/111411308200099383246/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUNEam9QNXBnRRAB!2m1!1s0x12c91b3ba0bc611d:0x10e54008a97346a1"
+      }
+    ]
+  },
+  "services": {
+    "releve": "2026-10-30",
+    "options": {},
+    "paiement": [
+      "carte bancaire",
+      "carte de débit"
+    ],
+    "parking": []
   }
 }

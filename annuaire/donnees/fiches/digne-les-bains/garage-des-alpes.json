@@ -126,8 +126,8 @@
     "etat": "absent",
     "premiere_detection": null,
     "derniere_detection": null,
-    "derniere_verification": "2026-10-18T09:54:50.642Z",
-    "echecs": 1,
+    "derniere_verification": "2026-10-30T11:21:01.088Z",
+    "echecs": 2,
     "url_detectee": null
   },
   "suggestion": {
@@ -140,7 +140,7 @@
   "dates": {
     "collecte": "2026-10-18",
     "publication": "2026-10-18",
-    "maj": "2026-10-18"
+    "maj": "2026-10-30"
   },
   "source": "google-places",
   "redaction": {
@@ -148,14 +148,22 @@
     "titre": "Garage Des Alpes — Garage et automobile à Digne-les-Bains",
     "meta_titre": "Garage Des Alpes à Digne-les-Bains : horaires, avis",
     "meta_description": "Garage Des Alpes, garage et automobile à Digne-les-Bains : horaires d'ouverture, note Google 4,8/5 (102 avis), téléphone, adresse et itinéraire.",
-    "chapo": "Garage Des Alpes exerce l'activité de garage et automobile au 17 Avenue des Charrois, à Digne-les-Bains. Ouvert tous les jours sauf le dimanche au relevé du 18 octobre 2026. Téléphone : 04 87 33 35 73. Note Google : 4,8 sur 5 pour 102 avis.",
+    "chapo": "Garage Des Alpes exerce l'activité de garage et automobile au 17 Avenue des Charrois, à Digne-les-Bains. Ouvert tous les jours sauf le dimanche au relevé du 30 octobre 2026. Téléphone : 04 87 33 35 73. Note Google : 4,8 sur 5 pour 102 avis.",
     "sections": [
       {
         "id": "presentation",
         "titre": "Garage Des Alpes en quelques mots",
         "paragraphes": [
           "Sur Google, l'établissement est classé « Garage automobile », dans notre rubrique Garage et automobile.",
-          "D'après le relevé du 18 octobre 2026, l'établissement est ouvert tous les jours sauf le dimanche. Le détail jour par jour figure plus bas."
+          "D'après le relevé du 30 octobre 2026, l'établissement est ouvert tous les jours sauf le dimanche. Le détail jour par jour figure plus bas."
+        ]
+      },
+      {
+        "id": "prestations",
+        "titre": "Services et équipements de Garage Des Alpes",
+        "paragraphes": [
+          "Moyens de paiement déclarés : carte bancaire et carte de débit.",
+          "Ces indications sont déclarées par l'établissement sur sa fiche Google (relevé du 30 octobre 2026)."
         ]
       },
       {
@@ -177,18 +185,18 @@
         "id": "avis",
         "titre": "La réputation de Garage Des Alpes",
         "paragraphes": [
-          "Note de 4,8 sur 5 pour 102 avis Google au relevé du 18 octobre 2026. Les avis se consultent sur la fiche Google, dont le lien figure sur cette page."
+          "Note de 4,8 sur 5 pour 102 avis Google au relevé du 30 octobre 2026. Les avis les plus parlants sont compilés ci-dessous, avec un lien vers la fiche d'origine."
         ]
       }
     ],
     "faq": [
       {
         "q": "Quels sont les horaires de Garage Des Alpes ?",
-        "r": "Au relevé du 18 octobre 2026, Garage Des Alpes était ouvert tous les jours sauf le dimanche. Dans le détail — lundi : de 8 h à 12 h et de 13 h 30 à 17 h 30 ; mardi : de 8 h à 12 h et de 13 h 30 à 17 h 30 ; mercredi : de 8 h à 12 h et de 13 h 30 à 17 h 30 ; jeudi : de 8 h à 12 h et de 13 h 30 à 17 h 30 ; vendredi : de 8 h à 12 h et de 13 h 30 à 17 h ; samedi : de 8 h à 12 h ; dimanche : fermé. Ces horaires peuvent changer : un appel préalable reste conseillé."
+        "r": "Au relevé du 30 octobre 2026, Garage Des Alpes était ouvert tous les jours sauf le dimanche. Dans le détail — lundi : de 8 h à 12 h et de 13 h 30 à 17 h 30 ; mardi : de 8 h à 12 h et de 13 h 30 à 17 h 30 ; mercredi : de 8 h à 12 h et de 13 h 30 à 17 h 30 ; jeudi : de 8 h à 12 h et de 13 h 30 à 17 h 30 ; vendredi : de 8 h à 12 h et de 13 h 30 à 17 h ; samedi : de 8 h à 12 h ; dimanche : fermé. Ces horaires peuvent changer : un appel préalable reste conseillé."
       },
       {
         "q": "Garage Des Alpes est-il ouvert le dimanche ?",
-        "r": "Non : d'après les horaires relevés le 18 octobre 2026, Garage Des Alpes est fermé le dimanche."
+        "r": "Non : d'après les horaires relevés le 30 octobre 2026, Garage Des Alpes est fermé le dimanche."
       },
       {
         "q": "Où se trouve Garage Des Alpes ?",
@@ -203,17 +211,76 @@
         "r": "La fiche Google de l'établissement mentionne : « Entrée accessible en fauteuil roulant ». Cette information est déclarative ; en cas de doute, vérifiez par téléphone."
       }
     ],
-    "genere_le": "2026-10-18"
+    "genere_le": "2026-10-30"
   },
   "statut_google": "OPERATIONAL",
   "audience": {
     "clics": 0,
-    "impressions": 68,
+    "impressions": 69,
     "position": 8.9,
     "fenetreJours": 90,
     "clicsRecents": 0,
     "fenetreRecenteJours": 28,
     "source": "search-console",
-    "date": "2026-10-29"
+    "date": "2026-10-30"
+  },
+  "avis_detail": {
+    "releve": "2026-10-30",
+    "liste": [
+      {
+        "note": 5,
+        "texte": "Je recommande vivement ce garage!\nLa diagnostic a été rapide et juste . La prise de rendez-vous a été simple , avec une équipe très réactive. Les conseils donnés étaient clairs et professionnels, on sent qu’ils maîtrisent vraiment leur métier.\n\nLa réparation de ma voiture a été faite rapidement et efficacement, . Mention spéciale pour leur honnêteté sur les prix, ce qui est vraiment appréciable de nos jours.\n\nUn service de qualité du début à la fin, je n’hésiterai pas à revenir et à recommander autour de moi !",
+        "langue": "fr",
+        "date": "2026-05-11",
+        "auteur": "Myriam Bouslah",
+        "auteur_lien": "https://www.google.com/maps/contrib/114845274601793277239/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25OeGN6UklRbXRhYUdKTk4yZ3paREkyV1VRd05sRRAB!2m1!1s0x12cb9ab68c296b8d:0xb953a9adf8c8624d"
+      },
+      {
+        "note": 5,
+        "texte": "Problème avec l'adblue sur mon berlingo, étant en vacances en août  compliqué de trouver un garage. Le garage Des Alpes sont les seuls à m'avoir répondu. J'ai eu un rendez-vous rapidement pour un diagnostic dans un premier temps. Ils m'ont réinitialiser la voiture pour que je puisse rentrer en Bretagne. Car rupture de pièce adblue.\nJe remercie toute l'équipe du garage pour son professionnalisme et sa gentillesse.\nUn grand merci😉",
+        "langue": "fr",
+        "date": "2025-08-22",
+        "auteur": "morgane le coz",
+        "auteur_lien": "https://www.google.com/maps/contrib/116286622521423566055/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2t0S09FaDZXWHB0V1hCeFVuazBaREpqTWpsM2FYYxAB!2m1!1s0x12cb9ab68c296b8d:0xb953a9adf8c8624d"
+      },
+      {
+        "note": 5,
+        "texte": "Obligé de s’arrêter pour un défaut moteur sur la route de nos vacances ils ont accepté de prendre la voiture tout de suite… 1h après nous avons pu repartir rassuré. Merci beaucoup. Accueil chaleureux et à l’écoute !",
+        "langue": "fr",
+        "date": "2025-07-23",
+        "auteur": "Nico ULMER",
+        "auteur_lien": "https://www.google.com/maps/contrib/112380871537428531953/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT21od01sbE5ValJMUkdoV1lXdDFXbFo0WjFSUFNGRRAB!2m1!1s0x12cb9ab68c296b8d:0xb953a9adf8c8624d"
+      },
+      {
+        "note": 5,
+        "texte": "Nous sommes venus dans ce garage car nous avions un problème de bougies avec notre van pendant nos vacances et ils nous ont pris le plus tôt possible et on vraiment été très professionnel et honnête avec notre problème, le propriétaire nous a même expliqué lui même le problème et comment ils avaient fait de leur mieux pour le résoudre.\nLe prix était très correct et le service a l’heure et excellent. Je recommande sans hésitation. Merci encore pour avoir réparé notre van!👍",
+        "langue": "fr",
+        "date": "2025-05-24",
+        "auteur": "Faustine Earth's Coolest Villages",
+        "auteur_lien": "https://www.google.com/maps/contrib/111166408961232131660/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VObjdvSWY0dHVfWXlBRRAB!2m1!1s0x12cb9ab68c296b8d:0xb953a9adf8c8624d"
+      },
+      {
+        "note": 5,
+        "texte": "Après diverse demande auprès d'autres garages, Le garage des Alpes sont les seuls à m'avoir répondu, et cela, très rapidement, j'ai décidé de suivre mon instinct et j'ai eu raison ! Les prix sont corrects et pas abusifs comme certains, les employés accueillants et très gentils, de bon conseil également. Je recommande vraiment, allez-y en toute confiance.",
+        "langue": "fr",
+        "date": "2025-03-03",
+        "auteur": "Emilie",
+        "auteur_lien": "https://www.google.com/maps/contrib/105571864040294580309/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnTUNRMHFiSWhRRRAB!2m1!1s0x12cb9ab68c296b8d:0xb953a9adf8c8624d"
+      }
+    ]
+  },
+  "services": {
+    "releve": "2026-10-30",
+    "options": {},
+    "paiement": [
+      "carte bancaire",
+      "carte de débit"
+    ],
+    "parking": []
   }
 }

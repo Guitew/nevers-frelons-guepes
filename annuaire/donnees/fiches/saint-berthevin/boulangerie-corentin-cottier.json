@@ -1,0 +1,296 @@
+{
+  "id": "ChIJwTy7A08GOwcRbYEQpwX5_D8",
+  "slug": "boulangerie-corentin-cottier",
+  "nom": "Boulangerie Corentin Cottier",
+  "categorie": "boulangeries-patisseries",
+  "categorie_gmb": "Boulangerie",
+  "type_principal": "bakery",
+  "types": [
+    "bakery",
+    "pastry_shop",
+    "dessert_shop",
+    "sandwich_shop",
+    "confectionery",
+    "food_store",
+    "restaurant",
+    "food",
+    "store",
+    "point_of_interest",
+    "establishment"
+  ],
+  "ville": "Saint-Berthevin",
+  "ville_slug": "saint-berthevin",
+  "adresse": {
+    "rue": "2 Rue de la Croix des Landes",
+    "code_postal": "53940",
+    "departement": "53",
+    "region": "Pays de la Loire",
+    "pays": "France",
+    "complete": "2 Rue de la Croix des Landes, 53940 Saint-Berthevin"
+  },
+  "telephone": "02 43 02 86 89",
+  "geo": {
+    "latitude": 48.0577164,
+    "longitude": -0.8058398999999999
+  },
+  "note": 4.1,
+  "avis": 144,
+  "horaires": [
+    {
+      "jour": 0,
+      "ferme": false,
+      "creneaux": [
+        [
+          "05:30",
+          "19:30"
+        ]
+      ]
+    },
+    {
+      "jour": 1,
+      "ferme": false,
+      "creneaux": [
+        [
+          "05:30",
+          "19:30"
+        ]
+      ]
+    },
+    {
+      "jour": 2,
+      "ferme": false,
+      "creneaux": [
+        [
+          "05:30",
+          "19:30"
+        ]
+      ]
+    },
+    {
+      "jour": 3,
+      "ferme": false,
+      "creneaux": [
+        [
+          "05:30",
+          "19:30"
+        ]
+      ]
+    },
+    {
+      "jour": 4,
+      "ferme": false,
+      "creneaux": [
+        [
+          "05:30",
+          "19:30"
+        ]
+      ]
+    },
+    {
+      "jour": 5,
+      "ferme": false,
+      "creneaux": [
+        [
+          "05:30",
+          "19:30"
+        ]
+      ]
+    },
+    {
+      "jour": 6,
+      "ferme": true,
+      "creneaux": []
+    }
+  ],
+  "attributs": [
+    "Entrée accessible en fauteuil roulant",
+    "Parking accessible en fauteuil roulant"
+  ],
+  "lien_google": "https://maps.google.com/?cid=4610833921193574765&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
+  "site_web_gmb": null,
+  "statut": "publiee",
+  "backlink": {
+    "etat": "absent",
+    "premiere_detection": null,
+    "derniere_detection": null,
+    "derniere_verification": "2026-10-30T11:21:01.088Z",
+    "echecs": 1,
+    "url_detectee": null
+  },
+  "suggestion": {
+    "etat": "en-attente",
+    "date_soumission": null,
+    "tentatives": 0,
+    "date_email": "2026-10-30"
+  },
+  "retrait": null,
+  "dates": {
+    "collecte": "2026-10-30",
+    "publication": "2026-10-30",
+    "maj": "2026-10-30"
+  },
+  "source": "google-places",
+  "avis_detail": {
+    "releve": "2026-10-30",
+    "liste": [
+      {
+        "note": 3,
+        "texte": "Je suis passé ce matin acheter des viennoiseries Pour mes collègues, c’était super bon le service était de bonne qualité et agréable. Dommage qu’une vendeuse jette des produits Par terre, vers son collègue….. sinon rien à dire super boulangerie .",
+        "langue": "fr",
+        "date": "2026-07-02",
+        "auteur": "YANIS GARRY",
+        "auteur_lien": "https://www.google.com/maps/contrib/103960144977188266763/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2pBd2RqaHdaVXBTVlZOb2NIUkdaa0YwVFRGVU0zYxAB!2m1!1s0x73b064f03bb3cc1:0x3ffcf905a710816d"
+      },
+      {
+        "note": 1,
+        "texte": "je suis passé hier midi pour prendre une formule déjeuner la vendeuse qui m'a pris en charge a été très désagréable elle n'a pas du tout les qualités et l'expérience d'une vendeuse, limite senti agressé durant mon choix. hormis cela le sandwich était très bon,\nmais si vous êtes amené à être servi par la vendeuse au cheveux cours avec les lunettes bon courage..",
+        "langue": "fr",
+        "date": "2026-06-27",
+        "auteur": "Mahé Grasset",
+        "auteur_lien": "https://www.google.com/maps/contrib/112166250518422140184/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25wYVIyazFaRk5EU0dOR2RsQnllbmM1Y0RjeE1uYxAB!2m1!1s0x73b064f03bb3cc1:0x3ffcf905a710816d"
+      },
+      {
+        "note": 1,
+        "texte": "Pitoyable plus jamais fuyez cette endroit pas souriant pas serviable pas de Clim ni de ventilateur dans la salle de restauration à côté alors qu’il fait un peu près 40 degrés. Qualité déplorable. Pain on dirait que c’est de la veille.",
+        "langue": "fr",
+        "date": "2026-06-26",
+        "auteur": "Ruby Davidson",
+        "auteur_lien": "https://www.google.com/maps/contrib/109312522274803660030/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2pkMGFYTnVVbEJhZVVOcFFsWnpkMFIzV1c4d2NsRRAB!2m1!1s0x73b064f03bb3cc1:0x3ffcf905a710816d"
+      },
+      {
+        "note": 5,
+        "texte": "Les sandwichs sont excellents, tout comme les pâtisseries. La boulangerie propose des produits de très bonne qualité. Je recommande particulièrement le sandwich chèvre-miel, qui est délicieux, ainsi que l'ensemble des pâtisseries. Une adresse que je recommande vivement !",
+        "langue": "fr",
+        "date": "2026-06-18",
+        "auteur": "Melanie Cochain",
+        "auteur_lien": "https://www.google.com/maps/contrib/104227304285993735657/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2tVMVJIcHNOMVpwTW1oUVoyWkVSUzE0WDFWamQyYxAB!2m1!1s0x73b064f03bb3cc1:0x3ffcf905a710816d"
+      },
+      {
+        "note": 2,
+        "texte": "Leurs croissants aux amandes sont plutôt bons mais ils ont les pires chouquettes que j'ai jamais acheté - j'aurais dû annuler ma commande quand la personne les a servies avec ses mains. Elles étaient tellement sèches que je suis revenue demander si elles étaient de la veille (on m'a répondu que non).\nC'est bien la première fois de ma vie que j'apporte un sachet de chouquettes à un groupe de potes et qu'il finit à la poubelle!!",
+        "langue": "fr",
+        "date": "2026-05-26",
+        "auteur": "Vee Eff",
+        "auteur_lien": "https://www.google.com/maps/contrib/100193159854143894493/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25KRllrWXlZemRmYVZkWFdscG1UV05mV0ZBMllVRRAB!2m1!1s0x73b064f03bb3cc1:0x3ffcf905a710816d"
+      }
+    ]
+  },
+  "services": {
+    "releve": "2026-10-30",
+    "prix": "PRICE_LEVEL_INEXPENSIVE",
+    "options": {
+      "dineIn": true,
+      "takeout": true,
+      "delivery": false,
+      "servesBreakfast": true,
+      "servesCoffee": true
+    },
+    "paiement": [
+      "carte bancaire",
+      "carte de débit",
+      "paiement sans contact"
+    ],
+    "parking": [
+      "parking gratuit",
+      "stationnement gratuit dans la rue"
+    ]
+  },
+  "redaction": {
+    "version": 2,
+    "titre": "Boulangerie Corentin Cottier — Boulangerie-pâtisserie à Saint-Berthevin",
+    "meta_titre": "Boulangerie Corentin Cottier : horaires, avis, téléphone",
+    "meta_description": "Boulangerie Corentin Cottier, boulangerie-pâtisserie à Saint-Berthevin : horaires d'ouverture, téléphone, adresse et itinéraire.",
+    "chapo": "Boulangerie Corentin Cottier, boulangerie-pâtisserie au 2 Rue de la Croix des Landes, à Saint-Berthevin. Ouvert tous les jours sauf le dimanche au relevé du 30 octobre 2026. Téléphone : 02 43 02 86 89. Note Google : 4,1 sur 5 pour 144 avis.",
+    "sections": [
+      {
+        "id": "presentation",
+        "titre": "Boulangerie Corentin Cottier en quelques mots",
+        "paragraphes": [
+          "Sur Google, l'établissement est classé « Boulangerie », dans notre rubrique Boulangerie-pâtisserie.",
+          "Niveau de prix indiqué sur la fiche Google : € (bon marché).",
+          "D'après le relevé du 30 octobre 2026, l'établissement est ouvert tous les jours sauf le dimanche. Le détail jour par jour figure plus bas."
+        ]
+      },
+      {
+        "id": "prestations",
+        "titre": "Services et équipements de Boulangerie Corentin Cottier",
+        "paragraphes": [
+          "Proposé : sur place, à emporter, petit-déjeuner et café.",
+          "Non proposé selon la fiche Google : livraison.",
+          "Moyens de paiement déclarés : carte bancaire, carte de débit et paiement sans contact.",
+          "Stationnement : parking gratuit et stationnement gratuit dans la rue.",
+          "Ces indications sont déclarées par l'établissement sur sa fiche Google (relevé du 30 octobre 2026)."
+        ]
+      },
+      {
+        "id": "acces",
+        "titre": "Adresse et accès",
+        "paragraphes": [
+          "L'établissement est situé au 2 Rue de la Croix des Landes, 53940 Saint-Berthevin.",
+          "Coordonnées GPS : 48.05772, -0.80584. Le bouton Itinéraire de cette page ouvre la navigation."
+        ]
+      },
+      {
+        "id": "contact",
+        "titre": "Contacter Boulangerie Corentin Cottier",
+        "paragraphes": [
+          "Le contact se fait par téléphone au 02 43 02 86 89, ou directement sur place aux horaires d'ouverture."
+        ]
+      },
+      {
+        "id": "avis",
+        "titre": "La réputation de Boulangerie Corentin Cottier",
+        "paragraphes": [
+          "Note de 4,1 sur 5 pour 144 avis Google au relevé du 30 octobre 2026. Les avis les plus parlants sont compilés ci-dessous, avec un lien vers la fiche d'origine."
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "q": "Quels sont les horaires de Boulangerie Corentin Cottier ?",
+        "r": "Au relevé du 30 octobre 2026, Boulangerie Corentin Cottier était ouvert tous les jours sauf le dimanche. Dans le détail — lundi : de 5 h 30 à 19 h 30 ; mardi : de 5 h 30 à 19 h 30 ; mercredi : de 5 h 30 à 19 h 30 ; jeudi : de 5 h 30 à 19 h 30 ; vendredi : de 5 h 30 à 19 h 30 ; samedi : de 5 h 30 à 19 h 30 ; dimanche : fermé. Ces horaires peuvent changer : un appel préalable reste conseillé."
+      },
+      {
+        "q": "Boulangerie Corentin Cottier est-il ouvert le dimanche ?",
+        "r": "Non : d'après les horaires relevés le 30 octobre 2026, Boulangerie Corentin Cottier est fermé le dimanche."
+      },
+      {
+        "q": "Où se trouve Boulangerie Corentin Cottier ?",
+        "r": "Boulangerie Corentin Cottier se trouve 2 Rue de la Croix des Landes, 53940 Saint-Berthevin. Un lien d'itinéraire est disponible sur cette page."
+      },
+      {
+        "q": "Comment contacter Boulangerie Corentin Cottier ?",
+        "r": "Par téléphone au 02 43 02 86 89, ou directement sur place aux heures d'ouverture."
+      },
+      {
+        "q": "Boulangerie Corentin Cottier propose-t-il la vente à emporter ou la livraison ?",
+        "r": "D'après sa fiche Google (relevé du 30 octobre 2026) — vente à emporter : oui ; livraison : non."
+      },
+      {
+        "q": "Quel est le niveau de prix de Boulangerie Corentin Cottier ?",
+        "r": "Google classe Boulangerie Corentin Cottier au niveau de prix € (bon marché), sur une échelle de € à €€€€ établie à partir des avis clients."
+      },
+      {
+        "q": "Boulangerie Corentin Cottier est-il accessible aux personnes à mobilité réduite ?",
+        "r": "La fiche Google de l'établissement mentionne : « Entrée accessible en fauteuil roulant ». Cette information est déclarative ; en cas de doute, vérifiez par téléphone."
+      }
+    ],
+    "genere_le": "2026-10-30"
+  },
+  "statut_google": "OPERATIONAL",
+  "audience": {
+    "clics": 0,
+    "impressions": 0,
+    "position": null,
+    "fenetreJours": 90,
+    "clicsRecents": 0,
+    "fenetreRecenteJours": 28,
+    "source": "search-console",
+    "date": "2026-10-30"
+  }
+}

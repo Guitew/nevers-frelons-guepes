@@ -30,7 +30,7 @@
     "longitude": 2.6441445999999997
   },
   "note": 3.9,
-  "avis": 463,
+  "avis": 468,
   "horaires": [
     {
       "jour": 0,
@@ -114,8 +114,8 @@
     "etat": "absent",
     "premiere_detection": null,
     "derniere_detection": null,
-    "derniere_verification": "2026-10-14T10:07:28.770Z",
-    "echecs": 4,
+    "derniere_verification": "2026-10-30T11:21:01.088Z",
+    "echecs": 5,
     "url_detectee": null
   },
   "suggestion": {
@@ -128,7 +128,7 @@
   "dates": {
     "collecte": "2026-10-07",
     "publication": "2026-10-07",
-    "maj": "2026-10-14"
+    "maj": "2026-10-30"
   },
   "source": "google-places",
   "redaction": {
@@ -136,14 +136,23 @@
     "titre": "MarkaMarket Dammarie-Les-Lys — Commerce d'alimentation à Dammarie-les-Lys",
     "meta_titre": "MarkaMarket Dammarie-Les-Lys : horaires, avis, téléphone",
     "meta_description": "MarkaMarket Dammarie-Les-Lys, commerce d'alimentation à Dammarie-les-Lys : horaires d'ouverture, téléphone, adresse et itinéraire.",
-    "chapo": "MarkaMarket Dammarie-Les-Lys, commerce d'alimentation au 775 Avenue Jean Jaurès, à Dammarie-les-Lys. Ouvert sept jours sur sept au relevé du 14 octobre 2026. Téléphone : 06 89 01 49 73. Note Google : 3,9 sur 5 pour 463 avis.",
+    "chapo": "MarkaMarket Dammarie-Les-Lys, commerce d'alimentation au 775 Avenue Jean Jaurès, à Dammarie-les-Lys. Ouvert sept jours sur sept au relevé du 30 octobre 2026. Téléphone : 06 89 01 49 73. Note Google : 3,9 sur 5 pour 468 avis.",
     "sections": [
       {
         "id": "presentation",
         "titre": "MarkaMarket Dammarie-Les-Lys en quelques mots",
         "paragraphes": [
           "Sur Google, l'établissement est classé « Supermarché », dans notre rubrique Commerce d'alimentation.",
-          "D'après le relevé du 14 octobre 2026, l'établissement est ouvert sept jours sur sept. Le détail jour par jour figure plus bas."
+          "D'après le relevé du 30 octobre 2026, l'établissement est ouvert sept jours sur sept. Le détail jour par jour figure plus bas."
+        ]
+      },
+      {
+        "id": "prestations",
+        "titre": "Services et équipements de MarkaMarket Dammarie-Les-Lys",
+        "paragraphes": [
+          "Non proposé selon la fiche Google : livraison et toilettes.",
+          "Moyens de paiement déclarés : carte bancaire, carte de débit et paiement sans contact.",
+          "Ces indications sont déclarées par l'établissement sur sa fiche Google (relevé du 30 octobre 2026)."
         ]
       },
       {
@@ -165,18 +174,18 @@
         "id": "avis",
         "titre": "La réputation de MarkaMarket Dammarie-Les-Lys",
         "paragraphes": [
-          "Note de 3,9 sur 5 pour 463 avis Google au relevé du 14 octobre 2026. Les avis se consultent sur la fiche Google, dont le lien figure sur cette page."
+          "Note de 3,9 sur 5 pour 468 avis Google au relevé du 30 octobre 2026. Les avis les plus parlants sont compilés ci-dessous, avec un lien vers la fiche d'origine."
         ]
       }
     ],
     "faq": [
       {
         "q": "Quels sont les horaires de MarkaMarket Dammarie-Les-Lys ?",
-        "r": "Au relevé du 14 octobre 2026, MarkaMarket Dammarie-Les-Lys était ouvert sept jours sur sept. Dans le détail — lundi : de 9 h à 20 h ; mardi : de 9 h à 20 h ; mercredi : de 9 h à 20 h ; jeudi : de 9 h à 20 h ; vendredi : de 9 h à 20 h ; samedi : de 9 h à 20 h ; dimanche : de 9 h à 20 h. Ces horaires peuvent changer : un appel préalable reste conseillé."
+        "r": "Au relevé du 30 octobre 2026, MarkaMarket Dammarie-Les-Lys était ouvert sept jours sur sept. Dans le détail — lundi : de 9 h à 20 h ; mardi : de 9 h à 20 h ; mercredi : de 9 h à 20 h ; jeudi : de 9 h à 20 h ; vendredi : de 9 h à 20 h ; samedi : de 9 h à 20 h ; dimanche : de 9 h à 20 h. Ces horaires peuvent changer : un appel préalable reste conseillé."
       },
       {
         "q": "MarkaMarket Dammarie-Les-Lys est-il ouvert le dimanche ?",
-        "r": "Oui : le dimanche, MarkaMarket Dammarie-Les-Lys est ouvert de 9 h à 20 h (horaires relevés le 14 octobre 2026)."
+        "r": "Oui : le dimanche, MarkaMarket Dammarie-Les-Lys est ouvert de 9 h à 20 h (horaires relevés le 30 octobre 2026)."
       },
       {
         "q": "Où se trouve MarkaMarket Dammarie-Les-Lys ?",
@@ -187,11 +196,15 @@
         "r": "Par téléphone au 06 89 01 49 73, ou directement sur place aux heures d'ouverture."
       },
       {
+        "q": "MarkaMarket Dammarie-Les-Lys propose-t-il la vente à emporter ou la livraison ?",
+        "r": "D'après sa fiche Google (relevé du 30 octobre 2026) — livraison : non."
+      },
+      {
         "q": "MarkaMarket Dammarie-Les-Lys est-il accessible aux personnes à mobilité réduite ?",
         "r": "La fiche Google de l'établissement mentionne : « Entrée accessible en fauteuil roulant ». Cette information est déclarative ; en cas de doute, vérifiez par téléphone."
       }
     ],
-    "genere_le": "2026-10-14"
+    "genere_le": "2026-10-30"
   },
   "statut_google": "OPERATIONAL",
   "audience": {
@@ -202,6 +215,69 @@
     "clicsRecents": 1,
     "fenetreRecenteJours": 28,
     "source": "search-console",
-    "date": "2026-10-29"
+    "date": "2026-10-30"
+  },
+  "avis_detail": {
+    "releve": "2026-10-30",
+    "liste": [
+      {
+        "note": 1,
+        "texte": "Franchement j’en ai marre\nJ’y vais parce que c’est le seul commerce proche secteur. Mais toujours des surprises\nPot de yaourt pourri à l’ouverture à la\nMaison\nMini saucisse pourri arrive à la maison\nPaquet de salade pourri arrive à la maison et ce matin c’est les tomates qui sont pourri\nElle sont très belles à l’extérieur\nMais quand on les coupe pourri",
+        "langue": "fr",
+        "date": "2026-07-18",
+        "auteur": "LAURA KEVIOGLU",
+        "auteur_lien": "https://www.google.com/maps/contrib/100089934584890159778/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2tJM1kzaGtXRzR4T1Y5c1pIZHZiR2d0YVZKT2ExRRAB!2m1!1s0x47e5f13f95d6ecbf:0x8e3f88752a907b28"
+      },
+      {
+        "note": 1,
+        "texte": "Je déconseille fortement ce magasin. Le respect du client est totalement absent : le personnel répond de manière désagréable et hautaine.\nDevant les caisses, les employés discutent et rigolent en turc, ce qui met très mal à l’aise car on ne sait même pas s’ils se moquent des clients.\nLes prix sont mal affichés et ne correspondent pas toujours aux produits, ce qui crée encore plus de confusion.Franchement, une expérience très décevante. À fuir.\nMalheureusement on est obligé de mettre une étoile sinon même celle-là je l'aurais pas mis",
+        "langue": "fr",
+        "date": "2026-06-21",
+        "auteur": "KHENNACHE HASSANE",
+        "auteur_lien": "https://www.google.com/maps/contrib/115682376437242479975/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25oNVRVVjVZMHd4VTJsWlpVTTVSM0puUkhGaWRIYxAB!2m1!1s0x47e5f13f95d6ecbf:0x8e3f88752a907b28"
+      },
+      {
+        "note": 5,
+        "texte": "Très bon magasin,  on y trouve plusieurs marque Turcs...",
+        "langue": "fr",
+        "date": "2026-06-07",
+        "auteur": "Rojda Ozdemir",
+        "auteur_lien": "https://www.google.com/maps/contrib/105880273761442964432/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25OTGRWRkVlVkF4VEhoTGVURTJVVU4yVVhoSmVVRRAB!2m1!1s0x47e5f13f95d6ecbf:0x8e3f88752a907b28"
+      },
+      {
+        "note": 3,
+        "texte": "Sympas, mais une fois , on n'a oublié un sac de pomme de terre a la caisse qui a été payé, et la responsable , n'a pas réussi à voir sur les caméras, malgré que l'une des caissière à s'en n'est souvenu , au delà de 30 minutes d'attente étant pressé, j'ai du en racheter dans l'urgence.",
+        "langue": "fr",
+        "date": "2026-05-02",
+        "auteur": "Ma chérie a trop de classe",
+        "auteur_lien": "https://www.google.com/maps/contrib/114390403050049419735/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25sVWRWRkxkMDkzUWxwWFdWUm5PVGhJV0ZJd1RGRRAB!2m1!1s0x47e5f13f95d6ecbf:0x8e3f88752a907b28"
+      },
+      {
+        "note": 4,
+        "texte": "Seule boucherie ou je trouve ce que je cherche, environnement propre. Cependant il faut peut être ajouter un ticket pour le rang au moment des pic ou ya du monde. Sinon le reste du magasin reste classique et typique magasin turc ;-)",
+        "langue": "fr",
+        "date": "2024-01-09",
+        "auteur": "Abdoulaye",
+        "auteur_lien": "https://www.google.com/maps/contrib/113672849444823576172/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUQxZzRfSXNnRRAB!2m1!1s0x47e5f13f95d6ecbf:0x8e3f88752a907b28"
+      }
+    ]
+  },
+  "services": {
+    "releve": "2026-10-30",
+    "options": {
+      "delivery": false,
+      "restroom": false
+    },
+    "paiement": [
+      "carte bancaire",
+      "carte de débit",
+      "paiement sans contact"
+    ],
+    "parking": []
   }
 }

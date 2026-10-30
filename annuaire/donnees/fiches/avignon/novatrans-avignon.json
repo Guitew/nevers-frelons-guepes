@@ -39,8 +39,8 @@
     "etat": "absent",
     "premiere_detection": null,
     "derniere_detection": null,
-    "derniere_verification": "2026-10-14T10:07:28.770Z",
-    "echecs": 28,
+    "derniere_verification": "2026-10-30T11:21:01.088Z",
+    "echecs": 29,
     "url_detectee": null
   },
   "suggestion": {
@@ -60,7 +60,7 @@
   "dates": {
     "collecte": "2026-09-19",
     "publication": "2026-09-19",
-    "maj": "2026-10-18"
+    "maj": "2026-10-30"
   },
   "source": "google-places",
   "redaction": {
@@ -75,6 +75,14 @@
         "titre": "Novatrans AVIGNON en quelques mots",
         "paragraphes": [
           "Sur Google, l'établissement est classé « Entreprise de déménagement », dans notre rubrique Transport et déménagement."
+        ]
+      },
+      {
+        "id": "prestations",
+        "titre": "Services et équipements de Novatrans AVIGNON",
+        "paragraphes": [
+          "Proposé : toilettes.",
+          "Ces indications sont déclarées par l'établissement sur sa fiche Google (relevé du 30 octobre 2026)."
         ]
       },
       {
@@ -96,7 +104,7 @@
         "id": "avis",
         "titre": "La réputation de Novatrans AVIGNON",
         "paragraphes": [
-          "Note de 3,9 sur 5 pour 44 avis Google au relevé du 14 octobre 2026. Les avis se consultent sur la fiche Google, dont le lien figure sur cette page."
+          "Note de 3,9 sur 5 pour 44 avis Google au relevé du 30 octobre 2026. Les avis les plus parlants sont compilés ci-dessous, avec un lien vers la fiche d'origine."
         ]
       }
     ],
@@ -110,7 +118,7 @@
         "r": "Par téléphone au 04 90 80 71 20, ou directement sur place aux heures d'ouverture."
       }
     ],
-    "genere_le": "2026-10-14"
+    "genere_le": "2026-10-30"
   },
   "statut_google": "OPERATIONAL",
   "audience": {
@@ -121,6 +129,64 @@
     "clicsRecents": 0,
     "fenetreRecenteJours": 28,
     "source": "search-console",
-    "date": "2026-10-29"
+    "date": "2026-10-30"
+  },
+  "avis_detail": {
+    "releve": "2026-10-30",
+    "liste": [
+      {
+        "note": 5,
+        "texte": "Bien plus compliqué que celui de miramas pas indiqué la sortie du site du coup je me suis retrouvé en galère total heureusement un employer m’a aidé sinon bon site manque écrit sortie serait bien\nIls sont juste après la déchèterie",
+        "langue": "fr",
+        "date": "2024-10-08",
+        "auteur": "Truck master",
+        "auteur_lien": "https://www.google.com/maps/contrib/110114402630977522825/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSURuOWJfeDJRRRAB!2m1!1s0x12b5eb951f47a80b:0x5e7a9d33c7cfc2ad"
+      },
+      {
+        "note": 1,
+        "texte": "Commence tous les matin avec 30 minutes de retard  surtout 128-130🤬🤬",
+        "langue": "fr",
+        "date": "2022-06-17",
+        "auteur": "Sebastien Boissy",
+        "auteur_lien": "https://www.google.com/maps/contrib/110050066071555045730/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUNPN2RQLXpRRRAB!2m1!1s0x12b5eb951f47a80b:0x5e7a9d33c7cfc2ad"
+      },
+      {
+        "note": 5,
+        "texte": "Mention bien...\nÉquipe agréable.",
+        "langue": "fr",
+        "date": "2020-11-03",
+        "auteur": "Tof",
+        "auteur_lien": "https://www.google.com/maps/contrib/118124649260580388521/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSURVNmRUTXVnRRAB!2m1!1s0x12b5eb951f47a80b:0x5e7a9d33c7cfc2ad"
+      },
+      {
+        "note": 2,
+        "texte": "Bonjour! Je ne comprends pas sur quoi ce magasin ce base pour afficher des prix aussi haut en sachant qu'à quelques mètres se trouve l' intermarché (quand je fais mes courses au casino  pour 50€ le même genre de courses à intermarché s est 40€ pour le même panier ! Et les caissières du casino sont désagréables se permettent des réflexions affligeantes aux clients",
+        "langue": "fr",
+        "date": "2019-06-09",
+        "auteur": "sicas la grena",
+        "auteur_lien": "https://www.google.com/maps/contrib/103200597140321304548/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUM0NlpHc2NREAE!2m1!1s0x12b5eb951f47a80b:0x5e7a9d33c7cfc2ad"
+      },
+      {
+        "note": 4,
+        "texte": "Tres bon accueil",
+        "langue": "fr",
+        "date": "2019-04-03",
+        "auteur": "Luc Plisson",
+        "auteur_lien": "https://www.google.com/maps/contrib/114410767520278200253/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUNZbExEOEl3EAE!2m1!1s0x12b5eb951f47a80b:0x5e7a9d33c7cfc2ad"
+      }
+    ]
+  },
+  "services": {
+    "releve": "2026-10-30",
+    "options": {
+      "restroom": true
+    },
+    "paiement": [],
+    "parking": []
   }
 }

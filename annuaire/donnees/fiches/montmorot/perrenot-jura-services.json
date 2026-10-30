@@ -41,8 +41,8 @@
     "etat": "absent",
     "premiere_detection": null,
     "derniere_detection": null,
-    "derniere_verification": "2026-10-14T10:07:28.770Z",
-    "echecs": 67,
+    "derniere_verification": "2026-10-30T11:21:01.088Z",
+    "echecs": 68,
     "url_detectee": null
   },
   "suggestion": {
@@ -59,7 +59,7 @@
   "dates": {
     "collecte": "2026-09-01",
     "publication": "2026-09-01",
-    "maj": "2026-10-19"
+    "maj": "2026-10-30"
   },
   "source": "google-places",
   "redaction": {
@@ -74,6 +74,14 @@
         "titre": "Perrenot Jura Services en quelques mots",
         "paragraphes": [
           "Sur Google, l'établissement est classé « Garage automobile », dans notre rubrique Garage et automobile."
+        ]
+      },
+      {
+        "id": "prestations",
+        "titre": "Services et équipements de Perrenot Jura Services",
+        "paragraphes": [
+          "Proposé : toilettes.",
+          "Ces indications sont déclarées par l'établissement sur sa fiche Google (relevé du 30 octobre 2026)."
         ]
       },
       {
@@ -95,7 +103,7 @@
         "id": "avis",
         "titre": "La réputation de Perrenot Jura Services",
         "paragraphes": [
-          "Note de 4,2 sur 5 pour 65 avis Google au relevé du 18 octobre 2026. Les avis se consultent sur la fiche Google, dont le lien figure sur cette page."
+          "Note de 4,2 sur 5 pour 65 avis Google au relevé du 30 octobre 2026. Les avis les plus parlants sont compilés ci-dessous, avec un lien vers la fiche d'origine."
         ]
       }
     ],
@@ -113,7 +121,7 @@
         "r": "La fiche Google de l'établissement mentionne : « Entrée accessible en fauteuil roulant ». Cette information est déclarative ; en cas de doute, vérifiez par téléphone."
       }
     ],
-    "genere_le": "2026-10-18"
+    "genere_le": "2026-10-30"
   },
   "statut_google": "OPERATIONAL",
   "audience": {
@@ -124,7 +132,7 @@
     "clicsRecents": 0,
     "fenetreRecenteJours": 28,
     "source": "search-console",
-    "date": "2026-10-29"
+    "date": "2026-10-30"
   },
   "indexation": {
     "etat": "non-indexee",
@@ -134,5 +142,63 @@
     "canonique_google": null,
     "source": "inspection",
     "date": "2026-10-19"
+  },
+  "avis_detail": {
+    "releve": "2026-10-30",
+    "liste": [
+      {
+        "note": 1,
+        "texte": "Un peu moins de picoleur pour votre image de marque",
+        "langue": "fr",
+        "date": "2026-08-23",
+        "auteur": "jacques S",
+        "auteur_lien": "https://www.google.com/maps/contrib/107983658077754136477/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2pkallteFZjVEpHVkRJdFdrSjVOblZVVEZGaGMzYxAB!2m1!1s0x478cd7c5879bb4b9:0x6c15135aa2dbe94d"
+      },
+      {
+        "note": 5,
+        "texte": "Cariste super sympa et efficace",
+        "langue": "fr",
+        "date": "2026-04-20",
+        "auteur": "Rodolphe Wasik",
+        "auteur_lien": "https://www.google.com/maps/contrib/113799325939273137178/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT21KcFRFVkJkSGN4VlZBNFgzRmZZVUZ0VkdGaFNrRRAB!2m1!1s0x478cd7c5879bb4b9:0x6c15135aa2dbe94d"
+      },
+      {
+        "note": 5,
+        "texte": "Très bon accueil , échanges téléphoniques très agréables , cela fait vraiment plaisir de pouvoir traiter avec des commerciaux compétents. Je recommande vivement et les remercie une fois encore pour leur professionnalisme .",
+        "langue": "fr",
+        "date": "2026-02-22",
+        "auteur": "Michel Frey",
+        "auteur_lien": "https://www.google.com/maps/contrib/113238045778048779874/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT21sRWFHOXZhWGxKTUc5VFMwaEJaRkppV0Vack1IYxAB!2m1!1s0x478cd7c5879bb4b9:0x6c15135aa2dbe94d"
+      },
+      {
+        "note": 5,
+        "texte": "Super sympa aussi bien à l exploitation que les caristes bon c’est vrai pas simple pour y aller mais au moins ils sont pas embêtés lol Laurence Perrenot Bekaert !! Je reviendrai",
+        "langue": "fr",
+        "date": "2025-12-10",
+        "auteur": "Laurence Evrard",
+        "auteur_lien": "https://www.google.com/maps/contrib/116939787224473322978/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT210aVNIWlBSMWhxWVVKd2NYZHllRGxDUVRabGFuYxAB!2m1!1s0x478cd7c5879bb4b9:0x6c15135aa2dbe94d"
+      },
+      {
+        "note": 5,
+        "texte": "Accueil très sympathique, personnel très accueillant .\nLe personnel de chargement sont très sympas\nMachine a café et boissons, douches\nUne très bonne entreprise 👍",
+        "langue": "fr",
+        "date": "2024-04-24",
+        "auteur": "Didi",
+        "auteur_lien": "https://www.google.com/maps/contrib/108712879861055960036/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUNqM1pUVUJ3EAE!2m1!1s0x478cd7c5879bb4b9:0x6c15135aa2dbe94d"
+      }
+    ]
+  },
+  "services": {
+    "releve": "2026-10-30",
+    "options": {
+      "restroom": true
+    },
+    "paiement": [],
+    "parking": []
   }
 }
