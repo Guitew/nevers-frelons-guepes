@@ -256,7 +256,7 @@
     "clicsRecents": 0,
     "fenetreRecenteJours": 28,
     "source": "search-console",
-    "date": "2026-10-30"
+    "date": "2026-10-31"
   },
   "avis_detail": {
     "releve": "2026-10-21",
@@ -346,5 +346,14 @@
       "parking gratuit",
       "stationnement gratuit dans la rue"
     ]
+  },
+  "indexation": {
+    "etat": "non-indexee",
+    "verdict": "NEUTRAL",
+    "couverture": "Google ne reconnaît pas cette URL",
+    "derniere_exploration": null,
+    "canonique_google": null,
+    "source": "inspection",
+    "date": "2026-10-31"
   }
 }

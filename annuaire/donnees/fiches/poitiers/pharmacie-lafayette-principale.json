@@ -31,7 +31,7 @@
     "longitude": 0.343037
   },
   "note": 4.3,
-  "avis": 72,
+  "avis": 73,
   "horaires": [
     {
       "jour": 0,
@@ -136,8 +136,8 @@
     "etat": "absent",
     "premiere_detection": null,
     "derniere_detection": null,
-    "derniere_verification": "2026-10-18T09:54:50.642Z",
-    "echecs": 11,
+    "derniere_verification": "2026-10-31T10:53:21.305Z",
+    "echecs": 12,
     "url_detectee": null
   },
   "suggestion": {
@@ -150,22 +150,31 @@
   "dates": {
     "collecte": "2026-09-30",
     "publication": "2026-09-30",
-    "maj": "2026-10-18"
+    "maj": "2026-10-31"
   },
   "source": "google-places",
   "redaction": {
     "version": 2,
     "titre": "Pharmacie Lafayette Principale — Pharmacie ou opticien à Poitiers",
     "meta_titre": "Pharmacie Lafayette Principale à Poitiers : horaires, avis",
-    "meta_description": "Pharmacie Lafayette Principale, pharmacie ou opticien à Poitiers : horaires d'ouverture, note Google 4,3/5 (72 avis), téléphone, adresse et itinéraire.",
-    "chapo": "Pharmacie Lafayette Principale est une pharmacie ou opticien au 28 Rue de la Regratterie, à Poitiers. Ouvert tous les jours sauf le dimanche au relevé du 18 octobre 2026. Téléphone : 05 49 41 00 77. Note Google : 4,3 sur 5 pour 72 avis.",
+    "meta_description": "Pharmacie Lafayette Principale, pharmacie ou opticien à Poitiers : horaires d'ouverture, note Google 4,3/5 (73 avis), téléphone, adresse et itinéraire.",
+    "chapo": "Pharmacie Lafayette Principale est une pharmacie ou opticien au 28 Rue de la Regratterie, à Poitiers. Ouvert tous les jours sauf le dimanche au relevé du 31 octobre 2026. Téléphone : 05 49 41 00 77. Note Google : 4,3 sur 5 pour 73 avis.",
     "sections": [
       {
         "id": "presentation",
         "titre": "Pharmacie Lafayette Principale en quelques mots",
         "paragraphes": [
           "Sur Google, l'établissement est classé « Pharmacie », dans notre rubrique Pharmacie ou opticien.",
-          "D'après le relevé du 18 octobre 2026, l'établissement est ouvert tous les jours sauf le dimanche. Le détail jour par jour figure plus bas."
+          "D'après le relevé du 31 octobre 2026, l'établissement est ouvert tous les jours sauf le dimanche. Le détail jour par jour figure plus bas."
+        ]
+      },
+      {
+        "id": "prestations",
+        "titre": "Services et équipements de Pharmacie Lafayette Principale",
+        "paragraphes": [
+          "Non proposé selon la fiche Google : livraison et retrait en voiture.",
+          "Moyens de paiement déclarés : carte bancaire, carte de débit et paiement sans contact.",
+          "Ces indications sont déclarées par l'établissement sur sa fiche Google (relevé du 31 octobre 2026)."
         ]
       },
       {
@@ -187,18 +196,18 @@
         "id": "avis",
         "titre": "La réputation de Pharmacie Lafayette Principale",
         "paragraphes": [
-          "Note de 4,3 sur 5 pour 72 avis Google au relevé du 18 octobre 2026. Les avis se consultent sur la fiche Google, dont le lien figure sur cette page."
+          "Note de 4,3 sur 5 pour 73 avis Google au relevé du 31 octobre 2026. Les avis les plus parlants sont compilés ci-dessous, avec un lien vers la fiche d'origine."
         ]
       }
     ],
     "faq": [
       {
         "q": "Quels sont les horaires de Pharmacie Lafayette Principale ?",
-        "r": "Au relevé du 18 octobre 2026, Pharmacie Lafayette Principale était ouvert tous les jours sauf le dimanche. Dans le détail — lundi : de 8 h 45 à 13 h 30 et de 14 h 30 à 19 h 15 ; mardi : de 8 h 45 à 13 h 30 et de 14 h 30 à 19 h 15 ; mercredi : de 8 h 45 à 13 h 30 et de 14 h 30 à 19 h 15 ; jeudi : de 8 h 45 à 13 h 30 et de 14 h 30 à 19 h 15 ; vendredi : de 8 h 45 à 13 h 30 et de 14 h 30 à 19 h 15 ; samedi : de 8 h 45 à 13 h 30 et de 14 h 30 à 19 h 15 ; dimanche : fermé. Ces horaires peuvent changer : un appel préalable reste conseillé."
+        "r": "Au relevé du 31 octobre 2026, Pharmacie Lafayette Principale était ouvert tous les jours sauf le dimanche. Dans le détail — lundi : de 8 h 45 à 13 h 30 et de 14 h 30 à 19 h 15 ; mardi : de 8 h 45 à 13 h 30 et de 14 h 30 à 19 h 15 ; mercredi : de 8 h 45 à 13 h 30 et de 14 h 30 à 19 h 15 ; jeudi : de 8 h 45 à 13 h 30 et de 14 h 30 à 19 h 15 ; vendredi : de 8 h 45 à 13 h 30 et de 14 h 30 à 19 h 15 ; samedi : de 8 h 45 à 13 h 30 et de 14 h 30 à 19 h 15 ; dimanche : fermé. Ces horaires peuvent changer : un appel préalable reste conseillé."
       },
       {
         "q": "Pharmacie Lafayette Principale est-il ouvert le dimanche ?",
-        "r": "Non : d'après les horaires relevés le 18 octobre 2026, Pharmacie Lafayette Principale est fermé le dimanche."
+        "r": "Non : d'après les horaires relevés le 31 octobre 2026, Pharmacie Lafayette Principale est fermé le dimanche."
       },
       {
         "q": "Où se trouve Pharmacie Lafayette Principale ?",
@@ -209,11 +218,15 @@
         "r": "Par téléphone au 05 49 41 00 77, ou directement sur place aux heures d'ouverture."
       },
       {
+        "q": "Pharmacie Lafayette Principale propose-t-il la vente à emporter ou la livraison ?",
+        "r": "D'après sa fiche Google (relevé du 31 octobre 2026) — livraison : non."
+      },
+      {
         "q": "Pharmacie Lafayette Principale est-il accessible aux personnes à mobilité réduite ?",
         "r": "La fiche Google de l'établissement mentionne : « Entrée accessible en fauteuil roulant ». Cette information est déclarative ; en cas de doute, vérifiez par téléphone."
       }
     ],
-    "genere_le": "2026-10-18"
+    "genere_le": "2026-10-31"
   },
   "statut_google": "OPERATIONAL",
   "audience": {
@@ -224,6 +237,69 @@
     "clicsRecents": 0,
     "fenetreRecenteJours": 28,
     "source": "search-console",
-    "date": "2026-10-30"
+    "date": "2026-10-31"
+  },
+  "avis_detail": {
+    "releve": "2026-10-31",
+    "liste": [
+      {
+        "note": 5,
+        "texte": "Une pharmacie que je fréquente depuis plus de 10 ans. Le pharmacien et les personnels nous accueillent avec sourire et professionnalisme. Ils conseillent, discutent avec les patients, ils ne font pas que vendre. Je leur souhaite de continuer comme ils le font.\nMerci à eux.",
+        "langue": "fr",
+        "date": "2026-08-06",
+        "auteur": "Geoffroy Doka",
+        "auteur_lien": "https://www.google.com/maps/contrib/108371336770871912888/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT214VlJsZFlkamxSZVZsS2NFTjVZelpNTjE5T1ZXYxAB!2m1!1s0x47fdbe71d9068b01:0x15d8bf40b44f2e8a"
+      },
+      {
+        "note": 5,
+        "texte": "Je me suis rendue ce matin à cette pharmacie que je ne connaissais pas particulièrement. J'ai un traitement régulier à prendre et je suis souvent jugée. Pour la première fois je me suis sentie bien, écoutée et les professionnelles présentes discrètes et agréable. Cela mets du baume au coeur. Les prix sont de plus attractifs.\nMerci pour votre gentillesse et bienveillance.\nValentine",
+        "langue": "fr",
+        "date": "2026-03-27",
+        "auteur": "Valentine Bodin",
+        "auteur_lien": "https://www.google.com/maps/contrib/102213766815272454149/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2tWelVVbHZZak5YWkdOdk5rODRhM1p3UlZwRGJHYxAB!2m1!1s0x47fdbe71d9068b01:0x15d8bf40b44f2e8a"
+      },
+      {
+        "note": 5,
+        "texte": "Très bonne pharmacie, pharmaciens gentils, je recommande. Dommage que ça soit fermé pour la pause déjeuner",
+        "langue": "fr",
+        "date": "2026-02-18",
+        "auteur": "Anna Isfer Zardo",
+        "auteur_lien": "https://www.google.com/maps/contrib/113890268501390826429/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xrd1puTTRaV1kyTjE5RVJrNTVSRk41T0dvNGRIYxAB!2m1!1s0x47fdbe71d9068b01:0x15d8bf40b44f2e8a"
+      },
+      {
+        "note": 1,
+        "texte": "Wouahhhh... j'ai rarement vu un accueil aussi froid dans une pharmacie !\nJe viens pour un sirop pour la toux... et j'ai droit à un :\n- \"Toux sèche ou toux grasse ?\"\nVoyant ma surprise et mon hésitation... elle me balance :\n- \"Toux grasse c'est quand ça r'monte et toux sèche ça r'monte pas.\"\nJe ne savais pas trop quoi répondre à cette solution si gentiment proposée... et j'ai à peine eu le temps d'ouvrir la bouche...\n-\"Toux mixte alors !\" Et elle part chercher un sirop.\n-\"12,95€ !\"\n\nEt bien merci et surtout Joyeux Noël...\n\n[Mise à jour suite à la réponse du propriétaire :\nMon avis est tout à fait objectif !\nJe ne me suis malheureusement pas trompé de pharmacie.\nJe vous joins donc la photo du sirop qui coûte malheureusement bien plus de 10€...\nEn revanche, petite erreur de ma part, ce n'était pas 12,95€, mais 11,75€ comme le prouve l'extrait de compte... ce qui est donc largement supérieur à 10€.]",
+        "langue": "fr",
+        "date": "2026-01-07",
+        "auteur": "Stéphane Jeamet",
+        "auteur_lien": "https://www.google.com/maps/contrib/111919449237500208907/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2tVdFEzcFJUbVJoYlVGSWJWRnJZM1pUVFZVdE1tYxAB!2m1!1s0x47fdbe71d9068b01:0x15d8bf40b44f2e8a"
+      },
+      {
+        "note": 3,
+        "texte": "Je pensais que les pharmacies Lafayette avaient des prix interressants mais pas spécialement car j'ai acheté une créme Roche posay (effaclar mat crème)qui m'a couté presque 2€ de plus que dans le monoprix ! J'ai été très surprise ...mais bon ! Autrement accueil agréable mais espace de cette pharmacie est trop petit",
+        "langue": "fr",
+        "date": "2025-12-17",
+        "auteur": "Anouk Nunes",
+        "auteur_lien": "https://www.google.com/maps/contrib/110927015597647427679/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xWV1prWlJlVVZsU1dkTGRqZEJSVkl0WkRkRE4yYxAB!2m1!1s0x47fdbe71d9068b01:0x15d8bf40b44f2e8a"
+      }
+    ]
+  },
+  "services": {
+    "releve": "2026-10-31",
+    "options": {
+      "delivery": false,
+      "curbsidePickup": false
+    },
+    "paiement": [
+      "carte bancaire",
+      "carte de débit",
+      "paiement sans contact"
+    ],
+    "parking": []
   }
 }

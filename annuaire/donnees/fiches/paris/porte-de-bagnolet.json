@@ -39,8 +39,8 @@
     "etat": "absent",
     "premiere_detection": null,
     "derniere_detection": null,
-    "derniere_verification": "2026-10-18T09:54:50.642Z",
-    "echecs": 61,
+    "derniere_verification": "2026-10-31T10:53:21.305Z",
+    "echecs": 62,
     "url_detectee": null
   },
   "suggestion": {
@@ -60,7 +60,7 @@
   "dates": {
     "collecte": "2026-09-03",
     "publication": "2026-09-03",
-    "maj": "2026-10-18"
+    "maj": "2026-10-31"
   },
   "source": "google-places",
   "redaction": {
@@ -75,6 +75,14 @@
         "titre": "Porte de Bagnolet en quelques mots",
         "paragraphes": [
           "Sur Google, l'établissement est classé « Stockage », dans notre rubrique Transport et déménagement."
+        ]
+      },
+      {
+        "id": "prestations",
+        "titre": "Services et équipements de Porte de Bagnolet",
+        "paragraphes": [
+          "Stationnement : stationnement payant dans la rue.",
+          "Ces indications sont déclarées par l'établissement sur sa fiche Google (relevé du 31 octobre 2026)."
         ]
       },
       {
@@ -96,7 +104,7 @@
         "id": "avis",
         "titre": "La réputation de Porte de Bagnolet",
         "paragraphes": [
-          "Note de 4 sur 5 pour 74 avis Google au relevé du 18 octobre 2026. Les avis se consultent sur la fiche Google, dont le lien figure sur cette page."
+          "Note de 4 sur 5 pour 74 avis Google au relevé du 31 octobre 2026. Les avis les plus parlants sont compilés ci-dessous, avec un lien vers la fiche d'origine."
         ]
       }
     ],
@@ -110,7 +118,7 @@
         "r": "La fiche Google de l'établissement mentionne : « Parking accessible en fauteuil roulant ». Cette information est déclarative ; en cas de doute, vérifiez par téléphone."
       }
     ],
-    "genere_le": "2026-10-18"
+    "genere_le": "2026-10-31"
   },
   "statut_google": "OPERATIONAL",
   "audience": {
@@ -121,7 +129,7 @@
     "clicsRecents": 0,
     "fenetreRecenteJours": 28,
     "source": "search-console",
-    "date": "2026-10-30"
+    "date": "2026-10-31"
   },
   "indexation": {
     "etat": "non-indexee",
@@ -131,5 +139,63 @@
     "canonique_google": null,
     "source": "inspection",
     "date": "2026-10-18"
+  },
+  "avis_detail": {
+    "releve": "2026-10-31",
+    "liste": [
+      {
+        "note": 3,
+        "texte": "Ben la porte de Bagnolet quoi !",
+        "langue": "fr",
+        "date": "2025-10-26",
+        "auteur": "S",
+        "auteur_lien": "https://www.google.com/maps/contrib/103968106472442873007/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xwMFducFNVSFU0Um5aaFF6UnhRVlowVmtvNFJVRRAB!2m1!1s0x47e66dc7694c70a9:0x8b4d8c49a30b1c75"
+      },
+      {
+        "note": 5,
+        "texte": "C’est la street mon pote ! Trop de bouchon horrible !",
+        "langue": "fr",
+        "date": "2025-10-19",
+        "auteur": "Malik Cherif",
+        "auteur_lien": "https://www.google.com/maps/contrib/103247525799110401993/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2taUVdYcEhTREZpVFRkbE1EQkpiWGxTVlhsbGIyYxAB!2m1!1s0x47e66dc7694c70a9:0x8b4d8c49a30b1c75"
+      },
+      {
+        "note": 5,
+        "texte": "Un échangeur sympa, des manifs à 6h du mat un peu éparses mais vite rendues plus chaleureuses avec l’arrivée de 30 Brav-M",
+        "langue": "fr",
+        "date": "2025-09-22",
+        "auteur": "Thibaut Allanic",
+        "auteur_lien": "https://www.google.com/maps/contrib/110503118307794931343/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2kweVNYUjVhRFV0VERNek5VTmtVVUpOYldKb04zYxAB!2m1!1s0x47e66dc7694c70a9:0x8b4d8c49a30b1c75"
+      },
+      {
+        "note": 1,
+        "texte": "Toujours des bouchons !!!!! Et alors les 50 kilomètres c'est le top !!!!!!!!\nLes ralentisseurs dans Paris et banlieue le top !!!!!!\nJusqu'où va nous mener cette politique ???",
+        "langue": "fr",
+        "date": "2025-02-20",
+        "auteur": "swingmof",
+        "auteur_lien": "https://www.google.com/maps/contrib/117699689445796106589/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnTUNneTd5UXdBRRAB!2m1!1s0x47e66dc7694c70a9:0x8b4d8c49a30b1c75"
+      },
+      {
+        "note": 4,
+        "texte": "J'ai passé une excellente journée",
+        "langue": "fr",
+        "date": "2025-01-20",
+        "auteur": "Georges Dos Santos",
+        "auteur_lien": "https://www.google.com/maps/contrib/101906258706446320833/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSURfZ092bXRnRRAB!2m1!1s0x47e66dc7694c70a9:0x8b4d8c49a30b1c75"
+      }
+    ]
+  },
+  "services": {
+    "releve": "2026-10-31",
+    "options": {},
+    "paiement": [],
+    "parking": [
+      "stationnement payant dans la rue"
+    ]
   }
 }

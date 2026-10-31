@@ -27,7 +27,7 @@
     "longitude": -1.6108996
   },
   "note": 4,
-  "avis": 53,
+  "avis": 55,
   "horaires": null,
   "attributs": [
     "Entrée accessible en fauteuil roulant",
@@ -41,8 +41,8 @@
     "etat": "absent",
     "premiere_detection": null,
     "derniere_detection": null,
-    "derniere_verification": "2026-10-18T09:54:50.642Z",
-    "echecs": 21,
+    "derniere_verification": "2026-10-31T10:53:21.305Z",
+    "echecs": 22,
     "url_detectee": null
   },
   "suggestion": {
@@ -55,21 +55,30 @@
   "dates": {
     "collecte": "2026-09-22",
     "publication": "2026-09-22",
-    "maj": "2026-10-18"
+    "maj": "2026-10-31"
   },
   "source": "google-places",
   "redaction": {
     "version": 2,
     "titre": "Polyclinique — Médecin ou dentiste à Saint-Herblain",
     "meta_titre": "Polyclinique à Saint-Herblain : avis",
-    "meta_description": "Polyclinique, médecin ou dentiste à Saint-Herblain : note Google 4/5 (53 avis), adresse et itinéraire.",
-    "chapo": "Polyclinique est un médecin ou dentiste au 2 Allée de la musique, à Saint-Herblain. Note Google : 4 sur 5 pour 53 avis.",
+    "meta_description": "Polyclinique, médecin ou dentiste à Saint-Herblain : note Google 4/5 (55 avis), adresse et itinéraire.",
+    "chapo": "Polyclinique est un médecin ou dentiste au 2 Allée de la musique, à Saint-Herblain. Note Google : 4 sur 5 pour 55 avis.",
     "sections": [
       {
         "id": "presentation",
         "titre": "Polyclinique en quelques mots",
         "paragraphes": [
           "Sur Google, l'établissement est classé « Clinique », dans notre rubrique Médecin ou dentiste."
+        ]
+      },
+      {
+        "id": "prestations",
+        "titre": "Services et équipements de Polyclinique",
+        "paragraphes": [
+          "Proposé : toilettes.",
+          "Moyens de paiement déclarés : carte bancaire, carte de débit et paiement sans contact.",
+          "Ces indications sont déclarées par l'établissement sur sa fiche Google (relevé du 31 octobre 2026)."
         ]
       },
       {
@@ -91,7 +100,7 @@
         "id": "avis",
         "titre": "La réputation de Polyclinique",
         "paragraphes": [
-          "Note de 4 sur 5 pour 53 avis Google au relevé du 18 octobre 2026. Les avis se consultent sur la fiche Google, dont le lien figure sur cette page."
+          "Note de 4 sur 5 pour 55 avis Google au relevé du 31 octobre 2026. Les avis les plus parlants sont compilés ci-dessous, avec un lien vers la fiche d'origine."
         ]
       }
     ],
@@ -105,7 +114,7 @@
         "r": "La fiche Google de l'établissement mentionne : « Entrée accessible en fauteuil roulant ». Cette information est déclarative ; en cas de doute, vérifiez par téléphone."
       }
     ],
-    "genere_le": "2026-10-18"
+    "genere_le": "2026-10-31"
   },
   "statut_google": "OPERATIONAL",
   "audience": {
@@ -116,15 +125,77 @@
     "clicsRecents": 0,
     "fenetreRecenteJours": 28,
     "source": "search-console",
-    "date": "2026-10-30"
+    "date": "2026-10-31"
   },
   "indexation": {
     "etat": "non-indexee",
     "verdict": "NEUTRAL",
-    "couverture": "Détectée, actuellement non indexée",
+    "couverture": "Google ne reconnaît pas cette URL",
     "derniere_exploration": null,
     "canonique_google": null,
     "source": "inspection",
-    "date": "2026-10-30"
+    "date": "2026-10-31"
+  },
+  "avis_detail": {
+    "releve": "2026-10-31",
+    "liste": [
+      {
+        "note": 5,
+        "texte": "Docteur jean Delpierre il est le meilleur,☺️☺️ c'est le meilleur dans son domaine.",
+        "langue": "fr",
+        "date": "2026-07-08",
+        "auteur": "Aïcha Diene",
+        "auteur_lien": "https://www.google.com/maps/contrib/116587079700696399942/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2tWSWJ6SjFObU5SV0ZsaWJXWXRXVWM1UlhsQ09HYxAB!2m1!1s0x4805ecee21ff0349:0x7cb1516e903a8ae8"
+      },
+      {
+        "note": 5,
+        "texte": "Pratique pour mes clients de les déposer et revenir les chercher, pas de stress en plus, je gère leurs trajets VTC",
+        "langue": "fr",
+        "date": "2026-06-30",
+        "auteur": "TMS Solutions",
+        "auteur_lien": "https://www.google.com/maps/contrib/103484248992560433102/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT201c2JXWTNTVzQwWWpVeVlXZG1kamR1ZGpCRmNtYxAB!2m1!1s0x4805ecee21ff0349:0x7cb1516e903a8ae8"
+      },
+      {
+        "note": 4,
+        "texte": "Toujours aussi compliqué de trouver une place de parking, même s'il est payant.",
+        "langue": "fr",
+        "date": "2026-03-13",
+        "auteur": "Sabrina",
+        "auteur_lien": "https://www.google.com/maps/contrib/117250086931907070276/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25GcmVXOXpNemRDWjA5Q1JYQlplSGw2VlZZM1ZFRRAB!2m1!1s0x4805ecee21ff0349:0x7cb1516e903a8ae8"
+      },
+      {
+        "note": 5,
+        "texte": "Meilleure prise en charge pour mon accouchement que j'aurais pu espérer. Tout c'est très bien passé, le personnel est à l'écoute, communique, au top ! Le séjour à la maternité était parfait également que ce soit avec le personnel soignant, le personnel pour les repas et le nettoyage, tous étaient aux petits soins, merci !",
+        "langue": "fr",
+        "date": "2025-05-21",
+        "auteur": "Fanny BRIANT",
+        "auteur_lien": "https://www.google.com/maps/contrib/109100873455332993775/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VMaUdpcHVWbk9lNGRnEAE!2m1!1s0x4805ecee21ff0349:0x7cb1516e903a8ae8"
+      },
+      {
+        "note": 5,
+        "texte": "Service de la maternité est au top ! Je viens d’y passer un séjour à 7 mois de grossesse. Le personnel est très gentil et a l’écoute ! Je me suis sentie tellement bien ! Je suis sereine de m’y rendre pour mon accouchement.",
+        "langue": "fr",
+        "date": "2024-06-10",
+        "auteur": "Lori Gendron",
+        "auteur_lien": "https://www.google.com/maps/contrib/107952097635197811056/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUR6Z2V1cUF3EAE!2m1!1s0x4805ecee21ff0349:0x7cb1516e903a8ae8"
+      }
+    ]
+  },
+  "services": {
+    "releve": "2026-10-31",
+    "options": {
+      "restroom": true
+    },
+    "paiement": [
+      "carte bancaire",
+      "carte de débit",
+      "paiement sans contact"
+    ],
+    "parking": []
   }
 }

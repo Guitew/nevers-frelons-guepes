@@ -1,0 +1,318 @@
+{
+  "id": "ChIJVUZ1nK4dEEgRq-NW5QdybN8",
+  "slug": "du-pain-dans-les-voiles",
+  "nom": "Du Pain dans Les Voiles",
+  "categorie": "boulangeries-patisseries",
+  "categorie_gmb": "Boulangerie",
+  "type_principal": "bakery",
+  "types": [
+    "bakery",
+    "pastry_shop",
+    "dessert_shop",
+    "confectionery",
+    "food_store",
+    "store",
+    "point_of_interest",
+    "food",
+    "establishment"
+  ],
+  "ville": "Séné",
+  "ville_slug": "sene",
+  "adresse": {
+    "rue": "22 Place de l'Église",
+    "code_postal": "56860",
+    "departement": "56",
+    "region": "Bretagne",
+    "pays": "France",
+    "complete": "22 Pl. de l'Église, 56860 Séné"
+  },
+  "telephone": "02 97 66 90 75",
+  "geo": {
+    "latitude": 47.6195922,
+    "longitude": -2.7366587
+  },
+  "note": 4.4,
+  "avis": 230,
+  "horaires": [
+    {
+      "jour": 0,
+      "ferme": false,
+      "creneaux": [
+        [
+          "07:00",
+          "13:15"
+        ],
+        [
+          "15:30",
+          "19:00"
+        ]
+      ]
+    },
+    {
+      "jour": 1,
+      "ferme": false,
+      "creneaux": [
+        [
+          "07:00",
+          "13:15"
+        ],
+        [
+          "15:30",
+          "19:00"
+        ]
+      ]
+    },
+    {
+      "jour": 2,
+      "ferme": false,
+      "creneaux": [
+        [
+          "07:00",
+          "13:15"
+        ],
+        [
+          "15:30",
+          "19:00"
+        ]
+      ]
+    },
+    {
+      "jour": 3,
+      "ferme": false,
+      "creneaux": [
+        [
+          "07:00",
+          "13:15"
+        ],
+        [
+          "15:30",
+          "19:00"
+        ]
+      ]
+    },
+    {
+      "jour": 4,
+      "ferme": false,
+      "creneaux": [
+        [
+          "07:00",
+          "13:15"
+        ],
+        [
+          "15:30",
+          "19:00"
+        ]
+      ]
+    },
+    {
+      "jour": 5,
+      "ferme": false,
+      "creneaux": [
+        [
+          "07:00",
+          "13:00"
+        ],
+        [
+          "15:30",
+          "18:30"
+        ]
+      ]
+    },
+    {
+      "jour": 6,
+      "ferme": true,
+      "creneaux": []
+    }
+  ],
+  "attributs": [
+    "Entrée accessible en fauteuil roulant",
+    "Parking accessible en fauteuil roulant"
+  ],
+  "lien_google": "https://maps.google.com/?cid=16099368146180694955&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
+  "site_web_gmb": null,
+  "statut": "publiee",
+  "backlink": {
+    "etat": "absent",
+    "premiere_detection": null,
+    "derniere_detection": null,
+    "derniere_verification": "2026-10-31T10:53:21.305Z",
+    "echecs": 1,
+    "url_detectee": null
+  },
+  "suggestion": {
+    "etat": "en-attente",
+    "date_soumission": null,
+    "tentatives": 0,
+    "date_email": "2026-10-31"
+  },
+  "retrait": null,
+  "dates": {
+    "collecte": "2026-10-31",
+    "publication": "2026-10-31",
+    "maj": "2026-10-31"
+  },
+  "source": "google-places",
+  "avis_detail": {
+    "releve": "2026-10-31",
+    "liste": [
+      {
+        "note": 5,
+        "texte": "Excellente boulangerie, la tradition est vraiment parfaite , les viennoiseries très bonnes également . Le bon goût du beurre et une feuilletage. Nous vivons dans le 06 et les boulangerie de cette qualité sont extrêmement rare. Donc c’était un vrai plaisir",
+        "langue": "fr",
+        "date": "2026-08-21",
+        "auteur": "Audrey Grande",
+        "auteur_lien": "https://www.google.com/maps/contrib/101802918122605548766/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2pGRWJtMXRjRXhHWkRSd2VFbEdhWEZpUjJzMk0yYxAB!2m1!1s0x48101dae9c754655:0xdf6c7207e556e3ab"
+      },
+      {
+        "note": 5,
+        "texte": "Viennoiseries vraiment très bonne. Avec une belle mention pour le pain au chocolat. Une croustillante unique, une dorure parfaite et un juste dosage. Les pâtisseries était plutôt correct aussi même si ça me semblait pas le meilleur. Mais ça reste très bien. Et le pain/tradition y sont aussi très bonne. Ça fait plaisir de goûter a autant de belle chose",
+        "langue": "fr",
+        "date": "2026-08-14",
+        "auteur": "Mushu",
+        "auteur_lien": "https://www.google.com/maps/contrib/112425113107208456871/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2poNmFHdEhXQzFpUzJsbllWbDZXamRtVUhjMGJWRRAB!2m1!1s0x48101dae9c754655:0xdf6c7207e556e3ab"
+      },
+      {
+        "note": 5,
+        "texte": "Voilà ce que j’appelle une vraie boulangerie avec un vrai boulanger , première visite j’ai pris une baguette tradition et deux pains au chocolat, la tradition excellente, bien croustillante avec une bonne mie à l’intérieur mais que dire des pains aux chocolats, les meilleurs que j’ai mangé de la vie pour être honnête, bien travaillés , bien croustillants avec un bon goût de beurre, merveilleux !! En prime la vendeuse et souriante et agréable, merci à l’équipe pour votre travail formidable 😉😘",
+        "langue": "fr",
+        "date": "2026-07-22",
+        "auteur": "julien gerzaguet",
+        "auteur_lien": "https://www.google.com/maps/contrib/113191126255784899036/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25aeVlWSTBRWEptV0VOMU1IWkJWbVJIUTJkMVdtYxAB!2m1!1s0x48101dae9c754655:0xdf6c7207e556e3ab"
+      },
+      {
+        "note": 5,
+        "texte": "Très bonne boulangerie 🥖 ! Le pain 🥖 sent bon !!! Et il se conserve enfin si on arrive à ne pas le manger dans la voiture, j’ai aussi pris des viennoiseries 🥐 excellentes , le personnel est très agréable et sympathique ! Si vous passez par là arrêtez vous prendre un sandwich ou du pain ça vaut le coup quand on pense au nombre de boulangerie qui nous vendent un pain deg….",
+        "langue": "fr",
+        "date": "2026-05-16",
+        "auteur": "Solene Haroutel",
+        "auteur_lien": "https://www.google.com/maps/contrib/110455783802917290608/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT21kMlJsQkNXR2R1VG01NFRXNTBSV3hvVG5OVFNGRRAB!2m1!1s0x48101dae9c754655:0xdf6c7207e556e3ab"
+      },
+      {
+        "note": 5,
+        "texte": "Une des meilleures boulangeries que j'ai pu tester !\nLes sandwichs sont genereux en plus d'être bons et pas chers !\nNous avons aussi tester le Nantais au rhum.... une folie !\nEt les viennoisseries.... une turie ! (Meilleur chausson aux pommes de ma vie).\nIl nous reste 2 petites douceurs a tester.... je suis sure que ce sera délicieux 😋",
+        "langue": "fr",
+        "date": "2025-08-26",
+        "auteur": "Lou Eyler",
+        "auteur_lien": "https://www.google.com/maps/contrib/108155837079439198413/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2paeFRraGpkV1ZqY1ZVNFdGbEtRMVZ6Vmsxck9FRRAB!2m1!1s0x48101dae9c754655:0xdf6c7207e556e3ab"
+      }
+    ]
+  },
+  "services": {
+    "releve": "2026-10-31",
+    "prix": "PRICE_LEVEL_INEXPENSIVE",
+    "options": {
+      "takeout": true,
+      "delivery": false,
+      "servesBreakfast": false,
+      "servesCoffee": false,
+      "restroom": false
+    },
+    "paiement": [
+      "carte bancaire",
+      "carte de débit",
+      "paiement sans contact"
+    ],
+    "parking": [
+      "parking gratuit",
+      "stationnement gratuit dans la rue"
+    ]
+  },
+  "redaction": {
+    "version": 2,
+    "titre": "Du Pain dans Les Voiles — Boulangerie-pâtisserie à Séné",
+    "meta_titre": "Du Pain dans Les Voiles à Séné : horaires, avis, téléphone",
+    "meta_description": "Du Pain dans Les Voiles, boulangerie-pâtisserie à Séné : horaires d'ouverture, note Google 4,4/5 (230 avis), téléphone, adresse et itinéraire.",
+    "chapo": "Du Pain dans Les Voiles est une boulangerie-pâtisserie au 22 Place de l'Église, à Séné. Ouvert tous les jours sauf le dimanche au relevé du 31 octobre 2026. Téléphone : 02 97 66 90 75. Note Google : 4,4 sur 5 pour 230 avis.",
+    "sections": [
+      {
+        "id": "presentation",
+        "titre": "Du Pain dans Les Voiles en quelques mots",
+        "paragraphes": [
+          "Sur Google, l'établissement est classé « Boulangerie », dans notre rubrique Boulangerie-pâtisserie.",
+          "Niveau de prix indiqué sur la fiche Google : € (bon marché).",
+          "D'après le relevé du 31 octobre 2026, l'établissement est ouvert tous les jours sauf le dimanche. Le détail jour par jour figure plus bas."
+        ]
+      },
+      {
+        "id": "prestations",
+        "titre": "Services et équipements de Du Pain dans Les Voiles",
+        "paragraphes": [
+          "Proposé : à emporter.",
+          "Non proposé selon la fiche Google : livraison, petit-déjeuner, café et toilettes.",
+          "Moyens de paiement déclarés : carte bancaire, carte de débit et paiement sans contact.",
+          "Stationnement : parking gratuit et stationnement gratuit dans la rue.",
+          "Ces indications sont déclarées par l'établissement sur sa fiche Google (relevé du 31 octobre 2026)."
+        ]
+      },
+      {
+        "id": "acces",
+        "titre": "Adresse et accès",
+        "paragraphes": [
+          "L'établissement est situé au 22 Place de l'Église, 56860 Séné.",
+          "Coordonnées GPS : 47.61959, -2.73666. Le bouton Itinéraire de cette page ouvre la navigation."
+        ]
+      },
+      {
+        "id": "contact",
+        "titre": "Contacter Du Pain dans Les Voiles",
+        "paragraphes": [
+          "Le contact se fait par téléphone au 02 97 66 90 75, ou directement sur place aux horaires d'ouverture."
+        ]
+      },
+      {
+        "id": "avis",
+        "titre": "La réputation de Du Pain dans Les Voiles",
+        "paragraphes": [
+          "Note de 4,4 sur 5 pour 230 avis Google au relevé du 31 octobre 2026. Les avis les plus parlants sont compilés ci-dessous, avec un lien vers la fiche d'origine."
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "q": "Quels sont les horaires de Du Pain dans Les Voiles ?",
+        "r": "Au relevé du 31 octobre 2026, Du Pain dans Les Voiles était ouvert tous les jours sauf le dimanche. Dans le détail — lundi : de 7 h à 13 h 15 et de 15 h 30 à 19 h ; mardi : de 7 h à 13 h 15 et de 15 h 30 à 19 h ; mercredi : de 7 h à 13 h 15 et de 15 h 30 à 19 h ; jeudi : de 7 h à 13 h 15 et de 15 h 30 à 19 h ; vendredi : de 7 h à 13 h 15 et de 15 h 30 à 19 h ; samedi : de 7 h à 13 h et de 15 h 30 à 18 h 30 ; dimanche : fermé. Ces horaires peuvent changer : un appel préalable reste conseillé."
+      },
+      {
+        "q": "Du Pain dans Les Voiles est-il ouvert le dimanche ?",
+        "r": "Non : d'après les horaires relevés le 31 octobre 2026, Du Pain dans Les Voiles est fermé le dimanche."
+      },
+      {
+        "q": "Où se trouve Du Pain dans Les Voiles ?",
+        "r": "Du Pain dans Les Voiles se trouve 22 Pl. de l'Église, 56860 Séné. Un lien d'itinéraire est disponible sur cette page."
+      },
+      {
+        "q": "Comment contacter Du Pain dans Les Voiles ?",
+        "r": "Par téléphone au 02 97 66 90 75, ou directement sur place aux heures d'ouverture."
+      },
+      {
+        "q": "Du Pain dans Les Voiles propose-t-il la vente à emporter ou la livraison ?",
+        "r": "D'après sa fiche Google (relevé du 31 octobre 2026) — vente à emporter : oui ; livraison : non."
+      },
+      {
+        "q": "Quel est le niveau de prix de Du Pain dans Les Voiles ?",
+        "r": "Google classe Du Pain dans Les Voiles au niveau de prix € (bon marché), sur une échelle de € à €€€€ établie à partir des avis clients."
+      },
+      {
+        "q": "Du Pain dans Les Voiles est-il accessible aux personnes à mobilité réduite ?",
+        "r": "La fiche Google de l'établissement mentionne : « Entrée accessible en fauteuil roulant ». Cette information est déclarative ; en cas de doute, vérifiez par téléphone."
+      }
+    ],
+    "genere_le": "2026-10-31"
+  },
+  "statut_google": "OPERATIONAL",
+  "audience": {
+    "clics": 0,
+    "impressions": 0,
+    "position": null,
+    "fenetreJours": 90,
+    "clicsRecents": 0,
+    "fenetreRecenteJours": 28,
+    "source": "search-console",
+    "date": "2026-10-31"
+  }
+}

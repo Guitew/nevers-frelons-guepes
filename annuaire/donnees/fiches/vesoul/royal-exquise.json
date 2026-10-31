@@ -35,7 +35,7 @@
     "longitude": 6.1463632
   },
   "note": 4.2,
-  "avis": 2078,
+  "avis": 2080,
   "horaires": [
     {
       "jour": 0,
@@ -149,8 +149,8 @@
     "etat": "absent",
     "premiere_detection": null,
     "derniere_detection": null,
-    "derniere_verification": "2026-10-18T09:54:50.642Z",
-    "echecs": 63,
+    "derniere_verification": "2026-10-31T10:53:21.305Z",
+    "echecs": 64,
     "url_detectee": null
   },
   "suggestion": {
@@ -168,21 +168,33 @@
   "dates": {
     "collecte": "2026-09-01",
     "publication": "2026-09-01",
-    "maj": "2026-10-19"
+    "maj": "2026-10-31"
   },
   "source": "google-places",
   "redaction": {
     "version": 2,
     "titre": "Royal exquise — Restaurant à Vesoul",
     "meta_titre": "Royal exquise à Vesoul : horaires, avis, téléphone",
-    "meta_description": "Royal exquise, restaurant à Vesoul : horaires d'ouverture, note Google 4,2/5 (2078 avis), téléphone, adresse et itinéraire.",
-    "chapo": "Royal exquise exerce l'activité de restaurant au Rue du Petit Montmarin, à Vesoul. Ouvert sept jours sur sept au relevé du 18 octobre 2026. Téléphone : 03 84 74 38 79. Note Google : 4,2 sur 5 pour 2078 avis.",
+    "meta_description": "Royal exquise, restaurant à Vesoul : horaires d'ouverture, note Google 4,2/5 (2080 avis), téléphone, adresse et itinéraire.",
+    "chapo": "Royal exquise exerce l'activité de restaurant au Rue du Petit Montmarin, à Vesoul. Ouvert sept jours sur sept au relevé du 31 octobre 2026. Téléphone : 03 84 74 38 79. Note Google : 4,2 sur 5 pour 2080 avis.",
     "sections": [
       {
         "id": "presentation",
         "titre": "Royal exquise en quelques mots",
         "paragraphes": [
-          "D'après le relevé du 18 octobre 2026, l'établissement est ouvert sept jours sur sept. Le détail jour par jour figure plus bas."
+          "Niveau de prix indiqué sur la fiche Google : €€ (modéré).",
+          "D'après le relevé du 31 octobre 2026, l'établissement est ouvert sept jours sur sept. Le détail jour par jour figure plus bas."
+        ]
+      },
+      {
+        "id": "prestations",
+        "titre": "Services et équipements de Royal exquise",
+        "paragraphes": [
+          "Proposé : sur place, à emporter, réservation possible, déjeuner, dîner, café, bière, vin, cocktails, menu enfant, adapté aux enfants, adapté aux groupes et toilettes.",
+          "Non proposé selon la fiche Google : livraison, terrasse, petit-déjeuner, brunch, plats végétariens, retransmissions sportives, musique live et chiens acceptés.",
+          "Moyens de paiement déclarés : carte bancaire, carte de débit et paiement sans contact.",
+          "Stationnement : parking gratuit et stationnement gratuit dans la rue.",
+          "Ces indications sont déclarées par l'établissement sur sa fiche Google (relevé du 31 octobre 2026)."
         ]
       },
       {
@@ -197,25 +209,26 @@
         "id": "contact",
         "titre": "Contacter Royal exquise",
         "paragraphes": [
-          "Le contact se fait par téléphone au 03 84 74 38 79, ou directement sur place aux horaires d'ouverture."
+          "Le contact se fait par téléphone au 03 84 74 38 79, ou directement sur place aux horaires d'ouverture.",
+          "La fiche Google indique que la réservation est possible."
         ]
       },
       {
         "id": "avis",
         "titre": "La réputation de Royal exquise",
         "paragraphes": [
-          "Note de 4,2 sur 5 pour 2078 avis Google au relevé du 18 octobre 2026. Les avis se consultent sur la fiche Google, dont le lien figure sur cette page."
+          "Note de 4,2 sur 5 pour 2080 avis Google au relevé du 31 octobre 2026. Les avis les plus parlants sont compilés ci-dessous, avec un lien vers la fiche d'origine."
         ]
       }
     ],
     "faq": [
       {
         "q": "Quels sont les horaires de Royal exquise ?",
-        "r": "Au relevé du 18 octobre 2026, Royal exquise était ouvert sept jours sur sept. Dans le détail — lundi : de 11 h 45 à 14 h 30 et de 18 h 45 à 22 h 30 ; mardi : de 11 h 45 à 14 h 30 et de 18 h 45 à 22 h 30 ; mercredi : de 11 h 45 à 14 h 30 et de 18 h 45 à 22 h 30 ; jeudi : de 11 h 45 à 14 h 30 et de 18 h 45 à 22 h 30 ; vendredi : de 11 h 45 à 14 h 30 et de 18 h 45 à 22 h 30 ; samedi : de 11 h 45 à 14 h 30 et de 18 h 45 à 22 h 30 ; dimanche : de 11 h 45 à 14 h 30 et de 18 h 45 à 22 h 30. Ces horaires peuvent changer : un appel préalable reste conseillé."
+        "r": "Au relevé du 31 octobre 2026, Royal exquise était ouvert sept jours sur sept. Dans le détail — lundi : de 11 h 45 à 14 h 30 et de 18 h 45 à 22 h 30 ; mardi : de 11 h 45 à 14 h 30 et de 18 h 45 à 22 h 30 ; mercredi : de 11 h 45 à 14 h 30 et de 18 h 45 à 22 h 30 ; jeudi : de 11 h 45 à 14 h 30 et de 18 h 45 à 22 h 30 ; vendredi : de 11 h 45 à 14 h 30 et de 18 h 45 à 22 h 30 ; samedi : de 11 h 45 à 14 h 30 et de 18 h 45 à 22 h 30 ; dimanche : de 11 h 45 à 14 h 30 et de 18 h 45 à 22 h 30. Ces horaires peuvent changer : un appel préalable reste conseillé."
       },
       {
         "q": "Royal exquise est-il ouvert le dimanche ?",
-        "r": "Oui : le dimanche, Royal exquise est ouvert de 11 h 45 à 14 h 30 et de 18 h 45 à 22 h 30 (horaires relevés le 18 octobre 2026)."
+        "r": "Oui : le dimanche, Royal exquise est ouvert de 11 h 45 à 14 h 30 et de 18 h 45 à 22 h 30 (horaires relevés le 31 octobre 2026)."
       },
       {
         "q": "Où se trouve Royal exquise ?",
@@ -226,11 +239,23 @@
         "r": "Par téléphone au 03 84 74 38 79, ou directement sur place aux heures d'ouverture."
       },
       {
+        "q": "Peut-on réserver chez Royal exquise ?",
+        "r": "Oui, la fiche Google de Royal exquise indique que la réservation est possible, par téléphone au 03 84 74 38 79."
+      },
+      {
+        "q": "Royal exquise propose-t-il la vente à emporter ou la livraison ?",
+        "r": "D'après sa fiche Google (relevé du 31 octobre 2026) — vente à emporter : oui ; livraison : non."
+      },
+      {
+        "q": "Quel est le niveau de prix de Royal exquise ?",
+        "r": "Google classe Royal exquise au niveau de prix €€ (modéré), sur une échelle de € à €€€€ établie à partir des avis clients."
+      },
+      {
         "q": "Royal exquise est-il accessible aux personnes à mobilité réduite ?",
         "r": "La fiche Google de l'établissement mentionne : « Entrée accessible en fauteuil roulant ». Cette information est déclarative ; en cas de doute, vérifiez par téléphone."
       }
     ],
-    "genere_le": "2026-10-18"
+    "genere_le": "2026-10-31"
   },
   "statut_google": "OPERATIONAL",
   "audience": {
@@ -241,7 +266,7 @@
     "clicsRecents": 0,
     "fenetreRecenteJours": 28,
     "source": "search-console",
-    "date": "2026-10-30"
+    "date": "2026-10-31"
   },
   "indexation": {
     "etat": "non-indexee",
@@ -251,5 +276,91 @@
     "canonique_google": null,
     "source": "inspection",
     "date": "2026-10-19"
+  },
+  "avis_detail": {
+    "releve": "2026-10-31",
+    "liste": [
+      {
+        "note": 3,
+        "texte": "Table n°50\nChariot de débarassage juste a côté.\nTable avec 2 chaises et la banquette. Petit souci avec la hauteur de l'assise de la banquette, elle est basse, donc difficile d'être correctement installé pour un enfant.\nLes plats végétariens manquent cruellement. Pour la qualité de cuisine un ++ pour le poulet frit coréen.",
+        "langue": "fr",
+        "date": "2026-09-02",
+        "auteur": "Yellow Sucret",
+        "auteur_lien": "https://www.google.com/maps/contrib/103539372253610543179/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2tacGVGUnJYMWw0VldkSFgyaHVRMDVOZFUxcFVFRRAB!2m1!1s0x4792f28adbf0e157:0x631662a1e365f505"
+      },
+      {
+        "note": 4,
+        "texte": "Une soirée en famille dans ce restaurant\n\nLe cadre est plutôt plaisant avec une décoration sympathique, l'accueil correcte mais un peu trop \" décontracté \" ça fait un peu trop \"poto\" après peut être que je suis trop vieux jeu  :)\n\nSinon il y a vraiment beaucoup de choix que ce soit entrées , plats ou déserts (chinois ou européen) et niveau qualité j'ai trouvé assez bon .\n\nLe restaurant est propre\n\nVoila le principe du buffet plait ou non ça c'est un avis personnel au moins on n'hésite pas sur plusieurs plats on goute à tout  :)\n\nPour nous une bonne soirée en famille et c'est le principal\n\nUn plus pour le verre de saké offert à la fin :)",
+        "langue": "fr",
+        "date": "2026-05-23",
+        "auteur": "Orcam 70",
+        "auteur_lien": "https://www.google.com/maps/contrib/118328265760681087180/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25wVWNUUkhXVmQxTVdrNGMxTTVSMEZUWjFwa2VXYxAB!2m1!1s0x4792f28adbf0e157:0x631662a1e365f505"
+      },
+      {
+        "note": 5,
+        "texte": "Très bonne découverte, je suis venu manger dans ce restaurant chinois en famille et honnêtement nous avons passé un très bon moment. La patronne est vraiment très sympathique, accueillante et toujours souriante, ça fait plaisir de voir des personnes aussi gentilles avec les clients. On se sent rapidement à l’aise et bien reçu dès l’arrivée. Le restaurant est pratique pour manger sur place, les tables sont bien installées et l’ambiance reste calme et agréable. Gros point positif pour les familles : il y a des jeux pour les enfants, ce qui permet aux parents de manger plus tranquillement pendant que les petits s’occupent et s’amusent. C’est un détail mais ça change beaucoup de choses quand on vient avec des enfants.\nConcernant les plats, dans l’ensemble c’est bon, les produits sont corrects et le service reste rapide. J’ai apprécié le fait que les plats soient régulièrement remis et que l’endroit reste propre. Par contre, je trouve qu’il manque légèrement un peu plus de choix, surtout au niveau des sushis et de certains plats chauds. Certains produits proposés sont assez classiques et ressemblent à ce qu’on peut retrouver facilement dans le commerce ou à la maison, ce qui est un peu dommage quand on vient au restaurant pour découvrir davantage de spécialités. Malgré ce petit point négatif, l’expérience reste très positive dans l’ensemble. C’est un endroit convivial, pratique pour les familles et où l’on passe un bon moment. Je recommande sans problème.",
+        "langue": "fr",
+        "date": "2026-05-13",
+        "auteur": "Antoine Corsi",
+        "auteur_lien": "https://www.google.com/maps/contrib/116134459736775440584/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xwQlZXSmhjbmhsWmpFd2FGZEZNWFZ6YW1oSGJGRRAB!2m1!1s0x4792f28adbf0e157:0x631662a1e365f505"
+      },
+      {
+        "note": 5,
+        "texte": "Un super moment en famille, un large choix qui permet de satisfaire tout le monde . La nouvelle deco est magnifique,  nous sommes plongé dans un autre univers.  Déjà hâte de revenir pour goûter le reste du buffet . Les gérants sont vraiment gentils, accueillant et chaleureux, toujours le sourire.",
+        "langue": "fr",
+        "date": "2026-04-18",
+        "auteur": "Pauline Normand",
+        "auteur_lien": "https://www.google.com/maps/contrib/101298163506278013931/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUNhcHFQOENnEAE!2m1!1s0x4792f28adbf0e157:0x631662a1e365f505"
+      },
+      {
+        "note": 1,
+        "texte": "Diner A FUIR\nles buffets sont a moitié vide et ce qu'il reste est tout simplement pas mangeable. Sec froid sans aucun goût. De plus le manager ne se remet pas en question en nous certifiant que les plats étaient pleins alors qu'il y avait littéralement 80 % de vide dans le buffet. 0 geste commercial on nous traite de menteur. Je souligne quand meme que la serveuse a été compréhensive et professionnelle.",
+        "langue": "fr",
+        "date": "2026-03-18",
+        "auteur": "Cassandra Anciaux",
+        "auteur_lien": "https://www.google.com/maps/contrib/109987487646097538966/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25Jd1ZFYzNURjh3WTFNM1NVcEhSblEwV2poQlYwRRAB!2m1!1s0x4792f28adbf0e157:0x631662a1e365f505"
+      }
+    ]
+  },
+  "services": {
+    "releve": "2026-10-31",
+    "prix": "PRICE_LEVEL_MODERATE",
+    "options": {
+      "dineIn": true,
+      "takeout": true,
+      "delivery": false,
+      "reservable": true,
+      "outdoorSeating": false,
+      "servesBreakfast": false,
+      "servesBrunch": false,
+      "servesLunch": true,
+      "servesDinner": true,
+      "servesVegetarianFood": false,
+      "servesCoffee": true,
+      "servesBeer": true,
+      "servesWine": true,
+      "servesCocktails": true,
+      "menuForChildren": true,
+      "goodForChildren": true,
+      "goodForGroups": true,
+      "goodForWatchingSports": false,
+      "liveMusic": false,
+      "allowsDogs": false,
+      "restroom": true
+    },
+    "paiement": [
+      "carte bancaire",
+      "carte de débit",
+      "paiement sans contact"
+    ],
+    "parking": [
+      "parking gratuit",
+      "stationnement gratuit dans la rue"
+    ]
   }
 }

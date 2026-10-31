@@ -32,7 +32,7 @@
     "longitude": 1.2612481
   },
   "note": 4.1,
-  "avis": 295,
+  "avis": 298,
   "horaires": [
     {
       "jour": 0,
@@ -112,8 +112,8 @@
     "etat": "absent",
     "premiere_detection": null,
     "derniere_detection": null,
-    "derniere_verification": "2026-10-18T09:54:50.642Z",
-    "echecs": 11,
+    "derniere_verification": "2026-10-31T10:53:21.305Z",
+    "echecs": 12,
     "url_detectee": null
   },
   "suggestion": {
@@ -126,22 +126,31 @@
   "dates": {
     "collecte": "2026-09-30",
     "publication": "2026-09-30",
-    "maj": "2026-10-18"
+    "maj": "2026-10-31"
   },
   "source": "google-places",
   "redaction": {
     "version": 2,
     "titre": "Pharmacie Lafayette Bernardaud — Pharmacie ou opticien à Limoges",
     "meta_titre": "Pharmacie Lafayette Bernardaud à Limoges : horaires, avis",
-    "meta_description": "Pharmacie Lafayette Bernardaud, pharmacie ou opticien à Limoges : horaires d'ouverture, note Google 4,1/5 (295 avis), téléphone, adresse et itinéraire.",
-    "chapo": "Pharmacie Lafayette Bernardaud exerce l'activité de pharmacie ou opticien au 1 Place Fournier, à Limoges. Ouvert tous les jours sauf le dimanche au relevé du 18 octobre 2026. Téléphone : 05 55 34 22 77. Note Google : 4,1 sur 5 pour 295 avis.",
+    "meta_description": "Pharmacie Lafayette Bernardaud, pharmacie ou opticien à Limoges : horaires d'ouverture, note Google 4,1/5 (298 avis), téléphone, adresse et itinéraire.",
+    "chapo": "Pharmacie Lafayette Bernardaud exerce l'activité de pharmacie ou opticien au 1 Place Fournier, à Limoges. Ouvert tous les jours sauf le dimanche au relevé du 31 octobre 2026. Téléphone : 05 55 34 22 77. Note Google : 4,1 sur 5 pour 298 avis.",
     "sections": [
       {
         "id": "presentation",
         "titre": "Pharmacie Lafayette Bernardaud en quelques mots",
         "paragraphes": [
           "Sur Google, l'établissement est classé « Pharmacie », dans notre rubrique Pharmacie ou opticien.",
-          "D'après le relevé du 18 octobre 2026, l'établissement est ouvert tous les jours sauf le dimanche. Le détail jour par jour figure plus bas."
+          "D'après le relevé du 31 octobre 2026, l'établissement est ouvert tous les jours sauf le dimanche. Le détail jour par jour figure plus bas."
+        ]
+      },
+      {
+        "id": "prestations",
+        "titre": "Services et équipements de Pharmacie Lafayette Bernardaud",
+        "paragraphes": [
+          "Non proposé selon la fiche Google : retrait en voiture.",
+          "Moyens de paiement déclarés : carte bancaire, carte de débit et paiement sans contact.",
+          "Ces indications sont déclarées par l'établissement sur sa fiche Google (relevé du 31 octobre 2026)."
         ]
       },
       {
@@ -163,18 +172,18 @@
         "id": "avis",
         "titre": "La réputation de Pharmacie Lafayette Bernardaud",
         "paragraphes": [
-          "Note de 4,1 sur 5 pour 295 avis Google au relevé du 18 octobre 2026. Les avis se consultent sur la fiche Google, dont le lien figure sur cette page."
+          "Note de 4,1 sur 5 pour 298 avis Google au relevé du 31 octobre 2026. Les avis les plus parlants sont compilés ci-dessous, avec un lien vers la fiche d'origine."
         ]
       }
     ],
     "faq": [
       {
         "q": "Quels sont les horaires de Pharmacie Lafayette Bernardaud ?",
-        "r": "Au relevé du 18 octobre 2026, Pharmacie Lafayette Bernardaud était ouvert tous les jours sauf le dimanche. Dans le détail — lundi : de 9 h à 19 h ; mardi : de 9 h à 19 h ; mercredi : de 9 h à 19 h ; jeudi : de 9 h à 19 h ; vendredi : de 9 h à 19 h ; samedi : de 9 h à 19 h ; dimanche : fermé. Ces horaires peuvent changer : un appel préalable reste conseillé."
+        "r": "Au relevé du 31 octobre 2026, Pharmacie Lafayette Bernardaud était ouvert tous les jours sauf le dimanche. Dans le détail — lundi : de 9 h à 19 h ; mardi : de 9 h à 19 h ; mercredi : de 9 h à 19 h ; jeudi : de 9 h à 19 h ; vendredi : de 9 h à 19 h ; samedi : de 9 h à 19 h ; dimanche : fermé. Ces horaires peuvent changer : un appel préalable reste conseillé."
       },
       {
         "q": "Pharmacie Lafayette Bernardaud est-il ouvert le dimanche ?",
-        "r": "Non : d'après les horaires relevés le 18 octobre 2026, Pharmacie Lafayette Bernardaud est fermé le dimanche."
+        "r": "Non : d'après les horaires relevés le 31 octobre 2026, Pharmacie Lafayette Bernardaud est fermé le dimanche."
       },
       {
         "q": "Où se trouve Pharmacie Lafayette Bernardaud ?",
@@ -189,7 +198,7 @@
         "r": "La fiche Google de l'établissement mentionne : « Entrée accessible en fauteuil roulant ». Cette information est déclarative ; en cas de doute, vérifiez par téléphone."
       }
     ],
-    "genere_le": "2026-10-18"
+    "genere_le": "2026-10-31"
   },
   "statut_google": "OPERATIONAL",
   "audience": {
@@ -200,6 +209,68 @@
     "clicsRecents": 0,
     "fenetreRecenteJours": 28,
     "source": "search-console",
-    "date": "2026-10-30"
+    "date": "2026-10-31"
+  },
+  "avis_detail": {
+    "releve": "2026-10-31",
+    "liste": [
+      {
+        "note": 1,
+        "texte": "Je ne partage pas l'avis qui dit que le personnel est agréable ! Car je viens de les appeler, ils m'ont renvoyé en me disant qu'il ne donnait pas de prix par téléphone.",
+        "langue": "fr",
+        "date": "2026-08-25",
+        "auteur": "B Beal",
+        "auteur_lien": "https://www.google.com/maps/contrib/106904198357576758602/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25CbWFtaG5hVFI2VkVZM2FXNHRSM1ZvWm1scFRuYxAB!2m1!1s0x47f934bb3c9789e3:0x259b9d38e0848578"
+      },
+      {
+        "note": 1,
+        "texte": "Mon médecin traitant étant en congé, j’ai décidé de tester la téléconsultation proposée dans cette pharmacie. Rendez-vous pris à 12h30 via Doctolib.\n\nÀ mon arrivée, on m’installe face à la cabine et je suis les différentes instructions pour créer mon dossier. Je découvre alors que les délais réels sont de 40 à 60 minutes. Le rendez-vous étant déjà pris, je ne me voyais évidemment pas repartir. J’ai donc attendu 1h17, pendant ma pause déjeuner, alors que je devais reprendre le travail à 13h.\n\nLa consultation, elle, a finalement duré environ 3 minutes.\n\nLorsque je me présente ensuite au comptoir pour récupérer les médicaments prescrits, j’explique simplement à la préparatrice que j’ai attendu très longtemps et que je dois maintenant retourner travailler. Sa première réponse : « Ici, vous attendrez toujours entre 40 minutes et une heure. »\n\nTrès bien, mais il aurait été appréciable que ce délai soit clairement indiqué lors de la prise de rendez-vous sur Doctolib.\n\nJe demande alors s’il existe une autre solution pour récupérer les médicaments, éventuellement plus tard dans la journée, puisque je dois réellement repartir. La réponse que j’obtiens est pour le moins surprenante : « Il ne fallait pas venir. »\n\nC’est à ce moment-là que j’ai perdu mon calme, pour deux raisons. Premièrement, on ne s’adresse pas ainsi à un client. Deuxièmement, il faut vraiment manquer d’empathie et d’écoute pour ne pas comprendre qu’une personne qui vient d’attendre plus d’une heure n’a certainement pas choisi cette situation et n’a pas besoin d’entendre qu’elle « n’avait qu’à ne pas venir », comme si elle avait choisi d’être malade.\n\nJe précise également un point : cette demoiselle, qui est censée être dans l’accueil et l’écoute du patient, a ensuite expliqué à son collègue que j’avais dit qu’elle était lente. Ce n’est absolument pas ce que j’ai dit. J’ai simplement demandé s’il était possible de trouver une solution pour gagner du temps, compte tenu de mon obligation de retourner travailler. Il était donc inutile de me faire passer pour la cliente qui râle et critique gratuitement.\n\nContrairement à ce qui a ensuite été dit par son collègue, ce n’est pas la téléconsultation qui m’a fait hausser le ton, mais bien le manque de professionnalisme et l’attitude de cette préparatrice.\n\nJe vais donc suivre son « très bon conseil » : je ne reviendrai plus dans cette pharmacie, ni pour la parapharmacie ni pour mes médicaments.\n\nJe préfère largement une petite officine où l’on prend le temps d’écouter et de respecter les clients plutôt qu’un supermarché du médicament où l’accueil et l’empathie semblent passer au second plan.\n\nJe tiens tout de même à souligner que l’agent de sécurité, lui, a été agréable et s’est excusé pour la situation. C’est d’ailleurs le seul membre du personnel qui a eu cette attention.\n\nUne expérience particulièrement décevante, non pas à cause du principe de la téléconsultation, mais à cause de la façon dont j’ai été accueillie et considérée ensuite.",
+        "langue": "fr",
+        "date": "2026-08-21",
+        "auteur": "E-milie",
+        "auteur_lien": "https://www.google.com/maps/contrib/115331529961798302026/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT21kTlNYQXhlVEpVTjJWcU9FMUVXaTF1U2paS2JrRRAB!2m1!1s0x47f934bb3c9789e3:0x259b9d38e0848578"
+      },
+      {
+        "note": 1,
+        "texte": "Renouvellement d’ordonnance refusé, pharmacienne métisse aux cheveux bouclés, refuse le dialogue calme, refuse de reconnaître ses fautes,  parle fort pour attirer la sécurité, et pour couronner le tout, m’insulte quand je pars, devant tous les clients 👍\n\nSeul point positif, le monsieur de la sécurité est super pro et gentil",
+        "langue": "fr",
+        "date": "2026-06-11",
+        "auteur": "lucas merivaud",
+        "auteur_lien": "https://www.google.com/maps/contrib/100439515917932913608/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25GRlZrbFpUVU5KYlZkbU1IcHlPVGxJV2taVk5XYxAB!2m1!1s0x47f934bb3c9789e3:0x259b9d38e0848578"
+      },
+      {
+        "note": 5,
+        "texte": "Très large choix, prix attractifs,notamment sur l'homéopathie avec la carte de fidélité, compétence et gentillesse des Parmaciens ,Préparatrices et Préparateurs.",
+        "langue": "fr",
+        "date": "2026-03-22",
+        "auteur": "Mercedes Villar",
+        "auteur_lien": "https://www.google.com/maps/contrib/104954873661584793430/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2tOMmRUbFdSbFEwZDIxNlVGRlRjRFl6WkhKWllXYxAB!2m1!1s0x47f934bb3c9789e3:0x259b9d38e0848578"
+      },
+      {
+        "note": 1,
+        "texte": "Renouvellement d'ordonnance refusé, sous prétexte que tout a déjà été délivré, ce qui est faux. Une erreur sur une délivrance dans l'année, où l'on m'avait assuré qu'il n'y aurait pas de problème. On me demande de payer, qu'ici, je cite, on ne fait pas d'avance. On ne cherche pas à comprendre. En prime, la carte de fidélité pas passée pour mes autres achats du jour. Pas de merci ni de au revoir. À croire que l'on a pas le droit de s'exprimer. La politesse est oublié. Bref, à fuir !",
+        "langue": "fr",
+        "date": "2026-03-08",
+        "auteur": "Laurent Bouhet",
+        "auteur_lien": "https://www.google.com/maps/contrib/109017275367445352102/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25ndGVFNVJRbll4TjNCMVlsRklNR3R3TkhCb1IzYxAB!2m1!1s0x47f934bb3c9789e3:0x259b9d38e0848578"
+      }
+    ]
+  },
+  "services": {
+    "releve": "2026-10-31",
+    "options": {
+      "curbsidePickup": false
+    },
+    "paiement": [
+      "carte bancaire",
+      "carte de débit",
+      "paiement sans contact"
+    ],
+    "parking": []
   }
 }

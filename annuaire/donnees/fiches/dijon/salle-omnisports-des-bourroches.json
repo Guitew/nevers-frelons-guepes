@@ -1,0 +1,176 @@
+{
+  "id": "ChIJAblha6-d8kcRWOVlFMJns3Y",
+  "slug": "salle-omnisports-des-bourroches",
+  "nom": "Salle Omnisports des Bourroches",
+  "categorie": "loisirs-sport-culture",
+  "categorie_gmb": "Complexe sportif",
+  "type_principal": "sports_complex",
+  "types": [
+    "sports_complex",
+    "gym",
+    "sports_activity_location",
+    "health",
+    "point_of_interest",
+    "establishment"
+  ],
+  "ville": "Dijon",
+  "ville_slug": "dijon",
+  "adresse": {
+    "rue": "Boulevard Eugène Fyot",
+    "code_postal": "21000",
+    "departement": "21",
+    "region": "Bourgogne-Franche-Comté",
+    "pays": "France",
+    "complete": "Bd Eugène Fyot, 21000 Dijon"
+  },
+  "telephone": "03 80 56 18 91",
+  "geo": {
+    "latitude": 47.3090633,
+    "longitude": 5.0147603
+  },
+  "note": 3.9,
+  "avis": 120,
+  "horaires": null,
+  "attributs": [
+    "Entrée accessible en fauteuil roulant",
+    "Parking accessible en fauteuil roulant"
+  ],
+  "lien_google": "https://maps.google.com/?cid=8553294200570242392&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
+  "site_web_gmb": null,
+  "statut": "publiee",
+  "backlink": {
+    "etat": "absent",
+    "premiere_detection": null,
+    "derniere_detection": null,
+    "derniere_verification": "2026-10-31T10:53:21.305Z",
+    "echecs": 1,
+    "url_detectee": null
+  },
+  "suggestion": {
+    "etat": "en-attente",
+    "date_soumission": null,
+    "tentatives": 0,
+    "date_email": "2026-10-31"
+  },
+  "retrait": null,
+  "dates": {
+    "collecte": "2026-10-31",
+    "publication": "2026-10-31",
+    "maj": "2026-10-31"
+  },
+  "source": "google-places",
+  "avis_detail": {
+    "releve": "2026-10-31",
+    "liste": [
+      {
+        "note": 4,
+        "texte": "Belle salle multisports avec pas mal de tribune présence de WC ( plus ou moins propre ) un escalier de chaque côté pour accéder au tribune",
+        "langue": "fr",
+        "date": "2023-11-02",
+        "auteur": "laurent Ponsard",
+        "auteur_lien": "https://www.google.com/maps/contrib/100730759378660126788/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUNGcV96OE5REAE!2m1!1s0x47f29daf6b61b901:0x76b367c21465e558"
+      },
+      {
+        "note": 3,
+        "texte": "Grande salle très lumineuse, avec des gradins surélevés. Le reste de l'infrastructure mériterait d'être un peu remise en état en plus d'être froide et en courant d'air. Ça reste cependant une belle salle.",
+        "langue": "fr",
+        "date": "2022-11-19",
+        "auteur": "David VH",
+        "auteur_lien": "https://www.google.com/maps/contrib/115819870372951364481/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUQtaUktR193RRAB!2m1!1s0x47f29daf6b61b901:0x76b367c21465e558"
+      },
+      {
+        "note": 5,
+        "texte": "C'était de beaux matchs de roller derby .",
+        "langue": "fr",
+        "date": "2018-09-29",
+        "auteur": "Tiph Aine",
+        "auteur_lien": "https://www.google.com/maps/contrib/108751800425202153371/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSURBemUtRm5BRRAB!2m1!1s0x47f29daf6b61b901:0x76b367c21465e558"
+      },
+      {
+        "note": 4,
+        "texte": "Un gymnase correcte ayant déjà pas mal vécu mais qui offre une belle hauteur sous le plafond avec de nombreux gradins. Le revêtement en parquet rend agréable la pratique sportive.\nPar contre, il ne possède pas de parking à proprement dit et les sanitaires sont vraiment déplorable sinon ce n'est pas si mal",
+        "langue": "fr",
+        "date": "2017-12-28",
+        "auteur": "Ré My",
+        "auteur_lien": "https://www.google.com/maps/contrib/105175474050361087791/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSURnaDlXaUFnEAE!2m1!1s0x47f29daf6b61b901:0x76b367c21465e558"
+      },
+      {
+        "note": 4,
+        "texte": "Bon gymnase de quartier, bien chauffé avec une tribune qui offre une bonne vue sur les terrains. Il y'a également une salle de boxe bien équipée.",
+        "langue": "fr",
+        "date": "2017-11-21",
+        "auteur": "Paul-Adrien Mathon",
+        "auteur_lien": "https://www.google.com/maps/contrib/110495491997363280873/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUNRd015TkVBEAE!2m1!1s0x47f29daf6b61b901:0x76b367c21465e558"
+      }
+    ]
+  },
+  "redaction": {
+    "version": 2,
+    "titre": "Salle Omnisports des Bourroches — Loisirs, sport et culture à Dijon",
+    "meta_titre": "Salle Omnisports des Bourroches à Dijon : avis, téléphone",
+    "meta_description": "Salle Omnisports des Bourroches, loisirs, sport et culture à Dijon : note Google 3,9/5 (120 avis), téléphone, adresse et itinéraire.",
+    "chapo": "Cette fiche présente Salle Omnisports des Bourroches, un loisirs, sport et culture au Boulevard Eugène Fyot, à Dijon. Téléphone : 03 80 56 18 91. Note Google : 3,9 sur 5 pour 120 avis.",
+    "sections": [
+      {
+        "id": "presentation",
+        "titre": "Salle Omnisports des Bourroches en quelques mots",
+        "paragraphes": [
+          "Sur Google, l'établissement est classé « Complexe sportif », dans notre rubrique Loisirs, sport et culture."
+        ]
+      },
+      {
+        "id": "acces",
+        "titre": "Adresse et accès",
+        "paragraphes": [
+          "L'établissement est situé au Boulevard Eugène Fyot, 21000 Dijon.",
+          "Coordonnées GPS : 47.30906, 5.01476. Le bouton Itinéraire de cette page ouvre la navigation."
+        ]
+      },
+      {
+        "id": "contact",
+        "titre": "Contacter Salle Omnisports des Bourroches",
+        "paragraphes": [
+          "Le contact se fait par téléphone au 03 80 56 18 91, ou directement sur place aux horaires d'ouverture."
+        ]
+      },
+      {
+        "id": "avis",
+        "titre": "La réputation de Salle Omnisports des Bourroches",
+        "paragraphes": [
+          "Note de 3,9 sur 5 pour 120 avis Google au relevé du 31 octobre 2026. Les avis les plus parlants sont compilés ci-dessous, avec un lien vers la fiche d'origine."
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "q": "Où se trouve Salle Omnisports des Bourroches ?",
+        "r": "Salle Omnisports des Bourroches se trouve Bd Eugène Fyot, 21000 Dijon. Un lien d'itinéraire est disponible sur cette page."
+      },
+      {
+        "q": "Comment contacter Salle Omnisports des Bourroches ?",
+        "r": "Par téléphone au 03 80 56 18 91, ou directement sur place aux heures d'ouverture."
+      },
+      {
+        "q": "Salle Omnisports des Bourroches est-il accessible aux personnes à mobilité réduite ?",
+        "r": "La fiche Google de l'établissement mentionne : « Entrée accessible en fauteuil roulant ». Cette information est déclarative ; en cas de doute, vérifiez par téléphone."
+      }
+    ],
+    "genere_le": "2026-10-31"
+  },
+  "statut_google": "OPERATIONAL",
+  "audience": {
+    "clics": 0,
+    "impressions": 0,
+    "position": null,
+    "fenetreJours": 90,
+    "clicsRecents": 0,
+    "fenetreRecenteJours": 28,
+    "source": "search-console",
+    "date": "2026-10-31"
+  }
+}

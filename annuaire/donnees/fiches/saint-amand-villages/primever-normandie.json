@@ -41,8 +41,8 @@
     "etat": "absent",
     "premiere_detection": null,
     "derniere_detection": null,
-    "derniere_verification": "2026-10-18T09:54:50.642Z",
-    "echecs": 61,
+    "derniere_verification": "2026-10-31T10:53:21.305Z",
+    "echecs": 62,
     "url_detectee": null
   },
   "suggestion": {
@@ -62,7 +62,7 @@
   "dates": {
     "collecte": "2026-09-03",
     "publication": "2026-09-03",
-    "maj": "2026-10-18"
+    "maj": "2026-10-31"
   },
   "source": "google-places",
   "redaction": {
@@ -77,6 +77,14 @@
         "titre": "Primever Normandie en quelques mots",
         "paragraphes": [
           "Sur Google, l'établissement est classé « Entreprise de déménagement », dans notre rubrique Transport et déménagement."
+        ]
+      },
+      {
+        "id": "prestations",
+        "titre": "Services et équipements de Primever Normandie",
+        "paragraphes": [
+          "Proposé : toilettes.",
+          "Ces indications sont déclarées par l'établissement sur sa fiche Google (relevé du 31 octobre 2026)."
         ]
       },
       {
@@ -98,7 +106,7 @@
         "id": "avis",
         "titre": "La réputation de Primever Normandie",
         "paragraphes": [
-          "Note de 4,2 sur 5 pour 70 avis Google au relevé du 18 octobre 2026. Les avis se consultent sur la fiche Google, dont le lien figure sur cette page."
+          "Note de 4,2 sur 5 pour 70 avis Google au relevé du 31 octobre 2026. Les avis les plus parlants sont compilés ci-dessous, avec un lien vers la fiche d'origine."
         ]
       }
     ],
@@ -116,7 +124,7 @@
         "r": "La fiche Google de l'établissement mentionne : « Parking accessible en fauteuil roulant ». Cette information est déclarative ; en cas de doute, vérifiez par téléphone."
       }
     ],
-    "genere_le": "2026-10-18"
+    "genere_le": "2026-10-31"
   },
   "statut_google": "OPERATIONAL",
   "audience": {
@@ -127,7 +135,7 @@
     "clicsRecents": 0,
     "fenetreRecenteJours": 28,
     "source": "search-console",
-    "date": "2026-10-30"
+    "date": "2026-10-31"
   },
   "indexation": {
     "etat": "non-indexee",
@@ -137,5 +145,63 @@
     "canonique_google": null,
     "source": "inspection",
     "date": "2026-10-18"
+  },
+  "avis_detail": {
+    "releve": "2026-10-31",
+    "liste": [
+      {
+        "note": 5,
+        "texte": "Bonne entreprise, accès facile et chargement rapide",
+        "langue": "fr",
+        "date": "2025-01-16",
+        "auteur": "Eric Bazebizonza",
+        "auteur_lien": "https://www.google.com/maps/contrib/109801747033787854995/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUNfd2MyMUJBEAE!2m1!1s0x480bbf656f3c5a5b:0x5b37891ba15bb7bd"
+      },
+      {
+        "note": 5,
+        "texte": "Personnel très sympathique",
+        "langue": "fr",
+        "date": "2023-12-14",
+        "auteur": "Snt",
+        "auteur_lien": "https://www.google.com/maps/contrib/113604041723565016517/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSURWbGFTVEp3EAE!2m1!1s0x480bbf656f3c5a5b:0x5b37891ba15bb7bd"
+      },
+      {
+        "note": 4,
+        "texte": "Facile d accès chargé rapidement.bonne adresse.",
+        "langue": "fr",
+        "date": "2022-07-30",
+        "auteur": "Marc Beaume",
+        "auteur_lien": "https://www.google.com/maps/contrib/108428512929598256307/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUN1d2JtWDN3RRAB!2m1!1s0x480bbf656f3c5a5b:0x5b37891ba15bb7bd"
+      },
+      {
+        "note": 5,
+        "texte": "Des gens sympathiques disponibles avec une vraie mentalité du transport service. Encore un grand merci du Bordelais Satar Marmande",
+        "langue": "fr",
+        "date": "2021-05-06",
+        "auteur": "Philippe Brisset",
+        "auteur_lien": "https://www.google.com/maps/contrib/107339813226207607561/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSURLc29DSDhRRRAB!2m1!1s0x480bbf656f3c5a5b:0x5b37891ba15bb7bd"
+      },
+      {
+        "note": 4,
+        "texte": "Ambiance très sympa personnelle très agréable",
+        "langue": "fr",
+        "date": "2017-11-16",
+        "auteur": "Patrick Covex",
+        "auteur_lien": "https://www.google.com/maps/contrib/102297151841319109935/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSURReGRicHlnRRAB!2m1!1s0x480bbf656f3c5a5b:0x5b37891ba15bb7bd"
+      }
+    ]
+  },
+  "services": {
+    "releve": "2026-10-31",
+    "options": {
+      "restroom": true
+    },
+    "paiement": [],
+    "parking": []
   }
 }

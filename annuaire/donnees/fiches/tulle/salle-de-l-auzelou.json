@@ -40,8 +40,8 @@
     "etat": "absent",
     "premiere_detection": null,
     "derniere_detection": null,
-    "derniere_verification": "2026-10-18T09:54:50.642Z",
-    "echecs": 7,
+    "derniere_verification": "2026-10-31T10:53:21.305Z",
+    "echecs": 8,
     "url_detectee": null
   },
   "suggestion": {
@@ -54,7 +54,7 @@
   "dates": {
     "collecte": "2026-10-04",
     "publication": "2026-10-04",
-    "maj": "2026-10-18"
+    "maj": "2026-10-31"
   },
   "source": "google-places",
   "redaction": {
@@ -69,6 +69,15 @@
         "titre": "Salle de l'Auzelou en quelques mots",
         "paragraphes": [
           "Sur Google, l'établissement est classé « Hôtel », dans notre rubrique Hébergement."
+        ]
+      },
+      {
+        "id": "prestations",
+        "titre": "Services et équipements de Salle de l'Auzelou",
+        "paragraphes": [
+          "Proposé : adapté aux enfants.",
+          "Non proposé selon la fiche Google : livraison.",
+          "Ces indications sont déclarées par l'établissement sur sa fiche Google (relevé du 31 octobre 2026)."
         ]
       },
       {
@@ -90,7 +99,7 @@
         "id": "avis",
         "titre": "La réputation de Salle de l'Auzelou",
         "paragraphes": [
-          "Note de 4,3 sur 5 pour 311 avis Google au relevé du 18 octobre 2026. Les avis se consultent sur la fiche Google, dont le lien figure sur cette page."
+          "Note de 4,3 sur 5 pour 311 avis Google au relevé du 31 octobre 2026. Les avis les plus parlants sont compilés ci-dessous, avec un lien vers la fiche d'origine."
         ]
       }
     ],
@@ -104,11 +113,15 @@
         "r": "Par téléphone au 05 44 40 69 50, ou directement sur place aux heures d'ouverture."
       },
       {
+        "q": "Salle de l'Auzelou propose-t-il la vente à emporter ou la livraison ?",
+        "r": "D'après sa fiche Google (relevé du 31 octobre 2026) — livraison : non."
+      },
+      {
         "q": "Salle de l'Auzelou est-il accessible aux personnes à mobilité réduite ?",
         "r": "La fiche Google de l'établissement mentionne : « Entrée accessible en fauteuil roulant ». Cette information est déclarative ; en cas de doute, vérifiez par téléphone."
       }
     ],
-    "genere_le": "2026-10-18"
+    "genere_le": "2026-10-31"
   },
   "statut_google": "OPERATIONAL",
   "audience": {
@@ -119,6 +132,65 @@
     "clicsRecents": 0,
     "fenetreRecenteJours": 28,
     "source": "search-console",
-    "date": "2026-10-30"
+    "date": "2026-10-31"
+  },
+  "avis_detail": {
+    "releve": "2026-10-31",
+    "liste": [
+      {
+        "note": 3,
+        "texte": "Très belle et grande salle de spectacle, bien que j'ai assisté à une séance annuelle de démonstrations de capoeira. L'énorme point noir reste vraiment l'absence de climatisation, alors que la salle est loin d'être ancienne et vétuste. Je transpirais à grosses gouttes à l'intérieur.",
+        "langue": "fr",
+        "date": "2026-07-08",
+        "auteur": "Franck",
+        "auteur_lien": "https://www.google.com/maps/contrib/116740301391543451631/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2tSNVprWnlVWFIwTm1oVFpFUk5hWHBDZFRaWmFXYxAB!2m1!1s0x47f88b4c914bc1bb:0xe76bd36e95cb3043"
+      },
+      {
+        "note": 5,
+        "texte": "Belle et grande salle mais pas de climatisation....concert chant choral en période de canicule un peu dur, pour les choristes et musiciens et pour le public. Mais établissement bien conçu et structuré avec des loges, une salle dans les coulisses, un accès matériel avec un quai de déchargement..  et une magnifique terrasse.....",
+        "langue": "fr",
+        "date": "2026-07-05",
+        "auteur": "Brigitte Boisset",
+        "auteur_lien": "https://www.google.com/maps/contrib/113027925249283427384/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2pWUlMwNTVTMDVsTVZaVVNtRjJUVEp1VlVwMmEyYxAB!2m1!1s0x47f88b4c914bc1bb:0xe76bd36e95cb3043"
+      },
+      {
+        "note": 5,
+        "texte": "Salle agréable, spacieuse et pratique, qui dispose d'un vaste parking.",
+        "langue": "fr",
+        "date": "2026-06-18",
+        "auteur": "Jean-François FAGEOL",
+        "auteur_lien": "https://www.google.com/maps/contrib/118010791303892400018/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25WZk9GcGZNRmQwUjFjd1QzQTFlVzFrUWxka05uYxAB!2m1!1s0x47f88b4c914bc1bb:0xe76bd36e95cb3043"
+      },
+      {
+        "note": 2,
+        "texte": "Je ne comprends pas qu’il n’y est pas de Clim dans cette salle polyvalente, qui est quand même récente .. samedi nous étions au moins 600 personnes pour un spectacle c’était intenable..",
+        "langue": "fr",
+        "date": "2025-06-29",
+        "auteur": "marion nadiras",
+        "auteur_lien": "https://www.google.com/maps/contrib/117687152195636202695/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2pCUk5tcHVWMTk1WkhnMlIzTjFOVnBVZFRWUWVXYxAB!2m1!1s0x47f88b4c914bc1bb:0xe76bd36e95cb3043"
+      },
+      {
+        "note": 3,
+        "texte": "Salle de spectacle assez grande, bonne sonorisation et lumières. Par contre, pas de climatisation, pour une salle récente, c'est dommage. Par temps chaud, prévoir de l'eau,    un brumisateur ou un éventail pour supporter la chaleur. Les gradins ne sont pas bien adaptés aux personnes de grandes tailles : espace étroit pour mettre ses jambes. Bien : l'accessibilité aux personnes à mobilité réduite avec une grande rampe.",
+        "langue": "fr",
+        "date": "2022-06-19",
+        "auteur": "Kristelle “KT19” TOUZELET",
+        "auteur_lien": "https://www.google.com/maps/contrib/116536445246983128048/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUNPczhHZWxRRRAB!2m1!1s0x47f88b4c914bc1bb:0xe76bd36e95cb3043"
+      }
+    ]
+  },
+  "services": {
+    "releve": "2026-10-31",
+    "options": {
+      "delivery": false,
+      "goodForChildren": true
+    },
+    "paiement": [],
+    "parking": []
   }
 }

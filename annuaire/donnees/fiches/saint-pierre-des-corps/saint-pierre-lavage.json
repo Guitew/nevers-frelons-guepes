@@ -78,8 +78,8 @@
     "etat": "absent",
     "premiere_detection": null,
     "derniere_detection": null,
-    "derniere_verification": "2026-10-18T09:54:50.642Z",
-    "echecs": 27,
+    "derniere_verification": "2026-10-31T10:53:21.305Z",
+    "echecs": 28,
     "url_detectee": null
   },
   "suggestion": {
@@ -92,7 +92,7 @@
   "dates": {
     "collecte": "2026-09-19",
     "publication": "2026-09-19",
-    "maj": "2026-10-18"
+    "maj": "2026-10-31"
   },
   "source": "google-places",
   "redaction": {
@@ -100,14 +100,22 @@
     "titre": "Saint-Pierre lavage — Garage et automobile à Saint-Pierre-des-Corps",
     "meta_titre": "Saint-Pierre lavage : horaires, avis, téléphone",
     "meta_description": "Saint-Pierre lavage, garage et automobile à Saint-Pierre-des-Corps : horaires d'ouverture, note Google 3,9/5 (87 avis), téléphone, adresse et itinéraire.",
-    "chapo": "Saint-Pierre lavage exerce l'activité de garage et automobile au 79 -93 Rue des Ateliers, à Saint-Pierre-des-Corps. Ouvert le dimanche au relevé du 18 octobre 2026. Téléphone : 07 61 29 69 44. Note Google : 3,9 sur 5 pour 87 avis.",
+    "chapo": "Saint-Pierre lavage exerce l'activité de garage et automobile au 79 -93 Rue des Ateliers, à Saint-Pierre-des-Corps. Ouvert le dimanche au relevé du 31 octobre 2026. Téléphone : 07 61 29 69 44. Note Google : 3,9 sur 5 pour 87 avis.",
     "sections": [
       {
         "id": "presentation",
         "titre": "Saint-Pierre lavage en quelques mots",
         "paragraphes": [
           "Sur Google, l'établissement est classé « Station de lavage automobile », dans notre rubrique Garage et automobile.",
-          "D'après le relevé du 18 octobre 2026, l'établissement est ouvert le dimanche. Le détail jour par jour figure plus bas."
+          "D'après le relevé du 31 octobre 2026, l'établissement est ouvert le dimanche. Le détail jour par jour figure plus bas."
+        ]
+      },
+      {
+        "id": "prestations",
+        "titre": "Services et équipements de Saint-Pierre lavage",
+        "paragraphes": [
+          "Moyens de paiement déclarés : carte bancaire, carte de débit et paiement sans contact.",
+          "Ces indications sont déclarées par l'établissement sur sa fiche Google (relevé du 31 octobre 2026)."
         ]
       },
       {
@@ -129,18 +137,18 @@
         "id": "avis",
         "titre": "La réputation de Saint-Pierre lavage",
         "paragraphes": [
-          "Note de 3,9 sur 5 pour 87 avis Google au relevé du 18 octobre 2026. Les avis se consultent sur la fiche Google, dont le lien figure sur cette page."
+          "Note de 3,9 sur 5 pour 87 avis Google au relevé du 31 octobre 2026. Les avis les plus parlants sont compilés ci-dessous, avec un lien vers la fiche d'origine."
         ]
       }
     ],
     "faq": [
       {
         "q": "Quels sont les horaires de Saint-Pierre lavage ?",
-        "r": "Au relevé du 18 octobre 2026, Saint-Pierre lavage était ouvert le dimanche. Dans le détail — lundi : fermé ; mardi : fermé ; mercredi : fermé ; jeudi : fermé ; vendredi : fermé ; samedi : fermé ; dimanche : de 0 h à 23 h 59. Ces horaires peuvent changer : un appel préalable reste conseillé."
+        "r": "Au relevé du 31 octobre 2026, Saint-Pierre lavage était ouvert le dimanche. Dans le détail — lundi : fermé ; mardi : fermé ; mercredi : fermé ; jeudi : fermé ; vendredi : fermé ; samedi : fermé ; dimanche : de 0 h à 23 h 59. Ces horaires peuvent changer : un appel préalable reste conseillé."
       },
       {
         "q": "Saint-Pierre lavage est-il ouvert le dimanche ?",
-        "r": "Oui : le dimanche, Saint-Pierre lavage est ouvert de 0 h à 23 h 59 (horaires relevés le 18 octobre 2026)."
+        "r": "Oui : le dimanche, Saint-Pierre lavage est ouvert de 0 h à 23 h 59 (horaires relevés le 31 octobre 2026)."
       },
       {
         "q": "Où se trouve Saint-Pierre lavage ?",
@@ -151,7 +159,7 @@
         "r": "Par téléphone au 07 61 29 69 44, ou directement sur place aux heures d'ouverture."
       }
     ],
-    "genere_le": "2026-10-18"
+    "genere_le": "2026-10-31"
   },
   "statut_google": "OPERATIONAL",
   "audience": {
@@ -162,7 +170,7 @@
     "clicsRecents": 0,
     "fenetreRecenteJours": 28,
     "source": "search-console",
-    "date": "2026-10-30"
+    "date": "2026-10-31"
   },
   "indexation": {
     "etat": "non-indexee",
@@ -171,6 +179,66 @@
     "derniere_exploration": null,
     "canonique_google": null,
     "source": "inspection",
-    "date": "2026-10-30"
+    "date": "2026-10-31"
+  },
+  "avis_detail": {
+    "releve": "2026-10-31",
+    "liste": [
+      {
+        "note": 5,
+        "texte": "Très bon service pour la part de 2 messieurs qui me sont aide à faire tout",
+        "langue": "fr",
+        "date": "2026-05-30",
+        "auteur": "Abel Cepero Tamayo",
+        "auteur_lien": "https://www.google.com/maps/contrib/105263455503103365935/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25kNmMxUm9TWHBDTjNkMlYxQTFaemRuTWxaclJuYxAB!2m1!1s0x47fcd583a98a2721:0x4a27e8d34d6ff66d"
+      },
+      {
+        "note": 1,
+        "texte": "J’ai payé 14€ pour un lavage qui n’a clairement pas fait son travail. ma voiture est ressortie avec des taches et de la poussière, comme si elle n’avait presque pas été lavée.\n\nEn plus, j’ai utilisé l’aspirateur à 3€, mais il est très peu puissant et n’a pas permis de nettoyer correctement l’intérieur du véhicule.\n\nAu vu du prix et du résultat, je ne recommande pas cet endroit et je n’y reviendrai pas",
+        "langue": "fr",
+        "date": "2026-03-21",
+        "auteur": "Omaïma Z",
+        "auteur_lien": "https://www.google.com/maps/contrib/114155105341949426625/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xRNFJYZHlkRVIyYVRKUFF6VnlUelJzYURGSFRVRRAB!2m1!1s0x47fcd583a98a2721:0x4a27e8d34d6ff66d"
+      },
+      {
+        "note": 5,
+        "texte": "Rapide, efficace. Bon rapport qualité/prix. Et le responsable m a proposé un café et une chaise, avec le sourire.  Délicates  attentions qui font d autant plus plaisir qu elles sont rares aujourd'hui.  Mille mercis à lui.",
+        "langue": "fr",
+        "date": "2026-03-18",
+        "auteur": "Kat U",
+        "auteur_lien": "https://www.google.com/maps/contrib/116371746268913890880/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2s1Tk9ETm9RVnBaUkhvMFpYUTVNM05zVkhwTWRIYxAB!2m1!1s0x47fcd583a98a2721:0x4a27e8d34d6ff66d"
+      },
+      {
+        "note": 2,
+        "texte": "Le lavage automatique à la brosse est très peu efficace: même en payant le programme 4 à 14€, le lavage ne commence pas par un balayage haute pression : c’est directement le brossage, sans lavage préalable. Du coup, les crottes de pigeon ne sont pas du tout nettoyées, voir photo jointe.",
+        "langue": "fr",
+        "date": "2025-07-16",
+        "auteur": "jean-françois pont",
+        "auteur_lien": "https://www.google.com/maps/contrib/104486071033022885183/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2tzME9EUmxVbVZQVHpneFh6WkZkM2xVWm5jd1FuYxAB!2m1!1s0x47fcd583a98a2721:0x4a27e8d34d6ff66d"
+      },
+      {
+        "note": 3,
+        "texte": "Dommage j'ai contacté le service client via email ou même appeler, j'ai pas eu de réponse car il y a un aspirateur en défaut.\nAu moins un geste commercial, sinon le point positif c'est que c'est assez grand comme station et leur matériel sont assez bonne gamme. Le prix' est dans la moyenne des autres stations .\nDommage qu'il y a pas un service technique le dimanche, c'est là où il y a plus de monde.",
+        "langue": "fr",
+        "date": "2025-03-02",
+        "auteur": "IIbyakuyaII",
+        "auteur_lien": "https://www.google.com/maps/contrib/106826008703163020338/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnTUNRak1Ib1dnEAE!2m1!1s0x47fcd583a98a2721:0x4a27e8d34d6ff66d"
+      }
+    ]
+  },
+  "services": {
+    "releve": "2026-10-31",
+    "options": {},
+    "paiement": [
+      "carte bancaire",
+      "carte de débit",
+      "paiement sans contact"
+    ],
+    "parking": []
   }
 }

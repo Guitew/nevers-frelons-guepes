@@ -30,7 +30,7 @@
     "longitude": 0.6738094
   },
   "note": 4.2,
-  "avis": 501,
+  "avis": 504,
   "horaires": [
     {
       "jour": 0,
@@ -114,8 +114,8 @@
     "etat": "absent",
     "premiere_detection": null,
     "derniere_detection": null,
-    "derniere_verification": "2026-10-18T09:54:50.642Z",
-    "echecs": 13,
+    "derniere_verification": "2026-10-31T10:53:21.305Z",
+    "echecs": 14,
     "url_detectee": null
   },
   "suggestion": {
@@ -128,22 +128,32 @@
   "dates": {
     "collecte": "2026-09-28",
     "publication": "2026-09-28",
-    "maj": "2026-10-18"
+    "maj": "2026-10-31"
   },
   "source": "google-places",
   "redaction": {
     "version": 2,
     "titre": "Proxi Super — Commerce d'alimentation à Tours",
     "meta_titre": "Proxi Super à Tours : horaires, avis, téléphone",
-    "meta_description": "Proxi Super, commerce d'alimentation à Tours : horaires d'ouverture, note Google 4,2/5 (501 avis), téléphone, adresse et itinéraire.",
-    "chapo": "Cette fiche présente Proxi Super, un commerce d'alimentation au 33-35 Rue Léon Boyer, à Tours. Ouvert sept jours sur sept au relevé du 18 octobre 2026. Téléphone : 02 47 37 57 51. Note Google : 4,2 sur 5 pour 501 avis.",
+    "meta_description": "Proxi Super, commerce d'alimentation à Tours : horaires d'ouverture, note Google 4,2/5 (504 avis), téléphone, adresse et itinéraire.",
+    "chapo": "Cette fiche présente Proxi Super, un commerce d'alimentation au 33-35 Rue Léon Boyer, à Tours. Ouvert sept jours sur sept au relevé du 31 octobre 2026. Téléphone : 02 47 37 57 51. Note Google : 4,2 sur 5 pour 504 avis.",
     "sections": [
       {
         "id": "presentation",
         "titre": "Proxi Super en quelques mots",
         "paragraphes": [
           "Sur Google, l'établissement est classé « Supermarché », dans notre rubrique Commerce d'alimentation.",
-          "D'après le relevé du 18 octobre 2026, l'établissement est ouvert sept jours sur sept. Le détail jour par jour figure plus bas."
+          "D'après le relevé du 31 octobre 2026, l'établissement est ouvert sept jours sur sept. Le détail jour par jour figure plus bas."
+        ]
+      },
+      {
+        "id": "prestations",
+        "titre": "Services et équipements de Proxi Super",
+        "paragraphes": [
+          "Proposé : livraison.",
+          "Non proposé selon la fiche Google : toilettes.",
+          "Moyens de paiement déclarés : carte bancaire, carte de débit et paiement sans contact.",
+          "Ces indications sont déclarées par l'établissement sur sa fiche Google (relevé du 31 octobre 2026)."
         ]
       },
       {
@@ -165,18 +175,18 @@
         "id": "avis",
         "titre": "La réputation de Proxi Super",
         "paragraphes": [
-          "Note de 4,2 sur 5 pour 501 avis Google au relevé du 18 octobre 2026. Les avis se consultent sur la fiche Google, dont le lien figure sur cette page."
+          "Note de 4,2 sur 5 pour 504 avis Google au relevé du 31 octobre 2026. Les avis les plus parlants sont compilés ci-dessous, avec un lien vers la fiche d'origine."
         ]
       }
     ],
     "faq": [
       {
         "q": "Quels sont les horaires de Proxi Super ?",
-        "r": "Au relevé du 18 octobre 2026, Proxi Super était ouvert sept jours sur sept. Dans le détail — lundi : de 8 h à 23 h ; mardi : de 8 h à 23 h ; mercredi : de 8 h à 23 h ; jeudi : de 8 h à 23 h ; vendredi : de 8 h à 23 h ; samedi : de 8 h à 23 h ; dimanche : de 8 h à 23 h. Ces horaires peuvent changer : un appel préalable reste conseillé."
+        "r": "Au relevé du 31 octobre 2026, Proxi Super était ouvert sept jours sur sept. Dans le détail — lundi : de 8 h à 23 h ; mardi : de 8 h à 23 h ; mercredi : de 8 h à 23 h ; jeudi : de 8 h à 23 h ; vendredi : de 8 h à 23 h ; samedi : de 8 h à 23 h ; dimanche : de 8 h à 23 h. Ces horaires peuvent changer : un appel préalable reste conseillé."
       },
       {
         "q": "Proxi Super est-il ouvert le dimanche ?",
-        "r": "Oui : le dimanche, Proxi Super est ouvert de 8 h à 23 h (horaires relevés le 18 octobre 2026)."
+        "r": "Oui : le dimanche, Proxi Super est ouvert de 8 h à 23 h (horaires relevés le 31 octobre 2026)."
       },
       {
         "q": "Où se trouve Proxi Super ?",
@@ -187,11 +197,15 @@
         "r": "Par téléphone au 02 47 37 57 51, ou directement sur place aux heures d'ouverture."
       },
       {
+        "q": "Proxi Super propose-t-il la vente à emporter ou la livraison ?",
+        "r": "D'après sa fiche Google (relevé du 31 octobre 2026) — livraison : oui."
+      },
+      {
         "q": "Proxi Super est-il accessible aux personnes à mobilité réduite ?",
         "r": "La fiche Google de l'établissement mentionne : « Entrée accessible en fauteuil roulant ». Cette information est déclarative ; en cas de doute, vérifiez par téléphone."
       }
     ],
-    "genere_le": "2026-10-18"
+    "genere_le": "2026-10-31"
   },
   "statut_google": "OPERATIONAL",
   "audience": {
@@ -202,6 +216,69 @@
     "clicsRecents": 0,
     "fenetreRecenteJours": 28,
     "source": "search-console",
-    "date": "2026-10-30"
+    "date": "2026-10-31"
+  },
+  "avis_detail": {
+    "releve": "2026-10-31",
+    "liste": [
+      {
+        "note": 5,
+        "texte": "J’ai eu une super expérience aujourd’hui! Je suis arrivé avec plus de 100 colis mondial relay, dont certain très très encombrant. L monsieur a était d’une amabilité et d’une patience particulière et mes colis sont partis le jour même. Merci beaucoup!!",
+        "langue": "fr",
+        "date": "2026-08-29",
+        "auteur": "Louis Walusinski",
+        "auteur_lien": "https://www.google.com/maps/contrib/102456609890424488920/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25aeVdYQXRVbFZ2T1VOV2RDMWxSbWxXWlV4RVRtYxAB!2m1!1s0x47fcd59578238c81:0x21111b5d41c31ab6"
+      },
+      {
+        "note": 1,
+        "texte": "Gérant pas correct. Vente de produits périmés et ce n’est pas la première fois.\nIl ne fait rien pour y remédier.\n\nLe pain a une odeur de moisi",
+        "langue": "fr",
+        "date": "2026-08-16",
+        "auteur": "Oxilya Loundou",
+        "auteur_lien": "https://www.google.com/maps/contrib/112010438168835089200/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xaWFYyWTVjMkp6V21waE9XMVZUekUwVTNnd2RIYxAB!2m1!1s0x47fcd59578238c81:0x21111b5d41c31ab6"
+      },
+      {
+        "note": 5,
+        "texte": "La meilleure pastèque de la ville !\nVendeurs tous supers gentils, épicerie tout le temps ouverte avec tout ce qu’il faut et très pratique pour les retraits de colis… je recommande !",
+        "langue": "fr",
+        "date": "2026-07-14",
+        "auteur": "Marie",
+        "auteur_lien": "https://www.google.com/maps/contrib/101836945901994008023/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2pGMVFteDBNM0pQZVhrd1VIbDFibFY0WDBwNFJHYxAB!2m1!1s0x47fcd59578238c81:0x21111b5d41c31ab6"
+      },
+      {
+        "note": 5,
+        "texte": "Magasin de proximité au top !!\nUn accueil des plus chaleureux, le sourire et toujours agréable !!\nMagasin propre et rangé, j'ai toujours trouvé ce dont j'avais besoin, avec des horaires a rallonge par rapport a d'autres commerces.\nSuis ravie d'avoir ces commerçants vers chez moi.\nVoilà, merci a vous Proximité Super... vous êtes super !!!",
+        "langue": "fr",
+        "date": "2026-07-01",
+        "auteur": "Angie Lambottin",
+        "auteur_lien": "https://www.google.com/maps/contrib/104865631428703530294/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2pCNVZWZ3laRVY2WjFOYVlrbDFSbXgzVXpaNVRIYxAB!2m1!1s0x47fcd59578238c81:0x21111b5d41c31ab6"
+      },
+      {
+        "note": 1,
+        "texte": "Très mauvaise expérience.\n\nNous avons acheté plusieurs produits dans ce magasin et nous nous sommes rendu compte qu’ils étaient périmés. Certains dataient de 2025 alors que nous sommes en 2026, avec une date dépassée depuis plus de 6 mois. D’autres produits en rayon étaient également périmés de 2 à 3 mois.\n\nLe plus choquant reste la réaction du magasin : aucun geste commercial, refus d’échanger ou de rembourser malgré une situation clairement anormale.\n\nVendre des produits périmés est inacceptable et met en danger les clients. Encore plus quand le problème semble généralisé dans le magasin.\n\nJe déconseille fortement.",
+        "langue": "fr",
+        "date": "2026-04-25",
+        "auteur": "Mouna Azm",
+        "auteur_lien": "https://www.google.com/maps/contrib/112209974856971209538/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2tSb2NUSTBSRk5uWVhJNWNYQXphbk5xYUdOV05IYxAB!2m1!1s0x47fcd59578238c81:0x21111b5d41c31ab6"
+      }
+    ]
+  },
+  "services": {
+    "releve": "2026-10-31",
+    "options": {
+      "delivery": true,
+      "restroom": false
+    },
+    "paiement": [
+      "carte bancaire",
+      "carte de débit",
+      "paiement sans contact"
+    ],
+    "parking": []
   }
 }

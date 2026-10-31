@@ -1,0 +1,348 @@
+{
+  "id": "ChIJd1uvyi4c90cRzTyNdwSeJYc",
+  "slug": "delices-wok",
+  "nom": "Délices Wok",
+  "categorie": "restaurants",
+  "categorie_gmb": "Restaurant de type buffet",
+  "type_principal": "buffet_restaurant",
+  "types": [
+    "buffet_restaurant",
+    "asian_restaurant",
+    "restaurant",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "ville": "Clermont-Ferrand",
+  "ville_slug": "clermont-ferrand",
+  "adresse": {
+    "rue": "Avenue du Brézet",
+    "code_postal": "63100",
+    "departement": "63",
+    "region": "Auvergne-Rhône-Alpes",
+    "pays": "France",
+    "complete": "Clermont-Ferrand, Av. du Brézet, FR邮政编码: 63100"
+  },
+  "telephone": "04 73 26 34 06",
+  "geo": {
+    "latitude": 45.779589,
+    "longitude": 3.1405252999999997
+  },
+  "note": 3.6,
+  "avis": 1965,
+  "horaires": [
+    {
+      "jour": 0,
+      "ferme": false,
+      "creneaux": [
+        [
+          "12:00",
+          "14:30"
+        ],
+        [
+          "19:00",
+          "22:30"
+        ]
+      ]
+    },
+    {
+      "jour": 1,
+      "ferme": false,
+      "creneaux": [
+        [
+          "12:00",
+          "14:30"
+        ],
+        [
+          "19:00",
+          "22:30"
+        ]
+      ]
+    },
+    {
+      "jour": 2,
+      "ferme": false,
+      "creneaux": [
+        [
+          "12:00",
+          "14:30"
+        ],
+        [
+          "19:00",
+          "22:30"
+        ]
+      ]
+    },
+    {
+      "jour": 3,
+      "ferme": false,
+      "creneaux": [
+        [
+          "12:00",
+          "14:30"
+        ],
+        [
+          "19:00",
+          "22:30"
+        ]
+      ]
+    },
+    {
+      "jour": 4,
+      "ferme": false,
+      "creneaux": [
+        [
+          "12:00",
+          "14:30"
+        ],
+        [
+          "19:00",
+          "22:30"
+        ]
+      ]
+    },
+    {
+      "jour": 5,
+      "ferme": false,
+      "creneaux": [
+        [
+          "12:00",
+          "14:30"
+        ],
+        [
+          "19:00",
+          "22:30"
+        ]
+      ]
+    },
+    {
+      "jour": 6,
+      "ferme": false,
+      "creneaux": [
+        [
+          "12:00",
+          "14:30"
+        ],
+        [
+          "19:00",
+          "22:30"
+        ]
+      ]
+    }
+  ],
+  "attributs": [
+    "Entrée accessible en fauteuil roulant",
+    "Parking accessible en fauteuil roulant",
+    "Toilettes accessibles en fauteuil roulant",
+    "Places assises accessibles en fauteuil roulant"
+  ],
+  "lien_google": "https://maps.google.com/?cid=9738363511281368269&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
+  "site_web_gmb": null,
+  "statut": "publiee",
+  "backlink": {
+    "etat": "absent",
+    "premiere_detection": null,
+    "derniere_detection": null,
+    "derniere_verification": "2026-10-31T10:53:21.305Z",
+    "echecs": 1,
+    "url_detectee": null
+  },
+  "suggestion": {
+    "etat": "en-attente",
+    "date_soumission": null,
+    "tentatives": 0,
+    "date_email": "2026-10-31"
+  },
+  "retrait": null,
+  "dates": {
+    "collecte": "2026-10-31",
+    "publication": "2026-10-31",
+    "maj": "2026-10-31"
+  },
+  "source": "google-places",
+  "avis_detail": {
+    "releve": "2026-10-31",
+    "liste": [
+      {
+        "note": 3,
+        "texte": "Très bon accueil,\nPour l apéritif déplorable nous avons s entendu 30mn du coup nous avons annulé la commande.  La serveuse nous a jeté le ticket en boule sans excuse. Meme si c était un samedi soir. Nous avons très bien mangé (sauf pour moi  légumes pas assez cuit au wok ) Arrivé au dessert vers 21h30 il ne restait plus rien  niveau glace gâteau et même plus de litchi et du nougat.  Dommage.",
+        "langue": "fr",
+        "date": "2026-08-30",
+        "auteur": "Marie-Line RABOT",
+        "auteur_lien": "https://www.google.com/maps/contrib/109870230874201886921/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT21ReVR6QjNjSEF6TkRrMWEyZGxkRFpVWjNaS1dWRRAB!2m1!1s0x47f71c2ecaaf5b77:0x87259e04778d3ccd"
+      },
+      {
+        "note": 3,
+        "texte": "Bon attention c’est pas de la grande Cuisine ! Logique, c’est un buffet à volonté ! Mais pour le prix honnêtement c’est convenable !\nIl y a assez de choix pour faire plaisir à tout le monde.\nEn revanche, le seul point négatif est de pas communiquer avec sa clientèle à propos des dates de congé cet.\nRésultats des courses, on ne sait pas quand le restaurant ouvre ou ferme ..\nPas évident pour pouvoir y retourner !\nGros point négatif …",
+        "langue": "fr",
+        "date": "2026-06-30",
+        "auteur": "Killian Recoque",
+        "auteur_lien": "https://www.google.com/maps/contrib/112560355144176540311/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2poUlJsaDViREJYZUV0RWNsUkVaa2RhZEY5bVNVRRAB!2m1!1s0x47f71c2ecaaf5b77:0x87259e04778d3ccd"
+      },
+      {
+        "note": 5,
+        "texte": "Nous y sommes allées un samedi midi arrivé à 12h30, impeccable rien à dire, beaucoup de choix, le personnel est tres sympathique,  par contre le seul bémol c est que pour débarrasser mes assiettes sur la table nous avons été obligés de demander  car il passait avec son chariot juste à côté mais il ne débarrassait pas. Pour le reste vraiment rien à dire, merci",
+        "langue": "fr",
+        "date": "2026-06-07",
+        "auteur": "Céline Lefort",
+        "auteur_lien": "https://www.google.com/maps/contrib/110736327887909119059/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xwbVQycGlabWhPYWs1M1ZYVllRVlIzYVdoamVFRRAB!2m1!1s0x47f71c2ecaaf5b77:0x87259e04778d3ccd"
+      },
+      {
+        "note": 5,
+        "texte": "Très bon endroit qui propose de la cuisine pour tous les goûts.\nLe seul bémol est selon moi le choix de desserts, je ne trouve pas tous les desserts aussi bons qu'ils le devraient.\nHormis ce point, c'est très bien.",
+        "langue": "fr",
+        "date": "2026-04-18",
+        "auteur": "Aurélien Maubert",
+        "auteur_lien": "https://www.google.com/maps/contrib/105566531444714251278/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25ob2FrcDZlamhUUVhvNVFrSnRRMVozZERGcU5uYxAB!2m1!1s0x47f71c2ecaaf5b77:0x87259e04778d3ccd"
+      },
+      {
+        "note": 1,
+        "texte": "Repas du samedi midi.\nJe pensais que certains commentaires étaient exagérés, mais malheureusement pas du tout.\nLes nems, c’est pourtant la base dans un buffet. Comment est-il possible de les rater à ce point ? Ils étaient durs, secs et tout simplement immangeables, alors que c’est généralement le premier choix des adultes comme des enfants.\n\nJ’ai même rapporté mon assiette en cuisine pour signaler le problème. Aucune réaction de l’équipe : l’assiette a été jetée sans commentaire, et les autres clients ont continué à se servir des mêmes nems pourtant immangeables.\nAu final, expérience décevante. Je ne reviendrai pas et je déconseille fortement cet établissement.",
+        "langue": "fr",
+        "date": "2026-03-28",
+        "auteur": "PNS",
+        "auteur_lien": "https://www.google.com/maps/contrib/114166115359322469313/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2tkdFEyUTJjWGxxTTJVNVVIbHFORlZLYlVjeU5YYxAB!2m1!1s0x47f71c2ecaaf5b77:0x87259e04778d3ccd"
+      }
+    ]
+  },
+  "services": {
+    "releve": "2026-10-31",
+    "prix": "PRICE_LEVEL_MODERATE",
+    "options": {
+      "dineIn": true,
+      "takeout": true,
+      "delivery": false,
+      "curbsidePickup": false,
+      "reservable": true,
+      "outdoorSeating": false,
+      "servesBreakfast": false,
+      "servesBrunch": false,
+      "servesLunch": true,
+      "servesDinner": true,
+      "servesVegetarianFood": true,
+      "servesCoffee": true,
+      "servesBeer": true,
+      "servesWine": true,
+      "servesCocktails": true,
+      "menuForChildren": true,
+      "goodForChildren": true,
+      "goodForGroups": true,
+      "goodForWatchingSports": false,
+      "liveMusic": false,
+      "allowsDogs": false,
+      "restroom": true
+    },
+    "paiement": [
+      "carte bancaire",
+      "carte de débit",
+      "paiement sans contact"
+    ],
+    "parking": [
+      "parking gratuit",
+      "stationnement gratuit dans la rue"
+    ]
+  },
+  "redaction": {
+    "version": 2,
+    "titre": "Délices Wok — Restaurant à Clermont-Ferrand",
+    "meta_titre": "Délices Wok à Clermont-Ferrand : horaires, avis, téléphone",
+    "meta_description": "Délices Wok, restaurant à Clermont-Ferrand : horaires d'ouverture, note Google 3,6/5 (1965 avis), téléphone, adresse et itinéraire.",
+    "chapo": "Délices Wok exerce l'activité de restaurant au Avenue du Brézet, à Clermont-Ferrand. Ouvert sept jours sur sept au relevé du 31 octobre 2026. Téléphone : 04 73 26 34 06. Note Google : 3,6 sur 5 pour 1965 avis.",
+    "sections": [
+      {
+        "id": "presentation",
+        "titre": "Délices Wok en quelques mots",
+        "paragraphes": [
+          "Sur Google, l'établissement est classé « Restaurant de type buffet », dans notre rubrique Restaurant.",
+          "Niveau de prix indiqué sur la fiche Google : €€ (modéré).",
+          "D'après le relevé du 31 octobre 2026, l'établissement est ouvert sept jours sur sept. Le détail jour par jour figure plus bas."
+        ]
+      },
+      {
+        "id": "prestations",
+        "titre": "Services et équipements de Délices Wok",
+        "paragraphes": [
+          "Proposé : sur place, à emporter, réservation possible, déjeuner, dîner, plats végétariens, café, bière, vin, cocktails, menu enfant, adapté aux enfants, adapté aux groupes et toilettes.",
+          "Non proposé selon la fiche Google : livraison, retrait en voiture, terrasse, petit-déjeuner, brunch, retransmissions sportives, musique live et chiens acceptés.",
+          "Moyens de paiement déclarés : carte bancaire, carte de débit et paiement sans contact.",
+          "Stationnement : parking gratuit et stationnement gratuit dans la rue.",
+          "Ces indications sont déclarées par l'établissement sur sa fiche Google (relevé du 31 octobre 2026)."
+        ]
+      },
+      {
+        "id": "acces",
+        "titre": "Adresse et accès",
+        "paragraphes": [
+          "L'établissement est situé au Avenue du Brézet, 63100 Clermont-Ferrand.",
+          "Coordonnées GPS : 45.77959, 3.14053. Le bouton Itinéraire de cette page ouvre la navigation."
+        ]
+      },
+      {
+        "id": "contact",
+        "titre": "Contacter Délices Wok",
+        "paragraphes": [
+          "Le contact se fait par téléphone au 04 73 26 34 06, ou directement sur place aux horaires d'ouverture.",
+          "La fiche Google indique que la réservation est possible."
+        ]
+      },
+      {
+        "id": "avis",
+        "titre": "La réputation de Délices Wok",
+        "paragraphes": [
+          "Note de 3,6 sur 5 pour 1965 avis Google au relevé du 31 octobre 2026. Les avis les plus parlants sont compilés ci-dessous, avec un lien vers la fiche d'origine."
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "q": "Quels sont les horaires de Délices Wok ?",
+        "r": "Au relevé du 31 octobre 2026, Délices Wok était ouvert sept jours sur sept. Dans le détail — lundi : de 12 h à 14 h 30 et de 19 h à 22 h 30 ; mardi : de 12 h à 14 h 30 et de 19 h à 22 h 30 ; mercredi : de 12 h à 14 h 30 et de 19 h à 22 h 30 ; jeudi : de 12 h à 14 h 30 et de 19 h à 22 h 30 ; vendredi : de 12 h à 14 h 30 et de 19 h à 22 h 30 ; samedi : de 12 h à 14 h 30 et de 19 h à 22 h 30 ; dimanche : de 12 h à 14 h 30 et de 19 h à 22 h 30. Ces horaires peuvent changer : un appel préalable reste conseillé."
+      },
+      {
+        "q": "Délices Wok est-il ouvert le dimanche ?",
+        "r": "Oui : le dimanche, Délices Wok est ouvert de 12 h à 14 h 30 et de 19 h à 22 h 30 (horaires relevés le 31 octobre 2026)."
+      },
+      {
+        "q": "Où se trouve Délices Wok ?",
+        "r": "Délices Wok se trouve Clermont-Ferrand, Av. du Brézet, FR邮政编码: 63100. Un lien d'itinéraire est disponible sur cette page."
+      },
+      {
+        "q": "Comment contacter Délices Wok ?",
+        "r": "Par téléphone au 04 73 26 34 06, ou directement sur place aux heures d'ouverture."
+      },
+      {
+        "q": "Peut-on réserver chez Délices Wok ?",
+        "r": "Oui, la fiche Google de Délices Wok indique que la réservation est possible, par téléphone au 04 73 26 34 06."
+      },
+      {
+        "q": "Délices Wok propose-t-il la vente à emporter ou la livraison ?",
+        "r": "D'après sa fiche Google (relevé du 31 octobre 2026) — vente à emporter : oui ; livraison : non."
+      },
+      {
+        "q": "Quel est le niveau de prix de Délices Wok ?",
+        "r": "Google classe Délices Wok au niveau de prix €€ (modéré), sur une échelle de € à €€€€ établie à partir des avis clients."
+      },
+      {
+        "q": "Délices Wok est-il accessible aux personnes à mobilité réduite ?",
+        "r": "La fiche Google de l'établissement mentionne : « Entrée accessible en fauteuil roulant ». Cette information est déclarative ; en cas de doute, vérifiez par téléphone."
+      }
+    ],
+    "genere_le": "2026-10-31"
+  },
+  "statut_google": "OPERATIONAL",
+  "audience": {
+    "clics": 0,
+    "impressions": 0,
+    "position": null,
+    "fenetreJours": 90,
+    "clicsRecents": 0,
+    "fenetreRecenteJours": 28,
+    "source": "search-console",
+    "date": "2026-10-31"
+  }
+}

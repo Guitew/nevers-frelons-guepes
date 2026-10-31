@@ -27,7 +27,7 @@
     "longitude": 0.6608175
   },
   "note": 4.5,
-  "avis": 280,
+  "avis": 281,
   "horaires": [
     {
       "jour": 0,
@@ -132,8 +132,8 @@
     "etat": "absent",
     "premiere_detection": null,
     "derniere_detection": null,
-    "derniere_verification": "2026-10-18T09:54:50.642Z",
-    "echecs": 14,
+    "derniere_verification": "2026-10-31T10:53:21.305Z",
+    "echecs": 15,
     "url_detectee": null
   },
   "suggestion": {
@@ -146,21 +146,33 @@
   "dates": {
     "collecte": "2026-09-27",
     "publication": "2026-09-27",
-    "maj": "2026-10-18"
+    "maj": "2026-10-31"
   },
   "source": "google-places",
   "redaction": {
     "version": 2,
     "titre": "Restaurant le quatuor — Restaurant à Marsac-sur-l'Isle",
     "meta_titre": "Restaurant le quatuor à Marsac-sur-l'Isle : horaires, avis",
-    "meta_description": "Restaurant le quatuor, restaurant à Marsac-sur-l'Isle : horaires d'ouverture, note Google 4,5/5 (280 avis), téléphone, adresse et itinéraire.",
-    "chapo": "Restaurant le quatuor est un restaurant au Avenue Louis Suder, à Marsac-sur-l'Isle. Ouvert tous les jours sauf le dimanche au relevé du 18 octobre 2026. Téléphone : 05 53 03 73 80. Note Google : 4,5 sur 5 pour 280 avis.",
+    "meta_description": "Restaurant le quatuor, restaurant à Marsac-sur-l'Isle : horaires d'ouverture, note Google 4,5/5 (281 avis), téléphone, adresse et itinéraire.",
+    "chapo": "Restaurant le quatuor est un restaurant au Avenue Louis Suder, à Marsac-sur-l'Isle. Ouvert tous les jours sauf le dimanche au relevé du 31 octobre 2026. Téléphone : 05 53 03 73 80. Note Google : 4,5 sur 5 pour 281 avis.",
     "sections": [
       {
         "id": "presentation",
         "titre": "Restaurant le quatuor en quelques mots",
         "paragraphes": [
-          "D'après le relevé du 18 octobre 2026, l'établissement est ouvert tous les jours sauf le dimanche. Le détail jour par jour figure plus bas."
+          "Niveau de prix indiqué sur la fiche Google : €€ (modéré).",
+          "D'après le relevé du 31 octobre 2026, l'établissement est ouvert tous les jours sauf le dimanche. Le détail jour par jour figure plus bas."
+        ]
+      },
+      {
+        "id": "prestations",
+        "titre": "Services et équipements de Restaurant le quatuor",
+        "paragraphes": [
+          "Proposé : sur place, réservation possible, terrasse, déjeuner, dîner, café, bière, vin, cocktails, menu enfant, adapté aux enfants, adapté aux groupes et toilettes.",
+          "Non proposé selon la fiche Google : à emporter, livraison, retrait en voiture, petit-déjeuner et brunch.",
+          "Moyens de paiement déclarés : carte bancaire, carte de débit et paiement sans contact.",
+          "Stationnement : parking gratuit et stationnement gratuit dans la rue.",
+          "Ces indications sont déclarées par l'établissement sur sa fiche Google (relevé du 31 octobre 2026)."
         ]
       },
       {
@@ -175,25 +187,26 @@
         "id": "contact",
         "titre": "Contacter Restaurant le quatuor",
         "paragraphes": [
-          "Le contact se fait par téléphone au 05 53 03 73 80, ou directement sur place aux horaires d'ouverture."
+          "Le contact se fait par téléphone au 05 53 03 73 80, ou directement sur place aux horaires d'ouverture.",
+          "La fiche Google indique que la réservation est possible."
         ]
       },
       {
         "id": "avis",
         "titre": "La réputation de Restaurant le quatuor",
         "paragraphes": [
-          "Note de 4,5 sur 5 pour 280 avis Google au relevé du 18 octobre 2026. Les avis se consultent sur la fiche Google, dont le lien figure sur cette page."
+          "Note de 4,5 sur 5 pour 281 avis Google au relevé du 31 octobre 2026. Les avis les plus parlants sont compilés ci-dessous, avec un lien vers la fiche d'origine."
         ]
       }
     ],
     "faq": [
       {
         "q": "Quels sont les horaires de Restaurant le quatuor ?",
-        "r": "Au relevé du 18 octobre 2026, Restaurant le quatuor était ouvert tous les jours sauf le dimanche. Dans le détail — lundi : de 12 h à 14 h 30 et de 19 h à 21 h 30 ; mardi : de 12 h à 14 h 30 et de 19 h à 21 h 30 ; mercredi : de 12 h à 14 h 30 et de 19 h à 21 h 30 ; jeudi : de 12 h à 14 h 30 et de 19 h à 21 h 30 ; vendredi : de 12 h à 14 h 30 et de 19 h à 22 h ; samedi : de 12 h à 14 h 30 et de 19 h à 22 h ; dimanche : fermé. Ces horaires peuvent changer : un appel préalable reste conseillé."
+        "r": "Au relevé du 31 octobre 2026, Restaurant le quatuor était ouvert tous les jours sauf le dimanche. Dans le détail — lundi : de 12 h à 14 h 30 et de 19 h à 21 h 30 ; mardi : de 12 h à 14 h 30 et de 19 h à 21 h 30 ; mercredi : de 12 h à 14 h 30 et de 19 h à 21 h 30 ; jeudi : de 12 h à 14 h 30 et de 19 h à 21 h 30 ; vendredi : de 12 h à 14 h 30 et de 19 h à 22 h ; samedi : de 12 h à 14 h 30 et de 19 h à 22 h ; dimanche : fermé. Ces horaires peuvent changer : un appel préalable reste conseillé."
       },
       {
         "q": "Restaurant le quatuor est-il ouvert le dimanche ?",
-        "r": "Non : d'après les horaires relevés le 18 octobre 2026, Restaurant le quatuor est fermé le dimanche."
+        "r": "Non : d'après les horaires relevés le 31 octobre 2026, Restaurant le quatuor est fermé le dimanche."
       },
       {
         "q": "Où se trouve Restaurant le quatuor ?",
@@ -204,11 +217,23 @@
         "r": "Par téléphone au 05 53 03 73 80, ou directement sur place aux heures d'ouverture."
       },
       {
+        "q": "Peut-on réserver chez Restaurant le quatuor ?",
+        "r": "Oui, la fiche Google de Restaurant le quatuor indique que la réservation est possible, par téléphone au 05 53 03 73 80."
+      },
+      {
+        "q": "Restaurant le quatuor propose-t-il la vente à emporter ou la livraison ?",
+        "r": "D'après sa fiche Google (relevé du 31 octobre 2026) — vente à emporter : non ; livraison : non."
+      },
+      {
+        "q": "Quel est le niveau de prix de Restaurant le quatuor ?",
+        "r": "Google classe Restaurant le quatuor au niveau de prix €€ (modéré), sur une échelle de € à €€€€ établie à partir des avis clients."
+      },
+      {
         "q": "Restaurant le quatuor est-il accessible aux personnes à mobilité réduite ?",
         "r": "La fiche Google de l'établissement mentionne : « Entrée accessible en fauteuil roulant ». Cette information est déclarative ; en cas de doute, vérifiez par téléphone."
       }
     ],
-    "genere_le": "2026-10-18"
+    "genere_le": "2026-10-31"
   },
   "statut_google": "OPERATIONAL",
   "audience": {
@@ -219,6 +244,89 @@
     "clicsRecents": 2,
     "fenetreRecenteJours": 28,
     "source": "search-console",
-    "date": "2026-10-30"
+    "date": "2026-10-31"
+  },
+  "avis_detail": {
+    "releve": "2026-10-31",
+    "liste": [
+      {
+        "note": 5,
+        "texte": "Juste un mot excellent 👍\nPersonnels très accueillant, des plats fait maison. La qualité des produits, rien a redire.\nNous nous sommes régalés, et tarif très correct pour une si belle qualité de plat.",
+        "langue": "fr",
+        "date": "2026-08-11",
+        "auteur": "Jennifer BLEUSE",
+        "auteur_lien": "https://www.google.com/maps/contrib/110150271726894545967/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT21WMlQwSkhjMGRpYjBRek9VZHdlRWhWVFc5VVIwRRAB!2m1!1s0x47ff7700742c6c4f:0xb2635065b5fa1190"
+      },
+      {
+        "note": 5,
+        "texte": "Super expérience au Quatuor Marsac ! Tout était parfait, du début à la fin. Les plats étaient excellents, bien présentés et préparés avec des produits de qualité. Le cadre est très agréable et on s’y sent vraiment bien. Un grand merci au personnel, qui est adorable, accueillant, souriant et aux petits soins tout au long du repas. Franchement, rien à redire, nous avons passé un excellent moment. Je recommande sans hésiter et nous reviendrons avec plaisir !",
+        "langue": "fr",
+        "date": "2026-07-04",
+        "auteur": "Maelle Bouldoires",
+        "auteur_lien": "https://www.google.com/maps/contrib/114677974943975898315/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2t4S1EySndjelpRTFcxbVVsRmlTRlJXTUdrM0xXYxAB!2m1!1s0x47ff7700742c6c4f:0xb2635065b5fa1190"
+      },
+      {
+        "note": 5,
+        "texte": "Cadre très agréable avec une grande salle, avec un aménagement des tables bien réfléchi pour avoir de l'espace avoir l'impression d'être seul.\nLa cuisine est vraiment très bonne avec de très jolies assiettes et des saveurs extra. C'est très copieux et le personnel est vraiment très agréable et a l'écoute. Nous nous sommes régalés et je recommande, mon seul regret est de ne pas être venue plus tôt, mais aucun doute nous reviendrons régulièrement car la carte est vraiment remplie de bonnes choses a découvrir",
+        "langue": "fr",
+        "date": "2026-05-19",
+        "auteur": "Monyk Rongieras",
+        "auteur_lien": "https://www.google.com/maps/contrib/114825200952910729413/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25CSFUyWlVNRzFRYldzMU4ySm5WSHBMZFRkUWJHYxAB!2m1!1s0x47ff7700742c6c4f:0xb2635065b5fa1190"
+      },
+      {
+        "note": 5,
+        "texte": "Notre première visite au quatuor était tout simplement parfaite. Serveurs agréables, attentifs et souriants. Nous avons très bien mangé et avons été très bien conseillés également au niveau du vin. Pensez à réserver car complet.\nNos assiettes étaient très bien garnies, mais nos doggy bag sont restés au frais pour ramener à la maison.\nLe patron (j'imagine) a bien discuté avec nous et nous a même proposé de prendre le dessert dehors en fin de repas si nous le souhaitons.\nNous avons déjà fait la promotion de ce restaurant à nos proches et nous reviendrons.\nMerci à vous pour cette soirée vraiment sympa.",
+        "langue": "fr",
+        "date": "2025-07-25",
+        "auteur": "Caroline Moreau",
+        "auteur_lien": "https://www.google.com/maps/contrib/113460526938842329031/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT21seGJIazJkbUZvVjNrNVpYaFBjV0pTU0d3eWNuYxAB!2m1!1s0x47ff7700742c6c4f:0xb2635065b5fa1190"
+      },
+      {
+        "note": 5,
+        "texte": "Nous avons passé un excellent moment dans ce restaurant aujourd’hui. Le cadre est propre, calme et chaleureux, parfait pour un repas en toute tranquillité. Le service était irréprochable : accueillant, souriant et très convivial. Quant à la cuisine, un véritable régal ! Des plats savoureux, bien présentés, et cuisinés avec soin. Une adresse que je recommande vivement et où je reviendrai avec plaisir !\n\nLa Table 55.",
+        "langue": "fr",
+        "date": "2025-06-03",
+        "auteur": "Justine W.L",
+        "auteur_lien": "https://www.google.com/maps/contrib/117108574910621452659/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VOX0t2OXFWMmJ1cEpREAE!2m1!1s0x47ff7700742c6c4f:0xb2635065b5fa1190"
+      }
+    ]
+  },
+  "services": {
+    "releve": "2026-10-31",
+    "prix": "PRICE_LEVEL_MODERATE",
+    "options": {
+      "dineIn": true,
+      "takeout": false,
+      "delivery": false,
+      "curbsidePickup": false,
+      "reservable": true,
+      "outdoorSeating": true,
+      "servesBreakfast": false,
+      "servesBrunch": false,
+      "servesLunch": true,
+      "servesDinner": true,
+      "servesCoffee": true,
+      "servesBeer": true,
+      "servesWine": true,
+      "servesCocktails": true,
+      "menuForChildren": true,
+      "goodForChildren": true,
+      "goodForGroups": true,
+      "restroom": true
+    },
+    "paiement": [
+      "carte bancaire",
+      "carte de débit",
+      "paiement sans contact"
+    ],
+    "parking": [
+      "parking gratuit",
+      "stationnement gratuit dans la rue"
+    ]
   }
 }

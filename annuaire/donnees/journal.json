@@ -1,5 +1,133 @@
 [
   {
+    "date": "2026-10-31T10:57:01.823Z",
+    "type": "suggestion-soumise",
+    "id": "ChIJ3aTdwY5x5kcRG7-4gMxDrkc",
+    "nom": "Tang Frères",
+    "url": "/commerces-alimentation/paris/tang-freres/"
+  },
+  {
+    "date": "2026-10-31T10:57:01.798Z",
+    "type": "suggestion-soumise",
+    "id": "ChIJfUEA6aAXrxIRtW3RGvvtZLI",
+    "nom": "Pension pour chat",
+    "url": "/veterinaires-animaux/foix/pension-pour-chat/"
+  },
+  {
+    "date": "2026-10-31T10:57:01.770Z",
+    "type": "suggestion-soumise",
+    "id": "ChIJsyqsV3_blEcRjlIHQLZ5Vyg",
+    "nom": "LE LABYRINTHE",
+    "url": "/coiffure-beaute/marly/le-labyrinthe/"
+  },
+  {
+    "date": "2026-10-31T10:57:01.740Z",
+    "type": "suggestion-soumise",
+    "id": "ChIJ_eZTr4AlBEgRfTj9UqI1VY0",
+    "nom": "Boulangerie Pâtisserie du Bourg \"Didier Gilbert\"",
+    "url": "/boulangeries-patisseries/la-roche-sur-yon/boulangerie-patisserie-du-bourg-didier-gilbert/"
+  },
+  {
+    "date": "2026-10-31T10:57:01.703Z",
+    "type": "suggestion-soumise",
+    "id": "ChIJwTy7A08GOwcRbYEQpwX5_D8",
+    "nom": "Boulangerie Corentin Cottier",
+    "url": "/boulangeries-patisseries/saint-berthevin/boulangerie-corentin-cottier/"
+  },
+  {
+    "date": "2026-10-31T10:53:21.476Z",
+    "type": "backlink-absent",
+    "id": "ChIJawnE0a1H4UcRTepeyVDNaoM",
+    "nom": "Asia King",
+    "url": null,
+    "precedent": "en-attente"
+  },
+  {
+    "date": "2026-10-31T10:53:21.535Z",
+    "type": "backlink-absent",
+    "id": "ChIJw9os6fBf5kcR4x_pEH-uoe0",
+    "nom": "Cite De L Automobile",
+    "url": null,
+    "precedent": "en-attente"
+  },
+  {
+    "date": "2026-10-31T10:53:21.599Z",
+    "type": "backlink-absent",
+    "id": "ChIJd1uvyi4c90cRzTyNdwSeJYc",
+    "nom": "Délices Wok",
+    "url": null,
+    "precedent": "en-attente"
+  },
+  {
+    "date": "2026-10-31T10:53:21.652Z",
+    "type": "backlink-absent",
+    "id": "ChIJVUZ1nK4dEEgRq-NW5QdybN8",
+    "nom": "Du Pain dans Les Voiles",
+    "url": null,
+    "precedent": "en-attente"
+  },
+  {
+    "date": "2026-10-31T10:53:21.724Z",
+    "type": "backlink-absent",
+    "id": "ChIJAblha6-d8kcRWOVlFMJns3Y",
+    "nom": "Salle Omnisports des Bourroches",
+    "url": null,
+    "precedent": "en-attente"
+  },
+  {
+    "date": "2026-10-31T10:53:23.339Z",
+    "type": "backlink-externe",
+    "id": "ChIJRQ3A4kOzqxIR1L979duuwIk",
+    "nom": "Royal Agen",
+    "url": "https://royal-agen.eatbu.com/?lang=fr",
+    "precedent": "absent"
+  },
+  {
+    "date": "2026-10-31T10:53:20.798Z",
+    "type": "publication",
+    "id": "ChIJw9os6fBf5kcR4x_pEH-uoe0",
+    "nom": "Cite De L Automobile",
+    "url": "/garages-automobile/saint-ouen-l-aumone/cite-de-l-automobile/",
+    "categorie": "garages-automobile",
+    "source": "google-places"
+  },
+  {
+    "date": "2026-10-31T10:53:20.885Z",
+    "type": "publication",
+    "id": "ChIJAblha6-d8kcRWOVlFMJns3Y",
+    "nom": "Salle Omnisports des Bourroches",
+    "url": "/loisirs-sport-culture/dijon/salle-omnisports-des-bourroches/",
+    "categorie": "loisirs-sport-culture",
+    "source": "google-places"
+  },
+  {
+    "date": "2026-10-31T10:53:20.992Z",
+    "type": "publication",
+    "id": "ChIJawnE0a1H4UcRTepeyVDNaoM",
+    "nom": "Asia King",
+    "url": "/restaurants/evreux/asia-king/",
+    "categorie": "restaurants",
+    "source": "google-places"
+  },
+  {
+    "date": "2026-10-31T10:53:21.097Z",
+    "type": "publication",
+    "id": "ChIJVUZ1nK4dEEgRq-NW5QdybN8",
+    "nom": "Du Pain dans Les Voiles",
+    "url": "/boulangeries-patisseries/sene/du-pain-dans-les-voiles/",
+    "categorie": "boulangeries-patisseries",
+    "source": "google-places"
+  },
+  {
+    "date": "2026-10-31T10:53:21.211Z",
+    "type": "publication",
+    "id": "ChIJd1uvyi4c90cRzTyNdwSeJYc",
+    "nom": "Délices Wok",
+    "url": "/restaurants/clermont-ferrand/delices-wok/",
+    "categorie": "restaurants",
+    "source": "google-places"
+  },
+  {
     "date": "2026-10-30T11:24:05.918Z",
     "type": "suggestion-soumise",
     "id": "ChIJXaUZTIg_yxIRHBdguJceI6o",
