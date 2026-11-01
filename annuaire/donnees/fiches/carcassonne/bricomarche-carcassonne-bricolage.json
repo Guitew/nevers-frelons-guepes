@@ -28,7 +28,7 @@
     "longitude": 2.311681
   },
   "note": 3.8,
-  "avis": 2640,
+  "avis": 2642,
   "horaires": [
     {
       "jour": 0,
@@ -112,8 +112,8 @@
     "etat": "absent",
     "premiere_detection": null,
     "derniere_detection": null,
-    "derniere_verification": "2026-10-18T10:46:48.744Z",
-    "echecs": 3,
+    "derniere_verification": "2026-11-01T11:48:12.789Z",
+    "echecs": 4,
     "url_detectee": null
   },
   "suggestion": {
@@ -126,7 +126,7 @@
   "dates": {
     "collecte": "2026-10-08",
     "publication": "2026-10-08",
-    "maj": "2026-10-18"
+    "maj": "2026-11-01"
   },
   "source": "google-places",
   "redaction": {
@@ -134,14 +134,24 @@
     "titre": "Bricomarché Carcassonne bricolage — Mode et équipement de la maison à Carcassonne",
     "meta_titre": "Bricomarché Carcassonne bricolage à Carcassonne",
     "meta_description": "Bricomarché Carcassonne bricolage, mode et équipement de la maison à Carcassonne : horaires d'ouverture, téléphone, adresse et itinéraire.",
-    "chapo": "Bricomarché Carcassonne bricolage, mode et équipement de la maison à Carcassonne. Ouvert sept jours sur sept au relevé du 18 octobre 2026. Téléphone : 04 68 11 60 00. Note Google : 3,8 sur 5 pour 2640 avis.",
+    "chapo": "Bricomarché Carcassonne bricolage, mode et équipement de la maison à Carcassonne. Ouvert sept jours sur sept au relevé du 1 novembre 2026. Téléphone : 04 68 11 60 00. Note Google : 3,8 sur 5 pour 2642 avis.",
     "sections": [
       {
         "id": "presentation",
         "titre": "Bricomarché Carcassonne bricolage en quelques mots",
         "paragraphes": [
           "Sur Google, l'établissement est classé « Magasin d'ameublement et de décoration », dans notre rubrique Mode et équipement de la maison.",
-          "D'après le relevé du 18 octobre 2026, l'établissement est ouvert sept jours sur sept. Le détail jour par jour figure plus bas."
+          "D'après le relevé du 1 novembre 2026, l'établissement est ouvert sept jours sur sept. Le détail jour par jour figure plus bas."
+        ]
+      },
+      {
+        "id": "prestations",
+        "titre": "Services et équipements de Bricomarché Carcassonne bricolage",
+        "paragraphes": [
+          "Proposé : livraison.",
+          "Moyens de paiement déclarés : carte bancaire, carte de débit et paiement sans contact.",
+          "Stationnement : parking gratuit.",
+          "Ces indications sont déclarées par l'établissement sur sa fiche Google (relevé du 1 novembre 2026)."
         ]
       },
       {
@@ -163,18 +173,18 @@
         "id": "avis",
         "titre": "La réputation de Bricomarché Carcassonne bricolage",
         "paragraphes": [
-          "Note de 3,8 sur 5 pour 2640 avis Google au relevé du 18 octobre 2026. Les avis se consultent sur la fiche Google, dont le lien figure sur cette page."
+          "Note de 3,8 sur 5 pour 2642 avis Google au relevé du 1 novembre 2026. Les avis les plus parlants sont compilés ci-dessous, avec un lien vers la fiche d'origine."
         ]
       }
     ],
     "faq": [
       {
         "q": "Quels sont les horaires de Bricomarché Carcassonne bricolage ?",
-        "r": "Au relevé du 18 octobre 2026, Bricomarché Carcassonne bricolage était ouvert sept jours sur sept. Dans le détail — lundi : de 8 h 30 à 19 h 30 ; mardi : de 8 h 30 à 19 h 30 ; mercredi : de 8 h 30 à 19 h 30 ; jeudi : de 8 h 30 à 19 h 30 ; vendredi : de 8 h 30 à 19 h 30 ; samedi : de 8 h 30 à 19 h 30 ; dimanche : de 9 h à 12 h 30. Ces horaires peuvent changer : un appel préalable reste conseillé."
+        "r": "Au relevé du 1 novembre 2026, Bricomarché Carcassonne bricolage était ouvert sept jours sur sept. Dans le détail — lundi : de 8 h 30 à 19 h 30 ; mardi : de 8 h 30 à 19 h 30 ; mercredi : de 8 h 30 à 19 h 30 ; jeudi : de 8 h 30 à 19 h 30 ; vendredi : de 8 h 30 à 19 h 30 ; samedi : de 8 h 30 à 19 h 30 ; dimanche : de 9 h à 12 h 30. Ces horaires peuvent changer : un appel préalable reste conseillé."
       },
       {
         "q": "Bricomarché Carcassonne bricolage est-il ouvert le dimanche ?",
-        "r": "Oui : le dimanche, Bricomarché Carcassonne bricolage est ouvert de 9 h à 12 h 30 (horaires relevés le 18 octobre 2026)."
+        "r": "Oui : le dimanche, Bricomarché Carcassonne bricolage est ouvert de 9 h à 12 h 30 (horaires relevés le 1 novembre 2026)."
       },
       {
         "q": "Où se trouve Bricomarché Carcassonne bricolage ?",
@@ -185,11 +195,15 @@
         "r": "Par téléphone au 04 68 11 60 00, ou directement sur place aux heures d'ouverture."
       },
       {
+        "q": "Bricomarché Carcassonne bricolage propose-t-il la vente à emporter ou la livraison ?",
+        "r": "D'après sa fiche Google (relevé du 1 novembre 2026) — livraison : oui."
+      },
+      {
         "q": "Bricomarché Carcassonne bricolage est-il accessible aux personnes à mobilité réduite ?",
         "r": "La fiche Google de l'établissement mentionne : « Entrée accessible en fauteuil roulant ». Cette information est déclarative ; en cas de doute, vérifiez par téléphone."
       }
     ],
-    "genere_le": "2026-10-18"
+    "genere_le": "2026-11-01"
   },
   "statut_google": "OPERATIONAL",
   "audience": {
@@ -200,6 +214,70 @@
     "clicsRecents": 0,
     "fenetreRecenteJours": 28,
     "source": "search-console",
-    "date": "2026-10-31"
+    "date": "2026-11-01"
+  },
+  "avis_detail": {
+    "releve": "2026-11-01",
+    "liste": [
+      {
+        "note": 3,
+        "texte": "Mon avis ne concerne pas le magasin, mais la carte de fidélité.\nEn effet, avec cette dernière, impossible de connaitre le montant cagnoté. en direct, ce qui fait que nous ne savons jamais où nous en sommes. Dommage.",
+        "langue": "fr",
+        "date": "2026-08-29",
+        "auteur": "Pascal DUEZ",
+        "auteur_lien": "https://www.google.com/maps/contrib/107539713900363343858/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xKU1NrVkpRMWRyYUZGTFVHbDRSMVZZYlU4eGVFRRAB!2m1!1s0x12ae2d9065aaaaab:0xd2e9b44b87af230a"
+      },
+      {
+        "note": 1,
+        "texte": "Accueil du Sav catastrophique. Conseil à l'achat défaillant, et surtout remarques blessantes et insultantes lors du retour de la marchandise ( ventilateur de plafond avec sa télécommande en option) . \"Mais si c'est facile, j'en ai monté 10\", \" Mais enfin Monsieur, il faut modifier la pièce et percer un trou\"... \" Ah, ça, quand on achète du 1er prix.... \".\nArrogance, suffisance et mépris du client.",
+        "langue": "fr",
+        "date": "2026-07-11",
+        "auteur": "Jipi killybegs",
+        "auteur_lien": "https://www.google.com/maps/contrib/108751461756854408565/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2pGZmRHOHlSSEZVUzBOU05sZHliRFJvV1U5d1ozYxAB!2m1!1s0x12ae2d9065aaaaab:0xd2e9b44b87af230a"
+      },
+      {
+        "note": 1,
+        "texte": "Mauvais service client de la part de la centrale d’achat. Nous avons commandé deux meubles de salle de bain il y a environ 3 semaines, on nous avait annoncé une date de livraison à début juillet (à réceptionner le 11 sans aucun problème). Au final, cela n’a jamais été livré et ils sont incapables de nous dire quand cela pourra être livré. Ce n’est absolument pas sérieux et service client à revoir. Quand on s’engage sur une date, la moindre des choses est de donner les raisons de cette non livraison et un nouveau délai prévisionnel. Nous avons dû annuler la commande, nous ne pouvons pas attendre indéfiniment sans savoir si cela va être livré ou pas !  Faites quelque chose sur ce point c’est vraiment aberrant.",
+        "langue": "fr",
+        "date": "2026-07-11",
+        "auteur": "Stacie F",
+        "auteur_lien": "https://www.google.com/maps/contrib/101488428698887526128/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT21GdllqVjRXWGhDVld0bFUzbElaMDF4UkUxbFZHYxAB!2m1!1s0x12ae2d9065aaaaab:0xd2e9b44b87af230a"
+      },
+      {
+        "note": 5,
+        "texte": "je suis très satisfait d'avoir un service après vente dans un magasin . Cela signifie simplement que le client est considéré, que nous ne sommes pas que de simples acheteurs.\nDe plus la personne au comptoir SAV sait nous accueillir et a été pour mon cas très efficace.\nMerci",
+        "langue": "fr",
+        "date": "2026-07-06",
+        "auteur": "xavier pascual",
+        "auteur_lien": "https://www.google.com/maps/contrib/117869013716939967421/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT21Oa1EyWmZhazE2WXpoQlNHcFVRMWhaUzNWaU1FRRAB!2m1!1s0x12ae2d9065aaaaab:0xd2e9b44b87af230a"
+      },
+      {
+        "note": 5,
+        "texte": "Très satisfait du rayon animalerie de Tridôme Carcassonne. Le rayon est propre, bien organisé et il y a un bon choix de produits pour les animaux. Le personnel est agréable et donne de bons conseils. J'ai trouvé facilement ce dont j'avais besoin pour mon chien et les prix sont corrects. Je recommande",
+        "langue": "fr",
+        "date": "2026-06-09",
+        "auteur": "Lubin Frances Drognon",
+        "auteur_lien": "https://www.google.com/maps/contrib/108339484094537473553/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2pkUmQycE5YM1JvWmtoSUxXcGhkWGxNZVZNM2FtYxAB!2m1!1s0x12ae2d9065aaaaab:0xd2e9b44b87af230a"
+      }
+    ]
+  },
+  "services": {
+    "releve": "2026-11-01",
+    "options": {
+      "delivery": true
+    },
+    "paiement": [
+      "carte bancaire",
+      "carte de débit",
+      "paiement sans contact"
+    ],
+    "parking": [
+      "parking gratuit"
+    ]
   }
 }

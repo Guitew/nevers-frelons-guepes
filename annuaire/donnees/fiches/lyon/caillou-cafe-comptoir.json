@@ -30,7 +30,7 @@
     "longitude": 4.8209186
   },
   "note": 4.4,
-  "avis": 393,
+  "avis": 395,
   "horaires": [
     {
       "jour": 0,
@@ -114,8 +114,8 @@
     "etat": "absent",
     "premiere_detection": null,
     "derniere_detection": null,
-    "derniere_verification": "2026-10-18T10:46:48.744Z",
-    "echecs": 29,
+    "derniere_verification": "2026-11-01T11:48:12.789Z",
+    "echecs": 30,
     "url_detectee": null
   },
   "suggestion": {
@@ -128,22 +128,34 @@
   "dates": {
     "collecte": "2026-09-24",
     "publication": "2026-09-24",
-    "maj": "2026-10-18"
+    "maj": "2026-11-01"
   },
   "source": "google-places",
   "redaction": {
     "version": 2,
     "titre": "Caillou Café Comptoir — Café ou bar à Lyon",
     "meta_titre": "Caillou Café Comptoir à Lyon : horaires, avis",
-    "meta_description": "Caillou Café Comptoir, café ou bar à Lyon : horaires d'ouverture, note Google 4,4/5 (393 avis), adresse et itinéraire.",
-    "chapo": "Caillou Café Comptoir exerce l'activité de café ou bar au 60 Quai de Pierre-Scize, à Lyon. Ouvert sept jours sur sept au relevé du 18 octobre 2026. Note Google : 4,4 sur 5 pour 393 avis.",
+    "meta_description": "Caillou Café Comptoir, café ou bar à Lyon : horaires d'ouverture, note Google 4,4/5 (395 avis), adresse et itinéraire.",
+    "chapo": "Caillou Café Comptoir exerce l'activité de café ou bar au 60 Quai de Pierre-Scize, à Lyon. Ouvert sept jours sur sept au relevé du 1 novembre 2026. Note Google : 4,4 sur 5 pour 395 avis.",
     "sections": [
       {
         "id": "presentation",
         "titre": "Caillou Café Comptoir en quelques mots",
         "paragraphes": [
           "Sur Google, l'établissement est classé « Café », dans notre rubrique Café ou bar.",
-          "D'après le relevé du 18 octobre 2026, l'établissement est ouvert sept jours sur sept. Le détail jour par jour figure plus bas."
+          "Niveau de prix indiqué sur la fiche Google : € (bon marché).",
+          "D'après le relevé du 1 novembre 2026, l'établissement est ouvert sept jours sur sept. Le détail jour par jour figure plus bas."
+        ]
+      },
+      {
+        "id": "prestations",
+        "titre": "Services et équipements de Caillou Café Comptoir",
+        "paragraphes": [
+          "Proposé : sur place, à emporter, terrasse, petit-déjeuner, brunch, déjeuner, café, vin et toilettes.",
+          "Non proposé selon la fiche Google : livraison, retrait en voiture, menu enfant et musique live.",
+          "Moyens de paiement déclarés : carte bancaire, carte de débit et paiement sans contact.",
+          "Stationnement : stationnement payant dans la rue.",
+          "Ces indications sont déclarées par l'établissement sur sa fiche Google (relevé du 1 novembre 2026)."
         ]
       },
       {
@@ -165,29 +177,37 @@
         "id": "avis",
         "titre": "La réputation de Caillou Café Comptoir",
         "paragraphes": [
-          "Note de 4,4 sur 5 pour 393 avis Google au relevé du 18 octobre 2026. Les avis se consultent sur la fiche Google, dont le lien figure sur cette page."
+          "Note de 4,4 sur 5 pour 395 avis Google au relevé du 1 novembre 2026. Les avis les plus parlants sont compilés ci-dessous, avec un lien vers la fiche d'origine."
         ]
       }
     ],
     "faq": [
       {
         "q": "Quels sont les horaires de Caillou Café Comptoir ?",
-        "r": "Au relevé du 18 octobre 2026, Caillou Café Comptoir était ouvert sept jours sur sept. Dans le détail — lundi : de 8 h à 18 h ; mardi : de 8 h à 18 h ; mercredi : de 8 h à 18 h ; jeudi : de 8 h à 18 h ; vendredi : de 8 h à 18 h ; samedi : de 9 h à 19 h ; dimanche : de 10 h à 18 h. Ces horaires peuvent changer : un appel préalable reste conseillé."
+        "r": "Au relevé du 1 novembre 2026, Caillou Café Comptoir était ouvert sept jours sur sept. Dans le détail — lundi : de 8 h à 18 h ; mardi : de 8 h à 18 h ; mercredi : de 8 h à 18 h ; jeudi : de 8 h à 18 h ; vendredi : de 8 h à 18 h ; samedi : de 9 h à 19 h ; dimanche : de 10 h à 18 h. Ces horaires peuvent changer : un appel préalable reste conseillé."
       },
       {
         "q": "Caillou Café Comptoir est-il ouvert le dimanche ?",
-        "r": "Oui : le dimanche, Caillou Café Comptoir est ouvert de 10 h à 18 h (horaires relevés le 18 octobre 2026)."
+        "r": "Oui : le dimanche, Caillou Café Comptoir est ouvert de 10 h à 18 h (horaires relevés le 1 novembre 2026)."
       },
       {
         "q": "Où se trouve Caillou Café Comptoir ?",
         "r": "Caillou Café Comptoir se trouve 60 Quai de Pierre-Scize, 69005 Lyon. Un lien d'itinéraire est disponible sur cette page."
       },
       {
+        "q": "Caillou Café Comptoir propose-t-il la vente à emporter ou la livraison ?",
+        "r": "D'après sa fiche Google (relevé du 1 novembre 2026) — vente à emporter : oui ; livraison : non."
+      },
+      {
+        "q": "Quel est le niveau de prix de Caillou Café Comptoir ?",
+        "r": "Google classe Caillou Café Comptoir au niveau de prix € (bon marché), sur une échelle de € à €€€€ établie à partir des avis clients."
+      },
+      {
         "q": "Caillou Café Comptoir est-il accessible aux personnes à mobilité réduite ?",
         "r": "La fiche Google de l'établissement mentionne : « Entrée accessible en fauteuil roulant ». Cette information est déclarative ; en cas de doute, vérifiez par téléphone."
       }
     ],
-    "genere_le": "2026-10-18"
+    "genere_le": "2026-11-01"
   },
   "statut_google": "OPERATIONAL",
   "audience": {
@@ -198,6 +218,92 @@
     "clicsRecents": 0,
     "fenetreRecenteJours": 28,
     "source": "search-console",
-    "date": "2026-10-31"
+    "date": "2026-11-01"
+  },
+  "avis_detail": {
+    "releve": "2026-11-01",
+    "liste": [
+      {
+        "note": 5,
+        "texte": "Lieu très agréable pour travailler ou se poser et être tranquille. Une atmosphère qu'on trouve seulement en voyageant. Les pâtisseries et même le toast fromagé sont excellents, tout ce que j'ai goûté jusqu'à présent était incroyable. En revanche, il est dommage que le système de fidélité ne soit pas cumulable sur le long terme, bien que je comprenne l'intention dans le fond. Le service quant à lui ne peut pas vraiment être noté \"concrètement\" mais je trouve cela dommage que les baristas ne soient pas plus souriants, et que nous n'ayons pas suffisamment d'informations lors de notre commande pour une première venue. (J'y ai été deux fois) La première fois, j'avais commandé un thé, et le goût n'était précisé nulle part, pareil pour le sucre, bien qu'il soit en libre accès, ça ne change pas grand chose pour les personnes qui aiment boire bien sucré.\n\nEn dehors de ça, tout reste parfait, c'est spacieux, aéré, propre et il y a une citronnade en libre accès. L'emplacement est très lumineux, la terrasse superbe, et les toilettes très design & impeccables.  Je recommande cette expérience à 100% si vous êtes de passage sur Lyon ou que vous y habitez.",
+        "langue": "fr",
+        "date": "2026-08-26",
+        "auteur": "K.",
+        "auteur_lien": "https://www.google.com/maps/contrib/113444408995486180870/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xwT2NqbHVZbU16VWpWQmNYcExlSGRGZW5SQ1JFRRAB!2m1!1s0x47f4ebd04888c6c1:0x751da44b8e74eff7"
+      },
+      {
+        "note": 5,
+        "texte": "Je suis venue plusieurs fois et c’est vraiment un des meilleurs coffee shop que j’ai testé ! (Et pourtant j’en recense 20+) le café est très bon, les pâtisseries incroyables (meilleur flan de Lyon, au niveau de très bonnes boulangeries) et l’accueil à été top ! Un super café pour travailler tranquille et avoir de la place où se délecter après une sortie sportive 🫶",
+        "langue": "fr",
+        "date": "2026-07-20",
+        "auteur": "Ambre BEN",
+        "auteur_lien": "https://www.google.com/maps/contrib/103479553167730662677/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2tkdFdqQjBlV3BJZDFGd2NXeDZWRloxVHpad0xWRRAB!2m1!1s0x47f4ebd04888c6c1:0x751da44b8e74eff7"
+      },
+      {
+        "note": 1,
+        "texte": "Le café est bon, le flan aussi, le lieu est très joli. Malheureusement l’expérience dans ce café s’arrête là pour moi en raison de l’accueil et du service froid voire snob. Ce café qui pourrait être un joli refuge au frais s’avère plutôt décevant, surtout avec la multitude de cafés agréables et chaleureux à Lyon, pas la peine de s’y trop attarder., la commande se fait au bar et ce sont les clients qui doivent se lever ensuite pour la récupérer , pk pas, mais je trouve malvenu d’utiliser ensuite l’incitation au pourboire sur le lecteur de carte pour si peu",
+        "langue": "fr",
+        "date": "2026-07-20",
+        "auteur": "Clarisse D",
+        "auteur_lien": "https://www.google.com/maps/contrib/100914237161561195403/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2sxVFJqVlZOV2w2UTJOQ1EwOWxVbTlQVDFCM1ZIYxAB!2m1!1s0x47f4ebd04888c6c1:0x751da44b8e74eff7"
+      },
+      {
+        "note": 5,
+        "texte": "Excellent café avec énormément de choix. Le lieu est exceptionnel, il y a de la place pour s'asseoir, du WiFi. C'est un tres bon café pour y travailler, manger avec des amis ou seul. Je vous recommande vivement cet endroit",
+        "langue": "fr",
+        "date": "2026-03-27",
+        "auteur": "Moi meme",
+        "auteur_lien": "https://www.google.com/maps/contrib/108760818768466387139/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2twNVFqVnVVSEZVU1RWVGR6SnFjR3RpVkVoRVlrRRAB!2m1!1s0x47f4ebd04888c6c1:0x751da44b8e74eff7"
+      },
+      {
+        "note": 5,
+        "texte": "Un café délicieux !\nJ’ai enfin trouvé exactement ce que je recherchais : un endroit spacieux, calme et élégant, avec une petite bibliothèque, de jolies toiles et des espaces variés pour les amoureux de la lecture et du travail.\nC’est devenu mon endroit préféré désormais.\n\nLeur palmier croustillant au sucre et à la nougatine est absolument succulent, je le recommande vivement !\nJ’aimerais seulement que les prix des pâtisseries soient un peu plus bas…\nMais heureusement, il y a un choix très varié.",
+        "langue": "fr",
+        "date": "2025-11-15",
+        "auteur": "Soufia",
+        "auteur_lien": "https://www.google.com/maps/contrib/100056551153281122937/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25GQmJVSkZiVEZpTlhoalFsVkZSazlMUzFwaVRXYxAB!2m1!1s0x47f4ebd04888c6c1:0x751da44b8e74eff7"
+      }
+    ]
+  },
+  "services": {
+    "releve": "2026-11-01",
+    "prix": "PRICE_LEVEL_INEXPENSIVE",
+    "options": {
+      "dineIn": true,
+      "takeout": true,
+      "delivery": false,
+      "curbsidePickup": false,
+      "outdoorSeating": true,
+      "servesBreakfast": true,
+      "servesBrunch": true,
+      "servesLunch": true,
+      "servesCoffee": true,
+      "servesWine": true,
+      "menuForChildren": false,
+      "liveMusic": false,
+      "restroom": true
+    },
+    "paiement": [
+      "carte bancaire",
+      "carte de débit",
+      "paiement sans contact"
+    ],
+    "parking": [
+      "stationnement payant dans la rue"
+    ]
+  },
+  "indexation": {
+    "etat": "indexee",
+    "verdict": null,
+    "couverture": "impressions dans la Search Console",
+    "derniere_exploration": null,
+    "canonique_google": null,
+    "source": "impressions",
+    "date": "2026-11-01"
   }
 }

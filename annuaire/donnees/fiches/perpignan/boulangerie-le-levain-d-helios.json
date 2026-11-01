@@ -29,7 +29,7 @@
     "longitude": 2.8905409
   },
   "note": 4.3,
-  "avis": 773,
+  "avis": 778,
   "horaires": [
     {
       "jour": 0,
@@ -113,8 +113,8 @@
     "etat": "absent",
     "premiere_detection": null,
     "derniere_detection": null,
-    "derniere_verification": "2026-10-18T10:46:48.744Z",
-    "echecs": 42,
+    "derniere_verification": "2026-11-01T11:48:12.789Z",
+    "echecs": 43,
     "url_detectee": null
   },
   "suggestion": {
@@ -127,22 +127,34 @@
   "dates": {
     "collecte": "2026-09-18",
     "publication": "2026-09-18",
-    "maj": "2026-10-18"
+    "maj": "2026-11-01"
   },
   "source": "google-places",
   "redaction": {
     "version": 2,
     "titre": "Boulangerie Le Levain d'Hélios — Boulangerie-pâtisserie à Perpignan",
     "meta_titre": "Boulangerie Le Levain d'Hélios à Perpignan : horaires, avis",
-    "meta_description": "Boulangerie Le Levain d'Hélios, boulangerie-pâtisserie à Perpignan : horaires d'ouverture, note Google 4,3/5 (773 avis), téléphone, adresse et itinéraire.",
-    "chapo": "Boulangerie Le Levain d'Hélios, boulangerie-pâtisserie au 21 Boulevard Georges Clemenceau, à Perpignan. Ouvert sept jours sur sept au relevé du 18 octobre 2026. Téléphone : 04 68 34 75 54. Note Google : 4,3 sur 5 pour 773 avis.",
+    "meta_description": "Boulangerie Le Levain d'Hélios, boulangerie-pâtisserie à Perpignan : horaires d'ouverture, note Google 4,3/5 (778 avis), téléphone, adresse et itinéraire.",
+    "chapo": "Boulangerie Le Levain d'Hélios, boulangerie-pâtisserie au 21 Boulevard Georges Clemenceau, à Perpignan. Ouvert sept jours sur sept au relevé du 1 novembre 2026. Téléphone : 04 68 34 75 54. Note Google : 4,3 sur 5 pour 778 avis.",
     "sections": [
       {
         "id": "presentation",
         "titre": "Boulangerie Le Levain d'Hélios en quelques mots",
         "paragraphes": [
           "Sur Google, l'établissement est classé « Boulangerie », dans notre rubrique Boulangerie-pâtisserie.",
-          "D'après le relevé du 18 octobre 2026, l'établissement est ouvert sept jours sur sept. Le détail jour par jour figure plus bas."
+          "Niveau de prix indiqué sur la fiche Google : € (bon marché).",
+          "D'après le relevé du 1 novembre 2026, l'établissement est ouvert sept jours sur sept. Le détail jour par jour figure plus bas."
+        ]
+      },
+      {
+        "id": "prestations",
+        "titre": "Services et équipements de Boulangerie Le Levain d'Hélios",
+        "paragraphes": [
+          "Proposé : à emporter, petit-déjeuner et café.",
+          "Non proposé selon la fiche Google : livraison et toilettes.",
+          "Moyens de paiement déclarés : carte bancaire, carte de débit et paiement sans contact.",
+          "Stationnement : parking payant et stationnement payant dans la rue.",
+          "Ces indications sont déclarées par l'établissement sur sa fiche Google (relevé du 1 novembre 2026)."
         ]
       },
       {
@@ -164,18 +176,18 @@
         "id": "avis",
         "titre": "La réputation de Boulangerie Le Levain d'Hélios",
         "paragraphes": [
-          "Note de 4,3 sur 5 pour 773 avis Google au relevé du 18 octobre 2026. Les avis se consultent sur la fiche Google, dont le lien figure sur cette page."
+          "Note de 4,3 sur 5 pour 778 avis Google au relevé du 1 novembre 2026. Les avis les plus parlants sont compilés ci-dessous, avec un lien vers la fiche d'origine."
         ]
       }
     ],
     "faq": [
       {
         "q": "Quels sont les horaires de Boulangerie Le Levain d'Hélios ?",
-        "r": "Au relevé du 18 octobre 2026, Boulangerie Le Levain d'Hélios était ouvert sept jours sur sept. Dans le détail — lundi : de 7 h à 19 h 30 ; mardi : de 7 h à 19 h 30 ; mercredi : de 7 h à 19 h 30 ; jeudi : de 7 h à 19 h 30 ; vendredi : de 7 h à 19 h 30 ; samedi : de 7 h à 19 h 30 ; dimanche : de 7 h à 13 h. Ces horaires peuvent changer : un appel préalable reste conseillé."
+        "r": "Au relevé du 1 novembre 2026, Boulangerie Le Levain d'Hélios était ouvert sept jours sur sept. Dans le détail — lundi : de 7 h à 19 h 30 ; mardi : de 7 h à 19 h 30 ; mercredi : de 7 h à 19 h 30 ; jeudi : de 7 h à 19 h 30 ; vendredi : de 7 h à 19 h 30 ; samedi : de 7 h à 19 h 30 ; dimanche : de 7 h à 13 h. Ces horaires peuvent changer : un appel préalable reste conseillé."
       },
       {
         "q": "Boulangerie Le Levain d'Hélios est-il ouvert le dimanche ?",
-        "r": "Oui : le dimanche, Boulangerie Le Levain d'Hélios est ouvert de 7 h à 13 h (horaires relevés le 18 octobre 2026)."
+        "r": "Oui : le dimanche, Boulangerie Le Levain d'Hélios est ouvert de 7 h à 13 h (horaires relevés le 1 novembre 2026)."
       },
       {
         "q": "Où se trouve Boulangerie Le Levain d'Hélios ?",
@@ -186,11 +198,19 @@
         "r": "Par téléphone au 04 68 34 75 54, ou directement sur place aux heures d'ouverture."
       },
       {
+        "q": "Boulangerie Le Levain d'Hélios propose-t-il la vente à emporter ou la livraison ?",
+        "r": "D'après sa fiche Google (relevé du 1 novembre 2026) — vente à emporter : oui ; livraison : non."
+      },
+      {
+        "q": "Quel est le niveau de prix de Boulangerie Le Levain d'Hélios ?",
+        "r": "Google classe Boulangerie Le Levain d'Hélios au niveau de prix € (bon marché), sur une échelle de € à €€€€ établie à partir des avis clients."
+      },
+      {
         "q": "Boulangerie Le Levain d'Hélios est-il accessible aux personnes à mobilité réduite ?",
         "r": "La fiche Google de l'établissement mentionne : « Entrée accessible en fauteuil roulant ». Cette information est déclarative ; en cas de doute, vérifiez par téléphone."
       }
     ],
-    "genere_le": "2026-10-18"
+    "genere_le": "2026-11-01"
   },
   "statut_google": "OPERATIONAL",
   "audience": {
@@ -201,7 +221,7 @@
     "clicsRecents": 0,
     "fenetreRecenteJours": 28,
     "source": "search-console",
-    "date": "2026-10-31"
+    "date": "2026-11-01"
   },
   "indexation": {
     "etat": "non-indexee",
@@ -210,6 +230,76 @@
     "derniere_exploration": null,
     "canonique_google": null,
     "source": "inspection",
-    "date": "2026-10-31"
+    "date": "2026-11-01"
+  },
+  "avis_detail": {
+    "releve": "2026-11-01",
+    "liste": [
+      {
+        "note": 5,
+        "texte": "Très bonne expérience à la Boulangerie Le Levain d’Hélios ! Le personnel est très sympathique et accueillant, ce qui rend le moment encore plus agréable.\nNous avons goûté le croissant, qui était vraiment très bon, ainsi que le pain au chocolat, également délicieux. Et la baguette tradition était excellente, bien croustillante et pleine de goût. Nous sommes très contents de notre passage et nous reviendrons avec plaisir ! Une belle boulangerie à découvrir à Perpignan.",
+        "langue": "fr",
+        "date": "2026-10-03",
+        "auteur": "Fernando Viana",
+        "auteur_lien": "https://www.google.com/maps/contrib/113652351490554251660/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xWSmMzSnRWVWhUUTJ4NmNFUkliak5CU2xoSVNtYxAB!2m1!1s0x12b06e4e2915bb29:0xd3c06c725699cf4a"
+      },
+      {
+        "note": 5,
+        "texte": "Accueille chaleureux, les filles à la caisse souriante, c’est agréable 🥰\nDonc message aux patrons..\nPrenez en soin parce des gens qui font la geule ont en a marre !!\nOnt m’a parlé de leurs flancs à la vanille, et je me suis déplacé exprès pour ça, et honnêtement j’ai été très surpris.\nIl était juste incroyable et pourtant j’en ai manger des flancs !! 😋\nJe parle même pas de la tarte à la myrtille 🫐 🤤\nSans compter la tarte à la framboise 🫠\nMais alors la tarte citron meringuée 😵\nC’est simple ils étaient tous aussi délicieuses les unes que les autres, franchement 🫡\nTrès clairement c’est une Master Classe 👌\nBon courage à tout le personnel qui font en sorte d’être aux Top à tout les niveaux 🤝\nExcellente boulangerie je recommande fortement !!",
+        "langue": "fr",
+        "date": "2026-08-09",
+        "auteur": "Philippe",
+        "auteur_lien": "https://www.google.com/maps/contrib/113975450906084822799/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25SRVFsRm1lblY2WTFrMVFuWjZVamxRZEVoQ00wRRAB!2m1!1s0x12b06e4e2915bb29:0xd3c06c725699cf4a"
+      },
+      {
+        "note": 5,
+        "texte": "Enfin du bon pain sur Perpignan. Levain, indispensable, grand choix. Mie aérée, pains digestes, très bonne pâtisserie aussi. Un travail de professionnel. Merci.",
+        "langue": "fr",
+        "date": "2026-08-02",
+        "auteur": "ophl gl",
+        "auteur_lien": "https://www.google.com/maps/contrib/105371206226245546195/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2pWamF6QmhOQzFDWldGSWVrdEhXVUowWTFkRWVuYxAB!2m1!1s0x12b06e4e2915bb29:0xd3c06c725699cf4a"
+      },
+      {
+        "note": 5,
+        "texte": "Nichée dans un quartier pavillonnaire, discrète, cette boulangerie artisanale mérite le détour... Des préparations lunch alléchantes, une belle variété de pains, des viennoiseries très gourmandes... On sent le savoir faire de prime abord... À la dégustation, cette première impression est validée..mention spéciale pour le flan,excellent, bel équilibre entre douceur, sucrosité, et acidité... Coup de cœur pour le club sandwich œuf mollet,frais,léger... Régalade\nMerci",
+        "langue": "fr",
+        "date": "2026-06-11",
+        "auteur": "Nathalie Clauzel",
+        "auteur_lien": "https://www.google.com/maps/contrib/117305976071942797255/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2pkZlRXbFVPWGgwVm1weFZXVnhXa1UyYURadFgwRRAB!2m1!1s0x12b06e4e2915bb29:0xd3c06c725699cf4a"
+      },
+      {
+        "note": 5,
+        "texte": "Une excellente adresse ! Whaouuu tout est un délice chez eux. Le flan une tuerie le meilleur jamais mangé ! Le pain est a tomber par terre et les viennoiseries excellentes. Je me regale a chaque passage.... merciiii les vendeuses toujours souriantes et agréable ca fait plaisir.",
+        "langue": "fr",
+        "date": "2026-06-10",
+        "auteur": "Audrey Cavalerie",
+        "auteur_lien": "https://www.google.com/maps/contrib/100442399420311591121/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT21FemFHZDNUV1ZuY2tkclUxSnNORmg0YlVab1JIYxAB!2m1!1s0x12b06e4e2915bb29:0xd3c06c725699cf4a"
+      }
+    ]
+  },
+  "services": {
+    "releve": "2026-11-01",
+    "prix": "PRICE_LEVEL_INEXPENSIVE",
+    "options": {
+      "takeout": true,
+      "delivery": false,
+      "servesBreakfast": true,
+      "servesCoffee": true,
+      "restroom": false
+    },
+    "paiement": [
+      "carte bancaire",
+      "carte de débit",
+      "paiement sans contact"
+    ],
+    "parking": [
+      "parking payant",
+      "stationnement payant dans la rue"
+    ]
   }
 }

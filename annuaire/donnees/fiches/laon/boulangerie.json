@@ -29,7 +29,7 @@
     "longitude": 3.6318246999999997
   },
   "note": 4,
-  "avis": 291,
+  "avis": 290,
   "horaires": [
     {
       "jour": 0,
@@ -108,8 +108,8 @@
     "etat": "absent",
     "premiere_detection": null,
     "derniere_detection": null,
-    "derniere_verification": "2026-10-18T10:46:48.744Z",
-    "echecs": 30,
+    "derniere_verification": "2026-11-01T11:48:12.789Z",
+    "echecs": 31,
     "url_detectee": null
   },
   "suggestion": {
@@ -122,22 +122,33 @@
   "dates": {
     "collecte": "2026-09-24",
     "publication": "2026-09-24",
-    "maj": "2026-10-18"
+    "maj": "2026-11-01"
   },
   "source": "google-places",
   "redaction": {
     "version": 2,
     "titre": "Boulangerie — Boulangerie-pâtisserie à Laon",
     "meta_titre": "Boulangerie à Laon : horaires, avis, téléphone",
-    "meta_description": "Boulangerie, boulangerie-pâtisserie à Laon : horaires d'ouverture, note Google 4/5 (291 avis), téléphone, adresse et itinéraire.",
-    "chapo": "Boulangerie, boulangerie-pâtisserie au 31 Rue Eugène Leduc, à Laon. Ouvert tous les jours sauf le mardi au relevé du 18 octobre 2026. Téléphone : 09 83 71 83 46. Note Google : 4 sur 5 pour 291 avis.",
+    "meta_description": "Boulangerie, boulangerie-pâtisserie à Laon : horaires d'ouverture, note Google 4/5 (290 avis), téléphone, adresse et itinéraire.",
+    "chapo": "Boulangerie, boulangerie-pâtisserie au 31 Rue Eugène Leduc, à Laon. Ouvert tous les jours sauf le mardi au relevé du 1 novembre 2026. Téléphone : 09 83 71 83 46. Note Google : 4 sur 5 pour 290 avis.",
     "sections": [
       {
         "id": "presentation",
         "titre": "Boulangerie en quelques mots",
         "paragraphes": [
           "Sur Google, l'établissement est classé « Boulangerie », dans notre rubrique Boulangerie-pâtisserie.",
-          "D'après le relevé du 18 octobre 2026, l'établissement est ouvert tous les jours sauf le mardi. Le détail jour par jour figure plus bas."
+          "Niveau de prix indiqué sur la fiche Google : € (bon marché).",
+          "D'après le relevé du 1 novembre 2026, l'établissement est ouvert tous les jours sauf le mardi. Le détail jour par jour figure plus bas."
+        ]
+      },
+      {
+        "id": "prestations",
+        "titre": "Services et équipements de Boulangerie",
+        "paragraphes": [
+          "Proposé : livraison.",
+          "Non proposé selon la fiche Google : petit-déjeuner et café.",
+          "Moyens de paiement déclarés : carte bancaire, carte de débit et paiement sans contact.",
+          "Ces indications sont déclarées par l'établissement sur sa fiche Google (relevé du 1 novembre 2026)."
         ]
       },
       {
@@ -159,18 +170,18 @@
         "id": "avis",
         "titre": "La réputation de Boulangerie",
         "paragraphes": [
-          "Note de 4 sur 5 pour 291 avis Google au relevé du 18 octobre 2026. Les avis se consultent sur la fiche Google, dont le lien figure sur cette page."
+          "Note de 4 sur 5 pour 290 avis Google au relevé du 1 novembre 2026. Les avis les plus parlants sont compilés ci-dessous, avec un lien vers la fiche d'origine."
         ]
       }
     ],
     "faq": [
       {
         "q": "Quels sont les horaires de Boulangerie ?",
-        "r": "Au relevé du 18 octobre 2026, Boulangerie était ouvert tous les jours sauf le mardi. Dans le détail — lundi : de 6 h à 20 h ; mardi : fermé ; mercredi : de 6 h à 20 h ; jeudi : de 6 h à 20 h ; vendredi : de 6 h à 20 h ; samedi : de 6 h à 20 h ; dimanche : de 6 h à 20 h. Ces horaires peuvent changer : un appel préalable reste conseillé."
+        "r": "Au relevé du 1 novembre 2026, Boulangerie était ouvert tous les jours sauf le mardi. Dans le détail — lundi : de 6 h à 20 h ; mardi : fermé ; mercredi : de 6 h à 20 h ; jeudi : de 6 h à 20 h ; vendredi : de 6 h à 20 h ; samedi : de 6 h à 20 h ; dimanche : de 6 h à 20 h. Ces horaires peuvent changer : un appel préalable reste conseillé."
       },
       {
         "q": "Boulangerie est-il ouvert le dimanche ?",
-        "r": "Oui : le dimanche, Boulangerie est ouvert de 6 h à 20 h (horaires relevés le 18 octobre 2026)."
+        "r": "Oui : le dimanche, Boulangerie est ouvert de 6 h à 20 h (horaires relevés le 1 novembre 2026)."
       },
       {
         "q": "Où se trouve Boulangerie ?",
@@ -181,11 +192,19 @@
         "r": "Par téléphone au 09 83 71 83 46, ou directement sur place aux heures d'ouverture."
       },
       {
+        "q": "Boulangerie propose-t-il la vente à emporter ou la livraison ?",
+        "r": "D'après sa fiche Google (relevé du 1 novembre 2026) — livraison : oui."
+      },
+      {
+        "q": "Quel est le niveau de prix de Boulangerie ?",
+        "r": "Google classe Boulangerie au niveau de prix € (bon marché), sur une échelle de € à €€€€ établie à partir des avis clients."
+      },
+      {
         "q": "Boulangerie est-il accessible aux personnes à mobilité réduite ?",
         "r": "La fiche Google de l'établissement mentionne : « Entrée accessible en fauteuil roulant ». Cette information est déclarative ; en cas de doute, vérifiez par téléphone."
       }
     ],
-    "genere_le": "2026-10-18"
+    "genere_le": "2026-11-01"
   },
   "statut_google": "OPERATIONAL",
   "audience": {
@@ -196,6 +215,80 @@
     "clicsRecents": 0,
     "fenetreRecenteJours": 28,
     "source": "search-console",
-    "date": "2026-10-31"
+    "date": "2026-11-01"
+  },
+  "avis_detail": {
+    "releve": "2026-11-01",
+    "liste": [
+      {
+        "note": 3,
+        "texte": "La brioche feuilletée n’est pas bonne malheureusement pour le prix ( 4€) on s’attend à un peu plus de qualité et de goût.",
+        "langue": "fr",
+        "date": "2026-09-06",
+        "auteur": "Fella Bouzid",
+        "auteur_lien": "https://www.google.com/maps/contrib/101032775629931979588/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2taaE4yRlBVVGc0WTFoeVNHdDNVM1ZUT1V0cWNuYxAB!2m1!1s0x47e84b48c5b847a3:0x3e8fd14e28da2f6b"
+      },
+      {
+        "note": 2,
+        "texte": "Produits goûtés : part de flan et part de Délice au spéculoos.\nLes deux ne sont franchement pas terribles. J'ai un doute sur ce que m'a dit la vendeuse (flan du jour) vu la pâte et le goût...\nAu niveau des vitrines, la partie snacking est un répulsive : sandwiches en plein soleil qui se font visiter par des mouches vertes et des guêpes 😵‍💫",
+        "langue": "fr",
+        "date": "2026-09-05",
+        "auteur": "Stéphanie Pauchet",
+        "auteur_lien": "https://www.google.com/maps/contrib/105181357399767072591/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2s1WU4zVmZla2xHVEdKTVQwcHhURU5VY0ZOT1gwRRAB!2m1!1s0x47e84b48c5b847a3:0x3e8fd14e28da2f6b"
+      },
+      {
+        "note": 3,
+        "texte": "Bon pain au chocolat et croissant. En revanche la carte ticket restaurant Edenred n'est pas accepté...dommage.",
+        "langue": "fr",
+        "date": "2026-07-30",
+        "auteur": "Zahra Jebbar",
+        "auteur_lien": "https://www.google.com/maps/contrib/113567306346381081337/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2pSWVJWaGpOVUYzZEhoMFNrWkJSV05YYlVvMllVRRAB!2m1!1s0x47e84b48c5b847a3:0x3e8fd14e28da2f6b"
+      },
+      {
+        "note": 5,
+        "texte": "Waouh, superbe boulangerie j'y allais enfant, elle n'a pas bouger, cest sa force, meme la vendeuse est toujours la, cest incroyable ! De plus elle est super agréable !Je suis rentré jai pris une claque de nostalgie, toujours de belles viennoiseries en vitrine, jai pris un panini, il été excellent, maintenant je sais ou je vais m'arrêter prendre mon pain, tout est réunis, la qualité de l'accueil et du produits",
+        "langue": "fr",
+        "date": "2025-12-17",
+        "auteur": "Florian Lefevre",
+        "auteur_lien": "https://www.google.com/maps/contrib/107539982451686891097/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT21SRE1uQjNUMHB5V1hZNVFuWkRTVFUwZFRoelRXYxAB!2m1!1s0x47e84b48c5b847a3:0x3e8fd14e28da2f6b"
+      },
+      {
+        "note": 3,
+        "texte": "Je vais régulièrement à cette boulangerie tout ce passe bien d'habitude... mais je vien de découvrir un moucheron mort sur ma pizza !! incrusté dans le fromage 😭😭\nTrès déçu...",
+        "langue": "fr",
+        "date": "2025-10-15",
+        "auteur": "Ines Fertil",
+        "auteur_lien": "https://www.google.com/maps/contrib/118324022330724108148/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2t0elZHZHBjRzE1VjJkamVYbG5UMlpqZEhSTU5tYxAB!2m1!1s0x47e84b48c5b847a3:0x3e8fd14e28da2f6b"
+      }
+    ]
+  },
+  "services": {
+    "releve": "2026-11-01",
+    "prix": "PRICE_LEVEL_INEXPENSIVE",
+    "options": {
+      "delivery": true,
+      "servesBreakfast": false,
+      "servesCoffee": false
+    },
+    "paiement": [
+      "carte bancaire",
+      "carte de débit",
+      "paiement sans contact"
+    ],
+    "parking": []
+  },
+  "indexation": {
+    "etat": "non-indexee",
+    "verdict": "NEUTRAL",
+    "couverture": "Détectée, actuellement non indexée",
+    "derniere_exploration": null,
+    "canonique_google": null,
+    "source": "inspection",
+    "date": "2026-11-01"
   }
 }

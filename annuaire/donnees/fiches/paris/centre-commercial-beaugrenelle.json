@@ -42,7 +42,7 @@
     "longitude": 2.2826114
   },
   "note": 4.3,
-  "avis": 7470,
+  "avis": 7513,
   "horaires": [
     {
       "jour": 0,
@@ -127,8 +127,8 @@
     "etat": "absent",
     "premiere_detection": null,
     "derniere_detection": null,
-    "derniere_verification": "2026-10-18T10:46:48.744Z",
-    "echecs": 28,
+    "derniere_verification": "2026-11-01T11:48:12.789Z",
+    "echecs": 29,
     "url_detectee": null
   },
   "suggestion": {
@@ -148,22 +148,33 @@
   "dates": {
     "collecte": "2026-09-24",
     "publication": "2026-09-24",
-    "maj": "2026-10-18"
+    "maj": "2026-11-01"
   },
   "source": "google-places",
   "redaction": {
     "version": 2,
     "titre": "Centre Commercial Beaugrenelle — Pharmacie ou opticien à Paris",
     "meta_titre": "Centre Commercial Beaugrenelle à Paris : horaires, avis",
-    "meta_description": "Centre Commercial Beaugrenelle, pharmacie ou opticien à Paris : horaires d'ouverture, note Google 4,3/5 (7470 avis), téléphone, adresse et itinéraire.",
-    "chapo": "Centre Commercial Beaugrenelle exerce l'activité de pharmacie ou opticien au 12 Rue Linois, à Paris. Ouvert sept jours sur sept au relevé du 18 octobre 2026. Téléphone : 01 53 95 24 00. Note Google : 4,3 sur 5 pour 7470 avis.",
+    "meta_description": "Centre Commercial Beaugrenelle, pharmacie ou opticien à Paris : horaires d'ouverture, note Google 4,3/5 (7513 avis), téléphone, adresse et itinéraire.",
+    "chapo": "Centre Commercial Beaugrenelle exerce l'activité de pharmacie ou opticien au 12 Rue Linois, à Paris. Ouvert sept jours sur sept au relevé du 1 novembre 2026. Téléphone : 01 53 95 24 00. Note Google : 4,3 sur 5 pour 7513 avis.",
     "sections": [
       {
         "id": "presentation",
         "titre": "Centre Commercial Beaugrenelle en quelques mots",
         "paragraphes": [
+          "Présentation donnée par Google : « Élégant centre commercial couvert avec des marques internationales haut de gamme sur plusieurs étages, des restaurants et un cinéma. »",
           "Sur Google, l'établissement est classé « Centre commercial », dans notre rubrique Pharmacie ou opticien.",
-          "D'après le relevé du 18 octobre 2026, l'établissement est ouvert sept jours sur sept. Le détail jour par jour figure plus bas."
+          "D'après le relevé du 1 novembre 2026, l'établissement est ouvert sept jours sur sept. Le détail jour par jour figure plus bas."
+        ]
+      },
+      {
+        "id": "prestations",
+        "titre": "Services et équipements de Centre Commercial Beaugrenelle",
+        "paragraphes": [
+          "Proposé : à emporter et toilettes.",
+          "Moyens de paiement déclarés : carte bancaire, carte de débit et paiement sans contact.",
+          "Stationnement : parking payant, stationnement payant dans la rue et garage payant.",
+          "Ces indications sont déclarées par l'établissement sur sa fiche Google (relevé du 1 novembre 2026)."
         ]
       },
       {
@@ -185,18 +196,18 @@
         "id": "avis",
         "titre": "La réputation de Centre Commercial Beaugrenelle",
         "paragraphes": [
-          "Note de 4,3 sur 5 pour 7470 avis Google au relevé du 18 octobre 2026. Les avis se consultent sur la fiche Google, dont le lien figure sur cette page."
+          "Note de 4,3 sur 5 pour 7513 avis Google au relevé du 1 novembre 2026. Les avis les plus parlants sont compilés ci-dessous, avec un lien vers la fiche d'origine."
         ]
       }
     ],
     "faq": [
       {
         "q": "Quels sont les horaires de Centre Commercial Beaugrenelle ?",
-        "r": "Au relevé du 18 octobre 2026, Centre Commercial Beaugrenelle était ouvert sept jours sur sept. Dans le détail — lundi : de 10 h à 20 h ; mardi : de 10 h à 20 h ; mercredi : de 10 h à 20 h ; jeudi : de 10 h à 20 h ; vendredi : de 10 h à 20 h ; samedi : de 10 h à 20 h ; dimanche : de 11 h à 20 h. Ces horaires peuvent changer : un appel préalable reste conseillé."
+        "r": "Au relevé du 1 novembre 2026, Centre Commercial Beaugrenelle était ouvert sept jours sur sept. Dans le détail — lundi : de 10 h à 20 h ; mardi : de 10 h à 20 h ; mercredi : de 10 h à 20 h ; jeudi : de 10 h à 20 h ; vendredi : de 10 h à 20 h ; samedi : de 10 h à 20 h ; dimanche : de 11 h à 20 h. Ces horaires peuvent changer : un appel préalable reste conseillé."
       },
       {
         "q": "Centre Commercial Beaugrenelle est-il ouvert le dimanche ?",
-        "r": "Oui : le dimanche, Centre Commercial Beaugrenelle est ouvert de 11 h à 20 h (horaires relevés le 18 octobre 2026)."
+        "r": "Oui : le dimanche, Centre Commercial Beaugrenelle est ouvert de 11 h à 20 h (horaires relevés le 1 novembre 2026)."
       },
       {
         "q": "Où se trouve Centre Commercial Beaugrenelle ?",
@@ -207,11 +218,15 @@
         "r": "Par téléphone au 01 53 95 24 00, ou directement sur place aux heures d'ouverture."
       },
       {
+        "q": "Centre Commercial Beaugrenelle propose-t-il la vente à emporter ou la livraison ?",
+        "r": "D'après sa fiche Google (relevé du 1 novembre 2026) — vente à emporter : oui."
+      },
+      {
         "q": "Centre Commercial Beaugrenelle est-il accessible aux personnes à mobilité réduite ?",
         "r": "La fiche Google de l'établissement mentionne : « Entrée accessible en fauteuil roulant ». Cette information est déclarative ; en cas de doute, vérifiez par téléphone."
       }
     ],
-    "genere_le": "2026-10-18"
+    "genere_le": "2026-11-01"
   },
   "statut_google": "OPERATIONAL",
   "audience": {
@@ -222,6 +237,75 @@
     "clicsRecents": 0,
     "fenetreRecenteJours": 28,
     "source": "search-console",
-    "date": "2026-10-31"
+    "date": "2026-11-01"
+  },
+  "avis_detail": {
+    "releve": "2026-11-01",
+    "liste": [
+      {
+        "note": 5,
+        "texte": "Très beau centre commercial, c'est parfaitement entretenu et agréable à visiter.\nC’est l’endroit idéal pour faire des achats de shopping dans les jours de semaine et week-end que ce soit entre amis, en famille ou avec sa moitié.\nLes boutiques sont belles, propres, et exceptionnelles. Les magasins, cafés, restaurants sont très variés, incroyables  et très beaux. Les personnels sont toujours accueillants.\nRien à redire, tout est réuni pour une belle expérience shopping.\nJe recommande vivement ! 🌟🌟🌟🌟🌟",
+        "langue": "fr",
+        "date": "2026-10-12",
+        "auteur": "Marvin M",
+        "auteur_lien": "https://www.google.com/maps/contrib/100561899421147808926/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25vNFoxUk9SVzlSTlZwdVRUbFlkazFUY1VWelYwRRAB!2m1!1s0x47e67005e415b401:0x2224060f313eabdd"
+      },
+      {
+        "note": 5,
+        "texte": "Très beau centre commercial à Paris ! Beaugrenelle est vraiment agréable à visiter, avec plusieurs étages, de nombreuses boutiques et une architecture moderne et élégante.\n\nLe centre est également très bien situé, ce qui le rend facilement accessible. L’ensemble est propre, bien entretenu et offre un cadre agréable pour faire du shopping ou simplement se promener.\n\nUn très beau centre commercial que je recommande sans hésiter ! 😊",
+        "langue": "fr",
+        "date": "2026-08-18",
+        "auteur": "Karel GENOU",
+        "auteur_lien": "https://www.google.com/maps/contrib/101732864233546993123/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25GNlpGRklUVVI0UzNKQlZqQkhRVWRsTTI1T1VGRRAB!2m1!1s0x47e67005e415b401:0x2224060f313eabdd"
+      },
+      {
+        "note": 4,
+        "texte": "Architecturalement c'est splendide !\nMais certaines boutiques manquent d'âme et sont très mal disposées.",
+        "langue": "fr",
+        "date": "2026-07-11",
+        "auteur": "Alex T.",
+        "auteur_lien": "https://www.google.com/maps/contrib/114415376438663015260/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT205SFZUQTRPVXQxWjFKRWFYWXlVMlJDUlZsUVJuYxAB!2m1!1s0x47e67005e415b401:0x2224060f313eabdd"
+      },
+      {
+        "note": 5,
+        "texte": "Pour moi, Beaugrenelle est de loin l’un des centres commerciaux les plus agréables de Paris.\n\nOn s’y sent immédiatement à l’aise. L’ambiance est élégante, calme et accueillante, ce qui rend chaque visite particulièrement agréable. Les boutiques sont variées, les espaces sont propres et lumineux, et l’on prend vraiment plaisir à flâner sans se sentir pressé ou observé.\n\nLes équipes des différentes enseignes sont, dans l’ensemble, professionnelles, disponibles et respectueuses. J’apprécie surtout le fait d’avoir toujours le sentiment d’être accueillie comme n’importe quel autre client, ce qui permet de faire son shopping en toute sérénité.\n\nC’est un centre commercial où je reviens avec plaisir, justement parce que l’expérience client est au rendez-vous. Bravo à l’ensemble des équipes pour la qualité de l’accueil et l’atmosphère qu’elles contribuent à créer.",
+        "langue": "fr",
+        "date": "2026-07-02",
+        "auteur": "akvsha afb",
+        "auteur_lien": "https://www.google.com/maps/contrib/107177901508096895104/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xKblpHODFWWEpETm1kbVZHOVRhREpwYlRGRGJIYxAB!2m1!1s0x47e67005e415b401:0x2224060f313eabdd"
+      },
+      {
+        "note": 4,
+        "texte": "Beau centre moderne. Beaucoup de boutiques de mode, de sport, Darty....ainsi que des stands pour goûter...Par une passerelle, on peut trouver quelques restaurants, cinéma et Galeries Lafayettes. Il y a un parking souterrain payant. Show du chanteur Tayc, c'était le feu. Difficile de se déplacer durant ce show. Bonne ambiance.",
+        "langue": "fr",
+        "date": "2026-06-03",
+        "auteur": "Vilayvone Fuentes",
+        "auteur_lien": "https://www.google.com/maps/contrib/104171684923609319691/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT21oR1IwWm9Ra2g0UlhCNWRXWlpkalZIUkdGMloxRRAB!2m1!1s0x47e67005e415b401:0x2224060f313eabdd"
+      }
+    ]
+  },
+  "services": {
+    "releve": "2026-11-01",
+    "resume": "Élégant centre commercial couvert avec des marques internationales haut de gamme sur plusieurs étages, des restaurants et un cinéma.",
+    "resume_langue": "fr",
+    "options": {
+      "takeout": true,
+      "restroom": true
+    },
+    "paiement": [
+      "carte bancaire",
+      "carte de débit",
+      "paiement sans contact"
+    ],
+    "parking": [
+      "parking payant",
+      "stationnement payant dans la rue",
+      "garage payant"
+    ]
   }
 }

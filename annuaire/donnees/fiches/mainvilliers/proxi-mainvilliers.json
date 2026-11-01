@@ -1,0 +1,276 @@
+{
+  "id": "ChIJh4r6KlTiMwkR8wqt0Cq9Wfg",
+  "slug": "proxi-mainvilliers",
+  "nom": "PROXI MAINVILLIERS",
+  "categorie": "commerces-alimentation",
+  "categorie_gmb": "Épicerie",
+  "type_principal": "grocery_store",
+  "types": [
+    "grocery_store",
+    "food_store",
+    "food",
+    "store",
+    "point_of_interest",
+    "establishment"
+  ],
+  "ville": "Mainvilliers",
+  "ville_slug": "mainvilliers",
+  "adresse": {
+    "rue": "96 Rue de la République",
+    "code_postal": "28300",
+    "departement": "28",
+    "region": "Centre-Val de Loire",
+    "pays": "France",
+    "complete": "96 Rue de la République, 28300 Mainvilliers"
+  },
+  "telephone": "09 81 07 28 38",
+  "geo": {
+    "latitude": 48.448894499999994,
+    "longitude": 1.4679045
+  },
+  "note": 4.2,
+  "avis": 26,
+  "horaires": [
+    {
+      "jour": 0,
+      "ferme": false,
+      "creneaux": [
+        [
+          "09:00",
+          "21:00"
+        ]
+      ]
+    },
+    {
+      "jour": 1,
+      "ferme": false,
+      "creneaux": [
+        [
+          "09:00",
+          "21:00"
+        ]
+      ]
+    },
+    {
+      "jour": 2,
+      "ferme": false,
+      "creneaux": [
+        [
+          "09:00",
+          "21:00"
+        ]
+      ]
+    },
+    {
+      "jour": 3,
+      "ferme": false,
+      "creneaux": [
+        [
+          "09:00",
+          "21:00"
+        ]
+      ]
+    },
+    {
+      "jour": 4,
+      "ferme": false,
+      "creneaux": [
+        [
+          "09:00",
+          "21:00"
+        ]
+      ]
+    },
+    {
+      "jour": 5,
+      "ferme": false,
+      "creneaux": [
+        [
+          "09:00",
+          "21:00"
+        ]
+      ]
+    },
+    {
+      "jour": 6,
+      "ferme": false,
+      "creneaux": [
+        [
+          "10:00",
+          "20:00"
+        ]
+      ]
+    }
+  ],
+  "attributs": [
+    "Parking accessible en fauteuil roulant"
+  ],
+  "lien_google": "https://maps.google.com/?cid=17895542585920654067&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
+  "site_web_gmb": null,
+  "statut": "publiee",
+  "backlink": {
+    "etat": "absent",
+    "premiere_detection": null,
+    "derniere_detection": null,
+    "derniere_verification": "2026-11-01T11:48:12.789Z",
+    "echecs": 1,
+    "url_detectee": null
+  },
+  "suggestion": {
+    "etat": "en-attente",
+    "date_soumission": null,
+    "tentatives": 0,
+    "date_email": "2026-11-01"
+  },
+  "retrait": null,
+  "dates": {
+    "collecte": "2026-11-01",
+    "publication": "2026-11-01",
+    "maj": "2026-11-01"
+  },
+  "source": "google-places",
+  "avis_detail": {
+    "releve": "2026-11-01",
+    "liste": [
+      {
+        "note": 5,
+        "texte": "superbe petit commerce local. Calme, pratique, on y trouve tout ce dont on a besoin.\n\nEnvoi et réception de colis disponibles/",
+        "langue": "fr",
+        "date": "2026-04-18",
+        "auteur": "Sergiu Popa",
+        "auteur_lien": "https://www.google.com/maps/contrib/107346059240598864543/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xkalJXVTVNak5oUnpWSExWOU5hamN5T0Vwc1FtYxAB!2m1!1s0x933e2542afa8a87:0xf859bd2ad0ad0af3"
+      },
+      {
+        "note": 5,
+        "texte": "Épicerie pratique et ouverte tous les jours pour des courses rapides, ou pour envoyer des colis.",
+        "langue": "fr",
+        "date": "2026-04-05",
+        "auteur": "Sylmis",
+        "auteur_lien": "https://www.google.com/maps/contrib/106160643280585616999/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2tSU1RtZzNRakJsTnpGalIzcFJkbUZXU0dwb01IYxAB!2m1!1s0x933e2542afa8a87:0xf859bd2ad0ad0af3"
+      },
+      {
+        "note": 5,
+        "texte": "Merci pour se petit proxi on peut tout faire en plus les vendeur son sympas",
+        "langue": "fr",
+        "date": "2026-02-17",
+        "auteur": "Huguette jason",
+        "auteur_lien": "https://www.google.com/maps/contrib/100969338095468493856/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2twQ2RrdDJNV3BEVm5odk4yOUhSVzVtZGxsQmVWRRAB!2m1!1s0x933e2542afa8a87:0xf859bd2ad0ad0af3"
+      },
+      {
+        "note": 5,
+        "texte": "Sincèrement, heureusement que ces petits commerces sont encore là, surtout dans ce quartier... Accueil super, magasin tenu avec soins et prix corrects. On y va pas évidemment pour faire ses courses de la semaine pour notre part mais toujours content de savoir qu'un dimanche il y a un petit commerce pour nous accueillir et nous permettre de finir le week-end... Ouverture 7/7....Merci",
+        "langue": "fr",
+        "date": "2025-05-11",
+        "auteur": "henri-francois Furno",
+        "auteur_lien": "https://www.google.com/maps/contrib/110065168399128128262/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VKS3d4ZUtkNnVxOWdnRRAB!2m1!1s0x933e2542afa8a87:0xf859bd2ad0ad0af3"
+      },
+      {
+        "note": 5,
+        "texte": "Le mr des week-ends est très gentil et adorable il était très ouvert ça apporte du baume au coeur mes enfants l’adorent et veulent avoir son accent élégant",
+        "langue": "fr",
+        "date": "2025-04-02",
+        "auteur": "Gnanki GOUNOU",
+        "auteur_lien": "https://www.google.com/maps/contrib/102784780780882979280/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnTUNJd2RXT3VnRRAB!2m1!1s0x933e2542afa8a87:0xf859bd2ad0ad0af3"
+      }
+    ]
+  },
+  "services": {
+    "releve": "2026-11-01",
+    "options": {
+      "restroom": false
+    },
+    "paiement": [
+      "carte bancaire",
+      "carte de débit",
+      "paiement sans contact"
+    ],
+    "parking": []
+  },
+  "redaction": {
+    "version": 2,
+    "titre": "PROXI MAINVILLIERS — Commerce d'alimentation à Mainvilliers",
+    "meta_titre": "PROXI MAINVILLIERS à Mainvilliers : horaires, avis",
+    "meta_description": "PROXI MAINVILLIERS, commerce d'alimentation à Mainvilliers : horaires d'ouverture, note Google 4,2/5 (26 avis), téléphone, adresse et itinéraire.",
+    "chapo": "PROXI MAINVILLIERS est un commerce d'alimentation au 96 Rue de la République, à Mainvilliers. Ouvert sept jours sur sept au relevé du 1 novembre 2026. Téléphone : 09 81 07 28 38. Note Google : 4,2 sur 5 pour 26 avis.",
+    "sections": [
+      {
+        "id": "presentation",
+        "titre": "PROXI MAINVILLIERS en quelques mots",
+        "paragraphes": [
+          "Sur Google, l'établissement est classé « Épicerie », dans notre rubrique Commerce d'alimentation.",
+          "D'après le relevé du 1 novembre 2026, l'établissement est ouvert sept jours sur sept. Le détail jour par jour figure plus bas."
+        ]
+      },
+      {
+        "id": "prestations",
+        "titre": "Services et équipements de PROXI MAINVILLIERS",
+        "paragraphes": [
+          "Non proposé selon la fiche Google : toilettes.",
+          "Moyens de paiement déclarés : carte bancaire, carte de débit et paiement sans contact.",
+          "Ces indications sont déclarées par l'établissement sur sa fiche Google (relevé du 1 novembre 2026)."
+        ]
+      },
+      {
+        "id": "acces",
+        "titre": "Adresse et accès",
+        "paragraphes": [
+          "L'établissement est situé au 96 Rue de la République, 28300 Mainvilliers.",
+          "Coordonnées GPS : 48.44889, 1.46790. Le bouton Itinéraire de cette page ouvre la navigation."
+        ]
+      },
+      {
+        "id": "contact",
+        "titre": "Contacter PROXI MAINVILLIERS",
+        "paragraphes": [
+          "Le contact se fait par téléphone au 09 81 07 28 38, ou directement sur place aux horaires d'ouverture."
+        ]
+      },
+      {
+        "id": "avis",
+        "titre": "La réputation de PROXI MAINVILLIERS",
+        "paragraphes": [
+          "Note de 4,2 sur 5 pour 26 avis Google au relevé du 1 novembre 2026. Les avis les plus parlants sont compilés ci-dessous, avec un lien vers la fiche d'origine."
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "q": "Quels sont les horaires de PROXI MAINVILLIERS ?",
+        "r": "Au relevé du 1 novembre 2026, PROXI MAINVILLIERS était ouvert sept jours sur sept. Dans le détail — lundi : de 9 h à 21 h ; mardi : de 9 h à 21 h ; mercredi : de 9 h à 21 h ; jeudi : de 9 h à 21 h ; vendredi : de 9 h à 21 h ; samedi : de 9 h à 21 h ; dimanche : de 10 h à 20 h. Ces horaires peuvent changer : un appel préalable reste conseillé."
+      },
+      {
+        "q": "PROXI MAINVILLIERS est-il ouvert le dimanche ?",
+        "r": "Oui : le dimanche, PROXI MAINVILLIERS est ouvert de 10 h à 20 h (horaires relevés le 1 novembre 2026)."
+      },
+      {
+        "q": "Où se trouve PROXI MAINVILLIERS ?",
+        "r": "PROXI MAINVILLIERS se trouve 96 Rue de la République, 28300 Mainvilliers. Un lien d'itinéraire est disponible sur cette page."
+      },
+      {
+        "q": "Comment contacter PROXI MAINVILLIERS ?",
+        "r": "Par téléphone au 09 81 07 28 38, ou directement sur place aux heures d'ouverture."
+      },
+      {
+        "q": "PROXI MAINVILLIERS est-il accessible aux personnes à mobilité réduite ?",
+        "r": "La fiche Google de l'établissement mentionne : « Parking accessible en fauteuil roulant ». Cette information est déclarative ; en cas de doute, vérifiez par téléphone."
+      }
+    ],
+    "genere_le": "2026-11-01"
+  },
+  "statut_google": "OPERATIONAL",
+  "audience": {
+    "clics": 0,
+    "impressions": 0,
+    "position": null,
+    "fenetreJours": 90,
+    "clicsRecents": 0,
+    "fenetreRecenteJours": 28,
+    "source": "search-console",
+    "date": "2026-11-01"
+  }
+}

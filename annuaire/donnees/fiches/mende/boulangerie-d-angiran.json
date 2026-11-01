@@ -110,8 +110,8 @@
     "etat": "absent",
     "premiere_detection": null,
     "derniere_detection": null,
-    "derniere_verification": "2026-10-18T10:46:48.744Z",
-    "echecs": 28,
+    "derniere_verification": "2026-11-01T11:48:12.789Z",
+    "echecs": 29,
     "url_detectee": null
   },
   "suggestion": {
@@ -124,7 +124,7 @@
   "dates": {
     "collecte": "2026-09-25",
     "publication": "2026-09-25",
-    "maj": "2026-10-18"
+    "maj": "2026-11-01"
   },
   "source": "google-places",
   "redaction": {
@@ -132,14 +132,26 @@
     "titre": "Boulangerie d’Angiran — Boulangerie-pâtisserie à Mende",
     "meta_titre": "Boulangerie d’Angiran à Mende : horaires, avis, téléphone",
     "meta_description": "Boulangerie d’Angiran, boulangerie-pâtisserie à Mende : horaires d'ouverture, note Google 4,6/5 (135 avis), téléphone, adresse et itinéraire.",
-    "chapo": "Boulangerie d’Angiran exerce l'activité de boulangerie-pâtisserie au 8 Rue d'Angiran, à Mende. Ouvert tous les jours sauf le lundi au relevé du 18 octobre 2026. Téléphone : 04 66 47 10 84. Note Google : 4,6 sur 5 pour 135 avis.",
+    "chapo": "Boulangerie d’Angiran exerce l'activité de boulangerie-pâtisserie au 8 Rue d'Angiran, à Mende. Ouvert tous les jours sauf le lundi au relevé du 1 novembre 2026. Téléphone : 04 66 47 10 84. Note Google : 4,6 sur 5 pour 135 avis.",
     "sections": [
       {
         "id": "presentation",
         "titre": "Boulangerie d’Angiran en quelques mots",
         "paragraphes": [
           "Sur Google, l'établissement est classé « Boulangerie », dans notre rubrique Boulangerie-pâtisserie.",
-          "D'après le relevé du 18 octobre 2026, l'établissement est ouvert tous les jours sauf le lundi. Le détail jour par jour figure plus bas."
+          "Niveau de prix indiqué sur la fiche Google : € (bon marché).",
+          "D'après le relevé du 1 novembre 2026, l'établissement est ouvert tous les jours sauf le lundi. Le détail jour par jour figure plus bas."
+        ]
+      },
+      {
+        "id": "prestations",
+        "titre": "Services et équipements de Boulangerie d’Angiran",
+        "paragraphes": [
+          "Proposé : à emporter et café.",
+          "Non proposé selon la fiche Google : livraison.",
+          "Moyens de paiement déclarés : carte bancaire, carte de débit et paiement sans contact.",
+          "Stationnement : stationnement gratuit dans la rue.",
+          "Ces indications sont déclarées par l'établissement sur sa fiche Google (relevé du 1 novembre 2026)."
         ]
       },
       {
@@ -161,18 +173,18 @@
         "id": "avis",
         "titre": "La réputation de Boulangerie d’Angiran",
         "paragraphes": [
-          "Note de 4,6 sur 5 pour 135 avis Google au relevé du 18 octobre 2026. Les avis se consultent sur la fiche Google, dont le lien figure sur cette page."
+          "Note de 4,6 sur 5 pour 135 avis Google au relevé du 1 novembre 2026. Les avis les plus parlants sont compilés ci-dessous, avec un lien vers la fiche d'origine."
         ]
       }
     ],
     "faq": [
       {
         "q": "Quels sont les horaires de Boulangerie d’Angiran ?",
-        "r": "Au relevé du 18 octobre 2026, Boulangerie d’Angiran était ouvert tous les jours sauf le lundi. Dans le détail — lundi : fermé ; mardi : de 6 h 30 à 19 h ; mercredi : de 6 h 30 à 19 h ; jeudi : de 6 h 30 à 19 h ; vendredi : de 6 h 30 à 19 h ; samedi : de 6 h 30 à 19 h ; dimanche : de 6 h 30 à 12 h 15. Ces horaires peuvent changer : un appel préalable reste conseillé."
+        "r": "Au relevé du 1 novembre 2026, Boulangerie d’Angiran était ouvert tous les jours sauf le lundi. Dans le détail — lundi : fermé ; mardi : de 6 h 30 à 19 h ; mercredi : de 6 h 30 à 19 h ; jeudi : de 6 h 30 à 19 h ; vendredi : de 6 h 30 à 19 h ; samedi : de 6 h 30 à 19 h ; dimanche : de 6 h 30 à 12 h 15. Ces horaires peuvent changer : un appel préalable reste conseillé."
       },
       {
         "q": "Boulangerie d’Angiran est-il ouvert le dimanche ?",
-        "r": "Oui : le dimanche, Boulangerie d’Angiran est ouvert de 6 h 30 à 12 h 15 (horaires relevés le 18 octobre 2026)."
+        "r": "Oui : le dimanche, Boulangerie d’Angiran est ouvert de 6 h 30 à 12 h 15 (horaires relevés le 1 novembre 2026)."
       },
       {
         "q": "Où se trouve Boulangerie d’Angiran ?",
@@ -181,9 +193,17 @@
       {
         "q": "Comment contacter Boulangerie d’Angiran ?",
         "r": "Par téléphone au 04 66 47 10 84, ou directement sur place aux heures d'ouverture."
+      },
+      {
+        "q": "Boulangerie d’Angiran propose-t-il la vente à emporter ou la livraison ?",
+        "r": "D'après sa fiche Google (relevé du 1 novembre 2026) — vente à emporter : oui ; livraison : non."
+      },
+      {
+        "q": "Quel est le niveau de prix de Boulangerie d’Angiran ?",
+        "r": "Google classe Boulangerie d’Angiran au niveau de prix € (bon marché), sur une échelle de € à €€€€ établie à partir des avis clients."
       }
     ],
-    "genere_le": "2026-10-18"
+    "genere_le": "2026-11-01"
   },
   "statut_google": "OPERATIONAL",
   "audience": {
@@ -194,6 +214,73 @@
     "clicsRecents": 0,
     "fenetreRecenteJours": 28,
     "source": "search-console",
-    "date": "2026-10-31"
+    "date": "2026-11-01"
+  },
+  "avis_detail": {
+    "releve": "2026-11-01",
+    "liste": [
+      {
+        "note": 1,
+        "texte": "Les deux premières bouchées de mon sandwich était bonne jusqu'à ce que je tombe sur une motte de terre dans le sandwich...",
+        "langue": "fr",
+        "date": "2026-09-12",
+        "auteur": "Zoélien Bethuleau",
+        "auteur_lien": "https://www.google.com/maps/contrib/109700480207802077905/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xoa1kySXpSVWd0WkU1blRHRnZWRFp0UTNwaVFrRRAB!2m1!1s0x12b36e75792a4f05:0x9124d15460413ca2"
+      },
+      {
+        "note": 5,
+        "texte": "Des produits de qualité, le personnel est accueillant. Il y a toujours de quoi grignoter ou manger. Les sandwichs sont très bons et généreux à des prix très corrects",
+        "langue": "fr",
+        "date": "2026-07-13",
+        "auteur": "Romane Meisso",
+        "auteur_lien": "https://www.google.com/maps/contrib/101947447016282479255/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2psck1HbHFWVlpIYlhsalJrRTFaM2xLZUVsQ05IYxAB!2m1!1s0x12b36e75792a4f05:0x9124d15460413ca2"
+      },
+      {
+        "note": 5,
+        "texte": "Super boulangerie pâtisserie\nUn choix infini\nJ'ai goûter le pain et la pâtisserie ce fut un pur plaisir 🤗🤗💕💕",
+        "langue": "fr",
+        "date": "2026-03-22",
+        "auteur": "MARJORIE THOMAS",
+        "auteur_lien": "https://www.google.com/maps/contrib/113522537783721601468/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2paS1gwbzBiRTF0YkZKUk1rOTBRMWxRVVd0bWFIYxAB!2m1!1s0x12b36e75792a4f05:0x9124d15460413ca2"
+      },
+      {
+        "note": 5,
+        "texte": "Alors là, ne vous attendez pas à un avis payé, mais à un choix de pains délicieux pour tout les goûts, les viennoiseries.... Toujours toujours délicieuses... Les pâtisseries... Miam miam on en redemande ! Une partie de l'étale est dédié au snacks sandwichs chaud froid un délice,\nAh ne pas oublier l'essentiel, le service est impeccable, un bonjour, un sourire, un svp...\n\nIls s'éclate dans leur Job !\nÇa c'est une Boulangerie de France,\nune Vraie !!\nMerci Patron, merci les Employés !",
+        "langue": "fr",
+        "date": "2025-11-17",
+        "auteur": "Btr Allen",
+        "auteur_lien": "https://www.google.com/maps/contrib/113891901859372309973/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2pONGJVa3pUVFozY20xaGQyNWpZV3BKTVhCdk9YYxAB!2m1!1s0x12b36e75792a4f05:0x9124d15460413ca2"
+      },
+      {
+        "note": 5,
+        "texte": "Superman a de sérieux soucis à se faire avec tant de gentillesse.",
+        "langue": "fr",
+        "date": "2025-11-05",
+        "auteur": "Eymeric Hénin aka YEAHMIRC",
+        "auteur_lien": "https://www.google.com/maps/contrib/110101891226770476113/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25KbVVtbHRWVGxaZFRBNFprTndSMUp1ZERBNFNFRRAB!2m1!1s0x12b36e75792a4f05:0x9124d15460413ca2"
+      }
+    ]
+  },
+  "services": {
+    "releve": "2026-11-01",
+    "prix": "PRICE_LEVEL_INEXPENSIVE",
+    "options": {
+      "takeout": true,
+      "delivery": false,
+      "servesCoffee": true
+    },
+    "paiement": [
+      "carte bancaire",
+      "carte de débit",
+      "paiement sans contact"
+    ],
+    "parking": [
+      "stationnement gratuit dans la rue"
+    ]
   }
 }

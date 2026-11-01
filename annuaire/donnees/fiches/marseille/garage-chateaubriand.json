@@ -1,0 +1,265 @@
+{
+  "id": "ChIJDeSJ6NPAyRIRH0-B9_efw8M",
+  "slug": "garage-chateaubriand",
+  "nom": "Garage Chateaubriand",
+  "categorie": "garages-automobile",
+  "categorie_gmb": "Garage automobile",
+  "type_principal": "car_repair",
+  "types": [
+    "car_repair",
+    "point_of_interest",
+    "service",
+    "establishment"
+  ],
+  "ville": "Marseille",
+  "ville_slug": "marseille",
+  "adresse": {
+    "rue": "68 Rue Châteaubriand",
+    "code_postal": "13007",
+    "departement": "13",
+    "region": "Provence-Alpes-Côte d'Azur",
+    "pays": "France",
+    "complete": "68 Rue Châteaubriand, 13007 Marseille"
+  },
+  "telephone": "06 12 10 69 36",
+  "geo": {
+    "latitude": 43.2855619,
+    "longitude": 5.358601500000001
+  },
+  "note": 4.2,
+  "avis": 47,
+  "horaires": [
+    {
+      "jour": 0,
+      "ferme": false,
+      "creneaux": [
+        [
+          "09:00",
+          "18:30"
+        ]
+      ]
+    },
+    {
+      "jour": 1,
+      "ferme": false,
+      "creneaux": [
+        [
+          "09:00",
+          "18:30"
+        ]
+      ]
+    },
+    {
+      "jour": 2,
+      "ferme": false,
+      "creneaux": [
+        [
+          "10:00",
+          "18:30"
+        ]
+      ]
+    },
+    {
+      "jour": 3,
+      "ferme": false,
+      "creneaux": [
+        [
+          "09:00",
+          "18:30"
+        ]
+      ]
+    },
+    {
+      "jour": 4,
+      "ferme": false,
+      "creneaux": [
+        [
+          "09:00",
+          "18:30"
+        ]
+      ]
+    },
+    {
+      "jour": 5,
+      "ferme": false,
+      "creneaux": [
+        [
+          "10:00",
+          "18:00"
+        ]
+      ]
+    },
+    {
+      "jour": 6,
+      "ferme": true,
+      "creneaux": []
+    }
+  ],
+  "attributs": [
+    "Entrée accessible en fauteuil roulant"
+  ],
+  "lien_google": "https://maps.google.com/?cid=14106294345212710687&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
+  "site_web_gmb": null,
+  "statut": "publiee",
+  "backlink": {
+    "etat": "absent",
+    "premiere_detection": null,
+    "derniere_detection": null,
+    "derniere_verification": "2026-11-01T11:48:12.789Z",
+    "echecs": 1,
+    "url_detectee": null
+  },
+  "suggestion": {
+    "etat": "en-attente",
+    "date_soumission": null,
+    "tentatives": 0,
+    "date_email": "2026-11-01"
+  },
+  "retrait": null,
+  "dates": {
+    "collecte": "2026-11-01",
+    "publication": "2026-11-01",
+    "maj": "2026-11-01"
+  },
+  "source": "google-places",
+  "avis_detail": {
+    "releve": "2026-11-01",
+    "liste": [
+      {
+        "note": 5,
+        "texte": "Je suis cliente depuis trois ans et même si je n'habite pas à proximité, je reviens toujours chez ce mécanicien parce qu'il est très compétent et honnête. Ses tarifs sont raisonnables, y compris avec les femmes.\nJe ne comprends pas les avis négatifs.\nAprès avoir connu plusieurs arnaques dans d'autres garages, je suis heureuse d'avoir trouvé quelqu'un de fiable et je compte bien rester fidèle. Vous pouvez y aller en toute confiance, c'est un professionnel à l'écoute et juste dans ses prix. Je le recommande à 100 %.",
+        "langue": "fr",
+        "date": "2026-08-17",
+        "auteur": "Fadila",
+        "auteur_lien": "https://www.google.com/maps/contrib/111556353951989440691/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT213MFNVSlhNMjlZVUVOSVNYSnlaRVUwWWpCd1pXYxAB!2m1!1s0x12c9c0d3e889e40d:0xc3c39ff7f7814f1f"
+      },
+      {
+        "note": 5,
+        "texte": "En route pour mes Vacances quand j’entend un gros bruit paniquée 1er air d’Autoroute je m’arrêtes\nPour essayé de comprendre un gentil Mr avec sa famille qui partait également en vacances  est venu me demander son aide et j’ai accepté il s’est allongé au sol pour regardé et c’était le cache moteur à moitié arraché alors qu’elle sortait de chez Volkswagen !!\nIl a sorti sa malette à outils et me l’a réparée j’étais choqué de son implication et sa gentilesse jai voulu tu donnais quelque chose il a refusé! Dommage que je n’habite pas sa ville sinon il sera devenu mon garage agrées !!\nAlors un grand merci à ce Grand homme qui a sauvé mes vacances!!!",
+        "langue": "fr",
+        "date": "2026-08-15",
+        "auteur": "Ahlem Akmoume",
+        "auteur_lien": "https://www.google.com/maps/contrib/104897845776174188365/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xWamJXTkpNRk42U1dwMVlVUXhlbUl5ZVdSdldsRRAB!2m1!1s0x12c9c0d3e889e40d:0xc3c39ff7f7814f1f"
+      },
+      {
+        "note": 1,
+        "texte": "En vacances à Marseille, je tombe en panne et mon véhicule est déposé dans ce garage. En quelques minutes, avant même mon arrivée 8 minutes le gérant diagnostique la panne et commande la pièce sans me demander mon accord sur le prix sans devis et sans m'annoncer le prix, j’ai senti quelques choses donc je me suis dis faut faire attention\n\nAu moment de récupérer mon véhicule, le montant de la main-d'œuvre m'est annoncé sans qu'aucun devis ne m'ait été présenté auparavant. Le gérant exige que cette somme soit réglée uniquement en espèces 180 euros + 316 euros prix de la pièce uniquement en espèce et d’après lui si je paye en carte il payera plusieurs TVA fin j’ai rien compris Lorsque je demande à payer par carte et à obtenir des explications, il m'insulte et m'ordonne d'aller retirer de l'argent.\n\nJ'ai dû faire intervenir la police ( merci la police ) À leur arrivée, le terminal de paiement est finalement sorti et j'ai pu régler par carte bancaire 531 euros ( pièce 316 euros main d’œuvre 215 euros ) très très cher il dépasse le prix du pro\n\nEn lisant les avis après coup, j'ai constaté qu'un client avait décrit une expérience très similaire à la mienne. Avec le recul, j'ai eu le sentiment que la méthode est bien rodée : commande immédiate de la pièce sans accord du client, absence de devis, puis le client se retrouve contraint de payer pour récupérer son véhicule. Soyez très vigilants avant de laisser ce garage intervenir sur votre voiture.\n\nje me suis fait arnaquer",
+        "langue": "fr",
+        "date": "2026-07-19",
+        "auteur": "rayan",
+        "auteur_lien": "https://www.google.com/maps/contrib/101073492676920782324/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT21jeVJUaExVRzl4WkhWaU0yMVdOamxPT0daMVJHYxAB!2m1!1s0x12c9c0d3e889e40d:0xc3c39ff7f7814f1f"
+      },
+      {
+        "note": 1,
+        "texte": "Je déconseille fortement ce garage. En vacances à Marseille, ma voiture est tombée en panne. Après un premier diagnostic évoquant un moteur à remplacer (environ 2 500 €, soit la valeur de ma voiture), j’ai pris le temps de réfléchir à la meilleure solution, étant étudiante. J’ai finalement trouvé un moyen de faire rapatrier mon véhicule à mes frais. Mon seul tort a été de prévenir le garage tardivement.\n\nLorsque je l’ai appelé à 18h22 (fermeture à 19h), le gérant s’est mis à me hurler dessus en disant qu’il ne pouvait pas rester plus longtemps. Je comprends parfaitement qu’il ait une vie et des horaires. Je lui ai alors proposé une solution simple. Que je récupère la clé à son domicile ou peu importe l’endroit où il se trouvera n’ayant aucune autre solution… Le dépanneur avait déjà 4 heures de route et ne pouvait plus faire demi-tour. Refus catégorique : “Vous venez la chercher maintenant, sinon ce sera demain.” Le problème, c’est que je n’étais pas à proximité.\n\nAu-delà du refus, c’est surtout la manière de parler qui est inacceptable. Aucun respect, aucune empathie, aucun sens du service. Dans une situation déjà très stressante, j’ai eu droit à un comportement méprisant. Heureusement que tous les professionnels ne traitent pas leurs clients de cette façon.",
+        "langue": "fr",
+        "date": "2026-07-14",
+        "auteur": "Sûlaym S",
+        "auteur_lien": "https://www.google.com/maps/contrib/112074791126197232042/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2paVWJqVkZjalowUmt0eU4zcEdXWGt5TVY5d1NrRRAB!2m1!1s0x12c9c0d3e889e40d:0xc3c39ff7f7814f1f"
+      },
+      {
+        "note": 2,
+        "texte": "Mon avis n’évalue pas les qualités mécaniques du garagiste, jusqu’à présent pas de problème avec la solution trouvée mais uniquement la façon que les choses ont été faite et l’honnêteté.\nPas de devis, pas d’appel à m’informer le coût de la réparation et de la pièce. Je me trouve avec une facture à payer de 740€. Je trouve trop excessif et le garagiste m’indique que la pièce chez Peugeot coûte 900€. Je demande la facture et je la reçoive 5 jours après avec un montant de 720€ et pas de détail. J’essaye de récupérer la différence et il m’informe qu’il s’est trompé et que me fait une autre facture. Le jour même je me déplace chez Citroen qui utilise les pièces de Peugeot et pour la même réparation avec pièce d’origine (Valeo) le prix est de 429,70€ avec 10% de reduction.\nJe me suis fait bouffer par ce garagiste mais j’espère que personne d’autre se fasse avoir!!!",
+        "langue": "fr",
+        "date": "2026-04-09",
+        "auteur": "Hugh Neves",
+        "auteur_lien": "https://www.google.com/maps/contrib/115389104841363613401/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2paQ2IzQnRZMk5HZFhwalZUQlViSGROVld4UFNGRRAB!2m1!1s0x12c9c0d3e889e40d:0xc3c39ff7f7814f1f"
+      }
+    ]
+  },
+  "services": {
+    "releve": "2026-11-01",
+    "options": {},
+    "paiement": [
+      "carte bancaire",
+      "carte de débit"
+    ],
+    "parking": []
+  },
+  "redaction": {
+    "version": 2,
+    "titre": "Garage Chateaubriand — Garage et automobile à Marseille",
+    "meta_titre": "Garage Chateaubriand à Marseille : horaires, avis, téléphone",
+    "meta_description": "Garage Chateaubriand, garage et automobile à Marseille : horaires d'ouverture, note Google 4,2/5 (47 avis), téléphone, adresse et itinéraire.",
+    "chapo": "Cette fiche présente Garage Chateaubriand, un garage et automobile au 68 Rue Châteaubriand, à Marseille. Ouvert tous les jours sauf le dimanche au relevé du 1 novembre 2026. Téléphone : 06 12 10 69 36. Note Google : 4,2 sur 5 pour 47 avis.",
+    "sections": [
+      {
+        "id": "presentation",
+        "titre": "Garage Chateaubriand en quelques mots",
+        "paragraphes": [
+          "Sur Google, l'établissement est classé « Garage automobile », dans notre rubrique Garage et automobile.",
+          "D'après le relevé du 1 novembre 2026, l'établissement est ouvert tous les jours sauf le dimanche. Le détail jour par jour figure plus bas."
+        ]
+      },
+      {
+        "id": "prestations",
+        "titre": "Services et équipements de Garage Chateaubriand",
+        "paragraphes": [
+          "Moyens de paiement déclarés : carte bancaire et carte de débit.",
+          "Ces indications sont déclarées par l'établissement sur sa fiche Google (relevé du 1 novembre 2026)."
+        ]
+      },
+      {
+        "id": "acces",
+        "titre": "Adresse et accès",
+        "paragraphes": [
+          "L'établissement est situé au 68 Rue Châteaubriand, 13007 Marseille.",
+          "Coordonnées GPS : 43.28556, 5.35860. Le bouton Itinéraire de cette page ouvre la navigation."
+        ]
+      },
+      {
+        "id": "contact",
+        "titre": "Contacter Garage Chateaubriand",
+        "paragraphes": [
+          "Le contact se fait par téléphone au 06 12 10 69 36, ou directement sur place aux horaires d'ouverture."
+        ]
+      },
+      {
+        "id": "avis",
+        "titre": "La réputation de Garage Chateaubriand",
+        "paragraphes": [
+          "Note de 4,2 sur 5 pour 47 avis Google au relevé du 1 novembre 2026. Les avis les plus parlants sont compilés ci-dessous, avec un lien vers la fiche d'origine."
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "q": "Quels sont les horaires de Garage Chateaubriand ?",
+        "r": "Au relevé du 1 novembre 2026, Garage Chateaubriand était ouvert tous les jours sauf le dimanche. Dans le détail — lundi : de 9 h à 18 h 30 ; mardi : de 9 h à 18 h 30 ; mercredi : de 10 h à 18 h 30 ; jeudi : de 9 h à 18 h 30 ; vendredi : de 9 h à 18 h 30 ; samedi : de 10 h à 18 h ; dimanche : fermé. Ces horaires peuvent changer : un appel préalable reste conseillé."
+      },
+      {
+        "q": "Garage Chateaubriand est-il ouvert le dimanche ?",
+        "r": "Non : d'après les horaires relevés le 1 novembre 2026, Garage Chateaubriand est fermé le dimanche."
+      },
+      {
+        "q": "Où se trouve Garage Chateaubriand ?",
+        "r": "Garage Chateaubriand se trouve 68 Rue Châteaubriand, 13007 Marseille. Un lien d'itinéraire est disponible sur cette page."
+      },
+      {
+        "q": "Comment contacter Garage Chateaubriand ?",
+        "r": "Par téléphone au 06 12 10 69 36, ou directement sur place aux heures d'ouverture."
+      },
+      {
+        "q": "Garage Chateaubriand est-il accessible aux personnes à mobilité réduite ?",
+        "r": "La fiche Google de l'établissement mentionne : « Entrée accessible en fauteuil roulant ». Cette information est déclarative ; en cas de doute, vérifiez par téléphone."
+      }
+    ],
+    "genere_le": "2026-11-01"
+  },
+  "statut_google": "OPERATIONAL",
+  "audience": {
+    "clics": 0,
+    "impressions": 0,
+    "position": null,
+    "fenetreJours": 90,
+    "clicsRecents": 0,
+    "fenetreRecenteJours": 28,
+    "source": "search-console",
+    "date": "2026-11-01"
+  }
+}

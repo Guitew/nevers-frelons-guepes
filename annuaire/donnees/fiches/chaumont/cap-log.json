@@ -26,8 +26,8 @@
     "latitude": 48.0848747,
     "longitude": 5.142367999999999
   },
-  "note": 4,
-  "avis": 69,
+  "note": 3.9,
+  "avis": 70,
   "horaires": [
     {
       "jour": 0,
@@ -100,8 +100,8 @@
     "etat": "absent",
     "premiere_detection": null,
     "derniere_detection": null,
-    "derniere_verification": "2026-10-18T10:46:48.744Z",
-    "echecs": 77,
+    "derniere_verification": "2026-11-01T11:48:12.789Z",
+    "echecs": 78,
     "url_detectee": null
   },
   "suggestion": {
@@ -120,22 +120,22 @@
   "dates": {
     "collecte": "2026-09-01",
     "publication": "2026-09-01",
-    "maj": "2026-10-18"
+    "maj": "2026-11-01"
   },
   "source": "google-places",
   "redaction": {
     "version": 2,
     "titre": "CAP LOG — Transport et déménagement à Chaumont",
     "meta_titre": "CAP LOG à Chaumont : horaires, avis, téléphone",
-    "meta_description": "CAP LOG, transport et déménagement à Chaumont : horaires d'ouverture, note Google 4/5 (69 avis), téléphone, adresse et itinéraire.",
-    "chapo": "CAP LOG exerce l'activité de transport et déménagement au 80 Rue du Val Poncé, à Chaumont. Fermé le samedi et le dimanche au relevé du 18 octobre 2026. Téléphone : 03 25 02 66 18. Note Google : 4 sur 5 pour 69 avis.",
+    "meta_description": "CAP LOG, transport et déménagement à Chaumont : horaires d'ouverture, note Google 3,9/5 (70 avis), téléphone, adresse et itinéraire.",
+    "chapo": "CAP LOG exerce l'activité de transport et déménagement au 80 Rue du Val Poncé, à Chaumont. Fermé le samedi et le dimanche au relevé du 1 novembre 2026. Téléphone : 03 25 02 66 18. Note Google : 3,9 sur 5 pour 70 avis.",
     "sections": [
       {
         "id": "presentation",
         "titre": "CAP LOG en quelques mots",
         "paragraphes": [
           "Sur Google, l'établissement est classé « Stockage », dans notre rubrique Transport et déménagement.",
-          "D'après le relevé du 18 octobre 2026, l'établissement est fermé le samedi et le dimanche. Le détail jour par jour figure plus bas."
+          "D'après le relevé du 1 novembre 2026, l'établissement est fermé le samedi et le dimanche. Le détail jour par jour figure plus bas."
         ]
       },
       {
@@ -157,18 +157,18 @@
         "id": "avis",
         "titre": "La réputation de CAP LOG",
         "paragraphes": [
-          "Note de 4 sur 5 pour 69 avis Google au relevé du 18 octobre 2026. Les avis se consultent sur la fiche Google, dont le lien figure sur cette page."
+          "Note de 3,9 sur 5 pour 70 avis Google au relevé du 1 novembre 2026. Les avis les plus parlants sont compilés ci-dessous, avec un lien vers la fiche d'origine."
         ]
       }
     ],
     "faq": [
       {
         "q": "Quels sont les horaires de CAP LOG ?",
-        "r": "Au relevé du 18 octobre 2026, CAP LOG était fermé le samedi et le dimanche. Dans le détail — lundi : de 8 h à 17 h ; mardi : de 8 h à 17 h ; mercredi : de 8 h à 17 h ; jeudi : de 8 h à 17 h ; vendredi : de 8 h à 17 h ; samedi : fermé ; dimanche : fermé. Ces horaires peuvent changer : un appel préalable reste conseillé."
+        "r": "Au relevé du 1 novembre 2026, CAP LOG était fermé le samedi et le dimanche. Dans le détail — lundi : de 8 h à 17 h ; mardi : de 8 h à 17 h ; mercredi : de 8 h à 17 h ; jeudi : de 8 h à 17 h ; vendredi : de 8 h à 17 h ; samedi : fermé ; dimanche : fermé. Ces horaires peuvent changer : un appel préalable reste conseillé."
       },
       {
         "q": "CAP LOG est-il ouvert le dimanche ?",
-        "r": "Non : d'après les horaires relevés le 18 octobre 2026, CAP LOG est fermé le dimanche."
+        "r": "Non : d'après les horaires relevés le 1 novembre 2026, CAP LOG est fermé le dimanche."
       },
       {
         "q": "Où se trouve CAP LOG ?",
@@ -183,7 +183,7 @@
         "r": "La fiche Google de l'établissement mentionne : « Parking accessible en fauteuil roulant ». Cette information est déclarative ; en cas de doute, vérifiez par téléphone."
       }
     ],
-    "genere_le": "2026-10-18"
+    "genere_le": "2026-11-01"
   },
   "statut_google": "OPERATIONAL",
   "audience": {
@@ -194,7 +194,7 @@
     "clicsRecents": 0,
     "fenetreRecenteJours": 28,
     "source": "search-console",
-    "date": "2026-10-31"
+    "date": "2026-11-01"
   },
   "indexation": {
     "etat": "non-indexee",
@@ -204,5 +204,55 @@
     "canonique_google": null,
     "source": "inspection",
     "date": "2026-10-18"
+  },
+  "avis_detail": {
+    "releve": "2026-11-01",
+    "liste": [
+      {
+        "note": 4,
+        "texte": "Trés bien reçue. Personnel trés sympa\nMais bonjour la galère avec leur travaux\nMise a quai compliqué.6h00 pour vider un 40 pieds !!!",
+        "langue": "fr",
+        "date": "2026-03-25",
+        "auteur": "Valéry Guillouard",
+        "auteur_lien": "https://www.google.com/maps/contrib/107377498448864425723/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2taR1oybEJiMkpoYXpGeFowaFlSM0ZaYVdkQ1gzYxAB!2m1!1s0x47ece4ffb600b1a3:0xe30b88a233985143"
+      },
+      {
+        "note": 5,
+        "texte": "Personnel Super sympa et très efficace",
+        "langue": "fr",
+        "date": "2025-01-23",
+        "auteur": "Claude Calvagnac",
+        "auteur_lien": "https://www.google.com/maps/contrib/108625453260561065827/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSURfcXV6N1hBEAE!2m1!1s0x47ece4ffb600b1a3:0xe30b88a233985143"
+      },
+      {
+        "note": 4,
+        "texte": "Personnels tr sympathique pas d attend au chargement...Pas facile d accès",
+        "langue": "fr",
+        "date": "2024-06-09",
+        "auteur": "bertrand dangeard",
+        "auteur_lien": "https://www.google.com/maps/contrib/106770851355690947702/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUR6MnU2cDF3RRAB!2m1!1s0x47ece4ffb600b1a3:0xe30b88a233985143"
+      },
+      {
+        "note": 4,
+        "texte": "Très bon accueil chauffeur, équipe chargement et responsable au top",
+        "langue": "fr",
+        "date": "2023-12-09",
+        "auteur": "Christophe Humbert",
+        "auteur_lien": "https://www.google.com/maps/contrib/116482136823363352771/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUNWbDhhQmdBRRAB!2m1!1s0x47ece4ffb600b1a3:0xe30b88a233985143"
+      },
+      {
+        "note": 4,
+        "texte": "Toujours bien reçu\nDe temps en temps rapide dès fois moins par grande influence\n3 endroits de déchargement et en principe pour chargement Toujours au même devant le bâtiment au même endroit\nMais pour décharger il est facile de se tromper de quai",
+        "langue": "fr",
+        "date": "2023-06-24",
+        "auteur": "Jeremy trucking",
+        "auteur_lien": "https://www.google.com/maps/contrib/107963693224529787568/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUNKMHFqUzNRRRAB!2m1!1s0x47ece4ffb600b1a3:0xe30b88a233985143"
+      }
+    ]
   }
 }

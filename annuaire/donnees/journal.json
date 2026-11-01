@@ -1,5 +1,90 @@
 [
   {
+    "date": "2026-11-01T11:48:12.960Z",
+    "type": "backlink-absent",
+    "id": "ChIJDeSJ6NPAyRIRH0-B9_efw8M",
+    "nom": "Garage Chateaubriand",
+    "url": null,
+    "precedent": "en-attente"
+  },
+  {
+    "date": "2026-11-01T11:48:13.032Z",
+    "type": "backlink-absent",
+    "id": "ChIJ3dyDk1RX40cRB9ePd58PzgQ",
+    "nom": "Laverie de Lewes Blois",
+    "url": null,
+    "precedent": "en-attente"
+  },
+  {
+    "date": "2026-11-01T11:48:13.110Z",
+    "type": "backlink-absent",
+    "id": "ChIJh4r6KlTiMwkR8wqt0Cq9Wfg",
+    "nom": "PROXI MAINVILLIERS",
+    "url": null,
+    "precedent": "en-attente"
+  },
+  {
+    "date": "2026-11-01T11:48:13.177Z",
+    "type": "backlink-absent",
+    "id": "ChIJTQHahN0T5kcR__-DnaNMfXU",
+    "nom": "Venus Steakhouse",
+    "url": null,
+    "precedent": "en-attente"
+  },
+  {
+    "date": "2026-11-01T11:48:13.279Z",
+    "type": "backlink-absent",
+    "id": "ChIJwXSBQmff4EcRr2GsnYgQ3L8",
+    "nom": "Wok 86 Le Petit-Quevilly",
+    "url": null,
+    "precedent": "en-attente"
+  },
+  {
+    "date": "2026-11-01T11:48:12.198Z",
+    "type": "publication",
+    "id": "ChIJDeSJ6NPAyRIRH0-B9_efw8M",
+    "nom": "Garage Chateaubriand",
+    "url": "/garages-automobile/marseille/garage-chateaubriand/",
+    "categorie": "garages-automobile",
+    "source": "google-places"
+  },
+  {
+    "date": "2026-11-01T11:48:12.327Z",
+    "type": "publication",
+    "id": "ChIJTQHahN0T5kcR__-DnaNMfXU",
+    "nom": "Venus Steakhouse",
+    "url": "/restaurants/les-pavillons-sous-bois/venus-steakhouse/",
+    "categorie": "restaurants",
+    "source": "google-places"
+  },
+  {
+    "date": "2026-11-01T11:48:12.448Z",
+    "type": "publication",
+    "id": "ChIJh4r6KlTiMwkR8wqt0Cq9Wfg",
+    "nom": "PROXI MAINVILLIERS",
+    "url": "/commerces-alimentation/mainvilliers/proxi-mainvilliers/",
+    "categorie": "commerces-alimentation",
+    "source": "google-places"
+  },
+  {
+    "date": "2026-11-01T11:48:12.576Z",
+    "type": "publication",
+    "id": "ChIJ3dyDk1RX40cRB9ePd58PzgQ",
+    "nom": "Laverie de Lewes Blois",
+    "url": "/nettoyage-hygiene/blois/laverie-de-lewes-blois/",
+    "categorie": "nettoyage-hygiene",
+    "source": "google-places"
+  },
+  {
+    "date": "2026-11-01T11:48:12.704Z",
+    "type": "publication",
+    "id": "ChIJwXSBQmff4EcRr2GsnYgQ3L8",
+    "nom": "Wok 86 Le Petit-Quevilly",
+    "url": "/restaurants/le-petit-quevilly/wok-86-le-petit-quevilly/",
+    "categorie": "restaurants",
+    "source": "google-places"
+  },
+  {
     "date": "2026-10-31T10:57:01.823Z",
     "type": "suggestion-soumise",
     "id": "ChIJ3aTdwY5x5kcRG7-4gMxDrkc",

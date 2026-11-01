@@ -1,0 +1,263 @@
+{
+  "id": "ChIJ3dyDk1RX40cRB9ePd58PzgQ",
+  "slug": "laverie-de-lewes-blois",
+  "nom": "Laverie de Lewes Blois",
+  "categorie": "nettoyage-hygiene",
+  "categorie_gmb": "Blanchisserie",
+  "type_principal": "laundry",
+  "types": [
+    "laundry",
+    "point_of_interest",
+    "service",
+    "establishment"
+  ],
+  "ville": "Blois",
+  "ville_slug": "blois",
+  "adresse": {
+    "rue": "62 Rue de Lewes",
+    "code_postal": "41000",
+    "departement": "41",
+    "region": "Centre-Val de Loire",
+    "pays": "France",
+    "complete": "62 Rue de Lewes, 41000 Blois"
+  },
+  "telephone": "07 83 23 88 48",
+  "geo": {
+    "latitude": 47.592155999999996,
+    "longitude": 1.313577
+  },
+  "note": 5,
+  "avis": 34,
+  "horaires": [
+    {
+      "jour": 0,
+      "ferme": false,
+      "creneaux": [
+        [
+          "07:00",
+          "23:00"
+        ]
+      ]
+    },
+    {
+      "jour": 1,
+      "ferme": false,
+      "creneaux": [
+        [
+          "07:00",
+          "23:00"
+        ]
+      ]
+    },
+    {
+      "jour": 2,
+      "ferme": false,
+      "creneaux": [
+        [
+          "07:00",
+          "23:00"
+        ]
+      ]
+    },
+    {
+      "jour": 3,
+      "ferme": false,
+      "creneaux": [
+        [
+          "07:00",
+          "23:00"
+        ]
+      ]
+    },
+    {
+      "jour": 4,
+      "ferme": false,
+      "creneaux": [
+        [
+          "07:00",
+          "23:00"
+        ]
+      ]
+    },
+    {
+      "jour": 5,
+      "ferme": false,
+      "creneaux": [
+        [
+          "07:00",
+          "23:00"
+        ]
+      ]
+    },
+    {
+      "jour": 6,
+      "ferme": false,
+      "creneaux": [
+        [
+          "07:00",
+          "23:00"
+        ]
+      ]
+    }
+  ],
+  "attributs": [],
+  "lien_google": "https://maps.google.com/?cid=346231398934238983&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
+  "site_web_gmb": null,
+  "statut": "publiee",
+  "backlink": {
+    "etat": "absent",
+    "premiere_detection": null,
+    "derniere_detection": null,
+    "derniere_verification": "2026-11-01T11:48:12.789Z",
+    "echecs": 1,
+    "url_detectee": null
+  },
+  "suggestion": {
+    "etat": "en-attente",
+    "date_soumission": null,
+    "tentatives": 0,
+    "date_email": "2026-11-01"
+  },
+  "retrait": null,
+  "dates": {
+    "collecte": "2026-11-01",
+    "publication": "2026-11-01",
+    "maj": "2026-11-01"
+  },
+  "source": "google-places",
+  "avis_detail": {
+    "releve": "2026-11-01",
+    "liste": [
+      {
+        "note": 5,
+        "texte": "Excellente laverie ! Les machines sont de très bonne qualité et parfaitement entretenues. Les prix défient toute concurrence avec un rapport qualité-prix vraiment impeccable. L’endroit est propre, agréable et accueillant. Je recommande sans hésitation !",
+        "langue": "fr",
+        "date": "2026-05-13",
+        "auteur": "Geoffrey Limousin",
+        "auteur_lien": "https://www.google.com/maps/contrib/114394347861989174208/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2tkaFpGRmtUMlUwY1dacFdHbFlWVzB6Tm5GSllWRRAB!2m1!1s0x47e357549383dcdd:0x4ce0f9f778fd707"
+      },
+      {
+        "note": 5,
+        "texte": "Enfin une grande laverie dans les quartiers populaires... laverie très propre et machines également. On peut laver et sécher son linge mais aussi photomaton et photocopieuse. Et le Best du Best Locker Relais Colis et Chronopost. L idéale serait d avoir également un point Vinted ! Facilités pour se garer ❤️... laverie au top",
+        "langue": "fr",
+        "date": "2026-05-05",
+        "auteur": "karima bouhadjar",
+        "auteur_lien": "https://www.google.com/maps/contrib/114271736361568822537/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2tGM05HOXFaMEY2VWs4M1ZIaG9TbVZEWW1WM1VGRRAB!2m1!1s0x47e357549383dcdd:0x4ce0f9f778fd707"
+      },
+      {
+        "note": 5,
+        "texte": "Professionnel du nettoyage, je viens ici plusieurs fois par semaine pour laver mes chiffons et microfibres.\nLes machines lavent en profondeur même les textiles très encrassés (graisse, produits, poussière de chantier).\nLe séchage est rapide et les textiles ressortent propres .\nToujours propre et facile d’accès. Je recommande sans hésiter !!",
+        "langue": "fr",
+        "date": "2026-03-01",
+        "auteur": "Klassnettoyage41",
+        "auteur_lien": "https://www.google.com/maps/contrib/110618239629103592778/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT21oTlgxUTFVMVEyTlVNd2ExTnpRVmxZV0ZNNGEwRRAB!2m1!1s0x47e357549383dcdd:0x4ce0f9f778fd707"
+      },
+      {
+        "note": 5,
+        "texte": "De passage dans la région nous avions besoin d'une laverie, nous avons choisi celle-ci toute proche et nous avons bien fait. Le patron était présent, c'est une personne très agréable, nous avons discuté et la laverie est irréprochable. Je recommande vivement et si je reviens dans le coin je saurai où aller.Bravo et merci Monsieur pour votre professionnalisme et votre gentillesse.",
+        "langue": "fr",
+        "date": "2025-11-09",
+        "auteur": "Virginie Réty",
+        "auteur_lien": "https://www.google.com/maps/contrib/116585943088997925119/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xOeVZXcE5kVzFEVlU5UFlqZFlha2xVZEhrMk4xRRAB!2m1!1s0x47e357549383dcdd:0x4ce0f9f778fd707"
+      },
+      {
+        "note": 5,
+        "texte": "Laverie facile d'utilisation et très propre.\nMachines à laver et à sécher très efficaces et bien entretenues...\nMise à disposition d'une table pour plier le linge...\nRencontre très sympathique avec le propriétaire !!\nJe recommande +++",
+        "langue": "fr",
+        "date": "2025-04-15",
+        "auteur": "David Tessier",
+        "auteur_lien": "https://www.google.com/maps/contrib/101019358999237380093/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnTUNvM0lmTUNREAE!2m1!1s0x47e357549383dcdd:0x4ce0f9f778fd707"
+      }
+    ]
+  },
+  "services": {
+    "releve": "2026-11-01",
+    "options": {},
+    "paiement": [],
+    "parking": [
+      "parking gratuit"
+    ]
+  },
+  "redaction": {
+    "version": 2,
+    "titre": "Laverie de Lewes Blois — Nettoyage et hygiène à Blois",
+    "meta_titre": "Laverie de Lewes Blois à Blois : horaires, avis, téléphone",
+    "meta_description": "Laverie de Lewes Blois, nettoyage et hygiène à Blois : horaires d'ouverture, note Google 5/5 (34 avis), téléphone, adresse et itinéraire.",
+    "chapo": "Laverie de Lewes Blois est un nettoyage et hygiène au 62 Rue de Lewes, à Blois. Ouvert sept jours sur sept au relevé du 1 novembre 2026. Téléphone : 07 83 23 88 48. Note Google : 5 sur 5 pour 34 avis.",
+    "sections": [
+      {
+        "id": "presentation",
+        "titre": "Laverie de Lewes Blois en quelques mots",
+        "paragraphes": [
+          "Sur Google, l'établissement est classé « Blanchisserie », dans notre rubrique Nettoyage et hygiène.",
+          "D'après le relevé du 1 novembre 2026, l'établissement est ouvert sept jours sur sept. Le détail jour par jour figure plus bas."
+        ]
+      },
+      {
+        "id": "prestations",
+        "titre": "Services et équipements de Laverie de Lewes Blois",
+        "paragraphes": [
+          "Stationnement : parking gratuit.",
+          "Ces indications sont déclarées par l'établissement sur sa fiche Google (relevé du 1 novembre 2026)."
+        ]
+      },
+      {
+        "id": "acces",
+        "titre": "Adresse et accès",
+        "paragraphes": [
+          "L'établissement est situé au 62 Rue de Lewes, 41000 Blois.",
+          "Coordonnées GPS : 47.59216, 1.31358. Le bouton Itinéraire de cette page ouvre la navigation."
+        ]
+      },
+      {
+        "id": "contact",
+        "titre": "Contacter Laverie de Lewes Blois",
+        "paragraphes": [
+          "Le contact se fait par téléphone au 07 83 23 88 48, ou directement sur place aux horaires d'ouverture."
+        ]
+      },
+      {
+        "id": "avis",
+        "titre": "La réputation de Laverie de Lewes Blois",
+        "paragraphes": [
+          "Note de 5 sur 5 pour 34 avis Google au relevé du 1 novembre 2026. Les avis les plus parlants sont compilés ci-dessous, avec un lien vers la fiche d'origine."
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "q": "Quels sont les horaires de Laverie de Lewes Blois ?",
+        "r": "Au relevé du 1 novembre 2026, Laverie de Lewes Blois était ouvert sept jours sur sept. Dans le détail — lundi : de 7 h à 23 h ; mardi : de 7 h à 23 h ; mercredi : de 7 h à 23 h ; jeudi : de 7 h à 23 h ; vendredi : de 7 h à 23 h ; samedi : de 7 h à 23 h ; dimanche : de 7 h à 23 h. Ces horaires peuvent changer : un appel préalable reste conseillé."
+      },
+      {
+        "q": "Laverie de Lewes Blois est-il ouvert le dimanche ?",
+        "r": "Oui : le dimanche, Laverie de Lewes Blois est ouvert de 7 h à 23 h (horaires relevés le 1 novembre 2026)."
+      },
+      {
+        "q": "Où se trouve Laverie de Lewes Blois ?",
+        "r": "Laverie de Lewes Blois se trouve 62 Rue de Lewes, 41000 Blois. Un lien d'itinéraire est disponible sur cette page."
+      },
+      {
+        "q": "Comment contacter Laverie de Lewes Blois ?",
+        "r": "Par téléphone au 07 83 23 88 48, ou directement sur place aux heures d'ouverture."
+      }
+    ],
+    "genere_le": "2026-11-01"
+  },
+  "statut_google": "OPERATIONAL",
+  "audience": {
+    "clics": 0,
+    "impressions": 0,
+    "position": null,
+    "fenetreJours": 90,
+    "clicsRecents": 0,
+    "fenetreRecenteJours": 28,
+    "source": "search-console",
+    "date": "2026-11-01"
+  }
+}

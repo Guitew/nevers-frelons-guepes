@@ -1,0 +1,322 @@
+{
+  "id": "ChIJTQHahN0T5kcR__-DnaNMfXU",
+  "slug": "venus-steakhouse",
+  "nom": "Venus Steakhouse",
+  "categorie": "restaurants",
+  "categorie_gmb": "Restaurant",
+  "type_principal": "restaurant",
+  "types": [
+    "restaurant",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "ville": "Les Pavillons-sous-Bois",
+  "ville_slug": "les-pavillons-sous-bois",
+  "adresse": {
+    "rue": "188 Avenue Aristide Briand",
+    "code_postal": "93320",
+    "departement": "93",
+    "region": "Île-de-France",
+    "pays": "France",
+    "complete": "188 Av. Aristide Briand, 93320 Les Pavillons-sous-Bois"
+  },
+  "telephone": "07 82 93 69 47",
+  "geo": {
+    "latitude": 48.9097589,
+    "longitude": 2.5079194
+  },
+  "note": 4.6,
+  "avis": 2703,
+  "horaires": [
+    {
+      "jour": 0,
+      "ferme": false,
+      "creneaux": [
+        [
+          "18:00",
+          "23:30"
+        ]
+      ]
+    },
+    {
+      "jour": 1,
+      "ferme": false,
+      "creneaux": [
+        [
+          "12:00",
+          "15:00"
+        ],
+        [
+          "18:00",
+          "23:30"
+        ]
+      ]
+    },
+    {
+      "jour": 2,
+      "ferme": false,
+      "creneaux": [
+        [
+          "12:00",
+          "15:00"
+        ],
+        [
+          "18:00",
+          "23:30"
+        ]
+      ]
+    },
+    {
+      "jour": 3,
+      "ferme": false,
+      "creneaux": [
+        [
+          "12:00",
+          "15:00"
+        ],
+        [
+          "18:00",
+          "23:30"
+        ]
+      ]
+    },
+    {
+      "jour": 4,
+      "ferme": false,
+      "creneaux": [
+        [
+          "12:00",
+          "15:00"
+        ],
+        [
+          "18:00",
+          "00:00"
+        ]
+      ]
+    },
+    {
+      "jour": 5,
+      "ferme": false,
+      "creneaux": [
+        [
+          "12:00",
+          "00:00"
+        ]
+      ]
+    },
+    {
+      "jour": 6,
+      "ferme": false,
+      "creneaux": [
+        [
+          "12:00",
+          "23:30"
+        ]
+      ]
+    }
+  ],
+  "attributs": [
+    "Entrée accessible en fauteuil roulant",
+    "Parking accessible en fauteuil roulant",
+    "Toilettes accessibles en fauteuil roulant",
+    "Places assises accessibles en fauteuil roulant"
+  ],
+  "lien_google": "https://maps.google.com/?cid=8466007140132454399&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
+  "site_web_gmb": null,
+  "statut": "publiee",
+  "backlink": {
+    "etat": "absent",
+    "premiere_detection": null,
+    "derniere_detection": null,
+    "derniere_verification": "2026-11-01T11:48:12.789Z",
+    "echecs": 1,
+    "url_detectee": null
+  },
+  "suggestion": {
+    "etat": "en-attente",
+    "date_soumission": null,
+    "tentatives": 0,
+    "date_email": "2026-11-01"
+  },
+  "retrait": null,
+  "dates": {
+    "collecte": "2026-11-01",
+    "publication": "2026-11-01",
+    "maj": "2026-11-01"
+  },
+  "source": "google-places",
+  "avis_detail": {
+    "releve": "2026-11-01",
+    "liste": [
+      {
+        "note": 5,
+        "texte": "Un superbe endroit avec un accueil très chaleureux tout était délicieux, de l’entrée au dessert. Une très belle découverte, avec une équipe accueillante et souriante. Je recommande vivement, nous avons passé un très bon moment !",
+        "langue": "fr",
+        "date": "2026-09-18",
+        "auteur": "Hevin Tosun",
+        "auteur_lien": "https://www.google.com/maps/contrib/109647355441026560386/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25sUU9YZzNlalJ0ZWpRNGQxaDVSMEV4UmxkUldVRRAB!2m1!1s0x47e613dd84da014d:0x757d4ca39d83ffff"
+      },
+      {
+        "note": 5,
+        "texte": "Une excellente expérience du début à la fin ! Le restaurant Venus est magnifique, l’ambiance est chaleureuse, les plats sont délicieux et les viandes sont de grande qualité.\n\nUn immense merci à Zekiye, qui a été exceptionnelle tout au long du repas. Souriante, professionnelle, attentionnée et aux petits soins, elle a rendu notre soirée encore plus agréable. Son accueil et sa gentillesse font toute la différence.\n\nJe recommande ce restaurant les yeux fermés et je reviendrai avec grand plais",
+        "langue": "fr",
+        "date": "2026-07-30",
+        "auteur": "Kaouthar Saoud",
+        "auteur_lien": "https://www.google.com/maps/contrib/116667660451500934095/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT21KRlIyMDFWVk5UT0ZJd1dFSmlNRUZxVjJod2FYYxAB!2m1!1s0x47e613dd84da014d:0x757d4ca39d83ffff"
+      },
+      {
+        "note": 5,
+        "texte": "Très beau restaurant ! Dès l’entrée nous avons été accueillis chaleureusement. Le personnel au petit soin tout le repas. Zekye s’est occupée de nous, souriante et agréable. La déco tres belle et les plans EXCELLENTS! Je recommande ✨",
+        "langue": "fr",
+        "date": "2026-07-19",
+        "auteur": "Charlotte Lheur",
+        "auteur_lien": "https://www.google.com/maps/contrib/116735153949521436036/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT21Gb1pGODBkMlkzZEV4V2NUUmlhRkZPUkdNeVNuYxAB!2m1!1s0x47e613dd84da014d:0x757d4ca39d83ffff"
+      },
+      {
+        "note": 5,
+        "texte": "Excellent moment passé au Venus Steakhouse ! La viande était excellente, les plats généreux et l’ambiance très agréable.\n\nUn grand merci tout particulièrement à notre serveuse Ayfer, qui a été d’une gentillesse et d’un professionnalisme remarquables. Toujours souriante, attentive et aux petits soins du début à la fin du repas. Son accueil et sa bonne humeur ont vraiment contribué à rendre notre soirée encore plus agréable.\n\nJe recommande vivement cet établissement et je reviendrai avec plaisir. Merci à toute l’équipe, et encore un grand merci à Ayfer pour son excellent service !",
+        "langue": "fr",
+        "date": "2026-07-18",
+        "auteur": "Bayram Aygün",
+        "auteur_lien": "https://www.google.com/maps/contrib/112314490313354565466/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT214VWJUaFdjMVZEU0ZGTU5tdHlNVEZXYzBabGNXYxAB!2m1!1s0x47e613dd84da014d:0x757d4ca39d83ffff"
+      },
+      {
+        "note": 5,
+        "texte": "J’ai fêté mon anniversaire en juin au Venus Steakhouse et franchement… un immense merci à toute l’équipe, et surtout à Ayfer.\nLe service était au top du top, ils ont été adorables du début à la fin.\nIls m’ont même laissé décorer la table comme je le voulais, ce qui a rendu la soirée encore plus spéciale.\nAyfer a été d’une gentillesse incroyable, toujours souriante, attentionnée, et vraiment aux petits soins.\nMerci pour votre accueil, votre bonne humeur et votre professionnalisme.\nJe reviendrai les yeux fermés.",
+        "langue": "fr",
+        "date": "2026-07-09",
+        "auteur": "Zerish Rehan",
+        "auteur_lien": "https://www.google.com/maps/contrib/104221376286909742475/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xkRFdrZHJVVTluUzA1WU1HOHpkMWx0VEhkUk9GRRAB!2m1!1s0x47e613dd84da014d:0x757d4ca39d83ffff"
+      }
+    ]
+  },
+  "services": {
+    "releve": "2026-11-01",
+    "prix": "PRICE_LEVEL_EXPENSIVE",
+    "options": {
+      "dineIn": true,
+      "delivery": false,
+      "curbsidePickup": false,
+      "reservable": true,
+      "outdoorSeating": true,
+      "servesBreakfast": true,
+      "servesLunch": true,
+      "servesDinner": true,
+      "servesCoffee": true,
+      "servesWine": false,
+      "servesCocktails": true,
+      "goodForChildren": true,
+      "restroom": true
+    },
+    "paiement": [
+      "carte de débit",
+      "paiement sans contact"
+    ],
+    "parking": [
+      "stationnement gratuit dans la rue"
+    ]
+  },
+  "redaction": {
+    "version": 2,
+    "titre": "Venus Steakhouse — Restaurant à Les Pavillons-sous-Bois",
+    "meta_titre": "Venus Steakhouse à Les Pavillons-sous-Bois : horaires, avis",
+    "meta_description": "Venus Steakhouse, restaurant à Les Pavillons-sous-Bois : horaires d'ouverture, note Google 4,6/5 (2703 avis), téléphone, adresse et itinéraire.",
+    "chapo": "Cette fiche présente Venus Steakhouse, un restaurant au 188 Avenue Aristide Briand, à Les Pavillons-sous-Bois. Ouvert sept jours sur sept au relevé du 1 novembre 2026. Téléphone : 07 82 93 69 47. Note Google : 4,6 sur 5 pour 2703 avis.",
+    "sections": [
+      {
+        "id": "presentation",
+        "titre": "Venus Steakhouse en quelques mots",
+        "paragraphes": [
+          "Niveau de prix indiqué sur la fiche Google : €€€ (élevé).",
+          "D'après le relevé du 1 novembre 2026, l'établissement est ouvert sept jours sur sept. Le détail jour par jour figure plus bas."
+        ]
+      },
+      {
+        "id": "prestations",
+        "titre": "Services et équipements de Venus Steakhouse",
+        "paragraphes": [
+          "Proposé : sur place, réservation possible, terrasse, petit-déjeuner, déjeuner, dîner, café, cocktails, adapté aux enfants et toilettes.",
+          "Non proposé selon la fiche Google : livraison, retrait en voiture et vin.",
+          "Moyens de paiement déclarés : carte de débit et paiement sans contact.",
+          "Stationnement : stationnement gratuit dans la rue.",
+          "Ces indications sont déclarées par l'établissement sur sa fiche Google (relevé du 1 novembre 2026)."
+        ]
+      },
+      {
+        "id": "acces",
+        "titre": "Adresse et accès",
+        "paragraphes": [
+          "L'établissement est situé au 188 Avenue Aristide Briand, 93320 Les Pavillons-sous-Bois.",
+          "Coordonnées GPS : 48.90976, 2.50792. Le bouton Itinéraire de cette page ouvre la navigation."
+        ]
+      },
+      {
+        "id": "contact",
+        "titre": "Contacter Venus Steakhouse",
+        "paragraphes": [
+          "Le contact se fait par téléphone au 07 82 93 69 47, ou directement sur place aux horaires d'ouverture.",
+          "La fiche Google indique que la réservation est possible."
+        ]
+      },
+      {
+        "id": "avis",
+        "titre": "La réputation de Venus Steakhouse",
+        "paragraphes": [
+          "Note de 4,6 sur 5 pour 2703 avis Google au relevé du 1 novembre 2026. Les avis les plus parlants sont compilés ci-dessous, avec un lien vers la fiche d'origine."
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "q": "Quels sont les horaires de Venus Steakhouse ?",
+        "r": "Au relevé du 1 novembre 2026, Venus Steakhouse était ouvert sept jours sur sept. Dans le détail — lundi : de 18 h à 23 h 30 ; mardi : de 12 h à 15 h et de 18 h à 23 h 30 ; mercredi : de 12 h à 15 h et de 18 h à 23 h 30 ; jeudi : de 12 h à 15 h et de 18 h à 23 h 30 ; vendredi : de 12 h à 15 h et de 18 h à 0 h ; samedi : de 12 h à 0 h ; dimanche : de 12 h à 23 h 30. Ces horaires peuvent changer : un appel préalable reste conseillé."
+      },
+      {
+        "q": "Venus Steakhouse est-il ouvert le dimanche ?",
+        "r": "Oui : le dimanche, Venus Steakhouse est ouvert de 12 h à 23 h 30 (horaires relevés le 1 novembre 2026)."
+      },
+      {
+        "q": "Où se trouve Venus Steakhouse ?",
+        "r": "Venus Steakhouse se trouve 188 Av. Aristide Briand, 93320 Les Pavillons-sous-Bois. Un lien d'itinéraire est disponible sur cette page."
+      },
+      {
+        "q": "Comment contacter Venus Steakhouse ?",
+        "r": "Par téléphone au 07 82 93 69 47, ou directement sur place aux heures d'ouverture."
+      },
+      {
+        "q": "Peut-on réserver chez Venus Steakhouse ?",
+        "r": "Oui, la fiche Google de Venus Steakhouse indique que la réservation est possible, par téléphone au 07 82 93 69 47."
+      },
+      {
+        "q": "Venus Steakhouse propose-t-il la vente à emporter ou la livraison ?",
+        "r": "D'après sa fiche Google (relevé du 1 novembre 2026) — livraison : non."
+      },
+      {
+        "q": "Quel est le niveau de prix de Venus Steakhouse ?",
+        "r": "Google classe Venus Steakhouse au niveau de prix €€€ (élevé), sur une échelle de € à €€€€ établie à partir des avis clients."
+      },
+      {
+        "q": "Venus Steakhouse est-il accessible aux personnes à mobilité réduite ?",
+        "r": "La fiche Google de l'établissement mentionne : « Entrée accessible en fauteuil roulant ». Cette information est déclarative ; en cas de doute, vérifiez par téléphone."
+      }
+    ],
+    "genere_le": "2026-11-01"
+  },
+  "statut_google": "OPERATIONAL",
+  "audience": {
+    "clics": 0,
+    "impressions": 0,
+    "position": null,
+    "fenetreJours": 90,
+    "clicsRecents": 0,
+    "fenetreRecenteJours": 28,
+    "source": "search-console",
+    "date": "2026-11-01"
+  }
+}

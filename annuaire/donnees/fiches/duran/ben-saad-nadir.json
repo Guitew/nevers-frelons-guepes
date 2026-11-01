@@ -41,8 +41,8 @@
     "etat": "absent",
     "premiere_detection": null,
     "derniere_detection": null,
-    "derniere_verification": "2026-10-18T10:46:48.744Z",
-    "echecs": 17,
+    "derniere_verification": "2026-11-01T11:48:12.789Z",
+    "echecs": 18,
     "url_detectee": null
   },
   "suggestion": {
@@ -62,7 +62,7 @@
   "dates": {
     "collecte": "2026-10-01",
     "publication": "2026-10-01",
-    "maj": "2026-10-18"
+    "maj": "2026-11-01"
   },
   "source": "google-places",
   "redaction": {
@@ -77,6 +77,15 @@
         "titre": "Ben Saad Nadir en quelques mots",
         "paragraphes": [
           "Sur Google, l'établissement est classé « Kinésithérapeute », dans notre rubrique Santé et bien-être."
+        ]
+      },
+      {
+        "id": "prestations",
+        "titre": "Services et équipements de Ben Saad Nadir",
+        "paragraphes": [
+          "Proposé : toilettes.",
+          "Moyens de paiement déclarés : carte bancaire et carte de débit.",
+          "Ces indications sont déclarées par l'établissement sur sa fiche Google (relevé du 1 novembre 2026)."
         ]
       },
       {
@@ -98,7 +107,7 @@
         "id": "avis",
         "titre": "La réputation de Ben Saad Nadir",
         "paragraphes": [
-          "Note de 5 sur 5 pour 8 avis Google au relevé du 18 octobre 2026. Les avis se consultent sur la fiche Google, dont le lien figure sur cette page."
+          "Note de 5 sur 5 pour 8 avis Google au relevé du 1 novembre 2026. Les avis les plus parlants sont compilés ci-dessous, avec un lien vers la fiche d'origine."
         ]
       }
     ],
@@ -116,7 +125,7 @@
         "r": "La fiche Google de l'établissement mentionne : « Entrée accessible en fauteuil roulant ». Cette information est déclarative ; en cas de doute, vérifiez par téléphone."
       }
     ],
-    "genere_le": "2026-10-18"
+    "genere_le": "2026-11-01"
   },
   "statut_google": "OPERATIONAL",
   "audience": {
@@ -127,6 +136,67 @@
     "clicsRecents": 0,
     "fenetreRecenteJours": 28,
     "source": "search-console",
-    "date": "2026-10-31"
+    "date": "2026-11-01"
+  },
+  "avis_detail": {
+    "releve": "2026-11-01",
+    "liste": [
+      {
+        "note": 5,
+        "texte": "Merci Nadir,\nses explications sont très claires et les solutions apportées sont claires et efficaces. C'est un travailleur infatigable avec des connaissances qui nous aident, nous qui avons besoin de soutien et de compréhension de nos souffrances. Il connait parfaitement l'anatomie du corps humain ce qui lui permet d'apporter des solutions. De plus il est vraiment à l'écoute de ses patients et leur apporte des réponses.\nBravo Nadir",
+        "langue": "fr",
+        "date": "2025-12-16",
+        "auteur": "Philippe Boyer",
+        "auteur_lien": "https://www.google.com/maps/contrib/116597706106262615679/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT21welNqbERjbWhDZW5jNWFVZDRSVWROYURsbldFRRAB!2m1!1s0x12a98302454de581:0x6085c964180b0642"
+      },
+      {
+        "note": 5,
+        "texte": "Un super professionnel. Très investi et toujours à l ecoute. Très rare. A ne pas manquer. Et la gentillesse en prime!!",
+        "langue": "fr",
+        "date": "2025-10-01",
+        "auteur": "Sylvana",
+        "auteur_lien": "https://www.google.com/maps/contrib/103891232461662798729/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2pSSGRrOXpiek5KTVVWc2FIbDZOM1pDY0ZkM1EyYxAB!2m1!1s0x12a98302454de581:0x6085c964180b0642"
+      },
+      {
+        "note": 5,
+        "texte": "Je suis reconnaissant à Nadir pour son suivi professionnel et sa grande humanité. Opéré d'une prothèse complète à la hanche droite les douleurs se sont reportées sur la jambe gauche. Nadir sait me proposer les exercices qui font que mes douleurs s'amenuisent et disparaissent de plus en plus souvent.\nJe recommande fortement ce professionnel.",
+        "langue": "fr",
+        "date": "2025-07-10",
+        "auteur": "Philippe MENON",
+        "auteur_lien": "https://www.google.com/maps/contrib/116349728589604115369/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2pOTlFXVndORmhMTlRSeGRrTTNiMjh3VDI4MFNsRRAB!2m1!1s0x12a98302454de581:0x6085c964180b0642"
+      },
+      {
+        "note": 5,
+        "texte": "Kine formidable ! Très à l’écoute ! Va à votre rythme, cible les exercices en fonction de votre douleur, vous motive met en confiance… bref un super Kine au top ! Vous pouvez y aller les yeux fermés !",
+        "langue": "fr",
+        "date": "2025-06-18",
+        "auteur": "Magalie",
+        "auteur_lien": "https://www.google.com/maps/contrib/100215570803861449007/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT21ReVZVOHlVRWx0VldKSWIxaFhSMFJLU2xORVNrRRAB!2m1!1s0x12a98302454de581:0x6085c964180b0642"
+      },
+      {
+        "note": 5,
+        "texte": "A l’écoute très pro je recommande",
+        "langue": "fr",
+        "date": "2021-06-07",
+        "auteur": "Penet Nicolas",
+        "auteur_lien": "https://www.google.com/maps/contrib/111200572629457685935/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUNxcnFiYUhBEAE!2m1!1s0x12a98302454de581:0x6085c964180b0642"
+      }
+    ]
+  },
+  "services": {
+    "releve": "2026-11-01",
+    "options": {
+      "restroom": true
+    },
+    "paiement": [
+      "carte bancaire",
+      "carte de débit"
+    ],
+    "parking": []
   }
 }

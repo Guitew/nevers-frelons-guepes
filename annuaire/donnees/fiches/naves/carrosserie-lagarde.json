@@ -26,8 +26,8 @@
     "latitude": 45.3163871,
     "longitude": 1.7705066999999999
   },
-  "note": 4.6,
-  "avis": 130,
+  "note": 4.5,
+  "avis": 131,
   "horaires": [
     {
       "jour": 0,
@@ -122,8 +122,8 @@
     "etat": "absent",
     "premiere_detection": null,
     "derniere_detection": null,
-    "derniere_verification": "2026-10-18T10:46:48.744Z",
-    "echecs": 71,
+    "derniere_verification": "2026-11-01T11:48:12.789Z",
+    "echecs": 72,
     "url_detectee": null
   },
   "suggestion": {
@@ -141,22 +141,31 @@
   "dates": {
     "collecte": "2026-09-03",
     "publication": "2026-09-03",
-    "maj": "2026-10-19"
+    "maj": "2026-11-01"
   },
   "source": "google-places",
   "redaction": {
     "version": 2,
     "titre": "Carrosserie Lagarde — Garage et automobile à Naves",
     "meta_titre": "Carrosserie Lagarde à Naves : horaires, avis, téléphone",
-    "meta_description": "Carrosserie Lagarde, garage et automobile à Naves : horaires d'ouverture, note Google 4,6/5 (130 avis), téléphone, adresse et itinéraire.",
-    "chapo": "Carrosserie Lagarde exerce l'activité de garage et automobile au 44 Nord Route nationale, à Naves. Fermé le samedi et le dimanche au relevé du 18 octobre 2026. Téléphone : 05 55 26 77 94. Note Google : 4,6 sur 5 pour 130 avis.",
+    "meta_description": "Carrosserie Lagarde, garage et automobile à Naves : horaires d'ouverture, note Google 4,5/5 (131 avis), téléphone, adresse et itinéraire.",
+    "chapo": "Carrosserie Lagarde exerce l'activité de garage et automobile au 44 Nord Route nationale, à Naves. Fermé le samedi et le dimanche au relevé du 1 novembre 2026. Téléphone : 05 55 26 77 94. Note Google : 4,5 sur 5 pour 131 avis.",
     "sections": [
       {
         "id": "presentation",
         "titre": "Carrosserie Lagarde en quelques mots",
         "paragraphes": [
           "Sur Google, l'établissement est classé « Garage automobile », dans notre rubrique Garage et automobile.",
-          "D'après le relevé du 18 octobre 2026, l'établissement est fermé le samedi et le dimanche. Le détail jour par jour figure plus bas."
+          "D'après le relevé du 1 novembre 2026, l'établissement est fermé le samedi et le dimanche. Le détail jour par jour figure plus bas."
+        ]
+      },
+      {
+        "id": "prestations",
+        "titre": "Services et équipements de Carrosserie Lagarde",
+        "paragraphes": [
+          "Proposé : toilettes.",
+          "Moyens de paiement déclarés : carte bancaire, carte de débit et paiement sans contact.",
+          "Ces indications sont déclarées par l'établissement sur sa fiche Google (relevé du 1 novembre 2026)."
         ]
       },
       {
@@ -178,18 +187,18 @@
         "id": "avis",
         "titre": "La réputation de Carrosserie Lagarde",
         "paragraphes": [
-          "Note de 4,6 sur 5 pour 130 avis Google au relevé du 18 octobre 2026. Les avis se consultent sur la fiche Google, dont le lien figure sur cette page."
+          "Note de 4,5 sur 5 pour 131 avis Google au relevé du 1 novembre 2026. Les avis les plus parlants sont compilés ci-dessous, avec un lien vers la fiche d'origine."
         ]
       }
     ],
     "faq": [
       {
         "q": "Quels sont les horaires de Carrosserie Lagarde ?",
-        "r": "Au relevé du 18 octobre 2026, Carrosserie Lagarde était fermé le samedi et le dimanche. Dans le détail — lundi : de 8 h à 12 h et de 13 h à 17 h 45 ; mardi : de 8 h à 12 h et de 13 h à 17 h 45 ; mercredi : de 8 h à 12 h et de 13 h à 17 h 45 ; jeudi : de 8 h à 12 h et de 13 h à 17 h 45 ; vendredi : de 8 h à 12 h et de 13 h à 18 h 30 ; samedi : fermé ; dimanche : fermé. Ces horaires peuvent changer : un appel préalable reste conseillé."
+        "r": "Au relevé du 1 novembre 2026, Carrosserie Lagarde était fermé le samedi et le dimanche. Dans le détail — lundi : de 8 h à 12 h et de 13 h à 17 h 45 ; mardi : de 8 h à 12 h et de 13 h à 17 h 45 ; mercredi : de 8 h à 12 h et de 13 h à 17 h 45 ; jeudi : de 8 h à 12 h et de 13 h à 17 h 45 ; vendredi : de 8 h à 12 h et de 13 h à 18 h 30 ; samedi : fermé ; dimanche : fermé. Ces horaires peuvent changer : un appel préalable reste conseillé."
       },
       {
         "q": "Carrosserie Lagarde est-il ouvert le dimanche ?",
-        "r": "Non : d'après les horaires relevés le 18 octobre 2026, Carrosserie Lagarde est fermé le dimanche."
+        "r": "Non : d'après les horaires relevés le 1 novembre 2026, Carrosserie Lagarde est fermé le dimanche."
       },
       {
         "q": "Où se trouve Carrosserie Lagarde ?",
@@ -204,7 +213,7 @@
         "r": "La fiche Google de l'établissement mentionne : « Entrée accessible en fauteuil roulant ». Cette information est déclarative ; en cas de doute, vérifiez par téléphone."
       }
     ],
-    "genere_le": "2026-10-18"
+    "genere_le": "2026-11-01"
   },
   "statut_google": "OPERATIONAL",
   "audience": {
@@ -215,7 +224,7 @@
     "clicsRecents": 0,
     "fenetreRecenteJours": 28,
     "source": "search-console",
-    "date": "2026-10-31"
+    "date": "2026-11-01"
   },
   "indexation": {
     "etat": "non-indexee",
@@ -225,5 +234,67 @@
     "canonique_google": null,
     "source": "inspection",
     "date": "2026-10-19"
+  },
+  "avis_detail": {
+    "releve": "2026-11-01",
+    "liste": [
+      {
+        "note": 5,
+        "texte": "Parfait, très bon travail et ma voiture m'a été rendue Super propre 👍👌 merci beaucoup",
+        "langue": "fr",
+        "date": "2026-08-08",
+        "auteur": "noukos auber",
+        "auteur_lien": "https://www.google.com/maps/contrib/101308286228237819589/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xCdVJUSkxOV2xuV2sxaVRGSkNOVnBoVkZvMU1uYxAB!2m1!1s0x47f8f364dc341e01:0xf28ff3da1d5516de"
+      },
+      {
+        "note": 5,
+        "texte": "Dépannage avec le sourire arrangeant les personnes dans la panade....amabilité présente",
+        "langue": "fr",
+        "date": "2026-07-29",
+        "auteur": "Renée Matillon",
+        "auteur_lien": "https://www.google.com/maps/contrib/109812491663554875620/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2pSdFNHaEZTRTV1UzFWRWNIUXpVbE5TZVVKaldIYxAB!2m1!1s0x47f8f364dc341e01:0xf28ff3da1d5516de"
+      },
+      {
+        "note": 5,
+        "texte": "Suite à une panne sur l'autoroute,  nous avons été pris en charge par ce garage.  Malgré une grosse charge de travail évidente,  l'ensemble des personnes présentes a été génial.  Tout à été géré à la perfection et nous avons pu repartir dans l'après midi.  Nous remercions chaleureusement l'ensemble du personnel.\nStéphane.",
+        "langue": "fr",
+        "date": "2026-07-16",
+        "auteur": "Stéphane Pechereau",
+        "auteur_lien": "https://www.google.com/maps/contrib/114039211327185667788/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25OSFNEZFVaRXBYYzFoUFgzWXlNVFJHY0d0bGJVRRAB!2m1!1s0x47f8f364dc341e01:0xf28ff3da1d5516de"
+      },
+      {
+        "note": 5,
+        "texte": "Suite a un accident mon vehicule a été pris en charge par cet etablissement et par la suite je leur est confié la réparation et le travail effectué est vraiment de très belle qualité ,et l accueil des dames côté administration est egalement a souligne.\nLe jour de la reception du vehicule toutes les petites attention sont egalement a salué.\nPour conclure je ne peus que conseillé en cas de besoin cet etablissement.",
+        "langue": "fr",
+        "date": "2026-02-20",
+        "auteur": "alain deshoulieres",
+        "auteur_lien": "https://www.google.com/maps/contrib/118012715479014939319/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xSbU5FMXdiVzFSVVRjNVNVNU9OMDVpVUVRMmIwRRAB!2m1!1s0x47f8f364dc341e01:0xf28ff3da1d5516de"
+      },
+      {
+        "note": 5,
+        "texte": "En panne sur l'autoroute, nous avons été gentiment dépannés par un de leurs employés. Il nous a accueillis au garage pendant que nous attendions de la famille pour pouvoir rentrer, et nous a donnés de précieuses indications pour la suite des démarches ! Si tout leur personnel travaille à son image, la carrosserie est de confiance et sérieuse !",
+        "langue": "fr",
+        "date": "2025-08-27",
+        "auteur": "Angélique Bouvier",
+        "auteur_lien": "https://www.google.com/maps/contrib/102824309680532635273/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2t4M09YUXlZbTVvWjNGaU1XbHJNVmRwV1U0d1pWRRAB!2m1!1s0x47f8f364dc341e01:0xf28ff3da1d5516de"
+      }
+    ]
+  },
+  "services": {
+    "releve": "2026-11-01",
+    "options": {
+      "restroom": true
+    },
+    "paiement": [
+      "carte bancaire",
+      "carte de débit",
+      "paiement sans contact"
+    ],
+    "parking": []
   }
 }

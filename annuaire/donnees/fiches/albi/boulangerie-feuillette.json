@@ -43,7 +43,7 @@
     "longitude": 2.1747058
   },
   "note": 4.3,
-  "avis": 692,
+  "avis": 710,
   "horaires": [
     {
       "jour": 0,
@@ -129,8 +129,8 @@
     "etat": "absent",
     "premiere_detection": null,
     "derniere_detection": null,
-    "derniere_verification": "2026-10-18T10:46:48.744Z",
-    "echecs": 42,
+    "derniere_verification": "2026-11-01T11:48:12.789Z",
+    "echecs": 43,
     "url_detectee": null
   },
   "suggestion": {
@@ -143,22 +143,34 @@
   "dates": {
     "collecte": "2026-09-18",
     "publication": "2026-09-18",
-    "maj": "2026-10-18"
+    "maj": "2026-11-01"
   },
   "source": "google-places",
   "redaction": {
     "version": 2,
     "titre": "Boulangerie Feuillette — Boulangerie-pâtisserie à Albi",
     "meta_titre": "Boulangerie Feuillette à Albi : horaires, avis, téléphone",
-    "meta_description": "Boulangerie Feuillette, boulangerie-pâtisserie à Albi : horaires d'ouverture, note Google 4,3/5 (692 avis), téléphone, adresse et itinéraire.",
-    "chapo": "Boulangerie Feuillette est une boulangerie-pâtisserie au 54 Avenue de Saint-Juéry, à Albi. Ouvert sept jours sur sept au relevé du 18 octobre 2026. Téléphone : 05 19 08 41 35. Note Google : 4,3 sur 5 pour 692 avis.",
+    "meta_description": "Boulangerie Feuillette, boulangerie-pâtisserie à Albi : horaires d'ouverture, note Google 4,3/5 (710 avis), téléphone, adresse et itinéraire.",
+    "chapo": "Boulangerie Feuillette est une boulangerie-pâtisserie au 54 Avenue de Saint-Juéry, à Albi. Ouvert sept jours sur sept au relevé du 1 novembre 2026. Téléphone : 05 19 08 41 35. Note Google : 4,3 sur 5 pour 710 avis.",
     "sections": [
       {
         "id": "presentation",
         "titre": "Boulangerie Feuillette en quelques mots",
         "paragraphes": [
           "Sur Google, l'établissement est classé « Boulangerie », dans notre rubrique Boulangerie-pâtisserie.",
-          "D'après le relevé du 18 octobre 2026, l'établissement est ouvert sept jours sur sept. Le détail jour par jour figure plus bas."
+          "Niveau de prix indiqué sur la fiche Google : €€ (modéré).",
+          "D'après le relevé du 1 novembre 2026, l'établissement est ouvert sept jours sur sept. Le détail jour par jour figure plus bas."
+        ]
+      },
+      {
+        "id": "prestations",
+        "titre": "Services et équipements de Boulangerie Feuillette",
+        "paragraphes": [
+          "Proposé : sur place, à emporter, petit-déjeuner, café et toilettes.",
+          "Non proposé selon la fiche Google : livraison, retrait en voiture et chiens acceptés.",
+          "Moyens de paiement déclarés : carte bancaire, carte de débit et paiement sans contact.",
+          "Stationnement : parking gratuit et stationnement gratuit dans la rue.",
+          "Ces indications sont déclarées par l'établissement sur sa fiche Google (relevé du 1 novembre 2026)."
         ]
       },
       {
@@ -180,18 +192,18 @@
         "id": "avis",
         "titre": "La réputation de Boulangerie Feuillette",
         "paragraphes": [
-          "Note de 4,3 sur 5 pour 692 avis Google au relevé du 18 octobre 2026. Les avis se consultent sur la fiche Google, dont le lien figure sur cette page."
+          "Note de 4,3 sur 5 pour 710 avis Google au relevé du 1 novembre 2026. Les avis les plus parlants sont compilés ci-dessous, avec un lien vers la fiche d'origine."
         ]
       }
     ],
     "faq": [
       {
         "q": "Quels sont les horaires de Boulangerie Feuillette ?",
-        "r": "Au relevé du 18 octobre 2026, Boulangerie Feuillette était ouvert sept jours sur sept. Dans le détail — lundi : de 7 h à 20 h ; mardi : de 7 h à 20 h ; mercredi : de 7 h à 20 h ; jeudi : de 7 h à 20 h ; vendredi : de 7 h à 20 h ; samedi : de 7 h à 20 h ; dimanche : de 7 h à 20 h. Ces horaires peuvent changer : un appel préalable reste conseillé."
+        "r": "Au relevé du 1 novembre 2026, Boulangerie Feuillette était ouvert sept jours sur sept. Dans le détail — lundi : de 7 h à 20 h ; mardi : de 7 h à 20 h ; mercredi : de 7 h à 20 h ; jeudi : de 7 h à 20 h ; vendredi : de 7 h à 20 h ; samedi : de 7 h à 20 h ; dimanche : de 7 h à 20 h. Ces horaires peuvent changer : un appel préalable reste conseillé."
       },
       {
         "q": "Boulangerie Feuillette est-il ouvert le dimanche ?",
-        "r": "Oui : le dimanche, Boulangerie Feuillette est ouvert de 7 h à 20 h (horaires relevés le 18 octobre 2026)."
+        "r": "Oui : le dimanche, Boulangerie Feuillette est ouvert de 7 h à 20 h (horaires relevés le 1 novembre 2026)."
       },
       {
         "q": "Où se trouve Boulangerie Feuillette ?",
@@ -202,11 +214,19 @@
         "r": "Par téléphone au 05 19 08 41 35, ou directement sur place aux heures d'ouverture."
       },
       {
+        "q": "Boulangerie Feuillette propose-t-il la vente à emporter ou la livraison ?",
+        "r": "D'après sa fiche Google (relevé du 1 novembre 2026) — vente à emporter : oui ; livraison : non."
+      },
+      {
+        "q": "Quel est le niveau de prix de Boulangerie Feuillette ?",
+        "r": "Google classe Boulangerie Feuillette au niveau de prix €€ (modéré), sur une échelle de € à €€€€ établie à partir des avis clients."
+      },
+      {
         "q": "Boulangerie Feuillette est-il accessible aux personnes à mobilité réduite ?",
         "r": "La fiche Google de l'établissement mentionne : « Entrée accessible en fauteuil roulant ». Cette information est déclarative ; en cas de doute, vérifiez par téléphone."
       }
     ],
-    "genere_le": "2026-10-18"
+    "genere_le": "2026-11-01"
   },
   "statut_google": "OPERATIONAL",
   "audience": {
@@ -217,15 +237,88 @@
     "clicsRecents": 0,
     "fenetreRecenteJours": 28,
     "source": "search-console",
-    "date": "2026-10-31"
+    "date": "2026-11-01"
   },
   "indexation": {
     "etat": "non-indexee",
     "verdict": "NEUTRAL",
-    "couverture": "Détectée, actuellement non indexée",
+    "couverture": "Google ne reconnaît pas cette URL",
     "derniere_exploration": null,
     "canonique_google": null,
     "source": "inspection",
-    "date": "2026-10-31"
+    "date": "2026-11-01"
+  },
+  "avis_detail": {
+    "releve": "2026-11-01",
+    "liste": [
+      {
+        "note": 4,
+        "texte": "Cette boulangerie est assez facile d'accès possède des places pour handicapés.\nL'odeur de la viennoiserie se lève dès l'arrivée sur le parking pour moi c'est un bon point.\nLe visuel à l'intérieur le décor est chaleureux le pain est de bonne qualité et préparer sur place pour ce qui concerne les petits gâteaux ils sont fabriqués dans un de leurs ateliers en dehors de la boulangerie c'est ce qu'il vous permet d'avoir un choix assez varié de petits gâteaux Les un plus gourmand que les autres,\nC'est une pure invitation à la gourmandise sur ce je vous mets quelques photos et je vous souhaite bon appétit 👍😋",
+        "langue": "fr",
+        "date": "2026-08-19",
+        "auteur": "Marc Rambo",
+        "auteur_lien": "https://www.google.com/maps/contrib/115575642877495880459/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xCYVQxVmZhbTR0TkdFMFZIZG5Uak52UjFablZtYxAB!2m1!1s0x12ade97b73c7b3c3:0x6f62ab9ee9d60d2f"
+      },
+      {
+        "note": 5,
+        "texte": "Une excellente découverte à Albi !\n\nNous avons testé plusieurs produits et tout était délicieux. Le sandwich avocat/saumon était tout simplement magnifique : des ingrédients frais, généreux et très savoureux. Le sandwich poulet pané, bacon  était également excellent, gourmand et bien garni.\n\nCôté pâtisserie, le flan vanille était incroyablement crémeux, le moelleux au chocolat fondant à souhait, et les cookies étaient tout aussi réussis.\n\nLe cadre est chaleureux, agréable et très soigné, on s'y sent vraiment bien. Le personnel est souriant, accueillant et aux petits soins.\n\nUn énorme point positif : la boulangerie est ouverte le dimanche, avec énormément de choix, aussi bien en salé qu'en sucré. C'est devenu une adresse incontournable pour nous.\n\nJe recommande les yeux fermés ! 🥐🥪🍰",
+        "langue": "fr",
+        "date": "2026-07-26",
+        "auteur": "Juliette Martinez",
+        "auteur_lien": "https://www.google.com/maps/contrib/104297963473238807769/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT21WRVR6bE5VVkJZTlRsWFEzTTVOVlY1TFdkSE0yYxAB!2m1!1s0x12ade97b73c7b3c3:0x6f62ab9ee9d60d2f"
+      },
+      {
+        "note": 1,
+        "texte": "Cadre très sympathique et chaleureux. Le personnel est très aimable. Le magasin est beau en lui même, très soigné tout comme les boites de gâteaux. On pourrait penser que tout le reste va suivre.\n\nLa grande déception est liée au saveurs. Les pains et viennoiseries sont fades, peu voir pas de goût. On sent réellement que tout est dans le paraître, mais ce ne sont pas de bons produits que j’ai acheté. J’ai jeté un pain au noisette qui n'avait aucun goût et qui a séché dans la journée.  Bref, je ne reviendrai plus dans cette enseigne.\n\nSuite à la réponse du magasin, je tiens a préciser que ce n’est pas le travail de l'artisan que je blâme, mais la peu de qualité des matières premières utilisées.",
+        "langue": "fr",
+        "date": "2026-07-09",
+        "auteur": "Gilles Azzaro",
+        "auteur_lien": "https://www.google.com/maps/contrib/108306145262197903884/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT214SGRuTnNibTlETnpONUxWRkxUVlo0VFRaUlVGRRAB!2m1!1s0x12ade97b73c7b3c3:0x6f62ab9ee9d60d2f"
+      },
+      {
+        "note": 4,
+        "texte": "C'est un bon endroit pour faire une bonne pause, cette boulangerie est calme et bien agencée.\nIls proposent de nombreuses pâtisseries, plusieurs pains, plusieurs plats chauds/froids.\n\nVersus une boulangerie \"traditionnelle\", je trouve que le pain est moins bon et se conserve un peu moins bien, certaines pâtisseries n'ont pas leur goût traditionnel... C'est dommage. Car le prix des spécialités sont sur la fourchette haute de ce que propose les boulangeries Albigeoises.\n\nEn somme, c'est une bonne boulangerie pour une pause, un repas rapide.",
+        "langue": "fr",
+        "date": "2026-05-17",
+        "auteur": "Corentin Kezadri",
+        "auteur_lien": "https://www.google.com/maps/contrib/110090297900320260597/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25kMlltazFkbVo2VUVWNWMyVlJZMWhaY1Zsck5tYxAB!2m1!1s0x12ade97b73c7b3c3:0x6f62ab9ee9d60d2f"
+      },
+      {
+        "note": 4,
+        "texte": "Formule salade césar, part de flan et boisson, très bonne. Je conseille. Juste un petit regret, pour moi qui aime les croûtons croustillants, la ils sont un peu mou puisque dans la salade. Sinon très bien",
+        "langue": "fr",
+        "date": "2026-03-05",
+        "auteur": "Franck FAYARD",
+        "auteur_lien": "https://www.google.com/maps/contrib/107435734139330045772/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25aVVRubGhXV0ZyZFZwelh6RmpYMEpXYWtoTmVFRRAB!2m1!1s0x12ade97b73c7b3c3:0x6f62ab9ee9d60d2f"
+      }
+    ]
+  },
+  "services": {
+    "releve": "2026-11-01",
+    "prix": "PRICE_LEVEL_MODERATE",
+    "options": {
+      "dineIn": true,
+      "takeout": true,
+      "delivery": false,
+      "curbsidePickup": false,
+      "servesBreakfast": true,
+      "servesCoffee": true,
+      "allowsDogs": false,
+      "restroom": true
+    },
+    "paiement": [
+      "carte bancaire",
+      "carte de débit",
+      "paiement sans contact"
+    ],
+    "parking": [
+      "parking gratuit",
+      "stationnement gratuit dans la rue"
+    ]
   }
 }

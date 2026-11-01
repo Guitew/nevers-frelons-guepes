@@ -30,7 +30,7 @@
     "longitude": 5.0371733
   },
   "note": 4.2,
-  "avis": 4498,
+  "avis": 4502,
   "horaires": [
     {
       "jour": 0,
@@ -108,8 +108,8 @@
     "etat": "absent",
     "premiere_detection": null,
     "derniere_detection": null,
-    "derniere_verification": "2026-10-18T10:46:48.744Z",
-    "echecs": 37,
+    "derniere_verification": "2026-11-01T11:48:12.789Z",
+    "echecs": 38,
     "url_detectee": null
   },
   "suggestion": {
@@ -122,22 +122,31 @@
   "dates": {
     "collecte": "2026-09-21",
     "publication": "2026-09-21",
-    "maj": "2026-10-18"
+    "maj": "2026-11-01"
   },
   "source": "google-places",
   "redaction": {
     "version": 2,
     "titre": "BHV Dijon — Mode et équipement de la maison à Dijon",
     "meta_titre": "BHV Dijon à Dijon : horaires, avis, téléphone",
-    "meta_description": "BHV Dijon, mode et équipement de la maison à Dijon : horaires d'ouverture, note Google 4,2/5 (4498 avis), téléphone, adresse et itinéraire.",
-    "chapo": "Cette fiche présente BHV Dijon, une mode et équipement de la maison au 41-49 Rue de la Liberté, à Dijon. Ouvert tous les jours sauf le dimanche au relevé du 18 octobre 2026. Téléphone : 03 80 44 82 12. Note Google : 4,2 sur 5 pour 4498 avis.",
+    "meta_description": "BHV Dijon, mode et équipement de la maison à Dijon : horaires d'ouverture, note Google 4,2/5 (4502 avis), téléphone, adresse et itinéraire.",
+    "chapo": "Cette fiche présente BHV Dijon, une mode et équipement de la maison au 41-49 Rue de la Liberté, à Dijon. Ouvert tous les jours sauf le dimanche au relevé du 1 novembre 2026. Téléphone : 03 80 44 82 12. Note Google : 4,2 sur 5 pour 4502 avis.",
     "sections": [
       {
         "id": "presentation",
         "titre": "BHV Dijon en quelques mots",
         "paragraphes": [
           "Sur Google, l'établissement est classé « Grand magasin », dans notre rubrique Mode et équipement de la maison.",
-          "D'après le relevé du 18 octobre 2026, l'établissement est ouvert tous les jours sauf le dimanche. Le détail jour par jour figure plus bas."
+          "D'après le relevé du 1 novembre 2026, l'établissement est ouvert tous les jours sauf le dimanche. Le détail jour par jour figure plus bas."
+        ]
+      },
+      {
+        "id": "prestations",
+        "titre": "Services et équipements de BHV Dijon",
+        "paragraphes": [
+          "Proposé : livraison.",
+          "Moyens de paiement déclarés : carte bancaire, carte de débit et paiement sans contact.",
+          "Ces indications sont déclarées par l'établissement sur sa fiche Google (relevé du 1 novembre 2026)."
         ]
       },
       {
@@ -159,18 +168,18 @@
         "id": "avis",
         "titre": "La réputation de BHV Dijon",
         "paragraphes": [
-          "Note de 4,2 sur 5 pour 4498 avis Google au relevé du 18 octobre 2026. Les avis se consultent sur la fiche Google, dont le lien figure sur cette page."
+          "Note de 4,2 sur 5 pour 4502 avis Google au relevé du 1 novembre 2026. Les avis les plus parlants sont compilés ci-dessous, avec un lien vers la fiche d'origine."
         ]
       }
     ],
     "faq": [
       {
         "q": "Quels sont les horaires de BHV Dijon ?",
-        "r": "Au relevé du 18 octobre 2026, BHV Dijon était ouvert tous les jours sauf le dimanche. Dans le détail — lundi : de 10 h à 19 h ; mardi : de 10 h à 19 h ; mercredi : de 10 h à 19 h ; jeudi : de 10 h à 19 h ; vendredi : de 10 h à 19 h ; samedi : de 10 h à 19 h 30 ; dimanche : fermé. Ces horaires peuvent changer : un appel préalable reste conseillé."
+        "r": "Au relevé du 1 novembre 2026, BHV Dijon était ouvert tous les jours sauf le dimanche. Dans le détail — lundi : de 10 h à 19 h ; mardi : de 10 h à 19 h ; mercredi : de 10 h à 19 h ; jeudi : de 10 h à 19 h ; vendredi : de 10 h à 19 h ; samedi : de 10 h à 19 h 30 ; dimanche : fermé. Ces horaires peuvent changer : un appel préalable reste conseillé."
       },
       {
         "q": "BHV Dijon est-il ouvert le dimanche ?",
-        "r": "Non : d'après les horaires relevés le 18 octobre 2026, BHV Dijon est fermé le dimanche."
+        "r": "Non : d'après les horaires relevés le 1 novembre 2026, BHV Dijon est fermé le dimanche."
       },
       {
         "q": "Où se trouve BHV Dijon ?",
@@ -181,22 +190,26 @@
         "r": "Par téléphone au 03 80 44 82 12, ou directement sur place aux heures d'ouverture."
       },
       {
+        "q": "BHV Dijon propose-t-il la vente à emporter ou la livraison ?",
+        "r": "D'après sa fiche Google (relevé du 1 novembre 2026) — livraison : oui."
+      },
+      {
         "q": "BHV Dijon est-il accessible aux personnes à mobilité réduite ?",
         "r": "La fiche Google de l'établissement mentionne : « Entrée accessible en fauteuil roulant ». Cette information est déclarative ; en cas de doute, vérifiez par téléphone."
       }
     ],
-    "genere_le": "2026-10-18"
+    "genere_le": "2026-11-01"
   },
   "statut_google": "OPERATIONAL",
   "audience": {
     "clics": 1,
-    "impressions": 251,
-    "position": 8.8,
+    "impressions": 271,
+    "position": 8.6,
     "fenetreJours": 90,
     "clicsRecents": 1,
     "fenetreRecenteJours": 28,
     "source": "search-console",
-    "date": "2026-10-31"
+    "date": "2026-11-01"
   },
   "indexation": {
     "etat": "indexee",
@@ -205,6 +218,68 @@
     "derniere_exploration": null,
     "canonique_google": null,
     "source": "impressions",
-    "date": "2026-10-31"
+    "date": "2026-11-01"
+  },
+  "avis_detail": {
+    "releve": "2026-11-01",
+    "liste": [
+      {
+        "note": 1,
+        "texte": "De passage le samedi 3 octobre 2026, vers 15h, dans votre magasin, un employé grand, plutôt costaud, avec lunette blanche transparente se trouvant au rez de chaussé au niveau de la seule porte automatique donnant sur le coin de la rue de la liberté, nous a demandé de scanner un QR code avec notre téléphone pour un jeu promotionnel.\n\nLe soucis, il oblige les clients à remplir les informations devant lui afin de récolter notre numéro de téléphone à des fins personnelle.\n\nJe ne sais pas si il s’agit d’une consigne de la direction mais c’est simplement illégal.\n\nLes caméras de surveillance prouverons mes dires.",
+        "langue": "fr",
+        "date": "2026-10-06",
+        "auteur": "Nanno",
+        "auteur_lien": "https://www.google.com/maps/contrib/102590195991412816239/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2w4ek9HMHhTRXQ1TjFSU1dHbGpZa1p5Ym1Gc2MwRRAB!2m1!1s0x47f29debdb459a65:0xd9c784c8a6ff0615"
+      },
+      {
+        "note": 1,
+        "texte": "Sauvez ce beau bâtiment\nLes GL de Dijon ont vécu une transformation  que Dijon belle ville ne mérite pas.  Il est urgent que leur direction se ressaisisse et redonne une belle place aux commerces dans cette belle batisse.",
+        "langue": "fr",
+        "date": "2026-09-14",
+        "auteur": "Nathalie F",
+        "auteur_lien": "https://www.google.com/maps/contrib/106106005103416623979/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xJd1gwZzFOVXBZZDJaU1UyOHRjSEJPVXpWWVgzYxAB!2m1!1s0x47f29debdb459a65:0xd9c784c8a6ff0615"
+      },
+      {
+        "note": 1,
+        "texte": "Deux déplacements pour rien ! La première fois, un vendeur me confirme que mon bon cadeau fonctionne, mais en caisse c'est refusé : le passage des Galeries Lafayette au BHV n'avait pas encore été mis à jour dans leur logiciel.\nJe repasse plus tard : nouveau refus ! On m'annonce cette fois que le magasin est devenu indépendant du groupe BHV. On me renvoie vers un service client qui est totalement injoignable.\nAucune prise en charge, des fausses promesses et un manque de considération flagrant pour la clientèle.",
+        "langue": "fr",
+        "date": "2026-07-28",
+        "auteur": "Marion Rgl",
+        "auteur_lien": "https://www.google.com/maps/contrib/101843765371891643615/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xCblZWbEdVakJETlRSZlkyNU9NRWRYYURkSVgzYxAB!2m1!1s0x47f29debdb459a65:0xd9c784c8a6ff0615"
+      },
+      {
+        "note": 4,
+        "texte": "très beau bâtiment, belle deco de Noël  des lieux propice pour ce balader...de beaux articles de haute qualité : les prix suivent. Dommage qui n'y ai pas un espace pour des produits plus accessible ce qui nous feraient revenir plus souvent.",
+        "langue": "fr",
+        "date": "2025-12-28",
+        "auteur": "SAB21",
+        "auteur_lien": "https://www.google.com/maps/contrib/101741815172345492665/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2tGTlpVZzRlRTVPVEdoQ1dFaEdVV1pEWXpZeWNYYxAB!2m1!1s0x47f29debdb459a65:0xd9c784c8a6ff0615"
+      },
+      {
+        "note": 3,
+        "texte": "Beaucoup de choix et la galerie est très propre. Il y a plusieurs étages, de quoi trouver son bonheur. Pourtant je n'ai rien acheter. La raison ? Un ou une vendeur(se) à chaque coin de rayons, bien habillé serte, mais impossible de faire ses achats tranquillement sans être interrompu. Cela nous donne juste une envie de partie ailleurs, dommage.",
+        "langue": "fr",
+        "date": "2025-03-28",
+        "auteur": "Louna",
+        "auteur_lien": "https://www.google.com/maps/contrib/117194721399258822396/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnTUR3NTVPZDNBRRAB!2m1!1s0x47f29debdb459a65:0xd9c784c8a6ff0615"
+      }
+    ]
+  },
+  "services": {
+    "releve": "2026-11-01",
+    "options": {
+      "delivery": true
+    },
+    "paiement": [
+      "carte bancaire",
+      "carte de débit",
+      "paiement sans contact"
+    ],
+    "parking": []
   }
 }

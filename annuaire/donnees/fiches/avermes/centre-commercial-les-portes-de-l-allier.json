@@ -111,8 +111,8 @@
     "etat": "absent",
     "premiere_detection": null,
     "derniere_detection": null,
-    "derniere_verification": "2026-10-18T10:46:48.744Z",
-    "echecs": 77,
+    "derniere_verification": "2026-11-01T11:48:12.789Z",
+    "echecs": 78,
     "url_detectee": null
   },
   "suggestion": {
@@ -131,7 +131,7 @@
   "dates": {
     "collecte": "2026-09-01",
     "publication": "2026-09-01",
-    "maj": "2026-10-18"
+    "maj": "2026-11-01"
   },
   "source": "google-places",
   "redaction": {
@@ -139,14 +139,24 @@
     "titre": "Centre commercial Les Portes de l'Allier — Commerce d'alimentation à Avermes",
     "meta_titre": "Centre commercial Les Portes de l'Allier à Avermes",
     "meta_description": "Centre commercial Les Portes de l'Allier, commerce d'alimentation à Avermes : horaires d'ouverture, téléphone, adresse et itinéraire.",
-    "chapo": "Cette fiche présente Centre commercial Les Portes de l'Allier, un commerce d'alimentation à Avermes. Ouvert tous les jours sauf le dimanche au relevé du 18 octobre 2026. Téléphone : 04 70 46 22 46. Note Google : 4,4 sur 5 pour 840 avis.",
+    "chapo": "Cette fiche présente Centre commercial Les Portes de l'Allier, un commerce d'alimentation à Avermes. Ouvert tous les jours sauf le dimanche au relevé du 1 novembre 2026. Téléphone : 04 70 46 22 46. Note Google : 4,4 sur 5 pour 840 avis.",
     "sections": [
       {
         "id": "presentation",
         "titre": "Centre commercial Les Portes de l'Allier en quelques mots",
         "paragraphes": [
           "Sur Google, l'établissement est classé « Centre commercial », dans notre rubrique Commerce d'alimentation.",
-          "D'après le relevé du 18 octobre 2026, l'établissement est ouvert tous les jours sauf le dimanche. Le détail jour par jour figure plus bas."
+          "D'après le relevé du 1 novembre 2026, l'établissement est ouvert tous les jours sauf le dimanche. Le détail jour par jour figure plus bas."
+        ]
+      },
+      {
+        "id": "prestations",
+        "titre": "Services et équipements de Centre commercial Les Portes de l'Allier",
+        "paragraphes": [
+          "Proposé : toilettes.",
+          "Moyens de paiement déclarés : carte bancaire, carte de débit et paiement sans contact.",
+          "Stationnement : parking gratuit.",
+          "Ces indications sont déclarées par l'établissement sur sa fiche Google (relevé du 1 novembre 2026)."
         ]
       },
       {
@@ -168,18 +178,18 @@
         "id": "avis",
         "titre": "La réputation de Centre commercial Les Portes de l'Allier",
         "paragraphes": [
-          "Note de 4,4 sur 5 pour 840 avis Google au relevé du 18 octobre 2026. Les avis se consultent sur la fiche Google, dont le lien figure sur cette page."
+          "Note de 4,4 sur 5 pour 840 avis Google au relevé du 1 novembre 2026. Les avis les plus parlants sont compilés ci-dessous, avec un lien vers la fiche d'origine."
         ]
       }
     ],
     "faq": [
       {
         "q": "Quels sont les horaires de Centre commercial Les Portes de l'Allier ?",
-        "r": "Au relevé du 18 octobre 2026, Centre commercial Les Portes de l'Allier était ouvert tous les jours sauf le dimanche. Dans le détail — lundi : de 9 h à 19 h 30 ; mardi : de 9 h à 19 h 30 ; mercredi : de 9 h à 19 h 30 ; jeudi : de 9 h à 19 h 30 ; vendredi : de 9 h à 19 h 30 ; samedi : de 9 h à 19 h 30 ; dimanche : fermé. Ces horaires peuvent changer : un appel préalable reste conseillé."
+        "r": "Au relevé du 1 novembre 2026, Centre commercial Les Portes de l'Allier était ouvert tous les jours sauf le dimanche. Dans le détail — lundi : de 9 h à 19 h 30 ; mardi : de 9 h à 19 h 30 ; mercredi : de 9 h à 19 h 30 ; jeudi : de 9 h à 19 h 30 ; vendredi : de 9 h à 19 h 30 ; samedi : de 9 h à 19 h 30 ; dimanche : fermé. Ces horaires peuvent changer : un appel préalable reste conseillé."
       },
       {
         "q": "Centre commercial Les Portes de l'Allier est-il ouvert le dimanche ?",
-        "r": "Non : d'après les horaires relevés le 18 octobre 2026, Centre commercial Les Portes de l'Allier est fermé le dimanche."
+        "r": "Non : d'après les horaires relevés le 1 novembre 2026, Centre commercial Les Portes de l'Allier est fermé le dimanche."
       },
       {
         "q": "Où se trouve Centre commercial Les Portes de l'Allier ?",
@@ -194,7 +204,7 @@
         "r": "La fiche Google de l'établissement mentionne : « Entrée accessible en fauteuil roulant ». Cette information est déclarative ; en cas de doute, vérifiez par téléphone."
       }
     ],
-    "genere_le": "2026-10-18"
+    "genere_le": "2026-11-01"
   },
   "statut_google": "OPERATIONAL",
   "audience": {
@@ -205,7 +215,7 @@
     "clicsRecents": 0,
     "fenetreRecenteJours": 28,
     "source": "search-console",
-    "date": "2026-10-31"
+    "date": "2026-11-01"
   },
   "indexation": {
     "etat": "non-indexee",
@@ -215,5 +225,69 @@
     "canonique_google": null,
     "source": "inspection",
     "date": "2026-10-18"
+  },
+  "avis_detail": {
+    "releve": "2026-11-01",
+    "liste": [
+      {
+        "note": 4,
+        "texte": "Très beau centre Leclerc immense et vous savez ce qui nous a manqué\ndes petits bancs à l'intérieur, surtout vers la cabine d'essage, pour pouvoir se poser 30 secondes, mon mari a faillit en perdre sa prothèse (je plaisante 😂) mais il ne veut plus m'y emmener ...dommage",
+        "langue": "fr",
+        "date": "2026-08-06",
+        "auteur": "Michèle BRY",
+        "auteur_lien": "https://www.google.com/maps/contrib/107368630957743032538/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2pGb00zTkxWUzFmUWtvM1UyMVRhbmxWWDE5cVUyYxAB!2m1!1s0x47f11cfc673dc329:0xde6c04d1a54f66f"
+      },
+      {
+        "note": 5,
+        "texte": "​Le magasin est toujours parfaitement bien rangé et structuré, avec des rayons larges et bien espacés qui rendent la circulation très fluide et agréable.\n​L’accueil est l'un des points forts : le personnel se montre toujours très sympa, souriant et de très bon conseil, comme c'est le cas aux rayons boucherie et boulangerie (et sans doute dans les autres rayons, même si je n'ai pas encore eu l'occasion de solliciter leur aide !).\n​Le vrai plus incontestable reste le grand parking, particulièrement spacieux et entièrement équipé de superbes ombrières photovoltaïques. C'est l'idéal pour protéger les véhicules du soleil et les garder bien au frais, tout en faisant un beau geste concret pour la transition écologique et notre planète !\n​C'est un véritable plaisir de venir y faire ses courses en toute sérénité. Un établissement de confiance que je recommande sans la moindre hésitation à 100 % !",
+        "langue": "fr",
+        "date": "2026-07-03",
+        "auteur": "L'Ankou",
+        "auteur_lien": "https://www.google.com/maps/contrib/101575054007473196391/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT21KdlpYUTRXRTF6VUZGclpuaFJaVlpEYVhaMFJtYxAB!2m1!1s0x47f11cfc673dc329:0xde6c04d1a54f66f"
+      },
+      {
+        "note": 3,
+        "texte": "Le magasin en lui-même est bien, rayon large, une belle cave à vin... Le problème c'est les caisses, et les caissières... Surtout pour les personnes handicapées il y en a deux, qui sont toujours prise par des personnes non handicapé, et la plupart des caissières s'en fichent... Il faudrait peut-être des caisses handicapées que pour les handicapés ! !",
+        "langue": "fr",
+        "date": "2026-04-29",
+        "auteur": "lyhn Gren",
+        "auteur_lien": "https://www.google.com/maps/contrib/108066703165799420642/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xCcWNHeExMVlZXTjFKaE1WUk5kMlZoY0dWQlJVRRAB!2m1!1s0x47f11cfc673dc329:0xde6c04d1a54f66f"
+      },
+      {
+        "note": 4,
+        "texte": "Beau magasin, silencieux et bien achalandé. Parlons de l'enseigne,Les portes de l'Allier, le R du mot porte ne se voit pas. C'est juste une virgule, et tous les gens qui le lisent pour la première fois, disent les potes de l'Allier. Suis je la seule que cela choque ?",
+        "langue": "fr",
+        "date": "2026-02-04",
+        "auteur": "Isabelle Duguet",
+        "auteur_lien": "https://www.google.com/maps/contrib/113045141012389500611/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT21rNWRUTnlTVlp1WlRORllWTndORVV5ZWtFMFdGRRAB!2m1!1s0x47f11cfc673dc329:0xde6c04d1a54f66f"
+      },
+      {
+        "note": 4,
+        "texte": "On aime ou on aime pas , ils ont la . il y a un très grand parking,  beaucoup de choses et de magasins ,  sa créé des emplois,  le négatif ça tu le centre ville de  Moulins et les petites villages qui sont alentours,  que voulez-vous dire c'est comme ça",
+        "langue": "fr",
+        "date": "2025-05-12",
+        "auteur": "Gérard Menvussat",
+        "auteur_lien": "https://www.google.com/maps/contrib/105265797767409282058/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VKREcySlhRaHFXRnpRRRAB!2m1!1s0x47f11cfc673dc329:0xde6c04d1a54f66f"
+      }
+    ]
+  },
+  "services": {
+    "releve": "2026-11-01",
+    "options": {
+      "restroom": true
+    },
+    "paiement": [
+      "carte bancaire",
+      "carte de débit",
+      "paiement sans contact"
+    ],
+    "parking": [
+      "parking gratuit"
+    ]
   }
 }

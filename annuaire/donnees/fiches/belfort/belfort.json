@@ -27,7 +27,7 @@
     "longitude": 6.8436591
   },
   "note": 4.6,
-  "avis": 43,
+  "avis": 44,
   "horaires": null,
   "attributs": [
     "Entrée accessible en fauteuil roulant",
@@ -41,8 +41,8 @@
     "etat": "absent",
     "premiere_detection": null,
     "derniere_detection": null,
-    "derniere_verification": "2026-10-18T10:46:48.744Z",
-    "echecs": 70,
+    "derniere_verification": "2026-11-01T11:48:12.789Z",
+    "echecs": 71,
     "url_detectee": null
   },
   "suggestion": {
@@ -60,21 +60,30 @@
   "dates": {
     "collecte": "2026-09-05",
     "publication": "2026-09-05",
-    "maj": "2026-10-20"
+    "maj": "2026-11-01"
   },
   "source": "google-places",
   "redaction": {
     "version": 2,
     "titre": "Belfort — Médecin ou dentiste à Belfort",
     "meta_titre": "Belfort à Belfort : avis",
-    "meta_description": "Belfort, médecin ou dentiste à Belfort : note Google 4,6/5 (43 avis), adresse et itinéraire.",
-    "chapo": "Cette fiche présente Belfort, un médecin ou dentiste au 18 Rue Georges Monin, à Belfort. Note Google : 4,6 sur 5 pour 43 avis.",
+    "meta_description": "Belfort, médecin ou dentiste à Belfort : note Google 4,6/5 (44 avis), adresse et itinéraire.",
+    "chapo": "Cette fiche présente Belfort, un médecin ou dentiste au 18 Rue Georges Monin, à Belfort. Note Google : 4,6 sur 5 pour 44 avis.",
     "sections": [
       {
         "id": "presentation",
         "titre": "Belfort en quelques mots",
         "paragraphes": [
           "Sur Google, l'établissement est classé « Clinique », dans notre rubrique Médecin ou dentiste."
+        ]
+      },
+      {
+        "id": "prestations",
+        "titre": "Services et équipements de Belfort",
+        "paragraphes": [
+          "Proposé : toilettes.",
+          "Moyens de paiement déclarés : carte bancaire, carte de débit et paiement sans contact.",
+          "Ces indications sont déclarées par l'établissement sur sa fiche Google (relevé du 1 novembre 2026)."
         ]
       },
       {
@@ -96,7 +105,7 @@
         "id": "avis",
         "titre": "La réputation de Belfort",
         "paragraphes": [
-          "Note de 4,6 sur 5 pour 43 avis Google au relevé du 18 octobre 2026. Les avis se consultent sur la fiche Google, dont le lien figure sur cette page."
+          "Note de 4,6 sur 5 pour 44 avis Google au relevé du 1 novembre 2026. Les avis les plus parlants sont compilés ci-dessous, avec un lien vers la fiche d'origine."
         ]
       }
     ],
@@ -110,7 +119,7 @@
         "r": "La fiche Google de l'établissement mentionne : « Entrée accessible en fauteuil roulant ». Cette information est déclarative ; en cas de doute, vérifiez par téléphone."
       }
     ],
-    "genere_le": "2026-10-18"
+    "genere_le": "2026-11-01"
   },
   "statut_google": "OPERATIONAL",
   "audience": {
@@ -121,7 +130,7 @@
     "clicsRecents": 0,
     "fenetreRecenteJours": 28,
     "source": "search-console",
-    "date": "2026-10-31"
+    "date": "2026-11-01"
   },
   "indexation": {
     "etat": "non-indexee",
@@ -131,5 +140,67 @@
     "canonique_google": null,
     "source": "inspection",
     "date": "2026-10-20"
+  },
+  "avis_detail": {
+    "releve": "2026-11-01",
+    "liste": [
+      {
+        "note": 4,
+        "texte": "Fortes chaleurs,la Savoureuse est bien triste avec ses canards qui cherchent l eau\nJolie ville sympathique\nGastronomie remarquable",
+        "langue": "fr",
+        "date": "2025-08-09",
+        "auteur": "Denis Mattei",
+        "auteur_lien": "https://www.google.com/maps/contrib/116213603051479043762/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT201blMwdzRkMGg1Ymxaa1RUTnlWaTEyYTFvelNYYxAB!2m1!1s0x47923b07b18114ed:0x6b16644c9d458872"
+      },
+      {
+        "note": 5,
+        "texte": "Cette jolie ville provinciale mérite toute votre attention.\nDe nombreuses surprises vous guettent aux croisées des chemins.\nLe dimanche matin un exceptionnel marche « aux puces «  vous fera écarquiller les yeux. Une multitude de belles affaires à saisir.\nUne ville où il est aisé de se garer et de terminer sa balade à pieds.\nÀ visiter.",
+        "langue": "fr",
+        "date": "2025-06-01",
+        "auteur": "Denis Carnelos",
+        "auteur_lien": "https://www.google.com/maps/contrib/110728322727035605141/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT201TFdVeGpaWEpKUVU1MmRXNDNZVVpzVTJ4TlRrRRAB!2m1!1s0x47923b07b18114ed:0x6b16644c9d458872"
+      },
+      {
+        "note": 5,
+        "texte": "Centre ville agréable et son lion beau et Fort ni",
+        "langue": "fr",
+        "date": "2025-05-31",
+        "auteur": "Cjip “Juan pedro dès la vega” JPC",
+        "auteur_lien": "https://www.google.com/maps/contrib/104227837462797860223/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJemdndlNhMXAzQ3BRRRAB!2m1!1s0x47923b07b18114ed:0x6b16644c9d458872"
+      },
+      {
+        "note": 5,
+        "texte": "Il n'y a pas que le Lion. Perdez-vous dans cette ville qui réserve bien des surprises...",
+        "langue": "fr",
+        "date": "2025-03-22",
+        "auteur": "Christophe Barbault",
+        "auteur_lien": "https://www.google.com/maps/contrib/110132962507972909123/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnTUR3Z0t6dGt3RRAB!2m1!1s0x47923b07b18114ed:0x6b16644c9d458872"
+      },
+      {
+        "note": 1,
+        "texte": "En  descendant   du train  mauvaise   surprise  Interdiction   des   chiens  🐕\nDans  le bus   panier   ou dans  les  bras. Sauf  chiens  d aveugles .",
+        "langue": "fr",
+        "date": "2024-07-20",
+        "auteur": "bernardetcatherine Marie",
+        "auteur_lien": "https://www.google.com/maps/contrib/105835954389804269549/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSURydTZLcDFBRRAB!2m1!1s0x47923b07b18114ed:0x6b16644c9d458872"
+      }
+    ]
+  },
+  "services": {
+    "releve": "2026-11-01",
+    "options": {
+      "restroom": true
+    },
+    "paiement": [
+      "carte bancaire",
+      "carte de débit",
+      "paiement sans contact"
+    ],
+    "parking": []
   }
 }

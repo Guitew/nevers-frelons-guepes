@@ -27,7 +27,7 @@
     "longitude": 4.7636012
   },
   "note": 4.6,
-  "avis": 118,
+  "avis": 120,
   "horaires": null,
   "attributs": [
     "Entrée accessible en fauteuil roulant",
@@ -40,8 +40,8 @@
     "etat": "absent",
     "premiere_detection": null,
     "derniere_detection": null,
-    "derniere_verification": "2026-10-18T10:46:48.744Z",
-    "echecs": 76,
+    "derniere_verification": "2026-11-01T11:48:12.789Z",
+    "echecs": 77,
     "url_detectee": null
   },
   "suggestion": {
@@ -61,15 +61,15 @@
   "dates": {
     "collecte": "2026-09-01",
     "publication": "2026-09-01",
-    "maj": "2026-10-18"
+    "maj": "2026-11-01"
   },
   "source": "google-places",
   "redaction": {
     "version": 2,
     "titre": "Bridgestone Firestone France — Transport et déménagement à Le Pouzin",
     "meta_titre": "Bridgestone Firestone France à Le Pouzin : avis, téléphone",
-    "meta_description": "Bridgestone Firestone France, transport et déménagement à Le Pouzin : note Google 4,6/5 (118 avis), téléphone, adresse et itinéraire.",
-    "chapo": "Bridgestone Firestone France, transport et déménagement au Île Chambenier Sud, à Le Pouzin. Téléphone : 04 75 85 02 76. Note Google : 4,6 sur 5 pour 118 avis.",
+    "meta_description": "Bridgestone Firestone France, transport et déménagement à Le Pouzin : note Google 4,6/5 (120 avis), téléphone, adresse et itinéraire.",
+    "chapo": "Bridgestone Firestone France, transport et déménagement au Île Chambenier Sud, à Le Pouzin. Téléphone : 04 75 85 02 76. Note Google : 4,6 sur 5 pour 120 avis.",
     "sections": [
       {
         "id": "presentation",
@@ -97,7 +97,7 @@
         "id": "avis",
         "titre": "La réputation de Bridgestone Firestone France",
         "paragraphes": [
-          "Note de 4,6 sur 5 pour 118 avis Google au relevé du 18 octobre 2026. Les avis se consultent sur la fiche Google, dont le lien figure sur cette page."
+          "Note de 4,6 sur 5 pour 120 avis Google au relevé du 1 novembre 2026. Les avis les plus parlants sont compilés ci-dessous, avec un lien vers la fiche d'origine."
         ]
       }
     ],
@@ -115,7 +115,7 @@
         "r": "La fiche Google de l'établissement mentionne : « Entrée accessible en fauteuil roulant ». Cette information est déclarative ; en cas de doute, vérifiez par téléphone."
       }
     ],
-    "genere_le": "2026-10-18"
+    "genere_le": "2026-11-01"
   },
   "statut_google": "OPERATIONAL",
   "audience": {
@@ -126,7 +126,7 @@
     "clicsRecents": 0,
     "fenetreRecenteJours": 28,
     "source": "search-console",
-    "date": "2026-10-31"
+    "date": "2026-11-01"
   },
   "indexation": {
     "etat": "non-indexee",
@@ -136,5 +136,55 @@
     "canonique_google": null,
     "source": "inspection",
     "date": "2026-10-18"
+  },
+  "avis_detail": {
+    "releve": "2026-11-01",
+    "liste": [
+      {
+        "note": 5,
+        "texte": "Rapide et sympa Christophe TPS atl",
+        "langue": "fr",
+        "date": "2026-10-22",
+        "auteur": "Christophe Gerard",
+        "auteur_lien": "https://www.google.com/maps/contrib/110172786018391132507/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2pCa1FrMXljV1o1TUUxaVduaHdjalZ4Ym5SMGJWRRAB!2m1!1s0x12b547dcb3b5271b:0x6e81713fd5e7935"
+      },
+      {
+        "note": 5,
+        "texte": "Une belle équipe ! Un responsable et un adjoint au top et des collaborateurs qui se démènent au services des autres !",
+        "langue": "fr",
+        "date": "2025-12-04",
+        "auteur": "Guillaume Lamdaoui",
+        "auteur_lien": "https://www.google.com/maps/contrib/108037300442607747757/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT214eVIzVjRUVEZtUWs1Sk5YcE1RV3RSUVhsclRXYxAB!2m1!1s0x12b547dcb3b5271b:0x6e81713fd5e7935"
+      },
+      {
+        "note": 5,
+        "texte": "Bon accueil, le chargement a été un peu long (2h) mais c’était en vrac c’est normal",
+        "langue": "fr",
+        "date": "2024-10-10",
+        "auteur": "Bilal Ndz",
+        "auteur_lien": "https://www.google.com/maps/contrib/102446509033784900343/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSURuaDZIWEtREAE!2m1!1s0x12b547dcb3b5271b:0x6e81713fd5e7935"
+      },
+      {
+        "note": 5,
+        "texte": "Chargement rapide (-1h pour un complet)\nSalle café et attente à l’étage\nLe personnel est sympa !",
+        "langue": "fr",
+        "date": "2024-03-29",
+        "auteur": "FreeKoZ",
+        "auteur_lien": "https://www.google.com/maps/contrib/102789218035576267220/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUNEa2RMeVV3EAE!2m1!1s0x12b547dcb3b5271b:0x6e81713fd5e7935"
+      },
+      {
+        "note": 5,
+        "texte": "Bonjour j'ai été à ce dépôt le 5 septembre j'ai été pour charger sept palettes de pneus très très facile à trouver l'accueil est très sympathique professionnel détendu très très bien la mise à pied il y a l'espace pour les manœuvres et alors le chargement en palette accrochez-vous ça va très très vite après si vous faites ça au détail il faut le temps mais les caristes sont pas des fainéants bravo chapeau franchement ça donne envie je retourne charger des palettes quand vous voulez merci à tous",
+        "langue": "fr",
+        "date": "2022-09-05",
+        "auteur": "Olivier Branciat",
+        "auteur_lien": "https://www.google.com/maps/contrib/101624139199742976292/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUNlMkpHUlN3EAE!2m1!1s0x12b547dcb3b5271b:0x6e81713fd5e7935"
+      }
+    ]
   }
 }

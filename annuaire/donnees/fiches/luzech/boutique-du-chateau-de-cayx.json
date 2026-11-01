@@ -123,8 +123,8 @@
     "etat": "externe",
     "premiere_detection": null,
     "derniere_detection": null,
-    "derniere_verification": "2026-10-18T10:46:48.744Z",
-    "echecs": 71,
+    "derniere_verification": "2026-11-01T11:48:12.789Z",
+    "echecs": 72,
     "url_detectee": "https://www.chateau-de-cayx.com/boutique/"
   },
   "suggestion": {
@@ -142,7 +142,7 @@
   "dates": {
     "collecte": "2026-09-04",
     "publication": "2026-09-04",
-    "maj": "2026-10-19"
+    "maj": "2026-11-01"
   },
   "source": "google-places",
   "redaction": {
@@ -150,14 +150,24 @@
     "titre": "BOUTIQUE DU CHATEAU DE CAYX — Commerce d'alimentation à Luzech",
     "meta_titre": "BOUTIQUE DU CHATEAU DE CAYX à Luzech : horaires, avis",
     "meta_description": "BOUTIQUE DU CHATEAU DE CAYX, commerce d'alimentation à Luzech : horaires d'ouverture, note Google 4,2/5 (64 avis), téléphone, adresse et itinéraire.",
-    "chapo": "Cette fiche présente BOUTIQUE DU CHATEAU DE CAYX, un commerce d'alimentation au Château de Caix, à Luzech. Fermé le lundi et le dimanche au relevé du 18 octobre 2026. Téléphone : 06 75 88 39 49. Note Google : 4,2 sur 5 pour 64 avis.",
+    "chapo": "Cette fiche présente BOUTIQUE DU CHATEAU DE CAYX, un commerce d'alimentation au Château de Caix, à Luzech. Fermé le lundi et le dimanche au relevé du 1 novembre 2026. Téléphone : 06 75 88 39 49. Note Google : 4,2 sur 5 pour 64 avis.",
     "sections": [
       {
         "id": "presentation",
         "titre": "BOUTIQUE DU CHATEAU DE CAYX en quelques mots",
         "paragraphes": [
           "Sur Google, l'établissement est classé « Vignoble », dans notre rubrique Commerce d'alimentation.",
-          "D'après le relevé du 18 octobre 2026, l'établissement est fermé le lundi et le dimanche. Le détail jour par jour figure plus bas."
+          "D'après le relevé du 1 novembre 2026, l'établissement est fermé le lundi et le dimanche. Le détail jour par jour figure plus bas."
+        ]
+      },
+      {
+        "id": "prestations",
+        "titre": "Services et équipements de BOUTIQUE DU CHATEAU DE CAYX",
+        "paragraphes": [
+          "Proposé : chiens acceptés.",
+          "Moyens de paiement déclarés : carte bancaire.",
+          "Stationnement : parking gratuit.",
+          "Ces indications sont déclarées par l'établissement sur sa fiche Google (relevé du 1 novembre 2026)."
         ]
       },
       {
@@ -179,18 +189,18 @@
         "id": "avis",
         "titre": "La réputation de BOUTIQUE DU CHATEAU DE CAYX",
         "paragraphes": [
-          "Note de 4,2 sur 5 pour 64 avis Google au relevé du 18 octobre 2026. Les avis se consultent sur la fiche Google, dont le lien figure sur cette page."
+          "Note de 4,2 sur 5 pour 64 avis Google au relevé du 1 novembre 2026. Les avis les plus parlants sont compilés ci-dessous, avec un lien vers la fiche d'origine."
         ]
       }
     ],
     "faq": [
       {
         "q": "Quels sont les horaires de BOUTIQUE DU CHATEAU DE CAYX ?",
-        "r": "Au relevé du 18 octobre 2026, BOUTIQUE DU CHATEAU DE CAYX était fermé le lundi et le dimanche. Dans le détail — lundi : fermé ; mardi : de 10 h à 12 h 30 et de 14 h à 18 h ; mercredi : de 10 h à 12 h 30 et de 14 h à 18 h ; jeudi : de 10 h à 12 h 30 et de 14 h à 18 h ; vendredi : de 10 h à 12 h 30 et de 14 h à 18 h ; samedi : de 10 h à 12 h 30 et de 14 h à 18 h ; dimanche : fermé. Ces horaires peuvent changer : un appel préalable reste conseillé."
+        "r": "Au relevé du 1 novembre 2026, BOUTIQUE DU CHATEAU DE CAYX était fermé le lundi et le dimanche. Dans le détail — lundi : fermé ; mardi : de 10 h à 12 h 30 et de 14 h à 18 h ; mercredi : de 10 h à 12 h 30 et de 14 h à 18 h ; jeudi : de 10 h à 12 h 30 et de 14 h à 18 h ; vendredi : de 10 h à 12 h 30 et de 14 h à 18 h ; samedi : de 10 h à 12 h 30 et de 14 h à 18 h ; dimanche : fermé. Ces horaires peuvent changer : un appel préalable reste conseillé."
       },
       {
         "q": "BOUTIQUE DU CHATEAU DE CAYX est-il ouvert le dimanche ?",
-        "r": "Non : d'après les horaires relevés le 18 octobre 2026, BOUTIQUE DU CHATEAU DE CAYX est fermé le dimanche."
+        "r": "Non : d'après les horaires relevés le 1 novembre 2026, BOUTIQUE DU CHATEAU DE CAYX est fermé le dimanche."
       },
       {
         "q": "Où se trouve BOUTIQUE DU CHATEAU DE CAYX ?",
@@ -205,7 +215,7 @@
         "r": "La fiche Google de l'établissement mentionne : « Entrée accessible en fauteuil roulant ». Cette information est déclarative ; en cas de doute, vérifiez par téléphone."
       }
     ],
-    "genere_le": "2026-10-18"
+    "genere_le": "2026-11-01"
   },
   "statut_google": "OPERATIONAL",
   "audience": {
@@ -216,7 +226,7 @@
     "clicsRecents": 0,
     "fenetreRecenteJours": 28,
     "source": "search-console",
-    "date": "2026-10-31"
+    "date": "2026-11-01"
   },
   "indexation": {
     "etat": "non-indexee",
@@ -226,5 +236,67 @@
     "canonique_google": null,
     "source": "inspection",
     "date": "2026-10-19"
+  },
+  "avis_detail": {
+    "releve": "2026-11-01",
+    "liste": [
+      {
+        "note": 4,
+        "texte": "Boutique de vins peu à mon goût",
+        "langue": "fr",
+        "date": "2026-06-27",
+        "auteur": "Annette Messager",
+        "auteur_lien": "https://www.google.com/maps/contrib/112764078006244336934/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xsUldIZDZiR1JOVEVGM1JWSm1RVWhmUlRSS1duYxAB!2m1!1s0x12ac846b89a45ef5:0xc56bbb238e3c8b68"
+      },
+      {
+        "note": 2,
+        "texte": "Très beaux vins.interessant\nDommage que l'accueil soit hautain et peu enclin à la dégustation et à la vente..\nDommage",
+        "langue": "fr",
+        "date": "2025-06-07",
+        "auteur": "Leobon Gilles",
+        "auteur_lien": "https://www.google.com/maps/contrib/108313953016552801447/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VMV28xNDZDNWJuRVVREAE!2m1!1s0x12ac846b89a45ef5:0xc56bbb238e3c8b68"
+      },
+      {
+        "note": 1,
+        "texte": "Accueil Glacial semble-t-il, normal,..tout le monde est au Groenland pour faire des steaks de baleine. Revenez manger du magret et libérez Paul Watson !#freepaulwatson",
+        "langue": "fr",
+        "date": "2024-08-15",
+        "auteur": "Hélène BERGER",
+        "auteur_lien": "https://www.google.com/maps/contrib/105342663858707912223/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUM3enVpRDFnRRAB!2m1!1s0x12ac846b89a45ef5:0xc56bbb238e3c8b68"
+      },
+      {
+        "note": 5,
+        "texte": "CAÏX a changé depuis les nouveaux propriétaires, la qualité est autre et le produit est aujourd'hui un grand vin de CAHORS. La dégustation fera le reste. Très beau domaine aussi, orné par les sculptures de la propriétaire, et une vus magnifique sur le LOT lorsqu'on est au dessus du chai.\nVaut la visite et la dégustation.",
+        "langue": "fr",
+        "date": "2019-09-14",
+        "auteur": "jean-yves",
+        "auteur_lien": "https://www.google.com/maps/contrib/118055858827926451041/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUMwdUlqOGJ3EAE!2m1!1s0x12ac846b89a45ef5:0xc56bbb238e3c8b68"
+      },
+      {
+        "note": 2,
+        "texte": "Domaine en reconversion en biodynamique en prix moyen voir élevé pour certaines bouteilles.",
+        "langue": "fr",
+        "date": "2018-05-16",
+        "auteur": "Pierre Bazin",
+        "auteur_lien": "https://www.google.com/maps/contrib/105314198958919333785/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSURnbzh2ZFNnEAE!2m1!1s0x12ac846b89a45ef5:0xc56bbb238e3c8b68"
+      }
+    ]
+  },
+  "services": {
+    "releve": "2026-11-01",
+    "options": {
+      "allowsDogs": true
+    },
+    "paiement": [
+      "carte bancaire"
+    ],
+    "parking": [
+      "parking gratuit"
+    ]
   }
 }

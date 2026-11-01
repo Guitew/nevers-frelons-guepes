@@ -29,7 +29,7 @@
     "longitude": 0.0945294
   },
   "note": 4.3,
-  "avis": 561,
+  "avis": 562,
   "horaires": [
     {
       "jour": 0,
@@ -113,8 +113,8 @@
     "etat": "absent",
     "premiere_detection": null,
     "derniere_detection": null,
-    "derniere_verification": "2026-10-18T09:54:50.642Z",
-    "echecs": 1,
+    "derniere_verification": "2026-11-01T11:48:12.789Z",
+    "echecs": 2,
     "url_detectee": null
   },
   "suggestion": {
@@ -127,22 +127,34 @@
   "dates": {
     "collecte": "2026-10-18",
     "publication": "2026-10-18",
-    "maj": "2026-10-19"
+    "maj": "2026-11-01"
   },
   "source": "google-places",
   "redaction": {
     "version": 2,
     "titre": "SARL LES 2 A-MIE — Boulangerie-pâtisserie à Séméac",
     "meta_titre": "SARL LES 2 A-MIE à Séméac : horaires, avis, téléphone",
-    "meta_description": "SARL LES 2 A-MIE, boulangerie-pâtisserie à Séméac : horaires d'ouverture, note Google 4,3/5 (561 avis), téléphone, adresse et itinéraire.",
-    "chapo": "SARL LES 2 A-MIE est une boulangerie-pâtisserie au 27 Avenue François Mitterrand, à Séméac. Ouvert sept jours sur sept au relevé du 18 octobre 2026. Téléphone : 05 62 36 61 86. Note Google : 4,3 sur 5 pour 561 avis.",
+    "meta_description": "SARL LES 2 A-MIE, boulangerie-pâtisserie à Séméac : horaires d'ouverture, note Google 4,3/5 (562 avis), téléphone, adresse et itinéraire.",
+    "chapo": "SARL LES 2 A-MIE est une boulangerie-pâtisserie au 27 Avenue François Mitterrand, à Séméac. Ouvert sept jours sur sept au relevé du 1 novembre 2026. Téléphone : 05 62 36 61 86. Note Google : 4,3 sur 5 pour 562 avis.",
     "sections": [
       {
         "id": "presentation",
         "titre": "SARL LES 2 A-MIE en quelques mots",
         "paragraphes": [
           "Sur Google, l'établissement est classé « Boulangerie », dans notre rubrique Boulangerie-pâtisserie.",
-          "D'après le relevé du 18 octobre 2026, l'établissement est ouvert sept jours sur sept. Le détail jour par jour figure plus bas."
+          "Niveau de prix indiqué sur la fiche Google : € (bon marché).",
+          "D'après le relevé du 1 novembre 2026, l'établissement est ouvert sept jours sur sept. Le détail jour par jour figure plus bas."
+        ]
+      },
+      {
+        "id": "prestations",
+        "titre": "Services et équipements de SARL LES 2 A-MIE",
+        "paragraphes": [
+          "Proposé : à emporter, petit-déjeuner et café.",
+          "Non proposé selon la fiche Google : toilettes.",
+          "Moyens de paiement déclarés : carte bancaire, carte de débit et paiement sans contact.",
+          "Stationnement : parking gratuit.",
+          "Ces indications sont déclarées par l'établissement sur sa fiche Google (relevé du 1 novembre 2026)."
         ]
       },
       {
@@ -164,18 +176,18 @@
         "id": "avis",
         "titre": "La réputation de SARL LES 2 A-MIE",
         "paragraphes": [
-          "Note de 4,3 sur 5 pour 561 avis Google au relevé du 18 octobre 2026. Les avis se consultent sur la fiche Google, dont le lien figure sur cette page."
+          "Note de 4,3 sur 5 pour 562 avis Google au relevé du 1 novembre 2026. Les avis les plus parlants sont compilés ci-dessous, avec un lien vers la fiche d'origine."
         ]
       }
     ],
     "faq": [
       {
         "q": "Quels sont les horaires de SARL LES 2 A-MIE ?",
-        "r": "Au relevé du 18 octobre 2026, SARL LES 2 A-MIE était ouvert sept jours sur sept. Dans le détail — lundi : de 6 h 30 à 21 h ; mardi : de 6 h 30 à 21 h ; mercredi : de 6 h 30 à 21 h ; jeudi : de 6 h 30 à 21 h ; vendredi : de 6 h 30 à 21 h ; samedi : de 6 h 30 à 21 h ; dimanche : de 6 h 30 à 21 h. Ces horaires peuvent changer : un appel préalable reste conseillé."
+        "r": "Au relevé du 1 novembre 2026, SARL LES 2 A-MIE était ouvert sept jours sur sept. Dans le détail — lundi : de 6 h 30 à 21 h ; mardi : de 6 h 30 à 21 h ; mercredi : de 6 h 30 à 21 h ; jeudi : de 6 h 30 à 21 h ; vendredi : de 6 h 30 à 21 h ; samedi : de 6 h 30 à 21 h ; dimanche : de 6 h 30 à 21 h. Ces horaires peuvent changer : un appel préalable reste conseillé."
       },
       {
         "q": "SARL LES 2 A-MIE est-il ouvert le dimanche ?",
-        "r": "Oui : le dimanche, SARL LES 2 A-MIE est ouvert de 6 h 30 à 21 h (horaires relevés le 18 octobre 2026)."
+        "r": "Oui : le dimanche, SARL LES 2 A-MIE est ouvert de 6 h 30 à 21 h (horaires relevés le 1 novembre 2026)."
       },
       {
         "q": "Où se trouve SARL LES 2 A-MIE ?",
@@ -186,21 +198,97 @@
         "r": "Par téléphone au 05 62 36 61 86, ou directement sur place aux heures d'ouverture."
       },
       {
+        "q": "SARL LES 2 A-MIE propose-t-il la vente à emporter ou la livraison ?",
+        "r": "D'après sa fiche Google (relevé du 1 novembre 2026) — vente à emporter : oui."
+      },
+      {
+        "q": "Quel est le niveau de prix de SARL LES 2 A-MIE ?",
+        "r": "Google classe SARL LES 2 A-MIE au niveau de prix € (bon marché), sur une échelle de € à €€€€ établie à partir des avis clients."
+      },
+      {
         "q": "SARL LES 2 A-MIE est-il accessible aux personnes à mobilité réduite ?",
         "r": "La fiche Google de l'établissement mentionne : « Entrée accessible en fauteuil roulant ». Cette information est déclarative ; en cas de doute, vérifiez par téléphone."
       }
     ],
-    "genere_le": "2026-10-18"
+    "genere_le": "2026-11-01"
   },
   "statut_google": "OPERATIONAL",
   "audience": {
     "clics": 0,
-    "impressions": 113,
-    "position": 8.5,
+    "impressions": 120,
+    "position": 8.6,
     "fenetreJours": 90,
     "clicsRecents": 0,
     "fenetreRecenteJours": 28,
     "source": "search-console",
-    "date": "2026-10-31"
+    "date": "2026-11-01"
+  },
+  "avis_detail": {
+    "releve": "2026-11-01",
+    "liste": [
+      {
+        "note": 5,
+        "texte": "Si vous vous demandez où acheter votre électroménager, vous pouvez aller à la boulangerie des 2 A MIE à Séméac !!\n\nJ’ai voulu investir dans une baguette et des croissants, j’en suis ressorti avec une télévision ! Une sacré surprise !\n\nMais le plus dure n’est pas de gagner au final… c’est d’expliquer à la maison que je suis allé juste chercher une baguette ! 🤣\n\nUn grand merci à la boulangerie les 2 A MIES et Sam pour cette télévision gagnée grâce aux jeux de grattage FIFA ! ⚽️",
+        "langue": "fr",
+        "date": "2026-07-07",
+        "auteur": "Cesar arnaud",
+        "auteur_lien": "https://www.google.com/maps/contrib/102499989159339994022/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT201a2FrSTNWM050T0hFNWRFMXlSWEJVZVRKYVgwRRAB!2m1!1s0x12a9d3bfcf23ffff:0x96659fcf47106861"
+      },
+      {
+        "note": 5,
+        "texte": "Les pâtisseries sont bonnes et la qualité est au rendez-vous. Une bonne adresse si vous passez dans le coin.",
+        "langue": "fr",
+        "date": "2026-06-27",
+        "auteur": "Luc DL",
+        "auteur_lien": "https://www.google.com/maps/contrib/104181680377362757742/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2paTFZHTkNTR3d6VXpSdWRucFpRV1pIVW05VVpsRRAB!2m1!1s0x12a9d3bfcf23ffff:0x96659fcf47106861"
+      },
+      {
+        "note": 5,
+        "texte": "Comme chaque fois que je m'y arrête, sympa et bonne humeur quelque soit l'heure. Merci",
+        "langue": "fr",
+        "date": "2026-06-23",
+        "auteur": "Annie Segons Ducere",
+        "auteur_lien": "https://www.google.com/maps/contrib/106710684312391920576/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT20xNlJsOVdhM1ZzYkdvNWJtWmhWbDl6ZW01cFlsRRAB!2m1!1s0x12a9d3bfcf23ffff:0x96659fcf47106861"
+      },
+      {
+        "note": 5,
+        "texte": "Depuis 3 ans je prend mon pain de temps en temps des gâteaux sandwichs etc...\nToujours le bonjour un accueil sympathique\nContinuez ainsi",
+        "langue": "fr",
+        "date": "2026-01-29",
+        "auteur": "Sebastien Dalmasso",
+        "auteur_lien": "https://www.google.com/maps/contrib/111700294594768889730/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2pOVlJXTmxkbGM0VTBOeWFtbzFZM00yVlRJME5tYxAB!2m1!1s0x12a9d3bfcf23ffff:0x96659fcf47106861"
+      },
+      {
+        "note": 5,
+        "texte": "Au top 👌🏼👌🏼le personnel est toujours souriant agréable et sympathique si le boulanger passe par là il vous conseille souvent le meilleur pain 🍞🍞ou baguette 🥖 🥖du moment.\nLes pâtisseries 🥮🥮🍰🍰🥧🥧🧁🧁sont exquises et de bon goût 😋😋.\nJe recommande à 100%.\nJe remercie 👍🏼👍🏼particulièrement Élisabeth pour l’attention particulière qu’elle a eue pour moi.",
+        "langue": "fr",
+        "date": "2022-02-01",
+        "auteur": "Nana 2512",
+        "auteur_lien": "https://www.google.com/maps/contrib/115166199103128215557/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSURtcWRxYUJ3EAE!2m1!1s0x12a9d3bfcf23ffff:0x96659fcf47106861"
+      }
+    ]
+  },
+  "services": {
+    "releve": "2026-11-01",
+    "prix": "PRICE_LEVEL_INEXPENSIVE",
+    "options": {
+      "takeout": true,
+      "servesBreakfast": true,
+      "servesCoffee": true,
+      "restroom": false
+    },
+    "paiement": [
+      "carte bancaire",
+      "carte de débit",
+      "paiement sans contact"
+    ],
+    "parking": [
+      "parking gratuit"
+    ]
   }
 }
