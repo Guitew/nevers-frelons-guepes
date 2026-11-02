@@ -1,0 +1,285 @@
+{
+  "id": "ChIJ4e6thIbVEEgRQuoNogxEYn8",
+  "slug": "supermarche-utile-moulin-vert",
+  "nom": "Supermarché Utile Moulin Vert",
+  "categorie": "commerces-alimentation",
+  "categorie_gmb": "Supermarché",
+  "type_principal": "supermarket",
+  "types": [
+    "supermarket",
+    "grocery_store",
+    "food_store",
+    "food",
+    "store",
+    "point_of_interest",
+    "establishment"
+  ],
+  "ville": "Quimper",
+  "ville_slug": "quimper",
+  "adresse": {
+    "rue": "2 Place Geneviève de Gaulle-Anthonioz",
+    "code_postal": "29000",
+    "departement": "29",
+    "region": "Bretagne",
+    "pays": "France",
+    "complete": "2 Pl. Geneviève de Gaulle-Anthonioz, 29000 Quimper"
+  },
+  "telephone": "02 98 53 11 63",
+  "geo": {
+    "latitude": 48.001756199999996,
+    "longitude": -4.1142262
+  },
+  "note": 4.1,
+  "avis": 237,
+  "horaires": [
+    {
+      "jour": 0,
+      "ferme": false,
+      "creneaux": [
+        [
+          "07:00",
+          "20:00"
+        ]
+      ]
+    },
+    {
+      "jour": 1,
+      "ferme": false,
+      "creneaux": [
+        [
+          "07:00",
+          "20:00"
+        ]
+      ]
+    },
+    {
+      "jour": 2,
+      "ferme": false,
+      "creneaux": [
+        [
+          "07:00",
+          "20:00"
+        ]
+      ]
+    },
+    {
+      "jour": 3,
+      "ferme": false,
+      "creneaux": [
+        [
+          "07:00",
+          "20:00"
+        ]
+      ]
+    },
+    {
+      "jour": 4,
+      "ferme": false,
+      "creneaux": [
+        [
+          "07:00",
+          "20:00"
+        ]
+      ]
+    },
+    {
+      "jour": 5,
+      "ferme": false,
+      "creneaux": [
+        [
+          "07:00",
+          "20:00"
+        ]
+      ]
+    },
+    {
+      "jour": 6,
+      "ferme": false,
+      "creneaux": [
+        [
+          "08:30",
+          "12:45"
+        ]
+      ]
+    }
+  ],
+  "attributs": [
+    "Entrée accessible en fauteuil roulant",
+    "Parking accessible en fauteuil roulant"
+  ],
+  "lien_google": "https://maps.google.com/?cid=9178973811583609410&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
+  "site_web_gmb": null,
+  "statut": "publiee",
+  "backlink": {
+    "etat": "absent",
+    "premiere_detection": null,
+    "derniere_detection": null,
+    "derniere_verification": "2026-11-02T13:26:12.013Z",
+    "echecs": 1,
+    "url_detectee": null
+  },
+  "suggestion": {
+    "etat": "en-attente",
+    "date_soumission": null,
+    "tentatives": 0
+  },
+  "retrait": null,
+  "dates": {
+    "collecte": "2026-11-02",
+    "publication": "2026-11-02",
+    "maj": "2026-11-02"
+  },
+  "source": "google-places",
+  "avis_detail": {
+    "releve": "2026-11-02",
+    "liste": [
+      {
+        "note": 5,
+        "texte": "Bon rapport qualité/prix  peu d'attente, bon choix de produits divers",
+        "langue": "fr",
+        "date": "2026-09-06",
+        "auteur": "Thierry Pinchon",
+        "auteur_lien": "https://www.google.com/maps/contrib/118138166770936549965/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT21GeFpHTTNkbmwwV1hWQ1ExcEpjRTFSZGtzeGNVRRAB!2m1!1s0x4810d58684adeee1:0x7f62440ca20dea42"
+      },
+      {
+        "note": 3,
+        "texte": "je vais  ds ce magasin depuis  13 ans depuis quelques temps  le service de dégradé un des employé  est antipathique  au possible  limite méprisant et les tapis de caisses ne sont pas toujours  très propres",
+        "langue": "fr",
+        "date": "2026-08-30",
+        "auteur": "francis “soyer”",
+        "auteur_lien": "https://www.google.com/maps/contrib/115293716493571989474/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2pseWRVOTJYMUZpV2xKVGRrNWtXRVJYTmtGRlptYxAB!2m1!1s0x4810d58684adeee1:0x7f62440ca20dea42"
+      },
+      {
+        "note": 5,
+        "texte": "Le caissier brun metisse a ete très sympa il a amener mes courses dans ma voiture ! Il est tres gentil c’est un super employe",
+        "langue": "fr",
+        "date": "2026-03-17",
+        "auteur": "Lucas Tilly",
+        "auteur_lien": "https://www.google.com/maps/contrib/105743460603064945029/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2pOZlYycG9kM2xCV0RoTlluSTRYMFJ4VHpNMFRrRRAB!2m1!1s0x4810d58684adeee1:0x7f62440ca20dea42"
+      },
+      {
+        "note": 5,
+        "texte": "Personnel très sympathique et serviable, magasin bien tenu. Les produits sont un peu plus cher qu en supermarché mais c est tout à fait compréhensible.",
+        "langue": "fr",
+        "date": "2026-02-01",
+        "auteur": "Sebastien",
+        "auteur_lien": "https://www.google.com/maps/contrib/102576956592279917545/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2sxUmNpMUlRMnhRZHpGeWQzZFpWMTkxY21SSWFHYxAB!2m1!1s0x4810d58684adeee1:0x7f62440ca20dea42"
+      },
+      {
+        "note": 5,
+        "texte": "J'apprécie beaucoup ce commerce de proximité.  Il y a un peu de tout, des produits frais et c'est très propre . Les employés sont généralement très aimables et les horaires d'ouverture bien pratiques.\nPar ailleurs, le  parking est toujours accessible.\nJe regrette néanmoins la variété du rayon boucherie pour lequel j'étais cliente avant que superUtile ne s'installe et que de ce fait le choix soit plus restreint.",
+        "langue": "fr",
+        "date": "2024-11-23",
+        "auteur": "Marie D",
+        "auteur_lien": "https://www.google.com/maps/contrib/113857893788870462633/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUNQbXAzLWpRRRAB!2m1!1s0x4810d58684adeee1:0x7f62440ca20dea42"
+      }
+    ]
+  },
+  "services": {
+    "releve": "2026-11-02",
+    "options": {
+      "delivery": false,
+      "restroom": false
+    },
+    "paiement": [
+      "carte bancaire",
+      "carte de débit",
+      "paiement sans contact"
+    ],
+    "parking": [
+      "parking gratuit"
+    ]
+  },
+  "redaction": {
+    "version": 2,
+    "titre": "Supermarché Utile Moulin Vert — Commerce d'alimentation à Quimper",
+    "meta_titre": "Supermarché Utile Moulin Vert à Quimper : horaires, avis",
+    "meta_description": "Supermarché Utile Moulin Vert, commerce d'alimentation à Quimper : horaires d'ouverture, note Google 4,1/5 (237 avis), téléphone, adresse et itinéraire.",
+    "chapo": "Supermarché Utile Moulin Vert est un commerce d'alimentation au 2 Place Geneviève de Gaulle-Anthonioz, à Quimper. Ouvert sept jours sur sept au relevé du 2 novembre 2026. Téléphone : 02 98 53 11 63. Note Google : 4,1 sur 5 pour 237 avis.",
+    "sections": [
+      {
+        "id": "presentation",
+        "titre": "Supermarché Utile Moulin Vert en quelques mots",
+        "paragraphes": [
+          "Sur Google, l'établissement est classé « Supermarché », dans notre rubrique Commerce d'alimentation.",
+          "D'après le relevé du 2 novembre 2026, l'établissement est ouvert sept jours sur sept. Le détail jour par jour figure plus bas."
+        ]
+      },
+      {
+        "id": "prestations",
+        "titre": "Services et équipements de Supermarché Utile Moulin Vert",
+        "paragraphes": [
+          "Non proposé selon la fiche Google : livraison et toilettes.",
+          "Moyens de paiement déclarés : carte bancaire, carte de débit et paiement sans contact.",
+          "Stationnement : parking gratuit.",
+          "Ces indications sont déclarées par l'établissement sur sa fiche Google (relevé du 2 novembre 2026)."
+        ]
+      },
+      {
+        "id": "acces",
+        "titre": "Adresse et accès",
+        "paragraphes": [
+          "L'établissement est situé au 2 Place Geneviève de Gaulle-Anthonioz, 29000 Quimper.",
+          "Coordonnées GPS : 48.00176, -4.11423. Le bouton Itinéraire de cette page ouvre la navigation."
+        ]
+      },
+      {
+        "id": "contact",
+        "titre": "Contacter Supermarché Utile Moulin Vert",
+        "paragraphes": [
+          "Le contact se fait par téléphone au 02 98 53 11 63, ou directement sur place aux horaires d'ouverture."
+        ]
+      },
+      {
+        "id": "avis",
+        "titre": "La réputation de Supermarché Utile Moulin Vert",
+        "paragraphes": [
+          "Note de 4,1 sur 5 pour 237 avis Google au relevé du 2 novembre 2026. Les avis les plus parlants sont compilés ci-dessous, avec un lien vers la fiche d'origine."
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "q": "Quels sont les horaires de Supermarché Utile Moulin Vert ?",
+        "r": "Au relevé du 2 novembre 2026, Supermarché Utile Moulin Vert était ouvert sept jours sur sept. Dans le détail — lundi : de 7 h à 20 h ; mardi : de 7 h à 20 h ; mercredi : de 7 h à 20 h ; jeudi : de 7 h à 20 h ; vendredi : de 7 h à 20 h ; samedi : de 7 h à 20 h ; dimanche : de 8 h 30 à 12 h 45. Ces horaires peuvent changer : un appel préalable reste conseillé."
+      },
+      {
+        "q": "Supermarché Utile Moulin Vert est-il ouvert le dimanche ?",
+        "r": "Oui : le dimanche, Supermarché Utile Moulin Vert est ouvert de 8 h 30 à 12 h 45 (horaires relevés le 2 novembre 2026)."
+      },
+      {
+        "q": "Où se trouve Supermarché Utile Moulin Vert ?",
+        "r": "Supermarché Utile Moulin Vert se trouve 2 Pl. Geneviève de Gaulle-Anthonioz, 29000 Quimper. Un lien d'itinéraire est disponible sur cette page."
+      },
+      {
+        "q": "Comment contacter Supermarché Utile Moulin Vert ?",
+        "r": "Par téléphone au 02 98 53 11 63, ou directement sur place aux heures d'ouverture."
+      },
+      {
+        "q": "Supermarché Utile Moulin Vert propose-t-il la vente à emporter ou la livraison ?",
+        "r": "D'après sa fiche Google (relevé du 2 novembre 2026) — livraison : non."
+      },
+      {
+        "q": "Supermarché Utile Moulin Vert est-il accessible aux personnes à mobilité réduite ?",
+        "r": "La fiche Google de l'établissement mentionne : « Entrée accessible en fauteuil roulant ». Cette information est déclarative ; en cas de doute, vérifiez par téléphone."
+      }
+    ],
+    "genere_le": "2026-11-02"
+  },
+  "statut_google": "OPERATIONAL",
+  "audience": {
+    "clics": 0,
+    "impressions": 0,
+    "position": null,
+    "fenetreJours": 90,
+    "clicsRecents": 0,
+    "fenetreRecenteJours": 28,
+    "source": "search-console",
+    "date": "2026-11-02"
+  }
+}

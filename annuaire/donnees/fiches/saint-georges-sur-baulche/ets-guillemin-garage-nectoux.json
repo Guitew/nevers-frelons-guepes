@@ -121,8 +121,8 @@
     "etat": "absent",
     "premiere_detection": null,
     "derniere_detection": null,
-    "derniere_verification": "2026-10-19T10:42:12.979Z",
-    "echecs": 15,
+    "derniere_verification": "2026-11-02T13:26:12.013Z",
+    "echecs": 16,
     "url_detectee": null
   },
   "suggestion": {
@@ -135,7 +135,7 @@
   "dates": {
     "collecte": "2026-09-29",
     "publication": "2026-09-29",
-    "maj": "2026-10-19"
+    "maj": "2026-11-02"
   },
   "source": "google-places",
   "redaction": {
@@ -143,14 +143,22 @@
     "titre": "ETS GUILLEMIN - GARAGE NECTOUX — Garage et automobile à Saint-Georges-sur-Baulche",
     "meta_titre": "ETS GUILLEMIN - GARAGE NECTOUX : horaires, avis, téléphone",
     "meta_description": "ETS GUILLEMIN - GARAGE NECTOUX, garage et automobile à Saint-Georges-sur-Baulche : horaires d'ouverture, téléphone, adresse et itinéraire.",
-    "chapo": "Cette fiche présente ETS GUILLEMIN - GARAGE NECTOUX, un garage et automobile au 18 Rue de Montboulon, à Saint-Georges-sur-Baulche. Fermé le samedi et le dimanche au relevé du 9 octobre 2026. Téléphone : 03 86 94 03 50. Note Google : 4,8 sur 5 pour 43 avis.",
+    "chapo": "Cette fiche présente ETS GUILLEMIN - GARAGE NECTOUX, un garage et automobile au 18 Rue de Montboulon, à Saint-Georges-sur-Baulche. Fermé le samedi et le dimanche au relevé du 2 novembre 2026. Téléphone : 03 86 94 03 50. Note Google : 4,8 sur 5 pour 43 avis.",
     "sections": [
       {
         "id": "presentation",
         "titre": "ETS GUILLEMIN - GARAGE NECTOUX en quelques mots",
         "paragraphes": [
           "Sur Google, l'établissement est classé « Garage automobile », dans notre rubrique Garage et automobile.",
-          "D'après le relevé du 9 octobre 2026, l'établissement est fermé le samedi et le dimanche. Le détail jour par jour figure plus bas."
+          "D'après le relevé du 2 novembre 2026, l'établissement est fermé le samedi et le dimanche. Le détail jour par jour figure plus bas."
+        ]
+      },
+      {
+        "id": "prestations",
+        "titre": "Services et équipements de ETS GUILLEMIN - GARAGE NECTOUX",
+        "paragraphes": [
+          "Moyens de paiement déclarés : carte bancaire, carte de débit et paiement sans contact.",
+          "Ces indications sont déclarées par l'établissement sur sa fiche Google (relevé du 2 novembre 2026)."
         ]
       },
       {
@@ -172,18 +180,18 @@
         "id": "avis",
         "titre": "La réputation de ETS GUILLEMIN - GARAGE NECTOUX",
         "paragraphes": [
-          "Note de 4,8 sur 5 pour 43 avis Google au relevé du 9 octobre 2026. Les avis se consultent sur la fiche Google, dont le lien figure sur cette page."
+          "Note de 4,8 sur 5 pour 43 avis Google au relevé du 2 novembre 2026. Les avis les plus parlants sont compilés ci-dessous, avec un lien vers la fiche d'origine."
         ]
       }
     ],
     "faq": [
       {
         "q": "Quels sont les horaires de ETS GUILLEMIN - GARAGE NECTOUX ?",
-        "r": "Au relevé du 9 octobre 2026, ETS GUILLEMIN - GARAGE NECTOUX était fermé le samedi et le dimanche. Dans le détail — lundi : de 8 h à 12 h et de 14 h à 18 h ; mardi : de 8 h à 12 h et de 14 h à 18 h ; mercredi : de 8 h à 12 h et de 14 h à 18 h ; jeudi : de 8 h à 12 h et de 14 h à 18 h ; vendredi : de 8 h à 12 h et de 14 h à 18 h ; samedi : fermé ; dimanche : fermé. Ces horaires peuvent changer : un appel préalable reste conseillé."
+        "r": "Au relevé du 2 novembre 2026, ETS GUILLEMIN - GARAGE NECTOUX était fermé le samedi et le dimanche. Dans le détail — lundi : de 8 h à 12 h et de 14 h à 18 h ; mardi : de 8 h à 12 h et de 14 h à 18 h ; mercredi : de 8 h à 12 h et de 14 h à 18 h ; jeudi : de 8 h à 12 h et de 14 h à 18 h ; vendredi : de 8 h à 12 h et de 14 h à 18 h ; samedi : fermé ; dimanche : fermé. Ces horaires peuvent changer : un appel préalable reste conseillé."
       },
       {
         "q": "ETS GUILLEMIN - GARAGE NECTOUX est-il ouvert le dimanche ?",
-        "r": "Non : d'après les horaires relevés le 9 octobre 2026, ETS GUILLEMIN - GARAGE NECTOUX est fermé le dimanche."
+        "r": "Non : d'après les horaires relevés le 2 novembre 2026, ETS GUILLEMIN - GARAGE NECTOUX est fermé le dimanche."
       },
       {
         "q": "Où se trouve ETS GUILLEMIN - GARAGE NECTOUX ?",
@@ -198,7 +206,7 @@
         "r": "La fiche Google de l'établissement mentionne : « Entrée accessible en fauteuil roulant ». Cette information est déclarative ; en cas de doute, vérifiez par téléphone."
       }
     ],
-    "genere_le": "2026-10-09"
+    "genere_le": "2026-11-02"
   },
   "statut_google": "OPERATIONAL",
   "audience": {
@@ -209,6 +217,66 @@
     "clicsRecents": 0,
     "fenetreRecenteJours": 28,
     "source": "search-console",
-    "date": "2026-11-01"
+    "date": "2026-11-02"
+  },
+  "avis_detail": {
+    "releve": "2026-11-02",
+    "liste": [
+      {
+        "note": 5,
+        "texte": "Un excellent garage! Je leur ai confier récemment ma focus break pour une intervention ô combien importante ( courroie distribution, d'accessoires+ pompe à eau) et tout a été mené avec sérieux et efficacité. Ça fait plaisir d'avoir un bon garage multi-marques autour d'Auxerre. Encore merci à Mr Nectoux et à son équipe.",
+        "langue": "fr",
+        "date": "2026-07-12",
+        "auteur": "Kevin Meline",
+        "auteur_lien": "https://www.google.com/maps/contrib/116095024556625747882/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2pGNldqSnBhR3BPUkZsd1QwWldPRFJGVjBGbUxVRRAB!2m1!1s0x47ee4ebe0332aab9:0x19e9fdc671bb755c"
+      },
+      {
+        "note": 5,
+        "texte": "Celà fait 2fois que j'y emmène ma voiture je recommande vivement. De plus prix abordables et patron vraiment Gentil et honnête surtout ce qui se fait rare de nos jours. J'avais une première réparation à faire ne m'a pas fait la géométrie sachant que la prochaine réparation elle allait être refaite mais un autre aurait pu me compter 2fois mais ce garage là non ce qui m'a fortement plus. Vous pouvez y aller les yeux fermés.",
+        "langue": "fr",
+        "date": "2026-06-09",
+        "auteur": "fanny Enzo",
+        "auteur_lien": "https://www.google.com/maps/contrib/105945989933105894565/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT21KdldFNHRNaTFLU25NeWVGTndPR05XUVdzeVVrRRAB!2m1!1s0x47ee4ebe0332aab9:0x19e9fdc671bb755c"
+      },
+      {
+        "note": 5,
+        "texte": "super garage à l'écoute du client et rapidité exécution dans leur fonctionnement ,très rassurant on repart avec la sécurité d'un véhicule qui est au top merci à ce garage et je le recommande vivement",
+        "langue": "fr",
+        "date": "2026-06-03",
+        "auteur": "Catalano francoise",
+        "auteur_lien": "https://www.google.com/maps/contrib/101208022992482301523/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xreFdHTnlOVFo1UTBkaVZuUkxkSGRZVVZOd2RXYxAB!2m1!1s0x47ee4ebe0332aab9:0x19e9fdc671bb755c"
+      },
+      {
+        "note": 5,
+        "texte": "Je recommande ce garage pour l’accueil, le sourire, le professionnalisme! Romain est très à l’écoute, et je tiens à faire remarquer que malgré la vitre en verre qui sépare le bureau d’accueil avec l’atelier, son équipe a su nous sourire/ dire bonjour! Ce n’est pas donné à tout le monde!\nNous laissons notre véhicule avec confiance!\nÀ bientôt!",
+        "langue": "fr",
+        "date": "2026-05-18",
+        "auteur": "Amelie Masse",
+        "auteur_lien": "https://www.google.com/maps/contrib/111636650680536899449/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2pjMVNtbG1TalZYVFZwR2MxRnZRMmRwWjNCYVpGRRAB!2m1!1s0x47ee4ebe0332aab9:0x19e9fdc671bb755c"
+      },
+      {
+        "note": 5,
+        "texte": "Merci à Mr Nectoux du garage ETS Guillemin à Saint-Georges pour son professionnalisme 👍\n\nIntervention rapide et efficace sur mon véhicule (pneus avant, fusible de lave-glace et ampoule de plaque d’immatriculation) 🔧 Travail sérieux, rien à redire.\n\nJe recommande 🙂",
+        "langue": "fr",
+        "date": "2026-04-17",
+        "auteur": "Lucie",
+        "auteur_lien": "https://www.google.com/maps/contrib/105521915394171258220/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT204emJYaE9SbE5XVkdrd1RHMWZVbGxtZUU1UlgwRRAB!2m1!1s0x47ee4ebe0332aab9:0x19e9fdc671bb755c"
+      }
+    ]
+  },
+  "services": {
+    "releve": "2026-11-02",
+    "options": {},
+    "paiement": [
+      "carte bancaire",
+      "carte de débit",
+      "paiement sans contact"
+    ],
+    "parking": []
   }
 }

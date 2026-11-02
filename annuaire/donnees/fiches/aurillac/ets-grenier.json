@@ -135,8 +135,8 @@
     "etat": "absent",
     "premiere_detection": null,
     "derniere_detection": null,
-    "derniere_verification": "2026-10-26T11:01:19.059Z",
-    "echecs": 4,
+    "derniere_verification": "2026-11-02T13:26:12.013Z",
+    "echecs": 5,
     "url_detectee": null
   },
   "suggestion": {
@@ -149,22 +149,31 @@
   "dates": {
     "collecte": "2026-10-08",
     "publication": "2026-10-08",
-    "maj": "2026-10-26"
+    "maj": "2026-11-02"
   },
   "source": "google-places",
   "redaction": {
     "version": 2,
     "titre": "ETS GRENIER — Mode et équipement de la maison à Aurillac",
     "meta_titre": "ETS GRENIER à Aurillac : horaires, avis, téléphone",
-    "meta_description": "ETS GRENIER, mode et équipement de la maison à Aurillac : horaires d'ouverture, note Google 4,5/5 (175 avis), téléphone, adresse et itinéraire.",
-    "chapo": "ETS GRENIER, mode et équipement de la maison à Aurillac. Ouvert tous les jours sauf le dimanche au relevé du 11 octobre 2026. Téléphone : 04 71 48 06 54. Note Google : 4,5 sur 5 pour 175 avis.",
+    "meta_description": "ETS GRENIER, mode et équipement de la maison à Aurillac : horaires d'ouverture, note Google 4,5/5 (176 avis), téléphone, adresse et itinéraire.",
+    "chapo": "ETS GRENIER, mode et équipement de la maison à Aurillac. Ouvert tous les jours sauf le dimanche au relevé du 2 novembre 2026. Téléphone : 04 71 48 06 54. Note Google : 4,5 sur 5 pour 176 avis.",
     "sections": [
       {
         "id": "presentation",
         "titre": "ETS GRENIER en quelques mots",
         "paragraphes": [
           "Sur Google, l'établissement est classé « Quincaillerie », dans notre rubrique Mode et équipement de la maison.",
-          "D'après le relevé du 11 octobre 2026, l'établissement est ouvert tous les jours sauf le dimanche. Le détail jour par jour figure plus bas."
+          "D'après le relevé du 2 novembre 2026, l'établissement est ouvert tous les jours sauf le dimanche. Le détail jour par jour figure plus bas."
+        ]
+      },
+      {
+        "id": "prestations",
+        "titre": "Services et équipements de ETS GRENIER",
+        "paragraphes": [
+          "Proposé : livraison.",
+          "Moyens de paiement déclarés : carte bancaire, carte de débit et paiement sans contact.",
+          "Ces indications sont déclarées par l'établissement sur sa fiche Google (relevé du 2 novembre 2026)."
         ]
       },
       {
@@ -186,18 +195,18 @@
         "id": "avis",
         "titre": "La réputation de ETS GRENIER",
         "paragraphes": [
-          "Note de 4,5 sur 5 pour 175 avis Google au relevé du 11 octobre 2026. Les avis se consultent sur la fiche Google, dont le lien figure sur cette page."
+          "Note de 4,5 sur 5 pour 176 avis Google au relevé du 2 novembre 2026. Les avis les plus parlants sont compilés ci-dessous, avec un lien vers la fiche d'origine."
         ]
       }
     ],
     "faq": [
       {
         "q": "Quels sont les horaires de ETS GRENIER ?",
-        "r": "Au relevé du 11 octobre 2026, ETS GRENIER était ouvert tous les jours sauf le dimanche. Dans le détail — lundi : de 8 h à 12 h et de 14 h à 18 h 30 ; mardi : de 8 h à 12 h et de 14 h à 18 h 30 ; mercredi : de 8 h à 12 h et de 14 h à 18 h 30 ; jeudi : de 8 h à 12 h et de 14 h à 18 h 30 ; vendredi : de 8 h à 12 h et de 14 h à 18 h 30 ; samedi : de 8 h à 12 h et de 14 h à 18 h 30 ; dimanche : fermé. Ces horaires peuvent changer : un appel préalable reste conseillé."
+        "r": "Au relevé du 2 novembre 2026, ETS GRENIER était ouvert tous les jours sauf le dimanche. Dans le détail — lundi : de 8 h à 12 h et de 14 h à 18 h 30 ; mardi : de 8 h à 12 h et de 14 h à 18 h 30 ; mercredi : de 8 h à 12 h et de 14 h à 18 h 30 ; jeudi : de 8 h à 12 h et de 14 h à 18 h 30 ; vendredi : de 8 h à 12 h et de 14 h à 18 h 30 ; samedi : de 8 h à 12 h et de 14 h à 18 h 30 ; dimanche : fermé. Ces horaires peuvent changer : un appel préalable reste conseillé."
       },
       {
         "q": "ETS GRENIER est-il ouvert le dimanche ?",
-        "r": "Non : d'après les horaires relevés le 11 octobre 2026, ETS GRENIER est fermé le dimanche."
+        "r": "Non : d'après les horaires relevés le 2 novembre 2026, ETS GRENIER est fermé le dimanche."
       },
       {
         "q": "Où se trouve ETS GRENIER ?",
@@ -208,11 +217,15 @@
         "r": "Par téléphone au 04 71 48 06 54, ou directement sur place aux heures d'ouverture."
       },
       {
+        "q": "ETS GRENIER propose-t-il la vente à emporter ou la livraison ?",
+        "r": "D'après sa fiche Google (relevé du 2 novembre 2026) — livraison : oui."
+      },
+      {
         "q": "ETS GRENIER est-il accessible aux personnes à mobilité réduite ?",
         "r": "La fiche Google de l'établissement mentionne : « Entrée accessible en fauteuil roulant ». Cette information est déclarative ; en cas de doute, vérifiez par téléphone."
       }
     ],
-    "genere_le": "2026-10-11"
+    "genere_le": "2026-11-02"
   },
   "statut_google": "OPERATIONAL",
   "audience": {
@@ -223,6 +236,68 @@
     "clicsRecents": 0,
     "fenetreRecenteJours": 28,
     "source": "search-console",
-    "date": "2026-11-01"
+    "date": "2026-11-02"
+  },
+  "avis_detail": {
+    "releve": "2026-11-02",
+    "liste": [
+      {
+        "note": 4,
+        "texte": "Très bien",
+        "langue": "fr",
+        "date": "2026-09-21",
+        "auteur": "Solange Rodier",
+        "auteur_lien": "https://www.google.com/maps/contrib/117660710328543694906/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2pkdE0xWm1SMWh5UWt4WGREQk9abWxmT0hVd1ZrRRAB!2m1!1s0x12ad54558944d9b7:0x39f0367df382dbd4"
+      },
+      {
+        "note": 5,
+        "texte": "Très bon magasin, le personnel est accueillant et très professionnel. Je recommande cette enseigne. 👍",
+        "langue": "fr",
+        "date": "2025-07-02",
+        "auteur": "Fred Hbz",
+        "auteur_lien": "https://www.google.com/maps/contrib/103179456439155396107/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2pkYVowTnNiblptTWxoYU1XRkpjbG8xZEhwbE1WRRAB!2m1!1s0x12ad54558944d9b7:0x39f0367df382dbd4"
+      },
+      {
+        "note": 5,
+        "texte": "Beaucoup de choix, très bon rapport qualité prix.\nEt des vendeurs très compétents et agréable s.",
+        "langue": "fr",
+        "date": "2025-04-20",
+        "auteur": "Joel B",
+        "auteur_lien": "https://www.google.com/maps/contrib/100431245510529378339/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnTUNvdF9IS2xnRRAB!2m1!1s0x12ad54558944d9b7:0x39f0367df382dbd4"
+      },
+      {
+        "note": 5,
+        "texte": "Magasin de bricolage de proximité, vous y trouverez aussi bien le nécessaire pour l'alimentation des volailles que des ustensiles pour les conserves et confitures etc.\nJ'y trouve toujours ce dont j'ai besoin.",
+        "langue": "fr",
+        "date": "2024-07-29",
+        "auteur": "Patrick 15",
+        "auteur_lien": "https://www.google.com/maps/contrib/114654703050222737845/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUNiczhXb1lnEAE!2m1!1s0x12ad54558944d9b7:0x39f0367df382dbd4"
+      },
+      {
+        "note": 5,
+        "texte": "Personnel accueillant et compétent. Tarif parfois mieux placé sur les grandes enseignes. Produits sélectionnés de qualité.\nMagasin s'est un peu agrandi et un réaménagement des rayons permet une mise en valeur des produits vu la quantité  exposées.",
+        "langue": "fr",
+        "date": "2023-01-18",
+        "auteur": "Yves Frosio",
+        "auteur_lien": "https://www.google.com/maps/contrib/101757851749211366899/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUNRbi1IYnpBRRAB!2m1!1s0x12ad54558944d9b7:0x39f0367df382dbd4"
+      }
+    ]
+  },
+  "services": {
+    "releve": "2026-11-02",
+    "options": {
+      "delivery": true
+    },
+    "paiement": [
+      "carte bancaire",
+      "carte de débit",
+      "paiement sans contact"
+    ],
+    "parking": []
   }
 }

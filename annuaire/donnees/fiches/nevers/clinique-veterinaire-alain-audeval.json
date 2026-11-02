@@ -39,8 +39,8 @@
     "etat": "absent",
     "premiere_detection": null,
     "derniere_detection": null,
-    "derniere_verification": "2026-10-18T10:46:48.744Z",
-    "echecs": 76,
+    "derniere_verification": "2026-11-02T13:26:12.013Z",
+    "echecs": 77,
     "url_detectee": null
   },
   "retrait": {
@@ -52,7 +52,7 @@
   "dates": {
     "collecte": "2026-08-30",
     "publication": "2026-08-30",
-    "maj": "2026-10-19"
+    "maj": "2026-11-02"
   },
   "source": "google-places",
   "redaction": {
@@ -88,7 +88,7 @@
         "id": "avis",
         "titre": "La réputation de Clinique vétérinaire Alain Audeval",
         "paragraphes": [
-          "Note de 3,6 sur 5 pour 24 avis Google au relevé du 18 octobre 2026. Les avis se consultent sur la fiche Google, dont le lien figure sur cette page."
+          "Note de 3,6 sur 5 pour 24 avis Google au relevé du 2 novembre 2026. Les avis les plus parlants sont compilés ci-dessous, avec un lien vers la fiche d'origine."
         ]
       }
     ],
@@ -106,7 +106,7 @@
         "r": "La fiche Google de l'établissement mentionne : « Parking accessible en fauteuil roulant ». Cette information est déclarative ; en cas de doute, vérifiez par téléphone."
       }
     ],
-    "genere_le": "2026-10-18"
+    "genere_le": "2026-11-02"
   },
   "suggestion": {
     "etat": "en-attente",
@@ -123,7 +123,7 @@
     "clicsRecents": 0,
     "fenetreRecenteJours": 28,
     "source": "search-console",
-    "date": "2026-11-01"
+    "date": "2026-11-02"
   },
   "indexation": {
     "etat": "non-indexee",
@@ -133,5 +133,55 @@
     "canonique_google": null,
     "source": "inspection",
     "date": "2026-10-19"
+  },
+  "avis_detail": {
+    "releve": "2026-11-02",
+    "liste": [
+      {
+        "note": 1,
+        "texte": "Clinique vétérinaire à fuir !!!\n\nUne chienne de \"3 ANS\" n'a pas été revue en consultation malgré les appels répétés de ses propriétaires, qui demandaient un nouvel examen en raison de l'évolution de son état. Cette demande aurait été refusée. La chienne est malheureusement décédée quelque temps plus tard.\nLes vétérinaires prêtent le serment de Bourgelat et sont soumis au Code de déontologie, qui leur impose notamment de respecter les animaux et de veiller à leur bien-être ainsi qu'à la qualité des soins qui leur sont apportés.\nCette situation est profondément choquante et laisse le sentiment que l'inquiétude des propriétaires n'a pas été prise au sérieux. Au vu de la gravité des faits rapportés, la question d'une saisine de l'Ordre des vétérinaires mérite d'être posée.",
+        "langue": "fr",
+        "date": "2026-07-10",
+        "auteur": "Anna",
+        "auteur_lien": "https://www.google.com/maps/contrib/106944700584329828988/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2tFMmNFaE1ORUZQYjFWUVRIaE5abXRPU0hOblJrRRAB!2m1!1s0x47f045001ea9f6c7:0x68656899a68de8f"
+      },
+      {
+        "note": 5,
+        "texte": "Toujours aussi satisfaite des services du docteur Audeval, au Top efficace et cela fait longtemps que l'on fait appel à son professionnalisme ( environ 30/32 ans 🤗✨)",
+        "langue": "fr",
+        "date": "2026-06-23",
+        "auteur": "christian bouziat",
+        "auteur_lien": "https://www.google.com/maps/contrib/100756823955499072949/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xocFdreHliRmRIVkZsSlNFNVBURzlNUkhBeVZYYxAB!2m1!1s0x47f045001ea9f6c7:0x68656899a68de8f"
+      },
+      {
+        "note": 5,
+        "texte": "Notre vétérinaire de famille depuis de nombreuses années, pas loin de 30 ans je dirais. Jamais déçus. De bons conseils, communique son diagnostic de manière clair et franche sans détour, j'apprécie ça, car je sais de quoi il en retourne, il dit les choses là où des confrères pourraient se montrer evasifs par peur de dire quelque chose de désagréable à entendre. Là je repars en ayant un diagnostic, des explications, des conseils, et tout le nécessaire à donner si traitement nécessaire. J'ai eu plusieurs fois des rendez vous à prendre en urgence parce que j'étais inquiète pour un de mes chats et ne voulait pas prendre le risque d'attendre au cas où, et j'ai toujours pu constater qu'ils faisaient tout leur possible pour que j'ai un rdv au plus vite. Étant donné les urgences à gérer au quotidien et le volume de rendez vous je leur en suis particulièrement reconnaissante car je sais que je peux compter sur eux. Que ce soit Mr Audeval ou ses assistantes, ils sont très agréables et courtois/es, toujours le sourire, une bienveillance et un humanisme rafraîchissants, au top ne changez rien 👍❤️ . J'ai pu avoir à plusieurs reprise la remplaçante de Mr Audeval, je peux en dire autant la concernant, très compétente, gentille, soignée et rigoureuse dans son travail,  elle a, elle aussi, toute ma confiance 😉. Un gros merci à toute l'équipe pour le travail et le suivi de qualité que vous fournissez à tous mes poilus 🥰",
+        "langue": "fr",
+        "date": "2026-03-02",
+        "auteur": "Angel Størm",
+        "auteur_lien": "https://www.google.com/maps/contrib/114789379370528163743/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2tVMlIyZG5ibmcxWm1oT1RGQkhlV05qT1hOUVQyYxAB!2m1!1s0x47f045001ea9f6c7:0x68656899a68de8f"
+      },
+      {
+        "note": 1,
+        "texte": "Si votre animal est mourant n'allez surtout pas chez ce vétérinaire même si vous êtes client, il vous proposera un rdv pour le lendemain avec un grand sourire, aucune empathie on peut comprendre que le planning soit complet mais il y a une façon de dire les choses. Heureusement dans l'agglomération il y a des vétérinaires réactif et qui se démène pour sauver votre animal.histoire vécu le 30/01/2026",
+        "langue": "fr",
+        "date": "2026-02-04",
+        "auteur": "Jean-christophe",
+        "auteur_lien": "https://www.google.com/maps/contrib/106059091555537509853/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2tJelRXUkZaMDFDV1dwUlVYUlRZbWRrTW1SS05XYxAB!2m1!1s0x47f045001ea9f6c7:0x68656899a68de8f"
+      },
+      {
+        "note": 1,
+        "texte": "J'ai emmené mon chat le soir a 18 heures car il n’était pas bien du tout\nLa réponse a été de le ramener le lendemain pour voir !! Malheureusement le lendemain matin j'ai retrouve mon chat age de 5 ans MORT\nVoila le professionnalisme de ce cabinet vétérinaire et pas seulement celui ci , il y en a d'autres\nIl était 18 heures et surement pas QUESTION DE FAIRE QUELQUES MINUTES DE BOULOT DE PLUS\nQUEL RESPECT et si il était généraliste et bien AU SECOURS\nQu'on ne me parle pas de diffamation , c'est du vécu et pure vérité",
+        "langue": "fr",
+        "date": "2025-10-02",
+        "auteur": "ALLO SERVICES PLUS",
+        "auteur_lien": "https://www.google.com/maps/contrib/116963386875811896936/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2kxNmVFMVhOSEpMYUVGU2VtbERRMDFpTm1zNVpYYxAB!2m1!1s0x47f045001ea9f6c7:0x68656899a68de8f"
+      }
+    ]
   }
 }

@@ -1,0 +1,309 @@
+{
+  "id": "ChIJk6UrMVBP7kcRrErw-H15tbY",
+  "slug": "boulangerie-rive-droite",
+  "nom": "Boulangerie Rive Droite",
+  "categorie": "boulangeries-patisseries",
+  "categorie_gmb": "Boulangerie",
+  "type_principal": "bakery",
+  "types": [
+    "bakery",
+    "food_store",
+    "food",
+    "store",
+    "point_of_interest",
+    "establishment"
+  ],
+  "ville": "Auxerre",
+  "ville_slug": "auxerre",
+  "adresse": {
+    "rue": "3 Rue Charles de Foucault",
+    "code_postal": "89000",
+    "departement": "89",
+    "region": "Bourgogne-Franche-Comté",
+    "pays": "France",
+    "complete": "3 Rue Charles de Foucault, 89000 Auxerre"
+  },
+  "telephone": "03 86 46 96 03",
+  "geo": {
+    "latitude": 47.7952347,
+    "longitude": 3.5885034999999994
+  },
+  "note": 3.7,
+  "avis": 114,
+  "horaires": [
+    {
+      "jour": 0,
+      "ferme": false,
+      "creneaux": [
+        [
+          "06:30",
+          "13:00"
+        ],
+        [
+          "15:30",
+          "19:00"
+        ]
+      ]
+    },
+    {
+      "jour": 1,
+      "ferme": false,
+      "creneaux": [
+        [
+          "06:30",
+          "13:00"
+        ],
+        [
+          "15:30",
+          "19:00"
+        ]
+      ]
+    },
+    {
+      "jour": 2,
+      "ferme": false,
+      "creneaux": [
+        [
+          "06:30",
+          "13:00"
+        ],
+        [
+          "15:30",
+          "19:00"
+        ]
+      ]
+    },
+    {
+      "jour": 3,
+      "ferme": false,
+      "creneaux": [
+        [
+          "06:30",
+          "13:00"
+        ],
+        [
+          "15:30",
+          "19:00"
+        ]
+      ]
+    },
+    {
+      "jour": 4,
+      "ferme": false,
+      "creneaux": [
+        [
+          "06:30",
+          "13:00"
+        ],
+        [
+          "15:30",
+          "19:00"
+        ]
+      ]
+    },
+    {
+      "jour": 5,
+      "ferme": false,
+      "creneaux": [
+        [
+          "07:30",
+          "12:30"
+        ]
+      ]
+    },
+    {
+      "jour": 6,
+      "ferme": false,
+      "creneaux": [
+        [
+          "07:30",
+          "12:30"
+        ]
+      ]
+    }
+  ],
+  "attributs": [
+    "Entrée accessible en fauteuil roulant",
+    "Parking accessible en fauteuil roulant"
+  ],
+  "lien_google": "https://maps.google.com/?cid=13165562667641883308&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
+  "site_web_gmb": null,
+  "statut": "publiee",
+  "backlink": {
+    "etat": "absent",
+    "premiere_detection": null,
+    "derniere_detection": null,
+    "derniere_verification": "2026-11-02T13:26:12.013Z",
+    "echecs": 1,
+    "url_detectee": null
+  },
+  "suggestion": {
+    "etat": "en-attente",
+    "date_soumission": null,
+    "tentatives": 0
+  },
+  "retrait": null,
+  "dates": {
+    "collecte": "2026-11-02",
+    "publication": "2026-11-02",
+    "maj": "2026-11-02"
+  },
+  "source": "google-places",
+  "avis_detail": {
+    "releve": "2026-11-02",
+    "liste": [
+      {
+        "note": 1,
+        "texte": "Le seul problème, c'est que le pain est trop sec et dur ; impossible d'y croquer. On pourrait le couvrir pour qu'il reste moelleux.",
+        "langue": "fr",
+        "date": "2026-01-18",
+        "auteur": "Suat Bayram",
+        "auteur_lien": "https://www.google.com/maps/contrib/103870693464204857827/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2w4NGFuZ3djekZ3VXpWMVFYUlhOR2t3YjNCWFdXYxAB!2m1!1s0x47ee4f50312ba593:0xb6b5797df8f04aac"
+      },
+      {
+        "note": 1,
+        "texte": "Si je pouvais mettre zéro étoile, je le ferais sans hésiter. À chaque visite, le service est catastrophique. Je suis arrivé quelques minutes avant la fermeture et j’ai vu une baguette être retirée du présentoir pour être mis derrière le comptoir. Quand j'ai demandée une baguette, on m’a répondu qu’il n’y en avait plus. Puis, quand je lui ai indiqué que je l’avais vue en mettre une de côté derrière le comptoir, c’est là qu’elle m’a répondu que c’était réservé pour un autre client. La même scène s’est répétée, un autre jour. Le pain est dur et l’accueil inexistant. Honnêtement, je préfère me tourner vers d’autres boulangeries où le service est cordial et professionnel, avec du pain de qualité.",
+        "langue": "fr",
+        "date": "2025-09-30",
+        "auteur": "Héloïse",
+        "auteur_lien": "https://www.google.com/maps/contrib/115712581713441345502/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2pCbmFsTjFVa2RDU205U1RuWlJTRk4wY1hOVk9FRRAB!2m1!1s0x47ee4f50312ba593:0xb6b5797df8f04aac"
+      },
+      {
+        "note": 3,
+        "texte": "En vente de pains pas assez de choix, (pain viennois, pain au pavot, pain au noix, pain de son pain de seigle manquant tous les matins, manque de gâteau au chocolat, l'yonne republicaine manquant dans votre magasin,\nc'est bon, chez vous.",
+        "langue": "fr",
+        "date": "2025-07-30",
+        "auteur": "Françoise Bourzay",
+        "auteur_lien": "https://www.google.com/maps/contrib/100465969513870298192/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25KRFZHNXpRalYzVGpKSVdXRTVNVjltWVZwMWEwRRAB!2m1!1s0x47ee4f50312ba593:0xb6b5797df8f04aac"
+      },
+      {
+        "note": 1,
+        "texte": "1 an que je viens en baladant mon petit chien, j'en profite donc pour m'arrêter acheter viennoiseries et pain. Aujourd'hui on ne sait pourquoi, une nouvelle dame me reprend de sa voix la plus désagréable pour me dire \"eh les chiens c'est dehors\"\nEt bien super, les règles changent apparemment, et bien vos clients aussi.\nChez Roy et Columbus personne ne fait chier ses clients, mais apparemment dans ce dépôt de pain c'est l'inverse.\n\nC'est vraiment dommage que cette dernière personne vienne gâcher l'avis que je m'étais fait tout au long de l'année sur cette boutique ainsi que les deux charmantes employées que j'ai l'habitude de voir",
+        "langue": "fr",
+        "date": "2024-05-22",
+        "auteur": "BizNip",
+        "auteur_lien": "https://www.google.com/maps/contrib/101749387905134215236/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSURUMkppaERBEAE!2m1!1s0x47ee4f50312ba593:0xb6b5797df8f04aac"
+      },
+      {
+        "note": 1,
+        "texte": "Je déconseille fortement, j'ai acheté plusieurs croissants au chocolats et j'ai eu la surprise de voir qu'ils étaient tout dur et se casse en miettes ! Je n'ose même pas imaginer depuis combien de temps ils les gardent, les brownies n'étant guère plus frais je vous laisse tester les autres produits par vous-même si vous en avez la foi, c'est inadmissible!",
+        "langue": "fr",
+        "date": "2019-09-02",
+        "auteur": "米卡Mika",
+        "auteur_lien": "https://www.google.com/maps/contrib/114667689792782929138/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSURVb19fTlFREAE!2m1!1s0x47ee4f50312ba593:0xb6b5797df8f04aac"
+      }
+    ]
+  },
+  "services": {
+    "releve": "2026-11-02",
+    "prix": "PRICE_LEVEL_INEXPENSIVE",
+    "options": {
+      "dineIn": false,
+      "delivery": false,
+      "servesBreakfast": false,
+      "restroom": false
+    },
+    "paiement": [
+      "carte bancaire",
+      "carte de débit",
+      "paiement sans contact"
+    ],
+    "parking": []
+  },
+  "redaction": {
+    "version": 2,
+    "titre": "Boulangerie Rive Droite — Boulangerie-pâtisserie à Auxerre",
+    "meta_titre": "Boulangerie Rive Droite à Auxerre : horaires, avis",
+    "meta_description": "Boulangerie Rive Droite, boulangerie-pâtisserie à Auxerre : horaires d'ouverture, note Google 3,7/5 (114 avis), téléphone, adresse et itinéraire.",
+    "chapo": "Boulangerie Rive Droite, boulangerie-pâtisserie au 3 Rue Charles de Foucault, à Auxerre. Ouvert sept jours sur sept au relevé du 2 novembre 2026. Téléphone : 03 86 46 96 03. Note Google : 3,7 sur 5 pour 114 avis.",
+    "sections": [
+      {
+        "id": "presentation",
+        "titre": "Boulangerie Rive Droite en quelques mots",
+        "paragraphes": [
+          "Sur Google, l'établissement est classé « Boulangerie », dans notre rubrique Boulangerie-pâtisserie.",
+          "Niveau de prix indiqué sur la fiche Google : € (bon marché).",
+          "D'après le relevé du 2 novembre 2026, l'établissement est ouvert sept jours sur sept. Le détail jour par jour figure plus bas."
+        ]
+      },
+      {
+        "id": "prestations",
+        "titre": "Services et équipements de Boulangerie Rive Droite",
+        "paragraphes": [
+          "Non proposé selon la fiche Google : sur place, livraison, petit-déjeuner et toilettes.",
+          "Moyens de paiement déclarés : carte bancaire, carte de débit et paiement sans contact.",
+          "Ces indications sont déclarées par l'établissement sur sa fiche Google (relevé du 2 novembre 2026)."
+        ]
+      },
+      {
+        "id": "acces",
+        "titre": "Adresse et accès",
+        "paragraphes": [
+          "L'établissement est situé au 3 Rue Charles de Foucault, 89000 Auxerre.",
+          "Coordonnées GPS : 47.79523, 3.58850. Le bouton Itinéraire de cette page ouvre la navigation."
+        ]
+      },
+      {
+        "id": "contact",
+        "titre": "Contacter Boulangerie Rive Droite",
+        "paragraphes": [
+          "Le contact se fait par téléphone au 03 86 46 96 03, ou directement sur place aux horaires d'ouverture."
+        ]
+      },
+      {
+        "id": "avis",
+        "titre": "La réputation de Boulangerie Rive Droite",
+        "paragraphes": [
+          "Note de 3,7 sur 5 pour 114 avis Google au relevé du 2 novembre 2026. Les avis les plus parlants sont compilés ci-dessous, avec un lien vers la fiche d'origine."
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "q": "Quels sont les horaires de Boulangerie Rive Droite ?",
+        "r": "Au relevé du 2 novembre 2026, Boulangerie Rive Droite était ouvert sept jours sur sept. Dans le détail — lundi : de 6 h 30 à 13 h et de 15 h 30 à 19 h ; mardi : de 6 h 30 à 13 h et de 15 h 30 à 19 h ; mercredi : de 6 h 30 à 13 h et de 15 h 30 à 19 h ; jeudi : de 6 h 30 à 13 h et de 15 h 30 à 19 h ; vendredi : de 6 h 30 à 13 h et de 15 h 30 à 19 h ; samedi : de 7 h 30 à 12 h 30 ; dimanche : de 7 h 30 à 12 h 30. Ces horaires peuvent changer : un appel préalable reste conseillé."
+      },
+      {
+        "q": "Boulangerie Rive Droite est-il ouvert le dimanche ?",
+        "r": "Oui : le dimanche, Boulangerie Rive Droite est ouvert de 7 h 30 à 12 h 30 (horaires relevés le 2 novembre 2026)."
+      },
+      {
+        "q": "Où se trouve Boulangerie Rive Droite ?",
+        "r": "Boulangerie Rive Droite se trouve 3 Rue Charles de Foucault, 89000 Auxerre. Un lien d'itinéraire est disponible sur cette page."
+      },
+      {
+        "q": "Comment contacter Boulangerie Rive Droite ?",
+        "r": "Par téléphone au 03 86 46 96 03, ou directement sur place aux heures d'ouverture."
+      },
+      {
+        "q": "Boulangerie Rive Droite propose-t-il la vente à emporter ou la livraison ?",
+        "r": "D'après sa fiche Google (relevé du 2 novembre 2026) — livraison : non."
+      },
+      {
+        "q": "Quel est le niveau de prix de Boulangerie Rive Droite ?",
+        "r": "Google classe Boulangerie Rive Droite au niveau de prix € (bon marché), sur une échelle de € à €€€€ établie à partir des avis clients."
+      },
+      {
+        "q": "Boulangerie Rive Droite est-il accessible aux personnes à mobilité réduite ?",
+        "r": "La fiche Google de l'établissement mentionne : « Entrée accessible en fauteuil roulant ». Cette information est déclarative ; en cas de doute, vérifiez par téléphone."
+      }
+    ],
+    "genere_le": "2026-11-02"
+  },
+  "statut_google": "OPERATIONAL",
+  "audience": {
+    "clics": 0,
+    "impressions": 0,
+    "position": null,
+    "fenetreJours": 90,
+    "clicsRecents": 0,
+    "fenetreRecenteJours": 28,
+    "source": "search-console",
+    "date": "2026-11-02"
+  }
+}

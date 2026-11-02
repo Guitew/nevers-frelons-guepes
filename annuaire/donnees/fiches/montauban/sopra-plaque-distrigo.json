@@ -1,0 +1,286 @@
+{
+  "id": "ChIJo-qB6QIPrBIRyxgc_Sb5aOI",
+  "slug": "sopra-plaque-distrigo",
+  "nom": "SOPRA - plaque DISTRIGO",
+  "categorie": "garages-automobile",
+  "categorie_gmb": "Garage automobile",
+  "type_principal": "car_repair",
+  "types": [
+    "market",
+    "car_repair",
+    "point_of_interest",
+    "service",
+    "establishment"
+  ],
+  "ville": "Montauban",
+  "ville_slug": "montauban",
+  "adresse": {
+    "rue": "1799 Avenue d'Italie",
+    "code_postal": "82000",
+    "departement": "82",
+    "region": "Occitanie",
+    "pays": "France",
+    "complete": "1799 Av. d'Italie, 82000 Montauban"
+  },
+  "telephone": "05 63 02 28 49",
+  "geo": {
+    "latitude": 43.9726597,
+    "longitude": 1.3197332
+  },
+  "note": 4.4,
+  "avis": 56,
+  "horaires": [
+    {
+      "jour": 0,
+      "ferme": false,
+      "creneaux": [
+        [
+          "09:00",
+          "12:00"
+        ],
+        [
+          "14:00",
+          "17:00"
+        ]
+      ]
+    },
+    {
+      "jour": 1,
+      "ferme": false,
+      "creneaux": [
+        [
+          "09:00",
+          "12:00"
+        ],
+        [
+          "14:00",
+          "17:00"
+        ]
+      ]
+    },
+    {
+      "jour": 2,
+      "ferme": false,
+      "creneaux": [
+        [
+          "09:00",
+          "12:00"
+        ],
+        [
+          "14:00",
+          "17:00"
+        ]
+      ]
+    },
+    {
+      "jour": 3,
+      "ferme": false,
+      "creneaux": [
+        [
+          "09:00",
+          "12:00"
+        ],
+        [
+          "14:00",
+          "17:00"
+        ]
+      ]
+    },
+    {
+      "jour": 4,
+      "ferme": false,
+      "creneaux": [
+        [
+          "09:00",
+          "12:00"
+        ],
+        [
+          "14:00",
+          "17:00"
+        ]
+      ]
+    },
+    {
+      "jour": 5,
+      "ferme": true,
+      "creneaux": []
+    },
+    {
+      "jour": 6,
+      "ferme": true,
+      "creneaux": []
+    }
+  ],
+  "attributs": [
+    "Entrée accessible en fauteuil roulant",
+    "Parking accessible en fauteuil roulant",
+    "Toilettes accessibles en fauteuil roulant"
+  ],
+  "lien_google": "https://maps.google.com/?cid=16314563596000172235&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
+  "site_web_gmb": null,
+  "statut": "publiee",
+  "backlink": {
+    "etat": "absent",
+    "premiere_detection": null,
+    "derniere_detection": null,
+    "derniere_verification": "2026-11-02T13:26:12.013Z",
+    "echecs": 1,
+    "url_detectee": null
+  },
+  "suggestion": {
+    "etat": "en-attente",
+    "date_soumission": null,
+    "tentatives": 0
+  },
+  "retrait": null,
+  "dates": {
+    "collecte": "2026-11-02",
+    "publication": "2026-11-02",
+    "maj": "2026-11-02"
+  },
+  "source": "google-places",
+  "avis_detail": {
+    "releve": "2026-11-02",
+    "liste": [
+      {
+        "note": 1,
+        "texte": "Du départ un accueil pas trop courtois.\nSuite a une deuxième commande, article non conforme au norme CEE, je dirais pièce de occasion, recycle ou reconditionné ou farce dangereuse.\nJamais vue en France tel manque de respect par un distributeur pièces de rechange agrée Peugeot à Montauban.\nJe m'deplace pour prendre l'pièce, ma pas la même de origine du constructeur Peugeot.\nSOPRA SAS, me fait une moquerie ou abus répeté a des autres clients particuliers venant chercher d' pièces.\nEmballage déjà usée, ouvert et mal fermé et pièce dangereuse, fil denude, fil coup cache cablage faiseau non conforme au vehicule, plus norme de sécurité mettant le conduteur en danger et risque feu sur le circuit electrique du auto.\nLe constructeur Peugeot doit être informé de anomalies lié au comportements de la Socièté agrée vendant de pièces non conformé et dangereuse.\nDe mon arrivé voyent la emballage sa me dit touts, mon vehicule est de 2020 et non a pas le même faiseau, le mien est é deux partie suite a option camera arrière aide au stationnement.\nLe journalisme auto doit voir et photographies que le cablage faiseau ne pas conforme à la loi CEE.",
+        "langue": "fr",
+        "date": "2026-09-06",
+        "auteur": "Joaquim Gomes",
+        "auteur_lien": "https://www.google.com/maps/contrib/107833684412350513336/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2t4YWFYVmhVak5xUmxSM1ltcFNWRUoyUVdSR1pYYxAB!2m1!1s0x12ac0f02e981eaa3:0xe268f926fd1c18cb"
+      },
+      {
+        "note": 5,
+        "texte": "Je me suis rendu là-bas pour renseignements pour un boîtier électronique..\nLa personne m'a de suite répondu et expliqué le devis.\nJe recommande ce magasin.",
+        "langue": "fr",
+        "date": "2026-01-26",
+        "auteur": "Sandrine Puente",
+        "auteur_lien": "https://www.google.com/maps/contrib/105475351323387436876/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2pndFlrOHRkM1I0UTNwR2RXcEZNV1J2V0c0M1ZHYxAB!2m1!1s0x12ac0f02e981eaa3:0xe268f926fd1c18cb"
+      },
+      {
+        "note": 1,
+        "texte": "Le manager du pôle téléphonique est pas très communicatif et hausse les gens en mode demerde toi mauvaise expérience aucun soutien aucune formation te laisse comme un objet une seule personne m a aider une gentille femme au pôle téléphonique avec un côté humain avant de dire tu as du mal a intégré une équipe mettez les moyens pour !!!! Plutôt que de voir que le compteur d appels et que vos voyant soit aux vert sur les statistiques d appels !!! Le chifffes appels etc vendre vendre respect des clients !!!!",
+        "langue": "fr",
+        "date": "2025-10-21",
+        "auteur": "Didier Chouet",
+        "auteur_lien": "https://www.google.com/maps/contrib/105957799460139191580/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2s1dlZHRlNjREZyVEVORGRHTXdkR2xHVDA1cVIxRRAB!2m1!1s0x12ac0f02e981eaa3:0xe268f926fd1c18cb"
+      },
+      {
+        "note": 5,
+        "texte": "Aujourd'hui, je suis comblée par les renseignements que m'a donné Christophe Zanderigo! Il a été d'une efficacité extraordinaire concernant 2 questions précises que je lui ai posée et qui ont débloqué une situation complexe ! Encore merci Christophe !",
+        "langue": "fr",
+        "date": "2025-04-29",
+        "auteur": "Aurelie Astruc",
+        "auteur_lien": "https://www.google.com/maps/contrib/112088477697286219099/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnTURvaDd1eEJnEAE!2m1!1s0x12ac0f02e981eaa3:0xe268f926fd1c18cb"
+      },
+      {
+        "note": 5,
+        "texte": "Accueil très sympathique, les employés sont super, le patron également. J'ai demander pour une douche la veille de mon chargement, on me l'a accordé, le lendemain matin tout le monde était déjà là, prêt à charger, j'ai eu droit au café offert par le patron, un endroit dont beaucoup de société devraient s'inspirer. Je recommande fortement. ♥️\nLe chauffeur Loriot.",
+        "langue": "fr",
+        "date": "2024-08-14",
+        "auteur": "Cheeki_",
+        "auteur_lien": "https://www.google.com/maps/contrib/117225219682698980483/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUM3NHB2am5BRRAB!2m1!1s0x12ac0f02e981eaa3:0xe268f926fd1c18cb"
+      }
+    ]
+  },
+  "services": {
+    "releve": "2026-11-02",
+    "options": {
+      "restroom": true
+    },
+    "paiement": [
+      "carte bancaire",
+      "carte de débit",
+      "paiement sans contact"
+    ],
+    "parking": []
+  },
+  "redaction": {
+    "version": 2,
+    "titre": "SOPRA - plaque DISTRIGO — Garage et automobile à Montauban",
+    "meta_titre": "SOPRA - plaque DISTRIGO à Montauban : horaires, avis",
+    "meta_description": "SOPRA - plaque DISTRIGO, garage et automobile à Montauban : horaires d'ouverture, note Google 4,4/5 (56 avis), téléphone, adresse et itinéraire.",
+    "chapo": "SOPRA - plaque DISTRIGO exerce l'activité de garage et automobile au 1799 Avenue d'Italie, à Montauban. Fermé le samedi et le dimanche au relevé du 2 novembre 2026. Téléphone : 05 63 02 28 49. Note Google : 4,4 sur 5 pour 56 avis.",
+    "sections": [
+      {
+        "id": "presentation",
+        "titre": "SOPRA - plaque DISTRIGO en quelques mots",
+        "paragraphes": [
+          "Sur Google, l'établissement est classé « Garage automobile », dans notre rubrique Garage et automobile.",
+          "D'après le relevé du 2 novembre 2026, l'établissement est fermé le samedi et le dimanche. Le détail jour par jour figure plus bas."
+        ]
+      },
+      {
+        "id": "prestations",
+        "titre": "Services et équipements de SOPRA - plaque DISTRIGO",
+        "paragraphes": [
+          "Proposé : toilettes.",
+          "Moyens de paiement déclarés : carte bancaire, carte de débit et paiement sans contact.",
+          "Ces indications sont déclarées par l'établissement sur sa fiche Google (relevé du 2 novembre 2026)."
+        ]
+      },
+      {
+        "id": "acces",
+        "titre": "Adresse et accès",
+        "paragraphes": [
+          "L'établissement est situé au 1799 Avenue d'Italie, 82000 Montauban.",
+          "Coordonnées GPS : 43.97266, 1.31973. Le bouton Itinéraire de cette page ouvre la navigation."
+        ]
+      },
+      {
+        "id": "contact",
+        "titre": "Contacter SOPRA - plaque DISTRIGO",
+        "paragraphes": [
+          "Le contact se fait par téléphone au 05 63 02 28 49, ou directement sur place aux horaires d'ouverture."
+        ]
+      },
+      {
+        "id": "avis",
+        "titre": "La réputation de SOPRA - plaque DISTRIGO",
+        "paragraphes": [
+          "Note de 4,4 sur 5 pour 56 avis Google au relevé du 2 novembre 2026. Les avis les plus parlants sont compilés ci-dessous, avec un lien vers la fiche d'origine."
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "q": "Quels sont les horaires de SOPRA - plaque DISTRIGO ?",
+        "r": "Au relevé du 2 novembre 2026, SOPRA - plaque DISTRIGO était fermé le samedi et le dimanche. Dans le détail — lundi : de 9 h à 12 h et de 14 h à 17 h ; mardi : de 9 h à 12 h et de 14 h à 17 h ; mercredi : de 9 h à 12 h et de 14 h à 17 h ; jeudi : de 9 h à 12 h et de 14 h à 17 h ; vendredi : de 9 h à 12 h et de 14 h à 17 h ; samedi : fermé ; dimanche : fermé. Ces horaires peuvent changer : un appel préalable reste conseillé."
+      },
+      {
+        "q": "SOPRA - plaque DISTRIGO est-il ouvert le dimanche ?",
+        "r": "Non : d'après les horaires relevés le 2 novembre 2026, SOPRA - plaque DISTRIGO est fermé le dimanche."
+      },
+      {
+        "q": "Où se trouve SOPRA - plaque DISTRIGO ?",
+        "r": "SOPRA - plaque DISTRIGO se trouve 1799 Av. d'Italie, 82000 Montauban. Un lien d'itinéraire est disponible sur cette page."
+      },
+      {
+        "q": "Comment contacter SOPRA - plaque DISTRIGO ?",
+        "r": "Par téléphone au 05 63 02 28 49, ou directement sur place aux heures d'ouverture."
+      },
+      {
+        "q": "SOPRA - plaque DISTRIGO est-il accessible aux personnes à mobilité réduite ?",
+        "r": "La fiche Google de l'établissement mentionne : « Entrée accessible en fauteuil roulant ». Cette information est déclarative ; en cas de doute, vérifiez par téléphone."
+      }
+    ],
+    "genere_le": "2026-11-02"
+  },
+  "statut_google": "OPERATIONAL",
+  "audience": {
+    "clics": 0,
+    "impressions": 0,
+    "position": null,
+    "fenetreJours": 90,
+    "clicsRecents": 0,
+    "fenetreRecenteJours": 28,
+    "source": "search-console",
+    "date": "2026-11-02"
+  }
+}

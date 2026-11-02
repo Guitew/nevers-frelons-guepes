@@ -119,8 +119,8 @@
     "etat": "absent",
     "premiere_detection": null,
     "derniere_detection": null,
-    "derniere_verification": "2026-10-19T10:42:12.979Z",
-    "echecs": 64,
+    "derniere_verification": "2026-11-02T13:26:12.013Z",
+    "echecs": 65,
     "url_detectee": null
   },
   "suggestion": {
@@ -138,7 +138,7 @@
   "dates": {
     "collecte": "2026-09-05",
     "publication": "2026-09-05",
-    "maj": "2026-10-20"
+    "maj": "2026-11-02"
   },
   "source": "google-places",
   "redaction": {
@@ -146,14 +146,22 @@
     "titre": "Garage De La Boutinière — Garage et automobile à La Roche-sur-Yon",
     "meta_titre": "Garage De La Boutinière à La Roche-sur-Yon : horaires, avis",
     "meta_description": "Garage De La Boutinière, garage et automobile à La Roche-sur-Yon : horaires d'ouverture, note Google 4,3/5 (84 avis), téléphone, adresse et itinéraire.",
-    "chapo": "Cette fiche présente Garage De La Boutinière, un garage et automobile au 182 Route des Sables, à La Roche-sur-Yon. Fermé le samedi et le dimanche au relevé du 9 octobre 2026. Téléphone : 02 51 36 31 47. Note Google : 4,3 sur 5 pour 84 avis.",
+    "chapo": "Cette fiche présente Garage De La Boutinière, un garage et automobile au 182 Route des Sables, à La Roche-sur-Yon. Fermé le samedi et le dimanche au relevé du 2 novembre 2026. Téléphone : 02 51 36 31 47. Note Google : 4,3 sur 5 pour 84 avis.",
     "sections": [
       {
         "id": "presentation",
         "titre": "Garage De La Boutinière en quelques mots",
         "paragraphes": [
           "Sur Google, l'établissement est classé « Concessionnaire automobile », dans notre rubrique Garage et automobile.",
-          "D'après le relevé du 9 octobre 2026, l'établissement est fermé le samedi et le dimanche. Le détail jour par jour figure plus bas."
+          "D'après le relevé du 2 novembre 2026, l'établissement est fermé le samedi et le dimanche. Le détail jour par jour figure plus bas."
+        ]
+      },
+      {
+        "id": "prestations",
+        "titre": "Services et équipements de Garage De La Boutinière",
+        "paragraphes": [
+          "Moyens de paiement déclarés : carte bancaire, carte de débit et paiement sans contact.",
+          "Ces indications sont déclarées par l'établissement sur sa fiche Google (relevé du 2 novembre 2026)."
         ]
       },
       {
@@ -175,18 +183,18 @@
         "id": "avis",
         "titre": "La réputation de Garage De La Boutinière",
         "paragraphes": [
-          "Note de 4,3 sur 5 pour 84 avis Google au relevé du 9 octobre 2026. Les avis se consultent sur la fiche Google, dont le lien figure sur cette page."
+          "Note de 4,3 sur 5 pour 84 avis Google au relevé du 2 novembre 2026. Les avis les plus parlants sont compilés ci-dessous, avec un lien vers la fiche d'origine."
         ]
       }
     ],
     "faq": [
       {
         "q": "Quels sont les horaires de Garage De La Boutinière ?",
-        "r": "Au relevé du 9 octobre 2026, Garage De La Boutinière était fermé le samedi et le dimanche. Dans le détail — lundi : de 14 h à 18 h 30 ; mardi : de 8 h 30 à 12 h 30 et de 14 h à 18 h 30 ; mercredi : de 8 h 30 à 12 h 30 et de 14 h à 18 h 30 ; jeudi : de 8 h 30 à 12 h 30 et de 14 h à 18 h 30 ; vendredi : de 8 h 30 à 12 h 30 et de 14 h à 18 h 30 ; samedi : fermé ; dimanche : fermé. Ces horaires peuvent changer : un appel préalable reste conseillé."
+        "r": "Au relevé du 2 novembre 2026, Garage De La Boutinière était fermé le samedi et le dimanche. Dans le détail — lundi : de 14 h à 18 h 30 ; mardi : de 8 h 30 à 12 h 30 et de 14 h à 18 h 30 ; mercredi : de 8 h 30 à 12 h 30 et de 14 h à 18 h 30 ; jeudi : de 8 h 30 à 12 h 30 et de 14 h à 18 h 30 ; vendredi : de 8 h 30 à 12 h 30 et de 14 h à 18 h 30 ; samedi : fermé ; dimanche : fermé. Ces horaires peuvent changer : un appel préalable reste conseillé."
       },
       {
         "q": "Garage De La Boutinière est-il ouvert le dimanche ?",
-        "r": "Non : d'après les horaires relevés le 9 octobre 2026, Garage De La Boutinière est fermé le dimanche."
+        "r": "Non : d'après les horaires relevés le 2 novembre 2026, Garage De La Boutinière est fermé le dimanche."
       },
       {
         "q": "Où se trouve Garage De La Boutinière ?",
@@ -201,7 +209,7 @@
         "r": "La fiche Google de l'établissement mentionne : « Entrée accessible en fauteuil roulant ». Cette information est déclarative ; en cas de doute, vérifiez par téléphone."
       }
     ],
-    "genere_le": "2026-10-09"
+    "genere_le": "2026-11-02"
   },
   "statut_google": "OPERATIONAL",
   "audience": {
@@ -212,7 +220,7 @@
     "clicsRecents": 0,
     "fenetreRecenteJours": 28,
     "source": "search-console",
-    "date": "2026-11-01"
+    "date": "2026-11-02"
   },
   "indexation": {
     "etat": "non-indexee",
@@ -222,5 +230,65 @@
     "canonique_google": null,
     "source": "inspection",
     "date": "2026-10-20"
+  },
+  "avis_detail": {
+    "releve": "2026-11-02",
+    "liste": [
+      {
+        "note": 5,
+        "texte": "Très bon garage que je fréquente depuis 7 ans ! Ma voiture est toujours très bien soignée et à bon escient, service rapide, tarif horaire très raisonnable, beaucoup moins cher que chez un concessionnaire qui n'aurait pas pris en charge les petits bobos de ma vieille voiture..., accueil très sympathique. Je le recommande.",
+        "langue": "fr",
+        "date": "2026-06-10",
+        "auteur": "Boisseau Marie-Geneviève",
+        "auteur_lien": "https://www.google.com/maps/contrib/115015098386932007191/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2w5SldERnJYMHhMT0Y4dGRYWmxUelp3ZFRsd2IyYxAB!2m1!1s0x4804300a4b024dbd:0x877a90fb260a7f91"
+      },
+      {
+        "note": 5,
+        "texte": "Garage qui s'occupe de ma voiture et de celle de mon père.\nGarage à taille humaine, accueillant, professionnel et compétent, réactif et arrangeant.\nJe le recommande à 100 %.",
+        "langue": "fr",
+        "date": "2026-05-21",
+        "auteur": "Phil M",
+        "auteur_lien": "https://www.google.com/maps/contrib/103212065956624368123/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT204NGRFMTRiVzFVWjFoc1luaHNaM3BRVm5wSlRtYxAB!2m1!1s0x4804300a4b024dbd:0x877a90fb260a7f91"
+      },
+      {
+        "note": 1,
+        "texte": "J'espère qu'il savent resserrer correctement les boulons de roues de voiture car il y a un certain temps. Suite a une réparation d'un pneu sur ma Citroën BX. Je me suis retrouvé sur trois roues en pleine ville. Bonjour les mécaniciens  🫢 ou",
+        "langue": "fr",
+        "date": "2026-05-18",
+        "auteur": "Ricardo Padilla",
+        "auteur_lien": "https://www.google.com/maps/contrib/105376614037161616848/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xweE5HVkJUV2hNUW1GSlVXbDZjME5MZFdsblMyYxAB!2m1!1s0x4804300a4b024dbd:0x877a90fb260a7f91"
+      },
+      {
+        "note": 5,
+        "texte": "Personnel sympathique, prise en charge rapide de mon véhicule suite à une surchauffe moteur et réparation rapide (mon véhicule à été réparé en 2 jours à peine) pour un prix plus que correct selon moi.\nVous pouvez confier votre véhicule sans crainte à ce garage.",
+        "langue": "fr",
+        "date": "2025-11-28",
+        "auteur": "Loïc Boisrobert (raykorime)",
+        "auteur_lien": "https://www.google.com/maps/contrib/115093281332404223908/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT205R1JUQTVhV2hSWTFac01YaHBWbUV0U0hadE1FRRAB!2m1!1s0x4804300a4b024dbd:0x877a90fb260a7f91"
+      },
+      {
+        "note": 5,
+        "texte": "Départ en vacances, me suis retrouvée en panne dans ce garage à 12h , ils fermaient à 18h30 pour leurs vacances et leur journée était bien complète. Ils ont sauvé mes vacances ce sont occupés de ma voiture et ont été charmants et très serviables! Beaucoup d’empathie, le genre de personne qui ne vous laisse pas sur le bord de la route. Je recommande +++",
+        "langue": "fr",
+        "date": "2025-08-07",
+        "auteur": "Sophie “Sophie O” O",
+        "auteur_lien": "https://www.google.com/maps/contrib/100522546631640377668/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25CRFdtczNabFJzUWxWRVYyOHlPVXRKWDB0dFQxRRAB!2m1!1s0x4804300a4b024dbd:0x877a90fb260a7f91"
+      }
+    ]
+  },
+  "services": {
+    "releve": "2026-11-02",
+    "options": {},
+    "paiement": [
+      "carte bancaire",
+      "carte de débit",
+      "paiement sans contact"
+    ],
+    "parking": []
   }
 }

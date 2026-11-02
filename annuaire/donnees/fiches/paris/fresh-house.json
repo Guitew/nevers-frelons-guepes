@@ -27,7 +27,7 @@
     "longitude": 2.4001268
   },
   "note": 4.7,
-  "avis": 565,
+  "avis": 569,
   "horaires": [
     {
       "jour": 0,
@@ -114,8 +114,8 @@
     "etat": "absent",
     "premiere_detection": null,
     "derniere_detection": null,
-    "derniere_verification": "2026-10-19T10:42:12.979Z",
-    "echecs": 9,
+    "derniere_verification": "2026-11-02T13:26:12.013Z",
+    "echecs": 10,
     "url_detectee": null
   },
   "suggestion": {
@@ -128,21 +128,33 @@
   "dates": {
     "collecte": "2026-10-02",
     "publication": "2026-10-02",
-    "maj": "2026-10-19"
+    "maj": "2026-11-02"
   },
   "source": "google-places",
   "redaction": {
     "version": 2,
     "titre": "Fresh House — Restaurant à Paris",
     "meta_titre": "Fresh House à Paris : horaires, avis, téléphone",
-    "meta_description": "Fresh House, restaurant à Paris : horaires d'ouverture, note Google 4,7/5 (565 avis), téléphone, adresse et itinéraire.",
-    "chapo": "Fresh House, restaurant au 189 Rue des Pyrénées, à Paris. Ouvert sept jours sur sept au relevé du 9 octobre 2026. Téléphone : 09 80 24 02 20. Note Google : 4,7 sur 5 pour 565 avis.",
+    "meta_description": "Fresh House, restaurant à Paris : horaires d'ouverture, note Google 4,7/5 (569 avis), téléphone, adresse et itinéraire.",
+    "chapo": "Fresh House, restaurant au 189 Rue des Pyrénées, à Paris. Ouvert sept jours sur sept au relevé du 2 novembre 2026. Téléphone : 09 80 24 02 20. Note Google : 4,7 sur 5 pour 569 avis.",
     "sections": [
       {
         "id": "presentation",
         "titre": "Fresh House en quelques mots",
         "paragraphes": [
-          "D'après le relevé du 9 octobre 2026, l'établissement est ouvert sept jours sur sept. Le détail jour par jour figure plus bas."
+          "Niveau de prix indiqué sur la fiche Google : €€ (modéré).",
+          "D'après le relevé du 2 novembre 2026, l'établissement est ouvert sept jours sur sept. Le détail jour par jour figure plus bas."
+        ]
+      },
+      {
+        "id": "prestations",
+        "titre": "Services et équipements de Fresh House",
+        "paragraphes": [
+          "Proposé : sur place, à emporter, livraison, déjeuner, dîner, café, adapté aux enfants, adapté aux groupes et toilettes.",
+          "Non proposé selon la fiche Google : retrait en voiture, bière, vin, cocktails et musique live.",
+          "Moyens de paiement déclarés : carte bancaire, carte de débit et paiement sans contact.",
+          "Stationnement : stationnement payant dans la rue.",
+          "Ces indications sont déclarées par l'établissement sur sa fiche Google (relevé du 2 novembre 2026)."
         ]
       },
       {
@@ -164,18 +176,18 @@
         "id": "avis",
         "titre": "La réputation de Fresh House",
         "paragraphes": [
-          "Note de 4,7 sur 5 pour 565 avis Google au relevé du 9 octobre 2026. Les avis se consultent sur la fiche Google, dont le lien figure sur cette page."
+          "Note de 4,7 sur 5 pour 569 avis Google au relevé du 2 novembre 2026. Les avis les plus parlants sont compilés ci-dessous, avec un lien vers la fiche d'origine."
         ]
       }
     ],
     "faq": [
       {
         "q": "Quels sont les horaires de Fresh House ?",
-        "r": "Au relevé du 9 octobre 2026, Fresh House était ouvert sept jours sur sept. Dans le détail — lundi : de 11 h à 2 h ; mardi : de 11 h à 2 h ; mercredi : de 11 h à 2 h ; jeudi : de 11 h à 2 h ; vendredi : de 11 h à 13 h 30 et de 14 h 30 à 2 h ; samedi : de 11 h à 2 h ; dimanche : de 11 h à 2 h. Ces horaires peuvent changer : un appel préalable reste conseillé."
+        "r": "Au relevé du 2 novembre 2026, Fresh House était ouvert sept jours sur sept. Dans le détail — lundi : de 11 h à 2 h ; mardi : de 11 h à 2 h ; mercredi : de 11 h à 2 h ; jeudi : de 11 h à 2 h ; vendredi : de 11 h à 13 h 30 et de 14 h 30 à 2 h ; samedi : de 11 h à 2 h ; dimanche : de 11 h à 2 h. Ces horaires peuvent changer : un appel préalable reste conseillé."
       },
       {
         "q": "Fresh House est-il ouvert le dimanche ?",
-        "r": "Oui : le dimanche, Fresh House est ouvert de 11 h à 2 h (horaires relevés le 9 octobre 2026)."
+        "r": "Oui : le dimanche, Fresh House est ouvert de 11 h à 2 h (horaires relevés le 2 novembre 2026)."
       },
       {
         "q": "Où se trouve Fresh House ?",
@@ -186,11 +198,19 @@
         "r": "Par téléphone au 09 80 24 02 20, ou directement sur place aux heures d'ouverture."
       },
       {
+        "q": "Fresh House propose-t-il la vente à emporter ou la livraison ?",
+        "r": "D'après sa fiche Google (relevé du 2 novembre 2026) — vente à emporter : oui ; livraison : oui."
+      },
+      {
+        "q": "Quel est le niveau de prix de Fresh House ?",
+        "r": "Google classe Fresh House au niveau de prix €€ (modéré), sur une échelle de € à €€€€ établie à partir des avis clients."
+      },
+      {
         "q": "Fresh House est-il accessible aux personnes à mobilité réduite ?",
         "r": "La fiche Google de l'établissement mentionne : « Places assises accessibles en fauteuil roulant ». Cette information est déclarative ; en cas de doute, vérifiez par téléphone."
       }
     ],
-    "genere_le": "2026-10-09"
+    "genere_le": "2026-11-02"
   },
   "statut_google": "OPERATIONAL",
   "audience": {
@@ -201,6 +221,84 @@
     "clicsRecents": 0,
     "fenetreRecenteJours": 28,
     "source": "search-console",
-    "date": "2026-11-01"
+    "date": "2026-11-02"
+  },
+  "avis_detail": {
+    "releve": "2026-11-02",
+    "liste": [
+      {
+        "note": 1,
+        "texte": "Très déçu. Le sandwich était vraiment mauvais, avec peu de goût et des ingrédients de mauvaise qualité. Les frites n’étaient même pas cuites correctement, elles étaient molles et presque crues. Pour le prix, je m’attendais à beaucoup mieux. Je ne recommande pas ce restaurant.",
+        "langue": "fr",
+        "date": "2026-06-11",
+        "auteur": "Younes Essid",
+        "auteur_lien": "https://www.google.com/maps/contrib/105691293109666956167/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25ndE0ySnhWRWxFVEROTlMwTklTM1JaTTI1R2JVRRAB!2m1!1s0x47e66d5f2a6cb10d:0xfc0b4eb00acdf770"
+      },
+      {
+        "note": 5,
+        "texte": "Le meilleur chicken rouge de Paris 20eme meme de Paris nord-est, pain fait maison, marinade incroyable, frites fraiches, produits frais non franchement c’est tres tres fort.\nVous pouvez y aller sans soucis. Excellent rapport qualité/prix.",
+        "langue": "fr",
+        "date": "2026-01-28",
+        "auteur": "Rayan Tlemceni",
+        "auteur_lien": "https://www.google.com/maps/contrib/114271812776982460266/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xsS05UZE9UMWd6WDNaelJXcG5XV05uTlZwM1NVRRAB!2m1!1s0x47e66d5f2a6cb10d:0xfc0b4eb00acdf770"
+      },
+      {
+        "note": 5,
+        "texte": "Without a doubt, the best burgers we had. We ate here three days in a row — generous portions, great flavor, and very good prices. / Sans aucun doute, les meilleurs burgers que nous ayons mangés. Nous y avons mangé trois jours de suite : portions généreuses, très bon goût et excellent rapport qualité-prix.",
+        "langue": "fr",
+        "date": "2025-12-03",
+        "auteur": "Carolina Lomeli",
+        "auteur_lien": "https://www.google.com/maps/contrib/109870781293634695998/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2pSM05UQklTSEZCVjIxTE9XOXpSVkpTUnpsRGVtYxAB!2m1!1s0x47e66d5f2a6cb10d:0xfc0b4eb00acdf770"
+      },
+      {
+        "note": 5,
+        "texte": "ma femme a vu un post sur instagram pour ce restaurant.\nje suis parti sur vélo, et je vais vous dire c’est pas le meilleur endroit à visiter a Paris.\nBon, j’ai disé dans ma tête, qu’elle mauvaise décisions ! elle m’a amenée a un kababier dans le 20eme.\nbon c’été pas du tout le cas.\n1- quantité extrêmement généreux.\n2- viande qualitatif jusqu’à bout.\n3- frites maison très bonne\n4- la viande et le poulet ont pas perdu leur jus.\n5- tu peux régaler pour 12 euro! c pas évident a Paris!\n\nexcellente expérience. a revisiter bien sûr",
+        "langue": "fr",
+        "date": "2025-09-28",
+        "auteur": "mark dibeh",
+        "auteur_lien": "https://www.google.com/maps/contrib/100632073303001127458/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2poUWExODNjVFEwTkRGc00zTnhPSEpxYTNkMFNVRRAB!2m1!1s0x47e66d5f2a6cb10d:0xfc0b4eb00acdf770"
+      },
+      {
+        "note": 5,
+        "texte": "A 2 pas de la place Gambetta, ce restaurant de burgers ne paye pas de mine mais c'est une belle découverte. Les portions sont énormes , je n'ai pas pu finir, j'ai emmené le reste. Les frites et le pain maison font toute la différence.J'ai pris le burger \" le ranch\" avec frites et mon fils le sandwich chicken tandoori avec frites/cheddar/bacon. Les prix sont raisonnables compte tenu de la quantité. Il y a même une télé pour les soirs de match. Un seul mot, allez-y.",
+        "langue": "fr",
+        "date": "2025-05-27",
+        "auteur": "Lionel Varma",
+        "auteur_lien": "https://www.google.com/maps/contrib/108108455995889975809/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VOQzFxWTY2NEllZnR3RRAB!2m1!1s0x47e66d5f2a6cb10d:0xfc0b4eb00acdf770"
+      }
+    ]
+  },
+  "services": {
+    "releve": "2026-11-02",
+    "prix": "PRICE_LEVEL_MODERATE",
+    "options": {
+      "dineIn": true,
+      "takeout": true,
+      "delivery": true,
+      "curbsidePickup": false,
+      "servesLunch": true,
+      "servesDinner": true,
+      "servesCoffee": true,
+      "servesBeer": false,
+      "servesWine": false,
+      "servesCocktails": false,
+      "goodForChildren": true,
+      "goodForGroups": true,
+      "liveMusic": false,
+      "restroom": true
+    },
+    "paiement": [
+      "carte bancaire",
+      "carte de débit",
+      "paiement sans contact"
+    ],
+    "parking": [
+      "stationnement payant dans la rue"
+    ]
   }
 }

@@ -30,7 +30,7 @@
     "longitude": 5.3878902
   },
   "note": 4.4,
-  "avis": 1668,
+  "avis": 1667,
   "horaires": [
     {
       "jour": 0,
@@ -113,8 +113,8 @@
     "etat": "absent",
     "premiere_detection": null,
     "derniere_detection": null,
-    "derniere_verification": "2026-10-29T11:28:47.587Z",
-    "echecs": 68,
+    "derniere_verification": "2026-11-02T13:26:12.013Z",
+    "echecs": 69,
     "url_detectee": null
   },
   "suggestion": {
@@ -132,21 +132,33 @@
   "dates": {
     "collecte": "2026-09-01",
     "publication": "2026-09-01",
-    "maj": "2026-10-29"
+    "maj": "2026-11-02"
   },
   "source": "google-places",
   "redaction": {
     "version": 2,
     "titre": "Longchamp Palace — Restaurant à Marseille",
     "meta_titre": "Longchamp Palace à Marseille : horaires, avis, téléphone",
-    "meta_description": "Longchamp Palace, restaurant à Marseille : horaires d'ouverture, note Google 4,4/5 (1666 avis), téléphone, adresse et itinéraire.",
-    "chapo": "Longchamp Palace exerce l'activité de restaurant au 22 Boulevard Longchamp, à Marseille. Ouvert sept jours sur sept au relevé du 18 octobre 2026. Téléphone : 04 86 97 22 59. Note Google : 4,4 sur 5 pour 1666 avis.",
+    "meta_description": "Longchamp Palace, restaurant à Marseille : horaires d'ouverture, note Google 4,4/5 (1667 avis), téléphone, adresse et itinéraire.",
+    "chapo": "Longchamp Palace exerce l'activité de restaurant au 22 Boulevard Longchamp, à Marseille. Ouvert sept jours sur sept au relevé du 2 novembre 2026. Téléphone : 04 86 97 22 59. Note Google : 4,4 sur 5 pour 1667 avis.",
     "sections": [
       {
         "id": "presentation",
         "titre": "Longchamp Palace en quelques mots",
         "paragraphes": [
-          "D'après le relevé du 18 octobre 2026, l'établissement est ouvert sept jours sur sept. Le détail jour par jour figure plus bas."
+          "Présentation donnée par Google : « Restaurant branché de style décontracté doté d'une cour verdoyante et proposant des plats français traditionnels et des boissons. »",
+          "Niveau de prix indiqué sur la fiche Google : €€ (modéré).",
+          "D'après le relevé du 2 novembre 2026, l'établissement est ouvert sept jours sur sept. Le détail jour par jour figure plus bas."
+        ]
+      },
+      {
+        "id": "prestations",
+        "titre": "Services et équipements de Longchamp Palace",
+        "paragraphes": [
+          "Proposé : sur place, réservation possible, terrasse, petit-déjeuner, brunch, déjeuner, dîner, plats végétariens, café, bière, vin, cocktails, adapté aux groupes et toilettes.",
+          "Non proposé selon la fiche Google : à emporter, livraison, menu enfant, adapté aux enfants, retransmissions sportives et musique live.",
+          "Moyens de paiement déclarés : carte bancaire, carte de débit et paiement sans contact.",
+          "Ces indications sont déclarées par l'établissement sur sa fiche Google (relevé du 2 novembre 2026)."
         ]
       },
       {
@@ -161,25 +173,26 @@
         "id": "contact",
         "titre": "Contacter Longchamp Palace",
         "paragraphes": [
-          "Le contact se fait par téléphone au 04 86 97 22 59, ou directement sur place aux horaires d'ouverture."
+          "Le contact se fait par téléphone au 04 86 97 22 59, ou directement sur place aux horaires d'ouverture.",
+          "La fiche Google indique que la réservation est possible."
         ]
       },
       {
         "id": "avis",
         "titre": "La réputation de Longchamp Palace",
         "paragraphes": [
-          "Note de 4,4 sur 5 pour 1666 avis Google au relevé du 18 octobre 2026. Les avis se consultent sur la fiche Google, dont le lien figure sur cette page."
+          "Note de 4,4 sur 5 pour 1667 avis Google au relevé du 2 novembre 2026. Les avis les plus parlants sont compilés ci-dessous, avec un lien vers la fiche d'origine."
         ]
       }
     ],
     "faq": [
       {
         "q": "Quels sont les horaires de Longchamp Palace ?",
-        "r": "Au relevé du 18 octobre 2026, Longchamp Palace était ouvert sept jours sur sept. Dans le détail — lundi : de 8 h à 1 h ; mardi : de 8 h à 1 h ; mercredi : de 8 h à 1 h ; jeudi : de 8 h à 1 h ; vendredi : de 8 h à 2 h ; samedi : de 8 h à 2 h ; dimanche : de 9 h à 1 h. Ces horaires peuvent changer : un appel préalable reste conseillé."
+        "r": "Au relevé du 2 novembre 2026, Longchamp Palace était ouvert sept jours sur sept. Dans le détail — lundi : de 8 h à 1 h ; mardi : de 8 h à 1 h ; mercredi : de 8 h à 1 h ; jeudi : de 8 h à 1 h ; vendredi : de 8 h à 2 h ; samedi : de 8 h à 2 h ; dimanche : de 9 h à 1 h. Ces horaires peuvent changer : un appel préalable reste conseillé."
       },
       {
         "q": "Longchamp Palace est-il ouvert le dimanche ?",
-        "r": "Oui : le dimanche, Longchamp Palace est ouvert de 9 h à 1 h (horaires relevés le 18 octobre 2026)."
+        "r": "Oui : le dimanche, Longchamp Palace est ouvert de 9 h à 1 h (horaires relevés le 2 novembre 2026)."
       },
       {
         "q": "Où se trouve Longchamp Palace ?",
@@ -190,11 +203,23 @@
         "r": "Par téléphone au 04 86 97 22 59, ou directement sur place aux heures d'ouverture."
       },
       {
+        "q": "Peut-on réserver chez Longchamp Palace ?",
+        "r": "Oui, la fiche Google de Longchamp Palace indique que la réservation est possible, par téléphone au 04 86 97 22 59."
+      },
+      {
+        "q": "Longchamp Palace propose-t-il la vente à emporter ou la livraison ?",
+        "r": "D'après sa fiche Google (relevé du 2 novembre 2026) — vente à emporter : non ; livraison : non."
+      },
+      {
+        "q": "Quel est le niveau de prix de Longchamp Palace ?",
+        "r": "Google classe Longchamp Palace au niveau de prix €€ (modéré), sur une échelle de € à €€€€ établie à partir des avis clients."
+      },
+      {
         "q": "Longchamp Palace est-il accessible aux personnes à mobilité réduite ?",
         "r": "La fiche Google de l'établissement mentionne : « Toilettes accessibles en fauteuil roulant ». Cette information est déclarative ; en cas de doute, vérifiez par téléphone."
       }
     ],
-    "genere_le": "2026-10-18"
+    "genere_le": "2026-11-02"
   },
   "statut_google": "OPERATIONAL",
   "audience": {
@@ -205,7 +230,7 @@
     "clicsRecents": 0,
     "fenetreRecenteJours": 28,
     "source": "search-console",
-    "date": "2026-11-01"
+    "date": "2026-11-02"
   },
   "indexation": {
     "etat": "non-indexee",
@@ -215,5 +240,89 @@
     "canonique_google": null,
     "source": "inspection",
     "date": "2026-10-19"
+  },
+  "avis_detail": {
+    "releve": "2026-11-02",
+    "liste": [
+      {
+        "note": 1,
+        "texte": "Ce resto qui fût jadis un lieu sympa avec une cuisine originale et un service chaleureux est devenu un repère de cassos vulgaires , sales, antipathiques voir agressifs et servant des plats immangeables. On ne mange même pas un quart de l'assiette et la serveuse ne s'inquiète même pas de comprendre pourquoi, elle doit savoir elle même comment c'est préparé en cuisine.\nPour être en plus malade toute la nuit, franchement ça dégoute rien qu'à l'idée de passer devant maintenant.\nTant pis pour eux, c'est pas les alternatives qui manquent à Marseille, surtout dans la rue",
+        "langue": "fr",
+        "date": "2026-08-27",
+        "auteur": "Sylvain Prevost",
+        "auteur_lien": "https://www.google.com/maps/contrib/102601222777537737080/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT21KdldsQnZaVlk0YUV4VVh6RnhOa1JZVFhJd1NXYxAB!2m1!1s0x12c9c098daddcce3:0xa11b3d2f70150891"
+      },
+      {
+        "note": 5,
+        "texte": "Excellent dîner au Longchamp Palace. Les couteaux étaient justes incroyables ! Le lieu est très convivial :) Les plats étaient excellents, nous nous sommes régalés !",
+        "langue": "fr",
+        "date": "2026-07-17",
+        "auteur": "Arnaud Bracq",
+        "auteur_lien": "https://www.google.com/maps/contrib/101493841217021470981/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT205NFJERkVSamh6UTNCd1R5MXlRbk5YYlZReFNsRRAB!2m1!1s0x12c9c098daddcce3:0xa11b3d2f70150891"
+      },
+      {
+        "note": 4,
+        "texte": "Une équipe tres chaleureuse et accueillante servant des plats atypiques et savoureux\nLe restaurant dispose d'un patio à l'arrière, très agréable !",
+        "langue": "fr",
+        "date": "2026-07-07",
+        "auteur": "Clara N",
+        "auteur_lien": "https://www.google.com/maps/contrib/106476918112085963372/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2pjMlkzcHZiMnhpWmsxUlowZDRXbUZZTW05V2JtYxAB!2m1!1s0x12c9c098daddcce3:0xa11b3d2f70150891"
+      },
+      {
+        "note": 5,
+        "texte": "Excellents plats, service relativement rapide vu le monde, personnel super aimable et attentionné. Excellentes sauces, accompagnements originaux. Desserts faits maison. Très bon moment dans ce joli bistrot. J'ai tenté un Chou farci végé, il était délicieux, une belle surprise pour moi qui ne suis pas végétarienne ! Joue de boeuf avec chips de panais et émulsion de cerfeuil excellente également.",
+        "langue": "fr",
+        "date": "2025-12-27",
+        "auteur": "stephanie Miel",
+        "auteur_lien": "https://www.google.com/maps/contrib/118082336648740843577/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xOc05GVTFXR05HYVV0VWVuZFZkVGRpVTAwM1ZtYxAB!2m1!1s0x12c9c098daddcce3:0xa11b3d2f70150891"
+      },
+      {
+        "note": 5,
+        "texte": "Je recommande ce restaurant et notamment les entrées / tapas qui sont divin. Une véritable explosion de saveur et d’originalité en bouche.\n\nNous n’avons pas contre pas trouvé une explosion de sympathie et de convivialité auprès des serveurs. On nous a ignoré par ailleurs ignoré un bon moment alors que l’établissement n’était pas bondé.\n\npenser à réserver si vous voulez manger dans la petite cour à l’arrière du restaurant, il fait chaud certes, mais c’est très agréable .\n\nAttention, les toilettes sont petits peu sales .",
+        "langue": "fr",
+        "date": "2025-07-30",
+        "auteur": "B2n",
+        "auteur_lien": "https://www.google.com/maps/contrib/109909738321282924114/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25oU2RIcE1TMTk2VjFCQ2RHWlNlR2xDV0hCaFZXYxAB!2m1!1s0x12c9c098daddcce3:0xa11b3d2f70150891"
+      }
+    ]
+  },
+  "services": {
+    "releve": "2026-11-02",
+    "prix": "PRICE_LEVEL_MODERATE",
+    "resume": "Restaurant branché de style décontracté doté d'une cour verdoyante et proposant des plats français traditionnels et des boissons.",
+    "resume_langue": "fr",
+    "options": {
+      "dineIn": true,
+      "takeout": false,
+      "delivery": false,
+      "reservable": true,
+      "outdoorSeating": true,
+      "servesBreakfast": true,
+      "servesBrunch": true,
+      "servesLunch": true,
+      "servesDinner": true,
+      "servesVegetarianFood": true,
+      "servesCoffee": true,
+      "servesBeer": true,
+      "servesWine": true,
+      "servesCocktails": true,
+      "menuForChildren": false,
+      "goodForChildren": false,
+      "goodForGroups": true,
+      "goodForWatchingSports": false,
+      "liveMusic": false,
+      "restroom": true
+    },
+    "paiement": [
+      "carte bancaire",
+      "carte de débit",
+      "paiement sans contact"
+    ],
+    "parking": []
   }
 }

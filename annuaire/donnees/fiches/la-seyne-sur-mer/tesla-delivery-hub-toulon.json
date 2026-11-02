@@ -1,0 +1,264 @@
+{
+  "id": "ChIJ120yAAoFyRIR0QCyGbLO-bk",
+  "slug": "tesla-delivery-hub-toulon",
+  "nom": "Tesla delivery hub - TOULON",
+  "categorie": "garages-automobile",
+  "categorie_gmb": "Concessionnaire automobile",
+  "type_principal": "car_dealer",
+  "types": [
+    "car_dealer",
+    "store",
+    "point_of_interest",
+    "establishment"
+  ],
+  "ville": "La Seyne-sur-Mer",
+  "ville_slug": "la-seyne-sur-mer",
+  "adresse": {
+    "rue": "Zone Portuaire de Brégaillon",
+    "code_postal": "83500",
+    "departement": "83",
+    "region": "Provence-Alpes-Côte d'Azur",
+    "pays": "France",
+    "complete": "Zone Portuaire de Brégaillon, 83500 La Seyne-sur-Mer"
+  },
+  "telephone": "",
+  "geo": {
+    "latitude": 43.111706,
+    "longitude": 5.883501600000001
+  },
+  "note": 4.1,
+  "avis": 231,
+  "horaires": [
+    {
+      "jour": 0,
+      "ferme": false,
+      "creneaux": [
+        [
+          "10:00",
+          "17:00"
+        ]
+      ]
+    },
+    {
+      "jour": 1,
+      "ferme": false,
+      "creneaux": [
+        [
+          "10:00",
+          "17:00"
+        ]
+      ]
+    },
+    {
+      "jour": 2,
+      "ferme": false,
+      "creneaux": [
+        [
+          "10:00",
+          "17:00"
+        ]
+      ]
+    },
+    {
+      "jour": 3,
+      "ferme": false,
+      "creneaux": [
+        [
+          "10:00",
+          "17:00"
+        ]
+      ]
+    },
+    {
+      "jour": 4,
+      "ferme": false,
+      "creneaux": [
+        [
+          "10:00",
+          "17:00"
+        ]
+      ]
+    },
+    {
+      "jour": 5,
+      "ferme": false,
+      "creneaux": [
+        [
+          "10:00",
+          "17:00"
+        ]
+      ]
+    },
+    {
+      "jour": 6,
+      "ferme": true,
+      "creneaux": []
+    }
+  ],
+  "attributs": [
+    "Entrée accessible en fauteuil roulant",
+    "Parking accessible en fauteuil roulant"
+  ],
+  "lien_google": "https://maps.google.com/?cid=13400969430548218065&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
+  "site_web_gmb": null,
+  "statut": "publiee",
+  "backlink": {
+    "etat": "absent",
+    "premiere_detection": null,
+    "derniere_detection": null,
+    "derniere_verification": "2026-11-02T13:26:12.013Z",
+    "echecs": 1,
+    "url_detectee": null
+  },
+  "suggestion": {
+    "etat": "en-attente",
+    "date_soumission": null,
+    "tentatives": 0
+  },
+  "retrait": null,
+  "dates": {
+    "collecte": "2026-11-02",
+    "publication": "2026-11-02",
+    "maj": "2026-11-02"
+  },
+  "source": "google-places",
+  "avis_detail": {
+    "releve": "2026-11-02",
+    "liste": [
+      {
+        "note": 1,
+        "texte": "Je n’ai pas encore reçu ma voiture, donc mon avis ne concerne pas un centre en particulier, mais plutôt le service client de Tesla.\n\nIl est impossible de joindre qui que ce soit, même pour une simple question. J’ai essayé par e-mail, par téléphone et par tchat, mais je n’ai jamais réussi à entrer en contact avec quelqu’un.\n\nJe ne comprends pas comment une marque comme Tesla peut proposer des voitures de cette qualité sans avoir un service client à la hauteur.\nJ espere ne pas regretter mon achat.",
+        "langue": "fr",
+        "date": "2026-10-09",
+        "auteur": "Sanchis Denis",
+        "auteur_lien": "https://www.google.com/maps/contrib/112421628477449972939/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT21GeVVWUTRPR1pyVTJKVWRYRnBRMWxVVnpSR1gyYxAB!2m1!1s0x12c9050a00326dd7:0xb9f9ceb219b200d1"
+      },
+      {
+        "note": 4,
+        "texte": "Voiture très propre à l’arrivée on ne vous expliques pas en profondeur mais vous pouvez demander un peu plus d’aide une personne se tient à disposition sur le parking du hub ( qui est juste un grand parking ) véhicule chargé à 17% . 150klm de superchargeur offert . A le vue des avis j’avais un peu peur de l’état de mon véhicule mais hormis quelques traces sur les vitres pas de problème.",
+        "langue": "fr",
+        "date": "2026-08-29",
+        "auteur": "Mr U",
+        "auteur_lien": "https://www.google.com/maps/contrib/108151543631969001584/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2tSRGJIYzBlazEzVkZSek1YQjJVRmRZU1RaNlQwRRAB!2m1!1s0x12c9050a00326dd7:0xb9f9ceb219b200d1"
+      },
+      {
+        "note": 5,
+        "texte": "Au Delivery Hub Tesla de Toulon, j’ai vécu une expérience exemplaire, marquée par un professionnalisme rare et une qualité d’accueil irréprochable. Naur, Quentin, Thibault et Louigi ont fait preuve d’une gentillesse remarquable, d’une rapidité impressionnante et d’une précision qui rassure dès les premiers instants.\nDu début à la fin, l’équipe a géré la reprise de ma Tesla Model 3 et la livraison de ma nouvelle Model Y rouge, commandée en avril 2026, avec une efficacité parfaite. Chaque étape a été expliquée clairement, chaque détail vérifié avec soin, et toujours avec le sourire. Leur sens de l’accueil, leur disponibilité et leur maîtrise du processus rendent l’expérience non seulement fluide, mais véritablement agréable.\nRecevoir ma magnifique Model Y rouge dans ces conditions a été un moment mémorable. Je tiens à remercier chaleureusement toute l’équipe pour leur professionnalisme et leur humanité. Le Delivery Hub de Toulon reflète parfaitement l’excellence que l’on attend d’une marque comme Tesla.",
+        "langue": "fr",
+        "date": "2026-08-13",
+        "auteur": "Edoardo Rabascini",
+        "auteur_lien": "https://www.google.com/maps/contrib/102697879745770690442/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT21ndFprMU9RbmcyVG5OTVREZEhTVU10Wm5sRFlYYxAB!2m1!1s0x12c9050a00326dd7:0xb9f9ceb219b200d1"
+      },
+      {
+        "note": 5,
+        "texte": "Essai d’une modèle Y aujourd’hui. Tout passe par l’application. Un appel d’un conseiller très aimable pour valider et expliquer le processus. C’est simple, gratuit et permet de se faire une idée, d’autant qu’on peut relouer. Voiture propre et chargée à 94 %.\nJe renouvèlerai l’expérience, comptant en faire l’acquisition d’ici fin d’année.\nÀ conseiller.",
+        "langue": "fr",
+        "date": "2026-08-03",
+        "auteur": "harry bosch",
+        "auteur_lien": "https://www.google.com/maps/contrib/101865414992704539955/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2trNVgxSTFRblp4WWw5dGVUaHZlSFpPY1VONVRIYxAB!2m1!1s0x12c9050a00326dd7:0xb9f9ceb219b200d1"
+      },
+      {
+        "note": 1,
+        "texte": "Franchement déçu de la livraison de ma Tesla Model Y Performance neuve.\nLe véhicule m’a été remis avec seulement 30 % de batterie et sans le câble de recharge, alors qu’on m’avait confirmé qu’il se trouvait dans le coffre.\nAprès vérification : rien du tout.\n\nJ’ai ensuite essayé de joindre Elsa, mais c’est une vraie galère pour l’avoir au téléphone, mail ou depuis l’application tesla .\nPar contre, quand elle a besoin de me contacter, là aucun souci, elle sait trouver mon numéro !\n\nRésultat : je me retrouve avec une voiture neuve que je ne peux même pas recharger pour rentrer chez moi, et aucune réponse claire ou réactive de leur part.\nCe n’est pas ce qu’on attend d’une marque comme Tesla, surtout à ce niveau de prix.\n\nFranchement, s’ils continuent comme ça, le prochain véhicule sera peut-être un Xiaomi, au moins il viendra complet et avec un service client joignable…",
+        "langue": "fr",
+        "date": "2025-10-11",
+        "auteur": "Fouad Aaras (ECOPNEUS 84)",
+        "auteur_lien": "https://www.google.com/maps/contrib/102669464071019977559/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xCQ2JVdzBiMFJLUjFWSkxXWmlhMFU1YjBORVpHYxAB!2m1!1s0x12c9050a00326dd7:0xb9f9ceb219b200d1"
+      }
+    ]
+  },
+  "services": {
+    "releve": "2026-11-02",
+    "options": {
+      "delivery": true
+    },
+    "paiement": [],
+    "parking": []
+  },
+  "redaction": {
+    "version": 2,
+    "titre": "Tesla delivery hub - TOULON — Garage et automobile à La Seyne-sur-Mer",
+    "meta_titre": "Tesla delivery hub - TOULON : horaires, avis",
+    "meta_description": "Tesla delivery hub - TOULON, garage et automobile à La Seyne-sur-Mer : horaires d'ouverture, note Google 4,1/5 (231 avis), adresse et itinéraire.",
+    "chapo": "Tesla delivery hub - TOULON est un garage et automobile au Zone Portuaire de Brégaillon, à La Seyne-sur-Mer. Ouvert tous les jours sauf le dimanche au relevé du 2 novembre 2026. Note Google : 4,1 sur 5 pour 231 avis.",
+    "sections": [
+      {
+        "id": "presentation",
+        "titre": "Tesla delivery hub - TOULON en quelques mots",
+        "paragraphes": [
+          "Sur Google, l'établissement est classé « Concessionnaire automobile », dans notre rubrique Garage et automobile.",
+          "D'après le relevé du 2 novembre 2026, l'établissement est ouvert tous les jours sauf le dimanche. Le détail jour par jour figure plus bas."
+        ]
+      },
+      {
+        "id": "prestations",
+        "titre": "Services et équipements de Tesla delivery hub - TOULON",
+        "paragraphes": [
+          "Proposé : livraison.",
+          "Ces indications sont déclarées par l'établissement sur sa fiche Google (relevé du 2 novembre 2026)."
+        ]
+      },
+      {
+        "id": "acces",
+        "titre": "Adresse et accès",
+        "paragraphes": [
+          "L'établissement est situé au Zone Portuaire de Brégaillon, 83500 La Seyne-sur-Mer.",
+          "Coordonnées GPS : 43.11171, 5.88350. Le bouton Itinéraire de cette page ouvre la navigation."
+        ]
+      },
+      {
+        "id": "contact",
+        "titre": "Contacter Tesla delivery hub - TOULON",
+        "paragraphes": [
+          "Aucun numéro de téléphone n'est déclaré sur la fiche Google de l'établissement : le contact se fait sur place, aux horaires indiqués."
+        ]
+      },
+      {
+        "id": "avis",
+        "titre": "La réputation de Tesla delivery hub - TOULON",
+        "paragraphes": [
+          "Note de 4,1 sur 5 pour 231 avis Google au relevé du 2 novembre 2026. Les avis les plus parlants sont compilés ci-dessous, avec un lien vers la fiche d'origine."
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "q": "Quels sont les horaires de Tesla delivery hub - TOULON ?",
+        "r": "Au relevé du 2 novembre 2026, Tesla delivery hub - TOULON était ouvert tous les jours sauf le dimanche. Dans le détail — lundi : de 10 h à 17 h ; mardi : de 10 h à 17 h ; mercredi : de 10 h à 17 h ; jeudi : de 10 h à 17 h ; vendredi : de 10 h à 17 h ; samedi : de 10 h à 17 h ; dimanche : fermé. Ces horaires peuvent changer : un appel préalable reste conseillé."
+      },
+      {
+        "q": "Tesla delivery hub - TOULON est-il ouvert le dimanche ?",
+        "r": "Non : d'après les horaires relevés le 2 novembre 2026, Tesla delivery hub - TOULON est fermé le dimanche."
+      },
+      {
+        "q": "Où se trouve Tesla delivery hub - TOULON ?",
+        "r": "Tesla delivery hub - TOULON se trouve Zone Portuaire de Brégaillon, 83500 La Seyne-sur-Mer. Un lien d'itinéraire est disponible sur cette page."
+      },
+      {
+        "q": "Tesla delivery hub - TOULON propose-t-il la vente à emporter ou la livraison ?",
+        "r": "D'après sa fiche Google (relevé du 2 novembre 2026) — livraison : oui."
+      },
+      {
+        "q": "Tesla delivery hub - TOULON est-il accessible aux personnes à mobilité réduite ?",
+        "r": "La fiche Google de l'établissement mentionne : « Entrée accessible en fauteuil roulant ». Cette information est déclarative ; en cas de doute, vérifiez par téléphone."
+      }
+    ],
+    "genere_le": "2026-11-02"
+  },
+  "statut_google": "OPERATIONAL",
+  "audience": {
+    "clics": 0,
+    "impressions": 0,
+    "position": null,
+    "fenetreJours": 90,
+    "clicsRecents": 0,
+    "fenetreRecenteJours": 28,
+    "source": "search-console",
+    "date": "2026-11-02"
+  }
+}

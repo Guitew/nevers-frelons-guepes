@@ -1,0 +1,298 @@
+{
+  "id": "ChIJYwgluHQsrhIRUWITnI04k-0",
+  "slug": "boulangerie-l-ancestrale",
+  "nom": "Boulangerie l'Ancestrale",
+  "categorie": "boulangeries-patisseries",
+  "categorie_gmb": "Boulangerie",
+  "type_principal": "bakery",
+  "types": [
+    "bakery",
+    "pastry_shop",
+    "dessert_shop",
+    "confectionery",
+    "food_store",
+    "food",
+    "point_of_interest",
+    "store",
+    "establishment"
+  ],
+  "ville": "Carcassonne",
+  "ville_slug": "carcassonne",
+  "adresse": {
+    "rue": "236 Avenue du Général Leclerc",
+    "code_postal": "11000",
+    "departement": "11",
+    "region": "Occitanie",
+    "pays": "France",
+    "complete": "236 Av. du Général Leclerc, 11000 Carcassonne"
+  },
+  "telephone": "04 68 71 02 60",
+  "geo": {
+    "latitude": 43.2074457,
+    "longitude": 2.3775227
+  },
+  "note": 4.3,
+  "avis": 913,
+  "horaires": [
+    {
+      "jour": 0,
+      "ferme": false,
+      "creneaux": [
+        [
+          "06:00",
+          "19:30"
+        ]
+      ]
+    },
+    {
+      "jour": 1,
+      "ferme": false,
+      "creneaux": [
+        [
+          "06:00",
+          "19:30"
+        ]
+      ]
+    },
+    {
+      "jour": 2,
+      "ferme": false,
+      "creneaux": [
+        [
+          "06:00",
+          "19:30"
+        ]
+      ]
+    },
+    {
+      "jour": 3,
+      "ferme": false,
+      "creneaux": [
+        [
+          "06:00",
+          "19:30"
+        ]
+      ]
+    },
+    {
+      "jour": 4,
+      "ferme": false,
+      "creneaux": [
+        [
+          "06:00",
+          "19:30"
+        ]
+      ]
+    },
+    {
+      "jour": 5,
+      "ferme": false,
+      "creneaux": [
+        [
+          "06:00",
+          "19:30"
+        ]
+      ]
+    },
+    {
+      "jour": 6,
+      "ferme": false,
+      "creneaux": [
+        [
+          "06:00",
+          "19:30"
+        ]
+      ]
+    }
+  ],
+  "attributs": [
+    "Entrée accessible en fauteuil roulant",
+    "Parking accessible en fauteuil roulant"
+  ],
+  "lien_google": "https://maps.google.com/?cid=17119088789425447505&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
+  "site_web_gmb": null,
+  "statut": "publiee",
+  "backlink": {
+    "etat": "absent",
+    "premiere_detection": null,
+    "derniere_detection": null,
+    "derniere_verification": "2026-11-02T13:26:12.013Z",
+    "echecs": 1,
+    "url_detectee": null
+  },
+  "suggestion": {
+    "etat": "en-attente",
+    "date_soumission": null,
+    "tentatives": 0
+  },
+  "retrait": null,
+  "dates": {
+    "collecte": "2026-11-02",
+    "publication": "2026-11-02",
+    "maj": "2026-11-02"
+  },
+  "source": "google-places",
+  "avis_detail": {
+    "releve": "2026-11-02",
+    "liste": [
+      {
+        "note": 4,
+        "texte": "Boulangerie découverte lors de notre séjour à Carcassonne.\nNous avons pris des desserts qui étaient corrects sans être exceptionnels non plus.\nLe prix est un peu élevé pour la qualité apportée.",
+        "langue": "fr",
+        "date": "2026-08-11",
+        "auteur": "Julien Chadeau",
+        "auteur_lien": "https://www.google.com/maps/contrib/114557691751967898652/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xjeGF6WktWVXBqU1cxRWRHUk5lVEJwTm1SU00yYxAB!2m1!1s0x12ae2c74b8250863:0xed93388d9c136251"
+      },
+      {
+        "note": 2,
+        "texte": "Bonjour,\n\nBoulangerie visitée ce dimanche. Alors que nous voulions commander la serveuse nous a à peine regardé et continuait son nettoyage en pleine prise de commande nous forçant à répeter plusieurs fois ce que nous voulions. Tout d’abord, apres avoir stipulé que nous consommerions sur place, tout nous a été servis en boite, sans cuillère ( trompe l’oeil compliqué à manger à deux sans couverts). Ensuite voulant nous installer dehors sur la table qu’il y avait, la serveuse l’a enlevé sous nos yeux nous laissant sans rien en exterieur alors qu’il était seulement 18h et que la boulangerie fermait à 19h30. Petite experience nous laissant perplexe pour notre arrivée sur Carcasonne en vacance.\nSinon le cookie et le trompe l’oeil étaient exquis et de beaux produits en vente !",
+        "langue": "fr",
+        "date": "2026-04-20",
+        "auteur": "François B",
+        "auteur_lien": "https://www.google.com/maps/contrib/100504183565732056192/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xsdGVDMTFkVEoxVm0xak9VNUROVEJ0UVZaaE1FRRAB!2m1!1s0x12ae2c74b8250863:0xed93388d9c136251"
+      },
+      {
+        "note": 5,
+        "texte": "Le service est rapide même aux heures de pointe, les sandwichs sont très copieux, et la tarte noisette est incroyable",
+        "langue": "fr",
+        "date": "2025-07-10",
+        "auteur": "Eden Martinet",
+        "auteur_lien": "https://www.google.com/maps/contrib/111806883124268678361/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xKaVNWQm1ZbWRwZDFSUWFFUmtVSFV3UVVaR1YyYxAB!2m1!1s0x12ae2c74b8250863:0xed93388d9c136251"
+      },
+      {
+        "note": 5,
+        "texte": "Pain très bon, j'en ai essayé deux ! J'aime la farine et la fabrication de qualité. Bonnes religieuses au café. Accueil sympathique, on peut aussi boire un café sur place.",
+        "langue": "fr",
+        "date": "2024-11-10",
+        "auteur": "Eglantine Charbonnier",
+        "auteur_lien": "https://www.google.com/maps/contrib/102643099849356513081/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUMzXzZXdURnEAE!2m1!1s0x12ae2c74b8250863:0xed93388d9c136251"
+      },
+      {
+        "note": 5,
+        "texte": "If you are passing through Carcassonne, then this is the best place where you can drink a cup of aromatic coffee with a delicious cake, buy a fresh baguette and even have a snack.\n\nSi vous êtes de passage à Carcassonne, c'est le meilleur endroit pour boire une tasse de café aromatique avec un délicieux gâteau, acheter une baguette fraîche et même prendre une collation.",
+        "langue": "fr",
+        "date": "2023-11-22",
+        "auteur": "Gella D. (GD)",
+        "auteur_lien": "https://www.google.com/maps/contrib/104203099592540089348/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUNsdVk3S1lREAE!2m1!1s0x12ae2c74b8250863:0xed93388d9c136251"
+      }
+    ]
+  },
+  "services": {
+    "releve": "2026-11-02",
+    "prix": "PRICE_LEVEL_INEXPENSIVE",
+    "options": {
+      "dineIn": true,
+      "takeout": true,
+      "delivery": false,
+      "servesBreakfast": true,
+      "servesCoffee": true,
+      "restroom": false
+    },
+    "paiement": [
+      "carte bancaire",
+      "carte de débit",
+      "paiement sans contact"
+    ],
+    "parking": [
+      "parking gratuit"
+    ]
+  },
+  "redaction": {
+    "version": 2,
+    "titre": "Boulangerie l'Ancestrale — Boulangerie-pâtisserie à Carcassonne",
+    "meta_titre": "Boulangerie l'Ancestrale à Carcassonne : horaires, avis",
+    "meta_description": "Boulangerie l'Ancestrale, boulangerie-pâtisserie à Carcassonne : horaires d'ouverture, note Google 4,3/5 (913 avis), téléphone, adresse et itinéraire.",
+    "chapo": "Cette fiche présente Boulangerie l'Ancestrale, une boulangerie-pâtisserie au 236 Avenue du Général Leclerc, à Carcassonne. Ouvert sept jours sur sept au relevé du 2 novembre 2026. Téléphone : 04 68 71 02 60. Note Google : 4,3 sur 5 pour 913 avis.",
+    "sections": [
+      {
+        "id": "presentation",
+        "titre": "Boulangerie l'Ancestrale en quelques mots",
+        "paragraphes": [
+          "Sur Google, l'établissement est classé « Boulangerie », dans notre rubrique Boulangerie-pâtisserie.",
+          "Niveau de prix indiqué sur la fiche Google : € (bon marché).",
+          "D'après le relevé du 2 novembre 2026, l'établissement est ouvert sept jours sur sept. Le détail jour par jour figure plus bas."
+        ]
+      },
+      {
+        "id": "prestations",
+        "titre": "Services et équipements de Boulangerie l'Ancestrale",
+        "paragraphes": [
+          "Proposé : sur place, à emporter, petit-déjeuner et café.",
+          "Non proposé selon la fiche Google : livraison et toilettes.",
+          "Moyens de paiement déclarés : carte bancaire, carte de débit et paiement sans contact.",
+          "Stationnement : parking gratuit.",
+          "Ces indications sont déclarées par l'établissement sur sa fiche Google (relevé du 2 novembre 2026)."
+        ]
+      },
+      {
+        "id": "acces",
+        "titre": "Adresse et accès",
+        "paragraphes": [
+          "L'établissement est situé au 236 Avenue du Général Leclerc, 11000 Carcassonne.",
+          "Coordonnées GPS : 43.20745, 2.37752. Le bouton Itinéraire de cette page ouvre la navigation."
+        ]
+      },
+      {
+        "id": "contact",
+        "titre": "Contacter Boulangerie l'Ancestrale",
+        "paragraphes": [
+          "Le contact se fait par téléphone au 04 68 71 02 60, ou directement sur place aux horaires d'ouverture."
+        ]
+      },
+      {
+        "id": "avis",
+        "titre": "La réputation de Boulangerie l'Ancestrale",
+        "paragraphes": [
+          "Note de 4,3 sur 5 pour 913 avis Google au relevé du 2 novembre 2026. Les avis les plus parlants sont compilés ci-dessous, avec un lien vers la fiche d'origine."
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "q": "Quels sont les horaires de Boulangerie l'Ancestrale ?",
+        "r": "Au relevé du 2 novembre 2026, Boulangerie l'Ancestrale était ouvert sept jours sur sept. Dans le détail — lundi : de 6 h à 19 h 30 ; mardi : de 6 h à 19 h 30 ; mercredi : de 6 h à 19 h 30 ; jeudi : de 6 h à 19 h 30 ; vendredi : de 6 h à 19 h 30 ; samedi : de 6 h à 19 h 30 ; dimanche : de 6 h à 19 h 30. Ces horaires peuvent changer : un appel préalable reste conseillé."
+      },
+      {
+        "q": "Boulangerie l'Ancestrale est-il ouvert le dimanche ?",
+        "r": "Oui : le dimanche, Boulangerie l'Ancestrale est ouvert de 6 h à 19 h 30 (horaires relevés le 2 novembre 2026)."
+      },
+      {
+        "q": "Où se trouve Boulangerie l'Ancestrale ?",
+        "r": "Boulangerie l'Ancestrale se trouve 236 Av. du Général Leclerc, 11000 Carcassonne. Un lien d'itinéraire est disponible sur cette page."
+      },
+      {
+        "q": "Comment contacter Boulangerie l'Ancestrale ?",
+        "r": "Par téléphone au 04 68 71 02 60, ou directement sur place aux heures d'ouverture."
+      },
+      {
+        "q": "Boulangerie l'Ancestrale propose-t-il la vente à emporter ou la livraison ?",
+        "r": "D'après sa fiche Google (relevé du 2 novembre 2026) — vente à emporter : oui ; livraison : non."
+      },
+      {
+        "q": "Quel est le niveau de prix de Boulangerie l'Ancestrale ?",
+        "r": "Google classe Boulangerie l'Ancestrale au niveau de prix € (bon marché), sur une échelle de € à €€€€ établie à partir des avis clients."
+      },
+      {
+        "q": "Boulangerie l'Ancestrale est-il accessible aux personnes à mobilité réduite ?",
+        "r": "La fiche Google de l'établissement mentionne : « Entrée accessible en fauteuil roulant ». Cette information est déclarative ; en cas de doute, vérifiez par téléphone."
+      }
+    ],
+    "genere_le": "2026-11-02"
+  },
+  "statut_google": "OPERATIONAL",
+  "audience": {
+    "clics": 0,
+    "impressions": 0,
+    "position": null,
+    "fenetreJours": 90,
+    "clicsRecents": 0,
+    "fenetreRecenteJours": 28,
+    "source": "search-console",
+    "date": "2026-11-02"
+  }
+}

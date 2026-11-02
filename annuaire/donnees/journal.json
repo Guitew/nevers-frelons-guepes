@@ -1,5 +1,143 @@
 [
   {
+    "date": "2026-11-02T13:31:04.817Z",
+    "type": "suggestion-soumise",
+    "id": "ChIJDeSJ6NPAyRIRH0-B9_efw8M",
+    "nom": "Garage Chateaubriand",
+    "url": "/garages-automobile/marseille/garage-chateaubriand/"
+  },
+  {
+    "date": "2026-11-02T13:31:03.680Z",
+    "type": "retrait-410",
+    "id": "ChIJw7PHc3vprRIRLw3W6Z6rYm8",
+    "nom": "Boulangerie Feuillette",
+    "url": "/boulangeries-patisseries/albi/boulangerie-feuillette/",
+    "motif": "backlink jamais posé après 45 jours de délai de grâce",
+    "cible": null
+  },
+  {
+    "date": "2026-11-02T13:31:03.682Z",
+    "type": "retrait-410",
+    "id": "ChIJKbsVKU5usBIRSs-ZVnJswNM",
+    "nom": "Boulangerie Le Levain d'Hélios",
+    "url": "/boulangeries-patisseries/perpignan/boulangerie-le-levain-d-helios/",
+    "motif": "backlink jamais posé après 45 jours de délai de grâce",
+    "cible": null
+  },
+  {
+    "date": "2026-11-02T13:31:03.682Z",
+    "type": "retrait-410",
+    "id": "ChIJBd9mxSgRrxIRJHyJXLKShZU",
+    "nom": "Boulangerie Massat",
+    "url": "/boulangeries-patisseries/foix/boulangerie-massat/",
+    "motif": "page non indexée par Google 45 jours après sa mise en ligne (Explorée, actuellement non indexée)",
+    "cible": null,
+    "cause": "non-indexee"
+  },
+  {
+    "date": "2026-11-02T13:31:03.684Z",
+    "type": "retrait-410",
+    "id": "ChIJnzo5XWNVrRIR5xT8cVl05qQ",
+    "nom": "La Vacherie",
+    "url": "/restaurants/aurillac/la-vacherie/",
+    "motif": "backlink jamais posé après 45 jours de délai de grâce",
+    "cible": null
+  },
+  {
+    "date": "2026-11-02T13:31:03.685Z",
+    "type": "retrait-410",
+    "id": "ChIJ1S_ghHF95kcRKw13xgbWago",
+    "nom": "Le Montbauron",
+    "url": "/cafes-bars/versailles/le-montbauron/",
+    "motif": "backlink jamais posé après 45 jours de délai de grâce",
+    "cible": null
+  },
+  {
+    "date": "2026-11-02T13:26:12.286Z",
+    "type": "backlink-absent",
+    "id": "ChIJYwgluHQsrhIRUWITnI04k-0",
+    "nom": "Boulangerie l'Ancestrale",
+    "url": null,
+    "precedent": "en-attente"
+  },
+  {
+    "date": "2026-11-02T13:26:12.360Z",
+    "type": "backlink-absent",
+    "id": "ChIJk6UrMVBP7kcRrErw-H15tbY",
+    "nom": "Boulangerie Rive Droite",
+    "url": null,
+    "precedent": "en-attente"
+  },
+  {
+    "date": "2026-11-02T13:26:12.522Z",
+    "type": "backlink-absent",
+    "id": "ChIJo-qB6QIPrBIRyxgc_Sb5aOI",
+    "nom": "SOPRA - plaque DISTRIGO",
+    "url": null,
+    "precedent": "en-attente"
+  },
+  {
+    "date": "2026-11-02T13:26:12.602Z",
+    "type": "backlink-absent",
+    "id": "ChIJ4e6thIbVEEgRQuoNogxEYn8",
+    "nom": "Supermarché Utile Moulin Vert",
+    "url": null,
+    "precedent": "en-attente"
+  },
+  {
+    "date": "2026-11-02T13:26:12.729Z",
+    "type": "backlink-absent",
+    "id": "ChIJ120yAAoFyRIR0QCyGbLO-bk",
+    "nom": "Tesla delivery hub - TOULON",
+    "url": null,
+    "precedent": "en-attente"
+  },
+  {
+    "date": "2026-11-02T13:26:11.543Z",
+    "type": "publication",
+    "id": "ChIJo-qB6QIPrBIRyxgc_Sb5aOI",
+    "nom": "SOPRA - plaque DISTRIGO",
+    "url": "/garages-automobile/montauban/sopra-plaque-distrigo/",
+    "categorie": "garages-automobile",
+    "source": "google-places"
+  },
+  {
+    "date": "2026-11-02T13:26:11.631Z",
+    "type": "publication",
+    "id": "ChIJ120yAAoFyRIR0QCyGbLO-bk",
+    "nom": "Tesla delivery hub - TOULON",
+    "url": "/garages-automobile/la-seyne-sur-mer/tesla-delivery-hub-toulon/",
+    "categorie": "garages-automobile",
+    "source": "google-places"
+  },
+  {
+    "date": "2026-11-02T13:26:11.723Z",
+    "type": "publication",
+    "id": "ChIJk6UrMVBP7kcRrErw-H15tbY",
+    "nom": "Boulangerie Rive Droite",
+    "url": "/boulangeries-patisseries/auxerre/boulangerie-rive-droite/",
+    "categorie": "boulangeries-patisseries",
+    "source": "google-places"
+  },
+  {
+    "date": "2026-11-02T13:26:11.825Z",
+    "type": "publication",
+    "id": "ChIJYwgluHQsrhIRUWITnI04k-0",
+    "nom": "Boulangerie l'Ancestrale",
+    "url": "/boulangeries-patisseries/carcassonne/boulangerie-l-ancestrale/",
+    "categorie": "boulangeries-patisseries",
+    "source": "google-places"
+  },
+  {
+    "date": "2026-11-02T13:26:11.906Z",
+    "type": "publication",
+    "id": "ChIJ4e6thIbVEEgRQuoNogxEYn8",
+    "nom": "Supermarché Utile Moulin Vert",
+    "url": "/commerces-alimentation/quimper/supermarche-utile-moulin-vert/",
+    "categorie": "commerces-alimentation",
+    "source": "google-places"
+  },
+  {
     "date": "2026-11-01T11:48:12.960Z",
     "type": "backlink-absent",
     "id": "ChIJDeSJ6NPAyRIRH0-B9_efw8M",

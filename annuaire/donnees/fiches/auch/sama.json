@@ -127,8 +127,8 @@
     "etat": "absent",
     "premiere_detection": null,
     "derniere_detection": null,
-    "derniere_verification": "2026-10-31T10:53:21.305Z",
-    "echecs": 4,
+    "derniere_verification": "2026-11-02T13:26:12.013Z",
+    "echecs": 5,
     "url_detectee": null
   },
   "suggestion": {
@@ -141,7 +141,7 @@
   "dates": {
     "collecte": "2026-10-08",
     "publication": "2026-10-08",
-    "maj": "2026-10-31"
+    "maj": "2026-11-02"
   },
   "source": "google-places",
   "redaction": {
@@ -149,14 +149,23 @@
     "titre": "Sama — Garage et automobile à Auch",
     "meta_titre": "Sama à Auch : horaires, avis, téléphone",
     "meta_description": "Sama, garage et automobile à Auch : horaires d'ouverture, note Google 4,4/5 (44 avis), téléphone, adresse et itinéraire.",
-    "chapo": "Sama, garage et automobile au 203 Rue Victor Hugo, à Auch. Ouvert tous les jours sauf le dimanche au relevé du 18 octobre 2026. Téléphone : 05 62 05 90 41. Note Google : 4,4 sur 5 pour 44 avis.",
+    "chapo": "Sama, garage et automobile au 203 Rue Victor Hugo, à Auch. Ouvert tous les jours sauf le dimanche au relevé du 2 novembre 2026. Téléphone : 05 62 05 90 41. Note Google : 4,4 sur 5 pour 44 avis.",
     "sections": [
       {
         "id": "presentation",
         "titre": "Sama en quelques mots",
         "paragraphes": [
           "Sur Google, l'établissement est classé « Station-service », dans notre rubrique Garage et automobile.",
-          "D'après le relevé du 18 octobre 2026, l'établissement est ouvert tous les jours sauf le dimanche. Le détail jour par jour figure plus bas."
+          "D'après le relevé du 2 novembre 2026, l'établissement est ouvert tous les jours sauf le dimanche. Le détail jour par jour figure plus bas."
+        ]
+      },
+      {
+        "id": "prestations",
+        "titre": "Services et équipements de Sama",
+        "paragraphes": [
+          "Proposé : toilettes.",
+          "Moyens de paiement déclarés : carte bancaire, carte de débit et paiement sans contact.",
+          "Ces indications sont déclarées par l'établissement sur sa fiche Google (relevé du 2 novembre 2026)."
         ]
       },
       {
@@ -178,18 +187,18 @@
         "id": "avis",
         "titre": "La réputation de Sama",
         "paragraphes": [
-          "Note de 4,4 sur 5 pour 44 avis Google au relevé du 18 octobre 2026. Les avis se consultent sur la fiche Google, dont le lien figure sur cette page."
+          "Note de 4,4 sur 5 pour 44 avis Google au relevé du 2 novembre 2026. Les avis les plus parlants sont compilés ci-dessous, avec un lien vers la fiche d'origine."
         ]
       }
     ],
     "faq": [
       {
         "q": "Quels sont les horaires de Sama ?",
-        "r": "Au relevé du 18 octobre 2026, Sama était ouvert tous les jours sauf le dimanche. Dans le détail — lundi : de 7 h à 12 h 15 et de 13 h 45 à 18 h ; mardi : de 7 h à 12 h 15 et de 13 h 45 à 18 h ; mercredi : de 7 h à 12 h 15 et de 13 h 45 à 18 h ; jeudi : de 7 h à 12 h 15 et de 13 h 45 à 18 h ; vendredi : de 7 h à 12 h 15 et de 13 h 45 à 18 h ; samedi : de 8 h à 12 h ; dimanche : fermé. Ces horaires peuvent changer : un appel préalable reste conseillé."
+        "r": "Au relevé du 2 novembre 2026, Sama était ouvert tous les jours sauf le dimanche. Dans le détail — lundi : de 7 h à 12 h 15 et de 13 h 45 à 18 h ; mardi : de 7 h à 12 h 15 et de 13 h 45 à 18 h ; mercredi : de 7 h à 12 h 15 et de 13 h 45 à 18 h ; jeudi : de 7 h à 12 h 15 et de 13 h 45 à 18 h ; vendredi : de 7 h à 12 h 15 et de 13 h 45 à 18 h ; samedi : de 8 h à 12 h ; dimanche : fermé. Ces horaires peuvent changer : un appel préalable reste conseillé."
       },
       {
         "q": "Sama est-il ouvert le dimanche ?",
-        "r": "Non : d'après les horaires relevés le 18 octobre 2026, Sama est fermé le dimanche."
+        "r": "Non : d'après les horaires relevés le 2 novembre 2026, Sama est fermé le dimanche."
       },
       {
         "q": "Où se trouve Sama ?",
@@ -204,7 +213,7 @@
         "r": "La fiche Google de l'établissement mentionne : « Toilettes accessibles en fauteuil roulant ». Cette information est déclarative ; en cas de doute, vérifiez par téléphone."
       }
     ],
-    "genere_le": "2026-10-18"
+    "genere_le": "2026-11-02"
   },
   "statut_google": "OPERATIONAL",
   "audience": {
@@ -215,6 +224,68 @@
     "clicsRecents": 0,
     "fenetreRecenteJours": 28,
     "source": "search-console",
-    "date": "2026-11-01"
+    "date": "2026-11-02"
+  },
+  "avis_detail": {
+    "releve": "2026-11-02",
+    "liste": [
+      {
+        "note": 4,
+        "texte": "Personnels accueillant",
+        "langue": "fr",
+        "date": "2026-01-20",
+        "auteur": "David Moreaux",
+        "auteur_lien": "https://www.google.com/maps/contrib/110094845848345054642/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2pGck9VNWpRekJRTUU5Tk5XYzVRemRtWTNCQ1lXYxAB!2m1!1s0x12a982de22cfe961:0x532f8106fd35c6c3"
+      },
+      {
+        "note": 5,
+        "texte": "Personnel très accueillant de gentil station service où il y a un accueil et de plus ont peut régler le carburant en caisse au heures d ouverture et de plus pas obligé d avoir carte bancaire ils prennent les espèces .",
+        "langue": "fr",
+        "date": "2021-08-27",
+        "auteur": "Veronique Dumondin",
+        "auteur_lien": "https://www.google.com/maps/contrib/100167672363568914448/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUM2b0p6TEtnEAE!2m1!1s0x12a982de22cfe961:0x532f8106fd35c6c3"
+      },
+      {
+        "note": 5,
+        "texte": "Accueil sympathique, lavage haute pression très efficace.",
+        "langue": "fr",
+        "date": "2020-03-16",
+        "auteur": "didier lesellier",
+        "auteur_lien": "https://www.google.com/maps/contrib/109609837297713266918/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUNjLWFDck5REAE!2m1!1s0x12a982de22cfe961:0x532f8106fd35c6c3"
+      },
+      {
+        "note": 5,
+        "texte": "L'accueil est professionnel les gens sont sympathiques et dévoué toujours à mot gentil pour leur client je recommande ce lieu",
+        "langue": "fr",
+        "date": "2019-05-24",
+        "auteur": "Jose Antoine Contreras",
+        "auteur_lien": "https://www.google.com/maps/contrib/117750713746873268229/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSURvdHR6djdRRRAB!2m1!1s0x12a982de22cfe961:0x532f8106fd35c6c3"
+      },
+      {
+        "note": 4,
+        "texte": "station service AVIA avec un personnel tres professionnel et sympathique.\nl accueil est chaleureux.\nles conseils sont toujours tres bon.",
+        "langue": "fr",
+        "date": "2018-07-08",
+        "auteur": "Stanislas VIGUIER",
+        "auteur_lien": "https://www.google.com/maps/contrib/109908341515583677007/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUNRZzR1WHJ3RRAB!2m1!1s0x12a982de22cfe961:0x532f8106fd35c6c3"
+      }
+    ]
+  },
+  "services": {
+    "releve": "2026-11-02",
+    "options": {
+      "restroom": true
+    },
+    "paiement": [
+      "carte bancaire",
+      "carte de débit",
+      "paiement sans contact"
+    ],
+    "parking": []
   }
 }
