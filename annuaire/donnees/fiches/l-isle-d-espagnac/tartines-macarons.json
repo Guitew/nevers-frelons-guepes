@@ -29,7 +29,7 @@
     "longitude": 0.2038398
   },
   "note": 4.5,
-  "avis": 199,
+  "avis": 202,
   "horaires": [
     {
       "jour": 0,
@@ -107,8 +107,8 @@
   "backlink": {
     "etat": "present",
     "premiere_detection": "2026-10-18T10:09:04.999Z",
-    "derniere_detection": "2026-10-18T10:46:48.744Z",
-    "derniere_verification": "2026-10-18T10:46:48.744Z",
+    "derniere_detection": "2026-11-03T12:44:19.075Z",
+    "derniere_verification": "2026-11-03T12:44:19.075Z",
     "echecs": 0,
     "url_detectee": "https://andpro.fr/vitrine-locale/boulangeries-patisseries/l-isle-d-espagnac/tartines-macarons/"
   },
@@ -122,7 +122,7 @@
   "dates": {
     "collecte": "2026-10-06",
     "publication": "2026-10-06",
-    "maj": "2026-10-18"
+    "maj": "2026-11-03"
   },
   "source": "google-places",
   "redaction": {
@@ -189,14 +189,14 @@
   },
   "statut_google": "OPERATIONAL",
   "audience": {
-    "clics": 65,
-    "impressions": 1217,
+    "clics": 67,
+    "impressions": 1275,
     "position": 2.4,
     "fenetreJours": 90,
-    "clicsRecents": 65,
+    "clicsRecents": 67,
     "fenetreRecenteJours": 28,
     "source": "search-console",
-    "date": "2026-11-02"
+    "date": "2026-11-03"
   },
   "avis_detail": {
     "releve": "2026-10-18",

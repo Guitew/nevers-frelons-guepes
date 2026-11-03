@@ -1,0 +1,237 @@
+{
+  "id": "ChIJka511jGH5kcR5zf-R25lGPk",
+  "slug": "auto-lavage-guyancourt",
+  "nom": "Auto Lavage Guyancourt",
+  "categorie": "garages-automobile",
+  "categorie_gmb": "Station de lavage automobile",
+  "type_principal": "car_wash",
+  "types": [
+    "car_wash",
+    "service",
+    "point_of_interest",
+    "establishment"
+  ],
+  "ville": "Guyancourt",
+  "ville_slug": "guyancourt",
+  "adresse": {
+    "rue": "29 Boulevard des Chênes",
+    "code_postal": "78280",
+    "departement": "78",
+    "region": "Île-de-France",
+    "pays": "France",
+    "complete": "29 Bd des Chênes, 78280 Guyancourt"
+  },
+  "telephone": "06 03 84 79 86",
+  "geo": {
+    "latitude": 48.7885241,
+    "longitude": 2.0599955999999997
+  },
+  "note": 4.1,
+  "avis": 302,
+  "horaires": [
+    {
+      "jour": 0,
+      "ferme": true,
+      "creneaux": []
+    },
+    {
+      "jour": 1,
+      "ferme": true,
+      "creneaux": []
+    },
+    {
+      "jour": 2,
+      "ferme": true,
+      "creneaux": []
+    },
+    {
+      "jour": 3,
+      "ferme": true,
+      "creneaux": []
+    },
+    {
+      "jour": 4,
+      "ferme": true,
+      "creneaux": []
+    },
+    {
+      "jour": 5,
+      "ferme": true,
+      "creneaux": []
+    },
+    {
+      "jour": 6,
+      "ferme": false,
+      "creneaux": [
+        [
+          "00:00",
+          "23:59"
+        ]
+      ]
+    }
+  ],
+  "attributs": [],
+  "lien_google": "https://maps.google.com/?cid=17949207839213762535&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
+  "site_web_gmb": null,
+  "statut": "publiee",
+  "backlink": {
+    "etat": "absent",
+    "premiere_detection": null,
+    "derniere_detection": null,
+    "derniere_verification": "2026-11-03T12:44:19.075Z",
+    "echecs": 1,
+    "url_detectee": null
+  },
+  "suggestion": {
+    "etat": "en-attente",
+    "date_soumission": null,
+    "tentatives": 0
+  },
+  "retrait": null,
+  "dates": {
+    "collecte": "2026-11-03",
+    "publication": "2026-11-03",
+    "maj": "2026-11-03"
+  },
+  "source": "google-places",
+  "avis_detail": {
+    "releve": "2026-11-03",
+    "liste": [
+      {
+        "note": 5,
+        "texte": "Très bien ! Il serait parfait de pouvoir payer en CB à tous les lavages !",
+        "langue": "fr",
+        "date": "2026-09-14",
+        "auteur": "Grégoire Thévenin",
+        "auteur_lien": "https://www.google.com/maps/contrib/111003381432793288683/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2tJd1JYZEpUbnBtZVhKTGVrOVZVMGt3YW5wcFFuYxAB!2m1!1s0x47e68731d675ae91:0xf918656e47fe37e7"
+      },
+      {
+        "note": 3,
+        "texte": "10 minimum pour acheter des jetons en carte bancaire je trouve ça un peu limite sinon la station est bien.",
+        "langue": "fr",
+        "date": "2026-04-26",
+        "auteur": "Olaxx",
+        "auteur_lien": "https://www.google.com/maps/contrib/109846753508279803226/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2pJelYzSnJUbnA1Y0U5aGIydHFUbEp6VEU5Q2VYYxAB!2m1!1s0x47e68731d675ae91:0xf918656e47fe37e7"
+      },
+      {
+        "note": 5,
+        "texte": "Excellente station de lavage ! Le gérant est vraiment à l’écoute et très attentif aux besoins des clients.\n\nMention spéciale pour le programme 6 des rouleaux : le résultat est impeccable, la voiture ressort parfaitement propre, comme neuve. Le service est rapide et efficace, rien à redire.\n\nJe recommande vivement !",
+        "langue": "fr",
+        "date": "2026-04-06",
+        "auteur": "Alicia Richelmi",
+        "auteur_lien": "https://www.google.com/maps/contrib/101182118280310657544/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xkVVRHNDNkRVZRYzNkYVZtaEhhVEExUnpBNWRuYxAB!2m1!1s0x47e68731d675ae91:0xf918656e47fe37e7"
+      },
+      {
+        "note": 3,
+        "texte": "Lavage au rouleau effectué le mardi 13 janvier vers 20h mais dysfonctionnement lors du séchage.\nEn effet, pendant que le séchage s’effectuait, le rouleau du dessus continuait à tourner.\nDu coup, de l’eau se déposait sur la voiture et le séchage n’a servi à rien.\nJe pensais voir un responsable pour lui montrer et demander un dédommagement mais il n’y avait plus personne.\nPas satisfait du lavage cette fois-ci.😔",
+        "langue": "fr",
+        "date": "2026-01-14",
+        "auteur": "Franck NGUYEN",
+        "auteur_lien": "https://www.google.com/maps/contrib/100744431530101846627/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25oTlQxaFFUa1E0T1ZWV05EQjZRbDlMVUcxUFUzYxAB!2m1!1s0x47e68731d675ae91:0xf918656e47fe37e7"
+      },
+      {
+        "note": 5,
+        "texte": "Première expérience et très satisfaite du résultat au portique .\nLes aspirateurs également avec la soufflette ou j’ai rarement eu autant de puissance . Je recommande et je reviendrai",
+        "langue": "fr",
+        "date": "2024-10-24",
+        "auteur": "Julien Delucchi",
+        "auteur_lien": "https://www.google.com/maps/contrib/117557462049943557877/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSURYalA2NlpREAE!2m1!1s0x47e68731d675ae91:0xf918656e47fe37e7"
+      }
+    ]
+  },
+  "services": {
+    "releve": "2026-11-03",
+    "options": {
+      "restroom": false
+    },
+    "paiement": [
+      "carte bancaire",
+      "carte de débit",
+      "paiement sans contact"
+    ],
+    "parking": []
+  },
+  "redaction": {
+    "version": 2,
+    "titre": "Auto Lavage Guyancourt — Garage et automobile à Guyancourt",
+    "meta_titre": "Auto Lavage Guyancourt à Guyancourt : horaires, avis",
+    "meta_description": "Auto Lavage Guyancourt, garage et automobile à Guyancourt : horaires d'ouverture, note Google 4,1/5 (302 avis), téléphone, adresse et itinéraire.",
+    "chapo": "Auto Lavage Guyancourt est un garage et automobile au 29 Boulevard des Chênes, à Guyancourt. Ouvert le dimanche au relevé du 3 novembre 2026. Téléphone : 06 03 84 79 86. Note Google : 4,1 sur 5 pour 302 avis.",
+    "sections": [
+      {
+        "id": "presentation",
+        "titre": "Auto Lavage Guyancourt en quelques mots",
+        "paragraphes": [
+          "Sur Google, l'établissement est classé « Station de lavage automobile », dans notre rubrique Garage et automobile.",
+          "D'après le relevé du 3 novembre 2026, l'établissement est ouvert le dimanche. Le détail jour par jour figure plus bas."
+        ]
+      },
+      {
+        "id": "prestations",
+        "titre": "Services et équipements de Auto Lavage Guyancourt",
+        "paragraphes": [
+          "Non proposé selon la fiche Google : toilettes.",
+          "Moyens de paiement déclarés : carte bancaire, carte de débit et paiement sans contact.",
+          "Ces indications sont déclarées par l'établissement sur sa fiche Google (relevé du 3 novembre 2026)."
+        ]
+      },
+      {
+        "id": "acces",
+        "titre": "Adresse et accès",
+        "paragraphes": [
+          "L'établissement est situé au 29 Boulevard des Chênes, 78280 Guyancourt.",
+          "Coordonnées GPS : 48.78852, 2.06000. Le bouton Itinéraire de cette page ouvre la navigation."
+        ]
+      },
+      {
+        "id": "contact",
+        "titre": "Contacter Auto Lavage Guyancourt",
+        "paragraphes": [
+          "Le contact se fait par téléphone au 06 03 84 79 86, ou directement sur place aux horaires d'ouverture."
+        ]
+      },
+      {
+        "id": "avis",
+        "titre": "La réputation de Auto Lavage Guyancourt",
+        "paragraphes": [
+          "Note de 4,1 sur 5 pour 302 avis Google au relevé du 3 novembre 2026. Les avis les plus parlants sont compilés ci-dessous, avec un lien vers la fiche d'origine."
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "q": "Quels sont les horaires de Auto Lavage Guyancourt ?",
+        "r": "Au relevé du 3 novembre 2026, Auto Lavage Guyancourt était ouvert le dimanche. Dans le détail — lundi : fermé ; mardi : fermé ; mercredi : fermé ; jeudi : fermé ; vendredi : fermé ; samedi : fermé ; dimanche : de 0 h à 23 h 59. Ces horaires peuvent changer : un appel préalable reste conseillé."
+      },
+      {
+        "q": "Auto Lavage Guyancourt est-il ouvert le dimanche ?",
+        "r": "Oui : le dimanche, Auto Lavage Guyancourt est ouvert de 0 h à 23 h 59 (horaires relevés le 3 novembre 2026)."
+      },
+      {
+        "q": "Où se trouve Auto Lavage Guyancourt ?",
+        "r": "Auto Lavage Guyancourt se trouve 29 Bd des Chênes, 78280 Guyancourt. Un lien d'itinéraire est disponible sur cette page."
+      },
+      {
+        "q": "Comment contacter Auto Lavage Guyancourt ?",
+        "r": "Par téléphone au 06 03 84 79 86, ou directement sur place aux heures d'ouverture."
+      }
+    ],
+    "genere_le": "2026-11-03"
+  },
+  "statut_google": "OPERATIONAL",
+  "audience": {
+    "clics": 0,
+    "impressions": 0,
+    "position": null,
+    "fenetreJours": 90,
+    "clicsRecents": 0,
+    "fenetreRecenteJours": 28,
+    "source": "search-console",
+    "date": "2026-11-03"
+  }
+}

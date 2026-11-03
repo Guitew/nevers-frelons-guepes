@@ -1,0 +1,284 @@
+{
+  "id": "ChIJgaEmUUJx80cRBz9AvbdD6KI",
+  "slug": "cesbron-automobiles",
+  "nom": "Cesbron Automobiles",
+  "categorie": "garages-automobile",
+  "categorie_gmb": "Garage automobile",
+  "type_principal": "car_repair",
+  "types": [
+    "car_repair",
+    "service",
+    "point_of_interest",
+    "establishment"
+  ],
+  "ville": "Prissé",
+  "ville_slug": "prisse",
+  "adresse": {
+    "rue": "140 Impasse des Arènes",
+    "code_postal": "71960",
+    "departement": "71",
+    "region": "Bourgogne-Franche-Comté",
+    "pays": "France",
+    "complete": "140 Imp. des Arènes, 71960 Prissé"
+  },
+  "telephone": "03 85 37 85 95",
+  "geo": {
+    "latitude": 46.3217721,
+    "longitude": 4.7692347999999996
+  },
+  "note": 4.6,
+  "avis": 108,
+  "horaires": [
+    {
+      "jour": 0,
+      "ferme": false,
+      "creneaux": [
+        [
+          "07:00",
+          "12:00"
+        ],
+        [
+          "13:30",
+          "18:30"
+        ]
+      ]
+    },
+    {
+      "jour": 1,
+      "ferme": false,
+      "creneaux": [
+        [
+          "07:00",
+          "12:00"
+        ],
+        [
+          "13:30",
+          "18:30"
+        ]
+      ]
+    },
+    {
+      "jour": 2,
+      "ferme": false,
+      "creneaux": [
+        [
+          "07:00",
+          "12:00"
+        ],
+        [
+          "13:30",
+          "18:30"
+        ]
+      ]
+    },
+    {
+      "jour": 3,
+      "ferme": false,
+      "creneaux": [
+        [
+          "07:00",
+          "12:00"
+        ],
+        [
+          "13:30",
+          "18:30"
+        ]
+      ]
+    },
+    {
+      "jour": 4,
+      "ferme": false,
+      "creneaux": [
+        [
+          "07:00",
+          "12:00"
+        ],
+        [
+          "13:30",
+          "18:30"
+        ]
+      ]
+    },
+    {
+      "jour": 5,
+      "ferme": true,
+      "creneaux": []
+    },
+    {
+      "jour": 6,
+      "ferme": true,
+      "creneaux": []
+    }
+  ],
+  "attributs": [
+    "Entrée accessible en fauteuil roulant",
+    "Parking accessible en fauteuil roulant"
+  ],
+  "lien_google": "https://maps.google.com/?cid=11738706885174378247&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
+  "site_web_gmb": null,
+  "statut": "publiee",
+  "backlink": {
+    "etat": "absent",
+    "premiere_detection": null,
+    "derniere_detection": null,
+    "derniere_verification": "2026-11-03T12:44:19.075Z",
+    "echecs": 1,
+    "url_detectee": null
+  },
+  "suggestion": {
+    "etat": "en-attente",
+    "date_soumission": null,
+    "tentatives": 0
+  },
+  "retrait": null,
+  "dates": {
+    "collecte": "2026-11-03",
+    "publication": "2026-11-03",
+    "maj": "2026-11-03"
+  },
+  "source": "google-places",
+  "avis_detail": {
+    "releve": "2026-11-03",
+    "liste": [
+      {
+        "note": 5,
+        "texte": "Je recommande vivement ce garage.L'accueil est chaleureux et l'équipe est professionnelle et sans mauvaise surprise sur la facture.",
+        "langue": "fr",
+        "date": "2026-03-30",
+        "auteur": "Pierre Petit",
+        "auteur_lien": "https://www.google.com/maps/contrib/107995532405131822826/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2poR04ycE1kQzB0WnpSM1ltSmhhV3hUVGtaaFYwRRAB!2m1!1s0x47f371425126a181:0xa2e843b7bd403f07"
+      },
+      {
+        "note": 5,
+        "texte": "Super Accueil. Le garage nous a rappelé pour nous dire que ce n'était pas nécessaire de faire tous les changements prévus. J'ai trouvé cette démarche très honnête et j'ai beaucoup apprécié. Très bon travail. Je recommande.",
+        "langue": "fr",
+        "date": "2026-02-24",
+        "auteur": "Michel",
+        "auteur_lien": "https://www.google.com/maps/contrib/113113147298731684856/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25VMGQxZGtWM2gxTlc5SVgwNTZOVkprTUVSaFMzYxAB!2m1!1s0x47f371425126a181:0xa2e843b7bd403f07"
+      },
+      {
+        "note": 1,
+        "texte": "Je suis aller voir ce garage pour acheter un véhicule d occasion il y'a 4 mois environ ! Depuis plus de nouvelles ???",
+        "langue": "fr",
+        "date": "2026-02-10",
+        "auteur": "pascal hoquet",
+        "auteur_lien": "https://www.google.com/maps/contrib/103184012903994465547/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2s5RmJEUXhSM05mU201TVYxTnZkMEpSVEdjdE9HYxAB!2m1!1s0x47f371425126a181:0xa2e843b7bd403f07"
+      },
+      {
+        "note": 5,
+        "texte": "Très bon accueil, tarifs pour une révision très correctes et travaux effectués rapidement et proprement, le jeune mécano est très sympa et à l'écoute, j'y retournerai ...",
+        "langue": "fr",
+        "date": "2025-12-15",
+        "auteur": "Vincent Schuster",
+        "auteur_lien": "https://www.google.com/maps/contrib/110059359044566208820/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT21Wd01qSjZXRGxETkdKSlNtMUNjRVJ1TTNWTlEwRRAB!2m1!1s0x47f371425126a181:0xa2e843b7bd403f07"
+      },
+      {
+        "note": 5,
+        "texte": "Accueil très agréable sur place (accueil, mécanos) tout comme par téléphone.\nSuite à une urgence pour la pose d'un attelage sur mon utilitaire pour subvenir à l'obtention d'un gros chantier, ils ont remuer ciel et terre pour me trouver une place alors qu'ils étaient complets!!!\nEncore merci à toute l'équipe!!!\nIl se fait rare d'obtenir un devis si rapidement sans devoir sans cesse relancer, réactivité au top\nBref....je vous les recommande!!!",
+        "langue": "fr",
+        "date": "2025-11-19",
+        "auteur": "Fabien Anjolras",
+        "auteur_lien": "https://www.google.com/maps/contrib/116165441793663499786/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2tsU1NHWlhNa3RPVFRrdFdEVklZV1o1YjBOTFYzYxAB!2m1!1s0x47f371425126a181:0xa2e843b7bd403f07"
+      }
+    ]
+  },
+  "services": {
+    "releve": "2026-11-03",
+    "options": {
+      "restroom": true
+    },
+    "paiement": [
+      "carte bancaire",
+      "carte de débit",
+      "paiement sans contact"
+    ],
+    "parking": []
+  },
+  "redaction": {
+    "version": 2,
+    "titre": "Cesbron Automobiles — Garage et automobile à Prissé",
+    "meta_titre": "Cesbron Automobiles à Prissé : horaires, avis, téléphone",
+    "meta_description": "Cesbron Automobiles, garage et automobile à Prissé : horaires d'ouverture, note Google 4,6/5 (108 avis), téléphone, adresse et itinéraire.",
+    "chapo": "Cette fiche présente Cesbron Automobiles, un garage et automobile au 140 Impasse des Arènes, à Prissé. Fermé le samedi et le dimanche au relevé du 3 novembre 2026. Téléphone : 03 85 37 85 95. Note Google : 4,6 sur 5 pour 108 avis.",
+    "sections": [
+      {
+        "id": "presentation",
+        "titre": "Cesbron Automobiles en quelques mots",
+        "paragraphes": [
+          "Sur Google, l'établissement est classé « Garage automobile », dans notre rubrique Garage et automobile.",
+          "D'après le relevé du 3 novembre 2026, l'établissement est fermé le samedi et le dimanche. Le détail jour par jour figure plus bas."
+        ]
+      },
+      {
+        "id": "prestations",
+        "titre": "Services et équipements de Cesbron Automobiles",
+        "paragraphes": [
+          "Proposé : toilettes.",
+          "Moyens de paiement déclarés : carte bancaire, carte de débit et paiement sans contact.",
+          "Ces indications sont déclarées par l'établissement sur sa fiche Google (relevé du 3 novembre 2026)."
+        ]
+      },
+      {
+        "id": "acces",
+        "titre": "Adresse et accès",
+        "paragraphes": [
+          "L'établissement est situé au 140 Impasse des Arènes, 71960 Prissé.",
+          "Coordonnées GPS : 46.32177, 4.76923. Le bouton Itinéraire de cette page ouvre la navigation."
+        ]
+      },
+      {
+        "id": "contact",
+        "titre": "Contacter Cesbron Automobiles",
+        "paragraphes": [
+          "Le contact se fait par téléphone au 03 85 37 85 95, ou directement sur place aux horaires d'ouverture."
+        ]
+      },
+      {
+        "id": "avis",
+        "titre": "La réputation de Cesbron Automobiles",
+        "paragraphes": [
+          "Note de 4,6 sur 5 pour 108 avis Google au relevé du 3 novembre 2026. Les avis les plus parlants sont compilés ci-dessous, avec un lien vers la fiche d'origine."
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "q": "Quels sont les horaires de Cesbron Automobiles ?",
+        "r": "Au relevé du 3 novembre 2026, Cesbron Automobiles était fermé le samedi et le dimanche. Dans le détail — lundi : de 7 h à 12 h et de 13 h 30 à 18 h 30 ; mardi : de 7 h à 12 h et de 13 h 30 à 18 h 30 ; mercredi : de 7 h à 12 h et de 13 h 30 à 18 h 30 ; jeudi : de 7 h à 12 h et de 13 h 30 à 18 h 30 ; vendredi : de 7 h à 12 h et de 13 h 30 à 18 h 30 ; samedi : fermé ; dimanche : fermé. Ces horaires peuvent changer : un appel préalable reste conseillé."
+      },
+      {
+        "q": "Cesbron Automobiles est-il ouvert le dimanche ?",
+        "r": "Non : d'après les horaires relevés le 3 novembre 2026, Cesbron Automobiles est fermé le dimanche."
+      },
+      {
+        "q": "Où se trouve Cesbron Automobiles ?",
+        "r": "Cesbron Automobiles se trouve 140 Imp. des Arènes, 71960 Prissé. Un lien d'itinéraire est disponible sur cette page."
+      },
+      {
+        "q": "Comment contacter Cesbron Automobiles ?",
+        "r": "Par téléphone au 03 85 37 85 95, ou directement sur place aux heures d'ouverture."
+      },
+      {
+        "q": "Cesbron Automobiles est-il accessible aux personnes à mobilité réduite ?",
+        "r": "La fiche Google de l'établissement mentionne : « Entrée accessible en fauteuil roulant ». Cette information est déclarative ; en cas de doute, vérifiez par téléphone."
+      }
+    ],
+    "genere_le": "2026-11-03"
+  },
+  "statut_google": "OPERATIONAL",
+  "audience": {
+    "clics": 0,
+    "impressions": 0,
+    "position": null,
+    "fenetreJours": 90,
+    "clicsRecents": 0,
+    "fenetreRecenteJours": 28,
+    "source": "search-console",
+    "date": "2026-11-03"
+  }
+}

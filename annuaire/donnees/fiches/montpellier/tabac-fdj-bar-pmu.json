@@ -113,8 +113,8 @@
     "etat": "absent",
     "premiere_detection": null,
     "derniere_detection": null,
-    "derniere_verification": "2026-10-18T10:46:48.744Z",
-    "echecs": 24,
+    "derniere_verification": "2026-11-03T12:44:19.075Z",
+    "echecs": 25,
     "url_detectee": null
   },
   "suggestion": {
@@ -127,7 +127,7 @@
   "dates": {
     "collecte": "2026-09-20",
     "publication": "2026-09-20",
-    "maj": "2026-10-18"
+    "maj": "2026-11-03"
   },
   "source": "google-places",
   "redaction": {
@@ -201,7 +201,7 @@
     "clicsRecents": 0,
     "fenetreRecenteJours": 28,
     "source": "search-console",
-    "date": "2026-11-02"
+    "date": "2026-11-03"
   },
   "avis_detail": {
     "releve": "2026-10-18",
@@ -256,10 +256,10 @@
   "indexation": {
     "etat": "non-indexee",
     "verdict": "NEUTRAL",
-    "couverture": "Détectée, actuellement non indexée",
+    "couverture": "Google ne reconnaît pas cette URL",
     "derniere_exploration": null,
     "canonique_google": null,
     "source": "inspection",
-    "date": "2026-11-02"
+    "date": "2026-11-03"
   }
 }

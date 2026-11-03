@@ -1,0 +1,296 @@
+{
+  "id": "ChIJLdITFIJVrRIRHq-HIClK6kw",
+  "slug": "tabac-du-cap-blanc",
+  "nom": "tabac du cap blanc",
+  "categorie": "cafes-bars",
+  "categorie_gmb": "Bar",
+  "type_principal": "bar",
+  "types": [
+    "bar",
+    "restaurant",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "ville": "Aurillac",
+  "ville_slug": "aurillac",
+  "adresse": {
+    "rue": "45 Avenue Jean Baptiste Veyre",
+    "code_postal": "15000",
+    "departement": "15",
+    "region": "Auvergne-Rhône-Alpes",
+    "pays": "France",
+    "complete": "45 Av. Jean Baptiste Veyre, 15000 Aurillac"
+  },
+  "telephone": "04 71 48 28 90",
+  "geo": {
+    "latitude": 44.9353894,
+    "longitude": 2.4542327999999998
+  },
+  "note": 3.9,
+  "avis": 81,
+  "horaires": [
+    {
+      "jour": 0,
+      "ferme": false,
+      "creneaux": [
+        [
+          "08:00",
+          "20:00"
+        ]
+      ]
+    },
+    {
+      "jour": 1,
+      "ferme": false,
+      "creneaux": [
+        [
+          "08:00",
+          "20:00"
+        ]
+      ]
+    },
+    {
+      "jour": 2,
+      "ferme": false,
+      "creneaux": [
+        [
+          "08:00",
+          "20:00"
+        ]
+      ]
+    },
+    {
+      "jour": 3,
+      "ferme": false,
+      "creneaux": [
+        [
+          "08:00",
+          "20:00"
+        ]
+      ]
+    },
+    {
+      "jour": 4,
+      "ferme": false,
+      "creneaux": [
+        [
+          "08:00",
+          "20:00"
+        ]
+      ]
+    },
+    {
+      "jour": 5,
+      "ferme": false,
+      "creneaux": [
+        [
+          "09:00",
+          "12:00"
+        ],
+        [
+          "17:00",
+          "20:00"
+        ]
+      ]
+    },
+    {
+      "jour": 6,
+      "ferme": false,
+      "creneaux": [
+        [
+          "09:00",
+          "13:00"
+        ]
+      ]
+    }
+  ],
+  "attributs": [],
+  "lien_google": "https://maps.google.com/?cid=5542323831932694302&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
+  "site_web_gmb": null,
+  "statut": "publiee",
+  "backlink": {
+    "etat": "absent",
+    "premiere_detection": null,
+    "derniere_detection": null,
+    "derniere_verification": "2026-11-03T12:44:19.075Z",
+    "echecs": 1,
+    "url_detectee": null
+  },
+  "suggestion": {
+    "etat": "en-attente",
+    "date_soumission": null,
+    "tentatives": 0
+  },
+  "retrait": null,
+  "dates": {
+    "collecte": "2026-11-03",
+    "publication": "2026-11-03",
+    "maj": "2026-11-03"
+  },
+  "source": "google-places",
+  "avis_detail": {
+    "releve": "2026-11-03",
+    "liste": [
+      {
+        "note": 1,
+        "texte": "Insulter une femme de \"pute\" parce que cette dernière a laisser des déchets sur la table après avoir mangé.",
+        "langue": "fr",
+        "date": "2026-08-22",
+        "auteur": "Delphine ESPERCE",
+        "auteur_lien": "https://www.google.com/maps/contrib/106099471472825317151/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xaSlpTMU1lRkpaV0hRdGRXczFVSFpCTjBsUFNVRRAB!2m1!1s0x12ad55821413d22d:0x4cea4a292087af1e"
+      },
+      {
+        "note": 1,
+        "texte": "n’accepte pas de donner des verres d’eau aux personnes qui consomment chez eux, on a donc pris une bouteille d’eau au super u d’en face mais il n’a pas voulu qu’on la consomme alors qu’on a tous pris plusieurs cafés… c’est honteux, en plein festival sous la chaleur du mois d’août, on parle d’eau la ? lunaire… aucune sympathie, je ne conseille pas.",
+        "langue": "fr",
+        "date": "2026-08-20",
+        "auteur": "LISA",
+        "auteur_lien": "https://www.google.com/maps/contrib/104622752045662223375/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xwbVRuQmlNVzFKZDBKR1FWZE9Xa3BrZGpWa2VYYxAB!2m1!1s0x12ad55821413d22d:0x4cea4a292087af1e"
+      },
+      {
+        "note": 1,
+        "texte": "jamais vu quelqu’un d’aussi peu aimable",
+        "langue": "fr",
+        "date": "2026-08-20",
+        "auteur": "Polo Boulardo",
+        "auteur_lien": "https://www.google.com/maps/contrib/116606294149051448333/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2s5NlJVNVNWRjlXZWxwM1dEWmZSRGw1WTFkdVlXYxAB!2m1!1s0x12ad55821413d22d:0x4cea4a292087af1e"
+      },
+      {
+        "note": 1,
+        "texte": "Bonjour,\nAgresser une jeune fille qui demande a faire pipi alors qu'elle travaille et que non nous les femmes ne pouvons pas pisser dehors est inadmissible.\nNous sommes en 2025, merci d'ajuster votre comportement .\nA fuir",
+        "langue": "fr",
+        "date": "2025-01-30",
+        "auteur": "aurelie jardine",
+        "auteur_lien": "https://www.google.com/maps/contrib/102290215346463013189/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnTUNBc3J6bkd3EAE!2m1!1s0x12ad55821413d22d:0x4cea4a292087af1e"
+      },
+      {
+        "note": 2,
+        "texte": "J'aurais aimé que quelqu'un note les horaires de ce bar tabac. Certains y vont en pensant qu'il ferme tard, il est 22h, et doivent rebrousser chemin car c'est fermé... Si une personne qui connait ce bar peut demander les horaires et les noter ici ou leur demander de le faire, ce serait super... Merci",
+        "langue": "fr",
+        "date": "2024-03-13",
+        "auteur": "Tony Rox",
+        "auteur_lien": "https://www.google.com/maps/contrib/108716845059495146779/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUROemZHOThnRRAB!2m1!1s0x12ad55821413d22d:0x4cea4a292087af1e"
+      }
+    ]
+  },
+  "services": {
+    "releve": "2026-11-03",
+    "prix": "PRICE_LEVEL_INEXPENSIVE",
+    "options": {
+      "dineIn": true,
+      "takeout": false,
+      "delivery": false,
+      "outdoorSeating": true,
+      "servesBeer": true,
+      "servesWine": true,
+      "servesCocktails": true,
+      "goodForGroups": true,
+      "liveMusic": false,
+      "restroom": true
+    },
+    "paiement": [
+      "carte bancaire",
+      "carte de débit",
+      "paiement sans contact"
+    ],
+    "parking": [
+      "parking gratuit",
+      "stationnement gratuit dans la rue"
+    ]
+  },
+  "redaction": {
+    "version": 2,
+    "titre": "tabac du cap blanc — Café ou bar à Aurillac",
+    "meta_titre": "tabac du cap blanc à Aurillac : horaires, avis, téléphone",
+    "meta_description": "tabac du cap blanc, café ou bar à Aurillac : horaires d'ouverture, note Google 3,9/5 (81 avis), téléphone, adresse et itinéraire.",
+    "chapo": "tabac du cap blanc est un café ou bar au 45 Avenue Jean Baptiste Veyre, à Aurillac. Ouvert sept jours sur sept au relevé du 3 novembre 2026. Téléphone : 04 71 48 28 90. Note Google : 3,9 sur 5 pour 81 avis.",
+    "sections": [
+      {
+        "id": "presentation",
+        "titre": "tabac du cap blanc en quelques mots",
+        "paragraphes": [
+          "Sur Google, l'établissement est classé « Bar », dans notre rubrique Café ou bar.",
+          "Niveau de prix indiqué sur la fiche Google : € (bon marché).",
+          "D'après le relevé du 3 novembre 2026, l'établissement est ouvert sept jours sur sept. Le détail jour par jour figure plus bas."
+        ]
+      },
+      {
+        "id": "prestations",
+        "titre": "Services et équipements de tabac du cap blanc",
+        "paragraphes": [
+          "Proposé : sur place, terrasse, bière, vin, cocktails, adapté aux groupes et toilettes.",
+          "Non proposé selon la fiche Google : à emporter, livraison et musique live.",
+          "Moyens de paiement déclarés : carte bancaire, carte de débit et paiement sans contact.",
+          "Stationnement : parking gratuit et stationnement gratuit dans la rue.",
+          "Ces indications sont déclarées par l'établissement sur sa fiche Google (relevé du 3 novembre 2026)."
+        ]
+      },
+      {
+        "id": "acces",
+        "titre": "Adresse et accès",
+        "paragraphes": [
+          "L'établissement est situé au 45 Avenue Jean Baptiste Veyre, 15000 Aurillac.",
+          "Coordonnées GPS : 44.93539, 2.45423. Le bouton Itinéraire de cette page ouvre la navigation."
+        ]
+      },
+      {
+        "id": "contact",
+        "titre": "Contacter tabac du cap blanc",
+        "paragraphes": [
+          "Le contact se fait par téléphone au 04 71 48 28 90, ou directement sur place aux horaires d'ouverture."
+        ]
+      },
+      {
+        "id": "avis",
+        "titre": "La réputation de tabac du cap blanc",
+        "paragraphes": [
+          "Note de 3,9 sur 5 pour 81 avis Google au relevé du 3 novembre 2026. Les avis les plus parlants sont compilés ci-dessous, avec un lien vers la fiche d'origine."
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "q": "Quels sont les horaires de tabac du cap blanc ?",
+        "r": "Au relevé du 3 novembre 2026, tabac du cap blanc était ouvert sept jours sur sept. Dans le détail — lundi : de 8 h à 20 h ; mardi : de 8 h à 20 h ; mercredi : de 8 h à 20 h ; jeudi : de 8 h à 20 h ; vendredi : de 8 h à 20 h ; samedi : de 9 h à 12 h et de 17 h à 20 h ; dimanche : de 9 h à 13 h. Ces horaires peuvent changer : un appel préalable reste conseillé."
+      },
+      {
+        "q": "tabac du cap blanc est-il ouvert le dimanche ?",
+        "r": "Oui : le dimanche, tabac du cap blanc est ouvert de 9 h à 13 h (horaires relevés le 3 novembre 2026)."
+      },
+      {
+        "q": "Où se trouve tabac du cap blanc ?",
+        "r": "tabac du cap blanc se trouve 45 Av. Jean Baptiste Veyre, 15000 Aurillac. Un lien d'itinéraire est disponible sur cette page."
+      },
+      {
+        "q": "Comment contacter tabac du cap blanc ?",
+        "r": "Par téléphone au 04 71 48 28 90, ou directement sur place aux heures d'ouverture."
+      },
+      {
+        "q": "tabac du cap blanc propose-t-il la vente à emporter ou la livraison ?",
+        "r": "D'après sa fiche Google (relevé du 3 novembre 2026) — vente à emporter : non ; livraison : non."
+      },
+      {
+        "q": "Quel est le niveau de prix de tabac du cap blanc ?",
+        "r": "Google classe tabac du cap blanc au niveau de prix € (bon marché), sur une échelle de € à €€€€ établie à partir des avis clients."
+      }
+    ],
+    "genere_le": "2026-11-03"
+  },
+  "statut_google": "OPERATIONAL",
+  "audience": {
+    "clics": 0,
+    "impressions": 0,
+    "position": null,
+    "fenetreJours": 90,
+    "clicsRecents": 0,
+    "fenetreRecenteJours": 28,
+    "source": "search-console",
+    "date": "2026-11-03"
+  }
+}

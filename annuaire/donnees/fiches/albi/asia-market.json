@@ -1,0 +1,301 @@
+{
+  "id": "ChIJCw4C6A3prRIRMevDnXeuh6w",
+  "slug": "asia-market",
+  "nom": "ASIA MARKET",
+  "categorie": "commerces-alimentation",
+  "categorie_gmb": "Épicerie asiatique",
+  "type_principal": "asian_grocery_store",
+  "types": [
+    "asian_grocery_store",
+    "grocery_store",
+    "food_store",
+    "food",
+    "point_of_interest",
+    "store",
+    "establishment"
+  ],
+  "ville": "Albi",
+  "ville_slug": "albi",
+  "adresse": {
+    "rue": "173 Avenue de Saint-Juéry",
+    "code_postal": "81000",
+    "departement": "81",
+    "region": "Occitanie",
+    "pays": "France",
+    "complete": "173 Av. de Saint-Juéry, 81000 Albi"
+  },
+  "telephone": "05 63 57 20 51",
+  "geo": {
+    "latitude": 43.9380624,
+    "longitude": 2.1826849999999998
+  },
+  "note": 4.5,
+  "avis": 260,
+  "horaires": [
+    {
+      "jour": 0,
+      "ferme": false,
+      "creneaux": [
+        [
+          "09:00",
+          "12:00"
+        ],
+        [
+          "14:00",
+          "19:00"
+        ]
+      ]
+    },
+    {
+      "jour": 1,
+      "ferme": false,
+      "creneaux": [
+        [
+          "09:00",
+          "12:00"
+        ],
+        [
+          "14:00",
+          "19:00"
+        ]
+      ]
+    },
+    {
+      "jour": 2,
+      "ferme": false,
+      "creneaux": [
+        [
+          "09:00",
+          "12:00"
+        ],
+        [
+          "14:00",
+          "19:00"
+        ]
+      ]
+    },
+    {
+      "jour": 3,
+      "ferme": false,
+      "creneaux": [
+        [
+          "09:00",
+          "12:00"
+        ],
+        [
+          "14:00",
+          "19:00"
+        ]
+      ]
+    },
+    {
+      "jour": 4,
+      "ferme": false,
+      "creneaux": [
+        [
+          "09:00",
+          "12:00"
+        ],
+        [
+          "14:00",
+          "19:00"
+        ]
+      ]
+    },
+    {
+      "jour": 5,
+      "ferme": false,
+      "creneaux": [
+        [
+          "09:00",
+          "12:00"
+        ],
+        [
+          "14:00",
+          "19:00"
+        ]
+      ]
+    },
+    {
+      "jour": 6,
+      "ferme": true,
+      "creneaux": []
+    }
+  ],
+  "attributs": [
+    "Entrée accessible en fauteuil roulant",
+    "Parking accessible en fauteuil roulant"
+  ],
+  "lien_google": "https://maps.google.com/?cid=12432097125150747441&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
+  "site_web_gmb": null,
+  "statut": "publiee",
+  "backlink": {
+    "etat": "absent",
+    "premiere_detection": null,
+    "derniere_detection": null,
+    "derniere_verification": "2026-11-03T12:44:19.075Z",
+    "echecs": 1,
+    "url_detectee": null
+  },
+  "suggestion": {
+    "etat": "en-attente",
+    "date_soumission": null,
+    "tentatives": 0
+  },
+  "retrait": null,
+  "dates": {
+    "collecte": "2026-11-03",
+    "publication": "2026-11-03",
+    "maj": "2026-11-03"
+  },
+  "source": "google-places",
+  "avis_detail": {
+    "releve": "2026-11-03",
+    "liste": [
+      {
+        "note": 5,
+        "texte": "Le magasin est agréable, et les deux jeunes hommes qui travaillaient ce 5 septembre donnent de très bons conseils et ils ont même proposé de nous aider à porter nos sacs de riz jusqu'à la voiture. J'y retournerai sans aucune hésitation.",
+        "langue": "fr",
+        "date": "2026-09-05",
+        "auteur": "Algorab",
+        "auteur_lien": "https://www.google.com/maps/contrib/104765208779479820335/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2s5WmRUUm5RbGRXWWpka2Mya3pWVzlqWDFKTFMxRRAB!2m1!1s0x12ade90de8020e0b:0xac87ae779dc3eb31"
+      },
+      {
+        "note": 5,
+        "texte": "Super magasin asiatique.  Je retrouve tous les produits dont j’ai besoin pour pouvoir bien cuisiner.\nMerci 😊",
+        "langue": "fr",
+        "date": "2026-07-18",
+        "auteur": "Soraya PATEL",
+        "auteur_lien": "https://www.google.com/maps/contrib/115659022768914802613/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2tWU1RqSnBjVGhRWDFkdlEwcFJkWFZEYm1jMGRWRRAB!2m1!1s0x12ade90de8020e0b:0xac87ae779dc3eb31"
+      },
+      {
+        "note": 5,
+        "texte": "Bonjour  petit magasin très sympathique,  l'accueil l'est tout autant, et on y trouve pas mal de chose ,je recommande +++",
+        "langue": "fr",
+        "date": "2026-07-11",
+        "auteur": "LaétiBen",
+        "auteur_lien": "https://www.google.com/maps/contrib/112059216230098181328/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT21OWWRHVm9ZMjFRWDFKblJHNUtXVmRNZEZjNU9XYxAB!2m1!1s0x12ade90de8020e0b:0xac87ae779dc3eb31"
+      },
+      {
+        "note": 5,
+        "texte": "J'ai découvert ce petit magasin fort bien achalandé. Pour les amateurs de cuisine asiatique, il y a tout ce qu'il faut pour organiser un  bon repas entre amis. Je recommande ce magasin sur la commune d'Albi, limitrophe de Saint Juery",
+        "langue": "fr",
+        "date": "2026-06-09",
+        "auteur": "Pascal ALASIA",
+        "auteur_lien": "https://www.google.com/maps/contrib/115316108368845190455/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT21vNFQzSmlOVFEyYTA5aVZVeGFVRll3VjJsNE5XYxAB!2m1!1s0x12ade90de8020e0b:0xac87ae779dc3eb31"
+      },
+      {
+        "note": 1,
+        "texte": "Je suis extrêmement déçue et en colère.\n\nAprès avoir acheté des gyoza surgelés dans cette épicerie, j’ai été gravement malade pendant trois jours. Impossible de quitter mon lit, nausées, étourdissements, début d’une otite, douleurs intenses… J’ai sincèrement cru que j’allais y rester.\n\nAprès vérification, le produit était périmé je l’ai compris rien qu’à l’odeur, je pensais qu’ils étaient aux crevettes à cause de l’odeur, alors que c’était du poulet…\n\nVendre des produits surgelés dont la date est potentiellement dépassée est totalement irresponsable et met la santé des clients en danger.\n\nUn simple contrôle des dates aurait évité cette situation. J’attends d’un commerce alimentaire un minimum de sérieux et de respect des normes d’hygiène.\n\nJe partage mon expérience pour que cela ne se reproduise pas et pour que d’autres clients soient vigilants.\n\nPour ma part je ne reviendrais pas !",
+        "langue": "fr",
+        "date": "2026-03-03",
+        "auteur": "Léane LUNTADILA",
+        "auteur_lien": "https://www.google.com/maps/contrib/110107892000224979923/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2tsMlkwZFFlRkJOZUdSNGJucDFOV1pQVDAxaWRuYxAB!2m1!1s0x12ade90de8020e0b:0xac87ae779dc3eb31"
+      }
+    ]
+  },
+  "services": {
+    "releve": "2026-11-03",
+    "options": {
+      "delivery": false,
+      "restroom": false
+    },
+    "paiement": [
+      "carte bancaire",
+      "carte de débit",
+      "paiement sans contact"
+    ],
+    "parking": []
+  },
+  "redaction": {
+    "version": 2,
+    "titre": "ASIA MARKET — Commerce d'alimentation à Albi",
+    "meta_titre": "ASIA MARKET à Albi : horaires, avis, téléphone",
+    "meta_description": "ASIA MARKET, commerce d'alimentation à Albi : horaires d'ouverture, note Google 4,5/5 (260 avis), téléphone, adresse et itinéraire.",
+    "chapo": "Cette fiche présente ASIA MARKET, un commerce d'alimentation au 173 Avenue de Saint-Juéry, à Albi. Ouvert tous les jours sauf le dimanche au relevé du 3 novembre 2026. Téléphone : 05 63 57 20 51. Note Google : 4,5 sur 5 pour 260 avis.",
+    "sections": [
+      {
+        "id": "presentation",
+        "titre": "ASIA MARKET en quelques mots",
+        "paragraphes": [
+          "Sur Google, l'établissement est classé « Épicerie asiatique », dans notre rubrique Commerce d'alimentation.",
+          "D'après le relevé du 3 novembre 2026, l'établissement est ouvert tous les jours sauf le dimanche. Le détail jour par jour figure plus bas."
+        ]
+      },
+      {
+        "id": "prestations",
+        "titre": "Services et équipements de ASIA MARKET",
+        "paragraphes": [
+          "Non proposé selon la fiche Google : livraison et toilettes.",
+          "Moyens de paiement déclarés : carte bancaire, carte de débit et paiement sans contact.",
+          "Ces indications sont déclarées par l'établissement sur sa fiche Google (relevé du 3 novembre 2026)."
+        ]
+      },
+      {
+        "id": "acces",
+        "titre": "Adresse et accès",
+        "paragraphes": [
+          "L'établissement est situé au 173 Avenue de Saint-Juéry, 81000 Albi.",
+          "Coordonnées GPS : 43.93806, 2.18268. Le bouton Itinéraire de cette page ouvre la navigation."
+        ]
+      },
+      {
+        "id": "contact",
+        "titre": "Contacter ASIA MARKET",
+        "paragraphes": [
+          "Le contact se fait par téléphone au 05 63 57 20 51, ou directement sur place aux horaires d'ouverture."
+        ]
+      },
+      {
+        "id": "avis",
+        "titre": "La réputation de ASIA MARKET",
+        "paragraphes": [
+          "Note de 4,5 sur 5 pour 260 avis Google au relevé du 3 novembre 2026. Les avis les plus parlants sont compilés ci-dessous, avec un lien vers la fiche d'origine."
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "q": "Quels sont les horaires de ASIA MARKET ?",
+        "r": "Au relevé du 3 novembre 2026, ASIA MARKET était ouvert tous les jours sauf le dimanche. Dans le détail — lundi : de 9 h à 12 h et de 14 h à 19 h ; mardi : de 9 h à 12 h et de 14 h à 19 h ; mercredi : de 9 h à 12 h et de 14 h à 19 h ; jeudi : de 9 h à 12 h et de 14 h à 19 h ; vendredi : de 9 h à 12 h et de 14 h à 19 h ; samedi : de 9 h à 12 h et de 14 h à 19 h ; dimanche : fermé. Ces horaires peuvent changer : un appel préalable reste conseillé."
+      },
+      {
+        "q": "ASIA MARKET est-il ouvert le dimanche ?",
+        "r": "Non : d'après les horaires relevés le 3 novembre 2026, ASIA MARKET est fermé le dimanche."
+      },
+      {
+        "q": "Où se trouve ASIA MARKET ?",
+        "r": "ASIA MARKET se trouve 173 Av. de Saint-Juéry, 81000 Albi. Un lien d'itinéraire est disponible sur cette page."
+      },
+      {
+        "q": "Comment contacter ASIA MARKET ?",
+        "r": "Par téléphone au 05 63 57 20 51, ou directement sur place aux heures d'ouverture."
+      },
+      {
+        "q": "ASIA MARKET propose-t-il la vente à emporter ou la livraison ?",
+        "r": "D'après sa fiche Google (relevé du 3 novembre 2026) — livraison : non."
+      },
+      {
+        "q": "ASIA MARKET est-il accessible aux personnes à mobilité réduite ?",
+        "r": "La fiche Google de l'établissement mentionne : « Entrée accessible en fauteuil roulant ». Cette information est déclarative ; en cas de doute, vérifiez par téléphone."
+      }
+    ],
+    "genere_le": "2026-11-03"
+  },
+  "statut_google": "OPERATIONAL",
+  "audience": {
+    "clics": 0,
+    "impressions": 0,
+    "position": null,
+    "fenetreJours": 90,
+    "clicsRecents": 0,
+    "fenetreRecenteJours": 28,
+    "source": "search-console",
+    "date": "2026-11-03"
+  }
+}

@@ -29,7 +29,7 @@
     "longitude": 5.210061
   },
   "note": 4.5,
-  "avis": 924,
+  "avis": 930,
   "horaires": [
     {
       "jour": 0,
@@ -126,15 +126,15 @@
     "Parking accessible en fauteuil roulant"
   ],
   "lien_google": "https://maps.google.com/?cid=12202493621922600114&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
-  "site_web_gmb": null,
+  "site_web_gmb": "http://www.bresse-autosport.fr/",
   "statut": "publiee",
   "backlink": {
-    "etat": "absent",
+    "etat": "externe",
     "premiere_detection": null,
     "derniere_detection": null,
-    "derniere_verification": "2026-10-19T10:42:12.979Z",
-    "echecs": 1,
-    "url_detectee": null
+    "derniere_verification": "2026-11-03T12:44:19.075Z",
+    "echecs": 2,
+    "url_detectee": "http://www.bresse-autosport.fr/"
   },
   "suggestion": {
     "etat": "en-attente",
@@ -146,7 +146,7 @@
   "dates": {
     "collecte": "2026-10-19",
     "publication": "2026-10-19",
-    "maj": "2026-10-19"
+    "maj": "2026-11-03"
   },
   "source": "google-places",
   "avis_detail": {
@@ -289,12 +289,12 @@
   "statut_google": "OPERATIONAL",
   "audience": {
     "clics": 0,
-    "impressions": 51,
+    "impressions": 55,
     "position": 8.2,
     "fenetreJours": 90,
     "clicsRecents": 0,
     "fenetreRecenteJours": 28,
     "source": "search-console",
-    "date": "2026-11-02"
+    "date": "2026-11-03"
   }
 }
