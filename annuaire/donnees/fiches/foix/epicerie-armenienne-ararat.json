@@ -105,8 +105,8 @@
     "etat": "absent",
     "premiere_detection": null,
     "derniere_detection": null,
-    "derniere_verification": "2026-10-19T10:42:12.979Z",
-    "echecs": 20,
+    "derniere_verification": "2026-11-04T12:56:51.697Z",
+    "echecs": 21,
     "url_detectee": null
   },
   "suggestion": {
@@ -119,7 +119,7 @@
   "dates": {
     "collecte": "2026-09-27",
     "publication": "2026-09-27",
-    "maj": "2026-10-19"
+    "maj": "2026-11-04"
   },
   "source": "google-places",
   "redaction": {
@@ -203,7 +203,7 @@
     "clicsRecents": 0,
     "fenetreRecenteJours": 28,
     "source": "search-console",
-    "date": "2026-11-03"
+    "date": "2026-11-04"
   },
   "avis_detail": {
     "releve": "2026-10-19",
@@ -267,5 +267,14 @@
       "paiement sans contact"
     ],
     "parking": []
+  },
+  "indexation": {
+    "etat": "indexee",
+    "verdict": "PASS",
+    "couverture": "Envoyée et indexée",
+    "derniere_exploration": "2026-11-04T05:53:44Z",
+    "canonique_google": "https://andpro.fr/vitrine-locale/commerces-alimentation/foix/epicerie-armenienne-ararat/",
+    "source": "inspection",
+    "date": "2026-11-04"
   }
 }

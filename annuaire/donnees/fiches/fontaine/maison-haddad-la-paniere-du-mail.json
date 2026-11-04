@@ -212,7 +212,7 @@
     "clicsRecents": 0,
     "fenetreRecenteJours": 28,
     "source": "search-console",
-    "date": "2026-11-03"
+    "date": "2026-11-04"
   },
   "avis_detail": {
     "releve": "2026-10-22",
@@ -285,12 +285,12 @@
     ]
   },
   "indexation": {
-    "etat": "non-indexee",
-    "verdict": "NEUTRAL",
-    "couverture": "Google ne reconnaît pas cette URL",
-    "derniere_exploration": null,
-    "canonique_google": null,
+    "etat": "indexee",
+    "verdict": "PASS",
+    "couverture": "Envoyée et indexée",
+    "derniere_exploration": "2026-11-04T11:28:29Z",
+    "canonique_google": "https://andpro.fr/vitrine-locale/boulangeries-patisseries/fontaine/maison-haddad-la-paniere-du-mail/",
     "source": "inspection",
-    "date": "2026-11-03"
+    "date": "2026-11-04"
   }
 }

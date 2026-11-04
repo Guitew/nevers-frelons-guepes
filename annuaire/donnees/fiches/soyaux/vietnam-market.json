@@ -1,0 +1,302 @@
+{
+  "id": "ChIJIe6uSVEy_kcRiCi7jNBjHgE",
+  "slug": "vietnam-market",
+  "nom": "Vietnam Market",
+  "categorie": "commerces-alimentation",
+  "categorie_gmb": "Épicerie asiatique",
+  "type_principal": "asian_grocery_store",
+  "types": [
+    "asian_grocery_store",
+    "grocery_store",
+    "food_store",
+    "food",
+    "store",
+    "point_of_interest",
+    "establishment"
+  ],
+  "ville": "Soyaux",
+  "ville_slug": "soyaux",
+  "adresse": {
+    "rue": "56 Avenue du Général de Gaulle",
+    "code_postal": "16800",
+    "departement": "16",
+    "region": "Nouvelle-Aquitaine",
+    "pays": "France",
+    "complete": "56 Av. du Général de Gaulle, 16800 Soyaux"
+  },
+  "telephone": "05 79 69 69 25",
+  "geo": {
+    "latitude": 45.6435415,
+    "longitude": 0.1853068
+  },
+  "note": 4.6,
+  "avis": 277,
+  "horaires": [
+    {
+      "jour": 0,
+      "ferme": false,
+      "creneaux": [
+        [
+          "14:00",
+          "19:30"
+        ]
+      ]
+    },
+    {
+      "jour": 1,
+      "ferme": false,
+      "creneaux": [
+        [
+          "08:30",
+          "13:00"
+        ],
+        [
+          "14:00",
+          "19:30"
+        ]
+      ]
+    },
+    {
+      "jour": 2,
+      "ferme": false,
+      "creneaux": [
+        [
+          "08:30",
+          "13:00"
+        ],
+        [
+          "14:00",
+          "19:30"
+        ]
+      ]
+    },
+    {
+      "jour": 3,
+      "ferme": false,
+      "creneaux": [
+        [
+          "08:30",
+          "13:00"
+        ],
+        [
+          "14:00",
+          "19:30"
+        ]
+      ]
+    },
+    {
+      "jour": 4,
+      "ferme": false,
+      "creneaux": [
+        [
+          "08:30",
+          "13:00"
+        ],
+        [
+          "14:00",
+          "19:30"
+        ]
+      ]
+    },
+    {
+      "jour": 5,
+      "ferme": false,
+      "creneaux": [
+        [
+          "08:30",
+          "13:00"
+        ],
+        [
+          "14:00",
+          "19:30"
+        ]
+      ]
+    },
+    {
+      "jour": 6,
+      "ferme": false,
+      "creneaux": [
+        [
+          "08:30",
+          "13:00"
+        ]
+      ]
+    }
+  ],
+  "attributs": [
+    "Entrée accessible en fauteuil roulant",
+    "Parking accessible en fauteuil roulant"
+  ],
+  "lien_google": "https://maps.google.com/?cid=80611590704670856&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
+  "site_web_gmb": null,
+  "statut": "publiee",
+  "backlink": {
+    "etat": "absent",
+    "premiere_detection": null,
+    "derniere_detection": null,
+    "derniere_verification": "2026-11-04T12:56:51.697Z",
+    "echecs": 1,
+    "url_detectee": null
+  },
+  "suggestion": {
+    "etat": "en-attente",
+    "date_soumission": null,
+    "tentatives": 0
+  },
+  "retrait": null,
+  "dates": {
+    "collecte": "2026-11-04",
+    "publication": "2026-11-04",
+    "maj": "2026-11-04"
+  },
+  "source": "google-places",
+  "avis_detail": {
+    "releve": "2026-11-04",
+    "liste": [
+      {
+        "note": 5,
+        "texte": "Bon rapport qualité prix et on trouve pas mal de produits asiatiques à des prix raisonnables",
+        "langue": "fr",
+        "date": "2026-08-24",
+        "auteur": "Philippe Morris",
+        "auteur_lien": "https://www.google.com/maps/contrib/107965504830931375364/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xCZmExcEdNMU0zUmxkWVpIbFBVRWxLVkU5QlYxRRAB!2m1!1s0x47fe325149aeee21:0x11e63d08cbb2888"
+      },
+      {
+        "note": 5,
+        "texte": "Super accueil, grande diversité de produits.\nTres sympa avec les enfants lors des courses en famille.\nMerci",
+        "langue": "fr",
+        "date": "2026-08-17",
+        "auteur": "Charles Chaplin",
+        "auteur_lien": "https://www.google.com/maps/contrib/113603059781391102699/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2tkYVRGbEtOVXQwT1dvME4wTXlSVWRpVVVwc09WRRAB!2m1!1s0x47fe325149aeee21:0x11e63d08cbb2888"
+      },
+      {
+        "note": 5,
+        "texte": "Superbe épicerie de quartier . Beaucoup de choix , produits de toute l Asie et les Antilles . Produits  Frais mais aussi surgelés variés et exotiques . Motion spéciale pour la propriétaire  qui est très accueillante .",
+        "langue": "fr",
+        "date": "2026-07-20",
+        "auteur": "karen l",
+        "auteur_lien": "https://www.google.com/maps/contrib/116176181169809955650/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2pGWVVEVlFha05JU1VOeGRtUXpRWEJ5Tm0xb2JrRRAB!2m1!1s0x47fe325149aeee21:0x11e63d08cbb2888"
+      },
+      {
+        "note": 5,
+        "texte": "Un super magasin d’épicerie asiatique. La vendeuse est accueillante, souriante, agréable et donne toujours d’excellents conseils. Le magasin est très propre et propose un large choix de produits de très bonne qualité. J’y vais presque tous les jours et je ne suis jamais déçu, au contraire. Elle tient un grand magasin très bien organisé. Je recommande fortement cette épicerie !",
+        "langue": "fr",
+        "date": "2026-05-04",
+        "auteur": "jean bara",
+        "auteur_lien": "https://www.google.com/maps/contrib/112398366952479969151/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT204MmFIVTNRVVF5TFZWYVZqaEVTVVpIYlcxUE1sRRAB!2m1!1s0x47fe325149aeee21:0x11e63d08cbb2888"
+      },
+      {
+        "note": 5,
+        "texte": "Petite boutique très bien tenue rayon bien chargé  , il y a de tout  et la vendeuse est très gentille.",
+        "langue": "fr",
+        "date": "2026-04-28",
+        "auteur": "Philippe Picard",
+        "auteur_lien": "https://www.google.com/maps/contrib/113928296893713967828/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2w4eFNGbEhSMlJhVVVWSU5USTFWelpuT0RGbGNtYxAB!2m1!1s0x47fe325149aeee21:0x11e63d08cbb2888"
+      }
+    ]
+  },
+  "services": {
+    "releve": "2026-11-04",
+    "options": {
+      "delivery": false,
+      "restroom": false
+    },
+    "paiement": [
+      "carte bancaire",
+      "carte de débit",
+      "paiement sans contact"
+    ],
+    "parking": []
+  },
+  "redaction": {
+    "version": 2,
+    "titre": "Vietnam Market — Commerce d'alimentation à Soyaux",
+    "meta_titre": "Vietnam Market à Soyaux : horaires, avis, téléphone",
+    "meta_description": "Vietnam Market, commerce d'alimentation à Soyaux : horaires d'ouverture, note Google 4,6/5 (277 avis), téléphone, adresse et itinéraire.",
+    "chapo": "Cette fiche présente Vietnam Market, un commerce d'alimentation au 56 Avenue du Général de Gaulle, à Soyaux. Ouvert sept jours sur sept au relevé du 4 novembre 2026. Téléphone : 05 79 69 69 25. Note Google : 4,6 sur 5 pour 277 avis.",
+    "sections": [
+      {
+        "id": "presentation",
+        "titre": "Vietnam Market en quelques mots",
+        "paragraphes": [
+          "Sur Google, l'établissement est classé « Épicerie asiatique », dans notre rubrique Commerce d'alimentation.",
+          "D'après le relevé du 4 novembre 2026, l'établissement est ouvert sept jours sur sept. Le détail jour par jour figure plus bas."
+        ]
+      },
+      {
+        "id": "prestations",
+        "titre": "Services et équipements de Vietnam Market",
+        "paragraphes": [
+          "Non proposé selon la fiche Google : livraison et toilettes.",
+          "Moyens de paiement déclarés : carte bancaire, carte de débit et paiement sans contact.",
+          "Ces indications sont déclarées par l'établissement sur sa fiche Google (relevé du 4 novembre 2026)."
+        ]
+      },
+      {
+        "id": "acces",
+        "titre": "Adresse et accès",
+        "paragraphes": [
+          "L'établissement est situé au 56 Avenue du Général de Gaulle, 16800 Soyaux.",
+          "Coordonnées GPS : 45.64354, 0.18531. Le bouton Itinéraire de cette page ouvre la navigation."
+        ]
+      },
+      {
+        "id": "contact",
+        "titre": "Contacter Vietnam Market",
+        "paragraphes": [
+          "Le contact se fait par téléphone au 05 79 69 69 25, ou directement sur place aux horaires d'ouverture."
+        ]
+      },
+      {
+        "id": "avis",
+        "titre": "La réputation de Vietnam Market",
+        "paragraphes": [
+          "Note de 4,6 sur 5 pour 277 avis Google au relevé du 4 novembre 2026. Les avis les plus parlants sont compilés ci-dessous, avec un lien vers la fiche d'origine."
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "q": "Quels sont les horaires de Vietnam Market ?",
+        "r": "Au relevé du 4 novembre 2026, Vietnam Market était ouvert sept jours sur sept. Dans le détail — lundi : de 14 h à 19 h 30 ; mardi : de 8 h 30 à 13 h et de 14 h à 19 h 30 ; mercredi : de 8 h 30 à 13 h et de 14 h à 19 h 30 ; jeudi : de 8 h 30 à 13 h et de 14 h à 19 h 30 ; vendredi : de 8 h 30 à 13 h et de 14 h à 19 h 30 ; samedi : de 8 h 30 à 13 h et de 14 h à 19 h 30 ; dimanche : de 8 h 30 à 13 h. Ces horaires peuvent changer : un appel préalable reste conseillé."
+      },
+      {
+        "q": "Vietnam Market est-il ouvert le dimanche ?",
+        "r": "Oui : le dimanche, Vietnam Market est ouvert de 8 h 30 à 13 h (horaires relevés le 4 novembre 2026)."
+      },
+      {
+        "q": "Où se trouve Vietnam Market ?",
+        "r": "Vietnam Market se trouve 56 Av. du Général de Gaulle, 16800 Soyaux. Un lien d'itinéraire est disponible sur cette page."
+      },
+      {
+        "q": "Comment contacter Vietnam Market ?",
+        "r": "Par téléphone au 05 79 69 69 25, ou directement sur place aux heures d'ouverture."
+      },
+      {
+        "q": "Vietnam Market propose-t-il la vente à emporter ou la livraison ?",
+        "r": "D'après sa fiche Google (relevé du 4 novembre 2026) — livraison : non."
+      },
+      {
+        "q": "Vietnam Market est-il accessible aux personnes à mobilité réduite ?",
+        "r": "La fiche Google de l'établissement mentionne : « Entrée accessible en fauteuil roulant ». Cette information est déclarative ; en cas de doute, vérifiez par téléphone."
+      }
+    ],
+    "genere_le": "2026-11-04"
+  },
+  "statut_google": "OPERATIONAL",
+  "audience": {
+    "clics": 0,
+    "impressions": 0,
+    "position": null,
+    "fenetreJours": 90,
+    "clicsRecents": 0,
+    "fenetreRecenteJours": 28,
+    "source": "search-console",
+    "date": "2026-11-04"
+  }
+}

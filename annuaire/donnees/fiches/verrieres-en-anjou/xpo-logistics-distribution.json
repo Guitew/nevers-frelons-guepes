@@ -77,15 +77,15 @@
     "Parking accessible en fauteuil roulant"
   ],
   "lien_google": "https://maps.google.com/?cid=18163773142861251908&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
-  "site_web_gmb": "https://andpro.fr/vitrine-locale/transport-demenagement/verrieres-en-anjou/xpo-logistics-distribution/",
+  "site_web_gmb": null,
   "statut": "publiee",
   "backlink": {
-    "etat": "present",
+    "etat": "absent",
     "premiere_detection": "2026-10-18T10:09:04.999Z",
     "derniere_detection": "2026-10-19T10:42:12.979Z",
-    "derniere_verification": "2026-10-19T10:42:12.979Z",
-    "echecs": 0,
-    "url_detectee": "https://andpro.fr/vitrine-locale/transport-demenagement/verrieres-en-anjou/xpo-logistics-distribution/"
+    "derniere_verification": "2026-11-04T12:56:51.697Z",
+    "echecs": 1,
+    "url_detectee": null
   },
   "suggestion": {
     "etat": "soumise",
@@ -97,7 +97,7 @@
   "dates": {
     "collecte": "2026-09-01",
     "publication": "2026-09-01",
-    "maj": "2026-10-19"
+    "maj": "2026-11-04"
   },
   "source": "google-places",
   "redaction": {
@@ -171,7 +171,7 @@
     "clicsRecents": 0,
     "fenetreRecenteJours": 28,
     "source": "search-console",
-    "date": "2026-11-03"
+    "date": "2026-11-04"
   },
   "indexation": {
     "etat": "indexee",
@@ -180,7 +180,7 @@
     "derniere_exploration": null,
     "canonique_google": null,
     "source": "impressions",
-    "date": "2026-11-03"
+    "date": "2026-11-04"
   },
   "avis_detail": {
     "releve": "2026-10-19",

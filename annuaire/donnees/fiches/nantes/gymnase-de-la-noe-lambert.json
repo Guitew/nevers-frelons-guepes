@@ -1,0 +1,225 @@
+{
+  "id": "ChIJGYnKruXuBUgR7o-yIDv-b1E",
+  "slug": "gymnase-de-la-noe-lambert",
+  "nom": "Gymnase de la Noe Lambert",
+  "categorie": "loisirs-sport-culture",
+  "categorie_gmb": "Complexe sportif",
+  "type_principal": "sports_complex",
+  "types": [
+    "sports_complex",
+    "gym",
+    "sports_activity_location",
+    "health",
+    "point_of_interest",
+    "establishment"
+  ],
+  "ville": "Nantes",
+  "ville_slug": "nantes",
+  "adresse": {
+    "rue": "42 Boulevard des Poilus",
+    "code_postal": "44300",
+    "departement": "44",
+    "region": "Pays de la Loire",
+    "pays": "France",
+    "complete": "42 Bd des Poilus, 44300 Nantes"
+  },
+  "telephone": "06 22 77 93 52",
+  "geo": {
+    "latitude": 47.2306473,
+    "longitude": -1.5274501999999999
+  },
+  "note": 3.9,
+  "avis": 149,
+  "horaires": [
+    {
+      "jour": 0,
+      "ferme": true,
+      "creneaux": []
+    },
+    {
+      "jour": 1,
+      "ferme": true,
+      "creneaux": []
+    },
+    {
+      "jour": 2,
+      "ferme": true,
+      "creneaux": []
+    },
+    {
+      "jour": 3,
+      "ferme": true,
+      "creneaux": []
+    },
+    {
+      "jour": 4,
+      "ferme": true,
+      "creneaux": []
+    },
+    {
+      "jour": 5,
+      "ferme": true,
+      "creneaux": []
+    },
+    {
+      "jour": 6,
+      "ferme": false,
+      "creneaux": [
+        [
+          "00:00",
+          "23:59"
+        ]
+      ]
+    }
+  ],
+  "attributs": [
+    "Entrée accessible en fauteuil roulant",
+    "Parking accessible en fauteuil roulant"
+  ],
+  "lien_google": "https://maps.google.com/?cid=5868188369392144366&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
+  "site_web_gmb": null,
+  "statut": "publiee",
+  "backlink": {
+    "etat": "absent",
+    "premiere_detection": null,
+    "derniere_detection": null,
+    "derniere_verification": "2026-11-04T12:56:51.697Z",
+    "echecs": 1,
+    "url_detectee": null
+  },
+  "suggestion": {
+    "etat": "en-attente",
+    "date_soumission": null,
+    "tentatives": 0
+  },
+  "retrait": null,
+  "dates": {
+    "collecte": "2026-11-04",
+    "publication": "2026-11-04",
+    "maj": "2026-11-04"
+  },
+  "source": "google-places",
+  "avis_detail": {
+    "releve": "2026-11-04",
+    "liste": [
+      {
+        "note": 5,
+        "texte": "Bonjour vraiment très bien et très bien entretenu par le gardien qui fait son très bon travail félicitations",
+        "langue": "fr",
+        "date": "2025-09-28",
+        "auteur": "Nicolas Bruhay",
+        "auteur_lien": "https://www.google.com/maps/contrib/109342684525929223270/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2w5Q1NraG9VRXRHTVZNdE5HaElTMGh2V25WNlRIYxAB!2m1!1s0x4805eee5aeca8919:0x516ffe3b20b28fee"
+      },
+      {
+        "note": 5,
+        "texte": "Superbe salle et cours de gym Bodyzen, gym dynamique et pilates, prof au top !",
+        "langue": "fr",
+        "date": "2025-09-23",
+        "auteur": "Ayao Adetsi",
+        "auteur_lien": "https://www.google.com/maps/contrib/114758873604546137872/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT21oTWJDMUxhRFZzWDJ3NWIxY3pZaTF4TlV4NmRrRRAB!2m1!1s0x4805eee5aeca8919:0x516ffe3b20b28fee"
+      },
+      {
+        "note": 4,
+        "texte": "Locaux corrects. Des places handicapées juste devant l'entrée. Un gardien. Un dojo, une salle de danse, une salle poly et une salle de gym.",
+        "langue": "fr",
+        "date": "2024-10-02",
+        "auteur": "Raphael J.",
+        "auteur_lien": "https://www.google.com/maps/contrib/113159692342432092089/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSURuaU51SzhRRRAB!2m1!1s0x4805eee5aeca8919:0x516ffe3b20b28fee"
+      },
+      {
+        "note": 3,
+        "texte": "J entraîne deux fois dans la semaine las-bas comme coach et le petit souci ces que les jeunes ne respecte pas ,il traverse le terrain sans se soucié si on entraîne même si les terrain sont tracé il fond du vélo sur le terrain je pense que les gardien devrait  être plus imposent par rapport au tranche horaires des clubs.",
+        "langue": "fr",
+        "date": "2022-11-30",
+        "auteur": "Jean luc Lemaitre",
+        "auteur_lien": "https://www.google.com/maps/contrib/101134157234551026859/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUQtcnNPYXJRRRAB!2m1!1s0x4805eee5aeca8919:0x516ffe3b20b28fee"
+      },
+      {
+        "note": 5,
+        "texte": "Merci 🌈 de pouvoir pratiquer l'acro yoga dans ces lieux,, salle de gym super praticable tout neuf ou salle dojo 🌈🤸🤸🤸🌈",
+        "langue": "fr",
+        "date": "2019-11-30",
+        "auteur": "Laurence l'orArtSoi (l'Âméefée Couleurs)",
+        "auteur_lien": "https://www.google.com/maps/contrib/108113074338432731927/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUNNamZxMWRBEAE!2m1!1s0x4805eee5aeca8919:0x516ffe3b20b28fee"
+      }
+    ]
+  },
+  "redaction": {
+    "version": 2,
+    "titre": "Gymnase de la Noe Lambert — Loisirs, sport et culture à Nantes",
+    "meta_titre": "Gymnase de la Noe Lambert à Nantes : horaires, avis",
+    "meta_description": "Gymnase de la Noe Lambert, loisirs, sport et culture à Nantes : horaires d'ouverture, note Google 3,9/5 (149 avis), téléphone, adresse et itinéraire.",
+    "chapo": "Gymnase de la Noe Lambert exerce l'activité de loisirs, sport et culture au 42 Boulevard des Poilus, à Nantes. Ouvert le dimanche au relevé du 4 novembre 2026. Téléphone : 06 22 77 93 52. Note Google : 3,9 sur 5 pour 149 avis.",
+    "sections": [
+      {
+        "id": "presentation",
+        "titre": "Gymnase de la Noe Lambert en quelques mots",
+        "paragraphes": [
+          "Sur Google, l'établissement est classé « Complexe sportif », dans notre rubrique Loisirs, sport et culture.",
+          "D'après le relevé du 4 novembre 2026, l'établissement est ouvert le dimanche. Le détail jour par jour figure plus bas."
+        ]
+      },
+      {
+        "id": "acces",
+        "titre": "Adresse et accès",
+        "paragraphes": [
+          "L'établissement est situé au 42 Boulevard des Poilus, 44300 Nantes.",
+          "Coordonnées GPS : 47.23065, -1.52745. Le bouton Itinéraire de cette page ouvre la navigation."
+        ]
+      },
+      {
+        "id": "contact",
+        "titre": "Contacter Gymnase de la Noe Lambert",
+        "paragraphes": [
+          "Le contact se fait par téléphone au 06 22 77 93 52, ou directement sur place aux horaires d'ouverture."
+        ]
+      },
+      {
+        "id": "avis",
+        "titre": "La réputation de Gymnase de la Noe Lambert",
+        "paragraphes": [
+          "Note de 3,9 sur 5 pour 149 avis Google au relevé du 4 novembre 2026. Les avis les plus parlants sont compilés ci-dessous, avec un lien vers la fiche d'origine."
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "q": "Quels sont les horaires de Gymnase de la Noe Lambert ?",
+        "r": "Au relevé du 4 novembre 2026, Gymnase de la Noe Lambert était ouvert le dimanche. Dans le détail — lundi : fermé ; mardi : fermé ; mercredi : fermé ; jeudi : fermé ; vendredi : fermé ; samedi : fermé ; dimanche : de 0 h à 23 h 59. Ces horaires peuvent changer : un appel préalable reste conseillé."
+      },
+      {
+        "q": "Gymnase de la Noe Lambert est-il ouvert le dimanche ?",
+        "r": "Oui : le dimanche, Gymnase de la Noe Lambert est ouvert de 0 h à 23 h 59 (horaires relevés le 4 novembre 2026)."
+      },
+      {
+        "q": "Où se trouve Gymnase de la Noe Lambert ?",
+        "r": "Gymnase de la Noe Lambert se trouve 42 Bd des Poilus, 44300 Nantes. Un lien d'itinéraire est disponible sur cette page."
+      },
+      {
+        "q": "Comment contacter Gymnase de la Noe Lambert ?",
+        "r": "Par téléphone au 06 22 77 93 52, ou directement sur place aux heures d'ouverture."
+      },
+      {
+        "q": "Gymnase de la Noe Lambert est-il accessible aux personnes à mobilité réduite ?",
+        "r": "La fiche Google de l'établissement mentionne : « Entrée accessible en fauteuil roulant ». Cette information est déclarative ; en cas de doute, vérifiez par téléphone."
+      }
+    ],
+    "genere_le": "2026-11-04"
+  },
+  "statut_google": "OPERATIONAL",
+  "audience": {
+    "clics": 0,
+    "impressions": 0,
+    "position": null,
+    "fenetreJours": 90,
+    "clicsRecents": 0,
+    "fenetreRecenteJours": 28,
+    "source": "search-console",
+    "date": "2026-11-04"
+  }
+}

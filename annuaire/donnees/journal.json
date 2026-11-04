@@ -1,5 +1,169 @@
 [
   {
+    "date": "2026-11-04T13:01:59.358Z",
+    "type": "retrait-410",
+    "id": "ChIJCwIsfYn0ikcRT91Fp6FLi0A",
+    "nom": "BHV Grenoble",
+    "url": "/mode-equipement-maison/grenoble/bhv-grenoble/",
+    "motif": "backlink jamais posé après 45 jours de délai de grâce",
+    "cible": null
+  },
+  {
+    "date": "2026-11-04T13:01:59.363Z",
+    "type": "retrait-410",
+    "id": "ChIJ97ZTqzTeDkgRpnEkcsqOIcQ",
+    "nom": "La Criée marché central",
+    "url": "/commerces-alimentation/rennes/la-criee-marche-central/",
+    "motif": "backlink jamais posé après 45 jours de délai de grâce",
+    "cible": null
+  },
+  {
+    "date": "2026-11-04T13:01:59.364Z",
+    "type": "retrait-410",
+    "id": "ChIJmSb52_TVEEgRJn1k57jIRLc",
+    "nom": "La Grange",
+    "url": "/restaurants/quimper/la-grange/",
+    "motif": "backlink jamais posé après 45 jours de délai de grâce",
+    "cible": null
+  },
+  {
+    "date": "2026-11-04T13:01:59.365Z",
+    "type": "retrait-410",
+    "id": "ChIJ7zRGubmCqRIRHfgFII3UbNg",
+    "nom": "La table D'OSTE",
+    "url": "/restaurants/auch/la-table-d-oste/",
+    "motif": "backlink jamais posé après 45 jours de délai de grâce",
+    "cible": null
+  },
+  {
+    "date": "2026-11-04T13:01:59.366Z",
+    "type": "retrait-410",
+    "id": "ChIJ76dXWKig-0cRYCU0aIResHE",
+    "nom": "Les Jardins d'Italie",
+    "url": "/restaurants/chateauroux/les-jardins-d-italie/",
+    "motif": "backlink jamais posé après 45 jours de délai de grâce",
+    "cible": null
+  },
+  {
+    "date": "2026-11-04T13:01:59.367Z",
+    "type": "retrait-410",
+    "id": "ChIJRQ3A4kOzqxIR1L979duuwIk",
+    "nom": "Royal Agen",
+    "url": "/restaurants/agen/royal-agen/",
+    "motif": "backlink jamais posé après 45 jours de délai de grâce",
+    "cible": null
+  },
+  {
+    "date": "2026-11-04T13:01:59.369Z",
+    "type": "retrait-410",
+    "id": "ChIJqSNLau2uthIRGODTHELSxlM",
+    "nom": "Tabac Fdj Bar Pmu",
+    "url": "/cafes-bars/montpellier/tabac-fdj-bar-pmu/",
+    "motif": "backlink jamais posé après 45 jours de délai de grâce",
+    "cible": null
+  },
+  {
+    "date": "2026-11-04T12:56:51.813Z",
+    "type": "backlink-absent",
+    "id": "ChIJG9dNdjgdDkgRlE5a1XJMiu8",
+    "nom": "Aravie",
+    "url": null,
+    "precedent": "en-attente"
+  },
+  {
+    "date": "2026-11-04T12:56:51.848Z",
+    "type": "backlink-absent",
+    "id": "ChIJRRWoYRzh5UcRL8cm3TcnMgE",
+    "nom": "FS AUTO",
+    "url": null,
+    "precedent": "en-attente"
+  },
+  {
+    "date": "2026-11-04T12:56:51.884Z",
+    "type": "backlink-absent",
+    "id": "ChIJGYnKruXuBUgR7o-yIDv-b1E",
+    "nom": "Gymnase de la Noe Lambert",
+    "url": null,
+    "precedent": "en-attente"
+  },
+  {
+    "date": "2026-11-04T12:56:51.926Z",
+    "type": "backlink-absent",
+    "id": "ChIJpxfFWWC8rhIRyCW8WRyUJP4",
+    "nom": "Pharmacie du Pont des Demoiselles",
+    "url": null,
+    "precedent": "en-attente"
+  },
+  {
+    "date": "2026-11-04T12:56:51.961Z",
+    "type": "backlink-absent",
+    "id": "ChIJIe6uSVEy_kcRiCi7jNBjHgE",
+    "nom": "Vietnam Market",
+    "url": null,
+    "precedent": "en-attente"
+  },
+  {
+    "date": "2026-11-04T12:56:52.474Z",
+    "type": "backlink-externe",
+    "id": "ChIJSVBoV8nh60cReXEZNtCSdK4",
+    "nom": "Franprix",
+    "url": "http://www.franprix.fr/",
+    "precedent": "absent"
+  },
+  {
+    "date": "2026-11-04T12:56:52.710Z",
+    "type": "backlink-absent",
+    "id": "ChIJnyjjz_x4CEgRRIUGCXCvEvw",
+    "nom": "XPO Logistics Distribution",
+    "url": null,
+    "precedent": "present"
+  },
+  {
+    "date": "2026-11-04T12:56:51.242Z",
+    "type": "publication",
+    "id": "ChIJRRWoYRzh5UcRL8cm3TcnMgE",
+    "nom": "FS AUTO",
+    "url": "/garages-automobile/corbeil-essonnes/fs-auto/",
+    "categorie": "garages-automobile",
+    "source": "google-places"
+  },
+  {
+    "date": "2026-11-04T12:56:51.320Z",
+    "type": "publication",
+    "id": "ChIJIe6uSVEy_kcRiCi7jNBjHgE",
+    "nom": "Vietnam Market",
+    "url": "/commerces-alimentation/soyaux/vietnam-market/",
+    "categorie": "commerces-alimentation",
+    "source": "google-places"
+  },
+  {
+    "date": "2026-11-04T12:56:51.407Z",
+    "type": "publication",
+    "id": "ChIJG9dNdjgdDkgRlE5a1XJMiu8",
+    "nom": "Aravie",
+    "url": "/commerces-alimentation/saint-brieuc/aravie/",
+    "categorie": "commerces-alimentation",
+    "source": "google-places"
+  },
+  {
+    "date": "2026-11-04T12:56:51.486Z",
+    "type": "publication",
+    "id": "ChIJpxfFWWC8rhIRyCW8WRyUJP4",
+    "nom": "Pharmacie du Pont des Demoiselles",
+    "url": "/pharmacies-opticiens/toulouse/pharmacie-du-pont-des-demoiselles/",
+    "categorie": "pharmacies-opticiens",
+    "source": "google-places"
+  },
+  {
+    "date": "2026-11-04T12:56:51.560Z",
+    "type": "publication",
+    "id": "ChIJGYnKruXuBUgR7o-yIDv-b1E",
+    "nom": "Gymnase de la Noe Lambert",
+    "url": "/loisirs-sport-culture/nantes/gymnase-de-la-noe-lambert/",
+    "categorie": "loisirs-sport-culture",
+    "source": "google-places"
+  },
+  {
     "date": "2026-11-03T12:49:13.963Z",
     "type": "retrait-410",
     "id": "ChIJGUralbZx_0cRTGaNKhoZDBE",

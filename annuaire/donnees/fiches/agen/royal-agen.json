@@ -141,7 +141,7 @@
   ],
   "lien_google": "https://maps.google.com/?cid=9926125838464171988&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
   "site_web_gmb": "https://royal-agen.eatbu.com/?lang=fr",
-  "statut": "publiee",
+  "statut": "retiree",
   "backlink": {
     "etat": "externe",
     "premiere_detection": null,
@@ -156,11 +156,16 @@
     "tentatives": 1,
     "date_email": "2026-09-20"
   },
-  "retrait": null,
+  "retrait": {
+    "mode": "410",
+    "cible": null,
+    "date": "2026-11-04",
+    "motif": "backlink jamais posé après 45 jours de délai de grâce"
+  },
   "dates": {
     "collecte": "2026-09-20",
     "publication": "2026-09-20",
-    "maj": "2026-10-31"
+    "maj": "2026-11-04"
   },
   "source": "google-places",
   "redaction": {
@@ -259,7 +264,7 @@
     "clicsRecents": 0,
     "fenetreRecenteJours": 28,
     "source": "search-console",
-    "date": "2026-11-03"
+    "date": "2026-11-04"
   },
   "indexation": {
     "etat": "indexee",
@@ -268,7 +273,7 @@
     "derniere_exploration": null,
     "canonique_google": null,
     "source": "impressions",
-    "date": "2026-11-03"
+    "date": "2026-11-04"
   },
   "avis_detail": {
     "releve": "2026-10-31",

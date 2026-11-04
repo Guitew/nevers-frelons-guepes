@@ -1,0 +1,278 @@
+{
+  "id": "ChIJG9dNdjgdDkgRlE5a1XJMiu8",
+  "slug": "aravie",
+  "nom": "Aravie",
+  "categorie": "commerces-alimentation",
+  "categorie_gmb": "Épicerie asiatique",
+  "type_principal": "asian_grocery_store",
+  "types": [
+    "asian_grocery_store",
+    "supermarket",
+    "grocery_store",
+    "food_store",
+    "food",
+    "store",
+    "point_of_interest",
+    "establishment"
+  ],
+  "ville": "Saint-Brieuc",
+  "ville_slug": "saint-brieuc",
+  "adresse": {
+    "rue": "1 Rue de Paimpont",
+    "code_postal": "22000",
+    "departement": "22",
+    "region": "Bretagne",
+    "pays": "France",
+    "complete": "Centre Commercial Les villages, 1 Rue de Paimpont, 22000 Saint-Brieuc"
+  },
+  "telephone": "02 96 94 66 19",
+  "geo": {
+    "latitude": 48.5206282,
+    "longitude": -2.7881818
+  },
+  "note": 4.1,
+  "avis": 514,
+  "horaires": [
+    {
+      "jour": 0,
+      "ferme": false,
+      "creneaux": [
+        [
+          "09:00",
+          "19:00"
+        ]
+      ]
+    },
+    {
+      "jour": 1,
+      "ferme": false,
+      "creneaux": [
+        [
+          "09:00",
+          "19:00"
+        ]
+      ]
+    },
+    {
+      "jour": 2,
+      "ferme": false,
+      "creneaux": [
+        [
+          "09:00",
+          "19:00"
+        ]
+      ]
+    },
+    {
+      "jour": 3,
+      "ferme": false,
+      "creneaux": [
+        [
+          "09:00",
+          "19:00"
+        ]
+      ]
+    },
+    {
+      "jour": 4,
+      "ferme": false,
+      "creneaux": [
+        [
+          "09:00",
+          "19:00"
+        ]
+      ]
+    },
+    {
+      "jour": 5,
+      "ferme": false,
+      "creneaux": [
+        [
+          "09:00",
+          "19:00"
+        ]
+      ]
+    },
+    {
+      "jour": 6,
+      "ferme": true,
+      "creneaux": []
+    }
+  ],
+  "attributs": [
+    "Entrée accessible en fauteuil roulant",
+    "Parking accessible en fauteuil roulant"
+  ],
+  "lien_google": "https://maps.google.com/?cid=17260692577940295316&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
+  "site_web_gmb": null,
+  "statut": "publiee",
+  "backlink": {
+    "etat": "absent",
+    "premiere_detection": null,
+    "derniere_detection": null,
+    "derniere_verification": "2026-11-04T12:56:51.697Z",
+    "echecs": 1,
+    "url_detectee": null
+  },
+  "suggestion": {
+    "etat": "en-attente",
+    "date_soumission": null,
+    "tentatives": 0
+  },
+  "retrait": null,
+  "dates": {
+    "collecte": "2026-11-04",
+    "publication": "2026-11-04",
+    "maj": "2026-11-04"
+  },
+  "source": "google-places",
+  "avis_detail": {
+    "releve": "2026-11-04",
+    "liste": [
+      {
+        "note": 5,
+        "texte": "Magasin bien achalandé, diversité d'alimentation du monde. Prix très accessible.\nLieu toujours propre et personnel souriant et serviable.\nJe recommande",
+        "langue": "fr",
+        "date": "2026-10-10",
+        "auteur": "Karine Jezequel",
+        "auteur_lien": "https://www.google.com/maps/contrib/116156175201788833419/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25KSVVVaENNUzFUZFcxbWJEUmpVMFEyZURCVVExRRAB!2m1!1s0x480e1d38764dd71b:0xef8a4c72d55a4e94"
+      },
+      {
+        "note": 5,
+        "texte": "200km pour allé 200 pour revenir  toujours  un grand bonheur  d´aller  faire  des courses  la bas  en Bretagne  sa fait  du bien",
+        "langue": "fr",
+        "date": "2026-05-01",
+        "auteur": "Didier Decarite",
+        "auteur_lien": "https://www.google.com/maps/contrib/102344067680735798349/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xvek4wUnJNR3hFYVhkamRsaDVjR1p2TWpsYWFWRRAB!2m1!1s0x480e1d38764dd71b:0xef8a4c72d55a4e94"
+      },
+      {
+        "note": 5,
+        "texte": "Un large choix de produits asiatiques, africains et slaves. Nous apprécions beaucoup cet endroit, la patronne et son équipe sont très agréable. Enseigne à recommander vivement 💯",
+        "langue": "fr",
+        "date": "2026-04-19",
+        "auteur": "loic rossignol",
+        "auteur_lien": "https://www.google.com/maps/contrib/107300131329193911685/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2tabWVYRkhRV0p0WVVkNGVucHJOME4zWnpGU2FVRRAB!2m1!1s0x480e1d38764dd71b:0xef8a4c72d55a4e94"
+      },
+      {
+        "note": 5,
+        "texte": "La boutique est chouette, l'accueil est sympathique et on y trouve tout ce qu'il faut en produits africains, asiatiques et orientale ! 👍",
+        "langue": "fr",
+        "date": "2026-04-14",
+        "auteur": "damdam dého",
+        "auteur_lien": "https://www.google.com/maps/contrib/104004263388362379167/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xobVNGSlFPSGQzYVdkWWN6Z3RPVmhFTlc1RlNXYxAB!2m1!1s0x480e1d38764dd71b:0xef8a4c72d55a4e94"
+      },
+      {
+        "note": 1,
+        "texte": "⚠️JE VOUS DÉCONSEILLE FORTEMENT!⚠️\nJ'ai acheté récemment des bonbons en chocolat russe dans cette épicerie vietnamien chinois parce que j'en mangeais depuis tout petit et je vois des bonbons qui ont une couche blanche, périmés, pas de goût et il n'y a même pas de date limite tout ça à 3€ vous abusez! Nous sommes pas des poubelles! Faites attention aux enfants comme ils aiment les bonbons ils en profitent pour faire du profit en prenant des bonbons périmés sans le sachet original qui vaut même pas 100g c'est scandaleux, vous voulez nous intoxiquez! De plus les prix de leurs produits  s'envolent alors que dans les grandes villes c'est beaucoup moins chers. Vous devriez avoir honte il faut dénoncer ça aux inspecteurs sanitaires c'est inadmissible! Je veux mettre zéro étoile mais on ne peut pas. Éviter de prendre quoi que ce soit dans cette épicerie 😡",
+        "langue": "fr",
+        "date": "2021-10-09",
+        "auteur": "Frank Silvain",
+        "auteur_lien": "https://www.google.com/maps/contrib/112183995770029646236/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUQ2M2RIeDN3RRAB!2m1!1s0x480e1d38764dd71b:0xef8a4c72d55a4e94"
+      }
+    ]
+  },
+  "services": {
+    "releve": "2026-11-04",
+    "options": {
+      "delivery": false,
+      "restroom": false
+    },
+    "paiement": [
+      "carte bancaire",
+      "carte de débit",
+      "paiement sans contact"
+    ],
+    "parking": []
+  },
+  "redaction": {
+    "version": 2,
+    "titre": "Aravie — Commerce d'alimentation à Saint-Brieuc",
+    "meta_titre": "Aravie à Saint-Brieuc : horaires, avis, téléphone",
+    "meta_description": "Aravie, commerce d'alimentation à Saint-Brieuc : horaires d'ouverture, note Google 4,1/5 (514 avis), téléphone, adresse et itinéraire.",
+    "chapo": "Aravie est un commerce d'alimentation au 1 Rue de Paimpont, à Saint-Brieuc. Ouvert tous les jours sauf le dimanche au relevé du 4 novembre 2026. Téléphone : 02 96 94 66 19. Note Google : 4,1 sur 5 pour 514 avis.",
+    "sections": [
+      {
+        "id": "presentation",
+        "titre": "Aravie en quelques mots",
+        "paragraphes": [
+          "Sur Google, l'établissement est classé « Épicerie asiatique », dans notre rubrique Commerce d'alimentation.",
+          "D'après le relevé du 4 novembre 2026, l'établissement est ouvert tous les jours sauf le dimanche. Le détail jour par jour figure plus bas."
+        ]
+      },
+      {
+        "id": "prestations",
+        "titre": "Services et équipements de Aravie",
+        "paragraphes": [
+          "Non proposé selon la fiche Google : livraison et toilettes.",
+          "Moyens de paiement déclarés : carte bancaire, carte de débit et paiement sans contact.",
+          "Ces indications sont déclarées par l'établissement sur sa fiche Google (relevé du 4 novembre 2026)."
+        ]
+      },
+      {
+        "id": "acces",
+        "titre": "Adresse et accès",
+        "paragraphes": [
+          "L'établissement est situé au 1 Rue de Paimpont, 22000 Saint-Brieuc.",
+          "Coordonnées GPS : 48.52063, -2.78818. Le bouton Itinéraire de cette page ouvre la navigation."
+        ]
+      },
+      {
+        "id": "contact",
+        "titre": "Contacter Aravie",
+        "paragraphes": [
+          "Le contact se fait par téléphone au 02 96 94 66 19, ou directement sur place aux horaires d'ouverture."
+        ]
+      },
+      {
+        "id": "avis",
+        "titre": "La réputation de Aravie",
+        "paragraphes": [
+          "Note de 4,1 sur 5 pour 514 avis Google au relevé du 4 novembre 2026. Les avis les plus parlants sont compilés ci-dessous, avec un lien vers la fiche d'origine."
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "q": "Quels sont les horaires de Aravie ?",
+        "r": "Au relevé du 4 novembre 2026, Aravie était ouvert tous les jours sauf le dimanche. Dans le détail — lundi : de 9 h à 19 h ; mardi : de 9 h à 19 h ; mercredi : de 9 h à 19 h ; jeudi : de 9 h à 19 h ; vendredi : de 9 h à 19 h ; samedi : de 9 h à 19 h ; dimanche : fermé. Ces horaires peuvent changer : un appel préalable reste conseillé."
+      },
+      {
+        "q": "Aravie est-il ouvert le dimanche ?",
+        "r": "Non : d'après les horaires relevés le 4 novembre 2026, Aravie est fermé le dimanche."
+      },
+      {
+        "q": "Où se trouve Aravie ?",
+        "r": "Aravie se trouve Centre Commercial Les villages, 1 Rue de Paimpont, 22000 Saint-Brieuc. Un lien d'itinéraire est disponible sur cette page."
+      },
+      {
+        "q": "Comment contacter Aravie ?",
+        "r": "Par téléphone au 02 96 94 66 19, ou directement sur place aux heures d'ouverture."
+      },
+      {
+        "q": "Aravie propose-t-il la vente à emporter ou la livraison ?",
+        "r": "D'après sa fiche Google (relevé du 4 novembre 2026) — livraison : non."
+      },
+      {
+        "q": "Aravie est-il accessible aux personnes à mobilité réduite ?",
+        "r": "La fiche Google de l'établissement mentionne : « Entrée accessible en fauteuil roulant ». Cette information est déclarative ; en cas de doute, vérifiez par téléphone."
+      }
+    ],
+    "genere_le": "2026-11-04"
+  },
+  "statut_google": "OPERATIONAL",
+  "audience": {
+    "clics": 0,
+    "impressions": 0,
+    "position": null,
+    "fenetreJours": 90,
+    "clicsRecents": 0,
+    "fenetreRecenteJours": 28,
+    "source": "search-console",
+    "date": "2026-11-04"
+  }
+}
