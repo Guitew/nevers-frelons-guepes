@@ -187,6 +187,12 @@ async function principal() {
 
   if (!essai) {
     console.log(`\n${envoyes}/${aTraiter.length} email(s) envoyé(s) à ${DEST}.`);
+    // Code de sortie en échec : le workflow termine le cycle (commit, déploiement)
+    // puis s'affiche en échec. Les fiches non envoyées repartiront au cycle suivant.
+    if (envoyes < aTraiter.length) {
+      console.error(`::error::${aTraiter.length - envoyes} email(s) de suggestion non envoyé(s).`);
+      process.exitCode = 1;
+    }
   }
 }
 

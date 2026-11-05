@@ -148,7 +148,11 @@ jobs:
       - name: Synchroniser les suggestions marquées depuis le serveur
         run: node outils/suggestions.mjs --sync
 
+      # Un échec d'envoi ne doit pas empêcher le commit ni le déploiement des fiches
+      # du jour : il est signalé par la dernière étape, qui met le cycle en échec.
       - name: Envoyer les emails de suggestion GMB
+        id: emails
+        continue-on-error: true
         env:
           BREVO_API_KEY: ${{ secrets.BREVO_API_KEY }}
         run: node outils/email-suggestions.mjs
@@ -179,3 +183,9 @@ jobs:
         env:
           GH_TOKEN: ${{ github.token }}
         run: gh workflow run annuaire-deploiement.yml --repo "$GITHUB_REPOSITORY" --ref main
+
+      - name: Signaler l'échec des emails de suggestion
+        if: steps.emails.outcome == 'failure'
+        run: |
+          echo "::error::Emails de suggestion non envoyés : voir l'étape « Envoyer les emails de suggestion GMB » (clé BREVO_API_KEY ?)."
+          exit 1
