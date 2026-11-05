@@ -206,7 +206,7 @@
     "clicsRecents": 0,
     "fenetreRecenteJours": 28,
     "source": "search-console",
-    "date": "2026-11-04"
+    "date": "2026-11-05"
   },
   "avis_detail": {
     "releve": "2026-10-28",
@@ -267,5 +267,14 @@
       "paiement sans contact"
     ],
     "parking": []
+  },
+  "indexation": {
+    "etat": "indexee",
+    "verdict": "PASS",
+    "couverture": "Envoyée et indexée",
+    "derniere_exploration": "2026-11-04T23:33:02Z",
+    "canonique_google": "https://andpro.fr/vitrine-locale/garages-automobile/vannes/ker-wash/",
+    "source": "inspection",
+    "date": "2026-11-05"
   }
 }

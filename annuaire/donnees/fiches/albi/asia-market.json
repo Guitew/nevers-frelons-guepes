@@ -140,7 +140,8 @@
   "suggestion": {
     "etat": "en-attente",
     "date_soumission": null,
-    "tentatives": 0
+    "tentatives": 0,
+    "date_email": "2026-11-05"
   },
   "retrait": null,
   "dates": {
@@ -296,6 +297,6 @@
     "clicsRecents": 0,
     "fenetreRecenteJours": 28,
     "source": "search-console",
-    "date": "2026-11-04"
+    "date": "2026-11-05"
   }
 }

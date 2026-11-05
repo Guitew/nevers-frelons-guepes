@@ -1,0 +1,291 @@
+{
+  "id": "ChIJlXrmxPJNqhIROakZ2iTKDfE",
+  "slug": "les-serres-de-camelat",
+  "nom": "Les Serres de Camelat",
+  "categorie": "commerces-alimentation",
+  "categorie_gmb": "Ferme",
+  "type_principal": "farm",
+  "types": [
+    "wholesaler",
+    "farm",
+    "service",
+    "point_of_interest",
+    "establishment"
+  ],
+  "ville": "Le Passage",
+  "ville_slug": "le-passage",
+  "adresse": {
+    "rue": "Rue Sacha Guitry",
+    "code_postal": "47520",
+    "departement": "47",
+    "region": "Nouvelle-Aquitaine",
+    "pays": "France",
+    "complete": "Rue Sacha Guitry, 47520 Le Passage"
+  },
+  "telephone": "06 08 89 80 60",
+  "geo": {
+    "latitude": 44.2138894,
+    "longitude": 0.5870749
+  },
+  "note": 4.7,
+  "avis": 24,
+  "horaires": [
+    {
+      "jour": 0,
+      "ferme": false,
+      "creneaux": [
+        [
+          "08:00",
+          "12:00"
+        ],
+        [
+          "14:00",
+          "18:00"
+        ]
+      ]
+    },
+    {
+      "jour": 1,
+      "ferme": false,
+      "creneaux": [
+        [
+          "08:00",
+          "12:00"
+        ],
+        [
+          "14:00",
+          "18:00"
+        ]
+      ]
+    },
+    {
+      "jour": 2,
+      "ferme": false,
+      "creneaux": [
+        [
+          "08:00",
+          "12:00"
+        ],
+        [
+          "14:00",
+          "18:00"
+        ]
+      ]
+    },
+    {
+      "jour": 3,
+      "ferme": false,
+      "creneaux": [
+        [
+          "08:00",
+          "12:00"
+        ],
+        [
+          "14:00",
+          "18:00"
+        ]
+      ]
+    },
+    {
+      "jour": 4,
+      "ferme": false,
+      "creneaux": [
+        [
+          "08:00",
+          "12:00"
+        ],
+        [
+          "14:00",
+          "18:00"
+        ]
+      ]
+    },
+    {
+      "jour": 5,
+      "ferme": false,
+      "creneaux": [
+        [
+          "08:00",
+          "12:00"
+        ],
+        [
+          "14:00",
+          "18:00"
+        ]
+      ]
+    },
+    {
+      "jour": 6,
+      "ferme": true,
+      "creneaux": []
+    }
+  ],
+  "attributs": [
+    "Entrée accessible en fauteuil roulant",
+    "Parking accessible en fauteuil roulant"
+  ],
+  "lien_google": "https://maps.google.com/?cid=17369761597464619321&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
+  "site_web_gmb": null,
+  "statut": "publiee",
+  "backlink": {
+    "etat": "absent",
+    "premiere_detection": null,
+    "derniere_detection": null,
+    "derniere_verification": "2026-11-05T13:08:04.123Z",
+    "echecs": 1,
+    "url_detectee": null
+  },
+  "suggestion": {
+    "etat": "en-attente",
+    "date_soumission": null,
+    "tentatives": 0,
+    "date_email": "2026-11-05"
+  },
+  "retrait": null,
+  "dates": {
+    "collecte": "2026-11-05",
+    "publication": "2026-11-05",
+    "maj": "2026-11-05"
+  },
+  "source": "google-places",
+  "avis_detail": {
+    "releve": "2026-11-05",
+    "liste": [
+      {
+        "note": 5,
+        "texte": "Un vrai plaisir tant pour l’accueil que pour la qualité les prix et les conseils.\nJe recommande vivement.",
+        "langue": "fr",
+        "date": "2026-09-13",
+        "auteur": "Laurence Giorgio",
+        "auteur_lien": "https://www.google.com/maps/contrib/112672174944529280380/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2t4QlVGVm1NbGt6V1U5WFQxTmFZMVJKYlRCdmVsRRAB!2m1!1s0x12aa4df2c4e67a95:0xf10dca24da19a939"
+      },
+      {
+        "note": 5,
+        "texte": "Excellent accueil et grande variété de plantes à des prix intéressants. Je recommande vivement.",
+        "langue": "fr",
+        "date": "2026-08-27",
+        "auteur": "MARIANI Véronique",
+        "auteur_lien": "https://www.google.com/maps/contrib/114723029096131517912/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2tSNFkzSk5PVlZoWTFnNVpuVkRWV1l4YVd4dVRGRRAB!2m1!1s0x12aa4df2c4e67a95:0xf10dca24da19a939"
+      },
+      {
+        "note": 5,
+        "texte": "Très belle expérience aux Serres de Camelat au Passage d’Agen .\nCe que j’apprécie particulièrement, c’est l’esprit familial qu’on ressent dès l’arrivée. L’accueil est chaleureux, l’équipe est disponible et toujours de bon conseil. Les plantes sont magnifiques et le lieu est agréable à visiter. Une adresse où l’on a plaisir à revenir !",
+        "langue": "fr",
+        "date": "2026-05-09",
+        "auteur": "Ka Rine",
+        "auteur_lien": "https://www.google.com/maps/contrib/106091669532486715090/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2pKMU1razRVa1pPVUV0V2VtMXZWRU16YkU5MVgzYxAB!2m1!1s0x12aa4df2c4e67a95:0xf10dca24da19a939"
+      },
+      {
+        "note": 5,
+        "texte": "1ere visite pour moi, le personnel est très accueillant et les plantes proposées sont de bonne qualité et à un prix raisonnable. Très bonne adresse pour les amoureux des fleurs.",
+        "langue": "fr",
+        "date": "2026-04-10",
+        "auteur": "Benoît OLIVIE",
+        "auteur_lien": "https://www.google.com/maps/contrib/100966886338114678118/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2pONGNsRlJjbms1UjJNNVJsRlFaVlptYkdsbk5HYxAB!2m1!1s0x12aa4df2c4e67a95:0xf10dca24da19a939"
+      },
+      {
+        "note": 5,
+        "texte": "Avec ma mère, nous venons à cette pépinière depuis le tout début, et c’est toujours un plaisir de se balader dans ces serres. Nous n’avons jamais été déçues par nos achats. L’accueil y est chaleureux, au moindre souci, ils sont toujours disponibles, avec des conseils avisés et vraiment utiles. Les prix sont très attractifs, la qualité est irréprochable, et l’ambiance est bien plus agréable que dans les grandes enseignes. Vous pouvez y faire vos achats les yeux fermés, vous ne serez pas déçus !\n\nUn grand merci à Pascal en particulier, un homme passionné, travailleur et d’une gentillesse rare. Il partage toujours ses connaissances avec patience, et ça se voit qu’il fait ce métier avec le cœur. Pour nous, ce sont tout simplement les meilleurs. Merci pour tout 🌷",
+        "langue": "fr",
+        "date": "2025-07-14",
+        "auteur": "Amy",
+        "auteur_lien": "https://www.google.com/maps/contrib/107157900723770081230/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT21KQ1p6UjNhbTkwUkY5V1ZsVmpORUpWV1dndGFXYxAB!2m1!1s0x12aa4df2c4e67a95:0xf10dca24da19a939"
+      }
+    ]
+  },
+  "services": {
+    "releve": "2026-11-05",
+    "options": {},
+    "paiement": [
+      "carte bancaire",
+      "carte de débit"
+    ],
+    "parking": []
+  },
+  "redaction": {
+    "version": 2,
+    "titre": "Les Serres de Camelat — Commerce d'alimentation à Le Passage",
+    "meta_titre": "Les Serres de Camelat à Le Passage : horaires, avis",
+    "meta_description": "Les Serres de Camelat, commerce d'alimentation à Le Passage : horaires d'ouverture, note Google 4,7/5 (24 avis), téléphone, adresse et itinéraire.",
+    "chapo": "Les Serres de Camelat exerce l'activité de commerce d'alimentation au Rue Sacha Guitry, à Le Passage. Ouvert tous les jours sauf le dimanche au relevé du 5 novembre 2026. Téléphone : 06 08 89 80 60. Note Google : 4,7 sur 5 pour 24 avis.",
+    "sections": [
+      {
+        "id": "presentation",
+        "titre": "Les Serres de Camelat en quelques mots",
+        "paragraphes": [
+          "Sur Google, l'établissement est classé « Ferme », dans notre rubrique Commerce d'alimentation.",
+          "D'après le relevé du 5 novembre 2026, l'établissement est ouvert tous les jours sauf le dimanche. Le détail jour par jour figure plus bas."
+        ]
+      },
+      {
+        "id": "prestations",
+        "titre": "Services et équipements de Les Serres de Camelat",
+        "paragraphes": [
+          "Moyens de paiement déclarés : carte bancaire et carte de débit.",
+          "Ces indications sont déclarées par l'établissement sur sa fiche Google (relevé du 5 novembre 2026)."
+        ]
+      },
+      {
+        "id": "acces",
+        "titre": "Adresse et accès",
+        "paragraphes": [
+          "L'établissement est situé au Rue Sacha Guitry, 47520 Le Passage.",
+          "Coordonnées GPS : 44.21389, 0.58707. Le bouton Itinéraire de cette page ouvre la navigation."
+        ]
+      },
+      {
+        "id": "contact",
+        "titre": "Contacter Les Serres de Camelat",
+        "paragraphes": [
+          "Le contact se fait par téléphone au 06 08 89 80 60, ou directement sur place aux horaires d'ouverture."
+        ]
+      },
+      {
+        "id": "avis",
+        "titre": "La réputation de Les Serres de Camelat",
+        "paragraphes": [
+          "Note de 4,7 sur 5 pour 24 avis Google au relevé du 5 novembre 2026. Les avis les plus parlants sont compilés ci-dessous, avec un lien vers la fiche d'origine."
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "q": "Quels sont les horaires de Les Serres de Camelat ?",
+        "r": "Au relevé du 5 novembre 2026, Les Serres de Camelat était ouvert tous les jours sauf le dimanche. Dans le détail — lundi : de 8 h à 12 h et de 14 h à 18 h ; mardi : de 8 h à 12 h et de 14 h à 18 h ; mercredi : de 8 h à 12 h et de 14 h à 18 h ; jeudi : de 8 h à 12 h et de 14 h à 18 h ; vendredi : de 8 h à 12 h et de 14 h à 18 h ; samedi : de 8 h à 12 h et de 14 h à 18 h ; dimanche : fermé. Ces horaires peuvent changer : un appel préalable reste conseillé."
+      },
+      {
+        "q": "Les Serres de Camelat est-il ouvert le dimanche ?",
+        "r": "Non : d'après les horaires relevés le 5 novembre 2026, Les Serres de Camelat est fermé le dimanche."
+      },
+      {
+        "q": "Où se trouve Les Serres de Camelat ?",
+        "r": "Les Serres de Camelat se trouve Rue Sacha Guitry, 47520 Le Passage. Un lien d'itinéraire est disponible sur cette page."
+      },
+      {
+        "q": "Comment contacter Les Serres de Camelat ?",
+        "r": "Par téléphone au 06 08 89 80 60, ou directement sur place aux heures d'ouverture."
+      },
+      {
+        "q": "Les Serres de Camelat est-il accessible aux personnes à mobilité réduite ?",
+        "r": "La fiche Google de l'établissement mentionne : « Entrée accessible en fauteuil roulant ». Cette information est déclarative ; en cas de doute, vérifiez par téléphone."
+      }
+    ],
+    "genere_le": "2026-11-05"
+  },
+  "statut_google": "OPERATIONAL",
+  "audience": {
+    "clics": 0,
+    "impressions": 0,
+    "position": null,
+    "fenetreJours": 90,
+    "clicsRecents": 0,
+    "fenetreRecenteJours": 28,
+    "source": "search-console",
+    "date": "2026-11-05"
+  }
+}

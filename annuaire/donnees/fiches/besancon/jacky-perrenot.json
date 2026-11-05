@@ -29,7 +29,7 @@
     "longitude": 5.975253599999999
   },
   "note": 3.6,
-  "avis": 56,
+  "avis": 57,
   "horaires": null,
   "attributs": [
     "Parking accessible en fauteuil roulant"
@@ -41,8 +41,8 @@
     "etat": "absent",
     "premiere_detection": null,
     "derniere_detection": null,
-    "derniere_verification": "2026-10-20T09:58:52.830Z",
-    "echecs": 12,
+    "derniere_verification": "2026-11-05T13:08:04.123Z",
+    "echecs": 13,
     "url_detectee": null
   },
   "suggestion": {
@@ -62,7 +62,7 @@
   "dates": {
     "collecte": "2026-09-30",
     "publication": "2026-09-30",
-    "maj": "2026-10-20"
+    "maj": "2026-11-05"
   },
   "source": "google-places",
   "redaction": {
@@ -135,7 +135,7 @@
     "clicsRecents": 0,
     "fenetreRecenteJours": 28,
     "source": "search-console",
-    "date": "2026-11-04"
+    "date": "2026-11-05"
   },
   "avis_detail": {
     "releve": "2026-10-20",

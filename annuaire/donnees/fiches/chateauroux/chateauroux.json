@@ -1,0 +1,162 @@
+{
+  "id": "ChIJD0QdJV8L-0cRFRTi4rSmhsk",
+  "slug": "chateauroux",
+  "nom": "Châteauroux",
+  "categorie": "hebergement",
+  "categorie_gmb": "Hébergement",
+  "type_principal": "lodging",
+  "types": [
+    "lodging",
+    "point_of_interest",
+    "establishment"
+  ],
+  "ville": "Châteauroux",
+  "ville_slug": "chateauroux",
+  "adresse": {
+    "rue": "22 bis Rue de l'Indre",
+    "code_postal": "36000",
+    "departement": "36",
+    "region": "Centre-Val de Loire",
+    "pays": "France",
+    "complete": "22 bis Rue de l'Indre, 36000 Châteauroux"
+  },
+  "telephone": "",
+  "geo": {
+    "latitude": 46.798488899999995,
+    "longitude": 1.712035
+  },
+  "note": 4.6,
+  "avis": 58,
+  "horaires": null,
+  "attributs": [],
+  "lien_google": "https://maps.google.com/?cid=14521477344333534229&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
+  "site_web_gmb": null,
+  "statut": "publiee",
+  "backlink": {
+    "etat": "absent",
+    "premiere_detection": null,
+    "derniere_detection": null,
+    "derniere_verification": "2026-11-05T13:08:04.123Z",
+    "echecs": 1,
+    "url_detectee": null
+  },
+  "suggestion": {
+    "etat": "en-attente",
+    "date_soumission": null,
+    "tentatives": 0,
+    "date_email": "2026-11-05"
+  },
+  "retrait": null,
+  "dates": {
+    "collecte": "2026-11-05",
+    "publication": "2026-11-05",
+    "maj": "2026-11-05"
+  },
+  "source": "google-places",
+  "avis_detail": {
+    "releve": "2026-11-05",
+    "liste": [
+      {
+        "note": 5,
+        "texte": "J’aime beaucoup Châteauroux : c’est une ville agréable, accueillante et dynamique. On y trouve de nombreux commerces, des services variés et des espaces plaisants pour se promener. Les habitants sont chaleureux et l’ambiance y est conviviale. Une ville où il fait bon vivre !",
+        "langue": "fr",
+        "date": "2026-09-09",
+        "auteur": "Sarah_ B",
+        "auteur_lien": "https://www.google.com/maps/contrib/115857555469882695682/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT21aV1QxZERUazUzUjNsRldqRlJVRk5YUmpVNWNGRRAB!2m1!1s0x47fb0b5f251d440f:0xc986a6b4e2e21415"
+      },
+      {
+        "note": 5,
+        "texte": "Salle propre et très bien équipée en machine et poids !\nIl y a de tout pour tous les niveaux",
+        "langue": "fr",
+        "date": "2026-08-25",
+        "auteur": "Benjamin Crnt",
+        "auteur_lien": "https://www.google.com/maps/contrib/117933589431722791823/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2toWVlqSkZjVTlVYXpaclJEZHNUM1ZVZURGdFMyYxAB!2m1!1s0x47fb0b5f251d440f:0xc986a6b4e2e21415"
+      },
+      {
+        "note": 5,
+        "texte": "L’ambiance trop génial avec les musiques trop cool j’adore ce style la salle de sport",
+        "langue": "fr",
+        "date": "2026-08-15",
+        "auteur": "Waren Machado",
+        "auteur_lien": "https://www.google.com/maps/contrib/100335438953809938288/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xObGVGQldiM0JtYlZCWlQwRktjR1UwZWpCTVpIYxAB!2m1!1s0x47fb0b5f251d440f:0xc986a6b4e2e21415"
+      },
+      {
+        "note": 5,
+        "texte": "Un super club avec 1400 m² de plaisir de Bonnes machines je recommande à 200 %",
+        "langue": "fr",
+        "date": "2026-05-14",
+        "auteur": "tito bourdeau",
+        "auteur_lien": "https://www.google.com/maps/contrib/106446828963472741459/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2pKdWFUUmhhMjVIUzB0eFMwd3pRalpNUjE5RGRIYxAB!2m1!1s0x47fb0b5f251d440f:0xc986a6b4e2e21415"
+      },
+      {
+        "note": 5,
+        "texte": "Excellents cours,  très bonne humeur, les danseurs sont tous bienveillants et accueillants. Le petit plus : les sorties organisées !",
+        "langue": "fr",
+        "date": "2026-05-12",
+        "auteur": "Swingchateauroux",
+        "auteur_lien": "https://www.google.com/maps/contrib/101903770538037154277/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2pGT1QzUkhTRzAzUVhsSlNWcElOMkpSUW1kc2JsRRAB!2m1!1s0x47fb0b5f251d440f:0xc986a6b4e2e21415"
+      }
+    ]
+  },
+  "redaction": {
+    "version": 2,
+    "titre": "Châteauroux — Hébergement à Châteauroux",
+    "meta_titre": "Châteauroux à Châteauroux : avis",
+    "meta_description": "Châteauroux, hébergement à Châteauroux : note Google 4,6/5 (58 avis), adresse et itinéraire.",
+    "chapo": "Châteauroux, hébergement au 22 bis Rue de l'Indre, à Châteauroux. Note Google : 4,6 sur 5 pour 58 avis.",
+    "sections": [
+      {
+        "id": "presentation",
+        "titre": "Châteauroux en quelques mots",
+        "paragraphes": [
+          "Châteauroux est référencé dans la rubrique Hébergement à Châteauroux. Les informations de cette page proviennent de sa fiche Google publique, relevée le 5 novembre 2026."
+        ]
+      },
+      {
+        "id": "acces",
+        "titre": "Adresse et accès",
+        "paragraphes": [
+          "L'établissement est situé au 22 bis Rue de l'Indre, 36000 Châteauroux.",
+          "Coordonnées GPS : 46.79849, 1.71203. Le bouton Itinéraire de cette page ouvre la navigation."
+        ]
+      },
+      {
+        "id": "contact",
+        "titre": "Contacter Châteauroux",
+        "paragraphes": [
+          "Aucun numéro de téléphone n'est déclaré sur la fiche Google de l'établissement : le contact se fait sur place, aux horaires indiqués."
+        ]
+      },
+      {
+        "id": "avis",
+        "titre": "La réputation de Châteauroux",
+        "paragraphes": [
+          "Note de 4,6 sur 5 pour 58 avis Google au relevé du 5 novembre 2026. Les avis les plus parlants sont compilés ci-dessous, avec un lien vers la fiche d'origine."
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "q": "Où se trouve Châteauroux ?",
+        "r": "Châteauroux se trouve 22 bis Rue de l'Indre, 36000 Châteauroux. Un lien d'itinéraire est disponible sur cette page."
+      }
+    ],
+    "genere_le": "2026-11-05"
+  },
+  "statut_google": "OPERATIONAL",
+  "audience": {
+    "clics": 0,
+    "impressions": 0,
+    "position": null,
+    "fenetreJours": 90,
+    "clicsRecents": 0,
+    "fenetreRecenteJours": 28,
+    "source": "search-console",
+    "date": "2026-11-05"
+  }
+}

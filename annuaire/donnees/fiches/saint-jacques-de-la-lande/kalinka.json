@@ -1,0 +1,270 @@
+{
+  "id": "ChIJhfeNYn7gDkgRJbHvWDImUlc",
+  "slug": "kalinka",
+  "nom": "Kalinka",
+  "categorie": "commerces-alimentation",
+  "categorie_gmb": "Épicerie",
+  "type_principal": "grocery_store",
+  "types": [
+    "grocery_store",
+    "food_store",
+    "food",
+    "store",
+    "point_of_interest",
+    "establishment"
+  ],
+  "ville": "Saint-Jacques-de-la-Lande",
+  "ville_slug": "saint-jacques-de-la-lande",
+  "adresse": {
+    "rue": "50 Boulevard Jean Mermoz",
+    "code_postal": "35136",
+    "departement": "35",
+    "region": "Bretagne",
+    "pays": "France",
+    "complete": "50 Bd Jean Mermoz, 35136 Saint-Jacques-de-la-Lande"
+  },
+  "telephone": "02 99 12 16 02",
+  "geo": {
+    "latitude": 48.0953076,
+    "longitude": -1.6964926999999999
+  },
+  "note": 4.8,
+  "avis": 367,
+  "horaires": [
+    {
+      "jour": 0,
+      "ferme": true,
+      "creneaux": []
+    },
+    {
+      "jour": 1,
+      "ferme": false,
+      "creneaux": [
+        [
+          "10:00",
+          "20:00"
+        ]
+      ]
+    },
+    {
+      "jour": 2,
+      "ferme": false,
+      "creneaux": [
+        [
+          "10:00",
+          "20:00"
+        ]
+      ]
+    },
+    {
+      "jour": 3,
+      "ferme": false,
+      "creneaux": [
+        [
+          "10:00",
+          "20:00"
+        ]
+      ]
+    },
+    {
+      "jour": 4,
+      "ferme": false,
+      "creneaux": [
+        [
+          "10:00",
+          "20:00"
+        ]
+      ]
+    },
+    {
+      "jour": 5,
+      "ferme": false,
+      "creneaux": [
+        [
+          "10:00",
+          "20:00"
+        ]
+      ]
+    },
+    {
+      "jour": 6,
+      "ferme": false,
+      "creneaux": [
+        [
+          "10:00",
+          "20:00"
+        ]
+      ]
+    }
+  ],
+  "attributs": [],
+  "lien_google": "https://maps.google.com/?cid=6292133627072327973&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
+  "site_web_gmb": null,
+  "statut": "publiee",
+  "backlink": {
+    "etat": "absent",
+    "premiere_detection": null,
+    "derniere_detection": null,
+    "derniere_verification": "2026-11-05T13:08:04.123Z",
+    "echecs": 1,
+    "url_detectee": null
+  },
+  "suggestion": {
+    "etat": "en-attente",
+    "date_soumission": null,
+    "tentatives": 0,
+    "date_email": "2026-11-05"
+  },
+  "retrait": null,
+  "dates": {
+    "collecte": "2026-11-05",
+    "publication": "2026-11-05",
+    "maj": "2026-11-05"
+  },
+  "source": "google-places",
+  "avis_detail": {
+    "releve": "2026-11-05",
+    "liste": [
+      {
+        "note": 1,
+        "texte": "Le samedi, j’ai acheté un hareng fumé, il avait l’air frais, mais c’était juste terrible. En conséquence, j’ai dû jeter ce produit à la poubelle, ce qui m’a beaucoup déçu. Je tiens à souligner que cette remarque ne concerne pas tant les employés du magasin que le fabricant, avec qui, malheureusement, je ne peux pas entrer en contact. Parce qu’après tout, le poisson était frais, mais pas délicieusement cuit. Il semble avoir été fumé sans ajout de sel et d’autres épices. Afin de réduire le prix du produit. C’est juste un goût terrible. Une personne achète de la nourriture afin d’en profiter, et de ne pas être déçue par son goût et, par conséquent, de rester affamée.",
+        "langue": "fr",
+        "date": "2026-10-14",
+        "auteur": "Svitlana Andrushkiv",
+        "auteur_lien": "https://www.google.com/maps/contrib/108195452446109348393/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25sM1JYWkViVkpDT1VjeGJHWkZVV1JVTlRKa1YzYxAB!2m1!1s0x480ee07e628df785:0x5752263258efb125"
+      },
+      {
+        "note": 5,
+        "texte": "épicerie que je fréquente depuis plusieurs années, produits frais et les dames qui y travaillent sont très gentilles et accueillantes.\nLe seul endroit qui me permet de garder contact avec mes origines , je recommande les yeux fermés !!",
+        "langue": "fr",
+        "date": "2026-10-06",
+        "auteur": "Jade Prallet",
+        "auteur_lien": "https://www.google.com/maps/contrib/116493070618707626291/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT20xWlJWUkZNSGxEZDBwV05pMVRSR3hUYTJKbWJFRRAB!2m1!1s0x480ee07e628df785:0x5752263258efb125"
+      },
+      {
+        "note": 5,
+        "texte": "J’ai adoré ce magasin ! Il y a énormément de produits, beaucoup de choix et plein de découvertes à faire. C’était un vrai plaisir de parcourir les rayons. Je recommande à tous ceux qui veulent découvrir des spécialités de l’Est .",
+        "langue": "fr",
+        "date": "2026-06-11",
+        "auteur": "Elisa",
+        "auteur_lien": "https://www.google.com/maps/contrib/107511512460612336472/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT21SRmR6SkVSRGgxT1dwNGN6aFhWMUJSYms5RWExRRAB!2m1!1s0x480ee07e628df785:0x5752263258efb125"
+      },
+      {
+        "note": 5,
+        "texte": "Le magasin Kalinka est une véritable pépite pour tous ceux qui recherchent des saveurs authentiques d'Europe de l'Est à Rennes. On y trouve un large choix de spécialités, des produits laitiers comme le tvorog aux charcuteries traditionnelles, sans oublier les célèbres bonbons et les boissons typiques.\n\nL'accueil est toujours chaleureux et les rayons sont bien entretenus. C'est l'endroit idéal pour retrouver le goût de l'enfance ou pour découvrir de nouveaux produits de qualité. Une adresse incontournable pour les gourmands et les curieux.",
+        "langue": "fr",
+        "date": "2026-05-01",
+        "auteur": "Equilibrator",
+        "auteur_lien": "https://www.google.com/maps/contrib/117993988065205273893/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25WWlFtRllVRTlwUkdSS1YydHRSV0ZYYjA1dU4xRRAB!2m1!1s0x480ee07e628df785:0x5752263258efb125"
+      },
+      {
+        "note": 5,
+        "texte": "Magasin au top ! Il y a toujours un très grand choix de produits frais et savoureux. La propriétaire est exceptionnelle : toujours souriante, aimable et prête à aider avec de précieux conseils. C’est un vrai plaisir d’y faire ses courses. Nous reviendrons avec grand plaisir. Merci beaucoup !",
+        "langue": "fr",
+        "date": "2025-09-06",
+        "auteur": "Margot",
+        "auteur_lien": "https://www.google.com/maps/contrib/114028962656567184883/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT21GbWJEbEtkeloyTURWUVlYbEJRalJ4V2pkaldsRRAB!2m1!1s0x480ee07e628df785:0x5752263258efb125"
+      }
+    ]
+  },
+  "services": {
+    "releve": "2026-11-05",
+    "options": {
+      "delivery": false,
+      "restroom": false
+    },
+    "paiement": [
+      "carte bancaire",
+      "carte de débit",
+      "paiement sans contact"
+    ],
+    "parking": []
+  },
+  "redaction": {
+    "version": 2,
+    "titre": "Kalinka — Commerce d'alimentation à Saint-Jacques-de-la-Lande",
+    "meta_titre": "Kalinka à Saint-Jacques-de-la-Lande : horaires, avis",
+    "meta_description": "Kalinka, commerce d'alimentation à Saint-Jacques-de-la-Lande : horaires d'ouverture, note Google 4,8/5 (367 avis), téléphone, adresse et itinéraire.",
+    "chapo": "Kalinka exerce l'activité de commerce d'alimentation au 50 Boulevard Jean Mermoz, à Saint-Jacques-de-la-Lande. Ouvert tous les jours sauf le lundi au relevé du 5 novembre 2026. Téléphone : 02 99 12 16 02. Note Google : 4,8 sur 5 pour 367 avis.",
+    "sections": [
+      {
+        "id": "presentation",
+        "titre": "Kalinka en quelques mots",
+        "paragraphes": [
+          "Sur Google, l'établissement est classé « Épicerie », dans notre rubrique Commerce d'alimentation.",
+          "D'après le relevé du 5 novembre 2026, l'établissement est ouvert tous les jours sauf le lundi. Le détail jour par jour figure plus bas."
+        ]
+      },
+      {
+        "id": "prestations",
+        "titre": "Services et équipements de Kalinka",
+        "paragraphes": [
+          "Non proposé selon la fiche Google : livraison et toilettes.",
+          "Moyens de paiement déclarés : carte bancaire, carte de débit et paiement sans contact.",
+          "Ces indications sont déclarées par l'établissement sur sa fiche Google (relevé du 5 novembre 2026)."
+        ]
+      },
+      {
+        "id": "acces",
+        "titre": "Adresse et accès",
+        "paragraphes": [
+          "L'établissement est situé au 50 Boulevard Jean Mermoz, 35136 Saint-Jacques-de-la-Lande.",
+          "Coordonnées GPS : 48.09531, -1.69649. Le bouton Itinéraire de cette page ouvre la navigation."
+        ]
+      },
+      {
+        "id": "contact",
+        "titre": "Contacter Kalinka",
+        "paragraphes": [
+          "Le contact se fait par téléphone au 02 99 12 16 02, ou directement sur place aux horaires d'ouverture."
+        ]
+      },
+      {
+        "id": "avis",
+        "titre": "La réputation de Kalinka",
+        "paragraphes": [
+          "Note de 4,8 sur 5 pour 367 avis Google au relevé du 5 novembre 2026. Les avis les plus parlants sont compilés ci-dessous, avec un lien vers la fiche d'origine."
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "q": "Quels sont les horaires de Kalinka ?",
+        "r": "Au relevé du 5 novembre 2026, Kalinka était ouvert tous les jours sauf le lundi. Dans le détail — lundi : fermé ; mardi : de 10 h à 20 h ; mercredi : de 10 h à 20 h ; jeudi : de 10 h à 20 h ; vendredi : de 10 h à 20 h ; samedi : de 10 h à 20 h ; dimanche : de 10 h à 20 h. Ces horaires peuvent changer : un appel préalable reste conseillé."
+      },
+      {
+        "q": "Kalinka est-il ouvert le dimanche ?",
+        "r": "Oui : le dimanche, Kalinka est ouvert de 10 h à 20 h (horaires relevés le 5 novembre 2026)."
+      },
+      {
+        "q": "Où se trouve Kalinka ?",
+        "r": "Kalinka se trouve 50 Bd Jean Mermoz, 35136 Saint-Jacques-de-la-Lande. Un lien d'itinéraire est disponible sur cette page."
+      },
+      {
+        "q": "Comment contacter Kalinka ?",
+        "r": "Par téléphone au 02 99 12 16 02, ou directement sur place aux heures d'ouverture."
+      },
+      {
+        "q": "Kalinka propose-t-il la vente à emporter ou la livraison ?",
+        "r": "D'après sa fiche Google (relevé du 5 novembre 2026) — livraison : non."
+      }
+    ],
+    "genere_le": "2026-11-05"
+  },
+  "statut_google": "OPERATIONAL",
+  "audience": {
+    "clics": 0,
+    "impressions": 0,
+    "position": null,
+    "fenetreJours": 90,
+    "clicsRecents": 0,
+    "fenetreRecenteJours": 28,
+    "source": "search-console",
+    "date": "2026-11-05"
+  }
+}

@@ -1,5 +1,137 @@
 [
   {
+    "date": "2026-11-05T13:13:16.133Z",
+    "type": "retrait-410",
+    "id": "ChIJLdUwcb9vsBIRPAA3JDcx0B8",
+    "nom": "Grande Pharmacie Lafayette de Catalogne",
+    "url": "/pharmacies-opticiens/perpignan/grande-pharmacie-lafayette-de-catalogne/",
+    "motif": "backlink jamais posé après 45 jours de délai de grâce",
+    "cible": null
+  },
+  {
+    "date": "2026-11-05T13:13:16.136Z",
+    "type": "retrait-410",
+    "id": "ChIJ7yWWALFZ9UcRRuj-MgOoEVU",
+    "nom": "LAVERIE DES ALPES Speed Queen",
+    "url": "/nettoyage-hygiene/valence/laverie-des-alpes-speed-queen/",
+    "motif": "page non indexée par Google 45 jours après sa mise en ligne (Explorée, actuellement non indexée)",
+    "cible": null,
+    "cause": "non-indexee"
+  },
+  {
+    "date": "2026-11-05T13:13:16.137Z",
+    "type": "retrait-410",
+    "id": "ChIJK_EzRbYRrxIRDF6Q0ajfO90",
+    "nom": "Laverie du château",
+    "url": "/nettoyage-hygiene/foix/laverie-du-chateau/",
+    "motif": "page non indexée par Google 45 jours après sa mise en ligne (Explorée, actuellement non indexée)",
+    "cible": null,
+    "cause": "non-indexee"
+  },
+  {
+    "date": "2026-11-05T13:13:16.137Z",
+    "type": "retrait-410",
+    "id": "ChIJ__9ea8p95kcRninoCwKUz2s",
+    "nom": "Laverie Versailles",
+    "url": "/nettoyage-hygiene/versailles/laverie-versailles/",
+    "motif": "backlink jamais posé après 45 jours de délai de grâce",
+    "cible": null
+  },
+  {
+    "date": "2026-11-05T13:13:16.139Z",
+    "type": "retrait-410",
+    "id": "ChIJpcMDCDpv80cRO5NDzaldHsU",
+    "nom": "SOS 71- Cabinet médical",
+    "url": "/medecins-dentistes/charnay-les-macon/sos-71-cabinet-medical/",
+    "motif": "backlink jamais posé après 45 jours de délai de grâce",
+    "cible": null
+  },
+  {
+    "date": "2026-11-05T13:08:04.251Z",
+    "type": "backlink-absent",
+    "id": "ChIJD0QdJV8L-0cRFRTi4rSmhsk",
+    "nom": "Châteauroux",
+    "url": null,
+    "precedent": "en-attente"
+  },
+  {
+    "date": "2026-11-05T13:08:04.299Z",
+    "type": "backlink-absent",
+    "id": "ChIJfbQqoPJDCkgRt8fCJ1xHf2g",
+    "nom": "Garage Moal Auto EUROREPAR CAR SERVICE",
+    "url": null,
+    "precedent": "en-attente"
+  },
+  {
+    "date": "2026-11-05T13:08:04.346Z",
+    "type": "backlink-absent",
+    "id": "ChIJhfeNYn7gDkgRJbHvWDImUlc",
+    "nom": "Kalinka",
+    "url": null,
+    "precedent": "en-attente"
+  },
+  {
+    "date": "2026-11-05T13:08:04.404Z",
+    "type": "backlink-absent",
+    "id": "ChIJpYVK9fE6tRIR-Whs64l_kKM",
+    "nom": "Le Vivarais",
+    "url": null,
+    "precedent": "en-attente"
+  },
+  {
+    "date": "2026-11-05T13:08:04.442Z",
+    "type": "backlink-absent",
+    "id": "ChIJlXrmxPJNqhIROakZ2iTKDfE",
+    "nom": "Les Serres de Camelat",
+    "url": null,
+    "precedent": "en-attente"
+  },
+  {
+    "date": "2026-11-05T13:08:03.545Z",
+    "type": "publication",
+    "id": "ChIJD0QdJV8L-0cRFRTi4rSmhsk",
+    "nom": "Châteauroux",
+    "url": "/hebergement/chateauroux/chateauroux/",
+    "categorie": "hebergement",
+    "source": "google-places"
+  },
+  {
+    "date": "2026-11-05T13:08:03.656Z",
+    "type": "publication",
+    "id": "ChIJlXrmxPJNqhIROakZ2iTKDfE",
+    "nom": "Les Serres de Camelat",
+    "url": "/commerces-alimentation/le-passage/les-serres-de-camelat/",
+    "categorie": "commerces-alimentation",
+    "source": "google-places"
+  },
+  {
+    "date": "2026-11-05T13:08:03.773Z",
+    "type": "publication",
+    "id": "ChIJhfeNYn7gDkgRJbHvWDImUlc",
+    "nom": "Kalinka",
+    "url": "/commerces-alimentation/saint-jacques-de-la-lande/kalinka/",
+    "categorie": "commerces-alimentation",
+    "source": "google-places"
+  },
+  {
+    "date": "2026-11-05T13:08:03.892Z",
+    "type": "publication",
+    "id": "ChIJfbQqoPJDCkgRt8fCJ1xHf2g",
+    "nom": "Garage Moal Auto EUROREPAR CAR SERVICE",
+    "url": "/garages-automobile/eterville/garage-moal-auto-eurorepar-car-service/",
+    "categorie": "garages-automobile",
+    "source": "google-places"
+  },
+  {
+    "date": "2026-11-05T13:08:03.989Z",
+    "type": "publication",
+    "id": "ChIJpYVK9fE6tRIR-Whs64l_kKM",
+    "nom": "Le Vivarais",
+    "url": "/loisirs-sport-culture/privas/le-vivarais/",
+    "categorie": "loisirs-sport-culture",
+    "source": "google-places"
+  },
+  {
     "date": "2026-11-04T13:01:59.358Z",
     "type": "retrait-410",
     "id": "ChIJCwIsfYn0ikcRT91Fp6FLi0A",

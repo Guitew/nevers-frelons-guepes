@@ -1,0 +1,275 @@
+{
+  "id": "ChIJpYVK9fE6tRIR-Whs64l_kKM",
+  "slug": "le-vivarais",
+  "nom": "Le Vivarais",
+  "categorie": "loisirs-sport-culture",
+  "categorie_gmb": "Cinéma",
+  "type_principal": "movie_theater",
+  "types": [
+    "movie_theater",
+    "point_of_interest",
+    "establishment"
+  ],
+  "ville": "Privas",
+  "ville_slug": "privas",
+  "adresse": {
+    "rue": "1 Cours du Temple",
+    "code_postal": "07000",
+    "departement": "07",
+    "region": "Auvergne-Rhône-Alpes",
+    "pays": "France",
+    "complete": "1 Cr du Temple, 07000 Privas"
+  },
+  "telephone": "09 83 04 40 27",
+  "geo": {
+    "latitude": 44.7347037,
+    "longitude": 4.5945721
+  },
+  "note": 4.5,
+  "avis": 408,
+  "horaires": [
+    {
+      "jour": 0,
+      "ferme": false,
+      "creneaux": [
+        [
+          "09:00",
+          "23:00"
+        ]
+      ]
+    },
+    {
+      "jour": 1,
+      "ferme": false,
+      "creneaux": [
+        [
+          "09:00",
+          "23:00"
+        ]
+      ]
+    },
+    {
+      "jour": 2,
+      "ferme": false,
+      "creneaux": [
+        [
+          "09:00",
+          "23:00"
+        ]
+      ]
+    },
+    {
+      "jour": 3,
+      "ferme": false,
+      "creneaux": [
+        [
+          "09:00",
+          "23:00"
+        ]
+      ]
+    },
+    {
+      "jour": 4,
+      "ferme": false,
+      "creneaux": [
+        [
+          "09:00",
+          "23:00"
+        ]
+      ]
+    },
+    {
+      "jour": 5,
+      "ferme": false,
+      "creneaux": [
+        [
+          "09:00",
+          "23:00"
+        ]
+      ]
+    },
+    {
+      "jour": 6,
+      "ferme": false,
+      "creneaux": [
+        [
+          "09:00",
+          "23:00"
+        ]
+      ]
+    }
+  ],
+  "attributs": [
+    "Entrée accessible en fauteuil roulant",
+    "Parking accessible en fauteuil roulant",
+    "Toilettes accessibles en fauteuil roulant"
+  ],
+  "lien_google": "https://maps.google.com/?cid=11786060455165585657&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
+  "site_web_gmb": null,
+  "statut": "publiee",
+  "backlink": {
+    "etat": "absent",
+    "premiere_detection": null,
+    "derniere_detection": null,
+    "derniere_verification": "2026-11-05T13:08:04.123Z",
+    "echecs": 1,
+    "url_detectee": null
+  },
+  "suggestion": {
+    "etat": "en-attente",
+    "date_soumission": null,
+    "tentatives": 0,
+    "date_email": "2026-11-05"
+  },
+  "retrait": null,
+  "dates": {
+    "collecte": "2026-11-05",
+    "publication": "2026-11-05",
+    "maj": "2026-11-05"
+  },
+  "source": "google-places",
+  "avis_detail": {
+    "releve": "2026-11-05",
+    "liste": [
+      {
+        "note": 5,
+        "texte": "Magnifique Cinéma. Décoration colorée, artistique et originale. C'est la première fois que je vois une décoration aussi belle dans un cinéma. Acceuil et ambiance très agréables. Salle et siège confortables. J'ai adoré ce cinéma !",
+        "langue": "fr",
+        "date": "2026-06-06",
+        "auteur": "Anaïs V",
+        "auteur_lien": "https://www.google.com/maps/contrib/114287402825192203051/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25FeVVXbFdVMlp2VUdNMVowTXlWVkpHZWpKRVJuYxAB!2m1!1s0x12b53af1f54a85a5:0xa3907f89eb6c68f9"
+      },
+      {
+        "note": 1,
+        "texte": "Je viens du cinéma ou je souhaitais voir \"Histoires et crapahutes\" à 17 Heures.\nJ'ai fait demi-tour car le prix de la séance est de 17 Euros alors que le programme ne mentionnait aucun tarif particulier.\nMerci pour ceux qui viennent de loin.",
+        "langue": "fr",
+        "date": "2026-05-31",
+        "auteur": "Denis Merchat",
+        "auteur_lien": "https://www.google.com/maps/contrib/112901709415658560760/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2pJeFJWQnNkRWQ0VnpaSVl6UnpNbGRVU2pGNFlYYxAB!2m1!1s0x12b53af1f54a85a5:0xa3907f89eb6c68f9"
+      },
+      {
+        "note": 5,
+        "texte": "Le cinéma privadois auquel on tient beaucoup, excellente programmation.",
+        "langue": "fr",
+        "date": "2026-05-16",
+        "auteur": "Laurence BRUNEL-SERRES",
+        "auteur_lien": "https://www.google.com/maps/contrib/110357467758222946989/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2twUFZGaHRiVlJOWDA1aGJHVnVaMkozT1RaVFZWRRAB!2m1!1s0x12b53af1f54a85a5:0xa3907f89eb6c68f9"
+      },
+      {
+        "note": 5,
+        "texte": "Une des plus belle salle de cinéma que j'ai pu voir, je découvre ce cinéma avec grand plaisir et j'espère pouvoir y retourner, c'était une super expérience, avec des salles très joliment décorées ! J'aime beaucoup le style, la devanture et l'entré de ce cinéma !",
+        "langue": "fr",
+        "date": "2025-04-19",
+        "auteur": "Pierre & Marine",
+        "auteur_lien": "https://www.google.com/maps/contrib/115410712214997805260/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnTUNvODdlWklBEAE!2m1!1s0x12b53af1f54a85a5:0xa3907f89eb6c68f9"
+      },
+      {
+        "note": 5,
+        "texte": "Très bon cinéma : beaucoup de choix de films malgré sa petite taille, des salles propres, des sièges et un volume sonore confortables, une température idéale, et un accueil très chaleureux. Le top, bravo et merci. Si j'habitais encore Privas, j'irais plus souvent.",
+        "langue": "fr",
+        "date": "2024-11-02",
+        "auteur": "Annabelle Zotti",
+        "auteur_lien": "https://www.google.com/maps/contrib/118056251482046275065/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUMzdVBQT0ZREAE!2m1!1s0x12b53af1f54a85a5:0xa3907f89eb6c68f9"
+      }
+    ]
+  },
+  "services": {
+    "releve": "2026-11-05",
+    "options": {
+      "goodForChildren": true,
+      "restroom": true
+    },
+    "paiement": [
+      "carte bancaire",
+      "carte de débit"
+    ],
+    "parking": []
+  },
+  "redaction": {
+    "version": 2,
+    "titre": "Le Vivarais — Loisirs, sport et culture à Privas",
+    "meta_titre": "Le Vivarais à Privas : horaires, avis, téléphone",
+    "meta_description": "Le Vivarais, loisirs, sport et culture à Privas : horaires d'ouverture, note Google 4,5/5 (408 avis), téléphone, adresse et itinéraire.",
+    "chapo": "Le Vivarais est un loisirs, sport et culture au 1 Cours du Temple, à Privas. Ouvert sept jours sur sept au relevé du 5 novembre 2026. Téléphone : 09 83 04 40 27. Note Google : 4,5 sur 5 pour 408 avis.",
+    "sections": [
+      {
+        "id": "presentation",
+        "titre": "Le Vivarais en quelques mots",
+        "paragraphes": [
+          "Sur Google, l'établissement est classé « Cinéma », dans notre rubrique Loisirs, sport et culture.",
+          "D'après le relevé du 5 novembre 2026, l'établissement est ouvert sept jours sur sept. Le détail jour par jour figure plus bas."
+        ]
+      },
+      {
+        "id": "prestations",
+        "titre": "Services et équipements de Le Vivarais",
+        "paragraphes": [
+          "Proposé : adapté aux enfants et toilettes.",
+          "Moyens de paiement déclarés : carte bancaire et carte de débit.",
+          "Ces indications sont déclarées par l'établissement sur sa fiche Google (relevé du 5 novembre 2026)."
+        ]
+      },
+      {
+        "id": "acces",
+        "titre": "Adresse et accès",
+        "paragraphes": [
+          "L'établissement est situé au 1 Cours du Temple, 07000 Privas.",
+          "Coordonnées GPS : 44.73470, 4.59457. Le bouton Itinéraire de cette page ouvre la navigation."
+        ]
+      },
+      {
+        "id": "contact",
+        "titre": "Contacter Le Vivarais",
+        "paragraphes": [
+          "Le contact se fait par téléphone au 09 83 04 40 27, ou directement sur place aux horaires d'ouverture."
+        ]
+      },
+      {
+        "id": "avis",
+        "titre": "La réputation de Le Vivarais",
+        "paragraphes": [
+          "Note de 4,5 sur 5 pour 408 avis Google au relevé du 5 novembre 2026. Les avis les plus parlants sont compilés ci-dessous, avec un lien vers la fiche d'origine."
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "q": "Quels sont les horaires de Le Vivarais ?",
+        "r": "Au relevé du 5 novembre 2026, Le Vivarais était ouvert sept jours sur sept. Dans le détail — lundi : de 9 h à 23 h ; mardi : de 9 h à 23 h ; mercredi : de 9 h à 23 h ; jeudi : de 9 h à 23 h ; vendredi : de 9 h à 23 h ; samedi : de 9 h à 23 h ; dimanche : de 9 h à 23 h. Ces horaires peuvent changer : un appel préalable reste conseillé."
+      },
+      {
+        "q": "Le Vivarais est-il ouvert le dimanche ?",
+        "r": "Oui : le dimanche, Le Vivarais est ouvert de 9 h à 23 h (horaires relevés le 5 novembre 2026)."
+      },
+      {
+        "q": "Où se trouve Le Vivarais ?",
+        "r": "Le Vivarais se trouve 1 Cr du Temple, 07000 Privas. Un lien d'itinéraire est disponible sur cette page."
+      },
+      {
+        "q": "Comment contacter Le Vivarais ?",
+        "r": "Par téléphone au 09 83 04 40 27, ou directement sur place aux heures d'ouverture."
+      },
+      {
+        "q": "Le Vivarais est-il accessible aux personnes à mobilité réduite ?",
+        "r": "La fiche Google de l'établissement mentionne : « Entrée accessible en fauteuil roulant ». Cette information est déclarative ; en cas de doute, vérifiez par téléphone."
+      }
+    ],
+    "genere_le": "2026-11-05"
+  },
+  "statut_google": "OPERATIONAL",
+  "audience": {
+    "clics": 0,
+    "impressions": 0,
+    "position": null,
+    "fenetreJours": 90,
+    "clicsRecents": 0,
+    "fenetreRecenteJours": 28,
+    "source": "search-console",
+    "date": "2026-11-05"
+  }
+}

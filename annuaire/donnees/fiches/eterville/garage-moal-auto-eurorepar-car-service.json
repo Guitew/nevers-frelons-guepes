@@ -1,0 +1,285 @@
+{
+  "id": "ChIJfbQqoPJDCkgRt8fCJ1xHf2g",
+  "slug": "garage-moal-auto-eurorepar-car-service",
+  "nom": "Garage Moal Auto EUROREPAR CAR SERVICE",
+  "categorie": "garages-automobile",
+  "categorie_gmb": "Garage automobile",
+  "type_principal": "car_repair",
+  "types": [
+    "car_repair",
+    "service",
+    "point_of_interest",
+    "establishment"
+  ],
+  "ville": "Éterville",
+  "ville_slug": "eterville",
+  "adresse": {
+    "rue": "12 Rue de l'Intendance",
+    "code_postal": "14930",
+    "departement": "14",
+    "region": "Normandie",
+    "pays": "France",
+    "complete": "12 Rue de l'Intendance, 14930 Éterville"
+  },
+  "telephone": "02 31 43 13 13",
+  "geo": {
+    "latitude": 49.1402124,
+    "longitude": -0.4226737
+  },
+  "note": 4.3,
+  "avis": 207,
+  "horaires": [
+    {
+      "jour": 0,
+      "ferme": false,
+      "creneaux": [
+        [
+          "07:30",
+          "12:00"
+        ],
+        [
+          "14:00",
+          "18:00"
+        ]
+      ]
+    },
+    {
+      "jour": 1,
+      "ferme": false,
+      "creneaux": [
+        [
+          "07:30",
+          "12:00"
+        ],
+        [
+          "14:00",
+          "18:00"
+        ]
+      ]
+    },
+    {
+      "jour": 2,
+      "ferme": false,
+      "creneaux": [
+        [
+          "07:30",
+          "12:00"
+        ],
+        [
+          "14:00",
+          "18:00"
+        ]
+      ]
+    },
+    {
+      "jour": 3,
+      "ferme": false,
+      "creneaux": [
+        [
+          "07:30",
+          "12:00"
+        ],
+        [
+          "14:00",
+          "18:00"
+        ]
+      ]
+    },
+    {
+      "jour": 4,
+      "ferme": false,
+      "creneaux": [
+        [
+          "07:30",
+          "12:00"
+        ],
+        [
+          "14:00",
+          "18:00"
+        ]
+      ]
+    },
+    {
+      "jour": 5,
+      "ferme": true,
+      "creneaux": []
+    },
+    {
+      "jour": 6,
+      "ferme": true,
+      "creneaux": []
+    }
+  ],
+  "attributs": [
+    "Entrée accessible en fauteuil roulant",
+    "Parking accessible en fauteuil roulant"
+  ],
+  "lien_google": "https://maps.google.com/?cid=7529815563116398519&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
+  "site_web_gmb": null,
+  "statut": "publiee",
+  "backlink": {
+    "etat": "absent",
+    "premiere_detection": null,
+    "derniere_detection": null,
+    "derniere_verification": "2026-11-05T13:08:04.123Z",
+    "echecs": 1,
+    "url_detectee": null
+  },
+  "suggestion": {
+    "etat": "en-attente",
+    "date_soumission": null,
+    "tentatives": 0,
+    "date_email": "2026-11-05"
+  },
+  "retrait": null,
+  "dates": {
+    "collecte": "2026-11-05",
+    "publication": "2026-11-05",
+    "maj": "2026-11-05"
+  },
+  "source": "google-places",
+  "avis_detail": {
+    "releve": "2026-11-05",
+    "liste": [
+      {
+        "note": 1,
+        "texte": "10 ans que nos véhicules vont chez eux...et la bim le petit coup en fourbe!\nPas de devis, mais ils remplacent la piece quand même, sans autorisation pour que au final, tu te retrouve pris en otage car tu n'as pas le choix que de payer pour récupérer ton véhicule.\nBiensur c'est la faute de personne.\nTrouvez un autre garage!",
+        "langue": "fr",
+        "date": "2026-08-04",
+        "auteur": "romain detune",
+        "auteur_lien": "https://www.google.com/maps/contrib/110377501575956397355/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2tsdlpYUXRSalZTV21OdVREUkVPVFpTVkRjM2JFRRAB!2m1!1s0x480a43f2a02ab47d:0x687f475c27c2c7b7"
+      },
+      {
+        "note": 5,
+        "texte": "Ils ont réparé ma voiture de À à Z avec rapidité et efficacité. Très réactifs, très gentils et de très bon conseil. Vraiment je recommande +++ je viens de Caen exprès pour eux.",
+        "langue": "fr",
+        "date": "2026-05-07",
+        "auteur": "pauline leroy",
+        "auteur_lien": "https://www.google.com/maps/contrib/111797906150592207342/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT21oaGFEZEhNSFkwZW1nNVJ6SlBYMXBTVm1jMFdGRRAB!2m1!1s0x480a43f2a02ab47d:0x687f475c27c2c7b7"
+      },
+      {
+        "note": 5,
+        "texte": "Extra! Super petit de garage qui sait tout faire. Très compétents et dignes de confiance, c’est si rare que ça mérite d’être souligné. Ont réussi à nous faire des réparations que d’autres ne parvenaient pas à effectuer depuis des années. Toujours plein d’idées pour remettre en état des pièces plutôt que de les changer aveuglément comme d’autres. Question tarifs, on paye ce qu’on doit, pas de mauvaise surprise, c’est très raisonnable. Une vraie bonne adresse",
+        "langue": "fr",
+        "date": "2026-03-31",
+        "auteur": "Aurélie BREARD",
+        "auteur_lien": "https://www.google.com/maps/contrib/104129548601915620428/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT21WQ1ExWndaWEZvY1dNNGNEaFJUMHRNT0dSalMyYxAB!2m1!1s0x480a43f2a02ab47d:0x687f475c27c2c7b7"
+      },
+      {
+        "note": 5,
+        "texte": "Reprise d’intervention avec succès sur joint d’injecteur suite aux conneries du garage dont je vous ai parlé. Je continue de surveiller attentivement mais pour l’instant c’est nickel. Ma titine a retrouvé sa santé, j’ai terminé avec une bonne douche bien méritée ce matin.  Merci à vous les gars. Je reviendrai probablement cet été pour une révision.",
+        "langue": "fr",
+        "date": "2026-02-26",
+        "auteur": "Nicolas",
+        "auteur_lien": "https://www.google.com/maps/contrib/111040859002144213195/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2tzeFJtNUtPR2hYV1U1VWN6ZzNZeTFZVjFKa04wRRAB!2m1!1s0x480a43f2a02ab47d:0x687f475c27c2c7b7"
+      },
+      {
+        "note": 1,
+        "texte": "Garage absolument a FUIR !!!\n\nJe tiens à préciser que le véhicule était une Peugeot 106 donc un véhicule très simple d'entretien SAUF POUR CE GARAGE.\n\nJ'ai eu le malheur d'amener ma voiture dans ce garage pour un réglage soupapes et changement du joint couvre culbuteur.\nEn la récupérant j'ai seulement parcouru 15km que je suis tombé en panne (Liquide de refroidissement qui s'est vidé entièrement ainsi qu'un moteur qui donne des a coups ). Obligé d'appeler une dépanneuse, en la récupérant je pensais que le problème était réglé, absolument pas la voiture tourne pas rond et ralenti instable.\n\nQuelque semaines plus tard j'ai encore une fois fais les frais d'avoir amené ma voiture ici, le joint de couvre culbuteur changé il y a moins de 1000km s'est déchiré en roulant donc fuite d'huile et fumée a cause de l'huile qui tombe sur le collecteur, vu comment il a été fait je ne suis pas étonné ( joint qui ne colle pas dutout au couvre culbuteur), encore une fois en panne et obligé de voir avec mon assurance pour une dépanneuse. On m'indique en la récupérant qu'un embrayage COMPLET sera à faire prochainement sur le véhicule, diagnostic complètement faux car il s'agit enfaîte d'une dépression dans le moteur qui cause ce bruit qui n'était absolument pas présent avant qu'ils la récupèrent pour la dernière fois.\n\nJe me vois donc obligé de changer de garagiste car impossible de faire réparer le véhicule sans qu'un autre soucis apparaissent de leur faute.",
+        "langue": "fr",
+        "date": "2025-03-19",
+        "auteur": "Louis Dumont-Derobert",
+        "auteur_lien": "https://www.google.com/maps/contrib/102217983682900544680/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnTUN3eWFMYlRREAE!2m1!1s0x480a43f2a02ab47d:0x687f475c27c2c7b7"
+      }
+    ]
+  },
+  "services": {
+    "releve": "2026-11-05",
+    "options": {},
+    "paiement": [
+      "carte bancaire",
+      "carte de débit",
+      "paiement sans contact"
+    ],
+    "parking": [
+      "parking gratuit"
+    ]
+  },
+  "redaction": {
+    "version": 2,
+    "titre": "Garage Moal Auto EUROREPAR CAR SERVICE — Garage et automobile à Éterville",
+    "meta_titre": "Garage Moal Auto EUROREPAR CAR SERVICE à Éterville",
+    "meta_description": "Garage Moal Auto EUROREPAR CAR SERVICE, garage et automobile à Éterville : horaires d'ouverture, téléphone, adresse et itinéraire.",
+    "chapo": "Garage Moal Auto EUROREPAR CAR SERVICE exerce l'activité de garage et automobile au 12 Rue de l'Intendance, à Éterville. Fermé le samedi et le dimanche au relevé du 5 novembre 2026. Téléphone : 02 31 43 13 13. Note Google : 4,3 sur 5 pour 207 avis.",
+    "sections": [
+      {
+        "id": "presentation",
+        "titre": "Garage Moal Auto EUROREPAR CAR SERVICE en quelques mots",
+        "paragraphes": [
+          "Sur Google, l'établissement est classé « Garage automobile », dans notre rubrique Garage et automobile.",
+          "D'après le relevé du 5 novembre 2026, l'établissement est fermé le samedi et le dimanche. Le détail jour par jour figure plus bas."
+        ]
+      },
+      {
+        "id": "prestations",
+        "titre": "Services et équipements de Garage Moal Auto EUROREPAR CAR SERVICE",
+        "paragraphes": [
+          "Moyens de paiement déclarés : carte bancaire, carte de débit et paiement sans contact.",
+          "Stationnement : parking gratuit.",
+          "Ces indications sont déclarées par l'établissement sur sa fiche Google (relevé du 5 novembre 2026)."
+        ]
+      },
+      {
+        "id": "acces",
+        "titre": "Adresse et accès",
+        "paragraphes": [
+          "L'établissement est situé au 12 Rue de l'Intendance, 14930 Éterville.",
+          "Coordonnées GPS : 49.14021, -0.42267. Le bouton Itinéraire de cette page ouvre la navigation."
+        ]
+      },
+      {
+        "id": "contact",
+        "titre": "Contacter Garage Moal Auto EUROREPAR CAR SERVICE",
+        "paragraphes": [
+          "Le contact se fait par téléphone au 02 31 43 13 13, ou directement sur place aux horaires d'ouverture."
+        ]
+      },
+      {
+        "id": "avis",
+        "titre": "La réputation de Garage Moal Auto EUROREPAR CAR SERVICE",
+        "paragraphes": [
+          "Note de 4,3 sur 5 pour 207 avis Google au relevé du 5 novembre 2026. Les avis les plus parlants sont compilés ci-dessous, avec un lien vers la fiche d'origine."
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "q": "Quels sont les horaires de Garage Moal Auto EUROREPAR CAR SERVICE ?",
+        "r": "Au relevé du 5 novembre 2026, Garage Moal Auto EUROREPAR CAR SERVICE était fermé le samedi et le dimanche. Dans le détail — lundi : de 7 h 30 à 12 h et de 14 h à 18 h ; mardi : de 7 h 30 à 12 h et de 14 h à 18 h ; mercredi : de 7 h 30 à 12 h et de 14 h à 18 h ; jeudi : de 7 h 30 à 12 h et de 14 h à 18 h ; vendredi : de 7 h 30 à 12 h et de 14 h à 18 h ; samedi : fermé ; dimanche : fermé. Ces horaires peuvent changer : un appel préalable reste conseillé."
+      },
+      {
+        "q": "Garage Moal Auto EUROREPAR CAR SERVICE est-il ouvert le dimanche ?",
+        "r": "Non : d'après les horaires relevés le 5 novembre 2026, Garage Moal Auto EUROREPAR CAR SERVICE est fermé le dimanche."
+      },
+      {
+        "q": "Où se trouve Garage Moal Auto EUROREPAR CAR SERVICE ?",
+        "r": "Garage Moal Auto EUROREPAR CAR SERVICE se trouve 12 Rue de l'Intendance, 14930 Éterville. Un lien d'itinéraire est disponible sur cette page."
+      },
+      {
+        "q": "Comment contacter Garage Moal Auto EUROREPAR CAR SERVICE ?",
+        "r": "Par téléphone au 02 31 43 13 13, ou directement sur place aux heures d'ouverture."
+      },
+      {
+        "q": "Garage Moal Auto EUROREPAR CAR SERVICE est-il accessible aux personnes à mobilité réduite ?",
+        "r": "La fiche Google de l'établissement mentionne : « Entrée accessible en fauteuil roulant ». Cette information est déclarative ; en cas de doute, vérifiez par téléphone."
+      }
+    ],
+    "genere_le": "2026-11-05"
+  },
+  "statut_google": "OPERATIONAL",
+  "audience": {
+    "clics": 0,
+    "impressions": 0,
+    "position": null,
+    "fenetreJours": 90,
+    "clicsRecents": 0,
+    "fenetreRecenteJours": 28,
+    "source": "search-console",
+    "date": "2026-11-05"
+  }
+}

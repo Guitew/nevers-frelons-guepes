@@ -31,7 +31,7 @@
     "longitude": 3.4755119
   },
   "note": 4.5,
-  "avis": 314,
+  "avis": 315,
   "horaires": [
     {
       "jour": 0,
@@ -133,8 +133,8 @@
   "backlink": {
     "etat": "present",
     "premiere_detection": "2026-10-05T19:16:50.211Z",
-    "derniere_detection": "2026-10-20T09:58:52.830Z",
-    "derniere_verification": "2026-10-20T09:58:52.830Z",
+    "derniere_detection": "2026-11-05T13:08:04.123Z",
+    "derniere_verification": "2026-11-05T13:08:04.123Z",
     "echecs": 0,
     "url_detectee": "https://andpro.fr/vitrine-locale/garages-automobile/mende/gga-48-concession-fiat-alfa-jeep-abarth/"
   },
@@ -148,7 +148,7 @@
   "dates": {
     "collecte": "2026-10-04",
     "publication": "2026-10-04",
-    "maj": "2026-10-20"
+    "maj": "2026-11-05"
   },
   "source": "google-places",
   "redaction": {
@@ -228,14 +228,14 @@
   },
   "statut_google": "OPERATIONAL",
   "audience": {
-    "clics": 119,
-    "impressions": 3127,
+    "clics": 124,
+    "impressions": 3220,
     "position": 3.3,
     "fenetreJours": 90,
-    "clicsRecents": 119,
+    "clicsRecents": 121,
     "fenetreRecenteJours": 28,
     "source": "search-console",
-    "date": "2026-11-04"
+    "date": "2026-11-05"
   },
   "avis_detail": {
     "releve": "2026-10-20",
