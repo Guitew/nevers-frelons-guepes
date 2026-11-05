@@ -3,6 +3,9 @@ title: "Que faire face à un nid de frelon asiatique ? Signalement et interventi
 chapo: "Un nid repéré ? Ne tentez rien vous-même. Voici la conduite à tenir, comment signaler le frelon asiatique et faire intervenir un professionnel en sécurité."
 rubrique: "Frelon asiatique"
 embleme: "🛟"
+cta_partenaire:
+  - "59"
+  - "62"
 date: 2026-07-24
 sources:
   - "Muséum national d'Histoire naturelle — plateforme de signalement du frelon asiatique."
