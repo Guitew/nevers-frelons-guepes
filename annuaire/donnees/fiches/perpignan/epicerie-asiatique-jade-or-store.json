@@ -1,0 +1,293 @@
+{
+  "id": "ChIJvX65IiNusBIRsT2NF1YXr0s",
+  "slug": "epicerie-asiatique-jade-or-store",
+  "nom": "Epicerie Asiatique, Jade Or Store",
+  "categorie": "commerces-alimentation",
+  "categorie_gmb": "Épicerie asiatique",
+  "type_principal": "asian_grocery_store",
+  "types": [
+    "asian_grocery_store",
+    "grocery_store",
+    "food_store",
+    "food",
+    "store",
+    "point_of_interest",
+    "establishment"
+  ],
+  "ville": "Perpignan",
+  "ville_slug": "perpignan",
+  "adresse": {
+    "rue": "2055 Avenue Julien Panchot",
+    "code_postal": "66000",
+    "departement": "66",
+    "region": "Occitanie",
+    "pays": "France",
+    "complete": "2055 Av. Julien Panchot, 66000 Perpignan"
+  },
+  "telephone": "06 58 14 73 58",
+  "geo": {
+    "latitude": 42.6837205,
+    "longitude": 2.8644583999999997
+  },
+  "note": 4.2,
+  "avis": 335,
+  "horaires": [
+    {
+      "jour": 0,
+      "ferme": true,
+      "creneaux": []
+    },
+    {
+      "jour": 1,
+      "ferme": false,
+      "creneaux": [
+        [
+          "09:30",
+          "12:00"
+        ],
+        [
+          "14:00",
+          "18:30"
+        ]
+      ]
+    },
+    {
+      "jour": 2,
+      "ferme": false,
+      "creneaux": [
+        [
+          "09:30",
+          "12:00"
+        ],
+        [
+          "14:00",
+          "18:30"
+        ]
+      ]
+    },
+    {
+      "jour": 3,
+      "ferme": false,
+      "creneaux": [
+        [
+          "09:30",
+          "12:00"
+        ],
+        [
+          "14:00",
+          "18:30"
+        ]
+      ]
+    },
+    {
+      "jour": 4,
+      "ferme": false,
+      "creneaux": [
+        [
+          "09:30",
+          "12:00"
+        ],
+        [
+          "14:00",
+          "18:30"
+        ]
+      ]
+    },
+    {
+      "jour": 5,
+      "ferme": false,
+      "creneaux": [
+        [
+          "09:30",
+          "12:00"
+        ],
+        [
+          "14:00",
+          "18:30"
+        ]
+      ]
+    },
+    {
+      "jour": 6,
+      "ferme": true,
+      "creneaux": []
+    }
+  ],
+  "attributs": [
+    "Entrée accessible en fauteuil roulant",
+    "Parking accessible en fauteuil roulant"
+  ],
+  "lien_google": "https://maps.google.com/?cid=5453603332298718641&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
+  "site_web_gmb": null,
+  "statut": "publiee",
+  "backlink": {
+    "etat": "absent",
+    "premiere_detection": null,
+    "derniere_detection": null,
+    "derniere_verification": "2026-11-06T12:53:59.257Z",
+    "echecs": 1,
+    "url_detectee": null
+  },
+  "suggestion": {
+    "etat": "en-attente",
+    "date_soumission": null,
+    "tentatives": 0,
+    "date_email": "2026-11-06"
+  },
+  "retrait": null,
+  "dates": {
+    "collecte": "2026-11-06",
+    "publication": "2026-11-06",
+    "maj": "2026-11-06"
+  },
+  "source": "google-places",
+  "avis_detail": {
+    "releve": "2026-11-06",
+    "liste": [
+      {
+        "note": 5,
+        "texte": "Nouveau local. Très bien aménagé.\nTrès bon accueil. Très bons conseils. Qualité. Y aller sans hésitation.",
+        "langue": "fr",
+        "date": "2026-10-21",
+        "auteur": "Jean-François LT",
+        "auteur_lien": "https://www.google.com/maps/contrib/113243406215805125412/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2pWeVJFZ3RZMmxhYW1reFNVTk9WRGRyVDJkVWRWRRAB!2m1!1s0x12b06e2322b97ebd:0x4baf1756178d3db1"
+      },
+      {
+        "note": 5,
+        "texte": "Magasin et equipe très agréable avec une large gamme de produits.",
+        "langue": "fr",
+        "date": "2026-10-20",
+        "auteur": "Alexandra Blais",
+        "auteur_lien": "https://www.google.com/maps/contrib/106721395380438595089/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25aRFJVZzVkRGxTYmpOdll6aDBXRGRpWkRsWGVuYxAB!2m1!1s0x12b06e2322b97ebd:0x4baf1756178d3db1"
+      },
+      {
+        "note": 4,
+        "texte": "1ere visite dans cette boutique dame à la caisse hyper gentille elle m a accompagné pour trouver les produits, patiente et très douce. J y retournerai sans hésitation.",
+        "langue": "fr",
+        "date": "2026-10-03",
+        "auteur": "ingrid lucas",
+        "auteur_lien": "https://www.google.com/maps/contrib/113188371228234150547/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25ocVVrVnVlbXhKZG1GeE1saFhkWE5OVWtOQmRWRRAB!2m1!1s0x12b06e2322b97ebd:0x4baf1756178d3db1"
+      },
+      {
+        "note": 5,
+        "texte": "Venue pour le point relais au final repartie avec un sac de courses. Prix compétitifs large choix la responsable super aimable et serviable. Je recommande !! Attention bientôt changement d'adresse 👌🏽",
+        "langue": "fr",
+        "date": "2026-08-27",
+        "auteur": "layla leïla",
+        "auteur_lien": "https://www.google.com/maps/contrib/115042576455191328195/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT21sNE1tRkNRWFZNTm1SdFNYUmhlblpHWjNKaE0zYxAB!2m1!1s0x12b06e2322b97ebd:0x4baf1756178d3db1"
+      },
+      {
+        "note": 2,
+        "texte": "Déçu : sombre, rayons assez fouillis, peu de choix et trop de linéaires vides. L’offre en produits frais est très limitée et plusieurs produits incontournables, pourtant présents ailleurs, manquent ici. Les prix sont élevés pour une épicerie asiatique.",
+        "langue": "fr",
+        "date": "2026-01-29",
+        "auteur": "SD JSO",
+        "auteur_lien": "https://www.google.com/maps/contrib/104078006540501932249/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2pFeGVISkZSRkZYVG5aNVMydGxZbEZXWkU5aExYYxAB!2m1!1s0x12b06e2322b97ebd:0x4baf1756178d3db1"
+      }
+    ]
+  },
+  "services": {
+    "releve": "2026-11-06",
+    "options": {
+      "delivery": false,
+      "restroom": false
+    },
+    "paiement": [
+      "carte bancaire",
+      "carte de débit",
+      "paiement sans contact"
+    ],
+    "parking": []
+  },
+  "redaction": {
+    "version": 2,
+    "titre": "Epicerie Asiatique, Jade Or Store — Commerce d'alimentation à Perpignan",
+    "meta_titre": "Epicerie Asiatique, Jade Or Store à Perpignan",
+    "meta_description": "Epicerie Asiatique, Jade Or Store, commerce d'alimentation à Perpignan : horaires d'ouverture, téléphone, adresse et itinéraire.",
+    "chapo": "Epicerie Asiatique, Jade Or Store est un commerce d'alimentation au 2055 Avenue Julien Panchot, à Perpignan. Fermé le lundi et le dimanche au relevé du 6 novembre 2026. Téléphone : 06 58 14 73 58. Note Google : 4,2 sur 5 pour 335 avis.",
+    "sections": [
+      {
+        "id": "presentation",
+        "titre": "Epicerie Asiatique, Jade Or Store en quelques mots",
+        "paragraphes": [
+          "Sur Google, l'établissement est classé « Épicerie asiatique », dans notre rubrique Commerce d'alimentation.",
+          "D'après le relevé du 6 novembre 2026, l'établissement est fermé le lundi et le dimanche. Le détail jour par jour figure plus bas."
+        ]
+      },
+      {
+        "id": "prestations",
+        "titre": "Services et équipements de Epicerie Asiatique, Jade Or Store",
+        "paragraphes": [
+          "Non proposé selon la fiche Google : livraison et toilettes.",
+          "Moyens de paiement déclarés : carte bancaire, carte de débit et paiement sans contact.",
+          "Ces indications sont déclarées par l'établissement sur sa fiche Google (relevé du 6 novembre 2026)."
+        ]
+      },
+      {
+        "id": "acces",
+        "titre": "Adresse et accès",
+        "paragraphes": [
+          "L'établissement est situé au 2055 Avenue Julien Panchot, 66000 Perpignan.",
+          "Coordonnées GPS : 42.68372, 2.86446. Le bouton Itinéraire de cette page ouvre la navigation."
+        ]
+      },
+      {
+        "id": "contact",
+        "titre": "Contacter Epicerie Asiatique, Jade Or Store",
+        "paragraphes": [
+          "Le contact se fait par téléphone au 06 58 14 73 58, ou directement sur place aux horaires d'ouverture."
+        ]
+      },
+      {
+        "id": "avis",
+        "titre": "La réputation de Epicerie Asiatique, Jade Or Store",
+        "paragraphes": [
+          "Note de 4,2 sur 5 pour 335 avis Google au relevé du 6 novembre 2026. Les avis les plus parlants sont compilés ci-dessous, avec un lien vers la fiche d'origine."
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "q": "Quels sont les horaires de Epicerie Asiatique, Jade Or Store ?",
+        "r": "Au relevé du 6 novembre 2026, Epicerie Asiatique, Jade Or Store était fermé le lundi et le dimanche. Dans le détail — lundi : fermé ; mardi : de 9 h 30 à 12 h et de 14 h à 18 h 30 ; mercredi : de 9 h 30 à 12 h et de 14 h à 18 h 30 ; jeudi : de 9 h 30 à 12 h et de 14 h à 18 h 30 ; vendredi : de 9 h 30 à 12 h et de 14 h à 18 h 30 ; samedi : de 9 h 30 à 12 h et de 14 h à 18 h 30 ; dimanche : fermé. Ces horaires peuvent changer : un appel préalable reste conseillé."
+      },
+      {
+        "q": "Epicerie Asiatique, Jade Or Store est-il ouvert le dimanche ?",
+        "r": "Non : d'après les horaires relevés le 6 novembre 2026, Epicerie Asiatique, Jade Or Store est fermé le dimanche."
+      },
+      {
+        "q": "Où se trouve Epicerie Asiatique, Jade Or Store ?",
+        "r": "Epicerie Asiatique, Jade Or Store se trouve 2055 Av. Julien Panchot, 66000 Perpignan. Un lien d'itinéraire est disponible sur cette page."
+      },
+      {
+        "q": "Comment contacter Epicerie Asiatique, Jade Or Store ?",
+        "r": "Par téléphone au 06 58 14 73 58, ou directement sur place aux heures d'ouverture."
+      },
+      {
+        "q": "Epicerie Asiatique, Jade Or Store propose-t-il la vente à emporter ou la livraison ?",
+        "r": "D'après sa fiche Google (relevé du 6 novembre 2026) — livraison : non."
+      },
+      {
+        "q": "Epicerie Asiatique, Jade Or Store est-il accessible aux personnes à mobilité réduite ?",
+        "r": "La fiche Google de l'établissement mentionne : « Entrée accessible en fauteuil roulant ». Cette information est déclarative ; en cas de doute, vérifiez par téléphone."
+      }
+    ],
+    "genere_le": "2026-11-06"
+  },
+  "statut_google": "OPERATIONAL",
+  "audience": {
+    "clics": 0,
+    "impressions": 0,
+    "position": null,
+    "fenetreJours": 90,
+    "clicsRecents": 0,
+    "fenetreRecenteJours": 28,
+    "source": "search-console",
+    "date": "2026-11-06"
+  }
+}

@@ -1,0 +1,285 @@
+{
+  "id": "ChIJS7NNluAp_UcRXt69Ynhm2io",
+  "slug": "garage-auto-jocondien",
+  "nom": "Garage Auto Jocondien",
+  "categorie": "garages-automobile",
+  "categorie_gmb": "Garage automobile",
+  "type_principal": "car_repair",
+  "types": [
+    "car_repair",
+    "point_of_interest",
+    "service",
+    "establishment"
+  ],
+  "ville": "Joué-lès-Tours",
+  "ville_slug": "joue-les-tours",
+  "adresse": {
+    "rue": "14 Bis Rue Gutenberg",
+    "code_postal": "37300",
+    "departement": "37",
+    "region": "Centre-Val de Loire",
+    "pays": "France",
+    "complete": "14 Bis Rue Gutenberg, 37300 Joué-lès-Tours"
+  },
+  "telephone": "09 86 21 93 36",
+  "geo": {
+    "latitude": 47.3518331,
+    "longitude": 0.6516811
+  },
+  "note": 4.7,
+  "avis": 108,
+  "horaires": [
+    {
+      "jour": 0,
+      "ferme": false,
+      "creneaux": [
+        [
+          "08:30",
+          "12:00"
+        ],
+        [
+          "14:00",
+          "19:00"
+        ]
+      ]
+    },
+    {
+      "jour": 1,
+      "ferme": false,
+      "creneaux": [
+        [
+          "08:30",
+          "12:00"
+        ],
+        [
+          "14:00",
+          "19:00"
+        ]
+      ]
+    },
+    {
+      "jour": 2,
+      "ferme": false,
+      "creneaux": [
+        [
+          "08:30",
+          "12:00"
+        ],
+        [
+          "14:00",
+          "19:00"
+        ]
+      ]
+    },
+    {
+      "jour": 3,
+      "ferme": false,
+      "creneaux": [
+        [
+          "08:30",
+          "12:00"
+        ],
+        [
+          "14:00",
+          "19:00"
+        ]
+      ]
+    },
+    {
+      "jour": 4,
+      "ferme": false,
+      "creneaux": [
+        [
+          "08:30",
+          "12:00"
+        ],
+        [
+          "14:00",
+          "19:00"
+        ]
+      ]
+    },
+    {
+      "jour": 5,
+      "ferme": true,
+      "creneaux": []
+    },
+    {
+      "jour": 6,
+      "ferme": true,
+      "creneaux": []
+    }
+  ],
+  "attributs": [
+    "Entrée accessible en fauteuil roulant",
+    "Parking accessible en fauteuil roulant"
+  ],
+  "lien_google": "https://maps.google.com/?cid=3087893161754615390&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
+  "site_web_gmb": null,
+  "statut": "publiee",
+  "backlink": {
+    "etat": "absent",
+    "premiere_detection": null,
+    "derniere_detection": null,
+    "derniere_verification": "2026-11-06T12:53:59.257Z",
+    "echecs": 1,
+    "url_detectee": null
+  },
+  "suggestion": {
+    "etat": "en-attente",
+    "date_soumission": null,
+    "tentatives": 0,
+    "date_email": "2026-11-06"
+  },
+  "retrait": null,
+  "dates": {
+    "collecte": "2026-11-06",
+    "publication": "2026-11-06",
+    "maj": "2026-11-06"
+  },
+  "source": "google-places",
+  "avis_detail": {
+    "releve": "2026-11-06",
+    "liste": [
+      {
+        "note": 5,
+        "texte": "Excellent garagiste, de très bon conseil et reactif. Pris raisonnables\nDe bons echanges",
+        "langue": "fr",
+        "date": "2026-10-13",
+        "auteur": "boileau marc",
+        "auteur_lien": "https://www.google.com/maps/contrib/112588370327688420300/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xKdGRXZEJhM0ZSYkVOSGFsWjZWRmRQZW1GMVVGRRAB!2m1!1s0x47fd29e0964db34b:0x2ada667862bdde5e"
+      },
+      {
+        "note": 5,
+        "texte": "Je recommande vivement le garage de Nicolas, étant une femme, on a toujours peur de se faire arnaquer, mais là pas du tout.\nPersonnel compétant, tarifs corrects, on se sent bien plus écouté que dans les chaînes de garage où l'on nous prends juste pour des cartes bancaires.\nMerci pour votre professionnalisme\nValérie",
+        "langue": "fr",
+        "date": "2026-10-09",
+        "auteur": "Valou Matthieu",
+        "auteur_lien": "https://www.google.com/maps/contrib/110541463789364911430/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2pObVIzVjBWVmMwUTFJek4xVkpZMmM1YlhNemNXYxAB!2m1!1s0x47fd29e0964db34b:0x2ada667862bdde5e"
+      },
+      {
+        "note": 5,
+        "texte": "Bonjour à toute l'équipe,\nUn immense merci à Nicolas et à toute son équipe pour avoir réparé le roulement de notre voiture, sans rendez-vous !\nGrâce à votre réactivité et à votre professionnalisme, nous avons pu rendre visite à nos parents âgés à Castelginest, ce qui comptait énormément pour nous.\nVotre sens du service, la qualité de votre travail et votre sérieux font toute la différence. Vous avez gagné un client fidèle, qui parlera de votre garage autour de lui avec grand plaisir.\nGardez le cap les gars : service client, qualité et professionnalisme. C'est exactement ce qui donne envie de revenir. Vous faites le job et ça prouve qu'il existe encore des garages de haut niveau.\nEncore un grand merci à toute l'équipe ! Merci beaucoup les gars !\nUn clin d'œil à mon pote Patrick client chez vous, qui nous a mis en relation avec vous.\n\nPour les autres clients, gaff sur les prestation de Midas qui monte les roulements désaxés, service client appelé.",
+        "langue": "fr",
+        "date": "2026-07-11",
+        "auteur": "luc llado",
+        "auteur_lien": "https://www.google.com/maps/contrib/111126291937638645549/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xrelNqaDRkM1ZRY0VaeU1HdGFkbVpxY0cxemQwRRAB!2m1!1s0x47fd29e0964db34b:0x2ada667862bdde5e"
+      },
+      {
+        "note": 5,
+        "texte": "Je ne peux que recommander ce garage. Cédric et Dylan sont d'une écoute incroyable, leur gentillesse et leur sympathie permettent d'être directement dans une ambiance conviviale. Ils ont directement les solutions à vos problèmes et essaient de trouver le meilleur délai pour prendre en charge votre véhicule.\nUn grand merci, je reviens c'est sur.",
+        "langue": "fr",
+        "date": "2026-07-10",
+        "auteur": "Marion Lanceleur",
+        "auteur_lien": "https://www.google.com/maps/contrib/100184101291881469938/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2tWaGVrMXNURXd3ZDNKRk5IWlhiVEZTWkhvMFZuYxAB!2m1!1s0x47fd29e0964db34b:0x2ada667862bdde5e"
+      },
+      {
+        "note": 5,
+        "texte": "Un garage où aller en totale confiance: serieux, efficace, rapide, et les prix sont calculés au plus juste. Le patron est passionné par son metier: son bonheur de rendre les clefs d'une voiture réparée ou bien entretenue est visible.Ici, chaque révision éloigne les pannes, ou les anticipe :dans ce cas,nous repartons avec une idée précise des travaux à prévoir, du délai dans lequel le faire, ainsi qu'une estimation du coût. Sauf urgence, la prise en charge est parfois un peu différée car ce garage est victime de son succès , mais le patron fait tout son possible.Le mieux est de planifier ses entretiens à l'avance. Je suis cliente depuis plus de 15 ans, et jamais déçue.",
+        "langue": "fr",
+        "date": "2026-04-18",
+        "auteur": "annelise garnier",
+        "auteur_lien": "https://www.google.com/maps/contrib/115250459591815528660/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT21Od2NIaGlZVTFWVVc0d2JWbzVNVXhYVTBoM1dWRRAB!2m1!1s0x47fd29e0964db34b:0x2ada667862bdde5e"
+      }
+    ]
+  },
+  "services": {
+    "releve": "2026-11-06",
+    "options": {
+      "restroom": true
+    },
+    "paiement": [
+      "carte bancaire",
+      "carte de débit",
+      "paiement sans contact"
+    ],
+    "parking": []
+  },
+  "redaction": {
+    "version": 2,
+    "titre": "Garage Auto Jocondien — Garage et automobile à Joué-lès-Tours",
+    "meta_titre": "Garage Auto Jocondien à Joué-lès-Tours : horaires, avis",
+    "meta_description": "Garage Auto Jocondien, garage et automobile à Joué-lès-Tours : horaires d'ouverture, note Google 4,7/5 (108 avis), téléphone, adresse et itinéraire.",
+    "chapo": "Garage Auto Jocondien, garage et automobile au 14 Bis Rue Gutenberg, à Joué-lès-Tours. Fermé le samedi et le dimanche au relevé du 6 novembre 2026. Téléphone : 09 86 21 93 36. Note Google : 4,7 sur 5 pour 108 avis.",
+    "sections": [
+      {
+        "id": "presentation",
+        "titre": "Garage Auto Jocondien en quelques mots",
+        "paragraphes": [
+          "Sur Google, l'établissement est classé « Garage automobile », dans notre rubrique Garage et automobile.",
+          "D'après le relevé du 6 novembre 2026, l'établissement est fermé le samedi et le dimanche. Le détail jour par jour figure plus bas."
+        ]
+      },
+      {
+        "id": "prestations",
+        "titre": "Services et équipements de Garage Auto Jocondien",
+        "paragraphes": [
+          "Proposé : toilettes.",
+          "Moyens de paiement déclarés : carte bancaire, carte de débit et paiement sans contact.",
+          "Ces indications sont déclarées par l'établissement sur sa fiche Google (relevé du 6 novembre 2026)."
+        ]
+      },
+      {
+        "id": "acces",
+        "titre": "Adresse et accès",
+        "paragraphes": [
+          "L'établissement est situé au 14 Bis Rue Gutenberg, 37300 Joué-lès-Tours.",
+          "Coordonnées GPS : 47.35183, 0.65168. Le bouton Itinéraire de cette page ouvre la navigation."
+        ]
+      },
+      {
+        "id": "contact",
+        "titre": "Contacter Garage Auto Jocondien",
+        "paragraphes": [
+          "Le contact se fait par téléphone au 09 86 21 93 36, ou directement sur place aux horaires d'ouverture."
+        ]
+      },
+      {
+        "id": "avis",
+        "titre": "La réputation de Garage Auto Jocondien",
+        "paragraphes": [
+          "Note de 4,7 sur 5 pour 108 avis Google au relevé du 6 novembre 2026. Les avis les plus parlants sont compilés ci-dessous, avec un lien vers la fiche d'origine."
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "q": "Quels sont les horaires de Garage Auto Jocondien ?",
+        "r": "Au relevé du 6 novembre 2026, Garage Auto Jocondien était fermé le samedi et le dimanche. Dans le détail — lundi : de 8 h 30 à 12 h et de 14 h à 19 h ; mardi : de 8 h 30 à 12 h et de 14 h à 19 h ; mercredi : de 8 h 30 à 12 h et de 14 h à 19 h ; jeudi : de 8 h 30 à 12 h et de 14 h à 19 h ; vendredi : de 8 h 30 à 12 h et de 14 h à 19 h ; samedi : fermé ; dimanche : fermé. Ces horaires peuvent changer : un appel préalable reste conseillé."
+      },
+      {
+        "q": "Garage Auto Jocondien est-il ouvert le dimanche ?",
+        "r": "Non : d'après les horaires relevés le 6 novembre 2026, Garage Auto Jocondien est fermé le dimanche."
+      },
+      {
+        "q": "Où se trouve Garage Auto Jocondien ?",
+        "r": "Garage Auto Jocondien se trouve 14 Bis Rue Gutenberg, 37300 Joué-lès-Tours. Un lien d'itinéraire est disponible sur cette page."
+      },
+      {
+        "q": "Comment contacter Garage Auto Jocondien ?",
+        "r": "Par téléphone au 09 86 21 93 36, ou directement sur place aux heures d'ouverture."
+      },
+      {
+        "q": "Garage Auto Jocondien est-il accessible aux personnes à mobilité réduite ?",
+        "r": "La fiche Google de l'établissement mentionne : « Entrée accessible en fauteuil roulant ». Cette information est déclarative ; en cas de doute, vérifiez par téléphone."
+      }
+    ],
+    "genere_le": "2026-11-06"
+  },
+  "statut_google": "OPERATIONAL",
+  "audience": {
+    "clics": 0,
+    "impressions": 0,
+    "position": null,
+    "fenetreJours": 90,
+    "clicsRecents": 0,
+    "fenetreRecenteJours": 28,
+    "source": "search-console",
+    "date": "2026-11-06"
+  }
+}

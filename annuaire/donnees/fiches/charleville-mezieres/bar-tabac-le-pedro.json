@@ -228,7 +228,7 @@
     "clicsRecents": 0,
     "fenetreRecenteJours": 28,
     "source": "search-console",
-    "date": "2026-11-05"
+    "date": "2026-11-06"
   },
   "avis_detail": {
     "releve": "2026-10-25",
@@ -307,12 +307,12 @@
     ]
   },
   "indexation": {
-    "etat": "non-indexee",
-    "verdict": "NEUTRAL",
-    "couverture": "Détectée, actuellement non indexée",
-    "derniere_exploration": null,
-    "canonique_google": null,
+    "etat": "indexee",
+    "verdict": "PASS",
+    "couverture": "Envoyée et indexée",
+    "derniere_exploration": "2026-11-06T01:41:34Z",
+    "canonique_google": "https://andpro.fr/vitrine-locale/cafes-bars/charleville-mezieres/bar-tabac-le-pedro/",
     "source": "inspection",
-    "date": "2026-11-05"
+    "date": "2026-11-06"
   }
 }

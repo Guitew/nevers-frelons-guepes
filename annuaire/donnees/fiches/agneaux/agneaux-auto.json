@@ -1,0 +1,289 @@
+{
+  "id": "ChIJ0WzVKiOVC0gROnv68OE7r9M",
+  "slug": "agneaux-auto",
+  "nom": "Agneaux Auto",
+  "categorie": "garages-automobile",
+  "categorie_gmb": "Concessionnaire automobile",
+  "type_principal": "car_dealer",
+  "types": [
+    "car_dealer",
+    "store",
+    "point_of_interest",
+    "establishment"
+  ],
+  "ville": "Agneaux",
+  "ville_slug": "agneaux",
+  "adresse": {
+    "rue": "1474 Route de Coutances",
+    "code_postal": "50180",
+    "departement": "50",
+    "region": "Normandie",
+    "pays": "France",
+    "complete": "1474 Rte de Coutances, 50180 Agneaux"
+  },
+  "telephone": "07 67 51 94 02",
+  "geo": {
+    "latitude": 49.1118392,
+    "longitude": -1.1280316
+  },
+  "note": 3.9,
+  "avis": 64,
+  "horaires": [
+    {
+      "jour": 0,
+      "ferme": false,
+      "creneaux": [
+        [
+          "09:30",
+          "12:00"
+        ],
+        [
+          "14:00",
+          "18:00"
+        ]
+      ]
+    },
+    {
+      "jour": 1,
+      "ferme": false,
+      "creneaux": [
+        [
+          "09:30",
+          "12:00"
+        ],
+        [
+          "14:00",
+          "18:00"
+        ]
+      ]
+    },
+    {
+      "jour": 2,
+      "ferme": false,
+      "creneaux": [
+        [
+          "09:30",
+          "12:00"
+        ],
+        [
+          "14:00",
+          "18:00"
+        ]
+      ]
+    },
+    {
+      "jour": 3,
+      "ferme": false,
+      "creneaux": [
+        [
+          "09:30",
+          "12:00"
+        ],
+        [
+          "14:00",
+          "18:00"
+        ]
+      ]
+    },
+    {
+      "jour": 4,
+      "ferme": false,
+      "creneaux": [
+        [
+          "09:30",
+          "12:00"
+        ],
+        [
+          "14:00",
+          "18:00"
+        ]
+      ]
+    },
+    {
+      "jour": 5,
+      "ferme": false,
+      "creneaux": [
+        [
+          "09:30",
+          "12:00"
+        ],
+        [
+          "14:00",
+          "17:00"
+        ]
+      ]
+    },
+    {
+      "jour": 6,
+      "ferme": true,
+      "creneaux": []
+    }
+  ],
+  "attributs": [
+    "Entrée accessible en fauteuil roulant",
+    "Parking accessible en fauteuil roulant"
+  ],
+  "lien_google": "https://maps.google.com/?cid=15253476304523787066&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
+  "site_web_gmb": null,
+  "statut": "publiee",
+  "backlink": {
+    "etat": "absent",
+    "premiere_detection": null,
+    "derniere_detection": null,
+    "derniere_verification": "2026-11-06T12:53:59.257Z",
+    "echecs": 1,
+    "url_detectee": null
+  },
+  "suggestion": {
+    "etat": "en-attente",
+    "date_soumission": null,
+    "tentatives": 0,
+    "date_email": "2026-11-06"
+  },
+  "retrait": null,
+  "dates": {
+    "collecte": "2026-11-06",
+    "publication": "2026-11-06",
+    "maj": "2026-11-06"
+  },
+  "source": "google-places",
+  "avis_detail": {
+    "releve": "2026-11-06",
+    "liste": [
+      {
+        "note": 5,
+        "texte": "J’ai acheté une Audi A5 2.0 TFSI 211ch au mois d’avril 2025. Et franchement rien à dire. La personne fait de son mieux pour se rendre disponible et répondre rapidement aux clients, il est très courtois et discute sympathiquement. Il est  honnête, il m’a montré tout les travaux qui ont été fait sur la voiture. Jusqu’à aujourd’hui je n’ai eu aucun problème avec la voiture, elle roule nickel 👌🏻\nMerci à lui.",
+        "langue": "fr",
+        "date": "2025-08-01",
+        "auteur": "Gãnesh",
+        "auteur_lien": "https://www.google.com/maps/contrib/107259739898064512936/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2padFlVY3hPRWxvYkRKb2FIZEZNRUkzVXpGa2MxRRAB!2m1!1s0x480b95232ad56cd1:0xd3af3be1f0fa7b3a"
+      },
+      {
+        "note": 5,
+        "texte": "J'ai acheté ma 2008 dans ce garage, vendeur très gentil. Les réparations qui n'étaient pas faites avant la vente on étaient faites comme promis après. Très arrangeant et joignable tous le temps dès que j'avais besoin. Je recommande",
+        "langue": "fr",
+        "date": "2025-04-26",
+        "auteur": "Julie Foubert",
+        "auteur_lien": "https://www.google.com/maps/contrib/114969954499455828915/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnTURvcWJuVWFREAE!2m1!1s0x480b95232ad56cd1:0xd3af3be1f0fa7b3a"
+      },
+      {
+        "note": 5,
+        "texte": "Nous sommes passé le week end dernier car mon grand père avait des voyants sur son tableau de bord. Nous avons été reçu très gentiment par un monsieur qui a pris le temps de regarder avec la valise et rassurer mon grand père. Merci à vous, vous avez sauvé notre périple vers Cherbourg!\nLes trois générations (mon grand père, ma maman et moi-même) vous remercions encore pour votre gentillesse!",
+        "langue": "fr",
+        "date": "2025-04-14",
+        "auteur": "Léa Ulmschneider",
+        "auteur_lien": "https://www.google.com/maps/contrib/104422792591837669608/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnTUNvNEozdmJREAE!2m1!1s0x480b95232ad56cd1:0xd3af3be1f0fa7b3a"
+      },
+      {
+        "note": 5,
+        "texte": "Voilà 1 semaine que je viens de récupéré mon véhicule après une panne importante .encore un grand merci et bravo pour votre sérieux et votre professionnalisme. Réparation pris en garantie presque 1 an après  rien à redire continuer comme ça  aujourd'hui ça ce fait rare .merci pour votre accueil et votre gentillesse .c est sur je reviendrais vous voir pour l achat d un autre véhicule. Bien cordialement.",
+        "langue": "fr",
+        "date": "2024-12-05",
+        "auteur": "Herve Morel",
+        "auteur_lien": "https://www.google.com/maps/contrib/108129767158110529658/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSURGZzlqQ3RnRRAB!2m1!1s0x480b95232ad56cd1:0xd3af3be1f0fa7b3a"
+      },
+      {
+        "note": 5,
+        "texte": "Achat d'une golf 7, le vendeur est très professionnel et à l'écoute, prix plutot abordable des véhicules.\n\nJe recommande ! :)",
+        "langue": "fr",
+        "date": "2022-04-04",
+        "auteur": "Vincent Nouvian",
+        "auteur_lien": "https://www.google.com/maps/contrib/118295861663528681744/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSURXeTVIdm93RRAB!2m1!1s0x480b95232ad56cd1:0xd3af3be1f0fa7b3a"
+      }
+    ]
+  },
+  "services": {
+    "releve": "2026-11-06",
+    "options": {},
+    "paiement": [
+      "carte bancaire"
+    ],
+    "parking": []
+  },
+  "redaction": {
+    "version": 2,
+    "titre": "Agneaux Auto — Garage et automobile à Agneaux",
+    "meta_titre": "Agneaux Auto à Agneaux : horaires, avis, téléphone",
+    "meta_description": "Agneaux Auto, garage et automobile à Agneaux : horaires d'ouverture, note Google 3,9/5 (64 avis), téléphone, adresse et itinéraire.",
+    "chapo": "Agneaux Auto, garage et automobile au 1474 Route de Coutances, à Agneaux. Ouvert tous les jours sauf le dimanche au relevé du 6 novembre 2026. Téléphone : 07 67 51 94 02. Note Google : 3,9 sur 5 pour 64 avis.",
+    "sections": [
+      {
+        "id": "presentation",
+        "titre": "Agneaux Auto en quelques mots",
+        "paragraphes": [
+          "Sur Google, l'établissement est classé « Concessionnaire automobile », dans notre rubrique Garage et automobile.",
+          "D'après le relevé du 6 novembre 2026, l'établissement est ouvert tous les jours sauf le dimanche. Le détail jour par jour figure plus bas."
+        ]
+      },
+      {
+        "id": "prestations",
+        "titre": "Services et équipements de Agneaux Auto",
+        "paragraphes": [
+          "Moyens de paiement déclarés : carte bancaire.",
+          "Ces indications sont déclarées par l'établissement sur sa fiche Google (relevé du 6 novembre 2026)."
+        ]
+      },
+      {
+        "id": "acces",
+        "titre": "Adresse et accès",
+        "paragraphes": [
+          "L'établissement est situé au 1474 Route de Coutances, 50180 Agneaux.",
+          "Coordonnées GPS : 49.11184, -1.12803. Le bouton Itinéraire de cette page ouvre la navigation."
+        ]
+      },
+      {
+        "id": "contact",
+        "titre": "Contacter Agneaux Auto",
+        "paragraphes": [
+          "Le contact se fait par téléphone au 07 67 51 94 02, ou directement sur place aux horaires d'ouverture."
+        ]
+      },
+      {
+        "id": "avis",
+        "titre": "La réputation de Agneaux Auto",
+        "paragraphes": [
+          "Note de 3,9 sur 5 pour 64 avis Google au relevé du 6 novembre 2026. Les avis les plus parlants sont compilés ci-dessous, avec un lien vers la fiche d'origine."
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "q": "Quels sont les horaires de Agneaux Auto ?",
+        "r": "Au relevé du 6 novembre 2026, Agneaux Auto était ouvert tous les jours sauf le dimanche. Dans le détail — lundi : de 9 h 30 à 12 h et de 14 h à 18 h ; mardi : de 9 h 30 à 12 h et de 14 h à 18 h ; mercredi : de 9 h 30 à 12 h et de 14 h à 18 h ; jeudi : de 9 h 30 à 12 h et de 14 h à 18 h ; vendredi : de 9 h 30 à 12 h et de 14 h à 18 h ; samedi : de 9 h 30 à 12 h et de 14 h à 17 h ; dimanche : fermé. Ces horaires peuvent changer : un appel préalable reste conseillé."
+      },
+      {
+        "q": "Agneaux Auto est-il ouvert le dimanche ?",
+        "r": "Non : d'après les horaires relevés le 6 novembre 2026, Agneaux Auto est fermé le dimanche."
+      },
+      {
+        "q": "Où se trouve Agneaux Auto ?",
+        "r": "Agneaux Auto se trouve 1474 Rte de Coutances, 50180 Agneaux. Un lien d'itinéraire est disponible sur cette page."
+      },
+      {
+        "q": "Comment contacter Agneaux Auto ?",
+        "r": "Par téléphone au 07 67 51 94 02, ou directement sur place aux heures d'ouverture."
+      },
+      {
+        "q": "Agneaux Auto est-il accessible aux personnes à mobilité réduite ?",
+        "r": "La fiche Google de l'établissement mentionne : « Entrée accessible en fauteuil roulant ». Cette information est déclarative ; en cas de doute, vérifiez par téléphone."
+      }
+    ],
+    "genere_le": "2026-11-06"
+  },
+  "statut_google": "OPERATIONAL",
+  "audience": {
+    "clics": 0,
+    "impressions": 0,
+    "position": null,
+    "fenetreJours": 90,
+    "clicsRecents": 0,
+    "fenetreRecenteJours": 28,
+    "source": "search-console",
+    "date": "2026-11-06"
+  }
+}
