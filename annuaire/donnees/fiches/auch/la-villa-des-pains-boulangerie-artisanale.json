@@ -1,0 +1,300 @@
+{
+  "id": "ChIJHcW-YUydqRIR06UmMXBPwO8",
+  "slug": "la-villa-des-pains-boulangerie-artisanale",
+  "nom": "La Villa des Pains - Boulangerie Artisanale",
+  "categorie": "boulangeries-patisseries",
+  "categorie_gmb": "Boulangerie",
+  "type_principal": "bakery",
+  "types": [
+    "bakery",
+    "sandwich_shop",
+    "fast_food_restaurant",
+    "pastry_shop",
+    "dessert_shop",
+    "confectionery",
+    "food_store",
+    "restaurant",
+    "food",
+    "point_of_interest",
+    "store",
+    "establishment"
+  ],
+  "ville": "Auch",
+  "ville_slug": "auch",
+  "adresse": {
+    "rue": "3 Rue Jeanne d'Albret",
+    "code_postal": "32000",
+    "departement": "32",
+    "region": "Occitanie",
+    "pays": "France",
+    "complete": "3 Rue Jeanne d'Albret, 32000 Auch"
+  },
+  "telephone": "05 62 63 17 75",
+  "geo": {
+    "latitude": 43.6335518,
+    "longitude": 0.5887309
+  },
+  "note": 4.2,
+  "avis": 204,
+  "horaires": [
+    {
+      "jour": 0,
+      "ferme": false,
+      "creneaux": [
+        [
+          "06:30",
+          "19:30"
+        ]
+      ]
+    },
+    {
+      "jour": 1,
+      "ferme": false,
+      "creneaux": [
+        [
+          "06:30",
+          "19:30"
+        ]
+      ]
+    },
+    {
+      "jour": 2,
+      "ferme": false,
+      "creneaux": [
+        [
+          "06:30",
+          "19:30"
+        ]
+      ]
+    },
+    {
+      "jour": 3,
+      "ferme": false,
+      "creneaux": [
+        [
+          "06:30",
+          "19:30"
+        ]
+      ]
+    },
+    {
+      "jour": 4,
+      "ferme": false,
+      "creneaux": [
+        [
+          "06:30",
+          "19:30"
+        ]
+      ]
+    },
+    {
+      "jour": 5,
+      "ferme": false,
+      "creneaux": [
+        [
+          "07:30",
+          "12:30"
+        ]
+      ]
+    },
+    {
+      "jour": 6,
+      "ferme": true,
+      "creneaux": []
+    }
+  ],
+  "attributs": [
+    "Entrée accessible en fauteuil roulant",
+    "Parking accessible en fauteuil roulant",
+    "Toilettes accessibles en fauteuil roulant",
+    "Places assises accessibles en fauteuil roulant"
+  ],
+  "lien_google": "https://maps.google.com/?cid=17275895513872770515&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
+  "site_web_gmb": null,
+  "statut": "publiee",
+  "backlink": {
+    "etat": "absent",
+    "premiere_detection": null,
+    "derniere_detection": null,
+    "derniere_verification": "2026-11-07T11:41:17.663Z",
+    "echecs": 1,
+    "url_detectee": null
+  },
+  "suggestion": {
+    "etat": "en-attente",
+    "date_soumission": null,
+    "tentatives": 0,
+    "date_email": "2026-11-07"
+  },
+  "retrait": null,
+  "dates": {
+    "collecte": "2026-11-07",
+    "publication": "2026-11-07",
+    "maj": "2026-11-07"
+  },
+  "source": "google-places",
+  "avis_detail": {
+    "releve": "2026-11-07",
+    "liste": [
+      {
+        "note": 5,
+        "texte": "Sincèrement pour ma part et étant auscitain depuis 44ans une de mes belles surprises et meilleure boulangerie niveau qualité des pains ,que j'ai pu goûter, et même niveau service quand a un moment tu n'as plus à dire que tu aimes te baguette bien cuite et que la personne qui te sert a tout compris a sa clientèle,c'est bravo entre la production et la vente . J'ai testé pas mal de vos pains ,et le bûcheron j'ai découvert...... J'adore. Merci à vous très très bonne boulangerie",
+        "langue": "fr",
+        "date": "2026-10-22",
+        "auteur": "Mathieu Baque",
+        "auteur_lien": "https://www.google.com/maps/contrib/107622641847196777413/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2twR1VsVnpUVWhPZDBObVNVZ3RPVUpKU21KUFNHYxAB!2m1!1s0x12a99d4c61bec51d:0xefc04f703126a5d3"
+      },
+      {
+        "note": 2,
+        "texte": "La dame qui s’occuper de nous était aigrie, ne donnait pas envie de manger ici, le panini était fait avec une brioche bizarre et quand on l’a mangé c’était sec et il y avait pas beaucoup de chocolat à l’intérieur je vous déconseille car ce n’est pas très bon et l’ambiance est pas top",
+        "langue": "fr",
+        "date": "2026-10-16",
+        "auteur": "Alycia Carmaran",
+        "auteur_lien": "https://www.google.com/maps/contrib/115273374474097382365/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT204NGFIZG5hbkkzVG1SYVZWbGpVMU5PU21wSlpYYxAB!2m1!1s0x12a99d4c61bec51d:0xefc04f703126a5d3"
+      },
+      {
+        "note": 5,
+        "texte": "Très bonne boulangerie. L'équipe est très sympathique. L'accueil est chaleureux. Les produits proposés sont très bon.",
+        "langue": "fr",
+        "date": "2026-08-27",
+        "auteur": "Élo NL",
+        "auteur_lien": "https://www.google.com/maps/contrib/100514281388112351545/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2poVFlUUjVPRmt3VW05cFpEVmFSSGw0WjNSRGRHYxAB!2m1!1s0x12a99d4c61bec51d:0xefc04f703126a5d3"
+      },
+      {
+        "note": 1,
+        "texte": "Il y a plusieurs années, cette boulangerie n’avait rien à voir avec ce qu’elle est devenue aujourd’hui. L’accueil était chaleureux, les vendeuses étaient souriantes et l’on venait avec plaisir.\n\nMalheureusement, à plusieurs reprises, j’ai été accueillie par une vendeuse que j’ai trouvée très hautaine. Aucun sourire, très peu de regard envers les clients, et l’on a l’impression de devoir se dépêcher, qu’il y ait du monde ou non. Ce manque de considération gâche vraiment l’expérience.\n\nC’est bien dommage, car les produits restent de qualité, mais l’accueil est tout aussi important et donne envie, ou non, de revenir.",
+        "langue": "fr",
+        "date": "2026-07-03",
+        "auteur": "Imane Imane32",
+        "auteur_lien": "https://www.google.com/maps/contrib/116282290359733698223/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xKblJIZ3hTMDF0ZFRsQmFUTlJaRTVvTFMweE1tYxAB!2m1!1s0x12a99d4c61bec51d:0xefc04f703126a5d3"
+      },
+      {
+        "note": 1,
+        "texte": "L’accueil reste à Désirezje suis allé plusieurs fois en me disant que aujourd’hui c’était pas leur jour mais à chaque fois c’est la même chose elles sont très aigri pas du tout souriante très désagréable. Limite donne l’impression qu’on Mandies alors que on va juste acheter ce dont, on a besoin. Si le métier ne convient plus il faut changer de métier.",
+        "langue": "fr",
+        "date": "2026-03-11",
+        "auteur": "Dounia Zerguit",
+        "auteur_lien": "https://www.google.com/maps/contrib/109587161990016582124/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2tVMVJ6ZzVjWEU0U0V0QmRtNHhZMkpoYVhoSldtYxAB!2m1!1s0x12a99d4c61bec51d:0xefc04f703126a5d3"
+      }
+    ]
+  },
+  "services": {
+    "releve": "2026-11-07",
+    "prix": "PRICE_LEVEL_INEXPENSIVE",
+    "options": {
+      "takeout": true,
+      "delivery": false,
+      "curbsidePickup": false,
+      "servesBreakfast": true,
+      "servesCoffee": true,
+      "restroom": true
+    },
+    "paiement": [
+      "carte bancaire",
+      "carte de débit",
+      "paiement sans contact"
+    ],
+    "parking": [
+      "parking gratuit",
+      "stationnement gratuit dans la rue"
+    ]
+  },
+  "redaction": {
+    "version": 2,
+    "titre": "La Villa des Pains - Boulangerie Artisanale — Boulangerie-pâtisserie à Auch",
+    "meta_titre": "La Villa des Pains - Boulangerie Artisanale à Auch",
+    "meta_description": "La Villa des Pains - Boulangerie Artisanale, boulangerie-pâtisserie à Auch : horaires d'ouverture, téléphone, adresse et itinéraire.",
+    "chapo": "Cette fiche présente La Villa des Pains - Boulangerie Artisanale, une boulangerie-pâtisserie au 3 Rue Jeanne d'Albret, à Auch. Ouvert tous les jours sauf le dimanche au relevé du 7 novembre 2026. Téléphone : 05 62 63 17 75. Note Google : 4,2 sur 5 pour 204 avis.",
+    "sections": [
+      {
+        "id": "presentation",
+        "titre": "La Villa des Pains - Boulangerie Artisanale en quelques mots",
+        "paragraphes": [
+          "Sur Google, l'établissement est classé « Boulangerie », dans notre rubrique Boulangerie-pâtisserie.",
+          "Niveau de prix indiqué sur la fiche Google : € (bon marché).",
+          "D'après le relevé du 7 novembre 2026, l'établissement est ouvert tous les jours sauf le dimanche. Le détail jour par jour figure plus bas."
+        ]
+      },
+      {
+        "id": "prestations",
+        "titre": "Services et équipements de La Villa des Pains - Boulangerie Artisanale",
+        "paragraphes": [
+          "Proposé : à emporter, petit-déjeuner, café et toilettes.",
+          "Non proposé selon la fiche Google : livraison et retrait en voiture.",
+          "Moyens de paiement déclarés : carte bancaire, carte de débit et paiement sans contact.",
+          "Stationnement : parking gratuit et stationnement gratuit dans la rue.",
+          "Ces indications sont déclarées par l'établissement sur sa fiche Google (relevé du 7 novembre 2026)."
+        ]
+      },
+      {
+        "id": "acces",
+        "titre": "Adresse et accès",
+        "paragraphes": [
+          "L'établissement est situé au 3 Rue Jeanne d'Albret, 32000 Auch.",
+          "Coordonnées GPS : 43.63355, 0.58873. Le bouton Itinéraire de cette page ouvre la navigation."
+        ]
+      },
+      {
+        "id": "contact",
+        "titre": "Contacter La Villa des Pains - Boulangerie Artisanale",
+        "paragraphes": [
+          "Le contact se fait par téléphone au 05 62 63 17 75, ou directement sur place aux horaires d'ouverture."
+        ]
+      },
+      {
+        "id": "avis",
+        "titre": "La réputation de La Villa des Pains - Boulangerie Artisanale",
+        "paragraphes": [
+          "Note de 4,2 sur 5 pour 204 avis Google au relevé du 7 novembre 2026. Les avis les plus parlants sont compilés ci-dessous, avec un lien vers la fiche d'origine."
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "q": "Quels sont les horaires de La Villa des Pains - Boulangerie Artisanale ?",
+        "r": "Au relevé du 7 novembre 2026, La Villa des Pains - Boulangerie Artisanale était ouvert tous les jours sauf le dimanche. Dans le détail — lundi : de 6 h 30 à 19 h 30 ; mardi : de 6 h 30 à 19 h 30 ; mercredi : de 6 h 30 à 19 h 30 ; jeudi : de 6 h 30 à 19 h 30 ; vendredi : de 6 h 30 à 19 h 30 ; samedi : de 7 h 30 à 12 h 30 ; dimanche : fermé. Ces horaires peuvent changer : un appel préalable reste conseillé."
+      },
+      {
+        "q": "La Villa des Pains - Boulangerie Artisanale est-il ouvert le dimanche ?",
+        "r": "Non : d'après les horaires relevés le 7 novembre 2026, La Villa des Pains - Boulangerie Artisanale est fermé le dimanche."
+      },
+      {
+        "q": "Où se trouve La Villa des Pains - Boulangerie Artisanale ?",
+        "r": "La Villa des Pains - Boulangerie Artisanale se trouve 3 Rue Jeanne d'Albret, 32000 Auch. Un lien d'itinéraire est disponible sur cette page."
+      },
+      {
+        "q": "Comment contacter La Villa des Pains - Boulangerie Artisanale ?",
+        "r": "Par téléphone au 05 62 63 17 75, ou directement sur place aux heures d'ouverture."
+      },
+      {
+        "q": "La Villa des Pains - Boulangerie Artisanale propose-t-il la vente à emporter ou la livraison ?",
+        "r": "D'après sa fiche Google (relevé du 7 novembre 2026) — vente à emporter : oui ; livraison : non."
+      },
+      {
+        "q": "Quel est le niveau de prix de La Villa des Pains - Boulangerie Artisanale ?",
+        "r": "Google classe La Villa des Pains - Boulangerie Artisanale au niveau de prix € (bon marché), sur une échelle de € à €€€€ établie à partir des avis clients."
+      },
+      {
+        "q": "La Villa des Pains - Boulangerie Artisanale est-il accessible aux personnes à mobilité réduite ?",
+        "r": "La fiche Google de l'établissement mentionne : « Entrée accessible en fauteuil roulant ». Cette information est déclarative ; en cas de doute, vérifiez par téléphone."
+      }
+    ],
+    "genere_le": "2026-11-07"
+  },
+  "statut_google": "OPERATIONAL",
+  "audience": {
+    "clics": 0,
+    "impressions": 0,
+    "position": null,
+    "fenetreJours": 90,
+    "clicsRecents": 0,
+    "fenetreRecenteJours": 28,
+    "source": "search-console",
+    "date": "2026-11-07"
+  }
+}

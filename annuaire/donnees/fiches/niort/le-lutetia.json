@@ -220,7 +220,7 @@
     "clicsRecents": 0,
     "fenetreRecenteJours": 28,
     "source": "search-console",
-    "date": "2026-11-06"
+    "date": "2026-11-07"
   },
   "avis_detail": {
     "releve": "2026-10-29",
@@ -300,12 +300,12 @@
     ]
   },
   "indexation": {
-    "etat": "non-indexee",
-    "verdict": "NEUTRAL",
-    "couverture": "Détectée, actuellement non indexée",
-    "derniere_exploration": null,
-    "canonique_google": null,
+    "etat": "indexee",
+    "verdict": "PASS",
+    "couverture": "Envoyée et indexée",
+    "derniere_exploration": "2026-11-07T04:13:57Z",
+    "canonique_google": "https://andpro.fr/vitrine-locale/cafes-bars/niort/le-lutetia/",
     "source": "inspection",
-    "date": "2026-11-06"
+    "date": "2026-11-07"
   }
 }

@@ -1,0 +1,258 @@
+{
+  "id": "ChIJ-7ZQYfL67EcRC6yJQ5mJtOk",
+  "slug": "ab-electricite",
+  "nom": "AB.ELECTRICITE",
+  "categorie": "electricite",
+  "categorie_gmb": "Électricien",
+  "type_principal": "electrician",
+  "types": [
+    "electrician",
+    "manufacturer",
+    "service",
+    "point_of_interest",
+    "establishment"
+  ],
+  "ville": "Villiers-le-Sec",
+  "ville_slug": "villiers-le-sec",
+  "adresse": {
+    "rue": "9 Rue Riochey",
+    "code_postal": "52000",
+    "departement": "52",
+    "region": "Grand Est",
+    "pays": "France",
+    "complete": "9 Rue Riochey, 52000 Villiers-le-Sec"
+  },
+  "telephone": "03 25 02 05 74",
+  "geo": {
+    "latitude": 48.104911699999995,
+    "longitude": 5.0675644
+  },
+  "note": 4.9,
+  "avis": 93,
+  "horaires": [
+    {
+      "jour": 0,
+      "ferme": false,
+      "creneaux": [
+        [
+          "08:00",
+          "12:00"
+        ],
+        [
+          "13:30",
+          "17:30"
+        ]
+      ]
+    },
+    {
+      "jour": 1,
+      "ferme": false,
+      "creneaux": [
+        [
+          "08:00",
+          "12:00"
+        ],
+        [
+          "13:30",
+          "17:30"
+        ]
+      ]
+    },
+    {
+      "jour": 2,
+      "ferme": false,
+      "creneaux": [
+        [
+          "08:00",
+          "12:00"
+        ],
+        [
+          "13:30",
+          "17:30"
+        ]
+      ]
+    },
+    {
+      "jour": 3,
+      "ferme": false,
+      "creneaux": [
+        [
+          "08:00",
+          "12:00"
+        ],
+        [
+          "13:30",
+          "17:30"
+        ]
+      ]
+    },
+    {
+      "jour": 4,
+      "ferme": false,
+      "creneaux": [
+        [
+          "08:00",
+          "12:00"
+        ],
+        [
+          "13:30",
+          "17:30"
+        ]
+      ]
+    },
+    {
+      "jour": 5,
+      "ferme": true,
+      "creneaux": []
+    },
+    {
+      "jour": 6,
+      "ferme": true,
+      "creneaux": []
+    }
+  ],
+  "attributs": [],
+  "lien_google": "https://maps.google.com/?cid=16840236198001224715&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
+  "site_web_gmb": null,
+  "statut": "publiee",
+  "backlink": {
+    "etat": "absent",
+    "premiere_detection": null,
+    "derniere_detection": null,
+    "derniere_verification": "2026-11-07T11:41:17.663Z",
+    "echecs": 1,
+    "url_detectee": null
+  },
+  "suggestion": {
+    "etat": "en-attente",
+    "date_soumission": null,
+    "tentatives": 0,
+    "date_email": "2026-11-07"
+  },
+  "retrait": null,
+  "dates": {
+    "collecte": "2026-11-07",
+    "publication": "2026-11-07",
+    "maj": "2026-11-07"
+  },
+  "source": "google-places",
+  "avis_detail": {
+    "releve": "2026-11-07",
+    "liste": [
+      {
+        "note": 5,
+        "texte": "Très bon travail effectué ce jour. Borne de recharge installée proprement. Vérification du fonctionnement et paramétrage de l'application faites avec l'installateur. Travail très sérieux.\nMerci à votre équipe.",
+        "langue": "fr",
+        "date": "2026-09-11",
+        "auteur": "Grégoire Varennes",
+        "auteur_lien": "https://www.google.com/maps/contrib/112377028385043112288/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT21WaFkxWlhjRGxpVFVKdVRXUXlXbkZwU0c1NFlVRRAB!2m1!1s0x47ecfaf26150b6fb:0xe9b489994389ac0b"
+      },
+      {
+        "note": 5,
+        "texte": "Très satisfaite de l’entreprise suite à la mise en conformité de l’installation électrique et de la pose de panneaux photovoltaïques dans ma maison individuelle.\nÉquipe agréable, rapide, sérieuse et de bons conseils !",
+        "langue": "fr",
+        "date": "2026-09-11",
+        "auteur": "Nathalie Herman",
+        "auteur_lien": "https://www.google.com/maps/contrib/117863510219717232550/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2toQlMyMVZTbTFXU0dsUlRtUTBYMTlzUTI5TmIwRRAB!2m1!1s0x47ecfaf26150b6fb:0xe9b489994389ac0b"
+      },
+      {
+        "note": 5,
+        "texte": "Nous avons complètement fait refaire l’électricité de notre maison et avons confié le chantier à M. Lanne et ses équipes.\n\nTout est reglo, clair, carré et le résultat est impeccable !\n\nDevis très détaillé envoyé rapidement, pas de mauvaises surprises, communication fluide et en toute transparence, je recommande vivement AB Électricité.\n\nSi nous sommes amenés à avoir des travaux à nouveau, nous passerons assurément par eux.\n\nMerci encore",
+        "langue": "fr",
+        "date": "2026-05-19",
+        "auteur": "Carole Pontier",
+        "auteur_lien": "https://www.google.com/maps/contrib/115559306151296305361/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2t4cVFsUnNkMDVhYTNWbVlsSmhXVUpJUzNCdWJWRRAB!2m1!1s0x47ecfaf26150b6fb:0xe9b489994389ac0b"
+      },
+      {
+        "note": 5,
+        "texte": "Travail sérieux et rapide,  bonne équipe sympathique et très professionnelle pour changement de nôtre VMC.\nNous recommandons l'entreprise de Mr Lanne.",
+        "langue": "fr",
+        "date": "2026-05-07",
+        "auteur": "Badette Badette",
+        "auteur_lien": "https://www.google.com/maps/contrib/107801825240189128668/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT214WFIxOXJVV2xGU25RMVdFbHBORXRXVUdOWFJVRRAB!2m1!1s0x47ecfaf26150b6fb:0xe9b489994389ac0b"
+      },
+      {
+        "note": 5,
+        "texte": "Nous avons sollicité Ab Électricité dans le cadre d'une rénovation totale de l'installation électrique et installation VMC.\nÀ la suite de ces travaux, nous pouvons dire que choisir cette entreprise est un gage de qualité et de fiabilité. L'équipe est très compétente, réactive, à l'écoute, sérieuse, consciencieuse et également très sympathique.\nLe matériel installé est également de très bonne facture (Legrand).\nDe l'établissement du devis jusqu'à la réalisation, nous avons été accompagnés par M. Lanne et son équipe et nous en sommes très satisfaits.\nM. Lanne, également notre médiateur RBC, nous suit depuis le début de notre projet. Son investissement sans faille nous apporte beaucoup de sérénité, notamment grâce à son soutien et ses conseils.\nPour toutes ces raisons, nous lui avons accordé notre confiance et à la fin, nous sommes sûrs d'avoir fait le bon choix. A nouveau, Merci beaucoup.\nNous ne pouvons que conseiller à d'autres de faire appel à M. Lanne et son équipe.",
+        "langue": "fr",
+        "date": "2023-02-11",
+        "auteur": "Jp Sylla",
+        "auteur_lien": "https://www.google.com/maps/contrib/117600026928390879476/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUNocHVtaWR3EAE!2m1!1s0x47ecfaf26150b6fb:0xe9b489994389ac0b"
+      }
+    ]
+  },
+  "redaction": {
+    "version": 2,
+    "titre": "AB.ELECTRICITE — Électricité à Villiers-le-Sec",
+    "meta_titre": "AB.ELECTRICITE à Villiers-le-Sec : horaires, avis, téléphone",
+    "meta_description": "AB.ELECTRICITE, électricité à Villiers-le-Sec : horaires d'ouverture, note Google 4,9/5 (93 avis), téléphone, adresse et itinéraire.",
+    "chapo": "AB.ELECTRICITE est une électricité au 9 Rue Riochey, à Villiers-le-Sec. Fermé le samedi et le dimanche au relevé du 7 novembre 2026. Téléphone : 03 25 02 05 74. Note Google : 4,9 sur 5 pour 93 avis.",
+    "sections": [
+      {
+        "id": "presentation",
+        "titre": "AB.ELECTRICITE en quelques mots",
+        "paragraphes": [
+          "Sur Google, l'établissement est classé « Électricien », dans notre rubrique Électricité.",
+          "D'après le relevé du 7 novembre 2026, l'établissement est fermé le samedi et le dimanche. Le détail jour par jour figure plus bas."
+        ]
+      },
+      {
+        "id": "acces",
+        "titre": "Adresse et accès",
+        "paragraphes": [
+          "L'établissement est situé au 9 Rue Riochey, 52000 Villiers-le-Sec.",
+          "Coordonnées GPS : 48.10491, 5.06756. Le bouton Itinéraire de cette page ouvre la navigation."
+        ]
+      },
+      {
+        "id": "contact",
+        "titre": "Contacter AB.ELECTRICITE",
+        "paragraphes": [
+          "Le contact se fait par téléphone au 03 25 02 05 74, ou directement sur place aux horaires d'ouverture."
+        ]
+      },
+      {
+        "id": "avis",
+        "titre": "La réputation de AB.ELECTRICITE",
+        "paragraphes": [
+          "Note de 4,9 sur 5 pour 93 avis Google au relevé du 7 novembre 2026. Les avis les plus parlants sont compilés ci-dessous, avec un lien vers la fiche d'origine."
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "q": "Quels sont les horaires de AB.ELECTRICITE ?",
+        "r": "Au relevé du 7 novembre 2026, AB.ELECTRICITE était fermé le samedi et le dimanche. Dans le détail — lundi : de 8 h à 12 h et de 13 h 30 à 17 h 30 ; mardi : de 8 h à 12 h et de 13 h 30 à 17 h 30 ; mercredi : de 8 h à 12 h et de 13 h 30 à 17 h 30 ; jeudi : de 8 h à 12 h et de 13 h 30 à 17 h 30 ; vendredi : de 8 h à 12 h et de 13 h 30 à 17 h 30 ; samedi : fermé ; dimanche : fermé. Ces horaires peuvent changer : un appel préalable reste conseillé."
+      },
+      {
+        "q": "AB.ELECTRICITE est-il ouvert le dimanche ?",
+        "r": "Non : d'après les horaires relevés le 7 novembre 2026, AB.ELECTRICITE est fermé le dimanche."
+      },
+      {
+        "q": "Où se trouve AB.ELECTRICITE ?",
+        "r": "AB.ELECTRICITE se trouve 9 Rue Riochey, 52000 Villiers-le-Sec. Un lien d'itinéraire est disponible sur cette page."
+      },
+      {
+        "q": "Comment contacter AB.ELECTRICITE ?",
+        "r": "Par téléphone au 03 25 02 05 74, ou directement sur place aux heures d'ouverture."
+      }
+    ],
+    "genere_le": "2026-11-07"
+  },
+  "statut_google": "OPERATIONAL",
+  "audience": {
+    "clics": 0,
+    "impressions": 0,
+    "position": null,
+    "fenetreJours": 90,
+    "clicsRecents": 0,
+    "fenetreRecenteJours": 28,
+    "source": "search-console",
+    "date": "2026-11-07"
+  }
+}

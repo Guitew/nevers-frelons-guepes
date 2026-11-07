@@ -29,8 +29,8 @@
     "latitude": 48.8005521,
     "longitude": 2.1275892
   },
-  "note": 4,
-  "avis": 176,
+  "note": 3.9,
+  "avis": 178,
   "horaires": [
     {
       "jour": 0,
@@ -113,8 +113,8 @@
     "etat": "absent",
     "premiere_detection": null,
     "derniere_detection": null,
-    "derniere_verification": "2026-10-22T10:06:20.031Z",
-    "echecs": 14,
+    "derniere_verification": "2026-11-07T11:41:17.663Z",
+    "echecs": 15,
     "url_detectee": null
   },
   "suggestion": {
@@ -127,7 +127,7 @@
   "dates": {
     "collecte": "2026-09-27",
     "publication": "2026-09-27",
-    "maj": "2026-10-22"
+    "maj": "2026-11-07"
   },
   "source": "google-places",
   "redaction": {
@@ -215,7 +215,7 @@
     "clicsRecents": 0,
     "fenetreRecenteJours": 28,
     "source": "search-console",
-    "date": "2026-11-06"
+    "date": "2026-11-07"
   },
   "avis_detail": {
     "releve": "2026-10-22",
@@ -281,12 +281,12 @@
     "parking": []
   },
   "indexation": {
-    "etat": "non-indexee",
-    "verdict": "NEUTRAL",
-    "couverture": "Détectée, actuellement non indexée",
-    "derniere_exploration": null,
-    "canonique_google": null,
+    "etat": "indexee",
+    "verdict": "PASS",
+    "couverture": "Envoyée et indexée",
+    "derniere_exploration": "2026-11-07T10:08:52Z",
+    "canonique_google": "https://andpro.fr/vitrine-locale/commerces-alimentation/versailles/monop-versailles-chateau/",
     "source": "inspection",
-    "date": "2026-11-06"
+    "date": "2026-11-07"
   }
 }

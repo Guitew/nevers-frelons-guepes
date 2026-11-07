@@ -1,0 +1,282 @@
+{
+  "id": "ChIJ6VWs0ziLikcRsCkmGdAfNlk",
+  "slug": "meca-pro",
+  "nom": "Méca Pro",
+  "categorie": "garages-automobile",
+  "categorie_gmb": "Garage automobile",
+  "type_principal": "car_repair",
+  "types": [
+    "car_repair",
+    "service",
+    "point_of_interest",
+    "establishment"
+  ],
+  "ville": "Échirolles",
+  "ville_slug": "echirolles",
+  "adresse": {
+    "rue": "40ter Avenue de la République",
+    "code_postal": "38130",
+    "departement": "38",
+    "region": "Auvergne-Rhône-Alpes",
+    "pays": "France",
+    "complete": "40ter Av. de la République, 38130 Échirolles"
+  },
+  "telephone": "04 76 09 03 59",
+  "geo": {
+    "latitude": 45.142196899999995,
+    "longitude": 5.7253513
+  },
+  "note": 4.1,
+  "avis": 236,
+  "horaires": [
+    {
+      "jour": 0,
+      "ferme": false,
+      "creneaux": [
+        [
+          "08:00",
+          "12:00"
+        ],
+        [
+          "14:00",
+          "18:00"
+        ]
+      ]
+    },
+    {
+      "jour": 1,
+      "ferme": false,
+      "creneaux": [
+        [
+          "08:00",
+          "12:00"
+        ],
+        [
+          "14:00",
+          "18:00"
+        ]
+      ]
+    },
+    {
+      "jour": 2,
+      "ferme": false,
+      "creneaux": [
+        [
+          "08:00",
+          "12:00"
+        ],
+        [
+          "14:00",
+          "18:00"
+        ]
+      ]
+    },
+    {
+      "jour": 3,
+      "ferme": false,
+      "creneaux": [
+        [
+          "08:00",
+          "12:00"
+        ],
+        [
+          "14:00",
+          "18:00"
+        ]
+      ]
+    },
+    {
+      "jour": 4,
+      "ferme": false,
+      "creneaux": [
+        [
+          "08:00",
+          "12:00"
+        ],
+        [
+          "14:00",
+          "18:00"
+        ]
+      ]
+    },
+    {
+      "jour": 5,
+      "ferme": true,
+      "creneaux": []
+    },
+    {
+      "jour": 6,
+      "ferme": true,
+      "creneaux": []
+    }
+  ],
+  "attributs": [
+    "Entrée accessible en fauteuil roulant",
+    "Parking accessible en fauteuil roulant"
+  ],
+  "lien_google": "https://maps.google.com/?cid=6428360496753551792&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
+  "site_web_gmb": null,
+  "statut": "publiee",
+  "backlink": {
+    "etat": "absent",
+    "premiere_detection": null,
+    "derniere_detection": null,
+    "derniere_verification": "2026-11-07T11:41:17.663Z",
+    "echecs": 1,
+    "url_detectee": null
+  },
+  "suggestion": {
+    "etat": "en-attente",
+    "date_soumission": null,
+    "tentatives": 0,
+    "date_email": "2026-11-07"
+  },
+  "retrait": null,
+  "dates": {
+    "collecte": "2026-11-07",
+    "publication": "2026-11-07",
+    "maj": "2026-11-07"
+  },
+  "source": "google-places",
+  "avis_detail": {
+    "releve": "2026-11-07",
+    "liste": [
+      {
+        "note": 5,
+        "texte": "Très professionnel, j'ai déposé ma Audi pour fuite d'huile et dépose d'amortisseur, ils sont a l'écoute vous pouvez y aller les yeux fermés quelque soit le modèle de voiture 'ancienne récente grosse cylindrée ' pas de soucis",
+        "langue": "fr",
+        "date": "2026-10-02",
+        "auteur": "Waliana Mimi",
+        "auteur_lien": "https://www.google.com/maps/contrib/111882585263387584320/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2tOcWRFRnRibDlLZG5oS2RVSlhNVXh4ZW1aek5VRRAB!2m1!1s0x478a8b38d3ac55e9:0x59361fd0192629b0"
+      },
+      {
+        "note": 1,
+        "texte": "À fuir pas sérieux garde la voiture toute la journée fin de journée ils ont pas eu le temps de la faire ils ont trouvé que comme excuse que la valise passe pas sans l'essayer c'est drôle c'est de ma faute c'est pas la première fois qu'il me font ça mentalité du bled",
+        "langue": "fr",
+        "date": "2026-09-25",
+        "auteur": "Floky 38",
+        "auteur_lien": "https://www.google.com/maps/contrib/107739373859534669821/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2tkWWN6WjRabWd3TW5kT2NWZHlhakl3ZDFBeVUwRRAB!2m1!1s0x478a8b38d3ac55e9:0x59361fd0192629b0"
+      },
+      {
+        "note": 5,
+        "texte": "Rapide, efficace, tarif raisonnable.\nMerci pour cette intervention en dépannage d’urgence (poulie damper HS sur Renault Espace 4 2.0 dCi)… et merci de ne pas avoir essayé de profiter de la situation !",
+        "langue": "fr",
+        "date": "2026-08-19",
+        "auteur": "Paul Gourlet",
+        "auteur_lien": "https://www.google.com/maps/contrib/109921945472496269107/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25GTU4ySlFPVkY1VFZkd1gxWnpOVk0zTjNBMVgzYxAB!2m1!1s0x478a8b38d3ac55e9:0x59361fd0192629b0"
+      },
+      {
+        "note": 5,
+        "texte": "Encore merci pour la rapidité et le soin apporté à mes véhicules.\nL’ensemble du parc automobile de la famille est suivi chez Mecapro, et nous en sommes très satisfaits. Le service est parfaitement adapté à nos attentes, les délais sont respectés et les tarifs restent toujours raisonnables.\nAvant toute intervention, nous sommes systématiquement consultés, ce qui est très appréciable. Nous avons également souvent le choix entre différentes options de pièces (origine, adaptable ou d’occasion), ce qui permet de s’adapter au budget sans compromettre la qualité.",
+        "langue": "fr",
+        "date": "2026-04-17",
+        "auteur": "Nico",
+        "auteur_lien": "https://www.google.com/maps/contrib/105107142175182783697/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25SNlJXVnZWREpDTTIwM1dXb3RhazlKUkd0cVkzYxAB!2m1!1s0x478a8b38d3ac55e9:0x59361fd0192629b0"
+      },
+      {
+        "note": 5,
+        "texte": "Après avoir réalisé plusieurs devis dans certains garages de l'agglomération, j'ai décidé de faire réparer la boîte à vitesse sur mon Renault Trafic chez Méca Pro. Le diagnostic a été précis, le devis clair et le délai respecté. Je suis très content de la qualité de la réparation, de la prestation ainsi que l'accueil que j'ai reçu. Un grand merci à toute l'équipe pour votre sérieux bien\ncordialement.",
+        "langue": "fr",
+        "date": "2025-04-11",
+        "auteur": "M C",
+        "auteur_lien": "https://www.google.com/maps/contrib/105052410416138662462/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnTURJaGR2VFFBEAE!2m1!1s0x478a8b38d3ac55e9:0x59361fd0192629b0"
+      }
+    ]
+  },
+  "services": {
+    "releve": "2026-11-07",
+    "options": {},
+    "paiement": [
+      "carte bancaire",
+      "carte de débit",
+      "paiement sans contact"
+    ],
+    "parking": []
+  },
+  "redaction": {
+    "version": 2,
+    "titre": "Méca Pro — Garage et automobile à Échirolles",
+    "meta_titre": "Méca Pro à Échirolles : horaires, avis, téléphone",
+    "meta_description": "Méca Pro, garage et automobile à Échirolles : horaires d'ouverture, note Google 4,1/5 (236 avis), téléphone, adresse et itinéraire.",
+    "chapo": "Cette fiche présente Méca Pro, un garage et automobile au 40ter Avenue de la République, à Échirolles. Fermé le samedi et le dimanche au relevé du 7 novembre 2026. Téléphone : 04 76 09 03 59. Note Google : 4,1 sur 5 pour 236 avis.",
+    "sections": [
+      {
+        "id": "presentation",
+        "titre": "Méca Pro en quelques mots",
+        "paragraphes": [
+          "Sur Google, l'établissement est classé « Garage automobile », dans notre rubrique Garage et automobile.",
+          "D'après le relevé du 7 novembre 2026, l'établissement est fermé le samedi et le dimanche. Le détail jour par jour figure plus bas."
+        ]
+      },
+      {
+        "id": "prestations",
+        "titre": "Services et équipements de Méca Pro",
+        "paragraphes": [
+          "Moyens de paiement déclarés : carte bancaire, carte de débit et paiement sans contact.",
+          "Ces indications sont déclarées par l'établissement sur sa fiche Google (relevé du 7 novembre 2026)."
+        ]
+      },
+      {
+        "id": "acces",
+        "titre": "Adresse et accès",
+        "paragraphes": [
+          "L'établissement est situé au 40ter Avenue de la République, 38130 Échirolles.",
+          "Coordonnées GPS : 45.14220, 5.72535. Le bouton Itinéraire de cette page ouvre la navigation."
+        ]
+      },
+      {
+        "id": "contact",
+        "titre": "Contacter Méca Pro",
+        "paragraphes": [
+          "Le contact se fait par téléphone au 04 76 09 03 59, ou directement sur place aux horaires d'ouverture."
+        ]
+      },
+      {
+        "id": "avis",
+        "titre": "La réputation de Méca Pro",
+        "paragraphes": [
+          "Note de 4,1 sur 5 pour 236 avis Google au relevé du 7 novembre 2026. Les avis les plus parlants sont compilés ci-dessous, avec un lien vers la fiche d'origine."
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "q": "Quels sont les horaires de Méca Pro ?",
+        "r": "Au relevé du 7 novembre 2026, Méca Pro était fermé le samedi et le dimanche. Dans le détail — lundi : de 8 h à 12 h et de 14 h à 18 h ; mardi : de 8 h à 12 h et de 14 h à 18 h ; mercredi : de 8 h à 12 h et de 14 h à 18 h ; jeudi : de 8 h à 12 h et de 14 h à 18 h ; vendredi : de 8 h à 12 h et de 14 h à 18 h ; samedi : fermé ; dimanche : fermé. Ces horaires peuvent changer : un appel préalable reste conseillé."
+      },
+      {
+        "q": "Méca Pro est-il ouvert le dimanche ?",
+        "r": "Non : d'après les horaires relevés le 7 novembre 2026, Méca Pro est fermé le dimanche."
+      },
+      {
+        "q": "Où se trouve Méca Pro ?",
+        "r": "Méca Pro se trouve 40ter Av. de la République, 38130 Échirolles. Un lien d'itinéraire est disponible sur cette page."
+      },
+      {
+        "q": "Comment contacter Méca Pro ?",
+        "r": "Par téléphone au 04 76 09 03 59, ou directement sur place aux heures d'ouverture."
+      },
+      {
+        "q": "Méca Pro est-il accessible aux personnes à mobilité réduite ?",
+        "r": "La fiche Google de l'établissement mentionne : « Entrée accessible en fauteuil roulant ». Cette information est déclarative ; en cas de doute, vérifiez par téléphone."
+      }
+    ],
+    "genere_le": "2026-11-07"
+  },
+  "statut_google": "OPERATIONAL",
+  "audience": {
+    "clics": 0,
+    "impressions": 0,
+    "position": null,
+    "fenetreJours": 90,
+    "clicsRecents": 0,
+    "fenetreRecenteJours": 28,
+    "source": "search-console",
+    "date": "2026-11-07"
+  }
+}

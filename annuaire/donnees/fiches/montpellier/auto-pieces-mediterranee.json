@@ -1,0 +1,286 @@
+{
+  "id": "ChIJ7aaJqc2uthIRrfjWnUTCAC4",
+  "slug": "auto-pieces-mediterranee",
+  "nom": "Auto Pièces Méditerranée",
+  "categorie": "garages-automobile",
+  "categorie_gmb": "Services",
+  "type_principal": "service",
+  "types": [
+    "market",
+    "tire_shop",
+    "auto_parts_store",
+    "car_repair",
+    "service",
+    "point_of_interest",
+    "store",
+    "establishment"
+  ],
+  "ville": "Montpellier",
+  "ville_slug": "montpellier",
+  "adresse": {
+    "rue": "81 Rue de Thomassy",
+    "code_postal": "34090",
+    "departement": "34",
+    "region": "Occitanie",
+    "pays": "France",
+    "complete": "81 Rue de Thomassy, 34090 Montpellier"
+  },
+  "telephone": "04 67 52 44 31",
+  "geo": {
+    "latitude": 43.6469634,
+    "longitude": 3.8530645
+  },
+  "note": 4.1,
+  "avis": 222,
+  "horaires": [
+    {
+      "jour": 0,
+      "ferme": false,
+      "creneaux": [
+        [
+          "09:00",
+          "12:30"
+        ],
+        [
+          "14:00",
+          "18:00"
+        ]
+      ]
+    },
+    {
+      "jour": 1,
+      "ferme": false,
+      "creneaux": [
+        [
+          "09:00",
+          "12:30"
+        ],
+        [
+          "14:00",
+          "18:00"
+        ]
+      ]
+    },
+    {
+      "jour": 2,
+      "ferme": false,
+      "creneaux": [
+        [
+          "09:00",
+          "12:30"
+        ],
+        [
+          "14:00",
+          "18:00"
+        ]
+      ]
+    },
+    {
+      "jour": 3,
+      "ferme": false,
+      "creneaux": [
+        [
+          "09:00",
+          "12:30"
+        ],
+        [
+          "14:00",
+          "18:00"
+        ]
+      ]
+    },
+    {
+      "jour": 4,
+      "ferme": false,
+      "creneaux": [
+        [
+          "09:00",
+          "12:30"
+        ],
+        [
+          "14:00",
+          "18:00"
+        ]
+      ]
+    },
+    {
+      "jour": 5,
+      "ferme": true,
+      "creneaux": []
+    },
+    {
+      "jour": 6,
+      "ferme": true,
+      "creneaux": []
+    }
+  ],
+  "attributs": [
+    "Entrée accessible en fauteuil roulant",
+    "Parking accessible en fauteuil roulant"
+  ],
+  "lien_google": "https://maps.google.com/?cid=3314862925706361005&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
+  "site_web_gmb": null,
+  "statut": "publiee",
+  "backlink": {
+    "etat": "absent",
+    "premiere_detection": null,
+    "derniere_detection": null,
+    "derniere_verification": "2026-11-07T11:41:17.663Z",
+    "echecs": 1,
+    "url_detectee": null
+  },
+  "suggestion": {
+    "etat": "en-attente",
+    "date_soumission": null,
+    "tentatives": 0,
+    "date_email": "2026-11-07"
+  },
+  "retrait": null,
+  "dates": {
+    "collecte": "2026-11-07",
+    "publication": "2026-11-07",
+    "maj": "2026-11-07"
+  },
+  "source": "google-places",
+  "avis_detail": {
+    "releve": "2026-11-07",
+    "liste": [
+      {
+        "note": 1,
+        "texte": "Pas comme commerçant au téléphone, ça sert à quoi d’avoir un téléphone si c’est pour appeler on me demande de me déplacer sur place",
+        "langue": "fr",
+        "date": "2026-08-11",
+        "auteur": "Boss 083",
+        "auteur_lien": "https://www.google.com/maps/contrib/104276043733579270465/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xGMVdEZGhhVTA0Y21kbk9IUnZYM2t6UWxwT1ozYxAB!2m1!1s0x12b6aecda989a6ed:0x2e00c2449dd6f8ad"
+      },
+      {
+        "note": 4,
+        "texte": "Casse automobile idéalement située à Montpellier, ce qui est très pratique. Le service est efficace et permet d’obtenir rapidement les informations nécessaires sur les pièces disponibles.\n\nJe retire toutefois une étoile en raison de l’accueil, qui pourrait être davantage chaleureux : les échanges sont assez expéditifs et manquent un peu de sympathie et de sourire.\n\nPour cette fois, je me suis finalement orienté vers du neuf, mais je n’hésiterai pas à revenir vers vous si j’ai besoin d’une nouvelle pièce à l’avenir.",
+        "langue": "fr",
+        "date": "2026-07-17",
+        "auteur": "K A",
+        "auteur_lien": "https://www.google.com/maps/contrib/116162913384711257626/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25WS1gyZDRiMDFyTm5oNGRUVmlMVXBMWTBsV01uYxAB!2m1!1s0x12b6aecda989a6ed:0x2e00c2449dd6f8ad"
+      },
+      {
+        "note": 4,
+        "texte": "Accueil sympathique et récupération des pièces,  rapidement.  Il y a l'essentiel c'est déjà très bien",
+        "langue": "fr",
+        "date": "2026-06-06",
+        "auteur": "Joel Repessé",
+        "auteur_lien": "https://www.google.com/maps/contrib/109742997628336430521/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2tKRlpERjNNMVZzWmtkM2JUUlVkRVpQZUZwTFduYxAB!2m1!1s0x12b6aecda989a6ed:0x2e00c2449dd6f8ad"
+      },
+      {
+        "note": 5,
+        "texte": "Très bon garagiste je recommande ! Je suis venue pour deux jantes et j’ai été très bien accueillie et servie. Le personnel est très agréable et sympa et les pièces sont nickel !",
+        "langue": "fr",
+        "date": "2026-02-18",
+        "auteur": "Rachel Facon",
+        "auteur_lien": "https://www.google.com/maps/contrib/103277139087941619863/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2s5MGRGWjRlVWhEVm5KalVtWnBVRWxPVTNKWlZGRRAB!2m1!1s0x12b6aecda989a6ed:0x2e00c2449dd6f8ad"
+      },
+      {
+        "note": 1,
+        "texte": "Une arnaque, n'acheter jamais ici !!\n\nJ'ai acheté un véhicule d'occasion là-bas et j'ai eu plusieurs soucis qu'il n'ont jamais pue régler parce qu'il ne trouver pas la panne ...\n\nJ'ai aussi eu une fuite d'essence qu'il ne trouver pas ...\nEt moi qui n'est pas de connaissance je suis aller chercher et j'ai trouver un joint dans le réservoir qui était casser et qu'il sont scotcher ..\nUne honte de faire ça",
+        "langue": "fr",
+        "date": "2025-10-27",
+        "auteur": "Samantha Orhan-zuccoli",
+        "auteur_lien": "https://www.google.com/maps/contrib/109776827232354129156/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2sweFRUWnROMWhmY3pjeVpIZERXV2QzT1VkaGIzYxAB!2m1!1s0x12b6aecda989a6ed:0x2e00c2449dd6f8ad"
+      }
+    ]
+  },
+  "services": {
+    "releve": "2026-11-07",
+    "options": {},
+    "paiement": [
+      "carte bancaire",
+      "carte de débit",
+      "paiement sans contact"
+    ],
+    "parking": []
+  },
+  "redaction": {
+    "version": 2,
+    "titre": "Auto Pièces Méditerranée — Garage et automobile à Montpellier",
+    "meta_titre": "Auto Pièces Méditerranée à Montpellier : horaires, avis",
+    "meta_description": "Auto Pièces Méditerranée, garage et automobile à Montpellier : horaires d'ouverture, note Google 4,1/5 (222 avis), téléphone, adresse et itinéraire.",
+    "chapo": "Auto Pièces Méditerranée, garage et automobile au 81 Rue de Thomassy, à Montpellier. Fermé le samedi et le dimanche au relevé du 7 novembre 2026. Téléphone : 04 67 52 44 31. Note Google : 4,1 sur 5 pour 222 avis.",
+    "sections": [
+      {
+        "id": "presentation",
+        "titre": "Auto Pièces Méditerranée en quelques mots",
+        "paragraphes": [
+          "Sur Google, l'établissement est classé « Services », dans notre rubrique Garage et automobile.",
+          "D'après le relevé du 7 novembre 2026, l'établissement est fermé le samedi et le dimanche. Le détail jour par jour figure plus bas."
+        ]
+      },
+      {
+        "id": "prestations",
+        "titre": "Services et équipements de Auto Pièces Méditerranée",
+        "paragraphes": [
+          "Moyens de paiement déclarés : carte bancaire, carte de débit et paiement sans contact.",
+          "Ces indications sont déclarées par l'établissement sur sa fiche Google (relevé du 7 novembre 2026)."
+        ]
+      },
+      {
+        "id": "acces",
+        "titre": "Adresse et accès",
+        "paragraphes": [
+          "L'établissement est situé au 81 Rue de Thomassy, 34090 Montpellier.",
+          "Coordonnées GPS : 43.64696, 3.85306. Le bouton Itinéraire de cette page ouvre la navigation."
+        ]
+      },
+      {
+        "id": "contact",
+        "titre": "Contacter Auto Pièces Méditerranée",
+        "paragraphes": [
+          "Le contact se fait par téléphone au 04 67 52 44 31, ou directement sur place aux horaires d'ouverture."
+        ]
+      },
+      {
+        "id": "avis",
+        "titre": "La réputation de Auto Pièces Méditerranée",
+        "paragraphes": [
+          "Note de 4,1 sur 5 pour 222 avis Google au relevé du 7 novembre 2026. Les avis les plus parlants sont compilés ci-dessous, avec un lien vers la fiche d'origine."
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "q": "Quels sont les horaires de Auto Pièces Méditerranée ?",
+        "r": "Au relevé du 7 novembre 2026, Auto Pièces Méditerranée était fermé le samedi et le dimanche. Dans le détail — lundi : de 9 h à 12 h 30 et de 14 h à 18 h ; mardi : de 9 h à 12 h 30 et de 14 h à 18 h ; mercredi : de 9 h à 12 h 30 et de 14 h à 18 h ; jeudi : de 9 h à 12 h 30 et de 14 h à 18 h ; vendredi : de 9 h à 12 h 30 et de 14 h à 18 h ; samedi : fermé ; dimanche : fermé. Ces horaires peuvent changer : un appel préalable reste conseillé."
+      },
+      {
+        "q": "Auto Pièces Méditerranée est-il ouvert le dimanche ?",
+        "r": "Non : d'après les horaires relevés le 7 novembre 2026, Auto Pièces Méditerranée est fermé le dimanche."
+      },
+      {
+        "q": "Où se trouve Auto Pièces Méditerranée ?",
+        "r": "Auto Pièces Méditerranée se trouve 81 Rue de Thomassy, 34090 Montpellier. Un lien d'itinéraire est disponible sur cette page."
+      },
+      {
+        "q": "Comment contacter Auto Pièces Méditerranée ?",
+        "r": "Par téléphone au 04 67 52 44 31, ou directement sur place aux heures d'ouverture."
+      },
+      {
+        "q": "Auto Pièces Méditerranée est-il accessible aux personnes à mobilité réduite ?",
+        "r": "La fiche Google de l'établissement mentionne : « Entrée accessible en fauteuil roulant ». Cette information est déclarative ; en cas de doute, vérifiez par téléphone."
+      }
+    ],
+    "genere_le": "2026-11-07"
+  },
+  "statut_google": "OPERATIONAL",
+  "audience": {
+    "clics": 0,
+    "impressions": 0,
+    "position": null,
+    "fenetreJours": 90,
+    "clicsRecents": 0,
+    "fenetreRecenteJours": 28,
+    "source": "search-console",
+    "date": "2026-11-07"
+  }
+}
