@@ -197,13 +197,13 @@
   "statut_google": "OPERATIONAL",
   "audience": {
     "clics": 0,
-    "impressions": 0,
-    "position": null,
+    "impressions": 3,
+    "position": 8.3,
     "fenetreJours": 90,
     "clicsRecents": 0,
     "fenetreRecenteJours": 28,
     "source": "search-console",
-    "date": "2026-11-07"
+    "date": "2026-11-08"
   },
   "avis_detail": {
     "releve": "2026-10-19",
@@ -270,11 +270,11 @@
   },
   "indexation": {
     "etat": "indexee",
-    "verdict": "PASS",
-    "couverture": "Envoyée et indexée",
-    "derniere_exploration": "2026-11-06T20:24:32Z",
-    "canonique_google": "https://andpro.fr/vitrine-locale/commerces-alimentation/foix/epicerie-armenienne-ararat/",
-    "source": "inspection",
-    "date": "2026-11-07"
+    "verdict": null,
+    "couverture": "impressions dans la Search Console",
+    "derniere_exploration": null,
+    "canonique_google": null,
+    "source": "impressions",
+    "date": "2026-11-08"
   }
 }

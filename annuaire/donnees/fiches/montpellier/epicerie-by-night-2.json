@@ -1,0 +1,277 @@
+{
+  "id": "ChIJCd4zyOauthIRqgqGVk6Z-Ao",
+  "slug": "epicerie-by-night-2",
+  "nom": "Epicerie By Night 2",
+  "categorie": "commerces-alimentation",
+  "categorie_gmb": "Épicerie",
+  "type_principal": "grocery_store",
+  "types": [
+    "grocery_store",
+    "general_store",
+    "food_store",
+    "food",
+    "store",
+    "point_of_interest",
+    "establishment"
+  ],
+  "ville": "Montpellier",
+  "ville_slug": "montpellier",
+  "adresse": {
+    "rue": "56 Avenue Charles Flahault",
+    "code_postal": "34090",
+    "departement": "34",
+    "region": "Occitanie",
+    "pays": "France",
+    "complete": "56 Av. Charles Flahault, 34090 Montpellier"
+  },
+  "telephone": "04 67 66 40 52",
+  "geo": {
+    "latitude": 43.626526,
+    "longitude": 3.8599718000000003
+  },
+  "note": 3.9,
+  "avis": 46,
+  "horaires": [
+    {
+      "jour": 0,
+      "ferme": false,
+      "creneaux": [
+        [
+          "12:00",
+          "05:00"
+        ]
+      ]
+    },
+    {
+      "jour": 1,
+      "ferme": false,
+      "creneaux": [
+        [
+          "12:00",
+          "05:00"
+        ]
+      ]
+    },
+    {
+      "jour": 2,
+      "ferme": false,
+      "creneaux": [
+        [
+          "12:00",
+          "05:00"
+        ]
+      ]
+    },
+    {
+      "jour": 3,
+      "ferme": false,
+      "creneaux": [
+        [
+          "12:00",
+          "05:00"
+        ]
+      ]
+    },
+    {
+      "jour": 4,
+      "ferme": false,
+      "creneaux": [
+        [
+          "12:00",
+          "05:00"
+        ]
+      ]
+    },
+    {
+      "jour": 5,
+      "ferme": false,
+      "creneaux": [
+        [
+          "12:00",
+          "05:00"
+        ]
+      ]
+    },
+    {
+      "jour": 6,
+      "ferme": false,
+      "creneaux": [
+        [
+          "12:00",
+          "05:00"
+        ]
+      ]
+    }
+  ],
+  "attributs": [],
+  "lien_google": "https://maps.google.com/?cid=790550296341645994&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
+  "site_web_gmb": null,
+  "statut": "publiee",
+  "backlink": {
+    "etat": "absent",
+    "premiere_detection": null,
+    "derniere_detection": null,
+    "derniere_verification": "2026-11-08T11:53:31.474Z",
+    "echecs": 1,
+    "url_detectee": null
+  },
+  "suggestion": {
+    "etat": "en-attente",
+    "date_soumission": null,
+    "tentatives": 0,
+    "date_email": "2026-11-08"
+  },
+  "retrait": null,
+  "dates": {
+    "collecte": "2026-11-08",
+    "publication": "2026-11-08",
+    "maj": "2026-11-08"
+  },
+  "source": "google-places",
+  "avis_detail": {
+    "releve": "2026-11-08",
+    "liste": [
+      {
+        "note": 1,
+        "texte": "pire épicerie sa met que c’est ouvert je fais le tour du monde et je vois c’est fermé. c’est un manque de respect",
+        "langue": "fr",
+        "date": "2026-10-21",
+        "auteur": "Badr",
+        "auteur_lien": "https://www.google.com/maps/contrib/112322864898388130934/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2pGbFEweFhXVVF0WTJWUFNtWkJjbVpUUldkZldsRRAB!2m1!1s0x12b6aee6c833de09:0xaf8994e56860aaa"
+      },
+      {
+        "note": 5,
+        "texte": "Toujours serviable, et souriant envers ses clients🤝\nMerci pour le service.",
+        "langue": "fr",
+        "date": "2026-09-25",
+        "auteur": "TiDi",
+        "auteur_lien": "https://www.google.com/maps/contrib/101518944508415992665/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT21wTlUwOXdjSEV0UnpBeExVSjFVSEZuZG1waFkyYxAB!2m1!1s0x12b6aee6c833de09:0xaf8994e56860aaa"
+      },
+      {
+        "note": 1,
+        "texte": "Jy suis allé plusieurs foiis aucun problème… la on m’accuse de pas avoif donné UNE pièce de deux ! ´je n’avais qud cs … regstde tes\nCal … 2!!!!!!",
+        "langue": "fr",
+        "date": "2026-08-25",
+        "auteur": "lil bowloss",
+        "auteur_lien": "https://www.google.com/maps/contrib/116595204361772261674/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT21RNWJUZFFRakV0TTB0ZmIzazFNbWR5WkdOZldrRRAB!2m1!1s0x12b6aee6c833de09:0xaf8994e56860aaa"
+      },
+      {
+        "note": 1,
+        "texte": "S'agirait t'il de respecter les horaires.",
+        "langue": "fr",
+        "date": "2026-08-05",
+        "auteur": "Kyle Maharga",
+        "auteur_lien": "https://www.google.com/maps/contrib/106228631337798420535/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2pVMVgyWk9TbUowVWw5Q2VVdzVaV2hUWXpGWE5tYxAB!2m1!1s0x12b6aee6c833de09:0xaf8994e56860aaa"
+      },
+      {
+        "note": 1,
+        "texte": "Magasin censé être ouvert mais fermé",
+        "langue": "fr",
+        "date": "2026-07-26",
+        "auteur": "Sarah “Sarah” Denechaud",
+        "auteur_lien": "https://www.google.com/maps/contrib/111386171144444556898/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2twVU1rZFNVbmRVTTBaclkyZzBibWhQYm1sV1NuYxAB!2m1!1s0x12b6aee6c833de09:0xaf8994e56860aaa"
+      }
+    ]
+  },
+  "services": {
+    "releve": "2026-11-08",
+    "options": {
+      "delivery": true,
+      "restroom": false
+    },
+    "paiement": [
+      "carte bancaire",
+      "carte de débit",
+      "paiement sans contact"
+    ],
+    "parking": []
+  },
+  "redaction": {
+    "version": 2,
+    "titre": "Epicerie By Night 2 — Commerce d'alimentation à Montpellier",
+    "meta_titre": "Epicerie By Night 2 à Montpellier : horaires, avis",
+    "meta_description": "Epicerie By Night 2, commerce d'alimentation à Montpellier : horaires d'ouverture, note Google 3,9/5 (46 avis), téléphone, adresse et itinéraire.",
+    "chapo": "Epicerie By Night 2, commerce d'alimentation au 56 Avenue Charles Flahault, à Montpellier. Ouvert sept jours sur sept au relevé du 8 novembre 2026. Téléphone : 04 67 66 40 52. Note Google : 3,9 sur 5 pour 46 avis.",
+    "sections": [
+      {
+        "id": "presentation",
+        "titre": "Epicerie By Night 2 en quelques mots",
+        "paragraphes": [
+          "Sur Google, l'établissement est classé « Épicerie », dans notre rubrique Commerce d'alimentation.",
+          "D'après le relevé du 8 novembre 2026, l'établissement est ouvert sept jours sur sept. Le détail jour par jour figure plus bas."
+        ]
+      },
+      {
+        "id": "prestations",
+        "titre": "Services et équipements de Epicerie By Night 2",
+        "paragraphes": [
+          "Proposé : livraison.",
+          "Non proposé selon la fiche Google : toilettes.",
+          "Moyens de paiement déclarés : carte bancaire, carte de débit et paiement sans contact.",
+          "Ces indications sont déclarées par l'établissement sur sa fiche Google (relevé du 8 novembre 2026)."
+        ]
+      },
+      {
+        "id": "acces",
+        "titre": "Adresse et accès",
+        "paragraphes": [
+          "L'établissement est situé au 56 Avenue Charles Flahault, 34090 Montpellier.",
+          "Coordonnées GPS : 43.62653, 3.85997. Le bouton Itinéraire de cette page ouvre la navigation."
+        ]
+      },
+      {
+        "id": "contact",
+        "titre": "Contacter Epicerie By Night 2",
+        "paragraphes": [
+          "Le contact se fait par téléphone au 04 67 66 40 52, ou directement sur place aux horaires d'ouverture."
+        ]
+      },
+      {
+        "id": "avis",
+        "titre": "La réputation de Epicerie By Night 2",
+        "paragraphes": [
+          "Note de 3,9 sur 5 pour 46 avis Google au relevé du 8 novembre 2026. Les avis les plus parlants sont compilés ci-dessous, avec un lien vers la fiche d'origine."
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "q": "Quels sont les horaires de Epicerie By Night 2 ?",
+        "r": "Au relevé du 8 novembre 2026, Epicerie By Night 2 était ouvert sept jours sur sept. Dans le détail — lundi : de 12 h à 5 h ; mardi : de 12 h à 5 h ; mercredi : de 12 h à 5 h ; jeudi : de 12 h à 5 h ; vendredi : de 12 h à 5 h ; samedi : de 12 h à 5 h ; dimanche : de 12 h à 5 h. Ces horaires peuvent changer : un appel préalable reste conseillé."
+      },
+      {
+        "q": "Epicerie By Night 2 est-il ouvert le dimanche ?",
+        "r": "Oui : le dimanche, Epicerie By Night 2 est ouvert de 12 h à 5 h (horaires relevés le 8 novembre 2026)."
+      },
+      {
+        "q": "Où se trouve Epicerie By Night 2 ?",
+        "r": "Epicerie By Night 2 se trouve 56 Av. Charles Flahault, 34090 Montpellier. Un lien d'itinéraire est disponible sur cette page."
+      },
+      {
+        "q": "Comment contacter Epicerie By Night 2 ?",
+        "r": "Par téléphone au 04 67 66 40 52, ou directement sur place aux heures d'ouverture."
+      },
+      {
+        "q": "Epicerie By Night 2 propose-t-il la vente à emporter ou la livraison ?",
+        "r": "D'après sa fiche Google (relevé du 8 novembre 2026) — livraison : oui."
+      }
+    ],
+    "genere_le": "2026-11-08"
+  },
+  "statut_google": "OPERATIONAL",
+  "audience": {
+    "clics": 0,
+    "impressions": 0,
+    "position": null,
+    "fenetreJours": 90,
+    "clicsRecents": 0,
+    "fenetreRecenteJours": 28,
+    "source": "search-console",
+    "date": "2026-11-08"
+  }
+}

@@ -111,15 +111,15 @@
     "Parking accessible en fauteuil roulant"
   ],
   "lien_google": "https://maps.google.com/?cid=11955737540816388990&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
-  "site_web_gmb": null,
+  "site_web_gmb": "https://andpro.fr/vitrine-locale/garages-automobile/bourges/trouy-diesel-service/",
   "statut": "publiee",
   "backlink": {
-    "etat": "absent",
-    "premiere_detection": null,
-    "derniere_detection": null,
-    "derniere_verification": "2026-10-22T10:06:20.031Z",
-    "echecs": 1,
-    "url_detectee": null
+    "etat": "present",
+    "premiere_detection": "2026-11-08T11:53:31.474Z",
+    "derniere_detection": "2026-11-08T11:53:31.474Z",
+    "derniere_verification": "2026-11-08T11:53:31.474Z",
+    "echecs": 0,
+    "url_detectee": "https://andpro.fr/vitrine-locale/garages-automobile/bourges/trouy-diesel-service/"
   },
   "suggestion": {
     "etat": "soumise",
@@ -131,7 +131,7 @@
   "dates": {
     "collecte": "2026-10-22",
     "publication": "2026-10-22",
-    "maj": "2026-10-23"
+    "maj": "2026-11-08"
   },
   "source": "google-places",
   "avis_detail": {
@@ -266,13 +266,13 @@
   },
   "statut_google": "OPERATIONAL",
   "audience": {
-    "clics": 11,
-    "impressions": 508,
+    "clics": 13,
+    "impressions": 552,
     "position": 4.6,
     "fenetreJours": 90,
-    "clicsRecents": 11,
+    "clicsRecents": 13,
     "fenetreRecenteJours": 28,
     "source": "search-console",
-    "date": "2026-11-07"
+    "date": "2026-11-08"
   }
 }

@@ -216,7 +216,7 @@
     "clicsRecents": 0,
     "fenetreRecenteJours": 28,
     "source": "search-console",
-    "date": "2026-11-07"
+    "date": "2026-11-08"
   },
   "avis_detail": {
     "releve": "2026-10-20",
@@ -298,5 +298,14 @@
       "parking payant",
       "stationnement payant dans la rue"
     ]
+  },
+  "indexation": {
+    "etat": "non-indexee",
+    "verdict": "NEUTRAL",
+    "couverture": "Google ne reconnaît pas cette URL",
+    "derniere_exploration": null,
+    "canonique_google": null,
+    "source": "inspection",
+    "date": "2026-11-08"
   }
 }

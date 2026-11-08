@@ -1,0 +1,268 @@
+{
+  "id": "ChIJBRQa7biai0cRuA29xPMlsIw",
+  "slug": "washing-machine",
+  "nom": "Washing Machine",
+  "categorie": "garages-automobile",
+  "categorie_gmb": "Station de lavage automobile",
+  "type_principal": "car_wash",
+  "types": [
+    "car_wash",
+    "point_of_interest",
+    "service",
+    "establishment"
+  ],
+  "ville": "Annecy",
+  "ville_slug": "annecy",
+  "adresse": {
+    "rue": "195 Avenue d'Aix-les-Bains",
+    "code_postal": "74600",
+    "departement": "74",
+    "region": "Auvergne-Rhône-Alpes",
+    "pays": "France",
+    "complete": "195 Av. d'Aix-les-Bains, 74600 Annecy"
+  },
+  "telephone": "04 50 09 69 96",
+  "geo": {
+    "latitude": 45.8813031,
+    "longitude": 6.0960198
+  },
+  "note": 4.3,
+  "avis": 201,
+  "horaires": [
+    {
+      "jour": 0,
+      "ferme": false,
+      "creneaux": [
+        [
+          "07:00",
+          "21:00"
+        ]
+      ]
+    },
+    {
+      "jour": 1,
+      "ferme": false,
+      "creneaux": [
+        [
+          "07:00",
+          "21:00"
+        ]
+      ]
+    },
+    {
+      "jour": 2,
+      "ferme": false,
+      "creneaux": [
+        [
+          "07:00",
+          "21:00"
+        ]
+      ]
+    },
+    {
+      "jour": 3,
+      "ferme": false,
+      "creneaux": [
+        [
+          "07:00",
+          "21:00"
+        ]
+      ]
+    },
+    {
+      "jour": 4,
+      "ferme": false,
+      "creneaux": [
+        [
+          "07:00",
+          "21:00"
+        ]
+      ]
+    },
+    {
+      "jour": 5,
+      "ferme": false,
+      "creneaux": [
+        [
+          "07:00",
+          "21:00"
+        ]
+      ]
+    },
+    {
+      "jour": 6,
+      "ferme": false,
+      "creneaux": [
+        [
+          "07:00",
+          "21:00"
+        ]
+      ]
+    }
+  ],
+  "attributs": [],
+  "lien_google": "https://maps.google.com/?cid=10137644490118991288&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
+  "site_web_gmb": null,
+  "statut": "publiee",
+  "backlink": {
+    "etat": "absent",
+    "premiere_detection": null,
+    "derniere_detection": null,
+    "derniere_verification": "2026-11-08T11:53:31.474Z",
+    "echecs": 1,
+    "url_detectee": null
+  },
+  "suggestion": {
+    "etat": "en-attente",
+    "date_soumission": null,
+    "tentatives": 0,
+    "date_email": "2026-11-08"
+  },
+  "retrait": null,
+  "dates": {
+    "collecte": "2026-11-08",
+    "publication": "2026-11-08",
+    "maj": "2026-11-08"
+  },
+  "source": "google-places",
+  "avis_detail": {
+    "releve": "2026-11-08",
+    "liste": [
+      {
+        "note": 4,
+        "texte": "Mercredi 26 Août 2026 je suis allé à la station pour aspirer mon van. Je me suis stationné sur la 1er borne. L'aspirateur ne fonctionnait pas normalement. Du coup, j'ai finin mon jeton avec la soufflette. Puis je me suis déplacé sur la borne suivante. Parfait fonctionnement. Dommage qu'on ne puisse pas avoir un recours.",
+        "langue": "fr",
+        "date": "2026-08-28",
+        "auteur": "Christian BESOMBES",
+        "auteur_lien": "https://www.google.com/maps/contrib/105409390791391156963/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT21aM1NUZDFORlJHWkVKTE9VaDBkWEJuYmpadVdrRRAB!2m1!1s0x478b9ab8ed1a1405:0x8cb025f3c4bd0db8"
+      },
+      {
+        "note": 5,
+        "texte": "Station lavage au très bon rapport qualité-prix, peu d'attente en général et un lieu toujours bien entretenu, ça fait plaisir 👍🏾",
+        "langue": "fr",
+        "date": "2026-07-23",
+        "auteur": "Jeez Coffin",
+        "auteur_lien": "https://www.google.com/maps/contrib/115448256296334247098/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2poT2RFeDNVV2RpWjFObFVtZG1MVXhyZDFsb01HYxAB!2m1!1s0x478b9ab8ed1a1405:0x8cb025f3c4bd0db8"
+      },
+      {
+        "note": 1,
+        "texte": "Arrivé à 21h03, tout est fermé alors qu'il est indiqué fermeture à 21h30.",
+        "langue": "fr",
+        "date": "2026-05-19",
+        "auteur": "Thomas",
+        "auteur_lien": "https://www.google.com/maps/contrib/107259743805667651682/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2t0dU1rczFNMEZCZW5GTFpUaEtRMFkwVVU1bFNFRRAB!2m1!1s0x478b9ab8ed1a1405:0x8cb025f3c4bd0db8"
+      },
+      {
+        "note": 5,
+        "texte": "Je suis passé là sur les indications d'un technicien Jean Lain Citroën ! Quelle agréable surprise de découvrir un Espace de lavage aussi bien entretenu et spacieux ! Je suis plutôt novice sur l'utilisation de ce système de nettoyage et par chance le Responsable à l'Accueil est d'une Amabilité formidable et m'a donné toutes les informations nécessaires pour faire le nettoyage de mon Van ! Il m'a également mis un escabeau à disposition pour faire le toit du Van. J'ai pu également me stationner ensuite pour passer mon aspirateur personnel et nettoyer les intérieurs de portière. Bien qu'il soit éloigné de mon domicile c'est là que je vais retourner quand cela sera nécessaire. Le Monsieur de l'accueil m'a également fourni une carte et expliqué comment la chargé est l'utiliser à mon prochain passage ! En plus on gagne quelques euros avec ! J'ai pris un peu de temps pour laisser cet Avis car franchement vu le temps et l'aide que l'on m'a donné pour m'aider à utiliser le matériel correctement et facilement c'est juste un retour de bon procédé ! Je vous conseille d'aller y faire un nettoyage si vous aimez la qualité et le bon Accueil ! Jack Annecy.",
+        "langue": "fr",
+        "date": "2026-05-13",
+        "auteur": "Jack Annecy",
+        "auteur_lien": "https://www.google.com/maps/contrib/103535370644237081678/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT21sMmJIbElkMEUzWDBKZlpHVXdNRWd3Ym5sSVpuYxAB!2m1!1s0x478b9ab8ed1a1405:0x8cb025f3c4bd0db8"
+      },
+      {
+        "note": 5,
+        "texte": "Jamais eu un lavage aussi performant !!!\nJ'ai pris les rouleaux programme \"intégral\".  18€ mais de grande qualité (commelejourdela livraison. Pour info, il y'a un programme en ore plus poussé et des programmes Plu basiques moins chers. Bref tout le monde y trouve son compte. De la place, des lances hautes pression  en plus....",
+        "langue": "fr",
+        "date": "2025-08-12",
+        "auteur": "Karicsan KARICSAN",
+        "auteur_lien": "https://www.google.com/maps/contrib/106009937402316491230/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xsdFF6ZFZiWFZPYUhkTFJIaGtTV0Y1VW5Kb1dHYxAB!2m1!1s0x478b9ab8ed1a1405:0x8cb025f3c4bd0db8"
+      }
+    ]
+  },
+  "services": {
+    "releve": "2026-11-08",
+    "options": {
+      "restroom": false
+    },
+    "paiement": [
+      "carte bancaire",
+      "carte de débit",
+      "paiement sans contact"
+    ],
+    "parking": []
+  },
+  "redaction": {
+    "version": 2,
+    "titre": "Washing Machine — Garage et automobile à Annecy",
+    "meta_titre": "Washing Machine à Annecy : horaires, avis, téléphone",
+    "meta_description": "Washing Machine, garage et automobile à Annecy : horaires d'ouverture, note Google 4,3/5 (201 avis), téléphone, adresse et itinéraire.",
+    "chapo": "Washing Machine est un garage et automobile au 195 Avenue d'Aix-les-Bains, à Annecy. Ouvert sept jours sur sept au relevé du 8 novembre 2026. Téléphone : 04 50 09 69 96. Note Google : 4,3 sur 5 pour 201 avis.",
+    "sections": [
+      {
+        "id": "presentation",
+        "titre": "Washing Machine en quelques mots",
+        "paragraphes": [
+          "Sur Google, l'établissement est classé « Station de lavage automobile », dans notre rubrique Garage et automobile.",
+          "D'après le relevé du 8 novembre 2026, l'établissement est ouvert sept jours sur sept. Le détail jour par jour figure plus bas."
+        ]
+      },
+      {
+        "id": "prestations",
+        "titre": "Services et équipements de Washing Machine",
+        "paragraphes": [
+          "Non proposé selon la fiche Google : toilettes.",
+          "Moyens de paiement déclarés : carte bancaire, carte de débit et paiement sans contact.",
+          "Ces indications sont déclarées par l'établissement sur sa fiche Google (relevé du 8 novembre 2026)."
+        ]
+      },
+      {
+        "id": "acces",
+        "titre": "Adresse et accès",
+        "paragraphes": [
+          "L'établissement est situé au 195 Avenue d'Aix-les-Bains, 74600 Annecy.",
+          "Coordonnées GPS : 45.88130, 6.09602. Le bouton Itinéraire de cette page ouvre la navigation."
+        ]
+      },
+      {
+        "id": "contact",
+        "titre": "Contacter Washing Machine",
+        "paragraphes": [
+          "Le contact se fait par téléphone au 04 50 09 69 96, ou directement sur place aux horaires d'ouverture."
+        ]
+      },
+      {
+        "id": "avis",
+        "titre": "La réputation de Washing Machine",
+        "paragraphes": [
+          "Note de 4,3 sur 5 pour 201 avis Google au relevé du 8 novembre 2026. Les avis les plus parlants sont compilés ci-dessous, avec un lien vers la fiche d'origine."
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "q": "Quels sont les horaires de Washing Machine ?",
+        "r": "Au relevé du 8 novembre 2026, Washing Machine était ouvert sept jours sur sept. Dans le détail — lundi : de 7 h à 21 h ; mardi : de 7 h à 21 h ; mercredi : de 7 h à 21 h ; jeudi : de 7 h à 21 h ; vendredi : de 7 h à 21 h ; samedi : de 7 h à 21 h ; dimanche : de 7 h à 21 h. Ces horaires peuvent changer : un appel préalable reste conseillé."
+      },
+      {
+        "q": "Washing Machine est-il ouvert le dimanche ?",
+        "r": "Oui : le dimanche, Washing Machine est ouvert de 7 h à 21 h (horaires relevés le 8 novembre 2026)."
+      },
+      {
+        "q": "Où se trouve Washing Machine ?",
+        "r": "Washing Machine se trouve 195 Av. d'Aix-les-Bains, 74600 Annecy. Un lien d'itinéraire est disponible sur cette page."
+      },
+      {
+        "q": "Comment contacter Washing Machine ?",
+        "r": "Par téléphone au 04 50 09 69 96, ou directement sur place aux heures d'ouverture."
+      }
+    ],
+    "genere_le": "2026-11-08"
+  },
+  "statut_google": "OPERATIONAL",
+  "audience": {
+    "clics": 0,
+    "impressions": 0,
+    "position": null,
+    "fenetreJours": 90,
+    "clicsRecents": 0,
+    "fenetreRecenteJours": 28,
+    "source": "search-console",
+    "date": "2026-11-08"
+  }
+}

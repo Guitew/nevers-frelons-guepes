@@ -1,0 +1,278 @@
+{
+  "id": "ChIJs-Rp3zZ360cRwXfsNBtbBzs",
+  "slug": "massini-alexandre",
+  "nom": "Massini Alexandre",
+  "categorie": "boulangeries-patisseries",
+  "categorie_gmb": "Boulangerie",
+  "type_principal": "bakery",
+  "types": [
+    "bakery",
+    "food_store",
+    "food",
+    "store",
+    "point_of_interest",
+    "establishment"
+  ],
+  "ville": "Fains-Véel",
+  "ville_slug": "fains-veel",
+  "adresse": {
+    "rue": "4 Rue du Château",
+    "code_postal": "55000",
+    "departement": "55",
+    "region": "Grand Est",
+    "pays": "France",
+    "complete": "4 Rue du Château, 55000 Fains-Véel"
+  },
+  "telephone": "03 29 45 14 30",
+  "geo": {
+    "latitude": 48.7905258,
+    "longitude": 5.1243669
+  },
+  "note": 4.5,
+  "avis": 119,
+  "horaires": [
+    {
+      "jour": 0,
+      "ferme": false,
+      "creneaux": [
+        [
+          "04:00",
+          "19:00"
+        ]
+      ]
+    },
+    {
+      "jour": 1,
+      "ferme": false,
+      "creneaux": [
+        [
+          "04:30",
+          "19:00"
+        ]
+      ]
+    },
+    {
+      "jour": 2,
+      "ferme": true,
+      "creneaux": []
+    },
+    {
+      "jour": 3,
+      "ferme": false,
+      "creneaux": [
+        [
+          "04:00",
+          "19:00"
+        ]
+      ]
+    },
+    {
+      "jour": 4,
+      "ferme": false,
+      "creneaux": [
+        [
+          "04:00",
+          "19:00"
+        ]
+      ]
+    },
+    {
+      "jour": 5,
+      "ferme": false,
+      "creneaux": [
+        [
+          "04:00",
+          "19:00"
+        ]
+      ]
+    },
+    {
+      "jour": 6,
+      "ferme": false,
+      "creneaux": [
+        [
+          "04:00",
+          "19:00"
+        ]
+      ]
+    }
+  ],
+  "attributs": [],
+  "lien_google": "https://maps.google.com/?cid=4253468545484879809&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
+  "site_web_gmb": null,
+  "statut": "publiee",
+  "backlink": {
+    "etat": "absent",
+    "premiere_detection": null,
+    "derniere_detection": null,
+    "derniere_verification": "2026-11-08T11:53:31.474Z",
+    "echecs": 1,
+    "url_detectee": null
+  },
+  "suggestion": {
+    "etat": "en-attente",
+    "date_soumission": null,
+    "tentatives": 0,
+    "date_email": "2026-11-08"
+  },
+  "retrait": null,
+  "dates": {
+    "collecte": "2026-11-08",
+    "publication": "2026-11-08",
+    "maj": "2026-11-08"
+  },
+  "source": "google-places",
+  "avis_detail": {
+    "releve": "2026-11-08",
+    "liste": [
+      {
+        "note": 5,
+        "texte": "les meilleurs pâtes de meuse es je pèse mes mots. Tellement agréable en sortant du travaille merci beaucoup",
+        "langue": "fr",
+        "date": "2026-10-12",
+        "auteur": "Estzee Estzee",
+        "auteur_lien": "https://www.google.com/maps/contrib/103405391894165065291/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25wTVFTMDViRjkxVVhNME5YQTROSGt6WDFGNFluYxAB!2m1!1s0x47eb7736df69e4b3:0x3b075b1b34ec77c1"
+      },
+      {
+        "note": 1,
+        "texte": "Passée  ce dimanche 26 juillet à 07h45 .3 patisseries achetés dont 2 tartelettes au citron  à 4€ piéces, fond de tarte mou et detrempé  !! Ca fait cher pour un gateau soit disant du jour ........dommage car la creme citron était bonne",
+        "langue": "fr",
+        "date": "2026-07-26",
+        "auteur": "Christelle Av",
+        "auteur_lien": "https://www.google.com/maps/contrib/114315616894618868372/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xaWlNITjRNMWRWZFhvM1RWWm5UbXhUUjFrdFVWRRAB!2m1!1s0x47eb7736df69e4b3:0x3b075b1b34ec77c1"
+      },
+      {
+        "note": 1,
+        "texte": "J’adorais cette boulangerie pour son pain généreux et bien frais MAIS CELA FAIT 1 MOIS Que le pain et dur a croire quil on changé de boulangerie mes pour ma par je prendrais mon pain chez maginot maintenant ! Les 2 vendeuses pour le coup rien a dire mes très déçu",
+        "langue": "fr",
+        "date": "2026-06-27",
+        "auteur": "Dim Tex",
+        "auteur_lien": "https://www.google.com/maps/contrib/117995896326169606637/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xwVFlsaHpkak5HUkZWVmJVZHJOMFZrWDJGc2RHYxAB!2m1!1s0x47eb7736df69e4b3:0x3b075b1b34ec77c1"
+      },
+      {
+        "note": 5,
+        "texte": "Pour ma génération, une boulangerie qui ouvre encore tout le dimanche mérite cinq étoiles d’office. En tant que touristes arrivant dans le gîte un dimanche en fin d’après-midi sans pouvoir faire de courses car tout est fermé, verrouillé, tu respires à nouveau quand tu ouvres la porte d’une boulangerie. Et rebelote le lendemain matin ! Les pâtisseries sont grosses, les éclairs recouverts de fruits sont délicieux, pain et viennoiseries à la hauteur.",
+        "langue": "fr",
+        "date": "2026-06-16",
+        "auteur": "Paschalis",
+        "auteur_lien": "https://www.google.com/maps/contrib/108719816851637628340/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25kV1ptNTNZV2RFVUZScE0xZENjR3hzUlV4RVJHYxAB!2m1!1s0x47eb7736df69e4b3:0x3b075b1b34ec77c1"
+      },
+      {
+        "note": 5,
+        "texte": "Jamais déçu de nos achats dans cette boulangerie ! Un grand merci pour ce magnifique gâteau !! Il est excellent !",
+        "langue": "fr",
+        "date": "2025-04-03",
+        "auteur": "Alice Brt",
+        "auteur_lien": "https://www.google.com/maps/contrib/109856413578157752442/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnTUNJOVk2OWtnRRAB!2m1!1s0x47eb7736df69e4b3:0x3b075b1b34ec77c1"
+      }
+    ]
+  },
+  "services": {
+    "releve": "2026-11-08",
+    "prix": "PRICE_LEVEL_INEXPENSIVE",
+    "options": {
+      "delivery": false,
+      "servesBreakfast": false,
+      "servesCoffee": false,
+      "restroom": false
+    },
+    "paiement": [
+      "carte bancaire",
+      "carte de débit",
+      "paiement sans contact"
+    ],
+    "parking": []
+  },
+  "redaction": {
+    "version": 2,
+    "titre": "Massini Alexandre — Boulangerie-pâtisserie à Fains-Véel",
+    "meta_titre": "Massini Alexandre à Fains-Véel : horaires, avis, téléphone",
+    "meta_description": "Massini Alexandre, boulangerie-pâtisserie à Fains-Véel : horaires d'ouverture, note Google 4,5/5 (119 avis), téléphone, adresse et itinéraire.",
+    "chapo": "Massini Alexandre, boulangerie-pâtisserie au 4 Rue du Château, à Fains-Véel. Ouvert tous les jours sauf le mercredi au relevé du 8 novembre 2026. Téléphone : 03 29 45 14 30. Note Google : 4,5 sur 5 pour 119 avis.",
+    "sections": [
+      {
+        "id": "presentation",
+        "titre": "Massini Alexandre en quelques mots",
+        "paragraphes": [
+          "Sur Google, l'établissement est classé « Boulangerie », dans notre rubrique Boulangerie-pâtisserie.",
+          "Niveau de prix indiqué sur la fiche Google : € (bon marché).",
+          "D'après le relevé du 8 novembre 2026, l'établissement est ouvert tous les jours sauf le mercredi. Le détail jour par jour figure plus bas."
+        ]
+      },
+      {
+        "id": "prestations",
+        "titre": "Services et équipements de Massini Alexandre",
+        "paragraphes": [
+          "Non proposé selon la fiche Google : livraison, petit-déjeuner, café et toilettes.",
+          "Moyens de paiement déclarés : carte bancaire, carte de débit et paiement sans contact.",
+          "Ces indications sont déclarées par l'établissement sur sa fiche Google (relevé du 8 novembre 2026)."
+        ]
+      },
+      {
+        "id": "acces",
+        "titre": "Adresse et accès",
+        "paragraphes": [
+          "L'établissement est situé au 4 Rue du Château, 55000 Fains-Véel.",
+          "Coordonnées GPS : 48.79053, 5.12437. Le bouton Itinéraire de cette page ouvre la navigation."
+        ]
+      },
+      {
+        "id": "contact",
+        "titre": "Contacter Massini Alexandre",
+        "paragraphes": [
+          "Le contact se fait par téléphone au 03 29 45 14 30, ou directement sur place aux horaires d'ouverture."
+        ]
+      },
+      {
+        "id": "avis",
+        "titre": "La réputation de Massini Alexandre",
+        "paragraphes": [
+          "Note de 4,5 sur 5 pour 119 avis Google au relevé du 8 novembre 2026. Les avis les plus parlants sont compilés ci-dessous, avec un lien vers la fiche d'origine."
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "q": "Quels sont les horaires de Massini Alexandre ?",
+        "r": "Au relevé du 8 novembre 2026, Massini Alexandre était ouvert tous les jours sauf le mercredi. Dans le détail — lundi : de 4 h à 19 h ; mardi : de 4 h 30 à 19 h ; mercredi : fermé ; jeudi : de 4 h à 19 h ; vendredi : de 4 h à 19 h ; samedi : de 4 h à 19 h ; dimanche : de 4 h à 19 h. Ces horaires peuvent changer : un appel préalable reste conseillé."
+      },
+      {
+        "q": "Massini Alexandre est-il ouvert le dimanche ?",
+        "r": "Oui : le dimanche, Massini Alexandre est ouvert de 4 h à 19 h (horaires relevés le 8 novembre 2026)."
+      },
+      {
+        "q": "Où se trouve Massini Alexandre ?",
+        "r": "Massini Alexandre se trouve 4 Rue du Château, 55000 Fains-Véel. Un lien d'itinéraire est disponible sur cette page."
+      },
+      {
+        "q": "Comment contacter Massini Alexandre ?",
+        "r": "Par téléphone au 03 29 45 14 30, ou directement sur place aux heures d'ouverture."
+      },
+      {
+        "q": "Massini Alexandre propose-t-il la vente à emporter ou la livraison ?",
+        "r": "D'après sa fiche Google (relevé du 8 novembre 2026) — livraison : non."
+      },
+      {
+        "q": "Quel est le niveau de prix de Massini Alexandre ?",
+        "r": "Google classe Massini Alexandre au niveau de prix € (bon marché), sur une échelle de € à €€€€ établie à partir des avis clients."
+      }
+    ],
+    "genere_le": "2026-11-08"
+  },
+  "statut_google": "OPERATIONAL",
+  "audience": {
+    "clics": 0,
+    "impressions": 0,
+    "position": null,
+    "fenetreJours": 90,
+    "clicsRecents": 0,
+    "fenetreRecenteJours": 28,
+    "source": "search-console",
+    "date": "2026-11-08"
+  }
+}
