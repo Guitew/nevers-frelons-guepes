@@ -27,7 +27,7 @@
     "longitude": 0.7594932999999999
   },
   "note": 3.7,
-  "avis": 42,
+  "avis": 43,
   "horaires": null,
   "attributs": [
     "Parking accessible en fauteuil roulant"
@@ -38,8 +38,8 @@
   "backlink": {
     "etat": "present",
     "premiere_detection": "2026-10-24T09:28:34.818Z",
-    "derniere_detection": "2026-10-24T09:28:34.818Z",
-    "derniere_verification": "2026-10-24T09:28:34.818Z",
+    "derniere_detection": "2026-11-09T13:50:08.159Z",
+    "derniere_verification": "2026-11-09T13:50:08.159Z",
     "echecs": 0,
     "url_detectee": "https://andpro.fr/vitrine-locale/transport-demenagement/saint-pierre-des-corps/auchan-retail-logistique-st-pierre-des-corps/"
   },
@@ -60,7 +60,7 @@
   "dates": {
     "collecte": "2026-10-10",
     "publication": "2026-10-10",
-    "maj": "2026-10-24"
+    "maj": "2026-11-09"
   },
   "source": "google-places",
   "redaction": {
@@ -114,14 +114,14 @@
   },
   "statut_google": "OPERATIONAL",
   "audience": {
-    "clics": 16,
-    "impressions": 588,
+    "clics": 17,
+    "impressions": 613,
     "position": 3.7,
     "fenetreJours": 90,
-    "clicsRecents": 16,
+    "clicsRecents": 17,
     "fenetreRecenteJours": 28,
     "source": "search-console",
-    "date": "2026-11-08"
+    "date": "2026-11-09"
   },
   "avis_detail": {
     "releve": "2026-10-24",

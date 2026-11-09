@@ -1,0 +1,286 @@
+{
+  "id": "ChIJLb4pOFV_CEgRE0KQC64IBMI",
+  "slug": "garage-najasa-abiss-automobiles",
+  "nom": "Garage Najasa - Abiss Automobiles",
+  "categorie": "garages-automobile",
+  "categorie_gmb": "Garage automobile",
+  "type_principal": "car_repair",
+  "types": [
+    "car_repair",
+    "point_of_interest",
+    "service",
+    "establishment"
+  ],
+  "ville": "Angers",
+  "ville_slug": "angers",
+  "adresse": {
+    "rue": "16 Route de Bouchemaine",
+    "code_postal": "49000",
+    "departement": "49",
+    "region": "Pays de la Loire",
+    "pays": "France",
+    "complete": "16 Rte de Bouchemaine, 49000 Angers"
+  },
+  "telephone": "02 41 66 29 84",
+  "geo": {
+    "latitude": 47.4485779,
+    "longitude": -0.5737375
+  },
+  "note": 4.1,
+  "avis": 125,
+  "horaires": [
+    {
+      "jour": 0,
+      "ferme": false,
+      "creneaux": [
+        [
+          "08:00",
+          "12:00"
+        ],
+        [
+          "14:00",
+          "19:00"
+        ]
+      ]
+    },
+    {
+      "jour": 1,
+      "ferme": false,
+      "creneaux": [
+        [
+          "08:00",
+          "12:00"
+        ],
+        [
+          "14:00",
+          "19:00"
+        ]
+      ]
+    },
+    {
+      "jour": 2,
+      "ferme": false,
+      "creneaux": [
+        [
+          "08:00",
+          "12:00"
+        ],
+        [
+          "14:00",
+          "19:00"
+        ]
+      ]
+    },
+    {
+      "jour": 3,
+      "ferme": false,
+      "creneaux": [
+        [
+          "08:00",
+          "12:00"
+        ],
+        [
+          "14:00",
+          "19:00"
+        ]
+      ]
+    },
+    {
+      "jour": 4,
+      "ferme": false,
+      "creneaux": [
+        [
+          "08:00",
+          "12:00"
+        ],
+        [
+          "14:00",
+          "19:00"
+        ]
+      ]
+    },
+    {
+      "jour": 5,
+      "ferme": false,
+      "creneaux": [
+        [
+          "09:00",
+          "12:00"
+        ]
+      ]
+    },
+    {
+      "jour": 6,
+      "ferme": true,
+      "creneaux": []
+    }
+  ],
+  "attributs": [
+    "Entrée accessible en fauteuil roulant",
+    "Parking accessible en fauteuil roulant"
+  ],
+  "lien_google": "https://maps.google.com/?cid=13980308686876197395&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
+  "site_web_gmb": null,
+  "statut": "publiee",
+  "backlink": {
+    "etat": "absent",
+    "premiere_detection": null,
+    "derniere_detection": null,
+    "derniere_verification": "2026-11-09T13:50:08.159Z",
+    "echecs": 1,
+    "url_detectee": null
+  },
+  "suggestion": {
+    "etat": "en-attente",
+    "date_soumission": null,
+    "tentatives": 0,
+    "date_email": "2026-11-09"
+  },
+  "retrait": null,
+  "dates": {
+    "collecte": "2026-11-09",
+    "publication": "2026-11-09",
+    "maj": "2026-11-09"
+  },
+  "source": "google-places",
+  "avis_detail": {
+    "releve": "2026-11-09",
+    "liste": [
+      {
+        "note": 5,
+        "texte": "Ils m'ont apportée une aide précieuse, un dépannage sans rendez-vous, et avec le sourire. Merci particulierement à Dorian !",
+        "langue": "fr",
+        "date": "2026-10-08",
+        "auteur": "Gaby Paya",
+        "auteur_lien": "https://www.google.com/maps/contrib/112499124813898817514/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2pKcVl6Sk1hblYwU0doUVdEQXlNbnBETUdrNFpHYxAB!2m1!1s0x48087f553829be2d:0xc20408ae0b904213"
+      },
+      {
+        "note": 5,
+        "texte": "Très satisfait de mon passage dans ce garage ! Équipe professionnelle, accueillante et à l’écoute. Les explications étaient claires, le travail a été effectué rapidement et sérieusement. J’ai également apprécié la transparence concernant les réparations et les tarifs.\nJe recommande sans hésiter ce garage, merci à toute l’équipe pour votre sérieux et votre professionnalisme !",
+        "langue": "fr",
+        "date": "2026-09-21",
+        "auteur": "Killian Plais",
+        "auteur_lien": "https://www.google.com/maps/contrib/107882402606010165073/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25WUlUyWXpPRkJvUmtseFoxazFURVpaTm5CUU4zYxAB!2m1!1s0x48087f553829be2d:0xc20408ae0b904213"
+      },
+      {
+        "note": 5,
+        "texte": "Secrétaire très gentille, garagistes très compétents, tarif correct.\nC’est un garage très humain qui ne vous prend pas pour des imbéciles.\nIls ont toute ma confiance.\nJ’ai déposé mon trafic pour un problème d’injection et de fap, RAS depuis.",
+        "langue": "fr",
+        "date": "2026-07-29",
+        "auteur": "Lorcery Nathan",
+        "auteur_lien": "https://www.google.com/maps/contrib/100856597574748881821/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25sR1FXWnVWblJuTUhCUU1qaDJXRFJTYmxwZlNFRRAB!2m1!1s0x48087f553829be2d:0xc20408ae0b904213"
+      },
+      {
+        "note": 5,
+        "texte": "A bien voulu regarder ma voiture sans rdv et n' étant pas une cliente. A su régler le problème. Très avenant et professionnel, je recommande sans hésiter et retournerais pour mes prochaines révisions.",
+        "langue": "fr",
+        "date": "2026-05-06",
+        "auteur": "Anne Clergeau",
+        "auteur_lien": "https://www.google.com/maps/contrib/110328200353773325364/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT20xa2FHSjRiakZpVldFdFF6ZFhVMUZtUkY5SFgyYxAB!2m1!1s0x48087f553829be2d:0xc20408ae0b904213"
+      },
+      {
+        "note": 1,
+        "texte": "A fuir Le patron est aimable rais,  mais diagnostic nulle,  soit disant une buté d'embrayage 1250€ quand même...Une semaine apres la réparation, je suis revenu pour le même bruit.... le mécanicien regarde avec moi,  il me dit de le rejoindre à l'acceuil, et devinez quoi le temps que j'y arrive,  le patron me dit oh mais c'est la distribution.... Elle a déjà été changé 1 an auparavant,  il me disait qu'on pouvait faire fonctionner la garantie des pièces......je lui dit qu'il faut que je retrouve la facture, il me dit prenez votre temps on regardera ce qui a été réparé,  je le rappelle une semaine plus tard afin de lui envoyer la facture,  mais je tombe sur sa secrétaire, pas aimable pas souriante qui m'envoie sur les roses 🌹 🌹 🌹...finalement j'ai le patron au téléphone plus tard qui me dit venez avec la facture de la courroie et comme ça on voit ca ensemble....finalement je vais dans un autre garage, je prend la facture de la réparation de l'ambrayage, lui explique la situation... et devinez quoi....c'est la pompe à huile....même bruit...comme c'est étonnant,  et vu les prix pratiqué pour ce garage,  j'aurais payé combien en fait.....\nC'est minable...il m'a vu de loin, et comme je tiens à ma voiture j'aurais payé une fortune d'autant plus que je suis une femme.....mesdames,  fuyez.....",
+        "langue": "fr",
+        "date": "2026-03-18",
+        "auteur": "Helena David",
+        "auteur_lien": "https://www.google.com/maps/contrib/105225853849680819956/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25OM1NXcG1TblpXZGxaRUxXOXBaWGhZYlVwUk1FRRAB!2m1!1s0x48087f553829be2d:0xc20408ae0b904213"
+      }
+    ]
+  },
+  "services": {
+    "releve": "2026-11-09",
+    "options": {},
+    "paiement": [
+      "carte bancaire",
+      "carte de débit"
+    ],
+    "parking": []
+  },
+  "redaction": {
+    "version": 2,
+    "titre": "Garage Najasa - Abiss Automobiles — Garage et automobile à Angers",
+    "meta_titre": "Garage Najasa - Abiss Automobiles à Angers : horaires, avis",
+    "meta_description": "Garage Najasa - Abiss Automobiles, garage et automobile à Angers : horaires d'ouverture, note Google 4,1/5 (125 avis), téléphone, adresse et itinéraire.",
+    "chapo": "Garage Najasa - Abiss Automobiles, garage et automobile au 16 Route de Bouchemaine, à Angers. Ouvert tous les jours sauf le dimanche au relevé du 9 novembre 2026. Téléphone : 02 41 66 29 84. Note Google : 4,1 sur 5 pour 125 avis.",
+    "sections": [
+      {
+        "id": "presentation",
+        "titre": "Garage Najasa - Abiss Automobiles en quelques mots",
+        "paragraphes": [
+          "Sur Google, l'établissement est classé « Garage automobile », dans notre rubrique Garage et automobile.",
+          "D'après le relevé du 9 novembre 2026, l'établissement est ouvert tous les jours sauf le dimanche. Le détail jour par jour figure plus bas."
+        ]
+      },
+      {
+        "id": "prestations",
+        "titre": "Services et équipements de Garage Najasa - Abiss Automobiles",
+        "paragraphes": [
+          "Moyens de paiement déclarés : carte bancaire et carte de débit.",
+          "Ces indications sont déclarées par l'établissement sur sa fiche Google (relevé du 9 novembre 2026)."
+        ]
+      },
+      {
+        "id": "acces",
+        "titre": "Adresse et accès",
+        "paragraphes": [
+          "L'établissement est situé au 16 Route de Bouchemaine, 49000 Angers.",
+          "Coordonnées GPS : 47.44858, -0.57374. Le bouton Itinéraire de cette page ouvre la navigation."
+        ]
+      },
+      {
+        "id": "contact",
+        "titre": "Contacter Garage Najasa - Abiss Automobiles",
+        "paragraphes": [
+          "Le contact se fait par téléphone au 02 41 66 29 84, ou directement sur place aux horaires d'ouverture."
+        ]
+      },
+      {
+        "id": "avis",
+        "titre": "La réputation de Garage Najasa - Abiss Automobiles",
+        "paragraphes": [
+          "Note de 4,1 sur 5 pour 125 avis Google au relevé du 9 novembre 2026. Les avis les plus parlants sont compilés ci-dessous, avec un lien vers la fiche d'origine."
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "q": "Quels sont les horaires de Garage Najasa - Abiss Automobiles ?",
+        "r": "Au relevé du 9 novembre 2026, Garage Najasa - Abiss Automobiles était ouvert tous les jours sauf le dimanche. Dans le détail — lundi : de 8 h à 12 h et de 14 h à 19 h ; mardi : de 8 h à 12 h et de 14 h à 19 h ; mercredi : de 8 h à 12 h et de 14 h à 19 h ; jeudi : de 8 h à 12 h et de 14 h à 19 h ; vendredi : de 8 h à 12 h et de 14 h à 19 h ; samedi : de 9 h à 12 h ; dimanche : fermé. Ces horaires peuvent changer : un appel préalable reste conseillé."
+      },
+      {
+        "q": "Garage Najasa - Abiss Automobiles est-il ouvert le dimanche ?",
+        "r": "Non : d'après les horaires relevés le 9 novembre 2026, Garage Najasa - Abiss Automobiles est fermé le dimanche."
+      },
+      {
+        "q": "Où se trouve Garage Najasa - Abiss Automobiles ?",
+        "r": "Garage Najasa - Abiss Automobiles se trouve 16 Rte de Bouchemaine, 49000 Angers. Un lien d'itinéraire est disponible sur cette page."
+      },
+      {
+        "q": "Comment contacter Garage Najasa - Abiss Automobiles ?",
+        "r": "Par téléphone au 02 41 66 29 84, ou directement sur place aux heures d'ouverture."
+      },
+      {
+        "q": "Garage Najasa - Abiss Automobiles est-il accessible aux personnes à mobilité réduite ?",
+        "r": "La fiche Google de l'établissement mentionne : « Entrée accessible en fauteuil roulant ». Cette information est déclarative ; en cas de doute, vérifiez par téléphone."
+      }
+    ],
+    "genere_le": "2026-11-09"
+  },
+  "statut_google": "OPERATIONAL",
+  "audience": {
+    "clics": 0,
+    "impressions": 0,
+    "position": null,
+    "fenetreJours": 90,
+    "clicsRecents": 0,
+    "fenetreRecenteJours": 28,
+    "source": "search-console",
+    "date": "2026-11-09"
+  }
+}

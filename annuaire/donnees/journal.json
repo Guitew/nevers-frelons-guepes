@@ -1,5 +1,151 @@
 [
   {
+    "date": "2026-11-09T13:54:34.553Z",
+    "type": "retrait-410",
+    "id": "ChIJDytNyv0R6kcRqxbAQArb6nw",
+    "nom": "Bar Tabac Le Pedro",
+    "url": "/cafes-bars/charleville-mezieres/bar-tabac-le-pedro/",
+    "motif": "backlink jamais posé après 45 jours de délai de grâce",
+    "cible": null
+  },
+  {
+    "date": "2026-11-09T13:54:34.555Z",
+    "type": "retrait-410",
+    "id": "ChIJBU8qeXVusxIRojxBYFTRJJE",
+    "nom": "Boulangerie d’Angiran",
+    "url": "/boulangeries-patisseries/mende/boulangerie-d-angiran/",
+    "motif": "backlink jamais posé après 45 jours de délai de grâce",
+    "cible": null
+  },
+  {
+    "date": "2026-11-09T13:54:34.558Z",
+    "type": "retrait-410",
+    "id": "ChIJjTYc9V-JrBIRXkJbQ1B_yVg",
+    "nom": "Le Grill de Julia",
+    "url": "/restaurants/cahors/le-grill-de-julia/",
+    "motif": "backlink jamais posé après 45 jours de délai de grâce",
+    "cible": null
+  },
+  {
+    "date": "2026-11-09T13:54:34.558Z",
+    "type": "retrait-410",
+    "id": "ChIJsxS-ryvl5EcRpciXKivDKKw",
+    "nom": "Le Score",
+    "url": "/cafes-bars/orleans/le-score/",
+    "motif": "backlink jamais posé après 45 jours de délai de grâce",
+    "cible": null
+  },
+  {
+    "date": "2026-11-09T13:54:34.559Z",
+    "type": "retrait-410",
+    "id": "ChIJYxCzy9lO7kcRiG3_cWozHOU",
+    "nom": "Pharmacie Boudykkan (Ste Genevieve)",
+    "url": "/pharmacies-opticiens/auxerre/pharmacie-boudykkan-ste-genevieve/",
+    "motif": "backlink jamais posé après 45 jours de délai de grâce",
+    "cible": null
+  },
+  {
+    "date": "2026-11-09T13:50:08.273Z",
+    "type": "backlink-absent",
+    "id": "ChIJp8dnu7vTqRIRWPtAXa2_3nM",
+    "nom": "Cabinet vétérinaire des docteurs Bigot, Bonamy et Rey-Herme à Séméac",
+    "url": null,
+    "precedent": "en-attente"
+  },
+  {
+    "date": "2026-11-09T13:50:08.352Z",
+    "type": "backlink-absent",
+    "id": "ChIJLb4pOFV_CEgRE0KQC64IBMI",
+    "nom": "Garage Najasa - Abiss Automobiles",
+    "url": null,
+    "precedent": "en-attente"
+  },
+  {
+    "date": "2026-11-09T13:50:08.416Z",
+    "type": "backlink-absent",
+    "id": "ChIJy4Mltp3JlkcRjvToM4Zk8vk",
+    "nom": "La Gourmande",
+    "url": null,
+    "precedent": "en-attente"
+  },
+  {
+    "date": "2026-11-09T13:50:08.500Z",
+    "type": "backlink-absent",
+    "id": "ChIJpyo4P_Sr9UcRt1enWnF4v8s",
+    "nom": "Les Comptoirs d'Alice et Jules",
+    "url": null,
+    "precedent": "en-attente"
+  },
+  {
+    "date": "2026-11-09T13:50:08.557Z",
+    "type": "backlink-absent",
+    "id": "ChIJXXk-wIL65UcROYgqx70qNw4",
+    "nom": "Sena Auto",
+    "url": null,
+    "precedent": "en-attente"
+  },
+  {
+    "date": "2026-11-09T13:50:09.591Z",
+    "type": "backlink-present",
+    "id": "ChIJMwd7fUCbyxIR5Puwwdyyw4w",
+    "nom": "Alimentation pied de ville",
+    "url": "https://andpro.fr/vitrine-locale/commerces-alimentation/digne-les-bains/alimentation-pied-de-ville/",
+    "precedent": "absent"
+  },
+  {
+    "date": "2026-11-09T13:50:10.200Z",
+    "type": "backlink-present",
+    "id": "ChIJfYe2m0vRzRIRkT0WGk3VfZs",
+    "nom": "Beau Lavage Niçois",
+    "url": "https://andpro.fr/vitrine-locale/garages-automobile/nice/beau-lavage-nicois/",
+    "precedent": "absent"
+  },
+  {
+    "date": "2026-11-09T13:50:07.724Z",
+    "type": "publication",
+    "id": "ChIJLb4pOFV_CEgRE0KQC64IBMI",
+    "nom": "Garage Najasa - Abiss Automobiles",
+    "url": "/garages-automobile/angers/garage-najasa-abiss-automobiles/",
+    "categorie": "garages-automobile",
+    "source": "google-places"
+  },
+  {
+    "date": "2026-11-09T13:50:07.812Z",
+    "type": "publication",
+    "id": "ChIJp8dnu7vTqRIRWPtAXa2_3nM",
+    "nom": "Cabinet vétérinaire des docteurs Bigot, Bonamy et Rey-Herme à Séméac",
+    "url": "/veterinaires-animaux/semeac/cabinet-veterinaire-des-docteurs-bigot-bonamy-et-rey-herme-a-semeac/",
+    "categorie": "veterinaires-animaux",
+    "source": "google-places"
+  },
+  {
+    "date": "2026-11-09T13:50:07.907Z",
+    "type": "publication",
+    "id": "ChIJpyo4P_Sr9UcRt1enWnF4v8s",
+    "nom": "Les Comptoirs d'Alice et Jules",
+    "url": "/restaurants/saint-etienne/les-comptoirs-d-alice-et-jules/",
+    "categorie": "restaurants",
+    "source": "google-places"
+  },
+  {
+    "date": "2026-11-09T13:50:07.989Z",
+    "type": "publication",
+    "id": "ChIJy4Mltp3JlkcRjvToM4Zk8vk",
+    "nom": "La Gourmande",
+    "url": "/boulangeries-patisseries/strasbourg/la-gourmande/",
+    "categorie": "boulangeries-patisseries",
+    "source": "google-places"
+  },
+  {
+    "date": "2026-11-09T13:50:08.066Z",
+    "type": "publication",
+    "id": "ChIJXXk-wIL65UcROYgqx70qNw4",
+    "nom": "Sena Auto",
+    "url": "/garages-automobile/dammarie-les-lys/sena-auto/",
+    "categorie": "garages-automobile",
+    "source": "google-places"
+  },
+  {
     "date": "2026-11-08T11:58:18.783Z",
     "type": "suggestion-soumise",
     "id": "ChIJ7aaJqc2uthIRrfjWnUTCAC4",

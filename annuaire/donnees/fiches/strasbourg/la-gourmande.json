@@ -1,0 +1,278 @@
+{
+  "id": "ChIJy4Mltp3JlkcRjvToM4Zk8vk",
+  "slug": "la-gourmande",
+  "nom": "La Gourmande",
+  "categorie": "boulangeries-patisseries",
+  "categorie_gmb": "Boulangerie",
+  "type_principal": "bakery",
+  "types": [
+    "bakery",
+    "food_store",
+    "food",
+    "point_of_interest",
+    "store",
+    "establishment"
+  ],
+  "ville": "Strasbourg",
+  "ville_slug": "strasbourg",
+  "adresse": {
+    "rue": "36 Route de la Meinau",
+    "code_postal": "67100",
+    "departement": "67",
+    "region": "Grand Est",
+    "pays": "France",
+    "complete": "36 Rte de la Meinau, 67100 Strasbourg"
+  },
+  "telephone": "09 84 06 38 59",
+  "geo": {
+    "latitude": 48.5527052,
+    "longitude": 7.748850900000001
+  },
+  "note": 4.4,
+  "avis": 235,
+  "horaires": [
+    {
+      "jour": 0,
+      "ferme": false,
+      "creneaux": [
+        [
+          "06:00",
+          "19:00"
+        ]
+      ]
+    },
+    {
+      "jour": 1,
+      "ferme": false,
+      "creneaux": [
+        [
+          "06:00",
+          "19:00"
+        ]
+      ]
+    },
+    {
+      "jour": 2,
+      "ferme": false,
+      "creneaux": [
+        [
+          "06:00",
+          "19:00"
+        ]
+      ]
+    },
+    {
+      "jour": 3,
+      "ferme": false,
+      "creneaux": [
+        [
+          "06:00",
+          "19:00"
+        ]
+      ]
+    },
+    {
+      "jour": 4,
+      "ferme": false,
+      "creneaux": [
+        [
+          "06:00",
+          "19:00"
+        ]
+      ]
+    },
+    {
+      "jour": 5,
+      "ferme": false,
+      "creneaux": [
+        [
+          "06:00",
+          "13:00"
+        ]
+      ]
+    },
+    {
+      "jour": 6,
+      "ferme": false,
+      "creneaux": [
+        [
+          "07:00",
+          "13:00"
+        ]
+      ]
+    }
+  ],
+  "attributs": [],
+  "lien_google": "https://maps.google.com/?cid=18010568387367335054&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
+  "site_web_gmb": null,
+  "statut": "publiee",
+  "backlink": {
+    "etat": "absent",
+    "premiere_detection": null,
+    "derniere_detection": null,
+    "derniere_verification": "2026-11-09T13:50:08.159Z",
+    "echecs": 1,
+    "url_detectee": null
+  },
+  "suggestion": {
+    "etat": "en-attente",
+    "date_soumission": null,
+    "tentatives": 0,
+    "date_email": "2026-11-09"
+  },
+  "retrait": null,
+  "dates": {
+    "collecte": "2026-11-09",
+    "publication": "2026-11-09",
+    "maj": "2026-11-09"
+  },
+  "source": "google-places",
+  "avis_detail": {
+    "releve": "2026-11-09",
+    "liste": [
+      {
+        "note": 3,
+        "texte": "Le pain est très bon et présente une belle variété.\nPar contre les viennoiseries sont moyennes (peut être décongelés).",
+        "langue": "fr",
+        "date": "2026-10-13",
+        "auteur": "alan mi",
+        "auteur_lien": "https://www.google.com/maps/contrib/116182400426622968110/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT21WaWIyVk5TbGhuZWpWdmVrSkpTMUZyUWpjNGNsRRAB!2m1!1s0x4796c99db62583cb:0xf9f2648633e8f48e"
+      },
+      {
+        "note": 5,
+        "texte": "L'équipe y est incroyable et tellement sympathique !\nEt on se régale toujours avec chacun de leur produit.\nJe suis le facteur qui distribue cette adresse depuis 3 ans et je pense être un client pas mal fidèle 🙃\nJe recommande et encore merci à l'équipe qui m'apporte une grande aide actuellement pour mon hydration pendant cette fâcheuse canicule 😁",
+        "langue": "fr",
+        "date": "2026-07-14",
+        "auteur": "Benjamin Bastien",
+        "auteur_lien": "https://www.google.com/maps/contrib/115839921070264847912/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25oT01ua3paRlZ5Vkc5TWNrOW1ZMHBGV1MxSk4zYxAB!2m1!1s0x4796c99db62583cb:0xf9f2648633e8f48e"
+      },
+      {
+        "note": 5,
+        "texte": "Merci à sa Samia pour sa gentillesse et son accueil chaleureux 😊 Les pâtisseries étaient délicieuses,  surtout la tarte au fromage blanc que je recommande vivement 🥰 tout était vraiment très bon. Je reviendrai avec plaisir !",
+        "langue": "fr",
+        "date": "2026-05-17",
+        "auteur": "achour azza",
+        "auteur_lien": "https://www.google.com/maps/contrib/104723030304210544194/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT21aVVNGTlFMV2hxYUVScFdXVjJUVzlsTkRCRGFXYxAB!2m1!1s0x4796c99db62583cb:0xf9f2648633e8f48e"
+      },
+      {
+        "note": 5,
+        "texte": "Une adresse coup de cœur ! Dès qu'on pousse la porte, on est accueilli par une délicieuse odeur de pain chaud et, surtout, par le sourire d’une équipe vraiment au top. Le personnel est d'une gentillesse rare, toujours un mot gentil et de bons conseils malgré l'affluence.\n\nCôté produits, c'est un sans-faute : la baguette est croustillante avec une mie alvéolée parfaite, et les viennoiseries sont pur beurre, comme on les aime. On sent que c’est du fait maison avec passion. Je recommande les yeux fermés !",
+        "langue": "fr",
+        "date": "2026-04-23",
+        "auteur": "Allan Montiel",
+        "auteur_lien": "https://www.google.com/maps/contrib/106743606126301419612/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2tnelJERkNTREJDVDJ4M2VISlNZMTlWTjB0SmFsRRAB!2m1!1s0x4796c99db62583cb:0xf9f2648633e8f48e"
+      },
+      {
+        "note": 5,
+        "texte": "Boulangerie de quartier sympathique, l'accueil est toujours chaleureux, j'y vais depuis des années, nous allions à l'époque à celle d'Aristide Briand et avons connu ses tout premiers débuts. Les prix sont tout à fait corrects et les viennoiseries excellentes. Le pain Nordik est l'un des meilleurs que nous avons pu goûter.",
+        "langue": "fr",
+        "date": "2023-02-19",
+        "auteur": "Lara Bsn",
+        "auteur_lien": "https://www.google.com/maps/contrib/110692258950398967472/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUNoemNXbXR3RRAB!2m1!1s0x4796c99db62583cb:0xf9f2648633e8f48e"
+      }
+    ]
+  },
+  "services": {
+    "releve": "2026-11-09",
+    "prix": "PRICE_LEVEL_INEXPENSIVE",
+    "options": {
+      "takeout": true,
+      "delivery": false,
+      "servesBreakfast": true
+    },
+    "paiement": [],
+    "parking": []
+  },
+  "redaction": {
+    "version": 2,
+    "titre": "La Gourmande — Boulangerie-pâtisserie à Strasbourg",
+    "meta_titre": "La Gourmande à Strasbourg : horaires, avis, téléphone",
+    "meta_description": "La Gourmande, boulangerie-pâtisserie à Strasbourg : horaires d'ouverture, note Google 4,4/5 (235 avis), téléphone, adresse et itinéraire.",
+    "chapo": "Cette fiche présente La Gourmande, une boulangerie-pâtisserie au 36 Route de la Meinau, à Strasbourg. Ouvert sept jours sur sept au relevé du 9 novembre 2026. Téléphone : 09 84 06 38 59. Note Google : 4,4 sur 5 pour 235 avis.",
+    "sections": [
+      {
+        "id": "presentation",
+        "titre": "La Gourmande en quelques mots",
+        "paragraphes": [
+          "Sur Google, l'établissement est classé « Boulangerie », dans notre rubrique Boulangerie-pâtisserie.",
+          "Niveau de prix indiqué sur la fiche Google : € (bon marché).",
+          "D'après le relevé du 9 novembre 2026, l'établissement est ouvert sept jours sur sept. Le détail jour par jour figure plus bas."
+        ]
+      },
+      {
+        "id": "prestations",
+        "titre": "Services et équipements de La Gourmande",
+        "paragraphes": [
+          "Proposé : à emporter et petit-déjeuner.",
+          "Non proposé selon la fiche Google : livraison.",
+          "Ces indications sont déclarées par l'établissement sur sa fiche Google (relevé du 9 novembre 2026)."
+        ]
+      },
+      {
+        "id": "acces",
+        "titre": "Adresse et accès",
+        "paragraphes": [
+          "L'établissement est situé au 36 Route de la Meinau, 67100 Strasbourg.",
+          "Coordonnées GPS : 48.55271, 7.74885. Le bouton Itinéraire de cette page ouvre la navigation."
+        ]
+      },
+      {
+        "id": "contact",
+        "titre": "Contacter La Gourmande",
+        "paragraphes": [
+          "Le contact se fait par téléphone au 09 84 06 38 59, ou directement sur place aux horaires d'ouverture."
+        ]
+      },
+      {
+        "id": "avis",
+        "titre": "La réputation de La Gourmande",
+        "paragraphes": [
+          "Note de 4,4 sur 5 pour 235 avis Google au relevé du 9 novembre 2026. Les avis les plus parlants sont compilés ci-dessous, avec un lien vers la fiche d'origine."
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "q": "Quels sont les horaires de La Gourmande ?",
+        "r": "Au relevé du 9 novembre 2026, La Gourmande était ouvert sept jours sur sept. Dans le détail — lundi : de 6 h à 19 h ; mardi : de 6 h à 19 h ; mercredi : de 6 h à 19 h ; jeudi : de 6 h à 19 h ; vendredi : de 6 h à 19 h ; samedi : de 6 h à 13 h ; dimanche : de 7 h à 13 h. Ces horaires peuvent changer : un appel préalable reste conseillé."
+      },
+      {
+        "q": "La Gourmande est-il ouvert le dimanche ?",
+        "r": "Oui : le dimanche, La Gourmande est ouvert de 7 h à 13 h (horaires relevés le 9 novembre 2026)."
+      },
+      {
+        "q": "Où se trouve La Gourmande ?",
+        "r": "La Gourmande se trouve 36 Rte de la Meinau, 67100 Strasbourg. Un lien d'itinéraire est disponible sur cette page."
+      },
+      {
+        "q": "Comment contacter La Gourmande ?",
+        "r": "Par téléphone au 09 84 06 38 59, ou directement sur place aux heures d'ouverture."
+      },
+      {
+        "q": "La Gourmande propose-t-il la vente à emporter ou la livraison ?",
+        "r": "D'après sa fiche Google (relevé du 9 novembre 2026) — vente à emporter : oui ; livraison : non."
+      },
+      {
+        "q": "Quel est le niveau de prix de La Gourmande ?",
+        "r": "Google classe La Gourmande au niveau de prix € (bon marché), sur une échelle de € à €€€€ établie à partir des avis clients."
+      }
+    ],
+    "genere_le": "2026-11-09"
+  },
+  "statut_google": "OPERATIONAL",
+  "audience": {
+    "clics": 0,
+    "impressions": 0,
+    "position": null,
+    "fenetreJours": 90,
+    "clicsRecents": 0,
+    "fenetreRecenteJours": 28,
+    "source": "search-console",
+    "date": "2026-11-09"
+  }
+}

@@ -102,15 +102,15 @@
   ],
   "attributs": [],
   "lien_google": "https://maps.google.com/?cid=11204345975094525329&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
-  "site_web_gmb": null,
+  "site_web_gmb": "https://andpro.fr/vitrine-locale/garages-automobile/nice/beau-lavage-nicois/",
   "statut": "publiee",
   "backlink": {
-    "etat": "absent",
-    "premiere_detection": null,
-    "derniere_detection": null,
-    "derniere_verification": "2026-10-24T09:28:34.818Z",
-    "echecs": 1,
-    "url_detectee": null
+    "etat": "present",
+    "premiere_detection": "2026-11-09T13:50:08.159Z",
+    "derniere_detection": "2026-11-09T13:50:08.159Z",
+    "derniere_verification": "2026-11-09T13:50:08.159Z",
+    "echecs": 0,
+    "url_detectee": "https://andpro.fr/vitrine-locale/garages-automobile/nice/beau-lavage-nicois/"
   },
   "suggestion": {
     "etat": "soumise",
@@ -122,7 +122,7 @@
   "dates": {
     "collecte": "2026-10-24",
     "publication": "2026-10-24",
-    "maj": "2026-10-27"
+    "maj": "2026-11-09"
   },
   "source": "google-places",
   "avis_detail": {
@@ -255,13 +255,13 @@
   },
   "statut_google": "OPERATIONAL",
   "audience": {
-    "clics": 3,
-    "impressions": 161,
-    "position": 13.1,
+    "clics": 4,
+    "impressions": 190,
+    "position": 11.5,
     "fenetreJours": 90,
-    "clicsRecents": 3,
+    "clicsRecents": 4,
     "fenetreRecenteJours": 28,
     "source": "search-console",
-    "date": "2026-11-08"
+    "date": "2026-11-09"
   }
 }

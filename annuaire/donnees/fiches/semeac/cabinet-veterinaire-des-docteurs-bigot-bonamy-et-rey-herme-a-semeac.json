@@ -1,0 +1,286 @@
+{
+  "id": "ChIJp8dnu7vTqRIRWPtAXa2_3nM",
+  "slug": "cabinet-veterinaire-des-docteurs-bigot-bonamy-et-rey-herme-a-semeac",
+  "nom": "Cabinet vétérinaire des docteurs Bigot, Bonamy et Rey-Herme à Séméac",
+  "categorie": "veterinaires-animaux",
+  "categorie_gmb": "Soins vétérinaires",
+  "type_principal": "veterinary_care",
+  "types": [
+    "veterinary_care",
+    "pet_care",
+    "point_of_interest",
+    "establishment"
+  ],
+  "ville": "Séméac",
+  "ville_slug": "semeac",
+  "adresse": {
+    "rue": "73 Avenue François Mitterrand",
+    "code_postal": "65600",
+    "departement": "65",
+    "region": "Occitanie",
+    "pays": "France",
+    "complete": "73 Av. François Mitterrand, 65600 Séméac"
+  },
+  "telephone": "05 62 37 16 48",
+  "geo": {
+    "latitude": 43.2256925,
+    "longitude": 0.0994529
+  },
+  "note": 4.5,
+  "avis": 275,
+  "horaires": [
+    {
+      "jour": 0,
+      "ferme": false,
+      "creneaux": [
+        [
+          "09:00",
+          "12:00"
+        ],
+        [
+          "14:00",
+          "19:00"
+        ]
+      ]
+    },
+    {
+      "jour": 1,
+      "ferme": false,
+      "creneaux": [
+        [
+          "09:00",
+          "12:00"
+        ],
+        [
+          "14:00",
+          "19:00"
+        ]
+      ]
+    },
+    {
+      "jour": 2,
+      "ferme": false,
+      "creneaux": [
+        [
+          "09:00",
+          "12:00"
+        ],
+        [
+          "14:00",
+          "19:00"
+        ]
+      ]
+    },
+    {
+      "jour": 3,
+      "ferme": false,
+      "creneaux": [
+        [
+          "09:00",
+          "12:00"
+        ],
+        [
+          "14:00",
+          "19:00"
+        ]
+      ]
+    },
+    {
+      "jour": 4,
+      "ferme": false,
+      "creneaux": [
+        [
+          "09:00",
+          "12:00"
+        ],
+        [
+          "14:00",
+          "19:00"
+        ]
+      ]
+    },
+    {
+      "jour": 5,
+      "ferme": false,
+      "creneaux": [
+        [
+          "09:00",
+          "12:00"
+        ]
+      ]
+    },
+    {
+      "jour": 6,
+      "ferme": true,
+      "creneaux": []
+    }
+  ],
+  "attributs": [
+    "Entrée accessible en fauteuil roulant",
+    "Parking accessible en fauteuil roulant",
+    "Places assises accessibles en fauteuil roulant"
+  ],
+  "lien_google": "https://maps.google.com/?cid=8349321510506265432&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
+  "site_web_gmb": null,
+  "statut": "publiee",
+  "backlink": {
+    "etat": "absent",
+    "premiere_detection": null,
+    "derniere_detection": null,
+    "derniere_verification": "2026-11-09T13:50:08.159Z",
+    "echecs": 1,
+    "url_detectee": null
+  },
+  "suggestion": {
+    "etat": "en-attente",
+    "date_soumission": null,
+    "tentatives": 0,
+    "date_email": "2026-11-09"
+  },
+  "retrait": null,
+  "dates": {
+    "collecte": "2026-11-09",
+    "publication": "2026-11-09",
+    "maj": "2026-11-09"
+  },
+  "source": "google-places",
+  "avis_detail": {
+    "releve": "2026-11-09",
+    "liste": [
+      {
+        "note": 5,
+        "texte": "Mes chiens sont suivies depuis 10 ans par ce cabinet vétérinaire. Vétérinaires à l'écoute avec des bon conseils. Mention très spéciale pour le docteur Charlotte Bigot, très sympa et dévoué vers ses patients.",
+        "langue": "fr",
+        "date": "2026-07-16",
+        "auteur": "Marta Lopes",
+        "auteur_lien": "https://www.google.com/maps/contrib/103485355827670684787/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25veGRHeFBORVZ0UVZoek9XaHJjR2wyVVhwM1NFRRAB!2m1!1s0x12a9d3bbbb67c7a7:0x73debfad5d40fb58"
+      },
+      {
+        "note": 5,
+        "texte": "Très bon accueil, simple et très sympa. J'ai posé toutes les questions sur mon chien et les réponses étaient très claire et très direct .Prochain RDV c'est pour la stérilisation de mon TOUTOU la vétérinaire du cabinet de Barbazan débat me semble de toute confiance.",
+        "langue": "fr",
+        "date": "2026-04-01",
+        "auteur": "jean louis REMY",
+        "auteur_lien": "https://www.google.com/maps/contrib/102629587417930443330/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2w5UlVIWmhhRlpxTldwS2FuWnZhQzFMYkZCTVpIYxAB!2m1!1s0x12a9d3bbbb67c7a7:0x73debfad5d40fb58"
+      },
+      {
+        "note": 2,
+        "texte": "Je suis cliente de cette clinique vétérinaire depuis longtemps car j’ai plusieurs animaux. Malheureusement, je suis aujourd’hui très déçue par la gestion des urgences.\n\nÀ plusieurs reprises, l’accueil n’a pas semblé prendre la mesure de l’état de mon animal et m’a demandé de patienter longtemps, alors qu’il avait clairement besoin de soins rapides. Dans ces moments-là, l’écoute et la réactivité sont essentielles.\n\nFace à cette situation, j’ai dû me tourner vers une autre clinique qui, elle, m’a reçue immédiatement.\n\nJe trouve cela très regrettable, car lorsque nos animaux souffrent, nous avons besoin d’être entendus et accompagnés. J’espère sincèrement que l’organisation de l’accueil et la prise en compte des urgences pourront être améliorées.",
+        "langue": "fr",
+        "date": "2026-03-11",
+        "auteur": "bridget Courreges",
+        "auteur_lien": "https://www.google.com/maps/contrib/118345833006524953472/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2kxakxVaG1NWGRZV0RaVWRFRkRVekp3UkdSWmMyYxAB!2m1!1s0x12a9d3bbbb67c7a7:0x73debfad5d40fb58"
+      },
+      {
+        "note": 5,
+        "texte": "Le Dr Bigot a sauvé mes chiens pendant sa garde, après une intoxication (probablement ingestion d’un végétal neurotoxique).\nElle a su gérer l’état critique de mon chiot de 4 mois en crise importante, a été à l’écoute, humaine, rassurante et douce tout en étant pragmatique et honnête, malgré mon état de stress intense et ma détresse.\nElle a été d’une bienveillance, réactivité et efficacité hors pair avec les deux, amenés quasi simultanément (mon chiot ayant déclenché sa crise avant ma chienne de 9ans).\nSes explications et préconisations post-hospitalisation ont été très claires et adaptées.\nJe sais qu’ils ont survécu grâce au Dr Bigot et à son professionnalisme, je ne la remercierai jamais assez pour cela !",
+        "langue": "fr",
+        "date": "2025-12-25",
+        "auteur": "Cruz Marie",
+        "auteur_lien": "https://www.google.com/maps/contrib/106525446554461317765/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2s5WldWTnJVRTFhVURkNGNWOTRiMWw2WTBkd2FXYxAB!2m1!1s0x12a9d3bbbb67c7a7:0x73debfad5d40fb58"
+      },
+      {
+        "note": 5,
+        "texte": "Ma tristesse et mon émotion ne m'ont pas permis sur le moment de remercier comme il le fallait le docteur Bonamy, vétérinaire à l'ecoute, pour sa bienveillance et son professionnalisme lors de l'euthanasie de mon chien Max.\nMerci également au docteur Bigot, qui l'avait suivi pendant son traitement pour sa gentillesse et ses compétences.",
+        "langue": "fr",
+        "date": "2025-12-06",
+        "auteur": "Christine Comin",
+        "auteur_lien": "https://www.google.com/maps/contrib/101466925147512367767/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25KNllUVkpOamRLYzFGM1dEbDJaREZLTlVkM01WRRAB!2m1!1s0x12a9d3bbbb67c7a7:0x73debfad5d40fb58"
+      }
+    ]
+  },
+  "services": {
+    "releve": "2026-11-09",
+    "options": {
+      "restroom": true
+    },
+    "paiement": [],
+    "parking": []
+  },
+  "redaction": {
+    "version": 2,
+    "titre": "Cabinet vétérinaire des docteurs Bigot, Bonamy et Rey-Herme à Séméac — Vétérinaire et animaux à Séméac",
+    "meta_titre": "Cabinet vétérinaire des docteurs Bigot, Bonamy et…",
+    "meta_description": "Cabinet vétérinaire des docteurs Bigot, Bonamy et Rey-Herme à Séméac, vétérinaire et animaux à Séméac : horaires d'ouverture, téléphone, adresse et…",
+    "chapo": "Cabinet vétérinaire des docteurs Bigot, Bonamy et Rey-Herme à Séméac est un vétérinaire et animaux au 73 Avenue François Mitterrand, à Séméac. Ouvert tous les jours sauf le dimanche au relevé du 9 novembre 2026. Téléphone : 05 62 37 16 48. Note Google : 4,5 sur 5 pour 275 avis.",
+    "sections": [
+      {
+        "id": "presentation",
+        "titre": "Cabinet vétérinaire des docteurs Bigot, Bonamy et Rey-Herme à Séméac en quelques mots",
+        "paragraphes": [
+          "Sur Google, l'établissement est classé « Soins vétérinaires », dans notre rubrique Vétérinaire et animaux.",
+          "D'après le relevé du 9 novembre 2026, l'établissement est ouvert tous les jours sauf le dimanche. Le détail jour par jour figure plus bas."
+        ]
+      },
+      {
+        "id": "prestations",
+        "titre": "Services et équipements de Cabinet vétérinaire des docteurs Bigot, Bonamy et Rey-Herme à Séméac",
+        "paragraphes": [
+          "Proposé : toilettes.",
+          "Ces indications sont déclarées par l'établissement sur sa fiche Google (relevé du 9 novembre 2026)."
+        ]
+      },
+      {
+        "id": "acces",
+        "titre": "Adresse et accès",
+        "paragraphes": [
+          "L'établissement est situé au 73 Avenue François Mitterrand, 65600 Séméac.",
+          "Coordonnées GPS : 43.22569, 0.09945. Le bouton Itinéraire de cette page ouvre la navigation."
+        ]
+      },
+      {
+        "id": "contact",
+        "titre": "Contacter Cabinet vétérinaire des docteurs Bigot, Bonamy et Rey-Herme à Séméac",
+        "paragraphes": [
+          "Le contact se fait par téléphone au 05 62 37 16 48, ou directement sur place aux horaires d'ouverture."
+        ]
+      },
+      {
+        "id": "avis",
+        "titre": "La réputation de Cabinet vétérinaire des docteurs Bigot, Bonamy et Rey-Herme à Séméac",
+        "paragraphes": [
+          "Note de 4,5 sur 5 pour 275 avis Google au relevé du 9 novembre 2026. Les avis les plus parlants sont compilés ci-dessous, avec un lien vers la fiche d'origine."
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "q": "Quels sont les horaires de Cabinet vétérinaire des docteurs Bigot, Bonamy et Rey-Herme à Séméac ?",
+        "r": "Au relevé du 9 novembre 2026, Cabinet vétérinaire des docteurs Bigot, Bonamy et Rey-Herme à Séméac était ouvert tous les jours sauf le dimanche. Dans le détail — lundi : de 9 h à 12 h et de 14 h à 19 h ; mardi : de 9 h à 12 h et de 14 h à 19 h ; mercredi : de 9 h à 12 h et de 14 h à 19 h ; jeudi : de 9 h à 12 h et de 14 h à 19 h ; vendredi : de 9 h à 12 h et de 14 h à 19 h ; samedi : de 9 h à 12 h ; dimanche : fermé. Ces horaires peuvent changer : un appel préalable reste conseillé."
+      },
+      {
+        "q": "Cabinet vétérinaire des docteurs Bigot, Bonamy et Rey-Herme à Séméac est-il ouvert le dimanche ?",
+        "r": "Non : d'après les horaires relevés le 9 novembre 2026, Cabinet vétérinaire des docteurs Bigot, Bonamy et Rey-Herme à Séméac est fermé le dimanche."
+      },
+      {
+        "q": "Où se trouve Cabinet vétérinaire des docteurs Bigot, Bonamy et Rey-Herme à Séméac ?",
+        "r": "Cabinet vétérinaire des docteurs Bigot, Bonamy et Rey-Herme à Séméac se trouve 73 Av. François Mitterrand, 65600 Séméac. Un lien d'itinéraire est disponible sur cette page."
+      },
+      {
+        "q": "Comment contacter Cabinet vétérinaire des docteurs Bigot, Bonamy et Rey-Herme à Séméac ?",
+        "r": "Par téléphone au 05 62 37 16 48, ou directement sur place aux heures d'ouverture."
+      },
+      {
+        "q": "Cabinet vétérinaire des docteurs Bigot, Bonamy et Rey-Herme à Séméac est-il accessible aux personnes à mobilité réduite ?",
+        "r": "La fiche Google de l'établissement mentionne : « Entrée accessible en fauteuil roulant ». Cette information est déclarative ; en cas de doute, vérifiez par téléphone."
+      }
+    ],
+    "genere_le": "2026-11-09"
+  },
+  "statut_google": "OPERATIONAL",
+  "audience": {
+    "clics": 0,
+    "impressions": 0,
+    "position": null,
+    "fenetreJours": 90,
+    "clicsRecents": 0,
+    "fenetreRecenteJours": 28,
+    "source": "search-console",
+    "date": "2026-11-09"
+  }
+}

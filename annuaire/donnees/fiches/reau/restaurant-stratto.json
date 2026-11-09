@@ -27,7 +27,7 @@
     "longitude": 2.6280646
   },
   "note": 3.7,
-  "avis": 2731,
+  "avis": 2734,
   "horaires": [
     {
       "jour": 0,
@@ -112,8 +112,8 @@
   "backlink": {
     "etat": "present",
     "premiere_detection": "2026-10-23T09:59:51.184Z",
-    "derniere_detection": "2026-10-23T09:59:51.184Z",
-    "derniere_verification": "2026-10-23T09:59:51.184Z",
+    "derniere_detection": "2026-11-09T13:50:08.159Z",
+    "derniere_verification": "2026-11-09T13:50:08.159Z",
     "echecs": 0,
     "url_detectee": "https://andpro.fr/vitrine-locale/restaurants/reau/restaurant-stratto/"
   },
@@ -127,7 +127,7 @@
   "dates": {
     "collecte": "2026-09-01",
     "publication": "2026-09-01",
-    "maj": "2026-10-23"
+    "maj": "2026-11-09"
   },
   "source": "google-places",
   "redaction": {
@@ -218,14 +218,14 @@
   },
   "statut_google": "OPERATIONAL",
   "audience": {
-    "clics": 40,
-    "impressions": 1902,
+    "clics": 41,
+    "impressions": 1976,
     "position": 3.3,
     "fenetreJours": 90,
-    "clicsRecents": 40,
+    "clicsRecents": 41,
     "fenetreRecenteJours": 28,
     "source": "search-console",
-    "date": "2026-11-08"
+    "date": "2026-11-09"
   },
   "indexation": {
     "etat": "indexee",
@@ -234,7 +234,7 @@
     "derniere_exploration": null,
     "canonique_google": null,
     "source": "impressions",
-    "date": "2026-11-08"
+    "date": "2026-11-09"
   },
   "avis_detail": {
     "releve": "2026-10-23",
