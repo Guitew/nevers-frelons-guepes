@@ -82,7 +82,16 @@ jobs:
           if [ -n "$(git status --porcelain donnees)" ]; then
             git add donnees
             git commit -m "Netlinking : prospection du $(date -u +%F)"
-            git push
+            # main avance souvent pendant l'exploration (cycle de l'annuaire) :
+            # on rejoue notre commit par-dessus avant de pousser, 5 essais.
+            for essai in 1 2 3 4 5; do
+              git pull --rebase origin main && git push && exit 0
+              git rebase --abort 2>/dev/null || true
+              echo "Push refusé (essai $essai), nouvel essai dans 20 s."
+              sleep 20
+            done
+            echo "::error::Impossible de pousser l'état de la prospection après 5 essais."
+            exit 1
           else
             echo "Aucun changement à committer."
           fi
