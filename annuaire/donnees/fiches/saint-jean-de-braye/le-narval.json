@@ -1,0 +1,285 @@
+{
+  "id": "ChIJH5RWPtL85EcR2fjXgNoqeqE",
+  "slug": "le-narval",
+  "nom": "Le Narval",
+  "categorie": "cafes-bars",
+  "categorie_gmb": "Magasin",
+  "type_principal": "store",
+  "types": [
+    "bar",
+    "store",
+    "point_of_interest",
+    "establishment"
+  ],
+  "ville": "Saint-Jean-de-Braye",
+  "ville_slug": "saint-jean-de-braye",
+  "adresse": {
+    "rue": "2 Rue de la Gare",
+    "code_postal": "45800",
+    "departement": "45",
+    "region": "Centre-Val de Loire",
+    "pays": "France",
+    "complete": "2 Rue de la Gare, 45800 Saint-Jean-de-Braye"
+  },
+  "telephone": "",
+  "geo": {
+    "latitude": 47.9086858,
+    "longitude": 1.9766089999999996
+  },
+  "note": 4.3,
+  "avis": 399,
+  "horaires": [
+    {
+      "jour": 0,
+      "ferme": false,
+      "creneaux": [
+        [
+          "06:30",
+          "20:30"
+        ]
+      ]
+    },
+    {
+      "jour": 1,
+      "ferme": false,
+      "creneaux": [
+        [
+          "06:30",
+          "20:30"
+        ]
+      ]
+    },
+    {
+      "jour": 2,
+      "ferme": false,
+      "creneaux": [
+        [
+          "06:30",
+          "20:30"
+        ]
+      ]
+    },
+    {
+      "jour": 3,
+      "ferme": false,
+      "creneaux": [
+        [
+          "06:30",
+          "20:30"
+        ]
+      ]
+    },
+    {
+      "jour": 4,
+      "ferme": false,
+      "creneaux": [
+        [
+          "06:30",
+          "20:30"
+        ]
+      ]
+    },
+    {
+      "jour": 5,
+      "ferme": false,
+      "creneaux": [
+        [
+          "07:30",
+          "20:30"
+        ]
+      ]
+    },
+    {
+      "jour": 6,
+      "ferme": false,
+      "creneaux": [
+        [
+          "08:30",
+          "19:30"
+        ]
+      ]
+    }
+  ],
+  "attributs": [
+    "Entrée accessible en fauteuil roulant",
+    "Parking accessible en fauteuil roulant",
+    "Places assises accessibles en fauteuil roulant"
+  ],
+  "lien_google": "https://maps.google.com/?cid=11635659705217972441&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
+  "site_web_gmb": null,
+  "statut": "publiee",
+  "backlink": {
+    "etat": "absent",
+    "premiere_detection": null,
+    "derniere_detection": null,
+    "derniere_verification": "2026-11-10T13:25:30.428Z",
+    "echecs": 1,
+    "url_detectee": null
+  },
+  "suggestion": {
+    "etat": "en-attente",
+    "date_soumission": null,
+    "tentatives": 0,
+    "date_email": "2026-11-10"
+  },
+  "retrait": null,
+  "dates": {
+    "collecte": "2026-11-10",
+    "publication": "2026-11-10",
+    "maj": "2026-11-10"
+  },
+  "source": "google-places",
+  "avis_detail": {
+    "releve": "2026-11-10",
+    "liste": [
+      {
+        "note": 1,
+        "texte": "En attendant mon tour dans la file d'attente je vois le grand monsieur à lunettes avec une voix qui porte fumer sur sa vapote en soufflant la fumée aux visages de ses clients, je suis trouve cela vraiment incorrect et irrespectueux.",
+        "langue": "fr",
+        "date": "2026-10-12",
+        "auteur": "florence dubois",
+        "auteur_lien": "https://www.google.com/maps/contrib/116507044664136461846/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25CdGNUTnFVbVZFVDJGRmNIUklSbGs0Y1RoZmJVRRAB!2m1!1s0x47e4fcd23e56941f:0xa17a2ada80d7f8d9"
+      },
+      {
+        "note": 1,
+        "texte": "Nous sommes venu déposer plusieurs colis comme à notre habitude et nous avons été super mal accueilli par le patron, il se plaint devant nous d’avoir trop de colis à faire ( il y avait personne d’autres que nous )\nLes clients ne doivent pas subir les aléas de la journée ( je suis moi même en contact de clients tous les jours )\nNous ne reviendrons plus !",
+        "langue": "fr",
+        "date": "2026-10-09",
+        "auteur": "Claire Gurême",
+        "auteur_lien": "https://www.google.com/maps/contrib/102609411920126953065/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25GV1ZYRnpVRlp3VTBsM1VFUm1SV2htTnpGNVJYYxAB!2m1!1s0x47e4fcd23e56941f:0xa17a2ada80d7f8d9"
+      },
+      {
+        "note": 1,
+        "texte": "On dois justifier de son handicap qui n’es pas visible maintenant pour stationner ( j’ai pas voulu me justifier parce que pour vous handicapé es égal à personne âgée en situation d’handicape visible c’est malheureux) la sclérose en plaque je vous invite à vous informer monsieur",
+        "langue": "fr",
+        "date": "2026-09-16",
+        "auteur": "Noura Many",
+        "auteur_lien": "https://www.google.com/maps/contrib/105105388017786380668/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2pKRFExUkpWREJsYms5VE0yeG9ZalEyWTJoTFVrRRAB!2m1!1s0x47e4fcd23e56941f:0xa17a2ada80d7f8d9"
+      },
+      {
+        "note": 5,
+        "texte": "Ne trouvant pas de PMU ouvert  le dimanche sur Chécy, j'ai emmené mes 4 frangines au NARVAL à Saint Jean de Braye ou nous avons reçu un accueil sympathique et très chaleureux de la part de Chloé et d'Anthony.",
+        "langue": "fr",
+        "date": "2026-09-01",
+        "auteur": "Gerard FOULET",
+        "auteur_lien": "https://www.google.com/maps/contrib/114844439160342802135/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2tabmJFcDVjVU5RWWxvNWFFaFZUVVk1ZEZFeFNGRRAB!2m1!1s0x47e4fcd23e56941f:0xa17a2ada80d7f8d9"
+      },
+      {
+        "note": 5,
+        "texte": "Le Narval...\nPersonnel agréable et commercial.\nLes horaires sont fous!\nVous achetez de quoi lire, de quoi parier, il existe un arsenal complet pour les fumeurs et les vapoteurs !\nC'est un lieu de livraison incroyable 😍\nJe n'ai pas encore réceptionné de colis en revanche cela ne saurait tarder.\nJe me suis rendue dans ce commerce pour des achats concernant des cartes d'anniversaire et leur bon petit café du matin où en journée !\nJe recommande !\nVotre cliente parmi tant de clients fidèles.\n\nSaint Jean de Braye ce jeudi 23 mai 2024.\n\nSamia HADJAB\n\n* Tous signalements récurrents,  abusifs et diffamatoires , de mon avis légitime, fera l'objet de poursuites judiciaires en pénal.",
+        "langue": "fr",
+        "date": "2024-06-16",
+        "auteur": "Samia HADJAB",
+        "auteur_lien": "https://www.google.com/maps/contrib/100541024542052450000/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSURUa3F6dHJ3RRAB!2m1!1s0x47e4fcd23e56941f:0xa17a2ada80d7f8d9"
+      }
+    ]
+  },
+  "services": {
+    "releve": "2026-11-10",
+    "options": {
+      "delivery": false,
+      "servesBeer": true,
+      "servesWine": true,
+      "liveMusic": false,
+      "restroom": true
+    },
+    "paiement": [
+      "carte bancaire",
+      "carte de débit",
+      "paiement sans contact"
+    ],
+    "parking": [
+      "parking gratuit",
+      "stationnement gratuit dans la rue"
+    ]
+  },
+  "redaction": {
+    "version": 2,
+    "titre": "Le Narval — Café ou bar à Saint-Jean-de-Braye",
+    "meta_titre": "Le Narval à Saint-Jean-de-Braye : horaires, avis",
+    "meta_description": "Le Narval, café ou bar à Saint-Jean-de-Braye : horaires d'ouverture, note Google 4,3/5 (399 avis), adresse et itinéraire.",
+    "chapo": "Cette fiche présente Le Narval, un café ou bar au 2 Rue de la Gare, à Saint-Jean-de-Braye. Ouvert sept jours sur sept au relevé du 10 novembre 2026. Note Google : 4,3 sur 5 pour 399 avis.",
+    "sections": [
+      {
+        "id": "presentation",
+        "titre": "Le Narval en quelques mots",
+        "paragraphes": [
+          "Sur Google, l'établissement est classé « Magasin », dans notre rubrique Café ou bar.",
+          "D'après le relevé du 10 novembre 2026, l'établissement est ouvert sept jours sur sept. Le détail jour par jour figure plus bas."
+        ]
+      },
+      {
+        "id": "prestations",
+        "titre": "Services et équipements de Le Narval",
+        "paragraphes": [
+          "Proposé : bière, vin et toilettes.",
+          "Non proposé selon la fiche Google : livraison et musique live.",
+          "Moyens de paiement déclarés : carte bancaire, carte de débit et paiement sans contact.",
+          "Stationnement : parking gratuit et stationnement gratuit dans la rue.",
+          "Ces indications sont déclarées par l'établissement sur sa fiche Google (relevé du 10 novembre 2026)."
+        ]
+      },
+      {
+        "id": "acces",
+        "titre": "Adresse et accès",
+        "paragraphes": [
+          "L'établissement est situé au 2 Rue de la Gare, 45800 Saint-Jean-de-Braye.",
+          "Coordonnées GPS : 47.90869, 1.97661. Le bouton Itinéraire de cette page ouvre la navigation."
+        ]
+      },
+      {
+        "id": "contact",
+        "titre": "Contacter Le Narval",
+        "paragraphes": [
+          "Aucun numéro de téléphone n'est déclaré sur la fiche Google de l'établissement : le contact se fait sur place, aux horaires indiqués."
+        ]
+      },
+      {
+        "id": "avis",
+        "titre": "La réputation de Le Narval",
+        "paragraphes": [
+          "Note de 4,3 sur 5 pour 399 avis Google au relevé du 10 novembre 2026. Les avis les plus parlants sont compilés ci-dessous, avec un lien vers la fiche d'origine."
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "q": "Quels sont les horaires de Le Narval ?",
+        "r": "Au relevé du 10 novembre 2026, Le Narval était ouvert sept jours sur sept. Dans le détail — lundi : de 6 h 30 à 20 h 30 ; mardi : de 6 h 30 à 20 h 30 ; mercredi : de 6 h 30 à 20 h 30 ; jeudi : de 6 h 30 à 20 h 30 ; vendredi : de 6 h 30 à 20 h 30 ; samedi : de 7 h 30 à 20 h 30 ; dimanche : de 8 h 30 à 19 h 30. Ces horaires peuvent changer : un appel préalable reste conseillé."
+      },
+      {
+        "q": "Le Narval est-il ouvert le dimanche ?",
+        "r": "Oui : le dimanche, Le Narval est ouvert de 8 h 30 à 19 h 30 (horaires relevés le 10 novembre 2026)."
+      },
+      {
+        "q": "Où se trouve Le Narval ?",
+        "r": "Le Narval se trouve 2 Rue de la Gare, 45800 Saint-Jean-de-Braye. Un lien d'itinéraire est disponible sur cette page."
+      },
+      {
+        "q": "Le Narval propose-t-il la vente à emporter ou la livraison ?",
+        "r": "D'après sa fiche Google (relevé du 10 novembre 2026) — livraison : non."
+      },
+      {
+        "q": "Le Narval est-il accessible aux personnes à mobilité réduite ?",
+        "r": "La fiche Google de l'établissement mentionne : « Entrée accessible en fauteuil roulant ». Cette information est déclarative ; en cas de doute, vérifiez par téléphone."
+      }
+    ],
+    "genere_le": "2026-11-10"
+  },
+  "statut_google": "OPERATIONAL",
+  "audience": {
+    "clics": 0,
+    "impressions": 0,
+    "position": null,
+    "fenetreJours": 90,
+    "clicsRecents": 0,
+    "fenetreRecenteJours": 28,
+    "source": "search-console",
+    "date": "2026-11-10"
+  }
+}

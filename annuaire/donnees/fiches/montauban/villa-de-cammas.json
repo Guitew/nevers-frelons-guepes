@@ -27,7 +27,7 @@
     "longitude": 1.3173643
   },
   "note": 5,
-  "avis": 17,
+  "avis": 18,
   "horaires": null,
   "attributs": [],
   "lien_google": "https://maps.google.com/?cid=3473246553275603648&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
@@ -36,8 +36,8 @@
   "backlink": {
     "etat": "present",
     "premiere_detection": "2026-10-09T16:58:32.124Z",
-    "derniere_detection": "2026-10-24T09:28:34.818Z",
-    "derniere_verification": "2026-10-24T09:28:34.818Z",
+    "derniere_detection": "2026-11-10T13:25:30.428Z",
+    "derniere_verification": "2026-11-10T13:25:30.428Z",
     "echecs": 0,
     "url_detectee": "https://andpro.fr/vitrine-locale/hebergement/montauban/villa-de-cammas/"
   },
@@ -51,7 +51,7 @@
   "dates": {
     "collecte": "2026-10-02",
     "publication": "2026-10-02",
-    "maj": "2026-10-24"
+    "maj": "2026-11-10"
   },
   "source": "google-places",
   "redaction": {
@@ -114,13 +114,13 @@
   "statut_google": "OPERATIONAL",
   "audience": {
     "clics": 4,
-    "impressions": 159,
-    "position": 6.4,
+    "impressions": 164,
+    "position": 6.3,
     "fenetreJours": 90,
-    "clicsRecents": 4,
+    "clicsRecents": 3,
     "fenetreRecenteJours": 28,
     "source": "search-console",
-    "date": "2026-11-09"
+    "date": "2026-11-10"
   },
   "avis_detail": {
     "releve": "2026-10-24",
@@ -187,6 +187,6 @@
     "derniere_exploration": null,
     "canonique_google": null,
     "source": "impressions",
-    "date": "2026-11-09"
+    "date": "2026-11-10"
   }
 }

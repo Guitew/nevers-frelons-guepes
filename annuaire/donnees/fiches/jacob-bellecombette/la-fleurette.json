@@ -1,0 +1,290 @@
+{
+  "id": "ChIJoT9dcLKpi0cREVlhceX647Y",
+  "slug": "la-fleurette",
+  "nom": "La Fleurette",
+  "categorie": "boulangeries-patisseries",
+  "categorie_gmb": "Boulangerie",
+  "type_principal": "bakery",
+  "types": [
+    "bakery",
+    "food_store",
+    "food",
+    "store",
+    "point_of_interest",
+    "establishment"
+  ],
+  "ville": "Jacob-Bellecombette",
+  "ville_slug": "jacob-bellecombette",
+  "adresse": {
+    "rue": "15 Rue Ernest Grangeat",
+    "code_postal": "73000",
+    "departement": "73",
+    "region": "Auvergne-Rhône-Alpes",
+    "pays": "France",
+    "complete": "15 Rue Ernest Grangeat, 73000 Jacob-Bellecombette"
+  },
+  "telephone": "04 79 62 40 04",
+  "geo": {
+    "latitude": 45.558960299999995,
+    "longitude": 5.9049099
+  },
+  "note": 4,
+  "avis": 122,
+  "horaires": [
+    {
+      "jour": 0,
+      "ferme": false,
+      "creneaux": [
+        [
+          "06:30",
+          "20:00"
+        ]
+      ]
+    },
+    {
+      "jour": 1,
+      "ferme": false,
+      "creneaux": [
+        [
+          "06:30",
+          "20:00"
+        ]
+      ]
+    },
+    {
+      "jour": 2,
+      "ferme": false,
+      "creneaux": [
+        [
+          "06:30",
+          "20:00"
+        ]
+      ]
+    },
+    {
+      "jour": 3,
+      "ferme": false,
+      "creneaux": [
+        [
+          "06:30",
+          "20:00"
+        ]
+      ]
+    },
+    {
+      "jour": 4,
+      "ferme": false,
+      "creneaux": [
+        [
+          "06:30",
+          "20:00"
+        ]
+      ]
+    },
+    {
+      "jour": 5,
+      "ferme": false,
+      "creneaux": [
+        [
+          "06:30",
+          "20:00"
+        ]
+      ]
+    },
+    {
+      "jour": 6,
+      "ferme": false,
+      "creneaux": [
+        [
+          "06:30",
+          "13:00"
+        ]
+      ]
+    }
+  ],
+  "attributs": [
+    "Entrée accessible en fauteuil roulant",
+    "Parking accessible en fauteuil roulant"
+  ],
+  "lien_google": "https://maps.google.com/?cid=13178652797972863249&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
+  "site_web_gmb": null,
+  "statut": "publiee",
+  "backlink": {
+    "etat": "absent",
+    "premiere_detection": null,
+    "derniere_detection": null,
+    "derniere_verification": "2026-11-10T13:25:30.428Z",
+    "echecs": 1,
+    "url_detectee": null
+  },
+  "suggestion": {
+    "etat": "en-attente",
+    "date_soumission": null,
+    "tentatives": 0,
+    "date_email": "2026-11-10"
+  },
+  "retrait": null,
+  "dates": {
+    "collecte": "2026-11-10",
+    "publication": "2026-11-10",
+    "maj": "2026-11-10"
+  },
+  "source": "google-places",
+  "avis_detail": {
+    "releve": "2026-11-10",
+    "liste": [
+      {
+        "note": 1,
+        "texte": "Cette boulangerie de quartier a évolué très négativement ces derniers mois .Il y avait une bonne ambiance,les employées connaissaient bien les clients,les taquinaient et maintenant non seulement la qualité a énormément baissé mais l'accueil y est parfois,en fonction des salariées présentes absolument désagréable.\nMa maman,91 ans est passée ce dimanche matin,et avait des difficultés à passer son billet dans la machine automatique.. Réponse de la vendeuse présente : \" Arrêtez vos bêtises et donnez moi votre billet\" ....Bravo madame !!! Je suis sa fille,moi même dans le commerce et je suis absolument outrée de votre comportement,vous n'êtes pas digne de travailler en lien avec des personnes.\nNous ne reviendrons plus jamais dans votre boulangerie alors que ma belle mère et ma maman habitent là.\nLamentable !",
+        "langue": "fr",
+        "date": "2026-09-06",
+        "auteur": "Marie Josephe Delorme",
+        "auteur_lien": "https://www.google.com/maps/contrib/108470326080010820773/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xJd2JWRTVhVU5GV0ZadU5UWlRTRUk0YTBrNFVWRRAB!2m1!1s0x478ba9b2705d3fa1:0xb6e3fae571615911"
+      },
+      {
+        "note": 1,
+        "texte": "Passé ce matin, accueil bof.\nMoi aussi je travaille le dimanche, mais ça ne m'empêche pas d'être aimable....",
+        "langue": "fr",
+        "date": "2026-09-06",
+        "auteur": "Pascal Charblanc",
+        "auteur_lien": "https://www.google.com/maps/contrib/112832290022975616160/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25CTE5XeFFjM04yZW5RNFVsUlRiMUZwT1dWNmNsRRAB!2m1!1s0x478ba9b2705d3fa1:0xb6e3fae571615911"
+      },
+      {
+        "note": 2,
+        "texte": "Très déçue... je m'y rend hier pour acheter wraps, une tartelette et une souris. Elles sont 2 et ont l'air en panique alors que nous ne sommes que 3 dans la boulangerie. L'une sert, l'autre encaisse. Après avoir annoncé ce que je souhaite, celle qui encaisse m'interpelle pour que je vienne payer. Alors je paie pendant que l'autre prépare. En payant je vois devant moi un sachet mais qui ne ressemble pas à ce que j'ai commandé. Le sachet était vraiment devant nos yeux à moi et la vendeuse qui elle n'avait rien vu. Bon ça serait donc la personne d'avant qui serait partis sans sa quiche. On me donne mes produits. Je rentre et m'aperçois que l'on m'a pas mis la souris mais que j'ai bien payée. J'appelle pour le dire et sans excuses on me demande de repasser, chose que je ne pouvais pas. Pas commercial du tout... à votre place j'aurai pris mon nom et fait un geste le prochain coup mais apparemment ce n'est pas leur politique. Déjà que les vendeuses ne sont pas très agréables alors je n'y retrounerai plus",
+        "langue": "fr",
+        "date": "2026-04-04",
+        "auteur": "Crosnier Sarah",
+        "auteur_lien": "https://www.google.com/maps/contrib/113608605005710602979/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2tSdVpuQjVWVmxoYm1ScFZUZFZXa2RZZW5kVVJVRRAB!2m1!1s0x478ba9b2705d3fa1:0xb6e3fae571615911"
+      },
+      {
+        "note": 4,
+        "texte": "Nous allons régulièrement dans cette boulangerie car elle est à côté de chez nous. Les produits proposés sont bons. Je vous déconseille tout de même les éclairs, on dirait qu'elles ont baigné dans l'eau....",
+        "langue": "fr",
+        "date": "2025-12-26",
+        "auteur": "Habbygaëlle Pierre",
+        "auteur_lien": "https://www.google.com/maps/contrib/107874896239439877405/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xkS1ExRlRjREZRYjBvMVlYSm1aRWxmTWtKeWQzYxAB!2m1!1s0x478ba9b2705d3fa1:0xb6e3fae571615911"
+      },
+      {
+        "note": 1,
+        "texte": "Alors que je voulais acheter 10 pains au chocolat ce matin ( il y en avait largement autant dans la vitrine), la vendeuse très désagréable par ailleurs a refusé de me les vendre sous prétexte qu'après elle n'en aurait plus.... j'ai dû raté une info... les boulangeries sont sensées écouler leurs vienoiseries non??! Quel monde!!\nResultat...je suis repartie sans rien, agacée !",
+        "langue": "fr",
+        "date": "2025-12-23",
+        "auteur": "Magalie CB",
+        "auteur_lien": "https://www.google.com/maps/contrib/104713961214762578595/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2pCVmQzbzFiVUYzUTBVNVdHcE5NM3BPYW1KRFNXYxAB!2m1!1s0x478ba9b2705d3fa1:0xb6e3fae571615911"
+      }
+    ]
+  },
+  "services": {
+    "releve": "2026-11-10",
+    "prix": "PRICE_LEVEL_INEXPENSIVE",
+    "options": {
+      "takeout": true,
+      "delivery": false,
+      "servesBreakfast": true,
+      "restroom": false
+    },
+    "paiement": [
+      "carte bancaire",
+      "carte de débit"
+    ],
+    "parking": []
+  },
+  "redaction": {
+    "version": 2,
+    "titre": "La Fleurette — Boulangerie-pâtisserie à Jacob-Bellecombette",
+    "meta_titre": "La Fleurette à Jacob-Bellecombette : horaires, avis",
+    "meta_description": "La Fleurette, boulangerie-pâtisserie à Jacob-Bellecombette : horaires d'ouverture, note Google 4/5 (122 avis), téléphone, adresse et itinéraire.",
+    "chapo": "Cette fiche présente La Fleurette, une boulangerie-pâtisserie au 15 Rue Ernest Grangeat, à Jacob-Bellecombette. Ouvert sept jours sur sept au relevé du 10 novembre 2026. Téléphone : 04 79 62 40 04. Note Google : 4 sur 5 pour 122 avis.",
+    "sections": [
+      {
+        "id": "presentation",
+        "titre": "La Fleurette en quelques mots",
+        "paragraphes": [
+          "Sur Google, l'établissement est classé « Boulangerie », dans notre rubrique Boulangerie-pâtisserie.",
+          "Niveau de prix indiqué sur la fiche Google : € (bon marché).",
+          "D'après le relevé du 10 novembre 2026, l'établissement est ouvert sept jours sur sept. Le détail jour par jour figure plus bas."
+        ]
+      },
+      {
+        "id": "prestations",
+        "titre": "Services et équipements de La Fleurette",
+        "paragraphes": [
+          "Proposé : à emporter et petit-déjeuner.",
+          "Non proposé selon la fiche Google : livraison et toilettes.",
+          "Moyens de paiement déclarés : carte bancaire et carte de débit.",
+          "Ces indications sont déclarées par l'établissement sur sa fiche Google (relevé du 10 novembre 2026)."
+        ]
+      },
+      {
+        "id": "acces",
+        "titre": "Adresse et accès",
+        "paragraphes": [
+          "L'établissement est situé au 15 Rue Ernest Grangeat, 73000 Jacob-Bellecombette.",
+          "Coordonnées GPS : 45.55896, 5.90491. Le bouton Itinéraire de cette page ouvre la navigation."
+        ]
+      },
+      {
+        "id": "contact",
+        "titre": "Contacter La Fleurette",
+        "paragraphes": [
+          "Le contact se fait par téléphone au 04 79 62 40 04, ou directement sur place aux horaires d'ouverture."
+        ]
+      },
+      {
+        "id": "avis",
+        "titre": "La réputation de La Fleurette",
+        "paragraphes": [
+          "Note de 4 sur 5 pour 122 avis Google au relevé du 10 novembre 2026. Les avis les plus parlants sont compilés ci-dessous, avec un lien vers la fiche d'origine."
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "q": "Quels sont les horaires de La Fleurette ?",
+        "r": "Au relevé du 10 novembre 2026, La Fleurette était ouvert sept jours sur sept. Dans le détail — lundi : de 6 h 30 à 20 h ; mardi : de 6 h 30 à 20 h ; mercredi : de 6 h 30 à 20 h ; jeudi : de 6 h 30 à 20 h ; vendredi : de 6 h 30 à 20 h ; samedi : de 6 h 30 à 20 h ; dimanche : de 6 h 30 à 13 h. Ces horaires peuvent changer : un appel préalable reste conseillé."
+      },
+      {
+        "q": "La Fleurette est-il ouvert le dimanche ?",
+        "r": "Oui : le dimanche, La Fleurette est ouvert de 6 h 30 à 13 h (horaires relevés le 10 novembre 2026)."
+      },
+      {
+        "q": "Où se trouve La Fleurette ?",
+        "r": "La Fleurette se trouve 15 Rue Ernest Grangeat, 73000 Jacob-Bellecombette. Un lien d'itinéraire est disponible sur cette page."
+      },
+      {
+        "q": "Comment contacter La Fleurette ?",
+        "r": "Par téléphone au 04 79 62 40 04, ou directement sur place aux heures d'ouverture."
+      },
+      {
+        "q": "La Fleurette propose-t-il la vente à emporter ou la livraison ?",
+        "r": "D'après sa fiche Google (relevé du 10 novembre 2026) — vente à emporter : oui ; livraison : non."
+      },
+      {
+        "q": "Quel est le niveau de prix de La Fleurette ?",
+        "r": "Google classe La Fleurette au niveau de prix € (bon marché), sur une échelle de € à €€€€ établie à partir des avis clients."
+      },
+      {
+        "q": "La Fleurette est-il accessible aux personnes à mobilité réduite ?",
+        "r": "La fiche Google de l'établissement mentionne : « Entrée accessible en fauteuil roulant ». Cette information est déclarative ; en cas de doute, vérifiez par téléphone."
+      }
+    ],
+    "genere_le": "2026-11-10"
+  },
+  "statut_google": "OPERATIONAL",
+  "audience": {
+    "clics": 0,
+    "impressions": 0,
+    "position": null,
+    "fenetreJours": 90,
+    "clicsRecents": 0,
+    "fenetreRecenteJours": 28,
+    "source": "search-console",
+    "date": "2026-11-10"
+  }
+}

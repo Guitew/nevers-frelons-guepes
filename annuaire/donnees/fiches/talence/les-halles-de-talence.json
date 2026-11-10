@@ -1,0 +1,299 @@
+{
+  "id": "ChIJ7a07Zp0nVQ0R8cIPKbx0ris",
+  "slug": "les-halles-de-talence",
+  "nom": "Les Halles de Talence",
+  "categorie": "commerces-alimentation",
+  "categorie_gmb": "Épicerie",
+  "type_principal": "grocery_store",
+  "types": [
+    "market",
+    "grocery_store",
+    "food_store",
+    "food",
+    "store",
+    "point_of_interest",
+    "establishment"
+  ],
+  "ville": "Talence",
+  "ville_slug": "talence",
+  "adresse": {
+    "rue": "316 bis Cours de la Libération",
+    "code_postal": "33400",
+    "departement": "33",
+    "region": "Nouvelle-Aquitaine",
+    "pays": "France",
+    "complete": "Place Alcala de Henares, 316 bis Cr de la Libération, 33400 Talence"
+  },
+  "telephone": "",
+  "geo": {
+    "latitude": 44.811940799999995,
+    "longitude": -0.5905741
+  },
+  "note": 4.2,
+  "avis": 1036,
+  "horaires": [
+    {
+      "jour": 0,
+      "ferme": true,
+      "creneaux": []
+    },
+    {
+      "jour": 1,
+      "ferme": false,
+      "creneaux": [
+        [
+          "08:00",
+          "14:30"
+        ],
+        [
+          "16:30",
+          "19:30"
+        ]
+      ]
+    },
+    {
+      "jour": 2,
+      "ferme": false,
+      "creneaux": [
+        [
+          "08:00",
+          "14:30"
+        ],
+        [
+          "16:30",
+          "19:30"
+        ]
+      ]
+    },
+    {
+      "jour": 3,
+      "ferme": false,
+      "creneaux": [
+        [
+          "08:00",
+          "14:30"
+        ],
+        [
+          "16:30",
+          "22:30"
+        ]
+      ]
+    },
+    {
+      "jour": 4,
+      "ferme": false,
+      "creneaux": [
+        [
+          "08:00",
+          "14:30"
+        ],
+        [
+          "16:30",
+          "22:30"
+        ]
+      ]
+    },
+    {
+      "jour": 5,
+      "ferme": false,
+      "creneaux": [
+        [
+          "08:00",
+          "14:30"
+        ],
+        [
+          "16:30",
+          "22:30"
+        ]
+      ]
+    },
+    {
+      "jour": 6,
+      "ferme": false,
+      "creneaux": [
+        [
+          "08:00",
+          "15:00"
+        ]
+      ]
+    }
+  ],
+  "attributs": [
+    "Entrée accessible en fauteuil roulant",
+    "Parking accessible en fauteuil roulant",
+    "Toilettes accessibles en fauteuil roulant"
+  ],
+  "lien_google": "https://maps.google.com/?cid=3147581541070127857&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
+  "site_web_gmb": null,
+  "statut": "publiee",
+  "backlink": {
+    "etat": "absent",
+    "premiere_detection": null,
+    "derniere_detection": null,
+    "derniere_verification": "2026-11-10T13:25:30.428Z",
+    "echecs": 1,
+    "url_detectee": null
+  },
+  "suggestion": {
+    "etat": "en-attente",
+    "date_soumission": null,
+    "tentatives": 0,
+    "date_email": "2026-11-10"
+  },
+  "retrait": null,
+  "dates": {
+    "collecte": "2026-11-10",
+    "publication": "2026-11-10",
+    "maj": "2026-11-10"
+  },
+  "source": "google-places",
+  "avis_detail": {
+    "releve": "2026-11-10",
+    "liste": [
+      {
+        "note": 5,
+        "texte": "Super endroit pour aller se promener le week-end et déguster de bonnes choses. Ou s’acheter un joli bouquet de fleurs chez L’estafleurette, Virginie est solaire. Toujours un plaisir de papoter avec elle ❤️",
+        "langue": "fr",
+        "date": "2026-10-04",
+        "auteur": "Nathalie BOURDON",
+        "auteur_lien": "https://www.google.com/maps/contrib/101467791884251416288/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT201YVpqUndSWGRLT0RWUVdHRlpUbHB1VFZaRmExRRAB!2m1!1s0xd55279d663baded:0x2bae74bc290fc2f1"
+      },
+      {
+        "note": 5,
+        "texte": "Très agréable et variés.\nNous avons déguster de bons plats Selon les goûts de chacun ( asiatique, italien etc ) .\nUne bonne adresse pour des retrouvailles en famille ou entre amis .\nPrix correct.",
+        "langue": "fr",
+        "date": "2026-09-29",
+        "auteur": "sophie Le Hegarat",
+        "auteur_lien": "https://www.google.com/maps/contrib/104853669153614060599/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25jeGJGSlllUzB5YkVSQ1JYWm5hV2c0ZWpaWVpIYxAB!2m1!1s0xd55279d663baded:0x2bae74bc290fc2f1"
+      },
+      {
+        "note": 5,
+        "texte": "Ambiance très conviviale et familiale, les halles de Talence est un lieu de rendez-vous pour se retrouver ou se rencontrer, célébrer, débuter ou terminer sa journée.\nC’est un QG pr beaucoup, un food court moderne et chaleureux avec un marché et des stands de nourriture divers, d’ici et d’ailleurs.\n\nEn plus il y a régulièrement des petits concerts, c’est top.",
+        "langue": "fr",
+        "date": "2026-09-02",
+        "auteur": "Angéline Martin",
+        "auteur_lien": "https://www.google.com/maps/contrib/116715679041231632973/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xoTVRVVlZabkpNWjFsc1QwSmxaMFJsWTFNMlNsRRAB!2m1!1s0xd55279d663baded:0x2bae74bc290fc2f1"
+      },
+      {
+        "note": 3,
+        "texte": "J’ai beaucoup apprécié la jeune femme qui travaille à « Côté pâtes « : très sympa et parlant bien anglais. Une jeune femme vraiment gentille et souriante.\nCôté plats par contre, ce n’était pas très bon, malheureusement: La pizza était simplement de la sauce tomate sans goût versée probablement sur la pâte rapidement. Quelque chose comme ça.\nMa lasagne aux légumes, réchauffée certes, mais fort tiède et sans trop de goût mais je l’ai finie toutefois. Accompagnée d’une salade pas très fraîche. Pas de chance.\nÉtant de l’autre côté du comptoir en tant que cliente, je pense que le personnel devrait porter des gants par souci d’hygiène. Toucher la nourriture avec ses mains et la donner à la clientèle par la suite. Humm…\nSélectionnant les tomates cerises à la main et les coupant par la suite ainsi que quelques feuilles de salade arrosées littéralement d’une huile et peut-être de vinaigre, pas sûre, le tout a été déposé sur un plateau-assiette. Le pain a été coupé avec des ciseaux et non pas avec un couteau à pain. Bon, d’accord…\nBref, j’ai seulement mangé la lasagne et la pizza de mon compagnon + ma salade ont atterri dans la poubelle. 33€, (merci!)  et heureusement, les deux bouteilles de Pellegrino ont été appréciées et ont presque sauvé le repas.",
+        "langue": "fr",
+        "date": "2026-08-26",
+        "auteur": "Danièle Arnaud",
+        "auteur_lien": "https://www.google.com/maps/contrib/103522169207733663121/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2tOTlVqQTNSMUpuZW5KU2VYVjFUalp4UWpkcVpVRRAB!2m1!1s0xd55279d663baded:0x2bae74bc290fc2f1"
+      },
+      {
+        "note": 4,
+        "texte": "Service très sympa au bar ! Boulangerie très bonne ! Plein de choix de repas, nous nous sommes régalés avec les tapas espagnols (15 euros la planche mixte fromage charcuterie). Après il faut être honnête, c'est un concept citadin et l'accès  à toutes ces bonnes choses dans un seul endroit génère forcément un petit surcoût, mais ça vaut le coût pour l'endroit !",
+        "langue": "fr",
+        "date": "2026-07-31",
+        "auteur": "Gildas Chevalier",
+        "auteur_lien": "https://www.google.com/maps/contrib/103865822351626233793/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2tKamRuaEtSRTFDYlU4dFRVWktYMU5WZWxwMU4zYxAB!2m1!1s0xd55279d663baded:0x2bae74bc290fc2f1"
+      }
+    ]
+  },
+  "services": {
+    "releve": "2026-11-10",
+    "options": {
+      "delivery": false,
+      "restroom": true
+    },
+    "paiement": [
+      "carte bancaire",
+      "carte de débit"
+    ],
+    "parking": [
+      "stationnement gratuit dans la rue",
+      "stationnement payant dans la rue"
+    ]
+  },
+  "redaction": {
+    "version": 2,
+    "titre": "Les Halles de Talence — Commerce d'alimentation à Talence",
+    "meta_titre": "Les Halles de Talence à Talence : horaires, avis",
+    "meta_description": "Les Halles de Talence, commerce d'alimentation à Talence : horaires d'ouverture, note Google 4,2/5 (1036 avis), adresse et itinéraire.",
+    "chapo": "Les Halles de Talence exerce l'activité de commerce d'alimentation au 316 bis Cours de la Libération, à Talence. Ouvert tous les jours sauf le lundi au relevé du 10 novembre 2026. Note Google : 4,2 sur 5 pour 1036 avis.",
+    "sections": [
+      {
+        "id": "presentation",
+        "titre": "Les Halles de Talence en quelques mots",
+        "paragraphes": [
+          "Sur Google, l'établissement est classé « Épicerie », dans notre rubrique Commerce d'alimentation.",
+          "D'après le relevé du 10 novembre 2026, l'établissement est ouvert tous les jours sauf le lundi. Le détail jour par jour figure plus bas."
+        ]
+      },
+      {
+        "id": "prestations",
+        "titre": "Services et équipements de Les Halles de Talence",
+        "paragraphes": [
+          "Proposé : toilettes.",
+          "Non proposé selon la fiche Google : livraison.",
+          "Moyens de paiement déclarés : carte bancaire et carte de débit.",
+          "Stationnement : stationnement gratuit dans la rue et stationnement payant dans la rue.",
+          "Ces indications sont déclarées par l'établissement sur sa fiche Google (relevé du 10 novembre 2026)."
+        ]
+      },
+      {
+        "id": "acces",
+        "titre": "Adresse et accès",
+        "paragraphes": [
+          "L'établissement est situé au 316 bis Cours de la Libération, 33400 Talence.",
+          "Coordonnées GPS : 44.81194, -0.59057. Le bouton Itinéraire de cette page ouvre la navigation."
+        ]
+      },
+      {
+        "id": "contact",
+        "titre": "Contacter Les Halles de Talence",
+        "paragraphes": [
+          "Aucun numéro de téléphone n'est déclaré sur la fiche Google de l'établissement : le contact se fait sur place, aux horaires indiqués."
+        ]
+      },
+      {
+        "id": "avis",
+        "titre": "La réputation de Les Halles de Talence",
+        "paragraphes": [
+          "Note de 4,2 sur 5 pour 1036 avis Google au relevé du 10 novembre 2026. Les avis les plus parlants sont compilés ci-dessous, avec un lien vers la fiche d'origine."
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "q": "Quels sont les horaires de Les Halles de Talence ?",
+        "r": "Au relevé du 10 novembre 2026, Les Halles de Talence était ouvert tous les jours sauf le lundi. Dans le détail — lundi : fermé ; mardi : de 8 h à 14 h 30 et de 16 h 30 à 19 h 30 ; mercredi : de 8 h à 14 h 30 et de 16 h 30 à 19 h 30 ; jeudi : de 8 h à 14 h 30 et de 16 h 30 à 22 h 30 ; vendredi : de 8 h à 14 h 30 et de 16 h 30 à 22 h 30 ; samedi : de 8 h à 14 h 30 et de 16 h 30 à 22 h 30 ; dimanche : de 8 h à 15 h. Ces horaires peuvent changer : un appel préalable reste conseillé."
+      },
+      {
+        "q": "Les Halles de Talence est-il ouvert le dimanche ?",
+        "r": "Oui : le dimanche, Les Halles de Talence est ouvert de 8 h à 15 h (horaires relevés le 10 novembre 2026)."
+      },
+      {
+        "q": "Où se trouve Les Halles de Talence ?",
+        "r": "Les Halles de Talence se trouve Place Alcala de Henares, 316 bis Cr de la Libération, 33400 Talence. Un lien d'itinéraire est disponible sur cette page."
+      },
+      {
+        "q": "Les Halles de Talence propose-t-il la vente à emporter ou la livraison ?",
+        "r": "D'après sa fiche Google (relevé du 10 novembre 2026) — livraison : non."
+      },
+      {
+        "q": "Les Halles de Talence est-il accessible aux personnes à mobilité réduite ?",
+        "r": "La fiche Google de l'établissement mentionne : « Entrée accessible en fauteuil roulant ». Cette information est déclarative ; en cas de doute, vérifiez par téléphone."
+      }
+    ],
+    "genere_le": "2026-11-10"
+  },
+  "statut_google": "OPERATIONAL",
+  "audience": {
+    "clics": 0,
+    "impressions": 0,
+    "position": null,
+    "fenetreJours": 90,
+    "clicsRecents": 0,
+    "fenetreRecenteJours": 28,
+    "source": "search-console",
+    "date": "2026-11-10"
+  }
+}

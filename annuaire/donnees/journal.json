@@ -1,5 +1,154 @@
 [
   {
+    "date": "2026-11-10T13:29:30.887Z",
+    "type": "suggestion-soumise",
+    "id": "ChIJLb4pOFV_CEgRE0KQC64IBMI",
+    "nom": "Garage Najasa - Abiss Automobiles",
+    "url": "/garages-automobile/angers/garage-najasa-abiss-automobiles/"
+  },
+  {
+    "date": "2026-11-10T13:29:30.844Z",
+    "type": "suggestion-soumise",
+    "id": "ChIJy4Mltp3JlkcRjvToM4Zk8vk",
+    "nom": "La Gourmande",
+    "url": "/boulangeries-patisseries/strasbourg/la-gourmande/"
+  },
+  {
+    "date": "2026-11-10T13:29:30.790Z",
+    "type": "suggestion-soumise",
+    "id": "ChIJpyo4P_Sr9UcRt1enWnF4v8s",
+    "nom": "Les Comptoirs d'Alice et Jules",
+    "url": "/restaurants/saint-etienne/les-comptoirs-d-alice-et-jules/"
+  },
+  {
+    "date": "2026-11-10T13:29:30.734Z",
+    "type": "suggestion-soumise",
+    "id": "ChIJXXk-wIL65UcROYgqx70qNw4",
+    "nom": "Sena Auto",
+    "url": "/garages-automobile/dammarie-les-lys/sena-auto/"
+  },
+  {
+    "date": "2026-11-10T13:29:29.761Z",
+    "type": "retrait-410",
+    "id": "ChIJMc7vjOp760cRcizSNnEG2NU",
+    "nom": "19 Quatre",
+    "url": "/loisirs-sport-culture/bar-le-duc/19-quatre/",
+    "motif": "backlink jamais posé après 45 jours de délai de grâce",
+    "cible": null
+  },
+  {
+    "date": "2026-11-10T13:29:29.768Z",
+    "type": "retrait-410",
+    "id": "ChIJz4McXzMwB0gRyKo_Fjyk0aQ",
+    "nom": "Le Lutétia",
+    "url": "/cafes-bars/niort/le-lutetia/",
+    "motif": "backlink jamais posé après 45 jours de délai de grâce",
+    "cible": null
+  },
+  {
+    "date": "2026-11-10T13:29:29.770Z",
+    "type": "retrait-410",
+    "id": "ChIJO8xsNbht5kcRHhW_CjouVD8",
+    "nom": "OBTB La Courneuve",
+    "url": "/restaurants/la-courneuve/obtb-la-courneuve/",
+    "motif": "backlink jamais posé après 45 jours de délai de grâce",
+    "cible": null
+  },
+  {
+    "date": "2026-11-10T13:29:29.770Z",
+    "type": "retrait-410",
+    "id": "ChIJPdGYOyyhk0cRhmHhdVOLMxM",
+    "nom": "Piou-Piou Epinal",
+    "url": "/restaurants/epinal/piou-piou-epinal/",
+    "motif": "backlink jamais posé après 45 jours de délai de grâce",
+    "cible": null
+  },
+  {
+    "date": "2026-11-10T13:25:30.554Z",
+    "type": "backlink-absent",
+    "id": "ChIJZ6dKWPsN6kcRQzr2OGHRmb0",
+    "nom": "Boulangerie Zanelli",
+    "url": null,
+    "precedent": "en-attente"
+  },
+  {
+    "date": "2026-11-10T13:25:30.594Z",
+    "type": "backlink-absent",
+    "id": "ChIJoT9dcLKpi0cREVlhceX647Y",
+    "nom": "La Fleurette",
+    "url": null,
+    "precedent": "en-attente"
+  },
+  {
+    "date": "2026-11-10T13:25:30.634Z",
+    "type": "backlink-absent",
+    "id": "ChIJH5RWPtL85EcR2fjXgNoqeqE",
+    "nom": "Le Narval",
+    "url": null,
+    "precedent": "en-attente"
+  },
+  {
+    "date": "2026-11-10T13:25:30.694Z",
+    "type": "backlink-absent",
+    "id": "ChIJ7a07Zp0nVQ0R8cIPKbx0ris",
+    "nom": "Les Halles de Talence",
+    "url": null,
+    "precedent": "en-attente"
+  },
+  {
+    "date": "2026-11-10T13:25:30.740Z",
+    "type": "backlink-absent",
+    "id": "ChIJ_-PrH9OOrBIRl-AWFLI1x6E",
+    "nom": "Wery Maud",
+    "url": null,
+    "precedent": "en-attente"
+  },
+  {
+    "date": "2026-11-10T13:25:29.790Z",
+    "type": "publication",
+    "id": "ChIJH5RWPtL85EcR2fjXgNoqeqE",
+    "nom": "Le Narval",
+    "url": "/cafes-bars/saint-jean-de-braye/le-narval/",
+    "categorie": "cafes-bars",
+    "source": "google-places"
+  },
+  {
+    "date": "2026-11-10T13:25:30.043Z",
+    "type": "publication",
+    "id": "ChIJ_-PrH9OOrBIRl-AWFLI1x6E",
+    "nom": "Wery Maud",
+    "url": "/veterinaires-animaux/pradines/wery-maud/",
+    "categorie": "veterinaires-animaux",
+    "source": "google-places"
+  },
+  {
+    "date": "2026-11-10T13:25:30.122Z",
+    "type": "publication",
+    "id": "ChIJZ6dKWPsN6kcRQzr2OGHRmb0",
+    "nom": "Boulangerie Zanelli",
+    "url": "/boulangeries-patisseries/aiglemont/boulangerie-zanelli/",
+    "categorie": "boulangeries-patisseries",
+    "source": "google-places"
+  },
+  {
+    "date": "2026-11-10T13:25:30.214Z",
+    "type": "publication",
+    "id": "ChIJ7a07Zp0nVQ0R8cIPKbx0ris",
+    "nom": "Les Halles de Talence",
+    "url": "/commerces-alimentation/talence/les-halles-de-talence/",
+    "categorie": "commerces-alimentation",
+    "source": "google-places"
+  },
+  {
+    "date": "2026-11-10T13:25:30.283Z",
+    "type": "publication",
+    "id": "ChIJoT9dcLKpi0cREVlhceX647Y",
+    "nom": "La Fleurette",
+    "url": "/boulangeries-patisseries/jacob-bellecombette/la-fleurette/",
+    "categorie": "boulangeries-patisseries",
+    "source": "google-places"
+  },
+  {
     "date": "2026-11-09T13:54:34.553Z",
     "type": "retrait-410",
     "id": "ChIJDytNyv0R6kcRqxbAQArb6nw",

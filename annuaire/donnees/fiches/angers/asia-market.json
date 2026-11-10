@@ -203,7 +203,7 @@
     "clicsRecents": 0,
     "fenetreRecenteJours": 28,
     "source": "search-console",
-    "date": "2026-11-09"
+    "date": "2026-11-10"
   },
   "avis_detail": {
     "releve": "2026-10-18",
@@ -254,5 +254,14 @@
         "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSURkOElTWnVRRRAB!2m1!1s0x480878519c0cb835:0x4e2c41a0082ad866"
       }
     ]
+  },
+  "indexation": {
+    "etat": "indexee",
+    "verdict": "PASS",
+    "couverture": "Envoyée et indexée",
+    "derniere_exploration": "2026-11-07T09:35:49Z",
+    "canonique_google": "https://andpro.fr/vitrine-locale/commerces-alimentation/angers/asia-market/",
+    "source": "inspection",
+    "date": "2026-11-10"
   }
 }

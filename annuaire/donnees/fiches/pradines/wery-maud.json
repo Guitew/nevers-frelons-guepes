@@ -1,0 +1,285 @@
+{
+  "id": "ChIJ_-PrH9OOrBIRl-AWFLI1x6E",
+  "slug": "wery-maud",
+  "nom": "Wery Maud",
+  "categorie": "veterinaires-animaux",
+  "categorie_gmb": "Soins vétérinaires",
+  "type_principal": "veterinary_care",
+  "types": [
+    "veterinary_care",
+    "pet_care",
+    "point_of_interest",
+    "establishment"
+  ],
+  "ville": "Pradines",
+  "ville_slug": "pradines",
+  "adresse": {
+    "rue": "635 Côte du Pape",
+    "code_postal": "46090",
+    "departement": "46",
+    "region": "Occitanie",
+    "pays": "France",
+    "complete": "635 Côte du Pape, 46090 Pradines"
+  },
+  "telephone": "05 65 30 97 56",
+  "geo": {
+    "latitude": 44.4632991,
+    "longitude": 1.416671
+  },
+  "note": 4.7,
+  "avis": 289,
+  "horaires": [
+    {
+      "jour": 0,
+      "ferme": false,
+      "creneaux": [
+        [
+          "08:30",
+          "12:00"
+        ],
+        [
+          "14:30",
+          "18:30"
+        ]
+      ]
+    },
+    {
+      "jour": 1,
+      "ferme": false,
+      "creneaux": [
+        [
+          "08:30",
+          "12:00"
+        ],
+        [
+          "14:30",
+          "18:30"
+        ]
+      ]
+    },
+    {
+      "jour": 2,
+      "ferme": false,
+      "creneaux": [
+        [
+          "08:30",
+          "12:00"
+        ],
+        [
+          "14:30",
+          "18:30"
+        ]
+      ]
+    },
+    {
+      "jour": 3,
+      "ferme": false,
+      "creneaux": [
+        [
+          "08:30",
+          "12:00"
+        ],
+        [
+          "14:30",
+          "18:30"
+        ]
+      ]
+    },
+    {
+      "jour": 4,
+      "ferme": false,
+      "creneaux": [
+        [
+          "08:30",
+          "12:00"
+        ],
+        [
+          "14:30",
+          "18:30"
+        ]
+      ]
+    },
+    {
+      "jour": 5,
+      "ferme": false,
+      "creneaux": [
+        [
+          "09:00",
+          "12:00"
+        ]
+      ]
+    },
+    {
+      "jour": 6,
+      "ferme": true,
+      "creneaux": []
+    }
+  ],
+  "attributs": [
+    "Entrée accessible en fauteuil roulant",
+    "Parking accessible en fauteuil roulant"
+  ],
+  "lien_google": "https://maps.google.com/?cid=11657345199429312663&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
+  "site_web_gmb": null,
+  "statut": "publiee",
+  "backlink": {
+    "etat": "absent",
+    "premiere_detection": null,
+    "derniere_detection": null,
+    "derniere_verification": "2026-11-10T13:25:30.428Z",
+    "echecs": 1,
+    "url_detectee": null
+  },
+  "suggestion": {
+    "etat": "en-attente",
+    "date_soumission": null,
+    "tentatives": 0,
+    "date_email": "2026-11-10"
+  },
+  "retrait": null,
+  "dates": {
+    "collecte": "2026-11-10",
+    "publication": "2026-11-10",
+    "maj": "2026-11-10"
+  },
+  "source": "google-places",
+  "avis_detail": {
+    "releve": "2026-11-10",
+    "liste": [
+      {
+        "note": 1,
+        "texte": "J'ai amené mon lapin nain en urgence car il faisait un arrêt de transit. Le vétérinaire était stressé car pas l'habitude du tout des lapins! malgré la radio, il ne me l'a pas hospitalisé et m'a donné qu'un sirop. J'ai quand même payé 170 euros pour zéro résultat. Perte de temps!!! Et aucune excuse de sa part malgré que j'ai rapellé pour lui dire qu'il avait fait un mauvais diagnostic !Le lendemain, mon lapin à été hospitalisé en urgence ailleurs et son pronostic vital est engagé!!",
+        "langue": "fr",
+        "date": "2026-10-20",
+        "auteur": "Virginie Manzanares",
+        "auteur_lien": "https://www.google.com/maps/contrib/108356023029259570389/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xOa1oycEpUMWhRYjBWTVFWZEVUVXBXYmxSUFIyYxAB!2m1!1s0x12ac8ed31febe3ff:0xa1c735b21416e097"
+      },
+      {
+        "note": 5,
+        "texte": "Je recommande a 100 % ce veterinaire\nIl vient d arriver chez Maud Wery j appréhendé le vaccin pour mon spitz suite a une mauvaise expérience l année passé.\nIl donne de bons conseils et  d une très grande gentillesse avec les animaux.\nQue du bonheur !!!!!",
+        "langue": "fr",
+        "date": "2026-09-11",
+        "auteur": "Maryline Vertut",
+        "auteur_lien": "https://www.google.com/maps/contrib/111145037278006992850/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25WeFkyOVpVMlJaTTNWM1EyUjFMVEJaZUdsQ1VuYxAB!2m1!1s0x12ac8ed31febe3ff:0xa1c735b21416e097"
+      },
+      {
+        "note": 5,
+        "texte": "Merci à toute l équipe qui s occupe de mes chihuahuas depuis toutes ces années les vétérinaires et l accueil cherchent toujours des solutions pour être le plus performants possible.",
+        "langue": "fr",
+        "date": "2026-07-31",
+        "auteur": "Florian Frechet",
+        "auteur_lien": "https://www.google.com/maps/contrib/117514860373750156221/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xsNmFHWlBjbEJrWTJaNk4yOUpNVTh6YkRSM1FuYxAB!2m1!1s0x12ac8ed31febe3ff:0xa1c735b21416e097"
+      },
+      {
+        "note": 5,
+        "texte": "Un grand merci à l'équipe pour les soins apportés à Feline depuis 2019 et en particulier au Dr Coursin à qui je souhaite bonne chance pour la suite de son parcours.",
+        "langue": "fr",
+        "date": "2026-06-26",
+        "auteur": "Christine Boschetti",
+        "auteur_lien": "https://www.google.com/maps/contrib/116266570068921025655/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2twb1RYbHBaRXMyWmtOaGFFOVlOMmgzY1ZBM2FWRRAB!2m1!1s0x12ac8ed31febe3ff:0xa1c735b21416e097"
+      },
+      {
+        "note": 1,
+        "texte": "Erreur de diagnostic et pas perçu côte cassée de mon chien qui lui a perforé le bas du ventre avec infection.\nCela mériterait un remboursement pour des soîns négligés.\nUn remboursement d une moitié du montant serait le bienvenu.....après morsures de mon chien par chien de sdf......",
+        "langue": "fr",
+        "date": "2026-05-13",
+        "auteur": "Laurence Belaygue",
+        "auteur_lien": "https://www.google.com/maps/contrib/114869604341216272584/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25Oa2RtRXhWVGxOUlVnNFQwZHhkRzVPUVZwU2VFRRAB!2m1!1s0x12ac8ed31febe3ff:0xa1c735b21416e097"
+      }
+    ]
+  },
+  "services": {
+    "releve": "2026-11-10",
+    "options": {
+      "restroom": true
+    },
+    "paiement": [],
+    "parking": []
+  },
+  "redaction": {
+    "version": 2,
+    "titre": "Wery Maud — Vétérinaire et animaux à Pradines",
+    "meta_titre": "Wery Maud à Pradines : horaires, avis, téléphone",
+    "meta_description": "Wery Maud, vétérinaire et animaux à Pradines : horaires d'ouverture, note Google 4,7/5 (289 avis), téléphone, adresse et itinéraire.",
+    "chapo": "Wery Maud est un vétérinaire et animaux au 635 Côte du Pape, à Pradines. Ouvert tous les jours sauf le dimanche au relevé du 10 novembre 2026. Téléphone : 05 65 30 97 56. Note Google : 4,7 sur 5 pour 289 avis.",
+    "sections": [
+      {
+        "id": "presentation",
+        "titre": "Wery Maud en quelques mots",
+        "paragraphes": [
+          "Sur Google, l'établissement est classé « Soins vétérinaires », dans notre rubrique Vétérinaire et animaux.",
+          "D'après le relevé du 10 novembre 2026, l'établissement est ouvert tous les jours sauf le dimanche. Le détail jour par jour figure plus bas."
+        ]
+      },
+      {
+        "id": "prestations",
+        "titre": "Services et équipements de Wery Maud",
+        "paragraphes": [
+          "Proposé : toilettes.",
+          "Ces indications sont déclarées par l'établissement sur sa fiche Google (relevé du 10 novembre 2026)."
+        ]
+      },
+      {
+        "id": "acces",
+        "titre": "Adresse et accès",
+        "paragraphes": [
+          "L'établissement est situé au 635 Côte du Pape, 46090 Pradines.",
+          "Coordonnées GPS : 44.46330, 1.41667. Le bouton Itinéraire de cette page ouvre la navigation."
+        ]
+      },
+      {
+        "id": "contact",
+        "titre": "Contacter Wery Maud",
+        "paragraphes": [
+          "Le contact se fait par téléphone au 05 65 30 97 56, ou directement sur place aux horaires d'ouverture."
+        ]
+      },
+      {
+        "id": "avis",
+        "titre": "La réputation de Wery Maud",
+        "paragraphes": [
+          "Note de 4,7 sur 5 pour 289 avis Google au relevé du 10 novembre 2026. Les avis les plus parlants sont compilés ci-dessous, avec un lien vers la fiche d'origine."
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "q": "Quels sont les horaires de Wery Maud ?",
+        "r": "Au relevé du 10 novembre 2026, Wery Maud était ouvert tous les jours sauf le dimanche. Dans le détail — lundi : de 8 h 30 à 12 h et de 14 h 30 à 18 h 30 ; mardi : de 8 h 30 à 12 h et de 14 h 30 à 18 h 30 ; mercredi : de 8 h 30 à 12 h et de 14 h 30 à 18 h 30 ; jeudi : de 8 h 30 à 12 h et de 14 h 30 à 18 h 30 ; vendredi : de 8 h 30 à 12 h et de 14 h 30 à 18 h 30 ; samedi : de 9 h à 12 h ; dimanche : fermé. Ces horaires peuvent changer : un appel préalable reste conseillé."
+      },
+      {
+        "q": "Wery Maud est-il ouvert le dimanche ?",
+        "r": "Non : d'après les horaires relevés le 10 novembre 2026, Wery Maud est fermé le dimanche."
+      },
+      {
+        "q": "Où se trouve Wery Maud ?",
+        "r": "Wery Maud se trouve 635 Côte du Pape, 46090 Pradines. Un lien d'itinéraire est disponible sur cette page."
+      },
+      {
+        "q": "Comment contacter Wery Maud ?",
+        "r": "Par téléphone au 05 65 30 97 56, ou directement sur place aux heures d'ouverture."
+      },
+      {
+        "q": "Wery Maud est-il accessible aux personnes à mobilité réduite ?",
+        "r": "La fiche Google de l'établissement mentionne : « Entrée accessible en fauteuil roulant ». Cette information est déclarative ; en cas de doute, vérifiez par téléphone."
+      }
+    ],
+    "genere_le": "2026-11-10"
+  },
+  "statut_google": "OPERATIONAL",
+  "audience": {
+    "clics": 0,
+    "impressions": 0,
+    "position": null,
+    "fenetreJours": 90,
+    "clicsRecents": 0,
+    "fenetreRecenteJours": 28,
+    "source": "search-console",
+    "date": "2026-11-10"
+  }
+}
