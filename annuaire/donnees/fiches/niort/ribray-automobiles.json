@@ -1,0 +1,262 @@
+{
+  "id": "ChIJtcQn5CwuB0gRy4ng_8s5Slk",
+  "slug": "ribray-automobiles",
+  "nom": "RIBRAY AUTOMOBILES",
+  "categorie": "garages-automobile",
+  "categorie_gmb": "Garage automobile",
+  "type_principal": "car_repair",
+  "types": [
+    "car_repair",
+    "service",
+    "point_of_interest",
+    "establishment"
+  ],
+  "ville": "Niort",
+  "ville_slug": "niort",
+  "adresse": {
+    "rue": "184 Rue de Ribray",
+    "code_postal": "79000",
+    "departement": "79",
+    "region": "Nouvelle-Aquitaine",
+    "pays": "France",
+    "complete": "184 Rue de Ribray, 79000 Niort"
+  },
+  "telephone": "05 49 73 49 81",
+  "geo": {
+    "latitude": 46.321895,
+    "longitude": -0.47775499999999993
+  },
+  "note": 4.4,
+  "avis": 87,
+  "horaires": [
+    {
+      "jour": 0,
+      "ferme": false,
+      "creneaux": [
+        [
+          "08:00",
+          "19:00"
+        ]
+      ]
+    },
+    {
+      "jour": 1,
+      "ferme": false,
+      "creneaux": [
+        [
+          "08:00",
+          "19:00"
+        ]
+      ]
+    },
+    {
+      "jour": 2,
+      "ferme": false,
+      "creneaux": [
+        [
+          "08:00",
+          "19:00"
+        ]
+      ]
+    },
+    {
+      "jour": 3,
+      "ferme": false,
+      "creneaux": [
+        [
+          "08:00",
+          "19:00"
+        ]
+      ]
+    },
+    {
+      "jour": 4,
+      "ferme": false,
+      "creneaux": [
+        [
+          "08:00",
+          "18:00"
+        ]
+      ]
+    },
+    {
+      "jour": 5,
+      "ferme": true,
+      "creneaux": []
+    },
+    {
+      "jour": 6,
+      "ferme": true,
+      "creneaux": []
+    }
+  ],
+  "attributs": [
+    "Entrée accessible en fauteuil roulant",
+    "Parking accessible en fauteuil roulant"
+  ],
+  "lien_google": "https://maps.google.com/?cid=6434018565986224587&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
+  "site_web_gmb": null,
+  "statut": "publiee",
+  "backlink": {
+    "etat": "absent",
+    "premiere_detection": null,
+    "derniere_detection": null,
+    "derniere_verification": "2026-11-11T12:40:13.640Z",
+    "echecs": 1,
+    "url_detectee": null
+  },
+  "suggestion": {
+    "etat": "en-attente",
+    "date_soumission": null,
+    "tentatives": 0,
+    "date_email": "2026-11-11"
+  },
+  "retrait": null,
+  "dates": {
+    "collecte": "2026-11-11",
+    "publication": "2026-11-11",
+    "maj": "2026-11-11"
+  },
+  "source": "google-places",
+  "avis_detail": {
+    "releve": "2026-11-11",
+    "liste": [
+      {
+        "note": 5,
+        "texte": "Récemment arrivé à Niort, j'y suis allé pour un problème d'alarmes multiples et intempestives. Le problème a été traité rapidement.\nPas de perte de temps en paperasse et ordre de réparation diverses avant de commencer le diagnostic, on reste sur du contact humain et de la confiance.\nBref, un garage a l'ancienne dans le bon sens du terme avec des personnes compétentes y compris sur des problèmes d'électronique actuels.\nVu la fréquentation,  je pense qu'ils n'ont pas besoin de publicité dans le quartier",
+        "langue": "fr",
+        "date": "2026-05-29",
+        "auteur": "Marc Boucher",
+        "auteur_lien": "https://www.google.com/maps/contrib/103440304389761814025/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2taSmFYTTRUWG8yYUVwNGFHeEhUM1pLZGswNGNGRRAB!2m1!1s0x48072e2ce427c4b5:0x594a39cbffe089cb"
+      },
+      {
+        "note": 5,
+        "texte": "Passage à l'improviste ce matin pour un problème de ressort de bras d'essuie-glace. Pris en charge de suite et problème réglé sans avoir rien à débourser. Je vais dorénavant venir chez eux pour mes révisions.",
+        "langue": "fr",
+        "date": "2026-04-14",
+        "auteur": "Julien Spahn",
+        "auteur_lien": "https://www.google.com/maps/contrib/111959162239678770497/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25sMWJHeG9ObVF0TUVwRFVUZG5YM1ZHVmxsdFNWRRAB!2m1!1s0x48072e2ce427c4b5:0x594a39cbffe089cb"
+      },
+      {
+        "note": 5,
+        "texte": "Super garage, j'y ai déposé ma clio 2 et la réparation n'a pas été de tout repos mais le personnel s'est montré plus que compréhensif et professionnel, je recommande vivement.",
+        "langue": "fr",
+        "date": "2026-03-21",
+        "auteur": "alexis cabaret",
+        "auteur_lien": "https://www.google.com/maps/contrib/113243616046599981316/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2pONFlVNXJkako0ZEhkWGMzTmZhelJxTkZOWU4wRRAB!2m1!1s0x48072e2ce427c4b5:0x594a39cbffe089cb"
+      },
+      {
+        "note": 5,
+        "texte": "Accueil super. Je suis venu un matin à 8 h pour un souci de voyant allumé. Il a pris aussitôt mon véhicule, alors que je n'étais pas client chez eux.\nGrâce à cette sympathie et cette disponibilité, je continuerai à faire entretenir mon véhicule ici.",
+        "langue": "fr",
+        "date": "2026-03-06",
+        "auteur": "Minos Mass",
+        "auteur_lien": "https://www.google.com/maps/contrib/112102761067824326172/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2kxS2FGOXVZVTltUVZOcVJVTmZWbkJoU1hWcVZIYxAB!2m1!1s0x48072e2ce427c4b5:0x594a39cbffe089cb"
+      },
+      {
+        "note": 5,
+        "texte": "Toujours un super accueil, même pour des \"petites\" choses. Ce garage ne néglige rien. Disponibles, toujours de bon conseil, on y va avec confiance. Le gérant est très calé et toujours très aimable. Tout est fait pour arranger le client. Parfait.",
+        "langue": "fr",
+        "date": "2025-04-25",
+        "auteur": "helene robichez",
+        "auteur_lien": "https://www.google.com/maps/contrib/117306428900281991913/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnTURvZ2NhNjdnRRAB!2m1!1s0x48072e2ce427c4b5:0x594a39cbffe089cb"
+      }
+    ]
+  },
+  "services": {
+    "releve": "2026-11-11",
+    "options": {},
+    "paiement": [
+      "carte bancaire",
+      "carte de débit",
+      "paiement sans contact"
+    ],
+    "parking": []
+  },
+  "redaction": {
+    "version": 2,
+    "titre": "RIBRAY AUTOMOBILES — Garage et automobile à Niort",
+    "meta_titre": "RIBRAY AUTOMOBILES à Niort : horaires, avis, téléphone",
+    "meta_description": "RIBRAY AUTOMOBILES, garage et automobile à Niort : horaires d'ouverture, note Google 4,4/5 (87 avis), téléphone, adresse et itinéraire.",
+    "chapo": "RIBRAY AUTOMOBILES est un garage et automobile au 184 Rue de Ribray, à Niort. Fermé le samedi et le dimanche au relevé du 11 novembre 2026. Téléphone : 05 49 73 49 81. Note Google : 4,4 sur 5 pour 87 avis.",
+    "sections": [
+      {
+        "id": "presentation",
+        "titre": "RIBRAY AUTOMOBILES en quelques mots",
+        "paragraphes": [
+          "Sur Google, l'établissement est classé « Garage automobile », dans notre rubrique Garage et automobile.",
+          "D'après le relevé du 11 novembre 2026, l'établissement est fermé le samedi et le dimanche. Le détail jour par jour figure plus bas."
+        ]
+      },
+      {
+        "id": "prestations",
+        "titre": "Services et équipements de RIBRAY AUTOMOBILES",
+        "paragraphes": [
+          "Moyens de paiement déclarés : carte bancaire, carte de débit et paiement sans contact.",
+          "Ces indications sont déclarées par l'établissement sur sa fiche Google (relevé du 11 novembre 2026)."
+        ]
+      },
+      {
+        "id": "acces",
+        "titre": "Adresse et accès",
+        "paragraphes": [
+          "L'établissement est situé au 184 Rue de Ribray, 79000 Niort.",
+          "Coordonnées GPS : 46.32189, -0.47775. Le bouton Itinéraire de cette page ouvre la navigation."
+        ]
+      },
+      {
+        "id": "contact",
+        "titre": "Contacter RIBRAY AUTOMOBILES",
+        "paragraphes": [
+          "Le contact se fait par téléphone au 05 49 73 49 81, ou directement sur place aux horaires d'ouverture."
+        ]
+      },
+      {
+        "id": "avis",
+        "titre": "La réputation de RIBRAY AUTOMOBILES",
+        "paragraphes": [
+          "Note de 4,4 sur 5 pour 87 avis Google au relevé du 11 novembre 2026. Les avis les plus parlants sont compilés ci-dessous, avec un lien vers la fiche d'origine."
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "q": "Quels sont les horaires de RIBRAY AUTOMOBILES ?",
+        "r": "Au relevé du 11 novembre 2026, RIBRAY AUTOMOBILES était fermé le samedi et le dimanche. Dans le détail — lundi : de 8 h à 19 h ; mardi : de 8 h à 19 h ; mercredi : de 8 h à 19 h ; jeudi : de 8 h à 19 h ; vendredi : de 8 h à 18 h ; samedi : fermé ; dimanche : fermé. Ces horaires peuvent changer : un appel préalable reste conseillé."
+      },
+      {
+        "q": "RIBRAY AUTOMOBILES est-il ouvert le dimanche ?",
+        "r": "Non : d'après les horaires relevés le 11 novembre 2026, RIBRAY AUTOMOBILES est fermé le dimanche."
+      },
+      {
+        "q": "Où se trouve RIBRAY AUTOMOBILES ?",
+        "r": "RIBRAY AUTOMOBILES se trouve 184 Rue de Ribray, 79000 Niort. Un lien d'itinéraire est disponible sur cette page."
+      },
+      {
+        "q": "Comment contacter RIBRAY AUTOMOBILES ?",
+        "r": "Par téléphone au 05 49 73 49 81, ou directement sur place aux heures d'ouverture."
+      },
+      {
+        "q": "RIBRAY AUTOMOBILES est-il accessible aux personnes à mobilité réduite ?",
+        "r": "La fiche Google de l'établissement mentionne : « Entrée accessible en fauteuil roulant ». Cette information est déclarative ; en cas de doute, vérifiez par téléphone."
+      }
+    ],
+    "genere_le": "2026-11-11"
+  },
+  "statut_google": "OPERATIONAL",
+  "audience": {
+    "clics": 0,
+    "impressions": 0,
+    "position": null,
+    "fenetreJours": 90,
+    "clicsRecents": 0,
+    "fenetreRecenteJours": 28,
+    "source": "search-console",
+    "date": "2026-11-11"
+  }
+}

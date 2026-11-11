@@ -228,14 +228,14 @@
   },
   "statut_google": "OPERATIONAL",
   "audience": {
-    "clics": 144,
-    "impressions": 3796,
+    "clics": 146,
+    "impressions": 3901,
     "position": 3.2,
     "fenetreJours": 90,
-    "clicsRecents": 122,
+    "clicsRecents": 114,
     "fenetreRecenteJours": 28,
     "source": "search-console",
-    "date": "2026-11-10"
+    "date": "2026-11-11"
   },
   "avis_detail": {
     "releve": "2026-10-20",
@@ -298,5 +298,14 @@
       "paiement sans contact"
     ],
     "parking": []
+  },
+  "indexation": {
+    "etat": "indexee",
+    "verdict": null,
+    "couverture": "impressions dans la Search Console",
+    "derniere_exploration": null,
+    "canonique_google": null,
+    "source": "impressions",
+    "date": "2026-11-11"
   }
 }

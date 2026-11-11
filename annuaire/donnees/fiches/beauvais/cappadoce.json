@@ -28,7 +28,7 @@
     "longitude": 2.0850844
   },
   "note": 4.4,
-  "avis": 622,
+  "avis": 626,
   "horaires": [
     {
       "jour": 0,
@@ -102,15 +102,15 @@
     "Places assises accessibles en fauteuil roulant"
   ],
   "lien_google": "https://maps.google.com/?cid=3631857310508132448&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
-  "site_web_gmb": null,
+  "site_web_gmb": "https://cappadoce.dlbstudio.eu/",
   "statut": "publiee",
   "backlink": {
-    "etat": "absent",
+    "etat": "externe",
     "premiere_detection": null,
     "derniere_detection": null,
-    "derniere_verification": "2026-10-25T09:45:58.784Z",
-    "echecs": 26,
-    "url_detectee": null
+    "derniere_verification": "2026-11-11T12:40:13.640Z",
+    "echecs": 27,
+    "url_detectee": "https://cappadoce.dlbstudio.eu/"
   },
   "suggestion": {
     "etat": "en-attente",
@@ -122,7 +122,7 @@
   "dates": {
     "collecte": "2026-09-26",
     "publication": "2026-09-26",
-    "maj": "2026-10-25"
+    "maj": "2026-11-11"
   },
   "source": "google-places",
   "redaction": {
@@ -210,13 +210,13 @@
   "statut_google": "OPERATIONAL",
   "audience": {
     "clics": 0,
-    "impressions": 506,
+    "impressions": 511,
     "position": 9.9,
     "fenetreJours": 90,
     "clicsRecents": 0,
     "fenetreRecenteJours": 28,
     "source": "search-console",
-    "date": "2026-11-10"
+    "date": "2026-11-11"
   },
   "avis_detail": {
     "releve": "2026-10-25",
@@ -306,6 +306,6 @@
     "derniere_exploration": null,
     "canonique_google": null,
     "source": "impressions",
-    "date": "2026-11-10"
+    "date": "2026-11-11"
   }
 }

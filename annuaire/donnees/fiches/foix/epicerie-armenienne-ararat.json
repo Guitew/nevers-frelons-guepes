@@ -100,7 +100,7 @@
   "attributs": [],
   "lien_google": "https://maps.google.com/?cid=5394267954843796468&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
   "site_web_gmb": null,
-  "statut": "publiee",
+  "statut": "retiree",
   "backlink": {
     "etat": "absent",
     "premiere_detection": null,
@@ -115,11 +115,16 @@
     "tentatives": 0,
     "date_email": "2026-09-27"
   },
-  "retrait": null,
+  "retrait": {
+    "mode": "410",
+    "cible": null,
+    "date": "2026-11-11",
+    "motif": "backlink jamais posé après 45 jours de délai de grâce"
+  },
   "dates": {
     "collecte": "2026-09-27",
     "publication": "2026-09-27",
-    "maj": "2026-11-04"
+    "maj": "2026-11-11"
   },
   "source": "google-places",
   "redaction": {
@@ -197,13 +202,13 @@
   "statut_google": "OPERATIONAL",
   "audience": {
     "clics": 0,
-    "impressions": 3,
-    "position": 8.3,
+    "impressions": 5,
+    "position": 8.4,
     "fenetreJours": 90,
     "clicsRecents": 0,
     "fenetreRecenteJours": 28,
     "source": "search-console",
-    "date": "2026-11-10"
+    "date": "2026-11-11"
   },
   "avis_detail": {
     "releve": "2026-10-19",
@@ -275,6 +280,6 @@
     "derniere_exploration": null,
     "canonique_google": null,
     "source": "impressions",
-    "date": "2026-11-10"
+    "date": "2026-11-11"
   }
 }

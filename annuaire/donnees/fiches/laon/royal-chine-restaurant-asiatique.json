@@ -1,0 +1,336 @@
+{
+  "id": "ChIJlebOp8m06UcRSgNOPkmxSEI",
+  "slug": "royal-chine-restaurant-asiatique",
+  "nom": "Royal Chine, restaurant asiatique",
+  "categorie": "restaurants",
+  "categorie_gmb": "Restaurant",
+  "type_principal": "restaurant",
+  "types": [
+    "restaurant",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "ville": "Laon",
+  "ville_slug": "laon",
+  "adresse": {
+    "rue": "4 Rue des Minimes",
+    "code_postal": "02000",
+    "departement": "02",
+    "region": "Hauts-de-France",
+    "pays": "France",
+    "complete": "4 Rue des Minimes, 02000 Laon"
+  },
+  "telephone": "03 23 28 88 88",
+  "geo": {
+    "latitude": 49.574739799999996,
+    "longitude": 3.6507690999999998
+  },
+  "note": 4.3,
+  "avis": 1384,
+  "horaires": [
+    {
+      "jour": 0,
+      "ferme": true,
+      "creneaux": []
+    },
+    {
+      "jour": 1,
+      "ferme": false,
+      "creneaux": [
+        [
+          "11:45",
+          "14:30"
+        ],
+        [
+          "18:45",
+          "22:30"
+        ]
+      ]
+    },
+    {
+      "jour": 2,
+      "ferme": false,
+      "creneaux": [
+        [
+          "11:45",
+          "14:30"
+        ],
+        [
+          "18:45",
+          "22:30"
+        ]
+      ]
+    },
+    {
+      "jour": 3,
+      "ferme": false,
+      "creneaux": [
+        [
+          "11:45",
+          "14:30"
+        ],
+        [
+          "18:45",
+          "22:30"
+        ]
+      ]
+    },
+    {
+      "jour": 4,
+      "ferme": false,
+      "creneaux": [
+        [
+          "11:45",
+          "14:30"
+        ],
+        [
+          "18:45",
+          "23:00"
+        ]
+      ]
+    },
+    {
+      "jour": 5,
+      "ferme": false,
+      "creneaux": [
+        [
+          "11:45",
+          "14:30"
+        ],
+        [
+          "18:45",
+          "23:00"
+        ]
+      ]
+    },
+    {
+      "jour": 6,
+      "ferme": false,
+      "creneaux": [
+        [
+          "11:45",
+          "14:30"
+        ],
+        [
+          "18:45",
+          "22:30"
+        ]
+      ]
+    }
+  ],
+  "attributs": [
+    "Entrée accessible en fauteuil roulant",
+    "Parking accessible en fauteuil roulant",
+    "Toilettes accessibles en fauteuil roulant",
+    "Places assises accessibles en fauteuil roulant"
+  ],
+  "lien_google": "https://maps.google.com/?cid=4776262332962440010&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
+  "site_web_gmb": null,
+  "statut": "publiee",
+  "backlink": {
+    "etat": "absent",
+    "premiere_detection": null,
+    "derniere_detection": null,
+    "derniere_verification": "2026-11-11T12:40:13.640Z",
+    "echecs": 1,
+    "url_detectee": null
+  },
+  "suggestion": {
+    "etat": "en-attente",
+    "date_soumission": null,
+    "tentatives": 0,
+    "date_email": "2026-11-11"
+  },
+  "retrait": null,
+  "dates": {
+    "collecte": "2026-11-11",
+    "publication": "2026-11-11",
+    "maj": "2026-11-11"
+  },
+  "source": "google-places",
+  "avis_detail": {
+    "releve": "2026-11-11",
+    "liste": [
+      {
+        "note": 5,
+        "texte": "⭐⭐⭐⭐⭐\n\nPour moi, c'est tout simplement le meilleur restaurant chinois à volonté que j'ai eu l'occasion de découvrir ! Jusqu'à aujourd'hui, je n'ai trouvé aucun établissement capable de rivaliser avec celui-ci. Que ce soit la qualité, le choix, la fraîcheur des produits ou le plaisir de manger, tout est au rendez-vous. C'est toujours un vrai plaisir de venir ici.\n\nJ'ai pourtant eu l'occasion d'en essayer beaucoup, mais celui-ci reste largement au-dessus du lot. Une adresse que je recommande les yeux fermés et qui mérite largement ses 5 étoiles ! 👏\n\nNe changez rien, vous êtes au sommet ! ❤️",
+        "langue": "fr",
+        "date": "2026-10-31",
+        "auteur": "vincent 89",
+        "auteur_lien": "https://www.google.com/maps/contrib/113023097818669533778/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT21aMldIVkhaVWgyZFc0MFRVNXlRbkJTT0ZCbVZYYxAB!2m1!1s0x47e9b4c9a7cee695:0x4248b1493e4e034a"
+      },
+      {
+        "note": 1,
+        "texte": "Rien à manger très déplorable pour nous c’était une première fois et bien la dernière, pour quelques euros de plus vous allez ailleurs vous serez mieux servis .",
+        "langue": "fr",
+        "date": "2026-10-04",
+        "auteur": "Julia Milot",
+        "auteur_lien": "https://www.google.com/maps/contrib/116462333772699955539/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25nNVVHOUZTbHBCU1U5RWRXRnZZMWRDV1RoQ1dVRRAB!2m1!1s0x47e9b4c9a7cee695:0x4248b1493e4e034a"
+      },
+      {
+        "note": 5,
+        "texte": "Rien à dire , l’accueil et la politesse des personnes sont super ! La nourriture est parfaite et pas mal de choix ! Nous recommandons !",
+        "langue": "fr",
+        "date": "2026-07-12",
+        "auteur": "Caro Mischka",
+        "auteur_lien": "https://www.google.com/maps/contrib/104523970689400763080/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2tnemVuRnhTMVpZZG1ORlIyNUdRMkZoUzJ4bVoyYxAB!2m1!1s0x47e9b4c9a7cee695:0x4248b1493e4e034a"
+      },
+      {
+        "note": 4,
+        "texte": "J'aime beaucoup ce restaurant ! Il est familiale et accueillant. Le buffet à volonté est suffisamment riche et varié surtout avec le wok. Le personnel est vraiment agréable et chaleureux. Les tarifs sont abordables. On y retourne à chaque fois avec plaisir",
+        "langue": "fr",
+        "date": "2026-04-25",
+        "auteur": "clement andre",
+        "auteur_lien": "https://www.google.com/maps/contrib/106226095706460561555/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT21wWk0ydERRazQxY3pjd2JrdHZVWEptZEVGU2VHYxAB!2m1!1s0x47e9b4c9a7cee695:0x4248b1493e4e034a"
+      },
+      {
+        "note": 3,
+        "texte": "Bel endroit pour manger en famille ou fêter un événement.\nTrès satisfait de la nourriture, de bonne qualité.\nUn peu déçu de l'accueil car une des serveuse se permet de faire une réflexion désagréable sur le fait qu'on était un grand nombre ( 15-16 )\nDommage de réagir comme ça, surtout que l'on leur rapporte en étant ce nombre.",
+        "langue": "fr",
+        "date": "2024-03-10",
+        "auteur": "Denzel",
+        "auteur_lien": "https://www.google.com/maps/contrib/108072668600693919065/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUM5eDVES1dREAE!2m1!1s0x47e9b4c9a7cee695:0x4248b1493e4e034a"
+      }
+    ]
+  },
+  "services": {
+    "releve": "2026-11-11",
+    "prix": "PRICE_LEVEL_MODERATE",
+    "options": {
+      "dineIn": true,
+      "takeout": true,
+      "delivery": false,
+      "curbsidePickup": false,
+      "reservable": true,
+      "outdoorSeating": false,
+      "servesBreakfast": true,
+      "servesBrunch": false,
+      "servesLunch": true,
+      "servesDinner": true,
+      "servesVegetarianFood": true,
+      "servesCoffee": true,
+      "servesBeer": true,
+      "servesWine": true,
+      "servesCocktails": true,
+      "menuForChildren": true,
+      "goodForChildren": true,
+      "goodForGroups": true,
+      "goodForWatchingSports": false,
+      "liveMusic": false,
+      "allowsDogs": false,
+      "restroom": true
+    },
+    "paiement": [
+      "carte bancaire",
+      "carte de débit",
+      "paiement sans contact"
+    ],
+    "parking": [
+      "parking gratuit",
+      "stationnement gratuit dans la rue"
+    ]
+  },
+  "redaction": {
+    "version": 2,
+    "titre": "Royal Chine, restaurant asiatique — Restaurant à Laon",
+    "meta_titre": "Royal Chine, restaurant asiatique à Laon : horaires, avis",
+    "meta_description": "Royal Chine, restaurant asiatique, restaurant à Laon : horaires d'ouverture, note Google 4,3/5 (1384 avis), téléphone, adresse et itinéraire.",
+    "chapo": "Royal Chine, restaurant asiatique exerce l'activité de restaurant au 4 Rue des Minimes, à Laon. Ouvert tous les jours sauf le lundi au relevé du 11 novembre 2026. Téléphone : 03 23 28 88 88. Note Google : 4,3 sur 5 pour 1384 avis.",
+    "sections": [
+      {
+        "id": "presentation",
+        "titre": "Royal Chine, restaurant asiatique en quelques mots",
+        "paragraphes": [
+          "Niveau de prix indiqué sur la fiche Google : €€ (modéré).",
+          "D'après le relevé du 11 novembre 2026, l'établissement est ouvert tous les jours sauf le lundi. Le détail jour par jour figure plus bas."
+        ]
+      },
+      {
+        "id": "prestations",
+        "titre": "Services et équipements de Royal Chine, restaurant asiatique",
+        "paragraphes": [
+          "Proposé : sur place, à emporter, réservation possible, petit-déjeuner, déjeuner, dîner, plats végétariens, café, bière, vin, cocktails, menu enfant, adapté aux enfants, adapté aux groupes et toilettes.",
+          "Non proposé selon la fiche Google : livraison, retrait en voiture, terrasse, brunch, retransmissions sportives, musique live et chiens acceptés.",
+          "Moyens de paiement déclarés : carte bancaire, carte de débit et paiement sans contact.",
+          "Stationnement : parking gratuit et stationnement gratuit dans la rue.",
+          "Ces indications sont déclarées par l'établissement sur sa fiche Google (relevé du 11 novembre 2026)."
+        ]
+      },
+      {
+        "id": "acces",
+        "titre": "Adresse et accès",
+        "paragraphes": [
+          "L'établissement est situé au 4 Rue des Minimes, 02000 Laon.",
+          "Coordonnées GPS : 49.57474, 3.65077. Le bouton Itinéraire de cette page ouvre la navigation."
+        ]
+      },
+      {
+        "id": "contact",
+        "titre": "Contacter Royal Chine, restaurant asiatique",
+        "paragraphes": [
+          "Le contact se fait par téléphone au 03 23 28 88 88, ou directement sur place aux horaires d'ouverture.",
+          "La fiche Google indique que la réservation est possible."
+        ]
+      },
+      {
+        "id": "avis",
+        "titre": "La réputation de Royal Chine, restaurant asiatique",
+        "paragraphes": [
+          "Note de 4,3 sur 5 pour 1384 avis Google au relevé du 11 novembre 2026. Les avis les plus parlants sont compilés ci-dessous, avec un lien vers la fiche d'origine."
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "q": "Quels sont les horaires de Royal Chine, restaurant asiatique ?",
+        "r": "Au relevé du 11 novembre 2026, Royal Chine, restaurant asiatique était ouvert tous les jours sauf le lundi. Dans le détail — lundi : fermé ; mardi : de 11 h 45 à 14 h 30 et de 18 h 45 à 22 h 30 ; mercredi : de 11 h 45 à 14 h 30 et de 18 h 45 à 22 h 30 ; jeudi : de 11 h 45 à 14 h 30 et de 18 h 45 à 22 h 30 ; vendredi : de 11 h 45 à 14 h 30 et de 18 h 45 à 23 h ; samedi : de 11 h 45 à 14 h 30 et de 18 h 45 à 23 h ; dimanche : de 11 h 45 à 14 h 30 et de 18 h 45 à 22 h 30. Ces horaires peuvent changer : un appel préalable reste conseillé."
+      },
+      {
+        "q": "Royal Chine, restaurant asiatique est-il ouvert le dimanche ?",
+        "r": "Oui : le dimanche, Royal Chine, restaurant asiatique est ouvert de 11 h 45 à 14 h 30 et de 18 h 45 à 22 h 30 (horaires relevés le 11 novembre 2026)."
+      },
+      {
+        "q": "Où se trouve Royal Chine, restaurant asiatique ?",
+        "r": "Royal Chine, restaurant asiatique se trouve 4 Rue des Minimes, 02000 Laon. Un lien d'itinéraire est disponible sur cette page."
+      },
+      {
+        "q": "Comment contacter Royal Chine, restaurant asiatique ?",
+        "r": "Par téléphone au 03 23 28 88 88, ou directement sur place aux heures d'ouverture."
+      },
+      {
+        "q": "Peut-on réserver chez Royal Chine, restaurant asiatique ?",
+        "r": "Oui, la fiche Google de Royal Chine, restaurant asiatique indique que la réservation est possible, par téléphone au 03 23 28 88 88."
+      },
+      {
+        "q": "Royal Chine, restaurant asiatique propose-t-il la vente à emporter ou la livraison ?",
+        "r": "D'après sa fiche Google (relevé du 11 novembre 2026) — vente à emporter : oui ; livraison : non."
+      },
+      {
+        "q": "Quel est le niveau de prix de Royal Chine, restaurant asiatique ?",
+        "r": "Google classe Royal Chine, restaurant asiatique au niveau de prix €€ (modéré), sur une échelle de € à €€€€ établie à partir des avis clients."
+      },
+      {
+        "q": "Royal Chine, restaurant asiatique est-il accessible aux personnes à mobilité réduite ?",
+        "r": "La fiche Google de l'établissement mentionne : « Entrée accessible en fauteuil roulant ». Cette information est déclarative ; en cas de doute, vérifiez par téléphone."
+      }
+    ],
+    "genere_le": "2026-11-11"
+  },
+  "statut_google": "OPERATIONAL",
+  "audience": {
+    "clics": 0,
+    "impressions": 0,
+    "position": null,
+    "fenetreJours": 90,
+    "clicsRecents": 0,
+    "fenetreRecenteJours": 28,
+    "source": "search-console",
+    "date": "2026-11-11"
+  }
+}

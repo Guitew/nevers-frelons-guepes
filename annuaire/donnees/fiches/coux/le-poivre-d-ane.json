@@ -227,13 +227,13 @@
   "statut_google": "OPERATIONAL",
   "audience": {
     "clics": 0,
-    "impressions": 0,
-    "position": null,
+    "impressions": 2,
+    "position": 9.5,
     "fenetreJours": 90,
     "clicsRecents": 0,
     "fenetreRecenteJours": 28,
     "source": "search-console",
-    "date": "2026-11-10"
+    "date": "2026-11-11"
   },
   "avis_detail": {
     "releve": "2026-10-21",
@@ -321,11 +321,11 @@
   },
   "indexation": {
     "etat": "indexee",
-    "verdict": "PASS",
-    "couverture": "Envoyée et indexée",
-    "derniere_exploration": "2026-11-08T06:32:49Z",
-    "canonique_google": "https://andpro.fr/vitrine-locale/restaurants/coux/le-poivre-d-ane/",
-    "source": "inspection",
-    "date": "2026-11-10"
+    "verdict": null,
+    "couverture": "impressions dans la Search Console",
+    "derniere_exploration": null,
+    "canonique_google": null,
+    "source": "impressions",
+    "date": "2026-11-11"
   }
 }

@@ -1,0 +1,304 @@
+{
+  "id": "ChIJWTVCI3kKk0cRKZBRZYyUbGw",
+  "slug": "le-cantarana",
+  "nom": "Le Cantarana",
+  "categorie": "cafes-bars",
+  "categorie_gmb": "Bar",
+  "type_principal": "bar",
+  "types": [
+    "bar",
+    "store",
+    "point_of_interest",
+    "establishment"
+  ],
+  "ville": "Chantraine",
+  "ville_slug": "chantraine",
+  "adresse": {
+    "rue": "30 Rue du Général Leclerc",
+    "code_postal": "88000",
+    "departement": "88",
+    "region": "Grand Est",
+    "pays": "France",
+    "complete": "30 Rue du Général Leclerc, 88000 Chantraine"
+  },
+  "telephone": "03 29 82 24 41",
+  "geo": {
+    "latitude": 48.1730756,
+    "longitude": 6.4337994
+  },
+  "note": 3.9,
+  "avis": 148,
+  "horaires": [
+    {
+      "jour": 0,
+      "ferme": false,
+      "creneaux": [
+        [
+          "06:00",
+          "19:00"
+        ]
+      ]
+    },
+    {
+      "jour": 1,
+      "ferme": false,
+      "creneaux": [
+        [
+          "06:00",
+          "19:00"
+        ]
+      ]
+    },
+    {
+      "jour": 2,
+      "ferme": false,
+      "creneaux": [
+        [
+          "06:00",
+          "19:00"
+        ]
+      ]
+    },
+    {
+      "jour": 3,
+      "ferme": false,
+      "creneaux": [
+        [
+          "06:00",
+          "19:00"
+        ]
+      ]
+    },
+    {
+      "jour": 4,
+      "ferme": false,
+      "creneaux": [
+        [
+          "06:00",
+          "20:00"
+        ]
+      ]
+    },
+    {
+      "jour": 5,
+      "ferme": false,
+      "creneaux": [
+        [
+          "06:00",
+          "20:00"
+        ]
+      ]
+    },
+    {
+      "jour": 6,
+      "ferme": false,
+      "creneaux": [
+        [
+          "07:00",
+          "13:00"
+        ]
+      ]
+    }
+  ],
+  "attributs": [
+    "Parking accessible en fauteuil roulant",
+    "Toilettes accessibles en fauteuil roulant"
+  ],
+  "lien_google": "https://maps.google.com/?cid=7812782784297144361&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
+  "site_web_gmb": null,
+  "statut": "publiee",
+  "backlink": {
+    "etat": "absent",
+    "premiere_detection": null,
+    "derniere_detection": null,
+    "derniere_verification": "2026-11-11T12:40:13.640Z",
+    "echecs": 1,
+    "url_detectee": null
+  },
+  "suggestion": {
+    "etat": "en-attente",
+    "date_soumission": null,
+    "tentatives": 0,
+    "date_email": "2026-11-11"
+  },
+  "retrait": null,
+  "dates": {
+    "collecte": "2026-11-11",
+    "publication": "2026-11-11",
+    "maj": "2026-11-11"
+  },
+  "source": "google-places",
+  "avis_detail": {
+    "releve": "2026-11-11",
+    "liste": [
+      {
+        "note": 5,
+        "texte": "Très bon accueil de la part de Jean-rené !\nUn homme qui a le sens du relationnel! au top !\nMerci pour l’aide pour le piano ! 😌",
+        "langue": "fr",
+        "date": "2026-10-23",
+        "auteur": "Justine",
+        "auteur_lien": "https://www.google.com/maps/contrib/108508840601531940778/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT200elIzUllkSFp0VUU1MlQyWkhkMmwwZWt4MlYzYxAB!2m1!1s0x47930a7923423559:0x6c6c948c65519029"
+      },
+      {
+        "note": 1,
+        "texte": "Ambiance sympa mais quand il s'agit d acheter des cigarettes il n' y pas grand chose  il manque souvent de marque de cigarettes comme si une boulangerie ne vendait pas de pain",
+        "langue": "fr",
+        "date": "2026-08-20",
+        "auteur": "Katia Goubanoff",
+        "auteur_lien": "https://www.google.com/maps/contrib/100227889028530647032/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT21SR2RHbHJPV3AyTnpCSVQzSnZVMVl6V1cwd2FWRRAB!2m1!1s0x47930a7923423559:0x6c6c948c65519029"
+      },
+      {
+        "note": 5,
+        "texte": "CHANTRAINE ..............................Le Cantarana ............. AVANT et MAINTENANT.................... avec Chantraine dans le passé = avant et après ..........................................................................................................................................................................................................",
+        "langue": "fr",
+        "date": "2026-06-29",
+        "auteur": "Dany Beaudot",
+        "auteur_lien": "https://www.google.com/maps/contrib/109237214137919769683/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT21WR1dHVkdVR3RMUTJkRmREQlZlV2x6ZGs0MVluYxAB!2m1!1s0x47930a7923423559:0x6c6c948c65519029"
+      },
+      {
+        "note": 1,
+        "texte": "Patronne très désagréable, pas de bonjour, nous regarde comme si venions de Mars , pas de merci , pas d au revoir pour une commerçante",
+        "langue": "fr",
+        "date": "2026-06-06",
+        "auteur": "J G",
+        "auteur_lien": "https://www.google.com/maps/contrib/106709155822754746254/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2w5ck5VdEhSR0ZJV21aemFGazNjMVZRV0ZRNVQxRRAB!2m1!1s0x47930a7923423559:0x6c6c948c65519029"
+      },
+      {
+        "note": 5,
+        "texte": "Gérant très gentil et accueillant !!!\nClient super sympa ! Bonne ambiance. Mention special pour Francis qui ramène  la brioche les matins !",
+        "langue": "fr",
+        "date": "2026-01-24",
+        "auteur": "Thiebaut Morgane",
+        "auteur_lien": "https://www.google.com/maps/contrib/106757102867349676713/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xaUWJEaEhZV3QyV2xoVmNHaHlSblI1TW1oTU1FRRAB!2m1!1s0x47930a7923423559:0x6c6c948c65519029"
+      }
+    ]
+  },
+  "services": {
+    "releve": "2026-11-11",
+    "prix": "PRICE_LEVEL_MODERATE",
+    "options": {
+      "takeout": false,
+      "delivery": false,
+      "curbsidePickup": false,
+      "reservable": false,
+      "servesBeer": true,
+      "servesWine": true,
+      "servesCocktails": true,
+      "goodForChildren": false,
+      "goodForGroups": true,
+      "liveMusic": false,
+      "restroom": true
+    },
+    "paiement": [
+      "carte bancaire",
+      "carte de débit",
+      "paiement sans contact"
+    ],
+    "parking": [
+      "parking gratuit",
+      "stationnement gratuit dans la rue"
+    ]
+  },
+  "redaction": {
+    "version": 2,
+    "titre": "Le Cantarana — Café ou bar à Chantraine",
+    "meta_titre": "Le Cantarana à Chantraine : horaires, avis, téléphone",
+    "meta_description": "Le Cantarana, café ou bar à Chantraine : horaires d'ouverture, note Google 3,9/5 (148 avis), téléphone, adresse et itinéraire.",
+    "chapo": "Le Cantarana, café ou bar au 30 Rue du Général Leclerc, à Chantraine. Ouvert sept jours sur sept au relevé du 11 novembre 2026. Téléphone : 03 29 82 24 41. Note Google : 3,9 sur 5 pour 148 avis.",
+    "sections": [
+      {
+        "id": "presentation",
+        "titre": "Le Cantarana en quelques mots",
+        "paragraphes": [
+          "Sur Google, l'établissement est classé « Bar », dans notre rubrique Café ou bar.",
+          "Niveau de prix indiqué sur la fiche Google : €€ (modéré).",
+          "D'après le relevé du 11 novembre 2026, l'établissement est ouvert sept jours sur sept. Le détail jour par jour figure plus bas."
+        ]
+      },
+      {
+        "id": "prestations",
+        "titre": "Services et équipements de Le Cantarana",
+        "paragraphes": [
+          "Proposé : bière, vin, cocktails, adapté aux groupes et toilettes.",
+          "Non proposé selon la fiche Google : à emporter, livraison, retrait en voiture, réservation possible, adapté aux enfants et musique live.",
+          "Moyens de paiement déclarés : carte bancaire, carte de débit et paiement sans contact.",
+          "Stationnement : parking gratuit et stationnement gratuit dans la rue.",
+          "Ces indications sont déclarées par l'établissement sur sa fiche Google (relevé du 11 novembre 2026)."
+        ]
+      },
+      {
+        "id": "acces",
+        "titre": "Adresse et accès",
+        "paragraphes": [
+          "L'établissement est situé au 30 Rue du Général Leclerc, 88000 Chantraine.",
+          "Coordonnées GPS : 48.17308, 6.43380. Le bouton Itinéraire de cette page ouvre la navigation."
+        ]
+      },
+      {
+        "id": "contact",
+        "titre": "Contacter Le Cantarana",
+        "paragraphes": [
+          "Le contact se fait par téléphone au 03 29 82 24 41, ou directement sur place aux horaires d'ouverture."
+        ]
+      },
+      {
+        "id": "avis",
+        "titre": "La réputation de Le Cantarana",
+        "paragraphes": [
+          "Note de 3,9 sur 5 pour 148 avis Google au relevé du 11 novembre 2026. Les avis les plus parlants sont compilés ci-dessous, avec un lien vers la fiche d'origine."
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "q": "Quels sont les horaires de Le Cantarana ?",
+        "r": "Au relevé du 11 novembre 2026, Le Cantarana était ouvert sept jours sur sept. Dans le détail — lundi : de 6 h à 19 h ; mardi : de 6 h à 19 h ; mercredi : de 6 h à 19 h ; jeudi : de 6 h à 19 h ; vendredi : de 6 h à 20 h ; samedi : de 6 h à 20 h ; dimanche : de 7 h à 13 h. Ces horaires peuvent changer : un appel préalable reste conseillé."
+      },
+      {
+        "q": "Le Cantarana est-il ouvert le dimanche ?",
+        "r": "Oui : le dimanche, Le Cantarana est ouvert de 7 h à 13 h (horaires relevés le 11 novembre 2026)."
+      },
+      {
+        "q": "Où se trouve Le Cantarana ?",
+        "r": "Le Cantarana se trouve 30 Rue du Général Leclerc, 88000 Chantraine. Un lien d'itinéraire est disponible sur cette page."
+      },
+      {
+        "q": "Comment contacter Le Cantarana ?",
+        "r": "Par téléphone au 03 29 82 24 41, ou directement sur place aux heures d'ouverture."
+      },
+      {
+        "q": "Peut-on réserver chez Le Cantarana ?",
+        "r": "La fiche Google de Le Cantarana indique que la réservation n'est pas proposée."
+      },
+      {
+        "q": "Le Cantarana propose-t-il la vente à emporter ou la livraison ?",
+        "r": "D'après sa fiche Google (relevé du 11 novembre 2026) — vente à emporter : non ; livraison : non."
+      },
+      {
+        "q": "Quel est le niveau de prix de Le Cantarana ?",
+        "r": "Google classe Le Cantarana au niveau de prix €€ (modéré), sur une échelle de € à €€€€ établie à partir des avis clients."
+      },
+      {
+        "q": "Le Cantarana est-il accessible aux personnes à mobilité réduite ?",
+        "r": "La fiche Google de l'établissement mentionne : « Parking accessible en fauteuil roulant ». Cette information est déclarative ; en cas de doute, vérifiez par téléphone."
+      }
+    ],
+    "genere_le": "2026-11-11"
+  },
+  "statut_google": "OPERATIONAL",
+  "audience": {
+    "clics": 0,
+    "impressions": 0,
+    "position": null,
+    "fenetreJours": 90,
+    "clicsRecents": 0,
+    "fenetreRecenteJours": 28,
+    "source": "search-console",
+    "date": "2026-11-11"
+  }
+}

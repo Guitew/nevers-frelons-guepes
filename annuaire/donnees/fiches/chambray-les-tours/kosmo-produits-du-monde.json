@@ -1,0 +1,286 @@
+{
+  "id": "ChIJP2dcFjrX_EcRL7zLMtBUgB0",
+  "slug": "kosmo-produits-du-monde",
+  "nom": "KOSMO - produits du Monde",
+  "categorie": "commerces-alimentation",
+  "categorie_gmb": "Supermarché",
+  "type_principal": "supermarket",
+  "types": [
+    "supermarket",
+    "grocery_store",
+    "point_of_interest",
+    "food_store",
+    "store",
+    "food",
+    "establishment"
+  ],
+  "ville": "Chambray-lès-Tours",
+  "ville_slug": "chambray-les-tours",
+  "adresse": {
+    "rue": "1 Rue Louis Breguet",
+    "code_postal": "37170",
+    "departement": "37",
+    "region": "Centre-Val de Loire",
+    "pays": "France",
+    "complete": "1 Rue Louis Breguet, 37170 Chambray-lès-Tours"
+  },
+  "telephone": "02 47 96 04 41",
+  "geo": {
+    "latitude": 47.34060780000001,
+    "longitude": 0.7009046999999999
+  },
+  "note": 4.4,
+  "avis": 393,
+  "horaires": [
+    {
+      "jour": 0,
+      "ferme": false,
+      "creneaux": [
+        [
+          "10:00",
+          "19:30"
+        ]
+      ]
+    },
+    {
+      "jour": 1,
+      "ferme": false,
+      "creneaux": [
+        [
+          "10:00",
+          "19:30"
+        ]
+      ]
+    },
+    {
+      "jour": 2,
+      "ferme": false,
+      "creneaux": [
+        [
+          "10:00",
+          "19:30"
+        ]
+      ]
+    },
+    {
+      "jour": 3,
+      "ferme": false,
+      "creneaux": [
+        [
+          "10:00",
+          "19:30"
+        ]
+      ]
+    },
+    {
+      "jour": 4,
+      "ferme": false,
+      "creneaux": [
+        [
+          "10:00",
+          "19:30"
+        ]
+      ]
+    },
+    {
+      "jour": 5,
+      "ferme": false,
+      "creneaux": [
+        [
+          "10:00",
+          "19:30"
+        ]
+      ]
+    },
+    {
+      "jour": 6,
+      "ferme": false,
+      "creneaux": [
+        [
+          "10:00",
+          "19:30"
+        ]
+      ]
+    }
+  ],
+  "attributs": [
+    "Entrée accessible en fauteuil roulant",
+    "Parking accessible en fauteuil roulant"
+  ],
+  "lien_google": "https://maps.google.com/?cid=2125792277301017647&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
+  "site_web_gmb": null,
+  "statut": "publiee",
+  "backlink": {
+    "etat": "absent",
+    "premiere_detection": null,
+    "derniere_detection": null,
+    "derniere_verification": "2026-11-11T12:40:13.640Z",
+    "echecs": 1,
+    "url_detectee": null
+  },
+  "suggestion": {
+    "etat": "en-attente",
+    "date_soumission": null,
+    "tentatives": 0,
+    "date_email": "2026-11-11"
+  },
+  "retrait": null,
+  "dates": {
+    "collecte": "2026-11-11",
+    "publication": "2026-11-11",
+    "maj": "2026-11-11"
+  },
+  "source": "google-places",
+  "avis_detail": {
+    "releve": "2026-11-11",
+    "liste": [
+      {
+        "note": 5,
+        "texte": "Excellent magasin pour acheter des produits du monde. Le gérant est un amour tout comme ses employés ! Les produits sont vraiment de qualité et choisi avec soin par le gérant.\n\nAu plaisir de revenir à chaque fois pour y faire mes courses !",
+        "langue": "fr",
+        "date": "2026-08-29",
+        "auteur": "Yassine Bolard",
+        "auteur_lien": "https://www.google.com/maps/contrib/114877213182459476358/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2psTGRXZGhObmhwVm1kc1ZGVlJUMWh2Y2paYWMyYxAB!2m1!1s0x47fcd73a165c673f:0x1d8054d032cbbc2f"
+      },
+      {
+        "note": 5,
+        "texte": "Le peu que j'y vais, je trouve que ce magasin présente des produits qui changent nos habitudes, du moyen Orient à l'Asie, voir plus parfois.\nTrès propre , personnel très gentil.\nC'est là que je viens quand j'ai envie de me faire une quelconques spécialité de nos habitudes alimentaires.\nLa boucherie donne très envie. Je n'y est encore rien pris .\nMais ça sera au programme.",
+        "langue": "fr",
+        "date": "2026-05-16",
+        "auteur": "Elodie",
+        "auteur_lien": "https://www.google.com/maps/contrib/100060235217909796626/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2twWk9XSkVSbEpNZWtadk5sODFVbDlOVTFCcVJVRRAB!2m1!1s0x47fcd73a165c673f:0x1d8054d032cbbc2f"
+      },
+      {
+        "note": 5,
+        "texte": "Une découverte avec des produits du monde. A chaque visite il y a des nouveaux produits. Cela me rappelle mes voyages.\nLes prix sont plutôt abordables et c’est l’occasion de voyager grâce aux papilles!\nMes rayons préférés sont celui de l’Asie et de la Turquie!",
+        "langue": "fr",
+        "date": "2022-04-28",
+        "auteur": "Karine Rayneau",
+        "auteur_lien": "https://www.google.com/maps/contrib/117540062635215616596/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUMyb2NEaGZBEAE!2m1!1s0x47fcd73a165c673f:0x1d8054d032cbbc2f"
+      },
+      {
+        "note": 5,
+        "texte": "Visite un peu rapide par manque de temps aujourd’hui. Mais j’ai adoré l’accueil du personnel qui a pris le temps de me montrer les différents rayons et j’ai trouvé plein de produits que je ne trouve pas ailleurs. Ce magasin deviendra un incontournable pour moi d’autant plus que le propriétaire du magasin a vraiment été à l’écoute de ce que je recherche.",
+        "langue": "fr",
+        "date": "2022-04-09",
+        "auteur": "JSC",
+        "auteur_lien": "https://www.google.com/maps/contrib/103697652013949609074/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUMyd09IbVpREAE!2m1!1s0x47fcd73a165c673f:0x1d8054d032cbbc2f"
+      },
+      {
+        "note": 5,
+        "texte": "Grand magasin propre bien rangés. On y trouve tout !! Grand parking. Ouvert du mardi au dimanche de 9h à 20h.",
+        "langue": "fr",
+        "date": "2022-04-07",
+        "auteur": "sonia Fontaines",
+        "auteur_lien": "https://www.google.com/maps/contrib/105892164489590451118/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSURXajR1OXpRRRAB!2m1!1s0x47fcd73a165c673f:0x1d8054d032cbbc2f"
+      }
+    ]
+  },
+  "services": {
+    "releve": "2026-11-11",
+    "options": {
+      "delivery": false,
+      "restroom": false
+    },
+    "paiement": [
+      "carte bancaire",
+      "carte de débit",
+      "paiement sans contact"
+    ],
+    "parking": [
+      "parking gratuit"
+    ]
+  },
+  "redaction": {
+    "version": 2,
+    "titre": "KOSMO - produits du Monde — Commerce d'alimentation à Chambray-lès-Tours",
+    "meta_titre": "KOSMO - produits du Monde : horaires, avis, téléphone",
+    "meta_description": "KOSMO - produits du Monde, commerce d'alimentation à Chambray-lès-Tours : horaires d'ouverture, téléphone, adresse et itinéraire.",
+    "chapo": "KOSMO - produits du Monde, commerce d'alimentation au 1 Rue Louis Breguet, à Chambray-lès-Tours. Ouvert sept jours sur sept au relevé du 11 novembre 2026. Téléphone : 02 47 96 04 41. Note Google : 4,4 sur 5 pour 393 avis.",
+    "sections": [
+      {
+        "id": "presentation",
+        "titre": "KOSMO - produits du Monde en quelques mots",
+        "paragraphes": [
+          "Sur Google, l'établissement est classé « Supermarché », dans notre rubrique Commerce d'alimentation.",
+          "D'après le relevé du 11 novembre 2026, l'établissement est ouvert sept jours sur sept. Le détail jour par jour figure plus bas."
+        ]
+      },
+      {
+        "id": "prestations",
+        "titre": "Services et équipements de KOSMO - produits du Monde",
+        "paragraphes": [
+          "Non proposé selon la fiche Google : livraison et toilettes.",
+          "Moyens de paiement déclarés : carte bancaire, carte de débit et paiement sans contact.",
+          "Stationnement : parking gratuit.",
+          "Ces indications sont déclarées par l'établissement sur sa fiche Google (relevé du 11 novembre 2026)."
+        ]
+      },
+      {
+        "id": "acces",
+        "titre": "Adresse et accès",
+        "paragraphes": [
+          "L'établissement est situé au 1 Rue Louis Breguet, 37170 Chambray-lès-Tours.",
+          "Coordonnées GPS : 47.34061, 0.70090. Le bouton Itinéraire de cette page ouvre la navigation."
+        ]
+      },
+      {
+        "id": "contact",
+        "titre": "Contacter KOSMO - produits du Monde",
+        "paragraphes": [
+          "Le contact se fait par téléphone au 02 47 96 04 41, ou directement sur place aux horaires d'ouverture."
+        ]
+      },
+      {
+        "id": "avis",
+        "titre": "La réputation de KOSMO - produits du Monde",
+        "paragraphes": [
+          "Note de 4,4 sur 5 pour 393 avis Google au relevé du 11 novembre 2026. Les avis les plus parlants sont compilés ci-dessous, avec un lien vers la fiche d'origine."
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "q": "Quels sont les horaires de KOSMO - produits du Monde ?",
+        "r": "Au relevé du 11 novembre 2026, KOSMO - produits du Monde était ouvert sept jours sur sept. Dans le détail — lundi : de 10 h à 19 h 30 ; mardi : de 10 h à 19 h 30 ; mercredi : de 10 h à 19 h 30 ; jeudi : de 10 h à 19 h 30 ; vendredi : de 10 h à 19 h 30 ; samedi : de 10 h à 19 h 30 ; dimanche : de 10 h à 19 h 30. Ces horaires peuvent changer : un appel préalable reste conseillé."
+      },
+      {
+        "q": "KOSMO - produits du Monde est-il ouvert le dimanche ?",
+        "r": "Oui : le dimanche, KOSMO - produits du Monde est ouvert de 10 h à 19 h 30 (horaires relevés le 11 novembre 2026)."
+      },
+      {
+        "q": "Où se trouve KOSMO - produits du Monde ?",
+        "r": "KOSMO - produits du Monde se trouve 1 Rue Louis Breguet, 37170 Chambray-lès-Tours. Un lien d'itinéraire est disponible sur cette page."
+      },
+      {
+        "q": "Comment contacter KOSMO - produits du Monde ?",
+        "r": "Par téléphone au 02 47 96 04 41, ou directement sur place aux heures d'ouverture."
+      },
+      {
+        "q": "KOSMO - produits du Monde propose-t-il la vente à emporter ou la livraison ?",
+        "r": "D'après sa fiche Google (relevé du 11 novembre 2026) — livraison : non."
+      },
+      {
+        "q": "KOSMO - produits du Monde est-il accessible aux personnes à mobilité réduite ?",
+        "r": "La fiche Google de l'établissement mentionne : « Entrée accessible en fauteuil roulant ». Cette information est déclarative ; en cas de doute, vérifiez par téléphone."
+      }
+    ],
+    "genere_le": "2026-11-11"
+  },
+  "statut_google": "OPERATIONAL",
+  "audience": {
+    "clics": 0,
+    "impressions": 0,
+    "position": null,
+    "fenetreJours": 90,
+    "clicsRecents": 0,
+    "fenetreRecenteJours": 28,
+    "source": "search-console",
+    "date": "2026-11-11"
+  }
+}
