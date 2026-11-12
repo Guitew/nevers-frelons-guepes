@@ -1,0 +1,256 @@
+{
+  "id": "ChIJZ_BcHzKH5kcRRCgcgaT13es",
+  "slug": "gymnase-des-droits-de-l-homme",
+  "nom": "Gymnase des Droits de l'Homme",
+  "categorie": "loisirs-sport-culture",
+  "categorie_gmb": "Complexe sportif",
+  "type_principal": "sports_complex",
+  "types": [
+    "sports_complex",
+    "gym",
+    "sports_activity_location",
+    "health",
+    "point_of_interest",
+    "establishment"
+  ],
+  "ville": "Guyancourt",
+  "ville_slug": "guyancourt",
+  "adresse": {
+    "rue": "3 Rond-Point des Saules",
+    "code_postal": "78280",
+    "departement": "78",
+    "region": "Île-de-France",
+    "pays": "France",
+    "complete": "3 Rdpt des Saules, 78280 Guyancourt"
+  },
+  "telephone": "01 30 57 10 62",
+  "geo": {
+    "latitude": 48.7859304,
+    "longitude": 2.0605579
+  },
+  "note": 4.1,
+  "avis": 163,
+  "horaires": [
+    {
+      "jour": 0,
+      "ferme": false,
+      "creneaux": [
+        [
+          "08:00",
+          "22:00"
+        ]
+      ]
+    },
+    {
+      "jour": 1,
+      "ferme": false,
+      "creneaux": [
+        [
+          "08:00",
+          "22:00"
+        ]
+      ]
+    },
+    {
+      "jour": 2,
+      "ferme": false,
+      "creneaux": [
+        [
+          "08:00",
+          "22:00"
+        ]
+      ]
+    },
+    {
+      "jour": 3,
+      "ferme": false,
+      "creneaux": [
+        [
+          "08:00",
+          "22:00"
+        ]
+      ]
+    },
+    {
+      "jour": 4,
+      "ferme": false,
+      "creneaux": [
+        [
+          "08:00",
+          "22:00"
+        ]
+      ]
+    },
+    {
+      "jour": 5,
+      "ferme": false,
+      "creneaux": [
+        [
+          "08:00",
+          "22:00"
+        ]
+      ]
+    },
+    {
+      "jour": 6,
+      "ferme": false,
+      "creneaux": [
+        [
+          "09:00",
+          "20:00"
+        ]
+      ]
+    }
+  ],
+  "attributs": [
+    "Entrée accessible en fauteuil roulant",
+    "Parking accessible en fauteuil roulant"
+  ],
+  "lien_google": "https://maps.google.com/?cid=16996010655655667780&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
+  "site_web_gmb": null,
+  "statut": "publiee",
+  "backlink": {
+    "etat": "absent",
+    "premiere_detection": null,
+    "derniere_detection": null,
+    "derniere_verification": "2026-11-12T13:43:19.799Z",
+    "echecs": 1,
+    "url_detectee": null
+  },
+  "suggestion": {
+    "etat": "en-attente",
+    "date_soumission": null,
+    "tentatives": 0,
+    "date_email": "2026-11-12"
+  },
+  "retrait": null,
+  "dates": {
+    "collecte": "2026-11-12",
+    "publication": "2026-11-12",
+    "maj": "2026-11-12"
+  },
+  "source": "google-places",
+  "avis_detail": {
+    "releve": "2026-11-12",
+    "liste": [
+      {
+        "note": 5,
+        "texte": "Lieu idéal pour tout sportif",
+        "langue": "fr",
+        "date": "2026-10-03",
+        "auteur": "Jerome Goblet",
+        "auteur_lien": "https://www.google.com/maps/contrib/112977129226098856539/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xCTk5rWlVPRmRLTFV4RFRYZG9RalZYY1ZKTE0wRRAB!2m1!1s0x47e687321f5cf067:0xebddf5a4811c2844"
+      },
+      {
+        "note": 5,
+        "texte": "JW Marriott, très bel hôtel, chambre confortable et plusieurs restaurants, salle de sport piscine d'intérieur et d'extérieur",
+        "langue": "fr",
+        "date": "2025-12-23",
+        "auteur": "Loïc 1962",
+        "auteur_lien": "https://www.google.com/maps/contrib/110875926441156106012/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT21jeFJFUkpOM1ZoUjNwelFUVXlRVzh6VFMxbU5YYxAB!2m1!1s0x47e687321f5cf067:0xebddf5a4811c2844"
+      },
+      {
+        "note": 4,
+        "texte": "Globalement le gymnase est sympa bien que les installations ne soient plus toutes récentes. A commencer a rénover d'ici quelques temps par étapes pour éviter qu'on n'en arrive a un point de mécontentement dans les années à venir.\n\nPour information, toilette facilement accessible et l'eau également bien que pas super bonne ...",
+        "langue": "fr",
+        "date": "2025-11-22",
+        "auteur": "Kekinoux Le forestier",
+        "auteur_lien": "https://www.google.com/maps/contrib/104490417682176264272/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2poclQxTTROMmhDWms5NE56ZGlkVmwzZW1vNFZXYxAB!2m1!1s0x47e687321f5cf067:0xebddf5a4811c2844"
+      },
+      {
+        "note": 3,
+        "texte": "Beau complexe sportif avec un terrain synthétique de dernière génération.\nDommage que l'entretien des sanitaires et vestiaires soit négligé.\nPeu de lumière, douche en très mauvais état. Le Calcaire bouche l'arrivée d'eau. Odeur pestilentielle dans le vestiaire arbitre.",
+        "langue": "fr",
+        "date": "2022-03-24",
+        "auteur": "Panoramix",
+        "auteur_lien": "https://www.google.com/maps/contrib/112648730090521395180/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSURXanYyR2hBRRAB!2m1!1s0x47e687321f5cf067:0xebddf5a4811c2844"
+      },
+      {
+        "note": 3,
+        "texte": "Camping le chenal à  St Jean Jean de Monts commune Projet : accueil pas agréable, la directrice fume beaucoup même au bar parmis les clients. Autrement le camping est calme mais pas beaucoup d'animations.",
+        "langue": "fr",
+        "date": "2018-09-03",
+        "auteur": "Valérie Dénancé",
+        "auteur_lien": "https://www.google.com/maps/contrib/116308819081205609092/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUN3eEp5YzNBRRAB!2m1!1s0x47e687321f5cf067:0xebddf5a4811c2844"
+      }
+    ]
+  },
+  "redaction": {
+    "version": 2,
+    "titre": "Gymnase des Droits de l'Homme — Loisirs, sport et culture à Guyancourt",
+    "meta_titre": "Gymnase des Droits de l'Homme à Guyancourt : horaires, avis",
+    "meta_description": "Gymnase des Droits de l'Homme, loisirs, sport et culture à Guyancourt : horaires d'ouverture, téléphone, adresse et itinéraire.",
+    "chapo": "Gymnase des Droits de l'Homme exerce l'activité de loisirs, sport et culture au 3 Rond-Point des Saules, à Guyancourt. Ouvert sept jours sur sept au relevé du 12 novembre 2026. Téléphone : 01 30 57 10 62. Note Google : 4,1 sur 5 pour 163 avis.",
+    "sections": [
+      {
+        "id": "presentation",
+        "titre": "Gymnase des Droits de l'Homme en quelques mots",
+        "paragraphes": [
+          "Sur Google, l'établissement est classé « Complexe sportif », dans notre rubrique Loisirs, sport et culture.",
+          "D'après le relevé du 12 novembre 2026, l'établissement est ouvert sept jours sur sept. Le détail jour par jour figure plus bas."
+        ]
+      },
+      {
+        "id": "acces",
+        "titre": "Adresse et accès",
+        "paragraphes": [
+          "L'établissement est situé au 3 Rond-Point des Saules, 78280 Guyancourt.",
+          "Coordonnées GPS : 48.78593, 2.06056. Le bouton Itinéraire de cette page ouvre la navigation."
+        ]
+      },
+      {
+        "id": "contact",
+        "titre": "Contacter Gymnase des Droits de l'Homme",
+        "paragraphes": [
+          "Le contact se fait par téléphone au 01 30 57 10 62, ou directement sur place aux horaires d'ouverture."
+        ]
+      },
+      {
+        "id": "avis",
+        "titre": "La réputation de Gymnase des Droits de l'Homme",
+        "paragraphes": [
+          "Note de 4,1 sur 5 pour 163 avis Google au relevé du 12 novembre 2026. Les avis les plus parlants sont compilés ci-dessous, avec un lien vers la fiche d'origine."
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "q": "Quels sont les horaires de Gymnase des Droits de l'Homme ?",
+        "r": "Au relevé du 12 novembre 2026, Gymnase des Droits de l'Homme était ouvert sept jours sur sept. Dans le détail — lundi : de 8 h à 22 h ; mardi : de 8 h à 22 h ; mercredi : de 8 h à 22 h ; jeudi : de 8 h à 22 h ; vendredi : de 8 h à 22 h ; samedi : de 8 h à 22 h ; dimanche : de 9 h à 20 h. Ces horaires peuvent changer : un appel préalable reste conseillé."
+      },
+      {
+        "q": "Gymnase des Droits de l'Homme est-il ouvert le dimanche ?",
+        "r": "Oui : le dimanche, Gymnase des Droits de l'Homme est ouvert de 9 h à 20 h (horaires relevés le 12 novembre 2026)."
+      },
+      {
+        "q": "Où se trouve Gymnase des Droits de l'Homme ?",
+        "r": "Gymnase des Droits de l'Homme se trouve 3 Rdpt des Saules, 78280 Guyancourt. Un lien d'itinéraire est disponible sur cette page."
+      },
+      {
+        "q": "Comment contacter Gymnase des Droits de l'Homme ?",
+        "r": "Par téléphone au 01 30 57 10 62, ou directement sur place aux heures d'ouverture."
+      },
+      {
+        "q": "Gymnase des Droits de l'Homme est-il accessible aux personnes à mobilité réduite ?",
+        "r": "La fiche Google de l'établissement mentionne : « Entrée accessible en fauteuil roulant ». Cette information est déclarative ; en cas de doute, vérifiez par téléphone."
+      }
+    ],
+    "genere_le": "2026-11-12"
+  },
+  "statut_google": "OPERATIONAL",
+  "audience": {
+    "clics": 0,
+    "impressions": 0,
+    "position": null,
+    "fenetreJours": 90,
+    "clicsRecents": 0,
+    "fenetreRecenteJours": 28,
+    "source": "search-console",
+    "date": "2026-11-12"
+  }
+}

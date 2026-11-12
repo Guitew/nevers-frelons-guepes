@@ -1,0 +1,196 @@
+{
+  "id": "ChIJcwNNxndvsBIRgHOn75QZqno",
+  "slug": "medipole-bat-le-carlit",
+  "nom": "MEDIPOLE - Bât « LE CARLIT »",
+  "categorie": "medecins-dentistes",
+  "categorie_gmb": "Médecin",
+  "type_principal": "doctor",
+  "types": [
+    "doctor",
+    "health",
+    "point_of_interest",
+    "establishment"
+  ],
+  "ville": "Cabestany",
+  "ville_slug": "cabestany",
+  "adresse": {
+    "rue": "Rue Ambroise Croizat",
+    "code_postal": "66330",
+    "departement": "66",
+    "region": "Occitanie",
+    "pays": "France",
+    "complete": "Site Médipole Service des Epreuves d’Effort, Rue Ambroise Croizat, 66330 Cabestany"
+  },
+  "telephone": "04 28 63 10 10",
+  "geo": {
+    "latitude": 42.690705400000006,
+    "longitude": 2.9340580000000003
+  },
+  "note": 4.4,
+  "avis": 39,
+  "horaires": null,
+  "attributs": [
+    "Entrée accessible en fauteuil roulant",
+    "Parking accessible en fauteuil roulant",
+    "Toilettes accessibles en fauteuil roulant"
+  ],
+  "lien_google": "https://maps.google.com/?cid=8838905346134602624&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
+  "site_web_gmb": null,
+  "statut": "publiee",
+  "backlink": {
+    "etat": "absent",
+    "premiere_detection": null,
+    "derniere_detection": null,
+    "derniere_verification": "2026-11-12T13:43:19.799Z",
+    "echecs": 1,
+    "url_detectee": null
+  },
+  "suggestion": {
+    "etat": "en-attente",
+    "date_soumission": null,
+    "tentatives": 0,
+    "date_email": "2026-11-12"
+  },
+  "retrait": null,
+  "dates": {
+    "collecte": "2026-11-12",
+    "publication": "2026-11-12",
+    "maj": "2026-11-12"
+  },
+  "source": "google-places",
+  "avis_detail": {
+    "releve": "2026-11-12",
+    "liste": [
+      {
+        "note": 4,
+        "texte": "Très bien accueilli. Serrieus merci pour leurs travaille.",
+        "langue": "fr",
+        "date": "2026-04-08",
+        "auteur": "serge crombez",
+        "auteur_lien": "https://www.google.com/maps/contrib/117606835742474453638/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT21oWE5rVm9VVnBtVUZWT2MwWmpWRWRZTVdjMFZYYxAB!2m1!1s0x12b06f77c64d0373:0x7aaa1994efa77380"
+      },
+      {
+        "note": 5,
+        "texte": "Très accueillant le personnel très bien,accessible pour les personnes en fauteuil roulant et poussettes Pour enfants, salle d' attente confortable avec distributeur de boissons et friandises et en plus très propre 👍👌\nJe recommande vivement",
+        "langue": "fr",
+        "date": "2026-03-05",
+        "auteur": "carljea carljea",
+        "auteur_lien": "https://www.google.com/maps/contrib/116405170735819673792/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT21aNU4wRndkbnBWYkZaZlkzUkdVR05vWTJaNVpsRRAB!2m1!1s0x12b06f77c64d0373:0x7aaa1994efa77380"
+      },
+      {
+        "note": 4,
+        "texte": "Les différents services sont faciles d'accès, personnel agréable. Point noir peu voir pas de place sur le parking",
+        "langue": "fr",
+        "date": "2024-09-05",
+        "auteur": "jean michel diet",
+        "auteur_lien": "https://www.google.com/maps/contrib/103031766121632191504/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUNIdm9Db0tBEAE!2m1!1s0x12b06f77c64d0373:0x7aaa1994efa77380"
+      },
+      {
+        "note": 5,
+        "texte": "Passage aux urgences, accueil trés correct, médecin jeune et explicant trés bien. Leur service de radiologie est bien et rapide.",
+        "langue": "fr",
+        "date": "2024-06-07",
+        "auteur": "Marie Mario41",
+        "auteur_lien": "https://www.google.com/maps/contrib/114381808752919274592/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUR6MVBLcTJ3RRAB!2m1!1s0x12b06f77c64d0373:0x7aaa1994efa77380"
+      },
+      {
+        "note": 5,
+        "texte": "Super établissement de santé.\nVous êtes pris en charge rapidement, le personnel est agréable.\nOn ne vous laisse pas partir sans être sur du diagnostic et que votre santé n'est plus en danger.\nDe vrais professionnels !",
+        "langue": "fr",
+        "date": "2024-01-17",
+        "auteur": "Barbara Pretot",
+        "auteur_lien": "https://www.google.com/maps/contrib/109094169223403319875/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUNObzkzcmpBRRAB!2m1!1s0x12b06f77c64d0373:0x7aaa1994efa77380"
+      }
+    ]
+  },
+  "services": {
+    "releve": "2026-11-12",
+    "options": {
+      "restroom": true
+    },
+    "paiement": [
+      "carte bancaire",
+      "carte de débit",
+      "paiement sans contact"
+    ],
+    "parking": []
+  },
+  "redaction": {
+    "version": 2,
+    "titre": "MEDIPOLE - Bât « LE CARLIT » — Médecin ou dentiste à Cabestany",
+    "meta_titre": "MEDIPOLE - Bât « LE CARLIT » à Cabestany : avis, téléphone",
+    "meta_description": "MEDIPOLE - Bât « LE CARLIT », médecin ou dentiste à Cabestany : note Google 4,4/5 (39 avis), téléphone, adresse et itinéraire.",
+    "chapo": "MEDIPOLE - Bât « LE CARLIT » exerce l'activité de médecin ou dentiste au Rue Ambroise Croizat, à Cabestany. Téléphone : 04 28 63 10 10. Note Google : 4,4 sur 5 pour 39 avis.",
+    "sections": [
+      {
+        "id": "presentation",
+        "titre": "MEDIPOLE - Bât « LE CARLIT » en quelques mots",
+        "paragraphes": [
+          "Sur Google, l'établissement est classé « Médecin », dans notre rubrique Médecin ou dentiste."
+        ]
+      },
+      {
+        "id": "prestations",
+        "titre": "Services et équipements de MEDIPOLE - Bât « LE CARLIT »",
+        "paragraphes": [
+          "Proposé : toilettes.",
+          "Moyens de paiement déclarés : carte bancaire, carte de débit et paiement sans contact.",
+          "Ces indications sont déclarées par l'établissement sur sa fiche Google (relevé du 12 novembre 2026)."
+        ]
+      },
+      {
+        "id": "acces",
+        "titre": "Adresse et accès",
+        "paragraphes": [
+          "L'établissement est situé au Rue Ambroise Croizat, 66330 Cabestany.",
+          "Coordonnées GPS : 42.69071, 2.93406. Le bouton Itinéraire de cette page ouvre la navigation."
+        ]
+      },
+      {
+        "id": "contact",
+        "titre": "Contacter MEDIPOLE - Bât « LE CARLIT »",
+        "paragraphes": [
+          "Le contact se fait par téléphone au 04 28 63 10 10, ou directement sur place aux horaires d'ouverture."
+        ]
+      },
+      {
+        "id": "avis",
+        "titre": "La réputation de MEDIPOLE - Bât « LE CARLIT »",
+        "paragraphes": [
+          "Note de 4,4 sur 5 pour 39 avis Google au relevé du 12 novembre 2026. Les avis les plus parlants sont compilés ci-dessous, avec un lien vers la fiche d'origine."
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "q": "Où se trouve MEDIPOLE - Bât « LE CARLIT » ?",
+        "r": "MEDIPOLE - Bât « LE CARLIT » se trouve Site Médipole Service des Epreuves d’Effort, Rue Ambroise Croizat, 66330 Cabestany. Un lien d'itinéraire est disponible sur cette page."
+      },
+      {
+        "q": "Comment contacter MEDIPOLE - Bât « LE CARLIT » ?",
+        "r": "Par téléphone au 04 28 63 10 10, ou directement sur place aux heures d'ouverture."
+      },
+      {
+        "q": "MEDIPOLE - Bât « LE CARLIT » est-il accessible aux personnes à mobilité réduite ?",
+        "r": "La fiche Google de l'établissement mentionne : « Entrée accessible en fauteuil roulant ». Cette information est déclarative ; en cas de doute, vérifiez par téléphone."
+      }
+    ],
+    "genere_le": "2026-11-12"
+  },
+  "statut_google": "OPERATIONAL",
+  "audience": {
+    "clics": 0,
+    "impressions": 0,
+    "position": null,
+    "fenetreJours": 90,
+    "clicsRecents": 0,
+    "fenetreRecenteJours": 28,
+    "source": "search-console",
+    "date": "2026-11-12"
+  }
+}

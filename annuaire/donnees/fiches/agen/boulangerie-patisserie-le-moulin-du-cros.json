@@ -1,0 +1,304 @@
+{
+  "id": "ChIJ35VgcQazqxIRczxNW0WOW1k",
+  "slug": "boulangerie-patisserie-le-moulin-du-cros",
+  "nom": "Boulangerie Pâtisserie \"Le Moulin du Cros\"",
+  "categorie": "boulangeries-patisseries",
+  "categorie_gmb": "Boulangerie",
+  "type_principal": "bakery",
+  "types": [
+    "bakery",
+    "food_store",
+    "food",
+    "store",
+    "point_of_interest",
+    "establishment"
+  ],
+  "ville": "Agen",
+  "ville_slug": "agen",
+  "adresse": {
+    "rue": "88 Avenue Jean Jaurès",
+    "code_postal": "47000",
+    "departement": "47",
+    "region": "Nouvelle-Aquitaine",
+    "pays": "France",
+    "complete": "88 Av. Jean Jaurès, 47000 Agen"
+  },
+  "telephone": "05 53 66 96 13",
+  "geo": {
+    "latitude": 44.2000652,
+    "longitude": 0.6347815
+  },
+  "note": 4.4,
+  "avis": 194,
+  "horaires": [
+    {
+      "jour": 0,
+      "ferme": true,
+      "creneaux": []
+    },
+    {
+      "jour": 1,
+      "ferme": false,
+      "creneaux": [
+        [
+          "07:00",
+          "13:00"
+        ],
+        [
+          "16:00",
+          "19:00"
+        ]
+      ]
+    },
+    {
+      "jour": 2,
+      "ferme": false,
+      "creneaux": [
+        [
+          "07:00",
+          "13:00"
+        ],
+        [
+          "16:00",
+          "19:00"
+        ]
+      ]
+    },
+    {
+      "jour": 3,
+      "ferme": false,
+      "creneaux": [
+        [
+          "07:00",
+          "13:00"
+        ],
+        [
+          "16:00",
+          "19:00"
+        ]
+      ]
+    },
+    {
+      "jour": 4,
+      "ferme": false,
+      "creneaux": [
+        [
+          "07:00",
+          "13:00"
+        ],
+        [
+          "16:00",
+          "19:00"
+        ]
+      ]
+    },
+    {
+      "jour": 5,
+      "ferme": false,
+      "creneaux": [
+        [
+          "07:00",
+          "13:00"
+        ],
+        [
+          "17:00",
+          "19:00"
+        ]
+      ]
+    },
+    {
+      "jour": 6,
+      "ferme": false,
+      "creneaux": [
+        [
+          "07:00",
+          "12:30"
+        ]
+      ]
+    }
+  ],
+  "attributs": [
+    "Parking accessible en fauteuil roulant"
+  ],
+  "lien_google": "https://maps.google.com/?cid=6438896520791932019&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
+  "site_web_gmb": null,
+  "statut": "publiee",
+  "backlink": {
+    "etat": "absent",
+    "premiere_detection": null,
+    "derniere_detection": null,
+    "derniere_verification": "2026-11-12T13:43:19.799Z",
+    "echecs": 1,
+    "url_detectee": null
+  },
+  "suggestion": {
+    "etat": "en-attente",
+    "date_soumission": null,
+    "tentatives": 0,
+    "date_email": "2026-11-12"
+  },
+  "retrait": null,
+  "dates": {
+    "collecte": "2026-11-12",
+    "publication": "2026-11-12",
+    "maj": "2026-11-12"
+  },
+  "source": "google-places",
+  "avis_detail": {
+    "releve": "2026-11-12",
+    "liste": [
+      {
+        "note": 1,
+        "texte": "Je me suis rendue dans cet établissement à 17h afin d’acheter un pain au blé. Malheureusement, le pain était extrêmement dur, comme je n’en ai jamais vu auparavant. La texture du pain semblait être de la veille.\n\nLorsque je l’ai signalé, le monsieur m’a très mal parlé, comme si je ne connaissais rien au pain, alors que je venais simplement signaler que le pain que je venais d’acheter n’était pas normal. Il a également refusé de me changer la baguette, malgré le fait qu’elle était réellement très dure et m’a proposé d’en acheter une autre du jamais vu !\n\nEn tant qu’ancienne commerçante, je trouve cela vraiment inadmissible, aussi bien concernant la qualité du pain que la façon dont j’ai été accueillie. Je pense qu’un client qui signale un problème avec un produit devrait être écouté et traité avec respect, et non pris de haut. Établissement à FUIR.",
+        "langue": "fr",
+        "date": "2026-09-04",
+        "auteur": "Inès Trad",
+        "auteur_lien": "https://www.google.com/maps/contrib/100481956221521029228/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2taaU4wTlNVV3hsTkV0eE9EVXhTeTFQVDJFNGMzYxAB!2m1!1s0x12abb306716095df:0x595b8e455b4d3c73"
+      },
+      {
+        "note": 5,
+        "texte": "Enfin une vraie boulangerie avec un savoir faire et des produits de qualité. Les différents pains sont excellemment et les  viennoiseries sont à tombées par terre, mentions spéciales pour les chouquettes à la crème!!!",
+        "langue": "fr",
+        "date": "2026-06-20",
+        "auteur": "Benoît Claudin",
+        "auteur_lien": "https://www.google.com/maps/contrib/110883933105457794346/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25KT1kzWktTV3hrUW5wSVV5MTFhM05KV0dsd1FrRRAB!2m1!1s0x12abb306716095df:0x595b8e455b4d3c73"
+      },
+      {
+        "note": 5,
+        "texte": "La boutique est très agréable et les pains font tous envie. J’ai testé le kouglof, un délice ! Et un grand merci au vendeur pour son service et son sourire",
+        "langue": "fr",
+        "date": "2026-04-12",
+        "auteur": "Cécile Pla",
+        "auteur_lien": "https://www.google.com/maps/contrib/107965999359541476064/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2prNVdtRXRkMGd5TWsxUFVqQllSR1l3TWkxbFpVRRAB!2m1!1s0x12abb306716095df:0x595b8e455b4d3c73"
+      },
+      {
+        "note": 5,
+        "texte": "J'ai visité la boulangerie suite au passage sur l'émission de M6 ce jeudi, j'ai pris une merveille, un pain petit épeautre et un Paris-Brest je me suis régalée!\nTrès bon accueil et large choix de pains. Je reviendrai.",
+        "langue": "fr",
+        "date": "2026-01-10",
+        "auteur": "Sweden36",
+        "auteur_lien": "https://www.google.com/maps/contrib/105280723035374281419/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2t4bVVtdExlbGhmV2xCaVUxSkpSa3RSVEhaalMxRRAB!2m1!1s0x12abb306716095df:0x595b8e455b4d3c73"
+      },
+      {
+        "note": 4,
+        "texte": "J'y vais souvent pour prendre mon pain, qui est toujours très bon.\nJ'irai plus souvent chez eux  si entre midi et deux (façon de parler) et le soir après 19h s'ils avaient d'autres horaires car j'y passe tous les jours.",
+        "langue": "fr",
+        "date": "2025-03-16",
+        "auteur": "Kamille Maurin",
+        "auteur_lien": "https://www.google.com/maps/contrib/116765073579967834274/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnTUN3Mk1iUVVnEAE!2m1!1s0x12abb306716095df:0x595b8e455b4d3c73"
+      }
+    ]
+  },
+  "services": {
+    "releve": "2026-11-12",
+    "prix": "PRICE_LEVEL_INEXPENSIVE",
+    "options": {
+      "takeout": true,
+      "delivery": false,
+      "restroom": false
+    },
+    "paiement": [
+      "carte bancaire",
+      "carte de débit",
+      "paiement sans contact"
+    ],
+    "parking": []
+  },
+  "redaction": {
+    "version": 2,
+    "titre": "Boulangerie Pâtisserie \"Le Moulin du Cros\" — Boulangerie-pâtisserie à Agen",
+    "meta_titre": "Boulangerie Pâtisserie \"Le Moulin du Cros\" à Agen",
+    "meta_description": "Boulangerie Pâtisserie \"Le Moulin du Cros\", boulangerie-pâtisserie à Agen : horaires d'ouverture, téléphone, adresse et itinéraire.",
+    "chapo": "Cette fiche présente Boulangerie Pâtisserie \"Le Moulin du Cros\", une boulangerie-pâtisserie au 88 Avenue Jean Jaurès, à Agen. Ouvert tous les jours sauf le lundi au relevé du 12 novembre 2026. Téléphone : 05 53 66 96 13. Note Google : 4,4 sur 5 pour 194 avis.",
+    "sections": [
+      {
+        "id": "presentation",
+        "titre": "Boulangerie Pâtisserie \"Le Moulin du Cros\" en quelques mots",
+        "paragraphes": [
+          "Sur Google, l'établissement est classé « Boulangerie », dans notre rubrique Boulangerie-pâtisserie.",
+          "Niveau de prix indiqué sur la fiche Google : € (bon marché).",
+          "D'après le relevé du 12 novembre 2026, l'établissement est ouvert tous les jours sauf le lundi. Le détail jour par jour figure plus bas."
+        ]
+      },
+      {
+        "id": "prestations",
+        "titre": "Services et équipements de Boulangerie Pâtisserie \"Le Moulin du Cros\"",
+        "paragraphes": [
+          "Proposé : à emporter.",
+          "Non proposé selon la fiche Google : livraison et toilettes.",
+          "Moyens de paiement déclarés : carte bancaire, carte de débit et paiement sans contact.",
+          "Ces indications sont déclarées par l'établissement sur sa fiche Google (relevé du 12 novembre 2026)."
+        ]
+      },
+      {
+        "id": "acces",
+        "titre": "Adresse et accès",
+        "paragraphes": [
+          "L'établissement est situé au 88 Avenue Jean Jaurès, 47000 Agen.",
+          "Coordonnées GPS : 44.20007, 0.63478. Le bouton Itinéraire de cette page ouvre la navigation."
+        ]
+      },
+      {
+        "id": "contact",
+        "titre": "Contacter Boulangerie Pâtisserie \"Le Moulin du Cros\"",
+        "paragraphes": [
+          "Le contact se fait par téléphone au 05 53 66 96 13, ou directement sur place aux horaires d'ouverture."
+        ]
+      },
+      {
+        "id": "avis",
+        "titre": "La réputation de Boulangerie Pâtisserie \"Le Moulin du Cros\"",
+        "paragraphes": [
+          "Note de 4,4 sur 5 pour 194 avis Google au relevé du 12 novembre 2026. Les avis les plus parlants sont compilés ci-dessous, avec un lien vers la fiche d'origine."
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "q": "Quels sont les horaires de Boulangerie Pâtisserie \"Le Moulin du Cros\" ?",
+        "r": "Au relevé du 12 novembre 2026, Boulangerie Pâtisserie \"Le Moulin du Cros\" était ouvert tous les jours sauf le lundi. Dans le détail — lundi : fermé ; mardi : de 7 h à 13 h et de 16 h à 19 h ; mercredi : de 7 h à 13 h et de 16 h à 19 h ; jeudi : de 7 h à 13 h et de 16 h à 19 h ; vendredi : de 7 h à 13 h et de 16 h à 19 h ; samedi : de 7 h à 13 h et de 17 h à 19 h ; dimanche : de 7 h à 12 h 30. Ces horaires peuvent changer : un appel préalable reste conseillé."
+      },
+      {
+        "q": "Boulangerie Pâtisserie \"Le Moulin du Cros\" est-il ouvert le dimanche ?",
+        "r": "Oui : le dimanche, Boulangerie Pâtisserie \"Le Moulin du Cros\" est ouvert de 7 h à 12 h 30 (horaires relevés le 12 novembre 2026)."
+      },
+      {
+        "q": "Où se trouve Boulangerie Pâtisserie \"Le Moulin du Cros\" ?",
+        "r": "Boulangerie Pâtisserie \"Le Moulin du Cros\" se trouve 88 Av. Jean Jaurès, 47000 Agen. Un lien d'itinéraire est disponible sur cette page."
+      },
+      {
+        "q": "Comment contacter Boulangerie Pâtisserie \"Le Moulin du Cros\" ?",
+        "r": "Par téléphone au 05 53 66 96 13, ou directement sur place aux heures d'ouverture."
+      },
+      {
+        "q": "Boulangerie Pâtisserie \"Le Moulin du Cros\" propose-t-il la vente à emporter ou la livraison ?",
+        "r": "D'après sa fiche Google (relevé du 12 novembre 2026) — vente à emporter : oui ; livraison : non."
+      },
+      {
+        "q": "Quel est le niveau de prix de Boulangerie Pâtisserie \"Le Moulin du Cros\" ?",
+        "r": "Google classe Boulangerie Pâtisserie \"Le Moulin du Cros\" au niveau de prix € (bon marché), sur une échelle de € à €€€€ établie à partir des avis clients."
+      },
+      {
+        "q": "Boulangerie Pâtisserie \"Le Moulin du Cros\" est-il accessible aux personnes à mobilité réduite ?",
+        "r": "La fiche Google de l'établissement mentionne : « Parking accessible en fauteuil roulant ». Cette information est déclarative ; en cas de doute, vérifiez par téléphone."
+      }
+    ],
+    "genere_le": "2026-11-12"
+  },
+  "statut_google": "OPERATIONAL",
+  "audience": {
+    "clics": 0,
+    "impressions": 0,
+    "position": null,
+    "fenetreJours": 90,
+    "clicsRecents": 0,
+    "fenetreRecenteJours": 28,
+    "source": "search-console",
+    "date": "2026-11-12"
+  }
+}

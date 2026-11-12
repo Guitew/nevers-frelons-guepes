@@ -1,0 +1,302 @@
+{
+  "id": "ChIJ57BrgJky_kcRgWxSShUOAxw",
+  "slug": "le-hangar",
+  "nom": "Le Hangar",
+  "categorie": "restaurants",
+  "categorie_gmb": "Restaurant",
+  "type_principal": "restaurant",
+  "types": [
+    "restaurant",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "ville": "Puymoyen",
+  "ville_slug": "puymoyen",
+  "adresse": {
+    "rue": "110 Rue d'Angoulême",
+    "code_postal": "16400",
+    "departement": "16",
+    "region": "Nouvelle-Aquitaine",
+    "pays": "France",
+    "complete": "110 Rue d'Angoulême, 16400 Puymoyen"
+  },
+  "telephone": "05 45 25 04 04",
+  "geo": {
+    "latitude": 45.6237414,
+    "longitude": 0.1602287
+  },
+  "note": 4.4,
+  "avis": 295,
+  "horaires": [
+    {
+      "jour": 0,
+      "ferme": false,
+      "creneaux": [
+        [
+          "08:00",
+          "16:00"
+        ]
+      ]
+    },
+    {
+      "jour": 1,
+      "ferme": false,
+      "creneaux": [
+        [
+          "08:00",
+          "16:00"
+        ]
+      ]
+    },
+    {
+      "jour": 2,
+      "ferme": false,
+      "creneaux": [
+        [
+          "08:00",
+          "16:00"
+        ]
+      ]
+    },
+    {
+      "jour": 3,
+      "ferme": false,
+      "creneaux": [
+        [
+          "08:00",
+          "16:00"
+        ]
+      ]
+    },
+    {
+      "jour": 4,
+      "ferme": false,
+      "creneaux": [
+        [
+          "08:00",
+          "16:00"
+        ]
+      ]
+    },
+    {
+      "jour": 5,
+      "ferme": true,
+      "creneaux": []
+    },
+    {
+      "jour": 6,
+      "ferme": true,
+      "creneaux": []
+    }
+  ],
+  "attributs": [
+    "Entrée accessible en fauteuil roulant",
+    "Parking accessible en fauteuil roulant",
+    "Toilettes accessibles en fauteuil roulant",
+    "Places assises accessibles en fauteuil roulant"
+  ],
+  "lien_google": "https://maps.google.com/?cid=2018472542596131969&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
+  "site_web_gmb": null,
+  "statut": "publiee",
+  "backlink": {
+    "etat": "absent",
+    "premiere_detection": null,
+    "derniere_detection": null,
+    "derniere_verification": "2026-11-12T13:43:19.799Z",
+    "echecs": 1,
+    "url_detectee": null
+  },
+  "suggestion": {
+    "etat": "en-attente",
+    "date_soumission": null,
+    "tentatives": 0,
+    "date_email": "2026-11-12"
+  },
+  "retrait": null,
+  "dates": {
+    "collecte": "2026-11-12",
+    "publication": "2026-11-12",
+    "maj": "2026-11-12"
+  },
+  "source": "google-places",
+  "avis_detail": {
+    "releve": "2026-11-12",
+    "liste": [
+      {
+        "note": 5,
+        "texte": "Venez découvrir la nouvelle carte\nC'est dans une ambiance très conviviale et chaleureuse que vous pourrez vous restaurer au restaurant \"Le Hangar\".\nLa variété de la carte des menus, la qualité des mets en font les atouts majeurs pour venir.\nBonne dégustation",
+        "langue": "fr",
+        "date": "2026-09-30",
+        "auteur": "DOMINIQUE CALLUAUD",
+        "auteur_lien": "https://www.google.com/maps/contrib/104795247701522881963/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUM2d2Z1WlNREAE!2m1!1s0x47fe3299806bb0e7:0x1c030e154a526c81"
+      },
+      {
+        "note": 5,
+        "texte": "Accès facile et rapide, parking en bordure de route. Ne pas arriver trop tard, il peut y avoir du monde aux heures des repas. Mais le service reste fluide et rapide. Un excellent rapport qualité  prix, formule du midi avantageuse et plats à la carte variés et abordables. Nombreux choix, y compris pour le menu du jour, 6 entrées au choix, 2 plats du jour, au moins  6 desserts au choix. Bonne cuisine traditionnelle, bien servie. Cadre, sobre mais stylé.",
+        "langue": "fr",
+        "date": "2025-04-08",
+        "auteur": "Patrice Duclaud",
+        "auteur_lien": "https://www.google.com/maps/contrib/110279940064817530426/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnTURJOHJLWHhBRRAB!2m1!1s0x47fe3299806bb0e7:0x1c030e154a526c81"
+      },
+      {
+        "note": 5,
+        "texte": "Le lieu est en lien avec le nom mais les grandes tablées pleines laissent supposer qu'ici on mange du bon, du maison à prix abordable. Les serveuses rapides efficaces et souriantes aiment ce qu'elles font et ça se voit. Vendredi menu 13€ plat du jour poisson et mousse chocolat maison. C'était simple généreux et très bon. Ce midi poulet laqué écrasé de pdt et mousse encore 🤪. Je recommande vivement mais pas besoin c'est régulièrement complet (réserver)....",
+        "langue": "fr",
+        "date": "2024-12-02",
+        "auteur": "Sophie “Sovo” Volland",
+        "auteur_lien": "https://www.google.com/maps/contrib/111505204829512904995/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSURQcnN2akl3EAE!2m1!1s0x47fe3299806bb0e7:0x1c030e154a526c81"
+      },
+      {
+        "note": 5,
+        "texte": "Premier arrêt de midi après que plusieurs personnes ne m'en disent que du bien, et bien je ne regret pas.\nMalgré la salle qui est petite mais optimisé, un service rapide et efficace, une vrai petite usine qui rime avec très bonne qualité de produit et prix compétitif.\nTout étais très bon, personnelle au petit soin avec un très grand sourire malgré un rythme intense.\nPensé à réserver et encore merci",
+        "langue": "fr",
+        "date": "2024-09-26",
+        "auteur": "Tony DadPool",
+        "auteur_lien": "https://www.google.com/maps/contrib/106261430282046398890/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUNuM3ZPM0lBEAE!2m1!1s0x47fe3299806bb0e7:0x1c030e154a526c81"
+      },
+      {
+        "note": 4,
+        "texte": "Ce restaurant est à découvrir et redécouvrir tous les jours ! Nous en sommes fan car tous les plats sont faits maisons et sont tous bien réalisés vraiment ! Félicitations aux cuisiniers pour nous préparer de si bon plats et desserts et aussi à l'équipe de serveuses qui sont toujours là pour nous et d'une gentillesse irréprochable. Nous conseillons à tout le monde d'y aller aussi parceque le rapport qualité-prix est juste impressionnant.\n\nÉdit du 15.06.2022 : je souhaite un peu modifié mon avis car nous y sommes retournés plusieurs fois et ces derniers temps les choses ont un peu changées. Les plats sont toujours très bons et les serveuses sympathique pas contre les quantités ont diminuées et les desserts sont devenus beaucoup plus sucrés qu'avant. Le temps d'attente est rallongé également car il y a beaucoup de monde (victime du succès) mais pas assez de serveurs/serveuses malheureusement. Nous le conseillons toujours mais avec un moins d'enthousiasme.",
+        "langue": "fr",
+        "date": "2022-06-15",
+        "auteur": "Michael Krebs",
+        "auteur_lien": "https://www.google.com/maps/contrib/110056323576124037281/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSURtN01IWDNBRRAB!2m1!1s0x47fe3299806bb0e7:0x1c030e154a526c81"
+      }
+    ]
+  },
+  "services": {
+    "releve": "2026-11-12",
+    "prix": "PRICE_LEVEL_MODERATE",
+    "options": {
+      "dineIn": true,
+      "delivery": false,
+      "reservable": true,
+      "servesBreakfast": true,
+      "servesBrunch": false,
+      "servesLunch": true,
+      "servesDinner": true,
+      "servesVegetarianFood": false,
+      "servesCoffee": true,
+      "servesBeer": true,
+      "servesWine": true,
+      "servesCocktails": true,
+      "menuForChildren": true,
+      "goodForGroups": true,
+      "goodForWatchingSports": false,
+      "liveMusic": false,
+      "restroom": true
+    },
+    "paiement": [
+      "carte bancaire",
+      "carte de débit",
+      "paiement sans contact"
+    ],
+    "parking": [
+      "parking gratuit",
+      "stationnement gratuit dans la rue"
+    ]
+  },
+  "redaction": {
+    "version": 2,
+    "titre": "Le Hangar — Restaurant à Puymoyen",
+    "meta_titre": "Le Hangar à Puymoyen : horaires, avis, téléphone",
+    "meta_description": "Le Hangar, restaurant à Puymoyen : horaires d'ouverture, note Google 4,4/5 (295 avis), téléphone, adresse et itinéraire.",
+    "chapo": "Le Hangar est un restaurant au 110 Rue d'Angoulême, à Puymoyen. Fermé le samedi et le dimanche au relevé du 12 novembre 2026. Téléphone : 05 45 25 04 04. Note Google : 4,4 sur 5 pour 295 avis.",
+    "sections": [
+      {
+        "id": "presentation",
+        "titre": "Le Hangar en quelques mots",
+        "paragraphes": [
+          "Niveau de prix indiqué sur la fiche Google : €€ (modéré).",
+          "D'après le relevé du 12 novembre 2026, l'établissement est fermé le samedi et le dimanche. Le détail jour par jour figure plus bas."
+        ]
+      },
+      {
+        "id": "prestations",
+        "titre": "Services et équipements de Le Hangar",
+        "paragraphes": [
+          "Proposé : sur place, réservation possible, petit-déjeuner, déjeuner, dîner, café, bière, vin, cocktails, menu enfant, adapté aux groupes et toilettes.",
+          "Non proposé selon la fiche Google : livraison, brunch, plats végétariens, retransmissions sportives et musique live.",
+          "Moyens de paiement déclarés : carte bancaire, carte de débit et paiement sans contact.",
+          "Stationnement : parking gratuit et stationnement gratuit dans la rue.",
+          "Ces indications sont déclarées par l'établissement sur sa fiche Google (relevé du 12 novembre 2026)."
+        ]
+      },
+      {
+        "id": "acces",
+        "titre": "Adresse et accès",
+        "paragraphes": [
+          "L'établissement est situé au 110 Rue d'Angoulême, 16400 Puymoyen.",
+          "Coordonnées GPS : 45.62374, 0.16023. Le bouton Itinéraire de cette page ouvre la navigation."
+        ]
+      },
+      {
+        "id": "contact",
+        "titre": "Contacter Le Hangar",
+        "paragraphes": [
+          "Le contact se fait par téléphone au 05 45 25 04 04, ou directement sur place aux horaires d'ouverture.",
+          "La fiche Google indique que la réservation est possible."
+        ]
+      },
+      {
+        "id": "avis",
+        "titre": "La réputation de Le Hangar",
+        "paragraphes": [
+          "Note de 4,4 sur 5 pour 295 avis Google au relevé du 12 novembre 2026. Les avis les plus parlants sont compilés ci-dessous, avec un lien vers la fiche d'origine."
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "q": "Quels sont les horaires de Le Hangar ?",
+        "r": "Au relevé du 12 novembre 2026, Le Hangar était fermé le samedi et le dimanche. Dans le détail — lundi : de 8 h à 16 h ; mardi : de 8 h à 16 h ; mercredi : de 8 h à 16 h ; jeudi : de 8 h à 16 h ; vendredi : de 8 h à 16 h ; samedi : fermé ; dimanche : fermé. Ces horaires peuvent changer : un appel préalable reste conseillé."
+      },
+      {
+        "q": "Le Hangar est-il ouvert le dimanche ?",
+        "r": "Non : d'après les horaires relevés le 12 novembre 2026, Le Hangar est fermé le dimanche."
+      },
+      {
+        "q": "Où se trouve Le Hangar ?",
+        "r": "Le Hangar se trouve 110 Rue d'Angoulême, 16400 Puymoyen. Un lien d'itinéraire est disponible sur cette page."
+      },
+      {
+        "q": "Comment contacter Le Hangar ?",
+        "r": "Par téléphone au 05 45 25 04 04, ou directement sur place aux heures d'ouverture."
+      },
+      {
+        "q": "Peut-on réserver chez Le Hangar ?",
+        "r": "Oui, la fiche Google de Le Hangar indique que la réservation est possible, par téléphone au 05 45 25 04 04."
+      },
+      {
+        "q": "Le Hangar propose-t-il la vente à emporter ou la livraison ?",
+        "r": "D'après sa fiche Google (relevé du 12 novembre 2026) — livraison : non."
+      },
+      {
+        "q": "Quel est le niveau de prix de Le Hangar ?",
+        "r": "Google classe Le Hangar au niveau de prix €€ (modéré), sur une échelle de € à €€€€ établie à partir des avis clients."
+      },
+      {
+        "q": "Le Hangar est-il accessible aux personnes à mobilité réduite ?",
+        "r": "La fiche Google de l'établissement mentionne : « Entrée accessible en fauteuil roulant ». Cette information est déclarative ; en cas de doute, vérifiez par téléphone."
+      }
+    ],
+    "genere_le": "2026-11-12"
+  },
+  "statut_google": "OPERATIONAL",
+  "audience": {
+    "clics": 0,
+    "impressions": 0,
+    "position": null,
+    "fenetreJours": 90,
+    "clicsRecents": 0,
+    "fenetreRecenteJours": 28,
+    "source": "search-console",
+    "date": "2026-11-12"
+  }
+}

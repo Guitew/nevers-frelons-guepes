@@ -26,8 +26,8 @@
     "latitude": 45.652681,
     "longitude": 0.113087
   },
-  "note": 4.6,
-  "avis": 62,
+  "note": 4.7,
+  "avis": 64,
   "horaires": [
     {
       "jour": 0,
@@ -122,8 +122,8 @@
     "etat": "externe",
     "premiere_detection": null,
     "derniere_detection": null,
-    "derniere_verification": "2026-10-26T11:01:19.059Z",
-    "echecs": 21,
+    "derniere_verification": "2026-11-12T13:43:19.799Z",
+    "echecs": 22,
     "url_detectee": "https://angouleme.groupe-crematoriums.fr/"
   },
   "suggestion": {
@@ -141,7 +141,7 @@
   "dates": {
     "collecte": "2026-09-27",
     "publication": "2026-09-27",
-    "maj": "2026-11-11"
+    "maj": "2026-11-12"
   },
   "source": "google-places",
   "redaction": {
@@ -215,7 +215,7 @@
     "clicsRecents": 0,
     "fenetreRecenteJours": 28,
     "source": "search-console",
-    "date": "2026-11-11"
+    "date": "2026-11-12"
   },
   "avis_detail": {
     "releve": "2026-10-26",

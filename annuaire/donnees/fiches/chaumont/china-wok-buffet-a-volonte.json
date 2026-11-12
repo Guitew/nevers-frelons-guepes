@@ -28,7 +28,7 @@
     "longitude": 5.146416599999999
   },
   "note": 4.3,
-  "avis": 2648,
+  "avis": 2666,
   "horaires": [
     {
       "jour": 0,
@@ -142,8 +142,8 @@
     "etat": "absent",
     "premiere_detection": null,
     "derniere_detection": null,
-    "derniere_verification": "2026-10-26T11:01:19.059Z",
-    "echecs": 26,
+    "derniere_verification": "2026-11-12T13:43:19.799Z",
+    "echecs": 27,
     "url_detectee": null
   },
   "suggestion": {
@@ -156,7 +156,7 @@
   "dates": {
     "collecte": "2026-09-25",
     "publication": "2026-09-25",
-    "maj": "2026-10-26"
+    "maj": "2026-11-12"
   },
   "source": "google-places",
   "redaction": {
@@ -248,14 +248,14 @@
   },
   "statut_google": "OPERATIONAL",
   "audience": {
-    "clics": 0,
-    "impressions": 155,
+    "clics": 1,
+    "impressions": 161,
     "position": 9,
     "fenetreJours": 90,
-    "clicsRecents": 0,
+    "clicsRecents": 1,
     "fenetreRecenteJours": 28,
     "source": "search-console",
-    "date": "2026-11-11"
+    "date": "2026-11-12"
   },
   "avis_detail": {
     "releve": "2026-10-26",
@@ -349,6 +349,6 @@
     "derniere_exploration": null,
     "canonique_google": null,
     "source": "impressions",
-    "date": "2026-11-11"
+    "date": "2026-11-12"
   }
 }
