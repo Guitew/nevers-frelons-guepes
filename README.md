@@ -3,10 +3,11 @@
 Site encyclopédique — « une sorte de Wikipédia de la biodiversité » — dédié à la faune, à la
 flore et aux milieux naturels des départements du **Nord (59)** et du **Pas-de-Calais (62)**.
 
-Le site est un **site statique** (aucune base de données, aucun langage serveur) généré avec
+Le site est un **site statique** (aucune base de données) généré avec
 [Eleventy](https://www.11ty.dev/). Il est donc rapide, robuste, économe et se déploie sur
 n'importe quel hébergement mutualisé — notamment **o2switch**, où le domaine
-`observatoire-biodiversite-npdc.fr` est hébergé.
+`observatoire-biodiversite-npdc.fr` est hébergé. Seule la page d'administration des
+coordonnées (`admin-nap.php`) utilise PHP.
 
 ---
 
@@ -124,6 +125,25 @@ Deux possibilités :
 
 En l'absence de photo, un visuel illustré (pictogramme) est utilisé. Les crédits des photos
 apparaissent sur chaque fiche et sur la page **/credits/**.
+
+## Coordonnées locales ALLO FRELONS (NAP)
+
+Les coordonnées affichées dans les blocs CTA / NAP (fiches liées aux pages locales
+d'allo-frelons.fr) se gèrent de deux façons :
+
+1. **Administration en ligne (recommandé)** : rendez-vous sur **`/admin-nap.php`** du site en
+   ligne. À la première visite, créez un mot de passe ; ensuite, modifiez les champs par
+   département (59, 62) et enregistrez — les changements sont **visibles immédiatement**, sans
+   reconstruction du site ni passage par GitHub. Les valeurs sont stockées sur le serveur dans
+   `donnees/nap.json` (non écrasé par les déploiements) et appliquées aux pages par
+   `assets/js/nap-locales.js`. Mot de passe oublié : supprimez `donnees/nap-admin.php` par FTP
+   puis retournez sur la page.
+2. **Dans le code** : le fichier [`src/_data/napLocales.json`](./src/_data/napLocales.json)
+   contient les valeurs compilées dans le site (utilisées en secours, notamment sans JavaScript).
+   Il peut être modifié depuis l'interface web de GitHub.
+
+Dans les deux cas : utilisez les valeurs **exactes** de la fiche d'établissement Google
+(cohérence NAP indispensable au SEO local) ; un champ laissé vide n'est pas affiché.
 
 ## Déploiement
 
