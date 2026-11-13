@@ -1,0 +1,278 @@
+{
+  "id": "ChIJwTi2rCTV_EcRND_5zWJ6c6k",
+  "slug": "tabac-presse-loto-pmu-la-choiseulerie",
+  "nom": "Tabac Presse Loto PMU La Choiseulerie",
+  "categorie": "cafes-bars",
+  "categorie_gmb": "Magasin",
+  "type_principal": "store",
+  "types": [
+    "coffee_shop",
+    "cafe",
+    "food_store",
+    "food",
+    "store",
+    "point_of_interest",
+    "establishment"
+  ],
+  "ville": "Tours",
+  "ville_slug": "tours",
+  "adresse": {
+    "rue": "56 Rue de Suède",
+    "code_postal": "37100",
+    "departement": "37",
+    "region": "Centre-Val de Loire",
+    "pays": "France",
+    "complete": "56 Rue de Suède, 37100 Tours"
+  },
+  "telephone": "02 47 42 67 42",
+  "geo": {
+    "latitude": 47.4320637,
+    "longitude": 0.6841611
+  },
+  "note": 4.5,
+  "avis": 188,
+  "horaires": [
+    {
+      "jour": 0,
+      "ferme": false,
+      "creneaux": [
+        [
+          "06:30",
+          "19:00"
+        ]
+      ]
+    },
+    {
+      "jour": 1,
+      "ferme": false,
+      "creneaux": [
+        [
+          "06:30",
+          "19:00"
+        ]
+      ]
+    },
+    {
+      "jour": 2,
+      "ferme": false,
+      "creneaux": [
+        [
+          "06:30",
+          "19:00"
+        ]
+      ]
+    },
+    {
+      "jour": 3,
+      "ferme": false,
+      "creneaux": [
+        [
+          "06:30",
+          "19:00"
+        ]
+      ]
+    },
+    {
+      "jour": 4,
+      "ferme": false,
+      "creneaux": [
+        [
+          "06:30",
+          "19:00"
+        ]
+      ]
+    },
+    {
+      "jour": 5,
+      "ferme": false,
+      "creneaux": [
+        [
+          "08:30",
+          "12:30"
+        ]
+      ]
+    },
+    {
+      "jour": 6,
+      "ferme": true,
+      "creneaux": []
+    }
+  ],
+  "attributs": [
+    "Entrée accessible en fauteuil roulant",
+    "Parking accessible en fauteuil roulant"
+  ],
+  "lien_google": "https://maps.google.com/?cid=12210237579512594228&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
+  "site_web_gmb": null,
+  "statut": "publiee",
+  "backlink": {
+    "etat": "absent",
+    "premiere_detection": null,
+    "derniere_detection": null,
+    "derniere_verification": "2026-11-13T13:02:00.952Z",
+    "echecs": 1,
+    "url_detectee": null
+  },
+  "suggestion": {
+    "etat": "en-attente",
+    "date_soumission": null,
+    "tentatives": 0,
+    "date_email": "2026-11-13"
+  },
+  "retrait": null,
+  "dates": {
+    "collecte": "2026-11-13",
+    "publication": "2026-11-13",
+    "maj": "2026-11-13"
+  },
+  "source": "google-places",
+  "avis_detail": {
+    "releve": "2026-11-13",
+    "liste": [
+      {
+        "note": 5,
+        "texte": "Génial car vraiment pas loin de Tours Nord et accessible en une trentaine de minutes à pied.",
+        "langue": "fr",
+        "date": "2026-09-30",
+        "auteur": "Dulion Ghislaine",
+        "auteur_lien": "https://www.google.com/maps/contrib/101731163526960512919/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT21FM1VFZ3phbU5sVkVaUWJESlVPRWgxZG1KTVJHYxAB!2m1!1s0x47fcd524acb638c1:0xa9737a62cdf93f34"
+      },
+      {
+        "note": 5,
+        "texte": "Au top très bonne acceuil et mes filles adore y allait après l'école pour faire un petit coucou au petit chien 🐶 tout les jour elle me demande d'y allait 🤣🤣🤣🤣",
+        "langue": "fr",
+        "date": "2026-09-13",
+        "auteur": "Flavia",
+        "auteur_lien": "https://www.google.com/maps/contrib/112031958284608369576/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2twdmEzQldkamMxYXpkTVVrVllTWGxXU0RkQ1duYxAB!2m1!1s0x47fcd524acb638c1:0xa9737a62cdf93f34"
+      },
+      {
+        "note": 5,
+        "texte": "Patron et salarié très accueillant et souriant que du bonheur de voir enfin des personnes agréable je recommande 😉",
+        "langue": "fr",
+        "date": "2026-07-17",
+        "auteur": "guerin guerin",
+        "auteur_lien": "https://www.google.com/maps/contrib/116490147857243712534/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2pCTWMwSjRNak5tZVVKYWVubHBaRXBIU2pkSU5XYxAB!2m1!1s0x47fcd524acb638c1:0xa9737a62cdf93f34"
+      },
+      {
+        "note": 5,
+        "texte": "Mon Mari et Moi venons d’aménager Rue de Suède  pour la première fois nous sommes présenté au tabac presse où nous avons été reçus tu avec un accueil chaleureux du patron et son employé et depuis nous continuons de faire nos achats",
+        "langue": "fr",
+        "date": "2026-06-27",
+        "auteur": "christine cormier",
+        "auteur_lien": "https://www.google.com/maps/contrib/107856873452886460666/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xaV09VSmtieTF1YlZFMFFtSk5ia3RrUlVKWmNYYxAB!2m1!1s0x47fcd524acb638c1:0xa9737a62cdf93f34"
+      },
+      {
+        "note": 5,
+        "texte": "J'y suis allé l'autre jour pour la première fois, superbe accueil, la vendeuse est au top, je recommande",
+        "langue": "fr",
+        "date": "2026-01-10",
+        "auteur": "Christian RIVERAULT",
+        "auteur_lien": "https://www.google.com/maps/contrib/115426697724805434396/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xVMU4zSkhiMm96TUdKdFlqWXllVTFvWTNRME9HYxAB!2m1!1s0x47fcd524acb638c1:0xa9737a62cdf93f34"
+      }
+    ]
+  },
+  "services": {
+    "releve": "2026-11-13",
+    "options": {
+      "delivery": false,
+      "curbsidePickup": false
+    },
+    "paiement": [
+      "carte bancaire",
+      "carte de débit",
+      "paiement sans contact"
+    ],
+    "parking": []
+  },
+  "redaction": {
+    "version": 2,
+    "titre": "Tabac Presse Loto PMU La Choiseulerie — Café ou bar à Tours",
+    "meta_titre": "Tabac Presse Loto PMU La Choiseulerie, café ou bar à Tours",
+    "meta_description": "Tabac Presse Loto PMU La Choiseulerie, café ou bar à Tours : horaires d'ouverture, note Google 4,5/5 (188 avis), téléphone, adresse et itinéraire.",
+    "chapo": "Cette fiche présente Tabac Presse Loto PMU La Choiseulerie, un café ou bar au 56 Rue de Suède, à Tours. Ouvert tous les jours sauf le dimanche au relevé du 13 novembre 2026. Téléphone : 02 47 42 67 42. Note Google : 4,5 sur 5 pour 188 avis.",
+    "sections": [
+      {
+        "id": "presentation",
+        "titre": "Tabac Presse Loto PMU La Choiseulerie en quelques mots",
+        "paragraphes": [
+          "Sur Google, l'établissement est classé « Magasin », dans notre rubrique Café ou bar.",
+          "D'après le relevé du 13 novembre 2026, l'établissement est ouvert tous les jours sauf le dimanche. Le détail jour par jour figure plus bas."
+        ]
+      },
+      {
+        "id": "prestations",
+        "titre": "Services et équipements de Tabac Presse Loto PMU La Choiseulerie",
+        "paragraphes": [
+          "Non proposé selon la fiche Google : livraison et retrait en voiture.",
+          "Moyens de paiement déclarés : carte bancaire, carte de débit et paiement sans contact.",
+          "Ces indications sont déclarées par l'établissement sur sa fiche Google (relevé du 13 novembre 2026)."
+        ]
+      },
+      {
+        "id": "acces",
+        "titre": "Adresse et accès",
+        "paragraphes": [
+          "L'établissement est situé au 56 Rue de Suède, 37100 Tours.",
+          "Coordonnées GPS : 47.43206, 0.68416. Le bouton Itinéraire de cette page ouvre la navigation."
+        ]
+      },
+      {
+        "id": "contact",
+        "titre": "Contacter Tabac Presse Loto PMU La Choiseulerie",
+        "paragraphes": [
+          "Le contact se fait par téléphone au 02 47 42 67 42, ou directement sur place aux horaires d'ouverture."
+        ]
+      },
+      {
+        "id": "avis",
+        "titre": "La réputation de Tabac Presse Loto PMU La Choiseulerie",
+        "paragraphes": [
+          "Note de 4,5 sur 5 pour 188 avis Google au relevé du 13 novembre 2026. Les avis les plus parlants sont compilés ci-dessous, avec un lien vers la fiche d'origine."
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "q": "Quels sont les horaires de Tabac Presse Loto PMU La Choiseulerie ?",
+        "r": "Au relevé du 13 novembre 2026, Tabac Presse Loto PMU La Choiseulerie était ouvert tous les jours sauf le dimanche. Dans le détail — lundi : de 6 h 30 à 19 h ; mardi : de 6 h 30 à 19 h ; mercredi : de 6 h 30 à 19 h ; jeudi : de 6 h 30 à 19 h ; vendredi : de 6 h 30 à 19 h ; samedi : de 8 h 30 à 12 h 30 ; dimanche : fermé. Ces horaires peuvent changer : un appel préalable reste conseillé."
+      },
+      {
+        "q": "Tabac Presse Loto PMU La Choiseulerie est-il ouvert le dimanche ?",
+        "r": "Non : d'après les horaires relevés le 13 novembre 2026, Tabac Presse Loto PMU La Choiseulerie est fermé le dimanche."
+      },
+      {
+        "q": "Où se trouve Tabac Presse Loto PMU La Choiseulerie ?",
+        "r": "Tabac Presse Loto PMU La Choiseulerie se trouve 56 Rue de Suède, 37100 Tours. Un lien d'itinéraire est disponible sur cette page."
+      },
+      {
+        "q": "Comment contacter Tabac Presse Loto PMU La Choiseulerie ?",
+        "r": "Par téléphone au 02 47 42 67 42, ou directement sur place aux heures d'ouverture."
+      },
+      {
+        "q": "Tabac Presse Loto PMU La Choiseulerie propose-t-il la vente à emporter ou la livraison ?",
+        "r": "D'après sa fiche Google (relevé du 13 novembre 2026) — livraison : non."
+      },
+      {
+        "q": "Tabac Presse Loto PMU La Choiseulerie est-il accessible aux personnes à mobilité réduite ?",
+        "r": "La fiche Google de l'établissement mentionne : « Entrée accessible en fauteuil roulant ». Cette information est déclarative ; en cas de doute, vérifiez par téléphone."
+      }
+    ],
+    "genere_le": "2026-11-13"
+  },
+  "statut_google": "OPERATIONAL",
+  "audience": {
+    "clics": 0,
+    "impressions": 0,
+    "position": null,
+    "fenetreJours": 90,
+    "clicsRecents": 0,
+    "fenetreRecenteJours": 28,
+    "source": "search-console",
+    "date": "2026-11-13"
+  }
+}

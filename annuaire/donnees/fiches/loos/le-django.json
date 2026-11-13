@@ -1,0 +1,301 @@
+{
+  "id": "ChIJUQ6o4DPVwkcReYJiYBjwWq8",
+  "slug": "le-django",
+  "nom": "Le Django",
+  "categorie": "cafes-bars",
+  "categorie_gmb": "Bar",
+  "type_principal": "bar",
+  "types": [
+    "bar",
+    "point_of_interest",
+    "establishment"
+  ],
+  "ville": "Loos",
+  "ville_slug": "loos",
+  "adresse": {
+    "rue": "35 Rue Georges Potié",
+    "code_postal": "59120",
+    "departement": "59",
+    "region": "Hauts-de-France",
+    "pays": "France",
+    "complete": "35 Rue Georges Potié, 59120 Loos"
+  },
+  "telephone": "",
+  "geo": {
+    "latitude": 50.61353460000001,
+    "longitude": 3.0063063
+  },
+  "note": 4.2,
+  "avis": 159,
+  "horaires": [
+    {
+      "jour": 0,
+      "ferme": false,
+      "creneaux": [
+        [
+          "06:00",
+          "20:00"
+        ]
+      ]
+    },
+    {
+      "jour": 1,
+      "ferme": false,
+      "creneaux": [
+        [
+          "06:00",
+          "20:00"
+        ]
+      ]
+    },
+    {
+      "jour": 2,
+      "ferme": false,
+      "creneaux": [
+        [
+          "06:00",
+          "20:00"
+        ]
+      ]
+    },
+    {
+      "jour": 3,
+      "ferme": false,
+      "creneaux": [
+        [
+          "06:00",
+          "20:00"
+        ]
+      ]
+    },
+    {
+      "jour": 4,
+      "ferme": false,
+      "creneaux": [
+        [
+          "06:00",
+          "20:00"
+        ]
+      ]
+    },
+    {
+      "jour": 5,
+      "ferme": false,
+      "creneaux": [
+        [
+          "09:00",
+          "20:00"
+        ]
+      ]
+    },
+    {
+      "jour": 6,
+      "ferme": false,
+      "creneaux": [
+        [
+          "09:00",
+          "15:00"
+        ]
+      ]
+    }
+  ],
+  "attributs": [
+    "Entrée accessible en fauteuil roulant",
+    "Places assises accessibles en fauteuil roulant"
+  ],
+  "lien_google": "https://maps.google.com/?cid=12635675692028297849&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
+  "site_web_gmb": null,
+  "statut": "publiee",
+  "backlink": {
+    "etat": "absent",
+    "premiere_detection": null,
+    "derniere_detection": null,
+    "derniere_verification": "2026-11-13T13:02:00.952Z",
+    "echecs": 1,
+    "url_detectee": null
+  },
+  "suggestion": {
+    "etat": "en-attente",
+    "date_soumission": null,
+    "tentatives": 0,
+    "date_email": "2026-11-13"
+  },
+  "retrait": null,
+  "dates": {
+    "collecte": "2026-11-13",
+    "publication": "2026-11-13",
+    "maj": "2026-11-13"
+  },
+  "source": "google-places",
+  "avis_detail": {
+    "releve": "2026-11-13",
+    "liste": [
+      {
+        "note": 5,
+        "texte": "Je vais de temps en temps récupérer un colis ou acheter des jeux à gratter. Personnel très agréable",
+        "langue": "fr",
+        "date": "2026-07-30",
+        "auteur": "célia smt",
+        "auteur_lien": "https://www.google.com/maps/contrib/105802435146320756917/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25FeVdtTkJOa3cxYkY5V2JYRjRVMDltU3pBMlZHYxAB!2m1!1s0x47c2d533e0a80e51:0xaf5af01860628279"
+      },
+      {
+        "note": 5,
+        "texte": "Personne agréable et sérieuse.... sûrement la patronne.....je recommande vivement.",
+        "langue": "fr",
+        "date": "2026-04-15",
+        "auteur": "Franck Flourest",
+        "auteur_lien": "https://www.google.com/maps/contrib/117681966008801448356/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2t0T1V6ZG9YMlpoZFc5SU1IVnBjRWhWTUhWUVIxRRAB!2m1!1s0x47c2d533e0a80e51:0xaf5af01860628279"
+      },
+      {
+        "note": 1,
+        "texte": "Catastrophique\nMon homme est venu faire un pari sportif et ça lui a mis deux fois paiement refusé, alors que c’est passé sur son compte\nNous avons perdu 15 € et ils n’ont pas voulu rembourser, Ils disaient que soi-disant ils allait être remboursé sur son compte, alors que rien du tout",
+        "langue": "fr",
+        "date": "2026-03-10",
+        "auteur": "Alicia Vermeulen",
+        "auteur_lien": "https://www.google.com/maps/contrib/106379403103209426142/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT21vd1lsZDNNVlpxYVRCeU1tczBSVVphY2xjeE9GRRAB!2m1!1s0x47c2d533e0a80e51:0xaf5af01860628279"
+      },
+      {
+        "note": 5,
+        "texte": "Au top je recommande les yeux fermés Leila et ses parents sont au top j y vais depuis des années toujours agréable d aller chercher un colis et de plus petit accueil supplémentaire du chien  🐶 ne changer rien",
+        "langue": "fr",
+        "date": "2026-02-11",
+        "auteur": "Elodie Bcht",
+        "auteur_lien": "https://www.google.com/maps/contrib/113416122916561699861/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25vM2VrOUpjakpVVFRsMVpGcDJNR2xmWWtGYVZWRRAB!2m1!1s0x47c2d533e0a80e51:0xaf5af01860628279"
+      },
+      {
+        "note": 1,
+        "texte": "Il s’agirait peut être de faire un peu plus attention à votre chien si vous ne tenez pas à ce qu’il se fasse écraser !!! Toujours la même chose le pauvre chien se balade traverse à n’importe quel moment manque de se faire écraser à chaque fois il doit avoir une bonne étoile sur la tête car ce n’est pas la première fois que je le voit se balader et surtout aux heures de pointes quand il y as du monde vous êtes inconscient !!",
+        "langue": "fr",
+        "date": "2026-02-10",
+        "auteur": "Rebecca Lcq",
+        "auteur_lien": "https://www.google.com/maps/contrib/112976778641472086757/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2pCNFdHeHpjVkpVVEd4Nk1YRXdaVEZ5YmpaQ2VYYxAB!2m1!1s0x47c2d533e0a80e51:0xaf5af01860628279"
+      }
+    ]
+  },
+  "services": {
+    "releve": "2026-11-13",
+    "prix": "PRICE_LEVEL_INEXPENSIVE",
+    "options": {
+      "takeout": false,
+      "delivery": false,
+      "curbsidePickup": false,
+      "reservable": false,
+      "outdoorSeating": false,
+      "servesBeer": true,
+      "servesWine": true,
+      "servesCocktails": true,
+      "goodForChildren": false,
+      "goodForGroups": true,
+      "goodForWatchingSports": true,
+      "liveMusic": false,
+      "allowsDogs": true,
+      "restroom": true
+    },
+    "paiement": [
+      "carte bancaire",
+      "carte de débit",
+      "paiement sans contact"
+    ],
+    "parking": [
+      "stationnement gratuit dans la rue"
+    ]
+  },
+  "redaction": {
+    "version": 2,
+    "titre": "Le Django — Café ou bar à Loos",
+    "meta_titre": "Le Django à Loos : horaires, avis",
+    "meta_description": "Le Django, café ou bar à Loos : horaires d'ouverture, note Google 4,2/5 (159 avis), adresse et itinéraire.",
+    "chapo": "Cette fiche présente Le Django, un café ou bar au 35 Rue Georges Potié, à Loos. Ouvert sept jours sur sept au relevé du 13 novembre 2026. Note Google : 4,2 sur 5 pour 159 avis.",
+    "sections": [
+      {
+        "id": "presentation",
+        "titre": "Le Django en quelques mots",
+        "paragraphes": [
+          "Sur Google, l'établissement est classé « Bar », dans notre rubrique Café ou bar.",
+          "Niveau de prix indiqué sur la fiche Google : € (bon marché).",
+          "D'après le relevé du 13 novembre 2026, l'établissement est ouvert sept jours sur sept. Le détail jour par jour figure plus bas."
+        ]
+      },
+      {
+        "id": "prestations",
+        "titre": "Services et équipements de Le Django",
+        "paragraphes": [
+          "Proposé : bière, vin, cocktails, adapté aux groupes, retransmissions sportives, chiens acceptés et toilettes.",
+          "Non proposé selon la fiche Google : à emporter, livraison, retrait en voiture, réservation possible, terrasse, adapté aux enfants et musique live.",
+          "Moyens de paiement déclarés : carte bancaire, carte de débit et paiement sans contact.",
+          "Stationnement : stationnement gratuit dans la rue.",
+          "Ces indications sont déclarées par l'établissement sur sa fiche Google (relevé du 13 novembre 2026)."
+        ]
+      },
+      {
+        "id": "acces",
+        "titre": "Adresse et accès",
+        "paragraphes": [
+          "L'établissement est situé au 35 Rue Georges Potié, 59120 Loos.",
+          "Coordonnées GPS : 50.61353, 3.00631. Le bouton Itinéraire de cette page ouvre la navigation."
+        ]
+      },
+      {
+        "id": "contact",
+        "titre": "Contacter Le Django",
+        "paragraphes": [
+          "Aucun numéro de téléphone n'est déclaré sur la fiche Google de l'établissement : le contact se fait sur place, aux horaires indiqués."
+        ]
+      },
+      {
+        "id": "avis",
+        "titre": "La réputation de Le Django",
+        "paragraphes": [
+          "Note de 4,2 sur 5 pour 159 avis Google au relevé du 13 novembre 2026. Les avis les plus parlants sont compilés ci-dessous, avec un lien vers la fiche d'origine."
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "q": "Quels sont les horaires de Le Django ?",
+        "r": "Au relevé du 13 novembre 2026, Le Django était ouvert sept jours sur sept. Dans le détail — lundi : de 6 h à 20 h ; mardi : de 6 h à 20 h ; mercredi : de 6 h à 20 h ; jeudi : de 6 h à 20 h ; vendredi : de 6 h à 20 h ; samedi : de 9 h à 20 h ; dimanche : de 9 h à 15 h. Ces horaires peuvent changer : un appel préalable reste conseillé."
+      },
+      {
+        "q": "Le Django est-il ouvert le dimanche ?",
+        "r": "Oui : le dimanche, Le Django est ouvert de 9 h à 15 h (horaires relevés le 13 novembre 2026)."
+      },
+      {
+        "q": "Où se trouve Le Django ?",
+        "r": "Le Django se trouve 35 Rue Georges Potié, 59120 Loos. Un lien d'itinéraire est disponible sur cette page."
+      },
+      {
+        "q": "Peut-on réserver chez Le Django ?",
+        "r": "La fiche Google de Le Django indique que la réservation n'est pas proposée."
+      },
+      {
+        "q": "Le Django propose-t-il la vente à emporter ou la livraison ?",
+        "r": "D'après sa fiche Google (relevé du 13 novembre 2026) — vente à emporter : non ; livraison : non."
+      },
+      {
+        "q": "Quel est le niveau de prix de Le Django ?",
+        "r": "Google classe Le Django au niveau de prix € (bon marché), sur une échelle de € à €€€€ établie à partir des avis clients."
+      },
+      {
+        "q": "Le Django est-il accessible aux personnes à mobilité réduite ?",
+        "r": "La fiche Google de l'établissement mentionne : « Entrée accessible en fauteuil roulant ». Cette information est déclarative ; en cas de doute, vérifiez par téléphone."
+      }
+    ],
+    "genere_le": "2026-11-13"
+  },
+  "statut_google": "OPERATIONAL",
+  "audience": {
+    "clics": 0,
+    "impressions": 0,
+    "position": null,
+    "fenetreJours": 90,
+    "clicsRecents": 0,
+    "fenetreRecenteJours": 28,
+    "source": "search-console",
+    "date": "2026-11-13"
+  }
+}

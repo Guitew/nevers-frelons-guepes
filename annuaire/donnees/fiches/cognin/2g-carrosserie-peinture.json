@@ -1,0 +1,264 @@
+{
+  "id": "ChIJx8jY8nepi0cR1JbEkyUlfSw",
+  "slug": "2g-carrosserie-peinture",
+  "nom": "2G CARROSSERIE PEINTURE",
+  "categorie": "garages-automobile",
+  "categorie_gmb": "Garage automobile",
+  "type_principal": "car_repair",
+  "types": [
+    "car_repair",
+    "point_of_interest",
+    "service",
+    "establishment"
+  ],
+  "ville": "Cognin",
+  "ville_slug": "cognin",
+  "adresse": {
+    "rue": "62 Route de Lyon",
+    "code_postal": "73160",
+    "departement": "73",
+    "region": "Auvergne-Rhône-Alpes",
+    "pays": "France",
+    "complete": "62 Rte de Lyon, 73160 Cognin"
+  },
+  "telephone": "04 22 91 27 74",
+  "geo": {
+    "latitude": 45.5571948,
+    "longitude": 5.894106
+  },
+  "note": 5,
+  "avis": 55,
+  "horaires": [
+    {
+      "jour": 0,
+      "ferme": false,
+      "creneaux": [
+        [
+          "07:30",
+          "17:00"
+        ]
+      ]
+    },
+    {
+      "jour": 1,
+      "ferme": false,
+      "creneaux": [
+        [
+          "07:30",
+          "17:00"
+        ]
+      ]
+    },
+    {
+      "jour": 2,
+      "ferme": false,
+      "creneaux": [
+        [
+          "07:30",
+          "17:00"
+        ]
+      ]
+    },
+    {
+      "jour": 3,
+      "ferme": false,
+      "creneaux": [
+        [
+          "07:30",
+          "17:00"
+        ]
+      ]
+    },
+    {
+      "jour": 4,
+      "ferme": false,
+      "creneaux": [
+        [
+          "07:30",
+          "13:30"
+        ]
+      ]
+    },
+    {
+      "jour": 5,
+      "ferme": true,
+      "creneaux": []
+    },
+    {
+      "jour": 6,
+      "ferme": true,
+      "creneaux": []
+    }
+  ],
+  "attributs": [
+    "Entrée accessible en fauteuil roulant",
+    "Parking accessible en fauteuil roulant"
+  ],
+  "lien_google": "https://maps.google.com/?cid=3205759353080813268&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
+  "site_web_gmb": null,
+  "statut": "publiee",
+  "backlink": {
+    "etat": "absent",
+    "premiere_detection": null,
+    "derniere_detection": null,
+    "derniere_verification": "2026-11-13T13:02:00.952Z",
+    "echecs": 1,
+    "url_detectee": null
+  },
+  "suggestion": {
+    "etat": "en-attente",
+    "date_soumission": null,
+    "tentatives": 0,
+    "date_email": "2026-11-13"
+  },
+  "retrait": null,
+  "dates": {
+    "collecte": "2026-11-13",
+    "publication": "2026-11-13",
+    "maj": "2026-11-13"
+  },
+  "source": "google-places",
+  "avis_detail": {
+    "releve": "2026-11-13",
+    "liste": [
+      {
+        "note": 5,
+        "texte": "Exceptionnel ! On était septique quant au travail demandé et le résultat était au dessus de nos attentes. On avait une bosse et plein d’éraflures sur une portière et parechoc avant. Au résultat c’est exactement comme neuf. Merci encore.",
+        "langue": "fr",
+        "date": "2026-10-07",
+        "auteur": "Arnaud Gumilar",
+        "auteur_lien": "https://www.google.com/maps/contrib/100626803446931935549/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2t4S1JtWlJSQzB0U205V2RXZGhXRWRDUld0WFkyYxAB!2m1!1s0x478ba977f2d8c8c7:0x2c7d252593c496d4"
+      },
+      {
+        "note": 5,
+        "texte": "Je recommande vivement l'entreprise 2G Carrosserie.\nLe travail effectué (changement complet de pare-choc arrière) est de grande qualité et les interlocuteurs sont sérieux et agréables.\nMerci",
+        "langue": "fr",
+        "date": "2026-06-02",
+        "auteur": "Mehdy Baabaa",
+        "auteur_lien": "https://www.google.com/maps/contrib/115683206363439139447/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2t0a2RUVlRZalkwWjIxd1ltOTNaV2g0YjNwNE4xRRAB!2m1!1s0x478ba977f2d8c8c7:0x2c7d252593c496d4"
+      },
+      {
+        "note": 5,
+        "texte": "Travail absolument irréprochable, réalisé par un vrai passionné qui prend le temps d’écouter, de conseiller et surtout de faire les choses parfaitement.\nÉtant particulièrement maniaque avec mes véhicules, je suis rarement satisfait à 100 %, mais là le résultat est au-delà de mes attentes. Finitions impeccables, souci du détail, sérieux et professionnalisme du début à la fin.\nOn sent immédiatement l’amour du métier et l’envie de satisfaire le client. Je recommande les yeux fermés à tous ceux qui cherchent un travail haut de gamme et une personne de confiance.",
+        "langue": "fr",
+        "date": "2026-05-28",
+        "auteur": "Damien Vicente",
+        "auteur_lien": "https://www.google.com/maps/contrib/101760676082865840524/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xOUmFWWTJaRVp1VDI5clNFNHhXRFY0WmtSb01XYxAB!2m1!1s0x478ba977f2d8c8c7:0x2c7d252593c496d4"
+      },
+      {
+        "note": 5,
+        "texte": "Excellent carrossier que je recommande vivement !!!\nPrise en charge rapide et efficace, travail réalisé avec beaucoup de soin et un résultat impeccable.\nDe plus, l’équipe est très sympathique et professionnelle.\nUn vrai plaisir d’avoir affaire à des personnes aussi sérieuses et agréables. Merci encore pour votre excellent travail !",
+        "langue": "fr",
+        "date": "2026-05-12",
+        "auteur": "Jérôme Roussillon",
+        "auteur_lien": "https://www.google.com/maps/contrib/104217494106092689273/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2t0MFNHazJNRkZQVDFkT1ptVlFWak5STmkxMmVXYxAB!2m1!1s0x478ba977f2d8c8c7:0x2c7d252593c496d4"
+      },
+      {
+        "note": 5,
+        "texte": "Travail impeccable sur la peinture de mon véhicule vandalisé. Équipe très pro et surtout très communicante, ce qui est vraiment appréciable. Ils en ont même fait plus que ce qui était prévu au départ par souci du détail. Je recommande sans hésiter !",
+        "langue": "fr",
+        "date": "2026-04-24",
+        "auteur": "Antoine Guerand",
+        "auteur_lien": "https://www.google.com/maps/contrib/111830706076084624478/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT210WVVWRTRiRUppZEVJMldubzRSMDV2TlhGSFdrRRAB!2m1!1s0x478ba977f2d8c8c7:0x2c7d252593c496d4"
+      }
+    ]
+  },
+  "services": {
+    "releve": "2026-11-13",
+    "options": {
+      "restroom": true
+    },
+    "paiement": [
+      "carte bancaire",
+      "carte de débit"
+    ],
+    "parking": []
+  },
+  "redaction": {
+    "version": 2,
+    "titre": "2G CARROSSERIE PEINTURE — Garage et automobile à Cognin",
+    "meta_titre": "2G CARROSSERIE PEINTURE à Cognin : horaires, avis, téléphone",
+    "meta_description": "2G CARROSSERIE PEINTURE, garage et automobile à Cognin : horaires d'ouverture, note Google 5/5 (55 avis), téléphone, adresse et itinéraire.",
+    "chapo": "2G CARROSSERIE PEINTURE exerce l'activité de garage et automobile au 62 Route de Lyon, à Cognin. Fermé le samedi et le dimanche au relevé du 13 novembre 2026. Téléphone : 04 22 91 27 74. Note Google : 5 sur 5 pour 55 avis.",
+    "sections": [
+      {
+        "id": "presentation",
+        "titre": "2G CARROSSERIE PEINTURE en quelques mots",
+        "paragraphes": [
+          "Sur Google, l'établissement est classé « Garage automobile », dans notre rubrique Garage et automobile.",
+          "D'après le relevé du 13 novembre 2026, l'établissement est fermé le samedi et le dimanche. Le détail jour par jour figure plus bas."
+        ]
+      },
+      {
+        "id": "prestations",
+        "titre": "Services et équipements de 2G CARROSSERIE PEINTURE",
+        "paragraphes": [
+          "Proposé : toilettes.",
+          "Moyens de paiement déclarés : carte bancaire et carte de débit.",
+          "Ces indications sont déclarées par l'établissement sur sa fiche Google (relevé du 13 novembre 2026)."
+        ]
+      },
+      {
+        "id": "acces",
+        "titre": "Adresse et accès",
+        "paragraphes": [
+          "L'établissement est situé au 62 Route de Lyon, 73160 Cognin.",
+          "Coordonnées GPS : 45.55719, 5.89411. Le bouton Itinéraire de cette page ouvre la navigation."
+        ]
+      },
+      {
+        "id": "contact",
+        "titre": "Contacter 2G CARROSSERIE PEINTURE",
+        "paragraphes": [
+          "Le contact se fait par téléphone au 04 22 91 27 74, ou directement sur place aux horaires d'ouverture."
+        ]
+      },
+      {
+        "id": "avis",
+        "titre": "La réputation de 2G CARROSSERIE PEINTURE",
+        "paragraphes": [
+          "Note de 5 sur 5 pour 55 avis Google au relevé du 13 novembre 2026. Les avis les plus parlants sont compilés ci-dessous, avec un lien vers la fiche d'origine."
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "q": "Quels sont les horaires de 2G CARROSSERIE PEINTURE ?",
+        "r": "Au relevé du 13 novembre 2026, 2G CARROSSERIE PEINTURE était fermé le samedi et le dimanche. Dans le détail — lundi : de 7 h 30 à 17 h ; mardi : de 7 h 30 à 17 h ; mercredi : de 7 h 30 à 17 h ; jeudi : de 7 h 30 à 17 h ; vendredi : de 7 h 30 à 13 h 30 ; samedi : fermé ; dimanche : fermé. Ces horaires peuvent changer : un appel préalable reste conseillé."
+      },
+      {
+        "q": "2G CARROSSERIE PEINTURE est-il ouvert le dimanche ?",
+        "r": "Non : d'après les horaires relevés le 13 novembre 2026, 2G CARROSSERIE PEINTURE est fermé le dimanche."
+      },
+      {
+        "q": "Où se trouve 2G CARROSSERIE PEINTURE ?",
+        "r": "2G CARROSSERIE PEINTURE se trouve 62 Rte de Lyon, 73160 Cognin. Un lien d'itinéraire est disponible sur cette page."
+      },
+      {
+        "q": "Comment contacter 2G CARROSSERIE PEINTURE ?",
+        "r": "Par téléphone au 04 22 91 27 74, ou directement sur place aux heures d'ouverture."
+      },
+      {
+        "q": "2G CARROSSERIE PEINTURE est-il accessible aux personnes à mobilité réduite ?",
+        "r": "La fiche Google de l'établissement mentionne : « Entrée accessible en fauteuil roulant ». Cette information est déclarative ; en cas de doute, vérifiez par téléphone."
+      }
+    ],
+    "genere_le": "2026-11-13"
+  },
+  "statut_google": "OPERATIONAL",
+  "audience": {
+    "clics": 0,
+    "impressions": 0,
+    "position": null,
+    "fenetreJours": 90,
+    "clicsRecents": 0,
+    "fenetreRecenteJours": 28,
+    "source": "search-console",
+    "date": "2026-11-13"
+  }
+}

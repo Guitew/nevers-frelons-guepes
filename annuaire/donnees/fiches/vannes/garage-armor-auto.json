@@ -1,0 +1,281 @@
+{
+  "id": "ChIJ_e1moUocEEgR_mawiirrIGM",
+  "slug": "garage-armor-auto",
+  "nom": "Garage Armor Auto",
+  "categorie": "garages-automobile",
+  "categorie_gmb": "Garage automobile",
+  "type_principal": "car_repair",
+  "types": [
+    "car_repair",
+    "point_of_interest",
+    "service",
+    "establishment"
+  ],
+  "ville": "Vannes",
+  "ville_slug": "vannes",
+  "adresse": {
+    "rue": "181 Rue Jean Jaurès",
+    "code_postal": "56000",
+    "departement": "56",
+    "region": "Bretagne",
+    "pays": "France",
+    "complete": "181 Rue Jean Jaurès, 56000 Vannes"
+  },
+  "telephone": "02 97 47 29 96",
+  "geo": {
+    "latitude": 47.6334159,
+    "longitude": -2.7451223
+  },
+  "note": 4.7,
+  "avis": 39,
+  "horaires": [
+    {
+      "jour": 0,
+      "ferme": false,
+      "creneaux": [
+        [
+          "08:00",
+          "12:00"
+        ],
+        [
+          "14:00",
+          "17:30"
+        ]
+      ]
+    },
+    {
+      "jour": 1,
+      "ferme": false,
+      "creneaux": [
+        [
+          "08:00",
+          "12:00"
+        ],
+        [
+          "14:00",
+          "17:30"
+        ]
+      ]
+    },
+    {
+      "jour": 2,
+      "ferme": false,
+      "creneaux": [
+        [
+          "08:00",
+          "12:00"
+        ],
+        [
+          "14:00",
+          "17:30"
+        ]
+      ]
+    },
+    {
+      "jour": 3,
+      "ferme": false,
+      "creneaux": [
+        [
+          "08:00",
+          "12:00"
+        ],
+        [
+          "14:00",
+          "17:30"
+        ]
+      ]
+    },
+    {
+      "jour": 4,
+      "ferme": false,
+      "creneaux": [
+        [
+          "08:00",
+          "12:00"
+        ],
+        [
+          "14:00",
+          "17:30"
+        ]
+      ]
+    },
+    {
+      "jour": 5,
+      "ferme": true,
+      "creneaux": []
+    },
+    {
+      "jour": 6,
+      "ferme": true,
+      "creneaux": []
+    }
+  ],
+  "attributs": [
+    "Entrée accessible en fauteuil roulant",
+    "Parking accessible en fauteuil roulant"
+  ],
+  "lien_google": "https://maps.google.com/?cid=7142967576957576958&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
+  "site_web_gmb": null,
+  "statut": "publiee",
+  "backlink": {
+    "etat": "absent",
+    "premiere_detection": null,
+    "derniere_detection": null,
+    "derniere_verification": "2026-11-13T13:02:00.952Z",
+    "echecs": 1,
+    "url_detectee": null
+  },
+  "suggestion": {
+    "etat": "en-attente",
+    "date_soumission": null,
+    "tentatives": 0,
+    "date_email": "2026-11-13"
+  },
+  "retrait": null,
+  "dates": {
+    "collecte": "2026-11-13",
+    "publication": "2026-11-13",
+    "maj": "2026-11-13"
+  },
+  "source": "google-places",
+  "avis_detail": {
+    "releve": "2026-11-13",
+    "liste": [
+      {
+        "note": 5,
+        "texte": "Ce garage mérite bien plus que 5 étoiles. Ils ont sauvé mes vacances. Prise en charge le jour même après une panne, réparation dans les deux jours qui ont suivis. Diagnostic très clair et précis, ils sont très efficaces et très compétents. Un grand merci.",
+        "langue": "fr",
+        "date": "2026-08-07",
+        "auteur": "Marion ptt",
+        "auteur_lien": "https://www.google.com/maps/contrib/108081928125046608276/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT21OckxWaEpjV0ZTT1VaUlNYVkRYemRvUzBkMFMwRRAB!2m1!1s0x48101c4aa166edfd:0x6320eb2a8ab066fe"
+      },
+      {
+        "note": 5,
+        "texte": "Cela fait des années que j'emmène ma voiture dans ce garage, j'en suis toujours très satisfaite et j'y vais en toute confiance.",
+        "langue": "fr",
+        "date": "2026-05-26",
+        "auteur": "Josy Le Moal",
+        "auteur_lien": "https://www.google.com/maps/contrib/103882888379367425516/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2pRMFdWSXdNMFpJV0U1MVEzbG1SV1F4UkdkbmVrRRAB!2m1!1s0x48101c4aa166edfd:0x6320eb2a8ab066fe"
+      },
+      {
+        "note": 5,
+        "texte": "Il a résolu un problème à prix raisonnable alors que d'autres garages me disaient d'aller en concession ; le tout en expliquant clairement les choses et en se montrant arrangeant. Je me dirigerai dorénavant vers lui",
+        "langue": "fr",
+        "date": "2026-04-07",
+        "auteur": "Florian R",
+        "auteur_lien": "https://www.google.com/maps/contrib/110847293420953289107/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2taWFdrNWxZVEpoTWs5UlYzUTRWbU13WTJGak1GRRAB!2m1!1s0x48101c4aa166edfd:0x6320eb2a8ab066fe"
+      },
+      {
+        "note": 5,
+        "texte": "Très bon garage avec des professionnels qui connaissent leur métier.\nDistribution faite il y a plusieurs années à un prix très raisonnable.\nLa prise de rendez vous est rapide.\nHier, j’ai déposé ma voiture pour un bruit au niveau des roues, il ont fait le diagnostic et la réparation dans la journée ! J’en suis très satisfaite car un autre garage m’avait fait un devis 4 fois plus cher pour des pièces qui n’étaient pas nécessaires de changer.",
+        "langue": "fr",
+        "date": "2025-12-13",
+        "auteur": "Jeanne Le Badezet",
+        "auteur_lien": "https://www.google.com/maps/contrib/112046630090420430339/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2tsVmFEbDJiMDVEZDB4b1RrNXlOelIwTVZGNFozYxAB!2m1!1s0x48101c4aa166edfd:0x6320eb2a8ab066fe"
+      },
+      {
+        "note": 5,
+        "texte": "Merci pour votre aide de ce matin !de m avoir prêté un outil pour pouvoir démonter la batterie de mon audi a3 pour ma fille étudiante.\n\nEn plus vous m avez trouvé la batterie adaptée en un temps record et avec le sourire.\n\nSans votre confiance c était l assistante.\nMerci mille fois.\nJe vous remercie beaucoup 🤗\nJe recommande évidemment car les petits garage reste les meilleurs.\nA bientôt",
+        "langue": "fr",
+        "date": "2024-11-06",
+        "auteur": "Noyal Nadège",
+        "auteur_lien": "https://www.google.com/maps/contrib/114328873110162623120/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUMzc2NTVnZBRRAB!2m1!1s0x48101c4aa166edfd:0x6320eb2a8ab066fe"
+      }
+    ]
+  },
+  "services": {
+    "releve": "2026-11-13",
+    "options": {},
+    "paiement": [
+      "carte bancaire",
+      "carte de débit"
+    ],
+    "parking": []
+  },
+  "redaction": {
+    "version": 2,
+    "titre": "Garage Armor Auto — Garage et automobile à Vannes",
+    "meta_titre": "Garage Armor Auto à Vannes : horaires, avis, téléphone",
+    "meta_description": "Garage Armor Auto, garage et automobile à Vannes : horaires d'ouverture, note Google 4,7/5 (39 avis), téléphone, adresse et itinéraire.",
+    "chapo": "Garage Armor Auto est un garage et automobile au 181 Rue Jean Jaurès, à Vannes. Fermé le samedi et le dimanche au relevé du 13 novembre 2026. Téléphone : 02 97 47 29 96. Note Google : 4,7 sur 5 pour 39 avis.",
+    "sections": [
+      {
+        "id": "presentation",
+        "titre": "Garage Armor Auto en quelques mots",
+        "paragraphes": [
+          "Sur Google, l'établissement est classé « Garage automobile », dans notre rubrique Garage et automobile.",
+          "D'après le relevé du 13 novembre 2026, l'établissement est fermé le samedi et le dimanche. Le détail jour par jour figure plus bas."
+        ]
+      },
+      {
+        "id": "prestations",
+        "titre": "Services et équipements de Garage Armor Auto",
+        "paragraphes": [
+          "Moyens de paiement déclarés : carte bancaire et carte de débit.",
+          "Ces indications sont déclarées par l'établissement sur sa fiche Google (relevé du 13 novembre 2026)."
+        ]
+      },
+      {
+        "id": "acces",
+        "titre": "Adresse et accès",
+        "paragraphes": [
+          "L'établissement est situé au 181 Rue Jean Jaurès, 56000 Vannes.",
+          "Coordonnées GPS : 47.63342, -2.74512. Le bouton Itinéraire de cette page ouvre la navigation."
+        ]
+      },
+      {
+        "id": "contact",
+        "titre": "Contacter Garage Armor Auto",
+        "paragraphes": [
+          "Le contact se fait par téléphone au 02 97 47 29 96, ou directement sur place aux horaires d'ouverture."
+        ]
+      },
+      {
+        "id": "avis",
+        "titre": "La réputation de Garage Armor Auto",
+        "paragraphes": [
+          "Note de 4,7 sur 5 pour 39 avis Google au relevé du 13 novembre 2026. Les avis les plus parlants sont compilés ci-dessous, avec un lien vers la fiche d'origine."
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "q": "Quels sont les horaires de Garage Armor Auto ?",
+        "r": "Au relevé du 13 novembre 2026, Garage Armor Auto était fermé le samedi et le dimanche. Dans le détail — lundi : de 8 h à 12 h et de 14 h à 17 h 30 ; mardi : de 8 h à 12 h et de 14 h à 17 h 30 ; mercredi : de 8 h à 12 h et de 14 h à 17 h 30 ; jeudi : de 8 h à 12 h et de 14 h à 17 h 30 ; vendredi : de 8 h à 12 h et de 14 h à 17 h 30 ; samedi : fermé ; dimanche : fermé. Ces horaires peuvent changer : un appel préalable reste conseillé."
+      },
+      {
+        "q": "Garage Armor Auto est-il ouvert le dimanche ?",
+        "r": "Non : d'après les horaires relevés le 13 novembre 2026, Garage Armor Auto est fermé le dimanche."
+      },
+      {
+        "q": "Où se trouve Garage Armor Auto ?",
+        "r": "Garage Armor Auto se trouve 181 Rue Jean Jaurès, 56000 Vannes. Un lien d'itinéraire est disponible sur cette page."
+      },
+      {
+        "q": "Comment contacter Garage Armor Auto ?",
+        "r": "Par téléphone au 02 97 47 29 96, ou directement sur place aux heures d'ouverture."
+      },
+      {
+        "q": "Garage Armor Auto est-il accessible aux personnes à mobilité réduite ?",
+        "r": "La fiche Google de l'établissement mentionne : « Entrée accessible en fauteuil roulant ». Cette information est déclarative ; en cas de doute, vérifiez par téléphone."
+      }
+    ],
+    "genere_le": "2026-11-13"
+  },
+  "statut_google": "OPERATIONAL",
+  "audience": {
+    "clics": 0,
+    "impressions": 0,
+    "position": null,
+    "fenetreJours": 90,
+    "clicsRecents": 0,
+    "fenetreRecenteJours": 28,
+    "source": "search-console",
+    "date": "2026-11-13"
+  }
+}

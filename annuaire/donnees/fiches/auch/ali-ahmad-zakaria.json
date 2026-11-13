@@ -27,7 +27,7 @@
     "longitude": 0.6259691
   },
   "note": 3.6,
-  "avis": 40,
+  "avis": 42,
   "horaires": [
     {
       "jour": 0,
@@ -96,15 +96,15 @@
     "Toilettes accessibles en fauteuil roulant"
   ],
   "lien_google": "https://maps.google.com/?cid=14714721764897302122&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
-  "site_web_gmb": null,
+  "site_web_gmb": "https://andpro.fr/vitrine-locale/medecins-dentistes/auch/ali-ahmad-zakaria/",
   "statut": "publiee",
   "backlink": {
-    "etat": "absent",
-    "premiere_detection": null,
-    "derniere_detection": null,
-    "derniere_verification": "2026-10-27T10:29:22.553Z",
-    "echecs": 1,
-    "url_detectee": null
+    "etat": "present",
+    "premiere_detection": "2026-11-13T13:02:00.952Z",
+    "derniere_detection": "2026-11-13T13:02:00.952Z",
+    "derniere_verification": "2026-11-13T13:02:00.952Z",
+    "echecs": 0,
+    "url_detectee": "https://andpro.fr/vitrine-locale/medecins-dentistes/auch/ali-ahmad-zakaria/"
   },
   "suggestion": {
     "etat": "soumise",
@@ -116,7 +116,7 @@
   "dates": {
     "collecte": "2026-10-27",
     "publication": "2026-10-27",
-    "maj": "2026-10-28"
+    "maj": "2026-11-13"
   },
   "source": "google-places",
   "avis_detail": {
@@ -253,13 +253,13 @@
   },
   "statut_google": "OPERATIONAL",
   "audience": {
-    "clics": 7,
-    "impressions": 342,
+    "clics": 12,
+    "impressions": 417,
     "position": 2.8,
     "fenetreJours": 90,
-    "clicsRecents": 7,
+    "clicsRecents": 12,
     "fenetreRecenteJours": 28,
     "source": "search-console",
-    "date": "2026-11-12"
+    "date": "2026-11-13"
   }
 }
