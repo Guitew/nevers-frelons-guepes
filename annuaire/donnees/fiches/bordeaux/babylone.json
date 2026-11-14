@@ -1,0 +1,260 @@
+{
+  "id": "ChIJne1KRLgnVQ0RVN2GfDWC6A0",
+  "slug": "babylone",
+  "nom": "Babylone",
+  "categorie": "mode-equipement-maison",
+  "categorie_gmb": "Fleuriste",
+  "type_principal": "florist",
+  "types": [
+    "florist",
+    "garden_center",
+    "store",
+    "point_of_interest",
+    "service",
+    "establishment"
+  ],
+  "ville": "Bordeaux",
+  "ville_slug": "bordeaux",
+  "adresse": {
+    "rue": "45 bis Rue Furtado",
+    "code_postal": "33800",
+    "departement": "33",
+    "region": "Nouvelle-Aquitaine",
+    "pays": "France",
+    "complete": "45 bis Rue Furtado, 33800 Bordeaux"
+  },
+  "telephone": "05 56 75 96 83",
+  "geo": {
+    "latitude": 44.8244639,
+    "longitude": -0.5601938
+  },
+  "note": 4.8,
+  "avis": 121,
+  "horaires": [
+    {
+      "jour": 0,
+      "ferme": true,
+      "creneaux": []
+    },
+    {
+      "jour": 1,
+      "ferme": false,
+      "creneaux": [
+        [
+          "14:30",
+          "19:30"
+        ]
+      ]
+    },
+    {
+      "jour": 2,
+      "ferme": false,
+      "creneaux": [
+        [
+          "10:00",
+          "19:30"
+        ]
+      ]
+    },
+    {
+      "jour": 3,
+      "ferme": false,
+      "creneaux": [
+        [
+          "10:00",
+          "19:30"
+        ]
+      ]
+    },
+    {
+      "jour": 4,
+      "ferme": false,
+      "creneaux": [
+        [
+          "10:00",
+          "19:30"
+        ]
+      ]
+    },
+    {
+      "jour": 5,
+      "ferme": false,
+      "creneaux": [
+        [
+          "10:00",
+          "19:30"
+        ]
+      ]
+    },
+    {
+      "jour": 6,
+      "ferme": false,
+      "creneaux": [
+        [
+          "10:00",
+          "12:30"
+        ]
+      ]
+    }
+  ],
+  "attributs": [],
+  "lien_google": "https://maps.google.com/?cid=1002194083324026196&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
+  "site_web_gmb": null,
+  "statut": "publiee",
+  "backlink": {
+    "etat": "absent",
+    "premiere_detection": null,
+    "derniere_detection": null,
+    "derniere_verification": "2026-11-14T12:07:15.447Z",
+    "echecs": 1,
+    "url_detectee": null
+  },
+  "suggestion": {
+    "etat": "en-attente",
+    "date_soumission": null,
+    "tentatives": 0,
+    "date_email": "2026-11-14"
+  },
+  "retrait": null,
+  "dates": {
+    "collecte": "2026-11-14",
+    "publication": "2026-11-14",
+    "maj": "2026-11-14"
+  },
+  "source": "google-places",
+  "avis_detail": {
+    "releve": "2026-11-14",
+    "liste": [
+      {
+        "note": 5,
+        "texte": "Je viens à l’instant de composer un joli bouquet pour les 40 ans de ma meilleure amie juste après être arrivé à la gare de Bordeaux Saint-Jean. J’ai été très bien accueilli et le vendeur a pris le soin de satisfaire mes attentes 🙂 Je recommande fortement !!",
+        "langue": "fr",
+        "date": "2026-07-01",
+        "auteur": "Othmane",
+        "auteur_lien": "https://www.google.com/maps/contrib/107233407828480801847/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xsTlpUaFNaVGh4YnpkRmMyODFYekpvVFRWTFkzYxAB!2m1!1s0xd5527b8444aed9d:0xde882357c86dd54"
+      },
+      {
+        "note": 3,
+        "texte": "Bouquet avec un budget de 20€, pour 19€ j'ai eu ça. Je vous laisse en juger mais pour moi peut mieux faire. Quelques fleurs sont déjà flétries sinon ça va. En tout cas accueil pro, merci beaucoup !",
+        "langue": "fr",
+        "date": "2026-06-03",
+        "auteur": "Tom H",
+        "auteur_lien": "https://www.google.com/maps/contrib/111413005865215787522/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2taS2VqUlVZWFozZGxwNFVuRnpSMDl1YUhNMk9WRRAB!2m1!1s0xd5527b8444aed9d:0xde882357c86dd54"
+      },
+      {
+        "note": 5,
+        "texte": "Tout est merveilleux ds cette boutique.\nMerci pour le bouquet de fleurs, vraiment il est merveilleux ! Il est rempli de poésie, une œuvre d art!",
+        "langue": "fr",
+        "date": "2026-03-21",
+        "auteur": "carole berteau",
+        "auteur_lien": "https://www.google.com/maps/contrib/107068403028178574569/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25Sd1pqaFFVV1pMTXpaa1ZpMUlOakkzTFZaYVUxRRAB!2m1!1s0xd5527b8444aed9d:0xde882357c86dd54"
+      },
+      {
+        "note": 5,
+        "texte": "J’ai découvert ce fleuriste un peu par hasard en me baladant près de la gare, et quelle belle surprise ! L’endroit est magnifique et donne tout de suite envie de s’y arrêter. La personne qui m’a préparé le bouquet était adorable et m’a donné de très bons conseils pour choisir les fleurs. Il y a beaucoup de choix et on voit tout de suite que c’est de la qualité. Une superbe découverte que je recommande sans hésiter !",
+        "langue": "fr",
+        "date": "2025-09-06",
+        "auteur": "Perry",
+        "auteur_lien": "https://www.google.com/maps/contrib/100806316773336336472/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25OV1RIY3RPVFV3VW5oeFYwMXFUSGw2T1RabFEwRRAB!2m1!1s0xd5527b8444aed9d:0xde882357c86dd54"
+      },
+      {
+        "note": 5,
+        "texte": "Les 2 dames de la boutique ont tout à fait compris mon besoin ! Le bouquet est magnifique et original ! Des fleurs fraîches, qu’on voit peu, un vrai parti pris pour une surprise réussie !\nEn plus, la boutique propose des décorations tout aussi charmantes que toute la boutique !\nMerci mille fois, vous avez été géniales !",
+        "langue": "fr",
+        "date": "2024-04-30",
+        "auteur": "Hanaë Kreder",
+        "auteur_lien": "https://www.google.com/maps/contrib/101126158315736084299/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSURqdktHeWpRRRAB!2m1!1s0xd5527b8444aed9d:0xde882357c86dd54"
+      }
+    ]
+  },
+  "services": {
+    "releve": "2026-11-14",
+    "options": {
+      "curbsidePickup": false
+    },
+    "paiement": [],
+    "parking": []
+  },
+  "redaction": {
+    "version": 2,
+    "titre": "Babylone — Mode et équipement de la maison à Bordeaux",
+    "meta_titre": "Babylone à Bordeaux : horaires, avis, téléphone",
+    "meta_description": "Babylone, mode et équipement de la maison à Bordeaux : horaires d'ouverture, note Google 4,8/5 (121 avis), téléphone, adresse et itinéraire.",
+    "chapo": "Cette fiche présente Babylone, une mode et équipement de la maison au 45 bis Rue Furtado, à Bordeaux. Ouvert tous les jours sauf le lundi au relevé du 14 novembre 2026. Téléphone : 05 56 75 96 83. Note Google : 4,8 sur 5 pour 121 avis.",
+    "sections": [
+      {
+        "id": "presentation",
+        "titre": "Babylone en quelques mots",
+        "paragraphes": [
+          "Sur Google, l'établissement est classé « Fleuriste », dans notre rubrique Mode et équipement de la maison.",
+          "D'après le relevé du 14 novembre 2026, l'établissement est ouvert tous les jours sauf le lundi. Le détail jour par jour figure plus bas."
+        ]
+      },
+      {
+        "id": "prestations",
+        "titre": "Services et équipements de Babylone",
+        "paragraphes": [
+          "Non proposé selon la fiche Google : retrait en voiture.",
+          "Ces indications sont déclarées par l'établissement sur sa fiche Google (relevé du 14 novembre 2026)."
+        ]
+      },
+      {
+        "id": "acces",
+        "titre": "Adresse et accès",
+        "paragraphes": [
+          "L'établissement est situé au 45 bis Rue Furtado, 33800 Bordeaux.",
+          "Coordonnées GPS : 44.82446, -0.56019. Le bouton Itinéraire de cette page ouvre la navigation."
+        ]
+      },
+      {
+        "id": "contact",
+        "titre": "Contacter Babylone",
+        "paragraphes": [
+          "Le contact se fait par téléphone au 05 56 75 96 83, ou directement sur place aux horaires d'ouverture."
+        ]
+      },
+      {
+        "id": "avis",
+        "titre": "La réputation de Babylone",
+        "paragraphes": [
+          "Note de 4,8 sur 5 pour 121 avis Google au relevé du 14 novembre 2026. Les avis les plus parlants sont compilés ci-dessous, avec un lien vers la fiche d'origine."
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "q": "Quels sont les horaires de Babylone ?",
+        "r": "Au relevé du 14 novembre 2026, Babylone était ouvert tous les jours sauf le lundi. Dans le détail — lundi : fermé ; mardi : de 14 h 30 à 19 h 30 ; mercredi : de 10 h à 19 h 30 ; jeudi : de 10 h à 19 h 30 ; vendredi : de 10 h à 19 h 30 ; samedi : de 10 h à 19 h 30 ; dimanche : de 10 h à 12 h 30. Ces horaires peuvent changer : un appel préalable reste conseillé."
+      },
+      {
+        "q": "Babylone est-il ouvert le dimanche ?",
+        "r": "Oui : le dimanche, Babylone est ouvert de 10 h à 12 h 30 (horaires relevés le 14 novembre 2026)."
+      },
+      {
+        "q": "Où se trouve Babylone ?",
+        "r": "Babylone se trouve 45 bis Rue Furtado, 33800 Bordeaux. Un lien d'itinéraire est disponible sur cette page."
+      },
+      {
+        "q": "Comment contacter Babylone ?",
+        "r": "Par téléphone au 05 56 75 96 83, ou directement sur place aux heures d'ouverture."
+      }
+    ],
+    "genere_le": "2026-11-14"
+  },
+  "statut_google": "OPERATIONAL",
+  "audience": {
+    "clics": 0,
+    "impressions": 0,
+    "position": null,
+    "fenetreJours": 90,
+    "clicsRecents": 0,
+    "fenetreRecenteJours": 28,
+    "source": "search-console",
+    "date": "2026-11-14"
+  }
+}

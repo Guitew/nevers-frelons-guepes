@@ -1,0 +1,256 @@
+{
+  "id": "ChIJO10K5N8T5kcRIMltiIvr3EM",
+  "slug": "marche-suzanne-buisson-bondy-nord",
+  "nom": "Marché Suzanne Buisson - Bondy Nord",
+  "categorie": "commerces-alimentation",
+  "categorie_gmb": "Épicerie",
+  "type_principal": "grocery_store",
+  "types": [
+    "market",
+    "grocery_store",
+    "food_store",
+    "food",
+    "point_of_interest",
+    "store",
+    "establishment"
+  ],
+  "ville": "Bondy",
+  "ville_slug": "bondy",
+  "adresse": {
+    "rue": "",
+    "code_postal": "93140",
+    "departement": "93",
+    "region": "Île-de-France",
+    "pays": "France",
+    "complete": "93140 Bondy"
+  },
+  "telephone": "",
+  "geo": {
+    "latitude": 48.9141713,
+    "longitude": 2.4822864
+  },
+  "note": 4,
+  "avis": 276,
+  "horaires": [
+    {
+      "jour": 0,
+      "ferme": true,
+      "creneaux": []
+    },
+    {
+      "jour": 1,
+      "ferme": false,
+      "creneaux": [
+        [
+          "08:00",
+          "13:00"
+        ]
+      ]
+    },
+    {
+      "jour": 2,
+      "ferme": true,
+      "creneaux": []
+    },
+    {
+      "jour": 3,
+      "ferme": false,
+      "creneaux": [
+        [
+          "08:00",
+          "13:00"
+        ]
+      ]
+    },
+    {
+      "jour": 4,
+      "ferme": true,
+      "creneaux": []
+    },
+    {
+      "jour": 5,
+      "ferme": false,
+      "creneaux": [
+        [
+          "08:00",
+          "14:00"
+        ]
+      ]
+    },
+    {
+      "jour": 6,
+      "ferme": true,
+      "creneaux": []
+    }
+  ],
+  "attributs": [
+    "Entrée accessible en fauteuil roulant",
+    "Parking accessible en fauteuil roulant"
+  ],
+  "lien_google": "https://maps.google.com/?cid=4890042279939393824&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
+  "site_web_gmb": null,
+  "statut": "publiee",
+  "backlink": {
+    "etat": "absent",
+    "premiere_detection": null,
+    "derniere_detection": null,
+    "derniere_verification": "2026-11-14T12:07:15.447Z",
+    "echecs": 1,
+    "url_detectee": null
+  },
+  "suggestion": {
+    "etat": "en-attente",
+    "date_soumission": null,
+    "tentatives": 0,
+    "date_email": "2026-11-14"
+  },
+  "retrait": null,
+  "dates": {
+    "collecte": "2026-11-14",
+    "publication": "2026-11-14",
+    "maj": "2026-11-14"
+  },
+  "source": "google-places",
+  "avis_detail": {
+    "releve": "2026-11-14",
+    "liste": [
+      {
+        "note": 5,
+        "texte": "J’aime beaucoup le marché de Suzanne Buisson pour son ambiance animée et authentique. C’est un véritable marché de quartier où l’on trouve une grande variété de produits à des prix souvent intéressants. Les étals sont nombreux et diversifiés : fruits, légumes, viandes, poissons, produits alimentaires, vêtements pour toute la famille, chaussures, bijoux fantaisie, jouets, produits ménagers, parfums, shampooings et articles pour la maison.\nC’est aussi un endroit agréable pour flâner, comparer les prix, dénicher de bonnes affaires et parfois négocier avec les commerçants. L’accueil varie selon les stands, mais on trouve de bons commerçants et quelques belles découvertes. Petit coup de cœur pour les barbecues et le maïs grillé, qui ajoutent une touche particulièrement conviviale et pittoresque à l'ambiance du marché !\nOn pourrait toutefois regretter le manque de fruits et légumes locaux chez certains vendeurs, même si quelques étals proposent de bons produits, notamment des figues.\nC'est un marché populaire, vivant et pratique, où l'on peut faire beaucoup de courses au même endroit. J'apprécie particulièrement cette diversité et cette atmosphère qui donnent envie de revenir régulièrement.\nJ'ai hâte de voir la halle couverte rénovée pour profiter encore davantage de ce marché que j'apprécie énormément",
+        "langue": "fr",
+        "date": "2026-11-05",
+        "auteur": "Rome Dargent",
+        "auteur_lien": "https://www.google.com/maps/contrib/111811679749287886686/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2pjemNVTlNWRlppWlZwaFpYRTNOakJtVlVWVFFVRRAB!2m1!1s0x47e613dfe40a5d3b:0x43dceb8b886dc920"
+      },
+      {
+        "note": 5,
+        "texte": "Le vendeur c’est le grossiste de cigarette juste en face de 'l’église",
+        "langue": "fr",
+        "date": "2026-09-27",
+        "auteur": "Pierette Bouchenafa-Tertre d'Escoeuffant",
+        "auteur_lien": "https://www.google.com/maps/contrib/115531425828502164426/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2tObmMycG1hR3c0UzJsNk5GQXllSEJQYW5OeUxXYxAB!2m1!1s0x47e613dfe40a5d3b:0x43dceb8b886dc920"
+      },
+      {
+        "note": 3,
+        "texte": "Un marché comme beaucoup d'autres si ce n'est que bizarrement je n'accroche pas du tout. Les commerçants n'y sont pour rien mais je ne m'y sens pas à l'aise du tout. Je préfère de loin le marché de Saint-Denis et celui d'Aubervilliers.",
+        "langue": "fr",
+        "date": "2025-12-25",
+        "auteur": "S",
+        "auteur_lien": "https://www.google.com/maps/contrib/103968106472442873007/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT21sT00xa3plRzlsVW5VNWVFWlFSVXRhZEVVMFdWRRAB!2m1!1s0x47e613dfe40a5d3b:0x43dceb8b886dc920"
+      },
+      {
+        "note": 4,
+        "texte": "On yrouve de bons deals, accueil inégal selon les marchands il faut cibler. Il manque les fruits légumes locaux gros manques quelques exceptions chez un vendeur local et figues. Pittoresques les barbecues avec maïs grillé.",
+        "langue": "fr",
+        "date": "2024-10-05",
+        "auteur": "Laurent Baldovino (Paris-Zagreb)",
+        "auteur_lien": "https://www.google.com/maps/contrib/113625727442993025103/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSURucHJ5NkhnEAE!2m1!1s0x47e613dfe40a5d3b:0x43dceb8b886dc920"
+      },
+      {
+        "note": 5,
+        "texte": "J'adore l'ambiance 🤗 plein de petits étals, on chine, on négocie, on va voir plus loin et surtout on trouve ce que l'on cherche, alimentation, jouets, habillements, produits ménager, shampooings, parfums, arts de la table... Je dois en oublier mais je dois dire que je suis fan de mon marché, j'ai hâte qu'ils refassent la halle couverte 😁",
+        "langue": "fr",
+        "date": "2024-06-18",
+        "auteur": "Sony All",
+        "auteur_lien": "https://www.google.com/maps/contrib/104803881365358537055/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUNMLXBLdERREAE!2m1!1s0x47e613dfe40a5d3b:0x43dceb8b886dc920"
+      }
+    ]
+  },
+  "services": {
+    "releve": "2026-11-14",
+    "options": {
+      "delivery": false
+    },
+    "paiement": [
+      "carte de débit"
+    ],
+    "parking": []
+  },
+  "redaction": {
+    "version": 2,
+    "titre": "Marché Suzanne Buisson - Bondy Nord — Commerce d'alimentation à Bondy",
+    "meta_titre": "Marché Suzanne Buisson - Bondy Nord à Bondy : horaires, avis",
+    "meta_description": "Marché Suzanne Buisson - Bondy Nord, commerce d'alimentation à Bondy : horaires d'ouverture, note Google 4/5 (276 avis), adresse et itinéraire.",
+    "chapo": "Marché Suzanne Buisson - Bondy Nord, commerce d'alimentation à Bondy. Ouvert le mardi, jeudi, samedi au relevé du 14 novembre 2026. Note Google : 4 sur 5 pour 276 avis.",
+    "sections": [
+      {
+        "id": "presentation",
+        "titre": "Marché Suzanne Buisson - Bondy Nord en quelques mots",
+        "paragraphes": [
+          "Sur Google, l'établissement est classé « Épicerie », dans notre rubrique Commerce d'alimentation.",
+          "D'après le relevé du 14 novembre 2026, l'établissement est ouvert le mardi, jeudi, samedi. Le détail jour par jour figure plus bas."
+        ]
+      },
+      {
+        "id": "prestations",
+        "titre": "Services et équipements de Marché Suzanne Buisson - Bondy Nord",
+        "paragraphes": [
+          "Non proposé selon la fiche Google : livraison.",
+          "Moyens de paiement déclarés : carte de débit.",
+          "Ces indications sont déclarées par l'établissement sur sa fiche Google (relevé du 14 novembre 2026)."
+        ]
+      },
+      {
+        "id": "acces",
+        "titre": "Adresse et accès",
+        "paragraphes": [
+          "L'établissement est situé, 93140 Bondy.",
+          "Coordonnées GPS : 48.91417, 2.48229. Le bouton Itinéraire de cette page ouvre la navigation."
+        ]
+      },
+      {
+        "id": "contact",
+        "titre": "Contacter Marché Suzanne Buisson - Bondy Nord",
+        "paragraphes": [
+          "Aucun numéro de téléphone n'est déclaré sur la fiche Google de l'établissement : le contact se fait sur place, aux horaires indiqués."
+        ]
+      },
+      {
+        "id": "avis",
+        "titre": "La réputation de Marché Suzanne Buisson - Bondy Nord",
+        "paragraphes": [
+          "Note de 4 sur 5 pour 276 avis Google au relevé du 14 novembre 2026. Les avis les plus parlants sont compilés ci-dessous, avec un lien vers la fiche d'origine."
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "q": "Quels sont les horaires de Marché Suzanne Buisson - Bondy Nord ?",
+        "r": "Au relevé du 14 novembre 2026, Marché Suzanne Buisson - Bondy Nord était ouvert le mardi, jeudi, samedi. Dans le détail — lundi : fermé ; mardi : de 8 h à 13 h ; mercredi : fermé ; jeudi : de 8 h à 13 h ; vendredi : fermé ; samedi : de 8 h à 14 h ; dimanche : fermé. Ces horaires peuvent changer : un appel préalable reste conseillé."
+      },
+      {
+        "q": "Marché Suzanne Buisson - Bondy Nord est-il ouvert le dimanche ?",
+        "r": "Non : d'après les horaires relevés le 14 novembre 2026, Marché Suzanne Buisson - Bondy Nord est fermé le dimanche."
+      },
+      {
+        "q": "Où se trouve Marché Suzanne Buisson - Bondy Nord ?",
+        "r": "Marché Suzanne Buisson - Bondy Nord se trouve 93140 Bondy. Un lien d'itinéraire est disponible sur cette page."
+      },
+      {
+        "q": "Marché Suzanne Buisson - Bondy Nord propose-t-il la vente à emporter ou la livraison ?",
+        "r": "D'après sa fiche Google (relevé du 14 novembre 2026) — livraison : non."
+      },
+      {
+        "q": "Marché Suzanne Buisson - Bondy Nord est-il accessible aux personnes à mobilité réduite ?",
+        "r": "La fiche Google de l'établissement mentionne : « Entrée accessible en fauteuil roulant ». Cette information est déclarative ; en cas de doute, vérifiez par téléphone."
+      }
+    ],
+    "genere_le": "2026-11-14"
+  },
+  "statut_google": "OPERATIONAL",
+  "audience": {
+    "clics": 0,
+    "impressions": 0,
+    "position": null,
+    "fenetreJours": 90,
+    "clicsRecents": 0,
+    "fenetreRecenteJours": 28,
+    "source": "search-console",
+    "date": "2026-11-14"
+  }
+}

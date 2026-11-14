@@ -123,7 +123,7 @@
     "clicsRecents": 0,
     "fenetreRecenteJours": 28,
     "source": "search-console",
-    "date": "2026-11-13"
+    "date": "2026-11-14"
   },
   "avis_detail": {
     "releve": "2026-10-19",
@@ -185,12 +185,12 @@
     "parking": []
   },
   "indexation": {
-    "etat": "non-indexee",
-    "verdict": "NEUTRAL",
-    "couverture": "Détectée, actuellement non indexée",
-    "derniere_exploration": null,
-    "canonique_google": null,
+    "etat": "indexee",
+    "verdict": "PASS",
+    "couverture": "Envoyée et indexée",
+    "derniere_exploration": "2026-11-13T15:30:47Z",
+    "canonique_google": "https://andpro.fr/vitrine-locale/services-aux-particuliers/vannes/embarcadere-ile-d-arz/",
     "source": "inspection",
-    "date": "2026-11-13"
+    "date": "2026-11-14"
   }
 }

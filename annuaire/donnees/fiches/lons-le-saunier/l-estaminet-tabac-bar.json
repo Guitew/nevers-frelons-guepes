@@ -111,8 +111,8 @@
     "etat": "absent",
     "premiere_detection": null,
     "derniere_detection": null,
-    "derniere_verification": "2026-10-28T11:17:15.165Z",
-    "echecs": 8,
+    "derniere_verification": "2026-11-14T12:07:15.447Z",
+    "echecs": 9,
     "url_detectee": null
   },
   "suggestion": {
@@ -125,7 +125,7 @@
   "dates": {
     "collecte": "2026-10-04",
     "publication": "2026-10-04",
-    "maj": "2026-10-28"
+    "maj": "2026-11-14"
   },
   "source": "google-places",
   "redaction": {
@@ -213,7 +213,7 @@
     "clicsRecents": 0,
     "fenetreRecenteJours": 28,
     "source": "search-console",
-    "date": "2026-11-13"
+    "date": "2026-11-14"
   },
   "avis_detail": {
     "releve": "2026-10-28",
@@ -280,12 +280,12 @@
     ]
   },
   "indexation": {
-    "etat": "non-indexee",
-    "verdict": "NEUTRAL",
-    "couverture": "Détectée, actuellement non indexée",
-    "derniere_exploration": null,
-    "canonique_google": null,
+    "etat": "indexee",
+    "verdict": "PASS",
+    "couverture": "Envoyée et indexée",
+    "derniere_exploration": "2026-11-13T20:06:44Z",
+    "canonique_google": "https://andpro.fr/vitrine-locale/cafes-bars/lons-le-saunier/l-estaminet-tabac-bar/",
     "source": "inspection",
-    "date": "2026-11-13"
+    "date": "2026-11-14"
   }
 }

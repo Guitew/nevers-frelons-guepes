@@ -1,0 +1,248 @@
+{
+  "id": "ChIJEfhGx8tP7kcRnObPRv9NCZY",
+  "slug": "auto-occasion-auxerroise",
+  "nom": "Auto Occasion Auxerroise",
+  "categorie": "garages-automobile",
+  "categorie_gmb": "Concessionnaire automobile",
+  "type_principal": "car_dealer",
+  "types": [
+    "car_dealer",
+    "store",
+    "point_of_interest",
+    "establishment"
+  ],
+  "ville": "Auxerre",
+  "ville_slug": "auxerre",
+  "adresse": {
+    "rue": "8 Rue des Vignes",
+    "code_postal": "89000",
+    "departement": "89",
+    "region": "Bourgogne-Franche-Comté",
+    "pays": "France",
+    "complete": "8 Rue des Vignes, 89000 Auxerre"
+  },
+  "telephone": "06 51 43 11 56",
+  "geo": {
+    "latitude": 47.7925056,
+    "longitude": 3.5931271999999996
+  },
+  "note": 4.9,
+  "avis": 58,
+  "horaires": [
+    {
+      "jour": 0,
+      "ferme": false,
+      "creneaux": [
+        [
+          "09:00",
+          "19:30"
+        ]
+      ]
+    },
+    {
+      "jour": 1,
+      "ferme": false,
+      "creneaux": [
+        [
+          "09:00",
+          "19:30"
+        ]
+      ]
+    },
+    {
+      "jour": 2,
+      "ferme": false,
+      "creneaux": [
+        [
+          "09:00",
+          "19:30"
+        ]
+      ]
+    },
+    {
+      "jour": 3,
+      "ferme": false,
+      "creneaux": [
+        [
+          "09:00",
+          "19:30"
+        ]
+      ]
+    },
+    {
+      "jour": 4,
+      "ferme": false,
+      "creneaux": [
+        [
+          "09:00",
+          "19:30"
+        ]
+      ]
+    },
+    {
+      "jour": 5,
+      "ferme": false,
+      "creneaux": [
+        [
+          "09:00",
+          "19:30"
+        ]
+      ]
+    },
+    {
+      "jour": 6,
+      "ferme": true,
+      "creneaux": []
+    }
+  ],
+  "attributs": [
+    "Parking accessible en fauteuil roulant"
+  ],
+  "lien_google": "https://maps.google.com/?cid=10811258139279615644&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
+  "site_web_gmb": null,
+  "statut": "publiee",
+  "backlink": {
+    "etat": "absent",
+    "premiere_detection": null,
+    "derniere_detection": null,
+    "derniere_verification": "2026-11-14T12:07:15.447Z",
+    "echecs": 1,
+    "url_detectee": null
+  },
+  "suggestion": {
+    "etat": "en-attente",
+    "date_soumission": null,
+    "tentatives": 0,
+    "date_email": "2026-11-14"
+  },
+  "retrait": null,
+  "dates": {
+    "collecte": "2026-11-14",
+    "publication": "2026-11-14",
+    "maj": "2026-11-14"
+  },
+  "source": "google-places",
+  "avis_detail": {
+    "releve": "2026-11-14",
+    "liste": [
+      {
+        "note": 5,
+        "texte": "Superbe vente, je recommande ce garage, très arrangeant !",
+        "langue": "fr",
+        "date": "2026-10-05",
+        "auteur": "math frnnn",
+        "auteur_lien": "https://www.google.com/maps/contrib/108931853726600783404/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25obFRHbDNTbTk2VEdOaWRWbFdOVlZ4UVZGcGVuYxAB!2m1!1s0x47ee4fcbc746f811:0x96094dff46cfe69c"
+      },
+      {
+        "note": 5,
+        "texte": "Très bonne expérience ! Personne très sympathique, professionnelle et à l’écoute. Tout s’est parfaitement bien passé, de la prise de contact jusqu’à l’achat du véhicule. Je suis très satisfait de mon achat et je recommande vivement ce vendeur. Merci encore pour votre sérieux, votre accueil et… le petit café offert, ça fait toujours plaisir ! ☕😊",
+        "langue": "fr",
+        "date": "2026-09-19",
+        "auteur": "Of God Claudiane",
+        "auteur_lien": "https://www.google.com/maps/contrib/117570135876499149370/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2pZMWNuRlJZalZSWTNOdWJHaDJhWFZmVFhoelNrRRAB!2m1!1s0x47ee4fcbc746f811:0x96094dff46cfe69c"
+      },
+      {
+        "note": 5,
+        "texte": "J’ai acheté ma voiture il y a 6 mois maintenant, et je suis vraiment contente de mon achat. Depuis, zéro souci, donc rien à redire !\n\nJ’ai aussi beaucoup apprécié le contact avec le vendeur qui est quelqu’un de professionnel, bienveillant et qui prend le temps de conseiller sans chercher à forcer la vente.\n\nMerci encore pour votre sérieux et votre accompagnement. Je recommande les yeux fermés !",
+        "langue": "fr",
+        "date": "2026-09-14",
+        "auteur": "Hannah",
+        "auteur_lien": "https://www.google.com/maps/contrib/115747344333080554312/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xkc1VHdHRSMmROYVhReVptUkNSbGxzZVhkRU5XYxAB!2m1!1s0x47ee4fcbc746f811:0x96094dff46cfe69c"
+      },
+      {
+        "note": 5,
+        "texte": "Une belle expérience de vente de mon véhicule un garage très professionnel et un relationnelle au top je recommande auto occasion auxerroise. 👍",
+        "langue": "fr",
+        "date": "2026-06-26",
+        "auteur": "morgane michas",
+        "auteur_lien": "https://www.google.com/maps/contrib/109631044897798414013/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25wcE0yTkhaR3RJYVhkbVRuZE9WQzEwWjJOc1JuYxAB!2m1!1s0x47ee4fcbc746f811:0x96094dff46cfe69c"
+      },
+      {
+        "note": 5,
+        "texte": "Bonjour, vendeur très professionnel et caler dans le domaine, visite du véhicule le jeudi et samedi tout était réglé, très fluide dans les démarches, fort sympathique, le véhicule correspond à l annonce et aux photos, très bon accueil et transparent… je le recommande à 1000% vous ne serez pas déçu… quand j ai récupéré le véhicule, 🚗 ce dernier était lavé avec de l essence et près à rouler… il m a même proposé un café ☕️, des petites attentions qui font toujours plaisirs… bonne continuation et je garde votre numéro pour d autres achats éventuel. Bonne continuation, bien à vous.",
+        "langue": "fr",
+        "date": "2025-08-23",
+        "auteur": "Samy Sam",
+        "auteur_lien": "https://www.google.com/maps/contrib/107603128581069847862/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25OclRVVkNTR1Z6UjNCZk4zbDZXbUpGY2twYVEyYxAB!2m1!1s0x47ee4fcbc746f811:0x96094dff46cfe69c"
+      }
+    ]
+  },
+  "redaction": {
+    "version": 2,
+    "titre": "Auto Occasion Auxerroise — Garage et automobile à Auxerre",
+    "meta_titre": "Auto Occasion Auxerroise à Auxerre : horaires, avis",
+    "meta_description": "Auto Occasion Auxerroise, garage et automobile à Auxerre : horaires d'ouverture, note Google 4,9/5 (58 avis), téléphone, adresse et itinéraire.",
+    "chapo": "Cette fiche présente Auto Occasion Auxerroise, un garage et automobile au 8 Rue des Vignes, à Auxerre. Ouvert tous les jours sauf le dimanche au relevé du 14 novembre 2026. Téléphone : 06 51 43 11 56. Note Google : 4,9 sur 5 pour 58 avis.",
+    "sections": [
+      {
+        "id": "presentation",
+        "titre": "Auto Occasion Auxerroise en quelques mots",
+        "paragraphes": [
+          "Sur Google, l'établissement est classé « Concessionnaire automobile », dans notre rubrique Garage et automobile.",
+          "D'après le relevé du 14 novembre 2026, l'établissement est ouvert tous les jours sauf le dimanche. Le détail jour par jour figure plus bas."
+        ]
+      },
+      {
+        "id": "acces",
+        "titre": "Adresse et accès",
+        "paragraphes": [
+          "L'établissement est situé au 8 Rue des Vignes, 89000 Auxerre.",
+          "Coordonnées GPS : 47.79251, 3.59313. Le bouton Itinéraire de cette page ouvre la navigation."
+        ]
+      },
+      {
+        "id": "contact",
+        "titre": "Contacter Auto Occasion Auxerroise",
+        "paragraphes": [
+          "Le contact se fait par téléphone au 06 51 43 11 56, ou directement sur place aux horaires d'ouverture."
+        ]
+      },
+      {
+        "id": "avis",
+        "titre": "La réputation de Auto Occasion Auxerroise",
+        "paragraphes": [
+          "Note de 4,9 sur 5 pour 58 avis Google au relevé du 14 novembre 2026. Les avis les plus parlants sont compilés ci-dessous, avec un lien vers la fiche d'origine."
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "q": "Quels sont les horaires de Auto Occasion Auxerroise ?",
+        "r": "Au relevé du 14 novembre 2026, Auto Occasion Auxerroise était ouvert tous les jours sauf le dimanche. Dans le détail — lundi : de 9 h à 19 h 30 ; mardi : de 9 h à 19 h 30 ; mercredi : de 9 h à 19 h 30 ; jeudi : de 9 h à 19 h 30 ; vendredi : de 9 h à 19 h 30 ; samedi : de 9 h à 19 h 30 ; dimanche : fermé. Ces horaires peuvent changer : un appel préalable reste conseillé."
+      },
+      {
+        "q": "Auto Occasion Auxerroise est-il ouvert le dimanche ?",
+        "r": "Non : d'après les horaires relevés le 14 novembre 2026, Auto Occasion Auxerroise est fermé le dimanche."
+      },
+      {
+        "q": "Où se trouve Auto Occasion Auxerroise ?",
+        "r": "Auto Occasion Auxerroise se trouve 8 Rue des Vignes, 89000 Auxerre. Un lien d'itinéraire est disponible sur cette page."
+      },
+      {
+        "q": "Comment contacter Auto Occasion Auxerroise ?",
+        "r": "Par téléphone au 06 51 43 11 56, ou directement sur place aux heures d'ouverture."
+      },
+      {
+        "q": "Auto Occasion Auxerroise est-il accessible aux personnes à mobilité réduite ?",
+        "r": "La fiche Google de l'établissement mentionne : « Parking accessible en fauteuil roulant ». Cette information est déclarative ; en cas de doute, vérifiez par téléphone."
+      }
+    ],
+    "genere_le": "2026-11-14"
+  },
+  "statut_google": "OPERATIONAL",
+  "audience": {
+    "clics": 0,
+    "impressions": 0,
+    "position": null,
+    "fenetreJours": 90,
+    "clicsRecents": 0,
+    "fenetreRecenteJours": 28,
+    "source": "search-console",
+    "date": "2026-11-14"
+  }
+}

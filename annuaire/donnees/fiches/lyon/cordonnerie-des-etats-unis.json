@@ -1,0 +1,275 @@
+{
+  "id": "ChIJ9QDUmAfq9EcRVVsNQON36pc",
+  "slug": "cordonnerie-des-etats-unis",
+  "nom": "Cordonnerie des États-Unis",
+  "categorie": "menuiserie-serrurerie",
+  "categorie_gmb": "Services",
+  "type_principal": "service",
+  "types": [
+    "locksmith",
+    "store",
+    "point_of_interest",
+    "service",
+    "establishment"
+  ],
+  "ville": "Lyon",
+  "ville_slug": "lyon",
+  "adresse": {
+    "rue": "81 Boulevard des États-Unis",
+    "code_postal": "69008",
+    "departement": "69",
+    "region": "Auvergne-Rhône-Alpes",
+    "pays": "France",
+    "complete": "81 Bd des États-Unis, 69008 Lyon"
+  },
+  "telephone": "07 69 90 94 50",
+  "geo": {
+    "latitude": 45.732135,
+    "longitude": 4.86588
+  },
+  "note": 4.3,
+  "avis": 444,
+  "horaires": [
+    {
+      "jour": 0,
+      "ferme": false,
+      "creneaux": [
+        [
+          "14:00",
+          "19:00"
+        ]
+      ]
+    },
+    {
+      "jour": 1,
+      "ferme": false,
+      "creneaux": [
+        [
+          "08:30",
+          "12:00"
+        ],
+        [
+          "14:00",
+          "19:00"
+        ]
+      ]
+    },
+    {
+      "jour": 2,
+      "ferme": false,
+      "creneaux": [
+        [
+          "08:30",
+          "12:00"
+        ],
+        [
+          "14:00",
+          "19:00"
+        ]
+      ]
+    },
+    {
+      "jour": 3,
+      "ferme": false,
+      "creneaux": [
+        [
+          "08:30",
+          "12:00"
+        ],
+        [
+          "14:00",
+          "19:00"
+        ]
+      ]
+    },
+    {
+      "jour": 4,
+      "ferme": false,
+      "creneaux": [
+        [
+          "08:30",
+          "12:00"
+        ],
+        [
+          "14:00",
+          "19:00"
+        ]
+      ]
+    },
+    {
+      "jour": 5,
+      "ferme": false,
+      "creneaux": [
+        [
+          "08:30",
+          "12:00"
+        ]
+      ]
+    },
+    {
+      "jour": 6,
+      "ferme": true,
+      "creneaux": []
+    }
+  ],
+  "attributs": [],
+  "lien_google": "https://maps.google.com/?cid=10946693662193310549&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
+  "site_web_gmb": null,
+  "statut": "publiee",
+  "backlink": {
+    "etat": "absent",
+    "premiere_detection": null,
+    "derniere_detection": null,
+    "derniere_verification": "2026-11-14T12:07:15.447Z",
+    "echecs": 1,
+    "url_detectee": null
+  },
+  "suggestion": {
+    "etat": "en-attente",
+    "date_soumission": null,
+    "tentatives": 0,
+    "date_email": "2026-11-14"
+  },
+  "retrait": null,
+  "dates": {
+    "collecte": "2026-11-14",
+    "publication": "2026-11-14",
+    "maj": "2026-11-14"
+  },
+  "source": "google-places",
+  "avis_detail": {
+    "releve": "2026-11-14",
+    "liste": [
+      {
+        "note": 5,
+        "texte": "Récupération de mon colis aujourd'hui, Accueil très respectueux du Monsieur chaleureux très sympa, merci a vous",
+        "langue": "fr",
+        "date": "2026-10-13",
+        "auteur": "Myriam H",
+        "auteur_lien": "https://www.google.com/maps/contrib/116138059903347361833/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT21Rd1ExaFVia1p4ZUhacGRWazNiRXh3YW5oSGRWRRAB!2m1!1s0x47f4ea0798d400f5:0x97ea77e3400d5b55"
+      },
+      {
+        "note": 5,
+        "texte": "Depuis de nombreuses années que je suis cliente, dans cette boutique familiale de services en tous genres,  je n’ai JAMAIS mais JAMAIS été déçue ! bien au contraire ! C’est devenue comme une famille avec le temps …\nCe sont des personnes adorables très dévouées soucieuses de satisfaire leur clientèle au maximum et, au nombre des années je n’ai ABSOLUMENT rien à leur reprocher (vu les commentaires écœurants que j’ai pu lire !) Alors si ces gens là ne sont pas contents qu’ils aillent faire livrer leurs colis ailleurs !!!!! Cela m’a tellement mise en colère de lire ces commentaires que je n’ai pas pu m’empêcher de réagir, moi qui ne commente jamais !!! À bon entendeur salut !!!",
+        "langue": "fr",
+        "date": "2026-05-21",
+        "auteur": "Gisèle TOURDOT",
+        "auteur_lien": "https://www.google.com/maps/contrib/105638652861447539800/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT21Sck1FNTNOMGxmYzFsWVVXNWhRMU0wWkhKQlNIYxAB!2m1!1s0x47f4ea0798d400f5:0x97ea77e3400d5b55"
+      },
+      {
+        "note": 5,
+        "texte": "Je suis choquée de certains commentaires qui disent a eviter!!! Le gérant est très respectueux et une fois quil te connais ou connais la famille , pas besoin de la cni pour recup un colis ce qui arrange car quand on oublie pas besoin de retourner a la maison pour la prendre mais te donne le colis.  Cela fais des annees je me fais livrer mes colis labas et je n’ai jamais eu de probleme . Après il faut également se poser des questions si vous avez eu une mauvaise expériences ne pas toujours accuser les autres. Je dis ça je ne dis rien. En tout cas en ce qui me concerne et ma famille on continuera a nous faire livrer labas ou faire nos depos mondial relay . Merci encore du service. On est ensemble 😉😉",
+        "langue": "fr",
+        "date": "2026-05-16",
+        "auteur": "Moina wa Karossy",
+        "auteur_lien": "https://www.google.com/maps/contrib/115756757857690639319/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xWeVpHMUZURFp3WWtsMWRrUjFlV1JvWjBaSFFXYxAB!2m1!1s0x47f4ea0798d400f5:0x97ea77e3400d5b55"
+      },
+      {
+        "note": 5,
+        "texte": "Merci pour mon colis, et pour la bonne humeur.\nComme promis voici une photo de Wing Foil",
+        "langue": "fr",
+        "date": "2026-05-11",
+        "auteur": "david",
+        "auteur_lien": "https://www.google.com/maps/contrib/105967676384764468353/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2trNVJIWnVRVVIzWjNGWU9WRnVWbXBUTFY5UFRFRRAB!2m1!1s0x47f4ea0798d400f5:0x97ea77e3400d5b55"
+      },
+      {
+        "note": 5,
+        "texte": "Very friendly and helpful.\nMulti services:\nMake duplicate keys, fix clothes and leather items in addition to handling post.\n\nTrès sympathique et serviable.\nMultiservices :\nFabriquez des clés en double, réparez des vêtements et des articles en cuir en plus de gérer le courrier.",
+        "langue": "fr",
+        "date": "2022-09-08",
+        "auteur": "Pierre FRANCIS",
+        "auteur_lien": "https://www.google.com/maps/contrib/109272834121385215575/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUNlN05IMnV3RRAB!2m1!1s0x47f4ea0798d400f5:0x97ea77e3400d5b55"
+      }
+    ]
+  },
+  "services": {
+    "releve": "2026-11-14",
+    "options": {},
+    "paiement": [],
+    "parking": [
+      "stationnement gratuit dans la rue"
+    ]
+  },
+  "redaction": {
+    "version": 2,
+    "titre": "Cordonnerie des États-Unis — Menuiserie et serrurerie à Lyon",
+    "meta_titre": "Cordonnerie des États-Unis à Lyon : horaires, avis",
+    "meta_description": "Cordonnerie des États-Unis, menuiserie et serrurerie à Lyon : horaires d'ouverture, note Google 4,3/5 (444 avis), téléphone, adresse et itinéraire.",
+    "chapo": "Cordonnerie des États-Unis, menuiserie et serrurerie au 81 Boulevard des États-Unis, à Lyon. Ouvert tous les jours sauf le dimanche au relevé du 14 novembre 2026. Téléphone : 07 69 90 94 50. Note Google : 4,3 sur 5 pour 444 avis.",
+    "sections": [
+      {
+        "id": "presentation",
+        "titre": "Cordonnerie des États-Unis en quelques mots",
+        "paragraphes": [
+          "Sur Google, l'établissement est classé « Services », dans notre rubrique Menuiserie et serrurerie.",
+          "D'après le relevé du 14 novembre 2026, l'établissement est ouvert tous les jours sauf le dimanche. Le détail jour par jour figure plus bas."
+        ]
+      },
+      {
+        "id": "prestations",
+        "titre": "Services et équipements de Cordonnerie des États-Unis",
+        "paragraphes": [
+          "Stationnement : stationnement gratuit dans la rue.",
+          "Ces indications sont déclarées par l'établissement sur sa fiche Google (relevé du 14 novembre 2026)."
+        ]
+      },
+      {
+        "id": "acces",
+        "titre": "Adresse et accès",
+        "paragraphes": [
+          "L'établissement est situé au 81 Boulevard des États-Unis, 69008 Lyon.",
+          "Coordonnées GPS : 45.73213, 4.86588. Le bouton Itinéraire de cette page ouvre la navigation."
+        ]
+      },
+      {
+        "id": "contact",
+        "titre": "Contacter Cordonnerie des États-Unis",
+        "paragraphes": [
+          "Le contact se fait par téléphone au 07 69 90 94 50, ou directement sur place aux horaires d'ouverture."
+        ]
+      },
+      {
+        "id": "avis",
+        "titre": "La réputation de Cordonnerie des États-Unis",
+        "paragraphes": [
+          "Note de 4,3 sur 5 pour 444 avis Google au relevé du 14 novembre 2026. Les avis les plus parlants sont compilés ci-dessous, avec un lien vers la fiche d'origine."
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "q": "Quels sont les horaires de Cordonnerie des États-Unis ?",
+        "r": "Au relevé du 14 novembre 2026, Cordonnerie des États-Unis était ouvert tous les jours sauf le dimanche. Dans le détail — lundi : de 14 h à 19 h ; mardi : de 8 h 30 à 12 h et de 14 h à 19 h ; mercredi : de 8 h 30 à 12 h et de 14 h à 19 h ; jeudi : de 8 h 30 à 12 h et de 14 h à 19 h ; vendredi : de 8 h 30 à 12 h et de 14 h à 19 h ; samedi : de 8 h 30 à 12 h ; dimanche : fermé. Ces horaires peuvent changer : un appel préalable reste conseillé."
+      },
+      {
+        "q": "Cordonnerie des États-Unis est-il ouvert le dimanche ?",
+        "r": "Non : d'après les horaires relevés le 14 novembre 2026, Cordonnerie des États-Unis est fermé le dimanche."
+      },
+      {
+        "q": "Où se trouve Cordonnerie des États-Unis ?",
+        "r": "Cordonnerie des États-Unis se trouve 81 Bd des États-Unis, 69008 Lyon. Un lien d'itinéraire est disponible sur cette page."
+      },
+      {
+        "q": "Comment contacter Cordonnerie des États-Unis ?",
+        "r": "Par téléphone au 07 69 90 94 50, ou directement sur place aux heures d'ouverture."
+      }
+    ],
+    "genere_le": "2026-11-14"
+  },
+  "statut_google": "OPERATIONAL",
+  "audience": {
+    "clics": 0,
+    "impressions": 0,
+    "position": null,
+    "fenetreJours": 90,
+    "clicsRecents": 0,
+    "fenetreRecenteJours": 28,
+    "source": "search-console",
+    "date": "2026-11-14"
+  }
+}
