@@ -1,0 +1,292 @@
+{
+  "id": "ChIJRaajYuBA4UcRXlOsCB1QZqo",
+  "slug": "le-twister",
+  "nom": "Le Twister",
+  "categorie": "cafes-bars",
+  "categorie_gmb": "Bar",
+  "type_principal": "bar",
+  "types": [
+    "bar",
+    "point_of_interest",
+    "establishment"
+  ],
+  "ville": "Arnières-sur-Iton",
+  "ville_slug": "arnieres-sur-iton",
+  "adresse": {
+    "rue": "7 Route de Breteuil",
+    "code_postal": "27180",
+    "departement": "27",
+    "region": "Normandie",
+    "pays": "France",
+    "complete": "7 Rte de Breteuil, 27180 Arnières-sur-Iton"
+  },
+  "telephone": "06 03 24 78 78",
+  "geo": {
+    "latitude": 48.998007099999995,
+    "longitude": 1.107276
+  },
+  "note": 4.5,
+  "avis": 86,
+  "horaires": [
+    {
+      "jour": 0,
+      "ferme": false,
+      "creneaux": [
+        [
+          "07:00",
+          "19:30"
+        ]
+      ]
+    },
+    {
+      "jour": 1,
+      "ferme": false,
+      "creneaux": [
+        [
+          "07:00",
+          "19:30"
+        ]
+      ]
+    },
+    {
+      "jour": 2,
+      "ferme": false,
+      "creneaux": [
+        [
+          "07:00",
+          "12:00"
+        ]
+      ]
+    },
+    {
+      "jour": 3,
+      "ferme": false,
+      "creneaux": [
+        [
+          "07:00",
+          "19:30"
+        ]
+      ]
+    },
+    {
+      "jour": 4,
+      "ferme": false,
+      "creneaux": [
+        [
+          "07:00",
+          "19:30"
+        ]
+      ]
+    },
+    {
+      "jour": 5,
+      "ferme": false,
+      "creneaux": [
+        [
+          "07:30",
+          "12:30"
+        ]
+      ]
+    },
+    {
+      "jour": 6,
+      "ferme": true,
+      "creneaux": []
+    }
+  ],
+  "attributs": [],
+  "lien_google": "https://maps.google.com/?cid=12278589519702020958&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
+  "site_web_gmb": null,
+  "statut": "publiee",
+  "backlink": {
+    "etat": "absent",
+    "premiere_detection": null,
+    "derniere_detection": null,
+    "derniere_verification": "2026-11-15T12:41:36.283Z",
+    "echecs": 1,
+    "url_detectee": null
+  },
+  "suggestion": {
+    "etat": "en-attente",
+    "date_soumission": null,
+    "tentatives": 0,
+    "date_email": "2026-11-15"
+  },
+  "retrait": null,
+  "dates": {
+    "collecte": "2026-11-15",
+    "publication": "2026-11-15",
+    "maj": "2026-11-15"
+  },
+  "source": "google-places",
+  "avis_detail": {
+    "releve": "2026-11-15",
+    "liste": [
+      {
+        "note": 5,
+        "texte": "Super endroit et le gérant est accueillant.\nJe recommande ce tabac de campagne",
+        "langue": "fr",
+        "date": "2026-06-09",
+        "auteur": "David Legendre",
+        "auteur_lien": "https://www.google.com/maps/contrib/114474104129712990477/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25KaGNIVnBhVkUyZEhGNVdIWlBVa2gzY21ac2JWRRAB!2m1!1s0x47e140e062a3a645:0xaa66501d08ac535e"
+      },
+      {
+        "note": 5,
+        "texte": "Je n'y ai pas déjeuné. Bon accueil, le patron est aimable.",
+        "langue": "fr",
+        "date": "2026-05-25",
+        "auteur": "Hennie Claude",
+        "auteur_lien": "https://www.google.com/maps/contrib/105711914976823249351/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xRMWFGRnVNR0l4V0ZCYVVuUkVaRzVTTVVseVpVRRAB!2m1!1s0x47e140e062a3a645:0xaa66501d08ac535e"
+      },
+      {
+        "note": 5,
+        "texte": "Bar café tabac de campagne. Lieu de colis.\nGérant très gentil et avenant,  à l'écoute, rapide et efficace .\nSalon aménagé avec poêle à bois et terrasse.",
+        "langue": "fr",
+        "date": "2026-01-22",
+        "auteur": "Kedocha Rouah'",
+        "auteur_lien": "https://www.google.com/maps/contrib/111785593207596299339/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT201a1ZEWnRkVlF3UTE5eGR5MTJia2d4WXpGVWIxRRAB!2m1!1s0x47e140e062a3a645:0xaa66501d08ac535e"
+      },
+      {
+        "note": 5,
+        "texte": "Je m'y suis rendue pour retirer un colis qui été dévié (habituellement je ne me fait livrer ici). Le gérant est accueillant et le lieu est très agréable. J'y retournerai bien pour boire un café dès que l'occasion se présentera 😉",
+        "langue": "fr",
+        "date": "2021-07-16",
+        "auteur": "Imane MATHIAS",
+        "auteur_lien": "https://www.google.com/maps/contrib/108590290984371580452/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSURTM1pLTE9REAE!2m1!1s0x47e140e062a3a645:0xaa66501d08ac535e"
+      },
+      {
+        "note": 4,
+        "texte": "Bar tabac avec parking privé.\nVente bière a emporter.\n\nLieu chaleureux et propre.\nBelle déco.\n\nA voir l'été pour profiter de l'extérieur.",
+        "langue": "fr",
+        "date": "2019-12-05",
+        "auteur": "Fabien Madore",
+        "auteur_lien": "https://www.google.com/maps/contrib/106592148206177044059/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUNNaTVQeWxnRRAB!2m1!1s0x47e140e062a3a645:0xaa66501d08ac535e"
+      }
+    ]
+  },
+  "services": {
+    "releve": "2026-11-15",
+    "prix": "PRICE_LEVEL_INEXPENSIVE",
+    "options": {
+      "takeout": false,
+      "delivery": false,
+      "reservable": false,
+      "outdoorSeating": true,
+      "servesBeer": true,
+      "servesWine": true,
+      "servesCocktails": true,
+      "goodForChildren": false,
+      "goodForWatchingSports": true,
+      "liveMusic": false,
+      "allowsDogs": true,
+      "restroom": true
+    },
+    "paiement": [
+      "carte bancaire",
+      "carte de débit",
+      "paiement sans contact"
+    ],
+    "parking": [
+      "parking gratuit",
+      "stationnement gratuit dans la rue"
+    ]
+  },
+  "redaction": {
+    "version": 2,
+    "titre": "Le Twister — Café ou bar à Arnières-sur-Iton",
+    "meta_titre": "Le Twister à Arnières-sur-Iton : horaires, avis, téléphone",
+    "meta_description": "Le Twister, café ou bar à Arnières-sur-Iton : horaires d'ouverture, note Google 4,5/5 (86 avis), téléphone, adresse et itinéraire.",
+    "chapo": "Le Twister est un café ou bar au 7 Route de Breteuil, à Arnières-sur-Iton. Ouvert tous les jours sauf le dimanche au relevé du 15 novembre 2026. Téléphone : 06 03 24 78 78. Note Google : 4,5 sur 5 pour 86 avis.",
+    "sections": [
+      {
+        "id": "presentation",
+        "titre": "Le Twister en quelques mots",
+        "paragraphes": [
+          "Sur Google, l'établissement est classé « Bar », dans notre rubrique Café ou bar.",
+          "Niveau de prix indiqué sur la fiche Google : € (bon marché).",
+          "D'après le relevé du 15 novembre 2026, l'établissement est ouvert tous les jours sauf le dimanche. Le détail jour par jour figure plus bas."
+        ]
+      },
+      {
+        "id": "prestations",
+        "titre": "Services et équipements de Le Twister",
+        "paragraphes": [
+          "Proposé : terrasse, bière, vin, cocktails, retransmissions sportives, chiens acceptés et toilettes.",
+          "Non proposé selon la fiche Google : à emporter, livraison, réservation possible, adapté aux enfants et musique live.",
+          "Moyens de paiement déclarés : carte bancaire, carte de débit et paiement sans contact.",
+          "Stationnement : parking gratuit et stationnement gratuit dans la rue.",
+          "Ces indications sont déclarées par l'établissement sur sa fiche Google (relevé du 15 novembre 2026)."
+        ]
+      },
+      {
+        "id": "acces",
+        "titre": "Adresse et accès",
+        "paragraphes": [
+          "L'établissement est situé au 7 Route de Breteuil, 27180 Arnières-sur-Iton.",
+          "Coordonnées GPS : 48.99801, 1.10728. Le bouton Itinéraire de cette page ouvre la navigation."
+        ]
+      },
+      {
+        "id": "contact",
+        "titre": "Contacter Le Twister",
+        "paragraphes": [
+          "Le contact se fait par téléphone au 06 03 24 78 78, ou directement sur place aux horaires d'ouverture."
+        ]
+      },
+      {
+        "id": "avis",
+        "titre": "La réputation de Le Twister",
+        "paragraphes": [
+          "Note de 4,5 sur 5 pour 86 avis Google au relevé du 15 novembre 2026. Les avis les plus parlants sont compilés ci-dessous, avec un lien vers la fiche d'origine."
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "q": "Quels sont les horaires de Le Twister ?",
+        "r": "Au relevé du 15 novembre 2026, Le Twister était ouvert tous les jours sauf le dimanche. Dans le détail — lundi : de 7 h à 19 h 30 ; mardi : de 7 h à 19 h 30 ; mercredi : de 7 h à 12 h ; jeudi : de 7 h à 19 h 30 ; vendredi : de 7 h à 19 h 30 ; samedi : de 7 h 30 à 12 h 30 ; dimanche : fermé. Ces horaires peuvent changer : un appel préalable reste conseillé."
+      },
+      {
+        "q": "Le Twister est-il ouvert le dimanche ?",
+        "r": "Non : d'après les horaires relevés le 15 novembre 2026, Le Twister est fermé le dimanche."
+      },
+      {
+        "q": "Où se trouve Le Twister ?",
+        "r": "Le Twister se trouve 7 Rte de Breteuil, 27180 Arnières-sur-Iton. Un lien d'itinéraire est disponible sur cette page."
+      },
+      {
+        "q": "Comment contacter Le Twister ?",
+        "r": "Par téléphone au 06 03 24 78 78, ou directement sur place aux heures d'ouverture."
+      },
+      {
+        "q": "Peut-on réserver chez Le Twister ?",
+        "r": "La fiche Google de Le Twister indique que la réservation n'est pas proposée."
+      },
+      {
+        "q": "Le Twister propose-t-il la vente à emporter ou la livraison ?",
+        "r": "D'après sa fiche Google (relevé du 15 novembre 2026) — vente à emporter : non ; livraison : non."
+      },
+      {
+        "q": "Quel est le niveau de prix de Le Twister ?",
+        "r": "Google classe Le Twister au niveau de prix € (bon marché), sur une échelle de € à €€€€ établie à partir des avis clients."
+      }
+    ],
+    "genere_le": "2026-11-15"
+  },
+  "statut_google": "OPERATIONAL",
+  "audience": {
+    "clics": 0,
+    "impressions": 0,
+    "position": null,
+    "fenetreJours": 90,
+    "clicsRecents": 0,
+    "fenetreRecenteJours": 28,
+    "source": "search-console",
+    "date": "2026-11-15"
+  }
+}

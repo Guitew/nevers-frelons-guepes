@@ -1,0 +1,241 @@
+{
+  "id": "ChIJjTgBKgv9CEgRNJ8_btb0Nvw",
+  "slug": "as-bourny-laval",
+  "nom": "AS Bourny Laval",
+  "categorie": "loisirs-sport-culture",
+  "categorie_gmb": "Club de sport",
+  "type_principal": "sports_club",
+  "types": [
+    "sports_club",
+    "point_of_interest",
+    "association_or_organization",
+    "establishment"
+  ],
+  "ville": "Laval",
+  "ville_slug": "laval",
+  "adresse": {
+    "rue": "Chemin de l'Aillerie",
+    "code_postal": "53000",
+    "departement": "53",
+    "region": "Pays de la Loire",
+    "pays": "France",
+    "complete": "Chem. de l'Aillerie, 53000 Laval"
+  },
+  "telephone": "07 59 59 99 22",
+  "geo": {
+    "latitude": 48.0568715,
+    "longitude": -0.7992083
+  },
+  "note": 4.4,
+  "avis": 55,
+  "horaires": [
+    {
+      "jour": 0,
+      "ferme": true,
+      "creneaux": []
+    },
+    {
+      "jour": 1,
+      "ferme": true,
+      "creneaux": []
+    },
+    {
+      "jour": 2,
+      "ferme": false,
+      "creneaux": [
+        [
+          "13:30",
+          "19:30"
+        ]
+      ]
+    },
+    {
+      "jour": 3,
+      "ferme": true,
+      "creneaux": []
+    },
+    {
+      "jour": 4,
+      "ferme": true,
+      "creneaux": []
+    },
+    {
+      "jour": 5,
+      "ferme": true,
+      "creneaux": []
+    },
+    {
+      "jour": 6,
+      "ferme": true,
+      "creneaux": []
+    }
+  ],
+  "attributs": [
+    "Entrée accessible en fauteuil roulant",
+    "Parking accessible en fauteuil roulant",
+    "Toilettes accessibles en fauteuil roulant"
+  ],
+  "lien_google": "https://maps.google.com/?cid=18173982548110057268&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
+  "site_web_gmb": null,
+  "statut": "publiee",
+  "backlink": {
+    "etat": "absent",
+    "premiere_detection": null,
+    "derniere_detection": null,
+    "derniere_verification": "2026-11-15T12:41:36.283Z",
+    "echecs": 1,
+    "url_detectee": null
+  },
+  "suggestion": {
+    "etat": "en-attente",
+    "date_soumission": null,
+    "tentatives": 0,
+    "date_email": "2026-11-15"
+  },
+  "retrait": null,
+  "dates": {
+    "collecte": "2026-11-15",
+    "publication": "2026-11-15",
+    "maj": "2026-11-15"
+  },
+  "source": "google-places",
+  "avis_detail": {
+    "releve": "2026-11-15",
+    "liste": [
+      {
+        "note": 1,
+        "texte": "J'aimerais m'entraîner avec vous",
+        "langue": "fr",
+        "date": "2026-07-29",
+        "auteur": "Diallo Mamadou saidou",
+        "auteur_lien": "https://www.google.com/maps/contrib/115664127841367658649/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2w5c1ZGYzBXRU5vVEZSMWMwOW9UazVEUkZkVVdFRRAB!2m1!1s0x4808fd0b2a01388d:0xfc36f4d66e3f9f34"
+      },
+      {
+        "note": 5,
+        "texte": "Super club, entraîneurs et encadrants sympathiques et compétents.",
+        "langue": "fr",
+        "date": "2023-06-17",
+        "auteur": "Julien Godineau",
+        "auteur_lien": "https://www.google.com/maps/contrib/105594871679900296295/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUR4NzhuSW9BRRAB!2m1!1s0x4808fd0b2a01388d:0xfc36f4d66e3f9f34"
+      },
+      {
+        "note": 3,
+        "texte": "Accueil très agréable comme d'habitude\nVestiaire un peu bordélique\n3eme mi temps fade",
+        "langue": "fr",
+        "date": "2023-03-30",
+        "auteur": "Jérôme CHAPPUY",
+        "auteur_lien": "https://www.google.com/maps/contrib/106410912972638857470/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUNSNnR5ZEhnEAE!2m1!1s0x4808fd0b2a01388d:0xfc36f4d66e3f9f34"
+      },
+      {
+        "note": 5,
+        "texte": "Bon club les entraîneurs sont a l'écoute des enfants les entraînements sont efficaces\nÉvolution posible",
+        "langue": "fr",
+        "date": "2020-11-29",
+        "auteur": "FLY toys",
+        "auteur_lien": "https://www.google.com/maps/contrib/117871535391885968877/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSURpX0t1YXB3RRAB!2m1!1s0x4808fd0b2a01388d:0xfc36f4d66e3f9f34"
+      },
+      {
+        "note": 5,
+        "texte": "Un très bon club formateur. Félicitations pour votre académie du football !",
+        "langue": "fr",
+        "date": "2020-10-24",
+        "auteur": "Catherine Labbé",
+        "auteur_lien": "https://www.google.com/maps/contrib/101721267052275042069/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUNpbk5LNXZRRRAB!2m1!1s0x4808fd0b2a01388d:0xfc36f4d66e3f9f34"
+      }
+    ]
+  },
+  "services": {
+    "releve": "2026-11-15",
+    "options": {
+      "restroom": true
+    },
+    "paiement": [],
+    "parking": []
+  },
+  "redaction": {
+    "version": 2,
+    "titre": "AS Bourny Laval — Loisirs, sport et culture à Laval",
+    "meta_titre": "AS Bourny Laval à Laval : horaires, avis, téléphone",
+    "meta_description": "AS Bourny Laval, loisirs, sport et culture à Laval : horaires d'ouverture, note Google 4,4/5 (55 avis), téléphone, adresse et itinéraire.",
+    "chapo": "Cette fiche présente AS Bourny Laval, un loisirs, sport et culture au Chemin de l'Aillerie, à Laval. Ouvert le mercredi au relevé du 15 novembre 2026. Téléphone : 07 59 59 99 22. Note Google : 4,4 sur 5 pour 55 avis.",
+    "sections": [
+      {
+        "id": "presentation",
+        "titre": "AS Bourny Laval en quelques mots",
+        "paragraphes": [
+          "Sur Google, l'établissement est classé « Club de sport », dans notre rubrique Loisirs, sport et culture.",
+          "D'après le relevé du 15 novembre 2026, l'établissement est ouvert le mercredi. Le détail jour par jour figure plus bas."
+        ]
+      },
+      {
+        "id": "prestations",
+        "titre": "Services et équipements de AS Bourny Laval",
+        "paragraphes": [
+          "Proposé : toilettes.",
+          "Ces indications sont déclarées par l'établissement sur sa fiche Google (relevé du 15 novembre 2026)."
+        ]
+      },
+      {
+        "id": "acces",
+        "titre": "Adresse et accès",
+        "paragraphes": [
+          "L'établissement est situé au Chemin de l'Aillerie, 53000 Laval.",
+          "Coordonnées GPS : 48.05687, -0.79921. Le bouton Itinéraire de cette page ouvre la navigation."
+        ]
+      },
+      {
+        "id": "contact",
+        "titre": "Contacter AS Bourny Laval",
+        "paragraphes": [
+          "Le contact se fait par téléphone au 07 59 59 99 22, ou directement sur place aux horaires d'ouverture."
+        ]
+      },
+      {
+        "id": "avis",
+        "titre": "La réputation de AS Bourny Laval",
+        "paragraphes": [
+          "Note de 4,4 sur 5 pour 55 avis Google au relevé du 15 novembre 2026. Les avis les plus parlants sont compilés ci-dessous, avec un lien vers la fiche d'origine."
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "q": "Quels sont les horaires de AS Bourny Laval ?",
+        "r": "Au relevé du 15 novembre 2026, AS Bourny Laval était ouvert le mercredi. Dans le détail — lundi : fermé ; mardi : fermé ; mercredi : de 13 h 30 à 19 h 30 ; jeudi : fermé ; vendredi : fermé ; samedi : fermé ; dimanche : fermé. Ces horaires peuvent changer : un appel préalable reste conseillé."
+      },
+      {
+        "q": "AS Bourny Laval est-il ouvert le dimanche ?",
+        "r": "Non : d'après les horaires relevés le 15 novembre 2026, AS Bourny Laval est fermé le dimanche."
+      },
+      {
+        "q": "Où se trouve AS Bourny Laval ?",
+        "r": "AS Bourny Laval se trouve Chem. de l'Aillerie, 53000 Laval. Un lien d'itinéraire est disponible sur cette page."
+      },
+      {
+        "q": "Comment contacter AS Bourny Laval ?",
+        "r": "Par téléphone au 07 59 59 99 22, ou directement sur place aux heures d'ouverture."
+      },
+      {
+        "q": "AS Bourny Laval est-il accessible aux personnes à mobilité réduite ?",
+        "r": "La fiche Google de l'établissement mentionne : « Entrée accessible en fauteuil roulant ». Cette information est déclarative ; en cas de doute, vérifiez par téléphone."
+      }
+    ],
+    "genere_le": "2026-11-15"
+  },
+  "statut_google": "OPERATIONAL",
+  "audience": {
+    "clics": 0,
+    "impressions": 0,
+    "position": null,
+    "fenetreJours": 90,
+    "clicsRecents": 0,
+    "fenetreRecenteJours": 28,
+    "source": "search-console",
+    "date": "2026-11-15"
+  }
+}

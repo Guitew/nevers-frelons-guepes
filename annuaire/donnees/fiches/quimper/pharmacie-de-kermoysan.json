@@ -122,7 +122,7 @@
   ],
   "lien_google": "https://maps.google.com/?cid=14656330271463884140&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
   "site_web_gmb": null,
-  "statut": "publiee",
+  "statut": "retiree",
   "backlink": {
     "etat": "absent",
     "premiere_detection": null,
@@ -137,11 +137,16 @@
     "tentatives": 0,
     "date_email": "2026-10-01"
   },
-  "retrait": null,
+  "retrait": {
+    "mode": "410",
+    "cible": null,
+    "date": "2026-11-15",
+    "motif": "backlink jamais posé après 45 jours de délai de grâce"
+  },
   "dates": {
     "collecte": "2026-10-01",
     "publication": "2026-10-01",
-    "maj": "2026-11-07"
+    "maj": "2026-11-15"
   },
   "source": "google-places",
   "redaction": {
@@ -229,7 +234,7 @@
     "clicsRecents": 0,
     "fenetreRecenteJours": 28,
     "source": "search-console",
-    "date": "2026-11-14"
+    "date": "2026-11-15"
   },
   "avis_detail": {
     "releve": "2026-10-22",
@@ -295,12 +300,12 @@
     ]
   },
   "indexation": {
-    "etat": "non-indexee",
-    "verdict": "NEUTRAL",
-    "couverture": "Google ne reconnaît pas cette URL",
-    "derniere_exploration": null,
-    "canonique_google": null,
+    "etat": "indexee",
+    "verdict": "PASS",
+    "couverture": "Envoyée et indexée",
+    "derniere_exploration": "2026-11-15T08:34:01Z",
+    "canonique_google": "https://andpro.fr/vitrine-locale/pharmacies-opticiens/quimper/pharmacie-de-kermoysan/",
     "source": "inspection",
-    "date": "2026-11-14"
+    "date": "2026-11-15"
   }
 }

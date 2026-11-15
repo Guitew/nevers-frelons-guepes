@@ -110,8 +110,8 @@
     "etat": "absent",
     "premiere_detection": null,
     "derniere_detection": null,
-    "derniere_verification": "2026-10-28T11:17:15.165Z",
-    "echecs": 4,
+    "derniere_verification": "2026-11-15T12:41:36.283Z",
+    "echecs": 5,
     "url_detectee": null
   },
   "suggestion": {
@@ -124,7 +124,7 @@
   "dates": {
     "collecte": "2026-10-08",
     "publication": "2026-10-08",
-    "maj": "2026-10-28"
+    "maj": "2026-11-15"
   },
   "source": "google-places",
   "redaction": {
@@ -198,7 +198,7 @@
     "clicsRecents": 0,
     "fenetreRecenteJours": 28,
     "source": "search-console",
-    "date": "2026-11-14"
+    "date": "2026-11-15"
   },
   "avis_detail": {
     "releve": "2026-10-28",
@@ -249,5 +249,14 @@
         "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUNRdU02TWhBRRAB!2m1!1s0x4810d59ebad68407:0x6e3affbd8711df7c"
       }
     ]
+  },
+  "indexation": {
+    "etat": "non-indexee",
+    "verdict": "NEUTRAL",
+    "couverture": "Google ne reconnaît pas cette URL",
+    "derniere_exploration": null,
+    "canonique_google": null,
+    "source": "inspection",
+    "date": "2026-11-15"
   }
 }

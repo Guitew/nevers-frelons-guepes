@@ -218,7 +218,7 @@
     "clicsRecents": 0,
     "fenetreRecenteJours": 28,
     "source": "search-console",
-    "date": "2026-11-14"
+    "date": "2026-11-15"
   },
   "avis_detail": {
     "releve": "2026-10-30",
@@ -281,12 +281,12 @@
     "parking": []
   },
   "indexation": {
-    "etat": "non-indexee",
-    "verdict": "NEUTRAL",
-    "couverture": "Google ne reconnaît pas cette URL",
-    "derniere_exploration": null,
-    "canonique_google": null,
+    "etat": "indexee",
+    "verdict": "PASS",
+    "couverture": "Envoyée et indexée",
+    "derniere_exploration": "2026-11-15T10:50:15Z",
+    "canonique_google": "https://andpro.fr/vitrine-locale/deux-roues-cycles/laon/megacycles/",
     "source": "inspection",
-    "date": "2026-11-14"
+    "date": "2026-11-15"
   }
 }

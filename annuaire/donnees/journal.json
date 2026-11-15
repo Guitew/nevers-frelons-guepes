@@ -1,5 +1,197 @@
 [
   {
+    "date": "2026-11-15T12:45:23.934Z",
+    "type": "suggestion-soumise",
+    "id": "ChIJF-kcZoT79UcR2JstcOW5xB0",
+    "nom": "Aire camping-car",
+    "url": "/hebergement/le-puy-en-velay/aire-camping-car/"
+  },
+  {
+    "date": "2026-11-15T12:45:23.886Z",
+    "type": "suggestion-soumise",
+    "id": "ChIJEfhGx8tP7kcRnObPRv9NCZY",
+    "nom": "Auto Occasion Auxerroise",
+    "url": "/garages-automobile/auxerre/auto-occasion-auxerroise/"
+  },
+  {
+    "date": "2026-11-15T12:45:23.837Z",
+    "type": "suggestion-soumise",
+    "id": "ChIJne1KRLgnVQ0RVN2GfDWC6A0",
+    "nom": "Babylone",
+    "url": "/mode-equipement-maison/bordeaux/babylone/"
+  },
+  {
+    "date": "2026-11-15T12:45:23.781Z",
+    "type": "suggestion-soumise",
+    "id": "ChIJ9QDUmAfq9EcRVVsNQON36pc",
+    "nom": "Cordonnerie des États-Unis",
+    "url": "/menuiserie-serrurerie/lyon/cordonnerie-des-etats-unis/"
+  },
+  {
+    "date": "2026-11-15T12:45:23.723Z",
+    "type": "suggestion-soumise",
+    "id": "ChIJO10K5N8T5kcRIMltiIvr3EM",
+    "nom": "Marché Suzanne Buisson - Bondy Nord",
+    "url": "/commerces-alimentation/bondy/marche-suzanne-buisson-bondy-nord/"
+  },
+  {
+    "date": "2026-11-15T12:45:22.681Z",
+    "type": "retrait-410",
+    "id": "ChIJtbbSKM9_-UcRUT-y5Jdd3_g",
+    "nom": "Bio Creuse",
+    "url": "/commerces-alimentation/gueret/bio-creuse/",
+    "motif": "backlink jamais posé après 45 jours de délai de grâce",
+    "cible": null
+  },
+  {
+    "date": "2026-11-15T12:45:22.685Z",
+    "type": "retrait-410",
+    "id": "ChIJdWf-OACF50cRUpRztt01qI0",
+    "nom": "Dona Boulangerie",
+    "url": "/boulangeries-patisseries/amiens/dona-boulangerie/",
+    "motif": "backlink jamais posé après 45 jours de délai de grâce",
+    "cible": null
+  },
+  {
+    "date": "2026-11-15T12:45:22.687Z",
+    "type": "retrait-410",
+    "id": "ChIJKUvCOJlCCkgRnGZmX1PgOo0",
+    "nom": "Keys & Co.",
+    "url": "/cafes-bars/caen/keys-co/",
+    "motif": "backlink jamais posé après 45 jours de délai de grâce",
+    "cible": null
+  },
+  {
+    "date": "2026-11-15T12:45:22.688Z",
+    "type": "retrait-410",
+    "id": "ChIJvy6JdjdUrRIR8dDbokB0ATA",
+    "nom": "Le Belbexois",
+    "url": "/restaurants/aurillac/le-belbexois/",
+    "motif": "backlink jamais posé après 45 jours de délai de grâce",
+    "cible": null
+  },
+  {
+    "date": "2026-11-15T12:45:22.689Z",
+    "type": "retrait-410",
+    "id": "ChIJ890pEI_orRIRchlFYqQFjJ4",
+    "nom": "Ô Balsero",
+    "url": "/cafes-bars/albi/o-balsero/",
+    "motif": "backlink jamais posé après 45 jours de délai de grâce",
+    "cible": null
+  },
+  {
+    "date": "2026-11-15T12:45:22.689Z",
+    "type": "retrait-410",
+    "id": "ChIJj72fL3PVEEgRbMVotbq-Zcs",
+    "nom": "Pharmacie de Kermoysan",
+    "url": "/pharmacies-opticiens/quimper/pharmacie-de-kermoysan/",
+    "motif": "backlink jamais posé après 45 jours de délai de grâce",
+    "cible": null
+  },
+  {
+    "date": "2026-11-15T12:45:22.690Z",
+    "type": "retrait-410",
+    "id": "ChIJLT5LDJa6rhIRDVK7OrvCg_0",
+    "nom": "Pharmacie Lafayette Pradel Toulouse",
+    "url": "/pharmacies-opticiens/toulouse/pharmacie-lafayette-pradel-toulouse/",
+    "motif": "backlink jamais posé après 45 jours de délai de grâce",
+    "cible": null
+  },
+  {
+    "date": "2026-11-15T12:45:22.691Z",
+    "type": "retrait-410",
+    "id": "ChIJK-zmplxv80cRXPRhYLsxMD0",
+    "nom": "Sema Market Macon",
+    "url": "/commerces-alimentation/macon/sema-market-macon/",
+    "motif": "backlink jamais posé après 45 jours de délai de grâce",
+    "cible": null
+  },
+  {
+    "date": "2026-11-15T12:41:36.587Z",
+    "type": "backlink-absent",
+    "id": "ChIJjTgBKgv9CEgRNJ8_btb0Nvw",
+    "nom": "AS Bourny Laval",
+    "url": null,
+    "precedent": "en-attente"
+  },
+  {
+    "date": "2026-11-15T12:41:36.660Z",
+    "type": "backlink-absent",
+    "id": "ChIJe1avo-uV_UcRHIWf7bcKHhg",
+    "nom": "Gymnase de Biard",
+    "url": null,
+    "precedent": "en-attente"
+  },
+  {
+    "date": "2026-11-15T12:41:36.804Z",
+    "type": "backlink-absent",
+    "id": "ChIJXY7xq7P1ikcRp5CB3qM5F88",
+    "nom": "La Noisette",
+    "url": null,
+    "precedent": "en-attente"
+  },
+  {
+    "date": "2026-11-15T12:41:36.886Z",
+    "type": "backlink-absent",
+    "id": "ChIJRaajYuBA4UcRXlOsCB1QZqo",
+    "nom": "Le Twister",
+    "url": null,
+    "precedent": "en-attente"
+  },
+  {
+    "date": "2026-11-15T12:41:37.030Z",
+    "type": "backlink-absent",
+    "id": "ChIJs7rkRX3L_kcRXcvg1HsRlb0",
+    "nom": "Vg Auto Performance",
+    "url": null,
+    "precedent": "en-attente"
+  },
+  {
+    "date": "2026-11-15T12:41:35.749Z",
+    "type": "publication",
+    "id": "ChIJs7rkRX3L_kcRXcvg1HsRlb0",
+    "nom": "Vg Auto Performance",
+    "url": "/garages-automobile/limoges/vg-auto-performance/",
+    "categorie": "garages-automobile",
+    "source": "google-places"
+  },
+  {
+    "date": "2026-11-15T12:41:35.851Z",
+    "type": "publication",
+    "id": "ChIJe1avo-uV_UcRHIWf7bcKHhg",
+    "nom": "Gymnase de Biard",
+    "url": "/loisirs-sport-culture/biard/gymnase-de-biard/",
+    "categorie": "loisirs-sport-culture",
+    "source": "google-places"
+  },
+  {
+    "date": "2026-11-15T12:41:35.952Z",
+    "type": "publication",
+    "id": "ChIJXY7xq7P1ikcRp5CB3qM5F88",
+    "nom": "La Noisette",
+    "url": "/boulangeries-patisseries/meylan/la-noisette/",
+    "categorie": "boulangeries-patisseries",
+    "source": "google-places"
+  },
+  {
+    "date": "2026-11-15T12:41:36.046Z",
+    "type": "publication",
+    "id": "ChIJRaajYuBA4UcRXlOsCB1QZqo",
+    "nom": "Le Twister",
+    "url": "/cafes-bars/arnieres-sur-iton/le-twister/",
+    "categorie": "cafes-bars",
+    "source": "google-places"
+  },
+  {
+    "date": "2026-11-15T12:41:36.136Z",
+    "type": "publication",
+    "id": "ChIJjTgBKgv9CEgRNJ8_btb0Nvw",
+    "nom": "AS Bourny Laval",
+    "url": "/loisirs-sport-culture/laval/as-bourny-laval/",
+    "categorie": "loisirs-sport-culture",
+    "source": "google-places"
+  },
+  {
     "date": "2026-11-14T12:11:09.685Z",
     "type": "suggestion-soumise",
     "id": "ChIJ_e1moUocEEgR_mawiirrIGM",

@@ -1,0 +1,309 @@
+{
+  "id": "ChIJXY7xq7P1ikcRp5CB3qM5F88",
+  "slug": "la-noisette",
+  "nom": "La Noisette",
+  "categorie": "boulangeries-patisseries",
+  "categorie_gmb": "Boulangerie",
+  "type_principal": "bakery",
+  "types": [
+    "bakery",
+    "catering_service",
+    "ice_cream_shop",
+    "tea_house",
+    "pastry_shop",
+    "chocolate_shop",
+    "candy_store",
+    "food_delivery",
+    "dessert_shop",
+    "confectionery",
+    "food_store",
+    "service",
+    "food",
+    "point_of_interest",
+    "store",
+    "establishment"
+  ],
+  "ville": "Meylan",
+  "ville_slug": "meylan",
+  "adresse": {
+    "rue": "42 Avenue de la Plaine Fleurie",
+    "code_postal": "38240",
+    "departement": "38",
+    "region": "Auvergne-Rhône-Alpes",
+    "pays": "France",
+    "complete": "42 Av. de la Plaine Fleurie, 38240 Meylan"
+  },
+  "telephone": "04 76 90 57 69",
+  "geo": {
+    "latitude": 45.2032003,
+    "longitude": 5.760692499999999
+  },
+  "note": 4.1,
+  "avis": 847,
+  "horaires": [
+    {
+      "jour": 0,
+      "ferme": false,
+      "creneaux": [
+        [
+          "06:15",
+          "19:45"
+        ]
+      ]
+    },
+    {
+      "jour": 1,
+      "ferme": false,
+      "creneaux": [
+        [
+          "06:15",
+          "19:45"
+        ]
+      ]
+    },
+    {
+      "jour": 2,
+      "ferme": false,
+      "creneaux": [
+        [
+          "06:15",
+          "19:45"
+        ]
+      ]
+    },
+    {
+      "jour": 3,
+      "ferme": false,
+      "creneaux": [
+        [
+          "06:15",
+          "19:45"
+        ]
+      ]
+    },
+    {
+      "jour": 4,
+      "ferme": false,
+      "creneaux": [
+        [
+          "06:15",
+          "19:45"
+        ]
+      ]
+    },
+    {
+      "jour": 5,
+      "ferme": false,
+      "creneaux": [
+        [
+          "06:15",
+          "19:45"
+        ]
+      ]
+    },
+    {
+      "jour": 6,
+      "ferme": false,
+      "creneaux": [
+        [
+          "06:15",
+          "19:45"
+        ]
+      ]
+    }
+  ],
+  "attributs": [
+    "Entrée accessible en fauteuil roulant",
+    "Parking accessible en fauteuil roulant",
+    "Places assises accessibles en fauteuil roulant"
+  ],
+  "lien_google": "https://maps.google.com/?cid=14922459266290913447&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
+  "site_web_gmb": null,
+  "statut": "publiee",
+  "backlink": {
+    "etat": "absent",
+    "premiere_detection": null,
+    "derniere_detection": null,
+    "derniere_verification": "2026-11-15T12:41:36.283Z",
+    "echecs": 1,
+    "url_detectee": null
+  },
+  "suggestion": {
+    "etat": "en-attente",
+    "date_soumission": null,
+    "tentatives": 0,
+    "date_email": "2026-11-15"
+  },
+  "retrait": null,
+  "dates": {
+    "collecte": "2026-11-15",
+    "publication": "2026-11-15",
+    "maj": "2026-11-15"
+  },
+  "source": "google-places",
+  "avis_detail": {
+    "releve": "2026-11-15",
+    "liste": [
+      {
+        "note": 5,
+        "texte": "Je viens très régulièrement à la boulangerie pâtisserie la noisette a Meylan y compris y manger à midi.\nLes sandwichs et les gâteaux dont il y a de très nombreux choix sont excellents et vraiment très frais. Des professionnels qui maîtrisent parfaitement leur savoir faire dans l'art culinaire et offre de bons produits.\nLe personnel de la boulangerie est dune très grande gentillesse et toujours à l'écoute de leurs clients et il est même très agréable de discuter avec  eux quand leur temps le leur permet.\nEn résumé de très bons produits à déguster dans une très bonne ambiance.\nJe recommande et je continuerai à venir les voir avec grand plaisir.",
+        "langue": "fr",
+        "date": "2026-09-24",
+        "auteur": "Patrick Perennou",
+        "auteur_lien": "https://www.google.com/maps/contrib/103624917998147645240/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2tsdE9XVTVWSEZhUms0MlRHeDFVRFpuU0VwT1oxRRAB!2m1!1s0x478af5b3abf18e5d:0xcf1739a3de8190a7"
+      },
+      {
+        "note": 5,
+        "texte": "Bonjour,\nJe me suis laissée tenter par cette boulangerie. L'accueil a été fort sympathique, personnel a l'écoute , souriant.....\nJe me suis attardée sur la viennoiserie ainsi que leur pâtisserie.\nPain au chocolat généreux , croissant savoureux , et petit faible pour le tradi-choc ....ancêtre du pain au chocolat.😄. J'ai oublié d'ajouter que le flan était très très très savoureux , légèrement crémeux. Leur succès noir ravira les passionnés de chocolat et leur tarte aux framboises une vrai explosion de fraîcheur .\nMerci a cette enseigne pour ce moment gourmand.",
+        "langue": "fr",
+        "date": "2026-09-24",
+        "auteur": "Lilou Madara (Moi)",
+        "auteur_lien": "https://www.google.com/maps/contrib/102510977934624886772/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25sSWFrOWlVV1JWY20xb1pFdE9WSGR3YmpaSWRtYxAB!2m1!1s0x478af5b3abf18e5d:0xcf1739a3de8190a7"
+      },
+      {
+        "note": 4,
+        "texte": "De passage à Meylan, nous nous sommes arrêtés prendre un café et une viennoiserie.\nNous avons apprécier le service et le goût des croissants et pain au chocolat\nL'extérieur est agréable.",
+        "langue": "fr",
+        "date": "2026-06-07",
+        "auteur": "Stéphane F",
+        "auteur_lien": "https://www.google.com/maps/contrib/102679259992633315267/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2paMk9EWlFSa3MyUTJoMmNYWlJRMU5rZFZaVFMzYxAB!2m1!1s0x478af5b3abf18e5d:0xcf1739a3de8190a7"
+      },
+      {
+        "note": 5,
+        "texte": "J’ai testé la fève de cacao glacée de La Noisette et j’ai adoré ! ✨\n\nUn dessert aussi beau que bon, avec un délicieux goût de chocolat et beaucoup de fraîcheur. Une création originale qui vaut le détour.\n\nAccueil toujours au top, je recommande sans hésiter ! 😊👏",
+        "langue": "fr",
+        "date": "2026-06-05",
+        "auteur": "Dani Haddad",
+        "auteur_lien": "https://www.google.com/maps/contrib/114944155068584468493/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT20xdFRXSm1aa1pQYW5kelZUQTRZbEpqV1RScldWRRAB!2m1!1s0x478af5b3abf18e5d:0xcf1739a3de8190a7"
+      },
+      {
+        "note": 5,
+        "texte": "Nous avons choisi une coupe nougatine 8 personnes pour l’anniversaire de mon père et ce fut une vraie réussite ! Fraîche, légère et parfaite avec la chaleur, elle a fait l’unanimité auprès de toute la famille.\n\nDepuis notre achat pour la Fête des Mères à La Noisette Crolles, nous avons cette fois commandé à Meylan, et la qualité est toujours au rendez-vous.\n\nLa Noisette est devenue notre référence pour les desserts et les moments en famille. Les produits sont excellents, l’accueil est toujours au top et les équipes sont très agréables.\nJe recommande sans hésiter ! 😊🎂✨",
+        "langue": "fr",
+        "date": "2026-06-03",
+        "auteur": "Gianni Salino",
+        "auteur_lien": "https://www.google.com/maps/contrib/106585674107205562605/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2kxV09IRnpTRTkzWkZaT1ExVXRNMUE0U1ZaeFJtYxAB!2m1!1s0x478af5b3abf18e5d:0xcf1739a3de8190a7"
+      }
+    ]
+  },
+  "services": {
+    "releve": "2026-11-15",
+    "prix": "PRICE_LEVEL_INEXPENSIVE",
+    "options": {
+      "dineIn": true,
+      "takeout": true,
+      "delivery": true,
+      "curbsidePickup": false,
+      "servesBreakfast": true,
+      "servesCoffee": true,
+      "restroom": false
+    },
+    "paiement": [
+      "carte bancaire",
+      "carte de débit",
+      "paiement sans contact"
+    ],
+    "parking": [
+      "parking gratuit",
+      "stationnement gratuit dans la rue"
+    ]
+  },
+  "redaction": {
+    "version": 2,
+    "titre": "La Noisette — Boulangerie-pâtisserie à Meylan",
+    "meta_titre": "La Noisette à Meylan : horaires, avis, téléphone",
+    "meta_description": "La Noisette, boulangerie-pâtisserie à Meylan : horaires d'ouverture, note Google 4,1/5 (847 avis), téléphone, adresse et itinéraire.",
+    "chapo": "La Noisette est une boulangerie-pâtisserie au 42 Avenue de la Plaine Fleurie, à Meylan. Ouvert sept jours sur sept au relevé du 15 novembre 2026. Téléphone : 04 76 90 57 69. Note Google : 4,1 sur 5 pour 847 avis.",
+    "sections": [
+      {
+        "id": "presentation",
+        "titre": "La Noisette en quelques mots",
+        "paragraphes": [
+          "Sur Google, l'établissement est classé « Boulangerie », dans notre rubrique Boulangerie-pâtisserie.",
+          "Niveau de prix indiqué sur la fiche Google : € (bon marché).",
+          "D'après le relevé du 15 novembre 2026, l'établissement est ouvert sept jours sur sept. Le détail jour par jour figure plus bas."
+        ]
+      },
+      {
+        "id": "prestations",
+        "titre": "Services et équipements de La Noisette",
+        "paragraphes": [
+          "Proposé : sur place, à emporter, livraison, petit-déjeuner et café.",
+          "Non proposé selon la fiche Google : retrait en voiture et toilettes.",
+          "Moyens de paiement déclarés : carte bancaire, carte de débit et paiement sans contact.",
+          "Stationnement : parking gratuit et stationnement gratuit dans la rue.",
+          "Ces indications sont déclarées par l'établissement sur sa fiche Google (relevé du 15 novembre 2026)."
+        ]
+      },
+      {
+        "id": "acces",
+        "titre": "Adresse et accès",
+        "paragraphes": [
+          "L'établissement est situé au 42 Avenue de la Plaine Fleurie, 38240 Meylan.",
+          "Coordonnées GPS : 45.20320, 5.76069. Le bouton Itinéraire de cette page ouvre la navigation."
+        ]
+      },
+      {
+        "id": "contact",
+        "titre": "Contacter La Noisette",
+        "paragraphes": [
+          "Le contact se fait par téléphone au 04 76 90 57 69, ou directement sur place aux horaires d'ouverture."
+        ]
+      },
+      {
+        "id": "avis",
+        "titre": "La réputation de La Noisette",
+        "paragraphes": [
+          "Note de 4,1 sur 5 pour 847 avis Google au relevé du 15 novembre 2026. Les avis les plus parlants sont compilés ci-dessous, avec un lien vers la fiche d'origine."
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "q": "Quels sont les horaires de La Noisette ?",
+        "r": "Au relevé du 15 novembre 2026, La Noisette était ouvert sept jours sur sept. Dans le détail — lundi : de 6 h 15 à 19 h 45 ; mardi : de 6 h 15 à 19 h 45 ; mercredi : de 6 h 15 à 19 h 45 ; jeudi : de 6 h 15 à 19 h 45 ; vendredi : de 6 h 15 à 19 h 45 ; samedi : de 6 h 15 à 19 h 45 ; dimanche : de 6 h 15 à 19 h 45. Ces horaires peuvent changer : un appel préalable reste conseillé."
+      },
+      {
+        "q": "La Noisette est-il ouvert le dimanche ?",
+        "r": "Oui : le dimanche, La Noisette est ouvert de 6 h 15 à 19 h 45 (horaires relevés le 15 novembre 2026)."
+      },
+      {
+        "q": "Où se trouve La Noisette ?",
+        "r": "La Noisette se trouve 42 Av. de la Plaine Fleurie, 38240 Meylan. Un lien d'itinéraire est disponible sur cette page."
+      },
+      {
+        "q": "Comment contacter La Noisette ?",
+        "r": "Par téléphone au 04 76 90 57 69, ou directement sur place aux heures d'ouverture."
+      },
+      {
+        "q": "La Noisette propose-t-il la vente à emporter ou la livraison ?",
+        "r": "D'après sa fiche Google (relevé du 15 novembre 2026) — vente à emporter : oui ; livraison : oui."
+      },
+      {
+        "q": "Quel est le niveau de prix de La Noisette ?",
+        "r": "Google classe La Noisette au niveau de prix € (bon marché), sur une échelle de € à €€€€ établie à partir des avis clients."
+      },
+      {
+        "q": "La Noisette est-il accessible aux personnes à mobilité réduite ?",
+        "r": "La fiche Google de l'établissement mentionne : « Entrée accessible en fauteuil roulant ». Cette information est déclarative ; en cas de doute, vérifiez par téléphone."
+      }
+    ],
+    "genere_le": "2026-11-15"
+  },
+  "statut_google": "OPERATIONAL",
+  "audience": {
+    "clics": 0,
+    "impressions": 0,
+    "position": null,
+    "fenetreJours": 90,
+    "clicsRecents": 0,
+    "fenetreRecenteJours": 28,
+    "source": "search-console",
+    "date": "2026-11-15"
+  }
+}

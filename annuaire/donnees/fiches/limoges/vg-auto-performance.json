@@ -1,0 +1,282 @@
+{
+  "id": "ChIJs7rkRX3L_kcRXcvg1HsRlb0",
+  "slug": "vg-auto-performance",
+  "nom": "Vg Auto Performance",
+  "categorie": "garages-automobile",
+  "categorie_gmb": "Garage automobile",
+  "type_principal": "car_repair",
+  "types": [
+    "car_repair",
+    "service",
+    "point_of_interest",
+    "establishment"
+  ],
+  "ville": "Limoges",
+  "ville_slug": "limoges",
+  "adresse": {
+    "rue": "436 Rue François Perrin",
+    "code_postal": "87100",
+    "departement": "87",
+    "region": "Nouvelle-Aquitaine",
+    "pays": "France",
+    "complete": "Le moulin blanc, 436 Rue François Perrin, 87100 Limoges"
+  },
+  "telephone": "05 55 01 34 52",
+  "geo": {
+    "latitude": 45.8216957,
+    "longitude": 1.2116642
+  },
+  "note": 4.6,
+  "avis": 167,
+  "horaires": [
+    {
+      "jour": 0,
+      "ferme": false,
+      "creneaux": [
+        [
+          "08:00",
+          "12:00"
+        ],
+        [
+          "14:00",
+          "18:30"
+        ]
+      ]
+    },
+    {
+      "jour": 1,
+      "ferme": false,
+      "creneaux": [
+        [
+          "08:00",
+          "12:00"
+        ],
+        [
+          "14:00",
+          "18:30"
+        ]
+      ]
+    },
+    {
+      "jour": 2,
+      "ferme": false,
+      "creneaux": [
+        [
+          "08:00",
+          "12:00"
+        ],
+        [
+          "14:00",
+          "18:30"
+        ]
+      ]
+    },
+    {
+      "jour": 3,
+      "ferme": false,
+      "creneaux": [
+        [
+          "08:00",
+          "12:00"
+        ],
+        [
+          "14:00",
+          "18:30"
+        ]
+      ]
+    },
+    {
+      "jour": 4,
+      "ferme": false,
+      "creneaux": [
+        [
+          "08:00",
+          "12:00"
+        ],
+        [
+          "14:00",
+          "18:00"
+        ]
+      ]
+    },
+    {
+      "jour": 5,
+      "ferme": true,
+      "creneaux": []
+    },
+    {
+      "jour": 6,
+      "ferme": true,
+      "creneaux": []
+    }
+  ],
+  "attributs": [
+    "Entrée accessible en fauteuil roulant",
+    "Parking accessible en fauteuil roulant"
+  ],
+  "lien_google": "https://maps.google.com/?cid=13660844268248419165&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
+  "site_web_gmb": null,
+  "statut": "publiee",
+  "backlink": {
+    "etat": "absent",
+    "premiere_detection": null,
+    "derniere_detection": null,
+    "derniere_verification": "2026-11-15T12:41:36.283Z",
+    "echecs": 1,
+    "url_detectee": null
+  },
+  "suggestion": {
+    "etat": "en-attente",
+    "date_soumission": null,
+    "tentatives": 0,
+    "date_email": "2026-11-15"
+  },
+  "retrait": null,
+  "dates": {
+    "collecte": "2026-11-15",
+    "publication": "2026-11-15",
+    "maj": "2026-11-15"
+  },
+  "source": "google-places",
+  "avis_detail": {
+    "releve": "2026-11-15",
+    "liste": [
+      {
+        "note": 5,
+        "texte": "Je vais dans ce garage depuis maintenant plusieurs années une équipe très sérieuse au top et très à l’écoute\n\nDepuis presque cinq ans, j’amène mes véhicules perso pour tout ce qui est révision ou changement de pièces défaillante aujourd’hui sur un véhicule de Societe, je me suis retrouvé avec une urgence de carrosserie\n\nL’atelier en question a répondu présent dès 9h du matin, m’a invité à passer et on régler le problème en moins de 10 minutes\n\nJe recommande sincèrement",
+        "langue": "fr",
+        "date": "2026-10-13",
+        "auteur": "LoWa Clow",
+        "auteur_lien": "https://www.google.com/maps/contrib/101515356415872537927/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xBdGRYTmpVV1J5TTJkTE9WVXRXVTUwT1dJNGQxRRAB!2m1!1s0x47fecb7d45e4bab3:0xbd95117bd4e0cb5d"
+      },
+      {
+        "note": 5,
+        "texte": "Super garage aussi bien en carrosserie qu en mécanique ils sont a l écoute arrangeant et disponible et vraiment sympa",
+        "langue": "fr",
+        "date": "2026-09-22",
+        "auteur": "Tarik Laaroussi",
+        "auteur_lien": "https://www.google.com/maps/contrib/104990522040180041934/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xWdWJtcHlaa0ZxV0ZJd1NrVmFWa0ZpU0VGR1MwRRAB!2m1!1s0x47fecb7d45e4bab3:0xbd95117bd4e0cb5d"
+      },
+      {
+        "note": 5,
+        "texte": "Nous sommes venus pour l’entretien de notre belle sportive ainsi que pour quelques travaux de carrosserie. Le personnel est très sympathique et arrangeant, aussi bien à l’accueil qu’à l’atelier. Les tarifs sont honnêtes et le travail soigné. Nous avons récupéré la voiture impeccable et sommes vraiment ravis du résultat. Merci à toute l’équipe !",
+        "langue": "fr",
+        "date": "2026-08-24",
+        "auteur": "Marie R",
+        "auteur_lien": "https://www.google.com/maps/contrib/105802436412671623755/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT21GM1F6SXhiRlF3YURJMVNqWllNVmx5U0cwMFQxRRAB!2m1!1s0x47fecb7d45e4bab3:0xbd95117bd4e0cb5d"
+      },
+      {
+        "note": 5,
+        "texte": "Un accueil bien agréable et souriant. Une équipe détendue et professionnelle. Cela fait la deuxième réparation carrosserie et une intervention mécanique mais je le dis tout de suite, mes quatre voiture n'iront que chez eux. Un travail impeccable, une équipe consciencieuse et à l'écoute. Bravo et à bientôt",
+        "langue": "fr",
+        "date": "2026-05-28",
+        "auteur": "julien gazeau",
+        "auteur_lien": "https://www.google.com/maps/contrib/110769947394146671244/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2pSNlQxTmpaVXBQTlZaTllWVkxVVEJNTTFWbmJHYxAB!2m1!1s0x47fecb7d45e4bab3:0xbd95117bd4e0cb5d"
+      },
+      {
+        "note": 5,
+        "texte": "Une barrière d'accès à un parking s'était délibérément fermée à mon passage endommageant un montant du toit de ma BMW 530.\nBien que peu important, le préjudice était réel et bien visible puisqu'à hauteur des yeux.\nAprès établissement de 3 devis, j'ai choisi VG Performance dont le premier contact ma inspiré confiance et qui en plus était moins-disant (l'un des autres devis préconisait le démontage complet de 2 portières !).\nJe suis très satisfait, car la réparation est invisible ce qui est une belle performance compte tenu de l'endroit du choc et de l'architecture de l'auto.\nLe personnel est sympathique et réactif, cerise sur le gateau j'ai récupéré une auto propre comme un sou neuf !\nMerci à l'équipe pour le soin apporté à cette réparation, nous nous reverrons sans aucun doute !",
+        "langue": "fr",
+        "date": "2026-01-19",
+        "auteur": "Christophe Travers",
+        "auteur_lien": "https://www.google.com/maps/contrib/109356265119090302055/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xWMFIwdElNRm8xU1d4dlUxOWlNUzE0TXpCMlpHYxAB!2m1!1s0x47fecb7d45e4bab3:0xbd95117bd4e0cb5d"
+      }
+    ]
+  },
+  "services": {
+    "releve": "2026-11-15",
+    "options": {},
+    "paiement": [
+      "carte bancaire",
+      "carte de débit",
+      "paiement sans contact"
+    ],
+    "parking": []
+  },
+  "redaction": {
+    "version": 2,
+    "titre": "Vg Auto Performance — Garage et automobile à Limoges",
+    "meta_titre": "Vg Auto Performance à Limoges : horaires, avis, téléphone",
+    "meta_description": "Vg Auto Performance, garage et automobile à Limoges : horaires d'ouverture, note Google 4,6/5 (167 avis), téléphone, adresse et itinéraire.",
+    "chapo": "Cette fiche présente Vg Auto Performance, un garage et automobile au 436 Rue François Perrin, à Limoges. Fermé le samedi et le dimanche au relevé du 15 novembre 2026. Téléphone : 05 55 01 34 52. Note Google : 4,6 sur 5 pour 167 avis.",
+    "sections": [
+      {
+        "id": "presentation",
+        "titre": "Vg Auto Performance en quelques mots",
+        "paragraphes": [
+          "Sur Google, l'établissement est classé « Garage automobile », dans notre rubrique Garage et automobile.",
+          "D'après le relevé du 15 novembre 2026, l'établissement est fermé le samedi et le dimanche. Le détail jour par jour figure plus bas."
+        ]
+      },
+      {
+        "id": "prestations",
+        "titre": "Services et équipements de Vg Auto Performance",
+        "paragraphes": [
+          "Moyens de paiement déclarés : carte bancaire, carte de débit et paiement sans contact.",
+          "Ces indications sont déclarées par l'établissement sur sa fiche Google (relevé du 15 novembre 2026)."
+        ]
+      },
+      {
+        "id": "acces",
+        "titre": "Adresse et accès",
+        "paragraphes": [
+          "L'établissement est situé au 436 Rue François Perrin, 87100 Limoges.",
+          "Coordonnées GPS : 45.82170, 1.21166. Le bouton Itinéraire de cette page ouvre la navigation."
+        ]
+      },
+      {
+        "id": "contact",
+        "titre": "Contacter Vg Auto Performance",
+        "paragraphes": [
+          "Le contact se fait par téléphone au 05 55 01 34 52, ou directement sur place aux horaires d'ouverture."
+        ]
+      },
+      {
+        "id": "avis",
+        "titre": "La réputation de Vg Auto Performance",
+        "paragraphes": [
+          "Note de 4,6 sur 5 pour 167 avis Google au relevé du 15 novembre 2026. Les avis les plus parlants sont compilés ci-dessous, avec un lien vers la fiche d'origine."
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "q": "Quels sont les horaires de Vg Auto Performance ?",
+        "r": "Au relevé du 15 novembre 2026, Vg Auto Performance était fermé le samedi et le dimanche. Dans le détail — lundi : de 8 h à 12 h et de 14 h à 18 h 30 ; mardi : de 8 h à 12 h et de 14 h à 18 h 30 ; mercredi : de 8 h à 12 h et de 14 h à 18 h 30 ; jeudi : de 8 h à 12 h et de 14 h à 18 h 30 ; vendredi : de 8 h à 12 h et de 14 h à 18 h ; samedi : fermé ; dimanche : fermé. Ces horaires peuvent changer : un appel préalable reste conseillé."
+      },
+      {
+        "q": "Vg Auto Performance est-il ouvert le dimanche ?",
+        "r": "Non : d'après les horaires relevés le 15 novembre 2026, Vg Auto Performance est fermé le dimanche."
+      },
+      {
+        "q": "Où se trouve Vg Auto Performance ?",
+        "r": "Vg Auto Performance se trouve Le moulin blanc, 436 Rue François Perrin, 87100 Limoges. Un lien d'itinéraire est disponible sur cette page."
+      },
+      {
+        "q": "Comment contacter Vg Auto Performance ?",
+        "r": "Par téléphone au 05 55 01 34 52, ou directement sur place aux heures d'ouverture."
+      },
+      {
+        "q": "Vg Auto Performance est-il accessible aux personnes à mobilité réduite ?",
+        "r": "La fiche Google de l'établissement mentionne : « Entrée accessible en fauteuil roulant ». Cette information est déclarative ; en cas de doute, vérifiez par téléphone."
+      }
+    ],
+    "genere_le": "2026-11-15"
+  },
+  "statut_google": "OPERATIONAL",
+  "audience": {
+    "clics": 0,
+    "impressions": 0,
+    "position": null,
+    "fenetreJours": 90,
+    "clicsRecents": 0,
+    "fenetreRecenteJours": 28,
+    "source": "search-console",
+    "date": "2026-11-15"
+  }
+}
