@@ -585,6 +585,104 @@
     "note": ""
   },
   {
+    "url": "https://mrmme.com/qui-sommes-nous/",
+    "domaine": "mrmme.com",
+    "hote": "mrmme.com",
+    "type": "liste-prestataires",
+    "types": [
+      "liste-prestataires"
+    ],
+    "plateforme": "WordPress",
+    "titre": "Experts Anti-nuisibles – 15 Ans D’expérience 🛡️",
+    "langue": "fr-fr",
+    "scores": {
+      "seo": 93,
+      "ia": 99,
+      "priorite": 86,
+      "facilite": "contact"
+    },
+    "facilite": "contact",
+    "indexabilite": {
+      "indexable": true,
+      "motifs": [],
+      "googlebot": true,
+      "bingbot": true,
+      "canonique": null
+    },
+    "indexee": "inconnu",
+    "ia": {
+      "autorises": [
+        "GPTBot",
+        "OAI-SearchBot",
+        "ClaudeBot",
+        "PerplexityBot",
+        "Google-Extended"
+      ],
+      "bloques": [],
+      "taux": 100
+    },
+    "liens": {
+      "commentaires": "inconnu",
+      "contenu": "dofollow",
+      "signatures": "inconnu",
+      "auteurs": "inconnu",
+      "externes": 12
+    },
+    "champSiteWeb": false,
+    "captcha": false,
+    "connexionRequise": false,
+    "moderation": false,
+    "commentairesExistants": 0,
+    "widget": "",
+    "contact": null,
+    "lienInscription": null,
+    "concurrentsCites": [],
+    "themes": [
+      "frelon",
+      "frelons",
+      "guêpe",
+      "guêpes",
+      "désinsectisation",
+      "nuisibles",
+      "anti-nuisibles",
+      "insecte"
+    ],
+    "zonesTrouvees": [
+      "Lille",
+      "Pas-de-Calais",
+      "Hauts-de-France",
+      "Amiens",
+      "Aisne",
+      "Oise"
+    ],
+    "nbMots": 3152,
+    "signaux": [
+      "5 lien(s) vers des sites du métier",
+      "liens de la liste : dofollow"
+    ],
+    "origine": {
+      "type": "lien-interne",
+      "detail": "mrmme.com"
+    },
+    "decouverte": "2026-11-16",
+    "derniereVisite": "2026-11-16T13:40:47.763Z",
+    "statutHttp": 200,
+    "cible": {
+      "url": "https://allo-frelons.fr/guepes",
+      "niveau": 1,
+      "motif": "spot éditorial : lien direct vers le site",
+      "titre": "Les guêpes, biologie, les différentes espèces, les solutions",
+      "ancres": [
+        "ALLO FRELONS",
+        "allo-frelons.fr/guepes",
+        "Les guêpes, biologie, les différentes espèces, les solutions",
+        "ALLO FRELONS Lille"
+      ]
+    },
+    "etat": "a-traiter",
+    "note": ""
+  },
+  {
     "url": "https://renature.brussels/fr/actions/ville-saine/contribuez-a-la-gestion-raisonnee-du-frelon-asiatique",
     "domaine": "renature.brussels",
     "hote": "renature.brussels",
@@ -960,6 +1058,102 @@
         "ALLO FRELONS",
         "allo-frelons.fr/traitement-efficace-contre-les-guepes-frelons-et-frelons-asiatiques-a-santes-59211",
         "ALLO FRELONS Hauts-de-France"
+      ]
+    },
+    "etat": "a-traiter",
+    "note": ""
+  },
+  {
+    "url": "https://www.consultations-publiques.developpement-durable.gouv.fr/plan-national-de-lutte-contre-le-frelon-asiatique-a3336.html",
+    "domaine": "developpement-durable.gouv.fr",
+    "hote": "consultations-publiques.developpement-durable.gouv.fr",
+    "type": "liste-prestataires",
+    "types": [
+      "liste-prestataires"
+    ],
+    "plateforme": "SPIP",
+    "titre": "Plan national de lutte contre le frelon asiatique à pattes jaunes (Consultation terminée) | Consultations publiques",
+    "langue": "fr",
+    "scores": {
+      "seo": 93,
+      "ia": 99,
+      "priorite": 86,
+      "facilite": "contact"
+    },
+    "facilite": "contact",
+    "indexabilite": {
+      "indexable": true,
+      "motifs": [],
+      "googlebot": true,
+      "bingbot": true,
+      "canonique": null
+    },
+    "indexee": "inconnu",
+    "ia": {
+      "autorises": [
+        "GPTBot",
+        "OAI-SearchBot",
+        "ClaudeBot",
+        "PerplexityBot",
+        "Google-Extended"
+      ],
+      "bloques": [],
+      "taux": 100
+    },
+    "liens": {
+      "commentaires": "nofollow",
+      "contenu": "dofollow",
+      "signatures": "inconnu",
+      "auteurs": "inconnu",
+      "externes": 10
+    },
+    "champSiteWeb": false,
+    "captcha": false,
+    "connexionRequise": false,
+    "moderation": false,
+    "commentairesExistants": 0,
+    "widget": "",
+    "contact": null,
+    "lienInscription": null,
+    "concurrentsCites": [],
+    "themes": [
+      "frelon",
+      "frelons",
+      "frelon asiatique",
+      "guêpes",
+      "désinsectisation",
+      "destruction de nid",
+      "vespa velutina",
+      "abeilles"
+    ],
+    "zonesTrouvees": [
+      "Normandie",
+      "Pays de la Loire",
+      "Lot-et-Garonne",
+      "Morbihan"
+    ],
+    "nbMots": 5659,
+    "signaux": [
+      "liste : « destruction des nids »",
+      "4 lien(s) vers des sites du métier",
+      "liens de la liste : dofollow"
+    ],
+    "origine": {
+      "type": "lien-externe",
+      "detail": "depuis lefrelon.com"
+    },
+    "decouverte": "2026-11-16",
+    "derniereVisite": "2026-11-16T13:41:18.434Z",
+    "statutHttp": 200,
+    "cible": {
+      "url": "https://allo-frelons.fr/newsroom/piegeage-frelon-asiatique-plan-national",
+      "niveau": 1,
+      "motif": "spot éditorial : lien direct vers le site",
+      "titre": "",
+      "ancres": [
+        "ALLO FRELONS",
+        "allo-frelons.fr/newsroom/piegeage-frelon-asiatique-plan-national",
+        "ALLO FRELONS Normandie"
       ]
     },
     "etat": "a-traiter",
@@ -3697,6 +3891,97 @@
     "note": ""
   },
   {
+    "url": "https://agriculture.gouv.fr/lutte-contre-le-frelon-a-pattes-jaunes-adoption-du-plan-national-pour-renforcer-et-coordonner-la",
+    "domaine": "agriculture.gouv.fr",
+    "hote": "agriculture.gouv.fr",
+    "type": "liste-prestataires",
+    "types": [
+      "liste-prestataires"
+    ],
+    "plateforme": "Drupal",
+    "titre": "Lutte contre le frelon à pattes jaunes : adoption du plan national pour renforcer et coordonner la lutte sur l’ensemble du territoire |…",
+    "langue": "fr",
+    "scores": {
+      "seo": 88,
+      "ia": 91,
+      "priorite": 80,
+      "facilite": "contact"
+    },
+    "facilite": "contact",
+    "indexabilite": {
+      "indexable": true,
+      "motifs": [],
+      "googlebot": true,
+      "bingbot": true,
+      "canonique": null
+    },
+    "indexee": "inconnu",
+    "ia": {
+      "autorises": [
+        "GPTBot",
+        "OAI-SearchBot",
+        "ClaudeBot",
+        "PerplexityBot",
+        "Google-Extended"
+      ],
+      "bloques": [],
+      "taux": 100
+    },
+    "liens": {
+      "commentaires": "inconnu",
+      "contenu": "dofollow",
+      "signatures": "inconnu",
+      "auteurs": "inconnu",
+      "externes": 13
+    },
+    "champSiteWeb": false,
+    "captcha": false,
+    "connexionRequise": false,
+    "moderation": false,
+    "commentairesExistants": 0,
+    "widget": "",
+    "contact": null,
+    "lienInscription": null,
+    "concurrentsCites": [],
+    "themes": [
+      "frelon",
+      "frelon asiatique",
+      "vespa velutina",
+      "abeilles",
+      "insectes",
+      "nature",
+      "biodiversité",
+      "animaux"
+    ],
+    "zonesTrouvees": [],
+    "nbMots": 1092,
+    "signaux": [
+      "liste : « destruction des nids »",
+      "3 lien(s) vers des sites du métier",
+      "liens de la liste : dofollow"
+    ],
+    "origine": {
+      "type": "lien-externe",
+      "detail": "depuis lefrelon.com"
+    },
+    "decouverte": "2026-11-16",
+    "derniereVisite": "2026-11-16T13:41:49.760Z",
+    "statutHttp": 200,
+    "cible": {
+      "url": "https://allo-frelons.fr/bourdon-patte-jaune",
+      "niveau": 1,
+      "motif": "spot éditorial : lien direct vers le site",
+      "titre": "Le bourdon (Bombus terrestris) - ALLO FRELONS",
+      "ancres": [
+        "ALLO FRELONS",
+        "allo-frelons.fr/bourdon-patte-jaune",
+        "Le bourdon (Bombus terrestris) - ALLO FRELONS"
+      ]
+    },
+    "etat": "a-traiter",
+    "note": ""
+  },
+  {
     "url": "https://france-nuisibles.fr/les_annuaires.htm",
     "domaine": "france-nuisibles.fr",
     "hote": "france-nuisibles.fr",
@@ -3873,6 +4158,993 @@
         "ALLO FRELONS",
         "allo-frelons.fr/guepes",
         "Les guêpes, biologie, les différentes espèces, les solutions"
+      ]
+    },
+    "etat": "a-traiter",
+    "note": ""
+  },
+  {
+    "url": "https://itsap.asso.fr/faqs/comment-mettre-en-place-une-strategie-de-lutte-contre-le-frelon-a-pattes-jaunes",
+    "domaine": "itsap.asso.fr",
+    "hote": "itsap.asso.fr",
+    "type": "liste-prestataires",
+    "types": [
+      "liste-prestataires"
+    ],
+    "plateforme": "",
+    "titre": "Les clés de réussite | ITSAP",
+    "langue": "",
+    "scores": {
+      "seo": 88,
+      "ia": 91,
+      "priorite": 80,
+      "facilite": "contact"
+    },
+    "facilite": "contact",
+    "indexabilite": {
+      "indexable": true,
+      "motifs": [],
+      "googlebot": true,
+      "bingbot": true,
+      "canonique": null
+    },
+    "indexee": "inconnu",
+    "ia": {
+      "autorises": [
+        "GPTBot",
+        "OAI-SearchBot",
+        "ClaudeBot",
+        "PerplexityBot",
+        "Google-Extended"
+      ],
+      "bloques": [],
+      "taux": 100
+    },
+    "liens": {
+      "commentaires": "inconnu",
+      "contenu": "dofollow",
+      "signatures": "inconnu",
+      "auteurs": "inconnu",
+      "externes": 6
+    },
+    "champSiteWeb": false,
+    "captcha": false,
+    "connexionRequise": false,
+    "moderation": false,
+    "commentairesExistants": 0,
+    "widget": "",
+    "contact": null,
+    "lienInscription": null,
+    "concurrentsCites": [],
+    "themes": [
+      "frelon",
+      "frelons",
+      "frelon asiatique",
+      "apiculteur"
+    ],
+    "zonesTrouvees": [],
+    "nbMots": 534,
+    "signaux": [
+      "3 lien(s) vers des sites du métier",
+      "liens de la liste : dofollow"
+    ],
+    "origine": {
+      "type": "lien-externe",
+      "detail": "depuis lefrelon.com"
+    },
+    "decouverte": "2026-11-16",
+    "derniereVisite": "2026-11-16T13:41:58.019Z",
+    "statutHttp": 200,
+    "cible": {
+      "url": "https://allo-frelons.fr/frelon-asiatique",
+      "niveau": 1,
+      "motif": "spot éditorial : lien direct vers le site",
+      "titre": "Frelon Asiatique : Identifier, Lutter & Protéger vos Ruches",
+      "ancres": [
+        "ALLO FRELONS",
+        "allo-frelons.fr/frelon-asiatique",
+        "Frelon Asiatique : Identifier, Lutter & Protéger vos Ruches"
+      ]
+    },
+    "etat": "a-traiter",
+    "note": "",
+    "visites": 2
+  },
+  {
+    "url": "https://lefrelon.app/pisteur",
+    "domaine": "lefrelon.app",
+    "hote": "lefrelon.app",
+    "type": "liste-prestataires",
+    "types": [
+      "liste-prestataires"
+    ],
+    "plateforme": "",
+    "titre": "LeFrelon Pisteur — l’application de pistage du frelon asiatique",
+    "langue": "fr",
+    "scores": {
+      "seo": 88,
+      "ia": 91,
+      "priorite": 80,
+      "facilite": "contact"
+    },
+    "facilite": "contact",
+    "indexabilite": {
+      "indexable": true,
+      "motifs": [],
+      "googlebot": true,
+      "bingbot": true,
+      "canonique": null
+    },
+    "indexee": "inconnu",
+    "ia": {
+      "autorises": [
+        "GPTBot",
+        "OAI-SearchBot",
+        "ClaudeBot",
+        "PerplexityBot",
+        "Google-Extended"
+      ],
+      "bloques": [],
+      "taux": 100
+    },
+    "liens": {
+      "commentaires": "inconnu",
+      "contenu": "dofollow",
+      "signatures": "inconnu",
+      "auteurs": "inconnu",
+      "externes": 13
+    },
+    "champSiteWeb": false,
+    "captcha": false,
+    "connexionRequise": false,
+    "moderation": false,
+    "commentairesExistants": 0,
+    "widget": "",
+    "contact": null,
+    "lienInscription": null,
+    "concurrentsCites": [],
+    "themes": [
+      "frelon",
+      "frelons",
+      "frelon asiatique"
+    ],
+    "zonesTrouvees": [],
+    "nbMots": 490,
+    "signaux": [
+      "5 lien(s) vers des sites du métier",
+      "liens de la liste : dofollow"
+    ],
+    "origine": {
+      "type": "lien-interne",
+      "detail": "lefrelon.com"
+    },
+    "decouverte": "2026-11-16",
+    "derniereVisite": "2026-11-16T13:42:11.533Z",
+    "statutHttp": 200,
+    "cible": {
+      "url": "https://allo-frelons.fr/application-frelon-asiatique",
+      "niveau": 1,
+      "motif": "spot éditorial : lien direct vers le site",
+      "titre": "application frelon asiatique",
+      "ancres": [
+        "ALLO FRELONS",
+        "allo-frelons.fr/application-frelon-asiatique",
+        "application frelon asiatique"
+      ]
+    },
+    "etat": "a-traiter",
+    "note": ""
+  },
+  {
+    "url": "https://lefrelon.com/biologie-du-frelon-asiatique",
+    "domaine": "lefrelon.com",
+    "hote": "lefrelon.com",
+    "type": "liste-prestataires",
+    "types": [
+      "liste-prestataires"
+    ],
+    "plateforme": "WordPress",
+    "titre": "Biologie et cycle de vie du frelon asiatique",
+    "langue": "fr",
+    "scores": {
+      "seo": 88,
+      "ia": 91,
+      "priorite": 80,
+      "facilite": "contact"
+    },
+    "facilite": "contact",
+    "indexabilite": {
+      "indexable": true,
+      "motifs": [],
+      "googlebot": true,
+      "bingbot": true,
+      "canonique": null
+    },
+    "indexee": "inconnu",
+    "ia": {
+      "autorises": [
+        "GPTBot",
+        "OAI-SearchBot",
+        "ClaudeBot",
+        "PerplexityBot",
+        "Google-Extended"
+      ],
+      "bloques": [],
+      "taux": 100
+    },
+    "liens": {
+      "commentaires": "inconnu",
+      "contenu": "dofollow",
+      "signatures": "inconnu",
+      "auteurs": "inconnu",
+      "externes": 11
+    },
+    "champSiteWeb": false,
+    "captcha": false,
+    "connexionRequise": false,
+    "moderation": false,
+    "commentairesExistants": 0,
+    "widget": "",
+    "contact": null,
+    "lienInscription": null,
+    "concurrentsCites": [],
+    "themes": [
+      "frelon",
+      "frelons",
+      "frelon asiatique",
+      "frelon européen",
+      "guêpes",
+      "désinsectisation",
+      "vespa velutina",
+      "jardin"
+    ],
+    "zonesTrouvees": [],
+    "nbMots": 1667,
+    "signaux": [
+      "3 lien(s) vers des sites du métier",
+      "liens de la liste : dofollow"
+    ],
+    "origine": {
+      "type": "lien-interne",
+      "detail": "lefrelon.com"
+    },
+    "decouverte": "2026-11-16",
+    "derniereVisite": "2026-11-16T13:41:15.426Z",
+    "statutHttp": 200,
+    "cible": {
+      "url": "https://allo-frelons.fr/combien-temps-vie-frelon-asiatique",
+      "niveau": 1,
+      "motif": "spot éditorial : lien direct vers le site",
+      "titre": "Combien de temps vie un frelon asiatique",
+      "ancres": [
+        "ALLO FRELONS",
+        "allo-frelons.fr/combien-temps-vie-frelon-asiatique",
+        "Combien de temps vie un frelon asiatique"
+      ]
+    },
+    "etat": "a-traiter",
+    "note": ""
+  },
+  {
+    "url": "https://lefrelon.com/destruction-frelon-asiatique",
+    "domaine": "lefrelon.com",
+    "hote": "lefrelon.com",
+    "type": "liste-prestataires",
+    "types": [
+      "liste-prestataires"
+    ],
+    "plateforme": "Drupal",
+    "titre": "Destruction d'un nid de frelon asiatique : méthode, coût et prise en charge",
+    "langue": "fr",
+    "scores": {
+      "seo": 88,
+      "ia": 91,
+      "priorite": 80,
+      "facilite": "contact"
+    },
+    "facilite": "contact",
+    "indexabilite": {
+      "indexable": true,
+      "motifs": [],
+      "googlebot": true,
+      "bingbot": true,
+      "canonique": null
+    },
+    "indexee": "inconnu",
+    "ia": {
+      "autorises": [
+        "GPTBot",
+        "OAI-SearchBot",
+        "ClaudeBot",
+        "PerplexityBot",
+        "Google-Extended"
+      ],
+      "bloques": [],
+      "taux": 100
+    },
+    "liens": {
+      "commentaires": "inconnu",
+      "contenu": "dofollow",
+      "signatures": "inconnu",
+      "auteurs": "inconnu",
+      "externes": 12
+    },
+    "champSiteWeb": false,
+    "captcha": false,
+    "connexionRequise": false,
+    "moderation": false,
+    "commentairesExistants": 0,
+    "widget": "",
+    "contact": null,
+    "lienInscription": null,
+    "concurrentsCites": [],
+    "themes": [
+      "frelon",
+      "frelons",
+      "frelon asiatique",
+      "nid de frelons",
+      "désinsectisation",
+      "insectes",
+      "hyménoptères"
+    ],
+    "zonesTrouvees": [],
+    "nbMots": 1909,
+    "signaux": [
+      "liste : « faire detruire un nid »",
+      "3 lien(s) vers des sites du métier",
+      "liens de la liste : dofollow"
+    ],
+    "origine": {
+      "type": "lien-interne",
+      "detail": "lefrelon.com"
+    },
+    "decouverte": "2026-11-16",
+    "derniereVisite": "2026-11-16T13:41:50.251Z",
+    "statutHttp": 200,
+    "cible": {
+      "url": "https://allo-frelons.fr/prise-charge-frelon-asiatique",
+      "niveau": 1,
+      "motif": "spot éditorial : lien direct vers le site",
+      "titre": "prise en charge frelon asiatique",
+      "ancres": [
+        "ALLO FRELONS",
+        "allo-frelons.fr/prise-charge-frelon-asiatique",
+        "prise en charge frelon asiatique"
+      ]
+    },
+    "etat": "a-traiter",
+    "note": ""
+  },
+  {
+    "url": "https://lefrelon.com/frelon-asiatique-abeilles",
+    "domaine": "lefrelon.com",
+    "hote": "lefrelon.com",
+    "type": "liste-prestataires",
+    "types": [
+      "liste-prestataires"
+    ],
+    "plateforme": "Drupal",
+    "titre": "Pourquoi le frelon asiatique s'attaque-t-il aux ruches ?",
+    "langue": "fr",
+    "scores": {
+      "seo": 88,
+      "ia": 91,
+      "priorite": 80,
+      "facilite": "contact"
+    },
+    "facilite": "contact",
+    "indexabilite": {
+      "indexable": true,
+      "motifs": [],
+      "googlebot": true,
+      "bingbot": true,
+      "canonique": null
+    },
+    "indexee": "inconnu",
+    "ia": {
+      "autorises": [
+        "GPTBot",
+        "OAI-SearchBot",
+        "ClaudeBot",
+        "PerplexityBot",
+        "Google-Extended"
+      ],
+      "bloques": [],
+      "taux": 100
+    },
+    "liens": {
+      "commentaires": "inconnu",
+      "contenu": "dofollow",
+      "signatures": "inconnu",
+      "auteurs": "inconnu",
+      "externes": 11
+    },
+    "champSiteWeb": false,
+    "captcha": false,
+    "connexionRequise": false,
+    "moderation": false,
+    "commentairesExistants": 0,
+    "widget": "",
+    "contact": null,
+    "lienInscription": null,
+    "concurrentsCites": [],
+    "themes": [
+      "frelon",
+      "frelons",
+      "frelon asiatique",
+      "guêpes",
+      "désinsectisation",
+      "abeilles",
+      "ruche",
+      "hyménoptères"
+    ],
+    "zonesTrouvees": [],
+    "nbMots": 1423,
+    "signaux": [
+      "3 lien(s) vers des sites du métier",
+      "liens de la liste : dofollow"
+    ],
+    "origine": {
+      "type": "lien-interne",
+      "detail": "lefrelon.com"
+    },
+    "decouverte": "2026-11-16",
+    "derniereVisite": "2026-11-16T13:41:57.750Z",
+    "statutHttp": 200,
+    "cible": {
+      "url": "https://allo-frelons.fr/ruche-frelon",
+      "niveau": 1,
+      "motif": "spot éditorial : lien direct vers le site",
+      "titre": "Ruche de frelon : Comment identifier, gérer et prévenir les nids",
+      "ancres": [
+        "ALLO FRELONS",
+        "allo-frelons.fr/ruche-frelon",
+        "Ruche de frelon : Comment identifier, gérer et prévenir les nids"
+      ]
+    },
+    "etat": "a-traiter",
+    "note": ""
+  },
+  {
+    "url": "https://lefrelon.com/nid-frelon-asiatique-hiver",
+    "domaine": "lefrelon.com",
+    "hote": "lefrelon.com",
+    "type": "liste-prestataires",
+    "types": [
+      "liste-prestataires"
+    ],
+    "plateforme": "WordPress",
+    "titre": "Que devient un nid de frelon asiatique en hiver ?",
+    "langue": "fr",
+    "scores": {
+      "seo": 88,
+      "ia": 91,
+      "priorite": 80,
+      "facilite": "contact"
+    },
+    "facilite": "contact",
+    "indexabilite": {
+      "indexable": true,
+      "motifs": [],
+      "googlebot": true,
+      "bingbot": true,
+      "canonique": null
+    },
+    "indexee": "inconnu",
+    "ia": {
+      "autorises": [
+        "GPTBot",
+        "OAI-SearchBot",
+        "ClaudeBot",
+        "PerplexityBot",
+        "Google-Extended"
+      ],
+      "bloques": [],
+      "taux": 100
+    },
+    "liens": {
+      "commentaires": "inconnu",
+      "contenu": "dofollow",
+      "signatures": "inconnu",
+      "auteurs": "inconnu",
+      "externes": 10
+    },
+    "champSiteWeb": false,
+    "captcha": false,
+    "connexionRequise": false,
+    "moderation": false,
+    "commentairesExistants": 0,
+    "widget": "",
+    "contact": null,
+    "lienInscription": null,
+    "concurrentsCites": [],
+    "themes": [
+      "frelon",
+      "frelons",
+      "frelon asiatique",
+      "guêpes",
+      "désinsectisation",
+      "vespa velutina",
+      "jardin",
+      "maison"
+    ],
+    "zonesTrouvees": [],
+    "nbMots": 1466,
+    "signaux": [
+      "liste : « faire detruire un nid »",
+      "2 lien(s) vers des sites du métier",
+      "liens de la liste : dofollow"
+    ],
+    "origine": {
+      "type": "lien-interne",
+      "detail": "lefrelon.com"
+    },
+    "decouverte": "2026-11-16",
+    "derniereVisite": "2026-11-16T13:41:44.260Z",
+    "statutHttp": 200,
+    "cible": {
+      "url": "https://allo-frelons.fr/nid-frelon-europeen-hiver",
+      "niveau": 1,
+      "motif": "spot éditorial : lien direct vers le site",
+      "titre": "nid frelon européen hiver",
+      "ancres": [
+        "ALLO FRELONS",
+        "allo-frelons.fr/nid-frelon-europeen-hiver",
+        "nid frelon européen hiver"
+      ]
+    },
+    "etat": "a-traiter",
+    "note": ""
+  },
+  {
+    "url": "https://lefrelon.com/nid-frelon-asiatique-que-faire",
+    "domaine": "lefrelon.com",
+    "hote": "lefrelon.com",
+    "type": "liste-prestataires",
+    "types": [
+      "liste-prestataires"
+    ],
+    "plateforme": "Drupal",
+    "titre": "J'ai trouvé un nid de frelon asiatique : que faire ?",
+    "langue": "fr",
+    "scores": {
+      "seo": 88,
+      "ia": 91,
+      "priorite": 80,
+      "facilite": "contact"
+    },
+    "facilite": "contact",
+    "indexabilite": {
+      "indexable": true,
+      "motifs": [],
+      "googlebot": true,
+      "bingbot": true,
+      "canonique": null
+    },
+    "indexee": "inconnu",
+    "ia": {
+      "autorises": [
+        "GPTBot",
+        "OAI-SearchBot",
+        "ClaudeBot",
+        "PerplexityBot",
+        "Google-Extended"
+      ],
+      "bloques": [],
+      "taux": 100
+    },
+    "liens": {
+      "commentaires": "inconnu",
+      "contenu": "dofollow",
+      "signatures": "inconnu",
+      "auteurs": "inconnu",
+      "externes": 13
+    },
+    "champSiteWeb": false,
+    "captcha": false,
+    "connexionRequise": false,
+    "moderation": false,
+    "commentairesExistants": 0,
+    "widget": "",
+    "contact": null,
+    "lienInscription": null,
+    "concurrentsCites": [],
+    "themes": [
+      "frelon",
+      "frelons",
+      "frelon asiatique",
+      "frelon européen",
+      "guêpes",
+      "désinsectisation",
+      "piqûre",
+      "jardin"
+    ],
+    "zonesTrouvees": [],
+    "nbMots": 2020,
+    "signaux": [
+      "liste : « faire detruire un nid »",
+      "4 lien(s) vers des sites du métier",
+      "liens de la liste : dofollow"
+    ],
+    "origine": {
+      "type": "lien-interne",
+      "detail": "lefrelon.com"
+    },
+    "decouverte": "2026-11-16",
+    "derniereVisite": "2026-11-16T13:41:36.772Z",
+    "statutHttp": 200,
+    "cible": {
+      "url": "https://allo-frelons.fr/nid-frelon-que-faire",
+      "niveau": 1,
+      "motif": "spot éditorial : lien direct vers le site",
+      "titre": "nid frelon que faire",
+      "ancres": [
+        "ALLO FRELONS",
+        "allo-frelons.fr/nid-frelon-que-faire",
+        "nid frelon que faire"
+      ]
+    },
+    "etat": "a-traiter",
+    "note": ""
+  },
+  {
+    "url": "https://lefrelon.com/pieger-les-frelons-asiatiques",
+    "domaine": "lefrelon.com",
+    "hote": "lefrelon.com",
+    "type": "liste-prestataires",
+    "types": [
+      "liste-prestataires"
+    ],
+    "plateforme": "Drupal",
+    "titre": "Piégeage du frelon asiatique : quand, comment et faut-il piéger ?",
+    "langue": "fr",
+    "scores": {
+      "seo": 88,
+      "ia": 91,
+      "priorite": 80,
+      "facilite": "contact"
+    },
+    "facilite": "contact",
+    "indexabilite": {
+      "indexable": true,
+      "motifs": [],
+      "googlebot": true,
+      "bingbot": true,
+      "canonique": null
+    },
+    "indexee": "inconnu",
+    "ia": {
+      "autorises": [
+        "GPTBot",
+        "OAI-SearchBot",
+        "ClaudeBot",
+        "PerplexityBot",
+        "Google-Extended"
+      ],
+      "bloques": [],
+      "taux": 100
+    },
+    "liens": {
+      "commentaires": "inconnu",
+      "contenu": "dofollow",
+      "signatures": "inconnu",
+      "auteurs": "inconnu",
+      "externes": 13
+    },
+    "champSiteWeb": false,
+    "captcha": false,
+    "connexionRequise": false,
+    "moderation": false,
+    "commentairesExistants": 0,
+    "widget": "",
+    "contact": null,
+    "lienInscription": null,
+    "concurrentsCites": [],
+    "themes": [
+      "frelon",
+      "frelons",
+      "frelon asiatique",
+      "frelon européen",
+      "guêpes",
+      "désinsectisation",
+      "abeilles",
+      "insectes"
+    ],
+    "zonesTrouvees": [],
+    "nbMots": 1996,
+    "signaux": [
+      "liste : « destruction des nids »",
+      "4 lien(s) vers des sites du métier",
+      "liens de la liste : dofollow"
+    ],
+    "origine": {
+      "type": "lien-interne",
+      "detail": "lefrelon.com"
+    },
+    "decouverte": "2026-11-16",
+    "derniereVisite": "2026-11-16T13:41:52.748Z",
+    "statutHttp": 200,
+    "cible": {
+      "url": "https://allo-frelons.fr/piegeage-frelons-asiatiques-guide-complet",
+      "niveau": 1,
+      "motif": "spot éditorial : lien direct vers le site",
+      "titre": "Le piégeage des frelons asiatiques: Guide complet",
+      "ancres": [
+        "ALLO FRELONS",
+        "allo-frelons.fr/piegeage-frelons-asiatiques-guide-complet",
+        "Le piégeage des frelons asiatiques: Guide complet"
+      ]
+    },
+    "etat": "a-traiter",
+    "note": ""
+  },
+  {
+    "url": "https://lefrelon.com/proteger-rucher-frelon-asiatique",
+    "domaine": "lefrelon.com",
+    "hote": "lefrelon.com",
+    "type": "liste-prestataires",
+    "types": [
+      "liste-prestataires"
+    ],
+    "plateforme": "Drupal",
+    "titre": "Comment protéger un rucher du frelon asiatique ?",
+    "langue": "fr",
+    "scores": {
+      "seo": 88,
+      "ia": 91,
+      "priorite": 80,
+      "facilite": "contact"
+    },
+    "facilite": "contact",
+    "indexabilite": {
+      "indexable": true,
+      "motifs": [],
+      "googlebot": true,
+      "bingbot": true,
+      "canonique": null
+    },
+    "indexee": "inconnu",
+    "ia": {
+      "autorises": [
+        "GPTBot",
+        "OAI-SearchBot",
+        "ClaudeBot",
+        "PerplexityBot",
+        "Google-Extended"
+      ],
+      "bloques": [],
+      "taux": 100
+    },
+    "liens": {
+      "commentaires": "inconnu",
+      "contenu": "dofollow",
+      "signatures": "inconnu",
+      "auteurs": "inconnu",
+      "externes": 12
+    },
+    "champSiteWeb": false,
+    "captcha": false,
+    "connexionRequise": false,
+    "moderation": false,
+    "commentairesExistants": 0,
+    "widget": "",
+    "contact": null,
+    "lienInscription": null,
+    "concurrentsCites": [],
+    "themes": [
+      "frelon",
+      "frelons",
+      "frelon asiatique",
+      "désinsectisation",
+      "abeilles",
+      "apiculteur",
+      "ruche",
+      "insectes"
+    ],
+    "zonesTrouvees": [],
+    "nbMots": 1851,
+    "signaux": [
+      "liste : « destruction des nids »",
+      "4 lien(s) vers des sites du métier",
+      "liens de la liste : dofollow"
+    ],
+    "origine": {
+      "type": "lien-interne",
+      "detail": "lefrelon.com"
+    },
+    "decouverte": "2026-11-16",
+    "derniereVisite": "2026-11-16T13:41:55.289Z",
+    "statutHttp": 200,
+    "cible": {
+      "url": "https://allo-frelons.fr/abeilles",
+      "niveau": 1,
+      "motif": "spot éditorial : lien direct vers le site",
+      "titre": "Les abeilles. Guide complet et solutions de protection.",
+      "ancres": [
+        "ALLO FRELONS",
+        "allo-frelons.fr/abeilles",
+        "Les abeilles. Guide complet et solutions de protection."
+      ]
+    },
+    "etat": "a-traiter",
+    "note": ""
+  },
+  {
+    "url": "https://lefrelon.com/reconnaitre-frelon-asiatique",
+    "domaine": "lefrelon.com",
+    "hote": "lefrelon.com",
+    "type": "liste-prestataires",
+    "types": [
+      "liste-prestataires"
+    ],
+    "plateforme": "WordPress",
+    "titre": "Comment reconnaître un frelon asiatique ?",
+    "langue": "fr",
+    "scores": {
+      "seo": 88,
+      "ia": 91,
+      "priorite": 80,
+      "facilite": "contact"
+    },
+    "facilite": "contact",
+    "indexabilite": {
+      "indexable": true,
+      "motifs": [],
+      "googlebot": true,
+      "bingbot": true,
+      "canonique": null
+    },
+    "indexee": "inconnu",
+    "ia": {
+      "autorises": [
+        "GPTBot",
+        "OAI-SearchBot",
+        "ClaudeBot",
+        "PerplexityBot",
+        "Google-Extended"
+      ],
+      "bloques": [],
+      "taux": 100
+    },
+    "liens": {
+      "commentaires": "inconnu",
+      "contenu": "dofollow",
+      "signatures": "inconnu",
+      "auteurs": "inconnu",
+      "externes": 12
+    },
+    "champSiteWeb": false,
+    "captcha": false,
+    "connexionRequise": false,
+    "moderation": false,
+    "commentairesExistants": 0,
+    "widget": "",
+    "contact": null,
+    "lienInscription": null,
+    "concurrentsCites": [],
+    "themes": [
+      "frelon",
+      "frelons",
+      "frelon asiatique",
+      "frelon européen",
+      "guêpe",
+      "guêpes",
+      "désinsectisation",
+      "vespa velutina"
+    ],
+    "zonesTrouvees": [],
+    "nbMots": 2395,
+    "signaux": [
+      "3 lien(s) vers des sites du métier",
+      "liens de la liste : dofollow"
+    ],
+    "origine": {
+      "type": "lien-interne",
+      "detail": "lefrelon.com"
+    },
+    "decouverte": "2026-11-16",
+    "derniereVisite": "2026-11-16T13:41:12.350Z",
+    "statutHttp": 200,
+    "cible": {
+      "url": "https://allo-frelons.fr/piqure-de-punaise-de-lit-comment-la-reconnaitre-et-agir",
+      "niveau": 1,
+      "motif": "spot éditorial : lien direct vers le site",
+      "titre": "Bouton de punaise de lit. Comment reconnaitre la piqûre, quoi faire",
+      "ancres": [
+        "ALLO FRELONS",
+        "allo-frelons.fr/piqure-de-punaise-de-lit-comment-la-reconnaitre-et-agir",
+        "Bouton de punaise de lit. Comment reconnaitre la piqûre, quoi faire"
+      ]
+    },
+    "etat": "a-traiter",
+    "note": ""
+  },
+  {
+    "url": "https://lefrelon.com/reglementation-lutte-frelon-asiatique",
+    "domaine": "lefrelon.com",
+    "hote": "lefrelon.com",
+    "type": "liste-prestataires",
+    "types": [
+      "liste-prestataires"
+    ],
+    "plateforme": "",
+    "titre": "Réglementation de la lutte contre le Frelon Asiatique en France",
+    "langue": "fr",
+    "scores": {
+      "seo": 88,
+      "ia": 91,
+      "priorite": 80,
+      "facilite": "contact"
+    },
+    "facilite": "contact",
+    "indexabilite": {
+      "indexable": true,
+      "motifs": [],
+      "googlebot": true,
+      "bingbot": true,
+      "canonique": null
+    },
+    "indexee": "inconnu",
+    "ia": {
+      "autorises": [
+        "GPTBot",
+        "OAI-SearchBot",
+        "ClaudeBot",
+        "PerplexityBot",
+        "Google-Extended"
+      ],
+      "bloques": [],
+      "taux": 100
+    },
+    "liens": {
+      "commentaires": "inconnu",
+      "contenu": "dofollow",
+      "signatures": "inconnu",
+      "auteurs": "inconnu",
+      "externes": 13
+    },
+    "champSiteWeb": false,
+    "captcha": false,
+    "connexionRequise": false,
+    "moderation": false,
+    "commentairesExistants": 0,
+    "widget": "",
+    "contact": null,
+    "lienInscription": null,
+    "concurrentsCites": [],
+    "themes": [
+      "frelon",
+      "frelons",
+      "frelon asiatique",
+      "nid de frelons",
+      "désinsectisation",
+      "vespa velutina",
+      "nature",
+      "biodiversité"
+    ],
+    "zonesTrouvees": [],
+    "nbMots": 2200,
+    "signaux": [
+      "liste : « destruction des nids »",
+      "2 lien(s) vers des sites du métier",
+      "liens de la liste : dofollow"
+    ],
+    "origine": {
+      "type": "lien-interne",
+      "detail": "lefrelon.com"
+    },
+    "decouverte": "2026-11-16",
+    "derniereVisite": "2026-11-16T13:41:46.821Z",
+    "statutHttp": 200,
+    "cible": {
+      "url": "https://allo-frelons.fr/frelon-asiatique",
+      "niveau": 1,
+      "motif": "spot éditorial : lien direct vers le site",
+      "titre": "Frelon Asiatique : Identifier, Lutter & Protéger vos Ruches",
+      "ancres": [
+        "ALLO FRELONS",
+        "allo-frelons.fr/frelon-asiatique",
+        "Frelon Asiatique : Identifier, Lutter & Protéger vos Ruches"
       ]
     },
     "etat": "a-traiter",
@@ -8255,6 +9527,96 @@
       "ancres": [
         "ALLO FRELONS",
         "allo-frelons.fr/allofrelons27"
+      ]
+    },
+    "etat": "a-traiter",
+    "note": ""
+  },
+  {
+    "url": "https://www.apiculture-france.com/portal",
+    "domaine": "apiculture-france.com",
+    "hote": "apiculture-france.com",
+    "type": "forum",
+    "types": [
+      "forum"
+    ],
+    "plateforme": "phpBB",
+    "titre": "forum : abeilles et apiculture - Portail",
+    "langue": "fr",
+    "scores": {
+      "seo": 64,
+      "ia": 84,
+      "priorite": 70,
+      "facilite": "inscription"
+    },
+    "facilite": "inscription",
+    "indexabilite": {
+      "indexable": true,
+      "motifs": [],
+      "googlebot": true,
+      "bingbot": true,
+      "canonique": null
+    },
+    "indexee": "inconnu",
+    "ia": {
+      "autorises": [
+        "GPTBot",
+        "OAI-SearchBot",
+        "ClaudeBot",
+        "PerplexityBot",
+        "Google-Extended"
+      ],
+      "bloques": [],
+      "taux": 83
+    },
+    "liens": {
+      "commentaires": "inconnu",
+      "contenu": "dofollow",
+      "signatures": "inconnu",
+      "auteurs": "inconnu",
+      "externes": 15
+    },
+    "champSiteWeb": false,
+    "captcha": false,
+    "connexionRequise": false,
+    "moderation": false,
+    "commentairesExistants": 0,
+    "widget": "",
+    "contact": null,
+    "lienInscription": "https://www.apiculture-france.com/register",
+    "concurrentsCites": [],
+    "themes": [
+      "frelons",
+      "abeilles",
+      "apiculture",
+      "apiculteur",
+      "ruche"
+    ],
+    "zonesTrouvees": [
+      "Bretagne"
+    ],
+    "nbMots": 935,
+    "signaux": [
+      "forum phpBB",
+      "liens dans les messages : dofollow"
+    ],
+    "origine": {
+      "type": "lien-interne",
+      "detail": "apiculture-france.com"
+    },
+    "decouverte": "2026-11-16",
+    "derniereVisite": "2026-11-16T13:43:50.304Z",
+    "statutHttp": 200,
+    "cible": {
+      "url": "https://allo-frelons.fr/abeilles",
+      "niveau": 1,
+      "motif": "score SEO 64 ≥ 60, liens dofollow",
+      "titre": "Les abeilles. Guide complet et solutions de protection.",
+      "ancres": [
+        "ALLO FRELONS",
+        "allo-frelons.fr/abeilles",
+        "Les abeilles. Guide complet et solutions de protection.",
+        "ALLO FRELONS Bretagne"
       ]
     },
     "etat": "a-traiter",
@@ -17065,6 +18427,393 @@
     "note": ""
   },
   {
+    "url": "https://www.consultations-publiques.developpement-durable.gouv.fr/plan-national-de-lutte-contre-le-frelon-asiatique-a3336.html?debut_forums=20",
+    "domaine": "developpement-durable.gouv.fr",
+    "hote": "consultations-publiques.developpement-durable.gouv.fr",
+    "type": "liste-prestataires",
+    "types": [
+      "liste-prestataires"
+    ],
+    "plateforme": "SPIP",
+    "titre": "Plan national de lutte contre le frelon asiatique à pattes jaunes (Consultation terminée) | Consultations publiques",
+    "langue": "fr",
+    "scores": {
+      "seo": 54,
+      "ia": 93,
+      "priorite": 62,
+      "facilite": "contact"
+    },
+    "facilite": "contact",
+    "indexabilite": {
+      "indexable": false,
+      "motifs": [
+        "canonique vers https://www.consultations-publiques.developpement-durable.gouv.fr/plan-national-de-lutte-contre-le-frelon-asiatique-a3336.html"
+      ],
+      "googlebot": true,
+      "bingbot": true,
+      "canonique": "https://www.consultations-publiques.developpement-durable.gouv.fr/plan-national-de-lutte-contre-le-frelon-asiatique-a3336.html"
+    },
+    "indexee": "inconnu",
+    "ia": {
+      "autorises": [
+        "GPTBot",
+        "OAI-SearchBot",
+        "ClaudeBot",
+        "PerplexityBot",
+        "Google-Extended"
+      ],
+      "bloques": [],
+      "taux": 100
+    },
+    "liens": {
+      "commentaires": "inconnu",
+      "contenu": "dofollow",
+      "signatures": "inconnu",
+      "auteurs": "inconnu",
+      "externes": 8
+    },
+    "champSiteWeb": false,
+    "captcha": false,
+    "connexionRequise": false,
+    "moderation": false,
+    "commentairesExistants": 0,
+    "widget": "",
+    "contact": null,
+    "lienInscription": null,
+    "concurrentsCites": [],
+    "themes": [
+      "frelon",
+      "frelons",
+      "frelon asiatique",
+      "guêpes",
+      "vespa velutina",
+      "abeilles",
+      "apiculteur",
+      "insecte"
+    ],
+    "zonesTrouvees": [
+      "Corrèze",
+      "Lot-et-Garonne",
+      "Savoie",
+      "Haute-Savoie"
+    ],
+    "nbMots": 3238,
+    "signaux": [
+      "liste : « destruction des nids »",
+      "3 lien(s) vers des sites du métier",
+      "liens de la liste : dofollow"
+    ],
+    "origine": {
+      "type": "lien-interne",
+      "detail": "consultations-publiques.developpement-durable.gouv.fr"
+    },
+    "decouverte": "2026-11-16",
+    "derniereVisite": "2026-11-16T13:41:21.500Z",
+    "statutHttp": 200,
+    "cible": {
+      "url": "https://allo-frelons.fr/newsroom/piegeage-frelon-asiatique-plan-national",
+      "niveau": 1,
+      "motif": "spot éditorial : lien direct vers le site",
+      "titre": "",
+      "ancres": [
+        "ALLO FRELONS",
+        "allo-frelons.fr/newsroom/piegeage-frelon-asiatique-plan-national",
+        "ALLO FRELONS Corrèze"
+      ]
+    },
+    "etat": "a-traiter",
+    "note": ""
+  },
+  {
+    "url": "https://www.consultations-publiques.developpement-durable.gouv.fr/plan-national-de-lutte-contre-le-frelon-asiatique-a3336.html?debut_forums=300",
+    "domaine": "developpement-durable.gouv.fr",
+    "hote": "consultations-publiques.developpement-durable.gouv.fr",
+    "type": "liste-prestataires",
+    "types": [
+      "liste-prestataires"
+    ],
+    "plateforme": "SPIP",
+    "titre": "Plan national de lutte contre le frelon asiatique à pattes jaunes (Consultation terminée) | Consultations publiques",
+    "langue": "fr",
+    "scores": {
+      "seo": 54,
+      "ia": 93,
+      "priorite": 62,
+      "facilite": "contact"
+    },
+    "facilite": "contact",
+    "indexabilite": {
+      "indexable": false,
+      "motifs": [
+        "canonique vers https://www.consultations-publiques.developpement-durable.gouv.fr/plan-national-de-lutte-contre-le-frelon-asiatique-a3336.html"
+      ],
+      "googlebot": true,
+      "bingbot": true,
+      "canonique": "https://www.consultations-publiques.developpement-durable.gouv.fr/plan-national-de-lutte-contre-le-frelon-asiatique-a3336.html"
+    },
+    "indexee": "inconnu",
+    "ia": {
+      "autorises": [
+        "GPTBot",
+        "OAI-SearchBot",
+        "ClaudeBot",
+        "PerplexityBot",
+        "Google-Extended"
+      ],
+      "bloques": [],
+      "taux": 100
+    },
+    "liens": {
+      "commentaires": "inconnu",
+      "contenu": "dofollow",
+      "signatures": "inconnu",
+      "auteurs": "inconnu",
+      "externes": 8
+    },
+    "champSiteWeb": false,
+    "captcha": false,
+    "connexionRequise": false,
+    "moderation": false,
+    "commentairesExistants": 0,
+    "widget": "",
+    "contact": null,
+    "lienInscription": null,
+    "concurrentsCites": [],
+    "themes": [
+      "frelon",
+      "frelons",
+      "frelon asiatique",
+      "guêpes",
+      "vespa velutina",
+      "insectes",
+      "nature",
+      "biodiversité"
+    ],
+    "zonesTrouvees": [
+      "Lot-et-Garonne"
+    ],
+    "nbMots": 1135,
+    "signaux": [
+      "liste : « destruction des nids »",
+      "3 lien(s) vers des sites du métier",
+      "liens de la liste : dofollow"
+    ],
+    "origine": {
+      "type": "lien-interne",
+      "detail": "consultations-publiques.developpement-durable.gouv.fr"
+    },
+    "decouverte": "2026-11-16",
+    "derniereVisite": "2026-11-16T13:41:26.305Z",
+    "statutHttp": 200,
+    "cible": {
+      "url": "https://allo-frelons.fr/newsroom/piegeage-frelon-asiatique-plan-national",
+      "niveau": 1,
+      "motif": "spot éditorial : lien direct vers le site",
+      "titre": "",
+      "ancres": [
+        "ALLO FRELONS",
+        "allo-frelons.fr/newsroom/piegeage-frelon-asiatique-plan-national",
+        "ALLO FRELONS Lot-et-Garonne"
+      ]
+    },
+    "etat": "a-traiter",
+    "note": ""
+  },
+  {
+    "url": "https://www.consultations-publiques.developpement-durable.gouv.fr/plan-national-de-lutte-contre-le-frelon-asiatique-a3336.html?debut_forums=303",
+    "domaine": "developpement-durable.gouv.fr",
+    "hote": "consultations-publiques.developpement-durable.gouv.fr",
+    "type": "liste-prestataires",
+    "types": [
+      "liste-prestataires"
+    ],
+    "plateforme": "SPIP",
+    "titre": "Plan national de lutte contre le frelon asiatique à pattes jaunes (Consultation terminée) | Consultations publiques",
+    "langue": "fr",
+    "scores": {
+      "seo": 54,
+      "ia": 93,
+      "priorite": 62,
+      "facilite": "contact"
+    },
+    "facilite": "contact",
+    "indexabilite": {
+      "indexable": false,
+      "motifs": [
+        "canonique vers https://www.consultations-publiques.developpement-durable.gouv.fr/plan-national-de-lutte-contre-le-frelon-asiatique-a3336.html"
+      ],
+      "googlebot": true,
+      "bingbot": true,
+      "canonique": "https://www.consultations-publiques.developpement-durable.gouv.fr/plan-national-de-lutte-contre-le-frelon-asiatique-a3336.html"
+    },
+    "indexee": "inconnu",
+    "ia": {
+      "autorises": [
+        "GPTBot",
+        "OAI-SearchBot",
+        "ClaudeBot",
+        "PerplexityBot",
+        "Google-Extended"
+      ],
+      "bloques": [],
+      "taux": 100
+    },
+    "liens": {
+      "commentaires": "inconnu",
+      "contenu": "dofollow",
+      "signatures": "inconnu",
+      "auteurs": "inconnu",
+      "externes": 8
+    },
+    "champSiteWeb": false,
+    "captcha": false,
+    "connexionRequise": false,
+    "moderation": false,
+    "commentairesExistants": 0,
+    "widget": "",
+    "contact": null,
+    "lienInscription": null,
+    "concurrentsCites": [],
+    "themes": [
+      "frelon",
+      "frelons",
+      "frelon asiatique",
+      "guêpes",
+      "vespa velutina",
+      "insectes",
+      "nature",
+      "biodiversité"
+    ],
+    "zonesTrouvees": [
+      "Lot-et-Garonne"
+    ],
+    "nbMots": 1135,
+    "signaux": [
+      "liste : « destruction des nids »",
+      "3 lien(s) vers des sites du métier",
+      "liens de la liste : dofollow"
+    ],
+    "origine": {
+      "type": "lien-interne",
+      "detail": "consultations-publiques.developpement-durable.gouv.fr"
+    },
+    "decouverte": "2026-11-16",
+    "derniereVisite": "2026-11-16T13:41:28.769Z",
+    "statutHttp": 200,
+    "cible": {
+      "url": "https://allo-frelons.fr/newsroom/piegeage-frelon-asiatique-plan-national",
+      "niveau": 1,
+      "motif": "spot éditorial : lien direct vers le site",
+      "titre": "",
+      "ancres": [
+        "ALLO FRELONS",
+        "allo-frelons.fr/newsroom/piegeage-frelon-asiatique-plan-national",
+        "ALLO FRELONS Lot-et-Garonne"
+      ]
+    },
+    "etat": "a-traiter",
+    "note": ""
+  },
+  {
+    "url": "https://www.consultations-publiques.developpement-durable.gouv.fr/plan-national-de-lutte-contre-le-frelon-asiatique-a3336.html?debut_forums=40",
+    "domaine": "developpement-durable.gouv.fr",
+    "hote": "consultations-publiques.developpement-durable.gouv.fr",
+    "type": "liste-prestataires",
+    "types": [
+      "liste-prestataires"
+    ],
+    "plateforme": "SPIP",
+    "titre": "Plan national de lutte contre le frelon asiatique à pattes jaunes (Consultation terminée) | Consultations publiques",
+    "langue": "fr",
+    "scores": {
+      "seo": 54,
+      "ia": 93,
+      "priorite": 62,
+      "facilite": "contact"
+    },
+    "facilite": "contact",
+    "indexabilite": {
+      "indexable": false,
+      "motifs": [
+        "canonique vers https://www.consultations-publiques.developpement-durable.gouv.fr/plan-national-de-lutte-contre-le-frelon-asiatique-a3336.html"
+      ],
+      "googlebot": true,
+      "bingbot": true,
+      "canonique": "https://www.consultations-publiques.developpement-durable.gouv.fr/plan-national-de-lutte-contre-le-frelon-asiatique-a3336.html"
+    },
+    "indexee": "inconnu",
+    "ia": {
+      "autorises": [
+        "GPTBot",
+        "OAI-SearchBot",
+        "ClaudeBot",
+        "PerplexityBot",
+        "Google-Extended"
+      ],
+      "bloques": [],
+      "taux": 100
+    },
+    "liens": {
+      "commentaires": "inconnu",
+      "contenu": "dofollow",
+      "signatures": "inconnu",
+      "auteurs": "inconnu",
+      "externes": 8
+    },
+    "champSiteWeb": false,
+    "captcha": false,
+    "connexionRequise": false,
+    "moderation": false,
+    "commentairesExistants": 0,
+    "widget": "",
+    "contact": null,
+    "lienInscription": null,
+    "concurrentsCites": [],
+    "themes": [
+      "frelon",
+      "frelons",
+      "frelon asiatique",
+      "guêpes",
+      "vespa velutina",
+      "abeille",
+      "abeilles",
+      "apiculture"
+    ],
+    "zonesTrouvees": [
+      "Bourgogne",
+      "Normandie",
+      "Nouvelle-Aquitaine",
+      "Calvados",
+      "Lot-et-Garonne"
+    ],
+    "nbMots": 4621,
+    "signaux": [
+      "liste : « destruction des nids »",
+      "3 lien(s) vers des sites du métier",
+      "liens de la liste : dofollow"
+    ],
+    "origine": {
+      "type": "lien-interne",
+      "detail": "consultations-publiques.developpement-durable.gouv.fr"
+    },
+    "decouverte": "2026-11-16",
+    "derniereVisite": "2026-11-16T13:41:23.896Z",
+    "statutHttp": 200,
+    "cible": {
+      "url": "https://allo-frelons.fr/newsroom/piegeage-frelon-asiatique-plan-national",
+      "niveau": 1,
+      "motif": "spot éditorial : lien direct vers le site",
+      "titre": "",
+      "ancres": [
+        "ALLO FRELONS",
+        "allo-frelons.fr/newsroom/piegeage-frelon-asiatique-plan-national",
+        "ALLO FRELONS Bourgogne"
+      ]
+    },
+    "etat": "a-traiter",
+    "note": ""
+  },
+  {
     "url": "https://www.econologie.com/forums/non-lu.html",
     "domaine": "econologie.com",
     "hote": "econologie.com",
@@ -25484,6 +27233,89 @@
         "ALLO FRELONS",
         "allo-frelons.fr",
         "ALLO FRELONS Charente"
+      ]
+    },
+    "etat": "a-traiter",
+    "note": ""
+  },
+  {
+    "url": "https://lefrelon.tech/demande-acces",
+    "domaine": "lefrelon.tech",
+    "hote": "lefrelon.tech",
+    "type": "annuaire",
+    "types": [
+      "annuaire"
+    ],
+    "plateforme": "",
+    "titre": "Demander un accès à l&#39;API · lefrelon.tech",
+    "langue": "fr",
+    "scores": {
+      "seo": 49,
+      "ia": 48,
+      "priorite": 54,
+      "facilite": "immediate"
+    },
+    "facilite": "immediate",
+    "indexabilite": {
+      "indexable": true,
+      "motifs": [],
+      "googlebot": true,
+      "bingbot": true,
+      "canonique": null
+    },
+    "indexee": "inconnu",
+    "ia": {
+      "autorises": [
+        "GPTBot",
+        "OAI-SearchBot",
+        "ClaudeBot",
+        "PerplexityBot",
+        "Google-Extended"
+      ],
+      "bloques": [],
+      "taux": 100
+    },
+    "liens": {
+      "commentaires": "inconnu",
+      "contenu": "dofollow",
+      "signatures": "inconnu",
+      "auteurs": "inconnu",
+      "externes": 5
+    },
+    "champSiteWeb": true,
+    "captcha": true,
+    "connexionRequise": false,
+    "moderation": false,
+    "commentairesExistants": 0,
+    "widget": "",
+    "contact": null,
+    "lienInscription": null,
+    "concurrentsCites": [],
+    "themes": [
+      "désinsectisation"
+    ],
+    "zonesTrouvees": [],
+    "nbMots": 130,
+    "signaux": [
+      "formulaire d'ajout (url+description)",
+      "captcha détecté sur la page"
+    ],
+    "origine": {
+      "type": "utile",
+      "detail": "page-liens"
+    },
+    "decouverte": "2026-11-16",
+    "derniereVisite": "2026-11-16T13:42:08.759Z",
+    "statutHttp": 200,
+    "cible": {
+      "url": "https://allo-frelons.fr/entreprise-frelons-guepes-frelon-asiatique-jura-39",
+      "niveau": 1,
+      "motif": "spot éditorial : lien direct vers le site",
+      "titre": "Destruction des nids de frelons et de guêpes dans le Jura, 39",
+      "ancres": [
+        "ALLO FRELONS",
+        "allo-frelons.fr/entreprise-frelons-guepes-frelon-asiatique-jura-39",
+        "Destruction des nids de frelons et de guêpes dans le Jura, 39"
       ]
     },
     "etat": "a-traiter",
@@ -33973,6 +35805,92 @@
     "note": ""
   },
   {
+    "url": "http://www.blablaland.com/partners.php?cid=44",
+    "domaine": "blablaland.com",
+    "hote": "blablaland.com",
+    "type": "article-invite",
+    "types": [
+      "forum",
+      "article-invite"
+    ],
+    "plateforme": "phpBB",
+    "titre": "Partenaires de forums : comment bâtir un réseau solide autour de votre communauté en ligne",
+    "langue": "fr",
+    "scores": {
+      "seo": 42,
+      "ia": 68,
+      "priorite": 47,
+      "facilite": "contact"
+    },
+    "facilite": "contact",
+    "indexabilite": {
+      "indexable": true,
+      "motifs": [],
+      "googlebot": true,
+      "bingbot": true,
+      "canonique": null
+    },
+    "indexee": "inconnu",
+    "ia": {
+      "autorises": [
+        "GPTBot",
+        "OAI-SearchBot",
+        "ClaudeBot",
+        "PerplexityBot",
+        "Google-Extended"
+      ],
+      "bloques": [],
+      "taux": 100
+    },
+    "liens": {
+      "commentaires": "inconnu",
+      "contenu": "inconnu",
+      "signatures": "inconnu",
+      "auteurs": "inconnu",
+      "externes": 0
+    },
+    "champSiteWeb": false,
+    "captcha": false,
+    "connexionRequise": false,
+    "moderation": false,
+    "commentairesExistants": 0,
+    "widget": "",
+    "contact": null,
+    "lienInscription": "http://www.blablaland.com/site/inscription.php",
+    "concurrentsCites": [],
+    "themes": [
+      "nature"
+    ],
+    "zonesTrouvees": [
+      "Allier"
+    ],
+    "nbMots": 2905,
+    "signaux": [
+      "forum phpBB",
+      "contribution proposée : « publier un article »"
+    ],
+    "origine": {
+      "type": "lien-externe",
+      "detail": "depuis apiculture-france.com"
+    },
+    "decouverte": "2026-11-16",
+    "derniereVisite": "2026-11-16T13:43:56.297Z",
+    "statutHttp": 200,
+    "cible": {
+      "url": "https://allo-frelons.fr/",
+      "niveau": 1,
+      "motif": "spot éditorial : lien direct vers le site",
+      "titre": "ALLO FRELONS",
+      "ancres": [
+        "ALLO FRELONS",
+        "allo-frelons.fr",
+        "ALLO FRELONS Allier"
+      ]
+    },
+    "etat": "a-traiter",
+    "note": ""
+  },
+  {
     "url": "https://annuairedujardin.fr/bassins-de-jardin/bassin-de-jardin-koi-prestige-com-s31.html",
     "domaine": "annuairedujardin.fr",
     "hote": "annuairedujardin.fr",
@@ -35593,6 +37511,93 @@
     "note": ""
   },
   {
+    "url": "https://www.lobservateur.fr/signaler-contenu-illicite-eronne/",
+    "domaine": "lobservateur.fr",
+    "hote": "lobservateur.fr",
+    "type": "annuaire",
+    "types": [
+      "annuaire"
+    ],
+    "plateforme": "WordPress",
+    "titre": "Signaler un contenu illicite ou erroné",
+    "langue": "fr-fr",
+    "scores": {
+      "seo": 40,
+      "ia": 44,
+      "priorite": 47,
+      "facilite": "immediate"
+    },
+    "facilite": "immediate",
+    "indexabilite": {
+      "indexable": true,
+      "motifs": [],
+      "googlebot": true,
+      "bingbot": true,
+      "canonique": null
+    },
+    "indexee": "inconnu",
+    "ia": {
+      "autorises": [
+        "OAI-SearchBot",
+        "ClaudeBot",
+        "PerplexityBot"
+      ],
+      "bloques": [
+        "GPTBot",
+        "Google-Extended"
+      ],
+      "taux": 61
+    },
+    "liens": {
+      "commentaires": "inconnu",
+      "contenu": "inconnu",
+      "signatures": "inconnu",
+      "auteurs": "inconnu",
+      "externes": 6
+    },
+    "champSiteWeb": true,
+    "captcha": true,
+    "connexionRequise": false,
+    "moderation": false,
+    "commentairesExistants": 0,
+    "widget": "",
+    "contact": null,
+    "lienInscription": null,
+    "concurrentsCites": [],
+    "themes": [],
+    "zonesTrouvees": [
+      "Pas-de-Calais",
+      "Hauts-de-France",
+      "Aisne"
+    ],
+    "nbMots": 243,
+    "signaux": [
+      "formulaire d'ajout (url+description)",
+      "captcha sur le formulaire",
+      "captcha détecté sur la page"
+    ],
+    "origine": {
+      "type": "lien-interne",
+      "detail": "lobservateur.fr"
+    },
+    "decouverte": "2026-11-16",
+    "derniereVisite": "2026-11-16T13:43:32.619Z",
+    "statutHttp": 200,
+    "cible": {
+      "url": "https://allo-frelons.fr/",
+      "niveau": 1,
+      "motif": "spot éditorial : lien direct vers le site",
+      "titre": "ALLO FRELONS",
+      "ancres": [
+        "ALLO FRELONS",
+        "allo-frelons.fr",
+        "ALLO FRELONS Pas-de-Calais"
+      ]
+    },
+    "etat": "a-traiter",
+    "note": ""
+  },
+  {
     "url": "https://www.promessedefleurs.com/conseil-plantes-jardin/blog/inclassable/comment-rater-son-paillage-a-coup-sur/?redir-fix=1",
     "domaine": "promessedefleurs.com",
     "hote": "promessedefleurs.com",
@@ -36016,6 +38021,93 @@
     "note": ""
   },
   {
+    "url": "https://forum.soluty.com/",
+    "domaine": "soluty.com",
+    "hote": "forum.soluty.com",
+    "type": "forum",
+    "types": [
+      "forum"
+    ],
+    "plateforme": "Flarum",
+    "titre": "",
+    "langue": "",
+    "scores": {
+      "seo": 35,
+      "ia": 63,
+      "priorite": 46,
+      "facilite": "inscription"
+    },
+    "facilite": "inscription",
+    "indexabilite": {
+      "indexable": true,
+      "motifs": [],
+      "googlebot": true,
+      "bingbot": true,
+      "canonique": null
+    },
+    "indexee": "inconnu",
+    "ia": {
+      "autorises": [
+        "GPTBot",
+        "OAI-SearchBot",
+        "ClaudeBot",
+        "PerplexityBot",
+        "Google-Extended"
+      ],
+      "bloques": [],
+      "taux": 100
+    },
+    "liens": {
+      "commentaires": "inconnu",
+      "contenu": "inconnu",
+      "signatures": "inconnu",
+      "auteurs": "inconnu",
+      "externes": 0
+    },
+    "champSiteWeb": false,
+    "captcha": false,
+    "connexionRequise": false,
+    "moderation": false,
+    "commentairesExistants": 0,
+    "widget": "",
+    "contact": null,
+    "lienInscription": null,
+    "concurrentsCites": [],
+    "themes": [],
+    "zonesTrouvees": [
+      "Isère",
+      "Bas-Rhin",
+      "Manche",
+      "Dordogne",
+      "Gard",
+      "Tarn"
+    ],
+    "nbMots": 230,
+    "signaux": [
+      "forum Flarum"
+    ],
+    "origine": {
+      "type": "lien-interne",
+      "detail": "soluty.com"
+    },
+    "decouverte": "2026-11-16",
+    "derniereVisite": "2026-11-16T13:40:56.057Z",
+    "statutHttp": 200,
+    "cible": {
+      "url": "https://www.habitatpresto.com/mag/renovation/deratisation-desinfection/eliminer-nid-guepes",
+      "niveau": 2,
+      "motif": "score SEO 35 < 60",
+      "titre": "Nid de guêpes : 4 solutions efficaces pour s’en débarrasser",
+      "ancres": [
+        "Nid de guêpes : 4 solutions efficaces pour s’en débarrasser",
+        "www.habitatpresto.com/mag/renovation/deratisation-desinfection/eliminer-nid-guepes",
+        "cet article"
+      ]
+    },
+    "etat": "a-traiter",
+    "note": ""
+  },
+  {
     "url": "https://forums.futura-sciences.com/jardinage/960802-zygocactus.html",
     "domaine": "futura-sciences.com",
     "hote": "forums.futura-sciences.com",
@@ -36336,6 +38428,91 @@
     },
     "decouverte": "2026-09-26",
     "derniereVisite": "2026-09-26T15:44:32.839Z",
+    "statutHttp": 200,
+    "cible": {
+      "url": "https://observatoire-biodiversite-npdc.fr/especes/frelon-asiatique/",
+      "niveau": 2,
+      "motif": "spot de masse : renforcer une page relais plutôt que le site principal",
+      "titre": "Frelon asiatique (Vespa velutina nigrithorax) — Observatoire de la biodiversité du Nord–Pas-de-Calais",
+      "ancres": [
+        "Frelon asiatique (Vespa velutina nigrithorax) — Observatoire de la biodiversité du Nord–Pas-de-Calais",
+        "observatoire-biodiversite-npdc.fr/especes/frelon-asiatique",
+        "cet article"
+      ]
+    },
+    "etat": "a-traiter",
+    "note": ""
+  },
+  {
+    "url": "https://lefrelon.com/signalement-frelons-asiatiques",
+    "domaine": "lefrelon.com",
+    "hote": "lefrelon.com",
+    "type": "livre-dor",
+    "types": [
+      "livre-dor"
+    ],
+    "plateforme": "",
+    "titre": "Signaler le Frelon Asiatique",
+    "langue": "fr",
+    "scores": {
+      "seo": 35,
+      "ia": 47,
+      "priorite": 46,
+      "facilite": "immediate"
+    },
+    "facilite": "immediate",
+    "indexabilite": {
+      "indexable": true,
+      "motifs": [],
+      "googlebot": true,
+      "bingbot": true,
+      "canonique": null
+    },
+    "indexee": "inconnu",
+    "ia": {
+      "autorises": [
+        "GPTBot",
+        "OAI-SearchBot",
+        "ClaudeBot",
+        "PerplexityBot",
+        "Google-Extended"
+      ],
+      "bloques": [],
+      "taux": 100
+    },
+    "liens": {
+      "commentaires": "inconnu",
+      "contenu": "inconnu",
+      "signatures": "inconnu",
+      "auteurs": "inconnu",
+      "externes": 0
+    },
+    "champSiteWeb": false,
+    "captcha": true,
+    "connexionRequise": false,
+    "moderation": false,
+    "commentairesExistants": 0,
+    "widget": "",
+    "contact": null,
+    "lienInscription": null,
+    "concurrentsCites": [],
+    "themes": [
+      "frelon",
+      "frelons",
+      "frelon asiatique"
+    ],
+    "zonesTrouvees": [],
+    "nbMots": 320,
+    "signaux": [
+      "formulaire de livre d'or",
+      "captcha détecté sur la page"
+    ],
+    "origine": {
+      "type": "lien-interne",
+      "detail": "lefrelon.com"
+    },
+    "decouverte": "2026-11-16",
+    "derniereVisite": "2026-11-16T13:42:00.102Z",
     "statutHttp": 200,
     "cible": {
       "url": "https://observatoire-biodiversite-npdc.fr/especes/frelon-asiatique/",
@@ -37046,6 +39223,90 @@
         "ALLO FRELONS",
         "allo-frelons.fr/entreprise-de-destruction-des-nids-de-guepes-et-frelons-a-amiens-80-intervention-professionnelle-pour-votre-tranquillite",
         "ALLO FRELONS Nord"
+      ]
+    },
+    "etat": "a-traiter",
+    "note": ""
+  },
+  {
+    "url": "https://www.annonces-legales.fr/static/partenaires",
+    "domaine": "annonces-legales.fr",
+    "hote": "annonces-legales.fr",
+    "type": "page-liens",
+    "types": [
+      "page-liens"
+    ],
+    "plateforme": "",
+    "titre": "ANNONCES LEGALES : Avec JAL annoncez au meilleur prix",
+    "langue": "fr",
+    "scores": {
+      "seo": 49,
+      "ia": 55,
+      "priorite": 46,
+      "facilite": "contact"
+    },
+    "facilite": "contact",
+    "indexabilite": {
+      "indexable": true,
+      "motifs": [],
+      "googlebot": true,
+      "bingbot": true,
+      "canonique": null
+    },
+    "indexee": "inconnu",
+    "ia": {
+      "autorises": [
+        "GPTBot",
+        "OAI-SearchBot",
+        "ClaudeBot",
+        "PerplexityBot",
+        "Google-Extended"
+      ],
+      "bloques": [],
+      "taux": 100
+    },
+    "liens": {
+      "commentaires": "inconnu",
+      "contenu": "dofollow",
+      "signatures": "inconnu",
+      "auteurs": "inconnu",
+      "externes": 14
+    },
+    "champSiteWeb": false,
+    "captcha": false,
+    "connexionRequise": false,
+    "moderation": false,
+    "commentairesExistants": 0,
+    "widget": "",
+    "contact": null,
+    "lienInscription": null,
+    "concurrentsCites": [],
+    "themes": [],
+    "zonesTrouvees": [
+      "Paris",
+      "Île-de-France"
+    ],
+    "nbMots": 491,
+    "signaux": [
+      "page de liens (14 liens externes)",
+      "liens de la page : dofollow"
+    ],
+    "origine": {
+      "type": "utile",
+      "detail": "page-liens"
+    },
+    "decouverte": "2026-11-16",
+    "derniereVisite": "2026-11-16T13:43:02.811Z",
+    "statutHttp": 200,
+    "cible": {
+      "url": "https://allo-frelons.fr/",
+      "niveau": 1,
+      "motif": "spot éditorial : lien direct vers le site",
+      "titre": "ALLO FRELONS",
+      "ancres": [
+        "ALLO FRELONS",
+        "allo-frelons.fr",
+        "ALLO FRELONS Paris"
       ]
     },
     "etat": "a-traiter",
@@ -41638,6 +43899,330 @@
     "note": ""
   },
   {
+    "url": "http://www.blablaland.com/forum/viewtopic.php?id=54470&action=new",
+    "domaine": "blablaland.com",
+    "hote": "blablaland.com",
+    "type": "forum",
+    "types": [
+      "forum"
+    ],
+    "plateforme": "phpBB",
+    "titre": "Créer un nouveau sujet sur un forum : guide complet pour réussir vos discussions en ligne",
+    "langue": "fr",
+    "scores": {
+      "seo": 30,
+      "ia": 60,
+      "priorite": 43,
+      "facilite": "inscription"
+    },
+    "facilite": "inscription",
+    "indexabilite": {
+      "indexable": true,
+      "motifs": [],
+      "googlebot": true,
+      "bingbot": true,
+      "canonique": null
+    },
+    "indexee": "inconnu",
+    "ia": {
+      "autorises": [
+        "GPTBot",
+        "OAI-SearchBot",
+        "ClaudeBot",
+        "PerplexityBot",
+        "Google-Extended"
+      ],
+      "bloques": [],
+      "taux": 100
+    },
+    "liens": {
+      "commentaires": "inconnu",
+      "contenu": "inconnu",
+      "signatures": "inconnu",
+      "auteurs": "inconnu",
+      "externes": 0
+    },
+    "champSiteWeb": false,
+    "captcha": false,
+    "connexionRequise": false,
+    "moderation": false,
+    "commentairesExistants": 0,
+    "widget": "",
+    "contact": null,
+    "lienInscription": null,
+    "concurrentsCites": [],
+    "themes": [],
+    "zonesTrouvees": [],
+    "nbMots": 1816,
+    "signaux": [
+      "forum phpBB"
+    ],
+    "origine": {
+      "type": "lien-interne",
+      "detail": "blablaland.com"
+    },
+    "decouverte": "2026-11-16",
+    "derniereVisite": "2026-11-16T13:44:06.271Z",
+    "statutHttp": 200,
+    "cible": {
+      "url": "https://www.habitatpresto.com/mag/renovation/deratisation-desinfection/eliminer-nid-guepes",
+      "niveau": 2,
+      "motif": "score SEO 30 < 60",
+      "titre": "Nid de guêpes : 4 solutions efficaces pour s’en débarrasser",
+      "ancres": [
+        "Nid de guêpes : 4 solutions efficaces pour s’en débarrasser",
+        "www.habitatpresto.com/mag/renovation/deratisation-desinfection/eliminer-nid-guepes",
+        "cet article"
+      ]
+    },
+    "etat": "a-traiter",
+    "note": ""
+  },
+  {
+    "url": "http://www.blablaland.com/forum/viewtopic.php?id=54652&action=new",
+    "domaine": "blablaland.com",
+    "hote": "blablaland.com",
+    "type": "forum",
+    "types": [
+      "forum"
+    ],
+    "plateforme": "phpBB",
+    "titre": "Créer un nouveau sujet sur un forum : guide complet pour bien débuter",
+    "langue": "fr",
+    "scores": {
+      "seo": 30,
+      "ia": 60,
+      "priorite": 43,
+      "facilite": "inscription"
+    },
+    "facilite": "inscription",
+    "indexabilite": {
+      "indexable": true,
+      "motifs": [],
+      "googlebot": true,
+      "bingbot": true,
+      "canonique": null
+    },
+    "indexee": "inconnu",
+    "ia": {
+      "autorises": [
+        "GPTBot",
+        "OAI-SearchBot",
+        "ClaudeBot",
+        "PerplexityBot",
+        "Google-Extended"
+      ],
+      "bloques": [],
+      "taux": 100
+    },
+    "liens": {
+      "commentaires": "inconnu",
+      "contenu": "inconnu",
+      "signatures": "inconnu",
+      "auteurs": "inconnu",
+      "externes": 0
+    },
+    "champSiteWeb": false,
+    "captcha": false,
+    "connexionRequise": false,
+    "moderation": false,
+    "commentairesExistants": 0,
+    "widget": "",
+    "contact": null,
+    "lienInscription": null,
+    "concurrentsCites": [],
+    "themes": [],
+    "zonesTrouvees": [],
+    "nbMots": 1702,
+    "signaux": [
+      "forum phpBB"
+    ],
+    "origine": {
+      "type": "lien-interne",
+      "detail": "blablaland.com"
+    },
+    "decouverte": "2026-11-16",
+    "derniereVisite": "2026-11-16T13:44:03.783Z",
+    "statutHttp": 200,
+    "cible": {
+      "url": "https://observatoire-biodiversite-npdc.fr/dossiers/que-faire-nid-frelon-asiatique-signalement/",
+      "niveau": 2,
+      "motif": "score SEO 30 < 60",
+      "titre": "Que faire face à un nid de frelon asiatique ? Signalement et intervention — Observatoire de la biodiversité du Nord–Pas-de-Calais",
+      "ancres": [
+        "Que faire face à un nid de frelon asiatique ? Signalement et intervention — Observatoire de la biodiversité du Nord–Pas-de-Calais",
+        "observatoire-biodiversite-npdc.fr/dossiers/que-faire-nid-frelon-asiatique-signalement",
+        "cet article"
+      ]
+    },
+    "etat": "a-traiter",
+    "note": ""
+  },
+  {
+    "url": "http://www.blablaland.com/site/inscription.php",
+    "domaine": "blablaland.com",
+    "hote": "blablaland.com",
+    "type": "forum",
+    "types": [
+      "forum"
+    ],
+    "plateforme": "phpBB",
+    "titre": "Inscription sur Blablaland : guide complet pour bien débuter dans l’univers virtuel",
+    "langue": "fr",
+    "scores": {
+      "seo": 31,
+      "ia": 60,
+      "priorite": 43,
+      "facilite": "inscription"
+    },
+    "facilite": "inscription",
+    "indexabilite": {
+      "indexable": true,
+      "motifs": [],
+      "googlebot": true,
+      "bingbot": true,
+      "canonique": null
+    },
+    "indexee": "inconnu",
+    "ia": {
+      "autorises": [
+        "GPTBot",
+        "OAI-SearchBot",
+        "ClaudeBot",
+        "PerplexityBot",
+        "Google-Extended"
+      ],
+      "bloques": [],
+      "taux": 100
+    },
+    "liens": {
+      "commentaires": "inconnu",
+      "contenu": "inconnu",
+      "signatures": "inconnu",
+      "auteurs": "inconnu",
+      "externes": 0
+    },
+    "champSiteWeb": false,
+    "captcha": false,
+    "connexionRequise": false,
+    "moderation": false,
+    "commentairesExistants": 0,
+    "widget": "",
+    "contact": null,
+    "lienInscription": null,
+    "concurrentsCites": [],
+    "themes": [
+      "nature"
+    ],
+    "zonesTrouvees": [],
+    "nbMots": 2169,
+    "signaux": [
+      "forum phpBB"
+    ],
+    "origine": {
+      "type": "utile",
+      "detail": "inscription"
+    },
+    "decouverte": "2026-11-16",
+    "derniereVisite": "2026-11-16T13:43:58.789Z",
+    "statutHttp": 200,
+    "cible": {
+      "url": "https://observatoire-biodiversite-npdc.fr/dossiers/que-faire-nid-frelon-asiatique-signalement/",
+      "niveau": 2,
+      "motif": "score SEO 31 < 60",
+      "titre": "Que faire face à un nid de frelon asiatique ? Signalement et intervention — Observatoire de la biodiversité du Nord–Pas-de-Calais",
+      "ancres": [
+        "Que faire face à un nid de frelon asiatique ? Signalement et intervention — Observatoire de la biodiversité du Nord–Pas-de-Calais",
+        "observatoire-biodiversite-npdc.fr/dossiers/que-faire-nid-frelon-asiatique-signalement",
+        "cet article"
+      ]
+    },
+    "etat": "a-traiter",
+    "note": ""
+  },
+  {
+    "url": "http://www.blablaland.com/site/partenaires.php",
+    "domaine": "blablaland.com",
+    "hote": "blablaland.com",
+    "type": "forum",
+    "types": [
+      "forum"
+    ],
+    "plateforme": "phpBB",
+    "titre": "Blablaland et ses partenaires : un écosystème ludique au service de la communauté",
+    "langue": "fr",
+    "scores": {
+      "seo": 31,
+      "ia": 60,
+      "priorite": 43,
+      "facilite": "inscription"
+    },
+    "facilite": "inscription",
+    "indexabilite": {
+      "indexable": true,
+      "motifs": [],
+      "googlebot": true,
+      "bingbot": true,
+      "canonique": null
+    },
+    "indexee": "inconnu",
+    "ia": {
+      "autorises": [
+        "GPTBot",
+        "OAI-SearchBot",
+        "ClaudeBot",
+        "PerplexityBot",
+        "Google-Extended"
+      ],
+      "bloques": [],
+      "taux": 100
+    },
+    "liens": {
+      "commentaires": "inconnu",
+      "contenu": "inconnu",
+      "signatures": "inconnu",
+      "auteurs": "inconnu",
+      "externes": 0
+    },
+    "champSiteWeb": false,
+    "captcha": false,
+    "connexionRequise": false,
+    "moderation": false,
+    "commentairesExistants": 0,
+    "widget": "",
+    "contact": null,
+    "lienInscription": "http://www.blablaland.com/site/inscription.php",
+    "concurrentsCites": [],
+    "themes": [
+      "nature"
+    ],
+    "zonesTrouvees": [],
+    "nbMots": 1787,
+    "signaux": [
+      "forum phpBB"
+    ],
+    "origine": {
+      "type": "utile",
+      "detail": "page-liens"
+    },
+    "decouverte": "2026-11-16",
+    "derniereVisite": "2026-11-16T13:44:01.276Z",
+    "statutHttp": 200,
+    "cible": {
+      "url": "https://observatoire-biodiversite-npdc.fr/dossiers/que-faire-nid-frelon-asiatique-signalement/",
+      "niveau": 2,
+      "motif": "score SEO 31 < 60",
+      "titre": "Que faire face à un nid de frelon asiatique ? Signalement et intervention — Observatoire de la biodiversité du Nord–Pas-de-Calais",
+      "ancres": [
+        "Que faire face à un nid de frelon asiatique ? Signalement et intervention — Observatoire de la biodiversité du Nord–Pas-de-Calais",
+        "observatoire-biodiversite-npdc.fr/dossiers/que-faire-nid-frelon-asiatique-signalement",
+        "cet article"
+      ]
+    },
+    "etat": "a-traiter",
+    "note": ""
+  },
+  {
     "url": "https://annuairedujardin.fr/webmaster-login.html",
     "domaine": "annuairedujardin.fr",
     "hote": "annuairedujardin.fr",
@@ -41718,6 +44303,86 @@
       "ancres": [
         "ALLO FRELONS",
         "allo-frelons.fr"
+      ]
+    },
+    "etat": "a-traiter",
+    "note": ""
+  },
+  {
+    "url": "https://forum.forumactif.com/",
+    "domaine": "forum.forumactif.com",
+    "hote": "forum.forumactif.com",
+    "type": "forum",
+    "types": [
+      "forum"
+    ],
+    "plateforme": "phpBB",
+    "titre": "Forum gratuit Forumactif: Le forum des forums actifs",
+    "langue": "fr",
+    "scores": {
+      "seo": 30,
+      "ia": 60,
+      "priorite": 43,
+      "facilite": "inscription"
+    },
+    "facilite": "inscription",
+    "indexabilite": {
+      "indexable": true,
+      "motifs": [],
+      "googlebot": true,
+      "bingbot": true,
+      "canonique": null
+    },
+    "indexee": "inconnu",
+    "ia": {
+      "autorises": [
+        "GPTBot",
+        "OAI-SearchBot",
+        "ClaudeBot",
+        "PerplexityBot",
+        "Google-Extended"
+      ],
+      "bloques": [],
+      "taux": 83
+    },
+    "liens": {
+      "commentaires": "inconnu",
+      "contenu": "inconnu",
+      "signatures": "inconnu",
+      "auteurs": "inconnu",
+      "externes": 18
+    },
+    "champSiteWeb": false,
+    "captcha": false,
+    "connexionRequise": false,
+    "moderation": false,
+    "commentairesExistants": 0,
+    "widget": "",
+    "contact": null,
+    "lienInscription": "https://forum.forumactif.com/register",
+    "concurrentsCites": [],
+    "themes": [],
+    "zonesTrouvees": [],
+    "nbMots": 1153,
+    "signaux": [
+      "forum phpBB"
+    ],
+    "origine": {
+      "type": "lien-externe",
+      "detail": "depuis apiculture-france.com"
+    },
+    "decouverte": "2026-11-16",
+    "derniereVisite": "2026-11-16T13:43:55.441Z",
+    "statutHttp": 200,
+    "cible": {
+      "url": "https://observatoire-biodiversite-npdc.fr/dossiers/que-faire-nid-frelon-asiatique-signalement/",
+      "niveau": 2,
+      "motif": "score SEO 30 < 60",
+      "titre": "Que faire face à un nid de frelon asiatique ? Signalement et intervention — Observatoire de la biodiversité du Nord–Pas-de-Calais",
+      "ancres": [
+        "Que faire face à un nid de frelon asiatique ? Signalement et intervention — Observatoire de la biodiversité du Nord–Pas-de-Calais",
+        "observatoire-biodiversite-npdc.fr/dossiers/que-faire-nid-frelon-asiatique-signalement",
+        "cet article"
       ]
     },
     "etat": "a-traiter",
@@ -47677,6 +50342,90 @@
     "note": ""
   },
   {
+    "url": "https://www.forumactif.com/",
+    "domaine": "forumactif.com",
+    "hote": "forumactif.com",
+    "type": "forum",
+    "types": [
+      "forum"
+    ],
+    "plateforme": "phpBB",
+    "titre": "Créer un forum gratuit - FORUMACTIF.com",
+    "langue": "fr",
+    "scores": {
+      "seo": 31,
+      "ia": 51,
+      "priorite": 40,
+      "facilite": "inscription"
+    },
+    "facilite": "inscription",
+    "indexabilite": {
+      "indexable": true,
+      "motifs": [],
+      "googlebot": true,
+      "bingbot": true,
+      "canonique": null
+    },
+    "indexee": "inconnu",
+    "ia": {
+      "autorises": [
+        "OAI-SearchBot",
+        "ClaudeBot",
+        "PerplexityBot",
+        "Google-Extended"
+      ],
+      "bloques": [
+        "GPTBot"
+      ],
+      "taux": 72
+    },
+    "liens": {
+      "commentaires": "inconnu",
+      "contenu": "inconnu",
+      "signatures": "inconnu",
+      "auteurs": "inconnu",
+      "externes": 14
+    },
+    "champSiteWeb": false,
+    "captcha": false,
+    "connexionRequise": false,
+    "moderation": false,
+    "commentairesExistants": 0,
+    "widget": "",
+    "contact": null,
+    "lienInscription": "https://www.forumactif.com/login",
+    "concurrentsCites": [],
+    "themes": [
+      "nature",
+      "animaux"
+    ],
+    "zonesTrouvees": [],
+    "nbMots": 1125,
+    "signaux": [
+      "forum phpBB"
+    ],
+    "origine": {
+      "type": "lien-externe",
+      "detail": "depuis apiculture-france.com"
+    },
+    "decouverte": "2026-11-16",
+    "derniereVisite": "2026-11-16T13:43:54.284Z",
+    "statutHttp": 200,
+    "cible": {
+      "url": "https://www.habitatpresto.com/mag/renovation/deratisation-desinfection/eliminer-nid-guepes",
+      "niveau": 2,
+      "motif": "score SEO 31 < 60",
+      "titre": "Nid de guêpes : 4 solutions efficaces pour s’en débarrasser",
+      "ancres": [
+        "Nid de guêpes : 4 solutions efficaces pour s’en débarrasser",
+        "www.habitatpresto.com/mag/renovation/deratisation-desinfection/eliminer-nid-guepes",
+        "cet article"
+      ]
+    },
+    "etat": "a-traiter",
+    "note": ""
+  },
+  {
     "url": "https://www.neozone.org/innovation/comment-choisir-le-meilleur-videoprojecteur/",
     "domaine": "neozone.org",
     "hote": "neozone.org",
@@ -49133,6 +51882,168 @@
     "note": ""
   },
   {
+    "url": "https://www.forumactif.com/annuaire/air-du-temps-et-societe",
+    "domaine": "forumactif.com",
+    "hote": "forumactif.com",
+    "type": "forum",
+    "types": [
+      "forum"
+    ],
+    "plateforme": "phpBB",
+    "titre": "Forums Air du temps et Société",
+    "langue": "fr",
+    "scores": {
+      "seo": 30,
+      "ia": 45,
+      "priorite": 37,
+      "facilite": "inscription"
+    },
+    "facilite": "inscription",
+    "indexabilite": {
+      "indexable": true,
+      "motifs": [],
+      "googlebot": true,
+      "bingbot": true,
+      "canonique": null
+    },
+    "indexee": "inconnu",
+    "ia": {
+      "autorises": [
+        "OAI-SearchBot",
+        "ClaudeBot",
+        "PerplexityBot",
+        "Google-Extended"
+      ],
+      "bloques": [
+        "GPTBot"
+      ],
+      "taux": 72
+    },
+    "liens": {
+      "commentaires": "inconnu",
+      "contenu": "inconnu",
+      "signatures": "inconnu",
+      "auteurs": "inconnu",
+      "externes": 7
+    },
+    "champSiteWeb": false,
+    "captcha": false,
+    "connexionRequise": false,
+    "moderation": false,
+    "commentairesExistants": 0,
+    "widget": "",
+    "contact": null,
+    "lienInscription": "https://www.forumactif.com/login",
+    "concurrentsCites": [],
+    "themes": [],
+    "zonesTrouvees": [],
+    "nbMots": 129,
+    "signaux": [
+      "forum phpBB"
+    ],
+    "origine": {
+      "type": "lien-interne",
+      "detail": "forumactif.com"
+    },
+    "decouverte": "2026-11-16",
+    "derniereVisite": "2026-11-16T13:43:59.344Z",
+    "statutHttp": 200,
+    "cible": {
+      "url": "https://www.entreprisenettoyageparis.fr/top-3-entreprises-destruction-nids-de-guepes-et-frelons-a-paris/",
+      "niveau": 2,
+      "motif": "score SEO 30 < 60",
+      "titre": "Top 3 des entreprises de destruction nids de guêpes et frelons à Paris",
+      "ancres": [
+        "Top 3 des entreprises de destruction nids de guêpes et frelons à Paris",
+        "www.entreprisenettoyageparis.fr/top-3-entreprises-destruction-nids-de-guepes-et-frelons-a-paris",
+        "cet article"
+      ]
+    },
+    "etat": "a-traiter",
+    "note": ""
+  },
+  {
+    "url": "https://www.forumactif.com/annuaire/art-culture-et-loisirs",
+    "domaine": "forumactif.com",
+    "hote": "forumactif.com",
+    "type": "forum",
+    "types": [
+      "forum"
+    ],
+    "plateforme": "phpBB",
+    "titre": "Forums Art, Culture et Loisirs",
+    "langue": "fr",
+    "scores": {
+      "seo": 30,
+      "ia": 45,
+      "priorite": 37,
+      "facilite": "inscription"
+    },
+    "facilite": "inscription",
+    "indexabilite": {
+      "indexable": true,
+      "motifs": [],
+      "googlebot": true,
+      "bingbot": true,
+      "canonique": null
+    },
+    "indexee": "inconnu",
+    "ia": {
+      "autorises": [
+        "OAI-SearchBot",
+        "ClaudeBot",
+        "PerplexityBot",
+        "Google-Extended"
+      ],
+      "bloques": [
+        "GPTBot"
+      ],
+      "taux": 72
+    },
+    "liens": {
+      "commentaires": "inconnu",
+      "contenu": "inconnu",
+      "signatures": "inconnu",
+      "auteurs": "inconnu",
+      "externes": 7
+    },
+    "champSiteWeb": false,
+    "captcha": false,
+    "connexionRequise": false,
+    "moderation": false,
+    "commentairesExistants": 0,
+    "widget": "",
+    "contact": null,
+    "lienInscription": "https://www.forumactif.com/login",
+    "concurrentsCites": [],
+    "themes": [],
+    "zonesTrouvees": [],
+    "nbMots": 135,
+    "signaux": [
+      "forum phpBB"
+    ],
+    "origine": {
+      "type": "lien-interne",
+      "detail": "forumactif.com"
+    },
+    "decouverte": "2026-11-16",
+    "derniereVisite": "2026-11-16T13:44:04.323Z",
+    "statutHttp": 200,
+    "cible": {
+      "url": "https://observatoire-biodiversite-npdc.fr/dossiers/que-faire-nid-frelon-asiatique-signalement/",
+      "niveau": 2,
+      "motif": "score SEO 30 < 60",
+      "titre": "Que faire face à un nid de frelon asiatique ? Signalement et intervention — Observatoire de la biodiversité du Nord–Pas-de-Calais",
+      "ancres": [
+        "Que faire face à un nid de frelon asiatique ? Signalement et intervention — Observatoire de la biodiversité du Nord–Pas-de-Calais",
+        "observatoire-biodiversite-npdc.fr/dossiers/que-faire-nid-frelon-asiatique-signalement",
+        "cet article"
+      ]
+    },
+    "etat": "a-traiter",
+    "note": ""
+  },
+  {
     "url": "https://www.gabi77.org/le-g-a-b-i/nos-partenaires-et-amis/sites-amis-2",
     "domaine": "gabi77.org",
     "hote": "gabi77.org",
@@ -50196,6 +53107,249 @@
       "ancres": [
         "Top 3 des entreprises de destruction nids de guêpes et frelons à Paris",
         "www.entreprisenettoyageparis.fr/top-3-entreprises-destruction-nids-de-guepes-et-frelons-a-paris",
+        "cet article"
+      ]
+    },
+    "etat": "a-traiter",
+    "note": ""
+  },
+  {
+    "url": "https://forum.forumactif.com/t230834-comment-bien-exposer-son-probleme",
+    "domaine": "forum.forumactif.com",
+    "hote": "forum.forumactif.com",
+    "type": "forum",
+    "types": [
+      "forum"
+    ],
+    "plateforme": "phpBB",
+    "titre": "Comment bien exposer son problème ?",
+    "langue": "fr",
+    "scores": {
+      "seo": 18,
+      "ia": 60,
+      "priorite": 36,
+      "facilite": "inscription"
+    },
+    "facilite": "inscription",
+    "indexabilite": {
+      "indexable": true,
+      "motifs": [],
+      "googlebot": true,
+      "bingbot": true,
+      "canonique": null
+    },
+    "indexee": "inconnu",
+    "ia": {
+      "autorises": [
+        "GPTBot",
+        "OAI-SearchBot",
+        "ClaudeBot",
+        "PerplexityBot",
+        "Google-Extended"
+      ],
+      "bloques": [],
+      "taux": 83
+    },
+    "liens": {
+      "commentaires": "inconnu",
+      "contenu": "nofollow",
+      "signatures": "inconnu",
+      "auteurs": "nofollow",
+      "externes": 19
+    },
+    "champSiteWeb": false,
+    "captcha": false,
+    "connexionRequise": false,
+    "moderation": false,
+    "commentairesExistants": 0,
+    "widget": "",
+    "contact": null,
+    "lienInscription": "https://forum.forumactif.com/register",
+    "concurrentsCites": [],
+    "themes": [],
+    "zonesTrouvees": [],
+    "nbMots": 382,
+    "signaux": [
+      "forum phpBB",
+      "liens dans les messages : nofollow"
+    ],
+    "origine": {
+      "type": "lien-interne",
+      "detail": "forum.forumactif.com"
+    },
+    "decouverte": "2026-11-16",
+    "derniereVisite": "2026-11-16T13:44:05.573Z",
+    "statutHttp": 200,
+    "cible": {
+      "url": "https://www.habitatpresto.com/mag/renovation/deratisation-desinfection/eliminer-nid-guepes",
+      "niveau": 2,
+      "motif": "score SEO 18 < 60",
+      "titre": "Nid de guêpes : 4 solutions efficaces pour s’en débarrasser",
+      "ancres": [
+        "Nid de guêpes : 4 solutions efficaces pour s’en débarrasser",
+        "www.habitatpresto.com/mag/renovation/deratisation-desinfection/eliminer-nid-guepes",
+        "cet article"
+      ]
+    },
+    "etat": "a-traiter",
+    "note": ""
+  },
+  {
+    "url": "https://forum.forumactif.com/t78679-listing-des-questions-reponses-frequentes",
+    "domaine": "forum.forumactif.com",
+    "hote": "forum.forumactif.com",
+    "type": "forum",
+    "types": [
+      "forum"
+    ],
+    "plateforme": "phpBB",
+    "titre": "Listing des Questions & Réponses Fréquentes",
+    "langue": "fr",
+    "scores": {
+      "seo": 18,
+      "ia": 60,
+      "priorite": 36,
+      "facilite": "inscription"
+    },
+    "facilite": "inscription",
+    "indexabilite": {
+      "indexable": true,
+      "motifs": [],
+      "googlebot": true,
+      "bingbot": true,
+      "canonique": null
+    },
+    "indexee": "inconnu",
+    "ia": {
+      "autorises": [
+        "GPTBot",
+        "OAI-SearchBot",
+        "ClaudeBot",
+        "PerplexityBot",
+        "Google-Extended"
+      ],
+      "bloques": [],
+      "taux": 83
+    },
+    "liens": {
+      "commentaires": "inconnu",
+      "contenu": "nofollow",
+      "signatures": "inconnu",
+      "auteurs": "inconnu",
+      "externes": 20
+    },
+    "champSiteWeb": false,
+    "captcha": false,
+    "connexionRequise": false,
+    "moderation": false,
+    "commentairesExistants": 0,
+    "widget": "",
+    "contact": null,
+    "lienInscription": "https://forum.forumactif.com/register",
+    "concurrentsCites": [],
+    "themes": [],
+    "zonesTrouvees": [],
+    "nbMots": 5396,
+    "signaux": [
+      "forum phpBB",
+      "liens dans les messages : nofollow"
+    ],
+    "origine": {
+      "type": "lien-interne",
+      "detail": "forum.forumactif.com"
+    },
+    "decouverte": "2026-11-16",
+    "derniereVisite": "2026-11-16T13:44:00.801Z",
+    "statutHttp": 200,
+    "cible": {
+      "url": "https://www.habitatpresto.com/mag/renovation/deratisation-desinfection/eliminer-nid-guepes",
+      "niveau": 2,
+      "motif": "score SEO 18 < 60",
+      "titre": "Nid de guêpes : 4 solutions efficaces pour s’en débarrasser",
+      "ancres": [
+        "Nid de guêpes : 4 solutions efficaces pour s’en débarrasser",
+        "www.habitatpresto.com/mag/renovation/deratisation-desinfection/eliminer-nid-guepes",
+        "cet article"
+      ]
+    },
+    "etat": "a-traiter",
+    "note": ""
+  },
+  {
+    "url": "https://forum.forumactif.com/t94973-listing-des-trucs-astuces",
+    "domaine": "forum.forumactif.com",
+    "hote": "forum.forumactif.com",
+    "type": "forum",
+    "types": [
+      "forum"
+    ],
+    "plateforme": "phpBB",
+    "titre": "Listing des Trucs & Astuces",
+    "langue": "fr",
+    "scores": {
+      "seo": 18,
+      "ia": 60,
+      "priorite": 36,
+      "facilite": "inscription"
+    },
+    "facilite": "inscription",
+    "indexabilite": {
+      "indexable": true,
+      "motifs": [],
+      "googlebot": true,
+      "bingbot": true,
+      "canonique": null
+    },
+    "indexee": "inconnu",
+    "ia": {
+      "autorises": [
+        "GPTBot",
+        "OAI-SearchBot",
+        "ClaudeBot",
+        "PerplexityBot",
+        "Google-Extended"
+      ],
+      "bloques": [],
+      "taux": 83
+    },
+    "liens": {
+      "commentaires": "inconnu",
+      "contenu": "nofollow",
+      "signatures": "inconnu",
+      "auteurs": "nofollow",
+      "externes": 21
+    },
+    "champSiteWeb": false,
+    "captcha": false,
+    "connexionRequise": false,
+    "moderation": false,
+    "commentairesExistants": 0,
+    "widget": "",
+    "contact": null,
+    "lienInscription": "https://forum.forumactif.com/register",
+    "concurrentsCites": [],
+    "themes": [],
+    "zonesTrouvees": [],
+    "nbMots": 1386,
+    "signaux": [
+      "forum phpBB",
+      "liens dans les messages : nofollow"
+    ],
+    "origine": {
+      "type": "lien-interne",
+      "detail": "forum.forumactif.com"
+    },
+    "decouverte": "2026-11-16",
+    "derniereVisite": "2026-11-16T13:44:03.383Z",
+    "statutHttp": 200,
+    "cible": {
+      "url": "https://observatoire-biodiversite-npdc.fr/especes/frelon-asiatique/",
+      "niveau": 2,
+      "motif": "score SEO 18 < 60",
+      "titre": "Frelon asiatique (Vespa velutina nigrithorax) — Observatoire de la biodiversité du Nord–Pas-de-Calais",
+      "ancres": [
+        "Frelon asiatique (Vespa velutina nigrithorax) — Observatoire de la biodiversité du Nord–Pas-de-Calais",
+        "observatoire-biodiversite-npdc.fr/especes/frelon-asiatique",
         "cet article"
       ]
     },
@@ -52923,6 +56077,168 @@
     "note": ""
   },
   {
+    "url": "https://www.forumactif.com/annuaire/informatique-et-internet",
+    "domaine": "forumactif.com",
+    "hote": "forumactif.com",
+    "type": "forum",
+    "types": [
+      "forum"
+    ],
+    "plateforme": "phpBB",
+    "titre": "Forums Informatique et Internet",
+    "langue": "fr",
+    "scores": {
+      "seo": 30,
+      "ia": 37,
+      "priorite": 34,
+      "facilite": "inscription"
+    },
+    "facilite": "inscription",
+    "indexabilite": {
+      "indexable": true,
+      "motifs": [],
+      "googlebot": true,
+      "bingbot": true,
+      "canonique": null
+    },
+    "indexee": "inconnu",
+    "ia": {
+      "autorises": [
+        "OAI-SearchBot",
+        "ClaudeBot",
+        "PerplexityBot",
+        "Google-Extended"
+      ],
+      "bloques": [
+        "GPTBot"
+      ],
+      "taux": 72
+    },
+    "liens": {
+      "commentaires": "inconnu",
+      "contenu": "inconnu",
+      "signatures": "inconnu",
+      "auteurs": "inconnu",
+      "externes": 7
+    },
+    "champSiteWeb": false,
+    "captcha": false,
+    "connexionRequise": false,
+    "moderation": false,
+    "commentairesExistants": 0,
+    "widget": "",
+    "contact": null,
+    "lienInscription": "https://www.forumactif.com/login",
+    "concurrentsCites": [],
+    "themes": [],
+    "zonesTrouvees": [],
+    "nbMots": 108,
+    "signaux": [
+      "forum phpBB"
+    ],
+    "origine": {
+      "type": "lien-interne",
+      "detail": "forumactif.com"
+    },
+    "decouverte": "2026-11-16",
+    "derniereVisite": "2026-11-16T13:44:01.824Z",
+    "statutHttp": 200,
+    "cible": {
+      "url": "https://www.habitatpresto.com/mag/renovation/deratisation-desinfection/eliminer-nid-guepes",
+      "niveau": 2,
+      "motif": "score SEO 30 < 60",
+      "titre": "Nid de guêpes : 4 solutions efficaces pour s’en débarrasser",
+      "ancres": [
+        "Nid de guêpes : 4 solutions efficaces pour s’en débarrasser",
+        "www.habitatpresto.com/mag/renovation/deratisation-desinfection/eliminer-nid-guepes",
+        "cet article"
+      ]
+    },
+    "etat": "a-traiter",
+    "note": ""
+  },
+  {
+    "url": "https://www.forumactif.com/annuaire/music",
+    "domaine": "forumactif.com",
+    "hote": "forumactif.com",
+    "type": "forum",
+    "types": [
+      "forum"
+    ],
+    "plateforme": "phpBB",
+    "titre": "Forums Musique",
+    "langue": "fr",
+    "scores": {
+      "seo": 30,
+      "ia": 37,
+      "priorite": 34,
+      "facilite": "inscription"
+    },
+    "facilite": "inscription",
+    "indexabilite": {
+      "indexable": true,
+      "motifs": [],
+      "googlebot": true,
+      "bingbot": true,
+      "canonique": null
+    },
+    "indexee": "inconnu",
+    "ia": {
+      "autorises": [
+        "OAI-SearchBot",
+        "ClaudeBot",
+        "PerplexityBot",
+        "Google-Extended"
+      ],
+      "bloques": [
+        "GPTBot"
+      ],
+      "taux": 72
+    },
+    "liens": {
+      "commentaires": "inconnu",
+      "contenu": "inconnu",
+      "signatures": "inconnu",
+      "auteurs": "inconnu",
+      "externes": 7
+    },
+    "champSiteWeb": false,
+    "captcha": false,
+    "connexionRequise": false,
+    "moderation": false,
+    "commentairesExistants": 0,
+    "widget": "",
+    "contact": null,
+    "lienInscription": "https://www.forumactif.com/login",
+    "concurrentsCites": [],
+    "themes": [],
+    "zonesTrouvees": [],
+    "nbMots": 116,
+    "signaux": [
+      "forum phpBB"
+    ],
+    "origine": {
+      "type": "lien-interne",
+      "detail": "forumactif.com"
+    },
+    "decouverte": "2026-11-16",
+    "derniereVisite": "2026-11-16T13:44:06.821Z",
+    "statutHttp": 200,
+    "cible": {
+      "url": "https://www.entreprisenettoyageparis.fr/top-3-entreprises-destruction-nids-de-guepes-et-frelons-a-paris/",
+      "niveau": 2,
+      "motif": "score SEO 30 < 60",
+      "titre": "Top 3 des entreprises de destruction nids de guêpes et frelons à Paris",
+      "ancres": [
+        "Top 3 des entreprises de destruction nids de guêpes et frelons à Paris",
+        "www.entreprisenettoyageparis.fr/top-3-entreprises-destruction-nids-de-guepes-et-frelons-a-paris",
+        "cet article"
+      ]
+    },
+    "etat": "a-traiter",
+    "note": ""
+  },
+  {
     "url": "https://www.aujardin.org/viewtopic.php?t=48927&view=print",
     "domaine": "aujardin.org",
     "hote": "aujardin.org",
@@ -53605,6 +56921,89 @@
     },
     "decouverte": "2026-09-26",
     "derniereVisite": "2026-09-26T15:47:36.925Z",
+    "statutHttp": 200,
+    "cible": {
+      "url": "https://observatoire-biodiversite-npdc.fr/especes/frelon-asiatique/",
+      "niveau": 2,
+      "motif": "score SEO 9 < 60",
+      "titre": "Frelon asiatique (Vespa velutina nigrithorax) — Observatoire de la biodiversité du Nord–Pas-de-Calais",
+      "ancres": [
+        "Frelon asiatique (Vespa velutina nigrithorax) — Observatoire de la biodiversité du Nord–Pas-de-Calais",
+        "observatoire-biodiversite-npdc.fr/especes/frelon-asiatique",
+        "cet article"
+      ]
+    },
+    "etat": "a-traiter",
+    "note": ""
+  },
+  {
+    "url": "https://forum.forumactif.com/register",
+    "domaine": "forum.forumactif.com",
+    "hote": "forum.forumactif.com",
+    "type": "forum",
+    "types": [
+      "forum"
+    ],
+    "plateforme": "phpBB",
+    "titre": "S'enregistrer",
+    "langue": "fr",
+    "scores": {
+      "seo": 9,
+      "ia": 44,
+      "priorite": 25,
+      "facilite": "inscription"
+    },
+    "facilite": "inscription",
+    "indexabilite": {
+      "indexable": false,
+      "motifs": [
+        "noindex (meta robots)"
+      ],
+      "googlebot": true,
+      "bingbot": true,
+      "canonique": null
+    },
+    "indexee": "inconnu",
+    "ia": {
+      "autorises": [
+        "GPTBot",
+        "OAI-SearchBot",
+        "ClaudeBot",
+        "PerplexityBot",
+        "Google-Extended"
+      ],
+      "bloques": [],
+      "taux": 83
+    },
+    "liens": {
+      "commentaires": "inconnu",
+      "contenu": "dofollow",
+      "signatures": "inconnu",
+      "auteurs": "inconnu",
+      "externes": 19
+    },
+    "champSiteWeb": false,
+    "captcha": false,
+    "connexionRequise": false,
+    "moderation": false,
+    "commentairesExistants": 0,
+    "widget": "",
+    "contact": null,
+    "lienInscription": "https://forum.forumactif.com/register",
+    "concurrentsCites": [],
+    "themes": [],
+    "zonesTrouvees": [],
+    "nbMots": 547,
+    "signaux": [
+      "forum phpBB",
+      "liens dans les messages : dofollow"
+    ],
+    "origine": {
+      "type": "utile",
+      "detail": "inscription"
+    },
+    "decouverte": "2026-11-16",
+    "derniereVisite": "2026-11-16T13:43:58.345Z",
     "statutHttp": 200,
     "cible": {
       "url": "https://observatoire-biodiversite-npdc.fr/especes/frelon-asiatique/",
@@ -54655,6 +58054,89 @@
         "ALLO FRELONS",
         "allo-frelons.fr",
         "ALLO FRELONS Paris"
+      ]
+    },
+    "etat": "a-traiter",
+    "note": ""
+  },
+  {
+    "url": "https://www.forumactif.com/login",
+    "domaine": "forumactif.com",
+    "hote": "forumactif.com",
+    "type": "forum",
+    "types": [
+      "forum"
+    ],
+    "plateforme": "phpBB",
+    "titre": "Outils - forumactif.com",
+    "langue": "fr",
+    "scores": {
+      "seo": 6,
+      "ia": 29,
+      "priorite": 18,
+      "facilite": "inscription"
+    },
+    "facilite": "inscription",
+    "indexabilite": {
+      "indexable": false,
+      "motifs": [
+        "noindex (meta robots)"
+      ],
+      "googlebot": true,
+      "bingbot": true,
+      "canonique": null
+    },
+    "indexee": "inconnu",
+    "ia": {
+      "autorises": [
+        "OAI-SearchBot",
+        "ClaudeBot",
+        "PerplexityBot",
+        "Google-Extended"
+      ],
+      "bloques": [
+        "GPTBot"
+      ],
+      "taux": 72
+    },
+    "liens": {
+      "commentaires": "inconnu",
+      "contenu": "inconnu",
+      "signatures": "inconnu",
+      "auteurs": "inconnu",
+      "externes": 7
+    },
+    "champSiteWeb": false,
+    "captcha": false,
+    "connexionRequise": false,
+    "moderation": false,
+    "commentairesExistants": 0,
+    "widget": "",
+    "contact": null,
+    "lienInscription": "https://www.forumactif.com/login",
+    "concurrentsCites": [],
+    "themes": [],
+    "zonesTrouvees": [],
+    "nbMots": 151,
+    "signaux": [
+      "forum phpBB"
+    ],
+    "origine": {
+      "type": "utile",
+      "detail": "inscription"
+    },
+    "decouverte": "2026-11-16",
+    "derniereVisite": "2026-11-16T13:43:56.816Z",
+    "statutHttp": 200,
+    "cible": {
+      "url": "https://observatoire-biodiversite-npdc.fr/especes/frelon-asiatique/",
+      "niveau": 2,
+      "motif": "score SEO 6 < 60",
+      "titre": "Frelon asiatique (Vespa velutina nigrithorax) — Observatoire de la biodiversité du Nord–Pas-de-Calais",
+      "ancres": [
+        "Frelon asiatique (Vespa velutina nigrithorax) — Observatoire de la biodiversité du Nord–Pas-de-Calais",
+        "observatoire-biodiversite-npdc.fr/especes/frelon-asiatique",
+        "cet article"
       ]
     },
     "etat": "a-traiter",
