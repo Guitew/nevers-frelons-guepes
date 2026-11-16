@@ -30,7 +30,7 @@
     "longitude": 2.1127233999999997
   },
   "note": 4.8,
-  "avis": 187,
+  "avis": 188,
   "horaires": [
     {
       "jour": 0,
@@ -118,15 +118,15 @@
     "Parking accessible en fauteuil roulant"
   ],
   "lien_google": "https://maps.google.com/?cid=4271796084516073436&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
-  "site_web_gmb": null,
+  "site_web_gmb": "https://lowcostpneu81.com/",
   "statut": "publiee",
   "backlink": {
-    "etat": "absent",
+    "etat": "externe",
     "premiere_detection": null,
     "derniere_detection": null,
-    "derniere_verification": "2026-10-30T11:21:01.088Z",
-    "echecs": 19,
-    "url_detectee": null
+    "derniere_verification": "2026-11-16T13:34:11.836Z",
+    "echecs": 20,
+    "url_detectee": "https://lowcostpneu81.com/"
   },
   "suggestion": {
     "etat": "soumise",
@@ -138,7 +138,7 @@
   "dates": {
     "collecte": "2026-09-25",
     "publication": "2026-09-25",
-    "maj": "2026-10-30"
+    "maj": "2026-11-16"
   },
   "source": "google-places",
   "redaction": {
@@ -214,13 +214,13 @@
   "statut_google": "OPERATIONAL",
   "audience": {
     "clics": 0,
-    "impressions": 130,
+    "impressions": 140,
     "position": 9.9,
     "fenetreJours": 90,
     "clicsRecents": 0,
     "fenetreRecenteJours": 28,
     "source": "search-console",
-    "date": "2026-11-15"
+    "date": "2026-11-16"
   },
   "avis_detail": {
     "releve": "2026-10-30",
@@ -289,6 +289,6 @@
     "derniere_exploration": null,
     "canonique_google": null,
     "source": "impressions",
-    "date": "2026-11-15"
+    "date": "2026-11-16"
   }
 }

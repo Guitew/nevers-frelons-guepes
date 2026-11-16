@@ -1,0 +1,273 @@
+{
+  "id": "ChIJP2cISclv80cRhKUnNB-vX48",
+  "slug": "la-bressanne-artisanale",
+  "nom": "LA BRESSANNE ARTISANALE",
+  "categorie": "commerces-alimentation",
+  "categorie_gmb": "Boucherie",
+  "type_principal": "butcher_shop",
+  "types": [
+    "butcher_shop",
+    "food_store",
+    "manufacturer",
+    "service",
+    "food",
+    "point_of_interest",
+    "store",
+    "establishment"
+  ],
+  "ville": "Charnay-lès-Mâcon",
+  "ville_slug": "charnay-les-macon",
+  "adresse": {
+    "rue": "402 Rue Marius Lacrouze",
+    "code_postal": "71850",
+    "departement": "71",
+    "region": "Bourgogne-Franche-Comté",
+    "pays": "France",
+    "complete": "402 Rue Marius Lacrouze, 71850 Charnay-lès-Mâcon"
+  },
+  "telephone": "03 85 34 27 73",
+  "geo": {
+    "latitude": 46.29887,
+    "longitude": 4.80202
+  },
+  "note": 4.5,
+  "avis": 112,
+  "horaires": [
+    {
+      "jour": 0,
+      "ferme": true,
+      "creneaux": []
+    },
+    {
+      "jour": 1,
+      "ferme": false,
+      "creneaux": [
+        [
+          "07:00",
+          "13:00"
+        ]
+      ]
+    },
+    {
+      "jour": 2,
+      "ferme": false,
+      "creneaux": [
+        [
+          "07:00",
+          "13:00"
+        ]
+      ]
+    },
+    {
+      "jour": 3,
+      "ferme": false,
+      "creneaux": [
+        [
+          "07:00",
+          "13:00"
+        ]
+      ]
+    },
+    {
+      "jour": 4,
+      "ferme": false,
+      "creneaux": [
+        [
+          "07:00",
+          "13:00"
+        ]
+      ]
+    },
+    {
+      "jour": 5,
+      "ferme": false,
+      "creneaux": [
+        [
+          "07:00",
+          "13:00"
+        ]
+      ]
+    },
+    {
+      "jour": 6,
+      "ferme": true,
+      "creneaux": []
+    }
+  ],
+  "attributs": [
+    "Entrée accessible en fauteuil roulant",
+    "Parking accessible en fauteuil roulant"
+  ],
+  "lien_google": "https://maps.google.com/?cid=10331168618765067652&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
+  "site_web_gmb": null,
+  "statut": "publiee",
+  "backlink": {
+    "etat": "absent",
+    "premiere_detection": null,
+    "derniere_detection": null,
+    "derniere_verification": "2026-11-16T13:34:11.836Z",
+    "echecs": 1,
+    "url_detectee": null
+  },
+  "suggestion": {
+    "etat": "en-attente",
+    "date_soumission": null,
+    "tentatives": 0,
+    "date_email": "2026-11-16"
+  },
+  "retrait": null,
+  "dates": {
+    "collecte": "2026-11-16",
+    "publication": "2026-11-16",
+    "maj": "2026-11-16"
+  },
+  "source": "google-places",
+  "avis_detail": {
+    "releve": "2026-11-16",
+    "liste": [
+      {
+        "note": 5,
+        "texte": "Très bonne boucherie, très bon rapport qualité prix.\nAccueil aimable",
+        "langue": "fr",
+        "date": "2026-10-07",
+        "auteur": "eliane CURTY",
+        "auteur_lien": "https://www.google.com/maps/contrib/107437623486231450356/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2tWaVNsaHpRbVo2Wm5OM1lYZDNYMmhzYmkwelFrRRAB!2m1!1s0x47f36fc94908673f:0x8f5faf1f3427a584"
+      },
+      {
+        "note": 5,
+        "texte": "jean paul rougier a du se tromper d adresse ou alors c est un faux profils ! nous sommes clients depuis plusieurs années et les produits sont vraiment très bon et de bonne qualité . le petit marché du samedi matin est agréable pour faire ses courses grâce a une équipes sympa et professionnel . moi je consseil a tout le monde de gouter a leurs produits .",
+        "langue": "fr",
+        "date": "2025-11-22",
+        "auteur": "Laurent tetmoc",
+        "auteur_lien": "https://www.google.com/maps/contrib/114084101900563637455/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2tOYVdHdDNORGszTVhwT1prSkJZamRvYmtGQmNrRRAB!2m1!1s0x47f36fc94908673f:0x8f5faf1f3427a584"
+      },
+      {
+        "note": 1,
+        "texte": "J’ai été très déçu à la fois par la qualité des produits et par l’accueil. Les produits que j’ai achetés ne m’ont pas semblé bons, et l’attitude des gérants a été peu professionnelle.\nDans l’ensemble, mon expérience a été négative et je ne recommanderai pas cet établissement",
+        "langue": "fr",
+        "date": "2025-11-07",
+        "auteur": "Jean Paul Rougier",
+        "auteur_lien": "https://www.google.com/maps/contrib/100086325003508610574/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT21Zd1dHMUZUSEpqYVU5Mk4xVXlTR05xU1RSQ05GRRAB!2m1!1s0x47f36fc94908673f:0x8f5faf1f3427a584"
+      },
+      {
+        "note": 5,
+        "texte": "J'adore cette boucherie viande de qualité et prix raisonnable de plus perssonel très professionnel je recommande vivement de plus le samedi matin vous avez comme un petit marché avec un maraîcher un boulanger un fromager de plus on vous offre le thé où le café que du bonheur",
+        "langue": "fr",
+        "date": "2025-05-15",
+        "auteur": "Regis Goutheraud",
+        "auteur_lien": "https://www.google.com/maps/contrib/109366833720646438093/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VKdXI5NF9DN0lXV2d3RRAB!2m1!1s0x47f36fc94908673f:0x8f5faf1f3427a584"
+      },
+      {
+        "note": 1,
+        "texte": "Bonjour très mauvaise expérience ce dimanche, extrêmement déçus. Nous avions commandé deux côtés de boeuf pour 11 personnes. Quelle déception elles étaient bonnes au goût mais très très grasses et nerveuses. Nous avons manqué de viande tellement c'était gras. Nous ne reprendrons pas de côte sans la voir car là c'est abusé. Je pense que pour 68€ nous pouvions espérer mieux. La dernière fois que nous en avions pris mais au magasin rue de l'Heritan elle était délicieuse mais nous l'avions sous les yeux et le boucher nous l'avait degraissée. Et ne me dites pas qu'elle était trop cuite, on a tout essayé, bleu saignante à point, pareil ! Si vous voulez des photos je peux vous les faire passer.\nCordialement.",
+        "langue": "fr",
+        "date": "2023-06-26",
+        "auteur": "Evelyne Perraud",
+        "auteur_lien": "https://www.google.com/maps/contrib/102140016864585233215/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUNKbHVPRVhBEAE!2m1!1s0x47f36fc94908673f:0x8f5faf1f3427a584"
+      }
+    ]
+  },
+  "services": {
+    "releve": "2026-11-16",
+    "options": {
+      "delivery": true
+    },
+    "paiement": [
+      "carte bancaire",
+      "carte de débit",
+      "paiement sans contact"
+    ],
+    "parking": []
+  },
+  "redaction": {
+    "version": 2,
+    "titre": "LA BRESSANNE ARTISANALE — Commerce d'alimentation à Charnay-lès-Mâcon",
+    "meta_titre": "LA BRESSANNE ARTISANALE à Charnay-lès-Mâcon : horaires, avis",
+    "meta_description": "LA BRESSANNE ARTISANALE, commerce d'alimentation à Charnay-lès-Mâcon : horaires d'ouverture, téléphone, adresse et itinéraire.",
+    "chapo": "LA BRESSANNE ARTISANALE, commerce d'alimentation au 402 Rue Marius Lacrouze, à Charnay-lès-Mâcon. Fermé le lundi et le dimanche au relevé du 16 novembre 2026. Téléphone : 03 85 34 27 73. Note Google : 4,5 sur 5 pour 112 avis.",
+    "sections": [
+      {
+        "id": "presentation",
+        "titre": "LA BRESSANNE ARTISANALE en quelques mots",
+        "paragraphes": [
+          "Sur Google, l'établissement est classé « Boucherie », dans notre rubrique Commerce d'alimentation.",
+          "D'après le relevé du 16 novembre 2026, l'établissement est fermé le lundi et le dimanche. Le détail jour par jour figure plus bas."
+        ]
+      },
+      {
+        "id": "prestations",
+        "titre": "Services et équipements de LA BRESSANNE ARTISANALE",
+        "paragraphes": [
+          "Proposé : livraison.",
+          "Moyens de paiement déclarés : carte bancaire, carte de débit et paiement sans contact.",
+          "Ces indications sont déclarées par l'établissement sur sa fiche Google (relevé du 16 novembre 2026)."
+        ]
+      },
+      {
+        "id": "acces",
+        "titre": "Adresse et accès",
+        "paragraphes": [
+          "L'établissement est situé au 402 Rue Marius Lacrouze, 71850 Charnay-lès-Mâcon.",
+          "Coordonnées GPS : 46.29887, 4.80202. Le bouton Itinéraire de cette page ouvre la navigation."
+        ]
+      },
+      {
+        "id": "contact",
+        "titre": "Contacter LA BRESSANNE ARTISANALE",
+        "paragraphes": [
+          "Le contact se fait par téléphone au 03 85 34 27 73, ou directement sur place aux horaires d'ouverture."
+        ]
+      },
+      {
+        "id": "avis",
+        "titre": "La réputation de LA BRESSANNE ARTISANALE",
+        "paragraphes": [
+          "Note de 4,5 sur 5 pour 112 avis Google au relevé du 16 novembre 2026. Les avis les plus parlants sont compilés ci-dessous, avec un lien vers la fiche d'origine."
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "q": "Quels sont les horaires de LA BRESSANNE ARTISANALE ?",
+        "r": "Au relevé du 16 novembre 2026, LA BRESSANNE ARTISANALE était fermé le lundi et le dimanche. Dans le détail — lundi : fermé ; mardi : de 7 h à 13 h ; mercredi : de 7 h à 13 h ; jeudi : de 7 h à 13 h ; vendredi : de 7 h à 13 h ; samedi : de 7 h à 13 h ; dimanche : fermé. Ces horaires peuvent changer : un appel préalable reste conseillé."
+      },
+      {
+        "q": "LA BRESSANNE ARTISANALE est-il ouvert le dimanche ?",
+        "r": "Non : d'après les horaires relevés le 16 novembre 2026, LA BRESSANNE ARTISANALE est fermé le dimanche."
+      },
+      {
+        "q": "Où se trouve LA BRESSANNE ARTISANALE ?",
+        "r": "LA BRESSANNE ARTISANALE se trouve 402 Rue Marius Lacrouze, 71850 Charnay-lès-Mâcon. Un lien d'itinéraire est disponible sur cette page."
+      },
+      {
+        "q": "Comment contacter LA BRESSANNE ARTISANALE ?",
+        "r": "Par téléphone au 03 85 34 27 73, ou directement sur place aux heures d'ouverture."
+      },
+      {
+        "q": "LA BRESSANNE ARTISANALE propose-t-il la vente à emporter ou la livraison ?",
+        "r": "D'après sa fiche Google (relevé du 16 novembre 2026) — livraison : oui."
+      },
+      {
+        "q": "LA BRESSANNE ARTISANALE est-il accessible aux personnes à mobilité réduite ?",
+        "r": "La fiche Google de l'établissement mentionne : « Entrée accessible en fauteuil roulant ». Cette information est déclarative ; en cas de doute, vérifiez par téléphone."
+      }
+    ],
+    "genere_le": "2026-11-16"
+  },
+  "statut_google": "OPERATIONAL",
+  "audience": {
+    "clics": 0,
+    "impressions": 0,
+    "position": null,
+    "fenetreJours": 90,
+    "clicsRecents": 0,
+    "fenetreRecenteJours": 28,
+    "source": "search-console",
+    "date": "2026-11-16"
+  }
+}

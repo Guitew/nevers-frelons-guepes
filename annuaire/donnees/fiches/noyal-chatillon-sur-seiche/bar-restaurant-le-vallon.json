@@ -226,7 +226,7 @@
     "clicsRecents": 0,
     "fenetreRecenteJours": 28,
     "source": "search-console",
-    "date": "2026-11-15"
+    "date": "2026-11-16"
   },
   "avis_detail": {
     "releve": "2026-10-25",
@@ -312,12 +312,12 @@
     ]
   },
   "indexation": {
-    "etat": "non-indexee",
-    "verdict": "NEUTRAL",
-    "couverture": "Google ne reconnaît pas cette URL",
-    "derniere_exploration": null,
-    "canonique_google": null,
+    "etat": "indexee",
+    "verdict": "PASS",
+    "couverture": "Envoyée et indexée",
+    "derniere_exploration": "2026-11-15T16:40:30Z",
+    "canonique_google": "https://andpro.fr/vitrine-locale/restaurants/noyal-chatillon-sur-seiche/bar-restaurant-le-vallon/",
     "source": "inspection",
-    "date": "2026-11-15"
+    "date": "2026-11-16"
   }
 }

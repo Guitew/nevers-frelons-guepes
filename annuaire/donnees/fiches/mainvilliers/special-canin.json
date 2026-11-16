@@ -208,7 +208,7 @@
     "clicsRecents": 0,
     "fenetreRecenteJours": 28,
     "source": "search-console",
-    "date": "2026-11-15"
+    "date": "2026-11-16"
   },
   "avis_detail": {
     "releve": "2026-10-23",
@@ -275,12 +275,12 @@
     ]
   },
   "indexation": {
-    "etat": "non-indexee",
-    "verdict": "NEUTRAL",
-    "couverture": "Détectée, actuellement non indexée",
-    "derniere_exploration": null,
-    "canonique_google": null,
+    "etat": "indexee",
+    "verdict": "PASS",
+    "couverture": "Envoyée et indexée",
+    "derniere_exploration": "2026-11-15T13:19:43Z",
+    "canonique_google": "https://andpro.fr/vitrine-locale/veterinaires-animaux/mainvilliers/special-canin/",
     "source": "inspection",
-    "date": "2026-11-15"
+    "date": "2026-11-16"
   }
 }

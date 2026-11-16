@@ -103,7 +103,7 @@
   "attributs": [],
   "lien_google": "https://maps.google.com/?cid=4101248367935421099&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
   "site_web_gmb": null,
-  "statut": "publiee",
+  "statut": "retiree",
   "backlink": {
     "etat": "absent",
     "premiere_detection": null,
@@ -118,11 +118,16 @@
     "tentatives": 0,
     "date_email": "2026-10-02"
   },
-  "retrait": null,
+  "retrait": {
+    "mode": "410",
+    "cible": null,
+    "date": "2026-11-16",
+    "motif": "backlink jamais posé après 45 jours de délai de grâce"
+  },
   "dates": {
     "collecte": "2026-10-02",
     "publication": "2026-10-02",
-    "maj": "2026-11-10"
+    "maj": "2026-11-16"
   },
   "source": "google-places",
   "redaction": {
@@ -206,7 +211,7 @@
     "clicsRecents": 0,
     "fenetreRecenteJours": 28,
     "source": "search-console",
-    "date": "2026-11-15"
+    "date": "2026-11-16"
   },
   "avis_detail": {
     "releve": "2026-10-24",
@@ -273,12 +278,12 @@
     ]
   },
   "indexation": {
-    "etat": "non-indexee",
-    "verdict": "NEUTRAL",
-    "couverture": "Google ne reconnaît pas cette URL",
-    "derniere_exploration": null,
-    "canonique_google": null,
+    "etat": "indexee",
+    "verdict": "PASS",
+    "couverture": "Envoyée et indexée",
+    "derniere_exploration": "2026-11-15T15:50:28Z",
+    "canonique_google": "https://andpro.fr/vitrine-locale/cafes-bars/colmar/tabac-bar-le-cobra/",
     "source": "inspection",
-    "date": "2026-11-15"
+    "date": "2026-11-16"
   }
 }

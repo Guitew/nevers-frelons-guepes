@@ -1,0 +1,305 @@
+{
+  "id": "ChIJr4E8_8qF50cRd0OW6xkNOcI",
+  "slug": "pharmacie-des-hauts-de-france",
+  "nom": "Pharmacie des hauts de France",
+  "categorie": "pharmacies-opticiens",
+  "categorie_gmb": "Pharmacie",
+  "type_principal": "pharmacy",
+  "types": [
+    "pharmacy",
+    "health",
+    "point_of_interest",
+    "store",
+    "establishment"
+  ],
+  "ville": "Amiens",
+  "ville_slug": "amiens",
+  "adresse": {
+    "rue": "65 Rue du Comte Raoul",
+    "code_postal": "80090",
+    "departement": "80",
+    "region": "Hauts-de-France",
+    "pays": "France",
+    "complete": "65 Rue du Comte Raoul, 80090 Amiens"
+  },
+  "telephone": "03 22 91 65 74",
+  "geo": {
+    "latitude": 49.8845525,
+    "longitude": 2.3159178
+  },
+  "note": 4.6,
+  "avis": 114,
+  "horaires": [
+    {
+      "jour": 0,
+      "ferme": false,
+      "creneaux": [
+        [
+          "08:30",
+          "12:30"
+        ],
+        [
+          "14:00",
+          "21:00"
+        ]
+      ]
+    },
+    {
+      "jour": 1,
+      "ferme": false,
+      "creneaux": [
+        [
+          "08:30",
+          "12:30"
+        ],
+        [
+          "14:00",
+          "21:00"
+        ]
+      ]
+    },
+    {
+      "jour": 2,
+      "ferme": false,
+      "creneaux": [
+        [
+          "08:30",
+          "12:30"
+        ],
+        [
+          "14:00",
+          "21:00"
+        ]
+      ]
+    },
+    {
+      "jour": 3,
+      "ferme": false,
+      "creneaux": [
+        [
+          "08:30",
+          "12:30"
+        ],
+        [
+          "14:00",
+          "21:00"
+        ]
+      ]
+    },
+    {
+      "jour": 4,
+      "ferme": false,
+      "creneaux": [
+        [
+          "08:30",
+          "12:30"
+        ],
+        [
+          "14:00",
+          "21:00"
+        ]
+      ]
+    },
+    {
+      "jour": 5,
+      "ferme": false,
+      "creneaux": [
+        [
+          "08:30",
+          "12:30"
+        ],
+        [
+          "14:00",
+          "21:00"
+        ]
+      ]
+    },
+    {
+      "jour": 6,
+      "ferme": true,
+      "creneaux": []
+    }
+  ],
+  "attributs": [
+    "Entrée accessible en fauteuil roulant",
+    "Parking accessible en fauteuil roulant",
+    "Toilettes accessibles en fauteuil roulant",
+    "Places assises accessibles en fauteuil roulant"
+  ],
+  "lien_google": "https://maps.google.com/?cid=13995231722008363895&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
+  "site_web_gmb": null,
+  "statut": "publiee",
+  "backlink": {
+    "etat": "absent",
+    "premiere_detection": null,
+    "derniere_detection": null,
+    "derniere_verification": "2026-11-16T13:34:11.836Z",
+    "echecs": 1,
+    "url_detectee": null
+  },
+  "suggestion": {
+    "etat": "en-attente",
+    "date_soumission": null,
+    "tentatives": 0,
+    "date_email": "2026-11-16"
+  },
+  "retrait": null,
+  "dates": {
+    "collecte": "2026-11-16",
+    "publication": "2026-11-16",
+    "maj": "2026-11-16"
+  },
+  "source": "google-places",
+  "avis_detail": {
+    "releve": "2026-11-16",
+    "liste": [
+      {
+        "note": 5,
+        "texte": "Bonjour. Une équipe très accueillante et à l’écoute. Merci beaucoup à Vanessa qui a pris le temps de contribuer à résoudre mon souci.",
+        "langue": "fr",
+        "date": "2026-11-05",
+        "auteur": "Caroline Cougoulat",
+        "auteur_lien": "https://www.google.com/maps/contrib/102903077355034496466/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT21ONGRsVXRkazkxYkVJMWFEUnRPSHBUYld0dWQwRRAB!2m1!1s0x47e785caff3c81af:0xc2390d19eb964377"
+      },
+      {
+        "note": 5,
+        "texte": "Bonjour, pharmacie avec une equipe, bienveillante attentive et a l’ecoute, J’ai reçu de meilleur conseils en allant dans cette pharmacie que chez mon médecin traitant.\n(C’est un rensenti personel et une pharmacie ne remplace pas un médecin bien sur)\nUn tres grand professionnalisme merci pour tout !",
+        "langue": "fr",
+        "date": "2026-09-28",
+        "auteur": "Onepiece payo",
+        "auteur_lien": "https://www.google.com/maps/contrib/113730431035508278212/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xsUlgzbEpMWFJSVEhwSlFVMWZlalJDZFV4dU1GRRAB!2m1!1s0x47e785caff3c81af:0xc2390d19eb964377"
+      },
+      {
+        "note": 1,
+        "texte": "⭐️⭐️\nUne expérience très décevante et surtout incompréhensible...\n\nMon compagnon s'est rendu dans cette pharmacie de garde afin de récupérer une contraception d'urgence pour moi, étant donné que je ne pouvais pas me déplacer.\nCelle-ci était ouverte le soir, et la plus proche.\n\nIl lui a été répondu que la pharmacie ne délivrait pas de contraception d'urgence AUX HOMMES.\n\nJ'ai ensuite moi-même pris le téléphone afin d'expliquer la situation. Malgré ça, la pharmacienne avec qui j'ai échangé m'a confirmé ce refus, et m'a proposé d'appeler son patron pour avoir confirmation. J'ai évidemment accepté.\n\nLe responsable ne m'a pas parlé directement (?) et a expliqué à mon compagnon que cette pratique serait une mesure de précaution, afin \"d'éviter qu'un homme puisse mettre le comprimé dans le verre d'une femme à son insu\".\n\nJe peux comprendre qu'une pharmacie ait des préoccupations concernant la sécurité et le détournement d'un médicament. En revanche, instaurer une interdiction générale fondée sur le sexe de la personne qui vient chercher le médicament est problématique.\n\nIl me semble pourtant que selon l'Ordre national des pharmaciens, et ce, depuis le 1er janvier 2023 que \"La contraception d'urgence hormonale peut être délivrée en pharmacie sans prescription médicale et sans avance de frais, À TOUTE PERSONNE, QUELS QUE SOIENT SON SEXE OU SON IDENTITÉ DE GENRE.\"\n\nJ'étais joignable par téléphone en temps réel, j'ai pu échanger directement avec la pharmacienne et expliquer ma situation.\nIl aurait donc été possible de vérifier la demande et de fournir les conseils nécessaires, plutôt que de simplement      \"nous ne délivrons pas aux hommes, revenez vous-même demain\"",
+        "langue": "fr",
+        "date": "2026-08-21",
+        "auteur": "Marie",
+        "auteur_lien": "https://www.google.com/maps/contrib/110814176689605310159/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25CT2EzSTRZM0JvWWtGdGEwUklUbGxuU0VGc1VVRRAB!2m1!1s0x47e785caff3c81af:0xc2390d19eb964377"
+      },
+      {
+        "note": 2,
+        "texte": "Je me suis rendue une fois dans cette pharmacie car c’était la seule ouverte le soir, ce qui est un très bon point 😄\nEn revanche, j’avais une ordonnance pour de la Diprosone en pommade, mais le pharmacien m’a donné une version crème en générique, avec un reste à charge. Je lui ai expliqué que je prends uniquement la Diprosone en pommade depuis des années et qu’elle est habituellement prise en charge. Malgré cela, il a insisté en disant que cela avait toujours été comme ça, qu’il connaissait son métier et que si je n’étais pas d’accord je pouvais allez dans une autre pharmacie.\n\nLe lendemain, je suis donc allée dans une autre pharmacie (bah oui) où j’ai bien obtenu la Diprosone en pommade, entièrement prise en charge. Dommage pour ce manque d’écoute.\nla diprosone en pommade n’existe pas en générique elle existe uniquement en crème et n’est pas prise en charge.",
+        "langue": "fr",
+        "date": "2026-05-26",
+        "auteur": "Ju. _blndl",
+        "auteur_lien": "https://www.google.com/maps/contrib/100224480637080721206/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2tKRVNtUXpTelUxVEVwaU9HTlFTMWwwUlhobExVRRAB!2m1!1s0x47e785caff3c81af:0xc2390d19eb964377"
+      },
+      {
+        "note": 5,
+        "texte": "Une expérience vraiment exceptionnelle dans cette pharmacie ! L’accueil est chaleureux, l’équipe est à l’écoute et prend le temps de bien conseiller avec professionnalisme et bienveillance. On sent qu’ils se soucient réellement des patients, ce qui est très rassurant.\n\nLes explications sont claires, les conseils personnalisés et toujours pertinents. De plus, la pharmacie est propre, bien organisée et l’attente est rapide.\n\nC’est devenu mon adresse de confiance, je recommande vivement !",
+        "langue": "fr",
+        "date": "2026-04-20",
+        "auteur": "herouane collet",
+        "auteur_lien": "https://www.google.com/maps/contrib/108249469075524037172/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xCek1uVndlbXRxVUdOT2VWQTVXa05uVWtSUWFFRRAB!2m1!1s0x47e785caff3c81af:0xc2390d19eb964377"
+      }
+    ]
+  },
+  "services": {
+    "releve": "2026-11-16",
+    "options": {
+      "delivery": true
+    },
+    "paiement": [
+      "carte bancaire",
+      "carte de débit",
+      "paiement sans contact"
+    ],
+    "parking": [
+      "parking gratuit",
+      "stationnement gratuit dans la rue"
+    ]
+  },
+  "redaction": {
+    "version": 2,
+    "titre": "Pharmacie des hauts de France — Pharmacie ou opticien à Amiens",
+    "meta_titre": "Pharmacie des hauts de France à Amiens : horaires, avis",
+    "meta_description": "Pharmacie des hauts de France, pharmacie ou opticien à Amiens : horaires d'ouverture, note Google 4,6/5 (114 avis), téléphone, adresse et itinéraire.",
+    "chapo": "Pharmacie des hauts de France exerce l'activité de pharmacie ou opticien au 65 Rue du Comte Raoul, à Amiens. Ouvert tous les jours sauf le dimanche au relevé du 16 novembre 2026. Téléphone : 03 22 91 65 74. Note Google : 4,6 sur 5 pour 114 avis.",
+    "sections": [
+      {
+        "id": "presentation",
+        "titre": "Pharmacie des hauts de France en quelques mots",
+        "paragraphes": [
+          "Sur Google, l'établissement est classé « Pharmacie », dans notre rubrique Pharmacie ou opticien.",
+          "D'après le relevé du 16 novembre 2026, l'établissement est ouvert tous les jours sauf le dimanche. Le détail jour par jour figure plus bas."
+        ]
+      },
+      {
+        "id": "prestations",
+        "titre": "Services et équipements de Pharmacie des hauts de France",
+        "paragraphes": [
+          "Proposé : livraison.",
+          "Moyens de paiement déclarés : carte bancaire, carte de débit et paiement sans contact.",
+          "Stationnement : parking gratuit et stationnement gratuit dans la rue.",
+          "Ces indications sont déclarées par l'établissement sur sa fiche Google (relevé du 16 novembre 2026)."
+        ]
+      },
+      {
+        "id": "acces",
+        "titre": "Adresse et accès",
+        "paragraphes": [
+          "L'établissement est situé au 65 Rue du Comte Raoul, 80090 Amiens.",
+          "Coordonnées GPS : 49.88455, 2.31592. Le bouton Itinéraire de cette page ouvre la navigation."
+        ]
+      },
+      {
+        "id": "contact",
+        "titre": "Contacter Pharmacie des hauts de France",
+        "paragraphes": [
+          "Le contact se fait par téléphone au 03 22 91 65 74, ou directement sur place aux horaires d'ouverture."
+        ]
+      },
+      {
+        "id": "avis",
+        "titre": "La réputation de Pharmacie des hauts de France",
+        "paragraphes": [
+          "Note de 4,6 sur 5 pour 114 avis Google au relevé du 16 novembre 2026. Les avis les plus parlants sont compilés ci-dessous, avec un lien vers la fiche d'origine."
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "q": "Quels sont les horaires de Pharmacie des hauts de France ?",
+        "r": "Au relevé du 16 novembre 2026, Pharmacie des hauts de France était ouvert tous les jours sauf le dimanche. Dans le détail — lundi : de 8 h 30 à 12 h 30 et de 14 h à 21 h ; mardi : de 8 h 30 à 12 h 30 et de 14 h à 21 h ; mercredi : de 8 h 30 à 12 h 30 et de 14 h à 21 h ; jeudi : de 8 h 30 à 12 h 30 et de 14 h à 21 h ; vendredi : de 8 h 30 à 12 h 30 et de 14 h à 21 h ; samedi : de 8 h 30 à 12 h 30 et de 14 h à 21 h ; dimanche : fermé. Ces horaires peuvent changer : un appel préalable reste conseillé."
+      },
+      {
+        "q": "Pharmacie des hauts de France est-il ouvert le dimanche ?",
+        "r": "Non : d'après les horaires relevés le 16 novembre 2026, Pharmacie des hauts de France est fermé le dimanche."
+      },
+      {
+        "q": "Où se trouve Pharmacie des hauts de France ?",
+        "r": "Pharmacie des hauts de France se trouve 65 Rue du Comte Raoul, 80090 Amiens. Un lien d'itinéraire est disponible sur cette page."
+      },
+      {
+        "q": "Comment contacter Pharmacie des hauts de France ?",
+        "r": "Par téléphone au 03 22 91 65 74, ou directement sur place aux heures d'ouverture."
+      },
+      {
+        "q": "Pharmacie des hauts de France propose-t-il la vente à emporter ou la livraison ?",
+        "r": "D'après sa fiche Google (relevé du 16 novembre 2026) — livraison : oui."
+      },
+      {
+        "q": "Pharmacie des hauts de France est-il accessible aux personnes à mobilité réduite ?",
+        "r": "La fiche Google de l'établissement mentionne : « Entrée accessible en fauteuil roulant ». Cette information est déclarative ; en cas de doute, vérifiez par téléphone."
+      }
+    ],
+    "genere_le": "2026-11-16"
+  },
+  "statut_google": "OPERATIONAL",
+  "audience": {
+    "clics": 0,
+    "impressions": 0,
+    "position": null,
+    "fenetreJours": 90,
+    "clicsRecents": 0,
+    "fenetreRecenteJours": 28,
+    "source": "search-console",
+    "date": "2026-11-16"
+  }
+}

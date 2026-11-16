@@ -1,0 +1,318 @@
+{
+  "id": "ChIJFwcPWGLdlEcRKjwAkzv8hK8",
+  "slug": "angeluzzo",
+  "nom": "Angelùzzo",
+  "categorie": "restaurants",
+  "categorie_gmb": "Restaurant italien",
+  "type_principal": "italian_restaurant",
+  "types": [
+    "italian_restaurant",
+    "european_restaurant",
+    "restaurant",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "ville": "Metz",
+  "ville_slug": "metz",
+  "adresse": {
+    "rue": "20 Rue Jacques Chirac",
+    "code_postal": "57000",
+    "departement": "57",
+    "region": "Grand Est",
+    "pays": "France",
+    "complete": "20 Rue Jacques Chirac, 57000 Metz"
+  },
+  "telephone": "03 87 39 38 15",
+  "geo": {
+    "latitude": 49.104335999999996,
+    "longitude": 6.182146899999999
+  },
+  "note": 4.3,
+  "avis": 580,
+  "horaires": [
+    {
+      "jour": 0,
+      "ferme": false,
+      "creneaux": [
+        [
+          "11:00",
+          "22:00"
+        ]
+      ]
+    },
+    {
+      "jour": 1,
+      "ferme": false,
+      "creneaux": [
+        [
+          "11:00",
+          "22:00"
+        ]
+      ]
+    },
+    {
+      "jour": 2,
+      "ferme": false,
+      "creneaux": [
+        [
+          "11:00",
+          "22:00"
+        ]
+      ]
+    },
+    {
+      "jour": 3,
+      "ferme": false,
+      "creneaux": [
+        [
+          "11:00",
+          "22:00"
+        ]
+      ]
+    },
+    {
+      "jour": 4,
+      "ferme": false,
+      "creneaux": [
+        [
+          "11:00",
+          "23:00"
+        ]
+      ]
+    },
+    {
+      "jour": 5,
+      "ferme": false,
+      "creneaux": [
+        [
+          "11:00",
+          "23:00"
+        ]
+      ]
+    },
+    {
+      "jour": 6,
+      "ferme": false,
+      "creneaux": [
+        [
+          "12:00",
+          "22:00"
+        ]
+      ]
+    }
+  ],
+  "attributs": [
+    "Entrée accessible en fauteuil roulant",
+    "Parking accessible en fauteuil roulant",
+    "Toilettes accessibles en fauteuil roulant",
+    "Places assises accessibles en fauteuil roulant"
+  ],
+  "lien_google": "https://maps.google.com/?cid=12647510986362731562&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
+  "site_web_gmb": null,
+  "statut": "publiee",
+  "backlink": {
+    "etat": "absent",
+    "premiere_detection": null,
+    "derniere_detection": null,
+    "derniere_verification": "2026-11-16T13:34:11.836Z",
+    "echecs": 1,
+    "url_detectee": null
+  },
+  "suggestion": {
+    "etat": "en-attente",
+    "date_soumission": null,
+    "tentatives": 0,
+    "date_email": "2026-11-16"
+  },
+  "retrait": null,
+  "dates": {
+    "collecte": "2026-11-16",
+    "publication": "2026-11-16",
+    "maj": "2026-11-16"
+  },
+  "source": "google-places",
+  "avis_detail": {
+    "releve": "2026-11-16",
+    "liste": [
+      {
+        "note": 5,
+        "texte": "Nous avons passé un excellent moment dans ce restaurant. Nous sommes venus assez tôt et, malgré cela, tout était déjà parfaitement en place. Le service en continu est un vrai plus : nous avons pu prendre tranquillement un apéritif, puis dîner sans aucune pression.\n\nJ’ai demandé au serveur s’il était possible d’apporter un peu plus tôt l’accompagnement de mon plat — un pain spécial — pour ma fille de 10 mois. Il est arrivé rapidement. Quelle ne fut pas ma surprise de le voir ensuite m’en apporter une deuxième portion avec mon plat, sans facturation supplémentaire ! Cela se fait assez rare de nos jours pour ne pas le souligner.\n\nUn service attentionné, prévenant et vraiment appréciable. Nous reviendrons avec plaisir.",
+        "langue": "fr",
+        "date": "2026-10-27",
+        "auteur": "Inès",
+        "auteur_lien": "https://www.google.com/maps/contrib/114639682479262285275/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25aM1gyUTNibUpvUnkxZlduUTNZa2RSYWt4aGVsRRAB!2m1!1s0x4794dd62580f0717:0xaf84fc3b93003c2a"
+      },
+      {
+        "note": 5,
+        "texte": "C'est un super restaurant et le service et rapide.\nLe personnel est génial très gentil toujours avec le sourire.\nOn mange très bien et pas trop cher",
+        "langue": "fr",
+        "date": "2026-07-23",
+        "auteur": "Amanda Anghilieri",
+        "auteur_lien": "https://www.google.com/maps/contrib/111608150458995938080/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2pFNVdtcEtWaTFHU0RGZmJHazRMVXRzUWtZNVMzYxAB!2m1!1s0x4794dd62580f0717:0xaf84fc3b93003c2a"
+      },
+      {
+        "note": 5,
+        "texte": "Deuxième passage et toujours aussi satisfaits hormis pour le service un peu long.\nAccueil chaleureux, décor Italien, forcément, resto très propre et cosy 😀\nDéjeuner pris en terrasse cette fois, une belle terrasse, propre, tables moins rapprochées qu'à l'intérieur et moins de bruit malgré les voitures et les passants.\nPlats excellents et copieux. 😋\nSi vous prenez un apéritif, pas d'accompagnement à grignoter avec, dommage.\nTarifs corrects.\nJe recommande.",
+        "langue": "fr",
+        "date": "2026-07-09",
+        "auteur": "Maryline GUTHMULLER",
+        "auteur_lien": "https://www.google.com/maps/contrib/107865204006834454804/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2tFMVYwbDZRMmxTVkZSclYzcGhlV00zU0VOb1NGRRAB!2m1!1s0x4794dd62580f0717:0xaf84fc3b93003c2a"
+      },
+      {
+        "note": 3,
+        "texte": "Entre les assiettes à moitié vide et les plats qui viennent probablement de chez Metro ou surgelés (ou les deux), c'est pas terrible.\n\nEn revanche, je tiens à signaler que tout le personnel, sans exception, était vraiment aimable et accueillant.\nSi ce n'était pas pour le personnel, je n'aurais mis qu'une étoile.",
+        "langue": "fr",
+        "date": "2026-04-21",
+        "auteur": "Diego Armandò",
+        "auteur_lien": "https://www.google.com/maps/contrib/113032815282487794017/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xOaVdFWnBTRnBOWm1oaWJHbElNMUkxTURGRFRtYxAB!2m1!1s0x4794dd62580f0717:0xaf84fc3b93003c2a"
+      },
+      {
+        "note": 3,
+        "texte": "C’était la première fois que j’essayais ce restaurant. Le service a été rapide et les serveurs sont agréables, ce qui est appréciable.\n\nJ’ai pris des gnocchis, le plat était plutôt bon, rien de particulier à redire.\n\nPetit bémol cependant : les tables sont peut-être un peu trop rapprochées, ce qui peut gêner légèrement.",
+        "langue": "fr",
+        "date": "2026-03-17",
+        "auteur": "Laetitia",
+        "auteur_lien": "https://www.google.com/maps/contrib/100036929130258606364/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xsdFJWTXliRmMxVlVwMlNXODVkRlJvYjFVeFgyYxAB!2m1!1s0x4794dd62580f0717:0xaf84fc3b93003c2a"
+      }
+    ]
+  },
+  "services": {
+    "releve": "2026-11-16",
+    "prix": "PRICE_LEVEL_MODERATE",
+    "options": {
+      "dineIn": true,
+      "delivery": false,
+      "curbsidePickup": false,
+      "reservable": true,
+      "outdoorSeating": true,
+      "servesBreakfast": true,
+      "servesBrunch": false,
+      "servesLunch": true,
+      "servesDinner": true,
+      "servesVegetarianFood": true,
+      "servesCoffee": true,
+      "servesBeer": true,
+      "servesWine": true,
+      "servesCocktails": true,
+      "menuForChildren": true,
+      "goodForChildren": true,
+      "goodForGroups": true,
+      "goodForWatchingSports": false,
+      "liveMusic": false,
+      "restroom": true
+    },
+    "paiement": [
+      "carte bancaire",
+      "carte de débit",
+      "paiement sans contact"
+    ],
+    "parking": [
+      "parking payant",
+      "stationnement payant dans la rue"
+    ]
+  },
+  "redaction": {
+    "version": 2,
+    "titre": "Angelùzzo — Restaurant à Metz",
+    "meta_titre": "Angelùzzo à Metz : horaires, avis, téléphone",
+    "meta_description": "Angelùzzo, restaurant à Metz : horaires d'ouverture, note Google 4,3/5 (580 avis), téléphone, adresse et itinéraire.",
+    "chapo": "Cette fiche présente Angelùzzo, un restaurant au 20 Rue Jacques Chirac, à Metz. Ouvert sept jours sur sept au relevé du 16 novembre 2026. Téléphone : 03 87 39 38 15. Note Google : 4,3 sur 5 pour 580 avis.",
+    "sections": [
+      {
+        "id": "presentation",
+        "titre": "Angelùzzo en quelques mots",
+        "paragraphes": [
+          "Sur Google, l'établissement est classé « Restaurant italien », dans notre rubrique Restaurant.",
+          "Niveau de prix indiqué sur la fiche Google : €€ (modéré).",
+          "D'après le relevé du 16 novembre 2026, l'établissement est ouvert sept jours sur sept. Le détail jour par jour figure plus bas."
+        ]
+      },
+      {
+        "id": "prestations",
+        "titre": "Services et équipements de Angelùzzo",
+        "paragraphes": [
+          "Proposé : sur place, réservation possible, terrasse, petit-déjeuner, déjeuner, dîner, plats végétariens, café, bière, vin, cocktails, menu enfant, adapté aux enfants, adapté aux groupes et toilettes.",
+          "Non proposé selon la fiche Google : livraison, retrait en voiture, brunch, retransmissions sportives et musique live.",
+          "Moyens de paiement déclarés : carte bancaire, carte de débit et paiement sans contact.",
+          "Stationnement : parking payant et stationnement payant dans la rue.",
+          "Ces indications sont déclarées par l'établissement sur sa fiche Google (relevé du 16 novembre 2026)."
+        ]
+      },
+      {
+        "id": "acces",
+        "titre": "Adresse et accès",
+        "paragraphes": [
+          "L'établissement est situé au 20 Rue Jacques Chirac, 57000 Metz.",
+          "Coordonnées GPS : 49.10434, 6.18215. Le bouton Itinéraire de cette page ouvre la navigation."
+        ]
+      },
+      {
+        "id": "contact",
+        "titre": "Contacter Angelùzzo",
+        "paragraphes": [
+          "Le contact se fait par téléphone au 03 87 39 38 15, ou directement sur place aux horaires d'ouverture.",
+          "La fiche Google indique que la réservation est possible."
+        ]
+      },
+      {
+        "id": "avis",
+        "titre": "La réputation de Angelùzzo",
+        "paragraphes": [
+          "Note de 4,3 sur 5 pour 580 avis Google au relevé du 16 novembre 2026. Les avis les plus parlants sont compilés ci-dessous, avec un lien vers la fiche d'origine."
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "q": "Quels sont les horaires de Angelùzzo ?",
+        "r": "Au relevé du 16 novembre 2026, Angelùzzo était ouvert sept jours sur sept. Dans le détail — lundi : de 11 h à 22 h ; mardi : de 11 h à 22 h ; mercredi : de 11 h à 22 h ; jeudi : de 11 h à 22 h ; vendredi : de 11 h à 23 h ; samedi : de 11 h à 23 h ; dimanche : de 12 h à 22 h. Ces horaires peuvent changer : un appel préalable reste conseillé."
+      },
+      {
+        "q": "Angelùzzo est-il ouvert le dimanche ?",
+        "r": "Oui : le dimanche, Angelùzzo est ouvert de 12 h à 22 h (horaires relevés le 16 novembre 2026)."
+      },
+      {
+        "q": "Où se trouve Angelùzzo ?",
+        "r": "Angelùzzo se trouve 20 Rue Jacques Chirac, 57000 Metz. Un lien d'itinéraire est disponible sur cette page."
+      },
+      {
+        "q": "Comment contacter Angelùzzo ?",
+        "r": "Par téléphone au 03 87 39 38 15, ou directement sur place aux heures d'ouverture."
+      },
+      {
+        "q": "Peut-on réserver chez Angelùzzo ?",
+        "r": "Oui, la fiche Google de Angelùzzo indique que la réservation est possible, par téléphone au 03 87 39 38 15."
+      },
+      {
+        "q": "Angelùzzo propose-t-il la vente à emporter ou la livraison ?",
+        "r": "D'après sa fiche Google (relevé du 16 novembre 2026) — livraison : non."
+      },
+      {
+        "q": "Quel est le niveau de prix de Angelùzzo ?",
+        "r": "Google classe Angelùzzo au niveau de prix €€ (modéré), sur une échelle de € à €€€€ établie à partir des avis clients."
+      },
+      {
+        "q": "Angelùzzo est-il accessible aux personnes à mobilité réduite ?",
+        "r": "La fiche Google de l'établissement mentionne : « Entrée accessible en fauteuil roulant ». Cette information est déclarative ; en cas de doute, vérifiez par téléphone."
+      }
+    ],
+    "genere_le": "2026-11-16"
+  },
+  "statut_google": "OPERATIONAL",
+  "audience": {
+    "clics": 0,
+    "impressions": 0,
+    "position": null,
+    "fenetreJours": 90,
+    "clicsRecents": 0,
+    "fenetreRecenteJours": 28,
+    "source": "search-console",
+    "date": "2026-11-16"
+  }
+}

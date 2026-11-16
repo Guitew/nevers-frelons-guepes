@@ -37,7 +37,7 @@
     "longitude": 1.6381552
   },
   "note": 4.8,
-  "avis": 35,
+  "avis": 36,
   "horaires": [
     {
       "jour": 0,
@@ -145,8 +145,8 @@
     "etat": "absent",
     "premiere_detection": null,
     "derniere_detection": null,
-    "derniere_verification": "2026-10-29T11:28:47.587Z",
-    "echecs": 3,
+    "derniere_verification": "2026-11-16T13:34:11.836Z",
+    "echecs": 4,
     "url_detectee": null
   },
   "suggestion": {
@@ -159,7 +159,7 @@
   "dates": {
     "collecte": "2026-10-09",
     "publication": "2026-10-09",
-    "maj": "2026-10-29"
+    "maj": "2026-11-16"
   },
   "source": "google-places",
   "redaction": {
@@ -240,13 +240,13 @@
   "statut_google": "OPERATIONAL",
   "audience": {
     "clics": 0,
-    "impressions": 23,
-    "position": 9.4,
+    "impressions": 29,
+    "position": 9.6,
     "fenetreJours": 90,
     "clicsRecents": 0,
     "fenetreRecenteJours": 28,
     "source": "search-console",
-    "date": "2026-11-15"
+    "date": "2026-11-16"
   },
   "avis_detail": {
     "releve": "2026-10-29",
@@ -309,5 +309,14 @@
       "paiement sans contact"
     ],
     "parking": []
+  },
+  "indexation": {
+    "etat": "indexee",
+    "verdict": null,
+    "couverture": "impressions dans la Search Console",
+    "derniere_exploration": null,
+    "canonique_google": null,
+    "source": "impressions",
+    "date": "2026-11-16"
   }
 }
