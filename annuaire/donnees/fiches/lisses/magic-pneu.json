@@ -1,0 +1,267 @@
+{
+  "id": "ChIJ6b_BaOXd5UcRxtovaCWRDeY",
+  "slug": "magic-pneu",
+  "nom": "Magic pneu",
+  "categorie": "garages-automobile",
+  "categorie_gmb": "Garage automobile",
+  "type_principal": "car_repair",
+  "types": [
+    "car_repair",
+    "point_of_interest",
+    "service",
+    "establishment"
+  ],
+  "ville": "Lisses",
+  "ville_slug": "lisses",
+  "adresse": {
+    "rue": "5 Rue des Malines",
+    "code_postal": "91090",
+    "departement": "91",
+    "region": "Île-de-France",
+    "pays": "France",
+    "complete": "5 Rue des Malines, 91090 Lisses"
+  },
+  "telephone": "07 67 23 80 00",
+  "geo": {
+    "latitude": 48.6040421,
+    "longitude": 2.4194606999999997
+  },
+  "note": 4.9,
+  "avis": 133,
+  "horaires": [
+    {
+      "jour": 0,
+      "ferme": false,
+      "creneaux": [
+        [
+          "09:00",
+          "18:30"
+        ]
+      ]
+    },
+    {
+      "jour": 1,
+      "ferme": false,
+      "creneaux": [
+        [
+          "09:00",
+          "18:30"
+        ]
+      ]
+    },
+    {
+      "jour": 2,
+      "ferme": false,
+      "creneaux": [
+        [
+          "09:00",
+          "18:30"
+        ]
+      ]
+    },
+    {
+      "jour": 3,
+      "ferme": false,
+      "creneaux": [
+        [
+          "09:00",
+          "18:30"
+        ]
+      ]
+    },
+    {
+      "jour": 4,
+      "ferme": false,
+      "creneaux": [
+        [
+          "09:00",
+          "18:30"
+        ]
+      ]
+    },
+    {
+      "jour": 5,
+      "ferme": false,
+      "creneaux": [
+        [
+          "09:00",
+          "17:00"
+        ]
+      ]
+    },
+    {
+      "jour": 6,
+      "ferme": true,
+      "creneaux": []
+    }
+  ],
+  "attributs": [
+    "Entrée accessible en fauteuil roulant",
+    "Parking accessible en fauteuil roulant"
+  ],
+  "lien_google": "https://maps.google.com/?cid=16577065393268447942&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
+  "site_web_gmb": null,
+  "statut": "publiee",
+  "backlink": {
+    "etat": "absent",
+    "premiere_detection": null,
+    "derniere_detection": null,
+    "derniere_verification": "2026-11-17T14:18:39.034Z",
+    "echecs": 1,
+    "url_detectee": null
+  },
+  "suggestion": {
+    "etat": "en-attente",
+    "date_soumission": null,
+    "tentatives": 0,
+    "date_email": "2026-11-17"
+  },
+  "retrait": null,
+  "dates": {
+    "collecte": "2026-11-17",
+    "publication": "2026-11-17",
+    "maj": "2026-11-17"
+  },
+  "source": "google-places",
+  "avis_detail": {
+    "releve": "2026-11-17",
+    "liste": [
+      {
+        "note": 5,
+        "texte": "⭐⭐⭐⭐⭐\n\nJe suis passé au garage pour mes pneus et franchement, rien à redire. Accueil sympathique, travail rapide et sérieux, et surtout des prix corrects. On m’a bien renseigné sans chercher à me faire prendre des prestations inutiles. Ça fait plaisir de trouver un garage professionnel et honnête. Je recommande 👍",
+        "langue": "fr",
+        "date": "2026-08-22",
+        "auteur": "Liam Joussot",
+        "auteur_lien": "https://www.google.com/maps/contrib/111336529251637056799/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT21jM2FXbEtlRWsxUm1kZlVHeHBkQzEzYVZRNGFuYxAB!2m1!1s0x47e5dde568c1bfe9:0xe60d9125682fdac6"
+      },
+      {
+        "note": 5,
+        "texte": "Crevaison survenue vers ikea, j'ai contacté ce garage qui avait pile ce dont j'avais besoin, ils ont été extrêmement réactif, très arrangeant et sympathique, côté tarif encore moins cher que la concurrence.\nUn ouvrier du garage s'est déplacé jusqu'à mon véhicule pour me dépanner, vraiment top, le week-end en plus !\n\nJe recommande vivement Magic pneu, il m'ont vraiment sauvé.",
+        "langue": "fr",
+        "date": "2026-06-20",
+        "auteur": "Shweppes BPJ",
+        "auteur_lien": "https://www.google.com/maps/contrib/104400712614633267756/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT21kNVJEbHFhMkV6UTBsUFJVcDZZbEZ1UlVWNFlVRRAB!2m1!1s0x47e5dde568c1bfe9:0xe60d9125682fdac6"
+      },
+      {
+        "note": 5,
+        "texte": "Service de remplacement de pneus très satisfaisant. Le rapport qualité-prix est excellent, avec des tarifs compétitifs et des pneus de bonne qualité. L’équipe propose des conseils adaptés et le travail est réalisé efficacement. Une adresse fiable pour entretenir son véhicule sans se ruiner.",
+        "langue": "fr",
+        "date": "2026-04-25",
+        "auteur": "Thvakar Balasubramaniam",
+        "auteur_lien": "https://www.google.com/maps/contrib/109458344386466873323/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT21Sek5FUXdRME5KVW5sUFQyRmhXakJMVWtWYWFYYxAB!2m1!1s0x47e5dde568c1bfe9:0xe60d9125682fdac6"
+      },
+      {
+        "note": 5,
+        "texte": "le patron est un gars en or !\nje vous explique mes péripéties\nj’habite lisses j’avais déjà fait appel à magic pneu pour un ioniq 5 travail au top !\ninfirmier libéral sur cerny ( 25 km de lisses )\nlors de la tournée samedi crevaison non réparable sur mon tesla modèl y\nj’avais garder le tel de ce mr\nil est venu me dépanner à 20 h à récupérer mon pneu a fait l’aller retour pour changer ma roue\nle résultat 100 km pour lui aller retour * 2\net moi j’ai pu repartir et finir le week end\nlundi je suis passer chez lui changer la deuxième roue\ntravail au top\nmerci pour le dépannage\nya encore de lHUMAIN sur terre 👌👌",
+        "langue": "fr",
+        "date": "2026-01-10",
+        "auteur": "kevin julien",
+        "auteur_lien": "https://www.google.com/maps/contrib/105801763348531911281/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2psSVgwSldRMUpXYTNaTlNEbHZVRVJoVW5aVE5XYxAB!2m1!1s0x47e5dde568c1bfe9:0xe60d9125682fdac6"
+      },
+      {
+        "note": 5,
+        "texte": "Magic Pneus à Lisses est une adresse exceptionnelle ! Le service y est rapide, professionnel et vraiment orienté client. L’équipe est accueillante, à l’écoute et prend le temps d’expliquer chaque intervention avec clarté. Les prix sont honnêtes, le travail est soigné, et on ressent une vraie volonté de satisfaire le client du début à la fin.\n\nQue ce soit pour un changement de pneus, un contrôle ou un conseil, on repart toujours en confiance. C’est rare de trouver un service aussi sérieux et agréable. Je recommande sans hésiter !",
+        "langue": "fr",
+        "date": "2025-11-22",
+        "auteur": "ionut cosma",
+        "auteur_lien": "https://www.google.com/maps/contrib/117980513791633638311/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2w5dk5XeHNTa3gwYzFkdGNqVlhOMEpKV21OV1pIYxAB!2m1!1s0x47e5dde568c1bfe9:0xe60d9125682fdac6"
+      }
+    ]
+  },
+  "services": {
+    "releve": "2026-11-17",
+    "options": {},
+    "paiement": [
+      "carte bancaire",
+      "carte de débit",
+      "paiement sans contact"
+    ],
+    "parking": []
+  },
+  "redaction": {
+    "version": 2,
+    "titre": "Magic pneu — Garage et automobile à Lisses",
+    "meta_titre": "Magic pneu à Lisses : horaires, avis, téléphone",
+    "meta_description": "Magic pneu, garage et automobile à Lisses : horaires d'ouverture, note Google 4,9/5 (133 avis), téléphone, adresse et itinéraire.",
+    "chapo": "Magic pneu est un garage et automobile au 5 Rue des Malines, à Lisses. Ouvert tous les jours sauf le dimanche au relevé du 17 novembre 2026. Téléphone : 07 67 23 80 00. Note Google : 4,9 sur 5 pour 133 avis.",
+    "sections": [
+      {
+        "id": "presentation",
+        "titre": "Magic pneu en quelques mots",
+        "paragraphes": [
+          "Sur Google, l'établissement est classé « Garage automobile », dans notre rubrique Garage et automobile.",
+          "D'après le relevé du 17 novembre 2026, l'établissement est ouvert tous les jours sauf le dimanche. Le détail jour par jour figure plus bas."
+        ]
+      },
+      {
+        "id": "prestations",
+        "titre": "Services et équipements de Magic pneu",
+        "paragraphes": [
+          "Moyens de paiement déclarés : carte bancaire, carte de débit et paiement sans contact.",
+          "Ces indications sont déclarées par l'établissement sur sa fiche Google (relevé du 17 novembre 2026)."
+        ]
+      },
+      {
+        "id": "acces",
+        "titre": "Adresse et accès",
+        "paragraphes": [
+          "L'établissement est situé au 5 Rue des Malines, 91090 Lisses.",
+          "Coordonnées GPS : 48.60404, 2.41946. Le bouton Itinéraire de cette page ouvre la navigation."
+        ]
+      },
+      {
+        "id": "contact",
+        "titre": "Contacter Magic pneu",
+        "paragraphes": [
+          "Le contact se fait par téléphone au 07 67 23 80 00, ou directement sur place aux horaires d'ouverture."
+        ]
+      },
+      {
+        "id": "avis",
+        "titre": "La réputation de Magic pneu",
+        "paragraphes": [
+          "Note de 4,9 sur 5 pour 133 avis Google au relevé du 17 novembre 2026. Les avis les plus parlants sont compilés ci-dessous, avec un lien vers la fiche d'origine."
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "q": "Quels sont les horaires de Magic pneu ?",
+        "r": "Au relevé du 17 novembre 2026, Magic pneu était ouvert tous les jours sauf le dimanche. Dans le détail — lundi : de 9 h à 18 h 30 ; mardi : de 9 h à 18 h 30 ; mercredi : de 9 h à 18 h 30 ; jeudi : de 9 h à 18 h 30 ; vendredi : de 9 h à 18 h 30 ; samedi : de 9 h à 17 h ; dimanche : fermé. Ces horaires peuvent changer : un appel préalable reste conseillé."
+      },
+      {
+        "q": "Magic pneu est-il ouvert le dimanche ?",
+        "r": "Non : d'après les horaires relevés le 17 novembre 2026, Magic pneu est fermé le dimanche."
+      },
+      {
+        "q": "Où se trouve Magic pneu ?",
+        "r": "Magic pneu se trouve 5 Rue des Malines, 91090 Lisses. Un lien d'itinéraire est disponible sur cette page."
+      },
+      {
+        "q": "Comment contacter Magic pneu ?",
+        "r": "Par téléphone au 07 67 23 80 00, ou directement sur place aux heures d'ouverture."
+      },
+      {
+        "q": "Magic pneu est-il accessible aux personnes à mobilité réduite ?",
+        "r": "La fiche Google de l'établissement mentionne : « Entrée accessible en fauteuil roulant ». Cette information est déclarative ; en cas de doute, vérifiez par téléphone."
+      }
+    ],
+    "genere_le": "2026-11-17"
+  },
+  "statut_google": "OPERATIONAL",
+  "audience": {
+    "clics": 0,
+    "impressions": 0,
+    "position": null,
+    "fenetreJours": 90,
+    "clicsRecents": 0,
+    "fenetreRecenteJours": 28,
+    "source": "search-console",
+    "date": "2026-11-17"
+  }
+}

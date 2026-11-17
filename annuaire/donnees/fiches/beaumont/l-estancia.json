@@ -1,0 +1,309 @@
+{
+  "id": "ChIJ124YZ6Ab90cRDuEoxnteOFM",
+  "slug": "l-estancia",
+  "nom": "L'Estancia",
+  "categorie": "cafes-bars",
+  "categorie_gmb": "Bar",
+  "type_principal": "bar",
+  "types": [
+    "bar",
+    "point_of_interest",
+    "establishment"
+  ],
+  "ville": "Beaumont",
+  "ville_slug": "beaumont",
+  "adresse": {
+    "rue": "59 Avenue du Mont Dore",
+    "code_postal": "63110",
+    "departement": "63",
+    "region": "Auvergne-Rhône-Alpes",
+    "pays": "France",
+    "complete": "59 Av. du Mont Dore, 63110 Beaumont"
+  },
+  "telephone": "04 73 26 74 78",
+  "geo": {
+    "latitude": 45.7493033,
+    "longitude": 3.0790501
+  },
+  "note": 4,
+  "avis": 461,
+  "horaires": [
+    {
+      "jour": 0,
+      "ferme": false,
+      "creneaux": [
+        [
+          "06:00",
+          "20:30"
+        ]
+      ]
+    },
+    {
+      "jour": 1,
+      "ferme": false,
+      "creneaux": [
+        [
+          "06:00",
+          "20:30"
+        ]
+      ]
+    },
+    {
+      "jour": 2,
+      "ferme": false,
+      "creneaux": [
+        [
+          "06:00",
+          "20:30"
+        ]
+      ]
+    },
+    {
+      "jour": 3,
+      "ferme": false,
+      "creneaux": [
+        [
+          "06:00",
+          "20:30"
+        ]
+      ]
+    },
+    {
+      "jour": 4,
+      "ferme": false,
+      "creneaux": [
+        [
+          "06:00",
+          "20:30"
+        ]
+      ]
+    },
+    {
+      "jour": 5,
+      "ferme": false,
+      "creneaux": [
+        [
+          "07:00",
+          "20:30"
+        ]
+      ]
+    },
+    {
+      "jour": 6,
+      "ferme": false,
+      "creneaux": [
+        [
+          "07:00",
+          "20:30"
+        ]
+      ]
+    }
+  ],
+  "attributs": [
+    "Entrée accessible en fauteuil roulant",
+    "Toilettes accessibles en fauteuil roulant",
+    "Places assises accessibles en fauteuil roulant"
+  ],
+  "lien_google": "https://maps.google.com/?cid=5996646789542371598&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
+  "site_web_gmb": null,
+  "statut": "publiee",
+  "backlink": {
+    "etat": "absent",
+    "premiere_detection": null,
+    "derniere_detection": null,
+    "derniere_verification": "2026-11-17T14:18:39.034Z",
+    "echecs": 1,
+    "url_detectee": null
+  },
+  "suggestion": {
+    "etat": "en-attente",
+    "date_soumission": null,
+    "tentatives": 0,
+    "date_email": "2026-11-17"
+  },
+  "retrait": null,
+  "dates": {
+    "collecte": "2026-11-17",
+    "publication": "2026-11-17",
+    "maj": "2026-11-17"
+  },
+  "source": "google-places",
+  "avis_detail": {
+    "releve": "2026-11-17",
+    "liste": [
+      {
+        "note": 4,
+        "texte": "Une fois intégré que, pour des raisons indépendantes de la volonté des propriétaires,  les colis ne sont pas délivrables après 19h il faut reconnaitre que l'accueil y est cordial et le café excellent.",
+        "langue": "fr",
+        "date": "2026-11-05",
+        "auteur": "Frederic EYRAUD",
+        "auteur_lien": "https://www.google.com/maps/contrib/106236062088243992626/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xoSVV6aHVZa1pSTm5OU2RVTXRSMFZ0UVVnNE9WRRAB!2m1!1s0x47f71ba067186ed7:0x53385e7bc628e10e"
+      },
+      {
+        "note": 5,
+        "texte": "L'estancia est un endroit quii à été rénové entièrement avec des propriétaires très agréables. A noter les horaires d'ouverture 7j/7 , bien commode quand on veut récupérer des colis",
+        "langue": "fr",
+        "date": "2026-10-13",
+        "auteur": "Estelle Bertrand",
+        "auteur_lien": "https://www.google.com/maps/contrib/117381494667608975475/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25jd1oxQnFZMDExVkRsd2VVeDFTamxNV1RCa1dVRRAB!2m1!1s0x47f71ba067186ed7:0x53385e7bc628e10e"
+      },
+      {
+        "note": 1,
+        "texte": "Un accueil misérable. J’attendais sagement mon tour quand je me suis fait littéralement virer par un commercial, soutenu par la patronne: C’est mon commercial! Ok mais c’est le client d’abord, c’est le client qui rapporte!!! Au fait, j’ai juste 33 ans de métier en hotel, resto, bistrot… Donc, je bannis votre établissement de mes commerces favoris. À lire les autres commentaires, je ne suis pas étonné.",
+        "langue": "fr",
+        "date": "2026-09-14",
+        "auteur": "Mich' Mich'",
+        "auteur_lien": "https://www.google.com/maps/contrib/103361938995410894174/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25wSE1YVXlUVVZuUVdoU2FFWmtXV1pNUmxGcU1HYxAB!2m1!1s0x47f71ba067186ed7:0x53385e7bc628e10e"
+      },
+      {
+        "note": 2,
+        "texte": "Je me rendais souvent dans ce bar avec mon meilleur ami . Nous n'y allons plus à cause de la serveuse EL...... elle nous renvoyais su les roses ! ne nous servait pas enfin bref elle est très désagréable . Dommage car les deux serveurs V..... et M..... sont très sympas .",
+        "langue": "fr",
+        "date": "2026-07-28",
+        "auteur": "villeneuve jacques",
+        "auteur_lien": "https://www.google.com/maps/contrib/115153101808038279222/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT21JeE9YQlpVVXhEVDNOWmJXTk1RbXRPUzI1NFIyYxAB!2m1!1s0x47f71ba067186ed7:0x53385e7bc628e10e"
+      },
+      {
+        "note": 5,
+        "texte": "Excellent accueil.  Personnel très sympathique accueillant.  Amplitude horaires et jours d'ouverture exceptionnels. De nombreuses prestations. Pas de restauration à ma connaissance. Jamais eu de difficultés pour les colis. 15 ans de fréquentation et nouvelle équipe très très sympa. Merci à vous.",
+        "langue": "fr",
+        "date": "2026-07-20",
+        "auteur": "Kti BOO",
+        "auteur_lien": "https://www.google.com/maps/contrib/102151758790478602905/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT213MlVscHNiREJGTm1SWE5XTTFWbUZpV0U5ek5uYxAB!2m1!1s0x47f71ba067186ed7:0x53385e7bc628e10e"
+      }
+    ]
+  },
+  "services": {
+    "releve": "2026-11-17",
+    "prix": "PRICE_LEVEL_INEXPENSIVE",
+    "resume": "Bar historique proposant des boissons dans un environnement simple et compact avec tables de pique-nique en plein air.",
+    "resume_langue": "fr",
+    "options": {
+      "dineIn": true,
+      "takeout": false,
+      "delivery": false,
+      "reservable": false,
+      "outdoorSeating": true,
+      "servesBeer": true,
+      "servesWine": true,
+      "servesCocktails": true,
+      "goodForChildren": false,
+      "goodForGroups": true,
+      "goodForWatchingSports": true,
+      "liveMusic": false,
+      "allowsDogs": true,
+      "restroom": true
+    },
+    "paiement": [
+      "carte bancaire",
+      "carte de débit",
+      "paiement sans contact"
+    ],
+    "parking": [
+      "stationnement gratuit dans la rue"
+    ]
+  },
+  "redaction": {
+    "version": 2,
+    "titre": "L'Estancia — Café ou bar à Beaumont",
+    "meta_titre": "L'Estancia à Beaumont : horaires, avis, téléphone",
+    "meta_description": "L'Estancia, café ou bar à Beaumont : horaires d'ouverture, note Google 4/5 (461 avis), téléphone, adresse et itinéraire.",
+    "chapo": "L'Estancia exerce l'activité de café ou bar au 59 Avenue du Mont Dore, à Beaumont. Ouvert sept jours sur sept au relevé du 17 novembre 2026. Téléphone : 04 73 26 74 78. Note Google : 4 sur 5 pour 461 avis.",
+    "sections": [
+      {
+        "id": "presentation",
+        "titre": "L'Estancia en quelques mots",
+        "paragraphes": [
+          "Présentation donnée par Google : « Bar historique proposant des boissons dans un environnement simple et compact avec tables de pique-nique en plein air. »",
+          "Sur Google, l'établissement est classé « Bar », dans notre rubrique Café ou bar.",
+          "Niveau de prix indiqué sur la fiche Google : € (bon marché).",
+          "D'après le relevé du 17 novembre 2026, l'établissement est ouvert sept jours sur sept. Le détail jour par jour figure plus bas."
+        ]
+      },
+      {
+        "id": "prestations",
+        "titre": "Services et équipements de L'Estancia",
+        "paragraphes": [
+          "Proposé : sur place, terrasse, bière, vin, cocktails, adapté aux groupes, retransmissions sportives, chiens acceptés et toilettes.",
+          "Non proposé selon la fiche Google : à emporter, livraison, réservation possible, adapté aux enfants et musique live.",
+          "Moyens de paiement déclarés : carte bancaire, carte de débit et paiement sans contact.",
+          "Stationnement : stationnement gratuit dans la rue.",
+          "Ces indications sont déclarées par l'établissement sur sa fiche Google (relevé du 17 novembre 2026)."
+        ]
+      },
+      {
+        "id": "acces",
+        "titre": "Adresse et accès",
+        "paragraphes": [
+          "L'établissement est situé au 59 Avenue du Mont Dore, 63110 Beaumont.",
+          "Coordonnées GPS : 45.74930, 3.07905. Le bouton Itinéraire de cette page ouvre la navigation."
+        ]
+      },
+      {
+        "id": "contact",
+        "titre": "Contacter L'Estancia",
+        "paragraphes": [
+          "Le contact se fait par téléphone au 04 73 26 74 78, ou directement sur place aux horaires d'ouverture."
+        ]
+      },
+      {
+        "id": "avis",
+        "titre": "La réputation de L'Estancia",
+        "paragraphes": [
+          "Note de 4 sur 5 pour 461 avis Google au relevé du 17 novembre 2026. Les avis les plus parlants sont compilés ci-dessous, avec un lien vers la fiche d'origine."
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "q": "Quels sont les horaires de L'Estancia ?",
+        "r": "Au relevé du 17 novembre 2026, L'Estancia était ouvert sept jours sur sept. Dans le détail — lundi : de 6 h à 20 h 30 ; mardi : de 6 h à 20 h 30 ; mercredi : de 6 h à 20 h 30 ; jeudi : de 6 h à 20 h 30 ; vendredi : de 6 h à 20 h 30 ; samedi : de 7 h à 20 h 30 ; dimanche : de 7 h à 20 h 30. Ces horaires peuvent changer : un appel préalable reste conseillé."
+      },
+      {
+        "q": "L'Estancia est-il ouvert le dimanche ?",
+        "r": "Oui : le dimanche, L'Estancia est ouvert de 7 h à 20 h 30 (horaires relevés le 17 novembre 2026)."
+      },
+      {
+        "q": "Où se trouve L'Estancia ?",
+        "r": "L'Estancia se trouve 59 Av. du Mont Dore, 63110 Beaumont. Un lien d'itinéraire est disponible sur cette page."
+      },
+      {
+        "q": "Comment contacter L'Estancia ?",
+        "r": "Par téléphone au 04 73 26 74 78, ou directement sur place aux heures d'ouverture."
+      },
+      {
+        "q": "Peut-on réserver chez L'Estancia ?",
+        "r": "La fiche Google de L'Estancia indique que la réservation n'est pas proposée."
+      },
+      {
+        "q": "L'Estancia propose-t-il la vente à emporter ou la livraison ?",
+        "r": "D'après sa fiche Google (relevé du 17 novembre 2026) — vente à emporter : non ; livraison : non."
+      },
+      {
+        "q": "Quel est le niveau de prix de L'Estancia ?",
+        "r": "Google classe L'Estancia au niveau de prix € (bon marché), sur une échelle de € à €€€€ établie à partir des avis clients."
+      },
+      {
+        "q": "L'Estancia est-il accessible aux personnes à mobilité réduite ?",
+        "r": "La fiche Google de l'établissement mentionne : « Entrée accessible en fauteuil roulant ». Cette information est déclarative ; en cas de doute, vérifiez par téléphone."
+      }
+    ],
+    "genere_le": "2026-11-17"
+  },
+  "statut_google": "OPERATIONAL",
+  "audience": {
+    "clics": 0,
+    "impressions": 0,
+    "position": null,
+    "fenetreJours": 90,
+    "clicsRecents": 0,
+    "fenetreRecenteJours": 28,
+    "source": "search-console",
+    "date": "2026-11-17"
+  }
+}

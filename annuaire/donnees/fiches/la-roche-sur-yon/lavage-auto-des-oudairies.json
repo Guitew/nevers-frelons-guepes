@@ -1,0 +1,238 @@
+{
+  "id": "ChIJg__tVH8vBEgRxIJAkmdfBdY",
+  "slug": "lavage-auto-des-oudairies",
+  "nom": "LAVAGE AUTO DES OUDAIRIES",
+  "categorie": "garages-automobile",
+  "categorie_gmb": "Station de lavage automobile",
+  "type_principal": "car_wash",
+  "types": [
+    "car_wash",
+    "tire_shop",
+    "auto_parts_store",
+    "car_repair",
+    "store",
+    "point_of_interest",
+    "service",
+    "establishment"
+  ],
+  "ville": "La Roche-sur-Yon",
+  "ville_slug": "la-roche-sur-yon",
+  "adresse": {
+    "rue": "27 Boulevard Don Quichotte",
+    "code_postal": "85000",
+    "departement": "85",
+    "region": "Pays de la Loire",
+    "pays": "France",
+    "complete": "27 Bd Don Quichotte, 85000 La Roche-sur-Yon"
+  },
+  "telephone": "02 51 46 11 11",
+  "geo": {
+    "latitude": 46.666870599999996,
+    "longitude": -1.4073533
+  },
+  "note": 3.9,
+  "avis": 116,
+  "horaires": [
+    {
+      "jour": 0,
+      "ferme": true,
+      "creneaux": []
+    },
+    {
+      "jour": 1,
+      "ferme": true,
+      "creneaux": []
+    },
+    {
+      "jour": 2,
+      "ferme": true,
+      "creneaux": []
+    },
+    {
+      "jour": 3,
+      "ferme": true,
+      "creneaux": []
+    },
+    {
+      "jour": 4,
+      "ferme": true,
+      "creneaux": []
+    },
+    {
+      "jour": 5,
+      "ferme": true,
+      "creneaux": []
+    },
+    {
+      "jour": 6,
+      "ferme": false,
+      "creneaux": [
+        [
+          "00:00",
+          "23:59"
+        ]
+      ]
+    }
+  ],
+  "attributs": [],
+  "lien_google": "https://maps.google.com/?cid=15421837397440103108&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
+  "site_web_gmb": null,
+  "statut": "publiee",
+  "backlink": {
+    "etat": "absent",
+    "premiere_detection": null,
+    "derniere_detection": null,
+    "derniere_verification": "2026-11-17T14:18:39.034Z",
+    "echecs": 1,
+    "url_detectee": null
+  },
+  "suggestion": {
+    "etat": "en-attente",
+    "date_soumission": null,
+    "tentatives": 0,
+    "date_email": "2026-11-17"
+  },
+  "retrait": null,
+  "dates": {
+    "collecte": "2026-11-17",
+    "publication": "2026-11-17",
+    "maj": "2026-11-17"
+  },
+  "source": "google-places",
+  "avis_detail": {
+    "releve": "2026-11-17",
+    "liste": [
+      {
+        "note": 1,
+        "texte": "J'ai mis une étoile car je ne peux pas mettre moins .... Je suis déçu mais vraiment... Le lavage et médiocre ! Il faudrais revoir vos machine !!",
+        "langue": "fr",
+        "date": "2026-09-03",
+        "auteur": "arthur marques",
+        "auteur_lien": "https://www.google.com/maps/contrib/116422532611259581265/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25sdk5EVnZORGhXVFU5cVNVNHRSWFZFWkV0clUzYxAB!2m1!1s0x48042f7f54edff83:0xd6055f67924082c4"
+      },
+      {
+        "note": 4,
+        "texte": "Ce lavage auto est pratique mais attention au tarif on vous annonce 2 € le jetons. quand vous allez à la caisse, si vous ne prenez que deux jetons vous payer 5 € et non 4 euro. Évidemment les prix sont dégressifs plus vous prenez de jetons et moins vous payer.",
+        "langue": "fr",
+        "date": "2026-01-21",
+        "auteur": "Alexis Guinebretiere",
+        "auteur_lien": "https://www.google.com/maps/contrib/106916521511699261598/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT21kRWNFZEpNSFJ2TkZGRVpqRmxWRzR4VlRSUVYxRRAB!2m1!1s0x48042f7f54edff83:0xd6055f67924082c4"
+      },
+      {
+        "note": 2,
+        "texte": "C'est ma première fois de laver ma voiture dans ce centre de lavage, et je suis certain que je ne reviendrai pas.\n\nLa piste de lavage est vétuste, pas d’entretien, le sol n’est pas propre. Dommage pour un endroit où un coup de haute pression régulièrement règle ce problème. Après, le monnayeur pour les jantes n'affiche rien, on ne sait pas combien de temps on a pour le lavage. On peut y mettre que 2€ ou des jetons. Il faut y aller assez vite pour les jantes.\n\nPour l’autre monnayeur, il affiche le solde, mais là c’est une belle arnaque. Je mets 2€ et le moniteur m’affiche 1,95€, où sont passés les 0,05€?\nDonc on nous prend cette somme à chaque pièce introduite.\n\nPas une bonne expérience de lavage, j’y reviendrai pas.",
+        "langue": "fr",
+        "date": "2025-08-16",
+        "auteur": "Rui Monteiro",
+        "auteur_lien": "https://www.google.com/maps/contrib/100253986215804471353/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xoUGJWcGxlazVYU21KdFltbHhjVlZNT0ZweGFFRRAB!2m1!1s0x48042f7f54edff83:0xd6055f67924082c4"
+      },
+      {
+        "note": 1,
+        "texte": "Comment perdre de l'argent quand on vient d'une autre ville, avec des jetons valable seulement dans ce centre.\n\nRéponse au propriétaire:\nQuand on veut faire des économies, on prend des jetons car ça revient moins cher, mais une fois qu'on est parti de la roche sur yon, impossible d'utiliser les jetons ailleurs, résultat on perd de l'argent.\nA moins que le propriétaire fasse l'échange dans l'autre sens contre de l'argent?",
+        "langue": "fr",
+        "date": "2025-07-07",
+        "auteur": "Renaud Carayon",
+        "auteur_lien": "https://www.google.com/maps/contrib/109355943986653409699/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xobE5qZFRRWFZEWVhkcE9YWmFiRkJQVkVSMFpIYxAB!2m1!1s0x48042f7f54edff83:0xd6055f67924082c4"
+      },
+      {
+        "note": 5,
+        "texte": "Garagiste de pneus souriant et extrêmement arrangent, j'y suis allée pour mon flanc du pneu déchiré et le jour même me l'a changer avec un prix en-dessous de la moyenne et je précise avec un travail bien fait dans le professionnalisme. Je recommande.",
+        "langue": "fr",
+        "date": "2024-08-20",
+        "auteur": "AngeĐechus AsD",
+        "auteur_lien": "https://www.google.com/maps/contrib/111065051363125018476/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUQ3c01ud1VBEAE!2m1!1s0x48042f7f54edff83:0xd6055f67924082c4"
+      }
+    ]
+  },
+  "services": {
+    "releve": "2026-11-17",
+    "options": {},
+    "paiement": [
+      "carte de débit",
+      "paiement sans contact"
+    ],
+    "parking": []
+  },
+  "redaction": {
+    "version": 2,
+    "titre": "LAVAGE AUTO DES OUDAIRIES — Garage et automobile à La Roche-sur-Yon",
+    "meta_titre": "LAVAGE AUTO DES OUDAIRIES : horaires, avis, téléphone",
+    "meta_description": "LAVAGE AUTO DES OUDAIRIES, garage et automobile à La Roche-sur-Yon : horaires d'ouverture, note Google 3,9/5 (116 avis), téléphone, adresse et itinéraire.",
+    "chapo": "LAVAGE AUTO DES OUDAIRIES, garage et automobile au 27 Boulevard Don Quichotte, à La Roche-sur-Yon. Ouvert le dimanche au relevé du 17 novembre 2026. Téléphone : 02 51 46 11 11. Note Google : 3,9 sur 5 pour 116 avis.",
+    "sections": [
+      {
+        "id": "presentation",
+        "titre": "LAVAGE AUTO DES OUDAIRIES en quelques mots",
+        "paragraphes": [
+          "Sur Google, l'établissement est classé « Station de lavage automobile », dans notre rubrique Garage et automobile.",
+          "D'après le relevé du 17 novembre 2026, l'établissement est ouvert le dimanche. Le détail jour par jour figure plus bas."
+        ]
+      },
+      {
+        "id": "prestations",
+        "titre": "Services et équipements de LAVAGE AUTO DES OUDAIRIES",
+        "paragraphes": [
+          "Moyens de paiement déclarés : carte de débit et paiement sans contact.",
+          "Ces indications sont déclarées par l'établissement sur sa fiche Google (relevé du 17 novembre 2026)."
+        ]
+      },
+      {
+        "id": "acces",
+        "titre": "Adresse et accès",
+        "paragraphes": [
+          "L'établissement est situé au 27 Boulevard Don Quichotte, 85000 La Roche-sur-Yon.",
+          "Coordonnées GPS : 46.66687, -1.40735. Le bouton Itinéraire de cette page ouvre la navigation."
+        ]
+      },
+      {
+        "id": "contact",
+        "titre": "Contacter LAVAGE AUTO DES OUDAIRIES",
+        "paragraphes": [
+          "Le contact se fait par téléphone au 02 51 46 11 11, ou directement sur place aux horaires d'ouverture."
+        ]
+      },
+      {
+        "id": "avis",
+        "titre": "La réputation de LAVAGE AUTO DES OUDAIRIES",
+        "paragraphes": [
+          "Note de 3,9 sur 5 pour 116 avis Google au relevé du 17 novembre 2026. Les avis les plus parlants sont compilés ci-dessous, avec un lien vers la fiche d'origine."
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "q": "Quels sont les horaires de LAVAGE AUTO DES OUDAIRIES ?",
+        "r": "Au relevé du 17 novembre 2026, LAVAGE AUTO DES OUDAIRIES était ouvert le dimanche. Dans le détail — lundi : fermé ; mardi : fermé ; mercredi : fermé ; jeudi : fermé ; vendredi : fermé ; samedi : fermé ; dimanche : de 0 h à 23 h 59. Ces horaires peuvent changer : un appel préalable reste conseillé."
+      },
+      {
+        "q": "LAVAGE AUTO DES OUDAIRIES est-il ouvert le dimanche ?",
+        "r": "Oui : le dimanche, LAVAGE AUTO DES OUDAIRIES est ouvert de 0 h à 23 h 59 (horaires relevés le 17 novembre 2026)."
+      },
+      {
+        "q": "Où se trouve LAVAGE AUTO DES OUDAIRIES ?",
+        "r": "LAVAGE AUTO DES OUDAIRIES se trouve 27 Bd Don Quichotte, 85000 La Roche-sur-Yon. Un lien d'itinéraire est disponible sur cette page."
+      },
+      {
+        "q": "Comment contacter LAVAGE AUTO DES OUDAIRIES ?",
+        "r": "Par téléphone au 02 51 46 11 11, ou directement sur place aux heures d'ouverture."
+      }
+    ],
+    "genere_le": "2026-11-17"
+  },
+  "statut_google": "OPERATIONAL",
+  "audience": {
+    "clics": 0,
+    "impressions": 0,
+    "position": null,
+    "fenetreJours": 90,
+    "clicsRecents": 0,
+    "fenetreRecenteJours": 28,
+    "source": "search-console",
+    "date": "2026-11-17"
+  }
+}

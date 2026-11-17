@@ -207,7 +207,7 @@
     "clicsRecents": 0,
     "fenetreRecenteJours": 28,
     "source": "search-console",
-    "date": "2026-11-16"
+    "date": "2026-11-17"
   },
   "avis_detail": {
     "releve": "2026-10-26",
@@ -282,5 +282,14 @@
     "parking": [
       "parking gratuit"
     ]
+  },
+  "indexation": {
+    "etat": "indexee",
+    "verdict": "PASS",
+    "couverture": "Envoyée et indexée",
+    "derniere_exploration": "2026-11-15T18:01:37Z",
+    "canonique_google": "https://andpro.fr/vitrine-locale/restaurants/angers/restaurant-le-retro/",
+    "source": "inspection",
+    "date": "2026-11-17"
   }
 }

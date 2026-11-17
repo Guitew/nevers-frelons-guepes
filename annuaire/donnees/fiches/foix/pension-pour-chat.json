@@ -105,15 +105,15 @@
     "Parking accessible en fauteuil roulant"
   ],
   "lien_google": "https://maps.google.com/?cid=12854660899164745141&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
-  "site_web_gmb": null,
+  "site_web_gmb": "https://andpro.fr/vitrine-locale/veterinaires-animaux/foix/pension-pour-chat/",
   "statut": "publiee",
   "backlink": {
-    "etat": "absent",
-    "premiere_detection": null,
-    "derniere_detection": null,
-    "derniere_verification": "2026-10-30T11:21:01.088Z",
-    "echecs": 1,
-    "url_detectee": null
+    "etat": "present",
+    "premiere_detection": "2026-11-17T14:18:39.034Z",
+    "derniere_detection": "2026-11-17T14:18:39.034Z",
+    "derniere_verification": "2026-11-17T14:18:39.034Z",
+    "echecs": 0,
+    "url_detectee": "https://andpro.fr/vitrine-locale/veterinaires-animaux/foix/pension-pour-chat/"
   },
   "suggestion": {
     "etat": "soumise",
@@ -125,7 +125,7 @@
   "dates": {
     "collecte": "2026-10-30",
     "publication": "2026-10-30",
-    "maj": "2026-10-31"
+    "maj": "2026-11-17"
   },
   "source": "google-places",
   "avis_detail": {
@@ -242,13 +242,13 @@
   },
   "statut_google": "OPERATIONAL",
   "audience": {
-    "clics": 10,
-    "impressions": 123,
-    "position": 2.4,
+    "clics": 12,
+    "impressions": 132,
+    "position": 2.3,
     "fenetreJours": 90,
-    "clicsRecents": 10,
+    "clicsRecents": 12,
     "fenetreRecenteJours": 28,
     "source": "search-console",
-    "date": "2026-11-16"
+    "date": "2026-11-17"
   }
 }

@@ -1,5 +1,179 @@
 [
   {
+    "date": "2026-11-17T14:21:56.169Z",
+    "type": "suggestion-soumise",
+    "id": "ChIJFwcPWGLdlEcRKjwAkzv8hK8",
+    "nom": "Angelùzzo",
+    "url": "/restaurants/metz/angeluzzo/"
+  },
+  {
+    "date": "2026-11-17T14:21:56.116Z",
+    "type": "suggestion-soumise",
+    "id": "ChIJP2cISclv80cRhKUnNB-vX48",
+    "nom": "LA BRESSANNE ARTISANALE",
+    "url": "/commerces-alimentation/charnay-les-macon/la-bressanne-artisanale/"
+  },
+  {
+    "date": "2026-11-17T14:21:56.053Z",
+    "type": "suggestion-soumise",
+    "id": "ChIJ7wOkFFfdrRIROtrj8bvX14Y",
+    "nom": "La Raquette",
+    "url": "/restaurants/albi/la-raquette/"
+  },
+  {
+    "date": "2026-11-17T14:21:55.993Z",
+    "type": "suggestion-soumise",
+    "id": "ChIJr4E8_8qF50cRd0OW6xkNOcI",
+    "nom": "Pharmacie des hauts de France",
+    "url": "/pharmacies-opticiens/amiens/pharmacie-des-hauts-de-france/"
+  },
+  {
+    "date": "2026-11-17T14:21:54.980Z",
+    "type": "retrait-410",
+    "id": "ChIJ-XMGJ_4fD0gRa8pT4wuEDd8",
+    "nom": "Bar Restaurant Le Vallon",
+    "url": "/restaurants/noyal-chatillon-sur-seiche/bar-restaurant-le-vallon/",
+    "motif": "backlink jamais posé après 45 jours de délai de grâce",
+    "cible": null
+  },
+  {
+    "date": "2026-11-17T14:21:54.983Z",
+    "type": "retrait-410",
+    "id": "ChIJI9XlJvGV-kcR_d35mDc6M4I",
+    "nom": "Bourges",
+    "url": "/hebergement/bourges/bourges/",
+    "motif": "backlink jamais posé après 45 jours de délai de grâce",
+    "cible": null
+  },
+  {
+    "date": "2026-11-17T14:21:54.985Z",
+    "type": "retrait-410",
+    "id": "ChIJ13D_-7OayxIROJvh4szhkwo",
+    "nom": "Digne d'un Pain",
+    "url": "/boulangeries-patisseries/digne-les-bains/digne-d-un-pain/",
+    "motif": "backlink jamais posé après 45 jours de délai de grâce",
+    "cible": null
+  },
+  {
+    "date": "2026-11-17T14:21:54.987Z",
+    "type": "retrait-410",
+    "id": "ChIJNXkbVD46tRIRYUUwJUo_tWI",
+    "nom": "Le Poivre d'Ane",
+    "url": "/restaurants/coux/le-poivre-d-ane/",
+    "motif": "backlink jamais posé après 45 jours de délai de grâce",
+    "cible": null
+  },
+  {
+    "date": "2026-11-17T14:21:54.988Z",
+    "type": "retrait-410",
+    "id": "ChIJC47uEw1AyxIRbJ_01cpEloo",
+    "nom": "Mon Hôtel à Gap",
+    "url": "/hebergement/gap/mon-hotel-a-gap/",
+    "motif": "backlink jamais posé après 45 jours de délai de grâce",
+    "cible": null
+  },
+  {
+    "date": "2026-11-17T14:18:39.347Z",
+    "type": "backlink-absent",
+    "id": "ChIJW7gl3m9vkUcRbC-qhoQKltg",
+    "nom": "Esprit Libre",
+    "url": null,
+    "precedent": "en-attente"
+  },
+  {
+    "date": "2026-11-17T14:18:39.436Z",
+    "type": "backlink-absent",
+    "id": "ChIJ124YZ6Ab90cRDuEoxnteOFM",
+    "nom": "L'Estancia",
+    "url": null,
+    "precedent": "en-attente"
+  },
+  {
+    "date": "2026-11-17T14:18:39.586Z",
+    "type": "backlink-absent",
+    "id": "ChIJg__tVH8vBEgRxIJAkmdfBdY",
+    "nom": "LAVAGE AUTO DES OUDAIRIES",
+    "url": null,
+    "precedent": "en-attente"
+  },
+  {
+    "date": "2026-11-17T14:18:39.676Z",
+    "type": "backlink-absent",
+    "id": "ChIJ6b_BaOXd5UcRxtovaCWRDeY",
+    "nom": "Magic pneu",
+    "url": null,
+    "precedent": "en-attente"
+  },
+  {
+    "date": "2026-11-17T14:18:39.821Z",
+    "type": "backlink-absent",
+    "id": "ChIJ5WCZs9kRrxIR5PMCxsKs8-s",
+    "nom": "Restaurant Pizzeria La Galène Foix",
+    "url": null,
+    "precedent": "en-attente"
+  },
+  {
+    "date": "2026-11-17T14:18:40.605Z",
+    "type": "backlink-externe",
+    "id": "ChIJHWG8oDsbyRIRoUZzqQhA5RA",
+    "nom": "Palais des sports Jauréguiberry",
+    "url": "https://metropoletpm.fr/palais-des-sports-tpm",
+    "precedent": "absent"
+  },
+  {
+    "date": "2026-11-17T14:18:40.759Z",
+    "type": "backlink-present",
+    "id": "ChIJfUEA6aAXrxIRtW3RGvvtZLI",
+    "nom": "Pension pour chat",
+    "url": "https://andpro.fr/vitrine-locale/veterinaires-animaux/foix/pension-pour-chat/",
+    "precedent": "absent"
+  },
+  {
+    "date": "2026-11-17T14:18:38.471Z",
+    "type": "publication",
+    "id": "ChIJg__tVH8vBEgRxIJAkmdfBdY",
+    "nom": "LAVAGE AUTO DES OUDAIRIES",
+    "url": "/garages-automobile/la-roche-sur-yon/lavage-auto-des-oudairies/",
+    "categorie": "garages-automobile",
+    "source": "google-places"
+  },
+  {
+    "date": "2026-11-17T14:18:38.585Z",
+    "type": "publication",
+    "id": "ChIJW7gl3m9vkUcRbC-qhoQKltg",
+    "nom": "Esprit Libre",
+    "url": "/restaurants/horbourg-wihr/esprit-libre/",
+    "categorie": "restaurants",
+    "source": "google-places"
+  },
+  {
+    "date": "2026-11-17T14:18:38.694Z",
+    "type": "publication",
+    "id": "ChIJ124YZ6Ab90cRDuEoxnteOFM",
+    "nom": "L'Estancia",
+    "url": "/cafes-bars/beaumont/l-estancia/",
+    "categorie": "cafes-bars",
+    "source": "google-places"
+  },
+  {
+    "date": "2026-11-17T14:18:38.795Z",
+    "type": "publication",
+    "id": "ChIJ6b_BaOXd5UcRxtovaCWRDeY",
+    "nom": "Magic pneu",
+    "url": "/garages-automobile/lisses/magic-pneu/",
+    "categorie": "garages-automobile",
+    "source": "google-places"
+  },
+  {
+    "date": "2026-11-17T14:18:38.893Z",
+    "type": "publication",
+    "id": "ChIJ5WCZs9kRrxIR5PMCxsKs8-s",
+    "nom": "Restaurant Pizzeria La Galène Foix",
+    "url": "/restaurants/ferrieres-sur-ariege/restaurant-pizzeria-la-galene-foix/",
+    "categorie": "restaurants",
+    "source": "google-places"
+  },
+  {
     "date": "2026-11-16T13:37:36.484Z",
     "type": "suggestion-soumise",
     "id": "ChIJe1avo-uV_UcRHIWf7bcKHhg",

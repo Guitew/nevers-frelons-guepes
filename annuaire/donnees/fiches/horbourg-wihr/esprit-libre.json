@@ -1,0 +1,327 @@
+{
+  "id": "ChIJW7gl3m9vkUcRbC-qhoQKltg",
+  "slug": "esprit-libre",
+  "nom": "Esprit Libre",
+  "categorie": "restaurants",
+  "categorie_gmb": "Restaurant français",
+  "type_principal": "french_restaurant",
+  "types": [
+    "french_restaurant",
+    "european_restaurant",
+    "restaurant",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "ville": "Horbourg-Wihr",
+  "ville_slug": "horbourg-wihr",
+  "adresse": {
+    "rue": "43 Grand Rue",
+    "code_postal": "68180",
+    "departement": "68",
+    "region": "Grand Est",
+    "pays": "France",
+    "complete": "43 Grand Rue, 68180 Horbourg-Wihr"
+  },
+  "telephone": "03 68 61 06 07",
+  "geo": {
+    "latitude": 48.0810944,
+    "longitude": 7.3941183
+  },
+  "note": 4.7,
+  "avis": 340,
+  "horaires": [
+    {
+      "jour": 0,
+      "ferme": true,
+      "creneaux": []
+    },
+    {
+      "jour": 1,
+      "ferme": false,
+      "creneaux": [
+        [
+          "12:00",
+          "13:30"
+        ],
+        [
+          "19:00",
+          "20:00"
+        ]
+      ]
+    },
+    {
+      "jour": 2,
+      "ferme": false,
+      "creneaux": [
+        [
+          "12:00",
+          "13:30"
+        ],
+        [
+          "19:00",
+          "20:00"
+        ]
+      ]
+    },
+    {
+      "jour": 3,
+      "ferme": false,
+      "creneaux": [
+        [
+          "12:00",
+          "13:30"
+        ],
+        [
+          "19:00",
+          "20:00"
+        ]
+      ]
+    },
+    {
+      "jour": 4,
+      "ferme": false,
+      "creneaux": [
+        [
+          "12:00",
+          "13:30"
+        ],
+        [
+          "19:00",
+          "20:00"
+        ]
+      ]
+    },
+    {
+      "jour": 5,
+      "ferme": false,
+      "creneaux": [
+        [
+          "19:00",
+          "20:00"
+        ]
+      ]
+    },
+    {
+      "jour": 6,
+      "ferme": false,
+      "creneaux": [
+        [
+          "12:00",
+          "13:30"
+        ]
+      ]
+    }
+  ],
+  "attributs": [
+    "Entrée accessible en fauteuil roulant",
+    "Parking accessible en fauteuil roulant",
+    "Toilettes accessibles en fauteuil roulant",
+    "Places assises accessibles en fauteuil roulant"
+  ],
+  "lien_google": "https://maps.google.com/?cid=15606673123010293612&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
+  "site_web_gmb": null,
+  "statut": "publiee",
+  "backlink": {
+    "etat": "absent",
+    "premiere_detection": null,
+    "derniere_detection": null,
+    "derniere_verification": "2026-11-17T14:18:39.034Z",
+    "echecs": 1,
+    "url_detectee": null
+  },
+  "suggestion": {
+    "etat": "en-attente",
+    "date_soumission": null,
+    "tentatives": 0,
+    "date_email": "2026-11-17"
+  },
+  "retrait": null,
+  "dates": {
+    "collecte": "2026-11-17",
+    "publication": "2026-11-17",
+    "maj": "2026-11-17"
+  },
+  "source": "google-places",
+  "avis_detail": {
+    "releve": "2026-11-17",
+    "liste": [
+      {
+        "note": 3,
+        "texte": "Belle adresse, bon accueil et belle petite terrasse. Les plats sont très bons et bien proportionnés. Je recommande.\nPar contre le prix des boissons et notamment les jus est exagéré 6,50 € le jus de tomate et 6€ le jus de pamplemousse ! ! Et pas de carte des boissons distribuée pour le savoir avant !",
+        "langue": "fr",
+        "date": "2026-07-07",
+        "auteur": "Cl. G.",
+        "auteur_lien": "https://www.google.com/maps/contrib/102448066178433122133/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25OUFZUVndhVWQ0U1VodFkzVkpVbHBhU25oNGMxRRAB!2m1!1s0x47916f6fde25b85b:0xd8960a8486aa2f6c"
+      },
+      {
+        "note": 5,
+        "texte": "Nous avons découvert en famille ce restaurant discret sur horbourg Wihr\nce fut un agréable dîner en terrasse au calme\naccueil chaleureux, service impeccable et rapide.\nEn version fait maison et produits frais de saison\nLes plats étaient autant un plaisir des yeux que de saveurs en bouche\nNous avons pris plat et dessert nous nous sommes régalés du début à la fin\nUne bonne adresse gourmande nous y reviendrons avec plaisir",
+        "langue": "fr",
+        "date": "2026-07-05",
+        "auteur": "Nathalie Ringenbach",
+        "auteur_lien": "https://www.google.com/maps/contrib/112512371656253949619/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xGSFV6VjBWVVkyWW1Sc1ducDVSMGhOTlRoRloyYxAB!2m1!1s0x47916f6fde25b85b:0xd8960a8486aa2f6c"
+      },
+      {
+        "note": 5,
+        "texte": "Un merveilleux accueil de la part de l’équipe de Esprit Libre 😉! Un dîner délicieux, des parts ultra copieuses et du bon vin. De l’entrée au dessert, les produits sont locaux et de saison. Une jolie salle accueillante et chaleureuse. Nous reviendrons sans hésiter ! Merci!",
+        "langue": "fr",
+        "date": "2025-09-02",
+        "auteur": "Lucile R.",
+        "auteur_lien": "https://www.google.com/maps/contrib/108271930040234631162/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2pWUU9FMTRZMFI1TUROWVYwTjNiRVJ3UzJaSU1tYxAB!2m1!1s0x47916f6fde25b85b:0xd8960a8486aa2f6c"
+      },
+      {
+        "note": 5,
+        "texte": "Petit restaurant fort sympathique. Accueil très souriant et convivial. Ambiance très cosi et décoré avec beaucoup de charme. Menu comprenant quelques entrées, plats et desserts. Largement suffisant et surtout preuve de qualitées des produits. Assiette très bien servis et parfaitement exécuté. Je me suis régalé, bravo au chef. Service rapide , serveurs professionnels. Je recommande vivement. Pensez à réserver",
+        "langue": "fr",
+        "date": "2023-12-12",
+        "auteur": "Toni",
+        "auteur_lien": "https://www.google.com/maps/contrib/111572987886032568360/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSURWNnVEVWtRRRAB!2m1!1s0x47916f6fde25b85b:0xd8960a8486aa2f6c"
+      },
+      {
+        "note": 5,
+        "texte": "Un lieu cosy et chaleureux une carte certes limitée mais des propositions aussi alléchantes les unes que les autres. Un service excellent à la pointe de sa clientèle. Le cuisinier est chef d'orchestre à chacun de ses plats. Tout est fait maison. Je vous recommande de vous y arrêter. Un vrai délice pour les papilles et des assiettes bien remplies ou nos papilles se régalent ainsi que notre estomac. A NE PAS MANQUER",
+        "langue": "fr",
+        "date": "2023-10-11",
+        "auteur": "Armelle Brandao",
+        "auteur_lien": "https://www.google.com/maps/contrib/110849704336361680501/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUM1bk5mNklnEAE!2m1!1s0x47916f6fde25b85b:0xd8960a8486aa2f6c"
+      }
+    ]
+  },
+  "services": {
+    "releve": "2026-11-17",
+    "prix": "PRICE_LEVEL_MODERATE",
+    "options": {
+      "dineIn": true,
+      "takeout": false,
+      "delivery": false,
+      "reservable": true,
+      "outdoorSeating": true,
+      "servesBreakfast": true,
+      "servesBrunch": false,
+      "servesLunch": true,
+      "servesDinner": true,
+      "servesCoffee": true,
+      "servesBeer": true,
+      "servesWine": true,
+      "servesCocktails": true,
+      "goodForChildren": true,
+      "goodForGroups": true,
+      "goodForWatchingSports": false,
+      "liveMusic": false,
+      "restroom": true
+    },
+    "paiement": [
+      "carte bancaire",
+      "carte de débit",
+      "paiement sans contact"
+    ],
+    "parking": [
+      "parking gratuit",
+      "stationnement gratuit dans la rue"
+    ]
+  },
+  "redaction": {
+    "version": 2,
+    "titre": "Esprit Libre — Restaurant à Horbourg-Wihr",
+    "meta_titre": "Esprit Libre à Horbourg-Wihr : horaires, avis, téléphone",
+    "meta_description": "Esprit Libre, restaurant à Horbourg-Wihr : horaires d'ouverture, note Google 4,7/5 (340 avis), téléphone, adresse et itinéraire.",
+    "chapo": "Esprit Libre est un restaurant au 43 Grand Rue, à Horbourg-Wihr. Ouvert tous les jours sauf le lundi au relevé du 17 novembre 2026. Téléphone : 03 68 61 06 07. Note Google : 4,7 sur 5 pour 340 avis.",
+    "sections": [
+      {
+        "id": "presentation",
+        "titre": "Esprit Libre en quelques mots",
+        "paragraphes": [
+          "Sur Google, l'établissement est classé « Restaurant français », dans notre rubrique Restaurant.",
+          "Niveau de prix indiqué sur la fiche Google : €€ (modéré).",
+          "D'après le relevé du 17 novembre 2026, l'établissement est ouvert tous les jours sauf le lundi. Le détail jour par jour figure plus bas."
+        ]
+      },
+      {
+        "id": "prestations",
+        "titre": "Services et équipements de Esprit Libre",
+        "paragraphes": [
+          "Proposé : sur place, réservation possible, terrasse, petit-déjeuner, déjeuner, dîner, café, bière, vin, cocktails, adapté aux enfants, adapté aux groupes et toilettes.",
+          "Non proposé selon la fiche Google : à emporter, livraison, brunch, retransmissions sportives et musique live.",
+          "Moyens de paiement déclarés : carte bancaire, carte de débit et paiement sans contact.",
+          "Stationnement : parking gratuit et stationnement gratuit dans la rue.",
+          "Ces indications sont déclarées par l'établissement sur sa fiche Google (relevé du 17 novembre 2026)."
+        ]
+      },
+      {
+        "id": "acces",
+        "titre": "Adresse et accès",
+        "paragraphes": [
+          "L'établissement est situé au 43 Grand Rue, 68180 Horbourg-Wihr.",
+          "Coordonnées GPS : 48.08109, 7.39412. Le bouton Itinéraire de cette page ouvre la navigation."
+        ]
+      },
+      {
+        "id": "contact",
+        "titre": "Contacter Esprit Libre",
+        "paragraphes": [
+          "Le contact se fait par téléphone au 03 68 61 06 07, ou directement sur place aux horaires d'ouverture.",
+          "La fiche Google indique que la réservation est possible."
+        ]
+      },
+      {
+        "id": "avis",
+        "titre": "La réputation de Esprit Libre",
+        "paragraphes": [
+          "Note de 4,7 sur 5 pour 340 avis Google au relevé du 17 novembre 2026. Les avis les plus parlants sont compilés ci-dessous, avec un lien vers la fiche d'origine."
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "q": "Quels sont les horaires de Esprit Libre ?",
+        "r": "Au relevé du 17 novembre 2026, Esprit Libre était ouvert tous les jours sauf le lundi. Dans le détail — lundi : fermé ; mardi : de 12 h à 13 h 30 et de 19 h à 20 h ; mercredi : de 12 h à 13 h 30 et de 19 h à 20 h ; jeudi : de 12 h à 13 h 30 et de 19 h à 20 h ; vendredi : de 12 h à 13 h 30 et de 19 h à 20 h ; samedi : de 19 h à 20 h ; dimanche : de 12 h à 13 h 30. Ces horaires peuvent changer : un appel préalable reste conseillé."
+      },
+      {
+        "q": "Esprit Libre est-il ouvert le dimanche ?",
+        "r": "Oui : le dimanche, Esprit Libre est ouvert de 12 h à 13 h 30 (horaires relevés le 17 novembre 2026)."
+      },
+      {
+        "q": "Où se trouve Esprit Libre ?",
+        "r": "Esprit Libre se trouve 43 Grand Rue, 68180 Horbourg-Wihr. Un lien d'itinéraire est disponible sur cette page."
+      },
+      {
+        "q": "Comment contacter Esprit Libre ?",
+        "r": "Par téléphone au 03 68 61 06 07, ou directement sur place aux heures d'ouverture."
+      },
+      {
+        "q": "Peut-on réserver chez Esprit Libre ?",
+        "r": "Oui, la fiche Google de Esprit Libre indique que la réservation est possible, par téléphone au 03 68 61 06 07."
+      },
+      {
+        "q": "Esprit Libre propose-t-il la vente à emporter ou la livraison ?",
+        "r": "D'après sa fiche Google (relevé du 17 novembre 2026) — vente à emporter : non ; livraison : non."
+      },
+      {
+        "q": "Quel est le niveau de prix de Esprit Libre ?",
+        "r": "Google classe Esprit Libre au niveau de prix €€ (modéré), sur une échelle de € à €€€€ établie à partir des avis clients."
+      },
+      {
+        "q": "Esprit Libre est-il accessible aux personnes à mobilité réduite ?",
+        "r": "La fiche Google de l'établissement mentionne : « Entrée accessible en fauteuil roulant ». Cette information est déclarative ; en cas de doute, vérifiez par téléphone."
+      }
+    ],
+    "genere_le": "2026-11-17"
+  },
+  "statut_google": "OPERATIONAL",
+  "audience": {
+    "clics": 0,
+    "impressions": 0,
+    "position": null,
+    "fenetreJours": 90,
+    "clicsRecents": 0,
+    "fenetreRecenteJours": 28,
+    "source": "search-console",
+    "date": "2026-11-17"
+  }
+}

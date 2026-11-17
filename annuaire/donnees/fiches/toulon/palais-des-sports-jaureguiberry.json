@@ -29,7 +29,7 @@
     "longitude": 5.9142760999999995
   },
   "note": 4.3,
-  "avis": 955,
+  "avis": 956,
   "horaires": [
     {
       "jour": 0,
@@ -102,15 +102,15 @@
     "Parking accessible en fauteuil roulant"
   ],
   "lien_google": "https://maps.google.com/?cid=1217449680220407457&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
-  "site_web_gmb": null,
+  "site_web_gmb": "https://metropoletpm.fr/palais-des-sports-tpm",
   "statut": "retiree",
   "backlink": {
-    "etat": "absent",
+    "etat": "externe",
     "premiere_detection": null,
     "derniere_detection": null,
-    "derniere_verification": "2026-10-30T11:21:01.088Z",
-    "echecs": 14,
-    "url_detectee": null
+    "derniere_verification": "2026-11-17T14:18:39.034Z",
+    "echecs": 15,
+    "url_detectee": "https://metropoletpm.fr/palais-des-sports-tpm"
   },
   "suggestion": {
     "etat": "soumise",
@@ -127,7 +127,7 @@
   "dates": {
     "collecte": "2026-09-28",
     "publication": "2026-09-28",
-    "maj": "2026-11-12"
+    "maj": "2026-11-17"
   },
   "source": "google-places",
   "redaction": {
@@ -209,7 +209,7 @@
     "clicsRecents": 0,
     "fenetreRecenteJours": 28,
     "source": "search-console",
-    "date": "2026-11-16"
+    "date": "2026-11-17"
   },
   "avis_detail": {
     "releve": "2026-10-30",

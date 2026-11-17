@@ -108,7 +108,7 @@
   ],
   "lien_google": "https://maps.google.com/?cid=16072647831748594283&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
   "site_web_gmb": null,
-  "statut": "publiee",
+  "statut": "retiree",
   "backlink": {
     "etat": "absent",
     "premiere_detection": null,
@@ -123,11 +123,16 @@
     "tentatives": 0,
     "date_email": "2026-10-03"
   },
-  "retrait": null,
+  "retrait": {
+    "mode": "410",
+    "cible": null,
+    "date": "2026-11-17",
+    "motif": "backlink jamais posé après 45 jours de délai de grâce"
+  },
   "dates": {
     "collecte": "2026-10-03",
     "publication": "2026-10-03",
-    "maj": "2026-11-10"
+    "maj": "2026-11-17"
   },
   "source": "google-places",
   "redaction": {
@@ -226,7 +231,7 @@
     "clicsRecents": 0,
     "fenetreRecenteJours": 28,
     "source": "search-console",
-    "date": "2026-11-16"
+    "date": "2026-11-17"
   },
   "avis_detail": {
     "releve": "2026-10-25",
@@ -318,6 +323,6 @@
     "derniere_exploration": "2026-11-15T16:40:30Z",
     "canonique_google": "https://andpro.fr/vitrine-locale/restaurants/noyal-chatillon-sur-seiche/bar-restaurant-le-vallon/",
     "source": "inspection",
-    "date": "2026-11-16"
+    "date": "2026-11-17"
   }
 }
