@@ -223,7 +223,7 @@
     "clicsRecents": 0,
     "fenetreRecenteJours": 28,
     "source": "search-console",
-    "date": "2026-11-17"
+    "date": "2026-11-18"
   },
   "avis_detail": {
     "releve": "2026-10-26",
@@ -300,5 +300,14 @@
       "parking gratuit",
       "stationnement gratuit dans la rue"
     ]
+  },
+  "indexation": {
+    "etat": "indexee",
+    "verdict": "PASS",
+    "couverture": "Envoyée et indexée",
+    "derniere_exploration": "2026-11-16T05:01:53Z",
+    "canonique_google": "https://andpro.fr/vitrine-locale/cafes-bars/espaly-saint-marcel/bar-du-rocher/",
+    "source": "inspection",
+    "date": "2026-11-18"
   }
 }

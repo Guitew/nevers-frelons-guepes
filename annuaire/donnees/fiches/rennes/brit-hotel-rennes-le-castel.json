@@ -1,0 +1,250 @@
+{
+  "id": "ChIJ2_AwghbfDkgRXYeqjFCx3fM",
+  "slug": "brit-hotel-rennes-le-castel",
+  "nom": "Brit Hotel Rennes - Le Castel",
+  "categorie": "hebergement",
+  "categorie_gmb": "Hôtel",
+  "type_principal": "hotel",
+  "types": [
+    "hotel",
+    "breakfast_restaurant",
+    "french_restaurant",
+    "lodging",
+    "european_restaurant",
+    "educational_institution",
+    "association_or_organization",
+    "restaurant",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "ville": "Rennes",
+  "ville_slug": "rennes",
+  "adresse": {
+    "rue": "260 Rue de Châteaugiron",
+    "code_postal": "35000",
+    "departement": "35",
+    "region": "Bretagne",
+    "pays": "France",
+    "complete": "260 Rue de Châteaugiron, 35000 Rennes"
+  },
+  "telephone": "02 99 51 73 74",
+  "geo": {
+    "latitude": 48.0932464,
+    "longitude": -1.6338586
+  },
+  "note": 3.7,
+  "avis": 423,
+  "horaires": [
+    {
+      "jour": 0,
+      "ferme": true,
+      "creneaux": []
+    },
+    {
+      "jour": 1,
+      "ferme": true,
+      "creneaux": []
+    },
+    {
+      "jour": 2,
+      "ferme": true,
+      "creneaux": []
+    },
+    {
+      "jour": 3,
+      "ferme": true,
+      "creneaux": []
+    },
+    {
+      "jour": 4,
+      "ferme": true,
+      "creneaux": []
+    },
+    {
+      "jour": 5,
+      "ferme": true,
+      "creneaux": []
+    },
+    {
+      "jour": 6,
+      "ferme": false,
+      "creneaux": [
+        [
+          "00:00",
+          "23:59"
+        ]
+      ]
+    }
+  ],
+  "attributs": [
+    "Entrée accessible en fauteuil roulant",
+    "Parking accessible en fauteuil roulant"
+  ],
+  "lien_google": "https://maps.google.com/?cid=17572396280585029469&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
+  "site_web_gmb": null,
+  "statut": "publiee",
+  "backlink": {
+    "etat": "absent",
+    "premiere_detection": null,
+    "derniere_detection": null,
+    "derniere_verification": "2026-11-18T13:53:20.478Z",
+    "echecs": 1,
+    "url_detectee": null
+  },
+  "suggestion": {
+    "etat": "en-attente",
+    "date_soumission": null,
+    "tentatives": 0,
+    "date_email": "2026-11-18"
+  },
+  "retrait": null,
+  "dates": {
+    "collecte": "2026-11-18",
+    "publication": "2026-11-18",
+    "maj": "2026-11-18"
+  },
+  "source": "google-places",
+  "avis_detail": {
+    "releve": "2026-11-18",
+    "liste": [
+      {
+        "note": 5,
+        "texte": "Petit banger. Le restaurant est excellent, le petit dej incroyable. Le personnel est super. Les chambres sont basiques, propre, rien à en dire de spécial. Le reste vraiment super.",
+        "langue": "fr",
+        "date": "2026-10-02",
+        "auteur": "Chuck Palahniuk",
+        "auteur_lien": "https://www.google.com/maps/contrib/106021228653680249386/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25sSmFXUmFhVU53Vm5aTVlXTnVVbEJRZURaZmRIYxAB!2m1!1s0x480edf168230f0db:0xf3ddb1508caa875d"
+      },
+      {
+        "note": 5,
+        "texte": "Incroyable ! Service super efficace, accueil chaleureux, Léa et Lou les meilleures. Chambre très propre et confortable, hôtel calme et très agréable. L’emplacement est parfait et tout était vraiment impeccable. Merci encore pour votre accueil, nous reviendrons avec grand plaisir !",
+        "langue": "fr",
+        "date": "2026-08-25",
+        "auteur": "Mirzak Ahmed Mohamed",
+        "auteur_lien": "https://www.google.com/maps/contrib/103521925639818697323/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25CV1VWSlJaVGxtTTJ0d1kyaGhTR3hpUWtWSVZuYxAB!2m1!1s0x480edf168230f0db:0xf3ddb1508caa875d"
+      },
+      {
+        "note": 3,
+        "texte": "Le personnel est vraiment très gentil, accueillant et agréable, un gros point positif pour cet hôtel !\n\nEn revanche, j’ai été un peu déçue concernant la chambre. J’avais réservé exprès une chambre seule et je me suis retrouvée avec deux lits simples collés l’un à l’autre. Ce n’est pas très pratique pour dormir au milieu, car il reste un trou entre les deux lits, ce qui rend le sommeil moins confortable.\n\nLa chambre est sinon très classique, sans véritable surprise. Un séjour tout de même agréable grâce à la gentillesse et à l’accueil du personnel.",
+        "langue": "fr",
+        "date": "2026-08-12",
+        "auteur": "Orlane GABORIAU",
+        "auteur_lien": "https://www.google.com/maps/contrib/112716267348220599863/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2sxblFrbzRVRFV5YldSblNrbGhNbXBNWHpsSWFVRRAB!2m1!1s0x480edf168230f0db:0xf3ddb1508caa875d"
+      },
+      {
+        "note": 5,
+        "texte": "Excellent rapport qualité prix pour cet hôtel situé près de la rocade. Les chambres sont propres, les lits très confortables et le double vitrage permet de dormir au calme. Le parking privé est très pratique. Nous tenons à souligner la présence permanente d'une personne à l'accueil et de nos jours c'est très rare et très appréciable. Et le personnel, que ce soit à l'accueil ou pour le service de ménage des chambres, est adorable , prévenant, bienveillant. Nous sommes restés 3 nuits. Nous sommes ravis de notre séjour. Le petit déjeuner aussi est à souligner car nous nous sommes régalés avec des produits locaux. Nous reviendrons avec plaisir dans cet hôtel.",
+        "langue": "fr",
+        "date": "2026-07-21",
+        "auteur": "Charemma",
+        "auteur_lien": "https://www.google.com/maps/contrib/118044085737283755897/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25scldEQXdTbXBwVTBFNWVETnBOV056TlhKSWVuYxAB!2m1!1s0x480edf168230f0db:0xf3ddb1508caa875d"
+      },
+      {
+        "note": 4,
+        "texte": "hotel correct,\nchambre propre, les filles de l'accueil super simpa  et souriante,\nla chambre etait confortable et spacieuse et propre,\nparking privé.\nnous avons passé un bon sejour, et une bonne nuit,\nmalgres le reveil matinale mouvementé, les femmes de menages ne sont pas au top de la discretion, et en plus elles se disputent  dans les chambres.\nmerci pour votre accueil",
+        "langue": "fr",
+        "date": "2026-06-12",
+        "auteur": "Prescillia Michaux",
+        "auteur_lien": "https://www.google.com/maps/contrib/109338005470700184664/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xsak9YbHRMVWN4TFhoRk1rSTRjbkJYZFVkU1dXYxAB!2m1!1s0x480edf168230f0db:0xf3ddb1508caa875d"
+      }
+    ]
+  },
+  "services": {
+    "releve": "2026-11-18",
+    "resume": "Hôtel simple avec restaurant. Parking et Wi-Fi gratuits.",
+    "resume_langue": "fr",
+    "options": {
+      "goodForChildren": true
+    },
+    "paiement": [],
+    "parking": []
+  },
+  "redaction": {
+    "version": 2,
+    "titre": "Brit Hotel Rennes - Le Castel — Hébergement à Rennes",
+    "meta_titre": "Brit Hotel Rennes - Le Castel à Rennes : horaires, avis",
+    "meta_description": "Brit Hotel Rennes - Le Castel, hébergement à Rennes : horaires d'ouverture, note Google 3,7/5 (423 avis), téléphone, adresse et itinéraire.",
+    "chapo": "Brit Hotel Rennes - Le Castel, hébergement au 260 Rue de Châteaugiron, à Rennes. Ouvert le dimanche au relevé du 18 novembre 2026. Téléphone : 02 99 51 73 74. Note Google : 3,7 sur 5 pour 423 avis.",
+    "sections": [
+      {
+        "id": "presentation",
+        "titre": "Brit Hotel Rennes - Le Castel en quelques mots",
+        "paragraphes": [
+          "Présentation donnée par Google : « Hôtel simple avec restaurant. Parking et Wi-Fi gratuits. »",
+          "Sur Google, l'établissement est classé « Hôtel », dans notre rubrique Hébergement.",
+          "D'après le relevé du 18 novembre 2026, l'établissement est ouvert le dimanche. Le détail jour par jour figure plus bas."
+        ]
+      },
+      {
+        "id": "prestations",
+        "titre": "Services et équipements de Brit Hotel Rennes - Le Castel",
+        "paragraphes": [
+          "Proposé : adapté aux enfants.",
+          "Ces indications sont déclarées par l'établissement sur sa fiche Google (relevé du 18 novembre 2026)."
+        ]
+      },
+      {
+        "id": "acces",
+        "titre": "Adresse et accès",
+        "paragraphes": [
+          "L'établissement est situé au 260 Rue de Châteaugiron, 35000 Rennes.",
+          "Coordonnées GPS : 48.09325, -1.63386. Le bouton Itinéraire de cette page ouvre la navigation."
+        ]
+      },
+      {
+        "id": "contact",
+        "titre": "Contacter Brit Hotel Rennes - Le Castel",
+        "paragraphes": [
+          "Le contact se fait par téléphone au 02 99 51 73 74, ou directement sur place aux horaires d'ouverture."
+        ]
+      },
+      {
+        "id": "avis",
+        "titre": "La réputation de Brit Hotel Rennes - Le Castel",
+        "paragraphes": [
+          "Note de 3,7 sur 5 pour 423 avis Google au relevé du 18 novembre 2026. Les avis les plus parlants sont compilés ci-dessous, avec un lien vers la fiche d'origine."
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "q": "Quels sont les horaires de Brit Hotel Rennes - Le Castel ?",
+        "r": "Au relevé du 18 novembre 2026, Brit Hotel Rennes - Le Castel était ouvert le dimanche. Dans le détail — lundi : fermé ; mardi : fermé ; mercredi : fermé ; jeudi : fermé ; vendredi : fermé ; samedi : fermé ; dimanche : de 0 h à 23 h 59. Ces horaires peuvent changer : un appel préalable reste conseillé."
+      },
+      {
+        "q": "Brit Hotel Rennes - Le Castel est-il ouvert le dimanche ?",
+        "r": "Oui : le dimanche, Brit Hotel Rennes - Le Castel est ouvert de 0 h à 23 h 59 (horaires relevés le 18 novembre 2026)."
+      },
+      {
+        "q": "Où se trouve Brit Hotel Rennes - Le Castel ?",
+        "r": "Brit Hotel Rennes - Le Castel se trouve 260 Rue de Châteaugiron, 35000 Rennes. Un lien d'itinéraire est disponible sur cette page."
+      },
+      {
+        "q": "Comment contacter Brit Hotel Rennes - Le Castel ?",
+        "r": "Par téléphone au 02 99 51 73 74, ou directement sur place aux heures d'ouverture."
+      },
+      {
+        "q": "Brit Hotel Rennes - Le Castel est-il accessible aux personnes à mobilité réduite ?",
+        "r": "La fiche Google de l'établissement mentionne : « Entrée accessible en fauteuil roulant ». Cette information est déclarative ; en cas de doute, vérifiez par téléphone."
+      }
+    ],
+    "genere_le": "2026-11-18"
+  },
+  "statut_google": "OPERATIONAL",
+  "audience": {
+    "clics": 0,
+    "impressions": 0,
+    "position": null,
+    "fenetreJours": 90,
+    "clicsRecents": 0,
+    "fenetreRecenteJours": 28,
+    "source": "search-console",
+    "date": "2026-11-18"
+  }
+}

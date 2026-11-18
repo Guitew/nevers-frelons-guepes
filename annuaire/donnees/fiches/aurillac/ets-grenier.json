@@ -230,13 +230,13 @@
   "statut_google": "OPERATIONAL",
   "audience": {
     "clics": 0,
-    "impressions": 0,
-    "position": null,
+    "impressions": 1,
+    "position": 4,
     "fenetreJours": 90,
     "clicsRecents": 0,
     "fenetreRecenteJours": 28,
     "source": "search-console",
-    "date": "2026-11-17"
+    "date": "2026-11-18"
   },
   "avis_detail": {
     "releve": "2026-11-02",
@@ -302,11 +302,11 @@
   },
   "indexation": {
     "etat": "indexee",
-    "verdict": "PASS",
-    "couverture": "Envoyée et indexée",
-    "derniere_exploration": "2026-11-15T17:32:51Z",
-    "canonique_google": "https://andpro.fr/vitrine-locale/mode-equipement-maison/aurillac/ets-grenier/",
-    "source": "inspection",
-    "date": "2026-11-17"
+    "verdict": null,
+    "couverture": "impressions dans la Search Console",
+    "derniere_exploration": null,
+    "canonique_google": null,
+    "source": "impressions",
+    "date": "2026-11-18"
   }
 }

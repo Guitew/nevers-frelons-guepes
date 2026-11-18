@@ -28,7 +28,7 @@
     "longitude": 1.8737609
   },
   "note": 4.1,
-  "avis": 2041,
+  "avis": 2042,
   "horaires": [
     {
       "jour": 0,
@@ -141,8 +141,8 @@
   "backlink": {
     "etat": "present",
     "premiere_detection": "2026-09-18T09:41:14.841Z",
-    "derniere_detection": "2026-10-31T10:53:21.305Z",
-    "derniere_verification": "2026-10-31T10:53:21.305Z",
+    "derniere_detection": "2026-11-18T13:53:20.478Z",
+    "derniere_verification": "2026-11-18T13:53:20.478Z",
     "echecs": 0,
     "url_detectee": "https://andpro.fr/vitrine-locale/restaurants/gueret/royal-wok/"
   },
@@ -155,7 +155,7 @@
   "dates": {
     "collecte": "2026-09-01",
     "publication": "2026-09-01",
-    "maj": "2026-10-31"
+    "maj": "2026-11-18"
   },
   "source": "google-places",
   "redaction": {
@@ -247,14 +247,14 @@
   },
   "statut_google": "OPERATIONAL",
   "audience": {
-    "clics": 674,
-    "impressions": 10222,
+    "clics": 679,
+    "impressions": 10398,
     "position": 3.6,
     "fenetreJours": 90,
-    "clicsRecents": 310,
+    "clicsRecents": 302,
     "fenetreRecenteJours": 28,
     "source": "search-console",
-    "date": "2026-11-17"
+    "date": "2026-11-18"
   },
   "indexation": {
     "etat": "indexee",
@@ -263,7 +263,7 @@
     "derniere_exploration": null,
     "canonique_google": null,
     "source": "impressions",
-    "date": "2026-11-17"
+    "date": "2026-11-18"
   },
   "avis_detail": {
     "releve": "2026-10-31",

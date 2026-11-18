@@ -1,0 +1,294 @@
+{
+  "id": "ChIJm6ywSMyY7kcRJI8ygIzzTys",
+  "slug": "la-boutik-du-tertre",
+  "nom": "La Boutik Du Tertre",
+  "categorie": "loisirs-sport-culture",
+  "categorie_gmb": "Magasin",
+  "type_principal": "store",
+  "types": [
+    "post_office",
+    "book_store",
+    "shipping_service",
+    "finance",
+    "association_or_organization",
+    "store",
+    "government_office",
+    "point_of_interest",
+    "service",
+    "establishment"
+  ],
+  "ville": "Saint-Parres-aux-Tertres",
+  "ville_slug": "saint-parres-aux-tertres",
+  "adresse": {
+    "rue": "24 Avenue Général de Gaulle",
+    "code_postal": "10410",
+    "departement": "10",
+    "region": "Grand Est",
+    "pays": "France",
+    "complete": "24 Av. Général de Gaulle, 10410 Saint-Parres-aux-Tertres"
+  },
+  "telephone": "09 75 65 11 24",
+  "geo": {
+    "latitude": 48.298541199999995,
+    "longitude": 4.115668
+  },
+  "note": 4.5,
+  "avis": 77,
+  "horaires": [
+    {
+      "jour": 0,
+      "ferme": false,
+      "creneaux": [
+        [
+          "07:00",
+          "12:00"
+        ],
+        [
+          "15:30",
+          "18:45"
+        ]
+      ]
+    },
+    {
+      "jour": 1,
+      "ferme": false,
+      "creneaux": [
+        [
+          "07:00",
+          "12:00"
+        ],
+        [
+          "15:30",
+          "18:45"
+        ]
+      ]
+    },
+    {
+      "jour": 2,
+      "ferme": false,
+      "creneaux": [
+        [
+          "07:00",
+          "12:00"
+        ],
+        [
+          "15:30",
+          "18:45"
+        ]
+      ]
+    },
+    {
+      "jour": 3,
+      "ferme": false,
+      "creneaux": [
+        [
+          "07:00",
+          "12:00"
+        ]
+      ]
+    },
+    {
+      "jour": 4,
+      "ferme": false,
+      "creneaux": [
+        [
+          "07:00",
+          "12:00"
+        ],
+        [
+          "15:30",
+          "18:45"
+        ]
+      ]
+    },
+    {
+      "jour": 5,
+      "ferme": false,
+      "creneaux": [
+        [
+          "07:00",
+          "12:00"
+        ]
+      ]
+    },
+    {
+      "jour": 6,
+      "ferme": false,
+      "creneaux": [
+        [
+          "08:30",
+          "12:00"
+        ]
+      ]
+    }
+  ],
+  "attributs": [
+    "Entrée accessible en fauteuil roulant",
+    "Parking accessible en fauteuil roulant"
+  ],
+  "lien_google": "https://maps.google.com/?cid=3120980851562811172&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
+  "site_web_gmb": null,
+  "statut": "publiee",
+  "backlink": {
+    "etat": "absent",
+    "premiere_detection": null,
+    "derniere_detection": null,
+    "derniere_verification": "2026-11-18T13:53:20.478Z",
+    "echecs": 1,
+    "url_detectee": null
+  },
+  "suggestion": {
+    "etat": "en-attente",
+    "date_soumission": null,
+    "tentatives": 0,
+    "date_email": "2026-11-18"
+  },
+  "retrait": null,
+  "dates": {
+    "collecte": "2026-11-18",
+    "publication": "2026-11-18",
+    "maj": "2026-11-18"
+  },
+  "source": "google-places",
+  "avis_detail": {
+    "releve": "2026-11-18",
+    "liste": [
+      {
+        "note": 5,
+        "texte": "Toujours un très bon accueil ! 👍",
+        "langue": "fr",
+        "date": "2026-08-04",
+        "auteur": "C P",
+        "auteur_lien": "https://www.google.com/maps/contrib/108796403576309199474/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25kR2RqSTFSSFUwUjJGS1JUQnBUR0pyV2pSMlQwRRAB!2m1!1s0x47ee98cc48b0ac9b:0x2b4ff38c80328f24"
+      },
+      {
+        "note": 5,
+        "texte": "Toujours très bien accueilli, avec le sourire. Monsieur est très cool, serviable et toujours de bon conseil. Je recommande !",
+        "langue": "fr",
+        "date": "2026-05-22",
+        "auteur": "Retour client juste",
+        "auteur_lien": "https://www.google.com/maps/contrib/107877719337175686994/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2w5aU1rdFpTRVpGTm1aemEydHlYMWRoVkZGR1IyYxAB!2m1!1s0x47ee98cc48b0ac9b:0x2b4ff38c80328f24"
+      },
+      {
+        "note": 5,
+        "texte": "Très bon  accueil,monsieur sympa ,disponible et serviable",
+        "langue": "fr",
+        "date": "2026-05-20",
+        "auteur": "Angèle Mignot",
+        "auteur_lien": "https://www.google.com/maps/contrib/117898393697060390550/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xaeU1EQkhMV2RHYVRkR2MxaFRibDlSYmpOeVYzYxAB!2m1!1s0x47ee98cc48b0ac9b:0x2b4ff38c80328f24"
+      },
+      {
+        "note": 5,
+        "texte": "Je suis allé récupérer un colis à La Boutik du Tertre et j’ai été très agréablement surpris par l’accueil. La personne sur place était vraiment très accueillante, accessible et souriante. C’est toujours un plaisir de tomber sur un commerçant aussi chaleureux. Je recommande sans hésiter !",
+        "langue": "fr",
+        "date": "2025-05-15",
+        "auteur": "pierre",
+        "auteur_lien": "https://www.google.com/maps/contrib/110954792284765691598/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VLYll4TV9JZ3FQVzd3RRAB!2m1!1s0x47ee98cc48b0ac9b:0x2b4ff38c80328f24"
+      },
+      {
+        "note": 5,
+        "texte": "Boutique agréable . La personne au comptoir est très accueillante, chaleureuse et souriante!  En plus, il a mis à notre disposition une table et des chaises pour nous occuper de notre colis. 👏👍🏻il nous a très bien conseillé, il  a été  très patient. Toujours un bonheur d'y venir. Je préfère de loin y venir plutôt que d'aller à la Poste traditionnelle.",
+        "langue": "fr",
+        "date": "2024-01-30",
+        "auteur": "cathy pougeois",
+        "auteur_lien": "https://www.google.com/maps/contrib/110384880470747771447/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUN0Z2YzbU53EAE!2m1!1s0x47ee98cc48b0ac9b:0x2b4ff38c80328f24"
+      }
+    ]
+  },
+  "services": {
+    "releve": "2026-11-18",
+    "options": {},
+    "paiement": [
+      "carte bancaire",
+      "carte de débit",
+      "paiement sans contact"
+    ],
+    "parking": []
+  },
+  "redaction": {
+    "version": 2,
+    "titre": "La Boutik Du Tertre — Loisirs, sport et culture à Saint-Parres-aux-Tertres",
+    "meta_titre": "La Boutik Du Tertre : horaires, avis, téléphone",
+    "meta_description": "La Boutik Du Tertre, loisirs, sport et culture à Saint-Parres-aux-Tertres : horaires d'ouverture, téléphone, adresse et itinéraire.",
+    "chapo": "La Boutik Du Tertre est un loisirs, sport et culture au 24 Avenue Général de Gaulle, à Saint-Parres-aux-Tertres. Ouvert sept jours sur sept au relevé du 18 novembre 2026. Téléphone : 09 75 65 11 24. Note Google : 4,5 sur 5 pour 77 avis.",
+    "sections": [
+      {
+        "id": "presentation",
+        "titre": "La Boutik Du Tertre en quelques mots",
+        "paragraphes": [
+          "Sur Google, l'établissement est classé « Magasin », dans notre rubrique Loisirs, sport et culture.",
+          "D'après le relevé du 18 novembre 2026, l'établissement est ouvert sept jours sur sept. Le détail jour par jour figure plus bas."
+        ]
+      },
+      {
+        "id": "prestations",
+        "titre": "Services et équipements de La Boutik Du Tertre",
+        "paragraphes": [
+          "Moyens de paiement déclarés : carte bancaire, carte de débit et paiement sans contact.",
+          "Ces indications sont déclarées par l'établissement sur sa fiche Google (relevé du 18 novembre 2026)."
+        ]
+      },
+      {
+        "id": "acces",
+        "titre": "Adresse et accès",
+        "paragraphes": [
+          "L'établissement est situé au 24 Avenue Général de Gaulle, 10410 Saint-Parres-aux-Tertres.",
+          "Coordonnées GPS : 48.29854, 4.11567. Le bouton Itinéraire de cette page ouvre la navigation."
+        ]
+      },
+      {
+        "id": "contact",
+        "titre": "Contacter La Boutik Du Tertre",
+        "paragraphes": [
+          "Le contact se fait par téléphone au 09 75 65 11 24, ou directement sur place aux horaires d'ouverture."
+        ]
+      },
+      {
+        "id": "avis",
+        "titre": "La réputation de La Boutik Du Tertre",
+        "paragraphes": [
+          "Note de 4,5 sur 5 pour 77 avis Google au relevé du 18 novembre 2026. Les avis les plus parlants sont compilés ci-dessous, avec un lien vers la fiche d'origine."
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "q": "Quels sont les horaires de La Boutik Du Tertre ?",
+        "r": "Au relevé du 18 novembre 2026, La Boutik Du Tertre était ouvert sept jours sur sept. Dans le détail — lundi : de 7 h à 12 h et de 15 h 30 à 18 h 45 ; mardi : de 7 h à 12 h et de 15 h 30 à 18 h 45 ; mercredi : de 7 h à 12 h et de 15 h 30 à 18 h 45 ; jeudi : de 7 h à 12 h ; vendredi : de 7 h à 12 h et de 15 h 30 à 18 h 45 ; samedi : de 7 h à 12 h ; dimanche : de 8 h 30 à 12 h. Ces horaires peuvent changer : un appel préalable reste conseillé."
+      },
+      {
+        "q": "La Boutik Du Tertre est-il ouvert le dimanche ?",
+        "r": "Oui : le dimanche, La Boutik Du Tertre est ouvert de 8 h 30 à 12 h (horaires relevés le 18 novembre 2026)."
+      },
+      {
+        "q": "Où se trouve La Boutik Du Tertre ?",
+        "r": "La Boutik Du Tertre se trouve 24 Av. Général de Gaulle, 10410 Saint-Parres-aux-Tertres. Un lien d'itinéraire est disponible sur cette page."
+      },
+      {
+        "q": "Comment contacter La Boutik Du Tertre ?",
+        "r": "Par téléphone au 09 75 65 11 24, ou directement sur place aux heures d'ouverture."
+      },
+      {
+        "q": "La Boutik Du Tertre est-il accessible aux personnes à mobilité réduite ?",
+        "r": "La fiche Google de l'établissement mentionne : « Entrée accessible en fauteuil roulant ». Cette information est déclarative ; en cas de doute, vérifiez par téléphone."
+      }
+    ],
+    "genere_le": "2026-11-18"
+  },
+  "statut_google": "OPERATIONAL",
+  "audience": {
+    "clics": 0,
+    "impressions": 0,
+    "position": null,
+    "fenetreJours": 90,
+    "clicsRecents": 0,
+    "fenetreRecenteJours": 28,
+    "source": "search-console",
+    "date": "2026-11-18"
+  }
+}

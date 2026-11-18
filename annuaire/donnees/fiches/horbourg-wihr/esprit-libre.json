@@ -131,16 +131,16 @@
     "url_detectee": null
   },
   "suggestion": {
-    "etat": "en-attente",
-    "date_soumission": null,
-    "tentatives": 0,
+    "etat": "soumise",
+    "date_soumission": "2026-11-18",
+    "tentatives": 1,
     "date_email": "2026-11-17"
   },
   "retrait": null,
   "dates": {
     "collecte": "2026-11-17",
     "publication": "2026-11-17",
-    "maj": "2026-11-17"
+    "maj": "2026-11-18"
   },
   "source": "google-places",
   "avis_detail": {
@@ -322,6 +322,6 @@
     "clicsRecents": 0,
     "fenetreRecenteJours": 28,
     "source": "search-console",
-    "date": "2026-11-17"
+    "date": "2026-11-18"
   }
 }

@@ -27,7 +27,7 @@
     "longitude": 1.7831698000000002
   },
   "note": 4.3,
-  "avis": 311,
+  "avis": 312,
   "horaires": null,
   "attributs": [
     "Entrée accessible en fauteuil roulant",
@@ -35,13 +35,13 @@
   ],
   "lien_google": "https://maps.google.com/?cid=16675654517182378051&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
   "site_web_gmb": null,
-  "statut": "publiee",
+  "statut": "retiree",
   "backlink": {
     "etat": "absent",
     "premiere_detection": null,
     "derniere_detection": null,
-    "derniere_verification": "2026-10-31T10:53:21.305Z",
-    "echecs": 8,
+    "derniere_verification": "2026-11-18T13:53:20.478Z",
+    "echecs": 9,
     "url_detectee": null
   },
   "suggestion": {
@@ -50,11 +50,16 @@
     "tentatives": 1,
     "date_email": "2026-10-04"
   },
-  "retrait": null,
+  "retrait": {
+    "mode": "410",
+    "cible": null,
+    "date": "2026-11-18",
+    "motif": "backlink jamais posé après 45 jours de délai de grâce"
+  },
   "dates": {
     "collecte": "2026-10-04",
     "publication": "2026-10-04",
-    "maj": "2026-10-31"
+    "maj": "2026-11-18"
   },
   "source": "google-places",
   "redaction": {
@@ -132,7 +137,7 @@
     "clicsRecents": 0,
     "fenetreRecenteJours": 28,
     "source": "search-console",
-    "date": "2026-11-17"
+    "date": "2026-11-18"
   },
   "avis_detail": {
     "releve": "2026-10-31",
@@ -200,6 +205,6 @@
     "derniere_exploration": null,
     "canonique_google": null,
     "source": "impressions",
-    "date": "2026-11-17"
+    "date": "2026-11-18"
   }
 }

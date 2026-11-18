@@ -26,8 +26,8 @@
     "latitude": 47.2259597,
     "longitude": -1.6108996
   },
-  "note": 4,
-  "avis": 55,
+  "note": 4.1,
+  "avis": 60,
   "horaires": null,
   "attributs": [
     "Entrée accessible en fauteuil roulant",
@@ -41,8 +41,8 @@
     "etat": "absent",
     "premiere_detection": null,
     "derniere_detection": null,
-    "derniere_verification": "2026-10-31T10:53:21.305Z",
-    "echecs": 22,
+    "derniere_verification": "2026-11-18T13:53:20.478Z",
+    "echecs": 23,
     "url_detectee": null
   },
   "suggestion": {
@@ -60,7 +60,7 @@
   "dates": {
     "collecte": "2026-09-22",
     "publication": "2026-09-22",
-    "maj": "2026-11-06"
+    "maj": "2026-11-18"
   },
   "source": "google-places",
   "redaction": {
@@ -130,7 +130,7 @@
     "clicsRecents": 0,
     "fenetreRecenteJours": 28,
     "source": "search-console",
-    "date": "2026-11-17"
+    "date": "2026-11-18"
   },
   "indexation": {
     "etat": "non-indexee",

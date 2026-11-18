@@ -120,7 +120,7 @@
   "attributs": [],
   "lien_google": "https://maps.google.com/?cid=9514346370620132076&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
   "site_web_gmb": null,
-  "statut": "publiee",
+  "statut": "retiree",
   "backlink": {
     "etat": "absent",
     "premiere_detection": null,
@@ -135,11 +135,16 @@
     "tentatives": 0,
     "date_email": "2026-10-04"
   },
-  "retrait": null,
+  "retrait": {
+    "mode": "410",
+    "cible": null,
+    "date": "2026-11-18",
+    "motif": "backlink jamais posé après 45 jours de délai de grâce"
+  },
   "dates": {
     "collecte": "2026-10-04",
     "publication": "2026-10-04",
-    "maj": "2026-11-06"
+    "maj": "2026-11-18"
   },
   "source": "google-places",
   "redaction": {
@@ -222,7 +227,7 @@
     "clicsRecents": 0,
     "fenetreRecenteJours": 28,
     "source": "search-console",
-    "date": "2026-11-17"
+    "date": "2026-11-18"
   },
   "avis_detail": {
     "releve": "2026-10-21",
@@ -293,6 +298,6 @@
     "derniere_exploration": "2026-11-16T03:04:03Z",
     "canonique_google": "https://andpro.fr/vitrine-locale/cafes-bars/loos/le-kennedy/",
     "source": "inspection",
-    "date": "2026-11-17"
+    "date": "2026-11-18"
   }
 }

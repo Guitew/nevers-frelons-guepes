@@ -1,0 +1,282 @@
+{
+  "id": "ChIJv-MzaOU_yxIRnOD8SvQAD7Y",
+  "slug": "alpmotorsport",
+  "nom": "Alpmotorsport",
+  "categorie": "garages-automobile",
+  "categorie_gmb": "Garage automobile",
+  "type_principal": "car_repair",
+  "types": [
+    "car_repair",
+    "point_of_interest",
+    "service",
+    "establishment"
+  ],
+  "ville": "Gap",
+  "ville_slug": "gap",
+  "adresse": {
+    "rue": "4 Rue de la Charmille",
+    "code_postal": "05000",
+    "departement": "05",
+    "region": "Provence-Alpes-Côte d'Azur",
+    "pays": "France",
+    "complete": "4 Rue de la Charmille, 05000 Gap"
+  },
+  "telephone": "06 63 06 72 47",
+  "geo": {
+    "latitude": 44.548907899999996,
+    "longitude": 6.0559921999999995
+  },
+  "note": 4.9,
+  "avis": 61,
+  "horaires": [
+    {
+      "jour": 0,
+      "ferme": false,
+      "creneaux": [
+        [
+          "08:00",
+          "12:00"
+        ],
+        [
+          "14:00",
+          "18:00"
+        ]
+      ]
+    },
+    {
+      "jour": 1,
+      "ferme": false,
+      "creneaux": [
+        [
+          "08:00",
+          "12:00"
+        ],
+        [
+          "14:00",
+          "18:00"
+        ]
+      ]
+    },
+    {
+      "jour": 2,
+      "ferme": false,
+      "creneaux": [
+        [
+          "08:00",
+          "12:00"
+        ],
+        [
+          "14:00",
+          "18:00"
+        ]
+      ]
+    },
+    {
+      "jour": 3,
+      "ferme": false,
+      "creneaux": [
+        [
+          "08:00",
+          "12:00"
+        ],
+        [
+          "14:00",
+          "18:00"
+        ]
+      ]
+    },
+    {
+      "jour": 4,
+      "ferme": false,
+      "creneaux": [
+        [
+          "08:00",
+          "12:00"
+        ],
+        [
+          "14:00",
+          "17:00"
+        ]
+      ]
+    },
+    {
+      "jour": 5,
+      "ferme": true,
+      "creneaux": []
+    },
+    {
+      "jour": 6,
+      "ferme": true,
+      "creneaux": []
+    }
+  ],
+  "attributs": [
+    "Entrée accessible en fauteuil roulant",
+    "Parking accessible en fauteuil roulant"
+  ],
+  "lien_google": "https://maps.google.com/?cid=13118705288783650972&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
+  "site_web_gmb": null,
+  "statut": "publiee",
+  "backlink": {
+    "etat": "absent",
+    "premiere_detection": null,
+    "derniere_detection": null,
+    "derniere_verification": "2026-11-18T13:53:20.478Z",
+    "echecs": 1,
+    "url_detectee": null
+  },
+  "suggestion": {
+    "etat": "en-attente",
+    "date_soumission": null,
+    "tentatives": 0,
+    "date_email": "2026-11-18"
+  },
+  "retrait": null,
+  "dates": {
+    "collecte": "2026-11-18",
+    "publication": "2026-11-18",
+    "maj": "2026-11-18"
+  },
+  "source": "google-places",
+  "avis_detail": {
+    "releve": "2026-11-18",
+    "liste": [
+      {
+        "note": 5,
+        "texte": "Recommandé par plusieurs personnes, ce garage mérite largement sa réputation et je ne peux que le recommander à mon tour !\n\nAprès une longue immobilisation, une intervention importante a été effectuée sur mon véhicule. De la réalisation du devis à la réparation puis à la restitution du véhicule, tout a été parfaitement géré.\nLa transparence et le sérieux du garage sont remarquables, et franchement rares aujourd’hui.\nMerci à toute l’équipe, très professionnelle et aux petits soins avec les véhicules.\nSi vous avez une BMW, c’est ici qu’il faut venir !\n\nupdate 05/2026\nNouveau véhicule déposé chez ALP Motorsport et rien à dire ! Vous pouvez leur confier votre véhicule les yeux fermés !",
+        "langue": "fr",
+        "date": "2026-05-21",
+        "auteur": "Paul C",
+        "auteur_lien": "https://www.google.com/maps/contrib/110003848867681571007/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25GRVpYSmFhVmxPVG5KS2MzQTRWbk0xYUhoUk4wRRAB!2m1!1s0x12cb3fe56833e3bf:0xb60f00f44afce09c"
+      },
+      {
+        "note": 5,
+        "texte": "Garage au top. Sérieux, propre, et très pro.\nIls entretiennent ma voiture depuis un moment, toujours du travail soigné, des explications claires et un accueil nickel.\nJe recommande sans hésiter",
+        "langue": "fr",
+        "date": "2026-02-15",
+        "auteur": "David K",
+        "auteur_lien": "https://www.google.com/maps/contrib/100613733041503973135/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2kxc2FFRk9SRkJQYmtKbFpqSm9iSGRMTVc1VWMwRRAB!2m1!1s0x12cb3fe56833e3bf:0xb60f00f44afce09c"
+      },
+      {
+        "note": 5,
+        "texte": "J'ai connu le garage car j'étais à la recherche d'un spécialiste BMW pour l'entretien de ma voiture (340i F31) et malgré les 200 km qui nous séparent, l'accueil, les conseils, les échanges et le professionnalisme me font y retourner sans aucune hésitation. Leur expertise et souci du détail est à des années lumière de ce que peuvent proposer des concessionnaires affiliés à la marque pour souvent le double du prix...",
+        "langue": "fr",
+        "date": "2025-12-04",
+        "auteur": "Paul Durville",
+        "auteur_lien": "https://www.google.com/maps/contrib/111943870559015501198/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xocWVHZHJibU51ZGxodVIxbFNObUZMWkV4RFYyYxAB!2m1!1s0x12cb3fe56833e3bf:0xb60f00f44afce09c"
+      },
+      {
+        "note": 5,
+        "texte": "Je faisais entretenir mon véhicule chez Fabien, j’ai toujours été très satisfait du professionnalisme et du résultat. Je conseille fortement pour ceux qui ne veulent pas aller dépenser de l’argent gratuitement dans une concession qui ne fera pas mieux surtout moins bien. Et maintenant l’entretien de mon Taxi pour pouvoir effectuer mon travail dans les meilleures conditions.",
+        "langue": "fr",
+        "date": "2025-08-14",
+        "auteur": "Aurélien",
+        "auteur_lien": "https://www.google.com/maps/contrib/107651388403012824844/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSURmcmJyTG9RRRAB!2m1!1s0x12cb3fe56833e3bf:0xb60f00f44afce09c"
+      },
+      {
+        "note": 5,
+        "texte": "Garage, que je recommande les yeux fermés. Tant pour les compétences mécaniques que pour le relationnel. Ce garage m’a été conseillé par un ami qui lui-même est relativement exigeant pour l’entretien de son véhicule sportif. J’ai réalisé dans un premier temps un gros entretien pour ma Série 1M et récemment pour ma 330D Xdrive. Dans les deux cas, j’en ressors, ravi du travail effectué. Les passionnés apprécieront le suivi détaillé lors des travaux par l’envoi de photos et vidéos. Un véhicule de prêt est généreusement proposé. Ils conservent même les anciens fluides afin de nous les montrer lorsque l’on vient récupérer le véhicule une fois terminé. J’apprécie personnellement l’état de propreté de l’atelier ainsi que les précautions employées pour ne pas abîmer l’esthétique des véhicules. Le gérant et son équipe équipe sont très très agréable et passionnés.\nUne qualité de travail au dessus d’une concession, à des prix bien moins élevés et la passion en plus.",
+        "langue": "fr",
+        "date": "2024-04-10",
+        "auteur": "AlEj0X666",
+        "auteur_lien": "https://www.google.com/maps/contrib/111496305289150624306/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUREa2N1NHNRRRAB!2m1!1s0x12cb3fe56833e3bf:0xb60f00f44afce09c"
+      }
+    ]
+  },
+  "services": {
+    "releve": "2026-11-18",
+    "options": {},
+    "paiement": [
+      "carte bancaire",
+      "carte de débit",
+      "paiement sans contact"
+    ],
+    "parking": []
+  },
+  "redaction": {
+    "version": 2,
+    "titre": "Alpmotorsport — Garage et automobile à Gap",
+    "meta_titre": "Alpmotorsport à Gap : horaires, avis, téléphone",
+    "meta_description": "Alpmotorsport, garage et automobile à Gap : horaires d'ouverture, note Google 4,9/5 (61 avis), téléphone, adresse et itinéraire.",
+    "chapo": "Alpmotorsport est un garage et automobile au 4 Rue de la Charmille, à Gap. Fermé le samedi et le dimanche au relevé du 18 novembre 2026. Téléphone : 06 63 06 72 47. Note Google : 4,9 sur 5 pour 61 avis.",
+    "sections": [
+      {
+        "id": "presentation",
+        "titre": "Alpmotorsport en quelques mots",
+        "paragraphes": [
+          "Sur Google, l'établissement est classé « Garage automobile », dans notre rubrique Garage et automobile.",
+          "D'après le relevé du 18 novembre 2026, l'établissement est fermé le samedi et le dimanche. Le détail jour par jour figure plus bas."
+        ]
+      },
+      {
+        "id": "prestations",
+        "titre": "Services et équipements de Alpmotorsport",
+        "paragraphes": [
+          "Moyens de paiement déclarés : carte bancaire, carte de débit et paiement sans contact.",
+          "Ces indications sont déclarées par l'établissement sur sa fiche Google (relevé du 18 novembre 2026)."
+        ]
+      },
+      {
+        "id": "acces",
+        "titre": "Adresse et accès",
+        "paragraphes": [
+          "L'établissement est situé au 4 Rue de la Charmille, 05000 Gap.",
+          "Coordonnées GPS : 44.54891, 6.05599. Le bouton Itinéraire de cette page ouvre la navigation."
+        ]
+      },
+      {
+        "id": "contact",
+        "titre": "Contacter Alpmotorsport",
+        "paragraphes": [
+          "Le contact se fait par téléphone au 06 63 06 72 47, ou directement sur place aux horaires d'ouverture."
+        ]
+      },
+      {
+        "id": "avis",
+        "titre": "La réputation de Alpmotorsport",
+        "paragraphes": [
+          "Note de 4,9 sur 5 pour 61 avis Google au relevé du 18 novembre 2026. Les avis les plus parlants sont compilés ci-dessous, avec un lien vers la fiche d'origine."
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "q": "Quels sont les horaires de Alpmotorsport ?",
+        "r": "Au relevé du 18 novembre 2026, Alpmotorsport était fermé le samedi et le dimanche. Dans le détail — lundi : de 8 h à 12 h et de 14 h à 18 h ; mardi : de 8 h à 12 h et de 14 h à 18 h ; mercredi : de 8 h à 12 h et de 14 h à 18 h ; jeudi : de 8 h à 12 h et de 14 h à 18 h ; vendredi : de 8 h à 12 h et de 14 h à 17 h ; samedi : fermé ; dimanche : fermé. Ces horaires peuvent changer : un appel préalable reste conseillé."
+      },
+      {
+        "q": "Alpmotorsport est-il ouvert le dimanche ?",
+        "r": "Non : d'après les horaires relevés le 18 novembre 2026, Alpmotorsport est fermé le dimanche."
+      },
+      {
+        "q": "Où se trouve Alpmotorsport ?",
+        "r": "Alpmotorsport se trouve 4 Rue de la Charmille, 05000 Gap. Un lien d'itinéraire est disponible sur cette page."
+      },
+      {
+        "q": "Comment contacter Alpmotorsport ?",
+        "r": "Par téléphone au 06 63 06 72 47, ou directement sur place aux heures d'ouverture."
+      },
+      {
+        "q": "Alpmotorsport est-il accessible aux personnes à mobilité réduite ?",
+        "r": "La fiche Google de l'établissement mentionne : « Entrée accessible en fauteuil roulant ». Cette information est déclarative ; en cas de doute, vérifiez par téléphone."
+      }
+    ],
+    "genere_le": "2026-11-18"
+  },
+  "statut_google": "OPERATIONAL",
+  "audience": {
+    "clics": 0,
+    "impressions": 0,
+    "position": null,
+    "fenetreJours": 90,
+    "clicsRecents": 0,
+    "fenetreRecenteJours": 28,
+    "source": "search-console",
+    "date": "2026-11-18"
+  }
+}

@@ -1,0 +1,293 @@
+{
+  "id": "ChIJ13djeFXe4EcR50tRzsuyS5s",
+  "slug": "histoire-de-boulanger",
+  "nom": "Histoire de boulanger",
+  "categorie": "boulangeries-patisseries",
+  "categorie_gmb": "Boulangerie",
+  "type_principal": "bakery",
+  "types": [
+    "bakery",
+    "pastry_shop",
+    "dessert_shop",
+    "confectionery",
+    "food_store",
+    "food",
+    "store",
+    "point_of_interest",
+    "establishment"
+  ],
+  "ville": "Sotteville-lès-Rouen",
+  "ville_slug": "sotteville-les-rouen",
+  "adresse": {
+    "rue": "25 Rue Pierre Semard",
+    "code_postal": "76300",
+    "departement": "76",
+    "region": "Normandie",
+    "pays": "France",
+    "complete": "25 Rue Pierre Semard, 76300 Sotteville-lès-Rouen"
+  },
+  "telephone": "02 35 89 71 78",
+  "geo": {
+    "latitude": 49.4032664,
+    "longitude": 1.1010274
+  },
+  "note": 4.6,
+  "avis": 185,
+  "horaires": [
+    {
+      "jour": 0,
+      "ferme": true,
+      "creneaux": []
+    },
+    {
+      "jour": 1,
+      "ferme": false,
+      "creneaux": [
+        [
+          "06:30",
+          "19:30"
+        ]
+      ]
+    },
+    {
+      "jour": 2,
+      "ferme": false,
+      "creneaux": [
+        [
+          "06:30",
+          "19:30"
+        ]
+      ]
+    },
+    {
+      "jour": 3,
+      "ferme": false,
+      "creneaux": [
+        [
+          "06:30",
+          "19:30"
+        ]
+      ]
+    },
+    {
+      "jour": 4,
+      "ferme": false,
+      "creneaux": [
+        [
+          "06:30",
+          "19:30"
+        ]
+      ]
+    },
+    {
+      "jour": 5,
+      "ferme": false,
+      "creneaux": [
+        [
+          "06:30",
+          "19:30"
+        ]
+      ]
+    },
+    {
+      "jour": 6,
+      "ferme": false,
+      "creneaux": [
+        [
+          "06:30",
+          "13:00"
+        ]
+      ]
+    }
+  ],
+  "attributs": [
+    "Entrée accessible en fauteuil roulant",
+    "Parking accessible en fauteuil roulant"
+  ],
+  "lien_google": "https://maps.google.com/?cid=11190234287541668839&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
+  "site_web_gmb": null,
+  "statut": "publiee",
+  "backlink": {
+    "etat": "absent",
+    "premiere_detection": null,
+    "derniere_detection": null,
+    "derniere_verification": "2026-11-18T13:53:20.478Z",
+    "echecs": 1,
+    "url_detectee": null
+  },
+  "suggestion": {
+    "etat": "en-attente",
+    "date_soumission": null,
+    "tentatives": 0,
+    "date_email": "2026-11-18"
+  },
+  "retrait": null,
+  "dates": {
+    "collecte": "2026-11-18",
+    "publication": "2026-11-18",
+    "maj": "2026-11-18"
+  },
+  "source": "google-places",
+  "avis_detail": {
+    "releve": "2026-11-18",
+    "liste": [
+      {
+        "note": 5,
+        "texte": "Agréable boutique.\nLes patrons sont tres serviables et sympathiques.\nLes baguettes sont chaudes toute la journée.\nLes gâteaux sont délicieux.\nJe vous recommande cette boulangerie-patisserie.",
+        "langue": "fr",
+        "date": "2026-10-31",
+        "auteur": "Florence Mulard",
+        "auteur_lien": "https://www.google.com/maps/contrib/105544573544839786251/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25BdGJ6RjNaRlYzY3pBek5VUTVURTUzTWpsM1pXYxAB!2m1!1s0x47e0de55786377d7:0x9b4bb2cbce514be7"
+      },
+      {
+        "note": 5,
+        "texte": "J'ai commandé un gâteau, beau et bon, que dire de plus... L'accueil est chaleureux comme la nouvelle déco. Allez-y les yeux fermés",
+        "langue": "fr",
+        "date": "2026-10-31",
+        "auteur": "Daniele Dupuis",
+        "auteur_lien": "https://www.google.com/maps/contrib/117262127730383761355/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT21oTFZtZHVSRlJGYzFJeVRHdHVUbkJxWldKUFRFRRAB!2m1!1s0x47e0de55786377d7:0x9b4bb2cbce514be7"
+      },
+      {
+        "note": 5,
+        "texte": "Les baguettes tradition sont toujours excellentes et celles aux graines au top.\nPâtisseries et viennoiseries sont bonnes également même si nous ne sommes pas très sucrés.\nLes gérants sont adorables",
+        "langue": "fr",
+        "date": "2026-04-30",
+        "auteur": "bayle katia",
+        "auteur_lien": "https://www.google.com/maps/contrib/106828712558702067235/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2kxRVEyNUdSSE5zV1U4ME16TjVVMVpCU0VReGFYYxAB!2m1!1s0x47e0de55786377d7:0x9b4bb2cbce514be7"
+      },
+      {
+        "note": 5,
+        "texte": "Superbe boulangerie avec des pains et des pâtisseries excellente. Il y a juste un problème au niveau du croûton à chaque fois que je l'achète, quelques minutes plus tard il disparaît 🤔 preuve en image... (Ceci est une blague).\nJe recommande cette boulangerie avec le personnel très gentil.",
+        "langue": "fr",
+        "date": "2024-04-29",
+        "auteur": "David Harel",
+        "auteur_lien": "https://www.google.com/maps/contrib/104205989318035489105/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSURqaE1maGF3EAE!2m1!1s0x47e0de55786377d7:0x9b4bb2cbce514be7"
+      },
+      {
+        "note": 5,
+        "texte": "Changement de propriétaire... et bonne surprise. Cette boulangerie va redevenir une boulangerie de quartier avec des horaires dignes d'un commerce de proximité. Je suis allé chercher des viennoiseries ce matin pour le travail. l'accueil est très agréable. Durant le trajet , ma voiture s'est emplie des douces effluves des petits croissants et pains au chocolat tout frais. Je souhaite aux nouveaux et jeunes propriétaires beaucoup de courage et une grande réussite.\n\nUne magnifique réalisation d'un coffre \"surprise\" avec un royal lait à l'intérieur. Difficile de résister. Sur le retour la voiture avait un doux parfum de gâteaux... en attente du retour des convives.\nMerci à la pâtissière.",
+        "langue": "fr",
+        "date": "2022-10-08",
+        "auteur": "Christian Lejuste",
+        "auteur_lien": "https://www.google.com/maps/contrib/111612695338692649604/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUNXaDg2MV9BRRAB!2m1!1s0x47e0de55786377d7:0x9b4bb2cbce514be7"
+      }
+    ]
+  },
+  "services": {
+    "releve": "2026-11-18",
+    "prix": "PRICE_LEVEL_INEXPENSIVE",
+    "options": {
+      "delivery": false,
+      "servesBreakfast": true,
+      "servesCoffee": false,
+      "restroom": false
+    },
+    "paiement": [
+      "carte bancaire",
+      "carte de débit",
+      "paiement sans contact"
+    ],
+    "parking": [
+      "parking gratuit",
+      "stationnement gratuit dans la rue"
+    ]
+  },
+  "redaction": {
+    "version": 2,
+    "titre": "Histoire de boulanger — Boulangerie-pâtisserie à Sotteville-lès-Rouen",
+    "meta_titre": "Histoire de boulanger : horaires, avis, téléphone",
+    "meta_description": "Histoire de boulanger, boulangerie-pâtisserie à Sotteville-lès-Rouen : horaires d'ouverture, téléphone, adresse et itinéraire.",
+    "chapo": "Histoire de boulanger exerce l'activité de boulangerie-pâtisserie au 25 Rue Pierre Semard, à Sotteville-lès-Rouen. Ouvert tous les jours sauf le lundi au relevé du 18 novembre 2026. Téléphone : 02 35 89 71 78. Note Google : 4,6 sur 5 pour 185 avis.",
+    "sections": [
+      {
+        "id": "presentation",
+        "titre": "Histoire de boulanger en quelques mots",
+        "paragraphes": [
+          "Sur Google, l'établissement est classé « Boulangerie », dans notre rubrique Boulangerie-pâtisserie.",
+          "Niveau de prix indiqué sur la fiche Google : € (bon marché).",
+          "D'après le relevé du 18 novembre 2026, l'établissement est ouvert tous les jours sauf le lundi. Le détail jour par jour figure plus bas."
+        ]
+      },
+      {
+        "id": "prestations",
+        "titre": "Services et équipements de Histoire de boulanger",
+        "paragraphes": [
+          "Proposé : petit-déjeuner.",
+          "Non proposé selon la fiche Google : livraison, café et toilettes.",
+          "Moyens de paiement déclarés : carte bancaire, carte de débit et paiement sans contact.",
+          "Stationnement : parking gratuit et stationnement gratuit dans la rue.",
+          "Ces indications sont déclarées par l'établissement sur sa fiche Google (relevé du 18 novembre 2026)."
+        ]
+      },
+      {
+        "id": "acces",
+        "titre": "Adresse et accès",
+        "paragraphes": [
+          "L'établissement est situé au 25 Rue Pierre Semard, 76300 Sotteville-lès-Rouen.",
+          "Coordonnées GPS : 49.40327, 1.10103. Le bouton Itinéraire de cette page ouvre la navigation."
+        ]
+      },
+      {
+        "id": "contact",
+        "titre": "Contacter Histoire de boulanger",
+        "paragraphes": [
+          "Le contact se fait par téléphone au 02 35 89 71 78, ou directement sur place aux horaires d'ouverture."
+        ]
+      },
+      {
+        "id": "avis",
+        "titre": "La réputation de Histoire de boulanger",
+        "paragraphes": [
+          "Note de 4,6 sur 5 pour 185 avis Google au relevé du 18 novembre 2026. Les avis les plus parlants sont compilés ci-dessous, avec un lien vers la fiche d'origine."
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "q": "Quels sont les horaires de Histoire de boulanger ?",
+        "r": "Au relevé du 18 novembre 2026, Histoire de boulanger était ouvert tous les jours sauf le lundi. Dans le détail — lundi : fermé ; mardi : de 6 h 30 à 19 h 30 ; mercredi : de 6 h 30 à 19 h 30 ; jeudi : de 6 h 30 à 19 h 30 ; vendredi : de 6 h 30 à 19 h 30 ; samedi : de 6 h 30 à 19 h 30 ; dimanche : de 6 h 30 à 13 h. Ces horaires peuvent changer : un appel préalable reste conseillé."
+      },
+      {
+        "q": "Histoire de boulanger est-il ouvert le dimanche ?",
+        "r": "Oui : le dimanche, Histoire de boulanger est ouvert de 6 h 30 à 13 h (horaires relevés le 18 novembre 2026)."
+      },
+      {
+        "q": "Où se trouve Histoire de boulanger ?",
+        "r": "Histoire de boulanger se trouve 25 Rue Pierre Semard, 76300 Sotteville-lès-Rouen. Un lien d'itinéraire est disponible sur cette page."
+      },
+      {
+        "q": "Comment contacter Histoire de boulanger ?",
+        "r": "Par téléphone au 02 35 89 71 78, ou directement sur place aux heures d'ouverture."
+      },
+      {
+        "q": "Histoire de boulanger propose-t-il la vente à emporter ou la livraison ?",
+        "r": "D'après sa fiche Google (relevé du 18 novembre 2026) — livraison : non."
+      },
+      {
+        "q": "Quel est le niveau de prix de Histoire de boulanger ?",
+        "r": "Google classe Histoire de boulanger au niveau de prix € (bon marché), sur une échelle de € à €€€€ établie à partir des avis clients."
+      },
+      {
+        "q": "Histoire de boulanger est-il accessible aux personnes à mobilité réduite ?",
+        "r": "La fiche Google de l'établissement mentionne : « Entrée accessible en fauteuil roulant ». Cette information est déclarative ; en cas de doute, vérifiez par téléphone."
+      }
+    ],
+    "genere_le": "2026-11-18"
+  },
+  "statut_google": "OPERATIONAL",
+  "audience": {
+    "clics": 0,
+    "impressions": 0,
+    "position": null,
+    "fenetreJours": 90,
+    "clicsRecents": 0,
+    "fenetreRecenteJours": 28,
+    "source": "search-console",
+    "date": "2026-11-18"
+  }
+}
