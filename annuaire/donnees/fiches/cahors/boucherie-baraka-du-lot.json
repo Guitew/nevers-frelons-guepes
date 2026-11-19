@@ -1,0 +1,276 @@
+{
+  "id": "ChIJsdXwmt1xuqARYzwZZ5zyPjM",
+  "slug": "boucherie-baraka-du-lot",
+  "nom": "Boucherie Baraka du lot",
+  "categorie": "commerces-alimentation",
+  "categorie_gmb": "Boucherie",
+  "type_principal": "butcher_shop",
+  "types": [
+    "butcher_shop",
+    "food_store",
+    "manufacturer",
+    "food",
+    "store",
+    "point_of_interest",
+    "service",
+    "establishment"
+  ],
+  "ville": "Cahors",
+  "ville_slug": "cahors",
+  "adresse": {
+    "rue": "Rue des Pinsons",
+    "code_postal": "46000",
+    "departement": "46",
+    "region": "Occitanie",
+    "pays": "France",
+    "complete": "Rue des Pinsons, 46000 Cahors"
+  },
+  "telephone": "05 81 22 12 43",
+  "geo": {
+    "latitude": 44.4558701,
+    "longitude": 1.4254259
+  },
+  "note": 4,
+  "avis": 39,
+  "horaires": [
+    {
+      "jour": 0,
+      "ferme": true,
+      "creneaux": []
+    },
+    {
+      "jour": 1,
+      "ferme": false,
+      "creneaux": [
+        [
+          "08:30",
+          "19:30"
+        ]
+      ]
+    },
+    {
+      "jour": 2,
+      "ferme": false,
+      "creneaux": [
+        [
+          "08:30",
+          "19:30"
+        ]
+      ]
+    },
+    {
+      "jour": 3,
+      "ferme": false,
+      "creneaux": [
+        [
+          "08:30",
+          "19:30"
+        ]
+      ]
+    },
+    {
+      "jour": 4,
+      "ferme": false,
+      "creneaux": [
+        [
+          "08:30",
+          "19:30"
+        ]
+      ]
+    },
+    {
+      "jour": 5,
+      "ferme": false,
+      "creneaux": [
+        [
+          "08:30",
+          "19:30"
+        ]
+      ]
+    },
+    {
+      "jour": 6,
+      "ferme": false,
+      "creneaux": [
+        [
+          "08:30",
+          "18:00"
+        ]
+      ]
+    }
+  ],
+  "attributs": [
+    "Parking accessible en fauteuil roulant"
+  ],
+  "lien_google": "https://maps.google.com/?cid=3692655498048912483&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
+  "site_web_gmb": null,
+  "statut": "publiee",
+  "backlink": {
+    "etat": "absent",
+    "premiere_detection": null,
+    "derniere_detection": null,
+    "derniere_verification": "2026-11-19T14:21:55.003Z",
+    "echecs": 1,
+    "url_detectee": null
+  },
+  "suggestion": {
+    "etat": "en-attente",
+    "date_soumission": null,
+    "tentatives": 0,
+    "date_email": "2026-11-19"
+  },
+  "retrait": null,
+  "dates": {
+    "collecte": "2026-11-19",
+    "publication": "2026-11-19",
+    "maj": "2026-11-19"
+  },
+  "source": "google-places",
+  "avis_detail": {
+    "releve": "2026-11-19",
+    "liste": [
+      {
+        "note": 1,
+        "texte": "Bonjour pour vous signaler a ne jamais  aller  a la boucherie  tout ma viande une horreur  mes enfants on malade  les pilons  même après la cuisson  senter le mort les merguez  sec et changer  de couleur  aller  pas la bas si vous voulez  passer  de bonne vacances  honte a vous",
+        "langue": "fr",
+        "date": "2026-08-22",
+        "auteur": "lahiouel rabah",
+        "auteur_lien": "https://www.google.com/maps/contrib/109883281908329530320/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2tWTGQyeEVTVmxuWTNoNGEyRmFUbHB4V2pFeGRFRRAB!2m1!1s0xa0ba71dd9af0d5b1:0x333ef29c67193c63"
+      },
+      {
+        "note": 1,
+        "texte": "Même une étoile c’est trop Lol, manque d’hygiène A fuire. Tres mal éduqué",
+        "langue": "fr",
+        "date": "2026-05-07",
+        "auteur": "kaina ghecim",
+        "auteur_lien": "https://www.google.com/maps/contrib/109141602497521068279/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2s0eVVVeExkVGd5UWtGMVJGVjVXazl0YVRaV1owRRAB!2m1!1s0xa0ba71dd9af0d5b1:0x333ef29c67193c63"
+      },
+      {
+        "note": 5,
+        "texte": "Je suis venue parce qu’il n’y avait aucune boucherie d’ouverte et je n’ai strictement rien à dire de négatif, au contraire. De produits très variés et une bonne accueil.\nJe recommande",
+        "langue": "fr",
+        "date": "2026-04-17",
+        "auteur": "Carolina Bazaes",
+        "auteur_lien": "https://www.google.com/maps/contrib/102697732686060366675/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT21aellWVmlSVUZXV0hoVlRWVXhORlExVmpSQ1dtYxAB!2m1!1s0xa0ba71dd9af0d5b1:0x333ef29c67193c63"
+      },
+      {
+        "note": 5,
+        "texte": "Je venais d'Espagne et j'ai trouvé le magasin fantastique ; l'agencement et la propreté m'ont donné envie d'acheter des choses, et la viande était délicieuse. La caissière était vraiment très gentille.",
+        "langue": "fr",
+        "date": "2026-01-04",
+        "auteur": "Nordin El Hammouti",
+        "auteur_lien": "https://www.google.com/maps/contrib/110667304865293277092/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2tOWVJFbFVUblJEUlhCamNHWnNibHBxTVd3eFdIYxAB!2m1!1s0xa0ba71dd9af0d5b1:0x333ef29c67193c63"
+      },
+      {
+        "note": 1,
+        "texte": "Très déçu par mon expérience dans cette boucherie. J’ai acheté de la viande qui, malheureusement, ne correspondait pas à ce que j’avais vu en vitrine. La qualité n’était pas au rendez-vous et je me suis senti trompé. Je suis habitué à une meilleure transparence et honnêteté de la part des commerçants. Je ne recommanderais pas cet endroit tant que ce problème n’est pas corrigé.",
+        "langue": "fr",
+        "date": "2025-01-15",
+        "auteur": "Oussam Touch",
+        "auteur_lien": "https://www.google.com/maps/contrib/113550545072299586878/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUNfcHF1aE9REAE!2m1!1s0xa0ba71dd9af0d5b1:0x333ef29c67193c63"
+      }
+    ]
+  },
+  "services": {
+    "releve": "2026-11-19",
+    "options": {
+      "delivery": false
+    },
+    "paiement": [
+      "carte bancaire",
+      "carte de débit"
+    ],
+    "parking": []
+  },
+  "redaction": {
+    "version": 2,
+    "titre": "Boucherie Baraka du lot — Commerce d'alimentation à Cahors",
+    "meta_titre": "Boucherie Baraka du lot à Cahors : horaires, avis, téléphone",
+    "meta_description": "Boucherie Baraka du lot, commerce d'alimentation à Cahors : horaires d'ouverture, note Google 4/5 (39 avis), téléphone, adresse et itinéraire.",
+    "chapo": "Boucherie Baraka du lot, commerce d'alimentation au Rue des Pinsons, à Cahors. Ouvert tous les jours sauf le lundi au relevé du 19 novembre 2026. Téléphone : 05 81 22 12 43. Note Google : 4 sur 5 pour 39 avis.",
+    "sections": [
+      {
+        "id": "presentation",
+        "titre": "Boucherie Baraka du lot en quelques mots",
+        "paragraphes": [
+          "Sur Google, l'établissement est classé « Boucherie », dans notre rubrique Commerce d'alimentation.",
+          "D'après le relevé du 19 novembre 2026, l'établissement est ouvert tous les jours sauf le lundi. Le détail jour par jour figure plus bas."
+        ]
+      },
+      {
+        "id": "prestations",
+        "titre": "Services et équipements de Boucherie Baraka du lot",
+        "paragraphes": [
+          "Non proposé selon la fiche Google : livraison.",
+          "Moyens de paiement déclarés : carte bancaire et carte de débit.",
+          "Ces indications sont déclarées par l'établissement sur sa fiche Google (relevé du 19 novembre 2026)."
+        ]
+      },
+      {
+        "id": "acces",
+        "titre": "Adresse et accès",
+        "paragraphes": [
+          "L'établissement est situé au Rue des Pinsons, 46000 Cahors.",
+          "Coordonnées GPS : 44.45587, 1.42543. Le bouton Itinéraire de cette page ouvre la navigation."
+        ]
+      },
+      {
+        "id": "contact",
+        "titre": "Contacter Boucherie Baraka du lot",
+        "paragraphes": [
+          "Le contact se fait par téléphone au 05 81 22 12 43, ou directement sur place aux horaires d'ouverture."
+        ]
+      },
+      {
+        "id": "avis",
+        "titre": "La réputation de Boucherie Baraka du lot",
+        "paragraphes": [
+          "Note de 4 sur 5 pour 39 avis Google au relevé du 19 novembre 2026. Les avis les plus parlants sont compilés ci-dessous, avec un lien vers la fiche d'origine."
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "q": "Quels sont les horaires de Boucherie Baraka du lot ?",
+        "r": "Au relevé du 19 novembre 2026, Boucherie Baraka du lot était ouvert tous les jours sauf le lundi. Dans le détail — lundi : fermé ; mardi : de 8 h 30 à 19 h 30 ; mercredi : de 8 h 30 à 19 h 30 ; jeudi : de 8 h 30 à 19 h 30 ; vendredi : de 8 h 30 à 19 h 30 ; samedi : de 8 h 30 à 19 h 30 ; dimanche : de 8 h 30 à 18 h. Ces horaires peuvent changer : un appel préalable reste conseillé."
+      },
+      {
+        "q": "Boucherie Baraka du lot est-il ouvert le dimanche ?",
+        "r": "Oui : le dimanche, Boucherie Baraka du lot est ouvert de 8 h 30 à 18 h (horaires relevés le 19 novembre 2026)."
+      },
+      {
+        "q": "Où se trouve Boucherie Baraka du lot ?",
+        "r": "Boucherie Baraka du lot se trouve Rue des Pinsons, 46000 Cahors. Un lien d'itinéraire est disponible sur cette page."
+      },
+      {
+        "q": "Comment contacter Boucherie Baraka du lot ?",
+        "r": "Par téléphone au 05 81 22 12 43, ou directement sur place aux heures d'ouverture."
+      },
+      {
+        "q": "Boucherie Baraka du lot propose-t-il la vente à emporter ou la livraison ?",
+        "r": "D'après sa fiche Google (relevé du 19 novembre 2026) — livraison : non."
+      },
+      {
+        "q": "Boucherie Baraka du lot est-il accessible aux personnes à mobilité réduite ?",
+        "r": "La fiche Google de l'établissement mentionne : « Parking accessible en fauteuil roulant ». Cette information est déclarative ; en cas de doute, vérifiez par téléphone."
+      }
+    ],
+    "genere_le": "2026-11-19"
+  },
+  "statut_google": "OPERATIONAL",
+  "audience": {
+    "clics": 0,
+    "impressions": 0,
+    "position": null,
+    "fenetreJours": 90,
+    "clicsRecents": 0,
+    "fenetreRecenteJours": 28,
+    "source": "search-console",
+    "date": "2026-11-19"
+  }
+}

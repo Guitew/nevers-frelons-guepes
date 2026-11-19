@@ -1,0 +1,263 @@
+{
+  "id": "ChIJE4O4Sqb85EcRS18STkmpXgA",
+  "slug": "sa-cars-dunois",
+  "nom": "Sa Cars Dunois",
+  "categorie": "services-aux-particuliers",
+  "categorie_gmb": "Service de transport",
+  "type_principal": "transportation_service",
+  "types": [
+    "transportation_service",
+    "travel_agency",
+    "car_dealer",
+    "point_of_interest",
+    "service",
+    "store",
+    "establishment"
+  ],
+  "ville": "Saint-Jean-de-Braye",
+  "ville_slug": "saint-jean-de-braye",
+  "adresse": {
+    "rue": "Rue Blaise Pascal",
+    "code_postal": "45800",
+    "departement": "45",
+    "region": "Centre-Val de Loire",
+    "pays": "France",
+    "complete": "Rue Blaise Pascal, 45800 Saint-Jean-de-Braye"
+  },
+  "telephone": "02 38 70 95 00",
+  "geo": {
+    "latitude": 47.916936899999996,
+    "longitude": 1.945736
+  },
+  "note": 3.9,
+  "avis": 72,
+  "horaires": [
+    {
+      "jour": 0,
+      "ferme": false,
+      "creneaux": [
+        [
+          "09:00",
+          "17:00"
+        ]
+      ]
+    },
+    {
+      "jour": 1,
+      "ferme": false,
+      "creneaux": [
+        [
+          "09:00",
+          "17:00"
+        ]
+      ]
+    },
+    {
+      "jour": 2,
+      "ferme": false,
+      "creneaux": [
+        [
+          "09:00",
+          "17:00"
+        ]
+      ]
+    },
+    {
+      "jour": 3,
+      "ferme": false,
+      "creneaux": [
+        [
+          "09:00",
+          "17:00"
+        ]
+      ]
+    },
+    {
+      "jour": 4,
+      "ferme": false,
+      "creneaux": [
+        [
+          "09:00",
+          "17:00"
+        ]
+      ]
+    },
+    {
+      "jour": 5,
+      "ferme": true,
+      "creneaux": []
+    },
+    {
+      "jour": 6,
+      "ferme": true,
+      "creneaux": []
+    }
+  ],
+  "attributs": [
+    "Entrée accessible en fauteuil roulant",
+    "Parking accessible en fauteuil roulant"
+  ],
+  "lien_google": "https://maps.google.com/?cid=26644780118335307&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
+  "site_web_gmb": null,
+  "statut": "publiee",
+  "backlink": {
+    "etat": "absent",
+    "premiere_detection": null,
+    "derniere_detection": null,
+    "derniere_verification": "2026-11-19T14:21:55.003Z",
+    "echecs": 1,
+    "url_detectee": null
+  },
+  "suggestion": {
+    "etat": "en-attente",
+    "date_soumission": null,
+    "tentatives": 0,
+    "date_email": "2026-11-19"
+  },
+  "retrait": null,
+  "dates": {
+    "collecte": "2026-11-19",
+    "publication": "2026-11-19",
+    "maj": "2026-11-19"
+  },
+  "source": "google-places",
+  "avis_detail": {
+    "releve": "2026-11-19",
+    "liste": [
+      {
+        "note": 1,
+        "texte": "Car 25 - etampes pithiviers\nPassage 18h30 à Gare SNCF = aucun car passe\nOn a appelé le service de régulation qui nous a indiqué à 18h49 que le bus était presque arrivé à Sermaise. Une honte pour le service payé.",
+        "langue": "fr",
+        "date": "2026-06-03",
+        "auteur": "Alexia Fourdrignier",
+        "auteur_lien": "https://www.google.com/maps/contrib/106267281824719839686/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT21JelFYUnJUa3hIYUdJNVpHb3RWVGR0YW5SVFFYYxAB!2m1!1s0x47e4fca64ab88313:0x5ea9494e125f4b"
+      },
+      {
+        "note": 5,
+        "texte": "Bonjour j'ai pris le car 3A de 19:15 et ce fut un voyage très agréable le conducteur est très gentil je le remercie pour ça conduite reposante",
+        "langue": "fr",
+        "date": "2026-05-22",
+        "auteur": "teo chevene",
+        "auteur_lien": "https://www.google.com/maps/contrib/114077228477238892838/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2tSWU9FTllSRFk1UldOeGMwSllWbTVuVEU5SVpIYxAB!2m1!1s0x47e4fca64ab88313:0x5ea9494e125f4b"
+      },
+      {
+        "note": 1,
+        "texte": "Car dunois a éviter surtout en transport scolaire,le responsable n veut pas que les chauffeur attende ma fille qui a seulement 5 min pour sortir du collège faire le trajet jusqu au devant de l autre collège",
+        "langue": "fr",
+        "date": "2026-03-13",
+        "auteur": "Yohann Martinon",
+        "auteur_lien": "https://www.google.com/maps/contrib/110569208679372089905/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25BeloxVlJkRzkzV0ZOak0yNTVVVXBmTUdaNFYwRRAB!2m1!1s0x47e4fca64ab88313:0x5ea9494e125f4b"
+      },
+      {
+        "note": 1,
+        "texte": "Vous vous prenez pour qui pour vous arrêtez aux arrêts comme ça vous chante. Donc moi je suis devant l’arrêt de bus j’attends et on est plusieurs à attendre et même pas ils s’arrêtent. Ces chauffeurs c’est vraiment des boulets, ça sert à rien de faire votre métier si vous le faites mal. Autant laisser la place à des gens plus compétents sur ce je vais me débrouiller avec la direction pour qu’il change ça toute de suite ou sinon je ferai en sorte que la personne soit viré sachant que c’est pas la première fois !!",
+        "langue": "fr",
+        "date": "2021-05-17",
+        "auteur": "Miia June",
+        "auteur_lien": "https://www.google.com/maps/contrib/100861743215815001874/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSURLN1lmbHlRRRAB!2m1!1s0x47e4fca64ab88313:0x5ea9494e125f4b"
+      },
+      {
+        "note": 1,
+        "texte": "Il est dommage pour une entreprise aussi connue et respectée que les cars Dunois d avoir son image ternie par le chauffeur le plus antipathique qu'il m'a été de rencontrer. Petites phrases d accueil  de sa part \"pas de nourriture de boisson dans le car...\", \"Le premier que je vois, j arrête et je le descends\" , et au final il a essayé de se rattraper par un \"bonsoir quand même...\"  Bref, un seul chauffeur détruit en quelques secondes la réputation d une belle enterprise. Dommage",
+        "langue": "fr",
+        "date": "2020-01-17",
+        "auteur": "Gaëtan Devendeville",
+        "auteur_lien": "https://www.google.com/maps/contrib/104909423143236400289/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSURNdjdPQnVBRRAB!2m1!1s0x47e4fca64ab88313:0x5ea9494e125f4b"
+      }
+    ]
+  },
+  "services": {
+    "releve": "2026-11-19",
+    "options": {
+      "restroom": true
+    },
+    "paiement": [],
+    "parking": []
+  },
+  "redaction": {
+    "version": 2,
+    "titre": "Sa Cars Dunois — Service aux particuliers à Saint-Jean-de-Braye",
+    "meta_titre": "Sa Cars Dunois à Saint-Jean-de-Braye : horaires, avis",
+    "meta_description": "Sa Cars Dunois, service aux particuliers à Saint-Jean-de-Braye : horaires d'ouverture, note Google 3,9/5 (72 avis), téléphone, adresse et itinéraire.",
+    "chapo": "Sa Cars Dunois, service aux particuliers au Rue Blaise Pascal, à Saint-Jean-de-Braye. Fermé le samedi et le dimanche au relevé du 19 novembre 2026. Téléphone : 02 38 70 95 00. Note Google : 3,9 sur 5 pour 72 avis.",
+    "sections": [
+      {
+        "id": "presentation",
+        "titre": "Sa Cars Dunois en quelques mots",
+        "paragraphes": [
+          "Sur Google, l'établissement est classé « Service de transport », dans notre rubrique Service aux particuliers.",
+          "D'après le relevé du 19 novembre 2026, l'établissement est fermé le samedi et le dimanche. Le détail jour par jour figure plus bas."
+        ]
+      },
+      {
+        "id": "prestations",
+        "titre": "Services et équipements de Sa Cars Dunois",
+        "paragraphes": [
+          "Proposé : toilettes.",
+          "Ces indications sont déclarées par l'établissement sur sa fiche Google (relevé du 19 novembre 2026)."
+        ]
+      },
+      {
+        "id": "acces",
+        "titre": "Adresse et accès",
+        "paragraphes": [
+          "L'établissement est situé au Rue Blaise Pascal, 45800 Saint-Jean-de-Braye.",
+          "Coordonnées GPS : 47.91694, 1.94574. Le bouton Itinéraire de cette page ouvre la navigation."
+        ]
+      },
+      {
+        "id": "contact",
+        "titre": "Contacter Sa Cars Dunois",
+        "paragraphes": [
+          "Le contact se fait par téléphone au 02 38 70 95 00, ou directement sur place aux horaires d'ouverture."
+        ]
+      },
+      {
+        "id": "avis",
+        "titre": "La réputation de Sa Cars Dunois",
+        "paragraphes": [
+          "Note de 3,9 sur 5 pour 72 avis Google au relevé du 19 novembre 2026. Les avis les plus parlants sont compilés ci-dessous, avec un lien vers la fiche d'origine."
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "q": "Quels sont les horaires de Sa Cars Dunois ?",
+        "r": "Au relevé du 19 novembre 2026, Sa Cars Dunois était fermé le samedi et le dimanche. Dans le détail — lundi : de 9 h à 17 h ; mardi : de 9 h à 17 h ; mercredi : de 9 h à 17 h ; jeudi : de 9 h à 17 h ; vendredi : de 9 h à 17 h ; samedi : fermé ; dimanche : fermé. Ces horaires peuvent changer : un appel préalable reste conseillé."
+      },
+      {
+        "q": "Sa Cars Dunois est-il ouvert le dimanche ?",
+        "r": "Non : d'après les horaires relevés le 19 novembre 2026, Sa Cars Dunois est fermé le dimanche."
+      },
+      {
+        "q": "Où se trouve Sa Cars Dunois ?",
+        "r": "Sa Cars Dunois se trouve Rue Blaise Pascal, 45800 Saint-Jean-de-Braye. Un lien d'itinéraire est disponible sur cette page."
+      },
+      {
+        "q": "Comment contacter Sa Cars Dunois ?",
+        "r": "Par téléphone au 02 38 70 95 00, ou directement sur place aux heures d'ouverture."
+      },
+      {
+        "q": "Sa Cars Dunois est-il accessible aux personnes à mobilité réduite ?",
+        "r": "La fiche Google de l'établissement mentionne : « Entrée accessible en fauteuil roulant ». Cette information est déclarative ; en cas de doute, vérifiez par téléphone."
+      }
+    ],
+    "genere_le": "2026-11-19"
+  },
+  "statut_google": "OPERATIONAL",
+  "audience": {
+    "clics": 0,
+    "impressions": 0,
+    "position": null,
+    "fenetreJours": 90,
+    "clicsRecents": 0,
+    "fenetreRecenteJours": 28,
+    "source": "search-console",
+    "date": "2026-11-19"
+  }
+}

@@ -1,0 +1,258 @@
+{
+  "id": "ChIJsQ5tbqXVwkcR3zjOcFD1kvc",
+  "slug": "arb-garage-auto-service-atelier",
+  "nom": "ARB GARAGE AUTO - Service Atelier",
+  "categorie": "garages-automobile",
+  "categorie_gmb": "Garage automobile",
+  "type_principal": "car_repair",
+  "types": [
+    "car_repair",
+    "point_of_interest",
+    "service",
+    "establishment"
+  ],
+  "ville": "Loos",
+  "ville_slug": "loos",
+  "adresse": {
+    "rue": "2 Rue Claude Monet",
+    "code_postal": "59120",
+    "departement": "59",
+    "region": "Hauts-de-France",
+    "pays": "France",
+    "complete": "2 Rue Claude Monet, 59120 Loos"
+  },
+  "telephone": "07 69 72 82 87",
+  "geo": {
+    "latitude": 50.6051625,
+    "longitude": 3.0118747999999997
+  },
+  "note": 4.5,
+  "avis": 91,
+  "horaires": [
+    {
+      "jour": 0,
+      "ferme": false,
+      "creneaux": [
+        [
+          "08:30",
+          "19:00"
+        ]
+      ]
+    },
+    {
+      "jour": 1,
+      "ferme": false,
+      "creneaux": [
+        [
+          "08:30",
+          "19:00"
+        ]
+      ]
+    },
+    {
+      "jour": 2,
+      "ferme": false,
+      "creneaux": [
+        [
+          "08:30",
+          "19:00"
+        ]
+      ]
+    },
+    {
+      "jour": 3,
+      "ferme": false,
+      "creneaux": [
+        [
+          "08:30",
+          "19:00"
+        ]
+      ]
+    },
+    {
+      "jour": 4,
+      "ferme": false,
+      "creneaux": [
+        [
+          "08:30",
+          "19:00"
+        ]
+      ]
+    },
+    {
+      "jour": 5,
+      "ferme": false,
+      "creneaux": [
+        [
+          "08:30",
+          "19:00"
+        ]
+      ]
+    },
+    {
+      "jour": 6,
+      "ferme": true,
+      "creneaux": []
+    }
+  ],
+  "attributs": [],
+  "lien_google": "https://maps.google.com/?cid=17839590799806707935&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
+  "site_web_gmb": null,
+  "statut": "publiee",
+  "backlink": {
+    "etat": "absent",
+    "premiere_detection": null,
+    "derniere_detection": null,
+    "derniere_verification": "2026-11-19T14:21:55.003Z",
+    "echecs": 1,
+    "url_detectee": null
+  },
+  "suggestion": {
+    "etat": "en-attente",
+    "date_soumission": null,
+    "tentatives": 0,
+    "date_email": "2026-11-19"
+  },
+  "retrait": null,
+  "dates": {
+    "collecte": "2026-11-19",
+    "publication": "2026-11-19",
+    "maj": "2026-11-19"
+  },
+  "source": "google-places",
+  "avis_detail": {
+    "releve": "2026-11-19",
+    "liste": [
+      {
+        "note": 1,
+        "texte": "Garage a bannir tomber en panne sur lille pédales d'embrayage enfoncé voiture transfert a ce garage. Il recherche la panne et il me dis que c'est l'embrayage qui est HS. Je récupère la voiture 2 jours après il a juste refixer le câble et je suis reparti par contre il m'a demandé 150 € en liquide sans facture.",
+        "langue": "fr",
+        "date": "2026-06-11",
+        "auteur": "yosa 62",
+        "auteur_lien": "https://www.google.com/maps/contrib/105179529670585650297/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT21oME1tZFJSbkZ6ZUZneFJtMXBhRlpHTldKRlZsRRAB!2m1!1s0x47c2d5a56e6d0eb1:0xf792f55070ce38df"
+      },
+      {
+        "note": 5,
+        "texte": "Première expérience dans ce garage pour le remplacement d'un kit embrayage sur une Toyota Yaris.\nJonathan, responsable des lieux, est aux petits soins pour ses clients. Un contact client simple et clair.\nUne enseigne à taille humaine, comme on voudrait plus en voir.\nJe recommande à 100%.",
+        "langue": "fr",
+        "date": "2026-06-05",
+        "auteur": "Jo ber",
+        "auteur_lien": "https://www.google.com/maps/contrib/110772269036218071808/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT210ck9GUnFSMjFmWkVwa1ZqWm5UMWxoZDNGdWNtYxAB!2m1!1s0x47c2d5a56e6d0eb1:0xf792f55070ce38df"
+      },
+      {
+        "note": 5,
+        "texte": "Prise en charge après un dépannage qui m’a conseillé ce garage. Très professionnel de A à Z, j’ai été au tenu au courant avec photo et devis à l’appui, tout du long. Prix honnêtes sans grosse marge et réparation rapide, merci beaucoup !",
+        "langue": "fr",
+        "date": "2026-06-04",
+        "auteur": "Maxime saunier",
+        "auteur_lien": "https://www.google.com/maps/contrib/100990565899874422536/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT21GSlRrVm9WbE5WYlhCT2FIVkxhelZIZDNwMlduYxAB!2m1!1s0x47c2d5a56e6d0eb1:0xf792f55070ce38df"
+      },
+      {
+        "note": 5,
+        "texte": "Après une première intervention en urgence, j’y suis retournée pour une seconde visite afin de remplacer une pièce dans le cadre de l’entretien.\nJe recommande vivement ce garagiste : il m’a tenue informée à chaque étape, avec des explications claires et des photos à l’appui pour illustrer les pièces et les travaux réalisés. Les tarifs sont également sans concurrence de ce que j’ai pu constater dans les environs.\nJ'y retournerai avec plaisir si besoin est ! 🚗👌",
+        "langue": "fr",
+        "date": "2026-04-16",
+        "auteur": "Gaëlle Vegiotti",
+        "auteur_lien": "https://www.google.com/maps/contrib/107541646740626309401/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT21WWFdubHVNM3BPTkc0dGNtMU9PVmxtUVc5VWIyYxAB!2m1!1s0x47c2d5a56e6d0eb1:0xf792f55070ce38df"
+      },
+      {
+        "note": 1,
+        "texte": "Ce pseudo-garagiste m'a vendu des pneus occasions soit disant \"en très bon état\" mais qui n'étaient plus d'usage (photo à l'appui). Quand je viens les lui rendre et me faire rembourser, il me dit que c'est moi qui les ai crevé exprès ! Personne malhonnêtes, donc ne perdez pas votre temps, allez voir des vrais garagistes pro !",
+        "langue": "fr",
+        "date": "2026-04-13",
+        "auteur": "hizz asson",
+        "auteur_lien": "https://www.google.com/maps/contrib/108593413396875084956/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xobFJsQmhiRVpOVjFjeGFrZGpVWG93YkdkM1dIYxAB!2m1!1s0x47c2d5a56e6d0eb1:0xf792f55070ce38df"
+      }
+    ]
+  },
+  "services": {
+    "releve": "2026-11-19",
+    "options": {
+      "restroom": true
+    },
+    "paiement": [],
+    "parking": []
+  },
+  "redaction": {
+    "version": 2,
+    "titre": "ARB GARAGE AUTO - Service Atelier — Garage et automobile à Loos",
+    "meta_titre": "ARB GARAGE AUTO - Service Atelier à Loos : horaires, avis",
+    "meta_description": "ARB GARAGE AUTO - Service Atelier, garage et automobile à Loos : horaires d'ouverture, note Google 4,5/5 (91 avis), téléphone, adresse et itinéraire.",
+    "chapo": "Cette fiche présente ARB GARAGE AUTO - Service Atelier, un garage et automobile au 2 Rue Claude Monet, à Loos. Ouvert tous les jours sauf le dimanche au relevé du 19 novembre 2026. Téléphone : 07 69 72 82 87. Note Google : 4,5 sur 5 pour 91 avis.",
+    "sections": [
+      {
+        "id": "presentation",
+        "titre": "ARB GARAGE AUTO - Service Atelier en quelques mots",
+        "paragraphes": [
+          "Sur Google, l'établissement est classé « Garage automobile », dans notre rubrique Garage et automobile.",
+          "D'après le relevé du 19 novembre 2026, l'établissement est ouvert tous les jours sauf le dimanche. Le détail jour par jour figure plus bas."
+        ]
+      },
+      {
+        "id": "prestations",
+        "titre": "Services et équipements de ARB GARAGE AUTO - Service Atelier",
+        "paragraphes": [
+          "Proposé : toilettes.",
+          "Ces indications sont déclarées par l'établissement sur sa fiche Google (relevé du 19 novembre 2026)."
+        ]
+      },
+      {
+        "id": "acces",
+        "titre": "Adresse et accès",
+        "paragraphes": [
+          "L'établissement est situé au 2 Rue Claude Monet, 59120 Loos.",
+          "Coordonnées GPS : 50.60516, 3.01187. Le bouton Itinéraire de cette page ouvre la navigation."
+        ]
+      },
+      {
+        "id": "contact",
+        "titre": "Contacter ARB GARAGE AUTO - Service Atelier",
+        "paragraphes": [
+          "Le contact se fait par téléphone au 07 69 72 82 87, ou directement sur place aux horaires d'ouverture."
+        ]
+      },
+      {
+        "id": "avis",
+        "titre": "La réputation de ARB GARAGE AUTO - Service Atelier",
+        "paragraphes": [
+          "Note de 4,5 sur 5 pour 91 avis Google au relevé du 19 novembre 2026. Les avis les plus parlants sont compilés ci-dessous, avec un lien vers la fiche d'origine."
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "q": "Quels sont les horaires de ARB GARAGE AUTO - Service Atelier ?",
+        "r": "Au relevé du 19 novembre 2026, ARB GARAGE AUTO - Service Atelier était ouvert tous les jours sauf le dimanche. Dans le détail — lundi : de 8 h 30 à 19 h ; mardi : de 8 h 30 à 19 h ; mercredi : de 8 h 30 à 19 h ; jeudi : de 8 h 30 à 19 h ; vendredi : de 8 h 30 à 19 h ; samedi : de 8 h 30 à 19 h ; dimanche : fermé. Ces horaires peuvent changer : un appel préalable reste conseillé."
+      },
+      {
+        "q": "ARB GARAGE AUTO - Service Atelier est-il ouvert le dimanche ?",
+        "r": "Non : d'après les horaires relevés le 19 novembre 2026, ARB GARAGE AUTO - Service Atelier est fermé le dimanche."
+      },
+      {
+        "q": "Où se trouve ARB GARAGE AUTO - Service Atelier ?",
+        "r": "ARB GARAGE AUTO - Service Atelier se trouve 2 Rue Claude Monet, 59120 Loos. Un lien d'itinéraire est disponible sur cette page."
+      },
+      {
+        "q": "Comment contacter ARB GARAGE AUTO - Service Atelier ?",
+        "r": "Par téléphone au 07 69 72 82 87, ou directement sur place aux heures d'ouverture."
+      }
+    ],
+    "genere_le": "2026-11-19"
+  },
+  "statut_google": "OPERATIONAL",
+  "audience": {
+    "clics": 0,
+    "impressions": 0,
+    "position": null,
+    "fenetreJours": 90,
+    "clicsRecents": 0,
+    "fenetreRecenteJours": 28,
+    "source": "search-console",
+    "date": "2026-11-19"
+  }
+}

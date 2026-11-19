@@ -1,0 +1,270 @@
+{
+  "id": "ChIJl7nxsI-16UcR6SJj8WGP3D8",
+  "slug": "garage-des-minimes",
+  "nom": "garage des minimes",
+  "categorie": "garages-automobile",
+  "categorie_gmb": "Garage automobile",
+  "type_principal": "car_repair",
+  "types": [
+    "car_repair",
+    "point_of_interest",
+    "service",
+    "establishment"
+  ],
+  "ville": "Laon",
+  "ville_slug": "laon",
+  "adresse": {
+    "rue": "4 Rue des Minimes",
+    "code_postal": "02000",
+    "departement": "02",
+    "region": "Hauts-de-France",
+    "pays": "France",
+    "complete": "4 Rue des Minimes, 02000 Laon"
+  },
+  "telephone": "03 23 89 11 36",
+  "geo": {
+    "latitude": 49.575085099999995,
+    "longitude": 3.6511711
+  },
+  "note": 4.6,
+  "avis": 171,
+  "horaires": [
+    {
+      "jour": 0,
+      "ferme": false,
+      "creneaux": [
+        [
+          "08:00",
+          "18:00"
+        ]
+      ]
+    },
+    {
+      "jour": 1,
+      "ferme": false,
+      "creneaux": [
+        [
+          "08:00",
+          "18:00"
+        ]
+      ]
+    },
+    {
+      "jour": 2,
+      "ferme": false,
+      "creneaux": [
+        [
+          "08:00",
+          "18:00"
+        ]
+      ]
+    },
+    {
+      "jour": 3,
+      "ferme": false,
+      "creneaux": [
+        [
+          "08:00",
+          "18:00"
+        ]
+      ]
+    },
+    {
+      "jour": 4,
+      "ferme": false,
+      "creneaux": [
+        [
+          "08:00",
+          "18:00"
+        ]
+      ]
+    },
+    {
+      "jour": 5,
+      "ferme": false,
+      "creneaux": [
+        [
+          "08:00",
+          "12:00"
+        ]
+      ]
+    },
+    {
+      "jour": 6,
+      "ferme": true,
+      "creneaux": []
+    }
+  ],
+  "attributs": [
+    "Entrée accessible en fauteuil roulant",
+    "Parking accessible en fauteuil roulant"
+  ],
+  "lien_google": "https://maps.google.com/?cid=4601710570090210025&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
+  "site_web_gmb": null,
+  "statut": "publiee",
+  "backlink": {
+    "etat": "absent",
+    "premiere_detection": null,
+    "derniere_detection": null,
+    "derniere_verification": "2026-11-19T14:21:55.003Z",
+    "echecs": 1,
+    "url_detectee": null
+  },
+  "suggestion": {
+    "etat": "en-attente",
+    "date_soumission": null,
+    "tentatives": 0,
+    "date_email": "2026-11-19"
+  },
+  "retrait": null,
+  "dates": {
+    "collecte": "2026-11-19",
+    "publication": "2026-11-19",
+    "maj": "2026-11-19"
+  },
+  "source": "google-places",
+  "avis_detail": {
+    "releve": "2026-11-19",
+    "liste": [
+      {
+        "note": 5,
+        "texte": "Un garagiste humain, qui prend le temps d'expliquer et qui ne cache pas ses devis. Un travail rapide avec un respect des délais. Je recommande.",
+        "langue": "fr",
+        "date": "2026-08-25",
+        "auteur": "Allan Ogma",
+        "auteur_lien": "https://www.google.com/maps/contrib/101071293271708683098/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT21kNk1EQjJZbXhGYURGMFlXVnVaMjFpYzBsVmJGRRAB!2m1!1s0x47e9b58fb0f1b997:0x3fdc8f61f16322e9"
+      },
+      {
+        "note": 5,
+        "texte": "Notre courroie à lâché sur l'autoroute, ils avaient déjà beaucoup à faire et les vacances le vendredi pourtant ils nous ont accueillis avec le sourire, on réparé la voiture en quelques heure qui nous a permis de finir notre périple là où les autres garages nous donnée un délai de minimum 48h. Très professionnel, on même pas profiter de l'urgence de la situation pour nous allumer. Je les recommande vraiment. Si nous habitions à côté ils seraient notre garagiste.",
+        "langue": "fr",
+        "date": "2026-08-14",
+        "auteur": "Ombeline Solinas",
+        "auteur_lien": "https://www.google.com/maps/contrib/109791509222201033017/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25WT1NHTTNRV1YwZFhKa1IycDViRU54VFZwZlpGRRAB!2m1!1s0x47e9b58fb0f1b997:0x3fdc8f61f16322e9"
+      },
+      {
+        "note": 1,
+        "texte": "Je recommande pas nous sommes tombé en panne sur l autoroute le dépanneur est venu et a amené notre voiture chez eux le mercredi ils ont regardé la voiture 6 jours a près pour dire votre voiture a rien bizarre le bruit on l'a pas inventé ,résultat mon conjoint a été la chercher hier même pas 1h de route par la national pour rentrer chez nous car il voulait pas prendre de risque  sur l autoroute Résultat la voiture et a sedan dans un autre garage   donc elle avait bien quelques chose pff ( vu que je peux pas répondre, faux vous avez dit faut changer juste le joint d injecteur car fuite alors qu en faite le garage apres a testé  est 3 injecteurs défectueux  donc un hs vous aviez vu l injecteur pour un garage vous auriez pu les tester mes bon heureusement ça été réparer rapidement  en 3 jours dans l autre garage  sur ceux bonne fin de journée",
+        "langue": "fr",
+        "date": "2026-07-31",
+        "auteur": "Celine Lagrange",
+        "auteur_lien": "https://www.google.com/maps/contrib/117084290990087689045/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xOb2NsOUlPVEZ5TlUxcWRtWlJVbEV0WTJaQ1VIYxAB!2m1!1s0x47e9b58fb0f1b997:0x3fdc8f61f16322e9"
+      },
+      {
+        "note": 5,
+        "texte": "Mon fils est tombé en panne sur l’autoroute avec une Opel corsa.Véhicule déposé dans leur garage. Joint de culasse HS. N’étant pas de la région, on a décidé de faire échanger le moteur. Travail parfait,  prix  correct, essai rien à redire. Garage très professionnel.  On devrait avoir plus de garage sérieux comme celui-ci.",
+        "langue": "fr",
+        "date": "2026-07-09",
+        "auteur": "ROMAN Michel",
+        "auteur_lien": "https://www.google.com/maps/contrib/111830447896814716900/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2w5dU4xSkpSM2xOUW5obk1qTkVTWGxwTTNsQk5tYxAB!2m1!1s0x47e9b58fb0f1b997:0x3fdc8f61f16322e9"
+      },
+      {
+        "note": 5,
+        "texte": "Suite à une panne , Une compagnie de Taxi m’a recommandé cette entreprise , Gentillesse et réactivité de ce garage et bon diagnostic ,\nMa voiture a été réparée Et je n’ai pas payé un prix exorbitant , J’ai découvert en allant chercher ma voiture qu’ils étaient passionnés également de voiture ancienne à rénover. Je recommande fortement ce garage.\n⭐️⭐️ ⭐️⭐️⭐️",
+        "langue": "fr",
+        "date": "2025-11-20",
+        "auteur": "Marie B",
+        "auteur_lien": "https://www.google.com/maps/contrib/111112225820927892346/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xOYVRqQnRWMDVxTWxBM1ZVMDJibFZQUjJZdFJHYxAB!2m1!1s0x47e9b58fb0f1b997:0x3fdc8f61f16322e9"
+      }
+    ]
+  },
+  "services": {
+    "releve": "2026-11-19",
+    "options": {
+      "restroom": false
+    },
+    "paiement": [
+      "carte bancaire",
+      "carte de débit",
+      "paiement sans contact"
+    ],
+    "parking": []
+  },
+  "redaction": {
+    "version": 2,
+    "titre": "garage des minimes — Garage et automobile à Laon",
+    "meta_titre": "garage des minimes à Laon : horaires, avis, téléphone",
+    "meta_description": "garage des minimes, garage et automobile à Laon : horaires d'ouverture, note Google 4,6/5 (171 avis), téléphone, adresse et itinéraire.",
+    "chapo": "Cette fiche présente garage des minimes, un garage et automobile au 4 Rue des Minimes, à Laon. Ouvert tous les jours sauf le dimanche au relevé du 19 novembre 2026. Téléphone : 03 23 89 11 36. Note Google : 4,6 sur 5 pour 171 avis.",
+    "sections": [
+      {
+        "id": "presentation",
+        "titre": "garage des minimes en quelques mots",
+        "paragraphes": [
+          "Sur Google, l'établissement est classé « Garage automobile », dans notre rubrique Garage et automobile.",
+          "D'après le relevé du 19 novembre 2026, l'établissement est ouvert tous les jours sauf le dimanche. Le détail jour par jour figure plus bas."
+        ]
+      },
+      {
+        "id": "prestations",
+        "titre": "Services et équipements de garage des minimes",
+        "paragraphes": [
+          "Non proposé selon la fiche Google : toilettes.",
+          "Moyens de paiement déclarés : carte bancaire, carte de débit et paiement sans contact.",
+          "Ces indications sont déclarées par l'établissement sur sa fiche Google (relevé du 19 novembre 2026)."
+        ]
+      },
+      {
+        "id": "acces",
+        "titre": "Adresse et accès",
+        "paragraphes": [
+          "L'établissement est situé au 4 Rue des Minimes, 02000 Laon.",
+          "Coordonnées GPS : 49.57509, 3.65117. Le bouton Itinéraire de cette page ouvre la navigation."
+        ]
+      },
+      {
+        "id": "contact",
+        "titre": "Contacter garage des minimes",
+        "paragraphes": [
+          "Le contact se fait par téléphone au 03 23 89 11 36, ou directement sur place aux horaires d'ouverture."
+        ]
+      },
+      {
+        "id": "avis",
+        "titre": "La réputation de garage des minimes",
+        "paragraphes": [
+          "Note de 4,6 sur 5 pour 171 avis Google au relevé du 19 novembre 2026. Les avis les plus parlants sont compilés ci-dessous, avec un lien vers la fiche d'origine."
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "q": "Quels sont les horaires de garage des minimes ?",
+        "r": "Au relevé du 19 novembre 2026, garage des minimes était ouvert tous les jours sauf le dimanche. Dans le détail — lundi : de 8 h à 18 h ; mardi : de 8 h à 18 h ; mercredi : de 8 h à 18 h ; jeudi : de 8 h à 18 h ; vendredi : de 8 h à 18 h ; samedi : de 8 h à 12 h ; dimanche : fermé. Ces horaires peuvent changer : un appel préalable reste conseillé."
+      },
+      {
+        "q": "garage des minimes est-il ouvert le dimanche ?",
+        "r": "Non : d'après les horaires relevés le 19 novembre 2026, garage des minimes est fermé le dimanche."
+      },
+      {
+        "q": "Où se trouve garage des minimes ?",
+        "r": "garage des minimes se trouve 4 Rue des Minimes, 02000 Laon. Un lien d'itinéraire est disponible sur cette page."
+      },
+      {
+        "q": "Comment contacter garage des minimes ?",
+        "r": "Par téléphone au 03 23 89 11 36, ou directement sur place aux heures d'ouverture."
+      },
+      {
+        "q": "garage des minimes est-il accessible aux personnes à mobilité réduite ?",
+        "r": "La fiche Google de l'établissement mentionne : « Entrée accessible en fauteuil roulant ». Cette information est déclarative ; en cas de doute, vérifiez par téléphone."
+      }
+    ],
+    "genere_le": "2026-11-19"
+  },
+  "statut_google": "OPERATIONAL",
+  "audience": {
+    "clics": 0,
+    "impressions": 0,
+    "position": null,
+    "fenetreJours": 90,
+    "clicsRecents": 0,
+    "fenetreRecenteJours": 28,
+    "source": "search-console",
+    "date": "2026-11-19"
+  }
+}

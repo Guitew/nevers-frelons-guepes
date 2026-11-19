@@ -1,0 +1,336 @@
+{
+  "id": "ChIJCSSaEk3XjEcRfm01MEdG-6s",
+  "slug": "monsieur-wok",
+  "nom": "Monsieur Wok",
+  "categorie": "restaurants",
+  "categorie_gmb": "Restaurant de type buffet",
+  "type_principal": "buffet_restaurant",
+  "types": [
+    "buffet_restaurant",
+    "restaurant",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "ville": "Montmorot",
+  "ville_slug": "montmorot",
+  "adresse": {
+    "rue": "2a Le Rocher",
+    "code_postal": "39570",
+    "departement": "39",
+    "region": "Bourgogne-Franche-Comté",
+    "pays": "France",
+    "complete": "2a Le Rocher, 39570 Montmorot"
+  },
+  "telephone": "03 84 25 16 02",
+  "geo": {
+    "latitude": 46.6775721,
+    "longitude": 5.5142767
+  },
+  "note": 3.8,
+  "avis": 933,
+  "horaires": [
+    {
+      "jour": 0,
+      "ferme": true,
+      "creneaux": []
+    },
+    {
+      "jour": 1,
+      "ferme": false,
+      "creneaux": [
+        [
+          "12:00",
+          "14:00"
+        ],
+        [
+          "19:00",
+          "22:00"
+        ]
+      ]
+    },
+    {
+      "jour": 2,
+      "ferme": false,
+      "creneaux": [
+        [
+          "12:00",
+          "14:00"
+        ],
+        [
+          "19:00",
+          "22:00"
+        ]
+      ]
+    },
+    {
+      "jour": 3,
+      "ferme": false,
+      "creneaux": [
+        [
+          "12:00",
+          "14:00"
+        ],
+        [
+          "19:00",
+          "22:00"
+        ]
+      ]
+    },
+    {
+      "jour": 4,
+      "ferme": false,
+      "creneaux": [
+        [
+          "12:00",
+          "14:00"
+        ],
+        [
+          "19:00",
+          "22:00"
+        ]
+      ]
+    },
+    {
+      "jour": 5,
+      "ferme": false,
+      "creneaux": [
+        [
+          "12:00",
+          "14:00"
+        ],
+        [
+          "19:00",
+          "22:00"
+        ]
+      ]
+    },
+    {
+      "jour": 6,
+      "ferme": false,
+      "creneaux": [
+        [
+          "12:00",
+          "14:00"
+        ],
+        [
+          "19:00",
+          "22:00"
+        ]
+      ]
+    }
+  ],
+  "attributs": [
+    "Entrée accessible en fauteuil roulant",
+    "Parking accessible en fauteuil roulant",
+    "Toilettes accessibles en fauteuil roulant",
+    "Places assises accessibles en fauteuil roulant"
+  ],
+  "lien_google": "https://maps.google.com/?cid=12392576071205481854&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
+  "site_web_gmb": null,
+  "statut": "publiee",
+  "backlink": {
+    "etat": "absent",
+    "premiere_detection": null,
+    "derniere_detection": null,
+    "derniere_verification": "2026-11-19T14:21:55.003Z",
+    "echecs": 1,
+    "url_detectee": null
+  },
+  "suggestion": {
+    "etat": "en-attente",
+    "date_soumission": null,
+    "tentatives": 0,
+    "date_email": "2026-11-19"
+  },
+  "retrait": null,
+  "dates": {
+    "collecte": "2026-11-19",
+    "publication": "2026-11-19",
+    "maj": "2026-11-19"
+  },
+  "source": "google-places",
+  "avis_detail": {
+    "releve": "2026-11-19",
+    "liste": [
+      {
+        "note": 1,
+        "texte": "Cuisine ça mérite même pas d’être appeler de la cuisine\nLa seul et unique choses qui était mangeable est les fruit au sirop.\nJe n’ai jamais manger dans un wok aussi mauvais\nMême les choses congeler étais froide et immangeable\nJ’aime le frais alors j’étais bien mais ma femme va pouvoir coller ses pieds glacer sur moi ce soir.. la même température (15°C)\n\nbref une catastrophe ne jamais aller là-bas vous allez gaspiller votre temp et votre argent\n\nPS: même le wok était fade",
+        "langue": "fr",
+        "date": "2026-11-03",
+        "auteur": "rom pic",
+        "auteur_lien": "https://www.google.com/maps/contrib/107530037377978334103/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2s1UGRHSlFOVW93TVhKb1pFTlZkM0JWZW5wblVuYxAB!2m1!1s0x478cd74d129a2409:0xabfb464730356d7e"
+      },
+      {
+        "note": 3,
+        "texte": "Très déçu, la qualité n'est plus. Plus de choix comme avant. Restaurant très vieux. Au niveau hygiène verres pas propre avec pleins de traces.\nDans mon assiette de wok de poisson et de fruits de mer j'ai retrouvé une énorme mouche bleu morte.\nJe suis allée le signaler à l'accueil du restaurant, elle m'a répondu retourner vous servir , comme si de rien.\nJ'y remettrai plus les pieds. Et je déconseille vivement.",
+        "langue": "fr",
+        "date": "2026-09-12",
+        "auteur": "Isa Vig",
+        "auteur_lien": "https://www.google.com/maps/contrib/107015773675359930471/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xGaVRIcFRSWGxVUlRoTVNsb3pMVGRUZFZCYVRXYxAB!2m1!1s0x478cd74d129a2409:0xabfb464730356d7e"
+      },
+      {
+        "note": 5,
+        "texte": "Enterrement de vie de jeune fille on a bien manger . Le personnel agréable. Nous ont pris même en photo.",
+        "langue": "fr",
+        "date": "2026-06-20",
+        "auteur": "rosesjaunes",
+        "auteur_lien": "https://www.google.com/maps/contrib/111681297531947680538/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2sxNGNFaHRkSFpPYVRWbFRXRnJhMFV5YUdWcVYwRRAB!2m1!1s0x478cd74d129a2409:0xabfb464730356d7e"
+      },
+      {
+        "note": 1,
+        "texte": "! A fuir ! 😳\nLe restaurant en lui-même ne donne pas vraiment envie. La déco est dépassée, la propreté laisse à désirer : par terre, dans les bacs à fleurs, et sur les murs….\nIl n’y a pas de musique, le personnage ne sourit pas, dit à peine bonjour. 😑🫣\nEt là quelle surprise quand j’arrive au buffet !😳\nIl n’y a que très peu de choix, il était midi, et il n’y avait déjà presque pas de sushis…\nAu niveau du wok, la viande rouge était plutôt grise !🤢\nEt au niveau des plats, très peu de choix, sinon, aucune saveur, insipide, ou alors en décomposition dans la bouche.😵‍💫\nAu niveau des desserts, il y a vraiment rien, à part des fruits en boîte et des pâtisseries congelées… 🙄C’est le pire restaurant, wok que j’ai pu visiter !☹️",
+        "langue": "fr",
+        "date": "2025-08-06",
+        "auteur": "Hélèna Playe",
+        "auteur_lien": "https://www.google.com/maps/contrib/113151671149434602003/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT21kNlZWVTRia28xWTA5VlYyeFZZV2RhTW10WlNVRRAB!2m1!1s0x478cd74d129a2409:0xabfb464730356d7e"
+      },
+      {
+        "note": 4,
+        "texte": "Première visite dans cet établissement à la veille d un jour férié.\nL accueil est agréable, personnel souriant.\nLa salle est très grande et assez bruyante, la décoration passable et datée.\nLe buffet est acceptable mais très basique et sans originalité, d ailleurs il manquait des sushis et les frites étaient tièdes le tout est présenté assez sommairement, peu de mise en valeur.\nLa Pina colada en apéritif était presque tiède également, trop sucrée.\nLe cuisinier du grill est efficace et agréable.\n\nPour conclure, un buffet des plus classiques ni bon ni foncièrement mauvais.\nIl y a mieux pour un prix similaire.",
+        "langue": "fr",
+        "date": "2023-05-18",
+        "auteur": "laurent renevret",
+        "auteur_lien": "https://www.google.com/maps/contrib/106603124854501468741/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUN4Z2VMMXFnRRAB!2m1!1s0x478cd74d129a2409:0xabfb464730356d7e"
+      }
+    ]
+  },
+  "services": {
+    "releve": "2026-11-19",
+    "prix": "PRICE_LEVEL_MODERATE",
+    "options": {
+      "dineIn": true,
+      "takeout": true,
+      "delivery": false,
+      "reservable": true,
+      "outdoorSeating": false,
+      "servesBreakfast": false,
+      "servesBrunch": false,
+      "servesLunch": true,
+      "servesDinner": true,
+      "servesVegetarianFood": true,
+      "servesCoffee": true,
+      "servesBeer": true,
+      "servesWine": true,
+      "servesCocktails": true,
+      "menuForChildren": true,
+      "goodForChildren": true,
+      "goodForGroups": true,
+      "goodForWatchingSports": false,
+      "liveMusic": false,
+      "restroom": true
+    },
+    "paiement": [
+      "carte bancaire",
+      "carte de débit",
+      "paiement sans contact"
+    ],
+    "parking": [
+      "parking gratuit",
+      "stationnement gratuit dans la rue"
+    ]
+  },
+  "redaction": {
+    "version": 2,
+    "titre": "Monsieur Wok — Restaurant à Montmorot",
+    "meta_titre": "Monsieur Wok à Montmorot : horaires, avis, téléphone",
+    "meta_description": "Monsieur Wok, restaurant à Montmorot : horaires d'ouverture, note Google 3,8/5 (933 avis), téléphone, adresse et itinéraire.",
+    "chapo": "Monsieur Wok est un restaurant au 2a Le Rocher, à Montmorot. Ouvert tous les jours sauf le lundi au relevé du 19 novembre 2026. Téléphone : 03 84 25 16 02. Note Google : 3,8 sur 5 pour 933 avis.",
+    "sections": [
+      {
+        "id": "presentation",
+        "titre": "Monsieur Wok en quelques mots",
+        "paragraphes": [
+          "Sur Google, l'établissement est classé « Restaurant de type buffet », dans notre rubrique Restaurant.",
+          "Niveau de prix indiqué sur la fiche Google : €€ (modéré).",
+          "D'après le relevé du 19 novembre 2026, l'établissement est ouvert tous les jours sauf le lundi. Le détail jour par jour figure plus bas."
+        ]
+      },
+      {
+        "id": "prestations",
+        "titre": "Services et équipements de Monsieur Wok",
+        "paragraphes": [
+          "Proposé : sur place, à emporter, réservation possible, déjeuner, dîner, plats végétariens, café, bière, vin, cocktails, menu enfant, adapté aux enfants, adapté aux groupes et toilettes.",
+          "Non proposé selon la fiche Google : livraison, terrasse, petit-déjeuner, brunch, retransmissions sportives et musique live.",
+          "Moyens de paiement déclarés : carte bancaire, carte de débit et paiement sans contact.",
+          "Stationnement : parking gratuit et stationnement gratuit dans la rue.",
+          "Ces indications sont déclarées par l'établissement sur sa fiche Google (relevé du 19 novembre 2026)."
+        ]
+      },
+      {
+        "id": "acces",
+        "titre": "Adresse et accès",
+        "paragraphes": [
+          "L'établissement est situé au 2a Le Rocher, 39570 Montmorot.",
+          "Coordonnées GPS : 46.67757, 5.51428. Le bouton Itinéraire de cette page ouvre la navigation."
+        ]
+      },
+      {
+        "id": "contact",
+        "titre": "Contacter Monsieur Wok",
+        "paragraphes": [
+          "Le contact se fait par téléphone au 03 84 25 16 02, ou directement sur place aux horaires d'ouverture.",
+          "La fiche Google indique que la réservation est possible."
+        ]
+      },
+      {
+        "id": "avis",
+        "titre": "La réputation de Monsieur Wok",
+        "paragraphes": [
+          "Note de 3,8 sur 5 pour 933 avis Google au relevé du 19 novembre 2026. Les avis les plus parlants sont compilés ci-dessous, avec un lien vers la fiche d'origine."
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "q": "Quels sont les horaires de Monsieur Wok ?",
+        "r": "Au relevé du 19 novembre 2026, Monsieur Wok était ouvert tous les jours sauf le lundi. Dans le détail — lundi : fermé ; mardi : de 12 h à 14 h et de 19 h à 22 h ; mercredi : de 12 h à 14 h et de 19 h à 22 h ; jeudi : de 12 h à 14 h et de 19 h à 22 h ; vendredi : de 12 h à 14 h et de 19 h à 22 h ; samedi : de 12 h à 14 h et de 19 h à 22 h ; dimanche : de 12 h à 14 h et de 19 h à 22 h. Ces horaires peuvent changer : un appel préalable reste conseillé."
+      },
+      {
+        "q": "Monsieur Wok est-il ouvert le dimanche ?",
+        "r": "Oui : le dimanche, Monsieur Wok est ouvert de 12 h à 14 h et de 19 h à 22 h (horaires relevés le 19 novembre 2026)."
+      },
+      {
+        "q": "Où se trouve Monsieur Wok ?",
+        "r": "Monsieur Wok se trouve 2a Le Rocher, 39570 Montmorot. Un lien d'itinéraire est disponible sur cette page."
+      },
+      {
+        "q": "Comment contacter Monsieur Wok ?",
+        "r": "Par téléphone au 03 84 25 16 02, ou directement sur place aux heures d'ouverture."
+      },
+      {
+        "q": "Peut-on réserver chez Monsieur Wok ?",
+        "r": "Oui, la fiche Google de Monsieur Wok indique que la réservation est possible, par téléphone au 03 84 25 16 02."
+      },
+      {
+        "q": "Monsieur Wok propose-t-il la vente à emporter ou la livraison ?",
+        "r": "D'après sa fiche Google (relevé du 19 novembre 2026) — vente à emporter : oui ; livraison : non."
+      },
+      {
+        "q": "Quel est le niveau de prix de Monsieur Wok ?",
+        "r": "Google classe Monsieur Wok au niveau de prix €€ (modéré), sur une échelle de € à €€€€ établie à partir des avis clients."
+      },
+      {
+        "q": "Monsieur Wok est-il accessible aux personnes à mobilité réduite ?",
+        "r": "La fiche Google de l'établissement mentionne : « Entrée accessible en fauteuil roulant ». Cette information est déclarative ; en cas de doute, vérifiez par téléphone."
+      }
+    ],
+    "genere_le": "2026-11-19"
+  },
+  "statut_google": "OPERATIONAL",
+  "audience": {
+    "clics": 0,
+    "impressions": 0,
+    "position": null,
+    "fenetreJours": 90,
+    "clicsRecents": 0,
+    "fenetreRecenteJours": 28,
+    "source": "search-console",
+    "date": "2026-11-19"
+  }
+}

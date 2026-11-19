@@ -108,8 +108,8 @@
   "backlink": {
     "etat": "present",
     "premiere_detection": "2026-10-18T10:32:09.485Z",
-    "derniere_detection": "2026-11-01T11:48:12.789Z",
-    "derniere_verification": "2026-11-01T11:48:12.789Z",
+    "derniere_detection": "2026-11-19T14:21:55.003Z",
+    "derniere_verification": "2026-11-19T14:21:55.003Z",
     "echecs": 0,
     "url_detectee": "https://andpro.fr/vitrine-locale/garages-automobile/colmar/alsace-pieces-performance-app/"
   },
@@ -123,7 +123,7 @@
   "dates": {
     "collecte": "2026-10-09",
     "publication": "2026-10-09",
-    "maj": "2026-11-01"
+    "maj": "2026-11-19"
   },
   "source": "google-places",
   "redaction": {
@@ -190,14 +190,14 @@
   },
   "statut_google": "OPERATIONAL",
   "audience": {
-    "clics": 54,
-    "impressions": 2380,
-    "position": 2.6,
+    "clics": 60,
+    "impressions": 2498,
+    "position": 2.7,
     "fenetreJours": 90,
-    "clicsRecents": 51,
+    "clicsRecents": 54,
     "fenetreRecenteJours": 28,
     "source": "search-console",
-    "date": "2026-11-18"
+    "date": "2026-11-19"
   },
   "avis_detail": {
     "releve": "2026-10-18",
@@ -256,6 +256,6 @@
     "derniere_exploration": null,
     "canonique_google": null,
     "source": "impressions",
-    "date": "2026-11-18"
+    "date": "2026-11-19"
   }
 }
