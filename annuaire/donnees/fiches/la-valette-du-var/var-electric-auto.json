@@ -1,0 +1,284 @@
+{
+  "id": "ChIJWaSzBp0ZyRIRm01ey0lxyKo",
+  "slug": "var-electric-auto",
+  "nom": "Var Electric Auto",
+  "categorie": "garages-automobile",
+  "categorie_gmb": "Garage automobile",
+  "type_principal": "car_repair",
+  "types": [
+    "car_repair",
+    "point_of_interest",
+    "service",
+    "establishment"
+  ],
+  "ville": "La Valette-du-Var",
+  "ville_slug": "la-valette-du-var",
+  "adresse": {
+    "rue": "Allée Pierre et Marie Curie",
+    "code_postal": "83160",
+    "departement": "83",
+    "region": "Provence-Alpes-Côte d'Azur",
+    "pays": "France",
+    "complete": "All. Pierre et Marie Curie, 83160 La Valette-du-Var"
+  },
+  "telephone": "04 94 23 61 55",
+  "geo": {
+    "latitude": 43.135426599999995,
+    "longitude": 5.9954928
+  },
+  "note": 4.6,
+  "avis": 198,
+  "horaires": [
+    {
+      "jour": 0,
+      "ferme": false,
+      "creneaux": [
+        [
+          "07:30",
+          "12:00"
+        ],
+        [
+          "14:00",
+          "18:00"
+        ]
+      ]
+    },
+    {
+      "jour": 1,
+      "ferme": false,
+      "creneaux": [
+        [
+          "07:30",
+          "12:00"
+        ],
+        [
+          "14:00",
+          "18:00"
+        ]
+      ]
+    },
+    {
+      "jour": 2,
+      "ferme": false,
+      "creneaux": [
+        [
+          "07:30",
+          "12:00"
+        ],
+        [
+          "14:00",
+          "18:00"
+        ]
+      ]
+    },
+    {
+      "jour": 3,
+      "ferme": false,
+      "creneaux": [
+        [
+          "07:30",
+          "12:00"
+        ],
+        [
+          "14:00",
+          "18:00"
+        ]
+      ]
+    },
+    {
+      "jour": 4,
+      "ferme": false,
+      "creneaux": [
+        [
+          "07:30",
+          "12:00"
+        ],
+        [
+          "14:00",
+          "17:00"
+        ]
+      ]
+    },
+    {
+      "jour": 5,
+      "ferme": true,
+      "creneaux": []
+    },
+    {
+      "jour": 6,
+      "ferme": true,
+      "creneaux": []
+    }
+  ],
+  "attributs": [
+    "Entrée accessible en fauteuil roulant",
+    "Parking accessible en fauteuil roulant"
+  ],
+  "lien_google": "https://maps.google.com/?cid=12306210543548386715&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
+  "site_web_gmb": null,
+  "statut": "publiee",
+  "backlink": {
+    "etat": "absent",
+    "premiere_detection": null,
+    "derniere_detection": null,
+    "derniere_verification": "2026-11-20T13:57:57.143Z",
+    "echecs": 1,
+    "url_detectee": null
+  },
+  "suggestion": {
+    "etat": "en-attente",
+    "date_soumission": null,
+    "tentatives": 0,
+    "date_email": "2026-11-20"
+  },
+  "retrait": null,
+  "dates": {
+    "collecte": "2026-11-20",
+    "publication": "2026-11-20",
+    "maj": "2026-11-20"
+  },
+  "source": "google-places",
+  "avis_detail": {
+    "releve": "2026-11-20",
+    "liste": [
+      {
+        "note": 5,
+        "texte": "Très bon contact. Des explications détaillées sur mon problème électrique.\nEfficace et disponible.\n\nJe recommande !",
+        "langue": "fr",
+        "date": "2026-10-26",
+        "auteur": "Gary Prost",
+        "auteur_lien": "https://www.google.com/maps/contrib/116665991349888177682/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2s1WFRGSmtZWGgzVG1jMGQyczROVGRpVEZKaE1VRRAB!2m1!1s0x12c9199d06b3a459:0xaac87149cb5e4d9b"
+      },
+      {
+        "note": 1,
+        "texte": "Attention, escroc!!\n800€ à payer immédiatement, sans chèque ni virement (normal il savait que j'allais me rendre compte de l'entourloupe).\nPour juste une recherche de panne, sans rien n'avoir trouvé et y avoir passé une petite demi journée maximum.\nÀ fuir!",
+        "langue": "fr",
+        "date": "2026-09-09",
+        "auteur": "gys car",
+        "auteur_lien": "https://www.google.com/maps/contrib/101120178593244412820/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT21kSlNrUXRlRWt6TjJzd2RUazBRV2RLTkRGQ1FuYxAB!2m1!1s0x12c9199d06b3a459:0xaac87149cb5e4d9b"
+      },
+      {
+        "note": 5,
+        "texte": "Le garage qu'il faut pour les problèmes de clim. Le seul qui a posé un vrai diagnostic gratuitement pour comprendre le problème plutôt que \"faut changer le compresseur\".Réparations faites rapidement. Et le personnel est sympathique. PARFAIT.",
+        "langue": "fr",
+        "date": "2026-08-28",
+        "auteur": "Ludovic A",
+        "auteur_lien": "https://www.google.com/maps/contrib/103569461617765488770/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25KblNEWmphV3B4Wlc5cU1qbFlhMGxTWW14V2NuYxAB!2m1!1s0x12c9199d06b3a459:0xaac87149cb5e4d9b"
+      },
+      {
+        "note": 5,
+        "texte": "Super garage, je suis venue pour recharger la clim de ma voiture. C’était rapide et très pro, avec un personnel vraiment gentil et accueillant. Clim nickel maintenant, je recommande 👍",
+        "langue": "fr",
+        "date": "2026-05-29",
+        "auteur": "Dounia Loud",
+        "auteur_lien": "https://www.google.com/maps/contrib/109761736175723729529/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25FdGJWSndPRlU1YzFoSmFrZ3djelJMUzNsalprRRAB!2m1!1s0x12c9199d06b3a459:0xaac87149cb5e4d9b"
+      },
+      {
+        "note": 5,
+        "texte": "Je suis ravie de la réparation effectuée sur mon véhicule. Très bon accueil. Prise en charge rapide. Je recommande vivement.",
+        "langue": "fr",
+        "date": "2026-05-11",
+        "auteur": "nadege dussart",
+        "auteur_lien": "https://www.google.com/maps/contrib/116469919381175334989/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT214WlMzazFUSFpWWDFoaGR6WnJNa04wVld0VWVFRRAB!2m1!1s0x12c9199d06b3a459:0xaac87149cb5e4d9b"
+      }
+    ]
+  },
+  "services": {
+    "releve": "2026-11-20",
+    "options": {
+      "restroom": true
+    },
+    "paiement": [
+      "carte bancaire",
+      "carte de débit"
+    ],
+    "parking": []
+  },
+  "redaction": {
+    "version": 2,
+    "titre": "Var Electric Auto — Garage et automobile à La Valette-du-Var",
+    "meta_titre": "Var Electric Auto à La Valette-du-Var : horaires, avis",
+    "meta_description": "Var Electric Auto, garage et automobile à La Valette-du-Var : horaires d'ouverture, note Google 4,6/5 (198 avis), téléphone, adresse et itinéraire.",
+    "chapo": "Var Electric Auto est un garage et automobile au Allée Pierre et Marie Curie, à La Valette-du-Var. Fermé le samedi et le dimanche au relevé du 20 novembre 2026. Téléphone : 04 94 23 61 55. Note Google : 4,6 sur 5 pour 198 avis.",
+    "sections": [
+      {
+        "id": "presentation",
+        "titre": "Var Electric Auto en quelques mots",
+        "paragraphes": [
+          "Sur Google, l'établissement est classé « Garage automobile », dans notre rubrique Garage et automobile.",
+          "D'après le relevé du 20 novembre 2026, l'établissement est fermé le samedi et le dimanche. Le détail jour par jour figure plus bas."
+        ]
+      },
+      {
+        "id": "prestations",
+        "titre": "Services et équipements de Var Electric Auto",
+        "paragraphes": [
+          "Proposé : toilettes.",
+          "Moyens de paiement déclarés : carte bancaire et carte de débit.",
+          "Ces indications sont déclarées par l'établissement sur sa fiche Google (relevé du 20 novembre 2026)."
+        ]
+      },
+      {
+        "id": "acces",
+        "titre": "Adresse et accès",
+        "paragraphes": [
+          "L'établissement est situé au Allée Pierre et Marie Curie, 83160 La Valette-du-Var.",
+          "Coordonnées GPS : 43.13543, 5.99549. Le bouton Itinéraire de cette page ouvre la navigation."
+        ]
+      },
+      {
+        "id": "contact",
+        "titre": "Contacter Var Electric Auto",
+        "paragraphes": [
+          "Le contact se fait par téléphone au 04 94 23 61 55, ou directement sur place aux horaires d'ouverture."
+        ]
+      },
+      {
+        "id": "avis",
+        "titre": "La réputation de Var Electric Auto",
+        "paragraphes": [
+          "Note de 4,6 sur 5 pour 198 avis Google au relevé du 20 novembre 2026. Les avis les plus parlants sont compilés ci-dessous, avec un lien vers la fiche d'origine."
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "q": "Quels sont les horaires de Var Electric Auto ?",
+        "r": "Au relevé du 20 novembre 2026, Var Electric Auto était fermé le samedi et le dimanche. Dans le détail — lundi : de 7 h 30 à 12 h et de 14 h à 18 h ; mardi : de 7 h 30 à 12 h et de 14 h à 18 h ; mercredi : de 7 h 30 à 12 h et de 14 h à 18 h ; jeudi : de 7 h 30 à 12 h et de 14 h à 18 h ; vendredi : de 7 h 30 à 12 h et de 14 h à 17 h ; samedi : fermé ; dimanche : fermé. Ces horaires peuvent changer : un appel préalable reste conseillé."
+      },
+      {
+        "q": "Var Electric Auto est-il ouvert le dimanche ?",
+        "r": "Non : d'après les horaires relevés le 20 novembre 2026, Var Electric Auto est fermé le dimanche."
+      },
+      {
+        "q": "Où se trouve Var Electric Auto ?",
+        "r": "Var Electric Auto se trouve All. Pierre et Marie Curie, 83160 La Valette-du-Var. Un lien d'itinéraire est disponible sur cette page."
+      },
+      {
+        "q": "Comment contacter Var Electric Auto ?",
+        "r": "Par téléphone au 04 94 23 61 55, ou directement sur place aux heures d'ouverture."
+      },
+      {
+        "q": "Var Electric Auto est-il accessible aux personnes à mobilité réduite ?",
+        "r": "La fiche Google de l'établissement mentionne : « Entrée accessible en fauteuil roulant ». Cette information est déclarative ; en cas de doute, vérifiez par téléphone."
+      }
+    ],
+    "genere_le": "2026-11-20"
+  },
+  "statut_google": "OPERATIONAL",
+  "audience": {
+    "clics": 0,
+    "impressions": 0,
+    "position": null,
+    "fenetreJours": 90,
+    "clicsRecents": 0,
+    "fenetreRecenteJours": 28,
+    "source": "search-console",
+    "date": "2026-11-20"
+  }
+}

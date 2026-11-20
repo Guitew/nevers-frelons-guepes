@@ -21,7 +21,7 @@
     "pays": "France",
     "complete": "68 Rue Châteaubriand, 13007 Marseille"
   },
-  "telephone": "06 12 10 69 36",
+  "telephone": "07 82 26 46 86",
   "geo": {
     "latitude": 43.2855619,
     "longitude": 5.358601500000001
@@ -99,15 +99,15 @@
     "Entrée accessible en fauteuil roulant"
   ],
   "lien_google": "https://maps.google.com/?cid=14106294345212710687&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
-  "site_web_gmb": null,
+  "site_web_gmb": "https://andpro.fr/vitrine-locale/garages-automobile/marseille/garage-chateaubriand/",
   "statut": "publiee",
   "backlink": {
-    "etat": "absent",
-    "premiere_detection": null,
-    "derniere_detection": null,
-    "derniere_verification": "2026-11-01T11:48:12.789Z",
-    "echecs": 1,
-    "url_detectee": null
+    "etat": "present",
+    "premiere_detection": "2026-11-20T13:57:57.143Z",
+    "derniere_detection": "2026-11-20T13:57:57.143Z",
+    "derniere_verification": "2026-11-20T13:57:57.143Z",
+    "echecs": 0,
+    "url_detectee": "https://andpro.fr/vitrine-locale/garages-automobile/marseille/garage-chateaubriand/"
   },
   "suggestion": {
     "etat": "soumise",
@@ -119,7 +119,7 @@
   "dates": {
     "collecte": "2026-11-01",
     "publication": "2026-11-01",
-    "maj": "2026-11-02"
+    "maj": "2026-11-20"
   },
   "source": "google-places",
   "avis_detail": {
@@ -253,13 +253,13 @@
   },
   "statut_google": "OPERATIONAL",
   "audience": {
-    "clics": 5,
-    "impressions": 122,
-    "position": 2.4,
+    "clics": 6,
+    "impressions": 142,
+    "position": 2.5,
     "fenetreJours": 90,
-    "clicsRecents": 5,
+    "clicsRecents": 6,
     "fenetreRecenteJours": 28,
     "source": "search-console",
-    "date": "2026-11-19"
+    "date": "2026-11-20"
   }
 }

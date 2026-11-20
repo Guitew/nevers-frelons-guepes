@@ -42,7 +42,7 @@
     "longitude": 2.2826114
   },
   "note": 4.3,
-  "avis": 7513,
+  "avis": 7586,
   "horaires": [
     {
       "jour": 0,
@@ -121,15 +121,15 @@
     "Toilettes accessibles en fauteuil roulant"
   ],
   "lien_google": "https://maps.google.com/?cid=2460097958771600349&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
-  "site_web_gmb": null,
+  "site_web_gmb": "https://beaugrenelle-paris.com/fr",
   "statut": "retiree",
   "backlink": {
-    "etat": "absent",
+    "etat": "externe",
     "premiere_detection": null,
     "derniere_detection": null,
-    "derniere_verification": "2026-11-01T11:48:12.789Z",
-    "echecs": 29,
-    "url_detectee": null
+    "derniere_verification": "2026-11-20T13:57:57.143Z",
+    "echecs": 30,
+    "url_detectee": "https://beaugrenelle-paris.com/fr"
   },
   "suggestion": {
     "etat": "en-attente",
@@ -148,7 +148,7 @@
   "dates": {
     "collecte": "2026-09-24",
     "publication": "2026-09-24",
-    "maj": "2026-11-01"
+    "maj": "2026-11-20"
   },
   "source": "google-places",
   "redaction": {
@@ -237,7 +237,7 @@
     "clicsRecents": 0,
     "fenetreRecenteJours": 28,
     "source": "search-console",
-    "date": "2026-11-19"
+    "date": "2026-11-20"
   },
   "avis_detail": {
     "releve": "2026-11-01",

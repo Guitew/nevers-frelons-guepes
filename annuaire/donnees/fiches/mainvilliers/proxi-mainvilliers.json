@@ -106,15 +106,15 @@
     "Parking accessible en fauteuil roulant"
   ],
   "lien_google": "https://maps.google.com/?cid=17895542585920654067&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
-  "site_web_gmb": null,
+  "site_web_gmb": "https://andpro.fr/vitrine-locale/commerces-alimentation/mainvilliers/proxi-mainvilliers/",
   "statut": "publiee",
   "backlink": {
-    "etat": "absent",
-    "premiere_detection": null,
-    "derniere_detection": null,
-    "derniere_verification": "2026-11-01T11:48:12.789Z",
-    "echecs": 1,
-    "url_detectee": null
+    "etat": "present",
+    "premiere_detection": "2026-11-20T13:57:57.143Z",
+    "derniere_detection": "2026-11-20T13:57:57.143Z",
+    "derniere_verification": "2026-11-20T13:57:57.143Z",
+    "echecs": 0,
+    "url_detectee": "https://andpro.fr/vitrine-locale/commerces-alimentation/mainvilliers/proxi-mainvilliers/"
   },
   "suggestion": {
     "etat": "en-attente",
@@ -126,7 +126,7 @@
   "dates": {
     "collecte": "2026-11-01",
     "publication": "2026-11-01",
-    "maj": "2026-11-01"
+    "maj": "2026-11-20"
   },
   "source": "google-places",
   "avis_detail": {
@@ -264,13 +264,13 @@
   },
   "statut_google": "OPERATIONAL",
   "audience": {
-    "clics": 4,
-    "impressions": 477,
+    "clics": 5,
+    "impressions": 532,
     "position": 1.9,
     "fenetreJours": 90,
-    "clicsRecents": 4,
+    "clicsRecents": 5,
     "fenetreRecenteJours": 28,
     "source": "search-console",
-    "date": "2026-11-19"
+    "date": "2026-11-20"
   }
 }

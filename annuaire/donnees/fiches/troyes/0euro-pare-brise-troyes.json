@@ -116,8 +116,8 @@
   "backlink": {
     "etat": "present",
     "premiere_detection": "2026-10-03T10:22:28.933Z",
-    "derniere_detection": "2026-11-02T13:26:12.013Z",
-    "derniere_verification": "2026-11-02T13:26:12.013Z",
+    "derniere_detection": "2026-11-20T13:57:57.143Z",
+    "derniere_verification": "2026-11-20T13:57:57.143Z",
     "echecs": 0,
     "url_detectee": "https://andpro.fr/vitrine-locale/garages-automobile/troyes/0euro-pare-brise-troyes/"
   },
@@ -131,7 +131,7 @@
   "dates": {
     "collecte": "2026-09-21",
     "publication": "2026-09-21",
-    "maj": "2026-11-02"
+    "maj": "2026-11-20"
   },
   "source": "google-places",
   "redaction": {
@@ -199,13 +199,13 @@
   "statut_google": "OPERATIONAL",
   "audience": {
     "clics": 46,
-    "impressions": 2944,
+    "impressions": 3056,
     "position": 4.1,
     "fenetreJours": 90,
-    "clicsRecents": 37,
+    "clicsRecents": 36,
     "fenetreRecenteJours": 28,
     "source": "search-console",
-    "date": "2026-11-19"
+    "date": "2026-11-20"
   },
   "avis_detail": {
     "releve": "2026-10-18",
@@ -264,6 +264,6 @@
     "derniere_exploration": null,
     "canonique_google": null,
     "source": "impressions",
-    "date": "2026-11-19"
+    "date": "2026-11-20"
   }
 }

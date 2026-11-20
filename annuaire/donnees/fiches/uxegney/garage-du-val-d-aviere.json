@@ -1,0 +1,282 @@
+{
+  "id": "ChIJFRueNQcLk0cRzxbDOKiHa3U",
+  "slug": "garage-du-val-d-aviere",
+  "nom": "Garage Du Val D'Avière",
+  "categorie": "garages-automobile",
+  "categorie_gmb": "Garage automobile",
+  "type_principal": "car_repair",
+  "types": [
+    "car_repair",
+    "point_of_interest",
+    "service",
+    "establishment"
+  ],
+  "ville": "Uxegney",
+  "ville_slug": "uxegney",
+  "adresse": {
+    "rue": "Rue du Pont Tournant",
+    "code_postal": "88390",
+    "departement": "88",
+    "region": "Grand Est",
+    "pays": "France",
+    "complete": "74 Rte des Forges, Rue du Pont Tournant, 88390 Uxegney"
+  },
+  "telephone": "03 54 04 04 15",
+  "geo": {
+    "latitude": 48.181013899999996,
+    "longitude": 6.3814596
+  },
+  "note": 4.7,
+  "avis": 130,
+  "horaires": [
+    {
+      "jour": 0,
+      "ferme": false,
+      "creneaux": [
+        [
+          "09:00",
+          "12:00"
+        ],
+        [
+          "14:00",
+          "18:00"
+        ]
+      ]
+    },
+    {
+      "jour": 1,
+      "ferme": false,
+      "creneaux": [
+        [
+          "09:00",
+          "12:00"
+        ],
+        [
+          "14:00",
+          "18:00"
+        ]
+      ]
+    },
+    {
+      "jour": 2,
+      "ferme": false,
+      "creneaux": [
+        [
+          "09:00",
+          "12:00"
+        ],
+        [
+          "14:00",
+          "18:00"
+        ]
+      ]
+    },
+    {
+      "jour": 3,
+      "ferme": false,
+      "creneaux": [
+        [
+          "09:00",
+          "12:00"
+        ],
+        [
+          "14:00",
+          "18:00"
+        ]
+      ]
+    },
+    {
+      "jour": 4,
+      "ferme": false,
+      "creneaux": [
+        [
+          "09:00",
+          "12:00"
+        ],
+        [
+          "14:00",
+          "18:00"
+        ]
+      ]
+    },
+    {
+      "jour": 5,
+      "ferme": true,
+      "creneaux": []
+    },
+    {
+      "jour": 6,
+      "ferme": true,
+      "creneaux": []
+    }
+  ],
+  "attributs": [
+    "Entrée accessible en fauteuil roulant",
+    "Parking accessible en fauteuil roulant"
+  ],
+  "lien_google": "https://maps.google.com/?cid=8461005481522173647&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
+  "site_web_gmb": null,
+  "statut": "publiee",
+  "backlink": {
+    "etat": "absent",
+    "premiere_detection": null,
+    "derniere_detection": null,
+    "derniere_verification": "2026-11-20T13:57:57.143Z",
+    "echecs": 1,
+    "url_detectee": null
+  },
+  "suggestion": {
+    "etat": "en-attente",
+    "date_soumission": null,
+    "tentatives": 0,
+    "date_email": "2026-11-20"
+  },
+  "retrait": null,
+  "dates": {
+    "collecte": "2026-11-20",
+    "publication": "2026-11-20",
+    "maj": "2026-11-20"
+  },
+  "source": "google-places",
+  "avis_detail": {
+    "releve": "2026-11-20",
+    "liste": [
+      {
+        "note": 5,
+        "texte": "Ils sont parfaits, très professionnels, agréables, justes, et  le travail est super bien fait. Je recommande vivement ce garage.",
+        "langue": "fr",
+        "date": "2026-07-17",
+        "auteur": "Stephane Voirin",
+        "auteur_lien": "https://www.google.com/maps/contrib/103512182498750441617/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2tkdU4zYzJMVU41VURReVVqTldZVTk1WnpkcFlXYxAB!2m1!1s0x47930b07359e1b15:0x756b87a838c316cf"
+      },
+      {
+        "note": 5,
+        "texte": "Cela fait quelques années que nous faisons entretenir nos véhicules chez Ali. Les prestations sont excellentes . Rien à redire sur la qualité du travail . Le patron très sympathique est toujours à l’écoute  et prêt à rendre service",
+        "langue": "fr",
+        "date": "2026-06-11",
+        "auteur": "Michel Verecchia",
+        "auteur_lien": "https://www.google.com/maps/contrib/110130361404112392819/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT21WM05FbG9RV3h6Y1U5elJHUTVSRWRETTNKcVJWRRAB!2m1!1s0x47930b07359e1b15:0x756b87a838c316cf"
+      },
+      {
+        "note": 5,
+        "texte": "Je suis venu pour le kit distribution de ma vieille C3, tarif raisonnable (et vidange offerte) et équipe efficace !\nJe recommande!",
+        "langue": "fr",
+        "date": "2026-04-02",
+        "auteur": "Tom Sa",
+        "auteur_lien": "https://www.google.com/maps/contrib/105978097647612943321/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT21aelZXcFhSbkJsU0RGck5FRnpVWFZYYVRCRlVGRRAB!2m1!1s0x47930b07359e1b15:0x756b87a838c316cf"
+      },
+      {
+        "note": 5,
+        "texte": "Garage très sérieux et très compétent je suis très satisfaite de leurs services et de leur travail, personnel très agréable et efficace je recommande fortement et positivement ce garage pour le professionnalisme dont il fait preuve de plus très agréable accueil et très honnête",
+        "langue": "fr",
+        "date": "2026-03-12",
+        "auteur": "Marilyn",
+        "auteur_lien": "https://www.google.com/maps/contrib/110928831440727216923/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2pOWFRYbDNWRzFXVDFoUlZEUTNhbGxPYWxaWmRFRRAB!2m1!1s0x47930b07359e1b15:0x756b87a838c316cf"
+      },
+      {
+        "note": 1,
+        "texte": "Je devais acheter une Peugeot 307 dans ce garage. Le vendeur m’a confirmé le prix et m’a dit que c’était bon. Ensuite, il m’a informé que la voiture avait finalement un problème et qu’elle partait dans un autre garage pour contrôle.\n\nDepuis, plus aucune nouvelle. Malgré mes appels et mes relances, je n’ai obtenu aucune réponse. L’annonce a même été supprimée sans explication.\n\nJe trouve ce comportement peu correct et pas respectueux envers un client sérieux. Manque de communication et de transparence. Je ne peux pas recommander ce garage.",
+        "langue": "fr",
+        "date": "2026-02-17",
+        "auteur": "olcay yildiz",
+        "auteur_lien": "https://www.google.com/maps/contrib/101963834477994645084/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2tsbllqbEZOVUZCYzE5YVlXaE5aRWQ1UWtWNVNGRRAB!2m1!1s0x47930b07359e1b15:0x756b87a838c316cf"
+      }
+    ]
+  },
+  "services": {
+    "releve": "2026-11-20",
+    "options": {},
+    "paiement": [
+      "carte bancaire",
+      "carte de débit",
+      "paiement sans contact"
+    ],
+    "parking": []
+  },
+  "redaction": {
+    "version": 2,
+    "titre": "Garage Du Val D'Avière — Garage et automobile à Uxegney",
+    "meta_titre": "Garage Du Val D'Avière à Uxegney : horaires, avis, téléphone",
+    "meta_description": "Garage Du Val D'Avière, garage et automobile à Uxegney : horaires d'ouverture, note Google 4,7/5 (130 avis), téléphone, adresse et itinéraire.",
+    "chapo": "Garage Du Val D'Avière est un garage et automobile au Rue du Pont Tournant, à Uxegney. Fermé le samedi et le dimanche au relevé du 20 novembre 2026. Téléphone : 03 54 04 04 15. Note Google : 4,7 sur 5 pour 130 avis.",
+    "sections": [
+      {
+        "id": "presentation",
+        "titre": "Garage Du Val D'Avière en quelques mots",
+        "paragraphes": [
+          "Sur Google, l'établissement est classé « Garage automobile », dans notre rubrique Garage et automobile.",
+          "D'après le relevé du 20 novembre 2026, l'établissement est fermé le samedi et le dimanche. Le détail jour par jour figure plus bas."
+        ]
+      },
+      {
+        "id": "prestations",
+        "titre": "Services et équipements de Garage Du Val D'Avière",
+        "paragraphes": [
+          "Moyens de paiement déclarés : carte bancaire, carte de débit et paiement sans contact.",
+          "Ces indications sont déclarées par l'établissement sur sa fiche Google (relevé du 20 novembre 2026)."
+        ]
+      },
+      {
+        "id": "acces",
+        "titre": "Adresse et accès",
+        "paragraphes": [
+          "L'établissement est situé au Rue du Pont Tournant, 88390 Uxegney.",
+          "Coordonnées GPS : 48.18101, 6.38146. Le bouton Itinéraire de cette page ouvre la navigation."
+        ]
+      },
+      {
+        "id": "contact",
+        "titre": "Contacter Garage Du Val D'Avière",
+        "paragraphes": [
+          "Le contact se fait par téléphone au 03 54 04 04 15, ou directement sur place aux horaires d'ouverture."
+        ]
+      },
+      {
+        "id": "avis",
+        "titre": "La réputation de Garage Du Val D'Avière",
+        "paragraphes": [
+          "Note de 4,7 sur 5 pour 130 avis Google au relevé du 20 novembre 2026. Les avis les plus parlants sont compilés ci-dessous, avec un lien vers la fiche d'origine."
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "q": "Quels sont les horaires de Garage Du Val D'Avière ?",
+        "r": "Au relevé du 20 novembre 2026, Garage Du Val D'Avière était fermé le samedi et le dimanche. Dans le détail — lundi : de 9 h à 12 h et de 14 h à 18 h ; mardi : de 9 h à 12 h et de 14 h à 18 h ; mercredi : de 9 h à 12 h et de 14 h à 18 h ; jeudi : de 9 h à 12 h et de 14 h à 18 h ; vendredi : de 9 h à 12 h et de 14 h à 18 h ; samedi : fermé ; dimanche : fermé. Ces horaires peuvent changer : un appel préalable reste conseillé."
+      },
+      {
+        "q": "Garage Du Val D'Avière est-il ouvert le dimanche ?",
+        "r": "Non : d'après les horaires relevés le 20 novembre 2026, Garage Du Val D'Avière est fermé le dimanche."
+      },
+      {
+        "q": "Où se trouve Garage Du Val D'Avière ?",
+        "r": "Garage Du Val D'Avière se trouve 74 Rte des Forges, Rue du Pont Tournant, 88390 Uxegney. Un lien d'itinéraire est disponible sur cette page."
+      },
+      {
+        "q": "Comment contacter Garage Du Val D'Avière ?",
+        "r": "Par téléphone au 03 54 04 04 15, ou directement sur place aux heures d'ouverture."
+      },
+      {
+        "q": "Garage Du Val D'Avière est-il accessible aux personnes à mobilité réduite ?",
+        "r": "La fiche Google de l'établissement mentionne : « Entrée accessible en fauteuil roulant ». Cette information est déclarative ; en cas de doute, vérifiez par téléphone."
+      }
+    ],
+    "genere_le": "2026-11-20"
+  },
+  "statut_google": "OPERATIONAL",
+  "audience": {
+    "clics": 0,
+    "impressions": 0,
+    "position": null,
+    "fenetreJours": 90,
+    "clicsRecents": 0,
+    "fenetreRecenteJours": 28,
+    "source": "search-console",
+    "date": "2026-11-20"
+  }
+}

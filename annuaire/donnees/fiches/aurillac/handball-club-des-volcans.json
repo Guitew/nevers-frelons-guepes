@@ -1,0 +1,266 @@
+{
+  "id": "ChIJ1VhImX1VrRIRoJMDg2ytK1A",
+  "slug": "handball-club-des-volcans",
+  "nom": "Handball Club des Volcans",
+  "categorie": "loisirs-sport-culture",
+  "categorie_gmb": "Club de sport",
+  "type_principal": "sports_club",
+  "types": [
+    "sports_club",
+    "association_or_organization",
+    "point_of_interest",
+    "establishment"
+  ],
+  "ville": "Aurillac",
+  "ville_slug": "aurillac",
+  "adresse": {
+    "rue": "Avenue du Docteur Jean Chanal",
+    "code_postal": "15000",
+    "departement": "15",
+    "region": "Auvergne-Rhône-Alpes",
+    "pays": "France",
+    "complete": "Av. du Dr Jean Chanal, 15000 Aurillac"
+  },
+  "telephone": "04 71 48 94 01",
+  "geo": {
+    "latitude": 44.9402745,
+    "longitude": 2.4582151
+  },
+  "note": 4.3,
+  "avis": 27,
+  "horaires": [
+    {
+      "jour": 0,
+      "ferme": false,
+      "creneaux": [
+        [
+          "09:00",
+          "17:00"
+        ]
+      ]
+    },
+    {
+      "jour": 1,
+      "ferme": false,
+      "creneaux": [
+        [
+          "09:00",
+          "17:00"
+        ]
+      ]
+    },
+    {
+      "jour": 2,
+      "ferme": false,
+      "creneaux": [
+        [
+          "09:00",
+          "17:00"
+        ]
+      ]
+    },
+    {
+      "jour": 3,
+      "ferme": false,
+      "creneaux": [
+        [
+          "09:00",
+          "17:00"
+        ]
+      ]
+    },
+    {
+      "jour": 4,
+      "ferme": false,
+      "creneaux": [
+        [
+          "09:00",
+          "17:00"
+        ]
+      ]
+    },
+    {
+      "jour": 5,
+      "ferme": false,
+      "creneaux": [
+        [
+          "09:00",
+          "17:00"
+        ]
+      ]
+    },
+    {
+      "jour": 6,
+      "ferme": true,
+      "creneaux": []
+    }
+  ],
+  "attributs": [
+    "Entrée accessible en fauteuil roulant",
+    "Parking accessible en fauteuil roulant",
+    "Toilettes accessibles en fauteuil roulant"
+  ],
+  "lien_google": "https://maps.google.com/?cid=5776901628598916000&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
+  "site_web_gmb": null,
+  "statut": "publiee",
+  "backlink": {
+    "etat": "absent",
+    "premiere_detection": null,
+    "derniere_detection": null,
+    "derniere_verification": "2026-11-20T13:57:57.143Z",
+    "echecs": 1,
+    "url_detectee": null
+  },
+  "suggestion": {
+    "etat": "en-attente",
+    "date_soumission": null,
+    "tentatives": 0,
+    "date_email": "2026-11-20"
+  },
+  "retrait": null,
+  "dates": {
+    "collecte": "2026-11-20",
+    "publication": "2026-11-20",
+    "maj": "2026-11-20"
+  },
+  "source": "google-places",
+  "avis_detail": {
+    "releve": "2026-11-20",
+    "liste": [
+      {
+        "note": 5,
+        "texte": "Championnat de moins 18 de France excellence on a gagné la coupe",
+        "langue": "fr",
+        "date": "2019-06-16",
+        "auteur": "Fad",
+        "auteur_lien": "https://www.google.com/maps/contrib/109975713680472968271/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUNFeWE2Sm5BRRAB!2m1!1s0x12ad557d994858d5:0x502bad6c830393a0"
+      },
+      {
+        "note": 5,
+        "texte": "Un lieu super agréable et familiale les soirs de match je recommande vivement",
+        "langue": "fr",
+        "date": "2019-01-19",
+        "auteur": "KL AM",
+        "auteur_lien": "https://www.google.com/maps/contrib/115586240568051931977/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSURJa19hY3BBRRAB!2m1!1s0x12ad557d994858d5:0x502bad6c830393a0"
+      },
+      {
+        "note": 5,
+        "texte": "Gymnase complet et tres pratique.  Parking et differents espaces",
+        "langue": "fr",
+        "date": "2018-06-25",
+        "auteur": "Aurore Jacquemin",
+        "auteur_lien": "https://www.google.com/maps/contrib/108537492382330602576/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSURndTdxOXhBRRAB!2m1!1s0x12ad557d994858d5:0x502bad6c830393a0"
+      },
+      {
+        "note": 5,
+        "texte": "Super club très physique",
+        "langue": "fr",
+        "date": "2018-01-16",
+        "auteur": "Christophe Guillon",
+        "auteur_lien": "https://www.google.com/maps/contrib/116786276228211359296/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSURneTRIQjFnRRAB!2m1!1s0x12ad557d994858d5:0x502bad6c830393a0"
+      },
+      {
+        "note": 3,
+        "texte": "Jolie salle malgré une très mauvaise organisation de la ville d'Aurillac pour la gestion du gymnase !",
+        "langue": "fr",
+        "date": "2017-12-11",
+        "auteur": "Jean-Pierre FICHE",
+        "auteur_lien": "https://www.google.com/maps/contrib/100183346997892174110/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUNndVlqU19RRRAB!2m1!1s0x12ad557d994858d5:0x502bad6c830393a0"
+      }
+    ]
+  },
+  "services": {
+    "releve": "2026-11-20",
+    "options": {
+      "restroom": true
+    },
+    "paiement": [],
+    "parking": []
+  },
+  "redaction": {
+    "version": 2,
+    "titre": "Handball Club des Volcans — Loisirs, sport et culture à Aurillac",
+    "meta_titre": "Handball Club des Volcans à Aurillac : horaires, avis",
+    "meta_description": "Handball Club des Volcans, loisirs, sport et culture à Aurillac : horaires d'ouverture, note Google 4,3/5 (27 avis), téléphone, adresse et itinéraire.",
+    "chapo": "Handball Club des Volcans est un loisirs, sport et culture au Avenue du Docteur Jean Chanal, à Aurillac. Ouvert tous les jours sauf le dimanche au relevé du 20 novembre 2026. Téléphone : 04 71 48 94 01. Note Google : 4,3 sur 5 pour 27 avis.",
+    "sections": [
+      {
+        "id": "presentation",
+        "titre": "Handball Club des Volcans en quelques mots",
+        "paragraphes": [
+          "Sur Google, l'établissement est classé « Club de sport », dans notre rubrique Loisirs, sport et culture.",
+          "D'après le relevé du 20 novembre 2026, l'établissement est ouvert tous les jours sauf le dimanche. Le détail jour par jour figure plus bas."
+        ]
+      },
+      {
+        "id": "prestations",
+        "titre": "Services et équipements de Handball Club des Volcans",
+        "paragraphes": [
+          "Proposé : toilettes.",
+          "Ces indications sont déclarées par l'établissement sur sa fiche Google (relevé du 20 novembre 2026)."
+        ]
+      },
+      {
+        "id": "acces",
+        "titre": "Adresse et accès",
+        "paragraphes": [
+          "L'établissement est situé au Avenue du Docteur Jean Chanal, 15000 Aurillac.",
+          "Coordonnées GPS : 44.94027, 2.45822. Le bouton Itinéraire de cette page ouvre la navigation."
+        ]
+      },
+      {
+        "id": "contact",
+        "titre": "Contacter Handball Club des Volcans",
+        "paragraphes": [
+          "Le contact se fait par téléphone au 04 71 48 94 01, ou directement sur place aux horaires d'ouverture."
+        ]
+      },
+      {
+        "id": "avis",
+        "titre": "La réputation de Handball Club des Volcans",
+        "paragraphes": [
+          "Note de 4,3 sur 5 pour 27 avis Google au relevé du 20 novembre 2026. Les avis les plus parlants sont compilés ci-dessous, avec un lien vers la fiche d'origine."
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "q": "Quels sont les horaires de Handball Club des Volcans ?",
+        "r": "Au relevé du 20 novembre 2026, Handball Club des Volcans était ouvert tous les jours sauf le dimanche. Dans le détail — lundi : de 9 h à 17 h ; mardi : de 9 h à 17 h ; mercredi : de 9 h à 17 h ; jeudi : de 9 h à 17 h ; vendredi : de 9 h à 17 h ; samedi : de 9 h à 17 h ; dimanche : fermé. Ces horaires peuvent changer : un appel préalable reste conseillé."
+      },
+      {
+        "q": "Handball Club des Volcans est-il ouvert le dimanche ?",
+        "r": "Non : d'après les horaires relevés le 20 novembre 2026, Handball Club des Volcans est fermé le dimanche."
+      },
+      {
+        "q": "Où se trouve Handball Club des Volcans ?",
+        "r": "Handball Club des Volcans se trouve Av. du Dr Jean Chanal, 15000 Aurillac. Un lien d'itinéraire est disponible sur cette page."
+      },
+      {
+        "q": "Comment contacter Handball Club des Volcans ?",
+        "r": "Par téléphone au 04 71 48 94 01, ou directement sur place aux heures d'ouverture."
+      },
+      {
+        "q": "Handball Club des Volcans est-il accessible aux personnes à mobilité réduite ?",
+        "r": "La fiche Google de l'établissement mentionne : « Entrée accessible en fauteuil roulant ». Cette information est déclarative ; en cas de doute, vérifiez par téléphone."
+      }
+    ],
+    "genere_le": "2026-11-20"
+  },
+  "statut_google": "OPERATIONAL",
+  "audience": {
+    "clics": 0,
+    "impressions": 0,
+    "position": null,
+    "fenetreJours": 90,
+    "clicsRecents": 0,
+    "fenetreRecenteJours": 28,
+    "source": "search-console",
+    "date": "2026-11-20"
+  }
+}
