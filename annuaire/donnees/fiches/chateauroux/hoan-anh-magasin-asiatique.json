@@ -1,0 +1,288 @@
+{
+  "id": "ChIJr1lFxFGn-0cRmL98LBNDzok",
+  "slug": "hoan-anh-magasin-asiatique",
+  "nom": "Hoan Anh Magasin Asiatique",
+  "categorie": "commerces-alimentation",
+  "categorie_gmb": "Épicerie asiatique",
+  "type_principal": "asian_grocery_store",
+  "types": [
+    "asian_grocery_store",
+    "grocery_store",
+    "food_store",
+    "food",
+    "store",
+    "point_of_interest",
+    "establishment"
+  ],
+  "ville": "Châteauroux",
+  "ville_slug": "chateauroux",
+  "adresse": {
+    "rue": "110 Avenue de La Châtre",
+    "code_postal": "36000",
+    "departement": "36",
+    "region": "Centre-Val de Loire",
+    "pays": "France",
+    "complete": "110 Av. de La Châtre, 36000 Châteauroux"
+  },
+  "telephone": "02 54 34 98 70",
+  "geo": {
+    "latitude": 46.8076591,
+    "longitude": 1.7067632
+  },
+  "note": 4.3,
+  "avis": 145,
+  "horaires": [
+    {
+      "jour": 0,
+      "ferme": true,
+      "creneaux": []
+    },
+    {
+      "jour": 1,
+      "ferme": false,
+      "creneaux": [
+        [
+          "09:30",
+          "12:30"
+        ],
+        [
+          "15:00",
+          "19:00"
+        ]
+      ]
+    },
+    {
+      "jour": 2,
+      "ferme": false,
+      "creneaux": [
+        [
+          "09:30",
+          "12:30"
+        ],
+        [
+          "15:00",
+          "19:00"
+        ]
+      ]
+    },
+    {
+      "jour": 3,
+      "ferme": false,
+      "creneaux": [
+        [
+          "09:30",
+          "12:30"
+        ],
+        [
+          "15:00",
+          "19:00"
+        ]
+      ]
+    },
+    {
+      "jour": 4,
+      "ferme": false,
+      "creneaux": [
+        [
+          "09:30",
+          "12:30"
+        ],
+        [
+          "15:00",
+          "19:00"
+        ]
+      ]
+    },
+    {
+      "jour": 5,
+      "ferme": false,
+      "creneaux": [
+        [
+          "09:30",
+          "12:30"
+        ],
+        [
+          "15:00",
+          "19:00"
+        ]
+      ]
+    },
+    {
+      "jour": 6,
+      "ferme": true,
+      "creneaux": []
+    }
+  ],
+  "attributs": [],
+  "lien_google": "https://maps.google.com/?cid=9929947978028335000&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
+  "site_web_gmb": null,
+  "statut": "publiee",
+  "backlink": {
+    "etat": "absent",
+    "premiere_detection": null,
+    "derniere_detection": null,
+    "derniere_verification": "2026-11-21T13:25:19.557Z",
+    "echecs": 1,
+    "url_detectee": null
+  },
+  "suggestion": {
+    "etat": "en-attente",
+    "date_soumission": null,
+    "tentatives": 0,
+    "date_email": "2026-11-21"
+  },
+  "retrait": null,
+  "dates": {
+    "collecte": "2026-11-21",
+    "publication": "2026-11-21",
+    "maj": "2026-11-21"
+  },
+  "source": "google-places",
+  "avis_detail": {
+    "releve": "2026-11-21",
+    "liste": [
+      {
+        "note": 4,
+        "texte": "Un peu cher mais large choix",
+        "langue": "fr",
+        "date": "2026-08-18",
+        "auteur": "est san",
+        "auteur_lien": "https://www.google.com/maps/contrib/112183007212937612262/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2twM2RUQldORmcxVW5OaFJqRXhVa2RQZVRGU2QyYxAB!2m1!1s0x47fba751c44559af:0x89ce43132c7cbf98"
+      },
+      {
+        "note": 1,
+        "texte": "Aujourd'hui nous sommes allés faire nos courses dans ce petit magasin pour la deuxième fois. Déçu car une boîte de sardine dont la date est dépassée depuis novembre 2025, la patronne après réflexion me dit qu'elle la fait à 0.60€ au lieu de 1.20€. Arrivé à la caisse elle facture la sardine à 0.70€. heureusement que ce n'est pas pour nous la sardine. Faites attention aux dates sur les produits vendus.",
+        "langue": "fr",
+        "date": "2026-03-18",
+        "auteur": "Linky Patinha",
+        "auteur_lien": "https://www.google.com/maps/contrib/117268400995807544664/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2pKdlRFOXdTalJoU2xnM2FIWm1VR2R6UjJwVmNVRRAB!2m1!1s0x47fba751c44559af:0x89ce43132c7cbf98"
+      },
+      {
+        "note": 5,
+        "texte": "Merci pour mes réserves de beignets de crevettes comme toujours et mes petits plus que j'ai choisi pour nous régalés à nouveau, bon courage et bonne continuation. ✨️\nPrenez soin de vous 💪💪",
+        "langue": "fr",
+        "date": "2026-01-18",
+        "auteur": "Helene Lamachere",
+        "auteur_lien": "https://www.google.com/maps/contrib/103862236666873524156/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25NeGEycFpOWEl4UW1SbGNYZzRiMmRmZVVoR2JYYxAB!2m1!1s0x47fba751c44559af:0x89ce43132c7cbf98"
+      },
+      {
+        "note": 5,
+        "texte": "Super accueil. Des fruits exotiques mûres... c'est rare !\nLes produits cuisinés maison sont excellents (j'ai habité la Réunion quelques années et j'apprécie vraiment de retrouver quelques saveurs oubliées). Pour tout le reste un choix de conserves assez complet. J'ai toujours tout trouvé ce que je cherchais. Assez étonné pour une ville de cette taille.",
+        "langue": "fr",
+        "date": "2024-07-22",
+        "auteur": "Pascal Ramillon",
+        "auteur_lien": "https://www.google.com/maps/contrib/112946406600618529726/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUNic01hMTd3RRAB!2m1!1s0x47fba751c44559af:0x89ce43132c7cbf98"
+      },
+      {
+        "note": 5,
+        "texte": "Petit magasin où l'on trouve les saveurs asiatique ... à prix raisonnable, voici quelques articles que l'on peut y trouver (pour faire une soupe) et des mochi à divers parfum (sur la photo, je les trouve bon)",
+        "langue": "fr",
+        "date": "2022-02-25",
+        "auteur": "Corinne Beuché",
+        "auteur_lien": "https://www.google.com/maps/contrib/108745540905564379356/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUNZaVl1Mm5BRRAB!2m1!1s0x47fba751c44559af:0x89ce43132c7cbf98"
+      }
+    ]
+  },
+  "services": {
+    "releve": "2026-11-21",
+    "options": {
+      "takeout": true,
+      "delivery": false,
+      "restroom": false
+    },
+    "paiement": [
+      "carte bancaire",
+      "carte de débit",
+      "paiement sans contact"
+    ],
+    "parking": []
+  },
+  "redaction": {
+    "version": 2,
+    "titre": "Hoan Anh Magasin Asiatique — Commerce d'alimentation à Châteauroux",
+    "meta_titre": "Hoan Anh Magasin Asiatique à Châteauroux : horaires, avis",
+    "meta_description": "Hoan Anh Magasin Asiatique, commerce d'alimentation à Châteauroux : horaires d'ouverture, note Google 4,3/5 (145 avis), téléphone, adresse et itinéraire.",
+    "chapo": "Hoan Anh Magasin Asiatique est un commerce d'alimentation au 110 Avenue de La Châtre, à Châteauroux. Fermé le lundi et le dimanche au relevé du 21 novembre 2026. Téléphone : 02 54 34 98 70. Note Google : 4,3 sur 5 pour 145 avis.",
+    "sections": [
+      {
+        "id": "presentation",
+        "titre": "Hoan Anh Magasin Asiatique en quelques mots",
+        "paragraphes": [
+          "Sur Google, l'établissement est classé « Épicerie asiatique », dans notre rubrique Commerce d'alimentation.",
+          "D'après le relevé du 21 novembre 2026, l'établissement est fermé le lundi et le dimanche. Le détail jour par jour figure plus bas."
+        ]
+      },
+      {
+        "id": "prestations",
+        "titre": "Services et équipements de Hoan Anh Magasin Asiatique",
+        "paragraphes": [
+          "Proposé : à emporter.",
+          "Non proposé selon la fiche Google : livraison et toilettes.",
+          "Moyens de paiement déclarés : carte bancaire, carte de débit et paiement sans contact.",
+          "Ces indications sont déclarées par l'établissement sur sa fiche Google (relevé du 21 novembre 2026)."
+        ]
+      },
+      {
+        "id": "acces",
+        "titre": "Adresse et accès",
+        "paragraphes": [
+          "L'établissement est situé au 110 Avenue de La Châtre, 36000 Châteauroux.",
+          "Coordonnées GPS : 46.80766, 1.70676. Le bouton Itinéraire de cette page ouvre la navigation."
+        ]
+      },
+      {
+        "id": "contact",
+        "titre": "Contacter Hoan Anh Magasin Asiatique",
+        "paragraphes": [
+          "Le contact se fait par téléphone au 02 54 34 98 70, ou directement sur place aux horaires d'ouverture."
+        ]
+      },
+      {
+        "id": "avis",
+        "titre": "La réputation de Hoan Anh Magasin Asiatique",
+        "paragraphes": [
+          "Note de 4,3 sur 5 pour 145 avis Google au relevé du 21 novembre 2026. Les avis les plus parlants sont compilés ci-dessous, avec un lien vers la fiche d'origine."
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "q": "Quels sont les horaires de Hoan Anh Magasin Asiatique ?",
+        "r": "Au relevé du 21 novembre 2026, Hoan Anh Magasin Asiatique était fermé le lundi et le dimanche. Dans le détail — lundi : fermé ; mardi : de 9 h 30 à 12 h 30 et de 15 h à 19 h ; mercredi : de 9 h 30 à 12 h 30 et de 15 h à 19 h ; jeudi : de 9 h 30 à 12 h 30 et de 15 h à 19 h ; vendredi : de 9 h 30 à 12 h 30 et de 15 h à 19 h ; samedi : de 9 h 30 à 12 h 30 et de 15 h à 19 h ; dimanche : fermé. Ces horaires peuvent changer : un appel préalable reste conseillé."
+      },
+      {
+        "q": "Hoan Anh Magasin Asiatique est-il ouvert le dimanche ?",
+        "r": "Non : d'après les horaires relevés le 21 novembre 2026, Hoan Anh Magasin Asiatique est fermé le dimanche."
+      },
+      {
+        "q": "Où se trouve Hoan Anh Magasin Asiatique ?",
+        "r": "Hoan Anh Magasin Asiatique se trouve 110 Av. de La Châtre, 36000 Châteauroux. Un lien d'itinéraire est disponible sur cette page."
+      },
+      {
+        "q": "Comment contacter Hoan Anh Magasin Asiatique ?",
+        "r": "Par téléphone au 02 54 34 98 70, ou directement sur place aux heures d'ouverture."
+      },
+      {
+        "q": "Hoan Anh Magasin Asiatique propose-t-il la vente à emporter ou la livraison ?",
+        "r": "D'après sa fiche Google (relevé du 21 novembre 2026) — vente à emporter : oui ; livraison : non."
+      }
+    ],
+    "genere_le": "2026-11-21"
+  },
+  "statut_google": "OPERATIONAL",
+  "audience": {
+    "clics": 0,
+    "impressions": 0,
+    "position": null,
+    "fenetreJours": 90,
+    "clicsRecents": 0,
+    "fenetreRecenteJours": 28,
+    "source": "search-console",
+    "date": "2026-11-21"
+  }
+}

@@ -110,8 +110,8 @@
   "backlink": {
     "etat": "present",
     "premiere_detection": "2026-10-19T10:42:12.979Z",
-    "derniere_detection": "2026-11-02T13:26:12.013Z",
-    "derniere_verification": "2026-11-02T13:26:12.013Z",
+    "derniere_detection": "2026-11-21T13:25:19.557Z",
+    "derniere_verification": "2026-11-21T13:25:19.557Z",
     "echecs": 0,
     "url_detectee": "https://andpro.fr/vitrine-locale/commerces-alimentation/evreux/ferme-de-navarre/"
   },
@@ -125,7 +125,7 @@
   "dates": {
     "collecte": "2026-10-06",
     "publication": "2026-10-06",
-    "maj": "2026-11-02"
+    "maj": "2026-11-21"
   },
   "source": "google-places",
   "redaction": {
@@ -192,14 +192,14 @@
   },
   "statut_google": "OPERATIONAL",
   "audience": {
-    "clics": 216,
-    "impressions": 3031,
+    "clics": 223,
+    "impressions": 3086,
     "position": 2.9,
     "fenetreJours": 90,
-    "clicsRecents": 143,
+    "clicsRecents": 142,
     "fenetreRecenteJours": 28,
     "source": "search-console",
-    "date": "2026-11-20"
+    "date": "2026-11-21"
   },
   "avis_detail": {
     "releve": "2026-11-02",
@@ -258,6 +258,6 @@
     "derniere_exploration": null,
     "canonique_google": null,
     "source": "impressions",
-    "date": "2026-11-20"
+    "date": "2026-11-21"
   }
 }

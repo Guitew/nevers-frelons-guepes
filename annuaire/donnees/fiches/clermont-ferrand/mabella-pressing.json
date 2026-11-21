@@ -1,0 +1,287 @@
+{
+  "id": "ChIJU0jB9r0b90cRSEA_gHEz53s",
+  "slug": "mabella-pressing",
+  "nom": "Mabella pressing",
+  "categorie": "nettoyage-hygiene",
+  "categorie_gmb": "Blanchisserie",
+  "type_principal": "laundry",
+  "types": [
+    "laundry",
+    "point_of_interest",
+    "service",
+    "establishment"
+  ],
+  "ville": "Clermont-Ferrand",
+  "ville_slug": "clermont-ferrand",
+  "adresse": {
+    "rue": "112 Avenue de la Libération",
+    "code_postal": "63000",
+    "departement": "63",
+    "region": "Auvergne-Rhône-Alpes",
+    "pays": "France",
+    "complete": "112 Av. de la Libération, 63000 Clermont-Ferrand"
+  },
+  "telephone": "06 08 83 02 93",
+  "geo": {
+    "latitude": 45.761992,
+    "longitude": 3.082366
+  },
+  "note": 5,
+  "avis": 342,
+  "horaires": [
+    {
+      "jour": 0,
+      "ferme": false,
+      "creneaux": [
+        [
+          "09:00",
+          "12:00"
+        ],
+        [
+          "14:00",
+          "18:00"
+        ]
+      ]
+    },
+    {
+      "jour": 1,
+      "ferme": false,
+      "creneaux": [
+        [
+          "09:00",
+          "12:00"
+        ],
+        [
+          "14:00",
+          "18:00"
+        ]
+      ]
+    },
+    {
+      "jour": 2,
+      "ferme": false,
+      "creneaux": [
+        [
+          "09:00",
+          "12:00"
+        ],
+        [
+          "14:00",
+          "18:00"
+        ]
+      ]
+    },
+    {
+      "jour": 3,
+      "ferme": false,
+      "creneaux": [
+        [
+          "09:00",
+          "12:00"
+        ],
+        [
+          "14:00",
+          "18:00"
+        ]
+      ]
+    },
+    {
+      "jour": 4,
+      "ferme": false,
+      "creneaux": [
+        [
+          "09:00",
+          "12:00"
+        ],
+        [
+          "14:00",
+          "18:00"
+        ]
+      ]
+    },
+    {
+      "jour": 5,
+      "ferme": false,
+      "creneaux": [
+        [
+          "09:00",
+          "13:00"
+        ]
+      ]
+    },
+    {
+      "jour": 6,
+      "ferme": true,
+      "creneaux": []
+    }
+  ],
+  "attributs": [
+    "Entrée accessible en fauteuil roulant",
+    "Parking accessible en fauteuil roulant"
+  ],
+  "lien_google": "https://maps.google.com/?cid=8928161348861247560&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
+  "site_web_gmb": null,
+  "statut": "publiee",
+  "backlink": {
+    "etat": "absent",
+    "premiere_detection": null,
+    "derniere_detection": null,
+    "derniere_verification": "2026-11-21T13:25:19.557Z",
+    "echecs": 1,
+    "url_detectee": null
+  },
+  "suggestion": {
+    "etat": "en-attente",
+    "date_soumission": null,
+    "tentatives": 0,
+    "date_email": "2026-11-21"
+  },
+  "retrait": null,
+  "dates": {
+    "collecte": "2026-11-21",
+    "publication": "2026-11-21",
+    "maj": "2026-11-21"
+  },
+  "source": "google-places",
+  "avis_detail": {
+    "releve": "2026-11-21",
+    "liste": [
+      {
+        "note": 3,
+        "texte": "J'ai apporté ma robe cocktail à détachée, mais malheureusement je l'ai récupéré tachée... que l'on ne puisse pas enlever des taches je le comprends mais j'aurai aimé que l'on me le dise plutôt que de me faire payer la totalité d'une prestation qui n'a pas aboutie...\nJe suis déçue..",
+        "langue": "fr",
+        "date": "2026-10-25",
+        "auteur": "Yacinthe Beraud",
+        "auteur_lien": "https://www.google.com/maps/contrib/108114138273867921600/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xrMFNWSXhlRTR3V0hoQlMwZHVXRVpEZDB0TlRVRRAB!2m1!1s0x47f71bbdf6c14853:0x7be73371803f4048"
+      },
+      {
+        "note": 5,
+        "texte": "Première expérience dans ce pressing suite aux avis très positifs.\nJ'ai confié une doudoune en duvet que j'ai récupérée impeccable avec son gonflant initial. Excellent accueil et prestation rapide. A recommander !",
+        "langue": "fr",
+        "date": "2026-10-17",
+        "auteur": "Marité NEGRI",
+        "auteur_lien": "https://www.google.com/maps/contrib/112361531563394155088/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT214TFdVOVRTWFJpVkhFdGJYSmZZM1JVU1dNNFowRRAB!2m1!1s0x47f71bbdf6c14853:0x7be73371803f4048"
+      },
+      {
+        "note": 5,
+        "texte": "Super expérience ! Je devais laver des tenus de gala (chemises, pantalon, costumes, etc.) assez rapidement pour les avoir le week-end. En une journée c’était fait ! Cela m’a bien dépanné ! Très gentil également, merci à bientôt !",
+        "langue": "fr",
+        "date": "2026-07-26",
+        "auteur": "Timeo BAUDONNAT",
+        "auteur_lien": "https://www.google.com/maps/contrib/104867011640294535780/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xGc1JWbGxaRU5FUVU1V2JGSjVRVE5yUmxseE5GRRAB!2m1!1s0x47f71bbdf6c14853:0x7be73371803f4048"
+      },
+      {
+        "note": 5,
+        "texte": "En plus d’être accueillant, la prestation est rapide et efficace. J’avais besoin de faire laver une housse de clic-clac et deux coussins. Venu les déposer en milieu d’après-midi, j’ai pu repartir avec quelques heures plus tard.\nGentils, professionels, un bon prix, que demander de plus",
+        "langue": "fr",
+        "date": "2026-07-14",
+        "auteur": "Gregoire PERSON",
+        "auteur_lien": "https://www.google.com/maps/contrib/105349448065976408173/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT21KRVpYQkliak51ZHkxV2JtZGljRUl5YVROeGNuYxAB!2m1!1s0x47f71bbdf6c14853:0x7be73371803f4048"
+      },
+      {
+        "note": 5,
+        "texte": "Excellent service ! J’y ai confié mon duvet pour un nettoyage et le résultat est impeccable. Il est revenu parfaitement propre, bien gonflant et en excellent état. Le personnel est accueillant, professionnel et soigneux. Je recommande ce pressing sans hésiter !",
+        "langue": "fr",
+        "date": "2026-07-07",
+        "auteur": "Camille Pellegry",
+        "auteur_lien": "https://www.google.com/maps/contrib/114825710972813316232/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2tSNVYxZHpTV2xyTnpoWGMweDFlV0pWVUZwU1pWRRAB!2m1!1s0x47f71bbdf6c14853:0x7be73371803f4048"
+      }
+    ]
+  },
+  "services": {
+    "releve": "2026-11-21",
+    "options": {},
+    "paiement": [
+      "carte bancaire",
+      "carte de débit",
+      "paiement sans contact"
+    ],
+    "parking": []
+  },
+  "redaction": {
+    "version": 2,
+    "titre": "Mabella pressing — Nettoyage et hygiène à Clermont-Ferrand",
+    "meta_titre": "Mabella pressing à Clermont-Ferrand : horaires, avis",
+    "meta_description": "Mabella pressing, nettoyage et hygiène à Clermont-Ferrand : horaires d'ouverture, note Google 5/5 (342 avis), téléphone, adresse et itinéraire.",
+    "chapo": "Cette fiche présente Mabella pressing, un nettoyage et hygiène au 112 Avenue de la Libération, à Clermont-Ferrand. Ouvert tous les jours sauf le dimanche au relevé du 21 novembre 2026. Téléphone : 06 08 83 02 93. Note Google : 5 sur 5 pour 342 avis.",
+    "sections": [
+      {
+        "id": "presentation",
+        "titre": "Mabella pressing en quelques mots",
+        "paragraphes": [
+          "Sur Google, l'établissement est classé « Blanchisserie », dans notre rubrique Nettoyage et hygiène.",
+          "D'après le relevé du 21 novembre 2026, l'établissement est ouvert tous les jours sauf le dimanche. Le détail jour par jour figure plus bas."
+        ]
+      },
+      {
+        "id": "prestations",
+        "titre": "Services et équipements de Mabella pressing",
+        "paragraphes": [
+          "Moyens de paiement déclarés : carte bancaire, carte de débit et paiement sans contact.",
+          "Ces indications sont déclarées par l'établissement sur sa fiche Google (relevé du 21 novembre 2026)."
+        ]
+      },
+      {
+        "id": "acces",
+        "titre": "Adresse et accès",
+        "paragraphes": [
+          "L'établissement est situé au 112 Avenue de la Libération, 63000 Clermont-Ferrand.",
+          "Coordonnées GPS : 45.76199, 3.08237. Le bouton Itinéraire de cette page ouvre la navigation."
+        ]
+      },
+      {
+        "id": "contact",
+        "titre": "Contacter Mabella pressing",
+        "paragraphes": [
+          "Le contact se fait par téléphone au 06 08 83 02 93, ou directement sur place aux horaires d'ouverture."
+        ]
+      },
+      {
+        "id": "avis",
+        "titre": "La réputation de Mabella pressing",
+        "paragraphes": [
+          "Note de 5 sur 5 pour 342 avis Google au relevé du 21 novembre 2026. Les avis les plus parlants sont compilés ci-dessous, avec un lien vers la fiche d'origine."
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "q": "Quels sont les horaires de Mabella pressing ?",
+        "r": "Au relevé du 21 novembre 2026, Mabella pressing était ouvert tous les jours sauf le dimanche. Dans le détail — lundi : de 9 h à 12 h et de 14 h à 18 h ; mardi : de 9 h à 12 h et de 14 h à 18 h ; mercredi : de 9 h à 12 h et de 14 h à 18 h ; jeudi : de 9 h à 12 h et de 14 h à 18 h ; vendredi : de 9 h à 12 h et de 14 h à 18 h ; samedi : de 9 h à 13 h ; dimanche : fermé. Ces horaires peuvent changer : un appel préalable reste conseillé."
+      },
+      {
+        "q": "Mabella pressing est-il ouvert le dimanche ?",
+        "r": "Non : d'après les horaires relevés le 21 novembre 2026, Mabella pressing est fermé le dimanche."
+      },
+      {
+        "q": "Où se trouve Mabella pressing ?",
+        "r": "Mabella pressing se trouve 112 Av. de la Libération, 63000 Clermont-Ferrand. Un lien d'itinéraire est disponible sur cette page."
+      },
+      {
+        "q": "Comment contacter Mabella pressing ?",
+        "r": "Par téléphone au 06 08 83 02 93, ou directement sur place aux heures d'ouverture."
+      },
+      {
+        "q": "Mabella pressing est-il accessible aux personnes à mobilité réduite ?",
+        "r": "La fiche Google de l'établissement mentionne : « Entrée accessible en fauteuil roulant ». Cette information est déclarative ; en cas de doute, vérifiez par téléphone."
+      }
+    ],
+    "genere_le": "2026-11-21"
+  },
+  "statut_google": "OPERATIONAL",
+  "audience": {
+    "clics": 0,
+    "impressions": 0,
+    "position": null,
+    "fenetreJours": 90,
+    "clicsRecents": 0,
+    "fenetreRecenteJours": 28,
+    "source": "search-console",
+    "date": "2026-11-21"
+  }
+}
