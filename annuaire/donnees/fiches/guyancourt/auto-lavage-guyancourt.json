@@ -72,15 +72,15 @@
   ],
   "attributs": [],
   "lien_google": "https://maps.google.com/?cid=17949207839213762535&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
-  "site_web_gmb": null,
+  "site_web_gmb": "https://andpro.fr/vitrine-locale/garages-automobile/guyancourt/auto-lavage-guyancourt/",
   "statut": "publiee",
   "backlink": {
-    "etat": "absent",
-    "premiere_detection": null,
-    "derniere_detection": null,
-    "derniere_verification": "2026-11-03T12:44:19.075Z",
-    "echecs": 1,
-    "url_detectee": null
+    "etat": "present",
+    "premiere_detection": "2026-11-22T13:17:07.875Z",
+    "derniere_detection": "2026-11-22T13:17:07.875Z",
+    "derniere_verification": "2026-11-22T13:17:07.875Z",
+    "echecs": 0,
+    "url_detectee": "https://andpro.fr/vitrine-locale/garages-automobile/guyancourt/auto-lavage-guyancourt/"
   },
   "suggestion": {
     "etat": "soumise",
@@ -92,7 +92,7 @@
   "dates": {
     "collecte": "2026-11-03",
     "publication": "2026-11-03",
-    "maj": "2026-11-06"
+    "maj": "2026-11-22"
   },
   "source": "google-places",
   "avis_detail": {
@@ -227,12 +227,12 @@
   "statut_google": "OPERATIONAL",
   "audience": {
     "clics": 1,
-    "impressions": 217,
-    "position": 2.7,
+    "impressions": 243,
+    "position": 2.6,
     "fenetreJours": 90,
     "clicsRecents": 1,
     "fenetreRecenteJours": 28,
     "source": "search-console",
-    "date": "2026-11-21"
+    "date": "2026-11-22"
   }
 }

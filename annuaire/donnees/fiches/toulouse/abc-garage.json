@@ -1,0 +1,167 @@
+{
+  "id": "ChIJ5UKCAd27rhIRMO1wfb0V1kQ",
+  "slug": "abc-garage",
+  "nom": "Abc garage",
+  "categorie": "garages-automobile",
+  "categorie_gmb": "Garage automobile",
+  "type_principal": "car_repair",
+  "types": [
+    "car_repair",
+    "point_of_interest",
+    "service",
+    "establishment"
+  ],
+  "ville": "Toulouse",
+  "ville_slug": "toulouse",
+  "adresse": {
+    "rue": "48 Route d'Espagne",
+    "code_postal": "31100",
+    "departement": "31",
+    "region": "Occitanie",
+    "pays": "France",
+    "complete": "48 Rte d'Espagne, 31100 Toulouse"
+  },
+  "telephone": "06 58 75 98 23",
+  "geo": {
+    "latitude": 43.5761946,
+    "longitude": 1.4237841999999998
+  },
+  "note": 4.9,
+  "avis": 181,
+  "horaires": null,
+  "attributs": [],
+  "lien_google": "https://maps.google.com/?cid=4960175943192735024&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
+  "site_web_gmb": null,
+  "statut": "publiee",
+  "backlink": {
+    "etat": "absent",
+    "premiere_detection": null,
+    "derniere_detection": null,
+    "derniere_verification": "2026-11-22T13:17:07.875Z",
+    "echecs": 1,
+    "url_detectee": null
+  },
+  "suggestion": {
+    "etat": "en-attente",
+    "date_soumission": null,
+    "tentatives": 0,
+    "date_email": "2026-11-22"
+  },
+  "retrait": null,
+  "dates": {
+    "collecte": "2026-11-22",
+    "publication": "2026-11-22",
+    "maj": "2026-11-22"
+  },
+  "source": "google-places",
+  "avis_detail": {
+    "releve": "2026-11-22",
+    "liste": [
+      {
+        "note": 5,
+        "texte": "Je suis ravie d’avoir trouvé un garage aussi honnête et professionnel !\n\nJ’avais amené mon véhicule dans un autre garage qui m’avait préconisé de nombreux travaux pour un devis de plus de 600 €. En venant ici pour un second avis, ils ont pris le temps de faire un check-up complet de ma voiture et m’ont expliqué que 90 % des réparations recommandées n’étaient pas nécessaires à ce stade.\n\nC’est tellement appréciable de rencontrer des professionnels honnêtes, qui prennent le temps de vous conseiller et de vous expliquer les choses, sans chercher à vous faire dépenser inutilement. Ils préconisent uniquement les travaux réellement nécessaires et donnent de précieux conseils pour entretenir son véhicule.\n\nUn grand merci pour votre sérieux et votre transparence ! Je recommande ce garage les yeux fermés et je suis heureuse d’avoir enfin trouvé des professionnels de confiance.",
+        "langue": "fr",
+        "date": "2026-10-16",
+        "auteur": "Myriam Garrigues",
+        "auteur_lien": "https://www.google.com/maps/contrib/117087553577377100111/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT21vM09FeFNRbWRYVm5aMVdtSmFaVVZWTlhkdFdWRRAB!2m1!1s0x12aebbdd018242e5:0x44d615bd7d70ed30"
+      },
+      {
+        "note": 5,
+        "texte": "Serviable, compétent et très sympathique, le petit garage que l'on cherche souvent sans trouver dans une grande ville. Testé cette semaine pour un remplacement de batterie sur un 3008, quand même Leclerc Auto vous donne 15 jours de délais... ici on vous prends et en plus le prix est raisonnable. A conseiller.",
+        "langue": "fr",
+        "date": "2026-08-20",
+        "auteur": "Christian",
+        "auteur_lien": "https://www.google.com/maps/contrib/116374813635627794248/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT21oaGJGSnZVRzlzVjNKRVprOUlZMHRzWDNCS1dHYxAB!2m1!1s0x12aebbdd018242e5:0x44d615bd7d70ed30"
+      },
+      {
+        "note": 5,
+        "texte": "Garage au top ! Après avoir fait le tour de plusieurs garagistes qui m’annonçaient des réparations très coûteuses, ce garagiste a été le seul à être honnête. Il a pris le temps de m’expliquer clairement l’origine du problème et, au final, il s’agissait simplement d’une vidange à faire. Très professionnel, transparent et surtout très honnête. En plus, il m’a trouvé un rendez-vous dès le lendemain. Je recommande ce garage les yeux fermés !",
+        "langue": "fr",
+        "date": "2026-07-31",
+        "auteur": "Zouaouia AYEDI",
+        "auteur_lien": "https://www.google.com/maps/contrib/116775010844178552041/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xZNGREVnlTR0ZQTUY5YVYwUnlhalU0UzFwa1dHYxAB!2m1!1s0x12aebbdd018242e5:0x44d615bd7d70ed30"
+      },
+      {
+        "note": 5,
+        "texte": "Un immense merci à ABC Garage ! J’ai rarement rencontré un garagiste aussi honnête, patient et professionnel. Il a pris le temps de faire un diagnostic complet, de m’expliquer la situation avec beaucoup de gentillesse, d’effectuer plusieurs vérifications et même un essai sur route, sans chercher à me faire remplacer des pièces inutilement. Aujourd’hui, c’est très rare de trouver un professionnel aussi consciencieux et transparent. On sent qu’il aime son métier et qu’il travaille avant tout dans l’intérêt de ses clients. Il mérite vraiment d’être reconnu pour la qualité de son travail. Je recommande les yeux fermés !",
+        "langue": "fr",
+        "date": "2026-07-16",
+        "auteur": "Nora Braber",
+        "auteur_lien": "https://www.google.com/maps/contrib/117263556278274821740/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2w5NldHd3hORmh6TmxCUlNrUklTV0ZPWlVaVk5uYxAB!2m1!1s0x12aebbdd018242e5:0x44d615bd7d70ed30"
+      },
+      {
+        "note": 5,
+        "texte": "Garagiste honnête, sérieux et arrangeant !\nJ’ai fait changer chez eux ma boite de vitesse manuelle + kit d’embrayage & volant moteur (grosse opération) sur une golf 4.\nApres quelques centaines de km, un bruit inhabituel est apparu : ils m’ont accueilli en urgence et ne m’ont pas fait payer la reprise (problème mineur de vis qui se sont desserrées).\nMaintenant tout roule.\nMerci a eux !",
+        "langue": "fr",
+        "date": "2026-01-12",
+        "auteur": "Daniel Isnard",
+        "auteur_lien": "https://www.google.com/maps/contrib/100713056566366670538/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25KRE9HcHROMHRKZDBNeldFOTNVVFJzYnpSNVRYYxAB!2m1!1s0x12aebbdd018242e5:0x44d615bd7d70ed30"
+      }
+    ]
+  },
+  "redaction": {
+    "version": 2,
+    "titre": "Abc garage — Garage et automobile à Toulouse",
+    "meta_titre": "Abc garage à Toulouse : avis, téléphone",
+    "meta_description": "Abc garage, garage et automobile à Toulouse : note Google 4,9/5 (181 avis), téléphone, adresse et itinéraire.",
+    "chapo": "Abc garage est un garage et automobile au 48 Route d'Espagne, à Toulouse. Téléphone : 06 58 75 98 23. Note Google : 4,9 sur 5 pour 181 avis.",
+    "sections": [
+      {
+        "id": "presentation",
+        "titre": "Abc garage en quelques mots",
+        "paragraphes": [
+          "Sur Google, l'établissement est classé « Garage automobile », dans notre rubrique Garage et automobile."
+        ]
+      },
+      {
+        "id": "acces",
+        "titre": "Adresse et accès",
+        "paragraphes": [
+          "L'établissement est situé au 48 Route d'Espagne, 31100 Toulouse.",
+          "Coordonnées GPS : 43.57619, 1.42378. Le bouton Itinéraire de cette page ouvre la navigation."
+        ]
+      },
+      {
+        "id": "contact",
+        "titre": "Contacter Abc garage",
+        "paragraphes": [
+          "Le contact se fait par téléphone au 06 58 75 98 23, ou directement sur place aux horaires d'ouverture."
+        ]
+      },
+      {
+        "id": "avis",
+        "titre": "La réputation de Abc garage",
+        "paragraphes": [
+          "Note de 4,9 sur 5 pour 181 avis Google au relevé du 22 novembre 2026. Les avis les plus parlants sont compilés ci-dessous, avec un lien vers la fiche d'origine."
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "q": "Où se trouve Abc garage ?",
+        "r": "Abc garage se trouve 48 Rte d'Espagne, 31100 Toulouse. Un lien d'itinéraire est disponible sur cette page."
+      },
+      {
+        "q": "Comment contacter Abc garage ?",
+        "r": "Par téléphone au 06 58 75 98 23, ou directement sur place aux heures d'ouverture."
+      }
+    ],
+    "genere_le": "2026-11-22"
+  },
+  "statut_google": "OPERATIONAL",
+  "audience": {
+    "clics": 0,
+    "impressions": 0,
+    "position": null,
+    "fenetreJours": 90,
+    "clicsRecents": 0,
+    "fenetreRecenteJours": 28,
+    "source": "search-console",
+    "date": "2026-11-22"
+  }
+}

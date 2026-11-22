@@ -121,8 +121,8 @@
     "etat": "absent",
     "premiere_detection": null,
     "derniere_detection": null,
-    "derniere_verification": "2026-11-03T12:44:19.075Z",
-    "echecs": 1,
+    "derniere_verification": "2026-11-22T13:17:07.875Z",
+    "echecs": 2,
     "url_detectee": null
   },
   "suggestion": {
@@ -135,7 +135,7 @@
   "dates": {
     "collecte": "2026-11-03",
     "publication": "2026-11-03",
-    "maj": "2026-11-03"
+    "maj": "2026-11-22"
   },
   "source": "google-places",
   "avis_detail": {
@@ -280,6 +280,6 @@
     "clicsRecents": 0,
     "fenetreRecenteJours": 28,
     "source": "search-console",
-    "date": "2026-11-21"
+    "date": "2026-11-22"
   }
 }

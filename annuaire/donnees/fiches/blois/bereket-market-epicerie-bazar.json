@@ -1,0 +1,281 @@
+{
+  "id": "ChIJvYzN9fNX40cRZz8w_DDklxc",
+  "slug": "bereket-market-epicerie-bazar",
+  "nom": "Bereket Market Épicerie & Bazar",
+  "categorie": "commerces-alimentation",
+  "categorie_gmb": "Épicerie",
+  "type_principal": "grocery_store",
+  "types": [
+    "grocery_store",
+    "food_store",
+    "food",
+    "store",
+    "point_of_interest",
+    "establishment"
+  ],
+  "ville": "Blois",
+  "ville_slug": "blois",
+  "adresse": {
+    "rue": "125 Rue Michel Bégon",
+    "code_postal": "41000",
+    "departement": "41",
+    "region": "Centre-Val de Loire",
+    "pays": "France",
+    "complete": "125 Rue Michel Bégon, 41000 Blois"
+  },
+  "telephone": "02 54 50 97 23",
+  "geo": {
+    "latitude": 47.5937421,
+    "longitude": 1.3107358999999998
+  },
+  "note": 4.7,
+  "avis": 39,
+  "horaires": [
+    {
+      "jour": 0,
+      "ferme": false,
+      "creneaux": [
+        [
+          "09:00",
+          "20:00"
+        ]
+      ]
+    },
+    {
+      "jour": 1,
+      "ferme": false,
+      "creneaux": [
+        [
+          "09:00",
+          "20:00"
+        ]
+      ]
+    },
+    {
+      "jour": 2,
+      "ferme": false,
+      "creneaux": [
+        [
+          "09:00",
+          "20:00"
+        ]
+      ]
+    },
+    {
+      "jour": 3,
+      "ferme": false,
+      "creneaux": [
+        [
+          "09:00",
+          "20:00"
+        ]
+      ]
+    },
+    {
+      "jour": 4,
+      "ferme": false,
+      "creneaux": [
+        [
+          "09:00",
+          "20:00"
+        ]
+      ]
+    },
+    {
+      "jour": 5,
+      "ferme": false,
+      "creneaux": [
+        [
+          "09:00",
+          "20:00"
+        ]
+      ]
+    },
+    {
+      "jour": 6,
+      "ferme": false,
+      "creneaux": [
+        [
+          "09:00",
+          "20:00"
+        ]
+      ]
+    }
+  ],
+  "attributs": [
+    "Parking accessible en fauteuil roulant"
+  ],
+  "lien_google": "https://maps.google.com/?cid=1700078283396235111&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
+  "site_web_gmb": null,
+  "statut": "publiee",
+  "backlink": {
+    "etat": "absent",
+    "premiere_detection": null,
+    "derniere_detection": null,
+    "derniere_verification": "2026-11-22T13:17:07.875Z",
+    "echecs": 1,
+    "url_detectee": null
+  },
+  "suggestion": {
+    "etat": "en-attente",
+    "date_soumission": null,
+    "tentatives": 0,
+    "date_email": "2026-11-22"
+  },
+  "retrait": null,
+  "dates": {
+    "collecte": "2026-11-22",
+    "publication": "2026-11-22",
+    "maj": "2026-11-22"
+  },
+  "source": "google-places",
+  "avis_detail": {
+    "releve": "2026-11-22",
+    "liste": [
+      {
+        "note": 4,
+        "texte": "Magasin bien achalandé en produits divers,\n(alimentation, hygiène corporelle, produits ménagers, bazard, fruits et légumes).\nPetit bémol, certaines caissières sont froides,\nil n'y a pas de bonjour, au-revoir et merci.",
+        "langue": "fr",
+        "date": "2024-04-29",
+        "auteur": "Charlyne ALLOUARD",
+        "auteur_lien": "https://www.google.com/maps/contrib/115487463576675986631/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSURqMkxfeU1REAE!2m1!1s0x47e357f3f5cd8cbd:0x1797e430fc303f67"
+      },
+      {
+        "note": 5,
+        "texte": "La nature est puissante et merveilleuse à respecter.",
+        "langue": "fr",
+        "date": "2023-02-15",
+        "auteur": "Akouete Kangni",
+        "auteur_lien": "https://www.google.com/maps/contrib/117945452988741077864/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUQ2NXZmWUt3EAE!2m1!1s0x47e357f3f5cd8cbd:0x1797e430fc303f67"
+      },
+      {
+        "note": 5,
+        "texte": "Superbe épicerie\nOn y trouve de tout\nL'accueil est top\nEt les prix sont juste\nLe bereket",
+        "langue": "fr",
+        "date": "2021-09-07",
+        "auteur": "Iprone 410",
+        "auteur_lien": "https://www.google.com/maps/contrib/100060949540179906549/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUM2eWVIQ0lnEAE!2m1!1s0x47e357f3f5cd8cbd:0x1797e430fc303f67"
+      },
+      {
+        "note": 4,
+        "texte": "On trouve un peut de tout... prix intéressant mais il faisait un peu froid dans le magasin 😅",
+        "langue": "fr",
+        "date": "2020-12-12",
+        "auteur": "Hasan CINAR",
+        "auteur_lien": "https://www.google.com/maps/contrib/105970816800841828812/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUNTMEpuSndBRRAB!2m1!1s0x47e357f3f5cd8cbd:0x1797e430fc303f67"
+      },
+      {
+        "note": 5,
+        "texte": "Le propriétaire est très serviable et souriant et les prix très corrects. Continuez comme ça.",
+        "langue": "fr",
+        "date": "2020-01-05",
+        "auteur": "Ramazan ÜNSAL",
+        "auteur_lien": "https://www.google.com/maps/contrib/107552189063441565522/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSURNcGN6SDFRRRAB!2m1!1s0x47e357f3f5cd8cbd:0x1797e430fc303f67"
+      }
+    ]
+  },
+  "services": {
+    "releve": "2026-11-22",
+    "options": {
+      "delivery": false,
+      "restroom": false
+    },
+    "paiement": [
+      "carte bancaire",
+      "carte de débit",
+      "paiement sans contact"
+    ],
+    "parking": []
+  },
+  "redaction": {
+    "version": 2,
+    "titre": "Bereket Market Épicerie & Bazar — Commerce d'alimentation à Blois",
+    "meta_titre": "Bereket Market Épicerie & Bazar à Blois : horaires, avis",
+    "meta_description": "Bereket Market Épicerie & Bazar, commerce d'alimentation à Blois : horaires d'ouverture, note Google 4,7/5 (39 avis), téléphone, adresse et itinéraire.",
+    "chapo": "Bereket Market Épicerie & Bazar exerce l'activité de commerce d'alimentation au 125 Rue Michel Bégon, à Blois. Ouvert sept jours sur sept au relevé du 22 novembre 2026. Téléphone : 02 54 50 97 23. Note Google : 4,7 sur 5 pour 39 avis.",
+    "sections": [
+      {
+        "id": "presentation",
+        "titre": "Bereket Market Épicerie & Bazar en quelques mots",
+        "paragraphes": [
+          "Sur Google, l'établissement est classé « Épicerie », dans notre rubrique Commerce d'alimentation.",
+          "D'après le relevé du 22 novembre 2026, l'établissement est ouvert sept jours sur sept. Le détail jour par jour figure plus bas."
+        ]
+      },
+      {
+        "id": "prestations",
+        "titre": "Services et équipements de Bereket Market Épicerie & Bazar",
+        "paragraphes": [
+          "Non proposé selon la fiche Google : livraison et toilettes.",
+          "Moyens de paiement déclarés : carte bancaire, carte de débit et paiement sans contact.",
+          "Ces indications sont déclarées par l'établissement sur sa fiche Google (relevé du 22 novembre 2026)."
+        ]
+      },
+      {
+        "id": "acces",
+        "titre": "Adresse et accès",
+        "paragraphes": [
+          "L'établissement est situé au 125 Rue Michel Bégon, 41000 Blois.",
+          "Coordonnées GPS : 47.59374, 1.31074. Le bouton Itinéraire de cette page ouvre la navigation."
+        ]
+      },
+      {
+        "id": "contact",
+        "titre": "Contacter Bereket Market Épicerie & Bazar",
+        "paragraphes": [
+          "Le contact se fait par téléphone au 02 54 50 97 23, ou directement sur place aux horaires d'ouverture."
+        ]
+      },
+      {
+        "id": "avis",
+        "titre": "La réputation de Bereket Market Épicerie & Bazar",
+        "paragraphes": [
+          "Note de 4,7 sur 5 pour 39 avis Google au relevé du 22 novembre 2026. Les avis les plus parlants sont compilés ci-dessous, avec un lien vers la fiche d'origine."
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "q": "Quels sont les horaires de Bereket Market Épicerie & Bazar ?",
+        "r": "Au relevé du 22 novembre 2026, Bereket Market Épicerie & Bazar était ouvert sept jours sur sept. Dans le détail — lundi : de 9 h à 20 h ; mardi : de 9 h à 20 h ; mercredi : de 9 h à 20 h ; jeudi : de 9 h à 20 h ; vendredi : de 9 h à 20 h ; samedi : de 9 h à 20 h ; dimanche : de 9 h à 20 h. Ces horaires peuvent changer : un appel préalable reste conseillé."
+      },
+      {
+        "q": "Bereket Market Épicerie & Bazar est-il ouvert le dimanche ?",
+        "r": "Oui : le dimanche, Bereket Market Épicerie & Bazar est ouvert de 9 h à 20 h (horaires relevés le 22 novembre 2026)."
+      },
+      {
+        "q": "Où se trouve Bereket Market Épicerie & Bazar ?",
+        "r": "Bereket Market Épicerie & Bazar se trouve 125 Rue Michel Bégon, 41000 Blois. Un lien d'itinéraire est disponible sur cette page."
+      },
+      {
+        "q": "Comment contacter Bereket Market Épicerie & Bazar ?",
+        "r": "Par téléphone au 02 54 50 97 23, ou directement sur place aux heures d'ouverture."
+      },
+      {
+        "q": "Bereket Market Épicerie & Bazar propose-t-il la vente à emporter ou la livraison ?",
+        "r": "D'après sa fiche Google (relevé du 22 novembre 2026) — livraison : non."
+      },
+      {
+        "q": "Bereket Market Épicerie & Bazar est-il accessible aux personnes à mobilité réduite ?",
+        "r": "La fiche Google de l'établissement mentionne : « Parking accessible en fauteuil roulant ». Cette information est déclarative ; en cas de doute, vérifiez par téléphone."
+      }
+    ],
+    "genere_le": "2026-11-22"
+  },
+  "statut_google": "OPERATIONAL",
+  "audience": {
+    "clics": 0,
+    "impressions": 0,
+    "position": null,
+    "fenetreJours": 90,
+    "clicsRecents": 0,
+    "fenetreRecenteJours": 28,
+    "source": "search-console",
+    "date": "2026-11-22"
+  }
+}

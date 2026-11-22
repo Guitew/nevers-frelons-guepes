@@ -27,7 +27,7 @@
     "longitude": 5.883501600000001
   },
   "note": 4.1,
-  "avis": 231,
+  "avis": 233,
   "horaires": [
     {
       "jour": 0,
@@ -100,15 +100,15 @@
     "Parking accessible en fauteuil roulant"
   ],
   "lien_google": "https://maps.google.com/?cid=13400969430548218065&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
-  "site_web_gmb": null,
+  "site_web_gmb": "http://ts.la/olivier16281",
   "statut": "publiee",
   "backlink": {
-    "etat": "absent",
+    "etat": "externe",
     "premiere_detection": null,
     "derniere_detection": null,
-    "derniere_verification": "2026-11-02T13:26:12.013Z",
-    "echecs": 1,
-    "url_detectee": null
+    "derniere_verification": "2026-11-22T13:17:07.875Z",
+    "echecs": 2,
+    "url_detectee": "http://ts.la/olivier16281"
   },
   "suggestion": {
     "etat": "soumise",
@@ -120,7 +120,7 @@
   "dates": {
     "collecte": "2026-11-02",
     "publication": "2026-11-02",
-    "maj": "2026-11-06"
+    "maj": "2026-11-22"
   },
   "source": "google-places",
   "avis_detail": {
@@ -260,6 +260,6 @@
     "clicsRecents": 0,
     "fenetreRecenteJours": 28,
     "source": "search-console",
-    "date": "2026-11-21"
+    "date": "2026-11-22"
   }
 }

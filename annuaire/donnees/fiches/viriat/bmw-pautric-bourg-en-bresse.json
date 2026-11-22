@@ -29,7 +29,7 @@
     "longitude": 5.210061
   },
   "note": 4.5,
-  "avis": 930,
+  "avis": 941,
   "horaires": [
     {
       "jour": 0,
@@ -132,8 +132,8 @@
     "etat": "externe",
     "premiere_detection": null,
     "derniere_detection": null,
-    "derniere_verification": "2026-11-03T12:44:19.075Z",
-    "echecs": 2,
+    "derniere_verification": "2026-11-22T13:17:07.875Z",
+    "echecs": 3,
     "url_detectee": "http://www.bresse-autosport.fr/"
   },
   "suggestion": {
@@ -146,7 +146,7 @@
   "dates": {
     "collecte": "2026-10-19",
     "publication": "2026-10-19",
-    "maj": "2026-11-03"
+    "maj": "2026-11-22"
   },
   "source": "google-places",
   "avis_detail": {
@@ -295,6 +295,6 @@
     "clicsRecents": 1,
     "fenetreRecenteJours": 28,
     "source": "search-console",
-    "date": "2026-11-21"
+    "date": "2026-11-22"
   }
 }

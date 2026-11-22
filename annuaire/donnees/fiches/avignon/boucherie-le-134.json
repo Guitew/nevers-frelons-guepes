@@ -1,0 +1,267 @@
+{
+  "id": "ChIJXeGfavjrtRIRjDb-plyzGU4",
+  "slug": "boucherie-le-134",
+  "nom": "Boucherie Le 134",
+  "categorie": "commerces-alimentation",
+  "categorie_gmb": "Boucherie",
+  "type_principal": "butcher_shop",
+  "types": [
+    "butcher_shop",
+    "food_store",
+    "manufacturer",
+    "food",
+    "store",
+    "point_of_interest",
+    "service",
+    "establishment"
+  ],
+  "ville": "Avignon",
+  "ville_slug": "avignon",
+  "adresse": {
+    "rue": "",
+    "code_postal": "84000",
+    "departement": "84",
+    "region": "Provence-Alpes-Côte d'Azur",
+    "pays": "France",
+    "complete": "84000 Avignon, France"
+  },
+  "telephone": "",
+  "geo": {
+    "latitude": 43.9271929,
+    "longitude": 4.8093011
+  },
+  "note": 3.7,
+  "avis": 41,
+  "horaires": [
+    {
+      "jour": 0,
+      "ferme": true,
+      "creneaux": []
+    },
+    {
+      "jour": 1,
+      "ferme": false,
+      "creneaux": [
+        [
+          "11:01",
+          "22:00"
+        ]
+      ]
+    },
+    {
+      "jour": 2,
+      "ferme": false,
+      "creneaux": [
+        [
+          "11:00",
+          "22:00"
+        ]
+      ]
+    },
+    {
+      "jour": 3,
+      "ferme": false,
+      "creneaux": [
+        [
+          "11:00",
+          "22:00"
+        ]
+      ]
+    },
+    {
+      "jour": 4,
+      "ferme": false,
+      "creneaux": [
+        [
+          "11:00",
+          "22:30"
+        ]
+      ]
+    },
+    {
+      "jour": 5,
+      "ferme": false,
+      "creneaux": [
+        [
+          "11:00",
+          "22:30"
+        ]
+      ]
+    },
+    {
+      "jour": 6,
+      "ferme": false,
+      "creneaux": [
+        [
+          "11:00",
+          "22:00"
+        ]
+      ]
+    }
+  ],
+  "attributs": [
+    "Entrée accessible en fauteuil roulant",
+    "Parking accessible en fauteuil roulant"
+  ],
+  "lien_google": "https://maps.google.com/?cid=5627726419896186508&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
+  "site_web_gmb": null,
+  "statut": "publiee",
+  "backlink": {
+    "etat": "absent",
+    "premiere_detection": null,
+    "derniere_detection": null,
+    "derniere_verification": "2026-11-22T13:17:07.875Z",
+    "echecs": 1,
+    "url_detectee": null
+  },
+  "suggestion": {
+    "etat": "en-attente",
+    "date_soumission": null,
+    "tentatives": 0,
+    "date_email": "2026-11-22"
+  },
+  "retrait": null,
+  "dates": {
+    "collecte": "2026-11-22",
+    "publication": "2026-11-22",
+    "maj": "2026-11-22"
+  },
+  "source": "google-places",
+  "avis_detail": {
+    "releve": "2026-11-22",
+    "liste": [
+      {
+        "note": 1,
+        "texte": "Très déçu de cette boucherie. Les prix sont vraiment abusés par rapport à la qualité proposée. Le service laisse également beaucoup à désirer : accueil froid, attente et manque de professionnalisme.\n\nConcernant l’hygiène, ce n’est pas très rassurant non plus, certains points mériteraient clairement d’être améliorés.\n\nPour des prix aussi élevés, on s’attend au minimum à un bon service, une qualité irréprochable et une hygiène exemplaire. Je ne recommande pas.",
+        "langue": "fr",
+        "date": "2026-09-24",
+        "auteur": "Anis Bakk",
+        "auteur_lien": "https://www.google.com/maps/contrib/101198915154442493517/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2pGaE5XTkVNbk01ZEROcmVVcEZlVUZMTkVKaVFtYxAB!2m1!1s0x12b5ebf86a9fe15d:0x4e19b35ca6fe368c"
+      },
+      {
+        "note": 5,
+        "texte": "Incroyablement bon on mange comme des rois pour pas très cher avec le thé à la menthe c'est tout simplement magnifique.",
+        "langue": "fr",
+        "date": "2026-09-16",
+        "auteur": "Léo",
+        "auteur_lien": "https://www.google.com/maps/contrib/112116728667979781249/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2sxSFRHNUViMjVRVXpab2IzQmxTR3A0VjI1TFEzYxAB!2m1!1s0x12b5ebf86a9fe15d:0x4e19b35ca6fe368c"
+      },
+      {
+        "note": 1,
+        "texte": "Trop nul\nJ'ai fais 300 KLM, arrivé a 22h30 le mec  a pas voulu nous servir. Dégoûté.",
+        "langue": "fr",
+        "date": "2026-06-13",
+        "auteur": "Ettoumi Ghassen",
+        "auteur_lien": "https://www.google.com/maps/contrib/112445895478480626028/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2tkVlNEWmtaSFJEYkU5SWIxRjNhSFJXVlhVMmRXYxAB!2m1!1s0x12b5ebf86a9fe15d:0x4e19b35ca6fe368c"
+      },
+      {
+        "note": 4,
+        "texte": "C'est comme aux Maroc vraiment c'est trop bon merci",
+        "langue": "fr",
+        "date": "2026-04-16",
+        "auteur": "chaînes you snap",
+        "auteur_lien": "https://www.google.com/maps/contrib/100521900176819413770/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT21WYVlsQTNUR3BLWjB4TWNuTkplRFpwVmpSc1owRRAB!2m1!1s0x12b5ebf86a9fe15d:0x4e19b35ca6fe368c"
+      },
+      {
+        "note": 4,
+        "texte": "Concept particulier comme au bled vous achetez vos viandes en boucherie avec les légumes et le pain et ensuite vous les amenez à la grillade au feu de bois (3,50€) juste à côté. C’est bon frais et ça rappelle les grillades du Maroc. Attention à l’attente car quand il y a du monde les délais sont longs. Il manque une prestation salade et frites pour que ce soit top et un parking car difficile de se garer à côté. On s’est tt de même régalés.",
+        "langue": "fr",
+        "date": "2024-08-16",
+        "auteur": "Dj Mah 13 (Dj Mah)",
+        "auteur_lien": "https://www.google.com/maps/contrib/117577482559498992846/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUM3dnNidW1BRRAB!2m1!1s0x12b5ebf86a9fe15d:0x4e19b35ca6fe368c"
+      }
+    ]
+  },
+  "services": {
+    "releve": "2026-11-22",
+    "options": {},
+    "paiement": [
+      "carte bancaire",
+      "carte de débit",
+      "paiement sans contact"
+    ],
+    "parking": []
+  },
+  "redaction": {
+    "version": 2,
+    "titre": "Boucherie Le 134 — Commerce d'alimentation à Avignon",
+    "meta_titre": "Boucherie Le 134 à Avignon : horaires, avis",
+    "meta_description": "Boucherie Le 134, commerce d'alimentation à Avignon : horaires d'ouverture, note Google 3,7/5 (41 avis), adresse et itinéraire.",
+    "chapo": "Boucherie Le 134 est un commerce d'alimentation à Avignon. Ouvert tous les jours sauf le lundi au relevé du 22 novembre 2026. Note Google : 3,7 sur 5 pour 41 avis.",
+    "sections": [
+      {
+        "id": "presentation",
+        "titre": "Boucherie Le 134 en quelques mots",
+        "paragraphes": [
+          "Sur Google, l'établissement est classé « Boucherie », dans notre rubrique Commerce d'alimentation.",
+          "D'après le relevé du 22 novembre 2026, l'établissement est ouvert tous les jours sauf le lundi. Le détail jour par jour figure plus bas."
+        ]
+      },
+      {
+        "id": "prestations",
+        "titre": "Services et équipements de Boucherie Le 134",
+        "paragraphes": [
+          "Moyens de paiement déclarés : carte bancaire, carte de débit et paiement sans contact.",
+          "Ces indications sont déclarées par l'établissement sur sa fiche Google (relevé du 22 novembre 2026)."
+        ]
+      },
+      {
+        "id": "acces",
+        "titre": "Adresse et accès",
+        "paragraphes": [
+          "L'établissement est situé, 84000 Avignon.",
+          "Coordonnées GPS : 43.92719, 4.80930. Le bouton Itinéraire de cette page ouvre la navigation."
+        ]
+      },
+      {
+        "id": "contact",
+        "titre": "Contacter Boucherie Le 134",
+        "paragraphes": [
+          "Aucun numéro de téléphone n'est déclaré sur la fiche Google de l'établissement : le contact se fait sur place, aux horaires indiqués."
+        ]
+      },
+      {
+        "id": "avis",
+        "titre": "La réputation de Boucherie Le 134",
+        "paragraphes": [
+          "Note de 3,7 sur 5 pour 41 avis Google au relevé du 22 novembre 2026. Les avis les plus parlants sont compilés ci-dessous, avec un lien vers la fiche d'origine."
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "q": "Quels sont les horaires de Boucherie Le 134 ?",
+        "r": "Au relevé du 22 novembre 2026, Boucherie Le 134 était ouvert tous les jours sauf le lundi. Dans le détail — lundi : fermé ; mardi : de 11 h 01 à 22 h ; mercredi : de 11 h à 22 h ; jeudi : de 11 h à 22 h ; vendredi : de 11 h à 22 h 30 ; samedi : de 11 h à 22 h 30 ; dimanche : de 11 h à 22 h. Ces horaires peuvent changer : un appel préalable reste conseillé."
+      },
+      {
+        "q": "Boucherie Le 134 est-il ouvert le dimanche ?",
+        "r": "Oui : le dimanche, Boucherie Le 134 est ouvert de 11 h à 22 h (horaires relevés le 22 novembre 2026)."
+      },
+      {
+        "q": "Où se trouve Boucherie Le 134 ?",
+        "r": "Boucherie Le 134 se trouve 84000 Avignon, France. Un lien d'itinéraire est disponible sur cette page."
+      },
+      {
+        "q": "Boucherie Le 134 est-il accessible aux personnes à mobilité réduite ?",
+        "r": "La fiche Google de l'établissement mentionne : « Entrée accessible en fauteuil roulant ». Cette information est déclarative ; en cas de doute, vérifiez par téléphone."
+      }
+    ],
+    "genere_le": "2026-11-22"
+  },
+  "statut_google": "OPERATIONAL",
+  "audience": {
+    "clics": 0,
+    "impressions": 0,
+    "position": null,
+    "fenetreJours": 90,
+    "clicsRecents": 0,
+    "fenetreRecenteJours": 28,
+    "source": "search-console",
+    "date": "2026-11-22"
+  }
+}

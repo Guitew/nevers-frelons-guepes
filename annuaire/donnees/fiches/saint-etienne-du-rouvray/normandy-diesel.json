@@ -1,0 +1,277 @@
+{
+  "id": "ChIJV50vsQ3f4EcRpEM5ZqStLA0",
+  "slug": "normandy-diesel",
+  "nom": "Normandy Diesel",
+  "categorie": "garages-automobile",
+  "categorie_gmb": "Concessionnaire de poids lourds",
+  "type_principal": "truck_dealer",
+  "types": [
+    "truck_dealer",
+    "car_dealer",
+    "car_repair",
+    "store",
+    "point_of_interest",
+    "service",
+    "establishment"
+  ],
+  "ville": "Saint-Étienne-du-Rouvray",
+  "ville_slug": "saint-etienne-du-rouvray",
+  "adresse": {
+    "rue": "Boulevard Lénine",
+    "code_postal": "76800",
+    "departement": "76",
+    "region": "Normandie",
+    "pays": "France",
+    "complete": "Bd Lénine, 76800 Saint-Étienne-du-Rouvray"
+  },
+  "telephone": "02 32 91 98 98",
+  "geo": {
+    "latitude": 49.393673199999995,
+    "longitude": 1.1125395
+  },
+  "note": 4,
+  "avis": 179,
+  "horaires": [
+    {
+      "jour": 0,
+      "ferme": false,
+      "creneaux": [
+        [
+          "07:00",
+          "19:00"
+        ]
+      ]
+    },
+    {
+      "jour": 1,
+      "ferme": false,
+      "creneaux": [
+        [
+          "07:00",
+          "19:00"
+        ]
+      ]
+    },
+    {
+      "jour": 2,
+      "ferme": false,
+      "creneaux": [
+        [
+          "07:00",
+          "19:00"
+        ]
+      ]
+    },
+    {
+      "jour": 3,
+      "ferme": false,
+      "creneaux": [
+        [
+          "07:00",
+          "19:00"
+        ]
+      ]
+    },
+    {
+      "jour": 4,
+      "ferme": false,
+      "creneaux": [
+        [
+          "07:00",
+          "19:00"
+        ]
+      ]
+    },
+    {
+      "jour": 5,
+      "ferme": false,
+      "creneaux": [
+        [
+          "08:00",
+          "12:00"
+        ]
+      ]
+    },
+    {
+      "jour": 6,
+      "ferme": true,
+      "creneaux": []
+    }
+  ],
+  "attributs": [
+    "Entrée accessible en fauteuil roulant",
+    "Parking accessible en fauteuil roulant"
+  ],
+  "lien_google": "https://maps.google.com/?cid=949324543069602724&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
+  "site_web_gmb": null,
+  "statut": "publiee",
+  "backlink": {
+    "etat": "absent",
+    "premiere_detection": null,
+    "derniere_detection": null,
+    "derniere_verification": "2026-11-22T13:17:07.875Z",
+    "echecs": 1,
+    "url_detectee": null
+  },
+  "suggestion": {
+    "etat": "en-attente",
+    "date_soumission": null,
+    "tentatives": 0,
+    "date_email": "2026-11-22"
+  },
+  "retrait": null,
+  "dates": {
+    "collecte": "2026-11-22",
+    "publication": "2026-11-22",
+    "maj": "2026-11-22"
+  },
+  "source": "google-places",
+  "avis_detail": {
+    "releve": "2026-11-22",
+    "liste": [
+      {
+        "note": 5,
+        "texte": "Excellente expérience et super service sans RDV suite problème capteur pression pneu sur mon VITO\nHôtesse d’accueil serviable et souriante 🤩\nRéceptionnaire d’atelier qui me trouve la solution dans un délai record alors qu’il ne semblait vraiment pas s’ennuyer 😅\nTechnicien opérant aussitôt pour le diag 💪\nTarif très abordable avec petite remise accordée par le magasinier 👌 (et merci pour la gestion du stock ✅)\nUn 10/10 bien mérité pour l’ensemble de ces collaborateurs vraiment au top 👍👍👍",
+        "langue": "fr",
+        "date": "2026-09-22",
+        "auteur": "M B",
+        "auteur_lien": "https://www.google.com/maps/contrib/111586306756182009324/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25OUFgwNURkR001YldJd09VUnlOVVpyTW5rdFZYYxAB!2m1!1s0x47e0df0db12f9d57:0xd2cada4663943a4"
+      },
+      {
+        "note": 5,
+        "texte": "Un grand merci à toute l'équipe de Normandie Diesel !\nHier, je suis tombé en panne avec mon camping-car à cause d'une perte de puissance. Après les avoir contactés, ils m'ont proposé un rendez-vous aujourd'hui à 9 h, ce qui était vraiment inespéré.\nIls ont rapidement trouvé l'origine de la panne et effectué la réparation. Grâce à leur professionnalisme, je peux reprendre la route et continuer mes vacances sereinement.\nEncore un immense merci à toute l'équipe pour leur réactivité, leur efficacité et leur accueil. Je recommande sans hésiter !",
+        "langue": "fr",
+        "date": "2026-08-04",
+        "auteur": "Laurent Lafosse",
+        "auteur_lien": "https://www.google.com/maps/contrib/108312996559460183784/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2t4d1ZtYzRjamhoYW5VNWRESmFZbTlDV1dOZlFsRRAB!2m1!1s0x47e0df0db12f9d57:0xd2cada4663943a4"
+      },
+      {
+        "note": 1,
+        "texte": "Si vous êtes transporteur.  A fuir . Mercedes 1843 en panne circuit Ad bleu. Pas le temps de regarder.  Ils me semble bon qu'à vendre des Vl",
+        "langue": "fr",
+        "date": "2026-07-15",
+        "auteur": "franck ozou",
+        "auteur_lien": "https://www.google.com/maps/contrib/114798970103668977756/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2tob05tOVplVXhTZUROV2FUSnZiMFpCUVROaVQxRRAB!2m1!1s0x47e0df0db12f9d57:0xd2cada4663943a4"
+      },
+      {
+        "note": 4,
+        "texte": "Rendez-vous avec mr GUERBETTE alexis commercial mercedes 1er contact au top, cependant je n'ai pas fait affaire avec lui du au prix beaucoup trop élevé chez mercedes.\nPourtant fidèle à cette marque, mais là je suis parti à la concurrence et surtout un véhicule comparable.\nL'étoile en moins est juste pour le prix.",
+        "langue": "fr",
+        "date": "2026-04-26",
+        "auteur": "Guillaume Eliot",
+        "auteur_lien": "https://www.google.com/maps/contrib/100485962373301533073/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT204elJVeGlSRXg0VmpWUFVVSTVOblJ1U214YU5tYxAB!2m1!1s0x47e0df0db12f9d57:0xd2cada4663943a4"
+      },
+      {
+        "note": 5,
+        "texte": "Nous avons été pris en urgence pour notre camping car Mercedes qui avait un capteur défaillant.\nEquipe réactive et très  professionnelle en plus d'être acceuillante et aimable.\nMerci à tous.",
+        "langue": "fr",
+        "date": "2026-04-08",
+        "auteur": "Pascale Vassout",
+        "auteur_lien": "https://www.google.com/maps/contrib/114698292324448940970/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2tKck1GVkNURXRCY1RWcWMxOURka2hSVTNGWmJWRRAB!2m1!1s0x47e0df0db12f9d57:0xd2cada4663943a4"
+      }
+    ]
+  },
+  "services": {
+    "releve": "2026-11-22",
+    "options": {
+      "delivery": true
+    },
+    "paiement": [
+      "carte bancaire",
+      "carte de débit",
+      "paiement sans contact"
+    ],
+    "parking": []
+  },
+  "redaction": {
+    "version": 2,
+    "titre": "Normandy Diesel — Garage et automobile à Saint-Étienne-du-Rouvray",
+    "meta_titre": "Normandy Diesel à Saint-Étienne-du-Rouvray : horaires, avis",
+    "meta_description": "Normandy Diesel, garage et automobile à Saint-Étienne-du-Rouvray : horaires d'ouverture, note Google 4/5 (179 avis), téléphone, adresse et itinéraire.",
+    "chapo": "Normandy Diesel est un garage et automobile au Boulevard Lénine, à Saint-Étienne-du-Rouvray. Ouvert tous les jours sauf le dimanche au relevé du 22 novembre 2026. Téléphone : 02 32 91 98 98. Note Google : 4 sur 5 pour 179 avis.",
+    "sections": [
+      {
+        "id": "presentation",
+        "titre": "Normandy Diesel en quelques mots",
+        "paragraphes": [
+          "Sur Google, l'établissement est classé « Concessionnaire de poids lourds », dans notre rubrique Garage et automobile.",
+          "D'après le relevé du 22 novembre 2026, l'établissement est ouvert tous les jours sauf le dimanche. Le détail jour par jour figure plus bas."
+        ]
+      },
+      {
+        "id": "prestations",
+        "titre": "Services et équipements de Normandy Diesel",
+        "paragraphes": [
+          "Proposé : livraison.",
+          "Moyens de paiement déclarés : carte bancaire, carte de débit et paiement sans contact.",
+          "Ces indications sont déclarées par l'établissement sur sa fiche Google (relevé du 22 novembre 2026)."
+        ]
+      },
+      {
+        "id": "acces",
+        "titre": "Adresse et accès",
+        "paragraphes": [
+          "L'établissement est situé au Boulevard Lénine, 76800 Saint-Étienne-du-Rouvray.",
+          "Coordonnées GPS : 49.39367, 1.11254. Le bouton Itinéraire de cette page ouvre la navigation."
+        ]
+      },
+      {
+        "id": "contact",
+        "titre": "Contacter Normandy Diesel",
+        "paragraphes": [
+          "Le contact se fait par téléphone au 02 32 91 98 98, ou directement sur place aux horaires d'ouverture."
+        ]
+      },
+      {
+        "id": "avis",
+        "titre": "La réputation de Normandy Diesel",
+        "paragraphes": [
+          "Note de 4 sur 5 pour 179 avis Google au relevé du 22 novembre 2026. Les avis les plus parlants sont compilés ci-dessous, avec un lien vers la fiche d'origine."
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "q": "Quels sont les horaires de Normandy Diesel ?",
+        "r": "Au relevé du 22 novembre 2026, Normandy Diesel était ouvert tous les jours sauf le dimanche. Dans le détail — lundi : de 7 h à 19 h ; mardi : de 7 h à 19 h ; mercredi : de 7 h à 19 h ; jeudi : de 7 h à 19 h ; vendredi : de 7 h à 19 h ; samedi : de 8 h à 12 h ; dimanche : fermé. Ces horaires peuvent changer : un appel préalable reste conseillé."
+      },
+      {
+        "q": "Normandy Diesel est-il ouvert le dimanche ?",
+        "r": "Non : d'après les horaires relevés le 22 novembre 2026, Normandy Diesel est fermé le dimanche."
+      },
+      {
+        "q": "Où se trouve Normandy Diesel ?",
+        "r": "Normandy Diesel se trouve Bd Lénine, 76800 Saint-Étienne-du-Rouvray. Un lien d'itinéraire est disponible sur cette page."
+      },
+      {
+        "q": "Comment contacter Normandy Diesel ?",
+        "r": "Par téléphone au 02 32 91 98 98, ou directement sur place aux heures d'ouverture."
+      },
+      {
+        "q": "Normandy Diesel propose-t-il la vente à emporter ou la livraison ?",
+        "r": "D'après sa fiche Google (relevé du 22 novembre 2026) — livraison : oui."
+      },
+      {
+        "q": "Normandy Diesel est-il accessible aux personnes à mobilité réduite ?",
+        "r": "La fiche Google de l'établissement mentionne : « Entrée accessible en fauteuil roulant ». Cette information est déclarative ; en cas de doute, vérifiez par téléphone."
+      }
+    ],
+    "genere_le": "2026-11-22"
+  },
+  "statut_google": "OPERATIONAL",
+  "audience": {
+    "clics": 0,
+    "impressions": 0,
+    "position": null,
+    "fenetreJours": 90,
+    "clicsRecents": 0,
+    "fenetreRecenteJours": 28,
+    "source": "search-console",
+    "date": "2026-11-22"
+  }
+}
