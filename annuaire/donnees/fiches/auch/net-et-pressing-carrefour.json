@@ -1,0 +1,267 @@
+{
+  "id": "ChIJobBhRDadqRIRW9FjJ3BB3KM",
+  "slug": "net-et-pressing-carrefour",
+  "nom": "Net et Pressing Carrefour",
+  "categorie": "nettoyage-hygiene",
+  "categorie_gmb": "Blanchisserie",
+  "type_principal": "laundry",
+  "types": [
+    "laundry",
+    "point_of_interest",
+    "service",
+    "establishment"
+  ],
+  "ville": "Auch",
+  "ville_slug": "auch",
+  "adresse": {
+    "rue": "Rue du Corps Franc Pommies",
+    "code_postal": "32000",
+    "departement": "32",
+    "region": "Occitanie",
+    "pays": "France",
+    "complete": "Carrefour, Rue du Corps Franc Pommies, 32000 Auch"
+  },
+  "telephone": "05 62 05 97 81",
+  "geo": {
+    "latitude": 43.629698499999996,
+    "longitude": 0.5809213
+  },
+  "note": 4.5,
+  "avis": 23,
+  "horaires": [
+    {
+      "jour": 0,
+      "ferme": false,
+      "creneaux": [
+        [
+          "09:15",
+          "19:00"
+        ]
+      ]
+    },
+    {
+      "jour": 1,
+      "ferme": false,
+      "creneaux": [
+        [
+          "09:15",
+          "19:00"
+        ]
+      ]
+    },
+    {
+      "jour": 2,
+      "ferme": false,
+      "creneaux": [
+        [
+          "09:15",
+          "19:00"
+        ]
+      ]
+    },
+    {
+      "jour": 3,
+      "ferme": false,
+      "creneaux": [
+        [
+          "09:15",
+          "19:00"
+        ]
+      ]
+    },
+    {
+      "jour": 4,
+      "ferme": false,
+      "creneaux": [
+        [
+          "09:15",
+          "19:00"
+        ]
+      ]
+    },
+    {
+      "jour": 5,
+      "ferme": false,
+      "creneaux": [
+        [
+          "09:15",
+          "13:00"
+        ]
+      ]
+    },
+    {
+      "jour": 6,
+      "ferme": true,
+      "creneaux": []
+    }
+  ],
+  "attributs": [
+    "Entrée accessible en fauteuil roulant",
+    "Parking accessible en fauteuil roulant"
+  ],
+  "lien_google": "https://maps.google.com/?cid=11807384273011593563&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
+  "site_web_gmb": null,
+  "statut": "publiee",
+  "backlink": {
+    "etat": "absent",
+    "premiere_detection": null,
+    "derniere_detection": null,
+    "derniere_verification": "2026-11-23T15:54:47.675Z",
+    "echecs": 1,
+    "url_detectee": null
+  },
+  "suggestion": {
+    "etat": "en-attente",
+    "date_soumission": null,
+    "tentatives": 0,
+    "date_email": "2026-11-23"
+  },
+  "retrait": null,
+  "dates": {
+    "collecte": "2026-11-23",
+    "publication": "2026-11-23",
+    "maj": "2026-11-23"
+  },
+  "source": "google-places",
+  "avis_detail": {
+    "releve": "2026-11-23",
+    "liste": [
+      {
+        "note": 5,
+        "texte": "J’ai déposé une doudoune qui était vraiment très tachée et je l’ai récupérée comme neuve ! Un résultat juste incroyable, je suis vraiment ravie. L’équipe est très professionnelle, accueillante et surtout hyper rapide. Le tout pour un prix vraiment raisonnable. Franchement, rien à redire, un service au top du début à la fin ! Je recommande à 100 % !",
+        "langue": "fr",
+        "date": "2026-11-16",
+        "auteur": "Agatha Dany",
+        "auteur_lien": "https://www.google.com/maps/contrib/114992161785397466829/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT21Wa1N6QXhTMGR1VlVKaFMycHRkM1JJTVZSNldFRRAB!2m1!1s0x12a99d364461b0a1:0xa3dc41702763d15b"
+      },
+      {
+        "note": 5,
+        "texte": "Sandrine et Sophie sont adorables, toujours accueillantes et de bon conseil. Le service est au top, le travail soigné et le sourire toujours au rendez-vous.\n\nJe recommande sans hésiter ! 😊",
+        "langue": "fr",
+        "date": "2026-10-19",
+        "auteur": "Daniel MOREIRA FERREIRA",
+        "auteur_lien": "https://www.google.com/maps/contrib/100474354543812981675/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2taRFJEUklUaTFXUjNKWWFUZFpaM1EzY2xaSWVVRRAB!2m1!1s0x12a99d364461b0a1:0xa3dc41702763d15b"
+      },
+      {
+        "note": 5,
+        "texte": "Équipe très sympathique et compétente. Un accueil chaleureux toujours avec le sourire. Je recommande.",
+        "langue": "fr",
+        "date": "2026-10-06",
+        "auteur": "Jean-Pierre SAULNIER",
+        "auteur_lien": "https://www.google.com/maps/contrib/115737603099733604384/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xGTWFXdDBRVk16Y25JNVEydHhUak13Wm1kalVXYxAB!2m1!1s0x12a99d364461b0a1:0xa3dc41702763d15b"
+      },
+      {
+        "note": 5,
+        "texte": "Très bon pressing. J'y vais depuis plusieurs années régulièrement et je n'ai jamais été déçue. Le rendu est toujours impeccable, les délais sont satisfaisants et les personnes qui tiennent ce pressing sont toujours souriantes et sympathiques. Merci à elles.",
+        "langue": "fr",
+        "date": "2026-09-18",
+        "auteur": "Alcyone",
+        "auteur_lien": "https://www.google.com/maps/contrib/110040590032434531513/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2poVGExcDBTMGRtU2xWVFJuSXRNMFJDT0VkdGJFRRAB!2m1!1s0x12a99d364461b0a1:0xa3dc41702763d15b"
+      },
+      {
+        "note": 5,
+        "texte": "Mes costumes et mes chemises tachees que je pensais irrécupérables sont revenus propres et à l'état neuf . Les femmes qui tiennent ce pressing sont très professionnelles, à l'écoute et savent apporter les bonnes réponses.  Je recommande vivement pour les tenues de mariage ou d'événements divers pour un nettoyage biologique et respectueux de l'environnement.  Bravo pour votre accueil,  écoute et profionnalisme.",
+        "langue": "fr",
+        "date": "2026-09-14",
+        "auteur": "Chico Seck",
+        "auteur_lien": "https://www.google.com/maps/contrib/115807284704472140169/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2pCVVZFTXdiMXBCWDFoQ1p6QTBXRFF5V2tsVVgwRRAB!2m1!1s0x12a99d364461b0a1:0xa3dc41702763d15b"
+      }
+    ]
+  },
+  "services": {
+    "releve": "2026-11-23",
+    "options": {},
+    "paiement": [
+      "carte bancaire",
+      "carte de débit",
+      "paiement sans contact"
+    ],
+    "parking": []
+  },
+  "redaction": {
+    "version": 2,
+    "titre": "Net et Pressing Carrefour — Nettoyage et hygiène à Auch",
+    "meta_titre": "Net et Pressing Carrefour à Auch : horaires, avis, téléphone",
+    "meta_description": "Net et Pressing Carrefour, nettoyage et hygiène à Auch : horaires d'ouverture, note Google 4,5/5 (23 avis), téléphone, adresse et itinéraire.",
+    "chapo": "Net et Pressing Carrefour est un nettoyage et hygiène au Rue du Corps Franc Pommies, à Auch. Ouvert tous les jours sauf le dimanche au relevé du 23 novembre 2026. Téléphone : 05 62 05 97 81. Note Google : 4,5 sur 5 pour 23 avis.",
+    "sections": [
+      {
+        "id": "presentation",
+        "titre": "Net et Pressing Carrefour en quelques mots",
+        "paragraphes": [
+          "Sur Google, l'établissement est classé « Blanchisserie », dans notre rubrique Nettoyage et hygiène.",
+          "D'après le relevé du 23 novembre 2026, l'établissement est ouvert tous les jours sauf le dimanche. Le détail jour par jour figure plus bas."
+        ]
+      },
+      {
+        "id": "prestations",
+        "titre": "Services et équipements de Net et Pressing Carrefour",
+        "paragraphes": [
+          "Moyens de paiement déclarés : carte bancaire, carte de débit et paiement sans contact.",
+          "Ces indications sont déclarées par l'établissement sur sa fiche Google (relevé du 23 novembre 2026)."
+        ]
+      },
+      {
+        "id": "acces",
+        "titre": "Adresse et accès",
+        "paragraphes": [
+          "L'établissement est situé au Rue du Corps Franc Pommies, 32000 Auch.",
+          "Coordonnées GPS : 43.62970, 0.58092. Le bouton Itinéraire de cette page ouvre la navigation."
+        ]
+      },
+      {
+        "id": "contact",
+        "titre": "Contacter Net et Pressing Carrefour",
+        "paragraphes": [
+          "Le contact se fait par téléphone au 05 62 05 97 81, ou directement sur place aux horaires d'ouverture."
+        ]
+      },
+      {
+        "id": "avis",
+        "titre": "La réputation de Net et Pressing Carrefour",
+        "paragraphes": [
+          "Note de 4,5 sur 5 pour 23 avis Google au relevé du 23 novembre 2026. Les avis les plus parlants sont compilés ci-dessous, avec un lien vers la fiche d'origine."
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "q": "Quels sont les horaires de Net et Pressing Carrefour ?",
+        "r": "Au relevé du 23 novembre 2026, Net et Pressing Carrefour était ouvert tous les jours sauf le dimanche. Dans le détail — lundi : de 9 h 15 à 19 h ; mardi : de 9 h 15 à 19 h ; mercredi : de 9 h 15 à 19 h ; jeudi : de 9 h 15 à 19 h ; vendredi : de 9 h 15 à 19 h ; samedi : de 9 h 15 à 13 h ; dimanche : fermé. Ces horaires peuvent changer : un appel préalable reste conseillé."
+      },
+      {
+        "q": "Net et Pressing Carrefour est-il ouvert le dimanche ?",
+        "r": "Non : d'après les horaires relevés le 23 novembre 2026, Net et Pressing Carrefour est fermé le dimanche."
+      },
+      {
+        "q": "Où se trouve Net et Pressing Carrefour ?",
+        "r": "Net et Pressing Carrefour se trouve Carrefour, Rue du Corps Franc Pommies, 32000 Auch. Un lien d'itinéraire est disponible sur cette page."
+      },
+      {
+        "q": "Comment contacter Net et Pressing Carrefour ?",
+        "r": "Par téléphone au 05 62 05 97 81, ou directement sur place aux heures d'ouverture."
+      },
+      {
+        "q": "Net et Pressing Carrefour est-il accessible aux personnes à mobilité réduite ?",
+        "r": "La fiche Google de l'établissement mentionne : « Entrée accessible en fauteuil roulant ». Cette information est déclarative ; en cas de doute, vérifiez par téléphone."
+      }
+    ],
+    "genere_le": "2026-11-23"
+  },
+  "statut_google": "OPERATIONAL",
+  "audience": {
+    "clics": 0,
+    "impressions": 0,
+    "position": null,
+    "fenetreJours": 90,
+    "clicsRecents": 0,
+    "fenetreRecenteJours": 28,
+    "source": "search-console",
+    "date": "2026-11-23"
+  }
+}

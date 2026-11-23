@@ -1,0 +1,296 @@
+{
+  "id": "ChIJK6e7AulVrRIRuS5a51wOssU",
+  "slug": "boulangerie-patisserie-maison-mas-banette",
+  "nom": "Boulangerie pâtisserie Maison Mas & Banette",
+  "categorie": "boulangeries-patisseries",
+  "categorie_gmb": "Boulangerie",
+  "type_principal": "bakery",
+  "types": [
+    "bakery",
+    "pastry_shop",
+    "dessert_shop",
+    "sandwich_shop",
+    "confectionery",
+    "food_store",
+    "restaurant",
+    "food",
+    "point_of_interest",
+    "store",
+    "establishment"
+  ],
+  "ville": "Aurillac",
+  "ville_slug": "aurillac",
+  "adresse": {
+    "rue": "84 Avenue du Général Leclerc",
+    "code_postal": "15000",
+    "departement": "15",
+    "region": "Auvergne-Rhône-Alpes",
+    "pays": "France",
+    "complete": "84 Av. du Général Leclerc, 15000 Aurillac"
+  },
+  "telephone": "04 71 43 71 17",
+  "geo": {
+    "latitude": 44.9108371,
+    "longitude": 2.4438595
+  },
+  "note": 4.3,
+  "avis": 260,
+  "horaires": [
+    {
+      "jour": 0,
+      "ferme": false,
+      "creneaux": [
+        [
+          "06:30",
+          "19:00"
+        ]
+      ]
+    },
+    {
+      "jour": 1,
+      "ferme": true,
+      "creneaux": []
+    },
+    {
+      "jour": 2,
+      "ferme": false,
+      "creneaux": [
+        [
+          "06:30",
+          "19:00"
+        ]
+      ]
+    },
+    {
+      "jour": 3,
+      "ferme": false,
+      "creneaux": [
+        [
+          "06:30",
+          "19:00"
+        ]
+      ]
+    },
+    {
+      "jour": 4,
+      "ferme": false,
+      "creneaux": [
+        [
+          "06:30",
+          "19:00"
+        ]
+      ]
+    },
+    {
+      "jour": 5,
+      "ferme": false,
+      "creneaux": [
+        [
+          "06:30",
+          "19:00"
+        ]
+      ]
+    },
+    {
+      "jour": 6,
+      "ferme": false,
+      "creneaux": [
+        [
+          "06:30",
+          "19:00"
+        ]
+      ]
+    }
+  ],
+  "attributs": [
+    "Entrée accessible en fauteuil roulant",
+    "Parking accessible en fauteuil roulant"
+  ],
+  "lien_google": "https://maps.google.com/?cid=14245464363507527353&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
+  "site_web_gmb": null,
+  "statut": "publiee",
+  "backlink": {
+    "etat": "absent",
+    "premiere_detection": null,
+    "derniere_detection": null,
+    "derniere_verification": "2026-11-23T15:54:47.675Z",
+    "echecs": 1,
+    "url_detectee": null
+  },
+  "suggestion": {
+    "etat": "en-attente",
+    "date_soumission": null,
+    "tentatives": 0,
+    "date_email": "2026-11-23"
+  },
+  "retrait": null,
+  "dates": {
+    "collecte": "2026-11-23",
+    "publication": "2026-11-23",
+    "maj": "2026-11-23"
+  },
+  "source": "google-places",
+  "avis_detail": {
+    "releve": "2026-11-23",
+    "liste": [
+      {
+        "note": 5,
+        "texte": "Que ce soit pour les sandwichs, le pain, les desserts... Tout est excellent et bon accueil",
+        "langue": "fr",
+        "date": "2026-10-15",
+        "auteur": "mons yoann",
+        "auteur_lien": "https://www.google.com/maps/contrib/101649222736030635698/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2kxWk9HOVViWEo2Y1hRMlZWcElhemR0YzNaaE0xRRAB!2m1!1s0x12ad55e902bba72b:0xc5b20e5ce75a2eb9"
+      },
+      {
+        "note": 5,
+        "texte": "Nous avons commander des gâteaux et des plateaux quiches et pizzas pour un anniversaire.  Les gâteaux ont fait fureur !!! Quiches et pizzas délicieuses !!! Personnel très serviable et accueillant !!! Qualité  et quantité ++++  gâteaux très bons !!! Forêt noire à tomber par terre !!! Nous recommandons cette boulangerie !!!! Ils nous reverrons pour les anniversaires à venir !!!! Vous voulez du bon pains et de bons gâteaux c est chez eux qu il faut aller !!",
+        "langue": "fr",
+        "date": "2026-03-28",
+        "auteur": "Montarnal Patricia",
+        "auteur_lien": "https://www.google.com/maps/contrib/117833810672538317309/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT210WU0zTlJiVFJVT0VoMWQwOTFTa2RQU2t0WFNtYxAB!2m1!1s0x12ad55e902bba72b:0xc5b20e5ce75a2eb9"
+      },
+      {
+        "note": 5,
+        "texte": "Pour moi, c'est la meilleure boulangerie d'Aurillac pour le pain traditionnel ! La baguette tradition est tout simplement excellente, avec une croûte bien croustillante et une mie parfaite. Les pâtisseries sont également délicieuses et l'accueil est toujours souriant et chaleureux. Une adresse authentique que je recommande sans hésitation à tous les amateurs de bon pain.",
+        "langue": "fr",
+        "date": "2026-03-25",
+        "auteur": "Mohammad Tlas",
+        "auteur_lien": "https://www.google.com/maps/contrib/102656731706679648551/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xsNlQzQnhTM1J0WVVWWFIwOUpkV3BzYlROcldYYxAB!2m1!1s0x12ad55e902bba72b:0xc5b20e5ce75a2eb9"
+      },
+      {
+        "note": 3,
+        "texte": "Bons produits, service rapide\nBoulangerie inaccessible en période de pointe pour les personnes PMR. En effet la seule place est trop régulièrement prise par des personnes valides.\nUn effort a été fait car aujourd'hui il n'y avait pas de palette posée devant le panneau signalant la spécificité de la place.",
+        "langue": "fr",
+        "date": "2025-12-26",
+        "auteur": "Seb Rigal",
+        "auteur_lien": "https://www.google.com/maps/contrib/103174432265174235943/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25GUVNrc3hTMlJHTVdNNGQxbDBUek5qY1Y5V1ZsRRAB!2m1!1s0x12ad55e902bba72b:0xc5b20e5ce75a2eb9"
+      },
+      {
+        "note": 5,
+        "texte": "Franchement je trouve çà super bon, le prix très correct plusieurs formules proposés...\nBémol oui pas de toilettes dommage...\nJe recommande tout de même.",
+        "langue": "fr",
+        "date": "2024-11-11",
+        "auteur": "Agnes B",
+        "auteur_lien": "https://www.google.com/maps/contrib/106389145190373639616/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUQzcU5mbC1RRRAB!2m1!1s0x12ad55e902bba72b:0xc5b20e5ce75a2eb9"
+      }
+    ]
+  },
+  "services": {
+    "releve": "2026-11-23",
+    "prix": "PRICE_LEVEL_INEXPENSIVE",
+    "options": {
+      "takeout": true,
+      "delivery": false,
+      "servesBreakfast": true,
+      "servesCoffee": true,
+      "restroom": false
+    },
+    "paiement": [
+      "carte bancaire",
+      "carte de débit",
+      "paiement sans contact"
+    ],
+    "parking": [
+      "parking gratuit",
+      "stationnement gratuit dans la rue"
+    ]
+  },
+  "redaction": {
+    "version": 2,
+    "titre": "Boulangerie pâtisserie Maison Mas & Banette — Boulangerie-pâtisserie à Aurillac",
+    "meta_titre": "Boulangerie pâtisserie Maison Mas & Banette à Aurillac",
+    "meta_description": "Boulangerie pâtisserie Maison Mas & Banette, boulangerie-pâtisserie à Aurillac : horaires d'ouverture, téléphone, adresse et itinéraire.",
+    "chapo": "Cette fiche présente Boulangerie pâtisserie Maison Mas & Banette, une boulangerie-pâtisserie au 84 Avenue du Général Leclerc, à Aurillac. Ouvert tous les jours sauf le mardi au relevé du 23 novembre 2026. Téléphone : 04 71 43 71 17. Note Google : 4,3 sur 5 pour 260 avis.",
+    "sections": [
+      {
+        "id": "presentation",
+        "titre": "Boulangerie pâtisserie Maison Mas & Banette en quelques mots",
+        "paragraphes": [
+          "Sur Google, l'établissement est classé « Boulangerie », dans notre rubrique Boulangerie-pâtisserie.",
+          "Niveau de prix indiqué sur la fiche Google : € (bon marché).",
+          "D'après le relevé du 23 novembre 2026, l'établissement est ouvert tous les jours sauf le mardi. Le détail jour par jour figure plus bas."
+        ]
+      },
+      {
+        "id": "prestations",
+        "titre": "Services et équipements de Boulangerie pâtisserie Maison Mas & Banette",
+        "paragraphes": [
+          "Proposé : à emporter, petit-déjeuner et café.",
+          "Non proposé selon la fiche Google : livraison et toilettes.",
+          "Moyens de paiement déclarés : carte bancaire, carte de débit et paiement sans contact.",
+          "Stationnement : parking gratuit et stationnement gratuit dans la rue.",
+          "Ces indications sont déclarées par l'établissement sur sa fiche Google (relevé du 23 novembre 2026)."
+        ]
+      },
+      {
+        "id": "acces",
+        "titre": "Adresse et accès",
+        "paragraphes": [
+          "L'établissement est situé au 84 Avenue du Général Leclerc, 15000 Aurillac.",
+          "Coordonnées GPS : 44.91084, 2.44386. Le bouton Itinéraire de cette page ouvre la navigation."
+        ]
+      },
+      {
+        "id": "contact",
+        "titre": "Contacter Boulangerie pâtisserie Maison Mas & Banette",
+        "paragraphes": [
+          "Le contact se fait par téléphone au 04 71 43 71 17, ou directement sur place aux horaires d'ouverture."
+        ]
+      },
+      {
+        "id": "avis",
+        "titre": "La réputation de Boulangerie pâtisserie Maison Mas & Banette",
+        "paragraphes": [
+          "Note de 4,3 sur 5 pour 260 avis Google au relevé du 23 novembre 2026. Les avis les plus parlants sont compilés ci-dessous, avec un lien vers la fiche d'origine."
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "q": "Quels sont les horaires de Boulangerie pâtisserie Maison Mas & Banette ?",
+        "r": "Au relevé du 23 novembre 2026, Boulangerie pâtisserie Maison Mas & Banette était ouvert tous les jours sauf le mardi. Dans le détail — lundi : de 6 h 30 à 19 h ; mardi : fermé ; mercredi : de 6 h 30 à 19 h ; jeudi : de 6 h 30 à 19 h ; vendredi : de 6 h 30 à 19 h ; samedi : de 6 h 30 à 19 h ; dimanche : de 6 h 30 à 19 h. Ces horaires peuvent changer : un appel préalable reste conseillé."
+      },
+      {
+        "q": "Boulangerie pâtisserie Maison Mas & Banette est-il ouvert le dimanche ?",
+        "r": "Oui : le dimanche, Boulangerie pâtisserie Maison Mas & Banette est ouvert de 6 h 30 à 19 h (horaires relevés le 23 novembre 2026)."
+      },
+      {
+        "q": "Où se trouve Boulangerie pâtisserie Maison Mas & Banette ?",
+        "r": "Boulangerie pâtisserie Maison Mas & Banette se trouve 84 Av. du Général Leclerc, 15000 Aurillac. Un lien d'itinéraire est disponible sur cette page."
+      },
+      {
+        "q": "Comment contacter Boulangerie pâtisserie Maison Mas & Banette ?",
+        "r": "Par téléphone au 04 71 43 71 17, ou directement sur place aux heures d'ouverture."
+      },
+      {
+        "q": "Boulangerie pâtisserie Maison Mas & Banette propose-t-il la vente à emporter ou la livraison ?",
+        "r": "D'après sa fiche Google (relevé du 23 novembre 2026) — vente à emporter : oui ; livraison : non."
+      },
+      {
+        "q": "Quel est le niveau de prix de Boulangerie pâtisserie Maison Mas & Banette ?",
+        "r": "Google classe Boulangerie pâtisserie Maison Mas & Banette au niveau de prix € (bon marché), sur une échelle de € à €€€€ établie à partir des avis clients."
+      },
+      {
+        "q": "Boulangerie pâtisserie Maison Mas & Banette est-il accessible aux personnes à mobilité réduite ?",
+        "r": "La fiche Google de l'établissement mentionne : « Entrée accessible en fauteuil roulant ». Cette information est déclarative ; en cas de doute, vérifiez par téléphone."
+      }
+    ],
+    "genere_le": "2026-11-23"
+  },
+  "statut_google": "OPERATIONAL",
+  "audience": {
+    "clics": 0,
+    "impressions": 0,
+    "position": null,
+    "fenetreJours": 90,
+    "clicsRecents": 0,
+    "fenetreRecenteJours": 28,
+    "source": "search-console",
+    "date": "2026-11-23"
+  }
+}

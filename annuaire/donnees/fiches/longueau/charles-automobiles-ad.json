@@ -1,0 +1,292 @@
+{
+  "id": "ChIJ6a8y0fGF50cRsIR4yffeXbk",
+  "slug": "charles-automobiles-ad",
+  "nom": "Charles Automobiles ad",
+  "categorie": "garages-automobile",
+  "categorie_gmb": "Garage automobile",
+  "type_principal": "car_repair",
+  "types": [
+    "car_repair",
+    "point_of_interest",
+    "service",
+    "establishment"
+  ],
+  "ville": "Longueau",
+  "ville_slug": "longueau",
+  "adresse": {
+    "rue": "113 Avenue Henri Barbusse",
+    "code_postal": "80330",
+    "departement": "80",
+    "region": "Hauts-de-France",
+    "pays": "France",
+    "complete": "113 Av. Henri Barbusse, 80330 Longueau"
+  },
+  "telephone": "03 22 47 30 98",
+  "geo": {
+    "latitude": 49.8708696,
+    "longitude": 2.3574147
+  },
+  "note": 4.9,
+  "avis": 993,
+  "horaires": [
+    {
+      "jour": 0,
+      "ferme": false,
+      "creneaux": [
+        [
+          "08:00",
+          "12:00"
+        ],
+        [
+          "14:00",
+          "18:00"
+        ]
+      ]
+    },
+    {
+      "jour": 1,
+      "ferme": false,
+      "creneaux": [
+        [
+          "08:00",
+          "12:00"
+        ],
+        [
+          "14:00",
+          "18:00"
+        ]
+      ]
+    },
+    {
+      "jour": 2,
+      "ferme": false,
+      "creneaux": [
+        [
+          "08:00",
+          "12:00"
+        ],
+        [
+          "14:00",
+          "18:00"
+        ]
+      ]
+    },
+    {
+      "jour": 3,
+      "ferme": false,
+      "creneaux": [
+        [
+          "08:00",
+          "12:00"
+        ],
+        [
+          "14:00",
+          "18:00"
+        ]
+      ]
+    },
+    {
+      "jour": 4,
+      "ferme": false,
+      "creneaux": [
+        [
+          "08:00",
+          "12:00"
+        ],
+        [
+          "14:00",
+          "18:00"
+        ]
+      ]
+    },
+    {
+      "jour": 5,
+      "ferme": false,
+      "creneaux": [
+        [
+          "08:00",
+          "12:00"
+        ]
+      ]
+    },
+    {
+      "jour": 6,
+      "ferme": true,
+      "creneaux": []
+    }
+  ],
+  "attributs": [
+    "Entrée accessible en fauteuil roulant",
+    "Parking accessible en fauteuil roulant",
+    "Toilettes accessibles en fauteuil roulant",
+    "Places assises accessibles en fauteuil roulant"
+  ],
+  "lien_google": "https://maps.google.com/?cid=13357077225669166256&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
+  "site_web_gmb": null,
+  "statut": "publiee",
+  "backlink": {
+    "etat": "absent",
+    "premiere_detection": null,
+    "derniere_detection": null,
+    "derniere_verification": "2026-11-23T15:54:47.675Z",
+    "echecs": 1,
+    "url_detectee": null
+  },
+  "suggestion": {
+    "etat": "en-attente",
+    "date_soumission": null,
+    "tentatives": 0,
+    "date_email": "2026-11-23"
+  },
+  "retrait": null,
+  "dates": {
+    "collecte": "2026-11-23",
+    "publication": "2026-11-23",
+    "maj": "2026-11-23"
+  },
+  "source": "google-places",
+  "avis_detail": {
+    "releve": "2026-11-23",
+    "liste": [
+      {
+        "note": 5,
+        "texte": "C’est bien la première fois que je veux mettre un avis plus que positif, et que je découvre que je ne suis pas la seule à être aussi ravie de cette expérience chez Charles.\nEn effet, l’équipe est extraordinaire, ils sont tous efficaces, serviables, très sympathiques ! Il y règne vraiment une ambiance hors du commun pour un Garage ! Je recommande les yeux fermés !",
+        "langue": "fr",
+        "date": "2026-11-06",
+        "auteur": "Marie Leleu",
+        "auteur_lien": "https://www.google.com/maps/contrib/102673704589270725777/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2psNU5EQTJiRlJGWWpVNFRFRlFPR2xZYzJGMGNHYxAB!2m1!1s0x47e785f1d132afe9:0xb95ddef7c97884b0"
+      },
+      {
+        "note": 5,
+        "texte": "Très satisfaite de mon expérience chez AD !\n\nJ’ai déposé ma Peugeot 208 la semaine dernière pour le remplacement de mon pare-chocs, de la grille et de la protection du pare-chocs, à la suite d’un sinistre.\n\nLa prise en charge s’est très bien passée, les réparations ont été effectuées dans la journée et je suis pleinement satisfaite du résultat.\n\nMerci à toute l’équipe pour son accueil et son professionnalisme. Je recommande ce garage !",
+        "langue": "fr",
+        "date": "2026-11-04",
+        "auteur": "Erine BOUTURE",
+        "auteur_lien": "https://www.google.com/maps/contrib/105101923946343322207/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2tOM1l6aGFPVVZ3UlUxSmFuWjJhazlzY2pCVVkzYxAB!2m1!1s0x47e785f1d132afe9:0xb95ddef7c97884b0"
+      },
+      {
+        "note": 5,
+        "texte": "Un grand merci à ce garage pour son professionnalisme et sa réactivité ! Ma roue a été réparée très rapidement, sans rendez-vous. Un accueil au top, avec le sourire et beaucoup de gentillesse ! Ça fait vraiment plaisir de tomber sur des professionnels aussi disponibles et efficaces. Je recommande les yeux fermés ! 👏",
+        "langue": "fr",
+        "date": "2026-11-03",
+        "auteur": "Sidney Preumont",
+        "auteur_lien": "https://www.google.com/maps/contrib/113792548369101714345/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2pScGEzVTJiWGt0TFZFM1ZrcEZjV3hHTWpKcWRFRRAB!2m1!1s0x47e785f1d132afe9:0xb95ddef7c97884b0"
+      },
+      {
+        "note": 5,
+        "texte": "2 eme fois que je viens chez AD garage chez Charles automobile à Longueau et je suis toujours très agréablement surprise de l’efficacité, la rapidité et la sincérité de L’équipe, toujours disponible à l’écoute du client et très arrangeant.\nMerci à Charles et ses collègues Clément, Mattéo, Damien, l’accueil et tout les membres de l’équipe.\nJe reviendrai",
+        "langue": "fr",
+        "date": "2026-10-30",
+        "auteur": "Meg EF",
+        "auteur_lien": "https://www.google.com/maps/contrib/100976798935248015573/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2pKUWIzTTRNRTVZVG01SFNERmxRak5TYm1oM1ZGRRAB!2m1!1s0x47e785f1d132afe9:0xb95ddef7c97884b0"
+      },
+      {
+        "note": 5,
+        "texte": "Client de Charles depuis longtemps, je suis toujours aussi satisfait de la qualité du service et de l’efficacité de toute son équipe. C’est agréable de pouvoir compter sur un garage sérieux, professionnel et de confiance. Ça fait vraiment plaisir de voir qu’il existe encore des garages de cette qualité ! Je recommande sans hésitation. 👍",
+        "langue": "fr",
+        "date": "2026-10-17",
+        "auteur": "matthieu CANICIO",
+        "auteur_lien": "https://www.google.com/maps/contrib/101686949221384779383/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xrM2FFOTFYeTFmYUhacVdqUXRVVmMyU1ZWVmQwRRAB!2m1!1s0x47e785f1d132afe9:0xb95ddef7c97884b0"
+      }
+    ]
+  },
+  "services": {
+    "releve": "2026-11-23",
+    "options": {
+      "restroom": true
+    },
+    "paiement": [
+      "carte bancaire",
+      "carte de débit",
+      "paiement sans contact"
+    ],
+    "parking": []
+  },
+  "redaction": {
+    "version": 2,
+    "titre": "Charles Automobiles ad — Garage et automobile à Longueau",
+    "meta_titre": "Charles Automobiles ad à Longueau : horaires, avis",
+    "meta_description": "Charles Automobiles ad, garage et automobile à Longueau : horaires d'ouverture, note Google 4,9/5 (993 avis), téléphone, adresse et itinéraire.",
+    "chapo": "Charles Automobiles ad est un garage et automobile au 113 Avenue Henri Barbusse, à Longueau. Ouvert tous les jours sauf le dimanche au relevé du 23 novembre 2026. Téléphone : 03 22 47 30 98. Note Google : 4,9 sur 5 pour 993 avis.",
+    "sections": [
+      {
+        "id": "presentation",
+        "titre": "Charles Automobiles ad en quelques mots",
+        "paragraphes": [
+          "Sur Google, l'établissement est classé « Garage automobile », dans notre rubrique Garage et automobile.",
+          "D'après le relevé du 23 novembre 2026, l'établissement est ouvert tous les jours sauf le dimanche. Le détail jour par jour figure plus bas."
+        ]
+      },
+      {
+        "id": "prestations",
+        "titre": "Services et équipements de Charles Automobiles ad",
+        "paragraphes": [
+          "Proposé : toilettes.",
+          "Moyens de paiement déclarés : carte bancaire, carte de débit et paiement sans contact.",
+          "Ces indications sont déclarées par l'établissement sur sa fiche Google (relevé du 23 novembre 2026)."
+        ]
+      },
+      {
+        "id": "acces",
+        "titre": "Adresse et accès",
+        "paragraphes": [
+          "L'établissement est situé au 113 Avenue Henri Barbusse, 80330 Longueau.",
+          "Coordonnées GPS : 49.87087, 2.35741. Le bouton Itinéraire de cette page ouvre la navigation."
+        ]
+      },
+      {
+        "id": "contact",
+        "titre": "Contacter Charles Automobiles ad",
+        "paragraphes": [
+          "Le contact se fait par téléphone au 03 22 47 30 98, ou directement sur place aux horaires d'ouverture."
+        ]
+      },
+      {
+        "id": "avis",
+        "titre": "La réputation de Charles Automobiles ad",
+        "paragraphes": [
+          "Note de 4,9 sur 5 pour 993 avis Google au relevé du 23 novembre 2026. Les avis les plus parlants sont compilés ci-dessous, avec un lien vers la fiche d'origine."
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "q": "Quels sont les horaires de Charles Automobiles ad ?",
+        "r": "Au relevé du 23 novembre 2026, Charles Automobiles ad était ouvert tous les jours sauf le dimanche. Dans le détail — lundi : de 8 h à 12 h et de 14 h à 18 h ; mardi : de 8 h à 12 h et de 14 h à 18 h ; mercredi : de 8 h à 12 h et de 14 h à 18 h ; jeudi : de 8 h à 12 h et de 14 h à 18 h ; vendredi : de 8 h à 12 h et de 14 h à 18 h ; samedi : de 8 h à 12 h ; dimanche : fermé. Ces horaires peuvent changer : un appel préalable reste conseillé."
+      },
+      {
+        "q": "Charles Automobiles ad est-il ouvert le dimanche ?",
+        "r": "Non : d'après les horaires relevés le 23 novembre 2026, Charles Automobiles ad est fermé le dimanche."
+      },
+      {
+        "q": "Où se trouve Charles Automobiles ad ?",
+        "r": "Charles Automobiles ad se trouve 113 Av. Henri Barbusse, 80330 Longueau. Un lien d'itinéraire est disponible sur cette page."
+      },
+      {
+        "q": "Comment contacter Charles Automobiles ad ?",
+        "r": "Par téléphone au 03 22 47 30 98, ou directement sur place aux heures d'ouverture."
+      },
+      {
+        "q": "Charles Automobiles ad est-il accessible aux personnes à mobilité réduite ?",
+        "r": "La fiche Google de l'établissement mentionne : « Entrée accessible en fauteuil roulant ». Cette information est déclarative ; en cas de doute, vérifiez par téléphone."
+      }
+    ],
+    "genere_le": "2026-11-23"
+  },
+  "statut_google": "OPERATIONAL",
+  "audience": {
+    "clics": 0,
+    "impressions": 0,
+    "position": null,
+    "fenetreJours": 90,
+    "clicsRecents": 0,
+    "fenetreRecenteJours": 28,
+    "source": "search-console",
+    "date": "2026-11-23"
+  }
+}
