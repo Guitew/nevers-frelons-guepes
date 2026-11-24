@@ -1,0 +1,282 @@
+{
+  "id": "ChIJi0Mou3AN4kcRXpoMRvthcas",
+  "slug": "viveco",
+  "nom": "Viveco",
+  "categorie": "commerces-alimentation",
+  "categorie_gmb": "Supermarché",
+  "type_principal": "supermarket",
+  "types": [
+    "supermarket",
+    "grocery_store",
+    "food_store",
+    "food",
+    "point_of_interest",
+    "store",
+    "establishment"
+  ],
+  "ville": "Alençon",
+  "ville_slug": "alencon",
+  "adresse": {
+    "rue": "Place du Point du Jour",
+    "code_postal": "61000",
+    "departement": "61",
+    "region": "Normandie",
+    "pays": "France",
+    "complete": "Pl. du Point du Jour 2Pl. du, 61000 Alençon"
+  },
+  "telephone": "02 33 32 89 88",
+  "geo": {
+    "latitude": 48.435538099999995,
+    "longitude": 0.1049421
+  },
+  "note": 4.1,
+  "avis": 139,
+  "horaires": [
+    {
+      "jour": 0,
+      "ferme": false,
+      "creneaux": [
+        [
+          "08:00",
+          "21:00"
+        ]
+      ]
+    },
+    {
+      "jour": 1,
+      "ferme": false,
+      "creneaux": [
+        [
+          "08:00",
+          "21:00"
+        ]
+      ]
+    },
+    {
+      "jour": 2,
+      "ferme": false,
+      "creneaux": [
+        [
+          "08:00",
+          "21:00"
+        ]
+      ]
+    },
+    {
+      "jour": 3,
+      "ferme": false,
+      "creneaux": [
+        [
+          "08:00",
+          "21:00"
+        ]
+      ]
+    },
+    {
+      "jour": 4,
+      "ferme": false,
+      "creneaux": [
+        [
+          "08:00",
+          "21:00"
+        ]
+      ]
+    },
+    {
+      "jour": 5,
+      "ferme": false,
+      "creneaux": [
+        [
+          "08:00",
+          "21:00"
+        ]
+      ]
+    },
+    {
+      "jour": 6,
+      "ferme": false,
+      "creneaux": [
+        [
+          "08:00",
+          "21:00"
+        ]
+      ]
+    }
+  ],
+  "attributs": [
+    "Entrée accessible en fauteuil roulant",
+    "Parking accessible en fauteuil roulant",
+    "Places assises accessibles en fauteuil roulant"
+  ],
+  "lien_google": "https://maps.google.com/?cid=12353762984693897822&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
+  "site_web_gmb": null,
+  "statut": "publiee",
+  "backlink": {
+    "etat": "absent",
+    "premiere_detection": null,
+    "derniere_detection": null,
+    "derniere_verification": "2026-11-24T15:47:06.041Z",
+    "echecs": 1,
+    "url_detectee": null
+  },
+  "suggestion": {
+    "etat": "en-attente",
+    "date_soumission": null,
+    "tentatives": 0,
+    "date_email": "2026-11-24"
+  },
+  "retrait": null,
+  "dates": {
+    "collecte": "2026-11-24",
+    "publication": "2026-11-24",
+    "maj": "2026-11-24"
+  },
+  "source": "google-places",
+  "avis_detail": {
+    "releve": "2026-11-24",
+    "liste": [
+      {
+        "note": 5,
+        "texte": "Personnel très agréable et magasin très pratique",
+        "langue": "fr",
+        "date": "2026-08-01",
+        "auteur": "mordret ludovic",
+        "auteur_lien": "https://www.google.com/maps/contrib/114672949775641012335/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2pka1QyNWhVRXhMYzJOV01GOWpZM2x3YjNkTmMxRRAB!2m1!1s0x47e20d70bb28438b:0xab7161fb460c9a5e"
+      },
+      {
+        "note": 4,
+        "texte": "Bien pratique en dépannage le dimanche",
+        "langue": "fr",
+        "date": "2026-07-30",
+        "auteur": "Céline Pyl",
+        "auteur_lien": "https://www.google.com/maps/contrib/115605752249359358222/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25KYWRIaGhZWFpMUmpWVll6VmxNa1Z5V25WR1kxRRAB!2m1!1s0x47e20d70bb28438b:0xab7161fb460c9a5e"
+      },
+      {
+        "note": 1,
+        "texte": "Merci pour la pièce de One pound.",
+        "langue": "fr",
+        "date": "2026-06-28",
+        "auteur": "Chew Me",
+        "auteur_lien": "https://www.google.com/maps/contrib/117056465367818090675/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2tGSFIwRnlUMkZxT1VKTmRHbGtXWFp1ZUdOVFprRRAB!2m1!1s0x47e20d70bb28438b:0xab7161fb460c9a5e"
+      },
+      {
+        "note": 5,
+        "texte": "Magasin toujours propre et les rayons toujours bien remplis, y a le choix.\nPersonne toujours souriant,j'aime m'y rendre des qu'il me manque quelque chose.",
+        "langue": "fr",
+        "date": "2024-08-08",
+        "auteur": "Axelyden No",
+        "auteur_lien": "https://www.google.com/maps/contrib/118400470916205868495/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSURibzdDb2ZBEAE!2m1!1s0x47e20d70bb28438b:0xab7161fb460c9a5e"
+      },
+      {
+        "note": 5,
+        "texte": "Nouveau habitant depuis peu sur Courteille me rends de temps à autre à l'épicerie...personnel poli, agréable,  souriant...très sympathique comme tout les commerçants de cette place  (point du jour)... bon de voir encore des commercants agréables et souriants. Un bon petit coin ce lieu de commodités,  merci à vous tous pour votre professionnalisme et votre gentillesse.",
+        "langue": "fr",
+        "date": "2023-08-20",
+        "auteur": "Mathias Goulard",
+        "auteur_lien": "https://www.google.com/maps/contrib/109032975258241787273/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSURwaHFTYnZnRRAB!2m1!1s0x47e20d70bb28438b:0xab7161fb460c9a5e"
+      }
+    ]
+  },
+  "services": {
+    "releve": "2026-11-24",
+    "options": {
+      "restroom": false
+    },
+    "paiement": [
+      "carte bancaire",
+      "carte de débit",
+      "paiement sans contact"
+    ],
+    "parking": [
+      "parking gratuit"
+    ]
+  },
+  "redaction": {
+    "version": 2,
+    "titre": "Viveco — Commerce d'alimentation à Alençon",
+    "meta_titre": "Viveco à Alençon : horaires, avis, téléphone",
+    "meta_description": "Viveco, commerce d'alimentation à Alençon : horaires d'ouverture, note Google 4,1/5 (139 avis), téléphone, adresse et itinéraire.",
+    "chapo": "Viveco exerce l'activité de commerce d'alimentation au Place du Point du Jour, à Alençon. Ouvert sept jours sur sept au relevé du 24 novembre 2026. Téléphone : 02 33 32 89 88. Note Google : 4,1 sur 5 pour 139 avis.",
+    "sections": [
+      {
+        "id": "presentation",
+        "titre": "Viveco en quelques mots",
+        "paragraphes": [
+          "Sur Google, l'établissement est classé « Supermarché », dans notre rubrique Commerce d'alimentation.",
+          "D'après le relevé du 24 novembre 2026, l'établissement est ouvert sept jours sur sept. Le détail jour par jour figure plus bas."
+        ]
+      },
+      {
+        "id": "prestations",
+        "titre": "Services et équipements de Viveco",
+        "paragraphes": [
+          "Non proposé selon la fiche Google : toilettes.",
+          "Moyens de paiement déclarés : carte bancaire, carte de débit et paiement sans contact.",
+          "Stationnement : parking gratuit.",
+          "Ces indications sont déclarées par l'établissement sur sa fiche Google (relevé du 24 novembre 2026)."
+        ]
+      },
+      {
+        "id": "acces",
+        "titre": "Adresse et accès",
+        "paragraphes": [
+          "L'établissement est situé au Place du Point du Jour, 61000 Alençon.",
+          "Coordonnées GPS : 48.43554, 0.10494. Le bouton Itinéraire de cette page ouvre la navigation."
+        ]
+      },
+      {
+        "id": "contact",
+        "titre": "Contacter Viveco",
+        "paragraphes": [
+          "Le contact se fait par téléphone au 02 33 32 89 88, ou directement sur place aux horaires d'ouverture."
+        ]
+      },
+      {
+        "id": "avis",
+        "titre": "La réputation de Viveco",
+        "paragraphes": [
+          "Note de 4,1 sur 5 pour 139 avis Google au relevé du 24 novembre 2026. Les avis les plus parlants sont compilés ci-dessous, avec un lien vers la fiche d'origine."
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "q": "Quels sont les horaires de Viveco ?",
+        "r": "Au relevé du 24 novembre 2026, Viveco était ouvert sept jours sur sept. Dans le détail — lundi : de 8 h à 21 h ; mardi : de 8 h à 21 h ; mercredi : de 8 h à 21 h ; jeudi : de 8 h à 21 h ; vendredi : de 8 h à 21 h ; samedi : de 8 h à 21 h ; dimanche : de 8 h à 21 h. Ces horaires peuvent changer : un appel préalable reste conseillé."
+      },
+      {
+        "q": "Viveco est-il ouvert le dimanche ?",
+        "r": "Oui : le dimanche, Viveco est ouvert de 8 h à 21 h (horaires relevés le 24 novembre 2026)."
+      },
+      {
+        "q": "Où se trouve Viveco ?",
+        "r": "Viveco se trouve Pl. du Point du Jour 2Pl. du, 61000 Alençon. Un lien d'itinéraire est disponible sur cette page."
+      },
+      {
+        "q": "Comment contacter Viveco ?",
+        "r": "Par téléphone au 02 33 32 89 88, ou directement sur place aux heures d'ouverture."
+      },
+      {
+        "q": "Viveco est-il accessible aux personnes à mobilité réduite ?",
+        "r": "La fiche Google de l'établissement mentionne : « Entrée accessible en fauteuil roulant ». Cette information est déclarative ; en cas de doute, vérifiez par téléphone."
+      }
+    ],
+    "genere_le": "2026-11-24"
+  },
+  "statut_google": "OPERATIONAL",
+  "audience": {
+    "clics": 0,
+    "impressions": 0,
+    "position": null,
+    "fenetreJours": 90,
+    "clicsRecents": 0,
+    "fenetreRecenteJours": 28,
+    "source": "search-console",
+    "date": "2026-11-24"
+  }
+}

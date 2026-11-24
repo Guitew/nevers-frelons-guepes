@@ -1,5 +1,143 @@
 [
   {
+    "date": "2026-11-24T15:47:11.651Z",
+    "type": "suggestion-soumise",
+    "id": "ChIJ6a8y0fGF50cRsIR4yffeXbk",
+    "nom": "Charles Automobiles ad",
+    "url": "/garages-automobile/longueau/charles-automobiles-ad/"
+  },
+  {
+    "date": "2026-11-24T15:47:11.603Z",
+    "type": "suggestion-soumise",
+    "id": "ChIJobBhRDadqRIRW9FjJ3BB3KM",
+    "nom": "Net et Pressing Carrefour",
+    "url": "/nettoyage-hygiene/auch/net-et-pressing-carrefour/"
+  },
+  {
+    "date": "2026-11-24T15:47:11.551Z",
+    "type": "suggestion-soumise",
+    "id": "ChIJu2uIa91_-UcROnKcSBBj9AQ",
+    "nom": "Station Lavage LE RORQUAL - Self-service 24h/24h 7j/7",
+    "url": "/garages-automobile/gueret/station-lavage-le-rorqual-self-service-24h-24h-7j-7/"
+  },
+  {
+    "date": "2026-11-24T15:47:11.495Z",
+    "type": "suggestion-soumise",
+    "id": "ChIJK6e7AulVrRIRuS5a51wOssU",
+    "nom": "Boulangerie pâtisserie Maison Mas & Banette",
+    "url": "/boulangeries-patisseries/aurillac/boulangerie-patisserie-maison-mas-banette/"
+  },
+  {
+    "date": "2026-11-24T15:47:11.433Z",
+    "type": "suggestion-soumise",
+    "id": "ChIJJSgj6e0eEEgRyFd7D_cZtVQ",
+    "nom": "Bar / Tabac Le Deauville",
+    "url": "/cafes-bars/vannes/bar-tabac-le-deauville/"
+  },
+  {
+    "date": "2026-11-24T15:47:10.585Z",
+    "type": "retrait-410",
+    "id": "ChIJ0W_2TD-0qxIRZ_tNAaJPbKg",
+    "nom": "La Boulangerie En Vie de Pain",
+    "url": "/boulangeries-patisseries/le-passage/la-boulangerie-en-vie-de-pain/",
+    "motif": "backlink jamais posé après 45 jours de délai de grâce",
+    "cible": null
+  },
+  {
+    "date": "2026-11-24T15:47:10.592Z",
+    "type": "retrait-410",
+    "id": "ChIJ3c2LQgfWB0gRPyO8MKqq17k",
+    "nom": "Restaurant Le Rétro",
+    "url": "/restaurants/angers/restaurant-le-retro/",
+    "motif": "backlink jamais posé après 45 jours de délai de grâce",
+    "cible": null
+  },
+  {
+    "date": "2026-11-24T15:47:06.177Z",
+    "type": "backlink-absent",
+    "id": "ChIJO5p95Fmg-0cRHu9wGhaiJZI",
+    "nom": "Les Terres Noires",
+    "url": null,
+    "precedent": "en-attente"
+  },
+  {
+    "date": "2026-11-24T15:47:06.306Z",
+    "type": "backlink-absent",
+    "id": "ChIJFcNfMCjbEEgR-OzeMv1XTP8",
+    "nom": "Madasia Store",
+    "url": null,
+    "precedent": "en-attente"
+  },
+  {
+    "date": "2026-11-24T15:47:06.413Z",
+    "type": "backlink-absent",
+    "id": "ChIJs6lBCeaui0cR6MJsVTpmdTQ",
+    "nom": "Médipôle de Savoie",
+    "url": null,
+    "precedent": "en-attente"
+  },
+  {
+    "date": "2026-11-24T15:47:06.515Z",
+    "type": "backlink-absent",
+    "id": "ChIJi0Mou3AN4kcRXpoMRvthcas",
+    "nom": "Viveco",
+    "url": null,
+    "precedent": "en-attente"
+  },
+  {
+    "date": "2026-11-24T15:47:06.646Z",
+    "type": "backlink-absent",
+    "id": "ChIJiRGRcAl760cR0ZOLHk3qb5Y",
+    "nom": "Wokasie",
+    "url": null,
+    "precedent": "en-attente"
+  },
+  {
+    "date": "2026-11-24T15:47:05.486Z",
+    "type": "publication",
+    "id": "ChIJi0Mou3AN4kcRXpoMRvthcas",
+    "nom": "Viveco",
+    "url": "/commerces-alimentation/alencon/viveco/",
+    "categorie": "commerces-alimentation",
+    "source": "google-places"
+  },
+  {
+    "date": "2026-11-24T15:47:05.576Z",
+    "type": "publication",
+    "id": "ChIJO5p95Fmg-0cRHu9wGhaiJZI",
+    "nom": "Les Terres Noires",
+    "url": "/restaurants/saint-maur/les-terres-noires/",
+    "categorie": "restaurants",
+    "source": "google-places"
+  },
+  {
+    "date": "2026-11-24T15:47:05.671Z",
+    "type": "publication",
+    "id": "ChIJs6lBCeaui0cR6MJsVTpmdTQ",
+    "nom": "Médipôle de Savoie",
+    "url": "/medecins-dentistes/challes-les-eaux/medipole-de-savoie/",
+    "categorie": "medecins-dentistes",
+    "source": "google-places"
+  },
+  {
+    "date": "2026-11-24T15:47:05.786Z",
+    "type": "publication",
+    "id": "ChIJiRGRcAl760cR0ZOLHk3qb5Y",
+    "nom": "Wokasie",
+    "url": "/restaurants/bar-le-duc/wokasie/",
+    "categorie": "restaurants",
+    "source": "google-places"
+  },
+  {
+    "date": "2026-11-24T15:47:05.883Z",
+    "type": "publication",
+    "id": "ChIJFcNfMCjbEEgR-OzeMv1XTP8",
+    "nom": "Madasia Store",
+    "url": "/commerces-alimentation/quimper/madasia-store/",
+    "categorie": "commerces-alimentation",
+    "source": "google-places"
+  },
+  {
     "date": "2026-11-23T15:54:51.685Z",
     "type": "suggestion-soumise",
     "id": "ChIJL_odYYWd8kcR-f-1N-0e87E",

@@ -1,0 +1,278 @@
+{
+  "id": "ChIJFcNfMCjbEEgR-OzeMv1XTP8",
+  "slug": "madasia-store",
+  "nom": "Madasia Store",
+  "categorie": "commerces-alimentation",
+  "categorie_gmb": "Épicerie asiatique",
+  "type_principal": "asian_grocery_store",
+  "types": [
+    "asian_grocery_store",
+    "grocery_store",
+    "point_of_interest",
+    "food_store",
+    "store",
+    "food",
+    "establishment"
+  ],
+  "ville": "Quimper",
+  "ville_slug": "quimper",
+  "adresse": {
+    "rue": "6 Rue Philippe Lebon",
+    "code_postal": "29000",
+    "departement": "29",
+    "region": "Bretagne",
+    "pays": "France",
+    "complete": "6 Rue Philippe Lebon, 29000 Quimper"
+  },
+  "telephone": "09 86 74 03 31",
+  "geo": {
+    "latitude": 47.994869300000005,
+    "longitude": -4.0741284
+  },
+  "note": 4.5,
+  "avis": 132,
+  "horaires": [
+    {
+      "jour": 0,
+      "ferme": false,
+      "creneaux": [
+        [
+          "10:00",
+          "19:00"
+        ]
+      ]
+    },
+    {
+      "jour": 1,
+      "ferme": false,
+      "creneaux": [
+        [
+          "10:00",
+          "19:00"
+        ]
+      ]
+    },
+    {
+      "jour": 2,
+      "ferme": false,
+      "creneaux": [
+        [
+          "10:00",
+          "19:00"
+        ]
+      ]
+    },
+    {
+      "jour": 3,
+      "ferme": false,
+      "creneaux": [
+        [
+          "10:00",
+          "19:00"
+        ]
+      ]
+    },
+    {
+      "jour": 4,
+      "ferme": false,
+      "creneaux": [
+        [
+          "10:00",
+          "19:00"
+        ]
+      ]
+    },
+    {
+      "jour": 5,
+      "ferme": false,
+      "creneaux": [
+        [
+          "10:00",
+          "19:00"
+        ]
+      ]
+    },
+    {
+      "jour": 6,
+      "ferme": true,
+      "creneaux": []
+    }
+  ],
+  "attributs": [
+    "Entrée accessible en fauteuil roulant",
+    "Parking accessible en fauteuil roulant"
+  ],
+  "lien_google": "https://maps.google.com/?cid=18396175322893446392&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
+  "site_web_gmb": null,
+  "statut": "publiee",
+  "backlink": {
+    "etat": "absent",
+    "premiere_detection": null,
+    "derniere_detection": null,
+    "derniere_verification": "2026-11-24T15:47:06.041Z",
+    "echecs": 1,
+    "url_detectee": null
+  },
+  "suggestion": {
+    "etat": "en-attente",
+    "date_soumission": null,
+    "tentatives": 0,
+    "date_email": "2026-11-24"
+  },
+  "retrait": null,
+  "dates": {
+    "collecte": "2026-11-24",
+    "publication": "2026-11-24",
+    "maj": "2026-11-24"
+  },
+  "source": "google-places",
+  "avis_detail": {
+    "releve": "2026-11-24",
+    "liste": [
+      {
+        "note": 4,
+        "texte": "Bonjour,\nBel accueil du personnel.\nGrands choix de produits. Prix attractifs.\nPetit parking devant le magasin.\nJe recommande cette enseigne pour les produits exotiques et d'autres articles.",
+        "langue": "fr",
+        "date": "2026-10-19",
+        "auteur": "Lydia Collins",
+        "auteur_lien": "https://www.google.com/maps/contrib/103048410856661727594/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25SMVVXNVdkV2hWVEhaeU9DMXVPRTlTWWs1R1ozYxAB!2m1!1s0x4810db28305fc315:0xff4c57fd32deecf8"
+      },
+      {
+        "note": 5,
+        "texte": "Agréable découverte en cherchant une épicerie asiatique, très sympathique vendeuse et beaucoup de produits sont proposés pour mon plus grand bonheur. Du frais, du surgelés, des nouilles, des conserves en tout genre.\n\nJe reviendrais avec grand plaisir !",
+        "langue": "fr",
+        "date": "2026-06-25",
+        "auteur": "Lucie Champsat",
+        "auteur_lien": "https://www.google.com/maps/contrib/116205530324440136889/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xOalpHTlFZVzFZVDNCS1dreHVjMDFZYlVGVWJXYxAB!2m1!1s0x4810db28305fc315:0xff4c57fd32deecf8"
+      },
+      {
+        "note": 5,
+        "texte": "Mon adresse préférée à Quimper. Merci infiniment à vous pour la commande spéciale de Banh Lot. Ainsi que les ingrédients nécessaires à sa préparation. Nous allons nous régaler de ce dessert mythique que nous ne trouvons nulle part.\nEn plus il a refait le plein de boissons lait de soja!!!\nOn y est très bien accueilli, le patron est aux petits soins pour satisfaire sa clientèle. 5*!!",
+        "langue": "fr",
+        "date": "2025-11-28",
+        "auteur": "Rash A",
+        "auteur_lien": "https://www.google.com/maps/contrib/117389246863585780225/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25Sa2RqRkxTVXRFU2paTFlUZE9ZM05xZUZSb2ExRRAB!2m1!1s0x4810db28305fc315:0xff4c57fd32deecf8"
+      },
+      {
+        "note": 5,
+        "texte": "Une offre de produit plutôt large. On peut y trouver des produits malgaches dont du revitoto, de voanjobory, anamamy... Le personnel est très aimable.",
+        "langue": "fr",
+        "date": "2025-08-03",
+        "auteur": "Élodie R",
+        "auteur_lien": "https://www.google.com/maps/contrib/102662037281877857785/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2t3NWNEWm1SVjlLYUhWa1JFMVFYM1kxU21abVdtYxAB!2m1!1s0x4810db28305fc315:0xff4c57fd32deecf8"
+      },
+      {
+        "note": 5,
+        "texte": "1ère visite 🦋\nJoli petit magasin , accueil courtois. Vous retrouverez toutes les bases culinaires pour les cuisines Asiatiques, Africaines et Créoles 🌷🌷🌷\nNous avons pris uniquement des sauces 😋( Nems, aigre douce , soja sucré et salé , sauce piquante toutes ces sauces en grand format et de délicieux nougats chinois 🙏😋) nous en avons eu pour 40€ .",
+        "langue": "fr",
+        "date": "2025-01-31",
+        "auteur": "Claudia CRAMARO",
+        "auteur_lien": "https://www.google.com/maps/contrib/110191923900670597448/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnTUNBMXByS3N3RRAB!2m1!1s0x4810db28305fc315:0xff4c57fd32deecf8"
+      }
+    ]
+  },
+  "services": {
+    "releve": "2026-11-24",
+    "options": {
+      "delivery": false,
+      "restroom": false
+    },
+    "paiement": [
+      "carte bancaire",
+      "carte de débit",
+      "paiement sans contact"
+    ],
+    "parking": []
+  },
+  "redaction": {
+    "version": 2,
+    "titre": "Madasia Store — Commerce d'alimentation à Quimper",
+    "meta_titre": "Madasia Store à Quimper : horaires, avis, téléphone",
+    "meta_description": "Madasia Store, commerce d'alimentation à Quimper : horaires d'ouverture, note Google 4,5/5 (132 avis), téléphone, adresse et itinéraire.",
+    "chapo": "Cette fiche présente Madasia Store, un commerce d'alimentation au 6 Rue Philippe Lebon, à Quimper. Ouvert tous les jours sauf le dimanche au relevé du 24 novembre 2026. Téléphone : 09 86 74 03 31. Note Google : 4,5 sur 5 pour 132 avis.",
+    "sections": [
+      {
+        "id": "presentation",
+        "titre": "Madasia Store en quelques mots",
+        "paragraphes": [
+          "Sur Google, l'établissement est classé « Épicerie asiatique », dans notre rubrique Commerce d'alimentation.",
+          "D'après le relevé du 24 novembre 2026, l'établissement est ouvert tous les jours sauf le dimanche. Le détail jour par jour figure plus bas."
+        ]
+      },
+      {
+        "id": "prestations",
+        "titre": "Services et équipements de Madasia Store",
+        "paragraphes": [
+          "Non proposé selon la fiche Google : livraison et toilettes.",
+          "Moyens de paiement déclarés : carte bancaire, carte de débit et paiement sans contact.",
+          "Ces indications sont déclarées par l'établissement sur sa fiche Google (relevé du 24 novembre 2026)."
+        ]
+      },
+      {
+        "id": "acces",
+        "titre": "Adresse et accès",
+        "paragraphes": [
+          "L'établissement est situé au 6 Rue Philippe Lebon, 29000 Quimper.",
+          "Coordonnées GPS : 47.99487, -4.07413. Le bouton Itinéraire de cette page ouvre la navigation."
+        ]
+      },
+      {
+        "id": "contact",
+        "titre": "Contacter Madasia Store",
+        "paragraphes": [
+          "Le contact se fait par téléphone au 09 86 74 03 31, ou directement sur place aux horaires d'ouverture."
+        ]
+      },
+      {
+        "id": "avis",
+        "titre": "La réputation de Madasia Store",
+        "paragraphes": [
+          "Note de 4,5 sur 5 pour 132 avis Google au relevé du 24 novembre 2026. Les avis les plus parlants sont compilés ci-dessous, avec un lien vers la fiche d'origine."
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "q": "Quels sont les horaires de Madasia Store ?",
+        "r": "Au relevé du 24 novembre 2026, Madasia Store était ouvert tous les jours sauf le dimanche. Dans le détail — lundi : de 10 h à 19 h ; mardi : de 10 h à 19 h ; mercredi : de 10 h à 19 h ; jeudi : de 10 h à 19 h ; vendredi : de 10 h à 19 h ; samedi : de 10 h à 19 h ; dimanche : fermé. Ces horaires peuvent changer : un appel préalable reste conseillé."
+      },
+      {
+        "q": "Madasia Store est-il ouvert le dimanche ?",
+        "r": "Non : d'après les horaires relevés le 24 novembre 2026, Madasia Store est fermé le dimanche."
+      },
+      {
+        "q": "Où se trouve Madasia Store ?",
+        "r": "Madasia Store se trouve 6 Rue Philippe Lebon, 29000 Quimper. Un lien d'itinéraire est disponible sur cette page."
+      },
+      {
+        "q": "Comment contacter Madasia Store ?",
+        "r": "Par téléphone au 09 86 74 03 31, ou directement sur place aux heures d'ouverture."
+      },
+      {
+        "q": "Madasia Store propose-t-il la vente à emporter ou la livraison ?",
+        "r": "D'après sa fiche Google (relevé du 24 novembre 2026) — livraison : non."
+      },
+      {
+        "q": "Madasia Store est-il accessible aux personnes à mobilité réduite ?",
+        "r": "La fiche Google de l'établissement mentionne : « Entrée accessible en fauteuil roulant ». Cette information est déclarative ; en cas de doute, vérifiez par téléphone."
+      }
+    ],
+    "genere_le": "2026-11-24"
+  },
+  "statut_google": "OPERATIONAL",
+  "audience": {
+    "clics": 0,
+    "impressions": 0,
+    "position": null,
+    "fenetreJours": 90,
+    "clicsRecents": 0,
+    "fenetreRecenteJours": 28,
+    "source": "search-console",
+    "date": "2026-11-24"
+  }
+}

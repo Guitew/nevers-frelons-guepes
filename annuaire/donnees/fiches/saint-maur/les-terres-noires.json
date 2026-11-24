@@ -1,0 +1,310 @@
+{
+  "id": "ChIJO5p95Fmg-0cRHu9wGhaiJZI",
+  "slug": "les-terres-noires",
+  "nom": "Les Terres Noires",
+  "categorie": "restaurants",
+  "categorie_gmb": "Restaurant",
+  "type_principal": "restaurant",
+  "types": [
+    "restaurant",
+    "cafe",
+    "french_restaurant",
+    "european_restaurant",
+    "bar",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "ville": "Saint-Maur",
+  "ville_slug": "saint-maur",
+  "adresse": {
+    "rue": "80 Avenue d'Occitanie",
+    "code_postal": "36250",
+    "departement": "36",
+    "region": "Centre-Val de Loire",
+    "pays": "France",
+    "complete": "80 Av. d'Occitanie, 36250 Saint-Maur"
+  },
+  "telephone": "02 54 27 00 64",
+  "geo": {
+    "latitude": 46.7845756,
+    "longitude": 1.6561873
+  },
+  "note": 4,
+  "avis": 366,
+  "horaires": [
+    {
+      "jour": 0,
+      "ferme": false,
+      "creneaux": [
+        [
+          "08:00",
+          "21:00"
+        ]
+      ]
+    },
+    {
+      "jour": 1,
+      "ferme": false,
+      "creneaux": [
+        [
+          "06:00",
+          "21:00"
+        ]
+      ]
+    },
+    {
+      "jour": 2,
+      "ferme": false,
+      "creneaux": [
+        [
+          "06:00",
+          "21:00"
+        ]
+      ]
+    },
+    {
+      "jour": 3,
+      "ferme": false,
+      "creneaux": [
+        [
+          "06:00",
+          "21:00"
+        ]
+      ]
+    },
+    {
+      "jour": 4,
+      "ferme": false,
+      "creneaux": [
+        [
+          "06:00",
+          "18:00"
+        ]
+      ]
+    },
+    {
+      "jour": 5,
+      "ferme": false,
+      "creneaux": [
+        [
+          "10:00",
+          "15:00"
+        ]
+      ]
+    },
+    {
+      "jour": 6,
+      "ferme": true,
+      "creneaux": []
+    }
+  ],
+  "attributs": [
+    "Entrée accessible en fauteuil roulant",
+    "Parking accessible en fauteuil roulant",
+    "Toilettes accessibles en fauteuil roulant",
+    "Places assises accessibles en fauteuil roulant"
+  ],
+  "lien_google": "https://maps.google.com/?cid=10531001519492362014&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
+  "site_web_gmb": null,
+  "statut": "publiee",
+  "backlink": {
+    "etat": "absent",
+    "premiere_detection": null,
+    "derniere_detection": null,
+    "derniere_verification": "2026-11-24T15:47:06.041Z",
+    "echecs": 1,
+    "url_detectee": null
+  },
+  "suggestion": {
+    "etat": "en-attente",
+    "date_soumission": null,
+    "tentatives": 0,
+    "date_email": "2026-11-24"
+  },
+  "retrait": null,
+  "dates": {
+    "collecte": "2026-11-24",
+    "publication": "2026-11-24",
+    "maj": "2026-11-24"
+  },
+  "source": "google-places",
+  "avis_detail": {
+    "releve": "2026-11-24",
+    "liste": [
+      {
+        "note": 3,
+        "texte": "Les gens sont quand même bien difficile faut dire... franchement bien contente d'avoir vu ce petit restau \"Routiers\" dans une zone commerciale \"Cap Sud\" pour manger un plat chaud fait maison, servi généreusement pour 10€ !\nPour l'ambiance, il faut aussi savoir la mettre soi même,  la moindre des choses est de sourire et de parler un peu aux patron / nes, qui ne sont plus tout jeune non plus. Être humain... Oui c’est ça l'essentiel... Merci d'être ouvert et de tenir bon !",
+        "langue": "fr",
+        "date": "2026-11-10",
+        "auteur": "Alberte F.",
+        "auteur_lien": "https://www.google.com/maps/contrib/103638638050910852450/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2pGMVJFTXdhWE5sV0c5cWVGQmZVbFpXZW1wWVgzYxAB!2m1!1s0x47fba059e47d9a3b:0x9225a2161a70ef1e"
+      },
+      {
+        "note": 1,
+        "texte": "Nous sommes venus se recueillir pour boire un verre après un décès en pensant passer un moment agréable. Juste pour boire un verre. Nous avons été accueilli très froidement à peine le temps de répondre, le monsieur ne sait même pas déplacer pour prendre notre commande, aucun accueil, chaleureux . Nous sommes partis ensuite pour régler car personne venait à nous. On nous a demandé d’attendre, nous avons attendu un Long moment quand j’ai demandé à régler la Femme m’a répondu vous mangez pas ici je lui ai dit non alors que j’avais stipulé dès le départ qu’on venait simplement pour boire un verre elle a soupiré et elle a dit bah vous avez qu’à attendre le monsieur pour vous encaisser, nous avons attendu attendu pour au bout du compte nous en encaisser Pas un merci pas un au revoir rien du tout. C’est honteux d’accueillir des gens Comme cela, je ne le recommande absolument pas cet endroit froid, irrespectueux, glauque et j’en passe",
+        "langue": "fr",
+        "date": "2026-10-20",
+        "auteur": "Karolyna",
+        "auteur_lien": "https://www.google.com/maps/contrib/104816012686666919776/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xjemFXOHlURFExYTJ0bmJ6WlBZVEZNVkRod1VtYxAB!2m1!1s0x47fba059e47d9a3b:0x9225a2161a70ef1e"
+      },
+      {
+        "note": 1,
+        "texte": "Nous sommes venus déjeuner à 4 personnes, personnel pas souriant, pas aimable, service vraiment très moyen, le prix du menu est pas cher mais ça vaut pas plus.assortiment du buffet d'entrée très moyen, steak dur , steak haché pas cuit et pourtant demandé à point. Nous ne reviendrons pas",
+        "langue": "fr",
+        "date": "2026-09-07",
+        "auteur": "thierry lemmerling",
+        "auteur_lien": "https://www.google.com/maps/contrib/113960466193835443680/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2toQk5rd3dUR3RXZEMxWVJWZDRZMDUwU1ZkZk5HYxAB!2m1!1s0x47fba059e47d9a3b:0x9225a2161a70ef1e"
+      },
+      {
+        "note": 1,
+        "texte": "Patron pas aimable , cuisine désastreuse et hygiène douteuse . J' ai pris steak haché à cheval frites , frites congelé archi cuite et le steak haché cuit sur un Grill certainement pas gratter car il avait un goût grillé . J' ai été malade toute la nuit . À fuir",
+        "langue": "fr",
+        "date": "2026-08-21",
+        "auteur": "Walter",
+        "auteur_lien": "https://www.google.com/maps/contrib/103775665147744310159/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25OUlVESlJPVEJMUW5oa1JFTnhYMWhVWWs5ck0zYxAB!2m1!1s0x47fba059e47d9a3b:0x9225a2161a70ef1e"
+      },
+      {
+        "note": 3,
+        "texte": "L'emplacement est stratégique pour y implanter un restaurant routier entre autres\nPar contre pour y voir revenir le moindre client !!il faut éviter d'avoir un accueil aussi Fade et aussi apparemment désabusé de son job\nÉtablissement défraîchi bar inexistant ,bière servi dans un verre à limonade patron seul ça ne m'étonne pas hélas il paraît si triste le pauvre\nAmbiance déprimante\nBon !  Heureusement que le bel aquarium aussi silencieux que son propriétaire m'a egaille mon heure de présence\nLe restaurant se vide a 9h\nSincèrement !!! Peux vraiment faire mieux",
+        "langue": "fr",
+        "date": "2025-03-22",
+        "auteur": "Jean Mi",
+        "auteur_lien": "https://www.google.com/maps/contrib/115174290437363211338/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnTUN3djVXenVnRRAB!2m1!1s0x47fba059e47d9a3b:0x9225a2161a70ef1e"
+      }
+    ]
+  },
+  "services": {
+    "releve": "2026-11-24",
+    "prix": "PRICE_LEVEL_INEXPENSIVE",
+    "options": {
+      "dineIn": true,
+      "delivery": false,
+      "reservable": true,
+      "servesBreakfast": true,
+      "servesLunch": true,
+      "servesDinner": true,
+      "servesCoffee": true,
+      "servesBeer": true,
+      "servesWine": true,
+      "servesCocktails": true,
+      "menuForChildren": true,
+      "goodForChildren": true,
+      "goodForGroups": true,
+      "liveMusic": false,
+      "allowsDogs": true,
+      "restroom": true
+    },
+    "paiement": [
+      "carte bancaire",
+      "carte de débit",
+      "paiement sans contact"
+    ],
+    "parking": [
+      "parking gratuit",
+      "stationnement gratuit dans la rue"
+    ]
+  },
+  "redaction": {
+    "version": 2,
+    "titre": "Les Terres Noires — Restaurant à Saint-Maur",
+    "meta_titre": "Les Terres Noires à Saint-Maur : horaires, avis, téléphone",
+    "meta_description": "Les Terres Noires, restaurant à Saint-Maur : horaires d'ouverture, note Google 4/5 (366 avis), téléphone, adresse et itinéraire.",
+    "chapo": "Cette fiche présente Les Terres Noires, un restaurant au 80 Avenue d'Occitanie, à Saint-Maur. Ouvert tous les jours sauf le dimanche au relevé du 24 novembre 2026. Téléphone : 02 54 27 00 64. Note Google : 4 sur 5 pour 366 avis.",
+    "sections": [
+      {
+        "id": "presentation",
+        "titre": "Les Terres Noires en quelques mots",
+        "paragraphes": [
+          "Niveau de prix indiqué sur la fiche Google : € (bon marché).",
+          "D'après le relevé du 24 novembre 2026, l'établissement est ouvert tous les jours sauf le dimanche. Le détail jour par jour figure plus bas."
+        ]
+      },
+      {
+        "id": "prestations",
+        "titre": "Services et équipements de Les Terres Noires",
+        "paragraphes": [
+          "Proposé : sur place, réservation possible, petit-déjeuner, déjeuner, dîner, café, bière, vin, cocktails, menu enfant, adapté aux enfants, adapté aux groupes, chiens acceptés et toilettes.",
+          "Non proposé selon la fiche Google : livraison et musique live.",
+          "Moyens de paiement déclarés : carte bancaire, carte de débit et paiement sans contact.",
+          "Stationnement : parking gratuit et stationnement gratuit dans la rue.",
+          "Ces indications sont déclarées par l'établissement sur sa fiche Google (relevé du 24 novembre 2026)."
+        ]
+      },
+      {
+        "id": "acces",
+        "titre": "Adresse et accès",
+        "paragraphes": [
+          "L'établissement est situé au 80 Avenue d'Occitanie, 36250 Saint-Maur.",
+          "Coordonnées GPS : 46.78458, 1.65619. Le bouton Itinéraire de cette page ouvre la navigation."
+        ]
+      },
+      {
+        "id": "contact",
+        "titre": "Contacter Les Terres Noires",
+        "paragraphes": [
+          "Le contact se fait par téléphone au 02 54 27 00 64, ou directement sur place aux horaires d'ouverture.",
+          "La fiche Google indique que la réservation est possible."
+        ]
+      },
+      {
+        "id": "avis",
+        "titre": "La réputation de Les Terres Noires",
+        "paragraphes": [
+          "Note de 4 sur 5 pour 366 avis Google au relevé du 24 novembre 2026. Les avis les plus parlants sont compilés ci-dessous, avec un lien vers la fiche d'origine."
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "q": "Quels sont les horaires de Les Terres Noires ?",
+        "r": "Au relevé du 24 novembre 2026, Les Terres Noires était ouvert tous les jours sauf le dimanche. Dans le détail — lundi : de 8 h à 21 h ; mardi : de 6 h à 21 h ; mercredi : de 6 h à 21 h ; jeudi : de 6 h à 21 h ; vendredi : de 6 h à 18 h ; samedi : de 10 h à 15 h ; dimanche : fermé. Ces horaires peuvent changer : un appel préalable reste conseillé."
+      },
+      {
+        "q": "Les Terres Noires est-il ouvert le dimanche ?",
+        "r": "Non : d'après les horaires relevés le 24 novembre 2026, Les Terres Noires est fermé le dimanche."
+      },
+      {
+        "q": "Où se trouve Les Terres Noires ?",
+        "r": "Les Terres Noires se trouve 80 Av. d'Occitanie, 36250 Saint-Maur. Un lien d'itinéraire est disponible sur cette page."
+      },
+      {
+        "q": "Comment contacter Les Terres Noires ?",
+        "r": "Par téléphone au 02 54 27 00 64, ou directement sur place aux heures d'ouverture."
+      },
+      {
+        "q": "Peut-on réserver chez Les Terres Noires ?",
+        "r": "Oui, la fiche Google de Les Terres Noires indique que la réservation est possible, par téléphone au 02 54 27 00 64."
+      },
+      {
+        "q": "Les Terres Noires propose-t-il la vente à emporter ou la livraison ?",
+        "r": "D'après sa fiche Google (relevé du 24 novembre 2026) — livraison : non."
+      },
+      {
+        "q": "Quel est le niveau de prix de Les Terres Noires ?",
+        "r": "Google classe Les Terres Noires au niveau de prix € (bon marché), sur une échelle de € à €€€€ établie à partir des avis clients."
+      },
+      {
+        "q": "Les Terres Noires est-il accessible aux personnes à mobilité réduite ?",
+        "r": "La fiche Google de l'établissement mentionne : « Entrée accessible en fauteuil roulant ». Cette information est déclarative ; en cas de doute, vérifiez par téléphone."
+      }
+    ],
+    "genere_le": "2026-11-24"
+  },
+  "statut_google": "OPERATIONAL",
+  "audience": {
+    "clics": 0,
+    "impressions": 0,
+    "position": null,
+    "fenetreJours": 90,
+    "clicsRecents": 0,
+    "fenetreRecenteJours": 28,
+    "source": "search-console",
+    "date": "2026-11-24"
+  }
+}
