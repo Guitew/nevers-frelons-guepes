@@ -1,0 +1,253 @@
+{
+  "id": "ChIJw3HWFQCZlEcRWKNwKPF59tc",
+  "slug": "laverie-clemenceau",
+  "nom": "Laverie Clemenceau",
+  "categorie": "nettoyage-hygiene",
+  "categorie_gmb": "Blanchisserie",
+  "type_principal": "laundry",
+  "types": [
+    "laundry",
+    "point_of_interest",
+    "service",
+    "establishment"
+  ],
+  "ville": "Nancy",
+  "ville_slug": "nancy",
+  "adresse": {
+    "rue": "54 Boulevard Georges Clemenceau",
+    "code_postal": "54000",
+    "departement": "54",
+    "region": "Grand Est",
+    "pays": "France",
+    "complete": "54 Bd Georges Clemenceau, 54000 Nancy"
+  },
+  "telephone": "03 83 55 34 58",
+  "geo": {
+    "latitude": 48.6754886,
+    "longitude": 6.1823709
+  },
+  "note": 4.7,
+  "avis": 84,
+  "horaires": [
+    {
+      "jour": 0,
+      "ferme": false,
+      "creneaux": [
+        [
+          "11:00",
+          "00:00"
+        ]
+      ]
+    },
+    {
+      "jour": 1,
+      "ferme": false,
+      "creneaux": [
+        [
+          "09:00",
+          "00:00"
+        ]
+      ]
+    },
+    {
+      "jour": 2,
+      "ferme": false,
+      "creneaux": [
+        [
+          "11:00",
+          "00:00"
+        ]
+      ]
+    },
+    {
+      "jour": 3,
+      "ferme": false,
+      "creneaux": [
+        [
+          "09:00",
+          "00:00"
+        ]
+      ]
+    },
+    {
+      "jour": 4,
+      "ferme": false,
+      "creneaux": [
+        [
+          "09:00",
+          "00:00"
+        ]
+      ]
+    },
+    {
+      "jour": 5,
+      "ferme": false,
+      "creneaux": [
+        [
+          "09:00",
+          "22:30"
+        ]
+      ]
+    },
+    {
+      "jour": 6,
+      "ferme": false,
+      "creneaux": [
+        [
+          "09:00",
+          "00:00"
+        ]
+      ]
+    }
+  ],
+  "attributs": [
+    "Parking accessible en fauteuil roulant"
+  ],
+  "lien_google": "https://maps.google.com/?cid=15561759639097877336&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
+  "site_web_gmb": null,
+  "statut": "publiee",
+  "backlink": {
+    "etat": "absent",
+    "premiere_detection": null,
+    "derniere_detection": null,
+    "derniere_verification": "2026-11-25T15:31:01.414Z",
+    "echecs": 1,
+    "url_detectee": null
+  },
+  "suggestion": {
+    "etat": "en-attente",
+    "date_soumission": null,
+    "tentatives": 0,
+    "date_email": "2026-11-25"
+  },
+  "retrait": null,
+  "dates": {
+    "collecte": "2026-11-25",
+    "publication": "2026-11-25",
+    "maj": "2026-11-25"
+  },
+  "source": "google-places",
+  "avis_detail": {
+    "releve": "2026-11-25",
+    "liste": [
+      {
+        "note": 5,
+        "texte": "J’aime beaucoup cette laverie, tout est très  propre, pratique et les machines fonctionnent parfaitement. J’y vais régulièrement et je n’ai jamais été déçu. Je recommande 🙂\nEn plus les propriétaires sont très aimables.",
+        "langue": "fr",
+        "date": "2026-10-21",
+        "auteur": "Jade Arellano",
+        "auteur_lien": "https://www.google.com/maps/contrib/106846001250192458344/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xVd1IySlhXVWhrUTFkNlEySllRV2xrV2xGSVZsRRAB!2m1!1s0x4794990015d671c3:0xd7f679f12870a358"
+      },
+      {
+        "note": 5,
+        "texte": "⭐⭐⭐⭐⭐\n\nJe recommande vraiment cette laverie Une laverie très propre, bien entretenue et agréable  Les machines fonctionnent parfaitement, le matériel est de qualité et tout est très pratique et facile à utiliser.\n\nL’endroit est propre et bien organisé, ce qui rend le moment de faire sa lessive beaucoup plus agréable  On voit que l’entretien est pris au sérieux et la personne qui s’occupe et super gentil.\n\nJe suis très satisfaite de mon expérience et je reviendrai sans hésiter Une très bonne laverie à Nancy, que je recommande à 100%😊👏",
+        "langue": "fr",
+        "date": "2026-09-13",
+        "auteur": "Mathilde Nicolas",
+        "auteur_lien": "https://www.google.com/maps/contrib/115155017212386566223/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xWcGFHTlJPSFJ4ZWw5RGExRnFUVVJ0TTIxM2RGRRAB!2m1!1s0x4794990015d671c3:0xd7f679f12870a358"
+      },
+      {
+        "note": 5,
+        "texte": "Super laverie, très propre, les machines, marchent à merveille et nous font gagner du temps: autant le lavage que le séchage.\nDe plus, c’est un lieu agréable, y a les envois, Vinted et mondial Relay et même du café en attendant son linge. 5 étoiles",
+        "langue": "fr",
+        "date": "2026-09-08",
+        "auteur": "Lat Dior Jr",
+        "auteur_lien": "https://www.google.com/maps/contrib/105269059281741936258/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xCblpWRXRjbUUxU0Vwck1rWmtWRTFtWlRaVFlrRRAB!2m1!1s0x4794990015d671c3:0xd7f679f12870a358"
+      },
+      {
+        "note": 5,
+        "texte": "Très bonne laverie, propre et bien entretenue ! Les machines fonctionnent parfaitement et le paiement par carte est vraiment pratique. Mention spéciale au patron qui est très sympa, accueillant et disponible. Ça fait plaisir d’avoir un service aussi agréable. Je recommande sans hésiter ! 😊👍",
+        "langue": "fr",
+        "date": "2026-08-28",
+        "auteur": "Oumaima Sabiki",
+        "auteur_lien": "https://www.google.com/maps/contrib/102650522312091688906/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT210aFREazRibnBzUVhCMmVFMU1aR1ZzYVMxQ05tYxAB!2m1!1s0x4794990015d671c3:0xd7f679f12870a358"
+      },
+      {
+        "note": 5,
+        "texte": "Très bonne laverie , propre et entretenue , je suis toujours satisfaite du linge qui ressort bon et propre ! prix très correct , central de paiement fonctionnel et pratique en carte , en billet ou pièce dès 10 centimes .\nC’est avec sincérité que je recommande cette laverie .\nGérant agréable souriant , respectueux .\nje reviens tout le temps avec mon linge dans cette laverie qui est parfaite !\nMerci",
+        "langue": "fr",
+        "date": "2025-11-16",
+        "auteur": "Laure Ruelle",
+        "auteur_lien": "https://www.google.com/maps/contrib/106155014715611969200/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2tVMldtOXZYMUJOTUhOeWJGQkpOV0ZtTFZsck1GRRAB!2m1!1s0x4794990015d671c3:0xd7f679f12870a358"
+      }
+    ]
+  },
+  "redaction": {
+    "version": 2,
+    "titre": "Laverie Clemenceau — Nettoyage et hygiène à Nancy",
+    "meta_titre": "Laverie Clemenceau à Nancy : horaires, avis, téléphone",
+    "meta_description": "Laverie Clemenceau, nettoyage et hygiène à Nancy : horaires d'ouverture, note Google 4,7/5 (84 avis), téléphone, adresse et itinéraire.",
+    "chapo": "Laverie Clemenceau est un nettoyage et hygiène au 54 Boulevard Georges Clemenceau, à Nancy. Ouvert sept jours sur sept au relevé du 25 novembre 2026. Téléphone : 03 83 55 34 58. Note Google : 4,7 sur 5 pour 84 avis.",
+    "sections": [
+      {
+        "id": "presentation",
+        "titre": "Laverie Clemenceau en quelques mots",
+        "paragraphes": [
+          "Sur Google, l'établissement est classé « Blanchisserie », dans notre rubrique Nettoyage et hygiène.",
+          "D'après le relevé du 25 novembre 2026, l'établissement est ouvert sept jours sur sept. Le détail jour par jour figure plus bas."
+        ]
+      },
+      {
+        "id": "acces",
+        "titre": "Adresse et accès",
+        "paragraphes": [
+          "L'établissement est situé au 54 Boulevard Georges Clemenceau, 54000 Nancy.",
+          "Coordonnées GPS : 48.67549, 6.18237. Le bouton Itinéraire de cette page ouvre la navigation."
+        ]
+      },
+      {
+        "id": "contact",
+        "titre": "Contacter Laverie Clemenceau",
+        "paragraphes": [
+          "Le contact se fait par téléphone au 03 83 55 34 58, ou directement sur place aux horaires d'ouverture."
+        ]
+      },
+      {
+        "id": "avis",
+        "titre": "La réputation de Laverie Clemenceau",
+        "paragraphes": [
+          "Note de 4,7 sur 5 pour 84 avis Google au relevé du 25 novembre 2026. Les avis les plus parlants sont compilés ci-dessous, avec un lien vers la fiche d'origine."
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "q": "Quels sont les horaires de Laverie Clemenceau ?",
+        "r": "Au relevé du 25 novembre 2026, Laverie Clemenceau était ouvert sept jours sur sept. Dans le détail — lundi : de 11 h à 0 h ; mardi : de 9 h à 0 h ; mercredi : de 11 h à 0 h ; jeudi : de 9 h à 0 h ; vendredi : de 9 h à 0 h ; samedi : de 9 h à 22 h 30 ; dimanche : de 9 h à 0 h. Ces horaires peuvent changer : un appel préalable reste conseillé."
+      },
+      {
+        "q": "Laverie Clemenceau est-il ouvert le dimanche ?",
+        "r": "Oui : le dimanche, Laverie Clemenceau est ouvert de 9 h à 0 h (horaires relevés le 25 novembre 2026)."
+      },
+      {
+        "q": "Où se trouve Laverie Clemenceau ?",
+        "r": "Laverie Clemenceau se trouve 54 Bd Georges Clemenceau, 54000 Nancy. Un lien d'itinéraire est disponible sur cette page."
+      },
+      {
+        "q": "Comment contacter Laverie Clemenceau ?",
+        "r": "Par téléphone au 03 83 55 34 58, ou directement sur place aux heures d'ouverture."
+      },
+      {
+        "q": "Laverie Clemenceau est-il accessible aux personnes à mobilité réduite ?",
+        "r": "La fiche Google de l'établissement mentionne : « Parking accessible en fauteuil roulant ». Cette information est déclarative ; en cas de doute, vérifiez par téléphone."
+      }
+    ],
+    "genere_le": "2026-11-25"
+  },
+  "statut_google": "OPERATIONAL",
+  "audience": {
+    "clics": 0,
+    "impressions": 0,
+    "position": null,
+    "fenetreJours": 90,
+    "clicsRecents": 0,
+    "fenetreRecenteJours": 28,
+    "source": "search-console",
+    "date": "2026-11-25"
+  }
+}

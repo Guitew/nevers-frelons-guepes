@@ -1,0 +1,297 @@
+{
+  "id": "ChIJo7gVv71JVg0RWQ0CAixCalQ",
+  "slug": "pau-exotic-23-boutique-exotique",
+  "nom": "Pau exotic 23 (Boutique exotique)",
+  "categorie": "commerces-alimentation",
+  "categorie_gmb": "Épicerie",
+  "type_principal": "grocery_store",
+  "types": [
+    "grocery_store",
+    "cosmetics_store",
+    "hair_salon",
+    "meal_takeaway",
+    "hair_care",
+    "food_store",
+    "restaurant",
+    "food",
+    "point_of_interest",
+    "service",
+    "store",
+    "establishment"
+  ],
+  "ville": "Pau",
+  "ville_slug": "pau",
+  "adresse": {
+    "rue": "23 Avenue de Buros",
+    "code_postal": "64000",
+    "departement": "64",
+    "region": "Nouvelle-Aquitaine",
+    "pays": "France",
+    "complete": "23 Av. de Buros, 64000 Pau"
+  },
+  "telephone": "05 24 36 79 32",
+  "geo": {
+    "latitude": 43.3100545,
+    "longitude": -0.3525388
+  },
+  "note": 4,
+  "avis": 165,
+  "horaires": [
+    {
+      "jour": 0,
+      "ferme": false,
+      "creneaux": [
+        [
+          "09:30",
+          "20:00"
+        ]
+      ]
+    },
+    {
+      "jour": 1,
+      "ferme": false,
+      "creneaux": [
+        [
+          "09:30",
+          "20:00"
+        ]
+      ]
+    },
+    {
+      "jour": 2,
+      "ferme": false,
+      "creneaux": [
+        [
+          "10:30",
+          "20:00"
+        ]
+      ]
+    },
+    {
+      "jour": 3,
+      "ferme": false,
+      "creneaux": [
+        [
+          "09:30",
+          "20:00"
+        ]
+      ]
+    },
+    {
+      "jour": 4,
+      "ferme": false,
+      "creneaux": [
+        [
+          "09:30",
+          "13:00"
+        ],
+        [
+          "15:00",
+          "20:00"
+        ]
+      ]
+    },
+    {
+      "jour": 5,
+      "ferme": false,
+      "creneaux": [
+        [
+          "09:30",
+          "20:00"
+        ]
+      ]
+    },
+    {
+      "jour": 6,
+      "ferme": false,
+      "creneaux": [
+        [
+          "10:30",
+          "14:30"
+        ]
+      ]
+    }
+  ],
+  "attributs": [
+    "Entrée accessible en fauteuil roulant",
+    "Parking accessible en fauteuil roulant"
+  ],
+  "lien_google": "https://maps.google.com/?cid=6082747003496959321&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
+  "site_web_gmb": null,
+  "statut": "publiee",
+  "backlink": {
+    "etat": "absent",
+    "premiere_detection": null,
+    "derniere_detection": null,
+    "derniere_verification": "2026-11-25T15:31:01.414Z",
+    "echecs": 1,
+    "url_detectee": null
+  },
+  "suggestion": {
+    "etat": "en-attente",
+    "date_soumission": null,
+    "tentatives": 0,
+    "date_email": "2026-11-25"
+  },
+  "retrait": null,
+  "dates": {
+    "collecte": "2026-11-25",
+    "publication": "2026-11-25",
+    "maj": "2026-11-25"
+  },
+  "source": "google-places",
+  "avis_detail": {
+    "releve": "2026-11-25",
+    "liste": [
+      {
+        "note": 5,
+        "texte": "Une boutique éxotique ouverte le dimanche, le personnel est très a l’écoute et très sympathique .\nUn bon choix de poisson et de viande. Beaucoup d’épices et un Bon choix de riz de différentes cultures .\nOn voit que la boutique est en développement, j’ai hâte d’y refaire un tour.",
+        "langue": "fr",
+        "date": "2026-11-08",
+        "auteur": "Christèle Robineau",
+        "auteur_lien": "https://www.google.com/maps/contrib/108685721747885185123/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25SbmQxVTBhVWRKT0ZOUmMyczFPRmhGU0VSeFNHYxAB!2m1!1s0xd5649bdbf15b8a3:0x546a422c02020d59"
+      },
+      {
+        "note": 4,
+        "texte": "Ce magasin est super, les produits sont pas du tout chers. Je vous le recommande à 💯",
+        "langue": "fr",
+        "date": "2026-09-26",
+        "auteur": "Abdoulaye Alhadji",
+        "auteur_lien": "https://www.google.com/maps/contrib/117996317298958485349/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2s1V1FtOXZVVUZRYTBWbFIybEpkRWMwTjB3eVRsRRAB!2m1!1s0xd5649bdbf15b8a3:0x546a422c02020d59"
+      },
+      {
+        "note": 1,
+        "texte": "J’u suis allée 2 fois pour déposer un colis et une attente très longue car la dame prend son temps et ne vient pas vous voir\nEt une 3eme ils étaient fermés pendant les heures d’ouverture",
+        "langue": "fr",
+        "date": "2026-09-02",
+        "auteur": "Sandrine M",
+        "auteur_lien": "https://www.google.com/maps/contrib/115327262215756812623/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25wSmJsUklVMVpMUkdWVmNuVlBXV1pCY1ZVMGNGRRAB!2m1!1s0xd5649bdbf15b8a3:0x546a422c02020d59"
+      },
+      {
+        "note": 3,
+        "texte": "Manque de clarté\nLe magasin est mal Achalandé",
+        "langue": "fr",
+        "date": "2026-08-14",
+        "auteur": "Loïsa02 Inco",
+        "auteur_lien": "https://www.google.com/maps/contrib/107032337786816955796/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT21KUVdsZ3RSRVF4Umt0S2EyZHhPWEowVldNd1MwRRAB!2m1!1s0xd5649bdbf15b8a3:0x546a422c02020d59"
+      },
+      {
+        "note": 2,
+        "texte": "Aujourd'hui dimanche ouverture affichée à 10h30 comme tous les dimanche. Surprise à mon arrivée à 11h porte fermée et des gens qui attendent devant la porte depuis 30mn certaines commencent à partir, découragées de la longue attente. C'est pas sérieux. Manque de professionnalisme\nFinalement la dame arrive, tout sourire mais pas un mot d'excuse sur son retard inadmissible! On lui dit qu'il ya des clients qui sont partis, elle souligne qu'elle les a vu partir du parking. En plus, elle le dit avec le sourire qui n'a rien à envier au légendaire flegme britannique! J'ai halluciné! Mais j'étais pas au bout de mes surprises. Arrivée en caisse, impossible de faire fonctionner le paiement sans contact. Elle n'est ni désolée ni agacée. Elle demeure imperturbable devant mon désarroi. Je venais de rater mon bus.\nD'autre part, prix mal affichés en rayon( 5,90€qui devient 7,99€ en caisse) J'ai dû me séparer d'un produit.\nPour finir, les vendeurs ne sont pas raccord, certains annoncent l'approvisionnement de certaines denrées à telle date. On attend patiemment, arrivée à la date en question ya pas le produit en l'occurrence le maad: fruit exotic du Sénégal.\nLa patronne ne sait même pas exactement la date de livraison ou même la période\nBref, aucun professionnalisme\nLes vendeurs sont imbus de leur personne et nonchalant toujours les yeux rivés sur leur téléphone. Je n'en peux plus! Ma patience a des limites et le client est roi, en l'occurrence la cliente (moi) est reine!\nJe ne recommande pas!",
+        "langue": "fr",
+        "date": "2026-05-10",
+        "auteur": "Aïda Fall",
+        "auteur_lien": "https://www.google.com/maps/contrib/115182915131354358672/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT21Ka2JuUjNhMDlGUkVkVGMxZHpNR2d5YjJOQ1EzYxAB!2m1!1s0xd5649bdbf15b8a3:0x546a422c02020d59"
+      }
+    ]
+  },
+  "services": {
+    "releve": "2026-11-25",
+    "options": {
+      "takeout": true,
+      "delivery": true,
+      "restroom": false
+    },
+    "paiement": [
+      "carte bancaire",
+      "carte de débit",
+      "paiement sans contact"
+    ],
+    "parking": [
+      "stationnement gratuit dans la rue"
+    ]
+  },
+  "redaction": {
+    "version": 2,
+    "titre": "Pau exotic 23 (Boutique exotique) — Commerce d'alimentation à Pau",
+    "meta_titre": "Pau exotic 23 (Boutique exotique) à Pau : horaires, avis",
+    "meta_description": "Pau exotic 23 (Boutique exotique), commerce d'alimentation à Pau : horaires d'ouverture, note Google 4/5 (165 avis), téléphone, adresse et itinéraire.",
+    "chapo": "Pau exotic 23 (Boutique exotique) est un commerce d'alimentation au 23 Avenue de Buros, à Pau. Ouvert sept jours sur sept au relevé du 25 novembre 2026. Téléphone : 05 24 36 79 32. Note Google : 4 sur 5 pour 165 avis.",
+    "sections": [
+      {
+        "id": "presentation",
+        "titre": "Pau exotic 23 (Boutique exotique) en quelques mots",
+        "paragraphes": [
+          "Sur Google, l'établissement est classé « Épicerie », dans notre rubrique Commerce d'alimentation.",
+          "D'après le relevé du 25 novembre 2026, l'établissement est ouvert sept jours sur sept. Le détail jour par jour figure plus bas."
+        ]
+      },
+      {
+        "id": "prestations",
+        "titre": "Services et équipements de Pau exotic 23 (Boutique exotique)",
+        "paragraphes": [
+          "Proposé : à emporter et livraison.",
+          "Non proposé selon la fiche Google : toilettes.",
+          "Moyens de paiement déclarés : carte bancaire, carte de débit et paiement sans contact.",
+          "Stationnement : stationnement gratuit dans la rue.",
+          "Ces indications sont déclarées par l'établissement sur sa fiche Google (relevé du 25 novembre 2026)."
+        ]
+      },
+      {
+        "id": "acces",
+        "titre": "Adresse et accès",
+        "paragraphes": [
+          "L'établissement est situé au 23 Avenue de Buros, 64000 Pau.",
+          "Coordonnées GPS : 43.31005, -0.35254. Le bouton Itinéraire de cette page ouvre la navigation."
+        ]
+      },
+      {
+        "id": "contact",
+        "titre": "Contacter Pau exotic 23 (Boutique exotique)",
+        "paragraphes": [
+          "Le contact se fait par téléphone au 05 24 36 79 32, ou directement sur place aux horaires d'ouverture."
+        ]
+      },
+      {
+        "id": "avis",
+        "titre": "La réputation de Pau exotic 23 (Boutique exotique)",
+        "paragraphes": [
+          "Note de 4 sur 5 pour 165 avis Google au relevé du 25 novembre 2026. Les avis les plus parlants sont compilés ci-dessous, avec un lien vers la fiche d'origine."
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "q": "Quels sont les horaires de Pau exotic 23 (Boutique exotique) ?",
+        "r": "Au relevé du 25 novembre 2026, Pau exotic 23 (Boutique exotique) était ouvert sept jours sur sept. Dans le détail — lundi : de 9 h 30 à 20 h ; mardi : de 9 h 30 à 20 h ; mercredi : de 10 h 30 à 20 h ; jeudi : de 9 h 30 à 20 h ; vendredi : de 9 h 30 à 13 h et de 15 h à 20 h ; samedi : de 9 h 30 à 20 h ; dimanche : de 10 h 30 à 14 h 30. Ces horaires peuvent changer : un appel préalable reste conseillé."
+      },
+      {
+        "q": "Pau exotic 23 (Boutique exotique) est-il ouvert le dimanche ?",
+        "r": "Oui : le dimanche, Pau exotic 23 (Boutique exotique) est ouvert de 10 h 30 à 14 h 30 (horaires relevés le 25 novembre 2026)."
+      },
+      {
+        "q": "Où se trouve Pau exotic 23 (Boutique exotique) ?",
+        "r": "Pau exotic 23 (Boutique exotique) se trouve 23 Av. de Buros, 64000 Pau. Un lien d'itinéraire est disponible sur cette page."
+      },
+      {
+        "q": "Comment contacter Pau exotic 23 (Boutique exotique) ?",
+        "r": "Par téléphone au 05 24 36 79 32, ou directement sur place aux heures d'ouverture."
+      },
+      {
+        "q": "Pau exotic 23 (Boutique exotique) propose-t-il la vente à emporter ou la livraison ?",
+        "r": "D'après sa fiche Google (relevé du 25 novembre 2026) — vente à emporter : oui ; livraison : oui."
+      },
+      {
+        "q": "Pau exotic 23 (Boutique exotique) est-il accessible aux personnes à mobilité réduite ?",
+        "r": "La fiche Google de l'établissement mentionne : « Entrée accessible en fauteuil roulant ». Cette information est déclarative ; en cas de doute, vérifiez par téléphone."
+      }
+    ],
+    "genere_le": "2026-11-25"
+  },
+  "statut_google": "OPERATIONAL",
+  "audience": {
+    "clics": 0,
+    "impressions": 0,
+    "position": null,
+    "fenetreJours": 90,
+    "clicsRecents": 0,
+    "fenetreRecenteJours": 28,
+    "source": "search-console",
+    "date": "2026-11-25"
+  }
+}

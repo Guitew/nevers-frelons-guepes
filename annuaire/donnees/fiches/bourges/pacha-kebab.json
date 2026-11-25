@@ -1,0 +1,293 @@
+{
+  "id": "ChIJISzt0iSX-kcR7I3Bf3gBuoQ",
+  "slug": "pacha-kebab",
+  "nom": "Pacha kebab",
+  "categorie": "restaurants",
+  "categorie_gmb": "Restauration rapide",
+  "type_principal": "fast_food_restaurant",
+  "types": [
+    "fast_food_restaurant",
+    "restaurant",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "ville": "Bourges",
+  "ville_slug": "bourges",
+  "adresse": {
+    "rue": "",
+    "code_postal": "18000",
+    "departement": "18",
+    "region": "Centre-Val de Loire",
+    "pays": "France",
+    "complete": "18000 Bourges"
+  },
+  "telephone": "07 67 58 99 82",
+  "geo": {
+    "latitude": 47.063866,
+    "longitude": 2.3981594
+  },
+  "note": 4.8,
+  "avis": 287,
+  "horaires": [
+    {
+      "jour": 0,
+      "ferme": false,
+      "creneaux": [
+        [
+          "10:00",
+          "22:30"
+        ]
+      ]
+    },
+    {
+      "jour": 1,
+      "ferme": false,
+      "creneaux": [
+        [
+          "10:00",
+          "22:30"
+        ]
+      ]
+    },
+    {
+      "jour": 2,
+      "ferme": false,
+      "creneaux": [
+        [
+          "10:00",
+          "22:30"
+        ]
+      ]
+    },
+    {
+      "jour": 3,
+      "ferme": false,
+      "creneaux": [
+        [
+          "10:00",
+          "22:30"
+        ]
+      ]
+    },
+    {
+      "jour": 4,
+      "ferme": false,
+      "creneaux": [
+        [
+          "10:00",
+          "22:30"
+        ]
+      ]
+    },
+    {
+      "jour": 5,
+      "ferme": false,
+      "creneaux": [
+        [
+          "10:00",
+          "23:00"
+        ]
+      ]
+    },
+    {
+      "jour": 6,
+      "ferme": true,
+      "creneaux": []
+    }
+  ],
+  "attributs": [],
+  "lien_google": "https://maps.google.com/?cid=9563958375725764076&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
+  "site_web_gmb": null,
+  "statut": "publiee",
+  "backlink": {
+    "etat": "absent",
+    "premiere_detection": null,
+    "derniere_detection": null,
+    "derniere_verification": "2026-11-25T15:31:01.414Z",
+    "echecs": 1,
+    "url_detectee": null
+  },
+  "suggestion": {
+    "etat": "en-attente",
+    "date_soumission": null,
+    "tentatives": 0,
+    "date_email": "2026-11-25"
+  },
+  "retrait": null,
+  "dates": {
+    "collecte": "2026-11-25",
+    "publication": "2026-11-25",
+    "maj": "2026-11-25"
+  },
+  "source": "google-places",
+  "avis_detail": {
+    "releve": "2026-11-25",
+    "liste": [
+      {
+        "note": 5,
+        "texte": "Service rapide, personnel souriant et prix très léger pour une assiette plus que copieusement garnie.\nProduits frais, viande excellente et le tout fait maison.\nA recommander",
+        "langue": "fr",
+        "date": "2026-09-02",
+        "auteur": "brigitte ROURE",
+        "auteur_lien": "https://www.google.com/maps/contrib/114917432066760705464/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25aNGFEVnZYMkZSVXpRNGJXMURPR3N0Wkd4bmFFRRAB!2m1!1s0x47fa9724d2ed2c21:0x84ba01787fc18dec"
+      },
+      {
+        "note": 5,
+        "texte": "Très Accueillant que sa soit le soir ou le midi ,formidable équipe, endroit très propre toilette impeccable.\nKebab, Tacos, Menu enfant au top même les assiettes ces incroyable ces trop bon on peux même enlever ou même rajouter des ingrédient ces pas la 1er fois que je viens dans kebab je recommande à tout le monde 👍🌮🌮",
+        "langue": "fr",
+        "date": "2026-08-05",
+        "auteur": "Le voyageur",
+        "auteur_lien": "https://www.google.com/maps/contrib/103173842488217881566/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2s1c1QwMDJXaTFVZDFoaFFtNWlSMjlGZEd4MFdGRRAB!2m1!1s0x47fa9724d2ed2c21:0x84ba01787fc18dec"
+      },
+      {
+        "note": 5,
+        "texte": "Excellente découverte ! Tout était parfait du début à la fin. La cuisine est délicieuse, les produits sont de qualité et les portions sont généreuses. On sent que les plats sont préparés avec soin.\n\nLe personnel est vraiment très sympathique, accueillant et toujours souriant. Le service est rapide et l’ambiance est agréable. Un grand parking est également à disposition, ce qui est un vrai plus.\n\nJe recommande cet établissement les yeux fermés. C’est sans aucun doute l’un des meilleurs kebabs de Bourges. J’y reviendrai avec grand plaisir !",
+        "langue": "fr",
+        "date": "2026-07-04",
+        "auteur": "scoot matt",
+        "auteur_lien": "https://www.google.com/maps/contrib/108630180519988998918/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25Jd1YxaE5WVlJXVVVoWVpIcHhibU50UnpBd05tYxAB!2m1!1s0x47fa9724d2ed2c21:0x84ba01787fc18dec"
+      },
+      {
+        "note": 5,
+        "texte": "Vraiment un restaurant que je conseille !\n​Les assiettes sont très grandes et particulièrement généreuses. Un excellent point pour les frites fraîches qui sont servies à part, ce qui leur permet de rester bien croustillantes.\n​Le petit plus qui fait plaisir : ils offrent même des petits piments pour accompagner le plat. Et pour finir le repas en beauté, le thé turc est la touche finale parfaite gratuitement\n​Une super adresse, allez-y les yeux fermés !",
+        "langue": "fr",
+        "date": "2026-06-20",
+        "auteur": "Olivier Blanc",
+        "auteur_lien": "https://www.google.com/maps/contrib/108862940649346099931/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2pNNGJFNDJVMDV1YkZkaE5qZzJiR3A2TURnMVpVRRAB!2m1!1s0x47fa9724d2ed2c21:0x84ba01787fc18dec"
+      },
+      {
+        "note": 5,
+        "texte": "De passage pour le boulot, j’ai choisi le pacha kebab et je ne regrette pas. Je recommande à 100%. J’ai mangé 4 fois à chaque passage sur Bourges et c’est excellent. J’ai testé assiette kebab, assiette poulet et Kunefe. Très bon accueil également et on se sent comme à la maison 👍🏼",
+        "langue": "fr",
+        "date": "2026-03-31",
+        "auteur": "Hocine Moussi",
+        "auteur_lien": "https://www.google.com/maps/contrib/117396164057576011336/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2pWQlJGQmtjSFpsT0ZGWk1uTlJkRWR0VEhOSmVIYxAB!2m1!1s0x47fa9724d2ed2c21:0x84ba01787fc18dec"
+      }
+    ]
+  },
+  "services": {
+    "releve": "2026-11-25",
+    "prix": "PRICE_LEVEL_INEXPENSIVE",
+    "options": {
+      "dineIn": true,
+      "takeout": true,
+      "delivery": true,
+      "curbsidePickup": false,
+      "servesBreakfast": true,
+      "servesLunch": true,
+      "servesDinner": true,
+      "servesVegetarianFood": true,
+      "servesCoffee": true,
+      "servesBeer": false,
+      "servesWine": false,
+      "menuForChildren": true,
+      "goodForChildren": true,
+      "goodForGroups": true,
+      "restroom": true
+    },
+    "paiement": [
+      "carte bancaire",
+      "carte de débit",
+      "paiement sans contact"
+    ],
+    "parking": [
+      "parking gratuit",
+      "stationnement gratuit dans la rue"
+    ]
+  },
+  "redaction": {
+    "version": 2,
+    "titre": "Pacha kebab — Restaurant à Bourges",
+    "meta_titre": "Pacha kebab à Bourges : horaires, avis, téléphone",
+    "meta_description": "Pacha kebab, restaurant à Bourges : horaires d'ouverture, note Google 4,8/5 (287 avis), téléphone, adresse et itinéraire.",
+    "chapo": "Pacha kebab exerce l'activité de restaurant à Bourges. Ouvert tous les jours sauf le dimanche au relevé du 25 novembre 2026. Téléphone : 07 67 58 99 82. Note Google : 4,8 sur 5 pour 287 avis.",
+    "sections": [
+      {
+        "id": "presentation",
+        "titre": "Pacha kebab en quelques mots",
+        "paragraphes": [
+          "Sur Google, l'établissement est classé « Restauration rapide », dans notre rubrique Restaurant.",
+          "Niveau de prix indiqué sur la fiche Google : € (bon marché).",
+          "D'après le relevé du 25 novembre 2026, l'établissement est ouvert tous les jours sauf le dimanche. Le détail jour par jour figure plus bas."
+        ]
+      },
+      {
+        "id": "prestations",
+        "titre": "Services et équipements de Pacha kebab",
+        "paragraphes": [
+          "Proposé : sur place, à emporter, livraison, petit-déjeuner, déjeuner, dîner, plats végétariens, café, menu enfant, adapté aux enfants, adapté aux groupes et toilettes.",
+          "Non proposé selon la fiche Google : retrait en voiture, bière et vin.",
+          "Moyens de paiement déclarés : carte bancaire, carte de débit et paiement sans contact.",
+          "Stationnement : parking gratuit et stationnement gratuit dans la rue.",
+          "Ces indications sont déclarées par l'établissement sur sa fiche Google (relevé du 25 novembre 2026)."
+        ]
+      },
+      {
+        "id": "acces",
+        "titre": "Adresse et accès",
+        "paragraphes": [
+          "L'établissement est situé, 18000 Bourges.",
+          "Coordonnées GPS : 47.06387, 2.39816. Le bouton Itinéraire de cette page ouvre la navigation."
+        ]
+      },
+      {
+        "id": "contact",
+        "titre": "Contacter Pacha kebab",
+        "paragraphes": [
+          "Le contact se fait par téléphone au 07 67 58 99 82, ou directement sur place aux horaires d'ouverture."
+        ]
+      },
+      {
+        "id": "avis",
+        "titre": "La réputation de Pacha kebab",
+        "paragraphes": [
+          "Note de 4,8 sur 5 pour 287 avis Google au relevé du 25 novembre 2026. Les avis les plus parlants sont compilés ci-dessous, avec un lien vers la fiche d'origine."
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "q": "Quels sont les horaires de Pacha kebab ?",
+        "r": "Au relevé du 25 novembre 2026, Pacha kebab était ouvert tous les jours sauf le dimanche. Dans le détail — lundi : de 10 h à 22 h 30 ; mardi : de 10 h à 22 h 30 ; mercredi : de 10 h à 22 h 30 ; jeudi : de 10 h à 22 h 30 ; vendredi : de 10 h à 22 h 30 ; samedi : de 10 h à 23 h ; dimanche : fermé. Ces horaires peuvent changer : un appel préalable reste conseillé."
+      },
+      {
+        "q": "Pacha kebab est-il ouvert le dimanche ?",
+        "r": "Non : d'après les horaires relevés le 25 novembre 2026, Pacha kebab est fermé le dimanche."
+      },
+      {
+        "q": "Où se trouve Pacha kebab ?",
+        "r": "Pacha kebab se trouve 18000 Bourges. Un lien d'itinéraire est disponible sur cette page."
+      },
+      {
+        "q": "Comment contacter Pacha kebab ?",
+        "r": "Par téléphone au 07 67 58 99 82, ou directement sur place aux heures d'ouverture."
+      },
+      {
+        "q": "Pacha kebab propose-t-il la vente à emporter ou la livraison ?",
+        "r": "D'après sa fiche Google (relevé du 25 novembre 2026) — vente à emporter : oui ; livraison : oui."
+      },
+      {
+        "q": "Quel est le niveau de prix de Pacha kebab ?",
+        "r": "Google classe Pacha kebab au niveau de prix € (bon marché), sur une échelle de € à €€€€ établie à partir des avis clients."
+      }
+    ],
+    "genere_le": "2026-11-25"
+  },
+  "statut_google": "OPERATIONAL",
+  "audience": {
+    "clics": 0,
+    "impressions": 0,
+    "position": null,
+    "fenetreJours": 90,
+    "clicsRecents": 0,
+    "fenetreRecenteJours": 28,
+    "source": "search-console",
+    "date": "2026-11-25"
+  }
+}

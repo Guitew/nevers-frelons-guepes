@@ -1,5 +1,160 @@
 [
   {
+    "date": "2026-11-25T15:31:12.634Z",
+    "type": "suggestion-soumise",
+    "id": "ChIJl7nxsI-16UcR6SJj8WGP3D8",
+    "nom": "garage des minimes",
+    "url": "/garages-automobile/laon/garage-des-minimes/"
+  },
+  {
+    "date": "2026-11-25T15:31:12.580Z",
+    "type": "suggestion-soumise",
+    "id": "ChIJE4O4Sqb85EcRS18STkmpXgA",
+    "nom": "Sa Cars Dunois",
+    "url": "/services-aux-particuliers/saint-jean-de-braye/sa-cars-dunois/"
+  },
+  {
+    "date": "2026-11-25T15:31:12.522Z",
+    "type": "suggestion-soumise",
+    "id": "ChIJiRGRcAl760cR0ZOLHk3qb5Y",
+    "nom": "Wokasie",
+    "url": "/restaurants/bar-le-duc/wokasie/"
+  },
+  {
+    "date": "2026-11-25T15:31:12.464Z",
+    "type": "suggestion-soumise",
+    "id": "ChIJi0Mou3AN4kcRXpoMRvthcas",
+    "nom": "Viveco",
+    "url": "/commerces-alimentation/alencon/viveco/"
+  },
+  {
+    "date": "2026-11-25T15:31:12.401Z",
+    "type": "suggestion-soumise",
+    "id": "ChIJFcNfMCjbEEgR-OzeMv1XTP8",
+    "nom": "Madasia Store",
+    "url": "/commerces-alimentation/quimper/madasia-store/"
+  },
+  {
+    "date": "2026-11-25T15:31:11.605Z",
+    "type": "retrait-410",
+    "id": "ChIJ1QvHqaD79UcR7DrZsBK0DrE",
+    "nom": "Bar Du Rocher",
+    "url": "/cafes-bars/espaly-saint-marcel/bar-du-rocher/",
+    "motif": "backlink jamais posé après 45 jours de délai de grâce",
+    "cible": null
+  },
+  {
+    "date": "2026-11-25T15:31:11.612Z",
+    "type": "retrait-410",
+    "id": "ChIJfRvDXt3dlEcR-Cqtu2l0-5A",
+    "nom": "La fontaine du bonheur",
+    "url": "/restaurants/metz/la-fontaine-du-bonheur/",
+    "motif": "backlink jamais posé après 45 jours de délai de grâce",
+    "cible": null
+  },
+  {
+    "date": "2026-11-25T15:31:11.613Z",
+    "type": "retrait-410",
+    "id": "ChIJLWnjfdrAyRIRwLmwavVTw5A",
+    "nom": "Ô Cercle",
+    "url": "/restaurants/marseille/o-cercle/",
+    "motif": "backlink jamais posé après 45 jours de délai de grâce",
+    "cible": null
+  },
+  {
+    "date": "2026-11-25T15:31:01.529Z",
+    "type": "backlink-absent",
+    "id": "ChIJw3HWFQCZlEcRWKNwKPF59tc",
+    "nom": "Laverie Clemenceau",
+    "url": null,
+    "precedent": "en-attente"
+  },
+  {
+    "date": "2026-11-25T15:31:01.578Z",
+    "type": "backlink-absent",
+    "id": "ChIJISzt0iSX-kcR7I3Bf3gBuoQ",
+    "nom": "Pacha kebab",
+    "url": null,
+    "precedent": "en-attente"
+  },
+  {
+    "date": "2026-11-25T15:31:01.655Z",
+    "type": "backlink-absent",
+    "id": "ChIJo7gVv71JVg0RWQ0CAixCalQ",
+    "nom": "Pau exotic 23 (Boutique exotique)",
+    "url": null,
+    "precedent": "en-attente"
+  },
+  {
+    "date": "2026-11-25T15:31:01.705Z",
+    "type": "backlink-absent",
+    "id": "ChIJu4N-iM2u9UcRBgMhOH0qlDY",
+    "nom": "TABAC Ô COFFEE",
+    "url": null,
+    "precedent": "en-attente"
+  },
+  {
+    "date": "2026-11-25T15:31:01.760Z",
+    "type": "backlink-absent",
+    "id": "ChIJt3FqElBv5kcRb2anog-J2iE",
+    "nom": "Tasty Crousty - Paris 18",
+    "url": null,
+    "precedent": "en-attente"
+  },
+  {
+    "date": "2026-11-25T15:31:02.995Z",
+    "type": "backlink-introuvable",
+    "id": "ChIJDZdyeRTVwkcRFLiUuiqXlcY",
+    "nom": "LA BUANDERIE LAVERIE AUTOMATIQUE LIBRE SERVICE",
+    "url": null,
+    "precedent": "absent"
+  },
+  {
+    "date": "2026-11-25T15:31:00.787Z",
+    "type": "publication",
+    "id": "ChIJISzt0iSX-kcR7I3Bf3gBuoQ",
+    "nom": "Pacha kebab",
+    "url": "/restaurants/bourges/pacha-kebab/",
+    "categorie": "restaurants",
+    "source": "google-places"
+  },
+  {
+    "date": "2026-11-25T15:31:00.898Z",
+    "type": "publication",
+    "id": "ChIJu4N-iM2u9UcRBgMhOH0qlDY",
+    "nom": "TABAC Ô COFFEE",
+    "url": "/restaurants/saint-etienne/tabac-o-coffee/",
+    "categorie": "restaurants",
+    "source": "google-places"
+  },
+  {
+    "date": "2026-11-25T15:31:01.023Z",
+    "type": "publication",
+    "id": "ChIJw3HWFQCZlEcRWKNwKPF59tc",
+    "nom": "Laverie Clemenceau",
+    "url": "/nettoyage-hygiene/nancy/laverie-clemenceau/",
+    "categorie": "nettoyage-hygiene",
+    "source": "google-places"
+  },
+  {
+    "date": "2026-11-25T15:31:01.140Z",
+    "type": "publication",
+    "id": "ChIJo7gVv71JVg0RWQ0CAixCalQ",
+    "nom": "Pau exotic 23 (Boutique exotique)",
+    "url": "/commerces-alimentation/pau/pau-exotic-23-boutique-exotique/",
+    "categorie": "commerces-alimentation",
+    "source": "google-places"
+  },
+  {
+    "date": "2026-11-25T15:31:01.259Z",
+    "type": "publication",
+    "id": "ChIJt3FqElBv5kcRb2anog-J2iE",
+    "nom": "Tasty Crousty - Paris 18",
+    "url": "/restaurants/paris/tasty-crousty-paris-18/",
+    "categorie": "restaurants",
+    "source": "google-places"
+  },
+  {
     "date": "2026-11-24T15:47:11.651Z",
     "type": "suggestion-soumise",
     "id": "ChIJ6a8y0fGF50cRsIR4yffeXbk",

@@ -270,6 +270,15 @@
     "clicsRecents": 0,
     "fenetreRecenteJours": 28,
     "source": "search-console",
-    "date": "2026-11-24"
+    "date": "2026-11-25"
+  },
+  "indexation": {
+    "etat": "indexee",
+    "verdict": null,
+    "couverture": "impressions dans la Search Console",
+    "derniere_exploration": null,
+    "canonique_google": null,
+    "source": "impressions",
+    "date": "2026-11-25"
   }
 }
