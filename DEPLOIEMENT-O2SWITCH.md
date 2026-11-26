@@ -1,8 +1,9 @@
 # Déployer le site sur o2switch
 
 Ce site est **statique** : une fois compilé, il ne s'agit que de fichiers HTML, CSS, JavaScript
-et images. Il n'a besoin ni de PHP, ni de base de données. L'hébergement mutualisé **o2switch**
-(basé sur cPanel + Apache) le sert donc parfaitement.
+et images, sans base de données. Seule la page d'administration des coordonnées
+(`admin-nap.php`, voir plus bas) utilise PHP. L'hébergement mutualisé **o2switch** (basé sur
+cPanel + Apache + PHP) le sert donc parfaitement.
 
 Le domaine concerné est **observatoire-biodiversite-npdc.fr**.
 
@@ -91,6 +92,19 @@ sous-dossier (par exemple pour un domaine additionnel :
 
 Une fois les secrets en place, chaque modification poussée sur `main` met le site à jour
 automatiquement. Vous pouvez suivre le déroulement dans l'onglet **Actions** de GitHub.
+
+> Le dossier `donnees/` (créé sur le serveur par la page d'administration `admin-nap.php`)
+> n'est **pas** effacé par les déploiements : l'action ne supprime que les fichiers qu'elle a
+> elle-même déployés.
+
+---
+
+## PHP : la page d'administration des coordonnées
+
+La page **`/admin-nap.php`** (gestion des NAP locales ALLO FRELONS, voir le README) nécessite
+**PHP 7.4 ou supérieur** (PHP 8.x recommandé). Dans cPanel o2switch : **Sélectionner une
+version de PHP**. À la première visite de la page, vous définirez le mot de passe
+d'administration (mot de passe oublié : supprimez `donnees/nap-admin.php` par FTP).
 
 ---
 
