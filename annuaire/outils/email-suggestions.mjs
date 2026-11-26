@@ -43,9 +43,14 @@ function pause(ms) {
   return new Promise((r) => setTimeout(r, ms));
 }
 
+// Rubriques exclues de la collecte (transport-déménagement…) : jamais proposées
+// par e-mail, même quand une fiche de ces rubriques est maintenue en ligne.
+const RUBRIQUES_EXCLUES = new Set(config.collecte?.categoriesExclues || []);
+
 function aMailer(fiche) {
   return (
     fiche.statut === ETATS.PUBLIEE &&
+    !RUBRIQUES_EXCLUES.has(fiche.categorie) &&
     !fiche.site_web_gmb &&
     fiche.suggestion?.etat === "en-attente" &&
     !fiche.suggestion?.date_email &&

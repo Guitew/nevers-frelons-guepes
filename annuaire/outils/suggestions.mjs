@@ -19,6 +19,7 @@
  *   node outils/suggestions.mjs --init           ajoute le champ suggestion aux fiches existantes
  */
 
+import config from "./lib/config.mjs";
 import { lireFiches, ecrireFiche, urlFiche, ETATS } from "./lib/fiches.mjs";
 import { site } from "./lib/site.mjs";
 import { aujourdhui } from "./lib/texte.mjs";
@@ -39,9 +40,13 @@ function urlPublique(fiche) {
   return site.base + urlFiche(fiche);
 }
 
+// Rubriques exclues de la collecte : jamais proposées, même si une fiche y est maintenue.
+const RUBRIQUES_EXCLUES = new Set(config.collecte?.categoriesExclues || []);
+
 function enAttente(fiche) {
   return (
     fiche.statut === ETATS.PUBLIEE &&
+    !RUBRIQUES_EXCLUES.has(fiche.categorie) &&
     !fiche.site_web_gmb &&
     fiche.suggestion?.etat === "en-attente" &&
     !fiche.suggestion?.date_email &&

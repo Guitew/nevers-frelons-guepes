@@ -34,7 +34,7 @@
   ],
   "lien_google": "https://maps.google.com/?cid=17109014567818300438&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
   "site_web_gmb": "https://andpro.fr/vitrine-locale/transport-demenagement/saint-pierre-des-corps/auchan-retail-logistique-st-pierre-des-corps/",
-  "statut": "retiree",
+  "statut": "publiee",
   "backlink": {
     "etat": "present",
     "premiere_detection": "2026-10-24T09:28:34.818Z",
@@ -49,18 +49,11 @@
     "tentatives": 1,
     "date_email": "2026-10-10"
   },
-  "retrait": {
-    "mode": "410",
-    "cible": null,
-    "date": "2026-10-18",
-    "motif": "hors cible : type Google exclu (storage) (sélection du 18/10/2026), aucune impression Google",
-    "cause": "hors-cible",
-    "manuel": true
-  },
+  "retrait": null,
   "dates": {
     "collecte": "2026-10-10",
     "publication": "2026-10-10",
-    "maj": "2026-11-09"
+    "maj": "2026-11-26"
   },
   "source": "google-places",
   "redaction": {
@@ -172,5 +165,9 @@
         "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25KNWRqaEhRWGh6YkZaeU9UZHdiWEZTUVhSTlJYYxAB!2m1!1s0x47fcd3d0a238899b:0xed6f6e1a1bcb0c16"
       }
     ]
+  },
+  "maintien": {
+    "date": "2026-11-26",
+    "motif": "remise en ligne à la demande de Guillaume (26/11/2026) : sa fiche Google pointe vers la page"
   }
 }

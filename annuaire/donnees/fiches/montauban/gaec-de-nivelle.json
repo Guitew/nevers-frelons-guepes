@@ -113,7 +113,7 @@
   "attributs": [],
   "lien_google": "https://maps.google.com/?cid=23461579933577056&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
   "site_web_gmb": "https://andpro.fr/vitrine-locale/transport-demenagement/montauban/gaec-de-nivelle/",
-  "statut": "retiree",
+  "statut": "publiee",
   "backlink": {
     "etat": "present",
     "premiere_detection": "2026-10-19T10:42:12.979Z",
@@ -128,18 +128,11 @@
     "tentatives": 1,
     "date_email": "2026-10-09"
   },
-  "retrait": {
-    "mode": "410",
-    "cible": null,
-    "date": "2026-10-18",
-    "motif": "hors cible : type Google exclu (storage) (sélection du 18/10/2026), aucune impression Google",
-    "cause": "hors-cible",
-    "manuel": true
-  },
+  "retrait": null,
   "dates": {
     "collecte": "2026-10-09",
     "publication": "2026-10-09",
-    "maj": "2026-11-21"
+    "maj": "2026-11-26"
   },
   "source": "google-places",
   "redaction": {
@@ -260,5 +253,9 @@
         "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSURaa3RmLWpBRRAB!2m1!1s0x12ac0d2c0a9640a7:0x535a2ec1cf6f60"
       }
     ]
+  },
+  "maintien": {
+    "date": "2026-11-26",
+    "motif": "remise en ligne à la demande de Guillaume (26/11/2026) : sa fiche Google pointe vers la page"
   }
 }
