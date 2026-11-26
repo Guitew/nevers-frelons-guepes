@@ -1,0 +1,292 @@
+{
+  "id": "ChIJMXj3oVv79UcRjG9tMQGR414",
+  "slug": "autopneu-brives-charensac",
+  "nom": "AUTOPNEU BRIVES CHARENSAC",
+  "categorie": "garages-automobile",
+  "categorie_gmb": "Garage automobile",
+  "type_principal": "car_repair",
+  "types": [
+    "car_repair",
+    "point_of_interest",
+    "service",
+    "establishment"
+  ],
+  "ville": "Brives-Charensac",
+  "ville_slug": "brives-charensac",
+  "adresse": {
+    "rue": "147 Avenue Charles Dupuy",
+    "code_postal": "43700",
+    "departement": "43",
+    "region": "Auvergne-Rhône-Alpes",
+    "pays": "France",
+    "complete": "147 Av. Charles Dupuy, 43700 Brives-Charensac"
+  },
+  "telephone": "04 71 07 34 83",
+  "geo": {
+    "latitude": 45.0538049,
+    "longitude": 3.9097317000000005
+  },
+  "note": 4.7,
+  "avis": 269,
+  "horaires": [
+    {
+      "jour": 0,
+      "ferme": false,
+      "creneaux": [
+        [
+          "08:30",
+          "12:00"
+        ],
+        [
+          "14:00",
+          "19:00"
+        ]
+      ]
+    },
+    {
+      "jour": 1,
+      "ferme": false,
+      "creneaux": [
+        [
+          "08:30",
+          "12:00"
+        ],
+        [
+          "14:00",
+          "19:00"
+        ]
+      ]
+    },
+    {
+      "jour": 2,
+      "ferme": false,
+      "creneaux": [
+        [
+          "08:30",
+          "12:00"
+        ],
+        [
+          "14:00",
+          "19:00"
+        ]
+      ]
+    },
+    {
+      "jour": 3,
+      "ferme": false,
+      "creneaux": [
+        [
+          "08:30",
+          "12:00"
+        ],
+        [
+          "14:00",
+          "19:00"
+        ]
+      ]
+    },
+    {
+      "jour": 4,
+      "ferme": false,
+      "creneaux": [
+        [
+          "08:30",
+          "12:00"
+        ],
+        [
+          "14:00",
+          "19:00"
+        ]
+      ]
+    },
+    {
+      "jour": 5,
+      "ferme": false,
+      "creneaux": [
+        [
+          "08:30",
+          "12:00"
+        ]
+      ]
+    },
+    {
+      "jour": 6,
+      "ferme": true,
+      "creneaux": []
+    }
+  ],
+  "attributs": [
+    "Entrée accessible en fauteuil roulant",
+    "Parking accessible en fauteuil roulant",
+    "Toilettes accessibles en fauteuil roulant",
+    "Places assises accessibles en fauteuil roulant"
+  ],
+  "lien_google": "https://maps.google.com/?cid=6837468093588795276&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
+  "site_web_gmb": null,
+  "statut": "publiee",
+  "backlink": {
+    "etat": "absent",
+    "premiere_detection": null,
+    "derniere_detection": null,
+    "derniere_verification": "2026-11-26T15:04:58.563Z",
+    "echecs": 1,
+    "url_detectee": null
+  },
+  "suggestion": {
+    "etat": "en-attente",
+    "date_soumission": null,
+    "tentatives": 0,
+    "date_email": "2026-11-26"
+  },
+  "retrait": null,
+  "dates": {
+    "collecte": "2026-11-26",
+    "publication": "2026-11-26",
+    "maj": "2026-11-26"
+  },
+  "source": "google-places",
+  "avis_detail": {
+    "releve": "2026-11-26",
+    "liste": [
+      {
+        "note": 5,
+        "texte": "Arrivé avec un pneu éclaté le samedi à 9h , changement 2 pneus , rapide 09h30 et pas cher.Top\nMerci",
+        "langue": "fr",
+        "date": "2026-09-30",
+        "auteur": "ples oliv",
+        "auteur_lien": "https://www.google.com/maps/contrib/108439156655957435514/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xRMVYwMXZTa055ZGpaUFpVTklSa1l0YXpWbVMxRRAB!2m1!1s0x47f5fb5ba1f77831:0x5ee39101316d6f8c"
+      },
+      {
+        "note": 5,
+        "texte": "Les mots me manquent, les personnes qui accordent difficilement leur confiance aux garagistes dont je fais partie, je recommande fièrement le garage Auto Pneu de brive charazac sans hésitation, grâce à leur savoir-faire professionnel. On moins de 10 minute ils ont détecté les maladies de mon mini véhicule que j'aime, et ils ont sue régler ces problèmes le même jours.\nEnfin le résultat a été excellente car je vois la différence énorme d’avant et d’après réparations, c'est comme le jour et la nuit. Au final cliente satisfaite. De ce fait je remercie le patron de se garage et son équipe.",
+        "langue": "fr",
+        "date": "2026-09-23",
+        "auteur": "Sylvia El Brazza",
+        "auteur_lien": "https://www.google.com/maps/contrib/118095377731028289349/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2tsM2NGWm1SR1pvTkRkNFdrRk5TVVoxTWxOQmJuYxAB!2m1!1s0x47f5fb5ba1f77831:0x5ee39101316d6f8c"
+      },
+      {
+        "note": 5,
+        "texte": "Pcq on ne peut mettre que 5 étoiles.\nProfessionnel et équipe très accueillante.\nDe bons conseils.\nEt au passage il peuvent même faire les changements de pneu motos.\nFranchement merci encore a l'équipe.",
+        "langue": "fr",
+        "date": "2026-08-24",
+        "auteur": "Raya n w El manaa",
+        "auteur_lien": "https://www.google.com/maps/contrib/106098788231430865716/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT20wMlQxbDNNamt6VkdSNE9XOWpUekV3WkRCcFJsRRAB!2m1!1s0x47f5fb5ba1f77831:0x5ee39101316d6f8c"
+      },
+      {
+        "note": 5,
+        "texte": "Équipe très serviable et professionnelle. Le gérant s est démené pour me trouver un essuie glace arrière pour ma polo. Prix correct.",
+        "langue": "fr",
+        "date": "2026-06-13",
+        "auteur": "Ghislaine Guillot",
+        "auteur_lien": "https://www.google.com/maps/contrib/110200599261076112107/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2preFpXcHJibUV5VFRWRE5FcDVMVUpzU1VSVWVVRRAB!2m1!1s0x47f5fb5ba1f77831:0x5ee39101316d6f8c"
+      },
+      {
+        "note": 1,
+        "texte": "4 jantes alu abîmées suite aux montages des 4 pneus neufs.\nC'est la première fois que je vois un truc pareil !!!\nJe suis revenu vous voir 10mm après avoir lavée mes jantes qui étaient dégueulasses je vous es montré les quatre jantes que vous avez abîmées !!!\nLe courrier recommandé arrive monsieur.\nLes photos sont disponibles.",
+        "langue": "fr",
+        "date": "2023-12-21",
+        "auteur": "Patrick",
+        "auteur_lien": "https://www.google.com/maps/contrib/112801190706454787440/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUMxb09XamdnRRAB!2m1!1s0x47f5fb5ba1f77831:0x5ee39101316d6f8c"
+      }
+    ]
+  },
+  "services": {
+    "releve": "2026-11-26",
+    "options": {},
+    "paiement": [
+      "carte bancaire",
+      "carte de débit",
+      "paiement sans contact"
+    ],
+    "parking": [
+      "parking gratuit"
+    ]
+  },
+  "redaction": {
+    "version": 2,
+    "titre": "AUTOPNEU BRIVES CHARENSAC — Garage et automobile à Brives-Charensac",
+    "meta_titre": "AUTOPNEU BRIVES CHARENSAC : horaires, avis, téléphone",
+    "meta_description": "AUTOPNEU BRIVES CHARENSAC, garage et automobile à Brives-Charensac : horaires d'ouverture, note Google 4,7/5 (269 avis), téléphone, adresse et itinéraire.",
+    "chapo": "AUTOPNEU BRIVES CHARENSAC exerce l'activité de garage et automobile au 147 Avenue Charles Dupuy, à Brives-Charensac. Ouvert tous les jours sauf le dimanche au relevé du 26 novembre 2026. Téléphone : 04 71 07 34 83. Note Google : 4,7 sur 5 pour 269 avis.",
+    "sections": [
+      {
+        "id": "presentation",
+        "titre": "AUTOPNEU BRIVES CHARENSAC en quelques mots",
+        "paragraphes": [
+          "Sur Google, l'établissement est classé « Garage automobile », dans notre rubrique Garage et automobile.",
+          "D'après le relevé du 26 novembre 2026, l'établissement est ouvert tous les jours sauf le dimanche. Le détail jour par jour figure plus bas."
+        ]
+      },
+      {
+        "id": "prestations",
+        "titre": "Services et équipements de AUTOPNEU BRIVES CHARENSAC",
+        "paragraphes": [
+          "Moyens de paiement déclarés : carte bancaire, carte de débit et paiement sans contact.",
+          "Stationnement : parking gratuit.",
+          "Ces indications sont déclarées par l'établissement sur sa fiche Google (relevé du 26 novembre 2026)."
+        ]
+      },
+      {
+        "id": "acces",
+        "titre": "Adresse et accès",
+        "paragraphes": [
+          "L'établissement est situé au 147 Avenue Charles Dupuy, 43700 Brives-Charensac.",
+          "Coordonnées GPS : 45.05380, 3.90973. Le bouton Itinéraire de cette page ouvre la navigation."
+        ]
+      },
+      {
+        "id": "contact",
+        "titre": "Contacter AUTOPNEU BRIVES CHARENSAC",
+        "paragraphes": [
+          "Le contact se fait par téléphone au 04 71 07 34 83, ou directement sur place aux horaires d'ouverture."
+        ]
+      },
+      {
+        "id": "avis",
+        "titre": "La réputation de AUTOPNEU BRIVES CHARENSAC",
+        "paragraphes": [
+          "Note de 4,7 sur 5 pour 269 avis Google au relevé du 26 novembre 2026. Les avis les plus parlants sont compilés ci-dessous, avec un lien vers la fiche d'origine."
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "q": "Quels sont les horaires de AUTOPNEU BRIVES CHARENSAC ?",
+        "r": "Au relevé du 26 novembre 2026, AUTOPNEU BRIVES CHARENSAC était ouvert tous les jours sauf le dimanche. Dans le détail — lundi : de 8 h 30 à 12 h et de 14 h à 19 h ; mardi : de 8 h 30 à 12 h et de 14 h à 19 h ; mercredi : de 8 h 30 à 12 h et de 14 h à 19 h ; jeudi : de 8 h 30 à 12 h et de 14 h à 19 h ; vendredi : de 8 h 30 à 12 h et de 14 h à 19 h ; samedi : de 8 h 30 à 12 h ; dimanche : fermé. Ces horaires peuvent changer : un appel préalable reste conseillé."
+      },
+      {
+        "q": "AUTOPNEU BRIVES CHARENSAC est-il ouvert le dimanche ?",
+        "r": "Non : d'après les horaires relevés le 26 novembre 2026, AUTOPNEU BRIVES CHARENSAC est fermé le dimanche."
+      },
+      {
+        "q": "Où se trouve AUTOPNEU BRIVES CHARENSAC ?",
+        "r": "AUTOPNEU BRIVES CHARENSAC se trouve 147 Av. Charles Dupuy, 43700 Brives-Charensac. Un lien d'itinéraire est disponible sur cette page."
+      },
+      {
+        "q": "Comment contacter AUTOPNEU BRIVES CHARENSAC ?",
+        "r": "Par téléphone au 04 71 07 34 83, ou directement sur place aux heures d'ouverture."
+      },
+      {
+        "q": "AUTOPNEU BRIVES CHARENSAC est-il accessible aux personnes à mobilité réduite ?",
+        "r": "La fiche Google de l'établissement mentionne : « Entrée accessible en fauteuil roulant ». Cette information est déclarative ; en cas de doute, vérifiez par téléphone."
+      }
+    ],
+    "genere_le": "2026-11-26"
+  },
+  "statut_google": "OPERATIONAL",
+  "audience": {
+    "clics": 0,
+    "impressions": 0,
+    "position": null,
+    "fenetreJours": 90,
+    "clicsRecents": 0,
+    "fenetreRecenteJours": 28,
+    "source": "search-console",
+    "date": "2026-11-26"
+  }
+}

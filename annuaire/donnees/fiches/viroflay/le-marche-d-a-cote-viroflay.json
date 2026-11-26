@@ -1,0 +1,290 @@
+{
+  "id": "ChIJD6hG1r195kcRceecrjg0Usc",
+  "slug": "le-marche-d-a-cote-viroflay",
+  "nom": "Le Marché d’à côté Viroflay",
+  "categorie": "commerces-alimentation",
+  "categorie_gmb": "Supermarché",
+  "type_principal": "supermarket",
+  "types": [
+    "supermarket",
+    "asian_grocery_store",
+    "food_delivery",
+    "grocery_store",
+    "food_store",
+    "food",
+    "point_of_interest",
+    "store",
+    "establishment"
+  ],
+  "ville": "Viroflay",
+  "ville_slug": "viroflay",
+  "adresse": {
+    "rue": "195 Avenue du Général-Leclerc",
+    "code_postal": "78220",
+    "departement": "78",
+    "region": "Île-de-France",
+    "pays": "France",
+    "complete": "195 Av. du Général-Leclerc, 78220 Viroflay"
+  },
+  "telephone": "",
+  "geo": {
+    "latitude": 48.7994597,
+    "longitude": 2.1602287
+  },
+  "note": 3.7,
+  "avis": 135,
+  "horaires": [
+    {
+      "jour": 0,
+      "ferme": false,
+      "creneaux": [
+        [
+          "09:00",
+          "23:00"
+        ]
+      ]
+    },
+    {
+      "jour": 1,
+      "ferme": false,
+      "creneaux": [
+        [
+          "09:00",
+          "23:00"
+        ]
+      ]
+    },
+    {
+      "jour": 2,
+      "ferme": false,
+      "creneaux": [
+        [
+          "09:00",
+          "23:00"
+        ]
+      ]
+    },
+    {
+      "jour": 3,
+      "ferme": false,
+      "creneaux": [
+        [
+          "09:00",
+          "23:00"
+        ]
+      ]
+    },
+    {
+      "jour": 4,
+      "ferme": false,
+      "creneaux": [
+        [
+          "09:00",
+          "00:00"
+        ]
+      ]
+    },
+    {
+      "jour": 5,
+      "ferme": false,
+      "creneaux": [
+        [
+          "09:00",
+          "00:00"
+        ]
+      ]
+    },
+    {
+      "jour": 6,
+      "ferme": false,
+      "creneaux": [
+        [
+          "09:00",
+          "23:00"
+        ]
+      ]
+    }
+  ],
+  "attributs": [
+    "Entrée accessible en fauteuil roulant"
+  ],
+  "lien_google": "https://maps.google.com/?cid=14362599579690264433&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
+  "site_web_gmb": null,
+  "statut": "publiee",
+  "backlink": {
+    "etat": "absent",
+    "premiere_detection": null,
+    "derniere_detection": null,
+    "derniere_verification": "2026-11-26T15:04:58.563Z",
+    "echecs": 1,
+    "url_detectee": null
+  },
+  "suggestion": {
+    "etat": "en-attente",
+    "date_soumission": null,
+    "tentatives": 0,
+    "date_email": "2026-11-26"
+  },
+  "retrait": null,
+  "dates": {
+    "collecte": "2026-11-26",
+    "publication": "2026-11-26",
+    "maj": "2026-11-26"
+  },
+  "source": "google-places",
+  "avis_detail": {
+    "releve": "2026-11-26",
+    "liste": [
+      {
+        "note": 1,
+        "texte": "Relais colis non disponible dimanche. Absolument pas clairement marqué. Arrivé en voiture exprès… Accueil glacial et refus de livrer mon colis.",
+        "langue": "fr",
+        "date": "2026-11-08",
+        "auteur": "Sylvain Vingt",
+        "auteur_lien": "https://www.google.com/maps/contrib/108698716358444820589/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xobloxZEhkMWxoWXpNd1ZVOHhUakpuV1RCUk1tYxAB!2m1!1s0x47e67dbdd646a80f:0xc7523438ae9ce771"
+      },
+      {
+        "note": 1,
+        "texte": "À partir de 20h même si c'est ouvert la personne refuse de prendre ou de vous donner des colis\nDommage on aurait pu acheter quelque chose à l'épicerie en même temps mais si tu refuses que tu ne peux pas me donner mes colis je n'ai rien à faire dans cette épicerie",
+        "langue": "fr",
+        "date": "2026-09-03",
+        "auteur": "Latapie Faith",
+        "auteur_lien": "https://www.google.com/maps/contrib/107453232268345520302/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xBemNsUkVURmRVWWtGUU9FOXhiSEZ3YlMxWlVWRRAB!2m1!1s0x47e67dbdd646a80f:0xc7523438ae9ce771"
+      },
+      {
+        "note": 1,
+        "texte": "Très déçu par l'accueil. L'employé du magasin a été agressif et irrespectueux. J'ai eu l'impression qu'il se comportait comme s'il était le roi et que les clients n'avaient pas leur mot à dire. Un minimum de politesse et de respect envers la clientèle serait apprécié. Je ne reviendrai pas tant que l'accueil ne s'améliorera pas.",
+        "langue": "fr",
+        "date": "2026-08-06",
+        "auteur": "Raj Mohan",
+        "auteur_lien": "https://www.google.com/maps/contrib/112545776197188022809/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xGalpsWTBTR3B5VjNkaU1tVlpObmxuVUZoUlJuYxAB!2m1!1s0x47e67dbdd646a80f:0xc7523438ae9ce771"
+      },
+      {
+        "note": 1,
+        "texte": "Pire service de récupération de colis que j’ai eu à utiliser. Le personnel est extrêmement impoli, désagréable et manque totalement de professionnalisme. On a l’impression de déranger en venant simplement récupérer un colis. Un minimum de politesse et de respect envers les clients serait apprécié. Je ne recommande absolument pas ce point de retrait.",
+        "langue": "fr",
+        "date": "2026-08-01",
+        "auteur": "Tif Elk",
+        "auteur_lien": "https://www.google.com/maps/contrib/109877882521281946189/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25oYWJWZFlTMGhaUkd4bVRGRlNaMGxaYWtoa2QyYxAB!2m1!1s0x47e67dbdd646a80f:0xc7523438ae9ce771"
+      },
+      {
+        "note": 5,
+        "texte": "⭐⭐⭐⭐⭐ Excellent service de colis !\n\nJe suis très satisfait(e) du service de LRE Marché de la Côte à Viroflay. L'accueil est toujours chaleureux, l'équipe est professionnelle, efficace et disponible pour répondre aux questions. La réception et le retrait des colis se font rapidement, avec une organisation impeccable. C'est un point relais fiable où l'on est toujours bien reçu. Je recommande vivement ce commerce pour son excellent service et son sérieux.",
+        "langue": "fr",
+        "date": "2026-07-29",
+        "auteur": "Sarva Priya",
+        "auteur_lien": "https://www.google.com/maps/contrib/116526901928884972948/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2w4MmFsWTRNRGczTVhabWNVVmpkbFkxT0c5RlpsRRAB!2m1!1s0x47e67dbdd646a80f:0xc7523438ae9ce771"
+      }
+    ]
+  },
+  "services": {
+    "releve": "2026-11-26",
+    "options": {
+      "takeout": true,
+      "delivery": true,
+      "restroom": false
+    },
+    "paiement": [
+      "carte bancaire",
+      "carte de débit",
+      "paiement sans contact"
+    ],
+    "parking": [
+      "parking gratuit",
+      "parking payant",
+      "stationnement gratuit dans la rue",
+      "stationnement payant dans la rue",
+      "garage gratuit",
+      "garage payant"
+    ]
+  },
+  "redaction": {
+    "version": 2,
+    "titre": "Le Marché d’à côté Viroflay — Commerce d'alimentation à Viroflay",
+    "meta_titre": "Le Marché d’à côté Viroflay à Viroflay : horaires, avis",
+    "meta_description": "Le Marché d’à côté Viroflay, commerce d'alimentation à Viroflay : horaires d'ouverture, note Google 3,7/5 (135 avis), adresse et itinéraire.",
+    "chapo": "Cette fiche présente Le Marché d’à côté Viroflay, un commerce d'alimentation au 195 Avenue du Général-Leclerc, à Viroflay. Ouvert sept jours sur sept au relevé du 26 novembre 2026. Note Google : 3,7 sur 5 pour 135 avis.",
+    "sections": [
+      {
+        "id": "presentation",
+        "titre": "Le Marché d’à côté Viroflay en quelques mots",
+        "paragraphes": [
+          "Sur Google, l'établissement est classé « Supermarché », dans notre rubrique Commerce d'alimentation.",
+          "D'après le relevé du 26 novembre 2026, l'établissement est ouvert sept jours sur sept. Le détail jour par jour figure plus bas."
+        ]
+      },
+      {
+        "id": "prestations",
+        "titre": "Services et équipements de Le Marché d’à côté Viroflay",
+        "paragraphes": [
+          "Proposé : à emporter et livraison.",
+          "Non proposé selon la fiche Google : toilettes.",
+          "Moyens de paiement déclarés : carte bancaire, carte de débit et paiement sans contact.",
+          "Stationnement : parking gratuit, parking payant, stationnement gratuit dans la rue, stationnement payant dans la rue, garage gratuit et garage payant.",
+          "Ces indications sont déclarées par l'établissement sur sa fiche Google (relevé du 26 novembre 2026)."
+        ]
+      },
+      {
+        "id": "acces",
+        "titre": "Adresse et accès",
+        "paragraphes": [
+          "L'établissement est situé au 195 Avenue du Général-Leclerc, 78220 Viroflay.",
+          "Coordonnées GPS : 48.79946, 2.16023. Le bouton Itinéraire de cette page ouvre la navigation."
+        ]
+      },
+      {
+        "id": "contact",
+        "titre": "Contacter Le Marché d’à côté Viroflay",
+        "paragraphes": [
+          "Aucun numéro de téléphone n'est déclaré sur la fiche Google de l'établissement : le contact se fait sur place, aux horaires indiqués."
+        ]
+      },
+      {
+        "id": "avis",
+        "titre": "La réputation de Le Marché d’à côté Viroflay",
+        "paragraphes": [
+          "Note de 3,7 sur 5 pour 135 avis Google au relevé du 26 novembre 2026. Les avis les plus parlants sont compilés ci-dessous, avec un lien vers la fiche d'origine."
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "q": "Quels sont les horaires de Le Marché d’à côté Viroflay ?",
+        "r": "Au relevé du 26 novembre 2026, Le Marché d’à côté Viroflay était ouvert sept jours sur sept. Dans le détail — lundi : de 9 h à 23 h ; mardi : de 9 h à 23 h ; mercredi : de 9 h à 23 h ; jeudi : de 9 h à 23 h ; vendredi : de 9 h à 0 h ; samedi : de 9 h à 0 h ; dimanche : de 9 h à 23 h. Ces horaires peuvent changer : un appel préalable reste conseillé."
+      },
+      {
+        "q": "Le Marché d’à côté Viroflay est-il ouvert le dimanche ?",
+        "r": "Oui : le dimanche, Le Marché d’à côté Viroflay est ouvert de 9 h à 23 h (horaires relevés le 26 novembre 2026)."
+      },
+      {
+        "q": "Où se trouve Le Marché d’à côté Viroflay ?",
+        "r": "Le Marché d’à côté Viroflay se trouve 195 Av. du Général-Leclerc, 78220 Viroflay. Un lien d'itinéraire est disponible sur cette page."
+      },
+      {
+        "q": "Le Marché d’à côté Viroflay propose-t-il la vente à emporter ou la livraison ?",
+        "r": "D'après sa fiche Google (relevé du 26 novembre 2026) — vente à emporter : oui ; livraison : oui."
+      },
+      {
+        "q": "Le Marché d’à côté Viroflay est-il accessible aux personnes à mobilité réduite ?",
+        "r": "La fiche Google de l'établissement mentionne : « Entrée accessible en fauteuil roulant ». Cette information est déclarative ; en cas de doute, vérifiez par téléphone."
+      }
+    ],
+    "genere_le": "2026-11-26"
+  },
+  "statut_google": "OPERATIONAL",
+  "audience": {
+    "clics": 0,
+    "impressions": 0,
+    "position": null,
+    "fenetreJours": 90,
+    "clicsRecents": 0,
+    "fenetreRecenteJours": 28,
+    "source": "search-console",
+    "date": "2026-11-26"
+  }
+}

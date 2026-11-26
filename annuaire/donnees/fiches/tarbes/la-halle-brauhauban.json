@@ -31,7 +31,7 @@
     "longitude": 0.07502059999999999
   },
   "note": 4.3,
-  "avis": 1800,
+  "avis": 1802,
   "horaires": [
     {
       "jour": 0,
@@ -116,8 +116,8 @@
     "etat": "externe",
     "premiere_detection": null,
     "derniere_detection": null,
-    "derniere_verification": "2026-11-06T12:53:59.257Z",
-    "echecs": 12,
+    "derniere_verification": "2026-11-26T15:04:58.563Z",
+    "echecs": 13,
     "url_detectee": "https://halle-brauhauban.vercel.app/"
   },
   "suggestion": {
@@ -135,7 +135,7 @@
   "dates": {
     "collecte": "2026-09-30",
     "publication": "2026-09-30",
-    "maj": "2026-11-14"
+    "maj": "2026-11-26"
   },
   "source": "google-places",
   "redaction": {
@@ -219,7 +219,7 @@
     "clicsRecents": 0,
     "fenetreRecenteJours": 28,
     "source": "search-console",
-    "date": "2026-11-25"
+    "date": "2026-11-26"
   },
   "avis_detail": {
     "releve": "2026-10-21",

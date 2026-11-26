@@ -108,13 +108,13 @@
   "statut_google": "OPERATIONAL",
   "audience": {
     "clics": 24,
-    "impressions": 948,
+    "impressions": 971,
     "position": 3.7,
     "fenetreJours": 90,
     "clicsRecents": 20,
     "fenetreRecenteJours": 28,
     "source": "search-console",
-    "date": "2026-11-25"
+    "date": "2026-11-26"
   },
   "avis_detail": {
     "releve": "2026-10-24",
@@ -169,5 +169,14 @@
   "maintien": {
     "date": "2026-11-26",
     "motif": "remise en ligne à la demande de Guillaume (26/11/2026) : sa fiche Google pointe vers la page"
+  },
+  "indexation": {
+    "etat": "indexee",
+    "verdict": null,
+    "couverture": "impressions dans la Search Console",
+    "derniere_exploration": null,
+    "canonique_google": null,
+    "source": "impressions",
+    "date": "2026-11-26"
   }
 }

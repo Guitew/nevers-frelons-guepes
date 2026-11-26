@@ -1,0 +1,184 @@
+{
+  "id": "ChIJuSVXQC1DCkgRHSO5W6PcLLA",
+  "slug": "excel-wash",
+  "nom": "Excel Wash",
+  "categorie": "garages-automobile",
+  "categorie_gmb": "Station de lavage automobile",
+  "type_principal": "car_wash",
+  "types": [
+    "car_wash",
+    "point_of_interest",
+    "service",
+    "establishment"
+  ],
+  "ville": "Saint-Contest",
+  "ville_slug": "saint-contest",
+  "adresse": {
+    "rue": "3 Route de Rosel",
+    "code_postal": "14280",
+    "departement": "14",
+    "region": "Normandie",
+    "pays": "France",
+    "complete": "3 Rte de Rosel, 14280 Saint-Contest"
+  },
+  "telephone": "",
+  "geo": {
+    "latitude": 49.201268999999996,
+    "longitude": -0.4003368
+  },
+  "note": 4,
+  "avis": 266,
+  "horaires": null,
+  "attributs": [],
+  "lien_google": "https://maps.google.com/?cid=12694764043827225373&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
+  "site_web_gmb": null,
+  "statut": "publiee",
+  "backlink": {
+    "etat": "absent",
+    "premiere_detection": null,
+    "derniere_detection": null,
+    "derniere_verification": "2026-11-26T15:04:58.563Z",
+    "echecs": 1,
+    "url_detectee": null
+  },
+  "suggestion": {
+    "etat": "en-attente",
+    "date_soumission": null,
+    "tentatives": 0,
+    "date_email": "2026-11-26"
+  },
+  "retrait": null,
+  "dates": {
+    "collecte": "2026-11-26",
+    "publication": "2026-11-26",
+    "maj": "2026-11-26"
+  },
+  "source": "google-places",
+  "avis_detail": {
+    "releve": "2026-11-26",
+    "liste": [
+      {
+        "note": 5,
+        "texte": "Lavage très bien le produit sent très bon efficace",
+        "langue": "fr",
+        "date": "2026-10-12",
+        "auteur": "patrice leon",
+        "auteur_lien": "https://www.google.com/maps/contrib/105691072840512663734/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT214UGNHdGpXSEIwWTA1dlZYQlFjWEZrV2w5UFpsRRAB!2m1!1s0x480a432d405725b9:0xb02cdca35bb9231d"
+      },
+      {
+        "note": 5,
+        "texte": "Client depuis des années et rien à redire.\nRouleaux, karcher avec brosses, aspirateurs. Point Acceuil.\nTout est réuni pour être efficace.",
+        "langue": "fr",
+        "date": "2026-06-24",
+        "auteur": "Rom 1",
+        "auteur_lien": "https://www.google.com/maps/contrib/111982742445636256837/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSURJOW9MbGRREAE!2m1!1s0x480a432d405725b9:0xb02cdca35bb9231d"
+      },
+      {
+        "note": 5,
+        "texte": "Pas d'attente. On peut passer au Karcher avec des pièces ou des jetons. 2 jetons de 2 euros suffisent pour un entretien courant de la carrosserie et même enlever beaaauuucooup 😱 de fiantes d'oiseaux !\nVoiture toute propre ! 😁",
+        "langue": "fr",
+        "date": "2026-03-25",
+        "auteur": "Virginie Le Roy Marschalle",
+        "auteur_lien": "https://www.google.com/maps/contrib/115634672783242133958/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xwelZuZE1TelEzUW1WcVl6QlRZV2cwV2xCb2FuYxAB!2m1!1s0x480a432d405725b9:0xb02cdca35bb9231d"
+      },
+      {
+        "note": 5,
+        "texte": "Très bon rapport qualité-prix. Lance à eau très puissante  , brosse qui envoie beaucoup de mousse, très grand espace pour garer son véhicule et aspirateur puissant. Rien à dire .",
+        "langue": "fr",
+        "date": "2026-03-10",
+        "auteur": "Le globe trotteur",
+        "auteur_lien": "https://www.google.com/maps/contrib/107020393013744298242/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xOWmNWUnlka1pYTkZGUE9ETldSa0ZwY0hCQlZIYxAB!2m1!1s0x480a432d405725b9:0xb02cdca35bb9231d"
+      },
+      {
+        "note": 1,
+        "texte": "Hier dimanche, je passe à ce centre de lavage et là sur le portique plus à droite la rampe du portique de la cage reste bloqué, m arrachant mon antenne au passage !!!\nJe tente de joindre le centre mais pas de numéro viable.\nJ aimerai être recontacté d urgence avant d intenter une action longue et coûteuse..\nA fuir",
+        "langue": "fr",
+        "date": "2025-12-15",
+        "auteur": "david le flaguais",
+        "auteur_lien": "https://www.google.com/maps/contrib/105288628330178241599/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT21aR0xVTkJYMGRaYzNkNWVUTmZWazVZZFhRemNrRRAB!2m1!1s0x480a432d405725b9:0xb02cdca35bb9231d"
+      }
+    ]
+  },
+  "services": {
+    "releve": "2026-11-26",
+    "options": {
+      "restroom": false
+    },
+    "paiement": [
+      "carte bancaire",
+      "carte de débit",
+      "paiement sans contact"
+    ],
+    "parking": []
+  },
+  "redaction": {
+    "version": 2,
+    "titre": "Excel Wash — Garage et automobile à Saint-Contest",
+    "meta_titre": "Excel Wash à Saint-Contest : avis",
+    "meta_description": "Excel Wash, garage et automobile à Saint-Contest : note Google 4/5 (266 avis), adresse et itinéraire.",
+    "chapo": "Excel Wash est un garage et automobile au 3 Route de Rosel, à Saint-Contest. Note Google : 4 sur 5 pour 266 avis.",
+    "sections": [
+      {
+        "id": "presentation",
+        "titre": "Excel Wash en quelques mots",
+        "paragraphes": [
+          "Sur Google, l'établissement est classé « Station de lavage automobile », dans notre rubrique Garage et automobile."
+        ]
+      },
+      {
+        "id": "prestations",
+        "titre": "Services et équipements de Excel Wash",
+        "paragraphes": [
+          "Non proposé selon la fiche Google : toilettes.",
+          "Moyens de paiement déclarés : carte bancaire, carte de débit et paiement sans contact.",
+          "Ces indications sont déclarées par l'établissement sur sa fiche Google (relevé du 26 novembre 2026)."
+        ]
+      },
+      {
+        "id": "acces",
+        "titre": "Adresse et accès",
+        "paragraphes": [
+          "L'établissement est situé au 3 Route de Rosel, 14280 Saint-Contest.",
+          "Coordonnées GPS : 49.20127, -0.40034. Le bouton Itinéraire de cette page ouvre la navigation."
+        ]
+      },
+      {
+        "id": "contact",
+        "titre": "Contacter Excel Wash",
+        "paragraphes": [
+          "Aucun numéro de téléphone n'est déclaré sur la fiche Google de l'établissement : le contact se fait sur place, aux horaires indiqués."
+        ]
+      },
+      {
+        "id": "avis",
+        "titre": "La réputation de Excel Wash",
+        "paragraphes": [
+          "Note de 4 sur 5 pour 266 avis Google au relevé du 26 novembre 2026. Les avis les plus parlants sont compilés ci-dessous, avec un lien vers la fiche d'origine."
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "q": "Où se trouve Excel Wash ?",
+        "r": "Excel Wash se trouve 3 Rte de Rosel, 14280 Saint-Contest. Un lien d'itinéraire est disponible sur cette page."
+      }
+    ],
+    "genere_le": "2026-11-26"
+  },
+  "statut_google": "OPERATIONAL",
+  "audience": {
+    "clics": 0,
+    "impressions": 0,
+    "position": null,
+    "fenetreJours": 90,
+    "clicsRecents": 0,
+    "fenetreRecenteJours": 28,
+    "source": "search-console",
+    "date": "2026-11-26"
+  }
+}

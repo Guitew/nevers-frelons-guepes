@@ -207,14 +207,14 @@
   },
   "statut_google": "OPERATIONAL",
   "audience": {
-    "clics": 0,
-    "impressions": 391,
-    "position": 11.7,
+    "clics": 1,
+    "impressions": 450,
+    "position": 11.5,
     "fenetreJours": 90,
-    "clicsRecents": 0,
+    "clicsRecents": 1,
     "fenetreRecenteJours": 28,
     "source": "search-console",
-    "date": "2026-11-25"
+    "date": "2026-11-26"
   },
   "avis_detail": {
     "releve": "2026-11-01",
@@ -287,6 +287,6 @@
     "derniere_exploration": null,
     "canonique_google": null,
     "source": "impressions",
-    "date": "2026-11-25"
+    "date": "2026-11-26"
   }
 }

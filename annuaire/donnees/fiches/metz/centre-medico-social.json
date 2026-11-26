@@ -1,0 +1,264 @@
+{
+  "id": "ChIJNy2fVsXdlEcRdIS-uxuP0VY",
+  "slug": "centre-medico-social",
+  "nom": "Centre Médico Social",
+  "categorie": "assurance-banque-finance",
+  "categorie_gmb": "Agence d'assurance",
+  "type_principal": "insurance_agency",
+  "types": [
+    "insurance_agency",
+    "service",
+    "point_of_interest",
+    "establishment"
+  ],
+  "ville": "Metz",
+  "ville_slug": "metz",
+  "adresse": {
+    "rue": "1 Rue Claude Chappe",
+    "code_postal": "57000",
+    "departement": "57",
+    "region": "Grand Est",
+    "pays": "France",
+    "complete": "1 Rue Claude Chappe, 57000 Metz"
+  },
+  "telephone": "03 87 78 06 00",
+  "geo": {
+    "latitude": 49.106037099999995,
+    "longitude": 6.2229256
+  },
+  "note": 3.9,
+  "avis": 34,
+  "horaires": [
+    {
+      "jour": 0,
+      "ferme": false,
+      "creneaux": [
+        [
+          "09:00",
+          "11:30"
+        ],
+        [
+          "14:00",
+          "16:30"
+        ]
+      ]
+    },
+    {
+      "jour": 1,
+      "ferme": false,
+      "creneaux": [
+        [
+          "09:00",
+          "11:30"
+        ],
+        [
+          "14:00",
+          "16:30"
+        ]
+      ]
+    },
+    {
+      "jour": 2,
+      "ferme": false,
+      "creneaux": [
+        [
+          "09:00",
+          "11:30"
+        ],
+        [
+          "14:00",
+          "16:30"
+        ]
+      ]
+    },
+    {
+      "jour": 3,
+      "ferme": false,
+      "creneaux": [
+        [
+          "09:00",
+          "11:30"
+        ],
+        [
+          "14:00",
+          "16:30"
+        ]
+      ]
+    },
+    {
+      "jour": 4,
+      "ferme": false,
+      "creneaux": [
+        [
+          "09:00",
+          "11:30"
+        ],
+        [
+          "14:00",
+          "16:30"
+        ]
+      ]
+    },
+    {
+      "jour": 5,
+      "ferme": true,
+      "creneaux": []
+    },
+    {
+      "jour": 6,
+      "ferme": true,
+      "creneaux": []
+    }
+  ],
+  "attributs": [
+    "Entrée accessible en fauteuil roulant",
+    "Parking accessible en fauteuil roulant"
+  ],
+  "lien_google": "https://maps.google.com/?cid=6255938706671043700&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
+  "site_web_gmb": null,
+  "statut": "publiee",
+  "backlink": {
+    "etat": "absent",
+    "premiere_detection": null,
+    "derniere_detection": null,
+    "derniere_verification": "2026-11-26T15:04:58.563Z",
+    "echecs": 1,
+    "url_detectee": null
+  },
+  "suggestion": {
+    "etat": "en-attente",
+    "date_soumission": null,
+    "tentatives": 0,
+    "date_email": "2026-11-26"
+  },
+  "retrait": null,
+  "dates": {
+    "collecte": "2026-11-26",
+    "publication": "2026-11-26",
+    "maj": "2026-11-26"
+  },
+  "source": "google-places",
+  "avis_detail": {
+    "releve": "2026-11-26",
+    "liste": [
+      {
+        "note": 1,
+        "texte": "Concernant l'accueil, désagréable, on a l'impression de leur demander de l'argent quand on arrive et non un renseignement ou un rdv avec une assistante sociale. Si je viens prendre rdv c'est pas pour rien. Vous n'avez pas le droit de refuser des nouvelles personnes mais vous le faites quand-même en ayant des arguments qui ne tiennent pas la route comme le fait d'être étranger ( une situation dont j'ai été témoin pendant mon attente là bas ).",
+        "langue": "fr",
+        "date": "2026-10-27",
+        "auteur": "Äntone Heßtermerg",
+        "auteur_lien": "https://www.google.com/maps/contrib/103528001654850719577/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2taYVQwVjFlRmxQYUV0VmNuRk9VWGRqYkVnMFUxRRAB!2m1!1s0x4794ddc5569f2d37:0x56d18f1bbbbe8474"
+      },
+      {
+        "note": 1,
+        "texte": "le moins que l'on puisse dire c'est que ce n'est pas l'amabilité qui les étouffe au téléphone, je ne me fais pas d'illusions non plus concernant l'accueil physique... et lorsque vous demandez à ce qu'une assistante sociale fasse un dossier spécifique on vous répond que vous pouvez le faire !!! Alors que c'est le travail d'une assistante sociale !!! non mais franchement hallucinant !!",
+        "langue": "fr",
+        "date": "2026-01-07",
+        "auteur": "Anne Muller",
+        "auteur_lien": "https://www.google.com/maps/contrib/106819101929665533561/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2psRlYybFZTMVpxWjNGUlZGTllVMHBtVkhCV1MxRRAB!2m1!1s0x4794ddc5569f2d37:0x56d18f1bbbbe8474"
+      },
+      {
+        "note": 5,
+        "texte": "Je n'ai pas grand chose à dire sinon que ma neurologue est super et très agréable c'est le Docteur Guaragna de l'hôpital Mercy vraiment elle est à l'écoute vous conseille très bien d'ou je mis 5",
+        "langue": "fr",
+        "date": "2024-05-22",
+        "auteur": "Danielle Malcurat",
+        "auteur_lien": "https://www.google.com/maps/contrib/108352380650032041016/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSURUcFBTOHZ3RRAB!2m1!1s0x4794ddc5569f2d37:0x56d18f1bbbbe8474"
+      },
+      {
+        "note": 4,
+        "texte": "J'y suis allé pour déposer une pièce la manquante à mon dossier médical et j'ai été très bien accueilli",
+        "langue": "fr",
+        "date": "2019-07-06",
+        "auteur": "Christophe “kiko's” F.",
+        "auteur_lien": "https://www.google.com/maps/contrib/100147916295206816959/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSURrNDVUX213RRAB!2m1!1s0x4794ddc5569f2d37:0x56d18f1bbbbe8474"
+      },
+      {
+        "note": 3,
+        "texte": "Bien situé pour les jeunes du quartier mais l'extérieur mérite un coup de jeune : façade....",
+        "langue": "fr",
+        "date": "2019-06-26",
+        "auteur": "C'est Moi",
+        "auteur_lien": "https://www.google.com/maps/contrib/113643750305773183833/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSURrM3FMRmlnRRAB!2m1!1s0x4794ddc5569f2d37:0x56d18f1bbbbe8474"
+      }
+    ]
+  },
+  "redaction": {
+    "version": 2,
+    "titre": "Centre Médico Social — Assurance et finance à Metz",
+    "meta_titre": "Centre Médico Social à Metz : horaires, avis, téléphone",
+    "meta_description": "Centre Médico Social, assurance et finance à Metz : horaires d'ouverture, note Google 3,9/5 (34 avis), téléphone, adresse et itinéraire.",
+    "chapo": "Centre Médico Social est une assurance et finance au 1 Rue Claude Chappe, à Metz. Fermé le samedi et le dimanche au relevé du 26 novembre 2026. Téléphone : 03 87 78 06 00. Note Google : 3,9 sur 5 pour 34 avis.",
+    "sections": [
+      {
+        "id": "presentation",
+        "titre": "Centre Médico Social en quelques mots",
+        "paragraphes": [
+          "Sur Google, l'établissement est classé « Agence d'assurance », dans notre rubrique Assurance et finance.",
+          "D'après le relevé du 26 novembre 2026, l'établissement est fermé le samedi et le dimanche. Le détail jour par jour figure plus bas."
+        ]
+      },
+      {
+        "id": "acces",
+        "titre": "Adresse et accès",
+        "paragraphes": [
+          "L'établissement est situé au 1 Rue Claude Chappe, 57000 Metz.",
+          "Coordonnées GPS : 49.10604, 6.22293. Le bouton Itinéraire de cette page ouvre la navigation."
+        ]
+      },
+      {
+        "id": "contact",
+        "titre": "Contacter Centre Médico Social",
+        "paragraphes": [
+          "Le contact se fait par téléphone au 03 87 78 06 00, ou directement sur place aux horaires d'ouverture."
+        ]
+      },
+      {
+        "id": "avis",
+        "titre": "La réputation de Centre Médico Social",
+        "paragraphes": [
+          "Note de 3,9 sur 5 pour 34 avis Google au relevé du 26 novembre 2026. Les avis les plus parlants sont compilés ci-dessous, avec un lien vers la fiche d'origine."
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "q": "Quels sont les horaires de Centre Médico Social ?",
+        "r": "Au relevé du 26 novembre 2026, Centre Médico Social était fermé le samedi et le dimanche. Dans le détail — lundi : de 9 h à 11 h 30 et de 14 h à 16 h 30 ; mardi : de 9 h à 11 h 30 et de 14 h à 16 h 30 ; mercredi : de 9 h à 11 h 30 et de 14 h à 16 h 30 ; jeudi : de 9 h à 11 h 30 et de 14 h à 16 h 30 ; vendredi : de 9 h à 11 h 30 et de 14 h à 16 h 30 ; samedi : fermé ; dimanche : fermé. Ces horaires peuvent changer : un appel préalable reste conseillé."
+      },
+      {
+        "q": "Centre Médico Social est-il ouvert le dimanche ?",
+        "r": "Non : d'après les horaires relevés le 26 novembre 2026, Centre Médico Social est fermé le dimanche."
+      },
+      {
+        "q": "Où se trouve Centre Médico Social ?",
+        "r": "Centre Médico Social se trouve 1 Rue Claude Chappe, 57000 Metz. Un lien d'itinéraire est disponible sur cette page."
+      },
+      {
+        "q": "Comment contacter Centre Médico Social ?",
+        "r": "Par téléphone au 03 87 78 06 00, ou directement sur place aux heures d'ouverture."
+      },
+      {
+        "q": "Centre Médico Social est-il accessible aux personnes à mobilité réduite ?",
+        "r": "La fiche Google de l'établissement mentionne : « Entrée accessible en fauteuil roulant ». Cette information est déclarative ; en cas de doute, vérifiez par téléphone."
+      }
+    ],
+    "genere_le": "2026-11-26"
+  },
+  "statut_google": "OPERATIONAL",
+  "audience": {
+    "clics": 0,
+    "impressions": 0,
+    "position": null,
+    "fenetreJours": 90,
+    "clicsRecents": 0,
+    "fenetreRecenteJours": 28,
+    "source": "search-console",
+    "date": "2026-11-26"
+  }
+}

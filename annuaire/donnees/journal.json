@@ -1,5 +1,169 @@
 [
   {
+    "date": "2026-11-26T15:05:09.989Z",
+    "type": "suggestion-soumise",
+    "id": "ChIJt3FqElBv5kcRb2anog-J2iE",
+    "nom": "Tasty Crousty - Paris 18",
+    "url": "/restaurants/paris/tasty-crousty-paris-18/"
+  },
+  {
+    "date": "2026-11-26T15:05:09.934Z",
+    "type": "suggestion-soumise",
+    "id": "ChIJu4N-iM2u9UcRBgMhOH0qlDY",
+    "nom": "TABAC Ô COFFEE",
+    "url": "/restaurants/saint-etienne/tabac-o-coffee/"
+  },
+  {
+    "date": "2026-11-26T15:05:09.875Z",
+    "type": "suggestion-soumise",
+    "id": "ChIJw3HWFQCZlEcRWKNwKPF59tc",
+    "nom": "Laverie Clemenceau",
+    "url": "/nettoyage-hygiene/nancy/laverie-clemenceau/"
+  },
+  {
+    "date": "2026-11-26T15:05:09.812Z",
+    "type": "suggestion-soumise",
+    "id": "ChIJo7gVv71JVg0RWQ0CAixCalQ",
+    "nom": "Pau exotic 23 (Boutique exotique)",
+    "url": "/commerces-alimentation/pau/pau-exotic-23-boutique-exotique/"
+  },
+  {
+    "date": "2026-11-26T15:05:08.874Z",
+    "type": "retrait-410",
+    "id": "ChIJOUtyUk7vBUgRoCcQtwcSgw8",
+    "nom": "Garage Des Pas Enchantes",
+    "url": "/garages-automobile/saint-sebastien-sur-loire/garage-des-pas-enchantes/",
+    "motif": "backlink jamais posé après 45 jours de délai de grâce",
+    "cible": null
+  },
+  {
+    "date": "2026-11-26T15:05:08.878Z",
+    "type": "retrait-410",
+    "id": "ChIJxZ3pZQ9y5kcR5gM1lDfZsXc",
+    "nom": "Le marché couvert Beauvau",
+    "url": "/commerces-alimentation/paris/le-marche-couvert-beauvau/",
+    "motif": "backlink jamais posé après 45 jours de délai de grâce",
+    "cible": null
+  },
+  {
+    "date": "2026-11-26T15:05:08.881Z",
+    "type": "retrait-410",
+    "id": "ChIJby4zAABl5kcRSSgXf-pstZo",
+    "nom": "Suresnes Mont Valérien",
+    "url": "/restaurants/suresnes/suresnes-mont-valerien/",
+    "motif": "backlink jamais posé après 45 jours de délai de grâce",
+    "cible": null
+  },
+  {
+    "date": "2026-11-26T15:04:58.694Z",
+    "type": "backlink-absent",
+    "id": "ChIJMXj3oVv79UcRjG9tMQGR414",
+    "nom": "AUTOPNEU BRIVES CHARENSAC",
+    "url": null,
+    "precedent": "en-attente"
+  },
+  {
+    "date": "2026-11-26T15:04:58.750Z",
+    "type": "backlink-absent",
+    "id": "ChIJNy2fVsXdlEcRdIS-uxuP0VY",
+    "nom": "Centre Médico Social",
+    "url": null,
+    "precedent": "en-attente"
+  },
+  {
+    "date": "2026-11-26T15:04:58.803Z",
+    "type": "backlink-absent",
+    "id": "ChIJuSVXQC1DCkgRHSO5W6PcLLA",
+    "nom": "Excel Wash",
+    "url": null,
+    "precedent": "en-attente"
+  },
+  {
+    "date": "2026-11-26T15:04:58.854Z",
+    "type": "backlink-absent",
+    "id": "ChIJD6hG1r195kcRceecrjg0Usc",
+    "nom": "Le Marché d’à côté Viroflay",
+    "url": null,
+    "precedent": "en-attente"
+  },
+  {
+    "date": "2026-11-26T15:04:58.903Z",
+    "type": "backlink-absent",
+    "id": "ChIJB7I5iNLByRIR13rT6pg_9Ug",
+    "nom": "Moutchou",
+    "url": null,
+    "precedent": "en-attente"
+  },
+  {
+    "date": "2026-11-26T15:04:59.153Z",
+    "type": "backlink-present",
+    "id": "ChIJ0WzVKiOVC0gROnv68OE7r9M",
+    "nom": "Agneaux Auto",
+    "url": "https://andpro.fr/vitrine-locale/garages-automobile/agneaux/agneaux-auto/",
+    "precedent": "absent"
+  },
+  {
+    "date": "2026-11-26T15:04:59.263Z",
+    "type": "backlink-present",
+    "id": "ChIJvX65IiNusBIRsT2NF1YXr0s",
+    "nom": "Epicerie Asiatique, Jade Or Store",
+    "url": "https://andpro.fr/vitrine-locale/commerces-alimentation/perpignan/epicerie-asiatique-jade-or-store/",
+    "precedent": "absent"
+  },
+  {
+    "date": "2026-11-26T15:04:59.311Z",
+    "type": "backlink-present",
+    "id": "ChIJS7NNluAp_UcRXt69Ynhm2io",
+    "nom": "Garage Auto Jocondien",
+    "url": "https://andpro.fr/vitrine-locale/garages-automobile/joue-les-tours/garage-auto-jocondien/",
+    "precedent": "absent"
+  },
+  {
+    "date": "2026-11-26T15:04:58.110Z",
+    "type": "publication",
+    "id": "ChIJB7I5iNLByRIR13rT6pg_9Ug",
+    "nom": "Moutchou",
+    "url": "/commerces-alimentation/marseille/moutchou/",
+    "categorie": "commerces-alimentation",
+    "source": "google-places"
+  },
+  {
+    "date": "2026-11-26T15:04:58.195Z",
+    "type": "publication",
+    "id": "ChIJMXj3oVv79UcRjG9tMQGR414",
+    "nom": "AUTOPNEU BRIVES CHARENSAC",
+    "url": "/garages-automobile/brives-charensac/autopneu-brives-charensac/",
+    "categorie": "garages-automobile",
+    "source": "google-places"
+  },
+  {
+    "date": "2026-11-26T15:04:58.274Z",
+    "type": "publication",
+    "id": "ChIJNy2fVsXdlEcRdIS-uxuP0VY",
+    "nom": "Centre Médico Social",
+    "url": "/assurance-banque-finance/metz/centre-medico-social/",
+    "categorie": "assurance-banque-finance",
+    "source": "google-places"
+  },
+  {
+    "date": "2026-11-26T15:04:58.348Z",
+    "type": "publication",
+    "id": "ChIJD6hG1r195kcRceecrjg0Usc",
+    "nom": "Le Marché d’à côté Viroflay",
+    "url": "/commerces-alimentation/viroflay/le-marche-d-a-cote-viroflay/",
+    "categorie": "commerces-alimentation",
+    "source": "google-places"
+  },
+  {
+    "date": "2026-11-26T15:04:58.424Z",
+    "type": "publication",
+    "id": "ChIJuSVXQC1DCkgRHSO5W6PcLLA",
+    "nom": "Excel Wash",
+    "url": "/garages-automobile/saint-contest/excel-wash/",
+    "categorie": "garages-automobile",
+    "source": "google-places"
+  },
+  {
     "date": "2026-11-26T09:29:18.281Z",
     "type": "republication",
     "id": "ChIJm4k4otDT_EcRFgzLGxpub-0",

@@ -124,15 +124,15 @@
     "Parking accessible en fauteuil roulant"
   ],
   "lien_google": "https://maps.google.com/?cid=15253476304523787066&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
-  "site_web_gmb": null,
+  "site_web_gmb": "https://andpro.fr/vitrine-locale/garages-automobile/agneaux/agneaux-auto/",
   "statut": "publiee",
   "backlink": {
-    "etat": "absent",
-    "premiere_detection": null,
-    "derniere_detection": null,
-    "derniere_verification": "2026-11-06T12:53:59.257Z",
-    "echecs": 1,
-    "url_detectee": null
+    "etat": "present",
+    "premiere_detection": "2026-11-26T15:04:58.563Z",
+    "derniere_detection": "2026-11-26T15:04:58.563Z",
+    "derniere_verification": "2026-11-26T15:04:58.563Z",
+    "echecs": 0,
+    "url_detectee": "https://andpro.fr/vitrine-locale/garages-automobile/agneaux/agneaux-auto/"
   },
   "suggestion": {
     "etat": "soumise",
@@ -144,7 +144,7 @@
   "dates": {
     "collecte": "2026-11-06",
     "publication": "2026-11-06",
-    "maj": "2026-11-07"
+    "maj": "2026-11-26"
   },
   "source": "google-places",
   "avis_detail": {
@@ -278,12 +278,12 @@
   "statut_google": "OPERATIONAL",
   "audience": {
     "clics": 26,
-    "impressions": 607,
-    "position": 3,
+    "impressions": 665,
+    "position": 3.1,
     "fenetreJours": 90,
     "clicsRecents": 26,
     "fenetreRecenteJours": 28,
     "source": "search-console",
-    "date": "2026-11-25"
+    "date": "2026-11-26"
   }
 }

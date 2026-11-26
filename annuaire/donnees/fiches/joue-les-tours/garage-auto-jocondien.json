@@ -27,7 +27,7 @@
     "longitude": 0.6516811
   },
   "note": 4.7,
-  "avis": 108,
+  "avis": 109,
   "horaires": [
     {
       "jour": 0,
@@ -115,15 +115,15 @@
     "Parking accessible en fauteuil roulant"
   ],
   "lien_google": "https://maps.google.com/?cid=3087893161754615390&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
-  "site_web_gmb": null,
+  "site_web_gmb": "https://andpro.fr/vitrine-locale/garages-automobile/joue-les-tours/garage-auto-jocondien/",
   "statut": "publiee",
   "backlink": {
-    "etat": "absent",
-    "premiere_detection": null,
-    "derniere_detection": null,
-    "derniere_verification": "2026-11-06T12:53:59.257Z",
-    "echecs": 1,
-    "url_detectee": null
+    "etat": "present",
+    "premiere_detection": "2026-11-26T15:04:58.563Z",
+    "derniere_detection": "2026-11-26T15:04:58.563Z",
+    "derniere_verification": "2026-11-26T15:04:58.563Z",
+    "echecs": 0,
+    "url_detectee": "https://andpro.fr/vitrine-locale/garages-automobile/joue-les-tours/garage-auto-jocondien/"
   },
   "suggestion": {
     "etat": "en-attente",
@@ -135,7 +135,7 @@
   "dates": {
     "collecte": "2026-11-06",
     "publication": "2026-11-06",
-    "maj": "2026-11-06"
+    "maj": "2026-11-26"
   },
   "source": "google-places",
   "avis_detail": {
@@ -274,12 +274,12 @@
   "statut_google": "OPERATIONAL",
   "audience": {
     "clics": 7,
-    "impressions": 343,
-    "position": 2.8,
+    "impressions": 398,
+    "position": 2.7,
     "fenetreJours": 90,
     "clicsRecents": 7,
     "fenetreRecenteJours": 28,
     "source": "search-console",
-    "date": "2026-11-25"
+    "date": "2026-11-26"
   }
 }
