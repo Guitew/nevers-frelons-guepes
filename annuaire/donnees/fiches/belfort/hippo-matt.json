@@ -1,0 +1,260 @@
+{
+  "id": "ChIJF6JHpoE8kkcR0R6WE6rtAhg",
+  "slug": "hippo-matt",
+  "nom": "HIPPO-MATT",
+  "categorie": "garages-automobile",
+  "categorie_gmb": "Station de lavage automobile",
+  "type_principal": "car_wash",
+  "types": [
+    "car_wash",
+    "point_of_interest",
+    "service",
+    "establishment"
+  ],
+  "ville": "Belfort",
+  "ville_slug": "belfort",
+  "adresse": {
+    "rue": "52 Avenue du Général Leclerc",
+    "code_postal": "90000",
+    "departement": "90",
+    "region": "Bourgogne-Franche-Comté",
+    "pays": "France",
+    "complete": "52 Av. du Général Leclerc, 90000 Belfort"
+  },
+  "telephone": "",
+  "geo": {
+    "latitude": 47.6367747,
+    "longitude": 6.8398968
+  },
+  "note": 3.8,
+  "avis": 58,
+  "horaires": [
+    {
+      "jour": 0,
+      "ferme": false,
+      "creneaux": [
+        [
+          "07:00",
+          "20:00"
+        ]
+      ]
+    },
+    {
+      "jour": 1,
+      "ferme": false,
+      "creneaux": [
+        [
+          "07:00",
+          "20:00"
+        ]
+      ]
+    },
+    {
+      "jour": 2,
+      "ferme": false,
+      "creneaux": [
+        [
+          "07:00",
+          "20:00"
+        ]
+      ]
+    },
+    {
+      "jour": 3,
+      "ferme": false,
+      "creneaux": [
+        [
+          "07:00",
+          "20:00"
+        ]
+      ]
+    },
+    {
+      "jour": 4,
+      "ferme": false,
+      "creneaux": [
+        [
+          "07:00",
+          "20:00"
+        ]
+      ]
+    },
+    {
+      "jour": 5,
+      "ferme": false,
+      "creneaux": [
+        [
+          "07:00",
+          "20:00"
+        ]
+      ]
+    },
+    {
+      "jour": 6,
+      "ferme": false,
+      "creneaux": [
+        [
+          "07:00",
+          "20:00"
+        ]
+      ]
+    }
+  ],
+  "attributs": [],
+  "lien_google": "https://maps.google.com/?cid=1730206521592520401&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
+  "site_web_gmb": null,
+  "statut": "publiee",
+  "backlink": {
+    "etat": "absent",
+    "premiere_detection": null,
+    "derniere_detection": null,
+    "derniere_verification": "2026-11-27T14:58:02.374Z",
+    "echecs": 1,
+    "url_detectee": null
+  },
+  "suggestion": {
+    "etat": "en-attente",
+    "date_soumission": null,
+    "tentatives": 0,
+    "date_email": "2026-11-27"
+  },
+  "retrait": null,
+  "dates": {
+    "collecte": "2026-11-27",
+    "publication": "2026-11-27",
+    "maj": "2026-11-27"
+  },
+  "source": "google-places",
+  "avis_detail": {
+    "releve": "2026-11-27",
+    "liste": [
+      {
+        "note": 2,
+        "texte": "Le lavage automatique m'a casse le essuie glace arriere... Et n'a Pas un telephone ou appeler pour reclamer",
+        "langue": "fr",
+        "date": "2026-05-05",
+        "auteur": "Cristina Mateos Mayorga",
+        "auteur_lien": "https://www.google.com/maps/contrib/110013703035195603844/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT21KaWVXd3lZazVtZDJrekxXdGtiV1EzTlcxQlNXYxAB!2m1!1s0x47923c81a647a217:0x1802edaa13961ed1"
+      },
+      {
+        "note": 1,
+        "texte": "Une honte ! ! ! La pire, laverie auto de tous les temps, buse bouchée , pas de produit cire , il faut ce dépêcher car vous avez qu’une minute pour 2 euros !!!!! Au bout d’un moment il faut arrêter de prendre les utilisateurs pour des jambons , aucuns entretient dans cette machine .",
+        "langue": "fr",
+        "date": "2025-08-29",
+        "auteur": "Cedric Muller",
+        "auteur_lien": "https://www.google.com/maps/contrib/118362380364895688411/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT21SUVNVRnBaa1F4UVVWbGVIQkxVVlozV1ZRMlFuYxAB!2m1!1s0x47923c81a647a217:0x1802edaa13961ed1"
+      },
+      {
+        "note": 1,
+        "texte": "Vraiment pas top. L'aspirateur pas du tout puissant. Quand au côté lavage, le système de rotation pour que les jets ne s'emmêlent pas fonctionne mal ce qui fait que j'ai galéré à tourner autour de la voiture j'ai du forcer sur le système et du coup les jets ont pas arrêté de frotter sur la voiture elle est ressorti tout aussi sale.\n(Oui parce que les jets n'étaient pas forcément propre non plus)\nEnfin bref, d'habitude je vais à Valdoie ou Totale Energie vers Lelcerc Belfort ils sont super. Je vais y retourner. Au moins je dépenserai pas mon argent inutilement",
+        "langue": "fr",
+        "date": "2025-04-10",
+        "auteur": "Hujeux Karin",
+        "auteur_lien": "https://www.google.com/maps/contrib/116367255697571788698/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnTURJZ1pDeVdnEAE!2m1!1s0x47923c81a647a217:0x1802edaa13961ed1"
+      },
+      {
+        "note": 1,
+        "texte": "Aspirateur pas du tout puissant ! D'ailleurs, il manquait l'embout de l'aspirateur j'ai du prendre difficilement celui d'à côté. Concernant le lavage au jet, haute pression ??? Mdr. Même en mettant 4 e la voiture à toujours des traces. Pas assez de produits , mousse pas du tout, le balai lavant est tellement vieux qu'il perd ses poils. Aller voir ailleurs, glacis etc...\nCdt.",
+        "langue": "fr",
+        "date": "2024-05-10",
+        "auteur": "Myma K",
+        "auteur_lien": "https://www.google.com/maps/contrib/110600086393690843440/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUNUcUxlTTJBRRAB!2m1!1s0x47923c81a647a217:0x1802edaa13961ed1"
+      },
+      {
+        "note": 1,
+        "texte": "Lavage automatique pas de tout efficace la voiture a été sale un peu partout. Séchage après le lavage pas du tout efficace la voiture est resté complètement mouillé",
+        "langue": "fr",
+        "date": "2023-12-30",
+        "auteur": "Zlatan Babic",
+        "auteur_lien": "https://www.google.com/maps/contrib/115168165286210474484/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUMxdnZTTDBnRRAB!2m1!1s0x47923c81a647a217:0x1802edaa13961ed1"
+      }
+    ]
+  },
+  "services": {
+    "releve": "2026-11-27",
+    "options": {},
+    "paiement": [
+      "carte bancaire",
+      "carte de débit"
+    ],
+    "parking": []
+  },
+  "redaction": {
+    "version": 2,
+    "titre": "HIPPO-MATT — Garage et automobile à Belfort",
+    "meta_titre": "HIPPO-MATT à Belfort : horaires, avis",
+    "meta_description": "HIPPO-MATT, garage et automobile à Belfort : horaires d'ouverture, note Google 3,8/5 (58 avis), adresse et itinéraire.",
+    "chapo": "Cette fiche présente HIPPO-MATT, un garage et automobile au 52 Avenue du Général Leclerc, à Belfort. Ouvert sept jours sur sept au relevé du 27 novembre 2026. Note Google : 3,8 sur 5 pour 58 avis.",
+    "sections": [
+      {
+        "id": "presentation",
+        "titre": "HIPPO-MATT en quelques mots",
+        "paragraphes": [
+          "Sur Google, l'établissement est classé « Station de lavage automobile », dans notre rubrique Garage et automobile.",
+          "D'après le relevé du 27 novembre 2026, l'établissement est ouvert sept jours sur sept. Le détail jour par jour figure plus bas."
+        ]
+      },
+      {
+        "id": "prestations",
+        "titre": "Services et équipements de HIPPO-MATT",
+        "paragraphes": [
+          "Moyens de paiement déclarés : carte bancaire et carte de débit.",
+          "Ces indications sont déclarées par l'établissement sur sa fiche Google (relevé du 27 novembre 2026)."
+        ]
+      },
+      {
+        "id": "acces",
+        "titre": "Adresse et accès",
+        "paragraphes": [
+          "L'établissement est situé au 52 Avenue du Général Leclerc, 90000 Belfort.",
+          "Coordonnées GPS : 47.63677, 6.83990. Le bouton Itinéraire de cette page ouvre la navigation."
+        ]
+      },
+      {
+        "id": "contact",
+        "titre": "Contacter HIPPO-MATT",
+        "paragraphes": [
+          "Aucun numéro de téléphone n'est déclaré sur la fiche Google de l'établissement : le contact se fait sur place, aux horaires indiqués."
+        ]
+      },
+      {
+        "id": "avis",
+        "titre": "La réputation de HIPPO-MATT",
+        "paragraphes": [
+          "Note de 3,8 sur 5 pour 58 avis Google au relevé du 27 novembre 2026. Les avis les plus parlants sont compilés ci-dessous, avec un lien vers la fiche d'origine."
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "q": "Quels sont les horaires de HIPPO-MATT ?",
+        "r": "Au relevé du 27 novembre 2026, HIPPO-MATT était ouvert sept jours sur sept. Dans le détail — lundi : de 7 h à 20 h ; mardi : de 7 h à 20 h ; mercredi : de 7 h à 20 h ; jeudi : de 7 h à 20 h ; vendredi : de 7 h à 20 h ; samedi : de 7 h à 20 h ; dimanche : de 7 h à 20 h. Ces horaires peuvent changer : un appel préalable reste conseillé."
+      },
+      {
+        "q": "HIPPO-MATT est-il ouvert le dimanche ?",
+        "r": "Oui : le dimanche, HIPPO-MATT est ouvert de 7 h à 20 h (horaires relevés le 27 novembre 2026)."
+      },
+      {
+        "q": "Où se trouve HIPPO-MATT ?",
+        "r": "HIPPO-MATT se trouve 52 Av. du Général Leclerc, 90000 Belfort. Un lien d'itinéraire est disponible sur cette page."
+      }
+    ],
+    "genere_le": "2026-11-27"
+  },
+  "statut_google": "OPERATIONAL",
+  "audience": {
+    "clics": 0,
+    "impressions": 0,
+    "position": null,
+    "fenetreJours": 90,
+    "clicsRecents": 0,
+    "fenetreRecenteJours": 28,
+    "source": "search-console",
+    "date": "2026-11-27"
+  }
+}

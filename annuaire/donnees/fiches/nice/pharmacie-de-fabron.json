@@ -1,0 +1,275 @@
+{
+  "id": "ChIJGUV_ykPQzRIREMo9LwniXw0",
+  "slug": "pharmacie-de-fabron",
+  "nom": "Pharmacie de Fabron",
+  "categorie": "pharmacies-opticiens",
+  "categorie_gmb": "Pharmacie",
+  "type_principal": "pharmacy",
+  "types": [
+    "pharmacy",
+    "health",
+    "point_of_interest",
+    "store",
+    "establishment"
+  ],
+  "ville": "Nice",
+  "ville_slug": "nice",
+  "adresse": {
+    "rue": "54 Avenue de la Californie",
+    "code_postal": "06200",
+    "departement": "06",
+    "region": "Provence-Alpes-Côte d'Azur",
+    "pays": "France",
+    "complete": "54 Av. de la Californie, 06200 Nice"
+  },
+  "telephone": "04 93 86 52 67",
+  "geo": {
+    "latitude": 43.689404599999996,
+    "longitude": 7.240701700000001
+  },
+  "note": 3.7,
+  "avis": 98,
+  "horaires": [
+    {
+      "jour": 0,
+      "ferme": false,
+      "creneaux": [
+        [
+          "08:30",
+          "19:30"
+        ]
+      ]
+    },
+    {
+      "jour": 1,
+      "ferme": false,
+      "creneaux": [
+        [
+          "08:30",
+          "19:30"
+        ]
+      ]
+    },
+    {
+      "jour": 2,
+      "ferme": false,
+      "creneaux": [
+        [
+          "08:30",
+          "19:30"
+        ]
+      ]
+    },
+    {
+      "jour": 3,
+      "ferme": false,
+      "creneaux": [
+        [
+          "08:30",
+          "19:30"
+        ]
+      ]
+    },
+    {
+      "jour": 4,
+      "ferme": false,
+      "creneaux": [
+        [
+          "08:30",
+          "19:30"
+        ]
+      ]
+    },
+    {
+      "jour": 5,
+      "ferme": false,
+      "creneaux": [
+        [
+          "08:30",
+          "19:30"
+        ]
+      ]
+    },
+    {
+      "jour": 6,
+      "ferme": true,
+      "creneaux": []
+    }
+  ],
+  "attributs": [
+    "Entrée accessible en fauteuil roulant",
+    "Parking accessible en fauteuil roulant"
+  ],
+  "lien_google": "https://maps.google.com/?cid=963737374355737104&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
+  "site_web_gmb": null,
+  "statut": "publiee",
+  "backlink": {
+    "etat": "absent",
+    "premiere_detection": null,
+    "derniere_detection": null,
+    "derniere_verification": "2026-11-27T14:58:02.374Z",
+    "echecs": 1,
+    "url_detectee": null
+  },
+  "suggestion": {
+    "etat": "en-attente",
+    "date_soumission": null,
+    "tentatives": 0,
+    "date_email": "2026-11-27"
+  },
+  "retrait": null,
+  "dates": {
+    "collecte": "2026-11-27",
+    "publication": "2026-11-27",
+    "maj": "2026-11-27"
+  },
+  "source": "google-places",
+  "avis_detail": {
+    "releve": "2026-11-27",
+    "liste": [
+      {
+        "note": 5,
+        "texte": "N'étant pas de Nice nous allons presque tous les mois à cette pharmacie. Le responsable et toute l'équipe sont très professionnels, serviables et accueillants.\nLes locaux sont très propres.\nJe recommande.",
+        "langue": "fr",
+        "date": "2026-09-19",
+        "auteur": "Paul Paolini",
+        "auteur_lien": "https://www.google.com/maps/contrib/106601760064561664410/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT21SMkxXUXpYMjFIYkd0U1kzaEpaVzkwVld4M1VXYxAB!2m1!1s0x12cdd043ca7f4519:0xd5fe2092f3dca10"
+      },
+      {
+        "note": 5,
+        "texte": "Bel accueil , en revanche petite pharmacie pas beaucoup de produits de compléments alimentaires ou soins visage  . Parfois pas super bien fréquenté devant la pharmacie ..",
+        "langue": "fr",
+        "date": "2026-08-12",
+        "auteur": "Mei Mei",
+        "auteur_lien": "https://www.google.com/maps/contrib/109719716801326293693/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2w5Q1ExYzNiVFpyVkcwelEzZ3pZMW80WkZBeVgyYxAB!2m1!1s0x12cdd043ca7f4519:0xd5fe2092f3dca10"
+      },
+      {
+        "note": 5,
+        "texte": "Je suis arrivée un peu paniquée et inquiète, j’ai eu un conseil au top. Petite pharmacie de quartier impeccable, la pharmacienne a pris le temps pour mon dossier et m’a plus que rassurée. Merci encore pour votre aide précieuse qui nous permet de passer un WE serein sur notre lieu de vacances.",
+        "langue": "fr",
+        "date": "2026-08-01",
+        "auteur": "Céline Rubi",
+        "auteur_lien": "https://www.google.com/maps/contrib/116465855202007880561/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2pWVmRHaDNjRWhrUlhGYU1uQldUalJITkZsVWRuYxAB!2m1!1s0x12cdd043ca7f4519:0xd5fe2092f3dca10"
+      },
+      {
+        "note": 5,
+        "texte": "Déjà meilleurs vœux à toute cette magnifique équipe 🙌🌹🤗\nVraiment une patronne top compréhensive, à l’écoute, son équipe est tout aussi incroyable, prend le temps, toujours à l’écoute, je me sens tellement bien à chaque fois que je vais la-bas. C’est une équipe que j’adore à chaque fois que j’y vais et je les remercie pour leurs conseils, et leur écoute à chaque fois et leur gentillesse extrême, vraiment  🙌🌹🤗🌹 Je vous souhaite autant de réussite en cette année que la précédente, même encore plus. Merci pour tout ce que vous faites pour chaque client et pour votre patience.\nMlle Setiti Sandra qui vous adore toutes 🌹🌹🌹🤗🤗🙌🍀",
+        "langue": "fr",
+        "date": "2026-01-08",
+        "auteur": "Sandra",
+        "auteur_lien": "https://www.google.com/maps/contrib/111596493416396176765/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2w5dVgzRlJVR0p6VDFKUWFWUmhOemxVYTNGaGExRRAB!2m1!1s0x12cdd043ca7f4519:0xd5fe2092f3dca10"
+      },
+      {
+        "note": 1,
+        "texte": "Pharmacie à fuir! Refus de faire passer une personne titulaire d’une carte d’invalidité en priorité, on vous jette limite une chaise à la figure et on vous demande de vous asseoir. La dame, certainement la responsable vous prend de haut et vous parle comme le dernier des cons, on se fait limite engueuler car elle n’a pas le produit demandé. Raciste ou pas je ne le saurai pas mais ce comportement est inacceptable. Je suis resté car c’était une urgence malheureusement sinon je serai évidemment partit. Quand on voit les autres avis on comprend que cette pharmacie se complaît à négliger sa clientèle, déplorable pour une profession dans le domaine de la santé.",
+        "langue": "fr",
+        "date": "2025-11-25",
+        "auteur": "Nab Gho",
+        "auteur_lien": "https://www.google.com/maps/contrib/107716956392896845841/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25oV2FXMUJMVzQ0UlVkNFNFMVBhM05STUc5VFMxRRAB!2m1!1s0x12cdd043ca7f4519:0xd5fe2092f3dca10"
+      }
+    ]
+  },
+  "services": {
+    "releve": "2026-11-27",
+    "options": {
+      "delivery": true
+    },
+    "paiement": [
+      "carte bancaire",
+      "carte de débit",
+      "paiement sans contact"
+    ],
+    "parking": []
+  },
+  "redaction": {
+    "version": 2,
+    "titre": "Pharmacie de Fabron — Pharmacie ou opticien à Nice",
+    "meta_titre": "Pharmacie de Fabron à Nice : horaires, avis, téléphone",
+    "meta_description": "Pharmacie de Fabron, pharmacie ou opticien à Nice : horaires d'ouverture, note Google 3,7/5 (98 avis), téléphone, adresse et itinéraire.",
+    "chapo": "Pharmacie de Fabron est une pharmacie ou opticien au 54 Avenue de la Californie, à Nice. Ouvert tous les jours sauf le dimanche au relevé du 27 novembre 2026. Téléphone : 04 93 86 52 67. Note Google : 3,7 sur 5 pour 98 avis.",
+    "sections": [
+      {
+        "id": "presentation",
+        "titre": "Pharmacie de Fabron en quelques mots",
+        "paragraphes": [
+          "Sur Google, l'établissement est classé « Pharmacie », dans notre rubrique Pharmacie ou opticien.",
+          "D'après le relevé du 27 novembre 2026, l'établissement est ouvert tous les jours sauf le dimanche. Le détail jour par jour figure plus bas."
+        ]
+      },
+      {
+        "id": "prestations",
+        "titre": "Services et équipements de Pharmacie de Fabron",
+        "paragraphes": [
+          "Proposé : livraison.",
+          "Moyens de paiement déclarés : carte bancaire, carte de débit et paiement sans contact.",
+          "Ces indications sont déclarées par l'établissement sur sa fiche Google (relevé du 27 novembre 2026)."
+        ]
+      },
+      {
+        "id": "acces",
+        "titre": "Adresse et accès",
+        "paragraphes": [
+          "L'établissement est situé au 54 Avenue de la Californie, 06200 Nice.",
+          "Coordonnées GPS : 43.68940, 7.24070. Le bouton Itinéraire de cette page ouvre la navigation."
+        ]
+      },
+      {
+        "id": "contact",
+        "titre": "Contacter Pharmacie de Fabron",
+        "paragraphes": [
+          "Le contact se fait par téléphone au 04 93 86 52 67, ou directement sur place aux horaires d'ouverture."
+        ]
+      },
+      {
+        "id": "avis",
+        "titre": "La réputation de Pharmacie de Fabron",
+        "paragraphes": [
+          "Note de 3,7 sur 5 pour 98 avis Google au relevé du 27 novembre 2026. Les avis les plus parlants sont compilés ci-dessous, avec un lien vers la fiche d'origine."
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "q": "Quels sont les horaires de Pharmacie de Fabron ?",
+        "r": "Au relevé du 27 novembre 2026, Pharmacie de Fabron était ouvert tous les jours sauf le dimanche. Dans le détail — lundi : de 8 h 30 à 19 h 30 ; mardi : de 8 h 30 à 19 h 30 ; mercredi : de 8 h 30 à 19 h 30 ; jeudi : de 8 h 30 à 19 h 30 ; vendredi : de 8 h 30 à 19 h 30 ; samedi : de 8 h 30 à 19 h 30 ; dimanche : fermé. Ces horaires peuvent changer : un appel préalable reste conseillé."
+      },
+      {
+        "q": "Pharmacie de Fabron est-il ouvert le dimanche ?",
+        "r": "Non : d'après les horaires relevés le 27 novembre 2026, Pharmacie de Fabron est fermé le dimanche."
+      },
+      {
+        "q": "Où se trouve Pharmacie de Fabron ?",
+        "r": "Pharmacie de Fabron se trouve 54 Av. de la Californie, 06200 Nice. Un lien d'itinéraire est disponible sur cette page."
+      },
+      {
+        "q": "Comment contacter Pharmacie de Fabron ?",
+        "r": "Par téléphone au 04 93 86 52 67, ou directement sur place aux heures d'ouverture."
+      },
+      {
+        "q": "Pharmacie de Fabron propose-t-il la vente à emporter ou la livraison ?",
+        "r": "D'après sa fiche Google (relevé du 27 novembre 2026) — livraison : oui."
+      },
+      {
+        "q": "Pharmacie de Fabron est-il accessible aux personnes à mobilité réduite ?",
+        "r": "La fiche Google de l'établissement mentionne : « Entrée accessible en fauteuil roulant ». Cette information est déclarative ; en cas de doute, vérifiez par téléphone."
+      }
+    ],
+    "genere_le": "2026-11-27"
+  },
+  "statut_google": "OPERATIONAL",
+  "audience": {
+    "clics": 0,
+    "impressions": 0,
+    "position": null,
+    "fenetreJours": 90,
+    "clicsRecents": 0,
+    "fenetreRecenteJours": 28,
+    "source": "search-console",
+    "date": "2026-11-27"
+  }
+}

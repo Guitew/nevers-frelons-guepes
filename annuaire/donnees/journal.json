@@ -1,5 +1,134 @@
 [
   {
+    "date": "2026-11-27T14:58:19.737Z",
+    "type": "suggestion-soumise",
+    "id": "ChIJB7I5iNLByRIR13rT6pg_9Ug",
+    "nom": "Moutchou",
+    "url": "/commerces-alimentation/marseille/moutchou/"
+  },
+  {
+    "date": "2026-11-27T14:58:19.684Z",
+    "type": "suggestion-soumise",
+    "id": "ChIJD6hG1r195kcRceecrjg0Usc",
+    "nom": "Le Marché d’à côté Viroflay",
+    "url": "/commerces-alimentation/viroflay/le-marche-d-a-cote-viroflay/"
+  },
+  {
+    "date": "2026-11-27T14:58:19.625Z",
+    "type": "suggestion-soumise",
+    "id": "ChIJuSVXQC1DCkgRHSO5W6PcLLA",
+    "nom": "Excel Wash",
+    "url": "/garages-automobile/saint-contest/excel-wash/"
+  },
+  {
+    "date": "2026-11-27T14:58:19.562Z",
+    "type": "suggestion-soumise",
+    "id": "ChIJNy2fVsXdlEcRdIS-uxuP0VY",
+    "nom": "Centre Médico Social",
+    "url": "/assurance-banque-finance/metz/centre-medico-social/"
+  },
+  {
+    "date": "2026-11-27T14:58:02.482Z",
+    "type": "backlink-absent",
+    "id": "ChIJF6JHpoE8kkcR0R6WE6rtAhg",
+    "nom": "HIPPO-MATT",
+    "url": null,
+    "precedent": "en-attente"
+  },
+  {
+    "date": "2026-11-27T14:58:02.531Z",
+    "type": "backlink-absent",
+    "id": "ChIJGUV_ykPQzRIREMo9LwniXw0",
+    "nom": "Pharmacie de Fabron",
+    "url": null,
+    "precedent": "en-attente"
+  },
+  {
+    "date": "2026-11-27T14:58:02.578Z",
+    "type": "backlink-absent",
+    "id": "ChIJc7w9wXDRVQ0Rzp6zCb7ePIs",
+    "nom": "Pharmacie Saint Jean d'Août",
+    "url": null,
+    "precedent": "en-attente"
+  },
+  {
+    "date": "2026-11-27T14:58:02.624Z",
+    "type": "backlink-absent",
+    "id": "ChIJrVNKU2uzqxIR-1xBYO17ax4",
+    "nom": "Stade René Lajunie",
+    "url": null,
+    "precedent": "en-attente"
+  },
+  {
+    "date": "2026-11-27T14:58:02.698Z",
+    "type": "backlink-absent",
+    "id": "ChIJ1ei8R-0d8UcRqweHjb0Cw2U",
+    "nom": "Tradition Nivault",
+    "url": null,
+    "precedent": "en-attente"
+  },
+  {
+    "date": "2026-11-27T14:58:03.270Z",
+    "type": "backlink-present",
+    "id": "ChIJ-7ZQYfL67EcRC6yJQ5mJtOk",
+    "nom": "AB.ELECTRICITE",
+    "url": "https://andpro.fr/vitrine-locale/electricite/villiers-le-sec/ab-electricite/",
+    "precedent": "absent"
+  },
+  {
+    "date": "2026-11-27T14:58:03.496Z",
+    "type": "backlink-present",
+    "id": "ChIJHcW-YUydqRIR06UmMXBPwO8",
+    "nom": "La Villa des Pains - Boulangerie Artisanale",
+    "url": "https://andpro.fr/vitrine-locale/boulangeries-patisseries/auch/la-villa-des-pains-boulangerie-artisanale/",
+    "precedent": "absent"
+  },
+  {
+    "date": "2026-11-27T14:58:01.815Z",
+    "type": "publication",
+    "id": "ChIJrVNKU2uzqxIR-1xBYO17ax4",
+    "nom": "Stade René Lajunie",
+    "url": "/loisirs-sport-culture/bon-encontre/stade-rene-lajunie/",
+    "categorie": "loisirs-sport-culture",
+    "source": "google-places"
+  },
+  {
+    "date": "2026-11-27T14:58:01.912Z",
+    "type": "publication",
+    "id": "ChIJGUV_ykPQzRIREMo9LwniXw0",
+    "nom": "Pharmacie de Fabron",
+    "url": "/pharmacies-opticiens/nice/pharmacie-de-fabron/",
+    "categorie": "pharmacies-opticiens",
+    "source": "google-places"
+  },
+  {
+    "date": "2026-11-27T14:58:02.004Z",
+    "type": "publication",
+    "id": "ChIJ1ei8R-0d8UcRqweHjb0Cw2U",
+    "nom": "Tradition Nivault",
+    "url": "/boulangeries-patisseries/neuvy/tradition-nivault/",
+    "categorie": "boulangeries-patisseries",
+    "source": "google-places"
+  },
+  {
+    "date": "2026-11-27T14:58:02.112Z",
+    "type": "publication",
+    "id": "ChIJF6JHpoE8kkcR0R6WE6rtAhg",
+    "nom": "HIPPO-MATT",
+    "url": "/garages-automobile/belfort/hippo-matt/",
+    "categorie": "garages-automobile",
+    "source": "google-places"
+  },
+  {
+    "date": "2026-11-27T14:58:02.226Z",
+    "type": "publication",
+    "id": "ChIJc7w9wXDRVQ0Rzp6zCb7ePIs",
+    "nom": "Pharmacie Saint Jean d'Août",
+    "url": "/pharmacies-opticiens/mont-de-marsan/pharmacie-saint-jean-d-aout/",
+    "categorie": "pharmacies-opticiens",
+    "source": "google-places"
+  },
+  {
     "date": "2026-11-26T15:05:09.989Z",
     "type": "suggestion-soumise",
     "id": "ChIJt3FqElBv5kcRb2anog-J2iE",

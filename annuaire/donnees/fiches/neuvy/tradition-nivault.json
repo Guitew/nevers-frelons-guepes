@@ -1,0 +1,295 @@
+{
+  "id": "ChIJ1ei8R-0d8UcRqweHjb0Cw2U",
+  "slug": "tradition-nivault",
+  "nom": "Tradition Nivault",
+  "categorie": "boulangeries-patisseries",
+  "categorie_gmb": "Boulangerie",
+  "type_principal": "bakery",
+  "types": [
+    "bakery",
+    "food_store",
+    "food",
+    "point_of_interest",
+    "store",
+    "establishment"
+  ],
+  "ville": "Neuvy",
+  "ville_slug": "neuvy",
+  "adresse": {
+    "rue": "Rue Saint-Vincent",
+    "code_postal": "03000",
+    "departement": "03",
+    "region": "Auvergne-Rhône-Alpes",
+    "pays": "France",
+    "complete": "Rue Saint-Vincent, 03000 Neuvy"
+  },
+  "telephone": "04 70 45 03 92",
+  "geo": {
+    "latitude": 46.5628393,
+    "longitude": 3.2897285
+  },
+  "note": 4.6,
+  "avis": 33,
+  "horaires": [
+    {
+      "jour": 0,
+      "ferme": true,
+      "creneaux": []
+    },
+    {
+      "jour": 1,
+      "ferme": false,
+      "creneaux": [
+        [
+          "07:30",
+          "12:30"
+        ],
+        [
+          "16:00",
+          "19:00"
+        ]
+      ]
+    },
+    {
+      "jour": 2,
+      "ferme": false,
+      "creneaux": [
+        [
+          "07:30",
+          "12:30"
+        ]
+      ]
+    },
+    {
+      "jour": 3,
+      "ferme": false,
+      "creneaux": [
+        [
+          "07:30",
+          "12:30"
+        ],
+        [
+          "16:00",
+          "19:00"
+        ]
+      ]
+    },
+    {
+      "jour": 4,
+      "ferme": false,
+      "creneaux": [
+        [
+          "07:30",
+          "12:30"
+        ],
+        [
+          "16:00",
+          "19:00"
+        ]
+      ]
+    },
+    {
+      "jour": 5,
+      "ferme": false,
+      "creneaux": [
+        [
+          "07:00",
+          "12:30"
+        ]
+      ]
+    },
+    {
+      "jour": 6,
+      "ferme": false,
+      "creneaux": [
+        [
+          "07:00",
+          "12:30"
+        ]
+      ]
+    }
+  ],
+  "attributs": [
+    "Entrée accessible en fauteuil roulant",
+    "Parking accessible en fauteuil roulant"
+  ],
+  "lien_google": "https://maps.google.com/?cid=7332707631435810731&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
+  "site_web_gmb": null,
+  "statut": "publiee",
+  "backlink": {
+    "etat": "absent",
+    "premiere_detection": null,
+    "derniere_detection": null,
+    "derniere_verification": "2026-11-27T14:58:02.374Z",
+    "echecs": 1,
+    "url_detectee": null
+  },
+  "suggestion": {
+    "etat": "en-attente",
+    "date_soumission": null,
+    "tentatives": 0,
+    "date_email": "2026-11-27"
+  },
+  "retrait": null,
+  "dates": {
+    "collecte": "2026-11-27",
+    "publication": "2026-11-27",
+    "maj": "2026-11-27"
+  },
+  "source": "google-places",
+  "avis_detail": {
+    "releve": "2026-11-27",
+    "liste": [
+      {
+        "note": 5,
+        "texte": "Très bon, du choix, serveuse hyper sympa et commerçante",
+        "langue": "fr",
+        "date": "2026-10-03",
+        "auteur": "Anto May",
+        "auteur_lien": "https://www.google.com/maps/contrib/113993880850518738663/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xFNFYyMHlkbkJhVkc1aGEzQnlPRUZ2ZHprNWFHYxAB!2m1!1s0x47f11ded47bce8d5:0x65c302bd8d8707ab"
+      },
+      {
+        "note": 5,
+        "texte": "Très bon pain au levain et autres. Et des prix raisonnables qui changent d'autres lieux.",
+        "langue": "fr",
+        "date": "2026-05-25",
+        "auteur": "Francois Martin",
+        "auteur_lien": "https://www.google.com/maps/contrib/100676313316676802946/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2s5bU5qSXliMmRRYzBoS1ZsVkxNMEZNVEVOc1NrRRAB!2m1!1s0x47f11ded47bce8d5:0x65c302bd8d8707ab"
+      },
+      {
+        "note": 5,
+        "texte": "Notre boulangerie préférée ! On a sollicité l’équipe pour une livraison de pain et viennoiseries cet été : accueil parfait, service irréprochable, super rapport qualité-prix et comme d’habitude : tout était délicieux. Mention particulière pour les mini-viennoiseries qu’on a adoré. Merci !!! 🙏",
+        "langue": "fr",
+        "date": "2025-09-16",
+        "auteur": "Anaëlle BAUER GRAD",
+        "auteur_lien": "https://www.google.com/maps/contrib/116848470522912159126/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2w5UWJtUlRTbmRPV1VvMGVXRkxhV3hpY1VvMllsRRAB!2m1!1s0x47f11ded47bce8d5:0x65c302bd8d8707ab"
+      },
+      {
+        "note": 5,
+        "texte": "Sollicitée pour un évènement festif, la boulangerie pâtisserie Nivault a réalisé une superbe pièce montée pour un prix défiant toute concurrence. Et succulente de surcroît. Nous recommandons les yeux fermés ! Et le pain était parfait.",
+        "langue": "fr",
+        "date": "2024-07-28",
+        "auteur": "Paul",
+        "auteur_lien": "https://www.google.com/maps/contrib/113800637474428258168/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUNiMGFMVFpnEAE!2m1!1s0x47f11ded47bce8d5:0x65c302bd8d8707ab"
+      },
+      {
+        "note": 5,
+        "texte": "Une superbe boulangerie pâtisserie traditionnelle qui propose de vrais régals et servie par une équipe des plus dynamique. Incontournable à Neuvy et Moulins. Allez-y les yeux fermés!!!",
+        "langue": "fr",
+        "date": "2023-05-19",
+        "auteur": "Ed WARD",
+        "auteur_lien": "https://www.google.com/maps/contrib/104431308446473662126/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUN4d2IzU2hBRRAB!2m1!1s0x47f11ded47bce8d5:0x65c302bd8d8707ab"
+      }
+    ]
+  },
+  "services": {
+    "releve": "2026-11-27",
+    "prix": "PRICE_LEVEL_INEXPENSIVE",
+    "options": {
+      "dineIn": false,
+      "delivery": false
+    },
+    "paiement": [
+      "carte bancaire",
+      "carte de débit",
+      "paiement sans contact"
+    ],
+    "parking": []
+  },
+  "redaction": {
+    "version": 2,
+    "titre": "Tradition Nivault — Boulangerie-pâtisserie à Neuvy",
+    "meta_titre": "Tradition Nivault à Neuvy : horaires, avis, téléphone",
+    "meta_description": "Tradition Nivault, boulangerie-pâtisserie à Neuvy : horaires d'ouverture, note Google 4,6/5 (33 avis), téléphone, adresse et itinéraire.",
+    "chapo": "Tradition Nivault est une boulangerie-pâtisserie au Rue Saint-Vincent, à Neuvy. Ouvert tous les jours sauf le lundi au relevé du 27 novembre 2026. Téléphone : 04 70 45 03 92. Note Google : 4,6 sur 5 pour 33 avis.",
+    "sections": [
+      {
+        "id": "presentation",
+        "titre": "Tradition Nivault en quelques mots",
+        "paragraphes": [
+          "Sur Google, l'établissement est classé « Boulangerie », dans notre rubrique Boulangerie-pâtisserie.",
+          "Niveau de prix indiqué sur la fiche Google : € (bon marché).",
+          "D'après le relevé du 27 novembre 2026, l'établissement est ouvert tous les jours sauf le lundi. Le détail jour par jour figure plus bas."
+        ]
+      },
+      {
+        "id": "prestations",
+        "titre": "Services et équipements de Tradition Nivault",
+        "paragraphes": [
+          "Non proposé selon la fiche Google : sur place et livraison.",
+          "Moyens de paiement déclarés : carte bancaire, carte de débit et paiement sans contact.",
+          "Ces indications sont déclarées par l'établissement sur sa fiche Google (relevé du 27 novembre 2026)."
+        ]
+      },
+      {
+        "id": "acces",
+        "titre": "Adresse et accès",
+        "paragraphes": [
+          "L'établissement est situé au Rue Saint-Vincent, 03000 Neuvy.",
+          "Coordonnées GPS : 46.56284, 3.28973. Le bouton Itinéraire de cette page ouvre la navigation."
+        ]
+      },
+      {
+        "id": "contact",
+        "titre": "Contacter Tradition Nivault",
+        "paragraphes": [
+          "Le contact se fait par téléphone au 04 70 45 03 92, ou directement sur place aux horaires d'ouverture."
+        ]
+      },
+      {
+        "id": "avis",
+        "titre": "La réputation de Tradition Nivault",
+        "paragraphes": [
+          "Note de 4,6 sur 5 pour 33 avis Google au relevé du 27 novembre 2026. Les avis les plus parlants sont compilés ci-dessous, avec un lien vers la fiche d'origine."
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "q": "Quels sont les horaires de Tradition Nivault ?",
+        "r": "Au relevé du 27 novembre 2026, Tradition Nivault était ouvert tous les jours sauf le lundi. Dans le détail — lundi : fermé ; mardi : de 7 h 30 à 12 h 30 et de 16 h à 19 h ; mercredi : de 7 h 30 à 12 h 30 ; jeudi : de 7 h 30 à 12 h 30 et de 16 h à 19 h ; vendredi : de 7 h 30 à 12 h 30 et de 16 h à 19 h ; samedi : de 7 h à 12 h 30 ; dimanche : de 7 h à 12 h 30. Ces horaires peuvent changer : un appel préalable reste conseillé."
+      },
+      {
+        "q": "Tradition Nivault est-il ouvert le dimanche ?",
+        "r": "Oui : le dimanche, Tradition Nivault est ouvert de 7 h à 12 h 30 (horaires relevés le 27 novembre 2026)."
+      },
+      {
+        "q": "Où se trouve Tradition Nivault ?",
+        "r": "Tradition Nivault se trouve Rue Saint-Vincent, 03000 Neuvy. Un lien d'itinéraire est disponible sur cette page."
+      },
+      {
+        "q": "Comment contacter Tradition Nivault ?",
+        "r": "Par téléphone au 04 70 45 03 92, ou directement sur place aux heures d'ouverture."
+      },
+      {
+        "q": "Tradition Nivault propose-t-il la vente à emporter ou la livraison ?",
+        "r": "D'après sa fiche Google (relevé du 27 novembre 2026) — livraison : non."
+      },
+      {
+        "q": "Quel est le niveau de prix de Tradition Nivault ?",
+        "r": "Google classe Tradition Nivault au niveau de prix € (bon marché), sur une échelle de € à €€€€ établie à partir des avis clients."
+      },
+      {
+        "q": "Tradition Nivault est-il accessible aux personnes à mobilité réduite ?",
+        "r": "La fiche Google de l'établissement mentionne : « Entrée accessible en fauteuil roulant ». Cette information est déclarative ; en cas de doute, vérifiez par téléphone."
+      }
+    ],
+    "genere_le": "2026-11-27"
+  },
+  "statut_google": "OPERATIONAL",
+  "audience": {
+    "clics": 0,
+    "impressions": 0,
+    "position": null,
+    "fenetreJours": 90,
+    "clicsRecents": 0,
+    "fenetreRecenteJours": 28,
+    "source": "search-console",
+    "date": "2026-11-27"
+  }
+}

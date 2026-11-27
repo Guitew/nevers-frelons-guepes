@@ -1,0 +1,292 @@
+{
+  "id": "ChIJc7w9wXDRVQ0Rzp6zCb7ePIs",
+  "slug": "pharmacie-saint-jean-d-aout",
+  "nom": "Pharmacie Saint Jean d'Août",
+  "categorie": "pharmacies-opticiens",
+  "categorie_gmb": "Pharmacie",
+  "type_principal": "pharmacy",
+  "types": [
+    "pharmacy",
+    "health",
+    "point_of_interest",
+    "store",
+    "establishment"
+  ],
+  "ville": "Mont-de-Marsan",
+  "ville_slug": "mont-de-marsan",
+  "adresse": {
+    "rue": "22 B Avenue de Sabres",
+    "code_postal": "40000",
+    "departement": "40",
+    "region": "Nouvelle-Aquitaine",
+    "pays": "France",
+    "complete": "22 B Av. de Sabres, 40000 Mont-de-Marsan"
+  },
+  "telephone": "05 58 75 80 10",
+  "geo": {
+    "latitude": 43.8987972,
+    "longitude": -0.5151901999999999
+  },
+  "note": 4.4,
+  "avis": 44,
+  "horaires": [
+    {
+      "jour": 0,
+      "ferme": false,
+      "creneaux": [
+        [
+          "09:00",
+          "12:30"
+        ],
+        [
+          "14:00",
+          "19:15"
+        ]
+      ]
+    },
+    {
+      "jour": 1,
+      "ferme": false,
+      "creneaux": [
+        [
+          "09:00",
+          "12:30"
+        ],
+        [
+          "14:00",
+          "19:15"
+        ]
+      ]
+    },
+    {
+      "jour": 2,
+      "ferme": false,
+      "creneaux": [
+        [
+          "09:00",
+          "12:30"
+        ],
+        [
+          "14:00",
+          "19:15"
+        ]
+      ]
+    },
+    {
+      "jour": 3,
+      "ferme": false,
+      "creneaux": [
+        [
+          "09:00",
+          "12:30"
+        ],
+        [
+          "14:00",
+          "19:15"
+        ]
+      ]
+    },
+    {
+      "jour": 4,
+      "ferme": false,
+      "creneaux": [
+        [
+          "09:00",
+          "12:30"
+        ],
+        [
+          "14:00",
+          "19:15"
+        ]
+      ]
+    },
+    {
+      "jour": 5,
+      "ferme": false,
+      "creneaux": [
+        [
+          "09:00",
+          "12:30"
+        ],
+        [
+          "14:00",
+          "19:00"
+        ]
+      ]
+    },
+    {
+      "jour": 6,
+      "ferme": true,
+      "creneaux": []
+    }
+  ],
+  "attributs": [
+    "Entrée accessible en fauteuil roulant",
+    "Parking accessible en fauteuil roulant"
+  ],
+  "lien_google": "https://maps.google.com/?cid=10033138977662541518&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
+  "site_web_gmb": null,
+  "statut": "publiee",
+  "backlink": {
+    "etat": "absent",
+    "premiere_detection": null,
+    "derniere_detection": null,
+    "derniere_verification": "2026-11-27T14:58:02.374Z",
+    "echecs": 1,
+    "url_detectee": null
+  },
+  "suggestion": {
+    "etat": "en-attente",
+    "date_soumission": null,
+    "tentatives": 0,
+    "date_email": "2026-11-27"
+  },
+  "retrait": null,
+  "dates": {
+    "collecte": "2026-11-27",
+    "publication": "2026-11-27",
+    "maj": "2026-11-27"
+  },
+  "source": "google-places",
+  "avis_detail": {
+    "releve": "2026-11-27",
+    "liste": [
+      {
+        "note": 5,
+        "texte": "Fidèle à cette pharmacie depuis l'arrivée de Mme Thouny, j'apprécie toujours l'accueil et les conseils de son équipe. La nouvelle pharmacienne est très compétente et très à l'écoute en plus de bien vacciner.",
+        "langue": "fr",
+        "date": "2026-11-20",
+        "auteur": "Chantal VOUDON",
+        "auteur_lien": "https://www.google.com/maps/contrib/109549852887181037484/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2tWVGNIRnhNbXhTYWxaT2MxOVlkRmhVVW5wUVluYxAB!2m1!1s0xd55d170c13dbc73:0x8b3cdebe09b39ece"
+      },
+      {
+        "note": 1,
+        "texte": "Je mets une étoile, car il est malheureusement impossible d’en mettre moins.\n\nPersonnel particulièrement désagréable, avec une attitude hautaine et un manque évident de considération envers les clients.\n\nJe me présente à la pharmacie avec un billet de banque légèrement froissé, mais ni déchiré ni illisible, et parfaitement utilisable. Malgré cela, la pharmacienne refuse de me délivrer mes médicaments tant que je ne règle pas par carte bancaire.\n\nJe trouve ce comportement totalement inadmissible et disproportionné. Plusieurs personnes à qui j’ai relaté cette situation ont d’ailleurs été tout aussi étonnées par cette réaction. Surtout en voyant que mon billet n'était en aucun cas abîmé.\n\nJe dispose d’une photo du billet et compte bien effectuer un signalement auprès des services compétents afin que cette situation soit examinée.\n\nIl est regrettable qu'une personne chargée d'accueillir et de conseiller des patients adopte une telle attitude. Le respect et le professionnalisme devraient pourtant être la base de ce métier.\n\nUne expérience particulièrement décevante.",
+        "langue": "fr",
+        "date": "2026-10-31",
+        "auteur": "va Va",
+        "auteur_lien": "https://www.google.com/maps/contrib/116209625646230718923/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2psWU9IWndTVEptVW5SUlQyMHpXbWRNTTJKeE9YYxAB!2m1!1s0xd55d170c13dbc73:0x8b3cdebe09b39ece"
+      },
+      {
+        "note": 5,
+        "texte": "Très belle pharmacie. Il est facile de se garer et le personnel et sympathique",
+        "langue": "fr",
+        "date": "2026-10-10",
+        "auteur": "cindy boyon",
+        "auteur_lien": "https://www.google.com/maps/contrib/110644515098789063968/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25KQmVEWkVWVzlMU21wemVsZFNZVW90VmtSYVgyYxAB!2m1!1s0xd55d170c13dbc73:0x8b3cdebe09b39ece"
+      },
+      {
+        "note": 2,
+        "texte": "Cliente satisfaite depuis des années. Les changements de personnel n'ont pas altérer la bonne prestation.\nJe tiens à préciser que jusqu'à lors l'équipe était agréable, mais depuis un certain temps une jeune grande personne qui sert au comptoir est vraiment pas commercante, entre erreur sur les dosages et quantité erronées préconisé par le médecin, mais surtout aucun sourire ni empathie. Vous avez vraiment le sentiment de venir la déranger à chaque fois que je tombe sur elle. J'espère que madame Thouny fera le nécessaire pour que la jeune personne soit beaucoup plus professionnelle.",
+        "langue": "fr",
+        "date": "2025-01-25",
+        "auteur": "Asmodée Desmond",
+        "auteur_lien": "https://www.google.com/maps/contrib/104203535619940036080/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSURfcGFETHVBRRAB!2m1!1s0xd55d170c13dbc73:0x8b3cdebe09b39ece"
+      },
+      {
+        "note": 5,
+        "texte": "J’habite proche et pourtant je n’ai jamais été trop tentée d’y aller, ayant l’habitude de ma pharmacie.\n\nFinalement cela quelques fois que j’y vais en pas longtemps pour mes petites et cette pharmacie est très bien!\n\nJe cherchais depuis un moment un grand biberon en verre que je ne trouvais nulle part, même sur internet. La dame a cherché, m’en a trouvé un, et me la commandé, le lendemain je l’avais. Merci à elle!",
+        "langue": "fr",
+        "date": "2022-02-18",
+        "auteur": "EMILIE GOURGUES PRIAM",
+        "auteur_lien": "https://www.google.com/maps/contrib/113363074188675082880/reviews",
+        "lien": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUNXNUxxYmZnEAE!2m1!1s0xd55d170c13dbc73:0x8b3cdebe09b39ece"
+      }
+    ]
+  },
+  "services": {
+    "releve": "2026-11-27",
+    "options": {},
+    "paiement": [
+      "carte bancaire",
+      "carte de débit",
+      "paiement sans contact"
+    ],
+    "parking": []
+  },
+  "redaction": {
+    "version": 2,
+    "titre": "Pharmacie Saint Jean d'Août — Pharmacie ou opticien à Mont-de-Marsan",
+    "meta_titre": "Pharmacie Saint Jean d'Août : horaires, avis, téléphone",
+    "meta_description": "Pharmacie Saint Jean d'Août, pharmacie ou opticien à Mont-de-Marsan : horaires d'ouverture, note Google 4,4/5 (44 avis), téléphone, adresse et itinéraire.",
+    "chapo": "Cette fiche présente Pharmacie Saint Jean d'Août, une pharmacie ou opticien au 22 B Avenue de Sabres, à Mont-de-Marsan. Ouvert tous les jours sauf le dimanche au relevé du 27 novembre 2026. Téléphone : 05 58 75 80 10. Note Google : 4,4 sur 5 pour 44 avis.",
+    "sections": [
+      {
+        "id": "presentation",
+        "titre": "Pharmacie Saint Jean d'Août en quelques mots",
+        "paragraphes": [
+          "Sur Google, l'établissement est classé « Pharmacie », dans notre rubrique Pharmacie ou opticien.",
+          "D'après le relevé du 27 novembre 2026, l'établissement est ouvert tous les jours sauf le dimanche. Le détail jour par jour figure plus bas."
+        ]
+      },
+      {
+        "id": "prestations",
+        "titre": "Services et équipements de Pharmacie Saint Jean d'Août",
+        "paragraphes": [
+          "Moyens de paiement déclarés : carte bancaire, carte de débit et paiement sans contact.",
+          "Ces indications sont déclarées par l'établissement sur sa fiche Google (relevé du 27 novembre 2026)."
+        ]
+      },
+      {
+        "id": "acces",
+        "titre": "Adresse et accès",
+        "paragraphes": [
+          "L'établissement est situé au 22 B Avenue de Sabres, 40000 Mont-de-Marsan.",
+          "Coordonnées GPS : 43.89880, -0.51519. Le bouton Itinéraire de cette page ouvre la navigation."
+        ]
+      },
+      {
+        "id": "contact",
+        "titre": "Contacter Pharmacie Saint Jean d'Août",
+        "paragraphes": [
+          "Le contact se fait par téléphone au 05 58 75 80 10, ou directement sur place aux horaires d'ouverture."
+        ]
+      },
+      {
+        "id": "avis",
+        "titre": "La réputation de Pharmacie Saint Jean d'Août",
+        "paragraphes": [
+          "Note de 4,4 sur 5 pour 44 avis Google au relevé du 27 novembre 2026. Les avis les plus parlants sont compilés ci-dessous, avec un lien vers la fiche d'origine."
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "q": "Quels sont les horaires de Pharmacie Saint Jean d'Août ?",
+        "r": "Au relevé du 27 novembre 2026, Pharmacie Saint Jean d'Août était ouvert tous les jours sauf le dimanche. Dans le détail — lundi : de 9 h à 12 h 30 et de 14 h à 19 h 15 ; mardi : de 9 h à 12 h 30 et de 14 h à 19 h 15 ; mercredi : de 9 h à 12 h 30 et de 14 h à 19 h 15 ; jeudi : de 9 h à 12 h 30 et de 14 h à 19 h 15 ; vendredi : de 9 h à 12 h 30 et de 14 h à 19 h 15 ; samedi : de 9 h à 12 h 30 et de 14 h à 19 h ; dimanche : fermé. Ces horaires peuvent changer : un appel préalable reste conseillé."
+      },
+      {
+        "q": "Pharmacie Saint Jean d'Août est-il ouvert le dimanche ?",
+        "r": "Non : d'après les horaires relevés le 27 novembre 2026, Pharmacie Saint Jean d'Août est fermé le dimanche."
+      },
+      {
+        "q": "Où se trouve Pharmacie Saint Jean d'Août ?",
+        "r": "Pharmacie Saint Jean d'Août se trouve 22 B Av. de Sabres, 40000 Mont-de-Marsan. Un lien d'itinéraire est disponible sur cette page."
+      },
+      {
+        "q": "Comment contacter Pharmacie Saint Jean d'Août ?",
+        "r": "Par téléphone au 05 58 75 80 10, ou directement sur place aux heures d'ouverture."
+      },
+      {
+        "q": "Pharmacie Saint Jean d'Août est-il accessible aux personnes à mobilité réduite ?",
+        "r": "La fiche Google de l'établissement mentionne : « Entrée accessible en fauteuil roulant ». Cette information est déclarative ; en cas de doute, vérifiez par téléphone."
+      }
+    ],
+    "genere_le": "2026-11-27"
+  },
+  "statut_google": "OPERATIONAL",
+  "audience": {
+    "clics": 0,
+    "impressions": 0,
+    "position": null,
+    "fenetreJours": 90,
+    "clicsRecents": 0,
+    "fenetreRecenteJours": 28,
+    "source": "search-console",
+    "date": "2026-11-27"
+  }
+}

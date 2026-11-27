@@ -110,15 +110,15 @@
     "Places assises accessibles en fauteuil roulant"
   ],
   "lien_google": "https://maps.google.com/?cid=17275895513872770515&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
-  "site_web_gmb": null,
+  "site_web_gmb": "https://andpro.fr/vitrine-locale/boulangeries-patisseries/auch/la-villa-des-pains-boulangerie-artisanale/",
   "statut": "publiee",
   "backlink": {
-    "etat": "absent",
-    "premiere_detection": null,
-    "derniere_detection": null,
-    "derniere_verification": "2026-11-07T11:41:17.663Z",
-    "echecs": 1,
-    "url_detectee": null
+    "etat": "present",
+    "premiere_detection": "2026-11-27T14:58:02.374Z",
+    "derniere_detection": "2026-11-27T14:58:02.374Z",
+    "derniere_verification": "2026-11-27T14:58:02.374Z",
+    "echecs": 0,
+    "url_detectee": "https://andpro.fr/vitrine-locale/boulangeries-patisseries/auch/la-villa-des-pains-boulangerie-artisanale/"
   },
   "suggestion": {
     "etat": "soumise",
@@ -130,7 +130,7 @@
   "dates": {
     "collecte": "2026-11-07",
     "publication": "2026-11-07",
-    "maj": "2026-11-08"
+    "maj": "2026-11-27"
   },
   "source": "google-places",
   "avis_detail": {
@@ -288,13 +288,13 @@
   },
   "statut_google": "OPERATIONAL",
   "audience": {
-    "clics": 6,
-    "impressions": 458,
-    "position": 4.6,
+    "clics": 7,
+    "impressions": 515,
+    "position": 4.4,
     "fenetreJours": 90,
-    "clicsRecents": 6,
+    "clicsRecents": 7,
     "fenetreRecenteJours": 28,
     "source": "search-console",
-    "date": "2026-11-26"
+    "date": "2026-11-27"
   }
 }
